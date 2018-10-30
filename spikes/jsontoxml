@@ -1,0 +1,28 @@
+"""
+il faut rajouter l'entete et una balise parent pour tous les fichiers
+"""
+
+from json import loads,load
+from dicttoxml import dicttoxml
+
+
+articles = []
+
+with open('frvikidia-180311-general.json') as f:
+    #merged_dict = load(f)
+     for line in f:
+         articles.append(loads(line))
+         #dictA = loads(line)
+         #merged_dict = {key: value for (key, value) in (dictA.items() or dictB.items())}
+         #dictB = merged_dict
+
+#xml = dicttoxml(articles,root=False)
+
+
+
+with open("vikidia.xml","wb") as file:
+
+    for article in articles:
+        file.write(dicttoxml(article,root=False))
+
+
