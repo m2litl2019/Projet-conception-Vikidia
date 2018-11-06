@@ -1,5 +1,6 @@
 from urllib.request import Request, urlopen
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, Comment
+import copy
 import re
 import datetime
 import random
@@ -14,10 +15,50 @@ def getLinks(articleUrl):
     webpage = urlopen(req)
     bsObj = BeautifulSoup(webpage,"lxml")
     print("<article title="+articleUrl+'" format=\"html\">')
-    print(str(bsObj.find("div", {"id": "bodyContent"})))
+    #print(str(bsObj.find("div", {"id": "bodyContent"})))
     #print(bsObj.find("div", {"id": "bodyContent"}).get_text()) ## pour n'avoir que le texte
-    print("</article>")
-    return bsObj.find("div", {"id" : "bodyContent"}).findAll("a", href=re.compile("^(/wiki/)((?!:).)*$"))
+    #print("</article>")
+
+    part = bsObj.find("div", {"id" : "mw-content-text"})
+
+    for div in part.findAll("div"): 
+        div.decompose()
+
+    for center in part.findAll("center"):
+        center.decompose()
+
+    for table in part.findAll("table"):
+        table.decompose()
+
+    for child in part.children:
+        if isinstance(child, Comment):
+            child.extract()
+
+    def replace_by_text(part, tag):
+        for child in part.findAll(tag):
+            child.insert_before(child.text)
+            child.decompose()
+        return part
+
+    replace_by_text(part, "a")
+    replace_by_text(part, "b")
+    replace_by_text(part, "i")
+    replace_by_text(part, "strong")
+    replace_by_text(part, "em")
+    replace_by_text(part, "u")
+
+    text = ''
+    for child in part.findAll("p"):
+        text += child.text
+
+    print(text)
+
+    webpage = urlopen(req)
+    bsObj = BeautifulSoup(webpage,"lxml")
+    links = bsObj.find("div", {"id" : "bodyContent"}).findAll("a", href=re.compile("^(/wiki/)((?!:).)*$"))
+    
+    return links
+
 #html = urlopen("https://fr.vikidia.org/wiki/Arbre")
 
 
