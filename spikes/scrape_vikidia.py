@@ -4,6 +4,7 @@ import copy
 import re
 import datetime
 import random
+import textstat
 
 """ recupere 1000 articles aleatoirement de vikidia et retourne TOUT ce qu'il trouve au format html (option texte seulement mise 
 en commentaire meme si elle renvoie des parties du texte pas pertinentes)"""
@@ -52,7 +53,9 @@ def getLinks(articleUrl):
         text += child.text
 
     print(text)
-
+    print('----')
+    print(textstat.flesch_reading_ease(text))
+    
     webpage = urlopen(req)
     bsObj = BeautifulSoup(webpage,"lxml")
     links = bsObj.find("div", {"id" : "bodyContent"}).findAll("a", href=re.compile("^(/wiki/)((?!:).)*$"))
