@@ -97,10 +97,8 @@ def dump():
     f.close()
 
 if __name__ == '__main__':
-    #dir_in = r"C:\Users\etudiant\Downloads\CorpusComparableTAL"
-    #dir_in = r"C:\Users\etudiant\Downloads\CorpusComparableTAL\vikidia"
-    #dir_in = r"C:\Users\etudiant\Downloads\CorpusComparableTAL\wikipedia"
-    dir_in = r"C:\Users\etudiant\Downloads\toto\wikipedia"
+    #dir_in = r".\corpusComparableWikiVikiTAL\wikipedia"
+    dir_in = r".\corpusComparableWikiVikiTAL\vikidia"
     file_names = os.listdir(dir_in)
     for fname in file_names:
         print('[INFO] Loading', fname)
@@ -133,7 +131,8 @@ if __name__ == '__main__':
         lemma_indistinct.append(words[key].lemma)
     lemma_indistinct = list(set(lemma_indistinct))
     print('Couverture =', len(in_brunet) / len(lemma_indistinct))
-    dump()
+    print('Total mots =', sum(words_count.values()))
+    #dump()
     exit()
 
 # http://joliciel-informatique.github.io/talismane/#tagset
