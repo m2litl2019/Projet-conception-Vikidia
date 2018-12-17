@@ -1,0 +1,1426 @@
+1	La	la	DET	DET	n=s|g=f	
+2	navette	navette	NC	NC	n=s|g=f	
+3	spatiale	spatial	ADJ	ADJ	n=s|g=f	
+4	Bourane	_	NPP	NPP		
+5	(	(	PONCT	PONCT		
+6	Бура́н	_	NPP	NPP		
+7	"	"	PONCT	PONCT		
+8	tempête	tempête	NC	NC	n=s|g=f	
+9	de	de	P	P		
+10	neige	neige	NC	NC	n=s|g=f	
+11	"	"	PONCT	PONCT		
+12	en	en	P	P		
+13	russe	russe	ADJ	ADJ	n=s	
+14	et	et	CC	CC		
+15	Buran	_	NPP	NPP		
+16	en	en	P	P		
+17	anglais	anglais	NC	NC	g=m	
+18	)	)	PONCT	PONCT		
+19	,	,	PONCT	PONCT		
+20	ou	ou	CC	CC		
+21	aussi	aussi	ADV	ADV		
+22	OK	_	NPP	NPP		
+23	-1.01	-1.01	NPP	NPP		
+24	,	,	PONCT	PONCT		
+25	est	être	V	V	n=s|t=P|p=3	
+26	la	la	DET	DET	n=s|g=f	
+27	première	premier	ADJ	ADJ	n=s|g=f	
+28	navette	navette	NC	NC	n=s|g=f	
+29	spatiale	spatial	ADJ	ADJ	n=s|g=f	
+30	russe	russe	ADJ	ADJ	n=s	
+31	.	.	PONCT	PONCT		
+
+1	C'	ce	CLS	CLS		
+2	est	être	V	V	n=s|t=P|p=3	
+3	la	la	DET	DET	n=s|g=f	
+4	navette	navette	NC	NC	n=s|g=f	
+5	la	la	DET	DET	n=s|g=f	
+6	plus	plus	ADV	ADV		
+7	connue	connaître	VPP	VPP	n=s|g=f|t=K	
+8	du	de	P+D	P+D	n=s|g=m	
+9	programme	programme	NC	NC	n=s|g=m	
+10	Bourane	_	NPP	NPP		
+11	car	car	CS	CS		
+12	c'	ce	CLS	CLS		
+13	est	être	V	V	n=s|t=P|p=3	
+14	la	la	DET	DET	n=s|g=f	
+15	seule	seul	ADJ	ADJ	n=s|g=f	
+16	du	de	P+D	P+D	n=s|g=m	
+17	programme	programme	NC	NC	n=s|g=m	
+18	qui	qui	PROREL	PROREL	n=s	
+19	ait	avoir	VS	VS	n=s|t=S|p=3	
+20	connu	connaître	VPP	VPP	n=s|g=m|t=K	
+21	l'	le	DET	DET	n=s	
+22	espace	espace	NC	NC	n=s	
+23	et	et	CC	CC		
+24	fait	faire	V	V	n=s|t=P|p=3	
+25	un	un	DET	DET	n=s|g=m	
+26	vol	vol	NC	NC	n=s|g=m	
+27	orbital	orbital	ADJ	ADJ	n=s|g=m	
+28	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	est	être	V	V	n=s|t=P|p=3	
+3	la	la	DET	DET	n=s|g=f	
+4	première	premier	ADJ	ADJ	n=s|g=f	
+5	d'	de	P	P		
+6	une	une	DET	DET	n=s|g=f	
+7	série	série	NC	NC	n=s|g=f	
+8	de	de	P	P		
+9	5	5	ADJ	ADJ		
+10	navettes	navette	NC	NC	n=p|g=f	
+11	(	(	PONCT	PONCT		
+12	uniquement	_	ADV	ADV		
+13	deux	deux	PRO	PRO	s=card|n=p	
+14	d'	de	P	P		
+15	entre	entre	P	P		
+16	elles	elles	PRO	PRO	n=p|g=f|p=3	
+17	ont	avoir	V	V	n=p|t=P|p=3	
+18	été	être	VPP	VPP	t=K	
+19	achevées	achever	VPP	VPP	n=p|g=f|t=K	
+20	)	)	PONCT	PONCT		
+21	.	.	PONCT	PONCT		
+
+1	Construite	construire	VPP	VPP	n=s|g=f|t=K	
+2	en	en	P	P		
+3	1986	1986	NC	NC		
+4	,	,	PONCT	PONCT		
+5	elle	elle	CLS	CLS	n=s|g=f|p=3	
+6	a	avoir	V	V	n=s|t=P|p=3	
+7	effectué	effectuer	VPP	VPP	n=s|g=m|t=K	
+8	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+9	unique	unique	ADJ	ADJ	n=s	
+10	vol	vol	NC	NC	n=s|g=m	
+11	en	en	P	P		
+12	mode	mode	NC	NC	n=s	
+13	automatique	automatique	ADJ	ADJ	n=s	
+14	sans	sans	P	P		
+15	équipage	équipage	NC	NC	n=s|g=m	
+16	le	le	DET	DET	n=s|g=m	
+17	15	15	ADJ	ADJ		
+18	novembre	novembre	NC	NC	n=s|g=m	
+19	1988	1988	NC	NC		
+20	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	a	avoir	V	V	n=s|t=P|p=3	
+3	été	être	VPP	VPP	t=K	
+4	accidentellement	_	ADV	ADV		
+5	détruite	détruire	VPP	VPP	n=s|g=f|t=K	
+6	le	le	DET	DET	n=s|g=m	
+7	12	12	ADJ	ADJ		
+8	mai	mai	NC	NC	n=s|g=m	
+9	2002	2002	NC	NC		
+10	par	par	P	P		
+11	suite	suite	NC	NC	n=s|g=f	
+12	de	de	P	P		
+13	l'	le	DET	DET	n=s	
+14	effondrement	effondrement	NC	NC	n=s|g=m	
+15	du	de	P+D	P+D	n=s|g=m	
+16	toit	toit	NC	NC	n=s|g=m	
+17	de	de	P	P		
+18	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+19	hangar	hangar	NC	NC	n=s|g=m	
+20	dont	dont	PROREL	PROREL		
+21	l'	le	DET	DET	n=s	
+22	architecture	architecture	NC	NC	n=s|g=f	
+23	n'	ne	ADV	ADV		
+24	était	être	V	V	n=s|t=I|p=3	
+25	pas	pas	ADV	ADV		
+26	adaptée	adapter	VPP	VPP	n=s|g=f|t=K	
+27	à	à	P	P		
+28	la	la	DET	DET	n=s|g=f	
+29	pluie	pluie	NC	NC	n=s|g=f	
+30	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	construction	construction	NC	NC	n=s|g=f	
+3	de	de	P	P		
+4	cette	cette	DET	DET	n=s|g=f	
+5	navette	navette	NC	NC	n=s|g=f	
+6	commence	commencer	V	V	n=s|t=P,S|p=1,3	
+7	en	en	P	P		
+8	1986	1986	NC	NC		
+9	et	et	CC	CC		
+10	dure	dur	ADJ	ADJ	n=s|g=f	
+11	deux	deux	DET	DET	s=card|n=p	
+12	ans	an	NC	NC	n=p|g=m	
+13	.	.	PONCT	PONCT		
+
+1	Bourane	_	NPP	NPP		
+2	est	être	V	V	n=s|t=P|p=3	
+3	construite	construire	VPP	VPP	n=s|g=f|t=K	
+4	dans	dans	P	P		
+5	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+6	totalité	totalité	NC	NC	n=s|g=f	
+7	à	à	P	P		
+8	Moscou	Moscou	NPP	NPP	n=s|g=m	
+9	.	.	PONCT	PONCT		
+
+1	Au	à	P+D	P+D	n=s|g=m	
+2	début	début	NC	NC	n=s|g=m	
+3	,	,	PONCT	PONCT		
+4	elle	elle	CLS	CLS	n=s|g=f|p=3	
+5	se	se	CLR	CLR	n=p,s|p=3	
+6	nomme	nommer	V	V	n=s|t=P,S|p=1,3	
+7	Baïkal	_	NPP	NPP		
+8	avant	avant	P	P		
+9	d'	de	P	P		
+10	être	être	VINF	VINF	t=W	
+11	renommée	renommer	VPP	VPP	n=s|g=f|t=K	
+12	en	en	P	P		
+13	Bourane	_	NPP	NPP		
+14	peu	peu	ADV	ADV		
+15	de	de	P	P		
+16	temps	temps	NC	NC	g=m	
+17	avant	avant	P	P		
+18	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+19	premier	premier	ADJ	ADJ	n=s|g=m	
+20	vol1	_	NC	NC		
+21	.	.	PONCT	PONCT		
+
+1	C'	ce	CLS	CLS		
+2	est	être	V	V	n=s|t=P|p=3	
+3	l'	le	DET	DET	n=s	
+4	avion	avion	NC	NC	n=s|g=m	
+5	Antonov	_	NPP	NPP		
+6	An	An	NPP	NPP	n=s	
+7	-225	-225	NPP	NPP		
+8	Mriya	_	NPP	NPP		
+9	qui	qui	PROREL	PROREL	n=s	
+10	permettra	permettre	V	V	n=s|t=F|p=3	
+11	le	le	DET	DET	n=s|g=m	
+12	transport	transport	NC	NC	n=s|g=m	
+13	de	de	P	P		
+14	la	la	DET	DET	n=s|g=f	
+15	navette	navette	NC	NC	n=s|g=f	
+16	du	de	P+D	P+D	n=s|g=m	
+17	site	site	NC	NC	n=s|g=m	
+18	de	de	P	P		
+19	construction	construction	NC	NC	n=s|g=f	
+20	au	à	P+D	P+D	n=s|g=m	
+21	site	site	NC	NC	n=s|g=m	
+22	de	de	P	P		
+23	lancement2	_	NC	NC		
+24	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	préparation	préparation	NC	NC	n=s|g=f	
+3	de	de	P	P		
+4	ce	ce	DET	DET	n=s|g=m	
+5	premier	premier	ADJ	ADJ	n=s|g=m	
+6	vol	vol	NC	NC	n=s|g=m	
+7	est	être	V	V	n=s|t=P|p=3	
+8	longue	long	ADJ	ADJ	n=s|g=f	
+9	:	:	PONCT	PONCT		
+10	commencée	commencer	VPP	VPP	n=s|g=f|t=K	
+11	en	en	P	P		
+12	même	même	ADJ	ADJ	n=s	
+13	temps	temps	NC	NC	g=m	
+14	que	que	CS	CS		
+15	la	la	DET	DET	n=s|g=f	
+16	construction	construction	NC	NC	n=s|g=f	
+17	du	de	P+D	P+D	n=s|g=m	
+18	projet	projet	NC	NC	n=s|g=m	
+19	Bourane	_	NPP	NPP		
+20	(	(	PONCT	PONCT		
+21	qui	qui	PROREL	PROREL	n=s	
+22	voulait	vouloir	V	V	n=s|t=I|p=3	
+23	attendre	attendre	VINF	VINF	t=W	
+24	que	que	CS	CS		
+25	la	la	DET	DET	n=s|g=f	
+26	navette	navette	NC	NC	n=s|g=f	
+27	spatiale	spatial	ADJ	ADJ	n=s|g=f	
+28	américaine	américain	ADJ	ADJ	n=s|g=f	
+29	fasse	faire	VS	VS	n=s|t=S|p=1,3	
+30	plusieurs	plusieurs	DET	DET	n=p	
+31	missions	mission	NC	NC	n=p|g=f	
+32	avec	avec	P	P		
+33	parmi	parmi	P	P		
+34	elles	elles	PRO	PRO	n=p|g=f|p=3	
+35	,	,	PONCT	PONCT		
+36	la	la	DET	DET	n=s|g=f	
+37	mission	mission	NC	NC	n=s|g=f	
+38	au	à	P+D	P+D	n=s|g=m	
+39	cours	cour	NC	NC	n=p|g=f	
+40	de	de	P	P		
+41	laquelle	lequel	PROREL	PROREL	n=s|g=f	
+42	aura	avoir	V	V	n=s|t=F|p=3	
+43	lieu	lieu	NC	NC	n=s|g=m	
+44	la	la	DET	DET	n=s|g=f	
+45	catastrophe	catastrophe	NC	NC	n=s|g=f	
+46	de	de	P	P		
+47	Challenger	_	NPP	NPP		
+48	)	)	PONCT	PONCT		
+49	,	,	PONCT	PONCT		
+50	elle	elle	CLS	CLS	n=s|g=f|p=3	
+51	dure	durer	V	V	n=s|t=P,S|p=1,3	
+52	12	12	ADJ	ADJ		
+53	ans	an	NC	NC	n=p|g=m	
+54	.	.	PONCT	PONCT		
+
+1	Officiellement	_	ADV	ADV		
+2	,	,	PONCT	PONCT		
+3	le	le	DET	DET	n=s|g=m	
+4	décollage	décollage	NC	NC	n=s|g=m	
+5	a	avoir	V	V	n=s|t=P|p=3	
+6	lieu	lieu	NC	NC	n=s|g=m	
+7	le	le	DET	DET	n=s|g=m	
+8	29	29	ADJ	ADJ		
+9	octobre	octobre	NC	NC	n=s|g=m	
+10	1988	1988	NC	NC		
+11	mais	mais	CC	CC		
+12	,	,	PONCT	PONCT		
+13	51	51	NC	NC		
+14	secondes	second	ADJ	ADJ	n=p|g=f	
+15	avant	avant	P	P		
+16	le	le	DET	DET	n=s|g=m	
+17	décollage	décollage	NC	NC	n=s|g=m	
+18	,	,	PONCT	PONCT		
+19	une	une	DET	DET	n=s|g=f	
+20	anomalie	anomalie	NC	NC	n=s|g=f	
+21	se	se	CLR	CLR	n=p,s|p=3	
+22	déclenche	déclencher	V	V	n=s|t=P,S|p=1,3	
+23	au	à	P+D	P+D	n=s|g=m	
+24	niveau	niveau	NC	NC	n=s|g=m	
+25	du	de	P+D	P+D	n=s|g=m	
+26	système	système	NC	NC	n=s|g=m	
+27	de	de	P	P		
+28	guidage	guidage	NC	NC	n=s|g=m	
+29	.	.	PONCT	PONCT		
+
+1	Ce	ce	DET	DET	n=s|g=m	
+2	problème	problème	NC	NC	n=s|g=m	
+3	retarde	retarder	V	V	n=s|t=P,S|p=1,3	
+4	le	le	DET	DET	n=s|g=m	
+5	lancement	lancement	NC	NC	n=s|g=m	
+6	de	de	P	P		
+7	la	la	DET	DET	n=s|g=f	
+8	navette	navette	NC	NC	n=s|g=f	
+9	au	à	P+D	P+D	n=s|g=m	
+10	15	15	ADJ	ADJ		
+11	novembre	novembre	NC	NC	n=s|g=m	
+12	1988	1988	NC	NC		
+13	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	jour	jour	NC	NC	n=s|g=m	
+3	venu	venir	VPP	VPP	n=s|g=m|t=K	
+4	,	,	PONCT	PONCT		
+5	les	les	DET	DET	n=p	
+6	préparatifs	préparatif	NC	NC	n=p|g=m	
+7	se	se	CLR	CLR	n=p,s|p=3	
+8	déroulent	dérouler	V	V	n=p|t=P,S|p=3	
+9	sans	sans	P	P		
+10	aucun	aucun	DET	DET	n=s|g=m	
+11	problème	problème	NC	NC	n=s|g=m	
+12	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	revanche	revanche	NC	NC	n=s|g=f	
+3	,	,	PONCT	PONCT		
+4	les	les	DET	DET	n=p	
+5	conditions	condition	NC	NC	n=p|g=f	
+6	météo	météo	NC	NC	n=s|g=f	
+7	sont	être	V	V	n=p|t=P|p=3	
+8	très	très	ADV	ADV		
+9	défavorables	défavorable	ADJ	ADJ	n=p	
+10	et	et	CC	CC		
+11	le	le	DET	DET	n=s|g=m	
+12	service	service	NC	NC	n=s|g=m	
+13	météo	météo	NC	NC	n=s|g=f	
+14	envoie	envoyer	V	V	n=s|t=P,S|p=1,3	
+15	un	un	DET	DET	n=s|g=m	
+16	signal	signal	NC	NC	n=s|g=m	
+17	avertisseur	avertisseur	ADJ	ADJ	n=s|g=m	
+18	de	de	P	P		
+19	tempête	tempête	NC	NC	n=s|g=f	
+20	aux	à	P+D	P+D	n=p	
+21	personnes	personne	NC	NC	n=p|g=f	
+22	concernées	concerner	VPP	VPP	n=p|g=f|t=K	
+23	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	principe	principe	NC	NC	n=s|g=m	
+3	,	,	PONCT	PONCT		
+4	des	des	DET	DET	n=p	
+5	réacteurs	réacteur	NC	NC	n=p|g=m	
+6	sont	être	V	V	n=p|t=P|p=3	
+7	censés	censé	ADJ	ADJ	n=p|g=m	
+8	se	se	CLR	CLR	n=p,s|p=3	
+9	trouver	trouver	VINF	VINF	t=W	
+10	sur	sur	P	P		
+11	la	la	DET	DET	n=s|g=f	
+12	navette	navette	NC	NC	n=s|g=f	
+13	pour	pour	P	P		
+14	que	que	PROREL	PROREL		
+15	lors	lors	ADV	ADV		
+16	de	de	P	P		
+17	la	la	DET	DET	n=s|g=f	
+18	descente	descente	NC	NC	n=s|g=f	
+19	,	,	PONCT	PONCT		
+20	Bourane	_	NC	NC		
+21	puisse	pouvoir	VS	VS	n=s|t=S|p=1,3	
+22	reprendre	reprendre	VINF	VINF	t=W	
+23	de	de	P	P		
+24	l'	le	DET	DET	n=s	
+25	altitude	altitude	NC	NC	n=s|g=f	
+26	s'	se	CLR	CLR	n=p,s|p=3	
+27	il	il	CLS	CLS	n=s|g=m|p=3	
+28	y	y	CLO	CLO		
+29	avait	avoir	V	V	n=s|t=I|p=3	
+30	un	un	DET	DET	n=s|g=m	
+31	problème	problème	NC	NC	n=s|g=m	
+32	,	,	PONCT	PONCT		
+33	mais	mais	CC	CC		
+34	ils	ils	CLS	CLS	n=p|g=m|p=3	
+35	ne	ne	ADV	ADV		
+36	sont	être	V	V	n=p|t=P|p=3	
+37	pas	pas	ADV	ADV		
+38	installés	installer	VPP	VPP	n=p|g=m|t=K	
+39	pour	pour	P	P		
+40	ce	ce	DET	DET	n=s|g=m	
+41	vol	vol	NC	NC	n=s|g=m	
+42	.	.	PONCT	PONCT		
+
+1	Bourane	_	NPP	NPP		
+2	serait	être	V	V	n=s|t=C|p=3	
+3	donc	donc	ADV	ADV		
+4	obligée	obliger	VPP	VPP	n=s|g=f|t=K	
+5	de	de	P	P		
+6	planer	planer	VINF	VINF	t=W	
+7	à	à	P	P		
+8	l'	le	DET	DET	n=s	
+9	atterrissage	atterrissage	NC	NC	n=s|g=m	
+10	.	.	PONCT	PONCT		
+
+1	Ceci	ceci	PRO	PRO	n=s|g=m	
+2	dit	dire	V	V	n=s|t=J,P|p=3	
+3	,	,	PONCT	PONCT		
+4	des	des	DET	DET	n=p	
+5	ingénieurs	ingénieur	NC	NC	n=p|g=m	
+6	ayant	avoir	VPR	VPR	t=G	
+7	participé	participer	VPP	VPP	n=s|g=m|t=K	
+8	à	à	P	P		
+9	ce	ce	DET	DET	n=s|g=m	
+10	projet	projet	NC	NC	n=s|g=m	
+11	de	de	P	P		
+12	vol	vol	NC	NC	n=s|g=m	
+13	assurent	assurer	V	V	n=p|t=P,S|p=3	
+14	que	que	CS	CS		
+15	le	le	DET	DET	n=s|g=m	
+16	vol	vol	NC	NC	n=s|g=m	
+17	sera	être	V	V	n=s|t=F|p=3	
+18	un	un	DET	DET	n=s|g=m	
+19	succès	succès	NC	NC	g=m	
+20	,	,	PONCT	PONCT		
+21	car	car	CS	CS		
+22	les	les	DET	DET	n=p	
+23	conditions	condition	NC	NC	n=p|g=f	
+24	limites	limite	NC	NC	n=p|g=f	
+25	pour	pour	P	P		
+26	l'	le	DET	DET	n=s	
+27	atterrissage	atterrissage	NC	NC	n=s|g=m	
+28	de	de	P	P		
+29	la	la	DET	DET	n=s|g=f	
+30	navette	navette	NC	NC	n=s|g=f	
+31	ne	ne	ADV	ADV		
+32	sont	être	V	V	n=p|t=P|p=3	
+33	même	même	ADV	ADV		
+34	pas	pas	ADV	ADV		
+35	atteintes	atteindre	VPP	VPP	n=p|g=f|t=K	
+36	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	lancement	lancement	NC	NC	n=s|g=m	
+3	est	être	V	V	n=s|t=P|p=3	
+4	finalement	_	ADV	ADV		
+5	décidé	décider	VPP	VPP	n=s|g=m|t=K	
+6	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	15	15	ADJ	ADJ		
+3	novembre	novembre	NC	NC	n=s|g=m	
+4	1988	1988	NC	NC		
+5	,	,	PONCT	PONCT		
+6	la	la	DET	DET	n=s|g=f	
+7	navette	navette	NC	NC	n=s|g=f	
+8	spatiale	spatial	ADJ	ADJ	n=s|g=f	
+9	Bourane	_	NPP	NPP		
+10	effectue	effectuer	V	V	n=s|t=P,S|p=1,3	
+11	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+12	premier	premier	ADJ	ADJ	n=s|g=m	
+13	vol	vol	NC	NC	n=s|g=m	
+14	qui	qui	PROREL	PROREL	n=s	
+15	sera	être	V	V	n=s|t=F|p=3	
+16	le	le	DET	DET	n=s|g=m	
+17	seul	seul	ADJ	ADJ	n=s|g=m	
+18	de	de	P	P		
+19	tout	tout	ADJ	ADJ	n=s|g=m	
+20	le	le	DET	DET	n=s|g=m	
+21	programme	programme	NC	NC	n=s|g=m	
+22	Bourane	_	NPP	NPP		
+23	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	décollage	décollage	NC	NC	n=s|g=m	
+3	a	avoir	V	V	n=s|t=P|p=3	
+4	lieu	lieu	NC	NC	n=s|g=m	
+5	de	de	P	P		
+6	nuit	nuit	NC	NC	n=s|g=f	
+7	.	.	PONCT	PONCT		
+
+1	À	à	P	P		
+2	6	6	ADJ	ADJ		
+3	h	heure	NC	NC	g=f	
+4	du	de	P+D	P+D	n=s|g=m	
+5	matin	matin	NC	NC	n=s|g=m	
+6	(	(	PONCT	PONCT		
+7	heure	heure	NC	NC	n=s|g=f	
+8	de	de	P	P		
+9	Moscou	Moscou	NPP	NPP	n=s|g=m	
+10	)	)	PONCT	PONCT		
+11	,	,	PONCT	PONCT		
+12	Bourane	_	NPP	NPP		
+13	et	et	CC	CC		
+14	le	le	DET	DET	n=s|g=m	
+15	lanceur	lanceur	NC	NC	n=s|g=m	
+16	Energia	_	NPP	NPP		
+17	s'	se	CLR	CLR	n=p,s|p=3	
+18	arrachent	arracher	V	V	n=p|t=P,S|p=3	
+19	de	de	P	P		
+20	la	la	DET	DET	n=s|g=f	
+21	plate	plate	NC	NC	n=s|g=f	
+22	-	-	PONCT	PONCT		
+23	forme	forme	NC	NC	n=s|g=f	
+24	de	de	P	P		
+25	lancement	lancement	NC	NC	n=s|g=m	
+26	.	.	PONCT	PONCT		
+
+1	Dès	dès	P	P		
+2	le	le	DET	DET	n=s|g=m	
+3	décollage	décollage	NC	NC	n=s|g=m	
+4	,	,	PONCT	PONCT		
+5	Bourane	_	NPP	NPP		
+6	effectue	effectuer	V	V	n=s|t=P,S|p=1,3	
+7	une	une	DET	DET	n=s|g=f	
+8	rotation	rotation	NC	NC	n=s|g=f	
+9	comme	comme	P	P		
+10	la	la	DET	DET	n=s|g=f	
+11	navette	navette	NC	NC	n=s|g=f	
+12	spatiale	spatial	ADJ	ADJ	n=s|g=f	
+13	américaine	américain	ADJ	ADJ	n=s|g=f	
+14	(	(	PONCT	PONCT		
+15	qui	qui	PROREL	PROREL	n=s	
+16	utilise	utiliser	V	V	n=s|t=P,S|p=1,3	
+17	le	le	DET	DET	n=s|g=m	
+18	pas	pas	ADV	ADV		
+19	de	de	P	P		
+20	tir	tir	NC	NC	n=s|g=m	
+21	d'	de	P	P		
+22	un	un	DET	DET	n=s|g=m	
+23	ancien	ancien	ADJ	ADJ	n=s|g=m	
+24	lanceur	lanceur	NC	NC	n=s|g=m	
+25	passé	passer	VPP	VPP	n=s|g=m|t=K	
+26	et	et	CC	CC		
+27	qui	qui	PROREL	PROREL	n=s	
+28	a	avoir	V	V	n=s|t=P|p=3	
+29	besoin	besoin	NC	NC	n=s|g=m	
+30	de	de	P	P		
+31	faire	faire	VINF	VINF	t=W	
+32	cette	cette	DET	DET	n=s|g=f	
+33	rotation	rotation	NC	NC	n=s|g=f	
+34	pour	pour	P	P		
+35	se	se	CLR	CLR	n=p,s|p=3	
+36	mettre	mettre	VINF	VINF	t=W	
+37	sur	sur	P	P		
+38	la	la	DET	DET	n=s|g=f	
+39	bonne	bon	ADJ	ADJ	n=s|g=f	
+40	orbite	orbite	NC	NC	n=s|g=f	
+41	)	)	PONCT	PONCT		
+42	.	.	PONCT	PONCT		
+
+1	Même	même	ADV	ADV		
+2	si	si	CS	CS		
+3	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+4	pas	pas	NC	NC	g=m	
+5	de	de	P	P		
+6	tir	tir	NC	NC	n=s|g=m	
+7	a	avoir	V	V	n=s|t=P|p=3	
+8	été	être	VPP	VPP	t=K	
+9	construit	construire	VPP	VPP	n=s|g=m|t=K	
+10	en	en	P	P		
+11	même	même	ADJ	ADJ	n=s	
+12	temps	temps	NC	NC	g=m	
+13	que	que	CS	CS		
+14	le	le	DET	DET	n=s|g=m	
+15	programme	programme	NC	NC	n=s|g=m	
+16	,	,	PONCT	PONCT		
+17	Bourane	_	NPP	NPP		
+18	fait	faire	V	V	n=s|t=P|p=3	
+19	la	la	DET	DET	n=s|g=f	
+20	même	même	ADJ	ADJ	n=s	
+21	manœuvre	_	NC	NC		
+22	que	que	CS	CS		
+23	la	la	DET	DET	n=s|g=f	
+24	navette	navette	NC	NC	n=s|g=f	
+25	spatiale	spatial	ADJ	ADJ	n=s|g=f	
+26	américaine	américain	ADJ	ADJ	n=s|g=f	
+27	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	effet	effet	NC	NC	n=s|g=m	
+3	,	,	PONCT	PONCT		
+4	Bourane	_	NPP	NPP		
+5	est	être	V	V	n=s|t=P|p=3	
+6	censée	_	VPP	VPP		
+7	la	la	CLO	CLO	n=s|g=f|p=3	
+8	concurrencer	concurrencer	VINF	VINF	t=W	
+9	.	.	PONCT	PONCT		
+
+1	Un	un	DET	DET	n=s|g=m	
+2	peu	peu	ADV	ADV		
+3	plus	plus	ADV	ADV		
+4	de	de	P	P		
+5	deux	deux	DET	DET	s=card|n=p	
+6	minutes	minute	NC	NC	n=p|g=f	
+7	après	après	P	P		
+8	le	le	DET	DET	n=s|g=m	
+9	décollage	décollage	NC	NC	n=s|g=m	
+10	(	(	PONCT	PONCT		
+11	140	140	ADJ	ADJ		
+12	secondes	seconde	NC	NC	n=p|g=f	
+13	)	)	PONCT	PONCT		
+14	,	,	PONCT	PONCT		
+15	les	les	DET	DET	n=p	
+16	quatre	quatre	ADJ	ADJ	s=card|n=p	
+17	boosters	booster	NC	NC	n=p|g=m	
+18	(	(	PONCT	PONCT		
+19	premier	premier	ADJ	ADJ	n=s|g=m	
+20	étage	étage	NC	NC	n=s|g=m	
+21	du	de	P+D	P+D	n=s|g=m	
+22	lanceur	lanceur	NC	NC	n=s|g=m	
+23	)	)	PONCT	PONCT		
+24	se	se	CLR	CLR	n=p,s|p=3	
+25	séparent	séparer	V	V	n=p|t=P,S|p=3	
+26	en	en	P	P		
+27	s'	se	CLR	CLR	n=p,s|p=3	
+28	éjectant	éjecter	VPR	VPR	t=G	
+29	par	par	P	P		
+30	deux	deux	PRO	PRO	s=card|n=p	
+31	de	de	P	P		
+32	la	la	DET	DET	n=s|g=f	
+33	partie	partie	NC	NC	n=s|g=f	
+34	centrale	central	ADJ	ADJ	n=s|g=f	
+35	d'	de	P	P		
+36	Energia	_	NPP	NPP		
+37	(	(	PONCT	PONCT		
+38	deuxième	deuxième	ADJ	ADJ	n=s	
+39	étage	étage	NC	NC	n=s|g=m	
+40	du	de	P+D	P+D	n=s|g=m	
+41	lanceur	lanceur	NC	NC	n=s|g=m	
+42	)	)	PONCT	PONCT		
+43	,	,	PONCT	PONCT		
+44	se	se	CLR	CLR	n=p,s|p=3	
+45	séparent	séparer	V	V	n=p|t=P,S|p=3	
+46	à	à	P	P		
+47	nouveau	nouveau	ADJ	ADJ	n=s|g=m	
+48	pour	pour	P	P		
+49	retomber	retomber	VINF	VINF	t=W	
+50	individuellement	_	ADV	ADV		
+51	et	et	CC	CC		
+52	des	de	P+D	P+D	n=p	
+53	parachutes	parachute	NC	NC	n=p|g=m	
+54	se	se	CLR	CLR	n=p,s|p=3	
+55	déploient	déployer	V	V	n=p|t=P,S|p=3	
+56	:	:	PONCT	PONCT		
+57	les	les	DET	DET	n=p	
+58	boosters	booster	NC	NC	n=p|g=m	
+59	sont	être	V	V	n=p|t=P|p=3	
+60	réutilisables	réutilisable	ADJ	ADJ	n=p	
+61	.	.	PONCT	PONCT		
+
+1	Huit	huit	DET	DET	s=card|n=p	
+2	minutes	minute	NC	NC	n=p|g=f	
+3	après	après	P	P		
+4	le	le	DET	DET	n=s|g=m	
+5	décollage	décollage	NC	NC	n=s|g=m	
+6	,	,	PONCT	PONCT		
+7	le	le	DET	DET	n=s|g=m	
+8	lanceur	lanceur	NC	NC	n=s|g=m	
+9	Energia	_	NPP	NPP		
+10	se	se	CLR	CLR	n=p,s|p=3	
+11	sépare	séparer	V	V	n=s|t=P,S|p=1,3	
+12	de	de	P	P		
+13	Bourane	_	NPP	NPP		
+14	.	.	PONCT	PONCT		
+
+1	C'	ce	CLS	CLS		
+2	est	être	V	V	n=s|t=P|p=3	
+3	à	à	P	P		
+4	ce	ce	DET	DET	n=s|g=m	
+5	moment	moment	NC	NC	n=s|g=m	
+6	-	-	PONCT	PONCT		
+7	là	là	ADV	ADV		
+8	que	que	CS	CS		
+9	le	le	DET	DET	n=s|g=m	
+10	lanceur	lanceur	NC	NC	n=s|g=m	
+11	pourrait	pouvoir	V	V	n=s|t=C|p=3	
+12	larguer	larguer	VINF	VINF	t=W	
+13	un	un	DET	DET	n=s|g=m	
+14	satellite	satellite	NC	NC	n=s|g=m	
+15	,	,	PONCT	PONCT		
+16	mais	mais	CC	CC		
+17	ce	ce	CLS	CLS		
+18	ne	ne	ADV	ADV		
+19	sera	être	V	V	n=s|t=F|p=3	
+20	pas	pas	ADV	ADV		
+21	le	le	DET	DET	n=s|g=m	
+22	cas	cas	NC	NC	g=m	
+23	lors	lors	ADV	ADV		
+24	de	de	P	P		
+25	ce	ce	DET	DET	n=s|g=m	
+26	vol	vol	NC	NC	n=s|g=m	
+27	(	(	PONCT	PONCT		
+28	et	et	CC	CC		
+29	donc	donc	ADV	ADV		
+30	jamais	jamais	ADV	ADV		
+31	)	)	PONCT	PONCT		
+32	.	.	PONCT	PONCT		
+
+1	Contrairement	_	ADV	ADV		
+2	à	à	P	P		
+3	la	la	DET	DET	n=s|g=f	
+4	navette	navette	NC	NC	n=s|g=f	
+5	spatiale	spatial	ADJ	ADJ	n=s|g=f	
+6	américaine	américain	ADJ	ADJ	n=s|g=f	
+7	où	où	PROREL	PROREL		
+8	le	le	DET	DET	n=s|g=m	
+9	réservoir	réservoir	NC	NC	n=s|g=m	
+10	externe	externe	ADJ	ADJ	n=s	
+11	brûle	brûler	V	V	n=s|t=P,S|p=1,3	
+12	et	et	CC	CC		
+13	se	se	CLR	CLR	n=p,s|p=3	
+14	détruit	détruire	VPP	VPP	n=s|g=m|t=K	
+15	en	en	P	P		
+16	rentrant	rentrer	VPR	VPR	t=G	
+17	dans	dans	P	P		
+18	l'	le	DET	DET	n=s	
+19	atmosphère	atmosphère	NC	NC	n=s|g=f	
+20	,	,	PONCT	PONCT		
+21	le	le	DET	DET	n=s|g=m	
+22	lanceur	lanceur	NC	NC	n=s|g=m	
+23	Energia	_	NPP	NPP		
+24	tombe	tomber	V	V	n=s|t=P,S|p=1,3	
+25	dans	dans	P	P		
+26	l'	le	DET	DET	n=s	
+27	océan	océan	NC	NC	n=s|g=m	
+28	Pacifique	_	NPP	NPP		
+29	sans	sans	P	P		
+30	brûler	brûler	VINF	VINF	t=W	
+31	,	,	PONCT	PONCT		
+32	car	car	CS	CS		
+33	il	il	CLS	CLS	n=s|g=m|p=3	
+34	n'	ne	ADV	ADV		
+35	est	être	V	V	n=s|t=P|p=3	
+36	pas	pas	ADV	ADV		
+37	prévu	prévoir	VPP	VPP	n=s|g=m|t=K	
+38	pour	pour	P	P		
+39	l'	le	CLO	CLO	n=s|p=3	
+40	être	être	VINF	VINF	t=W	
+41	et	et	CC	CC		
+42	mettrait	mettre	V	V	n=s|t=C|p=3	
+43	plusieurs	plusieurs	DET	DET	n=p	
+44	jours	jour	NC	NC	n=p|g=m	
+45	à	à	P	P		
+46	brûler	brûler	VINF	VINF	t=W	
+47	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	moteurs	moteur	NC	NC	n=p|g=m	
+3	de	de	P	P		
+4	cette	cette	DET	DET	n=s|g=f	
+5	partie	partie	NC	NC	n=s|g=f	
+6	du	de	P+D	P+D	n=s|g=m	
+7	lanceur	lanceur	NC	NC	n=s|g=m	
+8	ne	ne	ADV	ADV		
+9	sont	être	V	V	n=p|t=P|p=3	
+10	pas	pas	ADV	ADV		
+11	réutilisables	réutilisable	ADJ	ADJ	n=p	
+12	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	navette	navette	NC	NC	n=s|g=f	
+3	Bourane	_	NPP	NPP		
+4	se	se	CLR	CLR	n=p,s|p=3	
+5	met	mettre	V	V	n=s|t=P|p=3	
+6	en	en	P	P		
+7	orbite	orbite	NC	NC	n=s|g=f	
+8	avec	avec	P	P		
+9	ses	ses	DET	DET	n=p|p=3|poss=s	
+10	propres	propre	ADJ	ADJ	n=p	
+11	moteurs	moteur	NC	NC	n=p|g=m	
+12	.	.	PONCT	PONCT		
+
+1	Durant	durant	P	P		
+2	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+3	vol	vol	NC	NC	n=s|g=m	
+4	orbital	orbital	ADJ	ADJ	n=s|g=m	
+5	,	,	PONCT	PONCT		
+6	Bourane	_	NPP	NPP		
+7	est	être	V	V	n=s|t=P|p=3	
+8	inclinée	incliner	VPP	VPP	n=s|g=f|t=K	
+9	à	à	P	P		
+10	51,6	51,6	NC	NC		
+11	°	°	NC	NC	g=m	
+12	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	effectue	effectuer	V	V	n=s|t=P,S|p=1,3	
+3	deux	deux	DET	DET	s=card|n=p	
+4	tours	tour	NC	NC	n=p	
+5	du	de	P+D	P+D	n=s|g=m	
+6	monde	monde	NC	NC	n=s|g=m	
+7	(	(	PONCT	PONCT		
+8	120_000	120_000	ADJ	ADJ		
+9	km	kilomètre	NC	NC	g=m	
+10	)	)	PONCT	PONCT		
+11	,	,	PONCT	PONCT		
+12	sans	sans	P	P		
+13	aucun	aucun	DET	DET	n=s|g=m	
+14	problème	problème	NC	NC	n=s|g=m	
+15	.	.	PONCT	PONCT		
+
+1	Après	après	P	P		
+2	1	1	ADJ	ADJ		
+3	heure	heure	NC	NC	n=s|g=f	
+4	30	30	ADJ	ADJ		
+5	minutes	minute	NC	NC	n=p|g=f	
+6	de	de	P	P		
+7	vol	vol	NC	NC	n=s|g=m	
+8	,	,	PONCT	PONCT		
+9	Bourane	_	NPP	NPP		
+10	se	se	CLR	CLR	n=p,s|p=3	
+11	prépare	préparer	V	V	n=s|t=P,S|p=1,3	
+12	à	à	P	P		
+13	la	la	DET	DET	n=s|g=f	
+14	manœuvre	_	NC	NC		
+15	de	de	P	P		
+16	désorbitage	désorbitage	NC	NC	n=s|g=m	
+17	et	et	CC	CC		
+18	à	à	P	P		
+19	la	la	DET	DET	n=s|g=f	
+20	rentrée	rentrée	NC	NC	n=s|g=f	
+21	dans	dans	P	P		
+22	l'	le	DET	DET	n=s	
+23	atmosphère	atmosphère	NC	NC	n=s|g=f	
+24	.	.	PONCT	PONCT		
+
+1	Au	à	P+D	P+D	n=s|g=m	
+2	moment	moment	NC	NC	n=s|g=m	
+3	de	de	P	P		
+4	la	la	DET	DET	n=s|g=f	
+5	rentrée	rentrée	NC	NC	n=s|g=f	
+6	dans	dans	P	P		
+7	l'	le	DET	DET	n=s	
+8	atmosphère	atmosphère	NC	NC	n=s|g=f	
+9	,	,	PONCT	PONCT		
+10	la	la	DET	DET	n=s|g=f	
+11	liaison	liaison	NC	NC	n=s|g=f	
+12	avec	avec	P	P		
+13	la	la	DET	DET	n=s|g=f	
+14	navette	navette	NC	NC	n=s|g=f	
+15	est	être	V	V	n=s|t=P|p=3	
+16	coupée	couper	VPP	VPP	n=s|g=f|t=K	
+17	.	.	PONCT	PONCT		
+
+1	Après	après	P	P		
+2	20	20	NC	NC		
+3	minutes	minute	NC	NC	n=p|g=f	
+4	,	,	PONCT	PONCT		
+5	la	la	DET	DET	n=s|g=f	
+6	liaison	liaison	NC	NC	n=s|g=f	
+7	revient	revenir	V	V	n=s|t=P|p=3	
+8	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	approche	approche	NC	NC	n=s|g=f	
+3	finale	final	ADJ	ADJ	n=s|g=f	
+4	se	se	CLR	CLR	n=p,s|p=3	
+5	fait	faire	V	V	n=s|t=P|p=3	
+6	automatiquement	_	ADV	ADV		
+7	.	.	PONCT	PONCT		
+
+1	Un	un	DET	DET	n=s|g=m	
+2	avion	avion	NC	NC	n=s|g=m	
+3	,	,	PONCT	PONCT		
+4	un	un	DET	DET	n=s|g=m	
+5	MIG	_	NC	NC		
+6	-25	-25	NPP	NPP		
+7	,	,	PONCT	PONCT		
+8	s'	se	CLR	CLR	n=p,s|p=3	
+9	envole	envoler	V	V	n=s|t=P,S|p=1,3	
+10	et	et	CC	CC		
+11	s'	se	CLR	CLR	n=p,s|p=3	
+12	approche	approche	NC	NC	n=s|g=f	
+13	de	de	P	P		
+14	Bourane	_	NPP	NPP		
+15	lorsqu'	lorsque	CS	CS		
+16	elle	elle	CLS	CLS	n=s|g=f|p=3	
+17	est	être	V	V	n=s|t=P|p=3	
+18	encore	encore	ADV	ADV		
+19	à	à	P	P		
+20	7	7	ADJ	ADJ		
+21	km	kilomètre	NC	NC	g=m	
+22	du	de	P+D	P+D	n=s|g=m	
+23	sol	_	NC	NC		
+24	pour	pour	P	P		
+25	la	la	CLO	CLO	n=s|g=f|p=3	
+26	filmer	filmer	VINF	VINF	t=W	
+27	durant	durant	P	P		
+28	l'	le	DET	DET	n=s	
+29	atterrissage	atterrissage	NC	NC	n=s|g=m	
+30	qui	qui	PROREL	PROREL	n=s	
+31	est	être	V	V	n=s|t=P|p=3	
+32	marqué	marquer	VPP	VPP	n=s|g=m|t=K	
+33	par	par	P	P		
+34	les	les	DET	DET	n=p	
+35	figures	figure	NC	NC	n=p|g=f	
+36	faites	faire	VPP	VPP	n=p|g=f|t=K	
+37	entre	entre	P	P		
+38	la	la	DET	DET	n=s|g=f	
+39	navette	navette	NC	NC	n=s|g=f	
+40	et	et	CC	CC		
+41	l'	le	DET	DET	n=s	
+42	avion	avion	NC	NC	n=s|g=m	
+43	.	.	PONCT	PONCT		
+
+1	Bourane	_	NPP	NPP		
+2	touche	toucher	V	V	n=s|t=P,S|p=1,3	
+3	doucement	_	ADV	ADV		
+4	la	la	DET	DET	n=s|g=f	
+5	piste	piste	NC	NC	n=s|g=f	
+6	d'	de	P	P		
+7	atterrissage	atterrissage	NC	NC	n=s|g=m	
+8	,	,	PONCT	PONCT		
+9	déploie	déployer	V	V	n=s|t=P,S|p=1,3	
+10	ses	ses	DET	DET	n=p|p=3|poss=s	
+11	parachutes	parachute	NC	NC	n=p|g=m	
+12	,	,	PONCT	PONCT		
+13	se	se	CLR	CLR	n=p,s|p=3	
+14	fait	faire	V	V	n=s|t=P|p=3	
+15	survoler	survoler	VINF	VINF	t=W	
+16	par	par	P	P		
+17	l'	le	DET	DET	n=s	
+18	avion	avion	NC	NC	n=s|g=m	
+19	d'	de	P	P		
+20	accompagnement	accompagnement	NC	NC	n=s|g=m	
+21	avant	avant	P	P		
+22	de	de	P	P		
+23	s'	se	CLR	CLR	n=p,s|p=3	
+24	immobiliser	immobiliser	VINF	VINF	t=W	
+25	en	en	P	P		
+26	même	même	ADJ	ADJ	n=s	
+27	temps	temps	NC	NC	g=m	
+28	que	que	PROREL	PROREL		
+29	lui	lui	PRO	PRO	n=s|g=m|p=3	
+30	.	.	PONCT	PONCT		
+
+1	Ce	ce	DET	DET	n=s|g=m	
+2	vol	vol	NC	NC	n=s|g=m	
+3	,	,	PONCT	PONCT		
+4	en	en	P	P		
+5	particulier	particulier	NC	NC	n=s|g=m	
+6	l'	le	DET	DET	n=s	
+7	atterrissage	atterrissage	NC	NC	n=s|g=m	
+8	,	,	PONCT	PONCT		
+9	cause	cause	NC	NC	n=s|g=f	
+10	une	une	DET	DET	n=s|g=f	
+11	vive	vif	ADJ	ADJ	n=s|g=f	
+12	émotion	émotion	NC	NC	n=s|g=f	
+13	en	en	P	P		
+14	Union	union	NC	NC	n=s|g=f	
+15	soviétique	soviétique	ADJ	ADJ	n=s	
+16	et	et	CC	CC		
+17	une	une	DET	DET	n=s|g=f	
+18	explosion	explosion	NC	NC	n=s|g=f	
+19	de	de	P	P		
+20	joie	joie	NC	NC	n=s|g=f	
+21	chez	chez	P	P		
+22	toutes	tout	ADJ	ADJ	n=p|g=f	
+23	les	les	DET	DET	n=p	
+24	personnes	personne	NC	NC	n=p|g=f	
+25	ayant	avoir	VPR	VPR	t=G	
+26	participé	participer	VPP	VPP	n=s|g=m|t=K	
+27	à	à	P	P		
+28	ce	ce	DET	DET	n=s|g=m	
+29	vol	vol	NC	NC	n=s|g=m	
+30	.	.	PONCT	PONCT		
+
+1	À	à	P	P		
+2	noter	noter	VINF	VINF	t=W	
+3	que	que	CS	CS		
+4	beaucoup	beaucoup	ADV	ADV		
+5	de	de	P	P		
+6	monde	monde	NC	NC	n=s|g=m	
+7	intéressé	intéresser	VPP	VPP	n=s|g=m|t=K	
+8	par	par	P	P		
+9	les	les	DET	DET	n=p	
+10	navettes	navette	NC	NC	n=p|g=f	
+11	spatiales	spatial	ADJ	ADJ	n=p|g=f	
+12	et	et	CC	CC		
+13	qui	qui	PROREL	PROREL	n=s	
+14	connaissent	connaître	V	V	n=p|t=P,S|p=3	
+15	Bourane	_	NPP	NPP		
+16	trouvent	trouver	V	V	n=p|t=P,S|p=3	
+17	cet	cet	DET	DET	n=s|g=m	
+18	atterrissage	atterrissage	NC	NC	n=s|g=m	
+19	magnifique3	_	ADJ	ADJ		
+20	et	et	CC	CC		
+21	même	même	ADV	ADV		
+22	certains	certain	PRO	PRO	n=p|g=m	
+23	affirment	affirmer	V	V	n=p|t=P,S|p=3	
+24	(	(	PONCT	PONCT		
+25	c'	ce	CLS	CLS		
+26	est	être	V	V	n=s|t=P|p=3	
+27	-	-	PONCT	PONCT		
+28	à	à	P	P		
+29	-	-	PONCT	PONCT		
+30	dire	dire	VINF	VINF	t=W	
+31	d'	de	P	P		
+32	après	après	P	P		
+33	eux	eux	PRO	PRO	n=p|g=m|p=3	
+34	,	,	PONCT	PONCT		
+35	mais	mais	CC	CC		
+36	rien	rien	PRO	PRO	n=s|g=m	
+37	ne	ne	ADV	ADV		
+38	le	le	CLO	CLO	n=s|g=m|p=3	
+39	prouve	prouver	V	V	n=s|t=P,S|p=1,3	
+40	)	)	PONCT	PONCT		
+41	qu'	que	CS	CS		
+42	aucun	aucun	DET	DET	n=s|g=m	
+43	pilote	pilote	NC	NC	n=s	
+44	ne	ne	ADV	ADV		
+45	pourrait	pouvoir	V	V	n=s|t=C|p=3	
+46	faire	faire	VINF	VINF	t=W	
+47	de	de	DET	DET	n=p	
+48	meilleur	meilleur	ADJ	ADJ	n=s|g=m	
+49	atterrissage	atterrissage	NC	NC	n=s|g=m	
+50	(	(	PONCT	PONCT		
+51	ce	ce	PRO	PRO	n=s	
+52	qui	qui	PROREL	PROREL	n=s	
+53	signifierait	signifier	V	V	n=s|t=C|p=3	
+54	qu'	que	CS	CS		
+55	aucun	aucun	PRO	PRO	n=s|g=m	
+56	des	de	P+D	P+D	n=p	
+57	137	137	ADJ	ADJ		
+58	atterrissages	atterrissage	NC	NC	n=p|g=m	
+59	de	de	P	P		
+60	la	la	DET	DET	n=s|g=f	
+61	navette	navette	NC	NC	n=s|g=f	
+62	spatiale	spatial	ADJ	ADJ	n=s|g=f	
+63	américaine	américain	ADJ	ADJ	n=s|g=f	
+64	n'	ne	ADV	ADV		
+65	aurait	avoir	V	V	n=s|t=C|p=3	
+66	pu	pouvoir	VPP	VPP	t=K	
+67	égaler	égaler	VINF	VINF	t=W	
+68	cet	cet	DET	DET	n=s|g=m	
+69	unique	unique	ADJ	ADJ	n=s	
+70	atterrissage	atterrissage	NC	NC	n=s|g=m	
+71	de	de	P	P		
+72	Bourane	_	NPP	NPP		
+73	en	en	P	P		
+74	termes	terme	NC	NC	n=p|g=m	
+75	de	de	P	P		
+76	précision	précision	NC	NC	n=s|g=f	
+77	et	et	CC	CC		
+78	d'	de	P	P		
+79	élégance	élégance	NC	NC	n=s|g=f	
+80	)	)	PONCT	PONCT		
+81	4	4	NC	NC		
+82	.	.	PONCT	PONCT		
+
+1	Bourane	_	NPP	NPP		
+2	possède	posséder	V	V	n=s|t=P,S|p=1,3	
+3	38600	38600	ADJ	ADJ		
+4	tuiles	tuile	NC	NC	n=p|g=f	
+5	de	de	P	P		
+6	protection	protection	NC	NC	n=s|g=f	
+7	pour	pour	P	P		
+8	la	la	DET	DET	n=s|g=f	
+9	rentrée	rentrée	NC	NC	n=s|g=f	
+10	dans	dans	P	P		
+11	l'	le	DET	DET	n=s	
+12	atmosphère	atmosphère	NC	NC	n=s|g=f	
+13	.	.	PONCT	PONCT		
+
+1	Sur	sur	P	P		
+2	toutes	tout	ADJ	ADJ	n=p|g=f	
+3	ces	ces	DET	DET	n=p	
+4	38600	38600	ADJ	ADJ		
+5	tuiles	tuile	NC	NC	n=p|g=f	
+6	,	,	PONCT	PONCT		
+7	seules	seul	ADJ	ADJ	n=p|g=f	
+8	7	7	NC	NC		
+9	ont	avoir	V	V	n=p|t=P|p=3	
+10	été	être	VPP	VPP	t=K	
+11	arrachées	arracher	VPP	VPP	n=p|g=f|t=K	
+12	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	bouclier	bouclier	NC	NC	n=s|g=m	
+3	thermique	thermique	ADJ	ADJ	n=s	
+4	a	avoir	V	V	n=s|t=P|p=3	
+5	donc	donc	ADV	ADV		
+6	très	très	ADV	ADV		
+7	bien	bien	ADV	ADV		
+8	résisté	résister	VPP	VPP	n=s|g=m|t=K	
+9	à	à	P	P		
+10	la	la	DET	DET	n=s|g=f	
+11	rentrée	rentrée	NC	NC	n=s|g=f	
+12	dans	dans	P	P		
+13	l'	le	DET	DET	n=s	
+14	atmosphère	atmosphère	NC	NC	n=s|g=f	
+15	.	.	PONCT	PONCT		
+
+1	Cet	cet	DET	DET	n=s|g=m	
+2	unique	unique	ADJ	ADJ	n=s	
+3	vol	vol	NC	NC	n=s|g=m	
+4	de	de	P	P		
+5	Bourane	_	NPP	NPP		
+6	a	avoir	V	V	n=s|t=P|p=3	
+7	démontré	démontrer	VPP	VPP	n=s|g=m|t=K	
+8	la	la	DET	DET	n=s|g=f	
+9	possibilité	possibilité	NC	NC	n=s|g=f	
+10	d'	de	P	P		
+11	utiliser	utiliser	VINF	VINF	t=W	
+12	la	la	DET	DET	n=s|g=f	
+13	navette	navette	NC	NC	n=s|g=f	
+14	pour	pour	P	P		
+15	des	des	DET	DET	n=p	
+16	missions	mission	NC	NC	n=p|g=f	
+17	non	non	ADV	ADV		
+18	habitées5	_	ADJ	ADJ		
+19	.	.	PONCT	PONCT		
+
+1	Après	après	P	P		
+2	la	la	DET	DET	n=s|g=f	
+3	fin	fin	NC	NC	n=s	
+4	du	de	P+D	P+D	n=s|g=m	
+5	programme	programme	NC	NC	n=s|g=m	
+6	Bourane	_	NPP	NPP		
+7	,	,	PONCT	PONCT		
+8	la	la	DET	DET	n=s|g=f	
+9	navette	navette	NC	NC	n=s|g=f	
+10	du	de	P+D	P+D	n=s|g=m	
+11	même	même	ADJ	ADJ	n=s	
+12	nom	nom	NC	NC	n=s|g=m	
+13	est	être	V	V	n=s|t=P|p=3	
+14	déposée	déposer	VPP	VPP	n=s|g=f|t=K	
+15	sur	sur	P	P		
+16	une	une	DET	DET	n=s|g=f	
+17	maquette	maquette	NC	NC	n=s|g=f	
+18	d'	de	P	P		
+19	un	un	DET	DET	n=s|g=m	
+20	lanceur	lanceur	NC	NC	n=s|g=m	
+21	Energia	_	NPP	NPP		
+22	aux	à	P+D	P+D	n=p	
+23	mêmes	même	ADJ	ADJ	n=p	
+24	dimensions	dimension	NC	NC	n=p|g=f	
+25	qu'	que	CS	CS		
+26	un	un	DET	DET	n=s|g=m	
+27	vrai	vrai	ADJ	ADJ	n=s|g=m	
+28	,	,	PONCT	PONCT		
+29	dans	dans	P	P		
+30	un	un	DET	DET	n=s|g=m	
+31	hangar	hangar	NC	NC	n=s|g=m	
+32	librement	_	ADV	ADV		
+33	ouvert	ouvrir	VPP	VPP	n=s|g=m|t=K	
+34	aux	à	P+D	P+D	n=p	
+35	visites	visite	NC	NC	n=p|g=f	
+36	:	:	PONCT	PONCT		
+37	le	le	DET	DET	n=s|g=m	
+38	hangar	hangar	NC	NC	n=s|g=m	
+39	112	112	ADJ	ADJ		
+40	.	.	PONCT	PONCT		
+
+1	Celui	celui	PRO	PRO	n=s|g=m	
+2	-	-	PONCT	PONCT		
+3	ci	_	NPP	NPP		
+4	se	se	CLR	CLR	n=p,s|p=3	
+5	trouve	trouver	V	V	n=s|t=P,S|p=1,3	
+6	à	à	P	P		
+7	Baïkonour	_	NPP	NPP		
+8	,	,	PONCT	PONCT		
+9	au	à	P+D	P+D	n=s|g=m	
+10	Kazakhstan	Kazakhstan	NPP	NPP	n=s|g=m	
+11	,	,	PONCT	PONCT		
+12	pays	pays	NC	NC	g=m	
+13	dont	dont	PROREL	PROREL		
+14	la	la	DET	DET	n=s|g=f	
+15	navette	navette	NC	NC	n=s|g=f	
+16	est	être	V	V	n=s|t=P|p=3	
+17	devenue	devenir	VPP	VPP	n=s|g=f|t=K	
+18	la	la	DET	DET	n=s|g=f	
+19	propriété	propriété	NC	NC	n=s|g=f	
+20	.	.	PONCT	PONCT		
+
+1	Depuis	depuis	P	P		
+2	l'	le	DET	DET	n=s	
+3	annulation	annulation	NC	NC	n=s|g=f	
+4	du	de	P+D	P+D	n=s|g=m	
+5	programme	programme	NC	NC	n=s|g=m	
+6	Bourane	_	NPP	NPP		
+7	,	,	PONCT	PONCT		
+8	le	le	DET	DET	n=s|g=m	
+9	hangar	hangar	NC	NC	n=s|g=m	
+10	112	112	ADJ	ADJ		
+11	est	être	V	V	n=s|t=P|p=3	
+12	nettement	_	ADV	ADV		
+13	moins	moins	ADV	ADV		
+14	bien	bien	ADV	ADV		
+15	entretenu	entretenir	VPP	VPP	n=s|g=m|t=K	
+16	qu'	que	CS	CS		
+17	autrefois	autrefois	ADV	ADV		
+18	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	priorités	priorité	NC	NC	n=p|g=f	
+3	du	de	P+D	P+D	n=s|g=m	
+4	Kazakhstan	Kazakhstan	NPP	NPP	n=s|g=m	
+5	ne	ne	ADV	ADV		
+6	sont	être	V	V	n=p|t=P|p=3	
+7	pas	pas	ADV	ADV		
+8	sur	sur	P	P		
+9	l'	le	DET	DET	n=s	
+10	entretien	entretien	NC	NC	n=s|g=m	
+11	de	de	P	P		
+12	la	la	DET	DET	n=s|g=f	
+13	navette	navette	NC	NC	n=s|g=f	
+14	soviétique	soviétique	ADJ	ADJ	n=s	
+15	et	et	CC	CC		
+16	de	de	P	P		
+17	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+18	hangar	hangar	NC	NC	n=s|g=m	
+19	.	.	PONCT	PONCT		
+
+1	Seul	seul	ADJ	ADJ	n=s|g=m	
+2	le	le	DET	DET	n=s|g=m	
+3	strict	strict	ADJ	ADJ	n=s|g=m	
+4	minimum	minimum	NC	NC	n=s|g=m	
+5	est	être	V	V	n=s|t=P|p=3	
+6	entretenu	entretenir	VPP	VPP	n=s|g=m|t=K	
+7	.	.	PONCT	PONCT		
+
+1	Baïkonour	_	NPP	NPP		
+2	est	être	V	V	n=s|t=P|p=3	
+3	une	une	DET	DET	n=s|g=f	
+4	région	région	NC	NC	n=s|g=f	
+5	aride	aride	ADJ	ADJ	n=s	
+6	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	été	été	NC	NC	n=s|g=m	
+3	,	,	PONCT	PONCT		
+4	il	il	CLS	CLS	n=s|g=m|p=3	
+5	fait	faire	V	V	n=s|t=P|p=3	
+6	très	très	ADV	ADV		
+7	chaud	chaud	ADJ	ADJ	n=s|g=m	
+8	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	hiver	hiver	NC	NC	n=s|g=m	
+3	,	,	PONCT	PONCT		
+4	il	il	CLS	CLS	n=s|g=m|p=3	
+5	fait	faire	V	V	n=s|t=P|p=3	
+6	très	très	ADV	ADV		
+7	froid	froid	ADJ	ADJ	n=s|g=m	
+8	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	toit	toit	NC	NC	n=s|g=m	
+3	du	de	P+D	P+D	n=s|g=m	
+4	hangar	hangar	NC	NC	n=s|g=m	
+5	possédait	posséder	V	V	n=s|t=I|p=3	
+6	une	une	DET	DET	n=s|g=f	
+7	mousse	mousse	NC	NC	n=s	
+8	isolante	isolant	ADJ	ADJ	n=s|g=f	
+9	qui	qui	PROREL	PROREL	n=s	
+10	lui	lui	CLO	CLO	n=s|p=3	
+11	permettait	permettre	V	V	n=s|t=I|p=3	
+12	de	de	P	P		
+13	résister	résister	VINF	VINF	t=W	
+14	à	à	P	P		
+15	ces	ces	DET	DET	n=p	
+16	températures	température	NC	NC	n=p|g=f	
+17	très	très	ADV	ADV		
+18	variables	variable	ADJ	ADJ	n=p	
+19	.	.	PONCT	PONCT		
+
+1	Cette	cette	DET	DET	n=s|g=f	
+2	mousse	mousse	NC	NC	n=s	
+3	se	se	CLR	CLR	n=p,s|p=3	
+4	comportait	comporter	V	V	n=s|t=I|p=3	
+5	comme	comme	P	P		
+6	une	une	DET	DET	n=s|g=f	
+7	éponge	éponge	NC	NC	n=s|g=f	
+8	(	(	PONCT	PONCT		
+9	pour	pour	P	P		
+10	rappel	rappel	NC	NC	n=s|g=m	
+11	,	,	PONCT	PONCT		
+12	le	le	DET	DET	n=s|g=m	
+13	lieu	lieu	NC	NC	n=s|g=m	
+14	est	être	V	V	n=s|t=P|p=3	
+15	aride	aride	ADJ	ADJ	n=s	
+16	:	:	PONCT	PONCT		
+17	il	il	CLS	CLS	n=s|g=m|p=3	
+18	ne	ne	ADV	ADV		
+19	pleut	pleuvoir	V	V	n=s|t=P|p=3	
+20	que	que	CS	CS		
+21	quelques	quelques	DET	DET	n=p	
+22	jours	jour	NC	NC	n=p|g=m	
+23	par	par	P	P		
+24	an	an	NC	NC	n=s|g=m	
+25	)	)	PONCT	PONCT		
+26	.	.	PONCT	PONCT		
+
+1	Un	un	DET	DET	n=s|g=m	
+2	jour	jour	NC	NC	n=s|g=m	
+3	où	où	PROREL	PROREL		
+4	il	il	CLS	CLS	n=s|g=m|p=3	
+5	a	avoir	V	V	n=s|t=P|p=3	
+6	beaucoup	beaucoup	ADV	ADV		
+7	plu	plaire	VPP	VPP	n=s|g=m|t=K	
+8	,	,	PONCT	PONCT		
+9	le	le	DET	DET	n=s|g=m	
+10	12	12	ADJ	ADJ		
+11	mai	mai	NC	NC	n=s|g=m	
+12	2002	2002	NC	NC		
+13	,	,	PONCT	PONCT		
+14	le	le	DET	DET	n=s|g=m	
+15	toit	toit	NC	NC	n=s|g=m	
+16	du	de	P+D	P+D	n=s|g=m	
+17	hangar	hangar	NC	NC	n=s|g=m	
+18	s'	se	CLR	CLR	n=p,s|p=3	
+19	est	être	V	V	n=s|t=P|p=3	
+20	effondré	effondrer	VPP	VPP	n=s|g=m|t=K	
+21	sous	sous	P	P		
+22	le	le	DET	DET	n=s|g=m	
+23	poids	poids	NC	NC	g=m	
+24	de	de	P	P		
+25	l'	le	DET	DET	n=s	
+26	eau	eau	NC	NC	n=s|g=f	
+27	,	,	PONCT	PONCT		
+28	tuant	tuer	VPR	VPR	t=G	
+29	sept	sept	DET	DET	s=card|n=p	
+30	ouvriers	ouvrier	NC	NC	n=p|g=m	
+31	(	(	PONCT	PONCT		
+32	qui	qui	PROREL	PROREL	n=s	
+33	tentaient	tenter	V	V	n=p|t=I|p=3	
+34	de	de	P	P		
+35	consolider	consolider	VINF	VINF	t=W	
+36	le	le	DET	DET	n=s|g=m	
+37	toit	toit	NC	NC	n=s|g=m	
+38	et	et	CC	CC		
+39	d'	de	P	P		
+40	empêcher	empêcher	VINF	VINF	t=W	
+41	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+42	effondrement	effondrement	NC	NC	n=s|g=m	
+43	)	)	PONCT	PONCT		
+44	et	et	CC	CC		
+45	détruisant	détruire	VPR	VPR	t=G	
+46	complètement	_	ADV	ADV		
+47	la	la	DET	DET	n=s|g=f	
+48	navette	navette	NC	NC	n=s|g=f	
+49	spatiale	spatial	ADJ	ADJ	n=s|g=f	
+50	Bourane	_	NPP	NPP		
+51	avec	avec	P	P		
+52	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+53	lanceur	lanceur	NC	NC	n=s|g=m	
+54	Energia	_	NPP	NPP		
+55	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	ne	ne	ADV	ADV		
+3	s'	se	CLR	CLR	n=p,s|p=3	
+4	agit	agir	V	V	n=s|t=J,P|p=3	
+5	donc	donc	ADV	ADV		
+6	pas	pas	ADV	ADV		
+7	d'	de	P	P		
+8	un	un	DET	DET	n=s|g=m	
+9	accident	accident	NC	NC	n=s|g=m	
+10	spatial	spatial	ADJ	ADJ	n=s|g=m	
+11	,	,	PONCT	PONCT		
+12	mais	mais	CC	CC		
+13	d'	de	P	P		
+14	un	un	DET	DET	n=s|g=m	
+15	accident	accident	NC	NC	n=s|g=m	
+16	de	de	P	P		
+17	chantier6	_	NC	NC		
+18	.	.	PONCT	PONCT		
+
+1	Par	par	P	P		
+2	conséquent	conséquent	ADJ	ADJ	n=s|g=m	
+3	,	,	PONCT	PONCT		
+4	et	et	CC	CC		
+5	pour	pour	P	P		
+6	éviter	éviter	VINF	VINF	t=W	
+7	de	de	P	P		
+8	perdre	perdre	VINF	VINF	t=W	
+9	une	une	DET	DET	n=s|g=f	
+10	seconde	second	ADJ	ADJ	n=s|g=f	
+11	navette	navette	NC	NC	n=s|g=f	
+12	dans	dans	P	P		
+13	un	un	DET	DET	n=s|g=m	
+14	accident	accident	NC	NC	n=s|g=m	
+15	de	de	P	P		
+16	ce	ce	DET	DET	n=s|g=m	
+17	type	type	NC	NC	n=s|g=m	
+18	,	,	PONCT	PONCT		
+19	la	la	DET	DET	n=s|g=f	
+20	plupart	plupart	NC	NC	n=s|g=f	
+21	des	de	P+D	P+D	n=p	
+22	autres	autre	ADJ	ADJ	n=p	
+23	engins	engin	NC	NC	n=p|g=m	
+24	de	de	P	P		
+25	l'	le	DET	DET	n=s	
+26	ancien	ancien	ADJ	ADJ	n=s|g=m	
+27	programme	programme	NC	NC	n=s|g=m	
+28	sont	être	V	V	n=p|t=P|p=3	
+29	déplacés	déplacer	VPP	VPP	n=p|g=m|t=K	
+30	de	de	P	P		
+31	leur	leur	DET	DET	n=s|p=3|poss=p	
+32	hangar	hangar	NC	NC	n=s|g=m	
+33	dont	dont	PROREL	PROREL		
+34	la	la	DET	DET	n=s|g=f	
+35	navette	navette	NC	NC	n=s|g=f	
+36	spatiale	spatial	ADJ	ADJ	n=s|g=f	
+37	Ptichka	_	NPP	NPP		
+38	,	,	PONCT	PONCT		
+39	Baïkal7	_	NPP	NPP		
+40	et	et	CC	CC		
+41	l'	le	DET	DET	n=s	
+42	orbiteur	_	NC	NC		
+43	2.02	2.02	NPP	NPP		
+44	...	...	PONCT	PONCT		
+
+1	Aujourd'hui	aujourd'hui	ADV	ADV		
+2	,	,	PONCT	PONCT		
+3	la	la	DET	DET	n=s|g=f	
+4	seconde	second	ADJ	ADJ	n=s|g=f	
+5	navette	navette	NC	NC	n=s|g=f	
+6	spatiale	spatial	ADJ	ADJ	n=s|g=f	
+7	,	,	PONCT	PONCT		
+8	Ptichka	_	NPP	NPP		
+9	,	,	PONCT	PONCT		
+10	est	être	V	V	n=s|t=P|p=3	
+11	le	le	DET	DET	n=s|g=m	
+12	seul	seul	ADJ	ADJ	n=s|g=m	
+13	orbiteur	_	NC	NC		
+14	complet	complet	ADJ	ADJ	n=s|g=m	
+15	du	de	P+D	P+D	n=s|g=m	
+16	programme	programme	NC	NC	n=s|g=m	
+17	Bourane	_	NC	NC		
+18	soviétique	soviétique	ADJ	ADJ	n=s	
+19	.	.	PONCT	PONCT		
+

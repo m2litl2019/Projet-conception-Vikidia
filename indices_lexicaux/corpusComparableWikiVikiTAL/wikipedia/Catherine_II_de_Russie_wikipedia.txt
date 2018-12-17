@@ -1,0 +1,4872 @@
+1	Catherine	Catherine	NPP	NPP	n=s|g=f	
+2	II	_	NPP	NPP		
+3	(	(	PONCT	PONCT		
+4	en	en	P	P		
+5	russe	russe	ADJ	ADJ	n=s	
+6	:	:	PONCT	PONCT		
+7	Екатерина	_	NPP	NPP		
+8	II	_	NPP	NPP		
+9	)	)	PONCT	PONCT		
+10	,	,	PONCT	PONCT		
+11	née	naître	VPP	VPP	n=s|g=f|t=K	
+12	Sophie	Sophie	NPP	NPP	n=s|g=f	
+13	Frédérique	Frédérique	NPP	NPP	n=s|g=f	
+14	Augusta	Augusta	NPP	NPP	n=s|g=f,m	
+15	d'	de	P	P		
+16	Anhalt	_	NPP	NPP		
+17	-	-	PONCT	PONCT		
+18	Zerbst	_	NPP	NPP		
+19	(	(	PONCT	PONCT		
+20	en	en	P	P		
+21	russe	russe	ADJ	ADJ	n=s	
+22	:	:	PONCT	PONCT		
+23	София	_	NPP	NPP		
+24	Фредерика	_	NPP	NPP		
+25	Августа	_	NPP	NPP		
+26	Цербст	_	NPP	NPP		
+27	-	-	PONCT	PONCT		
+28	Ангальтская	_	NPP	NPP		
+29	)	)	PONCT	PONCT		
+30	le	le	DET	DET	n=s|g=m	
+31	2	2	ADJ	ADJ		
+32	mai	mai	NC	NC	n=s|g=m	
+33	1729	1729	NC	NC		
+34	à	à	P	P		
+35	Stettin	_	NPP	NPP		
+36	en	en	P	P		
+37	Poméranie	_	NPP	NPP		
+38	et	et	CC	CC		
+39	morte	mort	ADJ	ADJ	n=s|g=f|t=K	
+40	le	le	DET	DET	n=s|g=m	
+41	6	6	ADJ	ADJ		
+42	novembre	novembre	NC	NC	n=s|g=m	
+43	1796	1796	NC	NC		
+44	(	(	PONCT	PONCT		
+45	17	17	ADJ	ADJ		
+46	novembre	novembre	NC	NC	n=s|g=m	
+47	1796	1796	NC	NC		
+48	dans	dans	P	P		
+49	le	le	DET	DET	n=s|g=m	
+50	calendrier	calendrier	NC	NC	n=s|g=m	
+51	grégorien	grégorien	ADJ	ADJ	n=s|g=m	
+52	)	)	PONCT	PONCT		
+53	à	à	P	P		
+54	Saint	_	NPP	NPP		
+55	-	-	PONCT	PONCT		
+56	Pétersbourg	_	NPP	NPP		
+57	,	,	PONCT	PONCT		
+58	surnommée	surnommer	VPP	VPP	n=s|g=f|t=K	
+59	"	"	PONCT	PONCT		
+60	Figchen	_	NPP	NPP		
+61	"	"	PONCT	PONCT		
+62	,	,	PONCT	PONCT		
+63	puis	puis	CC	CC		
+64	la	la	DET	DET	n=s|g=f	
+65	"	"	PONCT	PONCT		
+66	Grande	grand	ADJ	ADJ	n=s|g=f	
+67	Catherine	Catherine	NPP	NPP	n=s|g=f	
+68	"	"	PONCT	PONCT		
+69	,	,	PONCT	PONCT		
+70	est	être	V	V	n=s|t=P|p=3	
+71	impératrice	empereur	NC	NC	n=s|g=f	
+72	et	et	CC	CC		
+73	autocrate	autocrate	NC	NC	n=s	
+74	de	de	P	P		
+75	toutes	tout	ADJ	ADJ	n=p|g=f	
+76	les	les	DET	DET	n=p	
+77	Russies	_	NC	NC		
+78	du	de	P+D	P+D	n=s|g=m	
+79	28	28	ADJ	ADJ		
+80	juin	juin	NC	NC	n=s|g=m	
+81	1762	1762	NC	NC		
+82	(	(	PONCT	PONCT		
+83	9	9	ADJ	ADJ		
+84	juillet	juillet	NC	NC	n=s|g=m	
+85	1762	1762	NC	NC		
+86	dans	dans	P	P		
+87	le	le	DET	DET	n=s|g=m	
+88	calendrier	calendrier	NC	NC	n=s|g=m	
+89	grégorien	grégorien	ADJ	ADJ	n=s|g=m	
+90	)	)	PONCT	PONCT		
+91	à	à	P	P		
+92	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+93	mort	mort	NC	NC	n=s|g=f,m	
+94	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	future	futur	ADJ	ADJ	n=s|g=f	
+3	Catherine	Catherine	NPP	NPP	n=s|g=f	
+4	II	_	NPP	NPP		
+5	,	,	PONCT	PONCT		
+6	née	naître	VPP	VPP	n=s|g=f|t=K	
+7	Sophie	Sophie	NPP	NPP	n=s|g=f	
+8	Frédérique	Frédérique	NPP	NPP	n=s|g=f	
+9	Augusta	Augusta	NPP	NPP	n=s|g=f,m	
+10	d'	de	P	P		
+11	Anhalt	_	NPP	NPP		
+12	-	-	PONCT	PONCT		
+13	Zerbst	_	NPP	NPP		
+14	le	le	DET	DET	n=s|g=m	
+15	21	21	ADJ	ADJ		
+16	avril	avril	NC	NC	n=s|g=m	
+17	1729	1729	NC	NC		
+18	(	(	PONCT	PONCT		
+19	2	2	ADJ	ADJ		
+20	mai	mai	NC	NC	n=s|g=m	
+21	1729	1729	NC	NC		
+22	dans	dans	P	P		
+23	le	le	DET	DET	n=s|g=m	
+24	calendrier	calendrier	NC	NC	n=s|g=m	
+25	grégorien	grégorien	ADJ	ADJ	n=s|g=m	
+26	)	)	PONCT	PONCT		
+27	,	,	PONCT	PONCT		
+28	est	être	V	V	n=s|t=P|p=3	
+29	l'	le	DET	DET	n=s	
+30	aînée	aîné	NC	NC	n=s|g=f	
+31	des	de	P+D	P+D	n=p	
+32	enfants	enfant	NC	NC	n=p	
+33	de	de	P	P		
+34	Christian	Christian	NPP	NPP	n=s|g=m	
+35	-	-	PONCT	PONCT		
+36	Auguste	auguste	ADJ	ADJ	n=s	
+37	d'	de	P	P		
+38	Anhalt	_	NPP	NPP		
+39	-	-	PONCT	PONCT		
+40	Zerbst	_	NPP	NPP		
+41	et	et	CC	CC		
+42	de	de	P	P		
+43	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+44	épouse	épouse	NC	NC	n=s|g=f	
+45	Jeanne	Jeanne	NPP	NPP	n=s|g=f	
+46	-	-	PONCT	PONCT		
+47	Élisabeth	Élisabeth	NPP	NPP	n=s|g=f	
+48	de	de	P	P		
+49	Holstein	_	NPP	NPP		
+50	-	-	PONCT	PONCT		
+51	Gottorp	_	NPP	NPP		
+52	.	.	PONCT	PONCT		
+
+1	Lors	lors	ADV	ADV		
+2	de	de	P	P		
+3	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+4	naissance	naissance	NC	NC	n=s|g=f	
+5	,	,	PONCT	PONCT		
+6	ses	ses	DET	DET	n=p|p=3|poss=s	
+7	parents	parent	NC	NC	n=p|g=m	
+8	déplorent	déplorer	V	V	n=p|t=P,S|p=3	
+9	qu'	que	CS	CS		
+10	elle	elle	CLS	CLS	n=s|g=f|p=3	
+11	ne	ne	ADV	ADV		
+12	soit	être	VS	VS	n=s|t=S|p=3	
+13	pas	pas	ADV	ADV		
+14	un	un	DET	DET	n=s|g=m	
+15	garçon	garçon	NC	NC	n=s|g=m	
+16	.	.	PONCT	PONCT		
+
+1	De	de	P	P		
+2	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+3	éducation	éducation	NC	NC	n=s|g=f	
+4	protestante	protestant	ADJ	ADJ	n=s|g=f	
+5	,	,	PONCT	PONCT		
+6	austère	austère	ADJ	ADJ	n=s	
+7	,	,	PONCT	PONCT		
+8	rigide	rigide	ADJ	ADJ	n=s	
+9	,	,	PONCT	PONCT		
+10	entourée	entourer	VPP	VPP	n=s|g=f|t=K	
+11	de	de	P	P		
+12	peu	peu	ADV	ADV		
+13	d'	de	P	P		
+14	affection	affection	NC	NC	n=s|g=f	
+15	,	,	PONCT	PONCT		
+16	une	une	DET	DET	n=s|g=f	
+17	femme	femme	NC	NC	n=s|g=f	
+18	demeure	demeurer	V	V	n=s|t=P,S|p=1,3	
+19	en	en	P	P		
+20	la	la	DET	DET	n=s|g=f	
+21	personne	personne	NC	NC	n=s|g=f	
+22	d'	de	P	P		
+23	une	une	DET	DET	n=s|g=f	
+24	huguenote	huguenot	NC	NC	n=s|g=f	
+25	française	français	ADJ	ADJ	n=s|g=f	
+26	,	,	PONCT	PONCT		
+27	Babette	Babette	NPP	NPP	n=s|g=f	
+28	Cardel	_	NPP	NPP		
+29	,	,	PONCT	PONCT		
+30	qui	qui	PROREL	PROREL	n=s	
+31	dirige	diriger	V	V	n=s|t=P,S|p=1,3	
+32	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+33	éducation	éducation	NC	NC	n=s|g=f	
+34	et	et	CC	CC		
+35	lui	lui	CLO	CLO	n=s|p=3	
+36	enseigne	enseigner	V	V	n=s|t=P,S|p=1,3	
+37	avec	avec	P	P		
+38	la	la	DET	DET	n=s|g=f	
+39	langue	langue	NC	NC	n=s|g=f	
+40	française	français	ADJ	ADJ	n=s|g=f	
+41	,	,	PONCT	PONCT		
+42	manières	manière	NC	NC	n=p|g=f	
+43	et	et	CC	CC		
+44	grâces	grâce	NC	NC	n=p|g=f	
+45	de	de	P	P		
+46	la	la	DET	DET	n=s|g=f	
+47	société	société	NC	NC	n=s|g=f	
+48	dont	dont	PROREL	PROREL		
+49	elle	elle	CLS	CLS	n=s|g=f|p=3	
+50	est	être	V	V	n=s|t=P|p=3	
+51	issue	issir	VPP	VPP	n=s|g=f|t=K	
+52	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	lui	lui	CLO	CLO	n=s|p=3	
+3	donne	donner	V	V	n=s|t=P,S|p=1,3	
+4	en	en	P	P		
+5	même	même	ADJ	ADJ	n=s	
+6	temps	temps	NC	NC	g=m	
+7	le	le	DET	DET	n=s|g=m	
+8	goût	goût	NC	NC	n=s|g=m	
+9	de	de	P	P		
+10	la	la	DET	DET	n=s|g=f	
+11	littérature	littérature	NC	NC	n=s|g=f	
+12	française	français	ADJ	ADJ	n=s|g=f	
+13	de	de	P	P		
+14	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+15	époque	époque	NC	NC	n=s|g=f	
+16	.	.	PONCT	PONCT		
+
+1	Très	très	ADV	ADV		
+2	vite	vite	ADV	ADV		
+3	,	,	PONCT	PONCT		
+4	la	la	DET	DET	n=s|g=f	
+5	princesse	princesse	NC	NC	n=s	
+6	se	se	CLR	CLR	n=p,s|p=3	
+7	tourne	tourner	V	V	n=s|t=P,S|p=1,3	
+8	vers	vers	P	P		
+9	des	des	DET	DET	n=p	
+10	activités	activité	NC	NC	n=p|g=f	
+11	spirituelles	spirituel	ADJ	ADJ	n=p|g=f	
+12	,	,	PONCT	PONCT		
+13	ainsi	ainsi	ADV	ADV		
+14	que	que	CS	CS		
+15	vers	vers	P	P		
+16	la	la	DET	DET	n=s|g=f	
+17	lecture	lecture	NC	NC	n=s|g=f	
+18	et	et	CC	CC		
+19	les	les	DET	DET	n=p	
+20	études	étude	NC	NC	n=p|g=f	
+21	.	.	PONCT	PONCT		
+
+1	Introduite	introduire	VPP	VPP	n=s|g=f|t=K	
+2	par	par	P	P		
+3	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+4	mère	mère	NC	NC	n=s|g=f	
+5	dans	dans	P	P		
+6	les	les	DET	DET	n=p	
+7	plus	plus	ADV	ADV		
+8	hautes	haut	ADJ	ADJ	n=p|g=f	
+9	cours	cour	NC	NC	n=p|g=f	
+10	d'	de	P	P		
+11	Allemagne	Allemagne	NPP	NPP	n=s|g=f	
+12	,	,	PONCT	PONCT		
+13	elle	elle	CLS	CLS	n=s|g=f|p=3	
+14	se	se	CLR	CLR	n=p,s|p=3	
+15	fait	faire	V	V	n=s|t=P|p=3	
+16	remarquer	remarquer	VINF	VINF	t=W	
+17	par	par	P	P		
+18	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+19	charisme	charisme	NC	NC	n=s|g=m	
+20	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	mère	mère	NC	NC	n=s|g=f	
+3	de	de	P	P		
+4	Sophie	Sophie	NPP	NPP	n=s|g=f	
+5	,	,	PONCT	PONCT		
+6	suivant	suivre	VPR	VPR	t=G	
+7	les	les	DET	DET	n=p	
+8	affaires	affaire	NC	NC	n=p|g=f	
+9	de	de	P	P		
+10	Russie	Russie	NPP	NPP	n=s|g=f	
+11	,	,	PONCT	PONCT		
+12	voit	voir	V	V	n=s|t=P|p=3	
+13	le	le	DET	DET	n=s|g=m	
+14	futur	futur	ADJ	ADJ	n=s|g=m	
+15	Pierre	Pierre	NPP	NPP	n=s|g=m	
+16	III	_	NPP	NPP		
+17	bien	bien	ADV	ADV		
+18	disposé	disposer	VPP	VPP	n=s|g=m|t=K	
+19	à	à	P	P		
+20	succéder	succéder	VINF	VINF	t=W	
+21	à	à	P	P		
+22	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+23	tante	tante	NC	NC	n=s|g=f	
+24	Élisabeth	Élisabeth	NPP	NPP	n=s|g=f	
+25	Petrovna	_	NPP	NPP		
+26	,	,	PONCT	PONCT		
+27	et	et	CC	CC		
+28	permet	permettre	V	V	n=s|t=P|p=3	
+29	une	une	DET	DET	n=s|g=f	
+30	union	union	NC	NC	n=s|g=f	
+31	avec	avec	P	P		
+32	Sophie	Sophie	NPP	NPP	n=s|g=f	
+33	.	.	PONCT	PONCT		
+
+1	Prenant	prendre	VPR	VPR	t=G	
+2	soin	soin	NC	NC	n=s|g=m	
+3	d'	de	P	P		
+4	envoyer	envoyer	VINF	VINF	t=W	
+5	des	des	DET	DET	n=p	
+6	portraits	portrait	NC	NC	n=p|g=m	
+7	de	de	P	P		
+8	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+9	fille	fille	NC	NC	n=s|g=f	
+10	à	à	P	P		
+11	la	la	DET	DET	n=s|g=f	
+12	cour	cour	NC	NC	n=s|g=f	
+13	,	,	PONCT	PONCT		
+14	ses	ses	DET	DET	n=p|p=3|poss=s	
+15	manœuvres	_	NC	NC		
+16	portent	porter	V	V	n=p|t=P,S|p=3	
+17	leurs	leurs	DET	DET	n=p|p=3|poss=p	
+18	fruits	fruit	NC	NC	n=p|g=m	
+19	et	et	CC	CC		
+20	,	,	PONCT	PONCT		
+21	en	en	P	P		
+22	janvier	janvier	NC	NC	n=s|g=m	
+23	1744	1744	NC	NC		
+24	,	,	PONCT	PONCT		
+25	elle	elle	CLS	CLS	n=s|g=f|p=3	
+26	et	et	CC	CC		
+27	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+28	fille	fille	NC	NC	n=s|g=f	
+29	sont	être	V	V	n=p|t=P|p=3	
+30	conviées	convier	VPP	VPP	n=p|g=f|t=K	
+31	en	en	P	P		
+32	Russie	Russie	NPP	NPP	n=s|g=f	
+33	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	intentions	intention	NC	NC	n=p|g=f	
+3	de	de	P	P		
+4	l'	le	DET	DET	n=s	
+5	impératrice	empereur	NC	NC	n=s|g=f	
+6	sont	être	V	V	n=p|t=P|p=3	
+7	claires	clair	ADJ	ADJ	n=p|g=f	
+8	,	,	PONCT	PONCT		
+9	Sophie	Sophie	NPP	NPP	n=s|g=f	
+10	sera	être	V	V	n=s|t=F|p=3	
+11	la	la	DET	DET	n=s|g=f	
+12	future	futur	ADJ	ADJ	n=s|g=f	
+13	épouse	épouse	NC	NC	n=s|g=f	
+14	de	de	P	P		
+15	Pierre	Pierre	NPP	NPP	n=s|g=m	
+16	,	,	PONCT	PONCT		
+17	pourtant	pourtant	ADV	ADV		
+18	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+19	prestige	prestige	NC	NC	n=s|g=m	
+20	est	être	V	V	n=s|t=P|p=3	
+21	faible	faible	ADJ	ADJ	n=s	
+22	,	,	PONCT	PONCT		
+23	et	et	CC	CC		
+24	ce	ce	CLS	CLS		
+25	n'	ne	ADV	ADV		
+26	est	être	V	V	n=s|t=P|p=3	
+27	ni	ni	CC	CC		
+28	l'	le	DET	DET	n=s	
+29	or	or	NC	NC	n=s|g=m	
+30	ni	ni	CC	CC		
+31	une	une	DET	DET	n=s|g=f	
+32	alliance	alliance	NC	NC	n=s|g=f	
+33	puissante	puissant	ADJ	ADJ	n=s|g=f	
+34	qui	qui	PROREL	PROREL	n=s	
+35	pousse	pousser	V	V	n=s|t=P,S|p=1,3	
+36	au	à	P+D	P+D	n=s|g=m	
+37	choix	choix	NC	NC	g=m	
+38	de	de	P	P		
+39	Sophie	Sophie	NPP	NPP	n=s|g=f	
+40	.	.	PONCT	PONCT		
+
+1	Mais	mais	CC	CC		
+2	après	après	P	P		
+3	les	les	DET	DET	n=p	
+4	difficultés	difficulté	NC	NC	n=p|g=f	
+5	de	de	P	P		
+6	succession	succession	NC	NC	n=s|g=f	
+7	créées	créer	VPP	VPP	n=p|g=f|t=K	
+8	par	par	P	P		
+9	des	des	DET	DET	n=p	
+10	revendications	revendication	NC	NC	n=p|g=f	
+11	du	de	P+D	P+D	n=s|g=m	
+12	trône	trône	NC	NC	n=s|g=m	
+13	de	de	P	P		
+14	divers	_	NC	NC		
+15	partis	parti	NC	NC	n=p|g=m	
+16	,	,	PONCT	PONCT		
+17	Élisabeth	Élisabeth	NPP	NPP	n=s|g=f	
+18	est	être	V	V	n=s|t=P|p=3	
+19	décidée	décider	VPP	VPP	n=s|g=f|t=K	
+20	à	à	P	P		
+21	ne	ne	ADV	ADV		
+22	pas	pas	ADV	ADV		
+23	avoir	avoir	VINF	VINF	t=W	
+24	de	de	DET	DET	n=p	
+25	complications	complication	NC	NC	n=p|g=f	
+26	diplomatiques	diplomatique	ADJ	ADJ	n=p	
+27	ou	ou	CC	CC		
+28	de	de	P	P		
+29	revendications	revendication	NC	NC	n=p|g=f	
+30	extravagantes	extravagant	ADJ	ADJ	n=p|g=f	
+31	.	.	PONCT	PONCT		
+
+1	De	de	P	P		
+2	plus	plus	ADV	ADV		
+3	,	,	PONCT	PONCT		
+4	Sophie	Sophie	NPP	NPP	n=s|g=f	
+5	est	être	V	V	n=s|t=P|p=3	
+6	jeune	jeune	ADJ	ADJ	n=s	
+7	et	et	CC	CC		
+8	inexpérimentée	inexpérimenté	ADJ	ADJ	n=s|g=f	
+9	en	en	P	P		
+10	politique	politique	NC	NC	n=s|g=f	
+11	:	:	PONCT	PONCT		
+12	elle	elle	CLS	CLS	n=s|g=f|p=3	
+13	ne	ne	ADV	ADV		
+14	représente	représenter	V	V	n=s|t=P,S|p=1,3	
+15	apparemment	_	ADV	ADV		
+16	aucun	aucun	DET	DET	n=s|g=m	
+17	danger	danger	NC	NC	n=s|g=m	
+18	pour	pour	P	P		
+19	le	le	DET	DET	n=s|g=m	
+20	trône	trône	NC	NC	n=s|g=m	
+21	de	de	P	P		
+22	Russie	Russie	NPP	NPP	n=s|g=f	
+23	.	.	PONCT	PONCT		
+
+1	De	de	P	P		
+2	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+3	côté	côté	NC	NC	n=s|g=m	
+4	,	,	PONCT	PONCT		
+5	Sophie	Sophie	NPP	NPP	n=s|g=f	
+6	,	,	PONCT	PONCT		
+7	qui	qui	PROREL	PROREL	n=s	
+8	a	avoir	V	V	n=s|t=P|p=3	
+9	alors	alors	ADV	ADV		
+10	14	14	ADJ	ADJ		
+11	ans	an	NC	NC	n=p|g=m	
+12	,	,	PONCT	PONCT		
+13	comprend	comprendre	V	V	n=s|t=P|p=3	
+14	ce	ce	PRO	PRO	n=s	
+15	qui	qui	PROREL	PROREL	n=s	
+16	se	se	CLR	CLR	n=p,s|p=3	
+17	joue	jouer	V	V	n=s|t=P,S|p=1,3	
+18	.	.	PONCT	PONCT		
+
+1	Loin	loin	ADV	ADV		
+2	d'	de	P	P		
+3	être	être	VINF	VINF	t=W	
+4	ignorante	ignorant	ADJ	ADJ	n=s|g=f	
+5	du	de	P+D	P+D	n=s|g=m	
+6	prestige	prestige	NC	NC	n=s|g=m	
+7	et	et	CC	CC		
+8	du	de	P+D	P+D	n=s|g=m	
+9	pouvoir	pouvoir	NC	NC	n=s|g=m	
+10	qui	qui	PROREL	PROREL	n=s	
+11	s'	se	CLR	CLR	n=p,s|p=3	
+12	attacheraient	attacher	V	V	n=p|t=C|p=3	
+13	à	à	P	P		
+14	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+15	futur	futur	ADJ	ADJ	n=s|g=m	
+16	statut	statut	NC	NC	n=s|g=m	
+17	,	,	PONCT	PONCT		
+18	elle	elle	CLS	CLS	n=s|g=f|p=3	
+19	balaye	balayer	V	V	n=s|t=P,S|p=1,3	
+20	les	les	DET	DET	n=p	
+21	hésitations	hésitation	NC	NC	n=p|g=f	
+22	naissantes	naissant	ADJ	ADJ	n=p|g=f	
+23	de	de	P	P		
+24	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+25	mère	mère	NC	NC	n=s|g=f	
+26	vis	vivre	V	V	n=s|t=P|p=1,2	
+27	-	-	PONCT	PONCT		
+28	à	à	P	P		
+29	-	-	PONCT	PONCT		
+30	vis	vis	NC	NC	g=f	
+31	de	de	P	P		
+32	cette	cette	DET	DET	n=s|g=f	
+33	union	union	NC	NC	n=s|g=f	
+34	.	.	PONCT	PONCT		
+
+1	À	à	P	P		
+2	leur	leur	DET	DET	n=s|p=3|poss=p	
+3	arrivée	arrivée	NC	NC	n=s|g=f	
+4	en	en	P	P		
+5	Russie	Russie	NPP	NPP	n=s|g=f	
+6	,	,	PONCT	PONCT		
+7	Sophie	Sophie	NPP	NPP	n=s|g=f	
+8	et	et	CC	CC		
+9	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+10	mère	mère	NC	NC	n=s|g=f	
+11	sont	être	V	V	n=p|t=P|p=3	
+12	accueillies	accueillir	VPP	VPP	n=p|g=f|t=K	
+13	par	par	P	P		
+14	toute	tout	ADJ	ADJ	n=s|g=f	
+15	une	une	DET	DET	n=s|g=f	
+16	grande	grand	ADJ	ADJ	n=s|g=f	
+17	procession	procession	NC	NC	n=s|g=f	
+18	jusqu'	jusque	P	P		
+19	à	à	P	P		
+20	Moscou	Moscou	NPP	NPP	n=s|g=m	
+21	.	.	PONCT	PONCT		
+
+1	Elles	elles	CLS	CLS	n=p|g=f|p=3	
+2	rencontrent	rencontrer	V	V	n=p|t=P,S|p=3	
+3	alors	alors	ADV	ADV		
+4	l'	le	DET	DET	n=s	
+5	impératrice	empereur	NC	NC	n=s|g=f	
+6	et	et	CC	CC		
+7	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+8	neveu	neveu	NC	NC	n=s|g=m	
+9	Pierre	Pierre	NPP	NPP	n=s|g=m	
+10	.	.	PONCT	PONCT		
+
+1	Dans	dans	P	P		
+2	ses	ses	DET	DET	n=p|p=3|poss=s	
+3	Mémoires	_	NPP	NPP		
+4	,	,	PONCT	PONCT		
+5	Catherine	Catherine	NPP	NPP	n=s|g=f	
+6	parle	parler	V	V	n=s|t=P,S|p=1,3	
+7	de	de	P	P		
+8	la	la	DET	DET	n=s|g=f	
+9	grandeur	grandeur	NC	NC	n=s|g=f	
+10	d'	de	P	P		
+11	Élisabeth	Élisabeth	NPP	NPP	n=s|g=f	
+12	,	,	PONCT	PONCT		
+13	mais	mais	CC	CC		
+14	ne	ne	ADV	ADV		
+15	dit	dire	V	V	n=s|t=J,P|p=3	
+16	mot	mot	NC	NC	n=s|g=m	
+17	sur	sur	P	P		
+18	l'	le	DET	DET	n=s	
+19	impression	impression	NC	NC	n=s|g=f	
+20	que	que	PROREL	PROREL		
+21	lui	lui	CLO	CLO	n=s|p=3	
+22	laisse	laisser	V	V	n=s|t=P,S|p=1,3	
+23	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+24	futur	futur	ADJ	ADJ	n=s|g=m	
+25	époux	époux	NC	NC	g=m	
+26	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	ascension	ascension	NC	NC	n=s|g=f	
+3	vers	vers	P	P		
+4	le	le	DET	DET	n=s|g=m	
+5	statut	statut	NC	NC	n=s|g=m	
+6	de	de	P	P		
+7	grande	grand	ADJ	ADJ	n=s|g=f	
+8	-	-	PONCT	PONCT		
+9	duchesse	duchesse	NC	NC	n=s|g=f	
+10	se	se	CLR	CLR	n=p,s|p=3	
+11	fait	faire	V	V	n=s|t=P|p=3	
+12	presque	presque	ADV	ADV		
+13	sans	sans	P	P		
+14	heurt	heurt	NC	NC	n=s|g=m	
+15	(	(	PONCT	PONCT		
+16	excepté	excepté	P	P		
+17	une	une	DET	DET	n=s|g=f	
+18	maladie	maladie	NC	NC	n=s|g=f	
+19	qui	qui	PROREL	PROREL	n=s	
+20	la	la	CLO	CLO	n=s|g=f|p=3	
+21	rapproche	rapprocher	V	V	n=s|t=P,S|p=1,3	
+22	d'	de	P	P		
+23	Élisabeth	Élisabeth	NPP	NPP	n=s|g=f	
+24	)	)	PONCT	PONCT		
+25	lors	lors	ADV	ADV		
+26	de	de	P	P		
+27	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+28	conversion	conversion	NC	NC	n=s|g=f	
+29	en	en	P	P		
+30	grande	grand	ADJ	ADJ	n=s|g=f	
+31	pompe	pompe	NC	NC	n=s|g=f	
+32	à	à	P	P		
+33	la	la	DET	DET	n=s|g=f	
+34	religion	religion	NC	NC	n=s|g=f	
+35	orthodoxe	orthodoxe	ADJ	ADJ	n=s	
+36	le	le	DET	DET	n=s|g=m	
+37	28	28	ADJ	ADJ		
+38	juin	juin	NC	NC	n=s|g=m	
+39	1744	1744	NC	NC		
+40	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	s'	se	CLR	CLR	n=p,s|p=3	
+3	exprime	exprimer	V	V	n=s|t=P,S|p=1,3	
+4	clairement	_	ADV	ADV		
+5	en	en	P	P		
+6	russe	russe	ADJ	ADJ	n=s	
+7	devant	devant	P	P		
+8	un	un	DET	DET	n=s|g=m	
+9	peuple	peuple	NC	NC	n=s|g=m	
+10	qui	qui	PROREL	PROREL	n=s	
+11	l'	le	CLO	CLO	n=s|p=3	
+12	adopte	adopter	V	V	n=s|t=P,S|p=1,3	
+13	bientôt	bientôt	ADV	ADV		
+14	.	.	PONCT	PONCT		
+
+1	À	à	P	P		
+2	cette	cette	DET	DET	n=s|g=f	
+3	date	date	NC	NC	n=s|g=f	
+4	,	,	PONCT	PONCT		
+5	elle	elle	CLS	CLS	n=s|g=f|p=3	
+6	prend	prendre	V	V	n=s|t=P|p=3	
+7	officiellement	_	ADV	ADV		
+8	le	le	DET	DET	n=s|g=m	
+9	nom	nom	NC	NC	n=s|g=m	
+10	de	de	P	P		
+11	Catherine	Catherine	NPP	NPP	n=s|g=f	
+12	Alexeïvna	_	NPP	NPP		
+13	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	se	se	CLR	CLR	n=p,s|p=3	
+3	fiance	fiancer	V	V	n=s|t=P,S|p=1,3	
+4	à	à	P	P		
+5	Pierre	Pierre	NPP	NPP	n=s|g=m	
+6	le	le	DET	DET	n=s|g=m	
+7	lendemain	lendemain	NC	NC	n=s|g=m	
+8	,	,	PONCT	PONCT		
+9	devenant	devenir	VPR	VPR	t=G	
+10	"	"	PONCT	PONCT		
+11	grande	grand	ADJ	ADJ	n=s|g=f	
+12	-	-	PONCT	PONCT		
+13	duchesse	duchesse	NC	NC	n=s|g=f	
+14	et	et	CC	CC		
+15	altesse	altesse	NC	NC	n=s|g=f	
+16	impériale	impérial	ADJ	ADJ	n=s|g=f	
+17	"	"	PONCT	PONCT		
+18	.	.	PONCT	PONCT		
+
+1	Conseillée	conseiller	VPP	VPP	n=s|g=f|t=K	
+2	dans	dans	P	P		
+3	ses	ses	DET	DET	n=p|p=3|poss=s	
+4	lectures	lecture	NC	NC	n=p|g=f	
+5	par	par	P	P		
+6	divers	divers	DET	DET	n=p|g=m	
+7	intellectuels	intellectuel	ADJ	ADJ	n=p|g=m	
+8	de	de	P	P		
+9	passage	passage	NC	NC	n=s|g=m	
+10	,	,	PONCT	PONCT		
+11	elle	elle	CLS	CLS	n=s|g=f|p=3	
+12	demande	demander	V	V	n=s|t=P,S|p=1,3	
+13	le	le	DET	DET	n=s|g=m	
+14	catalogue	catalogue	NC	NC	n=s|g=m	
+15	de	de	P	P		
+16	l'	le	DET	DET	n=s	
+17	Académie	académie	NC	NC	n=s|g=f	
+18	des	de	P+D	P+D	n=p	
+19	sciences	science	NC	NC	n=p|g=f	
+20	où	où	PROREL	PROREL		
+21	elle	elle	CLS	CLS	n=s|g=f|p=3	
+22	commande	commander	V	V	n=s|t=P,S|p=1,3	
+23	Plutarque	_	NPP	NPP		
+24	,	,	PONCT	PONCT		
+25	Montesquieu	Montesquieu	NPP	NPP	n=s|g=m	
+26	et	et	CC	CC		
+27	d'	de	DET	DET	n=p	
+28	autres	autre	ADJ	ADJ	n=p	
+29	auteurs	auteur	NC	NC	n=p|g=m	
+30	.	.	PONCT	PONCT		
+
+1	Catherine	Catherine	NPP	NPP	n=s|g=f	
+2	a	avoir	V	V	n=s|t=P|p=3	
+3	alors	alors	ADV	ADV		
+4	15	15	ADJ	ADJ		
+5	ans	an	NC	NC	n=p|g=m	
+6	.	.	PONCT	PONCT		
+
+1	Son	son	DET	DET	n=s|g=m|p=3|poss=s	
+2	fiancé	fiancer	ADJ	ADJ	n=s|g=m|t=K	
+3	,	,	PONCT	PONCT		
+4	longtemps	longtemps	ADV	ADV		
+5	éloigné	éloigner	VPP	VPP	n=s|g=m|t=K	
+6	d'	de	P	P		
+7	elle	elle	PRO	PRO	n=s|g=f|p=3	
+8	par	par	P	P		
+9	une	une	DET	DET	n=s|g=f	
+10	pleurésie	pleurésie	NC	NC	n=s|g=f	
+11	,	,	PONCT	PONCT		
+12	revient	revenir	V	V	n=s|t=P|p=3	
+13	décharné	décharner	VPP	VPP	n=s|g=m|t=K	
+14	et	et	CC	CC		
+15	d'	de	P	P		
+16	un	un	DET	DET	n=s|g=m	
+17	aspect	aspect	NC	NC	n=s|g=m	
+18	qui	qui	PROREL	PROREL	n=s	
+19	effraye	effrayer	V	V	n=s|t=P,S|p=1,3	
+20	la	la	DET	DET	n=s|g=f	
+21	jeune	jeune	ADJ	ADJ	n=s	
+22	Catherine	Catherine	NPP	NPP	n=s|g=f	
+23	mais	mais	CC	CC		
+24	cela	cela	PRO	PRO	n=s|g=m	
+25	n'	ne	ADV	ADV		
+26	ébranle	ébranler	V	V	n=s|t=P,S|p=1,3	
+27	pas	pas	ADV	ADV		
+28	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+29	volonté	volonté	NC	NC	n=s|g=f	
+30	de	de	P	P		
+31	l'	le	CLO	CLO	n=s|p=3	
+32	épouser	épouser	VINF	VINF	t=W	
+33	[	[	PONCT	PONCT		
+34	réf	_	NC	NC		
+35	.	.	PONCT	PONCT		
+
+1	nécessaire	nécessaire	ADJ	ADJ	n=s	
+2	]	]	PONCT	PONCT		
+3	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	mariage	mariage	NC	NC	n=s|g=m	
+3	des	de	P+D	P+D	n=p	
+4	deux	deux	ADJ	ADJ	s=card|n=p	
+5	adolescents	adolescent	NC	NC	n=p|g=m	
+6	a	avoir	V	V	n=s|t=P|p=3	
+7	lieu	lieu	NC	NC	n=s|g=m	
+8	à	à	P	P		
+9	Saint	_	NPP	NPP		
+10	-	-	PONCT	PONCT		
+11	Pétersbourg	_	NPP	NPP		
+12	le	le	DET	DET	n=s|g=m	
+13	21	21	ADJ	ADJ		
+14	août	août	NC	NC	n=s|g=m	
+15	1745	1745	NC	NC		
+16	(	(	PONCT	PONCT		
+17	1er	_	ADJ	ADJ		
+18	septembre	septembre	NC	NC	n=s|g=m	
+19	1745	1745	NC	NC		
+20	dans	dans	P	P		
+21	le	le	DET	DET	n=s|g=m	
+22	calendrier	calendrier	NC	NC	n=s|g=m	
+23	grégorien	grégorien	ADJ	ADJ	n=s|g=m	
+24	)	)	PONCT	PONCT		
+25	;	;	PONCT	PONCT		
+26	il	il	CLS	CLS	n=s|g=m|p=3	
+27	est	être	V	V	n=s|t=P|p=3	
+28	célébré	célébrer	VPP	VPP	n=s|g=m|t=K	
+29	au	à	P+D	P+D	n=s|g=m	
+30	cours	cour	NC	NC	n=p|g=f	
+31	d'	de	P	P		
+32	une	une	DET	DET	n=s|g=f	
+33	somptueuse	somptueux	ADJ	ADJ	n=s|g=f	
+34	cérémonie	cérémonie	NC	NC	n=s|g=f	
+35	,	,	PONCT	PONCT		
+36	suivie	suivre	VPP	VPP	n=s|g=f|t=K	
+37	de	de	P	P		
+38	dix	dix	DET	DET	s=card|n=p	
+39	jours	jour	NC	NC	n=p|g=m	
+40	de	de	P	P		
+41	fête	fête	NC	NC	n=s|g=f	
+42	.	.	PONCT	PONCT		
+
+1	Questionnée	questionner	VPP	VPP	n=s|g=f|t=K	
+2	le	le	DET	DET	n=s|g=m	
+3	lendemain	lendemain	NC	NC	n=s|g=m	
+4	sur	sur	P	P		
+5	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+6	nuit	nuit	NC	NC	n=s|g=f	
+7	de	de	P	P		
+8	noces	noce	NC	NC	n=p|g=f	
+9	,	,	PONCT	PONCT		
+10	Catherine	Catherine	NPP	NPP	n=s|g=f	
+11	ne	ne	ADV	ADV		
+12	trouve	trouver	V	V	n=s|t=P,S|p=1,3	
+13	rien	rien	PRO	PRO	n=s|g=m	
+14	à	à	P	P		
+15	dire	dire	VINF	VINF	t=W	
+16	.	.	PONCT	PONCT		
+
+1	Diverses	divers	DET	DET	n=p|g=f	
+2	hypothèses	hypothèse	NC	NC	n=p|g=f	
+3	présentent	présenter	V	V	n=p|t=P,S|p=3	
+4	Pierre	Pierre	NPP	NPP	n=s|g=m	
+5	III	_	NPP	NPP		
+6	comme	comme	P	P		
+7	sexuellement	_	ADV	ADV		
+8	immature	immature	ADJ	ADJ	n=s	
+9	,	,	PONCT	PONCT		
+10	innocent	innocent	ADJ	ADJ	n=s|g=m	
+11	,	,	PONCT	PONCT		
+12	ou	ou	CC	CC		
+13	encore	encore	ADV	ADV		
+14	impuissant	impuissant	ADJ	ADJ	n=s|g=m	
+15	à	à	P	P		
+16	cause	cause	NC	NC	n=s|g=f	
+17	d'	de	P	P		
+18	un	un	DET	DET	n=s|g=m	
+19	phimosis	_	NC	NC		
+20	[	[	PONCT	PONCT		
+21	1	1	NC	NC		
+22	]	]	PONCT	PONCT		
+23	,	,	PONCT	PONCT		
+24	à	à	P	P		
+25	l'	le	DET	DET	n=s	
+26	inverse	inverse	NC	NC	n=s	
+27	de	de	P	P		
+28	Catherine	Catherine	NPP	NPP	n=s|g=f	
+29	autour	autour	NC	NC	n=s|g=m	
+30	de	de	P	P		
+31	laquelle	lequel	PROREL	PROREL	n=s|g=f	
+32	flottent	flotter	V	V	n=p|t=P,S|p=3	
+33	des	des	DET	DET	n=p	
+34	rumeurs	rumeur	NC	NC	n=p|g=f	
+35	sur	sur	P	P		
+36	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+37	sexualité	sexualité	NC	NC	n=s|g=f	
+38	précoce	précoce	ADJ	ADJ	n=s	
+39	[	[	PONCT	PONCT		
+40	2	2	ADJ	ADJ		
+41	]	]	PONCT	PONCT		
+42	[	[	PONCT	PONCT		
+43	réf	_	NC	NC		
+44	.	.	PONCT	PONCT		
+
+1	insuffisante	insuffisant	ADJ	ADJ	n=s|g=f	
+2	]	]	PONCT	PONCT		
+3	.	.	PONCT	PONCT		
+
+1	Catherine	Catherine	NPP	NPP	n=s|g=f	
+2	,	,	PONCT	PONCT		
+3	convertie	convertir	VPP	VPP	n=s|g=f|t=K	
+4	à	à	P	P		
+5	l'	le	DET	DET	n=s	
+6	orthodoxie	orthodoxie	NC	NC	n=s|g=f	
+7	,	,	PONCT	PONCT		
+8	n'	ne	ADV	ADV		
+9	eut	avoir	V	V	n=s|t=J|p=3	
+10	pas	pas	ADV	ADV		
+11	un	un	DET	DET	n=s|g=m	
+12	mariage	mariage	NC	NC	n=s|g=m	
+13	heureux	heureux	ADJ	ADJ	g=m	
+14	d'	de	P	P		
+15	autant	autant	ADV	ADV		
+16	qu'	que	CS	CS		
+17	elle	elle	CLS	CLS	n=s|g=f|p=3	
+18	prenait	prendre	V	V	n=s|t=I|p=3	
+19	le	le	DET	DET	n=s|g=m	
+20	parti	parti	NC	NC	n=s|g=m	
+21	de	de	P	P		
+22	l'	le	DET	DET	n=s	
+23	opposition	opposition	NC	NC	n=s|g=f	
+24	et	et	CC	CC		
+25	lisait	lire	V	V	n=s|t=I|p=3	
+26	Machiavel	_	NPP	NPP		
+27	,	,	PONCT	PONCT		
+28	Tacite	_	NPP	NPP		
+29	,	,	PONCT	PONCT		
+30	Voltaire	_	NPP	NPP		
+31	et	et	CC	CC		
+32	Montesquieu	Montesquieu	NPP	NPP	n=s|g=m	
+33	,	,	PONCT	PONCT		
+34	si	_	ADV	ADV		
+35	bien	bien	ADV	ADV		
+36	qu'	que	CS	CS		
+37	elle	elle	CLS	CLS	n=s|g=f|p=3	
+38	était	être	V	V	n=s|t=I|p=3	
+39	en	en	P	P		
+40	résidence	résidence	NC	NC	n=s|g=f	
+41	surveillée	surveiller	VPP	VPP	n=s|g=f|t=K	
+42	au	à	P+D	P+D	n=s|g=m	
+43	palais	palais	NC	NC	g=m	
+44	de	de	P	P		
+45	Peterhof	_	NPP	NPP		
+46	et	et	CC	CC		
+47	que	que	CS	CS		
+48	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+49	mari	mari	NC	NC	n=s|g=m	
+50	menaçait	menacer	V	V	n=s|t=I|p=3	
+51	de	de	P	P		
+52	l'	le	CLO	CLO	n=s|p=3	
+53	enfermer	enfermer	VINF	VINF	t=W	
+54	et	et	CC	CC		
+55	de	de	P	P		
+56	mettre	mettre	VINF	VINF	t=W	
+57	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+58	maîtresse	maîtresse	NC	NC	n=s|g=f	
+59	sur	sur	P	P		
+60	le	le	DET	DET	n=s|g=m	
+61	trône	trône	NC	NC	n=s|g=m	
+62	à	à	P	P		
+63	ses	ses	DET	DET	n=p|p=3|poss=s	
+64	côtés	côté	NC	NC	n=p|g=m	
+65	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	nièce	nièce	NC	NC	n=s|g=f	
+3	par	par	P	P		
+4	alliance	alliance	NC	NC	n=s|g=f	
+5	de	de	P	P		
+6	l'	le	DET	DET	n=s	
+7	impératrice	empereur	NC	NC	n=s|g=f	
+8	Élisabeth	Élisabeth	NPP	NPP	n=s|g=f	
+9	Ire	_	NPP	NPP		
+10	qui	qui	PROREL	PROREL	n=s	
+11	voulait	vouloir	V	V	n=s|t=I|p=3	
+12	absolument	_	ADV	ADV		
+13	un	un	DET	DET	n=s|g=m	
+14	héritier	héritier	NC	NC	n=s|g=m	
+15	lui	lui	CLO	CLO	n=s|p=3	
+16	proposa	proposer	V	V	n=s|t=J|p=3	
+17	de	de	P	P		
+18	prendre	prendre	VINF	VINF	t=W	
+19	comme	comme	P	P		
+20	amant	amant	NC	NC	n=s|g=m	
+21	le	le	DET	DET	n=s|g=m	
+22	prince	prince	NC	NC	n=s|g=m	
+23	Lev	Lev	NPP	NPP	n=s|g=m	
+24	Alexandrovitch	_	NPP	NPP		
+25	Narychkine	_	NPP	NPP		
+26	ou	ou	CC	CC		
+27	le	le	DET	DET	n=s|g=m	
+28	comte	comte	NC	NC	n=s|g=m	
+29	Sergei	Sergei	NPP	NPP	n=s|g=m	
+30	Saltykov	_	NPP	NPP		
+31	(	(	PONCT	PONCT		
+32	en	en	P	P		
+33	)	)	PONCT	PONCT		
+34	car	car	CS	CS		
+35	Catherine	Catherine	NPP	NPP	n=s|g=f	
+36	n'	ne	ADV	ADV		
+37	avait	avoir	V	V	n=s|t=I|p=3	
+38	toujours	toujours	ADV	ADV		
+39	pas	pas	ADV	ADV		
+40	d'	de	P	P		
+41	enfants	enfant	NC	NC	n=p	
+42	après	après	P	P		
+43	huit	huit	DET	DET	s=card|n=p	
+44	ans	an	NC	NC	n=p|g=m	
+45	de	de	P	P		
+46	mariage	mariage	NC	NC	n=s|g=m	
+47	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	choisit	choisir	V	V	n=s|t=J,P|p=3	
+3	finalement	_	ADV	ADV		
+4	Saltykov	_	NPP	NPP		
+5	et	et	CC	CC		
+6	joua	jouer	V	V	n=s|t=J|p=3	
+7	alors	alors	ADV	ADV		
+8	sur	sur	P	P		
+9	l'	le	DET	DET	n=s	
+10	ambiguïté	ambiguïté	NC	NC	n=s|g=f	
+11	que	que	CS	CS		
+12	le	le	DET	DET	n=s|g=m	
+13	géniteur	géniteur	NC	NC	n=s|g=m	
+14	de	de	P	P		
+15	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+16	fils	fils	NC	NC	g=m	
+17	Paul	Paul	NPP	NPP	n=s|g=m	
+18	Ier	_	NPP	NPP		
+19	né	naître	VPP	VPP	n=s|g=m|t=K	
+20	en	en	P	P		
+21	1754	1754	NC	NC		
+22	pouvait	pouvoir	V	V	n=s|t=I|p=3	
+23	aussi	aussi	ADV	ADV		
+24	bien	bien	ADV	ADV		
+25	être	être	VINF	VINF	t=W	
+26	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+27	mari	mari	NC	NC	n=s|g=m	
+28	que	que	CS	CS		
+29	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+30	amant	amant	NC	NC	n=s|g=m	
+31	[	[	PONCT	PONCT		
+32	3	3	ADJ	ADJ		
+33	]	]	PONCT	PONCT		
+34	.	.	PONCT	PONCT		
+
+1	Très	très	ADV	ADV		
+2	à	à	P	P		
+3	l'	le	DET	DET	n=s	
+4	écoute	écoute	NC	NC	n=s|g=f	
+5	des	de	P+D	P+D	n=p	
+6	événements	événement	NC	NC	n=p|g=m	
+7	qui	qui	PROREL	PROREL	n=s	
+8	se	se	CLR	CLR	n=p,s|p=3	
+9	déroulaient	dérouler	V	V	n=p|t=I|p=3	
+10	dans	dans	P	P		
+11	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+12	nouveau	nouveau	ADJ	ADJ	n=s|g=m	
+13	pays	pays	NC	NC	g=m	
+14	,	,	PONCT	PONCT		
+15	Catherine	Catherine	NPP	NPP	n=s|g=f	
+16	,	,	PONCT	PONCT		
+17	qui	qui	PROREL	PROREL	n=s	
+18	possédait	posséder	V	V	n=s|t=I|p=3	
+19	l'	le	DET	DET	n=s	
+20	affection	affection	NC	NC	n=s|g=f	
+21	du	de	P+D	P+D	n=s|g=m	
+22	peuple	peuple	NC	NC	n=s|g=m	
+23	russe	russe	ADJ	ADJ	n=s	
+24	,	,	PONCT	PONCT		
+25	réussit	réussir	V	V	n=s|t=J,P|p=3	
+26	à	à	P	P		
+27	faire	faire	VINF	VINF	t=W	
+28	détrôner	détrôner	VINF	VINF	t=W	
+29	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+30	époux	époux	NC	NC	g=m	
+31	avec	avec	P	P		
+32	la	la	DET	DET	n=s|g=f	
+33	complicité	complicité	NC	NC	n=s|g=f	
+34	de	de	P	P		
+35	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+36	amant	amant	NC	NC	n=s|g=m	
+37	Grigori	Grigori	NPP	NPP	n=s|g=m	
+38	Orlov	_	NPP	NPP		
+39	et	et	CC	CC		
+40	de	de	P	P		
+41	quatre	quatre	DET	DET	s=card|n=p	
+42	officiers	officier	NC	NC	n=p	
+43	de	de	P	P		
+44	la	la	DET	DET	n=s|g=f	
+45	garde	garde	NC	NC	n=s	
+46	impériale	impérial	ADJ	ADJ	n=s|g=f	
+47	,	,	PONCT	PONCT		
+48	frères	frère	NC	NC	n=p|g=m	
+49	d'	de	P	P		
+50	Orlov	_	NPP	NPP		
+51	lors	lors	ADV	ADV		
+52	du	de	P+D	P+D	n=s|g=m	
+53	coup	coup	NC	NC	n=s|g=m	
+54	d'	de	P	P		
+55	État	État	NC	NC	n=s|g=m	
+56	du	de	P+D	P+D	n=s|g=m	
+57	28	28	ADJ	ADJ		
+58	juin	juin	NC	NC	n=s|g=m	
+59	1762	1762	NC	NC		
+60	(	(	PONCT	PONCT		
+61	9	9	ADJ	ADJ		
+62	juillet	juillet	NC	NC	n=s|g=m	
+63	dans	dans	P	P		
+64	le	le	DET	DET	n=s|g=m	
+65	calendrier	calendrier	NC	NC	n=s|g=m	
+66	grégorien	grégorien	ADJ	ADJ	n=s|g=m	
+67	)	)	PONCT	PONCT		
+68	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	empereur	empereur	NC	NC	n=s|g=m	
+3	fut	être	V	V	n=s|t=J|p=3	
+4	jeté	jeter	VPP	VPP	n=s|g=m|t=K	
+5	en	en	P	P		
+6	prison	prison	NC	NC	n=s|g=f	
+7	(	(	PONCT	PONCT		
+8	sans	sans	P	P		
+9	doute	doute	NC	NC	n=s|g=m	
+10	pour	pour	P	P		
+11	l'	le	CLO	CLO	n=s|p=3	
+12	exiler	exiler	VINF	VINF	t=W	
+13	par	par	P	P		
+14	la	la	DET	DET	n=s|g=f	
+15	suite	suite	NC	NC	n=s|g=f	
+16	)	)	PONCT	PONCT		
+17	et	et	CC	CC		
+18	assassiné	assassiner	VPP	VPP	n=s|g=m|t=K	
+19	,	,	PONCT	PONCT		
+20	probablement	_	ADV	ADV		
+21	étranglé	étrangler	VPP	VPP	n=s|g=m|t=K	
+22	par	par	P	P		
+23	Alexeï	_	NPP	NPP		
+24	Orlov	_	NPP	NPP		
+25	,	,	PONCT	PONCT		
+26	"	"	PONCT	PONCT		
+27	ce	ce	PRO	PRO	n=s	
+28	qui	qui	PROREL	PROREL	n=s	
+29	a	avoir	V	V	n=s|t=P|p=3	
+30	fait	faire	VPP	VPP	n=s|g=m|t=K	
+31	dire	dire	VINF	VINF	t=W	
+32	à	à	P	P		
+33	Germaine	Germaine	NPP	NPP	n=s|g=f,m	
+34	de	de	P	P		
+35	Staël	_	NPP	NPP		
+36	que	que	CS	CS		
+37	la	la	DET	DET	n=s|g=f	
+38	Russie	Russie	NPP	NPP	n=s|g=f	
+39	était	être	V	V	n=s|t=I|p=3	
+40	un	un	DET	DET	n=s|g=m	
+41	despotisme	despotisme	NC	NC	n=s|g=m	
+42	tempéré	tempérer	VPP	VPP	n=s|g=m|t=K	
+43	par	par	P	P		
+44	la	la	DET	DET	n=s|g=f	
+45	strangulation	strangulation	NC	NC	n=s|g=f	
+46	"	"	PONCT	PONCT		
+47	[	[	PONCT	PONCT		
+48	4	4	NC	NC		
+49	]	]	PONCT	PONCT		
+50	.	.	PONCT	PONCT		
+
+1	Assassinat	assassinat	NC	NC	n=s|g=m	
+2	prémédité	préméditer	VPP	VPP	n=s|g=m|t=K	
+3	ou	ou	CC	CC		
+4	non	non	ADV	ADV		
+5	,	,	PONCT	PONCT		
+6	Catherine	Catherine	NPP	NPP	n=s|g=f	
+7	fit	faire	V	V	n=s|t=J|p=3	
+8	publier	publier	VINF	VINF	t=W	
+9	aux	à	P+D	P+D	n=p	
+10	chancelleries	chancellerie	NC	NC	n=p|g=f	
+11	des	de	P+D	P+D	n=p	
+12	pays	pays	NC	NC	g=m	
+13	étrangers	étranger	ADJ	ADJ	n=p|g=m	
+14	que	que	CS	CS		
+15	l'	le	DET	DET	n=s	
+16	empereur	empereur	NC	NC	n=s|g=m	
+17	avait	avoir	V	V	n=s|t=I|p=3	
+18	succombé	succomber	VPP	VPP	n=s|g=m|t=K	
+19	à	à	P	P		
+20	une	une	DET	DET	n=s|g=f	
+21	colique	colique	NC	NC	n=s|g=f	
+22	hémorroïdale	hémorroïdal	ADJ	ADJ	n=s|g=f	
+23	[	[	PONCT	PONCT		
+24	5	5	ADJ	ADJ		
+25	]	]	PONCT	PONCT		
+26	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	régna	régner	V	V	n=s|t=J|p=3	
+3	alors	alors	ADV	ADV		
+4	sous	sous	P	P		
+5	le	le	DET	DET	n=s|g=m	
+6	nom	nom	NC	NC	n=s|g=m	
+7	de	de	P	P		
+8	Catherine	Catherine	NPP	NPP	n=s|g=f	
+9	II	_	NPP	NPP		
+10	d'	de	P	P		
+11	une	une	DET	DET	n=s|g=f	
+12	manière	manière	NC	NC	n=s|g=f	
+13	exclusive	exclusif	ADJ	ADJ	n=s|g=f	
+14	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	ministre	ministre	NC	NC	n=s|g=m	
+3	des	de	P+D	P+D	n=p	
+4	Affaires	affaire	NC	NC	n=p|g=f	
+5	étrangères	étranger	ADJ	ADJ	n=p|g=f	
+6	Nikita	Nikita	NPP	NPP	n=s|g=m	
+7	Panine	_	NPP	NPP		
+8	exerça	exercer	V	V	n=s|t=J|p=3	
+9	une	une	DET	DET	n=s|g=f	
+10	influence	influence	NC	NC	n=s|g=f	
+11	considérable	considérable	ADJ	ADJ	n=s	
+12	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	dépensa	dépenser	V	V	n=s|t=J|p=3	
+3	des	des	DET	DET	n=p	
+4	sommes	somme	NC	NC	n=p	
+5	importantes	important	ADJ	ADJ	n=p|g=f	
+6	pour	pour	P	P		
+7	créer	créer	VINF	VINF	t=W	
+8	l'	le	DET	DET	n=s	
+9	accord	accord	NC	NC	n=s|g=m	
+10	du	de	P+D	P+D	n=s|g=m	
+11	Nord	Nord	NPP	NPP	n=s|g=m	
+12	entre	entre	P	P		
+13	la	la	DET	DET	n=s|g=f	
+14	Russie	Russie	NPP	NPP	n=s|g=f	
+15	,	,	PONCT	PONCT		
+16	la	la	DET	DET	n=s|g=f	
+17	Prusse	_	NPP	NPP		
+18	,	,	PONCT	PONCT		
+19	la	la	DET	DET	n=s|g=f	
+20	Pologne	Pologne	NPP	NPP	n=s|g=f	
+21	,	,	PONCT	PONCT		
+22	la	la	DET	DET	n=s|g=f	
+23	Suède	Suède	NPP	NPP	n=s|g=f	
+24	et	et	CC	CC		
+25	peut-être	peut-être	ADV	ADV		
+26	le	le	DET	DET	n=s|g=m	
+27	Royaume	_	NPP	NPP		
+28	-	-	PONCT	PONCT		
+29	Uni	unir	VPP	VPP	n=s|g=m|t=K	
+30	pour	pour	P	P		
+31	contrer	contrer	VINF	VINF	t=W	
+32	l'	le	DET	DET	n=s	
+33	alliance	alliance	NC	NC	n=s|g=f	
+34	franco	_	ADJ	ADJ		
+35	-	-	PONCT	PONCT		
+36	autrichienne	autrichien	ADJ	ADJ	n=s|g=f	
+37	.	.	PONCT	PONCT		
+
+1	Quand	quand	CS	CS		
+2	il	il	CLS	CLS	n=s|g=m|p=3	
+3	apparut	apparaître	V	V	n=s|t=J|p=3	
+4	que	que	CS	CS		
+5	ce	ce	DET	DET	n=s|g=m	
+6	plan	plan	NC	NC	n=s|g=m	
+7	ne	ne	ADV	ADV		
+8	pouvait	pouvoir	V	V	n=s|t=I|p=3	
+9	réussir	réussir	VINF	VINF	t=W	
+10	,	,	PONCT	PONCT		
+11	Panine	_	NPP	NPP		
+12	fut	être	V	V	n=s|t=J|p=3	
+13	limogé	limoger	VPP	VPP	n=s|g=m|t=K	
+14	en	en	P	P		
+15	1781	1781	NC	NC		
+16	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	1764	1764	NC	NC		
+3	,	,	PONCT	PONCT		
+4	Catherine	Catherine	NPP	NPP	n=s|g=f	
+5	plaça	placer	V	V	n=s|t=J|p=3	
+6	Stanislas	Stanislas	NPP	NPP	n=s|g=m	
+7	Auguste	Auguste	NPP	NPP	n=s|g=m	
+8	Poniatowski	_	NPP	NPP		
+9	,	,	PONCT	PONCT		
+10	qui	qui	PROREL	PROREL	n=s	
+11	fut	être	V	V	n=s|t=J|p=3	
+12	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+13	amant	amant	NC	NC	n=s|g=m	
+14	,	,	PONCT	PONCT		
+15	sur	sur	P	P		
+16	le	le	DET	DET	n=s|g=m	
+17	trône	trône	NC	NC	n=s|g=m	
+18	polonais	polonais	ADJ	ADJ	g=m	
+19	.	.	PONCT	PONCT		
+
+1	Ensuite	ensuite	ADV	ADV		
+2	,	,	PONCT	PONCT		
+3	la	la	DET	DET	n=s|g=f	
+4	Russie	Russie	NPP	NPP	n=s|g=f	
+5	annexa	annexer	V	V	n=s|t=J|p=3	
+6	de	de	DET	DET	n=p	
+7	grandes	grand	ADJ	ADJ	n=p|g=f	
+8	parties	partie	NC	NC	n=p|g=f	
+9	de	de	P	P		
+10	la	la	DET	DET	n=s|g=f	
+11	Pologne	Pologne	NPP	NPP	n=s|g=f	
+12	dans	dans	P	P		
+13	les	les	DET	DET	n=p	
+14	partitions	partition	NC	NC	n=p|g=f	
+15	de	de	P	P		
+16	1772	1772	NC	NC		
+17	,	,	PONCT	PONCT		
+18	1793	1793	NC	NC		
+19	et	et	CC	CC		
+20	1795	1795	NC	NC		
+21	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	1772	1772	NC	NC		
+3	,	,	PONCT	PONCT		
+4	elle	elle	CLS	CLS	n=s|g=f|p=3	
+5	conclut	conclure	V	V	n=s|t=J,P|p=3	
+6	avec	avec	P	P		
+7	la	la	DET	DET	n=s|g=f	
+8	Prusse	_	NPP	NPP		
+9	et	et	CC	CC		
+10	l'	le	DET	DET	n=s	
+11	Autriche	Autriche	NPP	NPP	n=s|g=f	
+12	un	un	DET	DET	n=s|g=m	
+13	traité	traité	NC	NC	n=s|g=m	
+14	qui	qui	PROREL	PROREL	n=s	
+15	démembrait	démembrer	V	V	n=s|t=I|p=3	
+16	la	la	DET	DET	n=s|g=f	
+17	Pologne	Pologne	NPP	NPP	n=s|g=f	
+18	et	et	CC	CC		
+19	donnait	donner	V	V	n=s|t=I|p=3	
+20	à	à	P	P		
+21	la	la	DET	DET	n=s|g=f	
+22	Russie	Russie	NPP	NPP	n=s|g=f	
+23	les	les	DET	DET	n=p	
+24	gouvernements	gouvernement	NC	NC	n=p|g=m	
+25	de	de	P	P		
+26	Polotsk	_	NPP	NPP		
+27	et	et	CC	CC		
+28	de	de	P	P		
+29	Moguilev	_	NPP	NPP		
+30	,	,	PONCT	PONCT		
+31	et	et	CC	CC		
+32	le	le	DET	DET	n=s|g=m	
+33	traité	traité	NC	NC	n=s|g=m	
+34	de	de	P	P		
+35	Kutchuk	_	NPP	NPP		
+36	-	-	PONCT	PONCT		
+37	Kaïnardji	_	NPP	NPP		
+38	,	,	PONCT	PONCT		
+39	conclu	conclure	VPP	VPP	n=s|g=m|t=K	
+40	en	en	P	P		
+41	1774	1774	NC	NC		
+42	avec	avec	P	P		
+43	l'	le	DET	DET	n=s	
+44	Empire	empire	NC	NC	n=s|g=m	
+45	ottoman	ottoman	ADJ	ADJ	n=s|g=m	
+46	,	,	PONCT	PONCT		
+47	lui	lui	CLO	CLO	n=s|p=3	
+48	assura	assurer	V	V	n=s|t=J|p=3	
+49	plusieurs	plusieurs	DET	DET	n=p	
+50	provinces	province	NC	NC	n=p|g=f	
+51	méridionales	méridional	ADJ	ADJ	n=p|g=f	
+52	et	et	CC	CC		
+53	lui	lui	CLO	CLO	n=s|p=3	
+54	ouvrit	ouvrir	V	V	n=s|t=J|p=3	
+55	la	la	DET	DET	n=s|g=f	
+56	mer	mer	NC	NC	n=s|g=f	
+57	Noire	_	NPP	NPP		
+58	.	.	PONCT	PONCT		
+
+1	Catherine	Catherine	NPP	NPP	n=s|g=f	
+2	fit	faire	V	V	n=s|t=J|p=3	
+3	de	de	P	P		
+4	la	la	DET	DET	n=s|g=f	
+5	Russie	Russie	NPP	NPP	n=s|g=f	
+6	un	un	DET	DET	n=s|g=m	
+7	pouvoir	pouvoir	NC	NC	n=s|g=m	
+8	dominant	dominant	ADJ	ADJ	n=s|g=m	
+9	au	à	P+D	P+D	n=s|g=m	
+10	Moyen	Moyen	NPP	NPP	n=s|g=m	
+11	-	-	PONCT	PONCT		
+12	Orient	orient	NC	NC	n=s|g=m	
+13	après	après	P	P		
+14	la	la	DET	DET	n=s|g=f	
+15	première	premier	ADJ	ADJ	n=s|g=f	
+16	guerre	guerre	NC	NC	n=s|g=f	
+17	contre	contre	P	P		
+18	l'	le	DET	DET	n=s	
+19	Empire	empire	NC	NC	n=s|g=m	
+20	ottoman	ottoman	ADJ	ADJ	n=s|g=m	
+21	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	essaya	essayer	V	V	n=s|t=J|p=3	
+3	de	de	P	P		
+4	faire	faire	VINF	VINF	t=W	
+5	subir	subir	VINF	VINF	t=W	
+6	à	à	P	P		
+7	ce	ce	DET	DET	n=s|g=m	
+8	dernier	dernier	ADJ	ADJ	n=s|g=m	
+9	le	le	DET	DET	n=s|g=m	
+10	même	même	ADJ	ADJ	n=s	
+11	sort	sort	NC	NC	n=s|g=m	
+12	qu'	que	CS	CS		
+13	à	à	P	P		
+14	la	la	DET	DET	n=s|g=f	
+15	Pologne	Pologne	NPP	NPP	n=s|g=f	
+16	,	,	PONCT	PONCT		
+17	mais	mais	CC	CC		
+18	avec	avec	P	P		
+19	moins	moins	ADV	ADV		
+20	de	de	P	P		
+21	succès	succès	NC	NC	g=m	
+22	:	:	PONCT	PONCT		
+23	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+24	projet	projet	NC	NC	n=s|g=m	
+25	visait	viser	V	V	n=s|t=I|p=3	
+26	in	in	ADJ	ADJ		
+27	fine	fine	NC	NC	n=s|g=f	
+28	à	à	P	P		
+29	reconstruire	reconstruire	VINF	VINF	t=W	
+30	l'	le	DET	DET	n=s	
+31	Empire	empire	NC	NC	n=s|g=m	
+32	byzantin	byzantin	ADJ	ADJ	n=s|g=m	
+33	et	et	CC	CC		
+34	de	de	P	P		
+35	le	le	CLO	CLO	n=s|g=m|p=3	
+36	donner	donner	VINF	VINF	t=W	
+37	à	à	P	P		
+38	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+39	petit	petit	ADJ	ADJ	n=s|g=m	
+40	-	-	PONCT	PONCT		
+41	fils	fils	NC	NC	g=m	
+42	Constantin	Constantin	NPP	NPP	n=s|g=m	
+43	.	.	PONCT	PONCT		
+
+1	Cet	cet	DET	DET	n=s|g=m	
+2	empire	empire	NC	NC	n=s|g=m	
+3	,	,	PONCT	PONCT		
+4	qui	qui	PROREL	PROREL	n=s	
+5	aurait	avoir	V	V	n=s|t=C|p=3	
+6	pour	pour	P	P		
+7	capitale	capitale	NC	NC	n=s|g=f	
+8	Constantinople	_	NPP	NPP		
+9	,	,	PONCT	PONCT		
+10	est	être	V	V	n=s|t=P|p=3	
+11	destiné	destiner	VPP	VPP	n=s|g=m|t=K	
+12	à	à	P	P		
+13	englober	englober	VINF	VINF	t=W	
+14	la	la	DET	DET	n=s|g=f	
+15	Grèce	Grèce	NPP	NPP	n=s|g=f	
+16	,	,	PONCT	PONCT		
+17	la	la	DET	DET	n=s|g=f	
+18	Thrace	_	NPP	NPP		
+19	,	,	PONCT	PONCT		
+20	la	la	DET	DET	n=s|g=f	
+21	Macédoine	Macédoine	NPP	NPP	n=s|g=f	
+22	et	et	CC	CC		
+23	la	la	DET	DET	n=s|g=f	
+24	Bulgarie	Bulgarie	NPP	NPP	n=s|g=f	
+25	,	,	PONCT	PONCT		
+26	tandis	tandis	P	P		
+27	que	que	CS	CS		
+28	les	les	DET	DET	n=p	
+29	principautés	principauté	NC	NC	n=p|g=f	
+30	danubiennes	_	ADJ	ADJ		
+31	formeraient	former	V	V	n=p|t=C|p=3	
+32	un	un	DET	DET	n=s|g=m	
+33	"	"	PONCT	PONCT		
+34	royaume	royaume	NC	NC	n=s|g=m	
+35	de	de	P	P		
+36	Dacie	_	NPP	NPP		
+37	"	"	PONCT	PONCT		
+38	,	,	PONCT	PONCT		
+39	promis	promettre	VPP	VPP	g=m|t=K	
+40	à	à	P	P		
+41	Potemkine	_	NPP	NPP		
+42	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	reste	reste	NC	NC	n=s|g=m	
+3	des	de	P+D	P+D	n=p	
+4	Balkans	Balkans	NPP	NPP	n=p|g=m	
+5	,	,	PONCT	PONCT		
+6	c'	ce	CLS	CLS		
+7	est	être	V	V	n=s|t=P|p=3	
+8	-	-	PONCT	PONCT		
+9	à	à	P	P		
+10	-	-	PONCT	PONCT		
+11	dire	dire	VINF	VINF	t=W	
+12	la	la	DET	DET	n=s|g=f	
+13	Bosnie	_	NPP	NPP		
+14	,	,	PONCT	PONCT		
+15	la	la	DET	DET	n=s|g=f	
+16	Serbie	Serbie	NPP	NPP	n=s|g=f	
+17	et	et	CC	CC		
+18	l'	le	DET	DET	n=s	
+19	Albanie	Albanie	NPP	NPP	n=s|g=f	
+20	,	,	PONCT	PONCT		
+21	serait	être	V	V	n=s|t=C|p=3	
+22	donné	donner	VPP	VPP	n=s|g=m|t=K	
+23	en	en	P	P		
+24	compensation	compensation	NC	NC	n=s|g=f	
+25	à	à	P	P		
+26	l'	le	DET	DET	n=s	
+27	Autriche	Autriche	NPP	NPP	n=s|g=f	
+28	.	.	PONCT	PONCT		
+
+1	Venise	Venise	NPP	NPP	n=s|g=m	
+2	obtiendrait	obtenir	V	V	n=s|t=C|p=3	
+3	la	la	DET	DET	n=s|g=f	
+4	Morée	_	NPP	NPP		
+5	,	,	PONCT	PONCT		
+6	la	la	DET	DET	n=s|g=f	
+7	Crète	_	NPP	NPP		
+8	et	et	CC	CC		
+9	Chypre	Chypre	NPP	NPP	n=s|g=f	
+10	[	[	PONCT	PONCT		
+11	6	6	ADJ	ADJ		
+12	]	]	PONCT	PONCT		
+13	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	enleva	enlever	V	V	n=s|t=J|p=3	
+3	aux	à	P+D	P+D	n=p	
+4	Turcs	turc	NC	NC	n=p|g=m	
+5	la	la	DET	DET	n=s|g=f	
+6	Crimée	_	NPP	NPP		
+7	et	et	CC	CC		
+8	les	les	DET	DET	n=p	
+9	forteresses	forteresse	NC	NC	n=p|g=f	
+10	d'	de	P	P		
+11	Azov	_	NPP	NPP		
+12	,	,	PONCT	PONCT		
+13	de	de	P	P		
+14	Taganrog	_	NPP	NPP		
+15	,	,	PONCT	PONCT		
+16	de	de	P	P		
+17	Kınburun	_	NPP	NPP		
+18	et	et	CC	CC		
+19	d'	de	P	P		
+20	Izmaïl	_	NPP	NPP		
+21	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	annexa	annexer	V	V	n=s|t=J|p=3	
+3	la	la	DET	DET	n=s|g=f	
+4	Crimée	_	NPP	NPP		
+5	,	,	PONCT	PONCT		
+6	en	en	P	P		
+7	1783	1783	NC	NC		
+8	,	,	PONCT	PONCT		
+9	neuf	neuf	DET	DET	s=card|n=p	
+10	années	année	NC	NC	n=p|g=f	
+11	après	après	P	P		
+12	que	que	CS	CS		
+13	celle	celle	PRO	PRO	n=s|g=f	
+14	-	-	PONCT	PONCT		
+15	ci	_	NPP	NPP		
+16	eut	avoir	V	V	n=s|t=J|p=3	
+17	obtenu	obtenir	VPP	VPP	n=s|g=m|t=K	
+18	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+19	indépendance	indépendance	NC	NC	n=s|g=f	
+20	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	empire	empire	NC	NC	n=s|g=m	
+3	ottoman	ottoman	ADJ	ADJ	n=s|g=m	
+4	déclencha	déclencher	V	V	n=s|t=J|p=3	
+5	une	une	DET	DET	n=s|g=f	
+6	seconde	second	ADJ	ADJ	n=s|g=f	
+7	guerre	guerre	NC	NC	n=s|g=f	
+8	en	en	P	P		
+9	1787	1787	NC	NC		
+10	qui	qui	PROREL	PROREL	n=s	
+11	se	se	CLR	CLR	n=p,s|p=3	
+12	termina	terminer	V	V	n=s|t=J|p=3	
+13	en	en	P	P		
+14	1792	1792	NC	NC		
+15	par	par	P	P		
+16	le	le	DET	DET	n=s|g=m	
+17	traité	traité	NC	NC	n=s|g=m	
+18	de	de	P	P		
+19	Jassy	_	NPP	NPP		
+20	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	agit	agir	V	V	n=s|t=J,P|p=3	
+3	comme	comme	P	P		
+4	médiatrice	médiatrice	NC	NC	n=s|g=f	
+5	pendant	pendant	P	P		
+6	la	la	DET	DET	n=s|g=f	
+7	guerre	guerre	NC	NC	n=s|g=f	
+8	de	de	P	P		
+9	succession	succession	NC	NC	n=s|g=f	
+10	bavaroise	bavarois	ADJ	ADJ	n=s|g=f	
+11	de	de	P	P		
+12	1778-79	1778-79	NC	NC		
+13	entre	entre	P	P		
+14	la	la	DET	DET	n=s|g=f	
+15	Prusse	_	NPP	NPP		
+16	et	et	CC	CC		
+17	l'	le	DET	DET	n=s	
+18	Autriche	Autriche	NPP	NPP	n=s|g=f	
+19	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	1780	1780	NC	NC		
+3	,	,	PONCT	PONCT		
+4	elle	elle	CLS	CLS	n=s|g=f|p=3	
+5	monta	monter	V	V	n=s|t=J|p=3	
+6	la	la	DET	DET	n=s|g=f	
+7	Ligue	ligue	NC	NC	n=s|g=f	
+8	de	de	P	P		
+9	neutralité	neutralité	NC	NC	n=s|g=f	
+10	armée	armer	VPP	VPP	n=s|g=f|t=K	
+11	afin	_	ADV	ADV		
+12	de	de	P	P		
+13	défendre	défendre	VINF	VINF	t=W	
+14	les	les	DET	DET	n=p	
+15	vaisseaux	vaisseau	NC	NC	n=p|g=m	
+16	indépendants	indépendant	ADJ	ADJ	n=p|g=m	
+17	de	de	P	P		
+18	la	la	DET	DET	n=s|g=f	
+19	Grande	_	NPP	NPP		
+20	-	-	PONCT	PONCT		
+21	Bretagne	Bretagne	NPP	NPP	n=s|g=f,m	
+22	pendant	pendant	P	P		
+23	la	la	DET	DET	n=s|g=f	
+24	guerre	guerre	NC	NC	n=s|g=f	
+25	d'	de	P	P		
+26	indépendance	indépendance	NC	NC	n=s|g=f	
+27	des	de	P+D	P+D	n=p	
+28	États	État	NC	NC	n=p|g=m	
+29	-	-	PONCT	PONCT		
+30	Unis	uni	ADJ	ADJ	n=p|g=m|t=K	
+31	.	.	PONCT	PONCT		
+
+1	Entre	entre	P	P		
+2	1788	1788	NC	NC		
+3	et	et	CC	CC		
+4	1790	1790	NC	NC		
+5	,	,	PONCT	PONCT		
+6	la	la	DET	DET	n=s|g=f	
+7	Russie	Russie	NPP	NPP	n=s|g=f	
+8	fut	être	V	V	n=s|t=J|p=3	
+9	engagée	engager	VPP	VPP	n=s|g=f|t=K	
+10	dans	dans	P	P		
+11	la	la	DET	DET	n=s|g=f	
+12	guerre	guerre	NC	NC	n=s|g=f	
+13	contre	contre	P	P		
+14	la	la	DET	DET	n=s|g=f	
+15	Suède	Suède	NPP	NPP	n=s|g=f	
+16	dont	dont	PROREL	PROREL		
+17	le	le	DET	DET	n=s|g=m	
+18	cousin	cousin	NC	NC	n=s|g=m	
+19	de	de	P	P		
+20	Catherine	Catherine	NPP	NPP	n=s|g=f	
+21	,	,	PONCT	PONCT		
+22	Gustave	Gustave	NPP	NPP	n=s|g=m	
+23	III	_	NPP	NPP		
+24	,	,	PONCT	PONCT		
+25	tentait	tenter	V	V	n=s|t=I|p=3	
+26	de	de	P	P		
+27	reprendre	reprendre	VINF	VINF	t=W	
+28	les	les	DET	DET	n=p	
+29	territoires	territoire	NC	NC	n=p|g=m	
+30	perdus	perdre	VPP	VPP	n=p|g=m|t=K	
+31	en	en	P	P		
+32	1720	1720	NC	NC		
+33	.	.	PONCT	PONCT		
+
+1	Après	après	P	P		
+2	la	la	DET	DET	n=s|g=f	
+3	bataille	bataille	NC	NC	n=s|g=f	
+4	de	de	P	P		
+5	Svensksund	_	NPP	NPP		
+6	(	(	PONCT	PONCT		
+7	de	de	P	P		
+8	nos	nos	DET	DET	n=p|p=1|poss=p	
+9	jours	jour	NC	NC	n=p|g=m	
+10	Ruotsinsalmi	_	NPP	NPP		
+11	en	en	P	P		
+12	Finlande	Finlande	NPP	NPP	n=s|g=f	
+13	)	)	PONCT	PONCT		
+14	des	de	P+D	P+D	n=p	
+15	9	9	ADJ	ADJ		
+16	et	et	CC	CC		
+17	10	10	ADJ	ADJ		
+18	juillet	juillet	NC	NC	n=s|g=m	
+19	1790	1790	NC	NC		
+20	,	,	PONCT	PONCT		
+21	un	un	DET	DET	n=s|g=m	
+22	traité	traité	NC	NC	n=s|g=m	
+23	de	de	P	P		
+24	paix	paix	NC	NC	g=f	
+25	fut	être	V	V	n=s|t=J|p=3	
+26	signé	signer	VPP	VPP	n=s|g=m|t=K	
+27	:	:	PONCT	PONCT		
+28	la	la	DET	DET	n=s|g=f	
+29	paix	paix	NC	NC	g=f	
+30	de	de	P	P		
+31	Värälä	_	NPP	NPP		
+32	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	avait	avoir	V	V	n=s|t=I|p=3	
+3	ajouté	ajouter	VPP	VPP	n=s|g=m|t=K	
+4	518_000	518_000	ADJ	ADJ		
+5	km2	_	NC	NC		
+6	au	à	P+D	P+D	n=s|g=m	
+7	territoire	territoire	NC	NC	n=s|g=m	
+8	de	de	P	P		
+9	la	la	DET	DET	n=s|g=f	
+10	Russie	Russie	NPP	NPP	n=s|g=f	
+11	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	même	même	ADJ	ADJ	n=s	
+3	temps	temps	NC	NC	g=m	
+4	qu'	que	PROREL	PROREL		
+5	elle	elle	CLS	CLS	n=s|g=f|p=3	
+6	étendait	étendre	V	V	n=s|t=I|p=3	
+7	ainsi	ainsi	ADV	ADV		
+8	les	les	DET	DET	n=p	
+9	limites	limite	NC	NC	n=p|g=f	
+10	de	de	P	P		
+11	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+12	empire	empire	NC	NC	n=s|g=m	
+13	,	,	PONCT	PONCT		
+14	Catherine	Catherine	NPP	NPP	n=s|g=f	
+15	imprimait	imprimer	V	V	n=s|t=I|p=3	
+16	une	une	DET	DET	n=s|g=f	
+17	activité	activité	NC	NC	n=s|g=f	
+18	nouvelle	nouveau	ADJ	ADJ	n=s|g=f	
+19	à	à	P	P		
+20	l'	le	DET	DET	n=s	
+21	agriculture	agriculture	NC	NC	n=s|g=f	
+22	et	et	CC	CC		
+23	à	à	P	P		
+24	l'	le	DET	DET	n=s	
+25	industrie	industrie	NC	NC	n=s|g=f	
+26	,	,	PONCT	PONCT		
+27	fondée	fonder	VPP	VPP	n=s|g=f|t=K	
+28	sur	sur	P	P		
+29	la	la	DET	DET	n=s|g=f	
+30	pensée	pensée	NC	NC	n=s|g=f	
+31	des	de	P+D	P+D	n=p	
+32	Lumières	lumière	NC	NC	n=p|g=f	
+33	.	.	PONCT	PONCT		
+
+1	Catherine	Catherine	NPP	NPP	n=s|g=f	
+2	fit	faire	V	V	n=s|t=J|p=3	
+3	établir	établir	VINF	VINF	t=W	
+4	un	un	DET	DET	n=s|g=m	
+5	canevas	canevas	NC	NC	g=m	
+6	pour	pour	P	P		
+7	réformer	réformer	VINF	VINF	t=W	
+8	les	les	DET	DET	n=p	
+9	lois	loi	NC	NC	n=p|g=f	
+10	.	.	PONCT	PONCT		
+
+1	Une	une	DET	DET	n=s|g=f	
+2	commission	commission	NC	NC	n=s|g=f	
+3	législative	législatif	ADJ	ADJ	n=s|g=f	
+4	représentant	représenter	VPR	VPR	t=G	
+5	toutes	tout	ADJ	ADJ	n=p|g=f	
+6	les	les	DET	DET	n=p	
+7	classes	classe	NC	NC	n=p|g=f	
+8	,	,	PONCT	PONCT		
+9	sauf	sauf	P	P		
+10	les	les	DET	DET	n=p	
+11	serfs	serf	NC	NC	n=p|g=m	
+12	,	,	PONCT	PONCT		
+13	fut	être	V	V	n=s|t=J|p=3	
+14	instituée	instituer	VPP	VPP	n=s|g=f|t=K	
+15	mais	mais	CC	CC		
+16	dissoute	dissoudre	VPP	VPP	n=s|g=f|t=K	
+17	avant	avant	P	P		
+18	d'	de	P	P		
+19	être	être	VINF	VINF	t=W	
+20	effective	effectif	ADJ	ADJ	n=s|g=f	
+21	,	,	PONCT	PONCT		
+22	sans	sans	P	P		
+23	doute	doute	NC	NC	n=s|g=m	
+24	freinée	freiner	VPP	VPP	n=s|g=f|t=K	
+25	par	par	P	P		
+26	la	la	DET	DET	n=s|g=f	
+27	guerre	guerre	NC	NC	n=s|g=f	
+28	des	de	P+D	P+D	n=p	
+29	Paysans	_	NPP	NPP		
+30	russes	russe	ADJ	ADJ	n=p	
+31	(	(	PONCT	PONCT		
+32	1773-1775	1773-1775	NPP	NPP		
+33	)	)	PONCT	PONCT		
+34	,	,	PONCT	PONCT		
+35	une	une	DET	DET	n=s|g=f	
+36	insurrection	insurrection	NC	NC	n=s|g=f	
+37	menée	mener	VPP	VPP	n=s|g=f|t=K	
+38	par	par	P	P		
+39	Emelian	_	NPP	NPP		
+40	Pougatchev	_	NPP	NPP		
+41	.	.	PONCT	PONCT		
+
+1	De	de	P	P		
+2	cette	cette	DET	DET	n=s|g=f	
+3	commission	commission	NC	NC	n=s|g=f	
+4	,	,	PONCT	PONCT		
+5	il	il	CLS	CLS	n=s|g=m|p=3	
+6	reste	rester	V	V	n=s|t=P,S|p=1,3	
+7	peu	peu	ADV	ADV		
+8	de	de	P	P		
+9	traces	trace	NC	NC	n=p|g=f	
+10	.	.	PONCT	PONCT		
+
+1	Cependant	cependant	ADV	ADV		
+2	,	,	PONCT	PONCT		
+3	Catherine	Catherine	NPP	NPP	n=s|g=f	
+4	avait	avoir	V	V	n=s|t=I|p=3	
+5	rédigé	rédiger	VPP	VPP	n=s|g=m|t=K	
+6	un	un	DET	DET	n=s|g=m	
+7	ouvrage	ouvrage	NC	NC	n=s|g=m	
+8	intitulé	intituler	VPP	VPP	n=s|g=m|t=K	
+9	"	"	PONCT	PONCT		
+10	Instructions	instruction	NC	NC	n=p|g=f	
+11	adressées	adresser	VPP	VPP	n=p|g=f|t=K	
+12	par	par	P	P		
+13	Sa	_	NPP	NPP		
+14	Majesté	_	NPP	NPP		
+15	l'	le	DET	DET	n=s	
+16	impératrice	empereur	NC	NC	n=s|g=f	
+17	de	de	P	P		
+18	toutes	tout	ADJ	ADJ	n=p|g=f	
+19	les	les	DET	DET	n=p	
+20	Russies	_	NC	NC		
+21	établies	établir	VPP	VPP	n=p|g=f|t=K	
+22	pour	pour	P	P		
+23	travailler	travailler	VINF	VINF	t=W	
+24	à	à	P	P		
+25	l'	le	DET	DET	n=s	
+26	exécution	exécution	NC	NC	n=s|g=f	
+27	d'	de	P	P		
+28	un	un	DET	DET	n=s|g=m	
+29	projet	projet	NC	NC	n=s|g=m	
+30	d'	de	P	P		
+31	un	un	DET	DET	n=s|g=m	
+32	nouveau	nouveau	ADJ	ADJ	n=s|g=m	
+33	code	code	NC	NC	n=s|g=m	
+34	de	de	P	P		
+35	lois	loi	NC	NC	n=p|g=f	
+36	"	"	PONCT	PONCT		
+37	,	,	PONCT	PONCT		
+38	plus	plus	ADV	ADV		
+39	connu	connaître	VPP	VPP	n=s|g=m|t=K	
+40	sous	sous	P	P		
+41	le	le	DET	DET	n=s|g=m	
+42	nom	nom	NC	NC	n=s|g=m	
+43	de	de	P	P		
+44	"	"	PONCT	PONCT		
+45	Nakaz	_	NPP	NPP		
+46	"	"	PONCT	PONCT		
+47	,	,	PONCT	PONCT		
+48	dans	dans	P	P		
+49	lequel	lequel	PROREL	PROREL	n=s|g=m	
+50	sont	être	V	V	n=p|t=P|p=3	
+51	réunies	réunir	VPP	VPP	n=p|g=f|t=K	
+52	les	les	DET	DET	n=p	
+53	lignes	ligne	NC	NC	n=p|g=f	
+54	directrices	directeur	ADJ	ADJ	n=p|g=f	
+55	de	de	P	P		
+56	la	la	DET	DET	n=s|g=f	
+57	codification	codification	NC	NC	n=s|g=f	
+58	.	.	PONCT	PONCT		
+
+1	Catherine	Catherine	NPP	NPP	n=s|g=f	
+2	réorganisa	réorganiser	V	V	n=s|t=J|p=3	
+3	l'	le	DET	DET	n=s	
+4	administration	administration	NC	NC	n=s|g=f	
+5	provinciale	provincial	ADJ	ADJ	n=s|g=f	
+6	,	,	PONCT	PONCT		
+7	donnant	donner	VPR	VPR	t=G	
+8	au	à	P+D	P+D	n=s|g=m	
+9	gouvernement	gouvernement	NC	NC	n=s|g=m	
+10	plus	plus	ADV	ADV		
+11	de	de	P	P		
+12	contrôle	contrôle	NC	NC	n=s|g=m	
+13	sur	sur	P	P		
+14	les	les	DET	DET	n=p	
+15	zones	zone	NC	NC	n=p|g=f	
+16	rurales	rural	ADJ	ADJ	n=p|g=f	
+17	à	à	P	P		
+18	cause	cause	NC	NC	n=s|g=f	
+19	des	de	P+D	P+D	n=p	
+20	révoltes	révolte	NC	NC	n=p|g=f	
+21	paysannes	paysan	ADJ	ADJ	n=p|g=f	
+22	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	1785	1785	NC	NC		
+3	,	,	PONCT	PONCT		
+4	elle	elle	CLS	CLS	n=s|g=f|p=3	
+5	édicta	édicter	V	V	n=s|t=J|p=3	
+6	une	une	DET	DET	n=s|g=f	
+7	Charte	_	NPP	NPP		
+8	de	de	P	P		
+9	la	la	DET	DET	n=s|g=f	
+10	noblesse	noblesse	NC	NC	n=s|g=f	
+11	(	(	PONCT	PONCT		
+12	en	en	P	P		
+13	)	)	PONCT	PONCT		
+14	(	(	PONCT	PONCT		
+15	Жалованная	_	NPP	NPP		
+16	грамота	_	NPP	NPP		
+17	дворянам	_	NPP	NPP		
+18	)	)	PONCT	PONCT		
+19	,	,	PONCT	PONCT		
+20	qui	qui	PROREL	PROREL	n=s	
+21	permettait	permettre	V	V	n=s|t=I|p=3	
+22	aux	à	P+D	P+D	n=p	
+23	nobles	noble	NC	NC	n=p	
+24	de	de	P	P		
+25	présenter	présenter	VINF	VINF	t=W	
+26	des	des	DET	DET	n=p	
+27	pétitions	pétition	NC	NC	n=p|g=f	
+28	au	à	P+D	P+D	n=s|g=m	
+29	monarque	monarque	NC	NC	n=s|g=m	
+30	,	,	PONCT	PONCT		
+31	qui	qui	PROREL	PROREL	n=s	
+32	les	les	CLO	CLO	n=p|p=3	
+33	exonérait	exonérer	V	V	n=s|t=I|p=3	
+34	du	de	P+D	P+D	n=s|g=m	
+35	service	service	NC	NC	n=s|g=m	
+36	militaire	militaire	ADJ	ADJ	n=s	
+37	et	et	CC	CC		
+38	qui	qui	PROREL	PROREL	n=s	
+39	leur	leur	CLO	CLO	n=p|p=3	
+40	donnait	donner	V	V	n=s|t=I|p=3	
+41	beaucoup	beaucoup	ADV	ADV		
+42	plus	plus	ADV	ADV		
+43	de	de	P	P		
+44	pouvoirs	pouvoir	NC	NC	n=p|g=m	
+45	et	et	CC	CC		
+46	de	de	P	P		
+47	droits	droit	NC	NC	n=p|g=m	
+48	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	même	même	ADJ	ADJ	n=s	
+3	année	année	NC	NC	n=s|g=f	
+4	,	,	PONCT	PONCT		
+5	elle	elle	CLS	CLS	n=s|g=f|p=3	
+6	publia	publier	V	V	n=s|t=J|p=3	
+7	une	une	DET	DET	n=s|g=f	
+8	Charte	charte	NC	NC	n=s|g=f	
+9	des	de	P+D	P+D	n=p	
+10	villes	ville	NC	NC	n=p|g=f	
+11	(	(	PONCT	PONCT		
+12	Городовая	_	NPP	NPP		
+13	грамота	_	NPP	NPP		
+14	)	)	PONCT	PONCT		
+15	qui	qui	PROREL	PROREL	n=s	
+16	leur	leur	CLO	CLO	n=p|p=3	
+17	reconnaissait	reconnaître	V	V	n=s|t=I|p=3	
+18	une	une	DET	DET	n=s|g=f	
+19	certaine	certain	ADJ	ADJ	n=s|g=f	
+20	autonomie	autonomie	NC	NC	n=s|g=f	
+21	locale	local	ADJ	ADJ	n=s|g=f	
+22	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	encouragea	encourager	V	V	n=s|t=J|p=3	
+3	la	la	DET	DET	n=s|g=f	
+4	colonisation	colonisation	NC	NC	n=s|g=f	
+5	de	de	P	P		
+6	l'	le	DET	DET	n=s	
+7	Alaska	Alaska	NPP	NPP	n=s|g=m	
+8	,	,	PONCT	PONCT		
+9	des	de	P+D	P+D	n=p	
+10	Allemands	allemand	NC	NC	n=p|g=m	
+11	de	de	P	P		
+12	la	la	DET	DET	n=s|g=f	
+13	Volga	Volga	NPP	NPP	n=s|g=f	
+14	et	et	CC	CC		
+15	des	de	P+D	P+D	n=p	
+16	territoires	territoire	NC	NC	n=p|g=m	
+17	conquis	conquérir	VPP	VPP	n=p,s|g=m|t=K	
+18	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	Russie	Russie	NPP	NPP	n=s|g=f	
+3	était	être	V	V	n=s|t=I|p=3	
+4	devenue	devenir	VPP	VPP	n=s|g=f|t=K	
+5	le	le	DET	DET	n=s|g=m	
+6	premier	premier	ADJ	ADJ	n=s|g=m	
+7	producteur	producteur	NC	NC	n=s|g=m	
+8	mondial	mondial	ADJ	ADJ	n=s|g=m	
+9	de	de	P	P		
+10	fer	fer	NC	NC	n=s|g=m	
+11	,	,	PONCT	PONCT		
+12	de	de	P	P		
+13	fonte	fonte	NC	NC	n=s|g=f	
+14	et	et	CC	CC		
+15	de	de	P	P		
+16	cuivre	cuivre	NC	NC	n=s|g=m	
+17	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	comptait	compter	V	V	n=s|t=I|p=3	
+3	plus	plus	ADV	ADV		
+4	de	de	P	P		
+5	200	200	NC	NC		
+6	usines	usine	NC	NC	n=p|g=f	
+7	,	,	PONCT	PONCT		
+8	ateliers	atelier	NC	NC	n=p|g=m	
+9	et	et	CC	CC		
+10	manufactures	manufacture	NC	NC	n=p|g=f	
+11	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	production	production	NC	NC	n=s|g=f	
+3	industrielle	industriel	ADJ	ADJ	n=s|g=f	
+4	avait	avoir	V	V	n=s|t=I|p=3	
+5	doublé	doubler	VPP	VPP	n=s|g=m|t=K	
+6	,	,	PONCT	PONCT		
+7	la	la	DET	DET	n=s|g=f	
+8	valeur	valeur	NC	NC	n=s|g=f	
+9	du	de	P+D	P+D	n=s|g=m	
+10	commerce	commerce	NC	NC	n=s|g=m	
+11	intérieur	intérieur	ADJ	ADJ	n=s|g=m	
+12	et	et	CC	CC		
+13	extérieur	extérieur	ADJ	ADJ	n=s|g=m	
+14	,	,	PONCT	PONCT		
+15	triplé	tripler	VPP	VPP	n=s|g=m|t=K	
+16	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	États	État	NC	NC	n=p|g=m	
+3	occidentaux	occidental	ADJ	ADJ	n=p|g=m	
+4	étaient	être	V	V	n=p|t=I|p=3	
+5	désormais	désormais	ADV	ADV		
+6	contraints	contraindre	VPP	VPP	n=p|g=m|t=K	
+7	d'	de	P	P		
+8	accueillir	accueillir	VINF	VINF	t=W	
+9	la	la	DET	DET	n=s|g=f	
+10	Russie	Russie	NPP	NPP	n=s|g=f	
+11	dans	dans	P	P		
+12	le	le	DET	DET	n=s|g=m	
+13	"	"	PONCT	PONCT		
+14	concert	concert	NC	NC	n=s|g=m	
+15	européen	européen	ADJ	ADJ	n=s|g=m	
+16	"	"	PONCT	PONCT		
+17	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	volonté	volonté	NC	NC	n=s|g=f	
+3	de	de	P	P		
+4	modernisation	modernisation	NC	NC	n=s|g=f	
+5	de	de	P	P		
+6	Catherine	Catherine	NPP	NPP	n=s|g=f	
+7	II	_	NPP	NPP		
+8	se	se	CLR	CLR	n=p,s|p=3	
+9	heurtait	heurter	V	V	n=s|t=I|p=3	
+10	toutefois	toutefois	ADV	ADV		
+11	à	à	P	P		
+12	une	une	DET	DET	n=s|g=f	
+13	situation	situation	NC	NC	n=s|g=f	
+14	de	de	P	P		
+15	sous	sou	NC	NC	n=p|g=m	
+16	-	-	PONCT	PONCT		
+17	développement	développement	NC	NC	n=s|g=m	
+18	économique	économique	ADJ	ADJ	n=s	
+19	,	,	PONCT	PONCT		
+20	politique	politique	ADJ	ADJ	n=s	
+21	et	et	CC	CC		
+22	culturel	culturel	ADJ	ADJ	n=s|g=m	
+23	de	de	P	P		
+24	la	la	DET	DET	n=s|g=f	
+25	Russie	Russie	NPP	NPP	n=s|g=f	
+26	impériale	impérial	ADJ	ADJ	n=s|g=f	
+27	.	.	PONCT	PONCT		
+
+1	À	à	P	P		
+2	l'	le	DET	DET	n=s	
+3	heure	heure	NC	NC	n=s|g=f	
+4	où	où	PROREL	PROREL		
+5	l'	le	DET	DET	n=s	
+6	Angleterre	Angleterre	NPP	NPP	n=s|g=f	
+7	vivait	vivre	V	V	n=s|t=I|p=3	
+8	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+9	révolution	révolution	NC	NC	n=s|g=f	
+10	industrielle	industriel	ADJ	ADJ	n=s|g=f	
+11	et	et	CC	CC		
+12	inventait	inventer	V	V	n=s|t=I|p=3	
+13	le	le	DET	DET	n=s|g=m	
+14	capitalisme	capitalisme	NC	NC	n=s|g=m	
+15	et	et	CC	CC		
+16	où	où	PROREL	PROREL		
+17	les	les	DET	DET	n=p	
+18	États	État	NC	NC	n=p|g=m	
+19	-	-	PONCT	PONCT		
+20	Unis	uni	NC	NC	n=p|g=m	
+21	ouvraient	ouvrir	V	V	n=p|t=I|p=3	
+22	l'	le	DET	DET	n=s	
+23	ère	ère	NC	NC	n=s|g=f	
+24	de	de	P	P		
+25	la	la	DET	DET	n=s|g=f	
+26	démocratie	démocratie	NC	NC	n=s|g=f	
+27	et	et	CC	CC		
+28	des	de	P+D	P+D	n=p	
+29	libertés	liberté	NC	NC	n=p|g=f	
+30	individuelles	individuel	ADJ	ADJ	n=p|g=f	
+31	,	,	PONCT	PONCT		
+32	la	la	DET	DET	n=s|g=f	
+33	Russie	Russie	NPP	NPP	n=s|g=f	
+34	restait	rester	V	V	n=s|t=I|p=3	
+35	bloquée	bloquer	VPP	VPP	n=s|g=f|t=K	
+36	dans	dans	P	P		
+37	un	un	DET	DET	n=s|g=m	
+38	système	système	NC	NC	n=s|g=m	
+39	féodal	féodal	ADJ	ADJ	n=s|g=m	
+40	,	,	PONCT	PONCT		
+41	fondé	fonder	VPP	VPP	n=s|g=m|t=K	
+42	sur	sur	P	P		
+43	la	la	DET	DET	n=s|g=f	
+44	rente	rente	NC	NC	n=s|g=f	
+45	foncière	foncier	ADJ	ADJ	n=s|g=f	
+46	et	et	CC	CC		
+47	un	un	DET	DET	n=s|g=m	
+48	véritable	véritable	ADJ	ADJ	n=s	
+49	esclavage	esclavage	NC	NC	n=s|g=m	
+50	paysan	paysan	NC	NC	n=s|g=m	
+51	particulièrement	_	ADV	ADV		
+52	peu	peu	ADV	ADV		
+53	productif	productif	ADJ	ADJ	n=s|g=m	
+54	et	et	CC	CC		
+55	un	un	DET	DET	n=s|g=m	
+56	pouvoir	pouvoir	NC	NC	n=s|g=m	
+57	politique	politique	ADJ	ADJ	n=s	
+58	autoritaire	autoritaire	ADJ	ADJ	n=s	
+59	régulé	réguler	VPP	VPP	n=s|g=m|t=K	
+60	par	par	P	P		
+61	assassinats	assassinat	NC	NC	n=p|g=m	
+62	.	.	PONCT	PONCT		
+
+1	Si	si	CS	CS		
+2	la	la	DET	DET	n=s|g=f	
+3	Russie	Russie	NPP	NPP	n=s|g=f	
+4	de	de	P	P		
+5	Catherine	Catherine	NPP	NPP	n=s|g=f	
+6	II	_	NPP	NPP		
+7	fut	être	V	V	n=s|t=J|p=3	
+8	l'	le	DET	DET	n=s	
+9	âge	âge	NC	NC	n=s|g=m	
+10	d'	de	P	P		
+11	or	or	NC	NC	n=s|g=m	
+12	de	de	P	P		
+13	la	la	DET	DET	n=s|g=f	
+14	noblesse	noblesse	NC	NC	n=s|g=f	
+15	,	,	PONCT	PONCT		
+16	jamais	jamais	ADV	ADV		
+17	en	en	P	P		
+18	revanche	revanche	NC	NC	n=s|g=f	
+19	dans	dans	P	P		
+20	l'	le	DET	DET	n=s	
+21	histoire	histoire	NC	NC	n=s|g=f	
+22	de	de	P	P		
+23	la	la	DET	DET	n=s|g=f	
+24	Russie	Russie	NPP	NPP	n=s|g=f	
+25	les	les	DET	DET	n=p	
+26	serfs	serf	NC	NC	n=p|g=m	
+27	ne	ne	ADV	ADV		
+28	se	se	CLR	CLR	n=p,s|p=3	
+29	trouvèrent	trouver	V	V	n=p|t=J|p=3	
+30	dans	dans	P	P		
+31	une	une	DET	DET	n=s|g=f	
+32	plus	plus	ADV	ADV		
+33	grande	grand	ADJ	ADJ	n=s|g=f	
+34	misère	misère	NC	NC	n=s|g=f	
+35	.	.	PONCT	PONCT		
+
+1	Soucieuse	soucieux	ADJ	ADJ	n=s|g=f	
+2	d'	de	P	P		
+3	assouplir	assouplir	VINF	VINF	t=W	
+4	le	le	DET	DET	n=s|g=m	
+5	servage	servage	NC	NC	n=s|g=m	
+6	,	,	PONCT	PONCT		
+7	elle	elle	CLS	CLS	n=s|g=f|p=3	
+8	y	y	CLO	CLO		
+9	renonça	renoncer	V	V	n=s|t=J|p=3	
+10	face	face	NC	NC	n=s|g=f	
+11	à	à	P	P		
+12	l'	le	DET	DET	n=s	
+13	opposition	opposition	NC	NC	n=s|g=f	
+14	de	de	P	P		
+15	la	la	DET	DET	n=s|g=f	
+16	noblesse	noblesse	NC	NC	n=s|g=f	
+17	et	et	CC	CC		
+18	l'	le	CLO	CLO	n=s|p=3	
+19	étendit	étendre	V	V	n=s|t=J|p=3	
+20	même	même	ADV	ADV		
+21	à	à	P	P		
+22	l'	le	DET	DET	n=s	
+23	Ukraine	Ukraine	NPP	NPP	n=s|g=f	
+24	.	.	PONCT	PONCT		
+
+1	Catherine	Catherine	NPP	NPP	n=s|g=f	
+2	ne	ne	ADV	ADV		
+3	semblait	sembler	V	V	n=s|t=I|p=3	
+4	pas	pas	ADV	ADV		
+5	vouloir	vouloir	VINF	VINF	t=W	
+6	admettre	admettre	VINF	VINF	t=W	
+7	la	la	DET	DET	n=s|g=f	
+8	situation	situation	NC	NC	n=s|g=f	
+9	réelle	réel	ADJ	ADJ	n=s|g=f	
+10	de	de	P	P		
+11	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+12	empire	empire	NC	NC	n=s|g=m	
+13	.	.	PONCT	PONCT		
+
+1	Ainsi	ainsi	ADV	ADV		
+2	,	,	PONCT	PONCT		
+3	on	on	CLS	CLS	n=s|p=3	
+4	raconte	raconter	V	V	n=s|t=P,S|p=1,3	
+5	(	(	PONCT	PONCT		
+6	à	à	P	P		
+7	tort	tort	NC	NC	n=s|g=m	
+8	[	[	PONCT	PONCT		
+9	7	7	ADJ	ADJ		
+10	]	]	PONCT	PONCT		
+11	,	,	PONCT	PONCT		
+12	semble	sembler	V	V	n=s|t=P,S|p=1,3	
+13	-t-il	il	CLS	CLS	n=s|g=m|p=3	
+14	,	,	PONCT	PONCT		
+15	bien	bien	ADV	ADV		
+16	que	que	CS	CS		
+17	madame	_	NC	NC		
+18	Vigée	_	NPP	NPP		
+19	-	-	PONCT	PONCT		
+20	Lebrun	_	NPP	NPP		
+21	en	en	CLO	CLO		
+22	parle	parler	V	V	n=s|t=P,S|p=1,3	
+23	[	[	PONCT	PONCT		
+24	réf	_	NC	NC		
+25	.	.	PONCT	PONCT		
+26	nécessaire	nécessaire	ADJ	ADJ	n=s	
+27	]	]	PONCT	PONCT		
+28	)	)	PONCT	PONCT		
+29	que	que	CS	CS		
+30	lors	lors	ADV	ADV		
+31	de	de	P	P		
+32	ses	ses	DET	DET	n=p|p=3|poss=s	
+33	déplacements	déplacement	NC	NC	n=p|g=m	
+34	,	,	PONCT	PONCT		
+35	les	les	DET	DET	n=p	
+36	gouverneurs	gouverneur	NC	NC	n=p|g=m	
+37	faisaient	faire	V	V	n=p|t=I|p=3	
+38	construire	construire	VINF	VINF	t=W	
+39	de	de	P	P		
+40	faux	faux	ADJ	ADJ	g=m	
+41	villages	village	NC	NC	n=p|g=m	
+42	modèles	modèle	NC	NC	n=p|g=m	
+43	peuplés	peupler	VPP	VPP	n=p|g=m|t=K	
+44	de	de	P	P		
+45	faux	faux	NC	NC	g=m	
+46	paysans	paysan	NC	NC	n=p|g=m	
+47	le	le	DET	DET	n=s|g=m	
+48	long	long	ADJ	ADJ	n=s|g=m	
+49	des	de	P+D	P+D	n=p	
+50	routes	route	NC	NC	n=p|g=f	
+51	où	où	PROREL	PROREL		
+52	elle	elle	CLS	CLS	n=s|g=f|p=3	
+53	passait	passer	V	V	n=s|t=I|p=3	
+54	,	,	PONCT	PONCT		
+55	afin	_	ADV	ADV		
+56	de	de	P	P		
+57	lui	lui	CLO	CLO	n=s|p=3	
+58	prouver	prouver	VINF	VINF	t=W	
+59	que	que	CS	CS		
+60	la	la	DET	DET	n=s|g=f	
+61	Russie	Russie	NPP	NPP	n=s|g=f	
+62	était	être	V	V	n=s|t=I|p=3	
+63	moderne	moderne	ADJ	ADJ	n=s	
+64	.	.	PONCT	PONCT		
+
+1	On	on	CLS	CLS	n=s|p=3	
+2	a	avoir	V	V	n=s|t=P|p=3	
+3	donné	donner	VPP	VPP	n=s|g=m|t=K	
+4	à	à	P	P		
+5	ces	ces	DET	DET	n=p	
+6	villages	village	NC	NC	n=p|g=m	
+7	le	le	DET	DET	n=s|g=m	
+8	nom	nom	NC	NC	n=s|g=m	
+9	de	de	P	P		
+10	villages	village	NC	NC	n=p|g=m	
+11	Potemkine	_	NPP	NPP		
+12	,	,	PONCT	PONCT		
+13	du	de	P+D	P+D	n=s|g=m	
+14	nom	nom	NC	NC	n=s|g=m	
+15	du	de	P+D	P+D	n=s|g=m	
+16	grand	grand	ADJ	ADJ	n=s|g=m	
+17	stratège	stratège	NC	NC	n=s	
+18	russe	russe	ADJ	ADJ	n=s	
+19	,	,	PONCT	PONCT		
+20	amant	amant	NC	NC	n=s|g=m	
+21	de	de	P	P		
+22	l'	le	DET	DET	n=s	
+23	impératrice	empereur	NC	NC	n=s|g=f	
+24	.	.	PONCT	PONCT		
+
+1	À	à	P	P		
+2	la	la	DET	DET	n=s|g=f	
+3	fin	fin	NC	NC	n=s	
+4	de	de	P	P		
+5	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+6	vie	vie	NC	NC	n=s|g=f	
+7	Catherine	Catherine	NPP	NPP	n=s|g=f	
+8	put	pouvoir	V	V	n=s|t=J|p=3	
+9	avoir	avoir	VINF	VINF	t=W	
+10	la	la	DET	DET	n=s|g=f	
+11	satisfaction	satisfaction	NC	NC	n=s|g=f	
+12	d'	de	P	P		
+13	avoir	avoir	VINF	VINF	t=W	
+14	semé	semer	VPP	VPP	n=s|g=m|t=K	
+15	les	les	DET	DET	n=p	
+16	graines	graine	NC	NC	n=p|g=f	
+17	de	de	P	P		
+18	l'	le	DET	DET	n=s	
+19	éducation	éducation	NC	NC	n=s|g=f	
+20	sur	sur	P	P		
+21	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+22	empire	empire	NC	NC	n=s|g=m	
+23	.	.	PONCT	PONCT		
+
+1	Avec	avec	P	P		
+2	l'	le	DET	DET	n=s	
+3	aide	aide	NC	NC	n=s	
+4	d'	de	P	P		
+5	une	une	DET	DET	n=s|g=f	
+6	commission	commission	NC	NC	n=s|g=f	
+7	,	,	PONCT	PONCT		
+8	elle	elle	CLS	CLS	n=s|g=f|p=3	
+9	avait	avoir	V	V	n=s|t=I|p=3	
+10	créé	créer	VPP	VPP	n=s|g=m|t=K	
+11	des	des	DET	DET	n=p	
+12	hôpitaux	hôpital	NC	NC	n=p|g=m	
+13	pour	pour	P	P		
+14	enfants	enfant	NC	NC	n=p	
+15	trouvés	trouver	VPP	VPP	n=p|g=m|t=K	
+16	dans	dans	P	P		
+17	lesquels	lequel	PROREL	PROREL	n=p|g=m	
+18	ils	ils	CLS	CLS	n=p|g=m|p=3	
+19	étaient	être	V	V	n=p|t=I|p=3	
+20	éduqués	éduquer	VPP	VPP	n=p|g=m|t=K	
+21	selon	selon	P	P		
+22	un	un	DET	DET	n=s|g=m	
+23	programme	programme	NC	NC	n=s|g=m	
+24	établi	établir	VPP	VPP	n=s|g=m|t=K	
+25	par	par	P	P		
+26	l'	le	DET	DET	n=s	
+27	impératrice	empereur	NC	NC	n=s|g=f	
+28	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	corps	corps	NC	NC	g=m	
+3	de	de	P	P		
+4	cadets	cadet	NC	NC	n=p|g=m	
+5	,	,	PONCT	PONCT		
+6	élite	élite	NC	NC	n=s|g=f	
+7	militaire	militaire	ADJ	ADJ	n=s	
+8	,	,	PONCT	PONCT		
+9	fut	être	V	V	n=s|t=J|p=3	
+10	réformé	réformer	VPP	VPP	n=s|g=m|t=K	
+11	pour	pour	P	P		
+12	y	y	CLO	CLO		
+13	inclure	inclure	VINF	VINF	t=W	
+14	une	une	DET	DET	n=s|g=f	
+15	éducation	éducation	NC	NC	n=s|g=f	
+16	intellectuelle	intellectuel	ADJ	ADJ	n=s|g=f	
+17	qui	qui	PROREL	PROREL	n=s	
+18	forma	former	V	V	n=s|t=J|p=3	
+19	pendant	pendant	P	P		
+20	longtemps	longtemps	ADV	ADV		
+21	des	des	DET	DET	n=p	
+22	hommes	homme	NC	NC	n=p|g=m	
+23	politiques	politique	ADJ	ADJ	n=p	
+24	russes	russe	ADJ	ADJ	n=p	
+25	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	1775	1775	NC	NC		
+3	,	,	PONCT	PONCT		
+4	apparut	apparaître	V	V	n=s|t=J|p=3	
+5	la	la	DET	DET	n=s|g=f	
+6	première	premier	ADJ	ADJ	n=s|g=f	
+7	école	école	NC	NC	n=s|g=f	
+8	pour	pour	P	P		
+9	jeunes	jeune	ADJ	ADJ	n=p	
+10	filles	fille	NC	NC	n=p|g=f	
+11	nobles	noble	ADJ	ADJ	n=p	
+12	,	,	PONCT	PONCT		
+13	l'	le	DET	DET	n=s	
+14	Institut	institut	NC	NC	n=s|g=m	
+15	Smolnyi	_	NPP	NPP		
+16	,	,	PONCT	PONCT		
+17	inspirée	inspirer	VPP	VPP	n=s|g=f|t=K	
+18	de	de	P	P		
+19	celle	celle	PRO	PRO	n=s|g=f	
+20	de	de	P	P		
+21	Madame	Monsieur	NC	NC	n=s|g=f	
+22	de	de	P	P		
+23	Maintenon	Maintenon	NPP	NPP	n=s|g=m	
+24	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	mit	mettre	V	V	n=s|t=J|p=3	
+3	en	en	P	P		
+4	place	place	NC	NC	n=s|g=f	
+5	un	un	DET	DET	n=s|g=m	
+6	réseau	réseau	NC	NC	n=s|g=m	
+7	d'	de	P	P		
+8	écoles	école	NC	NC	n=p|g=f	
+9	publiques	public	ADJ	ADJ	n=p|g=f	
+10	primaires	primaire	ADJ	ADJ	n=p	
+11	et	et	CC	CC		
+12	secondaires	secondaire	ADJ	ADJ	n=p	
+13	dans	dans	P	P		
+14	la	la	DET	DET	n=s|g=f	
+15	majorité	majorité	NC	NC	n=s|g=f	
+16	des	de	P+D	P+D	n=p	
+17	grandes	grand	ADJ	ADJ	n=p|g=f	
+18	villes	ville	NC	NC	n=p|g=f	
+19	de	de	P	P		
+20	Russie	Russie	NPP	NPP	n=s|g=f	
+21	.	.	PONCT	PONCT		
+
+1	Elles	elles	CLS	CLS	n=p|g=f|p=3	
+2	relancèrent	relancer	V	V	n=p|t=J|p=3	
+3	la	la	DET	DET	n=s|g=f	
+4	construction	construction	NC	NC	n=s|g=f	
+5	d'	de	P	P		
+6	écoles	école	NC	NC	n=p|g=f	
+7	privées	priver	ADJ	ADJ	n=p|g=f|t=K	
+8	ajoutant	ajouter	VPR	VPR	t=G	
+9	au	à	P+D	P+D	n=s|g=m	
+10	système	système	NC	NC	n=s|g=m	
+11	d'	de	P	P		
+12	éducation	éducation	NC	NC	n=s|g=f	
+13	.	.	PONCT	PONCT		
+
+1	Consciente	conscient	ADJ	ADJ	n=s|g=f	
+2	de	de	P	P		
+3	ne	ne	ADV	ADV		
+4	pouvoir	pouvoir	VINF	VINF	t=W	
+5	élever	élever	VINF	VINF	t=W	
+6	tous	tout	ADJ	ADJ	n=p|g=m	
+7	les	les	DET	DET	n=p	
+8	enfants	enfant	NC	NC	n=p	
+9	de	de	P	P		
+10	Russie	Russie	NPP	NPP	n=s|g=f	
+11	,	,	PONCT	PONCT		
+12	elle	elle	CLS	CLS	n=s|g=f|p=3	
+13	se	se	CLR	CLR	n=p,s|p=3	
+14	concentra	concentrer	V	V	n=s|t=J|p=3	
+15	sur	sur	P	P		
+16	les	les	DET	DET	n=p	
+17	familles	famille	NC	NC	n=p|g=f	
+18	nobles	noble	ADJ	ADJ	n=p	
+19	et	et	CC	CC		
+20	roturières	roturier	NC	NC	n=p|g=f	
+21	(	(	PONCT	PONCT		
+22	excluant	exclure	VPR	VPR	t=G	
+23	la	la	DET	DET	n=s|g=f	
+24	campagne	campagne	NC	NC	n=s|g=f	
+25	et	et	CC	CC		
+26	les	les	DET	DET	n=p	
+27	serfs	serf	NC	NC	n=p|g=m	
+28	)	)	PONCT	PONCT		
+29	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	création	création	NC	NC	n=s|g=f	
+3	de	de	P	P		
+4	bureaux	bureau	NC	NC	n=p|g=m	
+5	d'	de	P	P		
+6	assistance	assistance	NC	NC	n=s|g=f	
+7	sociale	social	ADJ	ADJ	n=s|g=f	
+8	fut	être	V	V	n=s|t=J|p=3	
+9	l'	le	DET	DET	n=s	
+10	instrument	instrument	NC	NC	n=s|g=m	
+11	de	de	P	P		
+12	la	la	DET	DET	n=s|g=f	
+13	création	création	NC	NC	n=s|g=f	
+14	d'	de	P	P		
+15	écoles	école	NC	NC	n=p|g=f	
+16	et	et	CC	CC		
+17	de	de	P	P		
+18	la	la	DET	DET	n=s|g=f	
+19	prise	prise	NC	NC	n=s|g=f	
+20	en	en	P	P		
+21	charge	charge	NC	NC	n=s|g=f	
+22	des	de	P+D	P+D	n=p	
+23	enfants	enfant	NC	NC	n=p	
+24	.	.	PONCT	PONCT		
+
+1	De	de	DET	DET	n=p	
+2	nombreuses	nombreux	ADJ	ADJ	n=p|g=f	
+3	écoles	école	NC	NC	n=p|g=f	
+4	secondaires	secondaire	ADJ	ADJ	n=p	
+5	furent	être	V	V	n=p|t=J|p=3	
+6	ouvertes	ouvrir	VPP	VPP	n=p|g=f|t=K	
+7	dans	dans	P	P		
+8	la	la	DET	DET	n=s|g=f	
+9	capitale	capitale	NC	NC	n=s|g=f	
+10	et	et	CC	CC		
+11	à	à	P	P		
+12	Moscou	Moscou	NPP	NPP	n=s|g=m	
+13	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	nombre	nombre	NC	NC	n=s|g=m	
+3	d'	de	P	P		
+4	élèves	élève	NC	NC	n=p	
+5	,	,	PONCT	PONCT		
+6	de	de	P	P		
+7	professeurs	professeur	NC	NC	n=p|g=m	
+8	et	et	CC	CC		
+9	d'	de	P	P		
+10	écoles	école	NC	NC	n=p|g=f	
+11	avait	avoir	V	V	n=s|t=I|p=3	
+12	quasiment	_	ADV	ADV		
+13	doublé	doubler	VPP	VPP	n=s|g=m|t=K	
+14	du	de	P+D	P+D	n=s|g=m	
+15	début	début	NC	NC	n=s|g=m	
+16	à	à	P	P		
+17	la	la	DET	DET	n=s|g=f	
+18	fin	fin	NC	NC	n=s	
+19	de	de	P	P		
+20	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+21	règne	règne	NC	NC	n=s|g=m	
+22	,	,	PONCT	PONCT		
+23	passant	passer	VPR	VPR	t=G	
+24	de	de	P	P		
+25	165	165	NC	NC		
+26	à	à	P	P		
+27	302	302	ADJ	ADJ		
+28	écoles	école	NC	NC	n=p|g=f	
+29	;	;	PONCT	PONCT		
+30	de	de	P	P		
+31	394	394	NC	NC		
+32	à	à	P	P		
+33	718	718	NC	NC		
+34	professeurs	professeur	NC	NC	n=p|g=m	
+35	;	;	PONCT	PONCT		
+36	de	de	P	P		
+37	10_230	10_230	NC	NC		
+38	à	à	P	P		
+39	18_128	18_128	NC	NC		
+40	garçons	garçon	NC	NC	n=p|g=m	
+41	;	;	PONCT	PONCT		
+42	de	de	P	P		
+43	858	858	NC	NC		
+44	à	à	P	P		
+45	1_178	1_178	NC	NC		
+46	filles	fille	NC	NC	n=p|g=f	
+47	[	[	PONCT	PONCT		
+48	8	8	NC	NC		
+49	]	]	PONCT	PONCT		
+50	.	.	PONCT	PONCT		
+
+1	Catherine	Catherine	NPP	NPP	n=s|g=f	
+2	est	être	V	V	n=s|t=P|p=3	
+3	tout	tout	PRO	PRO	n=s|g=m	
+4	d'	de	P	P		
+5	abord	abord	NC	NC	n=s|g=m	
+6	une	une	DET	DET	n=s|g=f	
+7	amoureuse	amoureux	ADJ	ADJ	n=s|g=f	
+8	des	de	P+D	P+D	n=p	
+9	livres	livre	NC	NC	n=p	
+10	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	avait	avoir	V	V	n=s|t=I|p=3	
+3	une	une	DET	DET	n=s|g=f	
+4	connaissance	connaissance	NC	NC	n=s|g=f	
+5	parfaite	parfait	ADJ	ADJ	n=s|g=f	
+6	de	de	P	P		
+7	la	la	DET	DET	n=s|g=f	
+8	langue	langue	NC	NC	n=s|g=f	
+9	française	français	ADJ	ADJ	n=s|g=f	
+10	apprise	apprendre	VPP	VPP	n=s|g=f|t=K	
+11	auprès	auprès	ADV	ADV		
+12	de	de	P	P		
+13	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+14	gouvernante	gouvernant	ADJ	ADJ	n=s|g=f	
+15	.	.	PONCT	PONCT		
+
+1	Enfant	enfant	NC	NC	n=s	
+2	délaissée	délaisser	VPP	VPP	n=s|g=f|t=K	
+3	par	par	P	P		
+4	ses	ses	DET	DET	n=p|p=3|poss=s	
+5	parents	parent	NC	NC	n=p|g=m	
+6	,	,	PONCT	PONCT		
+7	elle	elle	CLS	CLS	n=s|g=f|p=3	
+8	vécut	vivre	V	V	n=s|t=J|p=3	
+9	une	une	DET	DET	n=s|g=f	
+10	enfance	enfance	NC	NC	n=s|g=f	
+11	solitaire	solitaire	ADJ	ADJ	n=s	
+12	qui	qui	PROREL	PROREL	n=s	
+13	la	la	CLO	CLO	n=s|g=f|p=3	
+14	fit	faire	V	V	n=s|t=J|p=3	
+15	se	se	CLR	CLR	n=p,s|p=3	
+16	plonger	plonger	VINF	VINF	t=W	
+17	dans	dans	P	P		
+18	les	les	DET	DET	n=p	
+19	livres	livre	NC	NC	n=p	
+20	.	.	PONCT	PONCT		
+
+1	À	à	P	P		
+2	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+3	arrivée	arrivée	NC	NC	n=s|g=f	
+4	en	en	P	P		
+5	Russie	Russie	NPP	NPP	n=s|g=f	
+6	,	,	PONCT	PONCT		
+7	toujours	toujours	ADV	ADV		
+8	délaissée	délaisser	VPP	VPP	n=s|g=f|t=K	
+9	par	par	P	P		
+10	Pierre	Pierre	NPP	NPP	n=s|g=m	
+11	,	,	PONCT	PONCT		
+12	puis	puis	CC	CC		
+13	mise	mettre	VPP	VPP	n=s|g=f|t=K	
+14	quasiment	_	ADV	ADV		
+15	en	en	P	P		
+16	quarantaine	quarantaine	NC	NC	n=s|g=f	
+17	par	par	P	P		
+18	Élisabeth	Élisabeth	NPP	NPP	n=s|g=f	
+19	Ire	_	NPP	NPP		
+20	,	,	PONCT	PONCT		
+21	elle	elle	CLS	CLS	n=s|g=f|p=3	
+22	se	se	CLR	CLR	n=p,s|p=3	
+23	plongea	plonger	V	V	n=s|t=J|p=3	
+24	dans	dans	P	P		
+25	tous	tout	ADJ	ADJ	n=p|g=m	
+26	les	les	DET	DET	n=p	
+27	romans	roman	NC	NC	n=p|g=m	
+28	français	français	ADJ	ADJ	g=m	
+29	qui	qui	PROREL	PROREL	n=s	
+30	lui	lui	CLO	CLO	n=s|p=3	
+31	tombaient	tomber	V	V	n=p|t=I|p=3	
+32	sous	sous	P	P		
+33	la	la	DET	DET	n=s|g=f	
+34	main	main	NC	NC	n=s|g=f	
+35	.	.	PONCT	PONCT		
+
+1	Un	un	DET	DET	n=s|g=m	
+2	jour	jour	NC	NC	n=s|g=m	
+3	,	,	PONCT	PONCT		
+4	elle	elle	CLS	CLS	n=s|g=f|p=3	
+5	lut	lire	V	V	n=s|t=J|p=3	
+6	une	une	DET	DET	n=s|g=f	
+7	Histoire	histoire	NC	NC	n=s|g=f	
+8	de	de	P	P		
+9	l'	le	DET	DET	n=s	
+10	Allemagne	Allemagne	NPP	NPP	n=s|g=f	
+11	écrite	écrire	VPP	VPP	n=s|g=f|t=K	
+12	en	en	P	P		
+13	français	français	NC	NC	g=m	
+14	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	s'	se	CLR	CLR	n=p,s|p=3	
+3	aperçut	apercevoir	V	V	n=s|t=J|p=3	
+4	que	que	CS	CS		
+5	ce	ce	DET	DET	n=s|g=m	
+6	genre	genre	NC	NC	n=s|g=m	
+7	d'	de	P	P		
+8	œuvre	_	NPP	NPP		
+9	lui	lui	CLO	CLO	n=s|p=3	
+10	plaisait	plaire	V	V	n=s|t=I|p=3	
+11	plus	plus	ADV	ADV		
+12	que	que	CS	CS		
+13	la	la	DET	DET	n=s|g=f	
+14	littérature	littérature	NC	NC	n=s|g=f	
+15	romanesque	romanesque	ADJ	ADJ	n=s	
+16	.	.	PONCT	PONCT		
+
+1	Après	après	P	P		
+2	le	le	DET	DET	n=s|g=m	
+3	passage	passage	NC	NC	n=s|g=m	
+4	de	de	P	P		
+5	certains	certain	DET	DET	n=p|g=m	
+6	intellectuels	intellectuel	NC	NC	n=p|g=m	
+7	en	en	P	P		
+8	Russie	Russie	NPP	NPP	n=s|g=f	
+9	qui	qui	PROREL	PROREL	n=s	
+10	la	la	CLO	CLO	n=s|g=f|p=3	
+11	conseillèrent	conseiller	V	V	n=p|t=J|p=3	
+12	,	,	PONCT	PONCT		
+13	elle	elle	CLS	CLS	n=s|g=f|p=3	
+14	se	se	CLR	CLR	n=p,s|p=3	
+15	plongea	plonger	V	V	n=s|t=J|p=3	
+16	dans	dans	P	P		
+17	les	les	DET	DET	n=p	
+18	œuvres	_	NC	NC		
+19	de	de	P	P		
+20	Plutarque	_	NPP	NPP		
+21	et	et	CC	CC		
+22	de	de	P	P		
+23	Tacite	_	NPP	NPP		
+24	.	.	PONCT	PONCT		
+
+1	Puis	puis	CC	CC		
+2	,	,	PONCT	PONCT		
+3	ce	ce	CLS	CLS		
+4	fut	être	V	V	n=s|t=J|p=3	
+5	le	le	DET	DET	n=s|g=m	
+6	dictionnaire	dictionnaire	NC	NC	n=s|g=m	
+7	historique	historique	ADJ	ADJ	n=s	
+8	et	et	CC	CC		
+9	critique	critique	NC	NC	n=s	
+10	de	de	P	P		
+11	Pierre	Pierre	NPP	NPP	n=s|g=m	
+12	Bayle	_	NPP	NPP		
+13	,	,	PONCT	PONCT		
+14	une	une	DET	DET	n=s|g=f	
+15	transition	transition	NC	NC	n=s|g=f	
+16	entre	entre	P	P		
+17	l'	le	DET	DET	n=s	
+18	histoire	histoire	NC	NC	n=s|g=f	
+19	et	et	CC	CC		
+20	la	la	DET	DET	n=s|g=f	
+21	philosophie	philosophie	NC	NC	n=s|g=f	
+22	.	.	PONCT	PONCT		
+
+1	Son	son	DET	DET	n=s|g=m|p=3|poss=s	
+2	chemin	chemin	NC	NC	n=s|g=m	
+3	la	la	CLO	CLO	n=s|g=f|p=3	
+4	mène	mener	V	V	n=s|t=P,S|p=1,3	
+5	à	à	P	P		
+6	lire	lire	VINF	VINF	t=W	
+7	De	_	NPP	NPP		
+8	l'	le	DET	DET	n=s	
+9	esprit	esprit	NC	NC	n=s|g=m	
+10	des	de	P+D	P+D	n=p	
+11	lois	loi	NC	NC	n=p|g=f	
+12	de	de	P	P		
+13	Montesquieu	Montesquieu	NPP	NPP	n=s|g=m	
+14	,	,	PONCT	PONCT		
+15	où	où	PROREL	PROREL		
+16	il	il	CLS	CLS	n=s|g=m|p=3	
+17	traite	traiter	V	V	n=s|t=P,S|p=1,3	
+18	de	de	P	P		
+19	la	la	DET	DET	n=s|g=f	
+20	séparation	séparation	NC	NC	n=s|g=f	
+21	des	de	P+D	P+D	n=p	
+22	trois	trois	ADJ	ADJ	s=card|n=p	
+23	pouvoirs	pouvoir	NC	NC	n=p|g=m	
+24	et	et	CC	CC		
+25	d'	de	P	P		
+26	un	un	DET	DET	n=s|g=m	
+27	système	système	NC	NC	n=s|g=m	
+28	aristocratique	aristocratique	ADJ	ADJ	n=s	
+29	libéral	libéral	ADJ	ADJ	n=s|g=m	
+30	.	.	PONCT	PONCT		
+
+1	Ces	ces	DET	DET	n=p	
+2	conceptions	conception	NC	NC	n=p|g=f	
+3	,	,	PONCT	PONCT		
+4	Catherine	Catherine	NPP	NPP	n=s|g=f	
+5	les	les	CLO	CLO	n=p|p=3	
+6	remodèlera	remodeler	V	V	n=s|t=F|p=3	
+7	dans	dans	P	P		
+8	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+9	gouvernement	gouvernement	NC	NC	n=s|g=m	
+10	,	,	PONCT	PONCT		
+11	ne	ne	ADV	ADV		
+12	pouvant	pouvoir	VPR	VPR	t=G	
+13	les	les	CLO	CLO	n=p|p=3	
+14	appliquer	appliquer	VINF	VINF	t=W	
+15	comme	comme	P	P		
+16	telles	tel	ADJ	ADJ	n=p|g=f	
+17	à	à	P	P		
+18	la	la	DET	DET	n=s|g=f	
+19	Russie	Russie	NPP	NPP	n=s|g=f	
+20	de	de	P	P		
+21	l'	le	DET	DET	n=s	
+22	époque	époque	NC	NC	n=s|g=f	
+23	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	se	se	CLR	CLR	n=p,s|p=3	
+3	pose	poser	V	V	n=s|t=P,S|p=1,3	
+4	en	en	P	P		
+5	véritable	véritable	ADJ	ADJ	n=s	
+6	fondatrice	fondatrice	NC	NC	n=s|g=f	
+7	de	de	P	P		
+8	l'	le	DET	DET	n=s	
+9	Académie	académie	NC	NC	n=s|g=f	
+10	des	de	P+D	P+D	n=p	
+11	trois	trois	ADJ	ADJ	s=card|n=p	
+12	arts	art	NC	NC	n=p|g=m	
+13	nobles	noble	ADJ	ADJ	n=p	
+14	,	,	PONCT	PONCT		
+15	en	en	P	P		
+16	lui	lui	CLO	CLO	n=s|p=3	
+17	octroyant	octroyer	VPR	VPR	t=G	
+18	des	des	DET	DET	n=p	
+19	privilèges	privilège	NC	NC	n=p|g=m	
+20	et	et	CC	CC		
+21	un	un	DET	DET	n=s|g=m	
+22	règlement	règlement	NC	NC	n=s|g=m	
+23	en	en	P	P		
+24	novembre	novembre	NC	NC	n=s|g=m	
+25	1764	1764	NC	NC		
+26	[	[	PONCT	PONCT		
+27	9	9	ADJ	ADJ		
+28	]	]	PONCT	PONCT		
+29	.	.	PONCT	PONCT		
+
+1	Par	par	P	P		
+2	ses	ses	DET	DET	n=p|p=3|poss=s	
+3	commandes	commande	NC	NC	n=p|g=f	
+4	importantes	important	ADJ	ADJ	n=p|g=f	
+5	de	de	P	P		
+6	service	service	NC	NC	n=s|g=m	
+7	de	de	P	P		
+8	table	table	NC	NC	n=s|g=f	
+9	,	,	PONCT	PONCT		
+10	elle	elle	CLS	CLS	n=s|g=f|p=3	
+11	favorise	favoriser	V	V	n=s|t=P,S|p=1,3	
+12	le	le	DET	DET	n=s|g=m	
+13	développement	développement	NC	NC	n=s|g=m	
+14	de	de	P	P		
+15	la	la	DET	DET	n=s|g=f	
+16	Manufacture	manufacture	NC	NC	n=s|g=f	
+17	impériale	impérial	ADJ	ADJ	n=s|g=f	
+18	de	de	P	P		
+19	porcelaines	porcelaine	NC	NC	n=p|g=f	
+20	[	[	PONCT	PONCT		
+21	10	10	ADJ	ADJ		
+22	]	]	PONCT	PONCT		
+23	.	.	PONCT	PONCT		
+
+1	Dans	dans	P	P		
+2	l'	le	DET	DET	n=s	
+3	objectif	objectif	NC	NC	n=s|g=m	
+4	de	de	P	P		
+5	développer	développer	VINF	VINF	t=W	
+6	la	la	DET	DET	n=s|g=f	
+7	culture	culture	NC	NC	n=s|g=f	
+8	dans	dans	P	P		
+9	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+10	nation	nation	NC	NC	n=s|g=f	
+11	,	,	PONCT	PONCT		
+12	elle	elle	CLS	CLS	n=s|g=f|p=3	
+13	invite	inviter	V	V	n=s|t=P,S|p=1,3	
+14	constamment	_	ADV	ADV		
+15	les	les	DET	DET	n=p	
+16	philosophes	philosophe	NC	NC	n=p	
+17	français	français	ADJ	ADJ	g=m	
+18	à	à	P	P		
+19	la	la	DET	DET	n=s|g=f	
+20	Cour	cour	NC	NC	n=s|g=f	
+21	.	.	PONCT	PONCT		
+
+1	Mais	mais	CC	CC		
+2	la	la	DET	DET	n=s|g=f	
+3	réputation	réputation	NC	NC	n=s|g=f	
+4	du	de	P+D	P+D	n=s|g=m	
+5	pays	pays	NC	NC	g=m	
+6	effraie	effraie	NC	NC	n=s|g=f	
+7	et	et	CC	CC		
+8	les	les	DET	DET	n=p	
+9	refus	refus	NC	NC	g=m	
+10	s'	se	CLR	CLR	n=p,s|p=3	
+11	enchaînent	enchaîner	V	V	n=p|t=P,S|p=3	
+12	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	se	se	CLR	CLR	n=p,s|p=3	
+3	présenta	présenter	V	V	n=s|t=J|p=3	
+4	comme	comme	P	P		
+5	un	un	DET	DET	n=s|g=m	
+6	mécène	mécène	NC	NC	n=s	
+7	pour	pour	P	P		
+8	les	les	DET	DET	n=p	
+9	arts	art	NC	NC	n=p|g=m	
+10	,	,	PONCT	PONCT		
+11	la	la	DET	DET	n=s|g=f	
+12	littérature	littérature	NC	NC	n=s|g=f	
+13	et	et	CC	CC		
+14	l'	le	DET	DET	n=s	
+15	éducation	éducation	NC	NC	n=s|g=f	
+16	,	,	PONCT	PONCT		
+17	se	se	CLR	CLR	n=p,s|p=3	
+18	basant	baser	VPR	VPR	t=G	
+19	sur	sur	P	P		
+20	l'	le	DET	DET	n=s	
+21	Encyclopédie	encyclopédie	NC	NC	n=s|g=f	
+22	de	de	P	P		
+23	Diderot	_	NPP	NPP		
+24	et	et	CC	CC		
+25	d'	de	P	P		
+26	Alembert	_	NPP	NPP		
+27	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	réussit	réussir	V	V	n=s|t=J,P|p=3	
+3	à	à	P	P		
+4	convaincre	convaincre	VINF	VINF	t=W	
+5	le	le	DET	DET	n=s|g=m	
+6	mathématicien	mathématicien	NC	NC	n=s|g=m	
+7	Leonhard	Leonhard	NPP	NPP	n=s|g=m	
+8	Euler	_	NPP	NPP		
+9	de	de	P	P		
+10	revenir	revenir	VINF	VINF	t=W	
+11	de	de	P	P		
+12	Berlin	Berlin	NPP	NPP	n=s|g=f,m	
+13	[	[	PONCT	PONCT		
+14	11	11	NC	NC		
+15	]	]	PONCT	PONCT		
+16	.	.	PONCT	PONCT		
+
+1	Voltaire	voltaire	NC	NC	n=s|g=m	
+2	,	,	PONCT	PONCT		
+3	qui	qui	PROREL	PROREL	n=s	
+4	entretient	entretenir	V	V	n=s|t=P|p=3	
+5	une	une	DET	DET	n=s|g=f	
+6	relation	relation	NC	NC	n=s|g=f	
+7	épistolaire	épistolaire	ADJ	ADJ	n=s	
+8	avec	avec	P	P		
+9	l'	le	DET	DET	n=s	
+10	impératrice	empereur	NC	NC	n=s|g=f	
+11	,	,	PONCT	PONCT		
+12	est	être	V	V	n=s|t=P|p=3	
+13	un	un	DET	DET	n=s|g=m	
+14	fervent	fervent	ADJ	ADJ	n=s|g=m	
+15	défenseur	défenseur	NC	NC	n=s|g=m	
+16	de	de	P	P		
+17	celle	celle	PRO	PRO	n=s|g=f	
+18	-	-	PONCT	PONCT		
+19	ci	_	NPP	NPP		
+20	en	en	P	P		
+21	France	France	NPP	NPP	n=s|g=f,m	
+22	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	raison	raison	NC	NC	n=s|g=f	
+3	de	de	P	P		
+4	l'	le	DET	DET	n=s	
+5	intérêt	intérêt	NC	NC	n=s|g=m	
+6	qu'	que	PROREL	PROREL		
+7	elle	elle	CLS	CLS	n=s|g=f|p=3	
+8	porte	porter	V	V	n=s|t=P,S|p=1,3	
+9	aux	à	P+D	P+D	n=p	
+10	réflexions	réflexion	NC	NC	n=p|g=f	
+11	des	de	P+D	P+D	n=p	
+12	philosophes	philosophe	NC	NC	n=p	
+13	,	,	PONCT	PONCT		
+14	il	il	CLS	CLS	n=s|g=m|p=3	
+15	voit	voir	V	V	n=s|t=P|p=3	
+16	en	en	P	P		
+17	elle	elle	PRO	PRO	n=s|g=f|p=3	
+18	un	un	DET	DET	n=s|g=m	
+19	monarque	monarque	NC	NC	n=s|g=m	
+20	éclairé	éclairer	VPP	VPP	n=s|g=m|t=K	
+21	et	et	CC	CC		
+22	ouvert	ouvrir	VPP	VPP	n=s|g=m|t=K	
+23	d'	de	P	P		
+24	esprit	esprit	NC	NC	n=s|g=m	
+25	comme	comme	CS	CS		
+26	devrait	devoir	V	V	n=s|t=C|p=3	
+27	l'	le	CLO	CLO	n=s|p=3	
+28	être	être	VINF	VINF	t=W	
+29	celui	celui	PRO	PRO	n=s|g=m	
+30	de	de	P	P		
+31	France	France	NPP	NPP	n=s|g=f,m	
+32	.	.	PONCT	PONCT		
+
+1	Mais	mais	CC	CC		
+2	,	,	PONCT	PONCT		
+3	réaliste	réaliste	ADJ	ADJ	n=s	
+4	,	,	PONCT	PONCT		
+5	il	il	CLS	CLS	n=s|g=m|p=3	
+6	ne	ne	ADV	ADV		
+7	vint	venir	V	V	n=s|t=J|p=3	
+8	jamais	jamais	ADV	ADV		
+9	en	en	P	P		
+10	Russie	Russie	NPP	NPP	n=s|g=f	
+11	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	autres	autre	ADJ	ADJ	n=p	
+3	correspondants	correspondant	NC	NC	n=p|g=m	
+4	de	de	P	P		
+5	l'	le	DET	DET	n=s	
+6	impératrice	empereur	NC	NC	n=s|g=f	
+7	sont	être	V	V	n=p|t=P|p=3	
+8	Melchior	Melchior	NPP	NPP	n=s|g=m	
+9	Grimm	_	NPP	NPP		
+10	,	,	PONCT	PONCT		
+11	Diderot	_	NPP	NPP		
+12	et	et	CC	CC		
+13	Madame	_	NPP	NPP		
+14	Geoffrin	_	NPP	NPP		
+15	qui	qui	PROREL	PROREL	n=s	
+16	recevait	recevoir	V	V	n=s|t=I|p=3	
+17	tous	tout	ADJ	ADJ	n=p|g=m	
+18	ces	ces	DET	DET	n=p	
+19	philosophes	philosophe	NC	NC	n=p	
+20	dans	dans	P	P		
+21	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+22	salon	salon	NC	NC	n=s|g=m	
+23	de	de	P	P		
+24	la	la	DET	DET	n=s|g=f	
+25	rue	rue	NC	NC	n=s|g=f	
+26	Saint	_	NPP	NPP		
+27	-	-	PONCT	PONCT		
+28	Honoré	honorer	VPP	VPP	n=s|g=m|t=K	
+29	.	.	PONCT	PONCT		
+
+1	Melchior	melchior	NC	NC	n=s|g=m	
+2	Grimm	_	NPP	NPP		
+3	,	,	PONCT	PONCT		
+4	correspondant	correspondant	NC	NC	n=s|g=m	
+5	de	de	P	P		
+6	Catherine	Catherine	NPP	NPP	n=s|g=f	
+7	II	_	NPP	NPP		
+8	avec	avec	P	P		
+9	plus	plus	ADV	ADV		
+10	de	de	P	P		
+11	430	430	ADJ	ADJ		
+12	lettres	lettre	NC	NC	n=p|g=f	
+13	,	,	PONCT	PONCT		
+14	fut	être	V	V	n=s|t=J|p=3	
+15	aussi	aussi	ADV	ADV		
+16	bien	bien	ADV	ADV		
+17	un	un	DET	DET	n=s|g=m	
+18	correspondant	correspondant	NC	NC	n=s|g=m	
+19	philosophique	philosophique	ADJ	ADJ	n=s	
+20	qu'	que	CS	CS		
+21	un	un	DET	DET	n=s|g=m	
+22	grand	grand	ADJ	ADJ	n=s|g=m	
+23	confident	confident	NC	NC	n=s|g=m	
+24	pour	pour	P	P		
+25	elle	elle	PRO	PRO	n=s|g=f|p=3	
+26	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	France	France	NPP	NPP	n=s|g=f,m	
+3	,	,	PONCT	PONCT		
+4	il	il	CLS	CLS	n=s|g=m|p=3	
+5	lui	lui	CLO	CLO	n=s|p=3	
+6	sert	servir	V	V	n=s|t=P|p=3	
+7	d'	de	P	P		
+8	intermédiaire	intermédiaire	NC	NC	n=s	
+9	dans	dans	P	P		
+10	ses	ses	DET	DET	n=p|p=3|poss=s	
+11	achats	achat	NC	NC	n=p|g=m	
+12	d'	de	P	P		
+13	œuvres	_	NC	NC		
+14	d'	de	P	P		
+15	art	art	NC	NC	n=s|g=m	
+16	,	,	PONCT	PONCT		
+17	de	de	P	P		
+18	livres	livre	NC	NC	n=p	
+19	,	,	PONCT	PONCT		
+20	mais	mais	CC	CC		
+21	aussi	aussi	ADV	ADV		
+22	de	de	P	P		
+23	moyens	moyen	NC	NC	n=p|g=m	
+24	de	de	P	P		
+25	propagande	propagande	NC	NC	n=s|g=f	
+26	en	en	P	P		
+27	France	France	NPP	NPP	n=s|g=f,m	
+28	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	fut	être	V	V	n=s|t=J|p=3	
+3	un	un	DET	DET	n=s|g=m	
+4	fervent	fervent	ADJ	ADJ	n=s|g=m	
+5	défenseur	défenseur	NC	NC	n=s|g=m	
+6	de	de	P	P		
+7	la	la	DET	DET	n=s|g=f	
+8	Russie	Russie	NPP	NPP	n=s|g=f	
+9	en	en	P	P		
+10	France	France	NPP	NPP	n=s|g=f,m	
+11	et	et	CC	CC		
+12	était	être	V	V	n=s|t=I|p=3	
+13	entretenu	entretenir	VPP	VPP	n=s|g=m|t=K	
+14	par	par	P	P		
+15	Catherine	Catherine	NPP	NPP	n=s|g=f	
+16	.	.	PONCT	PONCT		
+
+1	Quant	_	NPP	NPP		
+2	à	à	P	P		
+3	Diderot	_	NPP	NPP		
+4	,	,	PONCT	PONCT		
+5	elle	elle	CLS	CLS	n=s|g=f|p=3	
+6	lui	lui	CLO	CLO	n=s|p=3	
+7	rachète	racheter	V	V	n=s|t=P,S|p=1,3	
+8	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+9	bibliothèque	bibliothèque	NC	NC	n=s|g=f	
+10	en	en	P	P		
+11	1765	1765	NC	NC		
+12	,	,	PONCT	PONCT		
+13	la	la	DET	DET	n=s|g=f	
+14	laissant	laisser	VPR	VPR	t=G	
+15	à	à	P	P		
+16	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+17	disposition	disposition	NC	NC	n=s|g=f	
+18	à	à	P	P		
+19	vie	vie	NC	NC	n=s|g=f	
+20	,	,	PONCT	PONCT		
+21	et	et	CC	CC		
+22	lui	lui	CLO	CLO	n=s|p=3	
+23	versa	verser	V	V	n=s|t=J|p=3	
+24	une	une	DET	DET	n=s|g=f	
+25	pension	pension	NC	NC	n=s|g=f	
+26	substantielle	substantiel	ADJ	ADJ	n=s|g=f	
+27	en	en	P	P		
+28	tant	tant	ADV	ADV		
+29	que	que	CS	CS		
+30	bibliothécaire	bibliothécaire	ADJ	ADJ	n=s	
+31	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	voyagea	voyager	V	V	n=s|t=J|p=3	
+3	auprès	auprès	ADV	ADV		
+4	de	de	P	P		
+5	Catherine	Catherine	NPP	NPP	n=s|g=f	
+6	II	_	NPP	NPP		
+7	pendant	pendant	P	P		
+8	5	5	ADJ	ADJ		
+9	mois	mois	NC	NC	g=m	
+10	en	en	P	P		
+11	1773	1773	NC	NC		
+12	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	venait	venir	V	V	n=s|t=I|p=3	
+3	tous	tout	ADJ	ADJ	n=p|g=m	
+4	les	les	DET	DET	n=p	
+5	3	3	ADJ	ADJ		
+6	jours	jour	NC	NC	n=p|g=m	
+7	s'	se	CLR	CLR	n=p,s|p=3	
+8	entretenir	entretenir	VINF	VINF	t=W	
+9	avec	avec	P	P		
+10	elle	elle	PRO	PRO	n=s|g=f|p=3	
+11	pendant	pendant	P	P		
+12	de	de	DET	DET	n=p	
+13	longues	long	ADJ	ADJ	n=p|g=f	
+14	heures	heure	NC	NC	n=p|g=f	
+15	.	.	PONCT	PONCT		
+
+1	Bien	bien	ADV	ADV		
+2	que	que	CS	CS		
+3	ses	ses	DET	DET	n=p|p=3|poss=s	
+4	idées	idée	NC	NC	n=p|g=f	
+5	ne	ne	ADV	ADV		
+6	fussent	être	VS	VS	n=p|t=T|p=3	
+7	pas	pas	ADV	ADV		
+8	applicables	applicable	ADJ	ADJ	n=p	
+9	en	en	P	P		
+10	Russie	Russie	NPP	NPP	n=s|g=f	
+11	,	,	PONCT	PONCT		
+12	elle	elle	CLS	CLS	n=s|g=f|p=3	
+13	le	le	CLO	CLO	n=s|g=m|p=3	
+14	questionnait	questionner	V	V	n=s|t=I|p=3	
+15	longuement	_	ADV	ADV		
+16	sur	sur	P	P		
+17	ses	ses	DET	DET	n=p|p=3|poss=s	
+18	conceptions	conception	NC	NC	n=p|g=f	
+19	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	écrivit	écrire	V	V	n=s|t=J|p=3	
+3	à	à	P	P		
+4	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+5	intention	intention	NC	NC	n=s|g=f	
+6	des	de	P+D	P+D	n=p	
+7	textes	texte	NC	NC	n=p|g=m	
+8	où	où	PROREL	PROREL		
+9	il	il	CLS	CLS	n=s|g=m|p=3	
+10	répondait	répondre	V	V	n=s|t=I|p=3	
+11	aux	à	P+D	P+D	n=p	
+12	interrogations	interrogation	NC	NC	n=p|g=f	
+13	de	de	P	P		
+14	l'	le	DET	DET	n=s	
+15	impératrice	empereur	NC	NC	n=s|g=f	
+16	.	.	PONCT	PONCT		
+
+1	À	à	P	P		
+2	la	la	DET	DET	n=s|g=f	
+3	fin	fin	NC	NC	n=s	
+4	de	de	P	P		
+5	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+6	vie	vie	NC	NC	n=s|g=f	
+7	,	,	PONCT	PONCT		
+8	après	après	P	P		
+9	avoir	avoir	VINF	VINF	t=W	
+10	émis	émettre	VPP	VPP	g=m|t=K	
+11	des	des	DET	DET	n=p	
+12	critiques	critique	NC	NC	n=p	
+13	sur	sur	P	P		
+14	la	la	DET	DET	n=s|g=f	
+15	Russie	Russie	NPP	NPP	n=s|g=f	
+16	,	,	PONCT	PONCT		
+17	ses	ses	DET	DET	n=p|p=3|poss=s	
+18	relations	relation	NC	NC	n=p|g=f	
+19	furent	être	V	V	n=p|t=J|p=3	
+20	moins	moins	ADV	ADV		
+21	chaleureuses	chaleureux	ADJ	ADJ	n=p|g=f	
+22	mais	mais	CC	CC		
+23	continuèrent	continuer	V	V	n=p|t=J|p=3	
+24	toutefois	toutefois	ADV	ADV		
+25	[	[	PONCT	PONCT		
+26	12	12	ADJ	ADJ		
+27	]	]	PONCT	PONCT		
+28	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	acheta	acheter	V	V	n=s|t=J|p=3	
+3	aussi	aussi	ADV	ADV		
+4	la	la	DET	DET	n=s|g=f	
+5	bibliothèque	bibliothèque	NC	NC	n=s|g=f	
+6	de	de	P	P		
+7	Voltaire	voltaire	NC	NC	n=s|g=m	
+8	en	en	P	P		
+9	1778	1778	NC	NC		
+10	.	.	PONCT	PONCT		
+
+1	Par	par	P	P		
+2	l'	le	DET	DET	n=s	
+3	entremise	entremise	NC	NC	n=s|g=f	
+4	de	de	P	P		
+5	l'	le	DET	DET	n=s	
+6	ambassadeur	ambassadeur	NC	NC	n=s|g=m	
+7	de	de	P	P		
+8	France	France	NPP	NPP	n=s|g=f,m	
+9	,	,	PONCT	PONCT		
+10	le	le	DET	DET	n=s|g=m	
+11	comte	comte	NC	NC	n=s|g=m	
+12	de	de	P	P		
+13	Ségur	Ségur	NPP	NPP	n=s|g=m	
+14	,	,	PONCT	PONCT		
+15	elle	elle	CLS	CLS	n=s|g=f|p=3	
+16	fit	faire	V	V	n=s|t=J|p=3	
+17	venir	venir	VINF	VINF	t=W	
+18	de	de	P	P		
+19	Paris	Paris	NPP	NPP	n=s|g=m	
+20	de	de	DET	DET	n=p	
+21	nombreuses	nombreux	ADJ	ADJ	n=p|g=f	
+22	troupes	troupe	NC	NC	n=p|g=f	
+23	de	de	P	P		
+24	théâtre	théâtre	NC	NC	n=s|g=m	
+25	et	et	CC	CC		
+26	d'	de	P	P		
+27	opéra	opéra	NC	NC	n=s|g=m	
+28	,	,	PONCT	PONCT		
+29	dont	dont	PROREL	PROREL		
+30	celle	celle	PRO	PRO	n=s|g=f	
+31	de	de	P	P		
+32	Floridor	_	NPP	NPP		
+33	,	,	PONCT	PONCT		
+34	qu'	que	PROREL	PROREL		
+35	elle	elle	CLS	CLS	n=s|g=f|p=3	
+36	faisait	faire	V	V	n=s|t=I|p=3	
+37	jouer	jouer	VINF	VINF	t=W	
+38	notamment	_	ADV	ADV		
+39	dans	dans	P	P		
+40	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+41	théâtre	théâtre	NC	NC	n=s|g=m	
+42	de	de	P	P		
+43	l'	le	DET	DET	n=s	
+44	Ermitage	ermitage	NC	NC	n=s|g=m	
+45	.	.	PONCT	PONCT		
+
+1	Quand	quand	CS	CS		
+2	Alexandre	Alexandre	NPP	NPP	n=s|g=m	
+3	Radichtchev	_	NPP	NPP		
+4	publia	publier	V	V	n=s|t=J|p=3	
+5	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+6	Voyage	voyage	NC	NC	n=s|g=m	
+7	de	de	P	P		
+8	Pétersbourg	_	NPP	NPP		
+9	à	à	P	P		
+10	Moscou	Moscou	NPP	NPP	n=s|g=m	
+11	en	en	P	P		
+12	1790	1790	NC	NC		
+13	,	,	PONCT	PONCT		
+14	présentant	présenter	VPR	VPR	t=G	
+15	les	les	DET	DET	n=p	
+16	conditions	condition	NC	NC	n=p|g=f	
+17	de	de	P	P		
+18	vie	vie	NC	NC	n=s|g=f	
+19	déplorable	déplorable	ADJ	ADJ	n=s	
+20	des	de	P+D	P+D	n=p	
+21	serfs	serf	NC	NC	n=p|g=m	
+22	,	,	PONCT	PONCT		
+23	ce	ce	CLS	CLS		
+24	fut	être	V	V	n=s|t=J|p=3	
+25	elle	elle	PRO	PRO	n=s|g=f|p=3	
+26	qui	qui	PROREL	PROREL	n=s	
+27	en	en	CLO	CLO		
+28	découvrit	découvrir	V	V	n=s|t=J|p=3	
+29	le	le	DET	DET	n=s|g=m	
+30	caractère	caractère	NC	NC	n=s|g=m	
+31	"	"	PONCT	PONCT		
+32	révolutionnaire	révolutionnaire	ADJ	ADJ	n=s	
+33	"	"	PONCT	PONCT		
+34	,	,	PONCT	PONCT		
+35	dénonça	dénoncer	V	V	n=s|t=J|p=3	
+36	et	et	CC	CC		
+37	poursuivit	poursuivre	V	V	n=s|t=J|p=3	
+38	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+39	auteur	auteur	NC	NC	n=s|g=m	
+40	.	.	PONCT	PONCT		
+
+1	Radichtchev	_	NPP	NPP		
+2	fut	être	V	V	n=s|t=J|p=3	
+3	condamné	condamner	VPP	VPP	n=s|g=m|t=K	
+4	à	à	P	P		
+5	mort	mort	NC	NC	n=s|g=f,m	
+6	,	,	PONCT	PONCT		
+7	puis	puis	CC	CC		
+8	une	une	DET	DET	n=s|g=f	
+9	fois	fois	NC	NC	g=f	
+10	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+11	peine	peine	NC	NC	n=s|g=f	
+12	commuée	commuer	VPP	VPP	n=s|g=f|t=K	
+13	,	,	PONCT	PONCT		
+14	exilé	exiler	VPP	VPP	n=s|g=m|t=K	
+15	en	en	P	P		
+16	Sibérie	Sibérie	NPP	NPP	n=s|g=f	
+17	.	.	PONCT	PONCT		
+
+1	C'	ce	CLS	CLS		
+2	est	être	V	V	n=s|t=P|p=3	
+3	qu'	que	CS	CS		
+4	entre	entre	P	P		
+5	-	-	PONCT	PONCT		
+6	temps	temps	NC	NC	g=m	
+7	la	la	DET	DET	n=s|g=f	
+8	Révolution	révolution	NC	NC	n=s|g=f	
+9	française	français	ADJ	ADJ	n=s|g=f	
+10	avait	avoir	V	V	n=s|t=I|p=3	
+11	éclaté	éclater	VPP	VPP	n=s|g=m|t=K	
+12	et	et	CC	CC		
+13	qu'	que	CS	CS		
+14	il	il	CLS	CLS	n=s|g=m|p=3	
+15	n'	ne	ADV	ADV		
+16	était	être	V	V	n=s|t=I|p=3	
+17	plus	plus	ADV	ADV		
+18	question	question	NC	NC	n=s|g=f	
+19	pour	pour	P	P		
+20	l'	le	DET	DET	n=s	
+21	impératrice	empereur	NC	NC	n=s|g=f	
+22	de	de	P	P		
+23	laisser	laisser	VINF	VINF	t=W	
+24	les	les	DET	DET	n=p	
+25	pernicieuses	pernicieux	ADJ	ADJ	n=p|g=f	
+26	idées	idée	NC	NC	n=p|g=f	
+27	françaises	français	ADJ	ADJ	n=p|g=f	
+28	envahir	envahir	VINF	VINF	t=W	
+29	la	la	DET	DET	n=s|g=f	
+30	Russie	Russie	NPP	NPP	n=s|g=f	
+31	.	.	PONCT	PONCT		
+
+1	Tous	tout	ADJ	ADJ	n=p|g=m	
+2	les	les	DET	DET	n=p	
+3	empereurs	empereur	NC	NC	n=p|g=m	
+4	russes	russe	ADJ	ADJ	n=p	
+5	seront	être	V	V	n=p|t=F|p=3	
+6	désormais	désormais	ADV	ADV		
+7	confrontés	confronter	VPP	VPP	n=p|g=m|t=K	
+8	à	à	P	P		
+9	ce	ce	DET	DET	n=s|g=m	
+10	dilemme	dilemme	NC	NC	n=s|g=m	
+11	:	:	PONCT	PONCT		
+12	ouvrir	ouvrir	VINF	VINF	t=W	
+13	la	la	DET	DET	n=s|g=f	
+14	Russie	Russie	NPP	NPP	n=s|g=f	
+15	à	à	P	P		
+16	l'	le	DET	DET	n=s	
+17	Occident	occident	NC	NC	n=s|g=m	
+18	sans	sans	P	P		
+19	perdre	perdre	VINF	VINF	t=W	
+20	la	la	DET	DET	n=s|g=f	
+21	"	"	PONCT	PONCT		
+22	russité	_	NC	NC		
+23	"	"	PONCT	PONCT		
+24	et	et	CC	CC		
+25	introduire	introduire	VINF	VINF	t=W	
+26	des	des	DET	DET	n=p	
+27	idées	idée	NC	NC	n=p|g=f	
+28	subversives	subversif	ADJ	ADJ	n=p|g=f	
+29	qui	qui	PROREL	PROREL	n=s	
+30	menaceraient	menacer	V	V	n=p|t=C|p=3	
+31	l'	le	DET	DET	n=s	
+32	autocratie	autocratie	NC	NC	n=s|g=f	
+33	russe	russe	ADJ	ADJ	n=s	
+34	[	[	PONCT	PONCT		
+35	11	11	NC	NC		
+36	]	]	PONCT	PONCT		
+37	.	.	PONCT	PONCT		
+
+1	Catherine	Catherine	NPP	NPP	n=s|g=f	
+2	fut	être	V	V	n=s|t=J|p=3	
+3	aussi	aussi	ADV	ADV		
+4	écrivain	écrivain	NC	NC	n=s|g=m	
+5	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	composa	composer	V	V	n=s|t=J|p=3	
+3	tout	tout	PRO	PRO	n=s|g=m	
+4	d'	de	P	P		
+5	abord	abord	NC	NC	n=s|g=m	
+6	le	le	DET	DET	n=s|g=m	
+7	Nakaz	_	NPP	NPP		
+8	ou	ou	CC	CC		
+9	Grande	_	NPP	NPP		
+10	Instruction	_	NPP	NPP		
+11	[	[	PONCT	PONCT		
+12	13	13	ADJ	ADJ		
+13	]	]	PONCT	PONCT		
+14	,	,	PONCT	PONCT		
+15	qui	qui	PROREL	PROREL	n=s	
+16	présente	présenter	V	V	n=s|t=P,S|p=1,3	
+17	ses	ses	DET	DET	n=p|p=3|poss=s	
+18	vues	vue	NC	NC	n=p|g=f	
+19	sur	sur	P	P		
+20	la	la	DET	DET	n=s|g=f	
+21	politique	politique	NC	NC	n=s|g=f	
+22	de	de	P	P		
+23	la	la	DET	DET	n=s|g=f	
+24	Russie	Russie	NPP	NPP	n=s|g=f	
+25	,	,	PONCT	PONCT		
+26	puis	puis	CC	CC		
+27	l'	le	DET	DET	n=s	
+28	Antidote	_	NPP	NPP		
+29	,	,	PONCT	PONCT		
+30	œuvre	_	NPP	NPP		
+31	où	où	PROREL	PROREL		
+32	elle	elle	CLS	CLS	n=s|g=f|p=3	
+33	répond	répondre	V	V	n=s|t=P|p=3	
+34	,	,	PONCT	PONCT		
+35	en	en	P	P		
+36	quelque	quelque	DET	DET	n=s	
+37	sorte	sorte	NC	NC	n=s|g=f	
+38	,	,	PONCT	PONCT		
+39	au	à	P+D	P+D	n=s|g=m	
+40	Voyage	voyage	NC	NC	n=s|g=m	
+41	en	en	P	P		
+42	Sibérie	Sibérie	NPP	NPP	n=s|g=f	
+43	,	,	PONCT	PONCT		
+44	critique	critique	NC	NC	n=s	
+45	virulente	virulent	ADJ	ADJ	n=s|g=f	
+46	de	de	P	P		
+47	la	la	DET	DET	n=s|g=f	
+48	Russie	Russie	NPP	NPP	n=s|g=f	
+49	écrite	écrire	VPP	VPP	n=s|g=f|t=K	
+50	en	en	P	P		
+51	1768	1768	NC	NC		
+52	par	par	P	P		
+53	l'	le	DET	DET	n=s	
+54	abbé	abbé	NC	NC	n=s|g=m	
+55	Chappe	_	NPP	NPP		
+56	d'	de	P	P		
+57	Auteroche	_	NPP	NPP		
+58	.	.	PONCT	PONCT		
+
+1	Vinrent	venir	V	V	n=p|t=J|p=3	
+2	ensuite	ensuite	ADV	ADV		
+3	ses	ses	DET	DET	n=p|p=3|poss=s	
+4	Mémoires	_	NPP	NPP		
+5	,	,	PONCT	PONCT		
+6	une	une	DET	DET	n=s|g=f	
+7	suite	suite	NC	NC	n=s|g=f	
+8	de	de	P	P		
+9	notes	note	NC	NC	n=p|g=f	
+10	et	et	CC	CC		
+11	de	de	P	P		
+12	justifications	justification	NC	NC	n=p|g=f	
+13	sur	sur	P	P		
+14	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+15	politique	politique	NC	NC	n=s|g=f	
+16	et	et	CC	CC		
+17	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+18	vie	vie	NC	NC	n=s|g=f	
+19	en	en	P	P		
+20	général	général	NC	NC	n=s|g=m	
+21	,	,	PONCT	PONCT		
+22	une	un	PRO	PRO	n=s|g=f	
+23	des	de	P+D	P+D	n=p	
+24	sources	source	NC	NC	n=p|g=f	
+25	principales	principal	ADJ	ADJ	n=p|g=f	
+26	de	de	P	P		
+27	la	la	DET	DET	n=s|g=f	
+28	connaissance	connaissance	NC	NC	n=s|g=f	
+29	de	de	P	P		
+30	Catherine	Catherine	NPP	NPP	n=s|g=f	
+31	.	.	PONCT	PONCT		
+
+1	Catherine	Catherine	NPP	NPP	n=s|g=f	
+2	II	_	NPP	NPP		
+3	fut	être	V	V	n=s|t=J|p=3	
+4	donc	donc	ADV	ADV		
+5	l'	le	DET	DET	n=s	
+6	archétype	archétype	NC	NC	n=s|g=m	
+7	du	de	P+D	P+D	n=s|g=m	
+8	despote	despote	NC	NC	n=s	
+9	éclairé	éclairer	VPP	VPP	n=s|g=m|t=K	
+10	.	.	PONCT	PONCT		
+
+1	C'	ce	CLS	CLS		
+2	était	être	V	V	n=s|t=I|p=3	
+3	une	une	DET	DET	n=s|g=f	
+4	femme	femme	NC	NC	n=s|g=f	
+5	de	de	P	P		
+6	lettres	lettre	NC	NC	n=p|g=f	
+7	,	,	PONCT	PONCT		
+8	passionnée	passionner	VPP	VPP	n=s|g=f|t=K	
+9	d'	de	P	P		
+10	histoire	histoire	NC	NC	n=s|g=f	
+11	et	et	CC	CC		
+12	de	de	P	P		
+13	philosophie	philosophie	NC	NC	n=s|g=f	
+14	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	sujet	sujet	NC	NC	n=s|g=m	
+3	qu'	que	PROREL	PROREL		
+4	elle	elle	CLS	CLS	n=s|g=f|p=3	
+5	aborda	aborder	V	V	n=s|t=J|p=3	
+6	le	le	DET	DET	n=s|g=m	
+7	plus	plus	ADV	ADV		
+8	,	,	PONCT	PONCT		
+9	durant	durant	P	P		
+10	ses	ses	DET	DET	n=p|p=3|poss=s	
+11	longs	long	ADJ	ADJ	n=p|g=m	
+12	entretiens	entretien	NC	NC	n=p|g=m	
+13	avec	avec	P	P		
+14	les	les	DET	DET	n=p	
+15	philosophes	philosophe	NC	NC	n=p	
+16	français	français	ADJ	ADJ	g=m	
+17	,	,	PONCT	PONCT		
+18	fut	être	V	V	n=s|t=J|p=3	
+19	celui	celui	PRO	PRO	n=s|g=m	
+20	de	de	P	P		
+21	l'	le	DET	DET	n=s	
+22	éducation	éducation	NC	NC	n=s|g=f	
+23	,	,	PONCT	PONCT		
+24	problème	problème	NC	NC	n=s|g=m	
+25	majeur	majeur	ADJ	ADJ	n=s|g=m	
+26	de	de	P	P		
+27	la	la	DET	DET	n=s|g=f	
+28	Russie	Russie	NPP	NPP	n=s|g=f	
+29	,	,	PONCT	PONCT		
+30	cause	cause	NC	NC	n=s|g=f	
+31	de	de	P	P		
+32	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+33	non	non	ADV	ADV		
+34	-	-	PONCT	PONCT		
+35	intégration	intégration	NC	NC	n=s|g=f	
+36	première	premier	ADJ	ADJ	n=s|g=f	
+37	à	à	P	P		
+38	l'	le	DET	DET	n=s	
+39	Europe	Europe	NPP	NPP	n=s|g=f	
+40	.	.	PONCT	PONCT		
+
+1	C'	ce	CLS	CLS		
+2	est	être	V	V	n=s|t=P|p=3	
+3	donc	donc	ADV	ADV		
+4	poussée	pousser	VPP	VPP	n=s|g=f|t=K	
+5	par	par	P	P		
+6	les	les	DET	DET	n=p	
+7	idées	idée	NC	NC	n=p|g=f	
+8	des	de	P+D	P+D	n=p	
+9	Lumières	lumière	NC	NC	n=p|g=f	
+10	qu'	que	PROREL	PROREL		
+11	elle	elle	CLS	CLS	n=s|g=f|p=3	
+12	réforma	réformer	V	V	n=s|t=J|p=3	
+13	l'	le	DET	DET	n=s	
+14	éducation	éducation	NC	NC	n=s|g=f	
+15	.	.	PONCT	PONCT		
+
+1	Pendant	pendant	P	P		
+2	ses	ses	DET	DET	n=p|p=3|poss=s	
+3	trente-quatre	trente-quatre	ADJ	ADJ		
+4	années	année	NC	NC	n=p|g=f	
+5	de	de	P	P		
+6	règne	règne	NC	NC	n=s|g=m	
+7	,	,	PONCT	PONCT		
+8	une	une	DET	DET	n=s|g=f	
+9	formidable	formidable	ADJ	ADJ	n=s	
+10	politique	politique	NC	NC	n=s|g=f	
+11	d'	de	P	P		
+12	acquisition	acquisition	NC	NC	n=s|g=f	
+13	lui	lui	CLO	CLO	n=s|p=3	
+14	a	avoir	V	V	n=s|t=P|p=3	
+15	permis	permettre	VPP	VPP	g=m|t=K	
+16	de	de	P	P		
+17	rassembler	rassembler	VINF	VINF	t=W	
+18	près	près	ADV	ADV		
+19	de	de	P	P		
+20	quatre_mille	quatre_mille	ADJ	ADJ		
+21	tableaux	tableau	NC	NC	n=p|g=m	
+22	qui	qui	PROREL	PROREL	n=s	
+23	forment	former	V	V	n=p|t=P,S|p=3	
+24	au	à	P+D	P+D	n=s|g=m	
+25	musée	musée	NC	NC	n=s|g=m	
+26	de	de	P	P		
+27	l'	le	DET	DET	n=s	
+28	Ermitage	_	NPP	NPP		
+29	,	,	PONCT	PONCT		
+30	une	un	PRO	PRO	n=s|g=f	
+31	des	de	P+D	P+D	n=p	
+32	galeries	galerie	NC	NC	n=p|g=f	
+33	de	de	P	P		
+34	peintures	peinture	NC	NC	n=p|g=f	
+35	la	la	DET	DET	n=s|g=f	
+36	plus	plus	ADV	ADV		
+37	admirée	admirer	VPP	VPP	n=s|g=f|t=K	
+38	d'	de	P	P		
+39	Europe	Europe	NPP	NPP	n=s|g=f	
+40	.	.	PONCT	PONCT		
+
+1	Par	par	P	P		
+2	l'	le	DET	DET	n=s	
+3	intermédiaire	intermédiaire	NC	NC	n=s	
+4	de	de	P	P		
+5	ses	ses	DET	DET	n=p|p=3|poss=s	
+6	ambassadeurs	ambassadeur	NC	NC	n=p|g=m	
+7	les	les	DET	DET	n=p	
+8	plus	plus	ADV	ADV		
+9	zélés	zélé	ADJ	ADJ	n=p|g=m	
+10	,	,	PONCT	PONCT		
+11	elle	elle	CLS	CLS	n=s|g=f|p=3	
+12	a	avoir	V	V	n=s|t=P|p=3	
+13	pu	pouvoir	VPP	VPP	t=K	
+14	acquérir	acquérir	VINF	VINF	t=W	
+15	quelques	quelques	DET	DET	n=p	
+16	-	-	PONCT	PONCT		
+17	unes	une	NC	NC	n=p|g=f	
+18	des	de	P+D	P+D	n=p	
+19	plus	plus	ADV	ADV		
+20	prestigieuses	prestigieux	ADJ	ADJ	n=p|g=f	
+21	collections	collection	NC	NC	n=p|g=f	
+22	européennes	européen	ADJ	ADJ	n=p|g=f	
+23	comme	comme	P	P		
+24	celle	celle	PRO	PRO	n=s|g=f	
+25	du	de	P+D	P+D	n=s|g=m	
+26	comte	comte	NC	NC	n=s|g=m	
+27	de	de	P	P		
+28	Brühl	_	NPP	NPP		
+29	et	et	CC	CC		
+30	de	de	P	P		
+31	Sir	sir	NC	NC	n=s|g=m	
+32	Robert	Robert	NPP	NPP	n=s|g=m	
+33	Walpole	_	NPP	NPP		
+34	.	.	PONCT	PONCT		
+
+1	Voltaire	voltaire	NC	NC	n=s|g=m	
+2	et	et	CC	CC		
+3	surtout	surtout	ADV	ADV		
+4	Diderot	_	NPP	NPP		
+5	(	(	PONCT	PONCT		
+6	aidé	aider	VPP	VPP	n=s|g=m|t=K	
+7	par	par	P	P		
+8	le	le	DET	DET	n=s|g=m	
+9	Genevois	_	NPP	NPP		
+10	François	François	NPP	NPP	n=s|g=m	
+11	Tronchin	_	NPP	NPP		
+12	)	)	PONCT	PONCT		
+13	favorisèrent	favoriser	V	V	n=p|t=J|p=3	
+14	quant	_	ADV	ADV		
+15	à	à	P	P		
+16	eux	eux	PRO	PRO	n=p|g=m|p=3	
+17	,	,	PONCT	PONCT		
+18	l'	le	DET	DET	n=s	
+19	acquisition	acquisition	NC	NC	n=s|g=f	
+20	des	de	P+D	P+D	n=p	
+21	collections	collection	NC	NC	n=p|g=f	
+22	de	de	P	P		
+23	Pierre	Pierre	NPP	NPP	n=s|g=m	
+24	Crozat	_	NPP	NPP		
+25	et	et	CC	CC		
+26	de	de	P	P		
+27	Choiseul	Choiseul	NPP	NPP	n=s|g=m	
+28	en	en	P	P		
+29	1772	1772	NC	NC		
+30	[	[	PONCT	PONCT		
+31	14	14	ADJ	ADJ		
+32	]	]	PONCT	PONCT		
+33	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	possédait	posséder	V	V	n=s|t=I|p=3	
+3	cinq	cinq	DET	DET	s=card|n=p	
+4	tableaux	tableau	NC	NC	n=p|g=m	
+5	de	de	P	P		
+6	Jean	Jean	NPP	NPP	n=s	
+7	Siméon	_	NPP	NPP		
+8	Chardin	_	NPP	NPP		
+9	.	.	PONCT	PONCT		
+
+1	Pour	pour	P	P		
+2	introduire	introduire	VINF	VINF	t=W	
+3	la	la	DET	DET	n=s|g=f	
+4	variolisation	variolisation	NC	NC	n=s|g=f	
+5	,	,	PONCT	PONCT		
+6	elle	elle	CLS	CLS	n=s|g=f|p=3	
+7	montra	montrer	V	V	n=s|t=J|p=3	
+8	l'	le	DET	DET	n=s	
+9	exemple	exemple	NC	NC	n=s|g=m	
+10	en	en	P	P		
+11	se	se	CLR	CLR	n=p,s|p=3	
+12	faisant	faire	VPR	VPR	t=G	
+13	inoculer	inoculer	VINF	VINF	t=W	
+14	la	la	DET	DET	n=s|g=f	
+15	première	premier	ADJ	ADJ	n=s|g=f	
+16	[	[	PONCT	PONCT		
+17	15	15	ADJ	ADJ		
+18	]	]	PONCT	PONCT		
+19	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	avait	avoir	V	V	n=s|t=I|p=3	
+3	un	un	DET	DET	n=s|g=m	
+4	fils	fils	NC	NC	g=m	
+5	,	,	PONCT	PONCT		
+6	Paul	Paul	NPP	NPP	n=s|g=m	
+7	,	,	PONCT	PONCT		
+8	qu'	que	PROREL	PROREL		
+9	elle	elle	CLS	CLS	n=s|g=f|p=3	
+10	aimait	aimer	V	V	n=s|t=I|p=3	
+11	peu	peu	ADV	ADV		
+12	,	,	PONCT	PONCT		
+13	lui	lui	CLO	CLO	n=s|p=3	
+14	préférant	préférer	VPR	VPR	t=G	
+15	ses	ses	DET	DET	n=p|p=3|poss=s	
+16	petits	petit	ADJ	ADJ	n=p|g=m	
+17	-	-	PONCT	PONCT		
+18	fils	fils	NC	NC	g=m	
+19	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	lui	lui	CLO	CLO	n=s|p=3	
+3	succéda	succéder	V	V	n=s|t=J|p=3	
+4	sous	sous	P	P		
+5	le	le	DET	DET	n=s|g=m	
+6	nom	nom	NC	NC	n=s|g=m	
+7	de	de	P	P		
+8	Paul	Paul	NPP	NPP	n=s|g=m	
+9	Ier	_	NPP	NPP		
+10	de	de	P	P		
+11	Russie	Russie	NPP	NPP	n=s|g=f	
+12	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	relations	relation	NC	NC	n=p|g=f	
+3	de	de	P	P		
+4	Catherine	Catherine	NPP	NPP	n=s|g=f	
+5	avec	avec	P	P		
+6	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+7	fils	fils	NC	NC	g=m	
+8	furent	être	V	V	n=p|t=J|p=3	
+9	toujours	toujours	ADV	ADV		
+10	froides	froid	ADJ	ADJ	n=p|g=f	
+11	et	et	CC	CC		
+12	emplies	emplir	VPP	VPP	n=p|g=f|t=K	
+13	de	de	P	P		
+14	méfiance	méfiance	NC	NC	n=s|g=f	
+15	.	.	PONCT	PONCT		
+
+1	Ne	ne	ADV	ADV		
+2	l'	le	CLO	CLO	n=s|p=3	
+3	ayant	avoir	VPR	VPR	t=G	
+4	pas	pas	ADV	ADV		
+5	élevé	élever	ADJ	ADJ	n=s|g=m|t=K	
+6	,	,	PONCT	PONCT		
+7	elle	elle	CLS	CLS	n=s|g=f|p=3	
+8	n'	ne	ADV	ADV		
+9	a	avoir	V	V	n=s|t=P|p=3	
+10	guère	guère	ADV	ADV		
+11	d'	de	P	P		
+12	affection	affection	NC	NC	n=s|g=f	
+13	pour	pour	P	P		
+14	cet	cet	DET	DET	n=s|g=m	
+15	enfant	enfant	NC	NC	n=s	
+16	qui	qui	PROREL	PROREL	n=s	
+17	se	se	CLR	CLR	n=p,s|p=3	
+18	réclame	réclamer	V	V	n=s|t=P,S|p=1,3	
+19	de	de	P	P		
+20	Pierre	Pierre	NPP	NPP	n=s|g=m	
+21	III	_	NPP	NPP		
+22	.	.	PONCT	PONCT		
+
+1	Tout	tout	PRO	PRO	n=s|g=m	
+2	d'	de	P	P		
+3	abord	abord	NC	NC	n=s|g=m	
+4	,	,	PONCT	PONCT		
+5	Paul	Paul	NPP	NPP	n=s|g=m	
+6	considère	considérer	V	V	n=s|t=P,S|p=1,3	
+7	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+8	mère	mère	NC	NC	n=s|g=f	
+9	comme	comme	P	P		
+10	la	la	DET	DET	n=s|g=f	
+11	grande	grand	ADJ	ADJ	n=s|g=f	
+12	responsable	responsable	ADJ	ADJ	n=s	
+13	de	de	P	P		
+14	la	la	DET	DET	n=s|g=f	
+15	mort	mort	NC	NC	n=s|g=f,m	
+16	de	de	P	P		
+17	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+18	père	père	NC	NC	n=s|g=m	
+19	Pierre	Pierre	NPP	NPP	n=s|g=m	
+20	,	,	PONCT	PONCT		
+21	auquel	auquel	P+PRO	P+PRO	n=s|g=m	
+22	il	il	CLS	CLS	n=s|g=m|p=3	
+23	voue	vouer	V	V	n=s|t=P,S|p=1,3	
+24	un	un	DET	DET	n=s|g=m	
+25	véritable	véritable	ADJ	ADJ	n=s	
+26	culte	culte	NC	NC	n=s|g=m	
+27	.	.	PONCT	PONCT		
+
+1	Puis	puis	CC	CC		
+2	,	,	PONCT	PONCT		
+3	il	il	CLS	CLS	n=s|g=m|p=3	
+4	y	y	CLO	CLO		
+5	a	avoir	V	V	n=s|t=P|p=3	
+6	l'	le	DET	DET	n=s	
+7	enjeu	enjeu	NC	NC	n=s|g=m	
+8	de	de	P	P		
+9	la	la	DET	DET	n=s|g=f	
+10	succession	succession	NC	NC	n=s|g=f	
+11	.	.	PONCT	PONCT		
+
+1	Catherine	Catherine	NPP	NPP	n=s|g=f	
+2	sait	savoir	V	V	n=s|t=P|p=3	
+3	que	que	CS	CS		
+4	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+5	fils	fils	NC	NC	g=m	
+6	pourrait	pouvoir	V	V	n=s|t=C|p=3	
+7	être	être	VINF	VINF	t=W	
+8	utilisé	utiliser	VPP	VPP	n=s|g=m|t=K	
+9	contre	contre	P	P		
+10	elle	elle	PRO	PRO	n=s|g=f|p=3	
+11	afin	_	ADV	ADV		
+12	de	de	P	P		
+13	la	la	CLO	CLO	n=s|g=f|p=3	
+14	renverser	renverser	VINF	VINF	t=W	
+15	.	.	PONCT	PONCT		
+
+1	Enfin	enfin	ADV	ADV		
+2	,	,	PONCT	PONCT		
+3	il	il	CLS	CLS	n=s|g=m|p=3	
+4	perçoit	percevoir	V	V	n=s|t=P|p=3	
+5	d'	de	P	P		
+6	un	un	DET	DET	n=s|g=m	
+7	mauvais	mauvais	ADJ	ADJ	g=m	
+8	œil	_	NPP	NPP		
+9	l'	le	DET	DET	n=s	
+10	attitude	attitude	NC	NC	n=s|g=f	
+11	de	de	P	P		
+12	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+13	mère	mère	NC	NC	n=s|g=f	
+14	envers	envers	P	P		
+15	ses	ses	DET	DET	n=p|p=3|poss=s	
+16	favoris	favori	NC	NC	n=p|g=m	
+17	et	et	CC	CC		
+18	les	les	DET	DET	n=p	
+19	largesses	largesse	NC	NC	n=p|g=f	
+20	qui	qui	PROREL	PROREL	n=s	
+21	leur	leur	CLO	CLO	n=p|p=3	
+22	sont	être	V	V	n=p|t=P|p=3	
+23	accordées	accorder	VPP	VPP	n=p|g=f|t=K	
+24	.	.	PONCT	PONCT		
+
+1	Catherine	Catherine	NPP	NPP	n=s|g=f	
+2	,	,	PONCT	PONCT		
+3	après	après	P	P		
+4	avoir	avoir	VINF	VINF	t=W	
+5	marié	marier	VPP	VPP	n=s|g=m|t=K	
+6	en	en	P	P		
+7	1776	1776	VINF	VINF		
+8	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+9	fils	fils	NC	NC	g=m	
+10	à	à	P	P		
+11	une	une	DET	DET	n=s|g=f	
+12	jeune	jeune	ADJ	ADJ	n=s	
+13	princesse	princesse	NC	NC	n=s	
+14	du	de	P+D	P+D	n=s|g=m	
+15	Wurtemberg	_	NPP	NPP		
+16	,	,	PONCT	PONCT		
+17	leur	leur	CLO	CLO	n=p|p=3	
+18	enleva	enlever	V	V	n=s|t=J|p=3	
+19	,	,	PONCT	PONCT		
+20	à	à	P	P		
+21	la	la	DET	DET	n=s|g=f	
+22	manière	manière	NC	NC	n=s|g=f	
+23	d'	de	P	P		
+24	Élisabeth	Élisabeth	NPP	NPP	n=s|g=f	
+25	,	,	PONCT	PONCT		
+26	leurs	leurs	DET	DET	n=p|p=3|poss=p	
+27	enfants	enfant	NC	NC	n=p	
+28	.	.	PONCT	PONCT		
+
+1	Cela	cela	PRO	PRO	n=s|g=m	
+2	provoqua	provoquer	V	V	n=s|t=J|p=3	
+3	une	une	DET	DET	n=s|g=f	
+4	profonde	profond	ADJ	ADJ	n=s|g=f	
+5	inimitié	inimitié	NC	NC	n=s|g=f	
+6	du	de	P+D	P+D	n=s|g=m	
+7	couple	couple	NC	NC	n=s	
+8	envers	envers	P	P		
+9	Catherine	Catherine	NPP	NPP	n=s|g=f	
+10	.	.	PONCT	PONCT		
+
+1	Catherine	Catherine	NPP	NPP	n=s|g=f	
+2	était	être	V	V	n=s|t=I|p=3	
+3	connue	connaître	VPP	VPP	n=s|g=f|t=K	
+4	pour	pour	P	P		
+5	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+6	appétit	appétit	NC	NC	n=s|g=m	
+7	sexuel	sexuel	ADJ	ADJ	n=s|g=m	
+8	et	et	CC	CC		
+9	ses	ses	DET	DET	n=p|p=3|poss=s	
+10	nombreux	nombreux	ADJ	ADJ	g=m	
+11	amants	amant	NC	NC	n=p|g=m	
+12	;	;	PONCT	PONCT		
+13	Gabriel	Gabriel	NPP	NPP	n=s|g=m	
+14	-	-	PONCT	PONCT		
+15	François	François	NPP	NPP	n=s|g=m	
+16	Doyen	_	NPP	NPP		
+17	qui	qui	PROREL	PROREL	n=s	
+18	plut	plaire	V	V	n=s|t=J|p=3	
+19	à	à	P	P		
+20	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+21	fils	fils	NC	NC	g=m	
+22	,	,	PONCT	PONCT		
+23	se	se	CLR	CLR	n=p,s|p=3	
+24	fit	faire	V	V	n=s|t=J|p=3	
+25	remettre	remettre	VINF	VINF	t=W	
+26	deux	deux	DET	DET	s=card|n=p	
+27	royaumes	royaume	NC	NC	n=p|g=m	
+28	et	et	CC	CC		
+29	octroyer	octroyer	VINF	VINF	t=W	
+30	un	un	DET	DET	n=s|g=m	
+31	blason	blason	NC	NC	n=s|g=m	
+32	,	,	PONCT	PONCT		
+33	"	"	PONCT	PONCT		
+34	d'	de	P	P		
+35	azur	azur	NC	NC	n=s|g=m	
+36	au	à	P+D	P+D	n=s|g=m	
+37	chef	chef	NC	NC	n=s	
+38	chargé	charger	VPP	VPP	n=s|g=m|t=K	
+39	de	de	P	P		
+40	deux	deux	DET	DET	s=card|n=p	
+41	pals	pal	NC	NC	n=p|g=m	
+42	"	"	PONCT	PONCT		
+43	,	,	PONCT	PONCT		
+44	auquel	auquel	P+PRO	P+PRO	n=s|g=m	
+45	Louis	Louis	NPP	NPP	n=s|g=m	
+46	XV	_	NPP	NPP		
+47	autorise	autoriser	V	V	n=s|t=P,S|p=1,3	
+48	l'	le	DET	DET	n=s	
+49	ajout	ajout	NC	NC	n=s|g=m	
+50	d'	de	P	P		
+51	une	une	DET	DET	n=s|g=f	
+52	fleur	fleur	NC	NC	n=s|g=f	
+53	de	de	P	P		
+54	lys	lys	NC	NC	g=m	
+55	[	[	PONCT	PONCT		
+56	réf	_	NC	NC		
+57	.	.	PONCT	PONCT		
+
+1	nécessaire	nécessaire	ADJ	ADJ	n=s	
+2	]	]	PONCT	PONCT		
+3	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	premier	premier	ADJ	ADJ	n=s|g=m	
+3	amant	amant	NC	NC	n=s|g=m	
+4	de	de	P	P		
+5	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+6	règne	règne	NC	NC	n=s|g=m	
+7	fut	être	V	V	n=s|t=J|p=3	
+8	Grigori	Grigori	NPP	NPP	n=s|g=m	
+9	Orlov	_	NPP	NPP		
+10	,	,	PONCT	PONCT		
+11	cette	cette	DET	DET	n=s|g=f	
+12	relation	relation	NC	NC	n=s|g=f	
+13	dura	durer	V	V	n=s|t=J|p=3	
+14	dix	dix	DET	DET	s=card|n=p	
+15	ans	an	NC	NC	n=p|g=m	
+16	(	(	PONCT	PONCT		
+17	1762-1772	1762-1772	NC	NC		
+18	)	)	PONCT	PONCT		
+19	.	.	PONCT	PONCT		
+
+1	Celui	celui	PRO	PRO	n=s|g=m	
+2	-	-	PONCT	PONCT		
+3	ci	_	NPP	NPP		
+4	joua	jouer	V	V	n=s|t=J|p=3	
+5	toujours	toujours	ADV	ADV		
+6	un	un	DET	DET	n=s|g=m	
+7	rôle	rôle	NC	NC	n=s|g=m	
+8	sentimental	sentimental	ADJ	ADJ	n=s|g=m	
+9	et	et	CC	CC		
+10	politique	politique	ADJ	ADJ	n=s	
+11	.	.	PONCT	PONCT		
+
+1	C'	ce	CLS	CLS		
+2	est	être	V	V	n=s|t=P|p=3	
+3	lui	lui	PRO	PRO	n=s|g=m|p=3	
+4	qui	qui	PROREL	PROREL	n=s	
+5	,	,	PONCT	PONCT		
+6	lors	lors	ADV	ADV		
+7	de	de	P	P		
+8	la	la	DET	DET	n=s|g=f	
+9	grande	grand	ADJ	ADJ	n=s|g=f	
+10	épidémie	épidémie	NC	NC	n=s|g=f	
+11	de	de	P	P		
+12	peste	peste	NC	NC	n=s|g=f	
+13	de	de	P	P		
+14	Moscou	Moscou	NPP	NPP	n=s|g=m	
+15	en	en	P	P		
+16	1771	1771	NC	NC		
+17	,	,	PONCT	PONCT		
+18	calma	calmer	V	V	n=s|t=J|p=3	
+19	la	la	DET	DET	n=s|g=f	
+20	population	population	NC	NC	n=s|g=f	
+21	et	et	CC	CC		
+22	lutta	_	NC	NC		
+23	contre	contre	P	P		
+24	l'	le	DET	DET	n=s	
+25	extension	extension	NC	NC	n=s|g=f	
+26	de	de	P	P		
+27	l'	le	DET	DET	n=s	
+28	épidémie	épidémie	NC	NC	n=s|g=f	
+29	,	,	PONCT	PONCT		
+30	assisté	assister	VPP	VPP	n=s|g=m|t=K	
+31	d'	de	P	P		
+32	un	un	DET	DET	n=s|g=m	
+33	médecin	médecin	NC	NC	n=s|g=m	
+34	.	.	PONCT	PONCT		
+
+1	De	de	P	P		
+2	Grigori	Grigori	NPP	NPP	n=s|g=m	
+3	Orlov	_	NPP	NPP		
+4	,	,	PONCT	PONCT		
+5	Catherine	Catherine	NPP	NPP	n=s|g=f	
+6	II	_	NPP	NPP		
+7	eut	avoir	V	V	n=s|t=J|p=3	
+8	deux	deux	DET	DET	s=card|n=p	
+9	enfants	enfant	NC	NC	n=p	
+10	naturels	naturel	ADJ	ADJ	n=p|g=m	
+11	nés	naître	VPP	VPP	n=p|g=m|t=K	
+12	en	en	P	P		
+13	secret	secret	NC	NC	n=s|g=m	
+14	:	:	PONCT	PONCT		
+15	une	une	DET	DET	n=s|g=f	
+16	fille	fille	NC	NC	n=s|g=f	
+17	Nathalie	Nathalie	NPP	NPP	n=s|g=f	
+18	,	,	PONCT	PONCT		
+19	née	naître	VPP	VPP	n=s|g=f|t=K	
+20	en	en	P	P		
+21	1758	1758	NC	NC		
+22	,	,	PONCT	PONCT		
+23	adoptée	adopter	VPP	VPP	n=s|g=f|t=K	
+24	par	par	P	P		
+25	la	la	DET	DET	n=s|g=f	
+26	famille	famille	NC	NC	n=s|g=f	
+27	Alexeev	_	NPP	NPP		
+28	et	et	CC	CC		
+29	qui	qui	PROREL	PROREL	n=s	
+30	épousa	épouser	V	V	n=s|t=J|p=3	
+31	le	le	DET	DET	n=s|g=m	
+32	Feld	_	NPP	NPP		
+33	-	-	PONCT	PONCT		
+34	maréchal	maréchal	NC	NC	n=s|g=m	
+35	de	de	P	P		
+36	Buxhoeveden	_	NPP	NPP		
+37	,	,	PONCT	PONCT		
+38	et	et	CC	CC		
+39	un	un	DET	DET	n=s|g=m	
+40	fils	fils	NC	NC	g=m	
+41	,	,	PONCT	PONCT		
+42	Alexeï	_	NPP	NPP		
+43	Grigorievitch	_	NPP	NPP		
+44	Bobrinski	_	NPP	NPP		
+45	(	(	PONCT	PONCT		
+46	1762-1816	1762-1816	NPP	NPP		
+47	)	)	PONCT	PONCT		
+48	.	.	PONCT	PONCT		
+
+1	Paul	Paul	NPP	NPP	n=s|g=m	
+2	craignit	craindre	V	V	n=s|t=J|p=3	
+3	que	que	CS	CS		
+4	l'	le	DET	DET	n=s	
+5	un	un	PRO	PRO	n=s|g=m	
+6	d'	de	P	P		
+7	entre	entre	P	P		
+8	eux	eux	PRO	PRO	n=p|g=m|p=3	
+9	ne	ne	ADV	ADV		
+10	devînt	_	V	V		
+11	un	un	DET	DET	n=s|g=m	
+12	obstacle	obstacle	NC	NC	n=s|g=m	
+13	à	à	P	P		
+14	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+15	succession	succession	NC	NC	n=s|g=f	
+16	à	à	P	P		
+17	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+18	mère	mère	NC	NC	n=s|g=f	
+19	.	.	PONCT	PONCT		
+
+1	Mais	mais	CC	CC		
+2	,	,	PONCT	PONCT		
+3	celle	celle	PRO	PRO	n=s|g=f	
+4	-	-	PONCT	PONCT		
+5	ci	_	NPP	NPP		
+6	,	,	PONCT	PONCT		
+7	refusant	refuser	VPR	VPR	t=G	
+8	toujours	toujours	ADV	ADV		
+9	de	de	P	P		
+10	se	se	CLR	CLR	n=p,s|p=3	
+11	marier	marier	VINF	VINF	t=W	
+12	,	,	PONCT	PONCT		
+13	elle	elle	CLS	CLS	n=s|g=f|p=3	
+14	ne	ne	ADV	ADV		
+15	remit	remettre	V	V	n=s|t=J|p=3	
+16	pas	pas	ADV	ADV		
+17	en	en	P	P		
+18	question	question	NC	NC	n=s|g=f	
+19	la	la	DET	DET	n=s|g=f	
+20	succession	succession	NC	NC	n=s|g=f	
+21	de	de	P	P		
+22	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+23	fils	fils	NC	NC	g=m	
+24	légitime	légitime	ADJ	ADJ	n=s	
+25	.	.	PONCT	PONCT		
+
+1	Cette	cette	DET	DET	n=s|g=f	
+2	relation	relation	NC	NC	n=s|g=f	
+3	,	,	PONCT	PONCT		
+4	bien	bien	ADV	ADV		
+5	que	que	CS	CS		
+6	longue	long	ADJ	ADJ	n=s|g=f	
+7	,	,	PONCT	PONCT		
+8	se	se	CLR	CLR	n=p,s|p=3	
+9	termina	terminer	V	V	n=s|t=J|p=3	
+10	en	en	P	P		
+11	1772	1772	NC	NC		
+12	quand	quand	CS	CS		
+13	on	on	CLS	CLS	n=s|p=3	
+14	rapporta	rapporter	V	V	n=s|t=J|p=3	
+15	à	à	P	P		
+16	Catherine	Catherine	NPP	NPP	n=s|g=f	
+17	toutes	tout	ADJ	ADJ	n=p|g=f	
+18	les	les	DET	DET	n=p	
+19	infidélités	infidélité	NC	NC	n=p|g=f	
+20	de	de	P	P		
+21	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+22	favori	favori	NC	NC	n=s|g=m	
+23	.	.	PONCT	PONCT		
+
+1	Dans	dans	P	P		
+2	une	une	DET	DET	n=s|g=f	
+3	période	période	NC	NC	n=s	
+4	de	de	P	P		
+5	transition	transition	NC	NC	n=s|g=f	
+6	,	,	PONCT	PONCT		
+7	elle	elle	CLS	CLS	n=s|g=f|p=3	
+8	eut	avoir	V	V	n=s|t=J|p=3	
+9	un	un	DET	DET	n=s|g=m	
+10	amant	amant	NC	NC	n=s|g=m	
+11	,	,	PONCT	PONCT		
+12	Vassiltchikov	_	NPP	NPP		
+13	,	,	PONCT	PONCT		
+14	un	un	DET	DET	n=s|g=m	
+15	jeune	jeune	ADJ	ADJ	n=s	
+16	noble	noble	NC	NC	n=s	
+17	qui	qui	PROREL	PROREL	n=s	
+18	n'	ne	ADV	ADV		
+19	avait	avoir	V	V	n=s|t=I|p=3	
+20	comme	comme	P	P		
+21	simple	simple	ADJ	ADJ	n=s	
+22	attrait	attrait	NC	NC	n=s|g=m	
+23	que	que	CS	CS		
+24	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+25	beauté	beauté	NC	NC	n=s|g=f	
+26	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	impératrice	empereur	NC	NC	n=s|g=f	
+3	s'	se	CLR	CLR	n=p,s|p=3	
+4	en	en	CLO	CLO		
+5	lassa	lasser	V	V	n=s|t=J|p=3	
+6	vite	vite	ADV	ADV		
+7	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	relation	relation	NC	NC	n=s|g=f	
+3	qui	qui	PROREL	PROREL	n=s	
+4	suivit	suivre	V	V	n=s|t=J|p=3	
+5	fut	être	V	V	n=s|t=J|p=3	
+6	celle	celle	PRO	PRO	n=s|g=f	
+7	avec	avec	P	P		
+8	Grigori	Grigori	NPP	NPP	n=s|g=m	
+9	Potemkine	_	NPP	NPP		
+10	,	,	PONCT	PONCT		
+11	un	un	DET	DET	n=s|g=m	
+12	officier	officier	NC	NC	n=s	
+13	de	de	P	P		
+14	la	la	DET	DET	n=s|g=f	
+15	Garde	_	NPP	NPP		
+16	.	.	PONCT	PONCT		
+
+1	Homme	homme	NC	NC	n=s|g=m	
+2	exubérant	exubérant	ADJ	ADJ	n=s|g=m	
+3	aimant	aimer	VPR	VPR	t=G	
+4	les	les	DET	DET	n=p	
+5	plaisirs	plaisir	NC	NC	n=p|g=m	
+6	de	de	P	P		
+7	la	la	DET	DET	n=s|g=f	
+8	table	table	NC	NC	n=s|g=f	
+9	autant	autant	ADV	ADV		
+10	que	que	CS	CS		
+11	ceux	ceux	PRO	PRO	n=p|g=m	
+12	de	de	P	P		
+13	la	la	DET	DET	n=s|g=f	
+14	chair	chair	NC	NC	n=s|g=f	
+15	,	,	PONCT	PONCT		
+16	il	il	CLS	CLS	n=s|g=m|p=3	
+17	n'	ne	ADV	ADV		
+18	en	en	CLO	CLO		
+19	était	être	V	V	n=s|t=I|p=3	
+20	pas	pas	ADV	ADV		
+21	moins	moins	ADV	ADV		
+22	un	un	DET	DET	n=s|g=m	
+23	grand	grand	ADJ	ADJ	n=s|g=m	
+24	intellectuel	intellectuel	NC	NC	n=s|g=m	
+25	qui	qui	PROREL	PROREL	n=s	
+26	sut	savoir	V	V	n=s|t=J|p=3	
+27	plaire	plaire	VINF	VINF	t=W	
+28	à	à	P	P		
+29	Catherine	Catherine	NPP	NPP	n=s|g=f	
+30	par	par	P	P		
+31	ses	ses	DET	DET	n=p|p=3|poss=s	
+32	folies	folie	NC	NC	n=p|g=f	
+33	,	,	PONCT	PONCT		
+34	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+35	conversation	conversation	NC	NC	n=s|g=f	
+36	,	,	PONCT	PONCT		
+37	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+38	humour	humour	NC	NC	n=s|g=m	
+39	et	et	CC	CC		
+40	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+41	détermination	détermination	NC	NC	n=s|g=f	
+42	.	.	PONCT	PONCT		
+
+1	Ce	ce	DET	DET	n=s|g=m	
+2	favori	favori	NC	NC	n=s|g=m	
+3	est	être	V	V	n=s|t=P|p=3	
+4	sûrement	_	ADV	ADV		
+5	celui	celui	PRO	PRO	n=s|g=m	
+6	qui	qui	PROREL	PROREL	n=s	
+7	reçut	recevoir	V	V	n=s|t=J|p=3	
+8	le	le	DET	DET	n=s|g=m	
+9	plus	plus	ADV	ADV		
+10	de	de	P	P		
+11	Catherine	Catherine	NPP	NPP	n=s|g=f	
+12	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	le	le	CLO	CLO	n=s|g=m|p=3	
+3	couvrit	couvrir	V	V	n=s|t=J|p=3	
+4	d'	de	P	P		
+5	honneurs	honneur	NC	NC	n=p|g=m	
+6	,	,	PONCT	PONCT		
+7	médailles	médaille	NC	NC	n=p|g=f	
+8	,	,	PONCT	PONCT		
+9	récompenses	récompense	NC	NC	n=p|g=f	
+10	,	,	PONCT	PONCT		
+11	terres	terre	NC	NC	n=p|g=f	
+12	,	,	PONCT	PONCT		
+13	richesses	richesse	NC	NC	n=p|g=f	
+14	et	et	CC	CC		
+15	pouvoirs	pouvoir	NC	NC	n=p|g=m	
+16	.	.	PONCT	PONCT		
+
+1	Mais	mais	CC	CC		
+2	jamais	jamais	ADV	ADV		
+3	Catherine	Catherine	NPP	NPP	n=s|g=f	
+4	n'	ne	ADV	ADV		
+5	eut	avoir	V	V	n=s|t=J|p=3	
+6	à	à	P	P		
+7	le	le	CLO	CLO	n=s|g=m|p=3	
+8	regretter	regretter	VINF	VINF	t=W	
+9	:	:	PONCT	PONCT		
+10	fervent	fervent	ADJ	ADJ	n=s|g=m	
+11	serviteur	serviteur	NC	NC	n=s|g=m	
+12	de	de	P	P		
+13	la	la	DET	DET	n=s|g=f	
+14	Russie	Russie	NPP	NPP	n=s|g=f	
+15	,	,	PONCT	PONCT		
+16	il	il	CLS	CLS	n=s|g=m|p=3	
+17	fut	être	V	V	n=s|t=J|p=3	
+18	un	un	DET	DET	n=s|g=m	
+19	conseiller	conseiller	NC	NC	n=s|g=m	
+20	et	et	CC	CC		
+21	un	un	DET	DET	n=s|g=m	
+22	homme	homme	NC	NC	n=s|g=m	
+23	politique	politique	ADJ	ADJ	n=s	
+24	de	de	P	P		
+25	premier	premier	ADJ	ADJ	n=s|g=m	
+26	plan	plan	NC	NC	n=s|g=m	
+27	.	.	PONCT	PONCT		
+
+1	C'	ce	CLS	CLS		
+2	est	être	V	V	n=s|t=P|p=3	
+3	Potemkine	_	NPP	NPP		
+4	lui	lui	PRO	PRO	n=s|g=m|p=3	
+5	-	-	PONCT	PONCT		
+6	même	même	ADV	ADV		
+7	qui	qui	PROREL	PROREL	n=s	
+8	s'	se	CLR	CLR	n=p,s|p=3	
+9	éloigna	éloigner	V	V	n=s|t=J|p=3	
+10	du	de	P+D	P+D	n=s|g=m	
+11	lit	lit	NC	NC	n=s|g=m	
+12	de	de	P	P		
+13	Catherine	Catherine	NPP	NPP	n=s|g=f	
+14	.	.	PONCT	PONCT		
+
+1	Mais	mais	CC	CC		
+2	il	il	CLS	CLS	n=s|g=m|p=3	
+3	resta	rester	V	V	n=s|t=J|p=3	
+4	toujours	toujours	ADV	ADV		
+5	présent	présent	ADJ	ADJ	n=s|g=m	
+6	dans	dans	P	P		
+7	le	le	DET	DET	n=s|g=m	
+8	cœur	_	NC	NC		
+9	de	de	P	P		
+10	l'	le	DET	DET	n=s	
+11	impératrice	empereur	NC	NC	n=s|g=f	
+12	en	en	P	P		
+13	tant	tant	ADV	ADV		
+14	qu'	que	CS	CS		
+15	ami	ami	NC	NC	n=s|g=m	
+16	et	et	CC	CC		
+17	dans	dans	P	P		
+18	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+19	politique	politique	NC	NC	n=s|g=f	
+20	en	en	P	P		
+21	tant	tant	ADV	ADV		
+22	que	que	CS	CS		
+23	conseiller	conseiller	NC	NC	n=s|g=m	
+24	.	.	PONCT	PONCT		
+
+1	C'	ce	CLS	CLS		
+2	est	être	V	V	n=s|t=P|p=3	
+3	lui	lui	PRO	PRO	n=s|g=m|p=3	
+4	qui	qui	PROREL	PROREL	n=s	
+5	s'	se	CLR	CLR	n=p,s|p=3	
+6	occupa	occuper	V	V	n=s|t=J|p=3	
+7	à	à	P	P		
+8	l'	le	DET	DET	n=s	
+9	avenir	avenir	NC	NC	n=s|g=m	
+10	de	de	P	P		
+11	fournir	fournir	VINF	VINF	t=W	
+12	des	des	DET	DET	n=p	
+13	amants	amant	NC	NC	n=p|g=m	
+14	à	à	P	P		
+15	l'	le	DET	DET	n=s	
+16	impératrice	empereur	NC	NC	n=s|g=f	
+17	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	seul	seul	ADJ	ADJ	n=s|g=m	
+3	mariage	mariage	NC	NC	n=s|g=m	
+4	secret	secret	NC	NC	n=s|g=m	
+5	connu	connaître	VPP	VPP	n=s|g=m|t=K	
+6	de	de	P	P		
+7	Catherine	Catherine	NPP	NPP	n=s|g=f	
+8	II	_	NPP	NPP		
+9	est	être	V	V	n=s|t=P|p=3	
+10	celui	celui	PRO	PRO	n=s|g=m	
+11	avec	avec	P	P		
+12	Grigori	Grigori	NPP	NPP	n=s|g=m	
+13	Potemkine	_	NPP	NPP		
+14	[	[	PONCT	PONCT		
+15	16	16	NC	NC		
+16	]	]	PONCT	PONCT		
+17	.	.	PONCT	PONCT		
+
+1	Potemkine	_	NPP	NPP		
+2	établit	établir	V	V	n=s|t=J,P|p=3	
+3	des	des	DET	DET	n=p	
+4	règles	règle	NC	NC	n=p|g=f	
+5	pour	pour	P	P		
+6	devenir	devenir	VINF	VINF	t=W	
+7	le	le	DET	DET	n=s|g=m	
+8	nouveau	nouveau	ADJ	ADJ	n=s|g=m	
+9	favori	favori	NC	NC	n=s|g=m	
+10	de	de	P	P		
+11	l'	le	DET	DET	n=s	
+12	impératrice	empereur	NC	NC	n=s|g=f	
+13	:	:	PONCT	PONCT		
+14	un	un	DET	DET	n=s|g=m	
+15	médecin	médecin	NC	NC	n=s|g=m	
+16	vérifiait	vérifier	V	V	n=s|t=I|p=3	
+17	la	la	DET	DET	n=s|g=f	
+18	bonne	bon	ADJ	ADJ	n=s|g=f	
+19	santé	santé	NC	NC	n=s|g=f	
+20	du	de	P+D	P+D	n=s|g=m	
+21	prétendant	prétendre	VPR	VPR	t=G	
+22	,	,	PONCT	PONCT		
+23	une	une	DET	DET	n=s|g=f	
+24	proche	proche	ADJ	ADJ	n=s	
+25	de	de	P	P		
+26	Catherine	Catherine	NPP	NPP	n=s|g=f	
+27	examinait	examiner	V	V	n=s|t=I|p=3	
+28	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+29	culture	culture	NC	NC	n=s|g=f	
+30	et	et	CC	CC		
+31	validait	valider	V	V	n=s|t=I|p=3	
+32	ses	ses	DET	DET	n=p|p=3|poss=s	
+33	performances	performance	NC	NC	n=p|g=f	
+34	sexuelles	sexuel	ADJ	ADJ	n=p|g=f	
+35	,	,	PONCT	PONCT		
+36	telles	tel	ADJ	ADJ	n=p|g=f	
+37	la	la	DET	DET	n=s|g=f	
+38	comtesse	comtesse	NC	NC	n=s|g=f	
+39	Praskovya	_	NPP	NPP		
+40	Bruce	Bruce	NPP	NPP	n=s|g=m	
+41	(	(	PONCT	PONCT		
+42	en	en	P	P		
+43	)	)	PONCT	PONCT		
+44	puis	puis	CC	CC		
+45	Anna	Anna	NPP	NPP	n=s|g=f	
+46	Protassova	_	NPP	NPP		
+47	qui	qui	PROREL	PROREL	n=s	
+48	faisaient	faire	V	V	n=p|t=I|p=3	
+49	office	office	NC	NC	n=s	
+50	d'	de	P	P		
+51	"	"	PONCT	PONCT		
+52	essayeuse	essayeur	NC	NC	n=s|g=f	
+53	"	"	PONCT	PONCT		
+54	ou	ou	CC	CC		
+55	d'	de	P	P		
+56	"	"	PONCT	PONCT		
+57	éprouveuse	_	ADJ	ADJ		
+58	"	"	PONCT	PONCT		
+59	[	[	PONCT	PONCT		
+60	17	17	NC	NC		
+61	]	]	PONCT	PONCT		
+62	.	.	PONCT	PONCT		
+
+1	À	à	P	P		
+2	Potemkine	_	NPP	NPP		
+3	succédèrent	succéder	V	V	n=p|t=J|p=3	
+4	de	de	DET	DET	n=p	
+5	nombreux	nombreux	ADJ	ADJ	g=m	
+6	amants	amant	NC	NC	n=p|g=m	
+7	tous	tous	DET	DET	n=p|g=m	
+8	jeunes	jeune	NC	NC	n=p	
+9	et	et	CC	CC		
+10	beaux	beau	ADJ	ADJ	n=p|g=m	
+11	:	:	PONCT	PONCT		
+12	Pierre	_	NPP	NPP		
+13	Zavadoski	_	NPP	NPP		
+14	de	de	P	P		
+15	vingt	vingt	DET	DET	s=card|n=p	
+16	ans	an	NC	NC	n=p|g=m	
+17	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+18	cadet	cadet	NC	NC	n=s|g=m	
+19	,	,	PONCT	PONCT		
+20	l'	le	DET	DET	n=s	
+21	officier	officier	NC	NC	n=s	
+22	Simon	Simon	NPP	NPP	n=s|g=m	
+23	Zoritch	_	NPP	NPP		
+24	écarté	écarter	VPP	VPP	n=s|g=m|t=K	
+25	par	par	P	P		
+26	Ivan	Ivan	NPP	NPP	n=s|g=m	
+27	Nikolaïevitch	_	NPP	NPP		
+28	Rimsky	_	NPP	NPP		
+29	-	-	PONCT	PONCT		
+30	Korsakov	_	NPP	NPP		
+31	,	,	PONCT	PONCT		
+32	âgé	âgé	ADJ	ADJ	n=s|g=m	
+33	de	de	P	P		
+34	vingt	vingt	DET	DET	s=card|n=p	
+35	ans	an	NC	NC	n=p|g=m	
+36	et	et	CC	CC		
+37	doté	doter	VPP	VPP	n=s|g=m|t=K	
+38	d'	de	P	P		
+39	un	un	DET	DET	n=s|g=m	
+40	corps	corps	NC	NC	g=m	
+41	d'	de	P	P		
+42	Adonis	Adonis	NPP	NPP	n=s|g=m	
+43	,	,	PONCT	PONCT		
+44	puis	puis	CC	CC		
+45	Lanskoï	_	NPP	NPP		
+46	qui	qui	PROREL	PROREL	n=s	
+47	meurt	mourir	V	V	n=s|t=P|p=3	
+48	quatre	quatre	DET	DET	s=card|n=p	
+49	ans	an	NC	NC	n=p|g=m	
+50	après	après	P	P		
+51	le	le	DET	DET	n=s|g=m	
+52	début	début	NC	NC	n=s|g=m	
+53	de	de	P	P		
+54	leurs	leurs	DET	DET	n=p|p=3|poss=p	
+55	relations	relation	NC	NC	n=p|g=f	
+56	(	(	PONCT	PONCT		
+57	d'	de	P	P		
+58	un	un	DET	DET	n=s|g=m	
+59	abus	abus	NC	NC	g=m	
+60	d'	de	P	P		
+61	aphrodisiaques	aphrodisiaque	NC	NC	n=p|g=m	
+62	?	?	PONCT	PONCT		
+63	)	)	PONCT	PONCT		
+64	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	dernier	dernier	ADJ	ADJ	n=s|g=m	
+3	de	de	P	P		
+4	cette	cette	DET	DET	n=s|g=f	
+5	longue	long	ADJ	ADJ	n=s|g=f	
+6	liste	liste	NC	NC	n=s|g=f	
+7	fut	être	V	V	n=s|t=J|p=3	
+8	Platon	Platon	NPP	NPP	n=s|g=m	
+9	Zoubov	_	NPP	NPP		
+10	qui	qui	PROREL	PROREL	n=s	
+11	sera	être	V	V	n=s|t=F|p=3	
+12	à	à	P	P		
+13	ses	ses	DET	DET	n=p|p=3|poss=s	
+14	côtés	côté	NC	NC	n=p|g=m	
+15	à	à	P	P		
+16	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+17	mort	mort	NC	NC	n=s|g=f,m	
+18	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	attitude	attitude	NC	NC	n=s|g=f	
+3	de	de	P	P		
+4	Catherine	Catherine	NPP	NPP	n=s|g=f	
+5	envers	envers	P	P		
+6	ses	ses	DET	DET	n=p|p=3|poss=s	
+7	amants	amant	NC	NC	n=p|g=m	
+8	fut	être	V	V	n=s|t=J|p=3	
+9	toujours	toujours	ADV	ADV		
+10	la	la	DET	DET	n=s|g=f	
+11	même	même	ADJ	ADJ	n=s	
+12	:	:	PONCT	PONCT		
+13	chaque	chaque	DET	DET	n=s	
+14	homme	homme	NC	NC	n=s|g=m	
+15	recevait	recevoir	V	V	n=s|t=I|p=3	
+16	pendant	pendant	P	P		
+17	et	et	CC	CC		
+18	après	après	P	P		
+19	ses	ses	DET	DET	n=p|p=3|poss=s	
+20	"	"	PONCT	PONCT		
+21	services	service	NC	NC	n=p|g=m	
+22	"	"	PONCT	PONCT		
+23	des	de	P+D	P+D	n=p	
+24	honneurs	honneur	NC	NC	n=p|g=m	
+25	,	,	PONCT	PONCT		
+26	des	de	P+D	P+D	n=p	
+27	propriétés	propriété	NC	NC	n=p|g=f	
+28	,	,	PONCT	PONCT		
+29	des	des	DET	DET	n=p	
+30	milliers	millier	NC	NC	n=p|g=m	
+31	de	de	P	P		
+32	serfs	serf	NC	NC	n=p|g=m	
+33	,	,	PONCT	PONCT		
+34	des	des	DET	DET	n=p	
+35	cadeaux	cadeau	NC	NC	n=p|g=m	
+36	…	…	PONCT	PONCT		
+37	Son	son	DET	DET	n=s|g=m|p=3|poss=s	
+38	attitude	attitude	NC	NC	n=s|g=f	
+39	scandaleuse	scandaleux	ADJ	ADJ	n=s|g=f	
+40	lui	lui	CLO	CLO	n=s|p=3	
+41	valut	valoir	V	V	n=s|t=J|p=3	
+42	une	une	DET	DET	n=s|g=f	
+43	réputation	réputation	NC	NC	n=s|g=f	
+44	de	de	P	P		
+45	débauchée	débauché	NC	NC	n=s|g=f	
+46	(	(	PONCT	PONCT		
+47	les	les	DET	DET	n=p	
+48	historiens	historien	NC	NC	n=p|g=m	
+49	sont	être	V	V	n=p|t=P|p=3	
+50	divisés	diviser	VPP	VPP	n=p|g=m|t=K	
+51	sur	sur	P	P		
+52	l'	le	DET	DET	n=s	
+53	existence	existence	NC	NC	n=s|g=f	
+54	de	de	P	P		
+55	la	la	DET	DET	n=s|g=f	
+56	Chambre	chambre	NC	NC	n=s|g=f	
+57	des	de	P+D	P+D	n=p	
+58	Plaisirs	plaisir	NC	NC	n=p|g=m	
+59	,	,	PONCT	PONCT		
+60	cabinet	cabinet	NC	NC	n=s|g=m	
+61	érotique	érotique	ADJ	ADJ	n=s	
+62	secret	secret	NC	NC	n=s|g=m	
+63	que	que	CS	CS		
+64	l'	le	DET	DET	n=s	
+65	impératrice	empereur	NC	NC	n=s|g=f	
+66	aurait	avoir	V	V	n=s|t=C|p=3	
+67	fait	faire	VPP	VPP	n=s|g=m|t=K	
+68	aménager	aménager	VINF	VINF	t=W	
+69	dans	dans	P	P		
+70	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+71	palais	palais	NC	NC	g=m	
+72	de	de	P	P		
+73	Tsarskoïe	_	NPP	NPP		
+74	Selo	_	NPP	NPP		
+75	,	,	PONCT	PONCT		
+76	constitué	constituer	VPP	VPP	n=s|g=m|t=K	
+77	de	de	P	P		
+78	plusieurs	plusieurs	DET	DET	n=p	
+79	pièces	pièce	NC	NC	n=p|g=f	
+80	et	et	CC	CC		
+81	objets	objet	NC	NC	n=p|g=m	
+82	érotiques	érotique	ADJ	ADJ	n=p	
+83	:	:	PONCT	PONCT		
+84	peintures	peinture	NC	NC	n=p|g=f	
+85	,	,	PONCT	PONCT		
+86	meubles	meuble	NC	NC	n=p|g=m	
+87	,	,	PONCT	PONCT		
+88	lustres	lustre	NC	NC	n=p|g=m	
+89	,	,	PONCT	PONCT		
+90	etc	_	ADV	ADV		
+91	.	.	PONCT	PONCT		
+92	[	[	PONCT	PONCT		
+93	18	18	ADJ	ADJ		
+94	]	]	PONCT	PONCT		
+95	)	)	PONCT	PONCT		
+96	.	.	PONCT	PONCT		
+
+1	S'	se	CLR	CLR	n=p,s|p=3	
+2	ajouta	ajouter	V	V	n=s|t=J|p=3	
+3	à	à	P	P		
+4	cela	cela	PRO	PRO	n=s|g=m	
+5	l'	le	DET	DET	n=s	
+6	exaspération	exaspération	NC	NC	n=s|g=f	
+7	(	(	PONCT	PONCT		
+8	voire	voire	CC	CC		
+9	la	la	DET	DET	n=s|g=f	
+10	jalousie	jalousie	NC	NC	n=s|g=f	
+11	)	)	PONCT	PONCT		
+12	de	de	P	P		
+13	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+14	fils	fils	NC	NC	g=m	
+15	devant	devant	P	P		
+16	la	la	DET	DET	n=s|g=f	
+17	largesse	largesse	NC	NC	n=s|g=f	
+18	de	de	P	P		
+19	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+20	mère	mère	NC	NC	n=s|g=f	
+21	pour	pour	P	P		
+22	ses	ses	DET	DET	n=p|p=3|poss=s	
+23	favoris	favori	NC	NC	n=p|g=m	
+24	,	,	PONCT	PONCT		
+25	en	en	P	P		
+26	comparaison	comparaison	NC	NC	n=s|g=f	
+27	de	de	P	P		
+28	la	la	DET	DET	n=s|g=f	
+29	faible	faible	ADJ	ADJ	n=s	
+30	affection	affection	NC	NC	n=s|g=f	
+31	et	et	CC	CC		
+32	des	de	P+D	P+D	n=p	
+33	médiocres	médiocre	ADJ	ADJ	n=p	
+34	cadeaux	cadeau	NC	NC	n=p|g=m	
+35	qu'	que	PROREL	PROREL		
+36	il	il	CLS	CLS	n=s|g=m|p=3	
+37	recevait	recevoir	V	V	n=s|t=I|p=3	
+38	.	.	PONCT	PONCT		
+
+1	Dans	dans	P	P		
+2	cette	cette	DET	DET	n=s|g=f	
+3	vie	vie	NC	NC	n=s|g=f	
+4	tumultueuse	tumultueux	ADJ	ADJ	n=s|g=f	
+5	,	,	PONCT	PONCT		
+6	elle	elle	CLS	CLS	n=s|g=f|p=3	
+7	sut	savoir	V	V	n=s|t=J|p=3	
+8	pourtant	pourtant	ADV	ADV		
+9	faire	faire	VINF	VINF	t=W	
+10	la	la	DET	DET	n=s|g=f	
+11	part	part	NC	NC	n=s	
+12	entre	entre	P	P		
+13	les	les	DET	DET	n=p	
+14	hommes	homme	NC	NC	n=p|g=m	
+15	et	et	CC	CC		
+16	le	le	DET	DET	n=s|g=m	
+17	pouvoir	pouvoir	NC	NC	n=s|g=m	
+18	.	.	PONCT	PONCT		
+
+1	Jamais	jamais	ADV	ADV		
+2	elle	elle	CLS	CLS	n=s|g=f|p=3	
+3	ne	ne	ADV	ADV		
+4	leur	leur	CLO	CLO	n=p|p=3	
+5	accorda	accorder	V	V	n=s|t=J|p=3	
+6	une	une	DET	DET	n=s|g=f	
+7	parcelle	parcelle	NC	NC	n=s|g=f	
+8	de	de	P	P		
+9	pouvoir	pouvoir	NC	NC	n=s|g=m	
+10	qui	qui	PROREL	PROREL	n=s	
+11	pût	pouvoir	VS	VS	n=s|t=T|p=3	
+12	diminuer	diminuer	VINF	VINF	t=W	
+13	le	le	DET	DET	n=s|g=m	
+14	sien	sien	ADJ	ADJ	n=s|g=m	
+15	.	.	PONCT	PONCT		
+
+1	Grande	grand	ADJ	ADJ	n=s|g=f	
+2	intellectuelle	intellectuel	NC	NC	n=s|g=f	
+3	,	,	PONCT	PONCT		
+4	elle	elle	CLS	CLS	n=s|g=f|p=3	
+5	avait	avoir	V	V	n=s|t=I|p=3	
+6	une	une	DET	DET	n=s|g=f	
+7	idée	idée	NC	NC	n=s|g=f	
+8	bien	bien	ADV	ADV		
+9	définie	définir	VPP	VPP	n=s|g=f|t=K	
+10	de	de	P	P		
+11	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+12	pouvoir	pouvoir	NC	NC	n=s|g=m	
+13	[	[	PONCT	PONCT		
+14	2	2	ADJ	ADJ		
+15	]	]	PONCT	PONCT		
+16	.	.	PONCT	PONCT		
+
+1	Catherine	Catherine	NPP	NPP	n=s|g=f	
+2	II	_	NPP	NPP		
+3	ayant	avoir	VPR	VPR	t=G	
+4	admis	admettre	VPP	VPP	g=m|t=K	
+5	le	le	DET	DET	n=s|g=m	
+6	bouddhisme	bouddhisme	NC	NC	n=s|g=m	
+7	parmi	parmi	P	P		
+8	les	les	DET	DET	n=p	
+9	religions	religion	NC	NC	n=p|g=f	
+10	d'	de	P	P		
+11	État	État	NC	NC	n=s|g=m	
+12	,	,	PONCT	PONCT		
+13	les	les	DET	DET	n=p	
+14	chefs	chef	NC	NC	n=p	
+15	d'	de	P	P		
+16	État	État	NC	NC	n=s|g=m	
+17	russes	russe	ADJ	ADJ	n=p	
+18	(	(	PONCT	PONCT		
+19	exception	exception	NC	NC	n=s|g=f	
+20	faite	faire	VPP	VPP	n=s|g=f|t=K	
+21	de	de	P	P		
+22	la	la	DET	DET	n=s|g=f	
+23	période	période	NC	NC	n=s	
+24	soviétique	soviétique	ADJ	ADJ	n=s	
+25	)	)	PONCT	PONCT		
+26	sont	être	V	V	n=p|t=P|p=3	
+27	considérés	considérer	VPP	VPP	n=p|g=m|t=K	
+28	par	par	P	P		
+29	les	les	DET	DET	n=p	
+30	bouddhistes	bouddhiste	NC	NC	n=p	
+31	du	de	P+D	P+D	n=s|g=m	
+32	pays	pays	NC	NC	g=m	
+33	comme	comme	P	P		
+34	les	les	DET	DET	n=p	
+35	réincarnations	réincarnation	NC	NC	n=p|g=f	
+36	de	de	P	P		
+37	la	la	DET	DET	n=s|g=f	
+38	déesse	déesse	NC	NC	n=s|g=f	
+39	Tara	Tara	NPP	NPP	n=s|g=f	
+40	[	[	PONCT	PONCT		
+41	19	19	NC	NC		
+42	]	]	PONCT	PONCT		
+43	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	6	6	ADJ	ADJ		
+3	novembre	novembre	NC	NC	n=s|g=m	
+4	1796	1796	NC	NC		
+5	(	(	PONCT	PONCT		
+6	17	17	ADJ	ADJ		
+7	novembre	novembre	NC	NC	n=s|g=m	
+8	1796	1796	NC	NC		
+9	dans	dans	P	P		
+10	le	le	DET	DET	n=s|g=m	
+11	calendrier	calendrier	NC	NC	n=s|g=m	
+12	grégorien	grégorien	ADJ	ADJ	n=s|g=m	
+13	)	)	PONCT	PONCT		
+14	au	à	P+D	P+D	n=s|g=m	
+15	matin	matin	NC	NC	n=s|g=m	
+16	,	,	PONCT	PONCT		
+17	Catherine	Catherine	NPP	NPP	n=s|g=f	
+18	II	_	NPP	NPP		
+19	s'	se	CLR	CLR	n=p,s|p=3	
+20	effondre	effondrer	V	V	n=s|t=P,S|p=1,3	
+21	dans	dans	P	P		
+22	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+23	garde	garde	NC	NC	n=s	
+24	-	-	PONCT	PONCT		
+25	robe	robe	NC	NC	n=s|g=f	
+26	.	.	PONCT	PONCT		
+
+1	On	on	CLS	CLS	n=s|p=3	
+2	l'	le	CLO	CLO	n=s|p=3	
+3	étend	étendre	V	V	n=s|t=P|p=3	
+4	sur	sur	P	P		
+5	un	un	DET	DET	n=s|g=m	
+6	matelas	matelas	NC	NC	g=m	
+7	où	où	PROREL	PROREL		
+8	elle	elle	CLS	CLS	n=s|g=f|p=3	
+9	agonise	agoniser	V	V	n=s|t=P,S|p=1,3	
+10	pendant	pendant	P	P		
+11	des	des	DET	DET	n=p	
+12	heures	heure	NC	NC	n=p|g=f	
+13	,	,	PONCT	PONCT		
+14	à	à	P	P		
+15	même	même	ADV	ADV		
+16	le	le	DET	DET	n=s|g=m	
+17	sol	_	NC	NC		
+18	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	s'	se	CLR	CLR	n=p,s|p=3	
+3	éteint	éteindre	V	V	n=s|t=P|p=3	
+4	à	à	P	P		
+5	67	67	ADJ	ADJ		
+6	ans	an	NC	NC	n=p|g=m	
+7	,	,	PONCT	PONCT		
+8	après	après	P	P		
+9	avoir	avoir	VINF	VINF	t=W	
+10	régné	régner	VPP	VPP	n=s|g=m|t=K	
+11	plus	plus	ADV	ADV		
+12	de	de	P	P		
+13	trente	trente	DET	DET	s=card|n=p	
+14	ans	an	NC	NC	n=p|g=m	
+15	sur	sur	P	P		
+16	la	la	DET	DET	n=s|g=f	
+17	Russie	Russie	NPP	NPP	n=s|g=f	
+18	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	impératrice	empereur	NC	NC	n=s|g=f	
+3	avait	avoir	V	V	n=s|t=I|p=3	
+4	prévu	prévoir	VPP	VPP	n=s|g=m|t=K	
+5	de	de	P	P		
+6	déshériter	déshériter	VINF	VINF	t=W	
+7	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+8	fils	fils	NC	NC	g=m	
+9	au	à	P+D	P+D	n=s|g=m	
+10	profit	profit	NC	NC	n=s|g=m	
+11	de	de	P	P		
+12	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+13	petit	petit	ADJ	ADJ	n=s|g=m	
+14	-	-	PONCT	PONCT		
+15	fils	fils	NC	NC	g=m	
+16	Alexandre	Alexandre	NPP	NPP	n=s|g=m	
+17	,	,	PONCT	PONCT		
+18	mais	mais	CC	CC		
+19	Paul	Paul	NPP	NPP	n=s|g=m	
+20	fouille	fouiller	V	V	n=s|t=P,S|p=1,3	
+21	le	le	DET	DET	n=s|g=m	
+22	bureau	bureau	NC	NC	n=s|g=m	
+23	de	de	P	P		
+24	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+25	mère	mère	NC	NC	n=s|g=f	
+26	,	,	PONCT	PONCT		
+27	met	mettre	V	V	n=s|t=P|p=3	
+28	la	la	DET	DET	n=s|g=f	
+29	main	main	NC	NC	n=s|g=f	
+30	sur	sur	P	P		
+31	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+32	testament	testament	NC	NC	n=s|g=m	
+33	et	et	CC	CC		
+34	le	le	CLO	CLO	n=s|g=m|p=3	
+35	brûle	brûler	V	V	n=s|t=P,S|p=1,3	
+36	.	.	PONCT	PONCT		
+
+1	Devenu	devenir	VPP	VPP	n=s|g=m|t=K	
+2	empereur	empereur	NC	NC	n=s|g=m	
+3	,	,	PONCT	PONCT		
+4	il	il	CLS	CLS	n=s|g=m|p=3	
+5	décide	décider	V	V	n=s|t=P,S|p=1,3	
+6	d'	de	P	P		
+7	ouvrir	ouvrir	VINF	VINF	t=W	
+8	le	le	DET	DET	n=s|g=m	
+9	tombeau	tombeau	NC	NC	n=s|g=m	
+10	de	de	P	P		
+11	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+12	père	père	NC	NC	n=s|g=m	
+13	Pierre	Pierre	NPP	NPP	n=s|g=m	
+14	III	_	NPP	NPP		
+15	,	,	PONCT	PONCT		
+16	de	de	P	P		
+17	couronner	couronner	VINF	VINF	t=W	
+18	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+19	squelette	squelette	NC	NC	n=s|g=m	
+20	et	et	CC	CC		
+21	d'	de	P	P		
+22	enterrer	enterrer	VINF	VINF	t=W	
+23	ses	ses	DET	DET	n=p|p=3|poss=s	
+24	parents	parent	NC	NC	n=p|g=m	
+25	côte	côte	NC	NC	n=s|g=f	
+26	à	à	P	P		
+27	côte	côte	NC	NC	n=s|g=f	
+28	dans	dans	P	P		
+29	la	la	DET	DET	n=s|g=f	
+30	cathédrale	cathédrale	NC	NC	n=s|g=f	
+31	Pierre	Pierre	NPP	NPP	n=s|g=m	
+32	-	-	PONCT	PONCT		
+33	et	et	CC	CC		
+34	-	-	PONCT	PONCT		
+35	Paul	Paul	NPP	NPP	n=s|g=m	
+36	,	,	PONCT	PONCT		
+37	à	à	P	P		
+38	Saint	_	NPP	NPP		
+39	-	-	PONCT	PONCT		
+40	Pétersbourg	_	NPP	NPP		
+41	[	[	PONCT	PONCT		
+42	20	20	NC	NC		
+43	]	]	PONCT	PONCT		
+44	.	.	PONCT	PONCT		
+
+1	Sur	sur	P	P		
+2	les	les	DET	DET	n=p	
+3	autres	autre	ADJ	ADJ	n=p	
+4	projets	projet	NC	NC	n=p|g=m	
+5	Wikimedia	_	NPP	NPP		
+6	:	:	PONCT	PONCT		
+

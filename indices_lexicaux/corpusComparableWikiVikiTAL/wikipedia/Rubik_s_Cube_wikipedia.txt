@@ -1,0 +1,3824 @@
+1	modifier	modifier	VINF	VINF	t=W	
+2	Le	_	NPP	NPP		
+3	Rubik	_	NPP	NPP		
+4	'	'	PONCT	PONCT		
+5	s	_	NPP	NPP		
+6	Cube	_	NPP	NPP		
+7	(	(	PONCT	PONCT		
+8	ou	ou	CC	CC		
+9	Cube	_	NPP	NPP		
+10	de	de	P	P		
+11	Rubik	_	NPP	NPP		
+12	)	)	PONCT	PONCT		
+13	est	être	V	V	n=s|t=P|p=3	
+14	un	un	DET	DET	n=s|g=m	
+15	casse	casse	NC	NC	n=s	
+16	-	-	PONCT	PONCT		
+17	tête	tête	NC	NC	n=s|g=f	
+18	inventé	inventer	VPP	VPP	n=s|g=m|t=K	
+19	par	par	P	P		
+20	Ernő	_	NPP	NPP		
+21	Rubik	_	NPP	NPP		
+22	en	en	P	P		
+23	1974	1974	NC	NC		
+24	,	,	PONCT	PONCT		
+25	et	et	CC	CC		
+26	qui	qui	PROREL	PROREL	n=s	
+27	s'	se	CLR	CLR	n=p,s|p=3	
+28	est	être	V	V	n=s|t=P|p=3	
+29	rapidement	_	ADV	ADV		
+30	répandu	répandre	VPP	VPP	n=s|g=m|t=K	
+31	sur	sur	P	P		
+32	toute	tout	ADJ	ADJ	n=s|g=f	
+33	la	la	DET	DET	n=s|g=f	
+34	planète	planète	NC	NC	n=s|g=f	
+35	au	à	P+D	P+D	n=s|g=m	
+36	cours	cour	NC	NC	n=p|g=f	
+37	des	de	P+D	P+D	n=p	
+38	années	année	NC	NC	n=p|g=f	
+39	1980	1980	NC	NC		
+40	.	.	PONCT	PONCT		
+
+1	Au	à	P+D	P+D	n=s|g=m	
+2	Canada	Canada	NPP	NPP	n=s|g=m	
+3	francophone	francophone	ADJ	ADJ	n=s	
+4	,	,	PONCT	PONCT		
+5	il	il	CLS	CLS	n=s|g=m|p=3	
+6	est	être	V	V	n=s|t=P|p=3	
+7	nommé	nommer	VPP	VPP	n=s|g=m|t=K	
+8	Cube	_	NPP	NPP		
+9	Rubik	_	NPP	NPP		
+10	(	(	PONCT	PONCT		
+11	sans	sans	P	P		
+12	le	le	DET	DET	n=s|g=m	
+13	"	"	PONCT	PONCT		
+14	de	de	P	P		
+15	"	"	PONCT	PONCT		
+16	)	)	PONCT	PONCT		
+17	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	appellation	appellation	NC	NC	n=s|g=f	
+3	Rubik	_	NPP	NPP		
+4	'	'	PONCT	PONCT		
+5	s	_	NPP	NPP		
+6	Cube	_	NPP	NPP		
+7	est	être	V	V	n=s|t=P|p=3	
+8	considérée	considérer	VPP	VPP	n=s|g=f|t=K	
+9	comme	comme	P	P		
+10	exclusivement	_	ADV	ADV		
+11	anglophone	anglophone	ADJ	ADJ	n=s	
+12	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	s'	se	CLR	CLR	n=p,s|p=3	
+3	agit	agir	V	V	n=s|t=J,P|p=3	
+4	d'	de	P	P		
+5	un	un	DET	DET	n=s|g=m	
+6	casse	casse	NC	NC	n=s	
+7	-	-	PONCT	PONCT		
+8	tête	tête	NC	NC	n=s|g=f	
+9	géométrique	géométrique	ADJ	ADJ	n=s	
+10	à	à	P	P		
+11	trois	trois	DET	DET	s=card|n=p	
+12	dimensions	dimension	NC	NC	n=p|g=f	
+13	composé	composer	VPP	VPP	n=s|g=m|t=K	
+14	extérieurement	_	ADV	ADV		
+15	de	de	P	P		
+16	26	26	ADJ	ADJ		
+17	éléments	élément	NC	NC	n=p|g=m	
+18	qui	qui	PROREL	PROREL	n=s	
+19	,	,	PONCT	PONCT		
+20	à	à	P	P		
+21	première	premier	ADJ	ADJ	n=s|g=f	
+22	vue	vue	NC	NC	n=s|g=f	
+23	,	,	PONCT	PONCT		
+24	semblent	sembler	V	V	n=p|t=P,S|p=3	
+25	être	être	VINF	VINF	t=W	
+26	des	des	DET	DET	n=p	
+27	cubes	cube	NC	NC	n=p|g=m	
+28	pouvant	pouvoir	VPR	VPR	t=G	
+29	se	se	CLR	CLR	n=p,s|p=3	
+30	déplacer	déplacer	VINF	VINF	t=W	
+31	sur	sur	P	P		
+32	toutes	tout	ADJ	ADJ	n=p|g=f	
+33	les	les	DET	DET	n=p	
+34	faces	face	NC	NC	n=p|g=f	
+35	et	et	CC	CC		
+36	paraissant	paraître	VPR	VPR	t=G	
+37	libres	libre	ADJ	ADJ	n=p	
+38	de	de	P	P		
+39	toute	toute	DET	DET	n=s|g=f	
+40	attache	attache	NC	NC	n=s|g=f	
+41	sans	sans	P	P		
+42	tomber	tomber	VINF	VINF	t=W	
+43	pour	pour	P	P		
+44	autant	autant	ADV	ADV		
+45	.	.	PONCT	PONCT		
+
+1	Un	un	DET	DET	n=s|g=m	
+2	système	système	NC	NC	n=s|g=m	
+3	d'	de	P	P		
+4	axes	axe	NC	NC	n=p|g=m	
+5	,	,	PONCT	PONCT		
+6	dont	dont	PROREL	PROREL		
+7	le	le	DET	DET	n=s|g=m	
+8	mécanisme	mécanisme	NC	NC	n=s|g=m	
+9	a	avoir	V	V	n=s|t=P|p=3	
+10	été	être	VPP	VPP	t=K	
+11	breveté	breveter	VPP	VPP	n=s|g=m|t=K	
+12	par	par	P	P		
+13	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+14	auteur	auteur	NC	NC	n=s|g=m	
+15	,	,	PONCT	PONCT		
+16	Ernő	_	NPP	NPP		
+17	Rubik	_	NPP	NPP		
+18	,	,	PONCT	PONCT		
+19	se	se	CLR	CLR	n=p,s|p=3	
+20	cache	cacher	V	V	n=s|t=P,S|p=1,3	
+21	au	à	P+D	P+D	n=s|g=m	
+22	centre	centre	NC	NC	n=s|g=m	
+23	du	de	P+D	P+D	n=s|g=m	
+24	cube	cube	NC	NC	n=s|g=m	
+25	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	Rubik	_	NC	NC		
+3	'	'	PONCT	PONCT		
+4	s	_	NPP	NPP		
+5	Cube	_	NPP	NPP		
+6	fut	être	V	V	n=s|t=J|p=3	
+7	inventé	inventer	VPP	VPP	n=s|g=m|t=K	
+8	le	le	DET	DET	n=s|g=m	
+9	19	19	ADJ	ADJ		
+10	mai	mai	NC	NC	n=s|g=m	
+11	1974	1974	NC	NC		
+12	par	par	P	P		
+13	Ernő	_	NPP	NPP		
+14	Rubik	_	NPP	NPP		
+15	[	[	PONCT	PONCT		
+16	1	1	NC	NC		
+17	]	]	PONCT	PONCT		
+18	,	,	PONCT	PONCT		
+19	un	un	DET	DET	n=s|g=m	
+20	sculpteur	sculpteur	NC	NC	n=s|g=m	
+21	et	et	CC	CC		
+22	professeur	professeur	NC	NC	n=s|g=m	
+23	d'	de	P	P		
+24	architecture	architecture	NC	NC	n=s|g=f	
+25	hongrois	hongrois	ADJ	ADJ	g=m	
+26	,	,	PONCT	PONCT		
+27	qui	qui	PROREL	PROREL	n=s	
+28	s'	se	CLR	CLR	n=p,s|p=3	
+29	intéresse	intéresser	V	V	n=s|t=P,S|p=1,3	
+30	à	à	P	P		
+31	la	la	DET	DET	n=s|g=f	
+32	géométrie	géométrie	NC	NC	n=s|g=f	
+33	et	et	CC	CC		
+34	à	à	P	P		
+35	l'	le	DET	DET	n=s	
+36	étude	étude	NC	NC	n=s|g=f	
+37	des	de	P+D	P+D	n=p	
+38	formes	forme	NC	NC	n=p|g=f	
+39	en	en	P	P		
+40	3D	_	NC	NC		
+41	.	.	PONCT	PONCT		
+
+1	Ernő	_	NPP	NPP		
+2	Rubik	_	NPP	NPP		
+3	obtient	obtenir	V	V	n=s|t=P|p=3	
+4	en	en	P	P		
+5	1976	1976	NC	NC		
+6	le	le	DET	DET	n=s|g=m	
+7	brevet	brevet	NC	NC	n=s|g=m	
+8	hongrois	hongrois	ADJ	ADJ	g=m	
+9	HU170062	_	NC	NC		
+10	pour	pour	P	P		
+11	le	le	DET	DET	n=s|g=m	
+12	"	"	PONCT	PONCT		
+13	Magic	_	NPP	NPP		
+14	Cube	_	NPP	NPP		
+15	[	[	PONCT	PONCT		
+16	2	2	ADJ	ADJ		
+17	]	]	PONCT	PONCT		
+18	"	"	PONCT	PONCT		
+19	,	,	PONCT	PONCT		
+20	mais	mais	CC	CC		
+21	ne	ne	ADV	ADV		
+22	demande	demander	V	V	n=s|t=P,S|p=1,3	
+23	pas	pas	ADV	ADV		
+24	de	de	P	P		
+25	brevet	brevet	NC	NC	n=s|g=m	
+26	international	international	ADJ	ADJ	n=s|g=m	
+27	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	produit	produit	NC	NC	n=s|g=m	
+3	est	être	V	V	n=s|t=P|p=3	
+4	testé	tester	VPP	VPP	n=s|g=m|t=K	
+5	en	en	P	P		
+6	1977	1977	NC	NC		
+7	,	,	PONCT	PONCT		
+8	et	et	CC	CC		
+9	les	les	DET	DET	n=p	
+10	premiers	premier	ADJ	ADJ	n=p|g=m	
+11	cubes	cube	NC	NC	n=p|g=m	
+12	se	se	CLR	CLR	n=p,s|p=3	
+13	vendent	vendre	V	V	n=p|t=P,S|p=3	
+14	peu	peu	ADV	ADV		
+15	après	après	ADV	ADV		
+16	dans	dans	P	P		
+17	les	les	DET	DET	n=p	
+18	boutiques	boutique	NC	NC	n=p|g=f	
+19	de	de	P	P		
+20	jouets	jouet	NC	NC	n=p|g=m	
+21	de	de	P	P		
+22	Budapest	Budapest	NPP	NPP	n=s|g=m	
+23	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	idée	idée	NC	NC	n=s|g=f	
+3	initiale	initial	ADJ	ADJ	n=s|g=f	
+4	d'	de	P	P		
+5	Ernő	_	NPP	NPP		
+6	Rubik	_	NPP	NPP		
+7	était	être	V	V	n=s|t=I|p=3	
+8	de	de	P	P		
+9	construire	construire	VINF	VINF	t=W	
+10	un	un	DET	DET	n=s|g=m	
+11	cube	cube	NC	NC	n=s|g=m	
+12	afin	_	ADV	ADV		
+13	d'	de	P	P		
+14	amener	amener	VINF	VINF	t=W	
+15	ses	ses	DET	DET	n=p|p=3|poss=s	
+16	étudiants	étudiant	NC	NC	n=p|g=m	
+17	à	à	P	P		
+18	deviner	deviner	VINF	VINF	t=W	
+19	quel	quel	DETWH	DETWH	n=s|g=m	
+20	était	être	V	V	n=s|t=I|p=3	
+21	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+22	mécanisme	mécanisme	NC	NC	n=s|g=m	
+23	interne	interne	ADJ	ADJ	n=s	
+24	,	,	PONCT	PONCT		
+25	comment	comment	ADVWH	ADVWH		
+26	les	les	DET	DET	n=p	
+27	petits	petit	ADJ	ADJ	n=p|g=m	
+28	cubes	cube	NC	NC	n=p|g=m	
+29	pouvaient	pouvoir	V	V	n=p|t=I|p=3	
+30	tourner	tourner	VINF	VINF	t=W	
+31	suivant	suivant	P	P		
+32	trois	trois	DET	DET	s=card|n=p	
+33	axes	axe	NC	NC	n=p|g=m	
+34	tout	tout	ADV	ADV		
+35	en	en	P	P		
+36	restant	rester	VPR	VPR	t=G	
+37	solidaires	solidaire	ADJ	ADJ	n=p	
+38	,	,	PONCT	PONCT		
+39	et	et	CC	CC		
+40	ainsi	ainsi	ADV	ADV		
+41	de	de	P	P		
+42	les	les	CLO	CLO	n=p|p=3	
+43	intéresser	intéresser	VINF	VINF	t=W	
+44	à	à	P	P		
+45	la	la	DET	DET	n=s|g=f	
+46	géométrie	géométrie	NC	NC	n=s|g=f	
+47	en	en	P	P		
+48	3	3	ADJ	ADJ		
+49	dimensions	dimension	NC	NC	n=p|g=f	
+50	[	[	PONCT	PONCT		
+51	1	1	NC	NC		
+52	]	]	PONCT	PONCT		
+53	.	.	PONCT	PONCT		
+
+1	Ce	ce	CLS	CLS		
+2	n'	ne	ADV	ADV		
+3	est	être	V	V	n=s|t=P|p=3	
+4	qu'	que	CS	CS		
+5	ensuite	ensuite	ADV	ADV		
+6	qu'	que	CS	CS		
+7	il	il	CLS	CLS	n=s|g=m|p=3	
+8	eut	avoir	V	V	n=s|t=J|p=3	
+9	l'	le	DET	DET	n=s	
+10	idée	idée	NC	NC	n=s|g=f	
+11	(	(	PONCT	PONCT		
+12	par	par	P	P		
+13	la	la	DET	DET	n=s|g=f	
+14	suggestion	suggestion	NC	NC	n=s|g=f	
+15	d'	de	P	P		
+16	un	un	DET	DET	n=s|g=m	
+17	ami	ami	NC	NC	n=s|g=m	
+18	)	)	PONCT	PONCT		
+19	de	de	P	P		
+20	colorer	colorer	VINF	VINF	t=W	
+21	chaque	chaque	DET	DET	n=s	
+22	face	face	NC	NC	n=s|g=f	
+23	d'	de	P	P		
+24	une	une	DET	DET	n=s|g=f	
+25	couleur	couleur	NC	NC	n=s|g=f	
+26	différente	différent	ADJ	ADJ	n=s|g=f	
+27	constatant	constater	VPR	VPR	t=G	
+28	alors	alors	ADV	ADV		
+29	qu'	que	CS	CS		
+30	après	après	P	P		
+31	mélange	mélange	NC	NC	n=s|g=m	
+32	,	,	PONCT	PONCT		
+33	l'	le	DET	DET	n=s	
+34	ordre	ordre	NC	NC	n=s|g=m	
+35	initial	initial	ADJ	ADJ	n=s|g=m	
+36	du	de	P+D	P+D	n=s|g=m	
+37	cube	cube	NC	NC	n=s|g=m	
+38	s'	se	CLR	CLR	n=p,s|p=3	
+39	avérait	avérer	V	V	n=s|t=I|p=3	
+40	extrêmement	_	ADV	ADV		
+41	difficile	difficile	ADJ	ADJ	n=s	
+42	à	à	P	P		
+43	retrouver	retrouver	VINF	VINF	t=W	
+44	(	(	PONCT	PONCT		
+45	une	une	DET	DET	n=s|g=f	
+46	chance	chance	NC	NC	n=s|g=f	
+47	sur	sur	P	P		
+48	43_252_003_274_489_856_000	43_252_003_274_489_856_000	VINF	VINF		
+49	à	à	P	P		
+50	chaque	chaque	DET	DET	n=s	
+51	rotation	rotation	NC	NC	n=s|g=f	
+52	)	)	PONCT	PONCT		
+53	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	eut	avoir	V	V	n=s|t=J|p=3	
+3	alors	alors	ADV	ADV		
+4	l'	le	DET	DET	n=s	
+5	idée	idée	NC	NC	n=s|g=f	
+6	de	de	P	P		
+7	le	le	CLO	CLO	n=s|g=m|p=3	
+8	commercialiser	commercialiser	VINF	VINF	t=W	
+9	en	en	P	P		
+10	tant	tant	ADV	ADV		
+11	que	que	CS	CS		
+12	"	"	PONCT	PONCT		
+13	casse	casse	NC	NC	n=s	
+14	-	-	PONCT	PONCT		
+15	tête	tête	NC	NC	n=s|g=f	
+16	"	"	PONCT	PONCT		
+17	géométrique	géométrique	ADJ	ADJ	n=s	
+18	et	et	CC	CC		
+19	mathématique	mathématique	ADJ	ADJ	n=s	
+20	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	Hongrie	Hongrie	NPP	NPP	n=s|g=f	
+3	,	,	PONCT	PONCT		
+4	le	le	DET	DET	n=s|g=m	
+5	cube	cube	NC	NC	n=s|g=m	
+6	gagne	gagner	V	V	n=s|t=P,S|p=1,3	
+7	en	en	P	P		
+8	popularité	popularité	NC	NC	n=s|g=f	
+9	par	par	P	P		
+10	le	le	DET	DET	n=s|g=m	
+11	bouche	bouche	NC	NC	n=s|g=f	
+12	-	-	PONCT	PONCT		
+13	à	à	P	P		
+14	-	-	PONCT	PONCT		
+15	oreille	oreille	NC	NC	n=s|g=f	
+16	,	,	PONCT	PONCT		
+17	et	et	CC	CC		
+18	est	être	V	V	n=s|t=P|p=3	
+19	bientôt	bientôt	ADV	ADV		
+20	connu	connaître	VPP	VPP	n=s|g=m|t=K	
+21	dans	dans	P	P		
+22	toute	tout	ADJ	ADJ	n=s|g=f	
+23	l'	le	DET	DET	n=s	
+24	Europe	Europe	NPP	NPP	n=s|g=f	
+25	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	septembre	septembre	NC	NC	n=s|g=m	
+3	1979	1979	NC	NC		
+4	,	,	PONCT	PONCT		
+5	à	à	P	P		
+6	l'	le	DET	DET	n=s	
+7	instigation	instigation	NC	NC	n=s|g=f	
+8	de	de	P	P		
+9	Bernard	Bernard	NPP	NPP	n=s|g=m	
+10	Farkas	_	NPP	NPP		
+11	[	[	PONCT	PONCT		
+12	3	3	ADJ	ADJ		
+13	]	]	PONCT	PONCT		
+14	,	,	PONCT	PONCT		
+15	un	un	DET	DET	n=s|g=m	
+16	accord	accord	NC	NC	n=s|g=m	
+17	est	être	V	V	n=s|t=P|p=3	
+18	signé	signer	VPP	VPP	n=s|g=m|t=K	
+19	avec	avec	P	P		
+20	Ideal	_	NPP	NPP		
+21	Toys	_	NPP	NPP		
+22	pour	pour	P	P		
+23	distribuer	distribuer	VINF	VINF	t=W	
+24	le	le	DET	DET	n=s|g=m	
+25	cube	cube	NC	NC	n=s|g=m	
+26	mondialement	_	ADV	ADV		
+27	.	.	PONCT	PONCT		
+
+1	Ideal	_	NPP	NPP		
+2	Toys	_	NPP	NPP		
+3	renomme	renommer	V	V	n=s|t=P,S|p=1,3	
+4	alors	alors	ADV	ADV		
+5	le	le	DET	DET	n=s|g=m	
+6	cube	cube	NC	NC	n=s|g=m	
+7	"	"	PONCT	PONCT		
+8	Rubik	_	NPP	NPP		
+9	'	'	PONCT	PONCT		
+10	s	_	NPP	NPP		
+11	Cube	_	NPP	NPP		
+12	"	"	PONCT	PONCT		
+13	et	et	CC	CC		
+14	les	les	DET	DET	n=p	
+15	premiers	premier	ADJ	ADJ	n=p|g=m	
+16	exemplaires	exemplaire	NC	NC	n=p|g=m	
+17	sont	être	V	V	n=p|t=P|p=3	
+18	exportés	exporter	VPP	VPP	n=p|g=m|t=K	
+19	de	de	P	P		
+20	Hongrie	Hongrie	NPP	NPP	n=s|g=f	
+21	vers	vers	P	P		
+22	mai	mai	NC	NC	n=s|g=m	
+23	1980	1980	NC	NC		
+24	,	,	PONCT	PONCT		
+25	en	en	P	P		
+26	direction	direction	NC	NC	n=s|g=f	
+27	de	de	P	P		
+28	Londres	Londres	NPP	NPP	n=s|g=m	
+29	,	,	PONCT	PONCT		
+30	de	de	P	P		
+31	New	_	NPP	NPP		
+32	York	York	NPP	NPP	n=s|g=m	
+33	et	et	CC	CC		
+34	de	de	P	P		
+35	Paris	Paris	NPP	NPP	n=s|g=m	
+36	.	.	PONCT	PONCT		
+
+1	Aujourd'hui	aujourd'hui	ADV	ADV		
+2	,	,	PONCT	PONCT		
+3	le	le	DET	DET	n=s|g=m	
+4	Rubik	_	NC	NC		
+5	'	'	PONCT	PONCT		
+6	s	_	NPP	NPP		
+7	Cube	_	NPP	NPP		
+8	est	être	V	V	n=s|t=P|p=3	
+9	copié	copier	VPP	VPP	n=s|g=m|t=K	
+10	sous	sous	P	P		
+11	licence	licence	NC	NC	n=s|g=f	
+12	par	par	P	P		
+13	de	de	DET	DET	n=p	
+14	nombreux	nombreux	ADJ	ADJ	g=m	
+15	distributeurs	distributeur	NC	NC	n=p|g=m	
+16	par	par	P	P		
+17	le	le	DET	DET	n=s|g=m	
+18	monde	monde	NC	NC	n=s|g=m	
+19	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	est	être	V	V	n=s|t=P|p=3	
+3	distribué	distribuer	VPP	VPP	n=s|g=m|t=K	
+4	par	par	P	P		
+5	Win	_	NPP	NPP		
+6	Games	_	NPP	NPP		
+7	en	en	P	P		
+8	France	France	NPP	NPP	n=s|g=f,m	
+9	et	et	CC	CC		
+10	par	par	P	P		
+11	Jumbo	_	NPP	NPP		
+12	en	en	P	P		
+13	Belgique	Belgique	NPP	NPP	n=s|g=f	
+14	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	Rubik	_	NC	NC		
+3	'	'	PONCT	PONCT		
+4	s	_	NPP	NPP		
+5	Cube	_	NPP	NPP		
+6	atteint	atteindre	V	V	n=s|t=P|p=3	
+7	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+8	maximum	maximum	NC	NC	n=s|g=m	
+9	de	de	P	P		
+10	popularité	popularité	NC	NC	n=s|g=f	
+11	au	à	P+D	P+D	n=s|g=m	
+12	début	début	NC	NC	n=s|g=m	
+13	des	de	P+D	P+D	n=p	
+14	années	année	NC	NC	n=p|g=f	
+15	1980	1980	NC	NC		
+16	.	.	PONCT	PONCT		
+
+1	Plus	plus	ADV	ADV		
+2	de	de	P	P		
+3	100	100	ADJ	ADJ		
+4	millions	million	NC	NC	n=p	
+5	de	de	P	P		
+6	cubes	cube	NC	NC	n=p|g=m	
+7	sont	être	V	V	n=p|t=P|p=3	
+8	vendus	vendre	VPP	VPP	n=p|g=m|t=K	
+9	entre	entre	P	P		
+10	1980	1980	NC	NC		
+11	et	et	CC	CC		
+12	1982	1982	NC	NC		
+13	[	[	PONCT	PONCT		
+14	4	4	NC	NC		
+15	]	]	PONCT	PONCT		
+16	,	,	PONCT	PONCT		
+17	[	[	PONCT	PONCT		
+18	h	heure	NC	NC	g=f	
+19	1	1	ADJ	ADJ		
+20	]	]	PONCT	PONCT		
+21	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	"	"	PONCT	PONCT		
+3	Rubik	_	NC	NC		
+4	'	'	PONCT	PONCT		
+5	s	_	NPP	NPP		
+6	Cube	_	NPP	NPP		
+7	"	"	PONCT	PONCT		
+8	gagne	gagner	V	V	n=s|t=P,S|p=1,3	
+9	le	le	DET	DET	n=s|g=m	
+10	prix	prix	NC	NC	g=m	
+11	des	de	P+D	P+D	n=p	
+12	distributeurs	distributeur	NC	NC	n=p|g=m	
+13	de	de	P	P		
+14	jouets	jouet	NC	NC	n=p|g=m	
+15	britanniques	britannique	ADJ	ADJ	n=p	
+16	en	en	P	P		
+17	1980	1980	NC	NC		
+18	et	et	CC	CC		
+19	de	de	DET	DET	n=p	
+20	nouveau	nouveau	ADJ	ADJ	n=s|g=m	
+21	en	en	P	P		
+22	1981	1981	NC	NC		
+23	[	[	PONCT	PONCT		
+24	5	5	ADJ	ADJ		
+25	]	]	PONCT	PONCT		
+26	.	.	PONCT	PONCT		
+
+1	De	de	DET	DET	n=p	
+2	nombreux	nombreux	ADJ	ADJ	g=m	
+3	jeux	jeu	NC	NC	n=p|g=m	
+4	similaires	similaire	ADJ	ADJ	n=p	
+5	sont	être	V	V	n=p|t=P|p=3	
+6	distribués	distribuer	VPP	VPP	n=p|g=m|t=K	
+7	peu	peu	ADV	ADV		
+8	de	de	P	P		
+9	temps	temps	NC	NC	g=m	
+10	après	après	P	P		
+11	le	le	DET	DET	n=s|g=m	
+12	Rubik	_	NC	NC		
+13	'	'	PONCT	PONCT		
+14	s	_	NPP	NPP		
+15	Cube	_	NPP	NPP		
+16	,	,	PONCT	PONCT		
+17	notamment	_	ADV	ADV		
+18	le	le	DET	DET	n=s|g=m	
+19	"	"	PONCT	PONCT		
+20	Rubik	_	NC	NC		
+21	'	'	PONCT	PONCT		
+22	s	_	NPP	NPP		
+23	Revenge	_	NPP	NPP		
+24	"	"	PONCT	PONCT		
+25	,	,	PONCT	PONCT		
+26	une	une	DET	DET	n=s|g=f	
+27	version	version	NC	NC	n=s|g=f	
+28	4	4	ADJ	ADJ		
+29	×	_	NC	NC		
+30	4	4	ADJ	ADJ		
+31	×	_	NC	NC		
+32	4	4	ADJ	ADJ		
+33	du	de	P+D	P+D	n=s|g=m	
+34	Rubik	_	NC	NC		
+35	'	'	PONCT	PONCT		
+36	s	_	NPP	NPP		
+37	Cube	_	NPP	NPP		
+38	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	existe	exister	V	V	n=s|t=P,S|p=1,3	
+3	aussi	aussi	ADV	ADV		
+4	une	une	DET	DET	n=s|g=f	
+5	version	version	NC	NC	n=s|g=f	
+6	2	2	ADJ	ADJ		
+7	×	_	NC	NC		
+8	2	2	ADJ	ADJ		
+9	×	_	NC	NC		
+10	2	2	ADJ	ADJ		
+11	et	et	CC	CC		
+12	5	5	ADJ	ADJ		
+13	×	_	NC	NC		
+14	5	5	ADJ	ADJ		
+15	×	_	NC	NC		
+16	5	5	ADJ	ADJ		
+17	(	(	PONCT	PONCT		
+18	connus	connaître	VPP	VPP	n=p|g=m|t=K	
+19	respectivement	_	ADV	ADV		
+20	sous	sous	P	P		
+21	les	les	DET	DET	n=p	
+22	noms	nom	NC	NC	n=p|g=m	
+23	de	de	P	P		
+24	"	"	PONCT	PONCT		
+25	Pocket	_	NPP	NPP		
+26	Cube	_	NPP	NPP		
+27	"	"	PONCT	PONCT		
+28	et	et	CC	CC		
+29	de	de	P	P		
+30	"	"	PONCT	PONCT		
+31	Professor	_	NPP	NPP		
+32	'	'	PONCT	PONCT		
+33	s	_	NPP	NPP		
+34	Cube	_	NPP	NPP		
+35	"	"	PONCT	PONCT		
+36	)	)	PONCT	PONCT		
+37	,	,	PONCT	PONCT		
+38	et	et	CC	CC		
+39	des	de	P+D	P+D	n=p	
+40	versions	version	NC	NC	n=p|g=f	
+41	dans	dans	P	P		
+42	d'	de	DET	DET	n=p	
+43	autres	autre	ADJ	ADJ	n=p	
+44	formes	forme	NC	NC	n=p|g=f	
+45	,	,	PONCT	PONCT		
+46	comme	comme	P	P		
+47	la	la	DET	DET	n=s|g=f	
+48	pyramide	pyramide	NC	NC	n=s|g=f	
+49	ou	ou	CC	CC		
+50	le	le	DET	DET	n=s|g=m	
+51	dodécaèdre	_	NC	NC		
+52	régulier	régulier	ADJ	ADJ	n=s|g=m	
+53	(	(	PONCT	PONCT		
+54	1212	1212	NC	NC		
+55	)	)	PONCT	PONCT		
+56	.	.	PONCT	PONCT		
+
+1	Depuis	depuis	P	P		
+2	juin	juin	NC	NC	n=s|g=m	
+3	2008	2008	NC	NC		
+4	,	,	PONCT	PONCT		
+5	la	la	DET	DET	n=s|g=f	
+6	marque	marque	NC	NC	n=s|g=f	
+7	V	_	NPP	NPP		
+8	-	-	PONCT	PONCT		
+9	Cube	cube	NC	NC	n=s|g=m	
+10	vend	vendre	V	V	n=s|t=P|p=3	
+11	les	les	DET	DET	n=p	
+12	modèles	modèle	NC	NC	n=p|g=m	
+13	en	en	P	P		
+14	6	6	NC	NC		
+15	×	_	NPP	NPP		
+16	6	6	ADJ	ADJ		
+17	×	_	NC	NC		
+18	6	6	ADJ	ADJ		
+19	,	,	PONCT	PONCT		
+20	7	7	ADJ	ADJ		
+21	×	_	NC	NC		
+22	7	7	ADJ	ADJ		
+23	×	_	NC	NC		
+24	7	7	ADJ	ADJ		
+25	et	et	CC	CC		
+26	8	8	ADJ	ADJ		
+27	×	_	NC	NC		
+28	8	8	ADJ	ADJ		
+29	×	_	NC	NC		
+30	8	8	ADJ	ADJ		
+31	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	1981	1981	NC	NC		
+3	,	,	PONCT	PONCT		
+4	Patrick	Patrick	NPP	NPP	n=s|g=m	
+5	Bossert	_	NPP	NPP		
+6	,	,	PONCT	PONCT		
+7	écolier	écolier	NC	NC	n=s|g=m	
+8	britannique	britannique	ADJ	ADJ	n=s	
+9	de	de	P	P		
+10	douze	douze	DET	DET	s=card|n=p	
+11	ans	an	NC	NC	n=p|g=m	
+12	,	,	PONCT	PONCT		
+13	publie	publier	V	V	n=s|t=P,S|p=1,3	
+14	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+15	solution	solution	NC	NC	n=s|g=f	
+16	détaillée	détailler	ADJ	ADJ	n=s|g=f|t=K	
+17	.	.	PONCT	PONCT		
+
+1	You	_	NPP	NPP		
+2	can	_	ADJ	ADJ		
+3	do	do	NC	NC	g=m	
+4	the	_	ADV	ADV		
+5	cube	cuber	V	V	n=s|t=P,S|p=1,3	
+6	s'	se	CLR	CLR	n=p,s|p=3	
+7	est	être	V	V	n=s|t=P|p=3	
+8	vendu	vendre	VPP	VPP	n=s|g=m|t=K	
+9	à	à	P	P		
+10	1,5	1,5	ADJ	ADJ		
+11	million	million	NC	NC	n=s	
+12	d'	de	P	P		
+13	exemplaires	exemplaire	NC	NC	n=p|g=m	
+14	à	à	P	P		
+15	travers	travers	NC	NC	g=m	
+16	le	le	DET	DET	n=s|g=m	
+17	monde	monde	NC	NC	n=s|g=m	
+18	[	[	PONCT	PONCT		
+19	6	6	ADJ	ADJ		
+20	]	]	PONCT	PONCT		
+21	,	,	PONCT	PONCT		
+22	dans	dans	P	P		
+23	17	17	ADJ	ADJ		
+24	éditions	édition	NC	NC	n=p|g=f	
+25	différentes	différent	ADJ	ADJ	n=p|g=f	
+26	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	est	être	V	V	n=s|t=P|p=3	
+3	numéro	numéro	NC	NC	n=s|g=m	
+4	1	1	NC	NC		
+5	des	de	P+D	P+D	n=p	
+6	best	_	NPP	NPP		
+7	-	-	PONCT	PONCT		
+8	sellers	_	NC	NC		
+9	du	de	P+D	P+D	n=s|g=m	
+10	Times	_	NPP	NPP		
+11	et	et	CC	CC		
+12	du	de	P+D	P+D	n=s|g=m	
+13	New	_	NPP	NPP		
+14	York	York	NPP	NPP	n=s|g=m	
+15	Times	_	NPP	NPP		
+16	en	en	P	P		
+17	1981	1981	NC	NC		
+18	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	10	10	ADJ	ADJ		
+3	novembre	novembre	NC	NC	n=s|g=m	
+4	2016	2016	NC	NC		
+5	,	,	PONCT	PONCT		
+6	la	la	DET	DET	n=s|g=f	
+7	Cour	cour	NC	NC	n=s|g=f	
+8	de	de	P	P		
+9	justice	justice	NC	NC	n=s|g=f	
+10	de	de	P	P		
+11	l'	le	DET	DET	n=s	
+12	UE	Union_Européenne	NPP	NPP	n=s|g=f	
+13	annule	annuler	V	V	n=s|t=P,S|p=1,3	
+14	l'	le	DET	DET	n=s	
+15	enregistrement	enregistrement	NC	NC	n=s|g=m	
+16	en	en	P	P		
+17	tant	tant	ADV	ADV		
+18	que	que	PROREL	PROREL		
+19	marque	marquer	V	V	n=s|t=P,S|p=1,3	
+20	européenne	européen	ADJ	ADJ	n=s|g=f	
+21	de	de	P	P		
+22	la	la	DET	DET	n=s|g=f	
+23	forme	forme	NC	NC	n=s|g=f	
+24	du	de	P+D	P+D	n=s|g=m	
+25	Rubik	_	NC	NC		
+26	'	'	PONCT	PONCT		
+27	s	_	ADV	ADV		
+28	cube	cube	NC	NC	n=s|g=m	
+29	,	,	PONCT	PONCT		
+30	considérant	considérer	VPR	VPR	t=G	
+31	que	que	CS	CS		
+32	cet	cet	DET	DET	n=s|g=m	
+33	enregistrement	enregistrement	NC	NC	n=s|g=m	
+34	protège	protéger	V	V	n=s|t=P,S|p=1,3	
+35	non	non	ADV	ADV		
+36	pas	pas	ADV	ADV		
+37	une	une	DET	DET	n=s|g=f	
+38	marque	marque	NC	NC	n=s|g=f	
+39	mais	mais	CC	CC		
+40	une	une	DET	DET	n=s|g=f	
+41	"	"	PONCT	PONCT		
+42	solution	solution	NC	NC	n=s|g=f	
+43	technique	technique	ADJ	ADJ	n=s	
+44	"	"	PONCT	PONCT		
+45	,	,	PONCT	PONCT		
+46	à	à	P	P		
+47	savoir	savoir	VINF	VINF	t=W	
+48	la	la	DET	DET	n=s|g=f	
+49	capacité	capacité	NC	NC	n=s|g=f	
+50	de	de	P	P		
+51	rotation	rotation	NC	NC	n=s|g=f	
+52	des	de	P+D	P+D	n=p	
+53	faces	face	NC	NC	n=p|g=f	
+54	du	de	P+D	P+D	n=s|g=m	
+55	cube	cube	NC	NC	n=s|g=m	
+56	,	,	PONCT	PONCT		
+57	qui	qui	PROREL	PROREL	n=s	
+58	dépend	dépendre	V	V	n=s|t=P|p=3	
+59	d'	de	P	P		
+60	un	un	DET	DET	n=s|g=m	
+61	brevet	brevet	NC	NC	n=s|g=m	
+62	plutôt	plutôt	ADV	ADV		
+63	que	que	CS	CS		
+64	d'	de	P	P		
+65	une	une	DET	DET	n=s|g=f	
+66	marque	marque	NC	NC	n=s|g=f	
+67	[	[	PONCT	PONCT		
+68	7	7	ADJ	ADJ		
+69	]	]	PONCT	PONCT		
+70	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	Rubik	_	NC	NC		
+3	'	'	PONCT	PONCT		
+4	s	_	NPP	NPP		
+5	Cube	_	NPP	NPP		
+6	est	être	V	V	n=s|t=P|p=3	
+7	un	un	DET	DET	n=s|g=m	
+8	cube	cube	NC	NC	n=s|g=m	
+9	dont	dont	PROREL	PROREL		
+10	chaque	chaque	DET	DET	n=s	
+11	face	face	NC	NC	n=s|g=f	
+12	est	être	V	V	n=s|t=P|p=3	
+13	divisée	diviser	VPP	VPP	n=s|g=f|t=K	
+14	en	en	P	P		
+15	neuf	neuf	DET	DET	s=card|n=p	
+16	cubes	cube	NC	NC	n=p|g=m	
+17	miniatures	miniature	ADJ	ADJ	n=p	
+18	qui	qui	PROREL	PROREL	n=s	
+19	peuvent	pouvoir	V	V	n=p|t=P|p=3	
+20	tourner	tourner	VINF	VINF	t=W	
+21	indépendamment	_	ADV	ADV		
+22	les	les	DET	DET	n=p	
+23	uns	uns	PRO	PRO	n=p|g=m	
+24	des	de	P+D	P+D	n=p	
+25	autres	autres	PRO	PRO	n=p|g=f,m	
+26	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	fait	fait	NC	NC	n=s|g=m	
+3	le	le	DET	DET	n=s|g=m	
+4	cube	cube	NC	NC	n=s|g=m	
+5	est	être	V	V	n=s|t=P|p=3	
+6	composé	composer	VPP	VPP	n=s|g=m|t=K	
+7	d'	de	P	P		
+8	un	un	DET	DET	n=s|g=m	
+9	axe	axe	NC	NC	n=s|g=m	
+10	central	central	ADJ	ADJ	n=s|g=m	
+11	portant	porter	VPR	VPR	t=G	
+12	les	les	DET	DET	n=p	
+13	centres	centre	NC	NC	n=p|g=m	
+14	des	de	P+D	P+D	n=p	
+15	6	6	ADJ	ADJ		
+16	faces	face	NC	NC	n=p|g=f	
+17	,	,	PONCT	PONCT		
+18	de	de	P	P		
+19	8	8	NC	NC		
+20	cubes	cube	NC	NC	n=p|g=m	
+21	de	de	P	P		
+22	coin	coin	NC	NC	n=s|g=m	
+23	à	à	P	P		
+24	3	3	ADJ	ADJ		
+25	faces	face	NC	NC	n=p|g=f	
+26	visibles	visible	ADJ	ADJ	n=p	
+27	et	et	CC	CC		
+28	de	de	P	P		
+29	12	12	NC	NC		
+30	cubes	cube	NC	NC	n=p|g=m	
+31	d'	de	P	P		
+32	arête	arête	NC	NC	n=s|g=f	
+33	à	à	P	P		
+34	2	2	ADJ	ADJ		
+35	faces	face	NC	NC	n=p|g=f	
+36	visibles	visible	ADJ	ADJ	n=p	
+37	.	.	PONCT	PONCT		
+
+1	À	à	P	P		
+2	l'	le	DET	DET	n=s	
+3	état	état	NC	NC	n=s|g=m	
+4	final	final	ADJ	ADJ	n=s|g=m	
+5	,	,	PONCT	PONCT		
+6	chaque	chaque	DET	DET	n=s	
+7	face	face	NC	NC	n=s|g=f	
+8	du	de	P+D	P+D	n=s|g=m	
+9	cube	cube	NC	NC	n=s|g=m	
+10	de	de	P	P		
+11	Rubik	_	NPP	NPP		
+12	est	être	V	V	n=s|t=P|p=3	
+13	d'	de	P	P		
+14	une	une	DET	DET	n=s|g=f	
+15	couleur	couleur	NC	NC	n=s|g=f	
+16	homogène	homogène	ADJ	ADJ	n=s	
+17	et	et	CC	CC		
+18	différente	différent	ADJ	ADJ	n=s|g=f	
+19	des	de	P+D	P+D	n=p	
+20	autres	autres	PRO	PRO	n=p|g=f,m	
+21	,	,	PONCT	PONCT		
+22	mais	mais	CC	CC		
+23	la	la	DET	DET	n=s|g=f	
+24	rotation	rotation	NC	NC	n=s|g=f	
+25	indépendante	indépendant	ADJ	ADJ	n=s|g=f	
+26	de	de	P	P		
+27	chaque	chaque	DET	DET	n=s	
+28	face	face	NC	NC	n=s|g=f	
+29	provoque	provoquer	V	V	n=s|t=P,S|p=1,3	
+30	un	un	DET	DET	n=s|g=m	
+31	mélange	mélange	NC	NC	n=s|g=m	
+32	des	de	P+D	P+D	n=p	
+33	petits	petit	ADJ	ADJ	n=p|g=m	
+34	cubes	cube	NC	NC	n=p|g=m	
+35	de	de	P	P		
+36	coin	coin	NC	NC	n=s|g=m	
+37	et	et	CC	CC		
+38	d'	de	P	P		
+39	arête	arête	NC	NC	n=s|g=f	
+40	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	but	but	NC	NC	n=s|g=m	
+3	du	de	P+D	P+D	n=s|g=m	
+4	jeu	jeu	NC	NC	n=s|g=m	
+5	est	être	V	V	n=s|t=P|p=3	
+6	,	,	PONCT	PONCT		
+7	après	après	P	P		
+8	avoir	avoir	VINF	VINF	t=W	
+9	mélangé	mélanger	VPP	VPP	n=s|g=m|t=K	
+10	les	les	DET	DET	n=p	
+11	six	six	ADJ	ADJ	s=card|n=p	
+12	faces	face	NC	NC	n=p|g=f	
+13	,	,	PONCT	PONCT		
+14	de	de	P	P		
+15	manipuler	manipuler	VINF	VINF	t=W	
+16	le	le	DET	DET	n=s|g=m	
+17	cube	cube	NC	NC	n=s|g=m	
+18	pour	pour	P	P		
+19	tenter	tenter	VINF	VINF	t=W	
+20	de	de	P	P		
+21	lui	lui	CLO	CLO	n=s|p=3	
+22	rendre	rendre	VINF	VINF	t=W	
+23	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+24	apparence	apparence	NC	NC	n=s|g=f	
+25	d'	de	P	P		
+26	origine	origine	NC	NC	n=s|g=f	
+27	,	,	PONCT	PONCT		
+28	avec	avec	P	P		
+29	les	les	DET	DET	n=p	
+30	six	six	ADJ	ADJ	s=card|n=p	
+31	faces	face	NC	NC	n=p|g=f	
+32	de	de	P	P		
+33	couleurs	couleur	NC	NC	n=p|g=f	
+34	unies	unir	VPP	VPP	n=p|g=f|t=K	
+35	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	couleurs	couleur	NC	NC	n=p|g=f	
+3	des	de	P+D	P+D	n=p	
+4	faces	face	NC	NC	n=p|g=f	
+5	du	de	P+D	P+D	n=s|g=m	
+6	cube	cube	NC	NC	n=s|g=m	
+7	original	original	ADJ	ADJ	n=s|g=m	
+8	sont	être	V	V	n=p|t=P|p=3	
+9	:	:	PONCT	PONCT		
+10	blanc	blanc	ADJ	ADJ	n=s|g=m	
+11	en	en	P	P		
+12	face	face	NC	NC	n=s|g=f	
+13	de	de	P	P		
+14	jaune	jaune	NC	NC	n=s	
+15	,	,	PONCT	PONCT		
+16	vert	vert	ADJ	ADJ	n=s|g=m	
+17	en	en	P	P		
+18	face	face	NC	NC	n=s|g=f	
+19	de	de	P	P		
+20	bleu	bleu	NC	NC	n=s|g=m	
+21	,	,	PONCT	PONCT		
+22	orange	orange	NC	NC	n=s	
+23	en	en	P	P		
+24	face	face	NC	NC	n=s|g=f	
+25	de	de	P	P		
+26	rouge	rouge	NC	NC	n=s	
+27	.	.	PONCT	PONCT		
+
+1	Sur	sur	P	P		
+2	les	les	DET	DET	n=p	
+3	versions	version	NC	NC	n=p|g=f	
+4	non	non	ADV	ADV		
+5	originales	original	ADJ	ADJ	n=p|g=f	
+6	,	,	PONCT	PONCT		
+7	les	les	DET	DET	n=p	
+8	positions	position	NC	NC	n=p|g=f	
+9	relatives	relatif	ADJ	ADJ	n=p|g=f	
+10	des	de	P+D	P+D	n=p	
+11	faces	face	NC	NC	n=p|g=f	
+12	de	de	P	P		
+13	couleurs	couleur	NC	NC	n=p|g=f	
+14	et	et	CC	CC		
+15	même	même	ADV	ADV		
+16	parfois	parfois	ADV	ADV		
+17	les	les	DET	DET	n=p	
+18	couleurs	couleur	NC	NC	n=p|g=f	
+19	peuvent	pouvoir	V	V	n=p|t=P|p=3	
+20	changer	changer	VINF	VINF	t=W	
+21	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	en	en	CLO	CLO		
+3	est	être	V	V	n=s|t=P|p=3	
+4	sorti	sortir	VPP	VPP	n=s|g=m|t=K	
+5	de	de	DET	DET	n=p	
+6	nombreuses	nombreux	ADJ	ADJ	n=p|g=f	
+7	variantes	variante	NC	NC	n=p|g=f	
+8	de	de	P	P		
+9	forme	forme	NC	NC	n=s|g=f	
+10	et	et	CC	CC		
+11	de	de	P	P		
+12	décoration	décoration	NC	NC	n=s|g=f	
+13	(	(	PONCT	PONCT		
+14	voir	voir	VINF	VINF	t=W	
+15	la	la	DET	DET	n=s|g=f	
+16	section	section	NC	NC	n=s|g=f	
+17	Variantes	_	NPP	NPP		
+18	)	)	PONCT	PONCT		
+19	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	pratique	pratique	NC	NC	n=s|g=f	
+3	qui	qui	PROREL	PROREL	n=s	
+4	consiste	consister	V	V	n=s|t=P,S|p=1,3	
+5	à	à	P	P		
+6	résoudre	résoudre	VINF	VINF	t=W	
+7	le	le	DET	DET	n=s|g=m	
+8	Rubik	_	NC	NC		
+9	'	'	PONCT	PONCT		
+10	s	_	NPP	NPP		
+11	Cube	_	NPP	NPP		
+12	le	le	DET	DET	n=s|g=m	
+13	plus	plus	ADV	ADV		
+14	rapidement	_	ADV	ADV		
+15	possible	possible	ADJ	ADJ	n=s	
+16	est	être	V	V	n=s|t=P|p=3	
+17	le	le	DET	DET	n=s|g=m	
+18	speedcubing	_	NC	NC		
+19	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	utilisant	utiliser	VPR	VPR	t=G	
+3	la	la	DET	DET	n=s|g=f	
+4	méthode	méthode	NC	NC	n=s|g=f	
+5	la	la	DET	DET	n=s|g=f	
+6	plus	plus	ADV	ADV		
+7	simple	simple	ADJ	ADJ	n=s	
+8	,	,	PONCT	PONCT		
+9	on	on	CLS	CLS	n=s|p=3	
+10	peut	pouvoir	V	V	n=s|t=P|p=3	
+11	y	y	CLO	CLO		
+12	arriver	arriver	VINF	VINF	t=W	
+13	en	en	P	P		
+14	moins	moins	ADV	ADV		
+15	d'	de	P	P		
+16	une	une	DET	DET	n=s|g=f	
+17	minute	minute	NC	NC	n=s|g=f	
+18	avec	avec	P	P		
+19	suffisamment	_	ADV	ADV		
+20	d'	de	P	P		
+21	entraînement	entraînement	NC	NC	n=s|g=m	
+22	[	[	PONCT	PONCT		
+23	h	heure	NC	NC	g=f	
+24	2	2	ADJ	ADJ		
+25	]	]	PONCT	PONCT		
+26	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	meilleurs	meilleur	ADJ	ADJ	n=p|g=m	
+3	le	le	CLO	CLO	n=s|g=m|p=3	
+4	font	faire	V	V	n=p|t=P|p=3	
+5	en	en	P	P		
+6	moins	moins	ADV	ADV		
+7	de	de	P	P		
+8	dix	dix	DET	DET	s=card|n=p	
+9	secondes	second	ADJ	ADJ	n=p|g=f	
+10	.	.	PONCT	PONCT		
+
+1	Cube	cube	NC	NC	n=s|g=m	
+2	dans	dans	P	P		
+3	un	un	DET	DET	n=s|g=m	
+4	état	état	NC	NC	n=s|g=m	
+5	mélangé	mélanger	VPP	VPP	n=s|g=m|t=K	
+
+1	Cube	cube	NC	NC	n=s|g=m	
+2	dans	dans	P	P		
+3	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+4	état	état	NC	NC	n=s|g=m	
+5	résolu	résoudre	VPP	VPP	n=s|g=m|t=K	
+
+1	Mécanisme	mécanisme	NC	NC	n=s|g=m	
+2	interne	interne	ADJ	ADJ	n=s	
+3	du	de	P+D	P+D	n=s|g=m	
+4	cube	cube	NC	NC	n=s|g=m	
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	existe	exister	V	V	n=s|t=P,S|p=1,3	
+3	différentes	différent	ADJ	ADJ	n=p|g=f	
+4	techniques	technique	NC	NC	n=p|g=f	
+5	,	,	PONCT	PONCT		
+6	consistant	consister	VPR	VPR	t=G	
+7	à	à	P	P		
+8	réaliser	réaliser	VINF	VINF	t=W	
+9	des	des	DET	DET	n=p	
+10	séquences	séquence	NC	NC	n=p|g=f	
+11	comportant	comporter	VPR	VPR	t=G	
+12	une	une	DET	DET	n=s|g=f	
+13	dizaine	dizaine	NC	NC	n=s|g=f	
+14	de	de	P	P		
+15	mouvements	mouvement	NC	NC	n=p|g=m	
+16	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	techniques	technique	NC	NC	n=p|g=f	
+3	les	les	DET	DET	n=p	
+4	plus	plus	ADV	ADV		
+5	utilisées	utiliser	VPP	VPP	n=p|g=f|t=K	
+6	consistent	consister	V	V	n=p|t=P,S|p=3	
+7	à	à	P	P		
+8	construire	construire	VINF	VINF	t=W	
+9	la	la	DET	DET	n=s|g=f	
+10	"	"	PONCT	PONCT		
+11	croix	croix	NC	NC	g=f	
+12	"	"	PONCT	PONCT		
+13	d'	de	P	P		
+14	une	une	DET	DET	n=s|g=f	
+15	face	face	NC	NC	n=s|g=f	
+16	avant	avant	P	P		
+17	de	de	P	P		
+18	finir	finir	VINF	VINF	t=W	
+19	cette	cette	DET	DET	n=s|g=f	
+20	face	face	NC	NC	n=s|g=f	
+21	.	.	PONCT	PONCT		
+
+1	On	on	CLS	CLS	n=s|p=3	
+2	termine	terminer	V	V	n=s|t=P,S|p=1,3	
+3	ensuite	ensuite	ADV	ADV		
+4	les	les	DET	DET	n=p	
+5	arêtes	arête	NC	NC	n=p|g=f	
+6	de	de	P	P		
+7	la	la	DET	DET	n=s|g=f	
+8	tranche	tranche	NC	NC	n=s|g=f	
+9	intermédiaire	intermédiaire	ADJ	ADJ	n=s	
+10	.	.	PONCT	PONCT		
+
+1	Puis	puis	CC	CC		
+2	on	on	CLS	CLS	n=s|p=3	
+3	résout	résoudre	V	V	n=s|t=P|p=3	
+4	la	la	DET	DET	n=s|g=f	
+5	dernière	dernier	ADJ	ADJ	n=s|g=f	
+6	face	face	NC	NC	n=s|g=f	
+7	en	en	P	P		
+8	orientant	orienter	VPR	VPR	t=G	
+9	puis	_	ADV	ADV		
+10	permutant	permuter	VPR	VPR	t=G	
+11	les	les	DET	DET	n=p	
+12	cubes	cube	NC	NC	n=p|g=m	
+13	qui	qui	PROREL	PROREL	n=s	
+14	la	la	CLO	CLO	n=s|g=f|p=3	
+15	constituent	constituer	V	V	n=p|t=P,S|p=3	
+16	.	.	PONCT	PONCT		
+
+1	Ces	ces	DET	DET	n=p	
+2	méthodes	méthode	NC	NC	n=p|g=f	
+3	sont	être	V	V	n=p|t=P|p=3	
+4	nommées	nommer	VPP	VPP	n=p|g=f|t=K	
+5	Layer	_	NPP	NPP		
+6	by	_	NPP	NPP		
+7	Layer	_	NPP	NPP		
+8	pour	pour	P	P		
+9	"	"	PONCT	PONCT		
+10	couche	couche	NC	NC	n=s|g=f	
+11	par	par	P	P		
+12	couche	couche	NC	NC	n=s|g=f	
+13	"	"	PONCT	PONCT		
+14	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	nombre	nombre	NC	NC	n=s|g=m	
+3	de	de	P	P		
+4	positions	position	NC	NC	n=p|g=f	
+5	différentes	différent	ADJ	ADJ	n=p|g=f	
+6	est	être	V	V	n=s|t=P|p=3	
+7	supérieur	supérieur	ADJ	ADJ	n=s|g=m	
+8	à	à	P	P		
+9	43	43	NC	NC		
+10	trillions	trillion	NC	NC	n=p|g=m	
+11	.	.	PONCT	PONCT		
+
+1	Ainsi	ainsi	ADV	ADV		
+2	,	,	PONCT	PONCT		
+3	en	en	P	P		
+4	passant	passer	VPR	VPR	t=G	
+5	en	en	P	P		
+6	revue	revue	NC	NC	n=s|g=f	
+7	un_milliard	un_milliard	NPP	NPP		
+8	de	de	P	P		
+9	combinaisons	combinaison	NC	NC	n=p|g=f	
+10	différentes	différent	ADJ	ADJ	n=p|g=f	
+11	par	par	P	P		
+12	seconde	second	ADJ	ADJ	n=s|g=f	
+13	,	,	PONCT	PONCT		
+14	il	il	CLS	CLS	n=s|g=m|p=3	
+15	faudrait	falloir	V	V	n=s|t=C|p=3	
+16	plus	plus	ADV	ADV		
+17	de	de	P	P		
+18	1_200	1_200	ADJ	ADJ		
+19	ans	an	NC	NC	n=p|g=m	
+20	pour	pour	P	P		
+21	toutes	tout	ADJ	ADJ	n=p|g=f	
+22	les	les	CLO	CLO	n=p|p=3	
+23	épuiser	épuiser	VINF	VINF	t=W	
+24	[	[	PONCT	PONCT		
+25	8	8	NC	NC		
+26	]	]	PONCT	PONCT		
+27	.	.	PONCT	PONCT		
+
+1	Ou	ou	CC	CC		
+2	encore	encore	ADV	ADV		
+3	,	,	PONCT	PONCT		
+4	des	de	P+D	P+D	n=p	
+5	Rubik	_	NC	NC		
+6	'	'	PONCT	PONCT		
+7	s	_	ADV	ADV		
+8	cubes	cube	NC	NC	n=p|g=m	
+9	classiques	classique	ADJ	ADJ	n=p	
+10	(	(	PONCT	PONCT		
+11	57	57	ADJ	ADJ		
+12	millimètres	millimètre	NC	NC	n=p|g=m	
+13	de	de	P	P		
+14	côté	côté	NC	NC	n=s|g=m	
+15	)	)	PONCT	PONCT		
+16	chacun	chacun	PRO	PRO	n=s|g=m	
+17	dans	dans	P	P		
+18	une	une	DET	DET	n=s|g=f	
+19	configuration	configuration	NC	NC	n=s|g=f	
+20	différente	différent	ADJ	ADJ	n=s|g=f	
+21	pourraient	pouvoir	V	V	n=p|t=C|p=3	
+22	recouvrir	recouvrir	VINF	VINF	t=W	
+23	la	la	DET	DET	n=s|g=f	
+24	surface	surface	NC	NC	n=s|g=f	
+25	entière	entier	ADJ	ADJ	n=s|g=f	
+26	de	de	P	P		
+27	la	la	DET	DET	n=s|g=f	
+28	Terre	_	NPP	NPP		
+29	sur	sur	P	P		
+30	une	une	DET	DET	n=s|g=f	
+31	hauteur	hauteur	NC	NC	n=s|g=f	
+32	d'	de	P	P		
+33	environ	environ	ADV	ADV		
+34	six	six	DET	DET	s=card|n=p	
+35	étages	étage	NC	NC	n=p|g=m	
+36	.	.	PONCT	PONCT		
+
+1	Plus	plus	ADV	ADV		
+2	précisément	_	ADV	ADV		
+3	,	,	PONCT	PONCT		
+4	il	il	CLS	CLS	n=s|g=m|p=3	
+5	y	y	CLO	CLO		
+6	a	_	VPR	VPR		
+
+1	8	8	NC	NC		
+
+1	!	!	PONCT	PONCT		
+
+1	×	_	NC	NC		
+
+1	3	3	NC	NC		
+
+1	7	7	NC	NC		
+
+1	×	_	NC	NC		
+
+1	12	12	NC	NC		
+
+1	!	!	PONCT	PONCT		
+
+1	×	_	NC	NC		
+
+1	2	2	NC	NC		
+
+1	10	10	NC	NC		
+
+1	=	_	VIMP	VIMP		
+
+1	43	43	NC	NC		
+
+1	252	252	NC	NC		
+
+1	003	003	NC	NC		
+
+1	274	274	NC	NC		
+
+1	489	489	NC	NC		
+
+1	856	856	NC	NC		
+
+1	000	000	NC	NC		
+
+1	{	{	PONCT	PONCT		
+2	\	\	PONCT	PONCT		
+3	displaystyle	_	NC	NC		
+4	8	8	ADJ	ADJ		
+5	!	!	PONCT	PONCT		
+6	\	\	PONCT	PONCT		
+7	times	_	NC	NC		
+8	3	3	ADJ	ADJ		
+9	^	^	PONCT	PONCT		
+10	{	{	PONCT	PONCT		
+11	7	7	ADJ	ADJ		
+12	}	}	PONCT	PONCT		
+13	\	\	PONCT	PONCT		
+14	times	_	NC	NC		
+15	12	12	ADJ	ADJ		
+16	!	!	PONCT	PONCT		
+17	\	\	PONCT	PONCT		
+18	times	_	NC	NC		
+19	2	2	ADJ	ADJ		
+20	^	^	PONCT	PONCT		
+21	{	{	PONCT	PONCT		
+22	10	10	ADJ	ADJ		
+23	}	}	PONCT	PONCT		
+24	=	=	P	P		
+25	43	43	NC	NC		
+26	\	\	PONCT	PONCT		
+27	252	252	NC	NC		
+28	\	\	PONCT	PONCT		
+29	003	003	NC	NC		
+30	\	\	PONCT	PONCT		
+31	274	274	NC	NC		
+32	\	\	PONCT	PONCT		
+33	489	489	NC	NC		
+34	\	\	PONCT	PONCT		
+35	856	856	NC	NC		
+36	\	\	PONCT	PONCT		
+37	000	000	ADJ	ADJ		
+38	}	}	PONCT	PONCT		
+
+1	combinaisons	combinaison	NC	NC	n=p|g=f	
+2	[	[	PONCT	PONCT		
+3	9	9	ADJ	ADJ		
+4	]	]	PONCT	PONCT		
+5	,	,	PONCT	PONCT		
+6	ce	ce	PRO	PRO	n=s	
+7	qui	qui	PROREL	PROREL	n=s	
+8	se	se	CLR	CLR	n=p,s|p=3	
+9	calcule	calculer	V	V	n=s|t=P,S|p=1,3	
+10	comme	comme	CS	CS		
+11	suit	suivre	V	V	n=s|t=P|p=3	
+12	[	[	PONCT	PONCT		
+13	h	heure	NC	NC	g=f	
+14	3	3	ADJ	ADJ		
+15	]	]	PONCT	PONCT		
+16	:	:	PONCT	PONCT		
+
+1	Ce	ce	PRO	PRO	n=s	
+2	qui	qui	PROREL	PROREL	n=s	
+3	donne	donner	V	V	n=s|t=P,S|p=1,3	
+4	:	:	PONCT	PONCT		
+
+1	2	2	NC	NC		
+
+1	11	11	NC	NC		
+
+1	×	_	NC	NC		
+
+1	3	3	NC	NC		
+
+1	7	7	NC	NC		
+
+1	×	_	NC	NC		
+
+1	12	12	NC	NC		
+
+1	!	!	PONCT	PONCT		
+
+1	×	_	NC	NC		
+
+1	8	8	NC	NC		
+
+1	!	!	PONCT	PONCT		
+
+1	2	2	NC	NC		
+
+1	=	_	VIMP	VIMP		
+
+1	2	2	NC	NC		
+
+1	10	10	NC	NC		
+
+1	×	_	NC	NC		
+
+1	3	3	NC	NC		
+
+1	7	7	NC	NC		
+
+1	×	_	NC	NC		
+
+1	12	12	NC	NC		
+
+1	!	!	PONCT	PONCT		
+
+1	×	_	NC	NC		
+
+1	8	8	NC	NC		
+
+1	!	!	PONCT	PONCT		
+
+1	{	{	PONCT	PONCT		
+2	\	\	PONCT	PONCT		
+3	displaystyle	_	NC	NC		
+4	{	{	PONCT	PONCT		
+5	\	\	PONCT	PONCT		
+6	frac	frac	NC	NC	n=s|g=m	
+7	{	{	PONCT	PONCT		
+8	2	2	ADJ	ADJ		
+9	^	^	PONCT	PONCT		
+10	{	{	PONCT	PONCT		
+11	11	11	NC	NC		
+12	}	}	PONCT	PONCT		
+13	\	\	PONCT	PONCT		
+14	times	_	NC	NC		
+15	3	3	ADJ	ADJ		
+16	^	^	PONCT	PONCT		
+17	{	{	PONCT	PONCT		
+18	7	7	ADJ	ADJ		
+19	}	}	PONCT	PONCT		
+20	\	\	PONCT	PONCT		
+21	times	_	NC	NC		
+22	12	12	ADJ	ADJ		
+23	!	!	PONCT	PONCT		
+24	\	\	PONCT	PONCT		
+25	times	_	NC	NC		
+26	8	8	ADJ	ADJ		
+27	!	!	PONCT	PONCT		
+28	}	}	PONCT	PONCT		
+29	{	{	PONCT	PONCT		
+30	2	2	ADJ	ADJ		
+31	}	}	PONCT	PONCT		
+32	}	}	PONCT	PONCT		
+33	=	=	P	P		
+34	2	2	NC	NC		
+35	^	^	PONCT	PONCT		
+36	{	{	PONCT	PONCT		
+37	10	10	ADJ	ADJ		
+38	}	}	PONCT	PONCT		
+39	\	\	PONCT	PONCT		
+40	times	_	NC	NC		
+41	3	3	ADJ	ADJ		
+42	^	^	PONCT	PONCT		
+43	{	{	PONCT	PONCT		
+44	7	7	ADJ	ADJ		
+45	}	}	PONCT	PONCT		
+46	\	\	PONCT	PONCT		
+47	times	_	NC	NC		
+48	12	12	ADJ	ADJ		
+49	!	!	PONCT	PONCT		
+50	\	\	PONCT	PONCT		
+51	times	_	NC	NC		
+52	8	8	ADJ	ADJ		
+53	!	!	PONCT	PONCT		
+54	}	}	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	centres	centre	NC	NC	n=p|g=m	
+3	ne	ne	ADV	ADV		
+4	sont	être	V	V	n=p|t=P|p=3	
+5	pas	pas	ADV	ADV		
+6	considérés	considérer	VPP	VPP	n=p|g=m|t=K	
+7	dans	dans	P	P		
+8	ce	ce	DET	DET	n=s|g=m	
+9	calcul	calcul	NC	NC	n=s|g=m	
+10	,	,	PONCT	PONCT		
+11	car	car	CS	CS		
+12	ce	ce	CLS	CLS		
+13	sont	être	V	V	n=p|t=P|p=3	
+14	eux	eux	PRO	PRO	n=p|g=m|p=3	
+15	qui	qui	PROREL	PROREL	n=s	
+16	nous	nous	CLO	CLO	n=p|p=1	
+17	servent	servir	V	V	n=p|t=P,S|p=3	
+18	de	de	P	P		
+19	points	point	NC	NC	n=p|g=m	
+20	de	de	P	P		
+21	repère	repère	NC	NC	n=s|g=m	
+22	.	.	PONCT	PONCT		
+
+1	Des	des	DET	DET	n=p	
+2	versions	version	NC	NC	n=p|g=f	
+3	modifiées	modifier	VPP	VPP	n=p|g=f|t=K	
+4	du	de	P+D	P+D	n=s|g=m	
+5	cube	cube	NC	NC	n=s|g=m	
+6	original	original	ADJ	ADJ	n=s|g=m	
+7	,	,	PONCT	PONCT		
+8	par	par	P	P		
+9	exemple	exemple	NC	NC	n=s|g=m	
+10	avec	avec	P	P		
+11	un	un	DET	DET	n=s|g=m	
+12	motif	motif	NC	NC	n=s|g=m	
+13	imprimé	imprimer	VPP	VPP	n=s|g=m|t=K	
+14	sur	sur	P	P		
+15	ses	ses	DET	DET	n=p|p=3|poss=s	
+16	surfaces	surface	NC	NC	n=p|g=f	
+17	,	,	PONCT	PONCT		
+18	nécessitent	nécessiter	V	V	n=p|t=P,S|p=3	
+19	,	,	PONCT	PONCT		
+20	elles	elles	PRO	PRO	n=p|g=f|p=3	
+21	,	,	PONCT	PONCT		
+22	une	une	DET	DET	n=s|g=f	
+23	position	position	NC	NC	n=s|g=f	
+24	spécifique	spécifique	ADJ	ADJ	n=s	
+25	de	de	P	P		
+26	ces	ces	DET	DET	n=p	
+27	carrés	carré	NC	NC	n=p|g=m	
+28	centraux	central	ADJ	ADJ	n=p|g=m	
+29	qui	qui	PROREL	PROREL	n=s	
+30	nous	nous	CLO	CLO	n=p|p=1	
+31	oblige	obliger	V	V	n=s|t=P,S|p=1,3	
+32	à	à	P	P		
+33	considérer	considérer	VINF	VINF	t=W	
+34	l'	le	DET	DET	n=s	
+35	orientation	orientation	NC	NC	n=s|g=f	
+36	des	de	P+D	P+D	n=p	
+37	centres	centre	NC	NC	n=p|g=m	
+38	.	.	PONCT	PONCT		
+
+1	Chaque	chaque	DET	DET	n=s	
+2	centre	centre	NC	NC	n=s|g=m	
+3	a	avoir	V	V	n=s|t=P|p=3	
+4	quatre	quatre	DET	DET	s=card|n=p	
+5	orientations	orientation	NC	NC	n=p|g=f	
+6	possibles	possible	ADJ	ADJ	n=p	
+7	,	,	PONCT	PONCT		
+8	l'	le	DET	DET	n=s	
+9	orientation	orientation	NC	NC	n=s|g=f	
+10	du	de	P+D	P+D	n=s|g=m	
+11	dernier	dernier	ADJ	ADJ	n=s|g=m	
+12	est	être	V	V	n=s|t=P|p=3	
+13	comme	comme	P	P		
+14	d'	de	P	P		
+15	habitude	habitude	NC	NC	n=s|g=f	
+16	fixée	fixer	VPP	VPP	n=s|g=f|t=K	
+17	par	par	P	P		
+18	celle	celle	PRO	PRO	n=s|g=f	
+19	des	de	P+D	P+D	n=p	
+20	précédents	précédent	ADJ	ADJ	n=p|g=m	
+21	(	(	PONCT	PONCT		
+22	à	à	P	P		
+23	un	un	DET	DET	n=s|g=m	
+24	demi	demi	ADJ	ADJ	n=s	
+25	-	-	PONCT	PONCT		
+26	tour	tour	NC	NC	n=s	
+27	près	près	ADV	ADV		
+28	)	)	PONCT	PONCT		
+29	et	et	CC	CC		
+30	il	il	CLS	CLS	n=s|g=m|p=3	
+31	faut	falloir	V	V	n=s|t=P|p=3	
+32	donc	donc	ADV	ADV		
+33	multiplier	multiplier	VINF	VINF	t=W	
+34	le	le	DET	DET	n=s|g=m	
+35	nombre	nombre	NC	NC	n=s|g=m	
+36	de	de	P	P		
+37	positions	position	NC	NC	n=p|g=f	
+38	du	de	P+D	P+D	n=s|g=m	
+39	Rubik	_	NC	NC		
+40	'	'	PONCT	PONCT		
+41	s	_	ADV	ADV		
+42	cube	cube	NC	NC	n=s|g=m	
+43	par	par	P	P		
+44	2	2	NC	NC		
+45	×	_	NPP	NPP		
+46	45	45	NC	NC		
+47	=	=	P	P		
+48	2048	2048	NC	NC		
+49	.	.	PONCT	PONCT		
+
+1	On	on	CLS	CLS	n=s|p=3	
+2	peut	pouvoir	V	V	n=s|t=P|p=3	
+3	tenter	tenter	VINF	VINF	t=W	
+4	de	de	P	P		
+5	chercher	chercher	VINF	VINF	t=W	
+6	la	la	DET	DET	n=s|g=f	
+7	solution	solution	NC	NC	n=s|g=f	
+8	au	à	P+D	P+D	n=s|g=m	
+9	hasard	hasard	NC	NC	n=s|g=m	
+10	,	,	PONCT	PONCT		
+11	mais	mais	CC	CC		
+12	étant	être	VPR	VPR	t=G	
+13	donnée	donner	VPP	VPP	n=s|g=f|t=K	
+14	l'	le	DET	DET	n=s	
+15	espérance	espérance	NC	NC	n=s|g=f	
+16	de	de	P	P		
+17	vie	vie	NC	NC	n=s|g=f	
+18	humaine	humain	ADJ	ADJ	n=s|g=f	
+19	,	,	PONCT	PONCT		
+20	ce	ce	CLS	CLS		
+21	n'	ne	ADV	ADV		
+22	est	être	V	V	n=s|t=P|p=3	
+23	pas	pas	ADV	ADV		
+24	une	une	DET	DET	n=s|g=f	
+25	solution	solution	NC	NC	n=s|g=f	
+26	viable	viable	ADJ	ADJ	n=s	
+27	.	.	PONCT	PONCT		
+
+1	Si	si	CS	CS		
+2	l'	le	DET	DET	n=s	
+3	on	on	CLS	CLS	n=s|p=3	
+4	admet	admettre	V	V	n=s|t=P|p=3	
+5	qu'	que	CS	CS		
+6	un	un	DET	DET	n=s|g=m	
+7	être	être	VINF	VINF	t=W	
+8	humain	humain	ADJ	ADJ	n=s|g=m	
+9	peut	pouvoir	V	V	n=s|t=P|p=3	
+10	passer	passer	VINF	VINF	t=W	
+11	en	en	P	P		
+12	revue	revue	NC	NC	n=s|g=f	
+13	en	en	P	P		
+14	moyenne	moyenne	NC	NC	n=s|g=f	
+15	une	une	DET	DET	n=s|g=f	
+16	combinaison	combinaison	NC	NC	n=s|g=f	
+17	par	par	P	P		
+18	seconde	second	ADJ	ADJ	n=s|g=f	
+19	,	,	PONCT	PONCT		
+20	il	il	CLS	CLS	n=s|g=m|p=3	
+21	lui	lui	CLO	CLO	n=s|p=3	
+22	faudrait	falloir	V	V	n=s|t=C|p=3	
+23	en	en	P	P		
+24	moyenne	moyenne	NC	NC	n=s|g=f	
+25	un	un	DET	DET	n=s|g=m	
+26	temps	temps	NC	NC	g=m	
+27	cent	cent	DET	DET	s=card|n=p	
+28	fois	fois	NC	NC	g=f	
+29	supérieur	supérieur	ADJ	ADJ	n=s|g=m	
+30	à	à	P	P		
+31	l'	le	DET	DET	n=s	
+32	âge	âge	NC	NC	n=s|g=m	
+33	actuel	actuel	ADJ	ADJ	n=s|g=m	
+34	de	de	P	P		
+35	l'	le	DET	DET	n=s	
+36	Univers	_	NPP	NPP		
+37	(	(	PONCT	PONCT		
+38	environ	environ	ADV	ADV		
+39	5	5	ADJ	ADJ		
+40	×	_	NC	NC		
+41	1017	1017	ADJ	ADJ		
+42	secondes	second	ADJ	ADJ	n=p|g=f	
+43	)	)	PONCT	PONCT		
+44	pour	pour	P	P		
+45	réussir	réussir	VINF	VINF	t=W	
+46	à	à	P	P		
+47	trouver	trouver	VINF	VINF	t=W	
+48	toutes	tout	ADJ	ADJ	n=p|g=f	
+49	les	les	DET	DET	n=p	
+50	combinaisons	combinaison	NC	NC	n=p|g=f	
+51	du	de	P+D	P+D	n=s|g=m	
+52	cube	cube	NC	NC	n=s|g=m	
+53	seulement	_	ADV	ADV		
+54	grâce	grâce	NC	NC	n=s|g=f	
+55	au	à	P+D	P+D	n=s|g=m	
+56	hasard	hasard	NC	NC	n=s|g=m	
+57	(	(	PONCT	PONCT		
+58	4,3	4,3	NC	NC		
+59	×	_	NPP	NPP		
+60	1019	1019	ADJ	ADJ		
+61	secondes	second	ADJ	ADJ	n=p|g=f	
+62	)	)	PONCT	PONCT		
+63	:	:	PONCT	PONCT		
+64	autrement	_	ADV	ADV		
+65	dit	dire	V	V	n=s|t=J,P|p=3	
+66	absolument	_	ADV	ADV		
+67	rien	rien	PRO	PRO	n=s|g=m	
+68	de	de	P	P		
+69	physiquement	_	NC	NC		
+70	réalisable	réalisable	ADJ	ADJ	n=s	
+71	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	a	avoir	V	V	n=s|t=P|p=3	
+3	donc	donc	ADV	ADV		
+4	fallu	falloir	VPP	VPP	t=K	
+5	inventer	inventer	VINF	VINF	t=W	
+6	des	des	DET	DET	n=p	
+7	méthodes	méthode	NC	NC	n=p|g=f	
+8	pour	pour	P	P		
+9	résoudre	résoudre	VINF	VINF	t=W	
+10	le	le	DET	DET	n=s|g=m	
+11	cube	cube	NC	NC	n=s|g=m	
+12	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	légende	légende	NC	NC	n=s|g=f	
+3	veut	vouloir	V	V	n=s|t=P|p=3	
+4	qu'	que	CS	CS		
+5	Ernő	_	NPP	NPP		
+6	Rubik	_	NPP	NPP		
+7	lui	lui	PRO	PRO	n=s|g=m|p=3	
+8	-	-	PONCT	PONCT		
+9	même	même	ADV	ADV		
+10	y	y	CLO	CLO		
+11	ait	avoir	VS	VS	n=s|t=S|p=3	
+12	passé	passer	VPP	VPP	n=s|g=m|t=K	
+13	plus	plus	ADV	ADV		
+14	d'	de	P	P		
+15	un	un	DET	DET	n=s|g=m	
+16	mois	mois	NC	NC	g=m	
+17	[	[	PONCT	PONCT		
+18	10	10	ADJ	ADJ		
+19	]	]	PONCT	PONCT		
+20	.	.	PONCT	PONCT		
+
+1	On	on	CLS	CLS	n=s|p=3	
+2	peut	pouvoir	V	V	n=s|t=P|p=3	
+3	manipuler	manipuler	VINF	VINF	t=W	
+4	le	le	DET	DET	n=s|g=m	
+5	cube	cube	NC	NC	n=s|g=m	
+6	méthodiquement	_	ADV	ADV		
+7	,	,	PONCT	PONCT		
+8	selon	selon	P	P		
+9	des	des	DET	DET	n=p	
+10	séquences	séquence	NC	NC	n=p|g=f	
+11	de	de	P	P		
+12	mouvements	mouvement	NC	NC	n=p|g=m	
+13	prédéfinies	_	NC	NC		
+14	qui	qui	PROREL	PROREL	n=s	
+15	permettent	permettre	V	V	n=p|t=P,S|p=3	
+16	de	de	P	P		
+17	remonter	remonter	VINF	VINF	t=W	
+18	le	le	DET	DET	n=s|g=m	
+19	cube	cube	NC	NC	n=s|g=m	
+20	progressivement	_	ADV	ADV		
+21	,	,	PONCT	PONCT		
+22	c'	ce	CLS	CLS		
+23	est	être	V	V	n=s|t=P|p=3	
+24	-	-	PONCT	PONCT		
+25	à	à	P	P		
+26	-	-	PONCT	PONCT		
+27	dire	dire	VINF	VINF	t=W	
+28	de	de	P	P		
+29	déplacer	déplacer	VINF	VINF	t=W	
+30	et	et	CC	CC		
+31	d'	de	P	P		
+32	orienter	orienter	VINF	VINF	t=W	
+33	les	les	DET	DET	n=p	
+34	petits	petit	ADJ	ADJ	n=p|g=m	
+35	cubes	cube	NC	NC	n=p|g=m	
+36	par	par	P	P		
+37	étapes	étape	NC	NC	n=p|g=f	
+38	,	,	PONCT	PONCT		
+39	sans	sans	P	P		
+40	perdre	perdre	VINF	VINF	t=W	
+41	les	les	DET	DET	n=p	
+42	fruits	fruit	NC	NC	n=p|g=m	
+43	de	de	P	P		
+44	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+45	travail	travail	NC	NC	n=s|g=m	
+46	préalable	préalable	ADJ	ADJ	n=s	
+47	.	.	PONCT	PONCT		
+
+1	C'	ce	CLS	CLS		
+2	est	être	V	V	n=s|t=P|p=3	
+3	la	la	DET	DET	n=s|g=f	
+4	plus	plus	ADV	ADV		
+5	intuitive	intuitif	ADJ	ADJ	n=s|g=f	
+6	et	et	CC	CC		
+7	la	la	DET	DET	n=s|g=f	
+8	plus	plus	ADV	ADV		
+9	simple	simple	ADJ	ADJ	n=s	
+10	à	à	P	P		
+11	mettre	mettre	VINF	VINF	t=W	
+12	en	en	P	P		
+13	œuvre	_	NC	NC		
+14	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	résolution	résolution	NC	NC	n=s|g=f	
+3	nécessite	nécessiter	V	V	n=s|t=P,S|p=1,3	
+4	en	en	P	P		
+5	moyenne	moyenne	NC	NC	n=s|g=f	
+6	un	un	DET	DET	n=s|g=m	
+7	peu	peu	ADV	ADV		
+8	plus	plus	ADV	ADV		
+9	de	de	P	P		
+10	185	185	NC	NC		
+11	mouvements	mouvement	NC	NC	n=p|g=m	
+12	:	:	PONCT	PONCT		
+
+1	Chaque	chaque	DET	DET	n=s	
+2	opération	opération	NC	NC	n=s|g=f	
+3	(	(	PONCT	PONCT		
+4	tourner	tourner	VINF	VINF	t=W	
+5	une	une	DET	DET	n=s|g=f	
+6	arête	arête	NC	NC	n=s|g=f	
+7	ou	ou	CC	CC		
+8	un	un	DET	DET	n=s|g=m	
+9	sommet	sommet	NC	NC	n=s|g=m	
+10	,	,	PONCT	PONCT		
+11	échanger	échanger	VINF	VINF	t=W	
+12	deux	deux	DET	DET	s=card|n=p	
+13	arêtes	arête	NC	NC	n=p|g=f	
+14	ou	ou	CC	CC		
+15	deux	deux	DET	DET	s=card|n=p	
+16	sommets	sommet	NC	NC	n=p|g=m	
+17	)	)	PONCT	PONCT		
+18	pourra	pouvoir	V	V	n=s|t=F|p=3	
+19	être	être	VINF	VINF	t=W	
+20	réalisée	réaliser	VPP	VPP	n=s|g=f|t=K	
+21	deux	deux	DET	DET	s=card|n=p	
+22	fois	fois	NC	NC	g=f	
+23	,	,	PONCT	PONCT		
+24	après	après	P	P		
+25	avoir	avoir	VINF	VINF	t=W	
+26	placé	placer	VPP	VPP	n=s|g=m|t=K	
+27	les	les	DET	DET	n=p	
+28	cubes	cube	NC	NC	n=p|g=m	
+29	concernés	concerner	VPP	VPP	n=p|g=m|t=K	
+30	sur	sur	P	P		
+31	la	la	DET	DET	n=s|g=f	
+32	même	même	ADJ	ADJ	n=s	
+33	face	face	NC	NC	n=s|g=f	
+34	,	,	PONCT	PONCT		
+35	et	et	CC	CC		
+36	en	en	P	P		
+37	prenant	prendre	VPR	VPR	t=G	
+38	soin	soin	NC	NC	n=s|g=m	
+39	de	de	P	P		
+40	ne	ne	ADV	ADV		
+41	pas	pas	ADV	ADV		
+42	modifier	modifier	VINF	VINF	t=W	
+43	cette	cette	DET	DET	n=s|g=f	
+44	face	face	NC	NC	n=s|g=f	
+45	pendant	pendant	P	P		
+46	l'	le	DET	DET	n=s	
+47	opération	opération	NC	NC	n=s|g=f	
+48	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	première	premier	ADJ	ADJ	n=s|g=f	
+3	exécution	exécution	NC	NC	n=s|g=f	
+4	mélange	mélanger	V	V	n=s|t=P,S|p=1,3	
+5	le	le	DET	DET	n=s|g=m	
+6	reste	reste	NC	NC	n=s|g=m	
+7	du	de	P+D	P+D	n=s|g=m	
+8	cube	cube	NC	NC	n=s|g=m	
+9	,	,	PONCT	PONCT		
+10	mais	mais	CC	CC		
+11	en	en	P	P		
+12	tournant	tourner	VPR	VPR	t=G	
+13	alors	alors	ADV	ADV		
+14	la	la	DET	DET	n=s|g=f	
+15	face	face	NC	NC	n=s|g=f	
+16	d'	de	P	P		
+17	un	un	DET	DET	n=s|g=m	
+18	quart	quart	NC	NC	n=s|g=m	
+19	ou	ou	CC	CC		
+20	d'	de	P	P		
+21	un	un	DET	DET	n=s|g=m	
+22	demi	demi	ADJ	ADJ	n=s	
+23	-	-	PONCT	PONCT		
+24	tour	tour	NC	NC	n=s	
+25	pour	pour	P	P		
+26	placer	placer	VINF	VINF	t=W	
+27	le	le	DET	DET	n=s|g=m	
+28	(	(	PONCT	PONCT		
+29	s	_	NPP	NPP		
+30	)	)	PONCT	PONCT		
+31	sujet	sujet	NC	NC	n=s|g=m	
+32	(	(	PONCT	PONCT		
+33	s	_	NPP	NPP		
+34	)	)	PONCT	PONCT		
+35	de	de	P	P		
+36	la	la	DET	DET	n=s|g=f	
+37	deuxième	deuxième	ADJ	ADJ	n=s	
+38	opération	opération	NC	NC	n=s|g=f	
+39	au	à	P+D	P+D	n=s|g=m	
+40	même	même	ADJ	ADJ	n=s	
+41	endroit	endroit	NC	NC	n=s|g=m	
+42	relativement	_	ADV	ADV		
+43	au	à	P+D	P+D	n=s|g=m	
+44	reste	reste	NC	NC	n=s|g=m	
+45	du	de	P+D	P+D	n=s|g=m	
+46	cube	cube	NC	NC	n=s|g=m	
+47	et	et	CC	CC		
+48	en	en	P	P		
+49	refaisant	refaire	VPR	VPR	t=G	
+50	l'	le	DET	DET	n=s	
+51	opération	opération	NC	NC	n=s|g=f	
+52	à	à	P	P		
+53	l'	le	DET	DET	n=s	
+54	envers	envers	NC	NC	g=m	
+55	,	,	PONCT	PONCT		
+56	on	on	CLS	CLS	n=s|p=3	
+57	réalisera	réaliser	V	V	n=s|t=F|p=3	
+58	la	la	DET	DET	n=s|g=f	
+59	deuxième	deuxième	ADJ	ADJ	n=s	
+60	opération	opération	NC	NC	n=s|g=f	
+61	tout	tout	ADV	ADV		
+62	en	en	P	P		
+63	remettant	remettre	VPR	VPR	t=G	
+64	le	le	DET	DET	n=s|g=m	
+65	reste	reste	NC	NC	n=s|g=m	
+66	du	de	P+D	P+D	n=s|g=m	
+67	cube	cube	NC	NC	n=s|g=m	
+68	en	en	P	P		
+69	place	place	NC	NC	n=s|g=f	
+70	[	[	PONCT	PONCT		
+71	11	11	NC	NC		
+72	]	]	PONCT	PONCT		
+73	.	.	PONCT	PONCT		
+
+1	Une	une	DET	DET	n=s|g=f	
+2	autre	autre	ADJ	ADJ	n=s	
+3	méthode	méthode	NC	NC	n=s|g=f	
+4	intuitive	intuitif	ADJ	ADJ	n=s|g=f	
+5	:	:	PONCT	PONCT		
+
+1	C'	ce	CLS	CLS		
+2	est	être	V	V	n=s|t=P|p=3	
+3	encore	encore	ADV	ADV		
+4	une	une	DET	DET	n=s|g=f	
+5	approche	approche	NC	NC	n=s|g=f	
+6	différente	différent	ADJ	ADJ	n=s|g=f	
+7	qui	qui	PROREL	PROREL	n=s	
+8	,	,	PONCT	PONCT		
+9	comme	comme	P	P		
+10	celle	celle	PRO	PRO	n=s|g=f	
+11	de	de	P	P		
+12	L	_	NPP	NPP		
+13	.	.	PONCT	PONCT		
+14	Petrus	_	NPP	NPP		
+15	,	,	PONCT	PONCT		
+16	nécessite	nécessiter	V	V	n=s|t=P,S|p=1,3	
+17	environ	environ	ADV	ADV		
+18	60	60	ADJ	ADJ		
+19	mouvements	mouvement	NC	NC	n=p|g=m	
+20	.	.	PONCT	PONCT		
+
+1	Cette	cette	DET	DET	n=s|g=f	
+2	méthode	méthode	NC	NC	n=s|g=f	
+3	est	être	V	V	n=s|t=P|p=3	
+4	très	très	ADV	ADV		
+5	utilisée	utiliser	VPP	VPP	n=s|g=f|t=K	
+6	en	en	P	P		
+7	speedcubing	_	NC	NC		
+8	car	car	CS	CS		
+9	systématique	systématique	ADJ	ADJ	n=s	
+10	:	:	PONCT	PONCT		
+
+1	Cette	cette	DET	DET	n=s|g=f	
+2	méthode	méthode	NC	NC	n=s|g=f	
+3	est	être	V	V	n=s|t=P|p=3	
+4	utilisée	utiliser	VPP	VPP	n=s|g=f|t=K	
+5	par	par	P	P		
+6	les	les	DET	DET	n=p	
+7	plus	plus	ADV	ADV		
+8	grands	grand	ADJ	ADJ	n=p|g=m	
+9	champions	champion	NC	NC	n=p|g=m	
+10	mais	mais	CC	CC		
+11	nécessite	nécessiter	V	V	n=s|t=P,S|p=1,3	
+12	l'	le	DET	DET	n=s	
+13	apprentissage	apprentissage	NC	NC	n=s|g=m	
+14	de	de	P	P		
+15	nombreuses	nombreux	ADJ	ADJ	n=p|g=f	
+16	séquences	séquence	NC	NC	n=p|g=f	
+17	:	:	PONCT	PONCT		
+
+1	Des	des	DET	DET	n=p	
+2	méthodes	méthode	NC	NC	n=p|g=f	
+3	alternatives	alternatif	ADJ	ADJ	n=p|g=f	
+4	permettent	permettre	V	V	n=p|t=P,S|p=3	
+5	d'	de	P	P		
+6	apprendre	apprendre	VINF	VINF	t=W	
+7	moins	moins	ADV	ADV		
+8	de	de	P	P		
+9	séquences	séquence	NC	NC	n=p|g=f	
+10	,	,	PONCT	PONCT		
+11	comme	comme	P	P		
+12	l'	le	DET	DET	n=s	
+13	OLL	_	NPP	NPP		
+14	ou	ou	CC	CC		
+15	la	la	DET	DET	n=s|g=f	
+16	PLL	_	NPP	NPP		
+17	en	en	P	P		
+18	deux	deux	DET	DET	s=card|n=p	
+19	étapes	étape	NC	NC	n=p|g=f	
+20	.	.	PONCT	PONCT		
+
+1	Basée	baser	VPP	VPP	n=s|g=f|t=K	
+2	sur	sur	P	P		
+3	la	la	DET	DET	n=s|g=f	
+4	construction	construction	NC	NC	n=s|g=f	
+5	de	de	P	P		
+6	bloc	bloc	NC	NC	n=s|g=m	
+7	,	,	PONCT	PONCT		
+8	cette	cette	DET	DET	n=s|g=f	
+9	méthode	méthode	NC	NC	n=s|g=f	
+10	est	être	V	V	n=s|t=P|p=3	
+11	intuitive	intuitif	ADJ	ADJ	n=s|g=f	
+12	et	et	CC	CC		
+13	nécessite	nécessiter	V	V	n=s|t=P,S|p=1,3	
+14	moins	moins	ADV	ADV		
+15	de	de	P	P		
+16	coups	coup	NC	NC	n=p|g=m	
+17	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	est	être	V	V	n=s|t=P|p=3	
+3	donc	donc	ADV	ADV		
+4	très	très	ADV	ADV		
+5	adaptée	adapter	VPP	VPP	n=s|g=f|t=K	
+6	pour	pour	P	P		
+7	le	le	DET	DET	n=s|g=m	
+8	speedcubing	_	NC	NC		
+9	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	est	être	V	V	n=s|t=P|p=3	
+3	notamment	_	ADV	ADV		
+4	utilisée	utiliser	VPP	VPP	n=s|g=f|t=K	
+5	par	par	P	P		
+6	le	le	DET	DET	n=s|g=m	
+7	champion	champion	NC	NC	n=s|g=m	
+8	d'	de	P	P		
+9	Europe	Europe	NPP	NPP	n=s|g=f	
+10	de	de	P	P		
+11	Rubik	_	NPP	NPP		
+12	'	'	PONCT	PONCT		
+13	s	_	ADV	ADV		
+14	cube	cube	NC	NC	n=s|g=m	
+15	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	porte	porter	V	V	n=s|t=P,S|p=1,3	
+3	le	le	DET	DET	n=s|g=m	
+4	nom	nom	NC	NC	n=s|g=m	
+5	de	de	P	P		
+6	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+7	inventeur	inventeur	NC	NC	n=s|g=m	
+8	[	[	PONCT	PONCT		
+9	12	12	ADJ	ADJ		
+10	]	]	PONCT	PONCT		
+11	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	consiste	consister	V	V	n=s|t=P,S|p=1,3	
+3	à	à	P	P		
+4	réaliser	réaliser	VINF	VINF	t=W	
+5	en	en	P	P		
+6	premier	premier	ADJ	ADJ	n=s|g=m	
+7	deux	deux	DET	DET	s=card|n=p	
+8	faces	face	NC	NC	n=p|g=f	
+9	opposées	opposer	VPP	VPP	n=p|g=f|t=K	
+10	puis	puis	CC	CC		
+11	terminer	terminer	VINF	VINF	t=W	
+12	par	par	P	P		
+13	la	la	DET	DET	n=s|g=f	
+14	tranche	tranche	NC	NC	n=s|g=f	
+15	centrale	central	ADJ	ADJ	n=s|g=f	
+16	.	.	PONCT	PONCT		
+
+1	C'	ce	CLS	CLS		
+2	est	être	V	V	n=s|t=P|p=3	
+3	une	une	DET	DET	n=s|g=f	
+4	approche	approche	NC	NC	n=s|g=f	
+5	différente	différent	ADJ	ADJ	n=s|g=f	
+6	des	de	P+D	P+D	n=p	
+7	deux	deux	ADJ	ADJ	s=card|n=p	
+8	premières	premier	ADJ	ADJ	n=p|g=f	
+9	:	:	PONCT	PONCT		
+10	elle	elle	CLS	CLS	n=s|g=f|p=3	
+11	est	être	V	V	n=s|t=P|p=3	
+12	moins	moins	ADV	ADV		
+13	automatisée	automatiser	VPP	VPP	n=s|g=f|t=K	
+14	,	,	PONCT	PONCT		
+15	mais	mais	CC	CC		
+16	a	avoir	V	V	n=s|t=P|p=3	
+17	l'	le	DET	DET	n=s	
+18	avantage	avantage	NC	NC	n=s|g=m	
+19	de	de	P	P		
+20	conserver	conserver	VINF	VINF	t=W	
+21	au	à	P+D	P+D	n=s|g=m	
+22	maximum	maximum	NC	NC	n=s|g=m	
+23	les	les	DET	DET	n=p	
+24	cubes	cube	NC	NC	n=p|g=m	
+25	bien	bien	ADV	ADV		
+26	placés	placer	VPP	VPP	n=p|g=m|t=K	
+27	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	résolution	résolution	NC	NC	n=s|g=f	
+3	nécessite	nécessiter	V	V	n=s|t=P,S|p=1,3	
+4	en	en	P	P		
+5	moyenne	moyenne	NC	NC	n=s|g=f	
+6	60	60	ADJ	ADJ		
+7	mouvements	mouvement	NC	NC	n=p|g=m	
+8	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	est	être	V	V	n=s|t=P|p=3	
+3	souvent	souvent	ADV	ADV		
+4	utilisée	utiliser	VPP	VPP	n=s|g=f|t=K	
+5	pour	pour	P	P		
+6	des	des	DET	DET	n=p	
+7	résolutions	résolution	NC	NC	n=p|g=f	
+8	optimisées	optimiser	VPP	VPP	n=p|g=f|t=K	
+9	:	:	PONCT	PONCT		
+
+1	Une	une	DET	DET	n=s|g=f	
+2	approche	approche	NC	NC	n=s|g=f	
+3	encore	encore	ADV	ADV		
+4	différente	différent	ADJ	ADJ	n=s|g=f	
+5	et	et	CC	CC		
+6	assez	assez	ADV	ADV		
+7	intuitive	intuitif	ADJ	ADJ	n=s|g=f	
+8	consiste	consister	V	V	n=s|t=P,S|p=1,3	
+9	à	à	P	P		
+10	commencer	commencer	VINF	VINF	t=W	
+11	par	par	P	P		
+12	les	les	DET	DET	n=p	
+13	coins	coin	NC	NC	n=p|g=m	
+14	;	;	PONCT	PONCT		
+15	l'	le	DET	DET	n=s	
+16	avantage	avantage	NC	NC	n=s|g=m	
+17	d'	de	P	P		
+18	une	une	DET	DET	n=s|g=f	
+19	telle	tel	ADJ	ADJ	n=s|g=f	
+20	méthode	méthode	NC	NC	n=s|g=f	
+21	est	être	V	V	n=s|t=P|p=3	
+22	qu'	que	CS	CS		
+23	il	il	CLS	CLS	n=s|g=m|p=3	
+24	est	être	V	V	n=s|t=P|p=3	
+25	ensuite	ensuite	ADV	ADV		
+26	facile	facile	ADJ	ADJ	n=s	
+27	de	de	P	P		
+28	résoudre	résoudre	VINF	VINF	t=W	
+29	les	les	DET	DET	n=p	
+30	arêtes	arête	NC	NC	n=p|g=f	
+31	en	en	P	P		
+32	gardant	garder	VPR	VPR	t=G	
+33	les	les	DET	DET	n=p	
+34	coins	coin	NC	NC	n=p|g=m	
+35	bien	bien	ADV	ADV		
+36	placés	placer	VPP	VPP	n=p|g=m|t=K	
+37	.	.	PONCT	PONCT		
+
+1	Ces	ces	DET	DET	n=p	
+2	méthodes	méthode	NC	NC	n=p|g=f	
+3	étaient	être	V	V	n=p|t=I|p=3	
+4	très	très	ADV	ADV		
+5	utilisées	utiliser	VPP	VPP	n=p|g=f|t=K	
+6	dans	dans	P	P		
+7	les	les	DET	DET	n=p	
+8	années	année	NC	NC	n=p|g=f	
+9	1980	1980	NC	NC		
+10	.	.	PONCT	PONCT		
+
+1	Elles	elles	CLS	CLS	n=p|g=f|p=3	
+2	sont	être	V	V	n=p|t=P|p=3	
+3	devenues	devenir	VPP	VPP	n=p|g=f|t=K	
+4	plus	plus	ADV	ADV		
+5	rares	rare	ADJ	ADJ	n=p	
+6	aujourd'hui	aujourd'hui	ADV	ADV		
+7	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	résolution	résolution	NC	NC	n=s|g=f	
+3	nécessite	nécessiter	V	V	n=s|t=P,S|p=1,3	
+4	60	60	VPP	VPP		
+5	à	à	P	P		
+6	70	70	NC	NC		
+7	mouvements	mouvement	NC	NC	n=p|g=m	
+8	(	(	PONCT	PONCT		
+9	une	une	DET	DET	n=s|g=f	
+10	cinquantaine	cinquantaine	NC	NC	n=s|g=f	
+11	seulement	_	ADV	ADV		
+12	si	si	CS	CS		
+13	on	on	CLS	CLS	n=s|p=3	
+14	compte	compter	V	V	n=s|t=P,S|p=1,3	
+15	un	un	DET	DET	n=s|g=m	
+16	mouvement	mouvement	NC	NC	n=s|g=m	
+17	de	de	P	P		
+18	tranche	tranche	NC	NC	n=s|g=f	
+19	centrale	central	ADJ	ADJ	n=s|g=f	
+20	comme	comme	P	P		
+21	un	un	DET	DET	n=s|g=m	
+22	seul	seul	ADJ	ADJ	n=s|g=m	
+23	mouvement	mouvement	NC	NC	n=s|g=m	
+24	et	et	CC	CC		
+25	non	non	ADV	ADV		
+26	deux	deux	PRO	PRO	s=card|n=p	
+27	)	)	PONCT	PONCT		
+28	:	:	PONCT	PONCT		
+
+1	En	en	P	P		
+2	1981	1981	NC	NC		
+3	,	,	PONCT	PONCT		
+4	Morwen	_	NPP	NPP		
+5	Thistlewaite	_	NPP	NPP		
+6	est	être	V	V	n=s|t=P|p=3	
+7	l'	le	DET	DET	n=s	
+8	un	un	PRO	PRO	n=s|g=m	
+9	des	de	P+D	P+D	n=p	
+10	premiers	premier	ADJ	ADJ	n=p|g=m	
+11	à	à	P	P		
+12	publier	publier	VINF	VINF	t=W	
+13	une	une	DET	DET	n=s|g=f	
+14	méthode	méthode	NC	NC	n=s|g=f	
+15	de	de	P	P		
+16	résolution	résolution	NC	NC	n=s|g=f	
+17	informatique	informatique	ADJ	ADJ	n=s	
+18	efficace	efficace	ADJ	ADJ	n=s	
+19	[	[	PONCT	PONCT		
+20	13	13	ADJ	ADJ		
+21	]	]	PONCT	PONCT		
+22	.	.	PONCT	PONCT		
+
+1	Grâce	grâce	NC	NC	n=s|g=f	
+2	à	à	P	P		
+3	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+4	méthode	méthode	NC	NC	n=s|g=f	
+5	,	,	PONCT	PONCT		
+6	il	il	CLS	CLS	n=s|g=m|p=3	
+7	est	être	V	V	n=s|t=P|p=3	
+8	capable	capable	ADJ	ADJ	n=s	
+9	de	de	P	P		
+10	résoudre	résoudre	VINF	VINF	t=W	
+11	le	le	DET	DET	n=s|g=m	
+12	cube	cube	NC	NC	n=s|g=m	
+13	en	en	P	P		
+14	moins	moins	ADV	ADV		
+15	de	de	P	P		
+16	52	52	NC	NC		
+17	mouvements	mouvement	NC	NC	n=p|g=m	
+18	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	1992	1992	NC	NC		
+3	,	,	PONCT	PONCT		
+4	Herbert	Herbert	NPP	NPP	n=s|g=m	
+5	Kociemba	_	NPP	NPP		
+6	améliore	améliorer	V	V	n=s|t=P,S|p=1,3	
+7	l'	le	DET	DET	n=s	
+8	algorithme	algorithme	NC	NC	n=s|g=m	
+9	de	de	P	P		
+10	Thistlewaite	_	NPP	NPP		
+11	.	.	PONCT	PONCT		
+
+1	Son	son	DET	DET	n=s|g=m|p=3|poss=s	
+2	logiciel	logiciel	NC	NC	n=s|g=m	
+3	"	"	PONCT	PONCT		
+4	Cube	cube	NC	NC	n=s|g=m	
+5	Explorer	_	NPP	NPP		
+6	"	"	PONCT	PONCT		
+7	implémente	implémenter	V	V	n=s|t=P,S|p=1,3	
+8	cet	cet	DET	DET	n=s|g=m	
+9	algorithme	algorithme	NC	NC	n=s|g=m	
+10	[	[	PONCT	PONCT		
+11	14	14	ADJ	ADJ		
+12	]	]	PONCT	PONCT		
+13	.	.	PONCT	PONCT		
+
+1	Cet	cet	DET	DET	n=s|g=m	
+2	algorithme	algorithme	NC	NC	n=s|g=m	
+3	est	être	V	V	n=s|t=P|p=3	
+4	notamment	_	ADV	ADV		
+5	utilisé	utiliser	VPP	VPP	n=s|g=m|t=K	
+6	pour	pour	P	P		
+7	générer	générer	VINF	VINF	t=W	
+8	des	des	DET	DET	n=p	
+9	mélanges	mélange	NC	NC	n=p|g=m	
+10	par	par	P	P		
+11	la	la	DET	DET	n=s|g=f	
+12	World	_	NPP	NPP		
+13	Cube	_	NPP	NPP		
+14	Association	_	NPP	NPP		
+15	[	[	PONCT	PONCT		
+16	15	15	ADJ	ADJ		
+17	]	]	PONCT	PONCT		
+18	.	.	PONCT	PONCT		
+
+1	Si	si	CS	CS		
+2	un	un	DET	DET	n=s|g=m	
+3	petit	petit	ADJ	ADJ	n=s|g=m	
+4	cube	cube	NC	NC	n=s|g=m	
+5	est	être	V	V	n=s|t=P|p=3	
+6	à	à	P	P		
+7	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+8	place	place	NC	NC	n=s|g=f	
+9	,	,	PONCT	PONCT		
+10	cela	cela	PRO	PRO	n=s|g=m	
+11	ne	ne	ADV	ADV		
+12	signifie	signifier	V	V	n=s|t=P,S|p=1,3	
+13	pas	pas	ADV	ADV		
+14	nécessairement	_	ADV	ADV		
+15	que	que	CS	CS		
+16	les	les	DET	DET	n=p	
+17	couleurs	couleur	NC	NC	n=p|g=f	
+18	sont	être	V	V	n=p|t=P|p=3	
+19	à	à	P	P		
+20	leur	leur	DET	DET	n=s|p=3|poss=p	
+21	bonne	bon	ADJ	ADJ	n=s|g=f	
+22	place	place	NC	NC	n=s|g=f	
+23	.	.	PONCT	PONCT		
+
+1	Par	par	P	P		
+2	exemple	exemple	NC	NC	n=s|g=m	
+3	un	un	DET	DET	n=s|g=m	
+4	cube	cube	NC	NC	n=s|g=m	
+5	-	-	PONCT	PONCT		
+6	arête	arête	NC	NC	n=s|g=f	
+7	a	avoir	V	V	n=s|t=P|p=3	
+8	deux	deux	DET	DET	s=card|n=p	
+9	positions	position	NC	NC	n=p|g=f	
+10	de	de	P	P		
+11	couleur	couleur	NC	NC	n=s|g=f	
+12	possibles	possible	ADJ	ADJ	n=p	
+13	et	et	CC	CC		
+14	un	un	DET	DET	n=s|g=m	
+15	cube	cube	NC	NC	n=s|g=m	
+16	-	-	PONCT	PONCT		
+17	sommet	sommet	NC	NC	n=s|g=m	
+18	trois	trois	ADJ	ADJ	s=card|n=p	
+19	.	.	PONCT	PONCT		
+
+1	Chaque	chaque	DET	DET	n=s	
+2	étape	étape	NC	NC	n=s|g=f	
+3	intermédiaire	intermédiaire	ADJ	ADJ	n=s	
+4	utilise	utiliser	V	V	n=s|t=P,S|p=1,3	
+5	elle	elle	PRO	PRO	n=s|g=f|p=3	
+6	-	-	PONCT	PONCT		
+7	même	même	ADV	ADV		
+8	des	des	DET	DET	n=p	
+9	algorithmes	algorithme	NC	NC	n=p|g=m	
+10	spécifiques	spécifique	ADJ	ADJ	n=p	
+11	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	existe	exister	V	V	n=s|t=P,S|p=1,3	
+3	en	en	P	P		
+4	fait	fait	NC	NC	n=s|g=m	
+5	de	de	DET	DET	n=p	
+6	nombreuses	nombreux	ADJ	ADJ	n=p|g=f	
+7	méthodes	méthode	NC	NC	n=p|g=f	
+8	de	de	P	P		
+9	résolution	résolution	NC	NC	n=s|g=f	
+10	.	.	PONCT	PONCT		
+
+1	Certains	certain	PRO	PRO	n=p|g=m	
+2	spécialistes	spécialiste	NC	NC	n=p	
+3	y	y	CLO	CLO		
+4	ont	avoir	V	V	n=p|t=P|p=3	
+5	même	même	ADV	ADV		
+6	consacré	consacrer	VPP	VPP	n=s|g=m|t=K	
+7	leur	leur	DET	DET	n=s|p=3|poss=p	
+8	thèse	thèse	NC	NC	n=s|g=f	
+9	universitaire	universitaire	ADJ	ADJ	n=s	
+10	.	.	PONCT	PONCT		
+
+1	Des	des	DET	DET	n=p	
+2	compétitions	compétition	NC	NC	n=p|g=f	
+3	sont	être	V	V	n=p|t=P|p=3	
+4	organisées	organiser	VPP	VPP	n=p|g=f|t=K	
+5	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	meilleurs	meilleur	ADJ	ADJ	n=p|g=m	
+3	concurrents	concurrent	NC	NC	n=p|g=m	
+4	sont	être	V	V	n=p|t=P|p=3	
+5	capables	capable	ADJ	ADJ	n=p	
+6	de	de	P	P		
+7	rétablir	rétablir	VINF	VINF	t=W	
+8	un	un	DET	DET	n=s|g=m	
+9	cube	cube	NC	NC	n=s|g=m	
+10	en	en	P	P		
+11	moins	moins	ADV	ADV		
+12	de	de	P	P		
+13	quinze	quinze	DET	DET	s=card|n=p	
+14	secondes	seconde	NC	NC	n=p|g=f	
+15	[	[	PONCT	PONCT		
+16	9	9	ADJ	ADJ		
+17	]	]	PONCT	PONCT		
+18	grâce	grâce	NC	NC	n=s|g=f	
+19	à	à	P	P		
+20	plusieurs	plusieurs	DET	DET	n=p	
+21	dizaines	dizaine	NC	NC	n=p|g=f	
+22	d'	de	P	P		
+23	algorithmes	algorithme	NC	NC	n=p|g=m	
+24	(	(	PONCT	PONCT		
+25	environ	environ	ADV	ADV		
+26	80	80	VPP	VPP		
+27	pour	pour	P	P		
+28	la	la	DET	DET	n=s|g=f	
+29	méthode	méthode	NC	NC	n=s|g=f	
+30	Fridrich	_	NPP	NPP		
+31	,	,	PONCT	PONCT		
+32	la	la	DET	DET	n=s|g=f	
+33	plus	plus	ADV	ADV		
+34	largement	_	ADV	ADV		
+35	utilisée	utiliser	VPP	VPP	n=s|g=f|t=K	
+36	)	)	PONCT	PONCT		
+37	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	cube	cube	NC	NC	n=s|g=m	
+3	de	de	P	P		
+4	Rubik	_	NPP	NPP		
+5	est	être	V	V	n=s|t=P|p=3	
+6	un	un	DET	DET	n=s|g=m	
+7	support	support	NC	NC	n=s|g=m	
+8	pédagogique	pédagogique	ADJ	ADJ	n=s	
+9	très	très	ADV	ADV		
+10	intéressant	intéressant	ADJ	ADJ	n=s|g=m	
+11	pour	pour	P	P		
+12	l'	le	DET	DET	n=s	
+13	enseignement	enseignement	NC	NC	n=s|g=m	
+14	des	de	P+D	P+D	n=p	
+15	mathématiques	mathématique	NC	NC	n=p|g=f	
+16	,	,	PONCT	PONCT		
+17	en	en	P	P		
+18	particulier	particulier	NC	NC	n=s|g=m	
+19	pour	pour	P	P		
+20	la	la	DET	DET	n=s|g=f	
+21	théorie	théorie	NC	NC	n=s|g=f	
+22	des	de	P+D	P+D	n=p	
+23	groupes	groupe	NC	NC	n=p|g=m	
+24	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	résolution	résolution	NC	NC	n=s|g=f	
+3	du	de	P+D	P+D	n=s|g=m	
+4	cube	cube	NC	NC	n=s|g=m	
+5	peut	pouvoir	V	V	n=s|t=P|p=3	
+6	passer	passer	VINF	VINF	t=W	
+7	par	par	P	P		
+8	l'	le	DET	DET	n=s	
+9	algèbre	algèbre	NC	NC	n=s|g=f	
+10	,	,	PONCT	PONCT		
+11	en	en	P	P		
+12	modélisant	modéliser	VPR	VPR	t=G	
+13	chacune	chacun	PRO	PRO	n=s|g=f	
+14	des	de	P+D	P+D	n=p	
+15	rotations	rotation	NC	NC	n=p|g=f	
+16	par	par	P	P		
+17	une	une	DET	DET	n=s|g=f	
+18	lettre	lettre	NC	NC	n=s|g=f	
+19	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	ensemble	ensemble	NC	NC	n=s|g=m	
+3	des	de	P+D	P+D	n=p	
+4	configurations	configuration	NC	NC	n=p|g=f	
+5	du	de	P+D	P+D	n=s|g=m	
+6	cube	cube	NC	NC	n=s|g=m	
+7	constitue	constituer	V	V	n=s|t=P,S|p=1,3	
+8	un	un	DET	DET	n=s|g=m	
+9	groupe	groupe	NC	NC	n=s|g=m	
+10	fini	finir	VPP	VPP	n=s|g=m|t=K	
+11	.	.	PONCT	PONCT		
+
+1	Une	une	DET	DET	n=s|g=f	
+2	question	question	NC	NC	n=s|g=f	
+3	fondamentale	fondamental	ADJ	ADJ	n=s|g=f	
+4	que	que	PROREL	PROREL		
+5	l'	le	DET	DET	n=s	
+6	on	on	CLS	CLS	n=s|p=3	
+7	peut	pouvoir	V	V	n=s|t=P|p=3	
+8	se	se	CLR	CLR	n=p,s|p=3	
+9	poser	poser	VINF	VINF	t=W	
+10	sur	sur	P	P		
+11	le	le	DET	DET	n=s|g=m	
+12	cube	cube	NC	NC	n=s|g=m	
+13	est	être	V	V	n=s|t=P|p=3	
+14	le	le	DET	DET	n=s|g=m	
+15	diamètre	diamètre	NC	NC	n=s|g=m	
+16	du	de	P+D	P+D	n=s|g=m	
+17	graphe	graphe	NC	NC	n=s|g=m	
+18	des	de	P+D	P+D	n=p	
+19	configurations	configuration	NC	NC	n=p|g=f	
+20	du	de	P+D	P+D	n=s|g=m	
+21	cube	cube	NC	NC	n=s|g=m	
+22	,	,	PONCT	PONCT		
+23	c'	ce	CLS	CLS		
+24	est	être	V	V	n=s|t=P|p=3	
+25	-	-	PONCT	PONCT		
+26	à	à	P	P		
+27	-	-	PONCT	PONCT		
+28	dire	dire	VINF	VINF	t=W	
+29	le	le	DET	DET	n=s|g=m	
+30	nombre	nombre	NC	NC	n=s|g=m	
+31	minimal	minimal	ADJ	ADJ	n=s|g=m	
+32	de	de	P	P		
+33	mouvements	mouvement	NC	NC	n=p|g=m	
+34	(	(	PONCT	PONCT		
+35	flip	_	NPP	NPP		
+36	)	)	PONCT	PONCT		
+37	nécessaires	nécessaire	ADJ	ADJ	n=p	
+38	pour	pour	P	P		
+39	relier	relier	VINF	VINF	t=W	
+40	n'	ne	ADV	ADV		
+41	importe	importer	V	V	n=s|t=P,S|p=1,3	
+42	quelle	quel	DETWH	DETWH	n=s|g=f	
+43	paire	paire	NC	NC	n=s|g=f	
+44	de	de	P	P		
+45	configurations	configuration	NC	NC	n=p|g=f	
+46	du	de	P+D	P+D	n=s|g=m	
+47	cube	cube	NC	NC	n=s|g=m	
+48	-	-	PONCT	PONCT		
+49	nombre	nombre	NC	NC	n=s|g=m	
+50	parfois	parfois	ADV	ADV		
+51	appelé	appeler	VPP	VPP	n=s|g=m|t=K	
+52	nombre	nombre	NC	NC	n=s|g=m	
+53	de	de	P	P		
+54	Dieu	_	NPP	NPP		
+55	.	.	PONCT	PONCT		
+
+1	Plus	plus	ADV	ADV		
+2	encore	encore	ADV	ADV		
+3	que	que	CS	CS		
+4	ce	ce	DET	DET	n=s|g=m	
+5	nombre	nombre	NC	NC	n=s|g=m	
+6	de	de	P	P		
+7	Dieu	_	NPP	NPP		
+8	,	,	PONCT	PONCT		
+9	on	on	CLS	CLS	n=s|p=3	
+10	voudrait	vouloir	V	V	n=s|t=C|p=3	
+11	connaître	connaître	VINF	VINF	t=W	
+12	l'	le	DET	DET	n=s	
+13	algorithme	algorithme	NC	NC	n=s|g=m	
+14	de	de	P	P		
+15	Dieu	_	NPP	NPP		
+16	,	,	PONCT	PONCT		
+17	c'	ce	CLS	CLS		
+18	est	être	V	V	n=s|t=P|p=3	
+19	-	-	PONCT	PONCT		
+20	à	à	P	P		
+21	-	-	PONCT	PONCT		
+22	dire	dire	VINF	VINF	t=W	
+23	la	la	DET	DET	n=s|g=f	
+24	méthode	méthode	NC	NC	n=s|g=f	
+25	la	la	DET	DET	n=s|g=f	
+26	plus	plus	ADV	ADV		
+27	simple	simple	ADJ	ADJ	n=s	
+28	et	et	CC	CC		
+29	élégante	élégant	ADJ	ADJ	n=s|g=f	
+30	à	à	P	P		
+31	décrire	décrire	VINF	VINF	t=W	
+32	qui	qui	PROREL	PROREL	n=s	
+33	permette	permettre	VS	VS	n=s|t=S|p=1,3	
+34	,	,	PONCT	PONCT		
+35	pour	pour	P	P		
+36	chaque	chaque	DET	DET	n=s	
+37	configuration	configuration	NC	NC	n=s|g=f	
+38	du	de	P+D	P+D	n=s|g=m	
+39	cube	cube	NC	NC	n=s|g=m	
+40	,	,	PONCT	PONCT		
+41	de	de	P	P		
+42	trouver	trouver	VINF	VINF	t=W	
+43	la	la	DET	DET	n=s|g=f	
+44	plus	plus	ADV	ADV		
+45	courte	court	ADJ	ADJ	n=s|g=f	
+46	séquence	séquence	NC	NC	n=s|g=f	
+47	la	la	DET	DET	n=s|g=f	
+48	transformant	transformer	VPR	VPR	t=G	
+49	en	en	P	P		
+50	le	le	DET	DET	n=s|g=m	
+51	cube	cube	NC	NC	n=s|g=m	
+52	résolu	résoudre	VPP	VPP	n=s|g=m|t=K	
+53	(	(	PONCT	PONCT		
+54	le	le	DET	DET	n=s|g=m	
+55	terme	terme	NC	NC	n=s|g=m	
+56	d'	de	P	P		
+57	algorithme	algorithme	NC	NC	n=s|g=m	
+58	de	de	P	P		
+59	Dieu	_	NPP	NPP		
+60	fait	faire	V	V	n=s|t=P|p=3	
+61	allusion	allusion	NC	NC	n=s|g=f	
+62	au	à	P+D	P+D	n=s|g=m	
+63	Livre	livre	NC	NC	n=s	
+64	de	de	P	P		
+65	Dieu	_	NPP	NPP		
+66	imaginé	imaginer	VPP	VPP	n=s|g=m|t=K	
+67	par	par	P	P		
+68	le	le	DET	DET	n=s|g=m	
+69	mathématicien	mathématicien	NC	NC	n=s|g=m	
+70	Erdös	_	NPP	NPP		
+71	qui	qui	PROREL	PROREL	n=s	
+72	contiendrait	contenir	V	V	n=s|t=C|p=3	
+73	les	les	DET	DET	n=p	
+74	preuves	preuve	NC	NC	n=p|g=f	
+75	les	les	DET	DET	n=p	
+76	plus	plus	ADV	ADV		
+77	simples	simple	ADJ	ADJ	n=p	
+78	et	et	CC	CC		
+79	élégantes	élégant	ADJ	ADJ	n=p|g=f	
+80	de	de	P	P		
+81	chaque	chaque	DET	DET	n=s	
+82	théorème	théorème	NC	NC	n=s|g=m	
+83	mathématique	mathématique	ADJ	ADJ	n=s	
+84	)	)	PONCT	PONCT		
+85	.	.	PONCT	PONCT		
+
+1	Cette	cette	DET	DET	n=s|g=f	
+2	question	question	NC	NC	n=s|g=f	
+3	se	se	CLR	CLR	n=p,s|p=3	
+4	décline	décliner	V	V	n=s|t=P,S|p=1,3	
+5	en	en	P	P		
+6	deux	deux	DET	DET	s=card|n=p	
+7	versions	version	NC	NC	n=p|g=f	
+8	à	à	P	P		
+9	propos	propos	NC	NC	g=m	
+10	du	de	P+D	P+D	n=s|g=m	
+11	Rubik	_	NC	NC		
+12	'	'	PONCT	PONCT		
+13	s	_	NPP	NPP		
+14	Cube	_	NPP	NPP		
+15	,	,	PONCT	PONCT		
+16	selon	selon	P	P		
+17	ce	ce	PRO	PRO	n=s	
+18	que	que	PROREL	PROREL		
+19	l'	le	DET	DET	n=s	
+20	on	on	CLS	CLS	n=s|p=3	
+21	choisit	choisir	V	V	n=s|t=J,P|p=3	
+22	d'	de	P	P		
+23	appeler	appeler	VINF	VINF	t=W	
+24	"	"	PONCT	PONCT		
+25	mouvement	mouvement	NC	NC	n=s|g=m	
+26	élémentaire	élémentaire	ADJ	ADJ	n=s	
+27	"	"	PONCT	PONCT		
+28	.	.	PONCT	PONCT		
+
+1	Si	si	CS	CS		
+2	un	un	DET	DET	n=s|g=m	
+3	mouvement	mouvement	NC	NC	n=s|g=m	
+4	élémentaire	élémentaire	ADJ	ADJ	n=s	
+5	est	être	V	V	n=s|t=P|p=3	
+6	un	un	DET	DET	n=s|g=m	
+7	quart	quart	NC	NC	n=s|g=m	
+8	de	de	P	P		
+9	tour	tour	NC	NC	n=s	
+10	d'	de	P	P		
+11	une	une	DET	DET	n=s|g=f	
+12	face	face	NC	NC	n=s|g=f	
+13	du	de	P+D	P+D	n=s|g=m	
+14	cube	cube	NC	NC	n=s|g=m	
+15	,	,	PONCT	PONCT		
+16	étant	être	VPR	VPR	t=G	
+17	donné	donner	VPP	VPP	n=s|g=m|t=K	
+18	une	une	DET	DET	n=s|g=f	
+19	position	position	NC	NC	n=s|g=f	
+20	,	,	PONCT	PONCT		
+21	on	on	CLS	CLS	n=s|p=3	
+22	peut	pouvoir	V	V	n=s|t=P|p=3	
+23	faire	faire	VINF	VINF	t=W	
+24	12	12	ADJ	ADJ		
+25	mouvements	mouvement	NC	NC	n=p|g=m	
+26	élémentaires	élémentaire	ADJ	ADJ	n=p	
+27	.	.	PONCT	PONCT		
+
+1	Si	si	CS	CS		
+2	un	un	DET	DET	n=s|g=m	
+3	mouvement	mouvement	NC	NC	n=s|g=m	
+4	élémentaire	élémentaire	ADJ	ADJ	n=s	
+5	est	être	V	V	n=s|t=P|p=3	
+6	au	à	P+D	P+D	n=s|g=m	
+7	choix	choix	NC	NC	g=m	
+8	un	un	DET	DET	n=s|g=m	
+9	quart	quart	NC	NC	n=s|g=m	
+10	de	de	P	P		
+11	tour	tour	NC	NC	n=s	
+12	ou	ou	CC	CC		
+13	un	un	DET	DET	n=s|g=m	
+14	demi	demi	ADJ	ADJ	n=s	
+15	-	-	PONCT	PONCT		
+16	tour	tour	NC	NC	n=s	
+17	d'	de	P	P		
+18	une	une	DET	DET	n=s|g=f	
+19	face	face	NC	NC	n=s|g=f	
+20	du	de	P+D	P+D	n=s|g=m	
+21	cube	cube	NC	NC	n=s|g=m	
+22	,	,	PONCT	PONCT		
+23	étant	être	VPR	VPR	t=G	
+24	donné	donner	VPP	VPP	n=s|g=m|t=K	
+25	une	une	DET	DET	n=s|g=f	
+26	position	position	NC	NC	n=s|g=f	
+27	,	,	PONCT	PONCT		
+28	il	il	CLS	CLS	n=s|g=m|p=3	
+29	existe	exister	V	V	n=s|t=P,S|p=1,3	
+30	18	18	ADJ	ADJ		
+31	mouvements	mouvement	NC	NC	n=p|g=m	
+32	élémentaires	élémentaire	ADJ	ADJ	n=p	
+33	.	.	PONCT	PONCT		
+
+1	On	on	CLS	CLS	n=s|p=3	
+2	savait	savoir	V	V	n=s|t=I|p=3	
+3	jusqu'	jusque	P	P		
+4	en	en	P	P		
+5	2010	2010	NC	NC		
+6	qu'	que	PROREL	PROREL		
+7	il	il	CLS	CLS	n=s|g=m|p=3	
+8	existait	exister	V	V	n=s|t=I|p=3	
+9	une	une	DET	DET	n=s|g=f	
+10	configuration	configuration	NC	NC	n=s|g=f	
+11	du	de	P+D	P+D	n=s|g=m	
+12	cube	cube	NC	NC	n=s|g=m	
+13	à	à	P	P		
+14	au	à	P+D	P+D	n=s|g=m	
+15	moins	moins	ADV	ADV		
+16	20	20	ADJ	ADJ		
+17	mouvements	mouvement	NC	NC	n=p|g=m	
+18	du	de	P+D	P+D	n=s|g=m	
+19	cube	cube	NC	NC	n=s|g=m	
+20	résolu	résoudre	VPP	VPP	n=s|g=m|t=K	
+21	si	si	CS	CS		
+22	on	on	CLS	CLS	n=s|p=3	
+23	autorise	autoriser	V	V	n=s|t=P,S|p=1,3	
+24	les	les	DET	DET	n=p	
+25	demi	demi	ADJ	ADJ	n=s	
+26	-	-	PONCT	PONCT		
+27	tours	tour	NC	NC	n=p	
+28	,	,	PONCT	PONCT		
+29	26	26	V	V		
+30	sinon	sinon	ADV	ADV		
+31	.	.	PONCT	PONCT		
+
+1	Une	une	DET	DET	n=s|g=f	
+2	telle	tel	ADJ	ADJ	n=s|g=f	
+3	configuration	configuration	NC	NC	n=s|g=f	
+4	est	être	V	V	n=s|t=P|p=3	
+5	appelée	appeler	VPP	VPP	n=s|g=f|t=K	
+6	superflip	_	NC	NC		
+7	.	.	PONCT	PONCT		
+
+1	Tomas	_	NC	NC		
+2	Rokicki	_	NPP	NPP		
+3	,	,	PONCT	PONCT		
+4	mathématicien	mathématicien	NC	NC	n=s|g=m	
+5	à	à	P	P		
+6	l'	le	DET	DET	n=s	
+7	université	université	NC	NC	n=s|g=f	
+8	Stanford	Stanford	NPP	NPP	n=s|g=m	
+9	,	,	PONCT	PONCT		
+10	a	avoir	V	V	n=s|t=P|p=3	
+11	établi	établir	VPP	VPP	n=s|g=m|t=K	
+12	qu'	que	CS	CS		
+13	il	il	CLS	CLS	n=s|g=m|p=3	
+14	est	être	V	V	n=s|t=P|p=3	
+15	possible	possible	ADJ	ADJ	n=s	
+16	de	de	P	P		
+17	résoudre	résoudre	VINF	VINF	t=W	
+18	tout	tout	ADV	ADV		
+19	Rubik	_	NPP	NPP		
+20	'	'	PONCT	PONCT		
+21	s	_	ADV	ADV		
+22	cube	cube	NC	NC	n=s|g=m	
+23	en	en	P	P		
+24	un	un	DET	DET	n=s|g=m	
+25	maximum	maximum	NC	NC	n=s|g=m	
+26	de	de	P	P		
+27	25	25	ADJ	ADJ		
+28	mouvements	mouvement	NC	NC	n=p|g=m	
+29	(	(	PONCT	PONCT		
+30	en	en	P	P		
+31	autorisant	autoriser	VPR	VPR	t=G	
+32	les	les	DET	DET	n=p	
+33	demi	demi	ADJ	ADJ	n=s	
+34	-	-	PONCT	PONCT		
+35	tours	tour	NC	NC	n=p	
+36	)	)	PONCT	PONCT		
+37	[	[	PONCT	PONCT		
+38	16	16	ADJ	ADJ		
+39	]	]	PONCT	PONCT		
+40	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	2008	2008	NC	NC		
+3	,	,	PONCT	PONCT		
+4	ce	ce	DET	DET	n=s|g=m	
+5	même	même	ADJ	ADJ	n=s	
+6	mathématicien	mathématicien	NC	NC	n=s|g=m	
+7	a	avoir	V	V	n=s|t=P|p=3	
+8	démontré	démontrer	VPP	VPP	n=s|g=m|t=K	
+9	que	que	CS	CS		
+10	ce	ce	DET	DET	n=s|g=m	
+11	nombre	nombre	NC	NC	n=s|g=m	
+12	pouvait	pouvoir	V	V	n=s|t=I|p=3	
+13	être	être	VINF	VINF	t=W	
+14	réduit	réduire	VPP	VPP	n=s|g=m|t=K	
+15	à	à	P	P		
+16	22	22	NC	NC		
+17	[	[	PONCT	PONCT		
+18	9	9	ADJ	ADJ		
+19	]	]	PONCT	PONCT		
+20	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	juillet	juillet	NC	NC	n=s|g=m	
+3	2010	2010	NC	NC		
+4	,	,	PONCT	PONCT		
+5	un	un	DET	DET	n=s|g=m	
+6	groupe	groupe	NC	NC	n=s|g=m	
+7	de	de	P	P		
+8	scientifiques	scientifique	ADJ	ADJ	n=p	
+9	internationaux	international	ADJ	ADJ	n=p|g=m	
+10	(	(	PONCT	PONCT		
+11	incluant	inclure	VPR	VPR	t=G	
+12	Tomas	Tomas	NPP	NPP	n=s|g=m	
+13	Rokicki	_	NPP	NPP		
+14	,	,	PONCT	PONCT		
+15	ainsi	ainsi	ADV	ADV		
+16	que	que	CS	CS		
+17	Morley	Morley	NPP	NPP	n=s|g=m	
+18	Davidson	_	NPP	NPP		
+19	,	,	PONCT	PONCT		
+20	John	John	NPP	NPP	n=s|g=m	
+21	Dethridge	_	NPP	NPP		
+22	et	et	CC	CC		
+23	Herbert	Herbert	NPP	NPP	n=s|g=m	
+24	Kociemba	_	NPP	NPP		
+25	)	)	PONCT	PONCT		
+26	démontre	démontrer	V	V	n=s|t=P,S|p=1,3	
+27	par	par	P	P		
+28	un	un	DET	DET	n=s|g=m	
+29	calcul	calcul	NC	NC	n=s|g=m	
+30	exhaustif	exhaustif	ADJ	ADJ	n=s|g=m	
+31	que	que	PROREL	PROREL		
+32	le	le	DET	DET	n=s|g=m	
+33	nombre	nombre	NC	NC	n=s|g=m	
+34	de	de	P	P		
+35	Dieu	_	NPP	NPP		
+36	est	être	V	V	n=s|t=P|p=3	
+37	20	20	VPP	VPP		
+38	[	[	PONCT	PONCT		
+39	17	17	NC	NC		
+40	]	]	PONCT	PONCT		
+41	.	.	PONCT	PONCT		
+
+1	Ce	ce	DET	DET	n=s|g=m	
+2	calcul	calcul	NC	NC	n=s|g=m	
+3	a	avoir	V	V	n=s|t=P|p=3	
+4	nécessité	nécessiter	VPP	VPP	n=s|g=m|t=K	
+5	quelques	quelques	DET	DET	n=p	
+6	semaines	semaine	NC	NC	n=p|g=f	
+7	de	de	P	P		
+8	calcul	calcul	NC	NC	n=s|g=m	
+9	distribué	distribuer	VPP	VPP	n=s|g=m|t=K	
+10	sur	sur	P	P		
+11	un	un	DET	DET	n=s|g=m	
+12	grand	grand	ADJ	ADJ	n=s|g=m	
+13	nombre	nombre	NC	NC	n=s|g=m	
+14	d'	de	P	P		
+15	ordinateurs	ordinateur	NC	NC	n=p|g=m	
+16	prêtés	prêter	VPP	VPP	n=p|g=m|t=K	
+17	par	par	P	P		
+18	Google	Google	NPP	NPP	n=s|g=m	
+19	,	,	PONCT	PONCT		
+20	et	et	CC	CC		
+21	représentant	représenter	VPR	VPR	t=G	
+22	l'	le	DET	DET	n=s	
+23	équivalent	équivalent	NC	NC	n=s|g=m	
+24	d'	de	P	P		
+25	un	un	DET	DET	n=s|g=m	
+26	temps	temps	NC	NC	g=m	
+27	de	de	P	P		
+28	calcul	calcul	NC	NC	n=s|g=m	
+29	de	de	P	P		
+30	35	35	NC	NC		
+31	ans	an	NC	NC	n=p|g=m	
+32	sur	sur	P	P		
+33	un	un	DET	DET	n=s|g=m	
+34	PC	_	NC	NC		
+35	haut	haut	ADJ	ADJ	n=s|g=m	
+36	de	de	P	P		
+37	gamme	gamme	NC	NC	n=s|g=f	
+38	.	.	PONCT	PONCT		
+
+1	Au	à	P+D	P+D	n=s|g=m	
+2	passage	passage	NC	NC	n=s|g=m	
+3	,	,	PONCT	PONCT		
+4	ce	ce	DET	DET	n=s|g=m	
+5	calcul	calcul	NC	NC	n=s|g=m	
+6	a	avoir	V	V	n=s|t=P|p=3	
+7	révélé	révéler	VPP	VPP	n=s|g=m|t=K	
+8	qu'	que	CS	CS		
+9	il	il	CLS	CLS	n=s|g=m|p=3	
+10	y	y	CLO	CLO		
+11	a	avoir	V	V	n=s|t=P|p=3	
+12	environ	environ	ADV	ADV		
+13	300	300	ADJ	ADJ		
+14	millions	million	NC	NC	n=p	
+15	de	de	P	P		
+16	configurations	configuration	NC	NC	n=p|g=f	
+17	qui	qui	PROREL	PROREL	n=s	
+18	nécessitent	nécessiter	V	V	n=p|t=P,S|p=3	
+19	exactement	_	ADV	ADV		
+20	20	20	ET	ET		
+21	flips	_	ET	ET		
+22	pour	pour	P	P		
+23	être	être	VINF	VINF	t=W	
+24	résolues	résoudre	VPP	VPP	n=p|g=f|t=K	
+25	et	et	CC	CC		
+26	qu'	que	CS	CS		
+27	il	il	CLS	CLS	n=s|g=m|p=3	
+28	faut	falloir	V	V	n=s|t=P|p=3	
+29	en	en	P	P		
+30	moyenne	moyenne	NC	NC	n=s|g=f	
+31	17,88	17,88	NC	NC		
+32	flips	_	NPP	NPP		
+33	pour	pour	P	P		
+34	résoudre	résoudre	VINF	VINF	t=W	
+35	une	une	DET	DET	n=s|g=f	
+36	configuration	configuration	NC	NC	n=s|g=f	
+37	tirée	tirer	VPP	VPP	n=s|g=f|t=K	
+38	uniformément	_	ADV	ADV		
+39	au	à	P+D	P+D	n=s|g=m	
+40	hasard	hasard	NC	NC	n=s|g=m	
+41	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	août	août	NC	NC	n=s|g=m	
+3	2014	2014	NC	NC		
+4	,	,	PONCT	PONCT		
+5	Tomas	Tomas	NPP	NPP	n=s|g=m	
+6	Rokicki	_	NPP	NPP		
+7	et	et	CC	CC		
+8	Morley	Morley	NPP	NPP	n=s|g=m	
+9	Davidson	_	NPP	NPP		
+10	démontrent	démontrer	V	V	n=p|t=P,S|p=3	
+11	qu'	que	CS	CS		
+12	en	en	P	P		
+13	n'	ne	ADV	ADV		
+14	autorisant	autoriser	VPR	VPR	t=G	
+15	que	que	CS	CS		
+16	les	les	DET	DET	n=p	
+17	quarts	quart	NC	NC	n=p|g=m	
+18	de	de	P	P		
+19	tour	tour	NC	NC	n=s	
+20	,	,	PONCT	PONCT		
+21	le	le	DET	DET	n=s|g=m	
+22	nombre	nombre	NC	NC	n=s|g=m	
+23	de	de	P	P		
+24	Dieu	_	NPP	NPP		
+25	est	être	V	V	n=s|t=P|p=3	
+26	26	26	VPP	VPP		
+27	[	[	PONCT	PONCT		
+28	18	18	ADJ	ADJ		
+29	]	]	PONCT	PONCT		
+30	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	existe	exister	V	V	n=s|t=P,S|p=1,3	
+3	une	une	DET	DET	n=s|g=f	
+4	World	_	NPP	NPP		
+5	Cube	_	NPP	NPP		
+6	Association	_	NPP	NPP		
+7	(	(	PONCT	PONCT		
+8	abrégée	abréger	VPP	VPP	n=s|g=f|t=K	
+9	WCA	_	NPP	NPP		
+10	)	)	PONCT	PONCT		
+11	qui	qui	PROREL	PROREL	n=s	
+12	organise	organiser	V	V	n=s|t=P,S|p=1,3	
+13	des	des	DET	DET	n=p	
+14	championnats	championnat	NC	NC	n=p|g=m	
+15	suivant	suivant	P	P		
+16	des	des	DET	DET	n=p	
+17	règles	règle	NC	NC	n=p|g=f	
+18	précises	précis	ADJ	ADJ	n=p|g=f	
+19	:	:	PONCT	PONCT		
+20	chaque	chaque	DET	DET	n=s	
+21	candidat	candidat	NC	NC	n=s|g=m	
+22	utilise	utiliser	V	V	n=s|t=P,S|p=1,3	
+23	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+24	cube	cube	NC	NC	n=s|g=m	
+25	personnel	personnel	ADJ	ADJ	n=s|g=m	
+26	(	(	PONCT	PONCT		
+27	parfois	parfois	ADV	ADV		
+28	lubrifié	lubrifier	VPP	VPP	n=s|g=m|t=K	
+29	)	)	PONCT	PONCT		
+30	et	et	CC	CC		
+31	la	la	DET	DET	n=s|g=f	
+32	position	position	NC	NC	n=s|g=f	
+33	de	de	P	P		
+34	départ	départ	NC	NC	n=s|g=m	
+35	est	être	V	V	n=s|t=P|p=3	
+36	la	la	DET	DET	n=s|g=f	
+37	même	même	ADJ	ADJ	n=s	
+38	pour	pour	P	P		
+39	tout	tout	ADJ	ADJ	n=s|g=m	
+40	le	le	DET	DET	n=s|g=m	
+41	monde	monde	NC	NC	n=s|g=m	
+42	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	premier	premier	ADJ	ADJ	n=s|g=m	
+3	championnat	championnat	NC	NC	n=s|g=m	
+4	du	de	P+D	P+D	n=s|g=m	
+5	monde	monde	NC	NC	n=s|g=m	
+6	s'	se	CLR	CLR	n=p,s|p=3	
+7	est	être	V	V	n=s|t=P|p=3	
+8	déroulé	dérouler	VPP	VPP	n=s|g=m|t=K	
+9	à	à	P	P		
+10	Budapest	Budapest	NPP	NPP	n=s|g=m	
+11	en	en	P	P		
+12	1982	1982	NC	NC		
+13	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	temps	temps	NC	NC	g=m	
+3	le	le	DET	DET	n=s|g=m	
+4	plus	plus	ADV	ADV		
+5	rapide	rapide	ADJ	ADJ	n=s	
+6	jamais	jamais	ADV	ADV		
+7	réalisé	réaliser	VPP	VPP	n=s|g=m|t=K	
+8	officiellement	_	ADV	ADV		
+9	est	être	V	V	n=s|t=P|p=3	
+10	de	de	P	P		
+11	3,47	3,47	NC	NC		
+12	s	_	NPP	NPP		
+13	,	,	PONCT	PONCT		
+14	détenu	détenir	VPP	VPP	n=s|g=m|t=K	
+15	par	par	P	P		
+16	le	le	DET	DET	n=s|g=m	
+17	"	"	PONCT	PONCT		
+18	cubeur	_	NC	NC		
+19	"	"	PONCT	PONCT		
+20	Yusheng	_	NC	NC		
+21	Du	_	NPP	NPP		
+22	lors	lors	ADV	ADV		
+23	de	de	P	P		
+24	la	la	DET	DET	n=s|g=f	
+25	compétition	compétition	NC	NC	n=s|g=f	
+26	Wuhu	_	NPP	NPP		
+27	Open	_	NPP	NPP		
+28	2018	2018	NC	NC		
+29	,	,	PONCT	PONCT		
+30	en	en	P	P		
+31	Chine	Chine	NPP	NPP	n=s|g=f	
+32	,	,	PONCT	PONCT		
+33	le	le	DET	DET	n=s|g=m	
+34	24	24	ADJ	ADJ		
+35	novembre	novembre	NC	NC	n=s|g=m	
+36	2018	2018	NC	NC		
+37	,	,	PONCT	PONCT		
+38	améliorant	améliorer	VPR	VPR	t=G	
+39	le	le	DET	DET	n=s|g=m	
+40	record	record	NC	NC	n=s|g=m	
+41	de	de	P	P		
+42	4,22	4,22	NC	NC		
+43	s	_	NPP	NPP		
+44	,	,	PONCT	PONCT		
+45	détenu	détenir	VPP	VPP	n=s|g=m|t=K	
+46	par	par	P	P		
+47	Feliks	_	NPP	NPP		
+48	Zemdegs	_	NPP	NPP		
+49	[	[	PONCT	PONCT		
+50	19	19	NC	NC		
+51	]	]	PONCT	PONCT		
+52	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	temps	temps	NC	NC	g=m	
+3	officiel	officiel	ADJ	ADJ	n=s|g=m	
+4	le	le	DET	DET	n=s|g=m	
+5	plus	plus	ADV	ADV		
+6	rapide	rapide	ADJ	ADJ	n=s	
+7	les	les	DET	DET	n=p	
+8	yeux	oeil	NC	NC	n=p|g=m	
+9	bandés	bander	VPP	VPP	n=p|g=m|t=K	
+10	est	être	V	V	n=s|t=P|p=3	
+11	de	de	P	P		
+12	17,20	17,20	NC	NC		
+13	s	_	ADV	ADV		
+14	établi	établir	VPP	VPP	n=s|g=m|t=K	
+15	par	par	P	P		
+16	l'	le	DET	DET	n=s	
+17	Américain	américain	NC	NC	n=s|g=m	
+18	Jeff	Jeff	NPP	NPP	n=s|g=m	
+19	Park	_	NPP	NPP		
+20	[	[	PONCT	PONCT		
+21	20	20	NC	NC		
+22	]	]	PONCT	PONCT		
+23	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	record	record	NC	NC	n=s|g=m	
+3	officiel	officiel	ADJ	ADJ	n=s|g=m	
+4	basé	baser	VPP	VPP	n=s|g=m|t=K	
+5	sur	sur	P	P		
+6	la	la	DET	DET	n=s|g=f	
+7	moyenne	moyenne	NC	NC	n=s|g=f	
+8	de	de	P	P		
+9	3	3	NC	NC		
+10	cubes	cube	NC	NC	n=p|g=m	
+11	parmi	parmi	P	P		
+12	5	5	NC	NC		
+13	(	(	PONCT	PONCT		
+14	excluant	exclure	VPR	VPR	t=G	
+15	l'	le	DET	DET	n=s	
+16	essai	essai	NC	NC	n=s|g=m	
+17	le	le	DET	DET	n=s|g=m	
+18	plus	plus	ADV	ADV		
+19	rapide	rapide	ADJ	ADJ	n=s	
+20	et	et	CC	CC		
+21	le	le	DET	DET	n=s|g=m	
+22	plus	plus	ADV	ADV		
+23	lent	lent	ADJ	ADJ	n=s|g=m	
+24	)	)	PONCT	PONCT		
+25	est	être	V	V	n=s|t=P|p=3	
+26	de	de	P	P		
+27	5,80	5,80	NC	NC		
+28	s	_	NPP	NPP		
+29	,	,	PONCT	PONCT		
+30	détenu	détenir	VPP	VPP	n=s|g=m|t=K	
+31	par	par	P	P		
+32	l'	le	DET	DET	n=s	
+33	Australien	_	NPP	NPP		
+34	Feliks	_	NPP	NPP		
+35	Zemdegs	_	NPP	NPP		
+36	[	[	PONCT	PONCT		
+37	21	21	ADJ	ADJ		
+38	]	]	PONCT	PONCT		
+39	,	,	PONCT	PONCT		
+40	lors	lors	ADV	ADV		
+41	du	de	P+D	P+D	n=s|g=m	
+42	Malaysia	_	NPP	NPP		
+43	Cube	_	NPP	NPP		
+44	Open	_	NPP	NPP		
+45	2017	2017	NC	NC		
+46	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	existe	exister	V	V	n=s|t=P,S|p=1,3	
+3	également	_	ADV	ADV		
+4	des	des	DET	DET	n=p	
+5	épreuves	épreuve	NC	NC	n=p|g=f	
+6	moins	moins	ADV	ADV		
+7	conventionnelles	conventionnel	ADJ	ADJ	n=p|g=f	
+8	,	,	PONCT	PONCT		
+9	mais	mais	CC	CC		
+10	toutefois	toutefois	ADV	ADV		
+11	reconnues	reconnaître	VPP	VPP	n=p|g=f|t=K	
+12	par	par	P	P		
+13	la	la	DET	DET	n=s|g=f	
+14	World	_	NPP	NPP		
+15	Cube	_	NPP	NPP		
+16	Association	_	NPP	NPP		
+17	:	:	PONCT	PONCT		
+18	résolution	résolution	NC	NC	n=s|g=f	
+19	les	les	DET	DET	n=p	
+20	yeux	oeil	NC	NC	n=p|g=m	
+21	bandés	bander	VPP	VPP	n=p|g=m|t=K	
+22	(	(	PONCT	PONCT		
+23	le	le	DET	DET	n=s|g=m	
+24	blindfold	_	NC	NC		
+25	cubing	_	NPP	NPP		
+26	)	)	PONCT	PONCT		
+27	,	,	PONCT	PONCT		
+28	avec	avec	P	P		
+29	une	une	DET	DET	n=s|g=f	
+30	seule	seul	ADJ	ADJ	n=s|g=f	
+31	main	main	NC	NC	n=s|g=f	
+32	,	,	PONCT	PONCT		
+33	avec	avec	P	P		
+34	les	les	DET	DET	n=p	
+35	pieds	pied	NC	NC	n=p	
+36	[	[	PONCT	PONCT		
+37	22	22	NC	NC		
+38	]	]	PONCT	PONCT		
+39	…	…	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	France	France	NPP	NPP	n=s|g=f,m	
+3	organise	organiser	V	V	n=s|t=P,S|p=1,3	
+4	tous	tout	ADJ	ADJ	n=p|g=m	
+5	les	les	DET	DET	n=p	
+6	ans	an	NC	NC	n=p|g=m	
+7	un	un	DET	DET	n=s|g=m	
+8	championnat	championnat	NC	NC	n=s|g=m	
+9	de	de	P	P		
+10	France	France	NPP	NPP	n=s|g=f,m	
+11	.	.	PONCT	PONCT		
+
+1	Ce	ce	DET	DET	n=s|g=m	
+2	championnat	championnat	NC	NC	n=s|g=m	
+3	a	avoir	V	V	n=s|t=P|p=3	
+4	été	être	VPP	VPP	t=K	
+5	organisé	organiser	VPP	VPP	n=s|g=m|t=K	
+6	à	à	P	P		
+7	Paris	Paris	NPP	NPP	n=s|g=m	
+8	de	de	P	P		
+9	2004	2004	NC	NC		
+10	à	à	P	P		
+11	2012	2012	NC	NC		
+12	.	.	PONCT	PONCT		
+
+1	Depuis	depuis	P	P		
+2	2013	2013	NC	NC		
+3	,	,	PONCT	PONCT		
+4	il	il	CLS	CLS	n=s|g=m|p=3	
+5	se	se	CLR	CLR	n=p,s|p=3	
+6	tient	tenir	V	V	n=s|t=P|p=3	
+7	chaque	chaque	DET	DET	n=s	
+8	année	année	NC	NC	n=s|g=f	
+9	dans	dans	P	P		
+10	une	une	DET	DET	n=s|g=f	
+11	ville	ville	NC	NC	n=s|g=f	
+12	différente	différent	ADJ	ADJ	n=s|g=f	
+13	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	2011	2011	NC	NC		
+3	,	,	PONCT	PONCT		
+4	le	le	DET	DET	n=s|g=m	
+5	robot	robot	NC	NC	n=s|g=m	
+6	CubeStormer	_	NPP	NPP		
+7	II	_	NPP	NPP		
+8	a	avoir	V	V	n=s|t=P|p=3	
+9	réussi	réussir	VPP	VPP	n=s|g=m|t=K	
+10	à	à	P	P		
+11	battre	battre	VINF	VINF	t=W	
+12	le	le	DET	DET	n=s|g=m	
+13	record	record	NC	NC	n=s|g=m	
+14	du	de	P+D	P+D	n=s|g=m	
+15	monde	monde	NC	NC	n=s|g=m	
+16	(	(	PONCT	PONCT		
+17	à	à	P	P		
+18	l'	le	DET	DET	n=s	
+19	époque	époque	NC	NC	n=s|g=f	
+20	de	de	P	P		
+21	5,66	5,66	NC	NC		
+22	s	_	NPP	NPP		
+23	)	)	PONCT	PONCT		
+24	jusque	jusque	P	P		
+25	-	-	PONCT	PONCT		
+26	là	là	ADV	ADV		
+27	détenu	détenir	VPP	VPP	n=s|g=m|t=K	
+28	par	par	P	P		
+29	un	un	DET	DET	n=s|g=m	
+30	humain	humain	ADJ	ADJ	n=s|g=m	
+31	en	en	P	P		
+32	résolvant	résoudre	VPR	VPR	t=G	
+33	un	un	DET	DET	n=s|g=m	
+34	cube	cube	NC	NC	n=s|g=m	
+35	en	en	P	P		
+36	seulement	_	ADV	ADV		
+37	5,270	5,270	NC	NC		
+38	s	_	NPP	NPP		
+39	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	s'	se	CLR	CLR	n=p,s|p=3	
+3	agissait	agir	V	V	n=s|t=I|p=3	
+4	d'	de	P	P		
+5	un	un	DET	DET	n=s|g=m	
+6	robot	robot	NC	NC	n=s|g=m	
+7	en	en	P	P		
+8	Lego	_	NPP	NPP		
+9	conçu	concevoir	VPP	VPP	n=s|g=m|t=K	
+10	et	et	CC	CC		
+11	programmé	programmer	VPP	VPP	n=s|g=m|t=K	
+12	par	par	P	P		
+13	Mike	Mike	NPP	NPP	n=s|g=m	
+14	Dobson	_	NPP	NPP		
+15	et	et	CC	CC		
+16	David	David	NPP	NPP	n=s|g=m	
+17	Gilday	_	NPP	NPP		
+18	et	et	CC	CC		
+19	fonctionnant	fonctionner	VPR	VPR	t=G	
+20	grâce	grâce	NC	NC	n=s|g=f	
+21	à	à	P	P		
+22	une	une	DET	DET	n=s|g=f	
+23	application	application	NC	NC	n=s|g=f	
+24	Android	_	NPP	NPP		
+25	sur	sur	P	P		
+26	un	un	DET	DET	n=s|g=m	
+27	Samsung	_	NPP	NPP		
+28	Galaxy	_	NPP	NPP		
+29	S	_	NPP	NPP		
+30	II	_	NPP	NPP		
+31	[	[	PONCT	PONCT		
+32	23	23	NC	NC		
+33	]	]	PONCT	PONCT		
+34	.	.	PONCT	PONCT		
+
+1	Depuis	depuis	ADV	ADV		
+2	,	,	PONCT	PONCT		
+3	le	le	DET	DET	n=s|g=m	
+4	17	17	ADJ	ADJ		
+5	mars	mars	NC	NC	g=m	
+6	2014	2014	NC	NC		
+7	,	,	PONCT	PONCT		
+8	le	le	DET	DET	n=s|g=m	
+9	robot	robot	NC	NC	n=s|g=m	
+10	ARM	_	NPP	NPP		
+11	-	-	PONCT	PONCT		
+12	Powered	_	NPP	NPP		
+13	Cubestormer	_	NPP	NPP		
+14	[	[	PONCT	PONCT		
+15	24	24	NC	NC		
+16	]	]	PONCT	PONCT		
+17	3	3	ADJ	ADJ		
+18	a	avoir	V	V	n=s|t=P|p=3	
+19	battu	battre	VPP	VPP	n=s|g=m|t=K	
+20	ce	ce	DET	DET	n=s|g=m	
+21	record	record	NC	NC	n=s|g=m	
+22	en	en	P	P		
+23	réalisant	réaliser	VPR	VPR	t=G	
+24	le	le	DET	DET	n=s|g=m	
+25	casse	casse	NC	NC	n=s	
+26	-	-	PONCT	PONCT		
+27	tête	tête	NC	NC	n=s|g=f	
+28	en	en	P	P		
+29	3,253	3,253	NC	NC		
+30	s	_	NPP	NPP		
+31	.	.	PONCT	PONCT		
+
+1	lors	lors	ADV	ADV		
+2	du	de	P+D	P+D	n=s|g=m	
+3	Big	_	NPP	NPP		
+4	Bang	_	NPP	NPP		
+5	Fair	_	NPP	NPP		
+6	de	de	P	P		
+7	Birmingham	Birmingham	NPP	NPP	n=s|g=m	
+8	,	,	PONCT	PONCT		
+9	au	à	P+D	P+D	n=s|g=m	
+10	Royaume	_	NPP	NPP		
+11	-	-	PONCT	PONCT		
+12	Uni	unir	VPP	VPP	n=s|g=m|t=K	
+13	[	[	PONCT	PONCT		
+14	24	24	NC	NC		
+15	]	]	PONCT	PONCT		
+16	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	robot	robot	NC	NC	n=s|g=m	
+3	conçu	concevoir	VPP	VPP	n=s|g=m|t=K	
+4	par	par	P	P		
+5	les	les	DET	DET	n=p	
+6	mêmes	même	ADJ	ADJ	n=p	
+7	ingénieurs	ingénieur	NC	NC	n=p|g=m	
+8	est	être	V	V	n=s|t=P|p=3	
+9	construit	construire	VPP	VPP	n=s|g=m|t=K	
+10	en	en	P	P		
+11	Lego	_	NPP	NPP		
+12	et	et	CC	CC		
+13	fonctionne	fonctionner	V	V	n=s|t=P,S|p=1,3	
+14	grâce	grâce	NC	NC	n=s|g=f	
+15	à	à	P	P		
+16	une	une	DET	DET	n=s|g=f	
+17	application	application	NC	NC	n=s|g=f	
+18	Android	_	NPP	NPP		
+19	sur	sur	P	P		
+20	un	un	DET	DET	n=s|g=m	
+21	Samsung	_	NPP	NPP		
+22	Galaxy	_	NPP	NPP		
+23	S4	_	NPP	NPP		
+24	[	[	PONCT	PONCT		
+25	25	25	ADJ	ADJ		
+26	]	]	PONCT	PONCT		
+27	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	23	23	ADJ	ADJ		
+3	janvier	janvier	NC	NC	n=s|g=m	
+4	2016	2016	NC	NC		
+5	,	,	PONCT	PONCT		
+6	le	le	DET	DET	n=s|g=m	
+7	robot	robot	NC	NC	n=s|g=m	
+8	Sub1	_	NPP	NPP		
+9	réalise	réaliser	V	V	n=s|t=P,S|p=1,3	
+10	le	le	DET	DET	n=s|g=m	
+11	casse	casse	NC	NC	n=s	
+12	-	-	PONCT	PONCT		
+13	tête	tête	NC	NC	n=s|g=f	
+14	en	en	P	P		
+15	seulement	_	ADV	ADV		
+16	0,887	0,887	NC	NC		
+17	s	_	NPP	NPP		
+18	,	,	PONCT	PONCT		
+19	détrônant	détrôner	VPR	VPR	t=G	
+20	ainsi	ainsi	ADV	ADV		
+21	le	le	DET	DET	n=s|g=m	
+22	précédent	précédent	ADJ	ADJ	n=s|g=m	
+23	robot	robot	NC	NC	n=s|g=m	
+24	.	.	PONCT	PONCT		
+
+1	Ce	ce	DET	DET	n=s|g=m	
+2	record	record	NC	NC	n=s|g=m	
+3	a	avoir	V	V	n=s|t=P|p=3	
+4	été	être	VPP	VPP	t=K	
+5	réalisé	réaliser	VPP	VPP	n=s|g=m|t=K	
+6	au	à	P+D	P+D	n=s|g=m	
+7	Cubikon	_	NPP	NPP		
+8	Store	_	NPP	NPP		
+9	de	de	P	P		
+10	Munich	Munich	NPP	NPP	n=s|g=m	
+11	en	en	P	P		
+12	Allemagne	Allemagne	NPP	NPP	n=s|g=f	
+13	[	[	PONCT	PONCT		
+14	26	26	ADJ	ADJ		
+15	]	]	PONCT	PONCT		
+16	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	succès	succès	NC	NC	g=m	
+3	du	de	P+D	P+D	n=s|g=m	
+4	Rubik	_	NC	NC		
+5	'	'	PONCT	PONCT		
+6	s	_	NPP	NPP		
+7	Cube	_	NPP	NPP		
+8	a	avoir	V	V	n=s|t=P|p=3	
+9	donné	donner	VPP	VPP	n=s|g=m|t=K	
+10	naissance	naissance	NC	NC	n=s|g=f	
+11	à	à	P	P		
+12	plusieurs	plusieurs	DET	DET	n=p	
+13	variantes	variante	NC	NC	n=p|g=f	
+14	.	.	PONCT	PONCT		
+
+1	Rubik	_	NPP	NPP		
+2	a	avoir	V	V	n=s|t=P|p=3	
+3	commercialisé	commercialiser	VPP	VPP	n=s|g=m|t=K	
+4	quatre	quatre	DET	DET	s=card|n=p	
+5	variantes	variante	NC	NC	n=p|g=f	
+6	de	de	P	P		
+7	forme	forme	NC	NC	n=s|g=f	
+8	cubique	cubique	ADJ	ADJ	n=s	
+9	,	,	PONCT	PONCT		
+10	en	en	P	P		
+11	changeant	changer	VPR	VPR	t=G	
+12	le	le	DET	DET	n=s|g=m	
+13	nombre	nombre	NC	NC	n=s|g=m	
+14	de	de	P	P		
+15	cubes	cube	NC	NC	n=p|g=m	
+16	sur	sur	P	P		
+17	une	une	DET	DET	n=s|g=f	
+18	arête	arête	NC	NC	n=s|g=f	
+19	:	:	PONCT	PONCT		
+
+1	Pocket	_	NPP	NPP		
+2	Cube	_	NPP	NPP		
+3	(	(	PONCT	PONCT		
+4	2	2	NC	NC		
+5	×	_	NPP	NPP		
+6	2	2	ADJ	ADJ		
+7	×	_	NC	NC		
+8	2	2	ADJ	ADJ		
+9	)	)	PONCT	PONCT		
+
+1	Rubik	_	NPP	NPP		
+2	'	'	PONCT	PONCT		
+3	s	_	NPP	NPP		
+4	Cube	_	NPP	NPP		
+5	(	(	PONCT	PONCT		
+6	3	3	ADJ	ADJ		
+7	×	_	NC	NC		
+8	3	3	ADJ	ADJ		
+9	×	_	NC	NC		
+10	3	3	ADJ	ADJ		
+11	)	)	PONCT	PONCT		
+
+1	Rubik	_	NPP	NPP		
+2	'	'	PONCT	PONCT		
+3	s	_	NPP	NPP		
+4	Revenge	_	NPP	NPP		
+5	(	(	PONCT	PONCT		
+6	4	4	NC	NC		
+7	×	_	NPP	NPP		
+8	4	4	ADJ	ADJ		
+9	×	_	NC	NC		
+10	4	4	ADJ	ADJ		
+11	)	)	PONCT	PONCT		
+
+1	Professor	_	NPP	NPP		
+2	'	'	PONCT	PONCT		
+3	s	_	NPP	NPP		
+4	Cube	_	NPP	NPP		
+5	(	(	PONCT	PONCT		
+6	5	5	NC	NC		
+7	×	_	ADJ	ADJ		
+8	5	5	ADJ	ADJ		
+9	×	_	NC	NC		
+10	5	5	ADJ	ADJ		
+11	)	)	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	existe	exister	V	V	n=s|t=P,S|p=1,3	
+3	aussi	aussi	ADV	ADV		
+4	des	des	DET	DET	n=p	
+5	versions	version	NC	NC	n=p|g=f	
+6	plus	plus	ADV	ADV		
+7	complexes	complexe	ADJ	ADJ	n=p	
+8	,	,	PONCT	PONCT		
+9	des	des	DET	DET	n=p	
+10	cubes	cube	NC	NC	n=p|g=m	
+11	6	6	ADJ	ADJ		
+12	×	_	NC	NC		
+13	6	6	ADJ	ADJ		
+14	×	_	NC	NC		
+15	6	6	ADJ	ADJ		
+16	et	et	CC	CC		
+17	7	7	ADJ	ADJ		
+18	×	_	NC	NC		
+19	7	7	ADJ	ADJ		
+20	×	_	NC	NC		
+21	7	7	ADJ	ADJ		
+22	,	,	PONCT	PONCT		
+23	inventées	inventer	VPP	VPP	n=p|g=f|t=K	
+24	par	par	P	P		
+25	Panagiotis	Panagiotis	NPP	NPP	n=s|g=m	
+26	Verdes	Verdes	NPP	NPP	n=s|g=m	
+27	(	(	PONCT	PONCT		
+28	en	en	P	P		
+29	)	)	PONCT	PONCT		
+30	:	:	PONCT	PONCT		
+
+1	V	_	NPP	NPP		
+2	-	-	PONCT	PONCT		
+3	Cube	cube	NC	NC	n=s|g=m	
+4	6	6	ADJ	ADJ		
+5	(	(	PONCT	PONCT		
+6	6	6	ADJ	ADJ		
+7	×	_	NC	NC		
+8	6	6	ADJ	ADJ		
+9	×	_	NC	NC		
+10	6	6	ADJ	ADJ		
+11	)	)	PONCT	PONCT		
+
+1	V	_	NPP	NPP		
+2	-	-	PONCT	PONCT		
+3	Cube	cube	NC	NC	n=s|g=m	
+4	7	7	ADJ	ADJ		
+5	(	(	PONCT	PONCT		
+6	7	7	ADJ	ADJ		
+7	×	_	NC	NC		
+8	7	7	ADJ	ADJ		
+9	×	_	NC	NC		
+10	7	7	ADJ	ADJ		
+11	)	)	PONCT	PONCT		
+
+1	À	à	P	P		
+2	noter	noter	VINF	VINF	t=W	
+3	qu'	que	CS	CS		
+4	on	on	CLS	CLS	n=s|p=3	
+5	peut	pouvoir	V	V	n=s|t=P|p=3	
+6	grâce	grâce	NC	NC	n=s|g=f	
+7	à	à	P	P		
+8	l'	le	DET	DET	n=s	
+9	informatique	informatique	NC	NC	n=s|g=f	
+10	simuler	simuler	VINF	VINF	t=W	
+11	des	des	DET	DET	n=p	
+12	cubes	cube	NC	NC	n=p|g=m	
+13	jusqu'	jusque	P	P		
+14	à	à	P	P		
+15	1000x1000x1000	_	NPP	NPP		
+16	[	[	PONCT	PONCT		
+17	30	30	NC	NC		
+18	]	]	PONCT	PONCT		
+19	.	.	PONCT	PONCT		
+
+1	D'	de	DET	DET	n=p	
+2	autres	autre	ADJ	ADJ	n=p	
+3	variantes	variante	NC	NC	n=p|g=f	
+4	consistent	consister	V	V	n=p|t=P,S|p=3	
+5	à	à	P	P		
+6	changer	changer	VINF	VINF	t=W	
+7	le	le	DET	DET	n=s|g=m	
+8	polyèdre	polyèdre	NC	NC	n=s|g=m	
+9	utilisé	utiliser	VPP	VPP	n=s|g=m|t=K	
+10	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	plupart	plupart	NC	NC	n=s|g=f	
+3	de	de	P	P		
+4	ces	ces	DET	DET	n=p	
+5	variantes	variante	NC	NC	n=p|g=f	
+6	furent	être	V	V	n=p|t=J|p=3	
+7	inventées	inventer	VPP	VPP	n=p|g=f|t=K	
+8	par	par	P	P		
+9	Uwe	Uwe	NPP	NPP	n=s|g=m	
+10	Mèffert	_	NPP	NPP		
+11	:	:	PONCT	PONCT		
+
+1	Pyraminx	_	NPP	NPP		
+2	(	(	PONCT	PONCT		
+3	tétraèdre	tétraèdre	NC	NC	n=s|g=m	
+4	)	)	PONCT	PONCT		
+
+1	Skewb	_	NPP	NPP		
+2	(	(	PONCT	PONCT		
+3	cube	cube	NC	NC	n=s|g=m	
+4	)	)	PONCT	PONCT		
+
+1	Megaminx	_	NPP	NPP		
+2	(	(	PONCT	PONCT		
+3	dodécaèdre	_	NC	NC		
+4	régulier	régulier	ADJ	ADJ	n=s|g=m	
+5	)	)	PONCT	PONCT		
+
+1	Square	square	NC	NC	n=s|g=m	
+2	One	_	NPP	NPP		
+3	(	(	PONCT	PONCT		
+4	Cube	cube	NC	NC	n=s|g=m	
+5	)	)	PONCT	PONCT		
+
+1	Ou	ou	CC	CC		
+2	encore	encore	ADV	ADV		
+3	la	la	DET	DET	n=s|g=f	
+4	Twistball	_	NPP	NPP		
+5	inventée	inventer	VPP	VPP	n=s|g=f|t=K	
+6	par	par	P	P		
+7	Josip	Josip	NPP	NPP	n=s|g=m	
+8	Matijek	_	NPP	NPP		
+9	:	:	PONCT	PONCT		
+
+1	Twistball	_	NC	NC		
+2	bicolore	bicolore	ADJ	ADJ	n=s	
+3	bleu	bleu	ADJ	ADJ	n=s|g=m	
+4	-	-	PONCT	PONCT		
+5	vert	vert	NC	NC	n=s|g=m	
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	existe	exister	V	V	n=s|t=P,S|p=1,3	
+3	d'	de	DET	DET	n=p	
+4	autres	autre	ADJ	ADJ	n=p	
+5	variantes	variante	NC	NC	n=p|g=f	
+6	,	,	PONCT	PONCT		
+7	comme	comme	CS	CS		
+8	le	le	DET	DET	n=s|g=m	
+9	Rubik	_	NC	NC		
+10	'	'	PONCT	PONCT		
+11	s	_	NPP	NPP		
+12	Barrel	_	NPP	NPP		
+13	ou	ou	CC	CC		
+14	le	le	DET	DET	n=s|g=m	
+15	Puzzle	_	NPP	NPP		
+16	multi	_	NPP	NPP		
+17	-	-	PONCT	PONCT		
+18	pyramidal	pyramidal	ADJ	ADJ	n=s|g=m	
+19	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	y	y	CLO	CLO		
+3	a	avoir	V	V	n=s|t=P|p=3	
+4	des	des	DET	DET	n=p	
+5	variantes	variante	NC	NC	n=p|g=f	
+6	du	de	P+D	P+D	n=s|g=m	
+7	schéma	schéma	NC	NC	n=s|g=m	
+8	de	de	P	P		
+9	couleurs	couleur	NC	NC	n=p|g=f	
+10	classique	classique	ADJ	ADJ	n=s	
+11	.	.	PONCT	PONCT		
+
+1	Par	par	P	P		
+2	exemple	exemple	NC	NC	n=s|g=m	
+3	,	,	PONCT	PONCT		
+4	sur	sur	P	P		
+5	le	le	DET	DET	n=s|g=m	
+6	schéma	schéma	NC	NC	n=s|g=m	
+7	dit	dire	VPP	VPP	n=s|g=m|t=K	
+8	"	"	PONCT	PONCT		
+9	japonais	japonais	ADJ	ADJ	g=m	
+10	"	"	PONCT	PONCT		
+11	,	,	PONCT	PONCT		
+12	la	la	DET	DET	n=s|g=f	
+13	face	face	NC	NC	n=s|g=f	
+14	blanche	blanc	ADJ	ADJ	n=s|g=f	
+15	et	et	CC	CC		
+16	la	la	DET	DET	n=s|g=f	
+17	face	face	NC	NC	n=s|g=f	
+18	bleue	bleu	ADJ	ADJ	n=s|g=f	
+19	sont	être	V	V	n=p|t=P|p=3	
+20	opposées	opposer	VPP	VPP	n=p|g=f|t=K	
+21	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	cube	cube	NC	NC	n=s|g=m	
+3	calendrier	calendrier	NC	NC	n=s|g=m	
+4	est	être	V	V	n=s|t=P|p=3	
+5	un	un	DET	DET	n=s|g=m	
+6	Rubik	_	NC	NC		
+7	'	'	PONCT	PONCT		
+8	s	_	NPP	NPP		
+9	Cube	_	NPP	NPP		
+10	décoré	décorer	VPP	VPP	n=s|g=m|t=K	
+11	de	de	P	P		
+12	sorte	sorte	NC	NC	n=s|g=f	
+13	qu'	que	PROREL	PROREL		
+14	il	il	CLS	CLS	n=s|g=m|p=3	
+15	soit	être	VS	VS	n=s|t=S|p=3	
+16	possible	possible	ADJ	ADJ	n=s	
+17	de	de	P	P		
+18	former	former	VINF	VINF	t=W	
+19	n'	ne	ADV	ADV		
+20	importe	importer	V	V	n=s|t=P,S|p=1,3	
+21	quelle	quel	DETWH	DETWH	n=s|g=f	
+22	association	association	NC	NC	n=s|g=f	
+23	de	de	P	P		
+24	jour	jour	NC	NC	n=s|g=m	
+25	et	et	CC	CC		
+26	date	date	NC	NC	n=s|g=f	
+27	sur	sur	P	P		
+28	une	un	PRO	PRO	n=s|g=f	
+29	des	de	P+D	P+D	n=p	
+30	faces	face	NC	NC	n=p|g=f	
+31	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	existe	exister	V	V	n=s|t=P,S|p=1,3	
+3	également	_	ADV	ADV		
+4	des	des	DET	DET	n=p	
+5	variantes	variante	NC	NC	n=p|g=f	
+6	publicitaires	publicitaire	ADJ	ADJ	n=p	
+7	ou	ou	CC	CC		
+8	à	à	P	P		
+9	thèmes	thème	NC	NC	n=p|g=m	
+10	:	:	PONCT	PONCT		
+11	ainsi	ainsi	ADV	ADV		
+12	furent	être	V	V	n=p|t=J|p=3	
+13	créés	créer	VPP	VPP	n=p|g=m|t=K	
+14	des	de	P+D	P+D	n=p	
+15	Rubik	_	NC	NC		
+16	'	'	PONCT	PONCT		
+17	s	_	NPP	NPP		
+18	Cubes	_	NPP	NPP		
+19	à	à	P	P		
+20	l'	le	DET	DET	n=s	
+21	effigie	effigie	NC	NC	n=s|g=f	
+22	de	de	P	P		
+23	Dark	_	NPP	NPP		
+24	Maul	_	NPP	NPP		
+25	,	,	PONCT	PONCT		
+26	d'	de	P	P		
+27	Homer	Homer	NPP	NPP	n=s|g=m	
+28	Simpson	_	NPP	NPP		
+29	,	,	PONCT	PONCT		
+30	du	de	P+D	P+D	n=s|g=m	
+31	Musée	musée	NC	NC	n=s|g=m	
+32	du	de	P+D	P+D	n=s|g=m	
+33	Louvre	_	NPP	NPP		
+34	[	[	PONCT	PONCT		
+35	31	31	NC	NC		
+36	]	]	PONCT	PONCT		
+37	ou	ou	CC	CC		
+38	encore	encore	ADV	ADV		
+39	de	de	P	P		
+40	marques	marque	NC	NC	n=p|g=f	
+41	de	de	P	P		
+42	sodas	soda	NC	NC	n=p|g=m	
+43	.	.	PONCT	PONCT		
+
+1	Certains	certain	DET	DET	n=p|g=m	
+2	Rubik	_	NC	NC		
+3	'	'	PONCT	PONCT		
+4	s	_	NPP	NPP		
+5	Cubes	_	NPP	NPP		
+6	sont	être	V	V	n=p|t=P|p=3	
+7	aussi	aussi	ADV	ADV		
+8	distribués	distribuer	VPP	VPP	n=p|g=m|t=K	
+9	(	(	PONCT	PONCT		
+10	parfois	parfois	ADV	ADV		
+11	sous	sous	P	P		
+12	forme	forme	NC	NC	n=s|g=f	
+13	de	de	P	P		
+14	porte	porte	NC	NC	n=s|g=f	
+15	-	-	PONCT	PONCT		
+16	clés	clé	NC	NC	n=p|g=f	
+17	:	:	PONCT	PONCT		
+18	2	2	NC	NC		
+19	×	_	NPP	NPP		
+20	2	2	ADJ	ADJ		
+21	×	_	NC	NC		
+22	2	2	ADJ	ADJ		
+23	;	;	PONCT	PONCT		
+24	3	3	ADJ	ADJ		
+25	×	_	NC	NC		
+26	3	3	ADJ	ADJ		
+27	×	_	NC	NC		
+28	3	3	ADJ	ADJ		
+29	)	)	PONCT	PONCT		
+30	,	,	PONCT	PONCT		
+31	pour	pour	P	P		
+32	des	des	DET	DET	n=p	
+33	organisations	organisation	NC	NC	n=p|g=f	
+34	ou	ou	CC	CC		
+35	des	de	P+D	P+D	n=p	
+36	entreprises	entreprise	NC	NC	n=p|g=f	
+37	,	,	PONCT	PONCT		
+38	telles	tel	ADJ	ADJ	n=p|g=f	
+39	Philips	_	NPP	NPP		
+40	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	numéros	numéro	NC	NC	n=p|g=m	
+3	de	de	P	P		
+4	page	page	NC	NC	n=s	
+5	ci	_	NPP	NPP		
+6	-	-	PONCT	PONCT		
+7	dessous	dessous	ADV	ADV		
+8	font	faire	V	V	n=p|t=P|p=3	
+9	référence	référence	NC	NC	n=s|g=f	
+10	à	à	P	P		
+11	la	la	DET	DET	n=s|g=f	
+12	version	version	NC	NC	n=s|g=f	
+13	originale	original	ADJ	ADJ	n=s|g=f	
+14	.	.	PONCT	PONCT		
+
+1	Sur	sur	P	P		
+2	les	les	DET	DET	n=p	
+3	autres	autre	ADJ	ADJ	n=p	
+4	projets	projet	NC	NC	n=p|g=m	
+5	Wikimedia	_	NPP	NPP		
+6	:	:	PONCT	PONCT		
+

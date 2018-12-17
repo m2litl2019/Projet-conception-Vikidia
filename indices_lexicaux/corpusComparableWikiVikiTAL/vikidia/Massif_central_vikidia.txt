@@ -1,0 +1,1241 @@
+1	45	45	ADJ	ADJ		
+2	°	°	NC	NC	g=m	
+3	32	32	ADJ	ADJ		
+4	′	′	PONCT	PONCT		
+5	N	_	NPP	NPP		
+6	2	2	ADJ	ADJ		
+7	°	°	NC	NC	g=m	
+8	49	49	ADJ	ADJ		
+9	′	′	PONCT	PONCT		
+10	E	_	NPP	NPP		
+11	/	/	PONCT	PONCT		
+12	45.533	45.533	NPP	NPP		
+13	,	,	PONCT	PONCT		
+14	2.817	2.817	NC	NC		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	Massif	massif	NC	NC	n=s|g=m	
+3	central	central	ADJ	ADJ	n=s|g=m	
+4	est	être	V	V	n=s|t=P|p=3	
+5	un	un	DET	DET	n=s|g=m	
+6	massif	massif	NC	NC	n=s|g=m	
+7	montagneux	montagneux	ADJ	ADJ	g=m	
+8	au	à	P+D	P+D	n=s|g=m	
+9	centre	centre	NC	NC	n=s|g=m	
+10	de	de	P	P		
+11	la	la	DET	DET	n=s|g=f	
+12	France	France	NPP	NPP	n=s|g=f,m	
+13	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	s'	se	CLR	CLR	n=p,s|p=3	
+3	agit	agir	V	V	n=s|t=J,P|p=3	
+4	des	des	DET	DET	n=p	
+5	restes	reste	NC	NC	n=p|g=m	
+6	érodés	éroder	VPP	VPP	n=p|g=m|t=K	
+7	d'	de	P	P		
+8	une	une	DET	DET	n=s|g=f	
+9	très	très	ADV	ADV		
+10	ancienne	ancien	ADJ	ADJ	n=s|g=f	
+11	chaîne	chaîne	NC	NC	n=s|g=f	
+12	de	de	P	P		
+13	montagnes	montagne	NC	NC	n=p|g=f	
+14	,	,	PONCT	PONCT		
+15	abritant	abriter	VPR	VPR	t=G	
+16	principalement	_	ADV	ADV		
+17	des	des	DET	DET	n=p	
+18	roches	roche	NC	NC	n=p|g=f	
+19	granitiques	granitique	ADJ	ADJ	n=p	
+20	,	,	PONCT	PONCT		
+21	sur	sur	P	P		
+22	lesquelles	lequel	PROREL	PROREL	n=p|g=f	
+23	on	on	CLS	CLS	n=s|p=3	
+24	trouve	trouver	V	V	n=s|t=P,S|p=1,3	
+25	les	les	DET	DET	n=p	
+26	traces	trace	NC	NC	n=p|g=f	
+27	d'	de	P	P		
+28	une	une	DET	DET	n=s|g=f	
+29	grande	grand	ADJ	ADJ	n=s|g=f	
+30	chaîne	chaîne	NC	NC	n=s|g=f	
+31	de	de	P	P		
+32	volcans	volcan	NC	NC	n=p|g=m	
+33	,	,	PONCT	PONCT		
+34	aujourd'hui	aujourd'hui	ADV	ADV		
+35	éteints	éteindre	VPP	VPP	n=p|g=m|t=K	
+36	.	.	PONCT	PONCT		
+
+1	Au	à	P+D	P+D	n=s|g=m	
+2	Sud	_	NPP	NPP		
+3	,	,	PONCT	PONCT		
+4	on	on	CLS	CLS	n=s|p=3	
+5	trouve	trouver	V	V	n=s|t=P,S|p=1,3	
+6	d'	de	DET	DET	n=p	
+7	immenses	immense	ADJ	ADJ	n=p	
+8	plateaux	plateau	NC	NC	n=p|g=m	
+9	calcaires	calcaire	ADJ	ADJ	n=p	
+10	:	:	PONCT	PONCT		
+11	les	les	DET	DET	n=p	
+12	Grands	grand	ADJ	ADJ	n=p|g=m	
+13	Causses	causse	NC	NC	n=p|g=m	
+14	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	point	point	NC	NC	n=s|g=m	
+3	culminant	culminant	ADJ	ADJ	n=s|g=m	
+4	est	être	V	V	n=s|t=P|p=3	
+5	le	le	DET	DET	n=s|g=m	
+6	puy	puy	NC	NC	n=s|g=m	
+7	de	de	P	P		
+8	Sancy	Sancy	NPP	NPP	n=s|g=m	
+9	(	(	PONCT	PONCT		
+10	1_886	1_886	NC	NC		
+11	m	_	NPP	NPP		
+12	)	)	PONCT	PONCT		
+13	,	,	PONCT	PONCT		
+14	qui	qui	PROREL	PROREL	n=s	
+15	est	être	V	V	n=s|t=P|p=3	
+16	un	un	DET	DET	n=s|g=m	
+17	volcan	volcan	NC	NC	n=s|g=m	
+18	.	.	PONCT	PONCT		
+
+1	Par	par	P	P		
+2	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+3	position	position	NC	NC	n=s|g=f	
+4	centrale	central	ADJ	ADJ	n=s|g=f	
+5	,	,	PONCT	PONCT		
+6	les	les	DET	DET	n=p	
+7	pluies	pluie	NC	NC	n=p|g=f	
+8	et	et	CC	CC		
+9	l'	le	DET	DET	n=s	
+10	enneigement	enneigement	NC	NC	n=s|g=m	
+11	une	une	DET	DET	n=s|g=f	
+12	partie	partie	NC	NC	n=s|g=f	
+13	de	de	P	P		
+14	l'	le	DET	DET	n=s	
+15	année	année	NC	NC	n=s|g=f	
+16	,	,	PONCT	PONCT		
+17	il	il	CLS	CLS	n=s|g=m|p=3	
+18	donne	donner	V	V	n=s|t=P,S|p=1,3	
+19	naissance	naissance	NC	NC	n=s|g=f	
+20	à	à	P	P		
+21	de	de	DET	DET	n=p	
+22	nombreuses	nombreux	ADJ	ADJ	n=p|g=f	
+23	rivières	rivière	NC	NC	n=p|g=f	
+24	qui	qui	PROREL	PROREL	n=s	
+25	alimentent	alimenter	V	V	n=p|t=P,S|p=3	
+26	la	la	DET	DET	n=s|g=f	
+27	Seine	Seine	NPP	NPP	n=s|g=f	
+28	,	,	PONCT	PONCT		
+29	la	la	DET	DET	n=s|g=f	
+30	Loire	Loire	NPP	NPP	n=s|g=f,m	
+31	,	,	PONCT	PONCT		
+32	le	le	DET	DET	n=s|g=m	
+33	Rhône	Rhône	NPP	NPP	n=s|g=m	
+34	,	,	PONCT	PONCT		
+35	la	la	DET	DET	n=s|g=f	
+36	Garonne	Garonne	NPP	NPP	n=s|g=f	
+37	et	et	CC	CC		
+38	la	la	DET	DET	n=s|g=f	
+39	Dordogne	Dordogne	NPP	NPP	n=s|g=f	
+40	.	.	PONCT	PONCT		
+
+1	On	on	CLS	CLS	n=s|p=3	
+2	le	le	CLO	CLO	n=s|g=m|p=3	
+3	surnomme	surnommer	V	V	n=s|t=P,S|p=1,3	
+4	le	le	DET	DET	n=s|g=m	
+5	"	"	PONCT	PONCT		
+6	château	château	NC	NC	n=s|g=m	
+7	d'	de	P	P		
+8	eau	eau	NC	NC	n=s|g=f	
+9	"	"	PONCT	PONCT		
+10	de	de	P	P		
+11	la	la	DET	DET	n=s|g=f	
+12	France	France	NPP	NPP	n=s|g=f,m	
+13	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	Massif	massif	NC	NC	n=s|g=m	
+3	central	central	ADJ	ADJ	n=s|g=m	
+4	occupe	occuper	V	V	n=s|t=P,S|p=1,3	
+5	une	une	DET	DET	n=s|g=f	
+6	position	position	NC	NC	n=s|g=f	
+7	centrale	central	ADJ	ADJ	n=s|g=f	
+8	et	et	CC	CC		
+9	un	un	DET	DET	n=s|g=m	
+10	rôle	rôle	NC	NC	n=s|g=m	
+11	de	de	P	P		
+12	carrefour	carrefour	NC	NC	n=s|g=m	
+13	,	,	PONCT	PONCT		
+14	en	en	P	P		
+15	France	France	NPP	NPP	n=s|g=f,m	
+16	et	et	CC	CC		
+17	au	à	P+D	P+D	n=s|g=m	
+18	sein	sein	NC	NC	n=s|g=m	
+19	de	de	P	P		
+20	l'	le	DET	DET	n=s	
+21	Europe	Europe	NPP	NPP	n=s|g=f	
+22	:	:	PONCT	PONCT		
+23	au	à	P+D	P+D	n=s|g=m	
+24	cours	cour	NC	NC	n=p|g=f	
+25	de	de	P	P		
+26	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+27	histoire	histoire	NC	NC	n=s|g=f	
+28	,	,	PONCT	PONCT		
+29	il	il	CLS	CLS	n=s|g=m|p=3	
+30	a	avoir	V	V	n=s|t=P|p=3	
+31	servi	servir	VPP	VPP	n=s|g=m|t=K	
+32	de	de	P	P		
+33	point	point	NC	NC	n=s|g=m	
+34	de	de	P	P		
+35	repère	repère	NC	NC	n=s|g=m	
+36	et	et	CC	CC		
+37	de	de	P	P		
+38	frontière	frontière	NC	NC	n=s|g=f	
+39	,	,	PONCT	PONCT		
+40	et	et	CC	CC		
+41	a	avoir	V	V	n=s|t=P|p=3	
+42	souvent	souvent	ADV	ADV		
+43	été	être	VPP	VPP	t=K	
+44	divisé	diviser	VPP	VPP	n=s|g=m|t=K	
+45	entre	entre	P	P		
+46	plusieurs	plusieurs	DET	DET	n=p	
+47	pays	pays	NC	NC	g=m	
+48	,	,	PONCT	PONCT		
+49	ou	ou	CC	CC		
+50	provinces	province	NC	NC	n=p|g=f	
+51	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	en	en	CLO	CLO		
+3	résulte	résulter	V	V	n=s|t=P,S|p=1,3	
+4	l'	le	DET	DET	n=s	
+5	existence	existence	NC	NC	n=s|g=f	
+6	de	de	P	P		
+7	régions	région	NC	NC	n=p|g=f	
+8	très	très	ADV	ADV		
+9	différentes	différent	ADJ	ADJ	n=p|g=f	
+10	et	et	CC	CC		
+11	diversifiées	diversifier	VPP	VPP	n=p|g=f|t=K	
+12	au	à	P+D	P+D	n=s|g=m	
+13	sein	sein	NC	NC	n=s|g=m	
+14	du	de	P+D	P+D	n=s|g=m	
+15	Massif	massif	NC	NC	n=s|g=m	
+16	central	central	ADJ	ADJ	n=s|g=m	
+17	,	,	PONCT	PONCT		
+18	tant	tant	ADV	ADV		
+19	du	de	P+D	P+D	n=s|g=m	
+20	point	point	NC	NC	n=s|g=m	
+21	de	de	P	P		
+22	vue	vue	NC	NC	n=s|g=f	
+23	de	de	P	P		
+24	l'	le	DET	DET	n=s	
+25	histoire	histoire	NC	NC	n=s|g=f	
+26	que	que	CS	CS		
+27	de	de	P	P		
+28	la	la	DET	DET	n=s|g=f	
+29	culture	culture	NC	NC	n=s|g=f	
+30	.	.	PONCT	PONCT		
+
+1	Géographiquement	_	ADV	ADV		
+2	,	,	PONCT	PONCT		
+3	le	le	DET	DET	n=s|g=m	
+4	Massif	massif	NC	NC	n=s|g=m	
+5	central	central	ADJ	ADJ	n=s|g=m	
+6	est	être	V	V	n=s|t=P|p=3	
+7	présent	présent	ADJ	ADJ	n=s|g=m	
+8	dans	dans	P	P		
+9	dix-huit	dix-huit	DET	DET	s=card|n=p	
+10	départements	département	NC	NC	n=p|g=m	
+11	:	:	PONCT	PONCT		
+12	l'	le	DET	DET	n=s	
+13	Allier	Allier	NPP	NPP	n=s|g=m	
+14	,	,	PONCT	PONCT		
+15	l'	le	DET	DET	n=s	
+16	Ardèche	Ardèche	NPP	NPP	n=s|g=f	
+17	,	,	PONCT	PONCT		
+18	l'	le	DET	DET	n=s	
+19	Aude	Aude	NPP	NPP	n=s|g=f	
+20	,	,	PONCT	PONCT		
+21	l'	le	DET	DET	n=s	
+22	Aveyron	Aveyron	NPP	NPP	n=s|g=m	
+23	,	,	PONCT	PONCT		
+24	le	le	DET	DET	n=s|g=m	
+25	Cantal	Cantal	NPP	NPP	n=s|g=m	
+26	,	,	PONCT	PONCT		
+27	la	la	DET	DET	n=s|g=f	
+28	Corrèze	Corrèze	NPP	NPP	n=s|g=f	
+29	,	,	PONCT	PONCT		
+30	la	la	DET	DET	n=s|g=f	
+31	Creuse	Creuse	NPP	NPP	n=s|g=f,m	
+32	,	,	PONCT	PONCT		
+33	le	le	DET	DET	n=s|g=m	
+34	Gard	Gard	NPP	NPP	n=s|g=m	
+35	,	,	PONCT	PONCT		
+36	l'	le	DET	DET	n=s	
+37	Hérault	Hérault	NPP	NPP	n=s|g=m	
+38	,	,	PONCT	PONCT		
+39	la	la	DET	DET	n=s|g=f	
+40	Loire	Loire	NPP	NPP	n=s|g=f,m	
+41	,	,	PONCT	PONCT		
+42	la	la	DET	DET	n=s|g=f	
+43	Haute	_	NPP	NPP		
+44	-	-	PONCT	PONCT		
+45	Loire	Loire	NPP	NPP	n=s|g=f,m	
+46	,	,	PONCT	PONCT		
+47	le	le	DET	DET	n=s|g=m	
+48	Lot	Lot	NPP	NPP	n=s|g=m	
+49	,	,	PONCT	PONCT		
+50	la	la	DET	DET	n=s|g=f	
+51	Lozère	Lozère	NPP	NPP	n=s|g=f	
+52	,	,	PONCT	PONCT		
+53	le	le	DET	DET	n=s|g=m	
+54	Puy	_	NPP	NPP		
+55	-	-	PONCT	PONCT		
+56	de	de	P	P		
+57	-	-	PONCT	PONCT		
+58	Dôme	dôme	NC	NC	n=s|g=m	
+59	,	,	PONCT	PONCT		
+60	le	le	DET	DET	n=s|g=m	
+61	Rhône	Rhône	NPP	NPP	n=s|g=m	
+62	,	,	PONCT	PONCT		
+63	le	le	DET	DET	n=s|g=m	
+64	Tarn	Tarn	NPP	NPP	n=s|g=m	
+65	,	,	PONCT	PONCT		
+66	le	le	DET	DET	n=s|g=m	
+67	Tarn	Tarn	NPP	NPP	n=s|g=m	
+68	-	-	PONCT	PONCT		
+69	et	et	CC	CC		
+70	-	-	PONCT	PONCT		
+71	Garonne	Garonne	NPP	NPP	n=s|g=f	
+72	et	et	CC	CC		
+73	enfin	enfin	ADV	ADV		
+74	la	la	DET	DET	n=s|g=f	
+75	Haute	_	NPP	NPP		
+76	-	-	PONCT	PONCT		
+77	Vienne	venir	VS	VS	n=s|t=S|p=1,3	
+78	.	.	PONCT	PONCT		
+
+1	Dans	dans	P	P		
+2	chacun	chacun	PRO	PRO	n=s|g=m	
+3	d'	de	P	P		
+4	entre	entre	P	P		
+5	eux	eux	PRO	PRO	n=p|g=m|p=3	
+6	,	,	PONCT	PONCT		
+7	l'	le	DET	DET	n=s	
+8	altitude	altitude	NC	NC	n=s|g=f	
+9	dépasse	dépasser	V	V	n=s|t=P,S|p=1,3	
+10	au	à	P+D	P+D	n=s|g=m	
+11	moins	moins	ADV	ADV		
+12	une	une	DET	DET	n=s|g=f	
+13	fois	fois	NC	NC	g=f	
+14	les	les	DET	DET	n=p	
+15	500	500	ADJ	ADJ		
+16	m	_	NC	NC		
+17	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	Massif	massif	NC	NC	n=s|g=m	
+3	central	central	ADJ	ADJ	n=s|g=m	
+4	recouvre	recouvrir	V	V	n=s|t=P,S|p=1,3	
+5	80_000	80_000	ADJ	ADJ		
+6	km²	_	NPP	NPP		
+7	,	,	PONCT	PONCT		
+8	c'	ce	CLS	CLS		
+9	est	être	V	V	n=s|t=P|p=3	
+10	-	-	PONCT	PONCT		
+11	à	à	P	P		
+12	-	-	PONCT	PONCT		
+13	dire	dire	VINF	VINF	t=W	
+14	environ	environ	ADV	ADV		
+15	1	1	NC	NC		
+16	/	/	PONCT	PONCT		
+17	7e	_	NC	NC		
+18	de	de	P	P		
+19	la	la	DET	DET	n=s|g=f	
+20	France	France	NPP	NPP	n=s|g=f,m	
+21	.	.	PONCT	PONCT		
+
+1	Du	de	P+D	P+D	n=s|g=m	
+2	fait	fait	NC	NC	n=s|g=m	
+3	de	de	P	P		
+4	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+5	étendue	étendue	NC	NC	n=s|g=f	
+6	et	et	CC	CC		
+7	de	de	P	P		
+8	la	la	DET	DET	n=s|g=f	
+9	durée	durée	NC	NC	n=s|g=f	
+10	de	de	P	P		
+11	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+12	histoire	histoire	NC	NC	n=s|g=f	
+13	géologique	géologique	ADJ	ADJ	n=s	
+14	,	,	PONCT	PONCT		
+15	le	le	DET	DET	n=s|g=m	
+16	Massif	massif	NC	NC	n=s|g=m	
+17	central	central	ADJ	ADJ	n=s|g=m	
+18	présente	présenter	V	V	n=s|t=P,S|p=1,3	
+19	de	de	DET	DET	n=p	
+20	grands	grand	ADJ	ADJ	n=p|g=m	
+21	ensembles	ensemble	NC	NC	n=p|g=m	
+22	de	de	P	P		
+23	relief	relief	NC	NC	n=s|g=m	
+24	.	.	PONCT	PONCT		
+
+1	À	à	P	P		
+2	l'	le	DET	DET	n=s	
+3	ouest	ouest	NC	NC	n=s|g=m	
+4	,	,	PONCT	PONCT		
+5	le	le	DET	DET	n=s|g=m	
+6	Limousin	Limousin	NPP	NPP	n=s|g=m	
+7	est	être	V	V	n=s|t=P|p=3	
+8	formé	former	VPP	VPP	n=s|g=m|t=K	
+9	de	de	P	P		
+10	plateaux	plateau	NC	NC	n=p|g=m	
+11	étagés	étager	VPP	VPP	n=p|g=m|t=K	
+12	,	,	PONCT	PONCT		
+13	dominés	dominer	VPP	VPP	n=p|g=m|t=K	
+14	par	par	P	P		
+15	le	le	DET	DET	n=s|g=m	
+16	plateau	plateau	NC	NC	n=s|g=m	
+17	de	de	P	P		
+18	Millevaches	Millevaches	NPP	NPP	n=s|g=m	
+19	qui	qui	PROREL	PROREL	n=s	
+20	culmine	culminer	V	V	n=s|t=P,S|p=1,3	
+21	à	à	P	P		
+22	978	978	NC	NC		
+23	m	_	NPP	NPP		
+24	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	rivières	rivière	NC	NC	n=p|g=f	
+3	très	très	ADV	ADV		
+4	nombreuses	nombreux	ADJ	ADJ	n=p|g=f	
+5	sont	être	V	V	n=p|t=P|p=3	
+6	encaissées	encaisser	VPP	VPP	n=p|g=f|t=K	
+7	dans	dans	P	P		
+8	des	des	DET	DET	n=p	
+9	vallées	vallée	NC	NC	n=p|g=f	
+10	étroites	étroit	ADJ	ADJ	n=p|g=f	
+11	.	.	PONCT	PONCT		
+
+1	C'	ce	CLS	CLS		
+2	est	être	V	V	n=s|t=P|p=3	
+3	un	un	DET	DET	n=s|g=m	
+4	ensemble	ensemble	NC	NC	n=s|g=m	
+5	de	de	P	P		
+6	petits	petit	ADJ	ADJ	n=p|g=m	
+7	vallons	vallon	NC	NC	n=p|g=m	
+8	très	très	ADV	ADV		
+9	humides	humide	ADJ	ADJ	n=p	
+10	et	et	CC	CC		
+11	verdoyants	verdoyant	ADJ	ADJ	n=p|g=m	
+12	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	sol	_	NC	NC		
+3	,	,	PONCT	PONCT		
+4	formé	former	VPP	VPP	n=s|g=m|t=K	
+5	à	à	P	P		
+6	partir	partir	VINF	VINF	t=W	
+7	du	de	P+D	P+D	n=s|g=m	
+8	granite	granite	NC	NC	n=s|g=m	
+9	,	,	PONCT	PONCT		
+10	est	être	V	V	n=s|t=P|p=3	
+11	peu	peu	ADV	ADV		
+12	favorable	favorable	ADJ	ADJ	n=s	
+13	aux	à	P+D	P+D	n=p	
+14	cultures	culture	NC	NC	n=p|g=f	
+15	céréalières	céréalier	ADJ	ADJ	n=p|g=f	
+16	et	et	CC	CC		
+17	convient	convenir	V	V	n=s|t=P|p=3	
+18	mieux	mieux	ADV	ADV		
+19	aux	à	P+D	P+D	n=p	
+20	prairies	prairie	NC	NC	n=p|g=f	
+21	pour	pour	P	P		
+22	l'	le	DET	DET	n=s	
+23	élevage	élevage	NC	NC	n=s|g=m	
+24	de	de	P	P		
+25	bovins	bovin	NC	NC	n=p|g=m	
+26	destinés	destiner	VPP	VPP	n=p|g=m|t=K	
+27	à	à	P	P		
+28	la	la	DET	DET	n=s|g=f	
+29	boucherie	boucherie	NC	NC	n=s|g=f	
+30	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	forêt	forêt	NC	NC	n=s|g=f	
+3	de	de	P	P		
+4	châtaigniers	châtaignier	NC	NC	n=p|g=m	
+5	et	et	CC	CC		
+6	les	les	DET	DET	n=p	
+7	landes	lande	NC	NC	n=p|g=f	
+8	de	de	P	P		
+9	bruyères	bruyère	NC	NC	n=p|g=f	
+10	forment	former	V	V	n=p|t=P,S|p=3	
+11	la	la	DET	DET	n=s|g=f	
+12	végétation	végétation	NC	NC	n=s|g=f	
+13	naturelle	naturel	ADJ	ADJ	n=s|g=f	
+14	.	.	PONCT	PONCT		
+
+1	Au	à	P+D	P+D	n=s|g=m	
+2	centre	centre	NC	NC	n=s|g=m	
+3	,	,	PONCT	PONCT		
+4	les	les	DET	DET	n=p	
+5	paysages	paysage	NC	NC	n=p|g=m	
+6	sont	être	V	V	n=p|t=P|p=3	
+7	plus	plus	ADV	ADV		
+8	variés	varier	ADJ	ADJ	n=p|g=m|t=K	
+9	,	,	PONCT	PONCT		
+10	en	en	P	P		
+11	raison	raison	NC	NC	n=s|g=f	
+12	de	de	P	P		
+13	l'	le	DET	DET	n=s	
+14	histoire	histoire	NC	NC	n=s|g=f	
+15	géologique	géologique	ADJ	ADJ	n=s	
+16	du	de	P+D	P+D	n=s|g=m	
+17	Massif	_	NPP	NPP		
+18	(	(	PONCT	PONCT		
+19	voir	voir	VINF	VINF	t=W	
+20	ci	_	ADV	ADV		
+21	-	-	PONCT	PONCT		
+22	dessous	dessous	ADV	ADV		
+23	:	:	PONCT	PONCT		
+24	la	la	DET	DET	n=s|g=f	
+25	formation	formation	NC	NC	n=s|g=f	
+26	du	de	P+D	P+D	n=s|g=m	
+27	Massif	massif	NC	NC	n=s|g=m	
+28	central	central	ADJ	ADJ	n=s|g=m	
+29	)	)	PONCT	PONCT		
+30	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	socle	socle	NC	NC	n=s|g=m	
+3	cristallin	cristallin	NC	NC	n=s|g=m	
+4	apparaît	apparaître	V	V	n=s|t=P|p=3	
+5	pour	pour	P	P		
+6	former	former	VINF	VINF	t=W	
+7	des	des	DET	DET	n=p	
+8	plateaux	plateau	NC	NC	n=p|g=m	
+9	très	très	ADV	ADV		
+10	élevés	élever	ADJ	ADJ	n=p|g=m|t=K	
+11	(	(	PONCT	PONCT		
+12	jusqu'	jusque	P	P		
+13	à	à	P	P		
+14	1_634	1_634	NC	NC		
+15	m	_	NPP	NPP		
+16	)	)	PONCT	PONCT		
+17	comme	comme	P	P		
+18	le	le	DET	DET	n=s|g=m	
+19	Forez	_	NPP	NPP		
+20	et	et	CC	CC		
+21	la	la	DET	DET	n=s|g=f	
+22	Margeride	_	NPP	NPP		
+23	.	.	PONCT	PONCT		
+
+1	Ce	ce	CLS	CLS		
+2	sont	être	V	V	n=p|t=P|p=3	
+3	des	de	P+D	P+D	n=p	
+4	régions	région	NC	NC	n=p|g=f	
+5	très	très	ADV	ADV		
+6	rudes	rude	ADJ	ADJ	n=p	
+7	en	en	P	P		
+8	hiver	hiver	NC	NC	n=s|g=m	
+9	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	reliefs	relief	NC	NC	n=p|g=m	
+3	volcaniques	volcanique	ADJ	ADJ	n=p	
+4	sont	être	V	V	n=p|t=P|p=3	
+5	très	très	ADV	ADV		
+6	divers	divers	ADJ	ADJ	g=m	
+7	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	Velay	_	NPP	NPP		
+3	présente	présenter	V	V	n=s|t=P,S|p=1,3	
+4	des	des	DET	DET	n=p	
+5	coulées	coulée	NC	NC	n=p|g=f	
+6	de	de	P	P		
+7	lave	lave	NC	NC	n=s|g=f	
+8	avec	avec	P	P		
+9	des	des	DET	DET	n=p	
+10	cheminées	cheminée	NC	NC	n=p|g=f	
+11	volcaniques	volcanique	ADJ	ADJ	n=p	
+12	dégagées	dégager	VPP	VPP	n=p|g=f|t=K	
+13	des	de	P+D	P+D	n=p	
+14	matériaux	matériau	NC	NC	n=p|g=m	
+15	du	de	P+D	P+D	n=s|g=m	
+16	cône	cône	NC	NC	n=s|g=m	
+17	:	:	PONCT	PONCT		
+18	ce	ce	CLS	CLS		
+19	sont	être	V	V	n=p|t=P|p=3	
+20	les	les	DET	DET	n=p	
+21	necks	neck	NC	NC	n=p|g=m	
+22	et	et	CC	CC		
+23	les	les	DET	DET	n=p	
+24	dykes	_	NC	NC		
+25	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	ville	ville	NC	NC	n=s|g=f	
+3	du	de	P+D	P+D	n=s|g=m	
+4	Puy	_	NPP	NPP		
+5	-	-	PONCT	PONCT		
+6	en	en	P	P		
+7	-	-	PONCT	PONCT		
+8	Velay	_	NPP	NPP		
+9	possède	posséder	V	V	n=s|t=P,S|p=1,3	
+10	ainsi	ainsi	ADV	ADV		
+11	un	un	DET	DET	n=s|g=m	
+12	site	site	NC	NC	n=s|g=m	
+13	très	très	ADV	ADV		
+14	spectaculaire	spectaculaire	ADJ	ADJ	n=s	
+15	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	Aubrac	Aubrac	NPP	NPP	n=s|g=m	
+3	est	être	V	V	n=s|t=P|p=3	
+4	un	un	DET	DET	n=s|g=m	
+5	vaste	vaste	ADJ	ADJ	n=s	
+6	épanchement	épanchement	NC	NC	n=s|g=m	
+7	de	de	P	P		
+8	basalte	basalte	NC	NC	n=s|g=m	
+9	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	monts	mont	NC	NC	n=p|g=m	
+3	d'	de	P	P		
+4	Auvergne	Auvergne	NPP	NPP	n=s|g=f	
+5	sont	être	V	V	n=p|t=P|p=3	
+6	des	des	DET	DET	n=p	
+7	volcans	volcan	NC	NC	n=p|g=m	
+8	surmontant	surmonter	VPR	VPR	t=G	
+9	le	le	DET	DET	n=s|g=m	
+10	socle	socle	NC	NC	n=s|g=m	
+11	cristallin	cristallin	ADJ	ADJ	n=s|g=m	
+12	.	.	PONCT	PONCT		
+
+1	Ces	ces	DET	DET	n=p	
+2	reliefs	relief	NC	NC	n=p|g=m	
+3	postiches	postiche	NC	NC	n=p	
+4	forment	former	V	V	n=p|t=P,S|p=3	
+5	la	la	DET	DET	n=s|g=f	
+6	chaîne	chaîne	NC	NC	n=s|g=f	
+7	des	de	P+D	P+D	n=p	
+8	Puys	_	NPP	NPP		
+9	,	,	PONCT	PONCT		
+10	avec	avec	P	P		
+11	des	des	DET	DET	n=p	
+12	formes	forme	NC	NC	n=p|g=f	
+13	volcaniques	volcanique	ADJ	ADJ	n=p	
+14	assez	assez	ADV	ADV		
+15	bien	bien	ADV	ADV		
+16	conservées	conserver	VPP	VPP	n=p|g=f|t=K	
+17	,	,	PONCT	PONCT		
+18	surtout	surtout	ADV	ADV		
+19	dans	dans	P	P		
+20	les	les	DET	DET	n=p	
+21	monts	mont	NC	NC	n=p|g=m	
+22	Dôme	_	NPP	NPP		
+23	qui	qui	PROREL	PROREL	n=s	
+24	sont	être	V	V	n=p|t=P|p=3	
+25	de	de	P	P		
+26	formation	formation	NC	NC	n=s|g=f	
+27	plus	plus	ADV	ADV		
+28	récente	récent	ADJ	ADJ	n=s|g=f	
+29	.	.	PONCT	PONCT		
+
+1	C'	ce	CLS	CLS		
+2	est	être	V	V	n=s|t=P|p=3	
+3	là	là	ADV	ADV		
+4	que	que	CS	CS		
+5	se	se	CLR	CLR	n=p,s|p=3	
+6	trouve	trouver	V	V	n=s|t=P,S|p=1,3	
+7	le	le	DET	DET	n=s|g=m	
+8	puy	puy	NC	NC	n=s|g=m	
+9	de	de	P	P		
+10	Sancy	Sancy	NPP	NPP	n=s|g=m	
+11	,	,	PONCT	PONCT		
+12	point	point	NC	NC	n=s|g=m	
+13	culminant	culminant	ADJ	ADJ	n=s|g=m	
+14	du	de	P+D	P+D	n=s|g=m	
+15	Massif	massif	NC	NC	n=s|g=m	
+16	central	central	ADJ	ADJ	n=s|g=m	
+17	,	,	PONCT	PONCT		
+18	avec	avec	P	P		
+19	1_886	1_886	NC	NC		
+20	m	_	NPP	NPP		
+21	d'	de	P	P		
+22	altitude	altitude	NC	NC	n=s|g=f	
+23	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	immense	immense	ADJ	ADJ	n=s	
+3	volcan	volcan	NC	NC	n=s|g=m	
+4	du	de	P+D	P+D	n=s|g=m	
+5	Cantal	Cantal	NPP	NPP	n=s|g=m	
+6	a	avoir	V	V	n=s|t=P|p=3	
+7	été	être	VPP	VPP	t=K	
+8	fortement	_	ADV	ADV		
+9	démantelé	démanteler	VPP	VPP	n=s|g=m|t=K	
+10	par	par	P	P		
+11	l'	le	DET	DET	n=s	
+12	érosion	érosion	NC	NC	n=s|g=f	
+13	et	et	CC	CC		
+14	ne	ne	ADV	ADV		
+15	présente	présenter	V	V	n=s|t=P,S|p=1,3	
+16	plus	plus	ADV	ADV		
+17	que	que	CS	CS		
+18	des	des	DET	DET	n=p	
+19	vestiges	vestige	NC	NC	n=p|g=m	
+20	de	de	P	P		
+21	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+22	ancienne	ancien	ADJ	ADJ	n=s|g=f	
+23	importance	importance	NC	NC	n=s|g=f	
+24	comme	comme	P	P		
+25	le	le	DET	DET	n=s|g=m	
+26	Plomb	Plomb	NPP	NPP	n=s|g=m	
+27	du	de	P+D	P+D	n=s|g=m	
+28	Cantal	Cantal	NPP	NPP	n=s|g=m	
+29	qui	qui	PROREL	PROREL	n=s	
+30	culmine	culminer	V	V	n=s|t=P,S|p=1,3	
+31	à	à	P	P		
+32	1_855	1_855	NC	NC		
+33	mètres	mètre	NC	NC	n=p|g=m	
+34	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	fossés	fossé	NC	NC	n=p|g=m	
+3	d'	de	P	P		
+4	effondrement	effondrement	NC	NC	n=s|g=m	
+5	sont	être	V	V	n=p|t=P|p=3	
+6	de	de	DET	DET	n=p	
+7	grandes	grand	ADJ	ADJ	n=p|g=f	
+8	dimensions	dimension	NC	NC	n=p|g=f	
+9	et	et	CC	CC		
+10	forment	former	V	V	n=p|t=P,S|p=3	
+11	deux	deux	DET	DET	s=card|n=p	
+12	plaines	plaine	NC	NC	n=p|g=f	
+13	ouvertes	ouvrir	VPP	VPP	n=p|g=f|t=K	
+14	vers	vers	P	P		
+15	le	le	DET	DET	n=s|g=m	
+16	nord	nord	NC	NC	n=s|g=m	
+17	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	Loire	Loire	NPP	NPP	n=s|g=f,m	
+3	draine	drainer	V	V	n=s|t=P,S|p=1,3	
+4	une	une	DET	DET	n=s|g=f	
+5	plaine	plaine	NC	NC	n=s|g=f	
+6	argilo	_	NPP	NPP		
+7	-	-	PONCT	PONCT		
+8	sableuse	sableux	ADJ	ADJ	n=s|g=f	
+9	,	,	PONCT	PONCT		
+10	tandis	tandis	P	P		
+11	que	que	CS	CS		
+12	l'	le	DET	DET	n=s	
+13	Allier	Allier	NPP	NPP	n=s|g=m	
+14	coule	couler	V	V	n=s|t=P,S|p=1,3	
+15	dans	dans	P	P		
+16	la	la	DET	DET	n=s|g=f	
+17	plaine	plaine	NC	NC	n=s|g=f	
+18	des	de	P+D	P+D	n=p	
+19	Limagnes	_	NPP	NPP		
+20	aux	à	P+D	P+D	n=p	
+21	bons	bon	ADJ	ADJ	n=p|g=m	
+22	sols	sol	NC	NC	n=p|g=m	
+23	formés	former	VPP	VPP	n=p|g=m|t=K	
+24	de	de	P	P		
+25	débris	débris	NC	NC	g=m	
+26	volcaniques	volcanique	ADJ	ADJ	n=p	
+27	.	.	PONCT	PONCT		
+
+1	À	à	P	P		
+2	l'	le	DET	DET	n=s	
+3	est	_	NPP	NPP		
+4	,	,	PONCT	PONCT		
+5	c'	ce	CLS	CLS		
+6	est	être	V	V	n=s|t=P|p=3	
+7	une	une	DET	DET	n=s|g=f	
+8	succession	succession	NC	NC	n=s|g=f	
+9	de	de	P	P		
+10	hautes	haut	ADJ	ADJ	n=p|g=f	
+11	terres	terre	NC	NC	n=p|g=f	
+12	qui	qui	PROREL	PROREL	n=s	
+13	sont	être	V	V	n=p|t=P|p=3	
+14	des	des	DET	DET	n=p	
+15	massifs	massif	NC	NC	n=p|g=m	
+16	trapus	trapu	ADJ	ADJ	n=p|g=m	
+17	aux	à	P+D	P+D	n=p	
+18	allures	allure	NC	NC	n=p|g=f	
+19	de	de	P	P		
+20	plateaux	plateau	NC	NC	n=p|g=m	
+21	bosselés	bosseler	VPP	VPP	n=p|g=m|t=K	
+22	.	.	PONCT	PONCT		
+
+1	Ils	ils	CLS	CLS	n=p|g=m|p=3	
+2	sont	être	V	V	n=p|t=P|p=3	
+3	limités	limiter	VPP	VPP	n=p|g=m|t=K	
+4	par	par	P	P		
+5	des	des	DET	DET	n=p	
+6	failles	faille	NC	NC	n=p|g=f	
+7	.	.	PONCT	PONCT		
+
+1	Du	de	P+D	P+D	n=s|g=m	
+2	nord	nord	NC	NC	n=s|g=m	
+3	au	à	P+D	P+D	n=s|g=m	
+4	sud	_	NPP	NPP		
+5	,	,	PONCT	PONCT		
+6	on	on	CLS	CLS	n=s|p=3	
+7	distingue	distinguer	V	V	n=s|t=P,S|p=1,3	
+8	le	le	DET	DET	n=s|g=m	
+9	Morvan	_	NPP	NPP		
+10	(	(	PONCT	PONCT		
+11	902	902	NC	NC		
+12	m	_	NPP	NPP		
+13	)	)	PONCT	PONCT		
+14	,	,	PONCT	PONCT		
+15	les	les	DET	DET	n=p	
+16	monts	mont	NC	NC	n=p|g=m	
+17	du	de	P+D	P+D	n=s|g=m	
+18	Charolais	_	NPP	NPP		
+19	,	,	PONCT	PONCT		
+20	du	de	P+D	P+D	n=s|g=m	
+21	Mâconnais	_	NPP	NPP		
+22	,	,	PONCT	PONCT		
+23	du	de	P+D	P+D	n=s|g=m	
+24	Beaujolais	_	NPP	NPP		
+25	(	(	PONCT	PONCT		
+26	1_014	1_014	NC	NC		
+27	m	_	NPP	NPP		
+28	)	)	PONCT	PONCT		
+29	et	et	CC	CC		
+30	du	de	P+D	P+D	n=s|g=m	
+31	Lyonnais	_	NPP	NPP		
+32	,	,	PONCT	PONCT		
+33	puis	puis	CC	CC		
+34	le	le	DET	DET	n=s|g=m	
+35	Vivarais	_	NPP	NPP		
+36	(	(	PONCT	PONCT		
+37	1_434	1_434	NC	NC		
+38	m	_	NPP	NPP		
+39	)	)	PONCT	PONCT		
+40	.	.	PONCT	PONCT		
+
+1	Ces	ces	DET	DET	n=p	
+2	blocs	bloc	NC	NC	n=p|g=m	
+3	sont	être	V	V	n=p|t=P|p=3	
+4	formés	former	VPP	VPP	n=p|g=m|t=K	
+5	de	de	P	P		
+6	terrains	terrain	NC	NC	n=p|g=m	
+7	cristallins	cristallin	ADJ	ADJ	n=p|g=m	
+8	(	(	PONCT	PONCT		
+9	comme	comme	CS	CS		
+10	le	le	CLO	CLO	n=s|g=m|p=3	
+11	granite	graniter	V	V	n=s|t=P,S|p=1,3	
+12	et	et	CC	CC		
+13	le	le	DET	DET	n=s|g=m	
+14	gneiss	gneiss	NC	NC	g=m	
+15	)	)	PONCT	PONCT		
+16	appartement	appartement	NC	NC	n=s|g=m	
+17	au	à	P+D	P+D	n=s|g=m	
+18	socle	socle	NC	NC	n=s|g=m	
+19	datant	dater	VPR	VPR	t=G	
+20	du	de	P+D	P+D	n=s|g=m	
+21	Paléozoïque	_	NPP	NPP		
+22	.	.	PONCT	PONCT		
+
+1	Ils	ils	CLS	CLS	n=p|g=m|p=3	
+2	sont	être	V	V	n=p|t=P|p=3	
+3	couverts	couvrir	VPP	VPP	n=p|g=m|t=K	
+4	de	de	P	P		
+5	forêts	forêt	NC	NC	n=p|g=f	
+6	et	et	CC	CC		
+7	de	de	P	P		
+8	pâturages	pâturage	NC	NC	n=p|g=m	
+9	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	rebords	rebord	NC	NC	n=p|g=m	
+3	exposés	exposer	VPP	VPP	n=p|g=m|t=K	
+4	au	à	P+D	P+D	n=s|g=m	
+5	sud	_	NPP	NPP		
+6	-	-	PONCT	PONCT		
+7	est	être	V	V	n=s|t=P|p=3	
+8	portent	porter	V	V	n=p|t=P,S|p=3	
+9	des	des	DET	DET	n=p	
+10	vignobles	vignoble	NC	NC	n=p|g=m	
+11	(	(	PONCT	PONCT		
+12	Mâconnais	mâconnais	NC	NC	g=m	
+13	et	et	CC	CC		
+14	[	[	PONCT	PONCT		
+15	[	[	PONCT	PONCT		
+16	vignoble	vignoble	NC	NC	n=s|g=m	
+17	du	de	P+D	P+D	n=s|g=m	
+18	Beaujolais|Beaujolais	_	NPP	NPP		
+19	)	)	PONCT	PONCT		
+20	.	.	PONCT	PONCT		
+
+1	Entre	entre	P	P		
+2	les	les	DET	DET	n=p	
+3	massifs	massif	ADJ	ADJ	n=p|g=m	
+4	sont	être	V	V	n=p|t=P|p=3	
+5	logées	loger	VPP	VPP	n=p|g=f|t=K	
+6	des	des	DET	DET	n=p	
+7	dépressions	dépression	NC	NC	n=p|g=f	
+8	d'	de	P	P		
+9	orientation	orientation	NC	NC	n=s|g=f	
+10	sud	sud	ADJ	ADJ		
+11	-	-	PONCT	PONCT		
+12	ouest	ouest	NC	NC	n=s|g=m	
+13	-	-	PONCT	PONCT		
+14	nord	nord	NC	NC	n=s|g=m	
+15	-	-	PONCT	PONCT		
+16	est	être	V	V	n=s|t=P|p=3	
+17	.	.	PONCT	PONCT		
+
+1	Elles	elles	CLS	CLS	n=p|g=f|p=3	
+2	sont	être	V	V	n=p|t=P|p=3	
+3	dégagées	dégager	VPP	VPP	n=p|g=f|t=K	
+4	dans	dans	P	P		
+5	des	des	DET	DET	n=p	
+6	terrains	terrain	NC	NC	n=p|g=m	
+7	schisteux	schisteux	ADJ	ADJ	g=m	
+8	datant	dater	VPR	VPR	t=G	
+9	du	de	P+D	P+D	n=s|g=m	
+10	Paléozoïque	_	NPP	NPP		
+11	.	.	PONCT	PONCT		
+
+1	Elles	elles	CLS	CLS	n=p|g=f|p=3	
+2	permettent	permettre	V	V	n=p|t=P,S|p=3	
+3	le	le	DET	DET	n=s|g=m	
+4	passage	passage	NC	NC	n=s|g=m	
+5	du	de	P+D	P+D	n=s|g=m	
+6	centre	centre	NC	NC	n=s|g=m	
+7	du	de	P+D	P+D	n=s|g=m	
+8	massif	massif	ADJ	ADJ	n=s|g=m	
+9	vers	vers	P	P		
+10	les	les	DET	DET	n=p	
+11	vallées	vallée	NC	NC	n=p|g=f	
+12	de	de	P	P		
+13	la	la	DET	DET	n=s|g=f	
+14	Saône	_	NPP	NPP		
+15	et	et	CC	CC		
+16	du	de	P+D	P+D	n=s|g=m	
+17	Rhône	Rhône	NPP	NPP	n=s|g=m	
+18	.	.	PONCT	PONCT		
+
+1	Leur	leur	DET	DET	n=s|p=3|poss=p	
+2	sous	sou	NC	NC	n=p|g=m	
+3	-	-	PONCT	PONCT		
+4	sol	_	NC	NC		
+5	est	être	V	V	n=s|t=P|p=3	
+6	riche	riche	ADJ	ADJ	n=s	
+7	en	en	P	P		
+8	houille	houille	NC	NC	n=s|g=f	
+9	et	et	CC	CC		
+10	a	avoir	V	V	n=s|t=P|p=3	
+11	donné	donner	VPP	VPP	n=s|g=m|t=K	
+12	naissance	naissance	NC	NC	n=s|g=f	
+13	,	,	PONCT	PONCT		
+14	à	à	P	P		
+15	partir	partir	VINF	VINF	t=W	
+16	du	de	P+D	P+D	n=s|g=m	
+17	XVIIIe	_	ADJ	ADJ		
+18	siècle	siècle	NC	NC	n=s|g=m	
+19	,	,	PONCT	PONCT		
+20	à	à	P	P		
+21	des	des	DET	DET	n=p	
+22	villes	ville	NC	NC	n=p|g=f	
+23	industrielles	industriel	ADJ	ADJ	n=p|g=f	
+24	comme	comme	P	P		
+25	Le	_	NPP	NPP		
+26	Creusot	_	NPP	NPP		
+27	,	,	PONCT	PONCT		
+28	Firminy	Firminy	NPP	NPP	n=s|g=m	
+29	ou	ou	CC	CC		
+30	Saint	_	NPP	NPP		
+31	-	-	PONCT	PONCT		
+32	Étienne	Étienne	NPP	NPP	n=s|g=m	
+33	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	sud	sud	NC	NC	n=s|g=m	
+3	du	de	P+D	P+D	n=s|g=m	
+4	Massif	massif	NC	NC	n=s|g=m	
+5	central	central	ADJ	ADJ	n=s|g=m	
+6	est	être	V	V	n=s|t=P|p=3	
+7	partagé	partager	VPP	VPP	n=s|g=m|t=K	
+8	entre	entre	P	P		
+9	des	des	DET	DET	n=p	
+10	régions	région	NC	NC	n=p|g=f	
+11	de	de	P	P		
+12	roches	roche	NC	NC	n=p|g=f	
+13	cristallines	cristallin	ADJ	ADJ	n=p|g=f	
+14	et	et	CC	CC		
+15	de	de	P	P		
+16	roches	roche	NC	NC	n=p|g=f	
+17	calcaires	calcaire	ADJ	ADJ	n=p	
+18	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	Cévennes	_	NPP	NPP		
+3	forment	former	V	V	n=p|t=P,S|p=3	
+4	une	une	DET	DET	n=s|g=f	
+5	montagne	montagne	NC	NC	n=s|g=f	
+6	granitique	granitique	ADJ	ADJ	n=s	
+7	culminant	culminant	ADJ	ADJ	n=s|g=m	
+8	au	à	P+D	P+D	n=s|g=m	
+9	mont	mont	NC	NC	n=s|g=m	
+10	Lozère	Lozère	NPP	NPP	n=s|g=f	
+11	,	,	PONCT	PONCT		
+12	à	à	P	P		
+13	1_702	1_702	NC	NC		
+14	m	_	NPP	NPP		
+15	.	.	PONCT	PONCT		
+
+1	Elles	elles	CLS	CLS	n=p|g=f|p=3	
+2	se	se	CLR	CLR	n=p,s|p=3	
+3	terminent	terminer	V	V	n=p|t=P,S|p=3	
+4	au	à	P+D	P+D	n=s|g=m	
+5	sud	_	NPP	NPP		
+6	-	-	PONCT	PONCT		
+7	est	être	V	V	n=s|t=P|p=3	
+8	par	par	P	P		
+9	un	un	DET	DET	n=s|g=m	
+10	brusque	brusque	ADJ	ADJ	n=s	
+11	escarpement	escarpement	NC	NC	n=s|g=m	
+12	taillé	tailler	VPP	VPP	n=s|g=m|t=K	
+13	dans	dans	P	P		
+14	les	les	DET	DET	n=p	
+15	schistes	schiste	NC	NC	n=p|g=m	
+16	,	,	PONCT	PONCT		
+17	qui	qui	PROREL	PROREL	n=s	
+18	est	être	V	V	n=s|t=P|p=3	
+19	très	très	ADV	ADV		
+20	fortement	_	ADV	ADV		
+21	raviné	raviner	VPP	VPP	n=s|g=m|t=K	
+22	par	par	P	P		
+23	les	les	DET	DET	n=p	
+24	violentes	violent	ADJ	ADJ	n=p|g=f	
+25	averses	averse	NC	NC	n=p|g=f	
+26	d'	de	P	P		
+27	automne	automne	NC	NC	n=s|g=m	
+28	du	de	P+D	P+D	n=s|g=m	
+29	climat	climat	NC	NC	n=s|g=m	
+30	méditerranéen	méditerranéen	ADJ	ADJ	n=s|g=m	
+31	que	que	PROREL	PROREL		
+32	connaît	connaître	V	V	n=s|t=P|p=3	
+33	cette	cette	DET	DET	n=s|g=f	
+34	région	région	NC	NC	n=s|g=f	
+35	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	Ségala	_	NPP	NPP		
+3	qui	qui	PROREL	PROREL	n=s	
+4	s'	se	CLR	CLR	n=p,s|p=3	
+5	étend	étendre	V	V	n=s|t=P|p=3	
+6	au	à	P+D	P+D	n=s|g=m	
+7	sud	_	NPP	NPP		
+8	-	-	PONCT	PONCT		
+9	ouest	ouest	NC	NC	n=s|g=m	
+10	est	être	V	V	n=s|t=P|p=3	
+11	aussi	aussi	ADV	ADV		
+12	formé	former	VPP	VPP	n=s|g=m|t=K	
+13	dans	dans	P	P		
+14	des	des	DET	DET	n=p	
+15	terrains	terrain	NC	NC	n=p|g=m	
+16	cristallins	cristallin	ADJ	ADJ	n=p|g=m	
+17	,	,	PONCT	PONCT		
+18	mais	mais	CC	CC		
+19	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+20	altitude	altitude	NC	NC	n=s|g=f	
+21	est	être	V	V	n=s|t=P|p=3	
+22	moins	moins	ADV	ADV		
+23	importante	important	ADJ	ADJ	n=s|g=f	
+24	(	(	PONCT	PONCT		
+25	de	de	P	P		
+26	1000	1000	VINF	VINF		
+27	à	à	P	P		
+28	1200	1200	ADJ	ADJ		
+29	mètres	mètre	NC	NC	n=p|g=m	
+30	)	)	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	Grands	grand	ADJ	ADJ	n=p|g=m	
+3	Causses	causse	NC	NC	n=p|g=m	
+4	sont	être	V	V	n=p|t=P|p=3	
+5	logés	loger	VPP	VPP	n=p|g=m|t=K	
+6	entre	entre	P	P		
+7	les	les	DET	DET	n=p	
+8	Cévennes	_	NPP	NPP		
+9	et	et	CC	CC		
+10	le	le	DET	DET	n=s|g=m	
+11	Ségala	_	NPP	NPP		
+12	.	.	PONCT	PONCT		
+
+1	Ce	ce	CLS	CLS		
+2	sont	être	V	V	n=p|t=P|p=3	
+3	des	des	DET	DET	n=p	
+4	plateaux	plateau	NC	NC	n=p|g=m	
+5	s'	se	CLR	CLR	n=p,s|p=3	
+6	élevant	élever	VPR	VPR	t=G	
+7	entre	entre	P	P		
+8	800	800	NC	NC		
+9	et	et	CC	CC		
+10	1200	1200	ADJ	ADJ		
+11	mètres	mètre	NC	NC	n=p|g=m	
+12	.	.	PONCT	PONCT		
+
+1	Dus	devoir	V	V	n=s|t=J|p=1,2	
+2	à	à	P	P		
+3	l'	le	DET	DET	n=s	
+4	empilement	empilement	NC	NC	n=s|g=m	
+5	de	de	P	P		
+6	couches	couche	NC	NC	n=p|g=f	
+7	calcaires	calcaire	ADJ	ADJ	n=p	
+8	,	,	PONCT	PONCT		
+9	les	les	DET	DET	n=p	
+10	Grands	grand	ADJ	ADJ	n=p|g=m	
+11	Causses	causse	NC	NC	n=p|g=m	
+12	offrent	offrir	V	V	n=p|t=P,S|p=3	
+13	un	un	DET	DET	n=s|g=m	
+14	catalogue	catalogue	NC	NC	n=s|g=m	
+15	complet	complet	ADJ	ADJ	n=s|g=m	
+16	des	de	P+D	P+D	n=p	
+17	formes	forme	NC	NC	n=p|g=f	
+18	du	de	P+D	P+D	n=s|g=m	
+19	relief	relief	NC	NC	n=s|g=m	
+20	karstique	_	ADJ	ADJ		
+21	avec	avec	P	P		
+22	ses	ses	DET	DET	n=p|p=3|poss=s	
+23	gouffres	gouffre	NC	NC	n=p|g=m	
+24	(	(	PONCT	PONCT		
+25	les	les	DET	DET	n=p	
+26	igues	igue	NC	NC	n=p|g=f	
+27	et	et	CC	CC		
+28	les	les	DET	DET	n=p	
+29	avens	aven	NC	NC	n=p|g=m	
+30	ou	ou	CC	CC		
+31	sotchs	sotch	NC	NC	n=p|g=m	
+32	)	)	PONCT	PONCT		
+33	,	,	PONCT	PONCT		
+34	ses	ses	DET	DET	n=p|p=3|poss=s	
+35	petites	petit	ADJ	ADJ	n=p|g=f	
+36	dépressions	dépression	NC	NC	n=p|g=f	
+37	(	(	PONCT	PONCT		
+38	les	les	DET	DET	n=p	
+39	dolines	doline	NC	NC	n=p|g=f	
+40	ou	ou	CC	CC		
+41	sotchs	sotch	NC	NC	n=p|g=m	
+42	)	)	PONCT	PONCT		
+43	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	eau	eau	NC	NC	n=s|g=f	
+3	est	être	V	V	n=s|t=P|p=3	
+4	très	très	ADV	ADV		
+5	rare	rare	ADJ	ADJ	n=s	
+6	en	en	P	P		
+7	surface	surface	NC	NC	n=s|g=f	
+8	et	et	CC	CC		
+9	la	la	DET	DET	n=s|g=f	
+10	végétation	végétation	NC	NC	n=s|g=f	
+11	forme	former	V	V	n=s|t=P,S|p=1,3	
+12	une	une	DET	DET	n=s|g=f	
+13	maigre	maigre	ADJ	ADJ	n=s	
+14	pelouse	pelouse	NC	NC	n=s|g=f	
+15	avec	avec	P	P		
+16	des	des	DET	DET	n=p	
+17	genévriers	genévrier	NC	NC	n=p|g=m	
+18	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	rivières	rivière	NC	NC	n=p|g=f	
+3	alimentées	alimenter	VPP	VPP	n=p|g=f|t=K	
+4	par	par	P	P		
+5	les	les	DET	DET	n=p	
+6	pluies	pluie	NC	NC	n=p|g=f	
+7	et	et	CC	CC		
+8	les	les	DET	DET	n=p	
+9	neiges	neige	NC	NC	n=p|g=f	
+10	des	de	P+D	P+D	n=p	
+11	Cévennes	_	NPP	NPP		
+12	y	y	CLO	CLO		
+13	ont	avoir	V	V	n=p|t=P|p=3	
+14	creusé	creuser	VPP	VPP	n=s|g=m|t=K	
+15	des	des	DET	DET	n=p	
+16	vallées	vallée	NC	NC	n=p|g=f	
+17	très	très	ADV	ADV		
+18	profondes	profond	ADJ	ADJ	n=p|g=f	
+19	et	et	CC	CC		
+20	très	très	ADV	ADV		
+21	étroites	étroit	ADJ	ADJ	n=p|g=f	
+22	:	:	PONCT	PONCT		
+23	les	les	DET	DET	n=p	
+24	gorges	gorge	NC	NC	n=p|g=f	
+25	(	(	PONCT	PONCT		
+26	comme	comme	P	P		
+27	celles	celle	PRO	PRO	n=p|g=f	
+28	du	de	P+D	P+D	n=s|g=m	
+29	Tarn	Tarn	NPP	NPP	n=s|g=m	
+30	)	)	PONCT	PONCT		
+31	.	.	PONCT	PONCT		
+
+1	C'	ce	CLS	CLS		
+2	est	être	V	V	n=s|t=P|p=3	
+3	une	une	DET	DET	n=s|g=f	
+4	région	région	NC	NC	n=s|g=f	
+5	difficile	difficile	ADJ	ADJ	n=s	
+6	à	à	P	P		
+7	vivre	vivre	VINF	VINF	t=W	
+8	,	,	PONCT	PONCT		
+9	aussi	aussi	ADV	ADV		
+10	bien	bien	ADV	ADV		
+11	en	en	P	P		
+12	été	été	NC	NC	n=s|g=m	
+13	qu'	que	CS	CS		
+14	en	en	P	P		
+15	hiver	hiver	NC	NC	n=s|g=m	
+16	,	,	PONCT	PONCT		
+17	où	où	PROREL	PROREL		
+18	il	il	CLS	CLS	n=s|g=m|p=3	
+19	fait	faire	V	V	n=s|t=P|p=3	
+20	très	très	ADV	ADV		
+21	froid	froid	ADJ	ADJ	n=s|g=m	
+22	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	paysages	paysage	NC	NC	n=p|g=m	
+3	du	de	P+D	P+D	n=s|g=m	
+4	Massif	massif	NC	NC	n=s|g=m	
+5	central	central	ADJ	ADJ	n=s|g=m	
+6	sont	être	V	V	n=p|t=P|p=3	
+7	marqués	marquer	VPP	VPP	n=p|g=m|t=K	
+8	par	par	P	P		
+9	une	une	DET	DET	n=s|g=f	
+10	faune	faune	NC	NC	n=s|g=f,m	
+11	et	et	CC	CC		
+12	une	une	DET	DET	n=s|g=f	
+13	flore	flore	NC	NC	n=s|g=f	
+14	très	très	ADV	ADV		
+15	riches	riche	ADJ	ADJ	n=p	
+16	.	.	PONCT	PONCT		
+
+1	On	on	CLS	CLS	n=s|p=3	
+2	trouve	trouver	V	V	n=s|t=P,S|p=1,3	
+3	dans	dans	P	P		
+4	le	le	DET	DET	n=s|g=m	
+5	Massif	massif	NC	NC	n=s|g=m	
+6	central	central	ADJ	ADJ	n=s|g=m	
+7	un	un	DET	DET	n=s|g=m	
+8	grand	grand	ADJ	ADJ	n=s|g=m	
+9	nombre	nombre	NC	NC	n=s|g=m	
+10	de	de	P	P		
+11	plantes	plante	NC	NC	n=p|g=f	
+12	,	,	PONCT	PONCT		
+13	dont	dont	PROREL	PROREL		
+14	certaines	certain	PRO	PRO	n=p|g=f	
+15	sont	être	V	V	n=p|t=P|p=3	
+16	rares	rare	ADJ	ADJ	n=p	
+17	:	:	PONCT	PONCT		
+

@@ -1,0 +1,1912 @@
+1	La	la	DET	DET	n=s|g=f	
+2	chèvre	chèvre	NC	NC	n=s	
+3	est	être	V	V	n=s|t=P|p=3	
+4	un	un	DET	DET	n=s|g=m	
+5	mammifère	mammifère	NC	NC	n=s|g=m	
+6	herbivore	herbivore	ADJ	ADJ	n=s	
+7	ruminant	ruminant	ADJ	ADJ	n=s|g=m	
+8	de	de	P	P		
+9	la	la	DET	DET	n=s|g=f	
+10	famille	famille	NC	NC	n=s|g=f	
+11	des	de	P+D	P+D	n=p	
+12	bovidés	bovidé	NC	NC	n=p|g=m	
+13	(	(	PONCT	PONCT		
+14	comme	comme	P	P		
+15	la	la	DET	DET	n=s|g=f	
+16	vache	vache	NC	NC	n=s|g=f	
+17	)	)	PONCT	PONCT		
+18	et	et	CC	CC		
+19	de	de	P	P		
+20	la	la	DET	DET	n=s|g=f	
+21	sous	sou	NC	NC	n=p|g=m	
+22	-	-	PONCT	PONCT		
+23	famille	famille	NC	NC	n=s|g=f	
+24	des	de	P+D	P+D	n=p	
+25	caprins	_	NC	NC		
+26	(	(	PONCT	PONCT		
+27	comme	comme	P	P		
+28	le	le	DET	DET	n=s|g=m	
+29	mouton	mouton	NC	NC	n=s|g=m	
+30	)	)	PONCT	PONCT		
+31	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	est	être	V	V	n=s|t=P|p=3	
+3	domestiquée	domestiquer	VPP	VPP	n=s|g=f|t=K	
+4	depuis	depuis	P	P		
+5	longtemps	longtemps	ADV	ADV		
+6	pour	pour	P	P		
+7	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+8	viande	viande	NC	NC	n=s|g=f	
+9	,	,	PONCT	PONCT		
+10	ses	ses	DET	DET	n=p|p=3|poss=s	
+11	poils	poil	NC	NC	n=p|g=m	
+12	et	et	CC	CC		
+13	surtout	surtout	ADV	ADV		
+14	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+15	lait	lait	NC	NC	n=s|g=m	
+16	,	,	PONCT	PONCT		
+17	notamment	_	ADV	ADV		
+18	pour	pour	P	P		
+19	en	en	CLO	CLO		
+20	faire	faire	VINF	VINF	t=W	
+21	du	de	P+D	P+D	n=s|g=m	
+22	fromage	fromage	NC	NC	n=s|g=m	
+23	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	terme	terme	NC	NC	n=s|g=m	
+3	chèvre	chèvre	NC	NC	n=s	
+4	désigne	désigner	V	V	n=s|t=P,S|p=1,3	
+5	la	la	DET	DET	n=s|g=f	
+6	femelle	femelle	NC	NC	n=s|g=f	
+7	,	,	PONCT	PONCT		
+8	bouc	bouc	NC	NC	n=s|g=m	
+9	le	le	DET	DET	n=s|g=m	
+10	mâle	mâle	NC	NC	n=s|g=m	
+11	et	et	CC	CC		
+12	chevreau	chevreau	NC	NC	n=s|g=m	
+13	le	le	DET	DET	n=s|g=m	
+14	petit	petit	ADJ	ADJ	n=s|g=m	
+15	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	s'	se	CLR	CLR	n=p,s|p=3	
+3	adapte	adapter	V	V	n=s|t=P,S|p=1,3	
+4	très	très	ADV	ADV		
+5	bien	bien	ADV	ADV		
+6	à	à	P	P		
+7	toutes	toutes	DET	DET	n=p|g=f	
+8	sortes	sorte	NC	NC	n=p|g=f	
+9	de	de	P	P		
+10	climats	climat	NC	NC	n=p|g=m	
+11	,	,	PONCT	PONCT		
+12	particulièrement	_	ADV	ADV		
+13	aux	à	P+D	P+D	n=p	
+14	climats	climat	NC	NC	n=p|g=m	
+15	arides	aride	ADJ	ADJ	n=p	
+16	et	et	CC	CC		
+17	montagneux	montagneux	ADJ	ADJ	g=m	
+18	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	chèvre	chèvre	NC	NC	n=s	
+3	peut	pouvoir	V	V	n=s|t=P|p=3	
+4	mesurer	mesurer	VINF	VINF	t=W	
+5	entre	entre	P	P		
+6	80	80	NC	NC		
+7	centimètres	centimètre	NC	NC	n=p|g=m	
+8	et	et	CC	CC		
+9	un	un	DET	DET	n=s|g=m	
+10	mètre	mètre	NC	NC	n=s|g=m	
+11	et	et	CC	CC		
+12	peser	peser	VINF	VINF	t=W	
+13	de	de	P	P		
+14	15	15	VINF	VINF		
+15	à	à	P	P		
+16	80	80	NC	NC		
+17	kg	kilogramme	NC	NC	g=m	
+18	selon	selon	P	P		
+19	les	les	DET	DET	n=p	
+20	races	race	NC	NC	n=p|g=f	
+21	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	chèvre	chèvre	NC	NC	n=s	
+3	commune	commun	ADJ	ADJ	n=s|g=f	
+4	a	avoir	V	V	n=s|t=P|p=3	
+5	un	un	DET	DET	n=s|g=m	
+6	poil	poil	NC	NC	n=s|g=m	
+7	ras	ras	ADV	ADV		
+8	,	,	PONCT	PONCT		
+9	mais	mais	CC	CC		
+10	certaines	certain	DET	DET	n=p|g=f	
+11	races	race	NC	NC	n=p|g=f	
+12	ont	avoir	V	V	n=p|t=P|p=3	
+13	une	une	DET	DET	n=s|g=f	
+14	épaisse	épais	ADJ	ADJ	n=s|g=f	
+15	toison	toison	NC	NC	n=s|g=f	
+16	pour	pour	P	P		
+17	se	se	CLR	CLR	n=p,s|p=3	
+18	protéger	protéger	VINF	VINF	t=W	
+19	du	de	P+D	P+D	n=s|g=m	
+20	froid	froid	NC	NC	n=s|g=m	
+21	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	possède	posséder	V	V	n=s|t=P,S|p=1,3	
+3	parfois	parfois	ADV	ADV		
+4	des	des	DET	DET	n=p	
+5	cornes	corne	NC	NC	n=p|g=f	
+6	.	.	PONCT	PONCT		
+
+1	Parfois	parfois	ADV	ADV		
+2	,	,	PONCT	PONCT		
+3	l'	le	DET	DET	n=s	
+4	éleveur	éleveur	NC	NC	n=s|g=m	
+5	les	les	DET	DET	n=p	
+6	lui	lui	CLO	CLO	n=s|p=3	
+7	coupe	couper	V	V	n=s|t=P,S|p=1,3	
+8	car	car	CS	CS		
+9	elles	elles	CLS	CLS	n=p|g=f|p=3	
+10	sont	être	V	V	n=p|t=P|p=3	
+11	une	une	DET	DET	n=s|g=f	
+12	arme	arme	NC	NC	n=s|g=f	
+13	redoutable1	_	NC	NC		
+14	.	.	PONCT	PONCT		
+
+1	Ses	ses	DET	DET	n=p|p=3|poss=s	
+2	pattes	patte	NC	NC	n=p|g=f	
+3	se	se	CLR	CLR	n=p,s|p=3	
+4	terminent	terminer	V	V	n=p|t=P,S|p=3	
+5	par	par	P	P		
+6	deux	deux	DET	DET	s=card|n=p	
+7	onglons	onglon	NC	NC	n=p|g=m	
+8	,	,	PONCT	PONCT		
+9	sortes	sorte	NC	NC	n=p|g=f	
+10	de	de	P	P		
+11	doigts	doigt	NC	NC	n=p|g=m	
+12	en	en	P	P		
+13	peau	peau	NC	NC	n=s|g=f	
+14	très	très	ADV	ADV		
+15	épaisse1	_	VPP	VPP		
+16	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	bouc	bouc	NC	NC	n=s|g=m	
+3	(	(	PONCT	PONCT		
+4	le	le	DET	DET	n=s|g=m	
+5	mâle	mâle	NC	NC	n=s|g=m	
+6	de	de	P	P		
+7	la	la	DET	DET	n=s|g=f	
+8	chèvre	chèvre	NC	NC	n=s	
+9	)	)	PONCT	PONCT		
+10	dégage	dégager	V	V	n=s|t=P,S|p=1,3	
+11	une	une	DET	DET	n=s|g=f	
+12	odeur	odeur	NC	NC	n=s|g=f	
+13	très	très	ADV	ADV		
+14	forte	fort	ADJ	ADJ	n=s|g=f	
+15	qui	qui	PROREL	PROREL	n=s	
+16	provient	provenir	V	V	n=s|t=P|p=3	
+17	d'	de	P	P		
+18	une	une	DET	DET	n=s|g=f	
+19	glande	glande	NC	NC	n=s|g=f	
+20	entre	entre	P	P		
+21	ses	ses	DET	DET	n=p|p=3|poss=s	
+22	cornes	corne	NC	NC	n=p|g=f	
+23	.	.	PONCT	PONCT		
+
+1	Ses	ses	DET	DET	n=p|p=3|poss=s	
+2	cornes	corne	NC	NC	n=p|g=f	
+3	sont	être	V	V	n=p|t=P|p=3	
+4	plus	plus	ADV	ADV		
+5	tordues	tordre	ADJ	ADJ	n=p|g=f|t=K	
+6	que	que	CS	CS		
+7	celles	celle	PRO	PRO	n=p|g=f	
+8	de	de	P	P		
+9	la	la	DET	DET	n=s|g=f	
+10	femelle	femelle	NC	NC	n=s|g=f	
+11	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	possède	posséder	V	V	n=s|t=P,S|p=1,3	
+3	une	une	DET	DET	n=s|g=f	
+4	"	"	PONCT	PONCT		
+5	barbiche	barbiche	NC	NC	n=s|g=f	
+6	"	"	PONCT	PONCT		
+7	sous	sous	P	P		
+8	le	le	DET	DET	n=s|g=m	
+9	menton	menton	NC	NC	n=s|g=m	
+10	,	,	PONCT	PONCT		
+11	d'	de	P	P		
+12	où	où	PROREL	PROREL		
+13	le	le	DET	DET	n=s|g=m	
+14	nom	nom	NC	NC	n=s|g=m	
+15	de	de	P	P		
+16	la	la	DET	DET	n=s|g=f	
+17	barbe	barbe	NC	NC	n=s	
+18	,	,	PONCT	PONCT		
+19	le	le	DET	DET	n=s|g=m	
+20	bouc	bouc	NC	NC	n=s|g=m	
+21	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	est	être	V	V	n=s|t=P|p=3	
+3	toujours	toujours	ADV	ADV		
+4	entouré	entourer	VPP	VPP	n=s|g=m|t=K	
+5	de	de	P	P		
+6	quelques	quelques	DET	DET	n=p	
+7	femelles	femelle	ADJ	ADJ	n=p	
+8	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	chèvre	chèvre	NC	NC	n=s	
+3	est	être	V	V	n=s|t=P|p=3	
+4	très	très	ADV	ADV		
+5	agile	agile	ADJ	ADJ	n=s	
+6	;	;	PONCT	PONCT		
+7	elle	elle	CLS	CLS	n=s|g=f|p=3	
+8	peut	pouvoir	V	V	n=s|t=P|p=3	
+9	grimper	grimper	VINF	VINF	t=W	
+10	des	des	DET	DET	n=p	
+11	pentes	pente	NC	NC	n=p|g=f	
+12	très	très	ADV	ADV		
+13	raides	raide	ADJ	ADJ	n=p	
+14	et	et	CC	CC		
+15	escalader	escalader	VINF	VINF	t=W	
+16	des	des	DET	DET	n=p	
+17	rochers	rocher	NC	NC	n=p|g=m	
+18	sans	sans	P	P		
+19	problème	problème	NC	NC	n=s|g=m	
+20	.	.	PONCT	PONCT		
+
+1	D'	de	P	P		
+2	ailleurs	ailleurs	ADV	ADV		
+3	,	,	PONCT	PONCT		
+4	elle	elle	CLS	CLS	n=s|g=f|p=3	
+5	est	être	V	V	n=s|t=P|p=3	
+6	souvent	souvent	ADV	ADV		
+7	élevée	élever	VPP	VPP	n=s|g=f|t=K	
+8	en	en	P	P		
+9	montagne	montagne	NC	NC	n=s|g=f	
+10	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	chèvre	chèvre	NC	NC	n=s	
+3	est	être	V	V	n=s|t=P|p=3	
+4	herbivore	herbivore	ADJ	ADJ	n=s	
+5	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	se	se	CLR	CLR	n=p,s|p=3	
+3	nourrit	nourrir	V	V	n=s|t=J,P|p=3	
+4	d'	de	P	P		
+5	herbe	herbe	NC	NC	n=s|g=f	
+6	de	de	P	P		
+7	prairie	prairie	NC	NC	n=s|g=f	
+8	et	et	CC	CC		
+9	de	de	P	P		
+10	graminées	graminée	NC	NC	n=p|g=f	
+11	.	.	PONCT	PONCT		
+
+1	Quand	quand	CS	CS		
+2	elle	elle	CLS	CLS	n=s|g=f|p=3	
+3	fait	faire	V	V	n=s|t=P|p=3	
+4	partie	partie	NC	NC	n=s|g=f	
+5	d'	de	P	P		
+6	un	un	DET	DET	n=s|g=m	
+7	élevage	élevage	NC	NC	n=s|g=m	
+8	,	,	PONCT	PONCT		
+9	on	on	CLS	CLS	n=s|p=3	
+10	la	la	CLO	CLO	n=s|g=f|p=3	
+11	nourrit	nourrir	V	V	n=s|t=J,P|p=3	
+12	de	de	P	P		
+13	foin	foin	NC	NC	n=s|g=m	
+14	,	,	PONCT	PONCT		
+15	de	de	P	P		
+16	choux	chou	NC	NC	n=p|g=m	
+17	et	et	CC	CC		
+18	de	de	P	P		
+19	céréales2	_	NC	NC		
+20	.	.	PONCT	PONCT		
+
+1	C'	ce	CLS	CLS		
+2	est	être	V	V	n=s|t=P|p=3	
+3	un	un	DET	DET	n=s|g=m	
+4	ruminant	ruminant	ADJ	ADJ	n=s|g=m	
+5	:	:	PONCT	PONCT		
+6	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+7	estomac	estomac	NC	NC	n=s|g=m	
+8	est	être	V	V	n=s|t=P|p=3	
+9	peu	peu	ADV	ADV		
+10	efficace	efficace	ADJ	ADJ	n=s	
+11	,	,	PONCT	PONCT		
+12	alors	alors	ADV	ADV		
+13	quand	quand	CS	CS		
+14	elle	elle	CLS	CLS	n=s|g=f|p=3	
+15	mange	manger	V	V	n=s|t=P,S|p=1,3	
+16	,	,	PONCT	PONCT		
+17	elle	elle	CLS	CLS	n=s|g=f|p=3	
+18	doit	devoir	V	V	n=s|t=P|p=3	
+19	régurgiter	régurgiter	VINF	VINF	t=W	
+20	ce	ce	PRO	PRO	n=s	
+21	qu'	que	PROREL	PROREL		
+22	elle	elle	CLS	CLS	n=s|g=f|p=3	
+23	avait	avoir	V	V	n=s|t=I|p=3	
+24	avalé	avaler	VPP	VPP	n=s|g=m|t=K	
+25	jusque	jusque	P	P		
+26	dans	dans	P	P		
+27	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+28	bouche	bouche	NC	NC	n=s|g=f	
+29	pour	pour	P	P		
+30	remâcher	remâcher	VINF	VINF	t=W	
+31	la	la	DET	DET	n=s|g=f	
+32	nourriture	nourriture	NC	NC	n=s|g=f	
+33	.	.	PONCT	PONCT		
+
+1	Si	si	CS	CS		
+2	elle	elle	CLS	CLS	n=s|g=f|p=3	
+3	ne	ne	ADV	ADV		
+4	faisait	faire	V	V	n=s|t=I|p=3	
+5	pas	pas	ADV	ADV		
+6	cela	cela	PRO	PRO	n=s|g=m	
+7	,	,	PONCT	PONCT		
+8	elle	elle	CLS	CLS	n=s|g=f|p=3	
+9	ne	ne	ADV	ADV		
+10	pourrait	pouvoir	V	V	n=s|t=C|p=3	
+11	pas	pas	ADV	ADV		
+12	digérer	digérer	VINF	VINF	t=W	
+13	parce	_	ADV	ADV		
+14	que	que	CS	CS		
+15	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+16	estomac	estomac	NC	NC	n=s|g=m	
+17	n'	ne	ADV	ADV		
+18	est	être	V	V	n=s|t=P|p=3	
+19	pas	pas	ADV	ADV		
+20	capable	capable	ADJ	ADJ	n=s	
+21	de	de	P	P		
+22	traiter	traiter	VINF	VINF	t=W	
+23	directement	_	ADV	ADV		
+24	ce	ce	PRO	PRO	n=s	
+25	qu'	que	PROREL	PROREL		
+26	elle	elle	CLS	CLS	n=s|g=f|p=3	
+27	mange	manger	V	V	n=s|t=P,S|p=1,3	
+28	,	,	PONCT	PONCT		
+29	comme	comme	CS	CS		
+30	le	le	CLO	CLO	n=s|g=m|p=3	
+31	fait	faire	V	V	n=s|t=P|p=3	
+32	l'	le	CLO	CLO	n=s|p=3	
+33	être	être	VINF	VINF	t=W	
+34	humain1	_	ADJ	ADJ		
+35	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	mange	manger	V	V	n=s|t=P,S|p=1,3	
+3	environ	environ	ADV	ADV		
+4	12	12	ADJ	ADJ		
+5	kg	kilogramme	NC	NC	g=m	
+6	par	par	P	P		
+7	jour	jour	NC	NC	n=s|g=m	
+8	pour	pour	P	P		
+9	10	10	ADJ	ADJ		
+10	litres	litre	NC	NC	n=p	
+11	d'	de	P	P		
+12	eau	eau	NC	NC	n=s|g=f	
+13	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	éleveur	éleveur	NC	NC	n=s|g=m	
+3	peut	pouvoir	V	V	n=s|t=P|p=3	
+4	également	_	ADV	ADV		
+5	mettre	mettre	VINF	VINF	t=W	
+6	à	à	P	P		
+7	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+8	disposition	disposition	NC	NC	n=s|g=f	
+9	une	une	DET	DET	n=s|g=f	
+10	pierre	pierre	NC	NC	n=s|g=f	
+11	à	à	P	P		
+12	sel	sel	NC	NC	n=s|g=m	
+13	pour	pour	P	P		
+14	lui	lui	CLO	CLO	n=s|p=3	
+15	apporter	apporter	VINF	VINF	t=W	
+16	tous	tout	ADJ	ADJ	n=p|g=m	
+17	les	les	DET	DET	n=p	
+18	minéraux	minéral	ADJ	ADJ	n=p|g=m	
+19	dont	dont	PROREL	PROREL		
+20	elle	elle	CLS	CLS	n=s|g=f|p=3	
+21	a	avoir	V	V	n=s|t=P|p=3	
+22	besoin	besoin	NC	NC	n=s|g=m	
+23	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	maturité	maturité	NC	NC	n=s|g=f	
+3	sexuelle	sexuel	ADJ	ADJ	n=s|g=f	
+4	de	de	P	P		
+5	la	la	DET	DET	n=s|g=f	
+6	chèvre	chèvre	NC	NC	n=s	
+7	se	se	CLR	CLR	n=p,s|p=3	
+8	situe	situer	V	V	n=s|t=P,S|p=1,3	
+9	aux	à	P+D	P+D	n=p	
+10	alentours	alentours	NC	NC	n=p|g=m	
+11	de	de	P	P		
+12	sept	sept	DET	DET	s=card|n=p	
+13	mois	mois	NC	NC	g=m	
+14	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	femelles	femelle	NC	NC	n=p|g=f	
+3	sont	être	V	V	n=p|t=P|p=3	
+4	prêtes	prêt	ADJ	ADJ	n=p|g=f	
+5	à	à	P	P		
+6	s'	se	CLR	CLR	n=p,s|p=3	
+7	accoupler	accoupler	VINF	VINF	t=W	
+8	en	en	P	P		
+9	automne	automne	NC	NC	n=s|g=m	
+10	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	gestation	gestation	NC	NC	n=s|g=f	
+3	dure	dur	ADJ	ADJ	n=s|g=f	
+4	cinq	cinq	DET	DET	s=card|n=p	
+5	mois	mois	NC	NC	g=m	
+6	,	,	PONCT	PONCT		
+7	au	à	P+D	P+D	n=s|g=m	
+8	terme	terme	NC	NC	n=s|g=m	
+9	desquels	duquel	P+PRO	P+PRO	n=p|g=m	
+10	la	la	DET	DET	n=s|g=f	
+11	chèvre	chèvre	NC	NC	n=s	
+12	donne	donner	V	V	n=s|t=P,S|p=1,3	
+13	naissance	naissance	NC	NC	n=s|g=f	
+14	à	à	P	P		
+15	un	un	DET	DET	n=s|g=m	
+16	ou	ou	CC	CC		
+17	deux	deux	DET	DET	s=card|n=p	
+18	chevreaux	chevreau	NC	NC	n=p|g=m	
+19	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	chevreaux	chevreau	NC	NC	n=p|g=m	
+3	arrêtent	arrêter	V	V	n=p|t=P,S|p=3	
+4	de	de	P	P		
+5	téter	téter	VINF	VINF	t=W	
+6	leur	leur	DET	DET	n=s|p=3|poss=p	
+7	mère	mère	NC	NC	n=s|g=f	
+8	(	(	PONCT	PONCT		
+9	sevrage	sevrage	NC	NC	n=s|g=m	
+10	)	)	PONCT	PONCT		
+11	à	à	P	P		
+12	deux	deux	DET	DET	s=card|n=p	
+13	mois	mois	NC	NC	g=m	
+14	;	;	PONCT	PONCT		
+15	ils	ils	CLS	CLS	n=p|g=m|p=3	
+16	pèsent	peser	V	V	n=p|t=P,S|p=3	
+17	alors	alors	ADV	ADV		
+18	15	15	ADJ	ADJ		
+19	kg	kilogramme	NC	NC	g=m	
+20	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	chèvre	chèvre	NC	NC	n=s	
+3	peut	pouvoir	V	V	n=s|t=P|p=3	
+4	être	être	VINF	VINF	t=W	
+5	victime	victime	NC	NC	n=s|g=f	
+6	de	de	P	P		
+7	plusieurs	plusieurs	DET	DET	n=p	
+8	sortes	sorte	NC	NC	n=p|g=f	
+9	de	de	P	P		
+10	maladies	maladie	NC	NC	n=p|g=f	
+11	,	,	PONCT	PONCT		
+12	dont	dont	PROREL	PROREL		
+13	les	les	DET	DET	n=p	
+14	trois	trois	ADJ	ADJ	s=card|n=p	
+15	principales	principal	ADJ	ADJ	n=p|g=f	
+16	sont3	_	NC	NC		
+17	:	:	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	chèvre	chèvre	NC	NC	n=s	
+3	,	,	PONCT	PONCT		
+4	surtout	surtout	ADV	ADV		
+5	quand	quand	CS	CS		
+6	elle	elle	CLS	CLS	n=s|g=f|p=3	
+7	est	être	V	V	n=s|t=P|p=3	
+8	en	en	P	P		
+9	groupe	groupe	NC	NC	n=s|g=m	
+10	,	,	PONCT	PONCT		
+11	comme	comme	P	P		
+12	dans	dans	P	P		
+13	un	un	DET	DET	n=s|g=m	
+14	élevage	élevage	NC	NC	n=s|g=m	
+15	,	,	PONCT	PONCT		
+16	contribue	contribuer	V	V	n=s|t=P,S|p=1,3	
+17	à	à	P	P		
+18	changer	changer	VINF	VINF	t=W	
+19	le	le	DET	DET	n=s|g=m	
+20	paysage	paysage	NC	NC	n=s|g=m	
+21	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	mange	manger	V	V	n=s|t=P,S|p=1,3	
+3	l'	le	DET	DET	n=s	
+4	herbe	herbe	NC	NC	n=s|g=f	
+5	et	et	CC	CC		
+6	laisse	laisser	V	V	n=s|t=P,S|p=1,3	
+7	les	les	DET	DET	n=p	
+8	buissons	buisson	NC	NC	n=p|g=m	
+9	,	,	PONCT	PONCT		
+10	écrase	écraser	V	V	n=s|t=P,S|p=1,3	
+11	les	les	DET	DET	n=p	
+12	jeunes	jeune	ADJ	ADJ	n=p	
+13	arbres	arbre	NC	NC	n=p|g=m	
+14	...	...	PONCT	PONCT		
+15	Tout	tout	NC	NC	n=s|g=m	
+16	cela	cela	PRO	PRO	n=s|g=m	
+17	peut	pouvoir	V	V	n=s|t=P|p=3	
+18	faire	faire	VINF	VINF	t=W	
+19	d'	de	P	P		
+20	une	une	DET	DET	n=s|g=f	
+21	forêt	forêt	NC	NC	n=s|g=f	
+22	un	un	DET	DET	n=s|g=m	
+23	maquis	maquis	NC	NC	g=m	
+24	.	.	PONCT	PONCT		
+
+1	Selon	selon	P	P		
+2	ce	ce	PRO	PRO	n=s	
+3	qu'	que	PROREL	PROREL		
+4	elle	elle	CLS	CLS	n=s|g=f|p=3	
+5	mange	manger	V	V	n=s|t=P,S|p=1,3	
+6	,	,	PONCT	PONCT		
+7	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+8	lait	lait	NC	NC	n=s|g=m	
+9	peut	pouvoir	V	V	n=s|t=P|p=3	
+10	changer	changer	VINF	VINF	t=W	
+11	de	de	P	P		
+12	goût	goût	NC	NC	n=s|g=m	
+13	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	chèvre	chèvre	NC	NC	n=s	
+3	est	être	V	V	n=s|t=P|p=3	
+4	très	très	ADV	ADV		
+5	sensible	sensible	ADJ	ADJ	n=s	
+6	à	à	P	P		
+7	la	la	DET	DET	n=s|g=f	
+8	solitude	solitude	NC	NC	n=s|g=f	
+9	.	.	PONCT	PONCT		
+
+1	Ainsi	ainsi	ADV	ADV		
+2	,	,	PONCT	PONCT		
+3	un	un	DET	DET	n=s|g=m	
+4	élevage	élevage	NC	NC	n=s|g=m	
+5	devra	devoir	V	V	n=s|t=F|p=3	
+6	compter	compter	VINF	VINF	t=W	
+7	au	à	P+D	P+D	n=s|g=m	
+8	moins	moins	ADV	ADV		
+9	deux	deux	DET	DET	s=card|n=p	
+10	animaux	animal	NC	NC	n=p|g=m	
+11	,	,	PONCT	PONCT		
+12	faute	faute	NC	NC	n=s|g=f	
+13	de	de	P	P		
+14	quoi	quoi	PROREL	PROREL		
+15	la	la	DET	DET	n=s|g=f	
+16	chèvre	chèvre	NC	NC	n=s	
+17	pourrait	pouvoir	V	V	n=s|t=C|p=3	
+18	faire	faire	VINF	VINF	t=W	
+19	une	une	DET	DET	n=s|g=f	
+20	dépression4	_	NC	NC		
+21	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	chèvre	chèvre	NC	NC	n=s	
+3	a	avoir	V	V	n=s|t=P|p=3	
+4	été	être	VPP	VPP	t=K	
+5	domestiquée	domestiquer	VPP	VPP	n=s|g=f|t=K	
+6	au	à	P+D	P+D	n=s|g=m	
+7	cours	cour	NC	NC	n=p|g=f	
+8	du	de	P+D	P+D	n=s|g=m	
+9	Néolithique	néolithique	NC	NC	n=p|g=m	
+10	,	,	PONCT	PONCT		
+11	il	il	CLS	CLS	n=s|g=m|p=3	
+12	y	y	CLO	CLO		
+13	a	avoir	V	V	n=s|t=P|p=3	
+14	environ	environ	ADV	ADV		
+15	12_000	12_000	ADJ	ADJ		
+16	ans	an	NC	NC	n=p|g=m	
+17	.	.	PONCT	PONCT		
+
+1	C'	ce	CLS	CLS		
+2	est	être	V	V	n=s|t=P|p=3	
+3	un	un	DET	DET	n=s|g=m	
+4	des	de	P+D	P+D	n=p	
+5	premiers	premier	ADJ	ADJ	n=p|g=m	
+6	animaux	animal	NC	NC	n=p|g=m	
+7	que	que	CS	CS		
+8	l'	le	DET	DET	n=s	
+9	homme	homme	NC	NC	n=s|g=m	
+10	éleva	élever	V	V	n=s|t=J|p=3	
+11	,	,	PONCT	PONCT		
+12	avec	avec	P	P		
+13	la	la	DET	DET	n=s|g=f	
+14	vache	vache	NC	NC	n=s|g=f	
+15	et	et	CC	CC		
+16	le	le	DET	DET	n=s|g=m	
+17	mouton	mouton	NC	NC	n=s|g=m	
+18	.	.	PONCT	PONCT		
+
+1	C'	ce	CLS	CLS		
+2	est	être	V	V	n=s|t=P|p=3	
+3	également	_	ADV	ADV		
+4	un	un	DET	DET	n=s|g=m	
+5	des	de	P+D	P+D	n=p	
+6	premiers	premier	ADJ	ADJ	n=p|g=m	
+7	animaux	animal	NC	NC	n=p|g=m	
+8	domestiqués	domestiquer	VPP	VPP	n=p|g=m|t=K	
+9	,	,	PONCT	PONCT		
+10	après	après	P	P		
+11	le	le	DET	DET	n=s|g=m	
+12	chien	chien	NC	NC	n=s|g=m	
+13	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	chèvre	chèvre	NC	NC	n=s	
+3	sauvage	sauvage	ADJ	ADJ	n=s	
+4	est	être	V	V	n=s|t=P|p=3	
+5	devenue	devenir	VPP	VPP	n=s|g=f|t=K	
+6	très	très	ADV	ADV		
+7	rare	rare	ADJ	ADJ	n=s	
+8	à	à	P	P		
+9	cause	cause	NC	NC	n=s|g=f	
+10	de	de	P	P		
+11	cela	cela	PRO	PRO	n=s|g=m	
+12	.	.	PONCT	PONCT		
+
+1	Aux	à	P+D	P+D	n=p	
+2	débuts	début	NC	NC	n=p|g=m	
+3	de	de	P	P		
+4	l'	le	DET	DET	n=s	
+5	élevage	élevage	NC	NC	n=s|g=m	
+6	,	,	PONCT	PONCT		
+7	les	les	DET	DET	n=p	
+8	hommes	homme	NC	NC	n=p|g=m	
+9	ont	avoir	V	V	n=p|t=P|p=3	
+10	d'	de	P	P		
+11	abord	abord	NC	NC	n=s|g=m	
+12	tué	tuer	VPP	VPP	n=s|g=m|t=K	
+13	les	les	DET	DET	n=p	
+14	prédateurs	prédateur	NC	NC	n=p|g=m	
+15	des	de	P+D	P+D	n=p	
+16	chèvres	chèvre	NC	NC	n=p	
+17	pour	pour	P	P		
+18	les	les	CLO	CLO	n=p|p=3	
+19	protéger	protéger	VINF	VINF	t=W	
+20	celles	celle	PRO	PRO	n=p|g=f	
+21	-	-	PONCT	PONCT		
+22	ci	_	ADV	ADV		
+23	sans	sans	P	P		
+24	avoir	avoir	VINF	VINF	t=W	
+25	besoin	besoin	NC	NC	n=s|g=m	
+26	de	de	P	P		
+27	s'	se	CLR	CLR	n=p,s|p=3	
+28	en	en	CLO	CLO		
+29	occuper	occuper	VINF	VINF	t=W	
+30	,	,	PONCT	PONCT		
+31	faisant	faire	VPR	VPR	t=G	
+32	d'	de	P	P		
+33	eux	eux	PRO	PRO	n=p|g=m|p=3	
+34	les	les	DET	DET	n=p	
+35	seuls	seul	ADJ	ADJ	n=p|g=m	
+36	maîtres	maître	NC	NC	n=p|g=m	
+37	du	de	P+D	P+D	n=s|g=m	
+38	destin	destin	NC	NC	n=s|g=m	
+39	des	de	P+D	P+D	n=p	
+40	animaux	animal	NC	NC	n=p|g=m	
+41	.	.	PONCT	PONCT		
+
+1	Puis	puis	CC	CC		
+2	ils	ils	CLS	CLS	n=p|g=m|p=3	
+3	ont	avoir	V	V	n=p|t=P|p=3	
+4	appris	apprendre	VPP	VPP	g=m|t=K	
+5	à	à	P	P		
+6	les	les	CLO	CLO	n=p|p=3	
+7	domestiquer	domestiquer	VINF	VINF	t=W	
+8	,	,	PONCT	PONCT		
+9	à	à	P	P		
+10	les	les	CLO	CLO	n=p|p=3	
+11	regrouper	regrouper	VINF	VINF	t=W	
+12	,	,	PONCT	PONCT		
+13	puis	puis	CC	CC		
+14	les	les	CLO	CLO	n=p|p=3	
+15	enfermer	enfermer	VINF	VINF	t=W	
+16	pour	pour	P	P		
+17	les	les	CLO	CLO	n=p|p=3	
+18	élever	élever	VINF	VINF	t=W	
+19	sans	sans	P	P		
+20	avoir	avoir	VINF	VINF	t=W	
+21	à	à	P	P		
+22	les	les	CLO	CLO	n=p|p=3	
+23	protéger	protéger	VINF	VINF	t=W	
+24	continuellement	_	ADV	ADV		
+25	puis	_	ADV	ADV		
+26	à	à	P	P		
+27	les	les	CLO	CLO	n=p|p=3	
+28	chasser	chasser	VINF	VINF	t=W	
+29	.	.	PONCT	PONCT		
+
+1	Ainsi	ainsi	ADV	ADV		
+2	,	,	PONCT	PONCT		
+3	la	la	DET	DET	n=s|g=f	
+4	conservation	conservation	NC	NC	n=s|g=f	
+5	des	de	P+D	P+D	n=p	
+6	produits	produit	NC	NC	n=p|g=m	
+7	(	(	PONCT	PONCT		
+8	lait	lait	NC	NC	n=s|g=m	
+9	,	,	PONCT	PONCT		
+10	viande	viande	NC	NC	n=s|g=f	
+11	...	...	PONCT	PONCT		
+12	)	)	PONCT	PONCT		
+13	devint	devenir	V	V	n=s|t=J|p=3	
+14	plus	plus	ADV	ADV		
+15	facile5	_	ADJ	ADJ		
+16	.	.	PONCT	PONCT		
+
+1	Dans	dans	P	P		
+2	l'	le	DET	DET	n=s	
+3	Antiquité	_	NPP	NPP		
+4	,	,	PONCT	PONCT		
+5	on	on	CLS	CLS	n=s|p=3	
+6	apprit	apprendre	V	V	n=s|t=J|p=3	
+7	à	à	P	P		
+8	l'	le	CLO	CLO	n=s|p=3	
+9	utiliser	utiliser	VINF	VINF	t=W	
+10	pour	pour	P	P		
+11	transporter	transporter	VINF	VINF	t=W	
+12	des	des	DET	DET	n=p	
+13	aliments	aliment	NC	NC	n=p|g=m	
+14	liquides	liquide	ADJ	ADJ	n=p	
+15	,	,	PONCT	PONCT		
+16	par	par	P	P		
+17	exemple	exemple	NC	NC	n=s|g=m	
+18	dans	dans	P	P		
+19	des	des	DET	DET	n=p	
+20	outres	outre	NC	NC	n=p|g=f	
+21	qui	qui	PROREL	PROREL	n=s	
+22	présentent	présenter	V	V	n=p|t=P,S|p=3	
+23	l'	le	DET	DET	n=s	
+24	avantage	avantage	NC	NC	n=s|g=m	
+25	de	de	P	P		
+26	ne	ne	ADV	ADV		
+27	pas	pas	ADV	ADV		
+28	fuir	fuir	VINF	VINF	t=W	
+29	.	.	PONCT	PONCT		
+
+1	Au	à	P+D	P+D	n=s|g=m	
+2	Moyen	Moyen	NPP	NPP	n=s|g=m	
+3	Âge	_	NPP	NPP		
+4	,	,	PONCT	PONCT		
+5	on	on	CLS	CLS	n=s|p=3	
+6	découvrit	découvrir	V	V	n=s|t=J|p=3	
+7	que	que	CS	CS		
+8	la	la	DET	DET	n=s|g=f	
+9	peau	peau	NC	NC	n=s|g=f	
+10	de	de	P	P		
+11	la	la	DET	DET	n=s|g=f	
+12	chèvre	chèvre	NC	NC	n=s	
+13	pouvait	pouvoir	V	V	n=s|t=I|p=3	
+14	être	être	VINF	VINF	t=W	
+15	transformée	transformer	VPP	VPP	n=s|g=f|t=K	
+16	en	en	P	P		
+17	parchemin	parchemin	NC	NC	n=s|g=m	
+18	,	,	PONCT	PONCT		
+19	qui	qui	PROREL	PROREL	n=s	
+20	devint	devenir	V	V	n=s|t=J|p=3	
+21	le	le	DET	DET	n=s|g=m	
+22	support	support	NC	NC	n=s|g=m	
+23	le	le	DET	DET	n=s|g=m	
+24	plus	plus	ADV	ADV		
+25	couramment	_	ADV	ADV		
+26	utilisé	utiliser	VPP	VPP	n=s|g=m|t=K	
+27	pour	pour	P	P		
+28	l'	le	DET	DET	n=s	
+29	écriture	écriture	NC	NC	n=s|g=f	
+30	.	.	PONCT	PONCT		
+
+1	Amalthée	_	NPP	NPP		
+2	était	être	V	V	n=s|t=I|p=3	
+3	une	une	DET	DET	n=s|g=f	
+4	chèvre	chèvre	NC	NC	n=s	
+5	,	,	PONCT	PONCT		
+6	nourrice	nourrice	NC	NC	n=s|g=f	
+7	de	de	P	P		
+8	Zeus	Zeus	NPP	NPP	n=s|g=m	
+9	enfant	enfant	NC	NC	n=s	
+10	,	,	PONCT	PONCT		
+11	dont	dont	PROREL	PROREL		
+12	une	une	DET	DET	n=s|g=f	
+13	corne	corne	NC	NC	n=s|g=f	
+14	fut	être	V	V	n=s|t=J|p=3	
+15	cassée	casser	VPP	VPP	n=s|g=f|t=K	
+16	par	par	P	P		
+17	le	le	DET	DET	n=s|g=m	
+18	jeune	jeune	ADJ	ADJ	n=s	
+19	Dieu	_	NPP	NPP		
+20	.	.	PONCT	PONCT		
+
+1	Cette	cette	DET	DET	n=s|g=f	
+2	corne	corne	NC	NC	n=s|g=f	
+3	devint	devenir	V	V	n=s|t=J|p=3	
+4	la	la	DET	DET	n=s|g=f	
+5	Corne	Corne	NPP	NPP	n=s|g=m	
+6	d'	de	P	P		
+7	Abondance	Abondance	NPP	NPP	n=s|g=m	
+8	.	.	PONCT	PONCT		
+
+1	On	on	CLS	CLS	n=s|p=3	
+2	dit	dire	V	V	n=s|t=J,P|p=3	
+3	aussi	aussi	ADV	ADV		
+4	qu'	que	CS	CS		
+5	à	à	P	P		
+6	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+7	mort	mort	NC	NC	n=s|g=f,m	
+8	,	,	PONCT	PONCT		
+9	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+10	peau	peau	NC	NC	n=s|g=f	
+11	fut	être	V	V	n=s|t=J|p=3	
+12	transformée	transformer	VPP	VPP	n=s|g=f|t=K	
+13	en	en	P	P		
+14	un	un	DET	DET	n=s|g=m	
+15	bouclier	bouclier	NC	NC	n=s|g=m	
+16	par	par	P	P		
+17	Zeus	Zeus	NPP	NPP	n=s|g=m	
+18	,	,	PONCT	PONCT		
+19	qui	qui	PROREL	PROREL	n=s	
+20	devint	devenir	V	V	n=s|t=J|p=3	
+21	alors	alors	ADV	ADV		
+22	invincible	invincible	ADJ	ADJ	n=s	
+23	.	.	PONCT	PONCT		
+
+1	Dans	dans	P	P		
+2	la	la	DET	DET	n=s|g=f	
+3	même	même	ADJ	ADJ	n=s	
+4	mythologie	mythologie	NC	NC	n=s|g=f	
+5	,	,	PONCT	PONCT		
+6	la	la	DET	DET	n=s|g=f	
+7	Chimère	_	NPP	NPP		
+8	a	avoir	V	V	n=s|t=P|p=3	
+9	un	un	DET	DET	n=s|g=m	
+10	corps	corps	NC	NC	g=m	
+11	de	de	P	P		
+12	chèvre	chèvre	NC	NC	n=s	
+13	.	.	PONCT	PONCT		
+
+1	Jason	Jason	NPP	NPP	n=s|g=m	
+2	,	,	PONCT	PONCT		
+3	descendant	descendre	VPR	VPR	t=G	
+4	d'	de	P	P		
+5	Éole	_	NPP	NPP		
+6	,	,	PONCT	PONCT		
+7	part	partir	V	V	n=s|t=P|p=3	
+8	à	à	P	P		
+9	la	la	DET	DET	n=s|g=f	
+10	conquête	conquête	NC	NC	n=s|g=f	
+11	de	de	P	P		
+12	la	la	DET	DET	n=s|g=f	
+13	Toison	toison	NC	NC	n=s|g=f	
+14	d'	de	P	P		
+15	or	or	NC	NC	n=s|g=m	
+16	avec	avec	P	P		
+17	les	les	DET	DET	n=p	
+18	Argonautes	_	NPP	NPP		
+19	.	.	PONCT	PONCT		
+
+1	Pour	pour	P	P		
+2	finir	finir	VINF	VINF	t=W	
+3	,	,	PONCT	PONCT		
+4	il	il	CLS	CLS	n=s|g=m|p=3	
+5	y	y	CLO	CLO		
+6	a	avoir	V	V	n=s|t=P|p=3	
+7	Pan	_	NPP	NPP		
+8	,	,	PONCT	PONCT		
+9	Dieu	_	NPP	NPP		
+10	de	de	P	P		
+11	la	la	DET	DET	n=s|g=f	
+12	nature	nature	NC	NC	n=s|g=f	
+13	,	,	PONCT	PONCT		
+14	qui	qui	PROREL	PROREL	n=s	
+15	a	avoir	V	V	n=s|t=P|p=3	
+16	une	une	DET	DET	n=s|g=f	
+17	forme	forme	NC	NC	n=s|g=f	
+18	de	de	P	P		
+19	bouc	bouc	NC	NC	n=s|g=m	
+20	.	.	PONCT	PONCT		
+
+1	Dans	dans	P	P		
+2	les	les	DET	DET	n=p	
+3	pays	pays	NC	NC	g=m	
+4	nordiques	nordique	ADJ	ADJ	n=p	
+5	,	,	PONCT	PONCT		
+6	la	la	DET	DET	n=s|g=f	
+7	chèvre	chèvre	NC	NC	n=s	
+8	représente	représenter	V	V	n=s|t=P,S|p=1,3	
+9	l'	le	DET	DET	n=s	
+10	esprit	esprit	NC	NC	n=s|g=m	
+11	du	de	P+D	P+D	n=s|g=m	
+12	blé	blé	NC	NC	n=s|g=m	
+13	,	,	PONCT	PONCT		
+14	et	et	CC	CC		
+15	Heidrun	Heidrun	NPP	NPP	n=s|g=f	
+16	est	être	V	V	n=s|t=P|p=3	
+17	la	la	DET	DET	n=s|g=f	
+18	chèvre	chèvre	NC	NC	n=s	
+19	-	-	PONCT	PONCT		
+20	nourrice	nourrice	NC	NC	n=s|g=f	
+21	des	de	P+D	P+D	n=p	
+22	guerriers	guerrier	NC	NC	n=p|g=m	
+23	d'	de	P	P		
+24	Odin	Odin	NPP	NPP	n=s|g=m	
+25	,	,	PONCT	PONCT		
+26	chef	chef	NC	NC	n=s	
+27	des	de	P+D	P+D	n=p	
+28	Dieux	dieu	NC	NC	n=p|g=m	
+29	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	chèvre	chèvre	NC	NC	n=s	
+3	est	être	V	V	n=s|t=P|p=3	
+4	présente	présent	ADJ	ADJ	n=s|g=f	
+5	dans	dans	P	P		
+6	l'	le	DET	DET	n=s	
+7	Ancien	_	NPP	NPP		
+8	Testament	_	NPP	NPP		
+9	,	,	PONCT	PONCT		
+10	où	où	PROREL	PROREL		
+11	elle	elle	CLS	CLS	n=s|g=f|p=3	
+12	est	être	V	V	n=s|t=P|p=3	
+13	au	à	P+D	P+D	n=s|g=m	
+14	centre	centre	NC	NC	n=s|g=m	
+15	des	de	P+D	P+D	n=p	
+16	rituels	rituel	NC	NC	n=p|g=m	
+17	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	est	être	V	V	n=s|t=P|p=3	
+3	souvent	souvent	ADV	ADV		
+4	offerte	offrir	VPP	VPP	n=s|g=f|t=K	
+5	en	en	P	P		
+6	sacrifice	sacrifice	NC	NC	n=s|g=m	
+7	car	car	CS	CS		
+8	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+9	sang	sang	NC	NC	n=s|g=m	
+10	représente	représenter	V	V	n=s|t=P,S|p=1,3	
+11	la	la	DET	DET	n=s|g=f	
+12	pureté	pureté	NC	NC	n=s|g=f	
+13	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	y	y	CLO	CLO		
+3	fait	faire	V	V	n=s|t=P|p=3	
+4	de	de	DET	DET	n=p	
+5	nombreuses	nombreux	ADJ	ADJ	n=p|g=f	
+6	apparitions	apparition	NC	NC	n=p|g=f	
+7	,	,	PONCT	PONCT		
+8	notamment	_	ADV	ADV		
+9	en	en	P	P		
+10	comparaison	comparaison	NC	NC	n=s|g=f	
+11	à	à	P	P		
+12	d'	de	DET	DET	n=p	
+13	autres	autre	ADJ	ADJ	n=p	
+14	personnages	personnage	NC	NC	n=p|g=m	
+15	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	existe	exister	V	V	n=s|t=P,S|p=1,3	
+3	en	en	P	P		
+4	Provence	Provence	NPP	NPP	n=s|g=f	
+5	de	de	DET	DET	n=p	
+6	nombreuses	nombreux	ADJ	ADJ	n=p|g=f	
+7	légendes	légende	NC	NC	n=p|g=f	
+8	de	de	P	P		
+9	trésor	trésor	NC	NC	n=s|g=m	
+10	parlant	parlant	ADJ	ADJ	n=s|g=m	
+11	d'	de	P	P		
+12	une	une	DET	DET	n=s|g=f	
+13	"	"	PONCT	PONCT		
+14	chèvre	chèvre	NC	NC	n=s	
+15	d'	de	P	P		
+16	or	or	NC	NC	n=s|g=m	
+17	"	"	PONCT	PONCT		
+18	,	,	PONCT	PONCT		
+19	en	en	P	P		
+20	témoignage	témoignage	NC	NC	n=s|g=m	
+21	du	de	P+D	P+D	n=s|g=m	
+22	passage	passage	NC	NC	n=s|g=m	
+23	des	de	P+D	P+D	n=p	
+24	Sarrazins	_	NPP	NPP		
+25	,	,	PONCT	PONCT		
+26	appelés	appeler	VPP	VPP	n=p|g=m|t=K	
+27	localement	_	ADV	ADV		
+28	les	les	DET	DET	n=p	
+29	Maures	_	NPP	NPP		
+30	.	.	PONCT	PONCT		
+
+1	Paul	Paul	NPP	NPP	n=s|g=m	
+2	Arène	_	NPP	NPP		
+3	et	et	CC	CC		
+4	Frédéric	Frédéric	NPP	NPP	n=s|g=m	
+5	Mistral	_	NPP	NPP		
+6	ont	avoir	V	V	n=p|t=P|p=3	
+7	tous	tout	ADJ	ADJ	n=p|g=m	
+8	deux	deux	DET	DET	s=card|n=p	
+9	écrit	écrire	ADJ	ADJ	n=s|g=m|t=K	
+10	une	une	DET	DET	n=s|g=f	
+11	histoire	histoire	NC	NC	n=s|g=f	
+12	.	.	PONCT	PONCT		
+
+1	Personne	personne	PRO	PRO	n=s	
+2	ne	ne	ADV	ADV		
+3	lit	lire	V	V	n=s|t=P|p=3	
+4	la	la	DET	DET	n=s|g=f	
+5	feuille	feuille	NC	NC	n=s|g=f	
+6	du	de	P+D	P+D	n=s|g=m	
+7	Journal	journal	NC	NC	n=s|g=m	
+8	officiel	officiel	ADJ	ADJ	n=s|g=m	
+9	affichée	afficher	VPP	VPP	n=s|g=f|t=K	
+10	au	à	P+D	P+D	n=s|g=m	
+11	mur	mur	NC	NC	n=s|g=m	
+12	de	de	P	P		
+13	la	la	DET	DET	n=s|g=f	
+14	mairie	mairie	NC	NC	n=s|g=f	
+15	.	.	PONCT	PONCT		
+
+1	Si	si	CS	CS		
+2	,	,	PONCT	PONCT		
+3	la	la	DET	DET	n=s|g=f	
+4	chèvre	chèvre	NC	NC	n=s	
+5	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	se	se	CLR	CLR	n=p,s|p=3	
+3	dresse	dresser	V	V	n=s|t=P,S|p=1,3	
+4	sur	sur	P	P		
+5	ses	ses	DET	DET	n=p|p=3|poss=s	
+6	pattes	patte	NC	NC	n=p|g=f	
+7	de	de	P	P		
+8	derrière	derrière	ADV	ADV		
+9	,	,	PONCT	PONCT		
+10	appuie	appuyer	V	V	n=s|t=P,S|p=1,3	
+11	celles	celle	PRO	PRO	n=p|g=f	
+12	de	de	P	P		
+13	devant	devoir	VPR	VPR	t=G	
+14	au	à	P+D	P+D	n=s|g=m	
+15	bas	bas	ADJ	ADJ	g=m	
+16	de	de	P	P		
+17	l'	le	DET	DET	n=s	
+18	affiche	affiche	NC	NC	n=s|g=f	
+19	,	,	PONCT	PONCT		
+20	remue	remuer	V	V	n=s|t=P,S|p=1,3	
+21	ses	ses	DET	DET	n=p|p=3|poss=s	
+22	cornes	corne	NC	NC	n=p|g=f	
+23	et	et	CC	CC		
+24	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+25	barbe	barbe	NC	NC	n=s	
+26	,	,	PONCT	PONCT		
+27	et	et	CC	CC		
+28	agite	agiter	V	V	n=s|t=P,S|p=1,3	
+29	la	la	DET	DET	n=s|g=f	
+30	tête	tête	NC	NC	n=s|g=f	
+31	de	de	P	P		
+32	droite	droite	NC	NC	n=s|g=f	
+33	et	et	CC	CC		
+34	de	de	P	P		
+35	gauche	gauche	NC	NC	n=s	
+36	,	,	PONCT	PONCT		
+37	comme	comme	P	P		
+38	une	une	DET	DET	n=s|g=f	
+39	vieille	vieux	ADJ	ADJ	n=s|g=f	
+40	dame	dame	NC	NC	n=s|g=f	
+41	qui	qui	PROREL	PROREL	n=s	
+42	lit	lire	V	V	n=s|t=P|p=3	
+43	.	.	PONCT	PONCT		
+
+1	Sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+2	lecture	lecture	NC	NC	n=s|g=f	
+3	finie	finir	VPP	VPP	n=s|g=f|t=K	
+4	,	,	PONCT	PONCT		
+5	ce	ce	DET	DET	n=s|g=m	
+6	papier	papier	NC	NC	n=s|g=m	
+7	sentant	sentir	VPR	VPR	t=G	
+8	bon	bon	ADJ	ADJ	n=s|g=m	
+9	la	la	DET	DET	n=s|g=f	
+10	colle	colle	NC	NC	n=s|g=f	
+11	fraîche	frais	ADJ	ADJ	n=s|g=f	
+12	,	,	PONCT	PONCT		
+13	la	la	DET	DET	n=s|g=f	
+14	chèvre	chèvre	NC	NC	n=s	
+15	le	le	CLO	CLO	n=s|g=m|p=3	
+16	mange	manger	V	V	n=s|t=P,S|p=1,3	
+17	.	.	PONCT	PONCT		
+
+1	Tout	tout	PRO	PRO	n=s|g=m	
+2	ne	ne	ADV	ADV		
+3	se	se	CLR	CLR	n=p,s|p=3	
+4	perd	perdre	V	V	n=s|t=P|p=3	
+5	pas	pas	ADV	ADV		
+6	dans	dans	P	P		
+7	la	la	DET	DET	n=s|g=f	
+8	commune	commune	NC	NC	n=s|g=f	
+9	.	.	PONCT	PONCT		
+
+1	On	on	CLS	CLS	n=s|p=3	
+2	peut	pouvoir	V	V	n=s|t=P|p=3	
+3	élever	élever	VINF	VINF	t=W	
+4	des	des	DET	DET	n=p	
+5	chèvres	chèvre	NC	NC	n=p	
+6	pour	pour	P	P		
+7	leur	leur	DET	DET	n=s|p=3|poss=p	
+8	viande	viande	NC	NC	n=s|g=f	
+9	(	(	PONCT	PONCT		
+10	nourriture	nourriture	NC	NC	n=s|g=f	
+11	)	)	PONCT	PONCT		
+12	ou	ou	CC	CC		
+13	leurs	leurs	DET	DET	n=p|p=3|poss=p	
+14	poils	poil	NC	NC	n=p|g=m	
+15	(	(	PONCT	PONCT		
+16	vêtements	vêtement	NC	NC	n=p|g=m	
+17	)	)	PONCT	PONCT		
+18	mais	mais	CC	CC		
+19	surtout	surtout	ADV	ADV		
+20	pour	pour	P	P		
+21	leur	leur	DET	DET	n=s|p=3|poss=p	
+22	lait	lait	NC	NC	n=s|g=m	
+23	,	,	PONCT	PONCT		
+24	à	à	P	P		
+25	base	base	NC	NC	n=s|g=f	
+26	duquel	duquel	P+PRO	P+PRO	n=s|g=m	
+27	on	on	CLS	CLS	n=s|p=3	
+28	peut	pouvoir	V	V	n=s|t=P|p=3	
+29	faire	faire	VINF	VINF	t=W	
+30	de	de	DET	DET	n=p	
+31	nombreux	nombreux	ADJ	ADJ	g=m	
+32	fromages	fromage	NC	NC	n=p|g=m	
+33	.	.	PONCT	PONCT		
+
+1	Pour	pour	P	P		
+2	avoir	avoir	VINF	VINF	t=W	
+3	des	des	DET	DET	n=p	
+4	animaux	animal	NC	NC	n=p|g=m	
+5	en	en	P	P		
+6	bonne	bon	ADJ	ADJ	n=s|g=f	
+7	santé	santé	NC	NC	n=s|g=f	
+8	,	,	PONCT	PONCT		
+9	il	il	CLS	CLS	n=s|g=m|p=3	
+10	leur	leur	CLO	CLO	n=p|p=3	
+11	faut	falloir	V	V	n=s|t=P|p=3	
+12	un	un	DET	DET	n=s|g=m	
+13	certain	certain	ADJ	ADJ	n=s|g=m	
+14	confort	confort	NC	NC	n=s|g=m	
+15	;	;	PONCT	PONCT		
+16	la	la	DET	DET	n=s|g=f	
+17	chèvre	chèvre	NC	NC	n=s	
+18	craint	craindre	V	V	n=s|t=P|p=3	
+19	énormément	_	ADV	ADV		
+20	l'	le	DET	DET	n=s	
+21	humidité	humidité	NC	NC	n=s|g=f	
+22	et	et	CC	CC		
+23	les	les	DET	DET	n=p	
+24	courants	courant	NC	NC	n=p|g=m	
+25	d'	de	P	P		
+26	air	air	NC	NC	n=s|g=m	
+27	.	.	PONCT	PONCT		
+
+1	Néanmoins	néanmoins	ADV	ADV		
+2	,	,	PONCT	PONCT		
+3	elle	elle	CLS	CLS	n=s|g=f|p=3	
+4	ne	ne	ADV	ADV		
+5	craint	craindre	V	V	n=s|t=P|p=3	
+6	pas	pas	ADV	ADV		
+7	le	le	DET	DET	n=s|g=m	
+8	froid	froid	NC	NC	n=s|g=m	
+9	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	doit	devoir	V	V	n=s|t=P|p=3	
+3	pouvoir	pouvoir	VINF	VINF	t=W	
+4	accéder	accéder	VINF	VINF	t=W	
+5	à	à	P	P		
+6	un	un	DET	DET	n=s|g=m	
+7	terrain	terrain	NC	NC	n=s|g=m	
+8	aménagé	aménager	VPP	VPP	n=s|g=m|t=K	
+9	en	en	P	P		
+10	plein	plein	ADJ	ADJ	n=s|g=m	
+11	air2	_	NC	NC		
+12	.	.	PONCT	PONCT		
+
+1	Deux	deux	DET	DET	s=card|n=p	
+2	fois	fois	NC	NC	g=f	
+3	par	par	P	P		
+4	an	an	NC	NC	n=s|g=m	
+5	,	,	PONCT	PONCT		
+6	l'	le	DET	DET	n=s	
+7	éleveur	éleveur	NC	NC	n=s|g=m	
+8	peut	pouvoir	V	V	n=s|t=P|p=3	
+9	effectuer	effectuer	VINF	VINF	t=W	
+10	la	la	DET	DET	n=s|g=f	
+11	transhumance	transhumance	NC	NC	n=s|g=f	
+12	avec	avec	P	P		
+13	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+14	troupeau	troupeau	NC	NC	n=s|g=m	
+15	.	.	PONCT	PONCT		
+
+1	Cela	cela	PRO	PRO	n=s|g=m	
+2	consiste	consister	V	V	n=s|t=P,S|p=1,3	
+3	à	à	P	P		
+4	déplacer	déplacer	VINF	VINF	t=W	
+5	les	les	DET	DET	n=p	
+6	bêtes	bête	NC	NC	n=p|g=f	
+7	,	,	PONCT	PONCT		
+8	soit	soit	CC	CC		
+9	de	de	P	P		
+10	la	la	DET	DET	n=s|g=f	
+11	plaine	plaine	NC	NC	n=s|g=f	
+12	à	à	P	P		
+13	la	la	DET	DET	n=s|g=f	
+14	montagne	montagne	NC	NC	n=s|g=f	
+15	(	(	PONCT	PONCT		
+16	transhumance	transhumance	NC	NC	n=s|g=f	
+17	estivale	estival	ADJ	ADJ	n=s|g=f	
+18	)	)	PONCT	PONCT		
+19	,	,	PONCT	PONCT		
+20	soit	soit	CC	CC		
+21	de	de	P	P		
+22	la	la	DET	DET	n=s|g=f	
+23	montagne	montagne	NC	NC	n=s|g=f	
+24	à	à	P	P		
+25	la	la	DET	DET	n=s|g=f	
+26	plaine	plaine	NC	NC	n=s|g=f	
+27	(	(	PONCT	PONCT		
+28	transhumance	transhumance	NC	NC	n=s|g=f	
+29	hivernale	hivernal	ADJ	ADJ	n=s|g=f	
+30	)	)	PONCT	PONCT		
+31	.	.	PONCT	PONCT		
+
+1	Ainsi	ainsi	ADV	ADV		
+2	,	,	PONCT	PONCT		
+3	les	les	DET	DET	n=p	
+4	chèvres	chèvre	NC	NC	n=p	
+5	ne	ne	ADV	ADV		
+6	manquent	manquer	V	V	n=p|t=P,S|p=3	
+7	jamais	jamais	ADV	ADV		
+8	d'	de	P	P		
+9	herbe	herbe	NC	NC	n=s|g=f	
+10	;	;	PONCT	PONCT		
+11	quand	quand	CS	CS		
+12	elles	elles	CLS	CLS	n=p|g=f|p=3	
+13	sont	être	V	V	n=p|t=P|p=3	
+14	à	à	P	P		
+15	un	un	DET	DET	n=s|g=m	
+16	endroit	endroit	NC	NC	n=s|g=m	
+17	,	,	PONCT	PONCT		
+18	l'	le	DET	DET	n=s	
+19	herbe	herbe	NC	NC	n=s|g=f	
+20	pousse	pousser	V	V	n=s|t=P,S|p=1,3	
+21	à	à	P	P		
+22	l'	le	DET	DET	n=s	
+23	autre	autre	PRO	PRO	n=s|g=f,m	
+24	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	n'	ne	ADV	ADV		
+3	est	être	V	V	n=s|t=P|p=3	
+4	pas	pas	ADV	ADV		
+5	obligé	obliger	VPP	VPP	n=s|g=m|t=K	
+6	de	de	P	P		
+7	déplacer	déplacer	VINF	VINF	t=W	
+8	ses	ses	DET	DET	n=p|p=3|poss=s	
+9	chèvres	chèvre	NC	NC	n=p	
+10	,	,	PONCT	PONCT		
+11	mais	mais	CC	CC		
+12	ce	ce	CLS	CLS		
+13	peut	pouvoir	V	V	n=s|t=P|p=3	
+14	être	être	VINF	VINF	t=W	
+15	un	un	DET	DET	n=s|g=m	
+16	besoin	besoin	NC	NC	n=s|g=m	
+17	en	en	P	P		
+18	zone	zone	NC	NC	n=s|g=f	
+19	montagneuse	montagneux	ADJ	ADJ	n=s|g=f	
+20	,	,	PONCT	PONCT		
+21	surtout	surtout	ADV	ADV		
+22	s'	se	CLR	CLR	n=p,s|p=3	
+23	il	il	CLS	CLS	n=s|g=m|p=3	
+24	ne	ne	ADV	ADV		
+25	possède	posséder	V	V	n=s|t=P,S|p=1,3	
+26	pas	pas	ADV	ADV		
+27	de	de	DET	DET	n=p	
+28	grand	grand	ADJ	ADJ	n=s|g=m	
+29	champ	champ	NC	NC	n=s|g=m	
+30	.	.	PONCT	PONCT		
+
+1	On	on	CLS	CLS	n=s|p=3	
+2	estime	estimer	V	V	n=s|t=P,S|p=1,3	
+3	qu'	que	CS	CS		
+4	il	il	CLS	CLS	n=s|g=m|p=3	
+5	y	y	CLO	CLO		
+6	a	avoir	V	V	n=s|t=P|p=3	
+7	plus	plus	ADV	ADV		
+8	de	de	P	P		
+9	830_000_000	830_000_000	NPP	NPP		
+10	(	(	PONCT	PONCT		
+11	830	830	ADJ	ADJ		
+12	millions	million	NC	NC	n=p	
+13	)	)	PONCT	PONCT		
+14	de	de	P	P		
+15	chèvres	chèvre	NC	NC	n=p	
+16	d'	de	P	P		
+17	élevage	élevage	NC	NC	n=s|g=m	
+18	dans	dans	P	P		
+19	le	le	DET	DET	n=s|g=m	
+20	monde	monde	NC	NC	n=s|g=m	
+21	,	,	PONCT	PONCT		
+22	dont	dont	PROREL	PROREL		
+23	1_250_000	1_250_000	VPP	VPP		
+24	en	en	P	P		
+25	France	France	NPP	NPP	n=s|g=f,m	
+26	(	(	PONCT	PONCT		
+27	pour	pour	P	P		
+28	66	66	NC	NC		
+29	millions	million	NC	NC	n=p	
+30	d'	de	P	P		
+31	habitants	habitant	NC	NC	n=p|g=m	
+32	)	)	PONCT	PONCT		
+33	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	lait	lait	NC	NC	n=s|g=m	
+3	de	de	P	P		
+4	chèvre	chèvre	NC	NC	n=s	
+5	peut	pouvoir	V	V	n=s|t=P|p=3	
+6	être	être	VINF	VINF	t=W	
+7	plus	plus	ADV	ADV		
+8	facilement	_	ADV	ADV		
+9	digéré	digérer	VPP	VPP	n=s|g=m|t=K	
+10	que	que	CS	CS		
+11	le	le	DET	DET	n=s|g=m	
+12	lait	lait	NC	NC	n=s|g=m	
+13	de	de	P	P		
+14	vache	vache	NC	NC	n=s|g=f	
+15	,	,	PONCT	PONCT		
+16	car	car	CS	CS		
+17	il	il	CLS	CLS	n=s|g=m|p=3	
+18	contient	contenir	V	V	n=s|t=P|p=3	
+19	moins	moins	ADV	ADV		
+20	de	de	P	P		
+21	lactose	lactose	NC	NC	n=s|g=m	
+22	:	:	PONCT	PONCT		
+23	de	de	P	P		
+24	40	40	NC	NC		
+25	à	à	P	P		
+26	45	45	NC	NC		
+27	grammes	gramme	NC	NC	n=p|g=m	
+28	par	par	P	P		
+29	litre	litre	NC	NC	n=s	
+30	(	(	PONCT	PONCT		
+31	le	le	DET	DET	n=s|g=m	
+32	lait	lait	NC	NC	n=s|g=m	
+33	de	de	P	P		
+34	vache	vache	NC	NC	n=s|g=f	
+35	en	en	CLO	CLO		
+36	contient	contenir	V	V	n=s|t=P|p=3	
+37	autant	autant	ADV	ADV		
+38	alors	alors	ADV	ADV		
+39	que	que	CS	CS		
+40	le	le	DET	DET	n=s|g=m	
+41	lait	lait	NC	NC	n=s|g=m	
+42	humain	humain	ADJ	ADJ	n=s|g=m	
+43	en	en	P	P		
+44	compte	compte	NC	NC	n=s|g=m	
+45	jusqu'	jusque	P	P		
+46	à	à	P	P		
+47	70	70	NC	NC		
+48	grammes	gramme	NC	NC	n=p|g=m	
+49	)	)	PONCT	PONCT		
+50	6	6	ADJ	ADJ		
+51	.	.	PONCT	PONCT		
+
+1	On	on	CLS	CLS	n=s|p=3	
+2	en	en	CLO	CLO		
+3	fait	faire	V	V	n=s|t=P|p=3	
+4	de	de	DET	DET	n=p	
+5	nombreux	nombreux	ADJ	ADJ	g=m	
+6	fromages	fromage	NC	NC	n=p|g=m	
+7	au	à	P+D	P+D	n=s|g=m	
+8	goût	goût	NC	NC	n=s|g=m	
+9	fort	fort	ADJ	ADJ	n=s|g=m	
+10	,	,	PONCT	PONCT		
+11	allant	aller	VPR	VPR	t=G	
+12	du	de	P+D	P+D	n=s|g=m	
+13	simple	simple	ADJ	ADJ	n=s	
+14	fromage	fromage	NC	NC	n=s|g=m	
+15	de	de	P	P		
+16	chèvre	chèvre	NC	NC	n=s	
+17	à	à	P	P		
+18	d'	de	DET	DET	n=p	
+19	autres	autre	ADJ	ADJ	n=p	
+20	plus	plus	ADV	ADV		
+21	connus	connaître	VPP	VPP	n=p|g=m|t=K	
+22	:	:	PONCT	PONCT		
+
+1	Quatorze	quatorze	DET	DET	s=card|n=p	
+2	fromages	fromage	NC	NC	n=p|g=m	
+3	de	de	P	P		
+4	chèvre	chèvre	NC	NC	n=s	
+5	français	français	ADJ	ADJ	g=m	
+6	portent	porter	V	V	n=p|t=P,S|p=3	
+7	le	le	DET	DET	n=s|g=m	
+8	label	label	NC	NC	n=s|g=m	
+9	AOP	_	NPP	NPP		
+10	.	.	PONCT	PONCT		
+
+1	Dans	dans	P	P		
+2	le	le	DET	DET	n=s|g=m	
+3	monde	monde	NC	NC	n=s|g=m	
+4	,	,	PONCT	PONCT		
+5	la	la	DET	DET	n=s|g=f	
+6	chèvre	chèvre	NC	NC	n=s	
+7	est	être	V	V	n=s|t=P|p=3	
+8	le	le	DET	DET	n=s|g=m	
+9	plus	plus	ADV	ADV		
+10	souvent	souvent	ADV	ADV		
+11	élevée	élever	ADJ	ADJ	n=s|g=f|t=K	
+12	pour	pour	P	P		
+13	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+14	viande7	_	NC	NC		
+15	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	est	être	V	V	n=s|t=P|p=3	
+3	même	même	ADV	ADV		
+4	la	la	DET	DET	n=s|g=f	
+5	viande	viande	NC	NC	n=s|g=f	
+6	la	la	DET	DET	n=s|g=f	
+7	plus	plus	ADV	ADV		
+8	consommée	consommer	VPP	VPP	n=s|g=f|t=K	
+9	au	à	P+D	P+D	n=s|g=m	
+10	monde	monde	NC	NC	n=s|g=m	
+11	car	car	CS	CS		
+12	elle	elle	CLS	CLS	n=s|g=f|p=3	
+13	est	être	V	V	n=s|t=P|p=3	
+14	peu	peu	ADV	ADV		
+15	grasse	gras	ADJ	ADJ	n=s|g=f	
+16	et	et	CC	CC		
+17	peu	peu	ADV	ADV		
+18	calorique6	_	NC	NC		
+19	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	effet	effet	NC	NC	n=s|g=m	
+3	,	,	PONCT	PONCT		
+4	les	les	DET	DET	n=p	
+5	musulmans	musulman	NC	NC	n=p|g=m	
+6	mangent	manger	V	V	n=p|t=P,S|p=3	
+7	de	de	P	P		
+8	la	la	DET	DET	n=s|g=f	
+9	viande	viande	NC	NC	n=s|g=f	
+10	cachère	_	ADJ	ADJ		
+11	,	,	PONCT	PONCT		
+12	c'	ce	CLS	CLS		
+13	est	être	V	V	n=s|t=P|p=3	
+14	-	-	PONCT	PONCT		
+15	à	à	P	P		
+16	-	-	PONCT	PONCT		
+17	dire	dire	NC	NC	n=s|g=m	
+18	qui	qui	PROREL	PROREL	n=s	
+19	convient	convenir	V	V	n=s|t=P|p=3	
+20	aux	à	P+D	P+D	n=p	
+21	règles	règle	NC	NC	n=p|g=f	
+22	de	de	P	P		
+23	leur	leur	DET	DET	n=s|p=3|poss=p	
+24	religion	religion	NC	NC	n=s|g=f	
+25	,	,	PONCT	PONCT		
+26	et	et	CC	CC		
+27	la	la	DET	DET	n=s|g=f	
+28	chèvre	chèvre	NC	NC	n=s	
+29	est	être	V	V	n=s|t=P|p=3	
+30	acceptée	accepter	VPP	VPP	n=s|g=f|t=K	
+31	.	.	PONCT	PONCT		
+
+1	Ils	ils	CLS	CLS	n=p|g=m|p=3	
+2	ne	ne	ADV	ADV		
+3	mangent	manger	V	V	n=p|t=P,S|p=3	
+4	pas	pas	ADV	ADV		
+5	seulement	_	ADV	ADV		
+6	cette	cette	DET	DET	n=s|g=f	
+7	viande	viande	NC	NC	n=s|g=f	
+8	,	,	PONCT	PONCT		
+9	mais	mais	CC	CC		
+10	le	le	DET	DET	n=s|g=m	
+11	porc	porc	NC	NC	n=s|g=m	
+12	est	être	V	V	n=s|t=P|p=3	
+13	délaissé	délaisser	VPP	VPP	n=s|g=m|t=K	
+14	au	à	P+D	P+D	n=s|g=m	
+15	profit	profit	NC	NC	n=s|g=m	
+16	de	de	P	P		
+17	la	la	DET	DET	n=s|g=f	
+18	chèvre	chèvre	NC	NC	n=s	
+19	qui	qui	PROREL	PROREL	n=s	
+20	prend	prendre	V	V	n=s|t=P|p=3	
+21	ainsi	ainsi	ADV	ADV		
+22	une	une	DET	DET	n=s|g=f	
+23	place	place	NC	NC	n=s|g=f	
+24	importante	important	ADJ	ADJ	n=s|g=f	
+25	dans	dans	P	P		
+26	la	la	DET	DET	n=s|g=f	
+27	consommation	consommation	NC	NC	n=s|g=f	
+28	mondiale	mondial	ADJ	ADJ	n=s|g=f	
+29	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	peau	peau	NC	NC	n=s|g=f	
+3	de	de	P	P		
+4	la	la	DET	DET	n=s|g=f	
+5	chèvre	chèvre	NC	NC	n=s	
+6	est	être	V	V	n=s|t=P|p=3	
+7	utilisée	utiliser	VPP	VPP	n=s|g=f|t=K	
+8	dans	dans	P	P		
+9	la	la	DET	DET	n=s|g=f	
+10	fabrication	fabrication	NC	NC	n=s|g=f	
+11	d'	de	P	P		
+12	instruments	instrument	NC	NC	n=p|g=m	
+13	de	de	P	P		
+14	musique	musique	NC	NC	n=s|g=f	
+15	à	à	P	P		
+16	percussion	percussion	NC	NC	n=s|g=f	
+17	,	,	PONCT	PONCT		
+18	comme	comme	P	P		
+19	le	le	DET	DET	n=s|g=m	
+20	tambour	tambour	NC	NC	n=s|g=m	
+21	ou	ou	CC	CC		
+22	le	le	DET	DET	n=s|g=m	
+23	tam	tam	NC	NC	n=s|g=m	
+24	-	-	PONCT	PONCT		
+25	tam	tam	NC	NC	n=s|g=m	
+26	.	.	PONCT	PONCT		
+
+1	Tendue	tendre	VPP	VPP	n=s|g=f|t=K	
+2	,	,	PONCT	PONCT		
+3	elle	elle	CLS	CLS	n=s|g=f|p=3	
+4	forme	former	V	V	n=s|t=P,S|p=1,3	
+5	la	la	DET	DET	n=s|g=f	
+6	partie	partie	NC	NC	n=s|g=f	
+7	supérieure	supérieur	ADJ	ADJ	n=s|g=f	
+8	,	,	PONCT	PONCT		
+9	le	le	DET	DET	n=s|g=m	
+10	"	"	PONCT	PONCT		
+11	couvercle	couvercle	NC	NC	n=s|g=m	
+12	"	"	PONCT	PONCT		
+13	de	de	P	P		
+14	l'	le	DET	DET	n=s	
+15	instrument	instrument	NC	NC	n=s|g=m	
+16	.	.	PONCT	PONCT		
+
+1	On	on	CLS	CLS	n=s|p=3	
+2	l'	le	CLO	CLO	n=s|p=3	
+3	utilise	utiliser	V	V	n=s|t=P,S|p=1,3	
+4	aussi	aussi	ADV	ADV		
+5	parfois	parfois	ADV	ADV		
+6	pour	pour	P	P		
+7	faire	faire	VINF	VINF	t=W	
+8	des	des	DET	DET	n=p	
+9	vêtements	vêtement	NC	NC	n=p|g=m	
+10	,	,	PONCT	PONCT		
+11	notamment	_	ADV	ADV		
+12	à	à	P	P		
+13	partir	partir	VINF	VINF	t=W	
+14	du	de	P+D	P+D	n=s|g=m	
+15	cuir	cuir	NC	NC	n=s|g=m	
+16	,	,	PONCT	PONCT		
+17	ou	ou	CC	CC		
+18	du	de	P+D	P+D	n=s|g=m	
+19	parchemin	parchemin	NC	NC	n=s|g=m	
+20	,	,	PONCT	PONCT		
+21	l'	le	DET	DET	n=s	
+22	ancêtre	ancêtre	NC	NC	n=s	
+23	du	de	P+D	P+D	n=s|g=m	
+24	papier	papier	NC	NC	n=s|g=m	
+25	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	chèvre	chèvre	NC	NC	n=s	
+3	peut	pouvoir	V	V	n=s|t=P|p=3	
+4	être	être	VINF	VINF	t=W	
+5	tondue	tondre	VPP	VPP	n=s|g=f|t=K	
+6	;	;	PONCT	PONCT		
+7	on	on	CLS	CLS	n=s|p=3	
+8	récupère	récupérer	V	V	n=s|t=P,S|p=1,3	
+9	ainsi	ainsi	ADV	ADV		
+10	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+11	toison	toison	NC	NC	n=s|g=f	
+12	,	,	PONCT	PONCT		
+13	ses	ses	DET	DET	n=p|p=3|poss=s	
+14	poils	poil	NC	NC	n=p|g=m	
+15	,	,	PONCT	PONCT		
+16	sans	sans	P	P		
+17	la	la	CLO	CLO	n=s|g=f|p=3	
+18	tuer	tuer	VINF	VINF	t=W	
+19	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	poils	poil	NC	NC	n=p|g=m	
+3	de	de	P	P		
+4	la	la	DET	DET	n=s|g=f	
+5	chèvre	chèvre	NC	NC	n=s	
+6	angora	angora	NC	NC	n=s|g=m	
+7	peuvent	pouvoir	V	V	n=p|t=P|p=3	
+8	servir	servir	VINF	VINF	t=W	
+9	à	à	P	P		
+10	fabriquer	fabriquer	VINF	VINF	t=W	
+11	du	de	P+D	P+D	n=s|g=m	
+12	mohair	mohair	NC	NC	n=s|g=m	
+13	,	,	PONCT	PONCT		
+14	une	une	DET	DET	n=s|g=f	
+15	sorte	sorte	NC	NC	n=s|g=f	
+16	de	de	P	P		
+17	laine	laine	NC	NC	n=s|g=f	
+18	très	très	ADV	ADV		
+19	réputée	réputer	ADJ	ADJ	n=s|g=f|t=K	
+20	.	.	PONCT	PONCT		
+
+1	Toutes	tout	ADJ	ADJ	n=p|g=f	
+2	les	les	DET	DET	n=p	
+3	races	race	NC	NC	n=p|g=f	
+4	peuvent	pouvoir	V	V	n=p|t=P|p=3	
+5	servir	servir	VINF	VINF	t=W	
+6	à	à	P	P		
+7	faire	faire	VINF	VINF	t=W	
+8	une	une	DET	DET	n=s|g=f	
+9	laine	laine	NC	NC	n=s|g=f	
+10	très	très	ADV	ADV		
+11	isolante	isolant	ADJ	ADJ	n=s|g=f	
+12	,	,	PONCT	PONCT		
+13	et	et	CC	CC		
+14	c'	ce	CLS	CLS		
+15	est	être	V	V	n=s|t=P|p=3	
+16	pour	pour	P	P		
+17	cette	cette	DET	DET	n=s|g=f	
+18	raison	raison	NC	NC	n=s|g=f	
+19	qu'	que	PROREL	PROREL		
+20	on	on	CLS	CLS	n=s|p=3	
+21	en	en	CLO	CLO		
+22	fait	faire	V	V	n=s|t=P|p=3	
+23	des	des	DET	DET	n=p	
+24	vêtements	vêtement	NC	NC	n=p|g=m	
+25	ou	ou	CC	CC		
+26	des	de	P+D	P+D	n=p	
+27	couvertures	couverture	NC	NC	n=p|g=f	
+28	;	;	PONCT	PONCT		
+29	quand	quand	CS	CS		
+30	on	on	CLS	CLS	n=s|p=3	
+31	les	les	CLO	CLO	n=p|p=3	
+32	réchauffe	réchauffer	V	V	n=s|t=P,S|p=1,3	
+33	avec	avec	P	P		
+34	le	le	DET	DET	n=s|g=m	
+35	corps	corps	NC	NC	g=m	
+36	,	,	PONCT	PONCT		
+37	la	la	DET	DET	n=s|g=f	
+38	chaleur	chaleur	NC	NC	n=s|g=f	
+39	ne	ne	ADV	ADV		
+40	part	partir	V	V	n=s|t=P|p=3	
+41	pas	pas	ADV	ADV		
+42	.	.	PONCT	PONCT		
+
+1	On	on	CLS	CLS	n=s|p=3	
+2	a	avoir	V	V	n=s|t=P|p=3	
+3	donc	donc	ADV	ADV		
+4	très	très	ADV	ADV		
+5	vite	vite	ADV	ADV		
+6	chaud	chaud	ADJ	ADJ	n=s|g=m	
+7	.	.	PONCT	PONCT		
+
+1	Parmi	parmi	P	P		
+2	les	les	DET	DET	n=p	
+3	dizaines	dizaine	NC	NC	n=p|g=f	
+4	de	de	P	P		
+5	races	race	NC	NC	n=p|g=f	
+6	de	de	P	P		
+7	chèvre	chèvre	NC	NC	n=s	
+8	,	,	PONCT	PONCT		
+9	il	il	CLS	CLS	n=s|g=m|p=3	
+10	y	y	CLO	CLO		
+11	en	en	CLO	CLO		
+12	a	avoir	V	V	n=s|t=P|p=3	
+13	qu'	que	CS	CS		
+14	on	on	CLS	CLS	n=s|p=3	
+15	peut	pouvoir	V	V	n=s|t=P|p=3	
+16	citer	citer	VINF	VINF	t=W	
+17	particulièrement8	_	ADJ	ADJ		
+18	:	:	PONCT	PONCT		
+
+1	Celle	celle	PRO	PRO	n=s|g=f	
+2	qu'	que	PROREL	PROREL		
+3	on	on	CLS	CLS	n=s|p=3	
+4	a	avoir	V	V	n=s|t=P|p=3	
+5	le	le	DET	DET	n=s|g=m	
+6	plus	plus	ADV	ADV		
+7	de	de	P	P		
+8	chances	chance	NC	NC	n=p|g=f	
+9	d'	de	P	P		
+10	apercevoir	apercevoir	VINF	VINF	t=W	
+11	si	si	CS	CS		
+12	on	on	CLS	CLS	n=s|p=3	
+13	n'	ne	ADV	ADV		
+14	habite	habiter	V	V	n=s|t=P,S|p=1,3	
+15	pas	pas	ADV	ADV		
+16	en	en	P	P		
+17	haute	haut	ADJ	ADJ	n=s|g=f	
+18	montagne	montagne	NC	NC	n=s|g=f	
+19	est	être	V	V	n=s|t=P|p=3	
+20	la	la	DET	DET	n=s|g=f	
+21	Saanen	_	NPP	NPP		
+22	(	(	PONCT	PONCT		
+23	première	premier	ADJ	ADJ	n=s|g=f	
+24	photographie	photographie	NC	NC	n=s|g=f	
+25	de	de	P	P		
+26	l'	le	DET	DET	n=s	
+27	article	article	NC	NC	n=s|g=m	
+28	)	)	PONCT	PONCT		
+29	,	,	PONCT	PONCT		
+30	la	la	DET	DET	n=s|g=f	
+31	plus	plus	ADV	ADV		
+32	présente	présent	ADJ	ADJ	n=s|g=f	
+33	dans	dans	P	P		
+34	l'	le	DET	DET	n=s	
+35	élevage	élevage	NC	NC	n=s|g=m	
+36	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	a	avoir	V	V	n=s|t=P|p=3	
+3	un	un	DET	DET	n=s|g=m	
+4	poil	poil	NC	NC	n=s|g=m	
+5	court	court	ADJ	ADJ	n=s|g=m	
+6	uniformément	_	ADV	ADV		
+7	blanc	blanc	ADJ	ADJ	n=s|g=m	
+8	,	,	PONCT	PONCT		
+9	et	et	CC	CC		
+10	elle	elle	CLS	CLS	n=s|g=f|p=3	
+11	ne	ne	ADV	ADV		
+12	possède	posséder	V	V	n=s|t=P,S|p=1,3	
+13	souvent	souvent	ADV	ADV		
+14	pas	pas	ADV	ADV		
+15	de	de	P	P		
+16	corne	corne	NC	NC	n=s|g=f	
+17	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	chèvre	chèvre	NC	NC	n=s	
+3	angora	angora	ADJ	ADJ		
+4	,	,	PONCT	PONCT		
+5	qui	qui	PROREL	PROREL	n=s	
+6	peut	pouvoir	V	V	n=s|t=P|p=3	
+7	ressembler	ressembler	VINF	VINF	t=W	
+8	à	à	P	P		
+9	un	un	DET	DET	n=s|g=m	
+10	mouton	mouton	NC	NC	n=s|g=m	
+11	si	si	CS	CS		
+12	elle	elle	CLS	CLS	n=s|g=f|p=3	
+13	a	avoir	V	V	n=s|t=P|p=3	
+14	vraiment	_	ADV	ADV		
+15	beaucoup	beaucoup	ADV	ADV		
+16	de	de	P	P		
+17	poils	poil	NC	NC	n=p|g=m	
+18	,	,	PONCT	PONCT		
+19	est	être	V	V	n=s|t=P|p=3	
+20	relativement	_	ADV	ADV		
+21	petite	petit	ADJ	ADJ	n=s|g=f	
+22	,	,	PONCT	PONCT		
+23	avec	avec	P	P		
+24	65	65	NC	NC		
+25	cm	centimètre	NC	NC	g=m	
+26	au	à	P+D	P+D	n=s|g=m	
+27	garrot	garrot	NC	NC	n=s|g=m	
+28	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	chèvre	chèvre	NC	NC	n=s	
+3	pyrénéenne	pyrénéen	NC	NC	n=s|g=f	
+4	est	être	V	V	n=s|t=P|p=3	
+5	un	un	DET	DET	n=s|g=m	
+6	mélange	mélange	NC	NC	n=s|g=m	
+7	de	de	P	P		
+8	Saanen	_	NPP	NPP		
+9	et	et	CC	CC		
+10	d'	de	P	P		
+11	angora	angora	NC	NC	n=s|g=m	
+12	,	,	PONCT	PONCT		
+13	pour	pour	P	P		
+14	faire	faire	VINF	VINF	t=W	
+15	simple	simple	ADJ	ADJ	n=s	
+16	.	.	PONCT	PONCT		
+
+1	À	à	P	P		
+2	la	la	DET	DET	n=s|g=f	
+3	différence	différence	NC	NC	n=s|g=f	
+4	de	de	P	P		
+5	cette	cette	DET	DET	n=s|g=f	
+6	dernière	dernier	ADJ	ADJ	n=s|g=f	
+7	,	,	PONCT	PONCT		
+8	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+9	poil	poil	NC	NC	n=s|g=m	
+10	ne	ne	ADV	ADV		
+11	pousse	pousser	V	V	n=s|t=P,S|p=1,3	
+12	pas	pas	ADV	ADV		
+13	vers	vers	P	P		
+14	l'	le	DET	DET	n=s	
+15	extérieur	extérieur	NC	NC	n=s|g=m	
+16	en	en	P	P		
+17	frisant	friser	VPR	VPR	t=G	
+18	,	,	PONCT	PONCT		
+19	comme	comme	P	P		
+20	pour	pour	P	P		
+21	le	le	DET	DET	n=s|g=m	
+22	mouton	mouton	NC	NC	n=s|g=m	
+23	,	,	PONCT	PONCT		
+24	mais	mais	CC	CC		
+25	il	il	CLS	CLS	n=s|g=m|p=3	
+26	est	être	V	V	n=s|t=P|p=3	
+27	long	long	ADJ	ADJ	n=s|g=m	
+28	et	et	CC	CC		
+29	rigide	rigide	ADJ	ADJ	n=s	
+30	et	et	CC	CC		
+31	pend	pendre	V	V	n=s|t=P|p=3	
+32	le	le	DET	DET	n=s|g=m	
+33	long	long	ADJ	ADJ	n=s|g=m	
+34	de	de	P	P		
+35	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+36	corps	corps	NC	NC	g=m	
+37	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	chèvre	chèvre	NC	NC	n=s	
+3	naine	nain	NC	NC	n=s|g=f	
+4	porte	porter	V	V	n=s|t=P,S|p=1,3	
+5	bien	bien	ADV	ADV		
+6	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+7	nom	nom	NC	NC	n=s|g=m	
+8	car	car	CS	CS		
+9	c'	ce	CLS	CLS		
+10	est	être	V	V	n=s|t=P|p=3	
+11	la	la	DET	DET	n=s|g=f	
+12	plus	plus	ADV	ADV		
+13	petite	petit	ADJ	ADJ	n=s|g=f	
+14	des	de	P+D	P+D	n=p	
+15	chèvres	chèvre	NC	NC	n=p	
+16	;	;	PONCT	PONCT		
+17	elle	elle	CLS	CLS	n=s|g=f|p=3	
+18	ne	ne	ADV	ADV		
+19	mesure	mesurer	V	V	n=s|t=P,S|p=1,3	
+20	que	que	CS	CS		
+21	50	50	ADJ	ADJ		
+22	cm	centimètre	NC	NC	g=m	
+23	au	à	P+D	P+D	n=s|g=m	
+24	garrot	garrot	NC	NC	n=s|g=m	
+25	au	à	P+D	P+D	n=s|g=m	
+26	maximum	maximum	NC	NC	n=s|g=m	
+27	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	est	être	V	V	n=s|t=P|p=3	
+3	très	très	ADV	ADV		
+4	appréciée	apprécier	VPP	VPP	n=s|g=f|t=K	
+5	pour	pour	P	P		
+6	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+7	caractère	caractère	NC	NC	n=s|g=m	
+8	et	et	CC	CC		
+9	elle	elle	CLS	CLS	n=s|g=f|p=3	
+10	est	être	V	V	n=s|t=P|p=3	
+11	parfois	parfois	ADV	ADV		
+12	adoptée	adopter	VPP	VPP	n=s|g=f|t=K	
+13	en	en	P	P		
+14	tant	tant	ADV	ADV		
+15	qu'	que	CS	CS		
+16	animal	animal	NC	NC	n=s|g=m	
+17	de	de	P	P		
+18	compagnie	compagnie	NC	NC	n=s|g=f	
+19	.	.	PONCT	PONCT		
+

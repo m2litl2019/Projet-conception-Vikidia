@@ -1,0 +1,2538 @@
+1	L'	le	DET	DET	n=s	
+2	Australie	Australie	NPP	NPP	n=s|g=f	
+3	(	(	PONCT	PONCT		
+4	forme	forme	NC	NC	n=s|g=f	
+5	courante	courant	ADJ	ADJ	n=s|g=f	
+6	)	)	PONCT	PONCT		
+7	,	,	PONCT	PONCT		
+8	ou	ou	CC	CC		
+9	Commonwealth	_	NPP	NPP		
+10	d'	de	P	P		
+11	Australie	Australie	NPP	NPP	n=s|g=f	
+12	(	(	PONCT	PONCT		
+13	forme	forme	NC	NC	n=s|g=f	
+14	officielle	officiel	ADJ	ADJ	n=s|g=f	
+15	)	)	PONCT	PONCT		
+16	,	,	PONCT	PONCT		
+17	est	être	V	V	n=s|t=P|p=3	
+18	un	un	DET	DET	n=s|g=m	
+19	État	État	NC	NC	n=s|g=m	
+20	fédéral	fédéral	ADJ	ADJ	n=s|g=m	
+21	situé	situer	VPP	VPP	n=s|g=m|t=K	
+22	en	en	P	P		
+23	Océanie	Océanie	NPP	NPP	n=s|g=f	
+24	,	,	PONCT	PONCT		
+25	qui	qui	PROREL	PROREL	n=s	
+26	comprend	comprendre	V	V	n=s|t=P|p=3	
+27	:	:	PONCT	PONCT		
+
+1	Sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+2	capitale	capitale	NC	NC	n=s|g=f	
+3	est	être	V	V	n=s|t=P|p=3	
+4	Canberra	Canberra	NPP	NPP	n=s|g=m	
+5	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	langue	langue	NC	NC	n=s|g=f	
+3	officielle	officiel	ADJ	ADJ	n=s|g=f	
+4	est	être	V	V	n=s|t=P|p=3	
+5	l'	le	DET	DET	n=s	
+6	anglais	anglais	NC	NC	g=m	
+7	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	monnaie	monnaie	NC	NC	n=s|g=f	
+3	officielle	officiel	ADJ	ADJ	n=s|g=f	
+4	est	être	V	V	n=s|t=P|p=3	
+5	le	le	DET	DET	n=s|g=m	
+6	dollar	dollar	NC	NC	n=s|g=m	
+7	australien	australien	ADJ	ADJ	n=s|g=m	
+8	et	et	CC	CC		
+9	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+10	devise	devise	NC	NC	n=s|g=f	
+11	est	être	V	V	n=s|t=P|p=3	
+12	Avance	_	NPP	NPP		
+13	,	,	PONCT	PONCT		
+14	belle	beau	ADJ	ADJ	n=s|g=f	
+15	et	et	CC	CC		
+16	juste	juste	ADJ	ADJ	n=s	
+17	Australie	Australie	NPP	NPP	n=s|g=f	
+18	.	.	PONCT	PONCT		
+
+1	C'	ce	CLS	CLS		
+2	est	être	V	V	n=s|t=P|p=3	
+3	un	un	DET	DET	n=s|g=m	
+4	pays	pays	NC	NC	g=m	
+5	très	très	ADV	ADV		
+6	riche	riche	ADJ	ADJ	n=s	
+7	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	Australie	Australie	NPP	NPP	n=s|g=f	
+3	est	être	V	V	n=s|t=P|p=3	
+4	un	un	DET	DET	n=s|g=m	
+5	pays	pays	NC	NC	g=m	
+6	immense	immense	ADJ	ADJ	n=s	
+7	,	,	PONCT	PONCT		
+8	le	le	DET	DET	n=s|g=m	
+9	sixième	sixième	ADJ	ADJ	n=s	
+10	plus	plus	ADV	ADV		
+11	grand	grand	ADJ	ADJ	n=s|g=m	
+12	pays	pays	NC	NC	g=m	
+13	du	de	P+D	P+D	n=s|g=m	
+14	monde	monde	NC	NC	n=s|g=m	
+15	avec	avec	P	P		
+16	ses	ses	DET	DET	n=p|p=3|poss=s	
+17	7_686_850	7_686_850	NC	NC		
+18	km2	_	NPP	NPP		
+19	,	,	PONCT	PONCT		
+20	ce	ce	PRO	PRO	n=s	
+21	qui	qui	PROREL	PROREL	n=s	
+22	est	être	V	V	n=s|t=P|p=3	
+23	presque	presque	ADV	ADV		
+24	plus	plus	ADV	ADV		
+25	grand	grand	ADJ	ADJ	n=s|g=m	
+26	que	que	CS	CS		
+27	l'	le	DET	DET	n=s	
+28	Europe	Europe	NPP	NPP	n=s|g=f	
+29	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	majeure	majeur	ADJ	ADJ	n=s|g=f	
+3	partie	partie	NC	NC	n=s|g=f	
+4	du	de	P+D	P+D	n=s|g=m	
+5	pays	pays	NC	NC	g=m	
+6	est	être	V	V	n=s|t=P|p=3	
+7	recouverte	recouvrir	VPP	VPP	n=s|g=f|t=K	
+8	d'	de	P	P		
+9	un	un	DET	DET	n=s|g=m	
+10	désert	désert	NC	NC	n=s|g=m	
+11	aride	aride	ADJ	ADJ	n=s	
+12	;	;	PONCT	PONCT		
+13	les	les	DET	DET	n=p	
+14	seules	seul	ADJ	ADJ	n=p|g=f	
+15	zones	zone	NC	NC	n=p|g=f	
+16	habitables	habitable	ADJ	ADJ	n=p	
+17	sont	être	V	V	n=p|t=P|p=3	
+18	les	les	DET	DET	n=p	
+19	côtes	côte	NC	NC	n=p|g=f	
+20	,	,	PONCT	PONCT		
+21	notamment	_	ADV	ADV		
+22	la	la	DET	DET	n=s|g=f	
+23	côte	côte	NC	NC	n=s|g=f	
+24	Est	_	NPP	NPP		
+25	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	couleur	couleur	NC	NC	n=s|g=f	
+3	rouge	rouge	ADJ	ADJ	n=s	
+4	du	de	P+D	P+D	n=s|g=m	
+5	sol	_	NC	NC		
+6	stéréotypique	_	ADJ	ADJ		
+7	de	de	P	P		
+8	l'	le	DET	DET	n=s	
+9	Australie	Australie	NPP	NPP	n=s|g=f	
+10	est	être	V	V	n=s|t=P|p=3	
+11	due	devoir	VPP	VPP	n=s|g=f|t=K	
+12	à	à	P	P		
+13	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+14	haute	haut	ADJ	ADJ	n=s|g=f	
+15	teneur	_	NC	NC		
+16	en	en	P	P		
+17	fer	fer	NC	NC	n=s|g=m	
+18	(	(	PONCT	PONCT		
+19	c'	ce	CLS	CLS		
+20	est	être	V	V	n=s|t=P|p=3	
+21	d'	de	P	P		
+22	ailleurs	ailleurs	ADV	ADV		
+23	un	un	DET	DET	n=s|g=m	
+24	problème	problème	NC	NC	n=s|g=m	
+25	pour	pour	P	P		
+26	l'	le	DET	DET	n=s	
+27	agriculture	agriculture	NC	NC	n=s|g=f	
+28	car	car	CS	CS		
+29	,	,	PONCT	PONCT		
+30	à	à	P	P		
+31	trop	trop	ADV	ADV		
+32	haute	haut	ADJ	ADJ	n=s|g=f	
+33	concentration	concentration	NC	NC	n=s|g=f	
+34	,	,	PONCT	PONCT		
+35	le	le	DET	DET	n=s|g=m	
+36	fer	fer	NC	NC	n=s|g=m	
+37	empoisonne	empoisonner	V	V	n=s|t=P,S|p=1,3	
+38	des	des	DET	DET	n=p	
+39	plantes	plante	NC	NC	n=p|g=f	
+40	)	)	PONCT	PONCT		
+41	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	Australie	Australie	NPP	NPP	n=s|g=f	
+3	est	être	V	V	n=s|t=P|p=3	
+4	divisée	diviser	VPP	VPP	n=s|g=f|t=K	
+5	en	en	P	P		
+6	6	6	ADJ	ADJ		
+7	États	État	NC	NC	n=p|g=m	
+8	dirigé	diriger	VPP	VPP	n=s|g=m|t=K	
+9	par	par	P	P		
+10	un	un	DET	DET	n=s|g=m	
+11	gouverneur	gouverneur	NC	NC	n=s|g=m	
+12	et	et	CC	CC		
+13	3	3	ADJ	ADJ		
+14	territoires	territoire	NC	NC	n=p|g=m	
+15	administrés	administrer	VPP	VPP	n=p|g=m|t=K	
+16	par	par	P	P		
+17	un	un	DET	DET	n=s|g=m	
+18	administrateur	administrateur	NC	NC	n=s|g=m	
+19	.	.	PONCT	PONCT		
+
+1	Chaque	chaque	DET	DET	n=s	
+2	État	État	NC	NC	n=s|g=m	
+3	a	avoir	V	V	n=s|t=P|p=3	
+4	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+5	propre	propre	ADJ	ADJ	n=s	
+6	gouvernement	gouvernement	NC	NC	n=s|g=m	
+7	et	et	CC	CC		
+8	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+9	propre	propre	ADJ	ADJ	n=s	
+10	législature	législature	NC	NC	n=s|g=f	
+11	et	et	CC	CC		
+12	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+13	propre	propre	ADJ	ADJ	n=s	
+14	conseil	conseil	NC	NC	n=s|g=m	
+15	exécutif	exécutif	ADJ	ADJ	n=s|g=m	
+16	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	capitale	capitale	NC	NC	n=s|g=f	
+3	du	de	P+D	P+D	n=s|g=m	
+4	pays	pays	NC	NC	g=m	
+5	est	être	V	V	n=s|t=P|p=3	
+6	Canberra	Canberra	NPP	NPP	n=s|g=m	
+7	,	,	PONCT	PONCT		
+8	mais	mais	CC	CC		
+9	la	la	DET	DET	n=s|g=f	
+10	plus	plus	ADV	ADV		
+11	grande	grand	ADJ	ADJ	n=s|g=f	
+12	ville	ville	NC	NC	n=s|g=f	
+13	est	être	V	V	n=s|t=P|p=3	
+14	Sydney	Sydney	NPP	NPP	n=s	
+15	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	pays	pays	NC	NC	g=m	
+3	est	être	V	V	n=s|t=P|p=3	
+4	divisé	diviser	VPP	VPP	n=s|g=m|t=K	
+5	en	en	P	P		
+6	États	État	NC	NC	n=p|g=m	
+7	et	et	CC	CC		
+8	en	en	P	P		
+9	territoires	territoire	NC	NC	n=p|g=m	
+10	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	reine	reine	NC	NC	n=s|g=f	
+3	du	de	P+D	P+D	n=s|g=m	
+4	pays	pays	NC	NC	g=m	
+5	,	,	PONCT	PONCT		
+6	la	la	DET	DET	n=s|g=f	
+7	même	même	ADJ	ADJ	n=s	
+8	que	que	CS	CS		
+9	celle	celle	PRO	PRO	n=s|g=f	
+10	du	de	P+D	P+D	n=s|g=m	
+11	Royaume	_	NPP	NPP		
+12	-	-	PONCT	PONCT		
+13	Uni	unir	VPP	VPP	n=s|g=m|t=K	
+14	,	,	PONCT	PONCT		
+15	soit	soit	CC	CC		
+16	Élisabeth	Élisabeth	NPP	NPP	n=s|g=f	
+17	II	_	NPP	NPP		
+18	,	,	PONCT	PONCT		
+19	ne	ne	ADV	ADV		
+20	gouverne	gouverner	V	V	n=s|t=P,S|p=1,3	
+21	pas	pas	ADV	ADV		
+22	le	le	DET	DET	n=s|g=m	
+23	pays	pays	NC	NC	g=m	
+24	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	Australiens	_	NPP	NPP		
+3	élisent	élire	V	V	n=p|t=P,S|p=3	
+4	un	un	DET	DET	n=s|g=m	
+5	Premier	premier	ADJ	ADJ	n=s|g=m	
+6	ministre	ministre	NC	NC	n=s|g=m	
+7	,	,	PONCT	PONCT		
+8	qui	qui	PROREL	PROREL	n=s	
+9	est	être	V	V	n=s|t=P|p=3	
+10	depuis	depuis	P	P		
+11	le	le	DET	DET	n=s|g=m	
+12	7	7	ADJ	ADJ		
+13	septembre	septembre	NC	NC	n=s|g=m	
+14	2013	2013	NC	NC		
+15	,	,	PONCT	PONCT		
+16	Tony	Tony	NPP	NPP	n=s|g=m	
+17	Abbott	_	NPP	NPP		
+18	(	(	PONCT	PONCT		
+19	il	il	CLS	CLS	n=s|g=m|p=3	
+20	remplace	remplacer	V	V	n=s|t=P,S|p=1,3	
+21	Julia	Julia	NPP	NPP	n=s|g=f	
+22	Gillard	_	NPP	NPP		
+23	)	)	PONCT	PONCT		
+24	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	reine	reine	NC	NC	n=s|g=f	
+3	est	être	V	V	n=s|t=P|p=3	
+4	tout	tout	PRO	PRO	n=s|g=m	
+5	de	de	P	P		
+6	même	même	ADV	ADV		
+7	représentée	représenter	VPP	VPP	n=s|g=f|t=K	
+8	en	en	P	P		
+9	Australie	Australie	NPP	NPP	n=s|g=f	
+10	par	par	P	P		
+11	un	un	DET	DET	n=s|g=m	
+12	gouverneur	gouverneur	NC	NC	n=s|g=m	
+13	général	général	ADJ	ADJ	n=s|g=m	
+14	qu'	que	PROREL	PROREL		
+15	elle	elle	CLS	CLS	n=s|g=f|p=3	
+16	nomme	nommer	V	V	n=s|t=P,S|p=1,3	
+17	avec	avec	P	P		
+18	l'	le	DET	DET	n=s	
+19	aide	aide	NC	NC	n=s	
+20	du	de	P+D	P+D	n=s|g=m	
+21	Premier	premier	ADJ	ADJ	n=s|g=m	
+22	ministre	ministre	NC	NC	n=s|g=m	
+23	australien	australien	ADJ	ADJ	n=s|g=m	
+24	;	;	PONCT	PONCT		
+25	le	le	DET	DET	n=s|g=m	
+26	gouverneur	gouverneur	NC	NC	n=s|g=m	
+27	général	général	ADJ	ADJ	n=s|g=m	
+28	a	avoir	V	V	n=s|t=P|p=3	
+29	pour	pour	P	P		
+30	rôle	rôle	NC	NC	n=s|g=m	
+31	de	de	P	P		
+32	servir	servir	VINF	VINF	t=W	
+33	d'	de	P	P		
+34	intermédiaire	intermédiaire	NC	NC	n=s	
+35	entre	entre	P	P		
+36	l'	le	DET	DET	n=s	
+37	Australie	Australie	NPP	NPP	n=s|g=f	
+38	et	et	CC	CC		
+39	la	la	DET	DET	n=s|g=f	
+40	souveraine	souverain	ADJ	ADJ	n=s|g=f	
+41	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	véritables	véritable	ADJ	ADJ	n=p	
+3	détenteurs	détenteur	NC	NC	n=p|g=m	
+4	de	de	P	P		
+5	l'	le	DET	DET	n=s	
+6	exécutif	_	NC	NC		
+7	sont	être	V	V	n=p|t=P|p=3	
+8	les	les	DET	DET	n=p	
+9	ministres	ministre	NC	NC	n=p|g=m	
+10	dirigés	diriger	VPP	VPP	n=p|g=m|t=K	
+11	par	par	P	P		
+12	le	le	DET	DET	n=s|g=m	
+13	Premier	premier	ADJ	ADJ	n=s|g=m	
+14	ministre	ministre	NC	NC	n=s|g=m	
+15	,	,	PONCT	PONCT		
+16	chef	chef	NC	NC	n=s	
+17	du	de	P+D	P+D	n=s|g=m	
+18	parti	parti	NC	NC	n=s|g=m	
+19	majoritaire	majoritaire	ADJ	ADJ	n=s	
+20	au	à	P+D	P+D	n=s|g=m	
+21	Parlement	parlement	NC	NC	n=s|g=m	
+22	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	pouvoir	pouvoir	NC	NC	n=s|g=m	
+3	législatif	législatif	ADJ	ADJ	n=s|g=m	
+4	est	être	V	V	n=s|t=P|p=3	
+5	donné	donner	VPP	VPP	n=s|g=m|t=K	
+6	à	à	P	P		
+7	un	un	DET	DET	n=s|g=m	
+8	Parlement	parlement	NC	NC	n=s|g=m	
+9	bicaméral	bicaméral	ADJ	ADJ	n=s|g=m	
+10	(	(	PONCT	PONCT		
+11	un	un	DET	DET	n=s|g=m	
+12	Sénat	sénat	NC	NC	n=s|g=m	
+13	de	de	P	P		
+14	76	76	NC	NC		
+15	sénateurs	sénateur	NC	NC	n=p|g=m	
+16	élus	élire	VPP	VPP	n=p|g=m|t=K	
+17	pour	pour	P	P		
+18	six	six	DET	DET	s=card|n=p	
+19	ans	an	NC	NC	n=p|g=m	
+20	(	(	PONCT	PONCT		
+21	12	12	VPP	VPP		
+22	par	par	P	P		
+23	État	État	NC	NC	n=s|g=m	
+24	,	,	PONCT	PONCT		
+25	2	2	VPP	VPP		
+26	par	par	P	P		
+27	territoire	territoire	NC	NC	n=s|g=m	
+28	)	)	PONCT	PONCT		
+29	et	et	CC	CC		
+30	une	une	DET	DET	n=s|g=f	
+31	Chambre	chambre	NC	NC	n=s|g=f	
+32	des	de	P+D	P+D	n=p	
+33	représentants	représentant	NC	NC	n=p|g=m	
+34	(	(	PONCT	PONCT		
+35	150	150	ADJ	ADJ		
+36	représentants	représentant	NC	NC	n=p|g=m	
+37	)	)	PONCT	PONCT		
+38	élus	élire	VPP	VPP	n=p|g=m|t=K	
+39	pour	pour	P	P		
+40	trois	trois	DET	DET	s=card|n=p	
+41	ans	an	NC	NC	n=p|g=m	
+42	)	)	PONCT	PONCT		
+43	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	Chambre	chambre	NC	NC	n=s|g=f	
+3	des	de	P+D	P+D	n=p	
+4	représentants	représentant	NC	NC	n=p|g=m	
+5	peut	pouvoir	V	V	n=s|t=P|p=3	
+6	être	être	VINF	VINF	t=W	
+7	dissoute	dissoudre	VPP	VPP	n=s|g=f|t=K	
+8	par	par	P	P		
+9	le	le	DET	DET	n=s|g=m	
+10	gouverneur	gouverneur	NC	NC	n=s|g=m	
+11	général	général	ADJ	ADJ	n=s|g=m	
+12	sur	sur	P	P		
+13	ordre	ordre	NC	NC	n=s|g=m	
+14	du	de	P+D	P+D	n=s|g=m	
+15	Premier	premier	ADJ	ADJ	n=s|g=m	
+16	ministre	ministre	NC	NC	n=s|g=m	
+17	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	Australie	Australie	NPP	NPP	n=s|g=f	
+3	est	être	V	V	n=s|t=P|p=3	
+4	divisée	diviser	VPP	VPP	n=s|g=f|t=K	
+5	en	en	P	P		
+6	États	État	NC	NC	n=p|g=m	
+7	,	,	PONCT	PONCT		
+8	chacun	chacun	PRO	PRO	n=s|g=m	
+9	ayant	avoir	VPR	VPR	t=G	
+10	un	un	DET	DET	n=s|g=m	
+11	Parlement	parlement	NC	NC	n=s|g=m	
+12	bicaméral	bicaméral	ADJ	ADJ	n=s|g=m	
+13	(	(	PONCT	PONCT		
+14	sauf	sauf	P	P		
+15	le	le	DET	DET	n=s|g=m	
+16	Queensland	_	NPP	NPP		
+17	)	)	PONCT	PONCT		
+18	et	et	CC	CC		
+19	un	un	DET	DET	n=s|g=m	
+20	gouverneur	gouverneur	NC	NC	n=s|g=m	
+21	et	et	CC	CC		
+22	un	un	DET	DET	n=s|g=m	
+23	conseil	conseil	NC	NC	n=s|g=m	
+24	exécutif	exécutif	ADJ	ADJ	n=s|g=m	
+25	.	.	PONCT	PONCT		
+
+1	De	de	P	P		
+2	plus	plus	ADV	ADV		
+3	,	,	PONCT	PONCT		
+4	l'	le	DET	DET	n=s	
+5	Australie	Australie	NPP	NPP	n=s|g=f	
+6	domine	dominer	V	V	n=s|t=P,S|p=1,3	
+7	certaines	certain	DET	DET	n=p|g=f	
+8	îles	île	NC	NC	n=p|g=f	
+9	extérieures	extérieur	ADJ	ADJ	n=p|g=f	
+10	comme	comme	P	P		
+11	les	les	DET	DET	n=p	
+12	îles	île	NC	NC	n=p|g=f	
+13	Cocos	_	NPP	NPP		
+14	ou	ou	CC	CC		
+15	les	les	DET	DET	n=p	
+16	îles	île	NC	NC	n=p|g=f	
+17	de	de	P	P		
+18	la	la	DET	DET	n=s|g=f	
+19	mer	mer	NC	NC	n=s|g=f	
+20	de	de	P	P		
+21	Corail	_	NPP	NPP		
+22	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	îles	île	NC	NC	n=p|g=f	
+3	extérieures	extérieur	ADJ	ADJ	n=p|g=f	
+4	sont	être	V	V	n=p|t=P|p=3	
+5	dirigées	diriger	VPP	VPP	n=p|g=f|t=K	
+6	par	par	P	P		
+7	un	un	DET	DET	n=s|g=m	
+8	administrateur	administrateur	NC	NC	n=s|g=m	
+9	nommé	nommer	VPP	VPP	n=s|g=m|t=K	
+10	par	par	P	P		
+11	le	le	DET	DET	n=s|g=m	
+12	gouvernement	gouvernement	NC	NC	n=s|g=m	
+13	australien	australien	ADJ	ADJ	n=s|g=m	
+14	et	et	CC	CC		
+15	secondé	seconder	VPP	VPP	n=s|g=m|t=K	
+16	par	par	P	P		
+17	un	un	DET	DET	n=s|g=m	
+18	Conseil	conseil	NC	NC	n=s|g=m	
+19	territorial	territorial	ADJ	ADJ	n=s|g=m	
+20	élu	élire	VPP	VPP	n=s|g=m|t=K	
+21	par	par	P	P		
+22	les	les	DET	DET	n=p	
+23	habitants	habitant	NC	NC	n=p|g=m	
+24	des	de	P+D	P+D	n=p	
+25	îles	île	NC	NC	n=p|g=f	
+26	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	gouverneur	gouverneur	NC	NC	n=s|g=m	
+3	général	général	ADJ	ADJ	n=s|g=m	
+4	australien	australien	ADJ	ADJ	n=s|g=m	
+5	peut	pouvoir	V	V	n=s|t=P|p=3	
+6	dissoudre	dissoudre	VINF	VINF	t=W	
+7	le	le	DET	DET	n=s|g=m	
+8	parlement	parlement	NC	NC	n=s|g=m	
+9	fédéral	fédéral	ADJ	ADJ	n=s|g=m	
+10	australien	australien	ADJ	ADJ	n=s|g=m	
+11	et	et	CC	CC		
+12	organiser	organiser	VINF	VINF	t=W	
+13	et	et	CC	CC		
+14	contrôler	contrôler	VINF	VINF	t=W	
+15	des	des	DET	DET	n=p	
+16	nouvelles	nouveau	ADJ	ADJ	n=p|g=f	
+17	élections	élection	NC	NC	n=p|g=f	
+18	parlementaires	parlementaire	NC	NC	n=p	
+19	et	et	CC	CC		
+20	il	il	CLS	CLS	n=s|g=m|p=3	
+21	fixe	fixer	V	V	n=s|t=P,S|p=1,3	
+22	aussi	aussi	ADV	ADV		
+23	les	les	DET	DET	n=p	
+24	dates	date	NC	NC	n=p|g=f	
+25	et	et	CC	CC		
+26	la	la	DET	DET	n=s|g=f	
+27	durée	durée	NC	NC	n=s|g=f	
+28	des	de	P+D	P+D	n=p	
+29	différentes	différent	ADJ	ADJ	n=p|g=f	
+30	sessions	session	NC	NC	n=p|g=f	
+31	parlementaires	parlementaire	NC	NC	n=p	
+32	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	Conseil	conseil	NC	NC	n=s|g=m	
+3	exécutif	exécutif	ADJ	ADJ	n=s|g=m	
+4	(	(	PONCT	PONCT		
+5	anglais	anglais	NC	NC	g=m	
+6	:	:	PONCT	PONCT		
+7	Executive	_	NPP	NPP		
+8	Council	_	NPP	NPP		
+9	)	)	PONCT	PONCT		
+10	est	être	V	V	n=s|t=P|p=3	
+11	l'	le	DET	DET	n=s	
+12	organe	organe	NC	NC	n=s|g=m	
+13	formellement	_	ADV	ADV		
+14	investi	investir	VPP	VPP	n=s|g=m|t=K	
+15	du	de	P+D	P+D	n=s|g=m	
+16	pouvoir	pouvoir	NC	NC	n=s|g=m	
+17	exécutif	exécutif	ADJ	ADJ	n=s|g=m	
+18	sur	sur	P	P		
+19	le	le	DET	DET	n=s|g=m	
+20	territoire	territoire	NC	NC	n=s|g=m	
+21	australien	australien	ADJ	ADJ	n=s|g=m	
+22	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	comprend	comprendre	V	V	n=s|t=P|p=3	
+3	le	le	DET	DET	n=s|g=m	
+4	gouverneur	gouverneur	NC	NC	n=s|g=m	
+5	général	général	ADJ	ADJ	n=s|g=m	
+6	,	,	PONCT	PONCT		
+7	le	le	DET	DET	n=s|g=m	
+8	premier	premier	ADJ	ADJ	n=s|g=m	
+9	ministre	ministre	NC	NC	n=s|g=m	
+10	et	et	CC	CC		
+11	les	les	DET	DET	n=p	
+12	ministres	ministre	NC	NC	n=p|g=m	
+13	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	est	être	V	V	n=s|t=P|p=3	
+3	présidé	présider	VPP	VPP	n=s|g=m|t=K	
+4	par	par	P	P		
+5	le	le	DET	DET	n=s|g=m	
+6	gouverneur	gouverneur	NC	NC	n=s|g=m	
+7	général	général	ADJ	ADJ	n=s|g=m	
+8	australien	australien	ADJ	ADJ	n=s|g=m	
+9	et	et	CC	CC		
+10	un	un	DET	DET	n=s|g=m	
+11	conseiller	conseiller	NC	NC	n=s|g=m	
+12	qui	qui	PROREL	PROREL	n=s	
+13	est	être	V	V	n=s|t=P|p=3	
+14	censé	_	VPP	VPP		
+15	le	le	DET	DET	n=s|g=m	
+16	conseiller	conseiller	NC	NC	n=s|g=m	
+17	dans	dans	P	P		
+18	l'	le	DET	DET	n=s	
+19	exercice	exercice	NC	NC	n=s|g=m	
+20	de	de	P	P		
+21	ses	ses	DET	DET	n=p|p=3|poss=s	
+22	fonctions	fonction	NC	NC	n=p|g=f	
+23	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	gouverneur	gouverneur	NC	NC	n=s|g=m	
+3	général	général	ADJ	ADJ	n=s|g=m	
+4	a	avoir	V	V	n=s|t=P|p=3	
+5	en	en	P	P		
+6	pratique	pratique	NC	NC	n=s|g=f	
+7	le	le	DET	DET	n=s|g=m	
+8	droit	droit	NC	NC	n=s|g=m	
+9	de	de	P	P		
+10	renvoyer	renvoyer	VINF	VINF	t=W	
+11	un	un	DET	DET	n=s|g=m	
+12	membre	membre	NC	NC	n=s|g=m	
+13	du	de	P+D	P+D	n=s|g=m	
+14	conseil	conseil	NC	NC	n=s|g=m	
+15	exécutif	exécutif	ADJ	ADJ	n=s|g=m	
+16	fédéral	fédéral	ADJ	ADJ	n=s|g=m	
+17	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	principe	principe	NC	NC	n=s|g=m	
+3	les	les	DET	DET	n=p	
+4	membres	membre	NC	NC	n=p|g=m	
+5	du	de	P+D	P+D	n=s|g=m	
+6	Conseil	conseil	NC	NC	n=s|g=m	
+7	exécutif	exécutif	ADJ	ADJ	n=s|g=m	
+8	fédéral	fédéral	ADJ	ADJ	n=s|g=m	
+9	le	le	CLO	CLO	n=s|g=m|p=3	
+10	restent	rester	V	V	n=p|t=P,S|p=3	
+11	à	à	P	P		
+12	vie	vie	NC	NC	n=s|g=f	
+13	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	existe	exister	V	V	n=s|t=P,S|p=1,3	
+3	aussi	aussi	ADV	ADV		
+4	trois	trois	DET	DET	s=card|n=p	
+5	partis	parti	NC	NC	n=p|g=m	
+6	indépendantistes	indépendantiste	ADJ	ADJ	n=p	
+7	:	:	PONCT	PONCT		
+
+1	Vers	vers	P	P		
+2	40_000	40_000	NC	NC		
+3	av	_	NPP	NPP		
+4	.	.	PONCT	PONCT		
+
+1	J	_	NPP	NPP		
+2	.	.	PONCT	PONCT		
+3	-	-	PONCT	PONCT		
+4	C	femelle	ADJ	ADJ		
+5	.	.	PONCT	PONCT		
+6	,	,	PONCT	PONCT		
+7	les	les	DET	DET	n=p	
+8	Aborigènes	_	NPP	NPP		
+9	,	,	PONCT	PONCT		
+10	provenant	provenir	VPR	VPR	t=G	
+11	d'	de	P	P		
+12	Asie	Asie	NPP	NPP	n=s|g=f	
+13	du	de	P+D	P+D	n=s|g=m	
+14	Sud	sud	NC	NC	n=s|g=m	
+15	-	-	PONCT	PONCT		
+16	Est	être	V	V	n=s|t=P|p=3	
+17	par	par	P	P		
+18	la	la	DET	DET	n=s|g=f	
+19	Nouvelle	nouveau	ADJ	ADJ	n=s|g=f	
+20	-	-	PONCT	PONCT		
+21	Guinée	guinée	NC	NC	n=s|g=f	
+22	,	,	PONCT	PONCT		
+23	s'	se	CLR	CLR	n=p,s|p=3	
+24	installent	installer	V	V	n=p|t=P,S|p=3	
+25	en	en	P	P		
+26	Australie	Australie	NPP	NPP	n=s|g=f	
+27	.	.	PONCT	PONCT		
+
+1	Ce	ce	CLS	CLS		
+2	sont	être	V	V	n=p|t=P|p=3	
+3	des	des	DET	DET	n=p	
+4	pêcheurs	pêcheur	NC	NC	n=p|g=m	
+5	-	-	PONCT	PONCT		
+6	chasseurs	chasseur	NC	NC	n=p|g=m	
+7	-	-	PONCT	PONCT		
+8	cueilleurs	_	NC	NC		
+9	.	.	PONCT	PONCT		
+
+1	Ils	ils	CLS	CLS	n=p|g=m|p=3	
+2	avaient	avoir	V	V	n=p|t=I|p=3	
+3	des	des	DET	DET	n=p	
+4	religions	religion	NC	NC	n=p|g=f	
+5	animistes	animiste	ADJ	ADJ	n=p	
+6	(	(	PONCT	PONCT		
+7	vénérations	vénération	NC	NC	n=p|g=f	
+8	des	de	P+D	P+D	n=p	
+9	esprits	esprit	NC	NC	n=p|g=m	
+10	)	)	PONCT	PONCT		
+11	.	.	PONCT	PONCT		
+
+1	Ils	ils	CLS	CLS	n=p|g=m|p=3	
+2	croyaient	croire	V	V	n=p|t=I|p=3	
+3	en	en	P	P		
+4	un	un	DET	DET	n=s|g=m	
+5	Dieu	dieu	NC	NC	n=s|g=m	
+6	Unique	Unique	NPP	NPP	n=s|g=f	
+7	,	,	PONCT	PONCT		
+8	au	à	P+D	P+D	n=s|g=m	
+9	Temps	_	NPP	NPP		
+10	du	de	P+D	P+D	n=s|g=m	
+11	Rêve	_	NPP	NPP		
+12	,	,	PONCT	PONCT		
+13	qui	qui	PROREL	PROREL	n=s	
+14	est	être	V	V	n=s|t=P|p=3	
+15	pour	pour	P	P		
+16	eux	eux	PRO	PRO	n=p|g=m|p=3	
+17	l'	le	DET	DET	n=s	
+18	Énergie	énergie	NC	NC	n=s|g=f	
+19	qui	qui	PROREL	PROREL	n=s	
+20	maintient	maintenir	V	V	n=s|t=P|p=3	
+21	en	en	P	P		
+22	vie	vie	NC	NC	n=s|g=f	
+23	l'	le	DET	DET	n=s	
+24	Univers	_	NPP	NPP		
+25	.	.	PONCT	PONCT		
+
+1	Temps	temps	NC	NC	g=m	
+2	du	de	P+D	P+D	n=s|g=m	
+3	Rêve	_	NPP	NPP		
+4	est	être	V	V	n=s|t=P|p=3	
+5	secondé	seconder	VPP	VPP	n=s|g=m|t=K	
+6	par	par	P	P		
+7	une	une	DET	DET	n=s|g=f	
+8	myriade	myriade	NC	NC	n=s|g=f	
+9	d'	de	P	P		
+10	esprits	esprit	NC	NC	n=p|g=m	
+11	inférieurs	inférieur	ADJ	ADJ	n=p|g=m	
+12	,	,	PONCT	PONCT		
+13	dont	dont	PROREL	PROREL		
+14	le	le	DET	DET	n=s|g=m	
+15	plus	plus	ADV	ADV		
+16	puissant	puissant	ADJ	ADJ	n=s|g=m	
+17	est	être	V	V	n=s|t=P|p=3	
+18	le	le	DET	DET	n=s|g=m	
+19	Serpent	serpent	NC	NC	n=s|g=m	
+20	arc	arc	NC	NC	n=s|g=m	
+21	-	-	PONCT	PONCT		
+22	en	en	P	P		
+23	-	-	PONCT	PONCT		
+24	ciel	ciel	NC	NC	n=s|g=m	
+25	,	,	PONCT	PONCT		
+26	créateur	créateur	NC	NC	n=s|g=m	
+27	de	de	P	P		
+28	la	la	DET	DET	n=s|g=f	
+29	race	race	NC	NC	n=s|g=f	
+30	humaine	humain	ADJ	ADJ	n=s|g=f	
+31	sur	sur	P	P		
+32	ordre	ordre	NC	NC	n=s|g=m	
+33	de	de	P	P		
+34	Dieu	_	NPP	NPP		
+35	.	.	PONCT	PONCT		
+
+1	Bienveillant	bienveillant	ADJ	ADJ	n=s|g=m	
+2	,	,	PONCT	PONCT		
+3	il	il	CLS	CLS	n=s|g=m|p=3	
+4	peut	pouvoir	V	V	n=s|t=P|p=3	
+5	aussi	aussi	ADV	ADV		
+6	se	se	CLR	CLR	n=p,s|p=3	
+7	mettre	mettre	VINF	VINF	t=W	
+8	en	en	P	P		
+9	colère	colère	NC	NC	n=s|g=f	
+10	et	et	CC	CC		
+11	punit	punir	V	V	n=s|t=J,P|p=3	
+12	l'	le	DET	DET	n=s	
+13	humanité	humanité	NC	NC	n=s|g=f	
+14	par	par	P	P		
+15	un	un	DET	DET	n=s|g=m	
+16	déluge	déluge	NC	NC	n=s|g=m	
+17	si	si	CS	CS		
+18	elle	elle	CLS	CLS	n=s|g=f|p=3	
+19	sombre	sombrer	VS	VS	n=s|t=P,S|p=1,3	
+20	dans	dans	P	P		
+21	la	la	DET	DET	n=s|g=f	
+22	méchanceté	méchanceté	NC	NC	n=s|g=f	
+23	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	Aborigènes	_	NPP	NPP		
+3	craignent	craindre	V	V	n=p|t=P,S|p=3	
+4	aussi	aussi	ADV	ADV		
+5	des	des	DET	DET	n=p	
+6	esprits	esprit	NC	NC	n=p|g=m	
+7	malveillants	malveillant	ADJ	ADJ	n=p|g=m	
+8	,	,	PONCT	PONCT		
+9	qui	qui	PROREL	PROREL	n=s	
+10	ont	avoir	V	V	n=p|t=P|p=3	
+11	à	à	P	P		
+12	leur	leur	DET	DET	n=s|p=3|poss=p	
+13	service	service	NC	NC	n=s|g=m	
+14	une	une	DET	DET	n=s|g=f	
+15	race	race	NC	NC	n=s|g=f	
+16	d'	de	P	P		
+17	homme	homme	NC	NC	n=s|g=m	
+18	-	-	PONCT	PONCT		
+19	lézard	lézard	NC	NC	n=s|g=m	
+20	et	et	CC	CC		
+21	une	une	DET	DET	n=s|g=f	
+22	foule	foule	NC	NC	n=s|g=f	
+23	de	de	P	P		
+24	créatures	créature	NC	NC	n=p|g=f	
+25	maléfiques	maléfique	ADJ	ADJ	n=p	
+26	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	1606	1606	NC	NC		
+3	,	,	PONCT	PONCT		
+4	le	le	DET	DET	n=s|g=m	
+5	navigateur	navigateur	NC	NC	n=s|g=m	
+6	néerlandais	néerlandais	ADJ	ADJ	g=m	
+7	,	,	PONCT	PONCT		
+8	Willems	Willems	NPP	NPP	n=s|g=m	
+9	Janz	_	NPP	NPP		
+10	,	,	PONCT	PONCT		
+11	atteint	atteindre	V	V	n=s|t=P|p=3	
+12	la	la	DET	DET	n=s|g=f	
+13	côte	côte	NC	NC	n=s|g=f	
+14	nord	nord	NC	NC	n=s|g=m	
+15	de	de	P	P		
+16	l'	le	DET	DET	n=s	
+17	Australie	Australie	NPP	NPP	n=s|g=f	
+18	qu'	que	PROREL	PROREL		
+19	il	il	CLS	CLS	n=s|g=m|p=3	
+20	nomme	nommer	V	V	n=s|t=P,S|p=1,3	
+21	Nouvelle	nouveau	ADJ	ADJ	n=s|g=f	
+22	-	-	PONCT	PONCT		
+23	Hollande	hollande	NC	NC	n=s	
+24	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	1642	1642	NC	NC		
+3	,	,	PONCT	PONCT		
+4	le	le	DET	DET	n=s|g=m	
+5	Néerlandais	néerlandais	NC	NC	g=m	
+6	Abel	Abel	NPP	NPP	n=s|g=m	
+7	Tasman	_	NPP	NPP		
+8	aborde	aborder	V	V	n=s|t=P,S|p=1,3	
+9	dans	dans	P	P		
+10	l'	le	DET	DET	n=s	
+11	île	île	NC	NC	n=s|g=f	
+12	de	de	P	P		
+13	Tasmanie	_	NPP	NPP		
+14	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	1770	1770	NC	NC		
+3	,	,	PONCT	PONCT		
+4	le	le	DET	DET	n=s|g=m	
+5	marin	marin	ADJ	ADJ	n=s|g=m	
+6	-	-	PONCT	PONCT		
+7	explorateur	explorateur	NC	NC	n=s|g=m	
+8	britannique	britannique	ADJ	ADJ	n=s	
+9	James	James	NPP	NPP	n=s|g=m	
+10	Cook	_	NPP	NPP		
+11	aborde	aborder	V	V	n=s|t=P,S|p=1,3	
+12	dans	dans	P	P		
+13	l'	le	DET	DET	n=s	
+14	est	_	NPP	NPP		
+15	de	de	P	P		
+16	l'	le	DET	DET	n=s	
+17	île	île	NC	NC	n=s|g=f	
+18	à	à	P	P		
+19	Botany	_	NPP	NPP		
+20	Bay	Bay	NPP	NPP	n=s|g=m	
+21	qui	qui	PROREL	PROREL	n=s	
+22	deviendra	devenir	V	V	n=s|t=F|p=3	
+23	la	la	DET	DET	n=s|g=f	
+24	Nouvelle	nouveau	ADJ	ADJ	n=s|g=f	
+25	-	-	PONCT	PONCT		
+26	Galles	galle	NC	NC	n=p	
+27	du	de	P+D	P+D	n=s|g=m	
+28	Sud	sud	NC	NC	n=s|g=m	
+29	.	.	PONCT	PONCT		
+
+1	Au	à	P+D	P+D	n=s|g=m	
+2	départ	départ	NC	NC	n=s|g=m	
+3	,	,	PONCT	PONCT		
+4	les	les	DET	DET	n=p	
+5	Européens	européen	NC	NC	n=p|g=m	
+6	furent	être	V	V	n=p|t=J|p=3	
+7	peu	peu	ADV	ADV		
+8	intéressés	intéresser	VPP	VPP	n=p|g=m|t=K	
+9	par	par	P	P		
+10	la	la	DET	DET	n=s|g=f	
+11	conquête	conquête	NC	NC	n=s|g=f	
+12	de	de	P	P		
+13	cette	cette	DET	DET	n=s|g=f	
+14	île	île	NC	NC	n=s|g=f	
+15	qu'	que	PROREL	PROREL		
+16	ils	ils	CLS	CLS	n=p|g=m|p=3	
+17	jugeaient	juger	V	V	n=p|t=I|p=3	
+18	trop	trop	ADV	ADV		
+19	pauvre	pauvre	ADJ	ADJ	n=s	
+20	.	.	PONCT	PONCT		
+
+1	Mais	mais	CC	CC		
+2	,	,	PONCT	PONCT		
+3	finalement	_	ADV	ADV		
+4	,	,	PONCT	PONCT		
+5	le	le	DET	DET	n=s|g=m	
+6	Royaume	_	NPP	NPP		
+7	-	-	PONCT	PONCT		
+8	Uni	unir	VPP	VPP	n=s|g=m|t=K	
+9	la	la	CLO	CLO	n=s|g=f|p=3	
+10	colonisa	coloniser	V	V	n=s|t=J|p=3	
+11	par	par	P	P		
+12	crainte	crainte	NC	NC	n=s|g=f	
+13	de	de	P	P		
+14	voir	voir	VINF	VINF	t=W	
+15	les	les	DET	DET	n=p	
+16	Français	français	NC	NC	g=m	
+17	leur	leur	CLO	CLO	n=p|p=3	
+18	faucher	faucher	VINF	VINF	t=W	
+19	l'	le	DET	DET	n=s	
+20	herbe	herbe	NC	NC	n=s|g=f	
+21	sous	sous	P	P		
+22	le	le	DET	DET	n=s|g=m	
+23	pied	pied	NC	NC	n=s	
+24	.	.	PONCT	PONCT		
+
+1	Ils	ils	CLS	CLS	n=p|g=m|p=3	
+2	y	y	CLO	CLO		
+3	envoient	envoyer	V	V	n=p|t=P,S|p=3	
+4	ce	ce	PRO	PRO	n=s	
+5	qu'	que	PROREL	PROREL		
+6	on	on	CLS	CLS	n=s|p=3	
+7	appelle	appeler	V	V	n=s|t=P,S|p=1,3	
+8	maintenant	maintenant	ADV	ADV		
+9	en	en	P	P		
+10	Australie	Australie	NPP	NPP	n=s|g=f	
+11	la	la	DET	DET	n=s|g=f	
+12	First	_	NPP	NPP		
+13	Fleet	_	NPP	NPP		
+14	(	(	PONCT	PONCT		
+15	en	en	P	P		
+16	)	)	PONCT	PONCT		
+17	(	(	PONCT	PONCT		
+18	première	premier	ADJ	ADJ	n=s|g=f	
+19	flotte	flotte	NC	NC	n=s|g=f	
+20	)	)	PONCT	PONCT		
+21	qui	qui	PROREL	PROREL	n=s	
+22	arrive	arriver	V	V	n=s|t=P,S|p=1,3	
+23	en	en	P	P		
+24	1788	1788	NC	NC		
+25	et	et	CC	CC		
+26	fonde	_	NC	NC		
+27	la	la	DET	DET	n=s|g=f	
+28	colonie	colonie	NC	NC	n=s|g=f	
+29	de	de	P	P		
+30	Sydney	Sydney	NPP	NPP	n=s	
+31	Cove	_	NPP	NPP		
+32	,	,	PONCT	PONCT		
+33	avec	avec	P	P		
+34	environ	environ	ADV	ADV		
+35	200	200	ADJ	ADJ		
+36	soldats	soldat	NC	NC	n=p|g=m	
+37	et	et	CC	CC		
+38	officiers	officier	NC	NC	n=p	
+39	accompagnés	accompagner	VPP	VPP	n=p|g=m|t=K	
+40	de	de	P	P		
+41	leur	leur	DET	DET	n=s|p=3|poss=p	
+42	famille	famille	NC	NC	n=s|g=f	
+43	et	et	CC	CC		
+44	730	730	ADJ	ADJ		
+45	bagnards	bagnard	NC	NC	n=p|g=m	
+46	(	(	PONCT	PONCT		
+47	les	les	DET	DET	n=p	
+48	convicts	_	NC	NC		
+49	)	)	PONCT	PONCT		
+50	qui	qui	PROREL	PROREL	n=s	
+51	pour	pour	P	P		
+52	les	les	DET	DET	n=p	
+53	deux	deux	ADJ	ADJ	s=card|n=p	
+54	-	-	PONCT	PONCT		
+55	tiers	tiers	NC	NC	g=m	
+56	sont	être	V	V	n=p|t=P|p=3	
+57	des	des	DET	DET	n=p	
+58	hommes	homme	NC	NC	n=p|g=m	
+59	.	.	PONCT	PONCT		
+
+1	Une	une	DET	DET	n=s|g=f	
+2	fois	fois	NC	NC	g=f	
+3	leur	leur	DET	DET	n=s|p=3|poss=p	
+4	peine	peine	NC	NC	n=s|g=f	
+5	purgée	purger	VPP	VPP	n=s|g=f|t=K	
+6	les	les	DET	DET	n=p	
+7	bagnard	bagnard	NC	NC	n=s|g=m	
+8	libérés	libérer	ADJ	ADJ	n=p|g=m|t=K	
+9	pouvaient	pouvoir	V	V	n=p|t=I|p=3	
+10	rester	rester	VINF	VINF	t=W	
+11	en	en	P	P		
+12	Australie	Australie	NPP	NPP	n=s|g=f	
+13	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	1810	1810	NC	NC		
+3	,	,	PONCT	PONCT		
+4	il	il	CLS	CLS	n=s|g=m|p=3	
+5	y	y	CLO	CLO		
+6	avait	avoir	V	V	n=s|t=I|p=3	
+7	environ	environ	ADV	ADV		
+8	10_000	10_000	ADJ	ADJ		
+9	habitants	habitant	NC	NC	n=p|g=m	
+10	en	en	P	P		
+11	Nouvelle	_	NPP	NPP		
+12	-	-	PONCT	PONCT		
+13	Galles	galle	NC	NC	n=p	
+14	du	de	P+D	P+D	n=s|g=m	
+15	Sud	sud	NC	NC	n=s|g=m	
+16	.	.	PONCT	PONCT		
+
+1	Ces	ces	DET	DET	n=p	
+2	bagnards	bagnard	NC	NC	n=p|g=m	
+3	sont	être	V	V	n=p|t=P|p=3	
+4	des	des	DET	DET	n=p	
+5	prisonniers	prisonnier	NC	NC	n=p|g=m	
+6	de	de	P	P		
+7	droit	droit	NC	NC	n=s|g=m	
+8	commun	commun	ADJ	ADJ	n=s|g=m	
+9	mais	mais	CC	CC		
+10	aussi	aussi	ADV	ADV		
+11	des	des	DET	DET	n=p	
+12	révoltés	révolté	NC	NC	n=p|g=m	
+13	irlandais	irlandais	ADJ	ADJ	g=m	
+14	luttant	lutter	VPR	VPR	t=G	
+15	contre	contre	P	P		
+16	la	la	DET	DET	n=s|g=f	
+17	présence	présence	NC	NC	n=s|g=f	
+18	anglaise	anglais	ADJ	ADJ	n=s|g=f	
+19	en	en	P	P		
+20	Irlande	Irlande	NPP	NPP	n=s|g=f	
+21	.	.	PONCT	PONCT		
+
+1	De	de	P	P		
+2	1788	1788	NC	NC		
+3	à	à	P	P		
+4	1868	1868	NC	NC		
+5	(	(	PONCT	PONCT		
+6	date	date	NC	NC	n=s|g=f	
+7	du	de	P+D	P+D	n=s|g=m	
+8	dernier	dernier	ADJ	ADJ	n=s|g=m	
+9	convoi	convoi	NC	NC	n=s|g=m	
+10	)	)	PONCT	PONCT		
+11	il	il	CLS	CLS	n=s|g=m|p=3	
+12	y	y	CLO	CLO		
+13	a	avoir	V	V	n=s|t=P|p=3	
+14	eu	avoir	VPP	VPP	n=s|g=m|t=K	
+15	environ	environ	ADV	ADV		
+16	160_000	160_000	ADJ	ADJ		
+17	bagnards	bagnard	NC	NC	n=p|g=m	
+18	transférés	transférer	VPP	VPP	n=p|g=m|t=K	
+19	du	de	P+D	P+D	n=s|g=m	
+20	Royaume	_	NPP	NPP		
+21	-	-	PONCT	PONCT		
+22	Uni	unir	VPP	VPP	n=s|g=m|t=K	
+23	vers	vers	P	P		
+24	l'	le	DET	DET	n=s	
+25	Australie	Australie	NPP	NPP	n=s|g=f	
+26	(	(	PONCT	PONCT		
+27	environ	environ	ADV	ADV		
+28	20	20	ADJ	ADJ		
+29	%	%	NC	NC	g=m	
+30	étaient	être	V	V	n=p|t=I|p=3	
+31	des	des	DET	DET	n=p	
+32	femmes	femme	NC	NC	n=p|g=f	
+33	)	)	PONCT	PONCT		
+34	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	1813	1813	NC	NC		
+3	,	,	PONCT	PONCT		
+4	les	les	DET	DET	n=p	
+5	Européens	européen	NC	NC	n=p|g=m	
+6	se	se	CLR	CLR	n=p,s|p=3	
+7	lancent	lancer	V	V	n=p|t=P,S|p=3	
+8	dans	dans	P	P		
+9	l'	le	DET	DET	n=s	
+10	exploration	exploration	NC	NC	n=s|g=f	
+11	de	de	P	P		
+12	l'	le	DET	DET	n=s	
+13	intérieur	intérieur	NC	NC	n=s|g=m	
+14	de	de	P	P		
+15	l'	le	DET	DET	n=s	
+16	île	île	NC	NC	n=s|g=f	
+17	à	à	P	P		
+18	partir	partir	VINF	VINF	t=W	
+19	des	des	DET	DET	n=p	
+20	Montagnes	_	NPP	NPP		
+21	Bleues	_	NPP	NPP		
+22	.	.	PONCT	PONCT		
+
+1	Ils	ils	CLS	CLS	n=p|g=m|p=3	
+2	y	y	CLO	CLO		
+3	introduisent	introduire	V	V	n=p|t=P,S|p=3	
+4	l'	le	DET	DET	n=s	
+5	élevage	élevage	NC	NC	n=s|g=m	
+6	du	de	P+D	P+D	n=s|g=m	
+7	mouton	mouton	NC	NC	n=s|g=m	
+8	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	1835	1835	NC	NC		
+3	,	,	PONCT	PONCT		
+4	la	la	DET	DET	n=s|g=f	
+5	ville	ville	NC	NC	n=s|g=f	
+6	de	de	P	P		
+7	Melbourne	_	NPP	NPP		
+8	est	être	V	V	n=s|t=P|p=3	
+9	fondée	fonder	VPP	VPP	n=s|g=f|t=K	
+10	.	.	PONCT	PONCT		
+
+1	Mais	mais	CC	CC		
+2	en	en	P	P		
+3	1836	1836	NC	NC		
+4	,	,	PONCT	PONCT		
+5	le	le	DET	DET	n=s|g=m	
+6	conflit	conflit	NC	NC	n=s|g=m	
+7	entre	entre	P	P		
+8	les	les	DET	DET	n=p	
+9	éleveurs	éleveur	NC	NC	n=p|g=m	
+10	et	et	CC	CC		
+11	les	les	DET	DET	n=p	
+12	Aborigènes	_	NPP	NPP		
+13	pour	pour	P	P		
+14	l'	le	DET	DET	n=s	
+15	utilisation	utilisation	NC	NC	n=s|g=f	
+16	des	de	P+D	P+D	n=p	
+17	terres	terre	NC	NC	n=p|g=f	
+18	aboutit	aboutir	V	V	n=s|t=J,P|p=3	
+19	au	à	P+D	P+D	n=s|g=m	
+20	premier	premier	ADJ	ADJ	n=s|g=m	
+21	massacre	massacre	NC	NC	n=s|g=m	
+22	des	de	P+D	P+D	n=p	
+23	Aborigènes	_	NPP	NPP		
+24	en	en	P	P		
+25	Tasmanie	_	NPP	NPP		
+26	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	1851	1851	NC	NC		
+3	,	,	PONCT	PONCT		
+4	la	la	DET	DET	n=s|g=f	
+5	ruée	ruée	NC	NC	n=s|g=f	
+6	vers	vers	P	P		
+7	l'	le	DET	DET	n=s	
+8	or	or	NC	NC	n=s|g=m	
+9	aboutit	aboutir	V	V	n=s|t=J,P|p=3	
+10	à	à	P	P		
+11	la	la	DET	DET	n=s|g=f	
+12	création	création	NC	NC	n=s|g=f	
+13	de	de	P	P		
+14	l'	le	DET	DET	n=s	
+15	État	État	NC	NC	n=s|g=m	
+16	de	de	P	P		
+17	Victoria	Victoria	NPP	NPP	n=s|g=f,m	
+18	avec	avec	P	P		
+19	Melbourne	_	NPP	NPP		
+20	pour	pour	P	P		
+21	capitale	capitale	NC	NC	n=s|g=f	
+22	.	.	PONCT	PONCT		
+
+1	À	à	P	P		
+2	la	la	DET	DET	n=s|g=f	
+3	fin	fin	NC	NC	n=s	
+4	du	de	P+D	P+D	n=s|g=m	
+5	XIXème	_	ADJ	ADJ		
+6	siècle	siècle	NC	NC	n=s|g=m	
+7	,	,	PONCT	PONCT		
+8	l'	le	DET	DET	n=s	
+9	Australie	Australie	NPP	NPP	n=s|g=f	
+10	fut	être	V	V	n=s|t=J|p=3	
+11	administrée	administrer	VPP	VPP	n=s|g=f|t=K	
+12	par	par	P	P		
+13	des	des	DET	DET	n=p	
+14	gouverneurs	gouverneur	NC	NC	n=p|g=m	
+15	clairvoyants	clairvoyant	ADJ	ADJ	n=p|g=m	
+16	qui	qui	PROREL	PROREL	n=s	
+17	en	en	CLO	CLO		
+18	firent	faire	V	V	n=p|t=J|p=3	
+19	une	une	DET	DET	n=s|g=f	
+20	riche	riche	ADJ	ADJ	n=s	
+21	colonie	colonie	NC	NC	n=s|g=f	
+22	.	.	PONCT	PONCT		
+
+1	Bien	bien	ADV	ADV		
+2	entendu	entendre	VPP	VPP	n=s|g=m|t=K	
+3	,	,	PONCT	PONCT		
+4	les	les	DET	DET	n=p	
+5	Aborigènes	_	NPP	NPP		
+6	refusèrent	refuser	V	V	n=p|t=J|p=3	
+7	l'	le	DET	DET	n=s	
+8	oppression	oppression	NC	NC	n=s|g=f	
+9	britannique	britannique	ADJ	ADJ	n=s	
+10	et	et	CC	CC		
+11	certains	certain	PRO	PRO	n=p|g=m	
+12	tentèrent	tenter	V	V	n=p|t=J|p=3	
+13	de	de	P	P		
+14	résister	résister	VINF	VINF	t=W	
+15	contre	contre	P	P		
+16	les	les	DET	DET	n=p	
+17	Anglais	anglais	NC	NC	g=m	
+18	.	.	PONCT	PONCT		
+
+1	De	de	P	P		
+2	1901	1901	NC	NC		
+3	à	à	P	P		
+4	1929	1929	NC	NC		
+5	,	,	PONCT	PONCT		
+6	le	le	DET	DET	n=s|g=m	
+7	gouvernement	gouvernement	NC	NC	n=s|g=m	
+8	australien	australien	ADJ	ADJ	n=s|g=m	
+9	mena	mener	V	V	n=s|t=J|p=3	
+10	une	une	DET	DET	n=s|g=f	
+11	politique	politique	NC	NC	n=s|g=f	
+12	économique	économique	ADJ	ADJ	n=s	
+13	et	et	CC	CC		
+14	sociale	social	ADJ	ADJ	n=s|g=f	
+15	intense	intense	ADJ	ADJ	n=s	
+16	.	.	PONCT	PONCT		
+
+1	Mais	mais	CC	CC		
+2	,	,	PONCT	PONCT		
+3	dans	dans	P	P		
+4	les	les	DET	DET	n=p	
+5	années	année	NC	NC	n=p|g=f	
+6	1930	1930	NC	NC		
+7	,	,	PONCT	PONCT		
+8	la	la	DET	DET	n=s|g=f	
+9	Grande	grand	ADJ	ADJ	n=s|g=f	
+10	Dépression	dépression	NC	NC	n=s|g=f	
+11	arriva	arriver	V	V	n=s|t=J|p=3	
+12	,	,	PONCT	PONCT		
+13	ce	ce	DET	DET	n=s|g=m	
+14	pays	pays	NC	NC	g=m	
+15	où	où	PROREL	PROREL		
+16	régnait	régner	V	V	n=s|t=I|p=3	
+17	l'	le	DET	DET	n=s	
+18	un	un	PRO	PRO	n=s|g=m	
+19	des	de	P+D	P+D	n=p	
+20	plus	plus	ADV	ADV		
+21	hauts	haut	ADJ	ADJ	n=p|g=m	
+22	niveaux	niveau	NC	NC	n=p|g=m	
+23	de	de	P	P		
+24	vie	vie	NC	NC	n=s|g=f	
+25	du	de	P+D	P+D	n=s|g=m	
+26	monde	monde	NC	NC	n=s|g=m	
+27	malgré	malgré	P	P		
+28	ses	ses	DET	DET	n=p|p=3|poss=s	
+29	pertes	perte	NC	NC	n=p|g=f	
+30	pendant	pendant	P	P		
+31	la	la	DET	DET	n=s|g=f	
+32	Première	_	NPP	NPP		
+33	Guerre	_	NPP	NPP		
+34	Mondiale	_	NPP	NPP		
+35	subit	subir	V	V	n=s|t=J,P|p=3	
+36	la	la	DET	DET	n=s|g=f	
+37	crise	crise	NC	NC	n=s|g=f	
+38	de	de	P	P		
+39	plein	plein	ADJ	ADJ	n=s|g=m	
+40	fouet	fouet	NC	NC	n=s|g=m	
+41	,	,	PONCT	PONCT		
+42	faisant	faire	VPR	VPR	t=G	
+43	chuter	chuter	VINF	VINF	t=W	
+44	les	les	DET	DET	n=p	
+45	prix	prix	NC	NC	g=m	
+46	du	de	P+D	P+D	n=s|g=m	
+47	blé	blé	NC	NC	n=s|g=m	
+48	et	et	CC	CC		
+49	de	de	P	P		
+50	la	la	DET	DET	n=s|g=f	
+51	laine	laine	NC	NC	n=s|g=f	
+52	.	.	PONCT	PONCT		
+
+1	Pendant	pendant	P	P		
+2	cette	cette	DET	DET	n=s|g=f	
+3	période	période	NC	NC	n=s	
+4	,	,	PONCT	PONCT		
+5	un	un	DET	DET	n=s|g=m	
+6	australien	australien	NC	NC	n=s|g=m	
+7	sur	sur	P	P		
+8	trois	trois	PRO	PRO	s=card|n=p	
+9	était	être	V	V	n=s|t=I|p=3	
+10	au	à	P+D	P+D	n=s|g=m	
+11	chômage	chômage	NC	NC	n=s|g=m	
+12	.	.	PONCT	PONCT		
+
+1	Pendant	pendant	P	P		
+2	la	la	DET	DET	n=s|g=f	
+3	Seconde	_	NPP	NPP		
+4	guerre	guerre	NC	NC	n=s|g=f	
+5	mondiale	mondial	ADJ	ADJ	n=s|g=f	
+6	,	,	PONCT	PONCT		
+7	l'	le	DET	DET	n=s	
+8	Australie	Australie	NPP	NPP	n=s|g=f	
+9	se	se	CLR	CLR	n=p,s|p=3	
+10	range	range	NC	NC	n=s|g=f	
+11	du	de	P+D	P+D	n=s|g=m	
+12	côté	côté	NC	NC	n=s|g=m	
+13	du	de	P+D	P+D	n=s|g=m	
+14	Royaume	_	NPP	NPP		
+15	-	-	PONCT	PONCT		
+16	Uni	unir	VPP	VPP	n=s|g=m|t=K	
+17	,	,	PONCT	PONCT		
+18	ce	ce	PRO	PRO	n=s	
+19	qui	qui	PROREL	PROREL	n=s	
+20	lui	lui	CLO	CLO	n=s|p=3	
+21	vaudra	valoir	V	V	n=s|t=F|p=3	
+22	plusieurs	plusieurs	DET	DET	n=p	
+23	bombardements	bombardement	NC	NC	n=p|g=m	
+24	.	.	PONCT	PONCT		
+
+1	Mais	mais	CC	CC		
+2	,	,	PONCT	PONCT		
+3	malgré	malgré	P	P		
+4	les	les	DET	DET	n=p	
+5	promesses	promesse	NC	NC	n=p|g=f	
+6	du	de	P+D	P+D	n=s|g=m	
+7	gouvernement	gouvernement	NC	NC	n=s|g=m	
+8	,	,	PONCT	PONCT		
+9	les	les	DET	DET	n=p	
+10	Aborigènes	_	NPP	NPP		
+11	continuent	continuer	V	V	n=p|t=P,S|p=3	
+12	à	à	P	P		
+13	être	être	VINF	VINF	t=W	
+14	persécutés	persécuter	VPP	VPP	n=p|g=m|t=K	
+15	et	et	CC	CC		
+16	le	le	DET	DET	n=s|g=m	
+17	gouvernement	gouvernement	NC	NC	n=s|g=m	
+18	place	placer	V	V	n=s|t=P,S|p=1,3	
+19	systématiquement	_	ADV	ADV		
+20	les	les	DET	DET	n=p	
+21	métis	métis	NC	NC		
+22	dans	dans	P	P		
+23	des	des	DET	DET	n=p	
+24	orphelinats	orphelinat	NC	NC	n=p|g=m	
+25	en	en	P	P		
+26	les	les	CLO	CLO	n=p|p=3	
+27	arrachant	arracher	VPR	VPR	t=G	
+28	à	à	P	P		
+29	leurs	leurs	DET	DET	n=p|p=3|poss=p	
+30	mères	mère	NC	NC	n=p|g=f	
+31	.	.	PONCT	PONCT		
+
+1	Après	après	P	P		
+2	la	la	DET	DET	n=s|g=f	
+3	guerre	guerre	NC	NC	n=s|g=f	
+4	,	,	PONCT	PONCT		
+5	l'	le	DET	DET	n=s	
+6	Australie	Australie	NPP	NPP	n=s|g=f	
+7	parvint	parvenir	V	V	n=s|t=J|p=3	
+8	à	à	P	P		
+9	se	se	CLR	CLR	n=p,s|p=3	
+10	redresser	redresser	VINF	VINF	t=W	
+11	économiquement	_	ADV	ADV		
+12	grâce	grâce	NC	NC	n=s|g=f	
+13	à	à	P	P		
+14	ses	ses	DET	DET	n=p|p=3|poss=s	
+15	richesses	richesse	NC	NC	n=p|g=f	
+16	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	1967	1967	NC	NC		
+3	,	,	PONCT	PONCT		
+4	les	les	DET	DET	n=p	
+5	Aborigènes	_	NPP	NPP		
+6	obtiennent	obtenir	V	V	n=p|t=P,S|p=3	
+7	la	la	DET	DET	n=s|g=f	
+8	citoyenneté	citoyenneté	NC	NC	n=s|g=f	
+9	australienne	australien	ADJ	ADJ	n=s|g=f	
+10	.	.	PONCT	PONCT		
+
+1	Puis	puis	CC	CC		
+2	,	,	PONCT	PONCT		
+3	en	en	P	P		
+4	1968	1968	NC	NC		
+5	,	,	PONCT	PONCT		
+6	le	le	DET	DET	n=s|g=m	
+7	gouvernement	gouvernement	NC	NC	n=s|g=m	
+8	crée	créer	V	V	n=s|t=P,S|p=1,3	
+9	une	une	DET	DET	n=s|g=f	
+10	Conférence	conférence	NC	NC	n=s|g=f	
+11	nationale	national	ADJ	ADJ	n=s|g=f	
+12	aborigène	aborigène	NC	NC	n=s	
+13	,	,	PONCT	PONCT		
+14	composée	composer	VPP	VPP	n=s|g=f|t=K	
+15	de	de	P	P		
+16	35	35	NC	NC		
+17	membres	_	ADJ	ADJ		
+18	élus	élu	NC	NC	n=p|g=m	
+19	et	et	CC	CC		
+20	chargée	charger	VPP	VPP	n=s|g=f|t=K	
+21	de	de	P	P		
+22	représenter	représenter	VINF	VINF	t=W	
+23	les	les	DET	DET	n=p	
+24	intérêts	intérêt	NC	NC	n=p|g=m	
+25	des	de	P+D	P+D	n=p	
+26	Aborigènes	_	NPP	NPP		
+27	devant	devant	P	P		
+28	le	le	DET	DET	n=s|g=m	
+29	gouvernement	gouvernement	NC	NC	n=s|g=m	
+30	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	1999	1999	NC	NC	s=card|n=s	
+3	,	,	PONCT	PONCT		
+4	un	un	DET	DET	n=s|g=m	
+5	référendum	référendum	NC	NC	n=s|g=m	
+6	organisé	organiser	VPP	VPP	n=s|g=m|t=K	
+7	laisse	laisser	V	V	n=s|t=P,S|p=1,3	
+8	entendre	entendre	VINF	VINF	t=W	
+9	que	que	CS	CS		
+10	le	le	DET	DET	n=s|g=m	
+11	peuple	peuple	NC	NC	n=s|g=m	
+12	veut	vouloir	V	V	n=s|t=P|p=3	
+13	conserver	conserver	VINF	VINF	t=W	
+14	la	la	DET	DET	n=s|g=f	
+15	monarchie	monarchie	NC	NC	n=s|g=f	
+16	.	.	PONCT	PONCT		
+
+1	Mais	mais	CC	CC		
+2	,	,	PONCT	PONCT		
+3	il	il	CLS	CLS	n=s|g=m|p=3	
+4	existe	exister	V	V	n=s|t=P,S|p=1,3	
+5	aussi	aussi	ADV	ADV		
+6	des	des	DET	DET	n=p	
+7	partisans	partisan	NC	NC	n=p|g=m	
+8	de	de	P	P		
+9	la	la	DET	DET	n=s|g=f	
+10	république	république	NC	NC	n=s|g=f	
+11	indépendante	indépendant	ADJ	ADJ	n=s|g=f	
+12	(	(	PONCT	PONCT		
+13	comme	comme	P	P		
+14	l'	le	DET	DET	n=s	
+15	ancien	ancien	ADJ	ADJ	n=s|g=m	
+16	Premier	premier	ADJ	ADJ	n=s|g=m	
+17	ministre	ministre	NC	NC	n=s|g=m	
+18	Paul	Paul	NPP	NPP	n=s|g=m	
+19	Keating	_	NPP	NPP		
+20	)	)	PONCT	PONCT		
+21	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	habitants	habitant	NC	NC	n=p|g=m	
+3	de	de	P	P		
+4	l'	le	DET	DET	n=s	
+5	Australie	Australie	NPP	NPP	n=s|g=f	
+6	s'	se	CLR	CLR	n=p,s|p=3	
+7	appellent	appeler	V	V	n=p|t=P,S|p=3	
+8	les	les	DET	DET	n=p	
+9	Australiens	_	NPP	NPP		
+10	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	y	y	CLO	CLO		
+3	a	avoir	V	V	n=s|t=P|p=3	
+4	environ	environ	ADV	ADV		
+5	20	20	ADJ	ADJ		
+6	millions	million	NC	NC	n=p	
+7	d'	de	P	P		
+8	habitants	habitant	NC	NC	n=p|g=m	
+9	en	en	P	P		
+10	Australie	Australie	NPP	NPP	n=s|g=f	
+11	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	Australiens	australien	NC	NC	n=p|g=m	
+3	vivent	vivre	V	V	n=p|t=P,S|p=3	
+4	principalement	_	ADV	ADV		
+5	dans	dans	P	P		
+6	des	des	DET	DET	n=p	
+7	grandes	grand	ADJ	ADJ	n=p|g=f	
+8	villes	ville	NC	NC	n=p|g=f	
+9	comme	comme	P	P		
+10	Sydney	Sydney	NPP	NPP	n=s	
+11	(	(	PONCT	PONCT		
+12	4,5	4,5	ADJ	ADJ		
+13	millions	million	NC	NC	n=p	
+14	d'	de	P	P		
+15	habitants	habitant	NC	NC	n=p|g=m	
+16	)	)	PONCT	PONCT		
+17	,	,	PONCT	PONCT		
+18	Melbourne	_	NPP	NPP		
+19	(	(	PONCT	PONCT		
+20	3,7	3,7	ADJ	ADJ		
+21	millions	million	NC	NC	n=p	
+22	)	)	PONCT	PONCT		
+23	,	,	PONCT	PONCT		
+24	Perth	_	NPP	NPP		
+25	(	(	PONCT	PONCT		
+26	1,5	1,5	ADJ	ADJ		
+27	million	million	NC	NC	n=s	
+28	)	)	PONCT	PONCT		
+29	ou	ou	CC	CC		
+30	encore	encore	ADV	ADV		
+31	Brisbane	_	NPP	NPP		
+32	.	.	PONCT	PONCT		
+
+1	Canberra	Canberra	NPP	NPP	n=s|g=m	
+2	,	,	PONCT	PONCT		
+3	la	la	DET	DET	n=s|g=f	
+4	capitale	capitale	NC	NC	n=s|g=f	
+5	politique	politique	ADJ	ADJ	n=s	
+6	,	,	PONCT	PONCT		
+7	ne	ne	ADV	ADV		
+8	possède	posséder	V	V	n=s|t=P,S|p=1,3	
+9	que	que	CS	CS		
+10	0,3	0,3	NC	NC		
+11	millions	million	NC	NC	n=p	
+12	habitants	habitant	NC	NC	n=p|g=m	
+13	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	monnaie	monnaie	NC	NC	n=s|g=f	
+3	du	de	P+D	P+D	n=s|g=m	
+4	pays	pays	NC	NC	g=m	
+5	est	être	V	V	n=s|t=P|p=3	
+6	le	le	DET	DET	n=s|g=m	
+7	dollar	dollar	NC	NC	n=s|g=m	
+8	australien	australien	ADJ	ADJ	n=s|g=m	
+9	.	.	PONCT	PONCT		
+10	15	15	ADJ	ADJ		
+11	dollars	dollar	NC	NC	n=p|g=m	
+12	australiens	australien	ADJ	ADJ	n=p|g=m	
+13	se	se	CLR	CLR	n=p,s|p=3	
+14	notent	noter	V	V	n=p|t=P,S|p=3	
+15	Aus$	_	NPP	NPP		
+16	15	15	ADJ	ADJ		
+17	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	septembre	septembre	NC	NC	n=s|g=m	
+3	2011	2011	NC	NC		
+4	,	,	PONCT	PONCT		
+5	1	1	NC	NC		
+6	€	_	NPP	NPP		
+7	valait	valoir	V	V	n=s|t=I|p=3	
+8	1,37	1,37	ADJ	ADJ		
+9	Aus$	_	NPP	NPP		
+10	et	et	CC	CC		
+11	1Aus$	_	NPP	NPP		
+12	valait	valoir	V	V	n=s|t=I|p=3	
+13	0,74	0,74	NC	NC		
+14	€	_	NPP	NPP		
+15	.	.	PONCT	PONCT		
+
+1	Pendant	pendant	P	P		
+2	très	très	ADV	ADV		
+3	longtemps	longtemps	ADV	ADV		
+4	,	,	PONCT	PONCT		
+5	l'	le	DET	DET	n=s	
+6	Australie	Australie	NPP	NPP	n=s|g=f	
+7	a	avoir	V	V	n=s|t=P|p=3	
+8	eu	avoir	VPP	VPP	n=s|g=m|t=K	
+9	une	une	DET	DET	n=s|g=f	
+10	économie	économie	NC	NC	n=s|g=f	
+11	basée	baser	VPP	VPP	n=s|g=f|t=K	
+12	quasi	quasi	ADV	ADV		
+13	essentiellement	_	ADV	ADV		
+14	sur	sur	P	P		
+15	l'	le	DET	DET	n=s	
+16	exportation	exportation	NC	NC	n=s|g=f	
+17	de	de	P	P		
+18	produits	produit	NC	NC	n=p|g=m	
+19	agricoles	agricole	ADJ	ADJ	n=p	
+20	(	(	PONCT	PONCT		
+21	secteur	secteur	NC	NC	n=s|g=m	
+22	primaire	primaire	ADJ	ADJ	n=s	
+23	)	)	PONCT	PONCT		
+24	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	y	y	CLO	CLO		
+3	aurait	avoir	V	V	n=s|t=C|p=3	
+4	150	150	ADJ	ADJ		
+5	millions	million	NC	NC	n=p	
+6	de	de	P	P		
+7	moutons	mouton	NC	NC	n=p|g=m	
+8	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	vend	vendre	V	V	n=s|t=P|p=3	
+3	majoritairement	_	ADV	ADV		
+4	de	de	P	P		
+5	la	la	DET	DET	n=s|g=f	
+6	viande	viande	NC	NC	n=s|g=f	
+7	de	de	P	P		
+8	mouton	mouton	NC	NC	n=s|g=m	
+9	vers	vers	P	P		
+10	les	les	DET	DET	n=p	
+11	pays	pays	NC	NC	g=m	
+12	musulmans	musulman	ADJ	ADJ	n=p|g=m	
+13	,	,	PONCT	PONCT		
+14	de	de	P	P		
+15	la	la	DET	DET	n=s|g=f	
+16	laine	laine	NC	NC	n=s|g=f	
+17	,	,	PONCT	PONCT		
+18	des	de	P+D	P+D	n=p	
+19	fruits	fruit	NC	NC	n=p|g=m	
+20	et	et	CC	CC		
+21	des	de	P+D	P+D	n=p	
+22	légumes	légume	NC	NC	n=p	
+23	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	secteur	secteur	NC	NC	n=s|g=m	
+3	minier	minier	ADJ	ADJ	n=s|g=m	
+4	(	(	PONCT	PONCT		
+5	secteur	secteur	NC	NC	n=s|g=m	
+6	primaire	primaire	ADJ	ADJ	n=s	
+7	)	)	PONCT	PONCT		
+8	est	être	V	V	n=s|t=P|p=3	
+9	aussi	aussi	ADV	ADV		
+10	très	très	ADV	ADV		
+11	important	important	ADJ	ADJ	n=s|g=m	
+12	:	:	PONCT	PONCT		
+13	il	il	CLS	CLS	n=s|g=m|p=3	
+14	n'	ne	ADV	ADV		
+15	emploie	employer	V	V	n=s|t=P,S|p=1,3	
+16	directement	_	ADV	ADV		
+17	pas	pas	ADV	ADV		
+18	beaucoup	beaucoup	ADV	ADV		
+19	de	de	P	P		
+20	personnes	personne	NC	NC	n=p|g=f	
+21	,	,	PONCT	PONCT		
+22	mais	mais	CC	CC		
+23	avec	avec	P	P		
+24	l'	le	DET	DET	n=s	
+25	argent	argent	NC	NC	n=s|g=m	
+26	qu'	que	PROREL	PROREL		
+27	il	il	CLS	CLS	n=s|g=m|p=3	
+28	crée	créer	V	V	n=s|t=P,S|p=1,3	
+29	,	,	PONCT	PONCT		
+30	il	il	CLS	CLS	n=s|g=m|p=3	
+31	fait	faire	V	V	n=s|t=P|p=3	
+32	vivre	vivre	VINF	VINF	t=W	
+33	indirectement	_	ADV	ADV		
+34	des	des	DET	DET	n=p	
+35	millions	million	NC	NC	n=p	
+36	d'	de	P	P		
+37	Australiens	_	NPP	NPP		
+38	(	(	PONCT	PONCT		
+39	fer	fer	NC	NC	n=s|g=m	
+40	,	,	PONCT	PONCT		
+41	or	or	CC	CC		
+42	extrait	extraire	V	V	n=s|t=P|p=3	
+43	dans	dans	P	P		
+44	l'	le	DET	DET	n=s	
+45	ouest	ouest	NC	NC	n=s|g=m	
+46	,	,	PONCT	PONCT		
+47	uranium	uranium	NC	NC	n=s|g=m	
+48	,	,	PONCT	PONCT		
+49	opale	opale	NC	NC	n=s|g=f	
+50	...	...	PONCT	PONCT		
+51	)	)	PONCT	PONCT		
+52	.	.	PONCT	PONCT		
+
+1	On	on	CLS	CLS	n=s|p=3	
+2	a	avoir	V	V	n=s|t=P|p=3	
+3	pu	pouvoir	VPP	VPP	t=K	
+4	dire	dire	VINF	VINF	t=W	
+5	,	,	PONCT	PONCT		
+6	pour	pour	P	P		
+7	rire	rire	VINF	VINF	t=W	
+8	,	,	PONCT	PONCT		
+9	que	que	CS	CS		
+10	ce	ce	DET	DET	n=s|g=m	
+11	pays	pays	NC	NC	g=m	
+12	était	être	V	V	n=s|t=I|p=3	
+13	un	un	DET	DET	n=s|g=m	
+14	pays	pays	NC	NC	g=m	
+15	développé	développer	VPP	VPP	n=s|g=m|t=K	
+16	avec	avec	P	P		
+17	une	une	DET	DET	n=s|g=f	
+18	économie	économie	NC	NC	n=s|g=f	
+19	de	de	P	P		
+20	pays	pays	NC	NC	g=m	
+21	non	non	ADV	ADV		
+22	développé	développer	VPP	VPP	n=s|g=m|t=K	
+23	.	.	PONCT	PONCT		
+
+1	De	de	P	P		
+2	nos	nos	DET	DET	n=p|p=1|poss=p	
+3	jours	jour	NC	NC	n=p|g=m	
+4	,	,	PONCT	PONCT		
+5	il	il	CLS	CLS	n=s|g=m|p=3	
+6	y	y	CLO	CLO		
+7	a	avoir	V	V	n=s|t=P|p=3	
+8	de	de	P	P		
+9	plus	plus	ADV	ADV		
+10	en	en	P	P		
+11	plus	plus	ADV	ADV		
+12	d'	de	DET	DET	n=p	
+13	entreprises	entreprise	NC	NC	n=p|g=f	
+14	de	de	P	P		
+15	services	service	NC	NC	n=p|g=m	
+16	ou	ou	CC	CC		
+17	d'	de	P	P		
+18	informatique	informatique	NC	NC	n=s|g=f	
+19	(	(	PONCT	PONCT		
+20	secteur	secteur	NC	NC	n=s|g=m	
+21	tertiaire	tertiaire	ADJ	ADJ	n=s	
+22	)	)	PONCT	PONCT		
+23	.	.	PONCT	PONCT		
+
+1	Pour	pour	P	P		
+2	cela	cela	PRO	PRO	n=s|g=m	
+3	,	,	PONCT	PONCT		
+4	l'	le	DET	DET	n=s	
+5	économie	économie	NC	NC	n=s|g=f	
+6	du	de	P+D	P+D	n=s|g=m	
+7	pays	pays	NC	NC	g=m	
+8	est	être	V	V	n=s|t=P|p=3	
+9	très	très	ADV	ADV		
+10	particulière	particulier	ADJ	ADJ	n=s|g=f	
+11	:	:	PONCT	PONCT		
+12	des	des	DET	DET	n=p	
+13	secteurs	secteur	NC	NC	n=p|g=m	
+14	primaire	primaire	ADJ	ADJ	n=s	
+15	et	et	CC	CC		
+16	tertiaire	tertiaire	ADJ	ADJ	n=s	
+17	très	très	ADV	ADV		
+18	forts	fort	ADJ	ADJ	n=p|g=m	
+19	,	,	PONCT	PONCT		
+20	mais	mais	CC	CC		
+21	une	une	DET	DET	n=s|g=f	
+22	quasi	quasi	NC	NC	n=s|g=m	
+23	-	-	PONCT	PONCT		
+24	absence	absence	NC	NC	n=s|g=f	
+25	du	de	P+D	P+D	n=s|g=m	
+26	secteur	secteur	NC	NC	n=s|g=m	
+27	secondaire	secondaire	ADJ	ADJ	n=s	
+28	(	(	PONCT	PONCT		
+29	industrie	industrie	NC	NC	n=s|g=f	
+30	...	...	PONCT	PONCT		
+31	)	)	PONCT	PONCT		
+32	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	Australie	Australie	NPP	NPP	n=s|g=f	
+3	est	être	V	V	n=s|t=P|p=3	
+4	très	très	ADV	ADV		
+5	bien	bien	ADV	ADV		
+6	située	situer	VPP	VPP	n=s|g=f|t=K	
+7	pour	pour	P	P		
+8	commercer	commercer	VINF	VINF	t=W	
+9	avec	avec	P	P		
+10	l'	le	DET	DET	n=s	
+11	Asie	Asie	NPP	NPP	n=s|g=f	
+12	et	et	CC	CC		
+13	c'	ce	CLS	CLS		
+14	est	être	V	V	n=s|t=P|p=3	
+15	aujourd'hui	aujourd'hui	ADV	ADV		
+16	un	un	DET	DET	n=s|g=m	
+17	pays	pays	NC	NC	g=m	
+18	très	très	ADV	ADV		
+19	prospère	prospère	ADJ	ADJ	n=s	
+20	(	(	PONCT	PONCT		
+21	en	en	P	P		
+22	majeure	majeur	ADJ	ADJ	n=s|g=f	
+23	partie	partie	NC	NC	n=s|g=f	
+24	grâce	grâce	NC	NC	n=s|g=f	
+25	au	à	P+D	P+D	n=s|g=m	
+26	miracle	miracle	NC	NC	n=s|g=m	
+27	économique	économique	ADJ	ADJ	n=s	
+28	chinois	chinois	ADJ	ADJ	g=m	
+29	)	)	PONCT	PONCT		
+30	.	.	PONCT	PONCT		
+
+1	Par	par	P	P		
+2	exemple	exemple	NC	NC	n=s|g=m	
+3	,	,	PONCT	PONCT		
+4	elle	elle	CLS	CLS	n=s|g=f|p=3	
+5	bénéficie	bénéficier	V	V	n=s|t=P,S|p=1,3	
+6	en	en	P	P		
+7	ce	ce	DET	DET	n=s|g=m	
+8	moment	moment	NC	NC	n=s|g=m	
+9	de	de	P	P		
+10	la	la	DET	DET	n=s|g=f	
+11	très	très	ADV	ADV		
+12	forte	fort	ADJ	ADJ	n=s|g=f	
+13	demande	demander	V	V	n=s|t=P,S|p=1,3	
+14	en	en	P	P		
+15	inox	inox	NC	NC	g=m	
+16	et	et	CC	CC		
+17	en	en	P	P		
+18	acier	acier	NC	NC	n=s|g=m	
+19	de	de	P	P		
+20	la	la	DET	DET	n=s|g=f	
+21	Chine	Chine	NPP	NPP	n=s|g=f	
+22	(	(	PONCT	PONCT		
+23	pour	pour	P	P		
+24	construire	construire	VINF	VINF	t=W	
+25	des	des	DET	DET	n=p	
+26	usines	usine	NC	NC	n=p|g=f	
+27	)	)	PONCT	PONCT		
+28	et	et	CC	CC		
+29	,	,	PONCT	PONCT		
+30	comme	comme	P	P		
+31	ses	ses	DET	DET	n=p|p=3|poss=s	
+32	réserves	réserve	NC	NC	n=p|g=f	
+33	minières	minier	ADJ	ADJ	n=p|g=f	
+34	sont	être	V	V	n=p|t=P|p=3	
+35	colossales	colossal	ADJ	ADJ	n=p|g=f	
+36	,	,	PONCT	PONCT		
+37	dans	dans	P	P		
+38	certains	certain	DET	DET	n=p|g=m	
+39	endroits	endroit	NC	NC	n=p|g=m	
+40	du	de	P+D	P+D	n=s|g=m	
+41	pays	pays	NC	NC	g=m	
+42	,	,	PONCT	PONCT		
+43	il	il	CLS	CLS	n=s|g=m|p=3	
+44	y	y	CLO	CLO		
+45	a	avoir	V	V	n=s|t=P|p=3	
+46	une	une	DET	DET	n=s|g=f	
+47	pénurie	pénurie	NC	NC	n=s|g=f	
+48	de	de	P	P		
+49	main_d'œuvre	_	NC	NC		
+50	dans	dans	P	P		
+51	les	les	DET	DET	n=p	
+52	mines	mine	NC	NC	n=p|g=f	
+53	.	.	PONCT	PONCT		
+
+1	Un	un	DET	DET	n=s|g=m	
+2	conducteur	conducteur	NC	NC	n=s|g=m	
+3	d'	de	P	P		
+4	engin	engin	NC	NC	n=s|g=m	
+5	dans	dans	P	P		
+6	les	les	DET	DET	n=p	
+7	mines	mine	NC	NC	n=p|g=f	
+8	est	être	V	V	n=s|t=P|p=3	
+9	embauché	embaucher	VPP	VPP	n=s|g=m|t=K	
+10	à	à	P	P		
+11	40	40	NC	NC		
+12	$Aus	_	NPP	NPP		
+13	de	de	P	P		
+14	l'	le	DET	DET	n=s	
+15	heure	heure	NC	NC	n=s|g=f	
+16	(	(	PONCT	PONCT		
+17	soit	soit	CC	CC		
+18	plus	plus	ADV	ADV		
+19	de	de	P	P		
+20	20	20	NC	NC		
+21	€	_	NPP	NPP		
+22	de	de	P	P		
+23	l'	le	DET	DET	n=s	
+24	heure	heure	NC	NC	n=s|g=f	
+25	!	!	PONCT	PONCT		
+26	)	)	PONCT	PONCT		
+27	.	.	PONCT	PONCT		
+
+1	Lors	lors	ADV	ADV		
+2	de	de	P	P		
+3	leurs	leurs	DET	DET	n=p|p=3|poss=p	
+4	rites	rite	NC	NC	n=p|g=m	
+5	funéraires	funéraire	ADJ	ADJ	n=p	
+6	,	,	PONCT	PONCT		
+7	les	les	DET	DET	n=p	
+8	aborigènes	aborigène	NC	NC	n=p	
+9	pratiquent	pratiquer	V	V	n=p|t=P,S|p=3	
+10	le	le	DET	DET	n=s|g=m	
+11	cannibalisme	cannibalisme	NC	NC	n=s|g=m	
+12	.	.	PONCT	PONCT		
+
+1	Pendant	pendant	P	P		
+2	cet	cet	DET	DET	n=s|g=m	
+3	évènement	_	NC	NC		
+4	,	,	PONCT	PONCT		
+5	les	les	DET	DET	n=p	
+6	aborigènes	aborigène	NC	NC	n=p	
+7	chantent	chanter	V	V	n=p|t=P,S|p=3	
+8	des	des	DET	DET	n=p	
+9	chansons	chanson	NC	NC	n=p|g=f	
+10	traditionnelles	traditionnel	ADJ	ADJ	n=p|g=f	
+11	pour	pour	P	P		
+12	parler	parler	VINF	VINF	t=W	
+13	avec	avec	P	P		
+14	le	le	DET	DET	n=s|g=m	
+15	mort	mort	NC	NC	n=s|g=f,m	
+16	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	aborigènes	aborigène	NC	NC	n=p	
+3	pensent	penser	V	V	n=p|t=P,S|p=3	
+4	que	que	CS	CS		
+5	l'	le	DET	DET	n=s	
+6	esprit	esprit	NC	NC	n=s|g=m	
+7	d'	de	P	P		
+8	un	un	DET	DET	n=s|g=m	
+9	mort	mort	NC	NC	n=s|g=f,m	
+10	ne	ne	ADV	ADV		
+11	peut	pouvoir	V	V	n=s|t=P|p=3	
+12	se	se	CLR	CLR	n=p,s|p=3	
+13	retourner	retourner	VINF	VINF	t=W	
+14	vers	vers	P	P		
+15	les	les	DET	DET	n=p	
+16	ancêtres	ancêtre	NC	NC	n=p	
+17	de	de	P	P		
+18	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+19	rêve	rêve	NC	NC	n=s|g=m	
+20	qu'	que	CS	CS		
+21	à	à	P	P		
+22	la	la	DET	DET	n=s|g=f	
+23	suite	suite	NC	NC	n=s|g=f	
+24	de	de	P	P		
+25	cérémonies	cérémonie	NC	NC	n=p|g=f	
+26	appropriées	approprier	VPP	VPP	n=p|g=f|t=K	
+27	.	.	PONCT	PONCT		
+
+1	Finalement	_	ADV	ADV		
+2	,	,	PONCT	PONCT		
+3	les	les	DET	DET	n=p	
+4	pratiques	pratique	NC	NC	n=p|g=f	
+5	varient	varier	V	V	n=p|t=P,S|p=3	
+6	beaucoup	beaucoup	ADV	ADV		
+7	selon	selon	P	P		
+8	les	les	DET	DET	n=p	
+9	régions	région	NC	NC	n=p|g=f	
+10	:	:	PONCT	PONCT		
+11	enterrements	enterrement	NC	NC	n=p|g=m	
+12	,	,	PONCT	PONCT		
+13	crémation	crémation	NC	NC	n=s|g=f	
+14	ou	ou	CC	CC		
+15	placement	placement	NC	NC	n=s|g=m	
+16	du	de	P+D	P+D	n=s|g=m	
+17	cadavre	cadavre	NC	NC	n=s|g=m	
+18	dans	dans	P	P		
+19	un	un	DET	DET	n=s|g=m	
+20	tronc	tronc	NC	NC	n=s|g=m	
+21	d'	de	P	P		
+22	arbre	arbre	NC	NC	n=s|g=m	
+23	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	aquamation	_	NC	NC		
+3	consiste	consister	V	V	n=s|t=P,S|p=1,3	
+4	à	à	P	P		
+5	plonger	plonger	VINF	VINF	t=W	
+6	le	le	DET	DET	n=s|g=m	
+7	corps	corps	NC	NC	g=m	
+8	du	de	P+D	P+D	n=s|g=m	
+9	défunt	défunt	NC	NC	n=s|g=m	
+10	dans	dans	P	P		
+11	un	un	DET	DET	n=s|g=m	
+12	bassin	bassin	NC	NC	n=s|g=m	
+13	d'	de	P	P		
+14	eau	eau	NC	NC	n=s|g=f	
+15	chaude	chaud	ADJ	ADJ	n=s|g=f	
+16	agitée	agiter	VPP	VPP	n=s|g=f|t=K	
+17	(	(	PONCT	PONCT		
+18	93	93	NC	NC		
+19	°C	_	NPP	NPP		
+20	)	)	PONCT	PONCT		
+21	et	et	CC	CC		
+22	contenant	contenir	VPR	VPR	t=G	
+23	de	de	P	P		
+24	quoi	quoi	PROWH	PROWH		
+25	dissoudre	dissoudre	VINF	VINF	t=W	
+26	les	les	DET	DET	n=p	
+27	chairs	chair	NC	NC	n=p|g=f	
+28	.	.	PONCT	PONCT		
+
+1	Après	après	P	P		
+2	cela	cela	PRO	PRO	n=s|g=m	
+3	,	,	PONCT	PONCT		
+4	il	il	CLS	CLS	n=s|g=m|p=3	
+5	ne	ne	ADV	ADV		
+6	reste	rester	V	V	n=s|t=P,S|p=1,3	
+7	que	que	CS	CS		
+8	les	les	DET	DET	n=p	
+9	os	os	NC	NC	g=m	
+10	qui	qui	PROREL	PROREL	n=s	
+11	sont	être	V	V	n=p|t=P|p=3	
+12	réduits	réduire	VPP	VPP	n=p|g=m|t=K	
+13	en	en	P	P		
+14	poudre	poudre	NC	NC	n=s|g=f	
+15	et	et	CC	CC		
+16	donnés	donner	VPP	VPP	n=p|g=m|t=K	
+17	à	à	P	P		
+18	la	la	DET	DET	n=s|g=f	
+19	famille	famille	NC	NC	n=s|g=f	
+20	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	cimetières	cimetière	NC	NC	n=p|g=m	
+3	verts	vert	ADJ	ADJ	n=p|g=m	
+4	respectent	respecter	V	V	n=p|t=P,S|p=3	
+5	l'	le	DET	DET	n=s	
+6	environnement	environnement	NC	NC	n=s|g=m	
+7	:	:	PONCT	PONCT		
+8	pas	pas	ADV	ADV		
+9	de	de	P	P		
+10	pierres	pierre	NC	NC	n=p|g=f	
+11	tombales	tombale	NC	NC	n=p|g=f	
+12	(	(	PONCT	PONCT		
+13	on	on	CLS	CLS	n=s|p=3	
+14	localise	localiser	V	V	n=s|t=P,S|p=1,3	
+15	les	les	DET	DET	n=p	
+16	tombes	tombe	NC	NC	n=p|g=f	
+17	avec	avec	P	P		
+18	un	un	DET	DET	n=s|g=m	
+19	GPS	_	NPP	NPP		
+20	ou	ou	CC	CC		
+21	avec	avec	P	P		
+22	Google	Google	NPP	NPP	n=s|g=m	
+23	Earth	_	NPP	NPP		
+24	2	2	NC	NC		
+25	)	)	PONCT	PONCT		
+26	,	,	PONCT	PONCT		
+27	des	des	DET	DET	n=p	
+28	cercueils	cercueil	NC	NC	n=p|g=m	
+29	en	en	P	P		
+30	pin	pin	NC	NC	n=s|g=m	
+31	non	non	ADV	ADV		
+32	traités	traiter	VPP	VPP	n=p|g=m|t=K	
+33	et	et	CC	CC		
+34	sans	sans	P	P		
+35	produits	produit	NC	NC	n=p|g=m	
+36	chimiques	chimique	ADJ	ADJ	n=p	
+37	et	et	CC	CC		
+38	des	de	P+D	P+D	n=p	
+39	vêtements	vêtement	NC	NC	n=p|g=m	
+40	biodégradables	biodégradable	ADJ	ADJ	n=p	
+41	.	.	PONCT	PONCT		
+
+1	Du	de	P+D	P+D	n=s|g=m	
+2	fait	fait	NC	NC	n=s|g=m	
+3	de	de	P	P		
+4	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+5	isolement	isolement	NC	NC	n=s|g=m	
+6	géographique	géographique	ADJ	ADJ	n=s	
+7	,	,	PONCT	PONCT		
+8	ce	ce	DET	DET	n=s|g=m	
+9	pays	pays	NC	NC	g=m	
+10	possède	posséder	V	V	n=s|t=P,S|p=1,3	
+11	une	une	DET	DET	n=s|g=f	
+12	faune	faune	NC	NC	n=s|g=f,m	
+13	et	et	CC	CC		
+14	une	une	DET	DET	n=s|g=f	
+15	flore	flore	NC	NC	n=s|g=f	
+16	uniques	unique	ADJ	ADJ	n=p	
+17	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	existe	exister	V	V	n=s|t=P,S|p=1,3	
+3	des	des	DET	DET	n=p	
+4	milliers	millier	NC	NC	n=p|g=m	
+5	d'	de	P	P		
+6	espèces	espèce	NC	NC	n=p|g=f	
+7	endémiques	endémique	ADJ	ADJ	n=p	
+8	,	,	PONCT	PONCT		
+9	dont	dont	PROREL	PROREL		
+10	voici	voici	V	V		
+11	ci	_	NPP	NPP		
+12	-	-	PONCT	PONCT		
+13	après	après	P	P		
+14	les	les	DET	DET	n=p	
+15	plus	plus	ADV	ADV		
+16	communes	commun	ADJ	ADJ	n=p|g=f	
+17	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	Australie	Australie	NPP	NPP	n=s|g=f	
+3	possède	posséder	V	V	n=s|t=P,S|p=1,3	
+4	aussi	aussi	ADV	ADV		
+5	de	de	DET	DET	n=p	
+6	très	très	ADV	ADV		
+7	beaux	beau	ADJ	ADJ	n=p|g=m	
+8	fonds	fonds	NC	NC	g=m	
+9	marins	marin	NC	NC	n=p|g=m	
+10	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	Australian	_	NPP	NPP		
+3	Marine	Marine	NPP	NPP	n=s|g=f	
+4	Conservation	_	NPP	NPP		
+5	Society	_	NPP	NPP		
+6	est	être	V	V	n=s|t=P|p=3	
+7	une	une	DET	DET	n=s|g=f	
+8	association	association	NC	NC	n=s|g=f	
+9	protégeant	protéger	VPR	VPR	t=G	
+10	les	les	DET	DET	n=p	
+11	côtes	côte	NC	NC	n=p|g=f	
+12	australiennes	australien	ADJ	ADJ	n=p|g=f	
+13	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	eucalyptus	eucalyptus	NC	NC	g=m	
+3	est	être	V	V	n=s|t=P|p=3	
+4	un	un	DET	DET	n=s|g=m	
+5	arbre	arbre	NC	NC	n=s|g=m	
+6	très	très	ADV	ADV		
+7	commun	commun	ADJ	ADJ	n=s|g=m	
+8	avec	avec	P	P		
+9	une	une	DET	DET	n=s|g=f	
+10	odeur	odeur	NC	NC	n=s|g=f	
+11	particulière	particulier	ADJ	ADJ	n=s|g=f	
+12	(	(	PONCT	PONCT		
+13	odeur	odeur	NC	NC	n=s|g=f	
+14	de	de	P	P		
+15	chewing	_	NC	NC		
+16	-	-	PONCT	PONCT		
+17	gum	gum	NC	NC	n=s|g=m	
+18	)	)	PONCT	PONCT		
+19	dont	dont	PROREL	PROREL		
+20	se	se	CLR	CLR	n=p,s|p=3	
+21	nourrissent	nourrir	V	V	n=p|t=P,S|p=3	
+22	les	les	DET	DET	n=p	
+23	koalas	koala	NC	NC	n=p|g=m	
+24	,	,	PONCT	PONCT		
+25	une	une	DET	DET	n=s|g=f	
+26	espèce	espèce	NC	NC	n=s|g=f	
+27	en	en	P	P		
+28	danger	danger	NC	NC	n=s|g=m	
+29	d'	de	P	P		
+30	extinction	extinction	NC	NC	n=s|g=f	
+31	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	eucalyptus	eucalyptus	NC	NC	g=m	
+3	est	être	V	V	n=s|t=P|p=3	
+4	psychotrope	psychotrope	ADJ	ADJ	n=s	
+5	pour	pour	P	P		
+6	l'	le	DET	DET	n=s	
+7	Homme	_	NPP	NPP		
+8	(	(	PONCT	PONCT		
+9	il	il	CLS	CLS	n=s|g=m|p=3	
+10	agit	agir	V	V	n=s|t=J,P|p=3	
+11	sur	sur	P	P		
+12	le	le	DET	DET	n=s|g=m	
+13	cerveau	cerveau	NC	NC	n=s|g=m	
+14	)	)	PONCT	PONCT		
+15	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	koalas	koala	NC	NC	n=p|g=m	
+3	y	y	CLO	CLO		
+4	sont	être	V	V	n=p|t=P|p=3	
+5	plus	plus	ADV	ADV		
+6	ou	ou	CC	CC		
+7	moins	moins	ADV	ADV		
+8	insensibles	insensible	ADJ	ADJ	n=p	
+9	.	.	PONCT	PONCT		
+
+1	Ils	ils	CLS	CLS	n=p|g=m|p=3	
+2	dorment	dormir	V	V	n=p|t=P,S|p=3	
+3	plus	plus	ADV	ADV		
+4	de	de	P	P		
+5	20	20	ADJ	ADJ		
+6	heures	heure	NC	NC	n=p|g=f	
+7	par	par	P	P		
+8	jour	jour	NC	NC	n=s|g=m	
+9	:	:	PONCT	PONCT		
+10	ce	ce	DET	DET	n=s|g=m	
+11	temps	temps	NC	NC	g=m	
+12	est	être	V	V	n=s|t=P|p=3	
+13	nécessaire	nécessaire	ADJ	ADJ	n=s	
+14	pour	pour	P	P		
+15	leur	leur	DET	DET	n=s|p=3|poss=p	
+16	cerveau	cerveau	NC	NC	n=s|g=m	
+17	pour	pour	P	P		
+18	se	se	CLR	CLR	n=p,s|p=3	
+19	désintoxiquer	désintoxiquer	VINF	VINF	t=W	
+20	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	kangourou	kangourou	NC	NC	n=s|g=m	
+3	,	,	PONCT	PONCT		
+4	lui	lui	PRO	PRO	n=s|g=m|p=3	
+5	,	,	PONCT	PONCT		
+6	se	se	CLR	CLR	n=p,s|p=3	
+7	nourrit	nourrir	V	V	n=s|t=J,P|p=3	
+8	d'	de	P	P		
+9	herbe	herbe	NC	NC	n=s|g=f	
+10	comme	comme	P	P		
+11	le	le	DET	DET	n=s|g=m	
+12	mouton	mouton	NC	NC	n=s|g=m	
+13	et	et	CC	CC		
+14	,	,	PONCT	PONCT		
+15	parce	_	ADV	ADV		
+16	que	que	CS	CS		
+17	les	les	DET	DET	n=p	
+18	fermiers	fermier	NC	NC	n=p|g=m	
+19	ont	avoir	V	V	n=p|t=P|p=3	
+20	aménagé	aménager	VPP	VPP	n=s|g=m|t=K	
+21	d'	de	P	P		
+22	immenses	immense	ADJ	ADJ	n=p	
+23	prairies	prairie	NC	NC	n=p|g=f	
+24	pour	pour	P	P		
+25	leur	leur	DET	DET	n=s|p=3|poss=p	
+26	bétail	bétail	NC	NC	n=s|g=m	
+27	,	,	PONCT	PONCT		
+28	le	le	DET	DET	n=s|g=m	
+29	kangourou	kangourou	NC	NC	n=s|g=m	
+30	est	être	V	V	n=s|t=P|p=3	
+31	une	une	DET	DET	n=s|g=f	
+32	espèce	espèce	NC	NC	n=s|g=f	
+33	pullulante	_	ADJ	ADJ		
+34	.	.	PONCT	PONCT		
+
+1	C'	ce	CLS	CLS		
+2	est	être	V	V	n=s|t=P|p=3	
+3	un	un	DET	DET	n=s|g=m	
+4	animal	animal	NC	NC	n=s|g=m	
+5	très	très	ADV	ADV		
+6	gracieux	gracieux	ADJ	ADJ	g=m	
+7	,	,	PONCT	PONCT		
+8	qui	qui	PROREL	PROREL	n=s	
+9	se	se	CLR	CLR	n=p,s|p=3	
+10	déplace	déplacer	V	V	n=s|t=P,S|p=1,3	
+11	en	en	P	P		
+12	sautant	sauter	VPR	VPR	t=G	
+13	(	(	PONCT	PONCT		
+14	sauts	saut	NC	NC	n=p|g=m	
+15	de	de	P	P		
+16	2	2	NC	NC		
+17	-	-	PONCT	PONCT		
+18	3	3	ADJ	ADJ		
+19	m	_	NC	NC		
+20	de	de	P	P		
+21	haut	haut	NC	NC	n=s|g=m	
+22	parfois	parfois	ADV	ADV		
+23	)	)	PONCT	PONCT		
+24	sur	sur	P	P		
+25	ses	ses	DET	DET	n=p|p=3|poss=s	
+26	pattes	patte	NC	NC	n=p|g=f	
+27	arrière	arrière	ADJ	ADJ		
+28	,	,	PONCT	PONCT		
+29	et	et	CC	CC		
+30	très	très	ADV	ADV		
+31	rapide	rapide	ADJ	ADJ	n=s	
+32	(	(	PONCT	PONCT		
+33	fuite	fuite	NC	NC	n=s|g=f	
+34	à	à	P	P		
+35	plus	plus	ADV	ADV		
+36	de	de	P	P		
+37	60	60	ADJ	ADJ		
+38	km	kilomètre	NC	NC	g=m	
+39	/	/	PONCT	PONCT		
+40	h	heure	NC	NC	g=f	
+41	sur	sur	P	P		
+42	plusieurs	plusieurs	DET	DET	n=p	
+43	kilomètres	kilomètre	NC	NC	n=p|g=m	
+44	)	)	PONCT	PONCT		
+45	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	existe	exister	V	V	n=s|t=P,S|p=1,3	
+3	de	de	DET	DET	n=p	
+4	nombreuses	nombreux	ADJ	ADJ	n=p|g=f	
+5	espèces	espèce	NC	NC	n=p|g=f	
+6	différentes	différent	ADJ	ADJ	n=p|g=f	
+7	de	de	P	P		
+8	kangourous	kangourou	NC	NC	n=p|g=m	
+9	,	,	PONCT	PONCT		
+10	mais	mais	CC	CC		
+11	toutes	tout	PRO	PRO	n=p|g=f	
+12	vivent	vivre	V	V	n=p|t=P,S|p=3	
+13	en	en	P	P		
+14	Australie	Australie	NPP	NPP	n=s|g=f	
+15	.	.	PONCT	PONCT		
+
+1	Avant	avant	P	P		
+2	l'	le	DET	DET	n=s	
+3	arrivée	arrivée	NC	NC	n=s|g=f	
+4	des	de	P+D	P+D	n=p	
+5	Européens	européen	NC	NC	n=p|g=m	
+6	,	,	PONCT	PONCT		
+7	il	il	CLS	CLS	n=s|g=m|p=3	
+8	existait	exister	V	V	n=s|t=I|p=3	
+9	des	des	DET	DET	n=p	
+10	kangourous	kangourou	NC	NC	n=p|g=m	
+11	de	de	P	P		
+12	plus	plus	ADV	ADV		
+13	de	de	P	P		
+14	3	3	NC	NC		
+15	m	_	NPP	NPP		
+16	de	de	P	P		
+17	haut	haut	NC	NC	n=s|g=m	
+18	,	,	PONCT	PONCT		
+19	mais	mais	CC	CC		
+20	tous	tout	PRO	PRO	n=p|g=m	
+21	ont	avoir	V	V	n=p|t=P|p=3	
+22	été	être	VPP	VPP	t=K	
+23	tués	tuer	VPP	VPP	n=p|g=m|t=K	
+24	lors	lors	ADV	ADV		
+25	de	de	P	P		
+26	parties	partie	NC	NC	n=p|g=f	
+27	de	de	P	P		
+28	chasse	chasse	NC	NC	n=s|g=f	
+29	.	.	PONCT	PONCT		
+
+1	C'	ce	CLS	CLS		
+2	est	être	V	V	n=s|t=P|p=3	
+3	une	une	DET	DET	n=s|g=f	
+4	sorte	sorte	NC	NC	n=s|g=f	
+5	d'	de	P	P		
+6	autruche	autruche	NC	NC	n=s|g=f	
+7	qui	qui	PROREL	PROREL	n=s	
+8	est	être	V	V	n=s|t=P|p=3	
+9	,	,	PONCT	PONCT		
+10	avec	avec	P	P		
+11	le	le	DET	DET	n=s|g=m	
+12	kangourou	kangourou	NC	NC	n=s|g=m	
+13	,	,	PONCT	PONCT		
+14	le	le	DET	DET	n=s|g=m	
+15	symbole	symbole	NC	NC	n=s|g=m	
+16	du	de	P+D	P+D	n=s|g=m	
+17	pays	pays	NC	NC	g=m	
+18	.	.	PONCT	PONCT		
+
+1	C'	ce	CLS	CLS		
+2	est	être	V	V	n=s|t=P|p=3	
+3	un	un	DET	DET	n=s|g=m	
+4	animal	animal	NC	NC	n=s|g=m	
+5	nocturne	nocturne	ADJ	ADJ	n=s	
+6	,	,	PONCT	PONCT		
+7	farouche	farouche	ADJ	ADJ	n=s	
+8	et	et	CC	CC		
+9	presque	presque	ADV	ADV		
+10	insaisissable	insaisissable	ADJ	ADJ	n=s	
+11	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	fait	faire	V	V	n=s|t=P|p=3	
+3	partie	partie	NC	NC	n=s|g=f	
+4	des	de	P+D	P+D	n=p	
+5	seuls	seul	ADJ	ADJ	n=p|g=m	
+6	mammifères	mammifère	NC	NC	n=p|g=m	
+7	à	à	P	P		
+8	pondre	pondre	VINF	VINF	t=W	
+9	des	des	DET	DET	n=p	
+10	œufs	_	NC	NC		
+11	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	ornithorynque	ornithorynque	NC	NC	n=s|g=m	
+3	est	être	V	V	n=s|t=P|p=3	
+4	muni	munir	VPP	VPP	n=s|g=m|t=K	
+5	d'	de	P	P		
+6	aiguillons	aiguillon	NC	NC	n=p|g=m	
+7	venimeux	venimeux	ADJ	ADJ	g=m	
+8	,	,	PONCT	PONCT		
+9	d'	de	P	P		
+10	un	un	DET	DET	n=s|g=m	
+11	bec	bec	NC	NC	n=s|g=m	
+12	de	de	P	P		
+13	canard	canard	NC	NC	n=s|g=m	
+14	,	,	PONCT	PONCT		
+15	d'	de	P	P		
+16	une	une	DET	DET	n=s|g=f	
+17	queue	queue	NC	NC	n=s|g=f	
+18	de	de	P	P		
+19	castor	castor	NC	NC	n=s|g=m	
+20	et	et	CC	CC		
+21	des	de	P+D	P+D	n=p	
+22	pattes	patte	NC	NC	n=p|g=f	
+23	de	de	P	P		
+24	loutre	loutre	NC	NC	n=s|g=f	
+25	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	y	y	CLO	CLO		
+3	en	en	CLO	CLO		
+4	a	avoir	V	V	n=s|t=P|p=3	
+5	beaucoup	beaucoup	ADV	ADV		
+6	d'	de	DET	DET	n=p	
+7	autres	autres	PRO	PRO	n=p|g=f,m	
+8	.	.	PONCT	PONCT		
+
+1	De	de	DET	DET	n=p	
+2	nombreux	nombreux	ADJ	ADJ	g=m	
+3	cuniculiculteurs	_	NC	NC		
+4	ont	avoir	V	V	n=p|t=P|p=3	
+5	libérés	libérer	VPP	VPP	n=p|g=m|t=K	
+6	des	des	DET	DET	n=p	
+7	lapins	lapin	NC	NC	n=p|g=m	
+8	par	par	P	P		
+9	centaines	centaine	NC	NC	n=p|g=f	
+10	voire	voire	CC	CC		
+11	par	par	P	P		
+12	milliers	millier	NC	NC	n=p|g=m	
+13	en	en	P	P		
+14	Australie	Australie	NPP	NPP	n=s|g=f	
+15	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	se	se	CLR	CLR	n=p,s|p=3	
+3	sont	être	V	V	n=p|t=P|p=3	
+4	vite	vite	ADV	ADV		
+5	reproduits	reproduire	VPP	VPP	n=p|g=m|t=K	
+6	et	et	CC	CC		
+7	on	on	CLS	CLS	n=s|p=3	
+8	les	les	DET	DET	n=p	
+9	compte	compte	NC	NC	n=s|g=m	
+10	par	par	P	P		
+11	millions	million	NC	NC	n=p	
+12	.	.	PONCT	PONCT		
+
+1	On	on	CLS	CLS	n=s|p=3	
+2	peut	pouvoir	V	V	n=s|t=P|p=3	
+3	parfois	parfois	ADV	ADV		
+4	rencontrer	rencontrer	VINF	VINF	t=W	
+5	des	des	DET	DET	n=p	
+6	casoars	casoar	NC	NC	n=p|g=m	
+7	,	,	PONCT	PONCT		
+8	mais	mais	CC	CC		
+9	c'	ce	CLS	CLS		
+10	est	être	V	V	n=s|t=P|p=3	
+11	rare	rare	ADJ	ADJ	n=s	
+12	.	.	PONCT	PONCT		
+
+1	Ce	ce	CLS	CLS		
+2	sont	être	V	V	n=p|t=P|p=3	
+3	des	des	DET	DET	n=p	
+4	oiseaux	oiseau	NC	NC	n=p|g=m	
+5	très	très	ADV	ADV		
+6	discrets	discret	ADJ	ADJ	n=p|g=m	
+7	.	.	PONCT	PONCT		
+
+1	Uniquement	_	NC	NC		
+2	en	en	P	P		
+3	Tasmanie	_	NPP	NPP		
+4	,	,	PONCT	PONCT		
+5	on	on	CLS	CLS	n=s|p=3	
+6	peut	pouvoir	V	V	n=s|t=P|p=3	
+7	croiser	croiser	VINF	VINF	t=W	
+8	un	un	DET	DET	n=s|g=m	
+9	diable	diable	NC	NC	n=s|g=m	
+10	de	de	P	P		
+11	Tasmanie	_	NPP	NPP		
+12	.	.	PONCT	PONCT		
+
+1	Sur	sur	P	P		
+2	certaines	certain	DET	DET	n=p|g=f	
+3	plages	plage	NC	NC	n=p|g=f	
+4	,	,	PONCT	PONCT		
+5	on	on	CLS	CLS	n=s|p=3	
+6	y	y	CLO	CLO		
+7	trouve	trouver	V	V	n=s|t=P,S|p=1,3	
+8	les	les	DET	DET	n=p	
+9	crocodiles	crocodile	NC	NC	n=p|g=m	
+10	australiens	australien	ADJ	ADJ	n=p|g=m	
+11	d'	de	P	P		
+12	eaux	eau	NC	NC	n=p|g=f	
+13	salées	saler	VPP	VPP	n=p|g=f|t=K	
+14	.	.	PONCT	PONCT		
+
+1	Près	près	ADV	ADV		
+2	de	de	P	P		
+3	la	la	DET	DET	n=s|g=f	
+4	barrière	barrière	NC	NC	n=s|g=f	
+5	de	de	P	P		
+6	corail	corail	NC	NC	n=s|g=m	
+7	,	,	PONCT	PONCT		
+8	il	il	CLS	CLS	n=s|g=m|p=3	
+9	y	y	CLO	CLO		
+10	a	avoir	V	V	n=s|t=P|p=3	
+11	la	la	DET	DET	n=s|g=f	
+12	pieuvre	pieuvre	NC	NC	n=s|g=f	
+13	aux	à	P+D	P+D	n=p	
+14	anneaux	anneau	NC	NC	n=p|g=m	
+15	bleus	bleu	ADJ	ADJ	n=p|g=m	
+16	,	,	PONCT	PONCT		
+17	qui	qui	PROREL	PROREL	n=s	
+18	est	être	V	V	n=s|t=P|p=3	
+19	très	très	ADV	ADV		
+20	venimeuse	venimeux	ADJ	ADJ	n=s|g=f	
+21	.	.	PONCT	PONCT		
+
+1	Mais	mais	CC	CC		
+2	ce	ce	CLS	CLS		
+3	n'	ne	ADV	ADV		
+4	est	être	V	V	n=s|t=P|p=3	
+5	pas	pas	ADV	ADV		
+6	tout	tout	PRO	PRO	n=s|g=m	
+7	!	!	PONCT	PONCT		
+
+1	Omniprésent	omniprésent	ADJ	ADJ	n=s|g=m	
+2	,	,	PONCT	PONCT		
+3	cet	cet	DET	DET	n=s|g=m	
+4	arbre	arbre	NC	NC	n=s|g=m	
+5	nourrit	nourrir	V	V	n=s|t=J,P|p=3	
+6	et	et	CC	CC		
+7	abrite	abriter	V	V	n=s|t=P,S|p=1,3	
+8	de	de	DET	DET	n=p	
+9	nombreux	nombreux	ADJ	ADJ	g=m	
+10	animaux	animal	NC	NC	n=p|g=m	
+11	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	red	_	ADJ	ADJ		
+3	gum	gum	NC	NC	n=s|g=m	
+4	,	,	PONCT	PONCT		
+5	une	une	DET	DET	n=s|g=f	
+6	espèce	espèce	NC	NC	n=s|g=f	
+7	d'	de	P	P		
+8	eucalyptus	eucalyptus	NC	NC	g=m	
+9	,	,	PONCT	PONCT		
+10	fournit	fournir	V	V	n=s|t=J,P|p=3	
+11	un	un	DET	DET	n=s|g=m	
+12	bois	bois	NC	NC	g=m	
+13	de	de	P	P		
+14	très	très	ADV	ADV		
+15	bonne	bon	ADJ	ADJ	n=s|g=f	
+16	qualité	qualité	NC	NC	n=s|g=f	
+17	,	,	PONCT	PONCT		
+18	très	très	ADV	ADV		
+19	dur	dur	ADJ	ADJ	n=s|g=m	
+20	et	et	CC	CC		
+21	rouge	rouge	ADJ	ADJ	n=s	
+22	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	couleur	couleur	NC	NC	n=s|g=f	
+3	jaune	jaune	ADJ	ADJ	n=s	
+4	du	de	P+D	P+D	n=s|g=m	
+5	mimosa	mimosa	NC	NC	n=s|g=m	
+6	est	être	V	V	n=s|t=P|p=3	
+7	très	très	ADV	ADV		
+8	voyante	voyant	ADJ	ADJ	n=s|g=f	
+9	dans	dans	P	P		
+10	les	les	DET	DET	n=p	
+11	paysages	paysage	NC	NC	n=p|g=m	
+12	du	de	P+D	P+D	n=s|g=m	
+13	pays	pays	NC	NC	g=m	
+14	,	,	PONCT	PONCT		
+15	c'	ce	CLS	CLS		
+16	est	être	V	V	n=s|t=P|p=3	
+17	d'	de	P	P		
+18	ailleurs	ailleurs	ADV	ADV		
+19	une	une	DET	DET	n=s|g=f	
+20	couleur	couleur	NC	NC	n=s|g=f	
+21	reprise	reprendre	VPP	VPP	n=s|g=f|t=K	
+22	par	par	P	P		
+23	les	les	DET	DET	n=p	
+24	équipes	équipe	NC	NC	n=p|g=f	
+25	de	de	P	P		
+26	sport	sport	NC	NC	n=s|g=m	
+27	nationales	national	ADJ	ADJ	n=p|g=f	
+28	.	.	PONCT	PONCT		
+
+1	35	35	ADJ	ADJ		
+2	°	°	NC	NC	g=m	
+3	15	15	ADJ	ADJ		
+4	′	′	PONCT	PONCT		
+5	S	_	NPP	NPP		
+6	149	149	ADJ	ADJ		
+7	°	°	NC	NC	g=m	
+8	08	08	ADJ	ADJ		
+9	′	′	PONCT	PONCT		
+10	E	_	NPP	NPP		
+11	/	/	PONCT	PONCT		
+12	-35.25	-35.25	NPP	NPP		
+13	,	,	PONCT	PONCT		
+14	149.133	149.133	NPP	NPP		
+

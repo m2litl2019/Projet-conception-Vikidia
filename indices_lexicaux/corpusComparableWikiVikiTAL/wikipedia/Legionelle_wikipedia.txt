@@ -1,0 +1,2421 @@
+1	GenreLes	_	NPP	NPP		
+2	bactéries	bactérie	NC	NC	n=p|g=f	
+3	du	de	P+D	P+D	n=s|g=m	
+4	genre	genre	NC	NC	n=s|g=m	
+5	Legionella	_	NPP	NPP		
+6	,	,	PONCT	PONCT		
+7	les	les	DET	DET	n=p	
+8	légionelles	_	NC	NC		
+9	,	,	PONCT	PONCT		
+10	sont	être	V	V	n=p|t=P|p=3	
+11	des	des	DET	DET	n=p	
+12	bacilles	bacille	NC	NC	n=p|g=m	
+13	à	à	P	P		
+14	Gram	_	NPP	NPP		
+15	négatif	négatif	ADJ	ADJ	n=s|g=m	
+16	.	.	PONCT	PONCT		
+
+1	Ce	ce	CLS	CLS		
+2	sont	être	V	V	n=p|t=P|p=3	
+3	des	des	DET	DET	n=p	
+4	bactéries	bactérie	NC	NC	n=p|g=f	
+5	naturellement	_	ADV	ADV		
+6	présentes	présent	ADJ	ADJ	n=p|g=f	
+7	dans	dans	P	P		
+8	l'	le	DET	DET	n=s	
+9	eau	eau	NC	NC	n=s|g=f	
+10	et	et	CC	CC		
+11	dans	dans	P	P		
+12	les	les	DET	DET	n=p	
+13	boues	boue	NC	NC	n=p|g=f	
+14	,	,	PONCT	PONCT		
+15	responsables	responsable	ADJ	ADJ	n=p	
+16	d'	de	P	P		
+17	une	une	DET	DET	n=s|g=f	
+18	maladie	maladie	NC	NC	n=s|g=f	
+19	respiratoire	respiratoire	ADJ	ADJ	n=s	
+20	,	,	PONCT	PONCT		
+21	la	la	DET	DET	n=s|g=f	
+22	légionellose	_	NC	NC		
+23	.	.	PONCT	PONCT		
+
+1	Elles	elles	CLS	CLS	n=p|g=f|p=3	
+2	colonisent	coloniser	V	V	n=p|t=P,S|p=3	
+3	fréquemment	_	ADV	ADV		
+4	les	les	DET	DET	n=p	
+5	réseaux	réseau	NC	NC	n=p|g=m	
+6	d'	de	P	P		
+7	eau	eau	NC	NC	n=s|g=f	
+8	,	,	PONCT	PONCT		
+9	notamment	_	ADV	ADV		
+10	les	les	DET	DET	n=p	
+11	réseaux	réseau	NC	NC	n=p|g=m	
+12	d'	de	P	P		
+13	eau	eau	NC	NC	n=s|g=f	
+14	chaude	chaud	ADJ	ADJ	n=s|g=f	
+15	sanitaire	sanitaire	ADJ	ADJ	n=s	
+16	,	,	PONCT	PONCT		
+17	les	les	DET	DET	n=p	
+18	installations	installation	NC	NC	n=p|g=f	
+19	de	de	P	P		
+20	climatisation	climatisation	NC	NC	n=s|g=f	
+21	ainsi	ainsi	ADV	ADV		
+22	que	que	CS	CS		
+23	les	les	DET	DET	n=p	
+24	tours	tour	NC	NC	n=p	
+25	aéroréfrigérantes	_	NPP	NPP		
+26	(	(	PONCT	PONCT		
+27	TAR	_	NPP	NPP		
+28	)	)	PONCT	PONCT		
+29	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	légionelles	_	NC	NC		
+3	se	se	CLR	CLR	n=p,s|p=3	
+4	développent	développer	V	V	n=p|t=P,S|p=3	
+5	et	et	CC	CC		
+6	prolifèrent	proliférer	V	V	n=p|t=P,S|p=3	
+7	:	:	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	légionelles	_	NC	NC		
+3	se	se	CLR	CLR	n=p,s|p=3	
+4	multiplient	multiplier	V	V	n=p|t=P,S|p=3	
+5	faiblement	_	ADV	ADV		
+6	en	en	P	P		
+7	dessous	dessous	NC	NC	g=m	
+8	de	de	P	P		
+9	20	20	NC	NC		
+10	°C	_	NPP	NPP		
+11	,	,	PONCT	PONCT		
+12	arrêtent	arrêter	V	V	n=p|t=P,S|p=3	
+13	de	de	P	P		
+14	se	se	CLR	CLR	n=p,s|p=3	
+15	reproduire	reproduire	VINF	VINF	t=W	
+16	à	à	P	P		
+17	55	55	NC	NC		
+18	°C	_	NPP	NPP		
+19	et	et	CC	CC		
+20	sont	être	V	V	n=p|t=P|p=3	
+21	détruites	détruire	VPP	VPP	n=p|g=f|t=K	
+22	à	à	P	P		
+23	partir	partir	VINF	VINF	t=W	
+24	de	de	P	P		
+25	60	60	NC	NC		
+26	°C	_	NPP	NPP		
+27	(	(	PONCT	PONCT		
+28	selon	selon	P	P		
+29	un	un	DET	DET	n=s|g=m	
+30	temps	temps	NC	NC	g=m	
+31	de	de	P	P		
+32	contact	contact	NC	NC	n=s|g=m	
+33	bien	bien	ADV	ADV		
+34	précis	précis	ADJ	ADJ	g=m	
+35	)	)	PONCT	PONCT		
+36	pour	pour	P	P		
+37	une	une	DET	DET	n=s|g=f	
+38	destruction	destruction	NC	NC	n=s|g=f	
+39	instantanée	instantané	ADJ	ADJ	n=s|g=f	
+40	à	à	P	P		
+41	partir	partir	VINF	VINF	t=W	
+42	de	de	P	P		
+43	70	70	NC	NC		
+44	−	_	NPP	NPP		
+45	74	74	NC	NC		
+46	°C	_	NPP	NPP		
+47	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	présence	présence	NC	NC	n=s|g=f	
+3	de	de	P	P		
+4	légionelles	_	NC	NC		
+5	dans	dans	P	P		
+6	l'	le	DET	DET	n=s	
+7	eau	eau	NC	NC	n=s|g=f	
+8	n'	ne	ADV	ADV		
+9	est	être	V	V	n=s|t=P|p=3	
+10	pas	pas	ADV	ADV		
+11	une	une	DET	DET	n=s|g=f	
+12	condition	condition	NC	NC	n=s|g=f	
+13	suffisante	suffisant	ADJ	ADJ	n=s|g=f	
+14	pour	pour	P	P		
+15	provoquer	provoquer	VINF	VINF	t=W	
+16	la	la	DET	DET	n=s|g=f	
+17	maladie	maladie	NC	NC	n=s|g=f	
+18	.	.	PONCT	PONCT		
+
+1	Trois	trois	DET	DET	s=card|n=p	
+2	facteurs	facteur	NC	NC	n=p|g=m	
+3	doivent	devoir	V	V	n=p|t=P,S|p=3	
+4	être	être	VINF	VINF	t=W	
+5	réunis	réunir	VPP	VPP	n=p|g=m|t=K	
+6	:	:	PONCT	PONCT		
+
+1	Aucun	aucun	DET	DET	n=s|g=m	
+2	cas	cas	NC	NC	g=m	
+3	de	de	P	P		
+4	légionellose	_	NC	NC		
+5	n'	ne	ADV	ADV		
+6	a	avoir	V	V	n=s|t=P|p=3	
+7	été	être	VPP	VPP	t=K	
+8	diagnostiqué	diagnostiquer	VPP	VPP	n=s|g=m|t=K	
+9	à	à	P	P		
+10	la	la	DET	DET	n=s|g=f	
+11	suite	suite	NC	NC	n=s|g=f	
+12	de	de	P	P		
+13	l'	le	DET	DET	n=s	
+14	ingestion	ingestion	NC	NC	n=s|g=f	
+15	d'	de	P	P		
+16	eau	eau	NC	NC	n=s|g=f	
+17	contaminée	contaminer	VPP	VPP	n=s|g=f|t=K	
+18	,	,	PONCT	PONCT		
+19	de	de	P	P		
+20	même	même	ADV	ADV		
+21	qu'	que	CS	CS		
+22	aucun	aucun	DET	DET	n=s|g=m	
+23	cas	cas	NC	NC	g=m	
+24	de	de	P	P		
+25	transmission	transmission	NC	NC	n=s|g=f	
+26	interhumaine	_	ADJ	ADJ		
+27	n'	ne	ADV	ADV		
+28	a	avoir	V	V	n=s|t=P|p=3	
+29	été	être	VPP	VPP	t=K	
+30	signalé	signaler	VPP	VPP	n=s|g=m|t=K	
+31	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	quantité	quantité	NC	NC	n=s|g=f	
+3	d'	de	P	P		
+4	inoculum	_	NC	NC		
+5	bactérien	bactérien	ADJ	ADJ	n=s|g=m	
+6	ne	ne	ADV	ADV		
+7	semble	sembler	V	V	n=s|t=P,S|p=1,3	
+8	pas	pas	ADV	ADV		
+9	influencer	influencer	VINF	VINF	t=W	
+10	le	le	DET	DET	n=s|g=m	
+11	développement	développement	NC	NC	n=s|g=m	
+12	de	de	P	P		
+13	la	la	DET	DET	n=s|g=f	
+14	légionellose	_	NC	NC		
+15	.	.	PONCT	PONCT		
+
+1	Enfin	enfin	ADV	ADV		
+2	,	,	PONCT	PONCT		
+3	des	des	DET	DET	n=p	
+4	facteurs	facteur	NC	NC	n=p|g=m	
+5	climatiques	climatique	ADJ	ADJ	n=p	
+6	ont	avoir	V	V	n=p|t=P|p=3	
+7	été	être	VPP	VPP	t=K	
+8	incriminés	incriminer	VPP	VPP	n=p|g=m|t=K	
+9	(	(	PONCT	PONCT		
+10	fortes	fort	ADJ	ADJ	n=p|g=f	
+11	pluies	pluie	NC	NC	n=p|g=f	
+12	et	et	CC	CC		
+13	humidité	humidité	NC	NC	n=s|g=f	
+14	,	,	PONCT	PONCT		
+15	recrudescence	recrudescence	NC	NC	n=s|g=f	
+16	des	de	P+D	P+D	n=p	
+17	cas	cas	NC	NC	g=m	
+18	en	en	P	P		
+19	été	été	NC	NC	n=s|g=m	
+20	)	)	PONCT	PONCT		
+21	.	.	PONCT	PONCT		
+
+1	Par	par	P	P		
+2	ailleurs	ailleurs	ADV	ADV		
+3	,	,	PONCT	PONCT		
+4	des	des	DET	DET	n=p	
+5	facteurs	facteur	NC	NC	n=p|g=m	
+6	de	de	P	P		
+7	susceptibilité	susceptibilité	NC	NC	n=s|g=f	
+8	liés	lier	VPP	VPP	n=p|g=m|t=K	
+9	à	à	P	P		
+10	l'	le	DET	DET	n=s	
+11	hôte	hôte	NC	NC	n=s|g=m	
+12	humain	humain	ADJ	ADJ	n=s|g=m	
+13	sont	être	V	V	n=p|t=P|p=3	
+14	requis	requérir	VPP	VPP	n=p,s|g=m|t=K	
+15	pour	pour	P	P		
+16	le	le	DET	DET	n=s|g=m	
+17	développement	développement	NC	NC	n=s|g=m	
+18	de	de	P	P		
+19	la	la	DET	DET	n=s|g=f	
+20	maladie	maladie	NC	NC	n=s|g=f	
+21	,	,	PONCT	PONCT		
+22	bien	bien	ADV	ADV		
+23	qu'	que	CS	CS		
+24	incomplètement	_	NC	NC		
+25	compris	comprendre	VPP	VPP	g=m|t=K	
+26	actuellement	_	ADV	ADV		
+27	.	.	PONCT	PONCT		
+
+1	Des	des	DET	DET	n=p	
+2	facteurs	facteur	NC	NC	n=p|g=m	
+3	de	de	P	P		
+4	risque	risque	NC	NC	n=s|g=m	
+5	sont	être	V	V	n=p|t=P|p=3	
+6	toutefois	toutefois	ADV	ADV		
+7	individualisables	individualisable	ADJ	ADJ	n=p	
+8	:	:	PONCT	PONCT		
+9	âge	âge	NC	NC	n=s|g=m	
+10	avancé	avancer	VPP	VPP	n=s|g=m|t=K	
+11	,	,	PONCT	PONCT		
+12	déficit	déficit	NC	NC	n=s|g=m	
+13	de	de	P	P		
+14	l'	le	DET	DET	n=s	
+15	immunité	immunité	NC	NC	n=s|g=f	
+16	(	(	PONCT	PONCT		
+17	cancer	cancer	NC	NC	n=s|g=m	
+18	/	/	PONCT	PONCT		
+19	hémopathie	hémopathie	NC	NC	n=s|g=f	
+20	,	,	PONCT	PONCT		
+21	diabète	diabète	NC	NC	n=s|g=m	
+22	)	)	PONCT	PONCT		
+23	mais	mais	CC	CC		
+24	surtout	surtout	ADV	ADV		
+25	tabagisme	tabagisme	NC	NC	n=s|g=m	
+26	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	infection	infection	NC	NC	n=s|g=f	
+3	est	être	V	V	n=s|t=P|p=3	
+4	exceptionnellement	_	ADV	ADV		
+5	décrite	décrire	VPP	VPP	n=s|g=f|t=K	
+6	chez	chez	P	P		
+7	l'	le	DET	DET	n=s	
+8	enfant	enfant	NC	NC	n=s	
+9	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	seuil	seuil	NC	NC	n=s|g=m	
+3	limite	limiter	V	V	n=s|t=P,S|p=1,3	
+4	à	à	P	P		
+5	ne	ne	ADV	ADV		
+6	pas	pas	ADV	ADV		
+7	dépasser	dépasser	VINF	VINF	t=W	
+8	est	être	V	V	n=s|t=P|p=3	
+9	de	de	P	P		
+10	1_000	1_000	ADJ	ADJ		
+11	UFC	_	NC	NC		
+12	/	/	PONCT	PONCT		
+13	litre	litre	NC	NC	n=s	
+14	de	de	P	P		
+15	Legionella	_	NPP	NPP		
+16	pneumophila	_	NPP	NPP		
+17	pour	pour	P	P		
+18	l'	le	DET	DET	n=s	
+19	eau	eau	NC	NC	n=s|g=f	
+20	chaude	chaud	ADJ	ADJ	n=s|g=f	
+21	sanitaire	sanitaire	ADJ	ADJ	n=s	
+22	(	(	PONCT	PONCT		
+23	ECS	_	NPP	NPP		
+24	)	)	PONCT	PONCT		
+25	et	et	CC	CC		
+26	pour	pour	P	P		
+27	les	les	DET	DET	n=p	
+28	tours	tour	NC	NC	n=p	
+29	aéroréfrigérantes	_	NPP	NPP		
+30	(	(	PONCT	PONCT		
+31	TAR	_	NPP	NPP		
+32	)	)	PONCT	PONCT		
+33	,	,	PONCT	PONCT		
+34	nouvelle	nouveau	ADJ	ADJ	n=s|g=f	
+35	norme	norme	NC	NC	n=s|g=f	
+36	AFNOR	_	NPP	NPP		
+37	NF	_	NPP	NPP		
+38	T90	_	NPP	NPP		
+39	-431	-431	NPP	NPP		
+40	de	de	P	P		
+41	novembre	novembre	NC	NC	n=s|g=m	
+42	2014	2014	NC	NC		
+43	,	,	PONCT	PONCT		
+44	révisée	réviser	VPP	VPP	n=s|g=f|t=K	
+45	en	en	P	P		
+46	août	août	NC	NC	n=s|g=m	
+47	2017	2017	ADJ	ADJ		
+48	[	[	PONCT	PONCT		
+49	réf	_	NC	NC		
+50	.	.	PONCT	PONCT		
+
+1	souhaitée	souhaiter	VPP	VPP	n=s|g=f|t=K	
+2	]	]	PONCT	PONCT		
+3	.	.	PONCT	PONCT		
+
+1	Pour	pour	P	P		
+2	les	les	DET	DET	n=p	
+3	TAR	_	NPP	NPP		
+4	,	,	PONCT	PONCT		
+5	3	3	ADJ	ADJ		
+6	seuils	seuil	NC	NC	n=p|g=m	
+7	sont	être	V	V	n=p|t=P|p=3	
+8	mis	mettre	VPP	VPP	g=m|t=K	
+9	en	en	P	P		
+10	place	place	NC	NC	n=s|g=f	
+11	:	:	PONCT	PONCT		
+12	<	<	P	P		
+13	1_000	1_000	ADJ	ADJ		
+14	UFC	_	NC	NC		
+15	/	/	PONCT	PONCT		
+16	l	_	NPP	NPP		
+17	;	;	PONCT	PONCT		
+18	entre	entre	P	P		
+19	1_000	1_000	NPP	NPP		
+20	et	et	CC	CC		
+21	100_000	100_000	ADJ	ADJ		
+22	UFC	_	NC	NC		
+23	/	/	PONCT	PONCT		
+24	l	_	NPP	NPP		
+25	et	et	CC	CC		
+26	>	>	P	P		
+27	100_000	100_000	NPP	NPP		
+28	UFC	_	NPP	NPP		
+29	/	/	PONCT	PONCT		
+30	l	_	NPP	NPP		
+31	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	2	2	ADJ	ADJ		
+3	derniers	dernier	ADJ	ADJ	n=p|g=m	
+4	seuils	seuil	NC	NC	n=p|g=m	
+5	nécessitent	nécessiter	V	V	n=p|t=P,S|p=3	
+6	de	de	P	P		
+7	la	la	DET	DET	n=s|g=f	
+8	part	part	NC	NC	n=s	
+9	de	de	P	P		
+10	l'	le	DET	DET	n=s	
+11	exploitant	exploitant	NC	NC	n=s|g=m	
+12	des	de	P+D	P+D	n=p	
+13	actions	action	NC	NC	n=p|g=f	
+14	curatives	curatif	ADJ	ADJ	n=p|g=f	
+15	.	.	PONCT	PONCT		
+
+1	Enfin	enfin	ADV	ADV		
+2	,	,	PONCT	PONCT		
+3	les	les	DET	DET	n=p	
+4	résultats	résultat	NC	NC	n=p|g=m	
+5	peuvent	pouvoir	V	V	n=p|t=P|p=3	
+6	être	être	VINF	VINF	t=W	
+7	rendus	rendre	VPP	VPP	n=p|g=m|t=K	
+8	sous	sous	P	P		
+9	la	la	DET	DET	n=s|g=f	
+10	forme	forme	NC	NC	n=s|g=f	
+11	de	de	P	P		
+12	Flore	_	NPP	NPP		
+13	interférente	_	ADJ	ADJ		
+14	.	.	PONCT	PONCT		
+
+1	On	on	CLS	CLS	n=s|p=3	
+2	estime	estimer	V	V	n=s|t=P,S|p=1,3	
+3	,	,	PONCT	PONCT		
+4	en	en	P	P		
+5	Europe	Europe	NPP	NPP	n=s|g=f	
+6	,	,	PONCT	PONCT		
+7	que	que	CS	CS		
+8	90	90	NC	NC		
+9	%	%	NC	NC	g=m	
+10	des	de	P+D	P+D	n=p	
+11	légionelloses	_	NC	NC		
+12	sont	être	V	V	n=p|t=P|p=3	
+13	liées	lier	VPP	VPP	n=p|g=f|t=K	
+14	à	à	P	P		
+15	l'	le	DET	DET	n=s	
+16	espèce	espèce	NC	NC	n=s|g=f	
+17	L	_	NPP	NPP		
+18	.	.	PONCT	PONCT		
+19	pneumophila	_	NPP	NPP		
+20	et	et	CC	CC		
+21	qu'	que	PROWH	PROWH		
+22	en	en	P	P		
+23	moyenne	moyenne	NC	NC	n=s|g=f	
+24	85	85	ADJ	ADJ		
+25	%	%	NC	NC	g=m	
+26	sont	être	V	V	n=p|t=P|p=3	
+27	exclusivement	_	ADV	ADV		
+28	dues	devoir	VPP	VPP	n=p|g=f|t=K	
+29	au	à	P+D	P+D	n=s|g=m	
+30	sérogroupe	_	NC	NC		
+31	1	1	ADJ	ADJ		
+32	[	[	PONCT	PONCT		
+33	7	7	ADJ	ADJ		
+34	]	]	PONCT	PONCT		
+35	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	sérogroupes	_	NC	NC		
+3	2	2	ADJ	ADJ		
+4	à	à	P	P		
+5	15	15	NC	NC		
+6	se	se	CLR	CLR	n=p,s|p=3	
+7	partagent	partager	V	V	n=p|t=P,S|p=3	
+8	les	les	DET	DET	n=p	
+9	10	10	ADJ	ADJ		
+10	%	%	NC	NC	g=m	
+11	restants	restant	ADJ	ADJ	n=p|g=m	
+12	.	.	PONCT	PONCT		
+
+1	Au	à	P+D	P+D	n=s|g=m	
+2	contraire	contraire	NC	NC	n=s|g=m	
+3	,	,	PONCT	PONCT		
+4	en	en	P	P		
+5	Australie	Australie	NPP	NPP	n=s|g=f	
+6	,	,	PONCT	PONCT		
+7	c'	ce	CLS	CLS		
+8	est	être	V	V	n=s|t=P|p=3	
+9	l'	le	DET	DET	n=s	
+10	espèce	espèce	NC	NC	n=s|g=f	
+11	longbeachae	_	ADJ	ADJ		
+12	qui	qui	PROREL	PROREL	n=s	
+13	est	être	V	V	n=s|t=P|p=3	
+14	responsable	responsable	ADJ	ADJ	n=s	
+15	de	de	P	P		
+16	la	la	DET	DET	n=s|g=f	
+17	majorité	majorité	NC	NC	n=s|g=f	
+18	des	de	P+D	P+D	n=p	
+19	cas	cas	NC	NC	g=m	
+20	de	de	P	P		
+21	légionellose	_	NC	NC		
+22	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	existe	exister	V	V	n=s|t=P,S|p=1,3	
+3	enfin	enfin	ADV	ADV		
+4	51	51	NC	NC		
+5	autres	autre	ADJ	ADJ	n=p	
+6	espèces	espèce	NC	NC	n=p|g=f	
+7	dans	dans	P	P		
+8	le	le	DET	DET	n=s|g=m	
+9	genre	genre	NC	NC	n=s|g=m	
+10	Legionella	_	NPP	NPP		
+11	que	que	PROREL	PROREL		
+12	l'	le	DET	DET	n=s	
+13	on	on	CLS	CLS	n=s|p=3	
+14	appelle	appeler	V	V	n=s|t=P,S|p=1,3	
+15	couramment	_	ADV	ADV		
+16	Legionella	_	NPP	NPP		
+17	spp	_	NPP	NPP		
+18	et	et	CC	CC		
+19	dont	dont	PROREL	PROREL		
+20	le	le	DET	DET	n=s|g=m	
+21	risque	risque	NC	NC	n=s|g=m	
+22	infectieux	infectieux	ADJ	ADJ	g=m	
+23	est	être	V	V	n=s|t=P|p=3	
+24	discuté	discuter	VPP	VPP	n=s|g=m|t=K	
+25	par	par	P	P		
+26	les	les	DET	DET	n=p	
+27	hygiénistes	hygiéniste	NC	NC	n=p	
+28	et	et	CC	CC		
+29	infectiologues	infectiologue	NC	NC	n=p|g=m	
+30	.	.	PONCT	PONCT		
+
+1	Cependant	cependant	ADV	ADV		
+2	la	la	DET	DET	n=s|g=f	
+3	présence	présence	NC	NC	n=s|g=f	
+4	de	de	P	P		
+5	Legionella	_	NPP	NPP		
+6	spp	_	NPP	NPP		
+7	,	,	PONCT	PONCT		
+8	démontre	démontrer	V	V	n=s|t=P,S|p=1,3	
+9	que	que	CS	CS		
+10	les	les	DET	DET	n=p	
+11	conditions	condition	NC	NC	n=p|g=f	
+12	du	de	P+D	P+D	n=s|g=m	
+13	réseau	réseau	NC	NC	n=s|g=m	
+14	sont	être	V	V	n=p|t=P|p=3	
+15	optimales	optimal	ADJ	ADJ	n=p|g=f	
+16	à	à	P	P		
+17	la	la	DET	DET	n=s|g=f	
+18	multiplication	multiplication	NC	NC	n=s|g=f	
+19	de	de	P	P		
+20	légionelles	_	NPP	NPP		
+21	et	et	CC	CC		
+22	donc	donc	ADV	ADV		
+23	potentiellement	_	ADV	ADV		
+24	de	de	P	P		
+25	Legionella	_	NPP	NPP		
+26	pneumophila	_	NPP	NPP		
+27	.	.	PONCT	PONCT		
+
+1	On	on	CLS	CLS	n=s|p=3	
+2	compte	compter	V	V	n=s|t=P,S|p=1,3	
+3	environ	environ	ADV	ADV		
+4	6_000	6_000	ADJ	ADJ		
+5	cas	cas	NC	NC	g=m	
+6	par	par	P	P		
+7	an	an	NC	NC	n=s|g=m	
+8	en	en	P	P		
+9	Europe	Europe	NPP	NPP	n=s|g=f	
+10	et	et	CC	CC		
+11	entre	entre	P	P		
+12	1_200	1_200	ADJ	ADJ		
+13	cas	cas	NC	NC	g=m	
+14	et	et	CC	CC		
+15	1600	1600	ADJ	ADJ		
+16	cas	cas	NC	NC	g=m	
+17	par	par	P	P		
+18	an	an	NC	NC	n=s|g=m	
+19	en	en	P	P		
+20	France	France	NPP	NPP	n=s|g=f,m	
+21	[	[	PONCT	PONCT		
+22	7	7	ADJ	ADJ		
+23	]	]	PONCT	PONCT		
+24	avec	avec	P	P		
+25	un	un	DET	DET	n=s|g=m	
+26	taux	taux	NC	NC	g=m	
+27	de	de	P	P		
+28	mortalité	mortalité	NC	NC	n=s|g=f	
+29	qui	qui	PROREL	PROREL	n=s	
+30	oscille	osciller	V	V	n=s|t=P,S|p=1,3	
+31	entre	entre	P	P		
+32	10	10	NC	NC		
+33	et	et	CC	CC		
+34	15	15	ADJ	ADJ		
+35	%	%	NC	NC	g=m	
+36	malgré	malgré	P	P		
+37	un	un	DET	DET	n=s|g=m	
+38	traitement	traitement	NC	NC	n=s|g=m	
+39	antibiotique	antibiotique	ADJ	ADJ	n=s	
+40	adapté	adapter	ADJ	ADJ	n=s|g=m|t=K	
+41	(	(	PONCT	PONCT		
+42	143	143	ADJ	ADJ		
+43	décès	décès	NC	NC	g=m	
+44	pour	pour	P	P		
+45	1_262	1_262	NC	NC		
+46	cas	cas	NC	NC	g=m	
+47	déclarés	déclarer	VPP	VPP	n=p|g=m|t=K	
+48	en	en	P	P		
+49	2013	2013	NC	NC		
+50	et	et	CC	CC		
+51	dont	dont	PROREL	PROREL		
+52	l'	le	DET	DET	n=s	
+53	évolution	évolution	NC	NC	n=s|g=f	
+54	n'	ne	ADV	ADV		
+55	est	être	V	V	n=s|t=P|p=3	
+56	connue	connaître	VPP	VPP	n=s|g=f|t=K	
+57	que	que	CS	CS		
+58	pour	pour	P	P		
+59	1_168	1_168	NC	NC		
+60	cas	cas	NC	NC	g=m	
+61	,	,	PONCT	PONCT		
+62	soit	soit	CC	CC		
+63	une	une	DET	DET	n=s|g=f	
+64	létalité	létalité	NC	NC	n=s|g=f	
+65	de	de	P	P		
+66	12,2	12,2	NC	NC		
+67	%	%	NC	NC	g=m	
+68	[	[	PONCT	PONCT		
+69	8	8	NC	NC		
+70	]	]	PONCT	PONCT		
+71	)	)	PONCT	PONCT		
+72	(	(	PONCT	PONCT		
+73	fluoroquinolones	_	NPP	NPP		
+74	ou	ou	CC	CC		
+75	macrolides	_	NC	NC		
+76	)	)	PONCT	PONCT		
+77	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	Legionella	_	NPP	NPP		
+3	sont	être	V	V	n=p|t=P|p=3	
+4	d'	de	P	P		
+5	origine	origine	NC	NC	n=s|g=f	
+6	hydro	_	NPP	NPP		
+7	-	-	PONCT	PONCT		
+8	telluriques	tellurique	ADJ	ADJ	n=p	
+9	.	.	PONCT	PONCT		
+
+1	Leur	leur	DET	DET	n=s|p=3|poss=p	
+2	habitat	habitat	NC	NC	n=s|g=m	
+3	naturel	naturel	ADJ	ADJ	n=s|g=m	
+4	est	être	V	V	n=s|t=P|p=3	
+5	représenté	représenter	VPP	VPP	n=s|g=m|t=K	
+6	par	par	P	P		
+7	les	les	DET	DET	n=p	
+8	milieux	milieu	NC	NC	n=p|g=m	
+9	aquatiques	aquatique	ADJ	ADJ	n=p	
+10	naturels	naturel	ADJ	ADJ	n=p|g=m	
+11	ou	ou	CC	CC		
+12	artificiels	artificiel	ADJ	ADJ	n=p|g=m	
+13	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	y	y	CLO	CLO		
+3	réside	résider	V	V	n=s|t=P,S|p=1,3	
+4	,	,	PONCT	PONCT		
+5	entre	entre	P	P		
+6	autres	autres	PRO	PRO	n=p|g=f,m	
+7	,	,	PONCT	PONCT		
+8	dans	dans	P	P		
+9	les	les	DET	DET	n=p	
+10	biofilms	_	NC	NC		
+11	[	[	PONCT	PONCT		
+12	9	9	ADJ	ADJ		
+13	]	]	PONCT	PONCT		
+14	,	,	PONCT	PONCT		
+15	[	[	PONCT	PONCT		
+16	10	10	ADJ	ADJ		
+17	]	]	PONCT	PONCT		
+18	(	(	PONCT	PONCT		
+19	résidus	résidu	NC	NC	n=p|g=m	
+20	organiques	organique	ADJ	ADJ	n=p	
+21	et	et	CC	CC		
+22	micro	micro	NC	NC	n=s|g=m	
+23	-	-	PONCT	PONCT		
+24	organiques	organique	ADJ	ADJ	n=p	
+25	formés	former	VPP	VPP	n=p|g=m|t=K	
+26	dans	dans	P	P		
+27	les	les	DET	DET	n=p	
+28	canalisations	canalisation	NC	NC	n=p|g=f	
+29	et	et	CC	CC		
+30	à	à	P	P		
+31	la	la	DET	DET	n=s|g=f	
+32	surface	surface	NC	NC	n=s|g=f	
+33	des	de	P+D	P+D	n=p	
+34	eaux	eau	NC	NC	n=p|g=f	
+35	stagnantes	stagnant	ADJ	ADJ	n=p|g=f	
+36	)	)	PONCT	PONCT		
+37	qui	qui	PROREL	PROREL	n=s	
+38	la	la	CLO	CLO	n=s|g=f|p=3	
+39	protègent	protéger	V	V	n=p|t=P,S|p=3	
+40	de	de	P	P		
+41	la	la	DET	DET	n=s|g=f	
+42	chloration	chloration	NC	NC	n=s|g=f	
+43	et	et	CC	CC		
+44	semble	sembler	V	V	n=s|t=P,S|p=1,3	
+45	jouer	jouer	VINF	VINF	t=W	
+46	un	un	DET	DET	n=s|g=m	
+47	rôle	rôle	NC	NC	n=s|g=m	
+48	important	important	ADJ	ADJ	n=s|g=m	
+49	pour	pour	P	P		
+50	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+51	survie	survie	NC	NC	n=s|g=f	
+52	dans	dans	P	P		
+53	les	les	DET	DET	n=p	
+54	installations	installation	NC	NC	n=p|g=f	
+55	[	[	PONCT	PONCT		
+56	11	11	NC	NC		
+57	]	]	PONCT	PONCT		
+58	.	.	PONCT	PONCT		
+
+1	On	on	CLS	CLS	n=s|p=3	
+2	en	en	CLO	CLO		
+3	trouve	trouver	V	V	n=s|t=P,S|p=1,3	
+4	y	y	CLO	CLO		
+5	compris	comprendre	VPP	VPP	g=m|t=K	
+6	dans	dans	P	P		
+7	les	les	DET	DET	n=p	
+8	biofilms	_	NC	NC		
+9	de	de	P	P		
+10	réseaux	réseau	NC	NC	n=p|g=m	
+11	d'	de	P	P		
+12	eau	eau	NC	NC	n=s|g=f	
+13	domestiques	domestique	ADJ	ADJ	n=p	
+14	,	,	PONCT	PONCT		
+15	parfois	parfois	ADV	ADV		
+16	associée	associer	VPP	VPP	n=s|g=f|t=K	
+17	à	à	P	P		
+18	Pseudomonas	_	NPP	NPP		
+19	aeruginosa	_	NPP	NPP		
+20	[	[	PONCT	PONCT		
+21	12	12	ADJ	ADJ		
+22	]	]	PONCT	PONCT		
+23	.	.	PONCT	PONCT		
+
+1	Outre	outre	P	P		
+2	la	la	DET	DET	n=s|g=f	
+3	nature	nature	NC	NC	n=s|g=f	
+4	de	de	P	P		
+5	l'	le	DET	DET	n=s	
+6	eau	eau	NC	NC	n=s|g=f	
+7	(	(	PONCT	PONCT		
+8	acidité	acidité	NC	NC	n=s|g=f	
+9	,	,	PONCT	PONCT		
+10	minéralisation	minéralisation	NC	NC	n=s|g=f	
+11	,	,	PONCT	PONCT		
+12	teneur	_	NC	NC		
+13	en	en	P	P		
+14	matières	matière	NC	NC	n=p|g=f	
+15	organiques	organique	ADJ	ADJ	n=p	
+16	et	et	CC	CC		
+17	nutriments	nutriment	NC	NC	n=p|g=m	
+18	)	)	PONCT	PONCT		
+19	,	,	PONCT	PONCT		
+20	la	la	DET	DET	n=s|g=f	
+21	température	température	NC	NC	n=s|g=f	
+22	et	et	CC	CC		
+23	le	le	DET	DET	n=s|g=m	
+24	type	type	NC	NC	n=s|g=m	
+25	de	de	P	P		
+26	matériaux	matériau	NC	NC	n=p|g=m	
+27	utilisés	utiliser	VPP	VPP	n=p|g=m|t=K	
+28	en	en	P	P		
+29	plomberie	plomberie	NC	NC	n=s|g=f	
+30	jouent	jouer	V	V	n=p|t=P,S|p=3	
+31	aussi	aussi	ADV	ADV		
+32	un	un	DET	DET	n=s|g=m	
+33	rôle	rôle	NC	NC	n=s|g=m	
+34	important	important	ADJ	ADJ	n=s|g=m	
+35	dans	dans	P	P		
+36	la	la	DET	DET	n=s|g=f	
+37	formation	formation	NC	NC	n=s|g=f	
+38	des	de	P+D	P+D	n=p	
+39	biofilms	_	NC	NC		
+40	[	[	PONCT	PONCT		
+41	13	13	ADJ	ADJ		
+42	]	]	PONCT	PONCT		
+43	,	,	PONCT	PONCT		
+44	[	[	PONCT	PONCT		
+45	14	14	ADJ	ADJ		
+46	]	]	PONCT	PONCT		
+47	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	biofilm	_	NC	NC		
+3	se	se	CLR	CLR	n=p,s|p=3	
+4	développe	développer	V	V	n=s|t=P,S|p=1,3	
+5	particulièrement	_	ADV	ADV		
+6	dans	dans	P	P		
+7	:	:	PONCT	PONCT		
+
+1	Par	par	P	P		
+2	ailleurs	ailleurs	ADV	ADV		
+3	,	,	PONCT	PONCT		
+4	les	les	DET	DET	n=p	
+5	protozoaires	protozoaire	NC	NC	n=p|g=m	
+6	d'	de	P	P		
+7	eau	eau	NC	NC	n=s|g=f	
+8	douce	doux	ADJ	ADJ	n=s|g=f	
+9	(	(	PONCT	PONCT		
+10	dont	dont	PROREL	PROREL		
+11	les	les	DET	DET	n=p	
+12	amibes	amibe	NC	NC	n=p|g=f	
+13	)	)	PONCT	PONCT		
+14	représentent	représenter	V	V	n=p|t=P,S|p=3	
+15	l'	le	DET	DET	n=s	
+16	hôte	hôte	NC	NC	n=s|g=m	
+17	naturel	naturel	ADJ	ADJ	n=s|g=m	
+18	de	de	P	P		
+19	la	la	DET	DET	n=s|g=f	
+20	légionelle	_	NC	NC		
+21	à	à	P	P		
+22	l'	le	DET	DET	n=s	
+23	intérieur	intérieur	NC	NC	n=s|g=m	
+24	duquel	duquel	P+PRO	P+PRO	n=s|g=m	
+25	elle	elle	CLS	CLS	n=s|g=f|p=3	
+26	réalise	réaliser	V	V	n=s|t=P,S|p=1,3	
+27	une	une	DET	DET	n=s|g=f	
+28	étape	étape	NC	NC	n=s|g=f	
+29	de	de	P	P		
+30	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+31	cycle	cycle	NC	NC	n=s|g=m	
+32	de	de	P	P		
+33	vie	vie	NC	NC	n=s|g=f	
+34	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	bactérie	bactérie	NC	NC	n=s|g=f	
+3	et	et	CC	CC		
+4	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+5	hôte	hôte	NC	NC	n=s|g=m	
+6	ont	avoir	V	V	n=p|t=P|p=3	
+7	connu	connaître	VPP	VPP	n=s|g=m|t=K	
+8	une	une	DET	DET	n=s|g=f	
+9	évolution	évolution	NC	NC	n=s|g=f	
+10	convergente	convergent	ADJ	ADJ	n=s|g=f	
+11	permettant	permettre	VPR	VPR	t=G	
+12	à	à	P	P		
+13	la	la	DET	DET	n=s|g=f	
+14	bactérie	bactérie	NC	NC	n=s|g=f	
+15	l'	le	DET	DET	n=s	
+16	acquisition	acquisition	NC	NC	n=s|g=f	
+17	au	à	P+D	P+D	n=s|g=m	
+18	sein	sein	NC	NC	n=s|g=m	
+19	de	de	P	P		
+20	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+21	patrimoine	patrimoine	NC	NC	n=s|g=m	
+22	génétique	génétique	ADJ	ADJ	n=s	
+23	de	de	P	P		
+24	gènes	gène	NC	NC	n=p|g=m	
+25	codant	coder	VPR	VPR	t=G	
+26	la	la	DET	DET	n=s|g=f	
+27	majeure	majeur	ADJ	ADJ	n=s|g=f	
+28	partie	partie	NC	NC	n=s|g=f	
+29	des	de	P+D	P+D	n=p	
+30	facteurs	facteur	NC	NC	n=p|g=m	
+31	de	de	P	P		
+32	virulence	virulence	NC	NC	n=s|g=f	
+33	de	de	P	P		
+34	la	la	DET	DET	n=s|g=f	
+35	légionelle	_	NC	NC		
+36	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	comportement	comportement	NC	NC	n=s|g=m	
+3	et	et	CC	CC		
+4	la	la	DET	DET	n=s|g=f	
+5	virulence	virulence	NC	NC	n=s|g=f	
+6	[	[	PONCT	PONCT		
+7	15	15	ADJ	ADJ		
+8	]	]	PONCT	PONCT		
+9	des	de	P+D	P+D	n=p	
+10	légionelles	_	NC	NC		
+11	dans	dans	P	P		
+12	leur	leur	DET	DET	n=s|p=3|poss=p	
+13	environnement	environnement	NC	NC	n=s|g=m	
+14	microbien	microbien	ADJ	ADJ	n=s|g=m	
+15	est	être	V	V	n=s|t=P|p=3	
+16	encore	encore	ADV	ADV		
+17	mal	mal	ADV	ADV		
+18	connu	connaître	VPP	VPP	n=s|g=m|t=K	
+19	(	(	PONCT	PONCT		
+20	par	par	P	P		
+21	exemple	exemple	NC	NC	n=s|g=m	
+22	celui	celui	PRO	PRO	n=s|g=m	
+23	de	de	P	P		
+24	leurs	leurs	DET	DET	n=p|p=3|poss=p	
+25	capacités	capacité	NC	NC	n=p|g=f	
+26	à	à	P	P		
+27	envahir	envahir	VINF	VINF	t=W	
+28	certains	certain	DET	DET	n=p|g=m	
+29	protozoaires	protozoaire	NC	NC	n=p|g=m	
+30	)	)	PONCT	PONCT		
+31	[	[	PONCT	PONCT		
+32	16	16	ADJ	ADJ		
+33	]	]	PONCT	PONCT		
+34	,	,	PONCT	PONCT		
+35	et	et	CC	CC		
+36	amibes	amibe	NC	NC	n=p|g=f	
+37	[	[	PONCT	PONCT		
+38	17	17	NC	NC		
+39	]	]	PONCT	PONCT		
+40	de	de	P	P		
+41	même	même	ADV	ADV		
+42	que	que	CS	CS		
+43	leur	leur	DET	DET	n=s|p=3|poss=p	
+44	environnement	environnement	NC	NC	n=s|g=m	
+45	lui	lui	CLO	CLO	n=s|p=3	
+46	-	-	PONCT	PONCT		
+47	même	même	ADJ	ADJ	n=s	
+48	:	:	PONCT	PONCT		
+49	écosystème	écosystème	NC	NC	n=s|g=m	
+50	des	de	P+D	P+D	n=p	
+51	biofilms	_	NC	NC		
+52	notamment	_	ADV	ADV		
+53	,	,	PONCT	PONCT		
+54	interactions	interaction	NC	NC	n=p|g=f	
+55	avec	avec	P	P		
+56	d'	de	DET	DET	n=p	
+57	autres	autre	ADJ	ADJ	n=p	
+58	espèces	espèce	NC	NC	n=p|g=f	
+59	,	,	PONCT	PONCT		
+60	les	les	DET	DET	n=p	
+61	turbulences	turbulence	NC	NC	n=p|g=f	
+62	de	de	P	P		
+63	l'	le	DET	DET	n=s	
+64	eau	eau	NC	NC	n=s|g=f	
+65	dans	dans	P	P		
+66	les	les	DET	DET	n=p	
+67	réseaux	réseau	NC	NC	n=p|g=m	
+68	,	,	PONCT	PONCT		
+69	etc	_	ADV	ADV		
+70	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	ANSES	anse	NC	NC	n=p|g=f	
+3	a	avoir	V	V	n=s|t=P|p=3	
+4	estimé	estimer	VPP	VPP	n=s|g=m|t=K	
+5	en	en	P	P		
+6	2011	2011	NC	NC		
+7	que	que	CS	CS		
+8	"	"	PONCT	PONCT		
+9	le	le	DET	DET	n=s|g=m	
+10	suivi	suivi	NC	NC	n=s|g=m	
+11	des	de	P+D	P+D	n=p	
+12	protozoaires	protozoaire	NC	NC	n=p|g=m	
+13	(	(	PONCT	PONCT		
+14	amibes	amibe	NC	NC	n=p|g=f	
+15	et	et	CC	CC		
+16	ciliés	cilié	NC	NC	n=p|g=m	
+17	)	)	PONCT	PONCT		
+18	dans	dans	P	P		
+19	les	les	DET	DET	n=p	
+20	installations	installation	NC	NC	n=p|g=f	
+21	et	et	CC	CC		
+22	leur	leur	DET	DET	n=s|p=3|poss=p	
+23	contribution	contribution	NC	NC	n=s|g=f	
+24	à	à	P	P		
+25	la	la	DET	DET	n=s|g=f	
+26	dangerosité	dangerosité	NC	NC	n=s|g=f	
+27	des	de	P+D	P+D	n=p	
+28	installations	installation	NC	NC	n=p|g=f	
+29	à	à	P	P		
+30	risque	risque	NC	NC	n=s|g=m	
+31	est	être	V	V	n=s|t=P|p=3	
+32	trop	trop	ADV	ADV		
+33	largement	_	ADV	ADV		
+34	négligé	négliger	VPP	VPP	n=s|g=m|t=K	
+35	"	"	PONCT	PONCT		
+36	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	légionelloses	_	NC	NC		
+3	peuvent	pouvoir	V	V	n=p|t=P|p=3	
+4	se	se	CLR	CLR	n=p,s|p=3	
+5	manifester	manifester	VINF	VINF	t=W	
+6	sous	sous	P	P		
+7	deux	deux	DET	DET	s=card|n=p	
+8	formes	forme	NC	NC	n=p|g=f	
+9	cliniques	clinique	ADJ	ADJ	n=p	
+10	distinctes	distinct	ADJ	ADJ	n=p|g=f	
+11	:	:	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	infection	infection	NC	NC	n=s|g=f	
+3	nosocomiale	nosocomial	ADJ	ADJ	n=s|g=f	
+4	est	être	V	V	n=s|t=P|p=3	
+5	incriminée	incriminer	VPP	VPP	n=s|g=f|t=K	
+6	dans	dans	P	P		
+7	1	1	NC	NC		
+8	à	à	P	P		
+9	10	10	NC	NC		
+10	%	%	NC	NC	g=m	
+11	des	de	P+D	P+D	n=p	
+12	cas	cas	NC	NC	g=m	
+13	de	de	P	P		
+14	pneumopathies	pneumopathie	NC	NC	n=p|g=f	
+15	nosocomiales	nosocomial	ADJ	ADJ	n=p|g=f	
+16	.	.	PONCT	PONCT		
+
+1	Legionella	_	NPP	NPP		
+2	pneumophila	_	NPP	NPP		
+3	est	être	V	V	n=s|t=P|p=3	
+4	capable	capable	ADJ	ADJ	n=s	
+5	d'	de	P	P		
+6	infecter	infecter	VINF	VINF	t=W	
+7	les	les	DET	DET	n=p	
+8	amibes	amibe	NC	NC	n=p|g=f	
+9	aquatiques	aquatique	ADJ	ADJ	n=p	
+10	aussi	aussi	ADV	ADV		
+11	bien	bien	ADV	ADV		
+12	que	que	CS	CS		
+13	les	les	DET	DET	n=p	
+14	macrophages	_	NC	NC		
+15	alvéolaires	alvéolaire	ADJ	ADJ	n=p	
+16	et	et	CC	CC		
+17	les	les	DET	DET	n=p	
+18	pneumocytes	_	NC	NC		
+19	de	de	P	P		
+20	l'	le	DET	DET	n=s	
+21	Homme	_	NPP	NPP		
+22	selon	selon	P	P		
+23	un	un	DET	DET	n=s|g=m	
+24	cycle	cycle	NC	NC	n=s|g=m	
+25	infectieux	infectieux	ADJ	ADJ	g=m	
+26	similaire	similaire	ADJ	ADJ	n=s	
+27	.	.	PONCT	PONCT		
+
+1	Dès	dès	P	P		
+2	le	le	DET	DET	n=s|g=m	
+3	contact	contact	NC	NC	n=s|g=m	
+4	avec	avec	P	P		
+5	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+6	cellule	cellule	NC	NC	n=s|g=f	
+7	-	-	PONCT	PONCT		
+8	hôte	hôte	NC	NC	n=s|g=m	
+9	(	(	PONCT	PONCT		
+10	amibe	amibe	NC	NC	n=s|g=f	
+11	ou	ou	CC	CC		
+12	macrophages	_	NC	NC		
+13	)	)	PONCT	PONCT		
+14	,	,	PONCT	PONCT		
+15	L	_	NPP	NPP		
+16	.	.	PONCT	PONCT		
+17	pneumophila	_	NPP	NPP		
+18	utilise	utiliser	V	V	n=s|t=P,S|p=1,3	
+19	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+20	principal	principal	ADJ	ADJ	n=s|g=m	
+21	facteur	facteur	NC	NC	n=s|g=m	
+22	de	de	P	P		
+23	virulence	virulence	NC	NC	n=s|g=f	
+24	:	:	PONCT	PONCT		
+25	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+26	système	système	NC	NC	n=s|g=m	
+27	de	de	P	P		
+28	sécrétion	sécrétion	NC	NC	n=s|g=f	
+29	de	de	P	P		
+30	type	type	NC	NC	n=s|g=m	
+31	IV	_	NPP	NPP		
+32	Dot	Dot	NPP	NPP	n=s|g=f	
+33	/	/	PONCT	PONCT		
+34	Icm	_	NPP	NPP		
+35	.	.	PONCT	PONCT		
+
+1	Ce	ce	DET	DET	n=s|g=m	
+2	système	système	NC	NC	n=s|g=m	
+3	va	aller	V	V	n=s|t=P|p=3	
+4	permettre	permettre	VINF	VINF	t=W	
+5	à	à	P	P		
+6	la	la	DET	DET	n=s|g=f	
+7	bactérie	bactérie	NC	NC	n=s|g=f	
+8	d'	de	P	P		
+9	injecter	injecter	VINF	VINF	t=W	
+10	directement	_	ADV	ADV		
+11	dans	dans	P	P		
+12	le	le	DET	DET	n=s|g=m	
+13	cytoplasme	cytoplasme	NC	NC	n=s|g=m	
+14	de	de	P	P		
+15	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+16	hôte	hôte	NC	NC	n=s|g=m	
+17	plus	plus	ADV	ADV		
+18	de	de	P	P		
+19	300	300	ADJ	ADJ		
+20	protéines	protéine	NC	NC	n=p|g=f	
+21	bactériennes	bactérien	ADJ	ADJ	n=p|g=f	
+22	appelées	appeler	VPP	VPP	n=p|g=f|t=K	
+23	effecteurs	effecteur	NC	NC	n=p|g=m	
+24	.	.	PONCT	PONCT		
+
+1	Ces	ces	DET	DET	n=p	
+2	protéines	protéine	NC	NC	n=p|g=f	
+3	vont	aller	V	V	n=p|t=P|p=3	
+4	permettre	permettre	VINF	VINF	t=W	
+5	à	à	P	P		
+6	la	la	DET	DET	n=s|g=f	
+7	bactérie	bactérie	NC	NC	n=s|g=f	
+8	de	de	P	P		
+9	détourner	détourner	VINF	VINF	t=W	
+10	différentes	différent	ADJ	ADJ	n=p|g=f	
+11	machineries	machinerie	NC	NC	n=p|g=f	
+12	cellulaires	cellulaire	ADJ	ADJ	n=p	
+13	de	de	P	P		
+14	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+15	hôte	hôte	NC	NC	n=s|g=m	
+16	à	à	P	P		
+17	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+18	avantage	avantage	NC	NC	n=s|g=m	
+19	.	.	PONCT	PONCT		
+
+1	Certains	certain	PRO	PRO	n=p|g=m	
+2	de	de	P	P		
+3	ces	ces	DET	DET	n=p	
+4	effecteurs	effecteur	NC	NC	n=p|g=m	
+5	sont	être	V	V	n=p|t=P|p=3	
+6	impliqués	impliquer	VPP	VPP	n=p|g=m|t=K	
+7	dans	dans	P	P		
+8	les	les	DET	DET	n=p	
+9	mécanismes	mécanisme	NC	NC	n=p|g=m	
+10	d'	de	P	P		
+11	entrée	entrée	NC	NC	n=s|g=f	
+12	dans	dans	P	P		
+13	la	la	DET	DET	n=s|g=f	
+14	cellule	cellule	NC	NC	n=s|g=f	
+15	-	-	PONCT	PONCT		
+16	hôte	hôte	NC	NC	n=s|g=m	
+17	via	via	P	P		
+18	le	le	DET	DET	n=s|g=m	
+19	détournement	détournement	NC	NC	n=s|g=m	
+20	des	de	P+D	P+D	n=p	
+21	processus	processus	NC	NC	g=m	
+22	de	de	P	P		
+23	macropinocytose	_	NC	NC		
+24	ou	ou	CC	CC		
+25	de	de	P	P		
+26	phagocytose	phagocytose	NC	NC	n=s|g=f	
+27	.	.	PONCT	PONCT		
+
+1	Ces	ces	DET	DET	n=p	
+2	protéines	protéine	NC	NC	n=p|g=f	
+3	bactériennes	bactérien	ADJ	ADJ	n=p|g=f	
+4	sont	être	V	V	n=p|t=P|p=3	
+5	également	_	ADV	ADV		
+6	nécessaires	nécessaire	ADJ	ADJ	n=p	
+7	à	à	P	P		
+8	la	la	DET	DET	n=s|g=f	
+9	bactérie	bactérie	NC	NC	n=s|g=f	
+10	pour	pour	P	P		
+11	échapper	échapper	VINF	VINF	t=W	
+12	à	à	P	P		
+13	la	la	DET	DET	n=s|g=f	
+14	dégradation	dégradation	NC	NC	n=s|g=f	
+15	par	par	P	P		
+16	la	la	DET	DET	n=s|g=f	
+17	voie	voie	NC	NC	n=s|g=f	
+18	endosomale	_	ADJ	ADJ		
+19	de	de	P	P		
+20	l'	le	DET	DET	n=s	
+21	hôte	hôte	NC	NC	n=s|g=m	
+22	,	,	PONCT	PONCT		
+23	notamment	_	ADV	ADV		
+24	l'	le	DET	DET	n=s	
+25	effecteur	effecteur	NC	NC	n=s|g=m	
+26	SidK	_	NPP	NPP		
+27	.	.	PONCT	PONCT		
+
+1	Ils	ils	CLS	CLS	n=p|g=m|p=3	
+2	participent	participer	V	V	n=p|t=P,S|p=3	
+3	aussi	aussi	ADV	ADV		
+4	à	à	P	P		
+5	la	la	DET	DET	n=s|g=f	
+6	création	création	NC	NC	n=s|g=f	
+7	d'	de	P	P		
+8	une	une	DET	DET	n=s|g=f	
+9	vacuole	vacuole	NC	NC	n=s|g=f	
+10	de	de	P	P		
+11	réplication	réplication	NC	NC	n=s|g=f	
+12	pour	pour	P	P		
+13	la	la	DET	DET	n=s|g=f	
+14	bactérie	bactérie	NC	NC	n=s|g=f	
+15	,	,	PONCT	PONCT		
+16	appelée	appeler	VPP	VPP	n=s|g=f|t=K	
+17	LCV	_	NPP	NPP		
+18	pour	pour	P	P		
+19	Legionella	_	NPP	NPP		
+20	-	-	PONCT	PONCT		
+21	containing	_	NC	NC		
+22	vacuole	vacuole	NC	NC	n=s|g=f	
+23	,	,	PONCT	PONCT		
+24	qui	qui	PROREL	PROREL	n=s	
+25	se	se	CLR	CLR	n=p,s|p=3	
+26	caractérise	caractériser	V	V	n=s|t=P,S|p=1,3	
+27	notamment	_	ADV	ADV		
+28	par	par	P	P		
+29	le	le	DET	DET	n=s|g=m	
+30	recrutement	recrutement	NC	NC	n=s|g=m	
+31	de	de	P	P		
+32	vésicules	vésicule	NC	NC	n=p|g=f	
+33	issues	issir	VPP	VPP	n=p|g=f|t=K	
+34	du	de	P+D	P+D	n=s|g=m	
+35	réticulum	réticulum	NC	NC	n=s|g=m	
+36	endoplasmique	_	NC	NC		
+37	.	.	PONCT	PONCT		
+
+1	De	de	DET	DET	n=p	
+2	nombreux	nombreux	ADJ	ADJ	g=m	
+3	effecteurs	effecteur	NC	NC	n=p|g=m	
+4	du	de	P+D	P+D	n=s|g=m	
+5	système	système	NC	NC	n=s|g=m	
+6	Dot	Dot	NPP	NPP	n=s|g=f	
+7	/	/	PONCT	PONCT		
+8	Icm	_	NPP	NPP		
+9	sont	être	V	V	n=p|t=P|p=3	
+10	impliqués	impliquer	VPP	VPP	n=p|g=m|t=K	
+11	dans	dans	P	P		
+12	ce	ce	DET	DET	n=s|g=m	
+13	processus	processus	NC	NC	g=m	
+14	:	:	PONCT	PONCT		
+15	SidM	_	NPP	NPP		
+16	/	/	PONCT	PONCT		
+17	DrrA	_	NPP	NPP		
+18	,	,	PONCT	PONCT		
+19	SidC	_	NPP	NPP		
+20	,	,	PONCT	PONCT		
+21	RalF	_	NPP	NPP		
+22	,	,	PONCT	PONCT		
+23	LepB	_	NPP	NPP		
+24	,	,	PONCT	PONCT		
+25	etc	_	NPP	NPP		
+26	.	.	PONCT	PONCT		
+
+1	Ainsi	ainsi	ADV	ADV		
+2	camouflées	camoufler	VPP	VPP	n=p|g=f|t=K	
+3	dans	dans	P	P		
+4	la	la	DET	DET	n=s|g=f	
+5	LCV	_	NPP	NPP		
+6	,	,	PONCT	PONCT		
+7	les	les	DET	DET	n=p	
+8	légionelles	_	NC	NC		
+9	vont	aller	V	V	n=p|t=P|p=3	
+10	pouvoir	pouvoir	VINF	VINF	t=W	
+11	se	se	CLR	CLR	n=p,s|p=3	
+12	multiplier	multiplier	VINF	VINF	t=W	
+13	exponentiellement	_	ADV	ADV		
+14	jusqu'	jusque	P	P		
+15	à	à	P	P		
+16	avoir	avoir	VINF	VINF	t=W	
+17	épuisé	épuiser	VPP	VPP	n=s|g=m|t=K	
+18	toutes	tout	ADJ	ADJ	n=p|g=f	
+19	les	les	DET	DET	n=p	
+20	ressources	ressource	NC	NC	n=p|g=f	
+21	nutritionnelles	nutritionnel	ADJ	ADJ	n=p|g=f	
+22	à	à	P	P		
+23	disposition	disposition	NC	NC	n=s|g=f	
+24	.	.	PONCT	PONCT		
+
+1	Cette	cette	DET	DET	n=s|g=f	
+2	carence	carence	NC	NC	n=s|g=f	
+3	déclenche	déclencher	V	V	n=s|t=P,S|p=1,3	
+4	alors	alors	ADV	ADV		
+5	une	une	DET	DET	n=s|g=f	
+6	reprogrammation	reprogrammation	NC	NC	n=s|g=f	
+7	de	de	P	P		
+8	l'	le	DET	DET	n=s	
+9	expression	expression	NC	NC	n=s|g=f	
+10	génétique	génétique	ADJ	ADJ	n=s	
+11	de	de	P	P		
+12	la	la	DET	DET	n=s|g=f	
+13	bactérie	bactérie	NC	NC	n=s|g=f	
+14	qui	qui	PROREL	PROREL	n=s	
+15	exprime	exprimer	V	V	n=s|t=P,S|p=1,3	
+16	alors	alors	ADV	ADV		
+17	ses	ses	DET	DET	n=p|p=3|poss=s	
+18	facteurs	facteur	NC	NC	n=p|g=m	
+19	de	de	P	P		
+20	virulence	virulence	NC	NC	n=s|g=f	
+21	(	(	PONCT	PONCT		
+22	effecteurs	effecteur	NC	NC	n=p|g=m	
+23	du	de	P+D	P+D	n=s|g=m	
+24	système	système	NC	NC	n=s|g=m	
+25	de	de	P	P		
+26	sécrétion	sécrétion	NC	NC	n=s|g=f	
+27	de	de	P	P		
+28	type	type	NC	NC	n=s|g=m	
+29	IV	_	NPP	NPP		
+30	notamment	_	ADV	ADV		
+31	)	)	PONCT	PONCT		
+32	et	et	CC	CC		
+33	les	les	DET	DET	n=p	
+34	facteurs	facteur	NC	NC	n=p|g=m	
+35	de	de	P	P		
+36	mobilité	mobilité	NC	NC	n=s|g=f	
+37	(	(	PONCT	PONCT		
+38	flagelle	_	NPP	NPP		
+39	)	)	PONCT	PONCT		
+40	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	bactéries	bactérie	NC	NC	n=p|g=f	
+3	sont	être	V	V	n=p|t=P|p=3	
+4	ensuite	ensuite	ADV	ADV		
+5	libérées	libérer	VPP	VPP	n=p|g=f|t=K	
+6	dans	dans	P	P		
+7	le	le	DET	DET	n=s|g=m	
+8	cytoplasme	cytoplasme	NC	NC	n=s|g=m	
+9	de	de	P	P		
+10	l'	le	DET	DET	n=s	
+11	hôte	hôte	NC	NC	n=s|g=m	
+12	puis	puis	CC	CC		
+13	dans	dans	P	P		
+14	l'	le	DET	DET	n=s	
+15	environnement	environnement	NC	NC	n=s|g=m	
+16	dans	dans	P	P		
+17	lequel	lequel	PROREL	PROREL	n=s|g=m	
+18	elles	elles	CLS	CLS	n=p|g=f|p=3	
+19	devront	devoir	V	V	n=p|t=F|p=3	
+20	survivre	survivre	VINF	VINF	t=W	
+21	,	,	PONCT	PONCT		
+22	parfois	parfois	ADV	ADV		
+23	sous	sous	P	P		
+24	forme	forme	NC	NC	n=s|g=f	
+25	de	de	P	P		
+26	biofilms	_	NC	NC		
+27	,	,	PONCT	PONCT		
+28	jusqu'	jusque	P	P		
+29	à	à	P	P		
+30	l'	le	DET	DET	n=s	
+31	infection	infection	NC	NC	n=s|g=f	
+32	d'	de	P	P		
+33	une	une	DET	DET	n=s|g=f	
+34	nouvelle	nouveau	ADJ	ADJ	n=s|g=f	
+35	cellule	cellule	NC	NC	n=s|g=f	
+36	-	-	PONCT	PONCT		
+37	hôte	hôte	NC	NC	n=s|g=m	
+38	.	.	PONCT	PONCT		
+
+1	Pour	pour	P	P		
+2	les	les	DET	DET	n=p	
+3	réseaux	réseau	NC	NC	n=p|g=m	
+4	ECS	_	NPP	NPP		
+5	:	:	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	existe	exister	V	V	n=s|t=P,S|p=1,3	
+3	différentes	différent	ADJ	ADJ	n=p|g=f	
+4	méthodes	méthode	NC	NC	n=p|g=f	
+5	que	que	CS	CS		
+6	le	le	DET	DET	n=s|g=m	
+7	Ministère	_	NPP	NPP		
+8	de	de	P	P		
+9	la	la	DET	DET	n=s|g=f	
+10	Santé	_	NPP	NPP		
+11	a	avoir	V	V	n=s|t=P|p=3	
+12	testées	tester	VPP	VPP	n=p|g=f|t=K	
+13	et	et	CC	CC		
+14	validées	valider	VPP	VPP	n=p|g=f|t=K	
+15	pour	pour	P	P		
+16	les	les	DET	DET	n=p	
+17	réseaux	réseau	NC	NC	n=p|g=m	
+18	d'	de	P	P		
+19	eau	eau	NC	NC	n=s|g=f	
+20	potable	potable	ADJ	ADJ	n=s	
+21	.	.	PONCT	PONCT		
+
+1	Ces	ces	DET	DET	n=p	
+2	méthodes	méthode	NC	NC	n=p|g=f	
+3	figurent	figurer	V	V	n=p|t=P,S|p=3	
+4	dans	dans	P	P		
+5	la	la	DET	DET	n=s|g=f	
+6	circulaire	circulaire	NC	NC	n=s|g=f	
+7	2002	2002	NC	NC		
+8	/	/	PONCT	PONCT		
+9	243	243	NC	NC		
+10	d'	de	P	P		
+11	avril	avril	NC	NC	n=s|g=m	
+12	2002	2002	NC	NC		
+13	.	.	PONCT	PONCT		
+
+1	On	on	CLS	CLS	n=s|p=3	
+2	y	y	CLO	CLO		
+3	trouve	trouver	V	V	n=s|t=P,S|p=1,3	
+4	notamment	_	ADV	ADV		
+5	:	:	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	choc	choc	NC	NC	n=s|g=m	
+3	au	à	P+D	P+D	n=s|g=m	
+4	peroxyde	peroxyde	NC	NC	n=s|g=m	
+5	d'	de	P	P		
+6	hydrogène	hydrogène	NC	NC	n=s|g=m	
+7	et	et	CC	CC		
+8	argent	argent	NC	NC	n=s|g=m	
+9	(	(	PONCT	PONCT		
+10	H2O2+Ag	_	NPP	NPP		
+11	)	)	PONCT	PONCT		
+12	qui	qui	PROREL	PROREL	n=s	
+13	consiste	consister	V	V	n=s|t=P,S|p=1,3	
+14	à	à	P	P		
+15	faire	faire	VINF	VINF	t=W	
+16	circuler	circuler	VINF	VINF	t=W	
+17	la	la	DET	DET	n=s|g=f	
+18	solution	solution	NC	NC	n=s|g=f	
+19	dans	dans	P	P		
+20	l'	le	DET	DET	n=s	
+21	ensemble	ensemble	NC	NC	n=s|g=m	
+22	du	de	P+D	P+D	n=s|g=m	
+23	réseau	réseau	NC	NC	n=s|g=m	
+24	et	et	CC	CC		
+25	points	point	NC	NC	n=p|g=m	
+26	contaminés	contaminer	VPP	VPP	n=p|g=m|t=K	
+27	(	(	PONCT	PONCT		
+28	hors	hors	P	P		
+29	utilisation	utilisation	NC	NC	n=s|g=f	
+30	)	)	PONCT	PONCT		
+31	à	à	P	P		
+32	une	une	DET	DET	n=s|g=f	
+33	concentration	concentration	NC	NC	n=s|g=f	
+34	allant	aller	VPR	VPR	t=G	
+35	de	de	P	P		
+36	100	100	VINF	VINF		
+37	à	à	P	P		
+38	1_000	1_000	ADJ	ADJ		
+39	mg	milligramme	NC	NC	g=m	
+40	/	/	PONCT	PONCT		
+41	L	_	NC	NC		
+42	de	de	P	P		
+43	peroxyde	peroxyde	NC	NC	n=s|g=m	
+44	d'	de	P	P		
+45	hydrogène	hydrogène	NC	NC	n=s|g=m	
+46	+	+	P	P		
+47	ag	_	NC	NC		
+48	pour	pour	P	P		
+49	un	un	DET	DET	n=s|g=m	
+50	temps	temps	NC	NC	g=m	
+51	de	de	P	P		
+52	contact	contact	NC	NC	n=s|g=m	
+53	pouvant	pouvoir	VPR	VPR	t=G	
+54	aller	aller	VINF	VINF	t=W	
+55	jusqu'	jusque	P	P		
+56	à	à	P	P		
+57	12	12	ADJ	ADJ		
+58	heures	heure	NC	NC	n=p|g=f	
+59	.	.	PONCT	PONCT		
+
+1	À	à	P	P		
+2	l'	le	DET	DET	n=s	
+3	issue	issue	NC	NC	n=s|g=f	
+4	du	de	P+D	P+D	n=s|g=m	
+5	temps	temps	NC	NC	g=m	
+6	de	de	P	P		
+7	contact	contact	NC	NC	n=s|g=m	
+8	,	,	PONCT	PONCT		
+9	on	on	CLS	CLS	n=s|p=3	
+10	pratique	pratiquer	V	V	n=s|t=P,S|p=1,3	
+11	une	une	DET	DET	n=s|g=f	
+12	vidange	vidange	NC	NC	n=s|g=f	
+13	complète	complet	ADJ	ADJ	n=s|g=f	
+14	du	de	P+D	P+D	n=s|g=m	
+15	réseau	réseau	NC	NC	n=s|g=m	
+16	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	un	un	PRO	PRO	n=s|g=m	
+3	des	de	P+D	P+D	n=p	
+4	avantages	avantage	NC	NC	n=p|g=m	
+5	de	de	P	P		
+6	cette	cette	DET	DET	n=s|g=f	
+7	méthode	méthode	NC	NC	n=s|g=f	
+8	est	être	V	V	n=s|t=P|p=3	
+9	de	de	P	P		
+10	détruire	détruire	VINF	VINF	t=W	
+11	le	le	DET	DET	n=s|g=m	
+12	biofilm	_	NC	NC		
+13	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	choc	choc	NC	NC	n=s|g=m	
+3	chloré	chlorer	ADJ	ADJ	n=s|g=m|t=K	
+4	consiste	consister	V	V	n=s|t=P,S|p=1,3	
+5	à	à	P	P		
+6	obtenir	obtenir	VINF	VINF	t=W	
+7	une	une	DET	DET	n=s|g=f	
+8	concentration	concentration	NC	NC	n=s|g=f	
+9	de	de	P	P		
+10	chlore	chlore	NC	NC	n=s	
+11	libre	libre	ADJ	ADJ	n=s	
+12	de	de	P	P		
+13	15	15	ADJ	ADJ		
+14	mg	milligramme	NC	NC	g=m	
+15	/	/	PONCT	PONCT		
+16	l	_	NPP	NPP		
+17	pendant	pendant	P	P		
+18	24	24	ADJ	ADJ		
+19	h	heure	NC	NC	g=f	
+20	ou	ou	CC	CC		
+21	de	de	P	P		
+22	30	30	NC	NC		
+23	à	à	P	P		
+24	50	50	ADJ	ADJ		
+25	mg	milligramme	NC	NC	g=m	
+26	/	/	PONCT	PONCT		
+27	l	_	NPP	NPP		
+28	pendant	pendant	P	P		
+29	2	2	NC	NC		
+30	à	à	P	P		
+31	3	3	ADJ	ADJ		
+32	heures	heure	NC	NC	n=p|g=f	
+33	au	à	P+D	P+D	n=s|g=m	
+34	niveau	niveau	NC	NC	n=s|g=m	
+35	de	de	P	P		
+36	réservoirs	réservoir	NC	NC	n=p|g=m	
+37	.	.	PONCT	PONCT		
+
+1	On	on	CLS	CLS	n=s|p=3	
+2	pratique	pratiquer	V	V	n=s|t=P,S|p=1,3	
+3	une	une	DET	DET	n=s|g=f	
+4	vidange	vidange	NC	NC	n=s|g=f	
+5	complète	complet	ADJ	ADJ	n=s|g=f	
+6	du	de	P+D	P+D	n=s|g=m	
+7	réseau	réseau	NC	NC	n=s|g=m	
+8	après	après	P	P		
+9	avoir	avoir	VINF	VINF	t=W	
+10	fait	faire	VPP	VPP	n=s|g=m|t=K	
+11	passer	passer	VINF	VINF	t=W	
+12	l'	le	DET	DET	n=s	
+13	eau	eau	NC	NC	n=s|g=f	
+14	chlorée	chlorer	VPP	VPP	n=s|g=f|t=K	
+15	par	par	P	P		
+16	le	le	DET	DET	n=s|g=m	
+17	maximum	maximum	NC	NC	n=s|g=m	
+18	voire	voire	CC	CC		
+19	par	par	P	P		
+20	la	la	DET	DET	n=s|g=f	
+21	totalité	totalité	NC	NC	n=s|g=f	
+22	des	de	P+D	P+D	n=p	
+23	points	point	NC	NC	n=p|g=m	
+24	d'	de	P	P		
+25	usage	usage	NC	NC	n=s|g=m	
+26	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	choc	choc	NC	NC	n=s|g=m	
+3	thermique	thermique	ADJ	ADJ	n=s	
+4	est	être	V	V	n=s|t=P|p=3	
+5	pratiqué	pratiquer	VPP	VPP	n=s|g=m|t=K	
+6	en	en	P	P		
+7	élevant	élever	VPR	VPR	t=G	
+8	la	la	DET	DET	n=s|g=f	
+9	température	température	NC	NC	n=s|g=f	
+10	de	de	P	P		
+11	l'	le	DET	DET	n=s	
+12	eau	eau	NC	NC	n=s|g=f	
+13	à	à	P	P		
+14	70	70	NC	NC		
+15	°C	_	NPP	NPP		
+16	pendant	pendant	P	P		
+17	30	30	NC	NC		
+18	minutes	minute	NC	NC	n=p|g=f	
+19	et	et	CC	CC		
+20	l'	le	DET	DET	n=s	
+21	eau	eau	NC	NC	n=s|g=f	
+22	doit	devoir	V	V	n=s|t=P|p=3	
+23	couler	couler	VINF	VINF	t=W	
+24	de	de	P	P		
+25	tous	tout	ADJ	ADJ	n=p|g=m	
+26	les	les	DET	DET	n=p	
+27	points	point	NC	NC	n=p|g=m	
+28	d'	de	P	P		
+29	usage	usage	NC	NC	n=s|g=m	
+30	pendant	pendant	P	P		
+31	5	5	VINF	VINF		
+32	à	à	P	P		
+33	10	10	NC	NC		
+34	minutes	minute	NC	NC	n=p|g=f	
+35	au	à	P+D	P+D	n=s|g=m	
+36	minimum	minimum	NC	NC	n=s|g=m	
+37	à	à	P	P		
+38	65	65	NC	NC		
+39	°C	_	NPP	NPP		
+40	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	risques	risque	NC	NC	n=p|g=m	
+3	liés	lier	VPP	VPP	n=p|g=m|t=K	
+4	aux	à	P+D	P+D	n=p	
+5	chocs	choc	NC	NC	n=p|g=m	
+6	:	:	PONCT	PONCT		
+
+1	Pour	pour	P	P		
+2	les	les	DET	DET	n=p	
+3	TAR	_	NPP	NPP		
+4	(	(	PONCT	PONCT		
+5	tour	tour	NC	NC	n=s	
+6	de	de	P	P		
+7	refroidissement	refroidissement	NC	NC	n=s|g=m	
+8	ou	ou	CC	CC		
+9	tour	tour	NC	NC	n=s	
+10	aéroréfrigérante	_	NPP	NPP		
+11	)	)	PONCT	PONCT		
+12	,	,	PONCT	PONCT		
+13	la	la	DET	DET	n=s|g=f	
+14	loi	loi	NC	NC	n=s|g=f	
+15	de	de	P	P		
+16	santé	santé	NC	NC	n=s|g=f	
+17	publique	public	ADJ	ADJ	n=s|g=f	
+18	de	de	P	P		
+19	2004	2004	NC	NC		
+20	visait	viser	V	V	n=s|t=I|p=3	
+21	à	à	P	P		
+22	réduire	réduire	VINF	VINF	t=W	
+23	le	le	DET	DET	n=s|g=m	
+24	nombre	nombre	NC	NC	n=s|g=m	
+25	de	de	P	P		
+26	cas	cas	NC	NC	g=m	
+27	de	de	P	P		
+28	légionelloses	_	NC	NC		
+29	de	de	P	P		
+30	50	50	NC	NC		
+31	%	%	NC	NC	g=m	
+32	pour	pour	P	P		
+33	la	la	DET	DET	n=s|g=f	
+34	période	période	NC	NC	n=s	
+35	2004-2008	2004-2008	NPP	NPP		
+36	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	arrêtés	arrêté	NC	NC	n=p|g=m	
+3	de	de	P	P		
+4	2004	2004	NC	NC		
+5	ont	avoir	V	V	n=p|t=P|p=3	
+6	évolué	évoluer	VPP	VPP	n=s|g=m|t=K	
+7	à	à	P	P		
+8	travers	travers	NC	NC	g=m	
+9	ceux	ceux	PRO	PRO	n=p|g=m	
+10	du	de	P+D	P+D	n=s|g=m	
+11	14	14	ADJ	ADJ		
+12	décembre	décembre	NC	NC	n=s|g=m	
+13	2013	2013	NC	NC		
+14	.	.	PONCT	PONCT		
+
+1	Pour	pour	P	P		
+2	lés	lé	NC	NC	n=p|g=m	
+3	réseaux	réseau	NC	NC	n=p|g=m	
+4	ECS	_	NPP	NPP		
+5	(	(	PONCT	PONCT		
+6	eau	eau	NC	NC	n=s|g=f	
+7	chaude	chaud	ADJ	ADJ	n=s|g=f	
+8	sanitaire	sanitaire	ADJ	ADJ	n=s	
+9	)	)	PONCT	PONCT		
+10	,	,	PONCT	PONCT		
+11	il	il	CLS	CLS	n=s|g=m|p=3	
+12	faut	falloir	V	V	n=s|t=P|p=3	
+13	se	se	CLR	CLR	n=p,s|p=3	
+14	baser	baser	VINF	VINF	t=W	
+15	sur	sur	P	P		
+16	les	les	DET	DET	n=p	
+17	arrêtés	arrêté	NC	NC	n=p|g=m	
+18	du	de	P+D	P+D	n=s|g=m	
+19	1er	_	ADJ	ADJ		
+20	février	février	NC	NC	n=s|g=m	
+21	2010	2010	NC	NC		
+22	(	(	PONCT	PONCT		
+23	lutte	lutte	NC	NC	n=s|g=f	
+24	et	et	CC	CC		
+25	prévention	prévention	NC	NC	n=s|g=f	
+26	des	de	P+D	P+D	n=p	
+27	contaminations	contamination	NC	NC	n=p|g=f	
+28	des	de	P+D	P+D	n=p	
+29	réseaux	réseau	NC	NC	n=p|g=m	
+30	d'	de	P	P		
+31	eau	eau	NC	NC	n=s|g=f	
+32	chaude	chaud	ADJ	ADJ	n=s|g=f	
+33	sanitaire	sanitaire	NC	NC	n=s|g=m	
+34	par	par	P	P		
+35	les	les	DET	DET	n=p	
+36	légionelles	_	NC	NC		
+37	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	semblerait	sembler	V	V	n=s|t=C|p=3	
+3	logique	logique	ADJ	ADJ	n=s	
+4	de	de	P	P		
+5	suivre	suivre	VINF	VINF	t=W	
+6	les	les	DET	DET	n=p	
+7	amibes	amibe	NC	NC	n=p|g=f	
+8	(	(	PONCT	PONCT		
+9	qui	qui	PROREL	PROREL	n=s	
+10	sont	être	V	V	n=p|t=P|p=3	
+11	a	avoir	V	V	n=s|t=P|p=3	
+12	priori	_	ADV	ADV		
+13	indicatrices	indicateur	ADJ	ADJ	n=p|g=f	
+14	et	et	CC	CC		
+15	facteur	facteur	NC	NC	n=s|g=m	
+16	de	de	P	P		
+17	risque	risque	NC	NC	n=s|g=m	
+18	)	)	PONCT	PONCT		
+19	,	,	PONCT	PONCT		
+20	mais	mais	CC	CC		
+21	il	il	CLS	CLS	n=s|g=m|p=3	
+22	peut	pouvoir	V	V	n=s|t=P|p=3	
+23	y	y	CLO	CLO		
+24	avoir	avoir	VINF	VINF	t=W	
+25	des	des	DET	DET	n=p	
+26	légionelles	_	NC	NC		
+27	sans	sans	P	P		
+28	amibes	amibe	NC	NC	n=p|g=f	
+29	,	,	PONCT	PONCT		
+30	et	et	CC	CC		
+31	la	la	DET	DET	n=s|g=f	
+32	méthode	méthode	NC	NC	n=s|g=f	
+33	commune	commun	ADJ	ADJ	n=s|g=f	
+34	de	de	P	P		
+35	détection	détection	NC	NC	n=s|g=f	
+36	des	de	P+D	P+D	n=p	
+37	amibes	amibe	NC	NC	n=p|g=f	
+38	est	être	V	V	n=s|t=P|p=3	
+39	coûteuse	coûteux	ADJ	ADJ	n=s|g=f	
+40	,	,	PONCT	PONCT		
+41	longue	long	ADJ	ADJ	n=s|g=f	
+42	et	et	CC	CC		
+43	tous	tout	ADJ	ADJ	n=p|g=m	
+44	les	les	DET	DET	n=p	
+45	laboratoires	laboratoire	NC	NC	n=p|g=m	
+46	ne	ne	ADV	ADV		
+47	sont	être	V	V	n=p|t=P|p=3	
+48	pas	pas	ADV	ADV		
+49	équipés	équiper	VPP	VPP	n=p|g=m|t=K	
+50	pour	pour	P	P		
+51	la	la	CLO	CLO	n=s|g=f|p=3	
+52	proposer	proposer	VINF	VINF	t=W	
+53	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	n'	ne	ADV	ADV		
+3	est	être	V	V	n=s|t=P|p=3	
+4	donc	donc	ADV	ADV		
+5	pas	pas	ADV	ADV		
+6	utilisée	utiliser	VPP	VPP	n=s|g=f|t=K	
+7	en	en	P	P		
+8	routine	routine	NC	NC	n=s|g=f	
+9	,	,	PONCT	PONCT		
+10	mais	mais	CC	CC		
+11	est	être	V	V	n=s|t=P|p=3	
+12	utile	utile	ADJ	ADJ	n=s	
+13	en	en	P	P		
+14	cas	cas	NC	NC	g=m	
+15	de	de	P	P		
+16	sur	_	NC	NC		
+17	-	-	PONCT	PONCT		
+18	contamination	contamination	NC	NC	n=s|g=f	
+19	post	post	NC	NC	n=s|g=m	
+20	-	-	PONCT	PONCT		
+21	traitement	traitement	NC	NC	n=s|g=m	
+22	[	[	PONCT	PONCT		
+23	18	18	ADJ	ADJ		
+24	]	]	PONCT	PONCT		
+25	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	surveillance	surveillance	NC	NC	n=s|g=f	
+3	progresse	progresser	V	V	n=s|t=P,S|p=1,3	
+4	donc	donc	ADV	ADV		
+5	en	en	P	P		
+6	France	France	NPP	NPP	n=s|g=f,m	
+7	[	[	PONCT	PONCT		
+8	19	19	NC	NC		
+9	]	]	PONCT	PONCT		
+10	où	où	PROREL	PROREL		
+11	elle	elle	CLS	CLS	n=s|g=f|p=3	
+12	est	être	V	V	n=s|t=P|p=3	
+13	devenue	devenir	VPP	VPP	n=s|g=f|t=K	
+14	obligatoire	obligatoire	ADJ	ADJ	n=s	
+15	pour	pour	P	P		
+16	les	les	DET	DET	n=p	
+17	eaux	eau	NC	NC	n=p|g=f	
+18	minérales	minéral	ADJ	ADJ	n=p|g=f	
+19	à	à	P	P		
+20	usages	usage	NC	NC	n=p|g=m	
+21	thérapeutiques	thérapeutique	ADJ	ADJ	n=p	
+22	(	(	PONCT	PONCT		
+23	dans	dans	P	P		
+24	les	les	DET	DET	n=p	
+25	établissements	établissement	NC	NC	n=p|g=m	
+26	thermaux	thermal	ADJ	ADJ	n=p|g=m	
+27	)	)	PONCT	PONCT		
+28	,	,	PONCT	PONCT		
+29	dans	dans	P	P		
+30	les	les	DET	DET	n=p	
+31	tours	tour	NC	NC	n=p	
+32	aéroréfrigérantes	_	NPP	NPP		
+33	,	,	PONCT	PONCT		
+34	dans	dans	P	P		
+35	tout	tout	DET	DET	n=s|g=m	
+36	réseau	réseau	NC	NC	n=s|g=m	
+37	d'	de	P	P		
+38	eau	eau	NC	NC	n=s|g=f	
+39	chaude	chaud	ADJ	ADJ	n=s|g=f	
+40	sanitaire	sanitaire	NC	NC	n=s|g=m	
+41	d'	de	P	P		
+42	un	un	DET	DET	n=s|g=m	
+43	établissement	établissement	NC	NC	n=s|g=m	
+44	de	de	P	P		
+45	santé	santé	NC	NC	n=s|g=f	
+46	ou	ou	CC	CC		
+47	des	de	P+D	P+D	n=p	
+48	établissements	établissement	NC	NC	n=p|g=m	
+49	sociaux	social	ADJ	ADJ	n=p|g=m	
+50	et	et	CC	CC		
+51	médico	_	NPP	NPP		
+52	-	-	PONCT	PONCT		
+53	sociaux	social	ADJ	ADJ	n=p|g=m	
+54	,	,	PONCT	PONCT		
+55	des	des	DET	DET	n=p	
+56	hôtels	hôtel	NC	NC	n=p|g=m	
+57	,	,	PONCT	PONCT		
+58	des	des	DET	DET	n=p	
+59	résidences	résidence	NC	NC	n=p|g=f	
+60	de	de	P	P		
+61	tourisme	tourisme	NC	NC	n=s|g=m	
+62	,	,	PONCT	PONCT		
+63	des	de	P+D	P+D	n=p	
+64	campings	camping	NC	NC	n=p|g=m	
+65	,	,	PONCT	PONCT		
+66	des	de	P+D	P+D	n=p	
+67	établissements	établissement	NC	NC	n=p|g=m	
+68	pénitentiaires	pénitentiaire	ADJ	ADJ	n=p	
+69	,	,	PONCT	PONCT		
+70	enfin	enfin	ADV	ADV		
+71	tous	tout	ADJ	ADJ	n=p|g=m	
+72	les	les	DET	DET	n=p	
+73	ERP	_	NC	NC		
+74	disposant	disposer	VPR	VPR	t=G	
+75	de	de	P	P		
+76	douches	douche	NC	NC	n=p|g=f	
+77	à	à	P	P		
+78	production	production	NC	NC	n=s|g=f	
+79	ECS	_	NPP	NPP		
+80	collective	collectif	ADJ	ADJ	n=s|g=f	
+81	[	[	PONCT	PONCT		
+82	20	20	NC	NC		
+83	]	]	PONCT	PONCT		
+84	.	.	PONCT	PONCT		
+85	Au	à	P+D	P+D	n=s|g=m	
+86	1er	_	ADJ	ADJ		
+87	janvier	janvier	NC	NC	n=s|g=m	
+88	2012	2012	NC	NC		
+89	,	,	PONCT	PONCT		
+90	cette	cette	DET	DET	n=s|g=f	
+91	obligation	obligation	NC	NC	n=s|g=f	
+92	est	être	V	V	n=s|t=P|p=3	
+93	étendue	étendre	VPP	VPP	n=s|g=f|t=K	
+94	aux	à	P+D	P+D	n=p	
+95	autres	autre	ADJ	ADJ	n=p	
+96	établissements	établissement	NC	NC	n=p|g=m	
+97	recevant	recevoir	VPR	VPR	t=G	
+98	du	de	P+D	P+D	n=s|g=m	
+99	public	public	NC	NC	n=s|g=m	
+100	(	(	PONCT	PONCT		
+101	ERP	Erp	NPP	NPP	n=s|g=m	
+102	)	)	PONCT	PONCT		
+103	[	[	PONCT	PONCT		
+104	20	20	NC	NC		
+105	]	]	PONCT	PONCT		
+106	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	DGS	_	NPP	NPP		
+3	et	et	CC	CC		
+4	la	la	DET	DET	n=s|g=f	
+5	DGPR	_	NPP	NPP		
+6	ont	avoir	V	V	n=p|t=P|p=3	
+7	reconnu	reconnaître	VPP	VPP	n=s|g=m|t=K	
+8	[	[	PONCT	PONCT		
+9	18	18	ADJ	ADJ		
+10	]	]	PONCT	PONCT		
+11	en	en	P	P		
+12	2009	2009	NC	NC		
+13	que	que	CS	CS		
+14	la	la	DET	DET	n=s|g=f	
+15	méthode	méthode	NC	NC	n=s|g=f	
+16	par	par	P	P		
+17	culture	culture	NC	NC	n=s|g=f	
+18	(	(	PONCT	PONCT		
+19	obligatoire	obligatoire	ADJ	ADJ	n=s	
+20	en	en	P	P		
+21	France	France	NPP	NPP	n=s|g=f,m	
+22	)	)	PONCT	PONCT		
+23	impose	imposer	V	V	n=s|t=P,S|p=1,3	
+24	un	un	DET	DET	n=s|g=m	
+25	délai	délai	NC	NC	n=s|g=m	
+26	après	après	P	P		
+27	mise	mise	NC	NC	n=s|g=f	
+28	en	en	P	P		
+29	culture	culture	NC	NC	n=s|g=f	
+30	(	(	PONCT	PONCT		
+31	au	à	P+D	P+D	n=s|g=m	
+32	moins	moins	ADV	ADV		
+33	8	8	ADJ	ADJ		
+34	jours	jour	NC	NC	n=p|g=m	
+35	de	de	P	P		
+36	culture	culture	NC	NC	n=s|g=f	
+37	sont	être	V	V	n=p|t=P|p=3	
+38	nécessaires	nécessaire	ADJ	ADJ	n=p	
+39	,	,	PONCT	PONCT		
+40	bien	bien	ADV	ADV		
+41	que	que	CS	CS		
+42	des	des	DET	DET	n=p	
+43	résultats	résultat	NC	NC	n=p|g=m	
+44	intermédiaires	intermédiaire	ADJ	ADJ	n=p	
+45	soient	être	VS	VS	n=p|t=S|p=3	
+46	possibles	possible	ADJ	ADJ	n=p	
+47	et	et	CC	CC		
+48	obligatoires	obligatoire	ADJ	ADJ	n=p	
+49	à	à	P	P		
+50	fournir	fournir	VINF	VINF	t=W	
+51	en	en	P	P		
+52	cas	cas	NC	NC	g=m	
+53	de	de	P	P		
+54	dépassement	dépassement	NC	NC	n=s|g=m	
+55	entre	entre	P	P		
+56	3	3	NC	NC		
+57	et	et	CC	CC		
+58	5	5	ADJ	ADJ		
+59	jours	jour	NC	NC	n=p|g=m	
+60	)	)	PONCT	PONCT		
+61	,	,	PONCT	PONCT		
+62	ce	ce	PRO	PRO	n=s	
+63	qui	qui	PROREL	PROREL	n=s	
+64	nuit	nuire	V	V	n=s|t=P|p=3	
+65	à	à	P	P		
+66	la	la	DET	DET	n=s|g=f	
+67	meilleure	meilleur	ADJ	ADJ	n=s|g=f	
+68	gestion	gestion	NC	NC	n=s|g=f	
+69	des	de	P+D	P+D	n=p	
+70	installations	installation	NC	NC	n=p|g=f	
+71	et	et	CC	CC		
+72	à	à	P	P		
+73	l'	le	DET	DET	n=s	
+74	optimisation	optimisation	NC	NC	n=s|g=f	
+75	des	de	P+D	P+D	n=p	
+76	délais	délai	NC	NC	n=p|g=m	
+77	de	de	P	P		
+78	levées	levée	NC	NC	n=p|g=f	
+79	de	de	P	P		
+80	mesures	mesure	NC	NC	n=p|g=f	
+81	restrictives	restrictif	ADJ	ADJ	n=p|g=f	
+82	d'	de	P	P		
+83	usage	usage	NC	NC	n=s|g=m	
+84	de	de	P	P		
+85	l'	le	DET	DET	n=s	
+86	eau	eau	NC	NC	n=s|g=f	
+87	.	.	PONCT	PONCT		
+
+1	De	de	P	P		
+2	plus	plus	ADV	ADV		
+3	,	,	PONCT	PONCT		
+4	elle	elle	CLS	CLS	n=s|g=f|p=3	
+5	ne	ne	ADV	ADV		
+6	prend	prendre	V	V	n=s|t=P|p=3	
+7	pas	pas	ADV	ADV		
+8	en	en	P	P		
+9	compte	compte	NC	NC	n=s|g=m	
+10	toutes	tout	ADJ	ADJ	n=p|g=f	
+11	les	les	DET	DET	n=p	
+12	formes	forme	NC	NC	n=p|g=f	
+13	de	de	P	P		
+14	Legionella	_	NPP	NPP		
+15	[	[	PONCT	PONCT		
+16	18	18	ADJ	ADJ		
+17	]	]	PONCT	PONCT		
+18	,	,	PONCT	PONCT		
+19	car	car	CS	CS		
+20	il	il	CLS	CLS	n=s|g=m|p=3	
+21	existe	exister	V	V	n=s|t=P,S|p=1,3	
+22	un	un	DET	DET	n=s|g=m	
+23	certain	certain	ADJ	ADJ	n=s|g=m	
+24	nombre	nombre	NC	NC	n=s|g=m	
+25	de	de	P	P		
+26	légionelles	_	NPP	NPP		
+27	et	et	CC	CC		
+28	autres	autre	ADJ	ADJ	n=p	
+29	bactéries	bactérie	NC	NC	n=p|g=f	
+30	viables	viable	ADJ	ADJ	n=p	
+31	présentes	présent	ADJ	ADJ	n=p|g=f	
+32	dans	dans	P	P		
+33	l'	le	DET	DET	n=s	
+34	eau	eau	NC	NC	n=s|g=f	
+35	,	,	PONCT	PONCT		
+36	mais	mais	CC	CC		
+37	qu'	que	CS	CS		
+38	on	on	CLS	CLS	n=s|p=3	
+39	ne	ne	ADV	ADV		
+40	sait	savoir	V	V	n=s|t=P|p=3	
+41	pas	pas	ADV	ADV		
+42	cultiver	cultiver	VINF	VINF	t=W	
+43	[	[	PONCT	PONCT		
+44	21	21	ADJ	ADJ		
+45	]	]	PONCT	PONCT		
+46	.	.	PONCT	PONCT		
+
+1	Un	un	DET	DET	n=s|g=m	
+2	avis	avis	NC	NC	g=m	
+3	[	[	PONCT	PONCT		
+4	18	18	ADJ	ADJ		
+5	]	]	PONCT	PONCT		
+6	et	et	CC	CC		
+7	un	un	DET	DET	n=s|g=m	
+8	rapport	rapport	NC	NC	n=s|g=m	
+9	(	(	PONCT	PONCT		
+10	2011	2011	NC	NC		
+11	)	)	PONCT	PONCT		
+12	d'	de	P	P		
+13	expertise	expertise	NC	NC	n=s|g=f	
+14	collective	collectif	ADJ	ADJ	n=s|g=f	
+15	de	de	P	P		
+16	l'	le	DET	DET	n=s	
+17	ANSES	anse	NC	NC	n=p|g=f	
+18	ont	avoir	V	V	n=p|t=P|p=3	
+19	évalué	évaluer	VPP	VPP	n=s|g=m|t=K	
+20	les	les	DET	DET	n=p	
+21	méthodes	méthode	NC	NC	n=p|g=f	
+22	de	de	P	P		
+23	détection	détection	NC	NC	n=s|g=f	
+24	et	et	CC	CC		
+25	de	de	P	P		
+26	dénombrement	dénombrement	NC	NC	n=s|g=m	
+27	des	de	P+D	P+D	n=p	
+28	légionelles	_	NC	NC		
+29	dans	dans	P	P		
+30	l'	le	DET	DET	n=s	
+31	eau	eau	NC	NC	n=s|g=f	
+32	,	,	PONCT	PONCT		
+33	concluant	conclure	VPR	VPR	t=G	
+34	que	que	CS	CS		
+35	seules	seul	ADJ	ADJ	n=p|g=f	
+36	deux	deux	DET	DET	s=card|n=p	
+37	méthodes	méthode	NC	NC	n=p|g=f	
+38	sont	être	V	V	n=p|t=P|p=3	
+39	"	"	PONCT	PONCT		
+40	suffisamment	_	ADV	ADV		
+41	pertinentes	pertinent	ADJ	ADJ	n=p|g=f	
+42	et	et	CC	CC		
+43	robustes	robuste	ADJ	ADJ	n=p	
+44	"	"	PONCT	PONCT		
+45	;	;	PONCT	PONCT		
+46	la	la	DET	DET	n=s|g=f	
+47	méthode	méthode	NC	NC	n=s|g=f	
+48	réglementaire	réglementaire	ADJ	ADJ	n=s	
+49	par	par	P	P		
+50	culture	culture	NC	NC	n=s|g=f	
+51	(	(	PONCT	PONCT		
+52	norme	norme	NC	NC	n=s|g=f	
+53	NF	_	NPP	NPP		
+54	T90	_	NPP	NPP		
+55	431	431	NC	NC		
+56	)	)	PONCT	PONCT		
+57	et	et	CC	CC		
+58	(	(	PONCT	PONCT		
+59	plus	plus	ADV	ADV		
+60	rapide	rapide	ADJ	ADJ	n=s	
+61	mais	mais	CC	CC		
+62	pas	pas	ADV	ADV		
+63	réglementaire	réglementaire	ADJ	ADJ	n=s	
+64	dans	dans	P	P		
+65	les	les	DET	DET	n=p	
+66	arrêtés	arrêté	NC	NC	n=p|g=m	
+67	ECS	_	NPP	NPP		
+68	et	et	CC	CC		
+69	TAR	_	NPP	NPP		
+70	[	[	PONCT	PONCT		
+71	22	22	NC	NC		
+72	]	]	PONCT	PONCT		
+73	)	)	PONCT	PONCT		
+74	la	la	DET	DET	n=s|g=f	
+75	PCR	_	NPP	NPP		
+76	quantitative	quantitatif	ADJ	ADJ	n=s|g=f	
+77	(	(	PONCT	PONCT		
+78	norme	norme	NC	NC	n=s|g=f	
+79	NF	_	NPP	NPP		
+80	T90	_	NPP	NPP		
+81	471	471	NC	NC		
+82	)	)	PONCT	PONCT		
+83	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	n'	ne	ADV	ADV		
+3	existe	exister	V	V	n=s|t=P,S|p=1,3	
+4	,	,	PONCT	PONCT		
+5	à	à	P	P		
+6	l'	le	DET	DET	n=s	
+7	heure	heure	NC	NC	n=s|g=f	
+8	actuelle	actuel	ADJ	ADJ	n=s|g=f	
+9	,	,	PONCT	PONCT		
+10	aucun	aucun	DET	DET	n=s|g=m	
+11	système	système	NC	NC	n=s|g=m	
+12	portable	portable	ADJ	ADJ	n=s	
+13	susceptible	susceptible	ADJ	ADJ	n=s	
+14	de	de	P	P		
+15	réaliser	réaliser	VINF	VINF	t=W	
+16	le	le	DET	DET	n=s|g=m	
+17	dénombrement	dénombrement	NC	NC	n=s|g=m	
+18	de	de	P	P		
+19	Legionella	_	NPP	NPP		
+20	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	est	être	V	V	n=s|t=P|p=3	
+3	OBLIGATOIRE	_	ADV	ADV		
+4	sur	sur	P	P		
+5	les	les	DET	DET	n=p	
+6	réseaux	réseau	NC	NC	n=p|g=m	
+7	ECS	_	NPP	NPP		
+8	et	et	CC	CC		
+9	les	les	DET	DET	n=p	
+10	TAR	_	NC	NC		
+11	de	de	P	P		
+12	à	à	P	P		
+13	travers	travers	NC	NC	g=m	
+14	les	les	DET	DET	n=p	
+15	Carnets	_	NPP	NPP		
+16	Sanitaires	_	NPP	NPP		
+17	ECS	_	NPP	NPP		
+18	ou	ou	CC	CC		
+19	des	de	P+D	P+D	n=p	
+20	TAR	_	NPP	NPP		
+21	:	:	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	surveillance	surveillance	NC	NC	n=s|g=f	
+3	bactériologique	bactériologique	ADJ	ADJ	n=s	
+4	est	être	V	V	n=s|t=P|p=3	
+5	obligatoire	obligatoire	ADJ	ADJ	n=s	
+6	(	(	PONCT	PONCT		
+7	en	en	P	P		
+8	milieu	milieu	NC	NC	n=s|g=m	
+9	hospitalier	hospitalier	ADJ	ADJ	n=s|g=m	
+10	souvent	souvent	ADV	ADV		
+11	réalisée	réaliser	VPP	VPP	n=s|g=f|t=K	
+12	par	par	P	P		
+13	un	un	DET	DET	n=s|g=m	
+14	technicien	technicien	NC	NC	n=s|g=m	
+15	biohygiéniste	_	ADJ	ADJ		
+16	)	)	PONCT	PONCT		
+17	:	:	PONCT	PONCT		
+
+1	En	en	P	P		
+2	dehors	dehors	NC	NC	g=m	
+3	des	de	P+D	P+D	n=p	
+4	prélèvements	prélèvement	NC	NC	n=p|g=m	
+5	microbiologiques	_	ADJ	ADJ		
+6	:	:	PONCT	PONCT		
+
+1	Dans	dans	P	P		
+2	les	les	DET	DET	n=p	
+3	établissements	établissement	NC	NC	n=p|g=m	
+4	de	de	P	P		
+5	santé	santé	NC	NC	n=s|g=f	
+6	,	,	PONCT	PONCT		
+7	les	les	DET	DET	n=p	
+8	procédures	procédure	NC	NC	n=p|g=f	
+9	concernant	concerner	VPR	VPR	t=G	
+10	le	le	DET	DET	n=s|g=m	
+11	réseau	réseau	NC	NC	n=s|g=m	
+12	d'	de	P	P		
+13	eau	eau	NC	NC	n=s|g=f	
+14	doivent	devoir	V	V	n=p|t=P,S|p=3	
+15	être	être	VINF	VINF	t=W	
+16	validées	valider	VPP	VPP	n=p|g=f|t=K	
+17	par	par	P	P		
+18	le	le	DET	DET	n=s|g=m	
+19	CLIN	clin	NC	NC	n=s|g=m	
+20	de	de	P	P		
+21	l'	le	DET	DET	n=s	
+22	établissement	établissement	NC	NC	n=s|g=m	
+23	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	cas	cas	NC	NC	g=m	
+3	d'	de	P	P		
+4	alerte	alerte	NC	NC	n=s|g=f	
+5	la	la	DET	DET	n=s|g=f	
+6	direction	direction	NC	NC	n=s|g=f	
+7	et	et	CC	CC		
+8	le	le	DET	DET	n=s|g=m	
+9	CLIN	_	NPP	NPP		
+10	doivent	devoir	V	V	n=p|t=P,S|p=3	
+11	être	être	VINF	VINF	t=W	
+12	prévenus	prévenir	VPP	VPP	n=p|g=m|t=K	
+13	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	cas	cas	NC	NC	g=m	
+3	d'	de	P	P		
+4	intervention	intervention	NC	NC	n=s|g=f	
+5	technique	technique	ADJ	ADJ	n=s	
+6	sur	sur	P	P		
+7	le	le	DET	DET	n=s|g=m	
+8	réseau	réseau	NC	NC	n=s|g=m	
+9	d'	de	P	P		
+10	eau	eau	NC	NC	n=s|g=f	
+11	,	,	PONCT	PONCT		
+12	le	le	DET	DET	n=s|g=m	
+13	personnel	personnel	NC	NC	n=s|g=m	
+14	doit	devoir	V	V	n=s|t=P|p=3	
+15	être	être	VINF	VINF	t=W	
+16	protégé	protéger	VPP	VPP	n=s|g=m|t=K	
+17	des	des	DET	DET	n=p	
+18	éventuelles	éventuel	ADJ	ADJ	n=p|g=f	
+19	aérosolisations	_	NC	NC		
+20	d'	de	P	P		
+21	eaux	eau	NC	NC	n=p|g=f	
+22	,	,	PONCT	PONCT		
+23	notamment	_	ADV	ADV		
+24	lorsqu'	lorsque	CS	CS		
+25	il	il	CLS	CLS	n=s|g=m|p=3	
+26	travaille	travailler	V	V	n=s|t=P,S|p=1,3	
+27	sur	sur	P	P		
+28	le	le	DET	DET	n=s|g=m	
+29	réseau	réseau	NC	NC	n=s|g=m	
+30	d'	de	P	P		
+31	eau	eau	NC	NC	n=s|g=f	
+32	chaude	chaud	ADJ	ADJ	n=s|g=f	
+33	.	.	PONCT	PONCT		
+
+1	Port	port	NC	NC	n=s|g=m	
+2	de	de	P	P		
+3	masque	masque	NC	NC	n=s|g=m	
+4	FFP3	_	NPP	NPP		
+5	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	gants	gant	NC	NC	n=p|g=m	
+3	sont	être	V	V	n=p|t=P|p=3	
+4	inutiles	inutile	ADJ	ADJ	n=p	
+5	pour	pour	P	P		
+6	la	la	DET	DET	n=s|g=f	
+7	protection	protection	NC	NC	n=s|g=f	
+8	vis	vivre	V	V	n=s|t=P|p=1,2	
+9	-	-	PONCT	PONCT		
+10	à	à	P	P		
+11	-	-	PONCT	PONCT		
+12	vis	vis	NC	NC	g=f	
+13	de	de	P	P		
+14	la	la	DET	DET	n=s|g=f	
+15	légionelle	_	NC	NC		
+16	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	légionellose	_	NC	NC		
+3	est	être	V	V	n=s|t=P|p=3	
+4	une	une	DET	DET	n=s|g=f	
+5	infection	infection	NC	NC	n=s|g=f	
+6	strictement	_	ADV	ADV		
+7	respiratoire	respiratoire	ADJ	ADJ	n=s	
+8	,	,	PONCT	PONCT		
+9	il	il	CLS	CLS	n=s|g=m|p=3	
+10	n'	ne	ADV	ADV		
+11	existe	exister	V	V	n=s|t=P,S|p=1,3	
+12	pas	pas	ADV	ADV		
+13	d'	de	P	P		
+14	infections	infection	NC	NC	n=p|g=f	
+15	cutanées	cutané	ADJ	ADJ	n=p|g=f	
+16	à	à	P	P		
+17	Legionella	_	NPP	NPP		
+18	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	bactéries	bactérie	NC	NC	n=p|g=f	
+3	du	de	P+D	P+D	n=s|g=m	
+4	genre	genre	NC	NC	n=s|g=m	
+5	Legionella	_	NPP	NPP		
+6	sont	être	V	V	n=p|t=P|p=3	
+7	des	des	DET	DET	n=p	
+8	bacilles	bacille	NC	NC	n=p|g=m	
+9	à	à	P	P		
+10	Gram	_	NPP	NPP		
+11	négatif	négatif	ADJ	ADJ	n=s|g=m	
+12	(	(	PONCT	PONCT		
+13	mais	mais	CC	CC		
+14	rarement	_	ADV	ADV		
+15	visibles	visible	ADJ	ADJ	n=p	
+16	à	à	P	P		
+17	l'	le	DET	DET	n=s	
+18	examen	examen	NC	NC	n=s|g=m	
+19	direct	direct	ADJ	ADJ	n=s|g=m	
+20	)	)	PONCT	PONCT		
+21	,	,	PONCT	PONCT		
+22	elles	elles	CLS	CLS	n=p|g=f|p=3	
+23	sont	être	V	V	n=p|t=P|p=3	
+24	mobiles	mobile	ADJ	ADJ	n=p	
+25	(	(	PONCT	PONCT		
+26	1	1	NC	NC		
+27	ou	ou	CC	CC		
+28	2	2	NC	NC		
+29	flagelles	_	ADJ	ADJ		
+30	polaires	polaire	ADJ	ADJ	n=p	
+31	)	)	PONCT	PONCT		
+32	,	,	PONCT	PONCT		
+33	aérobies	aérobie	ADJ	ADJ	n=p	
+34	strictes	strict	ADJ	ADJ	n=p|g=f	
+35	,	,	PONCT	PONCT		
+36	catalase	_	NC	NC		
+37	faiblement	_	ADV	ADV		
+38	positive	positif	ADJ	ADJ	n=s|g=f	
+39	.	.	PONCT	PONCT		
+
+1	Leur	leur	DET	DET	n=s|p=3|poss=p	
+2	paroi	paroi	NC	NC	n=s|g=f	
+3	a	avoir	V	V	n=s|t=P|p=3	
+4	la	la	DET	DET	n=s|g=f	
+5	particularité	particularité	NC	NC	n=s|g=f	
+6	de	de	P	P		
+7	contenir	contenir	VINF	VINF	t=W	
+8	des	des	DET	DET	n=p	
+9	acides	acide	NC	NC	n=p|g=m	
+10	gras	gras	ADJ	ADJ	g=m	
+11	ramifiés	ramifier	VPP	VPP	n=p|g=m|t=K	
+12	insaturés	_	NPP	NPP		
+13	.	.	PONCT	PONCT		
+
+1	Ces	ces	DET	DET	n=p	
+2	bactéries	bactérie	NC	NC	n=p|g=f	
+3	sont	être	V	V	n=p|t=P|p=3	
+4	particulièrement	_	ADV	ADV		
+5	exigeantes	exigeant	ADJ	ADJ	n=p|g=f	
+6	et	et	CC	CC		
+7	ne	ne	ADV	ADV		
+8	peuvent	pouvoir	V	V	n=p|t=P|p=3	
+9	être	être	VINF	VINF	t=W	
+10	cultivées	cultiver	VPP	VPP	n=p|g=f|t=K	
+11	que	que	CS	CS		
+12	sur	sur	P	P		
+13	milieux	milieu	NC	NC	n=p|g=m	
+14	spéciaux	spécial	ADJ	ADJ	n=p|g=m	
+15	contenant	contenir	VPR	VPR	t=G	
+16	de	de	P	P		
+17	la	la	DET	DET	n=s|g=f	
+18	cystéine	_	NPP	NPP		
+19	et	et	CC	CC		
+20	du	de	P+D	P+D	n=s|g=m	
+21	fer	fer	NC	NC	n=s|g=m	
+22	comme	comme	P	P		
+23	le	le	DET	DET	n=s|g=m	
+24	milieu	milieu	NC	NC	n=s|g=m	
+25	CYE	_	NPP	NPP		
+26	(	(	PONCT	PONCT		
+27	Charbon	charbon	NC	NC	n=s|g=m	
+28	,	,	PONCT	PONCT		
+29	Yeast	_	NPP	NPP		
+30	Extract	_	NPP	NPP		
+31	)	)	PONCT	PONCT		
+32	,	,	PONCT	PONCT		
+33	le	le	DET	DET	n=s|g=m	
+34	milieu	milieu	NC	NC	n=s|g=m	
+35	GVPC	_	NPP	NPP		
+36	ou	ou	CC	CC		
+37	le	le	DET	DET	n=s|g=m	
+38	milieu	milieu	NC	NC	n=s|g=m	
+39	BCYE	_	NPP	NPP		
+40	(	(	PONCT	PONCT		
+41	Buffered	_	NPP	NPP		
+42	Charcoal	_	NPP	NPP		
+43	Yeast	_	NPP	NPP		
+44	Extract	_	NPP	NPP		
+45	avec	avec	P	P		
+46	cystéine	_	NPP	NPP		
+47	,	,	PONCT	PONCT		
+48	fer	fer	NC	NC	n=s|g=m	
+49	et	et	CC	CC		
+50	charbon	charbon	NC	NC	n=s|g=m	
+51	actif	actif	ADJ	ADJ	n=s|g=m	
+52	,	,	PONCT	PONCT		
+53	milieu	milieu	NC	NC	n=s|g=m	
+54	de	de	P	P		
+55	couleur	couleur	NC	NC	n=s|g=f	
+56	noir	noir	ADJ	ADJ	n=s|g=m	
+57	pour	pour	P	P		
+58	éviter	éviter	VINF	VINF	t=W	
+59	que	que	CS	CS		
+60	les	les	DET	DET	n=p	
+61	radicaux	radical	ADJ	ADJ	n=p|g=m	
+62	libres	libre	ADJ	ADJ	n=p	
+63	ne	ne	ADV	ADV		
+64	tuent	tuer	V	V	n=p|t=P,S|p=3	
+65	les	les	DET	DET	n=p	
+66	légionelles	_	NC	NC		
+67	in	in	ADJ	ADJ		
+68	vitro	_	NC	NC		
+69	[	[	PONCT	PONCT		
+70	réf	_	NC	NC		
+71	.	.	PONCT	PONCT		
+72	souhaitée	souhaiter	VPP	VPP	n=s|g=f|t=K	
+73	]	]	PONCT	PONCT		
+74	.	.	PONCT	PONCT		
+
+1	C'	ce	CLS	CLS		
+2	est	être	V	V	n=s|t=P|p=3	
+3	un	un	DET	DET	n=s|g=m	
+4	milieu	milieu	NC	NC	n=s|g=m	
+5	de	de	P	P		
+6	culture	culture	NC	NC	n=s|g=f	
+7	utilisé	utiliser	VPP	VPP	n=s|g=m|t=K	
+8	pour	pour	P	P		
+9	l'	le	DET	DET	n=s	
+10	isolement	isolement	NC	NC	n=s|g=m	
+11	sélectif	sélectif	ADJ	ADJ	n=s|g=m	
+12	de	de	P	P		
+13	Legionella	_	NPP	NPP		
+14	;	;	PONCT	PONCT		
+15	il	il	CLS	CLS	n=s|g=m|p=3	
+16	est	être	V	V	n=s|t=P|p=3	
+17	aussi	aussi	ADV	ADV		
+18	appelé	appeler	VPP	VPP	n=s|g=m|t=K	
+19	gélose	gélose	NC	NC	n=s|g=f	
+20	pour	pour	P	P		
+21	Legionella	_	NPP	NPP		
+
+1	On	on	CLS	CLS	n=s|p=3	
+2	ajoute	ajouter	V	V	n=s|t=P,S|p=1,3	
+3	des	des	DET	DET	n=p	
+4	suppléments	supplément	NC	NC	n=p|g=m	
+5	de	de	P	P		
+6	croissance	croissance	NC	NC	n=s|g=f	
+7	et	et	CC	CC		
+8	inhibiteurs	inhibiteur	NC	NC	n=p|g=m	
+9	thermosensibles	_	ADJ	ADJ		
+10	à	à	P	P		
+11	de	de	P	P		
+12	la	la	DET	DET	n=s|g=f	
+13	gélose	gélose	NC	NC	n=s|g=f	
+14	de	de	P	P		
+15	base	base	NC	NC	n=s|g=f	
+16	CYE	_	NPP	NPP		
+17	.	.	PONCT	PONCT		
+

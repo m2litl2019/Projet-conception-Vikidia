@@ -1,0 +1,454 @@
+1	.	.	PONCT	PONCT		
+2	mw	_	NPP	NPP		
+3	-	-	PONCT	PONCT		
+4	parser	_	NPP	NPP		
+5	-	-	PONCT	PONCT		
+6	output	output	NC	NC	n=s|g=m	
+7	h1	_	ADJ	ADJ		
+8	#	_	ADV	ADV		
+9	sous	sous	P	P		
+10	&und;	&und;	PONCT	PONCT		
+11	titre	titre	NC	NC	n=s|g=m	
+12	&und;	&und;	PONCT	PONCT		
+13	h1	_	NC	NC		
+14	{	{	PONCT	PONCT		
+15	display	_	NPP	NPP		
+16	:	:	PONCT	PONCT		
+17	block	_	NPP	NPP		
+18	;	;	PONCT	PONCT		
+19	font	faire	V	V	n=p|t=P|p=3	
+20	-	-	PONCT	PONCT		
+21	size	_	NPP	NPP		
+22	:	:	PONCT	PONCT		
+23	0	0	NC	NC		
+24	.	.	PONCT	PONCT		
+25	7em	_	NPP	NPP		
+26	;	;	PONCT	PONCT		
+27	line	line	NC	NC	n=s|g=f	
+28	-	-	PONCT	PONCT		
+29	height	_	NPP	NPP		
+30	:	:	PONCT	PONCT		
+31	1	1	NC	NC		
+32	.	.	PONCT	PONCT		
+33	3em	_	NPP	NPP		
+34	;	;	PONCT	PONCT		
+35	margin	_	NPP	NPP		
+36	:	:	PONCT	PONCT		
+37	0	0	NC	NC		
+38	.	.	PONCT	PONCT		
+39	2em	_	NPP	NPP		
+40	0	0	NC	NC		
+41	0	0	NC	NC		
+42	.	.	PONCT	PONCT		
+43	1em	_	NPP	NPP		
+44	0	0	NC	NC		
+45	.	.	PONCT	PONCT		
+46	5em	_	NPP	NPP		
+47	}	}	PONCT	PONCT		
+48	Bourane	_	NPP	NPP		
+
+1	Vous	vous	CLS	CLS	n=p|p=2	
+2	pouvez	pouvoir	V	V	n=p|t=P|p=2	
+3	partager	partager	VINF	VINF	t=W	
+4	vos	vos	DET	DET	n=p|p=2|poss=p	
+5	connaissances	connaissance	NC	NC	n=p|g=f	
+6	en	en	P	P		
+7	l'	le	DET	DET	n=s	
+8	améliorant	_	NC	NC		
+9	(	(	PONCT	PONCT		
+10	comment	comment	ADVWH	ADVWH		
+11	?	?	PONCT	PONCT		
+12	)	)	PONCT	PONCT		
+13	selon	selon	P	P		
+14	les	les	DET	DET	n=p	
+15	recommandations	recommandation	NC	NC	n=p|g=f	
+16	des	de	P+D	P+D	n=p	
+17	projets	projet	NC	NC	n=p|g=m	
+18	correspondants	correspondant	ADJ	ADJ	n=p|g=m	
+19	.	.	PONCT	PONCT		
+
+1	modifier	modifier	VINF	VINF	t=W	
+2	Bourane	_	NPP	NPP		
+3	1.01	1.01	NPP	NPP		
+4	(	(	PONCT	PONCT		
+5	ou	ou	CC	CC		
+6	tout	tout	ADV	ADV		
+7	simplement	_	ADV	ADV		
+8	Bourane	_	NPP	NPP		
+9	)	)	PONCT	PONCT		
+10	était	être	V	V	n=s|t=I|p=3	
+11	la	la	DET	DET	n=s|g=f	
+12	première	premier	ADJ	ADJ	n=s|g=f	
+13	des	de	P+D	P+D	n=p	
+14	cinq	cinq	ADJ	ADJ	s=card|n=p	
+15	navettes	navette	NC	NC	n=p|g=f	
+16	spatiales	spatial	ADJ	ADJ	n=p|g=f	
+17	du	de	P+D	P+D	n=s|g=m	
+18	projet	projet	NC	NC	n=s|g=m	
+19	Bourane	_	NPP	NPP		
+20	.	.	PONCT	PONCT		
+
+1	C'	ce	CLS	CLS		
+2	est	être	V	V	n=s|t=P|p=3	
+3	la	la	DET	DET	n=s|g=f	
+4	plus	plus	ADV	ADV		
+5	connue	connaître	VPP	VPP	n=s|g=f|t=K	
+6	des	des	DET	DET	n=p	
+7	navettes	navette	NC	NC	n=p|g=f	
+8	Bourane	_	NPP	NPP		
+9	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	effet	effet	NC	NC	n=s|g=m	
+3	,	,	PONCT	PONCT		
+4	c'	ce	CLS	CLS		
+5	est	être	V	V	n=s|t=P|p=3	
+6	l'	le	DET	DET	n=s	
+7	unique	unique	ADJ	ADJ	n=s	
+8	navette	navette	NC	NC	n=s|g=f	
+9	soviétique	soviétique	ADJ	ADJ	n=s	
+10	à	à	P	P		
+11	avoir	avoir	VINF	VINF	t=W	
+12	effectué	effectuer	VPP	VPP	n=s|g=m|t=K	
+13	un	un	DET	DET	n=s|g=m	
+14	vol	vol	NC	NC	n=s|g=m	
+15	spatial	spatial	ADJ	ADJ	n=s|g=m	
+16	,	,	PONCT	PONCT		
+17	en	en	P	P		
+18	1988	1988	NC	NC		
+19	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	2002	2002	NC	NC		
+3	,	,	PONCT	PONCT		
+4	l'	le	DET	DET	n=s	
+5	effondrement	effondrement	NC	NC	n=s|g=m	
+6	du	de	P+D	P+D	n=s|g=m	
+7	toit	toit	NC	NC	n=s|g=m	
+8	du	de	P+D	P+D	n=s|g=m	
+9	bâtiment	bâtiment	NC	NC	n=s|g=m	
+10	qui	qui	PROREL	PROREL	n=s	
+11	l'	le	CLO	CLO	n=s|p=3	
+12	abritait	abriter	V	V	n=s|t=I|p=3	
+13	l'	le	CLO	CLO	n=s|p=3	
+14	a	avoir	V	V	n=s|t=P|p=3	
+15	détruite	détruire	VPP	VPP	n=s|g=f|t=K	
+16	ainsi	ainsi	ADV	ADV		
+17	que	que	CS	CS		
+18	la	la	DET	DET	n=s|g=f	
+19	fusée	fusée	NC	NC	n=s|g=f	
+20	Energyia	_	NPP	NPP		
+21	sur	sur	P	P		
+22	laquelle	lequel	PROREL	PROREL	n=s|g=f	
+23	elle	elle	CLS	CLS	n=s|g=f|p=3	
+24	était	être	V	V	n=s|t=I|p=3	
+25	posée	poser	VPP	VPP	n=s|g=f|t=K	
+26	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	construction	construction	NC	NC	n=s|g=f	
+3	de	de	P	P		
+4	l'	le	DET	DET	n=s	
+5	orbiteur	_	NC	NC		
+6	,	,	PONCT	PONCT		
+7	le	le	DET	DET	n=s|g=m	
+8	premier	premier	ADJ	ADJ	n=s|g=m	
+9	des	de	P+D	P+D	n=p	
+10	cinq	cinq	ADJ	ADJ	s=card|n=p	
+11	prévus	prévoir	VPP	VPP	n=p|g=m|t=K	
+12	(	(	PONCT	PONCT		
+13	dont	dont	PROREL	PROREL		
+14	deux	deux	DET	DET	s=card|n=p	
+15	seulement	_	NC	NC		
+16	ont	avoir	V	V	n=p|t=P|p=3	
+17	été	être	VPP	VPP	t=K	
+18	terminés	terminer	VPP	VPP	n=p|g=m|t=K	
+19	)	)	PONCT	PONCT		
+20	débute	débuter	V	V	n=s|t=P,S|p=1,3	
+21	en	en	P	P		
+22	1986	1986	NC	NC		
+23	,	,	PONCT	PONCT		
+24	après	après	P	P		
+25	les	les	DET	DET	n=p	
+26	importants	important	ADJ	ADJ	n=p|g=m	
+27	tests	test	NC	NC	n=p|g=m	
+28	réalisés	réaliser	VPP	VPP	n=p|g=m|t=K	
+29	sur	sur	P	P		
+30	les	les	DET	DET	n=p	
+31	8	8	ADJ	ADJ		
+32	maquettes	maquette	NC	NC	n=p|g=f	
+33	grandeur	grandeur	NC	NC	n=s|g=f	
+34	nature	_	ADJ	ADJ		
+35	.	.	PONCT	PONCT		
+
+1	Bourane	_	NPP	NPP		
+2	1.01	1.01	NPP	NPP		
+3	a	avoir	V	V	n=s|t=P|p=3	
+4	été	être	VPP	VPP	t=K	
+5	principalement	_	ADV	ADV		
+6	construite	construire	VPP	VPP	n=s|g=f|t=K	
+7	à	à	P	P		
+8	Moscou	Moscou	NPP	NPP	n=s|g=m	
+9	avant	avant	P	P		
+10	d'	de	P	P		
+11	être	être	VINF	VINF	t=W	
+12	transportée	transporter	VPP	VPP	n=s|g=f|t=K	
+13	par	par	P	P		
+14	avion	avion	NC	NC	n=s|g=m	
+15	M3	_	NPP	NPP		
+16	pour	pour	P	P		
+17	l'	le	DET	DET	n=s	
+18	assemblage	assemblage	NC	NC	n=s|g=m	
+19	final	final	ADJ	ADJ	n=s|g=m	
+20	au	à	P+D	P+D	n=s|g=m	
+21	cosmodrome	cosmodrome	NC	NC	n=s|g=m	
+22	de	de	P	P		
+23	Baïkonour	_	NPP	NPP		
+24	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	fut	être	V	V	n=s|t=J|p=3	
+3	préparée	préparer	VPP	VPP	n=s|g=f|t=K	
+4	et	et	CC	CC		
+5	assemblée	assembler	VPP	VPP	n=s|g=f|t=K	
+6	sur	sur	P	P		
+7	Energyia	_	NPP	NPP		
+8	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	15	15	ADJ	ADJ		
+3	novembre	novembre	NC	NC	n=s|g=m	
+4	1988	1988	NC	NC		
+5	,	,	PONCT	PONCT		
+6	Bourane	_	NPP	NPP		
+7	s'	se	CLR	CLR	n=p,s|p=3	
+8	envole	envoler	V	V	n=s|t=P,S|p=1,3	
+9	pour	pour	P	P		
+10	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+11	seule	seul	ADJ	ADJ	n=s|g=f	
+12	et	et	CC	CC		
+13	unique	unique	ADJ	ADJ	n=s	
+14	mission	mission	NC	NC	n=s|g=f	
+15	,	,	PONCT	PONCT		
+16	sans	sans	P	P		
+17	équipage	équipage	NC	NC	n=s|g=m	
+18	,	,	PONCT	PONCT		
+19	où	où	PROREL	PROREL		
+20	elle	elle	CLS	CLS	n=s|g=f|p=3	
+21	effectuera	effectuer	V	V	n=s|t=F|p=3	
+22	2	2	ADJ	ADJ		
+23	orbites	orbite	NC	NC	n=p|g=f	
+24	autour	autour	NC	NC	n=s|g=m	
+25	de	de	P	P		
+26	la	la	DET	DET	n=s|g=f	
+27	Terre	_	NPP	NPP		
+28	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	atterrira	atterrir	V	V	n=s|t=F|p=3	
+3	sans	sans	P	P		
+4	problème	problème	NC	NC	n=s|g=m	
+5	à	à	P	P		
+6	Baïkonour	_	NPP	NPP		
+7	.	.	PONCT	PONCT		
+
+1	Avec	avec	P	P		
+2	les	les	DET	DET	n=p	
+3	problèmes	problème	NC	NC	n=p|g=m	
+4	financiers	financier	ADJ	ADJ	n=p|g=m	
+5	que	que	PROREL	PROREL		
+6	rencontre	rencontrer	V	V	n=s|t=P,S|p=1,3	
+7	déjà	déjà	ADV	ADV		
+8	le	le	DET	DET	n=s|g=m	
+9	programme	programme	NC	NC	n=s|g=m	
+10	spatial	spatial	ADJ	ADJ	n=s|g=m	
+11	soviétique	soviétique	ADJ	ADJ	n=s	
+12	,	,	PONCT	PONCT		
+13	Bourane	_	NPP	NPP		
+14	est	être	V	V	n=s|t=P|p=3	
+15	"	"	PONCT	PONCT		
+16	mise	mettre	VPP	VPP	n=s|g=f|t=K	
+17	au	à	P+D	P+D	n=s|g=m	
+18	garage	garage	NC	NC	n=s|g=m	
+19	"	"	PONCT	PONCT		
+20	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	est	être	V	V	n=s|t=P|p=3	
+3	sortie	sortir	VPP	VPP	n=s|g=f|t=K	
+4	une	une	DET	DET	n=s|g=f	
+5	année	année	NC	NC	n=s|g=f	
+6	plus	plus	ADV	ADV		
+7	tard	tard	ADV	ADV		
+8	,	,	PONCT	PONCT		
+9	pour	pour	P	P		
+10	être	être	VINF	VINF	t=W	
+11	exposée	exposer	VPP	VPP	n=s|g=f|t=K	
+12	au	à	P+D	P+D	n=s|g=m	
+13	salon	salon	NC	NC	n=s|g=m	
+14	du	de	P+D	P+D	n=s|g=m	
+15	Bourget	_	NPP	NPP		
+16	à	à	P	P		
+17	Paris	Paris	NPP	NPP	n=s|g=m	
+18	en	en	P	P		
+19	juin	juin	NC	NC	n=s|g=m	
+20	1989	1989	NC	NC		
+21	,	,	PONCT	PONCT		
+22	sur	sur	P	P		
+23	le	le	DET	DET	n=s|g=m	
+24	dos	dos	NC	NC	g=m	
+25	du	de	P+D	P+D	n=s|g=m	
+26	plus	plus	ADV	ADV		
+27	gros	gros	ADJ	ADJ	g=m	
+28	avion	avion	NC	NC	n=s|g=m	
+29	du	de	P+D	P+D	n=s|g=m	
+30	monde	monde	NC	NC	n=s|g=m	
+31	,	,	PONCT	PONCT		
+32	conçu	concevoir	VPP	VPP	n=s|g=m|t=K	
+33	pour	pour	P	P		
+34	elle	elle	PRO	PRO	n=s|g=f|p=3	
+35	,	,	PONCT	PONCT		
+36	l'	le	DET	DET	n=s	
+37	An	An	NPP	NPP	n=s	
+38	-225	-225	NPP	NPP		
+39	.	.	PONCT	PONCT		
+
+1	Bourane	_	NPP	NPP		
+2	ainsi	ainsi	ADV	ADV		
+3	que	que	CS	CS		
+4	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+5	sœur	_	NC	NC		
+6	Ptichka	_	NPP	NPP		
+7	sont	être	V	V	n=p|t=P|p=3	
+8	aujourd'hui	aujourd'hui	ADV	ADV		
+9	la	la	DET	DET	n=s|g=f	
+10	propriété	propriété	NC	NC	n=s|g=f	
+11	du	de	P+D	P+D	n=s|g=m	
+12	Kazakhstan	Kazakhstan	NPP	NPP	n=s|g=m	
+13	.	.	PONCT	PONCT		
+
+1	Jusqu'	jusque	P	P		
+2	à	à	P	P		
+3	l'	le	DET	DET	n=s	
+4	année	année	NC	NC	n=s|g=f	
+5	2002	2002	NC	NC		
+6	,	,	PONCT	PONCT		
+7	Bourane	_	NPP	NPP		
+8	1.01	1.01	NPP	NPP		
+9	était	être	V	V	n=s|t=I|p=3	
+10	stockée	stocker	VPP	VPP	n=s|g=f|t=K	
+11	à	à	P	P		
+12	Baïkonour	_	NPP	NPP		
+13	,	,	PONCT	PONCT		
+14	sur	sur	P	P		
+15	une	une	DET	DET	n=s|g=f	
+16	maquette	maquette	NC	NC	n=s|g=f	
+17	de	de	P	P		
+18	fusée	fusée	NC	NC	n=s|g=f	
+19	Energia	_	NPP	NPP		
+20	dans	dans	P	P		
+21	le	le	DET	DET	n=s|g=m	
+22	bâtiment	bâtiment	NC	NC	n=s|g=m	
+23	d'	de	P	P		
+24	assemblage	assemblage	NC	NC	n=s|g=m	
+25	d'	de	P	P		
+26	Energia	_	NPP	NPP		
+27	.	.	PONCT	PONCT		
+
+1	Bourane	_	NPP	NPP		
+2	était	être	V	V	n=s|t=I|p=3	
+3	autrefois	autrefois	ADV	ADV		
+4	stocké	stocker	VPP	VPP	n=s|g=m|t=K	
+5	dans	dans	P	P		
+6	le	le	DET	DET	n=s|g=m	
+7	bâtiment	bâtiment	NC	NC	n=s|g=m	
+8	d'	de	P	P		
+9	assemblage	assemblage	NC	NC	n=s|g=m	
+10	Bourane	_	NPP	NPP		
+11	(	(	PONCT	PONCT		
+12	MIK	_	NPP	NPP		
+13	)	)	PONCT	PONCT		
+14	dans	dans	P	P		
+15	une	une	DET	DET	n=s|g=f	
+16	atmosphère	atmosphère	NC	NC	n=s|g=f	
+17	contrôlée	contrôler	VPP	VPP	n=s|g=f|t=K	
+18	.	.	PONCT	PONCT		
+
+1	Mais	mais	CC	CC		
+2	ces	ces	DET	DET	n=p	
+3	installations	installation	NC	NC	n=p|g=f	
+4	ont	avoir	V	V	n=p|t=P|p=3	
+5	été	être	VPP	VPP	t=K	
+6	utilisées	utiliser	VPP	VPP	n=p|g=f|t=K	
+7	pour	pour	P	P		
+8	les	les	DET	DET	n=p	
+9	Soyouz	_	NPP	NPP		
+10	et	et	CC	CC		
+11	les	les	DET	DET	n=p	
+12	lanceurs	lanceur	NC	NC	n=p|g=m	
+13	Proton	_	NPP	NPP		
+14	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	12	12	ADJ	ADJ		
+3	mai	mai	NC	NC	n=s|g=m	
+4	2002	2002	NC	NC		
+5	,	,	PONCT	PONCT		
+6	des	des	DET	DET	n=p	
+7	vents	vent	NC	NC	n=p|g=m	
+8	très	très	ADV	ADV		
+9	violents	violent	ADJ	ADJ	n=p|g=m	
+10	et	et	CC	CC		
+11	un	un	DET	DET	n=s|g=m	
+12	mauvais	mauvais	ADJ	ADJ	g=m	
+13	entretien	entretien	NC	NC	n=s|g=m	
+14	des	de	P+D	P+D	n=p	
+15	installations	installation	NC	NC	n=p|g=f	
+16	entraînent	entraîner	V	V	n=p|t=P,S|p=3	
+17	l'	le	DET	DET	n=s	
+18	effondrement	effondrement	NC	NC	n=s|g=m	
+19	du	de	P+D	P+D	n=s|g=m	
+20	toit	toit	NC	NC	n=s|g=m	
+21	du	de	P+D	P+D	n=s|g=m	
+22	bâtiment	bâtiment	NC	NC	n=s|g=m	
+23	abritant	abriter	VPR	VPR	t=G	
+24	Bourane	_	NPP	NPP		
+25	,	,	PONCT	PONCT		
+26	tuant	tuer	VPR	VPR	t=G	
+27	7	7	ADJ	ADJ		
+28	ouvriers	ouvrier	NC	NC	n=p|g=m	
+29	occupés	occuper	VPP	VPP	n=p|g=m|t=K	
+30	à	à	P	P		
+31	réparer	réparer	VINF	VINF	t=W	
+32	le	le	DET	DET	n=s|g=m	
+33	toit	toit	NC	NC	n=s|g=m	
+34	et	et	CC	CC		
+35	détruisant	détruire	VPR	VPR	t=G	
+36	Bourane	_	NPP	NPP		
+37	et	et	CC	CC		
+38	Energia	_	NPP	NPP		
+39	[	[	PONCT	PONCT		
+40	1	1	NC	NC		
+41	]	]	PONCT	PONCT		
+42	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	ne	ne	ADV	ADV		
+3	reste	rester	V	V	n=s|t=P,S|p=1,3	
+4	désormais	désormais	ADV	ADV		
+5	qu'	que	CS	CS		
+6	une	une	DET	DET	n=s|g=f	
+7	navette	navette	NC	NC	n=s|g=f	
+8	Bourane	_	NPP	NPP		
+9	complète	complet	ADJ	ADJ	n=s|g=f	
+10	,	,	PONCT	PONCT		
+11	Ptichka	_	NPP	NPP		
+12	.	.	PONCT	PONCT		
+
+1	Sur	sur	P	P		
+2	les	les	DET	DET	n=p	
+3	autres	autre	ADJ	ADJ	n=p	
+4	projets	projet	NC	NC	n=p|g=m	
+5	Wikimedia	_	NPP	NPP		
+6	:	:	PONCT	PONCT		
+

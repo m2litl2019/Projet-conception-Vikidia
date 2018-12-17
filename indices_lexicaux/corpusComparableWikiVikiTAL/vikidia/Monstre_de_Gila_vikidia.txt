@@ -1,0 +1,2365 @@
+1	Le	le	DET	DET	n=s|g=m	
+2	monstre	monstre	NC	NC	n=s|g=m	
+3	de	de	P	P		
+4	Gila	_	NPP	NPP		
+5	ressemble	ressembler	V	V	n=s|t=P,S|p=1,3	
+6	à	à	P	P		
+7	un	un	DET	DET	n=s|g=m	
+8	gros	gros	ADJ	ADJ	g=m	
+9	lézard	lézard	NC	NC	n=s|g=m	
+10	,	,	PONCT	PONCT		
+11	avec	avec	P	P		
+12	un	un	DET	DET	n=s|g=m	
+13	corps	corps	NC	NC	g=m	
+14	massif	massif	ADJ	ADJ	n=s|g=m	
+15	,	,	PONCT	PONCT		
+16	à	à	P	P		
+17	peu	peu	ADV	ADV		
+18	près	près	ADV	ADV		
+19	cylindrique	cylindrique	ADJ	ADJ	n=s	
+20	,	,	PONCT	PONCT		
+21	avec	avec	P	P		
+22	de	de	DET	DET	n=p	
+23	courtes	court	ADJ	ADJ	n=p|g=f	
+24	pattes	patte	NC	NC	n=p|g=f	
+25	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	peut	pouvoir	V	V	n=s|t=P|p=3	
+3	mesurer	mesurer	VINF	VINF	t=W	
+4	jusqu'	jusque	P	P		
+5	à	à	P	P		
+6	60	60	NC	NC		
+7	centimètres	centimètre	NC	NC	n=p|g=m	
+8	de	de	P	P		
+9	long	long	ADJ	ADJ	n=s|g=m	
+10	environ	environ	ADV	ADV		
+11	,	,	PONCT	PONCT		
+12	et	et	CC	CC		
+13	vit	vivre	V	V	n=s|t=P|p=3	
+14	une	une	DET	DET	n=s|g=f	
+15	vingtaine	vingtaine	NC	NC	n=s|g=f	
+16	d'	de	P	P		
+17	années	année	NC	NC	n=p|g=f	
+18	dans	dans	P	P		
+19	la	la	DET	DET	n=s|g=f	
+20	nature	nature	NC	NC	n=s|g=f	
+21	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	queue	queue	NC	NC	n=s|g=f	
+3	est	être	V	V	n=s|t=P|p=3	
+4	également	_	ADV	ADV		
+5	très	très	ADV	ADV		
+6	grosse	gros	ADJ	ADJ	n=s|g=f	
+7	,	,	PONCT	PONCT		
+8	courte	court	ADJ	ADJ	n=s|g=f	
+9	et	et	CC	CC		
+10	épaisse	épais	ADJ	ADJ	n=s|g=f	
+11	:	:	PONCT	PONCT		
+12	elle	elle	CLS	CLS	n=s|g=f|p=3	
+13	ressemble	ressembler	V	V	n=s|t=P,S|p=1,3	
+14	à	à	P	P		
+15	une	une	DET	DET	n=s|g=f	
+16	sorte	sorte	NC	NC	n=s|g=f	
+17	de	de	P	P		
+18	grosse	gros	ADJ	ADJ	n=s|g=f	
+19	saucisse	saucisse	NC	NC	n=s|g=f	
+20	!	!	PONCT	PONCT		
+
+1	Ce	ce	CLS	CLS		
+2	n'	ne	ADV	ADV		
+3	est	être	V	V	n=s|t=P|p=3	
+4	pas	pas	ADV	ADV		
+5	un	un	DET	DET	n=s|g=m	
+6	hasard	hasard	NC	NC	n=s|g=m	
+7	si	si	CS	CS		
+8	le	le	DET	DET	n=s|g=m	
+9	monstre	monstre	NC	NC	n=s|g=m	
+10	de	de	P	P		
+11	Gila	_	NPP	NPP		
+12	a	avoir	V	V	n=s|t=P|p=3	
+13	cet	cet	DET	DET	n=s|g=m	
+14	aspect	aspect	NC	NC	n=s|g=m	
+15	grassouillet	grassouillet	ADJ	ADJ	n=s|g=m	
+16	et	et	CC	CC		
+17	rondouillard	rondouillard	NC	NC	n=s|g=m	
+18	:	:	PONCT	PONCT		
+19	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+20	corps	corps	NC	NC	g=m	
+21	stocke	stocker	V	V	n=s|t=P,S|p=1,3	
+22	de	de	DET	DET	n=p	
+23	grandes	grand	ADJ	ADJ	n=p|g=f	
+24	réserves	réserve	NC	NC	n=p|g=f	
+25	de	de	P	P		
+26	graisses	graisse	NC	NC	n=p|g=f	
+27	,	,	PONCT	PONCT		
+28	qui	qui	PROREL	PROREL	n=s	
+29	vont	aller	V	V	n=p|t=P|p=3	
+30	lui	lui	CLO	CLO	n=s|p=3	
+31	permettre	permettre	VINF	VINF	t=W	
+32	de	de	P	P		
+33	survivre	survivre	VINF	VINF	t=W	
+34	dans	dans	P	P		
+35	le	le	DET	DET	n=s|g=m	
+36	désert	désert	NC	NC	n=s|g=m	
+37	.	.	PONCT	PONCT		
+
+1	Son	son	DET	DET	n=s|g=m|p=3|poss=s	
+2	corps	corps	NC	NC	g=m	
+3	est	être	V	V	n=s|t=P|p=3	
+4	vivement	_	ADV	ADV		
+5	coloré	colorer	VPP	VPP	n=s|g=m|t=K	
+6	,	,	PONCT	PONCT		
+7	en	en	P	P		
+8	rose	rose	NC	NC	n=s	
+9	-	-	PONCT	PONCT		
+10	orangé	orangé	NC	NC	n=s|g=m	
+11	et	et	CC	CC		
+12	noir	noir	ADJ	ADJ	n=s|g=m	
+13	.	.	PONCT	PONCT		
+
+1	On	on	CLS	CLS	n=s|p=3	
+2	distingue	distinguer	V	V	n=s|t=P,S|p=1,3	
+3	deux	deux	DET	DET	s=card|n=p	
+4	sortes	sorte	NC	NC	n=p|g=f	
+5	de	de	P	P		
+6	monstres	monstre	NC	NC	n=p|g=m	
+7	de	de	P	P		
+8	Gila	_	NPP	NPP		
+9	:	:	PONCT	PONCT		
+10	le	le	DET	DET	n=s|g=m	
+11	monstre	monstre	NC	NC	n=s|g=m	
+12	de	de	P	P		
+13	Gila	_	NPP	NPP		
+14	réticulé	réticulé	ADJ	ADJ	n=s|g=m	
+15	(	(	PONCT	PONCT		
+16	Heloderma	_	NPP	NPP		
+17	suspectum	_	NPP	NPP		
+18	suspectum	_	NPP	NPP		
+19	)	)	PONCT	PONCT		
+20	,	,	PONCT	PONCT		
+21	qui	qui	PROREL	PROREL	n=s	
+22	vit	vivre	V	V	n=s|t=P|p=3	
+23	plus	plus	ADV	ADV		
+24	au	à	P+D	P+D	n=s|g=m	
+25	sud	_	NPP	NPP		
+26	,	,	PONCT	PONCT		
+27	a	avoir	V	V	n=s|t=P|p=3	
+28	des	des	DET	DET	n=p	
+29	rayures	rayure	NC	NC	n=p|g=f	
+30	assez	assez	ADV	ADV		
+31	irrégulières	irrégulier	ADJ	ADJ	n=p|g=f	
+32	,	,	PONCT	PONCT		
+33	il	il	CLS	CLS	n=s|g=m|p=3	
+34	est	être	V	V	n=s|t=P|p=3	
+35	plus	plus	ADV	ADV		
+36	ou	ou	CC	CC		
+37	moins	moins	ADV	ADV		
+38	tacheté	tacheter	VPP	VPP	n=s|g=m|t=K	
+39	de	de	P	P		
+40	rose	rose	NC	NC	n=s	
+41	et	et	CC	CC		
+42	noir	noir	ADJ	ADJ	n=s|g=m	
+43	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	monstre	monstre	NC	NC	n=s|g=m	
+3	de	de	P	P		
+4	Gila	_	NPP	NPP		
+5	à	à	P	P		
+6	bandes	bande	NC	NC	n=p|g=f	
+7	(	(	PONCT	PONCT		
+8	Heloderma	_	NPP	NPP		
+9	suspectum	_	NPP	NPP		
+10	cinctus	_	NPP	NPP		
+11	)	)	PONCT	PONCT		
+12	est	être	V	V	n=s|t=P|p=3	
+13	une	une	DET	DET	n=s|g=f	
+14	autre	autre	ADJ	ADJ	n=s	
+15	sous	sou	NC	NC	n=p|g=m	
+16	-	-	PONCT	PONCT		
+17	espèce	espèce	NC	NC	n=s|g=f	
+18	,	,	PONCT	PONCT		
+19	qui	qui	PROREL	PROREL	n=s	
+20	vit	vivre	V	V	n=s|t=P|p=3	
+21	plus	plus	ADV	ADV		
+22	au	à	P+D	P+D	n=s|g=m	
+23	nord	_	NPP	NPP		
+24	,	,	PONCT	PONCT		
+25	principalement	_	ADV	ADV		
+26	dans	dans	P	P		
+27	le	le	DET	DET	n=s|g=m	
+28	désert	désert	NC	NC	n=s|g=m	
+29	Mojave	_	NPP	NPP		
+30	.	.	PONCT	PONCT		
+
+1	Comme	comme	P	P		
+2	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+3	nom	nom	NC	NC	n=s|g=m	
+4	l'	le	CLO	CLO	n=s|p=3	
+5	indique	indiquer	V	V	n=s|t=P,S|p=1,3	
+6	,	,	PONCT	PONCT		
+7	il	il	CLS	CLS	n=s|g=m|p=3	
+8	se	se	CLR	CLR	n=p,s|p=3	
+9	reconnaît	reconnaître	V	V	n=s|t=P|p=3	
+10	par	par	P	P		
+11	les	les	DET	DET	n=p	
+12	motifs	motif	NC	NC	n=p|g=m	
+13	de	de	P	P		
+14	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+15	corps	corps	NC	NC	g=m	
+16	:	:	PONCT	PONCT		
+17	les	les	DET	DET	n=p	
+18	rayures	rayure	NC	NC	n=p|g=f	
+19	forment	former	V	V	n=p|t=P,S|p=3	
+20	de	de	DET	DET	n=p	
+21	larges	large	ADJ	ADJ	n=p	
+22	bandes	bande	NC	NC	n=p|g=f	
+23	,	,	PONCT	PONCT		
+24	beaucoup	beaucoup	ADV	ADV		
+25	plus	plus	ADV	ADV		
+26	nettes	net	ADJ	ADJ	n=p|g=f	
+27	que	que	CS	CS		
+28	celles	celle	PRO	PRO	n=p|g=f	
+29	de	de	P	P		
+30	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+31	cousin	cousin	NC	NC	n=s|g=m	
+32	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	monstre	monstre	NC	NC	n=s|g=m	
+3	de	de	P	P		
+4	Gila	_	NPP	NPP		
+5	a	avoir	V	V	n=s|t=P|p=3	
+6	une	une	DET	DET	n=s|g=f	
+7	grosse	gros	ADJ	ADJ	n=s|g=f	
+8	tête	tête	NC	NC	n=s|g=f	
+9	assez	assez	ADV	ADV		
+10	carrée	carrer	ADJ	ADJ	n=s|g=f|t=K	
+11	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	possède	posséder	V	V	n=s|t=P,S|p=1,3	
+3	une	une	DET	DET	n=s|g=f	
+4	large	large	ADJ	ADJ	n=s	
+5	bouche	bouche	NC	NC	n=s|g=f	
+6	,	,	PONCT	PONCT		
+7	qui	qui	PROREL	PROREL	n=s	
+8	lui	lui	CLO	CLO	n=s|p=3	
+9	permet	permettre	V	V	n=s|t=P|p=3	
+10	d'	de	P	P		
+11	engloutir	engloutir	VINF	VINF	t=W	
+12	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+13	nourriture	nourriture	NC	NC	n=s|g=f	
+14	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	est	être	V	V	n=s|t=P|p=3	
+3	garnie	garnir	VPP	VPP	n=s|g=f|t=K	
+4	de	de	DET	DET	n=p	
+5	petites	petit	ADJ	ADJ	n=p|g=f	
+6	dents	dent	NC	NC	n=p|g=f	
+7	pointues	pointu	ADJ	ADJ	n=p|g=f	
+8	et	et	CC	CC		
+9	très	très	ADV	ADV		
+10	aiguisées	aiguiser	VPP	VPP	n=p|g=f|t=K	
+11	,	,	PONCT	PONCT		
+12	qui	qui	PROREL	PROREL	n=s	
+13	peuvent	pouvoir	V	V	n=p|t=P|p=3	
+14	infliger	infliger	VINF	VINF	t=W	
+15	de	de	P	P		
+16	profondes	profond	ADJ	ADJ	n=p|g=f	
+17	morsures	morsure	NC	NC	n=p|g=f	
+18	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	a	avoir	V	V	n=s|t=P|p=3	
+3	une	une	DET	DET	n=s|g=f	
+4	longue	long	ADJ	ADJ	n=s|g=f	
+5	langue	langue	NC	NC	n=s|g=f	
+6	,	,	PONCT	PONCT		
+7	"	"	PONCT	PONCT		
+8	fourchue	fourchu	ADJ	ADJ	n=s|g=f	
+9	"	"	PONCT	PONCT		
+10	comme	comme	P	P		
+11	celle	celle	PRO	PRO	n=s|g=f	
+12	de	de	P	P		
+13	ses	ses	DET	DET	n=p|p=3|poss=s	
+14	cousins	cousin	NC	NC	n=p|g=m	
+15	,	,	PONCT	PONCT		
+16	les	les	DET	DET	n=p	
+17	serpents	serpent	NC	NC	n=p|g=m	
+18	.	.	PONCT	PONCT		
+
+1	Mais	mais	CC	CC		
+2	,	,	PONCT	PONCT		
+3	le	le	DET	DET	n=s|g=m	
+4	plus	plus	ADV	ADV		
+5	curieux	curieux	ADJ	ADJ	g=m	
+6	,	,	PONCT	PONCT		
+7	et	et	CC	CC		
+8	assez	assez	ADV	ADV		
+9	inhabituel	inhabituel	ADJ	ADJ	n=s|g=m	
+10	,	,	PONCT	PONCT		
+11	pour	pour	P	P		
+12	un	un	DET	DET	n=s|g=m	
+13	lézard	lézard	NC	NC	n=s|g=m	
+14	,	,	PONCT	PONCT		
+15	c'	ce	CLS	CLS		
+16	est	être	V	V	n=s|t=P|p=3	
+17	que	que	CS	CS		
+18	la	la	DET	DET	n=s|g=f	
+19	morsure	morsure	NC	NC	n=s|g=f	
+20	du	de	P+D	P+D	n=s|g=m	
+21	monstre	monstre	NC	NC	n=s|g=m	
+22	de	de	P	P		
+23	Gila	_	NPP	NPP		
+24	est	être	V	V	n=s|t=P|p=3	
+25	venimeuse	venimeux	ADJ	ADJ	n=s|g=f	
+26	...	...	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	monstre	monstre	NC	NC	n=s|g=m	
+3	de	de	P	P		
+4	Gila	_	NPP	NPP		
+5	est	être	V	V	n=s|t=P|p=3	
+6	un	un	DET	DET	n=s|g=m	
+7	animal	animal	NC	NC	n=s|g=m	
+8	assez	assez	ADV	ADV		
+9	craintif	craintif	ADJ	ADJ	n=s|g=m	
+10	,	,	PONCT	PONCT		
+11	qui	qui	PROREL	PROREL	n=s	
+12	vit	vivre	V	V	n=s|t=P|p=3	
+13	caché	cacher	VPP	VPP	n=s|g=m|t=K	
+14	dans	dans	P	P		
+15	les	les	DET	DET	n=p	
+16	terriers	terrier	NC	NC	n=p|g=m	
+17	,	,	PONCT	PONCT		
+18	dort	dormir	V	V	n=s|t=P|p=3	
+19	beaucoup	beaucoup	ADV	ADV		
+20	,	,	PONCT	PONCT		
+21	sort	sortir	V	V	n=s|t=P|p=3	
+22	peu	peu	ADV	ADV		
+23	,	,	PONCT	PONCT		
+24	et	et	CC	CC		
+25	surtout	surtout	ADV	ADV		
+26	la	la	DET	DET	n=s|g=f	
+27	nuit	nuit	NC	NC	n=s|g=f	
+28	.	.	PONCT	PONCT		
+
+1	Quand	quand	CS	CS		
+2	il	il	CLS	CLS	n=s|g=m|p=3	
+3	repère	repérer	V	V	n=s|t=P,S|p=1,3	
+4	un	un	DET	DET	n=s|g=m	
+5	intrus	intrus	ADJ	ADJ	g=m	
+6	,	,	PONCT	PONCT		
+7	il	il	CLS	CLS	n=s|g=m|p=3	
+8	préfère	préférer	V	V	n=s|t=P,S|p=1,3	
+9	s'	se	CLR	CLR	n=p,s|p=3	
+10	enfuir	enfuir	VINF	VINF	t=W	
+11	,	,	PONCT	PONCT		
+12	et	et	CC	CC		
+13	n'	ne	ADV	ADV		
+14	attaque	attaquer	V	V	n=s|t=P,S|p=1,3	
+15	que	que	CS	CS		
+16	si	si	CS	CS		
+17	on	on	CLS	CLS	n=s|p=3	
+18	le	le	CLO	CLO	n=s|g=m|p=3	
+19	dérange	déranger	V	V	n=s|t=P,S|p=1,3	
+20	.	.	PONCT	PONCT		
+
+1	Lorsqu'	lorsque	CS	CS		
+2	il	il	CLS	CLS	n=s|g=m|p=3	
+3	est	être	V	V	n=s|t=P|p=3	
+4	embêté	embêter	VPP	VPP	n=s|g=m|t=K	
+5	,	,	PONCT	PONCT		
+6	le	le	DET	DET	n=s|g=m	
+7	monstre	monstre	NC	NC	n=s|g=m	
+8	de	de	P	P		
+9	Gila	_	NPP	NPP		
+10	se	se	CLR	CLR	n=p,s|p=3	
+11	roule	rouler	V	V	n=s|t=P,S|p=1,3	
+12	en	en	P	P		
+13	boule	boule	NC	NC	n=s|g=f	
+14	ouvre	ouvrir	V	V	n=s|t=P,S|p=1,3	
+15	grand	grand	ADJ	ADJ	n=s|g=m	
+16	la	la	DET	DET	n=s|g=f	
+17	bouche	bouche	NC	NC	n=s|g=f	
+18	,	,	PONCT	PONCT		
+19	et	et	CC	CC		
+20	montre	montrer	V	V	n=s|t=P,S|p=1,3	
+21	les	les	DET	DET	n=p	
+22	dents	dent	NC	NC	n=p|g=f	
+23	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	pousse	pousser	V	V	n=s|t=P,S|p=1,3	
+3	des	des	DET	DET	n=p	
+4	sortes	sorte	NC	NC	n=p|g=f	
+5	de	de	P	P		
+6	sifflements	sifflement	NC	NC	n=p|g=m	
+7	rauques	_	NC	NC		
+8	très	très	ADV	ADV		
+9	impressionnants	impressionnant	ADJ	ADJ	n=p|g=m	
+10	qui	qui	PROREL	PROREL	n=s	
+11	,	,	PONCT	PONCT		
+12	habituellement	_	ADV	ADV		
+13	,	,	PONCT	PONCT		
+14	suffisent	suffire	V	V	n=p|t=P,S|p=3	
+15	à	à	P	P		
+16	faire	faire	VINF	VINF	t=W	
+17	fuir	fuir	VINF	VINF	t=W	
+18	l'	le	DET	DET	n=s	
+19	agresseur	agresseur	NC	NC	n=s|g=m	
+20	.	.	PONCT	PONCT		
+
+1	Si	si	CS	CS		
+2	malgré	malgré	P	P		
+3	tout	tout	PRO	PRO	n=s|g=m	
+4	,	,	PONCT	PONCT		
+5	celui	celui	PRO	PRO	n=s|g=m	
+6	-	-	PONCT	PONCT		
+7	ci	_	NPP	NPP		
+8	insiste	insister	V	V	n=s|t=P,S|p=1,3	
+9	,	,	PONCT	PONCT		
+10	alors	alors	ADV	ADV		
+11	le	le	DET	DET	n=s|g=m	
+12	monstre	monstre	NC	NC	n=s|g=m	
+13	de	de	P	P		
+14	Gila	_	NPP	NPP		
+15	n'	ne	ADV	ADV		
+16	a	avoir	V	V	n=s|t=P|p=3	
+17	plus	plus	ADV	ADV		
+18	le	le	DET	DET	n=s|g=m	
+19	choix	choix	NC	NC	g=m	
+20	:	:	PONCT	PONCT		
+21	il	il	CLS	CLS	n=s|g=m|p=3	
+22	mord	mordre	V	V	n=s|t=P|p=3	
+23	,	,	PONCT	PONCT		
+24	pour	pour	P	P		
+25	se	se	CLR	CLR	n=p,s|p=3	
+26	défendre	défendre	VINF	VINF	t=W	
+27	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	n'	ne	ADV	ADV		
+3	est	être	V	V	n=s|t=P|p=3	
+4	pas	pas	ADV	ADV		
+5	très	très	ADV	ADV		
+6	rapide	rapide	ADJ	ADJ	n=s	
+7	et	et	CC	CC		
+8	se	se	CLR	CLR	n=p,s|p=3	
+9	déplace	déplacer	V	V	n=s|t=P,S|p=1,3	
+10	jusqu'	jusque	P	P		
+11	à	à	P	P		
+12	5	5	ADJ	ADJ		
+13	km	kilomètre	NC	NC	g=m	
+14	/	/	PONCT	PONCT		
+15	h	heure	NC	NC	g=f	
+16	mais	mais	CC	CC		
+17	il	il	CLS	CLS	n=s|g=m|p=3	
+18	est	être	V	V	n=s|t=P|p=3	
+19	très	très	ADV	ADV		
+20	discret	discret	ADJ	ADJ	n=s|g=m	
+21	,	,	PONCT	PONCT		
+22	et	et	CC	CC		
+23	malgré	malgré	P	P		
+24	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+25	vitesse	vitesse	NC	NC	n=s|g=f	
+26	faible	faible	ADJ	ADJ	n=s	
+27	,	,	PONCT	PONCT		
+28	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+29	proie	proie	NC	NC	n=s|g=f	
+30	ne	ne	ADV	ADV		
+31	peut	pouvoir	V	V	n=s|t=P|p=3	
+32	pas	pas	ADV	ADV		
+33	toujours	toujours	ADV	ADV		
+34	échapper	échapper	VINF	VINF	t=W	
+35	à	à	P	P		
+36	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+37	embuscade	embuscade	NC	NC	n=s|g=f	
+38	quand	quand	CS	CS		
+39	il	il	CLS	CLS	n=s|g=m|p=3	
+40	sort	sortir	V	V	n=s|t=P|p=3	
+41	de	de	P	P		
+42	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+43	trou	trou	NC	NC	n=s|g=m	
+44	.	.	PONCT	PONCT		
+
+1	Comme	comme	P	P		
+2	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+3	proche	proche	ADJ	ADJ	n=s	
+4	parent	parent	NC	NC	n=s|g=m	
+5	,	,	PONCT	PONCT		
+6	le	le	DET	DET	n=s|g=m	
+7	lézard	lézard	NC	NC	n=s|g=m	
+8	perlé	perler	VPP	VPP	n=s|g=m|t=K	
+9	,	,	PONCT	PONCT		
+10	le	le	DET	DET	n=s|g=m	
+11	monstre	monstre	NC	NC	n=s|g=m	
+12	de	de	P	P		
+13	Gila	_	NPP	NPP		
+14	est	être	V	V	n=s|t=P|p=3	
+15	l'	le	DET	DET	n=s	
+16	un	un	PRO	PRO	n=s|g=m	
+17	des	de	P+D	P+D	n=p	
+18	rares	rare	ADJ	ADJ	n=p	
+19	lézards	lézard	NC	NC	n=p|g=m	
+20	venimeux	venimeux	ADJ	ADJ	g=m	
+21	.	.	PONCT	PONCT		
+
+1	Sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+2	morsure	morsure	NC	NC	n=s|g=f	
+3	provoque	provoquer	V	V	n=s|t=P,S|p=1,3	
+4	une	une	DET	DET	n=s|g=f	
+5	violente	violent	ADJ	ADJ	n=s|g=f	
+6	douleur	douleur	NC	NC	n=s|g=f	
+7	,	,	PONCT	PONCT		
+8	un	un	DET	DET	n=s|g=m	
+9	œdème	_	NC	NC		
+10	,	,	PONCT	PONCT		
+11	une	une	DET	DET	n=s|g=f	
+12	baisse	baisse	NC	NC	n=s|g=f	
+13	de	de	P	P		
+14	la	la	DET	DET	n=s|g=f	
+15	pression	pression	NC	NC	n=s|g=f	
+16	artérielle	artériel	ADJ	ADJ	n=s|g=f	
+17	et	et	CC	CC		
+18	des	de	P+D	P+D	n=p	
+19	malaises	malaise	NC	NC	n=p|g=m	
+20	,	,	PONCT	PONCT		
+21	mais	mais	CC	CC		
+22	n'	ne	ADV	ADV		
+23	est	être	V	V	n=s|t=P|p=3	
+24	,	,	PONCT	PONCT		
+25	normalement	_	ADV	ADV		
+26	,	,	PONCT	PONCT		
+27	pas	pas	ADV	ADV		
+28	mortelle	mortel	ADJ	ADJ	n=s|g=f	
+29	pour	pour	P	P		
+30	l'	le	DET	DET	n=s	
+31	homme	homme	NC	NC	n=s|g=m	
+32	:	:	PONCT	PONCT		
+33	le	le	DET	DET	n=s|g=m	
+34	monstre	monstre	NC	NC	n=s|g=m	
+35	de	de	P	P		
+36	Gila	_	NPP	NPP		
+37	utilise	utiliser	V	V	n=s|t=P,S|p=1,3	
+38	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+39	venin	venin	NC	NC	n=s|g=m	
+40	pour	pour	P	P		
+41	se	se	CLR	CLR	n=p,s|p=3	
+42	défendre	défendre	VINF	VINF	t=W	
+43	,	,	PONCT	PONCT		
+44	il	il	CLS	CLS	n=s|g=m|p=3	
+45	n'	ne	ADV	ADV		
+46	a	avoir	V	V	n=s|t=P|p=3	
+47	aucun	aucun	DET	DET	n=s|g=m	
+48	intérêt	intérêt	NC	NC	n=s|g=m	
+49	à	à	P	P		
+50	tuer	tuer	VINF	VINF	t=W	
+51	ses	ses	DET	DET	n=p|p=3|poss=s	
+52	victimes	victime	NC	NC	n=p|g=f	
+53	:	:	PONCT	PONCT		
+54	il	il	CLS	CLS	n=s|g=m|p=3	
+55	vaut	valoir	V	V	n=s|t=P|p=3	
+56	mieux	mieux	ADV	ADV		
+57	pour	pour	P	P		
+58	lui	lui	PRO	PRO	n=s|g=m|p=3	
+59	que	que	CS	CS		
+60	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+61	venin	venin	NC	NC	n=s|g=m	
+62	ne	ne	ADV	ADV		
+63	soit	être	VS	VS	n=s|t=S|p=3	
+64	pas	pas	ADV	ADV		
+65	mortel	mortel	ADJ	ADJ	n=s|g=m	
+66	,	,	PONCT	PONCT		
+67	afin	_	ADV	ADV		
+68	que	que	CS	CS		
+69	celui	celui	PRO	PRO	n=s|g=m	
+70	qu'	que	PROREL	PROREL		
+71	il	il	CLS	CLS	n=s|g=m|p=3	
+72	mord	mordre	V	V	n=s|t=P|p=3	
+73	survive	_	NC	NC		
+74	,	,	PONCT	PONCT		
+75	s'	se	CLR	CLR	n=p,s|p=3	
+76	en	en	CLO	CLO		
+77	souvienne	_	ADJ	ADJ		
+78	,	,	PONCT	PONCT		
+79	et	et	CC	CC		
+80	ne	ne	ADV	ADV		
+81	revienne	revenir	VS	VS	n=s|t=S|p=1,3	
+82	plus	plus	ADV	ADV		
+83	l'	le	CLO	CLO	n=s|p=3	
+84	embêter	embêter	VINF	VINF	t=W	
+85	!	!	PONCT	PONCT		
+
+1	D'	de	P	P		
+2	ailleurs	ailleurs	ADV	ADV		
+3	,	,	PONCT	PONCT		
+4	les	les	DET	DET	n=p	
+5	couleurs	couleur	NC	NC	n=p|g=f	
+6	vives	vif	ADJ	ADJ	n=p|g=f	
+7	de	de	P	P		
+8	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+9	corps	corps	NC	NC	g=m	
+10	mettent	mettre	V	V	n=p|t=P,S|p=3	
+11	en	en	P	P		
+12	garde	garde	NC	NC	n=s	
+13	les	les	DET	DET	n=p	
+14	animaux	animal	NC	NC	n=p|g=m	
+15	:	:	PONCT	PONCT		
+16	c'	ce	CLS	CLS		
+17	est	être	V	V	n=s|t=P|p=3	
+18	ce	ce	PRO	PRO	n=s	
+19	que	que	PROREL	PROREL		
+20	l'	le	DET	DET	n=s	
+21	on	on	CLS	CLS	n=s|p=3	
+22	appelle	appeler	V	V	n=s|t=P,S|p=1,3	
+23	l'	le	DET	DET	n=s	
+24	aposématisme	_	NC	NC		
+25	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	corps	corps	NC	NC	g=m	
+3	du	de	P+D	P+D	n=s|g=m	
+4	monstre	monstre	NC	NC	n=s|g=m	
+5	de	de	P	P		
+6	Gila	_	NPP	NPP		
+7	porte	porter	V	V	n=s|t=P,S|p=1,3	
+8	des	des	DET	DET	n=p	
+9	bandes	bande	NC	NC	n=p|g=f	
+10	noires	noir	ADJ	ADJ	n=p|g=f	
+11	et	et	CC	CC		
+12	roses	rose	ADJ	ADJ	n=p	
+13	,	,	PONCT	PONCT		
+14	qui	qui	PROREL	PROREL	n=s	
+15	présentent	présenter	V	V	n=p|t=P,S|p=3	
+16	un	un	DET	DET	n=s|g=m	
+17	fort	fort	ADJ	ADJ	n=s|g=m	
+18	contraste	contraste	NC	NC	n=s|g=m	
+19	.	.	PONCT	PONCT		
+
+1	Un	un	DET	DET	n=s|g=m	
+2	animal	animal	NC	NC	n=s|g=m	
+3	qui	qui	PROREL	PROREL	n=s	
+4	a	avoir	V	V	n=s|t=P|p=3	
+5	été	être	VPP	VPP	t=K	
+6	mordu	mordre	VPP	VPP	n=s|g=m|t=K	
+7	,	,	PONCT	PONCT		
+8	ou	ou	CC	CC		
+9	piqué	piquer	VPP	VPP	n=s|g=m|t=K	
+10	,	,	PONCT	PONCT		
+11	par	par	P	P		
+12	quelque	quelque	DET	DET	n=s	
+13	chose	chose	NC	NC	n=s|g=f	
+14	de	de	P	P		
+15	venimeux	venimeux	ADJ	ADJ	g=m	
+16	présentant	présenter	VPR	VPR	t=G	
+17	des	des	DET	DET	n=p	
+18	rayures	rayure	NC	NC	n=p|g=f	
+19	très	très	ADV	ADV		
+20	voyantes	voyant	ADJ	ADJ	n=p|g=f	
+21	,	,	PONCT	PONCT		
+22	il	il	CLS	CLS	n=s|g=m|p=3	
+23	s'	se	CLR	CLR	n=p,s|p=3	
+24	en	en	CLO	CLO		
+25	souviendra	souvenir	V	V	n=s|t=F|p=3	
+26	,	,	PONCT	PONCT		
+27	et	et	CC	CC		
+28	évitera	éviter	V	V	n=s|t=F|p=3	
+29	désormais	désormais	ADV	ADV		
+30	de	de	P	P		
+31	s'	se	CLR	CLR	n=p,s|p=3	
+32	approcher	approcher	VINF	VINF	t=W	
+33	de	de	P	P		
+34	tout	tout	ADJ	ADJ	n=s|g=m	
+35	ce	ce	PRO	PRO	n=s	
+36	qui	qui	PROREL	PROREL	n=s	
+37	porte	porter	V	V	n=s|t=P,S|p=1,3	
+38	des	des	DET	DET	n=p	
+39	rayures	rayure	NC	NC	n=p|g=f	
+40	vives	vif	ADJ	ADJ	n=p|g=f	
+41	...	...	PONCT	PONCT		
+
+1	Et	et	CC	CC		
+2	le	le	DET	DET	n=s|g=m	
+3	monstre	monstre	NC	NC	n=s|g=m	
+4	de	de	P	P		
+5	Gila	_	NPP	NPP		
+6	pourra	pouvoir	V	V	n=s|t=F|p=3	
+7	désormais	désormais	ADV	ADV		
+8	vivre	vivre	VINF	VINF	t=W	
+9	en	en	P	P		
+10	paix	paix	NC	NC	g=f	
+11	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	venin	venin	NC	NC	n=s|g=m	
+3	du	de	P+D	P+D	n=s|g=m	
+4	monstre	monstre	NC	NC	n=s|g=m	
+5	de	de	P	P		
+6	Gila	_	NPP	NPP		
+7	est	être	V	V	n=s|t=P|p=3	
+8	en	en	P	P		
+9	fait	fait	NC	NC	n=s|g=m	
+10	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+11	salive	salive	NC	NC	n=s|g=f	
+12	,	,	PONCT	PONCT		
+13	qui	qui	PROREL	PROREL	n=s	
+14	contient	contenir	V	V	n=s|t=P|p=3	
+15	plusieurs	plusieurs	DET	DET	n=p	
+16	substances	substance	NC	NC	n=p|g=f	
+17	toxiques	toxique	ADJ	ADJ	n=p	
+18	;	;	PONCT	PONCT		
+19	il	il	CLS	CLS	n=s|g=m|p=3	
+20	est	être	V	V	n=s|t=P|p=3	
+21	produit	produire	VPP	VPP	n=s|g=m|t=K	
+22	par	par	P	P		
+23	les	les	DET	DET	n=p	
+24	glandes	glande	NC	NC	n=p|g=f	
+25	salivaires	salivaire	ADJ	ADJ	n=p	
+26	.	.	PONCT	PONCT		
+
+1	Contrairement	_	ADV	ADV		
+2	à	à	P	P		
+3	ses	ses	DET	DET	n=p|p=3|poss=s	
+4	cousins	cousin	NC	NC	n=p|g=m	
+5	,	,	PONCT	PONCT		
+6	les	les	DET	DET	n=p	
+7	serpents	serpent	NC	NC	n=p|g=m	
+8	,	,	PONCT	PONCT		
+9	il	il	CLS	CLS	n=s|g=m|p=3	
+10	ne	ne	ADV	ADV		
+11	possède	posséder	V	V	n=s|t=P,S|p=1,3	
+12	pas	pas	ADV	ADV		
+13	de	de	P	P		
+14	dents	dent	NC	NC	n=p|g=f	
+15	spéciales	spécial	ADJ	ADJ	n=p|g=f	
+16	(	(	PONCT	PONCT		
+17	les	les	DET	DET	n=p	
+18	crochets	crochet	NC	NC	n=p|g=m	
+19	)	)	PONCT	PONCT		
+20	pour	pour	P	P		
+21	injecter	injecter	VINF	VINF	t=W	
+22	le	le	DET	DET	n=s|g=m	
+23	venin	venin	NC	NC	n=s|g=m	
+24	:	:	PONCT	PONCT		
+25	quand	quand	CS	CS		
+26	il	il	CLS	CLS	n=s|g=m|p=3	
+27	mord	mordre	V	V	n=s|t=P|p=3	
+28	,	,	PONCT	PONCT		
+29	le	le	DET	DET	n=s|g=m	
+30	venin	venin	NC	NC	n=s|g=m	
+31	coule	couler	V	V	n=s|t=P,S|p=1,3	
+32	tout	tout	ADV	ADV		
+33	simplement	_	ADV	ADV		
+34	le	le	DET	DET	n=s|g=m	
+35	long	long	ADJ	ADJ	n=s|g=m	
+36	de	de	P	P		
+37	ses	ses	DET	DET	n=p|p=3|poss=s	
+38	dents	dent	NC	NC	n=p|g=f	
+39	,	,	PONCT	PONCT		
+40	qui	qui	PROREL	PROREL	n=s	
+41	sont	être	V	V	n=p|t=P|p=3	
+42	pourvues	pourvoir	VPP	VPP	n=p|g=f|t=K	
+43	de	de	P	P		
+44	petites	petit	ADJ	ADJ	n=p|g=f	
+45	rainures	rainure	NC	NC	n=p|g=f	
+46	,	,	PONCT	PONCT		
+47	et	et	CC	CC		
+48	pénètre	pénétrer	V	V	n=s|t=P,S|p=1,3	
+49	dans	dans	P	P		
+50	la	la	DET	DET	n=s|g=f	
+51	blessure	blessure	NC	NC	n=s|g=f	
+52	ainsi	ainsi	ADV	ADV		
+53	causée	causer	VPP	VPP	n=s|g=f|t=K	
+54	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	venin	venin	NC	NC	n=s|g=m	
+3	du	de	P+D	P+D	n=s|g=m	
+4	monstre	monstre	NC	NC	n=s|g=m	
+5	de	de	P	P		
+6	Gila	_	NPP	NPP		
+7	n'	ne	ADV	ADV		
+8	est	être	V	V	n=s|t=P|p=3	
+9	utilisé	utiliser	VPP	VPP	n=s|g=m|t=K	
+10	que	que	CS	CS		
+11	pour	pour	P	P		
+12	se	se	CLR	CLR	n=p,s|p=3	
+13	défendre	défendre	VINF	VINF	t=W	
+14	:	:	PONCT	PONCT		
+15	bien	bien	ADV	ADV		
+16	que	que	CS	CS		
+17	ce	ce	CLS	CLS		
+18	soit	être	VS	VS	n=s|t=S|p=3	
+19	un	un	DET	DET	n=s|g=m	
+20	animal	animal	NC	NC	n=s|g=m	
+21	carnivore	carnivore	ADJ	ADJ	n=s	
+22	,	,	PONCT	PONCT		
+23	il	il	CLS	CLS	n=s|g=m|p=3	
+24	n'	ne	ADV	ADV		
+25	utilise	utiliser	V	V	n=s|t=P,S|p=1,3	
+26	pas	pas	ADV	ADV		
+27	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+28	venin	venin	NC	NC	n=s|g=m	
+29	pour	pour	P	P		
+30	chasser	chasser	VINF	VINF	t=W	
+31	:	:	PONCT	PONCT		
+32	il	il	CLS	CLS	n=s|g=m|p=3	
+33	se	se	CLR	CLR	n=p,s|p=3	
+34	contente	contenter	V	V	n=s|t=P,S|p=1,3	
+35	d'	de	P	P		
+36	attraper	attraper	VINF	VINF	t=W	
+37	ses	ses	DET	DET	n=p|p=3|poss=s	
+38	proies	proie	NC	NC	n=p|g=f	
+39	et	et	CC	CC		
+40	de	de	P	P		
+41	les	les	CLO	CLO	n=p|p=3	
+42	avaler	avaler	VINF	VINF	t=W	
+43	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	douleur	douleur	NC	NC	n=s|g=f	
+3	est	être	V	V	n=s|t=P|p=3	
+4	aigue	aigue	NC	NC	n=s|g=f	
+5	et	et	CC	CC		
+6	prolongée	prolonger	VPP	VPP	n=s|g=f|t=K	
+7	et	et	CC	CC		
+8	peut	pouvoir	V	V	n=s|t=P|p=3	
+9	durer	durer	VINF	VINF	t=W	
+10	jusqu'	jusque	P	P		
+11	à	à	P	P		
+12	2	2	ADJ	ADJ		
+13	heures	heure	NC	NC	n=p|g=f	
+14	.	.	PONCT	PONCT		
+
+1	Une	une	DET	DET	n=s|g=f	
+2	personne	personne	NC	NC	n=s|g=f	
+3	mordue	mordre	VPP	VPP	n=s|g=f|t=K	
+4	par	par	P	P		
+5	un	un	DET	DET	n=s|g=m	
+6	monstre	monstre	NC	NC	n=s|g=m	
+7	de	de	P	P		
+8	Gila	_	NPP	NPP		
+9	a	avoir	V	V	n=s|t=P|p=3	
+10	décrit	décrire	VPP	VPP	n=s|g=m|t=K	
+11	la	la	DET	DET	n=s|g=f	
+12	douleur	douleur	NC	NC	n=s|g=f	
+13	comme	comme	P	P		
+14	"	"	PONCT	PONCT		
+15	une	une	DET	DET	n=s|g=f	
+16	vague	vague	NC	NC	n=s	
+17	de	de	P	P		
+18	feu	feu	NC	NC	n=s|g=m	
+19	qui	qui	PROREL	PROREL	n=s	
+20	monte	monter	V	V	n=s|t=P,S|p=1,3	
+21	jusqu'	jusque	P	P		
+22	au	à	P+D	P+D	n=s|g=m	
+23	haut	haut	NC	NC	n=s|g=m	
+24	du	de	P+D	P+D	n=s|g=m	
+25	corps	corps	NC	NC	g=m	
+26	"	"	PONCT	PONCT		
+27	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	monstre	monstre	NC	NC	n=s|g=m	
+3	de	de	P	P		
+4	Gila	_	NPP	NPP		
+5	est	être	V	V	n=s|t=P|p=3	
+6	un	un	DET	DET	n=s|g=m	
+7	animal	animal	NC	NC	n=s|g=m	
+8	carnivore	carnivore	ADJ	ADJ	n=s	
+9	qui	qui	PROREL	PROREL	n=s	
+10	mange	manger	V	V	n=s|t=P,S|p=1,3	
+11	des	des	DET	DET	n=p	
+12	petits	petit	ADJ	ADJ	n=p|g=m	
+13	mammifères	mammifère	NC	NC	n=p|g=m	
+14	,	,	PONCT	PONCT		
+15	des	de	P+D	P+D	n=p	
+16	oiseaux	oiseau	NC	NC	n=p|g=m	
+17	et	et	CC	CC		
+18	des	de	P+D	P+D	n=p	
+19	reptiles	reptile	NC	NC	n=p|g=m	
+20	,	,	PONCT	PONCT		
+21	mais	mais	CC	CC		
+22	qui	qui	PROREL	PROREL	n=s	
+23	peut	pouvoir	V	V	n=s|t=P|p=3	
+24	aussi	aussi	ADV	ADV		
+25	manger	manger	VINF	VINF	t=W	
+26	des	des	DET	DET	n=p	
+27	charognes	charogne	NC	NC	n=p|g=f	
+28	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	consomme	consommer	V	V	n=s|t=P,S|p=1,3	
+3	principalement	_	ADV	ADV		
+4	des	des	DET	DET	n=p	
+5	œufs	_	NC	NC		
+6	,	,	PONCT	PONCT		
+7	d'	de	P	P		
+8	oiseaux	oiseau	NC	NC	n=p|g=m	
+9	ou	ou	CC	CC		
+10	de	de	P	P		
+11	reptiles	reptile	NC	NC	n=p|g=m	
+12	,	,	PONCT	PONCT		
+13	qu'	que	PROREL	PROREL		
+14	il	il	CLS	CLS	n=s|g=m|p=3	
+15	repère	repérer	V	V	n=s|t=P,S|p=1,3	
+16	à	à	P	P		
+17	l'	le	DET	DET	n=s	
+18	odeur	odeur	NC	NC	n=s|g=f	
+19	grâce	grâce	NC	NC	n=s|g=f	
+20	à	à	P	P		
+21	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+22	langue	langue	NC	NC	n=s|g=f	
+23	:	:	PONCT	PONCT		
+24	il	il	CLS	CLS	n=s|g=m|p=3	
+25	peut	pouvoir	V	V	n=s|t=P|p=3	
+26	les	les	CLO	CLO	n=p|p=3	
+27	déterrer	déterrer	VINF	VINF	t=W	
+28	grâce	grâce	NC	NC	n=s|g=f	
+29	à	à	P	P		
+30	ses	ses	DET	DET	n=p|p=3|poss=s	
+31	griffes	griffe	NC	NC	n=p|g=f	
+32	puissantes	puissant	ADJ	ADJ	n=p|g=f	
+33	ou	ou	CC	CC		
+34	bien	bien	ADV	ADV		
+35	les	les	CLO	CLO	n=p|p=3	
+36	atteindre	atteindre	VINF	VINF	t=W	
+37	dans	dans	P	P		
+38	les	les	DET	DET	n=p	
+39	nids	nid	NC	NC	n=p|g=m	
+40	en	en	P	P		
+41	grimpant	grimper	VPR	VPR	t=G	
+42	aux	à	P+D	P+D	n=p	
+43	arbres	arbre	NC	NC	n=p|g=m	
+44	ou	ou	CC	CC		
+45	aux	à	P+D	P+D	n=p	
+46	cactus	cactus	NC	NC	g=m	
+47	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	possède	posséder	V	V	n=s|t=P,S|p=1,3	
+3	une	une	DET	DET	n=s|g=f	
+4	langue	langue	NC	NC	n=s|g=f	
+5	fourchue	fourchu	ADJ	ADJ	n=s|g=f	
+6	,	,	PONCT	PONCT		
+7	comme	comme	P	P		
+8	les	les	DET	DET	n=p	
+9	serpents	serpent	NC	NC	n=p|g=m	
+10	.	.	PONCT	PONCT		
+
+1	Pour	pour	P	P		
+2	repérer	repérer	VINF	VINF	t=W	
+3	l'	le	DET	DET	n=s	
+4	odeur	odeur	NC	NC	n=s|g=f	
+5	d'	de	P	P		
+6	une	une	DET	DET	n=s|g=f	
+7	proie	proie	NC	NC	n=s|g=f	
+8	,	,	PONCT	PONCT		
+9	ou	ou	CC	CC		
+10	d'	de	P	P		
+11	un	un	DET	DET	n=s|g=m	
+12	aliment	aliment	NC	NC	n=s|g=m	
+13	quelconque	quelconque	ADJ	ADJ	n=s	
+14	,	,	PONCT	PONCT		
+15	il	il	CLS	CLS	n=s|g=m|p=3	
+16	sort	sortir	V	V	n=s|t=P|p=3	
+17	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+18	langue	langue	NC	NC	n=s|g=f	
+19	,	,	PONCT	PONCT		
+20	puis	puis	CC	CC		
+21	la	la	CLO	CLO	n=s|g=f|p=3	
+22	rentre	rentrer	V	V	n=s|t=P,S|p=1,3	
+23	et	et	CC	CC		
+24	la	la	DET	DET	n=s|g=f	
+25	plaque	plaque	NC	NC	n=s|g=f	
+26	contre	contre	P	P		
+27	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+28	palais	palais	NC	NC	g=m	
+29	,	,	PONCT	PONCT		
+30	qui	qui	PROREL	PROREL	n=s	
+31	comporte	comporter	V	V	n=s|t=P,S|p=1,3	
+32	de	de	DET	DET	n=p	
+33	nombreux	nombreux	ADJ	ADJ	g=m	
+34	capteurs	capteur	NC	NC	n=p|g=m	
+35	d'	de	P	P		
+36	odeurs	odeur	NC	NC	n=p|g=f	
+37	(	(	PONCT	PONCT		
+38	un	un	DET	DET	n=s|g=m	
+39	peu	peu	ADV	ADV		
+40	comme	comme	CC	CC		
+41	pour	pour	P	P		
+42	le	le	DET	DET	n=s|g=m	
+43	nez	nez	NC	NC	g=m	
+44	chez	chez	P	P		
+45	nous	nous	PRO	PRO	n=p|g=f,m|p=1	
+46	)	)	PONCT	PONCT		
+47	,	,	PONCT	PONCT		
+48	qui	qui	PROREL	PROREL	n=s	
+49	lui	lui	CLO	CLO	n=s|p=3	
+50	permettent	permettre	V	V	n=p|t=P,S|p=3	
+51	de	de	P	P		
+52	"	"	PONCT	PONCT		
+53	sentir	sentir	VINF	VINF	t=W	
+54	"	"	PONCT	PONCT		
+55	les	les	DET	DET	n=p	
+56	odeurs	odeur	NC	NC	n=p|g=f	
+57	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	molécules	molécule	NC	NC	n=p|g=f	
+3	odorantes	odorant	ADJ	ADJ	n=p|g=f	
+4	de	de	P	P		
+5	l'	le	DET	DET	n=s	
+6	air	air	NC	NC	n=s|g=m	
+7	se	se	CLR	CLR	n=p,s|p=3	
+8	collent	coller	V	V	n=p|t=P,S|p=3	
+9	à	à	P	P		
+10	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+11	langue	langue	NC	NC	n=s|g=f	
+12	,	,	PONCT	PONCT		
+13	puis	puis	CC	CC		
+14	sont	être	V	V	n=p|t=P|p=3	
+15	détectées	détecter	VPP	VPP	n=p|g=f|t=K	
+16	par	par	P	P		
+17	le	le	DET	DET	n=s|g=m	
+18	palais	palais	NC	NC	g=m	
+19	lorsqu'	lorsque	CS	CS		
+20	il	il	CLS	CLS	n=s|g=m|p=3	
+21	la	la	CLO	CLO	n=s|g=f|p=3	
+22	rentre	rentrer	V	V	n=s|t=P,S|p=1,3	
+23	.	.	PONCT	PONCT		
+
+1	Mieux	mieux	ADV	ADV		
+2	,	,	PONCT	PONCT		
+3	parce	_	ADV	ADV		
+4	que	que	CS	CS		
+5	la	la	DET	DET	n=s|g=f	
+6	langue	langue	NC	NC	n=s|g=f	
+7	est	être	V	V	n=s|t=P|p=3	
+8	fourchue	fourchu	ADJ	ADJ	n=s|g=f	
+9	,	,	PONCT	PONCT		
+10	le	le	DET	DET	n=s|g=m	
+11	lézard	lézard	NC	NC	n=s|g=m	
+12	peut	pouvoir	V	V	n=s|t=P|p=3	
+13	savoir	savoir	VINF	VINF	t=W	
+14	d'	de	P	P		
+15	où	où	PROREL	PROREL		
+16	vient	venir	V	V	n=s|t=P|p=3	
+17	l'	le	DET	DET	n=s	
+18	odeur	odeur	NC	NC	n=s|g=f	
+19	qu'	que	PROREL	PROREL		
+20	il	il	CLS	CLS	n=s|g=m|p=3	
+21	a	avoir	V	V	n=s|t=P|p=3	
+22	détecté	détecter	VPP	VPP	n=s|g=m|t=K	
+23	,	,	PONCT	PONCT		
+24	et	et	CC	CC		
+25	ainsi	ainsi	ADV	ADV		
+26	se	se	CLR	CLR	n=p,s|p=3	
+27	diriger	diriger	VINF	VINF	t=W	
+28	dans	dans	P	P		
+29	la	la	DET	DET	n=s|g=f	
+30	bonne	bon	ADJ	ADJ	n=s|g=f	
+31	direction	direction	NC	NC	n=s|g=f	
+32	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	ne	ne	ADV	ADV		
+3	mange	manger	V	V	n=s|t=P,S|p=1,3	
+4	pas	pas	ADV	ADV		
+5	très	très	ADV	ADV		
+6	souvent	souvent	ADV	ADV		
+7	,	,	PONCT	PONCT		
+8	à	à	P	P		
+9	peine	peine	NC	NC	n=s|g=f	
+10	quatre	quatre	ADJ	ADJ	s=card|n=p	
+11	à	à	P	P		
+12	cinq	cinq	DET	DET	s=card|n=p	
+13	fois	fois	NC	NC	g=f	
+14	par	par	P	P		
+15	an	an	NC	NC	n=s|g=m	
+16	dans	dans	P	P		
+17	la	la	DET	DET	n=s|g=f	
+18	nature	nature	NC	NC	n=s|g=f	
+19	.	.	PONCT	PONCT		
+
+1	Par	par	P	P		
+2	contre	contre	NC	NC	n=s|g=m	
+3	,	,	PONCT	PONCT		
+4	quand	quand	CS	CS		
+5	il	il	CLS	CLS	n=s|g=m|p=3	
+6	le	le	CLO	CLO	n=s|g=m|p=3	
+7	fait	faire	V	V	n=s|t=P|p=3	
+8	,	,	PONCT	PONCT		
+9	il	il	CLS	CLS	n=s|g=m|p=3	
+10	mange	manger	V	V	n=s|t=P,S|p=1,3	
+11	beaucoup	beaucoup	ADV	ADV		
+12	et	et	CC	CC		
+13	stocke	stocker	V	V	n=s|t=P,S|p=1,3	
+14	des	des	DET	DET	n=p	
+15	réserves	réserve	NC	NC	n=p|g=f	
+16	de	de	P	P		
+17	graisses	graisse	NC	NC	n=p|g=f	
+18	dans	dans	P	P		
+19	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+20	queue	queue	NC	NC	n=s|g=f	
+21	.	.	PONCT	PONCT		
+
+1	C'	ce	CLS	CLS		
+2	est	être	V	V	n=s|t=P|p=3	
+3	un	un	DET	DET	n=s|g=m	
+4	animal	animal	NC	NC	n=s|g=m	
+5	très	très	ADV	ADV		
+6	bien	bien	ADV	ADV		
+7	adapté	adapter	VPP	VPP	n=s|g=m|t=K	
+8	au	à	P+D	P+D	n=s|g=m	
+9	désert	désert	NC	NC	n=s|g=m	
+10	:	:	PONCT	PONCT		
+11	il	il	CLS	CLS	n=s|g=m|p=3	
+12	vit	vivre	V	V	n=s|t=P|p=3	
+13	principalement	_	ADV	ADV		
+14	sous	sous	P	P		
+15	terre	terre	NC	NC	n=s|g=f	
+16	,	,	PONCT	PONCT		
+17	ou	ou	CC	CC		
+18	sous	sous	P	P		
+19	les	les	DET	DET	n=p	
+20	rochers	rocher	NC	NC	n=p|g=m	
+21	,	,	PONCT	PONCT		
+22	et	et	CC	CC		
+23	c'	ce	CLS	CLS		
+24	est	être	V	V	n=s|t=P|p=3	
+25	un	un	DET	DET	n=s|g=m	
+26	animal	animal	NC	NC	n=s|g=m	
+27	essentiellement	_	ADV	ADV		
+28	nocturne	nocturne	ADJ	ADJ	n=s	
+29	.	.	PONCT	PONCT		
+
+1	Au	à	P+D	P+D	n=s|g=m	
+2	printemps	printemps	NC	NC	g=m	
+3	,	,	PONCT	PONCT		
+4	il	il	CLS	CLS	n=s|g=m|p=3	
+5	sort	sortir	V	V	n=s|t=P|p=3	
+6	durant	durant	P	P		
+7	la	la	DET	DET	n=s|g=f	
+8	matinée	matinée	NC	NC	n=s|g=f	
+9	,	,	PONCT	PONCT		
+10	et	et	CC	CC		
+11	,	,	PONCT	PONCT		
+12	en	en	P	P		
+13	été	été	NC	NC	n=s|g=m	
+14	,	,	PONCT	PONCT		
+15	pendant	pendant	P	P		
+16	la	la	DET	DET	n=s|g=f	
+17	nuit	nuit	NC	NC	n=s|g=f	
+18	,	,	PONCT	PONCT		
+19	ou	ou	CC	CC		
+20	après	après	P	P		
+21	un	un	DET	DET	n=s|g=m	
+22	orage	orage	NC	NC	n=s|g=m	
+23	:	:	PONCT	PONCT		
+24	ainsi	ainsi	ADV	ADV		
+25	,	,	PONCT	PONCT		
+26	il	il	CLS	CLS	n=s|g=m|p=3	
+27	évite	éviter	V	V	n=s|t=P,S|p=1,3	
+28	les	les	DET	DET	n=p	
+29	heures	heure	NC	NC	n=p|g=f	
+30	les	les	DET	DET	n=p	
+31	plus	plus	ADV	ADV		
+32	chaudes	chaud	ADJ	ADJ	n=p|g=f	
+33	et	et	CC	CC		
+34	se	se	CLR	CLR	n=p,s|p=3	
+35	protège	protéger	V	V	n=s|t=P,S|p=1,3	
+36	contre	contre	P	P		
+37	la	la	DET	DET	n=s|g=f	
+38	chaleur	chaleur	NC	NC	n=s|g=f	
+39	du	de	P+D	P+D	n=s|g=m	
+40	désert	désert	NC	NC	n=s|g=m	
+41	.	.	PONCT	PONCT		
+
+1	C'	ce	CLS	CLS		
+2	est	être	V	V	n=s|t=P|p=3	
+3	animal	animal	NC	NC	n=s|g=m	
+4	lent	lent	ADJ	ADJ	n=s|g=m	
+5	,	,	PONCT	PONCT		
+6	au	à	P+D	P+D	n=s|g=m	
+7	corps	corps	NC	NC	g=m	
+8	recouvert	recouvrir	VPP	VPP	n=s|g=m|t=K	
+9	de	de	P	P		
+10	grosses	gros	ADJ	ADJ	n=p|g=f	
+11	écailles	écaille	NC	NC	n=p|g=f	
+12	.	.	PONCT	PONCT		
+
+1	Ces	ces	DET	DET	n=p	
+2	écailles	écaille	NC	NC	n=p|g=f	
+3	,	,	PONCT	PONCT		
+4	faites	faire	VPP	VPP	n=p|g=f|t=K	
+5	d'	de	P	P		
+6	os	os	NC	NC	g=m	
+7	,	,	PONCT	PONCT		
+8	constituent	constituer	V	V	n=p|t=P,S|p=3	
+9	une	une	DET	DET	n=s|g=f	
+10	sorte	sorte	NC	NC	n=s|g=f	
+11	d'	de	P	P		
+12	armure	armure	NC	NC	n=s|g=f	
+13	qui	qui	PROREL	PROREL	n=s	
+14	protègent	protéger	V	V	n=p|t=P,S|p=3	
+15	le	le	DET	DET	n=s|g=m	
+16	corps	corps	NC	NC	g=m	
+17	:	:	PONCT	PONCT		
+18	c'	ce	CLS	CLS		
+19	est	être	V	V	n=s|t=P|p=3	
+20	ce	ce	PRO	PRO	n=s	
+21	que	que	PROREL	PROREL		
+22	l'	le	DET	DET	n=s	
+23	on	on	CLS	CLS	n=s|p=3	
+24	appelle	appeler	V	V	n=s|t=P,S|p=1,3	
+25	des	des	DET	DET	n=p	
+26	ostéodermes	_	NC	NC		
+27	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	monstre	monstre	NC	NC	n=s|g=m	
+3	de	de	P	P		
+4	Gila	_	NPP	NPP		
+5	est	être	V	V	n=s|t=P|p=3	
+6	connu	connaître	VPP	VPP	n=s|g=m|t=K	
+7	depuis	depuis	P	P		
+8	très	très	ADV	ADV		
+9	longtemps	longtemps	ADV	ADV		
+10	des	des	DET	DET	n=p	
+11	peuples	peuple	NC	NC	n=p|g=m	
+12	Amérindiens	_	NPP	NPP		
+13	,	,	PONCT	PONCT		
+14	et	et	CC	CC		
+15	fait	faire	V	V	n=s|t=P|p=3	
+16	l'	le	DET	DET	n=s	
+17	objet	objet	NC	NC	n=s|g=m	
+18	de	de	P	P		
+19	différents	différent	ADJ	ADJ	n=p|g=m	
+20	mythes	mythe	NC	NC	n=p|g=m	
+21	et	et	CC	CC		
+22	croyances	croyance	NC	NC	n=p|g=f	
+23	:	:	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	premiers	premier	ADJ	ADJ	n=p|g=m	
+3	pionniers	pionnier	NC	NC	n=p|g=m	
+4	américains	américain	ADJ	ADJ	n=p|g=m	
+5	,	,	PONCT	PONCT		
+6	qui	qui	PROREL	PROREL	n=s	
+7	connaissaient	connaître	V	V	n=p|t=I|p=3	
+8	mal	mal	ADV	ADV		
+9	l'	le	DET	DET	n=s	
+10	animal	animal	NC	NC	n=s|g=m	
+11	,	,	PONCT	PONCT		
+12	et	et	CC	CC		
+13	qui	qui	PROREL	PROREL	n=s	
+14	ont	avoir	V	V	n=p|t=P|p=3	
+15	sans	sans	P	P		
+16	doute	doute	NC	NC	n=s|g=m	
+17	été	être	VPP	VPP	t=K	
+18	inspirés	inspirer	VPP	VPP	n=p|g=m|t=K	
+19	par	par	P	P		
+20	les	les	DET	DET	n=p	
+21	légendes	légende	NC	NC	n=p|g=f	
+22	amérindiennes	amérindien	ADJ	ADJ	n=p|g=f	
+23	,	,	PONCT	PONCT		
+24	pensaient	penser	V	V	n=p|t=I|p=3	
+25	que	que	CS	CS		
+26	c'	ce	CLS	CLS		
+27	était	être	V	V	n=s|t=I|p=3	
+28	un	un	DET	DET	n=s|g=m	
+29	animal	animal	NC	NC	n=s|g=m	
+30	très	très	ADV	ADV		
+31	dangereux	dangereux	ADJ	ADJ	g=m	
+32	,	,	PONCT	PONCT		
+33	au	à	P+D	P+D	n=s|g=m	
+34	souffle	souffle	NC	NC	n=s|g=m	
+35	empoisonné	empoisonner	VPP	VPP	n=s|g=m|t=K	
+36	,	,	PONCT	PONCT		
+37	dont	dont	PROREL	PROREL		
+38	la	la	DET	DET	n=s|g=f	
+39	morsure	morsure	NC	NC	n=s|g=f	
+40	était	être	V	V	n=s|t=I|p=3	
+41	systématiquement	_	ADV	ADV		
+42	mortelle	mortel	ADJ	ADJ	n=s|g=f	
+43	,	,	PONCT	PONCT		
+44	et	et	CC	CC		
+45	qu'	que	CS	CS		
+46	il	il	CLS	CLS	n=s|g=m|p=3	
+47	fallait	falloir	V	V	n=s|t=I|p=3	
+48	s'	se	CLR	CLR	n=p,s|p=3	
+49	en	en	CLO	CLO		
+50	débarrasser	débarrasser	VINF	VINF	t=W	
+51	.	.	PONCT	PONCT		
+
+1	C'	ce	CLS	CLS		
+2	est	être	V	V	n=s|t=P|p=3	
+3	de	de	P	P		
+4	là	là	ADV	ADV		
+5	que	que	CS	CS		
+6	lui	lui	CLO	CLO	n=s|p=3	
+7	vient	venir	V	V	n=s|t=P|p=3	
+8	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+9	nom	nom	NC	NC	n=s|g=m	
+10	de	de	P	P		
+11	"	"	PONCT	PONCT		
+12	monstre	monstre	NC	NC	n=s|g=m	
+13	"	"	PONCT	PONCT		
+14	.	.	PONCT	PONCT		
+
+1	Paradoxalement	_	ADV	ADV		
+2	,	,	PONCT	PONCT		
+3	cela	cela	PRO	PRO	n=s|g=m	
+4	provoquait	provoquer	V	V	n=s|t=I|p=3	
+5	plus	plus	ADV	ADV		
+6	d'	de	P	P		
+7	accidents	accident	NC	NC	n=p|g=m	
+8	,	,	PONCT	PONCT		
+9	car	car	CS	CS		
+10	le	le	DET	DET	n=s|g=m	
+11	monstre	monstre	NC	NC	n=s|g=m	
+12	de	de	P	P		
+13	Gila	_	NPP	NPP		
+14	est	être	V	V	n=s|t=P|p=3	
+15	un	un	DET	DET	n=s|g=m	
+16	animal	animal	NC	NC	n=s|g=m	
+17	normalement	_	ADV	ADV		
+18	plutôt	plutôt	ADV	ADV		
+19	craintif	craintif	ADJ	ADJ	n=s|g=m	
+20	,	,	PONCT	PONCT		
+21	qui	qui	PROREL	PROREL	n=s	
+22	fuit	fuir	V	V	n=s|t=J,P|p=3	
+23	quand	quand	CS	CS		
+24	on	on	CLS	CLS	n=s|p=3	
+25	l'	le	DET	DET	n=s	
+26	approche	approche	NC	NC	n=s|g=f	
+27	.	.	PONCT	PONCT		
+
+1	Mais	mais	CC	CC		
+2	s'	se	CLR	CLR	n=p,s|p=3	
+3	il	il	CLS	CLS	n=s|g=m|p=3	
+4	est	être	V	V	n=s|t=P|p=3	
+5	attaqué	attaquer	VPP	VPP	n=s|g=m|t=K	
+6	,	,	PONCT	PONCT		
+7	le	le	DET	DET	n=s|g=m	
+8	monstre	monstre	NC	NC	n=s|g=m	
+9	de	de	P	P		
+10	Gila	_	NPP	NPP		
+11	n'	ne	ADV	ADV		
+12	a	avoir	V	V	n=s|t=P|p=3	
+13	d'	de	DET	DET	n=p	
+14	autres	autre	ADJ	ADJ	n=p	
+15	choix	choix	NC	NC	g=m	
+16	que	que	CS	CS		
+17	de	de	P	P		
+18	mordre	mordre	VINF	VINF	t=W	
+19	pour	pour	P	P		
+20	se	se	CLR	CLR	n=p,s|p=3	
+21	défendre	défendre	VINF	VINF	t=W	
+22	.	.	PONCT	PONCT		
+
+1	Ainsi	ainsi	ADV	ADV		
+2	,	,	PONCT	PONCT		
+3	en	en	P	P		
+4	tentant	tenter	VPR	VPR	t=G	
+5	de	de	P	P		
+6	se	se	CLR	CLR	n=p,s|p=3	
+7	débarrasser	débarrasser	VINF	VINF	t=W	
+8	du	de	P+D	P+D	n=s|g=m	
+9	monstre	monstre	NC	NC	n=s|g=m	
+10	de	de	P	P		
+11	Gila	_	NPP	NPP		
+12	,	,	PONCT	PONCT		
+13	les	les	DET	DET	n=p	
+14	gens	gens	NC	NC	n=p|g=m	
+15	se	se	CLR	CLR	n=p,s|p=3	
+16	faisaient	faire	V	V	n=p|t=I|p=3	
+17	effectivement	_	ADV	ADV		
+18	mordre	mordre	VINF	VINF	t=W	
+19	,	,	PONCT	PONCT		
+20	ce	ce	PRO	PRO	n=s	
+21	qui	qui	PROREL	PROREL	n=s	
+22	contribuait	contribuer	V	V	n=s|t=I|p=3	
+23	à	à	P	P		
+24	propager	propager	VINF	VINF	t=W	
+25	l'	le	DET	DET	n=s	
+26	idée	idée	NC	NC	n=s|g=f	
+27	qu'	que	PROREL	PROREL		
+28	il	il	CLS	CLS	n=s|g=m|p=3	
+29	était	être	V	V	n=s|t=I|p=3	
+30	dangereux	dangereux	ADJ	ADJ	g=m	
+31	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	monstre	monstre	NC	NC	n=s|g=m	
+3	de	de	P	P		
+4	Gila	_	NPP	NPP		
+5	est	être	V	V	n=s|t=P|p=3	
+6	un	un	DET	DET	n=s|g=m	
+7	animal	animal	NC	NC	n=s|g=m	
+8	assez	assez	ADV	ADV		
+9	mal	mal	ADV	ADV		
+10	connu	connaître	VPP	VPP	n=s|g=m|t=K	
+11	du	de	P+D	P+D	n=s|g=m	
+12	grand	grand	ADJ	ADJ	n=s|g=m	
+13	public	public	NC	NC	n=s|g=m	
+14	.	.	PONCT	PONCT		
+
+1	Comme	comme	CS	CS		
+2	il	il	CLS	CLS	n=s|g=m|p=3	
+3	est	être	V	V	n=s|t=P|p=3	
+4	venimeux	venimeux	ADJ	ADJ	g=m	
+5	,	,	PONCT	PONCT		
+6	et	et	CC	CC		
+7	à	à	P	P		
+8	cause	cause	NC	NC	n=s|g=f	
+9	surtout	surtout	ADV	ADV		
+10	de	de	P	P		
+11	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+12	nom	nom	NC	NC	n=s|g=m	
+13	de	de	P	P		
+14	"	"	PONCT	PONCT		
+15	monstre	monstre	NC	NC	n=s|g=m	
+16	"	"	PONCT	PONCT		
+17	,	,	PONCT	PONCT		
+18	on	on	CLS	CLS	n=s|p=3	
+19	croit	croire	V	V	n=s|t=P|p=3	
+20	souvent	souvent	ADV	ADV		
+21	qu'	que	CS	CS		
+22	il	il	CLS	CLS	n=s|g=m|p=3	
+23	s'	se	CLR	CLR	n=p,s|p=3	
+24	agit	agir	V	V	n=s|t=J,P|p=3	
+25	d'	de	P	P		
+26	un	un	DET	DET	n=s|g=m	
+27	animal	animal	NC	NC	n=s|g=m	
+28	dangereux	dangereux	ADJ	ADJ	g=m	
+29	.	.	PONCT	PONCT		
+
+1	Bien	bien	ADV	ADV		
+2	qu'	que	CS	CS		
+3	il	il	CLS	CLS	n=s|g=m|p=3	
+4	soit	être	VS	VS	n=s|t=S|p=3	
+5	connu	connaître	VPP	VPP	n=s|g=m|t=K	
+6	des	de	P+D	P+D	n=p	
+7	Amérindiens	_	NPP	NPP		
+8	depuis	depuis	P	P		
+9	très	très	ADV	ADV		
+10	longtemps	longtemps	ADV	ADV		
+11	,	,	PONCT	PONCT		
+12	le	le	DET	DET	n=s|g=m	
+13	monstre	monstre	NC	NC	n=s|g=m	
+14	de	de	P	P		
+15	Gila	_	NPP	NPP		
+16	n'	ne	ADV	ADV		
+17	a	avoir	V	V	n=s|t=P|p=3	
+18	été	être	VPP	VPP	t=K	
+19	décrit	décrire	VPP	VPP	n=s|g=m|t=K	
+20	qu'	que	CS	CS		
+21	en	en	P	P		
+22	1869	1869	NC	NC		
+23	,	,	PONCT	PONCT		
+24	par	par	P	P		
+25	Edward	Edward	NPP	NPP	n=s|g=m	
+26	Drinker	_	NPP	NPP		
+27	Cope	_	NPP	NPP		
+28	:	:	PONCT	PONCT		
+29	le	le	DET	DET	n=s|g=m	
+30	célèbre	célèbre	ADJ	ADJ	n=s	
+31	paléontologue	paléontologue	NC	NC	n=s	
+32	,	,	PONCT	PONCT		
+33	découvreur	découvreur	NC	NC	n=s|g=m	
+34	de	de	P	P		
+35	nombreux	nombreux	ADJ	ADJ	g=m	
+36	dinosaures	dinosaure	NC	NC	n=p|g=m	
+37	,	,	PONCT	PONCT		
+38	était	être	V	V	n=s|t=I|p=3	
+39	aussi	aussi	ADV	ADV		
+40	un	un	DET	DET	n=s|g=m	
+41	herpétologue	_	NC	NC		
+42	,	,	PONCT	PONCT		
+43	c'	ce	CLS	CLS		
+44	est	être	V	V	n=s|t=P|p=3	
+45	à	à	P	P		
+46	dire	dire	VINF	VINF	t=W	
+47	un	un	DET	DET	n=s|g=m	
+48	spécialiste	spécialiste	NC	NC	n=s	
+49	des	de	P+D	P+D	n=p	
+50	reptiles	reptile	NC	NC	n=p|g=m	
+51	et	et	CC	CC		
+52	des	de	P+D	P+D	n=p	
+53	amphibiens	amphibien	NC	NC	n=p|g=m	
+54	.	.	PONCT	PONCT		
+
+1	Cope	_	NPP	NPP		
+2	a	avoir	V	V	n=s|t=P|p=3	
+3	tout	tout	PRO	PRO	n=s|g=m	
+4	de	de	P	P		
+5	suite	suite	NC	NC	n=s|g=f	
+6	reconnu	reconnaître	VPP	VPP	n=s|g=m|t=K	
+7	qu'	que	CS	CS		
+8	il	il	CLS	CLS	n=s|g=m|p=3	
+9	s'	se	CLR	CLR	n=p,s|p=3	
+10	agissait	agir	V	V	n=s|t=I|p=3	
+11	d'	de	P	P		
+12	un	un	DET	DET	n=s|g=m	
+13	cousin	cousin	NC	NC	n=s|g=m	
+14	du	de	P+D	P+D	n=s|g=m	
+15	lézard	lézard	NC	NC	n=s|g=m	
+16	perlé	perler	VPP	VPP	n=s|g=m|t=K	
+17	,	,	PONCT	PONCT		
+18	ou	ou	CC	CC		
+19	héloderme	héloderme	NC	NC	n=s|g=m	
+20	granuleux	granuleux	ADJ	ADJ	g=m	
+21	,	,	PONCT	PONCT		
+22	un	un	DET	DET	n=s|g=m	
+23	reptile	reptile	NC	NC	n=s|g=m	
+24	déjà	déjà	ADV	ADV		
+25	connu	connaître	VPP	VPP	n=s|g=m|t=K	
+26	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	avait	avoir	V	V	n=s|t=I|p=3	
+3	remarqué	remarquer	VPP	VPP	n=s|g=m|t=K	
+4	que	que	CS	CS		
+5	les	les	DET	DET	n=p	
+6	hélodermes	héloderme	NC	NC	n=p|g=m	
+7	avaient	avoir	V	V	n=p|t=I|p=3	
+8	de	de	DET	DET	n=p	
+9	petites	petit	ADJ	ADJ	n=p|g=f	
+10	rainures	rainure	NC	NC	n=p|g=f	
+11	sur	sur	P	P		
+12	les	les	DET	DET	n=p	
+13	dents	dent	NC	NC	n=p|g=f	
+14	,	,	PONCT	PONCT		
+15	qui	qui	PROREL	PROREL	n=s	
+16	permettaient	permettre	V	V	n=p|t=I|p=3	
+17	à	à	P	P		
+18	la	la	DET	DET	n=s|g=f	
+19	salive	salive	NC	NC	n=s|g=f	
+20	de	de	P	P		
+21	couler	couler	VINF	VINF	t=W	
+22	dans	dans	P	P		
+23	la	la	DET	DET	n=s|g=f	
+24	plaie	plaie	NC	NC	n=s|g=f	
+25	,	,	PONCT	PONCT		
+26	lors	lors	ADV	ADV		
+27	d'	de	P	P		
+28	une	une	DET	DET	n=s|g=f	
+29	morsure	morsure	NC	NC	n=s|g=f	
+30	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	suspecta	suspecter	V	V	n=s|t=J|p=3	
+3	donc	donc	ADV	ADV		
+4	cette	cette	DET	DET	n=s|g=f	
+5	nouvelle	nouveau	ADJ	ADJ	n=s|g=f	
+6	espèce	espèce	NC	NC	n=s|g=f	
+7	d'	de	P	P		
+8	héloderme	héloderme	NC	NC	n=s|g=m	
+9	d'	de	P	P		
+10	être	être	VINF	VINF	t=W	
+11	,	,	PONCT	PONCT		
+12	effectivement	_	ADV	ADV		
+13	,	,	PONCT	PONCT		
+14	venimeuse	venimeux	ADJ	ADJ	n=s|g=f	
+15	,	,	PONCT	PONCT		
+16	comme	comme	P	P		
+17	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+18	cousin	cousin	NC	NC	n=s|g=m	
+19	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	l'	le	CLO	CLO	n=s|p=3	
+3	appela	appeler	V	V	n=s|t=J|p=3	
+4	donc	donc	ADV	ADV		
+5	Heloderma	_	NPP	NPP		
+6	suspectum	_	NPP	NPP		
+7	,	,	PONCT	PONCT		
+8	ce	ce	PRO	PRO	n=s	
+9	qui	qui	PROREL	PROREL	n=s	
+10	,	,	PONCT	PONCT		
+11	en	en	P	P		
+12	latin	latin	NC	NC	n=s|g=m	
+13	,	,	PONCT	PONCT		
+14	veut	vouloir	V	V	n=s|t=P|p=3	
+15	dire	dire	VINF	VINF	t=W	
+16	"	"	PONCT	PONCT		
+17	héloderme	héloderme	NC	NC	n=s|g=m	
+18	suspect	suspect	ADJ	ADJ	n=s|g=m	
+19	"	"	PONCT	PONCT		
+20	3	3	ADJ	ADJ		
+21	.	.	PONCT	PONCT		
+
+1	Heloderma	_	NPP	NPP		
+2	suspectum	_	NPP	NPP		
+3	est	être	V	V	n=s|t=P|p=3	
+4	encore	encore	ADV	ADV		
+5	,	,	PONCT	PONCT		
+6	aujourd'hui	aujourd'hui	ADV	ADV		
+7	,	,	PONCT	PONCT		
+8	le	le	DET	DET	n=s|g=m	
+9	nom	nom	NC	NC	n=s|g=m	
+10	du	de	P+D	P+D	n=s|g=m	
+11	monstre	monstre	NC	NC	n=s|g=m	
+12	de	de	P	P		
+13	Gila	_	NPP	NPP		
+14	.	.	PONCT	PONCT		
+
+1	Bien	bien	ADV	ADV		
+2	sûr	sûr	ADJ	ADJ	n=s|g=m	
+3	,	,	PONCT	PONCT		
+4	depuis	depuis	P	P		
+5	l'	le	DET	DET	n=s	
+6	époque	époque	NC	NC	n=s|g=f	
+7	de	de	P	P		
+8	Cope	_	NPP	NPP		
+9	,	,	PONCT	PONCT		
+10	on	on	CLS	CLS	n=s|p=3	
+11	a	avoir	V	V	n=s|t=P|p=3	
+12	pu	pouvoir	VPP	VPP	t=K	
+13	vérifier	vérifier	VINF	VINF	t=W	
+14	que	que	CS	CS		
+15	l'	le	DET	DET	n=s	
+16	animal	animal	NC	NC	n=s|g=m	
+17	était	être	V	V	n=s|t=I|p=3	
+18	effectivement	_	ADV	ADV		
+19	venimeux	venimeux	ADJ	ADJ	g=m	
+20	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	1891	1891	NC	NC		
+3	,	,	PONCT	PONCT		
+4	le	le	DET	DET	n=s|g=m	
+5	Docteur	Docteur	NC	NC	n=s|g=m	
+6	George	George	NPP	NPP	n=s|g=m	
+7	Goodfellow	_	NPP	NPP		
+8	a	avoir	V	V	n=s|t=P|p=3	
+9	été	être	VPP	VPP	t=K	
+10	un	un	DET	DET	n=s|g=m	
+11	des	de	P+D	P+D	n=p	
+12	premiers	premier	ADJ	ADJ	n=p|g=m	
+13	à	à	P	P		
+14	étudier	étudier	VINF	VINF	t=W	
+15	le	le	DET	DET	n=s|g=m	
+16	monstre	monstre	NC	NC	n=s|g=m	
+17	de	de	P	P		
+18	Gila	_	NPP	NPP		
+19	.	.	PONCT	PONCT		
+
+1	Persuadé	persuader	VPP	VPP	n=s|g=m|t=K	
+2	que	que	CS	CS		
+3	le	le	DET	DET	n=s|g=m	
+4	venin	venin	NC	NC	n=s|g=m	
+5	n'	ne	ADV	ADV		
+6	était	être	V	V	n=s|t=I|p=3	
+7	pas	pas	ADV	ADV		
+8	aussi	aussi	ADV	ADV		
+9	dangereux	dangereux	ADJ	ADJ	g=m	
+10	qu'	que	CS	CS		
+11	on	on	CLS	CLS	n=s|p=3	
+12	le	le	CLO	CLO	n=s|g=m|p=3	
+13	croyait	croire	V	V	n=s|t=I|p=3	
+14	à	à	P	P		
+15	l'	le	DET	DET	n=s	
+16	époque	époque	NC	NC	n=s|g=f	
+17	,	,	PONCT	PONCT		
+18	il	il	CLS	CLS	n=s|g=m|p=3	
+19	a	avoir	V	V	n=s|t=P|p=3	
+20	fait	faire	VPP	VPP	n=s|g=m|t=K	
+21	exprès	exprès	NC	NC	g=m	
+22	de	de	P	P		
+23	se	se	CLR	CLR	n=p,s|p=3	
+24	faire	faire	VINF	VINF	t=W	
+25	mordre	mordre	VINF	VINF	t=W	
+26	,	,	PONCT	PONCT		
+27	pour	pour	P	P		
+28	voir	voir	VINF	VINF	t=W	
+29	ce	ce	PRO	PRO	n=s	
+30	qui	qui	PROREL	PROREL	n=s	
+31	allait	aller	V	V	n=s|t=I|p=3	
+32	se	se	CLR	CLR	n=p,s|p=3	
+33	passer	passer	VINF	VINF	t=W	
+34	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	a	avoir	V	V	n=s|t=P|p=3	
+3	été	être	VPP	VPP	t=K	
+4	malade	malade	ADJ	ADJ	n=s	
+5	pendant	pendant	P	P		
+6	cinq	cinq	DET	DET	s=card|n=p	
+7	jours	jour	NC	NC	n=p|g=m	
+8	,	,	PONCT	PONCT		
+9	et	et	CC	CC		
+10	a	avoir	V	V	n=s|t=P|p=3	
+11	dû	devoir	VPP	VPP	n=s|g=m|t=K	
+12	rester	rester	VINF	VINF	t=W	
+13	au	à	P+D	P+D	n=s|g=m	
+14	lit	lit	NC	NC	n=s|g=m	
+15	,	,	PONCT	PONCT		
+16	mais	mais	CC	CC		
+17	a	avoir	V	V	n=s|t=P|p=3	
+18	survécu	survivre	VPP	VPP	n=s|g=m|t=K	
+19	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	en	en	CLO	CLO		
+3	a	avoir	V	V	n=s|t=P|p=3	
+4	déduit	déduire	VPP	VPP	n=s|g=m|t=K	
+5	que	que	CS	CS		
+6	le	le	DET	DET	n=s|g=m	
+7	venin	venin	NC	NC	n=s|g=m	
+8	n'	ne	ADV	ADV		
+9	était	être	V	V	n=s|t=I|p=3	
+10	pas	pas	ADV	ADV		
+11	mortel	mortel	ADJ	ADJ	n=s|g=m	
+12	pour	pour	P	P		
+13	l'	le	DET	DET	n=s	
+14	homme	homme	NC	NC	n=s|g=m	
+15	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	fait	fait	NC	NC	n=s|g=m	
+3	,	,	PONCT	PONCT		
+4	aucun	aucun	DET	DET	n=s|g=m	
+5	décès	décès	NC	NC	g=m	
+6	n'	ne	ADV	ADV		
+7	a	avoir	V	V	n=s|t=P|p=3	
+8	été	être	VPP	VPP	t=K	
+9	constaté	constater	VPP	VPP	n=s|g=m|t=K	
+10	depuis	depuis	P	P		
+11	1930	1930	NC	NC		
+12	,	,	PONCT	PONCT		
+13	et	et	CC	CC		
+14	il	il	CLS	CLS	n=s|g=m|p=3	
+15	semble	sembler	V	V	n=s|t=P,S|p=1,3	
+16	que	que	CS	CS		
+17	les	les	DET	DET	n=p	
+18	quelques	quelques	DET	DET	n=p	
+19	personnes	personne	NC	NC	n=p|g=f	
+20	connues	connaître	ADJ	ADJ	n=p|g=f|t=K	
+21	qui	qui	PROREL	PROREL	n=s	
+22	soient	être	VS	VS	n=p|t=S|p=3	
+23	mortes	mort	ADJ	ADJ	n=p|g=f|t=K	
+24	après	après	P	P		
+25	s'	se	CLR	CLR	n=p,s|p=3	
+26	être	être	VINF	VINF	t=W	
+27	fait	faire	VPP	VPP	n=s|g=m|t=K	
+28	mordre	mordre	VINF	VINF	t=W	
+29	ne	ne	ADV	ADV		
+30	soient	être	VS	VS	n=p|t=S|p=3	
+31	pas	pas	ADV	ADV		
+32	mortes	mort	ADJ	ADJ	n=p|g=f|t=K	
+33	du	de	P+D	P+D	n=s|g=m	
+34	venin	venin	NC	NC	n=s|g=m	
+35	lui	lui	PRO	PRO	n=s|g=m|p=3	
+36	-	-	PONCT	PONCT		
+37	même	même	ADV	ADV		
+38	,	,	PONCT	PONCT		
+39	mais	mais	CC	CC		
+40	plutôt	plutôt	ADV	ADV		
+41	des	des	DET	DET	n=p	
+42	"	"	PONCT	PONCT		
+43	médicaments	médicament	NC	NC	n=p|g=m	
+44	"	"	PONCT	PONCT		
+45	que	que	PROREL	PROREL		
+46	l'	le	DET	DET	n=s	
+47	on	on	CLS	CLS	n=s|p=3	
+48	a	avoir	V	V	n=s|t=P|p=3	
+49	testé	tester	VPP	VPP	n=s|g=m|t=K	
+50	pour	pour	P	P		
+51	essayer	essayer	VINF	VINF	t=W	
+52	de	de	P	P		
+53	les	les	CLO	CLO	n=p|p=3	
+54	soigner	soigner	VINF	VINF	t=W	
+55	.	.	PONCT	PONCT		
+
+1	Traditionnellement	_	ADV	ADV		
+2	,	,	PONCT	PONCT		
+3	les	les	DET	DET	n=p	
+4	squamates	squamate	NC	NC	n=p|g=m	
+5	sont	être	V	V	n=p|t=P|p=3	
+6	divisés	diviser	VPP	VPP	n=p|g=m|t=K	
+7	en	en	P	P		
+8	deux	deux	DET	DET	s=card|n=p	
+9	groupes	groupe	NC	NC	n=p|g=m	
+10	:	:	PONCT	PONCT		
+11	les	les	DET	DET	n=p	
+12	lézards	lézard	NC	NC	n=p|g=m	
+13	,	,	PONCT	PONCT		
+14	qui	qui	PROREL	PROREL	n=s	
+15	ont	avoir	V	V	n=p|t=P|p=3	
+16	des	des	DET	DET	n=p	
+17	pattes	patte	NC	NC	n=p|g=f	
+18	,	,	PONCT	PONCT		
+19	et	et	CC	CC		
+20	les	les	DET	DET	n=p	
+21	serpents	serpent	NC	NC	n=p|g=m	
+22	,	,	PONCT	PONCT		
+23	qui	qui	PROREL	PROREL	n=s	
+24	n'	ne	ADV	ADV		
+25	en	en	CLO	CLO		
+26	ont	avoir	V	V	n=p|t=P|p=3	
+27	pas	pas	ADV	ADV		
+28	.	.	PONCT	PONCT		
+
+1	Comme	comme	P	P		
+2	le	le	DET	DET	n=s|g=m	
+3	monstre	monstre	NC	NC	n=s|g=m	
+4	de	de	P	P		
+5	Gila	_	NPP	NPP		
+6	a	avoir	V	V	n=s|t=P|p=3	
+7	des	des	DET	DET	n=p	
+8	pattes	patte	NC	NC	n=p|g=f	
+9	,	,	PONCT	PONCT		
+10	il	il	CLS	CLS	n=s|g=m|p=3	
+11	a	avoir	V	V	n=s|t=P|p=3	
+12	naturellement	_	ADV	ADV		
+13	été	être	VPP	VPP	t=K	
+14	placé	placer	VPP	VPP	n=s|g=m|t=K	
+15	dans	dans	P	P		
+16	le	le	DET	DET	n=s|g=m	
+17	groupe	groupe	NC	NC	n=s|g=m	
+18	des	de	P+D	P+D	n=p	
+19	lézards	lézard	NC	NC	n=p|g=m	
+20	...	...	PONCT	PONCT		
+
+1	Cependant	cependant	ADV	ADV		
+2	,	,	PONCT	PONCT		
+3	depuis	depuis	P	P		
+4	des	des	DET	DET	n=p	
+5	années	année	NC	NC	n=p|g=f	
+6	,	,	PONCT	PONCT		
+7	cette	cette	DET	DET	n=s|g=f	
+8	classification	classification	NC	NC	n=s|g=f	
+9	pose	poser	V	V	n=s|t=P,S|p=1,3	
+10	problème	problème	NC	NC	n=s|g=m	
+11	,	,	PONCT	PONCT		
+12	car	car	CS	CS		
+13	elle	elle	CLS	CLS	n=s|g=f|p=3	
+14	ne	ne	ADV	ADV		
+15	marche	marcher	V	V	n=s|t=P,S|p=1,3	
+16	pas	pas	ADV	ADV		
+17	tout	tout	ADJ	ADJ	n=s|g=m	
+18	le	le	DET	DET	n=s|g=m	
+19	temps	temps	NC	NC	g=m	
+20	...	...	PONCT	PONCT		
+
+1	On	on	CLS	CLS	n=s|p=3	
+2	connaît	connaître	V	V	n=s|t=P|p=3	
+3	des	des	DET	DET	n=p	
+4	exemple	exemple	NC	NC	n=s|g=m	
+5	de	de	P	P		
+6	lézards	lézard	NC	NC	n=p|g=m	
+7	,	,	PONCT	PONCT		
+8	comme	comme	P	P		
+9	les	les	DET	DET	n=p	
+10	orvets	orvet	NC	NC	n=p|g=m	
+11	,	,	PONCT	PONCT		
+12	qui	qui	PROREL	PROREL	n=s	
+13	n'	ne	ADV	ADV		
+14	ont	avoir	V	V	n=p|t=P|p=3	
+15	pas	pas	ADV	ADV		
+16	de	de	P	P		
+17	pattes	patte	NC	NC	n=p|g=f	
+18	,	,	PONCT	PONCT		
+19	et	et	CC	CC		
+20	même	même	ADV	ADV		
+21	certains	certain	DET	DET	n=p|g=m	
+22	serpents	serpent	NC	NC	n=p|g=m	
+23	qui	qui	PROREL	PROREL	n=s	
+24	en	en	CLO	CLO		
+25	ont	avoir	V	V	n=p|t=P|p=3	
+26	!	!	PONCT	PONCT		
+
+1	Plus	plus	ADV	ADV		
+2	problématiques	problématique	ADJ	ADJ	n=p	
+3	,	,	PONCT	PONCT		
+4	certains	certain	PRO	PRO	n=p|g=m	
+5	"	"	PONCT	PONCT		
+6	lézards	lézard	NC	NC	n=p|g=m	
+7	"	"	PONCT	PONCT		
+8	semblent	sembler	V	V	n=p|t=P,S|p=3	
+9	en	en	P	P		
+10	fait	faire	V	V	n=s|t=P|p=3	
+11	être	être	VINF	VINF	t=W	
+12	de	de	P	P		
+13	plus	plus	ADV	ADV		
+14	proches	proche	ADJ	ADJ	n=p	
+15	parents	parent	NC	NC	n=p|g=m	
+16	des	de	P+D	P+D	n=p	
+17	serpents	serpent	NC	NC	n=p|g=m	
+18	que	que	CS	CS		
+19	des	des	DET	DET	n=p	
+20	"	"	PONCT	PONCT		
+21	vrais	vrai	ADJ	ADJ	n=p|g=m	
+22	"	"	PONCT	PONCT		
+23	lézards	lézard	NC	NC	n=p|g=m	
+24	comme	comme	P	P		
+25	le	le	DET	DET	n=s|g=m	
+26	lézard	lézard	NC	NC	n=s|g=m	
+27	vert	vert	ADJ	ADJ	n=s|g=m	
+28	,	,	PONCT	PONCT		
+29	ou	ou	CC	CC		
+30	le	le	DET	DET	n=s|g=m	
+31	lézard	lézard	NC	NC	n=s|g=m	
+32	des	de	P+D	P+D	n=p	
+33	murailles	muraille	NC	NC	n=p|g=f	
+34	,	,	PONCT	PONCT		
+35	par	par	P	P		
+36	exemple	exemple	NC	NC	n=s|g=m	
+37	.	.	PONCT	PONCT		
+
+1	Ainsi	ainsi	ADV	ADV		
+2	,	,	PONCT	PONCT		
+3	le	le	DET	DET	n=s|g=m	
+4	fait	fait	NC	NC	n=s|g=m	
+5	que	que	CS	CS		
+6	le	le	DET	DET	n=s|g=m	
+7	monstre	monstre	NC	NC	n=s|g=m	
+8	de	de	P	P		
+9	Gila	_	NPP	NPP		
+10	et	et	CC	CC		
+11	le	le	DET	DET	n=s|g=m	
+12	lézard	lézard	NC	NC	n=s|g=m	
+13	perlé	perler	ADJ	ADJ	n=s|g=m|t=K	
+14	soient	être	VS	VS	n=p|t=S|p=3	
+15	venimeux	venimeux	ADJ	ADJ	g=m	
+16	,	,	PONCT	PONCT		
+17	est	être	V	V	n=s|t=P|p=3	
+18	un	un	DET	DET	n=s|g=m	
+19	critère	critère	NC	NC	n=s|g=m	
+20	qui	qui	PROREL	PROREL	n=s	
+21	les	les	CLO	CLO	n=p|p=3	
+22	rapproche	rapprocher	V	V	n=s|t=P,S|p=1,3	
+23	plutôt	plutôt	ADV	ADV		
+24	des	des	DET	DET	n=p	
+25	serpents	serpent	NC	NC	n=p|g=m	
+26	que	que	CS	CS		
+27	des	des	DET	DET	n=p	
+28	lézards	lézard	NC	NC	n=p|g=m	
+29	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	fait	fait	NC	NC	n=s|g=m	
+3	,	,	PONCT	PONCT		
+4	le	le	DET	DET	n=s|g=m	
+5	monstre	monstre	NC	NC	n=s|g=m	
+6	de	de	P	P		
+7	Gila	_	NPP	NPP		
+8	et	et	CC	CC		
+9	le	le	DET	DET	n=s|g=m	
+10	lézard	lézard	NC	NC	n=s|g=m	
+11	perlé	perler	ADJ	ADJ	n=s|g=m|t=K	
+12	sont	être	V	V	n=p|t=P|p=3	
+13	les	les	DET	DET	n=p	
+14	deux	deux	ADJ	ADJ	s=card|n=p	
+15	premiers	premier	ADJ	ADJ	n=p|g=m	
+16	lézards	lézard	NC	NC	n=p|g=m	
+17	dont	dont	PROREL	PROREL		
+18	on	on	CLS	CLS	n=s|p=3	
+19	ait	avoir	VS	VS	n=s|t=S|p=3	
+20	découvert	découvrir	VPP	VPP	n=s|g=m|t=K	
+21	qu'	que	CS	CS		
+22	ils	ils	CLS	CLS	n=p|g=m|p=3	
+23	étaient	être	V	V	n=p|t=I|p=3	
+24	venimeux	venimeux	ADJ	ADJ	g=m	
+25	,	,	PONCT	PONCT		
+26	mais	mais	CC	CC		
+27	ils	ils	CLS	CLS	n=p|g=m|p=3	
+28	sont	être	V	V	n=p|t=P|p=3	
+29	loin	loin	ADV	ADV		
+30	d'	de	P	P		
+31	être	être	VINF	VINF	t=W	
+32	les	les	DET	DET	n=p	
+33	seuls	seul	ADJ	ADJ	n=p|g=m	
+34	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	varan	varan	NC	NC	n=s|g=m	
+3	de	de	P	P		
+4	Komodo	_	NPP	NPP		
+5	est	être	V	V	n=s|t=P|p=3	
+6	connu	connaître	VPP	VPP	n=s|g=m|t=K	
+7	depuis	depuis	P	P		
+8	longtemps	longtemps	ADV	ADV		
+9	pour	pour	P	P		
+10	tuer	tuer	VINF	VINF	t=W	
+11	des	des	DET	DET	n=p	
+12	proies	proie	NC	NC	n=p|g=f	
+13	beaucoup	beaucoup	ADV	ADV		
+14	plus	plus	ADV	ADV		
+15	grosses	gros	ADJ	ADJ	n=p|g=f	
+16	que	que	CS	CS		
+17	lui	lui	PRO	PRO	n=s|g=m|p=3	
+18	par	par	P	P		
+19	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+20	morsure	morsure	NC	NC	n=s|g=f	
+21	;	;	PONCT	PONCT		
+22	cependant	cependant	ADV	ADV		
+23	,	,	PONCT	PONCT		
+24	on	on	CLS	CLS	n=s|p=3	
+25	pensait	penser	V	V	n=s|t=I|p=3	
+26	alors	alors	ADV	ADV		
+27	que	que	CS	CS		
+28	c'	ce	CLS	CLS		
+29	étaient	être	V	V	n=p|t=I|p=3	
+30	des	des	DET	DET	n=p	
+31	bactéries	bactérie	NC	NC	n=p|g=f	
+32	contenues	contenir	VPP	VPP	n=p|g=f|t=K	
+33	dans	dans	P	P		
+34	la	la	DET	DET	n=s|g=f	
+35	salive	salive	NC	NC	n=s|g=f	
+36	du	de	P+D	P+D	n=s|g=m	
+37	dragon	dragon	NC	NC	n=s|g=m	
+38	de	de	P	P		
+39	Komodo	_	NPP	NPP		
+40	qui	qui	PROREL	PROREL	n=s	
+41	provoquaient	provoquer	V	V	n=p|t=I|p=3	
+42	des	des	DET	DET	n=p	
+43	infections	infection	NC	NC	n=p|g=f	
+44	mortelles	mortel	ADJ	ADJ	n=p|g=f	
+45	.	.	PONCT	PONCT		
+
+1	On	on	CLS	CLS	n=s|p=3	
+2	a	avoir	V	V	n=s|t=P|p=3	
+3	découvert	découvrir	VPP	VPP	n=s|g=m|t=K	
+4	récemment	_	ADV	ADV		
+5	que	que	CS	CS		
+6	le	le	DET	DET	n=s|g=m	
+7	dragon	dragon	NC	NC	n=s|g=m	
+8	de	de	P	P		
+9	Komodo	_	NPP	NPP		
+10	est	être	V	V	n=s|t=P|p=3	
+11	bel	bel	NC	NC	n=s|g=m	
+12	et	et	CC	CC		
+13	bien	bien	ADV	ADV		
+14	venimeux	venimeux	ADJ	ADJ	g=m	
+15	,	,	PONCT	PONCT		
+16	comme	comme	P	P		
+17	le	le	DET	DET	n=s|g=m	
+18	monstre	monstre	NC	NC	n=s|g=m	
+19	de	de	P	P		
+20	Gila	_	NPP	NPP		
+21	.	.	PONCT	PONCT		
+
+1	Du	de	P+D	P+D	n=s|g=m	
+2	coup	coup	NC	NC	n=s|g=m	
+3	,	,	PONCT	PONCT		
+4	les	les	DET	DET	n=p	
+5	scientifiques	scientifique	ADJ	ADJ	n=p	
+6	ont	avoir	V	V	n=p|t=P|p=3	
+7	cherché	chercher	VPP	VPP	n=s|g=m|t=K	
+8	à	à	P	P		
+9	savoir	savoir	VINF	VINF	t=W	
+10	si	si	CS	CS		
+11	d'	de	DET	DET	n=p	
+12	autres	autres	PRO	PRO	n=p|g=f,m	
+13	"	"	PONCT	PONCT		
+14	lézards	lézard	NC	NC	n=p|g=m	
+15	"	"	PONCT	PONCT		
+16	pouvaient	pouvoir	V	V	n=p|t=I|p=3	
+17	également	_	ADV	ADV		
+18	être	être	VINF	VINF	t=W	
+19	venimeux	venimeux	ADJ	ADJ	g=m	
+20	.	.	PONCT	PONCT		
+
+1	Ils	ils	CLS	CLS	n=p|g=m|p=3	
+2	ont	avoir	V	V	n=p|t=P|p=3	
+3	ainsi	ainsi	ADV	ADV		
+4	découvert	découvrir	VPP	VPP	n=s|g=m|t=K	
+5	que	que	CS	CS		
+6	plusieurs	plusieurs	DET	DET	n=p	
+7	autres	autre	ADJ	ADJ	n=p	
+8	espèces	espèce	NC	NC	n=p|g=f	
+9	de	de	P	P		
+10	varans	varan	NC	NC	n=p|g=m	
+11	,	,	PONCT	PONCT		
+12	mais	mais	CC	CC		
+13	également	_	ADV	ADV		
+14	certains	certain	DET	DET	n=p|g=m	
+15	iguanes	iguane	NC	NC	n=p|g=m	
+16	,	,	PONCT	PONCT		
+17	sont	être	V	V	n=p|t=P|p=3	
+18	venimeux	venimeux	ADJ	ADJ	g=m	
+19	.	.	PONCT	PONCT		
+
+1	Leur	leur	DET	DET	n=s|p=3|poss=p	
+2	venin	venin	NC	NC	n=s|g=m	
+3	contient	contenir	V	V	n=s|t=P|p=3	
+4	des	des	DET	DET	n=p	
+5	substances	substance	NC	NC	n=p|g=f	
+6	actives	actif	ADJ	ADJ	n=p|g=f	
+7	,	,	PONCT	PONCT		
+8	dont	dont	PROREL	PROREL		
+9	certaines	certain	PRO	PRO	n=p|g=f	
+10	se	se	CLR	CLR	n=p,s|p=3	
+11	retrouvent	retrouver	V	V	n=p|t=P,S|p=3	
+12	également	_	ADV	ADV		
+13	dans	dans	P	P		
+14	le	le	DET	DET	n=s|g=m	
+15	venin	venin	NC	NC	n=s|g=m	
+16	des	de	P+D	P+D	n=p	
+17	serpents	serpent	NC	NC	n=p|g=m	
+18	,	,	PONCT	PONCT		
+19	notamment	_	ADV	ADV		
+20	dans	dans	P	P		
+21	celui	celui	PRO	PRO	n=s|g=m	
+22	des	de	P+D	P+D	n=p	
+23	crotales	crotale	NC	NC	n=p|g=m	
+24	.	.	PONCT	PONCT		
+
+1	Cela	cela	PRO	PRO	n=s|g=m	
+2	a	avoir	V	V	n=s|t=P|p=3	
+3	conduit	conduire	VPP	VPP	n=s|g=m|t=K	
+4	les	les	DET	DET	n=p	
+5	scientifiques	scientifique	ADJ	ADJ	n=p	
+6	à	à	P	P		
+7	reconsidérer	reconsidérer	VINF	VINF	t=W	
+8	la	la	DET	DET	n=s|g=f	
+9	classification	classification	NC	NC	n=s|g=f	
+10	des	de	P+D	P+D	n=p	
+11	squamates	squamate	NC	NC	n=p|g=m	
+12	:	:	PONCT	PONCT		
+13	si	si	CS	CS		
+14	le	le	DET	DET	n=s|g=m	
+15	groupe	groupe	NC	NC	n=s|g=m	
+16	des	de	P+D	P+D	n=p	
+17	serpents	serpent	NC	NC	n=p|g=m	
+18	ne	ne	ADV	ADV		
+19	pose	poser	V	V	n=s|t=P,S|p=1,3	
+20	au	à	P+D	P+D	n=s|g=m	
+21	final	final	ADJ	ADJ	n=s|g=m	
+22	pas	pas	ADV	ADV		
+23	tellement	_	ADV	ADV		
+24	de	de	P	P		
+25	problèmes	problème	NC	NC	n=p|g=m	
+26	,	,	PONCT	PONCT		
+27	celui	celui	PRO	PRO	n=s|g=m	
+28	des	de	P+D	P+D	n=p	
+29	"	"	PONCT	PONCT		
+30	lézards	lézard	NC	NC	n=p|g=m	
+31	"	"	PONCT	PONCT		
+32	a	avoir	V	V	n=s|t=P|p=3	
+33	été	être	VPP	VPP	t=K	
+34	profondément	_	ADV	ADV		
+35	modifié	modifier	VPP	VPP	n=s|g=m|t=K	
+36	:	:	PONCT	PONCT		
+37	les	les	DET	DET	n=p	
+38	iguanes	iguane	NC	NC	n=p|g=m	
+39	,	,	PONCT	PONCT		
+40	les	les	DET	DET	n=p	
+41	caméléons	caméléon	NC	NC	n=p|g=m	
+42	,	,	PONCT	PONCT		
+43	les	les	DET	DET	n=p	
+44	agames	_	NC	NC		
+45	,	,	PONCT	PONCT		
+46	les	les	DET	DET	n=p	
+47	varans	varan	NC	NC	n=p|g=m	
+48	et	et	CC	CC		
+49	les	les	DET	DET	n=p	
+50	orvets	orvet	NC	NC	n=p|g=m	
+51	sont	être	V	V	n=p|t=P|p=3	
+52	aujourd'hui	aujourd'hui	ADV	ADV		
+53	considérés	considérer	VPP	VPP	n=p|g=m|t=K	
+54	comme	comme	P	P		
+55	plus	plus	ADV	ADV		
+56	proches	proche	ADJ	ADJ	n=p	
+57	des	de	P+D	P+D	n=p	
+58	serpents	serpent	NC	NC	n=p|g=m	
+59	que	que	CS	CS		
+60	des	des	DET	DET	n=p	
+61	"	"	PONCT	PONCT		
+62	vrais	vrai	ADJ	ADJ	n=p|g=m	
+63	"	"	PONCT	PONCT		
+64	lézards	lézard	NC	NC	n=p|g=m	
+65	;	;	PONCT	PONCT		
+66	ils	ils	CLS	CLS	n=p|g=m|p=3	
+67	forment	former	V	V	n=p|t=P,S|p=3	
+68	le	le	DET	DET	n=s|g=m	
+69	groupe	groupe	NC	NC	n=s|g=m	
+70	des	de	P+D	P+D	n=p	
+71	Toxicofères	_	NPP	NPP		
+72	,	,	PONCT	PONCT		
+73	c'	ce	CLS	CLS		
+74	est	être	V	V	n=s|t=P|p=3	
+75	à	à	P	P		
+76	dire	dire	VINF	VINF	t=W	
+77	"	"	PONCT	PONCT		
+78	qui	qui	PROREL	PROREL	n=s	
+79	ont	avoir	V	V	n=p|t=P|p=3	
+80	du	de	P+D	P+D	n=s|g=m	
+81	venin	venin	NC	NC	n=s|g=m	
+82	"	"	PONCT	PONCT		
+83	(	(	PONCT	PONCT		
+84	même	même	ADV	ADV		
+85	si	si	CS	CS		
+86	tous	tout	PRO	PRO	n=p|g=m	
+87	n'	ne	ADV	ADV		
+88	en	en	CLO	CLO		
+89	ont	avoir	V	V	n=p|t=P|p=3	
+90	pas	pas	ADV	ADV		
+91	)	)	PONCT	PONCT		
+92	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	Toxicofères	_	NC	NC		
+3	sont	être	V	V	n=p|t=P|p=3	
+4	divisés	diviser	VPP	VPP	n=p|g=m|t=K	
+5	en	en	P	P		
+6	trois	trois	DET	DET	s=card|n=p	
+7	groupes	groupe	NC	NC	n=p|g=m	
+8	:	:	PONCT	PONCT		
+
+1	Ainsi	ainsi	ADV	ADV		
+2	,	,	PONCT	PONCT		
+3	le	le	DET	DET	n=s|g=m	
+4	monstre	monstre	NC	NC	n=s|g=m	
+5	de	de	P	P		
+6	Gila	_	NPP	NPP		
+7	est	être	V	V	n=s|t=P|p=3	
+8	un	un	DET	DET	n=s|g=m	
+9	proche	proche	ADJ	ADJ	n=s	
+10	cousin	cousin	NC	NC	n=s|g=m	
+11	des	de	P+D	P+D	n=p	
+12	varans	varan	NC	NC	n=p|g=m	
+13	et	et	CC	CC		
+14	des	de	P+D	P+D	n=p	
+15	orvets	orvet	NC	NC	n=p|g=m	
+16	,	,	PONCT	PONCT		
+17	et	et	CC	CC		
+18	un	un	DET	DET	n=s|g=m	
+19	parent	parent	NC	NC	n=s|g=m	
+20	plus	plus	ADV	ADV		
+21	éloigné	éloigner	VPP	VPP	n=s|g=m|t=K	
+22	des	de	P+D	P+D	n=p	
+23	serpents	serpent	NC	NC	n=p|g=m	
+24	et	et	CC	CC		
+25	des	de	P+D	P+D	n=p	
+26	iguanes	iguane	NC	NC	n=p|g=m	
+27	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	n'	ne	ADV	ADV		
+3	est	être	V	V	n=s|t=P|p=3	
+4	que	que	CS	CS		
+5	lointain	lointain	ADJ	ADJ	n=s|g=m	
+6	cousin	cousin	NC	NC	n=s|g=m	
+7	des	de	P+D	P+D	n=p	
+8	"	"	PONCT	PONCT		
+9	vrais	vrai	ADJ	ADJ	n=p|g=m	
+10	"	"	PONCT	PONCT		
+11	lézards	lézard	NC	NC	n=p|g=m	
+12	,	,	PONCT	PONCT		
+13	comme	comme	P	P		
+14	le	le	DET	DET	n=s|g=m	
+15	lézard	lézard	NC	NC	n=s|g=m	
+16	des	de	P+D	P+D	n=p	
+17	murailles	muraille	NC	NC	n=p|g=f	
+18	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	salive	salive	NC	NC	n=s|g=f	
+3	du	de	P+D	P+D	n=s|g=m	
+4	monstre	monstre	NC	NC	n=s|g=m	
+5	de	de	P	P		
+6	Gila	_	NPP	NPP		
+7	contient	contenir	V	V	n=s|t=P|p=3	
+8	une	une	DET	DET	n=s|g=f	
+9	molécule	molécule	NC	NC	n=s|g=f	
+10	,	,	PONCT	PONCT		
+11	l'	le	DET	DET	n=s	
+12	exendine	_	NC	NC		
+13	-4	-4	NPP	NPP		
+14	,	,	PONCT	PONCT		
+15	qui	qui	PROREL	PROREL	n=s	
+16	ressemble	ressembler	V	V	n=s|t=P,S|p=1,3	
+17	beaucoup	beaucoup	ADV	ADV		
+18	à	à	P	P		
+19	une	une	DET	DET	n=s|g=f	
+20	hormone	hormone	NC	NC	n=s|g=f	
+21	humaine	humain	ADJ	ADJ	n=s|g=f	
+22	,	,	PONCT	PONCT		
+23	le	le	DET	DET	n=s|g=m	
+24	GLP	_	NPP	NPP		
+25	-1	-1	NPP	NPP		
+26	,	,	PONCT	PONCT		
+27	qui	qui	PROREL	PROREL	n=s	
+28	joue	jouer	V	V	n=s|t=P,S|p=1,3	
+29	un	un	DET	DET	n=s|g=m	
+30	rôle	rôle	NC	NC	n=s|g=m	
+31	dans	dans	P	P		
+32	la	la	DET	DET	n=s|g=f	
+33	régulation	régulation	NC	NC	n=s|g=f	
+34	de	de	P	P		
+35	la	la	DET	DET	n=s|g=f	
+36	glycémie	glycémie	NC	NC	n=s|g=f	
+37	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	semble	sembler	V	V	n=s|t=P,S|p=1,3	
+3	que	que	CS	CS		
+4	cette	cette	DET	DET	n=s|g=f	
+5	substance	substance	NC	NC	n=s|g=f	
+6	joue	jouer	V	V	n=s|t=P,S|p=1,3	
+7	un	un	DET	DET	n=s|g=m	
+8	rôle	rôle	NC	NC	n=s|g=m	
+9	dans	dans	P	P		
+10	le	le	DET	DET	n=s|g=m	
+11	stockage	stockage	NC	NC	n=s|g=m	
+12	des	de	P+D	P+D	n=p	
+13	réserves	réserve	NC	NC	n=p|g=f	
+14	dans	dans	P	P		
+15	la	la	DET	DET	n=s|g=f	
+16	queue	queue	NC	NC	n=s|g=f	
+17	du	de	P+D	P+D	n=s|g=m	
+18	monstre	monstre	NC	NC	n=s|g=m	
+19	de	de	P	P		
+20	Gila	_	NPP	NPP		
+21	.	.	PONCT	PONCT		
+
+1	Cette	cette	DET	DET	n=s|g=f	
+2	substance	substance	NC	NC	n=s|g=f	
+3	intéresse	intéresser	V	V	n=s|t=P,S|p=1,3	
+4	beaucoup	beaucoup	ADV	ADV		
+5	les	les	DET	DET	n=p	
+6	scientifiques	scientifique	ADJ	ADJ	n=p	
+7	,	,	PONCT	PONCT		
+8	qui	qui	PROREL	PROREL	n=s	
+9	ont	avoir	V	V	n=p|t=P|p=3	
+10	réussi	réussir	VPP	VPP	n=s|g=m|t=K	
+11	à	à	P	P		
+12	en	en	CLO	CLO		
+13	produire	produire	VINF	VINF	t=W	
+14	un	un	DET	DET	n=s|g=m	
+15	dérivé	dérivé	NC	NC	n=s|g=m	
+16	en	en	P	P		
+17	laboratoire	laboratoire	NC	NC	n=s|g=m	
+18	.	.	PONCT	PONCT		
+
+1	Ils	ils	CLS	CLS	n=p|g=m|p=3	
+2	ont	avoir	V	V	n=p|t=P|p=3	
+3	ainsi	ainsi	ADV	ADV		
+4	pu	pouvoir	VPP	VPP	t=K	
+5	mettre	mettre	VINF	VINF	t=W	
+6	au	à	P+D	P+D	n=s|g=m	
+7	point	point	NC	NC	n=s|g=m	
+8	un	un	DET	DET	n=s|g=m	
+9	médicament	médicament	NC	NC	n=s|g=m	
+10	qui	qui	PROREL	PROREL	n=s	
+11	permet	permettre	V	V	n=s|t=P|p=3	
+12	de	de	P	P		
+13	lutter	lutter	VINF	VINF	t=W	
+14	contre	contre	P	P		
+15	le	le	DET	DET	n=s|g=m	
+16	diabète	diabète	NC	NC	n=s|g=m	
+17	de	de	P	P		
+18	type	type	NC	NC	n=s|g=m	
+19	2	2	ADJ	ADJ		
+20	.	.	PONCT	PONCT		
+

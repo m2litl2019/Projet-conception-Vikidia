@@ -1,0 +1,5012 @@
+1	Indira	Indira	NPP	NPP	n=s|g=f	
+2	Priyadarshini	_	NPP	NPP		
+3	Gandhi	_	NPP	NPP		
+4	(	(	PONCT	PONCT		
+5	devanagari	_	NC	NC		
+6	:	:	PONCT	PONCT		
+7	इन्दिरा	_	NPP	NPP		
+8	प्रियदर्शिनी	_	NPP	NPP		
+9	गान्धी	_	NPP	NPP		
+10	,	,	PONCT	PONCT		
+11	API	_	NPP	NPP		
+12	:	:	PONCT	PONCT		
+13	/	/	PONCT	PONCT		
+14	ɪnd̪ɪraː	_	NC	NC		
+15	prɪjəd̪ərʃɪniː	_	ADJ	ADJ		
+16	gaːnd̪ʰiː	_	NC	NC		
+17	/	/	PONCT	PONCT		
+18	)	)	PONCT	PONCT		
+19	,	,	PONCT	PONCT		
+20	née	naître	VPP	VPP	n=s|g=f|t=K	
+21	Nehru	_	NPP	NPP		
+22	,	,	PONCT	PONCT		
+23	le	le	DET	DET	n=s|g=m	
+24	19	19	ADJ	ADJ		
+25	novembre	novembre	NC	NC	n=s|g=m	
+26	1917	1917	ADJ	ADJ		
+27	et	et	CC	CC		
+28	morte	mort	ADJ	ADJ	n=s|g=f|t=K	
+29	le	le	DET	DET	n=s|g=m	
+30	31	31	ADJ	ADJ		
+31	octobre	octobre	NC	NC	n=s|g=m	
+32	1984	1984	NC	NC		
+33	,	,	PONCT	PONCT		
+34	est	être	V	V	n=s|t=P|p=3	
+35	une	une	DET	DET	n=s|g=f	
+36	femme	femme	NC	NC	n=s|g=f	
+37	d'	de	P	P		
+38	État	État	NC	NC	n=s|g=m	
+39	indienne	indien	ADJ	ADJ	n=s|g=f	
+40	,	,	PONCT	PONCT		
+41	Première	premier	ADJ	ADJ	n=s|g=f	
+42	ministre	ministre	NC	NC	n=s|g=m	
+43	de	de	P	P		
+44	1966	1966	NC	NC		
+45	à	à	P	P		
+46	1977	1977	NC	NC		
+47	puis	puis	CC	CC		
+48	de	de	P	P		
+49	1980	1980	NC	NC		
+50	à	à	P	P		
+51	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+52	mort	mort	NC	NC	n=s|g=f,m	
+53	en	en	P	P		
+54	1984	1984	NC	NC		
+55	.	.	PONCT	PONCT		
+
+1	Fille	fille	NC	NC	n=s|g=f	
+2	unique	unique	ADJ	ADJ	n=s	
+3	de	de	P	P		
+4	Jawaharlal	_	NPP	NPP		
+5	Nehru	_	NPP	NPP		
+6	,	,	PONCT	PONCT		
+7	le	le	DET	DET	n=s|g=m	
+8	premier	premier	ADJ	ADJ	n=s|g=m	
+9	Premier	premier	ADJ	ADJ	n=s|g=m	
+10	ministre	ministre	NC	NC	n=s|g=m	
+11	de	de	P	P		
+12	l'	le	DET	DET	n=s	
+13	Inde	Inde	NPP	NPP	n=s|g=f	
+14	,	,	PONCT	PONCT		
+15	elle	elle	CLS	CLS	n=s|g=f|p=3	
+16	est	être	V	V	n=s|t=P|p=3	
+17	la	la	DET	DET	n=s|g=f	
+18	deuxième	deuxième	ADJ	ADJ	n=s	
+19	femme	femme	NC	NC	n=s|g=f	
+20	au	à	P+D	P+D	n=s|g=m	
+21	monde	monde	NC	NC	n=s|g=m	
+22	élue	élire	VPP	VPP	n=s|g=f|t=K	
+23	démocratiquement	_	ADV	ADV		
+24	à	à	P	P		
+25	la	la	DET	DET	n=s|g=f	
+26	tête	tête	NC	NC	n=s|g=f	
+27	d'	de	P	P		
+28	un	un	DET	DET	n=s|g=m	
+29	gouvernement	gouvernement	NC	NC	n=s|g=m	
+30	,	,	PONCT	PONCT		
+31	après	après	P	P		
+32	Sirimavo	_	NPP	NPP		
+33	Bandaranaike	_	NPP	NPP		
+34	au	à	P+D	P+D	n=s|g=m	
+35	Sri	Sri	NPP	NPP	n=s|g=f	
+36	Lanka	_	NPP	NPP		
+37	.	.	PONCT	PONCT		
+
+1	C'	ce	CLS	CLS		
+2	est	être	V	V	n=s|t=P|p=3	
+3	une	une	DET	DET	n=s|g=f	
+4	figure	figure	NC	NC	n=s|g=f	
+5	majeure	majeur	ADJ	ADJ	n=s|g=f	
+6	du	de	P+D	P+D	n=s|g=m	
+7	Congrès	congrès	NC	NC	g=m	
+8	et	et	CC	CC		
+9	de	de	P	P		
+10	la	la	DET	DET	n=s|g=f	
+11	politique	politique	NC	NC	n=s|g=f	
+12	indienne	indien	ADJ	ADJ	n=s|g=f	
+13	de	de	P	P		
+14	la	la	DET	DET	n=s|g=f	
+15	seconde	second	ADJ	ADJ	n=s|g=f	
+16	moitié	moitié	NC	NC	n=s|g=f	
+17	du	de	P+D	P+D	n=s|g=m	
+18	XXe	_	ADJ	ADJ		
+19	siècle	siècle	NC	NC	n=s|g=m	
+20	et	et	CC	CC		
+21	ses	ses	DET	DET	n=p|p=3|poss=s	
+22	mandats	mandat	NC	NC	n=p|g=m	
+23	à	à	P	P		
+24	la	la	DET	DET	n=s|g=f	
+25	tête	tête	NC	NC	n=s|g=f	
+26	de	de	P	P		
+27	l'	le	DET	DET	n=s	
+28	Inde	Inde	NPP	NPP	n=s|g=f	
+29	sont	être	V	V	n=p|t=P|p=3	
+30	marqués	marquer	VPP	VPP	n=p|g=m|t=K	
+31	par	par	P	P		
+32	une	une	DET	DET	n=s|g=f	
+33	forte	fort	ADJ	ADJ	n=s|g=f	
+34	centralisation	centralisation	NC	NC	n=s|g=f	
+35	du	de	P+D	P+D	n=s|g=m	
+36	pouvoir	pouvoir	NC	NC	n=s|g=m	
+37	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	mène	mener	V	V	n=s|t=P,S|p=1,3	
+3	la	la	DET	DET	n=s|g=f	
+4	troisième	troisième	ADJ	ADJ	n=s	
+5	guerre	guerre	NC	NC	n=s|g=f	
+6	indo	_	NPP	NPP		
+7	-	-	PONCT	PONCT		
+8	pakistanaise	pakistanais	ADJ	ADJ	n=s|g=f	
+9	,	,	PONCT	PONCT		
+10	développe	développer	V	V	n=s|t=P,S|p=1,3	
+11	un	un	DET	DET	n=s|g=m	
+12	programme	programme	NC	NC	n=s|g=m	
+13	d'	de	P	P		
+14	armes	arme	NC	NC	n=p|g=f	
+15	nucléaires	nucléaire	ADJ	ADJ	n=p	
+16	et	et	CC	CC		
+17	accroit	_	V	V		
+18	l'	le	DET	DET	n=s	
+19	influence	influence	NC	NC	n=s|g=f	
+20	de	de	P	P		
+21	l'	le	DET	DET	n=s	
+22	Inde	Inde	NPP	NPP	n=s|g=f	
+23	sur	sur	P	P		
+24	l'	le	DET	DET	n=s	
+25	Asie	Asie	NPP	NPP	n=s|g=f	
+26	du	de	P+D	P+D	n=s|g=m	
+27	Sud	sud	NC	NC	n=s|g=m	
+28	.	.	PONCT	PONCT		
+
+1	Son	son	DET	DET	n=s|g=m|p=3|poss=s	
+2	gouvernement	gouvernement	NC	NC	n=s|g=m	
+3	préside	présider	V	V	n=s|t=P,S|p=1,3	
+4	à	à	P	P		
+5	la	la	DET	DET	n=s|g=f	
+6	Révolution	révolution	NC	NC	n=s|g=f	
+7	verte	vert	ADJ	ADJ	n=s|g=f	
+8	et	et	CC	CC		
+9	à	à	P	P		
+10	la	la	DET	DET	n=s|g=f	
+11	nationalisation	nationalisation	NC	NC	n=s|g=f	
+12	des	de	P+D	P+D	n=p	
+13	banques	banque	NC	NC	n=p|g=f	
+14	et	et	CC	CC		
+15	des	de	P+D	P+D	n=p	
+16	principales	principal	ADJ	ADJ	n=p|g=f	
+17	industries	industrie	NC	NC	n=p|g=f	
+18	.	.	PONCT	PONCT		
+
+1	De	de	P	P		
+2	1975	1975	NC	NC		
+3	à	à	P	P		
+4	1977	1977	NC	NC		
+5	,	,	PONCT	PONCT		
+6	Indira	Indira	NPP	NPP	n=s|g=f	
+7	Gandhi	_	NPP	NPP		
+8	instaure	instaurer	V	V	n=s|t=P,S|p=1,3	
+9	un	un	DET	DET	n=s|g=m	
+10	état	état	NC	NC	n=s|g=m	
+11	d'	de	P	P		
+12	urgence	urgence	NC	NC	n=s|g=f	
+13	controversé	controverser	VPP	VPP	n=s|g=m|t=K	
+14	qui	qui	PROREL	PROREL	n=s	
+15	lui	lui	CLO	CLO	n=s|p=3	
+16	permet	permettre	V	V	n=s|t=P|p=3	
+17	de	de	P	P		
+18	suspendre	suspendre	VINF	VINF	t=W	
+19	les	les	DET	DET	n=p	
+20	libertés	liberté	NC	NC	n=p|g=f	
+21	publiques	public	ADJ	ADJ	n=p|g=f	
+22	.	.	PONCT	PONCT		
+
+1	Défaite	défaire	VPP	VPP	n=s|g=f|t=K	
+2	en	en	P	P		
+3	1977	1977	NC	NC		
+4	,	,	PONCT	PONCT		
+5	Indira	Indira	NPP	NPP	n=s|g=f	
+6	Gandhi	_	NPP	NPP		
+7	redevient	redevenir	V	V	n=s|t=P|p=3	
+8	Première	premier	ADJ	ADJ	n=s|g=f	
+9	ministre	ministre	NC	NC	n=s|g=m	
+10	à	à	P	P		
+11	la	la	DET	DET	n=s|g=f	
+12	suite	suite	NC	NC	n=s|g=f	
+13	des	de	P+D	P+D	n=p	
+14	élections	élection	NC	NC	n=p|g=f	
+15	de	de	P	P		
+16	1980	1980	NC	NC		
+17	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	est	être	V	V	n=s|t=P|p=3	
+3	assassinée	assassiner	VPP	VPP	n=s|g=f|t=K	
+4	en	en	P	P		
+5	1984	1984	NC	NC		
+6	par	par	P	P		
+7	ses	ses	DET	DET	n=p|p=3|poss=s	
+8	gardes	garde	NC	NC	n=p	
+9	du	de	P+D	P+D	n=s|g=m	
+10	corps	corps	NC	NC	g=m	
+11	sikhs	sikh	ADJ	ADJ	n=p|g=m	
+12	après	après	P	P		
+13	avoir	avoir	VINF	VINF	t=W	
+14	ordonné	ordonner	VPP	VPP	n=s|g=m|t=K	
+15	l'	le	DET	DET	n=s	
+16	attaque	attaque	NC	NC	n=s|g=f	
+17	du	de	P+D	P+D	n=s|g=m	
+18	Temple	Temple	NPP	NPP	n=s	
+19	d'	de	P	P		
+20	Or	_	NPP	NPP		
+21	contre	contre	P	P		
+22	les	les	DET	DET	n=p	
+23	séparatistes	séparatiste	NC	NC	n=p	
+24	du	de	P+D	P+D	n=s|g=m	
+25	Pendjab	_	NPP	NPP		
+26	.	.	PONCT	PONCT		
+
+1	Indira	Indira	NPP	NPP	n=s|g=f	
+2	Gandhi	_	NPP	NPP		
+3	est	être	V	V	n=s|t=P|p=3	
+4	dans	dans	P	P		
+5	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+6	jeunesse	jeunesse	NC	NC	n=s|g=f	
+7	spectatrice	spectateur	NC	NC	n=s|g=f	
+8	et	et	CC	CC		
+9	parfois	parfois	ADV	ADV		
+10	actrice	acteur	ADJ	ADJ	n=s|g=f	
+11	de	de	P	P		
+12	certains	certain	PRO	PRO	n=p|g=m	
+13	des	de	P+D	P+D	n=p	
+14	épisodes	épisode	NC	NC	n=p|g=m	
+15	les	les	DET	DET	n=p	
+16	plus	plus	ADV	ADV		
+17	connus	connaître	VPP	VPP	n=p|g=m|t=K	
+18	de	de	P	P		
+19	la	la	DET	DET	n=s|g=f	
+20	lutte	lutte	NC	NC	n=s|g=f	
+21	pour	pour	P	P		
+22	l'	le	DET	DET	n=s	
+23	indépendance	indépendance	NC	NC	n=s|g=f	
+24	de	de	P	P		
+25	l'	le	DET	DET	n=s	
+26	Inde	Inde	NPP	NPP	n=s|g=f	
+27	.	.	PONCT	PONCT		
+
+1	Ses	ses	DET	DET	n=p|p=3|poss=s	
+2	premières	premier	ADJ	ADJ	n=p|g=f	
+3	années	année	NC	NC	n=p|g=f	
+4	sont	être	V	V	n=p|t=P|p=3	
+5	aussi	aussi	ADV	ADV		
+6	marquées	marquer	VPP	VPP	n=p|g=f|t=K	
+7	par	par	P	P		
+8	de	de	DET	DET	n=p	
+9	longs	long	ADJ	ADJ	n=p|g=m	
+10	séjours	séjour	NC	NC	n=p|g=m	
+11	à	à	P	P		
+12	l'	le	DET	DET	n=s	
+13	étranger	étranger	NC	NC	n=s|g=m	
+14	notamment	_	ADV	ADV		
+15	en	en	P	P		
+16	Suisse	Suisse	NPP	NPP	n=s|g=f	
+17	et	et	CC	CC		
+18	par	par	P	P		
+19	la	la	DET	DET	n=s|g=f	
+20	maladie	maladie	NC	NC	n=s|g=f	
+21	de	de	P	P		
+22	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+23	mère	mère	NC	NC	n=s|g=f	
+24	Kamala	Kamala	NPP	NPP	n=s|g=f	
+25	.	.	PONCT	PONCT		
+
+1	Pendant	pendant	P	P		
+2	ses	ses	DET	DET	n=p|p=3|poss=s	
+3	fréquents	fréquent	ADJ	ADJ	n=p|g=m	
+4	déplacements	déplacement	NC	NC	n=p|g=m	
+5	,	,	PONCT	PONCT		
+6	mais	mais	CC	CC		
+7	aussi	aussi	ADV	ADV		
+8	lors	lors	ADV	ADV		
+9	de	de	P	P		
+10	ses	ses	DET	DET	n=p|p=3|poss=s	
+11	séjours	séjour	NC	NC	n=p|g=m	
+12	en	en	P	P		
+13	prison	prison	NC	NC	n=s|g=f	
+14	,	,	PONCT	PONCT		
+15	Jawaharlal	_	NPP	NPP		
+16	Nehru	_	NPP	NPP		
+17	échange	échanger	V	V	n=s|t=P,S|p=1,3	
+18	avec	avec	P	P		
+19	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+20	fille	fille	NC	NC	n=s|g=f	
+21	une	une	DET	DET	n=s|g=f	
+22	abondante	abondant	ADJ	ADJ	n=s|g=f	
+23	correspondance	correspondance	NC	NC	n=s|g=f	
+24	qui	qui	PROREL	PROREL	n=s	
+25	est	être	V	V	n=s|t=P|p=3	
+26	en	en	P	P		
+27	partie	partie	NC	NC	n=s|g=f	
+28	publiée	publier	VPP	VPP	n=s|g=f|t=K	
+29	de	de	P	P		
+30	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+31	vivant	vivre	VPR	VPR	t=G	
+32	sous	sous	P	P		
+33	forme	forme	NC	NC	n=s|g=f	
+34	de	de	P	P		
+35	livres	livre	NC	NC	n=p	
+36	,	,	PONCT	PONCT		
+37	notamment	_	ADV	ADV		
+38	Lettres	_	NPP	NPP		
+39	d'	de	P	P		
+40	un	un	DET	DET	n=s|g=m	
+41	père	père	NC	NC	n=s|g=m	
+42	à	à	P	P		
+43	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+44	fille	fille	NC	NC	n=s|g=f	
+45	(	(	PONCT	PONCT		
+46	en	en	P	P		
+47	)	)	PONCT	PONCT		
+48	(	(	PONCT	PONCT		
+49	1929	1929	NC	NC		
+50	)	)	PONCT	PONCT		
+51	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	Nehru	_	NPP	NPP		
+3	sont	être	V	V	n=p|t=P|p=3	
+4	une	une	DET	DET	n=s|g=f	
+5	famille	famille	NC	NC	n=s|g=f	
+6	de	de	P	P		
+7	brahmanes	brahmane	NC	NC	n=p	
+8	originaires	originaire	ADJ	ADJ	n=p	
+9	du	de	P+D	P+D	n=s|g=m	
+10	Cachemire	_	NPP	NPP		
+11	qui	qui	PROREL	PROREL	n=s	
+12	se	se	CLR	CLR	n=p,s|p=3	
+13	sont	être	V	V	n=p|t=P|p=3	
+14	installés	installer	VPP	VPP	n=p|g=m|t=K	
+15	au	à	P+D	P+D	n=s|g=m	
+16	début	début	NC	NC	n=s|g=m	
+17	du	de	P+D	P+D	n=s|g=m	
+18	XVIIIe	_	ADJ	ADJ		
+19	siècle	siècle	NC	NC	n=s|g=m	
+20	dans	dans	P	P		
+21	les	les	DET	DET	n=p	
+22	plaines	plaine	NC	NC	n=p|g=f	
+23	de	de	P	P		
+24	l'	le	DET	DET	n=s	
+25	Inde	Inde	NPP	NPP	n=s|g=f	
+26	du	de	P+D	P+D	n=s|g=m	
+27	Nord	Nord	NPP	NPP	n=s|g=m	
+28	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	grand	grand	ADJ	ADJ	n=s|g=m	
+3	-	-	PONCT	PONCT		
+4	père	père	NC	NC	n=s|g=m	
+5	d'	de	P	P		
+6	Indira	Indira	NPP	NPP	n=s|g=f	
+7	,	,	PONCT	PONCT		
+8	Motilal	_	NPP	NPP		
+9	Nehru	_	NPP	NPP		
+10	(	(	PONCT	PONCT		
+11	né	naître	VPP	VPP	n=s|g=m|t=K	
+12	en	en	P	P		
+13	1861	1861	NC	NC		
+14	)	)	PONCT	PONCT		
+15	,	,	PONCT	PONCT		
+16	est	être	V	V	n=s|t=P|p=3	
+17	un	un	DET	DET	n=s|g=m	
+18	riche	riche	ADJ	ADJ	n=s	
+19	avocat	avocat	NC	NC	n=s|g=m	
+20	qui	qui	PROREL	PROREL	n=s	
+21	s'	se	CLR	CLR	n=p,s|p=3	
+22	est	être	V	V	n=s|t=P|p=3	
+23	fait	faire	VPP	VPP	n=s|g=m|t=K	
+24	construire	construire	VINF	VINF	t=W	
+25	à	à	P	P		
+26	Allahabad	_	NPP	NPP		
+27	une	une	DET	DET	n=s|g=f	
+28	vaste	vaste	ADJ	ADJ	n=s	
+29	demeure	demeurer	V	V	n=s|t=P,S|p=1,3	
+30	de	de	P	P		
+31	quarante-deux	quarante-deux	NC	NC		
+32	pièces	pièce	NC	NC	n=p|g=f	
+33	dans	dans	P	P		
+34	laquelle	lequel	PROREL	PROREL	n=s|g=f	
+35	il	il	CLS	CLS	n=s|g=m|p=3	
+36	réside	résider	V	V	n=s|t=P,S|p=1,3	
+37	avec	avec	P	P		
+38	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+39	famille	famille	NC	NC	n=s|g=f	
+40	élargie	élargir	VPP	VPP	n=s|g=f|t=K	
+41	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	père	père	NC	NC	n=s|g=m	
+3	d'	de	P	P		
+4	Indira	Indira	NPP	NPP	n=s|g=f	
+5	,	,	PONCT	PONCT		
+6	Jawaharlal	_	NPP	NPP		
+7	(	(	PONCT	PONCT		
+8	né	naître	VPP	VPP	n=s|g=m|t=K	
+9	en	en	P	P		
+10	1889	1889	NC	NC		
+11	)	)	PONCT	PONCT		
+12	,	,	PONCT	PONCT		
+13	également	_	ADV	ADV		
+14	avocat	avocat	NC	NC	n=s|g=m	
+15	,	,	PONCT	PONCT		
+16	épouse	épouser	V	V	n=s|t=P,S|p=1,3	
+17	en	en	P	P		
+18	février	février	NC	NC	n=s|g=m	
+19	1916	1916	NC	NC		
+20	Kamala	Kamala	NPP	NPP	n=s|g=f	
+21	Kaul	_	NPP	NPP		
+22	(	(	PONCT	PONCT		
+23	née	naître	VPP	VPP	n=s|g=f|t=K	
+24	en	en	P	P		
+25	1899	1899	NC	NC		
+26	)	)	PONCT	PONCT		
+27	et	et	CC	CC		
+28	Indira	Indira	NPP	NPP	n=s|g=f	
+29	naît	naître	V	V	n=s|t=P|p=3	
+30	le	le	DET	DET	n=s|g=m	
+31	19	19	ADJ	ADJ		
+32	novembre	novembre	NC	NC	n=s|g=m	
+33	1917	1917	NC	NC		
+34	.	.	PONCT	PONCT		
+
+1	Un	un	DET	DET	n=s|g=m	
+2	fils	fils	NC	NC	g=m	
+3	,	,	PONCT	PONCT		
+4	né	naître	VPP	VPP	n=s|g=m|t=K	
+5	prématuré	prématuré	ADJ	ADJ	n=s|g=m	
+6	en	en	P	P		
+7	1924	1924	NC	NC		
+8	,	,	PONCT	PONCT		
+9	décède	décéder	V	V	n=s|t=P,S|p=1,3	
+10	après	après	P	P		
+11	seulement	_	ADV	ADV		
+12	deux	deux	DET	DET	s=card|n=p	
+13	jours	jour	NC	NC	n=p|g=m	
+14	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	couple	couple	NC	NC	n=s	
+3	n'	ne	ADV	ADV		
+4	a	avoir	V	V	n=s|t=P|p=3	
+5	pas	pas	ADV	ADV		
+6	d'	de	P	P		
+7	autre	autre	ADJ	ADJ	n=s	
+8	enfant	enfant	NC	NC	n=s	
+9	[	[	PONCT	PONCT		
+10	1	1	NC	NC		
+11	]	]	PONCT	PONCT		
+12	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	premières	premier	ADJ	ADJ	n=p|g=f	
+3	années	année	NC	NC	n=p|g=f	
+4	de	de	P	P		
+5	la	la	DET	DET	n=s|g=f	
+6	vie	vie	NC	NC	n=s|g=f	
+7	d'	de	P	P		
+8	Indira	Indira	NPP	NPP	n=s|g=f	
+9	correspondent	correspondre	V	V	n=p|t=P,S|p=3	
+10	à	à	P	P		
+11	une	une	DET	DET	n=s|g=f	
+12	période	période	NC	NC	n=s	
+13	active	actif	ADJ	ADJ	n=s|g=f	
+14	du	de	P+D	P+D	n=s|g=m	
+15	mouvement	mouvement	NC	NC	n=s|g=m	
+16	pour	pour	P	P		
+17	l'	le	DET	DET	n=s	
+18	indépendance	indépendance	NC	NC	n=s|g=f	
+19	de	de	P	P		
+20	l'	le	DET	DET	n=s	
+21	Inde	Inde	NPP	NPP	n=s|g=f	
+22	.	.	PONCT	PONCT		
+
+1	Membres	membre	NC	NC	n=p|g=m	
+2	prééminents	prééminent	ADJ	ADJ	n=p|g=m	
+3	du	de	P+D	P+D	n=s|g=m	
+4	Congrès	congrès	NC	NC	g=m	
+5	national	national	ADJ	ADJ	n=s|g=m	
+6	indien	indien	ADJ	ADJ	n=s|g=m	
+7	,	,	PONCT	PONCT		
+8	Motilal	_	NPP	NPP		
+9	et	et	CC	CC		
+10	Jawaharlal	_	NPP	NPP		
+11	Nehru	_	NPP	NPP		
+12	sont	être	V	V	n=p|t=P|p=3	
+13	tous	tout	ADJ	ADJ	n=p|g=m	
+14	deux	deux	DET	DET	s=card|n=p	
+15	emprisonnés	emprisonner	VPP	VPP	n=p|g=m|t=K	
+16	en	en	P	P		
+17	1921	1921	NC	NC		
+18	[	[	PONCT	PONCT		
+19	2	2	ADJ	ADJ		
+20	]	]	PONCT	PONCT		
+21	.	.	PONCT	PONCT		
+
+1	À	à	P	P		
+2	cette	cette	DET	DET	n=s|g=f	
+3	période	période	NC	NC	n=s	
+4	intense	intense	ADJ	ADJ	n=s	
+5	fait	faire	V	V	n=s|t=P|p=3	
+6	suite	suite	NC	NC	n=s|g=f	
+7	un	un	DET	DET	n=s|g=m	
+8	répit	répit	NC	NC	n=s|g=m	
+9	au	à	P+D	P+D	n=s|g=m	
+10	milieu	milieu	NC	NC	n=s|g=m	
+11	des	de	P+D	P+D	n=p	
+12	années	année	NC	NC	n=p|g=f	
+13	1920	1920	NC	NC		
+14	et	et	CC	CC		
+15	,	,	PONCT	PONCT		
+16	lorsque	lorsque	CS	CS		
+17	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+18	épouse	épouse	NC	NC	n=s|g=f	
+19	Kamala	Kamala	NPP	NPP	n=s|g=f	
+20	est	être	V	V	n=s|t=P|p=3	
+21	diagnostiquée	diagnostiquer	VPP	VPP	n=s|g=f|t=K	
+22	tuberculeuse	tuberculeux	NC	NC	n=s|g=f	
+23	en	en	P	P		
+24	1924	1924	NC	NC		
+25	,	,	PONCT	PONCT		
+26	Jawaharlal	_	NPP	NPP		
+27	Nehru	_	NPP	NPP		
+28	entreprend	entreprendre	V	V	n=s|t=P|p=3	
+29	de	de	P	P		
+30	la	la	CLO	CLO	n=s|g=f|p=3	
+31	faire	faire	VINF	VINF	t=W	
+32	soigner	soigner	VINF	VINF	t=W	
+33	en	en	P	P		
+34	Suisse	Suisse	NPP	NPP	n=s|g=f	
+35	où	où	PROREL	PROREL		
+36	la	la	DET	DET	n=s|g=f	
+37	famille	famille	NC	NC	n=s|g=f	
+38	s'	se	CLR	CLR	n=p,s|p=3	
+39	installe	installer	V	V	n=s|t=P,S|p=1,3	
+40	en	en	P	P		
+41	1926	1926	NC	NC		
+42	[	[	PONCT	PONCT		
+43	3	3	ADJ	ADJ		
+44	]	]	PONCT	PONCT		
+45	.	.	PONCT	PONCT		
+
+1	Indira	Indira	NPP	NPP	n=s|g=f	
+2	fréquente	fréquenter	V	V	n=s|t=P,S|p=1,3	
+3	tout	tout	PRO	PRO	n=s|g=m	
+4	d'	de	P	P		
+5	abord	abord	NC	NC	n=s|g=m	
+6	l'	le	DET	DET	n=s	
+7	école	école	NC	NC	n=s|g=f	
+8	internationale	international	ADJ	ADJ	n=s|g=f	
+9	de	de	P	P		
+10	Genève	_	NPP	NPP		
+11	puis	puis	CC	CC		
+12	un	un	DET	DET	n=s|g=m	
+13	pensionnat	pensionnat	NC	NC	n=s|g=m	
+14	à	à	P	P		
+15	Chesières	_	NPP	NPP		
+16	et	et	CC	CC		
+17	enfin	enfin	ADV	ADV		
+18	l'	le	DET	DET	n=s	
+19	école	école	NC	NC	n=s|g=f	
+20	internationale	international	ADJ	ADJ	n=s|g=f	
+21	de	de	P	P		
+22	Bex	_	NPP	NPP		
+23	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	apprend	apprendre	V	V	n=s|t=P|p=3	
+3	rapidement	_	ADV	ADV		
+4	le	le	DET	DET	n=s|g=m	
+5	français	français	NC	NC	g=m	
+6	et	et	CC	CC		
+7	a	avoir	V	V	n=s|t=P|p=3	
+8	l'	le	DET	DET	n=s	
+9	occasion	occasion	NC	NC	n=s|g=f	
+10	de	de	P	P		
+11	voyager	voyager	VINF	VINF	t=W	
+12	avec	avec	P	P		
+13	ses	ses	DET	DET	n=p|p=3|poss=s	
+14	parents	parent	NC	NC	n=p|g=m	
+15	à	à	P	P		
+16	Paris	Paris	NPP	NPP	n=s|g=m	
+17	,	,	PONCT	PONCT		
+18	Londres	Londres	NPP	NPP	n=s|g=m	
+19	et	et	CC	CC		
+20	Berlin	Berlin	NPP	NPP	n=s|g=f,m	
+21	[	[	PONCT	PONCT		
+22	4	4	NC	NC		
+23	]	]	PONCT	PONCT		
+24	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	Nehru	_	NPP	NPP		
+3	sont	être	V	V	n=p|t=P|p=3	
+4	de	de	P	P		
+5	retour	retour	NC	NC	n=s|g=m	
+6	en	en	P	P		
+7	Inde	Inde	NPP	NPP	n=s|g=f	
+8	en	en	P	P		
+9	décembre	décembre	NC	NC	n=s|g=m	
+10	1927	1927	ADJ	ADJ		
+11	,	,	PONCT	PONCT		
+12	à	à	P	P		
+13	l'	le	DET	DET	n=s	
+14	aube	aube	NC	NC	n=s|g=f	
+15	d'	de	P	P		
+16	une	une	DET	DET	n=s|g=f	
+17	nouvelle	nouveau	ADJ	ADJ	n=s|g=f	
+18	période	période	NC	NC	n=s	
+19	d'	de	P	P		
+20	agitation	agitation	NC	NC	n=s|g=f	
+21	indépendantiste	indépendantiste	ADJ	ADJ	n=s	
+22	.	.	PONCT	PONCT		
+
+1	Indira	Indira	NPP	NPP	n=s|g=f	
+2	est	être	V	V	n=s|t=P|p=3	
+3	présente	présent	ADJ	ADJ	n=s|g=f	
+4	en	en	P	P		
+5	décembre	décembre	NC	NC	n=s|g=m	
+6	1929	1929	NC	NC		
+7	à	à	P	P		
+8	Lahore	_	NPP	NPP		
+9	lorsque	lorsque	CS	CS		
+10	Jawaharlal	_	NPP	NPP		
+11	Nehru	_	NPP	NPP		
+12	prend	prendre	V	V	n=s|t=P|p=3	
+13	la	la	DET	DET	n=s|g=f	
+14	succession	succession	NC	NC	n=s|g=f	
+15	de	de	P	P		
+16	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+17	père	père	NC	NC	n=s|g=m	
+18	Motilal	_	NPP	NPP		
+19	à	à	P	P		
+20	la	la	DET	DET	n=s|g=f	
+21	tête	tête	NC	NC	n=s|g=f	
+22	du	de	P+D	P+D	n=s|g=m	
+23	Congrès	congrès	NC	NC	g=m	
+24	[	[	PONCT	PONCT		
+25	5	5	ADJ	ADJ		
+26	]	]	PONCT	PONCT		
+27	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	mars	mars	NC	NC	g=m	
+3	1930	1930	NC	NC		
+4	,	,	PONCT	PONCT		
+5	elle	elle	CLS	CLS	n=s|g=f|p=3	
+6	prend	prendre	V	V	n=s|t=P|p=3	
+7	elle	elle	PRO	PRO	n=s|g=f|p=3	
+8	-	-	PONCT	PONCT		
+9	même	même	ADV	ADV		
+10	la	la	DET	DET	n=s|g=f	
+11	direction	direction	NC	NC	n=s|g=f	
+12	du	de	P+D	P+D	n=s|g=m	
+13	Vanar	_	NPP	NPP		
+14	Sena	_	NPP	NPP		
+15	,	,	PONCT	PONCT		
+16	la	la	DET	DET	n=s|g=f	
+17	brigade	brigade	NC	NC	n=s|g=f	
+18	des	de	P+D	P+D	n=p	
+19	jeunes	jeune	NC	NC	n=p	
+20	du	de	P+D	P+D	n=s|g=m	
+21	Congrès	congrès	NC	NC	g=m	
+22	.	.	PONCT	PONCT		
+
+1	Âgée	âgé	ADJ	ADJ	n=s|g=f	
+2	de	de	P	P		
+3	seulement	_	ADV	ADV		
+4	douze	douze	DET	DET	s=card|n=p	
+5	ans	an	NC	NC	n=p|g=m	
+6	,	,	PONCT	PONCT		
+7	elle	elle	CLS	CLS	n=s|g=f|p=3	
+8	défile	défiler	V	V	n=s|t=P,S|p=1,3	
+9	et	et	CC	CC		
+10	tient	tenir	V	V	n=s|t=P|p=3	
+11	un	un	DET	DET	n=s|g=m	
+12	discours	discours	NC	NC	g=m	
+13	devant	devant	P	P		
+14	plusieurs	plusieurs	DET	DET	n=p	
+15	dizaines	dizaine	NC	NC	n=p|g=f	
+16	de	de	P	P		
+17	milliers	millier	NC	NC	n=p|g=m	
+18	de	de	P	P		
+19	personnes	personne	NC	NC	n=p|g=f	
+20	[	[	PONCT	PONCT		
+21	6	6	ADJ	ADJ		
+22	]	]	PONCT	PONCT		
+23	.	.	PONCT	PONCT		
+
+1	Après	après	P	P		
+2	l'	le	DET	DET	n=s	
+3	arrestation	arrestation	NC	NC	n=s|g=f	
+4	de	de	P	P		
+5	Jawaharlal	_	NPP	NPP		
+6	Nehru	_	NPP	NPP		
+7	au	à	P+D	P+D	n=s|g=m	
+8	printemps	printemps	NC	NC	g=m	
+9	1930	1930	NC	NC		
+10	et	et	CC	CC		
+11	de	de	P	P		
+12	Kamala	Kamala	NPP	NPP	n=s|g=f	
+13	fin	fin	NC	NC	n=s	
+14	décembre	décembre	NC	NC	n=s|g=m	
+15	,	,	PONCT	PONCT		
+16	Indira	Indira	NPP	NPP	n=s|g=f	
+17	se	se	CLR	CLR	n=p,s|p=3	
+18	retrouve	retrouver	V	V	n=s|t=P,S|p=1,3	
+19	privée	priver	VPP	VPP	n=s|g=f|t=K	
+20	de	de	P	P		
+21	ses	ses	DET	DET	n=p|p=3|poss=s	
+22	parents	parent	NC	NC	n=p|g=m	
+23	pendant	pendant	P	P		
+24	un	un	DET	DET	n=s|g=m	
+25	mois	mois	NC	NC	g=m	
+26	.	.	PONCT	PONCT		
+
+1	Pour	pour	P	P		
+2	éviter	éviter	VINF	VINF	t=W	
+3	qu'	que	CS	CS		
+4	une	une	DET	DET	n=s|g=f	
+5	telle	tel	ADJ	ADJ	n=s|g=f	
+6	situation	situation	NC	NC	n=s|g=f	
+7	ne	ne	ADV	ADV		
+8	se	se	CLR	CLR	n=p,s|p=3	
+9	reproduise	reproduire	VS	VS	n=s|t=S|p=1,3	
+10	,	,	PONCT	PONCT		
+11	elle	elle	CLS	CLS	n=s|g=f|p=3	
+12	est	être	V	V	n=s|t=P|p=3	
+13	envoyée	envoyer	VPP	VPP	n=s|g=f|t=K	
+14	en	en	P	P		
+15	pension	pension	NC	NC	n=s|g=f	
+16	à	à	P	P		
+17	Poona	_	NPP	NPP		
+18	à	à	P	P		
+19	partir	partir	VINF	VINF	t=W	
+20	de	de	P	P		
+21	mai	mai	NC	NC	n=s|g=m	
+22	1931	1931	NC	NC		
+23	[	[	PONCT	PONCT		
+24	7	7	ADJ	ADJ		
+25	]	]	PONCT	PONCT		
+26	.	.	PONCT	PONCT		
+
+1	C'	ce	CLS	CLS		
+2	est	être	V	V	n=s|t=P|p=3	
+3	aussi	aussi	ADV	ADV		
+4	à	à	P	P		
+5	Poona	_	NPP	NPP		
+6	,	,	PONCT	PONCT		
+7	derrière	derrière	P	P		
+8	les	les	DET	DET	n=p	
+9	murs	mur	NC	NC	n=p|g=m	
+10	de	de	P	P		
+11	la	la	DET	DET	n=s|g=f	
+12	prison	prison	NC	NC	n=s|g=f	
+13	de	de	P	P		
+14	Yaruvda	_	NPP	NPP		
+15	,	,	PONCT	PONCT		
+16	que	que	CS	CS		
+17	le	le	DET	DET	n=s|g=m	
+18	Mahatma	Mahatma	NPP	NPP	n=s|g=m	
+19	Gandhi	_	NPP	NPP		
+20	se	se	CLR	CLR	n=p,s|p=3	
+21	lance	lancer	V	V	n=s|t=P,S|p=1,3	
+22	le	le	DET	DET	n=s|g=m	
+23	20	20	ADJ	ADJ		
+24	septembre	septembre	NC	NC	n=s|g=m	
+25	1932	1932	NC	NC		
+26	dans	dans	P	P		
+27	l'	le	DET	DET	n=s	
+28	une	un	PRO	PRO	n=s|g=f	
+29	de	de	P	P		
+30	ses	ses	DET	DET	n=p|p=3|poss=s	
+31	plus	plus	ADV	ADV		
+32	célèbres	célèbre	ADJ	ADJ	n=p	
+33	grèves	grève	NC	NC	n=p|g=f	
+34	de	de	P	P		
+35	la	la	DET	DET	n=s|g=f	
+36	faim	faim	NC	NC	n=s|g=f	
+37	.	.	PONCT	PONCT		
+
+1	Lorsqu'	lorsque	CS	CS		
+2	il	il	CLS	CLS	n=s|g=m|p=3	
+3	rompt	rompre	V	V	n=s|t=P|p=3	
+4	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+5	jeûne	jeûne	NC	NC	n=s|g=m	
+6	six	six	DET	DET	s=card|n=p	
+7	jours	jour	NC	NC	n=p|g=m	
+8	plus	plus	ADV	ADV		
+9	tard	tard	ADV	ADV		
+10	,	,	PONCT	PONCT		
+11	c'	ce	CLS	CLS		
+12	est	être	V	V	n=s|t=P|p=3	
+13	Indira	Indira	NPP	NPP	n=s|g=f	
+14	qui	qui	PROREL	PROREL	n=s	
+15	lui	lui	CLO	CLO	n=s|p=3	
+16	prépare	préparer	V	V	n=s|t=P,S|p=1,3	
+17	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+18	première	premier	ADJ	ADJ	n=s|g=f	
+19	collation	collation	NC	NC	n=s|g=f	
+20	,	,	PONCT	PONCT		
+21	un	un	DET	DET	n=s|g=m	
+22	jus	jus	NC	NC	g=m	
+23	d'	de	P	P		
+24	orange	orange	NC	NC	n=s	
+25	[	[	PONCT	PONCT		
+26	8	8	NC	NC		
+27	]	]	PONCT	PONCT		
+28	.	.	PONCT	PONCT		
+
+1	Indira	Indira	NPP	NPP	n=s|g=f	
+2	est	être	V	V	n=s|t=P|p=3	
+3	toujours	toujours	ADV	ADV		
+4	à	à	P	P		
+5	Poona	_	NPP	NPP		
+6	en	en	P	P		
+7	octobre	octobre	NC	NC	n=s|g=m	
+8	1933	1933	NC	NC		
+9	lorsque	lorsque	CS	CS		
+10	Feroze	Feroze	NPP	NPP	n=s|g=m	
+11	Gandhi	_	NPP	NPP		
+12	(	(	PONCT	PONCT		
+13	né	naître	VPP	VPP	n=s|g=m|t=K	
+14	en	en	P	P		
+15	1912	1912	NC	NC		
+16	)	)	PONCT	PONCT		
+17	,	,	PONCT	PONCT		
+18	jeune	jeune	ADJ	ADJ	n=s	
+19	militant	militant	NC	NC	n=s|g=m	
+20	du	de	P+D	P+D	n=s|g=m	
+21	Congrès	congrès	NC	NC	g=m	
+22	entré	entrer	VPP	VPP	n=s|g=m|t=K	
+23	au	à	P+D	P+D	n=s|g=m	
+24	service	service	NC	NC	n=s|g=m	
+25	de	de	P	P		
+26	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+27	mère	mère	NC	NC	n=s|g=f	
+28	Kamala	Kamala	NPP	NPP	n=s|g=f	
+29	trois	trois	DET	DET	s=card|n=p	
+30	ans	an	NC	NC	n=p|g=m	
+31	plus	plus	ADV	ADV		
+32	tôt	tôt	ADV	ADV		
+33	,	,	PONCT	PONCT		
+34	lui	lui	CLO	CLO	n=s|p=3	
+35	propose	proposer	V	V	n=s|t=P,S|p=1,3	
+36	pour	pour	P	P		
+37	la	la	DET	DET	n=s|g=f	
+38	première	premier	ADJ	ADJ	n=s|g=f	
+39	fois	fois	NC	NC	g=f	
+40	de	de	P	P		
+41	l'	le	CLO	CLO	n=s|p=3	
+42	épouser	épouser	VINF	VINF	t=W	
+43	[	[	PONCT	PONCT		
+44	9	9	ADJ	ADJ		
+45	]	]	PONCT	PONCT		
+46	.	.	PONCT	PONCT		
+
+1	À	à	P	P		
+2	la	la	DET	DET	n=s|g=f	
+3	rentrée	rentrée	NC	NC	n=s|g=f	
+4	1934	1934	NC	NC		
+5	,	,	PONCT	PONCT		
+6	elle	elle	CLS	CLS	n=s|g=f|p=3	
+7	entre	entre	P	P		
+8	en	en	P	P		
+9	pension	pension	NC	NC	n=s|g=f	
+10	à	à	P	P		
+11	l'	le	DET	DET	n=s	
+12	école	école	NC	NC	n=s|g=f	
+13	de	de	P	P		
+14	Santiniketan	_	NPP	NPP		
+15	fondée	fonder	VPP	VPP	n=s|g=f|t=K	
+16	par	par	P	P		
+17	le	le	DET	DET	n=s|g=m	
+18	poète	poète	NC	NC	n=s	
+19	Rabindranath	_	NPP	NPP		
+20	Tagore	_	NPP	NPP		
+21	[	[	PONCT	PONCT		
+22	10	10	NC	NC		
+23	]	]	PONCT	PONCT		
+24	.	.	PONCT	PONCT		
+
+1	Mais	mais	CC	CC		
+2	la	la	DET	DET	n=s|g=f	
+3	santé	santé	NC	NC	n=s|g=f	
+4	de	de	P	P		
+5	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+6	mère	mère	NC	NC	n=s|g=f	
+7	se	se	CLR	CLR	n=p,s|p=3	
+8	dégrade	dégrader	V	V	n=s|t=P,S|p=1,3	
+9	:	:	PONCT	PONCT		
+10	Kamala	kamala	NC	NC	n=s|g=m	
+11	est	être	V	V	n=s|t=P|p=3	
+12	traitée	traiter	VPP	VPP	n=s|g=f|t=K	
+13	dans	dans	P	P		
+14	un	un	DET	DET	n=s|g=m	
+15	sanatorium	sanatorium	NC	NC	n=s|g=m	
+16	à	à	P	P		
+17	Bhowali	_	NPP	NPP		
+18	.	.	PONCT	PONCT		
+
+1	Indira	Indira	NPP	NPP	n=s|g=f	
+2	passe	passer	V	V	n=s|t=P,S|p=1,3	
+3	deux	deux	DET	DET	s=card|n=p	
+4	mois	mois	NC	NC	g=m	
+5	à	à	P	P		
+6	ses	ses	DET	DET	n=p|p=3|poss=s	
+7	côtés	côté	NC	NC	n=p|g=m	
+8	-	-	PONCT	PONCT		
+9	Feroze	Feroze	NPP	NPP	n=s|g=m	
+10	Gandhi	_	NPP	NPP		
+11	est	être	V	V	n=s|t=P|p=3	
+12	aussi	aussi	ADV	ADV		
+13	présent	présent	ADJ	ADJ	n=s|g=m	
+14	.	.	PONCT	PONCT		
+
+1	Devant	devant	P	P		
+2	l'	le	DET	DET	n=s	
+3	absence	absence	NC	NC	n=s|g=f	
+4	d'	de	P	P		
+5	amélioration	amélioration	NC	NC	n=s|g=f	
+6	de	de	P	P		
+7	la	la	DET	DET	n=s|g=f	
+8	santé	santé	NC	NC	n=s|g=f	
+9	de	de	P	P		
+10	Kamala	Kamala	NPP	NPP	n=s|g=f	
+11	,	,	PONCT	PONCT		
+12	les	les	DET	DET	n=p	
+13	médecins	médecin	NC	NC	n=p|g=m	
+14	lui	lui	CLO	CLO	n=s|p=3	
+15	conseillent	conseiller	V	V	n=p|t=P,S|p=3	
+16	de	de	P	P		
+17	se	se	CLR	CLR	n=p,s|p=3	
+18	rendre	rendre	VINF	VINF	t=W	
+19	en	en	P	P		
+20	Europe	Europe	NPP	NPP	n=s|g=f	
+21	.	.	PONCT	PONCT		
+
+1	Nehru	_	NPP	NPP		
+2	étant	être	VPR	VPR	t=G	
+3	alors	alors	ADV	ADV		
+4	en	en	P	P		
+5	prison	prison	NC	NC	n=s|g=f	
+6	,	,	PONCT	PONCT		
+7	il	il	CLS	CLS	n=s|g=m|p=3	
+8	est	être	V	V	n=s|t=P|p=3	
+9	décidé	décider	VPP	VPP	n=s|g=m|t=K	
+10	qu'	que	CS	CS		
+11	Indira	Indira	NPP	NPP	n=s|g=f	
+12	l'	le	CLO	CLO	n=s|p=3	
+13	accompagne	accompagner	V	V	n=s|t=P,S|p=1,3	
+14	[	[	PONCT	PONCT		
+15	11	11	NC	NC		
+16	]	]	PONCT	PONCT		
+17	.	.	PONCT	PONCT		
+
+1	Indira	Indira	NPP	NPP	n=s|g=f	
+2	et	et	CC	CC		
+3	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+4	mère	mère	NC	NC	n=s|g=f	
+5	arrivent	arriver	V	V	n=p|t=P,S|p=3	
+6	en	en	P	P		
+7	Europe	Europe	NPP	NPP	n=s|g=f	
+8	le	le	DET	DET	n=s|g=m	
+9	3	3	ADJ	ADJ		
+10	juin	juin	NC	NC	n=s|g=m	
+11	1935	1935	NC	NC		
+12	.	.	PONCT	PONCT		
+
+1	Kamala	kamala	NC	NC	n=s|g=m	
+2	est	être	V	V	n=s|t=P|p=3	
+3	opérée	opérer	VPP	VPP	n=s|g=f|t=K	
+4	à	à	P	P		
+5	Berlin	Berlin	NPP	NPP	n=s|g=f,m	
+6	puis	puis	CC	CC		
+7	s'	se	CLR	CLR	n=p,s|p=3	
+8	installe	installer	V	V	n=s|t=P,S|p=1,3	
+9	dans	dans	P	P		
+10	un	un	DET	DET	n=s|g=m	
+11	sanatorium	sanatorium	NC	NC	n=s|g=m	
+12	à	à	P	P		
+13	Badenweiler	_	NPP	NPP		
+14	[	[	PONCT	PONCT		
+15	12	12	ADJ	ADJ		
+16	]	]	PONCT	PONCT		
+17	mais	mais	CC	CC		
+18	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+19	santé	santé	NC	NC	n=s|g=f	
+20	continue	continuer	V	V	n=s|t=P,S|p=1,3	
+21	à	à	P	P		
+22	se	se	CLR	CLR	n=p,s|p=3	
+23	dégrader	dégrader	VINF	VINF	t=W	
+24	.	.	PONCT	PONCT		
+
+1	Libéré	libérer	VPP	VPP	n=s|g=m|t=K	
+2	le	le	DET	DET	n=s|g=m	
+3	4	4	ADJ	ADJ		
+4	septembre	septembre	NC	NC	n=s|g=m	
+5	,	,	PONCT	PONCT		
+6	Nehru	_	NPP	NPP		
+7	se	se	CLR	CLR	n=p,s|p=3	
+8	rend	rendre	V	V	n=s|t=P|p=3	
+9	immédiatement	_	ADV	ADV		
+10	à	à	P	P		
+11	ses	ses	DET	DET	n=p|p=3|poss=s	
+12	côtés	côté	NC	NC	n=p|g=m	
+13	[	[	PONCT	PONCT		
+14	13	13	ADJ	ADJ		
+15	]	]	PONCT	PONCT		
+16	.	.	PONCT	PONCT		
+
+1	Indira	Indira	NPP	NPP	n=s|g=f	
+2	reprend	reprendre	V	V	n=s|t=P|p=3	
+3	ses	ses	DET	DET	n=p|p=3|poss=s	
+4	études	étude	NC	NC	n=p|g=f	
+5	à	à	P	P		
+6	Bex	_	NPP	NPP		
+7	pour	pour	P	P		
+8	préparer	préparer	VINF	VINF	t=W	
+9	l'	le	DET	DET	n=s	
+10	examen	examen	NC	NC	n=s|g=m	
+11	d'	de	P	P		
+12	entrée	entrée	NC	NC	n=s|g=f	
+13	au	à	P+D	P+D	n=s|g=m	
+14	Somerville	_	NPP	NPP		
+15	College	_	NPP	NPP		
+16	d'	de	P	P		
+17	Oxford	_	NPP	NPP		
+18	[	[	PONCT	PONCT		
+19	14	14	ADJ	ADJ		
+20	]	]	PONCT	PONCT		
+21	.	.	PONCT	PONCT		
+
+1	Lorsque	lorsque	CS	CS		
+2	Kamala	Kamala	NPP	NPP	n=s|g=f	
+3	meurt	mourir	V	V	n=s|t=P|p=3	
+4	le	le	DET	DET	n=s|g=m	
+5	28	28	ADJ	ADJ		
+6	février	février	NC	NC	n=s|g=m	
+7	1936	1936	NC	NC		
+8	,	,	PONCT	PONCT		
+9	Nehru	_	NPP	NPP		
+10	,	,	PONCT	PONCT		
+11	Indira	Indira	NPP	NPP	n=s|g=f	
+12	et	et	CC	CC		
+13	Feroze	Feroze	NPP	NPP	n=s|g=m	
+14	,	,	PONCT	PONCT		
+15	arrivés	arriver	VPP	VPP	n=p|g=m|t=K	
+16	peu	peu	ADV	ADV		
+17	avant	avant	P	P		
+18	la	la	DET	DET	n=s|g=f	
+19	nouvelle	nouveau	ADJ	ADJ	n=s|g=f	
+20	année	année	NC	NC	n=s|g=f	
+21	,	,	PONCT	PONCT		
+22	sont	être	V	V	n=p|t=P|p=3	
+23	tous	tout	PRO	PRO	n=p|g=m	
+24	trois	trois	DET	DET	s=card|n=p	
+25	à	à	P	P		
+26	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+27	chevet	chevet	NC	NC	n=s|g=m	
+28	.	.	PONCT	PONCT		
+
+1	C'	ce	CLS	CLS		
+2	est	être	V	V	n=s|t=P|p=3	
+3	le	le	DET	DET	n=s|g=m	
+4	cœur	_	NC	NC		
+5	gros	gros	ADJ	ADJ	g=m	
+6	qu'	que	PROREL	PROREL		
+7	Indira	Indira	NPP	NPP	n=s|g=f	
+8	s'	se	CLR	CLR	n=p,s|p=3	
+9	inscrit	inscrire	V	V	n=s|t=P|p=3	
+10	à	à	P	P		
+11	la	la	DET	DET	n=s|g=f	
+12	Badminton	_	NPP	NPP		
+13	School	_	NPP	NPP		
+14	(	(	PONCT	PONCT		
+15	en	en	P	P		
+16	)	)	PONCT	PONCT		
+17	[	[	PONCT	PONCT		
+18	15	15	ADJ	ADJ		
+19	]	]	PONCT	PONCT		
+20	de	de	P	P		
+21	Bristol	Bristol	NPP	NPP	n=s|g=m	
+22	pour	pour	P	P		
+23	préparer	préparer	VINF	VINF	t=W	
+24	le	le	DET	DET	n=s|g=m	
+25	concours	concours	NC	NC	g=m	
+26	d'	de	P	P		
+27	entrée	entrée	NC	NC	n=s|g=f	
+28	à	à	P	P		
+29	Oxford	_	NPP	NPP		
+30	,	,	PONCT	PONCT		
+31	qu'	que	PROREL	PROREL		
+32	elle	elle	CLS	CLS	n=s|g=f|p=3	
+33	finit	finir	V	V	n=s|t=J,P|p=3	
+34	par	par	P	P		
+35	réussir	réussir	VINF	VINF	t=W	
+36	à	à	P	P		
+37	la	la	DET	DET	n=s|g=f	
+38	troisième	troisième	ADJ	ADJ	n=s	
+39	tentative	tentative	NC	NC	n=s|g=f	
+40	,	,	PONCT	PONCT		
+41	en	en	P	P		
+42	mars	mars	NC	NC	g=m	
+43	1937	1937	NC	NC		
+44	[	[	PONCT	PONCT		
+45	16	16	NC	NC		
+46	]	]	PONCT	PONCT		
+47	.	.	PONCT	PONCT		
+
+1	Avant	avant	P	P		
+2	la	la	DET	DET	n=s|g=f	
+3	rentrée	rentrée	NC	NC	n=s|g=f	
+4	d'	de	P	P		
+5	octobre	octobre	NC	NC	n=s|g=m	
+6	,	,	PONCT	PONCT		
+7	elle	elle	CLS	CLS	n=s|g=f|p=3	
+8	effectue	effectuer	V	V	n=s|t=P,S|p=1,3	
+9	avec	avec	P	P		
+10	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+11	père	père	NC	NC	n=s|g=m	
+12	un	un	DET	DET	n=s|g=m	
+13	voyage	voyage	NC	NC	n=s|g=m	
+14	en	en	P	P		
+15	Birmanie	Birmanie	NPP	NPP	n=s|g=f	
+16	durant	durant	P	P		
+17	lequel	lequel	PROREL	PROREL	n=s|g=m	
+18	elle	elle	CLS	CLS	n=s|g=f|p=3	
+19	tombe	tomber	V	V	n=s|t=P,S|p=1,3	
+20	brièvement	_	ADV	ADV		
+21	malade	malade	ADJ	ADJ	n=s	
+22	[	[	PONCT	PONCT		
+23	17	17	NC	NC		
+24	]	]	PONCT	PONCT		
+25	puis	puis	CC	CC		
+26	retrouve	retrouver	V	V	n=s|t=P,S|p=1,3	
+27	Feroze	Feroze	NPP	NPP	n=s|g=m	
+28	à	à	P	P		
+29	Paris	Paris	NPP	NPP	n=s|g=m	
+30	où	où	PROREL	PROREL		
+31	elle	elle	CLS	CLS	n=s|g=f|p=3	
+32	cède	céder	V	V	n=s|t=P,S|p=1,3	
+33	enfin	enfin	ADV	ADV		
+34	à	à	P	P		
+35	ses	ses	DET	DET	n=p|p=3|poss=s	
+36	avances	avance	NC	NC	n=p|g=f	
+37	[	[	PONCT	PONCT		
+38	18	18	ADJ	ADJ		
+39	]	]	PONCT	PONCT		
+40	.	.	PONCT	PONCT		
+
+1	Pour	pour	P	P		
+2	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+3	première	premier	ADJ	ADJ	n=s|g=f	
+4	année	année	NC	NC	n=s|g=f	
+5	à	à	P	P		
+6	Oxford	_	NPP	NPP		
+7	,	,	PONCT	PONCT		
+8	Indira	Indira	NPP	NPP	n=s|g=f	
+9	est	être	V	V	n=s|t=P|p=3	
+10	une	une	DET	DET	n=s|g=f	
+11	élève	élève	NC	NC	n=s	
+12	discrète	discret	ADJ	ADJ	n=s|g=f	
+13	mais	mais	CC	CC		
+14	appliquée	appliquer	VPP	VPP	n=s|g=f|t=K	
+15	qui	qui	PROREL	PROREL	n=s	
+16	ne	ne	ADV	ADV		
+17	participe	participer	V	V	n=s|t=P,S|p=1,3	
+18	guère	guère	ADV	ADV		
+19	à	à	P	P		
+20	la	la	DET	DET	n=s|g=f	
+21	vie	vie	NC	NC	n=s|g=f	
+22	sociale	social	ADJ	ADJ	n=s|g=f	
+23	du	de	P+D	P+D	n=s|g=m	
+24	collège	collège	NC	NC	n=s|g=m	
+25	:	:	PONCT	PONCT		
+26	elle	elle	CLS	CLS	n=s|g=f|p=3	
+27	préfère	préférer	V	V	n=s|t=P,S|p=1,3	
+28	rejoindre	rejoindre	VINF	VINF	t=W	
+29	dès	dès	P	P		
+30	qu'	que	PROREL	PROREL		
+31	elle	elle	CLS	CLS	n=s|g=f|p=3	
+32	en	en	CLO	CLO		
+33	a	avoir	V	V	n=s|t=P|p=3	
+34	l'	le	DET	DET	n=s	
+35	occasion	occasion	NC	NC	n=s|g=f	
+36	Feroze	Feroze	NPP	NPP	n=s|g=m	
+37	à	à	P	P		
+38	Londres	Londres	NPP	NPP	n=s|g=m	
+39	[	[	PONCT	PONCT		
+40	19	19	NC	NC		
+41	]	]	PONCT	PONCT		
+42	.	.	PONCT	PONCT		
+
+1	À	à	P	P		
+2	l'	le	DET	DET	n=s	
+3	été	été	NC	NC	n=s|g=m	
+4	1938	1938	ADJ	ADJ		
+5	,	,	PONCT	PONCT		
+6	elle	elle	CLS	CLS	n=s|g=f|p=3	
+7	accompagne	accompagner	V	V	n=s|t=P,S|p=1,3	
+8	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+9	père	père	NC	NC	n=s|g=m	
+10	lors	lors	ADV	ADV		
+11	d'	de	P	P		
+12	un	un	DET	DET	n=s|g=m	
+13	voyage	voyage	NC	NC	n=s|g=m	
+14	en	en	P	P		
+15	Europe	Europe	NPP	NPP	n=s|g=f	
+16	mais	mais	CC	CC		
+17	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+18	santé	santé	NC	NC	n=s|g=f	
+19	se	se	CLR	CLR	n=p,s|p=3	
+20	détériore	détériorer	V	V	n=s|t=P,S|p=1,3	
+21	brusquement	_	ADV	ADV		
+22	et	et	CC	CC		
+23	elle	elle	CLS	CLS	n=s|g=f|p=3	
+24	est	être	V	V	n=s|t=P|p=3	
+25	hospitalisée	hospitaliser	VPP	VPP	n=s|g=f|t=K	
+26	pour	pour	P	P		
+27	une	une	DET	DET	n=s|g=f	
+28	pleurésie	pleurésie	NC	NC	n=s|g=f	
+29	[	[	PONCT	PONCT		
+30	20	20	NC	NC		
+31	]	]	PONCT	PONCT		
+32	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	entreprend	entreprendre	V	V	n=s|t=P|p=3	
+3	une	une	DET	DET	n=s|g=f	
+4	cure	cure	NC	NC	n=s|g=f	
+5	de	de	P	P		
+6	repos	repos	NC	NC	g=m	
+7	de	de	P	P		
+8	plusieurs	plusieurs	DET	DET	n=p	
+9	mois	mois	NC	NC	g=m	
+10	dans	dans	P	P		
+11	l'	le	DET	DET	n=s	
+12	Himalaya	_	NPP	NPP		
+13	puis	puis	CC	CC		
+14	dans	dans	P	P		
+15	les	les	DET	DET	n=p	
+16	montagnes	montagne	NC	NC	n=p|g=f	
+17	suisses	suisse	ADJ	ADJ	n=p	
+18	,	,	PONCT	PONCT		
+19	en	en	P	P		
+20	attendant	attendre	VPR	VPR	t=G	
+21	un	un	DET	DET	n=s|g=m	
+22	retour	retour	NC	NC	n=s|g=m	
+23	à	à	P	P		
+24	Oxford	_	NPP	NPP		
+25	pour	pour	P	P		
+26	l'	le	DET	DET	n=s	
+27	année	année	NC	NC	n=s|g=f	
+28	scolaire	scolaire	ADJ	ADJ	n=s	
+29	1939	1939	NC	NC		
+30	/	/	PONCT	PONCT		
+31	1940	1940	NC	NC		
+32	[	[	PONCT	PONCT		
+33	21	21	ADJ	ADJ		
+34	]	]	PONCT	PONCT		
+35	.	.	PONCT	PONCT		
+
+1	Mais	mais	CC	CC		
+2	elle	elle	CLS	CLS	n=s|g=f|p=3	
+3	est	être	V	V	n=s|t=P|p=3	
+4	une	une	DET	DET	n=s|g=f	
+5	nouvelle	nouveau	ADJ	ADJ	n=s|g=f	
+6	fois	fois	NC	NC	g=f	
+7	hospitalisée	hospitaliser	ADJ	ADJ	n=s|g=f|t=K	
+8	début	début	NC	NC	n=s|g=m	
+9	octobre	octobre	NC	NC	n=s|g=m	
+10	1939	1939	NC	NC		
+11	et	et	CC	CC		
+12	,	,	PONCT	PONCT		
+13	sans	sans	P	P		
+14	poser	poser	VINF	VINF	t=W	
+15	de	de	P	P		
+16	diagnostic	diagnostic	NC	NC	n=s|g=m	
+17	définitif	définitif	ADJ	ADJ	n=s|g=m	
+18	,	,	PONCT	PONCT		
+19	les	les	DET	DET	n=p	
+20	médecins	médecin	NC	NC	n=p|g=m	
+21	lui	lui	CLO	CLO	n=s|p=3	
+22	recommandent	recommander	V	V	n=p|t=P,S|p=3	
+23	un	un	DET	DET	n=s|g=m	
+24	séjour	séjour	NC	NC	n=s|g=m	
+25	dans	dans	P	P		
+26	un	un	DET	DET	n=s|g=m	
+27	sanatorium	sanatorium	NC	NC	n=s|g=m	
+28	pour	pour	P	P		
+29	malades	malade	NC	NC	n=p|g=m	
+30	de	de	P	P		
+31	la	la	DET	DET	n=s|g=f	
+32	tuberculose	tuberculose	NC	NC	n=s|g=f	
+33	[	[	PONCT	PONCT		
+34	22	22	NC	NC		
+35	]	]	PONCT	PONCT		
+36	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	passe	passer	V	V	n=s|t=P,S|p=1,3	
+3	ainsi	ainsi	ADV	ADV		
+4	dix	dix	DET	DET	s=card|n=p	
+5	mois	mois	NC	NC	g=m	
+6	à	à	P	P		
+7	Leysin	_	NPP	NPP		
+8	dans	dans	P	P		
+9	les	les	DET	DET	n=p	
+10	Alpes	Alpes	NPP	NPP	n=p|g=f	
+11	suisses	suisse	ADJ	ADJ	n=p	
+12	,	,	PONCT	PONCT		
+13	qu'	que	PROREL	PROREL		
+14	elle	elle	CLS	CLS	n=s|g=f|p=3	
+15	quitte	quitter	V	V	n=s|t=P,S|p=1,3	
+16	finalement	_	ADV	ADV		
+17	,	,	PONCT	PONCT		
+18	contre	contre	P	P		
+19	avis	avis	NC	NC	g=m	
+20	médical	médical	ADJ	ADJ	n=s|g=m	
+21	,	,	PONCT	PONCT		
+22	fin	fin	NC	NC	n=s	
+23	octobre	octobre	NC	NC	n=s|g=m	
+24	1940	1940	NC	NC		
+25	pour	pour	P	P		
+26	rejoindre	rejoindre	VINF	VINF	t=W	
+27	Feroze	Feroze	NPP	NPP	n=s|g=m	
+28	à	à	P	P		
+29	Londres	Londres	NPP	NPP	n=s|g=m	
+30	en	en	P	P		
+31	pleine	plein	ADJ	ADJ	n=s|g=f	
+32	Seconde	_	NPP	NPP		
+33	Guerre	_	NPP	NPP		
+34	mondiale	mondial	ADJ	ADJ	n=s|g=f	
+35	(	(	PONCT	PONCT		
+36	elle	elle	CLS	CLS	n=s|g=f|p=3	
+37	prend	prendre	V	V	n=s|t=P|p=3	
+38	d'	de	P	P		
+39	abord	abord	NC	NC	n=s|g=m	
+40	la	la	DET	DET	n=s|g=f	
+41	direction	direction	NC	NC	n=s|g=f	
+42	de	de	P	P		
+43	Lisbonne	Lisbonne	NPP	NPP	n=s|g=m	
+44	,	,	PONCT	PONCT		
+45	où	où	PROREL	PROREL		
+46	elle	elle	CLS	CLS	n=s|g=f|p=3	
+47	reste	rester	V	V	n=s|t=P,S|p=1,3	
+48	coincée	coincer	VPP	VPP	n=s|g=f|t=K	
+49	pendant	pendant	P	P		
+50	deux	deux	DET	DET	s=card|n=p	
+51	longs	long	ADJ	ADJ	n=p|g=m	
+52	mois	mois	NC	NC	g=m	
+53	[	[	PONCT	PONCT		
+54	23	23	NC	NC		
+55	]	]	PONCT	PONCT		
+56	)	)	PONCT	PONCT		
+57	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	deux	deux	ADJ	ADJ	s=card|n=p	
+3	amants	amant	NC	NC	n=p|g=m	
+4	vivent	vivre	V	V	n=p|t=P,S|p=3	
+5	ensuite	ensuite	ADV	ADV		
+6	ensemble	ensemble	ADV	ADV		
+7	dans	dans	P	P		
+8	la	la	DET	DET	n=s|g=f	
+9	capitale	capitale	NC	NC	n=s|g=f	
+10	britannique	britannique	ADJ	ADJ	n=s	
+11	pendant	pendant	P	P		
+12	trois	trois	DET	DET	s=card|n=p	
+13	mois	mois	NC	NC	g=m	
+14	avant	avant	P	P		
+15	d'	de	P	P		
+16	embarquer	embarquer	VINF	VINF	t=W	
+17	pour	pour	P	P		
+18	Durban	Durban	NPP	NPP	n=s|g=m	
+19	puis	puis	CC	CC		
+20	Bombay	_	NPP	NPP		
+21	,	,	PONCT	PONCT		
+22	qu'	que	PROREL	PROREL		
+23	ils	ils	CLS	CLS	n=p|g=m|p=3	
+24	rejoignent	rejoindre	V	V	n=p|t=P,S|p=3	
+25	le	le	DET	DET	n=s|g=m	
+26	16	16	ADJ	ADJ		
+27	avril	avril	NC	NC	n=s|g=m	
+28	1941	1941	NC	NC		
+29	[	[	PONCT	PONCT		
+30	24	24	NC	NC		
+31	]	]	PONCT	PONCT		
+32	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	27	27	ADJ	ADJ		
+3	avril	avril	NC	NC	n=s|g=m	
+4	1941	1941	NC	NC		
+5	,	,	PONCT	PONCT		
+6	Indira	Indira	NPP	NPP	n=s|g=f	
+7	se	se	CLR	CLR	n=p,s|p=3	
+8	rend	rendre	V	V	n=s|t=P|p=3	
+9	à	à	P	P		
+10	la	la	DET	DET	n=s|g=f	
+11	prison	prison	NC	NC	n=s|g=f	
+12	de	de	P	P		
+13	Dehra	_	NPP	NPP		
+14	Dun	Dun	NPP	NPP	n=s|g=m	
+15	,	,	PONCT	PONCT		
+16	où	où	PROREL	PROREL		
+17	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+18	père	père	NC	NC	n=s|g=m	
+19	est	être	V	V	n=s|t=P|p=3	
+20	incarcéré	incarcérer	VPP	VPP	n=s|g=m|t=K	
+21	,	,	PONCT	PONCT		
+22	pour	pour	P	P		
+23	lui	lui	CLO	CLO	n=s|p=3	
+24	annoncer	annoncer	VINF	VINF	t=W	
+25	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+26	décision	décision	NC	NC	n=s|g=f	
+27	d'	de	P	P		
+28	épouser	épouser	VINF	VINF	t=W	
+29	Feroze	Feroze	NPP	NPP	n=s|g=m	
+30	Gandhi	_	NPP	NPP		
+31	[	[	PONCT	PONCT		
+32	25	25	ADJ	ADJ		
+33	]	]	PONCT	PONCT		
+34	.	.	PONCT	PONCT		
+
+1	Nehru	_	NPP	NPP		
+2	se	se	CLR	CLR	n=p,s|p=3	
+3	montre	montrer	V	V	n=s|t=P,S|p=1,3	
+4	réticent	réticent	ADJ	ADJ	n=s|g=m	
+5	,	,	PONCT	PONCT		
+6	mais	mais	CC	CC		
+7	ne	ne	ADV	ADV		
+8	s'	se	CLR	CLR	n=p,s|p=3	
+9	oppose	opposer	V	V	n=s|t=P,S|p=1,3	
+10	finalement	_	ADV	ADV		
+11	pas	pas	ADV	ADV		
+12	au	à	P+D	P+D	n=s|g=m	
+13	mariage	mariage	NC	NC	n=s|g=m	
+14	,	,	PONCT	PONCT		
+15	alors	alors	ADV	ADV		
+16	même	même	ADV	ADV		
+17	que	que	CS	CS		
+18	cette	cette	DET	DET	n=s|g=f	
+19	union	union	NC	NC	n=s|g=f	
+20	entre	entre	P	P		
+21	une	une	DET	DET	n=s|g=f	
+22	hindoue	hindou	ADJ	ADJ	n=s|g=f	
+23	et	et	CC	CC		
+24	un	un	DET	DET	n=s|g=m	
+25	parsi	parsi	NC	NC	n=s|g=m	
+26	suscite	susciter	V	V	n=s|t=P,S|p=1,3	
+27	l'	le	DET	DET	n=s	
+28	indignation	indignation	NC	NC	n=s|g=f	
+29	d'	de	P	P		
+30	une	une	DET	DET	n=s|g=f	
+31	partie	partie	NC	NC	n=s|g=f	
+32	de	de	P	P		
+33	la	la	DET	DET	n=s|g=f	
+34	société	société	NC	NC	n=s|g=f	
+35	indienne	indien	ADJ	ADJ	n=s|g=f	
+36	[	[	PONCT	PONCT		
+37	26	26	ADJ	ADJ		
+38	]	]	PONCT	PONCT		
+39	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	mariage	mariage	NC	NC	n=s|g=m	
+3	est	être	V	V	n=s|t=P|p=3	
+4	célébré	célébrer	VPP	VPP	n=s|g=m|t=K	
+5	le	le	DET	DET	n=s|g=m	
+6	26	26	ADJ	ADJ		
+7	mars	mars	NC	NC	g=m	
+8	1942	1942	NC	NC		
+9	en	en	P	P		
+10	présence	présence	NC	NC	n=s|g=f	
+11	de	de	P	P		
+12	Nehru	_	NPP	NPP		
+13	,	,	PONCT	PONCT		
+14	qui	qui	PROREL	PROREL	n=s	
+15	a	avoir	V	V	n=s|t=P|p=3	
+16	été	être	VPP	VPP	t=K	
+17	libéré	libérer	VPP	VPP	n=s|g=m|t=K	
+18	au	à	P+D	P+D	n=s|g=m	
+19	mois	mois	NC	NC	g=m	
+20	de	de	P	P		
+21	décembre	décembre	NC	NC	n=s|g=m	
+22	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	époux	époux	NC	NC	g=m	
+3	passent	passer	V	V	n=p|t=P,S|p=3	
+4	une	une	DET	DET	n=s|g=f	
+5	lune	lune	NC	NC	n=s|g=f	
+6	de	de	P	P		
+7	miel	miel	NC	NC	n=s|g=m	
+8	de	de	P	P		
+9	deux	deux	DET	DET	s=card|n=p	
+10	mois	mois	NC	NC	g=m	
+11	au	à	P+D	P+D	n=s|g=m	
+12	Cachemire	_	NPP	NPP		
+13	[	[	PONCT	PONCT		
+14	27	27	NC	NC		
+15	]	]	PONCT	PONCT		
+16	.	.	PONCT	PONCT		
+
+1	Un	un	DET	DET	n=s|g=m	
+2	premier	premier	ADJ	ADJ	n=s|g=m	
+3	fils	fils	NC	NC	g=m	
+4	,	,	PONCT	PONCT		
+5	Rajiv	Rajiv	NPP	NPP	n=s|g=m	
+6	,	,	PONCT	PONCT		
+7	naît	naître	V	V	n=s|t=P|p=3	
+8	en	en	P	P		
+9	1944	1944	NC	NC		
+10	,	,	PONCT	PONCT		
+11	suivi	suivre	VPP	VPP	n=s|g=m|t=K	
+12	d'	de	P	P		
+13	un	un	DET	DET	n=s|g=m	
+14	second	second	ADJ	ADJ	n=s|g=m	
+15	,	,	PONCT	PONCT		
+16	Sanjay	Sanjay	NPP	NPP	n=s|g=m	
+17	,	,	PONCT	PONCT		
+18	en	en	P	P		
+19	1946	1946	NC	NC		
+20	.	.	PONCT	PONCT		
+
+1	Des	des	DET	DET	n=p	
+2	tensions	tension	NC	NC	n=p|g=f	
+3	apparaissent	apparaître	V	V	n=p|t=P,S|p=3	
+4	rapidement	_	ADV	ADV		
+5	dans	dans	P	P		
+6	le	le	DET	DET	n=s|g=m	
+7	couple	couple	NC	NC	n=s	
+8	.	.	PONCT	PONCT		
+
+1	Feroze	Feroze	NPP	NPP	n=s|g=m	
+2	est	être	V	V	n=s|t=P|p=3	
+3	un	un	DET	DET	n=s|g=m	
+4	mari	mari	NC	NC	n=s|g=m	
+5	volage	volage	ADJ	ADJ	n=s	
+6	qui	qui	PROREL	PROREL	n=s	
+7	,	,	PONCT	PONCT		
+8	bien	bien	ADV	ADV		
+9	que	que	CS	CS		
+10	menant	mener	VPR	VPR	t=G	
+11	une	une	DET	DET	n=s|g=f	
+12	carrière	carrière	NC	NC	n=s|g=f	
+13	journalistique	journalistique	ADJ	ADJ	n=s	
+14	et	et	CC	CC		
+15	politique	politique	ADJ	ADJ	n=s	
+16	honorable	honorable	ADJ	ADJ	n=s	
+17	(	(	PONCT	PONCT		
+18	il	il	CLS	CLS	n=s|g=m|p=3	
+19	est	être	V	V	n=s|t=P|p=3	
+20	élu	élire	VPP	VPP	n=s|g=m|t=K	
+21	député	député	NC	NC	n=s|g=m	
+22	en	en	P	P		
+23	1952	1952	NC	NC		
+24	)	)	PONCT	PONCT		
+25	,	,	PONCT	PONCT		
+26	supporte	supporter	V	V	n=s|t=P,S|p=1,3	
+27	mal	mal	ADV	ADV		
+28	de	de	P	P		
+29	vivre	vivre	VINF	VINF	t=W	
+30	dans	dans	P	P		
+31	l'	le	DET	DET	n=s	
+32	ombre	ombre	NC	NC	n=s	
+33	des	de	P+D	P+D	n=p	
+34	Nehru	_	NPP	NPP		
+35	[	[	PONCT	PONCT		
+36	28	28	NC	NC		
+37	]	]	PONCT	PONCT		
+38	.	.	PONCT	PONCT		
+
+1	De	de	P	P		
+2	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+3	côté	côté	NC	NC	n=s|g=m	
+4	,	,	PONCT	PONCT		
+5	Indira	Indira	NPP	NPP	n=s|g=f	
+6	aurait	avoir	V	V	n=s|t=C|p=3	
+7	eu	avoir	VPP	VPP	n=s|g=m|t=K	
+8	une	une	DET	DET	n=s|g=f	
+9	longue	long	ADJ	ADJ	n=s|g=f	
+10	relation	relation	NC	NC	n=s|g=f	
+11	avec	avec	P	P		
+12	le	le	DET	DET	n=s|g=m	
+13	secrétaire	secrétaire	NC	NC	n=s	
+14	particulier	particulier	ADJ	ADJ	n=s|g=m	
+15	de	de	P	P		
+16	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+17	père	père	NC	NC	n=s|g=m	
+18	,	,	PONCT	PONCT		
+19	M	_	NPP	NPP		
+20	.	.	PONCT	PONCT		
+21	O	ô	ADV	ADV		
+22	.	.	PONCT	PONCT		
+23	Mathai	_	NPP	NPP		
+24	(	(	PONCT	PONCT		
+25	en	en	P	P		
+26	)	)	PONCT	PONCT		
+27	[	[	PONCT	PONCT		
+28	29	29	NC	NC		
+29	]	]	PONCT	PONCT		
+30	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	mariage	mariage	NC	NC	n=s|g=m	
+3	est	être	V	V	n=s|t=P|p=3	
+4	au	à	P+D	P+D	n=s|g=m	
+5	plus	plus	ADV	ADV		
+6	bas	bas	ADJ	ADJ	g=m	
+7	lorsque	lorsque	CS	CS		
+8	Feroze	Feroze	NPP	NPP	n=s|g=m	
+9	est	être	V	V	n=s|t=P|p=3	
+10	victime	victime	NC	NC	n=s|g=f	
+11	d'	de	P	P		
+12	un	un	DET	DET	n=s|g=m	
+13	premier	premier	ADJ	ADJ	n=s|g=m	
+14	accident	accident	NC	NC	n=s|g=m	
+15	cardiaque	cardiaque	ADJ	ADJ	n=s	
+16	en	en	P	P		
+17	septembre	septembre	NC	NC	n=s|g=m	
+18	1958	1958	NC	NC		
+19	[	[	PONCT	PONCT		
+20	30	30	NC	NC		
+21	]	]	PONCT	PONCT		
+22	,	,	PONCT	PONCT		
+23	et	et	CC	CC		
+24	la	la	DET	DET	n=s|g=f	
+25	réconciliation	réconciliation	NC	NC	n=s|g=f	
+26	qui	qui	PROREL	PROREL	n=s	
+27	s'	se	CLR	CLR	n=p,s|p=3	
+28	ensuit	_	NC	NC		
+29	est	être	V	V	n=s|t=P|p=3	
+30	de	de	DET	DET	n=p	
+31	courte	court	ADJ	ADJ	n=s|g=f	
+32	durée	durée	NC	NC	n=s|g=f	
+33	.	.	PONCT	PONCT		
+
+1	Lorsque	lorsque	CS	CS		
+2	,	,	PONCT	PONCT		
+3	terrassé	terrasser	VPP	VPP	n=s|g=m|t=K	
+4	une	une	DET	DET	n=s|g=f	
+5	nouvelle	nouveau	ADJ	ADJ	n=s|g=f	
+6	fois	fois	NC	NC	g=f	
+7	par	par	P	P		
+8	un	un	DET	DET	n=s|g=m	
+9	infarctus	infarctus	NC	NC	g=m	
+10	,	,	PONCT	PONCT		
+11	Feroze	Feroze	NPP	NPP	n=s|g=m	
+12	meurt	mourir	V	V	n=s|t=P|p=3	
+13	dans	dans	P	P		
+14	la	la	DET	DET	n=s|g=f	
+15	matinée	matinée	NC	NC	n=s|g=f	
+16	du	de	P+D	P+D	n=s|g=m	
+17	8	8	ADJ	ADJ		
+18	septembre	septembre	NC	NC	n=s|g=m	
+19	1960	1960	NC	NC		
+20	,	,	PONCT	PONCT		
+21	Indira	Indira	NPP	NPP	n=s|g=f	
+22	est	être	V	V	n=s|t=P|p=3	
+23	à	à	P	P		
+24	ses	ses	DET	DET	n=p|p=3|poss=s	
+25	côtés	côté	NC	NC	n=p|g=m	
+26	[	[	PONCT	PONCT		
+27	31	31	NC	NC		
+28	]	]	PONCT	PONCT		
+29	.	.	PONCT	PONCT		
+
+1	De	de	P	P		
+2	retour	retour	NC	NC	n=s|g=m	
+3	de	de	P	P		
+4	leur	leur	DET	DET	n=s|p=3|poss=p	
+5	voyage	voyage	NC	NC	n=s|g=m	
+6	de	de	P	P		
+7	noce	noce	NC	NC	n=s|g=f	
+8	,	,	PONCT	PONCT		
+9	Indira	Indira	NPP	NPP	n=s|g=f	
+10	et	et	CC	CC		
+11	Feroze	Feroze	NPP	NPP	n=s|g=m	
+12	Gandhi	_	NPP	NPP		
+13	prennent	prendre	V	V	n=p|t=P,S|p=3	
+14	part	part	NC	NC	n=s	
+15	au	à	P+D	P+D	n=s|g=m	
+16	mouvement	mouvement	NC	NC	n=s|g=m	
+17	Quit	_	NPP	NPP		
+18	India	India	NPP	NPP	n=s|g=f	
+19	lancé	lancer	VPP	VPP	n=s|g=m|t=K	
+20	par	par	P	P		
+21	Nehru	_	NPP	NPP		
+22	le	le	DET	DET	n=s|g=m	
+23	8	8	ADJ	ADJ		
+24	août	août	NC	NC	n=s|g=m	
+25	1942	1942	NC	NC		
+26	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	répression	répression	NC	NC	n=s|g=f	
+3	britannique	britannique	ADJ	ADJ	n=s	
+4	est	être	V	V	n=s|t=P|p=3	
+5	brutale	brutal	ADJ	ADJ	n=s|g=f	
+6	:	:	PONCT	PONCT		
+7	Nehru	_	NPP	NPP		
+8	est	être	V	V	n=s|t=P|p=3	
+9	arrêté	arrêter	VPP	VPP	n=s|g=m|t=K	
+10	et	et	CC	CC		
+11	emprisonné	emprisonner	VPP	VPP	n=s|g=m|t=K	
+12	dès	dès	P	P		
+13	le	le	DET	DET	n=s|g=m	
+14	lendemain	lendemain	NC	NC	n=s|g=m	
+15	9	9	ADJ	ADJ		
+16	août	août	NC	NC	n=s|g=m	
+17	et	et	CC	CC		
+18	Indira	Indira	NPP	NPP	n=s|g=f	
+19	et	et	CC	CC		
+20	Feroze	Feroze	NPP	NPP	n=s|g=m	
+21	un	un	DET	DET	n=s|g=m	
+22	mois	mois	NC	NC	g=m	
+23	plus	plus	ADV	ADV		
+24	tard	tard	ADV	ADV		
+25	.	.	PONCT	PONCT		
+
+1	Détenue	détenir	VPP	VPP	n=s|g=f|t=K	
+2	sans	sans	P	P		
+3	être	être	VINF	VINF	t=W	
+4	jugée	juger	VPP	VPP	n=s|g=f|t=K	
+5	,	,	PONCT	PONCT		
+6	Indira	Indira	NPP	NPP	n=s|g=f	
+7	est	être	V	V	n=s|t=P|p=3	
+8	relâchée	relâcher	VPP	VPP	n=s|g=f|t=K	
+9	le	le	DET	DET	n=s|g=m	
+10	13	13	ADJ	ADJ		
+11	mai	mai	NC	NC	n=s|g=m	
+12	1943	1943	NC	NC		
+13	après	après	P	P		
+14	avoir	avoir	VINF	VINF	t=W	
+15	passé	passer	VPP	VPP	n=s|g=m|t=K	
+16	huit	huit	DET	DET	s=card|n=p	
+17	mois	mois	NC	NC	g=m	
+18	derrière	derrière	P	P		
+19	les	les	DET	DET	n=p	
+20	barreaux	barreau	NC	NC	n=p|g=m	
+21	[	[	PONCT	PONCT		
+22	32	32	NC	NC		
+23	]	]	PONCT	PONCT		
+24	.	.	PONCT	PONCT		
+
+1	Sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+2	santé	santé	NC	NC	n=s|g=f	
+3	et	et	CC	CC		
+4	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+5	moral	_	NC	NC		
+6	connaissent	connaître	V	V	n=p|t=P,S|p=3	
+7	des	des	DET	DET	n=p	
+8	hauts	haut	ADJ	ADJ	n=p|g=m	
+9	et	et	CC	CC		
+10	des	des	DET	DET	n=p	
+11	bas	bas	ADJ	ADJ	g=m	
+12	;	;	PONCT	PONCT		
+13	elle	elle	CLS	CLS	n=s|g=f|p=3	
+14	donne	donner	V	V	n=s|t=P,S|p=1,3	
+15	naissance	naissance	NC	NC	n=s|g=f	
+16	à	à	P	P		
+17	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+18	premier	premier	ADJ	ADJ	n=s|g=m	
+19	fils	fils	NC	NC	g=m	
+20	le	le	DET	DET	n=s|g=m	
+21	20	20	ADJ	ADJ		
+22	août	août	NC	NC	n=s|g=m	
+23	1944	1944	NC	NC		
+24	[	[	PONCT	PONCT		
+25	33	33	NC	NC		
+26	]	]	PONCT	PONCT		
+27	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	fin	fin	NC	NC	n=s	
+3	du	de	P+D	P+D	n=s|g=m	
+4	conflit	conflit	NC	NC	n=s|g=m	
+5	mondial	mondial	ADJ	ADJ	n=s|g=m	
+6	marque	marquer	V	V	n=s|t=P,S|p=1,3	
+7	le	le	DET	DET	n=s|g=m	
+8	début	début	NC	NC	n=s|g=m	
+9	du	de	P+D	P+D	n=s|g=m	
+10	processus	processus	NC	NC	g=m	
+11	d'	de	P	P		
+12	indépendance	indépendance	NC	NC	n=s|g=f	
+13	de	de	P	P		
+14	l'	le	DET	DET	n=s	
+15	Inde	Inde	NPP	NPP	n=s|g=f	
+16	.	.	PONCT	PONCT		
+
+1	Nehru	_	NPP	NPP		
+2	s'	se	CLR	CLR	n=p,s|p=3	
+3	installe	installer	V	V	n=s|t=P,S|p=1,3	
+4	à	à	P	P		
+5	Delhi	_	NPP	NPP		
+6	,	,	PONCT	PONCT		
+7	d'	de	P	P		
+8	abord	abord	NC	NC	n=s|g=m	
+9	en	en	P	P		
+10	tant	tant	ADV	ADV		
+11	que	que	CS	CS		
+12	vice	vice	NC	NC	n=s|g=m	
+13	-	-	PONCT	PONCT		
+14	président	président	NC	NC	n=s|g=m	
+15	du	de	P+D	P+D	n=s|g=m	
+16	conseil	conseil	NC	NC	n=s|g=m	
+17	exécutif	exécutif	ADJ	ADJ	n=s|g=m	
+18	[	[	PONCT	PONCT		
+19	34	34	NC	NC		
+20	]	]	PONCT	PONCT		
+21	il	il	CLS	CLS	n=s|g=m|p=3	
+22	devient	devenir	V	V	n=s|t=P|p=3	
+23	Premier	premier	ADJ	ADJ	n=s|g=m	
+24	ministre	ministre	NC	NC	n=s|g=m	
+25	le	le	DET	DET	n=s|g=m	
+26	15	15	ADJ	ADJ		
+27	août	août	NC	NC	n=s|g=m	
+28	1947	1947	NC	NC		
+29	,	,	PONCT	PONCT		
+30	jour	jour	NC	NC	n=s|g=m	
+31	de	de	P	P		
+32	l'	le	DET	DET	n=s	
+33	indépendance	indépendance	NC	NC	n=s|g=f	
+34	de	de	P	P		
+35	l'	le	DET	DET	n=s	
+36	Inde	Inde	NPP	NPP	n=s|g=f	
+37	.	.	PONCT	PONCT		
+
+1	Indira	Indira	NPP	NPP	n=s|g=f	
+2	,	,	PONCT	PONCT		
+3	qui	qui	PROREL	PROREL	n=s	
+4	vit	vivre	V	V	n=s|t=P|p=3	
+5	à	à	P	P		
+6	Lucknow	_	NPP	NPP		
+7	où	où	PROREL	PROREL		
+8	Feroze	Feroze	NPP	NPP	n=s|g=m	
+9	dirige	diriger	V	V	n=s|t=P,S|p=1,3	
+10	un	un	DET	DET	n=s|g=m	
+11	quotidien	quotidien	NC	NC	n=s|g=m	
+12	,	,	PONCT	PONCT		
+13	rend	rendre	V	V	n=s|t=P|p=3	
+14	de	de	P	P		
+15	fréquentes	fréquent	ADJ	ADJ	n=p|g=f	
+16	visites	visite	NC	NC	n=p|g=f	
+17	à	à	P	P		
+18	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+19	père	père	NC	NC	n=s|g=m	
+20	qu'	que	PROREL	PROREL		
+21	elle	elle	CLS	CLS	n=s|g=f|p=3	
+22	aide	aider	V	V	n=s|t=P,S|p=1,3	
+23	à	à	P	P		
+24	s'	se	CLR	CLR	n=p,s|p=3	
+25	installer	installer	VINF	VINF	t=W	
+26	dans	dans	P	P		
+27	un	un	DET	DET	n=s|g=m	
+28	premier	premier	ADJ	ADJ	n=s|g=m	
+29	temps	temps	NC	NC	g=m	
+30	dans	dans	P	P		
+31	un	un	DET	DET	n=s|g=m	
+32	pavillon	pavillon	NC	NC	n=s|g=m	
+33	de	de	P	P		
+34	York	York	NPP	NPP	n=s|g=m	
+35	Road	_	NPP	NPP		
+36	puis	puis	CC	CC		
+37	,	,	PONCT	PONCT		
+38	après	après	P	P		
+39	l'	le	DET	DET	n=s	
+40	indépendance	indépendance	NC	NC	n=s|g=f	
+41	,	,	PONCT	PONCT		
+42	à	à	P	P		
+43	Teen	_	NPP	NPP		
+44	Murti	_	NPP	NPP		
+45	Bhavan	_	NPP	NPP		
+46	(	(	PONCT	PONCT		
+47	en	en	P	P		
+48	)	)	PONCT	PONCT		
+49	,	,	PONCT	PONCT		
+50	qui	qui	PROREL	PROREL	n=s	
+51	devient	devenir	V	V	n=s|t=P|p=3	
+52	la	la	DET	DET	n=s|g=f	
+53	résidence	résidence	NC	NC	n=s|g=f	
+54	officielle	officiel	ADJ	ADJ	n=s|g=f	
+55	du	de	P+D	P+D	n=s|g=m	
+56	chef	chef	NC	NC	n=s	
+57	du	de	P+D	P+D	n=s|g=m	
+58	gouvernement	gouvernement	NC	NC	n=s|g=m	
+59	.	.	PONCT	PONCT		
+
+1	De	de	P	P		
+2	plus	plus	ADV	ADV		
+3	en	en	P	P		
+4	plus	plus	ADV	ADV		
+5	indispensable	indispensable	ADJ	ADJ	n=s	
+6	à	à	P	P		
+7	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+8	père	père	NC	NC	n=s|g=m	
+9	,	,	PONCT	PONCT		
+10	Indira	Indira	NPP	NPP	n=s|g=f	
+11	joue	jouer	V	V	n=s|t=P,S|p=1,3	
+12	notamment	_	ADV	ADV		
+13	le	le	DET	DET	n=s|g=m	
+14	rôle	rôle	NC	NC	n=s|g=m	
+15	d'	de	P	P		
+16	hôtesse	hôtesse	NC	NC	n=s|g=f	
+17	lors	lors	ADV	ADV		
+18	des	de	P+D	P+D	n=p	
+19	réceptions	réception	NC	NC	n=p|g=f	
+20	,	,	PONCT	PONCT		
+21	alors	alors	ADV	ADV		
+22	que	que	CS	CS		
+23	dans	dans	P	P		
+24	le	le	DET	DET	n=s|g=m	
+25	même	même	ADJ	ADJ	n=s	
+26	temps	temps	NC	NC	g=m	
+27	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+28	mariage	mariage	NC	NC	n=s|g=m	
+29	s'	se	CLR	CLR	n=p,s|p=3	
+30	étiole	étioler	V	V	n=s|t=P,S|p=1,3	
+31	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	finit	finir	V	V	n=s|t=J,P|p=3	
+3	par	par	P	P		
+4	s'	se	CLR	CLR	n=p,s|p=3	
+5	installer	installer	VINF	VINF	t=W	
+6	avec	avec	P	P		
+7	ses	ses	DET	DET	n=p|p=3|poss=s	
+8	deux	deux	ADJ	ADJ	s=card|n=p	
+9	fils	fils	NC	NC	g=m	
+10	à	à	P	P		
+11	Teen	_	NPP	NPP		
+12	Murti	_	NPP	NPP		
+13	Bhavan	_	NPP	NPP		
+14	[	[	PONCT	PONCT		
+15	35	35	NC	NC		
+16	]	]	PONCT	PONCT		
+17	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	1949	1949	NC	NC		
+3	,	,	PONCT	PONCT		
+4	Indira	Indira	NPP	NPP	n=s|g=f	
+5	Gandhi	_	NPP	NPP		
+6	se	se	CLR	CLR	n=p,s|p=3	
+7	rend	rendre	V	V	n=s|t=P|p=3	
+8	avec	avec	P	P		
+9	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+10	père	père	NC	NC	n=s|g=m	
+11	pour	pour	P	P		
+12	un	un	DET	DET	n=s|g=m	
+13	voyage	voyage	NC	NC	n=s|g=m	
+14	officiel	officiel	ADJ	ADJ	n=s|g=m	
+15	aux	à	P+D	P+D	n=p	
+16	États	État	NC	NC	n=p|g=m	
+17	-	-	PONCT	PONCT		
+18	Unis	uni	ADJ	ADJ	n=p|g=m|t=K	
+19	,	,	PONCT	PONCT		
+20	premier	premier	ADJ	ADJ	n=s|g=m	
+21	d'	de	P	P		
+22	une	une	DET	DET	n=s|g=f	
+23	liste	liste	NC	NC	n=s|g=f	
+24	de	de	P	P		
+25	vingt-quatre	vingt-quatre	ADJ	ADJ		
+26	voyages	voyage	NC	NC	n=p|g=m	
+27	effectués	effectuer	VPP	VPP	n=p|g=m|t=K	
+28	avec	avec	P	P		
+29	Nehru	_	NPP	NPP		
+30	dans	dans	P	P		
+31	les	les	DET	DET	n=p	
+32	dix	dix	ADJ	ADJ	s=card|n=p	
+33	années	année	NC	NC	n=p|g=f	
+34	qui	qui	PROREL	PROREL	n=s	
+35	suivent	suivre	V	V	n=p|t=P,S|p=3	
+36	[	[	PONCT	PONCT		
+37	36	36	NC	NC		
+38	]	]	PONCT	PONCT		
+39	.	.	PONCT	PONCT		
+
+1	Lors	lors	ADV	ADV		
+2	des	des	DET	DET	n=p	
+3	premières	premier	ADJ	ADJ	n=p|g=f	
+4	élections	élection	NC	NC	n=p|g=f	
+5	législatives	législatif	ADJ	ADJ	n=p|g=f	
+6	organisées	organiser	VPP	VPP	n=p|g=f|t=K	
+7	en	en	P	P		
+8	1951	1951	NC	NC		
+9	,	,	PONCT	PONCT		
+10	elle	elle	CLS	CLS	n=s|g=f|p=3	
+11	soutient	soutenir	V	V	n=s|t=P|p=3	
+12	la	la	DET	DET	n=s|g=f	
+13	candidature	candidature	NC	NC	n=s|g=f	
+14	de	de	P	P		
+15	Feroze	Feroze	NPP	NPP	n=s|g=m	
+16	qui	qui	PROREL	PROREL	n=s	
+17	est	être	V	V	n=s|t=P|p=3	
+18	élu	élire	VPP	VPP	n=s|g=m|t=K	
+19	à	à	P	P		
+20	Rae	Rae	NPP	NPP	n=s	
+21	Bareli	_	NPP	NPP		
+22	mais	mais	CC	CC		
+23	ne	ne	ADV	ADV		
+24	se	se	CLR	CLR	n=p,s|p=3	
+25	porte	porter	V	V	n=s|t=P,S|p=1,3	
+26	pas	pas	ADV	ADV		
+27	candidate	candidat	NC	NC	n=s|g=f	
+28	elle	elle	PRO	PRO	n=s|g=f|p=3	
+29	-	-	PONCT	PONCT		
+30	même	même	ADV	ADV		
+31	,	,	PONCT	PONCT		
+32	estimant	estimer	VPR	VPR	t=G	
+33	être	être	VINF	VINF	t=W	
+34	trop	trop	ADV	ADV		
+35	prise	prendre	VPP	VPP	n=s|g=f|t=K	
+36	par	par	P	P		
+37	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+38	rôle	rôle	NC	NC	n=s|g=m	
+39	auprès	auprès	ADV	ADV		
+40	de	de	P	P		
+41	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+42	père	père	NC	NC	n=s|g=m	
+43	et	et	CC	CC		
+44	de	de	P	P		
+45	ses	ses	DET	DET	n=p|p=3|poss=s	
+46	enfants	enfant	NC	NC	n=p	
+47	[	[	PONCT	PONCT		
+48	37	37	NC	NC		
+49	]	]	PONCT	PONCT		
+50	.	.	PONCT	PONCT		
+
+1	Quatre	quatre	DET	DET	s=card|n=p	
+2	ans	an	NC	NC	n=p|g=m	
+3	plus	plus	ADV	ADV		
+4	tard	tard	ADV	ADV		
+5	,	,	PONCT	PONCT		
+6	elle	elle	CLS	CLS	n=s|g=f|p=3	
+7	entre	entre	P	P		
+8	pourtant	pourtant	ADV	ADV		
+9	au	à	P+D	P+D	n=s|g=m	
+10	comité	comité	NC	NC	n=s|g=m	
+11	exécutif	exécutif	ADJ	ADJ	n=s|g=m	
+12	du	de	P+D	P+D	n=s|g=m	
+13	Congrès	congrès	NC	NC	g=m	
+14	et	et	CC	CC		
+15	participe	participer	V	V	n=s|t=P,S|p=1,3	
+16	à	à	P	P		
+17	la	la	DET	DET	n=s|g=f	
+18	conférence	conférence	NC	NC	n=s|g=f	
+19	de	de	P	P		
+20	Bandung	_	NPP	NPP		
+21	[	[	PONCT	PONCT		
+22	38	38	NC	NC		
+23	]	]	PONCT	PONCT		
+24	avant	avant	P	P		
+25	de	de	P	P		
+26	faire	faire	VINF	VINF	t=W	
+27	la	la	DET	DET	n=s|g=f	
+28	preuve	preuve	NC	NC	n=s|g=f	
+29	de	de	P	P		
+30	ses	ses	DET	DET	n=p|p=3|poss=s	
+31	capacités	capacité	NC	NC	n=p|g=f	
+32	organisationnelles	organisationnel	ADJ	ADJ	n=p|g=f	
+33	lors	lors	ADV	ADV		
+34	des	de	P+D	P+D	n=p	
+35	élections	élection	NC	NC	n=p|g=f	
+36	législatives	législatif	ADJ	ADJ	n=p|g=f	
+37	de	de	P	P		
+38	1957	1957	NC	NC		
+39	[	[	PONCT	PONCT		
+40	39	39	ADJ	ADJ		
+41	]	]	PONCT	PONCT		
+42	.	.	PONCT	PONCT		
+
+1	C'	ce	CLS	CLS		
+2	est	être	V	V	n=s|t=P|p=3	
+3	sans	sans	P	P		
+4	doute	doute	NC	NC	n=s|g=m	
+5	cette	cette	DET	DET	n=s|g=f	
+6	même	même	ADJ	ADJ	n=s	
+7	année	année	NC	NC	n=s|g=f	
+8	qu'	que	PROREL	PROREL		
+9	elle	elle	CLS	CLS	n=s|g=f|p=3	
+10	suit	suivre	V	V	n=s|t=P|p=3	
+11	un	un	DET	DET	n=s|g=m	
+12	traitement	traitement	NC	NC	n=s|g=m	
+13	qui	qui	PROREL	PROREL	n=s	
+14	la	la	CLO	CLO	n=s|g=f|p=3	
+15	guérit	guérir	V	V	n=s|t=J,P|p=3	
+16	définitivement	_	ADV	ADV		
+17	de	de	P	P		
+18	la	la	DET	DET	n=s|g=f	
+19	tuberculose	tuberculose	NC	NC	n=s|g=f	
+20	[	[	PONCT	PONCT		
+21	40	40	NC	NC		
+22	]	]	PONCT	PONCT		
+23	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	2	2	ADJ	ADJ		
+3	février	février	NC	NC	n=s|g=m	
+4	1959	1959	NC	NC		
+5	,	,	PONCT	PONCT		
+6	elle	elle	CLS	CLS	n=s|g=f|p=3	
+7	est	être	V	V	n=s|t=P|p=3	
+8	élue	élire	VPP	VPP	n=s|g=f|t=K	
+9	présidente	président	NC	NC	n=s|g=f	
+10	du	de	P+D	P+D	n=s|g=m	
+11	Congrès	congrès	NC	NC	g=m	
+12	[	[	PONCT	PONCT		
+13	41	41	NC	NC		
+14	]	]	PONCT	PONCT		
+15	malgré	malgré	P	P		
+16	l'	le	DET	DET	n=s	
+17	opposition	opposition	NC	NC	n=s|g=f	
+18	de	de	P	P		
+19	Nehru	_	NPP	NPP		
+20	,	,	PONCT	PONCT		
+21	mais	mais	CC	CC		
+22	elle	elle	CLS	CLS	n=s|g=f|p=3	
+23	choisit	choisir	V	V	n=s|t=J,P|p=3	
+24	de	de	P	P		
+25	ne	ne	ADV	ADV		
+26	pas	pas	ADV	ADV		
+27	se	se	CLR	CLR	n=p,s|p=3	
+28	représenter	représenter	VINF	VINF	t=W	
+29	l'	le	DET	DET	n=s	
+30	année	année	NC	NC	n=s|g=f	
+31	suivante	suivant	ADJ	ADJ	n=s|g=f	
+32	[	[	PONCT	PONCT		
+33	42	42	NC	NC		
+34	]	]	PONCT	PONCT		
+35	.	.	PONCT	PONCT		
+
+1	Après	après	P	P		
+2	une	une	DET	DET	n=s|g=f	
+3	période	période	NC	NC	n=s	
+4	de	de	P	P		
+5	dépression	dépression	NC	NC	n=s|g=f	
+6	et	et	CC	CC		
+7	de	de	P	P		
+8	deuil	deuil	NC	NC	n=s|g=m	
+9	qui	qui	PROREL	PROREL	n=s	
+10	fait	faire	V	V	n=s|t=P|p=3	
+11	suite	suite	NC	NC	n=s|g=f	
+12	à	à	P	P		
+13	la	la	DET	DET	n=s|g=f	
+14	mort	mort	NC	NC	n=s|g=f,m	
+15	de	de	P	P		
+16	Feroze	Feroze	NPP	NPP	n=s|g=m	
+17	,	,	PONCT	PONCT		
+18	Indira	Indira	NPP	NPP	n=s|g=f	
+19	retourne	retourner	V	V	n=s|t=P,S|p=1,3	
+20	travailler	travailler	VINF	VINF	t=W	
+21	auprès	auprès	ADV	ADV		
+22	de	de	P	P		
+23	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+24	père	père	NC	NC	n=s|g=m	
+25	,	,	PONCT	PONCT		
+26	dont	dont	PROREL	PROREL		
+27	la	la	DET	DET	n=s|g=f	
+28	fin	fin	NC	NC	n=s	
+29	approche	approche	NC	NC	n=s|g=f	
+30	[	[	PONCT	PONCT		
+31	43	43	NC	NC		
+32	]	]	PONCT	PONCT		
+33	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	lutte	lutte	NC	NC	n=s|g=f	
+3	pour	pour	P	P		
+4	la	la	DET	DET	n=s|g=f	
+5	succession	succession	NC	NC	n=s|g=f	
+6	de	de	P	P		
+7	Nehru	_	NPP	NPP		
+8	au	à	P+D	P+D	n=s|g=m	
+9	poste	poste	NC	NC	n=s	
+10	de	de	P	P		
+11	Premier	_	NPP	NPP		
+12	ministre	ministre	NC	NC	n=s|g=m	
+13	est	être	V	V	n=s|t=P|p=3	
+14	ouverte	ouvert	ADJ	ADJ	n=s|g=f|t=K	
+15	et	et	CC	CC		
+16	le	le	DET	DET	n=s|g=m	
+17	nom	nom	NC	NC	n=s|g=m	
+18	d'	de	P	P		
+19	Indira	Indira	NPP	NPP	n=s|g=f	
+20	commence	commencer	V	V	n=s|t=P,S|p=1,3	
+21	à	à	P	P		
+22	circuler	circuler	VINF	VINF	t=W	
+23	[	[	PONCT	PONCT		
+24	44	44	NC	NC		
+25	]	]	PONCT	PONCT		
+26	.	.	PONCT	PONCT		
+
+1	Lorsque	lorsque	CS	CS		
+2	Nehru	_	NPP	NPP		
+3	décède	décéder	V	V	n=s|t=P,S|p=1,3	
+4	en	en	P	P		
+5	1964	1964	NC	NC		
+6	,	,	PONCT	PONCT		
+7	c'	ce	CLS	CLS		
+8	est	être	V	V	n=s|t=P|p=3	
+9	finalement	_	ADV	ADV		
+10	Lal	Lal	NPP	NPP	n=s|g=m	
+11	Bahadur	_	NPP	NPP		
+12	Shastri	_	NPP	NPP		
+13	qui	qui	PROREL	PROREL	n=s	
+14	devient	devenir	V	V	n=s|t=P|p=3	
+15	Premier	premier	ADJ	ADJ	n=s|g=m	
+16	ministre	ministre	NC	NC	n=s|g=m	
+17	.	.	PONCT	PONCT		
+
+1	Indira	Indira	NPP	NPP	n=s|g=f	
+2	accepte	accepter	V	V	n=s|t=P,S|p=1,3	
+3	d'	de	P	P		
+4	entrer	entrer	VINF	VINF	t=W	
+5	au	à	P+D	P+D	n=s|g=m	
+6	gouvernement	gouvernement	NC	NC	n=s|g=m	
+7	comme	comme	P	P		
+8	ministre	ministre	NC	NC	n=s|g=m	
+9	de	de	P	P		
+10	l'	le	DET	DET	n=s	
+11	Information	_	NPP	NPP		
+12	,	,	PONCT	PONCT		
+13	mais	mais	CC	CC		
+14	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+15	personnalité	personnalité	NC	NC	n=s|g=f	
+16	et	et	CC	CC		
+17	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+18	aura	aura	NC	NC	n=s|g=f	
+19	font	faire	V	V	n=p|t=P|p=3	
+20	bientôt	bientôt	ADV	ADV		
+21	d'	de	P	P		
+22	elle	elle	PRO	PRO	n=s|g=f|p=3	
+23	un	un	DET	DET	n=s|g=m	
+24	personnage	personnage	NC	NC	n=s|g=m	
+25	clé	clé	NC	NC	n=s|g=f	
+26	du	de	P+D	P+D	n=s|g=m	
+27	pouvoir	pouvoir	NC	NC	n=s|g=m	
+28	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	se	se	CLR	CLR	n=p,s|p=3	
+3	distingue	distinguer	V	V	n=s|t=P,S|p=1,3	
+4	notamment	_	ADV	ADV		
+5	par	par	P	P		
+6	ses	ses	DET	DET	n=p|p=3|poss=s	
+7	interventions	intervention	NC	NC	n=p|g=f	
+8	lors	lors	ADV	ADV		
+9	des	de	P+D	P+D	n=p	
+10	émeutes	émeute	NC	NC	n=p|g=f	
+11	linguistiques	linguistique	ADJ	ADJ	n=p	
+12	au	à	P+D	P+D	n=s|g=m	
+13	Tamil	_	NPP	NPP		
+14	Nadu	_	NPP	NPP		
+15	en	en	P	P		
+16	mars	mars	NC	NC	g=m	
+17	1965	1965	NC	NC		
+18	et	et	CC	CC		
+19	lors	lors	ADV	ADV		
+20	de	de	P	P		
+21	la	la	DET	DET	n=s|g=f	
+22	deuxième	deuxième	ADJ	ADJ	n=s	
+23	guerre	guerre	NC	NC	n=s|g=f	
+24	indo	_	NPP	NPP		
+25	-	-	PONCT	PONCT		
+26	pakistanaise	_	V	V		
+27	la	la	DET	DET	n=s|g=f	
+28	même	même	ADJ	ADJ	n=s	
+29	année	année	NC	NC	n=s|g=f	
+30	[	[	PONCT	PONCT		
+31	45	45	NC	NC		
+32	]	]	PONCT	PONCT		
+33	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	disparition	disparition	NC	NC	n=s|g=f	
+3	brutale	brutal	ADJ	ADJ	n=s|g=f	
+4	de	de	P	P		
+5	Shastri	_	NPP	NPP		
+6	,	,	PONCT	PONCT		
+7	terrassé	terrasser	VPP	VPP	n=s|g=m|t=K	
+8	par	par	P	P		
+9	une	une	DET	DET	n=s|g=f	
+10	crise	crise	NC	NC	n=s|g=f	
+11	cardiaque	cardiaque	ADJ	ADJ	n=s	
+12	après	après	P	P		
+13	la	la	DET	DET	n=s|g=f	
+14	signature	signature	NC	NC	n=s|g=f	
+15	des	de	P+D	P+D	n=p	
+16	accords	accord	NC	NC	n=p|g=m	
+17	de	de	P	P		
+18	Tachkent	Tachkent	NPP	NPP	n=s|g=m	
+19	en	en	P	P		
+20	janvier	janvier	NC	NC	n=s|g=m	
+21	1966	1966	NC	NC		
+22	,	,	PONCT	PONCT		
+23	ouvre	ouvrir	V	V	n=s|t=P,S|p=1,3	
+24	pour	pour	P	P		
+25	la	la	DET	DET	n=s|g=f	
+26	deuxième	deuxième	ADJ	ADJ	n=s	
+27	fois	fois	NC	NC	g=f	
+28	en	en	P	P		
+29	deux	deux	DET	DET	s=card|n=p	
+30	ans	an	NC	NC	n=p|g=m	
+31	la	la	DET	DET	n=s|g=f	
+32	succession	succession	NC	NC	n=s|g=f	
+33	de	de	P	P		
+34	la	la	DET	DET	n=s|g=f	
+35	direction	direction	NC	NC	n=s|g=f	
+36	de	de	P	P		
+37	la	la	DET	DET	n=s|g=f	
+38	"	"	PONCT	PONCT		
+39	plus	plus	ADV	ADV		
+40	grande	grand	ADJ	ADJ	n=s|g=f	
+41	démocratie	démocratie	NC	NC	n=s|g=f	
+42	du	de	P+D	P+D	n=s|g=m	
+43	monde	monde	NC	NC	n=s|g=m	
+44	"	"	PONCT	PONCT		
+45	.	.	PONCT	PONCT		
+
+1	Face	face	NC	NC	n=s|g=f	
+2	à	à	P	P		
+3	d'	de	DET	DET	n=p	
+4	autres	autre	ADJ	ADJ	n=p	
+5	prétendants	prétendant	NC	NC	n=p|g=m	
+6	tels	tel	ADJ	ADJ	n=p|g=m	
+7	que	que	CS	CS		
+8	le	le	DET	DET	n=s|g=m	
+9	Premier	premier	ADJ	ADJ	n=s|g=m	
+10	ministre	ministre	NC	NC	n=s|g=m	
+11	intérimaire	intérimaire	ADJ	ADJ	n=s	
+12	Gulzarilal	_	NPP	NPP		
+13	Nanda	Nanda	NPP	NPP	n=s|g=m	
+14	ou	ou	CC	CC		
+15	le	le	DET	DET	n=s|g=m	
+16	représentant	représentant	NC	NC	n=s|g=m	
+17	de	de	P	P		
+18	l'	le	DET	DET	n=s	
+19	aile	aile	NC	NC	n=s|g=f	
+20	droite	droit	ADJ	ADJ	n=s|g=f	
+21	du	de	P+D	P+D	n=s|g=m	
+22	parti	parti	NC	NC	n=s|g=m	
+23	Morarji	_	NPP	NPP		
+24	Desai	_	NPP	NPP		
+25	,	,	PONCT	PONCT		
+26	Indira	Indira	NPP	NPP	n=s|g=f	
+27	reçoit	recevoir	V	V	n=s|t=P|p=3	
+28	le	le	DET	DET	n=s|g=m	
+29	soutien	soutien	NC	NC	n=s|g=m	
+30	de	de	P	P		
+31	l'	le	DET	DET	n=s	
+32	influent	_	NC	NC		
+33	K	_	NPP	NPP		
+34	.	.	PONCT	PONCT		
+35	Kamaraj	_	NPP	NPP		
+36	(	(	PONCT	PONCT		
+37	en	en	P	P		
+38	)	)	PONCT	PONCT		
+39	,	,	PONCT	PONCT		
+40	le	le	DET	DET	n=s|g=m	
+41	"	"	PONCT	PONCT		
+42	faiseur	faiseur	NC	NC	n=s|g=m	
+43	de	de	P	P		
+44	roi	roi	NC	NC	n=s|g=m	
+45	"	"	PONCT	PONCT		
+46	,	,	PONCT	PONCT		
+47	qui	qui	PROREL	PROREL	n=s	
+48	espère	espérer	V	V	n=s|t=P,S|p=1,3	
+49	pouvoir	pouvoir	VINF	VINF	t=W	
+50	manipuler	manipuler	VINF	VINF	t=W	
+51	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+52	action	action	NC	NC	n=s|g=f	
+53	en	en	P	P		
+54	sous	sou	NC	NC	n=p|g=m	
+55	-	-	PONCT	PONCT		
+56	main	main	NC	NC	n=s|g=f	
+57	et	et	CC	CC		
+58	bénéficier	bénéficier	VINF	VINF	t=W	
+59	de	de	P	P		
+60	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+61	aura	aura	NC	NC	n=s|g=f	
+62	dans	dans	P	P		
+63	la	la	DET	DET	n=s|g=f	
+64	perspective	perspective	NC	NC	n=s|g=f	
+65	des	de	P+D	P+D	n=p	
+66	élections	élection	NC	NC	n=p|g=f	
+67	générales	général	ADJ	ADJ	n=p|g=f	
+68	de	de	P	P		
+69	1967	1967	NC	NC		
+70	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	ne	ne	ADV	ADV		
+3	lui	lui	CLO	CLO	n=s|p=3	
+4	apparaît	apparaître	V	V	n=s|t=P|p=3	
+5	alors	alors	ADV	ADV		
+6	que	que	CS	CS		
+7	comme	comme	P	P		
+8	une	une	DET	DET	n=s|g=f	
+9	figure	figure	NC	NC	n=s|g=f	
+10	politique	politique	ADJ	ADJ	n=s	
+11	de	de	P	P		
+12	transition	transition	NC	NC	n=s|g=f	
+13	qu'	que	PROREL	PROREL		
+14	il	il	CLS	CLS	n=s|g=m|p=3	
+15	sera	être	V	V	n=s|t=F|p=3	
+16	aisé	aisé	ADJ	ADJ	n=s|g=m	
+17	de	de	P	P		
+18	remplacer	remplacer	VINF	VINF	t=W	
+19	une	une	DET	DET	n=s|g=f	
+20	fois	fois	NC	NC	g=f	
+21	cette	cette	DET	DET	n=s|g=f	
+22	échéance	échéance	NC	NC	n=s|g=f	
+23	passée	passer	VPP	VPP	n=s|g=f|t=K	
+24	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	premier	premier	ADJ	ADJ	n=s|g=m	
+3	défi	défi	NC	NC	n=s|g=m	
+4	auquel	auquel	P+PRO	P+PRO	n=s|g=m	
+5	est	être	V	V	n=s|t=P|p=3	
+6	confrontée	confronter	VPP	VPP	n=s|g=f|t=K	
+7	Indira	Indira	NPP	NPP	n=s|g=f	
+8	Gandhi	_	NPP	NPP		
+9	est	être	V	V	n=s|t=P|p=3	
+10	celui	celui	PRO	PRO	n=s|g=m	
+11	de	de	P	P		
+12	la	la	DET	DET	n=s|g=f	
+13	famine	famine	NC	NC	n=s|g=f	
+14	qui	qui	PROREL	PROREL	n=s	
+15	menace	menacer	V	V	n=s|t=P,S|p=1,3	
+16	l'	le	DET	DET	n=s	
+17	Inde	Inde	NPP	NPP	n=s|g=f	
+18	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	rencontre	rencontrer	V	V	n=s|t=P,S|p=1,3	
+3	le	le	DET	DET	n=s|g=m	
+4	président	président	NC	NC	n=s|g=m	
+5	Lyndon	Lyndon	NPP	NPP	n=s|g=m	
+6	B	_	NPP	NPP		
+7	.	.	PONCT	PONCT		
+8	Johnson	_	NPP	NPP		
+9	aux	à	P+D	P+D	n=p	
+10	États	État	NC	NC	n=p|g=m	
+11	-	-	PONCT	PONCT		
+12	Unis	unir	VPP	VPP	n=p|g=m|t=K	
+13	afin	_	ADV	ADV		
+14	d'	de	P	P		
+15	obtenir	obtenir	VINF	VINF	t=W	
+16	une	une	DET	DET	n=s|g=f	
+17	aide	aide	NC	NC	n=s	
+18	alimentaire	alimentaire	ADJ	ADJ	n=s	
+19	et	et	CC	CC		
+20	insiste	insister	V	V	n=s|t=P,S|p=1,3	
+21	sur	sur	P	P		
+22	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+23	refus	refus	NC	NC	g=m	
+24	de	de	P	P		
+25	subir	subir	VINF	VINF	t=W	
+26	en	en	P	P		
+27	contrepartie	contrepartie	NC	NC	n=s|g=f	
+28	de	de	P	P		
+29	quelconques	quelconque	ADJ	ADJ	n=p	
+30	pressions	pression	NC	NC	n=p|g=f	
+31	américaines	américain	ADJ	ADJ	n=p|g=f	
+32	sur	sur	P	P		
+33	la	la	DET	DET	n=s|g=f	
+34	ligne	ligne	NC	NC	n=s|g=f	
+35	politique	politique	ADJ	ADJ	n=s	
+36	indienne	indien	ADJ	ADJ	n=s|g=f	
+37	.	.	PONCT	PONCT		
+
+1	Cependant	cependant	ADV	ADV		
+2	,	,	PONCT	PONCT		
+3	si	si	CS	CS		
+4	elle	elle	CLS	CLS	n=s|g=f|p=3	
+5	se	se	CLR	CLR	n=p,s|p=3	
+6	montre	montrer	V	V	n=s|t=P,S|p=1,3	
+7	critique	critique	NC	NC	n=s	
+8	à	à	P	P		
+9	l'	le	DET	DET	n=s	
+10	égard	égard	NC	NC	n=s|g=m	
+11	de	de	P	P		
+12	la	la	DET	DET	n=s|g=f	
+13	guerre	guerre	NC	NC	n=s|g=f	
+14	du	de	P+D	P+D	n=s|g=m	
+15	Viêt	_	NPP	NPP		
+16	Nam	_	NPP	NPP		
+17	,	,	PONCT	PONCT		
+18	elle	elle	CLS	CLS	n=s|g=f|p=3	
+19	se	se	CLR	CLR	n=p,s|p=3	
+20	voit	voir	V	V	n=s|t=P|p=3	
+21	poussée	pousser	VPP	VPP	n=s|g=f|t=K	
+22	à	à	P	P		
+23	mettre	mettre	VINF	VINF	t=W	
+24	en	en	P	P		
+25	œuvre	_	NPP	NPP		
+26	une	une	DET	DET	n=s|g=f	
+27	importante	important	ADJ	ADJ	n=s|g=f	
+28	et	et	CC	CC		
+29	impopulaire	impopulaire	ADJ	ADJ	n=s	
+30	dévaluation	dévaluation	NC	NC	n=s|g=f	
+31	de	de	P	P		
+32	la	la	DET	DET	n=s|g=f	
+33	roupie	roupie	NC	NC	n=s|g=f	
+34	indienne	indien	ADJ	ADJ	n=s|g=f	
+35	en	en	P	P		
+36	juin	juin	NC	NC	n=s|g=m	
+37	1966	1966	NC	NC		
+38	.	.	PONCT	PONCT		
+
+1	Animée	animer	VPP	VPP	n=s|g=f|t=K	
+2	par	par	P	P		
+3	une	une	DET	DET	n=s|g=f	
+4	ferme	ferme	ADJ	ADJ	n=s	
+5	volonté	volonté	NC	NC	n=s|g=f	
+6	de	de	P	P		
+7	se	se	CLR	CLR	n=p,s|p=3	
+8	soustraire	soustraire	VINF	VINF	t=W	
+9	à	à	P	P		
+10	toute	toute	DET	DET	n=s|g=f	
+11	dépendance	dépendance	NC	NC	n=s|g=f	
+12	vis	_	ADJ	ADJ		
+13	-	-	PONCT	PONCT		
+14	à	à	P	P		
+15	-	-	PONCT	PONCT		
+16	vis	vis	NC	NC	g=f	
+17	d'	de	P	P		
+18	une	une	DET	DET	n=s|g=f	
+19	puissance	puissance	NC	NC	n=s|g=f	
+20	étrangère	étranger	ADJ	ADJ	n=s|g=f	
+21	et	et	CC	CC		
+22	de	de	P	P		
+23	garantir	garantir	VINF	VINF	t=W	
+24	à	à	P	P		
+25	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+26	pays	pays	NC	NC	g=m	
+27	l'	le	DET	DET	n=s	
+28	autosuffisance	autosuffisance	NC	NC	n=s|g=f	
+29	alimentaire	alimentaire	ADJ	ADJ	n=s	
+30	,	,	PONCT	PONCT		
+31	elle	elle	CLS	CLS	n=s|g=f|p=3	
+32	mène	mener	V	V	n=s|t=P,S|p=1,3	
+33	à	à	P	P		
+34	bien	bien	ADV	ADV		
+35	la	la	DET	DET	n=s|g=f	
+36	"	"	PONCT	PONCT		
+37	Révolution	révolution	NC	NC	n=s|g=f	
+38	verte	vert	ADJ	ADJ	n=s|g=f	
+39	"	"	PONCT	PONCT		
+40	sous	sous	P	P		
+41	l'	le	DET	DET	n=s	
+42	égide	égide	NC	NC	n=s|g=f	
+43	de	de	P	P		
+44	M	_	NPP	NPP		
+45	.	.	PONCT	PONCT		
+46	S	_	NPP	NPP		
+47	.	.	PONCT	PONCT		
+48	Swaminathan	_	NPP	NPP		
+49	.	.	PONCT	PONCT		
+
+1	Malgré	malgré	P	P		
+2	la	la	DET	DET	n=s|g=f	
+3	perte	perte	NC	NC	n=s|g=f	
+4	de	de	P	P		
+5	nombreux	nombreux	ADJ	ADJ	g=m	
+6	sièges	siège	NC	NC	n=p|g=m	
+7	,	,	PONCT	PONCT		
+8	les	les	DET	DET	n=p	
+9	quatrièmes	quatrième	ADJ	ADJ	n=p	
+10	élections	élection	NC	NC	n=p|g=f	
+11	générales	général	ADJ	ADJ	n=p|g=f	
+12	permettent	permettre	V	V	n=p|t=P,S|p=3	
+13	au	à	P+D	P+D	n=s|g=m	
+14	Congrès	congrès	NC	NC	g=m	
+15	de	de	P	P		
+16	conserver	conserver	VINF	VINF	t=W	
+17	une	une	DET	DET	n=s|g=f	
+18	courte	court	ADJ	ADJ	n=s|g=f	
+19	majorité	majorité	NC	NC	n=s|g=f	
+20	à	à	P	P		
+21	la	la	DET	DET	n=s|g=f	
+22	Lok	_	NPP	NPP		
+23	Sabha	_	NPP	NPP		
+24	en	en	P	P		
+25	1967	1967	NC	NC		
+26	.	.	PONCT	PONCT		
+
+1	Indira	Indira	NPP	NPP	n=s|g=f	
+2	Gandhi	_	NPP	NPP		
+3	parvient	parvenir	V	V	n=s|t=P|p=3	
+4	à	à	P	P		
+5	se	se	CLR	CLR	n=p,s|p=3	
+6	maintenir	maintenir	VINF	VINF	t=W	
+7	à	à	P	P		
+8	la	la	DET	DET	n=s|g=f	
+9	tête	tête	NC	NC	n=s|g=f	
+10	du	de	P+D	P+D	n=s|g=m	
+11	gouvernement	gouvernement	NC	NC	n=s|g=m	
+12	mais	mais	CC	CC		
+13	doit	devoir	V	V	n=s|t=P|p=3	
+14	composer	composer	VINF	VINF	t=W	
+15	avec	avec	P	P		
+16	Morarji	_	NPP	NPP		
+17	Desai	_	NPP	NPP		
+18	,	,	PONCT	PONCT		
+19	qui	qui	PROREL	PROREL	n=s	
+20	devient	devenir	V	V	n=s|t=P|p=3	
+21	vice	vice	NC	NC	n=s|g=m	
+22	-	-	PONCT	PONCT		
+23	Premier	premier	ADJ	ADJ	n=s|g=m	
+24	ministre	ministre	NC	NC	n=s|g=m	
+25	et	et	CC	CC		
+26	obtient	obtenir	V	V	n=s|t=P|p=3	
+27	le	le	DET	DET	n=s|g=m	
+28	portefeuille	portefeuille	NC	NC	n=s|g=m	
+29	des	de	P+D	P+D	n=p	
+30	finances	finance	NC	NC	n=p|g=f	
+31	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	rivalité	rivalité	NC	NC	n=s|g=f	
+3	entre	entre	P	P		
+4	les	les	DET	DET	n=p	
+5	deux	deux	ADJ	ADJ	s=card|n=p	
+6	personnalités	personnalité	NC	NC	n=p|g=f	
+7	domine	dominer	V	V	n=s|t=P,S|p=1,3	
+8	alors	alors	ADV	ADV		
+9	la	la	DET	DET	n=s|g=f	
+10	vie	vie	NC	NC	n=s|g=f	
+11	politique	politique	ADJ	ADJ	n=s	
+12	.	.	PONCT	PONCT		
+
+1	Dans	dans	P	P		
+2	la	la	DET	DET	n=s|g=f	
+3	lignée	lignée	NC	NC	n=s|g=f	
+4	de	de	P	P		
+5	Nehru	_	NPP	NPP		
+6	,	,	PONCT	PONCT		
+7	Indira	Indira	NPP	NPP	n=s|g=f	
+8	Gandhi	_	NPP	NPP		
+9	entend	entendre	V	V	n=s|t=P|p=3	
+10	fonder	fonder	VINF	VINF	t=W	
+11	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+12	politique	politique	NC	NC	n=s|g=f	
+13	sur	sur	P	P		
+14	le	le	DET	DET	n=s|g=m	
+15	socialisme	socialisme	NC	NC	n=s|g=m	
+16	,	,	PONCT	PONCT		
+17	le	le	DET	DET	n=s|g=m	
+18	non	non	ADV	ADV		
+19	-	-	PONCT	PONCT		
+20	alignement	alignement	NC	NC	n=s|g=m	
+21	et	et	CC	CC		
+22	la	la	DET	DET	n=s|g=f	
+23	défense	défense	NC	NC	n=s|g=f	
+24	d'	de	P	P		
+25	une	une	DET	DET	n=s|g=f	
+26	démocratie	démocratie	NC	NC	n=s|g=f	
+27	qui	qui	PROREL	PROREL	n=s	
+28	est	être	V	V	n=s|t=P|p=3	
+29	laïque	laïc	ADJ	ADJ	n=s|g=f	
+30	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	fait	faire	V	V	n=s|t=P|p=3	
+3	ainsi	ainsi	ADV	ADV		
+4	élire	élire	VINF	VINF	t=W	
+5	en	en	P	P		
+6	1967	1967	NC	NC		
+7	un	un	DET	DET	n=s|g=m	
+8	musulman	musulman	NC	NC	n=s|g=m	
+9	à	à	P	P		
+10	la	la	DET	DET	n=s|g=f	
+11	présidence	présidence	NC	NC	n=s|g=f	
+12	de	de	P	P		
+13	l'	le	DET	DET	n=s	
+14	Union	union	NC	NC	n=s|g=f	
+15	indienne	indien	ADJ	ADJ	n=s|g=f	
+16	,	,	PONCT	PONCT		
+17	Zakir	_	NPP	NPP		
+18	Hussain	Hussain	NPP	NPP	n=s|g=m	
+19	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	disparition	disparition	NC	NC	n=s|g=f	
+3	de	de	P	P		
+4	celui	celui	PRO	PRO	n=s|g=m	
+5	-	-	PONCT	PONCT		
+6	ci	_	NPP	NPP		
+7	en	en	P	P		
+8	1969	1969	NC	NC		
+9	constitue	constituer	V	V	n=s|t=P,S|p=1,3	
+10	un	un	DET	DET	n=s|g=m	
+11	tournant	tournant	NC	NC	n=s|g=m	
+12	dans	dans	P	P		
+13	la	la	DET	DET	n=s|g=f	
+14	vie	vie	NC	NC	n=s|g=f	
+15	politique	politique	ADJ	ADJ	n=s	
+16	indienne	indien	ADJ	ADJ	n=s|g=f	
+17	et	et	CC	CC		
+18	ouvre	ouvrir	V	V	n=s|t=P,S|p=1,3	
+19	une	une	DET	DET	n=s|g=f	
+20	crise	crise	NC	NC	n=s|g=f	
+21	pour	pour	P	P		
+22	le	le	DET	DET	n=s|g=m	
+23	parti	parti	NC	NC	n=s|g=m	
+24	:	:	PONCT	PONCT		
+25	en	en	P	P		
+26	désaccord	désaccord	NC	NC	n=s|g=m	
+27	avec	avec	P	P		
+28	Desai	_	NPP	NPP		
+29	et	et	CC	CC		
+30	l'	le	DET	DET	n=s	
+31	aile	aile	NC	NC	n=s|g=f	
+32	droite	droit	ADJ	ADJ	n=s|g=f	
+33	du	de	P+D	P+D	n=s|g=m	
+34	Congrès	congrès	NC	NC	g=m	
+35	quant	_	ADJ	ADJ		
+36	au	à	P+D	P+D	n=s|g=m	
+37	candidat	candidat	NC	NC	n=s|g=m	
+38	à	à	P	P		
+39	l'	le	DET	DET	n=s	
+40	élection	élection	NC	NC	n=s|g=f	
+41	présidentielle	présidentiel	ADJ	ADJ	n=s|g=f	
+42	,	,	PONCT	PONCT		
+43	elle	elle	CLS	CLS	n=s|g=f|p=3	
+44	inscrit	inscrire	V	V	n=s|t=P|p=3	
+45	clairement	_	ADV	ADV		
+46	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+47	action	action	NC	NC	n=s|g=f	
+48	à	à	P	P		
+49	gauche	gauche	NC	NC	n=s	
+50	en	en	P	P		
+51	nationalisant	nationaliser	VPR	VPR	t=G	
+52	par	par	P	P		
+53	ordonnance	ordonnance	NC	NC	n=s	
+54	les	les	DET	DET	n=p	
+55	quatorze	quatorze	ADJ	ADJ	s=card|n=p	
+56	plus	plus	ADV	ADV		
+57	grandes	grand	ADJ	ADJ	n=p|g=f	
+58	banques	banque	NC	NC	n=p|g=f	
+59	du	de	P+D	P+D	n=s|g=m	
+60	pays	pays	NC	NC	g=m	
+61	et	et	CC	CC		
+62	en	en	P	P		
+63	révoquant	révoquer	VPR	VPR	t=G	
+64	Desai	_	NPP	NPP		
+65	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	élection	élection	NC	NC	n=s|g=f	
+3	du	de	P+D	P+D	n=s|g=m	
+4	candidat	candidat	NC	NC	n=s|g=m	
+5	d'	de	P	P		
+6	Indira	Indira	NPP	NPP	n=s|g=f	
+7	Gandhi	_	NPP	NPP		
+8	,	,	PONCT	PONCT		
+9	Varahagiri	_	NPP	NPP		
+10	Venkata	_	NPP	NPP		
+11	Giri	_	NPP	NPP		
+12	,	,	PONCT	PONCT		
+13	à	à	P	P		
+14	la	la	DET	DET	n=s|g=f	
+15	tête	tête	NC	NC	n=s|g=f	
+16	de	de	P	P		
+17	l'	le	DET	DET	n=s	
+18	État	État	NC	NC	n=s|g=m	
+19	,	,	PONCT	PONCT		
+20	apparaît	apparaître	V	V	n=s|t=P|p=3	
+21	pour	pour	P	P		
+22	elle	elle	PRO	PRO	n=s|g=f|p=3	
+23	comme	comme	P	P		
+24	une	une	DET	DET	n=s|g=f	
+25	victoire	victoire	NC	NC	n=s|g=f	
+26	personnelle	personnel	ADJ	ADJ	n=s|g=f	
+27	.	.	PONCT	PONCT		
+
+1	Figure	figure	NC	NC	n=s|g=f	
+2	progressiste	progressiste	ADJ	ADJ	n=s	
+3	,	,	PONCT	PONCT		
+4	elle	elle	CLS	CLS	n=s|g=f|p=3	
+5	incarne	incarner	V	V	n=s|t=P,S|p=1,3	
+6	dès	dès	P	P		
+7	lors	lors	ADV	ADV		
+8	l'	le	DET	DET	n=s	
+9	aile	aile	NC	NC	n=s|g=f	
+10	gauche	gauche	NC	NC	n=s	
+11	du	de	P+D	P+D	n=s|g=m	
+12	parti	parti	NC	NC	n=s|g=m	
+13	.	.	PONCT	PONCT		
+
+1	Lorsqu'	lorsque	CS	CS		
+2	Indira	Indira	NPP	NPP	n=s|g=f	
+3	Gandhi	_	NPP	NPP		
+4	est	être	V	V	n=s|t=P|p=3	
+5	exclue	exclu	NC	NC	n=s|g=f	
+6	du	de	P+D	P+D	n=s|g=m	
+7	parti	parti	NC	NC	n=s|g=m	
+8	par	par	P	P		
+9	ses	ses	DET	DET	n=p|p=3|poss=s	
+10	dirigeants	dirigeant	NC	NC	n=p|g=m	
+11	,	,	PONCT	PONCT		
+12	la	la	DET	DET	n=s|g=f	
+13	scission	scission	NC	NC	n=s|g=f	
+14	est	être	V	V	n=s|t=P|p=3	
+15	consommée	consommer	VPP	VPP	n=s|g=f|t=K	
+16	.	.	PONCT	PONCT		
+
+1	Ses	ses	DET	DET	n=p|p=3|poss=s	
+2	partisans	partisan	NC	NC	n=p|g=m	
+3	se	se	CLR	CLR	n=p,s|p=3	
+4	regroupent	regrouper	V	V	n=p|t=P,S|p=3	
+5	dans	dans	P	P		
+6	le	le	DET	DET	n=s|g=m	
+7	Nouveau	nouveau	ADJ	ADJ	n=s|g=m	
+8	Congrès	congrès	NC	NC	g=m	
+9	ou	ou	CC	CC		
+10	Congrès	congrès	NC	NC	g=m	
+11	(	(	PONCT	PONCT		
+12	R	_	NPP	NPP		
+13	)	)	PONCT	PONCT		
+14	pour	pour	P	P		
+15	Ruling	_	NPP	NPP		
+16	,	,	PONCT	PONCT		
+17	tandis	tandis	P	P		
+18	que	que	CS	CS		
+19	ses	ses	DET	DET	n=p|p=3|poss=s	
+20	opposants	opposant	NC	NC	n=p|g=m	
+21	entrent	entrer	V	V	n=p|t=P,S|p=3	
+22	dans	dans	P	P		
+23	l'	le	DET	DET	n=s	
+24	opposition	opposition	NC	NC	n=s|g=f	
+25	au	à	P+D	P+D	n=s|g=m	
+26	sein	sein	NC	NC	n=s|g=m	
+27	du	de	P+D	P+D	n=s|g=m	
+28	Vieux	Vieux	NPP	NPP	n=s|g=m	
+29	Congrès	_	NPP	NPP		
+30	ou	ou	CC	CC		
+31	Congrès	_	NPP	NPP		
+32	(	(	PONCT	PONCT		
+33	O	ô	ADV	ADV		
+34	)	)	PONCT	PONCT		
+35	pour	pour	P	P		
+36	Old	_	NPP	NPP		
+37	ou	ou	CC	CC		
+38	Organisation	_	NPP	NPP		
+39	.	.	PONCT	PONCT		
+
+1	Pour	pour	P	P		
+2	conserver	conserver	VINF	VINF	t=W	
+3	la	la	DET	DET	n=s|g=f	
+4	majorité	majorité	NC	NC	n=s|g=f	
+5	,	,	PONCT	PONCT		
+6	elle	elle	CLS	CLS	n=s|g=f|p=3	
+7	s'	se	CLR	CLR	n=p,s|p=3	
+8	appuie	appuyer	V	V	n=s|t=P,S|p=1,3	
+9	désormais	désormais	ADV	ADV		
+10	sur	sur	P	P		
+11	le	le	DET	DET	n=s|g=m	
+12	soutien	soutien	NC	NC	n=s|g=m	
+13	du	de	P+D	P+D	n=s|g=m	
+14	Parti	parti	NC	NC	n=s|g=m	
+15	communiste	communiste	ADJ	ADJ	n=s	
+16	d'	de	P	P		
+17	Inde	Inde	NPP	NPP	n=s|g=f	
+18	.	.	PONCT	PONCT		
+
+1	Figure	figure	NC	NC	n=s|g=f	
+2	charismatique	charismatique	ADJ	ADJ	n=s	
+3	,	,	PONCT	PONCT		
+4	parfois	parfois	ADV	ADV		
+5	accusée	accuser	VPP	VPP	n=s|g=f|t=K	
+6	de	de	P	P		
+7	populisme	populisme	NC	NC	n=s|g=m	
+8	,	,	PONCT	PONCT		
+9	Indira	Indira	NPP	NPP	n=s|g=f	
+10	Gandhi	_	NPP	NPP		
+11	entretient	entretenir	V	V	n=s|t=P|p=3	
+12	la	la	DET	DET	n=s|g=f	
+13	ferveur	ferveur	NC	NC	n=s|g=f	
+14	des	de	P+D	P+D	n=p	
+15	masses	masse	NC	NC	n=p|g=f	
+16	populaires	populaire	ADJ	ADJ	n=p	
+17	autour	autour	NC	NC	n=s|g=m	
+18	de	de	P	P		
+19	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+20	personne	personne	NC	NC	n=s|g=f	
+21	pour	pour	P	P		
+22	mieux	mieux	ADV	ADV		
+23	assurer	assurer	VINF	VINF	t=W	
+24	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+25	autorité	autorité	NC	NC	n=s|g=f	
+26	et	et	CC	CC		
+27	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+28	légitimité	légitimité	NC	NC	n=s|g=f	
+29	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	confirme	confirmer	V	V	n=s|t=P,S|p=1,3	
+3	ainsi	ainsi	ADV	ADV		
+4	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+5	orientation	orientation	NC	NC	n=s|g=f	
+6	progressiste	progressiste	ADJ	ADJ	n=s	
+7	en	en	P	P		
+8	abolissant	abolir	VPR	VPR	t=G	
+9	en	en	P	P		
+10	1970	1970	NC	NC		
+11	les	les	DET	DET	n=p	
+12	privilèges	privilège	NC	NC	n=p|g=m	
+13	dont	dont	PROREL	PROREL		
+14	bénéficiaient	bénéficier	V	V	n=p|t=I|p=3	
+15	encore	encore	ADV	ADV		
+16	les	les	DET	DET	n=p	
+17	maharadjahs	maharadjah	NC	NC	n=p|g=m	
+18	et	et	CC	CC		
+19	autres	autre	ADJ	ADJ	n=p	
+20	princes	prince	NC	NC	n=p|g=m	
+21	.	.	PONCT	PONCT		
+
+1	Ceci	ceci	PRO	PRO	n=s|g=m	
+2	l'	le	CLO	CLO	n=s|p=3	
+3	amène	amener	V	V	n=s|t=P,S|p=1,3	
+4	à	à	P	P		
+5	s'	se	CLR	CLR	n=p,s|p=3	
+6	opposer	opposer	VINF	VINF	t=W	
+7	frontalement	_	ADV	ADV		
+8	à	à	P	P		
+9	la	la	DET	DET	n=s|g=f	
+10	Cour	cour	NC	NC	n=s|g=f	
+11	suprême	suprême	ADJ	ADJ	n=s	
+12	,	,	PONCT	PONCT		
+13	qui	qui	PROREL	PROREL	n=s	
+14	avait	avoir	V	V	n=s|t=I|p=3	
+15	tenté	tenter	VPP	VPP	n=s|g=m|t=K	
+16	d'	de	P	P		
+17	annuler	annuler	VINF	VINF	t=W	
+18	la	la	DET	DET	n=s|g=f	
+19	réforme	réforme	NC	NC	n=s|g=f	
+20	agraire	agraire	ADJ	ADJ	n=s	
+21	en	en	P	P		
+22	qualifiant	qualifier	VPR	VPR	t=G	
+23	le	le	DET	DET	n=s|g=m	
+24	droit	droit	NC	NC	n=s|g=m	
+25	à	à	P	P		
+26	la	la	DET	DET	n=s|g=f	
+27	propriété	propriété	NC	NC	n=s|g=f	
+28	de	de	P	P		
+29	droit	droit	NC	NC	n=s|g=m	
+30	fondamental	fondamental	ADJ	ADJ	n=s|g=m	
+31	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	conflit	conflit	NC	NC	n=s|g=m	
+3	s'	se	CLR	CLR	n=p,s|p=3	
+4	envenime	envenimer	V	V	n=s|t=P,S|p=1,3	
+5	et	et	CC	CC		
+6	dure	durer	V	V	n=s|t=P,S|p=1,3	
+7	tout	tout	ADV	ADV		
+8	au	à	P+D	P+D	n=s|g=m	
+9	long	long	ADJ	ADJ	n=s|g=m	
+10	des	de	P+D	P+D	n=p	
+11	mandats	mandat	NC	NC	n=p|g=m	
+12	de	de	P	P		
+13	Gandhi	_	NPP	NPP		
+14	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	1967	1967	NC	NC		
+3	,	,	PONCT	PONCT		
+4	la	la	DET	DET	n=s|g=f	
+5	Cour	cour	NC	NC	n=s|g=f	
+6	juge	juger	V	V	n=s|t=P,S|p=1,3	
+7	ainsi	ainsi	ADV	ADV		
+8	qu'	que	CS	CS		
+9	une	une	DET	DET	n=s|g=f	
+10	révision	révision	NC	NC	n=s|g=f	
+11	constitutionnelle	constitutionnel	ADJ	ADJ	n=s|g=f	
+12	ne	ne	ADV	ADV		
+13	peut	pouvoir	V	V	n=s|t=P|p=3	
+14	porter	porter	VINF	VINF	t=W	
+15	atteinte	atteindre	VPP	VPP	n=s|g=f|t=K	
+16	aux	à	P+D	P+D	n=p	
+17	droits	droit	NC	NC	n=p|g=m	
+18	fondamentaux	fondamental	ADJ	ADJ	n=p|g=m	
+19	[	[	PONCT	PONCT		
+20	46	46	NC	NC		
+21	]	]	PONCT	PONCT		
+22	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	Parlement	parlement	NC	NC	n=s|g=m	
+3	promulgue	promulguer	V	V	n=s|t=P,S|p=1,3	
+4	alors	alors	ADV	ADV		
+5	de	de	DET	DET	n=p	
+6	nouvelles	nouveau	ADJ	ADJ	n=p|g=f	
+7	révisions	révision	NC	NC	n=p|g=f	
+8	constitutionnelles	constitutionnel	ADJ	ADJ	n=p|g=f	
+9	en	en	P	P		
+10	1971	1971	NC	NC		
+11	(	(	PONCT	PONCT		
+12	24e	_	NC	NC		
+13	et	et	CC	CC		
+14	25e	_	ADJ	ADJ		
+15	amendement	amendement	NC	NC	n=s|g=m	
+16	)	)	PONCT	PONCT		
+17	,	,	PONCT	PONCT		
+18	l'	le	CLO	CLO	n=s|p=3	
+19	autorisant	autoriser	VPR	VPR	t=G	
+20	à	à	P	P		
+21	modifier	modifier	VINF	VINF	t=W	
+22	toute	toute	DET	DET	n=s|g=f	
+23	partie	partie	NC	NC	n=s|g=f	
+24	de	de	P	P		
+25	la	la	DET	DET	n=s|g=f	
+26	Constitution	constitution	NC	NC	n=s|g=f	
+27	,	,	PONCT	PONCT		
+28	déclarant	déclarer	VPR	VPR	t=G	
+29	"	"	PONCT	PONCT		
+30	qu'	que	CS	CS		
+31	aucune	aucune	DET	DET	n=s|g=f	
+32	loi	loi	NC	NC	n=s|g=f	
+33	donnant	donner	VPR	VPR	t=G	
+34	effet	effet	NC	NC	n=s|g=m	
+35	aux	à	P+D	P+D	n=p	
+36	principes	principe	NC	NC	n=p|g=m	
+37	directeurs	directeur	NC	NC	n=p|g=m	
+38	du	de	P+D	P+D	n=s|g=m	
+39	gouvernement	gouvernement	NC	NC	n=s|g=m	
+40	relatif	relatif	ADJ	ADJ	n=s|g=m	
+41	à	à	P	P		
+42	la	la	DET	DET	n=s|g=f	
+43	distribution	distribution	NC	NC	n=s|g=f	
+44	des	de	P+D	P+D	n=p	
+45	richesses	richesse	NC	NC	n=p|g=f	
+46	ne	ne	ADV	ADV		
+47	pourra	pouvoir	V	V	n=s|t=F|p=3	
+48	être	être	VINF	VINF	t=W	
+49	déclarée	déclarer	VPP	VPP	n=s|g=f|t=K	
+50	nulle	nul	ADJ	ADJ	n=s|g=f	
+51	pour	pour	P	P		
+52	atteinte	atteinte	NC	NC	n=s|g=f	
+53	aux	à	P+D	P+D	n=p	
+54	droits	droit	NC	NC	n=p|g=m	
+55	fondamentaux	fondamental	ADJ	ADJ	n=p|g=m	
+56	.	.	PONCT	PONCT		
+57	"	"	PONCT	PONCT		
+58	(	(	PONCT	PONCT		
+59	Annoussamy	_	NPP	NPP		
+60	,	,	PONCT	PONCT		
+61	2001	2001	NC	NC		
+62	[	[	PONCT	PONCT		
+63	47	47	NC	NC		
+64	]	]	PONCT	PONCT		
+65	)	)	PONCT	PONCT		
+66	.	.	PONCT	PONCT		
+
+1	Cette	cette	DET	DET	n=s|g=f	
+2	loi	loi	NC	NC	n=s|g=f	
+3	est	être	V	V	n=s|t=P|p=3	
+4	attaquée	attaquer	VPP	VPP	n=s|g=f|t=K	
+5	devant	devant	P	P		
+6	la	la	DET	DET	n=s|g=f	
+7	Cour	cour	NC	NC	n=s|g=f	
+8	suprême	suprême	ADJ	ADJ	n=s	
+9	,	,	PONCT	PONCT		
+10	donnant	donner	VPR	VPR	t=G	
+11	lieu	lieu	NC	NC	n=s|g=m	
+12	à	à	P	P		
+13	la	la	DET	DET	n=s|g=f	
+14	décision	décision	NC	NC	n=s|g=f	
+15	Kesavananda	_	NPP	NPP		
+16	Bharati	_	NPP	NPP		
+17	v	_	NPP	NPP		
+18	.	.	PONCT	PONCT		
+
+1	The	_	NPP	NPP		
+2	State	_	NPP	NPP		
+3	of	_	NPP	NPP		
+4	Kerala	_	NPP	NPP		
+5	(	(	PONCT	PONCT		
+6	en	en	P	P		
+7	)	)	PONCT	PONCT		
+8	de	de	P	P		
+9	1973	1973	NC	NC		
+10	,	,	PONCT	PONCT		
+11	ré	_	NPP	NPP		
+12	-	-	PONCT	PONCT		
+13	affirmant	affirmer	VPR	VPR	t=G	
+14	le	le	DET	DET	n=s|g=m	
+15	pouvoir	pouvoir	NC	NC	n=s|g=m	
+16	de	de	P	P		
+17	la	la	DET	DET	n=s|g=f	
+18	Cour	cour	NC	NC	n=s|g=f	
+19	et	et	CC	CC		
+20	élaborant	élaborer	VPR	VPR	t=G	
+21	la	la	DET	DET	n=s|g=f	
+22	doctrine	doctrine	NC	NC	n=s|g=f	
+23	juridique	juridique	ADJ	ADJ	n=s	
+24	de	de	P	P		
+25	la	la	DET	DET	n=s|g=f	
+26	Structure	structure	NC	NC	n=s|g=f	
+27	de	de	P	P		
+28	base	base	NC	NC	n=s|g=f	
+29	(	(	PONCT	PONCT		
+30	en	en	P	P		
+31	)	)	PONCT	PONCT		
+32	(	(	PONCT	PONCT		
+33	Basic	basic	NC	NC	n=s|g=m	
+34	structure	structure	NC	NC	n=s|g=f	
+35	)	)	PONCT	PONCT		
+36	.	.	PONCT	PONCT		
+
+1	Afin	_	NPP	NPP		
+2	de	de	P	P		
+3	mettre	mettre	VINF	VINF	t=W	
+4	un	un	DET	DET	n=s|g=m	
+5	terme	terme	NC	NC	n=s|g=m	
+6	à	à	P	P		
+7	la	la	DET	DET	n=s|g=f	
+8	situation	situation	NC	NC	n=s|g=f	
+9	difficile	difficile	ADJ	ADJ	n=s	
+10	de	de	P	P		
+11	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+12	gouvernement	gouvernement	NC	NC	n=s|g=m	
+13	minoritaire	minoritaire	ADJ	ADJ	n=s	
+14	,	,	PONCT	PONCT		
+15	Gandhi	_	NPP	NPP		
+16	obtient	obtenir	V	V	n=s|t=P|p=3	
+17	du	de	P+D	P+D	n=s|g=m	
+18	président	président	NC	NC	n=s|g=m	
+19	Giri	_	NPP	NPP		
+20	la	la	DET	DET	n=s|g=f	
+21	dissolution	dissolution	NC	NC	n=s|g=f	
+22	de	de	P	P		
+23	la	la	DET	DET	n=s|g=f	
+24	Lok	_	NPP	NPP		
+25	Sabha	_	NPP	NPP		
+26	.	.	PONCT	PONCT		
+
+1	C'	ce	CLS	CLS		
+2	est	être	V	V	n=s|t=P|p=3	
+3	forte	fort	ADJ	ADJ	n=s|g=f	
+4	d'	de	P	P		
+5	une	une	DET	DET	n=s|g=f	
+6	majorité	majorité	NC	NC	n=s|g=f	
+7	absolue	absolu	ADJ	ADJ	n=s|g=f	
+8	qu'	que	PROREL	PROREL		
+9	elle	elle	CLS	CLS	n=s|g=f|p=3	
+10	est	être	V	V	n=s|t=P|p=3	
+11	de	de	DET	DET	n=p	
+12	nouveau	nouveau	ADJ	ADJ	n=s|g=m	
+13	élue	élu	NC	NC	n=s|g=f	
+14	Première	premier	ADJ	ADJ	n=s|g=f	
+15	ministre	ministre	NC	NC	n=s|g=m	
+16	en	en	P	P		
+17	1971	1971	NC	NC		
+18	et	et	CC	CC		
+19	cumule	cumuler	V	V	n=s|t=P,S|p=1,3	
+20	désormais	désormais	ADV	ADV		
+21	les	les	DET	DET	n=p	
+22	portefeuilles	portefeuille	NC	NC	n=p|g=m	
+23	de	de	P	P		
+24	l'	le	DET	DET	n=s	
+25	Intérieur	_	NPP	NPP		
+26	,	,	PONCT	PONCT		
+27	du	de	P+D	P+D	n=s|g=m	
+28	Plan	plan	NC	NC	n=s|g=m	
+29	,	,	PONCT	PONCT		
+30	de	de	P	P		
+31	l'	le	DET	DET	n=s	
+32	Information	information	NC	NC	n=s|g=f	
+33	et	et	CC	CC		
+34	de	de	P	P		
+35	l'	le	DET	DET	n=s	
+36	Énergie	énergie	NC	NC	n=s|g=f	
+37	atomique	atomique	ADJ	ADJ	n=s	
+38	.	.	PONCT	PONCT		
+
+1	Son	son	DET	DET	n=s|g=m|p=3|poss=s	
+2	triomphe	triomphe	NC	NC	n=s	
+3	électoral	électoral	ADJ	ADJ	n=s|g=m	
+4	puis	puis	CC	CC		
+5	militaire	militaire	ADJ	ADJ	n=s	
+6	dans	dans	P	P		
+7	la	la	DET	DET	n=s|g=f	
+8	troisième	troisième	ADJ	ADJ	n=s	
+9	guerre	guerre	NC	NC	n=s|g=f	
+10	indo	_	NPP	NPP		
+11	-	-	PONCT	PONCT		
+12	pakistanaise	pakistanais	ADJ	ADJ	n=s|g=f	
+13	confirme	confirmer	V	V	n=s|t=P,S|p=1,3	
+14	un	un	DET	DET	n=s|g=m	
+15	pouvoir	pouvoir	NC	NC	n=s|g=m	
+16	de	de	P	P		
+17	plus	plus	ADV	ADV		
+18	en	en	P	P		
+19	plus	plus	ADV	ADV		
+20	autoritaire	autoritaire	ADJ	ADJ	n=s	
+21	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	tant	tant	ADV	ADV		
+3	que	que	CS	CS		
+4	Première	premier	ADJ	ADJ	n=s|g=f	
+5	ministre	ministre	NC	NC	n=s|g=m	
+6	,	,	PONCT	PONCT		
+7	Indira	Indira	NPP	NPP	n=s|g=f	
+8	Gandhi	_	NPP	NPP		
+9	utilise	utiliser	V	V	n=s|t=P,S|p=1,3	
+10	soigneusement	_	ADV	ADV		
+11	tous	tout	ADJ	ADJ	n=p|g=m	
+12	les	les	DET	DET	n=p	
+13	leviers	levier	NC	NC	n=p|g=m	
+14	à	à	P	P		
+15	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+16	disposition	disposition	NC	NC	n=s|g=f	
+17	pour	pour	P	P		
+18	consolider	consolider	VINF	VINF	t=W	
+19	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+20	pouvoir	pouvoir	NC	NC	n=s|g=m	
+21	et	et	CC	CC		
+22	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+23	autorité	autorité	NC	NC	n=s|g=f	
+24	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	fait	faire	V	V	n=s|t=P|p=3	
+3	ainsi	ainsi	ADV	ADV		
+4	élire	élire	VINF	VINF	t=W	
+5	Fakhruddin	_	NPP	NPP		
+6	Ali	Ali	NPP	NPP	n=s|g=m	
+7	Ahmed	Ahmed	NPP	NPP	n=s|g=m	
+8	,	,	PONCT	PONCT		
+9	un	un	DET	DET	n=s|g=m	
+10	président	président	NC	NC	n=s|g=m	
+11	faible	faible	ADJ	ADJ	n=s	
+12	qu'	que	PROREL	PROREL		
+13	Indira	Indira	NPP	NPP	n=s|g=f	
+14	Gandhi	_	NPP	NPP		
+15	sait	savoir	V	V	n=s|t=P|p=3	
+16	incapable	incapable	ADJ	ADJ	n=s	
+17	d'	de	P	P		
+18	exercer	exercer	VINF	VINF	t=W	
+19	ses	ses	DET	DET	n=p|p=3|poss=s	
+20	prérogatives	prérogative	NC	NC	n=p|g=f	
+21	et	et	CC	CC		
+22	de	de	P	P		
+23	miner	miner	VINF	VINF	t=W	
+24	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+25	autorité	autorité	NC	NC	n=s|g=f	
+26	.	.	PONCT	PONCT		
+
+1	Dans	dans	P	P		
+2	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+3	propre	propre	ADJ	ADJ	n=s	
+4	parti	parti	NC	NC	n=s|g=m	
+5	,	,	PONCT	PONCT		
+6	elle	elle	CLS	CLS	n=s|g=f|p=3	
+7	reforme	reformer	V	V	n=s|t=P,S|p=1,3	
+8	les	les	DET	DET	n=p	
+9	mécanismes	mécanisme	NC	NC	n=p|g=m	
+10	bureaucratiques	bureaucratique	ADJ	ADJ	n=p	
+11	et	et	CC	CC		
+12	de	de	P	P		
+13	gouvernance	gouvernance	NC	NC	n=s|g=f	
+14	jusqu'	jusque	P	P		
+15	à	à	P	P		
+16	ce	ce	PRO	PRO	n=s	
+17	que	que	CS	CS		
+18	,	,	PONCT	PONCT		
+19	dans	dans	P	P		
+20	les	les	DET	DET	n=p	
+21	faits	fait	NC	NC	n=p|g=m	
+22	,	,	PONCT	PONCT		
+23	toute	toute	DET	DET	n=s|g=f	
+24	décision	décision	NC	NC	n=s|g=f	
+25	ne	ne	ADV	ADV		
+26	puisse	pouvoir	VS	VS	n=s|t=S|p=1,3	
+27	provenir	provenir	VINF	VINF	t=W	
+28	que	que	CS	CS		
+29	d'	de	P	P		
+30	elle	elle	PRO	PRO	n=s|g=f|p=3	
+31	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	pratique	pratique	NC	NC	n=s|g=f	
+3	personnelle	personnel	ADJ	ADJ	n=s|g=f	
+4	du	de	P+D	P+D	n=s|g=m	
+5	pouvoir	pouvoir	NC	NC	n=s|g=m	
+6	par	par	P	P		
+7	Indira	Indira	NPP	NPP	n=s|g=f	
+8	Gandhi	_	NPP	NPP		
+9	et	et	CC	CC		
+10	l'	le	DET	DET	n=s	
+11	accumulation	accumulation	NC	NC	n=s|g=f	
+12	des	de	P+D	P+D	n=p	
+13	difficultés	difficulté	NC	NC	n=p|g=f	
+14	sur	sur	P	P		
+15	le	le	DET	DET	n=s|g=m	
+16	plan	plan	NC	NC	n=s|g=m	
+17	intérieur	intérieur	ADJ	ADJ	n=s|g=m	
+18	provoquent	provoquer	V	V	n=p|t=P,S|p=3	
+19	à	à	P	P		
+20	partir	partir	VINF	VINF	t=W	
+21	de	de	P	P		
+22	1973	1973	NC	NC		
+23	un	un	DET	DET	n=s|g=m	
+24	développement	développement	NC	NC	n=s|g=m	
+25	de	de	P	P		
+26	la	la	DET	DET	n=s|g=f	
+27	contestation	contestation	NC	NC	n=s|g=f	
+28	qui	qui	PROREL	PROREL	n=s	
+29	se	se	CLR	CLR	n=p,s|p=3	
+30	cristallise	cristalliser	V	V	n=s|t=P,S|p=1,3	
+31	autour	autour	NC	NC	n=s|g=m	
+32	du	de	P+D	P+D	n=s|g=m	
+33	vétéran	vétéran	NC	NC	n=s|g=m	
+34	gandhien	_	ADJ	ADJ		
+35	Jayaprakash	_	NPP	NPP		
+36	Narayan	Narayan	NPP	NPP	n=s|g=m	
+37	.	.	PONCT	PONCT		
+
+1	Celui	celui	PRO	PRO	n=s|g=m	
+2	-	-	PONCT	PONCT		
+3	ci	_	NPP	NPP		
+4	,	,	PONCT	PONCT		
+5	soutenu	soutenir	VPP	VPP	n=s|g=m|t=K	
+6	par	par	P	P		
+7	les	les	DET	DET	n=p	
+8	chefs	chef	NC	NC	n=p	
+9	de	de	P	P		
+10	l'	le	DET	DET	n=s	
+11	opposition	opposition	NC	NC	n=s|g=f	
+12	,	,	PONCT	PONCT		
+13	organise	organiser	V	V	n=s|t=P,S|p=1,3	
+14	de	de	DET	DET	n=p	
+15	grands	grand	ADJ	ADJ	n=p|g=m	
+16	rassemblements	rassemblement	NC	NC	n=p|g=m	
+17	de	de	P	P		
+18	protestation	protestation	NC	NC	n=s|g=f	
+19	.	.	PONCT	PONCT		
+
+1	C'	ce	CLS	CLS		
+2	est	être	V	V	n=s|t=P|p=3	
+3	dans	dans	P	P		
+4	ce	ce	DET	DET	n=s|g=m	
+5	contexte	contexte	NC	NC	n=s|g=m	
+6	qu'	que	PROREL	PROREL		
+7	intervient	intervenir	V	V	n=s|t=P|p=3	
+8	le	le	DET	DET	n=s|g=m	
+9	12	12	ADJ	ADJ		
+10	juin	juin	NC	NC	n=s|g=m	
+11	1975	1975	NC	NC		
+12	l'	le	DET	DET	n=s	
+13	invalidation	invalidation	NC	NC	n=s|g=f	
+14	de	de	P	P		
+15	l'	le	DET	DET	n=s	
+16	élection	élection	NC	NC	n=s|g=f	
+17	d'	de	P	P		
+18	Indira	Indira	NPP	NPP	n=s|g=f	
+19	Gandhi	_	NPP	NPP		
+20	à	à	P	P		
+21	la	la	DET	DET	n=s|g=f	
+22	Lok	_	NPP	NPP		
+23	Sabha	_	NPP	NPP		
+24	,	,	PONCT	PONCT		
+25	la	la	DET	DET	n=s|g=f	
+26	Cour	cour	NC	NC	n=s|g=f	
+27	suprême	suprême	ADJ	ADJ	n=s	
+28	ayant	avoir	VPR	VPR	t=G	
+29	avalisé	avaliser	VPP	VPP	n=s|g=m|t=K	
+30	la	la	DET	DET	n=s|g=f	
+31	plainte	plainte	NC	NC	n=s|g=f	
+32	de	de	P	P		
+33	Raj	Raj	NPP	NPP	n=s|g=m	
+34	Narai	_	NPP	NPP		
+35	(	(	PONCT	PONCT		
+36	en	en	P	P		
+37	)	)	PONCT	PONCT		
+38	pour	pour	P	P		
+39	irrégularités	irrégularité	NC	NC	n=p|g=f	
+40	électorales	électoral	ADJ	ADJ	n=p|g=f	
+41	.	.	PONCT	PONCT		
+
+1	Cet	cet	DET	DET	n=s|g=m	
+2	arrêt	arrêt	NC	NC	n=s|g=m	
+3	devait	devoir	V	V	n=s|t=I|p=3	
+4	contraindre	contraindre	VINF	VINF	t=W	
+5	Gandhi	_	NPP	NPP		
+6	à	à	P	P		
+7	la	la	DET	DET	n=s|g=f	
+8	démission	démission	NC	NC	n=s|g=f	
+9	,	,	PONCT	PONCT		
+10	ce	ce	PRO	PRO	n=s	
+11	qui	qui	PROREL	PROREL	n=s	
+12	la	la	CLO	CLO	n=s|g=f|p=3	
+13	pousse	pousser	V	V	n=s|t=P,S|p=1,3	
+14	à	à	P	P		
+15	proclamer	proclamer	VINF	VINF	t=W	
+16	l'	le	DET	DET	n=s	
+17	état	état	NC	NC	n=s|g=m	
+18	d'	de	P	P		
+19	urgence	urgence	NC	NC	n=s|g=f	
+20	,	,	PONCT	PONCT		
+21	dans	dans	P	P		
+22	la	la	DET	DET	n=s|g=f	
+23	nuit	nuit	NC	NC	n=s|g=f	
+24	du	de	P+D	P+D	n=s|g=m	
+25	25	25	ADJ	ADJ		
+26	au	à	P+D	P+D	n=s|g=m	
+27	26	26	ADJ	ADJ		
+28	juin	juin	NC	NC	n=s|g=m	
+29	1975	1975	NC	NC		
+30	.	.	PONCT	PONCT		
+
+1	Faisant	faire	VPR	VPR	t=G	
+2	appel	appel	NC	NC	n=s|g=m	
+3	à	à	P	P		
+4	l'	le	DET	DET	n=s	
+5	article	article	NC	NC	n=s|g=m	
+6	352	352	ADJ	ADJ		
+7	de	de	P	P		
+8	la	la	DET	DET	n=s|g=f	
+9	Constitution	constitution	NC	NC	n=s|g=f	
+10	,	,	PONCT	PONCT		
+11	Indira	Indira	NPP	NPP	n=s|g=f	
+12	Gandhi	_	NPP	NPP		
+13	s'	se	CLR	CLR	n=p,s|p=3	
+14	octroie	octroyer	V	V	n=s|t=P,S|p=1,3	
+15	des	des	DET	DET	n=p	
+16	pouvoirs	pouvoir	NC	NC	n=p|g=m	
+17	dictatoriaux	dictatorial	ADJ	ADJ	n=p|g=m	
+18	et	et	CC	CC		
+19	procède	procéder	V	V	n=s|t=P,S|p=1,3	
+20	à	à	P	P		
+21	une	une	DET	DET	n=s|g=f	
+22	réduction	réduction	NC	NC	n=s|g=f	
+23	massive	massif	ADJ	ADJ	n=s|g=f	
+24	des	de	P+D	P+D	n=p	
+25	libertés	liberté	NC	NC	n=p|g=f	
+26	civiles	civil	ADJ	ADJ	n=p|g=f	
+27	-	-	PONCT	PONCT		
+28	déjà	déjà	ADV	ADV		
+29	initiée	initier	VPP	VPP	n=s|g=f|t=K	
+30	par	par	P	P		
+31	la	la	DET	DET	n=s|g=f	
+32	loi	loi	NC	NC	n=s|g=f	
+33	sur	sur	P	P		
+34	la	la	DET	DET	n=s|g=f	
+35	prévention	prévention	NC	NC	n=s|g=f	
+36	des	de	P+D	P+D	n=p	
+37	activités	activité	NC	NC	n=p|g=f	
+38	illégales	illégal	ADJ	ADJ	n=p|g=f	
+39	de	de	P	P		
+40	décembre	décembre	NC	NC	n=s|g=m	
+41	1967	1967	NC	NC		
+42	-	-	PONCT	PONCT		
+43	et	et	CC	CC		
+44	au	à	P+D	P+D	n=s|g=m	
+45	muselage	muselage	NC	NC	n=s|g=m	
+46	de	de	P	P		
+47	l'	le	DET	DET	n=s	
+48	opposition	opposition	NC	NC	n=s|g=f	
+49	politique	politique	ADJ	ADJ	n=s	
+50	et	et	CC	CC		
+51	de	de	P	P		
+52	la	la	DET	DET	n=s|g=f	
+53	presse	presse	NC	NC	n=s|g=f	
+54	.	.	PONCT	PONCT		
+
+1	Des	des	DET	DET	n=p	
+2	chefs	chef	NC	NC	n=p	
+3	de	de	P	P		
+4	partis	parti	NC	NC	n=p|g=m	
+5	rivaux	rival	NC	NC	n=p|g=m	
+6	sont	être	V	V	n=p|t=P|p=3	
+7	emprisonnés	emprisonner	VPP	VPP	n=p|g=m|t=K	
+8	et	et	CC	CC		
+9	l'	le	DET	DET	n=s	
+10	alimentation	alimentation	NC	NC	n=s|g=f	
+11	en	en	P	P		
+12	électricité	électricité	NC	NC	n=s|g=f	
+13	est	être	V	V	n=s|t=P|p=3	
+14	interrompue	interrompre	VPP	VPP	n=s|g=f|t=K	
+15	dans	dans	P	P		
+16	les	les	DET	DET	n=p	
+17	bureaux	bureau	NC	NC	n=p|g=m	
+18	de	de	P	P		
+19	presse	presse	NC	NC	n=s|g=f	
+20	et	et	CC	CC		
+21	les	les	DET	DET	n=p	
+22	stations	station	NC	NC	n=p|g=f	
+23	de	de	P	P		
+24	télévision	télévision	NC	NC	n=s|g=f	
+25	.	.	PONCT	PONCT		
+
+1	De	de	P	P		
+2	retour	retour	NC	NC	n=s|g=m	
+3	dans	dans	P	P		
+4	la	la	DET	DET	n=s|g=f	
+5	capitale	capitale	NC	NC	n=s|g=f	
+6	,	,	PONCT	PONCT		
+7	la	la	DET	DET	n=s|g=f	
+8	Première	premier	ADJ	ADJ	n=s|g=f	
+9	ministre	ministre	NC	NC	n=s|g=m	
+10	fait	faire	V	V	n=s|t=P|p=3	
+11	voter	voter	VINF	VINF	t=W	
+12	par	par	P	P		
+13	le	le	DET	DET	n=s|g=m	
+14	Parlement	_	NPP	NPP		
+15	une	une	DET	DET	n=s|g=f	
+16	série	série	NC	NC	n=s|g=f	
+17	de	de	P	P		
+18	lois	loi	NC	NC	n=p|g=f	
+19	et	et	CC	CC		
+20	d'	de	P	P		
+21	amendements	amendement	NC	NC	n=p|g=m	
+22	constitutionnels	constitutionnel	ADJ	ADJ	n=p|g=m	
+23	de	de	P	P		
+24	plus	plus	ADV	ADV		
+25	en	en	P	P		
+26	plus	plus	ADV	ADV		
+27	durs	dur	ADJ	ADJ	n=p|g=m	
+28	;	;	PONCT	PONCT		
+29	tous	tout	PRO	PRO	n=p|g=m	
+30	sont	être	V	V	n=p|t=P|p=3	
+31	votés	voter	VPP	VPP	n=p|g=m|t=K	
+32	sans	sans	P	P		
+33	quasiment	_	ADV	ADV		
+34	aucun	aucun	DET	DET	n=s|g=m	
+35	débat	débat	NC	NC	n=s|g=m	
+36	[	[	PONCT	PONCT		
+37	réf	_	NC	NC		
+38	.	.	PONCT	PONCT		
+
+1	nécessaire	nécessaire	ADJ	ADJ	n=s	
+2	]	]	PONCT	PONCT		
+3	.	.	PONCT	PONCT		
+
+1	À	à	P	P		
+2	la	la	DET	DET	n=s|g=f	
+3	suite	suite	NC	NC	n=s|g=f	
+4	d'	de	P	P		
+5	un	un	DET	DET	n=s|g=m	
+6	conflit	conflit	NC	NC	n=s|g=m	
+7	persistant	persistant	ADJ	ADJ	n=s|g=m	
+8	avec	avec	P	P		
+9	la	la	DET	DET	n=s|g=f	
+10	Cour	cour	NC	NC	n=s|g=f	
+11	suprême	suprême	ADJ	ADJ	n=s	
+12	,	,	PONCT	PONCT		
+13	l'	le	DET	DET	n=s	
+14	amendement	amendement	NC	NC	n=s|g=m	
+15	constitutionnel	constitutionnel	ADJ	ADJ	n=s|g=m	
+16	368	368	NC	NC		
+17	,	,	PONCT	PONCT		
+18	promulgué	promulguer	VPP	VPP	n=s|g=m|t=K	
+19	en	en	P	P		
+20	1976	1976	NC	NC		
+21	,	,	PONCT	PONCT		
+22	interdit	interdire	V	V	n=s|t=J,P|p=3	
+23	aux	à	P+D	P+D	n=p	
+24	juridictions	juridiction	NC	NC	n=p|g=f	
+25	de	de	P	P		
+26	déclarer	déclarer	VINF	VINF	t=W	
+27	anticonstitutionnelles	anticonstitutionnel	ADJ	ADJ	n=p|g=f	
+28	des	de	P+D	P+D	n=p	
+29	révisions	révision	NC	NC	n=p|g=f	
+30	constitutionnelles	constitutionnel	ADJ	ADJ	n=p|g=f	
+31	et	et	CC	CC		
+32	réaffirme	réaffirmer	V	V	n=s|t=P,S|p=1,3	
+33	le	le	DET	DET	n=s|g=m	
+34	pouvoir	pouvoir	NC	NC	n=s|g=m	
+35	du	de	P+D	P+D	n=s|g=m	
+36	Parlement	parlement	NC	NC	n=s|g=m	
+37	de	de	P	P		
+38	modifier	modifier	VINF	VINF	t=W	
+39	la	la	DET	DET	n=s|g=f	
+40	Constitution	constitution	NC	NC	n=s|g=f	
+41	(	(	PONCT	PONCT		
+42	avec	avec	P	P		
+43	la	la	DET	DET	n=s|g=f	
+44	majorité	majorité	NC	NC	n=s|g=f	
+45	des	de	P+D	P+D	n=p	
+46	deux	deux	ADJ	ADJ	s=card|n=p	
+47	tiers	tiers	NC	NC	g=m	
+48	)	)	PONCT	PONCT		
+49	.	.	PONCT	PONCT		
+
+1	Aussi	aussi	ADV	ADV		
+2	importantes	important	ADJ	ADJ	n=p|g=f	
+3	que	que	PROREL	PROREL		
+4	sont	être	V	V	n=p|t=P|p=3	
+5	ces	ces	DET	DET	n=p	
+6	réformes	réforme	NC	NC	n=p|g=f	
+7	,	,	PONCT	PONCT		
+8	Indira	Indira	NPP	NPP	n=s|g=f	
+9	Gandhi	_	NPP	NPP		
+10	juge	juger	V	V	n=s|t=P,S|p=1,3	
+11	cependant	cependant	ADV	ADV		
+12	que	que	CS	CS		
+13	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+14	pouvoir	pouvoir	NC	NC	n=s|g=m	
+15	restait	rester	V	V	n=s|t=I|p=3	
+16	insuffisant	insuffisant	ADJ	ADJ	n=s|g=m	
+17	.	.	PONCT	PONCT		
+
+1	C'	ce	CLS	CLS		
+2	est	être	V	V	n=s|t=P|p=3	
+3	alors	alors	ADV	ADV		
+4	qu'	que	CS	CS		
+5	elle	elle	CLS	CLS	n=s|g=f|p=3	
+6	décide	décider	V	V	n=s|t=P,S|p=1,3	
+7	de	de	P	P		
+8	manipuler	manipuler	VINF	VINF	t=W	
+9	le	le	DET	DET	n=s|g=m	
+10	président	président	NC	NC	n=s|g=m	
+11	Ahmed	Ahmed	NPP	NPP	n=s|g=m	
+12	en	en	P	P		
+13	le	le	DET	DET	n=s|g=m	
+14	contraignant	contraindre	VPR	VPR	t=G	
+15	à	à	P	P		
+16	promulguer	promulguer	VINF	VINF	t=W	
+17	des	des	DET	DET	n=p	
+18	lois	loi	NC	NC	n=p|g=f	
+19	d'	de	P	P		
+20	exception	exception	NC	NC	n=s|g=f	
+21	sans	sans	P	P		
+22	l'	le	DET	DET	n=s	
+23	aval	aval	NC	NC	n=s|g=m	
+24	du	de	P+D	P+D	n=s|g=m	
+25	Parlement	parlement	NC	NC	n=s|g=m	
+26	,	,	PONCT	PONCT		
+27	ce	ce	PRO	PRO	n=s	
+28	qui	qui	PROREL	PROREL	n=s	
+29	lui	lui	CLO	CLO	n=s|p=3	
+30	permettait	permettre	V	V	n=s|t=I|p=3	
+31	de	de	P	P		
+32	gouverner	gouverner	VINF	VINF	t=W	
+33	par	par	P	P		
+34	décret	décret	NC	NC	n=s|g=m	
+35	.	.	PONCT	PONCT		
+
+1	Cette	cette	DET	DET	n=s|g=f	
+2	période	période	NC	NC	n=s	
+3	dictatoriale	dictatorial	ADJ	ADJ	n=s|g=f	
+4	dure	durer	V	V	n=s|t=P,S|p=1,3	
+5	presque	presque	ADV	ADV		
+6	deux	deux	DET	DET	s=card|n=p	
+7	années	année	NC	NC	n=p|g=f	
+8	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	est	être	V	V	n=s|t=P|p=3	
+3	marquée	marquer	VPP	VPP	n=s|g=f|t=K	
+4	par	par	P	P		
+5	l'	le	DET	DET	n=s	
+6	ascension	ascension	NC	NC	n=s|g=f	
+7	politique	politique	ADJ	ADJ	n=s	
+8	fulgurante	fulgurant	ADJ	ADJ	n=s|g=f	
+9	du	de	P+D	P+D	n=s|g=m	
+10	fils	fils	NC	NC	g=m	
+11	cadet	cadet	ADJ	ADJ	n=s|g=m	
+12	de	de	P	P		
+13	la	la	DET	DET	n=s|g=f	
+14	Première	premier	ADJ	ADJ	n=s|g=f	
+15	ministre	ministre	NC	NC	n=s|g=m	
+16	,	,	PONCT	PONCT		
+17	Sanjay	Sanjay	NPP	NPP	n=s|g=m	
+18	Gandhi	_	NPP	NPP		
+19	,	,	PONCT	PONCT		
+20	qui	qui	PROREL	PROREL	n=s	
+21	bien	bien	ADV	ADV		
+22	que	que	CS	CS		
+23	ne	ne	ADV	ADV		
+24	disposant	disposer	VPR	VPR	t=G	
+25	d'	de	P	P		
+26	aucun	aucun	DET	DET	n=s|g=m	
+27	mandat	mandat	NC	NC	n=s|g=m	
+28	électif	électif	ADJ	ADJ	n=s|g=m	
+29	,	,	PONCT	PONCT		
+30	voit	voir	V	V	n=s|t=P|p=3	
+31	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+32	influence	influence	NC	NC	n=s|g=f	
+33	s'	se	CLR	CLR	n=p,s|p=3	
+34	accroître	accroître	VINF	VINF	t=W	
+35	de	de	P	P		
+36	manière	manière	NC	NC	n=s|g=f	
+37	importante	important	ADJ	ADJ	n=s|g=f	
+38	,	,	PONCT	PONCT		
+39	jouant	jouer	VPR	VPR	t=G	
+40	un	un	DET	DET	n=s|g=m	
+41	rôle	rôle	NC	NC	n=s|g=m	
+42	de	de	P	P		
+43	premier	premier	ADJ	ADJ	n=s|g=m	
+44	plan	plan	NC	NC	n=s|g=m	
+45	dans	dans	P	P		
+46	les	les	DET	DET	n=p	
+47	arrestations	arrestation	NC	NC	n=p|g=f	
+48	d'	de	P	P		
+49	opposants	opposant	NC	NC	n=p|g=m	
+50	et	et	CC	CC		
+51	les	les	DET	DET	n=p	
+52	campagnes	campagne	NC	NC	n=p|g=f	
+53	controversées	controverser	VPP	VPP	n=p|g=f|t=K	
+54	de	de	P	P		
+55	stérilisations	stérilisation	NC	NC	n=p|g=f	
+56	[	[	PONCT	PONCT		
+57	48	48	NC	NC		
+58	]	]	PONCT	PONCT		
+59	.	.	PONCT	PONCT		
+
+1	7	7	ADJ	ADJ		
+2	millions	million	NC	NC	n=p	
+3	de	de	P	P		
+4	vasectomies	vasectomie	NC	NC	n=p|g=f	
+5	auraient	avoir	V	V	n=p|t=C|p=3	
+6	été	être	VPP	VPP	t=K	
+7	pratiquées	pratiquer	VPP	VPP	n=p|g=f|t=K	
+8	en	en	P	P		
+9	1976	1976	NC	NC		
+10	[	[	PONCT	PONCT		
+11	49	49	NC	NC		
+12	]	]	PONCT	PONCT		
+13	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	campagne	campagne	NC	NC	n=s|g=f	
+3	de	de	P	P		
+4	stérilisation	stérilisation	NC	NC	n=s|g=f	
+5	est	être	V	V	n=s|t=P|p=3	
+6	encouragée	encourager	VPP	VPP	n=s|g=f|t=K	
+7	par	par	P	P		
+8	la	la	DET	DET	n=s|g=f	
+9	Banque	banque	NC	NC	n=s|g=f	
+10	mondiale	mondial	ADJ	ADJ	n=s|g=f	
+11	,	,	PONCT	PONCT		
+12	l'	le	DET	DET	n=s	
+13	autorité	autorité	NC	NC	n=s|g=f	
+14	de	de	P	P		
+15	développement	développement	NC	NC	n=s|g=m	
+16	international	international	ADJ	ADJ	n=s|g=m	
+17	suédoise	suédois	ADJ	ADJ	n=s|g=f	
+18	(	(	PONCT	PONCT		
+19	en	en	P	P		
+20	)	)	PONCT	PONCT		
+21	et	et	CC	CC		
+22	le	le	DET	DET	n=s|g=m	
+23	fonds	fonds	NC	NC	g=m	
+24	pour	pour	P	P		
+25	la	la	DET	DET	n=s|g=f	
+26	population	population	NC	NC	n=s|g=f	
+27	des	de	P+D	P+D	n=p	
+28	Nations	nation	NC	NC	n=p|g=f	
+29	unies	unir	VPP	VPP	n=p|g=f|t=K	
+30	par	par	P	P		
+31	des	des	DET	DET	n=p	
+32	dizaines	dizaine	NC	NC	n=p|g=f	
+33	de	de	P	P		
+34	millions	million	NC	NC	n=p	
+35	de	de	P	P		
+36	dollars	dollar	NC	NC	n=p|g=m	
+37	[	[	PONCT	PONCT		
+38	50	50	NC	NC		
+39	]	]	PONCT	PONCT		
+40	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	1977	1977	NC	NC		
+3	,	,	PONCT	PONCT		
+4	méjugeant	méjuger	VPR	VPR	t=G	
+5	considérablement	_	ADV	ADV		
+6	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+7	popularité	popularité	NC	NC	n=s|g=f	
+8	,	,	PONCT	PONCT		
+9	Indira	Indira	NPP	NPP	n=s|g=f	
+10	Gandhi	_	NPP	NPP		
+11	organise	organiser	V	V	n=s|t=P,S|p=1,3	
+12	de	de	DET	DET	n=p	
+13	nouvelles	nouveau	ADJ	ADJ	n=p|g=f	
+14	élections	élection	NC	NC	n=p|g=f	
+15	qui	qui	PROREL	PROREL	n=s	
+16	entraînent	entraîner	V	V	n=p|t=P,S|p=3	
+17	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+18	chute	chute	NC	NC	n=s|g=f	
+19	.	.	PONCT	PONCT		
+
+1	Vaincue	vaincre	VPP	VPP	n=s|g=f|t=K	
+2	dans	dans	P	P		
+3	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+4	propre	propre	ADJ	ADJ	n=s	
+5	circonscription	circonscription	NC	NC	n=s|g=f	
+6	,	,	PONCT	PONCT		
+7	elle	elle	CLS	CLS	n=s|g=f|p=3	
+8	accepte	accepter	V	V	n=s|t=P,S|p=1,3	
+9	alors	alors	ADV	ADV		
+10	cette	cette	DET	DET	n=s|g=f	
+11	défaite	défaite	NC	NC	n=s|g=f	
+12	.	.	PONCT	PONCT		
+
+1	Arrêtée	arrêter	VPP	VPP	n=s|g=f|t=K	
+2	et	et	CC	CC		
+3	jugée	juger	VPP	VPP	n=s|g=f|t=K	
+4	par	par	P	P		
+5	le	le	DET	DET	n=s|g=m	
+6	gouvernement	gouvernement	NC	NC	n=s|g=m	
+7	du	de	P+D	P+D	n=s|g=m	
+8	Janata	_	NPP	NPP		
+9	Dal	_	NPP	NPP		
+10	qui	qui	PROREL	PROREL	n=s	
+11	met	mettre	V	V	n=s|t=P|p=3	
+12	fin	fin	NC	NC	n=s	
+13	à	à	P	P		
+14	l'	le	DET	DET	n=s	
+15	état	état	NC	NC	n=s|g=m	
+16	d'	de	P	P		
+17	urgence	urgence	NC	NC	n=s|g=f	
+18	,	,	PONCT	PONCT		
+19	elle	elle	CLS	CLS	n=s|g=f|p=3	
+20	se	se	CLR	CLR	n=p,s|p=3	
+21	pose	poser	V	V	n=s|t=P,S|p=1,3	
+22	en	en	P	P		
+23	victime	victime	NC	NC	n=s|g=f	
+24	du	de	P+D	P+D	n=s|g=m	
+25	nouveau	nouveau	ADJ	ADJ	n=s|g=m	
+26	pouvoir	pouvoir	NC	NC	n=s|g=m	
+27	et	et	CC	CC		
+28	retrouve	retrouver	V	V	n=s|t=P,S|p=1,3	
+29	une	une	DET	DET	n=s|g=f	
+30	forte	fort	ADJ	ADJ	n=s|g=f	
+31	popularité	popularité	NC	NC	n=s|g=f	
+32	qui	qui	PROREL	PROREL	n=s	
+33	,	,	PONCT	PONCT		
+34	face	face	NC	NC	n=s|g=f	
+35	aux	à	P+D	P+D	n=p	
+36	dissensions	dissension	NC	NC	n=p|g=f	
+37	des	de	P+D	P+D	n=p	
+38	nouveaux	nouveau	ADJ	ADJ	n=p|g=m	
+39	dirigeants	dirigeant	NC	NC	n=p|g=m	
+40	du	de	P+D	P+D	n=s|g=m	
+41	pays	pays	NC	NC	g=m	
+42	,	,	PONCT	PONCT		
+43	la	la	CLO	CLO	n=s|g=f|p=3	
+44	conforte	conforter	V	V	n=s|t=P,S|p=1,3	
+45	comme	comme	P	P		
+46	la	la	DET	DET	n=s|g=f	
+47	représentante	représentant	NC	NC	n=s|g=f	
+48	de	de	P	P		
+49	l'	le	DET	DET	n=s	
+50	opposition	opposition	NC	NC	n=s|g=f	
+51	et	et	CC	CC		
+52	la	la	CLO	CLO	n=s|g=f|p=3	
+53	ramène	ramener	V	V	n=s|t=P,S|p=1,3	
+54	de	de	DET	DET	n=p	
+55	nouveau	nouveau	ADJ	ADJ	n=s|g=m	
+56	au	à	P+D	P+D	n=s|g=m	
+57	pouvoir	pouvoir	NC	NC	n=s|g=m	
+58	lors	lors	ADV	ADV		
+59	des	de	P+D	P+D	n=p	
+60	élections	élection	NC	NC	n=p|g=f	
+61	de	de	P	P		
+62	1980	1980	NC	NC		
+63	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	exerce	exercer	V	V	n=s|t=P,S|p=1,3	
+3	alors	alors	ADV	ADV		
+4	un	un	DET	DET	n=s|g=m	
+5	mandat	mandat	NC	NC	n=s|g=m	
+6	beaucoup	beaucoup	ADV	ADV		
+7	moins	moins	ADV	ADV		
+8	autoritaire	autoritaire	ADJ	ADJ	n=s	
+9	mais	mais	CC	CC		
+10	Sanjay	Sanjay	NPP	NPP	n=s|g=m	
+11	Gandhi	_	NPP	NPP		
+12	continue	continuer	V	V	n=s|t=P,S|p=1,3	
+13	à	à	P	P		
+14	jouer	jouer	VINF	VINF	t=W	
+15	auprès	auprès	ADV	ADV		
+16	d'	de	P	P		
+17	elle	elle	PRO	PRO	n=s|g=f|p=3	
+18	un	un	DET	DET	n=s|g=m	
+19	rôle	rôle	NC	NC	n=s|g=m	
+20	prépondérant	prépondérant	ADJ	ADJ	n=s|g=m	
+21	et	et	CC	CC		
+22	fait	faire	V	V	n=s|t=P|p=3	
+23	figure	figure	NC	NC	n=s|g=f	
+24	de	de	P	P		
+25	dauphin	dauphin	NC	NC	n=s|g=m	
+26	désigné	désigner	VPP	VPP	n=s|g=m|t=K	
+27	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	disparition	disparition	NC	NC	n=s|g=f	
+3	de	de	P	P		
+4	ce	ce	DET	DET	n=s|g=m	
+5	dernier	dernier	ADJ	ADJ	n=s|g=m	
+6	dans	dans	P	P		
+7	un	un	DET	DET	n=s|g=m	
+8	accident	accident	NC	NC	n=s|g=m	
+9	d'	de	P	P		
+10	avion	avion	NC	NC	n=s|g=m	
+11	en	en	P	P		
+12	juin	juin	NC	NC	n=s|g=m	
+13	1980	1980	NC	NC		
+14	la	la	CLO	CLO	n=s|g=f|p=3	
+15	déstabilise	déstabiliser	V	V	n=s|t=P,S|p=1,3	
+16	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	pousse	pousser	V	V	n=s|t=P,S|p=1,3	
+3	alors	alors	ADV	ADV		
+4	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+5	fils	fils	NC	NC	g=m	
+6	aîné	aîné	ADJ	ADJ	n=s|g=m	
+7	Rajiv	Rajiv	NPP	NPP	n=s|g=m	
+8	à	à	P	P		
+9	l'	le	CLO	CLO	n=s|p=3	
+10	assister	assister	VINF	VINF	t=W	
+11	et	et	CC	CC		
+12	à	à	P	P		
+13	entamer	entamer	VINF	VINF	t=W	
+14	une	une	DET	DET	n=s|g=f	
+15	carrière	carrière	NC	NC	n=s|g=f	
+16	politique	politique	ADJ	ADJ	n=s	
+17	,	,	PONCT	PONCT		
+18	devenant	devenir	VPR	VPR	t=G	
+19	ainsi	ainsi	ADV	ADV		
+20	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+21	nouvel	_	ADJ	ADJ		
+22	héritier	héritier	NC	NC	n=s|g=m	
+23	politique	politique	ADJ	ADJ	n=s	
+24	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	donne	donner	V	V	n=s|t=P,S|p=1,3	
+3	désormais	désormais	ADV	ADV		
+4	à	à	P	P		
+5	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+6	politique	politique	NC	NC	n=s|g=f	
+7	économique	économique	ADJ	ADJ	n=s	
+8	une	une	DET	DET	n=s|g=f	
+9	certaine	certain	ADJ	ADJ	n=s|g=f	
+10	inflexion	inflexion	NC	NC	n=s|g=f	
+11	vers	vers	P	P		
+12	le	le	DET	DET	n=s|g=m	
+13	libéralisme	libéralisme	NC	NC	n=s|g=m	
+14	.	.	PONCT	PONCT		
+
+1	À	à	P	P		
+2	ce	ce	DET	DET	n=s|g=m	
+3	jour	jour	NC	NC	n=s|g=m	
+4	,	,	PONCT	PONCT		
+5	le	le	DET	DET	n=s|g=m	
+6	bilan	bilan	NC	NC	n=s|g=m	
+7	d'	de	P	P		
+8	Indira	Indira	NPP	NPP	n=s|g=f	
+9	Gandhi	_	NPP	NPP		
+10	en	en	P	P		
+11	tant	tant	ADV	ADV		
+12	que	que	CS	CS		
+13	Première	premier	ADJ	ADJ	n=s|g=f	
+14	ministre	ministre	NC	NC	n=s|g=m	
+15	reste	rester	V	V	n=s|t=P,S|p=1,3	
+16	contrasté	contraster	VPP	VPP	n=s|g=m|t=K	
+17	.	.	PONCT	PONCT		
+
+1	Bien	bien	ADV	ADV		
+2	qu'	que	CS	CS		
+3	elle	elle	CLS	CLS	n=s|g=f|p=3	
+4	ait	avoir	VS	VS	n=s|t=S|p=3	
+5	eu	avoir	VPP	VPP	n=s|g=m|t=K	
+6	une	une	DET	DET	n=s|g=f	
+7	personnalité	personnalité	NC	NC	n=s|g=f	
+8	forte	fort	ADJ	ADJ	n=s|g=f	
+9	et	et	CC	CC		
+10	que	que	CS	CS		
+11	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+12	gouvernance	gouvernance	NC	NC	n=s|g=f	
+13	ait	avoir	VS	VS	n=s|t=S|p=3	
+14	été	être	VPP	VPP	t=K	
+15	populaire	populaire	ADJ	ADJ	n=s	
+16	auprès	auprès	ADV	ADV		
+17	de	de	P	P		
+18	certaines	certain	DET	DET	n=p|g=f	
+19	catégories	catégorie	NC	NC	n=p|g=f	
+20	de	de	P	P		
+21	la	la	DET	DET	n=s|g=f	
+22	population	population	NC	NC	n=s|g=f	
+23	de	de	P	P		
+24	l'	le	DET	DET	n=s	
+25	Inde	Inde	NPP	NPP	n=s|g=f	
+26	,	,	PONCT	PONCT		
+27	en	en	P	P		
+28	particulier	particulier	NC	NC	n=s|g=m	
+29	chez	chez	P	P		
+30	les	les	DET	DET	n=p	
+31	jeunes	jeune	NC	NC	n=p	
+32	et	et	CC	CC		
+33	les	les	DET	DET	n=p	
+34	pauvres	pauvre	ADJ	ADJ	n=p	
+35	,	,	PONCT	PONCT		
+36	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+37	décision	décision	NC	NC	n=s|g=f	
+38	de	de	P	P		
+39	déclarer	déclarer	VINF	VINF	t=W	
+40	l'	le	DET	DET	n=s	
+41	état	état	NC	NC	n=s|g=m	
+42	d'	de	P	P		
+43	urgence	urgence	NC	NC	n=s|g=f	
+44	dans	dans	P	P		
+45	le	le	DET	DET	n=s|g=m	
+46	but	but	NC	NC	n=s|g=m	
+47	d'	de	P	P		
+48	échapper	échapper	VINF	VINF	t=W	
+49	aux	à	P+D	P+D	n=p	
+50	poursuites	poursuite	NC	NC	n=p|g=f	
+51	reste	rester	V	V	n=s|t=P,S|p=1,3	
+52	controversée	controverser	VPP	VPP	n=s|g=f|t=K	
+53	.	.	PONCT	PONCT		
+
+1	Pendant	pendant	P	P		
+2	les	les	DET	DET	n=p	
+3	dernières	dernier	ADJ	ADJ	n=p|g=f	
+4	années	année	NC	NC	n=p|g=f	
+5	de	de	P	P		
+6	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+7	vie	vie	NC	NC	n=s|g=f	
+8	,	,	PONCT	PONCT		
+9	Indira	Indira	NPP	NPP	n=s|g=f	
+10	Gandhi	_	NPP	NPP		
+11	est	être	V	V	n=s|t=P|p=3	
+12	confrontée	confronter	VPP	VPP	n=s|g=f|t=K	
+13	à	à	P	P		
+14	la	la	DET	DET	n=s|g=f	
+15	popularité	popularité	NC	NC	n=s|g=f	
+16	grandissante	grandissant	ADJ	ADJ	n=s|g=f	
+17	d'	de	P	P		
+18	un	un	DET	DET	n=s|g=m	
+19	chef	chef	NC	NC	n=s	
+20	fondamentaliste	fondamentaliste	ADJ	ADJ	n=s	
+21	et	et	CC	CC		
+22	missionnaire	missionnaire	NC	NC	n=s	
+23	sikh	sikh	ADJ	ADJ	n=s|g=m	
+24	,	,	PONCT	PONCT		
+25	Jarnail	_	NPP	NPP		
+26	Singh	_	NPP	NPP		
+27	Bhindranwale	_	NPP	NPP		
+28	,	,	PONCT	PONCT		
+29	et	et	CC	CC		
+30	de	de	P	P		
+31	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+32	message	message	NC	NC	n=s|g=m	
+33	prônant	prôner	VPR	VPR	t=G	
+34	une	une	DET	DET	n=s|g=f	
+35	communauté	communauté	NC	NC	n=s|g=f	
+36	sikh	sikh	ADJ	ADJ	n=s|g=m	
+37	souveraine	souverain	ADJ	ADJ	n=s|g=f	
+38	et	et	CC	CC		
+39	autonome	autonome	ADJ	ADJ	n=s	
+40	.	.	PONCT	PONCT		
+
+1	Indira	Indira	NPP	NPP	n=s|g=f	
+2	Gandhi	_	NPP	NPP		
+3	travaille	travailler	V	V	n=s|t=P,S|p=1,3	
+4	alors	alors	ADV	ADV		
+5	à	à	P	P		
+6	propager	propager	VINF	VINF	t=W	
+7	une	une	DET	DET	n=s|g=f	
+8	image	image	NC	NC	n=s|g=f	
+9	négative	négatif	ADJ	ADJ	n=s|g=f	
+10	de	de	P	P		
+11	Bhindranwale	_	NPP	NPP		
+12	et	et	CC	CC		
+13	à	à	P	P		
+14	imposer	imposer	VINF	VINF	t=W	
+15	à	à	P	P		
+16	la	la	DET	DET	n=s|g=f	
+17	communauté	communauté	NC	NC	n=s|g=f	
+18	sikh	sikh	ADJ	ADJ	n=s|g=m	
+19	le	le	DET	DET	n=s|g=m	
+20	calme	calme	NC	NC	n=s|g=m	
+21	et	et	CC	CC		
+22	l'	le	DET	DET	n=s	
+23	obéissance	obéissance	NC	NC	n=s|g=f	
+24	sans	sans	P	P		
+25	porter	porter	VINF	VINF	t=W	
+26	aucun	aucun	DET	DET	n=s|g=m	
+27	intérêt	intérêt	NC	NC	n=s|g=m	
+28	à	à	P	P		
+29	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+30	aspiration	aspiration	NC	NC	n=s|g=f	
+31	à	à	P	P		
+32	l'	le	DET	DET	n=s	
+33	autonomie	autonomie	NC	NC	n=s|g=f	
+34	.	.	PONCT	PONCT		
+
+1	Par	par	P	P		
+2	la	la	DET	DET	n=s|g=f	
+3	suite	suite	NC	NC	n=s|g=f	
+4	,	,	PONCT	PONCT		
+5	en	en	P	P		
+6	juin	juin	NC	NC	n=s|g=m	
+7	1984	1984	NC	NC		
+8	,	,	PONCT	PONCT		
+9	l'	le	DET	DET	n=s	
+10	opération	opération	NC	NC	n=s|g=f	
+11	Bluestar	_	NPP	NPP		
+12	,	,	PONCT	PONCT		
+13	organisée	organiser	VPP	VPP	n=s|g=f|t=K	
+14	de	de	P	P		
+15	longue	long	ADJ	ADJ	n=s|g=f	
+16	date	date	NC	NC	n=s|g=f	
+17	,	,	PONCT	PONCT		
+18	est	être	V	V	n=s|t=P|p=3	
+19	déclenchée	déclencher	VPP	VPP	n=s|g=f|t=K	
+20	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	armée	armée	NC	NC	n=s|g=f	
+3	indienne	indien	ADJ	ADJ	n=s|g=f	
+4	passe	passer	V	V	n=s|t=P,S|p=1,3	
+5	outre	outre	P	P		
+6	le	le	DET	DET	n=s|g=m	
+7	caractère	caractère	NC	NC	n=s|g=m	
+8	sacré	sacrer	ADJ	ADJ	n=s|g=m|t=K	
+9	du	de	P+D	P+D	n=s|g=m	
+10	Temple	Temple	NPP	NPP	n=s	
+11	d'	de	P	P		
+12	Or	_	NPP	NPP		
+13	à	à	P	P		
+14	Amritsar	_	NPP	NPP		
+15	,	,	PONCT	PONCT		
+16	le	le	DET	DET	n=s|g=m	
+17	lieu	lieu	NC	NC	n=s|g=m	
+18	de	de	P	P		
+19	prière	prière	NC	NC	n=s|g=f	
+20	principal	principal	ADJ	ADJ	n=s|g=m	
+21	des	de	P+D	P+D	n=p	
+22	sikhs	sikh	NC	NC	n=p|g=m	
+23	[	[	PONCT	PONCT		
+24	51	51	NC	NC		
+25	]	]	PONCT	PONCT		
+26	.	.	PONCT	PONCT		
+
+1	Sous	sous	P	P		
+2	les	les	DET	DET	n=p	
+3	ordres	ordre	NC	NC	n=p|g=m	
+4	de	de	P	P		
+5	Jarnail	_	NPP	NPP		
+6	Singh	_	NPP	NPP		
+7	,	,	PONCT	PONCT		
+8	les	les	DET	DET	n=p	
+9	militants	militant	NC	NC	n=p|g=m	
+10	armés	armer	VPP	VPP	n=p|g=m|t=K	
+11	,	,	PONCT	PONCT		
+12	qui	qui	PROREL	PROREL	n=s	
+13	s'	se	CLR	CLR	n=p,s|p=3	
+14	y	y	CLO	CLO		
+15	étaient	être	V	V	n=p|t=I|p=3	
+16	réfugiés	réfugier	VPP	VPP	n=p|g=m|t=K	
+17	,	,	PONCT	PONCT		
+18	sont	être	V	V	n=p|t=P|p=3	
+19	massacrés	massacrer	VPP	VPP	n=p|g=m|t=K	
+20	en	en	P	P		
+21	même	même	ADJ	ADJ	n=s	
+22	temps	temps	NC	NC	g=m	
+23	que	que	CS	CS		
+24	des	des	DET	DET	n=p	
+25	milliers	millier	NC	NC	n=p|g=m	
+26	d'	de	P	P		
+27	autres	autre	ADJ	ADJ	n=p	
+28	personnes	personne	NC	NC	n=p|g=f	
+29	.	.	PONCT	PONCT		
+
+1	Indira	Indira	NPP	NPP	n=s|g=f	
+2	Gandhi	_	NPP	NPP		
+3	met	mettre	V	V	n=s|t=P|p=3	
+4	en	en	P	P		
+5	avant	avant	P	P		
+6	le	le	DET	DET	n=s|g=m	
+7	caractère	caractère	NC	NC	n=s|g=m	
+8	guerrier	guerrier	ADJ	ADJ	n=s|g=m	
+9	traditionnel	traditionnel	ADJ	ADJ	n=s|g=m	
+10	des	de	P+D	P+D	n=p	
+11	sikhs	sikh	NC	NC	n=p|g=m	
+12	et	et	CC	CC		
+13	leur	leur	DET	DET	n=s|p=3|poss=p	
+14	aspiration	aspiration	NC	NC	n=s|g=f	
+15	sécessionniste	sécessionniste	ADJ	ADJ	n=s	
+16	afin	_	ADV	ADV		
+17	de	de	P	P		
+18	faire	faire	VINF	VINF	t=W	
+19	accepter	accepter	VINF	VINF	t=W	
+20	par	par	P	P		
+21	l'	le	DET	DET	n=s	
+22	opinion	opinion	NC	NC	n=s|g=f	
+23	publique	public	ADJ	ADJ	n=s|g=f	
+24	le	le	DET	DET	n=s|g=m	
+25	fait	fait	NC	NC	n=s|g=m	
+26	que	que	CS	CS		
+27	l'	le	DET	DET	n=s	
+28	opération	opération	NC	NC	n=s|g=f	
+29	était	être	V	V	n=s|t=I|p=3	
+30	inévitable	inévitable	ADJ	ADJ	n=s	
+31	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	30	30	ADJ	ADJ		
+3	octobre	octobre	NC	NC	n=s|g=m	
+4	1984	1984	NC	NC		
+5	,	,	PONCT	PONCT		
+6	elle	elle	CLS	CLS	n=s|g=f|p=3	
+7	déclare	déclarer	V	V	n=s|t=P,S|p=1,3	
+8	dans	dans	P	P		
+9	un	un	DET	DET	n=s|g=m	
+10	discours	discours	NC	NC	g=m	
+11	:	:	PONCT	PONCT		
+12	"	"	PONCT	PONCT		
+13	Si	si	CS	CS		
+14	je	je	CLS	CLS	n=s|p=1	
+15	dois	devoir	V	V	n=s|t=P|p=1,2	
+16	mourir	mourir	VINF	VINF	t=W	
+17	au	à	P+D	P+D	n=s|g=m	
+18	service	service	NC	NC	n=s|g=m	
+19	de	de	P	P		
+20	la	la	DET	DET	n=s|g=f	
+21	nation	nation	NC	NC	n=s|g=f	
+22	,	,	PONCT	PONCT		
+23	je	je	CLS	CLS	n=s|p=1	
+24	le	le	CLO	CLO	n=s|g=m|p=3	
+25	ferai	faire	V	V	n=s|t=F|p=1	
+26	avec	avec	P	P		
+27	fierté	fierté	NC	NC	n=s|g=f	
+28	[	[	PONCT	PONCT		
+29	52	52	NC	NC		
+30	]	]	PONCT	PONCT		
+31	"	"	PONCT	PONCT		
+32	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	31	31	ADJ	ADJ		
+3	octobre	octobre	NC	NC	n=s|g=m	
+4	1984	1984	NC	NC		
+5	,	,	PONCT	PONCT		
+6	elle	elle	CLS	CLS	n=s|g=f|p=3	
+7	est	être	V	V	n=s|t=P|p=3	
+8	assassinée	assassiner	VPP	VPP	n=s|g=f|t=K	
+9	par	par	P	P		
+10	ses	ses	DET	DET	n=p|p=3|poss=s	
+11	deux	deux	ADJ	ADJ	s=card|n=p	
+12	gardes	garde	NC	NC	n=p	
+13	du	de	P+D	P+D	n=s|g=m	
+14	corps	corps	NC	NC	g=m	
+15	sikhs	sikh	ADJ	ADJ	n=p|g=m	
+16	,	,	PONCT	PONCT		
+17	Satwant	_	NPP	NPP		
+18	Singh	_	NPP	NPP		
+19	(	(	PONCT	PONCT		
+20	en	en	P	P		
+21	)	)	PONCT	PONCT		
+22	et	et	CC	CC		
+23	Beant	_	NPP	NPP		
+24	Singh	_	NPP	NPP		
+25	(	(	PONCT	PONCT		
+26	en	en	P	P		
+27	)	)	PONCT	PONCT		
+28	.	.	PONCT	PONCT		
+
+1	Son	son	DET	DET	n=s|g=m|p=3|poss=s	
+2	corps	corps	NC	NC	g=m	
+3	,	,	PONCT	PONCT		
+4	criblé	cribler	VPP	VPP	n=s|g=m|t=K	
+5	d'	de	P	P		
+6	au	à	P+D	P+D	n=s|g=m	
+7	moins	moins	ADV	ADV		
+8	trente	trente	DET	DET	s=card|n=p	
+9	balles	balle	NC	NC	n=p|g=f	
+10	issues	issir	VPP	VPP	n=p|g=f|t=K	
+11	d'	de	P	P		
+12	un	un	DET	DET	n=s|g=m	
+13	pistolet	pistolet	NC	NC	n=s|g=m	
+14	et	et	CC	CC		
+15	d'	de	P	P		
+16	un	un	DET	DET	n=s|g=m	
+17	Sten	Sten	NPP	NPP	n=s|g=m	
+18	,	,	PONCT	PONCT		
+19	subit	subir	V	V	n=s|t=J,P|p=3	
+20	en	en	P	P		
+21	vain	vain	ADJ	ADJ	n=s|g=m	
+22	une	une	DET	DET	n=s|g=f	
+23	opération	opération	NC	NC	n=s|g=f	
+24	chirurgicale	chirurgical	ADJ	ADJ	n=s|g=f	
+25	au	à	P+D	P+D	n=s|g=m	
+26	All	_	NC	NC		
+27	India	India	NPP	NPP	n=s|g=f	
+28	Institute	_	NPP	NPP		
+29	of	_	NPP	NPP		
+30	Medical	_	NPP	NPP		
+31	Sciences	_	NPP	NPP		
+32	(	(	PONCT	PONCT		
+33	en	en	P	P		
+34	)	)	PONCT	PONCT		
+35	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	s'	se	CLR	CLR	n=p,s|p=3	
+3	ensuit	ensuivre	V	V	n=s|t=P|p=3	
+4	plusieurs	plusieurs	DET	DET	n=p	
+5	jours	jour	NC	NC	n=p|g=m	
+6	d'	de	P	P		
+7	émeutes	émeute	NC	NC	n=p|g=f	
+8	et	et	CC	CC		
+9	de	de	P	P		
+10	troubles	trouble	NC	NC	n=p	
+11	à	à	P	P		
+12	l'	le	DET	DET	n=s	
+13	encontre	encontre	NC	NC	n=s|g=f	
+14	de	de	P	P		
+15	la	la	DET	DET	n=s|g=f	
+16	communauté	communauté	NC	NC	n=s|g=f	
+17	sikhe	sikh	ADJ	ADJ	n=s|g=f	
+18	,	,	PONCT	PONCT		
+19	faisant	faire	VPR	VPR	t=G	
+20	plusieurs	plusieurs	DET	DET	n=p	
+21	centaines	centaine	NC	NC	n=p|g=f	
+22	de	de	P	P		
+23	morts	mort	NC	NC	n=p|g=f,m	
+24	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	3	3	ADJ	ADJ		
+3	novembre	novembre	NC	NC	n=s|g=m	
+4	,	,	PONCT	PONCT		
+5	environ	environ	ADV	ADV		
+6	un_million	un_million	ADV	ADV		
+7	d'	de	P	P		
+8	Indiens	_	NPP	NPP		
+9	assistent	assister	V	V	n=p|t=P,S|p=3	
+10	à	à	P	P		
+11	la	la	DET	DET	n=s|g=f	
+12	cérémonie	cérémonie	NC	NC	n=s|g=f	
+13	funéraire	funéraire	ADJ	ADJ	n=s	
+14	d'	de	P	P		
+15	Indira	Indira	NPP	NPP	n=s|g=f	
+16	Gandhi	_	NPP	NPP		
+17	près	près	ADV	ADV		
+18	de	de	P	P		
+19	Raj	Raj	NPP	NPP	n=s|g=m	
+20	Ghat	_	NPP	NPP		
+21	selon	selon	P	P		
+22	le	le	DET	DET	n=s|g=m	
+23	rite	rite	NC	NC	n=s|g=m	
+24	hindou	hindou	ADJ	ADJ	n=s|g=m	
+25	,	,	PONCT	PONCT		
+26	en	en	P	P		
+27	présence	présence	NC	NC	n=s|g=f	
+28	de	de	P	P		
+29	représentants	représentant	NC	NC	n=p|g=m	
+30	de	de	P	P		
+31	nombreux	nombreux	ADJ	ADJ	g=m	
+32	pays	pays	NC	NC	g=m	
+33	[	[	PONCT	PONCT		
+34	51	51	NC	NC		
+35	]	]	PONCT	PONCT		
+36	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	deuil	deuil	NC	NC	n=s|g=m	
+3	officiel	officiel	ADJ	ADJ	n=s|g=m	
+4	dure	dur	ADJ	ADJ	n=s|g=f	
+5	12	12	ADJ	ADJ		
+6	jours	jour	NC	NC	n=p|g=m	
+7	et	et	CC	CC		
+8	le	le	DET	DET	n=s|g=m	
+9	retour	retour	NC	NC	n=s|g=m	
+10	au	à	P+D	P+D	n=s|g=m	
+11	calme	calme	NC	NC	n=s|g=m	
+12	est	être	V	V	n=s|t=P|p=3	
+13	progressif	progressif	ADJ	ADJ	n=s|g=m	
+14	mais	mais	CC	CC		
+15	émaillé	émailler	VPP	VPP	n=s|g=m|t=K	
+16	d'	de	P	P		
+17	incidents	incident	NC	NC	n=p|g=m	
+18	,	,	PONCT	PONCT		
+19	notamment	_	ADV	ADV		
+20	à	à	P	P		
+21	l'	le	DET	DET	n=s	
+22	occasion	occasion	NC	NC	n=s|g=f	
+23	du	de	P+D	P+D	n=s|g=m	
+24	515e	_	ADJ	ADJ		
+25	anniversaire	anniversaire	NC	NC	n=s|g=m	
+26	de	de	P	P		
+27	la	la	DET	DET	n=s|g=f	
+28	naissance	naissance	NC	NC	n=s|g=f	
+29	du	de	P+D	P+D	n=s|g=m	
+30	maître	maître	NC	NC	n=s|g=m	
+31	fondateur	fondateur	NC	NC	n=s|g=m	
+32	de	de	P	P		
+33	la	la	DET	DET	n=s|g=f	
+34	religion	religion	NC	NC	n=s|g=f	
+35	sikhe	sikh	ADJ	ADJ	n=s|g=f	
+36	,	,	PONCT	PONCT		
+37	Gurû	_	NPP	NPP		
+38	Nanak	_	NPP	NPP		
+39	,	,	PONCT	PONCT		
+40	le	le	DET	DET	n=s|g=m	
+41	8	8	ADJ	ADJ		
+42	novembre	novembre	NC	NC	n=s|g=m	
+43	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	11	11	ADJ	ADJ		
+3	novembre	novembre	NC	NC	n=s|g=m	
+4	,	,	PONCT	PONCT		
+5	le	le	DET	DET	n=s|g=m	
+6	nouveau	nouveau	ADJ	ADJ	n=s|g=m	
+7	Premier	premier	ADJ	ADJ	n=s|g=m	
+8	ministre	ministre	NC	NC	n=s|g=m	
+9	Rajiv	Rajiv	NPP	NPP	n=s|g=m	
+10	Gandhi	_	NPP	NPP		
+11	,	,	PONCT	PONCT		
+12	fils	fils	NC	NC	g=m	
+13	d'	de	P	P		
+14	Indira	Indira	NPP	NPP	n=s|g=f	
+15	,	,	PONCT	PONCT		
+16	disperse	disperser	V	V	n=s|t=P,S|p=1,3	
+17	depuis	depuis	P	P		
+18	un	un	DET	DET	n=s|g=m	
+19	avion	avion	NC	NC	n=s|g=m	
+20	les	les	DET	DET	n=p	
+21	cendres	cendre	NC	NC	n=p|g=f	
+22	de	de	P	P		
+23	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+24	mère	mère	NC	NC	n=s|g=f	
+25	au	à	P+D	P+D	n=s|g=m	
+26	-	-	PONCT	PONCT		
+27	dessus	dessus	P	P		
+28	de	de	P	P		
+29	l'	le	DET	DET	n=s	
+30	Himalaya	_	NPP	NPP		
+31	,	,	PONCT	PONCT		
+32	là	là	ADV	ADV		
+33	où	où	PROREL	PROREL		
+34	le	le	DET	DET	n=s|g=m	
+35	Gange	Gange	NPP	NPP	n=s|g=m	
+36	prend	prendre	V	V	n=s|t=P|p=3	
+37	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+38	source	source	NC	NC	n=s|g=f	
+39	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	22	22	ADJ	ADJ		
+3	janvier	janvier	NC	NC	n=s|g=m	
+4	1986	1986	NC	NC		
+5	,	,	PONCT	PONCT		
+6	le	le	DET	DET	n=s|g=m	
+7	garde	garde	NC	NC	n=s	
+8	du	de	P+D	P+D	n=s|g=m	
+9	corps	corps	NC	NC	g=m	
+10	Satwant	_	NPP	NPP		
+11	Singh	_	NPP	NPP		
+12	et	et	CC	CC		
+13	un	un	DET	DET	n=s|g=m	
+14	conspirateur	conspirateur	NC	NC	n=s|g=m	
+15	,	,	PONCT	PONCT		
+16	Kehar	_	NPP	NPP		
+17	Singh	_	NPP	NPP		
+18	(	(	PONCT	PONCT		
+19	en	en	P	P		
+20	)	)	PONCT	PONCT		
+21	,	,	PONCT	PONCT		
+22	sont	être	V	V	n=p|t=P|p=3	
+23	condamnés	condamner	VPP	VPP	n=p|g=m|t=K	
+24	à	à	P	P		
+25	mort	mort	NC	NC	n=s|g=f,m	
+26	à	à	P	P		
+27	New	_	NPP	NPP		
+28	Delhi	_	NPP	NPP		
+29	pour	pour	P	P		
+30	le	le	DET	DET	n=s|g=m	
+31	meurtre	meurtre	NC	NC	n=s|g=m	
+32	d'	de	P	P		
+33	Indira	Indira	NPP	NPP	n=s|g=f	
+34	Gandhi	_	NPP	NPP		
+35	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	autre	autre	ADJ	ADJ	n=s	
+3	garde	garde	NC	NC	n=s	
+4	du	de	P+D	P+D	n=s|g=m	
+5	corps	corps	NC	NC	g=m	
+6	,	,	PONCT	PONCT		
+7	Beant	_	NPP	NPP		
+8	Singh	_	NPP	NPP		
+9	,	,	PONCT	PONCT		
+10	oncle	oncle	NC	NC	n=s|g=m	
+11	de	de	P	P		
+12	Kehar	_	NPP	NPP		
+13	Singh	_	NPP	NPP		
+14	,	,	PONCT	PONCT		
+15	avait	avoir	V	V	n=s|t=I|p=3	
+16	été	être	VPP	VPP	t=K	
+17	abattu	abattre	VPP	VPP	n=s|g=m|t=K	
+18	peu	peu	ADV	ADV		
+19	après	après	P	P		
+20	l'	le	DET	DET	n=s	
+21	assassinat	assassinat	NC	NC	n=s|g=m	
+22	.	.	PONCT	PONCT		
+
+1	À	à	P	P		
+2	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+3	arrivée	arrivée	NC	NC	n=s|g=f	
+4	au	à	P+D	P+D	n=s|g=m	
+5	pouvoir	pouvoir	NC	NC	n=s|g=m	
+6	,	,	PONCT	PONCT		
+7	Indira	Indira	NPP	NPP	n=s|g=f	
+8	Gandhi	_	NPP	NPP		
+9	confirme	confirmer	V	V	n=s|t=P,S|p=1,3	
+10	la	la	DET	DET	n=s|g=f	
+11	déclaration	déclaration	NC	NC	n=s|g=f	
+12	de	de	P	P		
+13	Tachkent	Tachkent	NPP	NPP	n=s|g=m	
+14	signée	signer	VPP	VPP	n=s|g=f|t=K	
+15	par	par	P	P		
+16	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+17	prédécesseur	prédécesseur	NC	NC	n=s|g=m	
+18	et	et	CC	CC		
+19	s'	se	CLR	CLR	n=p,s|p=3	
+20	inscrit	inscrire	V	V	n=s|t=P|p=3	
+21	dans	dans	P	P		
+22	la	la	DET	DET	n=s|g=f	
+23	politique	politique	NC	NC	n=s|g=f	
+24	nehruvienne	_	ADJ	ADJ		
+25	de	de	P	P		
+26	non	non	ADV	ADV		
+27	-	-	PONCT	PONCT		
+28	alignement	alignement	NC	NC	n=s|g=m	
+29	dont	dont	PROREL	PROREL		
+30	elle	elle	CLS	CLS	n=s|g=f|p=3	
+31	devient	devenir	V	V	n=s|t=P|p=3	
+32	un	un	PRO	PRO	n=s|g=m	
+33	des	de	P+D	P+D	n=p	
+34	représentants	représentant	NC	NC	n=p|g=m	
+35	,	,	PONCT	PONCT		
+36	aux	à	P+D	P+D	n=p	
+37	côtés	côté	NC	NC	n=p|g=m	
+38	de	de	P	P		
+39	Gamal	Gamal	NPP	NPP	n=s	
+40	Abdel	Abdel	NPP	NPP	n=s|g=m	
+41	Nasser	_	NPP	NPP		
+42	et	et	CC	CC		
+43	Josip	Josip	NPP	NPP	n=s|g=m	
+44	Broz	_	NPP	NPP		
+45	Tito	Tito	NPP	NPP	n=s|g=m	
+46	.	.	PONCT	PONCT		
+
+1	Pragmatique	pragmatique	ADJ	ADJ	n=s	
+2	,	,	PONCT	PONCT		
+3	elle	elle	CLS	CLS	n=s|g=f|p=3	
+4	signe	signer	V	V	n=s|t=P,S|p=1,3	
+5	néanmoins	néanmoins	ADV	ADV		
+6	le	le	DET	DET	n=s|g=m	
+7	9	9	ADJ	ADJ		
+8	août	août	NC	NC	n=s|g=m	
+9	1971	1971	NC	NC		
+10	avec	avec	P	P		
+11	l'	le	DET	DET	n=s	
+12	URSS	Union_des_Républiques_Socialistes_Soviétiques	NPP	NPP	n=s|g=f	
+13	un	un	DET	DET	n=s|g=m	
+14	traité	traité	NC	NC	n=s|g=m	
+15	d'	de	P	P		
+16	amitié	amitié	NC	NC	n=s|g=f	
+17	,	,	PONCT	PONCT		
+18	de	de	P	P		
+19	paix	paix	NC	NC	g=f	
+20	et	et	CC	CC		
+21	de	de	P	P		
+22	coopération	coopération	NC	NC	n=s|g=f	
+23	qui	qui	PROREL	PROREL	n=s	
+24	,	,	PONCT	PONCT		
+25	bien	bien	ADV	ADV		
+26	que	que	CS	CS		
+27	n'	ne	ADV	ADV		
+28	étant	être	VPR	VPR	t=G	
+29	pas	pas	ADV	ADV		
+30	une	une	DET	DET	n=s|g=f	
+31	alliance	alliance	NC	NC	n=s|g=f	
+32	militaire	militaire	ADJ	ADJ	n=s	
+33	,	,	PONCT	PONCT		
+34	a	avoir	V	V	n=s|t=P|p=3	
+35	pour	pour	P	P		
+36	but	but	NC	NC	n=s|g=m	
+37	de	de	P	P		
+38	contrer	contrer	VINF	VINF	t=W	
+39	le	le	DET	DET	n=s|g=m	
+40	rapprochement	rapprochement	NC	NC	n=s|g=m	
+41	de	de	P	P		
+42	la	la	DET	DET	n=s|g=f	
+43	Chine	Chine	NPP	NPP	n=s|g=f	
+44	et	et	CC	CC		
+45	du	de	P+D	P+D	n=s|g=m	
+46	Pakistan	Pakistan	NPP	NPP	n=s|g=m	
+47	avec	avec	P	P		
+48	les	les	DET	DET	n=p	
+49	États	État	NC	NC	n=p|g=m	
+50	-	-	PONCT	PONCT		
+51	Unis	uni	NC	NC	n=p|g=m	
+52	de	de	P	P		
+53	Richard	Richard	NPP	NPP	n=s|g=m	
+54	Nixon	_	NPP	NPP		
+55	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	mène	mener	V	V	n=s|t=P,S|p=1,3	
+3	en	en	P	P		
+4	1971	1971	NC	NC		
+5	une	une	DET	DET	n=s|g=f	
+6	guerre	guerre	NC	NC	n=s|g=f	
+7	victorieuse	victorieux	ADJ	ADJ	n=s|g=f	
+8	contre	contre	P	P		
+9	le	le	DET	DET	n=s|g=m	
+10	Pakistan	Pakistan	NPP	NPP	n=s|g=m	
+11	aux	à	P+D	P+D	n=p	
+12	côtés	côté	NC	NC	n=p|g=m	
+13	des	de	P+D	P+D	n=p	
+14	indépendantistes	indépendantiste	ADJ	ADJ	n=p	
+15	du	de	P+D	P+D	n=s|g=m	
+16	Bengale	Bengale	NPP	NPP	n=s|g=m	
+17	oriental	oriental	ADJ	ADJ	n=s|g=m	
+18	,	,	PONCT	PONCT		
+19	groupés	grouper	VPP	VPP	n=p|g=m|t=K	
+20	autour	autour	NC	NC	n=s|g=m	
+21	de	de	P	P		
+22	la	la	DET	DET	n=s|g=f	
+23	ligue	ligue	NC	NC	n=s|g=f	
+24	Awami	_	NPP	NPP		
+25	de	de	P	P		
+26	Mujibur	_	NPP	NPP		
+27	Rahman	_	NPP	NPP		
+28	,	,	PONCT	PONCT		
+29	et	et	CC	CC		
+30	qui	qui	PROREL	PROREL	n=s	
+31	aboutit	aboutir	V	V	n=s|t=J,P|p=3	
+32	à	à	P	P		
+33	l'	le	DET	DET	n=s	
+34	indépendance	indépendance	NC	NC	n=s|g=f	
+35	du	de	P+D	P+D	n=s|g=m	
+36	Bangladesh	Bangladesh	NPP	NPP	n=s|g=m	
+37	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	accords	accord	NC	NC	n=p|g=m	
+3	de	de	P	P		
+4	(	(	PONCT	PONCT		
+5	en	en	P	P		
+6	)	)	PONCT	PONCT		
+7	Simla	_	NPP	NPP		
+8	en	en	P	P		
+9	1972	1972	NC	NC		
+10	avec	avec	P	P		
+11	Zulfikar	_	NPP	NPP		
+12	Ali	Ali	NPP	NPP	n=s|g=m	
+13	Bhutto	_	NPP	NPP		
+14	consacrent	consacrer	V	V	n=p|t=P,S|p=3	
+15	alors	alors	ADV	ADV		
+16	la	la	DET	DET	n=s|g=f	
+17	prédominance	prédominance	NC	NC	n=s|g=f	
+18	de	de	P	P		
+19	l'	le	DET	DET	n=s	
+20	Inde	Inde	NPP	NPP	n=s|g=f	
+21	dans	dans	P	P		
+22	la	la	DET	DET	n=s|g=f	
+23	région	région	NC	NC	n=s|g=f	
+24	tandis	tandis	P	P		
+25	qu'	que	PROREL	PROREL		
+26	Indira	Indira	NPP	NPP	n=s|g=f	
+27	Gandhi	_	NPP	NPP		
+28	fait	faire	V	V	n=s|t=P|p=3	
+29	de	de	P	P		
+30	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+31	pays	pays	NC	NC	g=m	
+32	la	la	DET	DET	n=s|g=f	
+33	première	premier	ADJ	ADJ	n=s|g=f	
+34	puissance	puissance	NC	NC	n=s|g=f	
+35	nucléaire	nucléaire	ADJ	ADJ	n=s	
+36	du	de	P+D	P+D	n=s|g=m	
+37	tiers	tiers	NC	NC	g=m	
+38	monde	monde	NC	NC	n=s|g=m	
+39	en	en	P	P		
+40	1974	1974	NC	NC		
+41	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	1975	1975	NC	NC		
+3	,	,	PONCT	PONCT		
+4	elle	elle	CLS	CLS	n=s|g=f|p=3	
+5	fait	faire	V	V	n=s|t=P|p=3	
+6	du	de	P+D	P+D	n=s|g=m	
+7	Sikkim	_	NPP	NPP		
+8	le	le	DET	DET	n=s|g=m	
+9	22e	_	ADJ	ADJ		
+10	État	État	NC	NC	n=s|g=m	
+11	de	de	P	P		
+12	l'	le	DET	DET	n=s	
+13	Union	union	NC	NC	n=s|g=f	
+14	indienne	indien	ADJ	ADJ	n=s|g=f	
+15	.	.	PONCT	PONCT		
+
+1	Après	après	P	P		
+2	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+3	retour	retour	NC	NC	n=s|g=m	
+4	au	à	P+D	P+D	n=s|g=m	
+5	pouvoir	pouvoir	NC	NC	n=s|g=m	
+6	en	en	P	P		
+7	1980	1980	NC	NC		
+8	,	,	PONCT	PONCT		
+9	elle	elle	CLS	CLS	n=s|g=f|p=3	
+10	opte	opter	V	V	n=s|t=P,S|p=1,3	
+11	pour	pour	P	P		
+12	un	un	DET	DET	n=s|g=m	
+13	recentrage	recentrage	NC	NC	n=s|g=m	
+14	diplomatique	diplomatique	ADJ	ADJ	n=s	
+15	à	à	P	P		
+16	l'	le	DET	DET	n=s	
+17	égard	égard	NC	NC	n=s|g=m	
+18	des	de	P+D	P+D	n=p	
+19	deux	deux	ADJ	ADJ	s=card|n=p	
+20	Grands	grand	ADJ	ADJ	n=p|g=m	
+21	.	.	PONCT	PONCT		
+
+1	À	à	P	P		
+2	la	la	DET	DET	n=s|g=f	
+3	tête	tête	NC	NC	n=s|g=f	
+4	du	de	P+D	P+D	n=s|g=m	
+5	Mouvement	mouvement	NC	NC	n=s|g=m	
+6	des	de	P+D	P+D	n=p	
+7	non	non	ADV	ADV		
+8	-	-	PONCT	PONCT		
+9	alignés	aligner	VPP	VPP	n=p|g=m|t=K	
+10	en	en	P	P		
+11	1983	1983	NC	NC		
+12	,	,	PONCT	PONCT		
+13	elle	elle	CLS	CLS	n=s|g=f|p=3	
+14	occupe	occuper	V	V	n=s|t=P,S|p=1,3	
+15	à	à	P	P		
+16	la	la	DET	DET	n=s|g=f	
+17	fin	fin	NC	NC	n=s	
+18	de	de	P	P		
+19	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+20	vie	vie	NC	NC	n=s|g=f	
+21	une	une	DET	DET	n=s|g=f	
+22	place	place	NC	NC	n=s|g=f	
+23	prépondérante	prépondérant	ADJ	ADJ	n=s|g=f	
+24	au	à	P+D	P+D	n=s|g=m	
+25	sein	sein	NC	NC	n=s|g=m	
+26	des	de	P+D	P+D	n=p	
+27	pays	pays	NC	NC	g=m	
+28	du	de	P+D	P+D	n=s|g=m	
+29	Sud	_	NPP	NPP		
+30	dont	dont	PROREL	PROREL		
+31	elle	elle	CLS	CLS	n=s|g=f|p=3	
+32	est	être	V	V	n=s|t=P|p=3	
+33	l'	le	DET	DET	n=s	
+34	une	un	PRO	PRO	n=s|g=f	
+35	des	de	P+D	P+D	n=p	
+36	porte	porter	V	V	n=s|t=P,S|p=1,3	
+37	-	-	PONCT	PONCT		
+38	paroles	parole	NC	NC	n=p|g=f	
+39	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	deux	deux	ADJ	ADJ	s=card|n=p	
+3	fils	fils	NC	NC	g=m	
+4	d'	de	P	P		
+5	Indira	Indira	NPP	NPP	n=s|g=f	
+6	Gandhi	_	NPP	NPP		
+7	,	,	PONCT	PONCT		
+8	Sanjay	Sanjay	NPP	NPP	n=s|g=m	
+9	Gandhi	_	NPP	NPP		
+10	et	et	CC	CC		
+11	Rajiv	Rajiv	NPP	NPP	n=s|g=m	
+12	Gandhi	_	NPP	NPP		
+13	,	,	PONCT	PONCT		
+14	menaient	mener	V	V	n=p|t=I|p=3	
+15	aussi	aussi	ADV	ADV		
+16	une	une	DET	DET	n=s|g=f	
+17	carrière	carrière	NC	NC	n=s|g=f	
+18	politique	politique	ADJ	ADJ	n=s	
+19	.	.	PONCT	PONCT		
+
+1	Sanjay	Sanjay	NPP	NPP	n=s|g=m	
+2	Gandhi	_	NPP	NPP		
+3	mourut	mourir	V	V	n=s|t=J|p=3	
+4	en	en	P	P		
+5	1980	1980	NC	NC		
+6	dans	dans	P	P		
+7	un	un	DET	DET	n=s|g=m	
+8	accident	accident	NC	NC	n=s|g=m	
+9	d'	de	P	P		
+10	avion	avion	NC	NC	n=s|g=m	
+11	,	,	PONCT	PONCT		
+12	en	en	P	P		
+13	ratant	rater	VPR	VPR	t=G	
+14	une	une	DET	DET	n=s|g=f	
+15	acrobatie	acrobatie	NC	NC	n=s|g=f	
+16	aérienne	aérien	ADJ	ADJ	n=s|g=f	
+17	.	.	PONCT	PONCT		
+
+1	Rajiv	Rajiv	NPP	NPP	n=s|g=m	
+2	Gandhi	_	NPP	NPP		
+3	est	être	V	V	n=s|t=P|p=3	
+4	nommé	nommer	VPP	VPP	n=s|g=m|t=K	
+5	Premier	premier	ADJ	ADJ	n=s|g=m	
+6	ministre	ministre	NC	NC	n=s|g=m	
+7	à	à	P	P		
+8	la	la	DET	DET	n=s|g=f	
+9	mort	mort	NC	NC	n=s|g=f,m	
+10	de	de	P	P		
+11	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+12	mère	mère	NC	NC	n=s|g=f	
+13	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	démissionne	démissionner	V	V	n=s|t=P,S|p=1,3	
+3	de	de	P	P		
+4	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+5	poste	poste	NC	NC	n=s	
+6	en	en	P	P		
+7	1989	1989	NC	NC		
+8	et	et	CC	CC		
+9	sera	être	V	V	n=s|t=F|p=3	
+10	assassiné	assassiner	VPP	VPP	n=s|g=m|t=K	
+11	par	par	P	P		
+12	une	une	DET	DET	n=s|g=f	
+13	femme	femme	NC	NC	n=s|g=f	
+14	kamikaze	kamikaze	NC	NC	n=s	
+15	du	de	P+D	P+D	n=s|g=m	
+16	LTTE	_	NPP	NPP		
+17	près	près	ADV	ADV		
+18	de	de	P	P		
+19	Chennai	_	NPP	NPP		
+20	,	,	PONCT	PONCT		
+21	en	en	P	P		
+22	1991	1991	NC	NC		
+23	.	.	PONCT	PONCT		
+
+1	Sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+2	veuve	veuve	NC	NC	n=s|g=f	
+3	,	,	PONCT	PONCT		
+4	belle	beau	ADJ	ADJ	n=s|g=f	
+5	-	-	PONCT	PONCT		
+6	fille	fille	NC	NC	n=s|g=f	
+7	d'	de	P	P		
+8	Indira	Indira	NPP	NPP	n=s|g=f	
+9	,	,	PONCT	PONCT		
+10	Sonia	Sonia	NPP	NPP	n=s|g=f	
+11	Gandhi	_	NPP	NPP		
+12	,	,	PONCT	PONCT		
+13	après	après	P	P		
+14	s'	se	CLR	CLR	n=p,s|p=3	
+15	être	être	VINF	VINF	t=W	
+16	longtemps	longtemps	ADV	ADV		
+17	tenue	tenir	VPP	VPP	n=s|g=f|t=K	
+18	à	à	P	P		
+19	l'	le	DET	DET	n=s	
+20	écart	écart	NC	NC	n=s|g=m	
+21	de	de	P	P		
+22	la	la	DET	DET	n=s|g=f	
+23	politique	politique	NC	NC	n=s|g=f	
+24	,	,	PONCT	PONCT		
+25	a	avoir	V	V	n=s|t=P|p=3	
+26	pris	prendre	VPP	VPP	g=m|t=K	
+27	la	la	DET	DET	n=s|g=f	
+28	tête	tête	NC	NC	n=s|g=f	
+29	du	de	P+D	P+D	n=s|g=m	
+30	Congrès	congrès	NC	NC	g=m	
+31	en	en	P	P		
+32	1998	1998	NC	NC		
+33	.	.	PONCT	PONCT		
+
+1	Son	son	DET	DET	n=s|g=m|p=3|poss=s	
+2	fils	fils	NC	NC	g=m	
+3	,	,	PONCT	PONCT		
+4	Rahul	Rahul	NPP	NPP	n=s|g=m	
+5	Gandhi	_	NPP	NPP		
+6	,	,	PONCT	PONCT		
+7	et	et	CC	CC		
+8	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+9	fille	fille	NC	NC	n=s|g=f	
+10	Priyanka	_	NPP	NPP		
+11	Gandhi	_	NPP	NPP		
+12	,	,	PONCT	PONCT		
+13	petits	petit	ADJ	ADJ	n=p|g=m	
+14	-	-	PONCT	PONCT		
+15	enfants	enfant	NC	NC	n=p	
+16	d'	de	P	P		
+17	Indira	Indira	NPP	NPP	n=s|g=f	
+18	,	,	PONCT	PONCT		
+19	font	faire	V	V	n=p|t=P|p=3	
+20	également	_	ADV	ADV		
+21	de	de	P	P		
+22	la	la	DET	DET	n=s|g=f	
+23	politique	politique	NC	NC	n=s|g=f	
+24	.	.	PONCT	PONCT		
+
+1	Indira	Indira	NPP	NPP	n=s|g=f	
+2	Gandhi	_	NPP	NPP		
+3	a	avoir	V	V	n=s|t=P|p=3	
+4	reçu	recevoir	VPP	VPP	n=s|g=m|t=K	
+5	le	le	DET	DET	n=s|g=m	
+6	Bharat	Bharat	NPP	NPP	n=s|g=m	
+7	Ratna	_	NPP	NPP		
+8	en	en	P	P		
+9	1971	1971	NC	NC		
+10	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	Inde	Inde	NPP	NPP	n=s|g=f	
+3	,	,	PONCT	PONCT		
+4	énormément	_	ADV	ADV		
+5	d'	de	P	P		
+6	établissements	établissement	NC	NC	n=p|g=m	
+7	portent	porter	V	V	n=p|t=P,S|p=3	
+8	le	le	DET	DET	n=s|g=m	
+9	nom	nom	NC	NC	n=s|g=m	
+10	de	de	P	P		
+11	l'	le	DET	DET	n=s	
+12	ancienne	ancien	ADJ	ADJ	n=s|g=f	
+13	Première	premier	ADJ	ADJ	n=s|g=f	
+14	ministre	ministre	NC	NC	n=s|g=m	
+15	,	,	PONCT	PONCT		
+16	notamment	_	ADV	ADV		
+17	l'	le	DET	DET	n=s	
+18	aéroport	aéroport	NC	NC	n=s|g=m	
+19	international	international	ADJ	ADJ	n=s|g=m	
+20	Indira	Indira	NPP	NPP	n=s|g=f	
+21	Gandhi	_	NPP	NPP		
+22	,	,	PONCT	PONCT		
+23	le	le	DET	DET	n=s|g=m	
+24	Centre	Centre	NPP	NPP	n=s|g=m	
+25	national	national	ADJ	ADJ	n=s|g=m	
+26	Indira	Indira	NPP	NPP	n=s|g=f	
+27	Gandhi	_	NPP	NPP		
+28	pour	pour	P	P		
+29	les	les	DET	DET	n=p	
+30	Arts	_	NPP	NPP		
+31	(	(	PONCT	PONCT		
+32	en	en	P	P		
+33	)	)	PONCT	PONCT		
+34	à	à	P	P		
+35	Delhi	_	NPP	NPP		
+36	ou	ou	CC	CC		
+37	le	le	DET	DET	n=s|g=m	
+38	parc	parc	NC	NC	n=s|g=m	
+39	national	national	ADJ	ADJ	n=s|g=m	
+40	Indira	Indira	NPP	NPP	n=s|g=f	
+41	Gandhi	_	NPP	NPP		
+42	au	à	P+D	P+D	n=s|g=m	
+43	Tamil	_	NPP	NPP		
+44	Nadu	_	NPP	NPP		
+45	.	.	PONCT	PONCT		
+
+1	Sur	sur	P	P		
+2	les	les	DET	DET	n=p	
+3	autres	autre	ADJ	ADJ	n=p	
+4	projets	projet	NC	NC	n=p|g=m	
+5	Wikimedia	_	NPP	NPP		
+6	:	:	PONCT	PONCT		
+

@@ -1,0 +1,3597 @@
+1	Les	les	DET	DET	n=p	
+2	éléphants	éléphant	NC	NC	n=p|g=m	
+3	sont	être	V	V	n=p|t=P|p=3	
+4	les	les	DET	DET	n=p	
+5	plus	plus	ADV	ADV		
+6	grands	grand	ADJ	ADJ	n=p|g=m	
+7	animaux	animal	NC	NC	n=p|g=m	
+8	terrestres	terrestre	ADJ	ADJ	n=p	
+9	vivant	vivre	VPR	VPR	t=G	
+10	actuellement	_	ADV	ADV		
+11	:	:	PONCT	PONCT		
+12	l'	le	DET	DET	n=s	
+13	éléphant	éléphant	NC	NC	n=s|g=m	
+14	d'	de	P	P		
+15	Afrique	Afrique	NPP	NPP	n=s|g=f	
+16	mesure	mesurer	V	V	n=s|t=P,S|p=1,3	
+17	en	en	P	P		
+18	moyenne	moyenne	NC	NC	n=s|g=f	
+19	4	4	ADJ	ADJ		
+20	mètres	mètre	NC	NC	n=p|g=m	
+21	de	de	P	P		
+22	haut	haut	NC	NC	n=s|g=m	
+23	(	(	PONCT	PONCT		
+24	à	à	P	P		
+25	l'	le	DET	DET	n=s	
+26	épaule	épaule	NC	NC	n=s|g=f	
+27	)	)	PONCT	PONCT		
+28	et	et	CC	CC		
+29	pèse	peser	V	V	n=s|t=P,S|p=1,3	
+30	environ	environ	ADV	ADV		
+31	6	6	ADJ	ADJ		
+32	tonnes	tonne	NC	NC	n=p|g=f	
+33	,	,	PONCT	PONCT		
+34	pour	pour	P	P		
+35	le	le	DET	DET	n=s|g=m	
+36	mâle	mâle	NC	NC	n=s|g=m	
+37	(	(	PONCT	PONCT		
+38	contre	contre	P	P		
+39	4	4	VINF	VINF		
+40	chez	chez	P	P		
+41	la	la	DET	DET	n=s|g=f	
+42	femelle	femelle	NC	NC	n=s|g=f	
+43	)	)	PONCT	PONCT		
+44	.	.	PONCT	PONCT		
+
+1	Ce	ce	CLS	CLS		
+2	sont	être	V	V	n=p|t=P|p=3	
+3	des	des	DET	DET	n=p	
+4	mammifères	mammifère	NC	NC	n=p|g=m	
+5	herbivores	herbivore	ADJ	ADJ	n=p	
+6	à	à	P	P		
+7	la	la	DET	DET	n=s|g=f	
+8	peau	peau	NC	NC	n=s|g=f	
+9	très	très	ADV	ADV		
+10	épaisse	épais	ADJ	ADJ	n=s|g=f	
+11	.	.	PONCT	PONCT		
+
+1	C'	ce	CLS	CLS		
+2	est	être	V	V	n=s|t=P|p=3	
+3	pour	pour	P	P		
+4	cela	cela	PRO	PRO	n=s|g=m	
+5	qu'	que	PROREL	PROREL		
+6	ils	ils	CLS	CLS	n=p|g=m|p=3	
+7	sont	être	V	V	n=p|t=P|p=3	
+8	aussi	aussi	ADV	ADV		
+9	appelés	appeler	VPP	VPP	n=p|g=m|t=K	
+10	pachydermes	pachyderme	NC	NC	n=p|g=m	
+11	,	,	PONCT	PONCT		
+12	(	(	PONCT	PONCT		
+13	pachy	_	NPP	NPP		
+14	-	-	PONCT	PONCT		
+15	signifiant	signifier	VPR	VPR	t=G	
+16	épais	épais	ADV	ADV		
+17	en	en	P	P		
+18	grec	grec	NC	NC	n=s|g=m	
+19	et	et	CC	CC		
+20	-	-	PONCT	PONCT		
+21	derme	derme	NC	NC	n=s|g=m	
+22	la	la	DET	DET	n=s|g=f	
+23	peau	peau	NC	NC	n=s|g=f	
+24	)	)	PONCT	PONCT		
+25	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	femelle	femelle	NC	NC	n=s|g=f	
+3	ne	ne	ADV	ADV		
+4	donne	donner	V	V	n=s|t=P,S|p=1,3	
+5	naissance	naissance	NC	NC	n=s|g=f	
+6	qu'	que	CS	CS		
+7	à	à	P	P		
+8	un	un	DET	DET	n=s|g=m	
+9	seul	seul	ADJ	ADJ	n=s|g=m	
+10	petit	petit	ADJ	ADJ	n=s|g=m	
+11	à	à	P	P		
+12	la	la	DET	DET	n=s|g=f	
+13	fois	fois	NC	NC	g=f	
+14	,	,	PONCT	PONCT		
+15	après	après	P	P		
+16	l'	le	CLO	CLO	n=s|p=3	
+17	avoir	avoir	VINF	VINF	t=W	
+18	gardé	garder	VPP	VPP	n=s|g=m|t=K	
+19	dans	dans	P	P		
+20	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+21	ventre	ventre	NC	NC	n=s|g=m	
+22	pendant	pendant	P	P		
+23	22	22	ADJ	ADJ		
+24	mois	mois	NC	NC	g=m	
+25	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	entend	entendre	V	V	n=s|t=P|p=3	
+3	très	très	ADV	ADV		
+4	bien	bien	ADV	ADV		
+5	grâce	grâce	NC	NC	n=s|g=f	
+6	à	à	P	P		
+7	ses	ses	DET	DET	n=p|p=3|poss=s	
+8	grandes	grand	ADJ	ADJ	n=p|g=f	
+9	oreilles	oreille	NC	NC	n=p|g=f	
+10	,	,	PONCT	PONCT		
+11	a	avoir	V	V	n=s|t=P|p=3	
+12	un	un	DET	DET	n=s|g=m	
+13	bon	bon	ADJ	ADJ	n=s|g=m	
+14	odorat	odorat	NC	NC	n=s|g=m	
+15	avec	avec	P	P		
+16	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+17	trompe	trompe	NC	NC	n=s|g=f	
+18	,	,	PONCT	PONCT		
+19	mais	mais	CC	CC		
+20	la	la	DET	DET	n=s|g=f	
+21	vue	vue	NC	NC	n=s|g=f	
+22	est	être	V	V	n=s|t=P|p=3	
+23	assez	assez	ADV	ADV		
+24	faible	faible	ADJ	ADJ	n=s	
+25	avec	avec	P	P		
+26	ses	ses	DET	DET	n=p|p=3|poss=s	
+27	petits	petit	ADJ	ADJ	n=p|g=m	
+28	yeux	oeil	NC	NC	n=p|g=m	
+29	.	.	PONCT	PONCT		
+
+1	Son	son	DET	DET	n=s|g=m|p=3|poss=s	
+2	cri	cri	NC	NC	n=s|g=m	
+3	s'	se	CLR	CLR	n=p,s|p=3	
+4	appelle	appeler	V	V	n=s|t=P,S|p=1,3	
+5	le	le	DET	DET	n=s|g=m	
+6	barrissement	barrissement	NC	NC	n=s|g=m	
+7	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	existe	exister	V	V	n=s|t=P,S|p=1,3	
+3	deux	deux	DET	DET	s=card|n=p	
+4	espèces	espèce	NC	NC	n=p|g=f	
+5	d'	de	P	P		
+6	éléphant1	_	NC	NC		
+7	:	:	PONCT	PONCT		
+8	l'	le	DET	DET	n=s	
+9	éléphant	éléphant	NC	NC	n=s|g=m	
+10	d'	de	P	P		
+11	Asie	Asie	NPP	NPP	n=s|g=f	
+12	,	,	PONCT	PONCT		
+13	l'	le	DET	DET	n=s	
+14	éléphant	éléphant	NC	NC	n=s|g=m	
+15	de	de	P	P		
+16	savane	savane	NC	NC	n=s|g=f	
+17	d'	de	P	P		
+18	Afrique	Afrique	NPP	NPP	n=s|g=f	
+19	,	,	PONCT	PONCT		
+20	et	et	CC	CC		
+21	l'	le	DET	DET	n=s	
+22	éléphant	éléphant	NC	NC	n=s|g=m	
+23	de	de	P	P		
+24	forêt	forêt	NC	NC	n=s|g=f	
+25	d'	de	P	P		
+26	Afrique	Afrique	NPP	NPP	n=s|g=f	
+27	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	deux	deux	ADJ	ADJ	s=card|n=p	
+3	espèces	espèce	NC	NC	n=p|g=f	
+4	d'	de	P	P		
+5	éléphants	éléphant	NC	NC	n=p|g=m	
+6	d'	de	P	P		
+7	Afrique	Afrique	NPP	NPP	n=s|g=f	
+8	ont	avoir	V	V	n=p|t=P|p=3	
+9	longtemps	longtemps	ADV	ADV		
+10	été	être	VPP	VPP	t=K	
+11	considérées	considérer	VPP	VPP	n=p|g=f|t=K	
+12	comme	comme	P	P		
+13	une	une	DET	DET	n=s|g=f	
+14	seule	seul	ADJ	ADJ	n=s|g=f	
+15	.	.	PONCT	PONCT		
+
+1	Une	une	DET	DET	n=s|g=f	
+2	étude	étude	NC	NC	n=s|g=f	
+3	scientifique	scientifique	ADJ	ADJ	n=s	
+4	a	avoir	V	V	n=s|t=P|p=3	
+5	prouvé	prouver	VPP	VPP	n=s|g=m|t=K	
+6	la	la	DET	DET	n=s|g=f	
+7	séparation	séparation	NC	NC	n=s|g=f	
+8	des	de	P+D	P+D	n=p	
+9	deux	deux	ADJ	ADJ	s=card|n=p	
+10	espèces	espèce	NC	NC	n=p|g=f	
+11	il	il	CLS	CLS	n=s|g=m|p=3	
+12	y	y	CLO	CLO		
+13	a	avoir	V	V	n=s|t=P|p=3	
+14	plusieurs	plusieurs	DET	DET	n=p	
+15	millions	million	NC	NC	n=p	
+16	d'	de	P	P		
+17	années	année	NC	NC	n=p|g=f	
+18	,	,	PONCT	PONCT		
+19	mais	mais	CC	CC		
+20	des	des	DET	DET	n=p	
+21	doutes	doute	NC	NC	n=p|g=m	
+22	subsistent	subsister	V	V	n=p|t=P,S|p=3	
+23	toujours	toujours	ADV	ADV		
+24	et	et	CC	CC		
+25	certains	certain	DET	DET	n=p|g=m	
+26	scientifiques	scientifique	ADJ	ADJ	n=p	
+27	considèrent	considérer	V	V	n=p|t=P,S|p=3	
+28	l'	le	DET	DET	n=s	
+29	éléphant	éléphant	NC	NC	n=s|g=m	
+30	de	de	P	P		
+31	savane	savane	NC	NC	n=s|g=f	
+32	d'	de	P	P		
+33	Afrique	Afrique	NPP	NPP	n=s|g=f	
+34	,	,	PONCT	PONCT		
+35	et	et	CC	CC		
+36	l'	le	DET	DET	n=s	
+37	éléphant	éléphant	NC	NC	n=s|g=m	
+38	de	de	P	P		
+39	forêt	forêt	NC	NC	n=s|g=f	
+40	d'	de	P	P		
+41	Afrique	Afrique	NPP	NPP	n=s|g=f	
+42	comme	comme	P	P		
+43	deux	deux	DET	DET	s=card|n=p	
+44	sous	sou	NC	NC	n=p|g=m	
+45	-	-	PONCT	PONCT		
+46	espèces	espèce	NC	NC	n=p|g=f	
+47	d'	de	P	P		
+48	une	une	DET	DET	n=s|g=f	
+49	seule	seul	ADJ	ADJ	n=s|g=f	
+50	et	et	CC	CC		
+51	même	même	ADJ	ADJ	n=s	
+52	espèce	espèce	NC	NC	n=s|g=f	
+53	,	,	PONCT	PONCT		
+54	l'	le	DET	DET	n=s	
+55	éléphant	éléphant	NC	NC	n=s|g=m	
+56	d'	de	P	P		
+57	Afrique	Afrique	NPP	NPP	n=s|g=f	
+58	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	éléphant	éléphant	NC	NC	n=s|g=m	
+3	d'	de	P	P		
+4	Afrique	Afrique	NPP	NPP	n=s|g=f	
+5	,	,	PONCT	PONCT		
+6	peut	pouvoir	V	V	n=s|t=P|p=3	
+7	mesurer	mesurer	VINF	VINF	t=W	
+8	jusqu'	jusque	P	P		
+9	à	à	P	P		
+10	3,70	3,70	NC	NC		
+11	m	_	ADJ	ADJ		
+12	au	à	P+D	P+D	n=s|g=m	
+13	garrot	garrot	NC	NC	n=s|g=m	
+14	,	,	PONCT	PONCT		
+15	peser	peser	VINF	VINF	t=W	
+16	jusqu'	jusque	P	P		
+17	à	à	P	P		
+18	7	7	ADJ	ADJ		
+19	tonnes	tonne	NC	NC	n=p|g=f	
+20	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	possède	posséder	V	V	n=s|t=P,S|p=1,3	
+3	de	de	DET	DET	n=p	
+4	très	très	ADV	ADV		
+5	grandes	grand	ADJ	ADJ	n=p|g=f	
+6	oreilles	oreille	NC	NC	n=p|g=f	
+7	et	et	CC	CC		
+8	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+9	trompe	trompe	NC	NC	n=s|g=f	
+10	se	se	CLR	CLR	n=p,s|p=3	
+11	termine	terminer	V	V	n=s|t=P,S|p=1,3	
+12	par	par	P	P		
+13	deux	deux	DET	DET	s=card|n=p	
+14	"	"	PONCT	PONCT		
+15	doigts	doigt	NC	NC	n=p|g=m	
+16	"	"	PONCT	PONCT		
+17	.	.	PONCT	PONCT		
+
+1	Deux	deux	DET	DET	s=card|n=p	
+2	variétés	variété	NC	NC	n=p|g=f	
+3	d'	de	P	P		
+4	éléphants	éléphant	NC	NC	n=p|g=m	
+5	habitent	habiter	V	V	n=p|t=P,S|p=3	
+6	l'	le	DET	DET	n=s	
+7	Afrique	Afrique	NPP	NPP	n=s|g=f	
+8	,	,	PONCT	PONCT		
+9	ceux	ceux	PRO	PRO	n=p|g=m	
+10	des	de	P+D	P+D	n=p	
+11	forêts	forêt	NC	NC	n=p|g=f	
+12	et	et	CC	CC		
+13	ceux	ceux	PRO	PRO	n=p|g=m	
+14	de	de	P	P		
+15	la	la	DET	DET	n=s|g=f	
+16	savane	savane	NC	NC	n=s|g=f	
+17	,	,	PONCT	PONCT		
+18	les	les	DET	DET	n=p	
+19	plus	plus	ADV	ADV		
+20	grands	grand	ADJ	ADJ	n=p|g=m	
+21	.	.	PONCT	PONCT		
+
+1	Ils	ils	CLS	CLS	n=p|g=m|p=3	
+2	se	se	CLR	CLR	n=p,s|p=3	
+3	déplacent	déplacer	V	V	n=p|t=P,S|p=3	
+4	pour	pour	P	P		
+5	trouver	trouver	VINF	VINF	t=W	
+6	suffisamment	_	ADV	ADV		
+7	de	de	P	P		
+8	nourriture	nourriture	NC	NC	n=s|g=f	
+9	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	femelles	femelle	NC	NC	n=p|g=f	
+3	marchent	marcher	V	V	n=p|t=P,S|p=3	
+4	d'	de	P	P		
+5	abord	abord	NC	NC	n=s|g=m	
+6	,	,	PONCT	PONCT		
+7	avec	avec	P	P		
+8	les	les	DET	DET	n=p	
+9	petits	petit	ADJ	ADJ	n=p|g=m	
+10	,	,	PONCT	PONCT		
+11	et	et	CC	CC		
+12	les	les	DET	DET	n=p	
+13	mâles	mâle	NC	NC	n=p|g=m	
+14	restent	rester	V	V	n=p|t=P,S|p=3	
+15	en	en	P	P		
+16	arrière	arrière	NC	NC	n=s	
+17	et	et	CC	CC		
+18	n'	ne	ADV	ADV		
+19	interviennent	intervenir	V	V	n=p|t=P,S|p=3	
+20	qu'	que	CS	CS		
+21	en	en	P	P		
+22	cas	cas	NC	NC	g=m	
+23	de	de	P	P		
+24	danger	danger	NC	NC	n=s|g=m	
+25	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	éléphant	éléphant	NC	NC	n=s|g=m	
+3	d'	de	P	P		
+4	Asie	Asie	NPP	NPP	n=s|g=f	
+5	est	être	V	V	n=s|t=P|p=3	
+6	plus	plus	ADV	ADV		
+7	petit	petit	ADJ	ADJ	n=s|g=m	
+8	,	,	PONCT	PONCT		
+9	environ	environ	ADV	ADV		
+10	3	3	ADJ	ADJ		
+11	m	_	NC	NC		
+12	au	à	P+D	P+D	n=s|g=m	
+13	garrot	garrot	NC	NC	n=s|g=m	
+14	,	,	PONCT	PONCT		
+15	possède	posséder	V	V	n=s|t=P,S|p=1,3	
+16	des	des	DET	DET	n=p	
+17	oreilles	oreille	NC	NC	n=p|g=f	
+18	nettement	_	ADV	ADV		
+19	plus	plus	ADV	ADV		
+20	petites	petit	ADJ	ADJ	n=p|g=f	
+21	et	et	CC	CC		
+22	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+23	trompe	trompe	NC	NC	n=s|g=f	
+24	se	se	CLR	CLR	n=p,s|p=3	
+25	termine	terminer	V	V	n=s|t=P,S|p=1,3	
+26	par	par	P	P		
+27	un	un	DET	DET	n=s|g=m	
+28	seul	seul	ADJ	ADJ	n=s|g=m	
+29	"	"	PONCT	PONCT		
+30	doigt	doigt	NC	NC	n=s|g=m	
+31	"	"	PONCT	PONCT		
+32	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	principale	principal	ADJ	ADJ	n=s|g=f	
+3	différence	différence	NC	NC	n=s|g=f	
+4	est	être	V	V	n=s|t=P|p=3	
+5	que	que	CS	CS		
+6	l'	le	DET	DET	n=s	
+7	éléphant	éléphant	NC	NC	n=s|g=m	
+8	asiatique	asiatique	ADJ	ADJ	n=s	
+9	,	,	PONCT	PONCT		
+10	capturé	capturer	VPP	VPP	n=s|g=m|t=K	
+11	jeune	jeune	ADJ	ADJ	n=s	
+12	,	,	PONCT	PONCT		
+13	se	se	CLR	CLR	n=p,s|p=3	
+14	laisse	laisser	V	V	n=s|t=P,S|p=1,3	
+15	apprivoiser	apprivoiser	VINF	VINF	t=W	
+16	s'	se	CLR	CLR	n=p,s|p=3	
+17	il	il	CLS	CLS	n=s|g=m|p=3	
+18	est	être	V	V	n=s|t=P|p=3	
+19	bien	bien	ADV	ADV		
+20	soigné	soigner	VPP	VPP	n=s|g=m|t=K	
+21	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	est	être	V	V	n=s|t=P|p=3	
+3	dirigé	diriger	VPP	VPP	n=s|g=m|t=K	
+4	par	par	P	P		
+5	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+6	cornac	cornac	NC	NC	n=s|g=m	
+7	,	,	PONCT	PONCT		
+8	un	un	DET	DET	n=s|g=m	
+9	homme	homme	NC	NC	n=s|g=m	
+10	qui	qui	PROREL	PROREL	n=s	
+11	est	être	V	V	n=s|t=P|p=3	
+12	à	à	P	P		
+13	la	la	DET	DET	n=s|g=f	
+14	fois	fois	NC	NC	g=f	
+15	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+16	soigneur	soigneur	NC	NC	n=s|g=m	
+17	et	et	CC	CC		
+18	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+19	dresseur	dresseur	NC	NC	n=s|g=m	
+20	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	éléphant	éléphant	NC	NC	n=s|g=m	
+3	vivant	vivre	VPR	VPR	t=G	
+4	très	très	ADV	ADV		
+5	longtemps	longtemps	ADV	ADV		
+6	,	,	PONCT	PONCT		
+7	c'	ce	CLS	CLS		
+8	est	être	V	V	n=s|t=P|p=3	
+9	presque	presque	ADV	ADV		
+10	une	une	DET	DET	n=s|g=f	
+11	union	union	NC	NC	n=s|g=f	
+12	pour	pour	P	P		
+13	la	la	DET	DET	n=s|g=f	
+14	vie	vie	NC	NC	n=s|g=f	
+15	entre	entre	P	P		
+16	cet	cet	DET	DET	n=s|g=m	
+17	homme	homme	NC	NC	n=s|g=m	
+18	et	et	CC	CC		
+19	l'	le	DET	DET	n=s	
+20	animal	animal	NC	NC	n=s|g=m	
+21	.	.	PONCT	PONCT		
+
+1	Éléphant	éléphant	NC	NC	n=s|g=m	
+2	de	de	P	P		
+3	savane	savane	NC	NC	n=s|g=f	
+4	d'	de	P	P		
+5	Afrique	Afrique	NPP	NPP	n=s|g=f	
+
+1	Éléphant	éléphant	NC	NC	n=s|g=m	
+2	de	de	P	P		
+3	forêt	forêt	NC	NC	n=s|g=f	
+4	d'	de	P	P		
+5	Afrique	Afrique	NPP	NPP	n=s|g=f	
+
+1	Éléphant	éléphant	NC	NC	n=s|g=m	
+2	d'	de	P	P		
+3	Asie	Asie	NPP	NPP	n=s|g=f	
+
+1	L'	le	DET	DET	n=s	
+2	éléphant	éléphant	NC	NC	n=s|g=m	
+3	ne	ne	ADV	ADV		
+4	peut	pouvoir	V	V	n=s|t=P|p=3	
+5	sauter	sauter	VINF	VINF	t=W	
+6	compte	compte	NC	NC	n=s|g=m	
+7	tenu	tenir	VPP	VPP	n=s|g=m|t=K	
+8	de	de	P	P		
+9	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+10	masse	masse	NC	NC	n=s|g=f	
+11	,	,	PONCT	PONCT		
+12	et	et	CC	CC		
+13	ne	ne	ADV	ADV		
+14	peut	pouvoir	V	V	n=s|t=P|p=3	
+15	courir	courir	VINF	VINF	t=W	
+16	également	_	ADV	ADV		
+17	,	,	PONCT	PONCT		
+18	il	il	CLS	CLS	n=s|g=m|p=3	
+19	peut	pouvoir	V	V	n=s|t=P|p=3	
+20	avancer	avancer	VINF	VINF	t=W	
+21	assez	assez	ADV	ADV		
+22	vite	vite	ADV	ADV		
+23	(	(	PONCT	PONCT		
+24	comparé	comparer	VPP	VPP	n=s|g=m|t=K	
+25	à	à	P	P		
+26	un	un	DET	DET	n=s|g=m	
+27	homme	homme	NC	NC	n=s|g=m	
+28	)	)	PONCT	PONCT		
+29	lorsqu'	lorsque	CS	CS		
+30	il	il	CLS	CLS	n=s|g=m|p=3	
+31	charge	charger	V	V	n=s|t=P,S|p=1,3	
+32	par	par	P	P		
+33	exemple	exemple	NC	NC	n=s|g=m	
+34	,	,	PONCT	PONCT		
+35	en	en	P	P		
+36	se	se	CLR	CLR	n=p,s|p=3	
+37	dandinant	dandiner	VPR	VPR	t=G	
+38	de	de	P	P		
+39	gauche	gauche	NC	NC	n=s	
+40	à	à	P	P		
+41	droite	droite	NC	NC	n=s|g=f	
+42	(	(	PONCT	PONCT		
+43	marche	marche	NC	NC	n=s|g=f	
+44	à	à	P	P		
+45	l'	le	DET	DET	n=s	
+46	amble	amble	NC	NC	n=s|g=m	
+47	)	)	PONCT	PONCT		
+48	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	peut	pouvoir	V	V	n=s|t=P|p=3	
+3	atteindre	atteindre	VINF	VINF	t=W	
+4	15	15	VPP	VPP		
+5	à	à	P	P		
+6	20	20	ADJ	ADJ		
+7	km	kilomètre	NC	NC	g=m	
+8	/	/	PONCT	PONCT		
+9	h	heure	NC	NC	g=f	
+10	en	en	P	P		
+11	moyenne	moyenne	NC	NC	n=s|g=f	
+12	sur	sur	P	P		
+13	une	une	DET	DET	n=s|g=f	
+14	course	course	NC	NC	n=s|g=f	
+15	de	de	P	P		
+16	vitesse	vitesse	NC	NC	n=s|g=f	
+17	avec	avec	P	P		
+18	des	des	DET	DET	n=p	
+19	pointes	pointe	NC	NC	n=p|g=f	
+20	records	record	NC	NC	n=p|g=m	
+21	à	à	P	P		
+22	30	30	NC	NC		
+23	voire	voire	CC	CC		
+24	40	40	ADJ	ADJ		
+25	km	kilomètre	NC	NC	g=m	
+26	/	/	PONCT	PONCT		
+27	h	heure	NC	NC	g=f	
+28	maximum	maximum	NC	NC	n=s|g=m	
+29	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	record	record	NC	NC	n=s|g=m	
+3	est	être	V	V	n=s|t=P|p=3	
+4	réalisé	réaliser	VPP	VPP	n=s|g=m|t=K	
+5	en	en	P	P		
+6	2002	2002	NC	NC		
+7	avec	avec	P	P		
+8	un	un	DET	DET	n=s|g=m	
+9	éléphant	éléphant	NC	NC	n=s|g=m	
+10	d'	de	P	P		
+11	Asie	Asie	NPP	NPP	n=s|g=f	
+12	mâle	mâle	ADJ	ADJ	n=s	
+13	de	de	P	P		
+14	3	3	ADJ	ADJ		
+15	tonnes	tonne	NC	NC	n=p|g=f	
+16	qui	qui	PROREL	PROREL	n=s	
+17	a	avoir	V	V	n=s|t=P|p=3	
+18	atteint	atteindre	VPP	VPP	n=s|g=m|t=K	
+19	23	23	ADJ	ADJ		
+20	km	kilomètre	NC	NC	g=m	
+21	/	/	PONCT	PONCT		
+22	h	heure	NC	NC	g=f	
+23	en	en	P	P		
+24	moyenne	moyenne	NC	NC	n=s|g=f	
+25	,	,	PONCT	PONCT		
+26	mais	mais	CC	CC		
+27	il	il	CLS	CLS	n=s|g=m|p=3	
+28	n'	ne	ADV	ADV		
+29	était	être	V	V	n=s|t=I|p=3	
+30	pas	pas	ADV	ADV		
+31	très	très	ADV	ADV		
+32	gros	gros	ADJ	ADJ	g=m	
+33	comparé	comparer	VPP	VPP	n=s|g=m|t=K	
+34	aux	à	P+D	P+D	n=p	
+35	autres	autres	PRO	PRO	n=p|g=f,m	
+36	,	,	PONCT	PONCT		
+37	ceux	ceux	PRO	PRO	n=p|g=m	
+38	de	de	P	P		
+39	5	5	ADJ	ADJ		
+40	tonnes	tonne	NC	NC	n=p|g=f	
+41	n'	ne	ADV	ADV		
+42	avancent	avancer	V	V	n=p|t=P,S|p=3	
+43	pas	pas	ADV	ADV		
+44	à	à	P	P		
+45	plus	plus	ADV	ADV		
+46	de	de	P	P		
+47	17	17	ADJ	ADJ		
+48	km	kilomètre	NC	NC	g=m	
+49	/	/	PONCT	PONCT		
+50	h	heure	NC	NC	g=f	
+51	en	en	P	P		
+52	moyenne	moyenne	NC	NC	n=s|g=f	
+53	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	trompe	trompe	NC	NC	n=s|g=f	
+3	de	de	P	P		
+4	l'	le	DET	DET	n=s	
+5	éléphant	éléphant	NC	NC	n=s|g=m	
+6	est	être	V	V	n=s|t=P|p=3	
+7	l'	le	DET	DET	n=s	
+8	allongement	allongement	NC	NC	n=s|g=m	
+9	de	de	P	P		
+10	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+11	nez	nez	NC	NC	g=m	
+12	et	et	CC	CC		
+13	de	de	P	P		
+14	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+15	lèvre	lèvre	NC	NC	n=s|g=f	
+16	supérieure	supérieur	ADJ	ADJ	n=s|g=f	
+17	.	.	PONCT	PONCT		
+
+1	C'	ce	CLS	CLS		
+2	est	être	V	V	n=s|t=P|p=3	
+3	un	un	DET	DET	n=s|g=m	
+4	organe	organe	NC	NC	n=s|g=m	
+5	puissant	puissant	ADJ	ADJ	n=s|g=m	
+6	constitué	constituer	VPP	VPP	n=s|g=m|t=K	
+7	d'	de	P	P		
+8	environ	environ	ADV	ADV		
+9	15_000	15_000	ADJ	ADJ		
+10	muscles	muscle	NC	NC	n=p|g=m	
+11	qui	qui	PROREL	PROREL	n=s	
+12	lui	lui	CLO	CLO	n=s|p=3	
+13	permet	permettre	V	V	n=s|t=P|p=3	
+14	de	de	P	P		
+15	réaliser	réaliser	VINF	VINF	t=W	
+16	des	des	DET	DET	n=p	
+17	gestes	geste	NC	NC	n=p	
+18	indispensables	indispensable	ADJ	ADJ	n=p	
+19	à	à	P	P		
+20	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+21	vie	vie	NC	NC	n=s|g=f	
+22	quotidienne	quotidien	ADJ	ADJ	n=s|g=f	
+23	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	lui	lui	CLO	CLO	n=s|p=3	
+3	sert	servir	V	V	n=s|t=P|p=3	
+4	à	à	P	P		
+5	sentir	sentir	VINF	VINF	t=W	
+6	,	,	PONCT	PONCT		
+7	à	à	P	P		
+8	toucher	toucher	VINF	VINF	t=W	
+9	,	,	PONCT	PONCT		
+10	à	à	P	P		
+11	saisir	saisir	VINF	VINF	t=W	
+12	des	des	DET	DET	n=p	
+13	aliments	aliment	NC	NC	n=p|g=m	
+14	,	,	PONCT	PONCT		
+15	des	des	DET	DET	n=p	
+16	objets	objet	NC	NC	n=p|g=m	
+17	ou	ou	CC	CC		
+18	encore	encore	ADV	ADV		
+19	à	à	P	P		
+20	caresser	caresser	VINF	VINF	t=W	
+21	les	les	DET	DET	n=p	
+22	membres	membre	NC	NC	n=p|g=m	
+23	de	de	P	P		
+24	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+25	famille	famille	NC	NC	n=s|g=f	
+26	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	lui	lui	CLO	CLO	n=s|p=3	
+3	permet	permettre	V	V	n=s|t=P|p=3	
+4	d'	de	P	P		
+5	aspirer	aspirer	VINF	VINF	t=W	
+6	jusqu'	jusque	P	P		
+7	à	à	P	P		
+8	10	10	NC	NC		
+9	L	_	NPP	NPP		
+10	d'	de	P	P		
+11	eau	eau	NC	NC	n=s|g=f	
+12	pour	pour	P	P		
+13	les	les	CLO	CLO	n=p|p=3	
+14	verser	verser	VINF	VINF	t=W	
+15	ensuite	ensuite	ADV	ADV		
+16	dans	dans	P	P		
+17	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+18	bouche	bouche	NC	NC	n=s|g=f	
+19	,	,	PONCT	PONCT		
+20	s'	se	CLR	CLR	n=p,s|p=3	
+21	asperger	asperger	VINF	VINF	t=W	
+22	lors	lors	ADV	ADV		
+23	de	de	P	P		
+24	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+25	toilette	toilette	NC	NC	n=s|g=f	
+26	ou	ou	CC	CC		
+27	de	de	P	P		
+28	celle	celle	PRO	PRO	n=s|g=f	
+29	des	de	P+D	P+D	n=p	
+30	petits	petit	ADJ	ADJ	n=p|g=m	
+31	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	s'	se	CLR	CLR	n=p,s|p=3	
+3	enroulant	enrouler	VPR	VPR	t=G	
+4	autour	autour	NC	NC	n=s|g=m	
+5	d'	de	P	P		
+6	une	une	DET	DET	n=s|g=f	
+7	branche	branche	NC	NC	n=s|g=f	
+8	,	,	PONCT	PONCT		
+9	la	la	DET	DET	n=s|g=f	
+10	trompe	trompe	NC	NC	n=s|g=f	
+11	peut	pouvoir	V	V	n=s|t=P|p=3	
+12	la	la	CLO	CLO	n=s|g=f|p=3	
+13	casser	casser	VINF	VINF	t=W	
+14	ou	ou	CC	CC		
+15	l'	le	CLO	CLO	n=s|p=3	
+16	écarter	écarter	VINF	VINF	t=W	
+17	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	trompe	trompe	NC	NC	n=s|g=f	
+3	des	de	P+D	P+D	n=p	
+4	éléphanteaux	éléphanteau	NC	NC	n=p|g=m	
+5	leur	leur	CLO	CLO	n=p|p=3	
+6	permet	permettre	V	V	n=s|t=P|p=3	
+7	de	de	P	P		
+8	s'	se	CLR	CLR	n=p,s|p=3	
+9	accrocher	accrocher	VINF	VINF	t=W	
+10	à	à	P	P		
+11	leur	leur	DET	DET	n=s|p=3|poss=p	
+12	mère	mère	NC	NC	n=s|g=f	
+13	lors	lors	ADV	ADV		
+14	des	de	P+D	P+D	n=p	
+15	longs	long	ADJ	ADJ	n=p|g=m	
+16	trajets	trajet	NC	NC	n=p|g=m	
+17	.	.	PONCT	PONCT		
+
+1	C'	ce	CLS	CLS		
+2	est	être	V	V	n=s|t=P|p=3	
+3	un	un	DET	DET	n=s|g=m	
+4	véritable	véritable	ADJ	ADJ	n=s	
+5	outil	outil	NC	NC	n=s|g=m	
+6	à	à	P	P		
+7	tout	tout	PRO	PRO	n=s|g=m	
+8	faire	faire	VINF	VINF	t=W	
+9	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	éléphants	éléphant	NC	NC	n=p|g=m	
+3	ont	avoir	V	V	n=p|t=P|p=3	
+4	une	une	DET	DET	n=s|g=f	
+5	excellente	excellent	ADJ	ADJ	n=s|g=f	
+6	mémoire	mémoire	NC	NC	n=s	
+7	tout	tout	ADV	ADV		
+8	comme	comme	P	P		
+9	les	les	DET	DET	n=p	
+10	dauphins	dauphin	NC	NC	n=p|g=m	
+11	,	,	PONCT	PONCT		
+12	les	les	DET	DET	n=p	
+13	singes	singe	NC	NC	n=p|g=m	
+14	et	et	CC	CC		
+15	les	les	DET	DET	n=p	
+16	hommes	homme	NC	NC	n=p|g=m	
+17	.	.	PONCT	PONCT		
+
+1	Ils	ils	CLS	CLS	n=p|g=m|p=3	
+2	sont	être	V	V	n=p|t=P|p=3	
+3	capables	capable	ADJ	ADJ	n=p	
+4	de	de	P	P		
+5	reconnaître	reconnaître	VINF	VINF	t=W	
+6	leurs	leurs	DET	DET	n=p|p=3|poss=p	
+7	semblables	semblable	NC	NC	n=p	
+8	même	même	ADJ	ADJ	n=s	
+9	s'	se	CLR	CLR	n=p,s|p=3	
+10	ils	ils	CLS	CLS	n=p|g=m|p=3	
+11	ne	ne	ADV	ADV		
+12	les	les	CLO	CLO	n=p|p=3	
+13	ont	avoir	V	V	n=p|t=P|p=3	
+14	pas	pas	ADV	ADV		
+15	vus	voir	VPP	VPP	n=p|g=m|t=K	
+16	depuis	depuis	P	P		
+17	20	20	NC	NC		
+18	ans	an	NC	NC	n=p|g=m	
+19	.	.	PONCT	PONCT		
+
+1	Des	des	DET	DET	n=p	
+2	scientifiques	scientifique	ADJ	ADJ	n=p	
+3	ont	avoir	V	V	n=p|t=P|p=3	
+4	évalué	évaluer	VPP	VPP	n=s|g=m|t=K	
+5	cette	cette	DET	DET	n=s|g=f	
+6	mémoire	mémoire	NC	NC	n=s	
+7	en	en	P	P		
+8	plaçant	placer	VPR	VPR	t=G	
+9	une	une	DET	DET	n=s|g=f	
+10	trentaine	trentaine	NC	NC	n=s|g=f	
+11	d'	de	P	P		
+12	échantillons	échantillon	NC	NC	n=p|g=m	
+13	d'	de	P	P		
+14	urine	urine	NC	NC	n=s|g=f	
+15	dans	dans	P	P		
+16	plusieurs	plusieurs	DET	DET	n=p	
+17	endroits	endroit	NC	NC	n=p|g=m	
+18	et	et	CC	CC		
+19	ils	ils	CLS	CLS	n=p|g=m|p=3	
+20	ont	avoir	V	V	n=p|t=P|p=3	
+21	observé	observer	VPP	VPP	n=s|g=m|t=K	
+22	.	.	PONCT	PONCT		
+
+1	20	20	ADJ	ADJ		
+2	ans	an	NC	NC	n=p|g=m	
+3	après	après	ADV	ADV		
+4	,	,	PONCT	PONCT		
+5	les	les	DET	DET	n=p	
+6	éléphants	éléphant	NC	NC	n=p|g=m	
+7	s'	se	CLR	CLR	n=p,s|p=3	
+8	en	en	CLO	CLO		
+9	sont	être	V	V	n=p|t=P|p=3	
+10	souvenus	souvenir	VPP	VPP	n=p|g=m|t=K	
+11	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	éléphant	éléphant	NC	NC	n=s|g=m	
+3	possède	posséder	V	V	n=s|t=P,S|p=1,3	
+4	deux	deux	DET	DET	s=card|n=p	
+5	longues	long	ADJ	ADJ	n=p|g=f	
+6	défenses	défense	NC	NC	n=p|g=f	
+7	qui	qui	PROREL	PROREL	n=s	
+8	sont	être	V	V	n=p|t=P|p=3	
+9	le	le	DET	DET	n=s|g=m	
+10	développement	développement	NC	NC	n=s|g=m	
+11	de	de	P	P		
+12	deux	deux	PRO	PRO	s=card|n=p	
+13	de	de	P	P		
+14	ses	ses	DET	DET	n=p|p=3|poss=s	
+15	incisives	incisif	ADJ	ADJ	n=p|g=f	
+16	,	,	PONCT	PONCT		
+17	alors	alors	ADV	ADV		
+18	que	que	CS	CS		
+19	ses	ses	DET	DET	n=p|p=3|poss=s	
+20	autres	autre	ADJ	ADJ	n=p	
+21	dents	dent	NC	NC	n=p|g=f	
+22	sont	être	V	V	n=p|t=P|p=3	
+23	des	des	DET	DET	n=p	
+24	molaires	molaire	NC	NC	n=p|g=f	
+25	.	.	PONCT	PONCT		
+
+1	Elles	elles	CLS	CLS	n=p|g=f|p=3	
+2	sont	être	V	V	n=p|t=P|p=3	
+3	moins	moins	ADV	ADV		
+4	une	une	DET	DET	n=s|g=f	
+5	arme	arme	NC	NC	n=s|g=f	
+6	d'	de	P	P		
+7	attaque	attaque	NC	NC	n=s|g=f	
+8	que	que	CS	CS		
+9	de	de	P	P		
+10	dissuasion	dissuasion	NC	NC	n=s|g=f	
+11	contre	contre	P	P		
+12	des	des	DET	DET	n=p	
+13	menaces	menace	NC	NC	n=p|g=f	
+14	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	suffit	suffire	V	V	n=s|t=J,P|p=3	
+3	que	que	CS	CS		
+4	l'	le	DET	DET	n=s	
+5	adversaire	adversaire	NC	NC	n=s	
+6	s'	se	CLR	CLR	n=p,s|p=3	
+7	éloigne	éloigner	V	V	n=s|t=P,S|p=1,3	
+8	pour	pour	P	P		
+9	stopper	stopper	VINF	VINF	t=W	
+10	toute	toute	DET	DET	n=s|g=f	
+11	violence	violence	NC	NC	n=s|g=f	
+12	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	défenses	défense	NC	NC	n=p|g=f	
+3	servent	servir	V	V	n=p|t=P,S|p=3	
+4	surtout	surtout	ADV	ADV		
+5	d'	de	P	P		
+6	outil	outil	NC	NC	n=s|g=m	
+7	pour	pour	P	P		
+8	déterrer	déterrer	VINF	VINF	t=W	
+9	ou	ou	CC	CC		
+10	soulever	soulever	VINF	VINF	t=W	
+11	ce	ce	PRO	PRO	n=s	
+12	qui	qui	PROREL	PROREL	n=s	
+13	sera	être	V	V	n=s|t=F|p=3	
+14	saisi	saisir	VPP	VPP	n=s|g=m|t=K	
+15	avec	avec	P	P		
+16	la	la	DET	DET	n=s|g=f	
+17	trompe	trompe	NC	NC	n=s|g=f	
+18	.	.	PONCT	PONCT		
+
+1	On	on	CLS	CLS	n=s|p=3	
+2	a	avoir	V	V	n=s|t=P|p=3	
+3	remarqué	remarquer	VPP	VPP	n=s|g=m|t=K	
+4	que	que	CS	CS		
+5	les	les	DET	DET	n=p	
+6	éléphants	éléphant	NC	NC	n=p|g=m	
+7	utilisent	utiliser	V	V	n=p|t=P,S|p=3	
+8	toujours	toujours	ADV	ADV		
+9	la	la	DET	DET	n=s|g=f	
+10	même	même	ADJ	ADJ	n=s	
+11	défense	défense	NC	NC	n=s|g=f	
+12	qui	qui	PROREL	PROREL	n=s	
+13	s'	se	CLR	CLR	n=p,s|p=3	
+14	use	user	V	V	n=s|t=P,S|p=1,3	
+15	plus	plus	ADV	ADV		
+16	que	que	CS	CS		
+17	l'	le	DET	DET	n=s	
+18	autre	autre	PRO	PRO	n=s|g=f,m	
+19	.	.	PONCT	PONCT		
+
+1	Comme	comme	P	P		
+2	les	les	DET	DET	n=p	
+3	humains	humains	NC	NC	n=p|g=m	
+4	,	,	PONCT	PONCT		
+5	certains	certain	PRO	PRO	n=p|g=m	
+6	sont	être	V	V	n=p|t=P|p=3	
+7	droitiers	droitier	NC	NC	n=p|g=m	
+8	,	,	PONCT	PONCT		
+9	d'	de	DET	DET	n=p	
+10	autres	autre	ADJ	ADJ	n=p	
+11	gauchers	gaucher	ADJ	ADJ	n=p|g=m	
+12	.	.	PONCT	PONCT		
+
+1	Comme	comme	P	P		
+2	nos	nos	DET	DET	n=p|p=1|poss=p	
+3	dents	dent	NC	NC	n=p|g=f	
+4	,	,	PONCT	PONCT		
+5	les	les	DET	DET	n=p	
+6	défenses	défense	NC	NC	n=p|g=f	
+7	sont	être	V	V	n=p|t=P|p=3	
+8	en	en	P	P		
+9	ivoire	ivoire	NC	NC	n=s|g=m	
+10	,	,	PONCT	PONCT		
+11	une	une	DET	DET	n=s|g=f	
+12	matière	matière	NC	NC	n=s|g=f	
+13	très	très	ADV	ADV		
+14	fine	fin	ADJ	ADJ	n=s|g=f	
+15	,	,	PONCT	PONCT		
+16	recherchée	rechercher	VPP	VPP	n=s|g=f|t=K	
+17	depuis	depuis	P	P		
+18	des	des	DET	DET	n=p	
+19	siècles	siècle	NC	NC	n=p|g=m	
+20	,	,	PONCT	PONCT		
+21	car	car	CS	CS		
+22	elle	elle	CLS	CLS	n=s|g=f|p=3	
+23	permet	permettre	V	V	n=s|t=P|p=3	
+24	de	de	P	P		
+25	magnifiques	magnifique	ADJ	ADJ	n=p	
+26	sculptures	sculpture	NC	NC	n=p|g=f	
+27	.	.	PONCT	PONCT		
+
+1	Cet	cet	DET	DET	n=s|g=m	
+2	ivoire	ivoire	NC	NC	n=s|g=m	
+3	lui	lui	CLO	CLO	n=s|p=3	
+4	a	avoir	V	V	n=s|t=P|p=3	
+5	valu	valoir	VPP	VPP	n=s|g=m|t=K	
+6	d'	de	P	P		
+7	être	être	VINF	VINF	t=W	
+8	abondamment	_	ADV	ADV		
+9	chassé	chasser	VPP	VPP	n=s|g=m|t=K	
+10	par	par	P	P		
+11	des	des	DET	DET	n=p	
+12	hommes	homme	NC	NC	n=p|g=m	
+13	qui	qui	PROREL	PROREL	n=s	
+14	en	en	CLO	CLO		
+15	faisaient	faire	V	V	n=p|t=I|p=3	
+16	commerce	commerce	NC	NC	n=s|g=m	
+17	.	.	PONCT	PONCT		
+
+1	Cette	cette	DET	DET	n=s|g=f	
+2	chasse	chasse	NC	NC	n=s|g=f	
+3	a	avoir	V	V	n=s|t=P|p=3	
+4	eu	avoir	VPP	VPP	n=s|g=m|t=K	
+5	pour	pour	P	P		
+6	conséquence	conséquence	NC	NC	n=s|g=f	
+7	,	,	PONCT	PONCT		
+8	en	en	P	P		
+9	Afrique	Afrique	NPP	NPP	n=s|g=f	
+10	,	,	PONCT	PONCT		
+11	la	la	DET	DET	n=s|g=f	
+12	quasi	quasi	NC	NC	n=s|g=m	
+13	-	-	PONCT	PONCT		
+14	disparition	disparition	NC	NC	n=s|g=f	
+15	de	de	P	P		
+16	l'	le	DET	DET	n=s	
+17	espèce	espèce	NC	NC	n=s|g=f	
+18	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	éléphants	éléphant	NC	NC	n=p|g=m	
+3	sont	être	V	V	n=p|t=P|p=3	
+4	maintenant	maintenant	ADV	ADV		
+5	une	une	DET	DET	n=s|g=f	
+6	espèce	espèce	NC	NC	n=s|g=f	
+7	protégée	protéger	VPP	VPP	n=s|g=f|t=K	
+8	,	,	PONCT	PONCT		
+9	c'	ce	CLS	CLS		
+10	est	être	V	V	n=s|t=P|p=3	
+11	-	-	PONCT	PONCT		
+12	à	à	P	P		
+13	-	-	PONCT	PONCT		
+14	dire	dire	VINF	VINF	t=W	
+15	qu'	que	CS	CS		
+16	il	il	CLS	CLS	n=s|g=m|p=3	
+17	est	être	V	V	n=s|t=P|p=3	
+18	illégal	illégal	ADJ	ADJ	n=s|g=m	
+19	de	de	P	P		
+20	les	les	CLO	CLO	n=p|p=3	
+21	tuer	tuer	VINF	VINF	t=W	
+22	,	,	PONCT	PONCT		
+23	mais	mais	CC	CC		
+24	le	le	DET	DET	n=s|g=m	
+25	braconnage	braconnage	NC	NC	n=s|g=m	
+26	(	(	PONCT	PONCT		
+27	chasse	chasse	NC	NC	n=s|g=f	
+28	clandestine	clandestin	ADJ	ADJ	n=s|g=f	
+29	interdite	interdire	ADJ	ADJ	n=s|g=f|t=K	
+30	)	)	PONCT	PONCT		
+31	continue	continuer	V	V	n=s|t=P,S|p=1,3	
+32	,	,	PONCT	PONCT		
+33	pour	pour	P	P		
+34	l'	le	DET	DET	n=s	
+35	ivoire	ivoire	NC	NC	n=s|g=m	
+36	,	,	PONCT	PONCT		
+37	mais	mais	CC	CC		
+38	aussi	aussi	ADV	ADV		
+39	pour	pour	P	P		
+40	le	le	DET	DET	n=s|g=m	
+41	plaisir	plaisir	NC	NC	n=s|g=m	
+42	de	de	P	P		
+43	certains	certain	DET	DET	n=p|g=m	
+44	chasseurs	chasseur	NC	NC	n=p|g=m	
+45	,	,	PONCT	PONCT		
+46	prêts	prêt	ADJ	ADJ	n=p|g=m	
+47	à	à	P	P		
+48	payer	payer	VINF	VINF	t=W	
+49	des	des	DET	DET	n=p	
+50	fortunes	fortune	NC	NC	n=p|g=f	
+51	pour	pour	P	P		
+52	pouvoir	pouvoir	VINF	VINF	t=W	
+53	tuer	tuer	VINF	VINF	t=W	
+54	un	un	DET	DET	n=s|g=m	
+55	éléphant	éléphant	NC	NC	n=s|g=m	
+56	au	à	P+D	P+D	n=s|g=m	
+57	cours	cour	NC	NC	n=p|g=f	
+58	d'	de	P	P		
+59	un	un	DET	DET	n=s|g=m	
+60	safari	safari	NC	NC	n=s|g=m	
+61	.	.	PONCT	PONCT		
+
+1	Dans	dans	P	P		
+2	certains	certain	DET	DET	n=p|g=m	
+3	pays	pays	NC	NC	g=m	
+4	(	(	PONCT	PONCT		
+5	Afrique	Afrique	NPP	NPP	n=s|g=f	
+6	du	de	P+D	P+D	n=s|g=m	
+7	Sud	sud	NC	NC	n=s|g=m	
+8	,	,	PONCT	PONCT		
+9	Zimbabwe	Zimbabwe	NPP	NPP	n=s|g=m	
+10	,	,	PONCT	PONCT		
+11	Namibie	Namibie	NPP	NPP	n=s|g=f	
+12	)	)	PONCT	PONCT		
+13	le	le	DET	DET	n=s|g=m	
+14	commerce	commerce	NC	NC	n=s|g=m	
+15	de	de	P	P		
+16	l'	le	DET	DET	n=s	
+17	ivoire	ivoire	NC	NC	n=s|g=m	
+18	est	être	V	V	n=s|t=P|p=3	
+19	légal	légal	ADJ	ADJ	n=s|g=m	
+20	,	,	PONCT	PONCT		
+21	mais	mais	CC	CC		
+22	il	il	CLS	CLS	n=s|g=m|p=3	
+23	est	être	V	V	n=s|t=P|p=3	
+24	généralement	_	ADV	ADV		
+25	interdit	interdire	VPP	VPP	n=s|g=m|t=K	
+26	en	en	P	P		
+27	Afrique	Afrique	NPP	NPP	n=s|g=f	
+28	Australe	_	NPP	NPP		
+29	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	2002	2002	NC	NC		
+3	,	,	PONCT	PONCT		
+4	les	les	DET	DET	n=p	
+5	braconniers	braconnier	NC	NC	n=p|g=m	
+6	en	en	CLO	CLO		
+7	vendaient	vendre	V	V	n=p|t=I|p=3	
+8	à	à	P	P		
+9	des	des	DET	DET	n=p	
+10	acheteurs	acheteur	NC	NC	n=p|g=m	
+11	principalement	_	ADV	ADV		
+12	français	français	ADJ	ADJ	g=m	
+13	,	,	PONCT	PONCT		
+14	allemands	allemand	ADJ	ADJ	n=p|g=m	
+15	et	et	CC	CC		
+16	italiens	italien	ADJ	ADJ	n=p|g=m	
+17	.	.	PONCT	PONCT		
+
+1	Bien	bien	ADV	ADV		
+2	qu'	que	CS	CS		
+3	on	on	CLS	CLS	n=s|p=3	
+4	en	en	CLO	CLO		
+5	parle	parler	V	V	n=s|t=P,S|p=1,3	
+6	moins	moins	ADV	ADV		
+7	,	,	PONCT	PONCT		
+8	ce	ce	DET	DET	n=s|g=m	
+9	braconnage	braconnage	NC	NC	n=s|g=m	
+10	est	être	V	V	n=s|t=P|p=3	
+11	toujours	toujours	ADV	ADV		
+12	d'	de	P	P		
+13	actualité	actualité	NC	NC	n=s|g=f	
+14	.	.	PONCT	PONCT		
+
+1	Chaque	chaque	DET	DET	n=s	
+2	jour	jour	NC	NC	n=s|g=m	
+3	,	,	PONCT	PONCT		
+4	un	un	DET	DET	n=s|g=m	
+5	éléphant	éléphant	NC	NC	n=s|g=m	
+6	a	avoir	V	V	n=s|t=P|p=3	
+7	besoin	besoin	NC	NC	n=s|g=m	
+8	de	de	P	P		
+9	150	150	ADJ	ADJ		
+10	à	à	P	P		
+11	260	260	ADJ	ADJ		
+12	kg	kilogramme	NC	NC	g=m	
+13	de	de	P	P		
+14	végétaux	végétal	ADJ	ADJ	n=p|g=m	
+15	(	(	PONCT	PONCT		
+16	herbe	herbe	NC	NC	n=s|g=f	
+17	,	,	PONCT	PONCT		
+18	feuilles	feuille	NC	NC	n=p|g=f	
+19	,	,	PONCT	PONCT		
+20	fruits	fruit	NC	NC	n=p|g=m	
+21	,	,	PONCT	PONCT		
+22	rameaux	rameau	NC	NC	n=p|g=m	
+23	)	)	PONCT	PONCT		
+24	et	et	CC	CC		
+25	de	de	P	P		
+26	50	50	NC	NC		
+27	à	à	P	P		
+28	140	140	NC	NC		
+29	l	_	NPP	NPP		
+30	d'	de	P	P		
+31	eau	eau	NC	NC	n=s|g=f	
+32	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	éléphants	éléphant	NC	NC	n=p|g=m	
+3	vivent	vivre	V	V	n=p|t=P,S|p=3	
+4	généralement	_	ADV	ADV		
+5	en	en	P	P		
+6	grands	grand	ADJ	ADJ	n=p|g=m	
+7	troupeaux	troupeau	NC	NC	n=p|g=m	
+8	,	,	PONCT	PONCT		
+9	constitués	constituer	VPP	VPP	n=p|g=m|t=K	
+10	des	de	P+D	P+D	n=p	
+11	femelles	femelle	ADJ	ADJ	n=p	
+12	,	,	PONCT	PONCT		
+13	et	et	CC	CC		
+14	de	de	P	P		
+15	leurs	leurs	DET	DET	n=p|p=3|poss=p	
+16	petits	petit	ADJ	ADJ	n=p|g=m	
+17	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	troupeau	troupeau	NC	NC	n=s|g=m	
+3	est	être	V	V	n=s|t=P|p=3	
+4	guidé	guider	VPP	VPP	n=s|g=m|t=K	
+5	par	par	P	P		
+6	la	la	DET	DET	n=s|g=f	
+7	femelle	femelle	NC	NC	n=s|g=f	
+8	la	la	DET	DET	n=s|g=f	
+9	plus	plus	ADV	ADV		
+10	âgée	âgé	ADJ	ADJ	n=s|g=f	
+11	,	,	PONCT	PONCT		
+12	appelée	appeler	VPP	VPP	n=s|g=f|t=K	
+13	la	la	DET	DET	n=s|g=f	
+14	matriarche	_	NC	NC		
+15	.	.	PONCT	PONCT		
+
+1	Grâce	grâce	NC	NC	n=s|g=f	
+2	à	à	P	P		
+3	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+4	excellente	excellent	ADJ	ADJ	n=s|g=f	
+5	mémoire	mémoire	NC	NC	n=s	
+6	,	,	PONCT	PONCT		
+7	la	la	DET	DET	n=s|g=f	
+8	matriarche	_	NPP	NPP		
+9	sait	savoir	V	V	n=s|t=P|p=3	
+10	où	où	ADVWH	ADVWH		
+11	trouver	trouver	VINF	VINF	t=W	
+12	de	de	P	P		
+13	la	la	DET	DET	n=s|g=f	
+14	nourriture	nourriture	NC	NC	n=s|g=f	
+15	et	et	CC	CC		
+16	de	de	P	P		
+17	l'	le	DET	DET	n=s	
+18	eau	eau	NC	NC	n=s|g=f	
+19	,	,	PONCT	PONCT		
+20	et	et	CC	CC		
+21	peut	pouvoir	V	V	n=s|t=P|p=3	
+22	guider	guider	VINF	VINF	t=W	
+23	efficacement	_	ADV	ADV		
+24	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+25	troupeau	troupeau	NC	NC	n=s|g=m	
+26	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	éléphanteaux	éléphanteau	NC	NC	n=p|g=m	
+3	sont	être	V	V	n=p|t=P|p=3	
+4	assez	assez	ADV	ADV		
+5	vulnérables	vulnérable	ADJ	ADJ	n=p	
+6	aux	à	P+D	P+D	n=p	
+7	prédateurs	prédateur	NC	NC	n=p|g=m	
+8	,	,	PONCT	PONCT		
+9	c'	ce	CLS	CLS		
+10	est	être	V	V	n=s|t=P|p=3	
+11	pourquoi	pourquoi	ADVWH	ADVWH		
+12	ils	ils	CLS	CLS	n=p|g=m|p=3	
+13	restent	rester	V	V	n=p|t=P,S|p=3	
+14	avec	avec	P	P		
+15	le	le	DET	DET	n=s|g=m	
+16	troupeau	troupeau	NC	NC	n=s|g=m	
+17	,	,	PONCT	PONCT		
+18	où	où	PROREL	PROREL		
+19	ils	ils	CLS	CLS	n=p|g=m|p=3	
+20	sont	être	V	V	n=p|t=P|p=3	
+21	protégés	protéger	VPP	VPP	n=p|g=m|t=K	
+22	par	par	P	P		
+23	leur	leur	DET	DET	n=s|p=3|poss=p	
+24	mère	mère	NC	NC	n=s|g=f	
+25	et	et	CC	CC		
+26	leurs	leurs	DET	DET	n=p|p=3|poss=p	
+27	tantes	tante	NC	NC	n=p|g=f	
+28	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	mâles	mâle	NC	NC	n=p|g=m	
+3	sont	être	V	V	n=p|t=P|p=3	
+4	moins	moins	ADV	ADV		
+5	sociables	sociable	ADJ	ADJ	n=p	
+6	,	,	PONCT	PONCT		
+7	et	et	CC	CC		
+8	plus	plus	ADV	ADV		
+9	agressifs	agressif	ADJ	ADJ	n=p|g=m	
+10	que	que	CS	CS		
+11	les	les	DET	DET	n=p	
+12	femelles	femelle	ADJ	ADJ	n=p	
+13	:	:	PONCT	PONCT		
+14	ils	ils	CLS	CLS	n=p|g=m|p=3	
+15	vivent	vivre	V	V	n=p|t=P,S|p=3	
+16	la	la	DET	DET	n=s|g=f	
+17	plupart	plupart	NC	NC	n=s|g=f	
+18	du	de	P+D	P+D	n=s|g=m	
+19	temps	temps	NC	NC	g=m	
+20	seuls	seul	ADJ	ADJ	n=p|g=m	
+21	,	,	PONCT	PONCT		
+22	en	en	P	P		
+23	dehors	dehors	NC	NC	g=m	
+24	du	de	P+D	P+D	n=s|g=m	
+25	troupeau	troupeau	NC	NC	n=s|g=m	
+26	.	.	PONCT	PONCT		
+
+1	À	à	P	P		
+2	la	la	DET	DET	n=s|g=f	
+3	saison	saison	NC	NC	n=s|g=f	
+4	des	de	P+D	P+D	n=p	
+5	amours	amour	NC	NC	n=p|g=f,m	
+6	,	,	PONCT	PONCT		
+7	les	les	DET	DET	n=p	
+8	mâles	mâle	NC	NC	n=p|g=m	
+9	entrent	entrer	V	V	n=p|t=P,S|p=3	
+10	dans	dans	P	P		
+11	une	une	DET	DET	n=s|g=f	
+12	période	période	NC	NC	n=s	
+13	appelée	appeler	VPP	VPP	n=s|g=f|t=K	
+14	le	le	DET	DET	n=s|g=m	
+15	must	must	NC	NC	n=s|g=m	
+16	:	:	PONCT	PONCT		
+17	un	un	DET	DET	n=s|g=m	
+18	mâle	mâle	NC	NC	n=s|g=m	
+19	en	en	P	P		
+20	must	must	NC	NC	n=s|g=m	
+21	se	se	CLR	CLR	n=p,s|p=3	
+22	reconnaît	reconnaître	V	V	n=s|t=P|p=3	
+23	aux	à	P+D	P+D	n=p	
+24	glandes	glande	NC	NC	n=p|g=f	
+25	situées	situer	VPP	VPP	n=p|g=f|t=K	
+26	sur	sur	P	P		
+27	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+28	front	front	NC	NC	n=s|g=m	
+29	,	,	PONCT	PONCT		
+30	qui	qui	PROREL	PROREL	n=s	
+31	laissent	laisser	V	V	n=p|t=P,S|p=3	
+32	s'	se	CLR	CLR	n=p,s|p=3	
+33	écouler	écouler	VINF	VINF	t=W	
+34	un	un	DET	DET	n=s|g=m	
+35	liquide	liquide	ADJ	ADJ	n=s	
+36	.	.	PONCT	PONCT		
+
+1	Sous	sous	P	P		
+2	l'	le	DET	DET	n=s	
+3	effet	effet	NC	NC	n=s|g=m	
+4	des	de	P+D	P+D	n=p	
+5	hormones	hormone	NC	NC	n=p|g=f	
+6	,	,	PONCT	PONCT		
+7	le	le	DET	DET	n=s|g=m	
+8	comportement	comportement	NC	NC	n=s|g=m	
+9	des	de	P+D	P+D	n=p	
+10	mâles	mâle	NC	NC	n=p|g=m	
+11	en	en	P	P		
+12	must	must	NC	NC	n=s|g=m	
+13	change	changer	V	V	n=s|t=P,S|p=1,3	
+14	:	:	PONCT	PONCT		
+15	ils	ils	CLS	CLS	n=p|g=m|p=3	
+16	deviennent	devenir	V	V	n=p|t=P,S|p=3	
+17	très	très	ADV	ADV		
+18	violents	violent	ADJ	ADJ	n=p|g=m	
+19	,	,	PONCT	PONCT		
+20	et	et	CC	CC		
+21	agressifs	agressif	ADJ	ADJ	n=p|g=m	
+22	.	.	PONCT	PONCT		
+
+1	Un	un	DET	DET	n=s|g=m	
+2	mâle	mâle	NC	NC	n=s|g=m	
+3	en	en	P	P		
+4	must	_	NPP	NPP		
+5	cherche	chercher	V	V	n=s|t=P,S|p=1,3	
+6	à	à	P	P		
+7	s'	se	CLR	CLR	n=p,s|p=3	
+8	accoupler	accoupler	VINF	VINF	t=W	
+9	avec	avec	P	P		
+10	une	une	DET	DET	n=s|g=f	
+11	femelle	femelle	ADJ	ADJ	n=s	
+12	,	,	PONCT	PONCT		
+13	et	et	CC	CC		
+14	n'	ne	ADV	ADV		
+15	hésitera	hésiter	V	V	n=s|t=F|p=3	
+16	pas	pas	ADV	ADV		
+17	pour	pour	P	P		
+18	cela	cela	PRO	PRO	n=s|g=m	
+19	à	à	P	P		
+20	montrer	montrer	VINF	VINF	t=W	
+21	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+22	force	force	NC	NC	n=s|g=f	
+23	,	,	PONCT	PONCT		
+24	à	à	P	P		
+25	tout	tout	PRO	PRO	n=s|g=m	
+26	casser	casser	VINF	VINF	t=W	
+27	,	,	PONCT	PONCT		
+28	voire	voire	CC	CC		
+29	à	à	P	P		
+30	blesser	blesser	VINF	VINF	t=W	
+31	la	la	DET	DET	n=s|g=f	
+32	femelle	femelle	NC	NC	n=s|g=f	
+33	ou	ou	CC	CC		
+34	à	à	P	P		
+35	tuer	tuer	VINF	VINF	t=W	
+36	un	un	DET	DET	n=s|g=m	
+37	petit	petit	ADJ	ADJ	n=s|g=m	
+38	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	éléphants	éléphant	NC	NC	n=p|g=m	
+3	mâles	mâle	ADJ	ADJ	n=p	
+4	en	en	P	P		
+5	must	must	NC	NC	n=s|g=m	
+6	sont	être	V	V	n=p|t=P|p=3	
+7	des	des	DET	DET	n=p	
+8	animaux	animal	NC	NC	n=p|g=m	
+9	dangereux	dangereux	ADJ	ADJ	g=m	
+10	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	femelle	femelle	NC	NC	n=s|g=f	
+3	porte	porter	V	V	n=s|t=P,S|p=1,3	
+4	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+5	petit	petit	ADJ	ADJ	n=s|g=m	
+6	dans	dans	P	P		
+7	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+8	ventre	ventre	NC	NC	n=s|g=m	
+9	pendant	pendant	P	P		
+10	près	près	ADV	ADV		
+11	de	de	P	P		
+12	deux	deux	DET	DET	s=card|n=p	
+13	ans	an	NC	NC	n=p|g=m	
+14	(	(	PONCT	PONCT		
+15	entre	entre	P	P		
+16	20	20	NC	NC		
+17	et	et	CC	CC		
+18	22	22	ADJ	ADJ		
+19	mois	mois	NC	NC	g=m	
+20	)	)	PONCT	PONCT		
+21	,	,	PONCT	PONCT		
+22	avant	avant	P	P		
+23	de	de	P	P		
+24	le	le	CLO	CLO	n=s|g=m|p=3	
+25	mettre	mettre	VINF	VINF	t=W	
+26	au	à	P+D	P+D	n=s|g=m	
+27	monde	monde	NC	NC	n=s|g=m	
+28	.	.	PONCT	PONCT		
+
+1	Comme	comme	P	P		
+2	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+3	nom	nom	NC	NC	n=s|g=m	
+4	l'	le	CLO	CLO	n=s|p=3	
+5	indique	indiquer	V	V	n=s|t=P,S|p=1,3	
+6	,	,	PONCT	PONCT		
+7	l'	le	DET	DET	n=s	
+8	éléphant	éléphant	NC	NC	n=s|g=m	
+9	de	de	P	P		
+10	savane	savane	NC	NC	n=s|g=f	
+11	vit	vivre	V	V	n=s|t=P|p=3	
+12	principalement	_	ADV	ADV		
+13	dans	dans	P	P		
+14	les	les	DET	DET	n=p	
+15	savanes	savane	NC	NC	n=p|g=f	
+16	africaines	africain	ADJ	ADJ	n=p|g=f	
+17	.	.	PONCT	PONCT		
+
+1	Ils	ils	CLS	CLS	n=p|g=m|p=3	
+2	mangent	manger	V	V	n=p|t=P,S|p=3	
+3	un	un	DET	DET	n=s|g=m	
+4	peu	peu	ADV	ADV		
+5	d'	de	P	P		
+6	herbe	herbe	NC	NC	n=s|g=f	
+7	,	,	PONCT	PONCT		
+8	mais	mais	CC	CC		
+9	surtout	surtout	ADV	ADV		
+10	les	les	DET	DET	n=p	
+11	branches	branche	NC	NC	n=p|g=f	
+12	,	,	PONCT	PONCT		
+13	les	les	DET	DET	n=p	
+14	feuilles	feuille	NC	NC	n=p|g=f	
+15	et	et	CC	CC		
+16	les	les	DET	DET	n=p	
+17	fruits	fruit	NC	NC	n=p|g=m	
+18	des	de	P+D	P+D	n=p	
+19	rares	rare	ADJ	ADJ	n=p	
+20	arbres	arbre	NC	NC	n=p|g=m	
+21	et	et	CC	CC		
+22	buissons	buisson	NC	NC	n=p|g=m	
+23	de	de	P	P		
+24	la	la	DET	DET	n=s|g=f	
+25	savane	savane	NC	NC	n=s|g=f	
+26	.	.	PONCT	PONCT		
+
+1	Quand	quand	CS	CS		
+2	la	la	DET	DET	n=s|g=f	
+3	nourriture	nourriture	NC	NC	n=s|g=f	
+4	vient	venir	V	V	n=s|t=P|p=3	
+5	à	à	P	P		
+6	manquer	manquer	VINF	VINF	t=W	
+7	,	,	PONCT	PONCT		
+8	ils	ils	CLS	CLS	n=p|g=m|p=3	
+9	sont	être	V	V	n=p|t=P|p=3	
+10	obligés	obliger	VPP	VPP	n=p|g=m|t=K	
+11	de	de	P	P		
+12	se	se	CLR	CLR	n=p,s|p=3	
+13	déplacer	déplacer	VINF	VINF	t=W	
+14	pour	pour	P	P		
+15	en	en	CLO	CLO		
+16	trouver	trouver	VINF	VINF	t=W	
+17	d'	de	P	P		
+18	autre	autre	ADJ	ADJ	n=s	
+19	:	:	PONCT	PONCT		
+20	les	les	DET	DET	n=p	
+21	troupeaux	troupeau	NC	NC	n=p|g=m	
+22	d'	de	P	P		
+23	éléphants	éléphant	NC	NC	n=p|g=m	
+24	de	de	P	P		
+25	savanes	savane	NC	NC	n=p|g=f	
+26	sont	être	V	V	n=p|t=P|p=3	
+27	migrateurs	migrateur	ADJ	ADJ	n=p|g=m	
+28	.	.	PONCT	PONCT		
+
+1	Au	à	P+D	P+D	n=s|g=m	
+2	contraire	contraire	NC	NC	n=s|g=m	
+3	,	,	PONCT	PONCT		
+4	l'	le	DET	DET	n=s	
+5	autre	autre	ADJ	ADJ	n=s	
+6	espèce	espèce	NC	NC	n=s|g=f	
+7	d'	de	P	P		
+8	éléphant	éléphant	NC	NC	n=s|g=m	
+9	d'	de	P	P		
+10	Afrique	Afrique	NPP	NPP	n=s|g=f	
+11	,	,	PONCT	PONCT		
+12	l'	le	DET	DET	n=s	
+13	éléphant	éléphant	NC	NC	n=s|g=m	
+14	de	de	P	P		
+15	forêts	forêt	NC	NC	n=p|g=f	
+16	,	,	PONCT	PONCT		
+17	et	et	CC	CC		
+18	les	les	DET	DET	n=p	
+19	éléphants	éléphant	NC	NC	n=p|g=m	
+20	d'	de	P	P		
+21	Asie	Asie	NPP	NPP	n=s|g=f	
+22	,	,	PONCT	PONCT		
+23	vivent	vivre	V	V	n=p|t=P,S|p=3	
+24	dans	dans	P	P		
+25	des	des	DET	DET	n=p	
+26	milieux	milieu	NC	NC	n=p|g=m	
+27	beaucoup	beaucoup	ADV	ADV		
+28	plus	plus	ADV	ADV		
+29	boisés	boiser	VPP	VPP	n=p|g=m|t=K	
+30	:	:	PONCT	PONCT		
+31	la	la	DET	DET	n=s|g=f	
+32	forêt	forêt	NC	NC	n=s|g=f	
+33	dense	dense	ADJ	ADJ	n=s	
+34	africaine	africain	ADJ	ADJ	n=s|g=f	
+35	,	,	PONCT	PONCT		
+36	ou	ou	CC	CC		
+37	la	la	DET	DET	n=s|g=f	
+38	jungle	jungle	NC	NC	n=s|g=f	
+39	asiatique	asiatique	ADJ	ADJ	n=s	
+40	.	.	PONCT	PONCT		
+
+1	Ces	ces	DET	DET	n=p	
+2	espèces	espèce	NC	NC	n=p|g=f	
+3	ne	ne	ADV	ADV		
+4	sont	être	V	V	n=p|t=P|p=3	
+5	pas	pas	ADV	ADV		
+6	migratrices	migrateur	ADJ	ADJ	n=p|g=f	
+7	,	,	PONCT	PONCT		
+8	car	car	CS	CS		
+9	elles	elles	CLS	CLS	n=p|g=f|p=3	
+10	trouvent	trouver	V	V	n=p|t=P,S|p=3	
+11	toute	tout	ADJ	ADJ	n=s|g=f	
+12	l'	le	DET	DET	n=s	
+13	année	année	NC	NC	n=s|g=f	
+14	de	de	P	P		
+15	quoi	quoi	PROREL	PROREL		
+16	se	se	CLR	CLR	n=p,s|p=3	
+17	nourrir	nourrir	VINF	VINF	t=W	
+18	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	éléphants	éléphant	NC	NC	n=p|g=m	
+3	sont	être	V	V	n=p|t=P|p=3	
+4	des	des	DET	DET	n=p	
+5	éléments	élément	NC	NC	n=p|g=m	
+6	importants	important	ADJ	ADJ	n=p|g=m	
+7	de	de	P	P		
+8	la	la	DET	DET	n=s|g=f	
+9	biodiversité	biodiversité	NC	NC	n=s|g=f	
+10	:	:	PONCT	PONCT		
+11	la	la	DET	DET	n=s|g=f	
+12	présence	présence	NC	NC	n=s|g=f	
+13	d'	de	P	P		
+14	éléphants	éléphant	NC	NC	n=p|g=m	
+15	dans	dans	P	P		
+16	un	un	DET	DET	n=s|g=m	
+17	milieu	milieu	NC	NC	n=s|g=m	
+18	modifie	modifier	V	V	n=s|t=P,S|p=1,3	
+19	l'	le	DET	DET	n=s	
+20	environnement	environnement	NC	NC	n=s|g=m	
+21	,	,	PONCT	PONCT		
+22	et	et	CC	CC		
+23	les	les	DET	DET	n=p	
+24	espèces	espèce	NC	NC	n=p|g=f	
+25	qui	qui	PROREL	PROREL	n=s	
+26	y	y	CLO	CLO		
+27	vivent	vivre	V	V	n=p|t=P,S|p=3	
+28	.	.	PONCT	PONCT		
+
+1	Ainsi	ainsi	ADV	ADV		
+2	,	,	PONCT	PONCT		
+3	les	les	DET	DET	n=p	
+4	éléphants	éléphant	NC	NC	n=p|g=m	
+5	sont	être	V	V	n=p|t=P|p=3	
+6	capables	capable	ADJ	ADJ	n=p	
+7	d'	de	P	P		
+8	abattre	abattre	VINF	VINF	t=W	
+9	des	des	DET	DET	n=p	
+10	arbres	arbre	NC	NC	n=p|g=m	
+11	entiers	entier	ADJ	ADJ	n=p|g=m	
+12	,	,	PONCT	PONCT		
+13	pour	pour	P	P		
+14	les	les	CLO	CLO	n=p|p=3	
+15	manger	manger	VINF	VINF	t=W	
+16	,	,	PONCT	PONCT		
+17	ou	ou	CC	CC		
+18	de	de	P	P		
+19	creuser	creuser	VINF	VINF	t=W	
+20	la	la	DET	DET	n=s|g=f	
+21	terre	terre	NC	NC	n=s|g=f	
+22	avec	avec	P	P		
+23	leurs	leurs	DET	DET	n=p|p=3|poss=p	
+24	défenses	défense	NC	NC	n=p|g=f	
+25	,	,	PONCT	PONCT		
+26	pour	pour	P	P		
+27	trouver	trouver	VINF	VINF	t=W	
+28	de	de	P	P		
+29	la	la	DET	DET	n=s|g=f	
+30	boue	boue	NC	NC	n=s|g=f	
+31	,	,	PONCT	PONCT		
+32	ou	ou	CC	CC		
+33	des	des	DET	DET	n=p	
+34	sels	sel	NC	NC	n=p|g=m	
+35	minéraux	minéral	ADJ	ADJ	n=p|g=m	
+36	.	.	PONCT	PONCT		
+
+1	Par	par	P	P		
+2	leur	leur	DET	DET	n=s|p=3|poss=p	
+3	action	action	NC	NC	n=s|g=f	
+4	,	,	PONCT	PONCT		
+5	les	les	DET	DET	n=p	
+6	éléphants	éléphant	NC	NC	n=p|g=m	
+7	créent	créer	V	V	n=p|t=P,S|p=3	
+8	des	des	DET	DET	n=p	
+9	clairières	clairière	NC	NC	n=p|g=f	
+10	,	,	PONCT	PONCT		
+11	au	à	P+D	P+D	n=s|g=m	
+12	sein	sein	NC	NC	n=s|g=m	
+13	des	de	P+D	P+D	n=p	
+14	forêts	forêt	NC	NC	n=p|g=f	
+15	,	,	PONCT	PONCT		
+16	ou	ou	CC	CC		
+17	des	de	P+D	P+D	n=p	
+18	espèces	espèce	NC	NC	n=p|g=f	
+19	différentes	différent	ADJ	ADJ	n=p|g=f	
+20	se	se	CLR	CLR	n=p,s|p=3	
+21	développent	développer	V	V	n=p|t=P,S|p=3	
+22	,	,	PONCT	PONCT		
+23	ainsi	ainsi	ADV	ADV		
+24	que	que	CS	CS		
+25	des	des	DET	DET	n=p	
+26	mares	mare	NC	NC	n=p|g=f	
+27	et	et	CC	CC		
+28	des	des	DET	DET	n=p	
+29	points	point	NC	NC	n=p|g=m	
+30	d'	de	P	P		
+31	eau	eau	NC	NC	n=s|g=f	
+32	qui	qui	PROREL	PROREL	n=s	
+33	attirent	attirer	V	V	n=p|t=P,S|p=3	
+34	les	les	DET	DET	n=p	
+35	animaux	animal	NC	NC	n=p|g=m	
+36	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	éléphants	éléphant	NC	NC	n=p|g=m	
+3	consomment	consommer	V	V	n=p|t=P,S|p=3	
+4	également	_	ADV	ADV		
+5	beaucoup	beaucoup	ADV	ADV		
+6	de	de	P	P		
+7	fruits	fruit	NC	NC	n=p|g=m	
+8	,	,	PONCT	PONCT		
+9	et	et	CC	CC		
+10	donc	donc	ADV	ADV		
+11	mangent	manger	V	V	n=p|t=P,S|p=3	
+12	des	des	DET	DET	n=p	
+13	graines	graine	NC	NC	n=p|g=f	
+14	,	,	PONCT	PONCT		
+15	qu'	que	CS	CS		
+16	ils	ils	CLS	CLS	n=p|g=m|p=3	
+17	ne	ne	ADV	ADV		
+18	digèrent	digérer	V	V	n=p|t=P,S|p=3	
+19	pas	pas	ADV	ADV		
+20	:	:	PONCT	PONCT		
+21	les	les	DET	DET	n=p	
+22	graines	graine	NC	NC	n=p|g=f	
+23	se	se	CLR	CLR	n=p,s|p=3	
+24	retrouvent	retrouver	V	V	n=p|t=P,S|p=3	
+25	dans	dans	P	P		
+26	les	les	DET	DET	n=p	
+27	bouses	bouse	NC	NC	n=p|g=f	
+28	d'	de	P	P		
+29	éléphants	éléphant	NC	NC	n=p|g=m	
+30	,	,	PONCT	PONCT		
+31	beaucoup	beaucoup	ADV	ADV		
+32	plus	plus	ADV	ADV		
+33	loin	loin	ADV	ADV		
+34	,	,	PONCT	PONCT		
+35	et	et	CC	CC		
+36	redonneront	redonner	V	V	n=p|t=F|p=3	
+37	naissance	naissance	NC	NC	n=s|g=f	
+38	à	à	P	P		
+39	de	de	DET	DET	n=p	
+40	nouveaux	nouveau	ADJ	ADJ	n=p|g=m	
+41	arbres	arbre	NC	NC	n=p|g=m	
+42	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	éléphant	éléphant	NC	NC	n=s|g=m	
+3	participe	participer	V	V	n=s|t=P,S|p=1,3	
+4	donc	donc	ADV	ADV		
+5	à	à	P	P		
+6	la	la	DET	DET	n=s|g=f	
+7	dispersion	dispersion	NC	NC	n=s|g=f	
+8	des	de	P+D	P+D	n=p	
+9	graines	graine	NC	NC	n=p|g=f	
+10	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	peau	peau	NC	NC	n=s|g=f	
+3	des	de	P+D	P+D	n=p	
+4	éléphants	éléphant	NC	NC	n=p|g=m	
+5	est	être	V	V	n=s|t=P|p=3	
+6	fragile	fragile	ADJ	ADJ	n=s	
+7	,	,	PONCT	PONCT		
+8	et	et	CC	CC		
+9	craint	craindre	V	V	n=s|t=P|p=3	
+10	le	le	DET	DET	n=s|g=m	
+11	Soleil	_	NPP	NPP		
+12	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	éléphants	éléphant	NC	NC	n=p|g=m	
+3	apprécient	apprécier	V	V	n=p|t=P,S|p=3	
+4	de	de	P	P		
+5	prendre	prendre	VINF	VINF	t=W	
+6	des	des	DET	DET	n=p	
+7	bains	bain	NC	NC	n=p|g=m	
+8	et	et	CC	CC		
+9	de	de	P	P		
+10	se	se	CLR	CLR	n=p,s|p=3	
+11	laver	laver	VINF	VINF	t=W	
+12	,	,	PONCT	PONCT		
+13	ils	ils	CLS	CLS	n=p|g=m|p=3	
+14	utilisent	utiliser	V	V	n=p|t=P,S|p=3	
+15	leur	leur	DET	DET	n=s|p=3|poss=p	
+16	trompe	trompe	NC	NC	n=s|g=f	
+17	pour	pour	P	P		
+18	aspirer	aspirer	VINF	VINF	t=W	
+19	de	de	P	P		
+20	l'	le	DET	DET	n=s	
+21	eau	eau	NC	NC	n=s|g=f	
+22	et	et	CC	CC		
+23	se	se	CLR	CLR	n=p,s|p=3	
+24	la	la	CLO	CLO	n=s|g=f|p=3	
+25	verser	verser	VINF	VINF	t=W	
+26	sur	sur	P	P		
+27	le	le	DET	DET	n=s|g=m	
+28	dos	dos	NC	NC	g=m	
+29	,	,	PONCT	PONCT		
+30	comme	comme	P	P		
+31	une	une	DET	DET	n=s|g=f	
+32	douche	douche	NC	NC	n=s|g=f	
+33	!	!	PONCT	PONCT		
+
+1	S'	se	CLR	CLR	n=p,s|p=3	
+2	il	il	CLS	CLS	n=s|g=m|p=3	
+3	ne	ne	ADV	ADV		
+4	trouve	trouver	V	V	n=s|t=P,S|p=1,3	
+5	pas	pas	ADV	ADV		
+6	d'	de	P	P		
+7	eau	eau	NC	NC	n=s|g=f	
+8	,	,	PONCT	PONCT		
+9	un	un	DET	DET	n=s|g=m	
+10	éléphant	éléphant	NC	NC	n=s|g=m	
+11	aime	aimer	V	V	n=s|t=P,S|p=1,3	
+12	bien	bien	ADV	ADV		
+13	quand	quand	CS	CS		
+14	même	même	ADV	ADV		
+15	s'	se	CLR	CLR	n=p,s|p=3	
+16	asperger	asperger	VINF	VINF	t=W	
+17	de	de	P	P		
+18	boue	boue	NC	NC	n=s|g=f	
+19	,	,	PONCT	PONCT		
+20	ou	ou	CC	CC		
+21	de	de	P	P		
+22	poussière	poussière	NC	NC	n=s|g=f	
+23	,	,	PONCT	PONCT		
+24	qui	qui	PROREL	PROREL	n=s	
+25	le	le	CLO	CLO	n=s|g=m|p=3	
+26	protège	protéger	V	V	n=s|t=P,S|p=1,3	
+27	du	de	P+D	P+D	n=s|g=m	
+28	Soleil	_	NPP	NPP		
+29	et	et	CC	CC		
+30	des	de	P+D	P+D	n=p	
+31	parasites	parasite	NC	NC	n=p	
+32	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	Inde	Inde	NPP	NPP	n=s|g=f	
+3	,	,	PONCT	PONCT		
+4	où	où	PROREL	PROREL		
+5	les	les	DET	DET	n=p	
+6	éléphants	éléphant	NC	NC	n=p|g=m	
+7	d'	de	P	P		
+8	Asie	Asie	NPP	NPP	n=s|g=f	
+9	sont	être	V	V	n=p|t=P|p=3	
+10	élevés	élever	ADJ	ADJ	n=p|g=m|t=K	
+11	et	et	CC	CC		
+12	apprivoisés	apprivoiser	VPP	VPP	n=p|g=m|t=K	
+13	,	,	PONCT	PONCT		
+14	le	le	DET	DET	n=s|g=m	
+15	cornac	cornac	NC	NC	n=s|g=m	
+16	procède	procéder	V	V	n=s|t=P,S|p=1,3	
+17	à	à	P	P		
+18	la	la	DET	DET	n=s|g=f	
+19	toilette	toilette	NC	NC	n=s|g=f	
+20	de	de	P	P		
+21	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+22	éléphant	éléphant	NC	NC	n=s|g=m	
+23	,	,	PONCT	PONCT		
+24	et	et	CC	CC		
+25	lui	lui	CLO	CLO	n=s|p=3	
+26	fait	faire	V	V	n=s|t=P|p=3	
+27	prendre	prendre	VINF	VINF	t=W	
+28	un	un	DET	DET	n=s|g=m	
+29	bain	bain	NC	NC	n=s|g=m	
+30	par	par	P	P		
+31	jour	jour	NC	NC	n=s|g=m	
+32	.	.	PONCT	PONCT		
+
+1	Dans	dans	P	P		
+2	le	le	DET	DET	n=s|g=m	
+3	sud	sud	NC	NC	n=s|g=m	
+4	de	de	P	P		
+5	l'	le	DET	DET	n=s	
+6	Asie	Asie	NPP	NPP	n=s|g=f	
+7	,	,	PONCT	PONCT		
+8	les	les	DET	DET	n=p	
+9	éléphants	éléphant	NC	NC	n=p|g=m	
+10	sont	être	V	V	n=p|t=P|p=3	
+11	d'	de	P	P		
+12	excellents	excellent	ADJ	ADJ	n=p|g=m	
+13	nageurs	nageur	NC	NC	n=p|g=m	
+14	:	:	PONCT	PONCT		
+15	ils	ils	CLS	CLS	n=p|g=m|p=3	
+16	sont	être	V	V	n=p|t=P|p=3	
+17	même	même	ADV	ADV		
+18	capables	capable	ADJ	ADJ	n=p	
+19	de	de	P	P		
+20	traverser	traverser	VINF	VINF	t=W	
+21	la	la	DET	DET	n=s|g=f	
+22	mer	mer	NC	NC	n=s|g=f	
+23	,	,	PONCT	PONCT		
+24	pour	pour	P	P		
+25	passer	passer	VINF	VINF	t=W	
+26	d'	de	P	P		
+27	une	une	DET	DET	n=s|g=f	
+28	île	île	NC	NC	n=s|g=f	
+29	à	à	P	P		
+30	l'	le	DET	DET	n=s	
+31	autre	autre	PRO	PRO	n=s|g=f,m	
+32	.	.	PONCT	PONCT		
+
+1	Un	un	DET	DET	n=s|g=m	
+2	éléphant	éléphant	NC	NC	n=s|g=m	
+3	d'	de	P	P		
+4	Afrique	Afrique	NPP	NPP	n=s|g=f	
+5	,	,	PONCT	PONCT		
+6	mâle	mâle	ADJ	ADJ	n=s	
+7	,	,	PONCT	PONCT		
+8	dans	dans	P	P		
+9	la	la	DET	DET	n=s|g=f	
+10	parc	parc	NC	NC	n=s|g=m	
+11	de	de	P	P		
+12	Serengeti	_	NPP	NPP		
+13	,	,	PONCT	PONCT		
+14	paradant	parader	VPR	VPR	t=G	
+15	pour	pour	P	P		
+16	impressionner	impressionner	VINF	VINF	t=W	
+17	ses	ses	DET	DET	n=p|p=3|poss=s	
+18	rivaux	rival	NC	NC	n=p|g=m	
+19	.	.	PONCT	PONCT		
+
+1	Un	un	DET	DET	n=s|g=m	
+2	mahout	_	NC	NC		
+3	et	et	CC	CC		
+4	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+5	éléphant	éléphant	NC	NC	n=s|g=m	
+6	d'	de	P	P		
+7	Asie	Asie	NPP	NPP	n=s|g=f	
+8	.	.	PONCT	PONCT		
+
+1	Une	une	DET	DET	n=s|g=f	
+2	famille	famille	NC	NC	n=s|g=f	
+3	d'	de	P	P		
+4	éléphants	éléphant	NC	NC	n=p|g=m	
+5	de	de	P	P		
+6	forêt	forêt	NC	NC	n=s|g=f	
+
+1	Un	un	DET	DET	n=s|g=m	
+2	éléphant	éléphant	NC	NC	n=s|g=m	
+3	d'	de	P	P		
+4	Afrique	Afrique	NPP	NPP	n=s|g=f	
+5	s'	se	CLR	CLR	n=p,s|p=3	
+6	asperge	asperge	NC	NC	n=s|g=f	
+7	de	de	P	P		
+8	poussière	poussière	NC	NC	n=s|g=f	
+9	.	.	PONCT	PONCT		
+
+1	Un	un	DET	DET	n=s|g=m	
+2	éléphant	éléphant	NC	NC	n=s|g=m	
+3	traverse	traverser	V	V	n=s|t=P,S|p=1,3	
+4	une	une	DET	DET	n=s|g=f	
+5	rivière	rivière	NC	NC	n=s|g=f	
+6	à	à	P	P		
+7	la	la	DET	DET	n=s|g=f	
+8	nage	nage	NC	NC	n=s|g=f	
+9	,	,	PONCT	PONCT		
+10	en	en	P	P		
+11	Afrique	Afrique	NPP	NPP	n=s|g=f	
+12	,	,	PONCT	PONCT		
+13	en	en	P	P		
+14	utilisant	utiliser	VPR	VPR	t=G	
+15	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+16	trompe	trompe	NC	NC	n=s|g=f	
+17	comme	comme	P	P		
+18	un	un	DET	DET	n=s|g=m	
+19	tuba	tuba	NC	NC	n=s|g=m	
+20	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	éléphants	éléphant	NC	NC	n=p|g=m	
+3	d'	de	P	P		
+4	Afrique	Afrique	NPP	NPP	n=s|g=f	
+5	et	et	CC	CC		
+6	d'	de	P	P		
+7	Asie	Asie	NPP	NPP	n=s|g=f	
+8	forment	former	V	V	n=p|t=P,S|p=3	
+9	ensemble	ensemble	ADV	ADV		
+10	le	le	DET	DET	n=s|g=m	
+11	groupe	groupe	NC	NC	n=s|g=m	
+12	des	de	P+D	P+D	n=p	
+13	proboscidiens	proboscidien	NC	NC	n=p|g=m	
+14	,	,	PONCT	PONCT		
+15	c'	ce	CLS	CLS		
+16	est	être	V	V	n=s|t=P|p=3	
+17	-	-	PONCT	PONCT		
+18	à	à	P	P		
+19	-	-	PONCT	PONCT		
+20	dire	dire	VINF	VINF	t=W	
+21	des	des	DET	DET	n=p	
+22	animaux	animal	NC	NC	n=p|g=m	
+23	à	à	P	P		
+24	trompe	trompe	NC	NC	n=s|g=f	
+25	.	.	PONCT	PONCT		
+
+1	On	on	CLS	CLS	n=s|p=3	
+2	connaît	connaître	V	V	n=s|t=P|p=3	
+3	beaucoup	beaucoup	ADV	ADV		
+4	d'	de	DET	DET	n=p	
+5	autres	autre	ADJ	ADJ	n=p	
+6	fossiles	fossile	NC	NC	n=p|g=m	
+7	de	de	P	P		
+8	proboscidiens	proboscidien	NC	NC	n=p|g=m	
+9	fossiles	fossile	ADJ	ADJ	n=p	
+10	,	,	PONCT	PONCT		
+11	de	de	P	P		
+12	"	"	PONCT	PONCT		
+13	cousins	cousin	NC	NC	n=p|g=m	
+14	"	"	PONCT	PONCT		
+15	préhistoriques	préhistorique	ADJ	ADJ	n=p	
+16	des	de	P+D	P+D	n=p	
+17	éléphants	éléphant	NC	NC	n=p|g=m	
+18	,	,	PONCT	PONCT		
+19	qui	qui	PROREL	PROREL	n=s	
+20	ont	avoir	V	V	n=p|t=P|p=3	
+21	aujourd'hui	aujourd'hui	ADV	ADV		
+22	disparu	disparaître	VPP	VPP	n=s|g=m|t=K	
+23	,	,	PONCT	PONCT		
+24	comme	comme	P	P		
+25	:	:	PONCT	PONCT		
+
+1	Ces	ces	DET	DET	n=p	
+2	animaux	animal	NC	NC	n=p|g=m	
+3	vivaient	vivre	V	V	n=p|t=I|p=3	
+4	il	il	CLS	CLS	n=s|g=m|p=3	
+5	y	y	CLO	CLO		
+6	a	avoir	V	V	n=s|t=P|p=3	
+7	quelques	quelques	DET	DET	n=p	
+8	centaines	centaine	NC	NC	n=p|g=f	
+9	de	de	P	P		
+10	milliers	millier	NC	NC	n=p|g=m	
+11	d'	de	P	P		
+12	années	année	NC	NC	n=p|g=f	
+13	,	,	PONCT	PONCT		
+14	et	et	CC	CC		
+15	ont	avoir	V	V	n=p|t=P|p=3	
+16	côtoyé	côtoyer	VPP	VPP	n=s|g=m|t=K	
+17	les	les	DET	DET	n=p	
+18	hommes	homme	NC	NC	n=p|g=m	
+19	préhistoriques	préhistorique	ADJ	ADJ	n=p	
+20	.	.	PONCT	PONCT		
+
+1	Mais	mais	CC	CC		
+2	des	des	DET	DET	n=p	
+3	cousins	cousin	NC	NC	n=p|g=m	
+4	plus	plus	ADV	ADV		
+5	éloignés	éloigner	ADJ	ADJ	n=p|g=m|t=K	
+6	des	de	P+D	P+D	n=p	
+7	éléphants	éléphant	NC	NC	n=p|g=m	
+8	,	,	PONCT	PONCT		
+9	et	et	CC	CC		
+10	plus	plus	ADV	ADV		
+11	étranges	étrange	ADJ	ADJ	n=p	
+12	,	,	PONCT	PONCT		
+13	ont	avoir	V	V	n=p|t=P|p=3	
+14	également	_	ADV	ADV		
+15	existé	exister	VPP	VPP	n=s|g=m|t=K	
+16	,	,	PONCT	PONCT		
+17	et	et	CC	CC		
+18	ont	avoir	V	V	n=p|t=P|p=3	
+19	disparu	disparaître	VPP	VPP	n=s|g=m|t=K	
+20	il	il	CLS	CLS	n=s|g=m|p=3	
+21	y	y	CLO	CLO		
+22	a	avoir	V	V	n=s|t=P|p=3	
+23	plusieurs	plusieurs	DET	DET	n=p	
+24	millions	million	NC	NC	n=p	
+25	d'	de	P	P		
+26	années	année	NC	NC	n=p|g=f	
+27	,	,	PONCT	PONCT		
+28	comme	comme	CS	CS		
+29	le	le	DET	DET	n=s|g=m	
+30	stégodon	_	NC	NC		
+31	ou	ou	CC	CC		
+32	le	le	DET	DET	n=s|g=m	
+33	deinotherium	_	NC	NC		
+34	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	y	y	CLO	CLO		
+3	a	avoir	V	V	n=s|t=P|p=3	
+4	60	60	VPP	VPP		
+5	millions	million	NC	NC	n=p	
+6	d'	de	P	P		
+7	années	année	NC	NC	n=p|g=f	
+8	,	,	PONCT	PONCT		
+9	vivait	vivre	V	V	n=s|t=I|p=3	
+10	le	le	DET	DET	n=s|g=m	
+11	plus	plus	ADV	ADV		
+12	ancien	ancien	ADJ	ADJ	n=s|g=m	
+13	proboscidien	proboscidien	NC	NC	n=s|g=m	
+14	connu	connaître	VPP	VPP	n=s|g=m|t=K	
+15	actuellement	_	ADV	ADV		
+16	;	;	PONCT	PONCT		
+17	c'	ce	CLS	CLS		
+18	était	être	V	V	n=s|t=I|p=3	
+19	probablement	_	ADV	ADV		
+20	un	un	DET	DET	n=s|g=m	
+21	cousin	cousin	NC	NC	n=s|g=m	
+22	l'	le	DET	DET	n=s	
+23	ancêtre	ancêtre	NC	NC	n=s	
+24	des	de	P+D	P+D	n=p	
+25	éléphants	éléphant	NC	NC	n=p|g=m	
+26	et	et	CC	CC		
+27	des	de	P+D	P+D	n=p	
+28	mammouths	mammouth	NC	NC	n=p|g=m	
+29	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	s'	se	CLR	CLR	n=p,s|p=3	
+3	appelait	appeler	V	V	n=s|t=I|p=3	
+4	le	le	DET	DET	n=s|g=m	
+5	Phosphaterium	_	NPP	NPP		
+6	,	,	PONCT	PONCT		
+7	et	et	CC	CC		
+8	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+9	squelette	squelette	NC	NC	n=s|g=m	
+10	fossile	fossile	ADJ	ADJ	n=s	
+11	a	avoir	V	V	n=s|t=P|p=3	
+12	été	être	VPP	VPP	t=K	
+13	découvert	découvrir	VPP	VPP	n=s|g=m|t=K	
+14	en	en	P	P		
+15	1996	1996	NC	NC		
+16	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	Phosphaterium	_	NPP	NPP		
+3	,	,	PONCT	PONCT		
+4	ressemblant	ressembler	VPR	VPR	t=G	
+5	un	un	DET	DET	n=s|g=m	
+6	peu	peu	ADV	ADV		
+7	à	à	P	P		
+8	un	un	DET	DET	n=s|g=m	
+9	tapir	tapir	NC	NC	n=s|g=m	
+10	actuel	actuel	ADJ	ADJ	n=s|g=m	
+11	,	,	PONCT	PONCT		
+12	avait	avoir	V	V	n=s|t=I|p=3	
+13	la	la	DET	DET	n=s|g=f	
+14	taille	taille	NC	NC	n=s|g=f	
+15	d'	de	P	P		
+16	un	un	DET	DET	n=s|g=m	
+17	chien	chien	NC	NC	n=s|g=m	
+18	,	,	PONCT	PONCT		
+19	pesait	peser	V	V	n=s|t=I|p=3	
+20	environ	environ	ADV	ADV		
+21	15	15	ADJ	ADJ		
+22	kg	kilogramme	NC	NC	g=m	
+23	et	et	CC	CC		
+24	n'	ne	ADV	ADV		
+25	avait	avoir	V	V	n=s|t=I|p=3	
+26	pas	pas	ADV	ADV		
+27	de	de	P	P		
+28	trompe2	_	NC	NC		
+29	.	.	PONCT	PONCT		
+
+1	Tous	tout	ADJ	ADJ	n=p|g=m	
+2	ces	ces	DET	DET	n=p	
+3	animaux	animal	NC	NC	n=p|g=m	
+4	ont	avoir	V	V	n=p|t=P|p=3	
+5	aujourd'hui	aujourd'hui	ADV	ADV		
+6	disparu	disparaître	VPP	VPP	n=s|g=m|t=K	
+7	;	;	PONCT	PONCT		
+8	les	les	DET	DET	n=p	
+9	cousins	cousin	NC	NC	n=p|g=m	
+10	actuels	actuel	ADJ	ADJ	n=p|g=m	
+11	les	les	DET	DET	n=p	
+12	plus	plus	ADV	ADV		
+13	proches	proche	ADJ	ADJ	n=p	
+14	des	de	P+D	P+D	n=p	
+15	éléphants	éléphant	NC	NC	n=p|g=m	
+16	sont	être	V	V	n=p|t=P|p=3	
+17	des	des	DET	DET	n=p	
+18	animaux	animal	NC	NC	n=p|g=m	
+19	marins	marin	ADJ	ADJ	n=p|g=m	
+20	:	:	PONCT	PONCT		
+21	les	les	DET	DET	n=p	
+22	siréniens	_	NC	NC		
+23	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	éléphant	éléphant	NC	NC	n=s|g=m	
+3	d'	de	P	P		
+4	Asie	Asie	NPP	NPP	n=s|g=f	
+5	peut	pouvoir	V	V	n=s|t=P|p=3	
+6	être	être	VINF	VINF	t=W	
+7	apprivoisé	apprivoiser	VPP	VPP	n=s|g=m|t=K	
+8	et	et	CC	CC		
+9	dressé	dresser	VPP	VPP	n=s|g=m|t=K	
+10	;	;	PONCT	PONCT		
+11	il	il	CLS	CLS	n=s|g=m|p=3	
+12	est	être	V	V	n=s|t=P|p=3	
+13	dirigé	diriger	VPP	VPP	n=s|g=m|t=K	
+14	par	par	P	P		
+15	un	un	DET	DET	n=s|g=m	
+16	cornac	cornac	NC	NC	n=s|g=m	
+17	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	éléphant	éléphant	NC	NC	n=s|g=m	
+3	vivant	vivre	VPR	VPR	t=G	
+4	très	très	ADV	ADV		
+5	longtemps	longtemps	ADV	ADV		
+6	,	,	PONCT	PONCT		
+7	c'	ce	CLS	CLS		
+8	est	être	V	V	n=s|t=P|p=3	
+9	presque	presque	ADV	ADV		
+10	un	un	DET	DET	n=s|g=m	
+11	mariage	mariage	NC	NC	n=s|g=m	
+12	pour	pour	P	P		
+13	la	la	DET	DET	n=s|g=f	
+14	vie	vie	NC	NC	n=s|g=f	
+15	entre	entre	P	P		
+16	cet	cet	DET	DET	n=s|g=m	
+17	homme	homme	NC	NC	n=s|g=m	
+18	et	et	CC	CC		
+19	l'	le	DET	DET	n=s	
+20	animal	animal	NC	NC	n=s|g=m	
+21	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	cornac	cornac	NC	NC	n=s|g=m	
+3	devra	devoir	V	V	n=s|t=F|p=3	
+4	s'	se	CLR	CLR	n=p,s|p=3	
+5	occuper	occuper	VINF	VINF	t=W	
+6	toute	tout	ADJ	ADJ	n=s|g=f	
+7	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+8	vie	vie	NC	NC	n=s|g=f	
+9	de	de	P	P		
+10	l'	le	DET	DET	n=s	
+11	éléphant	éléphant	NC	NC	n=s|g=m	
+12	qui	qui	PROREL	PROREL	n=s	
+13	,	,	PONCT	PONCT		
+14	en	en	P	P		
+15	échange	échange	NC	NC	n=s|g=m	
+16	,	,	PONCT	PONCT		
+17	apportera	apporter	V	V	n=s|t=F|p=3	
+18	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+19	force	force	NC	NC	n=s|g=f	
+20	pour	pour	P	P		
+21	transporter	transporter	VINF	VINF	t=W	
+22	de	de	DET	DET	n=p	
+23	lourdes	lourd	ADJ	ADJ	n=p|g=f	
+24	charges	charge	NC	NC	n=p|g=f	
+25	.	.	PONCT	PONCT		
+
+1	Cependant	cependant	ADV	ADV		
+2	,	,	PONCT	PONCT		
+3	l'	le	DET	DET	n=s	
+4	éléphant	éléphant	NC	NC	n=s|g=m	
+5	n'	ne	ADV	ADV		
+6	est	être	V	V	n=s|t=P|p=3	
+7	pas	pas	ADV	ADV		
+8	un	un	DET	DET	n=s|g=m	
+9	animal	animal	NC	NC	n=s|g=m	
+10	domestique	domestique	ADJ	ADJ	n=s	
+11	:	:	PONCT	PONCT		
+12	il	il	CLS	CLS	n=s|g=m|p=3	
+13	n'	ne	ADV	ADV		
+14	existe	exister	V	V	n=s|t=P,S|p=1,3	
+15	aucun	aucun	DET	DET	n=s|g=m	
+16	élevage	élevage	NC	NC	n=s|g=m	
+17	d'	de	P	P		
+18	éléphants	éléphant	NC	NC	n=p|g=m	
+19	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	éléphants	éléphant	NC	NC	n=p|g=m	
+3	sont	être	V	V	n=p|t=P|p=3	
+4	capturés	capturer	VPP	VPP	n=p|g=m|t=K	
+5	tout	tout	ADV	ADV		
+6	jeunes	jeune	ADJ	ADJ	n=p	
+7	dans	dans	P	P		
+8	la	la	DET	DET	n=s|g=f	
+9	nature	nature	NC	NC	n=s|g=f	
+10	,	,	PONCT	PONCT		
+11	apprivoisés	apprivoiser	VPP	VPP	n=p|g=m|t=K	
+12	et	et	CC	CC		
+13	dressés	dresser	VPP	VPP	n=p|g=m|t=K	
+14	pour	pour	P	P		
+15	le	le	DET	DET	n=s|g=m	
+16	travail	travail	NC	NC	n=s|g=m	
+17	qu'	que	PROREL	PROREL		
+18	ils	ils	CLS	CLS	n=p|g=m|p=3	
+19	auront	avoir	V	V	n=p|t=F|p=3	
+20	à	à	P	P		
+21	faire	faire	VINF	VINF	t=W	
+22	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	éléphants	éléphant	NC	NC	n=p|g=m	
+3	sont	être	V	V	n=p|t=P|p=3	
+4	dotés	doter	VPP	VPP	n=p|g=m|t=K	
+5	d'	de	P	P		
+6	une	une	DET	DET	n=s|g=f	
+7	force	force	NC	NC	n=s|g=f	
+8	impressionnante	impressionnant	ADJ	ADJ	n=s|g=f	
+9	,	,	PONCT	PONCT		
+10	souvent	souvent	ADV	ADV		
+11	exploitée	exploiter	VPP	VPP	n=s|g=f|t=K	
+12	en	en	P	P		
+13	Asie	Asie	NPP	NPP	n=s|g=f	
+14	pour	pour	P	P		
+15	le	le	DET	DET	n=s|g=m	
+16	transport	transport	NC	NC	n=s|g=m	
+17	de	de	P	P		
+18	lourdes	lourd	ADJ	ADJ	n=p|g=f	
+19	marchandises	marchandise	NC	NC	n=p|g=f	
+20	sur	sur	P	P		
+21	leur	leur	DET	DET	n=s|p=3|poss=p	
+22	dos	dos	NC	NC	g=m	
+23	.	.	PONCT	PONCT		
+
+1	Capables	capable	ADJ	ADJ	n=p	
+2	de	de	P	P		
+3	travailler	travailler	VINF	VINF	t=W	
+4	cinq	cinq	DET	DET	s=card|n=p	
+5	à	à	P	P		
+6	six	six	DET	DET	s=card|n=p	
+7	heures	heure	NC	NC	n=p|g=f	
+8	sans	sans	P	P		
+9	interruption	interruption	NC	NC	n=s|g=f	
+10	,	,	PONCT	PONCT		
+11	les	les	DET	DET	n=p	
+12	éléphants	éléphant	NC	NC	n=p|g=m	
+13	sont	être	V	V	n=p|t=P|p=3	
+14	également	_	ADV	ADV		
+15	exploités	exploiter	VPP	VPP	n=p|g=m|t=K	
+16	pour	pour	P	P		
+17	l'	le	DET	DET	n=s	
+18	agriculture	agriculture	NC	NC	n=s|g=f	
+19	et	et	CC	CC		
+20	le	le	DET	DET	n=s|g=m	
+21	transfert	transfert	NC	NC	n=s|g=m	
+22	de	de	P	P		
+23	troncs	tronc	NC	NC	n=p|g=m	
+24	d'	de	P	P		
+25	arbres	arbre	NC	NC	n=p|g=m	
+26	qu'	que	PROREL	PROREL		
+27	ils	ils	CLS	CLS	n=p|g=m|p=3	
+28	saisissent	saisir	V	V	n=p|t=P,S|p=3	
+29	avec	avec	P	P		
+30	leur	leur	DET	DET	n=s|p=3|poss=p	
+31	trompe	trompe	NC	NC	n=s|g=f	
+32	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	Inde	Inde	NPP	NPP	n=s|g=f	
+3	,	,	PONCT	PONCT		
+4	les	les	DET	DET	n=p	
+5	princes	prince	NC	NC	n=p|g=m	
+6	maharajas	_	NPP	NPP		
+7	et	et	CC	CC		
+8	leur	leur	DET	DET	n=s|p=3|poss=p	
+9	suite	suite	NC	NC	n=s|g=f	
+10	aimaient	aimer	V	V	n=p|t=I|p=3	
+11	défiler	défiler	VINF	VINF	t=W	
+12	sur	sur	P	P		
+13	leur	leur	DET	DET	n=s|p=3|poss=p	
+14	trône	trône	NC	NC	n=s|g=m	
+15	à	à	P	P		
+16	dos	dos	NC	NC	g=m	
+17	d'	de	P	P		
+18	éléphants	éléphant	NC	NC	n=p|g=m	
+19	magnifiquement	_	ADV	ADV		
+20	décorés	décorer	ADJ	ADJ	n=p|g=m|t=K	
+21	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	éléphant	éléphant	NC	NC	n=s|g=m	
+3	était	être	V	V	n=s|t=I|p=3	
+4	utilisé	utiliser	VPP	VPP	n=s|g=m|t=K	
+5	,	,	PONCT	PONCT		
+6	notamment	_	ADV	ADV		
+7	,	,	PONCT	PONCT		
+8	pour	pour	P	P		
+9	la	la	DET	DET	n=s|g=f	
+10	chasse	chasse	NC	NC	n=s|g=f	
+11	au	à	P+D	P+D	n=s|g=m	
+12	tigre	tigre	NC	NC	n=s|g=m	
+13	:	:	PONCT	PONCT		
+14	en	en	P	P		
+15	raison	raison	NC	NC	n=s|g=f	
+16	de	de	P	P		
+17	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+18	taille	taille	NC	NC	n=s|g=f	
+19	,	,	PONCT	PONCT		
+20	l'	le	DET	DET	n=s	
+21	éléphant	éléphant	NC	NC	n=s|g=m	
+22	d'	de	P	P		
+23	Asie	Asie	NPP	NPP	n=s|g=f	
+24	ne	ne	ADV	ADV		
+25	craint	craindre	V	V	n=s|t=P|p=3	
+26	pas	pas	ADV	ADV		
+27	le	le	DET	DET	n=s|g=m	
+28	tigre	tigre	NC	NC	n=s|g=m	
+29	;	;	PONCT	PONCT		
+30	le	le	DET	DET	n=s|g=m	
+31	chasseur	chasseur	NC	NC	n=s|g=m	
+32	,	,	PONCT	PONCT		
+33	posté	poster	VPP	VPP	n=s|g=m|t=K	
+34	sur	sur	P	P		
+35	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+36	dos	dos	NC	NC	g=m	
+37	,	,	PONCT	PONCT		
+38	était	être	V	V	n=s|t=I|p=3	
+39	protégé	protéger	VPP	VPP	n=s|g=m|t=K	
+40	par	par	P	P		
+41	la	la	DET	DET	n=s|g=f	
+42	hauteur	hauteur	NC	NC	n=s|g=f	
+43	.	.	PONCT	PONCT		
+
+1	De	de	P	P		
+2	nos	nos	DET	DET	n=p|p=1|poss=p	
+3	jours	jour	NC	NC	n=p|g=m	
+4	,	,	PONCT	PONCT		
+5	des	des	DET	DET	n=p	
+6	touristes	touriste	NC	NC	n=p	
+7	sont	être	V	V	n=p|t=P|p=3	
+8	heureux	heureux	ADJ	ADJ	g=m	
+9	d'	de	P	P		
+10	être	être	VINF	VINF	t=W	
+11	promenés	promener	VPP	VPP	n=p|g=m|t=K	
+12	à	à	P	P		
+13	plusieurs	plusieurs	DET	DET	n=p	
+14	à	à	P	P		
+15	dos	dos	NC	NC	g=m	
+16	d'	de	P	P		
+17	éléphant	éléphant	NC	NC	n=s|g=m	
+18	.	.	PONCT	PONCT		
+
+1	Dans	dans	P	P		
+2	les	les	DET	DET	n=p	
+3	spectacles	spectacle	NC	NC	n=p|g=m	
+4	de	de	P	P		
+5	cirque	cirque	NC	NC	n=s|g=m	
+6	,	,	PONCT	PONCT		
+7	les	les	DET	DET	n=p	
+8	dresseurs	dresseur	NC	NC	n=p|g=m	
+9	montrent	montrer	V	V	n=p|t=P,S|p=3	
+10	ce	ce	PRO	PRO	n=s	
+11	que	que	PROREL	PROREL		
+12	savent	savoir	V	V	n=p|t=P|p=3	
+13	faire	faire	VINF	VINF	t=W	
+14	leurs	leurs	DET	DET	n=p|p=3|poss=p	
+15	éléphants	éléphant	NC	NC	n=p|g=m	
+16	,	,	PONCT	PONCT		
+17	y	y	CLO	CLO		
+18	compris	comprendre	VPP	VPP	g=m|t=K	
+19	des	des	DET	DET	n=p	
+20	exercices	exercice	NC	NC	n=p|g=m	
+21	d'	de	P	P		
+22	équilibre	équilibre	NC	NC	n=s|g=m	
+23	.	.	PONCT	PONCT		
+
+1	Comme	comme	CS	CS		
+2	il	il	CLS	CLS	n=s|g=m|p=3	
+3	est	être	V	V	n=s|t=P|p=3	
+4	facile	facile	ADJ	ADJ	n=s	
+5	à	à	P	P		
+6	diriger	diriger	VINF	VINF	t=W	
+7	,	,	PONCT	PONCT		
+8	on	on	CLS	CLS	n=s|p=3	
+9	a	avoir	V	V	n=s|t=P|p=3	
+10	utilisé	utiliser	VPP	VPP	n=s|g=m|t=K	
+11	aussi	aussi	ADV	ADV		
+12	l'	le	DET	DET	n=s	
+13	éléphant	éléphant	NC	NC	n=s|g=m	
+14	d'	de	P	P		
+15	Asie	Asie	NPP	NPP	n=s|g=f	
+16	dans	dans	P	P		
+17	des	des	DET	DET	n=p	
+18	films	film	NC	NC	n=p|g=m	
+19	,	,	PONCT	PONCT		
+20	en	en	P	P		
+21	lui	lui	CLO	CLO	n=s|p=3	
+22	ajoutant	ajouter	VPR	VPR	t=G	
+23	de	de	P	P		
+24	grandes	grand	ADJ	ADJ	n=p|g=f	
+25	oreilles	oreille	NC	NC	n=p|g=f	
+26	si	si	CS	CS		
+27	l'	le	DET	DET	n=s	
+28	on	on	CLS	CLS	n=s|p=3	
+29	devait	devoir	V	V	n=s|t=I|p=3	
+30	le	le	CLO	CLO	n=s|g=m|p=3	
+31	faire	faire	VINF	VINF	t=W	
+32	croire	croire	VINF	VINF	t=W	
+33	africain	africain	ADJ	ADJ	n=s|g=m	
+34	.	.	PONCT	PONCT		
+
+1	Au	à	P+D	P+D	n=s|g=m	
+2	Rajasthan	_	NPP	NPP		
+3	(	(	PONCT	PONCT		
+4	en	en	P	P		
+5	Inde	Inde	NPP	NPP	n=s|g=f	
+6	)	)	PONCT	PONCT		
+7	,	,	PONCT	PONCT		
+8	au	à	P+D	P+D	n=s|g=m	
+9	Népal	Népal	NPP	NPP	n=s|g=m	
+10	,	,	PONCT	PONCT		
+11	au	à	P+D	P+D	n=s|g=m	
+12	Sri	Sri	NPP	NPP	n=s|g=f	
+13	Lanka	_	NPP	NPP		
+14	et	et	CC	CC		
+15	en	en	P	P		
+16	Thaïlande	Thaïlande	NPP	NPP	n=s|g=f	
+17	,	,	PONCT	PONCT		
+18	l'	le	DET	DET	n=s	
+19	éléphant	éléphant	NC	NC	n=s|g=m	
+20	est	être	V	V	n=s|t=P|p=3	
+21	utilisé	utiliser	VPP	VPP	n=s|g=m|t=K	
+22	pour	pour	P	P		
+23	organiser	organiser	VINF	VINF	t=W	
+24	des	des	DET	DET	n=p	
+25	matchs	_	NC	NC		
+26	de	de	P	P		
+27	polo	polo	NC	NC	n=s|g=m	
+28	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	éléphant	éléphant	NC	NC	n=s|g=m	
+3	d'	de	P	P		
+4	Asie	Asie	NPP	NPP	n=s|g=f	
+5	est	être	V	V	n=s|t=P|p=3	
+6	le	le	DET	DET	n=s|g=m	
+7	seul	seul	ADJ	ADJ	n=s|g=m	
+8	éléphant	éléphant	NC	NC	n=s|g=m	
+9	apprivoisé	apprivoiser	VPP	VPP	n=s|g=m|t=K	
+10	aujourd'hui	aujourd'hui	ADV	ADV		
+11	,	,	PONCT	PONCT		
+12	mais	mais	CC	CC		
+13	cela	cela	PRO	PRO	n=s|g=m	
+14	n'	ne	ADV	ADV		
+15	a	avoir	V	V	n=s|t=P|p=3	
+16	pas	pas	ADV	ADV		
+17	toujours	toujours	ADV	ADV		
+18	été	être	VPP	VPP	t=K	
+19	le	le	DET	DET	n=s|g=m	
+20	cas	cas	NC	NC	g=m	
+21	;	;	PONCT	PONCT		
+22	durant	durant	P	P		
+23	l'	le	DET	DET	n=s	
+24	Antiquité	_	NPP	NPP		
+25	,	,	PONCT	PONCT		
+26	d'	de	DET	DET	n=p	
+27	autres	autre	ADJ	ADJ	n=p	
+28	éléphants	éléphant	NC	NC	n=p|g=m	
+29	ont	avoir	V	V	n=p|t=P|p=3	
+30	été	être	VPP	VPP	t=K	
+31	utilisés	utiliser	VPP	VPP	n=p|g=m|t=K	
+32	,	,	PONCT	PONCT		
+33	comme	comme	P	P		
+34	l'	le	DET	DET	n=s	
+35	éléphant	éléphant	NC	NC	n=s|g=m	
+36	des	de	P+D	P+D	n=p	
+37	forêts	forêt	NC	NC	n=p|g=f	
+38	,	,	PONCT	PONCT		
+39	et	et	CC	CC		
+40	l'	le	DET	DET	n=s	
+41	éléphant	éléphant	NC	NC	n=s|g=m	
+42	d'	de	P	P		
+43	Afrique	Afrique	NPP	NPP	n=s|g=f	
+44	du	de	P+D	P+D	n=s|g=m	
+45	Nord	Nord	NPP	NPP	n=s|g=m	
+46	,	,	PONCT	PONCT		
+47	qui	qui	PROREL	PROREL	n=s	
+48	a	avoir	V	V	n=s|t=P|p=3	
+49	aujourd'hui	aujourd'hui	ADV	ADV		
+50	disparu	disparaître	VPP	VPP	n=s|g=m|t=K	
+51	.	.	PONCT	PONCT		
+
+1	Dans	dans	P	P		
+2	l'	le	DET	DET	n=s	
+3	Antiquité	_	NPP	NPP		
+4	,	,	PONCT	PONCT		
+5	et	et	CC	CC		
+6	jusqu'	jusque	P	P		
+7	au	à	P+D	P+D	n=s|g=m	
+8	Moyen	Moyen	NPP	NPP	n=s|g=m	
+9	Âge	_	NPP	NPP		
+10	,	,	PONCT	PONCT		
+11	les	les	DET	DET	n=p	
+12	éléphants	éléphant	NC	NC	n=p|g=m	
+13	ont	avoir	V	V	n=p|t=P|p=3	
+14	servi	servir	VPP	VPP	n=s|g=m|t=K	
+15	d'	de	P	P		
+16	engins	engin	NC	NC	n=p|g=m	
+17	de	de	P	P		
+18	guerre	guerre	NC	NC	n=s|g=f	
+19	,	,	PONCT	PONCT		
+20	capables	capable	ADJ	ADJ	n=p	
+21	d'	de	P	P		
+22	écraser	écraser	VINF	VINF	t=W	
+23	les	les	DET	DET	n=p	
+24	ennemis	ennemi	NC	NC	n=p|g=m	
+25	qui	qui	PROREL	PROREL	n=s	
+26	ne	ne	ADV	ADV		
+27	pouvaient	pouvoir	V	V	n=p|t=I|p=3	
+28	pas	pas	ADV	ADV		
+29	en	en	CLO	CLO		
+30	percer	percer	VINF	VINF	t=W	
+31	la	la	DET	DET	n=s|g=f	
+32	peau	peau	NC	NC	n=s|g=f	
+33	avec	avec	P	P		
+34	leurs	leurs	DET	DET	n=p|p=3|poss=p	
+35	lances	lance	NC	NC	n=p|g=f	
+36	ou	ou	CC	CC		
+37	leurs	leurs	DET	DET	n=p|p=3|poss=p	
+38	flèches	flèche	NC	NC	n=p	
+39	.	.	PONCT	PONCT		
+
+1	Par	par	P	P		
+2	la	la	DET	DET	n=s|g=f	
+3	suite	suite	NC	NC	n=s|g=f	
+4	,	,	PONCT	PONCT		
+5	les	les	DET	DET	n=p	
+6	armes	arme	NC	NC	n=p|g=f	
+7	à	à	P	P		
+8	feu	feu	NC	NC	n=s|g=m	
+9	pouvaient	pouvoir	V	V	n=p|t=I|p=3	
+10	tuer	tuer	VINF	VINF	t=W	
+11	les	les	DET	DET	n=p	
+12	éléphants	éléphant	NC	NC	n=p|g=m	
+13	qui	qui	PROREL	PROREL	n=s	
+14	ne	ne	ADV	ADV		
+15	servirent	servir	V	V	n=p|t=J|p=3	
+16	plus	plus	ADV	ADV		
+17	pour	pour	P	P		
+18	la	la	DET	DET	n=s|g=f	
+19	guerre	guerre	NC	NC	n=s|g=f	
+20	.	.	PONCT	PONCT		
+
+1	Seul	seul	ADJ	ADJ	n=s|g=m	
+2	prolongement	prolongement	NC	NC	n=s|g=m	
+3	de	de	P	P		
+4	cette	cette	DET	DET	n=s|g=f	
+5	utilisation	utilisation	NC	NC	n=s|g=f	
+6	guerrière	guerrier	ADJ	ADJ	n=s|g=f	
+7	:	:	PONCT	PONCT		
+8	des	des	DET	DET	n=p	
+9	chasseurs	chasseur	NC	NC	n=p|g=m	
+10	de	de	P	P		
+11	fauves	fauve	NC	NC	n=p|g=m	
+12	montaient	monter	V	V	n=p|t=I|p=3	
+13	à	à	P	P		
+14	dos	dos	NC	NC	g=m	
+15	d'	de	P	P		
+16	éléphant	éléphant	NC	NC	n=s|g=m	
+17	pour	pour	P	P		
+18	ne	ne	ADV	ADV		
+19	pas	pas	ADV	ADV		
+20	craindre	craindre	VINF	VINF	t=W	
+21	d'	de	P	P		
+22	être	être	VINF	VINF	t=W	
+23	attaqués	attaquer	VPP	VPP	n=p|g=m|t=K	
+24	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	Asie	Asie	NPP	NPP	n=s|g=f	
+3	,	,	PONCT	PONCT		
+4	et	et	CC	CC		
+5	tout	tout	ADV	ADV		
+6	particulièrement	_	ADV	ADV		
+7	en	en	P	P		
+8	Inde	Inde	NPP	NPP	n=s|g=f	
+9	,	,	PONCT	PONCT		
+10	des	des	DET	DET	n=p	
+11	éléphants	éléphant	NC	NC	n=p|g=m	
+12	dressés	dresser	VPP	VPP	n=p|g=m|t=K	
+13	ont	avoir	V	V	n=p|t=P|p=3	
+14	été	être	VPP	VPP	t=K	
+15	utilisés	utiliser	VPP	VPP	n=p|g=m|t=K	
+16	comme	comme	P	P		
+17	moyen	moyen	NC	NC	n=s|g=m	
+18	d'	de	P	P		
+19	exécution	exécution	NC	NC	n=s|g=f	
+20	,	,	PONCT	PONCT		
+21	pour	pour	P	P		
+22	tuer	tuer	VINF	VINF	t=W	
+23	des	des	DET	DET	n=p	
+24	condamnés	condamné	NC	NC	n=p|g=m	
+25	à	à	P	P		
+26	mort	mort	NC	NC	n=s|g=f,m	
+27	,	,	PONCT	PONCT		
+28	de	de	P	P		
+29	façon	façon	NC	NC	n=s|g=f	
+30	très	très	ADV	ADV		
+31	spectaculaire	spectaculaire	ADJ	ADJ	n=s	
+32	.	.	PONCT	PONCT		
+
+1	Cette	cette	DET	DET	n=s|g=f	
+2	pratique	pratique	NC	NC	n=s|g=f	
+3	,	,	PONCT	PONCT		
+4	interdite	interdire	VPP	VPP	n=s|g=f|t=K	
+5	par	par	P	P		
+6	les	les	DET	DET	n=p	
+7	Anglais	anglais	NC	NC	g=m	
+8	lors	lors	ADV	ADV		
+9	de	de	P	P		
+10	la	la	DET	DET	n=s|g=f	
+11	colonisation	colonisation	NC	NC	n=s|g=f	
+12	de	de	P	P		
+13	l'	le	DET	DET	n=s	
+14	Inde	Inde	NPP	NPP	n=s|g=f	
+15	,	,	PONCT	PONCT		
+16	a	avoir	V	V	n=s|t=P|p=3	
+17	aujourd'hui	aujourd'hui	ADV	ADV		
+18	disparu	disparaître	VPP	VPP	n=s|g=m|t=K	
+19	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	éléphants	éléphant	NC	NC	n=p|g=m	
+3	ont	avoir	V	V	n=p|t=P|p=3	
+4	marqué	marquer	VPP	VPP	n=s|g=m|t=K	
+5	l'	le	DET	DET	n=s	
+6	histoire	histoire	NC	NC	n=s|g=f	
+7	,	,	PONCT	PONCT		
+8	à	à	P	P		
+9	plusieurs	plusieurs	DET	DET	n=p	
+10	reprises	reprise	NC	NC	n=p|g=f	
+11	:	:	PONCT	PONCT		
+
+1	S'	se	CLR	CLR	n=p,s|p=3	
+2	il	il	CLS	CLS	n=s|g=m|p=3	
+3	y	y	CLO	CLO		
+4	a	avoir	V	V	n=s|t=P|p=3	
+5	eu	avoir	VPP	VPP	n=s|g=m|t=K	
+6	des	des	DET	DET	n=p	
+7	éléphants	éléphant	NC	NC	n=p|g=m	
+8	en	en	P	P		
+9	Europe	Europe	NPP	NPP	n=s|g=f	
+10	durant	durant	P	P		
+11	la	la	DET	DET	n=s|g=f	
+12	préhistoire	préhistoire	NC	NC	n=s|g=f	
+13	,	,	PONCT	PONCT		
+14	ils	ils	CLS	CLS	n=p|g=m|p=3	
+15	ont	avoir	V	V	n=p|t=P|p=3	
+16	disparu	disparaître	VPP	VPP	n=s|g=m|t=K	
+17	depuis	depuis	P	P		
+18	longtemps	longtemps	ADV	ADV		
+19	...	...	PONCT	PONCT		
+
+1	Si	si	CS	CS		
+2	bien	bien	ADV	ADV		
+3	que	que	CS	CS		
+4	,	,	PONCT	PONCT		
+5	durant	durant	P	P		
+6	l'	le	DET	DET	n=s	
+7	Antiquité	_	NPP	NPP		
+8	,	,	PONCT	PONCT		
+9	la	la	DET	DET	n=s|g=f	
+10	plupart	plupart	NC	NC	n=s|g=f	
+11	des	de	P+D	P+D	n=p	
+12	habitants	habitant	NC	NC	n=p|g=m	
+13	d'	de	P	P		
+14	Europe	Europe	NPP	NPP	n=s|g=f	
+15	,	,	PONCT	PONCT		
+16	d'	de	P	P		
+17	Asie	Asie	NPP	NPP	n=s|g=f	
+18	mineure	mineur	ADJ	ADJ	n=s|g=f	
+19	,	,	PONCT	PONCT		
+20	et	et	CC	CC		
+21	même	même	ADV	ADV		
+22	d'	de	P	P		
+23	Arabie	Arabie	NPP	NPP	n=s|g=f	
+24	,	,	PONCT	PONCT		
+25	n'	ne	ADV	ADV		
+26	avaient	avoir	V	V	n=p|t=I|p=3	
+27	jamais	jamais	ADV	ADV		
+28	vu	voir	VPP	VPP	n=s|g=m|t=K	
+29	d'	de	P	P		
+30	éléphants	éléphant	NC	NC	n=p|g=m	
+31	de	de	P	P		
+32	leur	leur	DET	DET	n=s|p=3|poss=p	
+33	vie	vie	NC	NC	n=s|g=f	
+34	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	éléphant	éléphant	NC	NC	n=s|g=m	
+3	n'	ne	ADV	ADV		
+4	était	être	V	V	n=s|t=I|p=3	
+5	connu	connaître	VPP	VPP	n=s|g=m|t=K	
+6	que	que	CS	CS		
+7	par	par	P	P		
+8	les	les	DET	DET	n=p	
+9	récits	récit	NC	NC	n=p|g=m	
+10	des	de	P+D	P+D	n=p	
+11	explorateurs	explorateur	NC	NC	n=p|g=m	
+12	,	,	PONCT	PONCT		
+13	des	des	DET	DET	n=p	
+14	marins	marin	NC	NC	n=p|g=m	
+15	et	et	CC	CC		
+16	des	de	P+D	P+D	n=p	
+17	soldats	soldat	NC	NC	n=p|g=m	
+18	,	,	PONCT	PONCT		
+19	qui	qui	PROREL	PROREL	n=s	
+20	avaient	avoir	V	V	n=p|t=I|p=3	
+21	visité	visiter	VPP	VPP	n=s|g=m|t=K	
+22	l'	le	DET	DET	n=s	
+23	Afrique	Afrique	NPP	NPP	n=s|g=f	
+24	ou	ou	CC	CC		
+25	l'	le	DET	DET	n=s	
+26	Asie	Asie	NPP	NPP	n=s|g=f	
+27	,	,	PONCT	PONCT		
+28	et	et	CC	CC		
+29	en	en	CLO	CLO		
+30	étaient	être	V	V	n=p|t=I|p=3	
+31	revenus	revenir	VPP	VPP	n=p|g=m|t=K	
+32	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	apparaissait	apparaître	V	V	n=s|t=I|p=3	
+3	donc	donc	ADV	ADV		
+4	comme	comme	P	P		
+5	une	une	DET	DET	n=s|g=f	
+6	créature	créature	NC	NC	n=s|g=f	
+7	extraordinaire	extraordinaire	ADJ	ADJ	n=s	
+8	,	,	PONCT	PONCT		
+9	et	et	CC	CC		
+10	très	très	ADV	ADV		
+11	mystérieuse	mystérieux	ADJ	ADJ	n=s|g=f	
+12	,	,	PONCT	PONCT		
+13	ce	ce	PRO	PRO	n=s	
+14	qui	qui	PROREL	PROREL	n=s	
+15	a	avoir	V	V	n=s|t=P|p=3	
+16	donné	donner	VPP	VPP	n=s|g=m|t=K	
+17	lieu	lieu	NC	NC	n=s|g=m	
+18	à	à	P	P		
+19	bon	bon	ADJ	ADJ	n=s|g=m	
+20	nombre	nombre	NC	NC	n=s|g=m	
+21	d'	de	P	P		
+22	histoires	histoire	NC	NC	n=p|g=f	
+23	.	.	PONCT	PONCT		
+
+1	"	"	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	Afrique	Afrique	NPP	NPP	n=s|g=f	
+3	produit	produire	V	V	n=s|t=P|p=3	
+4	des	des	DET	DET	n=p	
+5	éléphants	éléphant	NC	NC	n=p|g=m	
+6	au	à	P+D	P+D	n=s|g=m	
+7	-	-	PONCT	PONCT		
+8	delà	_	NC	NC		
+9	des	de	P+D	P+D	n=p	
+10	déserts	désert	NC	NC	n=p|g=m	
+11	des	de	P+D	P+D	n=p	
+12	Syrtes	_	NPP	NPP		
+13	et	et	CC	CC		
+14	dans	dans	P	P		
+15	la	la	DET	DET	n=s|g=f	
+16	Mauritanie	Mauritanie	NPP	NPP	n=s|g=f	
+17	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	y	y	CLO	CLO		
+3	en	en	CLO	CLO		
+4	a	avoir	V	V	n=s|t=P|p=3	
+5	dans	dans	P	P		
+6	l'	le	DET	DET	n=s	
+7	Éthiopie	Éthiopie	NPP	NPP	n=s|g=f	
+8	et	et	CC	CC		
+9	la	la	DET	DET	n=s|g=f	
+10	Troglodytique	_	NPP	NPP		
+11	,	,	PONCT	PONCT		
+12	comme	comme	CS	CS		
+13	nous	nous	CLS	CLS	n=p|p=1	
+14	l'	le	CLO	CLO	n=s|p=3	
+15	avons	avoir	V	V	n=p|t=P|p=1	
+16	dit	dire	VPP	VPP	n=s|g=m|t=K	
+17	;	;	PONCT	PONCT		
+18	mais	mais	CC	CC		
+19	les	les	DET	DET	n=p	
+20	plus	plus	ADV	ADV		
+21	grands	grand	ADJ	ADJ	n=p|g=m	
+22	sont	être	V	V	n=p|t=P|p=3	
+23	dans	dans	P	P		
+24	l'	le	DET	DET	n=s	
+25	Inde	Inde	NPP	NPP	n=s|g=f	
+26	,	,	PONCT	PONCT		
+27	et	et	CC	CC		
+28	ils	ils	CLS	CLS	n=p|g=m|p=3	
+29	sont	être	V	V	n=p|t=P|p=3	
+30	perpétuellement	_	ADV	ADV		
+31	en	en	P	P		
+32	guerre	guerre	NC	NC	n=s|g=f	
+33	avec	avec	P	P		
+34	des	des	DET	DET	n=p	
+35	dragons	dragon	NC	NC	n=p|g=m	
+36	assez	assez	ADV	ADV		
+37	grands	grand	ADJ	ADJ	n=p|g=m	
+38	eux	eux	PRO	PRO	n=p|g=m|p=3	
+39	-	-	PONCT	PONCT		
+40	mêmes	même	ADJ	ADJ	n=p	
+41	pour	pour	P	P		
+42	les	les	CLO	CLO	n=p|p=3	
+43	envelopper	envelopper	VINF	VINF	t=W	
+44	sans	sans	P	P		
+45	peine	peine	NC	NC	n=s|g=f	
+46	de	de	P	P		
+47	leurs	leurs	DET	DET	n=p|p=3|poss=p	
+48	replis	repli	NC	NC	n=p|g=m	
+49	,	,	PONCT	PONCT		
+50	et	et	CC	CC		
+51	les	les	CLO	CLO	n=p|p=3	
+52	serrer	serrer	VINF	VINF	t=W	
+53	comme	comme	P	P		
+54	dans	dans	P	P		
+55	un	un	DET	DET	n=s|g=m	
+56	nœud	_	NC	NC		
+57	:	:	PONCT	PONCT		
+58	les	les	DET	DET	n=p	
+59	deux	deux	ADJ	ADJ	s=card|n=p	
+60	combattants	combattant	NC	NC	n=p|g=m	
+61	succombent	succomber	V	V	n=p|t=P,S|p=3	
+62	:	:	PONCT	PONCT		
+63	le	le	DET	DET	n=s|g=m	
+64	vaincu	vaincre	ADJ	ADJ	n=s|g=m|t=K	
+65	,	,	PONCT	PONCT		
+66	dans	dans	P	P		
+67	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+68	chute	chute	NC	NC	n=s|g=f	
+69	,	,	PONCT	PONCT		
+70	écrase	écraser	V	V	n=s|t=P,S|p=1,3	
+71	par	par	P	P		
+72	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+73	poids	poids	NC	NC	g=m	
+74	le	le	DET	DET	n=s|g=m	
+75	serpent	serpent	NC	NC	n=s|g=m	
+76	roulé	rouler	VPP	VPP	n=s|g=m|t=K	
+77	autour	autour	NC	NC	n=s|g=m	
+78	de	de	P	P		
+79	lui	lui	PRO	PRO	n=s|g=m|p=3	
+80	.	.	PONCT	PONCT		
+
+1	"	"	PONCT	PONCT		
+2	(	(	PONCT	PONCT		
+3	Pline	_	NPP	NPP		
+4	l'	le	DET	DET	n=s	
+5	Ancien	_	NPP	NPP		
+6	,	,	PONCT	PONCT		
+7	Histoire	histoire	NC	NC	n=s|g=f	
+8	naturelle	naturel	ADJ	ADJ	n=s|g=f	
+9	,	,	PONCT	PONCT		
+10	Livre	livre	NC	NC	n=s	
+11	VIII	_	NPP	NPP		
+12	,	,	PONCT	PONCT		
+13	Traitant	traitant	NC	NC	n=s|g=m	
+14	de	de	P	P		
+15	la	la	DET	DET	n=s|g=f	
+16	nature	nature	NC	NC	n=s|g=f	
+17	des	de	P+D	P+D	n=p	
+18	animaux	animal	NC	NC	n=p|g=m	
+19	terrestres	terrestre	ADJ	ADJ	n=p	
+20	)	)	PONCT	PONCT		
+
+1	"	"	PONCT	PONCT		
+2	C'	ce	CLS	CLS		
+3	était	être	V	V	n=s|t=I|p=3	
+4	un	un	DET	DET	n=s|g=m	
+5	grand	grand	ADJ	ADJ	n=s|g=m	
+6	nombre	nombre	NC	NC	n=s|g=m	
+7	de	de	P	P		
+8	serpents	serpent	NC	NC	n=p|g=m	
+9	si	_	ADV	ADV		
+10	gros	gros	ADJ	ADJ	g=m	
+11	et	et	CC	CC		
+12	si	_	ADV	ADV		
+13	longs	long	ADJ	ADJ	n=p|g=m	
+14	qu'	que	CS	CS		
+15	il	il	CLS	CLS	n=s|g=m|p=3	
+16	n'	ne	ADV	ADV		
+17	y	y	CLO	CLO		
+18	en	en	CLO	CLO		
+19	avait	avoir	V	V	n=s|t=I|p=3	
+20	pas	pas	ADV	ADV		
+21	un	un	PRO	PRO	n=s|g=m	
+22	qui	qui	PROREL	PROREL	n=s	
+23	n'	ne	ADV	ADV		
+24	eût	avoir	VS	VS	n=s|t=T|p=3	
+25	englouti	engloutir	VPP	VPP	n=s|g=m|t=K	
+26	un	un	DET	DET	n=s|g=m	
+27	éléphant	éléphant	NC	NC	n=s|g=m	
+28	.	.	PONCT	PONCT		
+
+1	Ils	ils	CLS	CLS	n=p|g=m|p=3	
+2	se	se	CLR	CLR	n=p,s|p=3	
+3	retiraient	retirer	V	V	n=p|t=I|p=3	
+4	pendant	pendant	P	P		
+5	le	le	DET	DET	n=s|g=m	
+6	jour	jour	NC	NC	n=s|g=m	
+7	dans	dans	P	P		
+8	leurs	leurs	DET	DET	n=p|p=3|poss=p	
+9	antres	antre	NC	NC	n=p|g=m	
+10	,	,	PONCT	PONCT		
+11	où	où	PROREL	PROREL		
+12	ils	ils	CLS	CLS	n=p|g=m|p=3	
+13	se	se	CLR	CLR	n=p,s|p=3	
+14	cachaient	cacher	V	V	n=p|t=I|p=3	
+15	à	à	P	P		
+16	cause	cause	NC	NC	n=s|g=f	
+17	du	de	P+D	P+D	n=s|g=m	
+18	roc	roc	NC	NC	n=s|g=m	
+19	leur	leur	DET	DET	n=s|p=3|poss=p	
+20	ennemi	ennemi	NC	NC	n=s|g=m	
+21	,	,	PONCT	PONCT		
+22	et	et	CC	CC		
+23	ils	ils	CLS	CLS	n=p|g=m|p=3	
+24	n'	ne	ADV	ADV		
+25	en	en	CLO	CLO		
+26	sortaient	sortir	V	V	n=p|t=I|p=3	
+27	que	que	CS	CS		
+28	la	la	DET	DET	n=s|g=f	
+29	nuit	nuit	NC	NC	n=s|g=f	
+30	.	.	PONCT	PONCT		
+
+1	[	[	PONCT	PONCT		
+2	...	...	PONCT	PONCT		
+3	]	]	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	y	y	CLO	CLO		
+3	a	avoir	V	V	n=s|t=P|p=3	
+4	dans	dans	P	P		
+5	la	la	DET	DET	n=s|g=f	
+6	même	même	ADJ	ADJ	n=s	
+7	île	île	NC	NC	n=s|g=f	
+8	des	de	P+D	P+D	n=p	
+9	rhinocéros	rhinocéros	NC	NC	g=m	
+10	,	,	PONCT	PONCT		
+11	qui	qui	PROREL	PROREL	n=s	
+12	sont	être	V	V	n=p|t=P|p=3	
+13	des	des	DET	DET	n=p	
+14	animaux	animal	NC	NC	n=p|g=m	
+15	plus	plus	ADV	ADV		
+16	petits	petit	ADJ	ADJ	n=p|g=m	
+17	que	que	CS	CS		
+18	l'	le	DET	DET	n=s	
+19	éléphant	éléphant	NC	NC	n=s|g=m	
+20	et	et	CC	CC		
+21	plus	plus	ADV	ADV		
+22	grands	grand	ADJ	ADJ	n=p|g=m	
+23	que	que	CS	CS		
+24	le	le	DET	DET	n=s|g=m	
+25	buffle	buffle	NC	NC	n=s|g=m	
+26	.	.	PONCT	PONCT		
+
+1	[	[	PONCT	PONCT		
+2	...	...	PONCT	PONCT		
+3	]	]	PONCT	PONCT		
+4	Le	le	DET	DET	n=s|g=m	
+5	rhinocéros	rhinocéros	NC	NC	g=m	
+6	se	se	CLR	CLR	n=p,s|p=3	
+7	bat	battre	V	V	n=s|t=P|p=3	
+8	avec	avec	P	P		
+9	l'	le	DET	DET	n=s	
+10	éléphant	éléphant	NC	NC	n=s|g=m	
+11	,	,	PONCT	PONCT		
+12	le	le	DET	DET	n=s|g=m	
+13	perce	perce	NC	NC	n=s|g=f	
+14	de	de	P	P		
+15	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+16	corne	corne	NC	NC	n=s|g=f	
+17	par	par	P	P		
+18	-	-	PONCT	PONCT		
+19	dessous	dessous	P	P		
+20	le	le	DET	DET	n=s|g=m	
+21	ventre	ventre	NC	NC	n=s|g=m	
+22	,	,	PONCT	PONCT		
+23	l'	le	DET	DET	n=s	
+24	enlève	enlève	NC	NC	n=s|g=f	
+25	et	et	CC	CC		
+26	le	le	DET	DET	n=s|g=m	
+27	porte	porte	NC	NC	n=s|g=f	
+28	sur	sur	P	P		
+29	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+30	tête	tête	NC	NC	n=s|g=f	
+31	;	;	PONCT	PONCT		
+32	mais	mais	CC	CC		
+33	,	,	PONCT	PONCT		
+34	comme	comme	P	P		
+35	le	le	DET	DET	n=s|g=m	
+36	sang	sang	NC	NC	n=s|g=m	
+37	et	et	CC	CC		
+38	la	la	DET	DET	n=s|g=f	
+39	graisse	graisse	NC	NC	n=s|g=f	
+40	de	de	P	P		
+41	l'	le	DET	DET	n=s	
+42	éléphant	éléphant	NC	NC	n=s|g=m	
+43	lui	lui	CLO	CLO	n=s|p=3	
+44	coulent	couler	V	V	n=p|t=P,S|p=3	
+45	sur	sur	P	P		
+46	les	les	DET	DET	n=p	
+47	yeux	oeil	NC	NC	n=p|g=m	
+48	et	et	CC	CC		
+49	l'	le	CLO	CLO	n=s|p=3	
+50	aveuglent	aveugler	V	V	n=p|t=P,S|p=3	
+51	,	,	PONCT	PONCT		
+52	il	il	CLS	CLS	n=s|g=m|p=3	
+53	tombe	tomber	V	V	n=s|t=P,S|p=1,3	
+54	par	par	P	P		
+55	terre	terre	NC	NC	n=s|g=f	
+56	,	,	PONCT	PONCT		
+57	et	et	CC	CC		
+58	,	,	PONCT	PONCT		
+59	ce	ce	PRO	PRO	n=s	
+60	qui	qui	PROREL	PROREL	n=s	
+61	va	aller	V	V	n=s|t=P|p=3	
+62	vous	vous	CLO	CLO	n=p|p=2	
+63	étonner	étonner	VINF	VINF	t=W	
+64	,	,	PONCT	PONCT		
+65	le	le	DET	DET	n=s|g=m	
+66	roc	roc	NC	NC	n=s|g=m	
+67	vient	venir	V	V	n=s|t=P|p=3	
+68	,	,	PONCT	PONCT		
+69	qui	qui	PROREL	PROREL	n=s	
+70	les	les	CLO	CLO	n=p|p=3	
+71	enlève	enlever	V	V	n=s|t=P,S|p=1,3	
+72	tous	tout	ADJ	ADJ	n=p|g=m	
+73	deux	deux	PRO	PRO	s=card|n=p	
+74	entre	entre	P	P		
+75	ses	ses	DET	DET	n=p|p=3|poss=s	
+76	griffes	griffe	NC	NC	n=p|g=f	
+77	et	et	CC	CC		
+78	les	les	CLO	CLO	n=p|p=3	
+79	emporte	emporter	V	V	n=s|t=P,S|p=1,3	
+80	pour	pour	P	P		
+81	nourrir	nourrir	VINF	VINF	t=W	
+82	ses	ses	DET	DET	n=p|p=3|poss=s	
+83	petits	petit	ADJ	ADJ	n=p|g=m	
+84	.	.	PONCT	PONCT		
+
+1	"	"	PONCT	PONCT		
+2	(	(	PONCT	PONCT		
+3	anonyme	anonyme	ADJ	ADJ	n=s	
+4	,	,	PONCT	PONCT		
+5	Les	_	NPP	NPP		
+6	Mille_et_Une	mille_et_une	NPP	NPP		
+7	Nuits	Nuits	NPP	NPP	n=s|g=m	
+8	,	,	PONCT	PONCT		
+9	traduction	traduction	NC	NC	n=s|g=f	
+10	d'	de	P	P		
+11	Antoine	Antoine	NPP	NPP	n=s|g=m	
+12	Galland	_	NPP	NPP		
+13	)	)	PONCT	PONCT		
+
+1	Si	si	CS	CS		
+2	l'	le	DET	DET	n=s	
+3	éléphant	éléphant	NC	NC	n=s|g=m	
+4	était	être	V	V	n=s|t=I|p=3	
+5	un	un	DET	DET	n=s|g=m	
+6	mystère	mystère	NC	NC	n=s|g=m	
+7	pour	pour	P	P		
+8	les	les	DET	DET	n=p	
+9	Européens	européen	NC	NC	n=p|g=m	
+10	,	,	PONCT	PONCT		
+11	pour	pour	P	P		
+12	les	les	DET	DET	n=p	
+13	habitants	habitant	NC	NC	n=p|g=m	
+14	d'	de	P	P		
+15	Afrique	Afrique	NPP	NPP	n=s|g=f	
+16	et	et	CC	CC		
+17	d'	de	P	P		
+18	Asie	Asie	NPP	NPP	n=s|g=f	
+19	du	de	P+D	P+D	n=s|g=m	
+20	Sud	sud	NC	NC	n=s|g=m	
+21	-	-	PONCT	PONCT		
+22	Est	être	V	V	n=s|t=P|p=3	
+23	,	,	PONCT	PONCT		
+24	au	à	P+D	P+D	n=s|g=m	
+25	contraire	contraire	NC	NC	n=s|g=m	
+26	,	,	PONCT	PONCT		
+27	c'	ce	CLS	CLS		
+28	est	être	V	V	n=s|t=P|p=3	
+29	un	un	DET	DET	n=s|g=m	
+30	animal	animal	NC	NC	n=s|g=m	
+31	très	très	ADV	ADV		
+32	familier	familier	ADJ	ADJ	n=s|g=m	
+33	,	,	PONCT	PONCT		
+34	qui	qui	PROREL	PROREL	n=s	
+35	fait	faire	V	V	n=s|t=P|p=3	
+36	partie	partie	NC	NC	n=s|g=f	
+37	de	de	P	P		
+38	leur	leur	DET	DET	n=s|p=3|poss=p	
+39	quotidien	quotidien	NC	NC	n=s|g=m	
+40	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	éléphant	éléphant	NC	NC	n=s|g=m	
+3	,	,	PONCT	PONCT		
+4	symbole	symbole	NC	NC	n=s|g=m	
+5	de	de	P	P		
+6	puissance	puissance	NC	NC	n=s|g=f	
+7	et	et	CC	CC		
+8	de	de	P	P		
+9	sagesse	sagesse	NC	NC	n=s|g=f	
+10	,	,	PONCT	PONCT		
+11	apparaît	apparaître	V	V	n=s|t=P|p=3	
+12	dans	dans	P	P		
+13	de	de	DET	DET	n=p	
+14	nombreux	nombreux	ADJ	ADJ	g=m	
+15	contes	conte	NC	NC	n=p|g=m	
+16	et	et	CC	CC		
+17	récits	récit	NC	NC	n=p|g=m	
+18	de	de	P	P		
+19	ces	ces	DET	DET	n=p	
+20	régions	région	NC	NC	n=p|g=f	
+21	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	a	avoir	V	V	n=s|t=P|p=3	
+3	même	même	ADV	ADV		
+4	une	une	DET	DET	n=s|g=f	
+5	place	place	NC	NC	n=s|g=f	
+6	importante	important	ADJ	ADJ	n=s|g=f	
+7	dans	dans	P	P		
+8	la	la	DET	DET	n=s|g=f	
+9	religion	religion	NC	NC	n=s|g=f	
+10	.	.	PONCT	PONCT		
+
+1	Une	une	DET	DET	n=s|g=f	
+2	tradition	tradition	NC	NC	n=s|g=f	
+3	de	de	P	P		
+4	l'	le	DET	DET	n=s	
+5	hindouisme	hindouisme	NC	NC	n=s|g=m	
+6	(	(	PONCT	PONCT		
+7	l'	le	DET	DET	n=s	
+8	une	un	PRO	PRO	n=s|g=f	
+9	des	de	P+D	P+D	n=p	
+10	religions	religion	NC	NC	n=p|g=f	
+11	de	de	P	P		
+12	l'	le	DET	DET	n=s	
+13	Inde	Inde	NPP	NPP	n=s|g=f	
+14	)	)	PONCT	PONCT		
+15	affirme	affirmer	V	V	n=s|t=P,S|p=1,3	
+16	que	que	CS	CS		
+17	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+18	plus	plus	ADV	ADV		
+19	célèbre	célèbre	ADJ	ADJ	n=s	
+20	texte	texte	NC	NC	n=s|g=m	
+21	,	,	PONCT	PONCT		
+22	le	le	DET	DET	n=s|g=m	
+23	Mahâbhârata	_	NPP	NPP		
+24	,	,	PONCT	PONCT		
+25	a	avoir	V	V	n=s|t=P|p=3	
+26	été	être	VPP	VPP	t=K	
+27	écrit	écrire	VPP	VPP	n=s|g=m|t=K	
+28	par	par	P	P		
+29	Ganêça	_	NPP	NPP		
+30	ou	ou	CC	CC		
+31	Ganesh	Ganesh	NPP	NPP	n=s|g=m	
+32	,	,	PONCT	PONCT		
+33	dieu	dieu	NC	NC	n=s|g=m	
+34	à	à	P	P		
+35	tête	tête	NC	NC	n=s|g=f	
+36	d'	de	P	P		
+37	éléphant	éléphant	NC	NC	n=s|g=m	
+38	qui	qui	PROREL	PROREL	n=s	
+39	écrivait	écrire	V	V	n=s|t=I|p=3	
+40	avec	avec	P	P		
+41	l'	le	DET	DET	n=s	
+42	une	un	PRO	PRO	n=s|g=f	
+43	de	de	P	P		
+44	ses	ses	DET	DET	n=p|p=3|poss=s	
+45	défenses	défense	NC	NC	n=p|g=f	
+46	.	.	PONCT	PONCT		
+
+1	Dans	dans	P	P		
+2	l'	le	DET	DET	n=s	
+3	Asie	Asie	NPP	NPP	n=s|g=f	
+4	du	de	P+D	P+D	n=s|g=m	
+5	Sud	sud	NC	NC	n=s|g=m	
+6	-	-	PONCT	PONCT		
+7	Est	être	V	V	n=s|t=P|p=3	
+8	,	,	PONCT	PONCT		
+9	il	il	CLS	CLS	n=s|g=m|p=3	
+10	existe	exister	V	V	n=s|t=P,S|p=1,3	
+11	de	de	DET	DET	n=p	
+12	nombreuses	nombreux	ADJ	ADJ	n=p|g=f	
+13	statues	statue	NC	NC	n=p|g=f	
+14	d'	de	P	P		
+15	éléphants	éléphant	NC	NC	n=p|g=m	
+16	,	,	PONCT	PONCT		
+17	notamment	_	ADV	ADV		
+18	celle	celle	PRO	PRO	n=s|g=f	
+19	d'	de	P	P		
+20	un	un	DET	DET	n=s|g=m	
+21	éléphant	éléphant	NC	NC	n=s|g=m	
+22	à	à	P	P		
+23	trois	trois	DET	DET	s=card|n=p	
+24	têtes	tête	NC	NC	n=p|g=f	
+25	qui	qui	PROREL	PROREL	n=s	
+26	gardait	garder	V	V	n=s|t=I|p=3	
+27	l'	le	DET	DET	n=s	
+28	entrée	entrée	NC	NC	n=s|g=f	
+29	de	de	P	P		
+30	la	la	DET	DET	n=s|g=f	
+31	pagode	pagode	NC	NC	n=s|g=f	
+32	d'	de	P	P		
+33	Angkor	_	NPP	NPP		
+34	,	,	PONCT	PONCT		
+35	au	à	P+D	P+D	n=s|g=m	
+36	Cambodge	Cambodge	NPP	NPP	n=s|g=m	
+37	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	éléphant	éléphant	NC	NC	n=s|g=m	
+3	est	être	V	V	n=s|t=P|p=3	
+4	très	très	ADV	ADV		
+5	présent	présent	ADJ	ADJ	n=s|g=m	
+6	dans	dans	P	P		
+7	les	les	DET	DET	n=p	
+8	œuvres	_	NC	NC		
+9	de	de	P	P		
+10	littérature	littérature	NC	NC	n=s|g=f	
+11	de	de	P	P		
+12	jeunesse	jeunesse	NC	NC	n=s|g=f	
+13	:	:	PONCT	PONCT		
+
+1	Dans	dans	P	P		
+2	les	les	DET	DET	n=p	
+3	Misérables	_	NPP	NPP		
+4	,	,	PONCT	PONCT		
+5	Victor	Victor	NPP	NPP	n=s|g=m	
+6	Hugo	Hugo	NPP	NPP	n=s|g=m	
+7	raconte	raconter	V	V	n=s|t=P,S|p=1,3	
+8	que	que	CS	CS		
+9	le	le	DET	DET	n=s|g=m	
+10	jeune	jeune	ADJ	ADJ	n=s	
+11	Gavroche	_	NPP	NPP		
+12	avait	avoir	V	V	n=s|t=I|p=3	
+13	recueilli	recueillir	VPP	VPP	n=s|g=m|t=K	
+14	deux	deux	DET	DET	s=card|n=p	
+15	enfants	enfant	NC	NC	n=p	
+16	perdus	perdre	VPP	VPP	n=p|g=m|t=K	
+17	pour	pour	P	P		
+18	les	les	CLO	CLO	n=p|p=3	
+19	loger	loger	VINF	VINF	t=W	
+20	dans	dans	P	P		
+21	un	un	DET	DET	n=s|g=m	
+22	petit	petit	ADJ	ADJ	n=s|g=m	
+23	réduit	réduire	V	V	n=s|t=P|p=3	
+24	d'	de	P	P		
+25	un	un	DET	DET	n=s|g=m	
+26	énorme	énorme	ADJ	ADJ	n=s	
+27	modèle	modèle	NC	NC	n=s|g=m	
+28	en	en	P	P		
+29	taille	taille	NC	NC	n=s|g=f	
+30	réelle	réel	ADJ	ADJ	n=s|g=f	
+31	d'	de	P	P		
+32	éléphant	éléphant	NC	NC	n=s|g=m	
+33	en	en	P	P		
+34	plâtre	plâtre	NC	NC	n=s|g=m	
+35	,	,	PONCT	PONCT		
+36	sur	sur	P	P		
+37	la	la	DET	DET	n=s|g=f	
+38	place	place	NC	NC	n=s|g=f	
+39	de	de	P	P		
+40	la	la	DET	DET	n=s|g=f	
+41	Bastille	_	NPP	NPP		
+42	,	,	PONCT	PONCT		
+43	à	à	P	P		
+44	Paris	Paris	NPP	NPP	n=s|g=m	
+45	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	s'	se	CLR	CLR	n=p,s|p=3	
+3	agissait	agir	V	V	n=s|t=I|p=3	
+4	d'	de	P	P		
+5	un	un	DET	DET	n=s|g=m	
+6	projet	projet	NC	NC	n=s|g=m	
+7	de	de	P	P		
+8	Napoléon	_	NPP	NPP		
+9	,	,	PONCT	PONCT		
+10	comme	comme	P	P		
+11	symbole	symbole	NC	NC	n=s|g=m	
+12	de	de	P	P		
+13	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+14	puissance	puissance	NC	NC	n=s|g=f	
+15	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	devait	devoir	V	V	n=s|t=I|p=3	
+3	être	être	VINF	VINF	t=W	
+4	fabriqué	fabriquer	VPP	VPP	n=s|g=m|t=K	
+5	avec	avec	P	P		
+6	le	le	DET	DET	n=s|g=m	
+7	métal	métal	NC	NC	n=s|g=m	
+8	des	de	P+D	P+D	n=p	
+9	canons	canon	NC	NC	n=p|g=m	
+10	pris	prendre	VPP	VPP	g=m|t=K	
+11	aux	à	P+D	P+D	n=p	
+12	Espagnols	_	NPP	NPP		
+13	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	projet	projet	NC	NC	n=s|g=m	
+3	fut	être	V	V	n=s|t=J|p=3	
+4	abandonné	abandonner	VPP	VPP	n=s|g=m|t=K	
+5	,	,	PONCT	PONCT		
+6	mais	mais	CC	CC		
+7	le	le	DET	DET	n=s|g=m	
+8	modèle	modèle	NC	NC	n=s|g=m	
+9	,	,	PONCT	PONCT		
+10	squatté	squatter	VPP	VPP	n=s|g=m|t=K	
+11	par	par	P	P		
+12	des	des	DET	DET	n=p	
+13	vagabonds	vagabond	NC	NC	n=p|g=m	
+14	,	,	PONCT	PONCT		
+15	ne	ne	ADV	ADV		
+16	fut	être	V	V	n=s|t=J|p=3	
+17	supprimé	supprimer	VPP	VPP	n=s|g=m|t=K	
+18	qu'	que	CS	CS		
+19	en	en	P	P		
+20	1846	1846	NC	NC		
+21	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	éléphant	éléphant	NC	NC	n=s|g=m	
+3	est	être	V	V	n=s|t=P|p=3	
+4	un	un	DET	DET	n=s|g=m	
+5	symbole	symbole	NC	NC	n=s|g=m	
+6	de	de	P	P		
+7	force	force	NC	NC	n=s|g=f	
+8	,	,	PONCT	PONCT		
+9	de	de	P	P		
+10	puissance	puissance	NC	NC	n=s|g=f	
+11	,	,	PONCT	PONCT		
+12	et	et	CC	CC		
+13	de	de	P	P		
+14	sagesse	sagesse	NC	NC	n=s|g=f	
+15	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	est	être	V	V	n=s|t=P|p=3	
+3	très	très	ADV	ADV		
+4	utilisé	utiliser	VPP	VPP	n=s|g=m|t=K	
+5	comme	comme	P	P		
+6	symbole	symbole	NC	NC	n=s|g=m	
+7	dans	dans	P	P		
+8	les	les	DET	DET	n=p	
+9	pays	pays	NC	NC	g=m	
+10	où	où	PROREL	PROREL		
+11	il	il	CLS	CLS	n=s|g=m|p=3	
+12	vit	vivre	V	V	n=s|t=P|p=3	
+13	,	,	PONCT	PONCT		
+14	en	en	P	P		
+15	Afrique	Afrique	NPP	NPP	n=s|g=f	
+16	et	et	CC	CC		
+17	en	en	P	P		
+18	Asie	Asie	NPP	NPP	n=s|g=f	
+19	.	.	PONCT	PONCT		
+
+1	On	on	CLS	CLS	n=s|p=3	
+2	le	le	CLO	CLO	n=s|g=m|p=3	
+3	retrouve	retrouver	V	V	n=s|t=P,S|p=1,3	
+4	sur	sur	P	P		
+5	de	de	DET	DET	n=p	
+6	nombreux	nombreux	ADJ	ADJ	g=m	
+7	blasons	blason	NC	NC	n=p|g=m	
+8	,	,	PONCT	PONCT		
+9	timbres	timbre	NC	NC	n=p|g=m	
+10	et	et	CC	CC		
+11	billets	billet	NC	NC	n=p|g=m	
+12	de	de	P	P		
+13	banque	banque	NC	NC	n=s|g=f	
+14	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	éléphant	éléphant	NC	NC	n=s|g=m	
+3	est	être	V	V	n=s|t=P|p=3	
+4	le	le	DET	DET	n=s|g=m	
+5	symbole	symbole	NC	NC	n=s|g=m	
+6	du	de	P+D	P+D	n=s|g=m	
+7	Parti	parti	NC	NC	n=s|g=m	
+8	républicain	républicain	ADJ	ADJ	n=s|g=m	
+9	aux	à	P+D	P+D	n=p	
+10	États	État	NC	NC	n=p|g=m	
+11	-	-	PONCT	PONCT		
+12	Unis	uni	NC	NC	n=p|g=m	
+13	d'	de	P	P		
+14	Amérique	Amérique	NPP	NPP	n=s|g=f	
+15	.	.	PONCT	PONCT		
+
+1	On	on	CLS	CLS	n=s|p=3	
+2	peut	pouvoir	V	V	n=s|t=P|p=3	
+3	se	se	CLR	CLR	n=p,s|p=3	
+4	demander	demander	VINF	VINF	t=W	
+5	pourquoi	pourquoi	ADVWH	ADVWH		
+6	avoir	avoir	VINF	VINF	t=W	
+7	pris	prendre	VPP	VPP	g=m|t=K	
+8	pour	pour	P	P		
+9	symbole	symbole	NC	NC	n=s|g=m	
+10	un	un	DET	DET	n=s|g=m	
+11	animal	animal	NC	NC	n=s|g=m	
+12	qu'	que	PROREL	PROREL		
+13	on	on	CLS	CLS	n=s|p=3	
+14	ne	ne	ADV	ADV		
+15	trouve	trouver	V	V	n=s|t=P,S|p=1,3	
+16	pas	pas	ADV	ADV		
+17	en	en	P	P		
+18	Amérique	Amérique	NPP	NPP	n=s|g=f	
+19	en	en	P	P		
+20	dehors	dehors	NC	NC	g=m	
+21	d'	de	P	P		
+22	un	un	DET	DET	n=s|g=m	
+23	parc	parc	NC	NC	n=s|g=m	
+24	zoologique	zoologique	ADJ	ADJ	n=s	
+25	.	.	PONCT	PONCT		
+
+1	Cela	cela	PRO	PRO	n=s|g=m	
+2	vient	venir	V	V	n=s|t=P|p=3	
+3	d'	de	P	P		
+4	un	un	DET	DET	n=s|g=m	
+5	dessinateur	dessinateur	NC	NC	n=s|g=m	
+6	satirique	satirique	ADJ	ADJ	n=s	
+7	qui	qui	PROREL	PROREL	n=s	
+8	,	,	PONCT	PONCT		
+9	en	en	P	P		
+10	1870	1870	NC	NC		
+11	,	,	PONCT	PONCT		
+12	avait	avoir	V	V	n=s|t=I|p=3	
+13	caricaturé	caricaturer	VPP	VPP	n=s|g=m|t=K	
+14	le	le	DET	DET	n=s|g=m	
+15	candidat	candidat	NC	NC	n=s|g=m	
+16	républicain	républicain	ADJ	ADJ	n=s|g=m	
+17	(	(	PONCT	PONCT		
+18	conservateur	conservateur	NC	NC	n=s|g=m	
+19	)	)	PONCT	PONCT		
+20	en	en	P	P		
+21	éléphant	éléphant	NC	NC	n=s|g=m	
+22	,	,	PONCT	PONCT		
+23	puis	puis	CC	CC		
+24	le	le	DET	DET	n=s|g=m	
+25	candidat	candidat	NC	NC	n=s|g=m	
+26	démocrate	démocrate	ADJ	ADJ	n=s	
+27	(	(	PONCT	PONCT		
+28	plus	plus	ADV	ADV		
+29	réformateur	réformateur	ADJ	ADJ	n=s|g=m	
+30	)	)	PONCT	PONCT		
+31	en	en	P	P		
+32	âne	âne	NC	NC	n=s|g=m	
+33	voulant	vouloir	VPR	VPR	t=G	
+34	courir	courir	VINF	VINF	t=W	
+35	plus	plus	ADV	ADV		
+36	vite	vite	ADV	ADV		
+37	qu'	que	CS	CS		
+38	un	un	DET	DET	n=s|g=m	
+39	cheval	cheval	NC	NC	n=s|g=m	
+40	.	.	PONCT	PONCT		
+
+1	Ces	ces	DET	DET	n=p	
+2	dessins	dessin	NC	NC	n=p|g=m	
+3	ont	avoir	V	V	n=p|t=P|p=3	
+4	eu	avoir	VPP	VPP	n=s|g=m|t=K	
+5	un	un	DET	DET	n=s|g=m	
+6	tel	tel	ADJ	ADJ	n=s|g=m	
+7	succès	succès	NC	NC	g=m	
+8	auprès	auprès	ADV	ADV		
+9	du	de	P+D	P+D	n=s|g=m	
+10	public	public	NC	NC	n=s|g=m	
+11	qu'	que	PROREL	PROREL		
+12	ils	ils	CLS	CLS	n=p|g=m|p=3	
+13	sont	être	V	V	n=p|t=P|p=3	
+14	restés	rester	VPP	VPP	n=p|g=m|t=K	
+15	le	le	DET	DET	n=s|g=m	
+16	symbole	symbole	NC	NC	n=s|g=m	
+17	des	de	P+D	P+D	n=p	
+18	deux	deux	ADJ	ADJ	s=card|n=p	
+19	grands	grand	ADJ	ADJ	n=p|g=m	
+20	partis	parti	NC	NC	n=p|g=m	
+21	politiques	politique	ADJ	ADJ	n=p	
+22	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	plus	plus	ADV	ADV		
+3	de	de	P	P		
+4	l'	le	DET	DET	n=s	
+5	éléphante	éléphant	NC	NC	n=s|g=f	
+6	femelle	femelle	ADJ	ADJ	n=s	
+7	et	et	CC	CC		
+8	de	de	P	P		
+9	l'	le	DET	DET	n=s	
+10	éléphanteau	éléphanteau	NC	NC	n=s|g=m	
+11	,	,	PONCT	PONCT		
+12	l'	le	DET	DET	n=s	
+13	adjectif	adjectif	NC	NC	n=s|g=m	
+14	"	"	PONCT	PONCT		
+15	éléphantesque	éléphantesque	ADJ	ADJ	n=s	
+16	"	"	PONCT	PONCT		
+17	désigne	désigner	V	V	n=s|t=P,S|p=1,3	
+18	en	en	P	P		
+19	plaisantant	plaisanter	VPR	VPR	t=G	
+20	quelque	quelque	DET	DET	n=s	
+21	chose	chose	NC	NC	n=s|g=f	
+22	d'	de	P	P		
+23	inutilement	_	NC	NC		
+24	énorme	énorme	ADJ	ADJ	n=s	
+25	.	.	PONCT	PONCT		
+
+1	Dans	dans	P	P		
+2	la	la	DET	DET	n=s|g=f	
+3	Chanson	_	NPP	NPP		
+4	de	de	P	P		
+5	Roland	Roland	NPP	NPP	n=s|g=m	
+6	,	,	PONCT	PONCT		
+7	grand	grand	ADJ	ADJ	n=s|g=m	
+8	récit	récit	NC	NC	n=s|g=m	
+9	du	de	P+D	P+D	n=s|g=m	
+10	Moyen	Moyen	NPP	NPP	n=s|g=m	
+11	Âge	_	NPP	NPP		
+12	,	,	PONCT	PONCT		
+13	à	à	P	P		
+14	la	la	DET	DET	n=s|g=f	
+15	bataille	bataille	NC	NC	n=s|g=f	
+16	de	de	P	P		
+17	Roncevaux	_	NPP	NPP		
+18	,	,	PONCT	PONCT		
+19	Roland	Roland	NPP	NPP	n=s|g=m	
+20	souffle	souffler	V	V	n=s|t=P,S|p=1,3	
+21	dans	dans	P	P		
+22	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+23	olifant	olifant	NC	NC	n=s|g=m	
+24	(	(	PONCT	PONCT		
+25	cor	cor	NC	NC	n=s|g=m	
+26	de	de	P	P		
+27	guerre	guerre	NC	NC	n=s|g=f	
+28	)	)	PONCT	PONCT		
+29	pour	pour	P	P		
+30	appeler	appeler	VINF	VINF	t=W	
+31	à	à	P	P		
+32	l'	le	DET	DET	n=s	
+33	aide	aide	NC	NC	n=s	
+34	l'	le	DET	DET	n=s	
+35	armée	armée	NC	NC	n=s|g=f	
+36	de	de	P	P		
+37	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+38	oncle	oncle	NC	NC	n=s|g=m	
+39	Charlemagne	_	NPP	NPP		
+40	.	.	PONCT	PONCT		
+
+1	Ce	ce	DET	DET	n=s|g=m	
+2	mot	mot	NC	NC	n=s|g=m	
+3	"	"	PONCT	PONCT		
+4	olifant	olifant	NC	NC	n=s|g=m	
+5	"	"	PONCT	PONCT		
+6	est	être	V	V	n=s|t=P|p=3	
+7	la	la	DET	DET	n=s|g=f	
+8	déformation	déformation	NC	NC	n=s|g=f	
+9	ancienne	ancien	ADJ	ADJ	n=s|g=f	
+10	d'	de	P	P		
+11	éléphant	éléphant	NC	NC	n=s|g=m	
+12	,	,	PONCT	PONCT		
+13	car	car	CS	CS		
+14	ce	ce	DET	DET	n=s|g=m	
+15	cor	cor	NC	NC	n=s|g=m	
+16	était	être	V	V	n=s|t=I|p=3	
+17	fabriqué	fabriquer	VPP	VPP	n=s|g=m|t=K	
+18	dans	dans	P	P		
+19	une	une	DET	DET	n=s|g=f	
+20	défense	défense	NC	NC	n=s|g=f	
+21	d'	de	P	P		
+22	ivoire	ivoire	NC	NC	n=s|g=m	
+23	.	.	PONCT	PONCT		
+

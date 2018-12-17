@@ -1,0 +1,5699 @@
+1	.	.	PONCT	PONCT		
+2	mw	_	NPP	NPP		
+3	-	-	PONCT	PONCT		
+4	parser	_	NPP	NPP		
+5	-	-	PONCT	PONCT		
+6	output	output	NC	NC	n=s|g=m	
+7	h1	_	ADJ	ADJ		
+8	#	_	ADV	ADV		
+9	sous	sous	P	P		
+10	&und;	&und;	PONCT	PONCT		
+11	titre	titre	NC	NC	n=s|g=m	
+12	&und;	&und;	PONCT	PONCT		
+13	h1	_	NC	NC		
+14	{	{	PONCT	PONCT		
+15	display	_	NPP	NPP		
+16	:	:	PONCT	PONCT		
+17	block	_	NPP	NPP		
+18	;	;	PONCT	PONCT		
+19	font	faire	V	V	n=p|t=P|p=3	
+20	-	-	PONCT	PONCT		
+21	size	_	NPP	NPP		
+22	:	:	PONCT	PONCT		
+23	0	0	NC	NC		
+24	.	.	PONCT	PONCT		
+25	7em	_	NPP	NPP		
+26	;	;	PONCT	PONCT		
+27	line	line	NC	NC	n=s|g=f	
+28	-	-	PONCT	PONCT		
+29	height	_	NPP	NPP		
+30	:	:	PONCT	PONCT		
+31	1	1	NC	NC		
+32	.	.	PONCT	PONCT		
+33	3em	_	NPP	NPP		
+34	;	;	PONCT	PONCT		
+35	margin	_	NPP	NPP		
+36	:	:	PONCT	PONCT		
+37	0	0	NC	NC		
+38	.	.	PONCT	PONCT		
+39	2em	_	NPP	NPP		
+40	0	0	NC	NC		
+41	0	0	NC	NC		
+42	.	.	PONCT	PONCT		
+43	1em	_	NPP	NPP		
+44	0	0	NC	NC		
+45	.	.	PONCT	PONCT		
+46	5em	_	NPP	NPP		
+47	}	}	PONCT	PONCT		
+48	Caracal	caracal	NC	NC	n=s|g=m	
+49	caracal	caracal	NC	NC	n=s|g=m	
+
+1	Nom	nom	NC	NC	n=s|g=m	
+2	binominalStatut	_	NC	NC		
+3	de	de	P	P		
+4	conservation	conservation	NC	NC	n=s|g=f	
+5	UICN	_	NPP	NPP		
+
+1	LC	_	NPP	NPP		
+2	:	:	PONCT	PONCT		
+3	Préoccupation	préoccupation	NC	NC	n=s|g=f	
+4	mineureStatut	_	NC	NC		
+5	CITESStatut	_	NPP	NPP		
+6	CITESRépartition	_	NPP	NPP		
+7	géographiqueLe	_	NPP	NPP		
+8	Caracal	_	NPP	NPP		
+9	(	(	PONCT	PONCT		
+10	Caracal	caracal	NC	NC	n=s|g=m	
+11	caracal	caracal	NC	NC	n=s|g=m	
+12	)	)	PONCT	PONCT		
+13	,	,	PONCT	PONCT		
+14	ou	ou	CC	CC		
+15	lynx	lynx	NC	NC	g=m	
+16	du	de	P+D	P+D	n=s|g=m	
+17	désert	désert	NC	NC	n=s|g=m	
+18	ou	ou	CC	CC		
+19	lynx	lynx	NC	NC	g=m	
+20	de	de	P	P		
+21	Perse	_	NPP	NPP		
+22	,	,	PONCT	PONCT		
+23	est	être	V	V	n=s|t=P|p=3	
+24	un	un	DET	DET	n=s|g=m	
+25	félin	félin	NC	NC	n=s|g=m	
+26	du	de	P+D	P+D	n=s|g=m	
+27	genre	genre	NC	NC	n=s|g=m	
+28	Caracal	_	NPP	NPP		
+29	largement	_	ADV	ADV		
+30	répandu	répandre	VPP	VPP	n=s|g=m|t=K	
+31	en	en	P	P		
+32	Afrique	Afrique	NPP	NPP	n=s|g=f	
+33	et	et	CC	CC		
+34	en	en	P	P		
+35	Asie	Asie	NPP	NPP	n=s|g=f	
+36	depuis	depuis	P	P		
+37	le	le	DET	DET	n=s|g=m	
+38	Moyen	Moyen	NPP	NPP	n=s|g=m	
+39	-	-	PONCT	PONCT		
+40	Orient	orient	NC	NC	n=s|g=m	
+41	jusqu'	jusque	P	P		
+42	au	à	P+D	P+D	n=s|g=m	
+43	sous	sou	NC	NC	n=p|g=m	
+44	-	-	PONCT	PONCT		
+45	continent	continent	NC	NC	n=s|g=m	
+46	indien	indien	ADJ	ADJ	n=s|g=m	
+47	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	2008	2008	NC	NC		
+3	,	,	PONCT	PONCT		
+4	le	le	DET	DET	n=s|g=m	
+5	caracal	caracal	NC	NC	n=s|g=m	
+6	était	être	V	V	n=s|t=I|p=3	
+7	classé	classer	VPP	VPP	n=s|g=m|t=K	
+8	en	en	P	P		
+9	catégorie	catégorie	NC	NC	n=s|g=f	
+10	préoccupation	préoccupation	NC	NC	n=s|g=f	
+11	mineure	mineur	ADJ	ADJ	n=s|g=f	
+12	sur	sur	P	P		
+13	la	la	DET	DET	n=s|g=f	
+14	liste	liste	NC	NC	n=s|g=f	
+15	rouge	rouge	ADJ	ADJ	n=s	
+16	de	de	P	P		
+17	l'	le	DET	DET	n=s	
+18	UICN	_	NPP	NPP		
+19	en	en	P	P		
+20	raison	raison	NC	NC	n=s|g=f	
+21	de	de	P	P		
+22	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+23	présence	présence	NC	NC	n=s|g=f	
+24	relativement	_	ADV	ADV		
+25	commune	commun	ADJ	ADJ	n=s|g=f	
+26	notamment	_	ADV	ADV		
+27	en	en	P	P		
+28	Afrique	Afrique	NPP	NPP	n=s|g=f	
+29	australe	austral	ADJ	ADJ	n=s|g=f	
+30	et	et	CC	CC		
+31	en	en	P	P		
+32	Afrique	Afrique	NPP	NPP	n=s|g=f	
+33	de	de	P	P		
+34	l'	le	DET	DET	n=s	
+35	Est	_	NPP	NPP		
+36	[	[	PONCT	PONCT		
+37	1	1	NC	NC		
+38	]	]	PONCT	PONCT		
+39	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	caracal	caracal	NC	NC	n=s|g=m	
+3	est	être	V	V	n=s|t=P|p=3	
+4	néanmoins	néanmoins	ADV	ADV		
+5	considéré	considérer	VPP	VPP	n=s|g=m|t=K	
+6	comme	comme	P	P		
+7	menacé	menacer	VPP	VPP	n=s|g=m|t=K	
+8	en	en	P	P		
+9	Afrique	Afrique	NPP	NPP	n=s|g=f	
+10	du	de	P+D	P+D	n=s|g=m	
+11	Nord	Nord	NPP	NPP	n=s|g=m	
+12	et	et	CC	CC		
+13	rare	rare	ADJ	ADJ	n=s	
+14	en	en	P	P		
+15	Asie	Asie	NPP	NPP	n=s|g=f	
+16	centrale	central	ADJ	ADJ	n=s|g=f	
+17	et	et	CC	CC		
+18	en	en	P	P		
+19	Inde	Inde	NPP	NPP	n=s|g=f	
+20	[	[	PONCT	PONCT		
+21	1	1	NC	NC		
+22	]	]	PONCT	PONCT		
+23	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	caracal	caracal	NC	NC	n=s|g=m	
+3	possède	posséder	V	V	n=s|t=P,S|p=1,3	
+4	de	de	DET	DET	n=p	
+5	longs	long	ADJ	ADJ	n=p|g=m	
+6	pinceaux	pinceau	NC	NC	n=p|g=m	
+7	de	de	P	P		
+8	poils	poil	NC	NC	n=p|g=m	
+9	noirs	noir	ADJ	ADJ	n=p|g=m	
+10	caractéristiques	caractéristique	NC	NC	n=p|g=f	
+11	à	à	P	P		
+12	l'	le	DET	DET	n=s	
+13	extrémité	extrémité	NC	NC	n=s|g=f	
+14	des	de	P+D	P+D	n=p	
+15	oreilles	oreille	NC	NC	n=p|g=f	
+16	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	est	être	V	V	n=s|t=P|p=3	
+3	également	_	ADV	ADV		
+4	connu	connaître	VPP	VPP	n=s|g=m|t=K	
+5	pour	pour	P	P		
+6	les	les	DET	DET	n=p	
+7	bonds	bond	NC	NC	n=p|g=m	
+8	pouvant	pouvoir	VPR	VPR	t=G	
+9	atteindre	atteindre	VINF	VINF	t=W	
+10	3	3	ADJ	ADJ		
+11	mètres	mètre	NC	NC	n=p|g=m	
+12	qu'	que	PROREL	PROREL		
+13	il	il	CLS	CLS	n=s|g=m|p=3	
+14	est	être	V	V	n=s|t=P|p=3	
+15	capable	capable	ADJ	ADJ	n=s	
+16	d'	de	P	P		
+17	effectuer	effectuer	VINF	VINF	t=W	
+18	pour	pour	P	P		
+19	attraper	attraper	VINF	VINF	t=W	
+20	des	des	DET	DET	n=p	
+21	oiseaux	oiseau	NC	NC	n=p|g=m	
+22	en	en	P	P		
+23	vol	vol	NC	NC	n=s|g=m	
+24	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	nom	nom	NC	NC	n=s|g=m	
+3	binominal	_	ADJ	ADJ		
+4	Caracal	_	NPP	NPP		
+5	caracal	caracal	NC	NC	n=s|g=m	
+6	(	(	PONCT	PONCT		
+7	Schreber	_	NPP	NPP		
+8	,	,	PONCT	PONCT		
+9	est	être	V	V	n=s|t=P|p=3	
+10	attribué	attribuer	VPP	VPP	n=s|g=m|t=K	
+11	au	à	P+D	P+D	n=s|g=m	
+12	zoologiste	zoologiste	NC	NC	n=s	
+13	allemand	allemand	ADJ	ADJ	n=s|g=m	
+14	Johann	Johann	NPP	NPP	n=s|g=m	
+15	Christian	Christian	NPP	NPP	n=s|g=m	
+16	Daniel	Daniel	NPP	NPP	n=s|g=m	
+17	von	_	NPP	NPP		
+18	Schreber	_	NPP	NPP		
+19	qui	qui	PROREL	PROREL	n=s	
+20	a	avoir	V	V	n=s|t=P|p=3	
+21	décrit	décrire	VPP	VPP	n=s|g=m|t=K	
+22	Felis	_	NPP	NPP		
+23	caracal	caracal	NC	NC	n=s|g=m	
+24	en	en	P	P		
+25	1776	1776	NC	NC		
+26	à	à	P	P		
+27	partir	partir	VINF	VINF	t=W	
+28	d'	de	P	P		
+29	un	un	DET	DET	n=s|g=m	
+30	spécimen	spécimen	NC	NC	n=s|g=m	
+31	prélevé	prélever	VPP	VPP	n=s|g=m|t=K	
+32	dans	dans	P	P		
+33	la	la	DET	DET	n=s|g=f	
+34	région	région	NC	NC	n=s|g=f	
+35	de	de	P	P		
+36	la	la	DET	DET	n=s|g=f	
+37	Montagne	Montagne	NPP	NPP	n=s|g=m	
+38	de	de	P	P		
+39	la	la	DET	DET	n=s|g=f	
+40	Table	_	NPP	NPP		
+41	,	,	PONCT	PONCT		
+42	en	en	P	P		
+43	Afrique	Afrique	NPP	NPP	n=s|g=f	
+44	du	de	P+D	P+D	n=s|g=m	
+45	Sud	sud	NC	NC	n=s|g=m	
+46	,	,	PONCT	PONCT		
+47	qui	qui	PROREL	PROREL	n=s	
+48	est	être	V	V	n=s|t=P|p=3	
+49	considérée	considérer	VPP	VPP	n=s|g=f|t=K	
+50	comme	comme	P	P		
+51	la	la	DET	DET	n=s|g=f	
+52	localité	localité	NC	NC	n=s|g=f	
+53	type	type	NC	NC	n=s|g=m	
+54	de	de	P	P		
+55	l'	le	DET	DET	n=s	
+56	espèce	espèce	NC	NC	n=s|g=f	
+57	[	[	PONCT	PONCT		
+58	2	2	ADJ	ADJ		
+59	]	]	PONCT	PONCT		
+60	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	genre	genre	NC	NC	n=s|g=m	
+3	Caracal	_	NPP	NPP		
+4	a	avoir	V	V	n=s|t=P|p=3	
+5	été	être	VPP	VPP	t=K	
+6	utilisé	utiliser	VPP	VPP	n=s|g=m|t=K	
+7	pour	pour	P	P		
+8	la	la	DET	DET	n=s|g=f	
+9	première	premier	ADJ	ADJ	n=s|g=f	
+10	fois	fois	NC	NC	g=f	
+11	par	par	P	P		
+12	le	le	DET	DET	n=s|g=m	
+13	naturaliste	naturaliste	NC	NC	n=s	
+14	britannique	britannique	ADJ	ADJ	n=s	
+15	John	John	NPP	NPP	n=s|g=m	
+16	Edward	Edward	NPP	NPP	n=s|g=m	
+17	Gray	Gray	NPP	NPP	n=s|g=m	
+18	en	en	P	P		
+19	1843	1843	NC	NC		
+20	[	[	PONCT	PONCT		
+21	3	3	ADJ	ADJ		
+22	]	]	PONCT	PONCT		
+23	sur	sur	P	P		
+24	la	la	DET	DET	n=s|g=f	
+25	base	base	NC	NC	n=s|g=f	
+26	de	de	P	P		
+27	l'	le	DET	DET	n=s	
+28	étude	étude	NC	NC	n=s|g=f	
+29	d'	de	P	P		
+30	un	un	DET	DET	n=s|g=m	
+31	spécimen	spécimen	NC	NC	n=s|g=m	
+32	prélevé	prélever	VPP	VPP	n=s|g=m|t=K	
+33	dans	dans	P	P		
+34	la	la	DET	DET	n=s|g=f	
+35	région	région	NC	NC	n=s|g=f	
+36	du	de	P+D	P+D	n=s|g=m	
+37	cap	cap	NC	NC	n=s|g=m	
+38	de	de	P	P		
+39	Bonne	Bonne	NPP	NPP	n=s|g=m	
+40	-	-	PONCT	PONCT		
+41	Espérance	espérance	NC	NC	n=s|g=f	
+42	[	[	PONCT	PONCT		
+43	4	4	NC	NC		
+44	]	]	PONCT	PONCT		
+45	.	.	PONCT	PONCT		
+
+1	Dans	dans	P	P		
+2	l'	le	DET	DET	n=s	
+3	histoire	histoire	NC	NC	n=s|g=f	
+4	de	de	P	P		
+5	la	la	DET	DET	n=s|g=f	
+6	nomenclature	nomenclature	NC	NC	n=s|g=f	
+7	binominale	_	ADV	ADV		
+8	,	,	PONCT	PONCT		
+9	le	le	DET	DET	n=s|g=m	
+10	caracal	caracal	NC	NC	n=s|g=m	
+11	a	avoir	V	V	n=s|t=P|p=3	
+12	été	être	VPP	VPP	t=K	
+13	alternativement	_	ADV	ADV		
+14	classé	classer	VPP	VPP	n=s|g=m|t=K	
+15	dans	dans	P	P		
+16	les	les	DET	DET	n=p	
+17	genres	genre	NC	NC	n=p|g=m	
+18	Lynx	_	NPP	NPP		
+19	et	et	CC	CC		
+20	Felis	_	NPP	NPP		
+21	,	,	PONCT	PONCT		
+22	mais	mais	CC	CC		
+23	des	des	DET	DET	n=p	
+24	travaux	travail	NC	NC	n=p|g=m	
+25	récents	récent	ADJ	ADJ	n=p|g=m	
+26	en	en	P	P		
+27	biologie	biologie	NC	NC	n=s|g=f	
+28	moléculaire	moléculaire	ADJ	ADJ	n=s	
+29	tendent	tendre	V	V	n=p|t=P,S|p=3	
+30	à	à	P	P		
+31	montrer	montrer	VINF	VINF	t=W	
+32	qu'	que	CS	CS		
+33	il	il	CLS	CLS	n=s|g=m|p=3	
+34	s'	se	CLR	CLR	n=p,s|p=3	
+35	agit	agir	V	V	n=s|t=J,P|p=3	
+36	d'	de	P	P		
+37	un	un	DET	DET	n=s|g=m	
+38	genre	genre	NC	NC	n=s|g=m	
+39	à	à	P	P		
+40	part	part	NC	NC	n=s	
+41	entière	entier	ADJ	ADJ	n=s|g=f	
+42	apparenté	apparenter	VPP	VPP	n=s|g=m|t=K	
+43	au	à	P+D	P+D	n=s|g=m	
+44	serval	serval	NC	NC	n=s|g=m	
+45	et	et	CC	CC		
+46	au	à	P+D	P+D	n=s|g=m	
+47	chat	chat	NC	NC	n=s|g=m	
+48	doré	dorer	VPP	VPP	n=s|g=m|t=K	
+49	africain	africain	ADJ	ADJ	n=s|g=m	
+50	[	[	PONCT	PONCT		
+51	5	5	ADJ	ADJ		
+52	]	]	PONCT	PONCT		
+53	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	nom	nom	NC	NC	n=s|g=m	
+3	caracal	caracal	NC	NC	n=s|g=m	
+4	a	avoir	V	V	n=s|t=P|p=3	
+5	été	être	VPP	VPP	t=K	
+6	donné	donner	VPP	VPP	n=s|g=m|t=K	
+7	à	à	P	P		
+8	cet	cet	DET	DET	n=s|g=m	
+9	animal	animal	NC	NC	n=s|g=m	
+10	par	par	P	P		
+11	Georges	Georges	NPP	NPP	n=s|g=m	
+12	-	-	PONCT	PONCT		
+13	Louis	_	NPP	NPP		
+14	Leclerc	_	NPP	NPP		
+15	,	,	PONCT	PONCT		
+16	Comte	_	NPP	NPP		
+17	de	de	P	P		
+18	Buffon	Buffon	NPP	NPP	n=s|g=m	
+19	,	,	PONCT	PONCT		
+20	dans	dans	P	P		
+21	l'	le	DET	DET	n=s	
+22	Histoire	histoire	NC	NC	n=s|g=f	
+23	naturelle	naturel	ADJ	ADJ	n=s|g=f	
+24	,	,	PONCT	PONCT		
+25	générale	général	ADJ	ADJ	n=s|g=f	
+26	et	et	CC	CC		
+27	particulière	particulier	ADJ	ADJ	n=s|g=f	
+28	,	,	PONCT	PONCT		
+29	parue	paraître	VPP	VPP	n=s|g=f|t=K	
+30	en	en	P	P		
+31	1761	1761	NC	NC		
+32	,	,	PONCT	PONCT		
+33	en	en	P	P		
+34	référence	référence	NC	NC	n=s|g=f	
+35	à	à	P	P		
+36	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+37	nom	nom	NC	NC	n=s|g=m	
+38	en	en	P	P		
+39	langue	langue	NC	NC	n=s|g=f	
+40	turque	turc	ADJ	ADJ	n=s|g=f	
+41	qu'	que	PROREL	PROREL		
+42	il	il	CLS	CLS	n=s|g=m|p=3	
+43	orthographiait	orthographier	V	V	n=s|t=I|p=3	
+44	"	"	PONCT	PONCT		
+45	karrah	_	NPP	NPP		
+46	-	-	PONCT	PONCT		
+47	kulak	_	NPP	NPP		
+48	"	"	PONCT	PONCT		
+49	[	[	PONCT	PONCT		
+50	6	6	ADJ	ADJ		
+51	]	]	PONCT	PONCT		
+52	ou	ou	CC	CC		
+53	"	"	PONCT	PONCT		
+54	karacoulac	_	NPP	NPP		
+55	"	"	PONCT	PONCT		
+56	[	[	PONCT	PONCT		
+57	6	6	ADJ	ADJ		
+58	]	]	PONCT	PONCT		
+59	et	et	CC	CC		
+60	qu'	que	CS	CS		
+61	il	il	CLS	CLS	n=s|g=m|p=3	
+62	pensait	penser	V	V	n=s|t=I|p=3	
+63	signifier	signifier	VINF	VINF	t=W	
+64	"	"	PONCT	PONCT		
+65	chat	chat	NC	NC	n=s|g=m	
+66	aux	à	P+D	P+D	n=p	
+67	oreilles	oreille	NC	NC	n=p|g=f	
+68	noires	noir	ADJ	ADJ	n=p|g=f	
+69	"	"	PONCT	PONCT		
+70	[	[	PONCT	PONCT		
+71	6	6	ADJ	ADJ		
+72	]	]	PONCT	PONCT		
+73	(	(	PONCT	PONCT		
+74	kara	_	NPP	NPP		
+75	kulak	_	NPP	NPP		
+76	se	se	CLR	CLR	n=p,s|p=3	
+77	traduit	traduire	V	V	n=s|t=P|p=3	
+78	en	en	P	P		
+79	fait	fait	NC	NC	n=s|g=m	
+80	"	"	PONCT	PONCT		
+81	oreille	oreille	NC	NC	n=s|g=f	
+82	noire	noir	ADJ	ADJ	n=s|g=f	
+83	"	"	PONCT	PONCT		
+84	et	et	CC	CC		
+85	karakulak	_	NPP	NPP		
+86	signifie	signifier	V	V	n=s|t=P,S|p=1,3	
+87	"	"	PONCT	PONCT		
+88	caracal	caracal	NC	NC	n=s|g=m	
+89	"	"	PONCT	PONCT		
+90	)	)	PONCT	PONCT		
+91	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	est	être	V	V	n=s|t=P|p=3	
+3	appelé	appeler	VPP	VPP	n=s|g=m|t=K	
+4	en	en	P	P		
+5	Persan	Persan	NPP	NPP	n=s|g=m	
+6	siyah	_	NPP	NPP		
+7	-	-	PONCT	PONCT		
+8	gush	_	NPP	NPP		
+9	[	[	PONCT	PONCT		
+10	6	6	ADJ	ADJ		
+11	]	]	PONCT	PONCT		
+12	(	(	PONCT	PONCT		
+13	siyāh	_	NPP	NPP		
+14	-	-	PONCT	PONCT		
+15	gosh	_	NPP	NPP		
+16	(	(	PONCT	PONCT		
+17	سیاهگوش	_	NPP	NPP		
+18	)	)	PONCT	PONCT		
+19	)	)	PONCT	PONCT		
+20	et	et	CC	CC		
+21	dénommé	dénommer	VPP	VPP	n=s|g=m|t=K	
+22	dans	dans	P	P		
+23	le	le	DET	DET	n=s|g=m	
+24	nord	nord	NC	NC	n=s|g=m	
+25	de	de	P	P		
+26	l'	le	DET	DET	n=s	
+27	Inde	Inde	NPP	NPP	n=s|g=f	
+28	syahgosh	_	NPP	NPP		
+29	ou	ou	CC	CC		
+30	shyahgosh	_	NPP	NPP		
+31	(	(	PONCT	PONCT		
+32	स्याहगोश	_	NPP	NPP		
+33	)	)	PONCT	PONCT		
+34	[	[	PONCT	PONCT		
+35	7	7	ADJ	ADJ		
+36	]	]	PONCT	PONCT		
+37	termes	terme	NC	NC	n=p|g=m	
+38	qui	qui	PROREL	PROREL	n=s	
+39	signifient	signifier	V	V	n=p|t=P,S|p=3	
+40	également	_	ADV	ADV		
+41	"	"	PONCT	PONCT		
+42	oreille	oreille	NC	NC	n=s|g=f	
+43	noire	noir	ADJ	ADJ	n=s|g=f	
+44	"	"	PONCT	PONCT		
+45	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	dialecte	dialecte	NC	NC	n=s|g=m	
+3	Toubou	_	NPP	NPP		
+4	,	,	PONCT	PONCT		
+5	il	il	CLS	CLS	n=s|g=m|p=3	
+6	est	être	V	V	n=s|t=P|p=3	
+7	appelé	appeler	VPP	VPP	n=s|g=m|t=K	
+8	ngam	_	NPP	NPP		
+9	ouidenanga	_	NPP	NPP		
+10	qui	qui	PROREL	PROREL	n=s	
+11	signifie	signifier	V	V	n=s|t=P,S|p=1,3	
+12	"	"	PONCT	PONCT		
+13	chat	chat	NC	NC	n=s|g=m	
+14	gazelle	gazelle	NC	NC	n=s|g=f	
+15	"	"	PONCT	PONCT		
+16	en	en	P	P		
+17	raison	raison	NC	NC	n=s|g=f	
+18	de	de	P	P		
+19	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+20	réputation	réputation	NC	NC	n=s|g=f	
+21	de	de	P	P		
+22	chasseur	chasseur	NC	NC	n=s|g=m	
+23	de	de	P	P		
+24	gazelles	gazelle	NC	NC	n=p|g=f	
+25	dorkas	_	ADV	ADV		
+26	[	[	PONCT	PONCT		
+27	8	8	NC	NC		
+28	]	]	PONCT	PONCT		
+29	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	Afrikaans	_	NPP	NPP		
+3	,	,	PONCT	PONCT		
+4	il	il	CLS	CLS	n=s|g=m|p=3	
+5	est	être	V	V	n=s|t=P|p=3	
+6	dénommé	dénommer	VPP	VPP	n=s|g=m|t=K	
+7	rooikat	_	NPP	NPP		
+8	[	[	PONCT	PONCT		
+9	9	9	ADJ	ADJ		
+10	]	]	PONCT	PONCT		
+11	qui	qui	PROREL	PROREL	n=s	
+12	signifie	signifier	V	V	n=s|t=P,S|p=1,3	
+13	"	"	PONCT	PONCT		
+14	chat	chat	NC	NC	n=s|g=m	
+15	rouge	rouge	ADJ	ADJ	n=s	
+16	"	"	PONCT	PONCT		
+17	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	est	être	V	V	n=s|t=P|p=3	
+3	nommé	nommer	VPP	VPP	n=s|g=m|t=K	
+4	nghawa	_	ADV	ADV		
+5	en	en	P	P		
+6	Xhosa	_	NPP	NPP		
+7	,	,	PONCT	PONCT		
+8	hwang	_	NPP	NPP		
+9	ou	ou	CC	CC		
+10	twana	_	NPP	NPP		
+11	en	en	P	P		
+12	Shona	Shona	NPP	NPP	n=s|g=f	
+13	,	,	PONCT	PONCT		
+14	thwani	_	NPP	NPP		
+15	en	en	P	P		
+16	Venda	_	NPP	NPP		
+17	,	,	PONCT	PONCT		
+18	thwane	_	NPP	NPP		
+19	en	en	P	P		
+20	Tswana	_	NPP	NPP		
+21	,	,	PONCT	PONCT		
+22	twani	_	NPP	NPP		
+23	en	en	P	P		
+24	Lozi	_	NPP	NPP		
+25	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	Ndébélé	_	NPP	NPP		
+3	il	il	CLS	CLS	n=s|g=m|p=3	
+4	est	être	V	V	n=s|t=P|p=3	
+5	appelé	appeler	VPP	VPP	n=s|g=m|t=K	
+6	intwane	_	NPP	NPP		
+7	et	et	CC	CC		
+8	en	en	P	P		
+9	Siswati	_	NPP	NPP		
+10	indabushe	_	NPP	NPP		
+11	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	langue	langue	NC	NC	n=s|g=f	
+3	Zoulou	_	NPP	NPP		
+4	il	il	CLS	CLS	n=s|g=m|p=3	
+5	se	se	CLR	CLR	n=p,s|p=3	
+6	nomme	nommer	V	V	n=s|t=P,S|p=1,3	
+7	ndabushe	_	ADV	ADV		
+8	.	.	PONCT	PONCT		
+
+1	Bien	bien	ADV	ADV		
+2	qu'	que	CS	CS		
+3	il	il	CLS	CLS	n=s|g=m|p=3	
+4	soit	être	VS	VS	n=s|t=S|p=3	
+5	également	_	ADV	ADV		
+6	appelé	appeler	VPP	VPP	n=s|g=m|t=K	
+7	"	"	PONCT	PONCT		
+8	lynx	lynx	NC	NC	g=m	
+9	du	de	P+D	P+D	n=s|g=m	
+10	désert	désert	NC	NC	n=s|g=m	
+11	"	"	PONCT	PONCT		
+12	ou	ou	CC	CC		
+13	"	"	PONCT	PONCT		
+14	lynx	lynx	NC	NC	g=m	
+15	de	de	P	P		
+16	Perse	_	NPP	NPP		
+17	"	"	PONCT	PONCT		
+18	,	,	PONCT	PONCT		
+19	il	il	CLS	CLS	n=s|g=m|p=3	
+20	n'	ne	ADV	ADV		
+21	est	être	V	V	n=s|t=P|p=3	
+22	pas	pas	ADV	ADV		
+23	apparenté	apparenter	VPP	VPP	n=s|g=m|t=K	
+24	au	à	P+D	P+D	n=s|g=m	
+25	genre	genre	NC	NC	n=s|g=m	
+26	Lynx	_	NPP	NPP		
+27	mais	mais	CC	CC		
+28	bien	bien	ADV	ADV		
+29	au	à	P+D	P+D	n=s|g=m	
+30	genre	genre	NC	NC	n=s|g=m	
+31	Caracal	_	NPP	NPP		
+32	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	première	premier	ADJ	ADJ	n=s|g=f	
+3	mention	mention	NC	NC	n=s|g=f	
+4	écrite	écrire	VPP	VPP	n=s|g=f|t=K	
+5	relative	relatif	ADJ	ADJ	n=s|g=f	
+6	au	à	P+D	P+D	n=s|g=m	
+7	caracal	caracal	NC	NC	n=s|g=m	
+8	est	être	V	V	n=s|t=P|p=3	
+9	probablement	_	ADV	ADV		
+10	due	devoir	VPP	VPP	n=s|g=f|t=K	
+11	à	à	P	P		
+12	Pline	_	NPP	NPP		
+13	l'	le	DET	DET	n=s	
+14	Ancien	_	NPP	NPP		
+15	dans	dans	P	P		
+16	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+17	Naturalis	_	NPP	NPP		
+18	historia	historier	V	V	n=s|t=J|p=3	
+19	[	[	PONCT	PONCT		
+20	10	10	ADJ	ADJ		
+21	]	]	PONCT	PONCT		
+22	publiée	publier	VPP	VPP	n=s|g=f|t=K	
+23	vers	vers	P	P		
+24	77	77	NC	NC		
+25	où	où	PROREL	PROREL		
+26	,	,	PONCT	PONCT		
+27	d'	de	P	P		
+28	après	après	P	P		
+29	Alfred	Alfred	NPP	NPP	n=s|g=m	
+30	Ernout	_	NPP	NPP		
+31	,	,	PONCT	PONCT		
+32	le	le	DET	DET	n=s|g=m	
+33	terme	terme	NC	NC	n=s|g=m	
+34	lynx	lynx	NC	NC	g=m	
+35	(	(	PONCT	PONCT		
+36	lyncas	_	ET	ET		
+37	)	)	PONCT	PONCT		
+38	de	de	P	P		
+39	la	la	DET	DET	n=s|g=f	
+40	traduction	traduction	NC	NC	n=s|g=f	
+41	"	"	PONCT	PONCT		
+42	L'	le	DET	DET	n=s	
+43	Éthiopie	Éthiopie	NPP	NPP	n=s|g=f	
+44	produit	produire	V	V	n=s|t=P|p=3	
+45	des	des	DET	DET	n=p	
+46	lynx	lynx	NC	NC	g=m	
+47	en	en	P	P		
+48	grand	grand	ADJ	ADJ	n=s|g=m	
+49	nombre	nombre	NC	NC	n=s|g=m	
+50	[	[	PONCT	PONCT		
+51	...	...	PONCT	PONCT		
+52	]	]	PONCT	PONCT		
+53	"	"	PONCT	PONCT		
+54	se	se	CLR	CLR	n=p,s|p=3	
+55	réfère	référer	V	V	n=s|t=P,S|p=1,3	
+56	au	à	P+D	P+D	n=s|g=m	
+57	caracal	caracal	NC	NC	n=s|g=m	
+58	[	[	PONCT	PONCT		
+59	11	11	NC	NC		
+60	]	]	PONCT	PONCT		
+61	'	'	PONCT	PONCT		
+62	[	[	PONCT	PONCT		
+63	12	12	ADJ	ADJ		
+64	]	]	PONCT	PONCT		
+65	.	.	PONCT	PONCT		
+66	Les	les	DET	DET	n=p	
+67	premières	premier	ADJ	ADJ	n=p|g=f	
+68	descriptions	description	NC	NC	n=p|g=f	
+69	du	de	P+D	P+D	n=s|g=m	
+70	caracal	caracal	NC	NC	n=s|g=m	
+71	datent	dater	V	V	n=p|t=P,S|p=3	
+72	de	de	P	P		
+73	la	la	DET	DET	n=s|g=f	
+74	seconde	second	ADJ	ADJ	n=s|g=f	
+75	moitié	moitié	NC	NC	n=s|g=f	
+76	du	de	P+D	P+D	n=s|g=m	
+77	XVIIe	_	ADJ	ADJ		
+78	siècle	siècle	NC	NC	n=s|g=m	
+79	et	et	CC	CC		
+80	ont	avoir	V	V	n=p|t=P|p=3	
+81	été	être	VPP	VPP	t=K	
+82	réalisées	réaliser	VPP	VPP	n=p|g=f|t=K	
+83	lors	lors	ADV	ADV		
+84	de	de	P	P		
+85	leurs	leurs	DET	DET	n=p|p=3|poss=p	
+86	voyages	voyage	NC	NC	n=p|g=m	
+87	en	en	P	P		
+88	Orient	_	NPP	NPP		
+89	(	(	PONCT	PONCT		
+90	en	en	P	P		
+91	Syrie	Syrie	NPP	NPP	n=s|g=f	
+92	et	et	CC	CC		
+93	en	en	P	P		
+94	Irak	Irak	NPP	NPP	n=s|g=m	
+95	)	)	PONCT	PONCT		
+96	par	par	P	P		
+97	Philippe	Philippe	NPP	NPP	n=s|g=m	
+98	de	de	P	P		
+99	la	la	DET	DET	n=s|g=f	
+100	Très	_	NPP	NPP		
+101	Sainte	_	NPP	NPP		
+102	Trinité	_	NPP	NPP		
+103	en	en	P	P		
+104	1652	1652	NC	NC		
+105	[	[	PONCT	PONCT		
+106	13	13	ADJ	ADJ		
+107	]	]	PONCT	PONCT		
+108	,	,	PONCT	PONCT		
+109	qui	qui	PROREL	PROREL	n=s	
+110	avait	avoir	V	V	n=s|t=I|p=3	
+111	par	par	P	P		
+112	ailleurs	ailleurs	ADV	ADV		
+113	observé	observer	VPP	VPP	n=s|g=m|t=K	
+114	l'	le	DET	DET	n=s	
+115	animal	animal	NC	NC	n=s|g=m	
+116	à	à	P	P		
+117	la	la	DET	DET	n=s|g=f	
+118	ménagerie	ménagerie	NC	NC	n=s|g=f	
+119	de	de	P	P		
+120	Florence	Florence	NPP	NPP	n=s|g=f	
+121	,	,	PONCT	PONCT		
+122	et	et	CC	CC		
+123	Jean	Jean	NPP	NPP	n=s	
+124	de	de	P	P		
+125	Thévenot	_	NPP	NPP		
+126	en	en	P	P		
+127	1674	1674	NC	NC		
+128	[	[	PONCT	PONCT		
+129	14	14	ADJ	ADJ		
+130	]	]	PONCT	PONCT		
+131	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	première	premier	ADJ	ADJ	n=s|g=f	
+3	description	description	NC	NC	n=s|g=f	
+4	avec	avec	P	P		
+5	illustration	illustration	NC	NC	n=s|g=f	
+6	représentant	représenter	VPR	VPR	t=G	
+7	plus	plus	ADV	ADV		
+8	ou	ou	CC	CC		
+9	moins	moins	ADV	ADV		
+10	fidèlement	_	ADV	ADV		
+11	le	le	DET	DET	n=s|g=m	
+12	caracal	caracal	NC	NC	n=s|g=m	
+13	est	être	V	V	n=s|t=P|p=3	
+14	due	devoir	VPP	VPP	n=s|g=f|t=K	
+15	à	à	P	P		
+16	Walter	Walter	NPP	NPP	n=s|g=m	
+17	Charleton	_	NPP	NPP		
+18	en	en	P	P		
+19	1677	1677	NC	NC		
+20	[	[	PONCT	PONCT		
+21	15	15	ADJ	ADJ		
+22	]	]	PONCT	PONCT		
+23	.	.	PONCT	PONCT		
+
+1	Au	à	P+D	P+D	n=s|g=m	
+2	cours	cour	NC	NC	n=p|g=f	
+3	de	de	P	P		
+4	la	la	DET	DET	n=s|g=f	
+5	première	premier	ADJ	ADJ	n=s|g=f	
+6	moitié	moitié	NC	NC	n=s|g=f	
+7	du	de	P+D	P+D	n=s|g=m	
+8	XVIIIe	_	ADJ	ADJ		
+9	siècle	siècle	NC	NC	n=s|g=m	
+10	,	,	PONCT	PONCT		
+11	d'	de	DET	DET	n=p	
+12	autres	autre	ADJ	ADJ	n=p	
+13	voyageurs	voyageur	NC	NC	n=p|g=m	
+14	font	faire	V	V	n=p|t=P|p=3	
+15	référence	référence	NC	NC	n=s|g=f	
+16	au	à	P+D	P+D	n=s|g=m	
+17	caracal	caracal	NC	NC	n=s|g=m	
+18	dans	dans	P	P		
+19	leurs	leurs	DET	DET	n=p|p=3|poss=p	
+20	récits	récit	NC	NC	n=p|g=m	
+21	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	astronome	astronome	NC	NC	n=s	
+3	allemand	allemand	ADJ	ADJ	n=s|g=m	
+4	Peter	Peter	NPP	NPP	n=s|g=m	
+5	Kolbe	_	NPP	NPP		
+6	fait	faire	V	V	n=s|t=P|p=3	
+7	mention	mention	NC	NC	n=s|g=f	
+8	en	en	P	P		
+9	1719	1719	NC	NC		
+10	de	de	P	P		
+11	la	la	DET	DET	n=s|g=f	
+12	présence	présence	NC	NC	n=s|g=f	
+13	du	de	P+D	P+D	n=s|g=m	
+14	lynx	lynx	NC	NC	g=m	
+15	dans	dans	P	P		
+16	la	la	DET	DET	n=s|g=f	
+17	province	province	NC	NC	n=s|g=f	
+18	du	de	P+D	P+D	n=s|g=m	
+19	Cap	_	NPP	NPP		
+20	qu'	que	PROREL	PROREL		
+21	il	il	CLS	CLS	n=s|g=m|p=3	
+22	identifie	identifier	V	V	n=s|t=P,S|p=1,3	
+23	de	de	P	P		
+24	manière	manière	NC	NC	n=s|g=f	
+25	erronée	erroné	ADJ	ADJ	n=s|g=f	
+26	(	(	PONCT	PONCT		
+27	il	il	CLS	CLS	n=s|g=m|p=3	
+28	s'	se	CLR	CLR	n=p,s|p=3	
+29	agit	agir	V	V	n=s|t=J,P|p=3	
+30	probablement	_	ADV	ADV		
+31	du	de	P+D	P+D	n=s|g=m	
+32	caracal	caracal	NC	NC	n=s|g=m	
+33	)	)	PONCT	PONCT		
+34	[	[	PONCT	PONCT		
+35	12	12	ADJ	ADJ		
+36	]	]	PONCT	PONCT		
+37	au	à	P+D	P+D	n=s|g=m	
+38	lynx	lynx	NC	NC	g=m	
+39	que	que	PROREL	PROREL		
+40	l'	le	DET	DET	n=s	
+41	on	on	CLS	CLS	n=s|p=3	
+42	pouvait	pouvoir	V	V	n=s|t=I|p=3	
+43	observer	observer	VINF	VINF	t=W	
+44	à	à	P	P		
+45	cette	cette	DET	DET	n=s|g=f	
+46	époque	époque	NC	NC	n=s|g=f	
+47	dans	dans	P	P		
+48	le	le	DET	DET	n=s|g=m	
+49	Brandebourg	Brandebourg	NPP	NPP	n=s|g=m	
+50	en	en	P	P		
+51	Allemagne	Allemagne	NPP	NPP	n=s|g=f	
+52	[	[	PONCT	PONCT		
+53	16	16	NC	NC		
+54	]	]	PONCT	PONCT		
+55	.	.	PONCT	PONCT		
+
+1	Thomas	Thomas	NPP	NPP	n=s|g=m	
+2	Shaw	Shaw	NPP	NPP	n=s|g=m	
+3	décrit	décrire	V	V	n=s|t=P|p=3	
+4	,	,	PONCT	PONCT		
+5	en	en	P	P		
+6	1729	1729	NC	NC		
+7	,	,	PONCT	PONCT		
+8	dans	dans	P	P		
+9	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+10	carnet	carnet	NC	NC	n=s|g=m	
+11	de	de	P	P		
+12	voyage	voyage	NC	NC	n=s|g=m	
+13	en	en	P	P		
+14	Afrique	Afrique	NPP	NPP	n=s|g=f	
+15	du	de	P+D	P+D	n=s|g=m	
+16	nord	nord	NC	NC	n=s|g=m	
+17	le	le	DET	DET	n=s|g=m	
+18	"	"	PONCT	PONCT		
+19	chat	chat	NC	NC	n=s|g=m	
+20	aux	à	P+D	P+D	n=p	
+21	oreilles	oreille	NC	NC	n=p|g=f	
+22	noires	noir	ADJ	ADJ	n=p|g=f	
+23	"	"	PONCT	PONCT		
+24	[	[	PONCT	PONCT		
+25	17	17	NC	NC		
+26	]	]	PONCT	PONCT		
+27	.	.	PONCT	PONCT		
+
+1	Georges	Georges	NPP	NPP	n=s|g=m	
+2	-	-	PONCT	PONCT		
+3	Louis	_	NPP	NPP		
+4	Leclerc	_	NPP	NPP		
+5	,	,	PONCT	PONCT		
+6	Comte	_	NPP	NPP		
+7	de	de	P	P		
+8	Buffon	Buffon	NPP	NPP	n=s|g=m	
+9	qui	qui	PROREL	PROREL	n=s	
+10	a	avoir	V	V	n=s|t=P|p=3	
+11	donné	donner	VPP	VPP	n=s|g=m|t=K	
+12	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+13	nom	nom	NC	NC	n=s|g=m	
+14	au	à	P+D	P+D	n=s|g=m	
+15	caracal	caracal	NC	NC	n=s|g=m	
+16	,	,	PONCT	PONCT		
+17	a	avoir	V	V	n=s|t=P|p=3	
+18	publié	publier	VPP	VPP	n=s|g=m|t=K	
+19	une	une	DET	DET	n=s|g=f	
+20	description	description	NC	NC	n=s|g=f	
+21	d'	de	P	P		
+22	un	un	DET	DET	n=s|g=m	
+23	animal	animal	NC	NC	n=s|g=m	
+24	observé	observer	VPP	VPP	n=s|g=m|t=K	
+25	en	en	P	P		
+26	captivité	captivité	NC	NC	n=s|g=f	
+27	à	à	P	P		
+28	la	la	DET	DET	n=s|g=f	
+29	ménagerie	ménagerie	NC	NC	n=s|g=f	
+30	royale	royal	ADJ	ADJ	n=s|g=f	
+31	de	de	P	P		
+32	Versailles	Versailles	NPP	NPP	n=s|g=m	
+33	,	,	PONCT	PONCT		
+34	avec	avec	P	P		
+35	une	une	DET	DET	n=s|g=f	
+36	illustration	illustration	NC	NC	n=s|g=f	
+37	dans	dans	P	P		
+38	l'	le	DET	DET	n=s	
+39	Histoire	histoire	NC	NC	n=s|g=f	
+40	naturelle	naturel	ADJ	ADJ	n=s|g=f	
+41	,	,	PONCT	PONCT		
+42	générale	général	ADJ	ADJ	n=s|g=f	
+43	et	et	CC	CC		
+44	particulière	particulier	ADJ	ADJ	n=s|g=f	
+45	en	en	P	P		
+46	1761	1761	NC	NC		
+47	[	[	PONCT	PONCT		
+48	6	6	ADJ	ADJ		
+49	]	]	PONCT	PONCT		
+50	,	,	PONCT	PONCT		
+51	sans	sans	P	P		
+52	toutefois	toutefois	ADV	ADV		
+53	lui	lui	CLO	CLO	n=s|p=3	
+54	attribuer	attribuer	VINF	VINF	t=W	
+55	de	de	P	P		
+56	nom	nom	NC	NC	n=s|g=m	
+57	binominal	_	ADJ	ADJ		
+58	conformément	_	ADV	ADV		
+59	au	à	P+D	P+D	n=s|g=m	
+60	système	système	NC	NC	n=s|g=m	
+61	linnéen	_	NPP	NPP		
+62	.	.	PONCT	PONCT		
+
+1	À	à	P	P		
+2	la	la	DET	DET	n=s|g=f	
+3	suite	suite	NC	NC	n=s|g=f	
+4	de	de	P	P		
+5	la	la	DET	DET	n=s|g=f	
+6	mort	mort	NC	NC	n=s|g=f,m	
+7	de	de	P	P		
+8	l'	le	DET	DET	n=s	
+9	animal	animal	NC	NC	n=s|g=m	
+10	,	,	PONCT	PONCT		
+11	Buffon	Buffon	NPP	NPP	n=s|g=m	
+12	a	avoir	V	V	n=s|t=P|p=3	
+13	réalisé	réaliser	VPP	VPP	n=s|g=m|t=K	
+14	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+15	dissection	dissection	NC	NC	n=s|g=f	
+16	et	et	CC	CC		
+17	une	une	DET	DET	n=s|g=f	
+18	description	description	NC	NC	n=s|g=f	
+19	plus	plus	ADV	ADV		
+20	complète	complet	ADJ	ADJ	n=s|g=f	
+21	,	,	PONCT	PONCT		
+22	incluant	inclure	VPR	VPR	t=G	
+23	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+24	anatomie	anatomie	NC	NC	n=s|g=f	
+25	interne	interne	ADJ	ADJ	n=s	
+26	et	et	CC	CC		
+27	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+28	squelette	squelette	NC	NC	n=s|g=m	
+29	[	[	PONCT	PONCT		
+30	18	18	ADJ	ADJ		
+31	]	]	PONCT	PONCT		
+32	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	1776	1776	NC	NC		
+3	,	,	PONCT	PONCT		
+4	le	le	DET	DET	n=s|g=m	
+5	zoologiste	zoologiste	NC	NC	n=s	
+6	allemand	allemand	ADJ	ADJ	n=s|g=m	
+7	Johann	Johann	NPP	NPP	n=s|g=m	
+8	Christian	Christian	NPP	NPP	n=s|g=m	
+9	Daniel	Daniel	NPP	NPP	n=s|g=m	
+10	von	_	NPP	NPP		
+11	Schreber	_	NPP	NPP		
+12	décrit	décrire	V	V	n=s|t=P|p=3	
+13	Felis	_	NPP	NPP		
+14	caracal	caracal	NC	NC	n=s|g=m	
+15	[	[	PONCT	PONCT		
+16	19	19	NC	NC		
+17	]	]	PONCT	PONCT		
+18	(	(	PONCT	PONCT		
+19	qu'	que	PROREL	PROREL		
+20	il	il	CLS	CLS	n=s|g=m|p=3	
+21	attribue	attribuer	V	V	n=s|t=P,S|p=1,3	
+22	à	à	P	P		
+23	Buffon	Buffon	NPP	NPP	n=s|g=m	
+24	)	)	PONCT	PONCT		
+25	à	à	P	P		
+26	partir	partir	VINF	VINF	t=W	
+27	d'	de	P	P		
+28	un	un	DET	DET	n=s|g=m	
+29	spécimen	spécimen	NC	NC	n=s|g=m	
+30	prélevé	prélever	VPP	VPP	n=s|g=m|t=K	
+31	dans	dans	P	P		
+32	la	la	DET	DET	n=s|g=f	
+33	région	région	NC	NC	n=s|g=f	
+34	de	de	P	P		
+35	la	la	DET	DET	n=s|g=f	
+36	Montagne	Montagne	NPP	NPP	n=s|g=m	
+37	de	de	P	P		
+38	la	la	DET	DET	n=s|g=f	
+39	Table	_	NPP	NPP		
+40	,	,	PONCT	PONCT		
+41	en	en	P	P		
+42	Afrique	Afrique	NPP	NPP	n=s|g=f	
+43	du	de	P+D	P+D	n=s|g=m	
+44	Sud	sud	NC	NC	n=s|g=m	
+45	,	,	PONCT	PONCT		
+46	considérée	considérer	VPP	VPP	n=s|g=f|t=K	
+47	comme	comme	P	P		
+48	la	la	DET	DET	n=s|g=f	
+49	localité	localité	NC	NC	n=s|g=f	
+50	type	type	NC	NC	n=s|g=m	
+51	de	de	P	P		
+52	l'	le	DET	DET	n=s	
+53	espèce	espèce	NC	NC	n=s|g=f	
+54	[	[	PONCT	PONCT		
+55	2	2	ADJ	ADJ		
+56	]	]	PONCT	PONCT		
+57	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	genre	genre	NC	NC	n=s|g=m	
+3	Caracal	_	NPP	NPP		
+4	ayant	avoir	VPR	VPR	t=G	
+5	été	être	VPP	VPP	t=K	
+6	créé	créer	VPP	VPP	n=s|g=m|t=K	
+7	par	par	P	P		
+8	le	le	DET	DET	n=s|g=m	
+9	naturaliste	naturaliste	NC	NC	n=s	
+10	britannique	britannique	ADJ	ADJ	n=s	
+11	John	John	NPP	NPP	n=s|g=m	
+12	Edward	Edward	NPP	NPP	n=s|g=m	
+13	Gray	Gray	NPP	NPP	n=s|g=m	
+14	en	en	P	P		
+15	1843	1843	NC	NC		
+16	[	[	PONCT	PONCT		
+17	3	3	ADJ	ADJ		
+18	]	]	PONCT	PONCT		
+19	sur	sur	P	P		
+20	la	la	DET	DET	n=s|g=f	
+21	base	base	NC	NC	n=s|g=f	
+22	de	de	P	P		
+23	l'	le	DET	DET	n=s	
+24	étude	étude	NC	NC	n=s|g=f	
+25	d'	de	P	P		
+26	un	un	DET	DET	n=s|g=m	
+27	spécimen	spécimen	NC	NC	n=s|g=m	
+28	prélevé	prélever	VPP	VPP	n=s|g=m|t=K	
+29	dans	dans	P	P		
+30	la	la	DET	DET	n=s|g=f	
+31	région	région	NC	NC	n=s|g=f	
+32	du	de	P+D	P+D	n=s|g=m	
+33	Cap	cap	NC	NC	n=s|g=m	
+34	de	de	P	P		
+35	Bonne	Bonne	NPP	NPP	n=s|g=m	
+36	-	-	PONCT	PONCT		
+37	Espérance	espérance	NC	NC	n=s|g=f	
+38	[	[	PONCT	PONCT		
+39	4	4	NC	NC		
+40	]	]	PONCT	PONCT		
+41	et	et	CC	CC		
+42	Felis	_	NPP	NPP		
+43	caracal	caracal	NC	NC	n=s|g=m	
+44	subrogé	subroger	VPP	VPP	n=s|g=m|t=K	
+45	à	à	P	P		
+46	ce	ce	DET	DET	n=s|g=m	
+47	genre	genre	NC	NC	n=s|g=m	
+48	,	,	PONCT	PONCT		
+49	l'	le	DET	DET	n=s	
+50	appellation	appellation	NC	NC	n=s|g=f	
+51	taxinomique	_	NPP	NPP		
+52	valide	valider	V	V	n=s|t=P,S|p=1,3	
+53	du	de	P+D	P+D	n=s|g=m	
+54	caracal	caracal	NC	NC	n=s|g=m	
+55	devient	devenir	V	V	n=s|t=P|p=3	
+56	Caracal	_	NPP	NPP		
+57	caracal	caracal	NC	NC	n=s|g=m	
+58	(	(	PONCT	PONCT		
+59	Schreber	_	NPP	NPP		
+60	,	,	PONCT	PONCT		
+61	1776	1776	NC	NC		
+62	)	)	PONCT	PONCT		
+63	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	est	être	V	V	n=s|t=P|p=3	
+3	à	à	P	P		
+4	noter	noter	VINF	VINF	t=W	
+5	que	que	CS	CS		
+6	le	le	DET	DET	n=s|g=m	
+7	zoologiste	zoologiste	NC	NC	n=s	
+8	allemand	allemand	ADJ	ADJ	n=s|g=m	
+9	Philipp	Philipp	NPP	NPP	n=s|g=m	
+10	Ludwig	Ludwig	NPP	NPP	n=s|g=m	
+11	Statius	_	NPP	NPP		
+12	Müller	_	NPP	NPP		
+13	a	avoir	V	V	n=s|t=P|p=3	
+14	également	_	ADV	ADV		
+15	décrit	décrire	VPP	VPP	n=s|g=m|t=K	
+16	en	en	P	P		
+17	1776	1776	NC	NC		
+18	le	le	DET	DET	n=s|g=m	
+19	caracal	caracal	NC	NC	n=s|g=m	
+20	sur	sur	P	P		
+21	la	la	DET	DET	n=s|g=f	
+22	base	base	NC	NC	n=s|g=f	
+23	d'	de	P	P		
+24	un	un	DET	DET	n=s|g=m	
+25	spécimen	spécimen	NC	NC	n=s|g=m	
+26	d'	de	P	P		
+27	Afrique	Afrique	NPP	NPP	n=s|g=f	
+28	du	de	P+D	P+D	n=s|g=m	
+29	nord	_	NPP	NPP		
+30	[	[	PONCT	PONCT		
+31	20	20	NC	NC		
+32	]	]	PONCT	PONCT		
+33	et	et	CC	CC		
+34	que	que	CS	CS		
+35	certaines	certain	DET	DET	n=p|g=f	
+36	références	référence	NC	NC	n=p|g=f	
+37	anciennes	ancien	ADJ	ADJ	n=p|g=f	
+38	attribuent	attribuer	V	V	n=p|t=P,S|p=3	
+39	à	à	P	P		
+40	cet	cet	DET	DET	n=s|g=m	
+41	auteur	auteur	NC	NC	n=s|g=m	
+42	la	la	DET	DET	n=s|g=f	
+43	paternité	paternité	NC	NC	n=s|g=f	
+44	de	de	P	P		
+45	la	la	DET	DET	n=s|g=f	
+46	description	description	NC	NC	n=s|g=f	
+47	[	[	PONCT	PONCT		
+48	4	4	NC	NC		
+49	]	]	PONCT	PONCT		
+50	mais	mais	CC	CC		
+51	la	la	DET	DET	n=s|g=f	
+52	publication	publication	NC	NC	n=s|g=f	
+53	de	de	P	P		
+54	Schreber	_	NPP	NPP		
+55	est	être	V	V	n=s|t=P|p=3	
+56	antérieure	antérieur	ADJ	ADJ	n=s|g=f	
+57	à	à	P	P		
+58	celle	celle	PRO	PRO	n=s|g=f	
+59	de	de	P	P		
+60	Statius	_	NPP	NPP		
+61	Müller	_	NPP	NPP		
+62	et	et	CC	CC		
+63	la	la	DET	DET	n=s|g=f	
+64	règle	règle	NC	NC	n=s|g=f	
+65	de	de	P	P		
+66	préséance	préséance	NC	NC	n=s|g=f	
+67	s'	se	CLR	CLR	n=p,s|p=3	
+68	applique	appliquer	V	V	n=s|t=P,S|p=1,3	
+69	[	[	PONCT	PONCT		
+70	21	21	ADJ	ADJ		
+71	]	]	PONCT	PONCT		
+72	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	est	être	V	V	n=s|t=P|p=3	
+3	également	_	ADV	ADV		
+4	à	à	P	P		
+5	noter	noter	VINF	VINF	t=W	
+6	que	que	CS	CS		
+7	la	la	DET	DET	n=s|g=f	
+8	classification	classification	NC	NC	n=s|g=f	
+9	du	de	P+D	P+D	n=s|g=m	
+10	caracal	caracal	NC	NC	n=s|g=m	
+11	au	à	P+D	P+D	n=s|g=m	
+12	sein	sein	NC	NC	n=s|g=m	
+13	des	de	P+D	P+D	n=p	
+14	félidés	félidé	NC	NC	n=p|g=m	
+15	a	avoir	V	V	n=s|t=P|p=3	
+16	fait	faire	VPP	VPP	n=s|g=m|t=K	
+17	l'	le	DET	DET	n=s	
+18	objet	objet	NC	NC	n=s|g=m	
+19	de	de	P	P		
+20	désaccords	désaccord	NC	NC	n=p|g=m	
+21	et	et	CC	CC		
+22	qu'	que	CS	CS		
+23	il	il	CLS	CLS	n=s|g=m|p=3	
+24	a	avoir	V	V	n=s|t=P|p=3	
+25	été	être	VPP	VPP	t=K	
+26	classé	classer	VPP	VPP	n=s|g=m|t=K	
+27	dans	dans	P	P		
+28	les	les	DET	DET	n=p	
+29	genres	genre	NC	NC	n=p|g=m	
+30	Felis	_	NPP	NPP		
+31	,	,	PONCT	PONCT		
+32	Lynx	_	NPP	NPP		
+33	,	,	PONCT	PONCT		
+34	plus	plus	ADV	ADV		
+35	rarement	_	ADV	ADV		
+36	Profelis	_	NPP	NPP		
+37	,	,	PONCT	PONCT		
+38	et	et	CC	CC		
+39	Caracal	_	NPP	NPP		
+40	[	[	PONCT	PONCT		
+41	21	21	ADJ	ADJ		
+42	]	]	PONCT	PONCT		
+43	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	ouvrages	ouvrage	NC	NC	n=p|g=m	
+3	les	les	DET	DET	n=p	
+4	plus	plus	ADV	ADV		
+5	récents	récent	ADJ	ADJ	n=p|g=m	
+6	[	[	PONCT	PONCT		
+7	22	22	NC	NC		
+8	]	]	PONCT	PONCT		
+9	'	'	PONCT	PONCT		
+10	[	[	PONCT	PONCT		
+11	23	23	NC	NC		
+12	]	]	PONCT	PONCT		
+13	et	et	CC	CC		
+14	les	les	DET	DET	n=p	
+15	opinions	opinion	NC	NC	n=p|g=f	
+16	taxinomiques	_	NC	NC		
+17	de	de	P	P		
+18	grands	grand	ADJ	ADJ	n=p|g=m	
+19	muséums	muséum	NC	NC	n=p|g=m	
+20	(	(	PONCT	PONCT		
+21	comme	comme	CS	CS		
+22	le	le	DET	DET	n=s|g=m	
+23	Muséum	muséum	NC	NC	n=s|g=m	
+24	national	national	ADJ	ADJ	n=s|g=m	
+25	d'	de	P	P		
+26	histoire	histoire	NC	NC	n=s|g=f	
+27	naturelle	naturel	ADJ	ADJ	n=s|g=f	
+28	à	à	P	P		
+29	Paris	Paris	NPP	NPP	n=s|g=m	
+30	,	,	PONCT	PONCT		
+31	le	le	DET	DET	n=s|g=m	
+32	musée	musée	NC	NC	n=s|g=m	
+33	d'	de	P	P		
+34	histoire	histoire	NC	NC	n=s|g=f	
+35	naturelle	naturel	ADJ	ADJ	n=s|g=f	
+36	de	de	P	P		
+37	Londres	Londres	NPP	NPP	n=s|g=m	
+38	,	,	PONCT	PONCT		
+39	le	le	DET	DET	n=s|g=m	
+40	musée	musée	NC	NC	n=s|g=m	
+41	d'	de	P	P		
+42	histoire	histoire	NC	NC	n=s|g=f	
+43	naturelle	naturel	ADJ	ADJ	n=s|g=f	
+44	de	de	P	P		
+45	Berlin	Berlin	NPP	NPP	n=s|g=f,m	
+46	ou	ou	CC	CC		
+47	le	le	DET	DET	n=s|g=m	
+48	Musée	musée	NC	NC	n=s|g=m	
+49	national	national	ADJ	ADJ	n=s|g=m	
+50	d'	de	P	P		
+51	histoire	histoire	NC	NC	n=s|g=f	
+52	naturelle	naturel	ADJ	ADJ	n=s|g=f	
+53	des	de	P+D	P+D	n=p	
+54	États	État	NC	NC	n=p|g=m	
+55	-	-	PONCT	PONCT		
+56	Unis	unir	VPP	VPP	n=p|g=m|t=K	
+57	à	à	P	P		
+58	Washington	Washington	NPP	NPP	n=s|g=m	
+59	,	,	PONCT	PONCT		
+60	D	_	NPP	NPP		
+61	.	.	PONCT	PONCT		
+62	C	femelle	ADJ	ADJ		
+63	.	.	PONCT	PONCT		
+64	)	)	PONCT	PONCT		
+65	classent	classer	V	V	n=p|t=P,S|p=3	
+66	le	le	DET	DET	n=s|g=m	
+67	caracal	caracal	NC	NC	n=s|g=m	
+68	dans	dans	P	P		
+69	le	le	DET	DET	n=s|g=m	
+70	genre	genre	NC	NC	n=s|g=m	
+71	Caracal	_	NPP	NPP		
+72	et	et	CC	CC		
+73	valident	valider	V	V	n=p|t=P,S|p=3	
+74	le	le	DET	DET	n=s|g=m	
+75	nom	nom	NC	NC	n=s|g=m	
+76	binominal	_	ADJ	ADJ		
+77	Caracal	_	NPP	NPP		
+78	caracal	caracal	NC	NC	n=s|g=m	
+79	(	(	PONCT	PONCT		
+80	Schreber	_	NPP	NPP		
+81	,	,	PONCT	PONCT		
+82	1776	1776	NC	NC		
+83	)	)	PONCT	PONCT		
+84	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	espèce	espèce	NC	NC	n=s|g=f	
+3	Caracal	_	ADJ	ADJ		
+4	caracal	caracal	NC	NC	n=s|g=m	
+5	comporte	comporter	V	V	n=s|t=P,S|p=1,3	
+6	8	8	VPP	VPP		
+7	[	[	PONCT	PONCT		
+8	24	24	NC	NC		
+9	]	]	PONCT	PONCT		
+10	'	'	PONCT	PONCT		
+11	[	[	PONCT	PONCT		
+12	25	25	ADJ	ADJ		
+13	]	]	PONCT	PONCT		
+14	ou	ou	CC	CC		
+15	9	9	ADJ	ADJ		
+16	[	[	PONCT	PONCT		
+17	26	26	ADJ	ADJ		
+18	]	]	PONCT	PONCT		
+19	'	'	PONCT	PONCT		
+20	[	[	PONCT	PONCT		
+21	27	27	NC	NC		
+22	]	]	PONCT	PONCT		
+23	sous	sous	P	P		
+24	-	-	PONCT	PONCT		
+25	espèces	espèce	NC	NC	n=p|g=f	
+26	[	[	PONCT	PONCT		
+27	Note	noter	V	V	n=s|t=P,S|p=1,3	
+28	1	1	ADJ	ADJ		
+29	]	]	PONCT	PONCT		
+30	principalement	_	ADV	ADV		
+31	distinguées	distinguer	VPP	VPP	n=p|g=f|t=K	
+32	par	par	P	P		
+33	des	des	DET	DET	n=p	
+34	différences	différence	NC	NC	n=p|g=f	
+35	de	de	P	P		
+36	teinte	teinte	NC	NC	n=s|g=f	
+37	de	de	P	P		
+38	pelage	pelage	NC	NC	n=s|g=m	
+39	et	et	CC	CC		
+40	d'	de	P	P		
+41	origine	origine	NC	NC	n=s|g=f	
+42	géographique	géographique	ADJ	ADJ	n=s	
+43	,	,	PONCT	PONCT		
+44	mais	mais	CC	CC		
+45	leur	leur	DET	DET	n=s|p=3|poss=p	
+46	validité	validité	NC	NC	n=s|g=f	
+47	est	être	V	V	n=s|t=P|p=3	
+48	discutable	discutable	ADJ	ADJ	n=s	
+49	et	et	CC	CC		
+50	elles	elles	CLS	CLS	n=p|g=f|p=3	
+51	pourraient	pouvoir	V	V	n=p|t=C|p=3	
+52	être	être	VINF	VINF	t=W	
+53	plus	plus	ADV	ADV		
+54	simplement	_	ADV	ADV		
+55	considérées	considérer	VPP	VPP	n=p|g=f|t=K	
+56	comme	comme	P	P		
+57	des	des	DET	DET	n=p	
+58	variantes	variante	NC	NC	n=p|g=f	
+59	géographiques	géographique	ADJ	ADJ	n=p	
+60	[	[	PONCT	PONCT		
+61	22	22	NC	NC		
+62	]	]	PONCT	PONCT		
+63	'	'	PONCT	PONCT		
+64	[	[	PONCT	PONCT		
+65	28	28	ADJ	ADJ		
+66	]	]	PONCT	PONCT		
+67	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	Caracal	_	NPP	NPP		
+3	est	être	V	V	n=s|t=P|p=3	
+4	un	un	DET	DET	n=s|g=m	
+5	mammifère	mammifère	NC	NC	n=s|g=m	
+6	de	de	P	P		
+7	la	la	DET	DET	n=s|g=f	
+8	famille	famille	NC	NC	n=s|g=f	
+9	des	de	P+D	P+D	n=p	
+10	félidés	félidé	NC	NC	n=p|g=m	
+11	de	de	P	P		
+12	taille	taille	NC	NC	n=s|g=f	
+13	moyenne	moyen	ADJ	ADJ	n=s|g=f	
+14	avec	avec	P	P		
+15	de	de	DET	DET	n=p	
+16	longues	long	ADJ	ADJ	n=p|g=f	
+17	jambes	jambe	NC	NC	n=p|g=f	
+18	et	et	CC	CC		
+19	une	une	DET	DET	n=s|g=f	
+20	queue	queue	NC	NC	n=s|g=f	
+21	relativement	_	ADV	ADV		
+22	courte	court	ADJ	ADJ	n=s|g=f	
+23	[	[	PONCT	PONCT		
+24	18	18	ADJ	ADJ		
+25	]	]	PONCT	PONCT		
+26	'	'	PONCT	PONCT		
+27	[	[	PONCT	PONCT		
+28	38	38	NC	NC		
+29	]	]	PONCT	PONCT		
+30	qui	qui	PROREL	PROREL	n=s	
+31	représente	représenter	V	V	n=s|t=P,S|p=1,3	
+32	30	30	VPP	VPP		
+33	%	%	NC	NC	g=m	
+34	de	de	P	P		
+35	la	la	DET	DET	n=s|g=f	
+36	longueur	longueur	NC	NC	n=s|g=f	
+37	du	de	P+D	P+D	n=s|g=m	
+38	corps	corps	NC	NC	g=m	
+39	de	de	P	P		
+40	l'	le	DET	DET	n=s	
+41	animal	animal	NC	NC	n=s|g=m	
+42	[	[	PONCT	PONCT		
+43	22	22	NC	NC		
+44	]	]	PONCT	PONCT		
+45	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	se	se	CLR	CLR	n=p,s|p=3	
+3	distingue	distinguer	V	V	n=s|t=P,S|p=1,3	
+4	par	par	P	P		
+5	la	la	DET	DET	n=s|g=f	
+6	présence	présence	NC	NC	n=s|g=f	
+7	d'	de	P	P		
+8	un	un	DET	DET	n=s|g=m	
+9	bouquet	bouquet	NC	NC	n=s|g=m	
+10	de	de	P	P		
+11	longs	long	ADJ	ADJ	n=p|g=m	
+12	poils	poil	NC	NC	n=p|g=m	
+13	noirs	noir	ADJ	ADJ	n=p|g=m	
+14	à	à	P	P		
+15	l'	le	DET	DET	n=s	
+16	extrémité	extrémité	NC	NC	n=s|g=f	
+17	des	de	P+D	P+D	n=p	
+18	oreilles	oreille	NC	NC	n=p|g=f	
+19	,	,	PONCT	PONCT		
+20	dépassant	dépasser	VPR	VPR	t=G	
+21	quasiment	_	ADV	ADV		
+22	leur	leur	DET	DET	n=s|p=3|poss=p	
+23	longueur	longueur	NC	NC	n=s|g=f	
+24	,	,	PONCT	PONCT		
+25	caractéristique	caractéristique	NC	NC	n=s|g=f	
+26	qu'	que	PROREL	PROREL		
+27	il	il	CLS	CLS	n=s|g=m|p=3	
+28	partage	partager	V	V	n=s|t=P,S|p=1,3	
+29	avec	avec	P	P		
+30	le	le	DET	DET	n=s|g=m	
+31	Lynx	_	NPP	NPP		
+32	[	[	PONCT	PONCT		
+33	18	18	ADJ	ADJ		
+34	]	]	PONCT	PONCT		
+35	et	et	CC	CC		
+36	avec	avec	P	P		
+37	le	le	DET	DET	n=s|g=m	
+38	chat	chat	NC	NC	n=s|g=m	
+39	des	de	P+D	P+D	n=p	
+40	marais	marais	NC	NC	g=m	
+41	(	(	PONCT	PONCT		
+42	Felis	_	NPP	NPP		
+43	chaus	_	NPP	NPP		
+44	)	)	PONCT	PONCT		
+45	.	.	PONCT	PONCT		
+
+1	Son	son	DET	DET	n=s|g=m|p=3|poss=s	
+2	poil	poil	NC	NC	n=s|g=m	
+3	est	être	V	V	n=s|t=P|p=3	
+4	court	court	ADJ	ADJ	n=s|g=m	
+5	d'	de	P	P		
+6	une	une	DET	DET	n=s|g=f	
+7	couleur	couleur	NC	NC	n=s|g=f	
+8	gris	gris	ADJ	ADJ	g=m	
+9	fauve	fauve	NC	NC	n=s|g=m	
+10	à	à	P	P		
+11	rougeâtre	rougeâtre	ADJ	ADJ	n=s	
+12	uniforme	uniforme	NC	NC	n=s|g=m	
+13	sur	sur	P	P		
+14	le	le	DET	DET	n=s|g=m	
+15	dos	dos	NC	NC	g=m	
+16	,	,	PONCT	PONCT		
+17	les	les	DET	DET	n=p	
+18	côtés	côté	NC	NC	n=p|g=m	
+19	et	et	CC	CC		
+20	la	la	DET	DET	n=s|g=f	
+21	queue	queue	NC	NC	n=s|g=f	
+22	[	[	PONCT	PONCT		
+23	3	3	ADJ	ADJ		
+24	]	]	PONCT	PONCT		
+25	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	menton	menton	NC	NC	n=s|g=m	
+3	,	,	PONCT	PONCT		
+4	la	la	DET	DET	n=s|g=f	
+5	gorge	gorge	NC	NC	n=s|g=f	
+6	,	,	PONCT	PONCT		
+7	la	la	DET	DET	n=s|g=f	
+8	poitrine	poitrine	NC	NC	n=s|g=f	
+9	,	,	PONCT	PONCT		
+10	le	le	DET	DET	n=s|g=m	
+11	ventre	ventre	NC	NC	n=s|g=m	
+12	et	et	CC	CC		
+13	l'	le	DET	DET	n=s	
+14	intérieur	intérieur	NC	NC	n=s|g=m	
+15	des	de	P+D	P+D	n=p	
+16	jambes	jambe	NC	NC	n=p|g=f	
+17	sont	être	V	V	n=p|t=P|p=3	
+18	blanchâtres	_	ADJ	ADJ		
+19	et	et	CC	CC		
+20	peuvent	pouvoir	V	V	n=p|t=P|p=3	
+21	être	être	VINF	VINF	t=W	
+22	tachetés	tacheter	VPP	VPP	n=p|g=m|t=K	
+23	de	de	P	P		
+24	spots	spot	NC	NC	n=p|g=m	
+25	rougeâtres	rougeâtre	ADJ	ADJ	n=p	
+26	[	[	PONCT	PONCT		
+27	28	28	ADJ	ADJ		
+28	]	]	PONCT	PONCT		
+29	ou	ou	CC	CC		
+30	fauves	fauve	ADJ	ADJ	n=p	
+31	pales	pale	NC	NC	n=p|g=f	
+32	[	[	PONCT	PONCT		
+33	4	4	NC	NC		
+34	]	]	PONCT	PONCT		
+35	'	'	PONCT	PONCT		
+36	[	[	PONCT	PONCT		
+37	22	22	NC	NC		
+38	]	]	PONCT	PONCT		
+39	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	train	train	NC	NC	n=s|g=m	
+3	arrière	arrière	NC	NC	n=s	
+4	très	très	ADV	ADV		
+5	musclé	muscler	ADJ	ADJ	n=s|g=m|t=K	
+6	est	être	V	V	n=s|t=P|p=3	
+7	plus	plus	ADV	ADV		
+8	haut	haut	ADJ	ADJ	n=s|g=m	
+9	que	que	CS	CS		
+10	le	le	DET	DET	n=s|g=m	
+11	train	train	NC	NC	n=s|g=m	
+12	avant	avant	P	P		
+13	[	[	PONCT	PONCT		
+14	22	22	NC	NC		
+15	]	]	PONCT	PONCT		
+16	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	pattes	patte	NC	NC	n=p|g=f	
+3	du	de	P+D	P+D	n=s|g=m	
+4	Caracal	_	NPP	NPP		
+5	sont	être	V	V	n=p|t=P|p=3	
+6	assez	assez	ADV	ADV		
+7	larges	large	ADJ	ADJ	n=p	
+8	avec	avec	P	P		
+9	cinq	cinq	DET	DET	s=card|n=p	
+10	doigts	doigt	NC	NC	n=p|g=m	
+11	sur	sur	P	P		
+12	les	les	DET	DET	n=p	
+13	pattes	patte	NC	NC	n=p|g=f	
+14	antérieures	antérieur	ADJ	ADJ	n=p|g=f	
+15	(	(	PONCT	PONCT		
+16	dont	dont	PROREL	PROREL		
+17	le	le	DET	DET	n=s|g=m	
+18	premier	premier	ADJ	ADJ	n=s|g=m	
+19	ne	ne	ADV	ADV		
+20	touche	toucher	V	V	n=s|t=P,S|p=1,3	
+21	pas	pas	ADV	ADV		
+22	le	le	DET	DET	n=s|g=m	
+23	sol	_	NC	NC		
+24	)	)	PONCT	PONCT		
+25	et	et	CC	CC		
+26	quatre	quatre	PRO	PRO	s=card|n=p	
+27	sur	sur	P	P		
+28	les	les	DET	DET	n=p	
+29	postérieures	postérieur	ADJ	ADJ	n=p|g=f	
+30	munis	munir	VPP	VPP	n=p|g=m|t=K	
+31	de	de	P	P		
+32	griffes	griffe	NC	NC	n=p|g=f	
+33	rétractables	_	ADJ	ADJ		
+34	de	de	P	P		
+35	3	3	ADJ	ADJ		
+36	cm	centimètre	NC	NC	g=m	
+37	de	de	P	P		
+38	long	long	ADJ	ADJ	n=s|g=m	
+39	[	[	PONCT	PONCT		
+40	22	22	NC	NC		
+41	]	]	PONCT	PONCT		
+42	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	Caracal	_	NPP	NPP		
+3	possède	posséder	V	V	n=s|t=P,S|p=1,3	
+4	de	de	DET	DET	n=p	
+5	nombreux	nombreux	ADJ	ADJ	g=m	
+6	poils	poil	NC	NC	n=p|g=m	
+7	raides	raide	ADJ	ADJ	n=p	
+8	qui	qui	PROREL	PROREL	n=s	
+9	émergent	émerger	V	V	n=p|t=P,S|p=3	
+10	d'	de	P	P		
+11	entre	entre	P	P		
+12	ses	ses	DET	DET	n=p|p=3|poss=s	
+13	coussinets	coussinet	NC	NC	n=p|g=m	
+14	lui	lui	CLO	CLO	n=s|p=3	
+15	assurant	assurer	VPR	VPR	t=G	
+16	un	un	DET	DET	n=s|g=m	
+17	bon	bon	ADJ	ADJ	n=s|g=m	
+18	appui	appui	NC	NC	n=s|g=m	
+19	sur	sur	P	P		
+20	les	les	DET	DET	n=p	
+21	sols	sol	NC	NC	n=p|g=m	
+22	meubles	meuble	NC	NC	n=p|g=m	
+23	[	[	PONCT	PONCT		
+24	38	38	NC	NC		
+25	]	]	PONCT	PONCT		
+26	.	.	PONCT	PONCT		
+
+1	Le	le	CLO	CLO	n=s|g=m|p=3	
+2	crane	craner	V	V	n=s|t=P,S|p=1,3	
+3	est	être	V	V	n=s|t=P|p=3	
+4	haut	haut	ADJ	ADJ	n=s|g=m	
+5	et	et	CC	CC		
+6	bombé	bomber	VPP	VPP	n=s|g=m|t=K	
+7	,	,	PONCT	PONCT		
+8	la	la	DET	DET	n=s|g=f	
+9	mâchoire	mâchoire	NC	NC	n=s|g=f	
+10	courte	court	ADJ	ADJ	n=s|g=f	
+11	avec	avec	P	P		
+12	une	une	DET	DET	n=s|g=f	
+13	denture	denture	NC	NC	n=s|g=f	
+14	assez	assez	ADV	ADV		
+15	particulière	particulier	ADJ	ADJ	n=s|g=f	
+16	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	effet	effet	NC	NC	n=s|g=m	
+3	,	,	PONCT	PONCT		
+4	la	la	DET	DET	n=s|g=f	
+5	majorité	majorité	NC	NC	n=s|g=f	
+6	des	de	P+D	P+D	n=p	
+7	individus	individu	NC	NC	n=p|g=m	
+8	ne	ne	ADV	ADV		
+9	possède	posséder	V	V	n=s|t=P,S|p=1,3	
+10	pas	pas	ADV	ADV		
+11	de	de	DET	DET	n=p	
+12	première	premier	ADJ	ADJ	n=s|g=f	
+13	petite	petit	ADJ	ADJ	n=s|g=f	
+14	prémolaire	prémolaire	NC	NC	n=s|g=f	
+15	supérieure	supérieur	ADJ	ADJ	n=s|g=f	
+16	[	[	PONCT	PONCT		
+17	28	28	ADJ	ADJ		
+18	]	]	PONCT	PONCT		
+19	ce	ce	PRO	PRO	n=s	
+20	qui	qui	PROREL	PROREL	n=s	
+21	leur	leur	CLO	CLO	n=p|p=3	
+22	confère	conférer	V	V	n=s|t=P,S|p=1,3	
+23	,	,	PONCT	PONCT		
+24	tout	tout	ADV	ADV		
+25	comme	comme	P	P		
+26	le	le	DET	DET	n=s|g=m	
+27	Lynx	_	NPP	NPP		
+28	,	,	PONCT	PONCT		
+29	un	un	DET	DET	n=s|g=m	
+30	total	total	NC	NC	n=s|g=m	
+31	de	de	P	P		
+32	28	28	ADJ	ADJ		
+33	dents	dent	NC	NC	n=p|g=f	
+34	[	[	PONCT	PONCT		
+35	21	21	ADJ	ADJ		
+36	]	]	PONCT	PONCT		
+37	mais	mais	CC	CC		
+38	dans	dans	P	P		
+39	8	8	ADJ	ADJ		
+40	%	%	NC	NC	g=m	
+41	des	de	P+D	P+D	n=p	
+42	cas	cas	NC	NC	g=m	
+43	la	la	DET	DET	n=s|g=f	
+44	présence	présence	NC	NC	n=s|g=f	
+45	de	de	P	P		
+46	cette	cette	DET	DET	n=s|g=f	
+47	prémolaire	prémolaire	NC	NC	n=s|g=f	
+48	[	[	PONCT	PONCT		
+49	22	22	NC	NC		
+50	]	]	PONCT	PONCT		
+51	leur	leur	CLO	CLO	n=p|p=3	
+52	confère	conférer	V	V	n=s|t=P,S|p=1,3	
+53	une	une	DET	DET	n=s|g=f	
+54	denture	denture	NC	NC	n=s|g=f	
+55	conforme	conforme	ADJ	ADJ	n=s	
+56	à	à	P	P		
+57	celle	celle	PRO	PRO	n=s|g=f	
+58	de	de	P	P		
+59	la	la	DET	DET	n=s|g=f	
+60	famille	famille	NC	NC	n=s|g=f	
+61	Felidae	_	NPP	NPP		
+62	avec	avec	P	P		
+63	30	30	ADJ	ADJ		
+64	dents	dent	NC	NC	n=p|g=f	
+65	[	[	PONCT	PONCT		
+66	18	18	ADJ	ADJ		
+67	]	]	PONCT	PONCT		
+68	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	tête	tête	NC	NC	n=s|g=f	
+3	du	de	P+D	P+D	n=s|g=m	
+4	Caracal	_	NPP	NPP		
+5	comporte	comporter	V	V	n=s|t=P,S|p=1,3	
+6	des	des	DET	DET	n=p	
+7	marques	marque	NC	NC	n=p|g=f	
+8	faciales	facial	ADJ	ADJ	n=p|g=f	
+9	caractéristiques	caractéristique	NC	NC	n=p|g=f	
+10	qui	qui	PROREL	PROREL	n=s	
+11	comprennent	comprendre	V	V	n=p|t=P,S|p=3	
+12	une	une	DET	DET	n=s|g=f	
+13	ligne	ligne	NC	NC	n=s|g=f	
+14	très	très	ADV	ADV		
+15	foncée	foncer	VPP	VPP	n=s|g=f|t=K	
+16	allant	aller	VPR	VPR	t=G	
+17	du	de	P+D	P+D	n=s|g=m	
+18	bas	bas	ADJ	ADJ	g=m	
+19	du	de	P+D	P+D	n=s|g=m	
+20	bord	bord	NC	NC	n=s|g=m	
+21	interne	interne	ADJ	ADJ	n=s	
+22	de	de	P	P		
+23	chaque	chaque	DET	DET	n=s	
+24	œil	_	NC	NC		
+25	au	à	P+D	P+D	n=s|g=m	
+26	museau	museau	NC	NC	n=s|g=m	
+27	,	,	PONCT	PONCT		
+28	une	une	DET	DET	n=s|g=f	
+29	autre	autre	ADJ	ADJ	n=s	
+30	verticale	verticale	NC	NC	n=s|g=f	
+31	passant	passer	VPR	VPR	t=G	
+32	au	à	P+D	P+D	n=s|g=m	
+33	centre	centre	NC	NC	n=s|g=m	
+34	de	de	P	P		
+35	la	la	DET	DET	n=s|g=f	
+36	face	face	NC	NC	n=s|g=f	
+37	très	très	ADV	ADV		
+38	marquée	marquer	VPP	VPP	n=s|g=f|t=K	
+39	sur	sur	P	P		
+40	le	le	DET	DET	n=s|g=m	
+41	front	front	NC	NC	n=s|g=m	
+42	et	et	CC	CC		
+43	plus	plus	ADV	ADV		
+44	fine	fin	ADJ	ADJ	n=s|g=f	
+45	vers	vers	P	P		
+46	le	le	DET	DET	n=s|g=m	
+47	museau	museau	NC	NC	n=s|g=m	
+48	et	et	CC	CC		
+49	enfin	enfin	ADV	ADV		
+50	,	,	PONCT	PONCT		
+51	une	une	DET	DET	n=s|g=f	
+52	marques	marque	NC	NC	n=p|g=f	
+53	allongée	allonger	VPP	VPP	n=s|g=f|t=K	
+54	verticale	vertical	ADJ	ADJ	n=s|g=f	
+55	très	très	ADV	ADV		
+56	foncée	foncer	VPP	VPP	n=s|g=f|t=K	
+57	au	à	P+D	P+D	n=s|g=m	
+58	-	-	PONCT	PONCT		
+59	dessus	dessus	P	P		
+60	du	de	P+D	P+D	n=s|g=m	
+61	bord	bord	NC	NC	n=s|g=m	
+62	interne	interne	ADJ	ADJ	n=s	
+63	des	de	P+D	P+D	n=p	
+64	yeux	oeil	NC	NC	n=p|g=m	
+65	.	.	PONCT	PONCT		
+
+1	Deux	deux	DET	DET	s=card|n=p	
+2	marques	marque	NC	NC	n=p|g=f	
+3	blanchâtres	_	NPP	NPP		
+4	encadrent	encadrer	V	V	n=p|t=P,S|p=3	
+5	les	les	DET	DET	n=p	
+6	yeux	oeil	NC	NC	n=p|g=m	
+7	et	et	CC	CC		
+8	deux	deux	DET	DET	s=card|n=p	
+9	autres	autres	PRO	PRO	n=p|g=f,m	
+10	sont	être	V	V	n=p|t=P|p=3	
+11	présentes	présent	ADJ	ADJ	n=p|g=f	
+12	de	de	P	P		
+13	chaque	chaque	DET	DET	n=s	
+14	côté	côté	NC	NC	n=s|g=m	
+15	du	de	P+D	P+D	n=s|g=m	
+16	nez	nez	NC	NC	g=m	
+17	sous	sous	P	P		
+18	les	les	DET	DET	n=p	
+19	narines	narine	NC	NC	n=p|g=f	
+20	[	[	PONCT	PONCT		
+21	28	28	NC	NC		
+22	]	]	PONCT	PONCT		
+23	.	.	PONCT	PONCT		
+
+1	Des	des	DET	DET	n=p	
+2	spots	spot	NC	NC	n=p|g=m	
+3	très	très	ADV	ADV		
+4	foncés	foncer	VPP	VPP	n=p|g=m|t=K	
+5	marquent	marquer	V	V	n=p|t=P,S|p=3	
+6	la	la	DET	DET	n=s|g=f	
+7	naissance	naissance	NC	NC	n=s|g=f	
+8	des	de	P+D	P+D	n=p	
+9	moustaches	moustache	NC	NC	n=p|g=f	
+10	(	(	PONCT	PONCT		
+11	vibrisses	vibrisse	NC	NC	n=p|g=f	
+12	)	)	PONCT	PONCT		
+13	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	arrière	arrière	NC	NC	n=s	
+3	des	de	P+D	P+D	n=p	
+4	oreilles	oreille	NC	NC	n=p|g=f	
+5	,	,	PONCT	PONCT		
+6	triangulaires	triangulaire	ADJ	ADJ	n=p	
+7	et	et	CC	CC		
+8	pointues	pointu	ADJ	ADJ	n=p|g=f	
+9	,	,	PONCT	PONCT		
+10	est	être	V	V	n=s|t=P|p=3	
+11	noir	noir	ADJ	ADJ	n=s|g=m	
+12	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	surface	surface	NC	NC	n=s|g=f	
+3	intérieure	intérieur	ADJ	ADJ	n=s|g=f	
+4	du	de	P+D	P+D	n=s|g=m	
+5	pavillon	pavillon	NC	NC	n=s|g=m	
+6	est	être	V	V	n=s|t=P|p=3	
+7	recouverte	recouvrir	VPP	VPP	n=s|g=f|t=K	
+8	de	de	P	P		
+9	petits	petit	ADJ	ADJ	n=p|g=m	
+10	poils	poil	NC	NC	n=p|g=m	
+11	blancs	blanc	ADJ	ADJ	n=p|g=m	
+12	[	[	PONCT	PONCT		
+13	28	28	ADJ	ADJ		
+14	]	]	PONCT	PONCT		
+15	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	yeux	oeil	NC	NC	n=p|g=m	
+3	sont	être	V	V	n=p|t=P|p=3	
+4	de	de	P	P		
+5	couleur	couleur	NC	NC	n=s|g=f	
+6	claire	clair	ADJ	ADJ	n=s|g=f	
+7	,	,	PONCT	PONCT		
+8	généralement	_	ADV	ADV		
+9	verdâtres	verdâtre	ADJ	ADJ	n=p	
+10	[	[	PONCT	PONCT		
+11	28	28	ADJ	ADJ		
+12	]	]	PONCT	PONCT		
+13	pouvant	pouvoir	VPR	VPR	t=G	
+14	varier	varier	VINF	VINF	t=W	
+15	du	de	P+D	P+D	n=s|g=m	
+16	marron	marron	NC	NC	n=s|g=m	
+17	au	à	P+D	P+D	n=s|g=m	
+18	bleu	bleu	NC	NC	n=s|g=m	
+19	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	pupille	pupille	NC	NC	n=s	
+3	est	être	V	V	n=s|t=P|p=3	
+4	plutôt	plutôt	ADV	ADV		
+5	ronde	rond	ADJ	ADJ	n=s|g=f	
+6	,	,	PONCT	PONCT		
+7	potentiellement	_	ADV	ADV		
+8	légèrement	_	ADV	ADV		
+9	oblongue	oblong	ADJ	ADJ	n=s|g=f	
+10	verticalement	_	NC	NC		
+11	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	mâles	mâle	NC	NC	n=p|g=m	
+3	peuvent	pouvoir	V	V	n=p|t=P|p=3	
+4	atteindre	atteindre	VINF	VINF	t=W	
+5	une	une	DET	DET	n=s|g=f	
+6	longueur	longueur	NC	NC	n=s|g=f	
+7	de	de	P	P		
+8	106	106	ADJ	ADJ		
+9	cm	centimètre	NC	NC	g=m	
+10	sans	sans	P	P		
+11	la	la	DET	DET	n=s|g=f	
+12	queue	queue	NC	NC	n=s|g=f	
+13	pour	pour	P	P		
+14	un	un	DET	DET	n=s|g=m	
+15	poids	poids	NC	NC	g=m	
+16	maximal	maximal	ADJ	ADJ	n=s|g=m	
+17	de	de	P	P		
+18	20	20	ADJ	ADJ		
+19	kg	kilogramme	NC	NC	g=m	
+20	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	femelles	femelle	NC	NC	n=p|g=f	
+3	sont	être	V	V	n=p|t=P|p=3	
+4	plus	plus	ADV	ADV		
+5	petites	petit	ADJ	ADJ	n=p|g=f	
+6	avec	avec	P	P		
+7	une	une	DET	DET	n=s|g=f	
+8	longueur	longueur	NC	NC	n=s|g=f	
+9	maximales	maximal	ADJ	ADJ	n=p|g=f	
+10	de	de	P	P		
+11	103	103	ADJ	ADJ		
+12	cm	centimètre	NC	NC	g=m	
+13	sans	sans	P	P		
+14	la	la	DET	DET	n=s|g=f	
+15	queue	queue	NC	NC	n=s|g=f	
+16	et	et	CC	CC		
+17	un	un	DET	DET	n=s|g=m	
+18	poids	poids	NC	NC	g=m	
+19	maximal	maximal	ADJ	ADJ	n=s|g=m	
+20	de	de	P	P		
+21	16	16	ADJ	ADJ		
+22	kg	kilogramme	NC	NC	g=m	
+23	[	[	PONCT	PONCT		
+24	8	8	NC	NC		
+25	]	]	PONCT	PONCT		
+26	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	Caracal	_	NPP	NPP		
+3	peut	pouvoir	V	V	n=s|t=P|p=3	
+4	présenter	présenter	VINF	VINF	t=W	
+5	des	des	DET	DET	n=p	
+6	cas	cas	NC	NC	g=m	
+7	de	de	P	P		
+8	mélanisme	mélanisme	NC	NC	n=s|g=m	
+9	[	[	PONCT	PONCT		
+10	42	42	NC	NC		
+11	]	]	PONCT	PONCT		
+12	'	'	PONCT	PONCT		
+13	[	[	PONCT	PONCT		
+14	28	28	ADJ	ADJ		
+15	]	]	PONCT	PONCT		
+16	où	où	PROREL	PROREL		
+17	l'	le	DET	DET	n=s	
+18	animal	animal	NC	NC	n=s|g=m	
+19	présente	présenter	V	V	n=s|t=P,S|p=1,3	
+20	une	une	DET	DET	n=s|g=f	
+21	couleur	couleur	NC	NC	n=s|g=f	
+22	grise	griser	V	V	n=s|t=P,S|p=1,3	
+23	à	à	P	P		
+24	noire	noir	ADJ	ADJ	n=s|g=f	
+25	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	caracal	caracal	NC	NC	n=s|g=m	
+3	a	avoir	V	V	n=s|t=P|p=3	
+4	été	être	VPP	VPP	t=K	
+5	par	par	P	P		
+6	le	le	DET	DET	n=s|g=m	
+7	passé	passé	NC	NC	n=s|g=m	
+8	classé	classer	VPP	VPP	n=s|g=m|t=K	
+9	dans	dans	P	P		
+10	le	le	DET	DET	n=s|g=m	
+11	genre	genre	NC	NC	n=s|g=m	
+12	Lynx	_	NPP	NPP		
+13	sur	sur	P	P		
+14	la	la	DET	DET	n=s|g=f	
+15	base	base	NC	NC	n=s|g=f	
+16	d'	de	P	P		
+17	éléments	élément	NC	NC	n=p|g=m	
+18	d'	de	P	P		
+19	identification	identification	NC	NC	n=s|g=f	
+20	communs	commun	ADJ	ADJ	n=p|g=m	
+21	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	caracal	caracal	NC	NC	n=s|g=m	
+3	possède	posséder	V	V	n=s|t=P,S|p=1,3	
+4	de	de	DET	DET	n=p	
+5	longs	long	ADJ	ADJ	n=p|g=m	
+6	pinceaux	pinceau	NC	NC	n=p|g=m	
+7	de	de	P	P		
+8	poils	poil	NC	NC	n=p|g=m	
+9	à	à	P	P		
+10	l'	le	DET	DET	n=s	
+11	extrémité	extrémité	NC	NC	n=s|g=f	
+12	des	de	P+D	P+D	n=p	
+13	oreilles	oreille	NC	NC	n=p|g=f	
+14	semblables	semblable	ADJ	ADJ	n=p	
+15	à	à	P	P		
+16	ceux	ceux	PRO	PRO	n=p|g=m	
+17	du	de	P+D	P+D	n=s|g=m	
+18	Lynx	_	NPP	NPP		
+19	ainsi	ainsi	ADV	ADV		
+20	qu'	que	CS	CS		
+21	un	un	DET	DET	n=s|g=m	
+22	pelage	pelage	NC	NC	n=s|g=m	
+23	ventral	ventral	ADJ	ADJ	n=s|g=m	
+24	plus	plus	ADV	ADV		
+25	clair	clair	ADJ	ADJ	n=s|g=m	
+26	mais	mais	CC	CC		
+27	ses	ses	DET	DET	n=p|p=3|poss=s	
+28	poils	poil	NC	NC	n=p|g=m	
+29	sont	être	V	V	n=p|t=P|p=3	
+30	plus	plus	ADV	ADV		
+31	courts	court	ADJ	ADJ	n=p|g=m	
+32	et	et	CC	CC		
+33	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+34	robe	robe	NC	NC	n=s|g=f	
+35	unie	unir	VPP	VPP	n=s|g=f|t=K	
+36	de	de	P	P		
+37	couleur	couleur	NC	NC	n=s|g=f	
+38	fauve	fauve	ADJ	ADJ	n=s	
+39	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	chat	chat	NC	NC	n=s|g=m	
+3	doré	dorer	VPP	VPP	n=s|g=m|t=K	
+4	africain	africain	ADJ	ADJ	n=s|g=m	
+5	(	(	PONCT	PONCT		
+6	Caracal	caracal	NC	NC	n=s|g=m	
+7	aurata	_	NPP	NPP		
+8	)	)	PONCT	PONCT		
+9	[	[	PONCT	PONCT		
+10	47	47	NC	NC		
+11	]	]	PONCT	PONCT		
+12	,	,	PONCT	PONCT		
+13	l'	le	DET	DET	n=s	
+14	autre	autre	ADJ	ADJ	n=s	
+15	espèce	espèce	NC	NC	n=s|g=f	
+16	du	de	P+D	P+D	n=s|g=m	
+17	genre	genre	NC	NC	n=s|g=m	
+18	Caracal	_	NPP	NPP		
+19	,	,	PONCT	PONCT		
+20	lui	lui	CLO	CLO	n=s|p=3	
+21	est	être	V	V	n=s|t=P|p=3	
+22	assez	assez	ADV	ADV		
+23	similaire	similaire	ADJ	ADJ	n=s	
+24	mais	mais	CC	CC		
+25	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+26	robe	robe	NC	NC	n=s|g=f	
+27	tachetée	tacheter	VPP	VPP	n=s|g=f|t=K	
+28	et	et	CC	CC		
+29	ses	ses	DET	DET	n=p|p=3|poss=s	
+30	petits	petit	ADJ	ADJ	n=p|g=m	
+31	poils	poil	NC	NC	n=p|g=m	
+32	à	à	P	P		
+33	l'	le	DET	DET	n=s	
+34	extrémité	extrémité	NC	NC	n=s|g=f	
+35	des	de	P+D	P+D	n=p	
+36	oreilles	oreille	NC	NC	n=p|g=f	
+37	le	le	CLO	CLO	n=s|g=m|p=3	
+38	différencient	différencier	V	V	n=p|t=P,S|p=3	
+39	assez	assez	ADV	ADV		
+40	aisément	_	ADV	ADV		
+41	.	.	PONCT	PONCT		
+
+1	C'	ce	CLS	CLS		
+2	est	être	V	V	n=s|t=P|p=3	
+3	également	_	ADV	ADV		
+4	le	le	DET	DET	n=s|g=m	
+5	cas	cas	NC	NC	g=m	
+6	du	de	P+D	P+D	n=s|g=m	
+7	serval	serval	NC	NC	n=s|g=m	
+8	(	(	PONCT	PONCT		
+9	Leptailurus	_	NPP	NPP		
+10	serval	serval	NC	NC	n=s|g=m	
+11	)	)	PONCT	PONCT		
+12	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	puma	puma	NC	NC	n=s|g=m	
+3	(	(	PONCT	PONCT		
+4	Puma	puma	NC	NC	n=s|g=m	
+5	concolor	_	NPP	NPP		
+6	)	)	PONCT	PONCT		
+7	possède	posséder	V	V	n=s|t=P,S|p=1,3	
+8	une	une	DET	DET	n=s|g=f	
+9	robe	robe	NC	NC	n=s|g=f	
+10	fauve	fauve	ADJ	ADJ	n=s	
+11	avec	avec	P	P		
+12	un	un	DET	DET	n=s|g=m	
+13	pelage	pelage	NC	NC	n=s|g=m	
+14	ventral	ventral	ADJ	ADJ	n=s|g=m	
+15	assez	assez	ADV	ADV		
+16	similaire	similaire	ADJ	ADJ	n=s	
+17	à	à	P	P		
+18	celle	celle	PRO	PRO	n=s|g=f	
+19	du	de	P+D	P+D	n=s|g=m	
+20	caracal	caracal	NC	NC	n=s|g=m	
+21	mais	mais	CC	CC		
+22	ne	ne	ADV	ADV		
+23	possède	posséder	V	V	n=s|t=P,S|p=1,3	
+24	pas	pas	ADV	ADV		
+25	les	les	DET	DET	n=p	
+26	pinceaux	pinceau	NC	NC	n=p|g=m	
+27	sur	sur	P	P		
+28	les	les	DET	DET	n=p	
+29	pointes	pointe	NC	NC	n=p|g=f	
+30	des	de	P+D	P+D	n=p	
+31	oreilles	oreille	NC	NC	n=p|g=f	
+32	.	.	PONCT	PONCT		
+33	Caracal	caracal	NC	NC	n=s|g=m	
+34	caracal	caracal	NC	NC	n=s|g=m	
+
+1	Caracal	caracal	NC	NC	n=s|g=m	
+2	caracal	caracal	NC	NC	n=s|g=m	
+
+1	Lynx	lynx	NC	NC	g=m	
+2	pardinus	_	NC	NC		
+
+1	Lynx	lynx	NC	NC	g=m	
+2	pardinus	_	NC	NC		
+
+1	Puma	puma	NC	NC	n=s|g=m	
+2	concolor	_	NC	NC		
+
+1	Puma	puma	NC	NC	n=s|g=m	
+2	concolor	_	NC	NC		
+
+1	Comme	comme	P	P		
+2	tous	tout	ADJ	ADJ	n=p|g=m	
+3	les	les	DET	DET	n=p	
+4	félins	félin	ADJ	ADJ	n=p|g=m	
+5	,	,	PONCT	PONCT		
+6	le	le	DET	DET	n=s|g=m	
+7	caracal	caracal	NC	NC	n=s|g=m	
+8	est	être	V	V	n=s|t=P|p=3	
+9	un	un	DET	DET	n=s|g=m	
+10	animal	animal	NC	NC	n=s|g=m	
+11	territorial	territorial	ADJ	ADJ	n=s|g=m	
+12	et	et	CC	CC		
+13	n'	ne	ADV	ADV		
+14	accepte	accepter	V	V	n=s|t=P,S|p=1,3	
+15	pas	pas	ADV	ADV		
+16	d'	de	DET	DET	n=p	
+17	autres	autre	ADJ	ADJ	n=p	
+18	félins	félin	NC	NC	n=p|g=m	
+19	sur	sur	P	P		
+20	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+21	domaine	domaine	NC	NC	n=s|g=m	
+22	qu'	que	PROREL	PROREL		
+23	il	il	CLS	CLS	n=s|g=m|p=3	
+24	marque	marquer	V	V	n=s|t=P,S|p=1,3	
+25	en	en	P	P		
+26	urinant	uriner	VPR	VPR	t=G	
+27	sur	sur	P	P		
+28	les	les	DET	DET	n=p	
+29	rochers	rocher	NC	NC	n=p|g=m	
+30	et	et	CC	CC		
+31	les	les	DET	DET	n=p	
+32	arbustes	arbuste	NC	NC	n=p|g=m	
+33	afin	_	ADV	ADV		
+34	d'	de	P	P		
+35	y	y	CLO	CLO		
+36	laisser	laisser	VINF	VINF	t=W	
+37	des	des	DET	DET	n=p	
+38	marques	marque	NC	NC	n=p|g=f	
+39	olfactives	olfactif	ADJ	ADJ	n=p|g=f	
+40	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	caracal	caracal	NC	NC	n=s|g=m	
+3	est	être	V	V	n=s|t=P|p=3	
+4	solitaire	solitaire	ADJ	ADJ	n=s	
+5	[	[	PONCT	PONCT		
+6	22	22	NC	NC		
+7	]	]	PONCT	PONCT		
+8	mais	mais	CC	CC		
+9	on	on	CLS	CLS	n=s|p=3	
+10	peut	pouvoir	V	V	n=s|t=P|p=3	
+11	cependant	cependant	ADV	ADV		
+12	le	le	CLO	CLO	n=s|g=m|p=3	
+13	rencontrer	rencontrer	VINF	VINF	t=W	
+14	en	en	P	P		
+15	couple	couple	NC	NC	n=s	
+16	durant	durant	P	P		
+17	les	les	DET	DET	n=p	
+18	périodes	période	NC	NC	n=p	
+19	de	de	P	P		
+20	reproduction	reproduction	NC	NC	n=s|g=f	
+21	et	et	CC	CC		
+22	les	les	DET	DET	n=p	
+23	femelles	femelle	NC	NC	n=p|g=f	
+24	sont	être	V	V	n=p|t=P|p=3	
+25	accompagnées	accompagner	VPP	VPP	n=p|g=f|t=K	
+26	de	de	P	P		
+27	leurs	leurs	DET	DET	n=p|p=3|poss=p	
+28	petits	petit	ADJ	ADJ	n=p|g=m	
+29	jusqu'	jusque	P	P		
+30	à	à	P	P		
+31	l'	le	DET	DET	n=s	
+32	âge	âge	NC	NC	n=s|g=m	
+33	de	de	P	P		
+34	10	10	ADJ	ADJ		
+35	mois	mois	NC	NC	g=m	
+36	[	[	PONCT	PONCT		
+37	48	48	NC	NC		
+38	]	]	PONCT	PONCT		
+39	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	territoire	territoire	NC	NC	n=s|g=m	
+3	des	de	P+D	P+D	n=p	
+4	mâles	mâle	NC	NC	n=p|g=m	
+5	chevauche	chevaucher	V	V	n=s|t=P,S|p=1,3	
+6	celui	celui	PRO	PRO	n=s|g=m	
+7	de	de	P	P		
+8	plusieurs	plusieurs	DET	DET	n=p	
+9	femelles	femelle	NC	NC	n=p|g=f	
+10	[	[	PONCT	PONCT		
+11	22	22	NC	NC		
+12	]	]	PONCT	PONCT		
+13	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	caracal	caracal	NC	NC	n=s|g=m	
+3	est	être	V	V	n=s|t=P|p=3	
+4	un	un	DET	DET	n=s|g=m	
+5	animal	animal	NC	NC	n=s|g=m	
+6	plutôt	plutôt	ADV	ADV		
+7	nocturne	nocturne	ADJ	ADJ	n=s	
+8	[	[	PONCT	PONCT		
+9	22	22	NC	NC		
+10	]	]	PONCT	PONCT		
+11	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	a	avoir	V	V	n=s|t=P|p=3	
+3	une	une	DET	DET	n=s|g=f	
+4	activité	activité	NC	NC	n=s|g=f	
+5	diurne	diurne	ADJ	ADJ	n=s	
+6	mais	mais	CC	CC		
+7	évite	éviter	V	V	n=s|t=P,S|p=1,3	
+8	les	les	DET	DET	n=p	
+9	heures	heure	NC	NC	n=p|g=f	
+10	les	les	DET	DET	n=p	
+11	plus	plus	ADV	ADV		
+12	chaudes	chaud	ADJ	ADJ	n=p|g=f	
+13	de	de	P	P		
+14	la	la	DET	DET	n=s|g=f	
+15	journée	journée	NC	NC	n=s|g=f	
+16	où	où	PROREL	PROREL		
+17	il	il	CLS	CLS	n=s|g=m|p=3	
+18	se	se	CLR	CLR	n=p,s|p=3	
+19	retire	retirer	V	V	n=s|t=P,S|p=1,3	
+20	probablement	_	ADV	ADV		
+21	dans	dans	P	P		
+22	des	des	DET	DET	n=p	
+23	grottes	grotte	NC	NC	n=p|g=f	
+24	,	,	PONCT	PONCT		
+25	des	des	DET	DET	n=p	
+26	anfractuosités	anfractuosité	NC	NC	n=p|g=f	
+27	ou	ou	CC	CC		
+28	des	de	P+D	P+D	n=p	
+29	cavités	cavité	NC	NC	n=p|g=f	
+30	creusées	creuser	VPP	VPP	n=p|g=f|t=K	
+31	par	par	P	P		
+32	d'	de	DET	DET	n=p	
+33	autres	autre	ADJ	ADJ	n=p	
+34	animaux	animal	NC	NC	n=p|g=m	
+35	[	[	PONCT	PONCT		
+36	28	28	NC	NC		
+37	]	]	PONCT	PONCT		
+38	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	corps	corps	NC	NC	g=m	
+3	de	de	P	P		
+4	ce	ce	DET	DET	n=s|g=m	
+5	félin	félin	NC	NC	n=s|g=m	
+6	est	être	V	V	n=s|t=P|p=3	
+7	plus	plus	ADV	ADV		
+8	délié	délier	VPP	VPP	n=s|g=m|t=K	
+9	que	que	CS	CS		
+10	celui	celui	PRO	PRO	n=s|g=m	
+11	des	de	P+D	P+D	n=p	
+12	lynx	lynx	NC	NC	g=m	
+13	nordiques	nordique	ADJ	ADJ	n=p	
+14	,	,	PONCT	PONCT		
+15	ce	ce	PRO	PRO	n=s	
+16	qui	qui	PROREL	PROREL	n=s	
+17	en	en	CLO	CLO		
+18	fait	faire	V	V	n=s|t=P|p=3	
+19	un	un	DET	DET	n=s|g=m	
+20	excellent	excellent	ADJ	ADJ	n=s|g=m	
+21	coureur	coureur	NC	NC	n=s|g=m	
+22	.	.	PONCT	PONCT		
+
+1	C'	ce	CLS	CLS		
+2	est	être	V	V	n=s|t=P|p=3	
+3	également	_	ADV	ADV		
+4	un	un	DET	DET	n=s|g=m	
+5	excellent	excellent	ADJ	ADJ	n=s|g=m	
+6	grimpeur	grimpeur	NC	NC	n=s|g=m	
+7	[	[	PONCT	PONCT		
+8	22	22	NC	NC		
+9	]	]	PONCT	PONCT		
+10	.	.	PONCT	PONCT		
+
+1	Ses	ses	DET	DET	n=p|p=3|poss=s	
+2	oreilles	oreille	NC	NC	n=p|g=f	
+3	caractéristiques	caractéristique	NC	NC	n=p|g=f	
+4	pourraient	pouvoir	V	V	n=p|t=C|p=3	
+5	lui	lui	CLO	CLO	n=s|p=3	
+6	servir	servir	VINF	VINF	t=W	
+7	de	de	P	P		
+8	moyen	moyen	NC	NC	n=s|g=m	
+9	de	de	P	P		
+10	communication	communication	NC	NC	n=s|g=f	
+11	[	[	PONCT	PONCT		
+12	49	49	NC	NC		
+13	]	]	PONCT	PONCT		
+14	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	caracal	caracal	NC	NC	n=s|g=m	
+3	atteint	atteindre	V	V	n=s|t=P|p=3	
+4	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+5	maturité	maturité	NC	NC	n=s|g=f	
+6	sexuelle	sexuel	ADJ	ADJ	n=s|g=f	
+7	à	à	P	P		
+8	partir	partir	VINF	VINF	t=W	
+9	de	de	P	P		
+10	7	7	NC	NC		
+11	à	à	P	P		
+12	12	12	ADJ	ADJ		
+13	mois	mois	NC	NC	g=m	
+14	pour	pour	P	P		
+15	les	les	DET	DET	n=p	
+16	femelles	femelle	ADJ	ADJ	n=p	
+17	et	et	CC	CC		
+18	de	de	P	P		
+19	9	9	VINF	VINF		
+20	à	à	P	P		
+21	14	14	ADJ	ADJ		
+22	mois	mois	NC	NC	g=m	
+23	pour	pour	P	P		
+24	les	les	DET	DET	n=p	
+25	mâles	mâle	NC	NC	n=p|g=m	
+26	[	[	PONCT	PONCT		
+27	43	43	NC	NC		
+28	]	]	PONCT	PONCT		
+29	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	cycle	cycle	NC	NC	n=s|g=m	
+3	de	de	P	P		
+4	la	la	DET	DET	n=s|g=f	
+5	femelle	femelle	NC	NC	n=s|g=f	
+6	est	être	V	V	n=s|t=P|p=3	
+7	de	de	P	P		
+8	14	14	ADJ	ADJ		
+9	jours	jour	NC	NC	n=p|g=m	
+10	[	[	PONCT	PONCT		
+11	43	43	NC	NC		
+12	]	]	PONCT	PONCT		
+13	et	et	CC	CC		
+14	la	la	DET	DET	n=s|g=f	
+15	reproduction	reproduction	NC	NC	n=s|g=f	
+16	du	de	P+D	P+D	n=s|g=m	
+17	caracal	caracal	NC	NC	n=s|g=m	
+18	a	avoir	V	V	n=s|t=P|p=3	
+19	lieu	lieu	NC	NC	n=s|g=m	
+20	toute	tout	ADJ	ADJ	n=s|g=f	
+21	l'	le	DET	DET	n=s	
+22	année	année	NC	NC	n=s|g=f	
+23	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	peut	pouvoir	V	V	n=s|t=P|p=3	
+3	présenter	présenter	VINF	VINF	t=W	
+4	des	des	DET	DET	n=p	
+5	pics	pic	NC	NC	n=p|g=m	
+6	saisonniers	saisonnier	ADJ	ADJ	n=p|g=m	
+7	dans	dans	P	P		
+8	certaines	certain	DET	DET	n=p|g=f	
+9	régions	région	NC	NC	n=p|g=f	
+10	et	et	CC	CC		
+11	donner	donner	VINF	VINF	t=W	
+12	lieu	lieu	NC	NC	n=s|g=m	
+13	,	,	PONCT	PONCT		
+14	par	par	P	P		
+15	exemple	exemple	NC	NC	n=s|g=m	
+16	,	,	PONCT	PONCT		
+17	à	à	P	P		
+18	un	un	DET	DET	n=s|g=m	
+19	pic	pic	NC	NC	n=s|g=m	
+20	des	de	P+D	P+D	n=p	
+21	naissances	naissance	NC	NC	n=p|g=f	
+22	entre	entre	P	P		
+23	octobre	octobre	NC	NC	n=s|g=m	
+24	et	et	CC	CC		
+25	février	février	NC	NC	n=s|g=m	
+26	en	en	P	P		
+27	Afrique	Afrique	NPP	NPP	n=s|g=f	
+28	Australe	_	NPP	NPP		
+29	[	[	PONCT	PONCT		
+30	43	43	NC	NC		
+31	]	]	PONCT	PONCT		
+32	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	femelles	femelle	NC	NC	n=p|g=f	
+3	réceptives	réceptif	ADJ	ADJ	n=p|g=f	
+4	attirent	attirer	V	V	n=p|t=P,S|p=3	
+5	les	les	DET	DET	n=p	
+6	mâles	mâle	NC	NC	n=p|g=m	
+7	par	par	P	P		
+8	la	la	DET	DET	n=s|g=f	
+9	sécrétion	sécrétion	NC	NC	n=s|g=f	
+10	de	de	P	P		
+11	marqueurs	marqueur	NC	NC	n=p|g=f,m	
+12	présents	présent	ADJ	ADJ	n=p|g=m	
+13	dans	dans	P	P		
+14	leurs	leurs	DET	DET	n=p|p=3|poss=p	
+15	urines	urine	NC	NC	n=p|g=f	
+16	[	[	PONCT	PONCT		
+17	8	8	NC	NC		
+18	]	]	PONCT	PONCT		
+19	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	phase	phase	NC	NC	n=s|g=f	
+3	de	de	P	P		
+4	copulation	copulation	NC	NC	n=s|g=f	
+5	est	être	V	V	n=s|t=P|p=3	
+6	initiée	initier	VPP	VPP	n=s|g=f|t=K	
+7	par	par	P	P		
+8	la	la	DET	DET	n=s|g=f	
+9	femelle	femelle	NC	NC	n=s|g=f	
+10	par	par	P	P		
+11	une	une	DET	DET	n=s|g=f	
+12	position	position	NC	NC	n=s|g=f	
+13	de	de	P	P		
+14	lordose	lordose	NC	NC	n=s|g=f	
+15	(	(	PONCT	PONCT		
+16	comme	comme	P	P		
+17	chez	chez	P	P		
+18	tous	tout	ADJ	ADJ	n=p|g=m	
+19	les	les	DET	DET	n=p	
+20	félins	félin	ADJ	ADJ	n=p|g=m	
+21	)	)	PONCT	PONCT		
+22	[	[	PONCT	PONCT		
+23	43	43	NC	NC		
+24	]	]	PONCT	PONCT		
+25	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	femelles	femelle	NC	NC	n=p|g=f	
+3	peuvent	pouvoir	V	V	n=p|t=P|p=3	
+4	mettre	mettre	VINF	VINF	t=W	
+5	au	à	P+D	P+D	n=s|g=m	
+6	monde	monde	NC	NC	n=s|g=m	
+7	,	,	PONCT	PONCT		
+8	une	une	DET	DET	n=s|g=f	
+9	fois	fois	NC	NC	g=f	
+10	par	par	P	P		
+11	an	an	NC	NC	n=s|g=m	
+12	,	,	PONCT	PONCT		
+13	de	de	P	P		
+14	un	un	DET	DET	n=s|g=m	
+15	à	à	P	P		
+16	six	six	DET	DET	s=card|n=p	
+17	petits	petit	ADJ	ADJ	n=p|g=m	
+18	[	[	PONCT	PONCT		
+19	28	28	ADJ	ADJ		
+20	]	]	PONCT	PONCT		
+21	'	'	PONCT	PONCT		
+22	[	[	PONCT	PONCT		
+23	48	48	NC	NC		
+24	]	]	PONCT	PONCT		
+25	,	,	PONCT	PONCT		
+26	plus	plus	ADV	ADV		
+27	généralement	_	ADV	ADV		
+28	de	de	P	P		
+29	deux	deux	DET	DET	s=card|n=p	
+30	à	à	P	P		
+31	quatre	quatre	DET	DET	s=card|n=p	
+32	[	[	PONCT	PONCT		
+33	28	28	NC	NC		
+34	]	]	PONCT	PONCT		
+35	'	'	PONCT	PONCT		
+36	[	[	PONCT	PONCT		
+37	43	43	NC	NC		
+38	]	]	PONCT	PONCT		
+39	,	,	PONCT	PONCT		
+40	au	à	P+D	P+D	n=s|g=m	
+41	terme	terme	NC	NC	n=s|g=m	
+42	d'	de	P	P		
+43	une	une	DET	DET	n=s|g=f	
+44	gestation	gestation	NC	NC	n=s|g=f	
+45	de	de	P	P		
+46	68	68	NC	NC		
+47	à	à	P	P		
+48	81	81	NC	NC		
+49	jours	jour	NC	NC	n=p|g=m	
+50	[	[	PONCT	PONCT		
+51	48	48	NC	NC		
+52	]	]	PONCT	PONCT		
+53	'	'	PONCT	PONCT		
+54	[	[	PONCT	PONCT		
+55	43	43	NC	NC		
+56	]	]	PONCT	PONCT		
+57	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	petits	petit	ADJ	ADJ	n=p|g=m	
+3	naissent	naître	V	V	n=p|t=P,S|p=3	
+4	aveugles	aveugle	NC	NC	n=p	
+5	et	et	CC	CC		
+6	leurs	leurs	DET	DET	n=p|p=3|poss=p	
+7	yeux	oeil	NC	NC	n=p|g=m	
+8	s'	se	CLR	CLR	n=p,s|p=3	
+9	ouvrent	ouvrir	V	V	n=p|t=P,S|p=3	
+10	vers	vers	P	P		
+11	9	9	VINF	VINF		
+12	à	à	P	P		
+13	10	10	ADJ	ADJ		
+14	jours	jour	NC	NC	n=p|g=m	
+15	[	[	PONCT	PONCT		
+16	28	28	NC	NC		
+17	]	]	PONCT	PONCT		
+18	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	période	période	NC	NC	n=s	
+3	de	de	P	P		
+4	lactation	lactation	NC	NC	n=s|g=f	
+5	est	être	V	V	n=s|t=P|p=3	
+6	de	de	P	P		
+7	4	4	ADJ	ADJ		
+8	mois	mois	NC	NC	g=m	
+9	[	[	PONCT	PONCT		
+10	43	43	NC	NC		
+11	]	]	PONCT	PONCT		
+12	mais	mais	CC	CC		
+13	les	les	DET	DET	n=p	
+14	petits	petit	ADJ	ADJ	n=p|g=m	
+15	caracals	caracal	NC	NC	n=p|g=m	
+16	mangent	manger	V	V	n=p|t=P,S|p=3	
+17	régulièrement	_	ADV	ADV		
+18	de	de	P	P		
+19	la	la	DET	DET	n=s|g=f	
+20	viande	viande	NC	NC	n=s|g=f	
+21	dès	dès	P	P		
+22	6	6	ADJ	ADJ		
+23	semaines	semaine	NC	NC	n=p|g=f	
+24	[	[	PONCT	PONCT		
+25	28	28	NC	NC		
+26	]	]	PONCT	PONCT		
+27	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	jeunes	jeune	NC	NC	n=p	
+3	quittent	quitter	V	V	n=p|t=P,S|p=3	
+4	leur	leur	DET	DET	n=s|p=3|poss=p	
+5	mère	mère	NC	NC	n=s|g=f	
+6	vers	vers	P	P		
+7	10	10	ADJ	ADJ		
+8	mois	mois	NC	NC	g=m	
+9	[	[	PONCT	PONCT		
+10	48	48	NC	NC		
+11	]	]	PONCT	PONCT		
+12	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	caracal	caracal	NC	NC	n=s|g=m	
+3	peut	pouvoir	V	V	n=s|t=P|p=3	
+4	vivre	vivre	VINF	VINF	t=W	
+5	de	de	P	P		
+6	8	8	NC	NC		
+7	à	à	P	P		
+8	9	9	ADJ	ADJ		
+9	ans	an	NC	NC	n=p|g=m	
+10	dans	dans	P	P		
+11	la	la	DET	DET	n=s|g=f	
+12	nature	nature	NC	NC	n=s|g=f	
+13	[	[	PONCT	PONCT		
+14	28	28	NC	NC		
+15	]	]	PONCT	PONCT		
+16	et	et	CC	CC		
+17	jusqu'	jusque	P	P		
+18	à	à	P	P		
+19	20	20	ADJ	ADJ		
+20	ans	an	NC	NC	n=p|g=m	
+21	en	en	P	P		
+22	captivité	captivité	NC	NC	n=s|g=f	
+23	[	[	PONCT	PONCT		
+24	22	22	NC	NC		
+25	]	]	PONCT	PONCT		
+26	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	caracal	caracal	NC	NC	n=s|g=m	
+3	est	être	V	V	n=s|t=P|p=3	
+4	un	un	DET	DET	n=s|g=m	
+5	prédateur	prédateur	NC	NC	n=s|g=m	
+6	principalement	_	ADV	ADV		
+7	nocturne	nocturne	ADJ	ADJ	n=s	
+8	mais	mais	CC	CC		
+9	il	il	CLS	CLS	n=s|g=m|p=3	
+10	chasse	chasser	V	V	n=s|t=P,S|p=1,3	
+11	également	_	ADV	ADV		
+12	le	le	DET	DET	n=s|g=m	
+13	jour	jour	NC	NC	n=s|g=m	
+14	,	,	PONCT	PONCT		
+15	plutôt	plutôt	ADV	ADV		
+16	à	à	P	P		
+17	l'	le	DET	DET	n=s	
+18	aube	aube	NC	NC	n=s|g=f	
+19	et	et	CC	CC		
+20	à	à	P	P		
+21	l'	le	DET	DET	n=s	
+22	aurore	aurore	ADJ	ADJ		
+23	,	,	PONCT	PONCT		
+24	également	_	ADV	ADV		
+25	en	en	P	P		
+26	journée	journée	NC	NC	n=s|g=f	
+27	lorsque	lorsque	CS	CS		
+28	la	la	DET	DET	n=s|g=f	
+29	température	température	NC	NC	n=s|g=f	
+30	n'	ne	ADV	ADV		
+31	est	être	V	V	n=s|t=P|p=3	
+32	pas	pas	ADV	ADV		
+33	trop	trop	ADV	ADV		
+34	élevée	élever	ADJ	ADJ	n=s|g=f|t=K	
+35	[	[	PONCT	PONCT		
+36	22	22	NC	NC		
+37	]	]	PONCT	PONCT		
+38	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	repère	repérer	V	V	n=s|t=P,S|p=1,3	
+3	ses	ses	DET	DET	n=p|p=3|poss=s	
+4	proies	proie	NC	NC	n=p|g=f	
+5	à	à	P	P		
+6	vue	vue	NC	NC	n=s|g=f	
+7	mais	mais	CC	CC		
+8	utilise	utiliser	V	V	n=s|t=P,S|p=1,3	
+9	également	_	ADV	ADV		
+10	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+11	excellente	excellent	ADJ	ADJ	n=s|g=f	
+12	ouïe	ouïe	NC	NC	n=s|g=f	
+13	[	[	PONCT	PONCT		
+14	22	22	NC	NC		
+15	]	]	PONCT	PONCT		
+16	que	que	PROREL	PROREL		
+17	lui	lui	CLO	CLO	n=s|p=3	
+18	confèrent	conférer	V	V	n=p|t=P,S|p=3	
+19	ses	ses	DET	DET	n=p|p=3|poss=s	
+20	longues	long	ADJ	ADJ	n=p|g=f	
+21	oreilles	oreille	NC	NC	n=p|g=f	
+22	pointues	pointu	ADJ	ADJ	n=p|g=f	
+23	ornées	orner	VPP	VPP	n=p|g=f|t=K	
+24	de	de	P	P		
+25	pinceaux	pinceau	NC	NC	n=p|g=m	
+26	noirs	noir	ADJ	ADJ	n=p|g=m	
+27	.	.	PONCT	PONCT		
+
+1	Sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+2	robe	robe	NC	NC	n=s|g=f	
+3	unie	unir	VPP	VPP	n=s|g=f|t=K	
+4	d'	de	P	P		
+5	un	un	DET	DET	n=s|g=m	
+6	jaune	jaune	NC	NC	n=s	
+7	fauve	fauve	ADJ	ADJ	n=s	
+8	s'	se	CLR	CLR	n=p,s|p=3	
+9	harmonise	harmoniser	V	V	n=s|t=P,S|p=1,3	
+10	parfaitement	_	ADV	ADV		
+11	avec	avec	P	P		
+12	la	la	DET	DET	n=s|g=f	
+13	couleur	couleur	NC	NC	n=s|g=f	
+14	générale	général	ADJ	ADJ	n=s|g=f	
+15	de	de	P	P		
+16	la	la	DET	DET	n=s|g=f	
+17	savane	savane	NC	NC	n=s|g=f	
+18	et	et	CC	CC		
+19	des	de	P+D	P+D	n=p	
+20	milieux	milieu	NC	NC	n=p|g=m	
+21	arides	aride	ADJ	ADJ	n=p	
+22	dans	dans	P	P		
+23	lesquels	lequel	PROREL	PROREL	n=p|g=m	
+24	il	il	CLS	CLS	n=s|g=m|p=3	
+25	vit	vivre	V	V	n=s|t=P|p=3	
+26	ce	ce	PRO	PRO	n=s	
+27	qui	qui	PROREL	PROREL	n=s	
+28	lui	lui	CLO	CLO	n=s|p=3	
+29	permet	permettre	V	V	n=s|t=P|p=3	
+30	de	de	P	P		
+31	bien	bien	ADV	ADV		
+32	se	se	CLR	CLR	n=p,s|p=3	
+33	camoufler	camoufler	VINF	VINF	t=W	
+34	.	.	PONCT	PONCT		
+
+1	À	à	P	P		
+2	la	la	DET	DET	n=s|g=f	
+3	manière	manière	NC	NC	n=s|g=f	
+4	d'	de	P	P		
+5	un	un	DET	DET	n=s|g=m	
+6	chat	chat	NC	NC	n=s|g=m	
+7	,	,	PONCT	PONCT		
+8	il	il	CLS	CLS	n=s|g=m|p=3	
+9	rampe	ramper	V	V	n=s|t=P,S|p=1,3	
+10	en	en	P	P		
+11	silence	silence	NC	NC	n=s|g=m	
+12	,	,	PONCT	PONCT		
+13	le	le	DET	DET	n=s|g=m	
+14	corps	corps	NC	NC	g=m	
+15	aplati	aplatir	VPP	VPP	n=s|g=m|t=K	
+16	contre	contre	P	P		
+17	le	le	DET	DET	n=s|g=m	
+18	sol	_	NC	NC		
+19	et	et	CC	CC		
+20	s'	se	CLR	CLR	n=p,s|p=3	
+21	approche	approche	NC	NC	n=s|g=f	
+22	de	de	P	P		
+23	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+24	proie	proie	NC	NC	n=s|g=f	
+25	avant	avant	P	P		
+26	de	de	P	P		
+27	bondir	bondir	VINF	VINF	t=W	
+28	sur	sur	P	P		
+29	elle	elle	PRO	PRO	n=s|g=f|p=3	
+30	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	caracal	caracal	NC	NC	n=s|g=m	
+3	est	être	V	V	n=s|t=P|p=3	
+4	considéré	considérer	VPP	VPP	n=s|g=m|t=K	
+5	comme	comme	P	P		
+6	l'	le	DET	DET	n=s	
+7	un	un	PRO	PRO	n=s|g=m	
+8	des	de	P+D	P+D	n=p	
+9	félins	félin	ADJ	ADJ	n=p|g=m	
+10	les	les	DET	DET	n=p	
+11	plus	plus	ADV	ADV		
+12	rapides	rapide	ADJ	ADJ	n=p	
+13	sur	sur	P	P		
+14	courte	court	ADJ	ADJ	n=s|g=f	
+15	distance	distance	NC	NC	n=s|g=f	
+16	[	[	PONCT	PONCT		
+17	22	22	NC	NC		
+18	]	]	PONCT	PONCT		
+19	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	caracal	caracal	NC	NC	n=s|g=m	
+3	grimpe	grimper	V	V	n=s|t=P,S|p=1,3	
+4	et	et	CC	CC		
+5	saute	sauter	V	V	n=s|t=P,S|p=1,3	
+6	également	_	ADV	ADV		
+7	très	très	ADV	ADV		
+8	bien	bien	ADV	ADV		
+9	,	,	PONCT	PONCT		
+10	il	il	CLS	CLS	n=s|g=m|p=3	
+11	est	être	V	V	n=s|t=P|p=3	
+12	capable	capable	ADJ	ADJ	n=s	
+13	de	de	P	P		
+14	faire	faire	VINF	VINF	t=W	
+15	des	des	DET	DET	n=p	
+16	bonds	bond	NC	NC	n=p|g=m	
+17	de	de	P	P		
+18	3	3	NC	NC		
+19	mètres	mètre	NC	NC	n=p|g=m	
+20	pour	pour	P	P		
+21	capturer	capturer	VINF	VINF	t=W	
+22	des	des	DET	DET	n=p	
+23	oiseaux	oiseau	NC	NC	n=p|g=m	
+24	en	en	P	P		
+25	vol	vol	NC	NC	n=s|g=m	
+26	[	[	PONCT	PONCT		
+27	50	50	NC	NC		
+28	]	]	PONCT	PONCT		
+29	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	chasse	chasser	V	V	n=s|t=P,S|p=1,3	
+3	principalement	_	ADV	ADV		
+4	des	des	DET	DET	n=p	
+5	damans	daman	NC	NC	n=p|g=m	
+6	,	,	PONCT	PONCT		
+7	des	des	DET	DET	n=p	
+8	rongeurs	rongeur	NC	NC	n=p|g=m	
+9	comme	comme	P	P		
+10	le	le	DET	DET	n=s|g=m	
+11	lièvre	lièvre	NC	NC	n=s|g=m	
+12	(	(	PONCT	PONCT		
+13	Lepus	_	NPP	NPP		
+14	saxatilis	_	NPP	NPP		
+15	[	[	PONCT	PONCT		
+16	51	51	NC	NC		
+17	]	]	PONCT	PONCT		
+18	)	)	PONCT	PONCT		
+19	et	et	CC	CC		
+20	d'	de	DET	DET	n=p	
+21	autres	autre	ADJ	ADJ	n=p	
+22	plus	plus	ADV	ADV		
+23	petits	petit	ADJ	ADJ	n=p|g=m	
+24	(	(	PONCT	PONCT		
+25	Pedetes	_	NPP	NPP		
+26	capensis	_	NPP	NPP		
+27	,	,	PONCT	PONCT		
+28	Xerus	_	NPP	NPP		
+29	inauris	_	NPP	NPP		
+30	,	,	PONCT	PONCT		
+31	Parotomys	_	NPP	NPP		
+32	brantsii	_	NPP	NPP		
+33	,	,	PONCT	PONCT		
+34	Rhabdomys	_	NPP	NPP		
+35	pumilio	_	NPP	NPP		
+36	,	,	PONCT	PONCT		
+37	Gerbilliscus	_	NPP	NPP		
+38	brantsii	_	NPP	NPP		
+39	[	[	PONCT	PONCT		
+40	51	51	NC	NC		
+41	]	]	PONCT	PONCT		
+42	)	)	PONCT	PONCT		
+43	,	,	PONCT	PONCT		
+44	des	des	DET	DET	n=p	
+45	singes	singe	NC	NC	n=p|g=m	
+46	et	et	CC	CC		
+47	de	de	P	P		
+48	petits	petit	ADJ	ADJ	n=p|g=m	
+49	babouins	babouin	NC	NC	n=p|g=m	
+50	[	[	PONCT	PONCT		
+51	28	28	NC	NC		
+52	]	]	PONCT	PONCT		
+53	,	,	PONCT	PONCT		
+54	de	de	P	P		
+55	petites	petit	ADJ	ADJ	n=p|g=f	
+56	antilopes	antilope	NC	NC	n=p|g=f	
+57	[	[	PONCT	PONCT		
+58	22	22	NC	NC		
+59	]	]	PONCT	PONCT		
+60	(	(	PONCT	PONCT		
+61	ourébis	_	NPP	NPP		
+62	,	,	PONCT	PONCT		
+63	dorcas	_	ET	ET		
+64	ou	ou	CC	CC		
+65	Gazella	_	NPP	NPP		
+66	dorcas	_	ET	ET		
+67	[	[	PONCT	PONCT		
+68	52	52	NC	NC		
+69	]	]	PONCT	PONCT		
+70	,	,	PONCT	PONCT		
+71	springboks	_	NPP	NPP		
+72	(	(	PONCT	PONCT		
+73	Antidorcas	_	ET	ET		
+74	marsupialis	_	NPP	NPP		
+75	[	[	PONCT	PONCT		
+76	22	22	NC	NC		
+77	]	]	PONCT	PONCT		
+78	)	)	PONCT	PONCT		
+79	et	et	CC	CC		
+80	des	de	P+D	P+D	n=p	
+81	oiseaux	oiseau	NC	NC	n=p|g=m	
+82	(	(	PONCT	PONCT		
+83	francolins	francolin	NC	NC	n=p|g=m	
+84	et	et	CC	CC		
+85	pintades	pintade	NC	NC	n=p|g=f	
+86	[	[	PONCT	PONCT		
+87	28	28	NC	NC		
+88	]	]	PONCT	PONCT		
+89	,	,	PONCT	PONCT		
+90	Ploceus	_	NPP	NPP		
+91	capensis	_	NPP	NPP		
+92	[	[	PONCT	PONCT		
+93	22	22	NC	NC		
+94	]	]	PONCT	PONCT		
+95	,	,	PONCT	PONCT		
+96	Ardeotis	_	NPP	NPP		
+97	kori	_	NPP	NPP		
+98	[	[	PONCT	PONCT		
+99	51	51	NC	NC		
+100	]	]	PONCT	PONCT		
+101	,	,	PONCT	PONCT		
+102	Eupodotis	_	NPP	NPP		
+103	ruficrista	_	NPP	NPP		
+104	[	[	PONCT	PONCT		
+105	51	51	NC	NC		
+106	]	]	PONCT	PONCT		
+107	,	,	PONCT	PONCT		
+108	Alectoris	_	NPP	NPP		
+109	melanocephala	_	NPP	NPP		
+110	)	)	PONCT	PONCT		
+111	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	tue	tuer	V	V	n=s|t=P,S|p=1,3	
+3	ses	ses	DET	DET	n=p|p=3|poss=s	
+4	proies	proie	NC	NC	n=p|g=f	
+5	de	de	P	P		
+6	plus	plus	ADV	ADV		
+7	grande	grand	ADJ	ADJ	n=s|g=f	
+8	taille	taille	NC	NC	n=s|g=f	
+9	comme	comme	P	P		
+10	les	les	DET	DET	n=p	
+11	antilopes	antilope	NC	NC	n=p|g=f	
+12	par	par	P	P		
+13	morsure	morsure	NC	NC	n=s|g=f	
+14	de	de	P	P		
+15	la	la	DET	DET	n=s|g=f	
+16	veine	veine	NC	NC	n=s|g=f	
+17	jugulaire	jugulaire	NC	NC	n=s|g=f	
+18	[	[	PONCT	PONCT		
+19	28	28	NC	NC		
+20	]	]	PONCT	PONCT		
+21	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	peut	pouvoir	V	V	n=s|t=P|p=3	
+3	intégrer	intégrer	VINF	VINF	t=W	
+4	à	à	P	P		
+5	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+6	régime	régime	NC	NC	n=s|g=m	
+7	alimentaire	alimentaire	ADJ	ADJ	n=s	
+8	des	de	P+D	P+D	n=p	
+9	poissons	poisson	NC	NC	n=p|g=m	
+10	et	et	CC	CC		
+11	des	de	P+D	P+D	n=p	
+12	reptiles	reptile	NC	NC	n=p|g=m	
+13	[	[	PONCT	PONCT		
+14	22	22	NC	NC		
+15	]	]	PONCT	PONCT		
+16	ainsi	ainsi	ADV	ADV		
+17	que	que	CS	CS		
+18	des	des	DET	DET	n=p	
+19	coléoptères	coléoptère	NC	NC	n=p|g=m	
+20	[	[	PONCT	PONCT		
+21	51	51	NC	NC		
+22	]	]	PONCT	PONCT		
+23	.	.	PONCT	PONCT		
+
+1	Plus	plus	ADV	ADV		
+2	surprenant	surprenant	ADJ	ADJ	n=s|g=m	
+3	,	,	PONCT	PONCT		
+4	il	il	CLS	CLS	n=s|g=m|p=3	
+5	peut	pouvoir	V	V	n=s|t=P|p=3	
+6	s'	se	CLR	CLR	n=p,s|p=3	
+7	attaquer	attaquer	VINF	VINF	t=W	
+8	à	à	P	P		
+9	d'	de	DET	DET	n=p	
+10	autres	autre	ADJ	ADJ	n=p	
+11	carnivores	carnivore	NC	NC	n=p	
+12	comme	comme	P	P		
+13	des	des	DET	DET	n=p	
+14	otaries	otarie	NC	NC	n=p|g=f	
+15	(	(	PONCT	PONCT		
+16	Arctocephalus	_	NPP	NPP		
+17	pusillus	_	NPP	NPP		
+18	)	)	PONCT	PONCT		
+19	[	[	PONCT	PONCT		
+20	22	22	NC	NC		
+21	]	]	PONCT	PONCT		
+22	,	,	PONCT	PONCT		
+23	des	des	DET	DET	n=p	
+24	félins	félin	ADJ	ADJ	n=p|g=m	
+25	(	(	PONCT	PONCT		
+26	Felis	_	NPP	NPP		
+27	silvestris	_	NPP	NPP		
+28	)	)	PONCT	PONCT		
+29	,	,	PONCT	PONCT		
+30	des	des	DET	DET	n=p	
+31	renards	renard	NC	NC	n=p|g=m	
+32	(	(	PONCT	PONCT		
+33	Otocyon	otocyon	NC	NC	n=s|g=m	
+34	megaloti	_	NPP	NPP		
+35	,	,	PONCT	PONCT		
+36	Vulpes	_	NPP	NPP		
+37	chama	_	NPP	NPP		
+38	)	)	PONCT	PONCT		
+39	ou	ou	CC	CC		
+40	des	de	P+D	P+D	n=p	
+41	mustélidés	mustélidé	NC	NC	n=p|g=m	
+42	(	(	PONCT	PONCT		
+43	Cynictis	_	NPP	NPP		
+44	penicillata	_	NPP	NPP		
+45	)	)	PONCT	PONCT		
+46	[	[	PONCT	PONCT		
+47	51	51	NC	NC		
+48	]	]	PONCT	PONCT		
+49	.	.	PONCT	PONCT		
+
+1	Comme	comme	P	P		
+2	la	la	DET	DET	n=s|g=f	
+3	plupart	plupart	NC	NC	n=s|g=f	
+4	des	de	P+D	P+D	n=p	
+5	félins	félin	ADJ	ADJ	n=p|g=m	
+6	,	,	PONCT	PONCT		
+7	le	le	DET	DET	n=s|g=m	
+8	caracal	caracal	NC	NC	n=s|g=m	
+9	peut	pouvoir	V	V	n=s|t=P|p=3	
+10	ingérer	ingérer	VINF	VINF	t=W	
+11	de	de	P	P		
+12	l'	le	DET	DET	n=s	
+13	herbe	herbe	NC	NC	n=s|g=f	
+14	mais	mais	CC	CC		
+15	il	il	CLS	CLS	n=s|g=m|p=3	
+16	mange	manger	V	V	n=s|t=P,S|p=1,3	
+17	également	_	ADV	ADV		
+18	du	de	P+D	P+D	n=s|g=m	
+19	raisin	raisin	NC	NC	n=s|g=m	
+20	[	[	PONCT	PONCT		
+21	53	53	NC	NC		
+22	]	]	PONCT	PONCT		
+23	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	Afrique	Afrique	NPP	NPP	n=s|g=f	
+3	australe	austral	ADJ	ADJ	n=s|g=f	
+4	,	,	PONCT	PONCT		
+5	dans	dans	P	P		
+6	les	les	DET	DET	n=p	
+7	zones	zone	NC	NC	n=p|g=f	
+8	où	où	PROREL	PROREL		
+9	l'	le	DET	DET	n=s	
+10	élevage	élevage	NC	NC	n=s|g=m	
+11	extensif	extensif	ADJ	ADJ	n=s|g=m	
+12	est	être	V	V	n=s|t=P|p=3	
+13	pratiqué	pratiquer	VPP	VPP	n=s|g=m|t=K	
+14	,	,	PONCT	PONCT		
+15	un	un	DET	DET	n=s|g=m	
+16	caracal	caracal	NC	NC	n=s|g=m	
+17	prélève	prélever	V	V	n=s|t=P,S|p=1,3	
+18	en	en	P	P		
+19	moyenne	moyenne	NC	NC	n=s|g=f	
+20	,	,	PONCT	PONCT		
+21	par	par	P	P		
+22	an	an	NC	NC	n=s|g=m	
+23	,	,	PONCT	PONCT		
+24	environ	environ	ADV	ADV		
+25	5	5	ADJ	ADJ		
+26	moutons	mouton	NC	NC	n=p|g=m	
+27	domestiques	domestique	ADJ	ADJ	n=p	
+28	(	(	PONCT	PONCT		
+29	Ovis	_	NPP	NPP		
+30	aries	_	NPP	NPP		
+31	)	)	PONCT	PONCT		
+32	[	[	PONCT	PONCT		
+33	51	51	NC	NC		
+34	]	]	PONCT	PONCT		
+35	pour	pour	P	P		
+36	une	une	DET	DET	n=s|g=f	
+37	surface	surface	NC	NC	n=s|g=f	
+38	de	de	P	P		
+39	100	100	NC	NC		
+40	km2	_	NPP	NPP		
+41	[	[	PONCT	PONCT		
+42	22	22	NC	NC		
+43	]	]	PONCT	PONCT		
+44	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	peut	pouvoir	V	V	n=s|t=P|p=3	
+3	également	_	ADV	ADV		
+4	s'	se	CLR	CLR	n=p,s|p=3	
+5	attaquer	attaquer	VINF	VINF	t=W	
+6	aux	à	P+D	P+D	n=p	
+7	volailles	volaille	NC	NC	n=p|g=f	
+8	domestiques	domestique	ADJ	ADJ	n=p	
+9	[	[	PONCT	PONCT		
+10	28	28	ADJ	ADJ		
+11	]	]	PONCT	PONCT		
+12	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	ration	ration	NC	NC	n=s|g=f	
+3	journalière	journalier	ADJ	ADJ	n=s|g=f	
+4	de	de	P	P		
+5	viande	viande	NC	NC	n=s|g=f	
+6	nécessaire	nécessaire	ADJ	ADJ	n=s	
+7	à	à	P	P		
+8	un	un	DET	DET	n=s|g=m	
+9	caracal	caracal	NC	NC	n=s|g=m	
+10	est	être	V	V	n=s|t=P|p=3	
+11	estimée	estimer	VPP	VPP	n=s|g=f|t=K	
+12	à	à	P	P		
+13	800	800	ADJ	ADJ		
+14	g	gramme	NC	NC	g=m	
+15	[	[	PONCT	PONCT		
+16	54	54	NC	NC		
+17	]	]	PONCT	PONCT		
+18	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	aire	aire	NC	NC	n=s|g=f	
+3	de	de	P	P		
+4	répartition	répartition	NC	NC	n=s|g=f	
+5	du	de	P+D	P+D	n=s|g=m	
+6	caracal	caracal	NC	NC	n=s|g=m	
+7	comprend	comprendre	V	V	n=s|t=P|p=3	
+8	une	une	DET	DET	n=s|g=f	
+9	large	large	ADJ	ADJ	n=s	
+10	partie	partie	NC	NC	n=s|g=f	
+11	de	de	P	P		
+12	l'	le	DET	DET	n=s	
+13	Afrique	Afrique	NPP	NPP	n=s|g=f	
+14	et	et	CC	CC		
+15	de	de	P	P		
+16	l'	le	DET	DET	n=s	
+17	Est	_	NPP	NPP		
+18	de	de	P	P		
+19	l'	le	DET	DET	n=s	
+20	Asie	Asie	NPP	NPP	n=s|g=f	
+21	depuis	depuis	P	P		
+22	le	le	DET	DET	n=s|g=m	
+23	Moyen	Moyen	NPP	NPP	n=s|g=m	
+24	-	-	PONCT	PONCT		
+25	Orient	orient	NC	NC	n=s|g=m	
+26	jusqu'	jusque	P	P		
+27	au	à	P+D	P+D	n=s|g=m	
+28	Sous	_	NPP	NPP		
+29	-	-	PONCT	PONCT		
+30	continent	continent	NC	NC	n=s|g=m	
+31	indien	indien	ADJ	ADJ	n=s|g=m	
+32	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	est	être	V	V	n=s|t=P|p=3	
+3	largement	_	ADV	ADV		
+4	distribué	distribuer	VPP	VPP	n=s|g=m|t=K	
+5	sur	sur	P	P		
+6	le	le	DET	DET	n=s|g=m	
+7	continent	continent	NC	NC	n=s|g=m	
+8	africain	africain	ADJ	ADJ	n=s|g=m	
+9	où	où	PROREL	PROREL		
+10	il	il	CLS	CLS	n=s|g=m|p=3	
+11	n'	ne	ADV	ADV		
+12	est	être	V	V	n=s|t=P|p=3	
+13	absent	absent	ADJ	ADJ	n=s|g=m	
+14	que	que	CS	CS		
+15	de	de	P	P		
+16	la	la	DET	DET	n=s|g=f	
+17	forêt	forêt	NC	NC	n=s|g=f	
+18	équatoriale	équatorial	ADJ	ADJ	n=s|g=f	
+19	et	et	CC	CC		
+20	des	de	P+D	P+D	n=p	
+21	zones	zone	NC	NC	n=p|g=f	
+22	exclusivement	_	ADV	ADV		
+23	désertiques	désertique	ADJ	ADJ	n=p	
+24	comme	comme	P	P		
+25	le	le	DET	DET	n=s|g=m	
+26	Sahara	_	NPP	NPP		
+27	central	central	ADJ	ADJ	n=s|g=m	
+28	[	[	PONCT	PONCT		
+29	22	22	NC	NC		
+30	]	]	PONCT	PONCT		
+31	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	est	être	V	V	n=s|t=P|p=3	
+3	par	par	P	P		
+4	contre	contre	P	P		
+5	présent	présent	ADJ	ADJ	n=s|g=m	
+6	dans	dans	P	P		
+7	les	les	DET	DET	n=p	
+8	zones	zone	NC	NC	n=p|g=f	
+9	semi	_	ADJ	ADJ		
+10	-	-	PONCT	PONCT		
+11	désertiques	désertique	ADJ	ADJ	n=p	
+12	en	en	P	P		
+13	lisière	lisière	NC	NC	n=s|g=f	
+14	de	de	P	P		
+15	désert	désert	NC	NC	n=s|g=m	
+16	comme	comme	P	P		
+17	la	la	DET	DET	n=s|g=f	
+18	partie	partie	NC	NC	n=s|g=f	
+19	Est	_	NPP	NPP		
+20	du	de	P+D	P+D	n=s|g=m	
+21	Grand	Grand	NPP	NPP	n=s|g=m	
+22	Erg	_	NPP	NPP		
+23	Oriental	_	NPP	NPP		
+24	ou	ou	CC	CC		
+25	dans	dans	P	P		
+26	les	les	DET	DET	n=p	
+27	massifs	massif	ADJ	ADJ	n=p|g=m	
+28	montagneux	montagneux	ADJ	ADJ	g=m	
+29	du	de	P+D	P+D	n=s|g=m	
+30	Hoggar	_	NPP	NPP		
+31	,	,	PONCT	PONCT		
+32	du	de	P+D	P+D	n=s|g=m	
+33	Tassili	_	NPP	NPP		
+34	n'	ne	ADV	ADV		
+35	Ajjer	_	NPP	NPP		
+36	,	,	PONCT	PONCT		
+37	du	de	P+D	P+D	n=s|g=m	
+38	sud	sud	NC	NC	n=s|g=m	
+39	de	de	P	P		
+40	l'	le	DET	DET	n=s	
+41	Atlas	Atlas	NPP	NPP	n=s|g=m	
+42	et	et	CC	CC		
+43	de	de	P	P		
+44	l'	le	DET	DET	n=s	
+45	Aïr	_	NPP	NPP		
+46	[	[	PONCT	PONCT		
+47	22	22	NC	NC		
+48	]	]	PONCT	PONCT		
+49	.	.	PONCT	PONCT		
+
+1	Dans	dans	P	P		
+2	les	les	DET	DET	n=p	
+3	zones	zone	NC	NC	n=p|g=f	
+4	semi	_	ADJ	ADJ		
+5	-	-	PONCT	PONCT		
+6	désertiques	désertique	ADJ	ADJ	n=p	
+7	,	,	PONCT	PONCT		
+8	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+9	aire	aire	NC	NC	n=s|g=f	
+10	de	de	P	P		
+11	répartition	répartition	NC	NC	n=s|g=f	
+12	coïncide	coïncider	V	V	n=s|t=P,S|p=1,3	
+13	avec	avec	P	P		
+14	celle	celle	PRO	PRO	n=s|g=f	
+15	des	de	P+D	P+D	n=p	
+16	gazelles	gazelle	NC	NC	n=p|g=f	
+17	du	de	P+D	P+D	n=s|g=m	
+18	désert	désert	NC	NC	n=s|g=m	
+19	[	[	PONCT	PONCT		
+20	8	8	NC	NC		
+21	]	]	PONCT	PONCT		
+22	et	et	CC	CC		
+23	a	avoir	V	V	n=s|t=P|p=3	
+24	subi	subir	VPP	VPP	n=s|g=m|t=K	
+25	des	des	DET	DET	n=p	
+26	réductions	réduction	NC	NC	n=p|g=f	
+27	notables	notable	ADJ	ADJ	n=p	
+28	en	en	P	P		
+29	Afrique	Afrique	NPP	NPP	n=s|g=f	
+30	du	de	P+D	P+D	n=s|g=m	
+31	Nord	Nord	NPP	NPP	n=s|g=m	
+32	et	et	CC	CC		
+33	en	en	P	P		
+34	Afrique	Afrique	NPP	NPP	n=s|g=f	
+35	de	de	P	P		
+36	l'	le	DET	DET	n=s	
+37	Ouest	_	NPP	NPP		
+38	[	[	PONCT	PONCT		
+39	55	55	NC	NC		
+40	]	]	PONCT	PONCT		
+41	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	est	être	V	V	n=s|t=P|p=3	
+3	présent	présent	ADJ	ADJ	n=s|g=m	
+4	dans	dans	P	P		
+5	toute	tout	ADJ	ADJ	n=s|g=f	
+6	l'	le	DET	DET	n=s	
+7	Afrique	Afrique	NPP	NPP	n=s|g=f	
+8	Australe	_	NPP	NPP		
+9	.	.	PONCT	PONCT		
+
+1	Son	son	DET	DET	n=s|g=m|p=3|poss=s	
+2	aire	aire	NC	NC	n=s|g=f	
+3	de	de	P	P		
+4	répartition	répartition	NC	NC	n=s|g=f	
+5	africaine	africain	ADJ	ADJ	n=s|g=f	
+6	inclut	inclure	V	V	n=s|t=J,P|p=3	
+7	l'	le	DET	DET	n=s	
+8	Afrique	Afrique	NPP	NPP	n=s|g=f	
+9	du	de	P+D	P+D	n=s|g=m	
+10	Sud	sud	NC	NC	n=s|g=m	
+11	,	,	PONCT	PONCT		
+12	l'	le	DET	DET	n=s	
+13	Algérie	Algérie	NPP	NPP	n=s|g=f	
+14	,	,	PONCT	PONCT		
+15	l'	le	DET	DET	n=s	
+16	Angola	Angola	NPP	NPP	n=s|g=m	
+17	,	,	PONCT	PONCT		
+18	le	le	DET	DET	n=s|g=m	
+19	Bénin	Bénin	NPP	NPP	n=s|g=m	
+20	,	,	PONCT	PONCT		
+21	le	le	DET	DET	n=s|g=m	
+22	Botswana	Botswana	NPP	NPP	n=s|g=m	
+23	,	,	PONCT	PONCT		
+24	le	le	DET	DET	n=s|g=m	
+25	Burkina	Burkina	NPP	NPP	n=s|g=m	
+26	Faso	_	NPP	NPP		
+27	,	,	PONCT	PONCT		
+28	le	le	DET	DET	n=s|g=m	
+29	Cameroun	Cameroun	NPP	NPP	n=s|g=m	
+30	,	,	PONCT	PONCT		
+31	la	la	DET	DET	n=s|g=f	
+32	République	république	NC	NC	n=s|g=f	
+33	Démocratique	_	NPP	NPP		
+34	du	de	P+D	P+D	n=s|g=m	
+35	Congo	Congo	NPP	NPP	n=s|g=m	
+36	,	,	PONCT	PONCT		
+37	la	la	DET	DET	n=s|g=f	
+38	Côte	côte	NC	NC	n=s|g=f	
+39	d'	de	P	P		
+40	Ivoire	_	NPP	NPP		
+41	,	,	PONCT	PONCT		
+42	la	la	DET	DET	n=s|g=f	
+43	République	république	NC	NC	n=s|g=f	
+44	Centrafricaine	_	NPP	NPP		
+45	,	,	PONCT	PONCT		
+46	Djibouti	Djibouti	NPP	NPP	n=s|g=m	
+47	,	,	PONCT	PONCT		
+48	l'	le	DET	DET	n=s	
+49	Égypte	Égypte	NPP	NPP	n=s|g=f	
+50	,	,	PONCT	PONCT		
+51	l'	le	DET	DET	n=s	
+52	Érythrée	Érythrée	NPP	NPP	n=s|g=f	
+53	,	,	PONCT	PONCT		
+54	l'	le	DET	DET	n=s	
+55	Éthiopie	Éthiopie	NPP	NPP	n=s|g=f	
+56	,	,	PONCT	PONCT		
+57	la	la	DET	DET	n=s|g=f	
+58	Gambie	Gambie	NPP	NPP	n=s|g=f	
+59	,	,	PONCT	PONCT		
+60	le	le	DET	DET	n=s|g=m	
+61	Ghana	Ghana	NPP	NPP	n=s|g=m	
+62	,	,	PONCT	PONCT		
+63	la	la	DET	DET	n=s|g=f	
+64	Guinée	Guinée	NPP	NPP	n=s|g=f	
+65	,	,	PONCT	PONCT		
+66	la	la	DET	DET	n=s|g=f	
+67	Guinée	Guinée	NPP	NPP	n=s|g=f	
+68	-	-	PONCT	PONCT		
+69	Bissau	Bissau	NPP	NPP	n=s|g=m	
+70	,	,	PONCT	PONCT		
+71	le	le	DET	DET	n=s|g=m	
+72	Kenya	Kenya	NPP	NPP	n=s|g=m	
+73	,	,	PONCT	PONCT		
+74	le	le	DET	DET	n=s|g=m	
+75	Lesotho	Lesotho	NPP	NPP	n=s|g=m	
+76	,	,	PONCT	PONCT		
+77	la	la	DET	DET	n=s|g=f	
+78	Libye	Libye	NPP	NPP	n=s|g=f	
+79	,	,	PONCT	PONCT		
+80	le	le	DET	DET	n=s|g=m	
+81	Malawi	Malawi	NPP	NPP	n=s|g=m	
+82	,	,	PONCT	PONCT		
+83	le	le	DET	DET	n=s|g=m	
+84	Mali	Mali	NPP	NPP	n=s|g=m	
+85	,	,	PONCT	PONCT		
+86	la	la	DET	DET	n=s|g=f	
+87	Mauritanie	Mauritanie	NPP	NPP	n=s|g=f	
+88	,	,	PONCT	PONCT		
+89	le	le	DET	DET	n=s|g=m	
+90	Maroc	Maroc	NPP	NPP	n=s|g=m	
+91	,	,	PONCT	PONCT		
+92	le	le	DET	DET	n=s|g=m	
+93	Mozambique	Mozambique	NPP	NPP	n=s|g=m	
+94	,	,	PONCT	PONCT		
+95	la	la	DET	DET	n=s|g=f	
+96	Namibie	Namibie	NPP	NPP	n=s|g=f	
+97	,	,	PONCT	PONCT		
+98	le	le	DET	DET	n=s|g=m	
+99	Niger	Niger	NPP	NPP	n=s|g=m	
+100	,	,	PONCT	PONCT		
+101	le	le	DET	DET	n=s|g=m	
+102	Nigeria	Nigeria	NPP	NPP	n=s|g=m	
+103	,	,	PONCT	PONCT		
+104	l'	le	DET	DET	n=s	
+105	Ouganda	Ouganda	NPP	NPP	n=s|g=m	
+106	,	,	PONCT	PONCT		
+107	le	le	DET	DET	n=s|g=m	
+108	Sénégal	Sénégal	NPP	NPP	n=s|g=m	
+109	,	,	PONCT	PONCT		
+110	la	la	DET	DET	n=s|g=f	
+111	Somalie	Somalie	NPP	NPP	n=s|g=f	
+112	,	,	PONCT	PONCT		
+113	le	le	DET	DET	n=s|g=m	
+114	Soudan	Soudan	NPP	NPP	n=s|g=m	
+115	,	,	PONCT	PONCT		
+116	la	la	DET	DET	n=s|g=f	
+117	Tanzanie	Tanzanie	NPP	NPP	n=s|g=f	
+118	,	,	PONCT	PONCT		
+119	le	le	DET	DET	n=s|g=m	
+120	Tchad	Tchad	NPP	NPP	n=s|g=m	
+121	,	,	PONCT	PONCT		
+122	le	le	DET	DET	n=s|g=m	
+123	Togo	Togo	NPP	NPP	n=s|g=m	
+124	,	,	PONCT	PONCT		
+125	la	la	DET	DET	n=s|g=f	
+126	Tunisie	Tunisie	NPP	NPP	n=s|g=f	
+127	,	,	PONCT	PONCT		
+128	la	la	DET	DET	n=s|g=f	
+129	Zambie	Zambie	NPP	NPP	n=s|g=m	
+130	et	et	CC	CC		
+131	le	le	DET	DET	n=s|g=m	
+132	Zimbabwe	Zimbabwe	NPP	NPP	n=s|g=m	
+133	[	[	PONCT	PONCT		
+134	25	25	ADJ	ADJ		
+135	]	]	PONCT	PONCT		
+136	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	présence	présence	NC	NC	n=s|g=f	
+3	du	de	P+D	P+D	n=s|g=m	
+4	caracal	caracal	NC	NC	n=s|g=m	
+5	est	être	V	V	n=s|t=P|p=3	
+6	plus	plus	ADV	ADV		
+7	rare	rare	ADJ	ADJ	n=s	
+8	en	en	P	P		
+9	Asie	Asie	NPP	NPP	n=s|g=f	
+10	,	,	PONCT	PONCT		
+11	et	et	CC	CC		
+12	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+13	situation	situation	NC	NC	n=s|g=f	
+14	en	en	P	P		
+15	Asie	Asie	NPP	NPP	n=s|g=f	
+16	centrale	central	ADJ	ADJ	n=s|g=f	
+17	et	et	CC	CC		
+18	au	à	P+D	P+D	n=s|g=m	
+19	Pakistan	Pakistan	NPP	NPP	n=s|g=m	
+20	est	être	V	V	n=s|t=P|p=3	
+21	préoccupante	préoccupant	ADJ	ADJ	n=s|g=f	
+22	[	[	PONCT	PONCT		
+23	26	26	ADJ	ADJ		
+24	]	]	PONCT	PONCT		
+25	.	.	PONCT	PONCT		
+
+1	Son	son	DET	DET	n=s|g=m|p=3|poss=s	
+2	aire	aire	NC	NC	n=s|g=f	
+3	de	de	P	P		
+4	répartition	répartition	NC	NC	n=s|g=f	
+5	asiatique	asiatique	ADJ	ADJ	n=s	
+6	inclut	inclure	V	V	n=s|t=J,P|p=3	
+7	l'	le	DET	DET	n=s	
+8	Afghanistan	Afghanistan	NPP	NPP	n=s|g=m	
+9	,	,	PONCT	PONCT		
+10	l'	le	DET	DET	n=s	
+11	Arabie	Arabie	NPP	NPP	n=s|g=f	
+12	Saoudite	_	NPP	NPP		
+13	,	,	PONCT	PONCT		
+14	les	les	DET	DET	n=p	
+15	Émirats	émirat	NC	NC	n=p|g=m	
+16	arabes	arabe	ADJ	ADJ	n=p	
+17	unis	uni	ADJ	ADJ	n=p|g=m|t=K	
+18	,	,	PONCT	PONCT		
+19	l'	le	DET	DET	n=s	
+20	Inde	Inde	NPP	NPP	n=s|g=f	
+21	,	,	PONCT	PONCT		
+22	l'	le	DET	DET	n=s	
+23	Irak	Irak	NPP	NPP	n=s|g=m	
+24	,	,	PONCT	PONCT		
+25	l'	le	DET	DET	n=s	
+26	Iran	Iran	NPP	NPP	n=s|g=m	
+27	,	,	PONCT	PONCT		
+28	Israël	Israël	NPP	NPP	n=s|g=m	
+29	,	,	PONCT	PONCT		
+30	la	la	DET	DET	n=s|g=f	
+31	Jordanie	Jordanie	NPP	NPP	n=s|g=f	
+32	,	,	PONCT	PONCT		
+33	le	le	DET	DET	n=s|g=m	
+34	Kazakhstan	Kazakhstan	NPP	NPP	n=s|g=m	
+35	,	,	PONCT	PONCT		
+36	le	le	DET	DET	n=s|g=m	
+37	Koweït	Koweït	NPP	NPP	n=s|g=m	
+38	,	,	PONCT	PONCT		
+39	le	le	DET	DET	n=s|g=m	
+40	Liban	Liban	NPP	NPP	n=s|g=m	
+41	[	[	PONCT	PONCT		
+42	Note	noter	V	V	n=s|t=P,S|p=1,3	
+43	3	3	ADJ	ADJ		
+44	]	]	PONCT	PONCT		
+45	,	,	PONCT	PONCT		
+46	Oman	Oman	NPP	NPP	n=s|g=m	
+47	,	,	PONCT	PONCT		
+48	le	le	DET	DET	n=s|g=m	
+49	Pakistan	Pakistan	NPP	NPP	n=s|g=m	
+50	,	,	PONCT	PONCT		
+51	la	la	DET	DET	n=s|g=f	
+52	Syrie	Syrie	NPP	NPP	n=s|g=f	
+53	,	,	PONCT	PONCT		
+54	le	le	DET	DET	n=s|g=m	
+55	Tadjikistan	Tadjikistan	NPP	NPP	n=s|g=m	
+56	,	,	PONCT	PONCT		
+57	la	la	DET	DET	n=s|g=f	
+58	Turquie	Turquie	NPP	NPP	n=s|g=f	
+59	,	,	PONCT	PONCT		
+60	le	le	DET	DET	n=s|g=m	
+61	Turkménistan	Turkménistan	NPP	NPP	n=s|g=m	
+62	,	,	PONCT	PONCT		
+63	l'	le	DET	DET	n=s	
+64	Ouzbékistan	Ouzbékistan	NPP	NPP	n=s|g=m	
+65	et	et	CC	CC		
+66	le	le	DET	DET	n=s|g=m	
+67	Yémen	Yémen	NPP	NPP	n=s|g=m	
+68	[	[	PONCT	PONCT		
+69	25	25	ADJ	ADJ		
+70	]	]	PONCT	PONCT		
+71	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	caracal	caracal	NC	NC	n=s|g=m	
+3	occupe	occuper	V	V	n=s|t=P,S|p=1,3	
+4	des	des	DET	DET	n=p	
+5	habitats	habitat	NC	NC	n=p|g=m	
+6	très	très	ADV	ADV		
+7	variés	varier	VPP	VPP	n=p|g=m|t=K	
+8	depuis	depuis	P	P		
+9	les	les	DET	DET	n=p	
+10	environnements	environnement	NC	NC	n=p|g=m	
+11	semi	_	ADJ	ADJ		
+12	-	-	PONCT	PONCT		
+13	désertiques	désertique	ADJ	ADJ	n=p	
+14	[	[	PONCT	PONCT		
+15	59	59	NC	NC		
+16	]	]	PONCT	PONCT		
+17	comme	comme	P	P		
+18	les	les	DET	DET	n=p	
+19	steppes	steppe	NC	NC	n=p|g=f	
+20	[	[	PONCT	PONCT		
+21	60	60	NC	NC		
+22	]	]	PONCT	PONCT		
+23	jusqu'	jusque	P	P		
+24	aux	à	P+D	P+D	n=p	
+25	forêts	forêt	NC	NC	n=p|g=f	
+26	de	de	P	P		
+27	conifères	conifère	NC	NC	n=p|g=m	
+28	et	et	CC	CC		
+29	les	les	DET	DET	n=p	
+30	maquis	maquis	NC	NC	g=m	
+31	[	[	PONCT	PONCT		
+32	61	61	NC	NC		
+33	]	]	PONCT	PONCT		
+34	en	en	P	P		
+35	passant	passer	VPR	VPR	t=G	
+36	par	par	P	P		
+37	la	la	DET	DET	n=s|g=f	
+38	savane	savane	NC	NC	n=s|g=f	
+39	[	[	PONCT	PONCT		
+40	59	59	NC	NC		
+41	]	]	PONCT	PONCT		
+42	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	préfère	préférer	V	V	n=s|t=P,S|p=1,3	
+3	les	les	DET	DET	n=p	
+4	régions	région	NC	NC	n=p|g=f	
+5	arides	aride	ADJ	ADJ	n=p	
+6	avec	avec	P	P		
+7	un	un	DET	DET	n=s|g=m	
+8	environnement	environnement	NC	NC	n=s|g=m	
+9	accidenté	accidenter	VPP	VPP	n=s|g=m|t=K	
+10	[	[	PONCT	PONCT		
+11	62	62	NC	NC		
+12	]	]	PONCT	PONCT		
+13	et	et	CC	CC		
+14	rocailleux	rocailleux	ADJ	ADJ	g=m	
+15	mais	mais	CC	CC		
+16	est	être	V	V	n=s|t=P|p=3	
+17	également	_	ADV	ADV		
+18	présent	présent	ADJ	ADJ	n=s|g=m	
+19	en	en	P	P		
+20	lisière	lisière	NC	NC	n=s|g=f	
+21	de	de	P	P		
+22	forêt	forêt	NC	NC	n=s|g=f	
+23	humide	humide	ADJ	ADJ	n=s	
+24	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	peuple	peupler	V	V	n=s|t=P,S|p=1,3	
+3	également	_	ADV	ADV		
+4	les	les	DET	DET	n=p	
+5	zones	zone	NC	NC	n=p|g=f	
+6	montagneuses	montagneux	ADJ	ADJ	n=p|g=f	
+7	jusqu'	jusque	P	P		
+8	à	à	P	P		
+9	une	une	DET	DET	n=s|g=f	
+10	altitude	altitude	NC	NC	n=s|g=f	
+11	de	de	P	P		
+12	3300	3300	NC	NC		
+13	mètres	mètre	NC	NC	n=p|g=m	
+14	dans	dans	P	P		
+15	les	les	DET	DET	n=p	
+16	montagnes	montagne	NC	NC	n=p|g=f	
+17	éthiopiennes	éthiopien	ADJ	ADJ	n=p|g=f	
+18	[	[	PONCT	PONCT		
+19	26	26	ADJ	ADJ		
+20	]	]	PONCT	PONCT		
+21	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	principales	principal	ADJ	ADJ	n=p|g=f	
+3	menaces	menace	NC	NC	n=p|g=f	
+4	pesant	peser	VPR	VPR	t=G	
+5	sur	sur	P	P		
+6	le	le	DET	DET	n=s|g=m	
+7	caracal	caracal	NC	NC	n=s|g=m	
+8	sont	être	V	V	n=p|t=P|p=3	
+9	la	la	DET	DET	n=s|g=f	
+10	destruction	destruction	NC	NC	n=s|g=f	
+11	de	de	P	P		
+12	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+13	habitat	habitat	NC	NC	n=s|g=m	
+14	avec	avec	P	P		
+15	notamment	_	ADV	ADV		
+16	la	la	DET	DET	n=s|g=f	
+17	désertification	désertification	NC	NC	n=s|g=f	
+18	qui	qui	PROREL	PROREL	n=s	
+19	pourrait	pouvoir	V	V	n=s|t=C|p=3	
+20	être	être	VINF	VINF	t=W	
+21	l'	le	DET	DET	n=s	
+22	une	un	PRO	PRO	n=s|g=f	
+23	des	de	P+D	P+D	n=p	
+24	causes	cause	NC	NC	n=p|g=f	
+25	de	de	P	P		
+26	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+27	raréfaction	raréfaction	NC	NC	n=s|g=f	
+28	en	en	P	P		
+29	Afrique	Afrique	NPP	NPP	n=s|g=f	
+30	septentrionale	septentrional	ADJ	ADJ	n=s|g=f	
+31	[	[	PONCT	PONCT		
+32	63	63	NC	NC		
+33	]	]	PONCT	PONCT		
+34	et	et	CC	CC		
+35	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+36	élimination	élimination	NC	NC	n=s|g=f	
+37	par	par	P	P		
+38	les	les	DET	DET	n=p	
+39	éleveurs	éleveur	NC	NC	n=p|g=m	
+40	[	[	PONCT	PONCT		
+41	44	44	NC	NC		
+42	]	]	PONCT	PONCT		
+43	'	'	PONCT	PONCT		
+44	[	[	PONCT	PONCT		
+45	64	64	NC	NC		
+46	]	]	PONCT	PONCT		
+47	pour	pour	P	P		
+48	prévenir	prévenir	VINF	VINF	t=W	
+49	ses	ses	DET	DET	n=p|p=3|poss=s	
+50	déprédations	déprédation	NC	NC	n=p|g=f	
+51	sur	sur	P	P		
+52	les	les	DET	DET	n=p	
+53	animaux	animal	NC	NC	n=p|g=m	
+54	domestiques	domestique	ADJ	ADJ	n=p	
+55	.	.	PONCT	PONCT		
+
+1	Si	si	CS	CS		
+2	le	le	DET	DET	n=s|g=m	
+3	caracal	caracal	NC	NC	n=s|g=m	
+4	peut	pouvoir	V	V	n=s|t=P|p=3	
+5	s'	se	CLR	CLR	n=p,s|p=3	
+6	attaquer	attaquer	VINF	VINF	t=W	
+7	à	à	P	P		
+8	d'	de	DET	DET	n=p	
+9	autres	autre	ADJ	ADJ	n=p	
+10	carnivores	carnivore	NC	NC	n=p	
+11	plus	plus	ADV	ADV		
+12	faibles	faible	ADJ	ADJ	n=p	
+13	,	,	PONCT	PONCT		
+14	il	il	CLS	CLS	n=s|g=m|p=3	
+15	peut	pouvoir	V	V	n=s|t=P|p=3	
+16	également	_	ADV	ADV		
+17	être	être	VINF	VINF	t=W	
+18	la	la	DET	DET	n=s|g=f	
+19	proie	proie	NC	NC	n=s|g=f	
+20	de	de	P	P		
+21	prédateurs	prédateur	NC	NC	n=p|g=m	
+22	plus	plus	ADV	ADV		
+23	massifs	massif	ADJ	ADJ	n=p|g=m	
+24	et	et	CC	CC		
+25	plus	plus	ADV	ADV		
+26	puissants	puissant	ADJ	ADJ	n=p|g=m	
+27	que	que	CS	CS		
+28	lui	lui	PRO	PRO	n=s|g=m|p=3	
+29	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	s'	se	CLR	CLR	n=p,s|p=3	
+3	agit	agir	V	V	n=s|t=J,P|p=3	
+4	en	en	P	P		
+5	premier	premier	ADJ	ADJ	n=s|g=m	
+6	lieu	lieu	NC	NC	n=s|g=m	
+7	des	de	P+D	P+D	n=p	
+8	grands	grand	ADJ	ADJ	n=p|g=m	
+9	félins	félin	NC	NC	n=p|g=m	
+10	comme	comme	P	P		
+11	le	le	DET	DET	n=s|g=m	
+12	lion	lion	NC	NC	n=s|g=m	
+13	(	(	PONCT	PONCT		
+14	Panthera	_	NPP	NPP		
+15	leo	_	NPP	NPP		
+16	)	)	PONCT	PONCT		
+17	[	[	PONCT	PONCT		
+18	65	65	NC	NC		
+19	]	]	PONCT	PONCT		
+20	,	,	PONCT	PONCT		
+21	le	le	DET	DET	n=s|g=m	
+22	léopard	léopard	NC	NC	n=s|g=m	
+23	(	(	PONCT	PONCT		
+24	Panthera	_	NPP	NPP		
+25	pardus	_	NPP	NPP		
+26	[	[	PONCT	PONCT		
+27	66	66	NC	NC		
+28	]	]	PONCT	PONCT		
+29	)	)	PONCT	PONCT		
+30	ou	ou	CC	CC		
+31	le	le	DET	DET	n=s|g=m	
+32	guépard	guépard	NC	NC	n=s|g=m	
+33	(	(	PONCT	PONCT		
+34	Acinonyx	_	NPP	NPP		
+35	jubatus	_	NPP	NPP		
+36	)	)	PONCT	PONCT		
+37	[	[	PONCT	PONCT		
+38	67	67	NC	NC		
+39	]	]	PONCT	PONCT		
+40	,	,	PONCT	PONCT		
+41	mais	mais	CC	CC		
+42	également	_	ADV	ADV		
+43	de	de	P	P		
+44	certains	certain	DET	DET	n=p|g=m	
+45	canidés	canidé	NC	NC	n=p|g=m	
+46	comme	comme	P	P		
+47	le	le	DET	DET	n=s|g=m	
+48	loup	loup	NC	NC	n=s|g=m	
+49	[	[	PONCT	PONCT		
+50	38	38	NC	NC		
+51	]	]	PONCT	PONCT		
+52	et	et	CC	CC		
+53	la	la	DET	DET	n=s|g=f	
+54	hyène	hyène	NC	NC	n=s|g=f	
+55	[	[	PONCT	PONCT		
+56	38	38	NC	NC		
+57	]	]	PONCT	PONCT		
+58	ou	ou	CC	CC		
+59	,	,	PONCT	PONCT		
+60	de	de	P	P		
+61	manière	manière	NC	NC	n=s|g=f	
+62	plus	plus	ADV	ADV		
+63	surprenante	surprenant	ADJ	ADJ	n=s|g=f	
+64	,	,	PONCT	PONCT		
+65	le	le	DET	DET	n=s|g=m	
+66	chacal	chacal	NC	NC	n=s|g=m	
+67	(	(	PONCT	PONCT		
+68	Canis	_	NPP	NPP		
+69	mesomelas	_	NPP	NPP		
+70	)	)	PONCT	PONCT		
+71	[	[	PONCT	PONCT		
+72	22	22	NC	NC		
+73	]	]	PONCT	PONCT		
+74	,	,	PONCT	PONCT		
+75	qui	qui	PROREL	PROREL	n=s	
+76	peut	pouvoir	V	V	n=s|t=P|p=3	
+77	s'	se	CLR	CLR	n=p,s|p=3	
+78	attaquer	attaquer	VINF	VINF	t=W	
+79	aux	à	P+D	P+D	n=p	
+80	très	très	ADV	ADV		
+81	jeunes	jeune	ADJ	ADJ	n=p	
+82	caracals	caracal	NC	NC	n=p|g=m	
+83	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	caracal	caracal	NC	NC	n=s|g=m	
+3	peut	pouvoir	V	V	n=s|t=P|p=3	
+4	être	être	VINF	VINF	t=W	
+5	porteur	porteur	NC	NC	n=s|g=m	
+6	de	de	P	P		
+7	certains	certain	PRO	PRO	n=p|g=m	
+8	vers	vers	P	P		
+9	parasites	parasite	NC	NC	n=p	
+10	tels	tel	ADJ	ADJ	n=p|g=m	
+11	que	que	CS	CS		
+12	Toxocara	_	NPP	NPP		
+13	mystax	_	NPP	NPP		
+14	,	,	PONCT	PONCT		
+15	Macracanthorhynchus	_	NPP	NPP		
+16	catulinus	_	NPP	NPP		
+17	ou	ou	CC	CC		
+18	du	de	P+D	P+D	n=s|g=m	
+19	genre	genre	NC	NC	n=s|g=m	
+20	Physaloptera	_	NPP	NPP		
+21	[	[	PONCT	PONCT		
+22	68	68	NC	NC		
+23	]	]	PONCT	PONCT		
+24	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	peut	pouvoir	V	V	n=s|t=P|p=3	
+3	également	_	ADV	ADV		
+4	être	être	VINF	VINF	t=W	
+5	porteur	porteur	NC	NC	n=s|g=m	
+6	d'	de	P	P		
+7	ectoparasites	ectoparasite	ADJ	ADJ	n=p	
+8	comme	comme	P	P		
+9	la	la	DET	DET	n=s|g=f	
+10	puce	puce	NC	NC	n=s|g=f	
+11	Synosternus	_	NPP	NPP		
+12	longispinus	_	NPP	NPP		
+13	[	[	PONCT	PONCT		
+14	69	69	NC	NC		
+15	]	]	PONCT	PONCT		
+16	ou	ou	CC	CC		
+17	les	les	DET	DET	n=p	
+18	tiques	tique	NC	NC	n=p|g=f	
+19	des	de	P+D	P+D	n=p	
+20	genres	genre	NC	NC	n=p|g=m	
+21	Hyalomma	_	NPP	NPP		
+22	(	(	PONCT	PONCT		
+23	Hyalomma	_	NPP	NPP		
+24	asiaticum	_	NPP	NPP		
+25	)	)	PONCT	PONCT		
+26	[	[	PONCT	PONCT		
+27	69	69	NC	NC		
+28	]	]	PONCT	PONCT		
+29	,	,	PONCT	PONCT		
+30	Amblyomma	_	NPP	NPP		
+31	(	(	PONCT	PONCT		
+32	Amblyomma	_	NPP	NPP		
+33	marmoreum	_	NPP	NPP		
+34	)	)	PONCT	PONCT		
+35	[	[	PONCT	PONCT		
+36	70	70	NC	NC		
+37	]	]	PONCT	PONCT		
+38	,	,	PONCT	PONCT		
+39	Haemaphysalis	_	NPP	NPP		
+40	(	(	PONCT	PONCT		
+41	Haemaphysalis	_	NPP	NPP		
+42	colesbergensis	_	NPP	NPP		
+43	,	,	PONCT	PONCT		
+44	Haemaphysalis	_	NPP	NPP		
+45	elliptica	_	NPP	NPP		
+46	,	,	PONCT	PONCT		
+47	Haemaphysalis	_	NPP	NPP		
+48	zumpti	_	NPP	NPP		
+49	)	)	PONCT	PONCT		
+50	[	[	PONCT	PONCT		
+51	70	70	NC	NC		
+52	]	]	PONCT	PONCT		
+53	,	,	PONCT	PONCT		
+54	Ixodes	_	NPP	NPP		
+55	(	(	PONCT	PONCT		
+56	Ixodes	ixode	NC	NC	n=p|g=m	
+57	pilosus	_	NPP	NPP		
+58	,	,	PONCT	PONCT		
+59	Ixodes	_	NPP	NPP		
+60	rubicundus	_	NPP	NPP		
+61	)	)	PONCT	PONCT		
+62	[	[	PONCT	PONCT		
+63	70	70	NC	NC		
+64	]	]	PONCT	PONCT		
+65	,	,	PONCT	PONCT		
+66	Rhipicentor	_	NPP	NPP		
+67	(	(	PONCT	PONCT		
+68	Rhipicentor	_	NPP	NPP		
+69	bicornis	_	NPP	NPP		
+70	,	,	PONCT	PONCT		
+71	Rhipicentor	_	NPP	NPP		
+72	nuttalli	_	NPP	NPP		
+73	)	)	PONCT	PONCT		
+74	[	[	PONCT	PONCT		
+75	70	70	NC	NC		
+76	]	]	PONCT	PONCT		
+77	ou	ou	CC	CC		
+78	Rhipicephalus	_	NPP	NPP		
+79	(	(	PONCT	PONCT		
+80	Rhipicephalus	_	NPP	NPP		
+81	evertsi	_	NPP	NPP		
+82	evertsi	_	NPP	NPP		
+83	,	,	PONCT	PONCT		
+84	Rhipicephalus	_	NPP	NPP		
+85	gertrudae	_	NPP	NPP		
+86	)	)	PONCT	PONCT		
+87	[	[	PONCT	PONCT		
+88	70	70	NC	NC		
+89	]	]	PONCT	PONCT		
+90	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	caracal	caracal	NC	NC	n=s|g=m	
+3	peut	pouvoir	V	V	n=s|t=P|p=3	
+4	être	être	VINF	VINF	t=W	
+5	infecté	infecter	VPP	VPP	n=s|g=m|t=K	
+6	par	par	P	P		
+7	la	la	DET	DET	n=s|g=f	
+8	bactérie	bactérie	NC	NC	n=s|g=f	
+9	Aeromonas	_	NPP	NPP		
+10	hydrophila	_	NPP	NPP		
+11	,	,	PONCT	PONCT		
+12	ce	ce	PRO	PRO	n=s	
+13	qui	qui	PROREL	PROREL	n=s	
+14	peut	pouvoir	V	V	n=s|t=P|p=3	
+15	provoquer	provoquer	VINF	VINF	t=W	
+16	la	la	DET	DET	n=s|g=f	
+17	mort	mort	NC	NC	n=s|g=f,m	
+18	de	de	P	P		
+19	l'	le	DET	DET	n=s	
+20	animal	animal	NC	NC	n=s|g=m	
+21	par	par	P	P		
+22	septicémie	septicémie	NC	NC	n=s|g=f	
+23	foudroyante	foudroyant	ADJ	ADJ	n=s|g=f	
+24	[	[	PONCT	PONCT		
+25	71	71	NC	NC		
+26	]	]	PONCT	PONCT		
+27	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	peut	pouvoir	V	V	n=s|t=P|p=3	
+3	être	être	VINF	VINF	t=W	
+4	porteur	porteur	NC	NC	n=s|g=m	
+5	du	de	P+D	P+D	n=s|g=m	
+6	coronavirus	_	NC	NC		
+7	félin	félin	ADJ	ADJ	n=s|g=m	
+8	mais	mais	CC	CC		
+9	le	le	DET	DET	n=s|g=m	
+10	risque	risque	NC	NC	n=s|g=m	
+11	de	de	P	P		
+12	péritonite	péritonite	NC	NC	n=s|g=f	
+13	infectieuse	infectieux	ADJ	ADJ	n=s|g=f	
+14	féline	félin	ADJ	ADJ	n=s|g=f	
+15	est	être	V	V	n=s|t=P|p=3	
+16	limitée	limiter	VPP	VPP	n=s|g=f|t=K	
+17	chez	chez	P	P		
+18	les	les	DET	DET	n=p	
+19	individus	individu	NC	NC	n=p|g=m	
+20	sauvages	sauvage	ADJ	ADJ	n=p	
+21	au	à	P+D	P+D	n=s|g=m	
+22	comportement	comportement	NC	NC	n=s|g=m	
+23	relativement	_	ADV	ADV		
+24	solitaire	solitaire	ADJ	ADJ	n=s	
+25	[	[	PONCT	PONCT		
+26	72	72	NC	NC		
+27	]	]	PONCT	PONCT		
+28	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	caracal	caracal	NC	NC	n=s|g=m	
+3	est	être	V	V	n=s|t=P|p=3	
+4	un	un	DET	DET	n=s|g=m	
+5	vecteur	vecteur	NC	NC	n=s|g=m	
+6	potentiel	potentiel	NC	NC	n=s|g=m	
+7	de	de	P	P		
+8	la	la	DET	DET	n=s|g=f	
+9	rage	rage	NC	NC	n=s|g=f	
+10	[	[	PONCT	PONCT		
+11	73	73	NC	NC		
+12	]	]	PONCT	PONCT		
+13	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	Caracal	_	NPP	NPP		
+3	est	être	V	V	n=s|t=P|p=3	
+4	une	une	DET	DET	n=s|g=f	
+5	espèce	espèce	NC	NC	n=s|g=f	
+6	protégée	protéger	VPP	VPP	n=s|g=f|t=K	
+7	dont	dont	PROREL	PROREL		
+8	les	les	DET	DET	n=p	
+9	populations	population	NC	NC	n=p|g=f	
+10	asiatiques	asiatique	ADJ	ADJ	n=p	
+11	sont	être	V	V	n=p|t=P|p=3	
+12	classées	classer	VPP	VPP	n=p|g=f|t=K	
+13	en	en	P	P		
+14	Annexe	_	NPP	NPP		
+15	I	_	NPP	NPP		
+16	de	de	P	P		
+17	la	la	DET	DET	n=s|g=f	
+18	CITES	_	NPP	NPP		
+19	et	et	CC	CC		
+20	les	les	DET	DET	n=p	
+21	populations	population	NC	NC	n=p|g=f	
+22	africaines	africain	ADJ	ADJ	n=p|g=f	
+23	en	en	P	P		
+24	Annexe	_	NPP	NPP		
+25	II	_	NPP	NPP		
+26	.	.	PONCT	PONCT		
+
+1	Dans	dans	P	P		
+2	le	le	DET	DET	n=s|g=m	
+3	statut	statut	NC	NC	n=s|g=m	
+4	de	de	P	P		
+5	conservation	conservation	NC	NC	n=s|g=f	
+6	de	de	P	P		
+7	l'	le	DET	DET	n=s	
+8	UICN	_	NPP	NPP		
+9	,	,	PONCT	PONCT		
+10	le	le	DET	DET	n=s|g=m	
+11	Caracal	_	NPP	NPP		
+12	est	être	V	V	n=s|t=P|p=3	
+13	classé	classer	VPP	VPP	n=s|g=m|t=K	
+14	en	en	P	P		
+15	préoccupation	préoccupation	NC	NC	n=s|g=f	
+16	mineure	mineur	ADJ	ADJ	n=s|g=f	
+17	du	de	P+D	P+D	n=s|g=m	
+18	fait	fait	NC	NC	n=s|g=m	
+19	de	de	P	P		
+20	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+21	présence	présence	NC	NC	n=s|g=f	
+22	relativement	_	ADV	ADV		
+23	abondante	abondant	ADJ	ADJ	n=s|g=f	
+24	en	en	P	P		
+25	Afrique	Afrique	NPP	NPP	n=s|g=f	
+26	Australe	_	NPP	NPP		
+27	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	chasse	chasse	NC	NC	n=s|g=f	
+3	de	de	P	P		
+4	l'	le	DET	DET	n=s	
+5	espèce	espèce	NC	NC	n=s|g=f	
+6	est	être	V	V	n=s|t=P|p=3	
+7	interdite	interdire	VPP	VPP	n=s|g=f|t=K	
+8	en	en	P	P		
+9	Afghanistan	Afghanistan	NPP	NPP	n=s|g=m	
+10	,	,	PONCT	PONCT		
+11	en	en	P	P		
+12	Algérie	Algérie	NPP	NPP	n=s|g=f	
+13	[	[	PONCT	PONCT		
+14	74	74	NC	NC		
+15	]	]	PONCT	PONCT		
+16	,	,	PONCT	PONCT		
+17	en	en	P	P		
+18	Égypte	Égypte	NPP	NPP	n=s|g=f	
+19	,	,	PONCT	PONCT		
+20	en	en	P	P		
+21	Inde	Inde	NPP	NPP	n=s|g=f	
+22	,	,	PONCT	PONCT		
+23	en	en	P	P		
+24	Iran	Iran	NPP	NPP	n=s|g=m	
+25	,	,	PONCT	PONCT		
+26	Israël	Israël	NPP	NPP	n=s|g=m	
+27	,	,	PONCT	PONCT		
+28	Jordanie	Jordanie	NPP	NPP	n=s|g=f	
+29	,	,	PONCT	PONCT		
+30	au	à	P+D	P+D	n=s|g=m	
+31	Kazakhstan	Kazakhstan	NPP	NPP	n=s|g=m	
+32	,	,	PONCT	PONCT		
+33	Liban	Liban	NPP	NPP	n=s|g=m	
+34	,	,	PONCT	PONCT		
+35	Maroc	Maroc	NPP	NPP	n=s|g=m	
+36	[	[	PONCT	PONCT		
+37	75	75	NC	NC		
+38	]	]	PONCT	PONCT		
+39	,	,	PONCT	PONCT		
+40	Pakistan	Pakistan	NPP	NPP	n=s|g=m	
+41	,	,	PONCT	PONCT		
+42	Syrie	Syrie	NPP	NPP	n=s|g=f	
+43	,	,	PONCT	PONCT		
+44	Tadjikistan	Tadjikistan	NPP	NPP	n=s|g=m	
+45	,	,	PONCT	PONCT		
+46	Tunisie	Tunisie	NPP	NPP	n=s|g=f	
+47	,	,	PONCT	PONCT		
+48	Turquie	Turquie	NPP	NPP	n=s|g=f	
+49	,	,	PONCT	PONCT		
+50	Turkménistan	Turkménistan	NPP	NPP	n=s|g=m	
+51	et	et	CC	CC		
+52	l'	le	DET	DET	n=s	
+53	Ouzbékistan	Ouzbékistan	NPP	NPP	n=s|g=m	
+54	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	Afrique	Afrique	NPP	NPP	n=s|g=f	
+3	subsaharienne	subsaharien	ADJ	ADJ	n=s|g=f	
+4	,	,	PONCT	PONCT		
+5	la	la	DET	DET	n=s|g=f	
+6	chasse	chasse	NC	NC	n=s|g=f	
+7	du	de	P+D	P+D	n=s|g=m	
+8	caracal	caracal	NC	NC	n=s|g=m	
+9	est	être	V	V	n=s|t=P|p=3	
+10	interdite	interdire	VPP	VPP	n=s|g=f|t=K	
+11	dans	dans	P	P		
+12	environ	environ	ADV	ADV		
+13	la	la	DET	DET	n=s|g=f	
+14	moitié	moitié	NC	NC	n=s|g=f	
+15	de	de	P	P		
+16	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+17	aire	aire	NC	NC	n=s|g=f	
+18	de	de	P	P		
+19	répartition	répartition	NC	NC	n=s|g=f	
+20	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	Namibie	Namibie	NPP	NPP	n=s|g=f	
+3	et	et	CC	CC		
+4	en	en	P	P		
+5	Afrique	Afrique	NPP	NPP	n=s|g=f	
+6	du	de	P+D	P+D	n=s|g=m	
+7	Sud	sud	NC	NC	n=s|g=m	
+8	,	,	PONCT	PONCT		
+9	le	le	DET	DET	n=s|g=m	
+10	caracal	caracal	NC	NC	n=s|g=m	
+11	est	être	V	V	n=s|t=P|p=3	
+12	considéré	considérer	VPP	VPP	n=s|g=m|t=K	
+13	comme	comme	P	P		
+14	un	un	DET	DET	n=s|g=m	
+15	animal	animal	NC	NC	n=s|g=m	
+16	nuisible	nuisible	ADJ	ADJ	n=s	
+17	du	de	P+D	P+D	n=s|g=m	
+18	fait	fait	NC	NC	n=s|g=m	
+19	de	de	P	P		
+20	ses	ses	DET	DET	n=p|p=3|poss=s	
+21	déprédations	déprédation	NC	NC	n=p|g=f	
+22	sur	sur	P	P		
+23	les	les	DET	DET	n=p	
+24	cheptels	cheptel	NC	NC	n=p|g=m	
+25	ovins	ovin	ADJ	ADJ	n=p|g=m	
+26	,	,	PONCT	PONCT		
+27	ce	ce	PRO	PRO	n=s	
+28	qui	qui	PROREL	PROREL	n=s	
+29	permet	permettre	V	V	n=s|t=P|p=3	
+30	aux	à	P+D	P+D	n=p	
+31	éleveurs	éleveur	NC	NC	n=p|g=m	
+32	de	de	P	P		
+33	le	le	CLO	CLO	n=s|g=m|p=3	
+34	tuer	tuer	VINF	VINF	t=W	
+35	sans	sans	P	P		
+36	restriction	restriction	NC	NC	n=s|g=f	
+37	;	;	PONCT	PONCT		
+38	le	le	DET	DET	n=s|g=m	
+39	Caracal	_	NPP	NPP		
+40	reste	rester	V	V	n=s|t=P,S|p=1,3	
+41	néanmoins	néanmoins	ADV	ADV		
+42	très	très	ADV	ADV		
+43	répandu	répandre	VPP	VPP	n=s|g=m|t=K	
+44	en	en	P	P		
+45	Afrique	Afrique	NPP	NPP	n=s|g=f	
+46	australe	austral	ADJ	ADJ	n=s|g=f	
+47	.	.	PONCT	PONCT		
+
+1	Dans	dans	P	P		
+2	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+3	aire	aire	NC	NC	n=s|g=f	
+4	de	de	P	P		
+5	répartition	répartition	NC	NC	n=s|g=f	
+6	,	,	PONCT	PONCT		
+7	le	le	DET	DET	n=s|g=m	
+8	Caracal	_	NPP	NPP		
+9	est	être	V	V	n=s|t=P|p=3	
+10	présent	présent	ADJ	ADJ	n=s|g=m	
+11	dans	dans	P	P		
+12	de	de	DET	DET	n=p	
+13	nombreux	nombreux	ADJ	ADJ	g=m	
+14	espaces	espace	NC	NC	n=p	
+15	protégés	protéger	VPP	VPP	n=p|g=m|t=K	
+16	comme	comme	P	P		
+17	les	les	DET	DET	n=p	
+18	réserves	réserve	NC	NC	n=p|g=f	
+19	naturelles	naturel	ADJ	ADJ	n=p|g=f	
+20	et	et	CC	CC		
+21	les	les	DET	DET	n=p	
+22	parcs	parc	NC	NC	n=p|g=m	
+23	nationaux	national	ADJ	ADJ	n=p|g=m	
+24	(	(	PONCT	PONCT		
+25	Cf	cf.	P	P		
+26	.	.	PONCT	PONCT		
+27	listes	liste	NC	NC	n=p|g=f	
+28	non	non	ADV	ADV		
+29	exhaustives	exhaustif	ADJ	ADJ	n=p|g=f	
+30	ci	_	NC	NC		
+31	-	-	PONCT	PONCT		
+32	après	après	ADV	ADV		
+33	)	)	PONCT	PONCT		
+34	,	,	PONCT	PONCT		
+35	avec	avec	P	P		
+36	en	en	P	P		
+37	premier	premier	ADJ	ADJ	n=s|g=m	
+38	lieu	lieu	NC	NC	n=s|g=m	
+39	ceux	ceux	PRO	PRO	n=p|g=m	
+40	d'	de	P	P		
+41	Afrique	Afrique	NPP	NPP	n=s|g=f	
+42	Australe	_	NPP	NPP		
+43	.	.	PONCT	PONCT		
+
+1	Afrique	Afrique	NPP	NPP	n=s|g=f	
+2	du	de	P+D	P+D	n=s|g=m	
+3	Sud	_	NPP	NPP		
+
+1	Afrique	Afrique	NPP	NPP	n=s|g=f	
+2	du	de	P+D	P+D	n=s|g=m	
+3	Sud	sud	NC	NC	n=s|g=m	
+4	/	/	PONCT	PONCT		
+5	Botswana	Botswana	NPP	NPP	n=s|g=m	
+
+1	Afrique	Afrique	NPP	NPP	n=s|g=f	
+2	du	de	P+D	P+D	n=s|g=m	
+3	Sud	sud	NC	NC	n=s|g=m	
+4	/	/	PONCT	PONCT		
+5	Lesotho	Lesotho	NPP	NPP	n=s|g=m	
+
+1	Afrique	Afrique	NPP	NPP	n=s|g=f	
+2	du	de	P+D	P+D	n=s|g=m	
+3	Sud	sud	NC	NC	n=s|g=m	
+4	/	/	PONCT	PONCT		
+5	Namibie	Namibie	NPP	NPP	n=s|g=f	
+
+1	Algérie	Algérie	NPP	NPP	n=s|g=f	
+
+1	Angola	Angola	NPP	NPP	n=s|g=m	
+
+1	Bénin	bénin	ADJ	ADJ	n=s|g=m	
+
+1	Bénin	bénin	ADJ	ADJ	n=s|g=m	
+2	/	/	PONCT	PONCT		
+3	Burkina	Burkina	NPP	NPP	n=s|g=m	
+4	Faso	_	NPP	NPP		
+5	/	/	PONCT	PONCT		
+6	Niger	Niger	NPP	NPP	n=s|g=m	
+
+1	Botswana	Botswana	NPP	NPP	n=s|g=m	
+
+1	Burkina	Burkina	NPP	NPP	n=s|g=m	
+2	Faso	_	NPP	NPP		
+
+1	Cameroun	Cameroun	NPP	NPP	n=s|g=m	
+
+1	République	république	NC	NC	n=s|g=f	
+2	centrafricaine	centrafricain	ADJ	ADJ	n=s|g=f	
+
+1	République	république	NC	NC	n=s|g=f	
+2	démocratique	démocratique	ADJ	ADJ	n=s	
+3	du	de	P+D	P+D	n=s|g=m	
+4	Congo	Congo	NPP	NPP	n=s|g=m	
+
+1	Côte	côte	NC	NC	n=s|g=f	
+2	d'	de	P	P		
+3	Ivoire	ivoire	NC	NC	n=s|g=m	
+
+1	Égypte	Égypte	NPP	NPP	n=s|g=f	
+2	(	(	PONCT	PONCT		
+3	Afrique	Afrique	NPP	NPP	n=s|g=f	
+4	)	)	PONCT	PONCT		
+
+1	Érythrée	_	I	I		
+
+1	Éthiopie	_	I	I		
+
+1	Gambie	Gambie	NPP	NPP	n=s|g=f	
+
+1	Ghana	Ghana	NPP	NPP	n=s|g=m	
+
+1	Guinée	guinée	NC	NC	n=s|g=f	
+
+1	Guinée	guinée	NC	NC	n=s|g=f	
+2	-	-	PONCT	PONCT		
+3	Bissau	Bissau	NPP	NPP	n=s|g=m	
+
+1	Kenya	Kenya	NPP	NPP	n=s|g=m	
+
+1	Lesotho	Lesotho	NPP	NPP	n=s|g=m	
+
+1	Malawi	Malawi	NPP	NPP	n=s|g=m	
+
+1	Mali	mali	NC	NC	n=s|g=m	
+
+1	Maroc	Maroc	NPP	NPP	n=s|g=m	
+
+1	Mauritanie	Mauritanie	NPP	NPP	n=s|g=f	
+
+1	Mozambique	Mozambique	NPP	NPP	n=s|g=m	
+
+1	Namibie	Namibie	NPP	NPP	n=s|g=f	
+
+1	Niger	Niger	NPP	NPP	n=s|g=m	
+
+1	Nigeria	Nigeria	NPP	NPP	n=s|g=m	
+
+1	Ouganda	Ouganda	NPP	NPP	n=s|g=m	
+
+1	Sénégal	Sénégal	NPP	NPP	n=s|g=m	
+
+1	Soudan	soudan	NC	NC	n=s|g=m	
+
+1	Soudan	soudan	NC	NC	n=s|g=m	
+2	du	de	P+D	P+D	n=s|g=m	
+3	Sud	_	NPP	NPP		
+
+1	Swaziland	Swaziland	NPP	NPP	n=s|g=m	
+
+1	Tanzanie	Tanzanie	NPP	NPP	n=s|g=f	
+
+1	Tchad	Tchad	NPP	NPP	n=s|g=m	
+
+1	Tunisie	Tunisie	NPP	NPP	n=s|g=f	
+
+1	Zambie	Zambie	NPP	NPP	n=s|g=m	
+
+1	Zimbabwe	Zimbabwe	NPP	NPP	n=s|g=m	
+
+1	Afghanistan	Afghanistan	NPP	NPP	n=s|g=m	
+
+1	Arabie	Arabie	NPP	NPP	n=s|g=f	
+2	saoudite	saoudite	ADJ	ADJ	n=s	
+
+1	Azerbaïdjan	Azerbaïdjan	NPP	NPP	n=s|g=m	
+
+1	Égypte	Égypte	NPP	NPP	n=s|g=f	
+2	(	(	PONCT	PONCT		
+3	Asie	Asie	NPP	NPP	n=s|g=f	
+4	)	)	PONCT	PONCT		
+
+1	Émirats	émirat	NC	NC	n=p|g=m	
+2	arabes	arabe	ADJ	ADJ	n=p	
+3	unis	uni	NC	NC	n=p|g=m	
+
+1	Géorgie	Géorgie	NPP	NPP	n=s|g=f	
+
+1	Inde	inde	NC	NC	n=s|g=m	
+
+1	Irak	Irak	NPP	NPP	n=s|g=m	
+
+1	Iran	Iran	NPP	NPP	n=s|g=m	
+
+1	Israël	Israël	NPP	NPP	n=s|g=m	
+
+1	Jordanie	Jordanie	NPP	NPP	n=s|g=f	
+
+1	Kazakhstan	Kazakhstan	NPP	NPP	n=s|g=m	
+
+1	Liban	Liban	NPP	NPP	n=s|g=m	
+2	[	[	PONCT	PONCT		
+3	Note	noter	V	V	n=s|t=P,S|p=1,3	
+4	3	3	ADJ	ADJ		
+5	]	]	PONCT	PONCT		
+
+1	Oman	Oman	NPP	NPP	n=s|g=m	
+
+1	Ouzbékistan	Ouzbékistan	NPP	NPP	n=s|g=m	
+
+1	Pakistan	Pakistan	NPP	NPP	n=s|g=m	
+
+1	Turkménistan	Turkménistan	NPP	NPP	n=s|g=m	
+
+1	Turquie	Turquie	NPP	NPP	n=s|g=f	
+
+1	Yémen	Yémen	NPP	NPP	n=s|g=m	
+
+1	Plusieurs	plusieurs	DET	DET	n=p	
+2	associations	association	NC	NC	n=p|g=f	
+3	de	de	P	P		
+4	zoos	zoo	NC	NC	n=p|g=m	
+5	participent	participer	V	V	n=p|t=P,S|p=3	
+6	à	à	P	P		
+7	des	des	DET	DET	n=p	
+8	plans	plan	NC	NC	n=p|g=m	
+9	de	de	P	P		
+10	gestion	gestion	NC	NC	n=s|g=f	
+11	de	de	P	P		
+12	la	la	DET	DET	n=s|g=f	
+13	population	population	NC	NC	n=s|g=f	
+14	de	de	P	P		
+15	Caracals	_	NPP	NPP		
+16	en	en	P	P		
+17	captivité	captivité	NC	NC	n=s|g=f	
+18	comme	comme	P	P		
+19	l'	le	DET	DET	n=s	
+20	Association	_	NPP	NPP		
+21	Européenne	_	NPP	NPP		
+22	des	de	P+D	P+D	n=p	
+23	Zoos	_	NPP	NPP		
+24	et	et	CC	CC		
+25	des	de	P+D	P+D	n=p	
+26	Aquariums	_	NPP	NPP		
+27	(	(	PONCT	PONCT		
+28	EAZA	_	NPP	NPP		
+29	)	)	PONCT	PONCT		
+30	ou	ou	CC	CC		
+31	l'	le	DET	DET	n=s	
+32	Association	association	NC	NC	n=s|g=f	
+33	des	de	P+D	P+D	n=p	
+34	Zoos	_	NPP	NPP		
+35	et	et	CC	CC		
+36	des	de	P+D	P+D	n=p	
+37	Aquariums	aquarium	NC	NC	n=p|g=m	
+38	nord	_	NPP	NPP		
+39	-	-	PONCT	PONCT		
+40	américains	américain	ADJ	ADJ	n=p|g=m	
+41	(	(	PONCT	PONCT		
+42	AZA	_	NPP	NPP		
+43	)	)	PONCT	PONCT		
+44	.	.	PONCT	PONCT		
+
+1	Plusieurs	plusieurs	DET	DET	n=p	
+2	naissances	naissance	NC	NC	n=p|g=f	
+3	de	de	P	P		
+4	Caracals	_	NPP	NPP		
+5	ont	avoir	V	V	n=p|t=P|p=3	
+6	été	être	VPP	VPP	t=K	
+7	enregistrées	enregistrer	VPP	VPP	n=p|g=f|t=K	
+8	ces	ces	DET	DET	n=p	
+9	dernières	dernier	ADJ	ADJ	n=p|g=f	
+10	années	année	NC	NC	n=p|g=f	
+11	dans	dans	P	P		
+12	différents	différent	ADJ	ADJ	n=p|g=m	
+13	zoos	zoo	NC	NC	n=p|g=m	
+14	:	:	PONCT	PONCT		
+15	au	à	P+D	P+D	n=s|g=m	
+16	zoo	zoo	NC	NC	n=s|g=m	
+17	de	de	P	P		
+18	Mysore	_	NPP	NPP		
+19	(	(	PONCT	PONCT		
+20	2007	2007	NC	NC		
+21	)	)	PONCT	PONCT		
+22	en	en	P	P		
+23	Inde	Inde	NPP	NPP	n=s|g=f	
+24	,	,	PONCT	PONCT		
+25	au	à	P+D	P+D	n=s|g=m	
+26	zoo	zoo	NC	NC	n=s|g=m	
+27	de	de	P	P		
+28	l'	le	DET	DET	n=s	
+29	Oregon	Oregon	NPP	NPP	n=s|g=m	
+30	(	(	PONCT	PONCT		
+31	2011	2011	NC	NC		
+32	)	)	PONCT	PONCT		
+33	à	à	P	P		
+34	Portland	_	NPP	NPP		
+35	aux	à	P+D	P+D	n=p	
+36	États	État	NC	NC	n=p|g=m	
+37	-	-	PONCT	PONCT		
+38	Unis	uni	ADJ	ADJ	n=p|g=m|t=K	
+39	,	,	PONCT	PONCT		
+40	au	à	P+D	P+D	n=s|g=m	
+41	zoo	zoo	NC	NC	n=s|g=m	
+42	de	de	P	P		
+43	Bratislava	Bratislava	NPP	NPP	n=s|g=m	
+44	(	(	PONCT	PONCT		
+45	2012	2012	NC	NC		
+46	)	)	PONCT	PONCT		
+47	,	,	PONCT	PONCT		
+48	au	à	P+D	P+D	n=s|g=m	
+49	zoo	zoo	NC	NC	n=s|g=m	
+50	d'	de	P	P		
+51	Exmoor	_	NPP	NPP		
+52	(	(	PONCT	PONCT		
+53	2013	2013	NC	NC		
+54	)	)	PONCT	PONCT		
+55	en	en	P	P		
+56	Angleterre	Angleterre	NPP	NPP	n=s|g=f	
+57	et	et	CC	CC		
+58	au	à	P+D	P+D	n=s|g=m	
+59	zoo	zoo	NC	NC	n=s|g=m	
+60	de	de	P	P		
+61	Berlin	Berlin	NPP	NPP	n=s|g=f,m	
+62	(	(	PONCT	PONCT		
+63	2013	2013	NC	NC		
+64	)	)	PONCT	PONCT		
+65	.	.	PONCT	PONCT		
+
+1	A	à	P	P		
+2	l'	le	DET	DET	n=s	
+3	Île	île	NC	NC	n=s|g=f	
+4	Maurice	Maurice	NPP	NPP	n=s|g=m	
+5	au	à	P+D	P+D	n=s|g=m	
+6	Parc	_	NPP	NPP		
+7	Casela	_	NPP	NPP		
+8	(	(	PONCT	PONCT		
+9	2015	2015	NC	NC		
+10	)	)	PONCT	PONCT		
+11	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	caracal	caracal	NC	NC	n=s|g=m	
+3	a	avoir	V	V	n=s|t=P|p=3	
+4	été	être	VPP	VPP	t=K	
+5	utilisé	utiliser	VPP	VPP	n=s|g=m|t=K	
+6	par	par	P	P		
+7	l'	le	DET	DET	n=s	
+8	Homme	_	NPP	NPP		
+9	pour	pour	P	P		
+10	pratiquer	pratiquer	VINF	VINF	t=W	
+11	la	la	DET	DET	n=s|g=f	
+12	chasse	chasse	NC	NC	n=s|g=f	
+13	au	à	P+D	P+D	n=s|g=m	
+14	lapin	lapin	NC	NC	n=s|g=m	
+15	et	et	CC	CC		
+16	au	à	P+D	P+D	n=s|g=m	
+17	lièvre	lièvre	NC	NC	n=s|g=m	
+18	mais	mais	CC	CC		
+19	également	_	ADV	ADV		
+20	aux	à	P+D	P+D	n=p	
+21	gros	gros	ADJ	ADJ	g=m	
+22	oiseaux	oiseau	NC	NC	n=p|g=m	
+23	[	[	PONCT	PONCT		
+24	18	18	ADJ	ADJ		
+25	]	]	PONCT	PONCT		
+26	.	.	PONCT	PONCT		
+
+1	Cette	cette	DET	DET	n=s|g=f	
+2	pratique	pratique	NC	NC	n=s|g=f	
+3	ancienne	ancien	ADJ	ADJ	n=s|g=f	
+4	et	et	CC	CC		
+5	aujourd'hui	aujourd'hui	ADV	ADV		
+6	abandonnée	abandonner	VPP	VPP	n=s|g=f|t=K	
+7	,	,	PONCT	PONCT		
+8	était	être	V	V	n=s|t=I|p=3	
+9	réservée	réserver	VPP	VPP	n=s|g=f|t=K	
+10	à	à	P	P		
+11	la	la	DET	DET	n=s|g=f	
+12	noblesse	noblesse	NC	NC	n=s|g=f	
+13	du	de	P+D	P+D	n=s|g=m	
+14	sous	sou	NC	NC	n=p|g=m	
+15	-	-	PONCT	PONCT		
+16	continent	continent	NC	NC	n=s|g=m	
+17	indien	indien	ADJ	ADJ	n=s|g=m	
+18	[	[	PONCT	PONCT		
+19	249	249	NC	NC		
+20	]	]	PONCT	PONCT		
+21	et	et	CC	CC		
+22	d'	de	P	P		
+23	Orient	_	NPP	NPP		
+24	[	[	PONCT	PONCT		
+25	250	250	ADJ	ADJ		
+26	]	]	PONCT	PONCT		
+27	mais	mais	CC	CC		
+28	également	_	ADV	ADV		
+29	à	à	P	P		
+30	celle	celle	PRO	PRO	n=s|g=f	
+31	d'	de	P	P		
+32	Italie	Italie	NPP	NPP	n=s|g=f	
+33	au	à	P+D	P+D	n=s|g=m	
+34	moyen	moyen	ADJ	ADJ	n=s|g=m	
+35	-	-	PONCT	PONCT		
+36	age	age	NC	NC	n=s|g=m	
+37	[	[	PONCT	PONCT		
+38	250	250	ADJ	ADJ		
+39	]	]	PONCT	PONCT		
+40	.	.	PONCT	PONCT		
+
+1	Plus	plus	ADV	ADV		
+2	récemment	_	ADV	ADV		
+3	,	,	PONCT	PONCT		
+4	le	le	DET	DET	n=s|g=m	
+5	caracal	caracal	NC	NC	n=s|g=m	
+6	a	avoir	V	V	n=s|t=P|p=3	
+7	été	être	VPP	VPP	t=K	
+8	utilisé	utiliser	VPP	VPP	n=s|g=m|t=K	
+9	sur	sur	P	P		
+10	une	une	DET	DET	n=s|g=f	
+11	base	base	NC	NC	n=s|g=f	
+12	aérienne	aérien	ADJ	ADJ	n=s|g=f	
+13	militaire	militaire	ADJ	ADJ	n=s	
+14	d'	de	P	P		
+15	Afrique	Afrique	NPP	NPP	n=s|g=f	
+16	du	de	P+D	P+D	n=s|g=m	
+17	Sud	_	NPP	NPP		
+18	pour	pour	P	P		
+19	en	en	CLO	CLO		
+20	chasser	chasser	VINF	VINF	t=W	
+21	les	les	DET	DET	n=p	
+22	oiseaux	oiseau	NC	NC	n=p|g=m	
+23	[	[	PONCT	PONCT		
+24	21	21	ADJ	ADJ		
+25	]	]	PONCT	PONCT		
+26	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	fourrure	fourrure	NC	NC	n=s|g=f	
+3	du	de	P+D	P+D	n=s|g=m	
+4	caracal	caracal	NC	NC	n=s|g=m	
+5	ne	ne	ADV	ADV		
+6	semble	sembler	V	V	n=s|t=P,S|p=1,3	
+7	pas	pas	ADV	ADV		
+8	présenter	présenter	VINF	VINF	t=W	
+9	d'	de	P	P		
+10	intérêt	intérêt	NC	NC	n=s|g=m	
+11	commercial	commercial	ADJ	ADJ	n=s|g=m	
+12	[	[	PONCT	PONCT		
+13	38	38	NC	NC		
+14	]	]	PONCT	PONCT		
+15	.	.	PONCT	PONCT		
+
+1	Des	des	DET	DET	n=p	
+2	cas	cas	NC	NC	g=m	
+3	de	de	P	P		
+4	domestication	domestication	NC	NC	n=s|g=f	
+5	peuvent	pouvoir	V	V	n=p|t=P|p=3	
+6	être	être	VINF	VINF	t=W	
+7	rencontrés	rencontrer	VPP	VPP	n=p|g=m|t=K	
+8	[	[	PONCT	PONCT		
+9	251	251	NC	NC		
+10	]	]	PONCT	PONCT		
+11	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	image	image	NC	NC	n=s|g=f	
+3	du	de	P+D	P+D	n=s|g=m	
+4	caracal	caracal	NC	NC	n=s|g=m	
+5	est	être	V	V	n=s|t=P|p=3	
+6	régulièrement	_	ADV	ADV		
+7	utilisée	utiliser	VPP	VPP	n=s|g=f|t=K	
+8	sur	sur	P	P		
+9	les	les	DET	DET	n=p	
+10	timbres	timbre	NC	NC	n=p|g=m	
+11	postaux	postal	ADJ	ADJ	n=p|g=m	
+12	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	caracal	caracal	NC	NC	n=s|g=m	
+3	fait	faire	V	V	n=s|t=P|p=3	
+4	généralement	_	ADV	ADV		
+5	partie	partie	NC	NC	n=s|g=f	
+6	de	de	P	P		
+7	la	la	DET	DET	n=s|g=f	
+8	faune	faune	NC	NC	n=s|g=f,m	
+9	des	de	P+D	P+D	n=p	
+10	pays	pays	NC	NC	g=m	
+11	qui	qui	PROREL	PROREL	n=s	
+12	émettent	émettre	V	V	n=p|t=P,S|p=3	
+13	ces	ces	DET	DET	n=p	
+14	timbres	timbre	NC	NC	n=p|g=m	
+15	(	(	PONCT	PONCT		
+16	Algérie	Algérie	NPP	NPP	n=s|g=f	
+17	1986	1986	NC	NC		
+18	,	,	PONCT	PONCT		
+19	Afrique	Afrique	NPP	NPP	n=s|g=f	
+20	du	de	P+D	P+D	n=s|g=m	
+21	Sud	_	NPP	NPP		
+22	2011	2011	ADJ	ADJ		
+23	,	,	PONCT	PONCT		
+24	Botswana	Botswana	NPP	NPP	n=s|g=m	
+25	1987	1987	NC	NC		
+26	,	,	PONCT	PONCT		
+27	République	république	NC	NC	n=s|g=f	
+28	Démocratique	_	NPP	NPP		
+29	du	de	P+D	P+D	n=s|g=m	
+30	Congo	Congo	NPP	NPP	n=s|g=m	
+31	1999	1999	ADJ	ADJ	s=card|n=p	
+32	,	,	PONCT	PONCT		
+33	Émirats	émirat	NC	NC	n=p|g=m	
+34	arabes	arabe	ADJ	ADJ	n=p	
+35	unis	uni	ADJ	ADJ	n=p|g=m|t=K	
+36	2003	2003	NC	NC		
+37	,	,	PONCT	PONCT		
+38	Guinée	Guinée	NPP	NPP	n=s|g=f	
+39	Equatoriale	_	NPP	NPP		
+40	1965	1965	NC	NC		
+41	,	,	PONCT	PONCT		
+42	Inde	Inde	NPP	NPP	n=s|g=f	
+43	1976	1976	NC	NC		
+44	,	,	PONCT	PONCT		
+45	Israël	Israël	NPP	NPP	n=s|g=m	
+46	1967	1967	NC	NC		
+47	,	,	PONCT	PONCT		
+48	Kirghizistan	Kirghizistan	NPP	NPP	n=s|g=m	
+49	1996	1996	NC	NC		
+50	,	,	PONCT	PONCT		
+51	Koweït	Koweït	NPP	NPP	n=s|g=m	
+52	2002	2002	NC	NC		
+53	,	,	PONCT	PONCT		
+54	Maroc	Maroc	NPP	NPP	n=s|g=m	
+55	1975	1975	NC	NC		
+56	,	,	PONCT	PONCT		
+57	Namibie	Namibie	NPP	NPP	n=s|g=f	
+58	2007	2007	NC	NC		
+59	,	,	PONCT	PONCT		
+60	Ouganda	Ouganda	NPP	NPP	n=s|g=m	
+61	2012	2012	NC	NC		
+62	et	et	CC	CC		
+63	2014	2014	NC	NC		
+64	,	,	PONCT	PONCT		
+65	Somalie	Somalie	NPP	NPP	n=s|g=f	
+66	1998	1998	NC	NC		
+67	,	,	PONCT	PONCT		
+68	Territoire	territoire	NC	NC	n=s|g=m	
+69	français	français	ADJ	ADJ	g=m	
+70	des	de	P+D	P+D	n=p	
+71	Afars	_	NPP	NPP		
+72	et	et	CC	CC		
+73	des	de	P+D	P+D	n=p	
+74	Issas	_	NPP	NPP		
+75	1973	1973	NC	NC		
+76	,	,	PONCT	PONCT		
+77	URSS	Union_des_Républiques_Socialistes_Soviétiques	NPP	NPP	n=s|g=f	
+78	1985	1985	NC	NC		
+79	...	...	PONCT	PONCT		
+80	)	)	PONCT	PONCT		
+81	mais	mais	CC	CC		
+82	il	il	CLS	CLS	n=s|g=m|p=3	
+83	existe	exister	V	V	n=s|t=P,S|p=1,3	
+84	des	des	DET	DET	n=p	
+85	exceptions	exception	NC	NC	n=p|g=f	
+86	(	(	PONCT	PONCT		
+87	Cambodge	Cambodge	NPP	NPP	n=s|g=m	
+88	1996	1996	NC	NC		
+89	,	,	PONCT	PONCT		
+90	Îles	île	NC	NC	n=p|g=f	
+91	Marshall	Marshall	NPP	NPP	n=s|g=m	
+92	2009	2009	NC	NC		
+93	,	,	PONCT	PONCT		
+94	Laos	Laos	NPP	NPP	n=s|g=m	
+95	1981	1981	NC	NC		
+96	...	...	PONCT	PONCT		
+97	)	)	PONCT	PONCT		
+98	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	caracal	caracal	NC	NC	n=s|g=m	
+3	figure	figurer	V	V	n=s|t=P,S|p=1,3	
+4	également	_	ADV	ADV		
+5	sur	sur	P	P		
+6	des	des	DET	DET	n=p	
+7	séries	série	NC	NC	n=p|g=f	
+8	spéciales	spécial	ADJ	ADJ	n=p|g=f	
+9	de	de	P	P		
+10	pièces	pièce	NC	NC	n=p|g=f	
+11	de	de	P	P		
+12	monnaie	monnaie	NC	NC	n=s|g=f	
+13	en	en	P	P		
+14	argent	argent	NC	NC	n=s|g=m	
+15	(	(	PONCT	PONCT		
+16	Oman	Oman	NPP	NPP	n=s|g=m	
+17	1977	1977	NC	NC		
+18	(	(	PONCT	PONCT		
+19	2	2	NC	NC		
+20	½	_	ADJ	ADJ		
+21	rials	rial	NC	NC	n=p|g=m	
+22	)	)	PONCT	PONCT		
+23	,	,	PONCT	PONCT		
+24	Kazakhstan	Kazakhstan	NPP	NPP	n=s|g=m	
+25	2009	2009	NC	NC		
+26	(	(	PONCT	PONCT		
+27	100	100	ADJ	ADJ		
+28	tenges	_	NC	NC		
+29	)	)	PONCT	PONCT		
+30	,	,	PONCT	PONCT		
+31	Turkménistan	Turkménistan	NPP	NPP	n=s|g=m	
+32	1999	1999	ADJ	ADJ	s=card|n=p	
+33	(	(	PONCT	PONCT		
+34	500	500	ADJ	ADJ		
+35	manats	_	NC	NC		
+36	)	)	PONCT	PONCT		
+37	)	)	PONCT	PONCT		
+38	ou	ou	CC	CC		
+39	en	en	P	P		
+40	or	or	NC	NC	n=s|g=m	
+41	(	(	PONCT	PONCT		
+42	Afrique	Afrique	NPP	NPP	n=s|g=f	
+43	du	de	P+D	P+D	n=s|g=m	
+44	sud	_	NPP	NPP		
+45	2004	2004	NC	NC		
+46	(	(	PONCT	PONCT		
+47	10	10	NC	NC		
+48	,	,	PONCT	PONCT		
+49	20	20	NC	NC		
+50	,	,	PONCT	PONCT		
+51	50	50	NC	NC		
+52	,	,	PONCT	PONCT		
+53	100	100	ADJ	ADJ		
+54	rands	_	NC	NC		
+55	)	)	PONCT	PONCT		
+56	)	)	PONCT	PONCT		
+57	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	caracal	caracal	NC	NC	n=s|g=m	
+3	a	avoir	V	V	n=s|t=P|p=3	
+4	été	être	VPP	VPP	t=K	
+5	choisi	choisir	VPP	VPP	n=s|g=m|t=K	
+6	comme	comme	P	P		
+7	mascotte	mascotte	NC	NC	n=s|g=f	
+8	des	de	P+D	P+D	n=p	
+9	13e	_	ADJ	ADJ		
+10	championnats	championnat	NC	NC	n=p|g=m	
+11	du	de	P+D	P+D	n=s|g=m	
+12	monde	monde	NC	NC	n=s|g=m	
+13	d'	de	P	P		
+14	athlétisme	athlétisme	NC	NC	n=s|g=m	
+15	en	en	P	P		
+16	salle	salle	NC	NC	n=s|g=f	
+17	qui	qui	PROREL	PROREL	n=s	
+18	ont	avoir	V	V	n=p|t=P|p=3	
+19	eu	avoir	VPP	VPP	n=s|g=m|t=K	
+20	lieu	lieu	NC	NC	n=s|g=m	
+21	à	à	P	P		
+22	Doha	Doha	NPP	NPP	n=s|g=m	
+23	au	à	P+D	P+D	n=s|g=m	
+24	Qatar	Qatar	NPP	NPP	n=s|g=m	
+25	en	en	P	P		
+26	2010	2010	NC	NC		
+27	.	.	PONCT	PONCT		
+
+1	Ses	ses	DET	DET	n=p|p=3|poss=s	
+2	aptitudes	aptitude	NC	NC	n=p|g=f	
+3	de	de	P	P		
+4	prédateur	prédateur	NC	NC	n=s|g=m	
+5	valent	valoir	V	V	n=p|t=P|p=3	
+6	probablement	_	ADV	ADV		
+7	au	à	P+D	P+D	n=s|g=m	
+8	caracal	caracal	NC	NC	n=s|g=m	
+9	une	une	DET	DET	n=s|g=f	
+10	utilisation	utilisation	NC	NC	n=s|g=f	
+11	de	de	P	P		
+12	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+13	image	image	NC	NC	n=s|g=f	
+14	dans	dans	P	P		
+15	le	le	DET	DET	n=s|g=m	
+16	domaine	domaine	NC	NC	n=s|g=m	
+17	militaire	militaire	ADJ	ADJ	n=s	
+18	.	.	PONCT	PONCT		
+
+1	Ainsi	ainsi	ADV	ADV		
+2	,	,	PONCT	PONCT		
+3	caracal	caracal	NC	NC	n=s|g=m	
+4	est	être	V	V	n=s|t=P|p=3	
+5	le	le	DET	DET	n=s|g=m	
+6	nom	nom	NC	NC	n=s|g=m	
+7	utilisé	utiliser	VPP	VPP	n=s|g=m|t=K	
+8	dans	dans	P	P		
+9	l'	le	DET	DET	n=s	
+10	armée	armée	NC	NC	n=s|g=f	
+11	de	de	P	P		
+12	l'	le	DET	DET	n=s	
+13	air	air	NC	NC	n=s|g=m	
+14	française	français	ADJ	ADJ	n=s|g=f	
+15	pour	pour	P	P		
+16	désigner	désigner	VINF	VINF	t=W	
+17	l'	le	DET	DET	n=s	
+18	hélicoptère	hélicoptère	NC	NC	n=s|g=m	
+19	militaire	militaire	ADJ	ADJ	n=s	
+20	Eurocopter	_	NPP	NPP		
+21	EC725	_	NPP	NPP		
+22	Caracal	_	NPP	NPP		
+23	et	et	CC	CC		
+24	c'	ce	CLS	CLS		
+25	est	être	V	V	n=s|t=P|p=3	
+26	également	_	ADV	ADV		
+27	le	le	DET	DET	n=s|g=m	
+28	nom	nom	NC	NC	n=s|g=m	
+29	d'	de	P	P		
+30	un	un	DET	DET	n=s|g=m	
+31	véhicule	véhicule	NC	NC	n=s|g=m	
+32	militaire	militaire	ADJ	ADJ	n=s	
+33	blindé	blindé	NC	NC	n=s|g=m	
+34	d'	de	P	P		
+35	origine	origine	NC	NC	n=s|g=f	
+36	israélienne	israélien	ADJ	ADJ	n=s|g=f	
+37	,	,	PONCT	PONCT		
+38	le	le	DET	DET	n=s|g=m	
+39	Plasan	_	NC	NC		
+40	Sand	Sand	NPP	NPP	n=s|g=m	
+41	Cat	_	NPP	NPP		
+42	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	société	société	NC	NC	n=s|g=f	
+3	Caracal	_	NPP	NPP		
+4	International	_	NPP	NPP		
+5	LLC	_	NPP	NPP		
+6	des	de	P+D	P+D	n=p	
+7	Émirats	émirat	NC	NC	n=p|g=m	
+8	arabes	arabe	ADJ	ADJ	n=p	
+9	unis	uni	NC	NC	n=p|g=m	
+10	produit	produire	V	V	n=s|t=P|p=3	
+11	le	le	DET	DET	n=s|g=m	
+12	pistolet	pistolet	NC	NC	n=s|g=m	
+13	Caracal	_	NPP	NPP		
+14	.	.	PONCT	PONCT		
+
+1	Une	une	DET	DET	n=s|g=f	
+2	unité	unité	NC	NC	n=s|g=f	
+3	de	de	P	P		
+4	l'	le	DET	DET	n=s	
+5	armée	armée	NC	NC	n=s|g=f	
+6	israélienne	israélien	ADJ	ADJ	n=s|g=f	
+7	porte	porter	V	V	n=s|t=P,S|p=1,3	
+8	également	_	ADV	ADV		
+9	le	le	DET	DET	n=s|g=m	
+10	nom	nom	NC	NC	n=s|g=m	
+11	de	de	P	P		
+12	bataillon	bataillon	NC	NC	n=s|g=m	
+13	Caracal	_	NPP	NPP		
+14	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	Homme	_	NPP	NPP		
+3	représente	représenter	V	V	n=s|t=P,S|p=1,3	
+4	le	le	DET	DET	n=s|g=m	
+5	caracal	caracal	NC	NC	n=s|g=m	
+6	depuis	depuis	P	P		
+7	l'	le	DET	DET	n=s	
+8	antiquité	antiquité	NC	NC	n=s|g=f	
+9	.	.	PONCT	PONCT		
+
+1	Sur	sur	P	P		
+2	les	les	DET	DET	n=p	
+3	représentations	représentation	NC	NC	n=p|g=f	
+4	les	les	DET	DET	n=p	
+5	plus	plus	ADV	ADV		
+6	anciennes	ancien	ADJ	ADJ	n=p|g=f	
+7	,	,	PONCT	PONCT		
+8	l'	le	DET	DET	n=s	
+9	identification	identification	NC	NC	n=s|g=f	
+10	sans	sans	P	P		
+11	ambiguïté	ambiguïté	NC	NC	n=s|g=f	
+12	du	de	P+D	P+D	n=s|g=m	
+13	caracal	caracal	NC	NC	n=s|g=m	
+14	est	être	V	V	n=s|t=P|p=3	
+15	difficile	difficile	ADJ	ADJ	n=s	
+16	du	de	P+D	P+D	n=s|g=m	
+17	fait	fait	NC	NC	n=s|g=m	
+18	des	de	P+D	P+D	n=p	
+19	traits	trait	NC	NC	n=p|g=m	
+20	stylisés	styliser	VPP	VPP	n=p|g=m|t=K	
+21	utilisés	utiliser	VPP	VPP	n=p|g=m|t=K	
+22	,	,	PONCT	PONCT		
+23	de	de	P	P		
+24	leur	leur	DET	DET	n=s|p=3|poss=p	
+25	état	état	NC	NC	n=s|g=m	
+26	de	de	P	P		
+27	conservation	conservation	NC	NC	n=s|g=f	
+28	et	et	CC	CC		
+29	de	de	P	P		
+30	la	la	DET	DET	n=s|g=f	
+31	ressemblance	ressemblance	NC	NC	n=s|g=f	
+32	du	de	P+D	P+D	n=s|g=m	
+33	caracal	caracal	NC	NC	n=s|g=m	
+34	avec	avec	P	P		
+35	le	le	DET	DET	n=s|g=m	
+36	lynx	lynx	NC	NC	g=m	
+37	et	et	CC	CC		
+38	le	le	DET	DET	n=s|g=m	
+39	serval	serval	NC	NC	n=s|g=m	
+40	notamment	_	ADV	ADV		
+41	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	panthéon	panthéon	NC	NC	n=s|g=m	
+3	de	de	P	P		
+4	l'	le	DET	DET	n=s	
+5	Égypte	Égypte	NPP	NPP	n=s|g=f	
+6	antique	antique	ADJ	ADJ	n=s	
+7	comporte	comporter	V	V	n=s|t=P,S|p=1,3	
+8	de	de	DET	DET	n=p	
+9	nombreuses	nombreux	ADJ	ADJ	n=p|g=f	
+10	divinités	divinité	NC	NC	n=p|g=f	
+11	à	à	P	P		
+12	tête	tête	NC	NC	n=s|g=f	
+13	de	de	P	P		
+14	félin	félin	NC	NC	n=s|g=m	
+15	.	.	PONCT	PONCT		
+
+1	Certaines	certain	PRO	PRO	n=p|g=f	
+2	pourraient	pouvoir	V	V	n=p|t=C|p=3	
+3	combiner	combiner	VINF	VINF	t=W	
+4	plusieurs	plusieurs	DET	DET	n=p	
+5	espèces	espèce	NC	NC	n=p|g=f	
+6	dont	dont	PROREL	PROREL		
+7	le	le	DET	DET	n=s|g=m	
+8	caracal	caracal	NC	NC	n=s|g=m	
+9	comme	comme	P	P		
+10	les	les	DET	DET	n=p	
+11	déesses	déesse	NC	NC	n=p|g=f	
+12	Mafdet	_	NPP	NPP		
+13	,	,	PONCT	PONCT		
+14	Bastet	_	NPP	NPP		
+15	et	et	CC	CC		
+16	Sekhmet	_	NPP	NPP		
+17	et	et	CC	CC		
+18	conséquemment	_	NC	NC		
+19	Pakhet	_	NPP	NPP		
+20	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	existe	exister	V	V	n=s|t=P,S|p=1,3	
+3	peu	peu	ADV	ADV		
+4	de	de	P	P		
+5	représentation	représentation	NC	NC	n=s|g=f	
+6	du	de	P+D	P+D	n=s|g=m	
+7	caracal	caracal	NC	NC	n=s|g=m	
+8	proprement	_	ADV	ADV		
+9	dit	dire	VPP	VPP	n=s|g=m|t=K	
+10	dans	dans	P	P		
+11	l'	le	DET	DET	n=s	
+12	ancienne	ancien	ADJ	ADJ	n=s|g=f	
+13	Égypte	Égypte	NPP	NPP	n=s|g=f	
+14	[	[	PONCT	PONCT		
+15	252	252	NC	NC		
+16	]	]	PONCT	PONCT		
+17	.	.	PONCT	PONCT		
+
+1	Ces	ces	DET	DET	n=p	
+2	quelques	quelque	ADJ	ADJ	n=p	
+3	représentations	représentation	NC	NC	n=p|g=f	
+4	décorent	décorer	V	V	n=p|t=P,S|p=3	
+5	des	des	DET	DET	n=p	
+6	tombes	tombe	NC	NC	n=p|g=f	
+7	[	[	PONCT	PONCT		
+8	253	253	NC	NC		
+9	]	]	PONCT	PONCT		
+10	comme	comme	P	P		
+11	celle	celle	PRO	PRO	n=s|g=f	
+12	d'	de	P	P		
+13	Antefoker	_	NPP	NPP		
+14	de	de	P	P		
+15	la	la	DET	DET	n=s|g=f	
+16	nécropole	nécropole	NC	NC	n=s|g=f	
+17	de	de	P	P		
+18	Thèbes	_	NPP	NPP		
+19	(	(	PONCT	PONCT		
+20	XIIe	_	NPP	NPP		
+21	dynastie	dynastie	NC	NC	n=s|g=f	
+22	,	,	PONCT	PONCT		
+23	règne	régner	V	V	n=s|t=P,S|p=1,3	
+24	de	de	P	P		
+25	Sésostris	_	NPP	NPP		
+26	Ier	_	NPP	NPP		
+27	,	,	PONCT	PONCT		
+28	XXe	_	ADJ	ADJ		
+29	siècle	siècle	NC	NC	n=s|g=m	
+30	av	_	ADV	ADV		
+31	.	.	PONCT	PONCT		
+
+1	J	_	NPP	NPP		
+2	.	.	PONCT	PONCT		
+3	-	-	PONCT	PONCT		
+4	C	femelle	ADJ	ADJ		
+5	.	.	PONCT	PONCT		
+6	)	)	PONCT	PONCT		
+7	[	[	PONCT	PONCT		
+8	254	254	NC	NC		
+9	]	]	PONCT	PONCT		
+10	ou	ou	CC	CC		
+11	celle	celle	PRO	PRO	n=s|g=f	
+12	de	de	P	P		
+13	Khnumhotep	_	NPP	NPP		
+14	III	_	NPP	NPP		
+15	(	(	PONCT	PONCT		
+16	XIIe	_	NPP	NPP		
+17	dynastie	dynastie	NC	NC	n=s|g=f	
+18	,	,	PONCT	PONCT		
+19	règne	régner	V	V	n=s|t=P,S|p=1,3	
+20	de	de	P	P		
+21	Sésostris	_	NPP	NPP		
+22	II	_	NPP	NPP		
+23	,	,	PONCT	PONCT		
+24	XIXe	_	ADJ	ADJ		
+25	siècle	siècle	NC	NC	n=s|g=m	
+26	av	_	ADV	ADV		
+27	.	.	PONCT	PONCT		
+
+1	J	_	NPP	NPP		
+2	.	.	PONCT	PONCT		
+3	-	-	PONCT	PONCT		
+4	C	femelle	ADJ	ADJ		
+5	.	.	PONCT	PONCT		
+6	)	)	PONCT	PONCT		
+7	de	de	P	P		
+8	la	la	DET	DET	n=s|g=f	
+9	nécropole	nécropole	NC	NC	n=s|g=f	
+10	de	de	P	P		
+11	Beni	_	NPP	NPP		
+12	Hassan	Hassan	NPP	NPP	n=s|g=m	
+13	[	[	PONCT	PONCT		
+14	255	255	NC	NC		
+15	]	]	PONCT	PONCT		
+16	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	Caracal	_	NPP	NPP		
+3	,	,	PONCT	PONCT		
+4	comme	comme	P	P		
+5	de	de	DET	DET	n=p	
+6	nombreux	nombreux	ADJ	ADJ	g=m	
+7	autres	autre	ADJ	ADJ	n=p	
+8	animaux	animal	NC	NC	n=p|g=m	
+9	tels	tel	ADJ	ADJ	n=p|g=m	
+10	le	le	DET	DET	n=s|g=m	
+11	chat	chat	NC	NC	n=s|g=m	
+12	ou	ou	CC	CC		
+13	le	le	DET	DET	n=s|g=m	
+14	chacal	chacal	NC	NC	n=s|g=m	
+15	,	,	PONCT	PONCT		
+16	a	avoir	V	V	n=s|t=P|p=3	
+17	fait	faire	VPP	VPP	n=s|g=m|t=K	
+18	l'	le	DET	DET	n=s	
+19	objet	objet	NC	NC	n=s|g=m	
+20	d'	de	P	P		
+21	un	un	DET	DET	n=s|g=m	
+22	culte	culte	NC	NC	n=s|g=m	
+23	en	en	P	P		
+24	tant	tant	ADV	ADV		
+25	qu'	que	CS	CS		
+26	animal	animal	NC	NC	n=s|g=m	
+27	sacré	sacrer	ADJ	ADJ	n=s|g=m|t=K	
+28	[	[	PONCT	PONCT		
+29	256	256	NC	NC		
+30	]	]	PONCT	PONCT		
+31	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	caracal	caracal	NC	NC	n=s|g=m	
+3	figure	figurer	V	V	n=s|t=P,S|p=1,3	
+4	sur	sur	P	P		
+5	les	les	DET	DET	n=p	
+6	gravures	gravure	NC	NC	n=p|g=f	
+7	rupestres	rupestre	ADJ	ADJ	n=p	
+8	du	de	P+D	P+D	n=s|g=m	
+9	Wadi	_	NPP	NPP		
+10	Ramm	_	NPP	NPP		
+11	dans	dans	P	P		
+12	le	le	DET	DET	n=s|g=m	
+13	sud	sud	NC	NC	n=s|g=m	
+14	de	de	P	P		
+15	la	la	DET	DET	n=s|g=f	
+16	Jordanie	Jordanie	NPP	NPP	n=s|g=f	
+17	[	[	PONCT	PONCT		
+18	257	257	ADJ	ADJ		
+19	]	]	PONCT	PONCT		
+20	dont	dont	PROREL	PROREL		
+21	les	les	DET	DET	n=p	
+22	plus	plus	ADV	ADV		
+23	anciennes	ancien	ADJ	ADJ	n=p|g=f	
+24	semblent	sembler	V	V	n=p|t=P,S|p=3	
+25	dater	dater	VINF	VINF	t=W	
+26	de	de	P	P		
+27	l'	le	DET	DET	n=s	
+28	âge	âge	NC	NC	n=s|g=m	
+29	du	de	P+D	P+D	n=s|g=m	
+30	bronze	bronze	NC	NC	n=s|g=m	
+31	ancien	ancien	ADJ	ADJ	n=s|g=m	
+32	[	[	PONCT	PONCT		
+33	257	257	ADJ	ADJ		
+34	]	]	PONCT	PONCT		
+35	(	(	PONCT	PONCT		
+36	XVIIIe	_	ADJ	ADJ		
+37	siècle	siècle	NC	NC	n=s|g=m	
+38	av	_	ADV	ADV		
+39	.	.	PONCT	PONCT		
+
+1	J	_	NPP	NPP		
+2	.	.	PONCT	PONCT		
+3	-	-	PONCT	PONCT		
+4	C	femelle	ADJ	ADJ		
+5	.	.	PONCT	PONCT		
+6	)	)	PONCT	PONCT		
+7	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	mosaïque	mosaïque	NC	NC	n=s|g=f	
+3	du	de	P+D	P+D	n=s|g=m	
+4	Nil	Nil	NPP	NPP	n=s|g=m	
+5	(	(	PONCT	PONCT		
+6	IIe	_	ADJ	ADJ		
+7	siècle	siècle	NC	NC	n=s|g=m	
+8	av	_	ADV	ADV		
+9	.	.	PONCT	PONCT		
+
+1	J	_	NPP	NPP		
+2	.	.	PONCT	PONCT		
+3	-	-	PONCT	PONCT		
+4	C	femelle	ADJ	ADJ		
+5	.	.	PONCT	PONCT		
+6	)	)	PONCT	PONCT		
+7	de	de	P	P		
+8	Palestrina	_	NPP	NPP		
+9	comporte	comporter	V	V	n=s|t=P,S|p=1,3	
+10	une	une	DET	DET	n=s|g=f	
+11	représentation	représentation	NC	NC	n=s|g=f	
+12	de	de	P	P		
+13	caracal	caracal	NC	NC	n=s|g=m	
+14	(	(	PONCT	PONCT		
+15	décrit	décrire	VPP	VPP	n=s|g=m|t=K	
+16	par	par	P	P		
+17	l'	le	DET	DET	n=s	
+18	inscription	inscription	NC	NC	n=s|g=f	
+19	lynx	lynx	NC	NC	g=m	
+20	)	)	PONCT	PONCT		
+21	reconnaissable	reconnaissable	ADJ	ADJ	n=s	
+22	à	à	P	P		
+23	ses	ses	DET	DET	n=p|p=3|poss=s	
+24	longs	long	ADJ	ADJ	n=p|g=m	
+25	pinceaux	pinceau	NC	NC	n=p|g=m	
+26	sur	sur	P	P		
+27	les	les	DET	DET	n=p	
+28	oreilles	oreille	NC	NC	n=p|g=f	
+29	[	[	PONCT	PONCT		
+30	258	258	NC	NC		
+31	]	]	PONCT	PONCT		
+32	.	.	PONCT	PONCT		
+
+1	Un	un	DET	DET	n=s|g=m	
+2	caracal	caracal	NC	NC	n=s|g=m	
+3	attaquant	attaquer	VPR	VPR	t=G	
+4	un	un	DET	DET	n=s|g=m	
+5	mouflon	mouflon	NC	NC	n=s|g=m	
+6	est	être	V	V	n=s|t=P|p=3	
+7	représenté	représenter	VPP	VPP	n=s|g=m|t=K	
+8	sur	sur	P	P		
+9	le	le	DET	DET	n=s|g=m	
+10	verso	verso	NC	NC	n=s|g=m	
+11	n°	numéro	NC	NC	g=m	
+12	38	38	NC	NC		
+13	du	de	P+D	P+D	n=s|g=m	
+14	Papyrus	_	NPP	NPP		
+15	d'	de	P	P		
+16	Artémidore	_	NPP	NPP		
+17	(	(	PONCT	PONCT		
+18	Ier	_	NPP	NPP		
+19	siècle	siècle	NC	NC	n=s|g=m	
+20	av	_	NPP	NPP		
+21	.	.	PONCT	PONCT		
+
+1	J	_	NPP	NPP		
+2	.	.	PONCT	PONCT		
+3	-	-	PONCT	PONCT		
+4	C	femelle	ADJ	ADJ		
+5	.	.	PONCT	PONCT		
+6	)	)	PONCT	PONCT		
+7	[	[	PONCT	PONCT		
+8	259	259	NC	NC		
+9	]	]	PONCT	PONCT		
+10	.	.	PONCT	PONCT		
+
+1	Bien	bien	ADV	ADV		
+2	que	que	CS	CS		
+3	l'	le	DET	DET	n=s	
+4	authenticité	authenticité	NC	NC	n=s|g=f	
+5	du	de	P+D	P+D	n=s|g=m	
+6	papyrus	papyrus	NC	NC	g=m	
+7	soit	être	VS	VS	n=s|t=S|p=3	
+8	controversée	controverser	VPP	VPP	n=s|g=f|t=K	
+9	,	,	PONCT	PONCT		
+10	il	il	CLS	CLS	n=s|g=m|p=3	
+11	est	être	V	V	n=s|t=P|p=3	
+12	à	à	P	P		
+13	noter	noter	VINF	VINF	t=W	
+14	que	que	CS	CS		
+15	le	le	DET	DET	n=s|g=m	
+16	caracal	caracal	NC	NC	n=s|g=m	
+17	(	(	PONCT	PONCT		
+18	dénommé	dénommer	VPP	VPP	n=s|g=m|t=K	
+19	lynx	lynx	NC	NC	g=m	
+20	sur	sur	P	P		
+21	le	le	DET	DET	n=s|g=m	
+22	papyrus	papyrus	NC	NC	g=m	
+23	)	)	PONCT	PONCT		
+24	fait	faire	V	V	n=s|t=P|p=3	
+25	partie	partie	NC	NC	n=s|g=f	
+26	des	de	P+D	P+D	n=p	
+27	44	44	NC	NC		
+28	animaux	animal	NC	NC	n=p|g=m	
+29	représentés	représenter	VPP	VPP	n=p|g=m|t=K	
+30	[	[	PONCT	PONCT		
+31	259	259	NC	NC		
+32	]	]	PONCT	PONCT		
+33	.	.	PONCT	PONCT		
+
+1	Plusieurs	plusieurs	DET	DET	n=p	
+2	rhytons	_	NC	NC		
+3	en	en	P	P		
+4	argent	argent	NC	NC	n=s|g=m	
+5	figurant	figurer	VPR	VPR	t=G	
+6	le	le	DET	DET	n=s|g=m	
+7	caracal	caracal	NC	NC	n=s|g=m	
+8	,	,	PONCT	PONCT		
+9	datés	dater	VPP	VPP	n=p|g=m|t=K	
+10	du	de	P+D	P+D	n=s|g=m	
+11	Ier	_	ADJ	ADJ		
+12	siècle	siècle	NC	NC	n=s|g=m	
+13	av	_	ADV	ADV		
+14	.	.	PONCT	PONCT		
+
+1	J	_	NPP	NPP		
+2	.	.	PONCT	PONCT		
+3	-	-	PONCT	PONCT		
+4	C	femelle	ADJ	ADJ		
+5	.	.	PONCT	PONCT		
+6	et	et	CC	CC		
+7	provenant	provenir	VPR	VPR	t=G	
+8	d'	de	P	P		
+9	Iran	Iran	NPP	NPP	n=s|g=m	
+10	ou	ou	CC	CC		
+11	d'	de	P	P		
+12	Asie	Asie	NPP	NPP	n=s|g=f	
+13	centrale	central	ADJ	ADJ	n=s|g=f	
+14	(	(	PONCT	PONCT		
+15	Empire	empire	NC	NC	n=s|g=m	
+16	parthe	parthe	ADJ	ADJ	n=s	
+17	)	)	PONCT	PONCT		
+18	,	,	PONCT	PONCT		
+19	sont	être	V	V	n=p|t=P|p=3	
+20	visibles	visible	ADJ	ADJ	n=p	
+21	au	à	P+D	P+D	n=s|g=m	
+22	musée	musée	NC	NC	n=s|g=m	
+23	Miho	_	NPP	NPP		
+24	de	de	P	P		
+25	Kyoto	_	NPP	NPP		
+26	au	à	P+D	P+D	n=s|g=m	
+27	Japon	Japon	NPP	NPP	n=s|g=m	
+28	.	.	PONCT	PONCT		
+
+1	Un	un	DET	DET	n=s|g=m	
+2	autre	autre	ADJ	ADJ	n=s	
+3	est	être	V	V	n=s|t=P|p=3	
+4	exposé	exposer	VPP	VPP	n=s|g=m|t=K	
+5	au	à	P+D	P+D	n=s|g=m	
+6	Metropolitan	_	NPP	NPP		
+7	Museum	Museum	NC	NC	n=s|g=m	
+8	of	_	ADJ	ADJ		
+9	Art	Art	NPP	NPP	n=s|g=m	
+10	de	de	P	P		
+11	New	_	NPP	NPP		
+12	York	York	NPP	NPP	n=s|g=m	
+13	[	[	PONCT	PONCT		
+14	260	260	NC	NC		
+15	]	]	PONCT	PONCT		
+16	.	.	PONCT	PONCT		
+
+1	Dans	dans	P	P		
+2	l'	le	DET	DET	n=s	
+3	Italie	Italie	NPP	NPP	n=s|g=f	
+4	du	de	P+D	P+D	n=s|g=m	
+5	Moyen	Moyen	NPP	NPP	n=s|g=m	
+6	Âge	_	NPP	NPP		
+7	,	,	PONCT	PONCT		
+8	quelques	quelques	DET	DET	n=p	
+9	illustrations	illustration	NC	NC	n=p|g=f	
+10	de	de	P	P		
+11	félins	félin	NC	NC	n=p|g=m	
+12	pouvant	pouvoir	VPR	VPR	t=G	
+13	être	être	VINF	VINF	t=W	
+14	identifiés	identifier	VPP	VPP	n=p|g=m|t=K	
+15	au	à	P+D	P+D	n=s|g=m	
+16	caracal	caracal	NC	NC	n=s|g=m	
+17	peuvent	pouvoir	V	V	n=p|t=P|p=3	
+18	être	être	VINF	VINF	t=W	
+19	observées	observer	VPP	VPP	n=p|g=f|t=K	
+20	sur	sur	P	P		
+21	des	des	DET	DET	n=p	
+22	fresques	fresque	NC	NC	n=p|g=f	
+23	ou	ou	CC	CC		
+24	des	de	P+D	P+D	n=p	
+25	enluminures	enluminure	NC	NC	n=p|g=f	
+26	[	[	PONCT	PONCT		
+27	250	250	ADJ	ADJ		
+28	]	]	PONCT	PONCT		
+29	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	caracal	caracal	NC	NC	n=s|g=m	
+3	apparaît	apparaître	V	V	n=s|t=P|p=3	
+4	ainsi	ainsi	ADV	ADV		
+5	sur	sur	P	P		
+6	un	un	DET	DET	n=s|g=m	
+7	détail	détail	NC	NC	n=s|g=m	
+8	des	de	P+D	P+D	n=p	
+9	fresques	fresque	NC	NC	n=p|g=f	
+10	de	de	P	P		
+11	la	la	DET	DET	n=s|g=f	
+12	basilique	basilique	NC	NC	n=s|g=f	
+13	Sant	_	NPP	NPP		
+14	'	'	PONCT	PONCT		
+15	Angelo	Angelo	NPP	NPP	n=s|g=m	
+16	in	_	V	V		
+17	Formis	_	NPP	NPP		
+18	de	de	P	P		
+19	Capua	_	NPP	NPP		
+20	datées	dater	VPP	VPP	n=p|g=f|t=K	
+21	entre	entre	P	P		
+22	1072	1072	NC	NC		
+23	et	et	CC	CC		
+24	1087	1087	NC	NC		
+25	[	[	PONCT	PONCT		
+26	250	250	ADJ	ADJ		
+27	]	]	PONCT	PONCT		
+28	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	est	être	V	V	n=s|t=P|p=3	
+3	également	_	ADV	ADV		
+4	représenté	représenter	VPP	VPP	n=s|g=m|t=K	
+5	sur	sur	P	P		
+6	une	une	DET	DET	n=s|g=f	
+7	enluminure	enluminure	NC	NC	n=s|g=f	
+8	du	de	P+D	P+D	n=s|g=m	
+9	Liber	Liber	NPP	NPP	n=s|g=m	
+10	ad	_	NPP	NPP		
+11	honorem	_	NPP	NPP		
+12	Augusti	_	NPP	NPP		
+13	de	de	P	P		
+14	Pietro	Pietro	NPP	NPP	n=s|g=m	
+15	da	_	NPP	NPP		
+16	Eboli	_	NPP	NPP		
+17	datée	dater	VPP	VPP	n=s|g=f|t=K	
+18	de	de	P	P		
+19	1195-1197	1195-1197	NC	NC		
+20	[	[	PONCT	PONCT		
+21	250	250	ADJ	ADJ		
+22	]	]	PONCT	PONCT		
+23	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	orient	orient	NC	NC	n=s|g=m	
+3	,	,	PONCT	PONCT		
+4	Il	_	NPP	NPP		
+5	est	être	V	V	n=s|t=P|p=3	
+6	fait	faire	VPP	VPP	n=s|g=m|t=K	
+7	référence	référence	NC	NC	n=s|g=f	
+8	au	à	P+D	P+D	n=s|g=m	
+9	caracal	caracal	NC	NC	n=s|g=m	
+10	(	(	PONCT	PONCT		
+11	sous	sous	P	P		
+12	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+13	nom	nom	NC	NC	n=s|g=m	
+14	persan	persan	ADJ	ADJ	n=s|g=m	
+15	,	,	PONCT	PONCT		
+16	siyah	_	NC	NC		
+17	gosh	_	NPP	NPP		
+18	)	)	PONCT	PONCT		
+19	et	et	CC	CC		
+20	de	de	P	P		
+21	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+22	comportement	comportement	NC	NC	n=s|g=m	
+23	vis	vivre	V	V	n=s|t=P|p=1,2	
+24	-	-	PONCT	PONCT		
+25	à	à	P	P		
+26	-	-	PONCT	PONCT		
+27	vis	vis	NC	NC	g=f	
+28	du	de	P+D	P+D	n=s|g=m	
+29	lion	lion	NC	NC	n=s|g=m	
+30	dans	dans	P	P		
+31	le	le	DET	DET	n=s|g=m	
+32	Golestân	_	NPP	NPP		
+33	de	de	P	P		
+34	Saadi	_	NPP	NPP		
+35	,	,	PONCT	PONCT		
+36	œuvre	_	NC	NC		
+37	poétique	poétique	ADJ	ADJ	n=s	
+38	persane	persan	NC	NC	n=s|g=f	
+39	écrite	écrire	VPP	VPP	n=s|g=f|t=K	
+40	en	en	P	P		
+41	prose	prose	NC	NC	n=s|g=f	
+42	en	en	P	P		
+43	1259	1259	NC	NC		
+44	[	[	PONCT	PONCT		
+45	261	261	NC	NC		
+46	]	]	PONCT	PONCT		
+47	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	caracal	caracal	NC	NC	n=s|g=m	
+3	suit	suivre	V	V	n=s|t=P|p=3	
+4	le	le	DET	DET	n=s|g=m	
+5	lion	lion	NC	NC	n=s|g=m	
+6	pour	pour	P	P		
+7	se	se	CLR	CLR	n=p,s|p=3	
+8	nourrir	nourrir	VINF	VINF	t=W	
+9	de	de	P	P		
+10	ses	ses	DET	DET	n=p|p=3|poss=s	
+11	restes	reste	NC	NC	n=p|g=m	
+12	sans	sans	P	P		
+13	toutefois	toutefois	ADV	ADV		
+14	s'	se	CLR	CLR	n=p,s|p=3	
+15	approcher	approcher	VINF	VINF	t=W	
+16	trop	trop	ADV	ADV		
+17	au	à	P+D	P+D	n=s|g=m	
+18	risque	risque	NC	NC	n=s|g=m	
+19	d'	de	P	P		
+20	y	y	CLO	CLO		
+21	laisser	laisser	VINF	VINF	t=W	
+22	la	la	DET	DET	n=s|g=f	
+23	vie	vie	NC	NC	n=s|g=f	
+24	,	,	PONCT	PONCT		
+25	comportement	comportement	NC	NC	n=s|g=m	
+26	que	que	PROREL	PROREL		
+27	Saadi	_	NPP	NPP		
+28	rapproche	rapprocher	V	V	n=s|t=P,S|p=1,3	
+29	de	de	P	P		
+30	celui	celui	PRO	PRO	n=s|g=m	
+31	des	de	P+D	P+D	n=p	
+32	princes	prince	NC	NC	n=p|g=m	
+33	vis	vivre	V	V	n=s|t=P|p=1,2	
+34	-	-	PONCT	PONCT		
+35	à	à	P	P		
+36	-	-	PONCT	PONCT		
+37	vis	vis	NC	NC	g=f	
+38	du	de	P+D	P+D	n=s|g=m	
+39	sultan	sultan	NC	NC	n=s	
+40	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	caracal	caracal	NC	NC	n=s|g=m	
+3	est	être	V	V	n=s|t=P|p=3	
+4	communément	_	ADV	ADV		
+5	présent	présent	ADJ	ADJ	n=s|g=m	
+6	dans	dans	P	P		
+7	l'	le	DET	DET	n=s	
+8	art	art	NC	NC	n=s|g=m	
+9	du	de	P+D	P+D	n=s|g=m	
+10	livre	livre	NC	NC	n=s	
+11	Moghol	_	NPP	NPP		
+12	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	illustre	illustrer	V	V	n=s|t=P,S|p=1,3	
+3	par	par	P	P		
+4	exemple	exemple	NC	NC	n=s|g=m	
+5	les	les	DET	DET	n=p	
+6	marges	marge	NC	NC	n=p|g=f	
+7	d'	de	P	P		
+8	une	une	DET	DET	n=s|g=f	
+9	copie	copie	NC	NC	n=s|g=f	
+10	du	de	P+D	P+D	n=s|g=m	
+11	XVIe	_	ADJ	ADJ		
+12	siècle	siècle	NC	NC	n=s|g=m	
+13	du	de	P+D	P+D	n=s|g=m	
+14	Yusuf	Yusuf	NPP	NPP	n=s|g=m	
+15	va	aller	V	V	n=s|t=P|p=3	
+16	Zulaykha	_	NPP	NPP		
+17	[	[	PONCT	PONCT		
+18	262	262	NC	NC		
+19	]	]	PONCT	PONCT		
+20	.	.	PONCT	PONCT		
+
+1	Quelques	quelques	DET	DET	n=p	
+2	peintres	peintre	NC	NC	n=p	
+3	et	et	CC	CC		
+4	sculpteurs	sculpteur	NC	NC	n=p|g=m	
+5	animaliers	animalier	ADJ	ADJ	n=p|g=m	
+6	de	de	P	P		
+7	l'	le	DET	DET	n=s	
+8	époque	époque	NC	NC	n=s|g=f	
+9	contemporaine	contemporain	ADJ	ADJ	n=s|g=f	
+10	utilisent	utiliser	V	V	n=p|t=P,S|p=3	
+11	parfois	parfois	ADV	ADV		
+12	le	le	DET	DET	n=s|g=m	
+13	Caracal	_	NPP	NPP		
+14	comme	comme	P	P		
+15	modèle	modèle	NC	NC	n=s|g=m	
+16	.	.	PONCT	PONCT		
+
+1	Dans	dans	P	P		
+2	le	le	DET	DET	n=s|g=m	
+3	domaine	domaine	NC	NC	n=s|g=m	
+4	de	de	P	P		
+5	la	la	DET	DET	n=s|g=f	
+6	peinture	peinture	NC	NC	n=s|g=f	
+7	animalière	animalier	ADJ	ADJ	n=s|g=f	
+8	,	,	PONCT	PONCT		
+9	le	le	DET	DET	n=s|g=m	
+10	Caracal	_	NPP	NPP		
+11	mangeant	manger	VPR	VPR	t=G	
+12	un	un	DET	DET	n=s|g=m	
+13	faisan	faisan	NC	NC	n=s|g=m	
+14	(	(	PONCT	PONCT		
+15	Caracal	caracal	NC	NC	n=s|g=m	
+16	and	_	ADJ	ADJ		
+17	Pheasant	_	NPP	NPP		
+18	)	)	PONCT	PONCT		
+19	d'	de	P	P		
+20	Antoine	Antoine	NPP	NPP	n=s|g=m	
+21	-	-	PONCT	PONCT		
+22	Louis	_	NPP	NPP		
+23	Barye	_	NPP	NPP		
+24	(	(	PONCT	PONCT		
+25	1795-1875	1795-1875	NPP	NPP		
+26	)	)	PONCT	PONCT		
+
+1	est	être	V	V	n=s|t=P|p=3	
+2	visible	visible	ADJ	ADJ	n=s	
+3	au	à	P+D	P+D	n=s|g=m	
+4	Metropolitan	_	NPP	NPP		
+5	Museum	Museum	NC	NC	n=s|g=m	
+6	of	_	ADJ	ADJ		
+7	Art	Art	NPP	NPP	n=s|g=m	
+8	de	de	P	P		
+9	New	_	NPP	NPP		
+10	York	York	NPP	NPP	n=s|g=m	
+11	et	et	CC	CC		
+12	le	le	DET	DET	n=s|g=m	
+13	Caracal	_	NPP	NPP		
+14	(	(	PONCT	PONCT		
+15	1902	1902	NC	NC		
+16	)	)	PONCT	PONCT		
+17	de	de	P	P		
+18	Charles	Charles	NPP	NPP	n=s|g=m	
+19	Livingston	_	NPP	NPP		
+20	Bull	_	NPP	NPP		
+21	(	(	PONCT	PONCT		
+22	en	en	P	P		
+23	)	)	PONCT	PONCT		
+24	(	(	PONCT	PONCT		
+25	1874-1932	1874-1932	NPP	NPP		
+26	)	)	PONCT	PONCT		
+27	au	à	P+D	P+D	n=s|g=m	
+28	National	national	ADJ	ADJ	n=s|g=m	
+29	Museum	Museum	NC	NC	n=s|g=m	
+30	of	_	ADJ	ADJ		
+31	Wildlife	_	NPP	NPP		
+32	Art	Art	NPP	NPP	n=s|g=m	
+33	de	de	P	P		
+34	Jackson	Jackson	NPP	NPP	n=s|g=m	
+35	Hole	_	NPP	NPP		
+36	(	(	PONCT	PONCT		
+37	Wyoming	Wyoming	NPP	NPP	n=s|g=m	
+38	,	,	PONCT	PONCT		
+39	États	État	NC	NC	n=p|g=m	
+40	-	-	PONCT	PONCT		
+41	Unis	uni	NC	NC	n=p|g=m	
+42	)	)	PONCT	PONCT		
+43	.	.	PONCT	PONCT		
+
+1	Dans	dans	P	P		
+2	le	le	DET	DET	n=s|g=m	
+3	domaine	domaine	NC	NC	n=s|g=m	
+4	de	de	P	P		
+5	la	la	DET	DET	n=s|g=f	
+6	sculpture	sculpture	NC	NC	n=s|g=f	
+7	animalière	animalier	ADJ	ADJ	n=s|g=f	
+8	,	,	PONCT	PONCT		
+9	le	le	DET	DET	n=s|g=m	
+10	Lynx	_	NPP	NPP		
+11	caracal	caracal	NC	NC	n=s|g=m	
+12	à	à	P	P		
+13	la	la	DET	DET	n=s|g=f	
+14	patte	patte	NC	NC	n=s|g=f	
+15	levée	lever	VPP	VPP	n=s|g=f|t=K	
+16	(	(	PONCT	PONCT		
+17	1936	1936	NC	NC		
+18	)	)	PONCT	PONCT		
+19	de	de	P	P		
+20	Maurice	Maurice	NPP	NPP	n=s|g=m	
+21	Prost	_	NPP	NPP		
+22	(	(	PONCT	PONCT		
+23	1894-1967	1894-1967	NC	NC		
+24	)	)	PONCT	PONCT		
+25	,	,	PONCT	PONCT		
+26	réalisé	réaliser	VPP	VPP	n=s|g=m|t=K	
+27	en	en	P	P		
+28	pierre	pierre	NC	NC	n=s|g=f	
+29	de	de	P	P		
+30	Premeaux	_	NPP	NPP		
+31	(	(	PONCT	PONCT		
+32	pierre	pierre	NC	NC	n=s|g=f	
+33	de	de	P	P		
+34	Comblanchien	Comblanchien	NPP	NPP	n=s|g=m	
+35	)	)	PONCT	PONCT		
+36	,	,	PONCT	PONCT		
+37	est	être	V	V	n=s|t=P|p=3	
+38	exposé	exposer	VPP	VPP	n=s|g=m|t=K	
+39	au	à	P+D	P+D	n=s|g=m	
+40	Musée	musée	NC	NC	n=s|g=m	
+41	Robert	Robert	NPP	NPP	n=s|g=m	
+42	-	-	PONCT	PONCT		
+43	Dubois	_	NPP	NPP		
+44	-	-	PONCT	PONCT		
+45	Corneau	_	NPP	NPP		
+46	de	de	P	P		
+47	Brunoy	Brunoy	NPP	NPP	n=s|g=m	
+48	(	(	PONCT	PONCT		
+49	France	France	NPP	NPP	n=s|g=f,m	
+50	)	)	PONCT	PONCT		
+51	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	Caracal	_	NPP	NPP		
+3	compte	compter	V	V	n=s|t=P,S|p=1,3	
+4	au	à	P+D	P+D	n=s|g=m	
+5	nombre	nombre	NC	NC	n=s|g=m	
+6	des	de	P+D	P+D	n=p	
+7	œuvres	_	NC	NC		
+8	de	de	P	P		
+9	sculpteurs	sculpteur	NC	NC	n=p|g=m	
+10	animaliers	animalier	ADJ	ADJ	n=p|g=m	
+11	actuels	actuel	ADJ	ADJ	n=p|g=m	
+12	comme	comme	P	P		
+13	les	les	DET	DET	n=p	
+14	bronzes	bronze	NC	NC	n=p|g=m	
+15	d'	de	P	P		
+16	Hamish	Hamish	NPP	NPP	n=s|g=m	
+17	Mackie	_	NPP	NPP		
+18	(	(	PONCT	PONCT		
+19	en	en	P	P		
+20	)	)	PONCT	PONCT		
+21	,	,	PONCT	PONCT		
+22	de	de	P	P		
+23	Mark	Mark	NPP	NPP	n=s|g=m	
+24	Coreth	_	NPP	NPP		
+25	(	(	PONCT	PONCT		
+26	en	en	P	P		
+27	)	)	PONCT	PONCT		
+28	ou	ou	CC	CC		
+29	de	de	P	P		
+30	Kent	Kent	NPP	NPP	n=s|g=m	
+31	Ullberg	_	NPP	NPP		
+32	(	(	PONCT	PONCT		
+33	sv	_	NPP	NPP		
+34	)	)	PONCT	PONCT		
+35	,	,	PONCT	PONCT		
+36	ou	ou	CC	CC		
+37	encore	encore	ADV	ADV		
+38	les	les	DET	DET	n=p	
+39	sculptures	sculpture	NC	NC	n=p|g=f	
+40	de	de	P	P		
+41	métaux	métal	NC	NC	n=p|g=m	
+42	de	de	P	P		
+43	récupération	récupération	NC	NC	n=s|g=f	
+44	d'	de	P	P		
+45	Harriet	Harriet	NPP	NPP	n=s|g=f	
+46	Mead	_	NPP	NPP		
+47	(	(	PONCT	PONCT		
+48	en	en	P	P		
+49	)	)	PONCT	PONCT		
+50	.	.	PONCT	PONCT		
+
+1	Sur	sur	P	P		
+2	les	les	DET	DET	n=p	
+3	autres	autre	ADJ	ADJ	n=p	
+4	projets	projet	NC	NC	n=p|g=m	
+5	Wikimedia	_	NPP	NPP		
+6	:	:	PONCT	PONCT		
+

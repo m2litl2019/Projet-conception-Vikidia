@@ -1,0 +1,1382 @@
+1	Le	le	DET	DET	n=s|g=m	
+2	jeu	jeu	NC	NC	n=s|g=m	
+3	d'	de	P	P		
+4	échecs	échec	NC	NC	n=p|g=m	
+5	est	être	V	V	n=s|t=P|p=3	
+6	un	un	DET	DET	n=s|g=m	
+7	jeu	jeu	NC	NC	n=s|g=m	
+8	de	de	P	P		
+9	stratégie	stratégie	NC	NC	n=s|g=f	
+10	qui	qui	PROREL	PROREL	n=s	
+11	se	se	CLR	CLR	n=p,s|p=3	
+12	joue	jouer	V	V	n=s|t=P,S|p=1,3	
+13	à	à	P	P		
+14	deux	deux	PRO	PRO	s=card|n=p	
+15	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	est	être	V	V	n=s|t=P|p=3	
+3	composé	composer	VPP	VPP	n=s|g=m|t=K	
+4	d'	de	P	P		
+5	un	un	DET	DET	n=s|g=m	
+6	plateau	plateau	NC	NC	n=s|g=m	
+7	nommé	nommer	VPP	VPP	n=s|g=m|t=K	
+8	échiquier	échiquier	NC	NC	n=s|g=m	
+9	,	,	PONCT	PONCT		
+10	qui	qui	PROREL	PROREL	n=s	
+11	porte	porter	V	V	n=s|t=P,S|p=1,3	
+12	32	32	ADJ	ADJ		
+13	cases	case	NC	NC	n=p|g=f	
+14	blanches	blanc	ADJ	ADJ	n=p|g=f	
+15	et	et	CC	CC		
+16	32	32	ADJ	ADJ		
+17	cases	case	NC	NC	n=p|g=f	
+18	noires	noir	ADJ	ADJ	n=p|g=f	
+19	,	,	PONCT	PONCT		
+20	et	et	CC	CC		
+21	de	de	P	P		
+22	32	32	NC	NC		
+23	pièces	pièce	NC	NC	n=p|g=f	
+24	(	(	PONCT	PONCT		
+25	16	16	NC	NC		
+26	blanches	blanc	ADJ	ADJ	n=p|g=f	
+27	et	et	CC	CC		
+28	16	16	ADJ	ADJ		
+29	noires	noir	ADJ	ADJ	n=p|g=f	
+30	)	)	PONCT	PONCT		
+31	.	.	PONCT	PONCT		
+
+1	Sur	sur	P	P		
+2	toute	tout	ADJ	ADJ	n=s|g=f	
+3	la	la	DET	DET	n=s|g=f	
+4	surface	surface	NC	NC	n=s|g=f	
+5	de	de	P	P		
+6	la	la	DET	DET	n=s|g=f	
+7	Terre	_	NPP	NPP		
+8	,	,	PONCT	PONCT		
+9	le	le	DET	DET	n=s|g=m	
+10	jeu	jeu	NC	NC	n=s|g=m	
+11	d'	de	P	P		
+12	échecs	échec	NC	NC	n=p|g=m	
+13	est	être	V	V	n=s|t=P|p=3	
+14	joué	jouer	VPP	VPP	n=s|g=m|t=K	
+15	avec	avec	P	P		
+16	les	les	DET	DET	n=p	
+17	mêmes	même	ADJ	ADJ	n=p	
+18	règles	règle	NC	NC	n=p|g=f	
+19	de	de	P	P		
+20	déplacement	déplacement	NC	NC	n=s|g=m	
+21	des	de	P+D	P+D	n=p	
+22	pièces	pièce	NC	NC	n=p|g=f	
+23	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	y	y	CLO	CLO		
+3	a	avoir	V	V	n=s|t=P|p=3	
+4	trois	trois	DET	DET	s=card|n=p	
+5	périodes	période	NC	NC	n=p	
+6	dans	dans	P	P		
+7	une	une	DET	DET	n=s|g=f	
+8	partie	partie	NC	NC	n=s|g=f	
+9	d'	de	P	P		
+10	échecs	échec	NC	NC	n=p|g=m	
+11	:	:	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	jeu	jeu	NC	NC	n=s|g=m	
+3	d'	de	P	P		
+4	échecs	échec	NC	NC	n=p|g=m	
+5	est	être	V	V	n=s|t=P|p=3	
+6	originaire	originaire	ADJ	ADJ	n=s	
+7	d'	de	P	P		
+8	Inde	Inde	NPP	NPP	n=s|g=f	
+9	,	,	PONCT	PONCT		
+10	certainement	_	ADV	ADV		
+11	avant	avant	P	P		
+12	le	le	DET	DET	n=s|g=m	
+13	Ve	_	ADJ	ADJ		
+14	siècle	siècle	NC	NC	n=s|g=m	
+15	av	_	ADV	ADV		
+16	.	.	PONCT	PONCT		
+
+1	J	_	NPP	NPP		
+2	.	.	PONCT	PONCT		
+3	-	-	PONCT	PONCT		
+4	C	femelle	ADJ	ADJ		
+5	.	.	PONCT	PONCT		
+6	où	où	PROREL	PROREL		
+7	il	il	CLS	CLS	n=s|g=m|p=3	
+8	s'	se	CLR	CLR	n=p,s|p=3	
+9	appelait	appeler	V	V	n=s|t=I|p=3	
+10	chatiranga	_	NPP	NPP		
+11	;	;	PONCT	PONCT		
+12	il	il	CLS	CLS	n=s|g=m|p=3	
+13	se	se	CLR	CLR	n=p,s|p=3	
+14	jouait	jouer	V	V	n=s|t=I|p=3	
+15	à	à	P	P		
+16	deux	deux	PRO	PRO	s=card|n=p	
+17	sur	sur	P	P		
+18	un	un	DET	DET	n=s|g=m	
+19	échiquier	échiquier	NC	NC	n=s|g=m	
+20	divisé	diviser	VPP	VPP	n=s|g=m|t=K	
+21	en	en	P	P		
+22	cases	case	NC	NC	n=p|g=f	
+23	unicolores	unicolore	ADJ	ADJ	n=p	
+24	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	a	avoir	V	V	n=s|t=P|p=3	
+3	été	être	VPP	VPP	t=K	
+4	répandu	répandre	VPP	VPP	n=s|g=m|t=K	
+5	en	en	P	P		
+6	Asie	Asie	NPP	NPP	n=s|g=f	
+7	par	par	P	P		
+8	l'	le	DET	DET	n=s	
+9	intermédiaire	intermédiaire	NC	NC	n=s	
+10	des	de	P+D	P+D	n=p	
+11	bouddhistes	bouddhiste	NC	NC	n=p	
+12	qui	qui	PROREL	PROREL	n=s	
+13	ont	avoir	V	V	n=p|t=P|p=3	
+14	quitté	quitter	VPP	VPP	n=s|g=m|t=K	
+15	l'	le	DET	DET	n=s	
+16	Inde	Inde	NPP	NPP	n=s|g=f	
+17	pour	pour	P	P		
+18	échapper	échapper	VINF	VINF	t=W	
+19	aux	à	P+D	P+D	n=p	
+20	violences	violence	NC	NC	n=p|g=f	
+21	des	de	P+D	P+D	n=p	
+22	hindouistes	hindouiste	NC	NC	n=p	
+23	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	bouddhistes	bouddhiste	NC	NC	n=p	
+3	avaient	avoir	V	V	n=p|t=I|p=3	
+4	innové	innover	VPP	VPP	n=s|g=m|t=K	
+5	en	en	P	P		
+6	créant	créer	VPR	VPR	t=G	
+7	le	le	DET	DET	n=s|g=m	
+8	jeu	jeu	NC	NC	n=s|g=m	
+9	à	à	P	P		
+10	quatre1	_	NC	NC		
+11	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	jeu	jeu	NC	NC	n=s|g=m	
+3	d'	de	P	P		
+4	échecs	échec	NC	NC	n=p|g=m	
+5	a	avoir	V	V	n=s|t=P|p=3	
+6	été	être	VPP	VPP	t=K	
+7	importé	importer	VPP	VPP	n=s|g=m|t=K	
+8	en	en	P	P		
+9	Occident	_	NPP	NPP		
+10	au	à	P+D	P+D	n=s|g=m	
+11	Moyen	Moyen	NPP	NPP	n=s|g=m	
+12	Âge	_	NPP	NPP		
+13	vers	vers	P	P		
+14	le	le	DET	DET	n=s|g=m	
+15	IXe	_	ADJ	ADJ		
+16	siècle	siècle	NC	NC	n=s|g=m	
+17	.	.	PONCT	PONCT		
+
+1	Dès	dès	P	P		
+2	cette	cette	DET	DET	n=s|g=f	
+3	époque	époque	NC	NC	n=s|g=f	
+4	,	,	PONCT	PONCT		
+5	le	le	DET	DET	n=s|g=m	
+6	déplacement	déplacement	NC	NC	n=s|g=m	
+7	des	de	P+D	P+D	n=p	
+8	pièces	pièce	NC	NC	n=p|g=f	
+9	était	être	V	V	n=s|t=I|p=3	
+10	celui	celui	PRO	PRO	n=s|g=m	
+11	qu'	que	PROREL	PROREL		
+12	elles	elles	CLS	CLS	n=p|g=f|p=3	
+13	ont	avoir	V	V	n=p|t=P|p=3	
+14	aujourd'hui	aujourd'hui	ADV	ADV		
+15	(	(	PONCT	PONCT		
+16	sauf	sauf	P	P		
+17	la	la	DET	DET	n=s|g=f	
+18	reine	reine	NC	NC	n=s|g=f	
+19	qui	qui	PROREL	PROREL	n=s	
+20	ne	ne	ADV	ADV		
+21	pouvait	pouvoir	V	V	n=s|t=I|p=3	
+22	faire	faire	VINF	VINF	t=W	
+23	qu'	que	CS	CS		
+24	un	un	DET	DET	n=s|g=m	
+25	mouvement	mouvement	NC	NC	n=s|g=m	
+26	d'	de	P	P		
+27	une	une	DET	DET	n=s|g=f	
+28	case	case	NC	NC	n=s|g=f	
+29	en	en	P	P		
+30	diagonale	diagonale	NC	NC	n=s|g=f	
+31	et	et	CC	CC		
+32	le	le	DET	DET	n=s|g=m	
+33	fou	fou	NC	NC	n=s|g=m	
+34	qui	qui	PROREL	PROREL	n=s	
+35	sautait	sauter	V	V	n=s|t=I|p=3	
+36	à	à	P	P		
+37	la	la	DET	DET	n=s|g=f	
+38	troisième	troisième	ADJ	ADJ	n=s	
+39	case	case	NC	NC	n=s|g=f	
+40	en	en	P	P		
+41	oblique	oblique	NC	NC	n=s	
+42	,	,	PONCT	PONCT		
+43	même	même	ADV	ADV		
+44	par	par	P	P		
+45	-	-	PONCT	PONCT		
+46	dessus	dessus	P	P		
+47	une	une	DET	DET	n=s|g=f	
+48	autre	autre	ADJ	ADJ	n=s	
+49	pièce	pièce	NC	NC	n=s|g=f	
+50	)	)	PONCT	PONCT		
+51	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	déplacement	déplacement	NC	NC	n=s|g=m	
+3	actuel	actuel	ADJ	ADJ	n=s|g=m	
+4	de	de	P	P		
+5	ces	ces	DET	DET	n=p	
+6	deux	deux	ADJ	ADJ	s=card|n=p	
+7	pièces	pièce	NC	NC	n=p|g=f	
+8	a	avoir	V	V	n=s|t=P|p=3	
+9	été	être	VPP	VPP	t=K	
+10	fixé	fixer	VPP	VPP	n=s|g=m|t=K	
+11	dans	dans	P	P		
+12	le	le	DET	DET	n=s|g=m	
+13	dernier	dernier	ADJ	ADJ	n=s|g=m	
+14	quart	quart	NC	NC	n=s|g=m	
+15	du	de	P+D	P+D	n=s|g=m	
+16	XVe	_	ADJ	ADJ		
+17	siècle	siècle	NC	NC	n=s|g=m	
+18	,	,	PONCT	PONCT		
+19	probablement	_	ADV	ADV		
+20	en	en	P	P		
+21	France	France	NPP	NPP	n=s|g=f,m	
+22	.	.	PONCT	PONCT		
+
+1	Au	à	P+D	P+D	n=s|g=m	
+2	XVIe	_	ADJ	ADJ		
+3	siècle	siècle	NC	NC	n=s|g=m	
+4	,	,	PONCT	PONCT		
+5	le	le	DET	DET	n=s|g=m	
+6	saut	saut	NC	NC	n=s|g=m	
+7	du	de	P+D	P+D	n=s|g=m	
+8	roi	roi	NC	NC	n=s|g=m	
+9	est	être	V	V	n=s|t=P|p=3	
+10	transformé	transformer	VPP	VPP	n=s|g=m|t=K	
+11	en	en	P	P		
+12	rue	rue	NC	NC	n=s|g=f	
+13	et	et	CC	CC		
+14	le	le	DET	DET	n=s|g=m	
+15	pion	pion	NC	NC	n=s|g=m	
+16	qui	qui	PROREL	PROREL	n=s	
+17	arrive	arriver	V	V	n=s|t=P,S|p=1,3	
+18	à	à	P	P		
+19	la	la	DET	DET	n=s|g=f	
+20	dernière	dernier	ADJ	ADJ	n=s|g=f	
+21	rangée	rangée	NC	NC	n=s|g=f	
+22	de	de	P	P		
+23	cases	case	NC	NC	n=p|g=f	
+24	de	de	P	P		
+25	la	la	DET	DET	n=s|g=f	
+26	moitié	moitié	NC	NC	n=s|g=f	
+27	opposée	opposer	VPP	VPP	n=s|g=f|t=K	
+28	peut	pouvoir	V	V	n=s|t=P|p=3	
+29	se	se	CLR	CLR	n=p,s|p=3	
+30	transformer	transformer	VINF	VINF	t=W	
+31	en	en	P	P		
+32	n'	ne	ADV	ADV		
+33	importe	importer	V	V	n=s|t=P,S|p=1,3	
+34	quelle	quel	DETWH	DETWH	n=s|g=f	
+35	pièce	pièce	NC	NC	n=s|g=f	
+36	et	et	CC	CC		
+37	non	non	ADV	ADV		
+38	plus	plus	ADV	ADV		
+39	seulement	_	ADV	ADV		
+40	en	en	P	P		
+41	reine	reine	NC	NC	n=s|g=f	
+42	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	club	club	NC	NC	n=s|g=m	
+3	d'	de	P	P		
+4	échecs	échec	NC	NC	n=p|g=m	
+5	de	de	P	P		
+6	Zurich	_	NPP	NPP		
+7	est	être	V	V	n=s|t=P|p=3	
+8	le	le	DET	DET	n=s|g=m	
+9	plus	plus	ADV	ADV		
+10	ancien	ancien	ADJ	ADJ	n=s|g=m	
+11	au	à	P+D	P+D	n=s|g=m	
+12	monde	monde	NC	NC	n=s|g=m	
+13	,	,	PONCT	PONCT		
+14	il	il	CLS	CLS	n=s|g=m|p=3	
+15	a	avoir	V	V	n=s|t=P|p=3	
+16	été	être	VPP	VPP	t=K	
+17	fondé	fonder	VPP	VPP	n=s|g=m|t=K	
+18	en	en	P	P		
+19	1809	1809	NC	NC		
+20	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	premier	premier	ADJ	ADJ	n=s|g=m	
+3	tournoi	tournoi	NC	NC	n=s|g=m	
+4	d'	de	P	P		
+5	échecs	échec	NC	NC	n=p|g=m	
+6	moderne	moderne	ADJ	ADJ	n=s	
+7	a	avoir	V	V	n=s|t=P|p=3	
+8	été	être	VPP	VPP	t=K	
+9	organisé	organiser	VPP	VPP	n=s|g=m|t=K	
+10	en	en	P	P		
+11	1851	1851	NC	NC		
+12	à	à	P	P		
+13	Londres	Londres	NPP	NPP	n=s|g=m	
+14	.	.	PONCT	PONCT		
+
+1	Depuis	depuis	P	P		
+2	le	le	DET	DET	n=s|g=m	
+3	XXe	_	ADJ	ADJ		
+4	siècle	siècle	NC	NC	n=s|g=m	
+5	,	,	PONCT	PONCT		
+6	des	des	DET	DET	n=p	
+7	tournois	tournoi	NC	NC	n=p|g=m	
+8	internationaux	international	ADJ	ADJ	n=p|g=m	
+9	rassemblent	rassembler	V	V	n=p|t=P,S|p=3	
+10	les	les	DET	DET	n=p	
+11	meilleurs	meilleur	ADJ	ADJ	n=p|g=m	
+12	joueurs	joueur	NC	NC	n=p|g=m	
+13	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	plus	plus	ADV	ADV		
+3	connu	connaître	VPP	VPP	n=s|g=m|t=K	
+4	est	être	V	V	n=s|t=P|p=3	
+5	celui	celui	PRO	PRO	n=s|g=m	
+6	de	de	P	P		
+7	Noël	_	NPP	NPP		
+8	à	à	P	P		
+9	Hastings	_	NPP	NPP		
+10	(	(	PONCT	PONCT		
+11	sud	_	NPP	NPP		
+12	-	-	PONCT	PONCT		
+13	est	être	V	V	n=s|t=P|p=3	
+14	de	de	P	P		
+15	Londres	Londres	NPP	NPP	n=s|g=m	
+16	)	)	PONCT	PONCT		
+17	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	pièces	pièce	NC	NC	n=p|g=f	
+3	du	de	P+D	P+D	n=s|g=m	
+4	jeu	jeu	NC	NC	n=s|g=m	
+5	d'	de	P	P		
+6	échecs	échec	NC	NC	n=p|g=m	
+7	sont	être	V	V	n=p|t=P|p=3	
+8	appelées	appeler	VPP	VPP	n=p|g=f|t=K	
+9	:	:	PONCT	PONCT		
+
+1	Chaque	chaque	DET	DET	n=s	
+2	joueur	joueur	NC	NC	n=s|g=m	
+3	commence	commencer	V	V	n=s|t=P,S|p=1,3	
+4	avec	avec	P	P		
+5	une	une	DET	DET	n=s|g=f	
+6	case	case	NC	NC	n=s|g=f	
+7	blanche	blanc	ADJ	ADJ	n=s|g=f	
+8	à	à	P	P		
+9	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+10	droite	droite	NC	NC	n=s|g=f	
+11	.	.	PONCT	PONCT		
+
+1	Chaque	chaque	DET	DET	n=s	
+2	joueur	joueur	NC	NC	n=s|g=m	
+3	dispose	disposer	V	V	n=s|t=P,S|p=1,3	
+4	au	à	P+D	P+D	n=s|g=m	
+5	départ	départ	NC	NC	n=s|g=m	
+6	d'	de	P	P		
+7	un	un	DET	DET	n=s|g=m	
+8	roi	roi	NC	NC	n=s|g=m	
+9	,	,	PONCT	PONCT		
+10	d'	de	P	P		
+11	une	une	DET	DET	n=s|g=f	
+12	dame	dame	NC	NC	n=s|g=f	
+13	,	,	PONCT	PONCT		
+14	de	de	P	P		
+15	deux	deux	DET	DET	s=card|n=p	
+16	fous	fou	NC	NC	n=p|g=m	
+17	,	,	PONCT	PONCT		
+18	de	de	P	P		
+19	deux	deux	DET	DET	s=card|n=p	
+20	cavaliers	cavalier	NC	NC	n=p|g=m	
+21	,	,	PONCT	PONCT		
+22	de	de	P	P		
+23	deux	deux	DET	DET	s=card|n=p	
+24	tours	tour	NC	NC	n=p	
+25	et	et	CC	CC		
+26	de	de	P	P		
+27	huit	huit	DET	DET	s=card|n=p	
+28	pions	pion	NC	NC	n=p|g=m	
+29	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	pièces	pièce	NC	NC	n=p|g=f	
+3	sont	être	V	V	n=p|t=P|p=3	
+4	disposées	disposer	VPP	VPP	n=p|g=f|t=K	
+5	sur	sur	P	P		
+6	deux	deux	DET	DET	s=card|n=p	
+7	lignes	ligne	NC	NC	n=p|g=f	
+8	de	de	P	P		
+9	la	la	DET	DET	n=s|g=f	
+10	manière	manière	NC	NC	n=s|g=f	
+11	suivante	suivant	ADJ	ADJ	n=s|g=f	
+12	:	:	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	joueur	joueur	NC	NC	n=s|g=m	
+3	qui	qui	PROREL	PROREL	n=s	
+4	a	avoir	V	V	n=s|t=P|p=3	
+5	les	les	DET	DET	n=p	
+6	blancs	blanc	ADJ	ADJ	n=p|g=m	
+7	joue	jouer	V	V	n=s|t=P,S|p=1,3	
+8	en	en	P	P		
+9	premier	premier	ADJ	ADJ	n=s|g=m	
+10	;	;	PONCT	PONCT		
+11	chaque	chaque	DET	DET	n=s	
+12	joueur	joueur	NC	NC	n=s|g=m	
+13	déplace	déplacer	V	V	n=s|t=P,S|p=1,3	
+14	une	une	DET	DET	n=s|g=f	
+15	pièce	pièce	NC	NC	n=s|g=f	
+16	par	par	P	P		
+17	tour	tour	NC	NC	n=s	
+18	(	(	PONCT	PONCT		
+19	mais	mais	CC	CC		
+20	pas	pas	ADV	ADV		
+21	de	de	P	P		
+22	la	la	DET	DET	n=s|g=f	
+23	même	même	ADJ	ADJ	n=s	
+24	façon	façon	NC	NC	n=s|g=f	
+25	pour	pour	P	P		
+26	toutes	tout	ADJ	ADJ	n=p|g=f	
+27	les	les	DET	DET	n=p	
+28	pièces	pièce	NC	NC	n=p|g=f	
+29	)	)	PONCT	PONCT		
+30	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	faut	falloir	V	V	n=s|t=P|p=3	
+3	que	que	CS	CS		
+4	la	la	DET	DET	n=s|g=f	
+5	case	case	NC	NC	n=s|g=f	
+6	en	en	P	P		
+7	bas	bas	ADJ	ADJ	g=m	
+8	à	à	P	P		
+9	droite	droite	NC	NC	n=s|g=f	
+10	soit	être	VS	VS	n=s|t=S|p=3	
+11	blanche	blanc	ADJ	ADJ	n=s|g=f	
+12	pour	pour	P	P		
+13	le	le	DET	DET	n=s|g=m	
+14	bon	bon	ADJ	ADJ	n=s|g=m	
+15	positionnement	positionnement	NC	NC	n=s|g=m	
+16	des	de	P+D	P+D	n=p	
+17	pièces	pièce	NC	NC	n=p|g=f	
+18	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	partie	partie	NC	NC	n=s|g=f	
+3	se	se	CLR	CLR	n=p,s|p=3	
+4	termine	terminer	V	V	n=s|t=P,S|p=1,3	
+5	quand	quand	CS	CS		
+6	il	il	CLS	CLS	n=s|g=m|p=3	
+7	y	y	CLO	CLO		
+8	a	avoir	V	V	n=s|t=P|p=3	
+9	"	"	PONCT	PONCT		
+10	échec	échec	NC	NC	n=s|g=m	
+11	et	et	CC	CC		
+12	mat	mat	NC	NC	n=s|g=m	
+13	"	"	PONCT	PONCT		
+14	(	(	PONCT	PONCT		
+15	le	le	DET	DET	n=s|g=m	
+16	roi	roi	NC	NC	n=s|g=m	
+17	est	être	V	V	n=s|t=P|p=3	
+18	menacé	menacer	VPP	VPP	n=s|g=m|t=K	
+19	et	et	CC	CC		
+20	ne	ne	ADV	ADV		
+21	peut	pouvoir	V	V	n=s|t=P|p=3	
+22	plus	plus	ADV	ADV		
+23	bouger	bouger	VINF	VINF	t=W	
+24	)	)	PONCT	PONCT		
+25	,	,	PONCT	PONCT		
+26	"	"	PONCT	PONCT		
+27	pat	pat	NC	NC	n=s|g=m	
+28	"	"	PONCT	PONCT		
+29	(	(	PONCT	PONCT		
+30	le	le	DET	DET	n=s|g=m	
+31	joueur	joueur	NC	NC	n=s|g=m	
+32	ne	ne	ADV	ADV		
+33	peut	pouvoir	V	V	n=s|t=P|p=3	
+34	plus	plus	ADV	ADV		
+35	bouger	bouger	VINF	VINF	t=W	
+36	aucune	aucune	DET	DET	n=s|g=f	
+37	pièce	pièce	NC	NC	n=s|g=f	
+38	)	)	PONCT	PONCT		
+39	,	,	PONCT	PONCT		
+40	quand	quand	CS	CS		
+41	une	une	DET	DET	n=s|g=f	
+42	même	même	ADJ	ADJ	n=s	
+43	configuration	configuration	NC	NC	n=s|g=f	
+44	se	se	CLR	CLR	n=p,s|p=3	
+45	répète	répéter	V	V	n=s|t=P,S|p=1,3	
+46	pour	pour	P	P		
+47	la	la	DET	DET	n=s|g=f	
+48	troisième	troisième	ADJ	ADJ	n=s	
+49	fois	fois	NC	NC	g=f	
+50	,	,	PONCT	PONCT		
+51	à	à	P	P		
+52	cause	cause	NC	NC	n=s|g=f	
+53	de	de	P	P		
+54	la	la	DET	DET	n=s|g=f	
+55	"	"	PONCT	PONCT		
+56	règle	règle	NC	NC	n=s|g=f	
+57	des	de	P+D	P+D	n=p	
+58	cinquante	cinquante	ADJ	ADJ	s=card|n=p	
+59	coups	coup	NC	NC	n=p|g=m	
+60	"	"	PONCT	PONCT		
+61	(	(	PONCT	PONCT		
+62	plus	plus	ADV	ADV		
+63	de	de	P	P		
+64	cinquante	cinquante	DET	DET	s=card|n=p	
+65	coups	coup	NC	NC	n=p|g=m	
+66	ont	avoir	V	V	n=p|t=P|p=3	
+67	été	être	VPP	VPP	t=K	
+68	joués	jouer	VPP	VPP	n=p|g=m|t=K	
+69	depuis	depuis	P	P		
+70	la	la	DET	DET	n=s|g=f	
+71	dernière	dernier	ADJ	ADJ	n=s|g=f	
+72	prise	prise	NC	NC	n=s|g=f	
+73	ou	ou	CC	CC		
+74	le	le	DET	DET	n=s|g=m	
+75	dernier	dernier	ADJ	ADJ	n=s|g=m	
+76	mouvement	mouvement	NC	NC	n=s|g=m	
+77	de	de	P	P		
+78	pion	pion	NC	NC	n=s|g=m	
+79	)	)	PONCT	PONCT		
+80	ou	ou	CC	CC		
+81	quand	quand	CS	CS		
+82	un	un	DET	DET	n=s|g=m	
+83	joueur	joueur	NC	NC	n=s|g=m	
+84	abandonne	abandonner	V	V	n=s|t=P,S|p=1,3	
+85	.	.	PONCT	PONCT		
+
+1	Chaque	chaque	DET	DET	n=s	
+2	joueur	joueur	NC	NC	n=s|g=m	
+3	a	avoir	V	V	n=s|t=P|p=3	
+4	une	une	DET	DET	n=s|g=f	
+5	fiche	fiche	NC	NC	n=s|g=f	
+6	où	où	PROREL	PROREL		
+7	il	il	CLS	CLS	n=s|g=m|p=3	
+8	est	être	V	V	n=s|t=P|p=3	
+9	écrit	écrire	VPP	VPP	n=s|g=m|t=K	
+10	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+11	nom	nom	NC	NC	n=s|g=m	
+12	,	,	PONCT	PONCT		
+13	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+14	prénom	prénom	NC	NC	n=s|g=m	
+15	,	,	PONCT	PONCT		
+16	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+17	élo	_	NC	NC		
+18	(	(	PONCT	PONCT		
+19	point	point	NC	NC	n=s|g=m	
+20	de	de	P	P		
+21	force	force	NC	NC	n=s|g=f	
+22	)	)	PONCT	PONCT		
+23	,	,	PONCT	PONCT		
+24	la	la	DET	DET	n=s|g=f	
+25	cadence	cadence	NC	NC	n=s|g=f	
+26	de	de	P	P		
+27	jeu	jeu	NC	NC	n=s|g=m	
+28	et	et	CC	CC		
+29	le	le	DET	DET	n=s|g=m	
+30	nom	nom	NC	NC	n=s|g=m	
+31	de	de	P	P		
+32	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+33	club	club	NC	NC	n=s|g=m	
+34	.	.	PONCT	PONCT		
+
+1	Lors	lors	ADV	ADV		
+2	des	des	DET	DET	n=p	
+3	compétitions	compétition	NC	NC	n=p|g=f	
+4	,	,	PONCT	PONCT		
+5	les	les	DET	DET	n=p	
+6	deux	deux	ADJ	ADJ	s=card|n=p	
+7	adversaires	adversaire	NC	NC	n=p	
+8	doivent	devoir	V	V	n=p|t=P,S|p=3	
+9	respecter	respecter	VINF	VINF	t=W	
+10	le	le	DET	DET	n=s|g=m	
+11	temps	temps	NC	NC	g=m	
+12	qui	qui	PROREL	PROREL	n=s	
+13	leur	leur	CLO	CLO	n=p|p=3	
+14	est	être	V	V	n=s|t=P|p=3	
+15	donné	donner	VPP	VPP	n=s|g=m|t=K	
+16	pour	pour	P	P		
+17	réfléchir	réfléchir	VINF	VINF	t=W	
+18	(	(	PONCT	PONCT		
+19	cadence	cadence	NC	NC	n=s|g=f	
+20	de	de	P	P		
+21	jeu	jeu	NC	NC	n=s|g=m	
+22	)	)	PONCT	PONCT		
+23	.	.	PONCT	PONCT		
+
+1	Ce	ce	DET	DET	n=s|g=m	
+2	temps	temps	NC	NC	g=m	
+3	est	être	V	V	n=s|t=P|p=3	
+4	déterminé	déterminer	VPP	VPP	n=s|g=m|t=K	
+5	sur	sur	P	P		
+6	une	une	DET	DET	n=s|g=f	
+7	pendule	pendule	NC	NC	n=s	
+8	mécanique	mécanique	ADJ	ADJ	n=s	
+9	qui	qui	PROREL	PROREL	n=s	
+10	comporte	comporter	V	V	n=s|t=P,S|p=1,3	
+11	deux	deux	DET	DET	s=card|n=p	
+12	horloges	horloge	NC	NC	n=p|g=f	
+13	.	.	PONCT	PONCT		
+
+1	Après	après	P	P		
+2	chaque	chaque	DET	DET	n=s	
+3	coup	coup	NC	NC	n=s|g=m	
+4	,	,	PONCT	PONCT		
+5	le	le	DET	DET	n=s|g=m	
+6	joueur	joueur	NC	NC	n=s|g=m	
+7	qui	qui	PROREL	PROREL	n=s	
+8	vient	venir	V	V	n=s|t=P|p=3	
+9	de	de	P	P		
+10	jouer	jouer	VINF	VINF	t=W	
+11	appuie	appuyer	V	V	n=s|t=P,S|p=1,3	
+12	sur	sur	P	P		
+13	un	un	DET	DET	n=s|g=m	
+14	bouton	bouton	NC	NC	n=s|g=m	
+15	qui	qui	PROREL	PROREL	n=s	
+16	a	avoir	V	V	n=s|t=P|p=3	
+17	pour	pour	P	P		
+18	effet	effet	NC	NC	n=s|g=m	
+19	de	de	P	P		
+20	stopper	stopper	VINF	VINF	t=W	
+21	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+22	décompte	décompte	NC	NC	n=s|g=m	
+23	et	et	CC	CC		
+24	d'	de	P	P		
+25	activer	activer	VINF	VINF	t=W	
+26	le	le	DET	DET	n=s|g=m	
+27	décompte	décompte	NC	NC	n=s|g=m	
+28	de	de	P	P		
+29	l'	le	DET	DET	n=s	
+30	adversaire	adversaire	NC	NC	n=s	
+31	.	.	PONCT	PONCT		
+
+1	Lorsqu'	lorsque	CS	CS		
+2	un	un	DET	DET	n=s|g=m	
+3	joueur	joueur	NC	NC	n=s|g=m	
+4	dépasse	dépasser	V	V	n=s|t=P,S|p=1,3	
+5	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+6	limite	limite	NC	NC	n=s|g=f	
+7	de	de	P	P		
+8	temps	temps	NC	NC	g=m	
+9	,	,	PONCT	PONCT		
+10	il	il	CLS	CLS	n=s|g=m|p=3	
+11	perd	perdre	V	V	n=s|t=P|p=3	
+12	à	à	P	P		
+13	partir	partir	VINF	VINF	t=W	
+14	du	de	P+D	P+D	n=s|g=m	
+15	moment	moment	NC	NC	n=s|g=m	
+16	où	où	PROREL	PROREL		
+17	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+18	adversaire	adversaire	NC	NC	n=s	
+19	le	le	DET	DET	n=s|g=m	
+20	remarque	remarque	NC	NC	n=s|g=f	
+21	.	.	PONCT	PONCT		
+
+1	Cela	cela	PRO	PRO	n=s|g=m	
+2	signifie	signifier	V	V	n=s|t=P,S|p=1,3	
+3	que	que	CS	CS		
+4	tant	tant	ADV	ADV		
+5	que	que	CS	CS		
+6	l'	le	DET	DET	n=s	
+7	adversaire	adversaire	NC	NC	n=s	
+8	ne	ne	ADV	ADV		
+9	voit	voir	V	V	n=s|t=P|p=3	
+10	pas	pas	ADV	ADV		
+11	que	que	CS	CS		
+12	l'	le	DET	DET	n=s	
+13	on	on	CLS	CLS	n=s|p=3	
+14	a	avoir	V	V	n=s|t=P|p=3	
+15	dépassé	dépasser	VPP	VPP	n=s|g=m|t=K	
+16	le	le	DET	DET	n=s|g=m	
+17	temps	temps	NC	NC	g=m	
+18	imparti	impartir	VPP	VPP	n=s|g=m|t=K	
+19	,	,	PONCT	PONCT		
+20	la	la	DET	DET	n=s|g=f	
+21	partie	partie	NC	NC	n=s|g=f	
+22	continue	continu	ADJ	ADJ	n=s|g=f	
+23	!	!	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	temps	temps	NC	NC	g=m	
+3	alloué	allouer	VPP	VPP	n=s|g=m|t=K	
+4	à	à	P	P		
+5	la	la	DET	DET	n=s|g=f	
+6	partie	partie	NC	NC	n=s|g=f	
+7	dépend	dépendre	V	V	n=s|t=P|p=3	
+8	d'	de	P	P		
+9	une	une	DET	DET	n=s|g=f	
+10	compétition	compétition	NC	NC	n=s|g=f	
+11	à	à	P	P		
+12	l'	le	DET	DET	n=s	
+13	autre	autre	PRO	PRO	n=s|g=f,m	
+14	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	existe	exister	V	V	n=s|t=P,S|p=1,3	
+3	également	_	ADV	ADV		
+4	des	des	DET	DET	n=p	
+5	types	type	NC	NC	n=p|g=m	
+6	de	de	P	P		
+7	parties	partie	NC	NC	n=p|g=f	
+8	extrêmement	_	ADV	ADV		
+9	rapides	rapide	ADJ	ADJ	n=p	
+10	comme	comme	P	P		
+11	le	le	DET	DET	n=s|g=m	
+12	Blitz	_	NPP	NPP		
+13	où	où	PROREL	PROREL		
+14	chaque	chaque	DET	DET	n=s	
+15	joueur	joueur	NC	NC	n=s|g=m	
+16	ne	ne	ADV	ADV		
+17	dispose	disposer	V	V	n=s|t=P,S|p=1,3	
+18	que	que	CS	CS		
+19	de	de	P	P		
+20	5	5	NC	NC		
+21	minutes	minute	NC	NC	n=p|g=f	
+22	,	,	PONCT	PONCT		
+23	ou	ou	CC	CC		
+24	le	le	DET	DET	n=s|g=m	
+25	Bullet	_	NPP	NPP		
+26	où	où	PROREL	PROREL		
+27	chaque	chaque	DET	DET	n=s	
+28	joueur	joueur	NC	NC	n=s|g=m	
+29	ne	ne	ADV	ADV		
+30	dispose	disposer	V	V	n=s|t=P,S|p=1,3	
+31	que	que	CS	CS		
+32	d'	de	P	P		
+33	une	une	DET	DET	n=s|g=f	
+34	minute	minute	NC	NC	n=s|g=f	
+35	.	.	PONCT	PONCT		
+
+1	Une	une	DET	DET	n=s|g=f	
+2	pièce	pièce	NC	NC	n=s|g=f	
+3	peut	pouvoir	V	V	n=s|t=P|p=3	
+4	se	se	CLR	CLR	n=p,s|p=3	
+5	déplacer	déplacer	VINF	VINF	t=W	
+6	soit	être	VS	VS	n=s|t=S|p=3	
+7	vers	vers	P	P		
+8	une	une	DET	DET	n=s|g=f	
+9	case	case	NC	NC	n=s|g=f	
+10	libre	libre	ADJ	ADJ	n=s	
+11	,	,	PONCT	PONCT		
+12	soit	soit	CC	CC		
+13	vers	vers	P	P		
+14	une	une	DET	DET	n=s|g=f	
+15	case	case	NC	NC	n=s|g=f	
+16	occupée	occuper	VPP	VPP	n=s|g=f|t=K	
+17	par	par	P	P		
+18	une	une	DET	DET	n=s|g=f	
+19	pièce	pièce	NC	NC	n=s|g=f	
+20	adverse	adverse	ADJ	ADJ	n=s	
+21	.	.	PONCT	PONCT		
+
+1	S'	se	CLR	CLR	n=p,s|p=3	
+2	il	il	CLS	CLS	n=s|g=m|p=3	
+3	y	y	CLO	CLO		
+4	a	avoir	V	V	n=s|t=P|p=3	
+5	une	une	DET	DET	n=s|g=f	
+6	pièce	pièce	NC	NC	n=s|g=f	
+7	adverse	adverse	ADJ	ADJ	n=s	
+8	,	,	PONCT	PONCT		
+9	la	la	DET	DET	n=s|g=f	
+10	pièce	pièce	NC	NC	n=s|g=f	
+11	déplacée	déplacer	ADJ	ADJ	n=s|g=f|t=K	
+12	la	la	CLO	CLO	n=s|g=f|p=3	
+13	prend	prendre	V	V	n=s|t=P|p=3	
+14	,	,	PONCT	PONCT		
+15	et	et	CC	CC		
+16	la	la	DET	DET	n=s|g=f	
+17	pièce	pièce	NC	NC	n=s|g=f	
+18	prise	prendre	VPP	VPP	n=s|g=f|t=K	
+19	est	être	V	V	n=s|t=P|p=3	
+20	retirée	retirer	VPP	VPP	n=s|g=f|t=K	
+21	du	de	P+D	P+D	n=s|g=m	
+22	jeu.	jeudi	NC	NC	n=s|g=m	
+
+1	Chaque	chaque	DET	DET	n=s	
+2	pièce	pièce	NC	NC	n=s|g=f	
+3	a	avoir	V	V	n=s|t=P|p=3	
+4	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+5	règle	règle	NC	NC	n=s|g=f	
+6	de	de	P	P		
+7	déplacement	déplacement	NC	NC	n=s|g=m	
+8	:	:	PONCT	PONCT		
+
+1	Cas	cas	NC	NC	g=m	
+2	particuliers	particulier	ADJ	ADJ	n=p|g=m	
+3	:	:	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	existe	exister	V	V	n=s|t=P,S|p=1,3	
+3	deux	deux	DET	DET	s=card|n=p	
+4	types	type	NC	NC	n=p|g=m	
+5	de	de	P	P		
+6	roques	roque	NC	NC	n=p|g=m	
+7	:	:	PONCT	PONCT		
+8	le	le	DET	DET	n=s|g=m	
+9	grand	grand	ADJ	ADJ	n=s|g=m	
+10	roque	roque	NC	NC	n=s|g=m	
+11	et	et	CC	CC		
+12	le	le	DET	DET	n=s|g=m	
+13	petit	petit	ADJ	ADJ	n=s|g=m	
+14	roque	roque	NC	NC	n=s|g=m	
+15	.	.	PONCT	PONCT		
+
+1	Dans	dans	P	P		
+2	le	le	DET	DET	n=s|g=m	
+3	grand	grand	ADJ	ADJ	n=s|g=m	
+4	roque	roque	NC	NC	n=s|g=m	
+5	,	,	PONCT	PONCT		
+6	le	le	DET	DET	n=s|g=m	
+7	roi	roi	NC	NC	n=s|g=m	
+8	bouge	bouger	V	V	n=s|t=P,S|p=1,3	
+9	,	,	PONCT	PONCT		
+10	côté	côté	NC	NC	n=s|g=m	
+11	dame	dame	NC	NC	n=s|g=f	
+12	,	,	PONCT	PONCT		
+13	de	de	P	P		
+14	deux	deux	DET	DET	s=card|n=p	
+15	pas	pas	NC	NC	g=m	
+16	en	en	P	P		
+17	direction	direction	NC	NC	n=s|g=f	
+18	de	de	P	P		
+19	la	la	DET	DET	n=s|g=f	
+20	tour	tour	NC	NC	n=s	
+21	,	,	PONCT	PONCT		
+22	laquelle	lequel	PROREL	PROREL	n=s|g=f	
+23	se	se	CLR	CLR	n=p,s|p=3	
+24	positionne	positionner	V	V	n=s|t=P,S|p=1,3	
+25	de	de	P	P		
+26	l'	le	DET	DET	n=s	
+27	autre	autre	ADJ	ADJ	n=s	
+28	côté	côté	NC	NC	n=s|g=m	
+29	du	de	P+D	P+D	n=s|g=m	
+30	roi	roi	NC	NC	n=s|g=m	
+31	.	.	PONCT	PONCT		
+
+1	Dans	dans	P	P		
+2	le	le	DET	DET	n=s|g=m	
+3	petit	petit	ADJ	ADJ	n=s|g=m	
+4	roque	roque	NC	NC	n=s|g=m	
+5	,	,	PONCT	PONCT		
+6	le	le	DET	DET	n=s|g=m	
+7	roi	roi	NC	NC	n=s|g=m	
+8	bouge	bouger	V	V	n=s|t=P,S|p=1,3	
+9	de	de	P	P		
+10	deux	deux	DET	DET	s=card|n=p	
+11	cases	case	NC	NC	n=p|g=f	
+12	et	et	CC	CC		
+13	la	la	DET	DET	n=s|g=f	
+14	tour	tour	NC	NC	n=s	
+15	se	se	CLR	CLR	n=p,s|p=3	
+16	place	place	NC	NC	n=s|g=f	
+17	immédiatement	_	ADV	ADV		
+18	de	de	P	P		
+19	l'	le	DET	DET	n=s	
+20	autre	autre	ADJ	ADJ	n=s	
+21	côté	côté	NC	NC	n=s|g=m	
+22	.	.	PONCT	PONCT		
+
+1	Pour	pour	P	P		
+2	réaliser	réaliser	VINF	VINF	t=W	
+3	un	un	DET	DET	n=s|g=m	
+4	roque	roque	NC	NC	n=s|g=m	
+5	,	,	PONCT	PONCT		
+6	il	il	CLS	CLS	n=s|g=m|p=3	
+7	faut	falloir	V	V	n=s|t=P|p=3	
+8	qu'	que	CS	CS		
+9	il	il	CLS	CLS	n=s|g=m|p=3	
+10	n'	ne	ADV	ADV		
+11	y	y	CLO	CLO		
+12	ait	avoir	VS	VS	n=s|t=S|p=3	
+13	aucune	aucune	DET	DET	n=s|g=f	
+14	pièce	pièce	NC	NC	n=s|g=f	
+15	entre	entre	P	P		
+16	la	la	DET	DET	n=s|g=f	
+17	tour	tour	NC	NC	n=s	
+18	et	et	CC	CC		
+19	le	le	DET	DET	n=s|g=m	
+20	roi	roi	NC	NC	n=s|g=m	
+21	,	,	PONCT	PONCT		
+22	qu'	que	CS	CS		
+23	aucune	aucune	DET	DET	n=s|g=f	
+24	case	case	NC	NC	n=s|g=f	
+25	entre	entre	P	P		
+26	le	le	DET	DET	n=s|g=m	
+27	roi	roi	NC	NC	n=s|g=m	
+28	et	et	CC	CC		
+29	la	la	DET	DET	n=s|g=f	
+30	tour	tour	NC	NC	n=s	
+31	ne	ne	ADV	ADV		
+32	soit	être	VS	VS	n=s|t=S|p=3	
+33	attaquée	attaquer	VPP	VPP	n=s|g=f|t=K	
+34	par	par	P	P		
+35	une	une	DET	DET	n=s|g=f	
+36	pièce	pièce	NC	NC	n=s|g=f	
+37	adverse	adverse	ADJ	ADJ	n=s	
+38	et	et	CC	CC		
+39	que	que	CS	CS		
+40	le	le	DET	DET	n=s|g=m	
+41	roi	roi	NC	NC	n=s|g=m	
+42	ne	ne	ADV	ADV		
+43	soit	être	VS	VS	n=s|t=S|p=3	
+44	pas	pas	ADV	ADV		
+45	en	en	P	P		
+46	échec	échec	NC	NC	n=s|g=m	
+47	.	.	PONCT	PONCT		
+
+1	Si	si	CS	CS		
+2	une	une	DET	DET	n=s|g=f	
+3	pièce	pièce	NC	NC	n=s|g=f	
+4	est	être	V	V	n=s|t=P|p=3	
+5	en	en	P	P		
+6	position	position	NC	NC	n=s|g=f	
+7	pour	pour	P	P		
+8	prendre	prendre	VINF	VINF	t=W	
+9	le	le	DET	DET	n=s|g=m	
+10	roi	roi	NC	NC	n=s|g=m	
+11	adverse	adverse	ADJ	ADJ	n=s	
+12	,	,	PONCT	PONCT		
+13	on	on	CLS	CLS	n=s|p=3	
+14	dit	dire	V	V	n=s|t=J,P|p=3	
+15	qu'	que	CS	CS		
+16	il	il	CLS	CLS	n=s|g=m|p=3	
+17	y	y	CLO	CLO		
+18	a	avoir	V	V	n=s|t=P|p=3	
+19	"	"	PONCT	PONCT		
+20	échec	échec	NC	NC	n=s|g=m	
+21	"	"	PONCT	PONCT		
+22	ou	ou	CC	CC		
+23	"	"	PONCT	PONCT		
+24	échec	échec	NC	NC	n=s|g=m	
+25	au	à	P+D	P+D	n=s|g=m	
+26	roi	roi	NC	NC	n=s|g=m	
+27	"	"	PONCT	PONCT		
+28	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	joueur	joueur	NC	NC	n=s|g=m	
+3	adverse	adverse	ADJ	ADJ	n=s	
+4	doit	devoir	V	V	n=s|t=P|p=3	
+5	alors	alors	ADV	ADV		
+6	éviter	éviter	VINF	VINF	t=W	
+7	l'	le	DET	DET	n=s	
+8	échec	échec	NC	NC	n=s|g=m	
+9	,	,	PONCT	PONCT		
+10	soit	soit	CC	CC		
+11	en	en	P	P		
+12	déplaçant	déplacer	VPR	VPR	t=G	
+13	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+14	roi	roi	NC	NC	n=s|g=m	
+15	,	,	PONCT	PONCT		
+16	soit	soit	CC	CC		
+17	en	en	P	P		
+18	empêchant	empêcher	VPR	VPR	t=G	
+19	la	la	DET	DET	n=s|g=f	
+20	pièce	pièce	NC	NC	n=s|g=f	
+21	menaçante	menaçant	ADJ	ADJ	n=s|g=f	
+22	de	de	P	P		
+23	le	le	CLO	CLO	n=s|g=m|p=3	
+24	prendre	prendre	VINF	VINF	t=W	
+25	.	.	PONCT	PONCT		
+
+1	Quand	quand	CS	CS		
+2	il	il	CLS	CLS	n=s|g=m|p=3	
+3	n'	ne	ADV	ADV		
+4	y	y	CLO	CLO		
+5	a	avoir	V	V	n=s|t=P|p=3	
+6	plus	plus	ADV	ADV		
+7	moyen	moyen	ADJ	ADJ	n=s|g=m	
+8	d'	de	P	P		
+9	éviter	éviter	VINF	VINF	t=W	
+10	l'	le	DET	DET	n=s	
+11	échec	échec	NC	NC	n=s|g=m	
+12	,	,	PONCT	PONCT		
+13	on	on	CLS	CLS	n=s|p=3	
+14	dit	dire	V	V	n=s|t=J,P|p=3	
+15	qu'	que	CS	CS		
+16	il	il	CLS	CLS	n=s|g=m|p=3	
+17	y	y	CLO	CLO		
+18	a	avoir	V	V	n=s|t=P|p=3	
+19	"	"	PONCT	PONCT		
+20	échec	échec	NC	NC	n=s|g=m	
+21	et	et	CC	CC		
+22	mat	mat	NC	NC	n=s|g=m	
+23	"	"	PONCT	PONCT		
+24	,	,	PONCT	PONCT		
+25	et	et	CC	CC		
+26	c'	ce	CLS	CLS		
+27	est	être	V	V	n=s|t=P|p=3	
+28	la	la	DET	DET	n=s|g=f	
+29	fin	fin	NC	NC	n=s	
+30	de	de	P	P		
+31	la	la	DET	DET	n=s|g=f	
+32	partie	partie	NC	NC	n=s|g=f	
+33	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	partie	partie	NC	NC	n=s|g=f	
+3	peut	pouvoir	V	V	n=s|t=P|p=3	
+4	également	_	ADV	ADV		
+5	se	se	CLR	CLR	n=p,s|p=3	
+6	terminer	terminer	VINF	VINF	t=W	
+7	par	par	P	P		
+8	l'	le	DET	DET	n=s	
+9	abandon	abandon	NC	NC	n=s|g=m	
+10	d'	de	P	P		
+11	un	un	PRO	PRO	n=s|g=m	
+12	des	de	P+D	P+D	n=p	
+13	joueurs	joueur	NC	NC	n=p|g=m	
+14	.	.	PONCT	PONCT		
+
+1	Mais	mais	CC	CC		
+2	aussi	aussi	ADV	ADV		
+3	quand	quand	CS	CS		
+4	la	la	DET	DET	n=s|g=f	
+5	pendule	pendule	NC	NC	n=s	
+6	indique	indiquer	V	V	n=s|t=P,S|p=1,3	
+7	qu'	que	CS	CS		
+8	il	il	CLS	CLS	n=s|g=m|p=3	
+9	n'	ne	ADV	ADV		
+10	y	y	CLO	CLO		
+11	a	avoir	V	V	n=s|t=P|p=3	
+12	plus	plus	ADV	ADV		
+13	de	de	P	P		
+14	temps	temps	NC	NC	g=m	
+15	pour	pour	P	P		
+16	l'	le	DET	DET	n=s	
+17	un	un	PRO	PRO	n=s|g=m	
+18	des	de	P+D	P+D	n=p	
+19	deux	deux	ADJ	ADJ	s=card|n=p	
+20	joueurs	joueur	NC	NC	n=p|g=m	
+21	.	.	PONCT	PONCT		
+
+1	On	on	CLS	CLS	n=s|p=3	
+2	dit	dire	V	V	n=s|t=J,P|p=3	
+3	que	que	CS	CS		
+4	"	"	PONCT	PONCT		
+5	échec	échec	NC	NC	n=s|g=m	
+6	et	et	CC	CC		
+7	mat	mat	NC	NC	n=s|g=m	
+8	"	"	PONCT	PONCT		
+9	vient	venir	V	V	n=s|t=P|p=3	
+10	de	de	P	P		
+11	l'	le	DET	DET	n=s	
+12	arabe	arabe	NC	NC	n=s	
+13	el	_	NPP	NPP		
+14	-	-	PONCT	PONCT		
+15	cheikh	cheikh	NC	NC	n=s|g=m	
+16	mat	mat	ADJ	ADJ	n=s|g=m	
+17	(	(	PONCT	PONCT		
+18	الشيخ	_	NPP	NPP		
+19	ماتَ	_	NPP	NPP		
+20	)	)	PONCT	PONCT		
+21	,	,	PONCT	PONCT		
+22	expression	expression	NC	NC	n=s|g=f	
+23	elle	elle	PRO	PRO	n=s|g=f|p=3	
+24	-	-	PONCT	PONCT		
+25	même	même	ADV	ADV		
+26	empruntée	emprunter	VPP	VPP	n=s|g=f|t=K	
+27	au	à	P+D	P+D	n=s|g=m	
+28	persan	persan	NC	NC	n=s|g=m	
+29	,	,	PONCT	PONCT		
+30	qui	qui	PROREL	PROREL	n=s	
+31	veut	vouloir	V	V	n=s|t=P|p=3	
+32	dire	dire	VINF	VINF	t=W	
+33	en	en	P	P		
+34	français	français	NC	NC	g=m	
+35	"	"	PONCT	PONCT		
+36	le	le	DET	DET	n=s|g=m	
+37	roi	roi	NC	NC	n=s|g=m	
+38	est	être	V	V	n=s|t=P|p=3	
+39	mort	mourir	VPP	VPP	n=s|g=m|t=K	
+40	"	"	PONCT	PONCT		
+41	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	paraît	paraître	V	V	n=s|t=P|p=3	
+3	qu'	que	CS	CS		
+4	il	il	CLS	CLS	n=s|g=m|p=3	
+5	y	y	CLO	CLO		
+6	a	avoir	V	V	n=s|t=P|p=3	
+7	très	très	ADV	ADV		
+8	longtemps	longtemps	ADV	ADV		
+9	,	,	PONCT	PONCT		
+10	un	un	DET	DET	n=s|g=m	
+11	grand	grand	ADJ	ADJ	n=s|g=m	
+12	prince	prince	NC	NC	n=s|g=m	
+13	de	de	P	P		
+14	Perse	_	NPP	NPP		
+15	était	être	V	V	n=s|t=I|p=3	
+16	friand	friand	ADJ	ADJ	n=s|g=m	
+17	de	de	P	P		
+18	la	la	DET	DET	n=s|g=f	
+19	guerre	guerre	NC	NC	n=s|g=f	
+20	et	et	CC	CC		
+21	y	y	CLO	CLO		
+22	perdait	perdre	V	V	n=s|t=I|p=3	
+23	beaucoup	beaucoup	ADV	ADV		
+24	d'	de	DET	DET	n=p	
+25	argent	argent	NC	NC	n=s|g=m	
+26	.	.	PONCT	PONCT		
+
+1	Alors	alors	ADV	ADV		
+2	un	un	DET	DET	n=s|g=m	
+3	grand	grand	ADJ	ADJ	n=s|g=m	
+4	savant	savant	ADJ	ADJ	n=s|g=m	
+5	vint	venir	V	V	n=s|t=J|p=3	
+6	lui	lui	CLO	CLO	n=s|p=3	
+7	proposer	proposer	VINF	VINF	t=W	
+8	un	un	DET	DET	n=s|g=m	
+9	jeu	jeu	NC	NC	n=s|g=m	
+10	qui	qui	PROREL	PROREL	n=s	
+11	lui	lui	CLO	CLO	n=s|p=3	
+12	permettrait	permettre	V	V	n=s|t=C|p=3	
+13	d'	de	P	P		
+14	avoir	avoir	VINF	VINF	t=W	
+15	l'	le	DET	DET	n=s	
+16	ardeur	ardeur	NC	NC	n=s|g=f	
+17	et	et	CC	CC		
+18	la	la	DET	DET	n=s|g=f	
+19	stratégie	stratégie	NC	NC	n=s|g=f	
+20	du	de	P+D	P+D	n=s|g=m	
+21	combat	combat	NC	NC	n=s|g=m	
+22	dans	dans	P	P		
+23	un	un	DET	DET	n=s|g=m	
+24	simple	simple	ADJ	ADJ	n=s	
+25	jeu.	jeudi	NC	NC	n=s|g=m	
+
+1	Le	le	DET	DET	n=s|g=m	
+2	prince	prince	NC	NC	n=s|g=m	
+3	,	,	PONCT	PONCT		
+4	ravi	ravir	VPP	VPP	n=s|g=m|t=K	
+5	de	de	P	P		
+6	cette	cette	DET	DET	n=s|g=f	
+7	invention	invention	NC	NC	n=s|g=f	
+8	,	,	PONCT	PONCT		
+9	proposa	proposer	V	V	n=s|t=J|p=3	
+10	n'	ne	ADV	ADV		
+11	importe	importer	V	V	n=s|t=P,S|p=1,3	
+12	quoi	quoi	PROWH	PROWH		
+13	au	à	P+D	P+D	n=s|g=m	
+14	savant	savant	ADJ	ADJ	n=s|g=m	
+15	en	en	P	P		
+16	échange	échange	NC	NC	n=s|g=m	
+17	de	de	P	P		
+18	cette	cette	DET	DET	n=s|g=f	
+19	invention	invention	NC	NC	n=s|g=f	
+20	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	savant	savant	ADJ	ADJ	n=s|g=m	
+3	lui	lui	CLO	CLO	n=s|p=3	
+4	demanda	demander	V	V	n=s|t=J|p=3	
+5	alors	alors	ADV	ADV		
+6	de	de	P	P		
+7	mettre	mettre	VINF	VINF	t=W	
+8	1	1	ADJ	ADJ		
+9	grain	grain	NC	NC	n=s|g=m	
+10	de	de	P	P		
+11	blé	blé	NC	NC	n=s|g=m	
+12	sur	sur	P	P		
+13	la	la	DET	DET	n=s|g=f	
+14	première	premier	ADJ	ADJ	n=s|g=f	
+15	case	case	NC	NC	n=s|g=f	
+16	,	,	PONCT	PONCT		
+17	2	2	NC	NC		
+18	sur	sur	P	P		
+19	la	la	DET	DET	n=s|g=f	
+20	seconde	second	ADJ	ADJ	n=s|g=f	
+21	,	,	PONCT	PONCT		
+22	4	4	NC	NC		
+23	sur	sur	P	P		
+24	la	la	DET	DET	n=s|g=f	
+25	troisième	troisième	ADJ	ADJ	n=s	
+26	,	,	PONCT	PONCT		
+27	8	8	ADJ	ADJ		
+28	sur	sur	P	P		
+29	la	la	DET	DET	n=s|g=f	
+30	quatrième	quatrième	ADJ	ADJ	n=s	
+31	et	et	CC	CC		
+32	de	de	P	P		
+33	doubler	doubler	VINF	VINF	t=W	
+34	ainsi	ainsi	ADV	ADV		
+35	le	le	DET	DET	n=s|g=m	
+36	nombre	nombre	NC	NC	n=s|g=m	
+37	de	de	P	P		
+38	grains	grain	NC	NC	n=p|g=m	
+39	sur	sur	P	P		
+40	chaque	chaque	DET	DET	n=s	
+41	case	case	NC	NC	n=s|g=f	
+42	jusqu'	jusque	P	P		
+43	à	à	P	P		
+44	la	la	DET	DET	n=s|g=f	
+45	dernière	dernier	ADJ	ADJ	n=s|g=f	
+46	.	.	PONCT	PONCT		
+
+1	C'	ce	CLS	CLS		
+2	était	être	V	V	n=s|t=I|p=3	
+3	ce	ce	PRO	PRO	n=s	
+4	qu'	que	PROREL	PROREL		
+5	il	il	CLS	CLS	n=s|g=m|p=3	
+6	voulait	vouloir	V	V	n=s|t=I|p=3	
+7	de	de	P	P		
+8	grains	grain	NC	NC	n=p|g=m	
+9	de	de	P	P		
+10	blé	blé	NC	NC	n=s|g=m	
+11	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	prince	prince	NC	NC	n=s|g=m	
+3	demanda	demander	V	V	n=s|t=J|p=3	
+4	des	des	DET	DET	n=p	
+5	esclaves	esclave	NC	NC	n=p	
+6	pour	pour	P	P		
+7	l'	le	CLO	CLO	n=s|p=3	
+8	aider	aider	VINF	VINF	t=W	
+9	et	et	CC	CC		
+10	il	il	CLS	CLS	n=s|g=m|p=3	
+11	commença	commencer	V	V	n=s|t=J|p=3	
+12	.	.	PONCT	PONCT		
+
+1	Puis	puis	CC	CC		
+2	,	,	PONCT	PONCT		
+3	au	à	P+D	P+D	n=s|g=m	
+4	bout	bout	NC	NC	n=s|g=m	
+5	de	de	P	P		
+6	10	10	ADJ	ADJ		
+7	cases	case	NC	NC	n=p|g=f	
+8	,	,	PONCT	PONCT		
+9	il	il	CLS	CLS	n=s|g=m|p=3	
+10	s'	se	CLR	CLR	n=p,s|p=3	
+11	arrêta	arrêter	V	V	n=s|t=J|p=3	
+12	car	car	CS	CS		
+13	le	le	DET	DET	n=s|g=m	
+14	nombre	nombre	NC	NC	n=s|g=m	
+15	de	de	P	P		
+16	grains	grain	NC	NC	n=p|g=m	
+17	était	être	V	V	n=s|t=I|p=3	
+18	trop	trop	ADV	ADV		
+19	grand	grand	ADJ	ADJ	n=s|g=m	
+20	!	!	PONCT	PONCT		
+
+1	En	en	P	P		
+2	réalité	réalité	NC	NC	n=s|g=f	
+3	,	,	PONCT	PONCT		
+4	la	la	DET	DET	n=s|g=f	
+5	quantité	quantité	NC	NC	n=s|g=f	
+6	réelle	réel	ADJ	ADJ	n=s|g=f	
+7	de	de	P	P		
+8	blé	blé	NC	NC	n=s|g=m	
+9	nécessaire	nécessaire	ADJ	ADJ	n=s	
+10	à	à	P	P		
+11	ce	ce	DET	DET	n=s|g=m	
+12	problème	problème	NC	NC	n=s|g=m	
+13	fait	faire	V	V	n=s|t=P|p=3	
+14	une	une	DET	DET	n=s|g=f	
+15	couche	couche	NC	NC	n=s|g=f	
+16	de	de	P	P		
+17	10	10	ADJ	ADJ		
+18	cm	centimètre	NC	NC	g=m	
+19	sur	sur	P	P		
+20	toute	tout	ADJ	ADJ	n=s|g=f	
+21	la	la	DET	DET	n=s|g=f	
+22	surface	surface	NC	NC	n=s|g=f	
+23	de	de	P	P		
+24	la	la	DET	DET	n=s|g=f	
+25	Terre	_	NPP	NPP		
+26	!	!	PONCT	PONCT		
+
+1	Jouer	jouer	VINF	VINF	t=W	
+2	aux	à	P+D	P+D	n=p	
+3	échecs	échec	NC	NC	n=p|g=m	
+4	fait	faire	V	V	n=s|t=P|p=3	
+5	appel	appel	NC	NC	n=s|g=m	
+6	au	à	P+D	P+D	n=s|g=m	
+7	calcul	calcul	NC	NC	n=s|g=m	
+8	et	et	CC	CC		
+9	à	à	P	P		
+10	deux	deux	DET	DET	s=card|n=p	
+11	mémoires	mémoire	NC	NC	n=p	
+12	,	,	PONCT	PONCT		
+13	à	à	P	P		
+14	court	court	ADJ	ADJ	n=s|g=m	
+15	terme	terme	NC	NC	n=s|g=m	
+16	et	et	CC	CC		
+17	à	à	P	P		
+18	long	long	ADJ	ADJ	n=s|g=m	
+19	terme	terme	NC	NC	n=s|g=m	
+20	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	expertise	expertise	NC	NC	n=s|g=f	
+3	vient	venir	V	V	n=s|t=P|p=3	
+4	de	de	P	P		
+5	l'	le	DET	DET	n=s	
+6	expérience	expérience	NC	NC	n=s|g=f	
+7	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	pédagogue	pédagogue	NC	NC	n=s	
+3	Alfred	Alfred	NPP	NPP	n=s|g=m	
+4	Binet	_	NPP	NPP		
+5	,	,	PONCT	PONCT		
+6	spécialiste	spécialiste	NC	NC	n=s	
+7	de	de	P	P		
+8	l'	le	DET	DET	n=s	
+9	hypnose	hypnose	NC	NC	n=s|g=f	
+10	et	et	CC	CC		
+11	des	de	P+D	P+D	n=p	
+12	tests	test	NC	NC	n=p|g=m	
+13	psychométriques	_	NPP	NPP		
+14	,	,	PONCT	PONCT		
+15	a	avoir	V	V	n=s|t=P|p=3	
+16	publié	publier	VPP	VPP	n=s|g=m|t=K	
+17	en	en	P	P		
+18	1894	1894	NC	NC		
+19	Psychologie	psychologie	NC	NC	n=s|g=f	
+20	des	de	P+D	P+D	n=p	
+21	grands	grand	ADJ	ADJ	n=p|g=m	
+22	calculateurs	calculateur	NC	NC	n=p|g=m	
+23	et	et	CC	CC		
+24	joueurs	joueur	NC	NC	n=p|g=m	
+25	d'	de	P	P		
+26	échecs2	_	NC	NC		
+27	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	littérature4	_	NC	NC		
+3	,	,	PONCT	PONCT		
+4	ce	ce	DET	DET	n=s|g=m	
+5	divertissement	divertissement	NC	NC	n=s|g=m	
+6	a	avoir	V	V	n=s|t=P|p=3	
+7	servi	servir	VPP	VPP	n=s|g=m|t=K	
+8	de	de	P	P		
+9	support	support	NC	NC	n=s|g=m	
+10	à	à	P	P		
+11	toutes	toutes	DET	DET	n=p|g=f	
+12	sortes	sorte	NC	NC	n=p|g=f	
+13	d'	de	P	P		
+14	interprétations	interprétation	NC	NC	n=p|g=f	
+15	allégoriques5	_	NC	NC		
+16	.	.	PONCT	PONCT		
+

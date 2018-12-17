@@ -1,0 +1,31 @@
+1	En	en	P	P		
+2	raison	raison	NC	NC	n=s|g=f	
+3	de	de	P	P		
+4	limitations	limitation	NC	NC	n=p|g=f	
+5	techniques	technique	ADJ	ADJ	n=p	
+6	,	,	PONCT	PONCT		
+7	la	la	DET	DET	n=s|g=f	
+8	typographie	typographie	NC	NC	n=s|g=f	
+9	souhaitable	souhaitable	ADJ	ADJ	n=s	
+10	du	de	P+D	P+D	n=s|g=m	
+11	titre	titre	NC	NC	n=s|g=m	
+12	,	,	PONCT	PONCT		
+13	"	"	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	Ferme	ferme	NC	NC	n=s|g=f	
+3	des	de	P+D	P+D	n=p	
+4	animaux	animal	NC	NC	n=p|g=m	
+5	"	"	PONCT	PONCT		
+6	,	,	PONCT	PONCT		
+7	n'	ne	ADV	ADV		
+8	a	avoir	V	V	n=s|t=P|p=3	
+9	pu	pouvoir	VPP	VPP	t=K	
+10	être	être	VINF	VINF	t=W	
+11	restituée	restituer	VPP	VPP	n=s|g=f|t=K	
+12	correctement	_	ADV	ADV		
+13	ci	_	ADV	ADV		
+14	-	-	PONCT	PONCT		
+15	dessus	dessus	ADV	ADV		
+16	.	.	PONCT	PONCT		
+

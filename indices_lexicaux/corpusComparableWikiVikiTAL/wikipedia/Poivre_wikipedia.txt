@@ -1,0 +1,1480 @@
+1	Le	le	DET	DET	n=s|g=m	
+2	poivre	poivre	NC	NC	n=s|g=m	
+3	est	être	V	V	n=s|t=P|p=3	
+4	une	une	DET	DET	n=s|g=f	
+5	épice	épice	NC	NC	n=s|g=f	
+6	obtenue	obtenir	VPP	VPP	n=s|g=f|t=K	
+7	à	à	P	P		
+8	partir	partir	VINF	VINF	t=W	
+9	des	des	DET	DET	n=p	
+10	baies	baie	NC	NC	n=p|g=f	
+11	de	de	P	P		
+12	différentes	différent	ADJ	ADJ	n=p|g=f	
+13	espèces	espèce	NC	NC	n=p|g=f	
+14	de	de	P	P		
+15	poivriers	poivrier	NC	NC	n=p|g=m	
+16	,	,	PONCT	PONCT		
+17	des	des	DET	DET	n=p	
+18	plantes	plante	NC	NC	n=p|g=f	
+19	de	de	P	P		
+20	la	la	DET	DET	n=s|g=f	
+21	famille	famille	NC	NC	n=s|g=f	
+22	des	de	P+D	P+D	n=p	
+23	pipéracées	pipéracée	NC	NC	n=p|g=f	
+24	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	France	France	NPP	NPP	n=s|g=f,m	
+3	,	,	PONCT	PONCT		
+4	seuls	seul	ADJ	ADJ	n=p|g=m	
+5	ont	avoir	V	V	n=p|t=P|p=3	
+6	droit	droit	NC	NC	n=s|g=m	
+7	légalement	_	ADV	ADV		
+8	à	à	P	P		
+9	l'	le	DET	DET	n=s	
+10	appellation	appellation	NC	NC	n=s|g=f	
+11	de	de	P	P		
+12	"	"	PONCT	PONCT		
+13	poivre	poivre	NC	NC	n=s|g=m	
+14	"	"	PONCT	PONCT		
+15	sans	sans	P	P		
+16	plus	plus	ADV	ADV		
+17	de	de	P	P		
+18	précision	précision	NC	NC	n=s|g=f	
+19	les	les	DET	DET	n=p	
+20	fruits	fruit	NC	NC	n=p|g=m	
+21	du	de	P+D	P+D	n=s|g=m	
+22	poivrier	poivrier	NC	NC	n=s|g=m	
+23	noir	noir	ADJ	ADJ	n=s|g=m	
+24	(	(	PONCT	PONCT		
+25	Piper	piper	VINF	VINF	t=W	
+26	nigrum	_	NPP	NPP		
+27	)	)	PONCT	PONCT		
+28	[	[	PONCT	PONCT		
+29	1	1	NC	NC		
+30	]	]	PONCT	PONCT		
+31	qui	qui	PROREL	PROREL	n=s	
+32	donnent	donner	V	V	n=p|t=P,S|p=3	
+33	le	le	DET	DET	n=s|g=m	
+34	poivre	poivre	NC	NC	n=s|g=m	
+35	vert	vert	ADJ	ADJ	n=s|g=m	
+36	,	,	PONCT	PONCT		
+37	blanc	blanc	ADJ	ADJ	n=s|g=m	
+38	,	,	PONCT	PONCT		
+39	rouge	rouge	ADJ	ADJ	n=s	
+40	ou	ou	CC	CC		
+41	noir	noir	ADJ	ADJ	n=s|g=m	
+42	(	(	PONCT	PONCT		
+43	le	le	DET	DET	n=s|g=m	
+44	poivre	poivre	NC	NC	n=s|g=m	
+45	de	de	P	P		
+46	notre	notre	DET	DET	n=s|p=1|poss=p	
+47	moulin	moulin	NC	NC	n=s|g=m	
+48	)	)	PONCT	PONCT		
+49	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	fruits	fruit	NC	NC	n=p|g=m	
+3	du	de	P+D	P+D	n=s|g=m	
+4	Piper	Piper	NPP	NPP	n=s	
+5	longum	_	ADV	ADV		
+6	donnent	donner	V	V	n=p|t=P,S|p=3	
+7	le	le	DET	DET	n=s|g=m	
+8	poivre	poivre	NC	NC	n=s|g=m	
+9	long	long	ADJ	ADJ	n=s|g=m	
+10	,	,	PONCT	PONCT		
+11	ceux	ceux	PRO	PRO	n=p|g=m	
+12	du	de	P+D	P+D	n=s|g=m	
+13	Piper	Piper	NPP	NPP	n=s	
+14	cubeba	_	ADV	ADV		
+15	le	le	DET	DET	n=s|g=m	
+16	poivre	poivre	NC	NC	n=s|g=m	
+17	cubèbe	_	NPP	NPP		
+18	[	[	PONCT	PONCT		
+19	2	2	ADJ	ADJ		
+20	]	]	PONCT	PONCT		
+21	,	,	PONCT	PONCT		
+22	ceux	ceux	PRO	PRO	n=p|g=m	
+23	du	de	P+D	P+D	n=s|g=m	
+24	Piper	Piper	NPP	NPP	n=s	
+25	borbonense	_	NPP	NPP		
+26	le	le	DET	DET	n=s|g=m	
+27	poivre	poivre	NC	NC	n=s|g=m	
+28	de	de	P	P		
+29	Voatsiperifery	_	NPP	NPP		
+30	.	.	PONCT	PONCT		
+
+1	Par	par	P	P		
+2	analogie	analogie	NC	NC	n=s|g=f	
+3	,	,	PONCT	PONCT		
+4	d'	de	DET	DET	n=p	
+5	autres	autre	ADJ	ADJ	n=p	
+6	épices	épice	NC	NC	n=p|g=f	
+7	qui	qui	PROREL	PROREL	n=s	
+8	proviennent	provenir	V	V	n=p|t=P,S|p=3	
+9	de	de	P	P		
+10	plantes	plante	NC	NC	n=p|g=f	
+11	bien	bien	ADV	ADV		
+12	différentes	différent	ADJ	ADJ	n=p|g=f	
+13	reprennent	reprendre	V	V	n=p|t=P,S|p=3	
+14	ce	ce	DET	DET	n=s|g=m	
+15	nom	nom	NC	NC	n=s|g=m	
+16	vernaculaire	vernaculaire	ADJ	ADJ	n=s	
+17	,	,	PONCT	PONCT		
+18	mais	mais	CC	CC		
+19	ces	ces	DET	DET	n=p	
+20	faux	faux	ADJ	ADJ	g=m	
+21	poivres	poivre	NC	NC	n=p|g=m	
+22	ont	avoir	V	V	n=p|t=P|p=3	
+23	d'	de	DET	DET	n=p	
+24	autres	autre	ADJ	ADJ	n=p	
+25	caractéristiques	caractéristique	NC	NC	n=p|g=f	
+26	botaniques	botanique	ADJ	ADJ	n=p	
+27	et	et	CC	CC		
+28	donnent	donner	V	V	n=p|t=P,S|p=3	
+29	des	des	DET	DET	n=p	
+30	saveurs	saveur	NC	NC	n=p|g=f	
+31	différentes	différent	ADJ	ADJ	n=p|g=f	
+32	.	.	PONCT	PONCT		
+
+1	Son	son	DET	DET	n=s|g=m|p=3|poss=s	
+2	nom	nom	NC	NC	n=s|g=m	
+3	vient	venir	V	V	n=s|t=P|p=3	
+4	du	de	P+D	P+D	n=s|g=m	
+5	sanskrit	sanskrit	NC	NC	n=s|g=m	
+6	pippali	_	NPP	NPP		
+7	,	,	PONCT	PONCT		
+8	devenu	devenir	VPP	VPP	n=s|g=m|t=K	
+9	en	en	P	P		
+10	grec	grec	NC	NC	n=s|g=m	
+11	πέπερι	_	NPP	NPP		
+12	(	(	PONCT	PONCT		
+13	peperi	_	NPP	NPP		
+14	)	)	PONCT	PONCT		
+15	,	,	PONCT	PONCT		
+16	puis	puis	CC	CC		
+17	en	en	P	P		
+18	latin	latin	NC	NC	n=s|g=m	
+19	piper	_	ADV	ADV		
+20	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	culture	culture	NC	NC	n=s|g=f	
+3	du	de	P+D	P+D	n=s|g=m	
+4	poivrier	poivrier	NC	NC	n=s|g=m	
+5	est	être	V	V	n=s|t=P|p=3	
+6	originaire	originaire	ADJ	ADJ	n=s	
+7	de	de	P	P		
+8	la	la	DET	DET	n=s|g=f	
+9	côte	côte	NC	NC	n=s|g=f	
+10	ouest	ouest	NC	NC	n=s|g=m	
+11	de	de	P	P		
+12	l'	le	DET	DET	n=s	
+13	Inde	Inde	NPP	NPP	n=s|g=f	
+14	(	(	PONCT	PONCT		
+15	côte	côte	NC	NC	n=s|g=f	
+16	de	de	P	P		
+17	Malabar	_	NPP	NPP		
+18	)	)	PONCT	PONCT		
+19	,	,	PONCT	PONCT		
+20	dans	dans	P	P		
+21	l'	le	DET	DET	n=s	
+22	État	État	NC	NC	n=s|g=m	
+23	du	de	P+D	P+D	n=s|g=m	
+24	Kérala	_	NPP	NPP		
+25	,	,	PONCT	PONCT		
+26	et	et	CC	CC		
+27	a	avoir	V	V	n=s|t=P|p=3	
+28	gagné	gagner	VPP	VPP	n=s|g=m|t=K	
+29	d'	de	DET	DET	n=p	
+30	autres	autre	ADJ	ADJ	n=p	
+31	pays	pays	NC	NC	g=m	
+32	d'	de	P	P		
+33	Asie	Asie	NPP	NPP	n=s|g=f	
+34	du	de	P+D	P+D	n=s|g=m	
+35	Sud	sud	NC	NC	n=s|g=m	
+36	-	-	PONCT	PONCT		
+37	Est	être	V	V	n=s|t=P|p=3	
+38	,	,	PONCT	PONCT		
+39	Madagascar	Madagascar	NPP	NPP	n=s|g=m	
+40	et	et	CC	CC		
+41	le	le	DET	DET	n=s|g=m	
+42	Brésil	Brésil	NPP	NPP	n=s|g=m	
+43	.	.	PONCT	PONCT		
+
+1	Son	son	DET	DET	n=s|g=m|p=3|poss=s	
+2	utilisation	utilisation	NC	NC	n=s|g=f	
+3	en	en	P	P		
+4	Grèce	Grèce	NPP	NPP	n=s|g=f	
+5	daterait	dater	V	V	n=s|t=C|p=3	
+6	de	de	P	P		
+7	l'	le	DET	DET	n=s	
+8	épopée	épopée	NC	NC	n=s|g=f	
+9	d'	de	P	P		
+10	Alexandre	_	VINF	VINF		
+11	le	le	DET	DET	n=s|g=m	
+12	Grand	Grand	NPP	NPP	n=s|g=m	
+13	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	histoire	histoire	NC	NC	n=s|g=f	
+3	antique	antique	ADJ	ADJ	n=s	
+4	du	de	P+D	P+D	n=s|g=m	
+5	poivrier	poivrier	NC	NC	n=s|g=m	
+6	noir	noir	ADJ	ADJ	n=s|g=m	
+7	est	être	V	V	n=s|t=P|p=3	
+8	souvent	souvent	ADV	ADV		
+9	liée	lier	VPP	VPP	n=s|g=f|t=K	
+10	,	,	PONCT	PONCT		
+11	et	et	CC	CC		
+12	confondue	confondre	VPP	VPP	n=s|g=f|t=K	
+13	,	,	PONCT	PONCT		
+14	avec	avec	P	P		
+15	celle	celle	PRO	PRO	n=s|g=f	
+16	du	de	P+D	P+D	n=s|g=m	
+17	poivrier	poivrier	NC	NC	n=s|g=m	
+18	long	long	ADJ	ADJ	n=s|g=m	
+19	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	fruits	fruit	NC	NC	n=p|g=m	
+3	secs	sec	ADJ	ADJ	n=p|g=m	
+4	de	de	P	P		
+5	ce	ce	DET	DET	n=s|g=m	
+6	dernier	dernier	ADJ	ADJ	n=s|g=m	
+7	ont	avoir	V	V	n=p|t=P|p=3	
+8	été	être	VPP	VPP	t=K	
+9	utilisés	utiliser	VPP	VPP	n=p|g=m|t=K	
+10	pour	pour	P	P		
+11	fabriquer	fabriquer	VINF	VINF	t=W	
+12	des	des	DET	DET	n=p	
+13	pipeaux	pipeau	NC	NC	n=p|g=m	
+14	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	Romains	_	NPP	NPP		
+3	se	se	CLR	CLR	n=p,s|p=3	
+4	sont	être	V	V	n=p|t=P|p=3	
+5	servis	servir	VPP	VPP	n=p|g=m|t=K	
+6	des	de	P+D	P+D	n=p	
+7	deux	deux	ADJ	ADJ	s=card|n=p	
+8	espèces	espèce	NC	NC	n=p|g=f	
+9	sans	sans	P	P		
+10	distinction	distinction	NC	NC	n=s|g=f	
+11	.	.	PONCT	PONCT		
+
+1	C'	ce	CLS	CLS		
+2	est	être	V	V	n=s|t=P|p=3	
+3	la	la	DET	DET	n=s|g=f	
+4	découverte	découverte	NC	NC	n=s|g=f	
+5	du	de	P+D	P+D	n=s|g=m	
+6	Nouveau	nouveau	ADJ	ADJ	n=s|g=m	
+7	Monde	_	NPP	NPP		
+8	et	et	CC	CC		
+9	des	de	P+D	P+D	n=p	
+10	piments	piment	NC	NC	n=p|g=m	
+11	qui	qui	PROREL	PROREL	n=s	
+12	a	avoir	V	V	n=s|t=P|p=3	
+13	fait	faire	VPP	VPP	n=s|g=m|t=K	
+14	disparaître	disparaître	VINF	VINF	t=W	
+15	l'	le	DET	DET	n=s	
+16	utilisation	utilisation	NC	NC	n=s|g=f	
+17	du	de	P+D	P+D	n=s|g=m	
+18	poivrier	poivrier	NC	NC	n=s|g=m	
+19	long	long	ADJ	ADJ	n=s|g=m	
+20	.	.	PONCT	PONCT		
+
+1	Certains	certain	DET	DET	n=p|g=m	
+2	piments	piment	NC	NC	n=p|g=m	
+3	,	,	PONCT	PONCT		
+4	une	une	DET	DET	n=s|g=f	
+5	fois	fois	NC	NC	g=f	
+6	secs	sec	ADJ	ADJ	n=p|g=m	
+7	,	,	PONCT	PONCT		
+8	ressemblent	ressembler	V	V	n=p|t=P,S|p=3	
+9	au	à	P+D	P+D	n=s|g=m	
+10	fruit	fruit	NC	NC	n=s|g=m	
+11	du	de	P+D	P+D	n=s|g=m	
+12	poivrier	poivrier	NC	NC	n=s|g=m	
+13	long	long	ADJ	ADJ	n=s|g=m	
+14	.	.	PONCT	PONCT		
+
+1	Ceux	ceux	PRO	PRO	n=p|g=m	
+2	-	-	PONCT	PONCT		
+3	ci	_	NPP	NPP		
+4	étaient	être	V	V	n=p|t=I|p=3	
+5	plus	plus	ADV	ADV		
+6	faciles	facile	ADJ	ADJ	n=p	
+7	à	à	P	P		
+8	cultiver	cultiver	VINF	VINF	t=W	
+9	en	en	P	P		
+10	Europe	Europe	NPP	NPP	n=s|g=f	
+11	.	.	PONCT	PONCT		
+
+1	Au	à	P+D	P+D	n=s|g=m	
+2	Moyen	Moyen	NPP	NPP	n=s|g=m	
+3	Âge	_	NPP	NPP		
+4	,	,	PONCT	PONCT		
+5	les	les	DET	DET	n=p	
+6	épices	épice	NC	NC	n=p|g=f	
+7	comme	comme	P	P		
+8	le	le	DET	DET	n=s|g=m	
+9	poivre	poivre	NC	NC	n=s|g=m	
+10	étaient	être	V	V	n=p|t=I|p=3	
+11	rares	rare	ADJ	ADJ	n=p	
+12	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	conquête	conquête	NC	NC	n=s|g=f	
+3	d'	de	P	P		
+4	Alexandrie	Alexandrie	NPP	NPP	n=s|g=f	
+5	en	en	P	P		
+6	642	642	NC	NC		
+7	par	par	P	P		
+8	les	les	DET	DET	n=p	
+9	Arabes	_	NPP	NPP		
+10	marqua	marquer	V	V	n=s|t=J|p=3	
+11	le	le	DET	DET	n=s|g=m	
+12	début	début	NC	NC	n=s|g=m	
+13	de	de	P	P		
+14	ce	ce	DET	DET	n=s|g=m	
+15	commerce	commerce	NC	NC	n=s|g=m	
+16	.	.	PONCT	PONCT		
+
+1	Voilà	voilà	V	V		
+2	pourquoi	pourquoi	ADVWH	ADVWH		
+3	les	les	DET	DET	n=p	
+4	épices	épice	NC	NC	n=p|g=f	
+5	les	les	DET	DET	n=p	
+6	plus	plus	ADV	ADV		
+7	rares	rare	ADJ	ADJ	n=p	
+8	,	,	PONCT	PONCT		
+9	comme	comme	CS	CS		
+10	le	le	CLO	CLO	n=s|g=m|p=3	
+11	poivre	poivrer	V	V	n=s|t=P,S|p=1,3	
+12	,	,	PONCT	PONCT		
+13	furent	être	V	V	n=p|t=J|p=3	
+14	utilisées	utiliser	VPP	VPP	n=p|g=f|t=K	
+15	comme	comme	P	P		
+16	monnaie	monnaie	NC	NC	n=s|g=f	
+17	d'	de	P	P		
+18	échange	échange	NC	NC	n=s|g=m	
+19	[	[	PONCT	PONCT		
+20	3	3	ADJ	ADJ		
+21	]	]	PONCT	PONCT		
+22	.	.	PONCT	PONCT		
+
+1	De	de	P	P		
+2	là	là	ADV	ADV		
+3	vient	venir	V	V	n=s|t=P|p=3	
+4	également	_	ADV	ADV		
+5	l'	le	DET	DET	n=s	
+6	expression	expression	NC	NC	n=s|g=f	
+7	"	"	PONCT	PONCT		
+8	cher	cher	ADJ	ADJ	n=s|g=m	
+9	comme	comme	P	P		
+10	poivre	poivre	NC	NC	n=s|g=m	
+11	"	"	PONCT	PONCT		
+12	,	,	PONCT	PONCT		
+13	ou	ou	CC	CC		
+14	encore	encore	ADV	ADV		
+15	"	"	PONCT	PONCT		
+16	payer	payer	VINF	VINF	t=W	
+17	en	en	P	P		
+18	espèces	espèce	NC	NC	n=p|g=f	
+19	(	(	PONCT	PONCT		
+20	épices	épice	NC	NC	n=p|g=f	
+21	)	)	PONCT	PONCT		
+22	"	"	PONCT	PONCT		
+23	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	richesse	richesse	NC	NC	n=s|g=f	
+3	d'	de	P	P		
+4	un	un	DET	DET	n=s|g=m	
+5	noble	noble	NC	NC	n=s	
+6	pouvait	pouvoir	V	V	n=s|t=I|p=3	
+7	être	être	VINF	VINF	t=W	
+8	évaluée	évaluer	VPP	VPP	n=s|g=f|t=K	
+9	selon	selon	P	P		
+10	la	la	DET	DET	n=s|g=f	
+11	quantité	quantité	NC	NC	n=s|g=f	
+12	de	de	P	P		
+13	poivre	poivre	NC	NC	n=s|g=m	
+14	qu'	que	PROREL	PROREL		
+15	il	il	CLS	CLS	n=s|g=m|p=3	
+16	possédait	posséder	V	V	n=s|t=I|p=3	
+17	.	.	PONCT	PONCT		
+
+1	C'	ce	CLS	CLS		
+2	est	être	V	V	n=s|t=P|p=3	
+3	ainsi	ainsi	ADV	ADV		
+4	que	que	CS	CS		
+5	par	par	P	P		
+6	la	la	DET	DET	n=s|g=f	
+7	suite	suite	NC	NC	n=s|g=f	
+8	,	,	PONCT	PONCT		
+9	les	les	DET	DET	n=p	
+10	riches	riche	ADJ	ADJ	n=p	
+11	Allemands	allemand	NC	NC	n=p|g=m	
+12	furent	être	V	V	n=p|t=J|p=3	
+13	surnommés	surnommer	VPP	VPP	n=p|g=m|t=K	
+14	sacs	sac	NC	NC	n=p|g=m	
+15	de	de	P	P		
+16	poivre	poivre	NC	NC	n=s|g=m	
+17	[	[	PONCT	PONCT		
+18	4	4	NC	NC		
+19	]	]	PONCT	PONCT		
+20	.	.	PONCT	PONCT		
+
+1	Son	son	DET	DET	n=s|g=m|p=3|poss=s	
+2	prix	prix	NC	NC	g=m	
+3	exorbitant	_	VPR	VPR		
+4	au	à	P+D	P+D	n=s|g=m	
+5	Moyen	Moyen	NPP	NPP	n=s|g=m	
+6	Âge	_	NPP	NPP		
+7	[	[	PONCT	PONCT		
+8	5	5	NC	NC		
+9	]	]	PONCT	PONCT		
+10	et	et	CC	CC		
+11	le	le	DET	DET	n=s|g=m	
+12	monopole	monopole	NC	NC	n=s|g=m	
+13	sur	sur	P	P		
+14	le	le	DET	DET	n=s|g=m	
+15	commerce	commerce	NC	NC	n=s|g=m	
+16	tenu	tenir	VPP	VPP	n=s|g=m|t=K	
+17	par	par	P	P		
+18	l'	le	DET	DET	n=s	
+19	Italie	Italie	NPP	NPP	n=s|g=f	
+20	négociant	négocier	VPR	VPR	t=G	
+21	avec	avec	P	P		
+22	les	les	DET	DET	n=p	
+23	marchands	marchand	NC	NC	n=p|g=m	
+24	arabes	arabe	ADJ	ADJ	n=p	
+25	,	,	PONCT	PONCT		
+26	ont	avoir	V	V	n=p|t=P|p=3	
+27	été	être	VPP	VPP	t=K	
+28	l'	le	DET	DET	n=s	
+29	une	un	PRO	PRO	n=s|g=f	
+30	des	de	P+D	P+D	n=p	
+31	raisons	raison	NC	NC	n=p|g=f	
+32	qui	qui	PROREL	PROREL	n=s	
+33	ont	avoir	V	V	n=p|t=P|p=3	
+34	conduit	conduire	VPP	VPP	n=s|g=m|t=K	
+35	les	les	DET	DET	n=p	
+36	Portugais	portugais	NC	NC	g=m	
+37	à	à	P	P		
+38	trouver	trouver	VINF	VINF	t=W	
+39	une	une	DET	DET	n=s|g=f	
+40	route	route	NC	NC	n=s|g=f	
+41	maritime	maritime	ADJ	ADJ	n=s	
+42	vers	vers	P	P		
+43	l'	le	DET	DET	n=s	
+44	Inde	Inde	NPP	NPP	n=s|g=f	
+45	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	1498	1498	NC	NC		
+3	,	,	PONCT	PONCT		
+4	Vasco	Vasco	NPP	NPP	n=s|g=m	
+5	de	de	P	P		
+6	Gama	_	NPP	NPP		
+7	devient	devenir	V	V	n=s|t=P|p=3	
+8	la	la	DET	DET	n=s|g=f	
+9	première	premier	ADJ	ADJ	n=s|g=f	
+10	personne	personne	NC	NC	n=s|g=f	
+11	à	à	P	P		
+12	atteindre	atteindre	VINF	VINF	t=W	
+13	l'	le	DET	DET	n=s	
+14	Inde	Inde	NPP	NPP	n=s|g=f	
+15	en	en	P	P		
+16	contournant	contourner	VPR	VPR	t=G	
+17	l'	le	DET	DET	n=s	
+18	Afrique	Afrique	NPP	NPP	n=s|g=f	
+19	;	;	PONCT	PONCT		
+20	alors	alors	ADV	ADV		
+21	que	que	CS	CS		
+22	les	les	DET	DET	n=p	
+23	marchands	marchand	NC	NC	n=p|g=m	
+24	arabes	arabe	ADJ	ADJ	n=p	
+25	à	à	P	P		
+26	Calicut	_	NPP	NPP		
+27	demandent	demander	V	V	n=p|t=P,S|p=3	
+28	à	à	P	P		
+29	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+30	messager	messager	NC	NC	n=s|g=m	
+31	ce	ce	PRO	PRO	n=s	
+32	qu'	que	PROREL	PROREL		
+33	il	il	CLS	CLS	n=s|g=m|p=3	
+34	est	être	V	V	n=s|t=P|p=3	
+35	venu	venir	VPP	VPP	n=s|g=m|t=K	
+36	faire	faire	VINF	VINF	t=W	
+37	,	,	PONCT	PONCT		
+38	il	il	CLS	CLS	n=s|g=m|p=3	
+39	répond	répondre	V	V	n=s|t=P|p=3	
+40	"	"	PONCT	PONCT		
+41	nous	nous	CLS	CLS	n=p|p=1	
+42	cherchons	chercher	V	V	n=p|t=P|p=1	
+43	des	des	DET	DET	n=p	
+44	chrétiens	chrétien	ADJ	ADJ	n=p|g=m	
+45	et	et	CC	CC		
+46	des	de	P+D	P+D	n=p	
+47	épices	épice	NC	NC	n=p|g=f	
+48	"	"	PONCT	PONCT		
+49	.	.	PONCT	PONCT		
+
+1	À	à	P	P		
+2	la	la	DET	DET	n=s|g=f	
+3	suite	suite	NC	NC	n=s|g=f	
+4	du	de	P+D	P+D	n=s|g=m	
+5	traité	traité	NC	NC	n=s|g=m	
+6	de	de	P	P		
+7	Tordesillas	_	NPP	NPP		
+8	en	en	P	P		
+9	1494	1494	NC	NC		
+10	,	,	PONCT	PONCT		
+11	le	le	DET	DET	n=s|g=m	
+12	Portugal	Portugal	NPP	NPP	n=s|g=m	
+13	se	se	CLR	CLR	n=p,s|p=3	
+14	voit	voir	V	V	n=s|t=P|p=3	
+15	accorder	accorder	VINF	VINF	t=W	
+16	les	les	DET	DET	n=p	
+17	droits	droit	NC	NC	n=p|g=m	
+18	exclusifs	exclusif	ADJ	ADJ	n=p|g=m	
+19	sur	sur	P	P		
+20	la	la	DET	DET	n=s|g=f	
+21	moitié	moitié	NC	NC	n=s|g=f	
+22	du	de	P+D	P+D	n=s|g=m	
+23	monde	monde	NC	NC	n=s|g=m	
+24	dont	dont	PROREL	PROREL		
+25	est	être	V	V	n=s|t=P|p=3	
+26	issu	issir	VPP	VPP	n=s|g=m|t=K	
+27	le	le	DET	DET	n=s|g=m	
+28	poivre	poivre	NC	NC	n=s|g=m	
+29	noir	noir	ADJ	ADJ	n=s|g=m	
+30	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	Portugais	portugais	NC	NC	g=m	
+3	développent	développer	V	V	n=p|t=P,S|p=3	
+4	des	des	DET	DET	n=p	
+5	comptoirs	comptoir	NC	NC	n=p|g=m	
+6	en	en	P	P		
+7	étendant	étendre	VPR	VPR	t=G	
+8	leur	leur	DET	DET	n=s|p=3|poss=p	
+9	Empire	empire	NC	NC	n=s|g=m	
+10	des	de	P+D	P+D	n=p	
+11	Indes	_	NPP	NPP		
+12	grâce	grâce	NC	NC	n=s|g=f	
+13	à	à	P	P		
+14	Afonso	Afonso	NPP	NPP	n=s|g=m	
+15	de	de	P	P		
+16	Albuquerque	_	NPP	NPP		
+17	.	.	PONCT	PONCT		
+
+1	Leur	leur	DET	DET	n=s|p=3|poss=p	
+2	monopole	monopole	NC	NC	n=s|g=m	
+3	ne	ne	ADV	ADV		
+4	dure	dur	ADJ	ADJ	n=s|g=f	
+5	que	que	CS	CS		
+6	la	la	DET	DET	n=s|g=f	
+7	première	premier	ADJ	ADJ	n=s|g=f	
+8	moitié	moitié	NC	NC	n=s|g=f	
+9	du	de	P+D	P+D	n=s|g=m	
+10	XVIe	_	ADJ	ADJ		
+11	siècle	siècle	NC	NC	n=s|g=m	
+12	,	,	PONCT	PONCT		
+13	les	les	DET	DET	n=p	
+14	anciens	ancien	ADJ	ADJ	n=p|g=m	
+15	réseaux	réseau	NC	NC	n=p|g=m	
+16	de	de	P	P		
+17	commerce	commerce	NC	NC	n=s|g=m	
+18	arabe	arabe	ADJ	ADJ	n=s	
+19	et	et	CC	CC		
+20	vénitien	vénitien	ADJ	ADJ	n=s|g=m	
+21	parvenant	parvenir	VPR	VPR	t=G	
+22	à	à	P	P		
+23	contourner	contourner	VINF	VINF	t=W	
+24	leur	leur	DET	DET	n=s|p=3|poss=p	
+25	blocus	blocus	NC	NC	g=m	
+26	d'	de	P	P		
+27	autant	autant	ADV	ADV		
+28	plus	plus	ADV	ADV		
+29	aisément	_	ADV	ADV		
+30	que	que	CS	CS		
+31	les	les	DET	DET	n=p	
+32	Portugais	_	NPP	NPP		
+33	ont	avoir	V	V	n=p|t=P|p=3	
+34	plus	plus	ADV	ADV		
+35	d'	de	P	P		
+36	hommes	homme	NC	NC	n=p|g=m	
+37	à	à	P	P		
+38	garder	garder	VINF	VINF	t=W	
+39	les	les	DET	DET	n=p	
+40	forteresses	forteresse	NC	NC	n=p|g=f	
+41	de	de	P	P		
+42	leurs	leurs	DET	DET	n=p|p=3|poss=p	
+43	comptoirs	comptoir	NC	NC	n=p|g=m	
+44	que	que	CS	CS		
+45	de	de	DET	DET	n=p	
+46	marins	marin	NC	NC	n=p|g=m	
+47	et	et	CC	CC		
+48	qu'	que	CS	CS		
+49	ils	ils	CLS	CLS	n=p|g=m|p=3	
+50	n'	ne	ADV	ADV		
+51	ont	avoir	V	V	n=p|t=P|p=3	
+52	jamais	jamais	ADV	ADV		
+53	réussi	réussir	VPP	VPP	n=s|g=m|t=K	
+54	à	à	P	P		
+55	prendre	prendre	VINF	VINF	t=W	
+56	le	le	DET	DET	n=s|g=m	
+57	contrôle	contrôle	NC	NC	n=s|g=m	
+58	du	de	P+D	P+D	n=s|g=m	
+59	golfe	golfe	NC	NC	n=s|g=m	
+60	d'	de	P	P		
+61	Aden	Aden	NPP	NPP	n=s|g=m	
+62	.	.	PONCT	PONCT		
+
+1	Au	à	P+D	P+D	n=s|g=m	
+2	XVIIe	_	ADJ	ADJ		
+3	siècle	siècle	NC	NC	n=s|g=m	
+4	,	,	PONCT	PONCT		
+5	les	les	DET	DET	n=p	
+6	Portugais	_	NPP	NPP		
+7	perdent	perdre	V	V	n=p|t=P,S|p=3	
+8	la	la	DET	DET	n=s|g=f	
+9	quasi	quasi	ADV	ADV		
+10	-	-	PONCT	PONCT		
+11	totalité	totalité	NC	NC	n=s|g=f	
+12	de	de	P	P		
+13	leur	leur	DET	DET	n=s|p=3|poss=p	
+14	commerce	commerce	NC	NC	n=s|g=m	
+15	du	de	P+D	P+D	n=s|g=m	
+16	poivre	poivre	NC	NC	n=s|g=m	
+17	de	de	P	P		
+18	l'	le	DET	DET	n=s	
+19	Océan	_	NPP	NPP		
+20	Indien	_	NPP	NPP		
+21	au	à	P+D	P+D	n=s|g=m	
+22	profit	profit	NC	NC	n=s|g=m	
+23	des	de	P+D	P+D	n=p	
+24	Néerlandais	néerlandais	NC	NC	g=m	
+25	(	(	PONCT	PONCT		
+26	avec	avec	P	P		
+27	leur	leur	DET	DET	n=s|p=3|poss=p	
+28	Compagnie	compagnie	NC	NC	n=s|g=f	
+29	néerlandaise	néerlandais	ADJ	ADJ	n=s|g=f	
+30	des	de	P+D	P+D	n=p	
+31	Indes	inde	NC	NC	n=p|g=m	
+32	orientales	oriental	ADJ	ADJ	n=p|g=f	
+33	)	)	PONCT	PONCT		
+34	et	et	CC	CC		
+35	des	de	P+D	P+D	n=p	
+36	Anglais	anglais	NC	NC	g=m	
+37	qui	qui	PROREL	PROREL	n=s	
+38	profitent	profiter	V	V	n=p|t=P,S|p=3	
+39	de	de	P	P		
+40	l'	le	DET	DET	n=s	
+41	annexion	annexion	NC	NC	n=s|g=f	
+42	de	de	P	P		
+43	l'	le	DET	DET	n=s	
+44	Espagne	Espagne	NPP	NPP	n=s|g=f	
+45	sur	sur	P	P		
+46	le	le	DET	DET	n=s|g=m	
+47	Portugal	Portugal	NPP	NPP	n=s|g=m	
+48	(	(	PONCT	PONCT		
+49	1580	1580	NC	NC		
+50	à	à	P	P		
+51	1640	1640	NC	NC		
+52	)	)	PONCT	PONCT		
+53	.	.	PONCT	PONCT		
+
+1	À	à	P	P		
+2	partir	partir	VINF	VINF	t=W	
+3	du	de	P+D	P+D	n=s|g=m	
+4	XVIe	_	ADJ	ADJ		
+5	siècle	siècle	NC	NC	n=s|g=m	
+6	,	,	PONCT	PONCT		
+7	le	le	DET	DET	n=s|g=m	
+8	poivre	poivre	NC	NC	n=s|g=m	
+9	est	être	V	V	n=s|t=P|p=3	
+10	également	_	ADV	ADV		
+11	cultivé	cultiver	VPP	VPP	n=s|g=m|t=K	
+12	à	à	P	P		
+13	Java	_	NPP	NPP		
+14	et	et	CC	CC		
+15	Sumatra	_	NPP	NPP		
+16	(	(	PONCT	PONCT		
+17	îles	île	NC	NC	n=p|g=f	
+18	qui	qui	PROREL	PROREL	n=s	
+19	font	faire	V	V	n=p|t=P|p=3	
+20	aujourd'hui	aujourd'hui	ADV	ADV		
+21	partie	partie	NC	NC	n=s|g=f	
+22	de	de	P	P		
+23	la	la	DET	DET	n=s|g=f	
+24	République	république	NC	NC	n=s|g=f	
+25	d'	de	P	P		
+26	Indonésie	Indonésie	NPP	NPP	n=s|g=f	
+27	)	)	PONCT	PONCT		
+28	,	,	PONCT	PONCT		
+29	en	en	P	P		
+30	péninsule	péninsule	NC	NC	n=s|g=f	
+31	Malaise	_	NPP	NPP		
+32	et	et	CC	CC		
+33	ailleurs	ailleurs	ADV	ADV		
+34	en	en	P	P		
+35	Asie	Asie	NPP	NPP	n=s|g=f	
+36	du	de	P+D	P+D	n=s|g=m	
+37	Sud	sud	NC	NC	n=s|g=m	
+38	-	-	PONCT	PONCT		
+39	Est	être	V	V	n=s|t=P|p=3	
+40	,	,	PONCT	PONCT		
+41	mais	mais	CC	CC		
+42	ces	ces	DET	DET	n=p	
+43	régions	région	NC	NC	n=p|g=f	
+44	commercent	commercer	V	V	n=p|t=P,S|p=3	
+45	principalement	_	ADV	ADV		
+46	avec	avec	P	P		
+47	la	la	DET	DET	n=s|g=f	
+48	Chine	Chine	NPP	NPP	n=s|g=f	
+49	,	,	PONCT	PONCT		
+50	où	où	PROREL	PROREL		
+51	l'	le	DET	DET	n=s	
+52	on	on	CLS	CLS	n=s|p=3	
+53	consomme	consommer	V	V	n=s|t=P,S|p=1,3	
+54	le	le	DET	DET	n=s|g=m	
+55	poivre	poivre	NC	NC	n=s|g=m	
+56	localement	_	ADV	ADV		
+57	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	poivre	poivre	NC	NC	n=s|g=m	
+3	est	être	V	V	n=s|t=P|p=3	
+4	également	_	ADV	ADV		
+5	cultivé	cultiver	VPP	VPP	n=s|g=m|t=K	
+6	à	à	P	P		
+7	Madagascar	Madagascar	NPP	NPP	n=s|g=m	
+8	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	ports	port	NC	NC	n=p|g=m	
+3	de	de	P	P		
+4	la	la	DET	DET	n=s|g=f	
+5	côte	côte	NC	NC	n=s|g=f	
+6	de	de	P	P		
+7	Malabar	_	NPP	NPP		
+8	commercent	commercer	V	V	n=p|t=P,S|p=3	
+9	le	le	DET	DET	n=s|g=m	
+10	poivre	poivre	NC	NC	n=s|g=m	
+11	avec	avec	P	P		
+12	les	les	DET	DET	n=p	
+13	Néerlandais	néerlandais	NC	NC	g=m	
+14	dans	dans	P	P		
+15	la	la	DET	DET	n=s|g=f	
+16	période	période	NC	NC	n=s	
+17	1661-1663	1661-1663	NPP	NPP		
+18	.	.	PONCT	PONCT		
+
+1	Avec	avec	P	P		
+2	le	le	DET	DET	n=s|g=m	
+3	développement	développement	NC	NC	n=s|g=m	
+4	du	de	P+D	P+D	n=s|g=m	
+5	commerce	commerce	NC	NC	n=s|g=m	
+6	et	et	CC	CC		
+7	la	la	DET	DET	n=s|g=f	
+8	démocratisation	démocratisation	NC	NC	n=s|g=f	
+9	des	de	P+D	P+D	n=p	
+10	épices	épice	NC	NC	n=p|g=f	
+11	au	à	P+D	P+D	n=s|g=m	
+12	niveau	niveau	NC	NC	n=s|g=m	
+13	de	de	P	P		
+14	la	la	DET	DET	n=s|g=f	
+15	bourgeoisie	bourgeoisie	NC	NC	n=s|g=f	
+16	,	,	PONCT	PONCT		
+17	le	le	DET	DET	n=s|g=m	
+18	prix	prix	NC	NC	g=m	
+19	du	de	P+D	P+D	n=s|g=m	
+20	poivre	poivre	NC	NC	n=s|g=m	
+21	diminue	diminuer	V	V	n=s|t=P,S|p=1,3	
+22	à	à	P	P		
+23	la	la	DET	DET	n=s|g=f	
+24	Renaissance	_	NPP	NPP		
+25	(	(	PONCT	PONCT		
+26	la	la	DET	DET	n=s|g=f	
+27	valeur	valeur	NC	NC	n=s|g=f	
+28	totale	total	ADJ	ADJ	n=s|g=f	
+29	des	de	P+D	P+D	n=p	
+30	importations	importation	NC	NC	n=p|g=f	
+31	qui	qui	PROREL	PROREL	n=s	
+32	augmentent	augmenter	V	V	n=p|t=P,S|p=3	
+33	restant	rester	VPR	VPR	t=G	
+34	quant	_	ADV	ADV		
+35	à	à	P	P		
+36	elle	elle	PRO	PRO	n=s|g=f|p=3	
+37	constante	constant	ADJ	ADJ	n=s|g=f	
+38	)	)	PONCT	PONCT		
+39	[	[	PONCT	PONCT		
+40	6	6	ADJ	ADJ		
+41	]	]	PONCT	PONCT		
+42	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	poivre	poivre	NC	NC	n=s|g=m	
+3	pousse	pousser	V	V	n=s|t=P,S|p=1,3	
+4	sur	sur	P	P		
+5	une	une	DET	DET	n=s|g=f	
+6	liane	liane	NC	NC	n=s|g=f	
+7	du	de	P+D	P+D	n=s|g=m	
+8	genre	genre	NC	NC	n=s|g=m	
+9	Piper	Piper	NPP	NPP	n=s	
+10	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	autres	autre	ADJ	ADJ	n=p	
+3	épices	épice	NC	NC	n=p|g=f	
+4	,	,	PONCT	PONCT		
+5	nommées	nommer	VPP	VPP	n=p|g=f|t=K	
+6	parfois	parfois	ADV	ADV		
+7	ainsi	ainsi	ADV	ADV		
+8	à	à	P	P		
+9	cause	cause	NC	NC	n=s|g=f	
+10	de	de	P	P		
+11	leur	leur	DET	DET	n=s|p=3|poss=p	
+12	aspect	aspect	NC	NC	n=s|g=m	
+13	évoquant	évoquer	VPR	VPR	t=G	
+14	le	le	DET	DET	n=s|g=m	
+15	vrai	vrai	ADJ	ADJ	n=s|g=m	
+16	poivre	poivre	NC	NC	n=s|g=m	
+17	,	,	PONCT	PONCT		
+18	proviennent	provenir	V	V	n=p|t=P,S|p=3	
+19	de	de	P	P		
+20	plantes	plante	NC	NC	n=p|g=f	
+21	très	très	ADV	ADV		
+22	différentes	différent	ADJ	ADJ	n=p|g=f	
+23	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	espèce	espèce	NC	NC	n=s|g=f	
+3	Piper	Piper	NPP	NPP	n=s	
+4	nigrum	_	NPP	NPP		
+5	produit	produire	V	V	n=s|t=P|p=3	
+6	,	,	PONCT	PONCT		
+7	selon	selon	P	P		
+8	le	le	DET	DET	n=s|g=m	
+9	stade	stade	NC	NC	n=s|g=m	
+10	de	de	P	P		
+11	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+12	récolte	récolte	NC	NC	n=s|g=f	
+13	et	et	CC	CC		
+14	le	le	DET	DET	n=s|g=m	
+15	type	type	NC	NC	n=s|g=m	
+16	de	de	P	P		
+17	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+18	préparation	préparation	NC	NC	n=s|g=f	
+19	,	,	PONCT	PONCT		
+20	le	le	DET	DET	n=s|g=m	
+21	poivre	poivre	NC	NC	n=s|g=m	
+22	vert	vert	ADJ	ADJ	n=s|g=m	
+23	,	,	PONCT	PONCT		
+24	blanc	blanc	ADJ	ADJ	n=s|g=m	
+25	ou	ou	CC	CC		
+26	noir	noir	ADJ	ADJ	n=s|g=m	
+27	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	espèce	espèce	NC	NC	n=s|g=f	
+3	Piper	Piper	NPP	NPP	n=s	
+4	longum	_	ADV	ADV		
+5	produit	produire	V	V	n=s|t=P|p=3	
+6	le	le	DET	DET	n=s|g=m	
+7	poivre	poivre	NC	NC	n=s|g=m	
+8	long	long	ADJ	ADJ	n=s|g=m	
+9	,	,	PONCT	PONCT		
+10	très	très	ADV	ADV		
+11	utilisé	utiliser	VPP	VPP	n=s|g=m|t=K	
+12	dans	dans	P	P		
+13	l'	le	DET	DET	n=s	
+14	Antiquité	_	NPP	NPP		
+15	et	et	CC	CC		
+16	au	à	P+D	P+D	n=s|g=m	
+17	Moyen	Moyen	NPP	NPP	n=s|g=m	
+18	Âge	_	NPP	NPP		
+19	,	,	PONCT	PONCT		
+20	mais	mais	CC	CC		
+21	presque	presque	ADV	ADV		
+22	oublié	oublier	VPP	VPP	n=s|g=m|t=K	
+23	de	de	P	P		
+24	nos	nos	DET	DET	n=p|p=1|poss=p	
+25	jours	jour	NC	NC	n=p|g=m	
+26	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	espèce	espèce	NC	NC	n=s|g=f	
+3	Piper	Piper	NPP	NPP	n=s	
+4	cubeba	_	NPP	NPP		
+5	produit	produire	V	V	n=s|t=P|p=3	
+6	le	le	DET	DET	n=s|g=m	
+7	poivre	poivre	NC	NC	n=s|g=m	
+8	cubèbe	_	NPP	NPP		
+9	,	,	PONCT	PONCT		
+10	un	un	DET	DET	n=s|g=m	
+11	grain	grain	NC	NC	n=s|g=m	
+12	rond	rond	ADJ	ADJ	n=s|g=m	
+13	à	à	P	P		
+14	petite	petit	ADJ	ADJ	n=s|g=f	
+15	queue	queue	NC	NC	n=s|g=f	
+16	,	,	PONCT	PONCT		
+17	d'	de	P	P		
+18	où	où	PROREL	PROREL		
+19	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+20	nom	nom	NC	NC	n=s|g=m	
+21	de	de	P	P		
+22	"	"	PONCT	PONCT		
+23	poivre	poivre	NC	NC	n=s|g=m	
+24	à	à	P	P		
+25	queue	queue	NC	NC	n=s|g=f	
+26	"	"	PONCT	PONCT		
+27	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	espèce	espèce	NC	NC	n=s|g=f	
+3	Piper	Piper	NPP	NPP	n=s	
+4	borbonense	_	NPP	NPP		
+5	produit	produire	V	V	n=s|t=P|p=3	
+6	le	le	DET	DET	n=s|g=m	
+7	poivre	poivre	NC	NC	n=s|g=m	
+8	de	de	P	P		
+9	Voatsiperifery	_	NPP	NPP		
+10	,	,	PONCT	PONCT		
+11	poivre	poivre	NC	NC	n=s|g=m	
+12	sauvage	sauvage	ADJ	ADJ	n=s	
+13	à	à	P	P		
+14	queue	queue	NC	NC	n=s|g=f	
+15	au	à	P+D	P+D	n=s|g=m	
+16	goût	goût	NC	NC	n=s|g=m	
+17	intense	intense	ADJ	ADJ	n=s	
+18	et	et	CC	CC		
+19	incisif	incisif	ADJ	ADJ	n=s|g=m	
+20	.	.	PONCT	PONCT		
+
+1	Ce	ce	CLS	CLS		
+2	sont	être	V	V	n=p|t=P|p=3	
+3	certaines	certain	DET	DET	n=p|g=f	
+4	plantes	plante	NC	NC	n=p|g=f	
+5	à	à	P	P		
+6	baies	baie	NC	NC	n=p|g=f	
+7	parfumées	parfumer	VPP	VPP	n=p|g=f|t=K	
+8	dont	dont	PROREL	PROREL		
+9	l'	le	DET	DET	n=s	
+10	aspect	aspect	NC	NC	n=s|g=m	
+11	fait	faire	V	V	n=s|t=P|p=3	
+12	penser	penser	VINF	VINF	t=W	
+13	au	à	P+D	P+D	n=s|g=m	
+14	vrai	vrai	ADJ	ADJ	n=s|g=m	
+15	poivre	poivre	NC	NC	n=s|g=m	
+16	.	.	PONCT	PONCT		
+
+1	Malgré	malgré	P	P		
+2	leur	leur	DET	DET	n=s|p=3|poss=p	
+3	nom	nom	NC	NC	n=s|g=m	
+4	,	,	PONCT	PONCT		
+5	ces	ces	DET	DET	n=p	
+6	baies	baie	NC	NC	n=p|g=f	
+7	ont	avoir	V	V	n=p|t=P|p=3	
+8	d'	de	DET	DET	n=p	
+9	autres	autre	ADJ	ADJ	n=p	
+10	caractéristiques	caractéristique	NC	NC	n=p|g=f	
+11	botaniques	botanique	ADJ	ADJ	n=p	
+12	et	et	CC	CC		
+13	donnent	donner	V	V	n=p|t=P,S|p=3	
+14	des	des	DET	DET	n=p	
+15	saveurs	saveur	NC	NC	n=p|g=f	
+16	différentes	différent	ADJ	ADJ	n=p|g=f	
+17	[	[	PONCT	PONCT		
+18	7	7	ADJ	ADJ		
+19	]	]	PONCT	PONCT		
+20	.	.	PONCT	PONCT		
+
+1	Etc	_	NPP	NPP		
+2	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	production	production	NC	NC	n=s|g=f	
+3	mondiale	mondial	ADJ	ADJ	n=s|g=f	
+4	de	de	P	P		
+5	poivre	poivre	NC	NC	n=s|g=m	
+6	atteint	atteindre	V	V	n=s|t=P|p=3	
+7	un	un	DET	DET	n=s|g=m	
+8	pic	pic	NC	NC	n=s|g=m	
+9	de	de	P	P		
+10	plus	plus	ADV	ADV		
+11	de	de	P	P		
+12	355_000	355_000	ADJ	ADJ		
+13	tonnes	tonne	NC	NC	n=p|g=f	
+14	en	en	P	P		
+15	2003	2003	NC	NC		
+16	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	est	être	V	V	n=s|t=P|p=3	
+3	de	de	P	P		
+4	271_000	271_000	ADJ	ADJ		
+5	tonnes	tonne	NC	NC	n=p|g=f	
+6	en	en	P	P		
+7	2008	2008	NC	NC		
+8	[	[	PONCT	PONCT		
+9	8	8	NC	NC		
+10	]	]	PONCT	PONCT		
+11	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	Viêt	_	NPP	NPP		
+3	Nam	_	NPP	NPP		
+4	,	,	PONCT	PONCT		
+5	qui	qui	PROREL	PROREL	n=s	
+6	ne	ne	ADV	ADV		
+7	produisait	produire	V	V	n=s|t=I|p=3	
+8	que	que	CS	CS		
+9	25_000	25_000	ADJ	ADJ		
+10	tonnes	tonne	NC	NC	n=p|g=f	
+11	en	en	P	P		
+12	1994	1994	NC	NC		
+13	,	,	PONCT	PONCT		
+14	est	être	V	V	n=s|t=P|p=3	
+15	depuis	depuis	P	P		
+16	2001	2001	NC	NC		
+17	le	le	DET	DET	n=s|g=m	
+18	premier	premier	ADJ	ADJ	n=s|g=m	
+19	pays	pays	NC	NC	g=m	
+20	producteur	producteur	ADJ	ADJ	n=s|g=m	
+21	et	et	CC	CC		
+22	exportateur	exportateur	NC	NC	n=s|g=m	
+23	[	[	PONCT	PONCT		
+24	9	9	ADJ	ADJ		
+25	]	]	PONCT	PONCT		
+26	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	a	avoir	V	V	n=s|t=P|p=3	
+3	le	le	DET	DET	n=s|g=m	
+4	plus	plus	ADV	ADV		
+5	fort	fort	ADJ	ADJ	n=s|g=m	
+6	rendement	rendement	NC	NC	n=s|g=m	
+7	à	à	P	P		
+8	l'	le	DET	DET	n=s	
+9	hectare	hectare	NC	NC	n=s|g=m	
+10	:	:	PONCT	PONCT		
+11	1_200	1_200	NC	NC		
+12	à	à	P	P		
+13	1_300	1_300	NC	NC		
+14	kg	kilogramme	NC	NC	g=m	
+15	(	(	PONCT	PONCT		
+16	l'	le	DET	DET	n=s	
+17	Inde	Inde	NPP	NPP	n=s|g=f	
+18	a	avoir	V	V	n=s|t=P|p=3	
+19	un	un	DET	DET	n=s|g=m	
+20	rendement	rendement	NC	NC	n=s|g=m	
+21	de	de	P	P		
+22	314	314	NC	NC		
+23	kg	kilogramme	NC	NC	g=m	
+24	)	)	PONCT	PONCT		
+25	[	[	PONCT	PONCT		
+26	10	10	ADJ	ADJ		
+27	]	]	PONCT	PONCT		
+28	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	2008	2008	NC	NC		
+3	,	,	PONCT	PONCT		
+4	le	le	DET	DET	n=s|g=m	
+5	Viêt	_	NPP	NPP		
+6	Nam	_	NPP	NPP		
+7	produit	produire	V	V	n=s|t=P|p=3	
+8	34	34	NC	NC		
+9	%	%	NC	NC	g=m	
+10	de	de	P	P		
+11	la	la	DET	DET	n=s|g=f	
+12	production	production	NC	NC	n=s|g=f	
+13	mondiale	mondial	ADJ	ADJ	n=s|g=f	
+14	(	(	PONCT	PONCT		
+15	98_500	98_500	ADJ	ADJ		
+16	tonnes	tonne	NC	NC	n=p|g=f	
+17	[	[	PONCT	PONCT		
+18	9	9	ADJ	ADJ		
+19	]	]	PONCT	PONCT		
+20	)	)	PONCT	PONCT		
+21	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	est	être	V	V	n=s|t=P|p=3	
+3	suivi	suivre	VPP	VPP	n=s|g=m|t=K	
+4	de	de	P	P		
+5	l'	le	DET	DET	n=s	
+6	Inde	Inde	NPP	NPP	n=s|g=f	
+7	(	(	PONCT	PONCT		
+8	19	19	NC	NC		
+9	%	%	NC	NC	g=m	
+10	,	,	PONCT	PONCT		
+11	50_000	50_000	ADJ	ADJ		
+12	tonnes	tonne	NC	NC	n=p|g=f	
+13	)	)	PONCT	PONCT		
+14	,	,	PONCT	PONCT		
+15	du	de	P+D	P+D	n=s|g=m	
+16	Brésil	Brésil	NPP	NPP	n=s|g=m	
+17	(	(	PONCT	PONCT		
+18	13	13	ADJ	ADJ		
+19	%	%	NC	NC	g=m	
+20	,	,	PONCT	PONCT		
+21	35_000	35_000	ADJ	ADJ		
+22	tonnes	tonne	NC	NC	n=p|g=f	
+23	)	)	PONCT	PONCT		
+24	,	,	PONCT	PONCT		
+25	de	de	P	P		
+26	l'	le	DET	DET	n=s	
+27	Indonésie	Indonésie	NPP	NPP	n=s|g=f	
+28	(	(	PONCT	PONCT		
+29	9	9	ADJ	ADJ		
+30	%	%	NC	NC	g=m	
+31	,	,	PONCT	PONCT		
+32	25_000	25_000	ADJ	ADJ		
+33	tonnes	tonne	NC	NC	n=p|g=f	
+34	)	)	PONCT	PONCT		
+35	,	,	PONCT	PONCT		
+36	de	de	P	P		
+37	la	la	DET	DET	n=s|g=f	
+38	Malaisie	Malaisie	NPP	NPP	n=s|g=f	
+39	(	(	PONCT	PONCT		
+40	8	8	ADJ	ADJ		
+41	%	%	NC	NC	g=m	
+42	,	,	PONCT	PONCT		
+43	20_000	20_000	ADJ	ADJ		
+44	tonnes	tonne	NC	NC	n=p|g=f	
+45	)	)	PONCT	PONCT		
+46	,	,	PONCT	PONCT		
+47	de	de	P	P		
+48	la	la	DET	DET	n=s|g=f	
+49	Chine	Chine	NPP	NPP	n=s|g=f	
+50	(	(	PONCT	PONCT		
+51	7	7	ADJ	ADJ		
+52	%	%	NC	NC	g=m	
+53	)	)	PONCT	PONCT		
+54	,	,	PONCT	PONCT		
+55	du	de	P+D	P+D	n=s|g=m	
+56	Sri	Sri	NPP	NPP	n=s|g=f	
+57	Lanka	_	NPP	NPP		
+58	(	(	PONCT	PONCT		
+59	6	6	ADJ	ADJ		
+60	%	%	NC	NC	g=m	
+61	)	)	PONCT	PONCT		
+62	et	et	CC	CC		
+63	de	de	P	P		
+64	la	la	DET	DET	n=s|g=f	
+65	Thaïlande	Thaïlande	NPP	NPP	n=s|g=f	
+66	(	(	PONCT	PONCT		
+67	4	4	ADJ	ADJ		
+68	%	%	NC	NC	g=m	
+69	)	)	PONCT	PONCT		
+70	[	[	PONCT	PONCT		
+71	8	8	NC	NC		
+72	]	]	PONCT	PONCT		
+73	.	.	PONCT	PONCT		
+
+1	Toujours	toujours	ADV	ADV		
+2	en	en	P	P		
+3	2008	2008	NC	NC		
+4	,	,	PONCT	PONCT		
+5	les	les	DET	DET	n=p	
+6	exportations	exportation	NC	NC	n=p|g=f	
+7	sont	être	V	V	n=p|t=P|p=3	
+8	de	de	P	P		
+9	83_000	83_000	ADJ	ADJ		
+10	tonnes	tonne	NC	NC	n=p|g=f	
+11	pour	pour	P	P		
+12	le	le	DET	DET	n=s|g=m	
+13	Viêt	_	NPP	NPP		
+14	Nam	_	NPP	NPP		
+15	,	,	PONCT	PONCT		
+16	de	de	P	P		
+17	36_000	36_000	ADJ	ADJ		
+18	tonnes	tonne	NC	NC	n=p|g=f	
+19	pour	pour	P	P		
+20	le	le	DET	DET	n=s|g=m	
+21	Brésil	Brésil	NPP	NPP	n=s|g=m	
+22	,	,	PONCT	PONCT		
+23	de	de	P	P		
+24	30_000	30_000	ADJ	ADJ		
+25	tonnes	tonne	NC	NC	n=p|g=f	
+26	pour	pour	P	P		
+27	l'	le	DET	DET	n=s	
+28	Inde	Inde	NPP	NPP	n=s|g=f	
+29	,	,	PONCT	PONCT		
+30	de	de	P	P		
+31	19_000	19_000	ADJ	ADJ		
+32	tonnes	tonne	NC	NC	n=p|g=f	
+33	pour	pour	P	P		
+34	la	la	DET	DET	n=s|g=f	
+35	Malaisie	Malaisie	NPP	NPP	n=s|g=f	
+36	,	,	PONCT	PONCT		
+37	de	de	P	P		
+38	16_300	16_300	ADJ	ADJ		
+39	tonnes	tonne	NC	NC	n=p|g=f	
+40	pour	pour	P	P		
+41	l'	le	DET	DET	n=s	
+42	Indonésie	Indonésie	NPP	NPP	n=s|g=f	
+43	,	,	PONCT	PONCT		
+44	de	de	P	P		
+45	8_500	8_500	ADJ	ADJ		
+46	tonnes	tonne	NC	NC	n=p|g=f	
+47	pour	pour	P	P		
+48	le	le	DET	DET	n=s|g=m	
+49	Sri	Sri	NPP	NPP	n=s|g=f	
+50	Lanka	_	NPP	NPP		
+51	,	,	PONCT	PONCT		
+52	de	de	P	P		
+53	3_000	3_000	ADJ	ADJ		
+54	tonnes	tonne	NC	NC	n=p|g=f	
+55	pour	pour	P	P		
+56	la	la	DET	DET	n=s|g=f	
+57	Chine	Chine	NPP	NPP	n=s|g=f	
+58	et	et	CC	CC		
+59	de	de	P	P		
+60	1_500	1_500	ADJ	ADJ		
+61	tonnes	tonne	NC	NC	n=p|g=f	
+62	pour	pour	P	P		
+63	la	la	DET	DET	n=s|g=f	
+64	Thaïlande	Thaïlande	NPP	NPP	n=s|g=f	
+65	[	[	PONCT	PONCT		
+66	11	11	NC	NC		
+67	]	]	PONCT	PONCT		
+68	et	et	CC	CC		
+69	1_200	1_200	ADJ	ADJ		
+70	tonnes	tonne	NC	NC	n=p|g=f	
+71	pour	pour	P	P		
+72	Madagascar	Madagascar	NPP	NPP	n=s|g=m	
+73	[	[	PONCT	PONCT		
+74	12	12	ADJ	ADJ		
+75	]	]	PONCT	PONCT		
+76	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	2009	2009	NC	NC		
+3	,	,	PONCT	PONCT		
+4	la	la	DET	DET	n=s|g=f	
+5	production	production	NC	NC	n=s|g=f	
+6	mondiale	mondial	ADJ	ADJ	n=s|g=f	
+7	est	être	V	V	n=s|t=P|p=3	
+8	de	de	P	P		
+9	285_000	285_000	ADJ	ADJ		
+10	tonnes	tonne	NC	NC	n=p|g=f	
+11	[	[	PONCT	PONCT		
+12	13	13	ADJ	ADJ		
+13	]	]	PONCT	PONCT		
+14	dont	dont	PROREL	PROREL		
+15	celle	celle	PRO	PRO	n=s|g=f	
+16	du	de	P+D	P+D	n=s|g=m	
+17	Viêt	_	NPP	NPP		
+18	Nam	_	NPP	NPP		
+19	atteignant	atteindre	VPR	VPR	t=G	
+20	105_600	105_600	ADJ	ADJ		
+21	tonnes	tonne	NC	NC	n=p|g=f	
+22	[	[	PONCT	PONCT		
+23	9	9	ADJ	ADJ		
+24	]	]	PONCT	PONCT		
+25	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	2010	2010	NC	NC		
+3	,	,	PONCT	PONCT		
+4	la	la	DET	DET	n=s|g=f	
+5	production	production	NC	NC	n=s|g=f	
+6	mondiale	mondial	ADJ	ADJ	n=s|g=f	
+7	est	être	V	V	n=s|t=P|p=3	
+8	estimée	estimer	VPP	VPP	n=s|g=f|t=K	
+9	de	de	P	P		
+10	320_000	320_000	VINF	VINF		
+11	à	à	P	P		
+12	350_000	350_000	ADJ	ADJ		
+13	tonnes	tonne	NC	NC	n=p|g=f	
+14	[	[	PONCT	PONCT		
+15	13	13	ADJ	ADJ		
+16	]	]	PONCT	PONCT		
+17	.	.	PONCT	PONCT		
+
+1	Une	une	DET	DET	n=s|g=f	
+2	bonne	bon	ADJ	ADJ	n=s|g=f	
+3	partie	partie	NC	NC	n=s|g=f	
+4	du	de	P+D	P+D	n=s|g=m	
+5	poivre	poivre	NC	NC	n=s|g=m	
+6	part	partir	V	V	n=s|t=P|p=3	
+7	vers	vers	P	P		
+8	Cochin	_	NPP	NPP		
+9	,	,	PONCT	PONCT		
+10	capitale	capitale	NC	NC	n=s|g=f	
+11	de	de	P	P		
+12	l'	le	DET	DET	n=s	
+13	épice	épice	NC	NC	n=s|g=f	
+14	,	,	PONCT	PONCT		
+15	où	où	PROREL	PROREL		
+16	se	se	CLR	CLR	n=p,s|p=3	
+17	croisent	croiser	V	V	n=p|t=P,S|p=3	
+18	négociants	négociant	NC	NC	n=p|g=m	
+19	,	,	PONCT	PONCT		
+20	acheteurs	acheteur	NC	NC	n=p|g=m	
+21	,	,	PONCT	PONCT		
+22	experts	expert	NC	NC	n=p	
+23	et	et	CC	CC		
+24	fonctionnaires	fonctionnaire	NC	NC	n=p	
+25	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	poivre	poivre	NC	NC	n=s|g=m	
+3	noir	noir	ADJ	ADJ	n=s|g=m	
+4	est	être	V	V	n=s|t=P|p=3	
+5	très	très	ADV	ADV		
+6	apprécié	apprécier	VPP	VPP	n=s|g=m|t=K	
+7	des	de	P+D	P+D	n=p	
+8	gourmets	gourmet	NC	NC	n=p|g=m	
+9	[	[	PONCT	PONCT		
+10	14	14	ADJ	ADJ		
+11	]	]	PONCT	PONCT		
+12	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	poivres	poivre	NC	NC	n=p|g=m	
+3	noirs	noir	ADJ	ADJ	n=p|g=m	
+4	dits	dire	VPP	VPP	n=p|g=m|t=K	
+5	"	"	PONCT	PONCT		
+6	d'	de	P	P		
+7	origine	origine	NC	NC	n=s|g=f	
+8	"	"	PONCT	PONCT		
+9	sont	être	V	V	n=p|t=P|p=3	
+10	les	les	DET	DET	n=p	
+11	plus	plus	ADV	ADV		
+12	réputés	réputer	ADJ	ADJ	n=p|g=m|t=K	
+13	[	[	PONCT	PONCT		
+14	15	15	ADJ	ADJ		
+15	]	]	PONCT	PONCT		
+16	:	:	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	poivre	poivre	NC	NC	n=s|g=m	
+3	doit	devoir	V	V	n=s|t=P|p=3	
+4	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+5	saveur	saveur	NC	NC	n=s|g=f	
+6	piquante	piquant	ADJ	ADJ	n=s|g=f	
+7	à	à	P	P		
+8	des	des	DET	DET	n=p	
+9	amides	amide	NC	NC	n=p|g=m	
+10	de	de	P	P		
+11	la	la	DET	DET	n=s|g=f	
+12	pipérine	pipérine	NC	NC	n=s|g=f	
+13	.	.	PONCT	PONCT		
+
+1	Selon	selon	P	P		
+2	Christophe	Christophe	NPP	NPP	n=s|g=m	
+3	Brusset	_	NPP	NPP		
+4	,	,	PONCT	PONCT		
+5	certains	certain	DET	DET	n=p|g=m	
+6	poivres	poivre	NC	NC	n=p|g=m	
+7	moulus	_	NC	NC		
+8	sont	être	V	V	n=p|t=P|p=3	
+9	constitués	constituer	VPP	VPP	n=p|g=m|t=K	
+10	en	en	P	P		
+11	partie	partie	NC	NC	n=s|g=f	
+12	de	de	P	P		
+13	baies	baie	NC	NC	n=p|g=f	
+14	avortées	avorter	VPP	VPP	n=p|g=f|t=K	
+15	,	,	PONCT	PONCT		
+16	de	de	P	P		
+17	poivre	poivre	NC	NC	n=s|g=m	
+18	épuisé	épuiser	ADJ	ADJ	n=s|g=m|t=K	
+19	,	,	PONCT	PONCT		
+20	de	de	P	P		
+21	grignons	grignon	NC	NC	n=p|g=m	
+22	d'	de	P	P		
+23	olive	olive	NC	NC	n=s|g=f	
+24	ou	ou	CC	CC		
+25	d'	de	DET	DET	n=p	
+26	autres	autres	PRO	PRO	n=p|g=f,m	
+27	"	"	PONCT	PONCT		
+28	excipients	excipient	NC	NC	n=p|g=m	
+29	"	"	PONCT	PONCT		
+30	[	[	PONCT	PONCT		
+31	16	16	ADJ	ADJ		
+32	]	]	PONCT	PONCT		
+33	.	.	PONCT	PONCT		
+
+1	Cela	cela	PRO	PRO	n=s|g=m	
+2	expliquerait	expliquer	V	V	n=s|t=C|p=3	
+3	pourquoi	pourquoi	ADVWH	ADVWH		
+4	certains	certain	DET	DET	n=p|g=m	
+5	poivres	poivre	NC	NC	n=p|g=m	
+6	moulus	_	NC	NC		
+7	sont	être	V	V	n=p|t=P|p=3	
+8	vendus	vendre	VPP	VPP	n=p|g=m|t=K	
+9	moins	moins	ADV	ADV		
+10	chers	cher	ADJ	ADJ	n=p|g=m	
+11	au	à	P+D	P+D	n=s|g=m	
+12	poids	poids	NC	NC	g=m	
+13	que	que	CS	CS		
+14	du	de	P+D	P+D	n=s|g=m	
+15	poivre	poivre	NC	NC	n=s|g=m	
+16	en	en	P	P		
+17	grain	grain	NC	NC	n=s|g=m	
+18	,	,	PONCT	PONCT		
+19	alors	alors	ADV	ADV		
+20	même	même	ADV	ADV		
+21	que	que	CS	CS		
+22	le	le	DET	DET	n=s|g=m	
+23	broyage	broyage	NC	NC	n=s|g=m	
+24	engendre	engendrer	V	V	n=s|t=P,S|p=1,3	
+25	un	un	DET	DET	n=s|g=m	
+26	coût	coût	NC	NC	n=s|g=m	
+27	supplémentaire	supplémentaire	ADJ	ADJ	n=s	
+28	[	[	PONCT	PONCT		
+29	16	16	ADJ	ADJ		
+30	]	]	PONCT	PONCT		
+31	.	.	PONCT	PONCT		
+
+1	Cela	cela	PRO	PRO	n=s|g=m	
+2	pourrait	pouvoir	V	V	n=s|t=C|p=3	
+3	par	par	P	P		
+4	exemple	exemple	NC	NC	n=s|g=m	
+5	expliquer	expliquer	VINF	VINF	t=W	
+6	pourquoi	pourquoi	ADVWH	ADVWH		
+7	le	le	DET	DET	n=s|g=m	
+8	poivre	poivre	NC	NC	n=s|g=m	
+9	noir	noir	ADJ	ADJ	n=s|g=m	
+10	moulu	moudre	VPP	VPP	n=s|g=m|t=K	
+11	de	de	P	P		
+12	marque	marque	NC	NC	n=s|g=f	
+13	Carrefour	Carrefour	NPP	NPP	n=s|g=f	
+14	est	être	V	V	n=s|t=P|p=3	
+15	vendu	vendre	VPP	VPP	n=s|g=m|t=K	
+16	presque	presque	ADV	ADV		
+17	moitié	moitié	NC	NC	n=s|g=f	
+18	moins	moins	ADV	ADV		
+19	cher	cher	ADJ	ADJ	n=s|g=m	
+20	que	que	CS	CS		
+21	le	le	DET	DET	n=s|g=m	
+22	même	même	ADJ	ADJ	n=s	
+23	poivre	poivre	NC	NC	n=s|g=m	
+24	noir	noir	ADJ	ADJ	n=s|g=m	
+25	en	en	P	P		
+26	grains	grain	NC	NC	n=p|g=m	
+27	[	[	PONCT	PONCT		
+28	17	17	NC	NC		
+29	]	]	PONCT	PONCT		
+30	,	,	PONCT	PONCT		
+31	[	[	PONCT	PONCT		
+32	18	18	ADJ	ADJ		
+33	]	]	PONCT	PONCT		
+34	.	.	PONCT	PONCT		
+
+1	Sur	sur	P	P		
+2	les	les	DET	DET	n=p	
+3	autres	autre	ADJ	ADJ	n=p	
+4	projets	projet	NC	NC	n=p|g=m	
+5	Wikimedia	_	NPP	NPP		
+6	:	:	PONCT	PONCT		
+

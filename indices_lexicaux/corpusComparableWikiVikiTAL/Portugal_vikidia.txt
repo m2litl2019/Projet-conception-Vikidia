@@ -1,0 +1,4108 @@
+1	Le	le	DET	DET	n=s|g=m	
+2	Portugal	Portugal	NPP	NPP	n=s|g=m	
+3	,	,	PONCT	PONCT		
+4	officiellement	_	ADV	ADV		
+5	République	république	NC	NC	n=s|g=f	
+6	portugaise	portugais	ADJ	ADJ	n=s|g=f	
+7	,	,	PONCT	PONCT		
+8	en	en	P	P		
+9	portugais	portugais	NC	NC	g=m	
+10	República	_	NPP	NPP		
+11	Portuguesa	_	NPP	NPP		
+12	est	être	V	V	n=s|t=P|p=3	
+13	un	un	DET	DET	n=s|g=m	
+14	État	État	NC	NC	n=s|g=m	
+15	situé	situer	VPP	VPP	n=s|g=m|t=K	
+16	au	à	P+D	P+D	n=s|g=m	
+17	sud	_	NPP	NPP		
+18	-	-	PONCT	PONCT		
+19	ouest	ouest	NC	NC	n=s|g=m	
+20	de	de	P	P		
+21	l'	le	DET	DET	n=s	
+22	Europe	Europe	NPP	NPP	n=s|g=f	
+23	et	et	CC	CC		
+24	membre	membre	NC	NC	n=s|g=m	
+25	de	de	P	P		
+26	l'	le	DET	DET	n=s	
+27	Union	union	NC	NC	n=s|g=f	
+28	européenne	européen	ADJ	ADJ	n=s|g=f	
+29	.	.	PONCT	PONCT		
+
+1	C'	ce	CLS	CLS		
+2	est	être	V	V	n=s|t=P|p=3	
+3	le	le	DET	DET	n=s|g=m	
+4	pays	pays	NC	NC	g=m	
+5	le	le	DET	DET	n=s|g=m	
+6	plus	plus	ADV	ADV		
+7	à	à	P	P		
+8	l'	le	DET	DET	n=s	
+9	ouest	ouest	NC	NC	n=s|g=m	
+10	de	de	P	P		
+11	la	la	DET	DET	n=s|g=f	
+12	péninsule	péninsule	NC	NC	n=s|g=f	
+13	Ibérique	_	NPP	NPP		
+14	ainsi	ainsi	ADV	ADV		
+15	que	que	CS	CS		
+16	du	de	P+D	P+D	n=s|g=m	
+17	continent	continent	NC	NC	n=s|g=m	
+18	européen	européen	ADJ	ADJ	n=s|g=m	
+19	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	tout	tout	PRO	PRO	n=s|g=m	
+3	,	,	PONCT	PONCT		
+4	il	il	CLS	CLS	n=s|g=m|p=3	
+5	possède	posséder	V	V	n=s|t=P,S|p=1,3	
+6	une	une	DET	DET	n=s|g=f	
+7	superficie	superficie	NC	NC	n=s|g=f	
+8	de	de	P	P		
+9	92_391	92_391	NC	NC		
+10	km²	_	NPP	NPP		
+11	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	est	être	V	V	n=s|t=P|p=3	
+3	délimité	délimiter	VPP	VPP	n=s|g=m|t=K	
+4	au	à	P+D	P+D	n=s|g=m	
+5	nord	_	NPP	NPP		
+6	et	et	CC	CC		
+7	à	à	P	P		
+8	l'	le	DET	DET	n=s	
+9	est	_	NPP	NPP		
+10	par	par	P	P		
+11	l'	le	DET	DET	n=s	
+12	Espagne	Espagne	NPP	NPP	n=s|g=f	
+13	et	et	CC	CC		
+14	au	à	P+D	P+D	n=s|g=m	
+15	sud	_	NPP	NPP		
+16	et	et	CC	CC		
+17	à	à	P	P		
+18	l'	le	DET	DET	n=s	
+19	ouest	ouest	NC	NC	n=s|g=m	
+20	par	par	P	P		
+21	l'	le	DET	DET	n=s	
+22	océan	océan	NC	NC	n=s|g=m	
+23	Atlantique	_	NPP	NPP		
+24	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	pays	pays	NC	NC	g=m	
+3	comprend	comprendre	V	V	n=s|t=P|p=3	
+4	des	de	P+D	P+D	n=p	
+5	régions	région	NC	NC	n=p|g=f	
+6	autonomes	autonome	ADJ	ADJ	n=p	
+7	qui	qui	PROREL	PROREL	n=s	
+8	sont	être	V	V	n=p|t=P|p=3	
+9	les	les	DET	DET	n=p	
+10	archipels	archipel	NC	NC	n=p|g=m	
+11	des	de	P+D	P+D	n=p	
+12	Açores	_	NC	NC		
+13	et	et	CC	CC		
+14	de	de	P	P		
+15	Madère	_	NPP	NPP		
+16	.	.	PONCT	PONCT		
+
+1	Enfin	enfin	ADV	ADV		
+2	,	,	PONCT	PONCT		
+3	le	le	DET	DET	n=s|g=m	
+4	pays	pays	NC	NC	g=m	
+5	possède	posséder	V	V	n=s|t=P,S|p=1,3	
+6	un	un	DET	DET	n=s|g=m	
+7	climat	climat	NC	NC	n=s|g=m	
+8	océanique	océanique	ADJ	ADJ	n=s	
+9	au	à	P+D	P+D	n=s|g=m	
+10	Nord	Nord	NPP	NPP	n=s|g=m	
+11	et	et	CC	CC		
+12	un	un	DET	DET	n=s|g=m	
+13	climat	climat	NC	NC	n=s|g=m	
+14	méditerranéen	méditerranéen	ADJ	ADJ	n=s|g=m	
+15	au	à	P+D	P+D	n=s|g=m	
+16	Sud	sud	NC	NC	n=s|g=m	
+17	.	.	PONCT	PONCT		
+
+1	Aux	à	P+D	P+D	n=p	
+2	XVe	_	NPP	NPP		
+3	et	et	CC	CC		
+4	XVIe	_	ADJ	ADJ		
+5	siècles	siècle	NC	NC	n=p|g=m	
+6	,	,	PONCT	PONCT		
+7	le	le	DET	DET	n=s|g=m	
+8	Portugal	Portugal	NPP	NPP	n=s|g=m	
+9	établit	établir	V	V	n=s|t=J,P|p=3	
+10	des	des	DET	DET	n=p	
+11	colonies	colonie	NC	NC	n=p|g=f	
+12	en	en	P	P		
+13	Amérique	Amérique	NPP	NPP	n=s|g=f	
+14	,	,	PONCT	PONCT		
+15	en	en	P	P		
+16	Afrique	Afrique	NPP	NPP	n=s|g=f	
+17	et	et	CC	CC		
+18	même	même	ADV	ADV		
+19	en	en	P	P		
+20	Asie	Asie	NPP	NPP	n=s|g=f	
+21	.	.	PONCT	PONCT		
+
+1	Cela	cela	PRO	PRO	n=s|g=m	
+2	lui	lui	CLO	CLO	n=s|p=3	
+3	a	avoir	V	V	n=s|t=P|p=3	
+4	permis	permettre	VPP	VPP	g=m|t=K	
+5	de	de	P	P		
+6	développer	développer	VINF	VINF	t=W	
+7	une	une	DET	DET	n=s|g=f	
+8	économie	économie	NC	NC	n=s|g=f	
+9	mondialisée	mondialiser	VPP	VPP	n=s|g=f|t=K	
+10	,	,	PONCT	PONCT		
+11	une	une	DET	DET	n=s|g=f	
+12	grande	grand	ADJ	ADJ	n=s|g=f	
+13	culture	culture	NC	NC	n=s|g=f	
+14	et	et	CC	CC		
+15	un	un	DET	DET	n=s|g=m	
+16	empire	empire	NC	NC	n=s|g=m	
+17	colonial	colonial	ADJ	ADJ	n=s|g=m	
+18	durable	durable	ADJ	ADJ	n=s	
+19	.	.	PONCT	PONCT		
+
+1	Depuis	depuis	P	P		
+2	1255	1255	NC	NC		
+3	,	,	PONCT	PONCT		
+4	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+5	capitale	capitale	NC	NC	n=s|g=f	
+6	est	être	V	V	n=s|t=P|p=3	
+7	Lisbonne	Lisbonne	NPP	NPP	n=s|g=m	
+8	.	.	PONCT	PONCT		
+
+1	De	de	P	P		
+2	1808	1808	NC	NC		
+3	à	à	P	P		
+4	1821	1821	NC	NC		
+5	,	,	PONCT	PONCT		
+6	durant	durant	P	P		
+7	l'	le	DET	DET	n=s	
+8	époque	époque	NC	NC	n=s|g=f	
+9	des	de	P+D	P+D	n=p	
+10	guerres	guerre	NC	NC	n=p|g=f	
+11	napoléoniennes	napoléonien	ADJ	ADJ	n=p|g=f	
+12	,	,	PONCT	PONCT		
+13	la	la	DET	DET	n=s|g=f	
+14	capitale	capitale	NC	NC	n=s|g=f	
+15	du	de	P+D	P+D	n=s|g=m	
+16	Portugal	Portugal	NPP	NPP	n=s|g=m	
+17	a	avoir	V	V	n=s|t=P|p=3	
+18	été	être	VPP	VPP	t=K	
+19	transférée	transférer	VPP	VPP	n=s|g=f|t=K	
+20	à	à	P	P		
+21	Rio	Rio	NPP	NPP	n=s|g=m	
+22	de	de	P	P		
+23	Janeiro	_	NPP	NPP		
+24	(	(	PONCT	PONCT		
+25	au	à	P+D	P+D	n=s|g=m	
+26	Brésil	Brésil	NPP	NPP	n=s|g=m	
+27	)	)	PONCT	PONCT		
+28	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	Portugal	Portugal	NPP	NPP	n=s|g=m	
+3	,	,	PONCT	PONCT		
+4	politiquement	_	ADV	ADV		
+5	stable	stable	ADJ	ADJ	n=s	
+6	depuis	depuis	P	P		
+7	1974	1974	NC	NC		
+8	,	,	PONCT	PONCT		
+9	fait	faire	V	V	n=s|t=P|p=3	
+10	partie	partie	NC	NC	n=s|g=f	
+11	des	de	P+D	P+D	n=p	
+12	pays	pays	NC	NC	g=m	
+13	développés	développer	VPP	VPP	n=p|g=m|t=K	
+14	et	et	CC	CC		
+15	possède	posséder	V	V	n=s|t=P,S|p=1,3	
+16	un	un	DET	DET	n=s|g=m	
+17	indice	indice	NC	NC	n=s|g=m	
+18	de	de	P	P		
+19	développement	développement	NC	NC	n=s|g=m	
+20	humain	humain	ADJ	ADJ	n=s|g=m	
+21	très	très	ADV	ADV		
+22	élevé	élever	ADJ	ADJ	n=s|g=m|t=K	
+23	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	histoire	histoire	NC	NC	n=s|g=f	
+3	du	de	P+D	P+D	n=s|g=m	
+4	Portugal	Portugal	NPP	NPP	n=s|g=m	
+5	est	être	V	V	n=s|t=P|p=3	
+6	partagée	partager	VPP	VPP	n=s|g=f|t=K	
+7	avec	avec	P	P		
+8	celle	celle	PRO	PRO	n=s|g=f	
+9	de	de	P	P		
+10	la	la	DET	DET	n=s|g=f	
+11	péninsule	péninsule	NC	NC	n=s|g=f	
+12	Ibérique	_	NPP	NPP		
+13	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	région	région	NC	NC	n=s|g=f	
+3	a	avoir	V	V	n=s|t=P|p=3	
+4	été	être	VPP	VPP	t=K	
+5	peuplée	peupler	VPP	VPP	n=s|g=f|t=K	
+6	par	par	P	P		
+7	des	des	DET	DET	n=p	
+8	pré	pré	NC	NC	n=s|g=m	
+9	-	-	PONCT	PONCT		
+10	celtes	celte	ADJ	ADJ	n=p	
+11	et	et	CC	CC		
+12	des	de	P+D	P+D	n=p	
+13	celtes	celte	NC	NC	n=p	
+14	;	;	PONCT	PONCT		
+15	elle	elle	CLS	CLS	n=s|g=f|p=3	
+16	est	être	V	V	n=s|t=P|p=3	
+17	à	à	P	P		
+18	l'	le	DET	DET	n=s	
+19	origine	origine	NC	NC	n=s|g=f	
+20	de	de	P	P		
+21	peuples	peuple	NC	NC	n=p|g=m	
+22	comme	comme	P	P		
+23	les	les	DET	DET	n=p	
+24	Gallaeci	_	NPP	NPP		
+25	,	,	PONCT	PONCT		
+26	les	les	DET	DET	n=p	
+27	Lusitaniens	lusitanien	NC	NC	n=p|g=f	
+28	et	et	CC	CC		
+29	les	les	DET	DET	n=p	
+30	Cinii	_	NPP	NPP		
+31	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	a	avoir	V	V	n=s|t=P|p=3	
+3	été	être	VPP	VPP	t=K	
+4	visitée	visiter	VPP	VPP	n=s|g=f|t=K	
+5	par	par	P	P		
+6	les	les	DET	DET	n=p	
+7	Phéniciens	phénicien	NC	NC	n=p|g=m	
+8	et	et	CC	CC		
+9	les	les	DET	DET	n=p	
+10	Carthaginois	_	NPP	NPP		
+11	.	.	PONCT	PONCT		
+
+1	Ce	ce	PRO	PRO	n=s	
+2	qui	qui	PROREL	PROREL	n=s	
+3	est	être	V	V	n=s|t=P|p=3	
+4	maintenant	maintenant	ADV	ADV		
+5	le	le	DET	DET	n=s|g=m	
+6	Portugal	Portugal	NPP	NPP	n=s|g=m	
+7	a	avoir	V	V	n=s|t=P|p=3	
+8	été	être	VPP	VPP	t=K	
+9	une	une	DET	DET	n=s|g=f	
+10	partie	partie	NC	NC	n=s|g=f	
+11	de	de	P	P		
+12	l'	le	DET	DET	n=s	
+13	Empire	empire	NC	NC	n=s|g=m	
+14	romain	romain	NC	NC	n=s|g=m	
+15	qui	qui	PROREL	PROREL	n=s	
+16	fut	être	V	V	n=s|t=J|p=3	
+17	ensuite	ensuite	ADV	ADV		
+18	envahie	envahir	VPP	VPP	n=s|g=f|t=K	
+19	par	par	P	P		
+20	les	les	DET	DET	n=p	
+21	Suèves	_	NPP	NPP		
+22	,	,	PONCT	PONCT		
+23	les	les	DET	DET	n=p	
+24	Buri	_	NPP	NPP		
+25	et	et	CC	CC		
+26	les	les	DET	DET	n=p	
+27	Wisigoths	_	NPP	NPP		
+28	,	,	PONCT	PONCT		
+29	puis	puis	CC	CC		
+30	conquise	conquérir	VPP	VPP	n=s|g=f|t=K	
+31	par	par	P	P		
+32	les	les	DET	DET	n=p	
+33	Maures	_	NPP	NPP		
+34	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	868	868	NC	NC		
+3	,	,	PONCT	PONCT		
+4	pendant	pendant	P	P		
+5	la	la	DET	DET	n=s|g=f	
+6	Reconquista	_	NPP	NPP		
+7	,	,	PONCT	PONCT		
+8	s'	se	CLR	CLR	n=p,s|p=3	
+9	est	être	V	V	n=s|t=P|p=3	
+10	formé	former	VPP	VPP	n=s|g=m|t=K	
+11	le	le	DET	DET	n=s|g=m	
+12	Comté	comté	NC	NC	n=s|g=m	
+13	Portucalense	_	NPP	NPP		
+14	.	.	PONCT	PONCT		
+
+1	Bien	bien	ADV	ADV		
+2	avant	avant	ADV	ADV		
+3	que	que	CS	CS		
+4	le	le	DET	DET	n=s|g=m	
+5	Portugal	Portugal	NPP	NPP	n=s|g=m	
+6	ne	ne	ADV	ADV		
+7	soit	être	VS	VS	n=s|t=S|p=3	
+8	indépendant	indépendant	ADJ	ADJ	n=s|g=m	
+9	,	,	PONCT	PONCT		
+10	il	il	CLS	CLS	n=s|g=m|p=3	
+11	y	y	CLO	CLO		
+12	avait	avoir	V	V	n=s|t=I|p=3	
+13	déjà	déjà	ADV	ADV		
+14	eu	avoir	VPP	VPP	n=s|g=m|t=K	
+15	quelques	quelques	DET	DET	n=p	
+16	tentatives	tentative	NC	NC	n=p|g=f	
+17	pour	pour	P	P		
+18	accéder	accéder	VINF	VINF	t=W	
+19	à	à	P	P		
+20	un	un	DET	DET	n=s|g=m	
+21	statut	statut	NC	NC	n=s|g=m	
+22	plus	plus	ADV	ADV		
+23	autonome	autonome	ADJ	ADJ	n=s	
+24	.	.	PONCT	PONCT		
+
+1	Pour	pour	P	P		
+2	en	en	CLO	CLO		
+3	finir	finir	VINF	VINF	t=W	
+4	avec	avec	P	P		
+5	ce	ce	DET	DET	n=s|g=m	
+6	climat	climat	NC	NC	n=s|g=m	
+7	indépendantiste	indépendantiste	ADJ	ADJ	n=s	
+8	de	de	P	P		
+9	la	la	DET	DET	n=s|g=f	
+10	noblesse	noblesse	NC	NC	n=s|g=f	
+11	locale	local	ADJ	ADJ	n=s|g=f	
+12	concernant	concerner	VPR	VPR	t=G	
+13	le	le	DET	DET	n=s|g=m	
+14	domaine	domaine	NC	NC	n=s|g=m	
+15	Leonês	_	NPP	NPP		
+16	,	,	PONCT	PONCT		
+17	le	le	DET	DET	n=s|g=m	
+18	roi	roi	NC	NC	n=s|g=m	
+19	Alphonse	Alphonse	NPP	NPP	n=s|g=m	
+20	VI	_	NPP	NPP		
+21	de	de	P	P		
+22	Castille	_	NPP	NPP		
+23	a	avoir	V	V	n=s|t=P|p=3	
+24	livré	livrer	VPP	VPP	n=s|g=m|t=K	
+25	le	le	DET	DET	n=s|g=m	
+26	gouvernement	gouvernement	NC	NC	n=s|g=m	
+27	du	de	P+D	P+D	n=s|g=m	
+28	Comté	comté	NC	NC	n=s|g=m	
+29	de	de	P	P		
+30	la	la	DET	DET	n=s|g=f	
+31	Galice1	_	NPP	NPP		
+32	au	à	P+D	P+D	n=s|g=m	
+33	Comte	comte	NC	NC	n=s|g=m	
+34	Raymond	Raymond	NPP	NPP	n=s|g=m	
+35	de	de	P	P		
+36	Bourgogne	Bourgogne	NPP	NPP	n=s|g=f,m	
+37	.	.	PONCT	PONCT		
+
+1	Après	après	P	P		
+2	beaucoup	beaucoup	ADV	ADV		
+3	d'	de	P	P		
+4	échecs	échec	NC	NC	n=p|g=m	
+5	militaires	militaire	ADJ	ADJ	n=p	
+6	de	de	P	P		
+7	Raymond	Raymond	NPP	NPP	n=s|g=m	
+8	de	de	P	P		
+9	Bourgogne	Bourgogne	NPP	NPP	n=s|g=f,m	
+10	contre	contre	P	P		
+11	les	les	DET	DET	n=p	
+12	Maures	_	NPP	NPP		
+13	,	,	PONCT	PONCT		
+14	Alphonse	Alphonse	NPP	NPP	n=s|g=m	
+15	VI	_	NPP	NPP		
+16	décida	décider	V	V	n=s|t=J|p=3	
+17	,	,	PONCT	PONCT		
+18	en	en	P	P		
+19	1096	1096	NC	NC		
+20	,	,	PONCT	PONCT		
+21	de	de	P	P		
+22	donner	donner	VINF	VINF	t=W	
+23	au	à	P+D	P+D	n=s|g=m	
+24	cousin	cousin	NC	NC	n=s|g=m	
+25	de	de	P	P		
+26	celui	celui	PRO	PRO	n=s|g=m	
+27	-	-	PONCT	PONCT		
+28	ci	_	ADV	ADV		
+29	le	le	DET	DET	n=s|g=m	
+30	gouvernement	gouvernement	NC	NC	n=s|g=m	
+31	des	de	P+D	P+D	n=p	
+32	terres	terre	NC	NC	n=p|g=f	
+33	plus	plus	ADV	ADV		
+34	au	à	P+D	P+D	n=s|g=m	
+35	sud	sud	NC	NC	n=s|g=m	
+36	du	de	P+D	P+D	n=s|g=m	
+37	Comté	comté	NC	NC	n=s|g=m	
+38	de	de	P	P		
+39	la	la	DET	DET	n=s|g=f	
+40	Galice	_	NPP	NPP		
+41	,	,	PONCT	PONCT		
+42	en	en	P	P		
+43	établissant	établir	VPR	VPR	t=G	
+44	ainsi	ainsi	ADV	ADV		
+45	le	le	DET	DET	n=s|g=m	
+46	Comté	comté	NC	NC	n=s|g=m	
+47	Portucalense	_	NPP	NPP		
+48	.	.	PONCT	PONCT		
+
+1	Avec	avec	P	P		
+2	le	le	DET	DET	n=s|g=m	
+3	gouvernement	gouvernement	NC	NC	n=s|g=m	
+4	du	de	P+D	P+D	n=s|g=m	
+5	comte	comte	NC	NC	n=s|g=m	
+6	Henri	Henri	NPP	NPP	n=s|g=m	
+7	de	de	P	P		
+8	Bourgogne	Bourgogne	NPP	NPP	n=s|g=f,m	
+9	,	,	PONCT	PONCT		
+10	le	le	DET	DET	n=s|g=m	
+11	Comté	_	NPP	NPP		
+12	Portucalense	_	NPP	NPP		
+13	a	avoir	V	V	n=s|t=P|p=3	
+14	connu	connaître	VPP	VPP	n=s|g=m|t=K	
+15	non	non	ADV	ADV		
+16	seulement	_	ADV	ADV		
+17	une	une	DET	DET	n=s|g=f	
+18	politique	politique	NC	NC	n=s|g=f	
+19	militaire	militaire	ADJ	ADJ	n=s	
+20	plus	plus	ADV	ADV		
+21	efficace	efficace	ADJ	ADJ	n=s	
+22	dans	dans	P	P		
+23	la	la	DET	DET	n=s|g=f	
+24	lutte	lutte	NC	NC	n=s|g=f	
+25	contre	contre	P	P		
+26	les	les	DET	DET	n=p	
+27	Maures	_	NPP	NPP		
+28	,	,	PONCT	PONCT		
+29	mais	mais	CC	CC		
+30	aussi	aussi	ADV	ADV		
+31	une	une	DET	DET	n=s|g=f	
+32	politique	politique	NC	NC	n=s|g=f	
+33	indépendantiste	indépendantiste	ADJ	ADJ	n=s	
+34	plus	plus	ADV	ADV		
+35	active	actif	ADJ	ADJ	n=s|g=f	
+36	,	,	PONCT	PONCT		
+37	bien	bien	ADV	ADV		
+38	qu'	que	CS	CS		
+39	il	il	CLS	CLS	n=s|g=m|p=3	
+40	n'	ne	ADV	ADV		
+41	ait	avoir	VS	VS	n=s|t=S|p=3	
+42	jamais	jamais	ADV	ADV		
+43	réussi	réussir	VPP	VPP	n=s|g=m|t=K	
+44	à	à	P	P		
+45	accéder	accéder	VINF	VINF	t=W	
+46	à	à	P	P		
+47	l'	le	DET	DET	n=s	
+48	indépendance	indépendance	NC	NC	n=s|g=f	
+49	.	.	PONCT	PONCT		
+
+1	C'	ce	CLS	CLS		
+2	est	être	V	V	n=s|t=P|p=3	
+3	seulement	_	ADV	ADV		
+4	après	après	P	P		
+5	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+6	décès	décès	NC	NC	g=m	
+7	,	,	PONCT	PONCT		
+8	quand	quand	CS	CS		
+9	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+10	fils	fils	NC	NC	g=m	
+11	Alphonse	Alphonse	NPP	NPP	n=s|g=m	
+12	Ier	_	NPP	NPP		
+13	de	de	P	P		
+14	Portugal	Portugal	NPP	NPP	n=s|g=m	
+15	est	être	V	V	n=s|t=P|p=3	
+16	arrivé	arriver	VPP	VPP	n=s|g=m|t=K	
+17	au	à	P+D	P+D	n=s|g=m	
+18	pouvoir	pouvoir	NC	NC	n=s|g=m	
+19	,	,	PONCT	PONCT		
+20	que	que	CS	CS		
+21	le	le	DET	DET	n=s|g=m	
+22	Portugal	Portugal	NPP	NPP	n=s|g=m	
+23	est	être	V	V	n=s|t=P|p=3	
+24	devenu	devenir	VPP	VPP	n=s|g=m|t=K	
+25	indépendant	indépendant	ADJ	ADJ	n=s|g=m	
+26	,	,	PONCT	PONCT		
+27	avec	avec	P	P		
+28	la	la	DET	DET	n=s|g=f	
+29	signature	signature	NC	NC	n=s|g=f	
+30	en	en	P	P		
+31	1143	1143	NC	NC		
+32	du	de	P+D	P+D	n=s|g=m	
+33	traité	traité	NC	NC	n=s|g=m	
+34	de	de	P	P		
+35	Zamora	_	NPP	NPP		
+36	.	.	PONCT	PONCT		
+
+1	Alphonse	alphonse	NC	NC	n=s|g=m	
+2	Ier	_	NPP	NPP		
+3	de	de	P	P		
+4	Portugal	Portugal	NPP	NPP	n=s|g=m	
+5	a	avoir	V	V	n=s|t=P|p=3	
+6	alors	alors	ADV	ADV		
+7	conquis	conquérir	VPP	VPP	n=p,s|g=m|t=K	
+8	d'	de	DET	DET	n=p	
+9	importantes	important	ADJ	ADJ	n=p|g=f	
+10	localités	localité	NC	NC	n=p|g=f	
+11	,	,	PONCT	PONCT		
+12	comme	comme	P	P		
+13	Santarém	_	NPP	NPP		
+14	,	,	PONCT	PONCT		
+15	Lisbonne	Lisbonne	NPP	NPP	n=s|g=m	
+16	,	,	PONCT	PONCT		
+17	Palmela	_	NPP	NPP		
+18	et	et	CC	CC		
+19	Évora	_	NPP	NPP		
+20	,	,	PONCT	PONCT		
+21	qui	qui	PROREL	PROREL	n=s	
+22	appartenaient	appartenir	V	V	n=p|t=I|p=3	
+23	aux	à	P+D	P+D	n=p	
+24	Maures	_	NPP	NPP		
+25	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	Reconquista	_	NPP	NPP		
+3	dans	dans	P	P		
+4	le	le	DET	DET	n=s|g=m	
+5	territoire	territoire	NC	NC	n=s|g=m	
+6	portugais	portugais	ADJ	ADJ	g=m	
+7	prend	prendre	V	V	n=s|t=P|p=3	
+8	fin	fin	NC	NC	n=s	
+9	en	en	P	P		
+10	1249	1249	NC	NC		
+11	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	indépendance	indépendance	NC	NC	n=s|g=f	
+3	du	de	P+D	P+D	n=s|g=m	
+4	royaume	royaume	NC	NC	n=s|g=m	
+5	portugais	portugais	ADJ	ADJ	g=m	
+6	est	être	V	V	n=s|t=P|p=3	
+7	alors	alors	ADV	ADV		
+8	menacée	menacer	VPP	VPP	n=s|g=f|t=K	
+9	à	à	P	P		
+10	plusieurs	plusieurs	DET	DET	n=p	
+11	reprises	reprise	NC	NC	n=p|g=f	
+12	par	par	P	P		
+13	le	le	DET	DET	n=s|g=m	
+14	royaume	royaume	NC	NC	n=s|g=m	
+15	de	de	P	P		
+16	Castille	_	NPP	NPP		
+
+1	Une	une	DET	DET	n=s|g=f	
+2	première	premier	ADJ	ADJ	n=s|g=f	
+3	fois	fois	NC	NC	g=f	
+4	dans	dans	P	P		
+5	la	la	DET	DET	n=s|g=f	
+6	séquence	séquence	NC	NC	n=s|g=f	
+7	de	de	P	P		
+8	la	la	DET	DET	n=s|g=f	
+9	crise	crise	NC	NC	n=s|g=f	
+10	de	de	P	P		
+11	succession	succession	NC	NC	n=s|g=f	
+12	de	de	P	P		
+13	D	_	NPP	NPP		
+14	.	.	PONCT	PONCT		
+15	Fernando	Fernando	NPP	NPP	n=s|g=m	
+16	I	_	NPP	NPP		
+17	de	de	P	P		
+18	Portugal	Portugal	NPP	NPP	n=s|g=m	
+19	,	,	PONCT	PONCT		
+20	crise	crise	NC	NC	n=s|g=f	
+21	qui	qui	PROREL	PROREL	n=s	
+22	a	avoir	V	V	n=s|t=P|p=3	
+23	culminé	culminer	VPP	VPP	n=s|g=m|t=K	
+24	dans	dans	P	P		
+25	la	la	DET	DET	n=s|g=f	
+26	bataille	bataille	NC	NC	n=s|g=f	
+27	d'	de	P	P		
+28	Aljubarrota	_	NPP	NPP		
+29	,	,	PONCT	PONCT		
+30	en	en	P	P		
+31	1385	1385	NC	NC		
+32	où	où	PROREL	PROREL		
+33	Joao	_	NPP	NPP		
+34	d'	de	P	P		
+35	Aviz	_	NC	NC		
+36	bat	battre	V	V	n=s|t=P|p=3	
+37	le	le	DET	DET	n=s|g=m	
+38	roi	roi	NC	NC	n=s|g=m	
+39	de	de	P	P		
+40	Castille	_	NC	NC		
+41	Jean	Jean	NPP	NPP	n=s	
+42	Ier	_	NPP	NPP		
+43	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	Portugal	Portugal	NPP	NPP	n=s|g=m	
+3	obtient	obtenir	V	V	n=s|t=P|p=3	
+4	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+5	indépendance	indépendance	NC	NC	n=s|g=f	
+6	.	.	PONCT	PONCT		
+
+1	Avec	avec	P	P		
+2	la	la	DET	DET	n=s|g=f	
+3	fin	fin	NC	NC	n=s	
+4	de	de	P	P		
+5	la	la	DET	DET	n=s|g=f	
+6	guerre	guerre	NC	NC	n=s|g=f	
+7	,	,	PONCT	PONCT		
+8	le	le	DET	DET	n=s|g=m	
+9	Portugal	Portugal	NPP	NPP	n=s|g=m	
+10	a	avoir	V	V	n=s|t=P|p=3	
+11	engendré	engendrer	VPP	VPP	n=s|g=m|t=K	
+12	un	un	DET	DET	n=s|g=m	
+13	processus	processus	NC	NC	g=m	
+14	d'	de	P	P		
+15	exploration	exploration	NC	NC	n=s|g=f	
+16	et	et	CC	CC		
+17	d'	de	P	P		
+18	expansion	expansion	NC	NC	n=s|g=f	
+19	rendue	rendre	VPP	VPP	n=s|g=f|t=K	
+20	célèbre	célèbre	ADJ	ADJ	n=s	
+21	par	par	P	P		
+22	des	des	DET	DET	n=p	
+23	découvertes	découverte	NC	NC	n=p|g=f	
+24	,	,	PONCT	PONCT		
+25	dont	dont	PROREL	PROREL		
+26	les	les	DET	DET	n=p	
+27	principaux	principal	ADJ	ADJ	n=p|g=m	
+28	acteurs	acteur	NC	NC	n=p|g=m	
+29	sont	être	V	V	n=p|t=P|p=3	
+30	l'	le	DET	DET	n=s	
+31	infant	infant	NC	NC	n=s|g=m	
+32	D	_	NPP	NPP		
+33	.	.	PONCT	PONCT		
+34	Henri	Henri	NPP	NPP	n=s|g=m	
+35	le	le	DET	DET	n=s|g=m	
+36	Navigateur	_	NPP	NPP		
+37	(	(	PONCT	PONCT		
+38	dit	dire	V	V	n=s|t=J,P|p=3	
+39	le	le	DET	DET	n=s|g=m	
+40	Navigateur	_	NPP	NPP		
+41	)	)	PONCT	PONCT		
+42	et	et	CC	CC		
+43	le	le	DET	DET	n=s|g=m	
+44	roi	roi	NC	NC	n=s|g=m	
+45	D	_	NPP	NPP		
+46	.	.	PONCT	PONCT		
+47	Jean	_	NPP	NPP		
+48	II	_	NPP	NPP		
+49	de	de	P	P		
+50	Portugal	Portugal	NPP	NPP	n=s|g=m	
+51	.	.	PONCT	PONCT		
+
+1	Ceuta	_	NPP	NPP		
+2	a	avoir	V	V	n=s|t=P|p=3	
+3	été	être	VPP	VPP	t=K	
+4	conquis	conquérir	VPP	VPP	n=p,s|g=m|t=K	
+5	en	en	P	P		
+6	1415	1415	NC	NC		
+7	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	cap	cap	NC	NC	n=s|g=m	
+3	Bojador	_	NPP	NPP		
+4	a	avoir	V	V	n=s|t=P|p=3	
+5	été	être	VPP	VPP	t=K	
+6	franchi	franchir	VPP	VPP	n=s|g=m|t=K	
+7	par	par	P	P		
+8	Gil	Gil	NPP	NPP	n=s|g=m	
+9	Eanes	_	NPP	NPP		
+10	en	en	P	P		
+11	1434	1434	NC	NC		
+12	et	et	CC	CC		
+13	l'	le	DET	DET	n=s	
+14	exploration	exploration	NC	NC	n=s|g=f	
+15	de	de	P	P		
+16	la	la	DET	DET	n=s|g=f	
+17	côte	côte	NC	NC	n=s|g=f	
+18	africaine	africain	ADJ	ADJ	n=s|g=f	
+19	a	avoir	V	V	n=s|t=P|p=3	
+20	continué	continuer	VPP	VPP	n=s|g=m|t=K	
+21	jusqu'	jusque	P	P		
+22	à	à	P	P		
+23	ce	ce	PRO	PRO	n=s	
+24	que	que	PROREL	PROREL		
+25	Bartolomeu	_	NPP	NPP		
+26	Dias	_	NPP	NPP		
+27	vérifie	vérifier	V	V	n=s|t=P,S|p=1,3	
+28	,	,	PONCT	PONCT		
+29	en	en	P	P		
+30	1488	1488	NC	NC		
+31	,	,	PONCT	PONCT		
+32	la	la	DET	DET	n=s|g=f	
+33	communication	communication	NC	NC	n=s|g=f	
+34	entre	entre	P	P		
+35	les	les	DET	DET	n=p	
+36	océans	océan	NC	NC	n=p|g=m	
+37	Atlantique	_	NPP	NPP		
+38	et	et	CC	CC		
+39	Indien	_	NPP	NPP		
+40	en	en	P	P		
+41	traversant	traverser	VPR	VPR	t=G	
+42	le	le	DET	DET	n=s|g=m	
+43	cap	cap	NC	NC	n=s|g=m	
+44	de	de	P	P		
+45	Bonne	Bonne	NPP	NPP	n=s|g=m	
+46	Espérance	_	NPP	NPP		
+47	.	.	PONCT	PONCT		
+
+1	On	on	CLS	CLS	n=s|p=3	
+2	a	avoir	V	V	n=s|t=P|p=3	
+3	successivement	_	ADV	ADV		
+4	et	et	CC	CC		
+5	rapidement	_	ADV	ADV		
+6	découvert	découvrir	VPP	VPP	n=s|g=m|t=K	
+7	des	de	P+D	P+D	n=p	
+8	itinéraires	itinéraire	NC	NC	n=p|g=m	
+9	et	et	CC	CC		
+10	des	de	P+D	P+D	n=p	
+11	territoires	territoire	NC	NC	n=p|g=m	
+12	en	en	P	P		
+13	Amérique	Amérique	NPP	NPP	n=s|g=f	
+14	du	de	P+D	P+D	n=s|g=m	
+15	Nord	Nord	NPP	NPP	n=s|g=m	
+16	et	et	CC	CC		
+17	en	en	P	P		
+18	Amérique	Amérique	NPP	NPP	n=s|g=f	
+19	du	de	P+D	P+D	n=s|g=m	
+20	Sud	sud	NC	NC	n=s|g=m	
+21	,	,	PONCT	PONCT		
+22	pour	pour	P	P		
+23	la	la	DET	DET	n=s|g=f	
+24	plupart	plupart	NC	NC	n=s|g=f	
+25	pendant	pendant	P	P		
+26	le	le	DET	DET	n=s|g=m	
+27	règne	règne	NC	NC	n=s|g=m	
+28	de	de	P	P		
+29	D	_	NPP	NPP		
+30	.	.	PONCT	PONCT		
+31	Manuel	manuel	ADJ	ADJ	n=s|g=m	
+32	I	_	NC	NC		
+33	.	.	PONCT	PONCT		
+34	Cela	cela	PRO	PRO	n=s|g=m	
+35	s'	se	CLR	CLR	n=p,s|p=3	
+36	est	être	V	V	n=s|t=P|p=3	
+37	caractérisé	caractériser	VPP	VPP	n=s|g=m|t=K	
+38	par	par	P	P		
+39	une	une	DET	DET	n=s|g=f	
+40	expansion	expansion	NC	NC	n=s|g=f	
+41	dans	dans	P	P		
+42	l'	le	DET	DET	n=s	
+43	est	_	NPP	NPP		
+44	du	de	P+D	P+D	n=s|g=m	
+45	continent	continent	NC	NC	n=s|g=m	
+46	,	,	PONCT	PONCT		
+47	surtout	surtout	ADV	ADV		
+48	grâce	grâce	NC	NC	n=s|g=f	
+49	aux	à	P+D	P+D	n=p	
+50	conquêtes	conquête	NC	NC	n=p|g=f	
+51	d'	de	P	P		
+52	Alphonse	Alphonse	NPP	NPP	n=s|g=m	
+53	d'	de	P	P		
+54	Albuquerque	_	NPP	NPP		
+55	qui	qui	PROREL	PROREL	n=s	
+56	,	,	PONCT	PONCT		
+57	pendant	pendant	P	P		
+58	la	la	DET	DET	n=s|g=f	
+59	première	premier	ADJ	ADJ	n=s|g=f	
+60	moitié	moitié	NC	NC	n=s|g=f	
+61	du	de	P+D	P+D	n=s|g=m	
+62	XVIe	_	ADJ	ADJ		
+63	siècle	siècle	NC	NC	n=s|g=m	
+64	,	,	PONCT	PONCT		
+65	ont	avoir	V	V	n=p|t=P|p=3	
+66	concentré	concentrer	VPP	VPP	n=s|g=m|t=K	
+67	presque	presque	ADV	ADV		
+68	tous	tout	ADJ	ADJ	n=p|g=m	
+69	les	les	DET	DET	n=p	
+70	efforts	effort	NC	NC	n=p|g=m	
+71	du	de	P+D	P+D	n=s|g=m	
+72	Portugal	Portugal	NPP	NPP	n=s|g=m	
+73	,	,	PONCT	PONCT		
+74	bien	bien	ADV	ADV		
+75	que	que	CS	CS		
+76	la	la	DET	DET	n=s|g=f	
+77	colonisation	colonisation	NC	NC	n=s|g=f	
+78	du	de	P+D	P+D	n=s|g=m	
+79	Brésil	Brésil	NPP	NPP	n=s|g=m	
+80	ait	avoir	VS	VS	n=s|t=S|p=3	
+81	déjà	déjà	ADV	ADV		
+82	été	être	VPP	VPP	t=K	
+83	initiée	initier	VPP	VPP	n=s|g=f|t=K	
+84	en	en	P	P		
+85	1530	1530	NC	NC		
+86	par	par	P	P		
+87	D	_	NPP	NPP		
+88	.	.	PONCT	PONCT		
+89	João	João	NPP	NPP	n=s|g=m	
+90	III	_	NPP	NPP		
+91	.	.	PONCT	PONCT		
+
+1	Cette	cette	DET	DET	n=s|g=f	
+2	période	période	NC	NC	n=s	
+3	constitue	constituer	V	V	n=s|t=P,S|p=1,3	
+4	le	le	DET	DET	n=s|g=m	
+5	siècle	siècle	NC	NC	n=s|g=m	
+6	d'	de	P	P		
+7	or	or	NC	NC	n=s|g=m	
+8	du	de	P+D	P+D	n=s|g=m	
+9	pays	pays	NC	NC	g=m	
+10	.	.	PONCT	PONCT		
+
+1	Néanmoins	néanmoins	ADV	ADV		
+2	,	,	PONCT	PONCT		
+3	on	on	CLS	CLS	n=s|p=3	
+4	compte	compter	V	V	n=s|t=P,S|p=1,3	
+5	quelques	quelques	DET	DET	n=p	
+6	événements	événement	NC	NC	n=p|g=m	
+7	tragiques	tragique	ADJ	ADJ	n=p	
+8	:	:	PONCT	PONCT		
+9	dans	dans	P	P		
+10	la	la	DET	DET	n=s|g=f	
+11	bataille	bataille	NC	NC	n=s|g=f	
+12	d'	de	P	P		
+13	Alcácer	_	NPP	NPP		
+14	-	-	PONCT	PONCT		
+15	Quibir	_	NPP	NPP		
+16	en	en	P	P		
+17	1578	1578	NC	NC		
+18	,	,	PONCT	PONCT		
+19	le	le	DET	DET	n=s|g=m	
+20	jeune	jeune	ADJ	ADJ	n=s	
+21	roi	roi	NC	NC	n=s|g=m	
+22	D	_	NPP	NPP		
+23	.	.	PONCT	PONCT		
+24	Sébastien	Sébastien	NPP	NPP	n=s|g=m	
+25	et	et	CC	CC		
+26	une	une	DET	DET	n=s|g=f	
+27	partie	partie	NC	NC	n=s|g=f	
+28	de	de	P	P		
+29	la	la	DET	DET	n=s|g=f	
+30	noblesse	noblesse	NC	NC	n=s|g=f	
+31	portugaise	portugais	ADJ	ADJ	n=s|g=f	
+32	mourirent	_	NC	NC		
+33	.	.	PONCT	PONCT		
+
+1	Henri	Henri	NPP	NPP	n=s|g=m	
+2	Ier	_	NPP	NPP		
+3	de	de	P	P		
+4	Portugal	Portugal	NPP	NPP	n=s|g=m	
+5	monta	monter	V	V	n=s|t=J|p=3	
+6	sur	sur	P	P		
+7	le	le	DET	DET	n=s|g=m	
+8	trône	trône	NC	NC	n=s|g=m	
+9	,	,	PONCT	PONCT		
+10	mais	mais	CC	CC		
+11	mourut	mourir	V	V	n=s|t=J|p=3	
+12	deux	deux	DET	DET	s=card|n=p	
+13	ans	an	NC	NC	n=p|g=m	
+14	plus	plus	ADV	ADV		
+15	tard	tard	ADV	ADV		
+16	;	;	PONCT	PONCT		
+17	cette	cette	DET	DET	n=s|g=f	
+18	mort	mort	NC	NC	n=s|g=f,m	
+19	engendra	engendrer	V	V	n=s|t=J|p=3	
+20	la	la	DET	DET	n=s|g=f	
+21	crise	crise	NC	NC	n=s|g=f	
+22	de	de	P	P		
+23	succession	succession	NC	NC	n=s|g=f	
+24	de	de	P	P		
+25	1580	1580	NC	NC		
+26	,	,	PONCT	PONCT		
+27	qui	qui	PROREL	PROREL	n=s	
+28	s'	se	CLR	CLR	n=p,s|p=3	
+29	acheva	achever	V	V	n=s|t=J|p=3	
+30	avec	avec	P	P		
+31	le	le	DET	DET	n=s|g=m	
+32	couronnement	couronnement	NC	NC	n=s|g=m	
+33	de	de	P	P		
+34	Philippe	Philippe	NPP	NPP	n=s|g=m	
+35	II	_	NPP	NPP		
+36	d'	de	P	P		
+37	Espagne	Espagne	NPP	NPP	n=s|g=f	
+38	,	,	PONCT	PONCT		
+39	premier	premier	ADJ	ADJ	n=s|g=m	
+40	de	de	P	P		
+41	trois	trois	DET	DET	s=card|n=p	
+42	rois	roi	NC	NC	n=p|g=m	
+43	espagnols	espagnol	ADJ	ADJ	n=p|g=m	
+44	.	.	PONCT	PONCT		
+
+1	Cette	cette	DET	DET	n=s|g=f	
+2	dynastie	dynastie	NC	NC	n=s|g=f	
+3	philippine	philippine	NC	NC	n=s|g=f	
+4	a	avoir	V	V	n=s|t=P|p=3	
+5	pris	prendre	VPP	VPP	g=m|t=K	
+6	fin	fin	NC	NC	n=s	
+7	le	le	DET	DET	n=s|g=m	
+8	1er	_	ADJ	ADJ		
+9	décembre	décembre	NC	NC	n=s|g=m	
+10	1640	1640	ADJ	ADJ		
+11	:	:	PONCT	PONCT		
+12	la	la	DET	DET	n=s|g=f	
+13	noblesse	noblesse	NC	NC	n=s|g=f	
+14	nationale	national	ADJ	ADJ	n=s|g=f	
+15	a	avoir	V	V	n=s|t=P|p=3	
+16	fait	faire	VPP	VPP	n=s|g=m|t=K	
+17	un	un	DET	DET	n=s|g=m	
+18	coup	coup	NC	NC	n=s|g=m	
+19	d'	de	P	P		
+20	État	État	NC	NC	n=s|g=m	
+21	.	.	PONCT	PONCT		
+
+1	D	_	NPP	NPP		
+2	.	.	PONCT	PONCT		
+3	João	João	NPP	NPP	n=s|g=m	
+4	IV	_	NPP	NPP		
+5	fut	être	V	V	n=s|t=J|p=3	
+6	nommé	nommer	VPP	VPP	n=s|g=m|t=K	
+7	roi	roi	NC	NC	n=s|g=m	
+8	du	de	P+D	P+D	n=s|g=m	
+9	Portugal	Portugal	NPP	NPP	n=s|g=m	
+10	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	1er	_	ADJ	ADJ		
+3	novembre	novembre	NC	NC	n=s|g=m	
+4	1755	1755	NC	NC		
+5	,	,	PONCT	PONCT		
+6	jour	jour	NC	NC	n=s|g=m	
+7	de	de	P	P		
+8	la	la	DET	DET	n=s|g=f	
+9	Toussaint	Toussaint	NPP	NPP	n=s|g=m	
+10	,	,	PONCT	PONCT		
+11	le	le	DET	DET	n=s|g=m	
+12	Portugal	Portugal	NPP	NPP	n=s|g=m	
+13	,	,	PONCT	PONCT		
+14	et	et	CC	CC		
+15	en	en	P	P		
+16	particulier	particulier	NC	NC	n=s|g=m	
+17	la	la	DET	DET	n=s|g=f	
+18	ville	ville	NC	NC	n=s|g=f	
+19	de	de	P	P		
+20	Lisbonne	Lisbonne	NPP	NPP	n=s|g=m	
+21	,	,	PONCT	PONCT		
+22	furent	être	V	V	n=p|t=J|p=3	
+23	frappés	frapper	VPP	VPP	n=p|g=m|t=K	
+24	par	par	P	P		
+25	un	un	DET	DET	n=s|g=m	
+26	séisme	séisme	NC	NC	n=s|g=m	
+27	qui	qui	PROREL	PROREL	n=s	
+28	creusa	creuser	V	V	n=s|t=J|p=3	
+29	des	des	DET	DET	n=p	
+30	fissures	fissure	NC	NC	n=p|g=f	
+31	de	de	P	P		
+32	cinq	cinq	DET	DET	s=card|n=p	
+33	mètres	mètre	NC	NC	n=p|g=m	
+34	de	de	P	P		
+35	profondeur	profondeur	NC	NC	n=s|g=f	
+36	,	,	PONCT	PONCT		
+37	puis	puis	CC	CC		
+38	par	par	P	P		
+39	un	un	DET	DET	n=s|g=m	
+40	raz	raz	NC	NC	g=m	
+41	-	-	PONCT	PONCT		
+42	de	de	P	P		
+43	-	-	PONCT	PONCT		
+44	marée	marée	NC	NC	n=s|g=f	
+45	,	,	PONCT	PONCT		
+46	avec	avec	P	P		
+47	des	des	DET	DET	n=p	
+48	vagues	vague	NC	NC	n=p	
+49	de	de	P	P		
+50	5	5	VINF	VINF		
+51	à	à	P	P		
+52	10	10	ADJ	ADJ		
+53	mètres	mètre	NC	NC	n=p|g=m	
+54	de	de	P	P		
+55	haut	haut	NC	NC	n=s|g=m	
+56	(	(	PONCT	PONCT		
+57	l'	le	DET	DET	n=s	
+58	une	un	PRO	PRO	n=s|g=f	
+59	d'	de	P	P		
+60	entre	entre	P	P		
+61	elles	elles	PRO	PRO	n=p|g=f|p=3	
+62	atteignit	atteindre	V	V	n=s|t=J|p=3	
+63	15	15	ADJ	ADJ		
+64	mètres	mètre	NC	NC	n=p|g=m	
+65	)	)	PONCT	PONCT		
+66	2	2	ADJ	ADJ		
+67	.	.	PONCT	PONCT		
+
+1	Lisbonne	Lisbonne	NPP	NPP	n=s|g=m	
+2	ne	ne	ADV	ADV		
+3	fut	être	V	V	n=s|t=J|p=3	
+4	pas	pas	ADV	ADV		
+5	la	la	DET	DET	n=s|g=f	
+6	seule	seul	ADJ	ADJ	n=s|g=f	
+7	victime	victime	NC	NC	n=s|g=f	
+8	,	,	PONCT	PONCT		
+9	il	il	CLS	CLS	n=s|g=m|p=3	
+10	y	y	CLO	CLO		
+11	eut	avoir	V	V	n=s|t=J|p=3	
+12	également	_	ADV	ADV		
+13	l'	le	DET	DET	n=s	
+14	Algarve	_	NPP	NPP		
+15	;	;	PONCT	PONCT		
+16	toute	tout	ADJ	ADJ	n=s|g=f	
+17	l'	le	DET	DET	n=s	
+18	Europe2	_	NPP	NPP		
+19	ressentit	ressentir	V	V	n=s|t=J|p=3	
+20	les	les	DET	DET	n=p	
+21	secousses	secousse	NC	NC	n=p|g=f	
+22	,	,	PONCT	PONCT		
+23	ainsi	ainsi	ADV	ADV		
+24	que	que	CS	CS		
+25	l'	le	DET	DET	n=s	
+26	Afrique	Afrique	NPP	NPP	n=s|g=f	
+27	du	de	P+D	P+D	n=s|g=m	
+28	Nord	Nord	NPP	NPP	n=s|g=m	
+29	,	,	PONCT	PONCT		
+30	la	la	DET	DET	n=s|g=f	
+31	Martinique	Martinique	NPP	NPP	n=s|g=f	
+32	et	et	CC	CC		
+33	Barbade	Barbade	NPP	NPP	n=s|g=f	
+34	(	(	PONCT	PONCT		
+35	Amérique	Amérique	NPP	NPP	n=s|g=f	
+36	du	de	P+D	P+D	n=s|g=m	
+37	Sud	sud	NC	NC	n=s|g=m	
+38	)	)	PONCT	PONCT		
+39	.	.	PONCT	PONCT		
+
+1	Lisbonne	Lisbonne	NPP	NPP	n=s|g=m	
+2	est	être	V	V	n=s|t=P|p=3	
+3	comme	comme	P	P		
+4	rayée	rayer	VPP	VPP	n=s|g=f|t=K	
+5	de	de	P	P		
+6	la	la	DET	DET	n=s|g=f	
+7	carte	carte	NC	NC	n=s|g=f	
+8	avec	avec	P	P		
+9	plus	plus	ADV	ADV		
+10	de	de	P	P		
+11	85	85	NC	NC		
+12	%	%	NC	NC	g=m	
+13	de	de	P	P		
+14	la	la	DET	DET	n=s|g=f	
+15	ville	ville	NC	NC	n=s|g=f	
+16	détruite2	_	ADJ	ADJ		
+17	,	,	PONCT	PONCT		
+18	y	y	CLO	CLO		
+19	compris	comprendre	VPP	VPP	g=m|t=K	
+20	les	les	DET	DET	n=p	
+21	plus	plus	ADV	ADV		
+22	célèbres	célèbre	ADJ	ADJ	n=p	
+23	de	de	P	P		
+24	ses	ses	DET	DET	n=p|p=3|poss=s	
+25	palais	palais	NC	NC	g=m	
+26	et	et	CC	CC		
+27	bibliothèques	bibliothèque	NC	NC	n=p|g=f	
+28	,	,	PONCT	PONCT		
+29	même	même	ADV	ADV		
+30	les	les	DET	DET	n=p	
+31	bâtiments	bâtiment	NC	NC	n=p|g=m	
+32	d'	de	P	P		
+33	architecture	architecture	NC	NC	n=s|g=f	
+34	manuéline	_	ADJ	ADJ		
+35	du	de	P+D	P+D	n=s|g=m	
+36	XVIe	_	ADJ	ADJ		
+37	siècle	siècle	NC	NC	n=s|g=m	
+38	.	.	PONCT	PONCT		
+
+1	Plusieurs	plusieurs	DET	DET	n=p	
+2	bâtiments	bâtiment	NC	NC	n=p|g=m	
+3	relativement	_	ADV	ADV		
+4	épargnés	épargner	VPP	VPP	n=p|g=m|t=K	
+5	par	par	P	P		
+6	le	le	DET	DET	n=s|g=m	
+7	séisme	séisme	NC	NC	n=s|g=m	
+8	lui	lui	CLO	CLO	n=s|p=3	
+9	-	-	PONCT	PONCT		
+10	même	même	ADV	ADV		
+11	furent	être	V	V	n=p|t=J|p=3	
+12	détruits	détruire	VPP	VPP	n=p|g=m|t=K	
+13	par	par	P	P		
+14	les	les	DET	DET	n=p	
+15	incendies	incendie	NC	NC	n=p|g=m	
+16	qui	qui	PROREL	PROREL	n=s	
+17	s'	se	CLR	CLR	n=p,s|p=3	
+18	ensuivirent	ensuivre	V	V	n=p|t=J|p=3	
+19	;	;	PONCT	PONCT		
+20	ainsi	ainsi	ADV	ADV		
+21	,	,	PONCT	PONCT		
+22	le	le	DET	DET	n=s|g=m	
+23	Palais	palais	NC	NC	g=m	
+24	royal	royal	ADJ	ADJ	n=s|g=m	
+25	est	être	V	V	n=s|t=P|p=3	
+26	détruit	détruire	VPP	VPP	n=s|g=m|t=K	
+27	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	70_000	70_000	ADJ	ADJ		
+3	volumes	volume	NC	NC	n=p|g=m	
+4	de	de	P	P		
+5	la	la	DET	DET	n=s|g=f	
+6	bibliothèque	bibliothèque	NC	NC	n=s|g=f	
+7	royale	royal	ADJ	ADJ	n=s|g=f	
+8	ont	avoir	V	V	n=p|t=P|p=3	
+9	été	être	VPP	VPP	t=K	
+10	perdus	perdre	VPP	VPP	n=p|g=m|t=K	
+11	,	,	PONCT	PONCT		
+12	comme	comme	P	P		
+13	toutes	tout	ADJ	ADJ	n=p|g=f	
+14	les	les	DET	DET	n=p	
+15	œuvres	_	NC	NC		
+16	d'	de	P	P		
+17	art	art	NC	NC	n=s|g=m	
+18	et	et	CC	CC		
+19	le	le	DET	DET	n=s|g=m	
+20	compte	compte	NC	NC	n=s|g=m	
+21	-	-	PONCT	PONCT		
+22	rendu	rendre	VPP	VPP	n=s|g=m|t=K	
+23	détaillé	détailler	ADJ	ADJ	n=s|g=m|t=K	
+24	des	de	P+D	P+D	n=p	
+25	grandes	grand	ADJ	ADJ	n=p|g=f	
+26	explorations	exploration	NC	NC	n=p|g=f	
+27	réalisées	réaliser	VPP	VPP	n=p|g=f|t=K	
+28	par	par	P	P		
+29	Vasco	Vasco	NPP	NPP	n=s|g=m	
+30	de	de	P	P		
+31	Gama	_	NPP	NPP		
+32	et	et	CC	CC		
+33	d'	de	DET	DET	n=p	
+34	autres	autre	ADJ	ADJ	n=p	
+35	navigateurs	navigateur	NC	NC	n=p|g=m	
+36	.	.	PONCT	PONCT		
+
+1	Quelques	quelques	DET	DET	n=p	
+2	quartiers	quartier	NC	NC	n=p|g=m	
+3	de	de	P	P		
+4	Lisbonne	Lisbonne	NPP	NPP	n=s|g=m	
+5	furent	être	V	V	n=p|t=J|p=3	
+6	épargnés	épargner	VPP	VPP	n=p|g=m|t=K	
+7	,	,	PONCT	PONCT		
+8	comme	comme	P	P		
+9	Belém	_	NPP	NPP		
+10	ou	ou	CC	CC		
+11	encore	encore	ADV	ADV		
+12	l'	le	DET	DET	n=s	
+13	Alfama	_	NPP	NPP		
+14	.	.	PONCT	PONCT		
+
+1	Une	une	DET	DET	n=s|g=f	
+2	dictature	dictature	NC	NC	n=s|g=f	
+3	est	être	V	V	n=s|t=P|p=3	
+4	mise	mettre	VPP	VPP	n=s|g=f|t=K	
+5	en	en	P	P		
+6	place	place	NC	NC	n=s|g=f	
+7	dans	dans	P	P		
+8	les	les	DET	DET	n=p	
+9	années	année	NC	NC	n=p|g=f	
+10	3034	3034	ADJ	ADJ		
+11	et	et	CC	CC		
+12	est	être	V	V	n=s|t=P|p=3	
+13	dirigée	diriger	VPP	VPP	n=s|g=f|t=K	
+14	de	de	P	P		
+15	longues	long	ADJ	ADJ	n=p|g=f	
+16	années	année	NC	NC	n=p|g=f	
+17	par	par	P	P		
+18	Salazar	_	NPP	NPP		
+19	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	1974	1974	NC	NC		
+3	,	,	PONCT	PONCT		
+4	Marcelo	Marcelo	NPP	NPP	n=s|g=m	
+5	Caetano	Caetano	NPP	NPP	n=s|g=m	
+6	est	être	V	V	n=s|t=P|p=3	
+7	au	à	P+D	P+D	n=s|g=m	
+8	pouvoir	pouvoir	NC	NC	n=s|g=m	
+9	et	et	CC	CC		
+10	gouverne	gouverner	V	V	n=s|t=P,S|p=1,3	
+11	le	le	DET	DET	n=s|g=m	
+12	pays	pays	NC	NC	g=m	
+13	d'	de	P	P		
+14	une	une	DET	DET	n=s|g=f	
+15	main	main	NC	NC	n=s|g=f	
+16	de	de	P	P		
+17	fer	fer	NC	NC	n=s|g=m	
+18	,	,	PONCT	PONCT		
+19	aidé	aider	VPP	VPP	n=s|g=m|t=K	
+20	par	par	P	P		
+21	la	la	DET	DET	n=s|g=f	
+22	police	police	NC	NC	n=s|g=f	
+23	secrète	secret	ADJ	ADJ	n=s|g=f	
+24	et	et	CC	CC		
+25	la	la	DET	DET	n=s|g=f	
+26	police	police	NC	NC	n=s|g=f	
+27	militaire	militaire	ADJ	ADJ	n=s	
+28	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	colonies	colonie	NC	NC	n=p|g=f	
+3	portugaises	portugais	ADJ	ADJ	n=p|g=f	
+4	sont	être	V	V	n=p|t=P|p=3	
+5	en	en	P	P		
+6	révolte	révolte	NC	NC	n=s|g=f	
+7	depuis	depuis	P	P		
+8	le	le	DET	DET	n=s|g=m	
+9	début	début	NC	NC	n=s|g=m	
+10	des	de	P+D	P+D	n=p	
+11	années	année	NC	NC	n=p|g=f	
+12	60	60	NC	NC		
+13	.	.	PONCT	PONCT		
+
+1	Empêtré	empêtrer	VPP	VPP	n=s|g=m|t=K	
+2	dans	dans	P	P		
+3	des	des	DET	DET	n=p	
+4	guerres	guerre	NC	NC	n=p|g=f	
+5	en	en	P	P		
+6	Guinée	Guinée	NPP	NPP	n=s|g=f	
+7	-	-	PONCT	PONCT		
+8	Bissau	Bissau	NPP	NPP	n=s|g=m	
+9	,	,	PONCT	PONCT		
+10	en	en	P	P		
+11	Angola	Angola	NPP	NPP	n=s|g=m	
+12	et	et	CC	CC		
+13	au	à	P+D	P+D	n=s|g=m	
+14	Mozambique	Mozambique	NPP	NPP	n=s|g=m	
+15	,	,	PONCT	PONCT		
+16	le	le	DET	DET	n=s|g=m	
+17	gouvernement	gouvernement	NC	NC	n=s|g=m	
+18	fasciste	fasciste	ADJ	ADJ	n=s	
+19	en	en	P	P		
+20	place	place	NC	NC	n=s|g=f	
+21	,	,	PONCT	PONCT		
+22	écrase	écraser	V	V	n=s|t=P,S|p=1,3	
+23	le	le	DET	DET	n=s|g=m	
+24	peuple	peuple	NC	NC	n=s|g=m	
+25	portugais	portugais	ADJ	ADJ	g=m	
+26	avec	avec	P	P		
+27	des	des	DET	DET	n=p	
+28	taxes	taxe	NC	NC	n=p|g=f	
+29	destinées	destiner	VPP	VPP	n=p|g=f|t=K	
+30	au	à	P+D	P+D	n=s|g=m	
+31	maintien	maintien	NC	NC	n=s|g=m	
+32	des	de	P+D	P+D	n=p	
+33	troupes	troupe	NC	NC	n=p|g=f	
+34	armées	armer	VPP	VPP	n=p|g=f|t=K	
+35	dans	dans	P	P		
+36	ses	ses	DET	DET	n=p|p=3|poss=s	
+37	colonies	colonie	NC	NC	n=p|g=f	
+38	,	,	PONCT	PONCT		
+39	au	à	P+D	P+D	n=s|g=m	
+40	détriment	détriment	NC	NC	n=s|g=m	
+41	d'	de	P	P		
+42	une	une	DET	DET	n=s|g=f	
+43	modernisation	modernisation	NC	NC	n=s|g=f	
+44	du	de	P+D	P+D	n=s|g=m	
+45	pays	pays	NC	NC	g=m	
+46	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	outre	outre	NC	NC	n=s|g=f	
+3	,	,	PONCT	PONCT		
+4	beaucoup	beaucoup	ADV	ADV		
+5	de	de	DET	DET	n=p	
+6	jeunes	jeune	ADJ	ADJ	n=p	
+7	ouvriers	ouvrier	NC	NC	n=p|g=m	
+8	portugais	portugais	ADJ	ADJ	g=m	
+9	,	,	PONCT	PONCT		
+10	menacés	menacer	VPP	VPP	n=p|g=m|t=K	
+11	par	par	P	P		
+12	un	un	DET	DET	n=s|g=m	
+13	service	service	NC	NC	n=s|g=m	
+14	militaire	militaire	ADJ	ADJ	n=s	
+15	d'	de	P	P		
+16	une	une	DET	DET	n=s|g=f	
+17	durée	durée	NC	NC	n=s|g=f	
+18	de	de	P	P		
+19	quatre	quatre	DET	DET	s=card|n=p	
+20	ans	an	NC	NC	n=p|g=m	
+21	,	,	PONCT	PONCT		
+22	préfèrent	préférer	V	V	n=p|t=P,S|p=3	
+23	fuir	fuir	VINF	VINF	t=W	
+24	le	le	DET	DET	n=s|g=m	
+25	pays	pays	NC	NC	g=m	
+26	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	répression	répression	NC	NC	n=s|g=f	
+3	policière	policier	ADJ	ADJ	n=s|g=f	
+4	ne	ne	ADV	ADV		
+5	parvient	parvenir	V	V	n=s|t=P|p=3	
+6	pas	pas	ADV	ADV		
+7	à	à	P	P		
+8	éradiquer	éradiquer	VINF	VINF	t=W	
+9	la	la	DET	DET	n=s|g=f	
+10	lutte	lutte	NC	NC	n=s|g=f	
+11	ouvrière	ouvrier	ADJ	ADJ	n=s|g=f	
+12	qui	qui	PROREL	PROREL	n=s	
+13	,	,	PONCT	PONCT		
+14	bien	bien	ADV	ADV		
+15	qu'	que	CS	CS		
+16	inutile	inutile	ADJ	ADJ	n=s	
+17	,	,	PONCT	PONCT		
+18	dure	dur	ADJ	ADJ	n=s|g=f	
+19	depuis	depuis	P	P		
+20	quinze	quinze	DET	DET	s=card|n=p	
+21	ans	an	NC	NC	n=p|g=m	
+22	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	pays	pays	NC	NC	g=m	
+3	était	être	V	V	n=s|t=I|p=3	
+4	figé	figer	VPP	VPP	n=s|g=m|t=K	
+5	socialement	_	ADV	ADV		
+6	et	et	CC	CC		
+7	économiquement	_	ADV	ADV		
+8	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	population	population	NC	NC	n=s|g=f	
+3	et	et	CC	CC		
+4	une	une	DET	DET	n=s|g=f	
+5	partie	partie	NC	NC	n=s|g=f	
+6	de	de	P	P		
+7	l'	le	DET	DET	n=s	
+8	armée	armée	NC	NC	n=s|g=f	
+9	sont	être	V	V	n=p|t=P|p=3	
+10	lasses	las	ADJ	ADJ	n=p|g=f	
+11	et	et	CC	CC		
+12	espèrent	espérer	V	V	n=p|t=P,S|p=3	
+13	un	un	DET	DET	n=s|g=m	
+14	changement	changement	NC	NC	n=s|g=m	
+15	de	de	P	P		
+16	régime	régime	NC	NC	n=s|g=m	
+17	.	.	PONCT	PONCT		
+
+1	Dès	dès	P	P		
+2	1973	1973	NC	NC		
+3	,	,	PONCT	PONCT		
+4	des	des	DET	DET	n=p	
+5	officiers	officier	NC	NC	n=p	
+6	d'	de	P	P		
+7	extrême	extrême	ADJ	ADJ	n=s	
+8	gauche	gauche	NC	NC	n=s	
+9	conspirent	conspirer	V	V	n=p|t=P,S|p=3	
+10	contre	contre	P	P		
+11	le	le	DET	DET	n=s|g=m	
+12	pouvoir	pouvoir	NC	NC	n=s|g=m	
+13	en	en	P	P		
+14	place	place	NC	NC	n=s|g=f	
+15	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	25	25	ADJ	ADJ		
+3	avril	avril	NC	NC	n=s|g=m	
+4	1974	1974	NC	NC		
+5	,	,	PONCT	PONCT		
+6	à	à	P	P		
+7	minuit	minuit	NC	NC	n=s|g=m	
+8	et	et	CC	CC		
+9	25	25	ADJ	ADJ		
+10	minutes	minute	NC	NC	n=p|g=f	
+11	,	,	PONCT	PONCT		
+12	la	la	DET	DET	n=s|g=f	
+13	radio	radio	NC	NC	n=s	
+14	nationale	national	ADJ	ADJ	n=s|g=f	
+15	diffuse	diffuser	V	V	n=s|t=P,S|p=1,3	
+16	une	une	DET	DET	n=s|g=f	
+17	chanson	chanson	NC	NC	n=s|g=f	
+18	révolutionnaire	révolutionnaire	ADJ	ADJ	n=s	
+19	de	de	P	P		
+20	Zeca	_	NPP	NPP		
+21	Alfonso5	_	NPP	NPP		
+22	.	.	PONCT	PONCT		
+
+1	C'	ce	CLS	CLS		
+2	est	être	V	V	n=s|t=P|p=3	
+3	le	le	DET	DET	n=s|g=m	
+4	signal	signal	NC	NC	n=s|g=m	
+5	de	de	P	P		
+6	l'	le	DET	DET	n=s	
+7	insurrection	insurrection	NC	NC	n=s|g=f	
+8	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	Mouvement	mouvement	NC	NC	n=s|g=m	
+3	des	de	P+D	P+D	n=p	
+4	Forces	force	NC	NC	n=p|g=f	
+5	Armées	_	NPP	NPP		
+6	s'	se	CLR	CLR	n=p,s|p=3	
+7	empare	emparer	V	V	n=s|t=P,S|p=1,3	
+8	des	des	DET	DET	n=p	
+9	points	point	NC	NC	n=p|g=m	
+10	stratégiques	stratégique	ADJ	ADJ	n=p	
+11	militaires	militaire	ADJ	ADJ	n=p	
+12	et	et	CC	CC		
+13	politiques	politique	ADJ	ADJ	n=p	
+14	et	et	CC	CC		
+15	forcent	forcer	V	V	n=p|t=P,S|p=3	
+16	Caetano	Caetano	NPP	NPP	n=s|g=m	
+17	à	à	P	P		
+18	la	la	DET	DET	n=s|g=f	
+19	capitulation	capitulation	NC	NC	n=s|g=f	
+20	.	.	PONCT	PONCT		
+
+1	Seule	seul	ADJ	ADJ	n=s|g=f	
+2	la	la	DET	DET	n=s|g=f	
+3	police	police	NC	NC	n=s|g=f	
+4	politique	politique	ADJ	ADJ	n=s	
+5	oppose	opposer	V	V	n=s|t=P,S|p=1,3	
+6	une	une	DET	DET	n=s|g=f	
+7	résistance	résistance	NC	NC	n=s|g=f	
+8	armée	armée	NC	NC	n=s|g=f	
+9	qui	qui	PROREL	PROREL	n=s	
+10	entraîne	entraîner	V	V	n=s|t=P,S|p=1,3	
+11	la	la	DET	DET	n=s|g=f	
+12	mort	mort	NC	NC	n=s|g=f,m	
+13	de	de	P	P		
+14	six	six	DET	DET	s=card|n=p	
+15	personnes	personne	NC	NC	n=p|g=f	
+16	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	est	être	V	V	n=s|t=P|p=3	
+3	à	à	P	P		
+4	noter	noter	VINF	VINF	t=W	
+5	que	que	CS	CS		
+6	ce	ce	CLS	CLS		
+7	furent	être	V	V	n=p|t=J|p=3	
+8	les	les	DET	DET	n=p	
+9	seules	seul	ADJ	ADJ	n=p|g=f	
+10	victimes	victime	NC	NC	n=p|g=f	
+11	de	de	P	P		
+12	la	la	DET	DET	n=s|g=f	
+13	révolution	révolution	NC	NC	n=s|g=f	
+14	.	.	PONCT	PONCT		
+
+1	Des	des	DET	DET	n=p	
+2	milliers	millier	NC	NC	n=p|g=m	
+3	de	de	P	P		
+4	portugais	portugais	NC	NC	g=m	
+5	descendirent	descendre	V	V	n=p|t=J|p=3	
+6	dans	dans	P	P		
+7	les	les	DET	DET	n=p	
+8	rues	rue	NC	NC	n=p|g=f	
+9	,	,	PONCT	PONCT		
+10	au	à	P+D	P+D	n=s|g=m	
+11	mépris	mépris	NC	NC	g=m	
+12	des	de	P+D	P+D	n=p	
+13	consignes	consigne	NC	NC	n=p|g=f	
+14	militaires	militaire	ADJ	ADJ	n=p	
+15	.	.	PONCT	PONCT		
+
+1	À	à	P	P		
+2	Lisbonne	Lisbonne	NPP	NPP	n=s|g=m	
+3	,	,	PONCT	PONCT		
+4	le	le	DET	DET	n=s|g=m	
+5	point	point	NC	NC	n=s|g=m	
+6	de	de	P	P		
+7	rassemblement	rassemblement	NC	NC	n=s|g=m	
+8	était	être	V	V	n=s|t=I|p=3	
+9	le	le	DET	DET	n=s|g=m	
+10	marché	marché	NC	NC	n=s|g=m	
+11	aux	à	P+D	P+D	n=p	
+12	fleurs	fleur	NC	NC	n=p|g=f	
+13	.	.	PONCT	PONCT		
+
+1	Certains	certain	DET	DET	n=p|g=m	
+2	militaires	militaire	NC	NC	n=p|g=m	
+3	mettent	mettre	V	V	n=p|t=P,S|p=3	
+4	un	un	DET	DET	n=s|g=m	
+5	œillet	_	NC	NC		
+6	dans	dans	P	P		
+7	le	le	DET	DET	n=s|g=m	
+8	canon	canon	NC	NC	n=s|g=m	
+9	de	de	P	P		
+10	leur	leur	DET	DET	n=s|p=3|poss=p	
+11	fusil	fusil	NC	NC	n=s|g=m	
+12	,	,	PONCT	PONCT		
+13	d'	de	P	P		
+14	où	où	PROREL	PROREL		
+15	le	le	DET	DET	n=s|g=m	
+16	nom	nom	NC	NC	n=s|g=m	
+17	donné	donner	VPP	VPP	n=s|g=m|t=K	
+18	plus	plus	ADV	ADV		
+19	tard	tard	ADV	ADV		
+20	à	à	P	P		
+21	cette	cette	DET	DET	n=s|g=f	
+22	révolution	révolution	NC	NC	n=s|g=f	
+23	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	mouvement	mouvement	NC	NC	n=s|g=m	
+3	de	de	P	P		
+4	contestation	contestation	NC	NC	n=s|g=f	
+5	populaire	populaire	ADJ	ADJ	n=s	
+6	qui	qui	PROREL	PROREL	n=s	
+7	suivit	suivre	V	V	n=s|t=J|p=3	
+8	la	la	DET	DET	n=s|g=f	
+9	prise	prise	NC	NC	n=s|g=f	
+10	du	de	P+D	P+D	n=s|g=m	
+11	pouvoir	pouvoir	NC	NC	n=s|g=m	
+12	par	par	P	P		
+13	les	les	DET	DET	n=p	
+14	putschistes	putschiste	NC	NC	n=p	
+15	n'	ne	ADV	ADV		
+16	avait	avoir	V	V	n=s|t=I|p=3	
+17	été	être	VPP	VPP	t=K	
+18	ni	ni	CC	CC		
+19	prévu	prévoir	VPP	VPP	n=s|g=m|t=K	
+20	,	,	PONCT	PONCT		
+21	ni	ni	CC	CC		
+22	souhaité	souhaiter	VPP	VPP	n=s|g=m|t=K	
+23	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	militaires	militaire	NC	NC	n=p|g=m	
+3	se	se	CLR	CLR	n=p,s|p=3	
+4	retrouvent	retrouver	V	V	n=p|t=P,S|p=3	
+5	vite	vite	ADV	ADV		
+6	dépassés	dépasser	VPP	VPP	n=p|g=m|t=K	
+7	par	par	P	P		
+8	la	la	DET	DET	n=s|g=f	
+9	suite	suite	NC	NC	n=s|g=f	
+10	de	de	P	P		
+11	cette	cette	DET	DET	n=s|g=f	
+12	révolution	révolution	NC	NC	n=s|g=f	
+13	.	.	PONCT	PONCT		
+
+1	Dans	dans	P	P		
+2	le	le	DET	DET	n=s|g=m	
+3	temps	temps	NC	NC	g=m	
+4	des	de	P+D	P+D	n=p	
+5	conquêtes	conquête	NC	NC	n=p|g=f	
+6	et	et	CC	CC		
+7	des	de	P+D	P+D	n=p	
+8	découvertes	découverte	NC	NC	n=p|g=f	
+9	,	,	PONCT	PONCT		
+10	le	le	DET	DET	n=s|g=m	
+11	pays	pays	NC	NC	g=m	
+12	fut	être	V	V	n=s|t=J|p=3	
+13	l'	le	DET	DET	n=s	
+14	un	un	PRO	PRO	n=s|g=m	
+15	des	de	P+D	P+D	n=p	
+16	plus	plus	ADV	ADV		
+17	riches	riche	ADJ	ADJ	n=p	
+18	pays	pays	NC	NC	g=m	
+19	du	de	P+D	P+D	n=s|g=m	
+20	monde	monde	NC	NC	n=s|g=m	
+21	,	,	PONCT	PONCT		
+22	grâce	grâce	NC	NC	n=s|g=f	
+23	à	à	P	P		
+24	l'	le	DET	DET	n=s	
+25	or	or	NC	NC	n=s|g=m	
+26	importé	importer	VPP	VPP	n=s|g=m|t=K	
+27	du	de	P+D	P+D	n=s|g=m	
+28	Brésil	Brésil	NPP	NPP	n=s|g=m	
+29	,	,	PONCT	PONCT		
+30	les	les	DET	DET	n=p	
+31	épices	épice	NC	NC	n=p|g=f	
+32	d'	de	P	P		
+33	Inde	Inde	NPP	NPP	n=s|g=f	
+34	et	et	CC	CC		
+35	d'	de	DET	DET	n=p	
+36	autres	autre	ADJ	ADJ	n=p	
+37	produits	produit	NC	NC	n=p|g=m	
+38	venus	venir	VPP	VPP	n=p|g=m|t=K	
+39	d'	de	P	P		
+40	Afrique	Afrique	NPP	NPP	n=s|g=f	
+41	.	.	PONCT	PONCT		
+
+1	Depuis	depuis	P	P		
+2	1985	1985	NC	NC		
+3	,	,	PONCT	PONCT		
+4	le	le	DET	DET	n=s|g=m	
+5	pays	pays	NC	NC	g=m	
+6	est	être	V	V	n=s|t=P|p=3	
+7	entré	entrer	VPP	VPP	n=s|g=m|t=K	
+8	dans	dans	P	P		
+9	un	un	DET	DET	n=s|g=m	
+10	processus	processus	NC	NC	g=m	
+11	de	de	P	P		
+12	modernisation	modernisation	NC	NC	n=s|g=f	
+13	dans	dans	P	P		
+14	un	un	DET	DET	n=s|g=m	
+15	environnement	environnement	NC	NC	n=s|g=m	
+16	suffisamment	_	ADV	ADV		
+17	stable	stable	ADJ	ADJ	n=s	
+18	et	et	CC	CC		
+19	il	il	CLS	CLS	n=s|g=m|p=3	
+20	rejoint	rejoindre	V	V	n=s|t=P|p=3	
+21	l'	le	DET	DET	n=s	
+22	Union	union	NC	NC	n=s|g=f	
+23	européenne	européen	ADJ	ADJ	n=s|g=f	
+24	en	en	P	P		
+25	1986	1986	NC	NC		
+26	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	Portugal	Portugal	NPP	NPP	n=s|g=m	
+3	a	avoir	V	V	n=s|t=P|p=3	
+4	développé	développer	VPP	VPP	n=s|g=m|t=K	
+5	une	une	DET	DET	n=s|g=f	
+6	économie	économie	NC	NC	n=s|g=f	
+7	de	de	P	P		
+8	plus	plus	ADV	ADV		
+9	en	en	P	P		
+10	plus	plus	ADV	ADV		
+11	fondée	fonder	VPP	VPP	n=s|g=f|t=K	
+12	sur	sur	P	P		
+13	les	les	DET	DET	n=p	
+14	services	service	NC	NC	n=p|g=m	
+15	et	et	CC	CC		
+16	a	avoir	V	V	n=s|t=P|p=3	
+17	été	être	VPP	VPP	t=K	
+18	l'	le	DET	DET	n=s	
+19	un	un	PRO	PRO	n=s|g=m	
+20	des	de	P+D	P+D	n=p	
+21	onze	onze	ADJ	ADJ	s=card|n=p	
+22	membres	membre	NC	NC	n=p|g=m	
+23	fondateurs	fondateur	ADJ	ADJ	n=p|g=m	
+24	de	de	P	P		
+25	la	la	DET	DET	n=s|g=f	
+26	monnaie	monnaie	NC	NC	n=s|g=f	
+27	européenne	européen	ADJ	ADJ	n=s|g=f	
+28	en	en	P	P		
+29	1999	1999	NC	NC	s=card|n=s	
+30	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	pays	pays	NC	NC	g=m	
+3	a	avoir	V	V	n=s|t=P|p=3	
+4	commencé	commencer	VPP	VPP	n=s|g=m|t=K	
+5	à	à	P	P		
+6	faire	faire	VINF	VINF	t=W	
+7	circuler	circuler	VINF	VINF	t=W	
+8	l'	le	DET	DET	n=s	
+9	euro	euro	NC	NC	n=s|g=m	
+10	depuis	depuis	P	P		
+11	le	le	DET	DET	n=s|g=m	
+12	1er	_	ADJ	ADJ		
+13	janvier	janvier	NC	NC	n=s|g=m	
+14	2002	2002	NC	NC		
+15	;	;	PONCT	PONCT		
+16	avant	avant	P	P		
+17	l'	le	DET	DET	n=s	
+18	euro	euro	NC	NC	n=s|g=m	
+19	,	,	PONCT	PONCT		
+20	le	le	DET	DET	n=s|g=m	
+21	Portugal	Portugal	NPP	NPP	n=s|g=m	
+22	utilisait	utiliser	V	V	n=s|t=I|p=3	
+23	l'	le	DET	DET	n=s	
+24	escudos	escudo	NC	NC	n=p|g=m	
+25	portugais	portugais	ADJ	ADJ	g=m	
+26	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	croissance	croissance	NC	NC	n=s|g=f	
+3	économique	économique	ADJ	ADJ	n=s	
+4	portugaise	portugais	ADJ	ADJ	n=s|g=f	
+5	a	avoir	V	V	n=s|t=P|p=3	
+6	été	être	VPP	VPP	t=K	
+7	au	à	P+D	P+D	n=s|g=m	
+8	-	-	PONCT	PONCT		
+9	dessus	dessus	P	P		
+10	de	de	P	P		
+11	la	la	DET	DET	n=s|g=f	
+12	moyenne	moyenne	NC	NC	n=s|g=f	
+13	de	de	P	P		
+14	l'	le	DET	DET	n=s	
+15	Union	union	NC	NC	n=s|g=f	
+16	européenne	européen	ADJ	ADJ	n=s|g=f	
+17	pendant	pendant	P	P		
+18	la	la	DET	DET	n=s|g=f	
+19	majeure	majeur	ADJ	ADJ	n=s|g=f	
+20	partie	partie	NC	NC	n=s|g=f	
+21	de	de	P	P		
+22	la	la	DET	DET	n=s|g=f	
+23	décennie	décennie	NC	NC	n=s|g=f	
+24	de	de	P	P		
+25	1990	1990	NC	NC		
+26	.	.	PONCT	PONCT		
+
+1	Depuis	depuis	P	P		
+2	la	la	DET	DET	n=s|g=f	
+3	crise	crise	NC	NC	n=s|g=f	
+4	économique	économique	ADJ	ADJ	n=s	
+5	des	de	P+D	P+D	n=p	
+6	années	année	NC	NC	n=p|g=f	
+7	2000	2000	NC	NC		
+8	,	,	PONCT	PONCT		
+9	il	il	CLS	CLS	n=s|g=m|p=3	
+10	est	être	V	V	n=s|t=P|p=3	
+11	l'	le	DET	DET	n=s	
+12	un	un	PRO	PRO	n=s|g=m	
+13	des	de	P+D	P+D	n=p	
+14	plus	plus	ADV	ADV		
+15	pauvres	pauvre	ADJ	ADJ	n=p	
+16	des	de	P+D	P+D	n=p	
+17	12	12	ADJ	ADJ		
+18	pays	pays	NC	NC	g=m	
+19	de	de	P	P		
+20	la	la	DET	DET	n=s|g=f	
+21	CEE	_	NPP	NPP		
+22	,	,	PONCT	PONCT		
+23	au	à	P+D	P+D	n=s|g=m	
+24	niveau	niveau	NC	NC	n=s|g=m	
+25	de	de	P	P		
+26	l'	le	DET	DET	n=s	
+27	Espagne	Espagne	NPP	NPP	n=s|g=f	
+28	,	,	PONCT	PONCT		
+29	de	de	P	P		
+30	la	la	DET	DET	n=s|g=f	
+31	Grèce	Grèce	NPP	NPP	n=s|g=f	
+32	ou	ou	CC	CC		
+33	encore	encore	ADV	ADV		
+34	de	de	P	P		
+35	l'	le	DET	DET	n=s	
+36	Islande	Islande	NPP	NPP	n=s|g=f	
+37	.	.	PONCT	PONCT		
+
+1	Malgré	malgré	P	P		
+2	un	un	DET	DET	n=s|g=m	
+3	passé	passé	NC	NC	n=s|g=m	
+4	majoritairement	_	ADV	ADV		
+5	agricole	agricole	ADJ	ADJ	n=s	
+6	,	,	PONCT	PONCT		
+7	la	la	DET	DET	n=s|g=f	
+8	structure	structure	NC	NC	n=s|g=f	
+9	de	de	P	P		
+10	l'	le	DET	DET	n=s	
+11	économie	économie	NC	NC	n=s|g=f	
+12	se	se	CLR	CLR	n=p,s|p=3	
+13	base	base	NC	NC	n=s|g=f	
+14	aujourd'hui	aujourd'hui	ADV	ADV		
+15	sur	sur	P	P		
+16	les	les	DET	DET	n=p	
+17	services	service	NC	NC	n=p|g=m	
+18	et	et	CC	CC		
+19	l'	le	DET	DET	n=s	
+20	industrie	industrie	NC	NC	n=s|g=f	
+21	,	,	PONCT	PONCT		
+22	qui	qui	PROREL	PROREL	n=s	
+23	représente	représenter	V	V	n=s|t=P,S|p=1,3	
+24	respectivement	_	ADV	ADV		
+25	67,8	67,8	VPP	VPP		
+26	%	%	NC	NC	g=m	
+27	et	et	CC	CC		
+28	28,2	28,2	ADJ	ADJ		
+29	%	%	NC	NC	g=m	
+30	de	de	P	P		
+31	l'	le	DET	DET	n=s	
+32	économie	économie	NC	NC	n=s|g=f	
+33	nationale	national	ADJ	ADJ	n=s|g=f	
+34	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	agriculture	agriculture	NC	NC	n=s|g=f	
+3	est	être	V	V	n=s|t=P|p=3	
+4	bien	bien	ADV	ADV		
+5	adaptée	adapter	VPP	VPP	n=s|g=f|t=K	
+6	au	à	P+D	P+D	n=s|g=m	
+7	pays	pays	NC	NC	g=m	
+8	en	en	P	P		
+9	raison	raison	NC	NC	n=s|g=f	
+10	du	de	P+D	P+D	n=s|g=m	
+11	climat	climat	NC	NC	n=s|g=m	
+12	,	,	PONCT	PONCT		
+13	du	de	P+D	P+D	n=s|g=m	
+14	relief	relief	NC	NC	n=s|g=m	
+15	et	et	CC	CC		
+16	des	de	P+D	P+D	n=p	
+17	sols	sol	NC	NC	n=p|g=m	
+18	favorables	favorable	ADJ	ADJ	n=p	
+19	.	.	PONCT	PONCT		
+
+1	Pendant	pendant	P	P		
+2	les	les	DET	DET	n=p	
+3	dernières	dernier	ADJ	ADJ	n=p|g=f	
+4	décennies	décennie	NC	NC	n=p|g=f	
+5	,	,	PONCT	PONCT		
+6	la	la	DET	DET	n=s|g=f	
+7	modernisation	modernisation	NC	NC	n=s|g=f	
+8	de	de	P	P		
+9	l'	le	DET	DET	n=s	
+10	agriculture	agriculture	NC	NC	n=s|g=f	
+11	s'	se	CLR	CLR	n=p,s|p=3	
+12	est	être	V	V	n=s|t=P|p=3	
+13	intensifiée	intensifier	VPP	VPP	n=s|g=f|t=K	
+14	,	,	PONCT	PONCT		
+15	bien	bien	ADV	ADV		
+16	qu'	que	CS	CS		
+17	environ	environ	ADV	ADV		
+18	12	12	ADJ	ADJ		
+19	%	%	NC	NC	g=m	
+20	de	de	P	P		
+21	la	la	DET	DET	n=s|g=f	
+22	population	population	NC	NC	n=s|g=f	
+23	active	actif	ADJ	ADJ	n=s|g=f	
+24	travaille	travailler	V	V	n=s|t=P,S|p=1,3	
+25	dans	dans	P	P		
+26	l'	le	DET	DET	n=s	
+27	agriculture	agriculture	NC	NC	n=s|g=f	
+28	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	oliviers	olivier	NC	NC	n=p|g=m	
+3	(	(	PONCT	PONCT		
+4	4_000	4_000	ADJ	ADJ		
+5	km²	_	NC	NC		
+6	)	)	PONCT	PONCT		
+7	,	,	PONCT	PONCT		
+8	les	les	DET	DET	n=p	
+9	vignobles	vignoble	NC	NC	n=p|g=m	
+10	(	(	PONCT	PONCT		
+11	3_750	3_750	NPP	NPP		
+12	km²	_	NPP	NPP		
+13	)	)	PONCT	PONCT		
+14	,	,	PONCT	PONCT		
+15	le	le	DET	DET	n=s|g=m	
+16	blé	blé	NC	NC	n=s|g=m	
+17	(	(	PONCT	PONCT		
+18	3_000	3_000	ADJ	ADJ		
+19	km²	_	NC	NC		
+20	)	)	PONCT	PONCT		
+21	et	et	CC	CC		
+22	le	le	DET	DET	n=s|g=m	
+23	maïs	maïs	NC	NC	g=m	
+24	(	(	PONCT	PONCT		
+25	2_680	2_680	NC	NC		
+26	km²	_	NPP	NPP		
+27	)	)	PONCT	PONCT		
+28	sont	être	V	V	n=p|t=P|p=3	
+29	produits	produire	VPP	VPP	n=p|g=m|t=K	
+30	dans	dans	P	P		
+31	des	des	DET	DET	n=p	
+32	secteurs	secteur	NC	NC	n=p|g=m	
+33	suffisamment	_	ADV	ADV		
+34	vastes	vaste	ADJ	ADJ	n=p	
+35	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	vins	vin	NC	NC	n=p|g=m	
+3	(	(	PONCT	PONCT		
+4	spécialement	_	ADV	ADV		
+5	le	le	DET	DET	n=s|g=m	
+6	vin	vin	NC	NC	n=s|g=m	
+7	de	de	P	P		
+8	Porto	Porto	NPP	NPP	n=s|g=m	
+9	et	et	CC	CC		
+10	le	le	DET	DET	n=s|g=m	
+11	vin	vin	NC	NC	n=s|g=m	
+12	de	de	P	P		
+13	Madère	_	NPP	NPP		
+14	)	)	PONCT	PONCT		
+15	et	et	CC	CC		
+16	les	les	DET	DET	n=p	
+17	huiles	huile	NC	NC	n=p|g=f	
+18	(	(	PONCT	PONCT		
+19	huile	huile	NC	NC	n=s|g=f	
+20	d'	de	P	P		
+21	olive	olive	NC	NC	n=s|g=f	
+22	,	,	PONCT	PONCT		
+23	huile	huile	NC	NC	n=s|g=f	
+24	de	de	P	P		
+25	tournesol	tournesol	NC	NC	n=s|g=m	
+26	)	)	PONCT	PONCT		
+27	portugaises	portugais	ADJ	ADJ	n=p|g=f	
+28	sont	être	V	V	n=p|t=P|p=3	
+29	très	très	ADV	ADV		
+30	appréciées	apprécier	VPP	VPP	n=p|g=f|t=K	
+31	en	en	P	P		
+32	raison	raison	NC	NC	n=s|g=f	
+33	de	de	P	P		
+34	leur	leur	DET	DET	n=s|p=3|poss=p	
+35	qualité	qualité	NC	NC	n=s|g=f	
+36	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	Portugal	Portugal	NPP	NPP	n=s|g=m	
+3	est	être	V	V	n=s|t=P|p=3	
+4	également	_	ADV	ADV		
+5	producteur	producteur	NC	NC	n=s|g=m	
+6	de	de	P	P		
+7	fruits	fruit	NC	NC	n=p|g=m	
+8	,	,	PONCT	PONCT		
+9	notamment	_	ADV	ADV		
+10	les	les	DET	DET	n=p	
+11	laranjas	_	NC	NC		
+12	algarvias	_	NPP	NPP		
+13	(	(	PONCT	PONCT		
+14	orange	orange	NC	NC	n=s	
+15	de	de	P	P		
+16	l'	le	DET	DET	n=s	
+17	Algarve	_	NPP	NPP		
+18	)	)	PONCT	PONCT		
+19	,	,	PONCT	PONCT		
+20	la	la	DET	DET	n=s|g=f	
+21	pêra	_	NPP	NPP		
+22	-	-	PONCT	PONCT		
+23	rocha	rocher	V	V	n=s|t=J|p=3	
+24	de	de	P	P		
+25	l'	le	DET	DET	n=s	
+26	Ouest	_	NPP	NPP		
+27	,	,	PONCT	PONCT		
+28	la	la	DET	DET	n=s|g=f	
+29	cerise	cerise	NC	NC	n=s|g=f	
+30	du	de	P+D	P+D	n=s|g=m	
+31	Gardunha	_	NPP	NPP		
+32	et	et	CC	CC		
+33	la	la	DET	DET	n=s|g=f	
+34	banane	banane	NC	NC	n=s|g=f	
+35	de	de	P	P		
+36	Madeira	_	NPP	NPP		
+37	.	.	PONCT	PONCT		
+
+1	D'	de	DET	DET	n=p	
+2	autres	autre	ADJ	ADJ	n=p	
+3	productions	production	NC	NC	n=p|g=f	
+4	font	faire	V	V	n=p|t=P|p=3	
+5	partie	partie	NC	NC	n=s|g=f	
+6	de	de	P	P		
+7	l'	le	DET	DET	n=s	
+8	horticulture	horticulture	NC	NC	n=s|g=f	
+9	ou	ou	CC	CC		
+10	de	de	P	P		
+11	la	la	DET	DET	n=s|g=f	
+12	floriculture	floriculture	NC	NC	n=s|g=f	
+13	,	,	PONCT	PONCT		
+14	comme	comme	P	P		
+15	la	la	DET	DET	n=s|g=f	
+16	betterave	_	ADJ	ADJ		
+17	rouge	rouge	NC	NC	n=s	
+18	sucrée	sucrer	ADJ	ADJ	n=s|g=f|t=K	
+19	,	,	PONCT	PONCT		
+20	l'	le	DET	DET	n=s	
+21	huile	huile	NC	NC	n=s|g=f	
+22	de	de	P	P		
+23	tournesol	tournesol	NC	NC	n=s|g=m	
+24	et	et	CC	CC		
+25	le	le	DET	DET	n=s|g=m	
+26	tabac	tabac	NC	NC	n=s|g=m	
+27	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	liège	liège	NC	NC	n=s|g=m	
+3	a	avoir	V	V	n=s|t=P|p=3	
+4	une	une	DET	DET	n=s|g=f	
+5	production	production	NC	NC	n=s|g=f	
+6	significative	significatif	ADJ	ADJ	n=s|g=f	
+7	,	,	PONCT	PONCT		
+8	car	car	CS	CS		
+9	le	le	DET	DET	n=s|g=m	
+10	Portugal	Portugal	NPP	NPP	n=s|g=m	
+11	produit	produire	V	V	n=s|t=P|p=3	
+12	54	54	NC	NC		
+13	%	%	NC	NC	g=m	
+14	de	de	P	P		
+15	la	la	DET	DET	n=s|g=f	
+16	production	production	NC	NC	n=s|g=f	
+17	mondiale	mondial	ADJ	ADJ	n=s|g=f	
+18	de	de	P	P		
+19	liège	liège	NC	NC	n=s|g=m	
+20	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	ressources	ressource	NC	NC	n=p|g=f	
+3	minérales	minéral	ADJ	ADJ	n=p|g=f	
+4	plus	plus	ADV	ADV		
+5	importantes	important	ADJ	ADJ	n=p|g=f	
+6	au	à	P+D	P+D	n=s|g=m	
+7	Portugal	Portugal	NPP	NPP	n=s|g=m	
+8	sont	être	V	V	n=p|t=P|p=3	
+9	le	le	DET	DET	n=s|g=m	
+10	cuivre	cuivre	NC	NC	n=s|g=m	
+11	,	,	PONCT	PONCT		
+12	le	le	DET	DET	n=s|g=m	
+13	lithium	lithium	NC	NC	n=s|g=m	
+14	,	,	PONCT	PONCT		
+15	le	le	DET	DET	n=s|g=m	
+16	tungstène	tungstène	NC	NC	n=s|g=m	
+17	,	,	PONCT	PONCT		
+18	l'	le	DET	DET	n=s	
+19	uranium	uranium	NC	NC	n=s|g=m	
+20	,	,	PONCT	PONCT		
+21	le	le	DET	DET	n=s|g=m	
+22	sel	sel	NC	NC	n=s|g=m	
+23	et	et	CC	CC		
+24	le	le	DET	DET	n=s|g=m	
+25	marbre	marbre	NC	NC	n=s|g=m	
+26	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	forêts	forêt	NC	NC	n=p|g=f	
+3	couvrent	couvrir	V	V	n=p|t=P,S|p=3	
+4	environ	environ	ADV	ADV		
+5	34	34	VPP	VPP		
+6	%	%	NC	NC	g=m	
+7	du	de	P+D	P+D	n=s|g=m	
+8	pays	pays	NC	NC	g=m	
+9	et	et	CC	CC		
+10	sont	être	V	V	n=p|t=P|p=3	
+11	notamment	_	ADV	ADV		
+12	composées	composer	VPP	VPP	n=p|g=f|t=K	
+13	de	de	P	P		
+14	:	:	PONCT	PONCT		
+
+1	En	en	P	P		
+2	2005	2005	NC	NC		
+3	,	,	PONCT	PONCT		
+4	le	le	DET	DET	n=s|g=m	
+5	taux	taux	NC	NC	g=m	
+6	de	de	P	P		
+7	chômage	chômage	NC	NC	n=s|g=m	
+8	était	être	V	V	n=s|t=I|p=3	
+9	de	de	P	P		
+10	7,6	7,6	NC	NC		
+11	%	%	NC	NC	g=m	
+12	,	,	PONCT	PONCT		
+13	mais	mais	CC	CC		
+14	il	il	CLS	CLS	n=s|g=m|p=3	
+15	a	avoir	V	V	n=s|t=P|p=3	
+16	subi	subir	VPP	VPP	n=s|g=m|t=K	
+17	jusqu'	jusque	P	P		
+18	à	à	P	P		
+19	atteindre	atteindre	VINF	VINF	t=W	
+20	10,2	10,2	VPP	VPP		
+21	%	%	NC	NC	g=m	
+22	en	en	P	P		
+23	2016	2016	NC	NC		
+24	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	pays	pays	NC	NC	g=m	
+3	exporte	exporter	V	V	n=s|t=P,S|p=1,3	
+4	du	de	P+D	P+D	n=s|g=m	
+5	textile	textile	NC	NC	n=s|g=m	
+6	,	,	PONCT	PONCT		
+7	des	des	DET	DET	n=p	
+8	voitures	voiture	NC	NC	n=p|g=f	
+9	,	,	PONCT	PONCT		
+10	des	des	DET	DET	n=p	
+11	produits	produit	NC	NC	n=p|g=m	
+12	manufacturés	manufacturer	VPP	VPP	n=p|g=m|t=K	
+13	,	,	PONCT	PONCT		
+14	de	de	P	P		
+15	l'	le	DET	DET	n=s	
+16	informatique	informatique	NC	NC	n=s|g=f	
+17	,	,	PONCT	PONCT		
+18	de	de	P	P		
+19	l'	le	DET	DET	n=s	
+20	électronique	électronique	ADJ	ADJ	n=s	
+21	et	et	CC	CC		
+22	du	de	P+D	P+D	n=s|g=m	
+23	matériel	matériel	NC	NC	n=s|g=m	
+24	de	de	P	P		
+25	construction	construction	NC	NC	n=s|g=f	
+26	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	commerce	commerce	NC	NC	n=s|g=m	
+3	extérieur	extérieur	ADJ	ADJ	n=s|g=m	
+4	du	de	P+D	P+D	n=s|g=m	
+5	Portugal	Portugal	NPP	NPP	n=s|g=m	
+6	se	se	CLR	CLR	n=p,s|p=3	
+7	concentre	concentrer	V	V	n=s|t=P,S|p=1,3	
+8	essentiellement	_	ADV	ADV		
+9	dans	dans	P	P		
+10	l'	le	DET	DET	n=s	
+11	Union	union	NC	NC	n=s|g=f	
+12	européenne	européen	ADJ	ADJ	n=s|g=f	
+13	.	.	PONCT	PONCT		
+
+1	Aujourd'hui	aujourd'hui	ADV	ADV		
+2	,	,	PONCT	PONCT		
+3	80	80	NC	NC		
+4	%	%	NC	NC	g=m	
+5	des	de	P+D	P+D	n=p	
+6	exportations	exportation	NC	NC	n=p|g=f	
+7	portugaises	portugais	ADJ	ADJ	n=p|g=f	
+8	sont	être	V	V	n=p|t=P|p=3	
+9	à	à	P	P		
+10	destination	destination	NC	NC	n=s|g=f	
+11	des	de	P+D	P+D	n=p	
+12	pays	pays	NC	NC	g=m	
+13	de	de	P	P		
+14	l'	le	DET	DET	n=s	
+15	Union	union	NC	NC	n=s|g=f	
+16	européenne	européen	ADJ	ADJ	n=s|g=f	
+17	,	,	PONCT	PONCT		
+18	5	5	ADJ	ADJ		
+19	%	%	NC	NC	g=m	
+20	pour	pour	P	P		
+21	l'	le	DET	DET	n=s	
+22	Amérique	Amérique	NPP	NPP	n=s|g=f	
+23	du	de	P+D	P+D	n=s|g=m	
+24	Nord	Nord	NPP	NPP	n=s|g=m	
+25	,	,	PONCT	PONCT		
+26	les	les	DET	DET	n=p	
+27	pays	pays	NC	NC	g=m	
+28	lusophones	_	NPP	NPP		
+29	(	(	PONCT	PONCT		
+30	dont	dont	PROREL	PROREL		
+31	la	la	DET	DET	n=s|g=f	
+32	langue	langue	NC	NC	n=s|g=f	
+33	est	être	V	V	n=s|t=P|p=3	
+34	le	le	DET	DET	n=s|g=m	
+35	portugais	portugais	ADJ	ADJ	g=m	
+36	,	,	PONCT	PONCT		
+37	comme	comme	CS	CS		
+38	le	le	DET	DET	n=s|g=m	
+39	Brésil	Brésil	NPP	NPP	n=s|g=m	
+40	)	)	PONCT	PONCT		
+41	représentent	représenter	V	V	n=p|t=P,S|p=3	
+42	4	4	VPP	VPP		
+43	%	%	NC	NC	g=m	
+44	des	de	P+D	P+D	n=p	
+45	exportations	exportation	NC	NC	n=p|g=f	
+46	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	Portugal	Portugal	NPP	NPP	n=s|g=m	
+3	est	être	V	V	n=s|t=P|p=3	
+4	un	un	DET	DET	n=s|g=m	
+5	pays	pays	NC	NC	g=m	
+6	qui	qui	PROREL	PROREL	n=s	
+7	est	être	V	V	n=s|t=P|p=3	
+8	bordé	border	VPP	VPP	n=s|g=m|t=K	
+9	à	à	P	P		
+10	l'	le	DET	DET	n=s	
+11	est	_	NPP	NPP		
+12	et	et	CC	CC		
+13	au	à	P+D	P+D	n=s|g=m	
+14	sud	_	NPP	NPP		
+15	par	par	P	P		
+16	l'	le	DET	DET	n=s	
+17	océan	océan	NC	NC	n=s|g=m	
+18	Atlantique	_	NPP	NPP		
+19	,	,	PONCT	PONCT		
+20	au	à	P+D	P+D	n=s|g=m	
+21	nord	_	NPP	NPP		
+22	et	et	CC	CC		
+23	à	à	P	P		
+24	l'	le	DET	DET	n=s	
+25	ouest	ouest	NC	NC	n=s|g=m	
+26	par	par	P	P		
+27	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+28	seul	seul	ADJ	ADJ	n=s|g=m	
+29	voisin	voisin	NC	NC	n=s|g=m	
+30	,	,	PONCT	PONCT		
+31	l'	le	DET	DET	n=s	
+32	Espagne	Espagne	NPP	NPP	n=s|g=f	
+33	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	territoire	territoire	NC	NC	n=s|g=m	
+3	portugais	portugais	ADJ	ADJ	g=m	
+4	inclut	inclure	V	V	n=s|t=J,P|p=3	
+5	également	_	ADV	ADV		
+6	les	les	DET	DET	n=p	
+7	régions	région	NC	NC	n=p|g=f	
+8	autonomes	autonome	ADJ	ADJ	n=p	
+9	de	de	P	P		
+10	Madère	_	NPP	NPP		
+11	des	de	P+D	P+D	n=p	
+12	Açores	_	NC	NC		
+13	,	,	PONCT	PONCT		
+14	Madère	_	NPP	NPP		
+15	est	être	V	V	n=s|t=P|p=3	
+16	située	situer	VPP	VPP	n=s|g=f|t=K	
+17	dans	dans	P	P		
+18	le	le	DET	DET	n=s|g=m	
+19	continent	continent	NC	NC	n=s|g=m	
+20	africain	africain	ADJ	ADJ	n=s|g=m	
+21	et	et	CC	CC		
+22	les	les	DET	DET	n=p	
+23	Açores	_	NPP	NPP		
+24	se	se	CLR	CLR	n=p,s|p=3	
+25	localisent	localiser	V	V	n=p|t=P,S|p=3	
+26	dans	dans	P	P		
+27	l'	le	DET	DET	n=s	
+28	océan	océan	NC	NC	n=s|g=m	
+29	Atlantique	_	NPP	NPP		
+30	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	pays	pays	NC	NC	g=m	
+3	est	être	V	V	n=s|t=P|p=3	
+4	situé	situer	VPP	VPP	n=s|g=m|t=K	
+5	à	à	P	P		
+6	l'	le	DET	DET	n=s	
+7	extrémité	extrémité	NC	NC	n=s|g=f	
+8	de	de	P	P		
+9	l'	le	DET	DET	n=s	
+10	Europe	Europe	NPP	NPP	n=s|g=f	
+11	occidentale	occidental	ADJ	ADJ	n=s|g=f	
+12	,	,	PONCT	PONCT		
+13	le	le	DET	DET	n=s|g=m	
+14	territoire	territoire	NC	NC	n=s|g=m	
+15	portugais	portugais	ADJ	ADJ	g=m	
+16	est	être	V	V	n=s|t=P|p=3	
+17	de	de	P	P		
+18	forme	forme	NC	NC	n=s|g=f	
+19	rectangulaire	rectangulaire	ADJ	ADJ	n=s	
+20	large	large	ADJ	ADJ	n=s	
+21	de	de	P	P		
+22	160	160	ADJ	ADJ		
+23	km	kilomètre	NC	NC	g=m	
+24	en	en	P	P		
+25	moyenne	moyenne	NC	NC	n=s|g=f	
+26	et	et	CC	CC		
+27	long	long	ADJ	ADJ	n=s|g=m	
+28	de	de	P	P		
+29	560	560	ADJ	ADJ		
+30	km	kilomètre	NC	NC	g=m	
+31	.	.	PONCT	PONCT		
+
+1	Avec	avec	P	P		
+2	une	une	DET	DET	n=s|g=f	
+3	superficie	superficie	NC	NC	n=s|g=f	
+4	de	de	P	P		
+5	88_790	88_790	NC	NC		
+6	km²	_	NPP	NPP		
+7	ou	ou	CC	CC		
+8	(	(	PONCT	PONCT		
+9	91_831	91_831	NC	NC		
+10	km²	_	NPP	NPP		
+11	en	en	P	P		
+12	ajoutant	ajouter	VPR	VPR	t=G	
+13	les	les	DET	DET	n=p	
+14	archipels	archipel	NC	NC	n=p|g=m	
+15	)	)	PONCT	PONCT		
+16	,	,	PONCT	PONCT		
+17	c'	ce	CLS	CLS		
+18	est	être	V	V	n=s|t=P|p=3	
+19	un	un	DET	DET	n=s|g=m	
+20	pays	pays	NC	NC	g=m	
+21	qui	qui	PROREL	PROREL	n=s	
+22	est	être	V	V	n=s|t=P|p=3	
+23	six	six	DET	DET	s=card|n=p	
+24	fois	fois	NC	NC	g=f	
+25	plus	plus	ADV	ADV		
+26	petit	petit	ADJ	ADJ	n=s|g=m	
+27	que	que	CS	CS		
+28	la	la	DET	DET	n=s|g=f	
+29	France	France	NPP	NPP	n=s|g=f,m	
+30	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	estuaire	estuaire	NC	NC	n=s|g=m	
+3	du	de	P+D	P+D	n=s|g=m	
+4	Tage	Tage	NPP	NPP	n=s|g=m	
+5	est	être	V	V	n=s|t=P|p=3	
+6	nommé	nommer	VPP	VPP	n=s|g=m|t=K	
+7	la	la	DET	DET	n=s|g=f	
+8	mer	mer	NC	NC	n=s|g=f	
+9	de	de	P	P		
+10	Paille	Paille	NPP	NPP	n=s|g=m	
+11	,	,	PONCT	PONCT		
+12	elle	elle	CLS	CLS	n=s|g=f|p=3	
+13	est	être	V	V	n=s|t=P|p=3	
+14	située	situer	VPP	VPP	n=s|g=f|t=K	
+15	à	à	P	P		
+16	Lisbonne	Lisbonne	NPP	NPP	n=s|g=m	
+17	.	.	PONCT	PONCT		
+
+1	Au	à	P+D	P+D	n=s|g=m	
+2	sud	sud	NC	NC	n=s|g=m	
+3	du	de	P+D	P+D	n=s|g=m	
+4	Tage	Tage	NPP	NPP	n=s|g=m	
+5	,	,	PONCT	PONCT		
+6	les	les	DET	DET	n=p	
+7	trois	trois	ADJ	ADJ	s=card|n=p	
+8	quarts	quart	NC	NC	n=p|g=m	
+9	des	de	P+D	P+D	n=p	
+10	terres	terre	NC	NC	n=p|g=f	
+11	ont	avoir	V	V	n=p|t=P|p=3	
+12	une	une	DET	DET	n=s|g=f	
+13	altitude	altitude	NC	NC	n=s|g=f	
+14	qui	qui	PROREL	PROREL	n=s	
+15	est	être	V	V	n=s|t=P|p=3	
+16	inférieure	inférieur	ADJ	ADJ	n=s|g=f	
+17	à	à	P	P		
+18	200	200	NC	NC		
+19	m	_	NPP	NPP		
+20	;	;	PONCT	PONCT		
+21	les	les	DET	DET	n=p	
+22	plaines	plaine	NC	NC	n=p|g=f	
+23	sont	être	V	V	n=p|t=P|p=3	
+24	vastes	vaste	ADJ	ADJ	n=p	
+25	et	et	CC	CC		
+26	peu	peu	ADV	ADV		
+27	ondulées	onduler	VPP	VPP	n=p|g=f|t=K	
+28	,	,	PONCT	PONCT		
+29	elles	elles	CLS	CLS	n=p|g=f|p=3	
+30	continuent	continuer	V	V	n=p|t=P,S|p=3	
+31	jusqu'	jusque	P	P		
+32	à	à	P	P		
+33	l'	le	DET	DET	n=s	
+34	océan	océan	NC	NC	n=s|g=m	
+35	Atlantique	_	NPP	NPP		
+36	et	et	CC	CC		
+37	les	les	DET	DET	n=p	
+38	surfaces	surface	NC	NC	n=p|g=f	
+39	d'	de	P	P		
+40	érosion	érosion	NC	NC	n=s|g=f	
+41	de	de	P	P		
+42	la	la	DET	DET	n=s|g=f	
+43	Meseta	_	NC	NC		
+44	andalouse	andalou	ADJ	ADJ	n=s|g=f	
+45	.	.	PONCT	PONCT		
+
+1	Au	à	P+D	P+D	n=s|g=m	
+2	contraire	contraire	NC	NC	n=s|g=m	
+3	,	,	PONCT	PONCT		
+4	au	à	P+D	P+D	n=s|g=m	
+5	nord	nord	NC	NC	n=s|g=m	
+6	du	de	P+D	P+D	n=s|g=m	
+7	Tage	Tage	NPP	NPP	n=s|g=m	
+8	,	,	PONCT	PONCT		
+9	il	il	CLS	CLS	n=s|g=m|p=3	
+10	y	y	CLO	CLO		
+11	a	avoir	V	V	n=s|t=P|p=3	
+12	des	des	DET	DET	n=p	
+13	sommets	sommet	NC	NC	n=p|g=m	
+14	peu	peu	ADV	ADV		
+15	élevés	élever	ADJ	ADJ	n=p|g=m|t=K	
+16	(	(	PONCT	PONCT		
+17	comme	comme	P	P		
+18	la	la	DET	DET	n=s|g=f	
+19	serra	serra	NC	NC	n=s|g=f	
+20	da	_	NPP	NPP		
+21	Estrela	_	NPP	NPP		
+22	,	,	PONCT	PONCT		
+23	la	la	DET	DET	n=s|g=f	
+24	seconde	second	ADJ	ADJ	n=s|g=f	
+25	plus	plus	ADV	ADV		
+26	haute	haut	ADJ	ADJ	n=s|g=f	
+27	chaîne	chaîne	NC	NC	n=s|g=f	
+28	de	de	P	P		
+29	montagnes	montagne	NC	NC	n=p|g=f	
+30	du	de	P+D	P+D	n=s|g=m	
+31	pays	pays	NC	NC	g=m	
+32	,	,	PONCT	PONCT		
+33	qui	qui	PROREL	PROREL	n=s	
+34	atteint	atteindre	VPP	VPP	n=s|g=m|t=K	
+35	à	à	P	P		
+36	peine	peine	NC	NC	n=s|g=f	
+37	2_000	2_000	ADJ	ADJ		
+38	m	_	NPP	NPP		
+39	)	)	PONCT	PONCT		
+40	mais	mais	CC	CC		
+41	le	le	DET	DET	n=s|g=m	
+42	relief	relief	NC	NC	n=s|g=m	
+43	est	être	V	V	n=s|t=P|p=3	
+44	plus	plus	ADV	ADV		
+45	montagneux	montagneux	ADJ	ADJ	g=m	
+46	,	,	PONCT	PONCT		
+47	puisque	puisque	CS	CS		
+48	le	le	DET	DET	n=s|g=m	
+49	tiers	tiers	NC	NC	g=m	
+50	seulement	_	ADV	ADV		
+51	se	se	CLR	CLR	n=p,s|p=3	
+52	trouve	trouver	V	V	n=s|t=P,S|p=1,3	
+53	à	à	P	P		
+54	moins	moins	ADV	ADV		
+55	de	de	P	P		
+56	200	200	NC	NC		
+57	m	_	NPP	NPP		
+58	,	,	PONCT	PONCT		
+59	entaillé	entailler	VPP	VPP	n=s|g=m|t=K	
+60	de	de	P	P		
+61	profondes	profond	ADJ	ADJ	n=p|g=f	
+62	vallées	vallée	NC	NC	n=p|g=f	
+63	;	;	PONCT	PONCT		
+64	ce	ce	DET	DET	n=s|g=m	
+65	relief	relief	NC	NC	n=s|g=m	
+66	a	avoir	V	V	n=s|t=P|p=3	
+67	toujours	toujours	ADV	ADV		
+68	rendu	rendre	VPP	VPP	n=s|g=m|t=K	
+69	les	les	DET	DET	n=p	
+70	déplacements	déplacement	NC	NC	n=p|g=m	
+71	difficiles	difficile	ADJ	ADJ	n=p	
+72	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	est	être	V	V	n=s|t=P|p=3	
+3	utilisé	utiliser	VPP	VPP	n=s|g=m|t=K	
+4	pour	pour	P	P		
+5	la	la	DET	DET	n=s|g=f	
+6	culture	culture	NC	NC	n=s|g=f	
+7	du	de	P+D	P+D	n=s|g=m	
+8	raisin6	_	NC	NC		
+9	.	.	PONCT	PONCT		
+
+1	Lisbonne	Lisbonne	NPP	NPP	n=s|g=m	
+2	est	être	V	V	n=s|t=P|p=3	
+3	la	la	DET	DET	n=s|g=f	
+4	capitale	capitale	NC	NC	n=s|g=f	
+5	du	de	P+D	P+D	n=s|g=m	
+6	Portugal	Portugal	NPP	NPP	n=s|g=m	
+7	depuis	depuis	P	P		
+8	le	le	DET	DET	n=s|g=m	
+9	XIIe	_	ADJ	ADJ		
+10	siècle	siècle	NC	NC	n=s|g=m	
+11	,	,	PONCT	PONCT		
+12	la	la	DET	DET	n=s|g=f	
+13	plus	plus	ADV	ADV		
+14	grande	grand	ADJ	ADJ	n=s|g=f	
+15	ville	ville	NC	NC	n=s|g=f	
+16	du	de	P+D	P+D	n=s|g=m	
+17	pays	pays	NC	NC	g=m	
+18	,	,	PONCT	PONCT		
+19	le	le	DET	DET	n=s|g=m	
+20	principal	principal	ADJ	ADJ	n=s|g=m	
+21	pôle	pôle	NC	NC	n=s|g=m	
+22	économique	économique	ADJ	ADJ	n=s	
+23	(	(	PONCT	PONCT		
+24	avec	avec	P	P		
+25	le	le	DET	DET	n=s|g=m	
+26	principal	principal	ADJ	ADJ	n=s|g=m	
+27	port	port	NC	NC	n=s|g=m	
+28	maritime	maritime	ADJ	ADJ	n=s	
+29	et	et	CC	CC		
+30	l'	le	DET	DET	n=s	
+31	aéroport	aéroport	NC	NC	n=s|g=m	
+32	portugais	portugais	ADJ	ADJ	g=m	
+33	)	)	PONCT	PONCT		
+34	et	et	CC	CC		
+35	est	être	V	V	n=s|t=P|p=3	
+36	la	la	DET	DET	n=s|g=f	
+37	ville	ville	NC	NC	n=s|g=f	
+38	la	la	DET	DET	n=s|g=f	
+39	plus	plus	ADV	ADV		
+40	riche	riche	ADJ	ADJ	n=s	
+41	du	de	P+D	P+D	n=s|g=m	
+42	Portugal	Portugal	NPP	NPP	n=s|g=m	
+43	avec	avec	P	P		
+44	un	un	DET	DET	n=s|g=m	
+45	PIB	PIB	NC	NC	g=m	
+46	par	par	P	P		
+47	habitant	habitant	NC	NC	n=s|g=m	
+48	supérieur	supérieur	ADJ	ADJ	n=s|g=m	
+49	à	à	P	P		
+50	celui	celui	PRO	PRO	n=s|g=m	
+51	de	de	P	P		
+52	la	la	DET	DET	n=s|g=f	
+53	moyenne	moyenne	NC	NC	n=s|g=f	
+54	de	de	P	P		
+55	l'	le	DET	DET	n=s	
+56	Union	union	NC	NC	n=s|g=f	
+57	européenne	européen	ADJ	ADJ	n=s|g=f	
+58	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	y	y	CLO	CLO		
+3	a	avoir	V	V	n=s|t=P|p=3	
+4	d'	de	DET	DET	n=p	
+5	autres	autre	ADJ	ADJ	n=p	
+6	villes	ville	NC	NC	n=p|g=f	
+7	importantes	important	ADJ	ADJ	n=p|g=f	
+8	comme	comme	P	P		
+9	celle	celle	PRO	PRO	n=s|g=f	
+10	de	de	P	P		
+11	Porto	Porto	NPP	NPP	n=s|g=m	
+12	,	,	PONCT	PONCT		
+13	seconde	second	ADJ	ADJ	n=s|g=f	
+14	plus	plus	ADV	ADV		
+15	grande	grand	ADJ	ADJ	n=s|g=f	
+16	ville	ville	NC	NC	n=s|g=f	
+17	et	et	CC	CC		
+18	le	le	DET	DET	n=s|g=m	
+19	port	port	NC	NC	n=s|g=m	
+20	maritime	maritime	ADJ	ADJ	n=s	
+21	,	,	PONCT	PONCT		
+22	Aveiro	_	NPP	NPP		
+23	(	(	PONCT	PONCT		
+24	considérée	considérer	VPP	VPP	n=s|g=f|t=K	
+25	comme	comme	P	P		
+26	la	la	DET	DET	n=s|g=f	
+27	Venise	Venise	NPP	NPP	n=s|g=m	
+28	portugaise	portugais	ADJ	ADJ	n=s|g=f	
+29	)	)	PONCT	PONCT		
+30	,	,	PONCT	PONCT		
+31	Braga	_	NPP	NPP		
+32	(	(	PONCT	PONCT		
+33	ville	ville	NC	NC	n=s|g=f	
+34	des	de	P+D	P+D	n=p	
+35	archevêques	archevêque	NC	NC	n=p|g=m	
+36	)	)	PONCT	PONCT		
+37	,	,	PONCT	PONCT		
+38	Chaves	_	NPP	NPP		
+39	(	(	PONCT	PONCT		
+40	ville	ville	NC	NC	n=s|g=f	
+41	historique	historique	ADJ	ADJ	n=s	
+42	et	et	CC	CC		
+43	millénaire	millénaire	NC	NC	n=s|g=m	
+44	)	)	PONCT	PONCT		
+45	,	,	PONCT	PONCT		
+46	Coimbra	_	NPP	NPP		
+47	(	(	PONCT	PONCT		
+48	avec	avec	P	P		
+49	la	la	DET	DET	n=s|g=f	
+50	plus	plus	ADV	ADV		
+51	ancienne	ancien	ADJ	ADJ	n=s|g=f	
+52	université	université	NC	NC	n=s|g=f	
+53	du	de	P+D	P+D	n=s|g=m	
+54	pays	pays	NC	NC	g=m	
+55	et	et	CC	CC		
+56	une	un	PRO	PRO	n=s|g=f	
+57	des	de	P+D	P+D	n=p	
+58	plus	plus	ADV	ADV		
+59	anciennes	ancien	ADJ	ADJ	n=p|g=f	
+60	d'	de	P	P		
+61	Europe	Europe	NPP	NPP	n=s|g=f	
+62	)	)	PONCT	PONCT		
+63	,	,	PONCT	PONCT		
+64	Guimarães	_	NPP	NPP		
+65	(	(	PONCT	PONCT		
+66	ville	ville	NC	NC	n=s|g=f	
+67	berceau	berceau	NC	NC	n=s|g=m	
+68	du	de	P+D	P+D	n=s|g=m	
+69	pays	pays	NC	NC	g=m	
+70	)	)	PONCT	PONCT		
+71	,	,	PONCT	PONCT		
+72	Évora	_	NPP	NPP		
+73	(	(	PONCT	PONCT		
+74	ville	ville	NC	NC	n=s|g=f	
+75	musée	muser	ADJ	ADJ	n=s|g=f|t=K	
+76	)	)	PONCT	PONCT		
+77	,	,	PONCT	PONCT		
+78	Setúbal	_	NPP	NPP		
+79	et	et	CC	CC		
+80	Viseu	_	NPP	NPP		
+81	.	.	PONCT	PONCT		
+
+1	Dans	dans	P	P		
+2	le	le	DET	DET	n=s|g=m	
+3	secteur	secteur	NC	NC	n=s|g=m	
+4	métropolitain	métropolitain	ADJ	ADJ	n=s|g=m	
+5	de	de	P	P		
+6	Lisbonne	Lisbonne	NPP	NPP	n=s|g=m	
+7	existent	exister	V	V	n=p|t=P,S|p=3	
+8	des	des	DET	DET	n=p	
+9	villes	ville	NC	NC	n=p|g=f	
+10	avec	avec	P	P		
+11	une	une	DET	DET	n=s|g=f	
+12	grande	grand	ADJ	ADJ	n=s|g=f	
+13	densité	densité	NC	NC	n=s|g=f	
+14	de	de	P	P		
+15	population	population	NC	NC	n=s|g=f	
+16	comme	comme	P	P		
+17	Agualva	_	NPP	NPP		
+18	-	-	PONCT	PONCT		
+19	Cacém	_	NPP	NPP		
+20	et	et	CC	CC		
+21	Queluz	_	NPP	NPP		
+22	(	(	PONCT	PONCT		
+23	commune	commune	NC	NC	n=s|g=f	
+24	de	de	P	P		
+25	Sintra	_	NPP	NPP		
+26	)	)	PONCT	PONCT		
+27	,	,	PONCT	PONCT		
+28	Amadora	_	NPP	NPP		
+29	,	,	PONCT	PONCT		
+30	Almada	_	NPP	NPP		
+31	,	,	PONCT	PONCT		
+32	Amora	_	NPP	NPP		
+33	,	,	PONCT	PONCT		
+34	Seixal	_	NPP	NPP		
+35	,	,	PONCT	PONCT		
+36	Barreiro	_	NPP	NPP		
+37	,	,	PONCT	PONCT		
+38	Montijo	_	NPP	NPP		
+39	et	et	CC	CC		
+40	Odivelas	_	NPP	NPP		
+41	.	.	PONCT	PONCT		
+
+1	Dans	dans	P	P		
+2	le	le	DET	DET	n=s|g=m	
+3	secteur	secteur	NC	NC	n=s|g=m	
+4	métropolitain	métropolitain	ADJ	ADJ	n=s|g=m	
+5	de	de	P	P		
+6	Porto	Porto	NPP	NPP	n=s|g=m	
+7	,	,	PONCT	PONCT		
+8	les	les	DET	DET	n=p	
+9	communes	commune	NC	NC	n=p|g=f	
+10	les	les	DET	DET	n=p	
+11	plus	plus	ADV	ADV		
+12	peuplées	peupler	ADJ	ADJ	n=p|g=f|t=K	
+13	sont	être	V	V	n=p|t=P|p=3	
+14	Vila	_	NPP	NPP		
+15	Nova	Nova	NPP	NPP	n=s|g=f	
+16	de	de	P	P		
+17	Gaia	Gaia	NPP	NPP	n=s|g=f	
+18	,	,	PONCT	PONCT		
+19	Maya	Maya	NPP	NPP	n=s|g=f	
+20	,	,	PONCT	PONCT		
+21	Matosinhos	_	NPP	NPP		
+22	et	et	CC	CC		
+23	Gondomar	_	NPP	NPP		
+24	.	.	PONCT	PONCT		
+
+1	Dans	dans	P	P		
+2	la	la	DET	DET	n=s|g=f	
+3	région	région	NC	NC	n=s|g=f	
+4	indépendante	indépendant	ADJ	ADJ	n=s|g=f	
+5	de	de	P	P		
+6	Madère	_	NPP	NPP		
+7	,	,	PONCT	PONCT		
+8	la	la	DET	DET	n=s|g=f	
+9	principale	principal	ADJ	ADJ	n=s|g=f	
+10	ville	ville	NC	NC	n=s|g=f	
+11	est	être	V	V	n=s|t=P|p=3	
+12	Funchal	_	NPP	NPP		
+13	.	.	PONCT	PONCT		
+
+1	Dans	dans	P	P		
+2	la	la	DET	DET	n=s|g=f	
+3	région	région	NC	NC	n=s|g=f	
+4	indépendante	indépendant	ADJ	ADJ	n=s|g=f	
+5	des	de	P+D	P+D	n=p	
+6	Açores	_	NC	NC		
+7	existent	exister	V	V	n=p|t=P,S|p=3	
+8	trois	trois	DET	DET	s=card|n=p	
+9	villes	ville	NC	NC	n=p|g=f	
+10	principales	principal	ADJ	ADJ	n=p|g=f	
+11	:	:	PONCT	PONCT		
+12	Ponta	ponter	V	V	n=s|t=J|p=3	
+13	Delgada	_	NPP	NPP		
+14	(	(	PONCT	PONCT		
+15	dans	dans	P	P		
+16	l'	le	DET	DET	n=s	
+17	île	île	NC	NC	n=s|g=f	
+18	de	de	P	P		
+19	São	_	NC	NC		
+20	Miguel	Miguel	NPP	NPP	n=s|g=m	
+21	)	)	PONCT	PONCT		
+22	,	,	PONCT	PONCT		
+23	Angra	_	NPP	NPP		
+24	do	do	NC	NC	g=m	
+25	Heroísmo	_	NPP	NPP		
+26	(	(	PONCT	PONCT		
+27	dans	dans	P	P		
+28	l'	le	DET	DET	n=s	
+29	île	île	NC	NC	n=s|g=f	
+30	Terceira	_	NPP	NPP		
+31	)	)	PONCT	PONCT		
+32	et	et	CC	CC		
+33	Horta	_	NPP	NPP		
+34	(	(	PONCT	PONCT		
+35	dans	dans	P	P		
+36	l'	le	DET	DET	n=s	
+37	île	île	NC	NC	n=s|g=f	
+38	du	de	P+D	P+D	n=s|g=m	
+39	Faial	_	NPP	NPP		
+40	)	)	PONCT	PONCT		
+41	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	pays	pays	NC	NC	g=m	
+3	compte	compter	V	V	n=s|t=P,S|p=1,3	
+4	18	18	ADJ	ADJ		
+5	districts	district	NC	NC	n=p|g=m	
+6	et	et	CC	CC		
+7	2	2	ADJ	ADJ		
+8	régions	région	NC	NC	n=p|g=f	
+9	autonomes	autonome	ADJ	ADJ	n=p	
+10	,	,	PONCT	PONCT		
+11	chaque	chaque	DET	DET	n=s	
+12	district	district	NC	NC	n=s|g=m	
+13	porte	porter	V	V	n=s|t=P,S|p=1,3	
+14	le	le	DET	DET	n=s|g=m	
+15	nom	nom	NC	NC	n=s|g=m	
+16	de	de	P	P		
+17	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+18	capitale	capitale	NC	NC	n=s|g=f	
+19	.	.	PONCT	PONCT		
+
+1	Depuis	depuis	P	P		
+2	1976	1976	NC	NC		
+3	,	,	PONCT	PONCT		
+4	les	les	DET	DET	n=p	
+5	régions	région	NC	NC	n=p|g=f	
+6	autonomes	autonome	ADJ	ADJ	n=p	
+7	ne	ne	ADV	ADV		
+8	sont	être	V	V	n=p|t=P|p=3	
+9	plus	plus	ADV	ADV		
+10	des	des	DET	DET	n=p	
+11	districts	district	NC	NC	n=p|g=m	
+12	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	Portugal	Portugal	NPP	NPP	n=s|g=m	
+3	possède	posséder	V	V	n=s|t=P,S|p=1,3	
+4	un	un	DET	DET	n=s|g=m	
+5	territoire	territoire	NC	NC	n=s|g=m	
+6	en	en	P	P		
+7	Afrique	Afrique	NPP	NPP	n=s|g=f	
+8	,	,	PONCT	PONCT		
+9	c'	ce	CLS	CLS		
+10	est	être	V	V	n=s|t=P|p=3	
+11	l'	le	DET	DET	n=s	
+12	archipel	archipel	NC	NC	n=s|g=m	
+13	de	de	P	P		
+14	Madère	_	NPP	NPP		
+15	qui	qui	PROREL	PROREL	n=s	
+16	,	,	PONCT	PONCT		
+17	depuis	depuis	P	P		
+18	1976	1976	NC	NC		
+19	,	,	PONCT	PONCT		
+20	n'	ne	ADV	ADV		
+21	est	être	V	V	n=s|t=P|p=3	
+22	plus	plus	ADV	ADV		
+23	un	un	DET	DET	n=s|g=m	
+24	district	district	NC	NC	n=s|g=m	
+25	,	,	PONCT	PONCT		
+26	mais	mais	CC	CC		
+27	une	une	DET	DET	n=s|g=f	
+28	région	région	NC	NC	n=s|g=f	
+29	autonome	autonome	ADJ	ADJ	n=s	
+30	,	,	PONCT	PONCT		
+31	pour	pour	P	P		
+32	éviter	éviter	VINF	VINF	t=W	
+33	l'	le	DET	DET	n=s	
+34	indépendance	indépendance	NC	NC	n=s|g=f	
+35	de	de	P	P		
+36	Madère	_	NPP	NPP		
+37	(	(	PONCT	PONCT		
+38	même	même	ADJ	ADJ	n=s	
+39	chose	chose	NC	NC	n=s|g=f	
+40	pour	pour	P	P		
+41	Açores	_	NPP	NPP		
+42	)	)	PONCT	PONCT		
+43	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	majorité	majorité	NC	NC	n=s|g=f	
+3	des	de	P+D	P+D	n=p	
+4	fleuves	fleuve	NC	NC	n=p|g=m	
+5	portugais	portugais	ADJ	ADJ	g=m	
+6	naissent	naître	V	V	n=p|t=P,S|p=3	
+7	en	en	P	P		
+8	Espagne	Espagne	NPP	NPP	n=s|g=f	
+9	et	et	CC	CC		
+10	se	se	CLR	CLR	n=p,s|p=3	
+11	jettent	jeter	V	V	n=p|t=P,S|p=3	
+12	dans	dans	P	P		
+13	l'	le	DET	DET	n=s	
+14	océan	océan	NC	NC	n=s|g=m	
+15	Atlantique	_	NPP	NPP		
+16	,	,	PONCT	PONCT		
+17	à	à	P	P		
+18	l'	le	DET	DET	n=s	
+19	exception	exception	NC	NC	n=s|g=f	
+20	d'	de	P	P		
+21	Ave	_	NPP	NPP		
+22	,	,	PONCT	PONCT		
+23	Mondego	_	NPP	NPP		
+24	,	,	PONCT	PONCT		
+25	Vouga	_	NPP	NPP		
+26	,	,	PONCT	PONCT		
+27	Zêzere	_	NPP	NPP		
+28	et	et	CC	CC		
+29	de	de	P	P		
+30	Sado	_	NPP	NPP		
+31	qui	qui	PROREL	PROREL	n=s	
+32	prennent	prendre	V	V	n=p|t=P,S|p=3	
+33	leur	leur	DET	DET	n=s|p=3|poss=p	
+34	source	source	NC	NC	n=s|g=f	
+35	au	à	P+D	P+D	n=s|g=m	
+36	Portugal	Portugal	NPP	NPP	n=s|g=m	
+37	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	fleuve	fleuve	NC	NC	n=s|g=m	
+3	Tâmega	_	NPP	NPP		
+4	se	se	CLR	CLR	n=p,s|p=3	
+5	jette	jeter	V	V	n=s|t=P,S|p=1,3	
+6	dans	dans	P	P		
+7	le	le	DET	DET	n=s|g=m	
+8	Douro	Douro	NPP	NPP	n=s|g=m	
+9	et	et	CC	CC		
+10	le	le	DET	DET	n=s|g=m	
+11	fleuve	fleuve	NC	NC	n=s|g=m	
+12	Zêzere	_	NPP	NPP		
+13	dans	dans	P	P		
+14	le	le	DET	DET	n=s|g=m	
+15	Tage	Tage	NPP	NPP	n=s|g=m	
+16	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	fleuves	fleuve	NC	NC	n=p|g=m	
+3	,	,	PONCT	PONCT		
+4	dans	dans	P	P		
+5	leur	leur	DET	DET	n=s|p=3|poss=p	
+6	grande	grand	ADJ	ADJ	n=s|g=f	
+7	partie	partie	NC	NC	n=s|g=f	
+8	,	,	PONCT	PONCT		
+9	ne	ne	ADV	ADV		
+10	permettent	permettre	V	V	n=p|t=P,S|p=3	
+11	pas	pas	ADV	ADV		
+12	la	la	DET	DET	n=s|g=f	
+13	navigation	navigation	NC	NC	n=s|g=f	
+14	des	de	P+D	P+D	n=p	
+15	bateaux	bateau	NC	NC	n=p|g=m	
+16	.	.	PONCT	PONCT		
+
+1	Seuls	seul	ADJ	ADJ	n=p|g=m	
+2	le	le	DET	DET	n=s|g=m	
+3	Douro	Douro	NPP	NPP	n=s|g=m	
+4	,	,	PONCT	PONCT		
+5	le	le	DET	DET	n=s|g=m	
+6	Tage	Tage	NPP	NPP	n=s|g=m	
+7	et	et	CC	CC		
+8	une	une	DET	DET	n=s|g=f	
+9	partie	partie	NC	NC	n=s|g=f	
+10	du	de	P+D	P+D	n=s|g=m	
+11	Guadiana	_	NPP	NPP		
+12	sont	être	V	V	n=p|t=P|p=3	
+13	navigables	navigable	ADJ	ADJ	n=p	
+14	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	est	être	V	V	n=s|t=P|p=3	
+3	ainsi	ainsi	ADV	ADV		
+4	possible	possible	ADJ	ADJ	n=s	
+5	de	de	P	P		
+6	faire	faire	VINF	VINF	t=W	
+7	des	des	DET	DET	n=p	
+8	croisières	croisière	NC	NC	n=p|g=f	
+9	au	à	P+D	P+D	n=s|g=m	
+10	Douro	Douro	NPP	NPP	n=s|g=m	
+11	jusqu'	jusque	P	P		
+12	en	en	P	P		
+13	Espagne	Espagne	NPP	NPP	n=s|g=f	
+14	.	.	PONCT	PONCT		
+
+1	Grâce	grâce	NC	NC	n=s|g=f	
+2	aux	à	P+D	P+D	n=p	
+3	barrages	barrage	NC	NC	n=p|g=m	
+4	hydroélectriques	hydroélectrique	ADJ	ADJ	n=p	
+5	,	,	PONCT	PONCT		
+6	les	les	DET	DET	n=p	
+7	fleuves	fleuve	NC	NC	n=p|g=m	
+8	portugais	portugais	ADJ	ADJ	g=m	
+9	sont	être	V	V	n=p|t=P|p=3	
+10	d'	de	DET	DET	n=p	
+11	importantes	important	ADJ	ADJ	n=p|g=f	
+12	sources	source	NC	NC	n=p|g=f	
+13	d'	de	P	P		
+14	énergie	énergie	NC	NC	n=s|g=f	
+15	hydraulique	hydraulique	ADJ	ADJ	n=s	
+16	,	,	PONCT	PONCT		
+17	une	une	DET	DET	n=s|g=f	
+18	énergie	énergie	NC	NC	n=s|g=f	
+19	renouvelable	renouvelable	ADJ	ADJ	n=s	
+20	distribuée	distribuer	VPP	VPP	n=s|g=f|t=K	
+21	sous	sous	P	P		
+22	forme	forme	NC	NC	n=s|g=f	
+23	d'	de	P	P		
+24	électricité	électricité	NC	NC	n=s|g=f	
+25	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	2001	2001	NC	NC		
+3	,	,	PONCT	PONCT		
+4	le	le	DET	DET	n=s|g=m	
+5	pays	pays	NC	NC	g=m	
+6	comptait	compter	V	V	n=s|t=I|p=3	
+7	10_356_117	10_356_117	NC	NC		
+8	habitants7	_	NPP	NPP		
+9	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	origine	origine	NC	NC	n=s|g=f	
+3	de	de	P	P		
+4	la	la	DET	DET	n=s|g=f	
+5	population	population	NC	NC	n=s|g=f	
+6	portugaise	portugais	ADJ	ADJ	n=s|g=f	
+7	vient	venir	V	V	n=s|t=P|p=3	
+8	notamment	_	ADV	ADV		
+9	des	de	P+D	P+D	n=p	
+10	Celtes	_	NPP	NPP		
+11	,	,	PONCT	PONCT		
+12	des	de	P+D	P+D	n=p	
+13	Ibères	_	NPP	NPP		
+14	et	et	CC	CC		
+15	des	de	P+D	P+D	n=p	
+16	Lusitaniens	lusitanien	NC	NC	n=p|g=f	
+17	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	y	y	CLO	CLO		
+3	a	avoir	V	V	n=s|t=P|p=3	
+4	encore	encore	ADV	ADV		
+5	moins	moins	ADV	ADV		
+6	de	de	P	P		
+7	cinquante	cinquante	DET	DET	s=card|n=p	
+8	ans	an	NC	NC	n=p|g=m	
+9	,	,	PONCT	PONCT		
+10	surtout	surtout	ADV	ADV		
+11	entre	entre	P	P		
+12	les	les	DET	DET	n=p	
+13	années	année	NC	NC	n=p|g=f	
+14	1960	1960	ADJ	ADJ		
+15	et	et	CC	CC		
+16	1974	1974	NC	NC		
+17	,	,	PONCT	PONCT		
+18	le	le	DET	DET	n=s|g=m	
+19	Portugal	Portugal	NPP	NPP	n=s|g=m	
+20	fut	être	V	V	n=s|t=J|p=3	
+21	un	un	DET	DET	n=s|g=m	
+22	pays	pays	NC	NC	g=m	
+23	d'	de	P	P		
+24	émigration	émigration	NC	NC	n=s|g=f	
+25	(	(	PONCT	PONCT		
+26	les	les	DET	DET	n=p	
+27	habitants	habitant	NC	NC	n=p|g=m	
+28	quittent	quitter	V	V	n=p|t=P,S|p=3	
+29	leurs	leurs	DET	DET	n=p|p=3|poss=p	
+30	pays	pays	NC	NC	g=m	
+31	pour	pour	P	P		
+32	un	un	DET	DET	n=s|g=m	
+33	autre	autre	ADJ	ADJ	n=s	
+34	,	,	PONCT	PONCT		
+35	par	par	P	P		
+36	exemple	exemple	NC	NC	n=s|g=m	
+37	:	:	PONCT	PONCT		
+38	Canada	_	NPP	NPP		
+39	,	,	PONCT	PONCT		
+40	France	France	NPP	NPP	n=s|g=f,m	
+41	,	,	PONCT	PONCT		
+42	…	…	PONCT	PONCT		
+43	)	)	PONCT	PONCT		
+44	7	7	NC	NC		
+45	.	.	PONCT	PONCT		
+
+1	Aujourd'hui	aujourd'hui	ADV	ADV		
+2	le	le	DET	DET	n=s|g=m	
+3	Portugal	Portugal	NPP	NPP	n=s|g=m	
+4	est	être	V	V	n=s|t=P|p=3	
+5	un	un	DET	DET	n=s|g=m	
+6	pays	pays	NC	NC	g=m	
+7	d'	de	P	P		
+8	immigration	immigration	NC	NC	n=s|g=f	
+9	,	,	PONCT	PONCT		
+10	il	il	CLS	CLS	n=s|g=m|p=3	
+11	accueille	accueillir	V	V	n=s|t=P,S|p=1,3	
+12	des	des	DET	DET	n=p	
+13	Africains	_	NPP	NPP		
+14	(	(	PONCT	PONCT		
+15	une	une	DET	DET	n=s|g=f	
+16	grande	grand	ADJ	ADJ	n=s|g=f	
+17	partie	partie	NC	NC	n=s|g=f	
+18	des	de	P+D	P+D	n=p	
+19	anciennes	ancien	ADJ	ADJ	n=p|g=f	
+20	colonies	colonie	NC	NC	n=p|g=f	
+21	portugaises	portugais	ADJ	ADJ	n=p|g=f	
+22	)	)	PONCT	PONCT		
+23	,	,	PONCT	PONCT		
+24	des	de	P+D	P+D	n=p	
+25	Brésiliens	brésilien	NC	NC	n=p|g=m	
+26	et	et	CC	CC		
+27	des	de	P+D	P+D	n=p	
+28	Européens	européen	NC	NC	n=p|g=m	
+29	de	de	P	P		
+30	l'	le	DET	DET	n=s	
+31	Est8	_	NPP	NPP		
+32	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	Portugal	Portugal	NPP	NPP	n=s|g=m	
+3	est	être	V	V	n=s|t=P|p=3	
+4	un	un	DET	DET	n=s|g=m	
+5	pays	pays	NC	NC	g=m	
+6	qui	qui	PROREL	PROREL	n=s	
+7	vieillit	vieillir	V	V	n=s|t=J,P|p=3	
+8	,	,	PONCT	PONCT		
+9	comme	comme	P	P		
+10	l'	le	DET	DET	n=s	
+11	Italie	Italie	NPP	NPP	n=s|g=f	
+12	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	n'	ne	ADV	ADV		
+3	y	y	CLO	CLO		
+4	a	avoir	V	V	n=s|t=P|p=3	
+5	pas	pas	ADV	ADV		
+6	assez	assez	ADV	ADV		
+7	de	de	P	P		
+8	naissances	naissance	NC	NC	n=p|g=f	
+9	pour	pour	P	P		
+10	renouveler	renouveler	VINF	VINF	t=W	
+11	la	la	DET	DET	n=s|g=f	
+12	population	population	NC	NC	n=s|g=f	
+13	.	.	PONCT	PONCT		
+
+1	Grâce	grâce	NC	NC	n=s|g=f	
+2	à	à	P	P		
+3	l'	le	DET	DET	n=s	
+4	immigration	immigration	NC	NC	n=s|g=f	
+5	,	,	PONCT	PONCT		
+6	le	le	DET	DET	n=s|g=m	
+7	Portugal	Portugal	NPP	NPP	n=s|g=m	
+8	renouvelle	renouveler	V	V	n=s|t=P,S|p=1,3	
+9	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+10	population	population	NC	NC	n=s|g=f	
+11	de	de	P	P		
+12	Brésiliens	_	NPP	NPP		
+13	,	,	PONCT	PONCT		
+14	Ukrainiens	_	NPP	NPP		
+15	et	et	CC	CC		
+16	d'	de	DET	DET	n=p	
+17	autres	autre	ADJ	ADJ	n=p	
+18	nationalités9	_	NC	NC		
+19	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	2010	2010	NC	NC		
+3	,	,	PONCT	PONCT		
+4	la	la	DET	DET	n=s|g=f	
+5	population	population	NC	NC	n=s|g=f	
+6	portugaise	portugais	ADJ	ADJ	n=s|g=f	
+7	était	être	V	V	n=s|t=I|p=3	
+8	composée	composer	VPP	VPP	n=s|g=f|t=K	
+9	de	de	P	P		
+10	16,9	16,9	NC	NC		
+11	%	%	NC	NC	g=m	
+12	d'	de	P	P		
+13	enfants	enfant	NC	NC	n=p	
+14	de	de	P	P		
+15	0	0	NC	NC		
+16	à	à	P	P		
+17	14	14	ADJ	ADJ		
+18	ans	an	NC	NC	n=p|g=m	
+19	,	,	PONCT	PONCT		
+20	de	de	P	P		
+21	67,3	67,3	NC	NC		
+22	%	%	NC	NC	g=m	
+23	de	de	P	P		
+24	15	15	NC	NC		
+25	-	-	PONCT	PONCT		
+26	64	64	ADJ	ADJ		
+27	ans	an	NC	NC	n=p|g=m	
+28	et	et	CC	CC		
+29	de	de	P	P		
+30	15,8	15,8	NC	NC		
+31	%	%	NC	NC	g=m	
+32	de	de	P	P		
+33	plus	plus	ADV	ADV		
+34	de	de	P	P		
+35	65	65	NC	NC		
+36	ans8	_	NC	NC		
+37	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	espérance	espérance	NC	NC	n=s|g=f	
+3	moyenne	moyen	ADJ	ADJ	n=s|g=f	
+4	de	de	P	P		
+5	vie	vie	NC	NC	n=s|g=f	
+6	était	être	V	V	n=s|t=I|p=3	
+7	de	de	P	P		
+8	76,14	76,14	NC	NC		
+9	ans	an	NC	NC	n=p|g=m	
+10	.	.	PONCT	PONCT		
+
+1	87,4	87,4	NC	NC		
+2	%	%	NC	NC	g=m	
+3	des	de	P+D	P+D	n=p	
+4	Portugais	portugais	NC	NC	g=m	
+5	savent	savoir	V	V	n=p|t=P|p=3	
+6	lire	lire	VINF	VINF	t=W	
+7	et	et	CC	CC		
+8	écrire	écrire	VINF	VINF	t=W	
+9	,	,	PONCT	PONCT		
+10	avec	avec	P	P		
+11	taux	taux	NC	NC	g=m	
+12	d'	de	P	P		
+13	analphabétisme	analphabétisme	NC	NC	n=s|g=m	
+14	décroissant	décroître	VPR	VPR	t=G	
+15	au	à	P+D	P+D	n=s|g=m	
+16	cours	cour	NC	NC	n=p|g=f	
+17	du	de	P+D	P+D	n=s|g=m	
+18	temps	temps	NC	NC	g=m	
+19	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	est	être	V	V	n=s|t=P|p=3	
+3	l'	le	DET	DET	n=s	
+4	un	un	PRO	PRO	n=s|g=m	
+5	des	de	P+D	P+D	n=p	
+6	pays	pays	NC	NC	g=m	
+7	dont	dont	PROREL	PROREL		
+8	la	la	DET	DET	n=s|g=f	
+9	mortalité	mortalité	NC	NC	n=s|g=f	
+10	infantile	infantile	ADJ	ADJ	n=s	
+11	est	être	V	V	n=s|t=P|p=3	
+12	la	la	DET	DET	n=s|g=f	
+13	plus	plus	ADV	ADV		
+14	faible	faible	ADJ	ADJ	n=s	
+15	:	:	PONCT	PONCT		
+16	5,4	5,4	NC	NC		
+17	pour	pour	P	P		
+18	mille8	_	NC	NC		
+19	.	.	PONCT	PONCT		
+
+1	Parmi	parmi	P	P		
+2	les	les	DET	DET	n=p	
+3	écrivains	écrivain	NC	NC	n=p|g=m	
+4	et	et	CC	CC		
+5	les	les	DET	DET	n=p	
+6	poètes	poète	NC	NC	n=p	
+7	portugais	portugais	ADJ	ADJ	g=m	
+8	,	,	PONCT	PONCT		
+9	on	on	CLS	CLS	n=s|p=3	
+10	peut	pouvoir	V	V	n=s|t=P|p=3	
+11	citer	citer	VINF	VINF	t=W	
+12	Luis	Luis	NPP	NPP	n=s|g=m	
+13	de	de	P	P		
+14	Camões	_	NPP	NPP		
+15	,	,	PONCT	PONCT		
+16	Fernando	Fernando	NPP	NPP	n=s|g=m	
+17	Pessoa	_	NPP	NPP		
+18	,	,	PONCT	PONCT		
+19	José	José	NPP	NPP	n=s|g=m	
+20	Saramago	_	NPP	NPP		
+21	(	(	PONCT	PONCT		
+22	Prix	prix	NC	NC	g=m	
+23	Nobel	_	NPP	NPP		
+24	de	de	P	P		
+25	littérature	littérature	NC	NC	n=s|g=f	
+26	en	en	P	P		
+27	1998	1998	NC	NC		
+28	)	)	PONCT	PONCT		
+29	,	,	PONCT	PONCT		
+30	Ruben	Ruben	NPP	NPP	n=s|g=m	
+31	A	_	NPP	NPP		
+32	.	.	PONCT	PONCT		
+33	et	et	CC	CC		
+34	bien	bien	ADV	ADV		
+35	d'	de	DET	DET	n=p	
+36	autres	autre	ADJ	ADJ	n=p	
+37	encore	encore	ADV	ADV		
+38	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	Portugal	Portugal	NPP	NPP	n=s|g=m	
+3	possède	posséder	V	V	n=s|t=P,S|p=1,3	
+4	des	des	DET	DET	n=p	
+5	musiques	musique	NC	NC	n=p|g=f	
+6	que	que	PROREL	PROREL		
+7	l'	le	DET	DET	n=s	
+8	on	on	CLS	CLS	n=s|p=3	
+9	ne	ne	ADV	ADV		
+10	trouve	trouver	V	V	n=s|t=P,S|p=1,3	
+11	nulle	nul	ADJ	ADJ	n=s|g=f	
+12	part	part	NC	NC	n=s	
+13	ailleurs	ailleurs	ADV	ADV		
+14	,	,	PONCT	PONCT		
+15	comme	comme	P	P		
+16	le	le	DET	DET	n=s|g=m	
+17	fado	fado	NC	NC	n=s|g=m	
+18	et	et	CC	CC		
+19	d'	de	DET	DET	n=p	
+20	autres	autre	ADJ	ADJ	n=p	
+21	musiques	musique	NC	NC	n=p|g=f	
+22	du	de	P+D	P+D	n=s|g=m	
+23	folklore	folklore	NC	NC	n=s|g=m	
+24	portugais	portugais	ADJ	ADJ	g=m	
+25	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	fado	fado	NC	NC	n=s|g=m	
+3	est	être	V	V	n=s|t=P|p=3	
+4	une	une	DET	DET	n=s|g=f	
+5	musique	musique	NC	NC	n=s|g=f	
+6	nostalgique	nostalgique	ADJ	ADJ	n=s	
+7	dont	dont	PROREL	PROREL		
+8	la	la	DET	DET	n=s|g=f	
+9	"	"	PONCT	PONCT		
+10	reine	reine	NC	NC	n=s|g=f	
+11	"	"	PONCT	PONCT		
+12	était	être	V	V	n=s|t=I|p=3	
+13	Amália	Amália	NPP	NPP	n=s|g=f	
+14	Rodrigues	_	NPP	NPP		
+15	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	musique	musique	NC	NC	n=s|g=f	
+3	folklorique	folklorique	ADJ	ADJ	n=s	
+4	se	se	CLR	CLR	n=p,s|p=3	
+5	joue	jouer	V	V	n=s|t=P,S|p=1,3	
+6	avec	avec	P	P		
+7	divers	divers	DET	DET	n=p|g=m	
+8	instruments	instrument	NC	NC	n=p|g=m	
+9	comme	comme	P	P		
+10	l'	le	DET	DET	n=s	
+11	accordéon	accordéon	NC	NC	n=s|g=m	
+12	,	,	PONCT	PONCT		
+13	les	les	DET	DET	n=p	
+14	castagnettes	castagnette	NC	NC	n=p|g=f	
+15	,	,	PONCT	PONCT		
+16	les	les	DET	DET	n=p	
+17	mains	main	NC	NC	n=p|g=f	
+18	,	,	PONCT	PONCT		
+19	les	les	DET	DET	n=p	
+20	pieds	pied	NC	NC	n=p	
+21	,	,	PONCT	PONCT		
+22	la	la	DET	DET	n=s|g=f	
+23	voix	voix	NC	NC	g=f	
+24	,	,	PONCT	PONCT		
+25	etc	_	ADV	ADV		
+26	.	.	PONCT	PONCT		
+27	,	,	PONCT	PONCT		
+28	et	et	CC	CC		
+29	s'	se	CLR	CLR	n=p,s|p=3	
+30	accompagne	accompagner	V	V	n=s|t=P,S|p=1,3	
+31	de	de	P	P		
+32	danses	danse	NC	NC	n=p|g=f	
+33	et	et	CC	CC		
+34	de	de	P	P		
+35	costumes	costume	NC	NC	n=p|g=m	
+36	.	.	PONCT	PONCT		
+
+1	Durant	durant	P	P		
+2	l'	le	DET	DET	n=s	
+3	immigration	immigration	NC	NC	n=s|g=f	
+4	,	,	PONCT	PONCT		
+5	Linda	Linda	NPP	NPP	n=s|g=f	
+6	de	de	P	P		
+7	Suza	_	NPP	NPP		
+8	(	(	PONCT	PONCT		
+9	de	de	P	P		
+10	vrai	vrai	ADJ	ADJ	n=s|g=m	
+11	nom	nom	NC	NC	n=s|g=m	
+12	Teolinda	_	NPP	NPP		
+13	Lança	_	NPP	NPP		
+14	)	)	PONCT	PONCT		
+15	quitte	quitter	V	V	n=s|t=P,S|p=1,3	
+16	le	le	DET	DET	n=s|g=m	
+17	Portugal	Portugal	NPP	NPP	n=s|g=m	
+18	pour	pour	P	P		
+19	venir	venir	VINF	VINF	t=W	
+20	s'	se	CLR	CLR	n=p,s|p=3	
+21	installer	installer	VINF	VINF	t=W	
+22	en	en	P	P		
+23	France	France	NPP	NPP	n=s|g=f,m	
+24	avec	avec	P	P		
+25	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+26	bébé	bébé	NC	NC	n=s|g=m	
+27	;	;	PONCT	PONCT		
+28	elle	elle	CLS	CLS	n=s|g=f|p=3	
+29	fut	être	V	V	n=s|t=J|p=3	
+30	une	une	DET	DET	n=s|g=f	
+31	grande	grand	ADJ	ADJ	n=s|g=f	
+32	chanteuse	chanteur	NC	NC	n=s|g=f	
+33	franco	_	ADJ	ADJ		
+34	-	-	PONCT	PONCT		
+35	portugaise	portugais	ADJ	ADJ	n=s|g=f	
+36	dans	dans	P	P		
+37	les	les	DET	DET	n=p	
+38	années	année	NC	NC	n=p|g=f	
+39	1980	1980	NC	NC		
+40	à	à	P	P		
+41	1990	1990	NC	NC		
+42	,	,	PONCT	PONCT		
+43	elle	elle	CLS	CLS	n=s|g=f|p=3	
+44	chanta	chanter	V	V	n=s|t=J|p=3	
+45	Le	_	NPP	NPP		
+46	Portugais	_	NPP	NPP		
+47	,	,	PONCT	PONCT		
+48	qui	qui	PROREL	PROREL	n=s	
+49	fut	être	V	V	n=s|t=J|p=3	
+50	un	un	DET	DET	n=s|g=m	
+51	grand	grand	ADJ	ADJ	n=s|g=m	
+52	succès	succès	NC	NC	g=m	
+53	auprès	auprès	ADV	ADV		
+54	de	de	P	P		
+55	toute	tout	ADJ	ADJ	n=s|g=f	
+56	la	la	DET	DET	n=s|g=f	
+57	communauté	communauté	NC	NC	n=s|g=f	
+58	portugaise	portugais	ADJ	ADJ	n=s|g=f	
+59	en	en	P	P		
+60	France	France	NPP	NPP	n=s|g=f,m	
+61	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	rock	rock	NC	NC	n=s|g=m	
+3	est	être	V	V	n=s|t=P|p=3	
+4	de	de	P	P		
+5	plus	plus	ADV	ADV		
+6	en	en	P	P		
+7	plus	plus	ADV	ADV		
+8	écouté	écouter	VPP	VPP	n=s|g=m|t=K	
+9	au	à	P+D	P+D	n=s|g=m	
+10	Portugal	Portugal	NPP	NPP	n=s|g=m	
+11	.	.	PONCT	PONCT		
+
+1	Tony	Tony	NPP	NPP	n=s|g=m	
+2	Carreira	_	NPP	NPP		
+3	est	être	V	V	n=s|t=P|p=3	
+4	aussi	aussi	ADV	ADV		
+5	un	un	DET	DET	n=s|g=m	
+6	grand	grand	ADJ	ADJ	n=s|g=m	
+7	chanteur	chanteur	NC	NC	n=s|g=m	
+8	en	en	P	P		
+9	France	France	NPP	NPP	n=s|g=f,m	
+10	,	,	PONCT	PONCT		
+11	il	il	CLS	CLS	n=s|g=m|p=3	
+12	a	avoir	V	V	n=s|t=P|p=3	
+13	déjà	déjà	ADV	ADV		
+14	vécu	vivre	VPP	VPP	n=s|g=m|t=K	
+15	en	en	P	P		
+16	France	France	NPP	NPP	n=s|g=f,m	
+17	,	,	PONCT	PONCT		
+18	mais	mais	CC	CC		
+19	il	il	CLS	CLS	n=s|g=m|p=3	
+20	est	être	V	V	n=s|t=P|p=3	
+21	retourné	retourner	VPP	VPP	n=s|g=m|t=K	
+22	au	à	P+D	P+D	n=s|g=m	
+23	Portugal	Portugal	NPP	NPP	n=s|g=m	
+24	.	.	PONCT	PONCT		
+
+1	Linda	Linda	NPP	NPP	n=s|g=f	
+2	de	de	P	P		
+3	Suza	_	NPP	NPP		
+4	(	(	PONCT	PONCT		
+5	1984	1984	NC	NC		
+6	)	)	PONCT	PONCT		
+7	10	10	NC	NC		
+8	,	,	PONCT	PONCT		
+9	Amália	Amália	NPP	NPP	n=s|g=f	
+10	Rodrigues	_	NPP	NPP		
+11	et	et	CC	CC		
+12	Tony	Tony	NPP	NPP	n=s|g=m	
+13	Carreira	_	NPP	NPP		
+14	(	(	PONCT	PONCT		
+15	2000	2000	NC	NC		
+16	)	)	PONCT	PONCT		
+17	11	11	NC	NC		
+18	ont	avoir	V	V	n=p|t=P|p=3	
+19	déjà	déjà	ADV	ADV		
+20	chanté	chanter	VPP	VPP	n=s|g=m|t=K	
+21	à	à	P	P		
+22	l'	le	DET	DET	n=s	
+23	Olympia	Olympia	NPP	NPP	n=s|g=f,m	
+24	(	(	PONCT	PONCT		
+25	Paris	_	NPP	NPP		
+26	)	)	PONCT	PONCT		
+27	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	cuisine	cuisine	NC	NC	n=s|g=f	
+3	portugaise	portugais	ADJ	ADJ	n=s|g=f	
+4	est	être	V	V	n=s|t=P|p=3	
+5	très	très	ADV	ADV		
+6	riche	riche	ADJ	ADJ	n=s	
+7	et	et	CC	CC		
+8	très	très	ADV	ADV		
+9	variée	varier	ADJ	ADJ	n=s|g=f|t=K	
+10	,	,	PONCT	PONCT		
+11	chaque	chaque	DET	DET	n=s	
+12	région	région	NC	NC	n=s|g=f	
+13	ayant	avoir	VPR	VPR	t=G	
+14	ses	ses	DET	DET	n=p|p=3|poss=s	
+15	spécialités	spécialité	NC	NC	n=p|g=f	
+16	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	gastronomie	gastronomie	NC	NC	n=s|g=f	
+3	portugaise	portugais	ADJ	ADJ	n=s|g=f	
+4	est	être	V	V	n=s|t=P|p=3	
+5	en	en	P	P		
+6	grande	grand	ADJ	ADJ	n=s|g=f	
+7	partie	partie	NC	NC	n=s|g=f	
+8	faite	faire	VPP	VPP	n=s|g=f|t=K	
+9	de	de	P	P		
+10	produits	produit	NC	NC	n=p|g=m	
+11	de	de	P	P		
+12	la	la	DET	DET	n=s|g=f	
+13	mer	mer	NC	NC	n=s|g=f	
+14	(	(	PONCT	PONCT		
+15	poissons	poisson	NC	NC	n=p|g=m	
+16	,	,	PONCT	PONCT		
+17	crabes	crabe	NC	NC	n=p|g=m	
+18	,	,	PONCT	PONCT		
+19	…	…	PONCT	PONCT		
+20	)	)	PONCT	PONCT		
+21	;	;	PONCT	PONCT		
+22	la	la	DET	DET	n=s|g=f	
+23	viande	viande	NC	NC	n=s|g=f	
+24	y	y	CLO	CLO		
+25	est	être	V	V	n=s|t=P|p=3	
+26	largement	_	ADV	ADV		
+27	appréciée	apprécier	VPP	VPP	n=s|g=f|t=K	
+28	aussi	aussi	ADV	ADV		
+29	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	y	y	CLO	CLO		
+3	a	avoir	V	V	n=s|t=P|p=3	
+4	aussi	aussi	ADV	ADV		
+5	de	de	DET	DET	n=p	
+6	nombreux	nombreux	ADJ	ADJ	g=m	
+7	fromages	fromage	NC	NC	n=p|g=m	
+8	comme	comme	P	P		
+9	le	le	DET	DET	n=s|g=m	
+10	Queijo	_	NPP	NPP		
+11	da	_	NPP	NPP		
+12	Serra	_	NPP	NPP		
+13	qui	qui	PROREL	PROREL	n=s	
+14	vient	venir	V	V	n=s|t=P|p=3	
+15	de	de	P	P		
+16	la	la	DET	DET	n=s|g=f	
+17	Serra	_	ET	ET		
+18	da	_	ET	ET		
+19	Estrela	_	ET	ET		
+20	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	ail	ail	NC	NC	n=s|g=m	
+3	,	,	PONCT	PONCT		
+4	l'	le	DET	DET	n=s	
+5	huile	huile	NC	NC	n=s|g=f	
+6	d'	de	P	P		
+7	olive	olive	NC	NC	n=s|g=f	
+8	et	et	CC	CC		
+9	le	le	DET	DET	n=s|g=m	
+10	vinaigre	vinaigre	NC	NC	n=s|g=m	
+11	sont	être	V	V	n=p|t=P|p=3	
+12	des	des	DET	DET	n=p	
+13	ingrédients	ingrédient	NC	NC	n=p|g=m	
+14	très	très	ADV	ADV		
+15	souvent	souvent	ADV	ADV		
+16	utilisés	utiliser	VPP	VPP	n=p|g=m|t=K	
+17	dans	dans	P	P		
+18	la	la	DET	DET	n=s|g=f	
+19	conception	conception	NC	NC	n=s|g=f	
+20	des	de	P+D	P+D	n=p	
+21	plats	plat	NC	NC	n=p|g=m	
+22	de	de	P	P		
+23	viandes	viande	NC	NC	n=p|g=f	
+24	et	et	CC	CC		
+25	de	de	P	P		
+26	poissons	poisson	NC	NC	n=p|g=m	
+27	.	.	PONCT	PONCT		
+
+1	Vasco	Vasco	NPP	NPP	n=s|g=m	
+2	de	de	P	P		
+3	Gama	_	NPP	NPP		
+4	et	et	CC	CC		
+5	les	les	DET	DET	n=p	
+6	autres	autre	ADJ	ADJ	n=p	
+7	explorateurs	explorateur	NC	NC	n=p|g=m	
+8	,	,	PONCT	PONCT		
+9	qui	qui	PROREL	PROREL	n=s	
+10	ont	avoir	V	V	n=p|t=P|p=3	
+11	ramené	ramener	VPP	VPP	n=s|g=m|t=K	
+12	des	de	P+D	P+D	n=p	
+13	épices	épice	NC	NC	n=p|g=f	
+14	et	et	CC	CC		
+15	de	de	DET	DET	n=p	
+16	nouveaux	nouveau	ADJ	ADJ	n=p|g=m	
+17	produits	produit	NC	NC	n=p|g=m	
+18	(	(	PONCT	PONCT		
+19	fruits	fruit	NC	NC	n=p|g=m	
+20	,	,	PONCT	PONCT		
+21	légumes	légume	NC	NC	n=p	
+22	,	,	PONCT	PONCT		
+23	tabac	tabac	NC	NC	n=s|g=m	
+24	,	,	PONCT	PONCT		
+25	etc	_	ADV	ADV		
+26	.	.	PONCT	PONCT		
+27	)	)	PONCT	PONCT		
+28	,	,	PONCT	PONCT		
+29	ont	avoir	V	V	n=p|t=P|p=3	
+30	révolutionné	révolutionner	VPP	VPP	n=s|g=m|t=K	
+31	les	les	DET	DET	n=p	
+32	spécialités	spécialité	NC	NC	n=p|g=f	
+33	culinaires	culinaire	ADJ	ADJ	n=p	
+34	du	de	P+D	P+D	n=s|g=m	
+35	monde	monde	NC	NC	n=s|g=m	
+36	occidental	occidental	ADJ	ADJ	n=s|g=m	
+37	,	,	PONCT	PONCT		
+38	donc	donc	ADV	ADV		
+39	du	de	P+D	P+D	n=s|g=m	
+40	Portugal	Portugal	NPP	NPP	n=s|g=m	
+41	.	.	PONCT	PONCT		
+
+1	Parmi	parmi	P	P		
+2	les	les	DET	DET	n=p	
+3	spécialités	spécialité	NC	NC	n=p|g=f	
+4	portugaises	portugais	ADJ	ADJ	n=p|g=f	
+5	de	de	P	P		
+6	poissons	poisson	NC	NC	n=p|g=m	
+7	figurent	figurer	V	V	n=p|t=P,S|p=3	
+8	les	les	DET	DET	n=p	
+9	crevettes	crevette	NC	NC	n=p|g=f	
+10	et	et	CC	CC		
+11	la	la	DET	DET	n=s|g=f	
+12	morue	morue	NC	NC	n=s|g=f	
+13	.	.	PONCT	PONCT		
+
+1	On	on	CLS	CLS	n=s|p=3	
+2	y	y	CLO	CLO		
+3	trouve	trouver	V	V	n=s|t=P,S|p=1,3	
+4	par	par	P	P		
+5	exemple	exemple	NC	NC	n=s|g=m	
+6	de	de	P	P		
+7	la	la	DET	DET	n=s|g=f	
+8	morue	morue	NC	NC	n=s|g=f	
+9	diversement	_	ADV	ADV		
+10	accommodée	accommoder	VPP	VPP	n=s|g=f|t=K	
+11	,	,	PONCT	PONCT		
+12	de	de	P	P		
+13	la	la	DET	DET	n=s|g=f	
+14	pieuvre	pieuvre	NC	NC	n=s|g=f	
+15	,	,	PONCT	PONCT		
+16	de	de	P	P		
+17	la	la	DET	DET	n=s|g=f	
+18	caldeirada	_	NPP	NPP		
+19	et	et	CC	CC		
+20	des	de	P+D	P+D	n=p	
+21	echinoideas	_	NC	NC		
+22	.	.	PONCT	PONCT		
+
+1	Beaucoup	beaucoup	ADV	ADV		
+2	de	de	P	P		
+3	plats	plat	NC	NC	n=p|g=m	
+4	sont	être	V	V	n=p|t=P|p=3	
+5	préparés	préparer	VPP	VPP	n=p|g=m|t=K	
+6	avec	avec	P	P		
+7	de	de	P	P		
+8	la	la	DET	DET	n=s|g=f	
+9	viande	viande	NC	NC	n=s|g=f	
+10	comme	comme	P	P		
+11	la	la	DET	DET	n=s|g=f	
+12	feijoada	_	NPP	NPP		
+13	à	à	P	P		
+14	Transmontana	_	NPP	NPP		
+15	,	,	PONCT	PONCT		
+16	la	la	DET	DET	n=s|g=f	
+17	carne	carne	NC	NC	n=s|g=f	
+18	de	de	P	P		
+19	porco	_	NC	NC		
+20	à	à	P	P		
+21	Alentejana	_	NPP	NPP		
+22	,	,	PONCT	PONCT		
+23	le	le	DET	DET	n=s|g=m	
+24	poulet	poulet	NC	NC	n=s|g=m	
+25	grillé	griller	ADJ	ADJ	n=s|g=m|t=K	
+26	et	et	CC	CC		
+27	le	le	DET	DET	n=s|g=m	
+28	cochon	cochon	NC	NC	n=s|g=m	
+29	de	de	P	P		
+30	lait	lait	NC	NC	n=s|g=m	
+31	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	soupes	soupe	NC	NC	n=p|g=f	
+3	sont	être	V	V	n=p|t=P|p=3	
+4	très	très	ADV	ADV		
+5	présentes	présent	ADJ	ADJ	n=p|g=f	
+6	au	à	P+D	P+D	n=s|g=m	
+7	Portugal	Portugal	NPP	NPP	n=s|g=m	
+8	,	,	PONCT	PONCT		
+9	avec	avec	P	P		
+10	beaucoup	beaucoup	ADV	ADV		
+11	de	de	P	P		
+12	recettes	recette	NC	NC	n=p|g=f	
+13	différentes	différent	ADJ	ADJ	n=p|g=f	
+14	.	.	PONCT	PONCT		
+
+1	Parmi	parmi	P	P		
+2	elles	elles	PRO	PRO	n=p|g=f|p=3	
+3	,	,	PONCT	PONCT		
+4	il	il	CLS	CLS	n=s|g=m|p=3	
+5	y	y	CLO	CLO		
+6	a	avoir	V	V	n=s|t=P|p=3	
+7	le	le	DET	DET	n=s|g=m	
+8	gaspacho	gaspacho	NC	NC	n=s|g=m	
+9	,	,	PONCT	PONCT		
+10	la	la	DET	DET	n=s|g=f	
+11	sopa	_	NC	NC		
+12	da	_	NPP	NPP		
+13	pedra	_	NPP	NPP		
+14	,	,	PONCT	PONCT		
+15	le	le	DET	DET	n=s|g=m	
+16	traditionnel	traditionnel	ADJ	ADJ	n=s|g=m	
+17	caldo	_	NC	NC		
+18	verde	_	ADJ	ADJ		
+19	,	,	PONCT	PONCT		
+20	les	les	DET	DET	n=p	
+21	papas	papa	NC	NC	n=p|g=m	
+22	de	de	P	P		
+23	sarrabulho	_	NPP	NPP		
+24	ou	ou	CC	CC		
+25	encore	encore	ADV	ADV		
+26	la	la	DET	DET	n=s|g=f	
+27	canja	_	NC	NC		
+28	de	de	P	P		
+29	galinha	_	NC	NC		
+30	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	gâteaux	gâteau	NC	NC	n=p|g=m	
+3	et	et	CC	CC		
+4	les	les	DET	DET	n=p	
+5	pâtisseries	pâtisserie	NC	NC	n=p|g=f	
+6	sont	être	V	V	n=p|t=P|p=3	
+7	nombreux	nombreux	ADJ	ADJ	g=m	
+8	et	et	CC	CC		
+9	chaque	chaque	DET	DET	n=s	
+10	région	région	NC	NC	n=s|g=f	
+11	possède	posséder	V	V	n=s|t=P,S|p=1,3	
+12	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+13	pâtisserie	pâtisserie	NC	NC	n=s|g=f	
+14	.	.	PONCT	PONCT		
+
+1	En	en	CLO	CLO		
+2	voici	voici	V	V		
+3	quelques	quelques	DET	DET	n=p	
+4	-	-	PONCT	PONCT		
+5	unes	_	ADJ	ADJ		
+6	:	:	PONCT	PONCT		
+7	le	le	DET	DET	n=s|g=m	
+8	gâteau	gâteau	NC	NC	n=s|g=m	
+9	de	de	P	P		
+10	miel	miel	NC	NC	n=s|g=m	
+11	,	,	PONCT	PONCT		
+12	la	la	DET	DET	n=s|g=f	
+13	torta	_	NC	NC		
+14	de	de	P	P		
+15	laranja	_	NPP	NPP		
+16	(	(	PONCT	PONCT		
+17	tarte	tarte	NC	NC	n=s|g=f	
+18	à	à	P	P		
+19	l'	le	DET	DET	n=s	
+20	orange	orange	NC	NC	n=s	
+21	)	)	PONCT	PONCT		
+22	,	,	PONCT	PONCT		
+23	la	la	DET	DET	n=s|g=f	
+24	tarte	tarte	NC	NC	n=s|g=f	
+25	aux	à	P+D	P+D	n=p	
+26	amandes	amande	NC	NC	n=p|g=f	
+27	,	,	PONCT	PONCT		
+28	le	le	DET	DET	n=s|g=m	
+29	bolo	_	NC	NC		
+30	rei	_	NPP	NPP		
+31	,	,	PONCT	PONCT		
+32	le	le	DET	DET	n=s|g=m	
+33	riz	riz	NC	NC	g=m	
+34	au	à	P+D	P+D	n=s|g=m	
+35	lait	lait	NC	NC	n=s|g=m	
+36	,	,	PONCT	PONCT		
+37	les	les	DET	DET	n=p	
+38	pasteis	_	NC	NC		
+39	de	de	P	P		
+40	nata	_	NPP	NPP		
+41	,	,	PONCT	PONCT		
+42	les	les	DET	DET	n=p	
+43	pasteis	_	NC	NC		
+44	de	de	P	P		
+45	feijão	_	NPP	NPP		
+46	ou	ou	CC	CC		
+47	encore	encore	ADV	ADV		
+48	le	le	DET	DET	n=s|g=m	
+49	pudim	_	NC	NC		
+50	caseiro	_	NPP	NPP		
+51	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	Portugal	Portugal	NPP	NPP	n=s|g=m	
+3	est	être	V	V	n=s|t=P|p=3	
+4	un	un	DET	DET	n=s|g=m	
+5	pays	pays	NC	NC	g=m	
+6	touristique	touristique	ADJ	ADJ	n=s	
+7	:	:	PONCT	PONCT		
+8	chaque	chaque	DET	DET	n=s	
+9	année	année	NC	NC	n=s|g=f	
+10	,	,	PONCT	PONCT		
+11	il	il	CLS	CLS	n=s|g=m|p=3	
+12	accueille	accueillir	V	V	n=s|t=P,S|p=1,3	
+13	environ	environ	ADV	ADV		
+14	12	12	ADJ	ADJ		
+15	millions	million	NC	NC	n=p	
+16	de	de	P	P		
+17	touristes	touriste	NC	NC	n=p	
+18	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	Espagne	Espagne	NPP	NPP	n=s|g=f	
+3	,	,	PONCT	PONCT		
+4	qui	qui	PROREL	PROREL	n=s	
+5	représente	représenter	V	V	n=s|t=P,S|p=1,3	
+6	49	49	VPP	VPP		
+7	%	%	NC	NC	g=m	
+8	des	de	P+D	P+D	n=p	
+9	touristes	touriste	NC	NC	n=p	
+10	qui	qui	PROREL	PROREL	n=s	
+11	visitent	visiter	V	V	n=p|t=P,S|p=3	
+12	le	le	DET	DET	n=s|g=m	
+13	Portugal	Portugal	NPP	NPP	n=s|g=m	
+14	,	,	PONCT	PONCT		
+15	en	en	CLO	CLO		
+16	est	être	V	V	n=s|t=P|p=3	
+17	la	la	DET	DET	n=s|g=f	
+18	principale	principal	ADJ	ADJ	n=s|g=f	
+19	source	source	NC	NC	n=s|g=f	
+20	,	,	PONCT	PONCT		
+21	suivie	suivre	VPP	VPP	n=s|g=f|t=K	
+22	du	de	P+D	P+D	n=s|g=m	
+23	Royaume	_	NPP	NPP		
+24	-	-	PONCT	PONCT		
+25	Uni	unir	VPP	VPP	n=s|g=m|t=K	
+26	(	(	PONCT	PONCT		
+27	14	14	ADJ	ADJ		
+28	%	%	NC	NC	g=m	
+29	)	)	PONCT	PONCT		
+30	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	pays	pays	NC	NC	g=m	
+3	possède	posséder	V	V	n=s|t=P,S|p=1,3	
+4	des	des	DET	DET	n=p	
+5	plages	plage	NC	NC	n=p|g=f	
+6	sur	sur	P	P		
+7	l'	le	DET	DET	n=s	
+8	océan	océan	NC	NC	n=s|g=m	
+9	Atlantique	_	NPP	NPP		
+10	,	,	PONCT	PONCT		
+11	mais	mais	CC	CC		
+12	aussi	aussi	ADV	ADV		
+13	deux	deux	DET	DET	s=card|n=p	
+14	grandes	grand	ADJ	ADJ	n=p|g=f	
+15	villes	ville	NC	NC	n=p|g=f	
+16	touristiques	touristique	ADJ	ADJ	n=p	
+17	:	:	PONCT	PONCT		
+18	Lisbonne	Lisbonne	NPP	NPP	n=s|g=m	
+19	et	et	CC	CC		
+20	Porto	Porto	NPP	NPP	n=s|g=m	
+21	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	régions	région	NC	NC	n=p|g=f	
+3	les	les	DET	DET	n=p	
+4	plus	plus	ADV	ADV		
+5	visitées	visiter	ADJ	ADJ	n=p|g=f|t=K	
+6	sont	être	V	V	n=p|t=P|p=3	
+7	Lisbonne	Lisbonne	NPP	NPP	n=s|g=m	
+8	,	,	PONCT	PONCT		
+9	l'	le	DET	DET	n=s	
+10	Algarve	_	NPP	NPP		
+11	,	,	PONCT	PONCT		
+12	Porto	Porto	NPP	NPP	n=s|g=m	
+13	,	,	PONCT	PONCT		
+14	Madère	_	NPP	NPP		
+15	et	et	CC	CC		
+16	les	les	DET	DET	n=p	
+17	Açores	_	NC	NC		
+18	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	y	y	CLO	CLO		
+3	a	avoir	V	V	n=s|t=P|p=3	
+4	d'	de	DET	DET	n=p	
+5	autres	autre	ADJ	ADJ	n=p	
+6	régions	région	NC	NC	n=p|g=f	
+7	visitées	visiter	ADJ	ADJ	n=p|g=f|t=K	
+8	,	,	PONCT	PONCT		
+9	comme	comme	P	P		
+10	la	la	DET	DET	n=s|g=f	
+11	Serra	_	ET	ET		
+12	da	_	ET	ET		
+13	Estrela	_	ET	ET		
+14	,	,	PONCT	PONCT		
+15	Coimbra	_	NPP	NPP		
+16	et	et	CC	CC		
+17	la	la	DET	DET	n=s|g=f	
+18	vallée	vallée	NC	NC	n=s|g=f	
+19	du	de	P+D	P+D	n=s|g=m	
+20	Douro	Douro	NPP	NPP	n=s|g=m	
+21	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	climat	climat	NC	NC	n=s|g=m	
+3	et	et	CC	CC		
+4	la	la	DET	DET	n=s|g=f	
+5	température	température	NC	NC	n=s|g=f	
+6	de	de	P	P		
+7	l'	le	DET	DET	n=s	
+8	eau	eau	NC	NC	n=s|g=f	
+9	de	de	P	P		
+10	la	la	DET	DET	n=s|g=f	
+11	mer	mer	NC	NC	n=s|g=f	
+12	sont	être	V	V	n=p|t=P|p=3	
+13	les	les	DET	DET	n=p	
+14	principaux	principal	ADJ	ADJ	n=p|g=m	
+15	facteurs	facteur	NC	NC	n=p|g=m	
+16	qui	qui	PROREL	PROREL	n=s	
+17	contribuent	contribuer	V	V	n=p|t=P,S|p=3	
+18	à	à	P	P		
+19	la	la	DET	DET	n=s|g=f	
+20	grande	grand	ADJ	ADJ	n=s|g=f	
+21	croissance	croissance	NC	NC	n=s|g=f	
+22	du	de	P+D	P+D	n=s|g=m	
+23	tourisme	tourisme	NC	NC	n=s|g=m	
+24	dans	dans	P	P		
+25	la	la	DET	DET	n=s|g=f	
+26	région	région	NC	NC	n=s|g=f	
+27	de	de	P	P		
+28	l'	le	DET	DET	n=s	
+29	Algarve	_	NPP	NPP		
+30	.	.	PONCT	PONCT		
+
+1	Lisbonne	Lisbonne	NPP	NPP	n=s|g=m	
+2	attire	attirer	V	V	n=s|t=P,S|p=1,3	
+3	aussi	aussi	ADV	ADV		
+4	beaucoup	beaucoup	ADV	ADV		
+5	de	de	P	P		
+6	touristes	touriste	NC	NC	n=p	
+7	par	par	P	P		
+8	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+9	histoire	histoire	NC	NC	n=s|g=f	
+10	ou	ou	CC	CC		
+11	ses	ses	DET	DET	n=p|p=3|poss=s	
+12	monuments	monument	NC	NC	n=p|g=m	
+13	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	a	avoir	V	V	n=s|t=P|p=3	
+3	été	être	VPP	VPP	t=K	
+4	capitale	capitale	NC	NC	n=s|g=f	
+5	européenne	européen	ADJ	ADJ	n=s|g=f	
+6	de	de	P	P		
+7	la	la	DET	DET	n=s|g=f	
+8	culture	culture	NC	NC	n=s|g=f	
+9	en	en	P	P		
+10	1994	1994	NC	NC		
+11	,	,	PONCT	PONCT		
+12	a	avoir	V	V	n=s|t=P|p=3	
+13	accueilli	accueillir	VPP	VPP	n=s|g=m|t=K	
+14	l'	le	DET	DET	n=s	
+15	exposition	exposition	NC	NC	n=s|g=f	
+16	internationale	international	ADJ	ADJ	n=s|g=f	
+17	de	de	P	P		
+18	1998	1998	NC	NC		
+19	(	(	PONCT	PONCT		
+20	Expo	exposition	NC	NC	g=f	
+21	'	'	PONCT	PONCT		
+22	98	98	NC	NC		
+23	)	)	PONCT	PONCT		
+24	et	et	CC	CC		
+25	plusieurs	plusieurs	DET	DET	n=p	
+26	jeux	jeu	NC	NC	n=p|g=m	
+27	de	de	P	P		
+28	l'	le	DET	DET	n=s	
+29	Euro	_	NPP	NPP		
+30	2004	2004	NC	NC		
+31	.	.	PONCT	PONCT		
+
+1	Des	des	DET	DET	n=p	
+2	points	point	NC	NC	n=p|g=m	
+3	fortement	_	ADV	ADV		
+4	touristiques	touristique	ADJ	ADJ	n=p	
+5	sont	être	V	V	n=p|t=P|p=3	
+6	le	le	DET	DET	n=s|g=m	
+7	parc	parc	NC	NC	n=s|g=m	
+8	des	de	P+D	P+D	n=p	
+9	nations	nation	NC	NC	n=p|g=f	
+10	,	,	PONCT	PONCT		
+11	le	le	DET	DET	n=s|g=m	
+12	château	château	NC	NC	n=s|g=m	
+13	de	de	P	P		
+14	São	_	NC	NC		
+15	Jorge	Jorge	NPP	NPP	n=s|g=m	
+16	,	,	PONCT	PONCT		
+17	la	la	DET	DET	n=s|g=f	
+18	cathédrale	cathédrale	NC	NC	n=s|g=f	
+19	Sé	_	NPP	NPP		
+20	,	,	PONCT	PONCT		
+21	le	le	DET	DET	n=s|g=m	
+22	monastère	monastère	NC	NC	n=s|g=m	
+23	des	de	P+D	P+D	n=p	
+24	Hiéronymites	_	NPP	NPP		
+25	et	et	CC	CC		
+26	la	la	DET	DET	n=s|g=f	
+27	tour	tour	NC	NC	n=s	
+28	de	de	P	P		
+29	Belém	_	NPP	NPP		
+30	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	ville	ville	NC	NC	n=s|g=f	
+3	mariale	_	ADJ	ADJ		
+4	de	de	P	P		
+5	Fátima	_	NPP	NPP		
+6	est	être	V	V	n=s|t=P|p=3	
+7	aussi	aussi	ADV	ADV		
+8	très	très	ADV	ADV		
+9	fréquentée	fréquenter	VPP	VPP	n=s|g=f|t=K	
+10	en	en	P	P		
+11	raison	raison	NC	NC	n=s|g=f	
+12	du	de	P+D	P+D	n=s|g=m	
+13	sanctuaire	sanctuaire	NC	NC	n=s|g=m	
+14	présent	présent	ADJ	ADJ	n=s|g=m	
+15	dans	dans	P	P		
+16	la	la	DET	DET	n=s|g=f	
+17	ville	ville	NC	NC	n=s|g=f	
+18	,	,	PONCT	PONCT		
+19	le	le	DET	DET	n=s|g=m	
+20	sanctuaire	sanctuaire	NC	NC	n=s|g=m	
+21	de	de	P	P		
+22	Notre	_	NPP	NPP		
+23	-	-	PONCT	PONCT		
+24	Dame	dame	NC	NC	n=s|g=f	
+25	de	de	P	P		
+26	Fátima	_	NPP	NPP		
+27	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	Portugal	Portugal	NPP	NPP	n=s|g=m	
+3	possède	posséder	V	V	n=s|t=P,S|p=1,3	
+4	une	une	DET	DET	n=s|g=f	
+5	certaine	certain	ADJ	ADJ	n=s|g=f	
+6	notoriété	notoriété	NC	NC	n=s|g=f	
+7	chez	chez	P	P		
+8	certains	certain	DET	DET	n=p|g=m	
+9	sports	sport	NC	NC	n=p|g=m	
+10	,	,	PONCT	PONCT		
+11	comme	comme	P	P		
+12	au	à	P+D	P+D	n=s|g=m	
+13	football	football	NC	NC	n=s|g=m	
+14	où	où	PROREL	PROREL		
+15	Cristiano	Cristiano	NPP	NPP	n=s|g=m	
+16	Ronaldo	Ronaldo	NPP	NPP	n=s|g=m	
+17	est	être	V	V	n=s|t=P|p=3	
+18	le	le	DET	DET	n=s|g=m	
+19	plus	plus	ADV	ADV		
+20	célèbre	célèbre	ADJ	ADJ	n=s	
+21	.	.	PONCT	PONCT		
+
+1	Son	son	DET	DET	n=s|g=m|p=3|poss=s	
+2	équipe	équipe	NC	NC	n=s|g=f	
+3	nationale	national	ADJ	ADJ	n=s|g=f	
+4	(	(	PONCT	PONCT		
+5	la	la	DET	DET	n=s|g=f	
+6	Seleção	_	NPP	NPP		
+7	portuguesa	_	V	V		
+8	de	de	P	P		
+9	futebol	_	NPP	NPP		
+10	)	)	PONCT	PONCT		
+11	ne	ne	ADV	ADV		
+12	détient	détenir	V	V	n=s|t=P|p=3	
+13	cependant	cependant	ADV	ADV		
+14	aucune	aucune	DET	DET	n=s|g=f	
+15	victoire	victoire	NC	NC	n=s|g=f	
+16	en	en	P	P		
+17	Coupe	coupe	NC	NC	n=s|g=f	
+18	du	de	P+D	P+D	n=s|g=m	
+19	monde	monde	NC	NC	n=s|g=m	
+20	,	,	PONCT	PONCT		
+21	ceci	ceci	PRO	PRO	n=s|g=m	
+22	malgré	malgré	P	P		
+23	la	la	DET	DET	n=s|g=f	
+24	qualité	qualité	NC	NC	n=s|g=f	
+25	des	de	P+D	P+D	n=p	
+26	joueurs	joueur	NC	NC	n=p|g=m	
+27	portugais	portugais	ADJ	ADJ	g=m	
+28	au	à	P+D	P+D	n=s|g=m	
+29	fil	fil	NC	NC	n=s|g=m	
+30	des	de	P+D	P+D	n=p	
+31	générations	génération	NC	NC	n=p|g=f	
+32	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	effet	effet	NC	NC	n=s|g=m	
+3	,	,	PONCT	PONCT		
+4	de	de	DET	DET	n=p	
+5	grands	grand	ADJ	ADJ	n=p|g=m	
+6	joueurs	joueur	NC	NC	n=p|g=m	
+7	(	(	PONCT	PONCT		
+8	Eusébio	_	NPP	NPP		
+9	,	,	PONCT	PONCT		
+10	Cristiano	Cristiano	NPP	NPP	n=s|g=m	
+11	Ronaldo	Ronaldo	NPP	NPP	n=s|g=m	
+12	,	,	PONCT	PONCT		
+13	Luís	Luís	NPP	NPP	n=s|g=m	
+14	Figo	_	NPP	NPP		
+15	,	,	PONCT	PONCT		
+16	Deco	_	NPP	NPP		
+17	..	..	PONCT	PONCT		
+18	)	)	PONCT	PONCT		
+19	mènent	mener	V	V	n=p|t=P,S|p=3	
+20	toujours	toujours	ADV	ADV		
+21	leur	leur	DET	DET	n=s|p=3|poss=p	
+22	pays	pays	NC	NC	g=m	
+23	aux	à	P+D	P+D	n=p	
+24	phases	phase	NC	NC	n=p|g=f	
+25	les	les	DET	DET	n=p	
+26	plus	plus	ADV	ADV		
+27	proches	proche	ADJ	ADJ	n=p	
+28	d'	de	P	P		
+29	un	un	DET	DET	n=s|g=m	
+30	titre	titre	NC	NC	n=s|g=m	
+31	mondial	mondial	ADJ	ADJ	n=s|g=m	
+32	ou	ou	CC	CC		
+33	continental	continental	ADJ	ADJ	n=s|g=m	
+34	,	,	PONCT	PONCT		
+35	mais	mais	CC	CC		
+36	perdent	perdre	V	V	n=p|t=P,S|p=3	
+37	toujours	toujours	ADV	ADV		
+38	le	le	DET	DET	n=s|g=m	
+39	match	match	NC	NC	n=s|g=m	
+40	le	le	DET	DET	n=s|g=m	
+41	plus	plus	ADV	ADV		
+42	important	important	ADJ	ADJ	n=s|g=m	
+43	,	,	PONCT	PONCT		
+44	notamment	_	ADV	ADV		
+45	celui	celui	PRO	PRO	n=s|g=m	
+46	contre	contre	P	P		
+47	la	la	DET	DET	n=s|g=f	
+48	Grèce	Grèce	NPP	NPP	n=s|g=f	
+49	en	en	P	P		
+50	finale	final	ADJ	ADJ	n=s|g=f	
+51	de	de	P	P		
+52	l'	le	DET	DET	n=s	
+53	Euro	_	NPP	NPP		
+54	2004	2004	NC	NC		
+55	.	.	PONCT	PONCT		
+
+1	Finalement	_	ADV	ADV		
+2	,	,	PONCT	PONCT		
+3	le	le	DET	DET	n=s|g=m	
+4	Portugal	Portugal	NPP	NPP	n=s|g=m	
+5	remporte	remporter	V	V	n=s|t=P,S|p=1,3	
+6	l'	le	DET	DET	n=s	
+7	Euro	_	NPP	NPP		
+8	2016	2016	NC	NC		
+9	,	,	PONCT	PONCT		
+10	défaisant	défaire	VPR	VPR	t=G	
+11	la	la	DET	DET	n=s|g=f	
+12	France	France	NPP	NPP	n=s|g=f,m	
+13	1	1	ADJ	ADJ		
+14	-0	-0	NC	NC		
+15	sur	sur	P	P		
+16	un	un	DET	DET	n=s|g=m	
+17	but	but	NC	NC	n=s|g=m	
+18	d'	de	P	P		
+19	Éder	_	NPP	NPP		
+20	.	.	PONCT	PONCT		
+
+1	38	38	ADJ	ADJ		
+2	°	°	NC	NC	g=m	
+3	42	42	ADJ	ADJ		
+4	′	′	PONCT	PONCT		
+5	N	_	NPP	NPP		
+6	9	9	ADJ	ADJ		
+7	°	°	NC	NC	g=m	
+8	11	11	ADJ	ADJ		
+9	′	′	PONCT	PONCT		
+10	W	_	NPP	NPP		
+11	/	/	PONCT	PONCT		
+12	38.7	38.7	NPP	NPP		
+13	,	,	PONCT	PONCT		
+14	-9.183	-9.183	NC	NC		
+

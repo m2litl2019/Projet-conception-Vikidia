@@ -1,0 +1,4870 @@
+1	Une	une	DET	DET	n=s|g=f	
+2	comète	comète	NC	NC	n=s|g=f	
+3	(	(	PONCT	PONCT		
+4	stylisé	styliser	VPP	VPP	n=s|g=m|t=K	
+5	en	en	P	P		
+6	symbole	symbole	NC	NC	n=s|g=m	
+7	astronomique	astronomique	ADJ	ADJ	n=s	
+8	)	)	PONCT	PONCT		
+9	est	être	V	V	n=s|t=P|p=3	
+10	,	,	PONCT	PONCT		
+11	en	en	P	P		
+12	astronomie	astronomie	NC	NC	n=s|g=f	
+13	,	,	PONCT	PONCT		
+14	un	un	DET	DET	n=s|g=m	
+15	petit	petit	ADJ	ADJ	n=s|g=m	
+16	corps	corps	NC	NC	g=m	
+17	céleste	céleste	ADJ	ADJ	n=s	
+18	constitué	constituer	VPP	VPP	n=s|g=m|t=K	
+19	d'	de	P	P		
+20	un	un	DET	DET	n=s|g=m	
+21	noyau	noyau	NC	NC	n=s|g=m	
+22	de	de	P	P		
+23	glace	glace	NC	NC	n=s|g=f	
+24	et	et	CC	CC		
+25	de	de	P	P		
+26	poussière	poussière	NC	NC	n=s|g=f	
+27	en	en	P	P		
+28	orbite	orbite	NC	NC	n=s|g=f	
+29	(	(	PONCT	PONCT		
+30	sauf	sauf	P	P		
+31	perturbation	perturbation	NC	NC	n=s|g=f	
+32	)	)	PONCT	PONCT		
+33	autour	autour	NC	NC	n=s|g=m	
+34	d'	de	P	P		
+35	une	une	DET	DET	n=s|g=f	
+36	étoile	étoile	NC	NC	n=s|g=f	
+37	.	.	PONCT	PONCT		
+
+1	Lorsque	lorsque	CS	CS		
+2	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+3	orbite	orbite	NC	NC	n=s|g=f	
+4	,	,	PONCT	PONCT		
+5	qui	qui	PROREL	PROREL	n=s	
+6	a	avoir	V	V	n=s|t=P|p=3	
+7	généralement	_	ADV	ADV		
+8	la	la	DET	DET	n=s|g=f	
+9	forme	forme	NC	NC	n=s|g=f	
+10	d'	de	P	P		
+11	une	une	DET	DET	n=s|g=f	
+12	ellipse	ellipse	NC	NC	n=s|g=f	
+13	très	très	ADV	ADV		
+14	allongée	allonger	VPP	VPP	n=s|g=f|t=K	
+15	,	,	PONCT	PONCT		
+16	l'	le	CLO	CLO	n=s|p=3	
+17	amène	amener	V	V	n=s|t=P,S|p=1,3	
+18	près	près	ADV	ADV		
+19	de	de	P	P		
+20	cette	cette	DET	DET	n=s|g=f	
+21	étoile	étoile	NC	NC	n=s|g=f	
+22	(	(	PONCT	PONCT		
+23	par	par	P	P		
+24	exemple	exemple	NC	NC	n=s|g=m	
+25	le	le	DET	DET	n=s|g=m	
+26	Soleil	_	NPP	NPP		
+27	dans	dans	P	P		
+28	le	le	DET	DET	n=s|g=m	
+29	Système	système	NC	NC	n=s|g=m	
+30	solaire	solaire	ADJ	ADJ	n=s	
+31	)	)	PONCT	PONCT		
+32	,	,	PONCT	PONCT		
+33	la	la	DET	DET	n=s|g=f	
+34	comète	comète	NC	NC	n=s|g=f	
+35	est	être	V	V	n=s|t=P|p=3	
+36	exposée	exposer	VPP	VPP	n=s|g=f|t=K	
+37	à	à	P	P		
+38	diverses	divers	DET	DET	n=p|g=f	
+39	forces	force	NC	NC	n=p|g=f	
+40	émanant	émaner	VPR	VPR	t=G	
+41	de	de	P	P		
+42	cette	cette	DET	DET	n=s|g=f	
+43	dernière	dernier	ADJ	ADJ	n=s|g=f	
+44	:	:	PONCT	PONCT		
+45	vent	vent	NC	NC	n=s|g=m	
+46	stellaire	stellaire	ADJ	ADJ	n=s	
+47	,	,	PONCT	PONCT		
+48	pression	pression	NC	NC	n=s|g=f	
+49	de	de	P	P		
+50	radiation	radiation	NC	NC	n=s|g=f	
+51	et	et	CC	CC		
+52	gravitation	gravitation	NC	NC	n=s|g=f	
+53	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	noyau	noyau	NC	NC	n=s|g=m	
+3	s'	se	CLR	CLR	n=p,s|p=3	
+4	entoure	entourer	V	V	n=s|t=P,S|p=1,3	
+5	alors	alors	ADV	ADV		
+6	d'	de	P	P		
+7	une	une	DET	DET	n=s|g=f	
+8	sorte	sorte	NC	NC	n=s|g=f	
+9	de	de	P	P		
+10	fine	fine	NC	NC	n=s|g=f	
+11	atmosphère	atmosphère	NC	NC	n=s|g=f	
+12	brillante	brillant	ADJ	ADJ	n=s|g=f	
+13	constituée	constituer	VPP	VPP	n=s|g=f|t=K	
+14	de	de	P	P		
+15	gaz	gaz	NC	NC	g=m	
+16	et	et	CC	CC		
+17	de	de	P	P		
+18	poussières	poussière	NC	NC	n=p|g=f	
+19	,	,	PONCT	PONCT		
+20	appelée	appeler	VPP	VPP	n=s|g=f|t=K	
+21	chevelure	chevelure	NC	NC	n=s|g=f	
+22	ou	ou	CC	CC		
+23	coma	coma	NC	NC	n=s|g=m	
+24	,	,	PONCT	PONCT		
+25	souvent	souvent	ADV	ADV		
+26	prolongée	prolonger	VPP	VPP	n=s|g=f|t=K	
+27	de	de	P	P		
+28	deux	deux	DET	DET	s=card|n=p	
+29	traînées	traînée	NC	NC	n=p|g=f	
+30	lumineuses	lumineux	ADJ	ADJ	n=p|g=f	
+31	composées	composer	VPP	VPP	n=p|g=f|t=K	
+32	également	_	ADV	ADV		
+33	de	de	P	P		
+34	gaz	gaz	NC	NC	g=m	
+35	et	et	CC	CC		
+36	de	de	P	P		
+37	poussières	poussière	NC	NC	n=p|g=f	
+38	,	,	PONCT	PONCT		
+39	les	les	DET	DET	n=p	
+40	queues	queue	NC	NC	n=p|g=f	
+41	(	(	PONCT	PONCT		
+42	une	un	PRO	PRO	n=s|g=f	
+43	de	de	P	P		
+44	gaz	gaz	NC	NC	g=m	
+45	ionisé	ioniser	VPP	VPP	n=s|g=m|t=K	
+46	et	et	CC	CC		
+47	une	un	PRO	PRO	n=s|g=f	
+48	de	de	P	P		
+49	poussières	poussière	NC	NC	n=p|g=f	
+50	)	)	PONCT	PONCT		
+51	,	,	PONCT	PONCT		
+52	qui	qui	PROREL	PROREL	n=s	
+53	peuvent	pouvoir	V	V	n=p|t=P|p=3	
+54	s'	se	CLR	CLR	n=p,s|p=3	
+55	étendre	étendre	VINF	VINF	t=W	
+56	sur	sur	P	P		
+57	plusieurs	plusieurs	DET	DET	n=p	
+58	dizaines	dizaine	NC	NC	n=p|g=f	
+59	de	de	P	P		
+60	millions	million	NC	NC	n=p	
+61	de	de	P	P		
+62	kilomètres	kilomètre	NC	NC	n=p|g=m	
+63	.	.	PONCT	PONCT		
+
+1	Dans	dans	P	P		
+2	le	le	DET	DET	n=s|g=m	
+3	Système	système	NC	NC	n=s|g=m	
+4	solaire	solaire	ADJ	ADJ	n=s	
+5	,	,	PONCT	PONCT		
+6	quand	quand	CS	CS		
+7	elles	elles	CLS	CLS	n=p|g=f|p=3	
+8	s'	se	CLR	CLR	n=p,s|p=3	
+9	approchent	approcher	V	V	n=p|t=P,S|p=3	
+10	suffisamment	_	ADV	ADV		
+11	de	de	P	P		
+12	la	la	DET	DET	n=s|g=f	
+13	Terre	_	NPP	NPP		
+14	ou	ou	CC	CC		
+15	que	que	CS	CS		
+16	leur	leur	DET	DET	n=s|p=3|poss=p	
+17	magnitude	magnitude	NC	NC	n=s|g=f	
+18	est	être	V	V	n=s|t=P|p=3	
+19	importante	important	ADJ	ADJ	n=s|g=f	
+20	,	,	PONCT	PONCT		
+21	les	les	DET	DET	n=p	
+22	comètes	comète	NC	NC	n=p|g=f	
+23	deviennent	devenir	V	V	n=p|t=P,S|p=3	
+24	visibles	visible	ADJ	ADJ	n=p	
+25	à	à	P	P		
+26	l'	le	DET	DET	n=s	
+27	œil	_	NC	NC		
+28	nu	nu	ADJ	ADJ	n=s|g=m	
+29	(	(	PONCT	PONCT		
+30	parfois	parfois	ADV	ADV		
+31	même	même	ADV	ADV		
+32	de	de	P	P		
+33	jour	jour	NC	NC	n=s|g=m	
+34	)	)	PONCT	PONCT		
+35	et	et	CC	CC		
+36	peuvent	pouvoir	V	V	n=p|t=P|p=3	
+37	être	être	VINF	VINF	t=W	
+38	spectaculaires	spectaculaire	ADJ	ADJ	n=p	
+39	;	;	PONCT	PONCT		
+40	elles	elles	CLS	CLS	n=p|g=f|p=3	
+41	sont	être	V	V	n=p|t=P|p=3	
+42	alors	alors	ADV	ADV		
+43	classées	classer	VPP	VPP	n=p|g=f|t=K	
+44	comme	comme	P	P		
+45	"	"	PONCT	PONCT		
+46	grandes	grand	ADJ	ADJ	n=p|g=f	
+47	comètes	comète	NC	NC	n=p|g=f	
+48	"	"	PONCT	PONCT		
+49	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	comètes	comète	NC	NC	n=p|g=f	
+3	se	se	CLR	CLR	n=p,s|p=3	
+4	distinguent	distinguer	V	V	n=p|t=P,S|p=3	
+5	des	des	DET	DET	n=p	
+6	astéroïdes	astéroïde	NC	NC	n=p|g=m	
+7	,	,	PONCT	PONCT		
+8	autres	autre	ADJ	ADJ	n=p	
+9	petits	petit	ADJ	ADJ	n=p|g=m	
+10	corps	corps	NC	NC	g=m	
+11	,	,	PONCT	PONCT		
+12	par	par	P	P		
+13	l'	le	DET	DET	n=s	
+14	activité	activité	NC	NC	n=s|g=f	
+15	de	de	P	P		
+16	leur	leur	DET	DET	n=s|p=3|poss=p	
+17	noyau	noyau	NC	NC	n=s|g=m	
+18	.	.	PONCT	PONCT		
+
+1	Cependant	cependant	ADV	ADV		
+2	,	,	PONCT	PONCT		
+3	les	les	DET	DET	n=p	
+4	observations	observation	NC	NC	n=p|g=f	
+5	récentes	récent	ADJ	ADJ	n=p|g=f	
+6	de	de	P	P		
+7	plusieurs	plusieurs	DET	DET	n=p	
+8	astéroïdes	astéroïde	NC	NC	n=p|g=m	
+9	présentant	présenter	VPR	VPR	t=G	
+10	une	une	DET	DET	n=s|g=f	
+11	activité	activité	NC	NC	n=s|g=f	
+12	cométaire	cométaire	ADJ	ADJ	n=s	
+13	,	,	PONCT	PONCT		
+14	notamment	_	ADV	ADV		
+15	dans	dans	P	P		
+16	la	la	DET	DET	n=s|g=f	
+17	ceinture	ceinture	NC	NC	n=s|g=f	
+18	principale	principal	ADJ	ADJ	n=s|g=f	
+19	,	,	PONCT	PONCT		
+20	tendent	tendre	V	V	n=p|t=P,S|p=3	
+21	à	à	P	P		
+22	rendre	rendre	VINF	VINF	t=W	
+23	de	de	DET	DET	n=p	
+24	plus	plus	ADV	ADV		
+25	en	en	P	P		
+26	plus	plus	ADV	ADV		
+27	floue	flouer	V	V	n=s|t=P,S|p=1,3	
+28	la	la	DET	DET	n=s|g=f	
+29	distinction	distinction	NC	NC	n=s|g=f	
+30	entre	entre	P	P		
+31	comète	comète	NC	NC	n=s|g=f	
+32	et	et	CC	CC		
+33	astéroïdes	astéroïde	NC	NC	n=p|g=m	
+34	[	[	PONCT	PONCT		
+35	1	1	NC	NC		
+36	]	]	PONCT	PONCT		
+37	.	.	PONCT	PONCT		
+
+1	Elles	elles	CLS	CLS	n=p|g=f|p=3	
+2	proviendraient	provenir	V	V	n=p|t=C|p=3	
+3	de	de	P	P		
+4	deux	deux	DET	DET	s=card|n=p	
+5	réservoirs	réservoir	NC	NC	n=p|g=m	
+6	principaux	principal	ADJ	ADJ	n=p|g=m	
+7	du	de	P+D	P+D	n=s|g=m	
+8	Système	système	NC	NC	n=s|g=m	
+9	solaire	solaire	ADJ	ADJ	n=s	
+10	:	:	PONCT	PONCT		
+11	ceinture	ceinture	NC	NC	n=s|g=f	
+12	de	de	P	P		
+13	Kuiper	_	NPP	NPP		
+14	et	et	CC	CC		
+15	nuage	nuage	NC	NC	n=s|g=m	
+16	d'	de	P	P		
+17	Oort	_	NPP	NPP		
+18	,	,	PONCT	PONCT		
+19	tandis	tandis	P	P		
+20	que	que	CS	CS		
+21	les	les	DET	DET	n=p	
+22	comètes	comète	NC	NC	n=p|g=f	
+23	interstellaires	interstellaire	ADJ	ADJ	n=p	
+24	,	,	PONCT	PONCT		
+25	ont	avoir	V	V	n=p|t=P|p=3	
+26	une	une	DET	DET	n=s|g=f	
+27	origine	origine	NC	NC	n=s|g=f	
+28	extérieure	extérieur	ADJ	ADJ	n=s|g=f	
+29	au	à	P+D	P+D	n=s|g=m	
+30	Système	système	NC	NC	n=s|g=m	
+31	solaire	solaire	ADJ	ADJ	n=s	
+32	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	mot	mot	NC	NC	n=s|g=m	
+3	"	"	PONCT	PONCT		
+4	comète	comète	NC	NC	n=s|g=f	
+5	"	"	PONCT	PONCT		
+6	vient	venir	V	V	n=s|t=P|p=3	
+7	du	de	P+D	P+D	n=s|g=m	
+8	grec	grec	NC	NC	n=s|g=m	
+9	ancien	ancien	ADJ	ADJ	n=s|g=m	
+10	ὀ	_	NC	NC		
+11	κομήτης	_	ADV	ADV		
+12	,	,	PONCT	PONCT		
+13	ο	_	NPP	NPP		
+14	komêtês	_	NPP	NPP		
+15	,	,	PONCT	PONCT		
+16	qui	qui	PROREL	PROREL	n=s	
+17	signifie	signifier	V	V	n=s|t=P,S|p=1,3	
+18	"	"	PONCT	PONCT		
+19	astre	astre	NC	NC	n=s|g=m	
+20	chevelu	chevelu	ADJ	ADJ	n=s|g=m	
+21	"	"	PONCT	PONCT		
+22	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	est	être	V	V	n=s|t=P|p=3	
+3	employé	employer	VPP	VPP	n=s|g=m|t=K	
+4	en	en	P	P		
+5	ce	ce	DET	DET	n=s|g=m	
+6	sens	sens	NC	NC	g=m	
+7	chez	chez	P	P		
+8	Aristote	_	NPP	NPP		
+9	[	[	PONCT	PONCT		
+10	2	2	ADJ	ADJ		
+11	]	]	PONCT	PONCT		
+12	et	et	CC	CC		
+13	chez	chez	P	P		
+14	Aratos	_	NPP	NPP		
+15	de	de	P	P		
+16	Soles	_	NPP	NPP		
+17	dans	dans	P	P		
+18	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+19	poème	poème	NC	NC	n=s|g=m	
+20	sur	sur	P	P		
+21	l'	le	DET	DET	n=s	
+22	astronomie	astronomie	NC	NC	n=s|g=f	
+23	,	,	PONCT	PONCT		
+24	Les	_	NPP	NPP		
+25	Phénomènes	_	NPP	NPP		
+26	[	[	PONCT	PONCT		
+27	3	3	ADJ	ADJ		
+28	]	]	PONCT	PONCT		
+29	.	.	PONCT	PONCT		
+
+1	Une	une	DET	DET	n=s|g=f	
+2	comète	comète	NC	NC	n=s|g=f	
+3	se	se	CLR	CLR	n=p,s|p=3	
+4	compose	composer	V	V	n=s|t=P,S|p=1,3	
+5	essentiellement	_	ADV	ADV		
+6	de	de	P	P		
+7	trois	trois	DET	DET	s=card|n=p	
+8	parties	partie	NC	NC	n=p|g=f	
+9	:	:	PONCT	PONCT		
+10	le	le	DET	DET	n=s|g=m	
+11	noyau	noyau	NC	NC	n=s|g=m	
+12	,	,	PONCT	PONCT		
+13	la	la	DET	DET	n=s|g=f	
+14	chevelure	chevelure	NC	NC	n=s|g=f	
+15	et	et	CC	CC		
+16	les	les	DET	DET	n=p	
+17	queues	queue	NC	NC	n=p|g=f	
+18	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	noyau	noyau	NC	NC	n=s|g=m	
+3	et	et	CC	CC		
+4	la	la	DET	DET	n=s|g=f	
+5	chevelure	chevelure	NC	NC	n=s|g=f	
+6	constituent	constituer	V	V	n=p|t=P,S|p=3	
+7	la	la	DET	DET	n=s|g=f	
+8	tête	tête	NC	NC	n=s|g=f	
+9	de	de	P	P		
+10	la	la	DET	DET	n=s|g=f	
+11	comète	comète	NC	NC	n=s|g=f	
+12	.	.	PONCT	PONCT		
+
+1	Lors	lors	ADV	ADV		
+2	du	de	P+D	P+D	n=s|g=m	
+3	dernier	dernier	ADJ	ADJ	n=s|g=m	
+4	passage	passage	NC	NC	n=s|g=m	
+5	de	de	P	P		
+6	la	la	DET	DET	n=s|g=f	
+7	comète	comète	NC	NC	n=s|g=f	
+8	de	de	P	P		
+9	Halley	_	NPP	NPP		
+10	en	en	P	P		
+11	1986	1986	NC	NC		
+12	,	,	PONCT	PONCT		
+13	six	six	DET	DET	s=card|n=p	
+14	sondes	sonde	NC	NC	n=p|g=f	
+15	spatiales	spatial	ADJ	ADJ	n=p|g=f	
+16	(	(	PONCT	PONCT		
+17	ICE	_	NPP	NPP		
+18	,	,	PONCT	PONCT		
+19	Vega	_	NPP	NPP		
+20	-1	-1	NPP	NPP		
+21	,	,	PONCT	PONCT		
+22	Vega	_	NPP	NPP		
+23	-2	-2	NPP	NPP		
+24	,	,	PONCT	PONCT		
+25	Sakigake	_	NPP	NPP		
+26	,	,	PONCT	PONCT		
+27	Suisei	_	NPP	NPP		
+28	et	et	CC	CC		
+29	Giotto	_	NPP	NPP		
+30	)	)	PONCT	PONCT		
+31	ont	avoir	V	V	n=p|t=P|p=3	
+32	frôlé	frôler	VPP	VPP	n=s|g=m|t=K	
+33	la	la	DET	DET	n=s|g=f	
+34	comète	comète	NC	NC	n=s|g=f	
+35	et	et	CC	CC		
+36	enregistré	enregistrer	VPP	VPP	n=s|g=m|t=K	
+37	des	de	P+D	P+D	n=p	
+38	données	donnée	NC	NC	n=p|g=f	
+39	et	et	CC	CC		
+40	des	de	P+D	P+D	n=p	
+41	images	image	NC	NC	n=p|g=f	
+42	précieuses	précieux	ADJ	ADJ	n=p|g=f	
+43	pour	pour	P	P		
+44	notre	notre	DET	DET	n=s|p=1|poss=p	
+45	connaissance	connaissance	NC	NC	n=s|g=f	
+46	des	de	P+D	P+D	n=p	
+47	comètes	comète	NC	NC	n=p|g=f	
+48	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	hypothèse	hypothèse	NC	NC	n=s|g=f	
+3	de	de	P	P		
+4	constitution	constitution	NC	NC	n=s|g=f	
+5	du	de	P+D	P+D	n=s|g=m	
+6	noyau	noyau	NC	NC	n=s|g=m	
+7	la	la	DET	DET	n=s|g=f	
+8	plus	plus	ADV	ADV		
+9	communément	_	ADV	ADV		
+10	admise	admettre	VPP	VPP	n=s|g=f|t=K	
+11	et	et	CC	CC		
+12	confirmée	confirmer	VPP	VPP	n=s|g=f|t=K	
+13	par	par	P	P		
+14	les	les	DET	DET	n=p	
+15	récentes	récent	ADJ	ADJ	n=p|g=f	
+16	expériences	expérience	NC	NC	n=p|g=f	
+17	spatiales	spatial	ADJ	ADJ	n=p|g=f	
+18	de	de	P	P		
+19	spectroscopie	spectroscopie	NC	NC	n=s|g=f	
+20	,	,	PONCT	PONCT		
+21	est	être	V	V	n=s|t=P|p=3	
+22	qu'	que	CS	CS		
+23	il	il	CLS	CLS	n=s|g=m|p=3	
+24	serait	être	V	V	n=s|t=C|p=3	
+25	un	un	DET	DET	n=s|g=m	
+26	corps	corps	NC	NC	g=m	
+27	solide	solide	ADJ	ADJ	n=s	
+28	constitué	constituer	VPP	VPP	n=s|g=m|t=K	
+29	pour	pour	P	P		
+30	environ	environ	ADV	ADV		
+31	moitié	moitié	NC	NC	n=s|g=f	
+32	de	de	P	P		
+33	glaces	glace	NC	NC	n=p|g=f	
+34	(	(	PONCT	PONCT		
+35	essentiellement	_	ADV	ADV		
+36	d'	de	P	P		
+37	eau	eau	NC	NC	n=s|g=f	
+38	,	,	PONCT	PONCT		
+39	puis	puis	CC	CC		
+40	de	de	P	P		
+41	monoxyde	monoxyde	NC	NC	n=s|g=m	
+42	de	de	P	P		
+43	carbone	carbone	NC	NC	n=s|g=m	
+44	,	,	PONCT	PONCT		
+45	dioxyde	dioxyde	NC	NC	n=s|g=m	
+46	de	de	P	P		
+47	carbone	carbone	NC	NC	n=s|g=m	
+48	,	,	PONCT	PONCT		
+49	méthane	méthane	NC	NC	n=s|g=m	
+50	,	,	PONCT	PONCT		
+51	éthane	éthane	NC	NC	n=s|g=m	
+52	,	,	PONCT	PONCT		
+53	acétylène	acétylène	NC	NC	n=s|g=m	
+54	)	)	PONCT	PONCT		
+55	et	et	CC	CC		
+56	environ	environ	ADV	ADV		
+57	moitié	moitié	NC	NC	n=s|g=f	
+58	de	de	P	P		
+59	matières	matière	NC	NC	n=p|g=f	
+60	météoritiques	_	NC	NC		
+61	agglomérées	agglomérer	VPP	VPP	n=p|g=f|t=K	
+62	(	(	PONCT	PONCT		
+63	modèle	modèle	NC	NC	n=s|g=m	
+64	dit	dire	V	V	n=s|t=J,P|p=3	
+65	de	de	P	P		
+66	la	la	DET	DET	n=s|g=f	
+67	"	"	PONCT	PONCT		
+68	boule	boule	NC	NC	n=s|g=f	
+69	de	de	P	P		
+70	neige	neige	NC	NC	n=s|g=f	
+71	sale	sale	ADJ	ADJ	n=s	
+72	"	"	PONCT	PONCT		
+73	proposé	proposer	VPP	VPP	n=s|g=m|t=K	
+74	par	par	P	P		
+75	Fred	Fred	NPP	NPP	n=s|g=m	
+76	Whipple	_	NPP	NPP		
+77	en	en	P	P		
+78	1950	1950	NC	NC		
+79	,	,	PONCT	PONCT		
+80	"	"	PONCT	PONCT		
+81	modèle	modèle	NC	NC	n=s|g=m	
+82	en	en	P	P		
+83	couche	couche	NC	NC	n=s|g=f	
+84	"	"	PONCT	PONCT		
+85	proposé	proposer	VPP	VPP	n=s|g=m|t=K	
+86	par	par	P	P		
+87	Michael	Michael	NPP	NPP	n=s|g=m	
+88	J	_	NPP	NPP		
+89	.	.	PONCT	PONCT		
+90	Belton	_	NPP	NPP		
+91	à	à	P	P		
+92	la	la	DET	DET	n=s|g=f	
+93	suite	suite	NC	NC	n=s|g=f	
+94	de	de	P	P		
+95	la	la	DET	DET	n=s|g=f	
+96	mission	mission	NC	NC	n=s|g=f	
+97	Deep	_	NPP	NPP		
+98	Impact	_	NPP	NPP		
+99	)	)	PONCT	PONCT		
+100	.	.	PONCT	PONCT		
+
+1	Ces	ces	DET	DET	n=p	
+2	glaces	glace	NC	NC	n=p|g=f	
+3	se	se	CLR	CLR	n=p,s|p=3	
+4	subliment	sublimer	V	V	n=p|t=P,S|p=3	
+5	(	(	PONCT	PONCT		
+6	lorsque	lorsque	CS	CS		
+7	la	la	DET	DET	n=s|g=f	
+8	comète	comète	NC	NC	n=s|g=f	
+9	est	être	V	V	n=s|t=P|p=3	
+10	à	à	P	P		
+11	une	une	DET	DET	n=s|g=f	
+12	distance	distance	NC	NC	n=s|g=f	
+13	de	de	P	P		
+14	1	1	NC	NC		
+15	à	à	P	P		
+16	3	3	ADJ	ADJ		
+17	unités	unité	NC	NC	n=p|g=f	
+18	astronomiques	astronomique	ADJ	ADJ	n=p	
+19	du	de	P+D	P+D	n=s|g=m	
+20	Soleil	_	NPP	NPP		
+21	)	)	PONCT	PONCT		
+22	sous	sous	P	P		
+23	l'	le	DET	DET	n=s	
+24	action	action	NC	NC	n=s|g=f	
+25	du	de	P+D	P+D	n=s|g=m	
+26	rayonnement	rayonnement	NC	NC	n=s|g=m	
+27	solaire	solaire	ADJ	ADJ	n=s	
+28	et	et	CC	CC		
+29	donnent	donner	V	V	n=p|t=P,S|p=3	
+30	naissance	naissance	NC	NC	n=s|g=f	
+31	à	à	P	P		
+32	la	la	DET	DET	n=s|g=f	
+33	chevelure	chevelure	NC	NC	n=s|g=f	
+34	,	,	PONCT	PONCT		
+35	puis	puis	CC	CC		
+36	aux	à	P+D	P+D	n=p	
+37	queues	queue	NC	NC	n=p|g=f	
+38	[	[	PONCT	PONCT		
+39	4	4	NC	NC		
+40	]	]	PONCT	PONCT		
+41	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	diamètre	diamètre	NC	NC	n=s|g=m	
+3	du	de	P+D	P+D	n=s|g=m	
+4	noyau	noyau	NC	NC	n=s|g=m	
+5	(	(	PONCT	PONCT		
+6	non	non	ADV	ADV		
+7	sphérique	sphérique	ADJ	ADJ	n=s	
+8	,	,	PONCT	PONCT		
+9	certaines	certain	DET	DET	n=p|g=f	
+10	parties	partie	NC	NC	n=p|g=f	
+11	étant	être	VPR	VPR	t=G	
+12	lisses	lisse	NC	NC	n=p|g=f	
+13	,	,	PONCT	PONCT		
+14	d'	de	DET	DET	n=p	
+15	autres	autre	ADJ	ADJ	n=p	
+16	rugueuses	rugueux	ADJ	ADJ	n=p|g=f	
+17	)	)	PONCT	PONCT		
+18	est	être	V	V	n=s|t=P|p=3	
+19	estimé	estimer	VPP	VPP	n=s|g=m|t=K	
+20	entre	entre	P	P		
+21	quelques	quelques	DET	DET	n=p	
+22	centaines	centaine	NC	NC	n=p|g=f	
+23	de	de	P	P		
+24	mètres	mètre	NC	NC	n=p|g=m	
+25	et	et	CC	CC		
+26	quelques	quelques	DET	DET	n=p	
+27	dizaines	dizaine	NC	NC	n=p|g=f	
+28	de	de	P	P		
+29	kilomètres	kilomètre	NC	NC	n=p|g=m	
+30	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	période	période	NC	NC	n=s	
+3	de	de	P	P		
+4	rotation	rotation	NC	NC	n=s|g=f	
+5	va	aller	V	V	n=s|t=P|p=3	
+6	de	de	P	P		
+7	5	5	VINF	VINF		
+8	à	à	P	P		
+9	70	70	ADJ	ADJ		
+10	heures	heure	NC	NC	n=p|g=f	
+11	[	[	PONCT	PONCT		
+12	4	4	NC	NC		
+13	]	]	PONCT	PONCT		
+14	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	noyau	noyau	NC	NC	n=s|g=m	
+3	de	de	P	P		
+4	la	la	DET	DET	n=s|g=f	
+5	comète	comète	NC	NC	n=s|g=f	
+6	de	de	P	P		
+7	Halley	_	NPP	NPP		
+8	est	être	V	V	n=s|t=P|p=3	
+9	de	de	P	P		
+10	forme	forme	NC	NC	n=s|g=f	
+11	oblongue	oblong	ADJ	ADJ	n=s|g=f	
+12	,	,	PONCT	PONCT		
+13	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+14	plus	plus	ADV	ADV		
+15	grande	grand	ADJ	ADJ	n=s|g=f	
+16	dimension	dimension	NC	NC	n=s|g=f	
+17	mesure	mesurer	V	V	n=s|t=P,S|p=1,3	
+18	environ	environ	ADV	ADV		
+19	15	15	ADJ	ADJ		
+20	kilomètres	kilomètre	NC	NC	n=p|g=m	
+21	,	,	PONCT	PONCT		
+22	pour	pour	P	P		
+23	un	un	DET	DET	n=s|g=m	
+24	volume	volume	NC	NC	n=s|g=m	
+25	estimé	estimer	VPP	VPP	n=s|g=m|t=K	
+26	à	à	P	P		
+27	500	500	ADJ	ADJ		
+28	kilomètres	kilomètre	NC	NC	n=p|g=m	
+29	cubes	cube	NC	NC	n=p|g=m	
+30	et	et	CC	CC		
+31	une	une	DET	DET	n=s|g=f	
+32	masse	masse	NC	NC	n=s|g=f	
+33	de	de	P	P		
+34	1014	1014	ADJ	ADJ		
+35	kilogrammes	kilogramme	NC	NC	n=p|g=m	
+36	,	,	PONCT	PONCT		
+37	ce	ce	PRO	PRO	n=s	
+38	qui	qui	PROREL	PROREL	n=s	
+39	correspond	correspondre	V	V	n=s|t=P|p=3	
+40	à	à	P	P		
+41	une	une	DET	DET	n=s|g=f	
+42	masse	masse	NC	NC	n=s|g=f	
+43	volumique	volumique	ADJ	ADJ	n=s	
+44	moyenne	moyen	ADJ	ADJ	n=s|g=f	
+45	de	de	P	P		
+46	200	200	ADJ	ADJ		
+47	kilogrammes	kilogramme	NC	NC	n=p|g=m	
+48	par	par	P	P		
+49	mètre	mètre	NC	NC	n=s|g=m	
+50	cube	cube	NC	NC	n=s|g=m	
+51	(	(	PONCT	PONCT		
+52	un	un	DET	DET	n=s|g=m	
+53	cinquième	cinquième	ADJ	ADJ	n=s	
+54	de	de	P	P		
+55	celle	celle	PRO	PRO	n=s|g=f	
+56	de	de	P	P		
+57	l'	le	DET	DET	n=s	
+58	eau	eau	NC	NC	n=s|g=f	
+59	dans	dans	P	P		
+60	les	les	DET	DET	n=p	
+61	conditions	condition	NC	NC	n=p|g=f	
+62	standards	standard	NC	NC	n=p|g=m	
+63	à	à	P	P		
+64	la	la	DET	DET	n=s|g=f	
+65	surface	surface	NC	NC	n=s|g=f	
+66	de	de	P	P		
+67	la	la	DET	DET	n=s|g=f	
+68	Terre	_	NPP	NPP		
+69	)	)	PONCT	PONCT		
+70	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	présence	présence	NC	NC	n=s|g=f	
+3	de	de	P	P		
+4	molécules	molécule	NC	NC	n=p|g=f	
+5	organiques	organique	ADJ	ADJ	n=p	
+6	dans	dans	P	P		
+7	les	les	DET	DET	n=p	
+8	comètes	comète	NC	NC	n=p|g=f	
+9	est	être	V	V	n=s|t=P|p=3	
+10	un	un	DET	DET	n=s|g=m	
+11	élément	élément	NC	NC	n=s|g=m	
+12	en	en	P	P		
+13	faveur	faveur	NC	NC	n=s|g=f	
+14	de	de	P	P		
+15	la	la	DET	DET	n=s|g=f	
+16	théorie	théorie	NC	NC	n=s|g=f	
+17	de	de	P	P		
+18	la	la	DET	DET	n=s|g=f	
+19	panspermie	panspermie	NC	NC	n=s|g=f	
+20	.	.	PONCT	PONCT		
+
+1	Un	un	DET	DET	n=s|g=m	
+2	scientifique	scientifique	ADJ	ADJ	n=s	
+3	de	de	P	P		
+4	la	la	DET	DET	n=s|g=f	
+5	NASA	_	NPP	NPP		
+6	,	,	PONCT	PONCT		
+7	Richard	Richard	NPP	NPP	n=s|g=m	
+8	B	_	NPP	NPP		
+9	.	.	PONCT	PONCT		
+10	Hoover	_	NPP	NPP		
+11	(	(	PONCT	PONCT		
+12	en	en	P	P		
+13	)	)	PONCT	PONCT		
+14	,	,	PONCT	PONCT		
+15	prétend	prétendre	V	V	n=s|t=P|p=3	
+16	ainsi	ainsi	ADV	ADV		
+17	en	en	P	P		
+18	2011	2011	NC	NC		
+19	avoir	avoir	VINF	VINF	t=W	
+20	trouvé	trouver	VPP	VPP	n=s|g=m|t=K	
+21	des	des	DET	DET	n=p	
+22	bactéries	bactérie	NC	NC	n=p|g=f	
+23	fossiles	fossile	ADJ	ADJ	n=p	
+24	extraterrestres	extraterrestre	ADJ	ADJ	n=p	
+25	dans	dans	P	P		
+26	des	des	DET	DET	n=p	
+27	comètes	comète	NC	NC	n=p|g=f	
+28	[	[	PONCT	PONCT		
+29	5	5	ADJ	ADJ		
+30	]	]	PONCT	PONCT		
+31	,	,	PONCT	PONCT		
+32	mais	mais	CC	CC		
+33	la	la	DET	DET	n=s|g=f	
+34	NASA	_	NPP	NPP		
+35	a	avoir	V	V	n=s|t=P|p=3	
+36	pris	prendre	VPP	VPP	g=m|t=K	
+37	ses	ses	DET	DET	n=p|p=3|poss=s	
+38	distances	distance	NC	NC	n=p|g=f	
+39	avec	avec	P	P		
+40	ces	ces	DET	DET	n=p	
+41	travaux	travail	NC	NC	n=p|g=m	
+42	,	,	PONCT	PONCT		
+43	leur	leur	CLO	CLO	n=p|p=3	
+44	reprochant	reprocher	VPR	VPR	t=G	
+45	un	un	DET	DET	n=s|g=m	
+46	manque	manque	NC	NC	n=s	
+47	d'	de	P	P		
+48	évaluation	évaluation	NC	NC	n=s|g=f	
+49	par	par	P	P		
+50	les	les	DET	DET	n=p	
+51	pairs	pair	NC	NC	n=p|g=m	
+52	[	[	PONCT	PONCT		
+53	6	6	ADJ	ADJ		
+54	]	]	PONCT	PONCT		
+55	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	noyaux	noyau	NC	NC	n=p|g=m	
+3	cométaires	cométaire	ADJ	ADJ	n=p	
+4	sont	être	V	V	n=p|t=P|p=3	
+5	parmi	parmi	P	P		
+6	les	les	DET	DET	n=p	
+7	objets	objet	NC	NC	n=p|g=m	
+8	les	les	DET	DET	n=p	
+9	plus	plus	ADV	ADV		
+10	sombres	sombre	ADJ	ADJ	n=p	
+11	du	de	P+D	P+D	n=s|g=m	
+12	Système	système	NC	NC	n=s|g=m	
+13	solaire	solaire	ADJ	ADJ	n=s	
+14	avec	avec	P	P		
+15	un	un	DET	DET	n=s|g=m	
+16	albedo	_	NC	NC		
+17	compris	comprendre	VPP	VPP	g=m|t=K	
+18	entre	entre	P	P		
+19	2	2	NC	NC		
+20	et	et	CC	CC		
+21	7	7	ADJ	ADJ		
+22	%	%	NC	NC	g=m	
+23	[	[	PONCT	PONCT		
+24	7	7	ADJ	ADJ		
+25	]	]	PONCT	PONCT		
+26	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	chevelure	chevelure	NC	NC	n=s|g=f	
+3	,	,	PONCT	PONCT		
+4	ou	ou	CC	CC		
+5	la	la	DET	DET	n=s|g=f	
+6	coma	coma	NC	NC	n=s|g=m	
+7	,	,	PONCT	PONCT		
+8	forme	former	V	V	n=s|t=P,S|p=1,3	
+9	un	un	DET	DET	n=s|g=m	
+10	halo	halo	NC	NC	n=s|g=m	
+11	à	à	P	P		
+12	peu	peu	ADV	ADV		
+13	près	près	ADV	ADV		
+14	sphérique	sphérique	ADJ	ADJ	n=s	
+15	entourant	entourer	VPR	VPR	t=G	
+16	le	le	DET	DET	n=s|g=m	
+17	noyau	noyau	NC	NC	n=s|g=m	
+18	et	et	CC	CC		
+19	constitué	constituer	VPP	VPP	n=s|g=m|t=K	
+20	de	de	P	P		
+21	particules	particule	NC	NC	n=p|g=f	
+22	neutres	neutre	ADJ	ADJ	n=p	
+23	de	de	P	P		
+24	gaz	gaz	NC	NC	g=m	
+25	et	et	CC	CC		
+26	de	de	P	P		
+27	poussières	poussière	NC	NC	n=p|g=f	
+28	issus	issir	VPP	VPP	n=p|g=m|t=K	
+29	de	de	P	P		
+30	ce	ce	DET	DET	n=s|g=m	
+31	noyau	noyau	NC	NC	n=s|g=m	
+32	.	.	PONCT	PONCT		
+
+1	Ces	ces	DET	DET	n=p	
+2	particules	particule	NC	NC	n=p|g=f	
+3	sont	être	V	V	n=p|t=P|p=3	
+4	libérés	libérer	VPP	VPP	n=p|g=m|t=K	
+5	sous	sous	P	P		
+6	forme	forme	NC	NC	n=s|g=f	
+7	de	de	P	P		
+8	jets	jet	NC	NC	n=p|g=m	
+9	lorsque	lorsque	CS	CS		
+10	la	la	DET	DET	n=s|g=f	
+11	comète	comète	NC	NC	n=s|g=f	
+12	se	se	CLR	CLR	n=p,s|p=3	
+13	rapproche	rapprocher	V	V	n=s|t=P,S|p=1,3	
+14	du	de	P+D	P+D	n=s|g=m	
+15	soleil	soleil	NC	NC	n=s|g=m	
+16	,	,	PONCT	PONCT		
+17	provoquant	provoquer	VPR	VPR	t=G	
+18	la	la	DET	DET	n=s|g=f	
+19	sublimation	sublimation	NC	NC	n=s|g=f	
+20	des	de	P+D	P+D	n=p	
+21	glaces	glace	NC	NC	n=p|g=f	
+22	du	de	P+D	P+D	n=s|g=m	
+23	noyau	noyau	NC	NC	n=s|g=m	
+24	[	[	PONCT	PONCT		
+25	8	8	NC	NC		
+26	]	]	PONCT	PONCT		
+27	.	.	PONCT	PONCT		
+
+1	Cette	cette	DET	DET	n=s|g=f	
+2	chevelure	chevelure	NC	NC	n=s|g=f	
+3	est	être	V	V	n=s|t=P|p=3	
+4	entourée	entourer	VPP	VPP	n=s|g=f|t=K	
+5	d'	de	P	P		
+6	un	un	DET	DET	n=s|g=m	
+7	nuage	nuage	NC	NC	n=s|g=m	
+8	d'	de	P	P		
+9	hydrogène	hydrogène	NC	NC	n=s|g=m	
+10	atomique	atomique	ADJ	ADJ	n=s	
+11	produit	produire	VPP	VPP	n=s|g=m|t=K	
+12	par	par	P	P		
+13	photodissociation	_	NC	NC		
+14	d'	de	P	P		
+15	un	un	DET	DET	n=s|g=m	
+16	certain	certain	ADJ	ADJ	n=s|g=m	
+17	nombre	nombre	NC	NC	n=s|g=m	
+18	d'	de	P	P		
+19	espèces	espèce	NC	NC	n=p|g=f	
+20	,	,	PONCT	PONCT		
+21	principalement	_	ADV	ADV		
+22	H2O	_	NPP	NPP		
+23	et	et	CC	CC		
+24	OH	_	NPP	NPP		
+25	[	[	PONCT	PONCT		
+26	9	9	ADJ	ADJ		
+27	]	]	PONCT	PONCT		
+28	.	.	PONCT	PONCT		
+
+1	Son	son	DET	DET	n=s|g=m|p=3|poss=s	
+2	diamètre	diamètre	NC	NC	n=s|g=m	
+3	est	être	V	V	n=s|t=P|p=3	
+4	généralement	_	ADV	ADV		
+5	compris	comprendre	VPP	VPP	g=m|t=K	
+6	entre	entre	P	P		
+7	50_000	50_000	NPP	NPP		
+8	et	et	CC	CC		
+9	250_000	250_000	ADJ	ADJ		
+10	kilomètres	kilomètre	NC	NC	n=p|g=m	
+11	,	,	PONCT	PONCT		
+12	avec	avec	P	P		
+13	des	des	DET	DET	n=p	
+14	limites	limite	NC	NC	n=p|g=f	
+15	extrêmes	extrême	ADJ	ADJ	n=p	
+16	de	de	P	P		
+17	15_000	15_000	NPP	NPP		
+18	et	et	CC	CC		
+19	1_800_000	1_800_000	ADJ	ADJ		
+20	kilomètres	kilomètre	NC	NC	n=p|g=m	
+21	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	chevelure	chevelure	NC	NC	n=s|g=f	
+3	s'	se	CLR	CLR	n=p,s|p=3	
+4	identifie	identifier	V	V	n=s|t=P,S|p=1,3	
+5	fréquemment	_	ADV	ADV		
+6	avec	avec	P	P		
+7	la	la	DET	DET	n=s|g=f	
+8	tête	tête	NC	NC	n=s|g=f	
+9	de	de	P	P		
+10	la	la	DET	DET	n=s|g=f	
+11	comète	comète	NC	NC	n=s|g=f	
+12	,	,	PONCT	PONCT		
+13	étant	être	VPR	VPR	t=G	
+14	donné	donner	VPP	VPP	n=s|g=m|t=K	
+15	le	le	DET	DET	n=s|g=m	
+16	faible	faible	ADJ	ADJ	n=s	
+17	diamètre	diamètre	NC	NC	n=s|g=m	
+18	relatif	relatif	ADJ	ADJ	n=s|g=m	
+19	du	de	P+D	P+D	n=s|g=m	
+20	noyau	noyau	NC	NC	n=s|g=m	
+21	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	analyses	analyse	NC	NC	n=p|g=f	
+3	du	de	P+D	P+D	n=s|g=m	
+4	gaz	gaz	NC	NC	g=m	
+5	de	de	P	P		
+6	la	la	DET	DET	n=s|g=f	
+7	chevelure	chevelure	NC	NC	n=s|g=f	
+8	de	de	P	P		
+9	la	la	DET	DET	n=s|g=f	
+10	comète	comète	NC	NC	n=s|g=f	
+11	de	de	P	P		
+12	Halley	_	NPP	NPP		
+13	indiquent	indiquer	V	V	n=p|t=P,S|p=3	
+14	que	que	CS	CS		
+15	celle	celle	PRO	PRO	n=s|g=f	
+16	-	-	PONCT	PONCT		
+17	ci	_	NPP	NPP		
+18	contient	contenir	V	V	n=s|t=P|p=3	
+19	80	80	ADJ	ADJ		
+20	%	%	NC	NC	g=m	
+21	d'	de	P	P		
+22	eau	eau	NC	NC	n=s|g=f	
+23	,	,	PONCT	PONCT		
+24	10	10	ADJ	ADJ		
+25	%	%	NC	NC	g=m	
+26	de	de	P	P		
+27	monoxyde	monoxyde	NC	NC	n=s|g=m	
+28	de	de	P	P		
+29	carbone	carbone	NC	NC	n=s|g=m	
+30	,	,	PONCT	PONCT		
+31	3	3	ADJ	ADJ		
+32	%	%	NC	NC	g=m	
+33	de	de	P	P		
+34	dioxyde	dioxyde	NC	NC	n=s|g=m	
+35	de	de	P	P		
+36	carbone	carbone	NC	NC	n=s|g=m	
+37	,	,	PONCT	PONCT		
+38	2	2	ADJ	ADJ		
+39	%	%	NC	NC	g=m	
+40	de	de	P	P		
+41	méthane	méthane	NC	NC	n=s|g=m	
+42	,	,	PONCT	PONCT		
+43	moins	moins	ADV	ADV		
+44	de	de	P	P		
+45	1,5	1,5	ADJ	ADJ		
+46	%	%	NC	NC	g=m	
+47	d'	de	P	P		
+48	ammoniac	ammoniac	ADJ	ADJ	n=s	
+49	et	et	CC	CC		
+50	0,1	0,1	ADJ	ADJ		
+51	%	%	NC	NC	g=m	
+52	d'	de	P	P		
+53	acide	acide	NC	NC	n=s|g=m	
+54	cyanhydrique	cyanhydrique	ADJ	ADJ	n=s	
+55	.	.	PONCT	PONCT		
+
+1	Si	si	CS	CS		
+2	la	la	DET	DET	n=s|g=f	
+3	comète	comète	NC	NC	n=s|g=f	
+4	est	être	V	V	n=s|t=P|p=3	
+5	suffisamment	_	ADV	ADV		
+6	active	actif	ADJ	ADJ	n=s|g=f	
+7	,	,	PONCT	PONCT		
+8	la	la	DET	DET	n=s|g=f	
+9	coma	coma	NC	NC	n=s|g=m	
+10	se	se	CLR	CLR	n=p,s|p=3	
+11	prolonge	prolonger	V	V	n=s|t=P,S|p=1,3	
+12	par	par	P	P		
+13	des	des	DET	DET	n=p	
+14	traînées	traînée	NC	NC	n=p|g=f	
+15	lumineuses	lumineux	ADJ	ADJ	n=p|g=f	
+16	appelées	appeler	VPP	VPP	n=p|g=f|t=K	
+17	queues	queue	NC	NC	n=p|g=f	
+18	.	.	PONCT	PONCT		
+
+1	Une	une	DET	DET	n=s|g=f	
+2	comète	comète	NC	NC	n=s|g=f	
+3	importante	important	ADJ	ADJ	n=s|g=f	
+4	possède	posséder	V	V	n=s|t=P,S|p=1,3	
+5	en	en	P	P		
+6	général	général	NC	NC	n=s|g=m	
+7	deux	deux	DET	DET	s=card|n=p	
+8	queues	queue	NC	NC	n=p|g=f	
+9	visibles	visible	ADJ	ADJ	n=p	
+10	:	:	PONCT	PONCT		
+
+1	Leurs	leurs	DET	DET	n=p|p=3|poss=p	
+2	dimensions	dimension	NC	NC	n=p|g=f	
+3	sont	être	V	V	n=p|t=P|p=3	
+4	considérables	considérable	ADJ	ADJ	n=p	
+5	:	:	PONCT	PONCT		
+6	des	des	DET	DET	n=p	
+7	longueurs	longueur	NC	NC	n=p|g=f	
+8	de	de	P	P		
+9	30	30	NC	NC		
+10	à	à	P	P		
+11	80	80	ADJ	ADJ		
+12	millions	million	NC	NC	n=p	
+13	de	de	P	P		
+14	kilomètres	kilomètre	NC	NC	n=p|g=m	
+15	sont	être	V	V	n=p|t=P|p=3	
+16	relativement	_	ADV	ADV		
+17	fréquentes	fréquent	ADJ	ADJ	n=p|g=f	
+18	.	.	PONCT	PONCT		
+
+1	Comme	comme	P	P		
+2	toute	toute	DET	DET	n=s|g=f	
+3	orbite	orbite	NC	NC	n=s|g=f	
+4	céleste	céleste	ADJ	ADJ	n=s	
+5	,	,	PONCT	PONCT		
+6	celles	celle	PRO	PRO	n=p|g=f	
+7	des	de	P+D	P+D	n=p	
+8	comètes	comète	NC	NC	n=p|g=f	
+9	sont	être	V	V	n=p|t=P|p=3	
+10	définies	définir	VPP	VPP	n=p|g=f|t=K	
+11	à	à	P	P		
+12	l'	le	DET	DET	n=s	
+13	aide	aide	NC	NC	n=s	
+14	de	de	P	P		
+15	six	six	DET	DET	s=card|n=p	
+16	paramètres	paramètre	NC	NC	n=p|g=m	
+17	(	(	PONCT	PONCT		
+18	éléments	élément	NC	NC	n=p|g=m	
+19	orbitaux	orbital	ADJ	ADJ	n=p|g=m	
+20	)	)	PONCT	PONCT		
+21	:	:	PONCT	PONCT		
+22	la	la	DET	DET	n=s|g=f	
+23	période	période	NC	NC	n=s	
+24	P	_	NPP	NPP		
+25	,	,	PONCT	PONCT		
+26	argument	argument	NC	NC	n=s|g=m	
+27	du	de	P+D	P+D	n=s|g=m	
+28	périhélie	périhélie	NC	NC	n=s|g=m	
+29	ω	_	NPP	NPP		
+30	,	,	PONCT	PONCT		
+31	la	la	DET	DET	n=s|g=f	
+32	longitude	longitude	NC	NC	n=s|g=f	
+33	du	de	P+D	P+D	n=s|g=m	
+34	nœud	_	NC	NC		
+35	ascendant	ascendant	ADJ	ADJ	n=s|g=m	
+36	Ω	_	NPP	NPP		
+37	,	,	PONCT	PONCT		
+38	l'	le	DET	DET	n=s	
+39	inclinaison	inclinaison	NC	NC	n=s|g=f	
+40	i	_	NPP	NPP		
+41	,	,	PONCT	PONCT		
+42	la	la	DET	DET	n=s|g=f	
+43	distance	distance	NC	NC	n=s|g=f	
+44	du	de	P+D	P+D	n=s|g=m	
+45	périhélie	périhélie	NC	NC	n=s|g=m	
+46	q	_	NPP	NPP		
+47	et	et	CC	CC		
+48	l'	le	DET	DET	n=s	
+49	excentricité	excentricité	NC	NC	n=s|g=f	
+50	e	_	NPP	NPP		
+51	.	.	PONCT	PONCT		
+
+1	Lorsqu'	lorsque	CS	CS		
+2	on	on	CLS	CLS	n=s|p=3	
+3	découvre	découvrir	V	V	n=s|t=P,S|p=1,3	
+4	une	une	DET	DET	n=s|g=f	
+5	nouvelle	nouveau	ADJ	ADJ	n=s|g=f	
+6	comète	comète	NC	NC	n=s|g=f	
+7	,	,	PONCT	PONCT		
+8	après	après	P	P		
+9	au	à	P+D	P+D	n=s|g=m	
+10	moins	moins	ADV	ADV		
+11	trois	trois	DET	DET	s=card|n=p	
+12	observations	observation	NC	NC	n=p|g=f	
+13	distinctes	distinct	ADJ	ADJ	n=p|g=f	
+14	,	,	PONCT	PONCT		
+15	on	on	CLS	CLS	n=s|p=3	
+16	modélise	modéliser	V	V	n=s|t=P,S|p=1,3	
+17	une	une	DET	DET	n=s|g=f	
+18	première	premier	ADJ	ADJ	n=s|g=f	
+19	orbite	orbite	NC	NC	n=s|g=f	
+20	en	en	P	P		
+21	prenant	prendre	VPR	VPR	t=G	
+22	e	_	NPP	NPP		
+23	=	=	P	P		
+24	1	1	NC	NC		
+25	:	:	PONCT	PONCT		
+26	par	par	P	P		
+27	défaut	défaut	NC	NC	n=s|g=m	
+28	,	,	PONCT	PONCT		
+29	l'	le	DET	DET	n=s	
+30	orbite	orbite	NC	NC	n=s|g=f	
+31	est	être	V	V	n=s|t=P|p=3	
+32	supposée	supposer	VPP	VPP	n=s|g=f|t=K	
+33	parabolique	parabolique	ADJ	ADJ	n=s	
+34	.	.	PONCT	PONCT		
+
+1	Lorsque	lorsque	CS	CS		
+2	plus	plus	ADV	ADV		
+3	d'	de	P	P		
+4	observations	observation	NC	NC	n=p|g=f	
+5	ont	avoir	V	V	n=p|t=P|p=3	
+6	pu	pouvoir	VPP	VPP	t=K	
+7	être	être	VINF	VINF	t=W	
+8	effectuées	effectuer	VPP	VPP	n=p|g=f|t=K	
+9	,	,	PONCT	PONCT		
+10	une	une	DET	DET	n=s|g=f	
+11	meilleure	meilleur	ADJ	ADJ	n=s|g=f	
+12	orbite	orbite	NC	NC	n=s|g=f	
+13	osculatrice	_	NPP	NPP		
+14	est	être	V	V	n=s|t=P|p=3	
+15	calculée	calculer	VPP	VPP	n=s|g=f|t=K	
+16	en	en	P	P		
+17	affinant	affiner	VPR	VPR	t=G	
+18	la	la	DET	DET	n=s|g=f	
+19	valeur	valeur	NC	NC	n=s|g=f	
+20	de	de	P	P		
+21	l'	le	DET	DET	n=s	
+22	excentricité	excentricité	NC	NC	n=s|g=f	
+23	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	majorité	majorité	NC	NC	n=s|g=f	
+3	des	de	P+D	P+D	n=p	
+4	comètes	comète	NC	NC	n=p|g=f	
+5	répertoriées	répertorier	VPP	VPP	n=p|g=f|t=K	
+6	ont	avoir	V	V	n=p|t=P|p=3	
+7	une	une	DET	DET	n=s|g=f	
+8	orbite	orbite	NC	NC	n=s|g=f	
+9	elliptique	elliptique	ADJ	ADJ	n=s	
+10	et	et	CC	CC		
+11	gravitent	graviter	V	V	n=p|t=P,S|p=3	
+12	autour	autour	NC	NC	n=s|g=m	
+13	du	de	P+D	P+D	n=s|g=m	
+14	Soleil	_	NPP	NPP		
+15	:	:	PONCT	PONCT		
+16	ce	ce	CLS	CLS		
+17	sont	être	V	V	n=p|t=P|p=3	
+18	les	les	DET	DET	n=p	
+19	comètes	comète	NC	NC	n=p|g=f	
+20	périodiques	périodique	ADJ	ADJ	n=p	
+21	,	,	PONCT	PONCT		
+22	leur	leur	DET	DET	n=s|p=3|poss=p	
+23	période	période	NC	NC	n=s	
+24	pouvant	pouvoir	VPR	VPR	t=G	
+25	être	être	VINF	VINF	t=W	
+26	modifiée	modifier	VPP	VPP	n=s|g=f|t=K	
+27	par	par	P	P		
+28	des	des	DET	DET	n=p	
+29	perturbations	perturbation	NC	NC	n=p|g=f	
+30	gravitationnelles	gravitationnel	ADJ	ADJ	n=p|g=f	
+31	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	comètes	comète	NC	NC	n=p|g=f	
+3	sont	être	V	V	n=p|t=P|p=3	
+4	dites	dire	VPP	VPP	n=p|g=f|t=K	
+5	,	,	PONCT	PONCT		
+6	par	par	P	P		
+7	convention	convention	NC	NC	n=s|g=f	
+8	,	,	PONCT	PONCT		
+9	à	à	P	P		
+10	courte	court	ADJ	ADJ	n=s|g=f	
+11	période	période	NC	NC	n=s	
+12	quand	quand	CS	CS		
+13	leur	leur	DET	DET	n=s|p=3|poss=p	
+14	période	période	NC	NC	n=s	
+15	est	être	V	V	n=s|t=P|p=3	
+16	inférieure	inférieur	ADJ	ADJ	n=s|g=f	
+17	à	à	P	P		
+18	deux_cents	deux_cents	NC	NC		
+19	ans	an	NC	NC	n=p|g=m	
+20	.	.	PONCT	PONCT		
+
+1	Celles	celle	PRO	PRO	n=p|g=f	
+2	-	-	PONCT	PONCT		
+3	ci	_	NPP	NPP		
+4	seraient	être	V	V	n=p|t=C|p=3	
+5	originaires	originaire	ADJ	ADJ	n=p	
+6	de	de	P	P		
+7	la	la	DET	DET	n=s|g=f	
+8	ceinture	ceinture	NC	NC	n=s|g=f	
+9	de	de	P	P		
+10	Kuiper	_	NPP	NPP		
+11	,	,	PONCT	PONCT		
+12	passeraient	passer	V	V	n=p|t=C|p=3	
+13	par	par	P	P		
+14	un	un	DET	DET	n=s|g=m	
+15	stade	stade	NC	NC	n=s|g=m	
+16	de	de	P	P		
+17	centaure	centaure	NC	NC	n=s|g=m	
+18	avant	avant	P	P		
+19	d'	de	P	P		
+20	atteindre	atteindre	VINF	VINF	t=W	
+21	le	le	DET	DET	n=s|g=m	
+22	Système	système	NC	NC	n=s|g=m	
+23	solaire	solaire	ADJ	ADJ	n=s	
+24	interne	interne	ADJ	ADJ	n=s	
+25	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	comètes	comète	NC	NC	n=p|g=f	
+3	dont	dont	PROREL	PROREL		
+4	la	la	DET	DET	n=s|g=f	
+5	période	période	NC	NC	n=s	
+6	est	être	V	V	n=s|t=P|p=3	
+7	supérieure	supérieur	ADJ	ADJ	n=s|g=f	
+8	à	à	P	P		
+9	200	200	ADJ	ADJ		
+10	ans	an	NC	NC	n=p|g=m	
+11	,	,	PONCT	PONCT		
+12	appelées	appeler	VPP	VPP	n=p|g=f|t=K	
+13	comètes	comète	NC	NC	n=p|g=f	
+14	à	à	P	P		
+15	longue	long	ADJ	ADJ	n=s|g=f	
+16	période	période	NC	NC	n=s	
+17	,	,	PONCT	PONCT		
+18	sont	être	V	V	n=p|t=P|p=3	
+19	supposées	supposer	VPP	VPP	n=p|g=f|t=K	
+20	provenir	provenir	VINF	VINF	t=W	
+21	du	de	P+D	P+D	n=s|g=m	
+22	Système	système	NC	NC	n=s|g=m	
+23	solaire	solaire	ADJ	ADJ	n=s	
+24	externe	externe	ADJ	ADJ	n=s	
+25	(	(	PONCT	PONCT		
+26	objets	objet	NC	NC	n=p|g=m	
+27	détachés	détacher	VPP	VPP	n=p|g=m|t=K	
+28	,	,	PONCT	PONCT		
+29	objets	objet	NC	NC	n=p|g=m	
+30	éjectés	éjecter	VPP	VPP	n=p|g=m|t=K	
+31	dans	dans	P	P		
+32	le	le	DET	DET	n=s|g=m	
+33	nuage	nuage	NC	NC	n=s|g=m	
+34	de	de	P	P		
+35	Hills	_	NPP	NPP		
+36	ou	ou	CC	CC		
+37	le	le	DET	DET	n=s|g=m	
+38	nuage	nuage	NC	NC	n=s|g=m	
+39	d'	de	P	P		
+40	Oort	_	NPP	NPP		
+41	par	par	P	P		
+42	le	le	DET	DET	n=s|g=m	
+43	passage	passage	NC	NC	n=s|g=m	
+44	d'	de	P	P		
+45	étoiles	étoile	NC	NC	n=p|g=f	
+46	et	et	CC	CC		
+47	de	de	P	P		
+48	nuages	nuage	NC	NC	n=p|g=m	
+49	moléculaires	moléculaire	ADJ	ADJ	n=p	
+50	et	et	CC	CC		
+51	réinjectés	réinjecter	VPP	VPP	n=p|g=m|t=K	
+52	dans	dans	P	P		
+53	le	le	DET	DET	n=s|g=m	
+54	Système	système	NC	NC	n=s|g=m	
+55	solaire	solaire	ADJ	ADJ	n=s	
+56	par	par	P	P		
+57	le	le	DET	DET	n=s|g=m	
+58	même	même	ADJ	ADJ	n=s	
+59	type	type	NC	NC	n=s|g=m	
+60	de	de	P	P		
+61	perturbation	perturbation	NC	NC	n=s|g=f	
+62	gravitationnelle	gravitationnel	ADJ	ADJ	n=s|g=f	
+63	)	)	PONCT	PONCT		
+64	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	comètes	comète	NC	NC	n=p|g=f	
+3	attachées	attacher	VPP	VPP	n=p|g=f|t=K	
+4	au	à	P+D	P+D	n=s|g=m	
+5	Système	système	NC	NC	n=s|g=m	
+6	solaire	solaire	ADJ	ADJ	n=s	
+7	ont	avoir	V	V	n=p|t=P|p=3	
+8	une	une	DET	DET	n=s|g=f	
+9	orbite	orbite	NC	NC	n=s|g=f	
+10	dont	dont	PROREL	PROREL		
+11	l'	le	DET	DET	n=s	
+12	excentricité	excentricité	NC	NC	n=s|g=f	
+13	est	être	V	V	n=s|t=P|p=3	
+14	inférieure	inférieur	ADJ	ADJ	n=s|g=f	
+15	à	à	P	P		
+16	1	1	NC	NC		
+17	(	(	PONCT	PONCT		
+18	orbites	orbite	NC	NC	n=p|g=f	
+19	elliptiques	elliptique	ADJ	ADJ	n=p	
+20	,	,	PONCT	PONCT		
+21	donc	donc	ADV	ADV		
+22	comètes	comète	NC	NC	n=p|g=f	
+23	périodiques	périodique	ADJ	ADJ	n=p	
+24	)	)	PONCT	PONCT		
+25	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	existe	exister	V	V	n=s|t=P,S|p=1,3	
+3	quelques	quelques	DET	DET	n=p	
+4	rares	rare	ADJ	ADJ	n=p	
+5	cas	cas	NC	NC	g=m	
+6	de	de	P	P		
+7	comètes	comète	NC	NC	n=p|g=f	
+8	dont	dont	PROREL	PROREL		
+9	l'	le	DET	DET	n=s	
+10	excentricité	excentricité	NC	NC	n=s|g=f	
+11	est	être	V	V	n=s|t=P|p=3	
+12	supérieure	supérieur	ADJ	ADJ	n=s|g=f	
+13	à	à	P	P		
+14	1	1	NC	NC		
+15	(	(	PONCT	PONCT		
+16	orbites	orbite	NC	NC	n=p|g=f	
+17	hyperboliques	hyperbolique	ADJ	ADJ	n=p	
+18	,	,	PONCT	PONCT		
+19	donc	donc	ADV	ADV		
+20	comètes	comète	NC	NC	n=p|g=f	
+21	non	non	ADV	ADV		
+22	périodiques	périodique	ADJ	ADJ	n=p	
+23	)	)	PONCT	PONCT		
+24	:	:	PONCT	PONCT		
+25	soit	soit	CC	CC		
+26	il	il	CLS	CLS	n=s|g=m|p=3	
+27	s'	se	CLR	CLR	n=p,s|p=3	
+28	agit	agir	V	V	n=s|t=J,P|p=3	
+29	de	de	P	P		
+30	comètes	comète	NC	NC	n=p|g=f	
+31	provenant	provenir	VPR	VPR	t=G	
+32	de	de	P	P		
+33	l'	le	DET	DET	n=s	
+34	extérieur	extérieur	NC	NC	n=s|g=m	
+35	du	de	P+D	P+D	n=s|g=m	
+36	Système	système	NC	NC	n=s|g=m	
+37	solaire	solaire	ADJ	ADJ	n=s	
+38	(	(	PONCT	PONCT		
+39	moins	moins	ADV	ADV		
+40	d'	de	P	P		
+41	une	un	PRO	PRO	n=s|g=f	
+42	par	par	P	P		
+43	siècle	siècle	NC	NC	n=s|g=m	
+44	[	[	PONCT	PONCT		
+45	11	11	NC	NC		
+46	]	]	PONCT	PONCT		
+47	)	)	PONCT	PONCT		
+48	,	,	PONCT	PONCT		
+49	soit	soit	CC	CC		
+50	il	il	CLS	CLS	n=s|g=m|p=3	
+51	s'	se	CLR	CLR	n=p,s|p=3	
+52	agit	agir	V	V	n=s|t=J,P|p=3	
+53	de	de	P	P		
+54	comètes	comète	NC	NC	n=p|g=f	
+55	dont	dont	PROREL	PROREL		
+56	l'	le	DET	DET	n=s	
+57	orbite	orbite	NC	NC	n=s|g=f	
+58	a	avoir	V	V	n=s|t=P|p=3	
+59	subi	subir	VPP	VPP	n=s|g=m|t=K	
+60	des	des	DET	DET	n=p	
+61	perturbations	perturbation	NC	NC	n=p|g=f	
+62	gravitationnelles	gravitationnel	ADJ	ADJ	n=p|g=f	
+63	telles	tel	ADJ	ADJ	n=p|g=f	
+64	que	que	CS	CS		
+65	,	,	PONCT	PONCT		
+66	en	en	P	P		
+67	l'	le	DET	DET	n=s	
+68	absence	absence	NC	NC	n=s|g=f	
+69	de	de	P	P		
+70	perturbations	perturbation	NC	NC	n=p|g=f	
+71	supplémentaires	supplémentaire	ADJ	ADJ	n=p	
+72	modifiant	modifier	VPR	VPR	t=G	
+73	leur	leur	DET	DET	n=s|p=3|poss=p	
+74	orbite	orbite	NC	NC	n=s|g=f	
+75	en	en	P	P		
+76	sens	sens	NC	NC	g=m	
+77	inverse	inverse	ADJ	ADJ	n=s	
+78	,	,	PONCT	PONCT		
+79	elles	elles	CLS	CLS	n=p|g=f|p=3	
+80	vont	aller	V	V	n=p|t=P|p=3	
+81	sortir	sortir	VINF	VINF	t=W	
+82	du	de	P+D	P+D	n=s|g=m	
+83	Système	système	NC	NC	n=s|g=m	
+84	solaire	solaire	ADJ	ADJ	n=s	
+85	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	comètes	comète	NC	NC	n=p|g=f	
+3	rasantes	rasant	ADJ	ADJ	n=p|g=f	
+4	se	se	CLR	CLR	n=p,s|p=3	
+5	caractérisent	caractériser	V	V	n=p|t=P,S|p=3	
+6	par	par	P	P		
+7	un	un	DET	DET	n=s|g=m	
+8	périhélie	périhélie	NC	NC	n=s|g=m	
+9	extrêmement	_	ADV	ADV		
+10	proche	proche	ADJ	ADJ	n=s	
+11	du	de	P+D	P+D	n=s|g=m	
+12	Soleil	_	NPP	NPP		
+13	,	,	PONCT	PONCT		
+14	parfois	parfois	ADV	ADV		
+15	à	à	P	P		
+16	quelques	quelques	DET	DET	n=p	
+17	milliers	millier	NC	NC	n=p|g=m	
+18	de	de	P	P		
+19	kilomètres	kilomètre	NC	NC	n=p|g=m	
+20	seulement	_	ADV	ADV		
+21	de	de	P	P		
+22	la	la	DET	DET	n=s|g=f	
+23	surface	surface	NC	NC	n=s|g=f	
+24	de	de	P	P		
+25	celui	celui	PRO	PRO	n=s|g=m	
+26	-	-	PONCT	PONCT		
+27	ci	_	NPP	NPP		
+28	.	.	PONCT	PONCT		
+
+1	Alors	alors	ADV	ADV		
+2	que	que	CS	CS		
+3	les	les	DET	DET	n=p	
+4	petites	petit	ADJ	ADJ	n=p|g=f	
+5	comètes	comète	NC	NC	n=p|g=f	
+6	rasantes	rasant	ADJ	ADJ	n=p|g=f	
+7	peuvent	pouvoir	V	V	n=p|t=P|p=3	
+8	complètement	_	ADV	ADV		
+9	s'	se	CLR	CLR	n=p,s|p=3	
+10	évaporer	évaporer	VINF	VINF	t=W	
+11	lors	lors	ADV	ADV		
+12	d'	de	P	P		
+13	un	un	DET	DET	n=s|g=m	
+14	tel	tel	ADJ	ADJ	n=s|g=m	
+15	passage	passage	NC	NC	n=s|g=m	
+16	,	,	PONCT	PONCT		
+17	celles	celle	PRO	PRO	n=p|g=f	
+18	de	de	P	P		
+19	plus	plus	ADV	ADV		
+20	grandes	grand	ADJ	ADJ	n=p|g=f	
+21	tailles	taille	NC	NC	n=p|g=f	
+22	peuvent	pouvoir	V	V	n=p|t=P|p=3	
+23	survivre	survivre	VINF	VINF	t=W	
+24	à	à	P	P		
+25	plusieurs	plusieurs	DET	DET	n=p	
+26	passages	passage	NC	NC	n=p|g=m	
+27	au	à	P+D	P+D	n=s|g=m	
+28	périhélie	périhélie	NC	NC	n=s|g=m	
+29	.	.	PONCT	PONCT		
+
+1	Cependant	cependant	ADV	ADV		
+2	,	,	PONCT	PONCT		
+3	l'	le	DET	DET	n=s	
+4	importante	important	ADJ	ADJ	n=s|g=f	
+5	évaporation	évaporation	NC	NC	n=s|g=f	
+6	et	et	CC	CC		
+7	les	les	DET	DET	n=p	
+8	forces	force	NC	NC	n=p|g=f	
+9	de	de	P	P		
+10	marée	marée	NC	NC	n=s|g=f	
+11	entraînent	entraîner	V	V	n=p|t=P,S|p=3	
+12	souvent	souvent	ADV	ADV		
+13	leur	leur	DET	DET	n=s|p=3|poss=p	
+14	fragmentation	fragmentation	NC	NC	n=s|g=f	
+15	.	.	PONCT	PONCT		
+
+1	Lorsqu'	lorsque	CS	CS		
+2	une	une	DET	DET	n=s|g=f	
+3	comète	comète	NC	NC	n=s|g=f	
+4	passe	passer	V	V	n=s|t=P,S|p=1,3	
+5	à	à	P	P		
+6	proximité	proximité	NC	NC	n=s|g=f	
+7	des	de	P+D	P+D	n=p	
+8	grosses	gros	ADJ	ADJ	n=p|g=f	
+9	planètes	planète	NC	NC	n=p|g=f	
+10	(	(	PONCT	PONCT		
+11	essentiellement	_	ADV	ADV		
+12	Jupiter	Jupiter	NPP	NPP	n=s|g=m	
+13	)	)	PONCT	PONCT		
+14	,	,	PONCT	PONCT		
+15	elle	elle	CLS	CLS	n=s|g=f|p=3	
+16	subit	subir	V	V	n=s|t=J,P|p=3	
+17	des	des	DET	DET	n=p	
+18	perturbations	perturbation	NC	NC	n=p|g=f	
+19	gravitationnelles	gravitationnel	ADJ	ADJ	n=p|g=f	
+20	qui	qui	PROREL	PROREL	n=s	
+21	peuvent	pouvoir	V	V	n=p|t=P|p=3	
+22	modifier	modifier	VINF	VINF	t=W	
+23	certains	certain	PRO	PRO	n=p|g=m	
+24	de	de	P	P		
+25	ses	ses	DET	DET	n=p|p=3|poss=s	
+26	éléments	élément	NC	NC	n=p|g=m	
+27	orbitaux	orbital	ADJ	ADJ	n=p|g=m	
+28	.	.	PONCT	PONCT		
+
+1	C'	ce	CLS	CLS		
+2	est	être	V	V	n=s|t=P|p=3	
+3	ainsi	ainsi	ADV	ADV		
+4	que	que	CS	CS		
+5	la	la	DET	DET	n=s|g=f	
+6	comète	comète	NC	NC	n=s|g=f	
+7	Shoemaker	_	NPP	NPP		
+8	-	-	PONCT	PONCT		
+9	Levy	_	NPP	NPP		
+10	9	9	ADJ	ADJ		
+11	,	,	PONCT	PONCT		
+12	initialement	_	ADV	ADV		
+13	en	en	P	P		
+14	orbite	orbite	NC	NC	n=s|g=f	
+15	autour	autour	NC	NC	n=s|g=m	
+16	du	de	P+D	P+D	n=s|g=m	
+17	Soleil	_	NPP	NPP		
+18	,	,	PONCT	PONCT		
+19	a	avoir	V	V	n=s|t=P|p=3	
+20	été	être	VPP	VPP	t=K	
+21	capturée	capturer	VPP	VPP	n=s|g=f|t=K	
+22	par	par	P	P		
+23	Jupiter	Jupiter	NPP	NPP	n=s|g=m	
+24	puis	puis	CC	CC		
+25	a	avoir	V	V	n=s|t=P|p=3	
+26	finalement	_	ADV	ADV		
+27	percuté	percuter	VPP	VPP	n=s|g=m|t=K	
+28	cette	cette	DET	DET	n=s|g=f	
+29	dernière	dernier	ADJ	ADJ	n=s|g=f	
+30	en	en	P	P		
+31	1994	1994	NC	NC		
+32	parce	_	ADV	ADV		
+33	que	que	CS	CS		
+34	lors	lors	ADV	ADV		
+35	de	de	P	P		
+36	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+37	précédent	précédent	ADJ	ADJ	n=s|g=m	
+38	passage	passage	NC	NC	n=s|g=m	
+39	,	,	PONCT	PONCT		
+40	cette	cette	DET	DET	n=s|g=f	
+41	comète	comète	NC	NC	n=s|g=f	
+42	était	être	V	V	n=s|t=I|p=3	
+43	passée	passer	VPP	VPP	n=s|g=f|t=K	
+44	suffisamment	_	ADV	ADV		
+45	près	près	ADV	ADV		
+46	de	de	P	P		
+47	cette	cette	DET	DET	n=s|g=f	
+48	planète	planète	NC	NC	n=s|g=f	
+49	pour	pour	P	P		
+50	qu'	que	CS	CS		
+51	à	à	P	P		
+52	la	la	DET	DET	n=s|g=f	
+53	fois	fois	NC	NC	g=f	
+54	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+55	orbite	orbite	NC	NC	n=s|g=f	
+56	soit	être	VS	VS	n=s|t=S|p=3	
+57	modifiée	modifier	VPP	VPP	n=s|g=f|t=K	
+58	et	et	CC	CC		
+59	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+60	noyau	noyau	NC	NC	n=s|g=m	
+61	décomposé	décomposer	VPP	VPP	n=s|g=m|t=K	
+62	en	en	P	P		
+63	une	une	DET	DET	n=s|g=f	
+64	multitude	multitude	NC	NC	n=s|g=f	
+65	d'	de	P	P		
+66	éléments	élément	NC	NC	n=p|g=m	
+67	répartis	répartir	VPP	VPP	n=p|g=m|t=K	
+68	le	le	DET	DET	n=s|g=m	
+69	long	long	ADJ	ADJ	n=s|g=m	
+70	de	de	P	P		
+71	l'	le	DET	DET	n=s	
+72	orbite	orbite	NC	NC	n=s|g=f	
+73	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	éléments	élément	NC	NC	n=p|g=m	
+3	orbitaux	orbital	ADJ	ADJ	n=p|g=m	
+4	d'	de	P	P		
+5	une	une	DET	DET	n=s|g=f	
+6	comète	comète	NC	NC	n=s|g=f	
+7	peuvent	pouvoir	V	V	n=p|t=P|p=3	
+8	aussi	aussi	ADV	ADV		
+9	être	être	VINF	VINF	t=W	
+10	modifiés	modifier	VPP	VPP	n=p|g=m|t=K	
+11	de	de	P	P		
+12	manière	manière	NC	NC	n=s|g=f	
+13	non	non	ADV	ADV		
+14	prévisible	prévisible	ADJ	ADJ	n=s	
+15	par	par	P	P		
+16	l'	le	DET	DET	n=s	
+17	activité	activité	NC	NC	n=s|g=f	
+18	du	de	P+D	P+D	n=s|g=m	
+19	noyau	noyau	NC	NC	n=s|g=m	
+20	(	(	PONCT	PONCT		
+21	perturbations	perturbation	NC	NC	n=p|g=f	
+22	non	non	ADV	ADV		
+23	gravitationnelles	gravitationnel	ADJ	ADJ	n=p|g=f	
+24	)	)	PONCT	PONCT		
+25	.	.	PONCT	PONCT		
+
+1	Pour	pour	P	P		
+2	ces	ces	DET	DET	n=p	
+3	raisons	raison	NC	NC	n=p|g=f	
+4	les	les	DET	DET	n=p	
+5	éléments	élément	NC	NC	n=p|g=m	
+6	orbitaux	orbital	ADJ	ADJ	n=p|g=m	
+7	d'	de	P	P		
+8	une	une	DET	DET	n=s|g=f	
+9	comète	comète	NC	NC	n=s|g=f	
+10	ne	ne	ADV	ADV		
+11	sont	être	V	V	n=p|t=P|p=3	
+12	jamais	jamais	ADV	ADV		
+13	définitifs	définitif	ADJ	ADJ	n=p|g=m	
+14	et	et	CC	CC		
+15	doivent	devoir	V	V	n=p|t=P,S|p=3	
+16	être	être	VINF	VINF	t=W	
+17	recalculés	recalculer	VPP	VPP	n=p|g=m|t=K	
+18	lors	lors	ADV	ADV		
+19	de	de	P	P		
+20	chaque	chaque	DET	DET	n=s	
+21	passage	passage	NC	NC	n=s|g=m	
+22	(	(	PONCT	PONCT		
+23	dans	dans	P	P		
+24	le	le	DET	DET	n=s|g=m	
+25	cas	cas	NC	NC	g=m	
+26	des	de	P+D	P+D	n=p	
+27	comètes	comète	NC	NC	n=p|g=f	
+28	à	à	P	P		
+29	courte	court	ADJ	ADJ	n=s|g=f	
+30	période	période	NC	NC	n=s	
+31	)	)	PONCT	PONCT		
+32	.	.	PONCT	PONCT		
+
+1	Voici	voici	P	P		
+2	quelques	quelques	DET	DET	n=p	
+3	-	-	PONCT	PONCT		
+4	uns	uns	PRO	PRO	n=p|g=m	
+5	des	de	P+D	P+D	n=p	
+6	paramètres	paramètre	NC	NC	n=p|g=m	
+7	de	de	P	P		
+8	quelques	quelques	DET	DET	n=p	
+9	comètes	comète	NC	NC	n=p|g=f	
+10	connues	connaître	VPP	VPP	n=p|g=f|t=K	
+11	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	essaims	essaim	NC	NC	n=p|g=m	
+3	d'	de	P	P		
+4	étoiles	étoile	NC	NC	n=p|g=f	
+5	filantes	filant	ADJ	ADJ	n=p|g=f	
+6	(	(	PONCT	PONCT		
+7	par	par	P	P		
+8	exemple	exemple	NC	NC	n=s|g=m	
+9	:	:	PONCT	PONCT		
+10	Perséides	_	NPP	NPP		
+11	,	,	PONCT	PONCT		
+12	Orionides	_	NPP	NPP		
+13	,	,	PONCT	PONCT		
+14	Géminides	_	NPP	NPP		
+15	)	)	PONCT	PONCT		
+16	sont	être	V	V	n=p|t=P|p=3	
+17	associés	associer	VPP	VPP	n=p|g=m|t=K	
+18	à	à	P	P		
+19	des	des	DET	DET	n=p	
+20	comètes	comète	NC	NC	n=p|g=f	
+21	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	poussières	poussière	NC	NC	n=p|g=f	
+3	perdues	perdre	VPP	VPP	n=p|g=f|t=K	
+4	par	par	P	P		
+5	une	une	DET	DET	n=s|g=f	
+6	comète	comète	NC	NC	n=s|g=f	
+7	lors	lors	ADV	ADV		
+8	d'	de	P	P		
+9	un	un	DET	DET	n=s|g=m	
+10	passage	passage	NC	NC	n=s|g=m	
+11	se	se	CLR	CLR	n=p,s|p=3	
+12	répartissent	répartir	V	V	n=p|t=P,S|p=3	
+13	le	le	DET	DET	n=s|g=m	
+14	long	long	ADJ	ADJ	n=s|g=m	
+15	de	de	P	P		
+16	l'	le	DET	DET	n=s	
+17	orbite	orbite	NC	NC	n=s|g=f	
+18	de	de	P	P		
+19	celle	celle	PRO	PRO	n=s|g=f	
+20	-	-	PONCT	PONCT		
+21	ci	_	NPP	NPP		
+22	en	en	P	P		
+23	formant	former	VPR	VPR	t=G	
+24	une	une	DET	DET	n=s|g=f	
+25	sorte	sorte	NC	NC	n=s|g=f	
+26	de	de	P	P		
+27	vaste	vaste	ADJ	ADJ	n=s	
+28	nuage	nuage	NC	NC	n=s|g=m	
+29	.	.	PONCT	PONCT		
+
+1	S'	se	CLR	CLR	n=p,s|p=3	
+2	il	il	CLS	CLS	n=s|g=m|p=3	
+3	advient	advenir	V	V	n=s|t=P|p=3	
+4	que	que	CS	CS		
+5	la	la	DET	DET	n=s|g=f	
+6	Terre	_	NPP	NPP		
+7	,	,	PONCT	PONCT		
+8	dans	dans	P	P		
+9	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+10	mouvement	mouvement	NC	NC	n=s|g=m	
+11	orbital	orbital	ADJ	ADJ	n=s|g=m	
+12	annuel	annuel	ADJ	ADJ	n=s|g=m	
+13	,	,	PONCT	PONCT		
+14	traverse	traverser	V	V	n=s|t=P,S|p=1,3	
+15	un	un	DET	DET	n=s|g=m	
+16	tel	tel	ADJ	ADJ	n=s|g=m	
+17	nuage	nuage	NC	NC	n=s|g=m	
+18	,	,	PONCT	PONCT		
+19	on	on	CLS	CLS	n=s|p=3	
+20	assiste	assister	V	V	n=s|t=P,S|p=1,3	
+21	alors	alors	ADV	ADV		
+22	à	à	P	P		
+23	une	une	DET	DET	n=s|g=f	
+24	pluie	pluie	NC	NC	n=s|g=f	
+25	d'	de	P	P		
+26	étoiles	étoile	NC	NC	n=p|g=f	
+27	filantes	filant	ADJ	ADJ	n=p|g=f	
+28	plus	plus	ADV	ADV		
+29	ou	ou	CC	CC		
+30	moins	moins	ADV	ADV		
+31	dense	dense	ADJ	ADJ	n=s	
+32	suivant	suivant	P	P		
+33	l'	le	DET	DET	n=s	
+34	activité	activité	NC	NC	n=s|g=f	
+35	et	et	CC	CC		
+36	la	la	DET	DET	n=s|g=f	
+37	nature	nature	NC	NC	n=s|g=f	
+38	de	de	P	P		
+39	la	la	DET	DET	n=s|g=f	
+40	comète	comète	NC	NC	n=s|g=f	
+41	.	.	PONCT	PONCT		
+
+1	Ces	ces	DET	DET	n=p	
+2	"	"	PONCT	PONCT		
+3	étoiles	étoile	NC	NC	n=p|g=f	
+4	filantes	filant	ADJ	ADJ	n=p|g=f	
+5	"	"	PONCT	PONCT		
+6	semblent	sembler	V	V	n=p|t=P,S|p=3	
+7	provenir	provenir	VINF	VINF	t=W	
+8	d'	de	P	P		
+9	un	un	DET	DET	n=s|g=m	
+10	même	même	ADJ	ADJ	n=s	
+11	point	point	NC	NC	n=s|g=m	
+12	du	de	P+D	P+D	n=s|g=m	
+13	ciel	ciel	NC	NC	n=s|g=m	
+14	appelé	appeler	VPP	VPP	n=s|g=m|t=K	
+15	le	le	DET	DET	n=s|g=m	
+16	radiant	radiant	NC	NC	n=s|g=m	
+17	,	,	PONCT	PONCT		
+18	un	un	DET	DET	n=s|g=m	
+19	peu	peu	ADV	ADV		
+20	comme	comme	P	P		
+21	lorsqu'	lorsque	CS	CS		
+22	on	on	CLS	CLS	n=s|p=3	
+23	est	être	V	V	n=s|t=P|p=3	
+24	dans	dans	P	P		
+25	un	un	DET	DET	n=s|g=m	
+26	tunnel	tunnel	NC	NC	n=s|g=m	
+27	rectiligne	rectiligne	ADJ	ADJ	n=s	
+28	et	et	CC	CC		
+29	que	que	CS	CS		
+30	l'	le	DET	DET	n=s	
+31	on	on	CLS	CLS	n=s|p=3	
+32	a	avoir	V	V	n=s|t=P|p=3	
+33	l'	le	DET	DET	n=s	
+34	impression	impression	NC	NC	n=s|g=f	
+35	que	que	CS	CS		
+36	les	les	DET	DET	n=p	
+37	bords	bord	NC	NC	n=p|g=m	
+38	de	de	P	P		
+39	celui	celui	PRO	PRO	n=s|g=m	
+40	-	-	PONCT	PONCT		
+41	ci	_	ADV	ADV		
+42	convergent	convergent	ADJ	ADJ	n=s|g=m	
+43	vers	vers	P	P		
+44	un	un	DET	DET	n=s|g=m	
+45	même	même	ADJ	ADJ	n=s	
+46	point	point	NC	NC	n=s|g=m	
+47	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	essaim	essaim	NC	NC	n=s|g=m	
+3	est	être	V	V	n=s|t=P|p=3	
+4	nommé	nommer	VPP	VPP	n=s|g=m|t=K	
+5	d'	de	P	P		
+6	après	après	P	P		
+7	la	la	DET	DET	n=s|g=f	
+8	constellation	constellation	NC	NC	n=s|g=f	
+9	où	où	PROREL	PROREL		
+10	est	être	V	V	n=s|t=P|p=3	
+11	situé	situer	VPP	VPP	n=s|g=m|t=K	
+12	le	le	DET	DET	n=s|g=m	
+13	radiant	radiant	NC	NC	n=s|g=m	
+14	(	(	PONCT	PONCT		
+15	par	par	P	P		
+16	exemple	exemple	NC	NC	n=s|g=m	
+17	:	:	PONCT	PONCT		
+18	Persée	_	NPP	NPP		
+19	pour	pour	P	P		
+20	les	les	DET	DET	n=p	
+21	Perséides	_	NPP	NPP		
+22	,	,	PONCT	PONCT		
+23	les	les	DET	DET	n=p	
+24	Gémeaux	gémeau	NC	NC	n=p|g=m	
+25	pour	pour	P	P		
+26	les	les	DET	DET	n=p	
+27	Géminides	_	NC	NC		
+28	)	)	PONCT	PONCT		
+29	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	poussières	poussière	NC	NC	n=p|g=f	
+3	cométaires	cométaire	ADJ	ADJ	n=p	
+4	,	,	PONCT	PONCT		
+5	lorsqu'	lorsque	CS	CS		
+6	elles	elles	CLS	CLS	n=p|g=f|p=3	
+7	pénètrent	pénétrer	V	V	n=p|t=P,S|p=3	
+8	dans	dans	P	P		
+9	la	la	DET	DET	n=s|g=f	
+10	haute	haut	ADJ	ADJ	n=s|g=f	
+11	atmosphère	atmosphère	NC	NC	n=s|g=f	
+12	de	de	P	P		
+13	la	la	DET	DET	n=s|g=f	
+14	Terre	_	NPP	NPP		
+15	,	,	PONCT	PONCT		
+16	s'	se	CLR	CLR	n=p,s|p=3	
+17	échauffent	échauffer	V	V	n=p|t=P,S|p=3	
+18	et	et	CC	CC		
+19	s'	se	CLR	CLR	n=p,s|p=3	
+20	ionisent	ioniser	V	V	n=p|t=P,S|p=3	
+21	,	,	PONCT	PONCT		
+22	produisant	produire	VPR	VPR	t=G	
+23	la	la	DET	DET	n=s|g=f	
+24	traînée	traînée	NC	NC	n=s|g=f	
+25	lumineuse	lumineux	ADJ	ADJ	n=s|g=f	
+26	que	que	PROREL	PROREL		
+27	l'	le	DET	DET	n=s	
+28	on	on	CLS	CLS	n=s|p=3	
+29	connaît	connaître	V	V	n=s|t=P|p=3	
+30	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	intensité	intensité	NC	NC	n=s|g=f	
+3	d'	de	P	P		
+4	un	un	DET	DET	n=s|g=m	
+5	essaim	essaim	NC	NC	n=s|g=m	
+6	météoritique	_	NPP	NPP		
+7	est	être	V	V	n=s|t=P|p=3	
+8	variable	variable	ADJ	ADJ	n=s	
+9	et	et	CC	CC		
+10	dépend	dépendre	V	V	n=s|t=P|p=3	
+11	notamment	_	ADV	ADV		
+12	du	de	P+D	P+D	n=s|g=m	
+13	réensemencement	réensemencement	NC	NC	n=s|g=m	
+14	en	en	P	P		
+15	poussières	poussière	NC	NC	n=p|g=f	
+16	lors	lors	ADV	ADV		
+17	de	de	P	P		
+18	chaque	chaque	DET	DET	n=s	
+19	passage	passage	NC	NC	n=s|g=m	
+20	des	de	P+D	P+D	n=p	
+21	comètes	comète	NC	NC	n=p|g=f	
+22	.	.	PONCT	PONCT		
+
+1	Une	une	DET	DET	n=s|g=f	
+2	équipe	équipe	NC	NC	n=s|g=f	
+3	internationale	international	ADJ	ADJ	n=s|g=f	
+4	a	avoir	V	V	n=s|t=P|p=3	
+5	pu	pouvoir	VPP	VPP	t=K	
+6	décrypter	décrypter	VINF	VINF	t=W	
+7	,	,	PONCT	PONCT		
+8	par	par	P	P		
+9	les	les	DET	DET	n=p	
+10	données	donnée	NC	NC	n=p|g=f	
+11	du	de	P+D	P+D	n=s|g=m	
+12	télescope	télescope	NC	NC	n=s|g=m	
+13	spatial	spatial	ADJ	ADJ	n=s|g=m	
+14	Herschel	Herschel	NPP	NPP	n=s|g=m	
+15	,	,	PONCT	PONCT		
+16	que	que	CS	CS		
+17	l'	le	DET	DET	n=s	
+18	eau	eau	NC	NC	n=s|g=f	
+19	de	de	P	P		
+20	la	la	DET	DET	n=s|g=f	
+21	comète	comète	NC	NC	n=s|g=f	
+22	Hartley	Hartley	NPP	NPP	n=s	
+23	2	2	ADJ	ADJ		
+24	ressemblait	ressembler	V	V	n=s|t=I|p=3	
+25	parfaitement	_	ADV	ADV		
+26	,	,	PONCT	PONCT		
+27	au	à	P+D	P+D	n=s|g=m	
+28	niveau	niveau	NC	NC	n=s|g=m	
+29	chimique	chimique	ADJ	ADJ	n=s	
+30	,	,	PONCT	PONCT		
+31	à	à	P	P		
+32	celle	celle	PRO	PRO	n=s|g=f	
+33	des	de	P+D	P+D	n=p	
+34	océans	océan	NC	NC	n=p|g=m	
+35	de	de	P	P		
+36	la	la	DET	DET	n=s|g=f	
+37	terre	terre	NC	NC	n=s|g=f	
+38	.	.	PONCT	PONCT		
+
+1	Jusqu'	jusque	P	P		
+2	ici	ici	ADV	ADV		
+3	,	,	PONCT	PONCT		
+4	on	on	CLS	CLS	n=s|p=3	
+5	croyait	croire	V	V	n=s|t=I|p=3	
+6	que	que	CS	CS		
+7	les	les	DET	DET	n=p	
+8	astéroïdes	astéroïde	NC	NC	n=p|g=m	
+9	étaient	être	V	V	n=p|t=I|p=3	
+10	les	les	DET	DET	n=p	
+11	sources	source	NC	NC	n=p|g=f	
+12	les	les	DET	DET	n=p	
+13	plus	plus	ADV	ADV		
+14	crédibles	crédible	ADJ	ADJ	n=p	
+15	qui	qui	PROREL	PROREL	n=s	
+16	aient	avoir	VS	VS	n=p|t=S|p=3	
+17	pu	pouvoir	VPP	VPP	t=K	
+18	amener	amener	VINF	VINF	t=W	
+19	de	de	P	P		
+20	l'	le	DET	DET	n=s	
+21	eau	eau	NC	NC	n=s|g=f	
+22	sur	sur	P	P		
+23	notre	notre	DET	DET	n=s|p=1|poss=p	
+24	planète	planète	NC	NC	n=s|g=f	
+25	.	.	PONCT	PONCT		
+
+1	Lors	lors	ADV	ADV		
+2	de	de	P	P		
+3	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+4	formation	formation	NC	NC	n=s|g=f	
+5	,	,	PONCT	PONCT		
+6	la	la	DET	DET	n=s|g=f	
+7	Terre	_	NPP	NPP		
+8	était	être	V	V	n=s|t=I|p=3	
+9	très	très	ADV	ADV		
+10	chaude	chaud	ADJ	ADJ	n=s|g=f	
+11	et	et	CC	CC		
+12	ses	ses	DET	DET	n=p|p=3|poss=s	
+13	petites	petit	ADJ	ADJ	n=p|g=f	
+14	réserves	réserve	NC	NC	n=p|g=f	
+15	d'	de	P	P		
+16	eau	eau	NC	NC	n=s|g=f	
+17	se	se	CLR	CLR	n=p,s|p=3	
+18	seraient	être	V	V	n=p|t=C|p=3	
+19	évaporées	évaporer	VPP	VPP	n=p|g=f|t=K	
+20	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	eau	eau	NC	NC	n=s|g=f	
+3	que	que	PROREL	PROREL		
+4	l'	le	DET	DET	n=s	
+5	on	on	CLS	CLS	n=s|p=3	
+6	retrouve	retrouver	V	V	n=s|t=P,S|p=1,3	
+7	aujourd'hui	aujourd'hui	ADV	ADV		
+8	serait	être	V	V	n=s|t=C|p=3	
+9	présente	présent	ADJ	ADJ	n=s|g=f	
+10	grâce	grâce	NC	NC	n=s|g=f	
+11	au	à	P+D	P+D	n=s|g=m	
+12	bombardement	bombardement	NC	NC	n=s|g=m	
+13	de	de	P	P		
+14	corps	corps	NC	NC	g=m	
+15	célestes	céleste	ADJ	ADJ	n=p	
+16	,	,	PONCT	PONCT		
+17	quelques	quelques	DET	DET	n=p	
+18	dizaines	dizaine	NC	NC	n=p|g=f	
+19	de	de	P	P		
+20	millions	million	NC	NC	n=p	
+21	d'	de	P	P		
+22	années	année	NC	NC	n=p|g=f	
+23	après	après	P	P		
+24	la	la	DET	DET	n=s|g=f	
+25	naissance	naissance	NC	NC	n=s|g=f	
+26	de	de	P	P		
+27	la	la	DET	DET	n=s|g=f	
+28	Terre	_	NPP	NPP		
+29	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	plupart	plupart	NC	NC	n=s|g=f	
+3	des	de	P+D	P+D	n=p	
+4	comètes	comète	NC	NC	n=p|g=f	
+5	viennent	venir	V	V	n=p|t=P,S|p=3	
+6	du	de	P+D	P+D	n=s|g=m	
+7	nuage	nuage	NC	NC	n=s|g=m	
+8	de	de	P	P		
+9	Oort	_	NPP	NPP		
+10	autour	autour	NC	NC	n=s|g=m	
+11	du	de	P+D	P+D	n=s|g=m	
+12	Système	système	NC	NC	n=s|g=m	
+13	solaire	solaire	ADJ	ADJ	n=s	
+14	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	comètes	comète	NC	NC	n=p|g=f	
+3	de	de	P	P		
+4	ce	ce	DET	DET	n=s|g=m	
+5	secteur	secteur	NC	NC	n=s|g=m	
+6	renferment	renfermer	V	V	n=p|t=P,S|p=3	
+7	environ	environ	ADV	ADV		
+8	50	50	VPP	VPP		
+9	%	%	NC	NC	g=m	
+10	de	de	P	P		
+11	glaces	glace	NC	NC	n=p|g=f	
+12	d'	de	P	P		
+13	eau	eau	NC	NC	n=s|g=f	
+14	,	,	PONCT	PONCT		
+15	bien	bien	ADV	ADV		
+16	que	que	CS	CS		
+17	des	des	DET	DET	n=p	
+18	analyses	analyse	NC	NC	n=p|g=f	
+19	avaient	avoir	V	V	n=p|t=I|p=3	
+20	démontré	démontrer	VPP	VPP	n=s|g=m|t=K	
+21	que	que	CS	CS		
+22	cette	cette	DET	DET	n=s|g=f	
+23	eau	eau	NC	NC	n=s|g=f	
+24	contenait	contenir	V	V	n=s|t=I|p=3	
+25	beaucoup	beaucoup	ADV	ADV		
+26	plus	plus	ADV	ADV		
+27	de	de	P	P		
+28	deutérium	deutérium	NC	NC	n=s|g=m	
+29	que	que	CS	CS		
+30	celle	celle	PRO	PRO	n=s|g=f	
+31	de	de	P	P		
+32	nos	nos	DET	DET	n=p|p=1|poss=p	
+33	océans	océan	NC	NC	n=p|g=m	
+34	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	chondrites	_	NC	NC		
+3	carbonées	carboné	ADJ	ADJ	n=p|g=f	
+4	,	,	PONCT	PONCT		
+5	astéroïdes	astéroïde	NC	NC	n=p|g=m	
+6	issus	issir	VPP	VPP	n=p|g=m|t=K	
+7	de	de	P	P		
+8	la	la	DET	DET	n=s|g=f	
+9	ceinture	ceinture	NC	NC	n=s|g=f	
+10	située	situer	VPP	VPP	n=s|g=f|t=K	
+11	entre	entre	P	P		
+12	Mars	mars	NC	NC	g=m	
+13	et	et	CC	CC		
+14	Jupiter	Jupiter	NPP	NPP	n=s|g=m	
+15	,	,	PONCT	PONCT		
+16	similaire	similaire	ADJ	ADJ	n=s	
+17	à	à	P	P		
+18	notre	notre	DET	DET	n=s|p=1|poss=p	
+19	eau	eau	NC	NC	n=s|g=f	
+20	,	,	PONCT	PONCT		
+21	s'	se	CLR	CLR	n=p,s|p=3	
+22	avéraient	avérer	V	V	n=p|t=I|p=3	
+23	alors	alors	ADV	ADV		
+24	être	être	VINF	VINF	t=W	
+25	les	les	DET	DET	n=p	
+26	meilleurs	meilleur	ADJ	ADJ	n=p|g=m	
+27	candidats	candidat	NC	NC	n=p|g=m	
+28	.	.	PONCT	PONCT		
+
+1	Dorénavant	dorénavant	ADV	ADV		
+2	,	,	PONCT	PONCT		
+3	les	les	DET	DET	n=p	
+4	comètes	comète	NC	NC	n=p|g=f	
+5	de	de	P	P		
+6	type	type	NC	NC	n=s|g=m	
+7	Hartley	Hartley	NPP	NPP	n=s	
+8	2	2	NC	NC		
+9	rivalisent	rivaliser	V	V	n=p|t=P,S|p=3	
+10	avec	avec	P	P		
+11	eux	eux	PRO	PRO	n=p|g=m|p=3	
+12	,	,	PONCT	PONCT		
+13	ne	ne	ADV	ADV		
+14	provenant	provenir	VPR	VPR	t=G	
+15	pas	pas	ADV	ADV		
+16	du	de	P+D	P+D	n=s|g=m	
+17	nuage	nuage	NC	NC	n=s|g=m	
+18	de	de	P	P		
+19	Oort	_	NPP	NPP		
+20	mais	mais	CC	CC		
+21	de	de	P	P		
+22	la	la	DET	DET	n=s|g=f	
+23	ceinture	ceinture	NC	NC	n=s|g=f	
+24	de	de	P	P		
+25	Kuiper	_	NPP	NPP		
+26	[	[	PONCT	PONCT		
+27	12	12	ADJ	ADJ		
+28	]	]	PONCT	PONCT		
+29	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	postulat	postulat	NC	NC	n=s|g=m	
+3	que	que	CS	CS		
+4	l'	le	DET	DET	n=s	
+5	eau	eau	NC	NC	n=s|g=f	
+6	de	de	P	P		
+7	la	la	DET	DET	n=s|g=f	
+8	Terre	_	NPP	NPP		
+9	proviendrait	provenir	V	V	n=s|t=C|p=3	
+10	des	des	DET	DET	n=p	
+11	comètes	comète	NC	NC	n=p|g=f	
+12	était	être	V	V	n=s|t=I|p=3	
+13	déjà	déjà	ADV	ADV		
+14	celui	celui	PRO	PRO	n=s|g=m	
+15	de	de	P	P		
+16	William	William	NPP	NPP	n=s|g=m	
+17	Whiston	_	NPP	NPP		
+18	dans	dans	P	P		
+19	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+20	Nouvelle	nouveau	ADJ	ADJ	n=s|g=f	
+21	Théorie	_	NPP	NPP		
+22	de	de	P	P		
+23	la	la	DET	DET	n=s|g=f	
+24	Terre	_	NPP	NPP		
+25	,	,	PONCT	PONCT		
+26	en	en	P	P		
+27	1696	1696	NC	NC		
+28	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	comètes	comète	NC	NC	n=p|g=f	
+3	étaient	être	V	V	n=p|t=I|p=3	
+4	vues	voir	VPP	VPP	n=p|g=f|t=K	
+5	autrefois	autrefois	ADV	ADV		
+6	comme	comme	P	P		
+7	un	un	DET	DET	n=s|g=m	
+8	halo	halo	NC	NC	n=s|g=m	
+9	lumineux	lumineux	ADJ	ADJ	g=m	
+10	qui	qui	PROREL	PROREL	n=s	
+11	apparaissait	apparaître	V	V	n=s|t=I|p=3	
+12	épisodiquement	_	ADV	ADV		
+13	dans	dans	P	P		
+14	le	le	DET	DET	n=s|g=m	
+15	ciel	ciel	NC	NC	n=s|g=m	
+16	,	,	PONCT	PONCT		
+17	et	et	CC	CC		
+18	qui	qui	PROREL	PROREL	n=s	
+19	était	être	V	V	n=s|t=I|p=3	
+20	interprété	interpréter	VPP	VPP	n=s|g=m|t=K	
+21	,	,	PONCT	PONCT		
+22	selon	selon	P	P		
+23	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+24	aspect	aspect	NC	NC	n=s|g=m	
+25	et	et	CC	CC		
+26	selon	selon	P	P		
+27	le	le	DET	DET	n=s|g=m	
+28	contexte	contexte	NC	NC	n=s|g=m	
+29	historique	historique	ADJ	ADJ	n=s	
+30	,	,	PONCT	PONCT		
+31	comme	comme	P	P		
+32	un	un	DET	DET	n=s|g=m	
+33	signe	signe	NC	NC	n=s|g=m	
+34	de	de	P	P		
+35	bon	bon	ADJ	ADJ	n=s|g=m	
+36	ou	ou	CC	CC		
+37	mauvais	mauvais	ADJ	ADJ	g=m	
+38	augure	augure	NC	NC	n=s|g=m	
+39	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	1696	1696	NC	NC		
+3	encore	encore	ADV	ADV		
+4	,	,	PONCT	PONCT		
+5	William	William	NPP	NPP	n=s|g=m	
+6	Whiston	_	NPP	NPP		
+7	dans	dans	P	P		
+8	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+9	Nouvelle	nouveau	ADJ	ADJ	n=s|g=f	
+10	Théorie	_	NPP	NPP		
+11	de	de	P	P		
+12	la	la	DET	DET	n=s|g=f	
+13	Terre	_	NPP	NPP		
+14	,	,	PONCT	PONCT		
+15	avance	avancer	V	V	n=s|t=P,S|p=1,3	
+16	que	que	CS	CS		
+17	la	la	DET	DET	n=s|g=f	
+18	comète	comète	NC	NC	n=s|g=f	
+19	de	de	P	P		
+20	1680	1680	NC	NC		
+21	est	être	V	V	n=s|t=P|p=3	
+22	celle	celle	PRO	PRO	n=s|g=f	
+23	qui	qui	PROREL	PROREL	n=s	
+24	provoqua	provoquer	V	V	n=s|t=J|p=3	
+25	le	le	DET	DET	n=s|g=m	
+26	Déluge	_	NPP	NPP		
+27	lors	lors	ADV	ADV		
+28	d'	de	P	P		
+29	un	un	DET	DET	n=s|g=m	
+30	passage	passage	NC	NC	n=s|g=m	
+31	juste	juste	ADJ	ADJ	n=s	
+32	au	à	P+D	P+D	n=s|g=m	
+33	-	-	PONCT	PONCT		
+34	dessus	dessus	P	P		
+35	de	de	P	P		
+36	la	la	DET	DET	n=s|g=f	
+37	Terre	_	NPP	NPP		
+38	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	soutient	soutenir	V	V	n=s|t=P|p=3	
+3	que	que	CS	CS		
+4	les	les	DET	DET	n=p	
+5	comètes	comète	NC	NC	n=p|g=f	
+6	sont	être	V	V	n=p|t=P|p=3	
+7	responsables	responsable	ADJ	ADJ	n=p	
+8	des	de	P+D	P+D	n=p	
+9	catastrophes	catastrophe	NC	NC	n=p|g=f	
+10	qu'	que	PROREL	PROREL		
+11	a	avoir	V	V	n=s|t=P|p=3	
+12	connues	connaître	VPP	VPP	n=p|g=f|t=K	
+13	la	la	DET	DET	n=s|g=f	
+14	Terre	_	NPP	NPP		
+15	tout	tout	ADJ	ADJ	n=s|g=m	
+16	au	à	P+D	P+D	n=s|g=m	
+17	long	long	ADJ	ADJ	n=s|g=m	
+18	de	de	P	P		
+19	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+20	histoire	histoire	NC	NC	n=s|g=f	
+21	,	,	PONCT	PONCT		
+22	et	et	CC	CC		
+23	qu'	que	CS	CS		
+24	elles	elles	CLS	CLS	n=p|g=f|p=3	
+25	sont	être	V	V	n=p|t=P|p=3	
+26	guidées	guider	VPP	VPP	n=p|g=f|t=K	
+27	par	par	P	P		
+28	la	la	DET	DET	n=s|g=f	
+29	volonté	volonté	NC	NC	n=s|g=f	
+30	divine	divin	ADJ	ADJ	n=s|g=f	
+31	:	:	PONCT	PONCT		
+32	"	"	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	Terre	_	NPP	NPP		
+3	selon	selon	P	P		
+4	lui	lui	CLO	CLO	n=s|p=3	
+5	existait	exister	V	V	n=s|t=I|p=3	
+6	dans	dans	P	P		
+7	le	le	DET	DET	n=s|g=m	
+8	chaos	chaos	NC	NC	g=m	
+9	avant	avant	P	P		
+10	la	la	DET	DET	n=s|g=f	
+11	création	création	NC	NC	n=s|g=f	
+12	dont	dont	PROREL	PROREL		
+13	parle	parler	V	V	n=s|t=P,S|p=1,3	
+14	Moïse	_	NPP	NPP		
+15	et	et	CC	CC		
+16	cette	cette	DET	DET	n=s|g=f	
+17	création	création	NC	NC	n=s|g=f	
+18	n'	ne	ADV	ADV		
+19	eut	avoir	V	V	n=s|t=J|p=3	
+20	d'	de	DET	DET	n=p	
+21	autre	autre	ADJ	ADJ	n=s	
+22	effet	effet	NC	NC	n=s|g=m	
+23	que	que	CS	CS		
+24	de	de	P	P		
+25	lui	lui	CLO	CLO	n=s|p=3	
+26	donner	donner	VINF	VINF	t=W	
+27	une	une	DET	DET	n=s|g=f	
+28	forme	forme	NC	NC	n=s|g=f	
+29	et	et	CC	CC		
+30	une	une	DET	DET	n=s|g=f	
+31	consistance	consistance	NC	NC	n=s|g=f	
+32	propres	propre	ADJ	ADJ	n=p	
+33	à	à	P	P		
+34	la	la	CLO	CLO	n=s|g=f|p=3	
+35	mettre	mettre	VINF	VINF	t=W	
+36	en	en	P	P		
+37	état	état	NC	NC	n=s|g=m	
+38	de	de	P	P		
+39	servir	servir	VINF	VINF	t=W	
+40	d'	de	P	P		
+41	habitation	habitation	NC	NC	n=s|g=f	
+42	au	à	P+D	P+D	n=s|g=m	
+43	genre	genre	NC	NC	n=s|g=m	
+44	humain	humain	ADJ	ADJ	n=s|g=m	
+45	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	Terre	terre	NC	NC	n=s|g=f	
+3	dit	dire	V	V	n=s|t=J,P|p=3	
+4	cet	cet	DET	DET	n=s|g=m	
+5	auteur	auteur	NC	NC	n=s|g=m	
+6	devenue	devenir	VPP	VPP	n=s|g=f|t=K	
+7	fertile	fertile	ADJ	ADJ	n=s	
+8	et	et	CC	CC		
+9	peuplée	peupler	VPP	VPP	n=s|g=f|t=K	
+10	au	à	P+D	P+D	n=s|g=m	
+11	temps	temps	NC	NC	g=m	
+12	de	de	P	P		
+13	la	la	DET	DET	n=s|g=f	
+14	création	création	NC	NC	n=s|g=f	
+15	conserva	conserver	V	V	n=s|t=J|p=3	
+16	cette	cette	DET	DET	n=s|g=f	
+17	forme	forme	NC	NC	n=s|g=f	
+18	et	et	CC	CC		
+19	cette	cette	DET	DET	n=s|g=f	
+20	consistance	consistance	NC	NC	n=s|g=f	
+21	jusqu'	jusque	P	P		
+22	au	à	P+D	P+D	n=s|g=m	
+23	dix	dix	ADJ	ADJ	s=card|n=p	
+24	-	-	PONCT	PONCT		
+25	huitième	huitième	ADJ	ADJ	n=s	
+26	jour	jour	NC	NC	n=s|g=m	
+27	de	de	P	P		
+28	novembre	novembre	NC	NC	n=s|g=m	
+29	de	de	P	P		
+30	l'	le	DET	DET	n=s	
+31	année	année	NC	NC	n=s|g=f	
+32	2565	2565	ADJ	ADJ		
+33	avant	avant	P	P		
+34	la	la	DET	DET	n=s|g=f	
+35	période	période	NC	NC	n=s	
+36	julienne	julien	ADJ	ADJ	n=s|g=f	
+37	où	où	PROREL	PROREL		
+38	elle	elle	CLS	CLS	n=s|g=f|p=3	
+39	eut	avoir	V	V	n=s|t=J|p=3	
+40	le	le	DET	DET	n=s|g=m	
+41	malheur	malheur	NC	NC	n=s|g=m	
+42	de	de	P	P		
+43	rencontrer	rencontrer	VINF	VINF	t=W	
+44	et	et	CC	CC		
+45	de	de	P	P		
+46	traverser	traverser	VINF	VINF	t=W	
+47	l'	le	DET	DET	n=s	
+48	atmosphère	atmosphère	NC	NC	n=s|g=f	
+49	d'	de	P	P		
+50	une	une	DET	DET	n=s|g=f	
+51	grande	grand	ADJ	ADJ	n=s|g=f	
+52	comète	comète	NC	NC	n=s|g=f	
+53	dont	dont	PROREL	PROREL		
+54	la	la	DET	DET	n=s|g=f	
+55	queue	queue	NC	NC	n=s|g=f	
+56	l'	le	CLO	CLO	n=s|p=3	
+57	inonda	inonder	V	V	n=s|t=J|p=3	
+58	d'	de	P	P		
+59	un	un	DET	DET	n=s|g=m	
+60	immense	immense	ADJ	ADJ	n=s	
+61	volume	volume	NC	NC	n=s|g=m	
+62	d'	de	P	P		
+63	eau	eau	NC	NC	n=s|g=f	
+64	ce	ce	PRO	PRO	n=s	
+65	qui	qui	PROREL	PROREL	n=s	
+66	produisit	produire	V	V	n=s|t=J|p=3	
+67	le	le	DET	DET	n=s|g=m	
+68	mémorable	mémorable	ADJ	ADJ	n=s	
+69	fléau	fléau	NC	NC	n=s|g=m	
+70	du	de	P+D	P+D	n=s|g=m	
+71	déluge	déluge	NC	NC	n=s|g=m	
+72	universel	universel	ADJ	ADJ	n=s|g=m	
+73	rapporté	rapporter	VPP	VPP	n=s|g=m|t=K	
+74	dans	dans	P	P		
+75	l'	le	DET	DET	n=s	
+76	écriture	écriture	NC	NC	n=s|g=f	
+77	,	,	PONCT	PONCT		
+78	fléau	fléau	NC	NC	n=s|g=m	
+79	d'	de	P	P		
+80	où	où	PROREL	PROREL		
+81	sont	être	V	V	n=p|t=P|p=3	
+82	nés	naître	VPP	VPP	n=p|g=m|t=K	
+83	tous	tout	ADJ	ADJ	n=p|g=m	
+84	les	les	DET	DET	n=p	
+85	ravages	ravage	NC	NC	n=p|g=m	
+86	toutes	tout	ADJ	ADJ	n=p|g=f	
+87	les	les	DET	DET	n=p	
+88	altérations	altération	NC	NC	n=p|g=f	
+89	tous	tout	ADJ	ADJ	n=p|g=m	
+90	les	les	DET	DET	n=p	
+91	phénomènes	phénomène	NC	NC	n=p|g=m	
+92	physiques	physique	ADJ	ADJ	n=p	
+93	qu'	que	PROREL	PROREL		
+94	on	on	CLS	CLS	n=s|p=3	
+95	observe	observer	V	V	n=s|t=P,S|p=1,3	
+96	à	à	P	P		
+97	la	la	DET	DET	n=s|g=f	
+98	surface	surface	NC	NC	n=s|g=f	
+99	et	et	CC	CC		
+100	dans	dans	P	P		
+101	intérieur	intérieur	NC	NC	n=s|g=m	
+102	de	de	P	P		
+103	ce	ce	DET	DET	n=s|g=m	
+104	globe	globe	NC	NC	n=s|g=m	
+105	[	[	PONCT	PONCT		
+106	13	13	ADJ	ADJ		
+107	]	]	PONCT	PONCT		
+108	.	.	PONCT	PONCT		
+109	"	"	PONCT	PONCT		
+
+1	Dans	dans	P	P		
+2	l'	le	DET	DET	n=s	
+3	Antiquité	_	NPP	NPP		
+4	,	,	PONCT	PONCT		
+5	les	les	DET	DET	n=p	
+6	premières	premier	ADJ	ADJ	n=p|g=f	
+7	traces	trace	NC	NC	n=p|g=f	
+8	écrites	écrire	VPP	VPP	n=p|g=f|t=K	
+9	d'	de	P	P		
+10	observations	observation	NC	NC	n=p|g=f	
+11	de	de	P	P		
+12	comètes	comète	NC	NC	n=p|g=f	
+13	figurent	figurer	V	V	n=p|t=P,S|p=3	
+14	dans	dans	P	P		
+15	des	des	DET	DET	n=p	
+16	annales	annale	NC	NC	n=p|g=f	
+17	chinoises	chinois	ADJ	ADJ	n=p|g=f	
+18	(	(	PONCT	PONCT		
+19	à	à	P	P		
+20	l'	le	DET	DET	n=s	
+21	époque	époque	NC	NC	n=s|g=f	
+22	ces	ces	DET	DET	n=p	
+23	chroniques	chronique	NC	NC	n=p|g=f	
+24	sont	être	V	V	n=p|t=P|p=3	
+25	essentiellement	_	ADV	ADV		
+26	de	de	P	P		
+27	la	la	DET	DET	n=s|g=f	
+28	scapulomancie	_	NC	NC		
+29	gravée	graver	ADJ	ADJ	n=s|g=f|t=K	
+30	sur	sur	P	P		
+31	carapace	carapace	NC	NC	n=s|g=f	
+32	de	de	P	P		
+33	tortues	tortue	NC	NC	n=p|g=f	
+34	ou	ou	CC	CC		
+35	omoplates	omoplate	NC	NC	n=p|g=f	
+36	d'	de	P	P		
+37	animaux	animal	NC	NC	n=p|g=m	
+38	)	)	PONCT	PONCT		
+39	de	de	P	P		
+40	la	la	DET	DET	n=s|g=f	
+41	dynastie	dynastie	NC	NC	n=s|g=f	
+42	Shang	_	NPP	NPP		
+43	datant	dater	VPR	VPR	t=G	
+44	de	de	P	P		
+45	1059	1059	NC	NC		
+46	av	_	NPP	NPP		
+47	.	.	PONCT	PONCT		
+
+1	J	_	NPP	NPP		
+2	.	.	PONCT	PONCT		
+3	-	-	PONCT	PONCT		
+4	C	femelle	ADJ	ADJ		
+5	.	.	PONCT	PONCT		
+6	(	(	PONCT	PONCT		
+7	le	le	DET	DET	n=s|g=m	
+8	plus	plus	ADV	ADV		
+9	ancien	ancien	ADJ	ADJ	n=s|g=m	
+10	passage	passage	NC	NC	n=s|g=m	
+11	attesté	attester	VPP	VPP	n=s|g=m|t=K	
+12	de	de	P	P		
+13	la	la	DET	DET	n=s|g=f	
+14	comète	comète	NC	NC	n=s|g=f	
+15	de	de	P	P		
+16	Halley	_	NPP	NPP		
+17	remontant	remonter	VPR	VPR	t=G	
+18	à	à	P	P		
+19	l'	le	DET	DET	n=s	
+20	an	an	NC	NC	n=s|g=m	
+21	240	240	ADJ	ADJ		
+22	av	_	NPP	NPP		
+23	.	.	PONCT	PONCT		
+
+1	J	_	NPP	NPP		
+2	.	.	PONCT	PONCT		
+3	-	-	PONCT	PONCT		
+4	C	femelle	ADJ	ADJ		
+5	.	.	PONCT	PONCT		
+6	est	être	V	V	n=s|t=P|p=3	
+7	consigné	consigner	VPP	VPP	n=s|g=m|t=K	
+8	dans	dans	P	P		
+9	ces	ces	DET	DET	n=p	
+10	archives	archive	NC	NC	n=p|g=f	
+11	chinoises	chinois	ADJ	ADJ	n=p|g=f	
+12	[	[	PONCT	PONCT		
+13	14	14	ADJ	ADJ		
+14	]	]	PONCT	PONCT		
+15	)	)	PONCT	PONCT		
+16	,	,	PONCT	PONCT		
+17	mais	mais	CC	CC		
+18	aussi	aussi	ADV	ADV		
+19	à	à	P	P		
+20	la	la	DET	DET	n=s|g=f	
+21	même	même	ADJ	ADJ	n=s	
+22	époque	époque	NC	NC	n=s|g=f	
+23	sur	sur	P	P		
+24	des	des	DET	DET	n=p	
+25	tablettes	tablette	NC	NC	n=p|g=f	
+26	en	en	P	P		
+27	écriture	écriture	NC	NC	n=s|g=f	
+28	cunéiforme	cunéiforme	ADJ	ADJ	n=s	
+29	chaldéennes	chaldéen	ADJ	ADJ	n=p|g=f	
+30	[	[	PONCT	PONCT		
+31	15	15	ADJ	ADJ		
+32	]	]	PONCT	PONCT		
+33	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	plus	plus	ADV	ADV		
+3	ancien	ancien	ADJ	ADJ	n=s|g=m	
+4	dessin	dessin	NC	NC	n=s|g=m	
+5	date	date	NC	NC	n=s|g=f	
+6	du	de	P+D	P+D	n=s|g=m	
+7	IVe	_	ADJ	ADJ		
+8	siècle	siècle	NC	NC	n=s|g=m	
+9	av	_	ADV	ADV		
+10	.	.	PONCT	PONCT		
+
+1	J	_	NPP	NPP		
+2	.	.	PONCT	PONCT		
+3	-	-	PONCT	PONCT		
+4	C	femelle	ADJ	ADJ		
+5	.	.	PONCT	PONCT		
+6	:	:	PONCT	PONCT		
+7	sur	sur	P	P		
+8	un	un	DET	DET	n=s|g=m	
+9	livre	livre	NC	NC	n=s	
+10	de	de	P	P		
+11	soie	soie	NC	NC	n=s|g=f	
+12	découvert	découvrir	VPP	VPP	n=s|g=m|t=K	
+13	en	en	P	P		
+14	1974	1974	NC	NC		
+15	dans	dans	P	P		
+16	la	la	DET	DET	n=s|g=f	
+17	tombe	tombe	NC	NC	n=s|g=f	
+18	du	de	P+D	P+D	n=s|g=m	
+19	marquis	marquis	NC	NC	n=p,s|g=m	
+20	de	de	P	P		
+21	Dai	Dai	NPP	NPP	n=s|g=m	
+22	en	en	P	P		
+23	Chine	Chine	NPP	NPP	n=s|g=f	
+24	,	,	PONCT	PONCT		
+25	sont	être	V	V	n=p|t=P|p=3	
+26	représentés	représenter	VPP	VPP	n=p|g=m|t=K	
+27	vingt-neuf	vingt-neuf	ADJ	ADJ		
+28	types	type	NC	NC	n=p|g=m	
+29	de	de	P	P		
+30	comètes	comète	NC	NC	n=p|g=f	
+31	[	[	PONCT	PONCT		
+32	16	16	NC	NC		
+33	]	]	PONCT	PONCT		
+34	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	premières	premier	ADJ	ADJ	n=p|g=f	
+3	interprétations	interprétation	NC	NC	n=p|g=f	
+4	sur	sur	P	P		
+5	la	la	DET	DET	n=s|g=f	
+6	nature	nature	NC	NC	n=s|g=f	
+7	des	de	P+D	P+D	n=p	
+8	comètes	comète	NC	NC	n=p|g=f	
+9	viennent	venir	V	V	n=p|t=P,S|p=3	
+10	de	de	P	P		
+11	la	la	DET	DET	n=s|g=f	
+12	philosophie	philosophie	NC	NC	n=s|g=f	
+13	naturelle	naturel	ADJ	ADJ	n=s|g=f	
+14	grecque	grec	ADJ	ADJ	n=s|g=f	
+15	.	.	PONCT	PONCT		
+
+1	Aristote	_	NPP	NPP		
+2	,	,	PONCT	PONCT		
+3	dans	dans	P	P		
+4	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+5	traité	traité	NC	NC	n=s|g=m	
+6	Du	_	ADJ	ADJ		
+7	ciel	ciel	NC	NC	n=s|g=m	
+8	,	,	PONCT	PONCT		
+9	divise	diviser	V	V	n=s|t=P,S|p=1,3	
+10	le	le	DET	DET	n=s|g=m	
+11	cosmos	cosmos	NC	NC	g=m	
+12	en	en	P	P		
+13	monde	monde	NC	NC	n=s|g=m	
+14	céleste	céleste	ADJ	ADJ	n=s	
+15	,	,	PONCT	PONCT		
+16	composé	composer	VPP	VPP	n=s|g=m|t=K	
+17	d'	de	P	P		
+18	éléments	élément	NC	NC	n=p|g=m	
+19	sphériques	sphérique	ADJ	ADJ	n=p	
+20	parfaits	parfait	ADJ	ADJ	n=p|g=m	
+21	et	et	CC	CC		
+22	monde	monde	NC	NC	n=s|g=m	
+23	sublunaire	_	ADJ	ADJ		
+24	avec	avec	P	P		
+25	ses	ses	DET	DET	n=p|p=3|poss=s	
+26	objets	objet	NC	NC	n=p|g=m	
+27	imparfaits	imparfait	ADJ	ADJ	n=p|g=m	
+28	.	.	PONCT	PONCT		
+
+1	Dans	dans	P	P		
+2	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+3	traité	traité	NC	NC	n=s|g=m	
+4	Meteorologia	_	NPP	NPP		
+5	,	,	PONCT	PONCT		
+6	Aristote	_	NPP	NPP		
+7	classe	classer	V	V	n=s|t=P,S|p=1,3	
+8	les	les	DET	DET	n=p	
+9	comètes	comète	NC	NC	n=p|g=f	
+10	dans	dans	P	P		
+11	le	le	DET	DET	n=s|g=m	
+12	monde	monde	NC	NC	n=s|g=m	
+13	sublunaire	_	ADJ	ADJ		
+14	:	:	PONCT	PONCT		
+15	elles	elles	CLS	CLS	n=p|g=f|p=3	
+16	sont	être	V	V	n=p|t=P|p=3	
+17	selon	selon	P	P		
+18	lui	lui	PRO	PRO	n=s|g=m|p=3	
+19	des	de	P+D	P+D	n=p	
+20	phénomènes	phénomène	NC	NC	n=p|g=m	
+21	atmosphériques	atmosphérique	ADJ	ADJ	n=p	
+22	de	de	P	P		
+23	la	la	DET	DET	n=s|g=f	
+24	sphère	sphère	NC	NC	n=s|g=f	
+25	de	de	P	P		
+26	l'	le	DET	DET	n=s	
+27	air	air	NC	NC	n=s|g=m	
+28	remontant	remonter	VPR	VPR	t=G	
+29	dans	dans	P	P		
+30	la	la	DET	DET	n=s|g=f	
+31	sphère	sphère	NC	NC	n=s|g=f	
+32	du	de	P+D	P+D	n=s|g=m	
+33	feu	feu	NC	NC	n=s|g=m	
+34	.	.	PONCT	PONCT		
+
+1	Au	à	P+D	P+D	n=s|g=m	
+2	contraire	contraire	NC	NC	n=s|g=m	
+3	,	,	PONCT	PONCT		
+4	les	les	DET	DET	n=p	
+5	pythagoriciens	_	NC	NC		
+6	considèrent	considérer	V	V	n=p|t=P,S|p=3	
+7	qu'	que	CS	CS		
+8	il	il	CLS	CLS	n=s|g=m|p=3	
+9	s'	se	CLR	CLR	n=p,s|p=3	
+10	agit	agir	V	V	n=s|t=J,P|p=3	
+11	de	de	P	P		
+12	planètes	planète	NC	NC	n=p|g=f	
+13	rarement	_	ADV	ADV		
+14	observables	observable	ADJ	ADJ	n=p	
+15	.	.	PONCT	PONCT		
+
+1	Diodore	Diodore	NPP	NPP	n=s|g=m	
+2	de	de	P	P		
+3	Sicile	_	NPP	NPP		
+4	y	y	CLO	CLO		
+5	voit	voir	V	V	n=s|t=P|p=3	
+6	des	des	DET	DET	n=p	
+7	poutres	poutre	NC	NC	n=p|g=f	
+8	enflammées	enflammer	VPP	VPP	n=p|g=f|t=K	
+9	alimentant	alimenter	VPR	VPR	t=G	
+10	le	le	DET	DET	n=s|g=m	
+11	soleil	soleil	NC	NC	n=s|g=m	
+12	[	[	PONCT	PONCT		
+13	17	17	NC	NC		
+14	]	]	PONCT	PONCT		
+15	.	.	PONCT	PONCT		
+
+1	Chez	chez	P	P		
+2	les	les	DET	DET	n=p	
+3	Romains	_	NPP	NPP		
+4	,	,	PONCT	PONCT		
+5	Sénèque	_	NPP	NPP		
+6	reprend	reprendre	V	V	n=s|t=P|p=3	
+7	la	la	DET	DET	n=s|g=f	
+8	théorie	théorie	NC	NC	n=s|g=f	
+9	d'	de	P	P		
+10	Apollonios	Apollonios	NPP	NPP	n=s|g=m	
+11	de	de	P	P		
+12	Myndos	_	NPP	NPP		
+13	[	[	PONCT	PONCT		
+14	18	18	ADJ	ADJ		
+15	]	]	PONCT	PONCT		
+16	selon	selon	P	P		
+17	laquelle	lequel	PROREL	PROREL	n=s|g=f	
+18	les	les	DET	DET	n=p	
+19	comètes	comète	NC	NC	n=p|g=f	
+20	sont	être	V	V	n=p|t=P|p=3	
+21	des	des	DET	DET	n=p	
+22	astres	astre	NC	NC	n=p|g=m	
+23	errants	errant	ADJ	ADJ	n=p|g=m	
+24	revenant	revenir	VPR	VPR	t=G	
+25	à	à	P	P		
+26	des	des	DET	DET	n=p	
+27	périodes	période	NC	NC	n=p	
+28	trop	trop	ADV	ADV		
+29	longues	long	ADJ	ADJ	n=p|g=f	
+30	à	à	P	P		
+31	l'	le	DET	DET	n=s	
+32	échelle	échelle	NC	NC	n=s|g=f	
+33	d'	de	P	P		
+34	une	une	DET	DET	n=s|g=f	
+35	vie	vie	NC	NC	n=s|g=f	
+36	humaine	humain	ADJ	ADJ	n=s|g=f	
+37	[	[	PONCT	PONCT		
+38	19	19	NC	NC		
+39	]	]	PONCT	PONCT		
+40	.	.	PONCT	PONCT		
+
+1	Malgré	malgré	P	P		
+2	ces	ces	DET	DET	n=p	
+3	interprétations	interprétation	NC	NC	n=p|g=f	
+4	de	de	P	P		
+5	savants	savant	NC	NC	n=p|g=m	
+6	et	et	CC	CC		
+7	de	de	P	P		
+8	philosophes	philosophe	NC	NC	n=p	
+9	,	,	PONCT	PONCT		
+10	la	la	DET	DET	n=s|g=f	
+11	croyance	croyance	NC	NC	n=s|g=f	
+12	populaire	populaire	ADJ	ADJ	n=s	
+13	en	en	P	P		
+14	fait	fait	NC	NC	n=s|g=m	
+15	à	à	P	P		
+16	cette	cette	DET	DET	n=s|g=f	
+17	époque	époque	NC	NC	n=s|g=f	
+18	(	(	PONCT	PONCT		
+19	et	et	CC	CC		
+20	jusqu'	jusque	P	P		
+21	au	à	P+D	P+D	n=s|g=m	
+22	XXe	_	ADJ	ADJ		
+23	siècle	siècle	NC	NC	n=s|g=m	
+24	)	)	PONCT	PONCT		
+25	des	des	DET	DET	n=p	
+26	signes	signe	NC	NC	n=p|g=m	
+27	annonciateurs	annonciateur	ADJ	ADJ	n=p|g=m	
+28	,	,	PONCT	PONCT		
+29	le	le	DET	DET	n=s|g=m	
+30	plus	plus	ADV	ADV		
+31	souvent	souvent	ADV	ADV		
+32	de	de	P	P		
+33	mauvais	mauvais	ADJ	ADJ	g=m	
+34	augure	augure	NC	NC	n=s|g=m	
+35	,	,	PONCT	PONCT		
+36	plus	plus	ADV	ADV		
+37	rarement	_	ADV	ADV		
+38	propitiatoires	propitiatoire	NC	NC	n=p|g=m	
+39	:	:	PONCT	PONCT		
+40	ainsi	ainsi	ADV	ADV		
+41	les	les	DET	DET	n=p	
+42	Chaldéens	_	NPP	NPP		
+43	et	et	CC	CC		
+44	les	les	DET	DET	n=p	
+45	Mésopotamiens	mésopotamien	NC	NC	n=p|g=m	
+46	leur	leur	CLO	CLO	n=p|p=3	
+47	offrent	offrir	V	V	n=p|t=P,S|p=3	
+48	de	de	P	P		
+49	l'	le	DET	DET	n=s	
+50	encens	encens	NC	NC	g=m	
+51	pour	pour	P	P		
+52	infléchir	infléchir	VINF	VINF	t=W	
+53	le	le	DET	DET	n=s|g=m	
+54	funeste	funeste	ADJ	ADJ	n=s	
+55	présage	présage	NC	NC	n=s|g=m	
+56	;	;	PONCT	PONCT		
+57	certaines	certain	DET	DET	n=p|g=f	
+58	femmes	femme	NC	NC	n=p|g=f	
+59	grecques	grec	ADJ	ADJ	n=p|g=f	
+60	et	et	CC	CC		
+61	romaines	romaine	NC	NC	n=p|g=f	
+62	en	en	P	P		
+63	deuil	deuil	NC	NC	n=s|g=m	
+64	délient	délier	V	V	n=p|t=P,S|p=3	
+65	leurs	leurs	DET	DET	n=p|p=3|poss=p	
+66	cheveux	cheveu	NC	NC	n=p|g=m	
+67	pour	pour	P	P		
+68	manifester	manifester	VINF	VINF	t=W	
+69	leur	leur	DET	DET	n=s|p=3|poss=p	
+70	chagrin	chagrin	ADJ	ADJ	n=s|g=m	
+71	;	;	PONCT	PONCT		
+72	certains	certain	DET	DET	n=p|g=m	
+73	astrologues	astrologue	NC	NC	n=p	
+74	égyptiens	égyptien	ADJ	ADJ	n=p|g=m	
+75	pensent	penser	V	V	n=p|t=P,S|p=3	
+76	que	que	CS	CS		
+77	sacrifices	sacrifice	NC	NC	n=p|g=m	
+78	et	et	CC	CC		
+79	prières	prière	NC	NC	n=p|g=f	
+80	ne	ne	ADV	ADV		
+81	peuvent	pouvoir	V	V	n=p|t=P|p=3	
+82	conjurer	conjurer	VINF	VINF	t=W	
+83	leur	leur	DET	DET	n=s|p=3|poss=p	
+84	pouvoir	pouvoir	NC	NC	n=s|g=m	
+85	annonciateur	annonciateur	ADJ	ADJ	n=s|g=m	
+86	;	;	PONCT	PONCT		
+87	les	les	DET	DET	n=p	
+88	astrologues	astrologue	NC	NC	n=p	
+89	au	à	P+D	P+D	n=s|g=m	
+90	Moyen	Moyen	NPP	NPP	n=s|g=m	
+91	Âge	_	ADV	ADV		
+92	les	les	CLO	CLO	n=p|p=3	
+93	associent	associer	V	V	n=p|t=P,S|p=3	
+94	à	à	P	P		
+95	des	des	DET	DET	n=p	
+96	morts	mort	NC	NC	n=p|g=f,m	
+97	illustres	illustre	ADJ	ADJ	n=p	
+98	:	:	PONCT	PONCT		
+99	comète	comète	NC	NC	n=s|g=f	
+100	de	de	P	P		
+101	451	451	NC	NC		
+102	pour	pour	P	P		
+103	la	la	DET	DET	n=s|g=f	
+104	mort	mort	NC	NC	n=s|g=f,m	
+105	d'	de	P	P		
+106	Attila	Attila	NPP	NPP	n=s|g=m	
+107	,	,	PONCT	PONCT		
+108	de	de	P	P		
+109	632	632	NC	NC		
+110	pour	pour	P	P		
+111	Mahomet	Mahomet	NPP	NPP	n=s|g=m	
+112	,	,	PONCT	PONCT		
+113	de	de	P	P		
+114	1223	1223	NC	NC		
+115	pour	pour	P	P		
+116	Philippe	Philippe	NPP	NPP	n=s|g=m	
+117	-	-	PONCT	PONCT		
+118	Auguste	_	NPP	NPP		
+119	,	,	PONCT	PONCT		
+120	comète	comète	NC	NC	n=s|g=f	
+121	de	de	P	P		
+122	Halley	_	NPP	NPP		
+123	pour	pour	P	P		
+124	Henri	Henri	NPP	NPP	n=s|g=m	
+125	IV	_	NPP	NPP		
+126	,	,	PONCT	PONCT		
+127	etc	_	NPP	NPP		
+128	.	.	PONCT	PONCT		
+
+1	Outre	outre	P	P		
+2	ces	ces	DET	DET	n=p	
+3	présages	présage	NC	NC	n=p|g=m	
+4	funestes	funeste	ADJ	ADJ	n=p	
+5	,	,	PONCT	PONCT		
+6	elles	elles	CLS	CLS	n=p|g=f|p=3	
+7	sont	être	V	V	n=p|t=P|p=3	
+8	également	_	ADV	ADV		
+9	associées	associer	VPP	VPP	n=p|g=f|t=K	
+10	à	à	P	P		
+11	des	des	DET	DET	n=p	
+12	batailles	bataille	NC	NC	n=p|g=f	
+13	(	(	PONCT	PONCT		
+14	bon	bon	ADJ	ADJ	n=s|g=m	
+15	augure	augure	NC	NC	n=s|g=m	
+16	pour	pour	P	P		
+17	les	les	DET	DET	n=p	
+18	Normands	normand	NC	NC	n=p|g=m	
+19	,	,	PONCT	PONCT		
+20	mauvais	mauvais	ADJ	ADJ	g=m	
+21	pour	pour	P	P		
+22	les	les	DET	DET	n=p	
+23	Anglo	_	NPP	NPP		
+24	-	-	PONCT	PONCT		
+25	saxons	saxon	NC	NC	n=p|g=m	
+26	lors	lors	ADV	ADV		
+27	de	de	P	P		
+28	la	la	DET	DET	n=s|g=f	
+29	Bataille	bataille	NC	NC	n=s|g=f	
+30	d'	de	P	P		
+31	Hastings	_	NPP	NPP		
+32	)	)	PONCT	PONCT		
+33	[	[	PONCT	PONCT		
+34	20	20	NC	NC		
+35	]	]	PONCT	PONCT		
+36	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	1472	1472	NC	NC		
+3	,	,	PONCT	PONCT		
+4	l'	le	DET	DET	n=s	
+5	astronome	astronome	NC	NC	n=s	
+6	Johann	Johann	NPP	NPP	n=s|g=m	
+7	Müller	_	NPP	NPP		
+8	observe	observer	V	V	n=s|t=P,S|p=1,3	
+9	une	une	DET	DET	n=s|g=f	
+10	comète	comète	NC	NC	n=s|g=f	
+11	à	à	P	P		
+12	Nuremberg	_	NPP	NPP		
+13	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	fonde	_	V	V		
+3	la	la	DET	DET	n=s|g=f	
+4	cométographie	_	NC	NC		
+5	[	[	PONCT	PONCT		
+6	21	21	ADJ	ADJ		
+7	]	]	PONCT	PONCT		
+8	.	.	PONCT	PONCT		
+
+1	Paolo	Paolo	NPP	NPP	n=s|g=m	
+2	Toscanelli	_	NPP	NPP		
+3	observe	observer	V	V	n=s|t=P,S|p=1,3	
+4	les	les	DET	DET	n=p	
+5	comètes	comète	NC	NC	n=p|g=f	
+6	de	de	P	P		
+7	1433	1433	NC	NC		
+8	,	,	PONCT	PONCT		
+9	1449	1449	ADJ	ADJ		
+10	,	,	PONCT	PONCT		
+11	1456	1456	ADJ	ADJ		
+12	et	et	CC	CC		
+13	calcule	calculer	V	V	n=s|t=P,S|p=1,3	
+14	leur	leur	DET	DET	n=s|p=3|poss=p	
+15	position	position	NC	NC	n=s|g=f	
+16	.	.	PONCT	PONCT		
+
+1	Leur	leur	DET	DET	n=s|p=3|poss=p	
+2	nature	nature	NC	NC	n=s|g=f	
+3	véritable	véritable	ADJ	ADJ	n=s	
+4	comme	comme	P	P		
+5	leur	leur	DET	DET	n=s|p=3|poss=p	
+6	périodicité	périodicité	NC	NC	n=s|g=f	
+7	n'	ne	ADV	ADV		
+8	ont	avoir	V	V	n=p|t=P|p=3	
+9	été	être	VPP	VPP	t=K	
+10	trouvées	trouver	VPP	VPP	n=p|g=f|t=K	
+11	qu'	que	CS	CS		
+12	à	à	P	P		
+13	partir	partir	VINF	VINF	t=W	
+14	de	de	P	P		
+15	la	la	DET	DET	n=s|g=f	
+16	Renaissance	renaissance	NC	NC	n=s|g=f	
+17	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	1531	1531	NC	NC		
+3	,	,	PONCT	PONCT		
+4	Petrus	_	NPP	NPP		
+5	Apianus	_	NPP	NPP		
+6	et	et	CC	CC		
+7	Girolamo	Girolamo	NPP	NPP	n=s|g=m	
+8	Fracastoro	_	NPP	NPP		
+9	observent	observer	V	V	n=p|t=P,S|p=3	
+10	indépendamment	_	ADV	ADV		
+11	que	que	CS	CS		
+12	la	la	DET	DET	n=s|g=f	
+13	queue	queue	NC	NC	n=s|g=f	
+14	des	de	P+D	P+D	n=p	
+15	comètes	comète	NC	NC	n=p|g=f	
+16	est	être	V	V	n=s|t=P|p=3	
+17	orientée	orienter	VPP	VPP	n=s|g=f|t=K	
+18	à	à	P	P		
+19	l'	le	DET	DET	n=s	
+20	opposé	opposé	NC	NC	n=s|g=m	
+21	du	de	P+D	P+D	n=s|g=m	
+22	Soleil	_	NPP	NPP		
+23	(	(	PONCT	PONCT		
+24	des	des	DET	DET	n=p	
+25	astronomes	astronome	NC	NC	n=p	
+26	chinois	chinois	ADJ	ADJ	g=m	
+27	au	à	P+D	P+D	n=s|g=m	
+28	VIIe	_	ADJ	ADJ		
+29	siècle	siècle	NC	NC	n=s|g=m	
+30	l'	le	CLO	CLO	n=s|p=3	
+31	avaient	avoir	V	V	n=p|t=I|p=3	
+32	déjà	déjà	ADV	ADV		
+33	remarqué	remarquer	VPP	VPP	n=s|g=m|t=K	
+34	)	)	PONCT	PONCT		
+35	,	,	PONCT	PONCT		
+36	mettant	mettre	VPR	VPR	t=G	
+37	ainsi	ainsi	ADV	ADV		
+38	en	en	P	P		
+39	évidence	évidence	NC	NC	n=s|g=f	
+40	l'	le	DET	DET	n=s	
+41	effet	effet	NC	NC	n=s|g=m	
+42	des	de	P+D	P+D	n=p	
+43	vents	vent	NC	NC	n=p|g=m	
+44	solaires	solaire	ADJ	ADJ	n=p	
+45	[	[	PONCT	PONCT		
+46	22	22	NC	NC		
+47	]	]	PONCT	PONCT		
+48	.	.	PONCT	PONCT		
+
+1	Tycho	Tycho	NPP	NPP	n=s|g=m	
+2	Brahe	_	NPP	NPP		
+3	(	(	PONCT	PONCT		
+4	1546-1601	1546-1601	NPP	NPP		
+5	)	)	PONCT	PONCT		
+6	montre	montrer	V	V	n=s|t=P,S|p=1,3	
+7	en	en	P	P		
+8	1577	1577	NC	NC		
+9	,	,	PONCT	PONCT		
+10	grâce	grâce	NC	NC	n=s|g=f	
+11	au	à	P+D	P+D	n=s|g=m	
+12	phénomène	phénomène	NC	NC	n=s|g=m	
+13	de	de	P	P		
+14	parallaxe	parallaxe	NC	NC	n=s|g=f	
+15	,	,	PONCT	PONCT		
+16	que	que	CS	CS		
+17	les	les	DET	DET	n=p	
+18	comètes	comète	NC	NC	n=p|g=f	
+19	ne	ne	ADV	ADV		
+20	sont	être	V	V	n=p|t=P|p=3	
+21	pas	pas	ADV	ADV		
+22	un	un	DET	DET	n=s|g=m	
+23	phénomène	phénomène	NC	NC	n=s|g=m	
+24	sublunaire	_	NC	NC		
+25	comme	comme	CS	CS		
+26	on	on	CLS	CLS	n=s|p=3	
+27	le	le	CLO	CLO	n=s|g=m|p=3	
+28	croyait	croire	V	V	n=s|t=I|p=3	
+29	couramment	_	ADV	ADV		
+30	à	à	P	P		
+31	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+32	époque	époque	NC	NC	n=s|g=f	
+33	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	1609	1609	NC	NC		
+3	,	,	PONCT	PONCT		
+4	Johannes	Johannes	NPP	NPP	n=s|g=m	
+5	Kepler	_	NPP	NPP		
+6	suppose	supposer	V	V	n=s|t=P,S|p=1,3	
+7	,	,	PONCT	PONCT		
+8	dans	dans	P	P		
+9	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+10	ouvrage	ouvrage	NC	NC	n=s|g=m	
+11	De	_	NPP	NPP		
+12	cometis	_	NPP	NPP		
+13	,	,	PONCT	PONCT		
+14	que	que	CS	CS		
+15	les	les	DET	DET	n=p	
+16	comètes	comète	NC	NC	n=p|g=f	
+17	naissent	naître	V	V	n=p|t=P,S|p=3	
+18	par	par	P	P		
+19	génération	génération	NC	NC	n=s|g=f	
+20	spontanée	spontané	ADJ	ADJ	n=s|g=f	
+21	et	et	CC	CC		
+22	suivent	suivre	V	V	n=p|t=P,S|p=3	
+23	une	une	DET	DET	n=s|g=f	
+24	trajectoire	trajectoire	NC	NC	n=s|g=f	
+25	rectiligne	rectiligne	ADJ	ADJ	n=s	
+26	à	à	P	P		
+27	une	une	DET	DET	n=s|g=f	
+28	vitesse	vitesse	NC	NC	n=s|g=f	
+29	variable	variable	ADJ	ADJ	n=s	
+30	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	1652	1652	NC	NC		
+3	,	,	PONCT	PONCT		
+4	il	il	CLS	CLS	n=s|g=m|p=3	
+5	est	être	V	V	n=s|t=P|p=3	
+6	contredit	contredire	VPP	VPP	n=s|g=m|t=K	
+7	par	par	P	P		
+8	Pierre	Pierre	NPP	NPP	n=s|g=m	
+9	Gassendi	_	NPP	NPP		
+10	qui	qui	PROREL	PROREL	n=s	
+11	,	,	PONCT	PONCT		
+12	dans	dans	P	P		
+13	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+14	Traité	traité	NC	NC	n=s|g=m	
+15	sur	sur	P	P		
+16	les	les	DET	DET	n=p	
+17	comètes	comète	NC	NC	n=p|g=f	
+18	,	,	PONCT	PONCT		
+19	leur	leur	CLO	CLO	n=p|p=3	
+20	attribue	attribuer	V	V	n=s|t=P,S|p=1,3	
+21	une	une	DET	DET	n=s|g=f	
+22	vitesse	vitesse	NC	NC	n=s|g=f	
+23	constante	constant	ADJ	ADJ	n=s|g=f	
+24	et	et	CC	CC		
+25	par	par	P	P		
+26	Seth	Seth	NPP	NPP	n=s|g=m	
+27	Ward	Ward	NPP	NPP	n=s|g=m	
+28	(	(	PONCT	PONCT		
+29	1617-1689	1617-1689	NPP	NPP		
+30	)	)	PONCT	PONCT		
+31	qui	qui	PROREL	PROREL	n=s	
+32	comprend	comprendre	V	V	n=s|t=P|p=3	
+33	qu'	que	CS	CS		
+34	elles	elles	CLS	CLS	n=p|g=f|p=3	
+35	suivent	suivre	V	V	n=p|t=P,S|p=3	
+36	des	des	DET	DET	n=p	
+37	ellipses	ellipse	NC	NC	n=p|g=f	
+38	,	,	PONCT	PONCT		
+39	d'	de	P	P		
+40	où	où	PROREL	PROREL		
+41	le	le	DET	DET	n=s|g=m	
+42	fait	fait	NC	NC	n=s|g=m	
+43	qu'	que	CS	CS		
+44	elles	elles	CLS	CLS	n=p|g=f|p=3	
+45	ne	ne	ADV	ADV		
+46	soient	être	VS	VS	n=p|t=S|p=3	
+47	visibles	visible	ADJ	ADJ	n=p	
+48	que	que	CS	CS		
+49	lorsqu'	lorsque	CS	CS		
+50	elles	elles	CLS	CLS	n=p|g=f|p=3	
+51	sont	être	V	V	n=p|t=P|p=3	
+52	suffisamment	_	ADV	ADV		
+53	proches	proche	ADJ	ADJ	n=p	
+54	de	de	P	P		
+55	la	la	DET	DET	n=s|g=f	
+56	terre	terre	NC	NC	n=s|g=f	
+57	et	et	CC	CC		
+58	du	de	P+D	P+D	n=s|g=m	
+59	soleil	soleil	NC	NC	n=s|g=m	
+60	.	.	PONCT	PONCT		
+
+1	Après	après	P	P		
+2	avoir	avoir	VINF	VINF	t=W	
+3	d'	de	P	P		
+4	abord	abord	NC	NC	n=s|g=m	
+5	réfuté	réfuter	VPP	VPP	n=s|g=m|t=K	
+6	cette	cette	DET	DET	n=s|g=f	
+7	théorie	théorie	NC	NC	n=s|g=f	
+8	,	,	PONCT	PONCT		
+9	Isaac	Isaac	NPP	NPP	n=s|g=m	
+10	Newton	Newton	NPP	NPP	n=s|g=m	
+11	(	(	PONCT	PONCT		
+12	1643-1727	1643-1727	NPP	NPP		
+13	)	)	PONCT	PONCT		
+14	prouve	prouver	V	V	n=s|t=P,S|p=1,3	
+15	que	que	CS	CS		
+16	les	les	DET	DET	n=p	
+17	comètes	comète	NC	NC	n=p|g=f	
+18	obéissent	obéir	V	V	n=p|t=P,S|p=3	
+19	aux	à	P+D	P+D	n=p	
+20	mêmes	même	ADJ	ADJ	n=p	
+21	lois	loi	NC	NC	n=p|g=f	
+22	de	de	P	P		
+23	mécanique	mécanique	NC	NC	n=s|g=f	
+24	céleste	céleste	ADJ	ADJ	n=s	
+25	que	que	CS	CS		
+26	les	les	DET	DET	n=p	
+27	planètes	planète	NC	NC	n=p|g=f	
+28	,	,	PONCT	PONCT		
+29	et	et	CC	CC		
+30	possèdent	posséder	V	V	n=p|t=P,S|p=3	
+31	une	une	DET	DET	n=s|g=f	
+32	masse	masse	NC	NC	n=s|g=f	
+33	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	utilisant	utiliser	VPR	VPR	t=G	
+3	certaines	certain	PRO	PRO	n=p|g=f	
+4	de	de	P	P		
+5	ces	ces	DET	DET	n=p	
+6	observations	observation	NC	NC	n=p|g=f	
+7	,	,	PONCT	PONCT		
+8	dont	dont	PROREL	PROREL		
+9	plusieurs	plusieurs	PRO	PRO	n=p|g=f,m	
+10	effectuées	effectuer	VPP	VPP	n=p|g=f|t=K	
+11	par	par	P	P		
+12	lui	lui	PRO	PRO	n=s|g=m|p=3	
+13	-	-	PONCT	PONCT		
+14	même	même	ADV	ADV		
+15	,	,	PONCT	PONCT		
+16	Isaac	Isaac	NPP	NPP	n=s|g=m	
+17	Newton	Newton	NPP	NPP	n=s|g=m	
+18	élabore	élaborer	V	V	n=s|t=P,S|p=1,3	
+19	la	la	DET	DET	n=s|g=f	
+20	théorie	théorie	NC	NC	n=s|g=f	
+21	du	de	P+D	P+D	n=s|g=m	
+22	mouvement	mouvement	NC	NC	n=s|g=m	
+23	des	de	P+D	P+D	n=p	
+24	comètes	comète	NC	NC	n=p|g=f	
+25	dans	dans	P	P		
+26	le	le	DET	DET	n=s|g=m	
+27	cadre	cadre	NC	NC	n=s|g=m	
+28	de	de	P	P		
+29	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+30	Loi	loi	NC	NC	n=s|g=f	
+31	universelle	universel	ADJ	ADJ	n=s|g=f	
+32	de	de	P	P		
+33	la	la	DET	DET	n=s|g=f	
+34	gravitation	gravitation	NC	NC	n=s|g=f	
+35	et	et	CC	CC		
+36	établit	établir	V	V	n=s|t=J,P|p=3	
+37	ainsi	ainsi	ADV	ADV		
+38	pour	pour	P	P		
+39	la	la	DET	DET	n=s|g=f	
+40	première	premier	ADJ	ADJ	n=s|g=f	
+41	fois	fois	NC	NC	g=f	
+42	leur	leur	DET	DET	n=s|p=3|poss=p	
+43	appartenance	appartenance	NC	NC	n=s|g=f	
+44	au	à	P+D	P+D	n=s|g=m	
+45	système	système	NC	NC	n=s|g=m	
+46	solaire	solaire	ADJ	ADJ	n=s	
+47	.	.	PONCT	PONCT		
+
+1	Dans	dans	P	P		
+2	la	la	DET	DET	n=s|g=f	
+3	première	premier	ADJ	ADJ	n=s|g=f	
+4	édition	édition	NC	NC	n=s|g=f	
+5	de	de	P	P		
+6	ses	ses	DET	DET	n=p|p=3|poss=s	
+7	Principia	_	NPP	NPP		
+8	,	,	PONCT	PONCT		
+9	Newton	Newton	NPP	NPP	n=s|g=m	
+10	hésitait	hésiter	V	V	n=s|t=I|p=3	
+11	à	à	P	P		
+12	attribuer	attribuer	VINF	VINF	t=W	
+13	aux	à	P+D	P+D	n=p	
+14	orbites	orbite	NC	NC	n=p|g=f	
+15	cométaires	cométaire	ADJ	ADJ	n=p	
+16	la	la	DET	DET	n=s|g=f	
+17	forme	forme	NC	NC	n=s|g=f	
+18	de	de	P	P		
+19	paraboles	parabole	NC	NC	n=p|g=f	
+20	ou	ou	CC	CC		
+21	celle	celle	PRO	PRO	n=s|g=f	
+22	d'	de	P	P		
+23	ellipses	ellipse	NC	NC	n=p|g=f	
+24	très	très	ADV	ADV		
+25	allongées	allonger	VPP	VPP	n=p|g=f|t=K	
+26	,	,	PONCT	PONCT		
+27	plus	plus	ADV	ADV		
+28	apparentées	apparenter	VPP	VPP	n=p|g=f|t=K	
+29	aux	à	P+D	P+D	n=p	
+30	trajectoires	trajectoire	NC	NC	n=p|g=f	
+31	des	de	P+D	P+D	n=p	
+32	planètes	planète	NC	NC	n=p|g=f	
+33	[	[	PONCT	PONCT		
+34	23	23	NC	NC		
+35	]	]	PONCT	PONCT		
+36	.	.	PONCT	PONCT		
+
+1	John	John	NPP	NPP	n=s|g=m	
+2	Flamsteed	_	NPP	NPP		
+3	propose	proposer	V	V	n=s|t=P,S|p=1,3	
+4	en	en	P	P		
+5	1680	1680	NC	NC		
+6	une	une	DET	DET	n=s|g=f	
+7	relation	relation	NC	NC	n=s|g=f	
+8	d'	de	P	P		
+9	attraction	attraction	NC	NC	n=s|g=f	
+10	-	-	PONCT	PONCT		
+11	répulsion	répulsion	NC	NC	n=s|g=f	
+12	entre	entre	P	P		
+13	comètes	comète	NC	NC	n=p|g=f	
+14	et	et	CC	CC		
+15	le	le	DET	DET	n=s|g=m	
+16	Soleil	_	NPP	NPP		
+17	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	seconde	second	ADJ	ADJ	n=s|g=f	
+3	des	de	P+D	P+D	n=p	
+4	hypothèses	hypothèse	NC	NC	n=p|g=f	
+5	envisagées	envisager	VPP	VPP	n=p|g=f|t=K	
+6	par	par	P	P		
+7	Newton	Newton	NPP	NPP	n=s|g=m	
+8	reçoit	recevoir	V	V	n=s|t=P|p=3	
+9	un	un	DET	DET	n=s|g=m	
+10	appui	appui	NC	NC	n=s|g=m	
+11	décisif	décisif	ADJ	ADJ	n=s|g=m	
+12	lorsqu'	lorsque	CS	CS		
+13	en	en	P	P		
+14	1695	1695	NC	NC		
+15	l'	le	DET	DET	n=s	
+16	un	un	PRO	PRO	n=s|g=m	
+17	de	de	P	P		
+18	ses	ses	DET	DET	n=p|p=3|poss=s	
+19	amis	ami	NC	NC	n=p|g=m	
+20	,	,	PONCT	PONCT		
+21	l'	le	DET	DET	n=s	
+22	astronome	astronome	NC	NC	n=s	
+23	et	et	CC	CC		
+24	mathématicien	mathématicien	NC	NC	n=s|g=m	
+25	Edmond	Edmond	NPP	NPP	n=s|g=m	
+26	Halley	_	NPP	NPP		
+27	(	(	PONCT	PONCT		
+28	1656-1742	1656-1742	NC	NC		
+29	)	)	PONCT	PONCT		
+30	,	,	PONCT	PONCT		
+31	se	se	CLR	CLR	n=p,s|p=3	
+32	persuade	persuader	V	V	n=s|t=P,S|p=1,3	
+33	de	de	P	P		
+34	l'	le	DET	DET	n=s	
+35	identité	identité	NC	NC	n=s|g=f	
+36	probable	probable	ADJ	ADJ	n=s	
+37	de	de	P	P		
+38	certaines	certain	DET	DET	n=p|g=f	
+39	comètes	comète	NC	NC	n=p|g=f	
+40	dont	dont	PROREL	PROREL		
+41	il	il	CLS	CLS	n=s|g=m|p=3	
+42	s'	se	CLR	CLR	n=p,s|p=3	
+43	était	être	V	V	n=s|t=I|p=3	
+44	efforcé	efforcer	VPP	VPP	n=s|g=m|t=K	
+45	de	de	P	P		
+46	calculer	calculer	VINF	VINF	t=W	
+47	les	les	DET	DET	n=p	
+48	éléments	élément	NC	NC	n=p|g=m	
+49	de	de	P	P		
+50	trajectoires	trajectoire	NC	NC	n=p|g=f	
+51	(	(	PONCT	PONCT		
+52	Les	les	DET	DET	n=p	
+53	apparitions	apparition	NC	NC	n=p|g=f	
+54	cométaires	cométaire	ADJ	ADJ	n=p	
+55	de	de	P	P		
+56	1531	1531	NC	NC		
+57	,	,	PONCT	PONCT		
+58	1607	1607	NC	NC		
+59	et	et	CC	CC		
+60	1682	1682	NC	NC		
+61	,	,	PONCT	PONCT		
+62	ne	ne	ADV	ADV		
+63	seraient	être	V	V	n=p|t=C|p=3	
+64	en	en	P	P		
+65	fait	fait	NC	NC	n=s|g=m	
+66	qu'	que	CS	CS		
+67	une	une	DET	DET	n=s|g=f	
+68	seule	seul	ADJ	ADJ	n=s|g=f	
+69	et	et	CC	CC		
+70	même	même	ADJ	ADJ	n=s	
+71	comète	comète	NC	NC	n=s|g=f	
+72	)	)	PONCT	PONCT		
+73	.	.	PONCT	PONCT		
+
+1	Annoncé	annoncer	VPP	VPP	n=s|g=m|t=K	
+2	par	par	P	P		
+3	Halley	_	NPP	NPP		
+4	en	en	P	P		
+5	1705	1705	NC	NC		
+6	et	et	CC	CC		
+7	précisé	préciser	VPP	VPP	n=s|g=m|t=K	
+8	par	par	P	P		
+9	Alexis	Alexis	NPP	NPP	n=s|g=m	
+10	Claude	Claude	NPP	NPP	n=s	
+11	Clairaut	_	NPP	NPP		
+12	en	en	P	P		
+13	novembre	novembre	NC	NC	n=s|g=m	
+14	1758	1758	NC	NC		
+15	,	,	PONCT	PONCT		
+16	le	le	DET	DET	n=s|g=m	
+17	retour	retour	NC	NC	n=s|g=m	
+18	de	de	P	P		
+19	la	la	DET	DET	n=s|g=f	
+20	"	"	PONCT	PONCT		
+21	comète	comète	NC	NC	n=s|g=f	
+22	de	de	P	P		
+23	1682	1682	NC	NC		
+24	"	"	PONCT	PONCT		
+25	observée	observer	VPP	VPP	n=s|g=f|t=K	
+26	à	à	P	P		
+27	l'	le	DET	DET	n=s	
+28	époque	époque	NC	NC	n=s|g=f	
+29	par	par	P	P		
+30	Halley	_	NPP	NPP		
+31	lui	lui	PRO	PRO	n=s|g=m|p=3	
+32	-	-	PONCT	PONCT		
+33	même	même	ADJ	ADJ	n=s	
+34	et	et	CC	CC		
+35	qui	qui	PROREL	PROREL	n=s	
+36	sera	être	V	V	n=s|t=F|p=3	
+37	bientôt	bientôt	ADV	ADV		
+38	appelée	appeler	VPP	VPP	n=s|g=f|t=K	
+39	"	"	PONCT	PONCT		
+40	comète	comète	NC	NC	n=s|g=f	
+41	de	de	P	P		
+42	Halley	_	NPP	NPP		
+43	"	"	PONCT	PONCT		
+44	se	se	CLR	CLR	n=p,s|p=3	
+45	réalisa	réaliser	V	V	n=s|t=J|p=3	
+46	le	le	DET	DET	n=s|g=m	
+47	13	13	ADJ	ADJ		
+48	mars	mars	NC	NC	g=m	
+49	1759	1759	NC	NC		
+50	,	,	PONCT	PONCT		
+51	date	date	NC	NC	n=s|g=f	
+52	du	de	P+D	P+D	n=s|g=m	
+53	passage	passage	NC	NC	n=s|g=m	
+54	de	de	P	P		
+55	la	la	DET	DET	n=s|g=f	
+56	comète	comète	NC	NC	n=s|g=f	
+57	à	à	P	P		
+58	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+59	périhélie	périhélie	NC	NC	n=s|g=m	
+60	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	valeur	valeur	NC	NC	n=s|g=f	
+3	symbolique	symbolique	ADJ	ADJ	n=s	
+4	du	de	P+D	P+D	n=s|g=m	
+5	retour	retour	NC	NC	n=s|g=m	
+6	de	de	P	P		
+7	cet	cet	DET	DET	n=s|g=m	
+8	astre	astre	NC	NC	n=s|g=m	
+9	-	-	PONCT	PONCT		
+10	qui	qui	PROREL	PROREL	n=s	
+11	n'	ne	ADV	ADV		
+12	est	être	V	V	n=s|t=P|p=3	
+13	pas	pas	ADV	ADV		
+14	le	le	DET	DET	n=s|g=m	
+15	plus	plus	ADV	ADV		
+16	remarquable	remarquable	ADJ	ADJ	n=s	
+17	ni	ni	CC	CC		
+18	le	le	DET	DET	n=s|g=m	
+19	plus	plus	ADV	ADV		
+20	étudié	étudier	VPP	VPP	n=s|g=m|t=K	
+21	-	-	PONCT	PONCT		
+22	et	et	CC	CC		
+23	qui	qui	PROREL	PROREL	n=s	
+24	lui	lui	CLO	CLO	n=s|p=3	
+25	valut	valoir	V	V	n=s|t=J|p=3	
+26	une	une	DET	DET	n=s|g=f	
+27	place	place	NC	NC	n=s|g=f	
+28	privilégiée	privilégier	VPP	VPP	n=s|g=f|t=K	
+29	aussi	aussi	ADV	ADV		
+30	bien	bien	ADV	ADV		
+31	dans	dans	P	P		
+32	les	les	DET	DET	n=p	
+33	observations	observation	NC	NC	n=p|g=f	
+34	des	de	P+D	P+D	n=p	
+35	astronomes	astronome	NC	NC	n=p	
+36	que	que	CS	CS		
+37	dans	dans	P	P		
+38	l'	le	DET	DET	n=s	
+39	attention	attention	NC	NC	n=s|g=f	
+40	d'	de	P	P		
+41	un	un	DET	DET	n=s|g=m	
+42	vaste	vaste	ADJ	ADJ	n=s	
+43	public	public	NC	NC	n=s|g=m	
+44	,	,	PONCT	PONCT		
+45	tient	tenir	V	V	n=s|t=P|p=3	
+46	dans	dans	P	P		
+47	le	le	DET	DET	n=s|g=m	
+48	fait	fait	NC	NC	n=s|g=m	
+49	qu'	que	CS	CS		
+50	il	il	CLS	CLS	n=s|g=m|p=3	
+51	s'	se	CLR	CLR	n=p,s|p=3	
+52	agit	agir	V	V	n=s|t=J,P|p=3	
+53	du	de	P+D	P+D	n=s|g=m	
+54	premier	premier	ADJ	ADJ	n=s|g=m	
+55	retour	retour	NC	NC	n=s|g=m	
+56	prévu	prévoir	VPP	VPP	n=s|g=m|t=K	
+57	d'	de	P	P		
+58	une	une	DET	DET	n=s|g=f	
+59	comète	comète	NC	NC	n=s|g=f	
+60	et	et	CC	CC		
+61	pour	pour	P	P		
+62	le	le	DET	DET	n=s|g=m	
+63	monde	monde	NC	NC	n=s|g=m	
+64	scientifique	scientifique	ADJ	ADJ	n=s	
+65	,	,	PONCT	PONCT		
+66	qu'	que	CS	CS		
+67	il	il	CLS	CLS	n=s|g=m|p=3	
+68	s'	se	CLR	CLR	n=p,s|p=3	
+69	agit	agir	V	V	n=s|t=J,P|p=3	
+70	de	de	P	P		
+71	la	la	DET	DET	n=s|g=f	
+72	plus	plus	ADV	ADV		
+73	éclatante	éclatant	ADJ	ADJ	n=s|g=f	
+74	vérification	vérification	NC	NC	n=s|g=f	
+75	de	de	P	P		
+76	la	la	DET	DET	n=s|g=f	
+77	loi	loi	NC	NC	n=s|g=f	
+78	de	de	P	P		
+79	gravitation	gravitation	NC	NC	n=s|g=f	
+80	universelle	universel	ADJ	ADJ	n=s|g=f	
+81	,	,	PONCT	PONCT		
+82	tandis	tandis	P	P		
+83	que	que	PROREL	PROREL		
+84	sont	être	V	V	n=p|t=P|p=3	
+85	définitivement	_	ADV	ADV		
+86	éclaircis	éclaircir	VPP	VPP	n=p|g=m|t=K	
+87	les	les	DET	DET	n=p	
+88	principes	principe	NC	NC	n=p|g=m	
+89	de	de	P	P		
+90	la	la	DET	DET	n=s|g=f	
+91	théorie	théorie	NC	NC	n=s|g=f	
+92	des	de	P+D	P+D	n=p	
+93	comètes	comète	NC	NC	n=p|g=f	
+94	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	dernière	dernier	ADJ	ADJ	n=s|g=f	
+3	version	version	NC	NC	n=s|g=f	
+4	de	de	P	P		
+5	l'	le	DET	DET	n=s	
+6	étude	étude	NC	NC	n=s|g=f	
+7	de	de	P	P		
+8	Halley	_	NPP	NPP		
+9	,	,	PONCT	PONCT		
+10	réalisée	réaliser	VPP	VPP	n=s|g=f|t=K	
+11	en	en	P	P		
+12	1717	1717	NC	NC		
+13	,	,	PONCT	PONCT		
+14	devait	devoir	V	V	n=s|t=I|p=3	
+15	être	être	VINF	VINF	t=W	
+16	jointe	joindre	VPP	VPP	n=s|g=f|t=K	
+17	à	à	P	P		
+18	des	des	DET	DET	n=p	
+19	"	"	PONCT	PONCT		
+20	Tables	table	NC	NC	n=p|g=f	
+21	astronomiques	astronomique	ADJ	ADJ	n=p	
+22	"	"	PONCT	PONCT		
+23	qu'	que	CS	CS		
+24	il	il	CLS	CLS	n=s|g=m|p=3	
+25	venait	venir	V	V	n=s|t=I|p=3	
+26	de	de	P	P		
+27	calculer	calculer	VINF	VINF	t=W	
+28	,	,	PONCT	PONCT		
+29	mais	mais	CC	CC		
+30	le	le	DET	DET	n=s|g=m	
+31	tout	tout	ADV	ADV		
+32	n'	ne	ADV	ADV		
+33	est	être	V	V	n=s|t=P|p=3	
+34	publié	publier	VPP	VPP	n=s|g=m|t=K	
+35	qu'	que	CS	CS		
+36	après	après	P	P		
+37	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+38	mort	mort	NC	NC	n=s|g=f,m	
+39	en	en	P	P		
+40	version	version	NC	NC	n=s|g=f	
+41	latine	latin	ADJ	ADJ	n=s|g=f	
+42	(	(	PONCT	PONCT		
+43	1749	1749	NC	NC		
+44	)	)	PONCT	PONCT		
+45	,	,	PONCT	PONCT		
+46	en	en	P	P		
+47	version	version	NC	NC	n=s|g=f	
+48	anglaise	anglais	ADJ	ADJ	n=s|g=f	
+49	(	(	PONCT	PONCT		
+50	1752	1752	NC	NC		
+51	)	)	PONCT	PONCT		
+52	et	et	CC	CC		
+53	en	en	P	P		
+54	traduction	traduction	NC	NC	n=s|g=f	
+55	française	français	ADJ	ADJ	n=s|g=f	
+56	.	.	PONCT	PONCT		
+
+1	Toutefois	toutefois	ADV	ADV		
+2	la	la	DET	DET	n=s|g=f	
+3	"	"	PONCT	PONCT		
+4	prévision	prévision	NC	NC	n=s|g=f	
+5	"	"	PONCT	PONCT		
+6	de	de	P	P		
+7	Halley	_	NPP	NPP		
+8	avait	avoir	V	V	n=s|t=I|p=3	
+9	été	être	VPP	VPP	t=K	
+10	reprise	reprendre	VPP	VPP	n=s|g=f|t=K	
+11	dans	dans	P	P		
+12	les	les	DET	DET	n=p	
+13	éditions	édition	NC	NC	n=p|g=f	
+14	et	et	CC	CC		
+15	traductions	traduction	NC	NC	n=p|g=f	
+16	successives	successif	ADJ	ADJ	n=p|g=f	
+17	des	de	P+D	P+D	n=p	
+18	Principia	_	NPP	NPP		
+19	de	de	P	P		
+20	Newton	Newton	NPP	NPP	n=s|g=m	
+21	ainsi	ainsi	ADV	ADV		
+22	que	que	CS	CS		
+23	dans	dans	P	P		
+24	divers	divers	DET	DET	n=p|g=m	
+25	traités	traité	NC	NC	n=p|g=m	
+26	d'	de	P	P		
+27	astronomie	astronomie	NC	NC	n=s|g=f	
+28	[	[	PONCT	PONCT		
+29	23	23	NC	NC		
+30	]	]	PONCT	PONCT		
+31	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	tenant	tenir	VPR	VPR	t=G	
+3	compte	compte	NC	NC	n=s|g=m	
+4	des	de	P+D	P+D	n=p	
+5	études	étude	NC	NC	n=p|g=f	
+6	théoriques	théorique	ADJ	ADJ	n=p	
+7	de	de	P	P		
+8	Joseph	Joseph	NPP	NPP	n=s|g=m	
+9	-	-	PONCT	PONCT		
+10	Louis	_	NPP	NPP		
+11	Lagrange	Lagrange	NPP	NPP	n=s|g=m	
+12	(	(	PONCT	PONCT		
+13	1736	1736	NC	NC		
+14	-	-	PONCT	PONCT		
+15	1813	1813	NC	NC		
+16	)	)	PONCT	PONCT		
+17	,	,	PONCT	PONCT		
+18	Pierre	Pierre	NPP	NPP	n=s|g=m	
+19	-	-	PONCT	PONCT		
+20	Simon	Simon	NPP	NPP	n=s|g=m	
+21	de	de	P	P		
+22	Laplace	_	NPP	NPP		
+23	(	(	PONCT	PONCT		
+24	1749-1827	1749-1827	NPP	NPP		
+25	)	)	PONCT	PONCT		
+26	,	,	PONCT	PONCT		
+27	Carl	Carl	NPP	NPP	n=s|g=m	
+28	Friedrich	Friedrich	NPP	NPP	n=s|g=m	
+29	Gauss	_	NPP	NPP		
+30	(	(	PONCT	PONCT		
+31	1777-1855	1777-1855	NPP	NPP		
+32	)	)	PONCT	PONCT		
+33	,	,	PONCT	PONCT		
+34	le	le	DET	DET	n=s|g=m	
+35	retour	retour	NC	NC	n=s|g=m	
+36	suivant	suivant	ADJ	ADJ	n=s|g=m	
+37	de	de	P	P		
+38	la	la	DET	DET	n=s|g=f	
+39	comète	comète	NC	NC	n=s|g=f	
+40	de	de	P	P		
+41	Halley	_	NPP	NPP		
+42	,	,	PONCT	PONCT		
+43	celui	celui	PRO	PRO	n=s|g=m	
+44	de	de	P	P		
+45	1835	1835	NC	NC		
+46	,	,	PONCT	PONCT		
+47	sont	être	V	V	n=p|t=P|p=3	
+48	l'	le	DET	DET	n=s	
+49	objet	objet	NC	NC	n=s|g=m	
+50	de	de	P	P		
+51	plusieurs	plusieurs	DET	DET	n=p	
+52	prévisions	prévision	NC	NC	n=p|g=f	
+53	,	,	PONCT	PONCT		
+54	dont	dont	PROREL	PROREL		
+55	les	les	DET	DET	n=p	
+56	meilleures	meilleur	ADJ	ADJ	n=p|g=f	
+57	se	se	CLR	CLR	n=p,s|p=3	
+58	révélèrent	révéler	V	V	n=p|t=J|p=3	
+59	exactes	exact	ADJ	ADJ	n=p|g=f	
+60	à	à	P	P		
+61	trois	trois	DET	DET	s=card|n=p	
+62	ou	ou	CC	CC		
+63	quatre	quatre	DET	DET	s=card|n=p	
+64	jours	jour	NC	NC	n=p|g=m	
+65	près	près	ADV	ADV		
+66	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	technique	technique	NC	NC	n=s|g=f	
+3	actuelle	actuel	ADJ	ADJ	n=s|g=f	
+4	de	de	P	P		
+5	calcul	calcul	NC	NC	n=s|g=m	
+6	des	de	P+D	P+D	n=p	
+7	orbites	orbite	NC	NC	n=p|g=f	
+8	cométaires	cométaire	ADJ	ADJ	n=p	
+9	reprend	reprendre	V	V	n=s|t=P|p=3	
+10	avec	avec	P	P		
+11	de	de	DET	DET	n=p	
+12	puissants	puissant	ADJ	ADJ	n=p|g=m	
+13	ordinateurs	ordinateur	NC	NC	n=p|g=m	
+14	la	la	DET	DET	n=s|g=f	
+15	méthode	méthode	NC	NC	n=s|g=f	
+16	de	de	P	P		
+17	variation	variation	NC	NC	n=s|g=f	
+18	des	de	P+D	P+D	n=p	
+19	éléments	élément	NC	NC	n=p|g=m	
+20	de	de	P	P		
+21	la	la	DET	DET	n=s|g=f	
+22	trajectoire	trajectoire	NC	NC	n=s|g=f	
+23	introduite	introduire	VPP	VPP	n=s|g=f|t=K	
+24	par	par	P	P		
+25	Philip	Philip	NPP	NPP	n=s|g=m	
+26	Herbert	Herbert	NPP	NPP	n=s|g=m	
+27	Cowell	_	NPP	NPP		
+28	(	(	PONCT	PONCT		
+29	en	en	P	P		
+30	)	)	PONCT	PONCT		
+31	et	et	CC	CC		
+32	Andrew	Andrew	NPP	NPP	n=s|g=m	
+33	Crommelin	_	NPP	NPP		
+34	(	(	PONCT	PONCT		
+35	1865	1865	NC	NC		
+36	-	-	PONCT	PONCT		
+37	1939	1939	NC	NC		
+38	)	)	PONCT	PONCT		
+39	en	en	P	P		
+40	1910	1910	NC	NC		
+41	,	,	PONCT	PONCT		
+42	mais	mais	CC	CC		
+43	en	en	P	P		
+44	ajoutant	ajouter	VPR	VPR	t=G	
+45	à	à	P	P		
+46	l'	le	DET	DET	n=s	
+47	ensemble	ensemble	NC	NC	n=s|g=m	
+48	des	de	P+D	P+D	n=p	
+49	forces	force	NC	NC	n=p|g=f	
+50	de	de	P	P		
+51	gravitation	gravitation	NC	NC	n=s|g=f	
+52	classiques	classique	ADJ	ADJ	n=p	
+53	agissant	agir	VPR	VPR	t=G	
+54	sur	sur	P	P		
+55	la	la	DET	DET	n=s|g=f	
+56	comète	comète	NC	NC	n=s|g=f	
+57	,	,	PONCT	PONCT		
+58	des	de	P+D	P+D	n=p	
+59	forces	force	NC	NC	n=p|g=f	
+60	complémentaires	complémentaire	ADJ	ADJ	n=p	
+61	non	non	ADV	ADV		
+62	gravitationnelles	gravitationnel	ADJ	ADJ	n=p|g=f	
+63	de	de	P	P		
+64	réaction	réaction	NC	NC	n=s|g=f	
+65	,	,	PONCT	PONCT		
+66	dues	devoir	VPP	VPP	n=p|g=f|t=K	
+67	à	à	P	P		
+68	l'	le	DET	DET	n=s	
+69	éjection	éjection	NC	NC	n=s|g=f	
+70	de	de	P	P		
+71	matière	matière	NC	NC	n=s|g=f	
+72	cométaire	cométaire	ADJ	ADJ	n=s	
+73	sous	sous	P	P		
+74	l'	le	DET	DET	n=s	
+75	action	action	NC	NC	n=s|g=f	
+76	des	de	P+D	P+D	n=p	
+77	rayons	rayon	NC	NC	n=p|g=m	
+78	du	de	P+D	P+D	n=s|g=m	
+79	Soleil	_	NPP	NPP		
+80	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	prise	prise	NC	NC	n=s|g=f	
+3	en	en	P	P		
+4	compte	compte	NC	NC	n=s|g=m	
+5	de	de	P	P		
+6	ces	ces	DET	DET	n=p	
+7	dernières	dernier	ADJ	ADJ	n=p|g=f	
+8	forces	force	NC	NC	n=p|g=f	
+9	,	,	PONCT	PONCT		
+10	introduites	introduire	VPP	VPP	n=p|g=f|t=K	
+11	depuis	depuis	P	P		
+12	1973	1973	NC	NC		
+13	,	,	PONCT	PONCT		
+14	à	à	P	P		
+15	l'	le	DET	DET	n=s	
+16	instigation	instigation	NC	NC	n=s|g=f	
+17	de	de	P	P		
+18	Brian	Brian	NPP	NPP	n=s|g=m	
+19	G	_	NPP	NPP		
+20	.	.	PONCT	PONCT		
+21	Marsden	_	NPP	NPP		
+22	(	(	PONCT	PONCT		
+23	1937-2010	1937-2010	NC	NC		
+24	)	)	PONCT	PONCT		
+25	,	,	PONCT	PONCT		
+26	Z	_	NPP	NPP		
+27	.	.	PONCT	PONCT		
+28	Sekanina	_	NPP	NPP		
+29	et	et	CC	CC		
+30	D	_	NPP	NPP		
+31	.	.	PONCT	PONCT		
+32	K	_	NPP	NPP		
+33	.	.	PONCT	PONCT		
+34	Yeomans	_	NPP	NPP		
+35	,	,	PONCT	PONCT		
+36	permet	permettre	V	V	n=s|t=P|p=3	
+37	d'	de	P	P		
+38	améliorer	améliorer	VINF	VINF	t=W	
+39	suffisamment	_	ADV	ADV		
+40	les	les	DET	DET	n=p	
+41	calculs	calcul	NC	NC	n=p|g=m	
+42	antérieurs	antérieur	ADJ	ADJ	n=p|g=m	
+43	et	et	CC	CC		
+44	de	de	P	P		
+45	reconstituer	reconstituer	VINF	VINF	t=W	
+46	avec	avec	P	P		
+47	beaucoup	beaucoup	ADV	ADV		
+48	de	de	P	P		
+49	vraisemblance	vraisemblance	NC	NC	n=s|g=f	
+50	les	les	DET	DET	n=p	
+51	caractéristiques	caractéristique	NC	NC	n=p|g=f	
+52	essentielles	essentiel	ADJ	ADJ	n=p|g=f	
+53	des	de	P+D	P+D	n=p	
+54	trajectoires	trajectoire	NC	NC	n=p|g=f	
+55	cométaires	cométaire	ADJ	ADJ	n=p	
+56	correspondant	correspondant	NC	NC	n=s|g=m	
+57	à	à	P	P		
+58	1_109	1_109	NC	NC		
+59	apparitions	apparition	NC	NC	n=p|g=f	
+60	de	de	P	P		
+61	comètes	comète	NC	NC	n=p|g=f	
+62	attestées	attester	VPP	VPP	n=p|g=f|t=K	
+63	de	de	P	P		
+64	-239	-239	NC	NC		
+65	à	à	P	P		
+66	mai	mai	NC	NC	n=s|g=m	
+67	1983	1983	NC	NC		
+68	[	[	PONCT	PONCT		
+69	23	23	NC	NC		
+70	]	]	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	premiers	premier	ADJ	ADJ	n=p|g=m	
+3	résultats	résultat	NC	NC	n=p|g=m	
+4	obtenus	obtenir	VPP	VPP	n=p|g=m|t=K	
+5	par	par	P	P		
+6	la	la	DET	DET	n=s|g=f	
+7	mission	mission	NC	NC	n=s|g=f	
+8	Stardust	_	NPP	NPP		
+9	(	(	PONCT	PONCT		
+10	1999-2011	1999-2011	NPP	NPP		
+11	)	)	PONCT	PONCT		
+12	ont	avoir	V	V	n=p|t=P|p=3	
+13	considérablement	_	ADV	ADV		
+14	modifié	modifier	VPP	VPP	n=s|g=m|t=K	
+15	les	les	DET	DET	n=p	
+16	hypothèses	hypothèse	NC	NC	n=p|g=f	
+17	concernant	concerner	VPR	VPR	t=G	
+18	la	la	DET	DET	n=s|g=f	
+19	formation	formation	NC	NC	n=s|g=f	
+20	des	de	P+D	P+D	n=p	
+21	comètes	comète	NC	NC	n=p|g=f	
+22	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	effet	effet	NC	NC	n=s|g=m	
+3	les	les	DET	DET	n=p	
+4	grains	grain	NC	NC	n=p|g=m	
+5	prélevés	prélever	VPP	VPP	n=p|g=m|t=K	
+6	dans	dans	P	P		
+7	la	la	DET	DET	n=s|g=f	
+8	coma	coma	NC	NC	n=s|g=m	
+9	de	de	P	P		
+10	la	la	DET	DET	n=s|g=f	
+11	comète	comète	NC	NC	n=s|g=f	
+12	Wild	_	NPP	NPP		
+13	2	2	VPP	VPP		
+14	par	par	P	P		
+15	cette	cette	DET	DET	n=s|g=f	
+16	mission	mission	NC	NC	n=s|g=f	
+17	et	et	CC	CC		
+18	ramenés	ramener	VPP	VPP	n=p|g=m|t=K	
+19	sur	sur	P	P		
+20	Terre	_	NPP	NPP		
+21	contiennent	contenir	V	V	n=p|t=P,S|p=3	
+22	de	de	P	P		
+23	l'	le	DET	DET	n=s	
+24	olivine	olivine	NC	NC	n=s|g=f	
+25	,	,	PONCT	PONCT		
+26	matériau	matériau	NC	NC	n=s|g=m	
+27	qui	qui	PROREL	PROREL	n=s	
+28	ne	ne	ADV	ADV		
+29	peut	pouvoir	V	V	n=s|t=P|p=3	
+30	être	être	VINF	VINF	t=W	
+31	synthétisé	synthétiser	VPP	VPP	n=s|g=m|t=K	
+32	qu'	que	CS	CS		
+33	à	à	P	P		
+34	de	de	DET	DET	n=p	
+35	très	très	ADV	ADV		
+36	hautes	haut	ADJ	ADJ	n=p|g=f	
+37	températures	température	NC	NC	n=p|g=f	
+38	(	(	PONCT	PONCT		
+39	1_300	1_300	NC	NC		
+40	K	_	NPP	NPP		
+41	)	)	PONCT	PONCT		
+42	.	.	PONCT	PONCT		
+
+1	On	on	CLS	CLS	n=s|p=3	
+2	est	être	V	V	n=s|t=P|p=3	
+3	donc	donc	ADV	ADV		
+4	amené	amener	VPP	VPP	n=s|g=m|t=K	
+5	à	à	P	P		
+6	penser	penser	VINF	VINF	t=W	
+7	que	que	CS	CS		
+8	les	les	DET	DET	n=p	
+9	noyaux	noyau	NC	NC	n=p|g=m	
+10	de	de	P	P		
+11	comètes	comète	NC	NC	n=p|g=f	
+12	ont	avoir	V	V	n=p|t=P|p=3	
+13	été	être	VPP	VPP	t=K	
+14	formés	former	VPP	VPP	n=p|g=m|t=K	
+15	à	à	P	P		
+16	proximité	proximité	NC	NC	n=s|g=f	
+17	du	de	P+D	P+D	n=s|g=m	
+18	Soleil	_	NPP	NPP		
+19	et	et	CC	CC		
+20	ont	avoir	V	V	n=p|t=P|p=3	
+21	par	par	P	P		
+22	la	la	DET	DET	n=s|g=f	
+23	suite	suite	NC	NC	n=s|g=f	
+24	été	être	VPP	VPP	t=K	
+25	éjectés	éjecter	VPP	VPP	n=p|g=m|t=K	
+26	vers	vers	P	P		
+27	le	le	DET	DET	n=s|g=m	
+28	Nuage	nuage	NC	NC	n=s|g=m	
+29	d'	de	P	P		
+30	Oort	_	NPP	NPP		
+31	.	.	PONCT	PONCT		
+
+1	Pourtant	pourtant	ADV	ADV		
+2	les	les	DET	DET	n=p	
+3	premières	premier	ADJ	ADJ	n=p|g=f	
+4	interprétations	interprétation	NC	NC	n=p|g=f	
+5	données	donner	VPP	VPP	n=p|g=f|t=K	
+6	de	de	P	P		
+7	l'	le	DET	DET	n=s	
+8	analyse	analyse	NC	NC	n=s|g=f	
+9	des	de	P+D	P+D	n=p	
+10	grains	grain	NC	NC	n=p|g=m	
+11	rapportés	rapporter	VPP	VPP	n=p|g=m|t=K	
+12	par	par	P	P		
+13	Stardust	_	NPP	NPP		
+14	doivent	devoir	V	V	n=p|t=P,S|p=3	
+15	être	être	VINF	VINF	t=W	
+16	prises	prendre	VPP	VPP	n=p|g=f|t=K	
+17	avec	avec	P	P		
+18	circonspection	circonspection	NC	NC	n=s|g=f	
+19	:	:	PONCT	PONCT		
+20	on	on	CLS	CLS	n=s|p=3	
+21	soupçonne	soupçonner	V	V	n=s|t=P,S|p=1,3	
+22	des	des	DET	DET	n=p	
+23	interactions	interaction	NC	NC	n=p|g=f	
+24	entre	entre	P	P		
+25	le	le	DET	DET	n=s|g=m	
+26	matériau	matériau	NC	NC	n=s|g=m	
+27	qui	qui	PROREL	PROREL	n=s	
+28	les	les	CLO	CLO	n=p|p=3	
+29	contenait	contenir	V	V	n=s|t=I|p=3	
+30	(	(	PONCT	PONCT		
+31	aérogel	_	NPP	NPP		
+32	)	)	PONCT	PONCT		
+33	avec	avec	P	P		
+34	l'	le	DET	DET	n=s	
+35	atmosphère	atmosphère	NC	NC	n=s|g=f	
+36	terrestre	terrestre	ADJ	ADJ	n=s	
+37	.	.	PONCT	PONCT		
+
+1	Cela	cela	PRO	PRO	n=s|g=m	
+2	signifierait	signifier	V	V	n=s|t=C|p=3	
+3	que	que	CS	CS		
+4	les	les	DET	DET	n=p	
+5	comètes	comète	NC	NC	n=p|g=f	
+6	seraient	être	V	V	n=p|t=C|p=3	
+7	composées	composer	VPP	VPP	n=p|g=f|t=K	
+8	de	de	P	P		
+9	matière	matière	NC	NC	n=s|g=f	
+10	plus	plus	ADV	ADV		
+11	ancienne	ancien	ADJ	ADJ	n=s|g=f	
+12	que	que	CS	CS		
+13	notre	notre	DET	DET	n=s|p=1|poss=p	
+14	système	système	NC	NC	n=s|g=m	
+15	solaire	solaire	ADJ	ADJ	n=s	
+16	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	noyaux	noyau	NC	NC	n=p|g=m	
+3	de	de	P	P		
+4	comètes	comète	NC	NC	n=p|g=f	
+5	se	se	CLR	CLR	n=p,s|p=3	
+6	sont	être	V	V	n=p|t=P|p=3	
+7	formés	former	VPP	VPP	n=p|g=m|t=K	
+8	par	par	P	P		
+9	accrétion	accrétion	NC	NC	n=s|g=f	
+10	:	:	PONCT	PONCT		
+11	les	les	DET	DET	n=p	
+12	petits	petit	ADJ	ADJ	n=p|g=m	
+13	grains	grain	NC	NC	n=p|g=m	
+14	se	se	CLR	CLR	n=p,s|p=3	
+15	collent	coller	V	V	n=p|t=P,S|p=3	
+16	les	les	DET	DET	n=p	
+17	uns	uns	PRO	PRO	n=p|g=m	
+18	aux	à	P+D	P+D	n=p	
+19	autres	autre	ADJ	ADJ	n=p	
+20	pour	pour	P	P		
+21	former	former	VINF	VINF	t=W	
+22	des	des	DET	DET	n=p	
+23	grains	grain	NC	NC	n=p|g=m	
+24	plus	plus	ADV	ADV		
+25	gros	gros	ADJ	ADJ	g=m	
+26	,	,	PONCT	PONCT		
+27	lesquels	lequel	PROREL	PROREL	n=p|g=m	
+28	se	se	CLR	CLR	n=p,s|p=3	
+29	rassemblent	rassembler	V	V	n=p|t=P,S|p=3	
+30	à	à	P	P		
+31	leur	leur	DET	DET	n=s|p=3|poss=p	
+32	tour	tour	NC	NC	n=s	
+33	jusqu'	jusque	P	P		
+34	à	à	P	P		
+35	atteindre	atteindre	VINF	VINF	t=W	
+36	la	la	DET	DET	n=s|g=f	
+37	taille	taille	NC	NC	n=s|g=f	
+38	d'	de	P	P		
+39	un	un	DET	DET	n=s|g=m	
+40	noyau	noyau	NC	NC	n=s|g=m	
+41	de	de	P	P		
+42	comète	comète	NC	NC	n=s|g=f	
+43	,	,	PONCT	PONCT		
+44	de	de	P	P		
+45	quelques	quelques	DET	DET	n=p	
+46	kilomètres	kilomètre	NC	NC	n=p|g=m	
+47	.	.	PONCT	PONCT		
+48	Selon	selon	P	P		
+49	les	les	DET	DET	n=p	
+50	scientifiques	scientifique	ADJ	ADJ	n=p	
+51	français	français	ADJ	ADJ	g=m	
+52	,	,	PONCT	PONCT		
+53	les	les	DET	DET	n=p	
+54	molécules	molécule	NC	NC	n=p|g=f	
+55	organiques	organique	ADJ	ADJ	n=p	
+56	provoquant	provoquer	VPR	VPR	t=G	
+57	les	les	DET	DET	n=p	
+58	BID	_	NPP	NPP		
+59	,	,	PONCT	PONCT		
+60	et	et	CC	CC		
+61	préexistantes	préexistant	ADJ	ADJ	n=p|g=f	
+62	dans	dans	P	P		
+63	les	les	DET	DET	n=p	
+64	nébuleuses	nébuleux	ADJ	ADJ	n=p|g=f	
+65	primitives	primitif	ADJ	ADJ	n=p|g=f	
+66	,	,	PONCT	PONCT		
+67	n'	ne	ADV	ADV		
+68	ont	avoir	V	V	n=p|t=P|p=3	
+69	donc	donc	ADV	ADV		
+70	probablement	_	ADV	ADV		
+71	pas	pas	ADV	ADV		
+72	été	être	VPP	VPP	t=K	
+73	détruites	détruire	VPP	VPP	n=p|g=f|t=K	
+74	,	,	PONCT	PONCT		
+75	mais	mais	CC	CC		
+76	ont	avoir	V	V	n=p|t=P|p=3	
+77	pu	pouvoir	VPP	VPP	t=K	
+78	faire	faire	VINF	VINF	t=W	
+79	partie	partie	NC	NC	n=s|g=f	
+80	des	de	P+D	P+D	n=p	
+81	grains	grain	NC	NC	n=p|g=m	
+82	constituant	constituer	VPR	VPR	t=G	
+83	les	les	DET	DET	n=p	
+84	noyaux	noyau	NC	NC	n=p|g=m	
+85	cométaires	cométaire	ADJ	ADJ	n=p	
+86	,	,	PONCT	PONCT		
+87	où	où	PROREL	PROREL		
+88	elles	elles	CLS	CLS	n=p|g=f|p=3	
+89	se	se	CLR	CLR	n=p,s|p=3	
+90	trouvent	trouver	V	V	n=p|t=P,S|p=3	
+91	toujours	toujours	ADV	ADV		
+92	,	,	PONCT	PONCT		
+93	4,6	4,6	ADJ	ADJ		
+94	milliards	milliard	NC	NC	n=p|g=m	
+95	d'	de	P	P		
+96	années	année	NC	NC	n=p|g=f	
+97	plus	plus	ADV	ADV		
+98	tard	tard	ADV	ADV		
+99	[	[	PONCT	PONCT		
+100	24	24	NC	NC		
+101	]	]	PONCT	PONCT		
+102	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	récupération	récupération	NC	NC	n=s|g=f	
+3	in	in	ADJ	ADJ		
+4	situ	_	NPP	NPP		
+5	n'	ne	ADV	ADV		
+6	est	être	V	V	n=s|t=P|p=3	
+7	pas	pas	ADV	ADV		
+8	l'	le	DET	DET	n=s	
+9	unique	unique	ADJ	ADJ	n=s	
+10	moyen	moyen	NC	NC	n=s|g=m	
+11	de	de	P	P		
+12	récupérer	récupérer	VINF	VINF	t=W	
+13	de	de	P	P		
+14	la	la	DET	DET	n=s|g=f	
+15	matière	matière	NC	NC	n=s|g=f	
+16	cométaire	cométaire	ADJ	ADJ	n=s	
+17	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	Terre	_	NPP	NPP		
+3	traverse	traverser	V	V	n=s|t=P,S|p=1,3	
+4	continuellement	_	ADV	ADV		
+5	divers	divers	ADJ	ADJ	g=m	
+6	nuages	nuage	NC	NC	n=p|g=m	
+7	de	de	P	P		
+8	poussières	poussière	NC	NC	n=p|g=f	
+9	stellaires	stellaire	ADJ	ADJ	n=p	
+10	et	et	CC	CC		
+11	notamment	_	ADV	ADV		
+12	de	de	P	P		
+13	la	la	DET	DET	n=s|g=f	
+14	matière	matière	NC	NC	n=s|g=f	
+15	cométaire	cométaire	ADJ	ADJ	n=s	
+16	lorsque	lorsque	CS	CS		
+17	l'	le	DET	DET	n=s	
+18	orbite	orbite	NC	NC	n=s|g=f	
+19	de	de	P	P		
+20	la	la	DET	DET	n=s|g=f	
+21	Terre	_	NPP	NPP		
+22	coïncide	coïncider	V	V	n=s|t=P,S|p=1,3	
+23	avec	avec	P	P		
+24	le	le	DET	DET	n=s|g=m	
+25	sillage	sillage	NC	NC	n=s|g=m	
+26	d'	de	P	P		
+27	une	une	DET	DET	n=s|g=f	
+28	comète	comète	NC	NC	n=s|g=f	
+29	.	.	PONCT	PONCT		
+
+1	C'	ce	CLS	CLS		
+2	est	être	V	V	n=s|t=P|p=3	
+3	ainsi	ainsi	ADV	ADV		
+4	que	que	CS	CS		
+5	depuis	depuis	P	P		
+6	1982	1982	NC	NC		
+7	,	,	PONCT	PONCT		
+8	la	la	DET	DET	n=s|g=f	
+9	NASA	_	NPP	NPP		
+10	récupère	récupérer	V	V	n=s|t=P,S|p=1,3	
+11	à	à	P	P		
+12	l'	le	DET	DET	n=s	
+13	aide	aide	NC	NC	n=s	
+14	d'	de	P	P		
+15	avion	avion	NC	NC	n=s|g=m	
+16	pouvant	pouvoir	VPR	VPR	t=G	
+17	voler	voler	VINF	VINF	t=W	
+18	à	à	P	P		
+19	haute	haut	ADJ	ADJ	n=s|g=f	
+20	altitude	altitude	NC	NC	n=s|g=f	
+21	de	de	P	P		
+22	la	la	DET	DET	n=s|g=f	
+23	poussière	poussière	NC	NC	n=s|g=f	
+24	cométaire	cométaire	ADJ	ADJ	n=s	
+25	[	[	PONCT	PONCT		
+26	25	25	ADJ	ADJ		
+27	]	]	PONCT	PONCT		
+28	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	étude	étude	NC	NC	n=s|g=f	
+3	des	de	P+D	P+D	n=p	
+4	comètes	comète	NC	NC	n=p|g=f	
+5	a	avoir	V	V	n=s|t=P|p=3	
+6	considérablement	_	ADV	ADV		
+7	progressé	progresser	VPP	VPP	n=s|g=m|t=K	
+8	avec	avec	P	P		
+9	l'	le	DET	DET	n=s	
+10	avènement	avènement	NC	NC	n=s|g=m	
+11	de	de	P	P		
+12	l'	le	DET	DET	n=s	
+13	ère	ère	NC	NC	n=s|g=f	
+14	spatiale	spatial	ADJ	ADJ	n=s|g=f	
+15	.	.	PONCT	PONCT		
+
+1	Dix	dix	DET	DET	s=card|n=p	
+2	sondes	sonde	NC	NC	n=p|g=f	
+3	ont	avoir	V	V	n=p|t=P|p=3	
+4	contribué	contribuer	VPP	VPP	n=s|g=m|t=K	
+5	à	à	P	P		
+6	mieux	mieux	ADV	ADV		
+7	connaître	connaître	VINF	VINF	t=W	
+8	les	les	DET	DET	n=p	
+9	noyaux	noyau	NC	NC	n=p|g=m	
+10	cométaires	cométaire	ADJ	ADJ	n=p	
+11	,	,	PONCT	PONCT		
+12	les	les	DET	DET	n=p	
+13	quatre	quatre	ADJ	ADJ	s=card|n=p	
+14	premières	premier	ADJ	ADJ	n=p|g=f	
+15	s'	se	CLR	CLR	n=p,s|p=3	
+16	étant	être	VPR	VPR	t=G	
+17	approchées	approcher	VPP	VPP	n=p|g=f|t=K	
+18	de	de	P	P		
+19	la	la	DET	DET	n=s|g=f	
+20	comète	comète	NC	NC	n=s|g=f	
+21	de	de	P	P		
+22	Halley	_	NPP	NPP		
+23	en	en	P	P		
+24	1986	1986	NC	NC		
+25	.	.	PONCT	PONCT		
+
+1	Avant	avant	P	P		
+2	la	la	DET	DET	n=s|g=f	
+3	publication	publication	NC	NC	n=s|g=f	
+4	en	en	P	P		
+5	1705	1705	NC	NC		
+6	d'	de	P	P		
+7	Edmond	Edmond	NPP	NPP	n=s|g=m	
+8	Halley	_	NPP	NPP		
+9	sur	sur	P	P		
+10	la	la	DET	DET	n=s|g=f	
+11	comète	comète	NC	NC	n=s|g=f	
+12	portant	porter	VPR	VPR	t=G	
+13	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+14	nom	nom	NC	NC	n=s|g=m	
+15	,	,	PONCT	PONCT		
+16	ces	ces	DET	DET	n=p	
+17	petits	petit	ADJ	ADJ	n=p|g=m	
+18	corps	corps	NC	NC	g=m	
+19	du	de	P+D	P+D	n=s|g=m	
+20	Système	système	NC	NC	n=s|g=m	
+21	solaire	solaire	ADJ	ADJ	n=s	
+22	étaient	être	V	V	n=p|t=I|p=3	
+23	considérés	considérer	VPP	VPP	n=p|g=m|t=K	
+24	comme	comme	P	P		
+25	des	des	DET	DET	n=p	
+26	phénomènes	phénomène	NC	NC	n=p|g=m	
+27	isolés	isoler	ADJ	ADJ	n=p|g=m|t=K	
+28	,	,	PONCT	PONCT		
+29	uniques	unique	ADJ	ADJ	n=p	
+30	et	et	CC	CC		
+31	non	non	ADV	ADV		
+32	périodiques	périodique	ADJ	ADJ	n=p	
+33	,	,	PONCT	PONCT		
+34	aussi	aussi	ADV	ADV		
+35	les	les	DET	DET	n=p	
+36	comètes	comète	NC	NC	n=p|g=f	
+37	ne	ne	ADV	ADV		
+38	portaient	porter	V	V	n=p|t=I|p=3	
+39	pas	pas	ADV	ADV		
+40	de	de	P	P		
+41	nom	nom	NC	NC	n=s|g=m	
+42	.	.	PONCT	PONCT		
+
+1	Mise	mettre	VPP	VPP	n=s|g=f|t=K	
+2	à	à	P	P		
+3	part	part	NC	NC	n=s	
+4	la	la	DET	DET	n=s|g=f	
+5	comète	comète	NC	NC	n=s|g=f	
+6	de	de	P	P		
+7	Halley	_	NPP	NPP		
+8	,	,	PONCT	PONCT		
+9	ou	ou	CC	CC		
+10	celle	celle	PRO	PRO	n=s|g=f	
+11	de	de	P	P		
+12	Encke	_	NPP	NPP		
+13	,	,	PONCT	PONCT		
+14	le	le	DET	DET	n=s|g=m	
+15	nom	nom	NC	NC	n=s|g=m	
+16	d'	de	P	P		
+17	une	une	DET	DET	n=s|g=f	
+18	comète	comète	NC	NC	n=s|g=f	
+19	est	être	V	V	n=s|t=P|p=3	
+20	attribué	attribuer	VPP	VPP	n=s|g=m|t=K	
+21	officiellement	_	ADV	ADV		
+22	par	par	P	P		
+23	une	une	DET	DET	n=s|g=f	
+24	commission	commission	NC	NC	n=s|g=f	
+25	de	de	P	P		
+26	l'	le	DET	DET	n=s	
+27	Union	union	NC	NC	n=s|g=f	
+28	astronomique	astronomique	ADJ	ADJ	n=s	
+29	internationale	international	ADJ	ADJ	n=s|g=f	
+30	(	(	PONCT	PONCT		
+31	UAI	_	NPP	NPP		
+32	,	,	PONCT	PONCT		
+33	IAU	_	NPP	NPP		
+34	en	en	P	P		
+35	anglais	anglais	NC	NC	g=m	
+36	)	)	PONCT	PONCT		
+37	,	,	PONCT	PONCT		
+38	dont	dont	PROREL	PROREL		
+39	le	le	DET	DET	n=s|g=m	
+40	siège	siège	NC	NC	n=s|g=m	
+41	est	être	V	V	n=s|t=P|p=3	
+42	à	à	P	P		
+43	Washington	Washington	NPP	NPP	n=s|g=m	
+44	,	,	PONCT	PONCT		
+45	D	_	NPP	NPP		
+46	.	.	PONCT	PONCT		
+47	C	femelle	ADJ	ADJ		
+48	..	..	PONCT	PONCT		
+
+1	Certaines	certain	DET	DET	n=p|g=f	
+2	comètes	comète	NC	NC	n=p|g=f	
+3	historiques	historique	ADJ	ADJ	n=p	
+4	,	,	PONCT	PONCT		
+5	spectaculaires	spectaculaire	ADJ	ADJ	n=p	
+6	et	et	CC	CC		
+7	aisément	_	ADV	ADV		
+8	visibles	visible	ADJ	ADJ	n=p	
+9	à	à	P	P		
+10	l'	le	DET	DET	n=s	
+11	œil	_	NC	NC		
+12	nu	nu	ADJ	ADJ	n=s|g=m	
+13	,	,	PONCT	PONCT		
+14	n'	ne	ADV	ADV		
+15	ont	avoir	V	V	n=p|t=P|p=3	
+16	aucun	aucun	DET	DET	n=s|g=m	
+17	nom	nom	NC	NC	n=s|g=m	
+18	officiel	officiel	ADJ	ADJ	n=s|g=m	
+19	et	et	CC	CC		
+20	sont	être	V	V	n=p|t=P|p=3	
+21	simplement	_	ADV	ADV		
+22	désignée	désigner	VPP	VPP	n=s|g=f|t=K	
+23	comme	comme	P	P		
+24	grande	grand	ADJ	ADJ	n=s|g=f	
+25	comète	comète	NC	NC	n=s|g=f	
+26	.	.	PONCT	PONCT		
+
+1	Par	par	P	P		
+2	exemple	exemple	NC	NC	n=s|g=m	
+3	la	la	DET	DET	n=s|g=f	
+4	grande	grand	ADJ	ADJ	n=s|g=f	
+5	comète	comète	NC	NC	n=s|g=f	
+6	de	de	P	P		
+7	1811	1811	NC	NC		
+8	.	.	PONCT	PONCT		
+
+1	Traditionnellement	_	ADV	ADV		
+2	,	,	PONCT	PONCT		
+3	on	on	CLS	CLS	n=s|p=3	
+4	donne	donner	V	V	n=s|t=P,S|p=1,3	
+5	aux	à	P+D	P+D	n=p	
+6	comètes	comète	NC	NC	n=p|g=f	
+7	le	le	DET	DET	n=s|g=m	
+8	nom	nom	NC	NC	n=s|g=m	
+9	de	de	P	P		
+10	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+11	(	(	PONCT	PONCT		
+12	ou	ou	CC	CC		
+13	de	de	P	P		
+14	ses	ses	DET	DET	n=p|p=3|poss=s	
+15	)	)	PONCT	PONCT		
+16	découvreur	découvreur	NC	NC	n=s|g=m	
+17	(	(	PONCT	PONCT		
+18	s	_	NPP	NPP		
+19	)	)	PONCT	PONCT		
+20	,	,	PONCT	PONCT		
+21	jusqu'	jusque	P	P		
+22	à	à	P	P		
+23	trois	trois	DET	DET	s=card|n=p	
+24	noms	nom	NC	NC	n=p|g=m	
+25	maximum	maximum	ADJ	ADJ		
+26	.	.	PONCT	PONCT		
+
+1	Dans	dans	P	P		
+2	le	le	DET	DET	n=s|g=m	
+3	cas	cas	NC	NC	g=m	
+4	des	de	P+D	P+D	n=p	
+5	comètes	comète	NC	NC	n=p|g=f	
+6	Halley	_	NPP	NPP		
+7	,	,	PONCT	PONCT		
+8	Encke	_	NPP	NPP		
+9	ou	ou	CC	CC		
+10	Lexell	_	NPP	NPP		
+11	,	,	PONCT	PONCT		
+12	il	il	CLS	CLS	n=s|g=m|p=3	
+13	s'	se	CLR	CLR	n=p,s|p=3	
+14	agit	agir	V	V	n=s|t=J,P|p=3	
+15	du	de	P+D	P+D	n=s|g=m	
+16	nom	nom	NC	NC	n=s|g=m	
+17	des	de	P+D	P+D	n=p	
+18	personnes	personne	NC	NC	n=p|g=f	
+19	qui	qui	PROREL	PROREL	n=s	
+20	ont	avoir	V	V	n=p|t=P|p=3	
+21	déterminé	déterminer	VPP	VPP	n=s|g=m|t=K	
+22	la	la	DET	DET	n=s|g=f	
+23	périodicité	périodicité	NC	NC	n=s|g=f	
+24	de	de	P	P		
+25	ces	ces	DET	DET	n=p	
+26	astres	astre	NC	NC	n=p|g=m	
+27	.	.	PONCT	PONCT		
+
+1	Quelques	quelques	DET	DET	n=p	
+2	comètes	comète	NC	NC	n=p|g=f	
+3	sont	être	V	V	n=p|t=P|p=3	
+4	nommées	nommer	VPP	VPP	n=p|g=f|t=K	
+5	d'	de	P	P		
+6	après	après	P	P		
+7	le	le	DET	DET	n=s|g=m	
+8	lieu	lieu	NC	NC	n=s|g=m	
+9	de	de	P	P		
+10	leur	leur	DET	DET	n=s|p=3|poss=p	
+11	découverte	découverte	NC	NC	n=s|g=f	
+12	(	(	PONCT	PONCT		
+13	la	la	DET	DET	n=s|g=f	
+14	comète	comète	NC	NC	n=s|g=f	
+15	Lulin	_	NPP	NPP		
+16	)	)	PONCT	PONCT		
+17	et	et	CC	CC		
+18	un	un	DET	DET	n=s|g=m	
+19	nombre	nombre	NC	NC	n=s|g=m	
+20	de	de	P	P		
+21	plus	plus	ADV	ADV		
+22	en	en	P	P		
+23	plus	plus	ADV	ADV		
+24	important	important	ADJ	ADJ	n=s|g=m	
+25	reçoit	recevoir	V	V	n=s|t=P|p=3	
+26	le	le	DET	DET	n=s|g=m	
+27	nom	nom	NC	NC	n=s|g=m	
+28	d'	de	P	P		
+29	un	un	DET	DET	n=s|g=m	
+30	programme	programme	NC	NC	n=s|g=m	
+31	de	de	P	P		
+32	recherche	recherche	NC	NC	n=s|g=f	
+33	automatique	automatique	ADJ	ADJ	n=s	
+34	,	,	PONCT	PONCT		
+35	comme	comme	P	P		
+36	LINEAR	_	NPP	NPP		
+37	ou	ou	CC	CC		
+38	NEAT	_	NPP	NPP		
+39	,	,	PONCT	PONCT		
+40	ou	ou	CC	CC		
+41	bien	bien	ADV	ADV		
+42	celui	celui	PRO	PRO	n=s|g=m	
+43	d'	de	P	P		
+44	un	un	DET	DET	n=s|g=m	
+45	satellite	satellite	NC	NC	n=s|g=m	
+46	artificiel	artificiel	ADJ	ADJ	n=s|g=m	
+47	,	,	PONCT	PONCT		
+48	comme	comme	P	P		
+49	SOHO	_	NPP	NPP		
+50	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	plus	plus	ADV	ADV		
+3	du	de	P+D	P+D	n=s|g=m	
+4	nom	nom	NC	NC	n=s|g=m	
+5	,	,	PONCT	PONCT		
+6	les	les	DET	DET	n=p	
+7	comètes	comète	NC	NC	n=p|g=f	
+8	reçoivent	recevoir	V	V	n=p|t=P,S|p=3	
+9	une	une	DET	DET	n=s|g=f	
+10	référence	référence	NC	NC	n=s|g=f	
+11	officielle	officiel	ADJ	ADJ	n=s|g=f	
+12	dont	dont	PROREL	PROREL		
+13	l'	le	DET	DET	n=s	
+14	attribution	attribution	NC	NC	n=s|g=f	
+15	obéit	obéir	V	V	n=s|t=J,P|p=3	
+16	à	à	P	P		
+17	un	un	DET	DET	n=s|g=m	
+18	nouveau	nouveau	ADJ	ADJ	n=s|g=m	
+19	procédé	procédé	NC	NC	n=s|g=m	
+20	(	(	PONCT	PONCT		
+21	préfixe	préfixe	NC	NC	n=s|g=m	
+22	selon	selon	P	P		
+23	la	la	DET	DET	n=s|g=f	
+24	période	période	NC	NC	n=s	
+25	suivie	suivre	VPP	VPP	n=s|g=f|t=K	
+26	d'	de	P	P		
+27	une	une	DET	DET	n=s|g=f	
+28	désignation	désignation	NC	NC	n=s|g=f	
+29	séquentielle	séquentiel	ADJ	ADJ	n=s|g=f	
+30	suivant	suivant	P	P		
+31	l'	le	DET	DET	n=s	
+32	ordre	ordre	NC	NC	n=s|g=m	
+33	des	de	P+D	P+D	n=p	
+34	découvertes	découverte	NC	NC	n=p|g=f	
+35	:	:	PONCT	PONCT		
+36	l'	le	DET	DET	n=s	
+37	année	année	NC	NC	n=s|g=f	
+38	,	,	PONCT	PONCT		
+39	puis	puis	CC	CC		
+40	une	une	DET	DET	n=s|g=f	
+41	lettre	lettre	NC	NC	n=s|g=f	
+42	majuscule	majuscule	ADJ	ADJ	n=s	
+43	identifiant	identifier	VPR	VPR	t=G	
+44	le	le	DET	DET	n=s|g=m	
+45	demi	demi	ADJ	ADJ	n=s	
+46	-	-	PONCT	PONCT		
+47	mois	mois	NC	NC	g=m	
+48	de	de	P	P		
+49	la	la	DET	DET	n=s|g=f	
+50	découverte	découverte	NC	NC	n=s|g=f	
+51	,	,	PONCT	PONCT		
+52	puis	puis	CC	CC		
+53	un	un	DET	DET	n=s|g=m	
+54	nombre	nombre	NC	NC	n=s|g=m	
+55	indiquant	indiquer	VPR	VPR	t=G	
+56	l'	le	DET	DET	n=s	
+57	ordre	ordre	NC	NC	n=s|g=m	
+58	de	de	P	P		
+59	la	la	DET	DET	n=s|g=f	
+60	découverte	découverte	NC	NC	n=s|g=f	
+61	dans	dans	P	P		
+62	ce	ce	DET	DET	n=s|g=m	
+63	demi	demi	ADJ	ADJ	n=s	
+64	-	-	PONCT	PONCT		
+65	mois	mois	NC	NC	g=m	
+66	)	)	PONCT	PONCT		
+67	depuis	depuis	P	P		
+68	le	le	DET	DET	n=s|g=m	
+69	1er	_	ADJ	ADJ		
+70	janvier	janvier	NC	NC	n=s|g=m	
+71	1995	1995	NC	NC		
+72	[	[	PONCT	PONCT		
+73	28	28	NC	NC		
+74	]	]	PONCT	PONCT		
+75	.	.	PONCT	PONCT		
+
+1	Avant	avant	P	P		
+2	le	le	DET	DET	n=s|g=m	
+3	1er	_	ADJ	ADJ		
+4	janvier	janvier	NC	NC	n=s|g=m	
+5	1995	1995	NC	NC		
+6	les	les	DET	DET	n=p	
+7	comètes	comète	NC	NC	n=p|g=f	
+8	recevaient	recevoir	V	V	n=p|t=I|p=3	
+9	une	une	DET	DET	n=s|g=f	
+10	désignation	désignation	NC	NC	n=s|g=f	
+11	provisoire	provisoire	ADJ	ADJ	n=s	
+12	constituée	constituer	VPP	VPP	n=s|g=f|t=K	
+13	par	par	P	P		
+14	l'	le	DET	DET	n=s	
+15	année	année	NC	NC	n=s|g=f	
+16	de	de	P	P		
+17	la	la	DET	DET	n=s|g=f	
+18	découverte	découverte	NC	NC	n=s|g=f	
+19	suivie	suivre	VPP	VPP	n=s|g=f|t=K	
+20	d'	de	P	P		
+21	une	une	DET	DET	n=s|g=f	
+22	lettre	lettre	NC	NC	n=s|g=f	
+23	en	en	P	P		
+24	minuscule	minuscule	NC	NC	n=s|g=f	
+25	correspondant	correspondre	VPR	VPR	t=G	
+26	à	à	P	P		
+27	l'	le	DET	DET	n=s	
+28	ordre	ordre	NC	NC	n=s|g=m	
+29	de	de	P	P		
+30	la	la	DET	DET	n=s|g=f	
+31	découverte	découverte	NC	NC	n=s|g=f	
+32	.	.	PONCT	PONCT		
+
+1	Par	par	P	P		
+2	exemple	exemple	NC	NC	n=s|g=m	
+3	,	,	PONCT	PONCT		
+4	1965f	_	NC	NC		
+5	,	,	PONCT	PONCT		
+6	sixième	sixième	ADJ	ADJ	n=s	
+7	comète	comète	NC	NC	n=s|g=f	
+8	trouvée	trouver	VPP	VPP	n=s|g=f|t=K	
+9	pendant	pendant	P	P		
+10	l'	le	DET	DET	n=s	
+11	année	année	NC	NC	n=s|g=f	
+12	1965	1965	NC	NC		
+13	.	.	PONCT	PONCT		
+
+1	Plus	plus	ADV	ADV		
+2	tard	tard	ADV	ADV		
+3	,	,	PONCT	PONCT		
+4	le	le	DET	DET	n=s|g=m	
+5	nom	nom	NC	NC	n=s|g=m	
+6	définitif	définitif	ADJ	ADJ	n=s|g=m	
+7	lui	lui	CLO	CLO	n=s|p=3	
+8	était	être	V	V	n=s|t=I|p=3	
+9	attribué	attribuer	VPP	VPP	n=s|g=m|t=K	
+10	selon	selon	P	P		
+11	les	les	DET	DET	n=p	
+12	critères	critère	NC	NC	n=p|g=m	
+13	suivants	suivant	ADJ	ADJ	n=p|g=m	
+14	:	:	PONCT	PONCT		
+15	l'	le	DET	DET	n=s	
+16	année	année	NC	NC	n=s|g=f	
+17	du	de	P+D	P+D	n=s|g=m	
+18	passage	passage	NC	NC	n=s|g=m	
+19	au	à	P+D	P+D	n=s|g=m	
+20	périhélie	périhélie	NC	NC	n=s|g=m	
+21	,	,	PONCT	PONCT		
+22	suivie	suivre	VPP	VPP	n=s|g=f|t=K	
+23	d'	de	P	P		
+24	un	un	DET	DET	n=s|g=m	
+25	numéro	numéro	NC	NC	n=s|g=m	
+26	noté	noter	VPP	VPP	n=s|g=m|t=K	
+27	en	en	P	P		
+28	chiffres	chiffre	NC	NC	n=p|g=m	
+29	romains	romain	NC	NC	n=p|g=m	
+30	indiquant	indiquer	VPR	VPR	t=G	
+31	l'	le	DET	DET	n=s	
+32	ordre	ordre	NC	NC	n=s|g=m	
+33	chronologique	chronologique	ADJ	ADJ	n=s	
+34	du	de	P+D	P+D	n=s|g=m	
+35	passage	passage	NC	NC	n=s|g=m	
+36	au	à	P+D	P+D	n=s|g=m	
+37	périhélie	périhélie	NC	NC	n=s|g=m	
+38	(	(	PONCT	PONCT		
+39	exemple	exemple	NC	NC	n=s|g=m	
+40	:	:	PONCT	PONCT		
+41	1994	1994	NC	NC		
+42	IV	_	NPP	NPP		
+43	,	,	PONCT	PONCT		
+44	quatrième	quatrième	ADJ	ADJ	n=s	
+45	comète	comète	NC	NC	n=s|g=f	
+46	passée	passer	VPP	VPP	n=s|g=f|t=K	
+47	au	à	P+D	P+D	n=s|g=m	
+48	périhélie	périhélie	NC	NC	n=s|g=m	
+49	en	en	P	P		
+50	1994	1994	NC	NC		
+51	)	)	PONCT	PONCT		
+52	.	.	PONCT	PONCT		
+
+1	Ce	ce	DET	DET	n=s|g=m	
+2	procédé	procédé	NC	NC	n=s|g=m	
+3	comportait	comporter	V	V	n=s|t=I|p=3	
+4	de	de	DET	DET	n=p	
+5	nombreux	nombreux	ADJ	ADJ	g=m	
+6	inconvénients	inconvénient	NC	NC	n=p|g=m	
+7	:	:	PONCT	PONCT		
+8	la	la	DET	DET	n=s|g=f	
+9	multiplication	multiplication	NC	NC	n=s|g=f	
+10	des	de	P+D	P+D	n=p	
+11	découvertes	découverte	NC	NC	n=p|g=f	
+12	épuisait	épuiser	V	V	n=s|t=I|p=3	
+13	l'	le	DET	DET	n=s	
+14	alphabet	alphabet	NC	NC	n=s|g=m	
+15	.	.	PONCT	PONCT		
+
+1	Quand	quand	CS	CS		
+2	on	on	CLS	CLS	n=s|p=3	
+3	découvrait	découvrir	V	V	n=s|t=I|p=3	
+4	une	une	DET	DET	n=s|g=f	
+5	27e	_	ADJ	ADJ		
+6	comète	comète	NC	NC	n=s|g=f	
+7	dans	dans	P	P		
+8	l'	le	DET	DET	n=s	
+9	année	année	NC	NC	n=s|g=f	
+10	,	,	PONCT	PONCT		
+11	il	il	CLS	CLS	n=s|g=m|p=3	
+12	fallait	falloir	V	V	n=s|t=I|p=3	
+13	recommencer	recommencer	VINF	VINF	t=W	
+14	l'	le	DET	DET	n=s	
+15	alphabet	alphabet	NC	NC	n=s|g=m	
+16	en	en	P	P		
+17	faisant	faire	VPR	VPR	t=G	
+18	suivre	suivre	VINF	VINF	t=W	
+19	la	la	DET	DET	n=s|g=f	
+20	lettre	lettre	NC	NC	n=s|g=f	
+21	du	de	P+D	P+D	n=s|g=m	
+22	chiffre	chiffre	NC	NC	n=s|g=m	
+23	1	1	NC	NC		
+24	(	(	PONCT	PONCT		
+25	comme	comme	P	P		
+26	1991a1	_	NC	NC		
+27	)	)	PONCT	PONCT		
+28	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	découvertes	découverte	NC	NC	n=p|g=f	
+3	de	de	P	P		
+4	comètes	comète	NC	NC	n=p|g=f	
+5	après	après	P	P		
+6	leur	leur	DET	DET	n=s|p=3|poss=p	
+7	passage	passage	NC	NC	n=s|g=m	
+8	au	à	P+D	P+D	n=s|g=m	
+9	périhélie	périhélie	NC	NC	n=s|g=m	
+10	rendaient	rendre	V	V	n=p|t=I|p=3	
+11	difficile	difficile	ADJ	ADJ	n=s	
+12	une	une	DET	DET	n=s|g=f	
+13	désignation	désignation	NC	NC	n=s|g=f	
+14	officielle	officiel	ADJ	ADJ	n=s|g=f	
+15	cohérente	cohérent	ADJ	ADJ	n=s|g=f	
+16	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	comètes	comète	NC	NC	n=p|g=f	
+3	à	à	P	P		
+4	courte	court	ADJ	ADJ	n=s|g=f	
+5	période	période	NC	NC	n=s	
+6	multipliaient	multiplier	V	V	n=p|t=I|p=3	
+7	les	les	DET	DET	n=p	
+8	désignations	désignation	NC	NC	n=p|g=f	
+9	,	,	PONCT	PONCT		
+10	une	une	DET	DET	n=s|g=f	
+11	nouvelle	nouveau	ADJ	ADJ	n=s|g=f	
+12	étant	être	VPR	VPR	t=G	
+13	attribuée	attribuer	VPP	VPP	n=s|g=f|t=K	
+14	à	à	P	P		
+15	chacun	chacun	PRO	PRO	n=s|g=m	
+16	de	de	P	P		
+17	leurs	leurs	DET	DET	n=p|p=3|poss=p	
+18	retours	retour	NC	NC	n=p|g=m	
+19	.	.	PONCT	PONCT		
+
+1	Depuis	depuis	P	P		
+2	le	le	DET	DET	n=s|g=m	
+3	1er	_	ADJ	ADJ		
+4	janvier	janvier	NC	NC	n=s|g=m	
+5	1995	1995	NC	NC		
+6	,	,	PONCT	PONCT		
+7	une	une	DET	DET	n=s|g=f	
+8	nouvelle	nouveau	ADJ	ADJ	n=s|g=f	
+9	nomenclature	nomenclature	NC	NC	n=s|g=f	
+10	,	,	PONCT	PONCT		
+11	inspirée	inspirer	VPP	VPP	n=s|g=f|t=K	
+12	par	par	P	P		
+13	celle	celle	PRO	PRO	n=s|g=f	
+14	appliquée	appliquer	VPP	VPP	n=s|g=f|t=K	
+15	aux	à	P+D	P+D	n=p	
+16	astéroïdes	astéroïde	NC	NC	n=p|g=m	
+17	,	,	PONCT	PONCT		
+18	est	être	V	V	n=s|t=P|p=3	
+19	attribuée	attribuer	VPP	VPP	n=s|g=f|t=K	
+20	comme	comme	P	P		
+21	ceci	ceci	PRO	PRO	n=s|g=m	
+22	:	:	PONCT	PONCT		
+
+1	Ainsi	ainsi	ADV	ADV		
+2	pour	pour	P	P		
+3	C	_	NC	NC		
+4	/	/	PONCT	PONCT		
+5	1995	1995	NC	NC		
+6	O1	_	NC	NC		
+7	Hale	Hale	NPP	NPP	n=s|g=m	
+8	-	-	PONCT	PONCT		
+9	Bopp	_	NPP	NPP		
+10	:	:	PONCT	PONCT		
+
+1	Lorsque	lorsque	CS	CS		
+2	plusieurs	plusieurs	DET	DET	n=p	
+3	comètes	comète	NC	NC	n=p|g=f	
+4	portent	porter	V	V	n=p|t=P,S|p=3	
+5	le	le	DET	DET	n=s|g=m	
+6	nom	nom	NC	NC	n=s|g=m	
+7	d'	de	P	P		
+8	un	un	DET	DET	n=s|g=m	
+9	même	même	ADJ	ADJ	n=s	
+10	découvreur	découvreur	NC	NC	n=s|g=m	
+11	,	,	PONCT	PONCT		
+12	un	un	DET	DET	n=s|g=m	
+13	numéro	numéro	NC	NC	n=s|g=m	
+14	est	être	V	V	n=s|t=P|p=3	
+15	parfois	parfois	ADV	ADV		
+16	ajouté	ajouter	VPP	VPP	n=s|g=m|t=K	
+17	pour	pour	P	P		
+18	les	les	CLO	CLO	n=p|p=3	
+19	différencier	différencier	VINF	VINF	t=W	
+20	(	(	PONCT	PONCT		
+21	comète	comète	NC	NC	n=s|g=f	
+22	Hartley	Hartley	NPP	NPP	n=s	
+23	2	2	VPP	VPP		
+24	par	par	P	P		
+25	exemple	exemple	NC	NC	n=s|g=m	
+26	)	)	PONCT	PONCT		
+27	.	.	PONCT	PONCT		
+
+1	Pour	pour	P	P		
+2	les	les	DET	DET	n=p	
+3	comètes	comète	NC	NC	n=p|g=f	
+4	périodiques	périodique	ADJ	ADJ	n=p	
+5	dont	dont	PROREL	PROREL		
+6	le	le	DET	DET	n=s|g=m	
+7	retour	retour	NC	NC	n=s|g=m	
+8	a	avoir	V	V	n=s|t=P|p=3	
+9	été	être	VPP	VPP	t=K	
+10	observé	observer	VPP	VPP	n=s|g=m|t=K	
+11	au	à	P+D	P+D	n=s|g=m	
+12	moins	moins	ADV	ADV		
+13	une	une	DET	DET	n=s|g=f	
+14	fois	fois	NC	NC	g=f	
+15	,	,	PONCT	PONCT		
+16	la	la	DET	DET	n=s|g=f	
+17	désignation	désignation	NC	NC	n=s|g=f	
+18	subit	subir	V	V	n=s|t=J,P|p=3	
+19	une	une	DET	DET	n=s|g=f	
+20	légère	léger	ADJ	ADJ	n=s|g=f	
+21	modification	modification	NC	NC	n=s|g=f	
+22	.	.	PONCT	PONCT		
+
+1	Par	par	P	P		
+2	exemple	exemple	NC	NC	n=s|g=m	
+3	la	la	DET	DET	n=s|g=f	
+4	comète	comète	NC	NC	n=s|g=f	
+5	P	_	NPP	NPP		
+6	/	/	PONCT	PONCT		
+7	2001	2001	NC	NC		
+8	J1	_	NPP	NPP		
+9	(	(	PONCT	PONCT		
+10	NEAT	_	NPP	NPP		
+11	)	)	PONCT	PONCT		
+12	a	avoir	V	V	n=s|t=P|p=3	
+13	été	être	VPP	VPP	t=K	
+14	retrouvée	retrouver	VPP	VPP	n=s|g=f|t=K	
+15	en	en	P	P		
+16	2008	2008	NC	NC		
+17	,	,	PONCT	PONCT		
+18	conformément	_	ADV	ADV		
+19	aux	à	P+D	P+D	n=p	
+20	calculs	calcul	NC	NC	n=p|g=m	
+21	de	de	P	P		
+22	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+23	période	période	NC	NC	n=s	
+24	orbitale	orbital	ADJ	ADJ	n=s|g=f	
+25	.	.	PONCT	PONCT		
+
+1	Sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+2	périodicité	périodicité	NC	NC	n=s|g=f	
+3	ne	ne	ADV	ADV		
+4	faisant	faire	VPR	VPR	t=G	
+5	aucun	aucun	DET	DET	n=s|g=m	
+6	doute	doute	NC	NC	n=s|g=m	
+7	,	,	PONCT	PONCT		
+8	elle	elle	CLS	CLS	n=s|g=f|p=3	
+9	a	avoir	V	V	n=s|t=P|p=3	
+10	reçu	recevoir	VPP	VPP	n=s|g=m|t=K	
+11	l'	le	DET	DET	n=s	
+12	appellation	appellation	NC	NC	n=s|g=f	
+13	définitive	définitif	ADJ	ADJ	n=s|g=f	
+14	207P	_	NC	NC		
+15	/	/	PONCT	PONCT		
+16	NEAT	_	NPP	NPP		
+17	,	,	PONCT	PONCT		
+18	indiquant	indiquer	VPR	VPR	t=G	
+19	qu'	que	CS	CS		
+20	il	il	CLS	CLS	n=s|g=m|p=3	
+21	s'	se	CLR	CLR	n=p,s|p=3	
+22	agit	agir	V	V	n=s|t=J,P|p=3	
+23	de	de	P	P		
+24	la	la	DET	DET	n=s|g=f	
+25	207e	_	ADJ	ADJ		
+26	comète	comète	NC	NC	n=s|g=f	
+27	périodique	périodique	ADJ	ADJ	n=s	
+28	confirmée	confirmer	VPP	VPP	n=s|g=f|t=K	
+29	[	[	PONCT	PONCT		
+30	29	29	NC	NC		
+31	]	]	PONCT	PONCT		
+32	.	.	PONCT	PONCT		
+
+1	Note	note	NC	NC	n=s|g=f	
+2	:	:	PONCT	PONCT		
+3	les	les	DET	DET	n=p	
+4	lettres	lettre	NC	NC	n=p|g=f	
+5	I	_	NPP	NPP		
+6	et	et	CC	CC		
+7	Z	_	NPP	NPP		
+8	ne	ne	ADV	ADV		
+9	sont	être	V	V	n=p|t=P|p=3	
+10	pas	pas	ADV	ADV		
+11	utilisées	utiliser	VPP	VPP	n=p|g=f|t=K	
+12	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	Centre	Centre	NPP	NPP	n=s|g=m	
+3	des	de	P+D	P+D	n=p	
+4	planètes	planète	NC	NC	n=p|g=f	
+5	mineures	mineur	ADJ	ADJ	n=p|g=f	
+6	répertorie	répertorier	V	V	n=s|t=P,S|p=1,3	
+7	à	à	P	P		
+8	l'	le	DET	DET	n=s	
+9	heure	heure	NC	NC	n=s|g=f	
+10	actuelle	actuel	ADJ	ADJ	n=s|g=f	
+11	4_026	4_026	NC	NC		
+12	comètes	comète	NC	NC	n=p|g=f	
+13	[	[	PONCT	PONCT		
+14	30	30	NC	NC		
+15	]	]	PONCT	PONCT		
+16	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	une	un	PRO	PRO	n=s|g=f	
+3	des	de	P+D	P+D	n=p	
+4	plus	plus	ADV	ADV		
+5	célèbres	célèbre	ADJ	ADJ	n=p	
+6	est	être	V	V	n=s|t=P|p=3	
+7	la	la	DET	DET	n=s|g=f	
+8	comète	comète	NC	NC	n=s|g=f	
+9	de	de	P	P		
+10	Halley	_	NPP	NPP		
+11	,	,	PONCT	PONCT		
+12	qui	qui	PROREL	PROREL	n=s	
+13	réapparaît	réapparaître	V	V	n=s|t=P|p=3	
+14	tous	tout	ADJ	ADJ	n=p|g=m	
+15	les	les	DET	DET	n=p	
+16	75	75	NC	NC		
+17	ou	ou	CC	CC		
+18	76	76	ADJ	ADJ		
+19	ans	an	NC	NC	n=p|g=m	
+20	.	.	PONCT	PONCT		
+
+1	Parmi	parmi	P	P		
+2	les	les	DET	DET	n=p	
+3	autres	autre	ADJ	ADJ	n=p	
+4	comètes	comète	NC	NC	n=p|g=f	
+5	les	les	DET	DET	n=p	
+6	plus	plus	ADV	ADV		
+7	connues	connaître	VPP	VPP	n=p|g=f|t=K	
+8	,	,	PONCT	PONCT		
+9	on	on	CLS	CLS	n=s|p=3	
+10	peut	pouvoir	V	V	n=s|t=P|p=3	
+11	citer	citer	VINF	VINF	t=W	
+12	:	:	PONCT	PONCT		
+
+1	Sur	sur	P	P		
+2	les	les	DET	DET	n=p	
+3	autres	autre	ADJ	ADJ	n=p	
+4	projets	projet	NC	NC	n=p|g=m	
+5	Wikimedia	_	NPP	NPP		
+6	:	:	PONCT	PONCT		
+7	Quelques	quelques	DET	DET	n=p	
+8	comètes	comète	NC	NC	n=p|g=f	
+9	fameuses	fameux	ADJ	ADJ	n=p|g=f	
+10	:	:	PONCT	PONCT		
+
+1	Sondes	sonde	NC	NC	n=p|g=f	
+2	spatiales	spatial	ADJ	ADJ	n=p|g=f	
+3	ayant	avoir	VPR	VPR	t=G	
+4	exploré	explorer	VPP	VPP	n=s|g=m|t=K	
+5	des	de	P+D	P+D	n=p	
+6	comètes	comète	NC	NC	n=p|g=f	
+7	:	:	PONCT	PONCT		
+

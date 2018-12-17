@@ -1,0 +1,1831 @@
+1	La	la	DET	DET	n=s|g=f	
+2	mode	mode	NC	NC	n=s	
+3	est	être	V	V	n=s|t=P|p=3	
+4	née	naître	VPP	VPP	n=s|g=f|t=K	
+5	de	de	P	P		
+6	la	la	DET	DET	n=s|g=f	
+7	volonté	volonté	NC	NC	n=s|g=f	
+8	des	de	P+D	P+D	n=p	
+9	plus	plus	ADV	ADV		
+10	riches	riche	ADJ	ADJ	n=p	
+11	de	de	P	P		
+12	se	se	CLR	CLR	n=p,s|p=3	
+13	différencier	différencier	VINF	VINF	t=W	
+14	des	de	P+D	P+D	n=p	
+15	autres	autre	ADJ	ADJ	n=p	
+16	par	par	P	P		
+17	des	des	DET	DET	n=p	
+18	nouveautés	nouveauté	NC	NC	n=p|g=f	
+19	vestimentaires	vestimentaire	ADJ	ADJ	n=p	
+20	.	.	PONCT	PONCT		
+
+1	C'	ce	CLS	CLS		
+2	est	être	V	V	n=s|t=P|p=3	
+3	surtout	surtout	ADV	ADV		
+4	à	à	P	P		
+5	la	la	DET	DET	n=s|g=f	
+6	fin	fin	NC	NC	n=s	
+7	du	de	P+D	P+D	n=s|g=m	
+8	Moyen	Moyen	NPP	NPP	n=s|g=m	
+9	Âge	_	ADV	ADV		
+10	que	que	CS	CS		
+11	l'	le	DET	DET	n=s	
+12	on	on	CLS	CLS	n=s|p=3	
+13	assiste	assister	V	V	n=s|t=P,S|p=1,3	
+14	à	à	P	P		
+15	de	de	DET	DET	n=p	
+16	fréquents	fréquent	ADJ	ADJ	n=p|g=m	
+17	changements	changement	NC	NC	n=p|g=m	
+18	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	modes	mode	NC	NC	n=p	
+3	nouvelles	nouveau	ADJ	ADJ	n=p|g=f	
+4	prenaient	prendre	V	V	n=p|t=I|p=3	
+5	leur	leur	DET	DET	n=s|p=3|poss=p	
+6	naissance	naissance	NC	NC	n=s|g=f	
+7	chez	chez	P	P		
+8	les	les	DET	DET	n=p	
+9	plus	plus	ADV	ADV		
+10	puissants	puissant	ADJ	ADJ	n=p|g=m	
+11	(	(	PONCT	PONCT		
+12	rois	roi	NC	NC	n=p|g=m	
+13	et	et	CC	CC		
+14	nobles	noble	ADJ	ADJ	n=p	
+15	)	)	PONCT	PONCT		
+16	.	.	PONCT	PONCT		
+
+1	Certains	certain	DET	DET	n=p|g=m	
+2	pays	pays	NC	NC	g=m	
+3	,	,	PONCT	PONCT		
+4	comme	comme	P	P		
+5	la	la	DET	DET	n=s|g=f	
+6	France	France	NPP	NPP	n=s|g=f,m	
+7	,	,	PONCT	PONCT		
+8	l'	le	DET	DET	n=s	
+9	Italie	Italie	NPP	NPP	n=s|g=f	
+10	ou	ou	CC	CC		
+11	l'	le	DET	DET	n=s	
+12	Espagne	Espagne	NPP	NPP	n=s|g=f	
+13	,	,	PONCT	PONCT		
+14	étaient	être	V	V	n=p|t=I|p=3	
+15	pris	prendre	VPP	VPP	g=m|t=K	
+16	en	en	P	P		
+17	exemple	exemple	NC	NC	n=s|g=m	
+18	par	par	P	P		
+19	les	les	DET	DET	n=p	
+20	autres	autre	ADJ	ADJ	n=p	
+21	cours	cour	NC	NC	n=p|g=f	
+22	royales	royal	ADJ	ADJ	n=p|g=f	
+23	ou	ou	CC	CC		
+24	princières	princier	ADJ	ADJ	n=p|g=f	
+25	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	portraits	portrait	NC	NC	n=p|g=m	
+3	montraient	montrer	V	V	n=p|t=I|p=3	
+4	les	les	DET	DET	n=p	
+5	grands	grand	ADJ	ADJ	n=p|g=m	
+6	personnages	personnage	NC	NC	n=p|g=m	
+7	portant	porter	VPR	VPR	t=G	
+8	des	des	DET	DET	n=p	
+9	vêtements	vêtement	NC	NC	n=p|g=m	
+10	différents	différent	ADJ	ADJ	n=p|g=m	
+11	de	de	P	P		
+12	leurs	leurs	DET	DET	n=p|p=3|poss=p	
+13	prédécesseurs	prédécesseur	NC	NC	n=p|g=m	
+14	.	.	PONCT	PONCT		
+
+1	Par	par	P	P		
+2	exemple	exemple	NC	NC	n=s|g=m	
+3	,	,	PONCT	PONCT		
+4	sur	sur	P	P		
+5	les	les	DET	DET	n=p	
+6	peintures	peinture	NC	NC	n=p|g=f	
+7	,	,	PONCT	PONCT		
+8	on	on	CLS	CLS	n=s|p=3	
+9	reconnaît	reconnaître	V	V	n=s|t=P|p=3	
+10	facilement	_	ADV	ADV		
+11	chaque	chaque	DET	DET	n=s	
+12	roi	roi	NC	NC	n=s|g=m	
+13	(	(	PONCT	PONCT		
+14	François	François	NPP	NPP	n=s|g=m	
+15	Ier	_	NPP	NPP		
+16	,	,	PONCT	PONCT		
+17	Henri	Henri	NPP	NPP	n=s|g=m	
+18	III	_	NPP	NPP		
+19	,	,	PONCT	PONCT		
+20	Henri	Henri	NPP	NPP	n=s|g=m	
+21	IV	_	NPP	NPP		
+22	,	,	PONCT	PONCT		
+23	Louis	Louis	NPP	NPP	n=s|g=m	
+24	XIII	_	NPP	NPP		
+25	,	,	PONCT	PONCT		
+26	Louis	Louis	NPP	NPP	n=s|g=m	
+27	XIV	_	NPP	NPP		
+28	et	et	CC	CC		
+29	Louis	Louis	NPP	NPP	n=s|g=m	
+30	XV	_	NPP	NPP		
+31	)	)	PONCT	PONCT		
+32	,	,	PONCT	PONCT		
+33	grâce	grâce	NC	NC	n=s|g=f	
+34	à	à	P	P		
+35	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+36	costume	costume	NC	NC	n=s|g=m	
+37	plutôt	plutôt	ADV	ADV		
+38	qu'	que	CS	CS		
+39	à	à	P	P		
+40	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+41	visage	visage	NC	NC	n=s|g=m	
+42	.	.	PONCT	PONCT		
+
+1	Cette	cette	DET	DET	n=s|g=f	
+2	mode	mode	NC	NC	n=s	
+3	vestimentaire	vestimentaire	ADJ	ADJ	n=s	
+4	influençait	influencer	V	V	n=s|t=I|p=3	
+5	tous	tout	ADJ	ADJ	n=p|g=m	
+6	les	les	DET	DET	n=p	
+7	nobles	noble	NC	NC	n=p	
+8	de	de	P	P		
+9	l'	le	DET	DET	n=s	
+10	époque	époque	NC	NC	n=s|g=f	
+11	,	,	PONCT	PONCT		
+12	parfois	parfois	ADV	ADV		
+13	très	très	ADV	ADV		
+14	loin	loin	ADV	ADV		
+15	.	.	PONCT	PONCT		
+
+1	Pour	pour	P	P		
+2	montrer	montrer	VINF	VINF	t=W	
+3	les	les	DET	DET	n=p	
+4	robes	robe	NC	NC	n=p|g=f	
+5	des	de	P+D	P+D	n=p	
+6	reines	reine	NC	NC	n=p|g=f	
+7	et	et	CC	CC		
+8	princesses	princesse	NC	NC	n=p	
+9	,	,	PONCT	PONCT		
+10	des	de	P+D	P+D	n=p	
+11	poupées	poupée	NC	NC	n=p|g=f	
+12	mannequins	mannequin	NC	NC	n=p|g=m	
+13	circulaient	circuler	V	V	n=p|t=I|p=3	
+14	et	et	CC	CC		
+15	informaient	informer	V	V	n=p|t=I|p=3	
+16	les	les	DET	DET	n=p	
+17	cours	cour	NC	NC	n=p|g=f	
+18	étrangères	étranger	ADJ	ADJ	n=p|g=f	
+19	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	ne	ne	ADV	ADV		
+3	s'	se	CLR	CLR	n=p,s|p=3	
+4	agissait	agir	V	V	n=s|t=I|p=3	
+5	alors	alors	ADV	ADV		
+6	pas	pas	ADV	ADV		
+7	de	de	P	P		
+8	jouets	jouet	NC	NC	n=p|g=m	
+9	pour	pour	P	P		
+10	les	les	DET	DET	n=p	
+11	petites	petit	ADJ	ADJ	n=p|g=f	
+12	filles	fille	NC	NC	n=p|g=f	
+13	,	,	PONCT	PONCT		
+14	mais	mais	CC	CC		
+15	d'	de	P	P		
+16	exemples	exemple	NC	NC	n=p|g=m	
+17	en	en	P	P		
+18	modèle	modèle	NC	NC	n=s|g=m	
+19	réduit	réduire	VPP	VPP	n=s|g=m|t=K	
+20	de	de	P	P		
+21	ce	ce	PRO	PRO	n=s	
+22	qui	qui	PROREL	PROREL	n=s	
+23	se	se	CLR	CLR	n=p,s|p=3	
+24	portait	porter	V	V	n=s|t=I|p=3	
+25	à	à	P	P		
+26	la	la	DET	DET	n=s|g=f	
+27	cour	cour	NC	NC	n=s|g=f	
+28	de	de	P	P		
+29	France	France	NPP	NPP	n=s|g=f,m	
+30	.	.	PONCT	PONCT		
+
+1	Depuis	depuis	P	P		
+2	le	le	DET	DET	n=s|g=m	
+3	XVIe	_	ADJ	ADJ		
+4	siècle	siècle	NC	NC	n=s|g=m	
+5	jusqu'	jusque	P	P		
+6	au	à	P+D	P+D	n=s|g=m	
+7	XIXe	_	NPP	NPP		
+8	,	,	PONCT	PONCT		
+9	ces	ces	DET	DET	n=p	
+10	poupées	poupée	NC	NC	n=p|g=f	
+11	de	de	P	P		
+12	luxe	luxe	NC	NC	n=s|g=m	
+13	servaient	servir	V	V	n=p|t=I|p=3	
+14	d'	de	P	P		
+15	ambassadrices	ambassadeur	NC	NC	n=p|g=f	
+16	de	de	P	P		
+17	la	la	DET	DET	n=s|g=f	
+18	mode	mode	NC	NC	n=s	
+19	.	.	PONCT	PONCT		
+
+1	Puis	puis	CC	CC		
+2	ce	ce	CLS	CLS		
+3	furent	être	V	V	n=p|t=J|p=3	
+4	des	des	DET	DET	n=p	
+5	gravures	gravure	NC	NC	n=p|g=f	
+6	de	de	P	P		
+7	mode	mode	NC	NC	n=s	
+8	à	à	P	P		
+9	partir	partir	VINF	VINF	t=W	
+10	du	de	P+D	P+D	n=s|g=m	
+11	XVIIe	_	ADJ	ADJ		
+12	siècle	siècle	NC	NC	n=s|g=m	
+13	et	et	CC	CC		
+14	surtout	surtout	ADV	ADV		
+15	au	à	P+D	P+D	n=s|g=m	
+16	XIXe	_	NPP	NPP		
+17	,	,	PONCT	PONCT		
+18	où	où	PROREL	PROREL		
+19	elles	elles	CLS	CLS	n=p|g=f|p=3	
+20	étaient	être	V	V	n=p|t=I|p=3	
+21	en	en	P	P		
+22	couleur	couleur	NC	NC	n=s|g=f	
+23	.	.	PONCT	PONCT		
+
+1	Enfin	enfin	ADV	ADV		
+2	,	,	PONCT	PONCT		
+3	furent	être	V	V	n=p|t=J|p=3	
+4	créées	créer	VPP	VPP	n=p|g=f|t=K	
+5	les	les	DET	DET	n=p	
+6	revues	revue	NC	NC	n=p|g=f	
+7	de	de	P	P		
+8	mode	mode	NC	NC	n=s	
+9	qui	qui	PROREL	PROREL	n=s	
+10	se	se	CLR	CLR	n=p,s|p=3	
+11	répandirent	répandre	V	V	n=p|t=J|p=3	
+12	de	de	P	P		
+13	plus	plus	ADV	ADV		
+14	en	en	P	P		
+15	plus	plus	ADV	ADV		
+16	.	.	PONCT	PONCT		
+
+1	On	on	CLS	CLS	n=s|p=3	
+2	connaissait	connaître	V	V	n=s|t=I|p=3	
+3	de	de	P	P		
+4	mieux	mieux	ADV	ADV		
+5	en	en	P	P		
+6	mieux	mieux	ADV	ADV		
+7	la	la	DET	DET	n=s|g=f	
+8	mode	mode	NC	NC	n=s	
+9	de	de	P	P		
+10	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+11	époque	époque	NC	NC	n=s|g=f	
+12	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	influence	influence	NC	NC	n=s|g=f	
+3	de	de	P	P		
+4	la	la	DET	DET	n=s|g=f	
+5	mode	mode	NC	NC	n=s	
+6	ne	ne	ADV	ADV		
+7	s'	se	CLR	CLR	n=p,s|p=3	
+8	exerce	exercer	V	V	n=s|t=P,S|p=1,3	
+9	pas	pas	ADV	ADV		
+10	uniquement	_	ADV	ADV		
+11	sur	sur	P	P		
+12	les	les	DET	DET	n=p	
+13	femmes	femme	NC	NC	n=p|g=f	
+14	.	.	PONCT	PONCT		
+
+1	Jusqu'	jusque	P	P		
+2	au	à	P+D	P+D	n=s|g=m	
+3	XVIIe	_	ADJ	ADJ		
+4	siècle	siècle	NC	NC	n=s|g=m	
+5	,	,	PONCT	PONCT		
+6	les	les	DET	DET	n=p	
+7	hommes	homme	NC	NC	n=p|g=m	
+8	riches	riche	ADJ	ADJ	n=p	
+9	ne	ne	ADV	ADV		
+10	portaient	porter	V	V	n=p|t=I|p=3	
+11	autour	autour	NC	NC	n=s|g=m	
+12	du	de	P+D	P+D	n=s|g=m	
+13	cou	cou	NC	NC	n=s|g=m	
+14	qu'	que	CS	CS		
+15	un	un	DET	DET	n=s|g=m	
+16	grand	grand	ADJ	ADJ	n=s|g=m	
+17	col	col	NC	NC	n=s|g=m	
+18	ou	ou	CC	CC		
+19	un	un	DET	DET	n=s|g=m	
+20	jabot	jabot	NC	NC	n=s|g=m	
+21	de	de	P	P		
+22	dentelle	dentelle	NC	NC	n=s|g=f	
+23	.	.	PONCT	PONCT		
+
+1	C'	ce	CLS	CLS		
+2	est	être	V	V	n=s|t=P|p=3	
+3	l'	le	DET	DET	n=s	
+4	arrivée	arrivée	NC	NC	n=s|g=f	
+5	de	de	P	P		
+6	soldats	soldat	NC	NC	n=p|g=m	
+7	croates	croate	ADJ	ADJ	n=p	
+8	au	à	P+D	P+D	n=s|g=m	
+9	service	service	NC	NC	n=s|g=m	
+10	du	de	P+D	P+D	n=s|g=m	
+11	roi	roi	NC	NC	n=s|g=m	
+12	Louis	Louis	NPP	NPP	n=s|g=m	
+13	XIV	_	NPP	NPP		
+14	qui	qui	PROREL	PROREL	n=s	
+15	fit	faire	V	V	n=s|t=J|p=3	
+16	appeler	appeler	VINF	VINF	t=W	
+17	du	de	P+D	P+D	n=s|g=m	
+18	mot	mot	NC	NC	n=s|g=m	
+19	cravate	cravater	V	V	n=s|t=P,S|p=1,3	
+20	l'	le	DET	DET	n=s	
+21	écharpe	écharpe	NC	NC	n=s|g=f	
+22	légère	léger	ADJ	ADJ	n=s|g=f	
+23	qu'	que	PROREL	PROREL		
+24	ils	ils	CLS	CLS	n=p|g=m|p=3	
+25	portaient	porter	V	V	n=p|t=I|p=3	
+26	autour	autour	NC	NC	n=s|g=m	
+27	du	de	P+D	P+D	n=s|g=m	
+28	cou	cou	NC	NC	n=s|g=m	
+29	et	et	CC	CC		
+30	qui	qui	PROREL	PROREL	n=s	
+31	fut	être	V	V	n=s|t=J|p=3	
+32	rapidement	_	ADV	ADV		
+33	adoptée	adopter	VPP	VPP	n=s|g=f|t=K	
+34	par	par	P	P		
+35	un	un	DET	DET	n=s|g=m	
+36	grand	grand	ADJ	ADJ	n=s|g=m	
+37	nombre	nombre	NC	NC	n=s|g=m	
+38	d'	de	P	P		
+39	hommes	homme	NC	NC	n=p|g=m	
+40	.	.	PONCT	PONCT		
+
+1	Néanmoins	néanmoins	ADV	ADV		
+2	,	,	PONCT	PONCT		
+3	après	après	P	P		
+4	avoir	avoir	VINF	VINF	t=W	
+5	été	être	VPP	VPP	t=K	
+6	portée	porter	VPP	VPP	n=s|g=f|t=K	
+7	avec	avec	P	P		
+8	un	un	DET	DET	n=s|g=m	
+9	nœud	_	NC	NC		
+10	bouffant	bouffant	ADJ	ADJ	n=s|g=m	
+11	au	à	P+D	P+D	n=s|g=m	
+12	XVIIIe	_	ADJ	ADJ		
+13	siècle	siècle	NC	NC	n=s|g=m	
+14	,	,	PONCT	PONCT		
+15	elle	elle	CLS	CLS	n=s|g=f|p=3	
+16	cacha	cacher	V	V	n=s|t=J|p=3	
+17	complètement	_	ADV	ADV		
+18	le	le	DET	DET	n=s|g=m	
+19	cou	cou	NC	NC	n=s|g=m	
+20	,	,	PONCT	PONCT		
+21	sans	sans	P	P		
+22	nœud	_	NC	NC		
+23	apparent	apparent	ADJ	ADJ	n=s|g=m	
+24	,	,	PONCT	PONCT		
+25	au	à	P+D	P+D	n=s|g=m	
+26	XIXe	_	NPP	NPP		
+27	.	.	PONCT	PONCT		
+
+1	Par	par	P	P		
+2	la	la	DET	DET	n=s|g=f	
+3	suite	suite	NC	NC	n=s|g=f	
+4	,	,	PONCT	PONCT		
+5	certains	certain	PRO	PRO	n=p|g=m	
+6	portaient	porter	V	V	n=p|t=I|p=3	
+7	une	une	DET	DET	n=s|g=f	
+8	grosse	gros	ADJ	ADJ	n=s|g=f	
+9	rosette	rosette	NC	NC	n=s|g=f	
+10	,	,	PONCT	PONCT		
+11	appelée	appeler	VPP	VPP	n=s|g=f|t=K	
+12	lavallière	lavallière	NC	NC	n=s|g=f	
+13	(	(	PONCT	PONCT		
+14	préférée	préférer	VPP	VPP	n=s|g=f|t=K	
+15	par	par	P	P		
+16	les	les	DET	DET	n=p	
+17	artistes	artiste	NC	NC	n=p	
+18	)	)	PONCT	PONCT		
+19	,	,	PONCT	PONCT		
+20	ou	ou	CC	CC		
+21	au	à	P+D	P+D	n=s|g=m	
+22	contraire	contraire	NC	NC	n=s|g=m	
+23	,	,	PONCT	PONCT		
+24	un	un	DET	DET	n=s|g=m	
+25	minuscule	minuscule	ADJ	ADJ	n=s	
+26	nœud	_	ADJ	ADJ		
+27	papillon	papillon	NC	NC	n=s|g=m	
+28	(	(	PONCT	PONCT		
+29	qui	qui	PROREL	PROREL	n=s	
+30	reste	rester	V	V	n=s|t=P,S|p=1,3	
+31	un	un	DET	DET	n=s|g=m	
+32	symbole	symbole	NC	NC	n=s|g=m	
+33	de	de	P	P		
+34	cérémonie	cérémonie	NC	NC	n=s|g=f	
+35	)	)	PONCT	PONCT		
+36	,	,	PONCT	PONCT		
+37	avant	avant	P	P		
+38	que	que	PROREL	PROREL		
+39	ne	ne	ADV	ADV		
+40	se	se	CLR	CLR	n=p,s|p=3	
+41	généralise	généraliser	V	V	n=s|t=P,S|p=1,3	
+42	la	la	DET	DET	n=s|g=f	
+43	régate	régate	NC	NC	n=s|g=f	
+44	,	,	PONCT	PONCT		
+45	dont	dont	PROREL	PROREL		
+46	le	le	DET	DET	n=s|g=m	
+47	tissu	tissu	NC	NC	n=s|g=m	
+48	terminé	terminer	VPP	VPP	n=s|g=m|t=K	
+49	en	en	P	P		
+50	losange	losange	NC	NC	n=s|g=m	
+51	est	être	V	V	n=s|t=P|p=3	
+52	noué	nouer	VPP	VPP	n=s|g=m|t=K	
+53	sous	sous	P	P		
+54	le	le	DET	DET	n=s|g=m	
+55	col	col	NC	NC	n=s|g=m	
+56	et	et	CC	CC		
+57	s'	se	CLR	CLR	n=p,s|p=3	
+58	étale	étale	NC	NC	n=s|g=m	
+59	plus	plus	ADV	ADV		
+60	ou	ou	CC	CC		
+61	moins	moins	ADV	ADV		
+62	sur	sur	P	P		
+63	le	le	DET	DET	n=s|g=m	
+64	devant	devoir	VPR	VPR	t=G	
+65	de	de	P	P		
+66	la	la	DET	DET	n=s|g=f	
+67	chemise	chemise	NC	NC	n=s|g=f	
+68	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	absence	absence	NC	NC	n=s|g=f	
+3	de	de	P	P		
+4	cravate	cravate	NC	NC	n=s|g=f	
+5	est	être	V	V	n=s|t=P|p=3	
+6	souvent	souvent	ADV	ADV		
+7	jugée	juger	VPP	VPP	n=s|g=f|t=K	
+8	négligée	négliger	VPP	VPP	n=s|g=f|t=K	
+9	dans	dans	P	P		
+10	les	les	DET	DET	n=p	
+11	milieux	milieu	NC	NC	n=p|g=m	
+12	élégants	élégant	ADJ	ADJ	n=p|g=m	
+13	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	rubans	ruban	NC	NC	n=p|g=m	
+3	sont	être	V	V	n=p|t=P|p=3	
+4	des	des	DET	DET	n=p	
+5	bandes	bande	NC	NC	n=p|g=f	
+6	tissées	tisser	VPP	VPP	n=p|g=f|t=K	
+7	très	très	ADV	ADV		
+8	étroites	étroit	ADJ	ADJ	n=p|g=f	
+9	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	plus	plus	ADV	ADV		
+3	chers	cher	ADJ	ADJ	n=p|g=m	
+4	étaient	être	V	V	n=p|t=I|p=3	
+5	ornés	orner	VPP	VPP	n=p|g=m|t=K	
+6	de	de	P	P		
+7	dessins	dessin	NC	NC	n=p|g=m	
+8	,	,	PONCT	PONCT		
+9	parfois	parfois	ADV	ADV		
+10	réalisés	réaliser	VPP	VPP	n=p|g=m|t=K	
+11	en	en	P	P		
+12	fil	fil	NC	NC	n=s|g=m	
+13	d'	de	P	P		
+14	argent	argent	NC	NC	n=s|g=m	
+15	ou	ou	CC	CC		
+16	d'	de	P	P		
+17	or	or	NC	NC	n=s|g=m	
+18	.	.	PONCT	PONCT		
+
+1	Des	des	DET	DET	n=p	
+2	broderies	broderie	NC	NC	n=p|g=f	
+3	étaient	être	V	V	n=p|t=I|p=3	
+4	réalisées	réaliser	VPP	VPP	n=p|g=f|t=K	
+5	à	à	P	P		
+6	l'	le	DET	DET	n=s	
+7	aiguille	aiguille	NC	NC	n=s|g=f	
+8	pour	pour	P	P		
+9	orner	orner	VINF	VINF	t=W	
+10	les	les	DET	DET	n=p	
+11	vêtements	vêtement	NC	NC	n=p|g=m	
+12	.	.	PONCT	PONCT		
+
+1	Ce	ce	CLS	CLS		
+2	sont	être	V	V	n=p|t=P|p=3	
+3	celles	celle	PRO	PRO	n=p|g=f	
+4	qui	qui	PROREL	PROREL	n=s	
+5	décoraient	décorer	V	V	n=p|t=I|p=3	
+6	le	le	DET	DET	n=s|g=m	
+7	bord	bord	NC	NC	n=s|g=m	
+8	des	de	P+D	P+D	n=p	
+9	tissus	tissu	NC	NC	n=p|g=m	
+10	qui	qui	PROREL	PROREL	n=s	
+11	donnèrent	donner	V	V	n=p|t=J|p=3	
+12	sans	sans	P	P		
+13	doute	doute	NC	NC	n=s|g=m	
+14	l'	le	DET	DET	n=s	
+15	idée	idée	NC	NC	n=s|g=f	
+16	de	de	P	P		
+17	les	les	CLO	CLO	n=p|p=3	
+18	prolonger	prolonger	VINF	VINF	t=W	
+19	par	par	P	P		
+20	un	un	DET	DET	n=s|g=m	
+21	motif	motif	NC	NC	n=s|g=m	
+22	ajouré	ajourer	VPP	VPP	n=s|g=m|t=K	
+23	:	:	PONCT	PONCT		
+24	la	la	DET	DET	n=s|g=f	
+25	dentelle	dentelle	NC	NC	n=s|g=f	
+26	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	premières	premier	ADJ	ADJ	n=p|g=f	
+3	étaient	être	V	V	n=p|t=I|p=3	
+4	créées	créer	VPP	VPP	n=p|g=f|t=K	
+5	à	à	P	P		
+6	l'	le	DET	DET	n=s	
+7	aiguille	aiguille	NC	NC	n=s|g=f	
+8	,	,	PONCT	PONCT		
+9	parfois	parfois	ADV	ADV		
+10	pour	pour	P	P		
+11	relier	relier	VINF	VINF	t=W	
+12	deux	deux	DET	DET	s=card|n=p	
+13	morceaux	morceau	NC	NC	n=p|g=m	
+14	de	de	P	P		
+15	fin	fin	NC	NC	n=s	
+16	tissu	tissu	NC	NC	n=s|g=m	
+17	par	par	P	P		
+18	des	des	DET	DET	n=p	
+19	entrelacs	entrelacs	NC	NC	g=m	
+20	de	de	P	P		
+21	fils	fils	NC	NC	g=m	
+22	plus	plus	ADV	ADV		
+23	ou	ou	CC	CC		
+24	moins	moins	ADV	ADV		
+25	compliqués	compliquer	ADJ	ADJ	n=p|g=m|t=K	
+26	.	.	PONCT	PONCT		
+
+1	Puis	puis	CC	CC		
+2	,	,	PONCT	PONCT		
+3	certaines	certain	DET	DET	n=p|g=f	
+4	dentelles	dentelle	NC	NC	n=p|g=f	
+5	furent	être	V	V	n=p|t=J|p=3	
+6	tressées	tresser	VPP	VPP	n=p|g=f|t=K	
+7	sur	sur	P	P		
+8	un	un	DET	DET	n=s|g=m	
+9	coussinet	coussinet	NC	NC	n=s|g=m	
+10	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	dentellière	dentellier	NC	NC	n=s|g=f	
+3	y	y	CLO	CLO		
+4	entrecroisait	entrecroiser	V	V	n=s|t=I|p=3	
+5	les	les	DET	DET	n=p	
+6	fils	fils	NC	NC	g=m	
+7	de	de	P	P		
+8	plusieurs	plusieurs	DET	DET	n=p	
+9	petits	petit	ADJ	ADJ	n=p|g=m	
+10	fuseaux	fuseau	NC	NC	n=p|g=m	
+11	pour	pour	P	P		
+12	former	former	VINF	VINF	t=W	
+13	des	des	DET	DET	n=p	
+14	dessins	dessin	NC	NC	n=p|g=m	
+15	,	,	PONCT	PONCT		
+16	parfois	parfois	ADV	ADV		
+17	très	très	ADV	ADV		
+18	élaborés	élaborer	VPP	VPP	n=p|g=m|t=K	
+19	,	,	PONCT	PONCT		
+20	qu'	que	CS	CS		
+21	elle	elle	CLS	CLS	n=s|g=f|p=3	
+22	fixait	fixer	V	V	n=s|t=I|p=3	
+23	au	à	P+D	P+D	n=s|g=m	
+24	coussin	coussin	NC	NC	n=s|g=m	
+25	par	par	P	P		
+26	des	des	DET	DET	n=p	
+27	aiguilles	aiguille	NC	NC	n=p|g=f	
+28	.	.	PONCT	PONCT		
+
+1	On	on	CLS	CLS	n=s|p=3	
+2	se	se	CLR	CLR	n=p,s|p=3	
+3	doute	douter	V	V	n=s|t=P,S|p=1,3	
+4	que	que	CS	CS		
+5	ce	ce	DET	DET	n=s|g=m	
+6	long	long	ADJ	ADJ	n=s|g=m	
+7	travail	travail	NC	NC	n=s|g=m	
+8	se	se	CLR	CLR	n=p,s|p=3	
+9	vendait	vendre	V	V	n=s|t=I|p=3	
+10	très	très	ADV	ADV		
+11	cher	cher	ADJ	ADJ	n=s|g=m	
+12	.	.	PONCT	PONCT		
+
+1	Si	si	CS	CS		
+2	la	la	DET	DET	n=s|g=f	
+3	dentelle	dentelle	NC	NC	n=s|g=f	
+4	à	à	P	P		
+5	la	la	DET	DET	n=s|g=f	
+6	main	main	NC	NC	n=s|g=f	
+7	n'	ne	ADV	ADV		
+8	a	avoir	V	V	n=s|t=P|p=3	
+9	pas	pas	ADV	ADV		
+10	disparu	disparaître	VPP	VPP	n=s|g=m|t=K	
+11	,	,	PONCT	PONCT		
+12	elle	elle	CLS	CLS	n=s|g=f|p=3	
+13	est	être	V	V	n=s|t=P|p=3	
+14	concurrencée	concurrencer	VPP	VPP	n=s|g=f|t=K	
+15	par	par	P	P		
+16	la	la	DET	DET	n=s|g=f	
+17	dentelle	dentelle	NC	NC	n=s|g=f	
+18	mécanique	mécanique	ADJ	ADJ	n=s	
+19	,	,	PONCT	PONCT		
+20	réalisée	réaliser	VPP	VPP	n=s|g=f|t=K	
+21	beaucoup	beaucoup	ADV	ADV		
+22	plus	plus	ADV	ADV		
+23	rapidement	_	ADV	ADV		
+24	.	.	PONCT	PONCT		
+
+1	Pour	pour	P	P		
+2	attacher	attacher	VINF	VINF	t=W	
+3	ou	ou	CC	CC		
+4	fermer	fermer	VINF	VINF	t=W	
+5	les	les	DET	DET	n=p	
+6	vêtements	vêtement	NC	NC	n=p|g=m	
+7	,	,	PONCT	PONCT		
+8	on	on	CLS	CLS	n=s|p=3	
+9	inventa	inventer	V	V	n=s|t=J|p=3	
+10	très	très	ADV	ADV		
+11	tôt	tôt	ADV	ADV		
+12	les	les	DET	DET	n=p	
+13	boutons	bouton	NC	NC	n=p|g=m	
+14	fabriqués	fabriquer	VPP	VPP	n=p|g=m|t=K	
+15	en	en	P	P		
+16	diverses	divers	DET	DET	n=p|g=f	
+17	matières	matière	NC	NC	n=p|g=f	
+18	,	,	PONCT	PONCT		
+19	notamment	_	ADV	ADV		
+20	en	en	P	P		
+21	os	os	NC	NC	g=m	
+22	ou	ou	CC	CC		
+23	en	en	P	P		
+24	bois	bois	NC	NC	g=m	
+25	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	plus	plus	ADV	ADV		
+3	recherchée	rechercher	VPP	VPP	n=s|g=f|t=K	
+4	fut	être	V	V	n=s|t=J|p=3	
+5	la	la	DET	DET	n=s|g=f	
+6	nacre	nacre	NC	NC	n=s|g=f	
+7	de	de	P	P		
+8	certains	certain	DET	DET	n=p|g=m	
+9	coquillages	coquillage	NC	NC	n=p|g=m	
+10	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	industrie	industrie	NC	NC	n=s|g=f	
+3	permit	permettre	V	V	n=s|t=J|p=3	
+4	ensuite	ensuite	ADV	ADV		
+5	d'	de	P	P		
+6	inventer	inventer	VINF	VINF	t=W	
+7	des	des	DET	DET	n=p	
+8	matières	matière	NC	NC	n=p|g=f	
+9	différentes	différent	ADJ	ADJ	n=p|g=f	
+10	qui	qui	PROREL	PROREL	n=s	
+11	remplacèrent	remplacer	V	V	n=p|t=J|p=3	
+12	généralement	_	ADV	ADV		
+13	la	la	DET	DET	n=s|g=f	
+14	nacre	nacre	NC	NC	n=s|g=f	
+15	.	.	PONCT	PONCT		
+
+1	Pour	pour	P	P		
+2	remplacer	remplacer	VINF	VINF	t=W	
+3	les	les	DET	DET	n=p	
+4	cordelières1	_	NC	NC		
+5	et	et	CC	CC		
+6	les	les	DET	DET	n=p	
+7	lacets	lacet	NC	NC	n=p|g=m	
+8	de	de	P	P		
+9	fermeture	fermeture	NC	NC	n=s|g=f	
+10	,	,	PONCT	PONCT		
+11	on	on	CLS	CLS	n=s|p=3	
+12	inventa	inventer	V	V	n=s|t=J|p=3	
+13	des	des	DET	DET	n=p	
+14	crochets	crochet	NC	NC	n=p|g=m	
+15	plats	plat	ADJ	ADJ	n=p|g=m	
+16	et	et	CC	CC		
+17	,	,	PONCT	PONCT		
+18	plus	plus	ADV	ADV		
+19	tard	tard	ADV	ADV		
+20	,	,	PONCT	PONCT		
+21	des	des	DET	DET	n=p	
+22	boutons	bouton	NC	NC	n=p|g=m	
+23	à	à	P	P		
+24	pression	pression	NC	NC	n=s|g=f	
+25	dont	dont	PROREL	PROREL		
+26	la	la	DET	DET	n=s|g=f	
+27	partie	partie	NC	NC	n=s|g=f	
+28	mâle	mâle	ADJ	ADJ	n=s	
+29	s'	se	CLR	CLR	n=p,s|p=3	
+30	accroche	accrocher	V	V	n=s|t=P,S|p=1,3	
+31	à	à	P	P		
+32	la	la	DET	DET	n=s|g=f	
+33	partie	partie	NC	NC	n=s|g=f	
+34	femelle	femelle	ADJ	ADJ	n=s	
+35	par	par	P	P		
+36	un	un	DET	DET	n=s|g=m	
+37	petit	petit	ADJ	ADJ	n=s|g=m	
+38	ressort	ressort	NC	NC	n=s|g=m	
+39	.	.	PONCT	PONCT		
+
+1	Plus	plus	ADV	ADV		
+2	récemment	_	ADV	ADV		
+3	,	,	PONCT	PONCT		
+4	fut	être	V	V	n=s|t=J|p=3	
+5	créée	créer	VPP	VPP	n=s|g=f|t=K	
+6	la	la	DET	DET	n=s|g=f	
+7	fermeture	fermeture	NC	NC	n=s|g=f	
+8	à	à	P	P		
+9	glissière	glissière	NC	NC	n=s|g=f	
+10	(	(	PONCT	PONCT		
+11	qu'	que	PROREL	PROREL		
+12	on	on	CLS	CLS	n=s|p=3	
+13	appelle	appeler	V	V	n=s|t=P,S|p=1,3	
+14	souvent	souvent	ADV	ADV		
+15	"	"	PONCT	PONCT		
+16	fermeture	fermeture	NC	NC	n=s|g=f	
+17	Éclair	_	NPP	NPP		
+18	"	"	PONCT	PONCT		
+19	en	en	P	P		
+20	France	France	NPP	NPP	n=s|g=f,m	
+21	,	,	PONCT	PONCT		
+22	Éclair	_	ADV	ADV		
+23	étant	être	VPR	VPR	t=G	
+24	le	le	DET	DET	n=s|g=m	
+25	nom	nom	NC	NC	n=s|g=m	
+26	d'	de	P	P		
+27	une	une	DET	DET	n=s|g=f	
+28	entreprise	entreprise	NC	NC	n=s|g=f	
+29	fabriquant	fabriquer	VPR	VPR	t=G	
+30	ce	ce	DET	DET	n=s|g=m	
+31	type	type	NC	NC	n=s|g=m	
+32	de	de	P	P		
+33	fermeture	fermeture	NC	NC	n=s|g=f	
+34	)	)	PONCT	PONCT		
+35	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	s'	se	CLR	CLR	n=p,s|p=3	
+3	inspirant	inspirer	VPR	VPR	t=G	
+4	des	de	P+D	P+D	n=p	
+5	fleurs	fleur	NC	NC	n=p|g=f	
+6	de	de	P	P		
+7	chardon	chardon	NC	NC	n=s|g=m	
+8	ou	ou	CC	CC		
+9	de	de	P	P		
+10	bardane	bardane	NC	NC	n=s|g=f	
+11	,	,	PONCT	PONCT		
+12	dont	dont	PROREL	PROREL		
+13	les	les	DET	DET	n=p	
+14	minuscules	minuscule	ADJ	ADJ	n=p	
+15	crochets	crochet	NC	NC	n=p|g=m	
+16	restent	rester	V	V	n=p|t=P,S|p=3	
+17	accrochés	accrocher	VPP	VPP	n=p|g=m|t=K	
+18	à	à	P	P		
+19	ce	ce	PRO	PRO	n=s	
+20	qui	qui	PROREL	PROREL	n=s	
+21	les	les	CLO	CLO	n=p|p=3	
+22	frôle	frôler	V	V	n=s|t=P,S|p=1,3	
+23	,	,	PONCT	PONCT		
+24	on	on	CLS	CLS	n=s|p=3	
+25	inventa	inventer	V	V	n=s|t=J|p=3	
+26	au	à	P+D	P+D	n=s|g=m	
+27	milieu	milieu	NC	NC	n=s|g=m	
+28	du	de	P+D	P+D	n=s|g=m	
+29	XXe	_	ADJ	ADJ		
+30	siècle	siècle	NC	NC	n=s|g=m	
+31	la	la	DET	DET	n=s|g=f	
+32	fermeture	fermeture	NC	NC	n=s|g=f	
+33	velcro	_	NPP	NPP		
+34	(	(	PONCT	PONCT		
+35	abréviation	abréviation	NC	NC	n=s|g=f	
+36	de	de	P	P		
+37	velours	velours	NC	NC	g=m	
+38	et	et	CC	CC		
+39	crochets	crochet	NC	NC	n=p|g=m	
+40	)	)	PONCT	PONCT		
+41	,	,	PONCT	PONCT		
+42	qui	qui	PROREL	PROREL	n=s	
+43	s'	se	CLR	CLR	n=p,s|p=3	
+44	accroche	accrocher	V	V	n=s|t=P,S|p=1,3	
+45	rapidement	_	ADV	ADV		
+46	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	France	France	NPP	NPP	n=s|g=f,m	
+3	,	,	PONCT	PONCT		
+4	jusqu'	jusque	P	P		
+5	au	à	P+D	P+D	n=s|g=m	
+6	milieu	milieu	NC	NC	n=s|g=m	
+7	du	de	P+D	P+D	n=s|g=m	
+8	XVIIe	_	ADJ	ADJ		
+9	siècle	siècle	NC	NC	n=s|g=m	
+10	,	,	PONCT	PONCT		
+11	seuls	seul	ADJ	ADJ	n=p|g=m	
+12	des	de	P+D	P+D	n=p	
+13	hommes	homme	NC	NC	n=p|g=m	
+14	étaient	être	V	V	n=p|t=I|p=3	
+15	admis	admettre	VPP	VPP	g=m|t=K	
+16	à	à	P	P		
+17	confectionner	confectionner	VINF	VINF	t=W	
+18	des	des	DET	DET	n=p	
+19	vêtements	vêtement	NC	NC	n=p|g=m	
+20	.	.	PONCT	PONCT		
+
+1	Par	par	P	P		
+2	la	la	DET	DET	n=s|g=f	
+3	suite	suite	NC	NC	n=s|g=f	
+4	,	,	PONCT	PONCT		
+5	alors	alors	ADV	ADV		
+6	que	que	CS	CS		
+7	les	les	DET	DET	n=p	
+8	tailleurs	tailleur	NC	NC	n=p|g=m	
+9	conservaient	conserver	V	V	n=p|t=I|p=3	
+10	la	la	DET	DET	n=s|g=f	
+11	confection	confection	NC	NC	n=s|g=f	
+12	des	de	P+D	P+D	n=p	
+13	costumes	costume	NC	NC	n=p|g=m	
+14	d'	de	P	P		
+15	hommes	homme	NC	NC	n=p|g=m	
+16	,	,	PONCT	PONCT		
+17	les	les	DET	DET	n=p	
+18	couturières	couturier	NC	NC	n=p|g=f	
+19	professionnelles	professionnel	ADJ	ADJ	n=p|g=f	
+20	étaient	être	V	V	n=p|t=I|p=3	
+21	autorisées	autoriser	VPP	VPP	n=p|g=f|t=K	
+22	à	à	P	P		
+23	coudre	coudre	VINF	VINF	t=W	
+24	pour	pour	P	P		
+25	les	les	DET	DET	n=p	
+26	femmes	femme	NC	NC	n=p|g=f	
+27	.	.	PONCT	PONCT		
+
+1	S'	se	CLR	CLR	n=p,s|p=3	
+2	y	y	CLO	CLO		
+3	ajoutaient	ajouter	V	V	n=p|t=I|p=3	
+4	les	les	DET	DET	n=p	
+5	lingères	lingère	NC	NC	n=p|g=f	
+6	pour	pour	P	P		
+7	les	les	DET	DET	n=p	
+8	vêtements	vêtement	NC	NC	n=p|g=m	
+9	fins	fin	ADJ	ADJ	n=p|g=m	
+10	,	,	PONCT	PONCT		
+11	les	les	DET	DET	n=p	
+12	brodeuses	brodeuse	NC	NC	n=p|g=f	
+13	et	et	CC	CC		
+14	les	les	DET	DET	n=p	
+15	dentellières	dentellier	NC	NC	n=p|g=f	
+16	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	existait	exister	V	V	n=s|t=I|p=3	
+3	également	_	ADV	ADV		
+4	un	un	DET	DET	n=s|g=m	
+5	grand	grand	ADJ	ADJ	n=s|g=m	
+6	nombre	nombre	NC	NC	n=s|g=m	
+7	de	de	P	P		
+8	marchands	marchand	NC	NC	n=p|g=m	
+9	de	de	P	P		
+10	mode	mode	NC	NC	n=s	
+11	qui	qui	PROREL	PROREL	n=s	
+12	fournissaient	fournir	V	V	n=p|t=I|p=3	
+13	bonnets	bonnet	NC	NC	n=p|g=m	
+14	,	,	PONCT	PONCT		
+15	fichus	fichu	ADJ	ADJ	n=p|g=m	
+16	,	,	PONCT	PONCT		
+17	manchons	manchon	NC	NC	n=p|g=m	
+18	,	,	PONCT	PONCT		
+19	garnitures	garniture	NC	NC	n=p|g=f	
+20	diverses	divers	ADJ	ADJ	n=p|g=f	
+21	indispensables	indispensable	ADJ	ADJ	n=p	
+22	pour	pour	P	P		
+23	suivre	suivre	VINF	VINF	t=W	
+24	la	la	DET	DET	n=s|g=f	
+25	mode	mode	NC	NC	n=s	
+26	de	de	P	P		
+27	l'	le	DET	DET	n=s	
+28	époque	époque	NC	NC	n=s|g=f	
+29	.	.	PONCT	PONCT		
+
+1	Ce	ce	CLS	CLS		
+2	sont	être	V	V	n=p|t=P|p=3	
+3	des	des	DET	DET	n=p	
+4	hommes	homme	NC	NC	n=p|g=m	
+5	qui	qui	PROREL	PROREL	n=s	
+6	,	,	PONCT	PONCT		
+7	à	à	P	P		
+8	la	la	DET	DET	n=s|g=f	
+9	fin	fin	NC	NC	n=s	
+10	du	de	P+D	P+D	n=s|g=m	
+11	XIXe	_	ADJ	ADJ		
+12	siècle	siècle	NC	NC	n=s|g=m	
+13	,	,	PONCT	PONCT		
+14	fondèrent	fonder	V	V	n=p|t=J|p=3	
+15	les	les	DET	DET	n=p	
+16	premières	premier	ADJ	ADJ	n=p|g=f	
+17	grandes	grand	ADJ	ADJ	n=p|g=f	
+18	maisons	maison	NC	NC	n=p|g=f	
+19	de	de	P	P		
+20	couture	couture	NC	NC	n=s|g=f	
+21	pour	pour	P	P		
+22	femmes	femme	NC	NC	n=p|g=f	
+23	.	.	PONCT	PONCT		
+
+1	On	on	CLS	CLS	n=s|p=3	
+2	y	y	CLO	CLO		
+3	présentait	présenter	V	V	n=s|t=I|p=3	
+4	des	des	DET	DET	n=p	
+5	modèles	modèle	NC	NC	n=p|g=m	
+6	nouveaux	nouveau	ADJ	ADJ	n=p|g=m	
+7	qui	qui	PROREL	PROREL	n=s	
+8	pouvaient	pouvoir	V	V	n=p|t=I|p=3	
+9	être	être	VINF	VINF	t=W	
+10	ensuite	ensuite	ADV	ADV		
+11	adaptés	adapter	VPP	VPP	n=p|g=m|t=K	
+12	à	à	P	P		
+13	la	la	DET	DET	n=s|g=f	
+14	taille	taille	NC	NC	n=s|g=f	
+15	et	et	CC	CC		
+16	au	à	P+D	P+D	n=s|g=m	
+17	goût	goût	NC	NC	n=s|g=m	
+18	personnel	personnel	ADJ	ADJ	n=s|g=m	
+19	de	de	P	P		
+20	la	la	DET	DET	n=s|g=f	
+21	riche	riche	ADJ	ADJ	n=s	
+22	clientèle	clientèle	NC	NC	n=s|g=f	
+23	.	.	PONCT	PONCT		
+
+1	On	on	CLS	CLS	n=s|p=3	
+2	appelait	appeler	V	V	n=s|t=I|p=3	
+3	ces	ces	DET	DET	n=p	
+4	hommes	homme	NC	NC	n=p|g=m	
+5	:	:	PONCT	PONCT		
+6	"	"	PONCT	PONCT		
+7	grands	grand	ADJ	ADJ	n=p|g=m	
+8	couturiers	couturier	NC	NC	n=p|g=m	
+9	"	"	PONCT	PONCT		
+10	pour	pour	P	P		
+11	ne	ne	ADV	ADV		
+12	pas	pas	ADV	ADV		
+13	les	les	CLO	CLO	n=p|p=3	
+14	confondre	confondre	VINF	VINF	t=W	
+15	avec	avec	P	P		
+16	les	les	DET	DET	n=p	
+17	"	"	PONCT	PONCT		
+18	petites	petit	ADJ	ADJ	n=p|g=f	
+19	couturières	couturier	NC	NC	n=p|g=f	
+20	"	"	PONCT	PONCT		
+21	.	.	PONCT	PONCT		
+
+1	Leur	leur	DET	DET	n=s|p=3|poss=p	
+2	production	production	NC	NC	n=s|g=f	
+3	était	être	V	V	n=s|t=I|p=3	
+4	limitée	limiter	VPP	VPP	n=s|g=f|t=K	
+5	à	à	P	P		
+6	de	de	DET	DET	n=p	
+7	rares	rare	ADJ	ADJ	n=p	
+8	exemplaires	exemplaire	NC	NC	n=p|g=m	
+9	,	,	PONCT	PONCT		
+10	car	car	CS	CS		
+11	rien	rien	PRO	PRO	n=s|g=m	
+12	n'	ne	ADV	ADV		
+13	aurait	avoir	V	V	n=s|t=C|p=3	
+14	été	être	VPP	VPP	t=K	
+15	plus	plus	ADV	ADV		
+16	humiliant	humiliant	ADJ	ADJ	n=s|g=m	
+17	pour	pour	P	P		
+18	une	une	DET	DET	n=s|g=f	
+19	riche	riche	ADJ	ADJ	n=s	
+20	coquette	coquette	NC	NC	n=s|g=f	
+21	que	que	CS	CS		
+22	de	de	P	P		
+23	côtoyer	côtoyer	VINF	VINF	t=W	
+24	,	,	PONCT	PONCT		
+25	dans	dans	P	P		
+26	une	une	DET	DET	n=s|g=f	
+27	soirée	soirée	NC	NC	n=s|g=f	
+28	,	,	PONCT	PONCT		
+29	une	une	DET	DET	n=s|g=f	
+30	femme	femme	NC	NC	n=s|g=f	
+31	habillée	habiller	ADJ	ADJ	n=s|g=f|t=K	
+32	comme	comme	P	P		
+33	elle	elle	PRO	PRO	n=s|g=f|p=3	
+34	.	.	PONCT	PONCT		
+
+1	Paco	Paco	NPP	NPP	n=s|g=m	
+2	Rabanne	_	NPP	NPP		
+3	est	être	V	V	n=s|t=P|p=3	
+4	célèbre	célèbre	ADJ	ADJ	n=s	
+5	pour	pour	P	P		
+6	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+7	utilisation	utilisation	NC	NC	n=s|g=f	
+8	de	de	P	P		
+9	matériaux	matériau	NC	NC	n=p|g=m	
+10	synthétiques	synthétique	ADJ	ADJ	n=p	
+11	.	.	PONCT	PONCT		
+
+1	Au	à	P+D	P+D	n=s|g=m	
+2	XXe	_	ADJ	ADJ		
+3	siècle	siècle	NC	NC	n=s|g=m	
+4	,	,	PONCT	PONCT		
+5	des	des	DET	DET	n=p	
+6	femmes	femme	NC	NC	n=p|g=f	
+7	créèrent	créer	V	V	n=p|t=J|p=3	
+8	aussi	aussi	ADV	ADV		
+9	de	de	DET	DET	n=p	
+10	grandes	grand	ADJ	ADJ	n=p|g=f	
+11	maisons	maison	NC	NC	n=p|g=f	
+12	de	de	P	P		
+13	couture	couture	NC	NC	n=s|g=f	
+14	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	plus	plus	ADV	ADV		
+3	célèbre	célèbre	ADJ	ADJ	n=s	
+4	fut	être	V	V	n=s|t=J|p=3	
+5	Coco	_	NPP	NPP		
+6	Chanel	Chanel	NPP	NPP	n=s|g=f	
+7	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	couturières	couturier	NC	NC	n=p|g=f	
+3	,	,	PONCT	PONCT		
+4	installées	installer	VPP	VPP	n=p|g=f|t=K	
+5	à	à	P	P		
+6	leur	leur	DET	DET	n=s|p=3|poss=p	
+7	compte	compte	NC	NC	n=s|g=m	
+8	,	,	PONCT	PONCT		
+9	aidées	aider	VPP	VPP	n=p|g=f|t=K	
+10	parfois	parfois	ADV	ADV		
+11	de	de	P	P		
+12	quelques	quelques	DET	DET	n=p	
+13	ouvrières	ouvrier	ADJ	ADJ	n=p|g=f	
+14	,	,	PONCT	PONCT		
+15	se	se	CLR	CLR	n=p,s|p=3	
+16	contentaient	contenter	V	V	n=p|t=I|p=3	
+17	d'	de	P	P		
+18	adapter	adapter	VINF	VINF	t=W	
+19	à	à	P	P		
+20	leur	leur	DET	DET	n=s|p=3|poss=p	
+21	manière	manière	NC	NC	n=s|g=f	
+22	ce	ce	PRO	PRO	n=s	
+23	qu'	que	PROREL	PROREL		
+24	elles	elles	CLS	CLS	n=p|g=f|p=3	
+25	avaient	avoir	V	V	n=p|t=I|p=3	
+26	observé	observer	VPP	VPP	n=s|g=m|t=K	
+27	dans	dans	P	P		
+28	les	les	DET	DET	n=p	
+29	boutiques	boutique	NC	NC	n=p|g=f	
+30	de	de	P	P		
+31	"	"	PONCT	PONCT		
+32	haute	haut	ADJ	ADJ	n=s|g=f	
+33	couture	couture	NC	NC	n=s|g=f	
+34	"	"	PONCT	PONCT		
+35	ou	ou	CC	CC		
+36	sur	sur	P	P		
+37	les	les	DET	DET	n=p	
+38	gravures	gravure	NC	NC	n=p|g=f	
+39	de	de	P	P		
+40	mode	mode	NC	NC	n=s	
+41	.	.	PONCT	PONCT		
+
+1	Cette	cette	DET	DET	n=s|g=f	
+2	pratique	pratique	NC	NC	n=s|g=f	
+3	se	se	CLR	CLR	n=p,s|p=3	
+4	développa	développer	V	V	n=s|t=J|p=3	
+5	tellement	_	ADV	ADV		
+6	que	que	CS	CS		
+7	s'	se	CLR	CLR	n=p,s|p=3	
+8	ouvrirent	ouvrir	V	V	n=p|t=J|p=3	
+9	à	à	P	P		
+10	Paris	Paris	NPP	NPP	n=s|g=m	
+11	,	,	PONCT	PONCT		
+12	à	à	P	P		
+13	la	la	DET	DET	n=s|g=f	
+14	fin	fin	NC	NC	n=s	
+15	du	de	P+D	P+D	n=s|g=m	
+16	XIXe	_	ADJ	ADJ		
+17	siècle	siècle	NC	NC	n=s|g=m	
+18	,	,	PONCT	PONCT		
+19	puis	puis	CC	CC		
+20	en	en	P	P		
+21	province	province	NC	NC	n=s|g=f	
+22	,	,	PONCT	PONCT		
+23	de	de	DET	DET	n=p	
+24	grands	grand	ADJ	ADJ	n=p|g=m	
+25	magasins	magasin	NC	NC	n=p|g=m	
+26	qui	qui	PROREL	PROREL	n=s	
+27	proposaient	proposer	V	V	n=p|t=I|p=3	
+28	aux	à	P+D	P+D	n=p	
+29	clientes	client	NC	NC	n=p|g=f	
+30	un	un	DET	DET	n=s|g=m	
+31	grand	grand	ADJ	ADJ	n=s|g=m	
+32	choix	choix	NC	NC	g=m	
+33	de	de	P	P		
+34	tissus	tissu	NC	NC	n=p|g=m	
+35	très	très	ADV	ADV		
+36	divers	divers	ADJ	ADJ	g=m	
+37	,	,	PONCT	PONCT		
+38	à	à	P	P		
+39	des	des	DET	DET	n=p	
+40	prix	prix	NC	NC	g=m	
+41	plus	plus	ADV	ADV		
+42	bas	bas	ADJ	ADJ	g=m	
+43	que	que	CS	CS		
+44	dans	dans	P	P		
+45	les	les	DET	DET	n=p	
+46	boutiques	boutique	NC	NC	n=p|g=f	
+47	.	.	PONCT	PONCT		
+
+1	Désormais	désormais	ADV	ADV		
+2	,	,	PONCT	PONCT		
+3	un	un	DET	DET	n=s|g=m	
+4	plus	plus	ADV	ADV		
+5	grand	grand	ADJ	ADJ	n=s|g=m	
+6	nombre	nombre	NC	NC	n=s|g=m	
+7	de	de	P	P		
+8	personnes	personne	NC	NC	n=p|g=f	
+9	pouvaient	pouvoir	V	V	n=p|t=I|p=3	
+10	s'	se	CLR	CLR	n=p,s|p=3	
+11	habiller	habiller	VINF	VINF	t=W	
+12	avec	avec	P	P		
+13	élégance	élégance	NC	NC	n=s|g=f	
+14	et	et	CC	CC		
+15	la	la	DET	DET	n=s|g=f	
+16	rivalité	rivalité	NC	NC	n=s|g=f	
+17	par	par	P	P		
+18	le	le	DET	DET	n=s|g=m	
+19	vêtement	vêtement	NC	NC	n=s|g=m	
+20	s'	se	CLR	CLR	n=p,s|p=3	
+21	exprima	exprimer	V	V	n=s|t=J|p=3	
+22	autrement	_	ADV	ADV		
+23	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	distinction	distinction	NC	NC	n=s|g=f	
+3	se	se	CLR	CLR	n=p,s|p=3	
+4	portait	porter	V	V	n=s|t=I|p=3	
+5	désormais	désormais	ADV	ADV		
+6	sur	sur	P	P		
+7	le	le	DET	DET	n=s|g=m	
+8	temps	temps	NC	NC	g=m	
+9	de	de	P	P		
+10	loisir	loisir	NC	NC	n=s|g=m	
+11	que	que	PROREL	PROREL		
+12	ne	ne	ADV	ADV		
+13	pouvaient	pouvoir	V	V	n=p|t=I|p=3	
+14	pas	pas	ADV	ADV		
+15	se	se	CLR	CLR	n=p,s|p=3	
+16	permettre	permettre	VINF	VINF	t=W	
+17	les	les	DET	DET	n=p	
+18	gens	gens	NC	NC	n=p|g=m	
+19	simplement	_	ADV	ADV		
+20	aisés	aisé	ADJ	ADJ	n=p|g=m	
+21	(	(	PONCT	PONCT		
+22	commerçants	commerçant	NC	NC	n=p|g=m	
+23	et	et	CC	CC		
+24	fonctionnaires	fonctionnaire	NC	NC	n=p	
+25	)	)	PONCT	PONCT		
+26	.	.	PONCT	PONCT		
+
+1	C'	ce	CLS	CLS		
+2	est	être	V	V	n=s|t=P|p=3	
+3	vers	vers	P	P		
+4	les	les	DET	DET	n=p	
+5	vêtements	vêtement	NC	NC	n=p|g=m	
+6	prouvant	prouver	VPR	VPR	t=G	
+7	le	le	DET	DET	n=s|g=m	
+8	temps	temps	NC	NC	g=m	
+9	passé	passer	VPP	VPP	n=s|g=m|t=K	
+10	à	à	P	P		
+11	se	se	CLR	CLR	n=p,s|p=3	
+12	détendre	détendre	VINF	VINF	t=W	
+13	que	que	CS	CS		
+14	se	se	CLR	CLR	n=p,s|p=3	
+15	tournèrent	tourner	V	V	n=p|t=J|p=3	
+16	les	les	DET	DET	n=p	
+17	plus	plus	ADV	ADV		
+18	riches	riche	ADJ	ADJ	n=p	
+19	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	redingote	redingote	NC	NC	n=s|g=f	
+3	(	(	PONCT	PONCT		
+4	à	à	P	P		
+5	l'	le	DET	DET	n=s	
+6	origine	origine	NC	NC	n=s|g=f	
+7	,	,	PONCT	PONCT		
+8	manteau	manteau	NC	NC	n=s|g=m	
+9	d'	de	P	P		
+10	équitation	équitation	NC	NC	n=s|g=f	
+11	)	)	PONCT	PONCT		
+12	,	,	PONCT	PONCT		
+13	la	la	DET	DET	n=s|g=f	
+14	tenue	tenue	NC	NC	n=s|g=f	
+15	de	de	P	P		
+16	chasse	chasse	NC	NC	n=s|g=f	
+17	sportive	sportif	ADJ	ADJ	n=s|g=f	
+18	ou	ou	CC	CC		
+19	de	de	P	P		
+20	golf	golf	NC	NC	n=s|g=m	
+21	,	,	PONCT	PONCT		
+22	et	et	CC	CC		
+23	plus	plus	ADV	ADV		
+24	tard	tard	ADV	ADV		
+25	de	de	P	P		
+26	marine	marine	NC	NC	n=s	
+27	de	de	P	P		
+28	plaisance	plaisance	NC	NC	n=s|g=f	
+29	montraient	montrer	V	V	n=p|t=I|p=3	
+30	que	que	CS	CS		
+31	,	,	PONCT	PONCT		
+32	vivant	vivre	VPR	VPR	t=G	
+33	de	de	P	P		
+34	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+35	fortune	fortune	NC	NC	n=s|g=f	
+36	,	,	PONCT	PONCT		
+37	on	on	CLS	CLS	n=s|p=3	
+38	n'	ne	ADV	ADV		
+39	avait	avoir	V	V	n=s|t=I|p=3	
+40	pas	pas	ADV	ADV		
+41	besoin	besoin	NC	NC	n=s|g=m	
+42	de	de	P	P		
+43	travailler	travailler	VINF	VINF	t=W	
+44	.	.	PONCT	PONCT		
+
+1	Mais	mais	CC	CC		
+2	ces	ces	DET	DET	n=p	
+3	modes	mode	NC	NC	n=p	
+4	ne	ne	ADV	ADV		
+5	tardaient	tarder	V	V	n=p|t=I|p=3	
+6	pas	pas	ADV	ADV		
+7	à	à	P	P		
+8	être	être	VINF	VINF	t=W	
+9	copiées	copier	VPP	VPP	n=p|g=f|t=K	
+10	par	par	P	P		
+11	des	des	DET	DET	n=p	
+12	gens	gens	NC	NC	n=p|g=m	
+13	moins	moins	ADV	ADV		
+14	riches	riche	ADJ	ADJ	n=p	
+15	qui	qui	PROREL	PROREL	n=s	
+16	n'	ne	ADV	ADV		
+17	étaient	être	V	V	n=p|t=I|p=3	
+18	ni	ni	CC	CC		
+19	cavaliers	cavalier	NC	NC	n=p|g=m	
+20	,	,	PONCT	PONCT		
+21	ni	ni	CC	CC		
+22	chasseurs	chasseur	NC	NC	n=p|g=m	
+23	,	,	PONCT	PONCT		
+24	ni	ni	CC	CC		
+25	golfeurs	golfeur	NC	NC	n=p|g=m	
+26	,	,	PONCT	PONCT		
+27	ni	ni	CC	CC		
+28	capitaines	capitaine	NC	NC	n=p|g=m	
+29	de	de	P	P		
+30	yachts	yacht	NC	NC	n=p|g=m	
+31	.	.	PONCT	PONCT		
+
+1	Pour	pour	P	P		
+2	les	les	DET	DET	n=p	
+3	femmes	femme	NC	NC	n=p|g=f	
+4	,	,	PONCT	PONCT		
+5	le	le	DET	DET	n=s|g=m	
+6	symbole	symbole	NC	NC	n=s|g=m	
+7	fut	être	V	V	n=s|t=J|p=3	
+8	le	le	DET	DET	n=s|g=m	
+9	bronzage	bronzage	NC	NC	n=s|g=m	
+10	de	de	P	P		
+11	la	la	DET	DET	n=s|g=f	
+12	peau	peau	NC	NC	n=s|g=f	
+13	.	.	PONCT	PONCT		
+
+1	A	à	P	P		
+2	l'	le	DET	DET	n=s	
+3	époque	époque	NC	NC	n=s|g=f	
+4	où	où	PROREL	PROREL		
+5	les	les	DET	DET	n=p	
+6	paysannes	paysan	NC	NC	n=p|g=f	
+7	se	se	CLR	CLR	n=p,s|p=3	
+8	trouvaient	trouver	V	V	n=p|t=I|p=3	
+9	souvent	souvent	ADV	ADV		
+10	exposées	exposer	VPP	VPP	n=p|g=f|t=K	
+11	en	en	P	P		
+12	plein	plein	ADJ	ADJ	n=s|g=m	
+13	air	air	NC	NC	n=s|g=m	
+14	,	,	PONCT	PONCT		
+15	la	la	DET	DET	n=s|g=f	
+16	distinction	distinction	NC	NC	n=s|g=f	
+17	des	de	P+D	P+D	n=p	
+18	femmes	femme	NC	NC	n=p|g=f	
+19	riches	riche	ADJ	ADJ	n=p	
+20	était	être	V	V	n=s|t=I|p=3	
+21	de	de	P	P		
+22	conserver	conserver	VINF	VINF	t=W	
+23	la	la	DET	DET	n=s|g=f	
+24	peau	peau	NC	NC	n=s|g=f	
+25	blanche	blanc	ADJ	ADJ	n=s|g=f	
+26	en	en	P	P		
+27	se	se	CLR	CLR	n=p,s|p=3	
+28	protégeant	protéger	VPR	VPR	t=G	
+29	soigneusement	_	ADV	ADV		
+30	du	de	P+D	P+D	n=s|g=m	
+31	soleil	soleil	NC	NC	n=s|g=m	
+32	par	par	P	P		
+33	une	une	DET	DET	n=s|g=f	
+34	ombrelle	ombrelle	NC	NC	n=s|g=f	
+35	,	,	PONCT	PONCT		
+36	une	une	DET	DET	n=s|g=f	
+37	voilette	voilette	NC	NC	n=s|g=f	
+38	,	,	PONCT	PONCT		
+39	une	une	DET	DET	n=s|g=f	
+40	écharpe	écharpe	NC	NC	n=s|g=f	
+41	,	,	PONCT	PONCT		
+42	des	des	DET	DET	n=p	
+43	gants	gant	NC	NC	n=p|g=m	
+44	.	.	PONCT	PONCT		
+
+1	Mais	mais	CC	CC		
+2	,	,	PONCT	PONCT		
+3	à	à	P	P		
+4	partir	partir	VINF	VINF	t=W	
+5	du	de	P+D	P+D	n=s|g=m	
+6	moment	moment	NC	NC	n=s|g=m	
+7	où	où	PROREL	PROREL		
+8	les	les	DET	DET	n=p	
+9	ouvrières	ouvrière	NC	NC	n=p|g=f	
+10	d'	de	P	P		
+11	usines	usine	NC	NC	n=p|g=f	
+12	restaient	rester	V	V	n=p|t=I|p=3	
+13	pâles	pâle	ADJ	ADJ	n=p	
+14	,	,	PONCT	PONCT		
+15	le	le	DET	DET	n=s|g=m	
+16	chic	chic	NC	NC	n=s|g=m	
+17	se	se	CLR	CLR	n=p,s|p=3	
+18	porta	porter	V	V	n=s|t=J|p=3	
+19	sur	sur	P	P		
+20	le	le	DET	DET	n=s|g=m	
+21	bronzage	bronzage	NC	NC	n=s|g=m	
+22	prouvant	prouver	VPR	VPR	t=G	
+23	que	que	CS	CS		
+24	l'	le	DET	DET	n=s	
+25	on	on	CLS	CLS	n=s|p=3	
+26	pouvait	pouvoir	V	V	n=s|t=I|p=3	
+27	passer	passer	VINF	VINF	t=W	
+28	du	du	DET	DET	n=s|g=m	
+29	temps	temps	NC	NC	g=m	
+30	à	à	P	P		
+31	se	se	CLR	CLR	n=p,s|p=3	
+32	faire	faire	VINF	VINF	t=W	
+33	dorer	dorer	VINF	VINF	t=W	
+34	au	à	P+D	P+D	n=s|g=m	
+35	soleil	soleil	NC	NC	n=s|g=m	
+36	.	.	PONCT	PONCT		
+
+1	Même	même	ADV	ADV		
+2	si	si	CS	CS		
+3	c'	ce	CLS	CLS		
+4	est	être	V	V	n=s|t=P|p=3	
+5	au	à	P+D	P+D	n=s|g=m	
+6	détriment	détriment	NC	NC	n=s|g=m	
+7	de	de	P	P		
+8	la	la	DET	DET	n=s|g=f	
+9	santé	santé	NC	NC	n=s|g=f	
+10	de	de	P	P		
+11	la	la	DET	DET	n=s|g=f	
+12	peau	peau	NC	NC	n=s|g=f	
+13	,	,	PONCT	PONCT		
+14	les	les	DET	DET	n=p	
+15	femmes	femme	NC	NC	n=p|g=f	
+16	élégantes	élégant	ADJ	ADJ	n=p|g=f	
+17	veulent	vouloir	V	V	n=p|t=P|p=3	
+18	être	être	VINF	VINF	t=W	
+19	bronzées	bronzer	VPP	VPP	n=p|g=f|t=K	
+20	,	,	PONCT	PONCT		
+21	même	même	ADV	ADV		
+22	s'	se	CLR	CLR	n=p,s|p=3	
+23	il	il	CLS	CLS	n=s|g=m|p=3	
+24	faut	falloir	V	V	n=s|t=P|p=3	
+25	pour	pour	P	P		
+26	cela	cela	PRO	PRO	n=s|g=m	
+27	utiliser	utiliser	VINF	VINF	t=W	
+28	des	des	DET	DET	n=p	
+29	lampes	lampe	NC	NC	n=p|g=f	
+30	spéciales	spécial	ADJ	ADJ	n=p|g=f	
+31	pour	pour	P	P		
+32	bronzer	bronzer	VINF	VINF	t=W	
+33	artificiellement	_	ADV	ADV		
+34	.	.	PONCT	PONCT		
+
+1	Au	à	P+D	P+D	n=s|g=m	
+2	milieu	milieu	NC	NC	n=s|g=m	
+3	du	de	P+D	P+D	n=s|g=m	
+4	XIXe	_	ADJ	ADJ		
+5	siècle	siècle	NC	NC	n=s|g=m	
+6	,	,	PONCT	PONCT		
+7	l'	le	DET	DET	n=s	
+8	invention	invention	NC	NC	n=s|g=f	
+9	de	de	P	P		
+10	la	la	DET	DET	n=s|g=f	
+11	machine	machine	NC	NC	n=s|g=f	
+12	à	à	P	P		
+13	coudre	coudre	VINF	VINF	t=W	
+14	permit	permettre	V	V	n=s|t=J|p=3	
+15	la	la	DET	DET	n=s|g=f	
+16	fabrication	fabrication	NC	NC	n=s|g=f	
+17	en	en	P	P		
+18	série	série	NC	NC	n=s|g=f	
+19	des	de	P+D	P+D	n=p	
+20	vêtements	vêtement	NC	NC	n=p|g=m	
+21	dans	dans	P	P		
+22	des	des	DET	DET	n=p	
+23	ateliers	atelier	NC	NC	n=p|g=m	
+24	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	riches	riche	ADJ	ADJ	n=p	
+3	méprisaient	mépriser	V	V	n=p|t=I|p=3	
+4	cet	cet	DET	DET	n=s|g=m	
+5	habillement	habillement	NC	NC	n=s|g=m	
+6	de	de	P	P		
+7	"	"	PONCT	PONCT		
+8	confection	confection	NC	NC	n=s|g=f	
+9	"	"	PONCT	PONCT		
+10	qui	qui	PROREL	PROREL	n=s	
+11	permit	permettre	V	V	n=s|t=J|p=3	
+12	néanmoins	néanmoins	ADV	ADV		
+13	aux	à	P+D	P+D	n=p	
+14	gens	gens	NC	NC	n=p|g=m	
+15	moins	moins	ADV	ADV		
+16	riches	riche	ADJ	ADJ	n=p	
+17	de	de	P	P		
+18	s'	se	CLR	CLR	n=p,s|p=3	
+19	habiller	habiller	VINF	VINF	t=W	
+20	avec	avec	P	P		
+21	plus	plus	ADV	ADV		
+22	d'	de	P	P		
+23	élégance	élégance	NC	NC	n=s|g=f	
+24	à	à	P	P		
+25	des	des	DET	DET	n=p	
+26	prix	prix	NC	NC	g=m	
+27	raisonnables	raisonnable	ADJ	ADJ	n=p	
+28	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	mépris	mépris	NC	NC	g=m	
+3	des	de	P+D	P+D	n=p	
+4	vêtements	vêtement	NC	NC	n=p|g=m	
+5	de	de	P	P		
+6	séries	série	NC	NC	n=p|g=f	
+7	disparut	_	ADJ	ADJ		
+8	quand	quand	CS	CS		
+9	les	les	DET	DET	n=p	
+10	grandes	grand	ADJ	ADJ	n=p|g=f	
+11	maisons	maison	NC	NC	n=p|g=f	
+12	de	de	P	P		
+13	couture	couture	NC	NC	n=s|g=f	
+14	présentèrent	présenter	V	V	n=p|t=J|p=3	
+15	des	des	DET	DET	n=p	
+16	collections	collection	NC	NC	n=p|g=f	
+17	de	de	P	P		
+18	"	"	PONCT	PONCT		
+19	prêt	prêt	ADJ	ADJ	n=s|g=m	
+20	à	à	P	P		
+21	porter	porter	VINF	VINF	t=W	
+22	"	"	PONCT	PONCT		
+23	à	à	P	P		
+24	des	des	DET	DET	n=p	
+25	prix	prix	NC	NC	g=m	
+26	élevés	élever	ADJ	ADJ	n=p|g=m|t=K	
+27	.	.	PONCT	PONCT		
+
+1	Comme	comme	CS	CS		
+2	il	il	CLS	CLS	n=s|g=m|p=3	
+3	n'	ne	ADV	ADV		
+4	était	être	V	V	n=s|t=I|p=3	
+5	plus	plus	ADV	ADV		
+6	honteux	honteux	ADJ	ADJ	g=m	
+7	de	de	P	P		
+8	s'	se	CLR	CLR	n=p,s|p=3	
+9	habiller	habiller	VINF	VINF	t=W	
+10	en	en	P	P		
+11	série	série	NC	NC	n=s|g=f	
+12	,	,	PONCT	PONCT		
+13	on	on	CLS	CLS	n=s|p=3	
+14	devenait	devenir	V	V	n=s|t=I|p=3	
+15	même	même	ADV	ADV		
+16	fier	_	NC	NC		
+17	d'	de	P	P		
+18	afficher	afficher	VINF	VINF	t=W	
+19	sur	sur	P	P		
+20	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+21	vêtement	vêtement	NC	NC	n=s|g=m	
+22	le	le	DET	DET	n=s|g=m	
+23	nom	nom	NC	NC	n=s|g=m	
+24	ou	ou	CC	CC		
+25	le	le	DET	DET	n=s|g=m	
+26	sigle	sigle	NC	NC	n=s|g=m	
+27	de	de	P	P		
+28	la	la	DET	DET	n=s|g=f	
+29	marque	marque	NC	NC	n=s|g=f	
+30	qui	qui	PROREL	PROREL	n=s	
+31	était	être	V	V	n=s|t=I|p=3	
+32	la	la	DET	DET	n=s|g=f	
+33	preuve	preuve	NC	NC	n=s|g=f	
+34	que	que	PROREL	PROREL		
+35	l'	le	DET	DET	n=s	
+36	on	on	CLS	CLS	n=s|p=3	
+37	suivait	suivre	V	V	n=s|t=I|p=3	
+38	la	la	DET	DET	n=s|g=f	
+39	dernière	dernier	ADJ	ADJ	n=s|g=f	
+40	mode	mode	NC	NC	n=s	
+41	.	.	PONCT	PONCT		
+
+1	Chaque	chaque	DET	DET	n=s	
+2	client	client	NC	NC	n=s|g=m	
+3	transportait	transporter	V	V	n=s|t=I|p=3	
+4	désormais	désormais	ADV	ADV		
+5	sur	sur	P	P		
+6	lui	lui	PRO	PRO	n=s|g=m|p=3	
+7	la	la	DET	DET	n=s|g=f	
+8	publicité	publicité	NC	NC	n=s|g=f	
+9	pour	pour	P	P		
+10	les	les	DET	DET	n=p	
+11	fabricants	fabricant	NC	NC	n=p|g=m	
+12	de	de	P	P		
+13	ses	ses	DET	DET	n=p|p=3|poss=s	
+14	vêtements	vêtement	NC	NC	n=p|g=m	
+15	ou	ou	CC	CC		
+16	de	de	P	P		
+17	ses	ses	DET	DET	n=p|p=3|poss=s	
+18	chaussures	chaussure	NC	NC	n=p|g=f	
+19	.	.	PONCT	PONCT		
+
+1	C'	ce	CLS	CLS		
+2	est	être	V	V	n=s|t=P|p=3	
+3	devenu	devenir	VPP	VPP	n=s|g=m|t=K	
+4	pour	pour	P	P		
+5	certains	certain	PRO	PRO	n=p|g=m	
+6	l'	le	DET	DET	n=s	
+7	obsession	obsession	NC	NC	n=s|g=f	
+8	des	de	P+D	P+D	n=p	
+9	marques	marque	NC	NC	n=p|g=f	
+10	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	ne	ne	ADV	ADV		
+3	suffit	suffire	V	V	n=s|t=J,P|p=3	
+4	pas	pas	ADV	ADV		
+5	de	de	P	P		
+6	posséder	posséder	VINF	VINF	t=W	
+7	un	un	DET	DET	n=s|g=m	
+8	beau	beau	ADJ	ADJ	n=s|g=m	
+9	vêtement	vêtement	NC	NC	n=s|g=m	
+10	,	,	PONCT	PONCT		
+11	il	il	CLS	CLS	n=s|g=m|p=3	
+12	faut	falloir	V	V	n=s|t=P|p=3	
+13	qu'	que	CS	CS		
+14	il	il	CLS	CLS	n=s|g=m|p=3	
+15	porte	porter	V	V	n=s|t=P,S|p=1,3	
+16	visiblement	_	ADV	ADV		
+17	la	la	DET	DET	n=s|g=f	
+18	même	même	ADJ	ADJ	n=s	
+19	marque	marque	NC	NC	n=s|g=f	
+20	que	que	CS	CS		
+21	ceux	ceux	PRO	PRO	n=p|g=m	
+22	avec	avec	P	P		
+23	lesquels	lequel	PROREL	PROREL	n=p|g=m	
+24	on	on	CLS	CLS	n=s|p=3	
+25	veut	vouloir	V	V	n=s|t=P|p=3	
+26	rivaliser	rivaliser	VINF	VINF	t=W	
+27	.	.	PONCT	PONCT		
+
+1	Ce	ce	PRO	PRO	n=s	
+2	qui	qui	PROREL	PROREL	n=s	
+3	peut	pouvoir	V	V	n=s|t=P|p=3	
+4	aboutir	aboutir	VINF	VINF	t=W	
+5	à	à	P	P		
+6	un	un	DET	DET	n=s|g=m	
+7	esclavage	esclavage	NC	NC	n=s|g=m	
+8	vis	vivre	V	V	n=s|t=P|p=1,2	
+9	-	-	PONCT	PONCT		
+10	à	à	P	P		
+11	-	-	PONCT	PONCT		
+12	vis	vis	NC	NC	g=f	
+13	des	de	P+D	P+D	n=p	
+14	intérêts	intérêt	NC	NC	n=p|g=m	
+15	purement	_	ADV	ADV		
+16	commerciaux	commercial	ADJ	ADJ	n=p|g=m	
+17	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	changement	changement	NC	NC	n=s|g=m	
+3	de	de	P	P		
+4	mode	mode	NC	NC	n=s	
+5	devient	devenir	V	V	n=s|t=P|p=3	
+6	un	un	DET	DET	n=s|g=m	
+7	moyen	moyen	NC	NC	n=s|g=m	
+8	d'	de	P	P		
+9	obliger	obliger	VINF	VINF	t=W	
+10	la	la	DET	DET	n=s|g=f	
+11	clientèle	clientèle	NC	NC	n=s|g=f	
+12	à	à	P	P		
+13	renouveler	renouveler	VINF	VINF	t=W	
+14	périodiquement	_	ADV	ADV		
+15	des	de	P+D	P+D	n=p	
+16	vêtements	vêtement	NC	NC	n=p|g=m	
+17	,	,	PONCT	PONCT		
+18	pourtant	pourtant	ADV	ADV		
+19	en	en	P	P		
+20	très	très	ADV	ADV		
+21	bon	bon	ADJ	ADJ	n=s|g=m	
+22	état	état	NC	NC	n=s|g=m	
+23	,	,	PONCT	PONCT		
+24	mais	mais	CC	CC		
+25	qui	qui	PROREL	PROREL	n=s	
+26	sont	être	V	V	n=p|t=P|p=3	
+27	"	"	PONCT	PONCT		
+28	passés	passer	VPP	VPP	n=p|g=m|t=K	
+29	de	de	P	P		
+30	mode	mode	NC	NC	n=s	
+31	"	"	PONCT	PONCT		
+32	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	habillement	habillement	NC	NC	n=s|g=m	
+3	en	en	P	P		
+4	série	série	NC	NC	n=s|g=f	
+5	pourrait	pouvoir	V	V	n=s|t=C|p=3	
+6	devenir	devenir	VINF	VINF	t=W	
+7	monotone	monotone	ADJ	ADJ	n=s	
+8	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	suffit	suffire	V	V	n=s|t=J,P|p=3	
+3	de	de	P	P		
+4	voir	voir	VINF	VINF	t=W	
+5	le	le	DET	DET	n=s|g=m	
+6	nombre	nombre	NC	NC	n=s|g=m	
+7	incalculable	incalculable	ADJ	ADJ	n=s	
+8	de	de	P	P		
+9	jeans	jean	NC	NC	n=p|g=m	
+10	portés	porter	VPP	VPP	n=p|g=m|t=K	
+11	dans	dans	P	P		
+12	le	le	DET	DET	n=s|g=m	
+13	monde	monde	NC	NC	n=s|g=m	
+14	entier	entier	ADJ	ADJ	n=s|g=m	
+15	.	.	PONCT	PONCT		
+
+1	Mais	mais	CC	CC		
+2	,	,	PONCT	PONCT		
+3	curieusement	_	ADV	ADV		
+4	,	,	PONCT	PONCT		
+5	beaucoup	beaucoup	ADV	ADV		
+6	de	de	DET	DET	n=p	
+7	jeunes	jeune	NC	NC	n=p	
+8	veulent	vouloir	V	V	n=p|t=P|p=3	
+9	se	se	CLR	CLR	n=p,s|p=3	
+10	différencier	différencier	VINF	VINF	t=W	
+11	en	en	P	P		
+12	portant	porter	VPR	VPR	t=G	
+13	des	des	DET	DET	n=p	
+14	pantalons	pantalon	NC	NC	n=p|g=m	
+15	diversement	_	ADV	ADV		
+16	délavés	délaver	VPP	VPP	n=p|g=m|t=K	
+17	et	et	CC	CC		
+18	parfois	parfois	ADV	ADV		
+19	même	même	ADV	ADV		
+20	volontairement	_	ADV	ADV		
+21	déchirés	déchirer	VPP	VPP	n=p|g=m|t=K	
+22	.	.	PONCT	PONCT		
+
+1	Par	par	P	P		
+2	ailleurs	ailleurs	ADV	ADV		
+3	,	,	PONCT	PONCT		
+4	la	la	DET	DET	n=s|g=f	
+5	vie	vie	NC	NC	n=s|g=f	
+6	moderne	moderne	ADJ	ADJ	n=s	
+7	a	avoir	V	V	n=s|t=P|p=3	
+8	multiplié	multiplier	VPP	VPP	n=s|g=m|t=K	
+9	les	les	DET	DET	n=p	
+10	contacts	contact	NC	NC	n=p|g=m	
+11	avec	avec	P	P		
+12	d'	de	DET	DET	n=p	
+13	autres	autre	ADJ	ADJ	n=p	
+14	pays	pays	NC	NC	g=m	
+15	,	,	PONCT	PONCT		
+16	d'	de	DET	DET	n=p	
+17	autres	autre	ADJ	ADJ	n=p	
+18	traditions	tradition	NC	NC	n=p|g=f	
+19	vestimentaires	vestimentaire	ADJ	ADJ	n=p	
+20	qui	qui	PROREL	PROREL	n=s	
+21	s'	se	CLR	CLR	n=p,s|p=3	
+22	influencent	influencer	V	V	n=p|t=P,S|p=3	
+23	mutuellement	_	ADV	ADV		
+24	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	temps	temps	NC	NC	g=m	
+3	n'	ne	ADV	ADV		
+4	est	être	V	V	n=s|t=P|p=3	
+5	plus	plus	ADV	ADV		
+6	où	où	PROREL	PROREL		
+7	la	la	DET	DET	n=s|g=f	
+8	mode	mode	NC	NC	n=s	
+9	pouvait	pouvoir	V	V	n=s|t=I|p=3	
+10	imposer	imposer	VINF	VINF	t=W	
+11	une	une	DET	DET	n=s|g=f	
+12	façon	façon	NC	NC	n=s|g=f	
+13	unique	unique	ADJ	ADJ	n=s	
+14	de	de	P	P		
+15	se	se	CLR	CLR	n=p,s|p=3	
+16	coiffer	coiffer	VINF	VINF	t=W	
+17	,	,	PONCT	PONCT		
+18	une	une	DET	DET	n=s|g=f	
+19	même	même	ADJ	ADJ	n=s	
+20	longueur	longueur	NC	NC	n=s|g=f	
+21	de	de	P	P		
+22	jupe	jupe	NC	NC	n=s|g=f	
+23	ou	ou	CC	CC		
+24	de	de	P	P		
+25	robe	robe	NC	NC	n=s|g=f	
+26	,	,	PONCT	PONCT		
+27	une	une	DET	DET	n=s|g=f	
+28	largeur	largeur	NC	NC	n=s|g=f	
+29	d'	de	P	P		
+30	épaules	épaule	NC	NC	n=p|g=f	
+31	,	,	PONCT	PONCT		
+32	une	une	DET	DET	n=s|g=f	
+33	unité	unité	NC	NC	n=s|g=f	
+34	de	de	P	P		
+35	couleur	couleur	NC	NC	n=s|g=f	
+36	dominante	dominant	ADJ	ADJ	n=s|g=f	
+37	;	;	PONCT	PONCT		
+38	et	et	CC	CC		
+39	,	,	PONCT	PONCT		
+40	pour	pour	P	P		
+41	les	les	DET	DET	n=p	
+42	hommes	homme	NC	NC	n=p|g=m	
+43	,	,	PONCT	PONCT		
+44	un	un	DET	DET	n=s|g=m	
+45	type	type	NC	NC	n=s|g=m	
+46	de	de	P	P		
+47	barbe	barbe	NC	NC	n=s	
+48	ou	ou	CC	CC		
+49	de	de	P	P		
+50	moustache	moustache	NC	NC	n=s|g=f	
+51	.	.	PONCT	PONCT		
+
+1	Chacun	chacun	PRO	PRO	n=s|g=m	
+2	peut	pouvoir	V	V	n=s|t=P|p=3	
+3	puiser	puiser	VINF	VINF	t=W	
+4	à	à	P	P		
+5	volonté	volonté	NC	NC	n=s|g=f	
+6	dans	dans	P	P		
+7	les	les	DET	DET	n=p	
+8	autres	autre	ADJ	ADJ	n=p	
+9	pays	pays	NC	NC	g=m	
+10	et	et	CC	CC		
+11	les	les	DET	DET	n=p	
+12	autres	autre	ADJ	ADJ	n=p	
+13	cultures	culture	NC	NC	n=p|g=f	
+14	et	et	CC	CC		
+15	,	,	PONCT	PONCT		
+16	s'	se	CLR	CLR	n=p,s|p=3	
+17	il	il	CLS	CLS	n=s|g=m|p=3	
+18	se	se	CLR	CLR	n=p,s|p=3	
+19	délivre	délivre	NC	NC	n=s|g=m	
+20	des	de	P+D	P+D	n=p	
+21	fausses	faux	ADJ	ADJ	n=p|g=f	
+22	obligations	obligation	NC	NC	n=p|g=f	
+23	de	de	P	P		
+24	la	la	DET	DET	n=s|g=f	
+25	mode	mode	NC	NC	n=s	
+26	et	et	CC	CC		
+27	des	de	P+D	P+D	n=p	
+28	marques	marque	NC	NC	n=p|g=f	
+29	,	,	PONCT	PONCT		
+30	il	il	CLS	CLS	n=s|g=m|p=3	
+31	peut	pouvoir	V	V	n=s|t=P|p=3	
+32	retrouver	retrouver	VINF	VINF	t=W	
+33	la	la	DET	DET	n=s|g=f	
+34	totale	total	ADJ	ADJ	n=s|g=f	
+35	liberté	liberté	NC	NC	n=s|g=f	
+36	de	de	P	P		
+37	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+38	habillement	habillement	NC	NC	n=s|g=m	
+39	et	et	CC	CC		
+40	de	de	P	P		
+41	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+42	allure	allure	NC	NC	n=s|g=f	
+43	.	.	PONCT	PONCT		
+

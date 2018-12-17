@@ -1,0 +1,6714 @@
+1	modifier	modifier	VINF	VINF	t=W	
+2	Marie	Marie	NPP	NPP	n=s|g=f	
+3	Magdalene	Magdalene	NPP	NPP	n=s|g=f	
+4	Dietrich	Dietrich	NPP	NPP	n=s|g=m	
+5	,	,	PONCT	PONCT		
+6	dite	dire	VPP	VPP	n=s|g=f|t=K	
+7	Marlene	Marlene	NPP	NPP	n=s|g=f	
+8	Dietrich	Dietrich	NPP	NPP	n=s|g=m	
+9	[	[	PONCT	PONCT		
+10	maɐ̯ˈleːnə	_	NC	NC		
+11	ˈdiːtʁɪç	_	NPP	NPP		
+12	]	]	PONCT	PONCT		
+13	[	[	PONCT	PONCT		
+14	c	_	NPP	NPP		
+15	]	]	PONCT	PONCT		
+16	.	.	PONCT	PONCT		
+17	mw	_	NPP	NPP		
+18	-	-	PONCT	PONCT		
+19	parser	_	NPP	NPP		
+20	-	-	PONCT	PONCT		
+21	output	output	NC	NC	n=s|g=m	
+22	.	.	PONCT	PONCT		
+23	prononciation>a	_	ADV	ADV		
+24	{	{	PONCT	PONCT		
+25	background	background	NC	NC	n=s|g=m	
+26	:	:	PONCT	PONCT		
+27	url	_	NPP	NPP		
+28	(	(	PONCT	PONCT		
+29	"	"	PONCT	PONCT		
+30	/	/	PONCT	PONCT		
+31	/	/	PONCT	PONCT		
+32	upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png	$URL$	NPP	NPP		
+33	"	"	PONCT	PONCT		
+34	)	)	PONCT	PONCT		
+35	center	_	NPP	NPP		
+36	left	_	NPP	NPP		
+37	no	_	NPP	NPP		
+38	-	-	PONCT	PONCT		
+39	repeat	_	NPP	NPP		
+40	;	;	PONCT	PONCT		
+41	padding	_	NPP	NPP		
+42	-	-	PONCT	PONCT		
+43	left	_	NC	NC		
+44	:	:	PONCT	PONCT		
+45	15px	_	NPP	NPP		
+46	;	;	PONCT	PONCT		
+47	font	faire	V	V	n=p|t=P|p=3	
+48	-	-	PONCT	PONCT		
+49	size	_	NPP	NPP		
+50	:	:	PONCT	PONCT		
+51	smaller	_	NPP	NPP		
+52	}	}	PONCT	PONCT		
+53	Écouter	écouter	VINF	VINF	t=W	
+54	(	(	PONCT	PONCT		
+55	parfois	parfois	ADV	ADV		
+56	francisé	franciser	VPP	VPP	n=s|g=m|t=K	
+57	en	en	P	P		
+58	Marlène	_	NPP	NPP		
+59	Dietrich	Dietrich	NPP	NPP	n=s|g=m	
+60	[	[	PONCT	PONCT		
+61	maʁlen	_	NC	NC		
+62	djetʁiʃ	_	NPP	NPP		
+63	]	]	PONCT	PONCT		
+64	[	[	PONCT	PONCT		
+65	d	_	NPP	NPP		
+66	]	]	PONCT	PONCT		
+67	)	)	PONCT	PONCT		
+68	,	,	PONCT	PONCT		
+69	est	être	V	V	n=s|t=P|p=3	
+70	une	une	DET	DET	n=s|g=f	
+71	actrice	acteur	NC	NC	n=s|g=f	
+72	et	et	CC	CC		
+73	chanteuse	chanteur	NC	NC	n=s|g=f	
+74	allemande	allemand	ADJ	ADJ	n=s|g=f	
+75	naturalisée	naturaliser	ADJ	ADJ	n=s|g=f|t=K	
+76	américaine	américain	ADJ	ADJ	n=s|g=f	
+77	,	,	PONCT	PONCT		
+78	née	naître	VPP	VPP	n=s|g=f|t=K	
+79	le	le	DET	DET	n=s|g=m	
+80	27	27	ADJ	ADJ		
+81	décembre	décembre	NC	NC	n=s|g=m	
+82	1901	1901	ADJ	ADJ		
+83	à	à	P	P		
+84	Schöneberg	_	NPP	NPP		
+85	et	et	CC	CC		
+86	morte	mort	ADJ	ADJ	n=s|g=f|t=K	
+87	le	le	DET	DET	n=s|g=m	
+88	6	6	ADJ	ADJ		
+89	mai	mai	NC	NC	n=s|g=m	
+90	1992	1992	NC	NC		
+91	à	à	P	P		
+92	Paris	Paris	NPP	NPP	n=s|g=m	
+93	8e	_	NPP	NPP		
+94	.	.	PONCT	PONCT		
+
+1	Après	après	P	P		
+2	s'	se	CLR	CLR	n=p,s|p=3	
+3	être	être	VINF	VINF	t=W	
+4	destinée	destiner	VPP	VPP	n=s|g=f|t=K	
+5	à	à	P	P		
+6	une	une	DET	DET	n=s|g=f	
+7	carrière	carrière	NC	NC	n=s|g=f	
+8	musicale	musical	ADJ	ADJ	n=s|g=f	
+9	dans	dans	P	P		
+10	un	un	DET	DET	n=s|g=m	
+11	premier	premier	ADJ	ADJ	n=s|g=m	
+12	temps	temps	NC	NC	g=m	
+13	,	,	PONCT	PONCT		
+14	elle	elle	CLS	CLS	n=s|g=f|p=3	
+15	se	se	CLR	CLR	n=p,s|p=3	
+16	tourne	tourner	V	V	n=s|t=P,S|p=1,3	
+17	vers	vers	P	P		
+18	le	le	DET	DET	n=s|g=m	
+19	théâtre	théâtre	NC	NC	n=s|g=m	
+20	et	et	CC	CC		
+21	le	le	DET	DET	n=s|g=m	
+22	cinéma	cinéma	NC	NC	n=s|g=m	
+23	au	à	P+D	P+D	n=s|g=m	
+24	début	début	NC	NC	n=s|g=m	
+25	des	de	P+D	P+D	n=p	
+26	années	année	NC	NC	n=p|g=f	
+27	1920	1920	NC	NC		
+28	.	.	PONCT	PONCT		
+
+1	Lancée	lancer	VPP	VPP	n=s|g=f|t=K	
+2	par	par	P	P		
+3	le	le	DET	DET	n=s|g=m	
+4	film	film	NC	NC	n=s|g=m	
+5	L'	le	DET	DET	n=s	
+6	Ange	Ange	NPP	NPP	n=s|g=m	
+7	bleu	bleu	ADJ	ADJ	n=s|g=m	
+8	de	de	P	P		
+9	Josef	Josef	NPP	NPP	n=s|g=m	
+10	von	_	NPP	NPP		
+11	Sternberg	_	NPP	NPP		
+12	,	,	PONCT	PONCT		
+13	produit	produire	VPP	VPP	n=s|g=m|t=K	
+14	par	par	P	P		
+15	la	la	DET	DET	n=s|g=f	
+16	UFA	_	NPP	NPP		
+17	en	en	P	P		
+18	1930	1930	NC	NC		
+19	,	,	PONCT	PONCT		
+20	elle	elle	CLS	CLS	n=s|g=f|p=3	
+21	est	être	V	V	n=s|t=P|p=3	
+22	repérée	repérer	VPP	VPP	n=s|g=f|t=K	
+23	par	par	P	P		
+24	le	le	DET	DET	n=s|g=m	
+25	studio	studio	NC	NC	n=s|g=m	
+26	américain	américain	ADJ	ADJ	n=s|g=m	
+27	Paramount	_	NPP	NPP		
+28	et	et	CC	CC		
+29	poursuit	poursuivre	V	V	n=s|t=P|p=3	
+30	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+31	carrière	carrière	NC	NC	n=s|g=f	
+32	à	à	P	P		
+33	Hollywood	_	NPP	NPP		
+34	.	.	PONCT	PONCT		
+
+1	Sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+2	collaboration	collaboration	NC	NC	n=s|g=f	
+3	artistique	artistique	ADJ	ADJ	n=s	
+4	avec	avec	P	P		
+5	von	_	NC	NC		
+6	Sternberg	_	NPP	NPP		
+7	produit	produire	V	V	n=s|t=P|p=3	
+8	sept	sept	DET	DET	s=card|n=p	
+9	films	film	NC	NC	n=p|g=m	
+10	dont	dont	PROREL	PROREL		
+11	Morocco	_	NPP	NPP		
+12	(	(	PONCT	PONCT		
+13	1930	1930	NC	NC		
+14	)	)	PONCT	PONCT		
+15	,	,	PONCT	PONCT		
+16	Shanghaï	_	NPP	NPP		
+17	Express	_	NPP	NPP		
+18	(	(	PONCT	PONCT		
+19	1932	1932	NC	NC		
+20	)	)	PONCT	PONCT		
+21	où	où	PROREL	PROREL		
+22	L'	le	DET	DET	n=s	
+23	Impératrice	empereur	NC	NC	n=s|g=f	
+24	rouge	rouge	ADJ	ADJ	n=s	
+25	(	(	PONCT	PONCT		
+26	1934	1934	NC	NC		
+27	)	)	PONCT	PONCT		
+28	,	,	PONCT	PONCT		
+29	faisant	faire	VPR	VPR	t=G	
+30	de	de	P	P		
+31	l'	le	DET	DET	n=s	
+32	actrice	acteur	NC	NC	n=s|g=f	
+33	l'	le	DET	DET	n=s	
+34	incarnation	incarnation	NC	NC	n=s|g=f	
+35	parfaite	parfait	ADJ	ADJ	n=s|g=f	
+36	de	de	P	P		
+37	la	la	DET	DET	n=s|g=f	
+38	femme	femme	NC	NC	n=s|g=f	
+39	fatale	fatal	ADJ	ADJ	n=s|g=f	
+40	.	.	PONCT	PONCT		
+
+1	Par	par	P	P		
+2	la	la	DET	DET	n=s|g=f	
+3	suite	suite	NC	NC	n=s|g=f	
+4	,	,	PONCT	PONCT		
+5	elle	elle	CLS	CLS	n=s|g=f|p=3	
+6	tourne	tourner	V	V	n=s|t=P,S|p=1,3	
+7	avec	avec	P	P		
+8	les	les	DET	DET	n=p	
+9	plus	plus	ADV	ADV		
+10	grands	grand	ADJ	ADJ	n=p|g=m	
+11	réalisateurs	réalisateur	NC	NC	n=p|g=m	
+12	,	,	PONCT	PONCT		
+13	dans	dans	P	P		
+14	divers	divers	DET	DET	n=p|g=m	
+15	genres	genre	NC	NC	n=p|g=m	
+16	de	de	P	P		
+17	films	film	NC	NC	n=p|g=m	
+18	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	comédie	comédie	NC	NC	n=s|g=f	
+3	avec	avec	P	P		
+4	Ernst	Ernst	NPP	NPP	n=s|g=m	
+5	Lubitsch	_	NPP	NPP		
+6	(	(	PONCT	PONCT		
+7	Angel	Angel	NPP	NPP	n=s	
+8	,	,	PONCT	PONCT		
+9	1937	1937	NC	NC		
+10	)	)	PONCT	PONCT		
+11	,	,	PONCT	PONCT		
+12	René	René	NPP	NPP	n=s|g=m	
+13	Clair	_	NPP	NPP		
+14	(	(	PONCT	PONCT		
+15	La	la	DET	DET	n=s|g=f	
+16	Belle	Belle	NPP	NPP	n=s|g=f	
+17	Ensorceleuse	_	NPP	NPP		
+18	,	,	PONCT	PONCT		
+19	1941	1941	NC	NC		
+20	)	)	PONCT	PONCT		
+21	ou	ou	CC	CC		
+22	Billy	Billy	NPP	NPP	n=s|g=m	
+23	Wilder	_	NPP	NPP		
+24	(	(	PONCT	PONCT		
+25	La	la	DET	DET	n=s|g=f	
+26	Scandaleuse	_	NPP	NPP		
+27	de	de	P	P		
+28	Berlin	Berlin	NPP	NPP	n=s|g=f,m	
+29	,	,	PONCT	PONCT		
+30	1948	1948	NC	NC		
+31	)	)	PONCT	PONCT		
+32	,	,	PONCT	PONCT		
+33	le	le	DET	DET	n=s|g=m	
+34	western	western	NC	NC	n=s|g=m	
+35	avec	avec	P	P		
+36	George	George	NPP	NPP	n=s|g=m	
+37	Marshall	Marshall	NPP	NPP	n=s|g=m	
+38	(	(	PONCT	PONCT		
+39	Femme	femme	NC	NC	n=s|g=f	
+40	ou	ou	CC	CC		
+41	Démon	_	NPP	NPP		
+42	,	,	PONCT	PONCT		
+43	1939	1939	NC	NC		
+44	)	)	PONCT	PONCT		
+45	ou	ou	CC	CC		
+46	Fritz	Fritz	NPP	NPP	n=s|g=m	
+47	Lang	_	NPP	NPP		
+48	(	(	PONCT	PONCT		
+49	L'	le	DET	DET	n=s	
+50	Ange	Ange	NPP	NPP	n=s|g=m	
+51	des	de	P+D	P+D	n=p	
+52	maudits	maudire	ADJ	ADJ	n=p|g=m|t=K	
+53	,	,	PONCT	PONCT		
+54	1952	1952	NC	NC		
+55	)	)	PONCT	PONCT		
+56	,	,	PONCT	PONCT		
+57	le	le	DET	DET	n=s|g=m	
+58	film	film	NC	NC	n=s|g=m	
+59	policier	policier	ADJ	ADJ	n=s|g=m	
+60	avec	avec	P	P		
+61	Alfred	Alfred	NPP	NPP	n=s|g=m	
+62	Hitchcock	_	NPP	NPP		
+63	(	(	PONCT	PONCT		
+64	Le	le	DET	DET	n=s|g=m	
+65	Grand	Grand	NPP	NPP	n=s|g=m	
+66	Alibi	_	NPP	NPP		
+67	,	,	PONCT	PONCT		
+68	1950	1950	NC	NC		
+69	)	)	PONCT	PONCT		
+70	,	,	PONCT	PONCT		
+71	Billy	Billy	NPP	NPP	n=s|g=m	
+72	Wilder	_	NPP	NPP		
+73	(	(	PONCT	PONCT		
+74	Témoin	témoin	NC	NC	n=s|g=m	
+75	à	à	P	P		
+76	charge	charge	NC	NC	n=s|g=f	
+77	,	,	PONCT	PONCT		
+78	1957	1957	NC	NC		
+79	)	)	PONCT	PONCT		
+80	ou	ou	CC	CC		
+81	Orson	Orson	NPP	NPP	n=s|g=m	
+82	Welles	_	NPP	NPP		
+83	(	(	PONCT	PONCT		
+84	La	la	DET	DET	n=s|g=f	
+85	Soif	soif	NC	NC	n=s|g=f	
+86	du	de	P+D	P+D	n=s|g=m	
+87	mal	mal	NC	NC	n=s|g=m	
+88	,	,	PONCT	PONCT		
+89	1959	1959	NC	NC		
+90	)	)	PONCT	PONCT		
+91	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	s'	se	CLR	CLR	n=p,s|p=3	
+3	engage	engager	V	V	n=s|t=P,S|p=1,3	
+4	contre	contre	P	P		
+5	le	le	DET	DET	n=s|g=m	
+6	nazisme	nazisme	NC	NC	n=s|g=m	
+7	dès	dès	P	P		
+8	les	les	DET	DET	n=p	
+9	années	année	NC	NC	n=p|g=f	
+10	1930	1930	NC	NC		
+11	,	,	PONCT	PONCT		
+12	et	et	CC	CC		
+13	participe	participer	V	V	n=s|t=P,S|p=1,3	
+14	activement	_	ADV	ADV		
+15	à	à	P	P		
+16	la	la	DET	DET	n=s|g=f	
+17	Seconde	_	NPP	NPP		
+18	Guerre	_	NPP	NPP		
+19	mondiale	mondial	ADJ	ADJ	n=s|g=f	
+20	entre	entre	P	P		
+21	1944	1944	NC	NC		
+22	et	et	CC	CC		
+23	1945	1945	NC	NC		
+24	,	,	PONCT	PONCT		
+25	rendant	rendre	VPR	VPR	t=G	
+26	célèbre	célèbre	ADJ	ADJ	n=s	
+27	la	la	DET	DET	n=s|g=f	
+28	chanson	chanson	NC	NC	n=s|g=f	
+29	Lili	Lili	NPP	NPP	n=s|g=f	
+30	Marleen	_	NPP	NPP		
+31	,	,	PONCT	PONCT		
+32	et	et	CC	CC		
+33	obtenant	obtenir	VPR	VPR	t=G	
+34	en	en	P	P		
+35	1947	1947	NC	NC		
+36	la	la	DET	DET	n=s|g=f	
+37	Medal	_	NPP	NPP		
+38	of	_	NPP	NPP		
+39	Freedom	_	NPP	NPP		
+40	,	,	PONCT	PONCT		
+41	plus	plus	ADV	ADV		
+42	haute	haut	ADJ	ADJ	n=s|g=f	
+43	distinction	distinction	NC	NC	n=s|g=f	
+44	militaire	militaire	ADJ	ADJ	n=s	
+45	américaine	américain	ADJ	ADJ	n=s|g=f	
+46	que	que	PROREL	PROREL		
+47	peut	pouvoir	V	V	n=s|t=P|p=3	
+48	recevoir	recevoir	VINF	VINF	t=W	
+49	un	un	DET	DET	n=s|g=m	
+50	civil	civil	ADJ	ADJ	n=s|g=m	
+51	.	.	PONCT	PONCT		
+
+1	Alors	alors	ADV	ADV		
+2	que	que	CS	CS		
+3	ses	ses	DET	DET	n=p|p=3|poss=s	
+4	rôles	rôle	NC	NC	n=p|g=m	
+5	au	à	P+D	P+D	n=s|g=m	
+6	cinéma	cinéma	NC	NC	n=s|g=m	
+7	se	se	CLR	CLR	n=p,s|p=3	
+8	font	faire	V	V	n=p|t=P|p=3	
+9	moins	moins	ADV	ADV		
+10	nombreux	nombreux	ADJ	ADJ	g=m	
+11	,	,	PONCT	PONCT		
+12	elle	elle	CLS	CLS	n=s|g=f|p=3	
+13	se	se	CLR	CLR	n=p,s|p=3	
+14	tourne	tourner	V	V	n=s|t=P,S|p=1,3	
+15	vers	vers	P	P		
+16	la	la	DET	DET	n=s|g=f	
+17	radio	radio	NC	NC	n=s	
+18	puis	puis	CC	CC		
+19	vers	vers	P	P		
+20	le	le	DET	DET	n=s|g=m	
+21	music	_	NC	NC		
+22	-	-	PONCT	PONCT		
+23	hall	hall	NC	NC	n=s|g=m	
+24	,	,	PONCT	PONCT		
+25	faisant	faire	VPR	VPR	t=G	
+26	le	le	DET	DET	n=s|g=m	
+27	tour	tour	NC	NC	n=s	
+28	du	de	P+D	P+D	n=s|g=m	
+29	monde	monde	NC	NC	n=s|g=m	
+30	avec	avec	P	P		
+31	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+32	tour	tour	NC	NC	n=s	
+33	de	de	P	P		
+34	chant	chant	NC	NC	n=s|g=m	
+35	entre	entre	P	P		
+36	1953	1953	NC	NC		
+37	et	et	CC	CC		
+38	1975	1975	NC	NC		
+39	.	.	PONCT	PONCT		
+
+1	Pour	pour	P	P		
+2	protéger	protéger	VINF	VINF	t=W	
+3	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+4	image	image	NC	NC	n=s|g=f	
+5	,	,	PONCT	PONCT		
+6	elle	elle	CLS	CLS	n=s|g=f|p=3	
+7	vit	vivre	V	V	n=s|t=P|p=3	
+8	recluse	_	ADJ	ADJ		
+9	les	les	DET	DET	n=p	
+10	quinze	quinze	ADJ	ADJ	s=card|n=p	
+11	dernières	dernier	ADJ	ADJ	n=p|g=f	
+12	années	année	NC	NC	n=p|g=f	
+13	de	de	P	P		
+14	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+15	vie	vie	NC	NC	n=s|g=f	
+16	,	,	PONCT	PONCT		
+17	dans	dans	P	P		
+18	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+19	appartement	appartement	NC	NC	n=s|g=m	
+20	du	de	P+D	P+D	n=s|g=m	
+21	12	12	ADJ	ADJ		
+22	,	,	PONCT	PONCT		
+23	avenue	avenue	NC	NC	n=s|g=f	
+24	Montaigne	_	NPP	NPP		
+25	à	à	P	P		
+26	Paris	Paris	NPP	NPP	n=s|g=m	
+27	,	,	PONCT	PONCT		
+28	refusant	refuser	VPR	VPR	t=G	
+29	de	de	P	P		
+30	se	se	CLR	CLR	n=p,s|p=3	
+31	faire	faire	VINF	VINF	t=W	
+32	photographier	photographier	VINF	VINF	t=W	
+33	,	,	PONCT	PONCT		
+34	tout	tout	ADV	ADV		
+35	en	en	P	P		
+36	restant	rester	VPR	VPR	t=G	
+37	présente	présenter	V	V	n=s|t=P,S|p=1,3	
+38	médiatiquement	_	ADV	ADV		
+39	[	[	PONCT	PONCT		
+40	1	1	NC	NC		
+41	]	]	PONCT	PONCT		
+42	.	.	PONCT	PONCT		
+
+1	Marlene	Marlene	NPP	NPP	n=s|g=f	
+2	Dietrich	Dietrich	NPP	NPP	n=s|g=m	
+3	marque	marquer	V	V	n=s|t=P,S|p=1,3	
+4	aussi	aussi	ADV	ADV		
+5	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+6	époque	époque	NC	NC	n=s|g=f	
+7	par	par	P	P		
+8	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+9	style	style	NC	NC	n=s|g=m	
+10	et	et	CC	CC		
+11	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+12	élégance	élégance	NC	NC	n=s|g=f	
+13	au	à	P+D	P+D	n=s|g=m	
+14	cours	cour	NC	NC	n=p|g=f	
+15	de	de	P	P		
+16	ses	ses	DET	DET	n=p|p=3|poss=s	
+17	apparitions	apparition	NC	NC	n=p|g=f	
+18	publiques	public	ADJ	ADJ	n=p|g=f	
+19	,	,	PONCT	PONCT		
+20	s'	se	CLR	CLR	n=p,s|p=3	
+21	habillant	habiller	VPR	VPR	t=G	
+22	chez	chez	P	P		
+23	les	les	DET	DET	n=p	
+24	grands	grand	ADJ	ADJ	n=p|g=m	
+25	couturiers	couturier	NC	NC	n=p|g=m	
+26	,	,	PONCT	PONCT		
+27	français	français	ADJ	ADJ	g=m	
+28	notamment	_	ADV	ADV		
+29	,	,	PONCT	PONCT		
+30	comme	comme	P	P		
+31	Hermès	_	NPP	NPP		
+32	,	,	PONCT	PONCT		
+33	Dior	_	NPP	NPP		
+34	,	,	PONCT	PONCT		
+35	Chanel	Chanel	NPP	NPP	n=s|g=f	
+36	ou	ou	CC	CC		
+37	Balenciaga	_	NPP	NPP		
+38	[	[	PONCT	PONCT		
+39	2	2	ADJ	ADJ		
+40	]	]	PONCT	PONCT		
+41	.	.	PONCT	PONCT		
+
+1	Surnommée	surnommer	VPP	VPP	n=s|g=f|t=K	
+2	"	"	PONCT	PONCT		
+3	L'	le	DET	DET	n=s	
+4	Ange	Ange	NPP	NPP	n=s|g=m	
+5	bleu	bleu	ADJ	ADJ	n=s|g=m	
+6	"	"	PONCT	PONCT		
+7	ou	ou	CC	CC		
+8	"	"	PONCT	PONCT		
+9	La	la	DET	DET	n=s|g=f	
+10	Vénus	vénus	NC	NC	g=f	
+11	blonde	blond	ADJ	ADJ	n=s|g=f	
+12	"	"	PONCT	PONCT		
+13	,	,	PONCT	PONCT		
+14	elle	elle	CLS	CLS	n=s|g=f|p=3	
+15	est	être	V	V	n=s|t=P|p=3	
+16	classée	classer	VPP	VPP	n=s|g=f|t=K	
+17	en	en	P	P		
+18	1999	1999	NC	NC	s=card|n=s	
+19	par	par	P	P		
+20	l'	le	DET	DET	n=s	
+21	American	_	NPP	NPP		
+22	Film	_	NPP	NPP		
+23	Institute	_	NPP	NPP		
+24	à	à	P	P		
+25	la	la	DET	DET	n=s|g=f	
+26	neuvième	neuvième	ADJ	ADJ	n=s	
+27	place	place	NC	NC	n=s|g=f	
+28	des	de	P+D	P+D	n=p	
+29	actrices	acteur	NC	NC	n=p|g=f	
+30	de	de	P	P		
+31	légende	légende	NC	NC	n=s|g=f	
+32	[	[	PONCT	PONCT		
+33	3	3	ADJ	ADJ		
+34	]	]	PONCT	PONCT		
+35	.	.	PONCT	PONCT		
+
+1	Marie	_	NPP	NPP		
+2	Magdalene	Magdalene	NPP	NPP	n=s|g=f	
+3	Dietrich	Dietrich	NPP	NPP	n=s|g=m	
+4	naît	naître	V	V	n=s|t=P|p=3	
+5	le	le	DET	DET	n=s|g=m	
+6	27	27	ADJ	ADJ		
+7	décembre	décembre	NC	NC	n=s|g=m	
+8	1901	1901	ADJ	ADJ		
+9	à	à	P	P		
+10	Schöneberg	_	NPP	NPP		
+11	(	(	PONCT	PONCT		
+12	aujourd'hui	aujourd'hui	ADV	ADV		
+13	un	un	DET	DET	n=s|g=m	
+14	quartier	quartier	NC	NC	n=s|g=m	
+15	de	de	P	P		
+16	Berlin	Berlin	NPP	NPP	n=s|g=f,m	
+17	)	)	PONCT	PONCT		
+18	,	,	PONCT	PONCT		
+19	au	à	P+D	P+D	n=s|g=m	
+20	numéro	numéro	NC	NC	n=s|g=m	
+21	65	65	NC	NC		
+22	de	de	P	P		
+23	la	la	DET	DET	n=s|g=f	
+24	Sedanstraße	_	NPP	NPP		
+25	(	(	PONCT	PONCT		
+26	aujourd'hui	aujourd'hui	ADV	ADV		
+27	Leberstraße	_	NPP	NPP		
+28	)	)	PONCT	PONCT		
+29	,	,	PONCT	PONCT		
+30	dans	dans	P	P		
+31	le	le	DET	DET	n=s|g=m	
+32	quartier	quartier	NC	NC	n=s|g=m	
+33	de	de	P	P		
+34	la	la	DET	DET	n=s|g=f	
+35	Rote	_	NPP	NPP		
+36	Insel	_	NPP	NPP		
+37	(	(	PONCT	PONCT		
+38	en	en	P	P		
+39	)	)	PONCT	PONCT		
+40	[	[	PONCT	PONCT		
+41	e	_	NPP	NPP		
+42	]	]	PONCT	PONCT		
+43	,	,	PONCT	PONCT		
+44	de	de	P	P		
+45	Louis	Louis	NPP	NPP	n=s|g=m	
+46	Erich	Erich	NPP	NPP	n=s|g=m	
+47	Otto	Otto	NPP	NPP	n=s|g=m	
+48	Dietrich	Dietrich	NPP	NPP	n=s|g=m	
+49	(	(	PONCT	PONCT		
+50	1868-1908	1868-1908	NPP	NPP		
+51	)	)	PONCT	PONCT		
+52	,	,	PONCT	PONCT		
+53	lieutenant	lieutenant	NC	NC	n=s|g=m	
+54	de	de	P	P		
+55	la	la	DET	DET	n=s|g=f	
+56	police	police	NC	NC	n=s|g=f	
+57	impériale	impérial	ADJ	ADJ	n=s|g=f	
+58	prussienne	prussien	ADJ	ADJ	n=s|g=f	
+59	,	,	PONCT	PONCT		
+60	et	et	CC	CC		
+61	de	de	P	P		
+62	Wilhelmina	Wilhelmina	NPP	NPP	n=s|g=f	
+63	Elisabeth	Elisabeth	NPP	NPP	n=s|g=f	
+64	Joséphine	Joséphine	NPP	NPP	n=s|g=f	
+65	Felsing	_	NPP	NPP		
+66	(	(	PONCT	PONCT		
+67	1876-1945	1876-1945	NPP	NPP		
+68	)	)	PONCT	PONCT		
+69	,	,	PONCT	PONCT		
+70	riche	riche	ADJ	ADJ	n=s	
+71	héritière	héritier	NC	NC	n=s|g=f	
+72	d'	de	P	P		
+73	une	une	DET	DET	n=s|g=f	
+74	famille	famille	NC	NC	n=s|g=f	
+75	d'	de	P	P		
+76	horlogers	horloger	NC	NC	n=p|g=m	
+77	[	[	PONCT	PONCT		
+78	4	4	NC	NC		
+79	]	]	PONCT	PONCT		
+80	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	couple	couple	NC	NC	n=s	
+3	qui	qui	PROREL	PROREL	n=s	
+4	s'	se	CLR	CLR	n=p,s|p=3	
+5	est	être	V	V	n=s|t=P|p=3	
+6	marié	marier	VPP	VPP	n=s|g=m|t=K	
+7	en	en	P	P		
+8	décembre	décembre	NC	NC	n=s|g=m	
+9	1898	1898	NC	NC		
+10	a	avoir	V	V	n=s|t=P|p=3	
+11	déjà	déjà	ADV	ADV		
+12	une	une	DET	DET	n=s|g=f	
+13	première	premier	ADJ	ADJ	n=s|g=f	
+14	fille	fille	NC	NC	n=s|g=f	
+15	,	,	PONCT	PONCT		
+16	Elisabeth	Elisabeth	NPP	NPP	n=s|g=f	
+17	,	,	PONCT	PONCT		
+18	née	naître	VPP	VPP	n=s|g=f|t=K	
+19	en	en	P	P		
+20	1900	1900	NC	NC		
+21	.	.	PONCT	PONCT		
+
+1	Ils	ils	CLS	CLS	n=p|g=m|p=3	
+2	donnent	donner	V	V	n=p|t=P,S|p=3	
+3	à	à	P	P		
+4	leurs	leurs	DET	DET	n=p|p=3|poss=p	
+5	deux	deux	DET	DET	s=card|n=p	
+6	jeunes	jeune	ADJ	ADJ	n=p	
+7	filles	fille	NC	NC	n=p|g=f	
+8	une	une	DET	DET	n=s|g=f	
+9	éducation	éducation	NC	NC	n=s|g=f	
+10	très	très	ADV	ADV		
+11	stricte	strict	ADJ	ADJ	n=s|g=f	
+12	,	,	PONCT	PONCT		
+13	entièrement	_	ADV	ADV		
+14	basée	baser	VPP	VPP	n=s|g=f|t=K	
+15	sur	sur	P	P		
+16	la	la	DET	DET	n=s|g=f	
+17	discipline	discipline	NC	NC	n=s|g=f	
+18	.	.	PONCT	PONCT		
+
+1	Celles	celle	PRO	PRO	n=p|g=f	
+2	-	-	PONCT	PONCT		
+3	ci	_	NPP	NPP		
+4	prennent	prendre	V	V	n=p|t=P,S|p=3	
+5	notamment	_	ADV	ADV		
+6	des	des	DET	DET	n=p	
+7	cours	cour	NC	NC	n=p|g=f	
+8	de	de	P	P		
+9	maintien	maintien	NC	NC	n=s|g=m	
+10	,	,	PONCT	PONCT		
+11	des	des	DET	DET	n=p	
+12	leçons	leçon	NC	NC	n=p|g=f	
+13	de	de	P	P		
+14	français	français	NC	NC	g=m	
+15	et	et	CC	CC		
+16	d'	de	P	P		
+17	anglais	anglais	NC	NC	g=m	
+18	[	[	PONCT	PONCT		
+19	5	5	ADJ	ADJ		
+20	]	]	PONCT	PONCT		
+21	.	.	PONCT	PONCT		
+
+1	Alors	alors	ADV	ADV		
+2	que	que	CS	CS		
+3	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+4	sœur	_	NC	NC		
+5	aînée	aîné	ADJ	ADJ	n=s|g=f	
+6	est	être	V	V	n=s|t=P|p=3	
+7	une	une	DET	DET	n=s|g=f	
+8	enfant	enfant	NC	NC	n=s	
+9	obéissante	obéissant	ADJ	ADJ	n=s|g=f	
+10	,	,	PONCT	PONCT		
+11	Marie	Marie	NPP	NPP	n=s|g=f	
+12	Magdalene	Magdalene	NPP	NPP	n=s|g=f	
+13	est	être	V	V	n=s|t=P|p=3	
+14	plus	plus	ADV	ADV		
+15	dissipée	dissiper	VPP	VPP	n=s|g=f|t=K	
+16	et	et	CC	CC		
+17	s'	se	CLR	CLR	n=p,s|p=3	
+18	envisage	envisager	V	V	n=s|t=P,S|p=1,3	
+19	espionne	espion	ADJ	ADJ	n=s|g=f	
+20	ou	ou	CC	CC		
+21	artiste	artiste	ADJ	ADJ	n=s	
+22	.	.	PONCT	PONCT		
+
+1	C'	ce	CLS	CLS		
+2	est	être	V	V	n=s|t=P|p=3	
+3	dans	dans	P	P		
+4	cette	cette	DET	DET	n=s|g=f	
+5	perspective	perspective	NC	NC	n=s|g=f	
+6	qu'	que	PROREL	PROREL		
+7	elle	elle	CLS	CLS	n=s|g=f|p=3	
+8	contracte	contracter	V	V	n=s|t=P,S|p=1,3	
+9	ses	ses	DET	DET	n=p|p=3|poss=s	
+10	deux	deux	ADJ	ADJ	s=card|n=p	
+11	premiers	premier	ADJ	ADJ	n=p|g=m	
+12	prénoms	prénom	NC	NC	n=p|g=m	
+13	en	en	P	P		
+14	Marlene	Marlene	NPP	NPP	n=s|g=f	
+15	[	[	PONCT	PONCT		
+16	6	6	ADJ	ADJ		
+17	]	]	PONCT	PONCT		
+18	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	perd	perdre	V	V	n=s|t=P|p=3	
+3	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+4	père	père	NC	NC	n=s|g=m	
+5	le	le	DET	DET	n=s|g=m	
+6	5	5	ADJ	ADJ		
+7	août	août	NC	NC	n=s|g=m	
+8	1908	1908	NC	NC		
+9	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	biographies	biographie	NC	NC	n=p|g=f	
+3	divergent	divergent	ADJ	ADJ	n=s|g=m	
+4	sur	sur	P	P		
+5	les	les	DET	DET	n=p	
+6	circonstances	circonstance	NC	NC	n=p|g=f	
+7	de	de	P	P		
+8	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+9	mort	mort	NC	NC	n=s|g=f,m	
+10	[	[	PONCT	PONCT		
+11	7	7	ADJ	ADJ		
+12	]	]	PONCT	PONCT		
+13	:	:	PONCT	PONCT		
+14	il	il	CLS	CLS	n=s|g=m|p=3	
+15	est	être	V	V	n=s|t=P|p=3	
+16	probablement	_	ADV	ADV		
+17	emporté	emporter	VPP	VPP	n=s|g=m|t=K	
+18	par	par	P	P		
+19	la	la	DET	DET	n=s|g=f	
+20	syphilis	syphilis	NC	NC	g=f	
+21	après	après	P	P		
+22	être	être	VINF	VINF	t=W	
+23	entré	entrer	VPP	VPP	n=s|g=m|t=K	
+24	dans	dans	P	P		
+25	un	un	DET	DET	n=s|g=m	
+26	sanatorium	sanatorium	NC	NC	n=s|g=m	
+27	.	.	PONCT	PONCT		
+
+1	Sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+2	mère	mère	NC	NC	n=s|g=f	
+3	se	se	CLR	CLR	n=p,s|p=3	
+4	remarie	remarier	V	V	n=s|t=P,S|p=1,3	
+5	en	en	P	P		
+6	1916	1916	NC	NC		
+7	avec	avec	P	P		
+8	le	le	DET	DET	n=s|g=m	
+9	meilleur	meilleur	ADJ	ADJ	n=s|g=m	
+10	ami	ami	NC	NC	n=s|g=m	
+11	de	de	P	P		
+12	celui	celui	PRO	PRO	n=s|g=m	
+13	-	-	PONCT	PONCT		
+14	ci	_	NPP	NPP		
+15	,	,	PONCT	PONCT		
+16	Eduard	Eduard	NPP	NPP	n=s|g=m	
+17	von	_	NPP	NPP		
+18	Losch	_	NPP	NPP		
+19	,	,	PONCT	PONCT		
+20	capitaine	capitaine	NC	NC	n=s|g=m	
+21	de	de	P	P		
+22	cavalerie	cavalerie	NC	NC	n=s|g=f	
+23	,	,	PONCT	PONCT		
+24	qui	qui	PROREL	PROREL	n=s	
+25	meurt	mourir	V	V	n=s|t=P|p=3	
+26	sur	sur	P	P		
+27	le	le	DET	DET	n=s|g=m	
+28	front	front	NC	NC	n=s|g=m	
+29	de	de	P	P		
+30	l'	le	DET	DET	n=s	
+31	Est	_	NPP	NPP		
+32	en	en	P	P		
+33	juillet	juillet	NC	NC	n=s|g=m	
+34	1917	1917	NC	NC		
+35	lors	lors	ADV	ADV		
+36	de	de	P	P		
+37	la	la	DET	DET	n=s|g=f	
+38	Première	_	NPP	NPP		
+39	Guerre	_	NPP	NPP		
+40	mondiale	mondial	ADJ	ADJ	n=s|g=f	
+41	,	,	PONCT	PONCT		
+42	sans	sans	P	P		
+43	avoir	avoir	VINF	VINF	t=W	
+44	eu	avoir	VPP	VPP	n=s|g=m|t=K	
+45	le	le	DET	DET	n=s|g=m	
+46	temps	temps	NC	NC	g=m	
+47	d'	de	P	P		
+48	adopter	adopter	VINF	VINF	t=W	
+49	officiellement	_	ADV	ADV		
+50	ses	ses	DET	DET	n=p|p=3|poss=s	
+51	deux	deux	ADJ	ADJ	s=card|n=p	
+52	belles	beau	ADJ	ADJ	n=p|g=f	
+53	-	-	PONCT	PONCT		
+54	filles	fille	NC	NC	n=p|g=f	
+55	[	[	PONCT	PONCT		
+56	8	8	NC	NC		
+57	]	]	PONCT	PONCT		
+58	.	.	PONCT	PONCT		
+
+1	Marlene	Marlene	NPP	NPP	n=s|g=f	
+2	fréquente	fréquenter	V	V	n=s|t=P,S|p=1,3	
+3	l'	le	DET	DET	n=s	
+4	école	école	NC	NC	n=s|g=f	
+5	des	de	P+D	P+D	n=p	
+6	filles	fille	NC	NC	n=p|g=f	
+7	Auguste	Auguste	NPP	NPP	n=s|g=m	
+8	-	-	PONCT	PONCT		
+9	Viktoria	Viktoria	NPP	NPP	n=s|g=f	
+10	de	de	P	P		
+11	1907	1907	NC	NC		
+12	à	à	P	P		
+13	1917	1917	NC	NC		
+14	puis	_	ADV	ADV		
+15	est	être	V	V	n=s|t=P|p=3	
+16	diplômée	diplômer	VPP	VPP	n=s|g=f|t=K	
+17	de	de	P	P		
+18	l'	le	DET	DET	n=s	
+19	école	école	NC	NC	n=s|g=f	
+20	Victoria	Victoria	NPP	NPP	n=s|g=f,m	
+21	-	-	PONCT	PONCT		
+22	Luise	_	ADJ	ADJ		
+23	(	(	PONCT	PONCT		
+24	actuel	actuel	ADJ	ADJ	n=s|g=m	
+25	lycée	lycée	NC	NC	n=s|g=m	
+26	Goethe	_	NPP	NPP		
+27	(	(	PONCT	PONCT		
+28	de	de	P	P		
+29	)	)	PONCT	PONCT		
+30	)	)	PONCT	PONCT		
+31	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	cultive	cultiver	V	V	n=s|t=P,S|p=1,3	
+3	parallèlement	_	ADV	ADV		
+4	ses	ses	DET	DET	n=p|p=3|poss=s	
+5	dons	don	NC	NC	n=p|g=m	
+6	pour	pour	P	P		
+7	la	la	DET	DET	n=s|g=f	
+8	musique	musique	NC	NC	n=s|g=f	
+9	et	et	CC	CC		
+10	le	le	DET	DET	n=s|g=m	
+11	chant	chant	NC	NC	n=s|g=m	
+12	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	1918	1918	NC	NC		
+3	,	,	PONCT	PONCT		
+4	elle	elle	CLS	CLS	n=s|g=f|p=3	
+5	s'	se	CLR	CLR	n=p,s|p=3	
+6	inscrit	inscrire	V	V	n=s|t=P|p=3	
+7	à	à	P	P		
+8	l'	le	DET	DET	n=s	
+9	École	école	NC	NC	n=s|g=f	
+10	supérieure	supérieur	ADJ	ADJ	n=s|g=f	
+11	de	de	P	P		
+12	musique	musique	NC	NC	n=s|g=f	
+13	Franz	Franz	NPP	NPP	n=s|g=m	
+14	-	-	PONCT	PONCT		
+15	Liszt	_	NPP	NPP		
+16	(	(	PONCT	PONCT		
+17	de	de	P	P		
+18	)	)	PONCT	PONCT		
+19	de	de	P	P		
+20	Weimar	_	NPP	NPP		
+21	et	et	CC	CC		
+22	prend	prendre	V	V	n=s|t=P|p=3	
+23	des	des	DET	DET	n=p	
+24	cours	cour	NC	NC	n=p|g=f	
+25	privés	priver	ADJ	ADJ	n=p|g=m|t=K	
+26	de	de	P	P		
+27	violon	violon	NC	NC	n=s|g=m	
+28	avec	avec	P	P		
+29	le	le	DET	DET	n=s|g=m	
+30	professeur	professeur	NC	NC	n=s|g=m	
+31	suisse	suisse	ADJ	ADJ	n=s	
+32	Robert	Robert	NPP	NPP	n=s|g=m	
+33	Reitz	_	NPP	NPP		
+34	,	,	PONCT	PONCT		
+35	qui	qui	PROREL	PROREL	n=s	
+36	devient	devenir	V	V	n=s|t=P|p=3	
+37	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+38	premier	premier	ADJ	ADJ	n=s|g=m	
+39	amant	amant	NC	NC	n=s|g=m	
+40	[	[	PONCT	PONCT		
+41	9	9	ADJ	ADJ		
+42	]	]	PONCT	PONCT		
+43	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	envisage	envisager	V	V	n=s|t=P,S|p=1,3	
+3	une	une	DET	DET	n=s|g=f	
+4	carrière	carrière	NC	NC	n=s|g=f	
+5	de	de	P	P		
+6	violoniste	violoniste	NC	NC	n=s	
+7	de	de	P	P		
+8	concert	concert	NC	NC	n=s|g=m	
+9	,	,	PONCT	PONCT		
+10	mais	mais	CC	CC		
+11	doit	devoir	V	V	n=s|t=P|p=3	
+12	abandonner	abandonner	VINF	VINF	t=W	
+13	l'	le	DET	DET	n=s	
+14	usage	usage	NC	NC	n=s|g=m	
+15	intensif	intensif	ADJ	ADJ	n=s|g=m	
+16	de	de	P	P		
+17	cet	cet	DET	DET	n=s|g=m	
+18	instrument	instrument	NC	NC	n=s|g=m	
+19	à	à	P	P		
+20	la	la	DET	DET	n=s|g=f	
+21	suite	suite	NC	NC	n=s|g=f	
+22	d'	de	P	P		
+23	une	une	DET	DET	n=s|g=f	
+24	blessure	blessure	NC	NC	n=s|g=f	
+25	au	à	P+D	P+D	n=s|g=m	
+26	poignet	poignet	NC	NC	n=s|g=m	
+27	(	(	PONCT	PONCT		
+28	ganglion	ganglion	NC	NC	n=s|g=m	
+29	douloureux	douloureux	ADJ	ADJ	g=m	
+30	ou	ou	CC	CC		
+31	inflammation	inflammation	NC	NC	n=s|g=f	
+32	du	de	P+D	P+D	n=s|g=m	
+33	ligament	ligament	NC	NC	n=s|g=m	
+34	de	de	P	P		
+35	l'	le	DET	DET	n=s	
+36	annulaire	annulaire	NC	NC	n=s|g=m	
+37	gauche	gauche	NC	NC	n=s	
+38	selon	selon	P	P		
+39	les	les	DET	DET	n=p	
+40	biographies	biographie	NC	NC	n=p|g=f	
+41	)	)	PONCT	PONCT		
+42	[	[	PONCT	PONCT		
+43	10	10	ADJ	ADJ		
+44	]	]	PONCT	PONCT		
+45	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	jouera	jouer	V	V	n=s|t=F|p=3	
+3	plus	plus	ADV	ADV		
+4	tard	tard	ADV	ADV		
+5	de	de	P	P		
+6	la	la	DET	DET	n=s|g=f	
+7	scie	scie	NC	NC	n=s|g=f	
+8	musicale	musical	ADJ	ADJ	n=s|g=f	
+9	quand	quand	CS	CS		
+10	elle	elle	CLS	CLS	n=s|g=f|p=3	
+11	attendait	attendre	V	V	n=s|t=I|p=3	
+12	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+13	tour	tour	NC	NC	n=s	
+14	pour	pour	P	P		
+15	jouer	jouer	VINF	VINF	t=W	
+16	une	une	DET	DET	n=s|g=f	
+17	scène	scène	NC	NC	n=s|g=f	
+18	.	.	PONCT	PONCT		
+
+1	Son	son	DET	DET	n=s|g=m|p=3|poss=s	
+2	premier	premier	ADJ	ADJ	n=s|g=m	
+3	emploi	emploi	NC	NC	n=s|g=m	
+4	est	être	V	V	n=s|t=P|p=3	
+5	celui	celui	PRO	PRO	n=s|g=m	
+6	de	de	P	P		
+7	violoniste	violoniste	NC	NC	n=s	
+8	dans	dans	P	P		
+9	un	un	DET	DET	n=s|g=m	
+10	orchestre	orchestre	NC	NC	n=s|g=m	
+11	qui	qui	PROREL	PROREL	n=s	
+12	accompagne	accompagner	V	V	n=s|t=P,S|p=1,3	
+13	la	la	DET	DET	n=s|g=f	
+14	projection	projection	NC	NC	n=s|g=f	
+15	de	de	P	P		
+16	films	film	NC	NC	n=p|g=m	
+17	muets	muet	ADJ	ADJ	n=p|g=m	
+18	dans	dans	P	P		
+19	un	un	DET	DET	n=s|g=m	
+20	cinéma	cinéma	NC	NC	n=s|g=m	
+21	de	de	P	P		
+22	Berlin	Berlin	NPP	NPP	n=s|g=f,m	
+23	[	[	PONCT	PONCT		
+24	11	11	NC	NC		
+25	]	]	PONCT	PONCT		
+26	.	.	PONCT	PONCT		
+
+1	"	"	PONCT	PONCT		
+
+1	Marlene	Marlene	NPP	NPP	n=s|g=f	
+2	Dietrich	Dietrich	NPP	NPP	n=s|g=m	
+3	refuse	refuser	V	V	n=s|t=P,S|p=1,3	
+4	de	de	P	P		
+5	parler	parler	VINF	VINF	t=W	
+6	de	de	P	P		
+7	ses	ses	DET	DET	n=p|p=3|poss=s	
+8	débuts	début	NC	NC	n=p|g=m	
+9	de	de	P	P		
+10	comédienne	comédien	ADJ	ADJ	n=s|g=f	
+11	,	,	PONCT	PONCT		
+12	c'	ce	CLS	CLS		
+13	est	être	V	V	n=s|t=P|p=3	
+14	-	-	PONCT	PONCT		
+15	à	à	P	P		
+16	-	-	PONCT	PONCT		
+17	dire	dire	VINF	VINF	t=W	
+18	de	de	P	P		
+19	la	la	DET	DET	n=s|g=f	
+20	période	période	NC	NC	n=s	
+21	comprise	comprendre	VPP	VPP	n=s|g=f|t=K	
+22	entre	entre	P	P		
+23	1922	1922	NC	NC		
+24	et	et	CC	CC		
+25	1930	1930	NC	NC		
+26	.	.	PONCT	PONCT		
+
+1	Ce	ce	CLS	CLS		
+2	n'	ne	ADV	ADV		
+3	est	être	V	V	n=s|t=P|p=3	
+4	pas	pas	ADV	ADV		
+5	négociable	négociable	ADJ	ADJ	n=s	
+6	.	.	PONCT	PONCT		
+7	"	"	PONCT	PONCT		
+
+1	-	-	PONCT	PONCT		
+2	Louis	_	NPP	NPP		
+3	Bozon	_	NPP	NPP		
+4	[	[	PONCT	PONCT		
+5	12	12	ADJ	ADJ		
+6	]	]	PONCT	PONCT		
+7	Marlene	Marlene	NPP	NPP	n=s|g=f	
+8	Dietrich	Dietrich	NPP	NPP	n=s|g=m	
+9	prend	prendre	V	V	n=s|t=P|p=3	
+10	ses	ses	DET	DET	n=p|p=3|poss=s	
+11	premiers	premier	ADJ	ADJ	n=p|g=m	
+12	cours	cour	NC	NC	n=p|g=f	
+13	de	de	P	P		
+14	théâtre	théâtre	NC	NC	n=s|g=m	
+15	auprès	auprès	ADV	ADV		
+16	de	de	P	P		
+17	Max	Max	NPP	NPP	n=s|g=m	
+18	Reinhardt	_	NPP	NPP		
+19	en	en	P	P		
+20	1921	1921	NC	NC		
+21	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	1922	1922	NC	NC		
+3	,	,	PONCT	PONCT		
+4	elle	elle	CLS	CLS	n=s|g=f|p=3	
+5	joue	jouer	V	V	n=s|t=P,S|p=1,3	
+6	ses	ses	DET	DET	n=p|p=3|poss=s	
+7	premiers	premier	ADJ	ADJ	n=p|g=m	
+8	petits	petit	ADJ	ADJ	n=p|g=m	
+9	rôles	rôle	NC	NC	n=p|g=m	
+10	au	à	P+D	P+D	n=s|g=m	
+11	théâtre	théâtre	NC	NC	n=s|g=m	
+12	,	,	PONCT	PONCT		
+13	notamment	_	ADV	ADV		
+14	au	à	P+D	P+D	n=s|g=m	
+15	Großes	_	NC	NC		
+16	Schauspielhaus	_	NPP	NPP		
+17	,	,	PONCT	PONCT		
+18	et	et	CC	CC		
+19	joue	jouer	V	V	n=s|t=P,S|p=1,3	
+20	dans	dans	P	P		
+21	des	des	DET	DET	n=p	
+22	revues	revue	NC	NC	n=p|g=f	
+23	,	,	PONCT	PONCT		
+24	comme	comme	P	P		
+25	celle	celle	PRO	PRO	n=s|g=f	
+26	du	de	P+D	P+D	n=s|g=m	
+27	théâtre	théâtre	NC	NC	n=s|g=m	
+28	Komoedie	_	NPP	NPP		
+29	dans	dans	P	P		
+30	le	le	DET	DET	n=s|g=m	
+31	Kurfürstendamm	_	NC	NC		
+32	de	de	P	P		
+33	Berlin	Berlin	NPP	NPP	n=s|g=f,m	
+34	,	,	PONCT	PONCT		
+35	aux	à	P+D	P+D	n=p	
+36	côtés	côté	NC	NC	n=p|g=m	
+37	de	de	P	P		
+38	la	la	DET	DET	n=s|g=f	
+39	vedette	vedette	NC	NC	n=s|g=f	
+40	française	français	ADJ	ADJ	n=s|g=f	
+41	Margo	Margo	NPP	NPP	n=s|g=f	
+42	Lion	_	NPP	NPP		
+43	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	obtient	obtenir	V	V	n=s|t=P|p=3	
+3	aussi	aussi	ADV	ADV		
+4	des	des	DET	DET	n=p	
+5	rôles	rôle	NC	NC	n=p|g=m	
+6	mineurs	mineur	ADJ	ADJ	n=p|g=m	
+7	au	à	P+D	P+D	n=s|g=m	
+8	cinéma	cinéma	NC	NC	n=s|g=m	
+9	.	.	PONCT	PONCT		
+
+1	Son	son	DET	DET	n=s|g=m|p=3|poss=s	
+2	premier	premier	ADJ	ADJ	n=s|g=m	
+3	rôle	rôle	NC	NC	n=s|g=m	
+4	crédité	créditer	VPP	VPP	n=s|g=m|t=K	
+5	est	être	V	V	n=s|t=P|p=3	
+6	Lucy	Lucy	NPP	NPP	n=s|g=f,m	
+7	dans	dans	P	P		
+8	Tragédie	_	NPP	NPP		
+9	de	de	P	P		
+10	l'	le	DET	DET	n=s	
+11	amour	amour	NC	NC	n=s|g=m	
+12	(	(	PONCT	PONCT		
+13	de	de	P	P		
+14	)	)	PONCT	PONCT		
+15	de	de	P	P		
+16	Joe	Joe	NPP	NPP	n=s|g=m	
+17	May	May	NPP	NPP	n=s|g=f	
+18	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	se	se	CLR	CLR	n=p,s|p=3	
+3	marie	marie	NC	NC	n=s|g=f	
+4	le	le	DET	DET	n=s|g=m	
+5	17	17	ADJ	ADJ		
+6	mai	mai	NC	NC	n=s|g=m	
+7	1923	1923	NC	NC		
+8	avec	avec	P	P		
+9	le	le	DET	DET	n=s|g=m	
+10	régisseur	régisseur	NC	NC	n=s|g=m	
+11	Rudolf	Rudolf	NPP	NPP	n=s|g=m	
+12	Sieber	_	NPP	NPP		
+13	et	et	CC	CC		
+14	donne	donner	V	V	n=s|t=P,S|p=1,3	
+15	naissance	naissance	NC	NC	n=s|g=f	
+16	à	à	P	P		
+17	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+18	fille	fille	NC	NC	n=s|g=f	
+19	Maria	Maria	NPP	NPP	n=s|g=f	
+20	Elisabeth	Elisabeth	NPP	NPP	n=s|g=f	
+21	,	,	PONCT	PONCT		
+22	le	le	DET	DET	n=s|g=m	
+23	13	13	ADJ	ADJ		
+24	décembre	décembre	NC	NC	n=s|g=m	
+25	1924	1924	NC	NC		
+26	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	n'	ne	ADV	ADV		
+3	aura	avoir	V	V	n=s|t=F|p=3	
+4	pas	pas	ADV	ADV		
+5	d'	de	DET	DET	n=p	
+6	autres	autre	ADJ	ADJ	n=p	
+7	enfants	enfant	NC	NC	n=p	
+8	,	,	PONCT	PONCT		
+9	vivra	vivre	V	V	n=s|t=F|p=3	
+10	peu	peu	ADV	ADV		
+11	avec	avec	P	P		
+12	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+13	mari	mari	NC	NC	n=s|g=m	
+14	,	,	PONCT	PONCT		
+15	et	et	CC	CC		
+16	ne	ne	ADV	ADV		
+17	se	se	CLR	CLR	n=p,s|p=3	
+18	remariera	remarier	V	V	n=s|t=F|p=3	
+19	jamais	jamais	ADV	ADV		
+20	(	(	PONCT	PONCT		
+21	bien	bien	ADV	ADV		
+22	qu'	que	CS	CS		
+23	un	un	DET	DET	n=s|g=m	
+24	mariage	mariage	NC	NC	n=s|g=m	
+25	[	[	PONCT	PONCT		
+26	f	_	NC	NC		
+27	]	]	PONCT	PONCT		
+28	avec	avec	P	P		
+29	Jean	Jean	NPP	NPP	n=s	
+30	Gabin	_	NPP	NPP		
+31	semble	sembler	V	V	n=s|t=P,S|p=1,3	
+32	avoir	avoir	VINF	VINF	t=W	
+33	été	être	VPP	VPP	t=K	
+34	,	,	PONCT	PONCT		
+35	plus	plus	ADV	ADV		
+36	tard	tard	ADV	ADV		
+37	,	,	PONCT	PONCT		
+38	sérieusement	_	ADV	ADV		
+39	envisagé	envisager	VPP	VPP	n=s|g=m|t=K	
+40	)	)	PONCT	PONCT		
+41	[	[	PONCT	PONCT		
+42	13	13	ADJ	ADJ		
+43	]	]	PONCT	PONCT		
+44	.	.	PONCT	PONCT		
+
+1	Marlene	Marlene	NPP	NPP	n=s|g=f	
+2	Dietrich	Dietrich	NPP	NPP	n=s|g=m	
+3	enregistre	enregistrer	V	V	n=s|t=P,S|p=1,3	
+4	à	à	P	P		
+5	la	la	DET	DET	n=s|g=f	
+6	fin	fin	NC	NC	n=s	
+7	des	de	P+D	P+D	n=p	
+8	années	année	NC	NC	n=p|g=f	
+9	1920	1920	ADJ	ADJ		
+10	ses	ses	DET	DET	n=p|p=3|poss=s	
+11	premières	premier	ADJ	ADJ	n=p|g=f	
+12	chansons	chanson	NC	NC	n=p|g=f	
+13	,	,	PONCT	PONCT		
+14	et	et	CC	CC		
+15	les	les	CLO	CLO	n=p|p=3	
+16	chante	chanter	V	V	n=s|t=P,S|p=1,3	
+17	dans	dans	P	P		
+18	la	la	DET	DET	n=s|g=f	
+19	revue	revue	NC	NC	n=s|g=f	
+20	Es	_	NPP	NPP		
+21	liegt	_	NPP	NPP		
+22	in	_	V	V		
+23	der	der	ADJ	ADJ	n=s	
+24	Luft	_	NPP	NPP		
+25	(	(	PONCT	PONCT		
+26	"	"	PONCT	PONCT		
+27	C'	ce	CLS	CLS		
+28	est	être	V	V	n=s|t=P|p=3	
+29	dans	dans	P	P		
+30	l'	le	DET	DET	n=s	
+31	air	air	NC	NC	n=s|g=m	
+32	"	"	PONCT	PONCT		
+33	,	,	PONCT	PONCT		
+34	1928	1928	NC	NC		
+35	)	)	PONCT	PONCT		
+36	où	où	PROREL	PROREL		
+37	elle	elle	CLS	CLS	n=s|g=f|p=3	
+38	se	se	CLR	CLR	n=p,s|p=3	
+39	fait	faire	V	V	n=s|t=P|p=3	
+40	remarquer	remarquer	VINF	VINF	t=W	
+41	par	par	P	P		
+42	le	le	DET	DET	n=s|g=m	
+43	metteur	metteur	NC	NC	n=s|g=m	
+44	en	en	P	P		
+45	scène	scène	NC	NC	n=s|g=f	
+46	Josef	Josef	NPP	NPP	n=s|g=m	
+47	von	_	NPP	NPP		
+48	Sternberg	_	NPP	NPP		
+49	[	[	PONCT	PONCT		
+50	14	14	ADJ	ADJ		
+51	]	]	PONCT	PONCT		
+52	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	1929	1929	NC	NC		
+3	,	,	PONCT	PONCT		
+4	Dietrich	Dietrich	NPP	NPP	n=s|g=m	
+5	tourne	tourner	V	V	n=s|t=P,S|p=1,3	
+6	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+7	premier	premier	ADJ	ADJ	n=s|g=m	
+8	rôle	rôle	NC	NC	n=s|g=m	
+9	important	important	ADJ	ADJ	n=s|g=m	
+10	dans	dans	P	P		
+11	L'	le	DET	DET	n=s	
+12	Énigme	énigme	NC	NC	n=s|g=f	
+13	sous	sous	P	P		
+14	la	la	DET	DET	n=s|g=f	
+15	direction	direction	NC	NC	n=s|g=f	
+16	de	de	P	P		
+17	Curtis	Curtis	NPP	NPP	n=s|g=m	
+18	Bernhardt	_	NPP	NPP		
+19	.	.	PONCT	PONCT		
+
+1	Mais	mais	CC	CC		
+2	c'	ce	CLS	CLS		
+3	est	être	V	V	n=s|t=P|p=3	
+4	L'	le	DET	DET	n=s	
+5	Ange	Ange	NPP	NPP	n=s|g=m	
+6	bleu	bleu	ADJ	ADJ	n=s|g=m	
+7	[	[	PONCT	PONCT		
+8	15	15	ADJ	ADJ		
+9	]	]	PONCT	PONCT		
+10	tourné	tourner	VPP	VPP	n=s|g=m|t=K	
+11	par	par	P	P		
+12	von	_	NC	NC		
+13	Sternberg	_	NPP	NPP		
+14	l'	le	DET	DET	n=s	
+15	année	année	NC	NC	n=s|g=f	
+16	suivante	suivant	ADJ	ADJ	n=s|g=f	
+17	,	,	PONCT	PONCT		
+18	et	et	CC	CC		
+19	notamment	_	ADV	ADV		
+20	la	la	DET	DET	n=s|g=f	
+21	chanson	chanson	NC	NC	n=s|g=f	
+22	"	"	PONCT	PONCT		
+23	Ich	_	NPP	NPP		
+24	bin	_	NPP	NPP		
+25	von	_	NPP	NPP		
+26	Kopf	_	NPP	NPP		
+27	bis	bis	ADV	ADV		
+28	Fuß	_	NPP	NPP		
+29	auf	_	NPP	NPP		
+30	Liebe	_	NPP	NPP		
+31	eingestellt	_	NPP	NPP		
+32	"	"	PONCT	PONCT		
+33	(	(	PONCT	PONCT		
+34	"	"	PONCT	PONCT		
+35	Je	je	CLS	CLS	n=s|p=1	
+36	suis	être	V	V	n=s|t=P|p=1	
+37	faite	faire	VPP	VPP	n=s|g=f|t=K	
+38	pour	pour	P	P		
+39	l'	le	DET	DET	n=s	
+40	amour	amour	NC	NC	n=s|g=m	
+41	de	de	P	P		
+42	la	la	DET	DET	n=s|g=f	
+43	tête	tête	NC	NC	n=s|g=f	
+44	aux	à	P+D	P+D	n=p	
+45	pieds	pied	NC	NC	n=p	
+46	"	"	PONCT	PONCT		
+47	)	)	PONCT	PONCT		
+48	,	,	PONCT	PONCT		
+49	qui	qui	PROREL	PROREL	n=s	
+50	lui	lui	CLO	CLO	n=s|p=3	
+51	apportent	apporter	V	V	n=p|t=P,S|p=3	
+52	la	la	DET	DET	n=s|g=f	
+53	gloire	gloire	NC	NC	n=s|g=f	
+54	.	.	PONCT	PONCT		
+
+1	Tourné	tourner	VPP	VPP	n=s|g=m|t=K	
+2	dans	dans	P	P		
+3	les	les	DET	DET	n=p	
+4	studios	studio	NC	NC	n=p|g=m	
+5	de	de	P	P		
+6	l'	le	DET	DET	n=s	
+7	UFA	_	NPP	NPP		
+8	à	à	P	P		
+9	Babelsberg	_	NPP	NPP		
+10	,	,	PONCT	PONCT		
+11	ce	ce	DET	DET	n=s|g=m	
+12	film	film	NC	NC	n=s|g=m	
+13	,	,	PONCT	PONCT		
+14	qui	qui	PROREL	PROREL	n=s	
+15	réunit	réunir	V	V	n=s|t=J,P|p=3	
+16	Emil	Emil	NPP	NPP	n=s|g=m	
+17	Jannings	_	NPP	NPP		
+18	(	(	PONCT	PONCT		
+19	immense	immense	ADJ	ADJ	n=s	
+20	vedette	vedette	NC	NC	n=s|g=f	
+21	à	à	P	P		
+22	l'	le	DET	DET	n=s	
+23	époque	époque	NC	NC	n=s|g=f	
+24	)	)	PONCT	PONCT		
+25	dans	dans	P	P		
+26	le	le	DET	DET	n=s|g=m	
+27	rôle	rôle	NC	NC	n=s|g=m	
+28	du	de	P+D	P+D	n=s|g=m	
+29	professeur	professeur	NC	NC	n=s|g=m	
+30	Rath	_	NPP	NPP		
+31	,	,	PONCT	PONCT		
+32	et	et	CC	CC		
+33	Dietrich	Dietrich	NPP	NPP	n=s|g=m	
+34	dans	dans	P	P		
+35	celui	celui	PRO	PRO	n=s|g=m	
+36	de	de	P	P		
+37	Lola	Lola	NPP	NPP	n=s|g=f	
+38	-	-	PONCT	PONCT		
+39	Lola	Lola	NPP	NPP	n=s|g=f	
+40	,	,	PONCT	PONCT		
+41	est	être	V	V	n=s|t=P|p=3	
+42	le	le	DET	DET	n=s|g=m	
+43	premier	premier	ADJ	ADJ	n=s|g=m	
+44	film	film	NC	NC	n=s|g=m	
+45	parlant	parlant	ADJ	ADJ	n=s|g=m	
+46	du	de	P+D	P+D	n=s|g=m	
+47	cinéma	cinéma	NC	NC	n=s|g=m	
+48	allemand	allemand	ADJ	ADJ	n=s|g=m	
+49	.	.	PONCT	PONCT		
+
+1	Von	_	NPP	NPP		
+2	Sternberg	_	NPP	NPP		
+3	,	,	PONCT	PONCT		
+4	qui	qui	PROREL	PROREL	n=s	
+5	entrevoit	entrevoir	V	V	n=s|t=P|p=3	
+6	le	le	DET	DET	n=s|g=m	
+7	potentiel	potentiel	NC	NC	n=s|g=m	
+8	de	de	P	P		
+9	la	la	DET	DET	n=s|g=f	
+10	jeune	jeune	ADJ	ADJ	n=s	
+11	actrice	acteur	NC	NC	n=s|g=f	
+12	,	,	PONCT	PONCT		
+13	la	la	CLO	CLO	n=s|g=f|p=3	
+14	recommande	recommander	V	V	n=s|t=P,S|p=1,3	
+15	,	,	PONCT	PONCT		
+16	avant	avant	P	P		
+17	même	même	ADV	ADV		
+18	la	la	DET	DET	n=s|g=f	
+19	sortie	sortie	NC	NC	n=s|g=f	
+20	,	,	PONCT	PONCT		
+21	au	à	P+D	P+D	n=s|g=m	
+22	studio	studio	NC	NC	n=s|g=m	
+23	américain	américain	ADJ	ADJ	n=s|g=m	
+24	Paramount	_	NPP	NPP		
+25	Pictures	_	NPP	NPP		
+26	pour	pour	P	P		
+27	lequel	lequel	PROREL	PROREL	n=s|g=m	
+28	il	il	CLS	CLS	n=s|g=m|p=3	
+29	vient	venir	V	V	n=s|t=P|p=3	
+30	de	de	P	P		
+31	tourner	tourner	VINF	VINF	t=W	
+32	et	et	CC	CC		
+33	dont	dont	PROREL	PROREL		
+34	le	le	DET	DET	n=s|g=m	
+35	bureau	bureau	NC	NC	n=s|g=m	
+36	berlinois	berlinois	ADJ	ADJ	g=m	
+37	cherche	chercher	V	V	n=s|t=P,S|p=1,3	
+38	une	une	DET	DET	n=s|g=f	
+39	actrice	acteur	NC	NC	n=s|g=f	
+40	pour	pour	P	P		
+41	concurrencer	concurrencer	VINF	VINF	t=W	
+42	Greta	Greta	NPP	NPP	n=s|g=f	
+43	Garbo	_	NPP	NPP		
+44	lancée	lancer	VPP	VPP	n=s|g=f|t=K	
+45	par	par	P	P		
+46	la	la	DET	DET	n=s|g=f	
+47	Metro	_	NPP	NPP		
+48	-	-	PONCT	PONCT		
+49	Goldwyn	_	NPP	NPP		
+50	-	-	PONCT	PONCT		
+51	Mayer	_	NPP	NPP		
+52	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	Paramount	_	NPP	NPP		
+3	lui	lui	CLO	CLO	n=s|p=3	
+4	offre	offrir	V	V	n=s|t=P,S|p=1,3	
+5	un	un	DET	DET	n=s|g=m	
+6	cachet	cachet	NC	NC	n=s|g=m	
+7	de	de	P	P		
+8	1_250	1_250	NPP	NPP		
+9	dollars	dollar	NC	NC	n=p|g=m	
+10	par	par	P	P		
+11	semaine	semaine	NC	NC	n=s|g=f	
+12	[	[	PONCT	PONCT		
+13	16	16	NC	NC		
+14	]	]	PONCT	PONCT		
+15	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	soir	soir	NC	NC	n=s|g=m	
+3	de	de	P	P		
+4	la	la	DET	DET	n=s|g=f	
+5	première	premier	ADJ	ADJ	n=s|g=f	
+6	,	,	PONCT	PONCT		
+7	le	le	DET	DET	n=s|g=m	
+8	1er	_	ADJ	ADJ		
+9	avril	avril	NC	NC	n=s|g=m	
+10	1930	1930	NC	NC		
+11	au	à	P+D	P+D	n=s|g=m	
+12	Gloria	Gloria	NPP	NPP	n=s|g=f	
+13	Palast	_	NPP	NPP		
+14	,	,	PONCT	PONCT		
+15	en	en	P	P		
+16	long	long	ADJ	ADJ	n=s|g=m	
+17	manteau	manteau	NC	NC	n=s|g=m	
+18	de	de	P	P		
+19	fourrure	fourrure	NC	NC	n=s|g=f	
+20	blanche	blanc	ADJ	ADJ	n=s|g=f	
+21	,	,	PONCT	PONCT		
+22	une	une	DET	DET	n=s|g=f	
+23	gerbe	gerbe	NC	NC	n=s|g=f	
+24	de	de	P	P		
+25	roses	rose	NC	NC	n=p	
+26	dans	dans	P	P		
+27	les	les	DET	DET	n=p	
+28	bras	bras	NC	NC	g=m	
+29	,	,	PONCT	PONCT		
+30	Marlene	Marlene	NPP	NPP	n=s|g=f	
+31	arbore	arborer	V	V	n=s|t=P,S|p=1,3	
+32	sur	sur	P	P		
+33	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+34	robe	robe	NC	NC	n=s|g=f	
+35	un	un	DET	DET	n=s|g=m	
+36	bouquet	bouquet	NC	NC	n=s|g=m	
+37	de	de	P	P		
+38	violettes	violette	NC	NC	n=p|g=f	
+39	épinglé	épingler	VPP	VPP	n=s|g=m|t=K	
+40	au	à	P+D	P+D	n=s|g=m	
+41	niveau	niveau	NC	NC	n=s|g=m	
+42	du	de	P+D	P+D	n=s|g=m	
+43	pubis	pubis	NC	NC	g=m	
+44	.	.	PONCT	PONCT		
+
+1	À	à	P	P		
+2	23	23	ADJ	ADJ		
+3	heures	heure	NC	NC	n=p|g=f	
+4	,	,	PONCT	PONCT		
+5	elle	elle	CLS	CLS	n=s|g=f|p=3	
+6	prend	prendre	V	V	n=s|t=P|p=3	
+7	le	le	DET	DET	n=s|g=m	
+8	train	train	NC	NC	n=s|g=m	
+9	à	à	P	P		
+10	la	la	DET	DET	n=s|g=f	
+11	gare	gare	NC	NC	n=s|g=f	
+12	de	de	P	P		
+13	Lehrter	_	NPP	NPP		
+14	vers	vers	P	P		
+15	le	le	DET	DET	n=s|g=m	
+16	port	port	NC	NC	n=s|g=m	
+17	de	de	P	P		
+18	Bremerhaven	_	NPP	NPP		
+19	,	,	PONCT	PONCT		
+20	d'	de	P	P		
+21	où	où	PROREL	PROREL		
+22	elle	elle	CLS	CLS	n=s|g=f|p=3	
+23	embarque	embarquer	V	V	n=s|t=P,S|p=1,3	
+24	pour	pour	P	P		
+25	New	_	NPP	NPP		
+26	York	York	NPP	NPP	n=s|g=m	
+27	.	.	PONCT	PONCT		
+
+1	D'	de	P	P		
+2	une	une	DET	DET	n=s|g=f	
+3	actrice	acteur	NC	NC	n=s|g=f	
+4	encore	encore	ADV	ADV		
+5	inconnue	inconnu	ADJ	ADJ	n=s|g=f	
+6	hors	hors	P	P		
+7	d'	de	P	P		
+8	Allemagne	Allemagne	NPP	NPP	n=s|g=f	
+9	,	,	PONCT	PONCT		
+10	Sternberg	_	NPP	NPP		
+11	va	aller	V	V	n=s|t=P|p=3	
+12	façonner	façonner	VINF	VINF	t=W	
+13	un	un	DET	DET	n=s|g=m	
+14	mythe	mythe	NC	NC	n=s|g=m	
+15	.	.	PONCT	PONCT		
+
+1	Dès	dès	P	P		
+2	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+3	arrivée	arrivée	NC	NC	n=s|g=f	
+4	,	,	PONCT	PONCT		
+5	Marlene	Marlene	NPP	NPP	n=s|g=f	
+6	interprète	interpréter	V	V	n=s|t=P,S|p=1,3	
+7	à	à	P	P		
+8	nouveau	nouveau	ADJ	ADJ	n=s|g=m	
+9	une	une	DET	DET	n=s|g=f	
+10	chanteuse	chanteur	ADJ	ADJ	n=s|g=f	
+11	de	de	P	P		
+12	cabaret	cabaret	NC	NC	n=s|g=m	
+13	dans	dans	P	P		
+14	Morocco	_	NPP	NPP		
+15	aux	à	P+D	P+D	n=p	
+16	côtés	côté	NC	NC	n=p|g=m	
+17	de	de	P	P		
+18	Gary	Gary	NPP	NPP	n=s|g=m	
+19	Cooper	Cooper	NPP	NPP	n=s|g=m	
+20	.	.	PONCT	PONCT		
+
+1	Premier	premier	ADJ	ADJ	n=s|g=m	
+2	des	de	P+D	P+D	n=p	
+3	six	six	ADJ	ADJ	s=card|n=p	
+4	longs	long	ADJ	ADJ	n=p|g=m	
+5	métrages	métrage	NC	NC	n=p|g=m	
+6	que	que	PROREL	PROREL		
+7	tourneront	tourner	V	V	n=p|t=F|p=3	
+8	ensemble	ensemble	ADV	ADV		
+9	Sternberg	_	NPP	NPP		
+10	et	et	CC	CC		
+11	Dietrich	Dietrich	NPP	NPP	n=s|g=m	
+12	aux	à	P+D	P+D	n=p	
+13	États	État	NC	NC	n=p|g=m	
+14	-	-	PONCT	PONCT		
+15	Unis	uni	ADJ	ADJ	n=p|g=m|t=K	
+16	,	,	PONCT	PONCT		
+17	le	le	DET	DET	n=s|g=m	
+18	film	film	NC	NC	n=s|g=m	
+19	vaut	valoir	V	V	n=s|t=P|p=3	
+20	à	à	P	P		
+21	Marlene	Marlene	NPP	NPP	n=s|g=f	
+22	une	une	DET	DET	n=s|g=f	
+23	nomination	nomination	NC	NC	n=s|g=f	
+24	à	à	P	P		
+25	l'	le	DET	DET	n=s	
+26	Oscar	Oscar	NPP	NPP	n=s|g=m	
+27	de	de	P	P		
+28	la	la	DET	DET	n=s|g=f	
+29	meilleure	meilleur	ADJ	ADJ	n=s|g=f	
+30	actrice	acteur	NC	NC	n=s|g=f	
+31	en	en	P	P		
+32	1931	1931	NC	NC		
+33	et	et	CC	CC		
+34	lui	lui	CLO	CLO	n=s|p=3	
+35	confère	conférer	V	V	n=s|t=P,S|p=1,3	
+36	une	une	DET	DET	n=s|g=f	
+37	notoriété	notoriété	NC	NC	n=s|g=f	
+38	internationale	international	ADJ	ADJ	n=s|g=f	
+39	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	écrivain	écrivain	NC	NC	n=s|g=m	
+3	allemand	allemand	ADJ	ADJ	n=s|g=m	
+4	Franz	Franz	NPP	NPP	n=s|g=m	
+5	Hessel	_	NPP	NPP		
+6	publie	publier	V	V	n=s|t=P,S|p=1,3	
+7	la	la	DET	DET	n=s|g=f	
+8	même	même	ADJ	ADJ	n=s	
+9	année	année	NC	NC	n=s|g=f	
+10	la	la	DET	DET	n=s|g=f	
+11	première	premier	ADJ	ADJ	n=s|g=f	
+12	biographie	biographie	NC	NC	n=s|g=f	
+13	de	de	P	P		
+14	l'	le	DET	DET	n=s	
+15	actrice	acteur	NC	NC	n=s|g=f	
+16	,	,	PONCT	PONCT		
+17	Marlene	Marlene	NPP	NPP	n=s|g=f	
+18	:	:	PONCT	PONCT		
+19	Ein	_	NPP	NPP		
+20	Porträt	_	NPP	NPP		
+21	,	,	PONCT	PONCT		
+22	dans	dans	P	P		
+23	lequel	lequel	PROREL	PROREL	n=s|g=m	
+24	il	il	CLS	CLS	n=s|g=m|p=3	
+25	tente	tenter	V	V	n=s|t=P,S|p=1,3	
+26	de	de	P	P		
+27	brosser	brosser	VINF	VINF	t=W	
+28	le	le	DET	DET	n=s|g=m	
+29	portrait	portrait	NC	NC	n=s|g=m	
+30	de	de	P	P		
+31	la	la	DET	DET	n=s|g=f	
+32	femme	femme	NC	NC	n=s|g=f	
+33	derrière	derrière	P	P		
+34	la	la	DET	DET	n=s|g=f	
+35	vedette	vedette	NC	NC	n=s|g=f	
+36	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	usage	usage	NC	NC	n=s|g=m	
+3	dans	dans	P	P		
+4	le	le	DET	DET	n=s|g=m	
+5	titre	titre	NC	NC	n=s|g=m	
+6	de	de	P	P		
+7	l'	le	DET	DET	n=s	
+8	ouvrage	ouvrage	NC	NC	n=s|g=m	
+9	du	de	P+D	P+D	n=s|g=m	
+10	seul	seul	ADJ	ADJ	n=s|g=m	
+11	prénom	prénom	NC	NC	n=s|g=m	
+12	de	de	P	P		
+13	l'	le	DET	DET	n=s	
+14	actrice	acteur	NC	NC	n=s|g=f	
+15	donne	donner	V	V	n=s|t=P,S|p=1,3	
+16	une	une	DET	DET	n=s|g=f	
+17	idée	idée	NC	NC	n=s|g=f	
+18	de	de	P	P		
+19	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+20	célébrité	célébrité	NC	NC	n=s|g=f	
+21	déjà	déjà	ADV	ADV		
+22	à	à	P	P		
+23	ce	ce	DET	DET	n=s|g=m	
+24	moment	moment	NC	NC	n=s|g=m	
+25	-	-	PONCT	PONCT		
+26	là	là	ADV	ADV		
+27	;	;	PONCT	PONCT		
+28	la	la	DET	DET	n=s|g=f	
+29	fascination	fascination	NC	NC	n=s|g=f	
+30	pour	pour	P	P		
+31	Dietrich	Dietrich	NPP	NPP	n=s|g=m	
+32	ne	ne	ADV	ADV		
+33	fait	faire	V	V	n=s|t=P|p=3	
+34	que	que	CS	CS		
+35	commencer	commencer	VINF	VINF	t=W	
+36	.	.	PONCT	PONCT		
+
+1	Von	_	NPP	NPP		
+2	Sternberg	_	NPP	NPP		
+3	et	et	CC	CC		
+4	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+5	muse	muse	NC	NC	n=s|g=f	
+6	vont	aller	V	V	n=p|t=P|p=3	
+7	en	en	P	P		
+8	effet	effet	NC	NC	n=s|g=m	
+9	asseoir	_	VPP	VPP		
+10	définitivement	_	ADV	ADV		
+11	au	à	P+D	P+D	n=s|g=m	
+12	cours	cour	NC	NC	n=p|g=f	
+13	de	de	P	P		
+14	leur	leur	DET	DET	n=s|p=3|poss=p	
+15	collaboration	collaboration	NC	NC	n=s|g=f	
+16	le	le	DET	DET	n=s|g=m	
+17	personnage	personnage	NC	NC	n=s|g=m	
+18	de	de	P	P		
+19	femme	femme	NC	NC	n=s|g=f	
+20	fatale	fatal	ADJ	ADJ	n=s|g=f	
+21	[	[	PONCT	PONCT		
+22	g	gramme	NC	NC	g=m	
+23	]	]	PONCT	PONCT		
+24	sur	sur	P	P		
+25	lequel	lequel	PROREL	PROREL	n=s|g=m	
+26	Dietrich	Dietrich	NPP	NPP	n=s|g=m	
+27	a	avoir	V	V	n=s|t=P|p=3	
+28	construit	construire	VPP	VPP	n=s|g=m|t=K	
+29	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+30	renommée	renommée	NC	NC	n=s|g=f	
+31	à	à	P	P		
+32	partir	partir	VINF	VINF	t=W	
+33	de	de	P	P		
+34	L'	le	DET	DET	n=s	
+35	Ange	Ange	NPP	NPP	n=s|g=m	
+36	bleu	bleu	ADJ	ADJ	n=s|g=m	
+37	et	et	CC	CC		
+38	qu'	que	CS	CS		
+39	elle	elle	CLS	CLS	n=s|g=f|p=3	
+40	va	aller	V	V	n=s|t=P|p=3	
+41	s'	se	CLR	CLR	n=p,s|p=3	
+42	atteler	atteler	VINF	VINF	t=W	
+43	à	à	P	P		
+44	entretenir	entretenir	VINF	VINF	t=W	
+45	tout	tout	ADJ	ADJ	n=s|g=m	
+46	au	à	P+D	P+D	n=s|g=m	
+47	long	long	ADJ	ADJ	n=s|g=m	
+48	de	de	P	P		
+49	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+50	vie	vie	NC	NC	n=s|g=f	
+51	,	,	PONCT	PONCT		
+52	tout	tout	ADV	ADV		
+53	en	en	P	P		
+54	jouant	jouer	VPR	VPR	t=G	
+55	sur	sur	P	P		
+56	une	une	DET	DET	n=s|g=f	
+57	certaine	certain	ADJ	ADJ	n=s|g=f	
+58	ambiguïté	ambiguïté	NC	NC	n=s|g=f	
+59	sexuelle	sexuel	ADJ	ADJ	n=s|g=f	
+60	(	(	PONCT	PONCT		
+61	elle	elle	CLS	CLS	n=s|g=f|p=3	
+62	apparaît	apparaître	V	V	n=s|t=P|p=3	
+63	régulièrement	_	ADV	ADV		
+64	en	en	P	P		
+65	habits	habit	NC	NC	n=p|g=m	
+66	masculins	masculin	ADJ	ADJ	n=p|g=m	
+67	et	et	CC	CC		
+68	exerce	exercer	V	V	n=s|t=P,S|p=1,3	
+69	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+70	charme	charme	NC	NC	n=s|g=m	
+71	autant	autant	ADV	ADV		
+72	sur	sur	P	P		
+73	les	les	DET	DET	n=p	
+74	hommes	homme	NC	NC	n=p|g=m	
+75	que	que	CS	CS		
+76	sur	sur	P	P		
+77	les	les	DET	DET	n=p	
+78	femmes	femme	NC	NC	n=p|g=f	
+79	[	[	PONCT	PONCT		
+80	h	heure	NC	NC	g=f	
+81	]	]	PONCT	PONCT		
+82	)	)	PONCT	PONCT		
+83	.	.	PONCT	PONCT		
+
+1	"	"	PONCT	PONCT		
+
+1	Après	après	P	P		
+2	Lola	Lola	NPP	NPP	n=s|g=f	
+3	-	-	PONCT	PONCT		
+4	Lola	Lola	NPP	NPP	n=s|g=f	
+5	,	,	PONCT	PONCT		
+6	Marlene	Marlene	NPP	NPP	n=s|g=f	
+7	restera	rester	V	V	n=s|t=F|p=3	
+8	l'	le	DET	DET	n=s	
+9	image	image	NC	NC	n=s|g=f	
+10	parfaite	parfait	ADJ	ADJ	n=s|g=f	
+11	de	de	P	P		
+12	la	la	DET	DET	n=s|g=f	
+13	femme	femme	NC	NC	n=s|g=f	
+14	fatale	fatal	ADJ	ADJ	n=s|g=f	
+15	:	:	PONCT	PONCT		
+16	mystérieuse	mystérieux	ADJ	ADJ	n=s|g=f	
+17	et	et	CC	CC		
+18	indomptable	indomptable	ADJ	ADJ	n=s	
+19	,	,	PONCT	PONCT		
+20	sculptée	sculpter	VPP	VPP	n=s|g=f|t=K	
+21	par	par	P	P		
+22	la	la	DET	DET	n=s|g=f	
+23	lumière	lumière	NC	NC	n=s|g=f	
+24	,	,	PONCT	PONCT		
+25	dans	dans	P	P		
+26	le	le	DET	DET	n=s|g=m	
+27	nuage	nuage	NC	NC	n=s|g=m	
+28	irréel	irréel	ADJ	ADJ	n=s|g=m	
+29	de	de	P	P		
+30	la	la	DET	DET	n=s|g=f	
+31	fumée	fumée	NC	NC	n=s|g=f	
+32	de	de	P	P		
+33	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+34	cigarette	cigarette	NC	NC	n=s|g=f	
+35	.	.	PONCT	PONCT		
+
+1	On	on	CLS	CLS	n=s|p=3	
+2	la	la	CLO	CLO	n=s|g=f|p=3	
+3	suivrait	suivre	V	V	n=s|t=C|p=3	
+4	au	à	P+D	P+D	n=s|g=m	
+5	bout	bout	NC	NC	n=s|g=m	
+6	du	de	P+D	P+D	n=s|g=m	
+7	monde	monde	NC	NC	n=s|g=m	
+8	...	...	PONCT	PONCT		
+
+1	Dans	dans	P	P		
+2	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+3	sillage	sillage	NC	NC	n=s|g=m	
+4	,	,	PONCT	PONCT		
+5	les	les	DET	DET	n=p	
+6	personnes	personne	NC	NC	n=p|g=f	
+7	les	les	DET	DET	n=p	
+8	plus	plus	ADV	ADV		
+9	sérieuses	sérieux	ADJ	ADJ	n=p|g=f	
+10	et	et	CC	CC		
+11	les	les	DET	DET	n=p	
+12	plus	plus	ADV	ADV		
+13	dignes	digne	ADJ	ADJ	n=p	
+14	deviennent	devenir	V	V	n=p|t=P,S|p=3	
+15	des	des	DET	DET	n=p	
+16	petits	petit	ADJ	ADJ	n=p|g=m	
+17	enfants	enfant	NC	NC	n=p	
+18	.	.	PONCT	PONCT		
+19	"	"	PONCT	PONCT		
+
+1	-	-	PONCT	PONCT		
+2	Vincent	Vincent	NPP	NPP	n=s|g=m	
+3	Pinel	_	NPP	NPP		
+4	[	[	PONCT	PONCT		
+5	17	17	NC	NC		
+6	]	]	PONCT	PONCT		
+7	Le	le	DET	DET	n=s|g=m	
+8	couple	couple	NC	NC	n=s	
+9	enchaîne	enchaîner	V	V	n=s|t=P,S|p=1,3	
+10	ainsi	ainsi	ADV	ADV		
+11	avec	avec	P	P		
+12	Agent	agent	NC	NC	n=s	
+13	X	_	NPP	NPP		
+14	27	27	NC	NC		
+15	(	(	PONCT	PONCT		
+16	1931	1931	NC	NC		
+17	)	)	PONCT	PONCT		
+18	,	,	PONCT	PONCT		
+19	Shanghaï	_	NPP	NPP		
+20	Express	_	NPP	NPP		
+21	(	(	PONCT	PONCT		
+22	1932	1932	NC	NC		
+23	)	)	PONCT	PONCT		
+24	,	,	PONCT	PONCT		
+25	véritable	véritable	ADJ	ADJ	n=s	
+26	succès	succès	NC	NC	g=m	
+27	du	de	P+D	P+D	n=s|g=m	
+28	box	box	NC	NC	g=m	
+29	-	-	PONCT	PONCT		
+30	office	office	NC	NC	n=s	
+31	jusqu'	jusque	P	P		
+32	au	à	P+D	P+D	n=s|g=m	
+33	Japon	Japon	NPP	NPP	n=s|g=m	
+34	qui	qui	PROREL	PROREL	n=s	
+35	récompense	récompenser	V	V	n=s|t=P,S|p=1,3	
+36	l'	le	DET	DET	n=s	
+37	actrice	acteur	NC	NC	n=s|g=f	
+38	d'	de	P	P		
+39	un	un	DET	DET	n=s|g=m	
+40	kimono	kimono	NC	NC	n=s|g=m	
+41	de	de	P	P		
+42	cérémonie	cérémonie	NC	NC	n=s|g=f	
+43	;	;	PONCT	PONCT		
+44	puis	puis	CC	CC		
+45	viennent	venir	V	V	n=p|t=P,S|p=3	
+46	Blonde	_	NPP	NPP		
+47	Vénus	_	NPP	NPP		
+48	en	en	P	P		
+49	1932	1932	NC	NC		
+50	et	et	CC	CC		
+51	L'	le	DET	DET	n=s	
+52	Impératrice	empereur	NC	NC	n=s|g=f	
+53	rouge	rouge	ADJ	ADJ	n=s	
+54	en	en	P	P		
+55	1934	1934	NC	NC		
+56	,	,	PONCT	PONCT		
+57	délire	délire	NC	NC	n=s|g=m	
+58	baroque	baroque	ADJ	ADJ	n=s	
+59	qui	qui	PROREL	PROREL	n=s	
+60	sert	servir	V	V	n=s|t=P|p=3	
+61	davantage	davantage	ADV	ADV		
+62	la	la	DET	DET	n=s|g=f	
+63	gloire	gloire	NC	NC	n=s|g=f	
+64	de	de	P	P		
+65	Marlene	Marlene	NPP	NPP	n=s|g=f	
+66	que	que	CS	CS		
+67	celle	celle	PRO	PRO	n=s|g=f	
+68	de	de	P	P		
+69	Catherine	Catherine	NPP	NPP	n=s|g=f	
+70	de	de	P	P		
+71	Russie	Russie	NPP	NPP	n=s|g=f	
+72	qu'	que	CS	CS		
+73	elle	elle	CLS	CLS	n=s|g=f|p=3	
+74	interprète	interpréter	V	V	n=s|t=P,S|p=1,3	
+75	,	,	PONCT	PONCT		
+76	et	et	CC	CC		
+77	qui	qui	PROREL	PROREL	n=s	
+78	,	,	PONCT	PONCT		
+79	malgré	malgré	P	P		
+80	un	un	DET	DET	n=s|g=m	
+81	échec	échec	NC	NC	n=s|g=m	
+82	financier	financier	ADJ	ADJ	n=s|g=m	
+83	deviendra	devenir	V	V	n=s|t=F|p=3	
+84	avec	avec	P	P		
+85	le	le	DET	DET	n=s|g=m	
+86	temps	temps	NC	NC	g=m	
+87	un	un	DET	DET	n=s|g=m	
+88	chef-d'œuvre	_	NC	NC		
+89	reconnu	reconnaître	VPP	VPP	n=s|g=m|t=K	
+90	[	[	PONCT	PONCT		
+91	18	18	ADJ	ADJ		
+92	]	]	PONCT	PONCT		
+93	.	.	PONCT	PONCT		
+
+1	Même	même	ADV	ADV		
+2	en	en	P	P		
+3	dehors	dehors	NC	NC	g=m	
+4	de	de	P	P		
+5	l'	le	DET	DET	n=s	
+6	écran	écran	NC	NC	n=s|g=m	
+7	,	,	PONCT	PONCT		
+8	Marlene	Marlene	NPP	NPP	n=s|g=f	
+9	Dietrich	Dietrich	NPP	NPP	n=s|g=m	
+10	subjugue	subjuguer	V	V	n=s|t=P,S|p=1,3	
+11	les	les	DET	DET	n=p	
+12	foules	foule	NC	NC	n=p|g=f	
+13	:	:	PONCT	PONCT		
+
+1	"	"	PONCT	PONCT		
+
+1	Avec	avec	P	P		
+2	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+3	profond	profond	ADJ	ADJ	n=s|g=m	
+4	regard	regard	NC	NC	n=s|g=m	
+5	mélancolique	mélancolique	ADJ	ADJ	n=s	
+6	,	,	PONCT	PONCT		
+7	ses	ses	DET	DET	n=p|p=3|poss=s	
+8	cils	cil	NC	NC	n=p|g=m	
+9	longs	long	ADJ	ADJ	n=p|g=m	
+10	de	de	P	P		
+11	trois	trois	DET	DET	s=card|n=p	
+12	centimètres	centimètre	NC	NC	n=p|g=m	
+13	,	,	PONCT	PONCT		
+14	le	le	DET	DET	n=s|g=m	
+15	nimbe	nimbe	NC	NC	n=s|g=m	
+16	doux	doux	ADJ	ADJ	g=m	
+17	de	de	P	P		
+18	ses	ses	DET	DET	n=p|p=3|poss=s	
+19	cheveux	cheveu	NC	NC	n=p|g=m	
+20	,	,	PONCT	PONCT		
+21	ses	ses	DET	DET	n=p|p=3|poss=s	
+22	traits	trait	NC	NC	n=p|g=m	
+23	classiques	classique	ADJ	ADJ	n=p	
+24	,	,	PONCT	PONCT		
+25	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+26	air	air	NC	NC	n=s|g=m	
+27	mystique	mystique	ADJ	ADJ	n=s	
+28	et	et	CC	CC		
+29	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+30	corps	corps	NC	NC	g=m	
+31	de	de	P	P		
+32	panthère	panthère	NC	NC	n=s|g=f	
+33	,	,	PONCT	PONCT		
+34	elle	elle	CLS	CLS	n=s|g=f|p=3	
+35	n'	ne	ADV	ADV		
+36	aurait	avoir	V	V	n=s|t=C|p=3	
+37	pas	pas	ADV	ADV		
+38	pu	pouvoir	VPP	VPP	t=K	
+39	entrer	entrer	VINF	VINF	t=W	
+40	dans	dans	P	P		
+41	une	une	DET	DET	n=s|g=f	
+42	église	église	NC	NC	n=s|g=f	
+43	sans	sans	P	P		
+44	aussitôt	aussitôt	ADV	ADV		
+45	troubler	troubler	VINF	VINF	t=W	
+46	le	le	DET	DET	n=s|g=m	
+47	sermon	sermon	NC	NC	n=s|g=m	
+48	.	.	PONCT	PONCT		
+49	"	"	PONCT	PONCT		
+
+1	-	-	PONCT	PONCT		
+2	Josef	Josef	NPP	NPP	n=s|g=m	
+3	von	_	NPP	NPP		
+4	Sternberg	_	NPP	NPP		
+5	[	[	PONCT	PONCT		
+6	19	19	NC	NC		
+7	]	]	PONCT	PONCT		
+8	La	la	DET	DET	n=s|g=f	
+9	fille	fille	NC	NC	n=s|g=f	
+10	de	de	P	P		
+11	l'	le	DET	DET	n=s	
+12	actrice	acteur	NC	NC	n=s|g=f	
+13	,	,	PONCT	PONCT		
+14	Maria	Maria	NPP	NPP	n=s|g=f	
+15	Riva	_	NPP	NPP		
+16	,	,	PONCT	PONCT		
+17	raconte	raconter	V	V	n=s|t=P,S|p=1,3	
+18	une	une	DET	DET	n=s|g=f	
+19	soirée	soirée	NC	NC	n=s|g=f	
+20	avec	avec	P	P		
+21	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+22	mère	mère	NC	NC	n=s|g=f	
+23	à	à	P	P		
+24	l'	le	DET	DET	n=s	
+25	Opéra	_	NPP	NPP		
+26	Garnier	_	NPP	NPP		
+27	en	en	P	P		
+28	1933	1933	NC	NC		
+29	,	,	PONCT	PONCT		
+30	et	et	CC	CC		
+31	notamment	_	ADV	ADV		
+32	l'	le	DET	DET	n=s	
+33	entracte	entracte	NC	NC	n=s|g=m	
+34	:	:	PONCT	PONCT		
+35	"	"	PONCT	PONCT		
+
+1	Tout	tout	ADJ	ADJ	n=s|g=m	
+2	le	le	DET	DET	n=s|g=m	
+3	monde	monde	NC	NC	n=s|g=m	
+4	buvait	boire	V	V	n=s|t=I|p=3	
+5	du	de	P+D	P+D	n=s|g=m	
+6	champagne	champagne	NC	NC	n=s	
+7	et	et	CC	CC		
+8	essayait	essayer	V	V	n=s|t=I|p=3	
+9	de	de	P	P		
+10	se	se	CLR	CLR	n=p,s|p=3	
+11	rapprocher	rapprocher	VINF	VINF	t=W	
+12	de	de	P	P		
+13	ma	ma	DET	DET	n=s|g=f|p=1|poss=s	
+14	mère	mère	NC	NC	n=s|g=f	
+15	,	,	PONCT	PONCT		
+16	qui	qui	PROREL	PROREL	n=s	
+17	se	se	CLR	CLR	n=p,s|p=3	
+18	comportait	comporter	V	V	n=s|t=I|p=3	
+19	à	à	P	P		
+20	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+21	habitude	habitude	NC	NC	n=s|g=f	
+22	,	,	PONCT	PONCT		
+23	comme	comme	CS	CS		
+24	si	si	CS	CS		
+25	elle	elle	CLS	CLS	n=s|g=f|p=3	
+26	était	être	V	V	n=s|t=I|p=3	
+27	seule	seul	ADJ	ADJ	n=s|g=f	
+28	sur	sur	P	P		
+29	une	une	DET	DET	n=s|g=f	
+30	île	île	NC	NC	n=s|g=f	
+31	déserte	désert	ADJ	ADJ	n=s|g=f	
+32	,	,	PONCT	PONCT		
+33	et	et	CC	CC		
+34	fumait	fumer	V	V	n=s|t=I|p=3	
+35	tranquillement	_	ADV	ADV		
+36	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+37	cigarette	cigarette	NC	NC	n=s|g=f	
+38	pendant	pendant	P	P		
+39	que	que	CS	CS		
+40	les	les	DET	DET	n=p	
+41	dames	dame	NC	NC	n=p|g=f	
+42	et	et	CC	CC		
+43	les	les	DET	DET	n=p	
+44	messieurs	_	NC	NC		
+45	la	la	CLO	CLO	n=s|g=f|p=3	
+46	dévoraient	dévorer	V	V	n=p|t=I|p=3	
+47	des	des	DET	DET	n=p	
+48	yeux	oeil	NC	NC	n=p|g=m	
+49	,	,	PONCT	PONCT		
+50	comme	comme	CS	CS		
+51	si	si	CS	CS		
+52	de	de	P	P		
+53	rien	rien	PRO	PRO	n=s|g=m	
+54	n'	ne	ADV	ADV		
+55	était	être	V	V	n=s|t=I|p=3	
+56	.	.	PONCT	PONCT		
+
+1	"	"	PONCT	PONCT		
+2	[	[	PONCT	PONCT		
+3	20	20	NC	NC		
+4	]	]	PONCT	PONCT		
+
+1	Cette	cette	DET	DET	n=s|g=f	
+2	fructueuse	fructueux	ADJ	ADJ	n=s|g=f	
+3	-	-	PONCT	PONCT		
+4	mais	mais	CC	CC		
+5	houleuse	houleux	ADJ	ADJ	n=s|g=f	
+6	[	[	PONCT	PONCT		
+7	i	_	NPP	NPP		
+8	]	]	PONCT	PONCT		
+9	-	-	PONCT	PONCT		
+10	collaboration	collaboration	NC	NC	n=s|g=f	
+11	s'	se	CLR	CLR	n=p,s|p=3	
+12	achève	achever	V	V	n=s|t=P,S|p=1,3	
+13	en	en	P	P		
+14	1935	1935	NC	NC		
+15	par	par	P	P		
+16	La	_	NPP	NPP		
+17	Femme	_	NPP	NPP		
+18	et	et	CC	CC		
+19	le	le	DET	DET	n=s|g=m	
+20	Pantin	Pantin	NPP	NPP	n=s|g=m	
+21	d'	de	P	P		
+22	après	après	P	P		
+23	le	le	DET	DET	n=s|g=m	
+24	roman	roman	NC	NC	n=s|g=m	
+25	homonyme	homonyme	ADJ	ADJ	n=s	
+26	de	de	P	P		
+27	Pierre	Pierre	NPP	NPP	n=s|g=m	
+28	Louÿs	_	NPP	NPP		
+29	,	,	PONCT	PONCT		
+30	film	film	NC	NC	n=s|g=m	
+31	préféré	préférer	VPP	VPP	n=s|g=m|t=K	
+32	de	de	P	P		
+33	l'	le	DET	DET	n=s	
+34	actrice	acteur	NC	NC	n=s|g=f	
+35	[	[	PONCT	PONCT		
+36	21	21	ADJ	ADJ		
+37	]	]	PONCT	PONCT		
+38	.	.	PONCT	PONCT		
+
+1	"	"	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	Femme	_	NPP	NPP		
+3	et	et	CC	CC		
+4	le	le	DET	DET	n=s|g=m	
+5	Pantin	Pantin	NPP	NPP	n=s|g=m	
+6	est	être	V	V	n=s|t=P|p=3	
+7	une	une	DET	DET	n=s|g=f	
+8	superbe	superbe	ADJ	ADJ	n=s	
+9	adaptation	adaptation	NC	NC	n=s|g=f	
+10	de	de	P	P		
+11	Pierre	Pierre	NPP	NPP	n=s|g=m	
+12	Louÿs	_	NPP	NPP		
+13	et	et	CC	CC		
+14	l'	le	DET	DET	n=s	
+15	apogée	apogée	NC	NC	n=s|g=m	
+16	du	de	P+D	P+D	n=s|g=m	
+17	mythe	mythe	NC	NC	n=s|g=m	
+18	de	de	P	P		
+19	la	la	DET	DET	n=s|g=f	
+20	femme	femme	NC	NC	n=s|g=f	
+21	fatale	fatal	ADJ	ADJ	n=s|g=f	
+22	symbolisée	symboliser	VPP	VPP	n=s|g=f|t=K	
+23	par	par	P	P		
+24	Marlene	Marlene	NPP	NPP	n=s|g=f	
+25	.	.	PONCT	PONCT		
+26	"	"	PONCT	PONCT		
+
+1	-	-	PONCT	PONCT		
+2	Jean	_	NPP	NPP		
+3	Tulard	_	NPP	NPP		
+4	[	[	PONCT	PONCT		
+5	22	22	NC	NC		
+6	]	]	PONCT	PONCT		
+7	Après	après	P	P		
+8	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+9	séparation	séparation	NC	NC	n=s|g=f	
+10	artistique	artistique	ADJ	ADJ	n=s	
+11	d'	de	P	P		
+12	avec	avec	P	P		
+13	Sternberg	_	NPP	NPP		
+14	,	,	PONCT	PONCT		
+15	Marlene	Marlene	NPP	NPP	n=s|g=f	
+16	ne	ne	ADV	ADV		
+17	continuera	continuer	V	V	n=s|t=F|p=3	
+18	pas	pas	ADV	ADV		
+19	moins	moins	ADV	ADV		
+20	à	à	P	P		
+21	incarner	incarner	VINF	VINF	t=W	
+22	les	les	DET	DET	n=p	
+23	femmes	femme	NC	NC	n=p|g=f	
+24	fatales	fatal	ADJ	ADJ	n=p|g=f	
+25	,	,	PONCT	PONCT		
+26	notamment	_	ADV	ADV		
+27	dans	dans	P	P		
+28	La	_	NPP	NPP		
+29	Maison	_	NPP	NPP		
+30	des	de	P+D	P+D	n=p	
+31	sept	sept	ADJ	ADJ	s=card|n=p	
+32	péchés	péché	NC	NC	n=p|g=m	
+33	(	(	PONCT	PONCT		
+34	1940	1940	NC	NC		
+35	)	)	PONCT	PONCT		
+36	,	,	PONCT	PONCT		
+37	La	_	NPP	NPP		
+38	Belle	Belle	NPP	NPP	n=s|g=f	
+39	Ensorceleuse	_	NPP	NPP		
+40	et	et	CC	CC		
+41	L'	le	DET	DET	n=s	
+42	Entraîneuse	entraîneuse	NC	NC	n=s|g=f	
+43	fatale	fatal	ADJ	ADJ	n=s|g=f	
+44	(	(	PONCT	PONCT		
+45	1941	1941	NC	NC		
+46	)	)	PONCT	PONCT		
+47	,	,	PONCT	PONCT		
+48	La	_	NPP	NPP		
+49	Scandaleuse	_	NPP	NPP		
+50	de	de	P	P		
+51	Berlin	Berlin	NPP	NPP	n=s|g=f,m	
+52	en	en	P	P		
+53	1948	1948	NC	NC		
+54	,	,	PONCT	PONCT		
+55	Le	_	NC	NC		
+56	Grand	Grand	NPP	NPP	n=s|g=m	
+57	Alibi	_	NPP	NPP		
+58	(	(	PONCT	PONCT		
+59	1950	1950	NC	NC		
+60	)	)	PONCT	PONCT		
+61	ou	ou	CC	CC		
+62	encore	encore	ADV	ADV		
+63	Témoin	témoin	NC	NC	n=s|g=m	
+64	à	à	P	P		
+65	charge	charge	NC	NC	n=s|g=f	
+66	(	(	PONCT	PONCT		
+67	1957	1957	NC	NC		
+68	)	)	PONCT	PONCT		
+69	[	[	PONCT	PONCT		
+70	j	_	NPP	NPP		
+71	]	]	PONCT	PONCT		
+72	.	.	PONCT	PONCT		
+
+1	"	"	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	est	être	V	V	n=s|t=P|p=3	
+3	exact	exact	ADJ	ADJ	n=s|g=m	
+4	que	que	CS	CS		
+5	cette	cette	DET	DET	n=s|g=f	
+6	actrice	acteur	NC	NC	n=s|g=f	
+7	a	avoir	V	V	n=s|t=P|p=3	
+8	fait	faire	VPP	VPP	n=s|g=m|t=K	
+9	de	de	P	P		
+10	la	la	DET	DET	n=s|g=f	
+11	vamp	vamp	NC	NC	n=s|g=f	
+12	la	la	DET	DET	n=s|g=f	
+13	reine	reine	NC	NC	n=s|g=f	
+14	des	de	P+D	P+D	n=p	
+15	écrans	écran	NC	NC	n=p|g=m	
+16	,	,	PONCT	PONCT		
+17	il	il	CLS	CLS	n=s|g=m|p=3	
+18	est	être	V	V	n=s|t=P|p=3	
+19	exact	exact	ADJ	ADJ	n=s|g=m	
+20	qu'	que	CS	CS		
+21	elle	elle	CLS	CLS	n=s|g=f|p=3	
+22	incarne	incarner	V	V	n=s|t=P,S|p=1,3	
+23	la	la	DET	DET	n=s|g=f	
+24	féminité	féminité	NC	NC	n=s|g=f	
+25	,	,	PONCT	PONCT		
+26	il	il	CLS	CLS	n=s|g=m|p=3	
+27	est	être	V	V	n=s|t=P|p=3	
+28	exact	exact	ADJ	ADJ	n=s|g=m	
+29	que	que	CS	CS		
+30	le	le	DET	DET	n=s|g=m	
+31	sex	_	NC	NC		
+32	-	-	PONCT	PONCT		
+33	appeal	appeal	NC	NC	n=s|g=m	
+34	n'	ne	ADV	ADV		
+35	a	avoir	V	V	n=s|t=P|p=3	
+36	jamais	jamais	ADV	ADV		
+37	de	de	P	P		
+38	représentante	représentant	NC	NC	n=s|g=f	
+39	plus	plus	ADV	ADV		
+40	brillante	brillant	ADJ	ADJ	n=s|g=f	
+41	,	,	PONCT	PONCT		
+42	plus	plus	ADV	ADV		
+43	attirante	attirant	ADJ	ADJ	n=s|g=f	
+44	,	,	PONCT	PONCT		
+45	plus	plus	ADV	ADV		
+46	persuasive	persuasif	ADJ	ADJ	n=s|g=f	
+47	qu'	que	CS	CS		
+48	elle	elle	CLS	CLS	n=s|g=f|p=3	
+49	.	.	PONCT	PONCT		
+50	"	"	PONCT	PONCT		
+
+1	-	-	PONCT	PONCT		
+2	Sydney	Sydney	NPP	NPP	n=s	
+3	W	_	NPP	NPP		
+4	.	.	PONCT	PONCT		
+5	Carroll	Carroll	NPP	NPP	n=s|g=m	
+6	,	,	PONCT	PONCT		
+7	The	_	NPP	NPP		
+8	Times	_	NPP	NPP		
+9	(	(	PONCT	PONCT		
+10	1933	1933	NC	NC		
+11	)	)	PONCT	PONCT		
+12	[	[	PONCT	PONCT		
+13	23	23	NC	NC		
+14	]	]	PONCT	PONCT		
+15	Alors	alors	ADV	ADV		
+16	que	que	CS	CS		
+17	ses	ses	DET	DET	n=p|p=3|poss=s	
+18	films	film	NC	NC	n=p|g=m	
+19	avec	avec	P	P		
+20	Sternberg	_	NPP	NPP		
+21	sont	être	V	V	n=p|t=P|p=3	
+22	reconnus	reconnaître	VPP	VPP	n=p|g=m|t=K	
+23	aujourd'hui	aujourd'hui	ADV	ADV		
+24	comme	comme	P	P		
+25	des	des	DET	DET	n=p	
+26	chefs-d'œuvre	_	NC	NC		
+27	du	de	P+D	P+D	n=s|g=m	
+28	patrimoine	patrimoine	NC	NC	n=s|g=m	
+29	cinématographique	cinématographique	ADJ	ADJ	n=s	
+30	,	,	PONCT	PONCT		
+31	ceux	ceux	PRO	PRO	n=p|g=m	
+32	que	que	PROREL	PROREL		
+33	Dietrich	Dietrich	NPP	NPP	n=s|g=m	
+34	tourne	tourner	V	V	n=s|t=P,S|p=1,3	
+35	en	en	P	P		
+36	1936	1936	NC	NC		
+37	et	et	CC	CC		
+38	1937	1937	NC	NC		
+39	marquent	marquer	V	V	n=p|t=P,S|p=3	
+40	moins	moins	ADV	ADV		
+41	les	les	DET	DET	n=p	
+42	esprits	esprit	NC	NC	n=p|g=m	
+43	[	[	PONCT	PONCT		
+44	k	_	NC	NC		
+45	]	]	PONCT	PONCT		
+46	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	actrice	acteur	NC	NC	n=s|g=f	
+3	peine	peine	NC	NC	n=s|g=f	
+4	en	en	P	P		
+5	effet	effet	NC	NC	n=s|g=m	
+6	à	à	P	P		
+7	trouver	trouver	VINF	VINF	t=W	
+8	ses	ses	DET	DET	n=p|p=3|poss=s	
+9	marques	marque	NC	NC	n=p|g=f	
+10	sans	sans	P	P		
+11	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+12	pygmalion	_	NC	NC		
+13	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	tournage	tournage	NC	NC	n=s|g=m	
+3	de	de	P	P		
+4	I	_	NPP	NPP		
+5	Loved	_	NPP	NPP		
+6	a	avoir	V	V	n=s|t=P|p=3	
+7	Soldier	_	NPP	NPP		
+8	,	,	PONCT	PONCT		
+9	est	être	V	V	n=s|t=P|p=3	
+10	ainsi	ainsi	ADV	ADV		
+11	interrompu	interrompre	VPP	VPP	n=s|g=m|t=K	
+12	au	à	P+D	P+D	n=s|g=m	
+13	bout	bout	NC	NC	n=s|g=m	
+14	d'	de	P	P		
+15	un	un	DET	DET	n=s|g=m	
+16	mois	mois	NC	NC	g=m	
+17	à	à	P	P		
+18	la	la	DET	DET	n=s|g=f	
+19	suite	suite	NC	NC	n=s|g=f	
+20	d'	de	P	P		
+21	un	un	DET	DET	n=s|g=m	
+22	désaccord	désaccord	NC	NC	n=s|g=m	
+23	entre	entre	P	P		
+24	Dietrich	Dietrich	NPP	NPP	n=s|g=m	
+25	et	et	CC	CC		
+26	la	la	DET	DET	n=s|g=f	
+27	production	production	NC	NC	n=s|g=f	
+28	,	,	PONCT	PONCT		
+29	alors	alors	ADV	ADV		
+30	qu'	que	CS	CS		
+31	il	il	CLS	CLS	n=s|g=m|p=3	
+32	a	avoir	V	V	n=s|t=P|p=3	
+33	déjà	déjà	ADV	ADV		
+34	coûté	coûter	VPP	VPP	n=s|g=m|t=K	
+35	près	près	ADV	ADV		
+36	de	de	P	P		
+37	900_000	900_000	ADJ	ADJ		
+38	dollars	dollar	NC	NC	n=p|g=m	
+39	.	.	PONCT	PONCT		
+
+1	Désir	désir	NC	NC	n=s|g=m	
+2	de	de	P	P		
+3	Frank	Frank	NPP	NPP	n=s|g=m	
+4	Borzage	_	NPP	NPP		
+5	(	(	PONCT	PONCT		
+6	sorti	sortir	VPP	VPP	n=s|g=m|t=K	
+7	en	en	P	P		
+8	1936	1936	NC	NC		
+9	,	,	PONCT	PONCT		
+10	mais	mais	CC	CC		
+11	tourné	tourner	VPP	VPP	n=s|g=m|t=K	
+12	avant	avant	P	P		
+13	I	_	NPP	NPP		
+14	Loved	_	NPP	NPP		
+15	a	avoir	V	V	n=s|t=P|p=3	
+16	Soldier	_	NPP	NPP		
+17	en	en	P	P		
+18	1935	1935	NC	NC		
+19	)	)	PONCT	PONCT		
+20	et	et	CC	CC		
+21	Le	_	NPP	NPP		
+22	Jardin	Jardin	NPP	NPP	n=s|g=m	
+23	d'	de	P	P		
+24	Allah	_	NPP	NPP		
+25	de	de	P	P		
+26	Richard	Richard	NPP	NPP	n=s|g=m	
+27	Boleslawski	_	NPP	NPP		
+28	,	,	PONCT	PONCT		
+29	un	un	PRO	PRO	n=s|g=m	
+30	des	de	P+D	P+D	n=p	
+31	tout	tout	ADV	ADV		
+32	premiers	premier	ADJ	ADJ	n=p|g=m	
+33	films	film	NC	NC	n=p|g=m	
+34	en	en	P	P		
+35	couleurs	couleur	NC	NC	n=p|g=f	
+36	,	,	PONCT	PONCT		
+37	ne	ne	ADV	ADV		
+38	font	faire	V	V	n=p|t=P|p=3	
+39	pas	pas	ADV	ADV		
+40	recette	recette	NC	NC	n=s|g=f	
+41	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	Paramount	_	NPP	NPP		
+3	laisse	laisser	V	V	n=s|t=P,S|p=1,3	
+4	Dietrich	_	VINF	VINF		
+5	partir	partir	VINF	VINF	t=W	
+6	pour	pour	P	P		
+7	l'	le	DET	DET	n=s	
+8	Europe	Europe	NPP	NPP	n=s|g=f	
+9	en	en	P	P		
+10	1937	1937	NC	NC		
+11	tourner	tourner	VINF	VINF	t=W	
+12	Le	_	NPP	NPP		
+13	Chevalier	_	NPP	NPP		
+14	sans	sans	P	P		
+15	armure	armure	NC	NC	n=s|g=f	
+16	de	de	P	P		
+17	Jacques	Jacques	NPP	NPP	n=s|g=m	
+18	Feyder	_	NPP	NPP		
+19	aux	à	P+D	P+D	n=p	
+20	studios	studio	NC	NC	n=p|g=m	
+21	de	de	P	P		
+22	Denham	_	NPP	NPP		
+23	près	près	ADV	ADV		
+24	de	de	P	P		
+25	Londres	Londres	NPP	NPP	n=s|g=m	
+26	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	rentre	rentrer	V	V	n=s|t=P,S|p=1,3	
+3	ensuite	ensuite	ADV	ADV		
+4	à	à	P	P		
+5	Hollywood	_	NPP	NPP		
+6	pour	pour	P	P		
+7	jouer	jouer	VINF	VINF	t=W	
+8	dans	dans	P	P		
+9	Ange	Ange	NPP	NPP	n=s|g=m	
+10	sous	sous	P	P		
+11	la	la	DET	DET	n=s|g=f	
+12	direction	direction	NC	NC	n=s|g=f	
+13	d'	de	P	P		
+14	Ernst	Ernst	NPP	NPP	n=s|g=m	
+15	Lubitsch	_	NPP	NPP		
+16	(	(	PONCT	PONCT		
+17	qui	qui	PROREL	PROREL	n=s	
+18	avait	avoir	V	V	n=s|t=I|p=3	
+19	assisté	assister	VPP	VPP	n=s|g=m|t=K	
+20	Borzage	_	NPP	NPP		
+21	sur	sur	P	P		
+22	Désir	_	NPP	NPP		
+23	)	)	PONCT	PONCT		
+24	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	nouvel	_	ADJ	ADJ		
+3	échec	échec	NC	NC	n=s|g=m	
+4	de	de	P	P		
+5	ces	ces	DET	DET	n=p	
+6	films	film	NC	NC	n=p|g=m	
+7	la	la	DET	DET	n=s|g=f	
+8	fait	fait	NC	NC	n=s|g=m	
+9	taxer	taxer	VINF	VINF	t=W	
+10	dans	dans	P	P		
+11	la	la	DET	DET	n=s|g=f	
+12	presse	presse	NC	NC	n=s|g=f	
+13	de	de	P	P		
+14	"	"	PONCT	PONCT		
+15	poison	poison	NC	NC	n=s|g=m	
+16	du	de	P+D	P+D	n=s|g=m	
+17	box	box	NC	NC	g=m	
+18	-	-	PONCT	PONCT		
+19	office	office	NC	NC	n=s	
+20	"	"	PONCT	PONCT		
+21	(	(	PONCT	PONCT		
+22	"	"	PONCT	PONCT		
+23	Box	box	NC	NC	g=m	
+24	Office	_	NPP	NPP		
+25	Poison	_	NPP	NPP		
+26	"	"	PONCT	PONCT		
+27	)	)	PONCT	PONCT		
+28	[	[	PONCT	PONCT		
+29	24	24	NC	NC		
+30	]	]	PONCT	PONCT		
+31	par	par	P	P		
+32	l'	le	DET	DET	n=s	
+33	association	association	NC	NC	n=s|g=f	
+34	des	de	P+D	P+D	n=p	
+35	propriétaires	propriétaire	NC	NC	n=p	
+36	de	de	P	P		
+37	salles	salle	NC	NC	n=p|g=f	
+38	de	de	P	P		
+39	cinéma	cinéma	NC	NC	n=s|g=m	
+40	(	(	PONCT	PONCT		
+41	Independent	_	ET	ET		
+42	Theater	_	ET	ET		
+43	Owners	_	ET	ET		
+44	of	_	ET	ET		
+45	America	_	ET	ET		
+46	)	)	PONCT	PONCT		
+47	,	,	PONCT	PONCT		
+48	comme	comme	P	P		
+49	Greta	Greta	NPP	NPP	n=s|g=f	
+50	Garbo	_	NPP	NPP		
+51	,	,	PONCT	PONCT		
+52	Joan	Joan	NPP	NPP	n=s	
+53	Crawford	Crawford	NPP	NPP	n=s|g=m	
+54	,	,	PONCT	PONCT		
+55	Katharine	Katharine	NPP	NPP	n=s|g=f	
+56	Hepburn	_	NPP	NPP		
+57	ou	ou	CC	CC		
+58	Bette	Bette	NPP	NPP	n=s|g=f	
+59	Davis	Davis	NPP	NPP	n=s|g=m	
+60	[	[	PONCT	PONCT		
+61	l	_	NPP	NPP		
+62	]	]	PONCT	PONCT		
+63	.	.	PONCT	PONCT		
+
+1	Ce	ce	PRO	PRO	n=s	
+2	à	à	P	P		
+3	quoi	quoi	PROREL	PROREL		
+4	l'	le	DET	DET	n=s	
+5	actrice	acteur	NC	NC	n=s|g=f	
+6	répond	répondre	V	V	n=s|t=P|p=3	
+7	:	:	PONCT	PONCT		
+8	"	"	PONCT	PONCT		
+9	Tout	tout	ADJ	ADJ	n=s|g=m	
+10	ce	ce	PRO	PRO	n=s	
+11	que	que	PROREL	PROREL		
+12	je	je	CLS	CLS	n=s|p=1	
+13	sais	savoir	V	V	n=s|t=P|p=1,2	
+14	,	,	PONCT	PONCT		
+15	c'	ce	CLS	CLS		
+16	est	être	V	V	n=s|t=P|p=3	
+17	que	que	CS	CS		
+18	lorsqu'	lorsque	CS	CS		
+19	un	un	PRO	PRO	n=s|g=m	
+20	des	de	P+D	P+D	n=p	
+21	gars	gars	NC	NC	g=m	
+22	de	de	P	P		
+23	la	la	DET	DET	n=s|g=f	
+24	direction	direction	NC	NC	n=s|g=f	
+25	a	avoir	V	V	n=s|t=P|p=3	
+26	besoin	besoin	NC	NC	n=s|g=m	
+27	de	de	P	P		
+28	rembourser	rembourser	VINF	VINF	t=W	
+29	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+30	emprunt	emprunt	NC	NC	n=s|g=m	
+31	,	,	PONCT	PONCT		
+32	ils	ils	CLS	CLS	n=p|g=m|p=3	
+33	m'	me	CLO	CLO	n=s|p=1	
+34	appellent	appeler	V	V	n=p|t=P,S|p=3	
+35	avec	avec	P	P		
+36	une	une	DET	DET	n=s|g=f	
+37	idée	idée	NC	NC	n=s|g=f	
+38	de	de	P	P		
+39	film	film	NC	NC	n=s|g=m	
+40	[	[	PONCT	PONCT		
+41	25	25	ADJ	ADJ		
+42	]	]	PONCT	PONCT		
+43	"	"	PONCT	PONCT		
+44	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	choisit	choisir	V	V	n=s|t=J,P|p=3	
+3	alors	alors	ADV	ADV		
+4	de	de	P	P		
+5	s'	se	CLR	CLR	n=p,s|p=3	
+6	éloigner	éloigner	VINF	VINF	t=W	
+7	des	des	DET	DET	n=p	
+8	studios	studio	NC	NC	n=p|g=m	
+9	et	et	CC	CC		
+10	entame	entamer	V	V	n=s|t=P,S|p=1,3	
+11	une	une	DET	DET	n=s|g=f	
+12	liaison	liaison	NC	NC	n=s|g=f	
+13	avec	avec	P	P		
+14	l'	le	DET	DET	n=s	
+15	écrivain	écrivain	NC	NC	n=s|g=m	
+16	pacifiste	pacifiste	ADJ	ADJ	n=s	
+17	Erich	Erich	NPP	NPP	n=s|g=m	
+18	Maria	Maria	NPP	NPP	n=s|g=f	
+19	Remarque	_	NPP	NPP		
+20	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	même	même	ADJ	ADJ	n=s	
+3	année	année	NC	NC	n=s|g=f	
+4	,	,	PONCT	PONCT		
+5	séjournant	séjourner	VPR	VPR	t=G	
+6	avec	avec	P	P		
+7	lui	lui	CLO	CLO	n=s|p=3	
+8	au	à	P+D	P+D	n=s|g=m	
+9	Cap	cap	NC	NC	n=s|g=m	
+10	d'	de	P	P		
+11	Antibes	Antibes	NPP	NPP	n=s|g=m	
+12	,	,	PONCT	PONCT		
+13	elle	elle	CLS	CLS	n=s|g=f|p=3	
+14	entretient	entretenir	V	V	n=s|t=P|p=3	
+15	une	une	DET	DET	n=s|g=f	
+16	liaison	liaison	NC	NC	n=s|g=f	
+17	discrète	discret	ADJ	ADJ	n=s|g=f	
+18	avec	avec	P	P		
+19	Joseph	Joseph	NPP	NPP	n=s|g=m	
+20	Kennedy	Kennedy	NPP	NPP	n=s	
+21	,	,	PONCT	PONCT		
+22	ambassadeur	ambassadeur	NC	NC	n=s|g=m	
+23	des	de	P+D	P+D	n=p	
+24	États	État	NC	NC	n=p|g=m	
+25	-	-	PONCT	PONCT		
+26	Unis	unir	VPP	VPP	n=p|g=m|t=K	
+27	à	à	P	P		
+28	Londres	Londres	NPP	NPP	n=s|g=m	
+29	favorable	favorable	ADJ	ADJ	n=s	
+30	à	à	P	P		
+31	une	une	DET	DET	n=s|g=f	
+32	politique	politique	NC	NC	n=s|g=f	
+33	d'	de	P	P		
+34	apaisement	apaisement	NC	NC	n=s|g=m	
+35	envers	envers	P	P		
+36	l'	le	DET	DET	n=s	
+37	Allemagne	Allemagne	NPP	NPP	n=s|g=f	
+38	nazie	nazi	ADJ	ADJ	n=s|g=f	
+39	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	accorde	accorder	V	V	n=s|t=P,S|p=1,3	
+3	également	_	ADV	ADV		
+4	ses	ses	DET	DET	n=p|p=3|poss=s	
+5	faveurs	faveur	NC	NC	n=p|g=f	
+6	au	à	P+D	P+D	n=s|g=m	
+7	fils	fils	NC	NC	g=m	
+8	de	de	P	P		
+9	celui	celui	PRO	PRO	n=s|g=m	
+10	-	-	PONCT	PONCT		
+11	ci	_	NPP	NPP		
+12	,	,	PONCT	PONCT		
+13	le	le	DET	DET	n=s|g=m	
+14	jeune	jeune	ADJ	ADJ	n=s	
+15	John	John	NPP	NPP	n=s|g=m	
+16	Fitzgerald	_	NPP	NPP		
+17	[	[	PONCT	PONCT		
+18	26	26	ADJ	ADJ		
+19	]	]	PONCT	PONCT		
+20	,	,	PONCT	PONCT		
+21	[	[	PONCT	PONCT		
+22	m	_	NPP	NPP		
+23	]	]	PONCT	PONCT		
+24	.	.	PONCT	PONCT		
+
+1	C'	ce	CLS	CLS		
+2	est	être	V	V	n=s|t=P|p=3	
+3	aussi	aussi	ADV	ADV		
+4	à	à	P	P		
+5	cette	cette	DET	DET	n=s|g=f	
+6	époque	époque	NC	NC	n=s|g=f	
+7	qu'	que	PROREL	PROREL		
+8	elle	elle	CLS	CLS	n=s|g=f|p=3	
+9	entretient	entretenir	V	V	n=s|t=P|p=3	
+10	une	une	DET	DET	n=s|g=f	
+11	liaison	liaison	NC	NC	n=s|g=f	
+12	avec	avec	P	P		
+13	Suzanne	Suzanne	NPP	NPP	n=s|g=f,m	
+14	Baulé	_	NPP	NPP		
+15	dite	dire	VPP	VPP	n=s|g=f|t=K	
+16	Frede	_	NPP	NPP		
+17	,	,	PONCT	PONCT		
+18	une	une	DET	DET	n=s|g=f	
+19	entraîneuse	entraîneuse	NC	NC	n=s|g=f	
+20	puis	puis	CC	CC		
+21	animatrice	animateur	NC	NC	n=s|g=f	
+22	de	de	P	P		
+23	cabaret	cabaret	NC	NC	n=s|g=m	
+24	qu'	que	PROREL	PROREL		
+25	elle	elle	CLS	CLS	n=s|g=f|p=3	
+26	rencontre	rencontrer	V	V	n=s|t=P,S|p=1,3	
+27	en	en	P	P		
+28	1936	1936	NC	NC		
+29	au	à	P+D	P+D	n=s|g=m	
+30	Monocle	_	NPP	NPP		
+31	,	,	PONCT	PONCT		
+32	une	une	DET	DET	n=s|g=f	
+33	boîte	boîte	NC	NC	n=s|g=f	
+34	de	de	P	P		
+35	nuit	nuit	NC	NC	n=s|g=f	
+36	féminine	féminin	ADJ	ADJ	n=s|g=f	
+37	située	situer	ADJ	ADJ	n=s|g=f|t=K	
+38	boulevard	boulevard	NC	NC	n=s|g=m	
+39	Edgar	Edgar	NPP	NPP	n=s|g=m	
+40	-	-	PONCT	PONCT		
+41	Quinet	_	NPP	NPP		
+42	,	,	PONCT	PONCT		
+43	à	à	P	P		
+44	Paris	Paris	NPP	NPP	n=s|g=m	
+45	;	;	PONCT	PONCT		
+46	les	les	DET	DET	n=p	
+47	deux	deux	ADJ	ADJ	s=card|n=p	
+48	femmes	femme	NC	NC	n=p|g=f	
+49	restèrent	rester	V	V	n=p|t=J|p=3	
+50	amies	amie	NC	NC	n=p|g=f	
+51	jusque	jusque	P	P		
+52	dans	dans	P	P		
+53	les	les	DET	DET	n=p	
+54	années	année	NC	NC	n=p|g=f	
+55	1970	1970	NC	NC		
+56	,	,	PONCT	PONCT		
+57	ainsi	ainsi	ADV	ADV		
+58	qu'	que	CS	CS		
+59	en	en	CLO	CLO		
+60	témoigne	témoigner	V	V	n=s|t=P,S|p=1,3	
+61	la	la	DET	DET	n=s|g=f	
+62	correspondance	correspondance	NC	NC	n=s|g=f	
+63	conservée	conserver	VPP	VPP	n=s|g=f|t=K	
+64	aux	à	P+D	P+D	n=p	
+65	archives	archive	NC	NC	n=p|g=f	
+66	Marlene	Marlene	NPP	NPP	n=s|g=f	
+67	Dietrich	Dietrich	NPP	NPP	n=s|g=m	
+68	de	de	P	P		
+69	Berlin	Berlin	NPP	NPP	n=s|g=f,m	
+70	[	[	PONCT	PONCT		
+71	27	27	NC	NC		
+72	]	]	PONCT	PONCT		
+73	.	.	PONCT	PONCT		
+
+1	À	à	P	P		
+2	l'	le	DET	DET	n=s	
+3	été	été	NC	NC	n=s|g=m	
+4	1939	1939	NC	NC		
+5	,	,	PONCT	PONCT		
+6	le	le	DET	DET	n=s|g=m	
+7	producteur	producteur	NC	NC	n=s|g=m	
+8	Joe	Joe	NPP	NPP	n=s|g=m	
+9	Pasternak	_	NPP	NPP		
+10	lui	lui	CLO	CLO	n=s|p=3	
+11	propose	proposer	V	V	n=s|t=P,S|p=1,3	
+12	un	un	DET	DET	n=s|g=m	
+13	western	western	NC	NC	n=s|g=m	
+14	,	,	PONCT	PONCT		
+15	Femme	_	NPP	NPP		
+16	ou	ou	CC	CC		
+17	Démon	_	NPP	NPP		
+18	,	,	PONCT	PONCT		
+19	sous	sous	P	P		
+20	la	la	DET	DET	n=s|g=f	
+21	direction	direction	NC	NC	n=s|g=f	
+22	de	de	P	P		
+23	George	George	NPP	NPP	n=s|g=m	
+24	Marshall	Marshall	NPP	NPP	n=s|g=m	
+25	,	,	PONCT	PONCT		
+26	à	à	P	P		
+27	condition	condition	NC	NC	n=s|g=f	
+28	que	que	CS	CS		
+29	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+30	cachet	cachet	NC	NC	n=s|g=m	
+31	soit	être	VS	VS	n=s|t=S|p=3	
+32	revu	revoir	VPP	VPP	n=s|g=m|t=K	
+33	à	à	P	P		
+34	la	la	DET	DET	n=s|g=f	
+35	baisse	baisse	NC	NC	n=s|g=f	
+36	[	[	PONCT	PONCT		
+37	n	_	NC	NC		
+38	]	]	PONCT	PONCT		
+39	.	.	PONCT	PONCT		
+
+1	Sur	sur	P	P		
+2	les	les	DET	DET	n=p	
+3	conseils	conseil	NC	NC	n=p|g=m	
+4	de	de	P	P		
+5	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+6	mari	mari	NC	NC	n=s|g=m	
+7	et	et	CC	CC		
+8	de	de	P	P		
+9	Sternberg	_	NPP	NPP		
+10	,	,	PONCT	PONCT		
+11	elle	elle	CLS	CLS	n=s|g=f|p=3	
+12	accepte	accepter	V	V	n=s|t=P,S|p=1,3	
+13	néanmoins	néanmoins	ADV	ADV		
+14	et	et	CC	CC		
+15	remporte	remporter	V	V	n=s|t=P,S|p=1,3	
+16	un	un	DET	DET	n=s|g=m	
+17	triomphe	triomphe	NC	NC	n=s	
+18	qui	qui	PROREL	PROREL	n=s	
+19	apporte	apporter	V	V	n=s|t=P,S|p=1,3	
+20	un	un	DET	DET	n=s|g=m	
+21	second	second	ADJ	ADJ	n=s|g=m	
+22	souffle	souffle	NC	NC	n=s|g=m	
+23	à	à	P	P		
+24	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+25	carrière	carrière	NC	NC	n=s|g=f	
+26	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	enchaîne	enchaîner	V	V	n=s|t=P,S|p=1,3	
+3	alors	alors	ADV	ADV		
+4	avec	avec	P	P		
+5	La	_	NPP	NPP		
+6	Maison	_	NPP	NPP		
+7	des	de	P+D	P+D	n=p	
+8	sept	sept	ADJ	ADJ	s=card|n=p	
+9	péchés	péché	NC	NC	n=p|g=m	
+10	de	de	P	P		
+11	Tay	_	NPP	NPP		
+12	Garnett	_	NPP	NPP		
+13	en	en	P	P		
+14	1940	1940	NC	NC		
+15	,	,	PONCT	PONCT		
+16	premier	premier	ADJ	ADJ	n=s|g=m	
+17	des	de	P+D	P+D	n=p	
+18	trois	trois	ADJ	ADJ	s=card|n=p	
+19	films	film	NC	NC	n=p|g=m	
+20	qu'	que	PROREL	PROREL		
+21	elle	elle	CLS	CLS	n=s|g=f|p=3	
+22	tourne	tourner	V	V	n=s|t=P,S|p=1,3	
+23	avec	avec	P	P		
+24	John	John	NPP	NPP	n=s|g=m	
+25	Wayne	Wayne	NPP	NPP	n=s|g=m	
+26	,	,	PONCT	PONCT		
+27	suivi	suivre	VPP	VPP	n=s|g=m|t=K	
+28	de	de	P	P		
+29	La	la	NC	NC	g=m	
+30	Belle	Belle	NPP	NPP	n=s|g=f	
+31	Ensorceleuse	_	NPP	NPP		
+32	de	de	P	P		
+33	René	René	NPP	NPP	n=s|g=m	
+34	Clair	_	NPP	NPP		
+35	et	et	CC	CC		
+36	L'	le	DET	DET	n=s	
+37	Entraîneuse	entraîneuse	NC	NC	n=s|g=f	
+38	fatale	fatal	ADJ	ADJ	n=s|g=f	
+39	de	de	P	P		
+40	Raoul	Raoul	NPP	NPP	n=s|g=m	
+41	Walsh	_	NPP	NPP		
+42	en	en	P	P		
+43	1941	1941	NC	NC		
+44	.	.	PONCT	PONCT		
+
+1	Trois	trois	DET	DET	s=card|n=p	
+2	films	film	NC	NC	n=p|g=m	
+3	suivent	suivre	V	V	n=p|t=P,S|p=3	
+4	en	en	P	P		
+5	1942	1942	NC	NC		
+6	,	,	PONCT	PONCT		
+7	dont	dont	PROREL	PROREL		
+8	Les	_	NPP	NPP		
+9	Écumeurs	_	NPP	NPP		
+10	et	et	CC	CC		
+11	La	_	NPP	NPP		
+12	Fièvre	_	NPP	NPP		
+13	de	de	P	P		
+14	l'	le	DET	DET	n=s	
+15	or	or	NC	NC	n=s|g=m	
+16	noir	noir	ADJ	ADJ	n=s|g=m	
+17	,	,	PONCT	PONCT		
+18	dans	dans	P	P		
+19	lesquels	lequel	PROREL	PROREL	n=p|g=m	
+20	elle	elle	CLS	CLS	n=s|g=f|p=3	
+21	retrouve	retrouver	V	V	n=s|t=P,S|p=1,3	
+22	Wayne	Wayne	NPP	NPP	n=s|g=m	
+23	.	.	PONCT	PONCT		
+
+1	Résolument	_	ADV	ADV		
+2	opposée	opposer	VPP	VPP	n=s|g=f|t=K	
+3	au	à	P+D	P+D	n=s|g=m	
+4	régime	régime	NC	NC	n=s|g=m	
+5	nazi	nazi	ADJ	ADJ	n=s|g=m	
+6	,	,	PONCT	PONCT		
+7	Marlene	Marlene	NPP	NPP	n=s|g=f	
+8	Dietrich	Dietrich	NPP	NPP	n=s|g=m	
+9	rompt	rompre	V	V	n=s|t=P|p=3	
+10	peu	peu	ADV	ADV		
+11	à	à	P	P		
+12	peu	peu	ADV	ADV		
+13	,	,	PONCT	PONCT		
+14	bien	bien	ADV	ADV		
+15	qu'	que	CS	CS		
+16	à	à	P	P		
+17	contre	contre	NC	NC	n=s|g=m	
+18	-	-	PONCT	PONCT		
+19	cœur	_	NPP	NPP		
+20	[	[	PONCT	PONCT		
+21	o	_	NPP	NPP		
+22	]	]	PONCT	PONCT		
+23	,	,	PONCT	PONCT		
+24	les	les	DET	DET	n=p	
+25	liens	lien	NC	NC	n=p|g=m	
+26	qui	qui	PROREL	PROREL	n=s	
+27	l'	le	CLO	CLO	n=s|p=3	
+28	attachent	attacher	V	V	n=p|t=P,S|p=3	
+29	à	à	P	P		
+30	l'	le	DET	DET	n=s	
+31	Allemagne	Allemagne	NPP	NPP	n=s|g=f	
+32	.	.	PONCT	PONCT		
+
+1	Devenue	devenir	VPP	VPP	n=s|g=f|t=K	
+2	citoyenne	citoyen	NC	NC	n=s|g=f	
+3	américaine	américain	ADJ	ADJ	n=s|g=f	
+4	en	en	P	P		
+5	juin	juin	NC	NC	n=s|g=m	
+6	1939	1939	NC	NC		
+7	[	[	PONCT	PONCT		
+8	28	28	NC	NC		
+9	]	]	PONCT	PONCT		
+10	,	,	PONCT	PONCT		
+11	[	[	PONCT	PONCT		
+12	29	29	NC	NC		
+13	]	]	PONCT	PONCT		
+14	,	,	PONCT	PONCT		
+15	elle	elle	CLS	CLS	n=s|g=f|p=3	
+16	met	mettre	V	V	n=s|t=P|p=3	
+17	,	,	PONCT	PONCT		
+18	comme	comme	P	P		
+19	de	de	DET	DET	n=p	
+20	nombreuses	nombreux	ADJ	ADJ	n=p|g=f	
+21	vedettes	vedette	NC	NC	n=p|g=f	
+22	de	de	P	P		
+23	l'	le	DET	DET	n=s	
+24	époque	époque	NC	NC	n=s|g=f	
+25	,	,	PONCT	PONCT		
+26	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+27	célébrité	célébrité	NC	NC	n=s|g=f	
+28	au	à	P+D	P+D	n=s|g=m	
+29	service	service	NC	NC	n=s|g=m	
+30	de	de	P	P		
+31	l'	le	DET	DET	n=s	
+32	effort	effort	NC	NC	n=s|g=m	
+33	de	de	P	P		
+34	guerre	guerre	NC	NC	n=s|g=f	
+35	après	après	P	P		
+36	l'	le	DET	DET	n=s	
+37	entrée	entrée	NC	NC	n=s|g=f	
+38	en	en	P	P		
+39	guerre	guerre	NC	NC	n=s|g=f	
+40	des	de	P+D	P+D	n=p	
+41	États	État	NC	NC	n=p|g=m	
+42	-	-	PONCT	PONCT		
+43	Unis	unir	VPP	VPP	n=p|g=m|t=K	
+44	dans	dans	P	P		
+45	le	le	DET	DET	n=s|g=m	
+46	conflit	conflit	NC	NC	n=s|g=m	
+47	mondial	mondial	ADJ	ADJ	n=s|g=m	
+48	en	en	P	P		
+49	décembre	décembre	NC	NC	n=s|g=m	
+50	1941	1941	NC	NC		
+51	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	participe	participer	V	V	n=s|t=P,S|p=1,3	
+3	ainsi	ainsi	ADV	ADV		
+4	à	à	P	P		
+5	la	la	DET	DET	n=s|g=f	
+6	Hollywood	_	NPP	NPP		
+7	Canteen	_	NPP	NPP		
+8	,	,	PONCT	PONCT		
+9	et	et	CC	CC		
+10	récolte	récolte	NC	NC	n=s|g=f	
+11	des	de	P+D	P+D	n=p	
+12	bons	bon	NC	NC	n=p|g=m	
+13	du	de	P+D	P+D	n=s|g=m	
+14	trésor	trésor	NC	NC	n=s|g=m	
+15	avec	avec	P	P		
+16	Orson	Orson	NPP	NPP	n=s|g=m	
+17	Welles	_	NPP	NPP		
+18	.	.	PONCT	PONCT		
+
+1	De	de	P	P		
+2	1941	1941	NC	NC		
+3	à	à	P	P		
+4	1943	1943	NC	NC		
+5	,	,	PONCT	PONCT		
+6	elle	elle	CLS	CLS	n=s|g=f|p=3	
+7	héberge	héberger	V	V	n=s|t=P,S|p=1,3	
+8	chez	chez	P	P		
+9	elle	elle	PRO	PRO	n=s|g=f|p=3	
+10	Jean	Jean	NPP	NPP	n=s	
+11	Gabin	_	NPP	NPP		
+12	qui	qui	PROREL	PROREL	n=s	
+13	,	,	PONCT	PONCT		
+14	refusant	refuser	VPR	VPR	t=G	
+15	de	de	P	P		
+16	tourner	tourner	VINF	VINF	t=W	
+17	pour	pour	P	P		
+18	les	les	DET	DET	n=p	
+19	Allemands	allemand	NC	NC	n=p|g=m	
+20	,	,	PONCT	PONCT		
+21	a	avoir	V	V	n=s|t=P|p=3	
+22	quitté	quitter	VPP	VPP	n=s|g=m|t=K	
+23	la	la	DET	DET	n=s|g=f	
+24	France	France	NPP	NPP	n=s|g=f,m	
+25	occupée	occuper	VPP	VPP	n=s|g=f|t=K	
+26	[	[	PONCT	PONCT		
+27	p	_	NC	NC		
+28	]	]	PONCT	PONCT		
+29	.	.	PONCT	PONCT		
+
+1	Les	les	DET	DET	n=p	
+2	deux	deux	ADJ	ADJ	s=card|n=p	
+3	acteurs	acteur	NC	NC	n=p|g=m	
+4	ne	ne	ADV	ADV		
+5	tardent	tarder	V	V	n=p|t=P,S|p=3	
+6	pas	pas	ADV	ADV		
+7	à	à	P	P		
+8	entamer	entamer	VINF	VINF	t=W	
+9	une	une	DET	DET	n=s|g=f	
+10	liaison	liaison	NC	NC	n=s|g=f	
+11	passionnée	passionner	VPP	VPP	n=s|g=f|t=K	
+12	alors	alors	ADV	ADV		
+13	que	que	CS	CS		
+14	Gabin	_	NPP	NPP		
+15	est	être	V	V	n=s|t=P|p=3	
+16	encore	encore	ADV	ADV		
+17	marié	marier	VPP	VPP	n=s|g=m|t=K	
+18	à	à	P	P		
+19	Jeanne	Jeanne	NPP	NPP	n=s|g=f	
+20	Mauchain	_	NPP	NPP		
+21	,	,	PONCT	PONCT		
+22	demeurée	demeurer	VPP	VPP	n=s|g=f|t=K	
+23	en	en	P	P		
+24	France	France	NPP	NPP	n=s|g=f,m	
+25	(	(	PONCT	PONCT		
+26	le	le	DET	DET	n=s|g=m	
+27	divorce	divorce	NC	NC	n=s|g=m	
+28	sera	être	V	V	n=s|t=F|p=3	
+29	prononcé	prononcer	VPP	VPP	n=s|g=m|t=K	
+30	le	le	DET	DET	n=s|g=m	
+31	18	18	ADJ	ADJ		
+32	janvier	janvier	NC	NC	n=s|g=m	
+33	1943	1943	NC	NC		
+34	aux	à	P+D	P+D	n=p	
+35	torts	tort	NC	NC	n=p|g=m	
+36	"	"	PONCT	PONCT		
+37	entiers	entier	ADJ	ADJ	n=p|g=m	
+38	et	et	CC	CC		
+39	reconnus	reconnaître	VPP	VPP	n=p|g=m|t=K	
+40	"	"	PONCT	PONCT		
+41	de	de	P	P		
+42	l'	le	DET	DET	n=s	
+43	acteur	acteur	NC	NC	n=s|g=m	
+44	,	,	PONCT	PONCT		
+45	bien	bien	ADV	ADV		
+46	qu'	que	CS	CS		
+47	en	en	P	P		
+48	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+49	absence	absence	NC	NC	n=s|g=f	
+50	)	)	PONCT	PONCT		
+51	[	[	PONCT	PONCT		
+52	30	30	NC	NC		
+53	]	]	PONCT	PONCT		
+54	.	.	PONCT	PONCT		
+
+1	Au	à	P+D	P+D	n=s|g=m	
+2	début	début	NC	NC	n=s|g=m	
+3	de	de	P	P		
+4	l'	le	DET	DET	n=s	
+5	année	année	NC	NC	n=s|g=f	
+6	1944	1944	NC	NC		
+7	,	,	PONCT	PONCT		
+8	elle	elle	CLS	CLS	n=s|g=f|p=3	
+9	tourne	tourner	V	V	n=s|t=P,S|p=1,3	
+10	Kismet	_	NPP	NPP		
+11	,	,	PONCT	PONCT		
+12	film	film	NC	NC	n=s|g=m	
+13	musical	musical	ADJ	ADJ	n=s|g=m	
+14	dans	dans	P	P		
+15	lequel	lequel	PROREL	PROREL	n=s|g=m	
+16	ses	ses	DET	DET	n=p|p=3|poss=s	
+17	jambes	jambe	NC	NC	n=p|g=f	
+18	peintes	peindre	VPP	VPP	n=p|g=f|t=K	
+19	en	en	P	P		
+20	or	or	NC	NC	n=s|g=m	
+21	font	faire	V	V	n=p|t=P|p=3	
+22	autant	autant	ADV	ADV		
+23	parler	parler	VINF	VINF	t=W	
+24	la	la	DET	DET	n=s|g=f	
+25	presse	presse	NC	NC	n=s|g=f	
+26	que	que	CS	CS		
+27	la	la	DET	DET	n=s|g=f	
+28	percée	percée	NC	NC	n=s|g=f	
+29	des	de	P+D	P+D	n=p	
+30	Alliés	allié	NC	NC	n=p|g=m	
+31	en	en	P	P		
+32	Italie	Italie	NPP	NPP	n=s|g=f	
+33	[	[	PONCT	PONCT		
+34	q	_	NPP	NPP		
+35	]	]	PONCT	PONCT		
+36	puis	puis	CC	CC		
+37	apparaît	apparaître	V	V	n=s|t=P|p=3	
+38	dans	dans	P	P		
+39	le	le	DET	DET	n=s|g=m	
+40	film	film	NC	NC	n=s|g=m	
+41	de	de	P	P		
+42	propagande	propagande	NC	NC	n=s|g=f	
+43	Hollywood	_	NPP	NPP		
+44	Parade	_	NPP	NPP		
+45	aux	à	P+D	P+D	n=p	
+46	côtés	côté	NC	NC	n=p|g=m	
+47	du	de	P+D	P+D	n=s|g=m	
+48	tout	tout	PRO	PRO	n=s|g=m	
+49	-	-	PONCT	PONCT		
+50	Hollywood	_	NPP	NPP		
+51	.	.	PONCT	PONCT		
+
+1	Dietrich	Dietrich	NPP	NPP	n=s|g=m	
+2	pousse	pousser	V	V	n=s|t=P,S|p=1,3	
+3	plus	plus	ADV	ADV		
+4	loin	loin	ADV	ADV		
+5	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+6	engagement	engagement	NC	NC	n=s|g=m	
+7	en	en	P	P		
+8	intégrant	intégrer	VPR	VPR	t=G	
+9	l'	le	DET	DET	n=s	
+10	United	_	NPP	NPP		
+11	Service	_	NPP	NPP		
+12	Organizations	_	NPP	NPP		
+13	(	(	PONCT	PONCT		
+14	USO	_	NPP	NPP		
+15	)	)	PONCT	PONCT		
+16	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	part	partir	V	V	n=s|t=P|p=3	
+3	pour	pour	P	P		
+4	le	le	DET	DET	n=s|g=m	
+5	front	front	NC	NC	n=s|g=m	
+6	européen	européen	ADJ	ADJ	n=s|g=m	
+7	en	en	P	P		
+8	avril	avril	NC	NC	n=s|g=m	
+9	1944	1944	NC	NC		
+10	[	[	PONCT	PONCT		
+11	r	_	NC	NC		
+12	]	]	PONCT	PONCT		
+13	,	,	PONCT	PONCT		
+14	chantant	chanter	VPR	VPR	t=G	
+15	pour	pour	P	P		
+16	les	les	DET	DET	n=p	
+17	troupes	troupe	NC	NC	n=p|g=f	
+18	américaines	américain	ADJ	ADJ	n=p|g=f	
+19	et	et	CC	CC		
+20	britanniques	britannique	ADJ	ADJ	n=p	
+21	stationnées	stationner	VPP	VPP	n=p|g=f|t=K	
+22	au	à	P+D	P+D	n=s|g=m	
+23	Royaume	_	NPP	NPP		
+24	-	-	PONCT	PONCT		
+25	Uni	unir	VPP	VPP	n=s|g=m|t=K	
+26	,	,	PONCT	PONCT		
+27	avant	avant	P	P		
+28	d'	de	P	P		
+29	accompagner	accompagner	VINF	VINF	t=W	
+30	la	la	DET	DET	n=s|g=f	
+31	3e	_	ADJ	ADJ		
+32	armée	armée	NC	NC	n=s|g=f	
+33	américaine	américain	ADJ	ADJ	n=s|g=f	
+34	du	de	P+D	P+D	n=s|g=m	
+35	général	général	NC	NC	n=s|g=m	
+36	Patton	Patton	NPP	NPP	n=s|g=m	
+37	en	en	P	P		
+38	Italie	Italie	NPP	NPP	n=s|g=f	
+39	,	,	PONCT	PONCT		
+40	en	en	P	P		
+41	France	France	NPP	NPP	n=s|g=f,m	
+42	puis	puis	CC	CC		
+43	en	en	P	P		
+44	Allemagne	Allemagne	NPP	NPP	n=s|g=f	
+45	et	et	CC	CC		
+46	en	en	P	P		
+47	Tchécoslovaquie	_	NPP	NPP		
+48	pendant	pendant	P	P		
+49	la	la	DET	DET	n=s|g=f	
+50	campagne	campagne	NC	NC	n=s|g=f	
+51	de	de	P	P		
+52	libération	libération	NC	NC	n=s|g=f	
+53	[	[	PONCT	PONCT		
+54	31	31	NC	NC		
+55	]	]	PONCT	PONCT		
+56	,	,	PONCT	PONCT		
+57	donnant	donner	VPR	VPR	t=G	
+58	plus	plus	ADV	ADV		
+59	de	de	P	P		
+60	60	60	ADJ	ADJ		
+61	concerts	concert	NC	NC	n=p|g=m	
+62	en	en	P	P		
+63	quinze	quinze	DET	DET	s=card|n=p	
+64	mois	mois	NC	NC	g=m	
+65	.	.	PONCT	PONCT		
+
+1	Son	son	DET	DET	n=s|g=m|p=3|poss=s	
+2	interprétation	interprétation	NC	NC	n=s|g=f	
+3	de	de	P	P		
+4	Lili	Lili	NPP	NPP	n=s|g=f	
+5	Marleen	_	NPP	NPP		
+6	,	,	PONCT	PONCT		
+7	chanson	chanson	NC	NC	n=s|g=f	
+8	popularisée	populariser	VPP	VPP	n=s|g=f|t=K	
+9	par	par	P	P		
+10	le	le	DET	DET	n=s|g=m	
+11	régime	régime	NC	NC	n=s|g=m	
+12	nazi	nazi	ADJ	ADJ	n=s|g=m	
+13	,	,	PONCT	PONCT		
+14	devient	devenir	V	V	n=s|t=P|p=3	
+15	l'	le	DET	DET	n=s	
+16	emblème	emblème	NC	NC	n=s|g=m	
+17	de	de	P	P		
+18	la	la	DET	DET	n=s|g=f	
+19	résistance	résistance	NC	NC	n=s|g=f	
+20	à	à	P	P		
+21	celui	celui	PRO	PRO	n=s|g=m	
+22	-	-	PONCT	PONCT		
+23	ci	_	NPP	NPP		
+24	[	[	PONCT	PONCT		
+25	32	32	NC	NC		
+26	]	]	PONCT	PONCT		
+27	.	.	PONCT	PONCT		
+
+1	Marlene	Marlene	NPP	NPP	n=s|g=f	
+2	Dietrich	Dietrich	NPP	NPP	n=s|g=m	
+3	avec	avec	P	P		
+4	les	les	DET	DET	n=p	
+5	hommes	homme	NC	NC	n=p|g=m	
+6	du	de	P+D	P+D	n=s|g=m	
+7	401st	_	NC	NC		
+8	Bomb	_	NPP	NPP		
+9	Group	_	NPP	NPP		
+10	sur	sur	P	P		
+11	la	la	DET	DET	n=s|g=f	
+12	base	base	NC	NC	n=s|g=f	
+13	de	de	P	P		
+14	la	la	DET	DET	n=s|g=f	
+15	8th	_	NPP	NPP		
+16	Air	_	NPP	NPP		
+17	Force	Force	NPP	NPP	n=s|g=m	
+18	à	à	P	P		
+19	Birmingham	Birmingham	NPP	NPP	n=s|g=m	
+20	,	,	PONCT	PONCT		
+21	Angleterre	Angleterre	NPP	NPP	n=s|g=f	
+22	,	,	PONCT	PONCT		
+23	le	le	DET	DET	n=s|g=m	
+24	29	29	ADJ	ADJ		
+25	septembre	septembre	NC	NC	n=s|g=m	
+26	1944	1944	NC	NC		
+27	.	.	PONCT	PONCT		
+
+1	Marlene	Marlene	NPP	NPP	n=s|g=f	
+2	Dietrich	Dietrich	NPP	NPP	n=s|g=m	
+3	visitant	visiter	VPR	VPR	t=G	
+4	les	les	DET	DET	n=p	
+5	soldats	soldat	NC	NC	n=p|g=m	
+6	de	de	P	P		
+7	l'	le	DET	DET	n=s	
+8	United	_	NPP	NPP		
+9	States	_	NPP	NPP		
+10	hospital	_	NPP	NPP		
+11	en	en	P	P		
+12	Belgique	Belgique	NPP	NPP	n=s|g=f	
+13	,	,	PONCT	PONCT		
+14	le	le	DET	DET	n=s|g=m	
+15	24	24	ADJ	ADJ		
+16	novembre	novembre	NC	NC	n=s|g=m	
+17	1944	1944	NC	NC		
+18	.	.	PONCT	PONCT		
+
+1	Marlene	Marlene	NPP	NPP	n=s|g=f	
+2	Dietrich	Dietrich	NPP	NPP	n=s|g=m	
+3	sur	sur	P	P		
+4	le	le	DET	DET	n=s|g=m	
+5	front	front	NC	NC	n=s|g=m	
+6	de	de	P	P		
+7	Lorraine	Lorraine	NPP	NPP	n=s|g=f	
+8	avec	avec	P	P		
+9	la	la	DET	DET	n=s|g=f	
+10	3e	_	ADJ	ADJ		
+11	armée	armée	NC	NC	n=s|g=f	
+12	en	en	P	P		
+13	1944	1944	NC	NC		
+14	.	.	PONCT	PONCT		
+
+1	Cliquez	cliquer	V	V	n=p|t=P|p=2	
+2	sur	sur	P	P		
+3	une	une	DET	DET	n=s|g=f	
+4	vignette	vignette	NC	NC	n=s|g=f	
+5	pour	pour	P	P		
+6	l'	le	CLO	CLO	n=s|p=3	
+7	agrandir	agrandir	VINF	VINF	t=W	
+8	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	âge	âge	NC	NC	n=s|g=m	
+3	avançant	avancer	VPR	VPR	t=G	
+4	,	,	PONCT	PONCT		
+5	trouvant	trouver	VPR	VPR	t=G	
+6	moins	moins	ADV	ADV		
+7	de	de	P	P		
+8	rôles	rôle	NC	NC	n=p|g=m	
+9	à	à	P	P		
+10	Hollywood	_	NPP	NPP		
+11	,	,	PONCT	PONCT		
+12	elle	elle	CLS	CLS	n=s|g=f|p=3	
+13	retrouve	retrouver	V	V	n=s|t=P,S|p=1,3	
+14	,	,	PONCT	PONCT		
+15	à	à	P	P		
+16	la	la	DET	DET	n=s|g=f	
+17	libération	libération	NC	NC	n=s|g=f	
+18	de	de	P	P		
+19	Paris	Paris	NPP	NPP	n=s|g=m	
+20	,	,	PONCT	PONCT		
+21	Jean	Jean	NPP	NPP	n=s	
+22	Gabin	_	NPP	NPP		
+23	qui	qui	PROREL	PROREL	n=s	
+24	a	avoir	V	V	n=s|t=P|p=3	
+25	rejoint	rejoindre	VPP	VPP	n=s|g=m|t=K	
+26	la	la	DET	DET	n=s|g=f	
+27	2e	_	ADJ	ADJ		
+28	division	division	NC	NC	n=s|g=f	
+29	blindée	blinder	VPP	VPP	n=s|g=f|t=K	
+30	[	[	PONCT	PONCT		
+31	s	_	NC	NC		
+32	]	]	PONCT	PONCT		
+33	.	.	PONCT	PONCT		
+
+1	Un	un	DET	DET	n=s|g=m	
+2	mariage	mariage	NC	NC	n=s|g=m	
+3	entre	entre	P	P		
+4	eux	eux	PRO	PRO	n=p|g=m|p=3	
+5	semble	sembler	V	V	n=s|t=P,S|p=1,3	
+6	avoir	avoir	VINF	VINF	t=W	
+7	été	être	VPP	VPP	t=K	
+8	alors	alors	ADV	ADV		
+9	envisagé	envisager	VPP	VPP	n=s|g=m|t=K	
+10	[	[	PONCT	PONCT		
+11	f	_	NC	NC		
+12	]	]	PONCT	PONCT		
+13	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	refuse	refuser	V	V	n=s|t=P,S|p=1,3	
+3	le	le	DET	DET	n=s|g=m	
+4	scénario	scénario	NC	NC	n=s|g=m	
+5	des	de	P+D	P+D	n=p	
+6	Portes	Portes	NPP	NPP	n=s|g=m	
+7	de	de	P	P		
+8	la	la	DET	DET	n=s|g=f	
+9	nuit	nuit	NC	NC	n=s|g=f	
+10	de	de	P	P		
+11	Marcel	Marcel	NPP	NPP	n=s|g=m	
+12	Carné	_	NPP	NPP		
+13	,	,	PONCT	PONCT		
+14	ne	ne	ADV	ADV		
+15	souhaitant	souhaiter	VPR	VPR	t=G	
+16	pas	pas	ADV	ADV		
+17	interpréter	interpréter	VINF	VINF	t=W	
+18	la	la	DET	DET	n=s|g=f	
+19	fille	fille	NC	NC	n=s|g=f	
+20	d'	de	P	P		
+21	un	un	DET	DET	n=s|g=m	
+22	collaborateur	collaborateur	NC	NC	n=s|g=m	
+23	[	[	PONCT	PONCT		
+24	t	_	NC	NC		
+25	]	]	PONCT	PONCT		
+26	,	,	PONCT	PONCT		
+27	pour	pour	P	P		
+28	tourner	tourner	VINF	VINF	t=W	
+29	avec	avec	P	P		
+30	Gabin	_	NPP	NPP		
+31	Martin	Martin	NPP	NPP	n=s|g=m	
+32	Roumagnac	_	NPP	NPP		
+33	(	(	PONCT	PONCT		
+34	1946	1946	NC	NC		
+35	)	)	PONCT	PONCT		
+36	.	.	PONCT	PONCT		
+
+1	S'	se	CLR	CLR	n=p,s|p=3	
+2	il	il	CLS	CLS	n=s|g=m|p=3	
+3	reçoit	recevoir	V	V	n=s|t=P|p=3	
+4	un	un	DET	DET	n=s|g=m	
+5	succès	succès	NC	NC	g=m	
+6	en	en	P	P		
+7	salles	salle	NC	NC	n=p|g=f	
+8	,	,	PONCT	PONCT		
+9	le	le	DET	DET	n=s|g=m	
+10	film	film	NC	NC	n=s|g=m	
+11	n'	ne	ADV	ADV		
+12	est	être	V	V	n=s|t=P|p=3	
+13	pas	pas	ADV	ADV		
+14	apprécié	apprécier	VPP	VPP	n=s|g=m|t=K	
+15	par	par	P	P		
+16	la	la	DET	DET	n=s|g=f	
+17	critique	critique	NC	NC	n=s	
+18	française	français	ADJ	ADJ	n=s|g=f	
+19	[	[	PONCT	PONCT		
+20	33	33	NC	NC		
+21	]	]	PONCT	PONCT		
+22	.	.	PONCT	PONCT		
+
+1	Après	après	P	P		
+2	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+3	rupture	rupture	NC	NC	n=s|g=f	
+4	avec	avec	P	P		
+5	Gabin	_	NPP	NPP		
+6	,	,	PONCT	PONCT		
+7	elle	elle	CLS	CLS	n=s|g=f|p=3	
+8	rentre	rentrer	V	V	n=s|t=P,S|p=1,3	
+9	à	à	P	P		
+10	Hollywood	_	NPP	NPP		
+11	et	et	CC	CC		
+12	tourne	tourner	V	V	n=s|t=P,S|p=1,3	
+13	,	,	PONCT	PONCT		
+14	teinte	teinte	NC	NC	n=s|g=f	
+15	en	en	P	P		
+16	brune	brune	NC	NC	n=s|g=f	
+17	,	,	PONCT	PONCT		
+18	dans	dans	P	P		
+19	Les	_	NPP	NPP		
+20	Anneaux	_	NPP	NPP		
+21	d'	de	P	P		
+22	or	or	NC	NC	n=s|g=m	
+23	de	de	P	P		
+24	Mitchell	Mitchell	NPP	NPP	n=s|g=m	
+25	Leisen	_	NPP	NPP		
+26	,	,	PONCT	PONCT		
+27	puis	puis	CC	CC		
+28	dans	dans	P	P		
+29	La	_	NPP	NPP		
+30	Scandaleuse	_	NPP	NPP		
+31	de	de	P	P		
+32	Berlin	Berlin	NPP	NPP	n=s|g=f,m	
+33	de	de	P	P		
+34	Billy	Billy	NPP	NPP	n=s|g=m	
+35	Wilder	_	NPP	NPP		
+36	l'	le	DET	DET	n=s	
+37	année	année	NC	NC	n=s|g=f	
+38	suivante	suivant	ADJ	ADJ	n=s|g=f	
+39	,	,	PONCT	PONCT		
+40	même	même	ADV	ADV		
+41	si	si	CS	CS		
+42	elle	elle	CLS	CLS	n=s|g=f|p=3	
+43	met	mettre	V	V	n=s|t=P|p=3	
+44	du	du	DET	DET	n=s|g=m	
+45	temps	temps	NC	NC	g=m	
+46	à	à	P	P		
+47	accepter	accepter	VINF	VINF	t=W	
+48	le	le	DET	DET	n=s|g=m	
+49	rôle	rôle	NC	NC	n=s|g=m	
+50	,	,	PONCT	PONCT		
+51	étant	être	VPR	VPR	t=G	
+52	confrontée	confronter	VPP	VPP	n=s|g=f|t=K	
+53	au	à	P+D	P+D	n=s|g=m	
+54	même	même	ADJ	ADJ	n=s	
+55	problème	problème	NC	NC	n=s|g=m	
+56	que	que	CS	CS		
+57	pour	pour	P	P		
+58	Les	_	NPP	NPP		
+59	Portes	Portes	NPP	NPP	n=s|g=m	
+60	de	de	P	P		
+61	la	la	DET	DET	n=s|g=f	
+62	nuit	nuit	NC	NC	n=s|g=f	
+63	(	(	PONCT	PONCT		
+64	les	les	DET	DET	n=p	
+65	liens	lien	NC	NC	n=p|g=m	
+66	de	de	P	P		
+67	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+68	personnage	personnage	NC	NC	n=s|g=m	
+69	avec	avec	P	P		
+70	le	le	DET	DET	n=s|g=m	
+71	régime	régime	NC	NC	n=s|g=m	
+72	nazi	nazi	ADJ	ADJ	n=s|g=m	
+73	)	)	PONCT	PONCT		
+74	.	.	PONCT	PONCT		
+
+1	Devenue	devenir	VPP	VPP	n=s|g=f|t=K	
+2	la	la	DET	DET	n=s|g=f	
+3	même	même	ADJ	ADJ	n=s	
+4	année	année	NC	NC	n=s|g=f	
+5	"	"	PONCT	PONCT		
+6	la	la	DET	DET	n=s|g=f	
+7	grand	grand	ADJ	ADJ	n=s|g=m	
+8	-	-	PONCT	PONCT		
+9	mère	mère	NC	NC	n=s|g=f	
+10	la	la	DET	DET	n=s|g=f	
+11	plus	plus	ADV	ADV		
+12	fabuleuse	fabuleux	ADJ	ADJ	n=s|g=f	
+13	du	de	P+D	P+D	n=s|g=m	
+14	monde	monde	NC	NC	n=s|g=m	
+15	"	"	PONCT	PONCT		
+16	[	[	PONCT	PONCT		
+17	34	34	NC	NC		
+18	]	]	PONCT	PONCT		
+19	avec	avec	P	P		
+20	la	la	DET	DET	n=s|g=f	
+21	naissance	naissance	NC	NC	n=s|g=f	
+22	de	de	P	P		
+23	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+24	premier	premier	ADJ	ADJ	n=s|g=m	
+25	petit	petit	ADJ	ADJ	n=s|g=m	
+26	-	-	PONCT	PONCT		
+27	fils	fils	NC	NC	g=m	
+28	,	,	PONCT	PONCT		
+29	elle	elle	CLS	CLS	n=s|g=f|p=3	
+30	part	partir	V	V	n=s|t=P|p=3	
+31	en	en	P	P		
+32	1949	1949	NC	NC		
+33	à	à	P	P		
+34	Londres	Londres	NPP	NPP	n=s|g=m	
+35	tourner	_	I	I		
+36	Le	_	NC	NC		
+37	Grand	Grand	NPP	NPP	n=s|g=m	
+38	Alibi	_	NPP	NPP		
+39	sous	sous	P	P		
+40	la	la	DET	DET	n=s|g=f	
+41	direction	direction	NC	NC	n=s|g=f	
+42	d'	de	P	P		
+43	Alfred	Alfred	NPP	NPP	n=s|g=m	
+44	Hitchcock	_	NPP	NPP		
+45	.	.	PONCT	PONCT		
+
+1	Habillé	habiller	VPP	VPP	n=s|g=m|t=K	
+2	par	par	P	P		
+3	Dior	_	NPP	NPP		
+4	,	,	PONCT	PONCT		
+5	elle	elle	CLS	CLS	n=s|g=f|p=3	
+6	y	y	CLO	CLO		
+7	interprète	interpréter	V	V	n=s|t=P,S|p=1,3	
+8	La	_	NPP	NPP		
+9	Vie	_	NPP	NPP		
+10	en	en	P	P		
+11	rose	rose	NC	NC	n=s	
+12	,	,	PONCT	PONCT		
+13	que	que	PROREL	PROREL		
+14	lui	lui	CLO	CLO	n=s|p=3	
+15	a	avoir	V	V	n=s|t=P|p=3	
+16	"	"	PONCT	PONCT		
+17	prêtée	prêter	VPP	VPP	n=s|g=f|t=K	
+18	"	"	PONCT	PONCT		
+19	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+20	amie	amie	NC	NC	n=s|g=f	
+21	Édith	Édith	NPP	NPP	n=s|g=f	
+22	Piaf	_	NPP	NPP		
+23	[	[	PONCT	PONCT		
+24	u	_	NPP	NPP		
+25	]	]	PONCT	PONCT		
+26	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	1951	1951	NC	NC		
+3	,	,	PONCT	PONCT		
+4	elle	elle	CLS	CLS	n=s|g=f|p=3	
+5	joue	jouer	V	V	n=s|t=P,S|p=1,3	
+6	pour	pour	P	P		
+7	la	la	DET	DET	n=s|g=f	
+8	première	premier	ADJ	ADJ	n=s|g=f	
+9	fois	fois	NC	NC	g=f	
+10	pour	pour	P	P		
+11	Fritz	Fritz	NPP	NPP	n=s|g=m	
+12	Lang	_	NPP	NPP		
+13	dans	dans	P	P		
+14	le	le	DET	DET	n=s|g=m	
+15	western	western	NC	NC	n=s|g=m	
+16	L'	le	DET	DET	n=s	
+17	Ange	Ange	NPP	NPP	n=s|g=m	
+18	des	de	P+D	P+D	n=p	
+19	maudits	maudire	ADJ	ADJ	n=p|g=m|t=K	
+20	mais	mais	CC	CC		
+21	,	,	PONCT	PONCT		
+22	tout	tout	ADV	ADV		
+23	comme	comme	P	P		
+24	avec	avec	P	P		
+25	Sternberg	_	NPP	NPP		
+26	quelques	quelques	DET	DET	n=p	
+27	années	année	NC	NC	n=p|g=f	
+28	plus	plus	ADV	ADV		
+29	tôt	tôt	ADV	ADV		
+30	,	,	PONCT	PONCT		
+31	la	la	DET	DET	n=s|g=f	
+32	collaboration	collaboration	NC	NC	n=s|g=f	
+33	entre	entre	P	P		
+34	le	le	DET	DET	n=s|g=m	
+35	réalisateur	réalisateur	NC	NC	n=s|g=m	
+36	et	et	CC	CC		
+37	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+38	vedette	vedette	NC	NC	n=s|g=f	
+39	,	,	PONCT	PONCT		
+40	également	_	ADV	ADV		
+41	compatriotes	compatriote	NC	NC	n=p	
+42	,	,	PONCT	PONCT		
+43	est	être	V	V	n=s|t=P|p=3	
+44	houleuse	houleux	ADJ	ADJ	n=s|g=f	
+45	[	[	PONCT	PONCT		
+46	v	_	NPP	NPP		
+47	]	]	PONCT	PONCT		
+48	,	,	PONCT	PONCT		
+49	le	le	DET	DET	n=s|g=m	
+50	premier	premier	ADJ	ADJ	n=s|g=m	
+51	traitant	traiter	VPR	VPR	t=G	
+52	l'	le	DET	DET	n=s	
+53	actrice	acteur	NC	NC	n=s|g=f	
+54	de	de	P	P		
+55	"	"	PONCT	PONCT		
+56	bonniche	bonniche	NC	NC	n=s|g=f	
+57	allemande	allemand	ADJ	ADJ	n=s|g=f	
+58	"	"	PONCT	PONCT		
+59	[	[	PONCT	PONCT		
+60	w	_	NPP	NPP		
+61	]	]	PONCT	PONCT		
+62	,	,	PONCT	PONCT		
+63	la	la	DET	DET	n=s|g=f	
+64	seconde	second	ADJ	ADJ	n=s|g=f	
+65	estimant	estimer	VPR	VPR	t=G	
+66	qu'	que	CS	CS		
+67	"	"	PONCT	PONCT		
+68	un	un	DET	DET	n=s|g=m	
+69	homme	homme	NC	NC	n=s|g=m	
+70	qui	qui	PROREL	PROREL	n=s	
+71	est	être	V	V	n=s|t=P|p=3	
+72	capable	capable	ADJ	ADJ	n=s	
+73	de	de	P	P		
+74	faire	faire	VINF	VINF	t=W	
+75	un	un	DET	DET	n=s|g=m	
+76	film	film	NC	NC	n=s|g=m	
+77	comme	comme	P	P		
+78	M	_	NPP	NPP		
+79	le	le	DET	DET	n=s|g=m	
+80	maudit	maudit	NC	NC	n=s|g=m	
+81	ne	ne	ADV	ADV		
+82	peut	pouvoir	V	V	n=s|t=P|p=3	
+83	être	être	VINF	VINF	t=W	
+84	qu'	que	CS	CS		
+85	un	un	DET	DET	n=s|g=m	
+86	sadique	sadique	ADJ	ADJ	n=s	
+87	.	.	PONCT	PONCT		
+
+1	"	"	PONCT	PONCT		
+2	[	[	PONCT	PONCT		
+3	35	35	NC	NC		
+4	]	]	PONCT	PONCT		
+5	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	parallèle	parallèle	NC	NC	n=s	
+3	de	de	P	P		
+4	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+5	carrière	carrière	NC	NC	n=s|g=f	
+6	au	à	P+D	P+D	n=s|g=m	
+7	cinéma	cinéma	NC	NC	n=s|g=m	
+8	,	,	PONCT	PONCT		
+9	Dietrich	Dietrich	NPP	NPP	n=s|g=m	
+10	participe	participer	V	V	n=s|t=P,S|p=1,3	
+11	aux	à	P+D	P+D	n=p	
+12	émissions	émission	NC	NC	n=p|g=f	
+13	radiophoniques	radiophonique	ADJ	ADJ	n=p	
+14	de	de	P	P		
+15	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+16	amie	amie	NC	NC	n=s|g=f	
+17	Tallulah	Tallulah	NPP	NPP	n=s|g=f	
+18	Bankhead	_	NPP	NPP		
+19	[	[	PONCT	PONCT		
+20	x	_	NPP	NPP		
+21	]	]	PONCT	PONCT		
+22	,	,	PONCT	PONCT		
+23	jouant	jouer	VPR	VPR	t=G	
+24	avec	avec	P	P		
+25	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+26	image	image	NC	NC	n=s|g=f	
+27	,	,	PONCT	PONCT		
+28	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+29	âge	âge	NC	NC	n=s|g=m	
+30	,	,	PONCT	PONCT		
+31	et	et	CC	CC		
+32	multipliant	multiplier	VPR	VPR	t=G	
+33	les	les	DET	DET	n=p	
+34	sous	sou	NC	NC	n=p|g=m	
+35	-	-	PONCT	PONCT		
+36	entendus	entendre	VPP	VPP	n=p|g=m|t=K	
+37	[	[	PONCT	PONCT		
+38	36	36	NC	NC		
+39	]	]	PONCT	PONCT		
+40	.	.	PONCT	PONCT		
+
+1	Loin	loin	ADV	ADV		
+2	de	de	P	P		
+3	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+4	image	image	NC	NC	n=s|g=f	
+5	de	de	P	P		
+6	vamp	vamp	NC	NC	n=s|g=f	
+7	mythique	mythique	ADJ	ADJ	n=s	
+8	,	,	PONCT	PONCT		
+9	l'	le	DET	DET	n=s	
+10	actrice	acteur	NC	NC	n=s|g=f	
+11	révèle	révéler	V	V	n=s|t=P,S|p=1,3	
+12	également	_	ADV	ADV		
+13	un	un	DET	DET	n=s|g=m	
+14	réel	réel	ADJ	ADJ	n=s|g=m	
+15	talent	talent	NC	NC	n=s|g=m	
+16	de	de	P	P		
+17	cuisinière	cuisinière	NC	NC	n=s|g=f	
+18	comme	comme	P	P		
+19	le	le	DET	DET	n=s|g=m	
+20	montre	montre	NC	NC	n=s|g=f	
+21	le	le	DET	DET	n=s|g=m	
+22	livre	livre	NC	NC	n=s	
+23	Dîner	_	NPP	NPP		
+24	chez	chez	P	P		
+25	Marlene	Marlene	NPP	NPP	n=s|g=f	
+26	.	.	PONCT	PONCT		
+
+1	Passionnée	passionner	VPP	VPP	n=s|g=f|t=K	
+2	par	par	P	P		
+3	la	la	DET	DET	n=s|g=f	
+4	cuisine	cuisine	NC	NC	n=s|g=f	
+5	,	,	PONCT	PONCT		
+6	elle	elle	CLS	CLS	n=s|g=f|p=3	
+7	adore	adorer	V	V	n=s|t=P,S|p=1,3	
+8	concocter	concocter	VINF	VINF	t=W	
+9	pour	pour	P	P		
+10	ses	ses	DET	DET	n=p|p=3|poss=s	
+11	amis	ami	NC	NC	n=p|g=m	
+12	ou	ou	CC	CC		
+13	amants	amant	NC	NC	n=p|g=m	
+14	le	le	DET	DET	n=s|g=m	
+15	chou	chou	NC	NC	n=s|g=m	
+16	farci	farci	ADJ	ADJ	n=s|g=m|t=K	
+17	,	,	PONCT	PONCT		
+18	les	les	DET	DET	n=p	
+19	œufs	_	NC	NC		
+20	brouillés	brouiller	ADJ	ADJ	n=p|g=m|t=K	
+21	,	,	PONCT	PONCT		
+22	le	le	DET	DET	n=s|g=m	
+23	rognon	rognon	NC	NC	n=s|g=m	
+24	braisé	braiser	VPP	VPP	n=s|g=m|t=K	
+25	ou	ou	CC	CC		
+26	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+27	plat	plat	NC	NC	n=s|g=m	
+28	fétiche	fétiche	ADJ	ADJ	n=s	
+29	le	le	DET	DET	n=s|g=m	
+30	pot	pot	NC	NC	n=s|g=m	
+31	-	-	PONCT	PONCT		
+32	au	à	P+D	P+D	n=s|g=m	
+33	-	-	PONCT	PONCT		
+34	feu	feu	NC	NC	n=s|g=m	
+35	.	.	PONCT	PONCT		
+
+1	Témoin	témoin	NC	NC	n=s|g=m	
+2	du	de	P+D	P+D	n=s|g=m	
+3	mariage	mariage	NC	NC	n=s|g=m	
+4	de	de	P	P		
+5	Piaf	_	NPP	NPP		
+6	avec	avec	P	P		
+7	Jacques	Jacques	NPP	NPP	n=s|g=m	
+8	Pills	_	NPP	NPP		
+9	en	en	P	P		
+10	juillet	juillet	NC	NC	n=s|g=m	
+11	1952	1952	NC	NC		
+12	,	,	PONCT	PONCT		
+13	elle	elle	CLS	CLS	n=s|g=f|p=3	
+14	fait	faire	V	V	n=s|t=P|p=3	
+15	une	une	DET	DET	n=s|g=f	
+16	apparition	apparition	NC	NC	n=s|g=f	
+17	remarquée	remarquer	VPP	VPP	n=s|g=f|t=K	
+18	en	en	P	P		
+19	décembre	décembre	NC	NC	n=s|g=m	
+20	suivant	suivant	ADJ	ADJ	n=s|g=m	
+21	dans	dans	P	P		
+22	un	un	DET	DET	n=s|g=m	
+23	gala	gala	NC	NC	n=s|g=m	
+24	au	à	P+D	P+D	n=s|g=m	
+25	profit	profit	NC	NC	n=s|g=m	
+26	des	de	P+D	P+D	n=p	
+27	enfants	enfant	NC	NC	n=p	
+28	handicapés	handicaper	VPP	VPP	n=p|g=m|t=K	
+29	,	,	PONCT	PONCT		
+30	vêtue	vêtir	VPP	VPP	n=s|g=f|t=K	
+31	de	de	P	P		
+32	l'	le	DET	DET	n=s	
+33	uniforme	uniforme	NC	NC	n=s|g=m	
+34	de	de	P	P		
+35	Monsieur	Monsieur	NC	NC	n=s|g=m	
+36	Loyal	_	NPP	NPP		
+37	.	.	PONCT	PONCT		
+
+1	Cette	cette	DET	DET	n=s|g=f	
+2	prestation	prestation	NC	NC	n=s|g=f	
+3	lui	lui	CLO	CLO	n=s|p=3	
+4	sert	servir	V	V	n=s|t=P|p=3	
+5	de	de	P	P		
+6	tremplin	tremplin	NC	NC	n=s|g=m	
+7	pour	pour	P	P		
+8	monter	monter	VINF	VINF	t=W	
+9	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+10	propre	propre	ADJ	ADJ	n=s	
+11	spectacle	spectacle	NC	NC	n=s|g=m	
+12	de	de	P	P		
+13	cabaret	cabaret	NC	NC	n=s|g=m	
+14	à	à	P	P		
+15	Las	_	NPP	NPP		
+16	Vegas	_	NPP	NPP		
+17	.	.	PONCT	PONCT		
+
+1	Pour	pour	P	P		
+2	30_000	30_000	ADJ	ADJ		
+3	dollars	dollar	NC	NC	n=p|g=m	
+4	par	par	P	P		
+5	semaine	semaine	NC	NC	n=s|g=f	
+6	,	,	PONCT	PONCT		
+7	elle	elle	CLS	CLS	n=s|g=f|p=3	
+8	monte	monter	V	V	n=s|t=P,S|p=1,3	
+9	pour	pour	P	P		
+10	la	la	DET	DET	n=s|g=f	
+11	première	premier	ADJ	ADJ	n=s|g=f	
+12	fois	fois	NC	NC	g=f	
+13	le	le	DET	DET	n=s|g=m	
+14	15	15	ADJ	ADJ		
+15	décembre	décembre	NC	NC	n=s|g=m	
+16	1953	1953	NC	NC		
+17	sur	sur	P	P		
+18	la	la	DET	DET	n=s|g=f	
+19	scène	scène	NC	NC	n=s|g=f	
+20	du	de	P+D	P+D	n=s|g=m	
+21	night	_	ADJ	ADJ		
+22	club	club	NC	NC	n=s|g=m	
+23	du	de	P+D	P+D	n=s|g=m	
+24	Sahara	_	NPP	NPP		
+25	Hotel	_	NPP	NPP		
+26	[	[	PONCT	PONCT		
+27	37	37	NC	NC		
+28	]	]	PONCT	PONCT		
+29	,	,	PONCT	PONCT		
+30	vêtue	vêtir	VPP	VPP	n=s|g=f|t=K	
+31	d'	de	P	P		
+32	un	un	DET	DET	n=s|g=m	
+33	fourreau	fourreau	NC	NC	n=s|g=m	
+34	semé	semer	VPP	VPP	n=s|g=m|t=K	
+35	d'	de	P	P		
+36	étoiles	étoile	NC	NC	n=p|g=f	
+37	de	de	P	P		
+38	strass	strass	NC	NC	g=m	
+39	[	[	PONCT	PONCT		
+40	38	38	NC	NC		
+41	]	]	PONCT	PONCT		
+42	.	.	PONCT	PONCT		
+
+1	Accompagnée	accompagner	VPP	VPP	n=s|g=f|t=K	
+2	par	par	P	P		
+3	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+4	dernier	dernier	ADJ	ADJ	n=s|g=m	
+5	amant	amant	NC	NC	n=s|g=m	
+6	en	en	P	P		
+7	date	date	NC	NC	n=s|g=f	
+8	[	[	PONCT	PONCT		
+9	39	39	ADJ	ADJ		
+10	]	]	PONCT	PONCT		
+11	,	,	PONCT	PONCT		
+12	l'	le	DET	DET	n=s	
+13	arrangeur	arrangeur	NC	NC	n=s|g=m	
+14	Burt	Burt	NPP	NPP	n=s|g=m	
+15	Bacharach	_	NPP	NPP		
+16	,	,	PONCT	PONCT		
+17	Dietrich	Dietrich	NPP	NPP	n=s|g=m	
+18	transporte	transporter	V	V	n=s|t=P,S|p=1,3	
+19	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+20	tour	tour	NC	NC	n=s	
+21	de	de	P	P		
+22	chant	chant	NC	NC	n=s|g=m	
+23	sur	sur	P	P		
+24	les	les	DET	DET	n=p	
+25	scènes	scène	NC	NC	n=p|g=f	
+26	du	de	P+D	P+D	n=s|g=m	
+27	monde	monde	NC	NC	n=s|g=m	
+28	entier	entier	ADJ	ADJ	n=s|g=m	
+29	à	à	P	P		
+30	partir	partir	VINF	VINF	t=W	
+31	de	de	P	P		
+32	1960	1960	NC	NC		
+33	en	en	P	P		
+34	Europe	Europe	NPP	NPP	n=s|g=f	
+35	,	,	PONCT	PONCT		
+36	et	et	CC	CC		
+37	à	à	P	P		
+38	l'	le	DET	DET	n=s	
+39	été	été	NC	NC	n=s|g=m	
+40	en	en	P	P		
+41	Israël	Israël	NPP	NPP	n=s|g=m	
+42	où	où	PROREL	PROREL		
+43	elle	elle	CLS	CLS	n=s|g=f|p=3	
+44	chante	chanter	V	V	n=s|t=P,S|p=1,3	
+45	en	en	P	P		
+46	allemand	allemand	ADJ	ADJ	n=s|g=m	
+47	et	et	CC	CC		
+48	a	avoir	V	V	n=s|t=P|p=3	
+49	droit	droit	NC	NC	n=s|g=m	
+50	à	à	P	P		
+51	une	une	DET	DET	n=s|g=f	
+52	standing	standing	NC	NC	n=s|g=m	
+53	-	-	PONCT	PONCT		
+54	ovation	ovation	NC	NC	n=s|g=f	
+55	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	enregistre	enregistrer	V	V	n=s|t=P,S|p=1,3	
+3	en	en	P	P		
+4	hébreu	hébreu	NC	NC	n=s|g=m	
+5	la	la	DET	DET	n=s|g=f	
+6	chanson	chanson	NC	NC	n=s|g=f	
+7	Shir	Shir	NPP	NPP	n=s|g=f	
+8	Hatan	_	NPP	NPP		
+9	[	[	PONCT	PONCT		
+10	y	y	CLO	CLO		
+11	]	]	PONCT	PONCT		
+12	,	,	PONCT	PONCT		
+13	[	[	PONCT	PONCT		
+14	40	40	NC	NC		
+15	]	]	PONCT	PONCT		
+16	,	,	PONCT	PONCT		
+17	[	[	PONCT	PONCT		
+18	41	41	NC	NC		
+19	]	]	PONCT	PONCT		
+20	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+21	se	se	CLR	CLR	n=p,s|p=3	
+22	produit	produire	V	V	n=s|t=P|p=3	
+23	sur	sur	P	P		
+24	le	le	DET	DET	n=s|g=m	
+25	continent	continent	NC	NC	n=s|g=m	
+26	américain	américain	ADJ	ADJ	n=s|g=m	
+27	et	et	CC	CC		
+28	en	en	P	P		
+29	URSS	Union_des_Républiques_Socialistes_Soviétiques	NPP	NPP	n=s|g=f	
+30	en	en	P	P		
+31	1964	1964	NC	NC		
+32	.	.	PONCT	PONCT		
+
+1	Plusieurs	plusieurs	DET	DET	n=p	
+2	disques	disque	NC	NC	n=p|g=m	
+3	sont	être	V	V	n=p|t=P|p=3	
+4	les	les	DET	DET	n=p	
+5	témoins	témoin	NC	NC	n=p|g=m	
+6	de	de	P	P		
+7	cette	cette	DET	DET	n=s|g=f	
+8	tournée	tournée	NC	NC	n=s|g=f	
+9	:	:	PONCT	PONCT		
+10	Dietrich	Dietrich	NPP	NPP	n=s|g=m	
+11	in	_	V	V		
+12	Rio	Rio	NPP	NPP	n=s|g=m	
+13	(	(	PONCT	PONCT		
+14	1959	1959	NC	NC		
+15	)	)	PONCT	PONCT		
+16	,	,	PONCT	PONCT		
+17	Wiedersehen	_	NPP	NPP		
+18	mit	mettre	V	V	n=s|t=J|p=3	
+19	Marlene	Marlene	NPP	NPP	n=s|g=f	
+20	(	(	PONCT	PONCT		
+21	1960	1960	NC	NC		
+22	)	)	PONCT	PONCT		
+23	et	et	CC	CC		
+24	Marlene	Marlene	NPP	NPP	n=s|g=f	
+25	Dietrich	Dietrich	NPP	NPP	n=s|g=m	
+26	in	_	V	V		
+27	London	London	NPP	NPP	n=s	
+28	(	(	PONCT	PONCT		
+29	1964	1964	NC	NC		
+30	)	)	PONCT	PONCT		
+31	.	.	PONCT	PONCT		
+
+1	Dans	dans	P	P		
+2	Sag	_	NPP	NPP		
+3	mir	mir	NC	NC	n=s|g=m	
+4	,	,	PONCT	PONCT		
+5	wo	_	NPP	NPP		
+6	die	_	NPP	NPP		
+7	Blumen	_	NPP	NPP		
+8	sind	_	NPP	NPP		
+9	(	(	PONCT	PONCT		
+10	Dis	dire	V	V	n=s|t=J,P|p=1,2	
+11	-moi	moi	PRO	PRO	n=s|p=1	
+12	où	où	PROREL	PROREL		
+13	sont	être	V	V	n=p|t=P|p=3	
+14	les	les	DET	DET	n=p	
+15	fleurs	fleur	NC	NC	n=p|g=f	
+16	)	)	PONCT	PONCT		
+17	,	,	PONCT	PONCT		
+18	composée	composer	VPP	VPP	n=s|g=f|t=K	
+19	par	par	P	P		
+20	Pete	Pete	NPP	NPP	n=s|g=m	
+21	Seeger	_	NPP	NPP		
+22	et	et	CC	CC		
+23	traduite	traduire	VPP	VPP	n=s|g=f|t=K	
+24	en	en	P	P		
+25	allemand	allemand	NC	NC	n=s|g=m	
+26	par	par	P	P		
+27	Max	Max	NPP	NPP	n=s|g=m	
+28	Colpet	_	NPP	NPP		
+29	(	(	PONCT	PONCT		
+30	de	de	P	P		
+31	)	)	PONCT	PONCT		
+32	,	,	PONCT	PONCT		
+33	elle	elle	CLS	CLS	n=s|g=f|p=3	
+34	dénonce	dénoncer	V	V	n=s|t=P,S|p=1,3	
+35	la	la	DET	DET	n=s|g=f	
+36	guerre	guerre	NC	NC	n=s|g=f	
+37	froide	froid	ADJ	ADJ	n=s|g=f	
+38	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	1960	1960	NC	NC		
+3	,	,	PONCT	PONCT		
+4	elle	elle	CLS	CLS	n=s|g=f|p=3	
+5	fait	faire	V	V	n=s|t=P|p=3	
+6	une	une	DET	DET	n=s|g=f	
+7	tournée	tournée	NC	NC	n=s|g=f	
+8	triomphale	triomphal	ADJ	ADJ	n=s|g=f	
+9	en	en	P	P		
+10	Allemagne	Allemagne	NPP	NPP	n=s|g=f	
+11	,	,	PONCT	PONCT		
+12	est	être	V	V	n=s|t=P|p=3	
+13	acclamée	acclamer	VPP	VPP	n=s|g=f|t=K	
+14	à	à	P	P		
+15	Munich	Munich	NPP	NPP	n=s|g=m	
+16	et	et	CC	CC		
+17	Düsseldorf	Düsseldorf	NPP	NPP	n=s|g=m	
+18	(	(	PONCT	PONCT		
+19	mais	mais	CC	CC		
+20	dans	dans	P	P		
+21	cette	cette	DET	DET	n=s|g=f	
+22	dernière	dernier	ADJ	ADJ	n=s|g=f	
+23	ville	ville	NC	NC	n=s|g=f	
+24	,	,	PONCT	PONCT		
+25	au	à	P+D	P+D	n=s|g=m	
+26	moment	moment	NC	NC	n=s|g=m	
+27	où	où	PROREL	PROREL		
+28	elle	elle	CLS	CLS	n=s|g=f|p=3	
+29	sortait	sortir	V	V	n=s|t=I|p=3	
+30	de	de	P	P		
+31	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+32	hôtel	hôtel	NC	NC	n=s|g=m	
+33	,	,	PONCT	PONCT		
+34	une	une	DET	DET	n=s|g=f	
+35	jeune	jeune	ADJ	ADJ	n=s	
+36	fille	fille	NC	NC	n=s|g=f	
+37	parmi	parmi	P	P		
+38	la	la	DET	DET	n=s|g=f	
+39	foule	foule	NC	NC	n=s|g=f	
+40	lui	lui	CLO	CLO	n=s|p=3	
+41	crache	cracher	V	V	n=s|t=P,S|p=1,3	
+42	au	à	P+D	P+D	n=s|g=m	
+43	visage	visage	NC	NC	n=s|g=m	
+44	[	[	PONCT	PONCT		
+45	42	42	NC	NC		
+46	]	]	PONCT	PONCT		
+47	)	)	PONCT	PONCT		
+48	.	.	PONCT	PONCT		
+
+1	Seule	seul	ADJ	ADJ	n=s|g=f	
+2	la	la	DET	DET	n=s|g=f	
+3	France	France	NPP	NPP	n=s|g=f,m	
+4	lui	lui	CLO	CLO	n=s|p=3	
+5	réserve	réserver	V	V	n=s|t=P,S|p=1,3	
+6	un	un	DET	DET	n=s|g=m	
+7	accueil	accueil	NC	NC	n=s|g=m	
+8	mitigé	mitiger	ADJ	ADJ	n=s|g=m|t=K	
+9	,	,	PONCT	PONCT		
+10	au	à	P+D	P+D	n=s|g=m	
+11	grand	grand	ADJ	ADJ	n=s|g=m	
+12	dam	dam	NC	NC	n=s|g=m	
+13	de	de	P	P		
+14	cette	cette	DET	DET	n=s|g=f	
+15	francophile	francophile	NC	NC	n=s	
+16	[	[	PONCT	PONCT		
+17	43	43	NC	NC		
+18	]	]	PONCT	PONCT		
+19	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	1961	1961	NC	NC		
+3	,	,	PONCT	PONCT		
+4	convaincue	convaincre	VPP	VPP	n=s|g=f|t=K	
+5	que	que	CS	CS		
+6	le	le	DET	DET	n=s|g=m	
+7	national	national	ADJ	ADJ	n=s|g=m	
+8	-	-	PONCT	PONCT		
+9	socialisme	socialisme	NC	NC	n=s|g=m	
+10	n'	ne	ADV	ADV		
+11	était	être	V	V	n=s|t=I|p=3	
+12	pas	pas	ADV	ADV		
+13	encore	encore	ADV	ADV		
+14	mort	mort	ADJ	ADJ	n=s|g=m|t=K	
+15	et	et	CC	CC		
+16	que	que	CS	CS		
+17	le	le	DET	DET	n=s|g=m	
+18	peuple	peuple	NC	NC	n=s|g=m	
+19	allemand	allemand	ADJ	ADJ	n=s|g=m	
+20	était	être	V	V	n=s|t=I|p=3	
+21	responsable	responsable	ADJ	ADJ	n=s	
+22	de	de	P	P		
+23	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+24	prolifération	prolifération	NC	NC	n=s|g=f	
+25	[	[	PONCT	PONCT		
+26	44	44	NC	NC		
+27	]	]	PONCT	PONCT		
+28	,	,	PONCT	PONCT		
+29	elle	elle	CLS	CLS	n=s|g=f|p=3	
+30	accepte	accepter	V	V	n=s|t=P,S|p=1,3	
+31	de	de	P	P		
+32	jouer	jouer	VINF	VINF	t=W	
+33	dans	dans	P	P		
+34	Jugement	jugement	NC	NC	n=s|g=m	
+35	à	à	P	P		
+36	Nuremberg	_	NPP	NPP		
+37	,	,	PONCT	PONCT		
+38	film	film	NC	NC	n=s|g=m	
+39	de	de	P	P		
+40	Stanley	Stanley	NPP	NPP	n=s|g=m	
+41	Kramer	_	NPP	NPP		
+42	inspiré	inspirer	VPP	VPP	n=s|g=m|t=K	
+43	d'	de	P	P		
+44	un	un	PRO	PRO	n=s|g=m	
+45	des	de	P+D	P+D	n=p	
+46	procès	procès	NC	NC	g=m	
+47	de	de	P	P		
+48	Nuremberg	_	NPP	NPP		
+49	.	.	PONCT	PONCT		
+
+1	Lorsque	lorsque	CS	CS		
+2	Burt	Burt	NPP	NPP	n=s|g=m	
+3	Bacharach	_	NPP	NPP		
+4	la	la	CLO	CLO	n=s|g=f|p=3	
+5	quitte	_	ADJ	ADJ		
+6	en	en	P	P		
+7	1965	1965	NC	NC		
+8	,	,	PONCT	PONCT		
+9	elle	elle	CLS	CLS	n=s|g=f|p=3	
+10	songe	songer	V	V	n=s|t=P,S|p=1,3	
+11	dans	dans	P	P		
+12	un	un	DET	DET	n=s|g=m	
+13	premier	premier	ADJ	ADJ	n=s|g=m	
+14	temps	temps	NC	NC	g=m	
+15	à	à	P	P		
+16	abandonner	abandonner	VINF	VINF	t=W	
+17	les	les	DET	DET	n=p	
+18	récitals	récital	NC	NC	n=p|g=m	
+19	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	continue	continuer	V	V	n=s|t=P,S|p=1,3	
+3	pourtant	pourtant	ADV	ADV		
+4	et	et	CC	CC		
+5	triomphe	triomphe	NC	NC	n=s	
+6	à	à	P	P		
+7	Broadway	_	NPP	NPP		
+8	en	en	P	P		
+9	1967	1967	NC	NC		
+10	,	,	PONCT	PONCT		
+11	obtenant	obtenir	VPR	VPR	t=G	
+12	un	un	DET	DET	n=s|g=m	
+13	special	_	NC	NC		
+14	Tony	Tony	NPP	NPP	n=s|g=m	
+15	Award	_	NPP	NPP		
+16	pour	pour	P	P		
+17	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+18	prestation	prestation	NC	NC	n=s|g=f	
+19	l'	le	DET	DET	n=s	
+20	année	année	NC	NC	n=s|g=f	
+21	suivante	suivant	ADJ	ADJ	n=s|g=f	
+22	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	abus	abus	NC	NC	g=m	
+3	d'	de	P	P		
+4	alcool	alcool	NC	NC	n=s|g=m	
+5	va	aller	V	V	n=s|t=P|p=3	
+6	cependant	cependant	ADV	ADV		
+7	assombrir	assombrir	VINF	VINF	t=W	
+8	les	les	DET	DET	n=p	
+9	dernières	dernier	ADJ	ADJ	n=p|g=f	
+10	années	année	NC	NC	n=p|g=f	
+11	de	de	P	P		
+12	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+13	carrière	carrière	NC	NC	n=s|g=f	
+14	[	[	PONCT	PONCT		
+15	z	_	NC	NC		
+16	]	]	PONCT	PONCT		
+17	:	:	PONCT	PONCT		
+18	en	en	P	P		
+19	1973	1973	NC	NC		
+20	,	,	PONCT	PONCT		
+21	elle	elle	CLS	CLS	n=s|g=f|p=3	
+22	tombe	tomber	V	V	n=s|t=P,S|p=1,3	
+23	dans	dans	P	P		
+24	la	la	DET	DET	n=s|g=f	
+25	fosse	fosse	NC	NC	n=s|g=f	
+26	d'	de	P	P		
+27	orchestre	orchestre	NC	NC	n=s|g=m	
+28	lors	lors	ADV	ADV		
+29	d'	de	P	P		
+30	un	un	DET	DET	n=s|g=m	
+31	concert	concert	NC	NC	n=s|g=m	
+32	à	à	P	P		
+33	New	_	NPP	NPP		
+34	York	York	NPP	NPP	n=s|g=m	
+35	,	,	PONCT	PONCT		
+36	puis	_	ADV	ADV		
+37	fait	faire	V	V	n=s|t=P|p=3	
+38	une	une	DET	DET	n=s|g=f	
+39	seconde	second	ADJ	ADJ	n=s|g=f	
+40	chute	chute	NC	NC	n=s|g=f	
+41	juste	juste	ADV	ADV		
+42	avant	avant	P	P		
+43	d'	de	P	P		
+44	entrer	entrer	VINF	VINF	t=W	
+45	en	en	P	P		
+46	scène	scène	NC	NC	n=s|g=f	
+47	à	à	P	P		
+48	l'	le	DET	DET	n=s	
+49	opéra	opéra	NC	NC	n=s|g=m	
+50	de	de	P	P		
+51	Sydney	Sydney	NPP	NPP	n=s	
+52	,	,	PONCT	PONCT		
+53	le	le	DET	DET	n=s|g=m	
+54	29	29	ADJ	ADJ		
+55	septembre	septembre	NC	NC	n=s|g=m	
+56	1975	1975	NC	NC		
+57	,	,	PONCT	PONCT		
+58	se	se	CLR	CLR	n=p,s|p=3	
+59	fracturant	fracturer	VPR	VPR	t=G	
+60	le	le	DET	DET	n=s|g=m	
+61	col	col	NC	NC	n=s|g=m	
+62	du	de	P+D	P+D	n=s|g=m	
+63	fémur	fémur	NC	NC	n=s|g=m	
+64	[	[	PONCT	PONCT		
+65	45	45	NC	NC		
+66	]	]	PONCT	PONCT		
+67	,	,	PONCT	PONCT		
+68	[	[	PONCT	PONCT		
+69	aa	_	NPP	NPP		
+70	]	]	PONCT	PONCT		
+71	et	et	CC	CC		
+72	mettant	mettre	VPR	VPR	t=G	
+73	ainsi	ainsi	ADV	ADV		
+74	un	un	DET	DET	n=s|g=m	
+75	terme	terme	NC	NC	n=s|g=m	
+76	définitif	définitif	ADJ	ADJ	n=s|g=m	
+77	à	à	P	P		
+78	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+79	carrière	carrière	NC	NC	n=s|g=f	
+80	de	de	P	P		
+81	music	_	NC	NC		
+82	-	-	PONCT	PONCT		
+83	hall	hall	NC	NC	n=s|g=m	
+84	.	.	PONCT	PONCT		
+
+1	Après	après	P	P		
+2	une	une	DET	DET	n=s|g=f	
+3	dernière	dernier	ADJ	ADJ	n=s|g=f	
+4	apparition	apparition	NC	NC	n=s|g=f	
+5	au	à	P+D	P+D	n=s|g=m	
+6	cinéma	cinéma	NC	NC	n=s|g=m	
+7	en	en	P	P		
+8	1978	1978	NC	NC		
+9	,	,	PONCT	PONCT		
+10	après	après	P	P		
+11	dix-sept	dix-sept	DET	DET	s=card|n=p	
+12	ans	an	NC	NC	n=p|g=m	
+13	d'	de	P	P		
+14	absence	absence	NC	NC	n=s|g=f	
+15	,	,	PONCT	PONCT		
+16	dans	dans	P	P		
+17	C'	ce	DET	DET	n=s|g=m	
+18	est	être	V	V	n=s|t=P|p=3	
+19	mon	mon	DET	DET	n=s|g=m|p=1|poss=s	
+20	gigolo	gigolo	NC	NC	n=s|g=m	
+21	de	de	P	P		
+22	David	David	NPP	NPP	n=s|g=m	
+23	Hemmings	_	NPP	NPP		
+24	[	[	PONCT	PONCT		
+25	46	46	NC	NC		
+26	]	]	PONCT	PONCT		
+27	,	,	PONCT	PONCT		
+28	elle	elle	CLS	CLS	n=s|g=f|p=3	
+29	se	se	CLR	CLR	n=p,s|p=3	
+30	cloître	cloître	NC	NC	n=s|g=m	
+31	dans	dans	P	P		
+32	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+33	appartement	appartement	NC	NC	n=s|g=m	
+34	parisien	parisien	ADJ	ADJ	n=s|g=m	
+35	du	de	P+D	P+D	n=s|g=m	
+36	12	12	ADJ	ADJ		
+37	avenue	avenue	NC	NC	n=s|g=f	
+38	Montaigne	_	NPP	NPP		
+39	,	,	PONCT	PONCT		
+40	fréquentant	fréquenter	VPR	VPR	t=G	
+41	peu	peu	ADV	ADV		
+42	de	de	P	P		
+43	gens	gens	NC	NC	n=p|g=m	
+44	en	en	P	P		
+45	dehors	dehors	NC	NC	g=m	
+46	de	de	P	P		
+47	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+48	fille	fille	NC	NC	n=s|g=f	
+49	et	et	CC	CC		
+50	de	de	P	P		
+51	quelques	quelques	DET	DET	n=p	
+52	amis	ami	NC	NC	n=p|g=m	
+53	fidèles	fidèle	ADJ	ADJ	n=p	
+54	,	,	PONCT	PONCT		
+55	car	car	CS	CS		
+56	"	"	PONCT	PONCT		
+57	Marlene	Marlene	NPP	NPP	n=s|g=f	
+58	n'	ne	ADV	ADV		
+59	est	être	V	V	n=s|t=P|p=3	
+60	pas	pas	ADV	ADV		
+61	facile	facile	ADJ	ADJ	n=s	
+62	à	à	P	P		
+63	vivre	vivre	VINF	VINF	t=W	
+64	au	à	P+D	P+D	n=s|g=m	
+65	quotidien	quotidien	NC	NC	n=s|g=m	
+66	[	[	PONCT	PONCT		
+67	47	47	NC	NC		
+68	]	]	PONCT	PONCT		
+69	.	.	PONCT	PONCT		
+70	"	"	PONCT	PONCT		
+
+1	Parmi	parmi	P	P		
+2	ceux	ceux	PRO	PRO	n=p|g=m	
+3	qui	qui	PROREL	PROREL	n=s	
+4	la	la	CLO	CLO	n=s|g=f|p=3	
+5	côtoient	côtoyer	V	V	n=p|t=P,S|p=3	
+6	car	car	CS	CS		
+7	ils	ils	CLS	CLS	n=p|g=m|p=3	
+8	ont	avoir	V	V	n=p|t=P|p=3	
+9	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+10	confiance	confiance	NC	NC	n=s|g=f	
+11	totale	total	ADJ	ADJ	n=s|g=f	
+12	,	,	PONCT	PONCT		
+13	outre	outre	P	P		
+14	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+15	fille	fille	NC	NC	n=s|g=f	
+16	,	,	PONCT	PONCT		
+17	on	on	CLS	CLS	n=s|p=3	
+18	compte	compter	V	V	n=s|t=P,S|p=1,3	
+19	l'	le	DET	DET	n=s	
+20	animateur	animateur	NC	NC	n=s|g=m	
+21	de	de	P	P		
+22	radio	radio	NC	NC	n=s	
+23	Louis	Louis	NPP	NPP	n=s|g=m	
+24	Bozon	_	NPP	NPP		
+25	,	,	PONCT	PONCT		
+26	le	le	DET	DET	n=s|g=m	
+27	comédien	comédien	NC	NC	n=s|g=m	
+28	Sacha	Sacha	NPP	NPP	n=s	
+29	Briquet	_	NPP	NPP		
+30	,	,	PONCT	PONCT		
+31	et	et	CC	CC		
+32	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+33	secrétaire	secrétaire	NC	NC	n=s	
+34	Norma	Norma	NPP	NPP	n=s|g=f	
+35	Bosquet	_	NPP	NPP		
+36	,	,	PONCT	PONCT		
+37	femme	femme	NC	NC	n=s|g=f	
+38	de	de	P	P		
+39	l'	le	DET	DET	n=s	
+40	écrivain	écrivain	NC	NC	n=s|g=m	
+41	Alain	Alain	NPP	NPP	n=s|g=m	
+42	Bosquet	_	NPP	NPP		
+43	[	[	PONCT	PONCT		
+44	ab	_	NPP	NPP		
+45	]	]	PONCT	PONCT		
+46	.	.	PONCT	PONCT		
+
+1	À	à	P	P		
+2	partir	partir	VINF	VINF	t=W	
+3	de	de	P	P		
+4	1980	1980	NC	NC		
+5	,	,	PONCT	PONCT		
+6	elle	elle	CLS	CLS	n=s|g=f|p=3	
+7	ne	ne	ADV	ADV		
+8	quitte	quitter	V	V	n=s|t=P,S|p=1,3	
+9	plus	plus	ADV	ADV		
+10	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+11	appartement	appartement	NC	NC	n=s|g=m	
+12	et	et	CC	CC		
+13	installe	installer	V	V	n=s|t=P,S|p=1,3	
+14	le	le	DET	DET	n=s|g=m	
+15	téléphone	téléphone	NC	NC	n=s|g=m	
+16	près	près	ADV	ADV		
+17	de	de	P	P		
+18	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+19	lit	lit	NC	NC	n=s|g=m	
+20	[	[	PONCT	PONCT		
+21	réf	_	NC	NC		
+22	.	.	PONCT	PONCT		
+
+1	nécessaire	nécessaire	ADJ	ADJ	n=s	
+2	]	]	PONCT	PONCT		
+3	car	car	CS	CS		
+4	elle	elle	CLS	CLS	n=s|g=f|p=3	
+5	téléphone	téléphoner	V	V	n=s|t=P,S|p=1,3	
+6	à	à	P	P		
+7	peu	peu	ADV	ADV		
+8	de	de	P	P		
+9	gens	gens	NC	NC	n=p|g=m	
+10	mais	mais	CC	CC		
+11	beaucoup	beaucoup	PRO	PRO	n=p|g=f,m	
+12	et	et	CC	CC		
+13	à	à	P	P		
+14	toute	toute	DET	DET	n=s|g=f	
+15	heure	heure	NC	NC	n=s|g=f	
+16	.	.	PONCT	PONCT		
+
+1	Néanmoins	néanmoins	ADV	ADV		
+2	,	,	PONCT	PONCT		
+3	elle	elle	CLS	CLS	n=s|g=f|p=3	
+4	reste	rester	V	V	n=s|t=P,S|p=1,3	
+5	présente	présent	ADJ	ADJ	n=s|g=f	
+6	médiatiquement	_	ADV	ADV		
+7	:	:	PONCT	PONCT		
+
+1	Marlene	Marlene	NPP	NPP	n=s|g=f	
+2	Dietrich	Dietrich	NPP	NPP	n=s|g=m	
+3	meurt	mourir	V	V	n=s|t=P|p=3	
+4	à	à	P	P		
+5	Paris	Paris	NPP	NPP	n=s|g=m	
+6	le	le	DET	DET	n=s|g=m	
+7	6	6	ADJ	ADJ		
+8	mai	mai	NC	NC	n=s|g=m	
+9	1992	1992	NC	NC		
+10	[	[	PONCT	PONCT		
+11	51	51	NC	NC		
+12	]	]	PONCT	PONCT		
+13	.	.	PONCT	PONCT		
+
+1	Ses	ses	DET	DET	n=p|p=3|poss=s	
+2	obsèques	obsèque	NC	NC	n=p|g=f	
+3	ont	avoir	V	V	n=p|t=P|p=3	
+4	lieu	lieu	NC	NC	n=s|g=m	
+5	à	à	P	P		
+6	l'	le	DET	DET	n=s	
+7	église	église	NC	NC	n=s|g=f	
+8	de	de	P	P		
+9	la	la	DET	DET	n=s|g=f	
+10	Madeleine	Madeleine	NPP	NPP	n=s|g=f	
+11	.	.	PONCT	PONCT		
+
+1	Bien	bien	ADV	ADV		
+2	qu'	que	CS	CS		
+3	elle	elle	CLS	CLS	n=s|g=f|p=3	
+4	ait	avoir	VS	VS	n=s|t=S|p=3	
+5	toujours	toujours	ADV	ADV		
+6	eu	avoir	VPP	VPP	n=s|g=m|t=K	
+7	des	des	DET	DET	n=p	
+8	rapports	rapport	NC	NC	n=p|g=m	
+9	conflictuels	conflictuel	ADJ	ADJ	n=p|g=m	
+10	avec	avec	P	P		
+11	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+12	pays	pays	NC	NC	g=m	
+13	d'	de	P	P		
+14	origine	origine	NC	NC	n=s|g=f	
+15	,	,	PONCT	PONCT		
+16	Dietrich	Dietrich	NPP	NPP	n=s|g=m	
+17	se	se	CLR	CLR	n=p,s|p=3	
+18	sentait	sentir	V	V	n=s|t=I|p=3	
+19	berlinoise	berlinois	ADJ	ADJ	n=s|g=f	
+20	et	et	CC	CC		
+21	avait	avoir	V	V	n=s|t=I|p=3	
+22	décidé	décider	VPP	VPP	n=s|g=m|t=K	
+23	de	de	P	P		
+24	s'	se	CLR	CLR	n=p,s|p=3	
+25	y	y	CLO	CLO		
+26	faire	faire	VINF	VINF	t=W	
+27	inhumer	inhumer	VINF	VINF	t=W	
+28	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	est	être	V	V	n=s|t=P|p=3	
+3	ainsi	ainsi	ADV	ADV		
+4	enterrée	enterrer	VPP	VPP	n=s|g=f|t=K	
+5	non	non	ADV	ADV		
+6	loin	loin	ADV	ADV		
+7	de	de	P	P		
+8	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+9	mère	mère	NC	NC	n=s|g=f	
+10	dans	dans	P	P		
+11	le	le	DET	DET	n=s|g=m	
+12	petit	petit	ADJ	ADJ	n=s|g=m	
+13	cimetière	cimetière	NC	NC	n=s|g=m	
+14	(	(	PONCT	PONCT		
+15	III	_	NPP	NPP		
+16	.	.	PONCT	PONCT		
+
+1	Städtischer	_	NPP	NPP		
+2	Friedhof	_	NPP	NPP		
+3	)	)	PONCT	PONCT		
+4	de	de	P	P		
+5	Friedenau	_	NPP	NPP		
+6	,	,	PONCT	PONCT		
+7	dans	dans	P	P		
+8	l'	le	DET	DET	n=s	
+9	arrondissement	arrondissement	NC	NC	n=s|g=m	
+10	de	de	P	P		
+11	Schöneberg	_	NPP	NPP		
+12	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	1993	1993	NC	NC		
+3	,	,	PONCT	PONCT		
+4	le	le	DET	DET	n=s|g=m	
+5	sénateur	sénateur	NC	NC	n=s|g=m	
+6	berlinois	berlinois	ADJ	ADJ	g=m	
+7	chargé	charger	VPP	VPP	n=s|g=m|t=K	
+8	des	de	P+D	P+D	n=p	
+9	affaires	affaire	NC	NC	n=p|g=f	
+10	culturelles	culturel	ADJ	ADJ	n=p|g=f	
+11	,	,	PONCT	PONCT		
+12	Ulrich	Ulrich	NPP	NPP	n=s|g=m	
+13	Roloff	_	NPP	NPP		
+14	-	-	PONCT	PONCT		
+15	Momin	_	NPP	NPP		
+16	,	,	PONCT	PONCT		
+17	parvient	parvenir	V	V	n=s|t=P|p=3	
+18	à	à	P	P		
+19	faire	faire	VINF	VINF	t=W	
+20	racheter	racheter	VINF	VINF	t=W	
+21	,	,	PONCT	PONCT		
+22	grâce	grâce	NC	NC	n=s|g=f	
+23	à	à	P	P		
+24	l'	le	DET	DET	n=s	
+25	État	État	NC	NC	n=s|g=m	
+26	fédéral	fédéral	ADJ	ADJ	n=s|g=m	
+27	et	et	CC	CC		
+28	à	à	P	P		
+29	la	la	DET	DET	n=s|g=f	
+30	loterie	loterie	NC	NC	n=s|g=f	
+31	nationale	national	ADJ	ADJ	n=s|g=f	
+32	,	,	PONCT	PONCT		
+33	l'	le	DET	DET	n=s	
+34	ensemble	ensemble	NC	NC	n=s|g=m	
+35	des	de	P+D	P+D	n=p	
+36	biens	bien	NC	NC	n=p|g=m	
+37	de	de	P	P		
+38	l'	le	DET	DET	n=s	
+39	actrice	acteur	NC	NC	n=s|g=f	
+40	,	,	PONCT	PONCT		
+41	comptant	comptant	NC	NC	n=s|g=m	
+42	notamment	_	ADV	ADV		
+43	trois_mille	trois_mille	ADJ	ADJ		
+44	vêtements	vêtement	NC	NC	n=p|g=m	
+45	,	,	PONCT	PONCT		
+46	mille	mille	DET	DET	s=card|n=p	
+47	objets	objet	NC	NC	n=p|g=m	
+48	de	de	P	P		
+49	la	la	DET	DET	n=s|g=f	
+50	garde	garde	NC	NC	n=s	
+51	robe	rober	V	V	n=s|t=P,S|p=1,3	
+52	,	,	PONCT	PONCT		
+53	quelque	_	ADV	ADV		
+54	seize_mille_cinq_cents	seize_mille_cinq_cents	ADJ	ADJ		
+55	photographies	photographie	NC	NC	n=p|g=f	
+56	,	,	PONCT	PONCT		
+57	des	des	DET	DET	n=p	
+58	documents	document	NC	NC	n=p|g=m	
+59	écrits	écrire	VPP	VPP	n=p|g=m|t=K	
+60	(	(	PONCT	PONCT		
+61	correspondance	correspondance	NC	NC	n=s|g=f	
+62	,	,	PONCT	PONCT		
+63	papiers	papier	NC	NC	n=p|g=m	
+64	d'	de	P	P		
+65	état	état	NC	NC	n=s|g=m	
+66	civil	civil	ADJ	ADJ	n=s|g=m	
+67	,	,	PONCT	PONCT		
+68	partitions	partition	NC	NC	n=p|g=f	
+69	...	...	PONCT	PONCT		
+70	)	)	PONCT	PONCT		
+71	,	,	PONCT	PONCT		
+72	des	des	DET	DET	n=p	
+73	affiches	affiche	NC	NC	n=p|g=f	
+74	,	,	PONCT	PONCT		
+75	des	des	DET	DET	n=p	
+76	objets	objet	NC	NC	n=p|g=m	
+77	de	de	P	P		
+78	bagagerie	_	NC	NC		
+79	et	et	CC	CC		
+80	des	de	P+D	P+D	n=p	
+81	meubles	meuble	NC	NC	n=p|g=m	
+82	ayant	avoir	VPR	VPR	t=G	
+83	appartenu	appartenir	VPP	VPP	n=s|g=m|t=K	
+84	à	à	P	P		
+85	la	la	DET	DET	n=s|g=f	
+86	star	star	NC	NC	n=s|g=f	
+87	.	.	PONCT	PONCT		
+
+1	Cette	cette	DET	DET	n=s|g=f	
+2	collection	collection	NC	NC	n=s|g=f	
+3	,	,	PONCT	PONCT		
+4	la	la	DET	DET	n=s|g=f	
+5	plus	plus	ADV	ADV		
+6	grande	grand	ADJ	ADJ	n=s|g=f	
+7	au	à	P+D	P+D	n=s|g=m	
+8	monde	monde	NC	NC	n=s|g=m	
+9	pour	pour	P	P		
+10	des	des	DET	DET	n=p	
+11	archives	archive	NC	NC	n=p|g=f	
+12	cinématographiques	cinématographique	ADJ	ADJ	n=p	
+13	,	,	PONCT	PONCT		
+14	fait	faire	V	V	n=s|t=P|p=3	
+15	l'	le	DET	DET	n=s	
+16	objet	objet	NC	NC	n=s|g=m	
+17	d'	de	P	P		
+18	expositions	exposition	NC	NC	n=p|g=f	
+19	au	à	P+D	P+D	n=s|g=m	
+20	Filmmuseum	_	NPP	NPP		
+21	Berlin	Berlin	NPP	NPP	n=s|g=f,m	
+22	(	(	PONCT	PONCT		
+23	de	de	P	P		
+24	)	)	PONCT	PONCT		
+25	où	où	PROREL	PROREL		
+26	elle	elle	CLS	CLS	n=s|g=f|p=3	
+27	est	être	V	V	n=s|t=P|p=3	
+28	entreposée	entreposer	VPP	VPP	n=s|g=f|t=K	
+29	[	[	PONCT	PONCT		
+30	52	52	NC	NC		
+31	]	]	PONCT	PONCT		
+32	,	,	PONCT	PONCT		
+33	et	et	CC	CC		
+34	à	à	P	P		
+35	travers	travers	NC	NC	g=m	
+36	le	le	DET	DET	n=s|g=m	
+37	monde	monde	NC	NC	n=s|g=m	
+38	[	[	PONCT	PONCT		
+39	53	53	NC	NC		
+40	]	]	PONCT	PONCT		
+41	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	décembre	décembre	NC	NC	n=s|g=m	
+3	de	de	P	P		
+4	la	la	DET	DET	n=s|g=f	
+5	même	même	ADJ	ADJ	n=s	
+6	année	année	NC	NC	n=s|g=f	
+7	,	,	PONCT	PONCT		
+8	la	la	DET	DET	n=s|g=f	
+9	tombe	tombe	NC	NC	n=s|g=f	
+10	de	de	P	P		
+11	l'	le	DET	DET	n=s	
+12	actrice	acteur	NC	NC	n=s|g=f	
+13	est	être	V	V	n=s|t=P|p=3	
+14	profanée	profaner	VPP	VPP	n=s|g=f|t=K	
+15	par	par	P	P		
+16	des	des	DET	DET	n=p	
+17	néo	néo	NC	NC	n=s|g=m	
+18	-	-	PONCT	PONCT		
+19	nazis	nazi	NC	NC	n=p|g=m	
+20	qui	qui	PROREL	PROREL	n=s	
+21	n'	ne	ADV	ADV		
+22	acceptent	accepter	V	V	n=p|t=P,S|p=3	
+23	pas	pas	ADV	ADV		
+24	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+25	départ	départ	NC	NC	n=s|g=m	
+26	du	de	P+D	P+D	n=s|g=m	
+27	pays	pays	NC	NC	g=m	
+28	dans	dans	P	P		
+29	les	les	DET	DET	n=p	
+30	années	année	NC	NC	n=p|g=f	
+31	1930	1930	NC	NC		
+32	,	,	PONCT	PONCT		
+33	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+34	naturalisation	naturalisation	NC	NC	n=s|g=f	
+35	et	et	CC	CC		
+36	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+37	refus	refus	NC	NC	g=m	
+38	de	de	P	P		
+39	rentrer	rentrer	VINF	VINF	t=W	
+40	en	en	P	P		
+41	Allemagne	Allemagne	NPP	NPP	n=s|g=f	
+42	après	après	P	P		
+43	la	la	DET	DET	n=s|g=f	
+44	guerre	guerre	NC	NC	n=s|g=f	
+45	[	[	PONCT	PONCT		
+46	54	54	NC	NC		
+47	]	]	PONCT	PONCT		
+48	,	,	PONCT	PONCT		
+49	[	[	PONCT	PONCT		
+50	55	55	NC	NC		
+51	]	]	PONCT	PONCT		
+52	.	.	PONCT	PONCT		
+
+1	À	à	P	P		
+2	l'	le	DET	DET	n=s	
+3	occasion	occasion	NC	NC	n=s|g=f	
+4	du	de	P+D	P+D	n=s|g=m	
+5	centenaire	centenaire	NC	NC	n=s	
+6	de	de	P	P		
+7	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+8	naissance	naissance	NC	NC	n=s|g=f	
+9	,	,	PONCT	PONCT		
+10	le	le	DET	DET	n=s|g=m	
+11	28	28	ADJ	ADJ		
+12	décembre	décembre	NC	NC	n=s|g=m	
+13	2001	2001	NC	NC		
+14	à	à	P	P		
+15	Berlin	Berlin	NPP	NPP	n=s|g=f,m	
+16	,	,	PONCT	PONCT		
+17	le	le	DET	DET	n=s|g=m	
+18	président	président	NC	NC	n=s|g=m	
+19	de	de	P	P		
+20	la	la	DET	DET	n=s|g=f	
+21	République	république	NC	NC	n=s|g=f	
+22	fédérale	fédéral	ADJ	ADJ	n=s|g=f	
+23	d'	de	P	P		
+24	Allemagne	Allemagne	NPP	NPP	n=s|g=f	
+25	,	,	PONCT	PONCT		
+26	Johannes	Johannes	NPP	NPP	n=s|g=m	
+27	Rau	_	NPP	NPP		
+28	,	,	PONCT	PONCT		
+29	lui	lui	CLO	CLO	n=s|p=3	
+30	rend	rendre	V	V	n=s|t=P|p=3	
+31	hommage	hommage	NC	NC	n=s|g=m	
+32	.	.	PONCT	PONCT		
+
+1	Cette	cette	DET	DET	n=s|g=f	
+2	cérémonie	cérémonie	NC	NC	n=s|g=f	
+3	s'	se	CLR	CLR	n=p,s|p=3	
+4	accompagne	accompagner	V	V	n=s|t=P,S|p=1,3	
+5	de	de	P	P		
+6	révélations	révélation	NC	NC	n=p|g=f	
+7	sur	sur	P	P		
+8	les	les	DET	DET	n=p	
+9	causes	cause	NC	NC	n=p|g=f	
+10	de	de	P	P		
+11	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+12	mort	mort	NC	NC	n=s|g=f,m	
+13	.	.	PONCT	PONCT		
+
+1	Selon	selon	P	P		
+2	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+3	confidente	confident	NC	NC	n=s|g=f	
+4	et	et	CC	CC		
+5	secrétaire	secrétaire	NC	NC	n=s	
+6	Norma	Norma	NPP	NPP	n=s|g=f	
+7	Bosquet	_	NPP	NPP		
+8	,	,	PONCT	PONCT		
+9	l'	le	DET	DET	n=s	
+10	actrice	acteur	NC	NC	n=s|g=f	
+11	se	se	CLR	CLR	n=p,s|p=3	
+12	serait	être	V	V	n=s|t=C|p=3	
+13	vraisemblablement	_	ADV	ADV		
+14	suicidée	suicider	VPP	VPP	n=s|g=f|t=K	
+15	après	après	P	P		
+16	lui	lui	CLO	CLO	n=s|p=3	
+17	avoir	avoir	VINF	VINF	t=W	
+18	demandé	demander	VPP	VPP	n=s|g=m|t=K	
+19	de	de	P	P		
+20	lui	lui	CLO	CLO	n=s|p=3	
+21	fournir	fournir	VINF	VINF	t=W	
+22	des	des	DET	DET	n=p	
+23	somnifères	somnifère	NC	NC	n=p|g=m	
+24	[	[	PONCT	PONCT		
+25	56	56	NC	NC		
+26	]	]	PONCT	PONCT		
+27	.	.	PONCT	PONCT		
+
+1	Tombe	tomber	V	V	n=s|t=P,S|p=1,3	
+2	de	de	P	P		
+3	Marlene	Marlene	NPP	NPP	n=s|g=f	
+4	Dietrich	Dietrich	NPP	NPP	n=s|g=m	
+5	à	à	P	P		
+6	Berlin	Berlin	NPP	NPP	n=s|g=f,m	
+7	.	.	PONCT	PONCT		
+
+1	Plaque	plaque	NC	NC	n=s|g=f	
+2	commémorative	commémoratif	ADJ	ADJ	n=s|g=f	
+3	sur	sur	P	P		
+4	la	la	DET	DET	n=s|g=f	
+5	maison	maison	NC	NC	n=s|g=f	
+6	natale	natal	ADJ	ADJ	n=s|g=f	
+7	de	de	P	P		
+8	Marlene	Marlene	NPP	NPP	n=s|g=f	
+9	Dietrich	Dietrich	NPP	NPP	n=s|g=m	
+10	.	.	PONCT	PONCT		
+
+1	Plaque	plaque	NC	NC	n=s|g=f	
+2	commémorative	commémoratif	ADJ	ADJ	n=s|g=f	
+3	sur	sur	P	P		
+4	la	la	DET	DET	n=s|g=f	
+5	maison	maison	NC	NC	n=s|g=f	
+6	natale	natal	ADJ	ADJ	n=s|g=f	
+7	de	de	P	P		
+8	Marlene	Marlene	NPP	NPP	n=s|g=f	
+9	Dietrich	Dietrich	NPP	NPP	n=s|g=m	
+10	.	.	PONCT	PONCT		
+
+1	Cliquez	cliquer	V	V	n=p|t=P|p=2	
+2	sur	sur	P	P		
+3	une	une	DET	DET	n=s|g=f	
+4	vignette	vignette	NC	NC	n=s|g=f	
+5	pour	pour	P	P		
+6	l'	le	CLO	CLO	n=s|p=3	
+7	agrandir	agrandir	VINF	VINF	t=W	
+8	.	.	PONCT	PONCT		
+
+1	Commencé	commencer	VPP	VPP	n=s|g=m|t=K	
+2	au	à	P+D	P+D	n=s|g=m	
+3	Sahara	_	NPP	NPP		
+4	Hotel	_	NPP	NPP		
+5	de	de	P	P		
+6	Las	_	NPP	NPP		
+7	Vegas	_	NPP	NPP		
+8	,	,	PONCT	PONCT		
+9	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+10	tour	tour	NC	NC	n=s	
+11	de	de	P	P		
+12	chant	chant	NC	NC	n=s|g=m	
+13	prend	prendre	V	V	n=s|t=P|p=3	
+14	très	très	ADV	ADV		
+15	vite	vite	ADV	ADV		
+16	une	une	DET	DET	n=s|g=f	
+17	dimension	dimension	NC	NC	n=s|g=f	
+18	internationale	international	ADJ	ADJ	n=s|g=f	
+19	avec	avec	P	P		
+20	des	des	DET	DET	n=p	
+21	concerts	concert	NC	NC	n=p|g=m	
+22	donnés	donner	VPP	VPP	n=p|g=m|t=K	
+23	en	en	P	P		
+24	Europe	Europe	NPP	NPP	n=s|g=f	
+25	,	,	PONCT	PONCT		
+26	en	en	P	P		
+27	Australie	Australie	NPP	NPP	n=s|g=f	
+28	,	,	PONCT	PONCT		
+29	au	à	P+D	P+D	n=s|g=m	
+30	Brésil	Brésil	NPP	NPP	n=s|g=m	
+31	,	,	PONCT	PONCT		
+32	au	à	P+D	P+D	n=s|g=m	
+33	Japon	Japon	NPP	NPP	n=s|g=m	
+34	,	,	PONCT	PONCT		
+35	en	en	P	P		
+36	Afrique	Afrique	NPP	NPP	n=s|g=f	
+37	du	de	P+D	P+D	n=s|g=m	
+38	Sud	_	NPP	NPP		
+39	ou	ou	CC	CC		
+40	encore	encore	ADV	ADV		
+41	au	à	P+D	P+D	n=s|g=m	
+42	Canada	Canada	NPP	NPP	n=s|g=m	
+43	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	rôle	rôle	NC	NC	n=s|g=m	
+3	de	de	P	P		
+4	l'	le	DET	DET	n=s	
+5	actrice	acteur	NC	NC	n=s|g=f	
+6	pendant	pendant	P	P		
+7	la	la	DET	DET	n=s|g=f	
+8	Seconde	_	NPP	NPP		
+9	Guerre	_	NPP	NPP		
+10	mondiale	mondial	ADJ	ADJ	n=s|g=f	
+11	confère	conférer	V	V	n=s|t=P,S|p=1,3	
+12	à	à	P	P		
+13	certaines	certain	PRO	PRO	n=p|g=f	
+14	de	de	P	P		
+15	ses	ses	DET	DET	n=p|p=3|poss=s	
+16	prestations	prestation	NC	NC	n=p|g=f	
+17	une	une	DET	DET	n=s|g=f	
+18	dimension	dimension	NC	NC	n=s|g=f	
+19	politique	politique	ADJ	ADJ	n=s	
+20	,	,	PONCT	PONCT		
+21	comme	comme	P	P		
+22	celles	celle	PRO	PRO	n=p|g=f	
+23	de	de	P	P		
+24	Berlin	Berlin	NPP	NPP	n=s|g=f,m	
+25	et	et	CC	CC		
+26	Jérusalem	Jérusalem	NPP	NPP	n=s|g=m	
+27	en	en	P	P		
+28	1960	1960	NC	NC		
+29	[	[	PONCT	PONCT		
+30	57	57	NC	NC		
+31	]	]	PONCT	PONCT		
+32	.	.	PONCT	PONCT		
+
+1	Sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+2	prestation	prestation	NC	NC	n=s|g=f	
+3	à	à	P	P		
+4	Broadway	_	NPP	NPP		
+5	en	en	P	P		
+6	1967	1967	NC	NC		
+7	lui	lui	CLO	CLO	n=s|p=3	
+8	vaut	valoir	V	V	n=s|t=P|p=3	
+9	un	un	DET	DET	n=s|g=m	
+10	Special	_	NC	NC		
+11	Tony	Tony	NPP	NPP	n=s|g=m	
+12	Award	_	NPP	NPP		
+13	pour	pour	P	P		
+14	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+15	one	_	NC	NC		
+16	-	-	PONCT	PONCT		
+17	woman	_	NPP	NPP		
+18	-	-	PONCT	PONCT		
+19	show	show	NC	NC	n=s|g=m	
+20	l'	le	DET	DET	n=s	
+21	année	année	NC	NC	n=s|g=f	
+22	suivante	suivant	ADJ	ADJ	n=s|g=f	
+23	[	[	PONCT	PONCT		
+24	58	58	NC	NC		
+25	]	]	PONCT	PONCT		
+26	,	,	PONCT	PONCT		
+27	elle	elle	PRO	PRO	n=s|g=f|p=3	
+28	qui	qui	PROREL	PROREL	n=s	
+29	ne	ne	ADV	ADV		
+30	reçut	recevoir	V	V	n=s|t=J|p=3	
+31	aucune	aucune	DET	DET	n=s|g=f	
+32	récompense	récompense	NC	NC	n=s|g=f	
+33	majeure	majeur	ADJ	ADJ	n=s|g=f	
+34	pour	pour	P	P		
+35	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+36	carrière	carrière	NC	NC	n=s|g=f	
+37	d'	de	P	P		
+38	actrice	acteur	NC	NC	n=s|g=f	
+39	en	en	P	P		
+40	apparence	apparence	NC	NC	n=s|g=f	
+41	plus	plus	ADV	ADV		
+42	intéressante	intéressant	ADJ	ADJ	n=s|g=f	
+43	.	.	PONCT	PONCT		
+
+1	Aux	à	P+D	P+D	n=p	
+2	dires	dire	NC	NC	n=p|g=m	
+3	de	de	P	P		
+4	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+5	fille	fille	NC	NC	n=s|g=f	
+6	Maria	Maria	NPP	NPP	n=s|g=f	
+7	Riva	_	NPP	NPP		
+8	,	,	PONCT	PONCT		
+9	Dietrich	Dietrich	NPP	NPP	n=s|g=m	
+10	était	être	V	V	n=s|t=I|p=3	
+11	sans	sans	P	P		
+12	cesse	cesser	VS	VS	n=s|t=P,S|p=1,3	
+13	à	à	P	P		
+14	court	court	ADJ	ADJ	n=s|g=m	
+15	d'	de	P	P		
+16	argent	argent	NC	NC	n=s|g=m	
+17	et	et	CC	CC		
+18	tourne	tourner	V	V	n=s|t=P,S|p=1,3	
+19	,	,	PONCT	PONCT		
+20	à	à	P	P		
+21	partir	partir	VINF	VINF	t=W	
+22	de	de	P	P		
+23	l'	le	DET	DET	n=s	
+24	après	après	P	P		
+25	-	-	PONCT	PONCT		
+26	guerre	guerre	NC	NC	n=s|g=f	
+27	,	,	PONCT	PONCT		
+28	une	une	DET	DET	n=s|g=f	
+29	bonne	bon	ADJ	ADJ	n=s|g=f	
+30	partie	partie	NC	NC	n=s|g=f	
+31	de	de	P	P		
+32	films	film	NC	NC	n=p|g=m	
+33	plus	plus	ADV	ADV		
+34	par	par	P	P		
+35	nécessité	nécessité	NC	NC	n=s|g=f	
+36	que	que	CS	CS		
+37	par	par	P	P		
+38	envie	envie	NC	NC	n=s|g=f	
+39	.	.	PONCT	PONCT		
+
+1	Néanmoins	néanmoins	ADV	ADV		
+2	,	,	PONCT	PONCT		
+3	le	le	DET	DET	n=s|g=m	
+4	tournage	tournage	NC	NC	n=s|g=m	
+5	de	de	P	P		
+6	Madame	Monsieur	NC	NC	n=s|g=f	
+7	veut	vouloir	V	V	n=s|t=P|p=3	
+8	un	un	DET	DET	n=s|g=m	
+9	bébé	bébé	NC	NC	n=s|g=m	
+10	en	en	P	P		
+11	1942	1942	NC	NC		
+12	,	,	PONCT	PONCT		
+13	de	de	P	P		
+14	Kismet	_	NPP	NPP		
+15	en	en	P	P		
+16	1944	1944	NC	NC		
+17	,	,	PONCT	PONCT		
+18	de	de	P	P		
+19	La	_	NPP	NPP		
+20	Scandaleuse	_	NPP	NPP		
+21	de	de	P	P		
+22	Berlin	Berlin	NPP	NPP	n=s|g=f,m	
+23	en	en	P	P		
+24	1948	1948	NC	NC		
+25	,	,	PONCT	PONCT		
+26	et	et	CC	CC		
+27	de	de	P	P		
+28	L'	le	DET	DET	n=s	
+29	Ange	Ange	NPP	NPP	n=s|g=m	
+30	des	de	P+D	P+D	n=p	
+31	maudits	maudit	NC	NC	n=p|g=m	
+32	en	en	P	P		
+33	1952	1952	NC	NC		
+34	vont	aller	V	V	n=p|t=P|p=3	
+35	lui	lui	CLO	CLO	n=s|p=3	
+36	permettre	permettre	VINF	VINF	t=W	
+37	de	de	P	P		
+38	prendre	prendre	VINF	VINF	t=W	
+39	conscience	conscience	NC	NC	n=s|g=f	
+40	de	de	P	P		
+41	certains	certain	PRO	PRO	n=p|g=m	
+42	de	de	P	P		
+43	ses	ses	DET	DET	n=p|p=3|poss=s	
+44	atouts	atout	NC	NC	n=p|g=m	
+45	en	en	P	P		
+46	dehors	dehors	NC	NC	g=m	
+47	de	de	P	P		
+48	l'	le	DET	DET	n=s	
+49	écran	écran	NC	NC	n=s|g=m	
+50	.	.	PONCT	PONCT		
+
+1	D'	de	P	P		
+2	une	une	DET	DET	n=s|g=f	
+3	façon	façon	NC	NC	n=s|g=f	
+4	sans	sans	P	P		
+5	doute	doute	NC	NC	n=s|g=m	
+6	inconsciente	inconscient	ADJ	ADJ	n=s|g=f	
+7	,	,	PONCT	PONCT		
+8	Marlene	Marlene	NPP	NPP	n=s|g=f	
+9	Dietrich	Dietrich	NPP	NPP	n=s|g=m	
+10	s'	se	CLR	CLR	n=p,s|p=3	
+11	inspire	inspirer	V	V	n=s|t=P,S|p=1,3	
+12	ou	ou	CC	CC		
+13	réutilise	réutiliser	V	V	n=s|t=P,S|p=1,3	
+14	en	en	P	P		
+15	les	les	CLO	CLO	n=p|p=3	
+16	modifiant	modifier	VPR	VPR	t=G	
+17	des	de	P+D	P+D	n=p	
+18	vêtements	vêtement	NC	NC	n=p|g=m	
+19	qu'	que	PROREL	PROREL		
+20	elle	elle	CLS	CLS	n=s|g=f|p=3	
+21	utilisait	utiliser	V	V	n=s|t=I|p=3	
+22	dans	dans	P	P		
+23	ses	ses	DET	DET	n=p|p=3|poss=s	
+24	films	film	NC	NC	n=p|g=m	
+25	[	[	PONCT	PONCT		
+26	ac	_	NC	NC		
+27	]	]	PONCT	PONCT		
+28	.	.	PONCT	PONCT		
+
+1	Dès	dès	P	P		
+2	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+3	premier	premier	ADJ	ADJ	n=s|g=m	
+4	show	show	NC	NC	n=s|g=m	
+5	en	en	P	P		
+6	1953	1953	NC	NC		
+7	,	,	PONCT	PONCT		
+8	Dietrich	Dietrich	NPP	NPP	n=s|g=m	
+9	divise	diviser	V	V	n=s|t=P,S|p=1,3	
+10	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+11	spectacle	spectacle	NC	NC	n=s|g=m	
+12	en	en	P	P		
+13	deux	deux	DET	DET	s=card|n=p	
+14	parties	partie	NC	NC	n=p|g=f	
+15	,	,	PONCT	PONCT		
+16	une	un	PRO	PRO	n=s|g=f	
+17	pour	pour	P	P		
+18	les	les	DET	DET	n=p	
+19	hommes	homme	NC	NC	n=p|g=m	
+20	,	,	PONCT	PONCT		
+21	d'	de	P	P		
+22	après	après	P	P		
+23	ses	ses	DET	DET	n=p|p=3|poss=s	
+24	propres	propre	ADJ	ADJ	n=p	
+25	dires	dire	NC	NC	n=p|g=m	
+26	,	,	PONCT	PONCT		
+27	l'	le	DET	DET	n=s	
+28	autre	autre	ADJ	ADJ	n=s	
+29	pour	pour	P	P		
+30	les	les	DET	DET	n=p	
+31	femmes	femme	NC	NC	n=p|g=f	
+32	[	[	PONCT	PONCT		
+33	ad	_	NC	NC		
+34	]	]	PONCT	PONCT		
+35	.	.	PONCT	PONCT		
+
+1	Avec	avec	P	P		
+2	ses	ses	DET	DET	n=p|p=3|poss=s	
+3	robes	robe	NC	NC	n=p|g=f	
+4	qui	qui	PROREL	PROREL	n=s	
+5	créent	créer	V	V	n=p|t=P,S|p=3	
+6	à	à	P	P		
+7	chaque	chaque	DET	DET	n=s	
+8	fois	fois	NC	NC	g=f	
+9	la	la	DET	DET	n=s|g=f	
+10	surprise	surprise	NC	NC	n=s|g=f	
+11	,	,	PONCT	PONCT		
+12	la	la	DET	DET	n=s|g=f	
+13	première	premier	ADJ	ADJ	n=s|g=f	
+14	partie	partie	NC	NC	n=s|g=f	
+15	du	de	P+D	P+D	n=s|g=m	
+16	tour	tour	NC	NC	n=s	
+17	de	de	P	P		
+18	chants	chant	NC	NC	n=p|g=m	
+19	est	être	V	V	n=s|t=P|p=3	
+20	consacrée	consacrer	VPP	VPP	n=s|g=f|t=K	
+21	aux	à	P+D	P+D	n=p	
+22	chansons	chanson	NC	NC	n=p|g=f	
+23	douces	doux	ADJ	ADJ	n=p|g=f	
+24	et	et	CC	CC		
+25	romantiques	romantique	ADJ	ADJ	n=p	
+26	.	.	PONCT	PONCT		
+
+1	Ensuite	ensuite	ADV	ADV		
+2	,	,	PONCT	PONCT		
+3	après	après	P	P		
+4	un	un	DET	DET	n=s|g=m	
+5	changement	changement	NC	NC	n=s|g=m	
+6	éclair	éclair	NC	NC	n=s|g=m	
+7	pour	pour	P	P		
+8	une	une	DET	DET	n=s|g=f	
+9	tenue	tenue	NC	NC	n=s|g=f	
+10	d'	de	P	P		
+11	homme	homme	NC	NC	n=s|g=m	
+12	dans	dans	P	P		
+13	le	le	DET	DET	n=s|g=m	
+14	style	style	NC	NC	n=s|g=m	
+15	de	de	P	P		
+16	celles	celle	PRO	PRO	n=p|g=f	
+17	qu'	que	PROREL	PROREL		
+18	elle	elle	CLS	CLS	n=s|g=f|p=3	
+19	portait	porter	V	V	n=s|t=I|p=3	
+20	déjà	déjà	ADV	ADV		
+21	dans	dans	P	P		
+22	Cœurs	_	NPP	NPP		
+23	brûlés	brûler	VPP	VPP	n=p|g=m|t=K	
+24	ou	ou	CC	CC		
+25	dans	dans	P	P		
+26	Blonde	_	NPP	NPP		
+27	Vénus	_	NPP	NPP		
+28	,	,	PONCT	PONCT		
+29	en	en	P	P		
+30	pantalon	pantalon	NC	NC	n=s|g=m	
+31	ou	ou	CC	CC		
+32	short	short	NC	NC	n=s|g=m	
+33	,	,	PONCT	PONCT		
+34	elle	elle	CLS	CLS	n=s|g=f|p=3	
+35	continue	continuer	V	V	n=s|t=P,S|p=1,3	
+36	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+37	concert	concert	NC	NC	n=s|g=m	
+38	,	,	PONCT	PONCT		
+39	mais	mais	CC	CC		
+40	avec	avec	P	P		
+41	des	des	DET	DET	n=p	
+42	chansons	chanson	NC	NC	n=p|g=f	
+43	plus	plus	ADV	ADV		
+44	provocantes	provocant	ADJ	ADJ	n=p|g=f	
+45	.	.	PONCT	PONCT		
+
+1	Avec	avec	P	P		
+2	le	le	DET	DET	n=s|g=m	
+3	pianiste	pianiste	NC	NC	n=s	
+4	Burt	Burt	NPP	NPP	n=s|g=m	
+5	Bacharach	_	NPP	NPP		
+6	,	,	PONCT	PONCT		
+7	dont	dont	PROREL	PROREL		
+8	elle	elle	CLS	CLS	n=s|g=f|p=3	
+9	suit	suivre	V	V	n=s|t=P|p=3	
+10	les	les	DET	DET	n=p	
+11	conseils	conseil	NC	NC	n=p|g=m	
+12	avec	avec	P	P		
+13	rigueur	rigueur	NC	NC	n=s|g=f	
+14	et	et	CC	CC		
+15	discipline	discipline	NC	NC	n=s|g=f	
+16	,	,	PONCT	PONCT		
+17	et	et	CC	CC		
+18	qui	qui	PROREL	PROREL	n=s	
+19	l'	le	CLO	CLO	n=s|p=3	
+20	accompagne	accompagner	V	V	n=s|t=P,S|p=1,3	
+21	dans	dans	P	P		
+22	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+23	tour	tour	NC	NC	n=s	
+24	de	de	P	P		
+25	chant	chant	NC	NC	n=s|g=m	
+26	entre	entre	P	P		
+27	1956	1956	NC	NC		
+28	et	et	CC	CC		
+29	1965	1965	NC	NC		
+30	,	,	PONCT	PONCT		
+31	le	le	DET	DET	n=s|g=m	
+32	spectacle	spectacle	NC	NC	n=s|g=m	
+33	de	de	P	P		
+34	Dietrich	Dietrich	NPP	NPP	n=s|g=m	
+35	va	aller	V	V	n=s|t=P|p=3	
+36	se	se	CLR	CLR	n=p,s|p=3	
+37	perfectionner	perfectionner	VINF	VINF	t=W	
+38	et	et	CC	CC		
+39	devenir	devenir	VINF	VINF	t=W	
+40	véritable	véritable	ADJ	ADJ	n=s	
+41	one	_	NC	NC		
+42	-	-	PONCT	PONCT		
+43	woman	_	NPP	NPP		
+44	-	-	PONCT	PONCT		
+45	show	show	NC	NC	n=s|g=m	
+46	des	de	P+D	P+D	n=p	
+47	plus	plus	ADV	ADV		
+48	ambitieux	ambitieux	ADJ	ADJ	g=m	
+49	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	26	26	ADJ	ADJ		
+3	novembre	novembre	NC	NC	n=s|g=m	
+4	1973	1973	NC	NC		
+5	,	,	PONCT	PONCT		
+6	le	le	DET	DET	n=s|g=m	
+7	critique	critique	NC	NC	n=s	
+8	canadien	canadien	ADJ	ADJ	n=s|g=m	
+9	Dave	Dave	NPP	NPP	n=s|g=m	
+10	Billington	_	NPP	NPP		
+11	parle	parler	V	V	n=s|t=P,S|p=1,3	
+12	du	de	P+D	P+D	n=s|g=m	
+13	spectacle	spectacle	NC	NC	n=s|g=m	
+14	de	de	P	P		
+15	la	la	DET	DET	n=s|g=f	
+16	star	star	NC	NC	n=s|g=f	
+17	qui	qui	PROREL	PROREL	n=s	
+18	vient	venir	V	V	n=s|t=P|p=3	
+19	de	de	P	P		
+20	se	se	CLR	CLR	n=p,s|p=3	
+21	produire	produire	VINF	VINF	t=W	
+22	à	à	P	P		
+23	Montréal	Montréal	NPP	NPP	n=s|g=m	
+24	en	en	P	P		
+25	ces	ces	DET	DET	n=p	
+26	termes	terme	NC	NC	n=p|g=m	
+27	:	:	PONCT	PONCT		
+28	"	"	PONCT	PONCT		
+29	(	(	PONCT	PONCT		
+30	...	...	PONCT	PONCT		
+31	)	)	PONCT	PONCT		
+32	Pendant	pendant	P	P		
+33	plus	plus	ADV	ADV		
+34	d'	de	P	P		
+35	une	une	DET	DET	n=s|g=f	
+36	heure	heure	NC	NC	n=s|g=f	
+37	,	,	PONCT	PONCT		
+38	sans	sans	P	P		
+39	interruption	interruption	NC	NC	n=s|g=f	
+40	,	,	PONCT	PONCT		
+41	sans	sans	P	P		
+42	artifice	artifice	NC	NC	n=s|g=m	
+43	,	,	PONCT	PONCT		
+44	sans	sans	P	P		
+45	solliciter	solliciter	VINF	VINF	t=W	
+46	un	un	DET	DET	n=s|g=m	
+47	sentimentalisme	sentimentalisme	NC	NC	n=s|g=m	
+48	bon	bon	ADJ	ADJ	n=s|g=m	
+49	marché	marché	NC	NC	n=s|g=m	
+50	,	,	PONCT	PONCT		
+51	Marlene	Marlene	NPP	NPP	n=s|g=f	
+52	Dietrich	Dietrich	NPP	NPP	n=s|g=m	
+53	fait	faire	V	V	n=s|t=P|p=3	
+54	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+55	métier	métier	NC	NC	n=s|g=m	
+56	,	,	PONCT	PONCT		
+57	passe	passer	V	V	n=s|t=P,S|p=1,3	
+58	tout	tout	ADV	ADV		
+59	à	à	P	P		
+60	tour	tour	NC	NC	n=s	
+61	du	de	P+D	P+D	n=s|g=m	
+62	message	message	NC	NC	n=s|g=m	
+63	à	à	P	P		
+64	la	la	DET	DET	n=s|g=f	
+65	chanson	chanson	NC	NC	n=s|g=f	
+66	d'	de	P	P		
+67	amour	amour	NC	NC	n=s|g=m	
+68	,	,	PONCT	PONCT		
+69	joue	jouer	V	V	n=s|t=P,S|p=1,3	
+70	les	les	DET	DET	n=p	
+71	vamps	vamp	NC	NC	n=p|g=f	
+72	,	,	PONCT	PONCT		
+73	fait	fait	NC	NC	n=s|g=m	
+74	de	de	P	P		
+75	l'	le	DET	DET	n=s	
+76	humour	humour	NC	NC	n=s|g=m	
+77	,	,	PONCT	PONCT		
+78	dans	dans	P	P		
+79	un	un	DET	DET	n=s|g=m	
+80	mélange	mélange	NC	NC	n=s|g=m	
+81	parfait	parfait	ADJ	ADJ	n=s|g=m	
+82	qui	qui	PROREL	PROREL	n=s	
+83	laisse	laisser	V	V	n=s|t=P,S|p=1,3	
+84	le	le	DET	DET	n=s|g=m	
+85	public	public	NC	NC	n=s|g=m	
+86	avec	avec	P	P		
+87	le	le	DET	DET	n=s|g=m	
+88	sourire	sourire	NC	NC	n=s|g=m	
+89	d'	de	P	P		
+90	un	un	DET	DET	n=s|g=m	
+91	chat	chat	NC	NC	n=s|g=m	
+92	qui	qui	PROREL	PROREL	n=s	
+93	vient	venir	V	V	n=s|t=P|p=3	
+94	de	de	P	P		
+95	se	se	CLR	CLR	n=p,s|p=3	
+96	repaître	repaître	VINF	VINF	t=W	
+97	de	de	P	P		
+98	crème	crème	NC	NC	n=s	
+99	.	.	PONCT	PONCT		
+
+1	(	(	PONCT	PONCT		
+2	...	...	PONCT	PONCT		
+3	)	)	PONCT	PONCT		
+4	Oublions	oublier	VIMP	VIMP	n=p|t=Y|p=1	
+5	le	le	DET	DET	n=s|g=m	
+6	phénomène	phénomène	NC	NC	n=s|g=m	
+7	et	et	CC	CC		
+8	acceptons	accepter	V	V	n=p|t=P|p=1	
+9	le	le	DET	DET	n=s|g=m	
+10	fait	fait	NC	NC	n=s|g=m	
+11	que	que	PROREL	PROREL		
+12	nous	nous	CLS	CLS	n=p|p=1	
+13	avons	avoir	V	V	n=p|t=P|p=1	
+14	assisté	assister	VPP	VPP	n=s|g=m|t=K	
+15	à	à	P	P		
+16	une	une	DET	DET	n=s|g=f	
+17	prestation	prestation	NC	NC	n=s|g=f	
+18	menée	mener	VPP	VPP	n=s|g=f|t=K	
+19	de	de	P	P		
+20	main	main	NC	NC	n=s|g=f	
+21	de	de	P	P		
+22	maître	maître	NC	NC	n=s|g=m	
+23	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	minutage	minutage	NC	NC	n=s|g=m	
+3	,	,	PONCT	PONCT		
+4	le	le	DET	DET	n=s|g=m	
+5	mélange	mélange	NC	NC	n=s|g=m	
+6	de	de	P	P		
+7	chansons	chanson	NC	NC	n=p|g=f	
+8	,	,	PONCT	PONCT		
+9	les	les	DET	DET	n=p	
+10	gestes	geste	NC	NC	n=p	
+11	de	de	P	P		
+12	la	la	DET	DET	n=s|g=f	
+13	main	main	NC	NC	n=s|g=f	
+14	,	,	PONCT	PONCT		
+15	l'	le	DET	DET	n=s	
+16	éclairage	éclairage	NC	NC	n=s|g=m	
+17	,	,	PONCT	PONCT		
+18	le	le	DET	DET	n=s|g=m	
+19	maquillage	maquillage	NC	NC	n=s|g=m	
+20	distillaient	distiller	V	V	n=p|t=I|p=3	
+21	les	les	DET	DET	n=p	
+22	éléments	élément	NC	NC	n=p|g=m	
+23	pour	pour	P	P		
+24	lesquels	lequel	PROREL	PROREL	n=p|g=m	
+25	les	les	DET	DET	n=p	
+26	grands	grand	ADJ	ADJ	n=p|g=m	
+27	de	de	P	P		
+28	la	la	DET	DET	n=s|g=f	
+29	scène	scène	NC	NC	n=s|g=f	
+30	se	se	CLR	CLR	n=p,s|p=3	
+31	font	faire	V	V	n=p|t=P|p=3	
+32	aimer	aimer	VINF	VINF	t=W	
+33	du	de	P+D	P+D	n=s|g=m	
+34	public	public	NC	NC	n=s|g=m	
+35	[	[	PONCT	PONCT		
+36	59	59	NC	NC		
+37	]	]	PONCT	PONCT		
+38	.	.	PONCT	PONCT		
+39	"	"	PONCT	PONCT		
+
+1	En	en	P	P		
+2	aoùt	_	NC	NC		
+3	1953	1953	NC	NC		
+4	,	,	PONCT	PONCT		
+5	Marlene	Marlene	NPP	NPP	n=s|g=f	
+6	Dietrich	Dietrich	NPP	NPP	n=s|g=m	
+7	doit	devoir	V	V	n=s|t=P|p=3	
+8	faire	faire	VINF	VINF	t=W	
+9	un	un	DET	DET	n=s|g=m	
+10	essai	essai	NC	NC	n=s|g=m	
+11	de	de	P	P		
+12	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+13	spectacle	spectacle	NC	NC	n=s|g=m	
+14	à	à	P	P		
+15	Las	_	NPP	NPP		
+16	Vegas	_	NPP	NPP		
+17	,	,	PONCT	PONCT		
+18	et	et	CC	CC		
+19	la	la	DET	DET	n=s|g=f	
+20	costumière	costumier	NC	NC	n=s|g=f	
+21	Irene	Irene	NPP	NPP	n=s|g=f	
+22	,	,	PONCT	PONCT		
+23	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+24	costumière	costumier	NC	NC	n=s|g=f	
+25	préférée	préférer	VPP	VPP	n=s|g=f|t=K	
+26	à	à	P	P		
+27	la	la	DET	DET	n=s|g=f	
+28	MGM	_	NPP	NPP		
+29	,	,	PONCT	PONCT		
+30	déjà	déjà	ADV	ADV		
+31	responsable	responsable	ADJ	ADJ	n=s	
+32	de	de	P	P		
+33	ses	ses	DET	DET	n=p|p=3|poss=s	
+34	tenues	tenue	NC	NC	n=p|g=f	
+35	de	de	P	P		
+36	scène	scène	NC	NC	n=s|g=f	
+37	au	à	P+D	P+D	n=s|g=m	
+38	temps	temps	NC	NC	g=m	
+39	de	de	P	P		
+40	l'	le	DET	DET	n=s	
+41	USO	_	NPP	NPP		
+42	,	,	PONCT	PONCT		
+43	et	et	CC	CC		
+44	dans	dans	P	P		
+45	La	_	NPP	NPP		
+46	Scandaleuse	_	NPP	NPP		
+47	de	de	P	P		
+48	Berlin	Berlin	NPP	NPP	n=s|g=f,m	
+49	en	en	P	P		
+50	1948	1948	NC	NC		
+51	,	,	PONCT	PONCT		
+52	n'	ne	ADV	ADV		
+53	est	être	V	V	n=s|t=P|p=3	
+54	pas	pas	ADV	ADV		
+55	disponible	disponible	ADJ	ADJ	n=s	
+56	.	.	PONCT	PONCT		
+
+1	Travis	Travis	NPP	NPP	n=s|g=m	
+2	Banton	_	NPP	NPP		
+3	,	,	PONCT	PONCT		
+4	qui	qui	PROREL	PROREL	n=s	
+5	réalise	réaliser	V	V	n=s|t=P,S|p=1,3	
+6	avec	avec	P	P		
+7	Dietrich	Dietrich	NPP	NPP	n=s|g=m	
+8	des	de	P+D	P+D	n=p	
+9	toilettes	toilette	NC	NC	n=p|g=f	
+10	époustouflantes	époustouflant	ADJ	ADJ	n=p|g=f	
+11	lors	lors	ADV	ADV		
+12	de	de	P	P		
+13	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+14	période	période	NC	NC	n=s	
+15	von	_	ADJ	ADJ		
+16	Sternberg	_	NPP	NPP		
+17	,	,	PONCT	PONCT		
+18	est	être	V	V	n=s|t=P|p=3	
+19	retiré	retirer	VPP	VPP	n=s|g=m|t=K	
+20	des	de	P+D	P+D	n=p	
+21	affaires	affaire	NC	NC	n=p|g=f	
+22	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	se	se	CLR	CLR	n=p,s|p=3	
+3	retourne	retourner	V	V	n=s|t=P,S|p=1,3	
+4	alors	alors	ADV	ADV		
+5	vers	vers	P	P		
+6	Jean	Jean	NPP	NPP	n=s	
+7	Louis	Louis	NPP	NPP	n=s|g=m	
+8	,	,	PONCT	PONCT		
+9	costumier	costumier	NC	NC	n=s|g=m	
+10	de	de	P	P		
+11	la	la	DET	DET	n=s|g=f	
+12	Columbia	Columbia	NPP	NPP	n=s|g=m	
+13	,	,	PONCT	PONCT		
+14	d'	de	P	P		
+15	origine	origine	NC	NC	n=s|g=f	
+16	française	français	ADJ	ADJ	n=s|g=f	
+17	,	,	PONCT	PONCT		
+18	ce	ce	PRO	PRO	n=s	
+19	qui	qui	PROREL	PROREL	n=s	
+20	assure	assurer	V	V	n=s|t=P,S|p=1,3	
+21	confiance	confiance	NC	NC	n=s|g=f	
+22	à	à	P	P		
+23	la	la	DET	DET	n=s|g=f	
+24	star	star	NC	NC	n=s|g=f	
+25	,	,	PONCT	PONCT		
+26	ayant	avoir	VPR	VPR	t=G	
+27	l'	le	DET	DET	n=s	
+28	habitude	habitude	NC	NC	n=s|g=f	
+29	de	de	P	P		
+30	s'	se	CLR	CLR	n=p,s|p=3	
+31	habiller	habiller	VINF	VINF	t=W	
+32	à	à	P	P		
+33	Paris	Paris	NPP	NPP	n=s|g=m	
+34	à	à	P	P		
+35	l'	le	DET	DET	n=s	
+36	époque	époque	NC	NC	n=s|g=f	
+37	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	coopération	coopération	NC	NC	n=s|g=f	
+3	entre	entre	P	P		
+4	les	les	DET	DET	n=p	
+5	deux	deux	ADJ	ADJ	s=card|n=p	
+6	durera	durer	V	V	n=s|t=F|p=3	
+7	jusqu'	jusque	P	P		
+8	à	à	P	P		
+9	la	la	DET	DET	n=s|g=f	
+10	fin	fin	NC	NC	n=s	
+11	de	de	P	P		
+12	la	la	DET	DET	n=s|g=f	
+13	carrière	carrière	NC	NC	n=s|g=f	
+14	de	de	P	P		
+15	la	la	DET	DET	n=s|g=f	
+16	chanteuse	chanteur	ADJ	ADJ	n=s|g=f	
+17	,	,	PONCT	PONCT		
+18	et	et	CC	CC		
+19	le	le	DET	DET	n=s|g=m	
+20	couturier	couturier	NC	NC	n=s|g=m	
+21	l'	le	CLO	CLO	n=s|p=3	
+22	habille	habiller	V	V	n=s|t=P,S|p=1,3	
+23	aussi	aussi	ADV	ADV		
+24	dans	dans	P	P		
+25	les	les	DET	DET	n=p	
+26	films	film	NC	NC	n=p|g=m	
+27	Une	_	ADJ	ADJ		
+28	histoire	histoire	NC	NC	n=s|g=f	
+29	de	de	P	P		
+30	Monte	Monte	NPP	NPP	n=s|g=m	
+31	Carlo	Carlo	NPP	NPP	n=s|g=m	
+32	en	en	P	P		
+33	1956	1956	NC	NC		
+34	et	et	CC	CC		
+35	Jugement	jugement	NC	NC	n=s|g=m	
+36	à	à	P	P		
+37	Nuremberg	_	NPP	NPP		
+38	en	en	P	P		
+39	1961	1961	NC	NC		
+40	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	entente	entente	NC	NC	n=s|g=f	
+3	entre	entre	P	P		
+4	les	les	DET	DET	n=p	
+5	deux	deux	ADJ	ADJ	s=card|n=p	
+6	se	se	CLR	CLR	n=p,s|p=3	
+7	passa	passer	V	V	n=s|t=J|p=3	
+8	bien	bien	ADV	ADV		
+9	et	et	CC	CC		
+10	un	un	DET	DET	n=s|g=m	
+11	contrat	contrat	NC	NC	n=s|g=m	
+12	passé	passer	VPP	VPP	n=s|g=m|t=K	
+13	entre	entre	P	P		
+14	eux	eux	PRO	PRO	n=p|g=m|p=3	
+15	interdisait	interdire	V	V	n=s|t=I|p=3	
+16	seulement	_	ADV	ADV		
+17	à	à	P	P		
+18	l'	le	DET	DET	n=s	
+19	actrice	acteur	NC	NC	n=s|g=f	
+20	de	de	P	P		
+21	réutiliser	réutiliser	VINF	VINF	t=W	
+22	les	les	DET	DET	n=p	
+23	robes	robe	NC	NC	n=p|g=f	
+24	de	de	P	P		
+25	Jean	Jean	NPP	NPP	n=s	
+26	Louis	Louis	NPP	NPP	n=s|g=m	
+27	dans	dans	P	P		
+28	les	les	DET	DET	n=p	
+29	films	film	NC	NC	n=p|g=m	
+30	qu'	que	PROREL	PROREL		
+31	elle	elle	CLS	CLS	n=s|g=f|p=3	
+32	pourrait	pouvoir	V	V	n=s|t=C|p=3	
+33	tourner	tourner	VINF	VINF	t=W	
+34	.	.	PONCT	PONCT		
+
+1	Mais	mais	CC	CC		
+2	si	si	CS	CS		
+3	Jean	Jean	NPP	NPP	n=s	
+4	Louis	Louis	NPP	NPP	n=s|g=m	
+5	avait	avoir	V	V	n=s|t=I|p=3	
+6	la	la	DET	DET	n=s|g=f	
+7	charge	charge	NC	NC	n=s|g=f	
+8	de	de	P	P		
+9	la	la	DET	DET	n=s|g=f	
+10	création	création	NC	NC	n=s|g=f	
+11	des	de	P+D	P+D	n=p	
+12	robes	robe	NC	NC	n=p|g=f	
+13	,	,	PONCT	PONCT		
+14	c'	ce	CLS	CLS		
+15	est	être	V	V	n=s|t=P|p=3	
+16	la	la	DET	DET	n=s|g=f	
+17	couturière	couturier	NC	NC	n=s|g=f	
+18	Elisabeth	Elisabeth	NPP	NPP	n=s|g=f	
+19	Courtney	Courtney	NPP	NPP	n=s	
+20	de	de	P	P		
+21	la	la	DET	DET	n=s|g=f	
+22	maison	maison	NC	NC	n=s|g=f	
+23	Western	_	NPP	NPP		
+24	Costume	_	NPP	NPP		
+25	qui	qui	PROREL	PROREL	n=s	
+26	les	les	CLO	CLO	n=p|p=3	
+27	confectionne	confectionner	V	V	n=s|t=P,S|p=1,3	
+28	,	,	PONCT	PONCT		
+29	du	de	P+D	P+D	n=s|g=m	
+30	moins	moins	ADV	ADV		
+31	jusqu'	jusque	P	P		
+32	en	en	P	P		
+33	1972	1972	NC	NC		
+34	,	,	PONCT	PONCT		
+35	où	où	PROREL	PROREL		
+36	Ray	Ray	NPP	NPP	n=s|g=m	
+37	Aghayan	_	NPP	NPP		
+38	la	la	CLO	CLO	n=s|g=f|p=3	
+39	remplace	remplacer	V	V	n=s|t=P,S|p=1,3	
+40	.	.	PONCT	PONCT		
+
+1	Chacune	chacun	PRO	PRO	n=s|g=f	
+2	des	de	P+D	P+D	n=p	
+3	robes	robe	NC	NC	n=p|g=f	
+4	de	de	P	P		
+5	la	la	DET	DET	n=s|g=f	
+6	star	star	NC	NC	n=s|g=f	
+7	coûtaient	coûter	V	V	n=p|t=I|p=3	
+8	entre	entre	P	P		
+9	20_000	20_000	NC	NC		
+10	et	et	CC	CC		
+11	40_000	40_000	ADJ	ADJ		
+12	dollars	dollar	NC	NC	n=p|g=m	
+13	[	[	PONCT	PONCT		
+14	60	60	NC	NC		
+15	]	]	PONCT	PONCT		
+16	.	.	PONCT	PONCT		
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	
+2	n'	ne	ADV	ADV		
+3	y	y	CLO	CLO		
+4	a	avoir	V	V	n=s|t=P|p=3	
+5	pas	pas	ADV	ADV		
+6	de	de	P	P		
+7	nom	nom	NC	NC	n=s|g=m	
+8	officiel	officiel	ADJ	ADJ	n=s|g=m	
+9	donné	donner	VPP	VPP	n=s|g=m|t=K	
+10	aux	à	P+D	P+D	n=p	
+11	robes	robe	NC	NC	n=p|g=f	
+12	de	de	P	P		
+13	Dietrich	Dietrich	NPP	NPP	n=s|g=m	
+14	,	,	PONCT	PONCT		
+15	mais	mais	CC	CC		
+16	la	la	DET	DET	n=s|g=f	
+17	presse	presse	NC	NC	n=s|g=f	
+18	,	,	PONCT	PONCT		
+19	les	les	DET	DET	n=p	
+20	proches	proche	ADJ	ADJ	n=p	
+21	ou	ou	CC	CC		
+22	la	la	DET	DET	n=s|g=f	
+23	chanteuse	chanteur	NC	NC	n=s|g=f	
+24	elle	elle	PRO	PRO	n=s|g=f|p=3	
+25	-	-	PONCT	PONCT		
+26	même	même	ADV	ADV		
+27	en	en	CLO	CLO		
+28	surnommèrent	surnommer	V	V	n=p|t=J|p=3	
+29	plusieurs	plusieurs	PRO	PRO	n=p|g=f,m	
+30	en	en	P	P		
+31	fonction	fonction	NC	NC	n=s|g=f	
+32	de	de	P	P		
+33	leurs	leurs	DET	DET	n=p|p=3|poss=p	
+34	caractéristiques	caractéristique	NC	NC	n=p|g=f	
+35	.	.	PONCT	PONCT		
+
+1	D'	de	P	P		
+2	après	après	P	P		
+3	Maria	Maria	NPP	NPP	n=s|g=f	
+4	Riva	_	NPP	NPP		
+5	,	,	PONCT	PONCT		
+6	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+7	mère	mère	NC	NC	n=s|g=f	
+8	avait	avoir	V	V	n=s|t=I|p=3	
+9	réfléchi	réfléchir	VPP	VPP	n=s|g=m|t=K	
+10	avec	avec	P	P		
+11	la	la	DET	DET	n=s|g=f	
+12	costumière	costumier	NC	NC	n=s|g=f	
+13	Irène	Irène	NPP	NPP	n=s|g=f	
+14	sur	sur	P	P		
+15	un	un	DET	DET	n=s|g=m	
+16	fond	fond	NC	NC	n=s|g=m	
+17	de	de	P	P		
+18	robe	robe	NC	NC	n=s|g=f	
+19	qui	qui	PROREL	PROREL	n=s	
+20	"	"	PONCT	PONCT		
+21	contribuait	contribuer	V	V	n=s|t=I|p=3	
+22	à	à	P	P		
+23	donner	donner	VINF	VINF	t=W	
+24	à	à	P	P		
+25	Dietrich	Dietrich	NPP	NPP	n=s|g=m	
+26	le	le	DET	DET	n=s|g=m	
+27	corps	corps	NC	NC	g=m	
+28	sublime	sublime	ADJ	ADJ	n=s	
+29	dont	dont	PROREL	PROREL		
+30	elle	elle	CLS	CLS	n=s|g=f|p=3	
+31	a	avoir	V	V	n=s|t=P|p=3	
+32	rêvé	rêver	VPP	VPP	n=s|g=m|t=K	
+33	toute	tout	ADJ	ADJ	n=s|g=f	
+34	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+35	vie	vie	NC	NC	n=s|g=f	
+36	"	"	PONCT	PONCT		
+37	,	,	PONCT	PONCT		
+38	notamment	_	ADV	ADV		
+39	lors	lors	ADV	ADV		
+40	des	des	DET	DET	n=p	
+41	tournages	tournage	NC	NC	n=p|g=m	
+42	de	de	P	P		
+43	des	des	DET	DET	n=p	
+44	films	film	NC	NC	n=p|g=m	
+45	Madame	_	NPP	NPP		
+46	veut	vouloir	V	V	n=s|t=P|p=3	
+47	un	un	DET	DET	n=s|g=m	
+48	bébé	bébé	NC	NC	n=s|g=m	
+49	et	et	CC	CC		
+50	Kismet	_	NPP	NPP		
+51	,	,	PONCT	PONCT		
+52	entre	entre	P	P		
+53	1942	1942	NC	NC		
+54	et	et	CC	CC		
+55	1944	1944	NC	NC		
+56	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	1944	1944	NC	NC		
+3	,	,	PONCT	PONCT		
+4	le	le	DET	DET	n=s|g=m	
+5	tissu	tissu	NC	NC	n=s|g=m	
+6	est	être	V	V	n=s|t=P|p=3	
+7	de	de	P	P		
+8	la	la	DET	DET	n=s|g=f	
+9	soie	soie	NC	NC	n=s|g=f	
+10	épaisse	épais	ADJ	ADJ	n=s|g=f	
+11	,	,	PONCT	PONCT		
+12	mais	mais	CC	CC		
+13	à	à	P	P		
+14	la	la	DET	DET	n=s|g=f	
+15	fin	fin	NC	NC	n=s	
+16	de	de	P	P		
+17	la	la	DET	DET	n=s|g=f	
+18	décennie	décennie	NC	NC	n=s|g=f	
+19	1940	1940	NC	NC		
+20	,	,	PONCT	PONCT		
+21	les	les	DET	DET	n=p	
+22	maisons	maison	NC	NC	n=p|g=f	
+23	de	de	P	P		
+24	textile	textile	NC	NC	n=s|g=m	
+25	italiennes	italien	ADJ	ADJ	n=p|g=f	
+26	,	,	PONCT	PONCT		
+27	telles	tel	ADJ	ADJ	n=p|g=f	
+28	Baranccini	_	NPP	NPP		
+29	,	,	PONCT	PONCT		
+30	perfectionnent	perfectionner	V	V	n=p|t=P,S|p=3	
+31	leurs	leurs	DET	DET	n=p|p=3|poss=p	
+32	tissus	tissu	NC	NC	n=p|g=m	
+33	,	,	PONCT	PONCT		
+34	notamment	_	ADV	ADV		
+35	ce	ce	PRO	PRO	n=s	
+36	que	que	PROREL	PROREL		
+37	Dietrich	Dietrich	NPP	NPP	n=s|g=m	
+38	appelle	appeler	V	V	n=s|t=P,S|p=1,3	
+39	le	le	DET	DET	n=s|g=m	
+40	"	"	PONCT	PONCT		
+41	souffle	souffle	NC	NC	n=s|g=m	
+42	"	"	PONCT	PONCT		
+43	,	,	PONCT	PONCT		
+44	une	une	DET	DET	n=s|g=f	
+45	gaze	gaze	NC	NC	n=s|g=f	
+46	ultra	_	ADV	ADV		
+47	légère	léger	ADJ	ADJ	n=s|g=f	
+48	,	,	PONCT	PONCT		
+49	délicate	délicat	ADJ	ADJ	n=s|g=f	
+50	,	,	PONCT	PONCT		
+51	vaporeuse	vaporeux	ADJ	ADJ	n=s|g=f	
+52	,	,	PONCT	PONCT		
+53	mais	mais	CC	CC		
+54	ferme	ferme	ADJ	ADJ	n=s	
+55	comme	comme	P	P		
+56	un	un	DET	DET	n=s|g=m	
+57	canevas	canevas	NC	NC	g=m	
+58	,	,	PONCT	PONCT		
+59	utilisée	utiliser	VPP	VPP	n=s|g=f|t=K	
+60	par	par	P	P		
+61	la	la	DET	DET	n=s|g=f	
+62	chanteuse	chanteur	ADJ	ADJ	n=s|g=f	
+63	jusqu'	jusque	P	P		
+64	à	à	P	P		
+65	la	la	DET	DET	n=s|g=f	
+66	fin	fin	NC	NC	n=s	
+67	de	de	P	P		
+68	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+69	carrière	carrière	NC	NC	n=s|g=f	
+70	en	en	P	P		
+71	1975	1975	NC	NC		
+72	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	couleur	couleur	NC	NC	n=s|g=f	
+3	est	être	V	V	n=s|t=P|p=3	
+4	chair	chair	ADJ	ADJ		
+5	.	.	PONCT	PONCT		
+
+1	C'	ce	CLS	CLS		
+2	est	être	V	V	n=s|t=P|p=3	
+3	un	un	DET	DET	n=s|g=m	
+4	sous	sou	NC	NC	n=p|g=m	
+5	-	-	PONCT	PONCT		
+6	vêtement	vêtement	NC	NC	n=s|g=m	
+7	ultra	ultra	NC	NC	n=s	
+8	fragile	fragile	ADJ	ADJ	n=s	
+9	,	,	PONCT	PONCT		
+10	qui	qui	PROREL	PROREL	n=s	
+11	existe	exister	V	V	n=s|t=P,S|p=1,3	
+12	en	en	P	P		
+13	douzaines	douzaine	NC	NC	n=p|g=f	
+14	d'	de	P	P		
+15	exemplaires	exemplaire	NC	NC	n=p|g=m	
+16	d'	de	P	P		
+17	après	après	P	P		
+18	Maria	Maria	NPP	NPP	n=s|g=f	
+19	Riva	_	NPP	NPP		
+20	.	.	PONCT	PONCT		
+
+1	Environ	environ	ADV	ADV		
+2	trois	trois	ADJ	ADJ	s=card|n=p	
+3	de	de	P	P		
+4	ces	ces	DET	DET	n=p	
+5	corsets	corset	NC	NC	n=p|g=m	
+6	étaient	être	V	V	n=p|t=I|p=3	
+7	prévus	prévoir	VPP	VPP	n=p|g=m|t=K	
+8	pour	pour	P	P		
+9	une	une	DET	DET	n=s|g=f	
+10	seule	seul	ADJ	ADJ	n=s|g=f	
+11	robe	robe	NC	NC	n=s|g=f	
+12	,	,	PONCT	PONCT		
+13	et	et	CC	CC		
+14	la	la	DET	DET	n=s|g=f	
+15	collection	collection	NC	NC	n=s|g=f	
+16	du	de	P+D	P+D	n=s|g=m	
+17	Filmmuseum	_	NPP	NPP		
+18	de	de	P	P		
+19	Berlin	Berlin	NPP	NPP	n=s|g=f,m	
+20	renferme	renfermer	V	V	n=s|t=P,S|p=1,3	
+21	vingt-et-une	vingt-et-une	ADJ	ADJ		
+22	robes	robe	NC	NC	n=p|g=f	
+23	de	de	P	P		
+24	scène	scène	NC	NC	n=s|g=f	
+25	,	,	PONCT	PONCT		
+26	donc	donc	ADV	ADV		
+27	une	une	DET	DET	n=s|g=f	
+28	soixantaine	soixantaine	NC	NC	n=s|g=f	
+29	de	de	P	P		
+30	fonds	fonds	NC	NC	g=m	
+31	de	de	P	P		
+32	robe	robe	NC	NC	n=s|g=f	
+33	,	,	PONCT	PONCT		
+34	sans	sans	P	P		
+35	compter	compter	VINF	VINF	t=W	
+36	les	les	DET	DET	n=p	
+37	fonds	fonds	NC	NC	g=m	
+38	de	de	P	P		
+39	robe	robe	NC	NC	n=s|g=f	
+40	inachevés	inachevé	ADJ	ADJ	n=p|g=m	
+41	et	et	CC	CC		
+42	tout	tout	ADJ	ADJ	n=s|g=m	
+43	le	le	DET	DET	n=s|g=m	
+44	matériel	matériel	NC	NC	n=s|g=m	
+45	nécessaire	nécessaire	ADJ	ADJ	n=s	
+46	pour	pour	P	P		
+47	les	les	DET	DET	n=p	
+48	situations	situation	NC	NC	n=p|g=f	
+49	d'	de	P	P		
+50	urgence	urgence	NC	NC	n=s|g=f	
+51	[	[	PONCT	PONCT		
+52	61	61	NC	NC		
+53	]	]	PONCT	PONCT		
+54	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	mise	mise	NC	NC	n=s|g=f	
+3	en	en	P	P		
+4	place	place	NC	NC	n=s|g=f	
+5	de	de	P	P		
+6	ce	ce	DET	DET	n=s|g=m	
+7	fond	fond	NC	NC	n=s|g=m	
+8	de	de	P	P		
+9	robe	robe	NC	NC	n=s|g=f	
+10	est	être	V	V	n=s|t=P|p=3	
+11	un	un	DET	DET	n=s|g=m	
+12	travail	travail	NC	NC	n=s|g=m	
+13	qui	qui	PROREL	PROREL	n=s	
+14	requiert	requérir	V	V	n=s|t=P|p=3	
+15	patience	patience	NC	NC	n=s|g=f	
+16	et	et	CC	CC		
+17	rigueur	rigueur	NC	NC	n=s|g=f	
+18	,	,	PONCT	PONCT		
+19	comme	comme	CS	CS		
+20	nous	nous	CLS	CLS	n=p|p=1	
+21	l'	le	CLO	CLO	n=s|p=3	
+22	explique	expliquer	V	V	n=s|t=P,S|p=1,3	
+23	Maria	Maria	NPP	NPP	n=s|g=f	
+24	Riva	_	NPP	NPP		
+25	:	:	PONCT	PONCT		
+26	"	"	PONCT	PONCT		
+27	D'	de	P	P		
+28	abord	abord	NC	NC	n=s|g=m	
+29	,	,	PONCT	PONCT		
+30	elle	elle	CLS	CLS	n=s|g=f|p=3	
+31	enfilait	enfiler	V	V	n=s|t=I|p=3	
+32	le	le	DET	DET	n=s|g=m	
+33	fond	fond	NC	NC	n=s|g=m	
+34	de	de	P	P		
+35	robe	robe	NC	NC	n=s|g=f	
+36	par	par	P	P		
+37	le	le	DET	DET	n=s|g=m	
+38	bas	bas	ADJ	ADJ	g=m	
+39	,	,	PONCT	PONCT		
+40	nous	nous	CLS	CLS	n=p|p=1	
+41	attachions	attacher	V	V	n=p|t=I|p=1	
+42	la	la	DET	DET	n=s|g=f	
+43	fine	fine	NC	NC	n=s|g=f	
+44	ceinture	ceinture	NC	NC	n=s|g=f	
+45	intérieure	intérieur	ADJ	ADJ	n=s|g=f	
+46	autour	autour	NC	NC	n=s|g=m	
+47	de	de	P	P		
+48	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+49	taille	taille	NC	NC	n=s|g=f	
+50	,	,	PONCT	PONCT		
+51	ensuite	ensuite	ADV	ADV		
+52	,	,	PONCT	PONCT		
+53	elle	elle	CLS	CLS	n=s|g=f|p=3	
+54	plaçait	placer	V	V	n=s|t=I|p=3	
+55	le	le	DET	DET	n=s|g=m	
+56	triangle	triangle	NC	NC	n=s|g=m	
+57	élastique	élastique	ADJ	ADJ	n=s	
+58	de	de	P	P		
+59	l'	le	DET	DET	n=s	
+60	entrejambe	entrejambe	NC	NC	n=s|g=m	
+61	,	,	PONCT	PONCT		
+62	l'	le	CLO	CLO	n=s|p=3	
+63	ajustant	ajuster	VPR	VPR	t=G	
+64	bien	bien	ADV	ADV		
+65	entre	entre	P	P		
+66	les	les	DET	DET	n=p	
+67	bords	bord	NC	NC	n=p|g=m	
+68	de	de	P	P		
+69	la	la	DET	DET	n=s|g=f	
+70	vulve	vulve	NC	NC	n=s|g=f	
+71	pour	pour	P	P		
+72	minimiser	minimiser	VINF	VINF	t=W	
+73	la	la	DET	DET	n=s|g=f	
+74	douleur	douleur	NC	NC	n=s|g=f	
+75	causée	causer	VPP	VPP	n=s|g=f|t=K	
+76	par	par	P	P		
+77	la	la	DET	DET	n=s|g=f	
+78	tension	tension	NC	NC	n=s|g=f	
+79	inévitable	inévitable	ADJ	ADJ	n=s	
+80	.	.	PONCT	PONCT		
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	
+2	se	se	CLR	CLR	n=p,s|p=3	
+3	penchait	pencher	V	V	n=s|t=I|p=3	
+4	en	en	P	P		
+5	avant	avant	ADV	ADV		
+6	,	,	PONCT	PONCT		
+7	les	les	DET	DET	n=p	
+8	seins	sein	NC	NC	n=p|g=m	
+9	ballants	ballant	ADJ	ADJ	n=p|g=m	
+10	,	,	PONCT	PONCT		
+11	détachés	détacher	VPP	VPP	n=p|g=m|t=K	
+12	du	de	P+D	P+D	n=s|g=m	
+13	corps	corps	NC	NC	g=m	
+14	,	,	PONCT	PONCT		
+15	glissant	glisser	VPR	VPR	t=G	
+16	un	un	DET	DET	n=s|g=m	
+17	bras	bras	NC	NC	g=m	
+18	dans	dans	P	P		
+19	l'	le	DET	DET	n=s	
+20	une	un	PRO	PRO	n=s|g=f	
+21	des	de	P+D	P+D	n=p	
+22	emmanchures	emmanchure	NC	NC	n=p|g=f	
+23	,	,	PONCT	PONCT		
+24	puis	puis	CC	CC		
+25	l'	le	DET	DET	n=s	
+26	autre	autre	PRO	PRO	n=s|g=f,m	
+27	.	.	PONCT	PONCT		
+
+1	Ensuite	ensuite	ADV	ADV		
+2	,	,	PONCT	PONCT		
+3	de	de	P	P		
+4	la	la	DET	DET	n=s|g=f	
+5	main	main	NC	NC	n=s|g=f	
+6	,	,	PONCT	PONCT		
+7	elle	elle	CLS	CLS	n=s|g=f|p=3	
+8	amenait	amener	V	V	n=s|t=I|p=3	
+9	ses	ses	DET	DET	n=p|p=3|poss=s	
+10	seins	sein	NC	NC	n=p|g=m	
+11	tombants	tombant	ADJ	ADJ	n=p|g=m	
+12	et	et	CC	CC		
+13	les	les	CLO	CLO	n=p|p=3	
+14	plaçait	placer	V	V	n=s|t=I|p=3	
+15	dans	dans	P	P		
+16	le	le	DET	DET	n=s|g=m	
+17	soutien	soutien	NC	NC	n=s|g=m	
+18	-	-	PONCT	PONCT		
+19	gorge	gorge	NC	NC	n=s|g=f	
+20	incorporé	incorporer	VPP	VPP	n=s|g=m|t=K	
+21	,	,	PONCT	PONCT		
+22	coupé	couper	VPP	VPP	n=s|g=m|t=K	
+23	dans	dans	P	P		
+24	le	le	DET	DET	n=s|g=m	
+25	biais	biais	NC	NC	g=m	
+26	du	de	P+D	P+D	n=s|g=m	
+27	tissu	tissu	NC	NC	n=s|g=m	
+28	,	,	PONCT	PONCT		
+29	prenant	prendre	VPR	VPR	t=G	
+30	soin	soin	NC	NC	n=s|g=m	
+31	d'	de	P	P		
+32	insérer	insérer	VINF	VINF	t=W	
+33	chaque	chaque	DET	DET	n=s	
+34	bout	bout	NC	NC	n=s|g=m	
+35	de	de	P	P		
+36	sein	sein	NC	NC	n=s|g=m	
+37	exactement	_	ADV	ADV		
+38	au	à	P+D	P+D	n=s|g=m	
+39	bon	bon	ADJ	ADJ	n=s|g=m	
+40	endroit	endroit	NC	NC	n=s|g=m	
+41	.	.	PONCT	PONCT		
+
+1	Une	une	DET	DET	n=s|g=f	
+2	fois	fois	NC	NC	g=f	
+3	que	que	CS	CS		
+4	les	les	DET	DET	n=p	
+5	seins	sein	NC	NC	n=p|g=m	
+6	étaient	être	V	V	n=p|t=I|p=3	
+7	positionnés	positionner	VPP	VPP	n=p|g=m|t=K	
+8	à	à	P	P		
+9	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+10	convenance	convenance	NC	NC	n=s|g=f	
+11	,	,	PONCT	PONCT		
+12	elle	elle	CLS	CLS	n=s|g=f|p=3	
+13	mettait	mettre	V	V	n=s|t=I|p=3	
+14	ses	ses	DET	DET	n=p|p=3|poss=s	
+15	mains	main	NC	NC	n=p|g=f	
+16	en	en	P	P		
+17	coupe	coupe	NC	NC	n=s|g=f	
+18	pour	pour	P	P		
+19	les	les	CLO	CLO	n=p|p=3	
+20	soutenir	soutenir	VINF	VINF	t=W	
+21	,	,	PONCT	PONCT		
+22	les	les	CLO	CLO	n=p|p=3	
+23	maintenait	maintenir	V	V	n=s|t=I|p=3	
+24	en	en	P	P		
+25	place	place	NC	NC	n=s|g=f	
+26	ainsi	ainsi	ADV	ADV		
+27	que	que	CS	CS		
+28	le	le	DET	DET	n=s|g=m	
+29	fond	fond	NC	NC	n=s|g=m	
+30	de	de	P	P		
+31	robe	robe	NC	NC	n=s|g=f	
+32	,	,	PONCT	PONCT		
+33	se	se	CLR	CLR	n=p,s|p=3	
+34	relevait	relever	V	V	n=s|t=I|p=3	
+35	très	très	ADV	ADV		
+36	rapidement	_	ADV	ADV		
+37	et	et	CC	CC		
+38	nous	nous	CLS	CLS	n=p|p=1	
+39	remontions	remonter	V	V	n=p|t=I|p=1	
+40	la	la	DET	DET	n=s|g=f	
+41	fermeture	fermeture	NC	NC	n=s|g=f	
+42	Eclair	_	NPP	NPP		
+43	du	de	P+D	P+D	n=s|g=m	
+44	dos	dos	NC	NC	g=m	
+45	.	.	PONCT	PONCT		
+
+1	"	"	PONCT	PONCT		
+2	[	[	PONCT	PONCT		
+3	59	59	NC	NC		
+4	]	]	PONCT	PONCT		
+
+1	Ce	ce	DET	DET	n=s|g=m	
+2	fond	fond	NC	NC	n=s|g=m	
+3	de	de	P	P		
+4	robe	robe	NC	NC	n=s|g=f	
+5	,	,	PONCT	PONCT		
+6	quasi	quasi	ADV	ADV		
+7	invisible	invisible	ADJ	ADJ	n=s	
+8	,	,	PONCT	PONCT		
+9	pouvait	pouvoir	V	V	n=s|t=I|p=3	
+10	apparaître	apparaître	VINF	VINF	t=W	
+11	en	en	P	P		
+12	deux	deux	DET	DET	s=card|n=p	
+13	endroits	endroit	NC	NC	n=p|g=m	
+14	:	:	PONCT	PONCT		
+
+1	Ce	ce	DET	DET	n=s|g=m	
+2	fond	fond	NC	NC	n=s|g=m	
+3	de	de	P	P		
+4	robe	robe	NC	NC	n=s|g=f	
+5	présente	présenter	V	V	n=s|t=P,S|p=1,3	
+6	néanmoins	néanmoins	ADV	ADV		
+7	des	des	DET	DET	n=p	
+8	limites	limite	NC	NC	n=p|g=f	
+9	pour	pour	P	P		
+10	Maria	Maria	NPP	NPP	n=s|g=f	
+11	Riva	_	NPP	NPP		
+12	,	,	PONCT	PONCT		
+13	puis	puis	CC	CC		
+14	que	que	CS	CS		
+15	"	"	PONCT	PONCT		
+16	une	une	DET	DET	n=s|g=f	
+17	fois	fois	NC	NC	g=f	
+18	qu'	que	PROREL	PROREL		
+19	elle	elle	CLS	CLS	n=s|g=f|p=3	
+20	était	être	V	V	n=s|t=I|p=3	
+21	à	à	P	P		
+22	l'	le	DET	DET	n=s	
+23	intérieur	intérieur	NC	NC	n=s|g=m	
+24	de	de	P	P		
+25	ce	ce	DET	DET	n=s|g=m	
+26	moule	moule	NC	NC	n=s	
+27	,	,	PONCT	PONCT		
+28	bien	bien	ADV	ADV		
+29	en	en	P	P		
+30	place	place	NC	NC	n=s|g=f	
+31	,	,	PONCT	PONCT		
+32	fermeture	fermeture	NC	NC	n=s|g=f	
+33	Éclair	_	ADJ	ADJ		
+34	remontée	remonter	VPP	VPP	n=s|g=f|t=K	
+35	,	,	PONCT	PONCT		
+36	ma	ma	DET	DET	n=s|g=f|p=1|poss=s	
+37	mère	mère	NC	NC	n=s|g=f	
+38	se	se	CLR	CLR	n=p,s|p=3	
+39	transformait	transformer	V	V	n=s|t=I|p=3	
+40	en	en	P	P		
+41	statue	statue	NC	NC	n=s|g=f	
+42	,	,	PONCT	PONCT		
+43	respirant	respirer	VPR	VPR	t=G	
+44	à	à	P	P		
+45	peine	peine	NC	NC	n=s|g=f	
+46	,	,	PONCT	PONCT		
+47	et	et	CC	CC		
+48	le	le	DET	DET	n=s|g=m	
+49	moindre	moindre	ADJ	ADJ	n=s	
+50	mouvement	mouvement	NC	NC	n=s|g=m	
+51	devenait	devenir	V	V	n=s|t=I|p=3	
+52	un	un	DET	DET	n=s|g=m	
+53	luxe	luxe	NC	NC	n=s|g=m	
+54	calculé	calculer	VPP	VPP	n=s|g=m|t=K	
+55	et	et	CC	CC		
+56	restreint	restreindre	ADJ	ADJ	n=s|g=m|t=K	
+57	.	.	PONCT	PONCT		
+
+1	"	"	PONCT	PONCT		
+2	[	[	PONCT	PONCT		
+3	59	59	NC	NC		
+4	]	]	PONCT	PONCT		
+
+1	Après	après	P	P		
+2	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+3	premier	premier	ADJ	ADJ	n=s|g=m	
+4	triomphe	triomphe	NC	NC	n=s	
+5	au	à	P+D	P+D	n=s|g=m	
+6	Sahara	_	NPP	NPP		
+7	Hotel	_	NPP	NPP		
+8	de	de	P	P		
+9	Las	_	NPP	NPP		
+10	Vegas	_	NPP	NPP		
+11	entre	entre	P	P		
+12	le	le	DET	DET	n=s|g=m	
+13	15	15	ADJ	ADJ		
+14	décembre	décembre	NC	NC	n=s|g=m	
+15	1953	1953	NC	NC		
+16	et	et	CC	CC		
+17	le	le	DET	DET	n=s|g=m	
+18	4	4	ADJ	ADJ		
+19	janvier	janvier	NC	NC	n=s|g=m	
+20	1954	1954	NC	NC		
+21	,	,	PONCT	PONCT		
+22	les	les	DET	DET	n=p	
+23	plus	plus	ADV	ADV		
+24	grands	grand	ADJ	ADJ	n=p|g=m	
+25	hôtels	hôtel	NC	NC	n=p|g=m	
+26	de	de	P	P		
+27	la	la	DET	DET	n=s|g=f	
+28	ville	ville	NC	NC	n=s|g=f	
+29	signèrent	signer	V	V	n=p|t=J|p=3	
+30	avec	avec	P	P		
+31	la	la	DET	DET	n=s|g=f	
+32	star	star	NC	NC	n=s|g=f	
+33	un	un	DET	DET	n=s|g=m	
+34	contrat	contrat	NC	NC	n=s|g=m	
+35	tous	tout	ADJ	ADJ	n=p|g=m	
+36	les	les	DET	DET	n=p	
+37	ans	an	NC	NC	n=p|g=m	
+38	jusqu'	jusque	P	P		
+39	en	en	P	P		
+40	1962	1962	NC	NC		
+41	.	.	PONCT	PONCT		
+
+1	Chaque	chaque	DET	DET	n=s	
+2	nouveau	nouveau	ADJ	ADJ	n=s|g=m	
+3	spectacle	spectacle	NC	NC	n=s|g=m	
+4	différait	différer	V	V	n=s|t=I|p=3	
+5	surtout	surtout	ADV	ADV		
+6	par	par	P	P		
+7	la	la	DET	DET	n=s|g=f	
+8	tenue	tenue	NC	NC	n=s|g=f	
+9	que	que	PROREL	PROREL		
+10	portait	porter	V	V	n=s|t=I|p=3	
+11	la	la	DET	DET	n=s|g=f	
+12	chanteuse	chanteur	ADJ	ADJ	n=s|g=f	
+13	,	,	PONCT	PONCT		
+14	qui	qui	PROREL	PROREL	n=s	
+15	cherchait	chercher	V	V	n=s|t=I|p=3	
+16	à	à	P	P		
+17	créer	créer	VINF	VINF	t=W	
+18	l'	le	DET	DET	n=s	
+19	événement	événement	NC	NC	n=s|g=m	
+20	,	,	PONCT	PONCT		
+21	bien	bien	ADV	ADV		
+22	avant	avant	P	P		
+23	avec	avec	P	P		
+24	les	les	DET	DET	n=p	
+25	chansons	chanson	NC	NC	n=p|g=f	
+26	ou	ou	CC	CC		
+27	le	le	DET	DET	n=s|g=m	
+28	show	show	NC	NC	n=s|g=m	
+29	en	en	P	P		
+30	lui	lui	PRO	PRO	n=s|g=m|p=3	
+31	-	-	PONCT	PONCT		
+32	même	même	ADV	ADV		
+33	.	.	PONCT	PONCT		
+34	"	"	PONCT	PONCT		
+
+1	Chaque	chaque	DET	DET	n=s	
+2	fois	fois	NC	NC	g=f	
+3	que	que	CS	CS		
+4	Dietrich	Dietrich	NPP	NPP	n=s|g=m	
+5	passait	passer	V	V	n=s|t=I|p=3	
+6	à	à	P	P		
+7	Las	_	NPP	NPP		
+8	Vegas	_	NPP	NPP		
+9	,	,	PONCT	PONCT		
+10	elle	elle	CLS	CLS	n=s|g=f|p=3	
+11	essayait	essayer	V	V	n=s|t=I|p=3	
+12	d'	de	P	P		
+13	inventer	inventer	VINF	VINF	t=W	
+14	de	de	DET	DET	n=p	
+15	nouveaux	nouveau	ADJ	ADJ	n=p|g=m	
+16	effets	effet	NC	NC	n=p|g=m	
+17	,	,	PONCT	PONCT		
+18	espérant	espérer	VPR	VPR	t=G	
+19	retrouver	retrouver	VINF	VINF	t=W	
+20	ce	ce	DET	DET	n=s|g=m	
+21	moment	moment	NC	NC	n=s|g=m	
+22	où	où	PROREL	PROREL		
+23	,	,	PONCT	PONCT		
+24	apparaissant	apparaître	VPR	VPR	t=G	
+25	sur	sur	P	P		
+26	scène	scène	NC	NC	n=s|g=f	
+27	pour	pour	P	P		
+28	la	la	DET	DET	n=s|g=f	
+29	première	premier	ADJ	ADJ	n=s|g=f	
+30	fois	fois	NC	NC	g=f	
+31	,	,	PONCT	PONCT		
+32	le	le	DET	DET	n=s|g=m	
+33	public	public	NC	NC	n=s|g=m	
+34	muet	muet	ADJ	ADJ	n=s|g=m	
+35	de	de	P	P		
+36	stupéfaction	stupéfaction	NC	NC	n=s|g=f	
+37	retenait	retenir	V	V	n=s|t=I|p=3	
+38	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+39	souffle	souffle	NC	NC	n=s|g=m	
+40	"	"	PONCT	PONCT		
+41	[	[	PONCT	PONCT		
+42	59	59	NC	NC		
+43	]	]	PONCT	PONCT		
+44	.	.	PONCT	PONCT		
+
+1	L'	le	DET	DET	n=s	
+2	année	année	NC	NC	n=s|g=f	
+3	1960	1960	ADJ	ADJ		
+4	est	être	V	V	n=s|t=P|p=3	
+5	une	une	DET	DET	n=s|g=f	
+6	année	année	NC	NC	n=s|g=f	
+7	particulière	particulier	ADJ	ADJ	n=s|g=f	
+8	pour	pour	P	P		
+9	la	la	DET	DET	n=s|g=f	
+10	"	"	PONCT	PONCT		
+11	seule	seul	ADJ	ADJ	n=s|g=f	
+12	Allemande	allemande	NC	NC	n=s|g=f	
+13	connue	connaître	VPP	VPP	n=s|g=f|t=K	
+14	à	à	P	P		
+15	s'	se	CLR	CLR	n=p,s|p=3	
+16	être	être	VINF	VINF	t=W	
+17	publiquement	_	ADV	ADV		
+18	opposée	opposer	VPP	VPP	n=s|g=f|t=K	
+19	au	à	P+D	P+D	n=s|g=m	
+20	régime	régime	NC	NC	n=s|g=m	
+21	nazi	nazi	ADJ	ADJ	n=s|g=m	
+22	dans	dans	P	P		
+23	les	les	DET	DET	n=p	
+24	années	année	NC	NC	n=p|g=f	
+25	1930	1930	NC	NC		
+26	et	et	CC	CC		
+27	1940	1940	NC	NC		
+28	"	"	PONCT	PONCT		
+29	,	,	PONCT	PONCT		
+30	comme	comme	CS	CS		
+31	le	le	CLO	CLO	n=s|g=m|p=3	
+32	rappelle	rappeler	V	V	n=s|t=P,S|p=1,3	
+33	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+34	fille	fille	NC	NC	n=s|g=f	
+35	Maria	Maria	NPP	NPP	n=s|g=f	
+36	Riva	_	NPP	NPP		
+37	en	en	P	P		
+38	2001	2001	NC	NC		
+39	[	[	PONCT	PONCT		
+40	62	62	NC	NC		
+41	]	]	PONCT	PONCT		
+42	.	.	PONCT	PONCT		
+
+1	En	en	P	P		
+2	effet	effet	NC	NC	n=s|g=m	
+3	,	,	PONCT	PONCT		
+4	elle	elle	CLS	CLS	n=s|g=f|p=3	
+5	se	se	CLR	CLR	n=p,s|p=3	
+6	produit	produire	V	V	n=s|t=P|p=3	
+7	pour	pour	P	P		
+8	la	la	DET	DET	n=s|g=f	
+9	première	premier	ADJ	ADJ	n=s|g=f	
+10	fois	fois	NC	NC	g=f	
+11	en	en	P	P		
+12	Allemagne	Allemagne	NPP	NPP	n=s|g=f	
+13	depuis	depuis	P	P		
+14	la	la	DET	DET	n=s|g=f	
+15	fin	fin	NC	NC	n=s	
+16	du	de	P+D	P+D	n=s|g=m	
+17	Second	_	NPP	NPP		
+18	Conflit	conflit	NC	NC	n=s|g=m	
+19	mondial	mondial	ADJ	ADJ	n=s|g=m	
+20	.	.	PONCT	PONCT		
+
+1	Au	à	P+D	P+D	n=s|g=m	
+2	mois	mois	NC	NC	g=m	
+3	de	de	P	P		
+4	mai	mai	NC	NC	n=s|g=m	
+5	,	,	PONCT	PONCT		
+6	elle	elle	CLS	CLS	n=s|g=f|p=3	
+7	est	être	V	V	n=s|t=P|p=3	
+8	mal	mal	ADV	ADV		
+9	accueillie	accueillir	VPP	VPP	n=s|g=f|t=K	
+10	à	à	P	P		
+11	Hambourg	Hambourg	NPP	NPP	n=s|g=m	
+12	d'	de	P	P		
+13	abord	abord	NC	NC	n=s|g=m	
+14	,	,	PONCT	PONCT		
+15	avec	avec	P	P		
+16	des	des	DET	DET	n=p	
+17	lettres	lettre	NC	NC	n=p|g=f	
+18	anonymes	anonyme	ADJ	ADJ	n=p	
+19	de	de	P	P		
+20	menaces	menace	NC	NC	n=p|g=f	
+21	et	et	CC	CC		
+22	un	un	DET	DET	n=s|g=m	
+23	succès	succès	NC	NC	g=m	
+24	mitigé	mitiger	ADJ	ADJ	n=s|g=m|t=K	
+25	de	de	P	P		
+26	son	son	DET	DET	n=s|g=m|p=3|poss=s	
+27	spectacle	spectacle	NC	NC	n=s|g=m	
+28	,	,	PONCT	PONCT		
+29	puis	puis	CC	CC		
+30	à	à	P	P		
+31	Berlin	Berlin	NPP	NPP	n=s|g=f,m	
+32	où	où	PROREL	PROREL		
+33	une	une	DET	DET	n=s|g=f	
+34	partie	partie	NC	NC	n=s|g=f	
+35	du	de	P+D	P+D	n=s|g=m	
+36	public	public	NC	NC	n=s|g=m	
+37	la	la	CLO	CLO	n=s|g=f|p=3	
+38	qualifie	qualifier	V	V	n=s|t=P,S|p=1,3	
+39	de	de	P	P		
+40	"	"	PONCT	PONCT		
+41	traîtresse	traître	NC	NC	n=s|g=f	
+42	"	"	PONCT	PONCT		
+43	,	,	PONCT	PONCT		
+44	certains	certain	DET	DET	n=p|g=m	
+45	tenant	tenir	VPR	VPR	t=G	
+46	même	même	ADV	ADV		
+47	des	des	DET	DET	n=p	
+48	panneaux	panneau	NC	NC	n=p|g=m	
+49	"	"	PONCT	PONCT		
+50	Marlene	Marlene	NPP	NPP	n=s|g=f	
+51	go	go	NC	NC	g=m	
+52	home	home	NC	NC	n=s|g=m	
+53	"	"	PONCT	PONCT		
+54	devant	devant	P	P		
+55	le	le	DET	DET	n=s|g=m	
+56	théâtre	théâtre	NC	NC	n=s|g=m	
+57	.	.	PONCT	PONCT		
+
+1	Néanmoins	néanmoins	ADV	ADV		
+2	,	,	PONCT	PONCT		
+3	le	le	DET	DET	n=s|g=m	
+4	futur	futur	ADJ	ADJ	n=s|g=m	
+5	chancelier	chancelier	NC	NC	n=s|g=m	
+6	Willy	Willy	NPP	NPP	n=s|g=m	
+7	Brandt	Brandt	NPP	NPP	n=s|g=m	
+8	lui	lui	CLO	CLO	n=s|p=3	
+9	exprime	exprimer	V	V	n=s|t=P,S|p=1,3	
+10	toute	tout	ADJ	ADJ	n=s|g=f	
+11	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	
+12	sympathie	sympathie	NC	NC	n=s|g=f	
+13	,	,	PONCT	PONCT		
+14	comme	comme	P	P		
+15	le	le	DET	DET	n=s|g=m	
+16	compositeur	compositeur	NC	NC	n=s|g=m	
+17	Friedrich	Friedrich	NPP	NPP	n=s|g=m	
+18	Hollander	_	NPP	NPP		
+19	,	,	PONCT	PONCT		
+20	le	le	DET	DET	n=s|g=m	
+21	compositeur	compositeur	NC	NC	n=s|g=m	
+22	des	de	P+D	P+D	n=p	
+23	chansons	chanson	NC	NC	n=p|g=f	
+24	de	de	P	P		
+25	l'	le	DET	DET	n=s	
+26	Ange	Ange	NPP	NPP	n=s|g=m	
+27	bleu	bleu	ADJ	ADJ	n=s|g=m	
+28	,	,	PONCT	PONCT		
+29	qui	qui	PROREL	PROREL	n=s	
+30	n'	ne	ADV	ADV		
+31	était	être	V	V	n=s|t=I|p=3	
+32	d'	de	P	P		
+33	ailleurs	ailleurs	ADV	ADV		
+34	nullement	nullement	ADV	ADV		
+35	fâché	fâcher	VPP	VPP	n=s|g=m|t=K	
+36	avec	avec	P	P		
+37	elle	elle	PRO	PRO	n=s|g=f|p=3	
+38	,	,	PONCT	PONCT		
+39	ayant	avoir	VPR	VPR	t=G	
+40	écrit	écrire	VPP	VPP	n=s|g=m|t=K	
+41	pour	pour	P	P		
+42	elle	elle	PRO	PRO	n=s|g=f|p=3	
+43	les	les	DET	DET	n=p	
+44	titres	titre	NC	NC	n=p|g=m	
+45	du	de	P+D	P+D	n=s|g=m	
+46	film	film	NC	NC	n=s|g=m	
+47	la	la	DET	DET	n=s|g=f	
+48	Scandaleuse	_	NPP	NPP		
+49	de	de	P	P		
+50	Berlin	Berlin	NPP	NPP	n=s|g=f,m	
+51	en	en	P	P		
+52	1948	1948	NC	NC		
+53	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	même	même	ADJ	ADJ	n=s	
+3	année	année	NC	NC	n=s|g=f	
+4	,	,	PONCT	PONCT		
+5	elle	elle	CLS	CLS	n=s|g=f|p=3	
+6	se	se	CLR	CLR	n=p,s|p=3	
+7	rend	rendre	V	V	n=s|t=P|p=3	
+8	en	en	P	P		
+9	Israël	Israël	NPP	NPP	n=s|g=m	
+10	pour	pour	P	P		
+11	chanter	chanter	VINF	VINF	t=W	
+12	à	à	P	P		
+13	Tel	Tel	NPP	NPP	n=s|g=m	
+14	-	-	PONCT	PONCT		
+15	Aviv	Aviv	NPP	NPP	n=s|g=m	
+16	puis	puis	CC	CC		
+17	à	à	P	P		
+18	Jérusalem	Jérusalem	NPP	NPP	n=s|g=m	
+19	,	,	PONCT	PONCT		
+20	où	où	PROREL	PROREL		
+21	elle	elle	CLS	CLS	n=s|g=f|p=3	
+22	est	être	V	V	n=s|t=P|p=3	
+23	notamment	_	ADV	ADV		
+24	reçue	recevoir	VPP	VPP	n=s|g=f|t=K	
+25	par	par	P	P		
+26	le	le	DET	DET	n=s|g=m	
+27	dirigeant	dirigeant	NC	NC	n=s|g=m	
+28	David	David	NPP	NPP	n=s|g=m	
+29	Ben	Ben	NPP	NPP	n=s|g=m	
+30	Gourion	_	NPP	NPP		
+31	.	.	PONCT	PONCT		
+
+1	Néanmoins	néanmoins	ADV	ADV		
+2	,	,	PONCT	PONCT		
+3	le	le	DET	DET	n=s|g=m	
+4	producteur	producteur	NC	NC	n=s|g=m	
+5	israélien	israélien	ADJ	ADJ	n=s|g=m	
+6	lui	lui	CLO	CLO	n=s|p=3	
+7	demande	demander	V	V	n=s|t=P,S|p=1,3	
+8	de	de	P	P		
+9	ne	ne	ADV	ADV		
+10	pas	pas	ADV	ADV		
+11	chanter	chanter	VINF	VINF	t=W	
+12	en	en	P	P		
+13	allemand	allemand	ADJ	ADJ	n=s|g=m	
+14	,	,	PONCT	PONCT		
+15	cette	cette	DET	DET	n=s|g=f	
+16	langue	langue	NC	NC	n=s|g=f	
+17	ravivant	raviver	VPR	VPR	t=G	
+18	des	des	DET	DET	n=p	
+19	blessures	blessure	NC	NC	n=p|g=f	
+20	trop	trop	ADV	ADV		
+21	profondes	profond	ADJ	ADJ	n=p|g=f	
+22	pour	pour	P	P		
+23	nombre	nombre	NC	NC	n=s|g=m	
+24	de	de	P	P		
+25	spectateurs	spectateur	NC	NC	n=p|g=m	
+26	,	,	PONCT	PONCT		
+27	Juifs	juif	NC	NC	n=p|g=m	
+28	expatriés	expatrier	VPP	VPP	n=p|g=m|t=K	
+29	d'	de	P	P		
+30	Allemagne	Allemagne	NPP	NPP	n=s|g=f	
+31	dans	dans	P	P		
+32	les	les	DET	DET	n=p	
+33	années	année	NC	NC	n=p|g=f	
+34	1930	1930	NC	NC		
+35	,	,	PONCT	PONCT		
+36	voire	voire	CC	CC		
+37	sauvés	sauver	VPP	VPP	n=p|g=m|t=K	
+38	des	des	DET	DET	n=p	
+39	camps	camp	NC	NC	n=p|g=m	
+40	d'	de	P	P		
+41	extermination	extermination	NC	NC	n=s|g=f	
+42	.	.	PONCT	PONCT		
+
+1	Malgré	malgré	P	P		
+2	tout	tout	PRO	PRO	n=s|g=m	
+3	,	,	PONCT	PONCT		
+4	elle	elle	CLS	CLS	n=s|g=f|p=3	
+5	le	le	CLO	CLO	n=s|g=m|p=3	
+6	fait	faire	V	V	n=s|t=P|p=3	
+7	et	et	CC	CC		
+8	obtient	obtenir	V	V	n=s|t=P|p=3	
+9	un	un	DET	DET	n=s|g=m	
+10	réel	réel	ADJ	ADJ	n=s|g=m	
+11	triomphe	triomphe	NC	NC	n=s	
+12	[	[	PONCT	PONCT		
+13	63	63	NC	NC		
+14	]	]	PONCT	PONCT		
+15	.	.	PONCT	PONCT		
+
+1	Photo	photo	NC	NC	n=s|g=f	
+2	de	de	P	P		
+3	promotion	promotion	NC	NC	n=s|g=f	
+4	pour	pour	P	P		
+5	L'	le	DET	DET	n=s	
+6	Ange	Ange	NPP	NPP	n=s|g=m	
+7	bleu	bleu	ADJ	ADJ	n=s|g=m	
+8	(	(	PONCT	PONCT		
+9	1929	1929	NC	NC		
+10	)	)	PONCT	PONCT		
+11	.	.	PONCT	PONCT		
+
+1	Morocco	_	NPP	NPP		
+2	(	(	PONCT	PONCT		
+3	1930	1930	NC	NC		
+4	)	)	PONCT	PONCT		
+5	.	.	PONCT	PONCT		
+
+1	Shanghaï	_	NPP	NPP		
+2	Express	_	NPP	NPP		
+3	(	(	PONCT	PONCT		
+4	1932	1932	NC	NC		
+5	)	)	PONCT	PONCT		
+6	.	.	PONCT	PONCT		
+
+1	Blonde	blonde	NC	NC	n=s|g=f	
+2	Vénus	_	NPP	NPP		
+3	(	(	PONCT	PONCT		
+4	1932	1932	NC	NC		
+5	)	)	PONCT	PONCT		
+6	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	Scandaleuse	_	NPP	NPP		
+3	de	de	P	P		
+4	Berlin	Berlin	NPP	NPP	n=s|g=f,m	
+5	(	(	PONCT	PONCT		
+6	1948	1948	NC	NC		
+7	)	)	PONCT	PONCT		
+8	.	.	PONCT	PONCT		
+
+1	Le	le	DET	DET	n=s|g=m	
+2	Grand	Grand	NPP	NPP	n=s|g=m	
+3	Alibi	_	NPP	NPP		
+4	(	(	PONCT	PONCT		
+5	1950	1950	NC	NC		
+6	)	)	PONCT	PONCT		
+7	.	.	PONCT	PONCT		
+
+1	La	la	DET	DET	n=s|g=f	
+2	Soif	soif	NC	NC	n=s|g=f	
+3	du	de	P+D	P+D	n=s|g=m	
+4	mal	mal	NC	NC	n=s|g=m	
+5	(	(	PONCT	PONCT		
+6	1958	1958	NC	NC		
+7	)	)	PONCT	PONCT		
+8	.	.	PONCT	PONCT		
+
+1	Jugement	jugement	NC	NC	n=s|g=m	
+2	à	à	P	P		
+3	Nuremberg	_	NPP	NPP		
+4	(	(	PONCT	PONCT		
+5	1961	1961	NC	NC		
+6	)	)	PONCT	PONCT		
+7	.	.	PONCT	PONCT		
+
+1	Cliquez	cliquer	V	V	n=p|t=P|p=2	
+2	sur	sur	P	P		
+3	une	une	DET	DET	n=s|g=f	
+4	vignette	vignette	NC	NC	n=s|g=f	
+5	pour	pour	P	P		
+6	l'	le	CLO	CLO	n=s|p=3	
+7	agrandir	agrandir	VINF	VINF	t=W	
+8	.	.	PONCT	PONCT		
+
+1	Source	source	NC	NC	n=s|g=f	
+2	:	:	PONCT	PONCT		
+3	Musée	musée	NC	NC	n=s|g=m	
+4	de	de	P	P		
+5	la	la	DET	DET	n=s|g=f	
+6	mode	mode	NC	NC	n=s	
+7	de	de	P	P		
+8	la	la	DET	DET	n=s|g=f	
+9	Ville	ville	NC	NC	n=s|g=f	
+10	de	de	P	P		
+11	Paris	Paris	NPP	NPP	n=s|g=m	
+12	[	[	PONCT	PONCT		
+13	67	67	NC	NC		
+14	]	]	PONCT	PONCT		
+15	(	(	PONCT	PONCT		
+16	sauf	sauf	P	P		
+17	précisions	précision	NC	NC	n=p|g=f	
+18	)	)	PONCT	PONCT		
+
+1	"	"	PONCT	PONCT		
+2	Vous	vous	CLS	CLS	n=p|p=2	
+3	trouverez	trouver	V	V	n=p|t=F|p=2	
+4	le	le	DET	DET	n=s|g=m	
+5	chapeau	chapeau	NC	NC	n=s|g=m	
+6	"	"	PONCT	PONCT		
+7	Dietrich	Dietrich	NPP	NPP	n=s|g=m	
+8	"	"	PONCT	PONCT		
+9	,	,	PONCT	PONCT		
+10	le	le	DET	DET	n=s|g=m	
+11	tailleur	tailleur	NC	NC	n=s|g=m	
+12	"	"	PONCT	PONCT		
+13	Dietrich	Dietrich	NPP	NPP	n=s|g=m	
+14	"	"	PONCT	PONCT		
+15	,	,	PONCT	PONCT		
+16	les	les	DET	DET	n=p	
+17	chaussures	chaussure	NC	NC	n=p|g=f	
+18	"	"	PONCT	PONCT		
+19	Dietrich	Dietrich	NPP	NPP	n=s|g=m	
+20	"	"	PONCT	PONCT		
+21	,	,	PONCT	PONCT		
+22	le	le	DET	DET	n=s|g=m	
+23	look	look	NC	NC	n=s|g=m	
+24	"	"	PONCT	PONCT		
+25	Dietrich	Dietrich	NPP	NPP	n=s|g=m	
+26	"	"	PONCT	PONCT		
+27	.	.	PONCT	PONCT		
+
+1	"	"	PONCT	PONCT		
+2	[	[	PONCT	PONCT		
+3	70	70	NC	NC		
+4	]	]	PONCT	PONCT		
+
+1	Plaque	plaque	NC	NC	n=s|g=f	
+2	de	de	P	P		
+3	la	la	DET	DET	n=s|g=f	
+4	place	place	NC	NC	n=s|g=f	
+5	Marlène	_	NPP	NPP		
+6	-	-	PONCT	PONCT		
+7	Dietrich	Dietrich	NPP	NPP	n=s|g=m	
+8	à	à	P	P		
+9	Paris	Paris	NPP	NPP	n=s|g=m	
+10	dans	dans	P	P		
+11	le	le	DET	DET	n=s|g=m	
+12	16e	_	ADJ	ADJ		
+13	arrondissement	arrondissement	NC	NC	n=s|g=m	
+14	.	.	PONCT	PONCT		
+
+1	Étoile	étoile	NC	NC	n=s|g=f	
+2	de	de	P	P		
+3	Marlene	Marlene	NPP	NPP	n=s|g=f	
+4	Dietrich	Dietrich	NPP	NPP	n=s|g=m	
+5	sur	sur	P	P		
+6	le	le	DET	DET	n=s|g=m	
+7	Boulevard	boulevard	NC	NC	n=s|g=m	
+8	der	der	ADJ	ADJ	n=s	
+9	Stars	_	NPP	NPP		
+10	à	à	P	P		
+11	Berlin	Berlin	NPP	NPP	n=s|g=f,m	
+12	.	.	PONCT	PONCT		
+
+1	Plaque	plaque	NC	NC	n=s|g=f	
+2	commémorative	commémoratif	ADJ	ADJ	n=s|g=f	
+3	de	de	P	P		
+4	Marlene	Marlene	NPP	NPP	n=s|g=f	
+5	Dietrich	Dietrich	NPP	NPP	n=s|g=m	
+6	,	,	PONCT	PONCT		
+7	sur	sur	P	P		
+8	la	la	DET	DET	n=s|g=f	
+9	Marlene	Marlene	NPP	NPP	n=s|g=f	
+10	-	-	PONCT	PONCT		
+11	Dietrich	Dietrich	NPP	NPP	n=s|g=m	
+12	-	-	PONCT	PONCT		
+13	Platz	_	NPP	NPP		
+14	,	,	PONCT	PONCT		
+15	à	à	P	P		
+16	Berlin	Berlin	NPP	NPP	n=s|g=f,m	
+17	-	-	PONCT	PONCT		
+18	Tiergarten	_	NPP	NPP		
+19	,	,	PONCT	PONCT		
+20	Allemagne	Allemagne	NPP	NPP	n=s|g=f	
+21	.	.	PONCT	PONCT		
+
+1	Sur	sur	P	P		
+2	les	les	DET	DET	n=p	
+3	autres	autre	ADJ	ADJ	n=p	
+4	projets	projet	NC	NC	n=p|g=m	
+5	Wikimedia	_	NPP	NPP		
+6	:	:	PONCT	PONCT		
+
