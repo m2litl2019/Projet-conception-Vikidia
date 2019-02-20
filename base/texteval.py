@@ -69,6 +69,9 @@ class Part:
     def __getitem__(self, i):
         return self.sentences[i]
 
+    def __len__(self):
+        return len(self.sentences)
+
 
 class Sentence:
 
@@ -108,7 +111,22 @@ class Sentence:
     def __getitem__(self, i):
         return self.words[i]
 
-    
+    def lookForCoords(self):
+        # HELP Damien methode a lancer une fois la phrase "remplie" ou a la fin pour toutes les phrases : je ne sais pas ou l'appeler dans le traitement des .tal
+        for word in self.words:
+            if word.dep == "dep_coord":
+                coord = self[word.gov]
+                self[coord.gov].coords.append(word)
+                
+
+    def getDependents(self,targetWord):
+        # retourne liste de words ayant pour gouverneur le targetWord
+        dependents = []
+        for word in self.words:
+            if word.gov == targetWord.num:
+                dependents.append(word)
+        return dependents
+        
 class Word:
 
     def __init__(self, num, form, lemma, pos, pos_lexicon, morphinfo, f7, f8, f9, f10):
@@ -138,16 +156,18 @@ class Word:
                     self.possessor_number = 'plural' if val == 'p' else 'singular'
                 elif typ == 't':
                     self.tense = val
-        self.f7 = f7            # The token number of this token's governor (or 0 when the governor is the root)
-        self.f8 = f8            # The label of the dependency governing this token
+        self.gov = f7            # The token number of this token's governor (or 0 when the governor is the root)
+        self.dep = f8            # The label of the dependency governing this token
         #self.f9 = f9            
         #self.f10 = f10          
+        self.coords = []
 
     def __str__(self):
         return self.num + '. ' + self.form + ' / ' + self.lemma + ' (' + self.pos + ')'
 
     def __repr__(self):
         return str(self)
+
 
 #-----------------------------------------------------------
 # Convert Talismane output to the datamodel
@@ -180,7 +200,7 @@ def process_multilines(content):
     return part
 
 
-def process_file(filename, encoding):
+def process_file(filename, encoding='utf8'):
     file = open(filename, mode='r', encoding=encoding)
     content = file.readlines()
     file.close()
