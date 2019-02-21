@@ -80,6 +80,7 @@ class Sentence:
 
     def append(self, w):
         self.words.append(w)
+        w.sentence = self
 
     def __repr__(self):
         return f"A sentence of {len(self.words)} words."
@@ -99,6 +100,13 @@ class Sentence:
         return ' '.join(lem)
 
     @property
+    def formnum(self):
+        f = []
+        for w in self.words:
+            f.append(w.form + ' (' + w.num + ')')
+        return ' '.join(f)
+    
+    @property
     def char_len(self):
         nb = 0
         for w in self.words:
@@ -111,22 +119,27 @@ class Sentence:
     def __getitem__(self, i):
         return self.words[i]
 
-    def lookForCoords(self):
-        # HELP Damien methode a lancer une fois la phrase "remplie" ou a la fin pour toutes les phrases : je ne sais pas ou l'appeler dans le traitement des .tal
+    def __call__(self, i):
+        for w in self.words:
+            if w.num == str(i):
+                return w
+        return None
+    
+    def search_coords(self):
+        coords = []
         for word in self.words:
             if word.dep == "dep_coord":
-                coord = self[word.gov]
-                self[coord.gov].coords.append(word)
-                
-
-    def getDependents(self,targetWord):
-        # retourne liste de words ayant pour gouverneur le targetWord
+                coords.append(word)
+        return coords
+    
+    def get_dependents(self, w):
+        """retourne liste de words ayant pour gouverneur le target"""
         dependents = []
         for word in self.words:
-            if word.gov == targetWord.num:
+            if word.gov == w.num:
                 dependents.append(word)
         return dependents
-        
+    
 class Word:
 
     def __init__(self, num, form, lemma, pos, pos_lexicon, morphinfo, f7, f8, f9, f10):
@@ -160,7 +173,7 @@ class Word:
         self.dep = f8            # The label of the dependency governing this token
         #self.f9 = f9            
         #self.f10 = f10          
-        self.coords = []
+        self.sentence = None
 
     def __str__(self):
         return self.num + '. ' + self.form + ' / ' + self.lemma + ' (' + self.pos + ')'
@@ -246,6 +259,7 @@ def txt2tal(target, encoding):
 
 
 order = 'test_process_file'
+option_dump = False
 if __name__ == '__main__':
     if len(sys.argv) > 1:
         order = sys.argv[1]
@@ -256,7 +270,8 @@ if __name__ == '__main__':
         print(part)
     elif order == 'test_process_file':
         part = process_file('ema.tal', 'utf8')
-        pickle.dump(part, open('ema.bin', mode='wb'))
+        if option_dump:
+            pickle.dump(part, open('ema.bin', mode='wb'))
     elif order == 'test_loading':
         part = load_bin('ema.bin')
     elif order == 'tal2bin':
