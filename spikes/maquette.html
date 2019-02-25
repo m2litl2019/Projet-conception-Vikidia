@@ -1,46 +1,104 @@
-<html>
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Maquette</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
+    <style type="text/css">
+        div {
+            border: 1px black grey;
+        }
+    </style>
+  </head>
   <body>
-    <div style="border: 1px black solid;">
-      <h1>Fiche identité article</h1>
-      <hr>
-      <table>
-        <tr><td>Identifiant</td>     <td>titre</td></tr>
-        <tr><td>Longueur globale</td><td>1283</td></tr>
-        <tr><td>Avis global</td>     <td>Bon</td>
-      </table>
-    </div>
-    <div style="border: 1px black solid;">
-      <h1>Anatomie de l'article</h1>
-      <i>Indices métatextuels</i>
-      <ul>
-      <li>nombre de liens
-      <li>nombre d'images
-      <li>structures
-        <ul>
-          <li>nombre de sections
-          <li>nombre de paragraphes
+    <div class="container">
+      <!--<nav class="navbar sticky-top navbar-light bg-light">-->
+      <nav class="navbar bg-light">
+        <ul class="nav">
+          <li class="nav-item">
+            <a class="nav-link active" href="#id">Fiche</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#ana">Anatomie</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#sur">Surface</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#syn">Syntaxe/morphologie</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#sem">Sémantique/lexique</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#eno">Énoncés</a>
+          </li>
         </ul>
-      </ul>
-    </div>
-    <div style="border: 1px black solid;">
-      <h1>Indices de surface</h1>
-      <ul>
-        <li>Longueur en nombre de mots
-        <li>Longueur moyenne des phrases
-        <li>Mesure de Flesch-Kincaid
-      </ul>
-    </div>
-    <div style="border: 1px black solid;">
-      <h1>Syntaxe et morphologie</h1>
-    </div>
-    <div style="border: 1px black solid;">
-      <h1>Sémantique et lexique</h1>
-    </div>
-    <div style="border: 1px black solid;">
-      <h1>Énoncé définitoires et connecteurs</h1>
-      <span style="background-color: green;">YOUPI</span>
-      <br>
-      <span style="border-style: 1px color green;">YOUPI</span>
+      </nav>
+      
+      <div id="id">
+        <h1>Fiche identité article</h1>
+        <hr>
+        <table>
+          <tr><td>Identifiant</td>     <td>titre</td></tr>
+          <tr><td>Longueur globale</td><td>1283</td></tr>
+          <tr><td>Avis global</td>     <td>Bon</td>
+        </table>
+      </div>
+      <div id="ana">
+        <h1>Anatomie de l'article</h1>
+        <hr>
+        <i>Indices métatextuels</i>
+        <table>
+          <tr><td>Nombre de liens</td><td></td></tr>
+          <tr><td>Nombre d'images</td><td></td></tr>
+          <tr>
+            <td>Structures
+              <ul>
+                <li>nombre de sections</li>
+                <li>nombre de paragraphes</li>
+              </ul>
+            </td>
+            <td>
+            </td>
+          </tr>
+        </table>
+      </div>
+      <div id="sur">
+        <h1>Indices de surface</h1>
+        <hr>
+        <table>
+          <tr><td>Longueur en nombre de mots</td><td></td></tr>
+          <tr><td>Longueur moyenne des phrases</td><td></td></tr>
+          <tr><td>Mesure de Flesch-Kincaid</td><td></td></tr>
+        </table>
+      </div>
+      <div id="syn">
+        <h1>Syntaxe et morphologie</h1>
+        <hr>
+      </div>
+      <div id="sem">
+        <h1>Sémantique et lexique</h1>
+        <hr>
+      </div>
+      <div id="eno">
+        <h1>Énoncé définitoires et connecteurs</h1>
+        <hr>
+        <div class="alert alert-primary" role="alert">
+          Bleu
+        </div>
+        <div class="alert alert-success" role="alert">
+          Verte
+        </div>
+        <div class="alert alert-danger" role="alert">
+          Rouge
+        </div>
+        <div class="alert alert-warning" role="alert">
+          Jaune
+        </div>
+      </div>
     </div>
   </body>
 </html>
