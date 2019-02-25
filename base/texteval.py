@@ -128,11 +128,19 @@ class Sentence:
         return None
     
     def search_coords(self):
-        coords = []
+        """ construit une liste des éléments coordonnés à chaque mot de la phrase
+        par exemple dans la phrase : "La vie belle et jolie se passe bien" actualise l'attribut du mot belle avec son coordonné (jolie) 
+        l'idée c'est de réutiliser ça dans la recherche des modifieurs de chaque nom (il suffit de regarder si un modifieur a des éléments
+        coordonnés pour les compter)
+        
+        l'idée c'était de rendre cette méthode privée (ne l'appeer que dans le lecteur talsimane pour ne l'utiliser qu'un seul coup mais 
+        je ne sais pas où la mettre"""
+        # recherche d'éléments coordonnés
         for word in self.words:
             if word.dep == "dep_coord":
-                coords.append(word)
-        return coords
+                coord = self(word.gov)
+                self(coord.gov).coords.append(word)
+    
     
     def get_dependents(self, w):
         """retourne liste de words ayant pour gouverneur le target"""
@@ -149,6 +157,7 @@ class Word:
         self.form = form        # The original word form (or _ for an empty token)
         self.lemma = lemma      # The lemma found in the lexicon (or _ when unknown)
         self.pos = pos          # The part-of-speech tag
+        self.coords = []
         #self.pos_lexicon = pos_lexicon # The grammatical category found in the lexicon
         # The additional morpho-syntaxic information found in the lexicon.
         self.number = None      #     n=p|s: number = plural or singluar
