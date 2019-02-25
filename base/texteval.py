@@ -14,6 +14,7 @@
 import sys
 import pickle
 from socket import socket, AF_INET, SOCK_STREAM
+import os
 import os.path
 
 #-----------------------------------------------------------
@@ -236,13 +237,28 @@ def load_bin(filename):
     return pickle.load(open(filename, mode='rb'))
 
 
-def load(filename):
-    if filename.endswith('.tal'):
+def load(filename, automerge=True):
+    if filename.endswith('.tal') or filename.endswith('.txt'):
         return process_file(filename)
     elif filename.endswith('.bin'):
         return load_bin(filename)
     elif os.path.isdir(filename):
-        pass
+        parts = []
+        for f in os.listdir(filename):
+            parts.append(load(filename + os.sep + f))
+        if automerge:
+            return merge(parts)
+        else:
+            return parts
+    else:
+        raise Exception('Impossible to load: ' + filename)
+
+
+def merge(multipart):
+    merged = multipart[0]
+    for p in range(1, len(multipart)):
+        merged.sentences.extend(multipart[p].sentences)
+    return merged
 
 
 def txt2tal(target, encoding):

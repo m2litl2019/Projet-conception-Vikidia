@@ -1,0 +1,59 @@
+== EMA ==
+
+reperage_passive on ema.bin
+Nb phrases  :   2096
+Nb passives :     12
+Ratio      : 0.006 %
+
+reperage_pronoms on ema.bin
+Total pronoms :        578
+Total phrases :       2096
+Moyenne pro / ph :   0.276
+
+reperage_verbeconj_prorel_sub on ema.bin
+Total phrases             : 2096
+Verbes conjugués          : 3864
+Pronoms relatifs          : 296
+Subordonnées              : 500
+Moyenne V1                : 4.253399258343634
+Moyenne modifieurs par NC : 0.4216290212183436
+
+== MAUPASSANT ==
+
+reperage_passive on maupassant12.bin
+Nb phrases  :   2022
+Nb passives :    113
+Ratio      : 0.056 %
+
+reperage_pronoms on maupassant12.bin
+Total pronoms :       1225
+Total phrases :       2022
+Moyenne pro / ph :   0.606
+
+reperage_verbeconj_prorel_sub on maupassant12.bin
+Total phrases             : 2022
+Verbes conjugués          : 6779
+Pronoms relatifs          : 615
+Subordonnées              : 656
+Moyenne V1                : 4.481540930979134
+Moyenne modifieurs par NC : 0.42869157755616966
+
+== VIKIBEST ==
+
+reperage_passive on vikibest
+Nb phrases  :   9236
+Nb passives :   1189
+Ratio      : 0.129 %
+
+reperage_pronoms on vikibest
+Total pronoms :       4191
+Total phrases :       9236
+Moyenne pro / ph :   0.454
+
+reperage_verbeconj_prorel_sub on vikibest
+Total phrases             : 9236
+Verbes conjugués          : 25066
+Pronoms relatifs          : 2658
+Subordonnées              : 2232
+Moyenne V1                : 5.328074129727022
+Moyenne modifieurs par NC : 0.41563146997929606

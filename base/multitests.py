@@ -22,3 +22,13 @@ reperage_pronoms(MAUPA)
 print()
 reperage_verbeconj_prorel_sub(MAUPA)
 print()
+
+VIKIBEST = 'vikibest'
+print('== VIKIBEST ==')
+print()
+reperage_passive(VIKIBEST)
+print()
+reperage_pronoms(VIKIBEST)
+print()
+reperage_verbeconj_prorel_sub(VIKIBEST)
+print()
