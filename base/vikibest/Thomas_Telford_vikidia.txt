@@ -1,0 +1,806 @@
+1	Thomas	Thomas	NPP	NPP	n=s|g=m	23	suj	23	suj
+2	Telford	_	NPP	NPP		1	mod	1	mod
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	né	naître	VPP	VPP	n=s|g=m|t=K	1	mod	1	mod
+5	à	à	P	P		4	mod	4	mod
+6	Glendinning	_	NPP	NPP		5	prep	5	prep
+7	(	(	PONCT	PONCT		6	ponct	6	ponct
+8	Écosse	_	NPP	NPP		6	mod	6	mod
+9	)	)	PONCT	PONCT		8	ponct	8	ponct
+10	le	le	DET	DET	n=s|g=m	12	det	12	det
+11	9	9	ADJ	ADJ		12	mod	12	mod
+12	août	août	NC	NC	n=s|g=m	4	mod	4	mod
+13	1757	1757	ADJ	ADJ		12	mod	12	mod
+14	et	et	CC	CC		13	coord	13	coord
+15	mort	mort	ADJ	ADJ	n=s|g=m|t=K	14	dep_coord	14	dep_coord
+16	à	à	P	P		4	mod	4	mod
+17	Londres	Londres	NPP	NPP	n=s|g=m	16	prep	16	prep
+18	le	le	DET	DET	n=s|g=m	20	det	20	det
+19	2	2	ADJ	ADJ		20	mod	20	mod
+20	septembre	septembre	NC	NC	n=s|g=m	4	mod	4	mod
+21	1834	1834	NC	NC		20	mod	20	mod
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+23	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+24	un	un	DET	DET	n=s|g=m	25	det	25	det
+25	architecte	architecte	NC	NC	n=s	23	obj	23	obj
+26	et	et	CC	CC		25	coord	25	coord
+27	ingénieur	ingénieur	NC	NC	n=s|g=m	26	dep_coord	26	dep_coord
+28	civil	civil	ADJ	ADJ	n=s|g=m	27	mod	27	mod
+29	écossais	écossais	NC	NC	g=m	27	mod	27	mod
+30	,	,	PONCT	PONCT		29	ponct	29	ponct
+31	connu	connaître	VPP	VPP	n=s|g=m|t=K	25	mod	25	mod
+32	surtout	surtout	ADV	ADV		31	mod	31	mod
+33	comme	comme	P	P		31	mod	31	mod
+34	un	un	DET	DET	n=s|g=m	36	det	36	det
+35	grand	grand	ADJ	ADJ	n=s|g=m	36	mod	36	mod
+36	constructeur	constructeur	NC	NC	n=s|g=m	33	prep	33	prep
+37	de	de	P	P		36	dep	36	dep
+38	routes	route	NC	NC	n=p|g=f	37	prep	37	prep
+39	,	,	PONCT	PONCT		38	ponct	38	ponct
+40	ponts	pont	NC	NC	n=p|g=m	36	mod	36	mod
+41	et	et	CC	CC		40	coord	40	coord
+42	canaux	canal	NC	NC	n=p|g=m	41	dep_coord	41	dep_coord
+43	du	de	P+D	P+D	n=s|g=m	36	dep	36	dep
+44	Royaume-Uni	Royaume-Uni	NPP	NPP	n=s|g=m	43	prep	43	prep
+45	.	.	PONCT	PONCT		44	ponct	44	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	apprend	apprendre	V	V	n=s|t=P|p=3	0	root	0	root
+3	d'	de	P	P		2	mod	2	mod
+4	abord	abord	NC	NC	n=s|g=m	3	prep	3	prep
+5	le	le	DET	DET	n=s|g=m	6	det	6	det
+6	travail	travail	NC	NC	n=s|g=m	2	obj	2	obj
+7	de	de	P	P		6	dep	6	dep
+8	la	la	DET	DET	n=s|g=f	9	det	9	det
+9	pierre	pierre	NC	NC	n=s|g=f	7	prep	7	prep
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	comme	comme	P	P		2	mod	2	mod
+12	apprenti	apprenti	NC	NC	n=s|g=m	11	prep	11	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	dès	dès	P	P		2	mod	2	mod
+15	l'	le	DET	DET	n=s	16	det	16	det
+16	âge	âge	NC	NC	n=s|g=m	14	prep	14	prep
+17	de	de	P	P		2	mod	2	mod
+18	quatorze	quatorze	DET	DET	s=card|n=p	19	det	19	det
+19	ans	an	NC	NC	n=p|g=m	17	prep	17	prep
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	participe	participer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	à	à	P	P		2	mod	2	mod
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	construction	construction	NC	NC	n=s|g=f	3	prep	3	prep
+6	de	de	P	P		2	mod	2	mod
+7	divers	divers	ADJ	ADJ	g=m	8	mod	8	mod
+8	ponts	pont	NC	NC	n=p|g=m	6	prep	6	prep
+9	dans	dans	P	P		2	mod	2	mod
+10	tout	tout	ADJ	ADJ	n=s|g=m	12	mod	12	mod
+11	le	le	DET	DET	n=s|g=m	12	det	12	det
+12	Royaume-Uni	Royaume-Uni	NPP	NPP	n=s|g=m	9	prep	9	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	puis	puis	CC	CC		2	coord	2	coord
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	17	det	17	det
+17	formation	formation	NC	NC	n=s|g=f	20	suj	20	suj
+18	achevée	achever	VPP	VPP	n=s|g=f|t=K	17	mod	17	mod
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	devient	devenir	V	V	n=s|t=P|p=3	14	dep_coord	14	dep_coord
+21	inspecteur	inspecteur	NC	NC	n=s|g=m	20	ats	20	ats
+22	des	de	P+D	P+D	n=p	20	mod	20	mod
+23	travaux	travail	NC	NC	n=p|g=m	22	prep	22	prep
+24	publics	public	ADJ	ADJ	n=p|g=m	23	mod	23	mod
+25	du	de	P+D	P+D	n=s|g=m	20	mod	20	mod
+26	comté	comté	NC	NC	n=s|g=m	25	prep	25	prep
+27	de	de	P	P		20	mod	20	mod
+28	Shropshire	_	NPP	NPP		27	prep	27	prep
+29	(	(	PONCT	PONCT		28	ponct	28	ponct
+30	wp	_	NPP	NPP		28	mod	28	mod
+31	)	)	PONCT	PONCT		30	ponct	30	ponct
+32	,	,	PONCT	PONCT		30	ponct	30	ponct
+33	à	à	P	P		20	mod	20	mod
+34	l'	le	DET	DET	n=s	35	det	35	det
+35	ouest	ouest	NC	NC	n=s|g=m	33	prep	33	prep
+36	de	de	P	P		35	dep	35	dep
+37	Birmingham	Birmingham	NPP	NPP	n=s|g=m	36	prep	36	prep
+38	.	.	PONCT	PONCT		37	ponct	37	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	génie	génie	NC	NC	n=s|g=m	5	suj	5	suj
+3	civil	civil	ADJ	ADJ	n=s|g=m	2	mod	2	mod
+4	en	en	CLO	CLO		5	obj	5	obj
+5	était	être	V	V	n=s|t=I|p=3	0	root	0	root
+6	à	à	P	P		5	mod	5	mod
+7	ses	ses	DET	DET	n=p|p=3|poss=s	8	det	8	det
+8	débuts	début	NC	NC	n=p|g=m	6	prep	6	prep
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	et	et	CC	CC		5	coord	5	coord
+11	Telford	_	NPP	NPP		13	suj	13	suj
+12	s'	se	CLR	CLR	n=p,s|p=3	13	aff	13	aff
+13	installe	installer	V	V	n=s|t=P,S|p=1,3	10	dep_coord	10	dep_coord
+14	donc	donc	ADV	ADV		13	mod	13	mod
+15	en	en	P	P		13	mod	13	mod
+16	tant	tant	ADV	ADV		15	mod	15	mod
+17	qu'	que	CS	CS		13	mod	13	mod
+18	architecte	architecte	NC	NC	n=s	21	mod	21	mod
+19	:	:	PONCT	PONCT		18	ponct	18	ponct
+20	il	il	CLS	CLS	n=s|g=m|p=3	21	suj	21	suj
+21	restaure	restaurer	V	V	n=s|t=P,S|p=1,3	17	sub	17	sub
+22	quantité	quantité	NC	NC	n=s|g=f	21	obj	21	obj
+23	de	de	P	P		21	mod	21	mod
+24	bâtiments	bâtiment	NC	NC	n=p|g=m	23	prep	23	prep
+25	publics	public	ADJ	ADJ	n=p|g=m	24	mod	24	mod
+26	,	,	PONCT	PONCT		25	ponct	25	ponct
+27	parfois	parfois	ADV	ADV		28	mod	28	mod
+28	de	de	P	P		21	mod	21	mod
+29	monuments	monument	NC	NC	n=p|g=m	28	prep	28	prep
+30	historiques	historique	ADJ	ADJ	n=p	29	mod	29	mod
+31	,	,	PONCT	PONCT		30	ponct	30	ponct
+32	dans	dans	P	P		21	mod	21	mod
+33	ce	ce	DET	DET	n=s|g=m	34	det	34	det
+34	comté	comté	NC	NC	n=s|g=m	32	prep	32	prep
+35	.	.	PONCT	PONCT		34	ponct	34	ponct
+
+1	En	en	P	P		0	_	0	_
+2	tant	tant	ADV	ADV		1	mod	1	mod
+3	qu'	que	CS	CS		0	_	0	_
+4	inspecteur	inspecteur	NC	NC	n=s|g=m	9	suj	9	suj
+5	du	de	P+D	P+D	n=s|g=m	4	dep	4	dep
+6	comté	comté	NC	NC	n=s|g=m	5	prep	5	prep
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	Telford	_	NPP	NPP		4	mod	4	mod
+9	était	être	V	V	n=s|t=I|p=3	3	sub	3	sub
+10	aussi	aussi	ADV	ADV		11	mod	11	mod
+11	responsable	responsable	ADJ	ADJ	n=s	9	ats	9	ats
+12	des	de	P+D	P+D	n=p	9	mod	9	mod
+13	ponts	pont	NC	NC	n=p|g=m	12	prep	12	prep
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+1	En	en	P	P		5	mod	5	mod
+2	1790	1790	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	il	il	CLS	CLS	n=s|g=m|p=3	5	suj	5	suj
+5	construisit	construire	V	V	n=s|t=J|p=3	0	root	0	root
+6	un	un	DET	DET	n=s|g=m	7	det	7	det
+7	pont	pont	NC	NC	n=s|g=m	5	obj	5	obj
+8	sur	sur	P	P		5	mod	5	mod
+9	la	la	DET	DET	n=s|g=f	10	det	10	det
+10	Severn	_	NPP	NPP		8	prep	8	prep
+11	à	à	P	P		5	mod	5	mod
+12	Montford	_	NPP	NPP		11	prep	11	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	sur	sur	P	P		5	mod	5	mod
+15	le	le	DET	DET	n=s|g=m	16	det	16	det
+16	trajet	trajet	NC	NC	n=s|g=m	14	prep	14	prep
+17	de	de	P	P		5	mod	5	mod
+18	la	la	DET	DET	n=s|g=f	20	det	20	det
+19	nouvelle	nouveau	ADJ	ADJ	n=s|g=f	20	mod	20	mod
+20	route	route	NC	NC	n=s|g=f	17	prep	17	prep
+21	de	de	P	P		5	mod	5	mod
+22	Londres	Londres	NPP	NPP	n=s|g=m	21	prep	21	prep
+23	à	à	P	P		5	mod	5	mod
+24	Holyhead	_	NPP	NPP		23	prep	23	prep
+25	,	,	PONCT	PONCT		24	ponct	24	ponct
+26	le	le	DET	DET	n=s|g=m	27	det	27	det
+27	premier	premier	ADJ	ADJ	n=s|g=m	5	mod	5	mod
+28	d'	de	P	P		5	mod	5	mod
+29	une	une	DET	DET	n=s|g=f	30	det	30	det
+30	quarantaine	quarantaine	NC	NC	n=s|g=f	28	prep	28	prep
+31	de	de	P	P		30	dep	30	dep
+32	ponts	pont	NC	NC	n=p|g=m	31	prep	31	prep
+33	qu'	que	PROREL	PROREL		35	obj	35	obj
+34	il	il	CLS	CLS	n=s|g=m|p=3	35	suj	35	suj
+35	construisit	construire	V	V	n=s|t=J|p=3	30	mod_rel	30	mod_rel
+36	dans	dans	P	P		35	mod	35	mod
+37	tout	tout	ADJ	ADJ	n=s|g=m	39	mod	39	mod
+38	le	le	DET	DET	n=s|g=m	39	det	39	det
+39	Shropshire	_	NPP	NPP		36	prep	36	prep
+40	.	.	PONCT	PONCT		39	ponct	39	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	pont	pont	NC	NC	n=s|g=m	10	suj	10	suj
+3	de	de	P	P		2	dep	2	dep
+4	Buildwas	_	NPP	NPP		3	prep	3	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	sur	sur	P	P		2	dep	2	dep
+7	la	la	DET	DET	n=s|g=f	8	det	8	det
+8	Severn	_	NPP	NPP		6	prep	6	prep
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	fut	être	V	V	n=s|t=J|p=3	0	root	0	root
+11	son	son	DET	DET	n=s|g=m|p=3|poss=s	13	det	13	det
+12	premier	premier	ADJ	ADJ	n=s|g=m	13	mod	13	mod
+13	pont	pont	NC	NC	n=s|g=m	10	obj	10	obj
+14	métallique	métallique	ADJ	ADJ	n=s	13	mod	13	mod
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	fortement	_	ADV	ADV		17	mod	17	mod
+17	influencé	influencer	VPP	VPP	n=s|g=m|t=K	13	mod	13	mod
+18	par	par	P	P		17	mod	17	mod
+19	le	le	DET	DET	n=s|g=m	22	det	22	det
+20	très	très	ADV	ADV		21	mod	21	mod
+21	célèbre	célèbre	ADJ	ADJ	n=s	22	mod	22	mod
+22	Iron	Iron	NPP	NPP	n=s|g=m	18	prep	18	prep
+23	Bridge	_	NPP	NPP		22	mod	22	mod
+24	,	,	PONCT	PONCT		23	ponct	23	ponct
+25	à	à	P	P		17	mod	17	mod
+26	ceci	ceci	PRO	PRO	n=s|g=m	25	prep	25	prep
+27	près	près	ADV	ADV		26	mod	26	mod
+28	que	que	CS	CS		17	mod	17	mod
+29	le	le	DET	DET	n=s|g=m	30	det	30	det
+30	sien	sien	ADJ	ADJ	n=s|g=m	31	suj	31	suj
+31	pesait	peser	V	V	n=s|t=I|p=3	28	sub	28	sub
+32	deux	deux	DET	DET	s=card|n=p	33	det	33	det
+33	fois	fois	NC	NC	g=f	31	obj	31	obj
+34	moins	moins	ADV	ADV		35	mod	35	mod
+35	lourd	lourd	ADJ	ADJ	n=s|g=m	33	mod	33	mod
+36	,	,	PONCT	PONCT		35	ponct	35	ponct
+37	pour	pour	P	P		31	mod	31	mod
+38	une	une	DET	DET	n=s|g=f	39	det	39	det
+39	portée	portée	NC	NC	n=s|g=f	37	prep	37	prep
+40	de	de	P	P		31	mod	31	mod
+41	10	10	NC	NC		40	prep	40	prep
+42	m	_	ADV	ADV		43	mod	43	mod
+43	supérieure	supérieur	ADJ	ADJ	n=s|g=f	41	mod	41	mod
+44	.	.	PONCT	PONCT		43	ponct	43	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	réputation	réputation	NC	NC	n=s|g=f	10	suj	10	suj
+3	des	de	P+D	P+D	n=p	2	dep	2	dep
+4	travaux	travail	NC	NC	n=p|g=m	3	prep	3	prep
+5	de	de	P	P		2	dep	2	dep
+6	Telford	_	NPP	NPP		5	prep	5	prep
+7	dans	dans	P	P		2	dep	2	dep
+8	le	le	DET	DET	n=s|g=m	9	det	9	det
+9	Shropshire	_	NPP	NPP		7	prep	7	prep
+10	fut	être	V	V	n=s|t=J|p=3	0	root	0	root
+11	telle	tel	ADJ	ADJ	n=s|g=f	10	ats	10	ats
+12	qu'	que	CS	CS		10	mod	10	mod
+13	il	il	CLS	CLS	n=s|g=m|p=3	15	suj	15	suj
+14	se	se	CLR	CLR	n=p,s|p=3	15	aff	15	aff
+15	vit	vivre	V	V	n=s|t=P|p=3	12	sub	12	sub
+16	confier	confier	VINF	VINF	t=W	15	obj	15	obj
+17	à	à	P	P		16	mod	16	mod
+18	partir	partir	VINF	VINF	t=W	17	prep	17	prep
+19	de	de	P	P		18	mod	18	mod
+20	1793	1793	NC	NC		19	prep	19	prep
+21	l'	le	DET	DET	n=s	22	det	22	det
+22	étude	étude	NC	NC	n=s|g=f	18	obj	18	obj
+23	et	et	CC	CC		10	coord	10	coord
+24	la	la	DET	DET	n=s|g=f	25	det	25	det
+25	construction	construction	NC	NC	n=s|g=f	0	_	0	_
+26	de	de	P	P		25	dep	25	dep
+27	l'	le	DET	DET	n=s	28	det	28	det
+28	Ellesmere	_	NC	NC		26	prep	26	prep
+29	Canal	Canal	NPP	NPP	n=s|g=m	28	mod	28	mod
+30	,	,	PONCT	PONCT		29	ponct	29	ponct
+31	qui	qui	PROREL	PROREL	n=s	32	suj	32	suj
+32	reliait	relier	V	V	n=s|t=I|p=3	25	mod_rel	25	mod_rel
+33	les	les	DET	DET	n=p	34	det	34	det
+34	forges	forge	NC	NC	n=p|g=f	32	obj	32	obj
+35	et	et	CC	CC		34	coord	34	coord
+36	mines	mine	NC	NC	n=p|g=f	35	dep_coord	35	dep_coord
+37	de	de	P	P		32	mod	32	mod
+38	charbon	charbon	NC	NC	n=s|g=m	37	prep	37	prep
+39	de	de	P	P		32	mod	32	mod
+40	Wrexham	_	NPP	NPP		39	prep	39	prep
+41	au	à	P+D	P+D	n=s|g=m	32	mod	32	mod
+42	port	port	NC	NC	n=s|g=m	41	prep	41	prep
+43	de	de	P	P		32	mod	32	mod
+44	Chester	Chester	NPP	NPP	n=s|g=m	43	prep	43	prep
+45	,	,	PONCT	PONCT		44	ponct	44	ponct
+46	via	via	P	P		32	mod	32	mod
+47	des	des	DET	DET	n=p	48	det	48	det
+48	canaux	canal	NC	NC	n=p|g=m	46	prep	46	prep
+49	déjà	déjà	ADV	ADV		50	mod	50	mod
+50	existants	existant	ADJ	ADJ	n=p|g=m	48	mod	48	mod
+51	.	.	PONCT	PONCT		50	ponct	50	ponct
+
+1	On	on	CLS	CLS	n=s|p=3	3	suj	3	suj
+2	lui	lui	CLO	CLO	n=s|p=3	3	a_obj	3	a_obj
+3	doit	devoir	V	V	n=s|t=P|p=3	0	root	0	root
+4	encore	encore	ADV	ADV		3	mod	3	mod
+5	le	le	DET	DET	n=s|g=m	7	det	7	det
+6	célèbre	célèbre	ADJ	ADJ	n=s	7	mod	7	mod
+7	pont-canal	_	NC	NC		3	obj	3	obj
+8	de	de	P	P		3	mod	3	mod
+9	Pontcysyllte	_	NPP	NPP		8	prep	8	prep
+10	Aqueduct	_	NPP	NPP		9	mod	9	mod
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	sur	sur	P	P		3	mod	3	mod
+13	la	la	DET	DET	n=s|g=f	14	det	14	det
+14	rivière	rivière	NC	NC	n=s|g=f	12	prep	12	prep
+15	Dee	Dee	NPP	NPP	n=s	14	mod	14	mod
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	dans	dans	P	P		3	mod	3	mod
+18	la	la	DET	DET	n=s|g=f	19	det	19	det
+19	vallée	vallée	NC	NC	n=s|g=f	17	prep	17	prep
+20	de	de	P	P		19	dep	19	dep
+21	Llangollen	_	NPP	NPP		20	prep	20	prep
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+23	où	où	PROREL	PROREL		25	mod	25	mod
+24	Telford	_	NPP	NPP		25	suj	25	suj
+25	expérimenta	expérimenter	V	V	n=s|t=J|p=3	19	mod_rel	19	mod_rel
+26	une	une	DET	DET	n=s|g=f	28	det	28	det
+27	nouvelle	nouveau	ADJ	ADJ	n=s|g=f	28	mod	28	mod
+28	méthode	méthode	NC	NC	n=s|g=f	25	obj	25	obj
+29	de	de	P	P		25	mod	25	mod
+30	chenal	chenal	NC	NC	n=s|g=m	29	prep	29	prep
+31	en	en	P	P		25	mod	25	mod
+32	éléments	élément	NC	NC	n=p|g=m	31	prep	31	prep
+33	de	de	P	P		25	mod	25	mod
+34	fonte	fonte	NC	NC	n=s|g=f	33	prep	33	prep
+35	boulonnés	boulonner	VPP	VPP	n=p|g=m|t=K	25	mod	25	mod
+36	et	et	CC	CC		35	coord	35	coord
+37	scellés	sceller	VPP	VPP	n=p|g=m|t=K	36	dep_coord	36	dep_coord
+38	sur	sur	P	P		37	mod	37	mod
+39	des	des	DET	DET	n=p	40	det	40	det
+40	piliers	pilier	NC	NC	n=p|g=m	38	prep	38	prep
+41	de	de	P	P		40	dep	40	dep
+42	maçonnerie	maçonnerie	NC	NC	n=s|g=f	41	prep	41	prep
+43	.	.	PONCT	PONCT		42	ponct	42	ponct
+
+1	Durant	durant	P	P		7	mod	7	mod
+2	la	la	DET	DET	n=s|g=f	4	det	4	det
+3	même	même	ADJ	ADJ	n=s	4	mod	4	mod
+4	période	période	NC	NC	n=s	1	prep	1	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	Telford	_	NPP	NPP		7	suj	7	suj
+7	participa	participer	V	V	n=s|t=J|p=3	0	root	0	root
+8	encore	encore	ADV	ADV		7	mod	7	mod
+9	à	à	P	P		7	mod	7	mod
+10	l'	le	DET	DET	n=s	11	det	11	det
+11	étude	étude	NC	NC	n=s|g=f	9	prep	9	prep
+12	et	et	CC	CC		9	coord	9	coord
+13	à	à	P	P		12	dep_coord	12	dep_coord
+14	la	la	DET	DET	n=s|g=f	15	det	15	det
+15	construction	construction	NC	NC	n=s|g=f	13	prep	13	prep
+16	du	de	P+D	P+D	n=s|g=m	15	dep	15	dep
+17	Shrewsbury	_	NPP	NPP		16	prep	16	prep
+18	Canal	Canal	NPP	NPP	n=s|g=m	17	mod	17	mod
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	qu'	que	PROREL	PROREL		22	obj	22	obj
+21	il	il	CLS	CLS	n=s|g=m|p=3	22	suj	22	suj
+22	acheva	achever	V	V	n=s|t=J|p=3	15	mod_rel	15	mod_rel
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	Ellesmere	_	NC	NC		5	suj	5	suj
+3	Canal	Canal	NPP	NPP	n=s|g=m	2	mod	2	mod
+4	fut	être	V	V	n=s|t=J|p=3	5	aux_pass	5	aux_pass
+5	achevé	achever	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+6	en	en	P	P		5	mod	5	mod
+7	1805	1805	NC	NC		6	prep	6	prep
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	et	et	CC	CC		5	coord	5	coord
+10	tout	tout	ADV	ADV		11	mod	11	mod
+11	au	à	P+D	P+D	n=s|g=m	9	dep_coord	9	dep_coord
+12	long	long	ADJ	ADJ	n=s|g=m	11	prep	11	prep
+13	de	de	P	P		9	dep_coord	9	dep_coord
+14	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	15	det	15	det
+15	carrière	carrière	NC	NC	n=s|g=f	13	prep	13	prep
+16	dans	dans	P	P		9	dep_coord	9	dep_coord
+17	les	les	DET	DET	n=p	18	det	18	det
+18	canaux	canal	NC	NC	n=p|g=m	16	prep	16	prep
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	Telford	_	NPP	NPP		5	mod	5	mod
+21	fut	être	V	V	n=s|t=J|p=3	22	aux_tps	22	aux_tps
+22	consulté	consulter	VPP	VPP	n=s|g=m|t=K	5	mod	5	mod
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	par	par	P	P		22	mod	22	mod
+25	exemple	exemple	NC	NC	n=s|g=m	24	prep	24	prep
+26	pour	pour	P	P		22	mod	22	mod
+27	le	le	DET	DET	n=s|g=m	28	det	28	det
+28	réseau	réseau	NC	NC	n=s|g=m	26	prep	26	prep
+29	des	de	P+D	P+D	n=p	22	mod	22	mod
+30	canaux	canal	NC	NC	n=p|g=m	29	prep	29	prep
+31	de	de	P	P		22	mod	22	mod
+32	Liverpool	Liverpool	NPP	NPP	n=s|g=m	31	prep	31	prep
+33	ou	ou	CC	CC		22	coord	22	coord
+34	encore	encore	ADV	ADV		35	mod	35	mod
+35	lors	lors	ADV	ADV		33	dep_coord	33	dep_coord
+36	de	de	P	P		33	dep_coord	33	dep_coord
+37	la	la	DET	DET	n=s|g=f	38	det	38	det
+38	reconstruction	reconstruction	NC	NC	n=s|g=f	36	prep	36	prep
+39	du	de	P+D	P+D	n=s|g=m	38	dep	38	dep
+40	London	London	NPP	NPP	n=s	39	prep	39	prep
+41	Bridge	_	NPP	NPP		40	mod	40	mod
+42	en	en	P	P		22	mod	22	mod
+43	1800	1800	NC	NC		42	prep	42	prep
+44	.	.	PONCT	PONCT		43	ponct	43	ponct
+
+1	À	à	P	P		8	mod	8	mod
+2	partir	partir	VINF	VINF	t=W	1	prep	1	prep
+3	de	de	P	P		2	mod	2	mod
+4	1801	1801	NC	NC		3	prep	3	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	Telford	_	NPP	NPP		8	suj	8	suj
+7	se	se	CLR	CLR	n=p,s|p=3	8	aff	8	aff
+8	mit	mettre	V	V	n=s|t=J|p=3	0	root	0	root
+9	à	à	P	P		8	mod	8	mod
+10	travailler	travailler	VINF	VINF	t=W	9	prep	9	prep
+11	sur	sur	P	P		10	mod	10	mod
+12	un	un	DET	DET	n=s|g=m	14	det	14	det
+13	vaste	vaste	ADJ	ADJ	n=s	14	mod	14	mod
+14	plan	plan	NC	NC	n=s|g=m	11	prep	11	prep
+15	de	de	P	P		14	dep	14	dep
+16	développement	développement	NC	NC	n=s|g=m	15	prep	15	prep
+17	des	de	P+D	P+D	n=p	10	mod	10	mod
+18	communications	communication	NC	NC	n=p|g=f	17	prep	17	prep
+19	en	en	P	P		18	dep	18	dep
+20	Écosse	Écosse	NPP	NPP	n=s|g=f	19	prep	19	prep
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	comprenant	comprendre	VPR	VPR	t=G	8	mod	8	mod
+23	des	des	DET	DET	n=p	24	det	24	det
+24	canaux	canal	NC	NC	n=p|g=m	22	obj	22	obj
+25	,	,	PONCT	PONCT		24	ponct	24	ponct
+26	dont	dont	PROREL	PROREL		0	_	0	_
+27	le	le	DET	DET	n=s|g=m	28	det	28	det
+28	Caledonian	_	NPP	NPP		0	_	0	_
+29	Canal	Canal	NPP	NPP	n=s|g=m	28	mod	28	mod
+30	,	,	PONCT	PONCT		29	ponct	29	ponct
+31	un	un	DET	DET	n=s|g=m	32	det	32	det
+32	ensemble	ensemble	NC	NC	n=s|g=m	28	mod	28	mod
+33	de	de	P	P		32	dep	32	dep
+34	900	900	ADJ	ADJ		35	mod	35	mod
+35	miles	mile	NC	NC	n=p|g=m	33	prep	33	prep
+36	de	de	P	P		35	dep	35	dep
+37	nouvelles	nouveau	ADJ	ADJ	n=p|g=f	38	mod	38	mod
+38	routes	route	NC	NC	n=p|g=f	36	prep	36	prep
+39	,	,	PONCT	PONCT		38	ponct	38	ponct
+40	une	une	DET	DET	n=s|g=f	41	det	41	det
+41	centaine	centaine	NC	NC	n=s|g=f	28	mod	28	mod
+42	de	de	P	P		41	dep	41	dep
+43	ponts	pont	NC	NC	n=p|g=m	42	prep	42	prep
+44	,	,	PONCT	PONCT		43	ponct	43	ponct
+45	l'	le	DET	DET	n=s	46	det	46	det
+46	aménagement	aménagement	NC	NC	n=s|g=m	28	mod	28	mod
+47	de	de	P	P		46	dep	46	dep
+48	ports	port	NC	NC	n=p|g=m	47	prep	47	prep
+49	comme	comme	P	P		46	dep	46	dep
+50	Aberdeen	_	NPP	NPP		49	prep	49	prep
+51	ou	ou	CC	CC		50	coord	50	coord
+52	Dundee	_	NPP	NPP		51	dep_coord	51	dep_coord
+53	,	,	PONCT	PONCT		52	ponct	52	ponct
+54	et	et	CC	CC		46	coord	46	coord
+55	même	même	ADV	ADV		56	mod	56	mod
+56	32	32	ADJ	ADJ		54	dep_coord	54	dep_coord
+57	églises	église	NC	NC	n=p|g=f	54	dep_coord	54	dep_coord
+58	.	.	PONCT	PONCT		57	ponct	57	ponct
+
+1	Telford	_	NPP	NPP		3	suj	3	suj
+2	fut	être	V	V	n=s|t=J|p=3	3	aux_pass	3	aux_pass
+3	consulté	consulter	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+4	en	en	P	P		3	mod	3	mod
+5	1806	1806	NC	NC		4	prep	4	prep
+6	par	par	P	P		3	mod	3	mod
+7	le	le	DET	DET	n=s|g=m	8	det	8	det
+8	roi	roi	NC	NC	n=s|g=m	6	prep	6	prep
+9	Gustave	Gustave	NPP	NPP	n=s|g=m	8	mod	8	mod
+10	IV	_	NPP	NPP		8	mod	8	mod
+11	Adolphe	Adolphe	NPP	NPP	n=s|g=m	8	mod	8	mod
+12	de	de	P	P		3	mod	3	mod
+13	Suède	Suède	NPP	NPP	n=s|g=f	12	prep	12	prep
+14	(	(	PONCT	PONCT		13	ponct	13	ponct
+15	wp	_	NPP	NPP		13	mod	13	mod
+16	)	)	PONCT	PONCT		15	ponct	15	ponct
+17	de	de	P	P		3	mod	3	mod
+18	Suède	Suède	NPP	NPP	n=s|g=f	17	prep	17	prep
+19	pour	pour	P	P		3	mod	3	mod
+20	la	la	DET	DET	n=s|g=f	21	det	21	det
+21	construction	construction	NC	NC	n=s|g=f	19	prep	19	prep
+22	d'	de	P	P		3	mod	3	mod
+23	un	un	DET	DET	n=s|g=m	24	det	24	det
+24	canal	canal	NC	NC	n=s|g=m	22	prep	22	prep
+25	entre	entre	P	P		3	mod	3	mod
+26	Göteborg	_	NPP	NPP		25	prep	25	prep
+27	et	et	CC	CC		3	coord	3	coord
+28	Stockholm	Stockholm	NPP	NPP	n=s|g=m	27	dep_coord	27	dep_coord
+29	.	.	PONCT	PONCT		28	ponct	28	ponct
+
+1	Ses	ses	DET	DET	n=p|p=3|poss=s	2	det	2	det
+2	plans	plan	NC	NC	n=p|g=m	4	suj	4	suj
+3	furent	être	V	V	n=p|t=J|p=3	4	aux_pass	4	aux_pass
+4	approuvés	approuver	VPP	VPP	n=p|g=m|t=K	0	root	0	root
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	et	et	CC	CC		4	coord	4	coord
+7	le	le	DET	DET	n=s|g=m	8	det	8	det
+8	travail	travail	NC	NC	n=s|g=m	17	suj	17	suj
+9	de	de	P	P		8	dep	8	dep
+10	creusement	creusement	NC	NC	n=s|g=m	9	prep	9	prep
+11	du	de	P+D	P+D	n=s|g=m	8	dep	8	dep
+12	canal	canal	NC	NC	n=s|g=m	11	prep	11	prep
+13	Göta	_	NPP	NPP		12	mod	12	mod
+14	(	(	PONCT	PONCT		13	ponct	13	ponct
+15	wp	_	NPP	NPP		12	mod	12	mod
+16	)	)	PONCT	PONCT		15	ponct	15	ponct
+17	put	pouvoir	V	V	n=s|t=J|p=3	6	dep_coord	6	dep_coord
+18	commencer	commencer	VINF	VINF	t=W	17	obj	17	obj
+19	en	en	P	P		18	mod	18	mod
+20	1810	1810	NC	NC		19	prep	19	prep
+21	.	.	PONCT	PONCT		20	ponct	20	ponct
+
+1	Commence	commencer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+2	alors	alors	ADV	ADV		1	mod	1	mod
+3	une	une	DET	DET	n=s|g=f	4	det	4	det
+4	période	période	NC	NC	n=s	1	suj	1	suj
+5	où	où	PROREL	PROREL		8	mod	8	mod
+6	Telford	_	NPP	NPP		8	suj	8	suj
+7	est	être	V	V	n=s|t=P|p=3	8	aux_tps	8	aux_tps
+8	chargé	charger	VPP	VPP	n=s|g=m|t=K	4	mod_rel	4	mod_rel
+9	de	de	P	P		8	mod	8	mod
+10	reconstruire	reconstruire	VINF	VINF	t=W	9	prep	9	prep
+11	ou	ou	CC	CC		9	coord	9	coord
+12	de	de	P	P		11	dep_coord	11	dep_coord
+13	dessiner	dessiner	VINF	VINF	t=W	12	prep	12	prep
+14	quantité	quantité	NC	NC	n=s|g=f	13	obj	13	obj
+15	de	de	P	P		13	mod	13	mod
+16	routes	route	NC	NC	n=p|g=f	15	prep	15	prep
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	à	à	P	P		8	mod	8	mod
+19	commencer	commencer	VINF	VINF	t=W	18	prep	18	prep
+20	par	par	P	P		19	mod	19	mod
+21	celle	celle	PRO	PRO	n=s|g=f	20	prep	20	prep
+22	que	que	PROREL	PROREL		25	obj	25	obj
+23	l'	le	DET	DET	n=s	24	det	24	det
+24	on	on	CLS	CLS	n=s|p=3	25	suj	25	suj
+25	connaît	connaître	V	V	n=s|t=P|p=3	21	mod_rel	21	mod_rel
+26	aujourd'hui	aujourd'hui	ADV	ADV		25	mod	25	mod
+27	sous	sous	P	P		25	mod	25	mod
+28	le	le	DET	DET	n=s|g=m	29	det	29	det
+29	nom	nom	NC	NC	n=s|g=m	27	prep	27	prep
+30	de	de	P	P		25	mod	25	mod
+31	A5	_	NPP	NPP		30	prep	30	prep
+32	,	,	PONCT	PONCT		31	ponct	31	ponct
+33	une	une	DET	DET	n=s|g=f	34	det	34	det
+34	route	route	NC	NC	n=s|g=f	19	obj	19	obj
+35	très	très	ADV	ADV		36	mod	36	mod
+36	fréquentée	fréquenter	VPP	VPP	n=s|g=f|t=K	34	mod	34	mod
+37	et	et	CC	CC		34	coord	34	coord
+38	très	très	ADV	ADV		37	mod	37	mod
+39	ancienne	ancien	ADJ	ADJ	n=s|g=f	34	mod	34	mod
+40	,	,	PONCT	PONCT		39	ponct	39	ponct
+41	ancienne	ancien	ADJ	ADJ	n=s|g=f	34	mod	34	mod
+42	voie	voie	NC	NC	n=s|g=f	34	mod	34	mod
+43	romaine	romain	ADJ	ADJ	n=s|g=f	42	mod	42	mod
+44	,	,	PONCT	PONCT		43	ponct	43	ponct
+45	qui	qui	PROREL	PROREL	n=s	46	suj	46	suj
+46	conduit	conduire	V	V	n=s|t=P|p=3	34	mod_rel	34	mod_rel
+47	de	de	P	P		46	mod	46	mod
+48	Londres	Londres	NPP	NPP	n=s|g=m	47	prep	47	prep
+49	à	à	P	P		46	mod	46	mod
+50	Holyhead	_	NPP	NPP		49	prep	49	prep
+51	et	et	CC	CC		46	coord	46	coord
+52	,	,	PONCT	PONCT		51	ponct	51	ponct
+53	de	de	P	P		51	dep_coord	51	dep_coord
+54	là	là	ADV	ADV		53	mod	53	mod
+55	,	,	PONCT	PONCT		54	ponct	54	ponct
+56	à	à	P	P		53	dep	53	dep
+57	Dublin	Dublin	NPP	NPP	n=s|g=m	56	prep	56	prep
+58	en	en	P	P		53	dep	53	dep
+59	Irlande	Irlande	NPP	NPP	n=s|g=f	58	prep	58	prep
+60	.	.	PONCT	PONCT		59	ponct	59	ponct
+
+1	Des	des	DET	DET	n=p	2	det	2	det
+2	ponts	pont	NC	NC	n=p|g=m	4	suj	4	suj
+3	furent	être	V	V	n=p|t=J|p=3	4	aux_pass	4	aux_pass
+4	construits	construire	VPP	VPP	n=p|g=m|t=K	0	root	0	root
+5	sur	sur	P	P		4	mod	4	mod
+6	le	le	DET	DET	n=s|g=m	7	det	7	det
+7	chemin	chemin	NC	NC	n=s|g=m	5	prep	5	prep
+8	et	et	CC	CC		4	coord	4	coord
+9	aux	à	P+D	P+D	n=p	8	dep_coord	8	dep_coord
+10	alentours	alentours	NC	NC	n=p|g=m	9	prep	9	prep
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	comme	comme	CS	CS		4	mod	4	mod
+13	le	le	DET	DET	n=s|g=m	15	det	15	det
+14	fameux	fameux	ADJ	ADJ	g=m	15	mod	15	mod
+15	pont	pont	NC	NC	n=s|g=m	39	suj	39	suj
+16	suspendu	suspendre	VPP	VPP	n=s|g=m|t=K	15	mod	15	mod
+17	de	de	P	P		16	mod	16	mod
+18	Conwy	_	NPP	NPP		17	prep	17	prep
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	et	et	CC	CC		15	coord	15	coord
+21	bientôt	bientôt	ADV	ADV		20	mod	20	mod
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+23	mais	mais	CC	CC		21	coord	21	coord
+24	d'	de	P	P		23	dep_coord	23	dep_coord
+25	une	une	DET	DET	n=s|g=f	27	det	27	det
+26	autre	autre	ADJ	ADJ	n=s	27	mod	27	mod
+27	ampleur	ampleur	NC	NC	n=s|g=f	24	prep	24	prep
+28	,	,	PONCT	PONCT		27	ponct	27	ponct
+29	le	le	DET	DET	n=s|g=m	33	det	33	det
+30	non	non	ADV	ADV		31	mod	31	mod
+31	moins	moins	ADV	ADV		32	mod	32	mod
+32	célèbre	célèbre	ADJ	ADJ	n=s	33	mod	33	mod
+33	pont	pont	NC	NC	n=s|g=m	20	dep_coord	20	dep_coord
+34	suspendu	suspendre	VPP	VPP	n=s|g=m|t=K	33	mod	33	mod
+35	de	de	P	P		34	mod	34	mod
+36	Menai	_	NPP	NPP		35	prep	35	prep
+37	,	,	PONCT	PONCT		36	ponct	36	ponct
+38	qui	qui	PROREL	PROREL	n=s	39	suj	39	suj
+39	relie	relier	V	V	n=s|t=P,S|p=1,3	12	sub	12	sub
+40	l'	le	DET	DET	n=s	41	det	41	det
+41	île	île	NC	NC	n=s|g=f	39	obj	39	obj
+42	d'	de	P	P		41	dep	41	dep
+43	Anglesey	_	NPP	NPP		42	prep	42	prep
+44	à	à	P	P		39	mod	39	mod
+45	la	la	DET	DET	n=s|g=f	46	det	46	det
+46	terre	terre	NC	NC	n=s|g=f	44	prep	44	prep
+47	ferme	ferme	ADJ	ADJ	n=s	46	mod	46	mod
+48	.	.	PONCT	PONCT		47	ponct	47	ponct
+
+1	C'	ce	CLS	CLS		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	ainsi	ainsi	ADV	ADV		2	mod	2	mod
+4	qu'	que	CS	CS		2	mod	2	mod
+5	il	il	CLS	CLS	n=s|g=m|p=3	6	suj	6	suj
+6	gagna	gagner	V	V	n=s|t=J|p=3	4	sub	4	sub
+7	le	le	DET	DET	n=s|g=m	8	det	8	det
+8	surnom	surnom	NC	NC	n=s|g=m	6	obj	6	obj
+9	de	de	P	P		6	mod	6	mod
+10	"	"	PONCT	PONCT		9	ponct	9	ponct
+11	The	_	ET	ET		14	dep	14	dep
+12	Colossus	_	ET	ET		14	dep	14	dep
+13	of	_	ET	ET		14	dep	14	dep
+14	Roads	_	ET	ET		9	prep	9	prep
+15	"	"	PONCT	PONCT		14	ponct	14	ponct
+16	(	(	PONCT	PONCT		14	ponct	14	ponct
+17	le	le	DET	DET	n=s|g=m	18	det	18	det
+18	Colosse	_	NPP	NPP		2	mod	2	mod
+19	des	de	P+D	P+D	n=p	18	dep	18	dep
+20	routes	route	NC	NC	n=p|g=f	19	prep	19	prep
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	jeu	jeu	NC	NC	n=s|g=m	18	mod	18	mod
+23	de	de	P	P		22	dep	22	dep
+24	mots	mot	NC	NC	n=p|g=m	23	prep	23	prep
+25	avec	avec	P	P		22	dep	22	dep
+26	le	le	DET	DET	n=s|g=m	27	det	27	det
+27	Colosse	_	NPP	NPP		25	prep	25	prep
+28	de	de	P	P		22	dep	22	dep
+29	Rhodes	Rhodes	NPP	NPP	n=s|g=m	28	prep	28	prep
+30	)	)	PONCT	PONCT		29	ponct	29	ponct
+31	,	,	PONCT	PONCT		29	ponct	29	ponct
+32	que	que	PROREL	PROREL		34	suj	34	suj
+33	lui	lui	CLO	CLO	n=s|p=3	34	a_obj	34	a_obj
+34	donna	donner	V	V	n=s|t=J|p=3	18	mod_rel	18	mod_rel
+35	plaisamment	_	ADV	ADV		34	mod	34	mod
+36	son	son	DET	DET	n=s|g=m|p=3|poss=s	37	det	37	det
+37	ami	ami	NC	NC	n=s|g=m	34	obj	34	obj
+38	le	le	DET	DET	n=s|g=m	39	det	39	det
+39	poète	poète	NC	NC	n=s	34	mod	34	mod
+40	Robert	Robert	NPP	NPP	n=s|g=m	39	mod	39	mod
+41	Southey	_	NPP	NPP		39	mod	39	mod
+42	.	.	PONCT	PONCT		41	ponct	41	ponct
+
+1	Telford	_	NPP	NPP		2	suj	2	suj
+2	mena	mener	V	V	n=s|t=J|p=3	0	root	0	root
+3	encore	encore	ADV	ADV		2	mod	2	mod
+4	à	à	P	P		2	mod	2	mod
+5	bien	bien	ADV	ADV		7	mod	7	mod
+6	la	la	DET	DET	n=s|g=f	7	det	7	det
+7	construction	construction	NC	NC	n=s|g=f	4	prep	4	prep
+8	des	de	P+D	P+D	n=p	2	mod	2	mod
+9	"	"	PONCT	PONCT		8	ponct	8	ponct
+10	St	être	V	V	n=p|t=P|p=3	2	mod	2	mod
+11	Katharine	Katharine	NPP	NPP	n=s|g=f	10	suj	10	suj
+12	Docks	_	NPP	NPP		11	mod	11	mod
+13	"	"	PONCT	PONCT		12	ponct	12	ponct
+14	,	,	PONCT	PONCT		12	ponct	12	ponct
+15	près	près	ADV	ADV		16	mod	16	mod
+16	de	de	P	P		10	mod	10	mod
+17	Tower	_	NPP	NPP		16	prep	16	prep
+18	Bridge	_	NPP	NPP		17	mod	17	mod
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	à	à	P	P		10	mod	10	mod
+21	Londres	Londres	NPP	NPP	n=s|g=m	20	prep	20	prep
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+23	en	en	P	P		10	mod	10	mod
+24	1824-28	1824-28	NPP	NPP		23	prep	23	prep
+25	,	,	PONCT	PONCT		24	ponct	24	ponct
+26	ainsi	ainsi	ADV	ADV		27	mod	27	mod
+27	que	que	CS	CS		10	mod	10	mod
+28	le	le	DET	DET	n=s|g=m	30	det	30	det
+29	"	"	PONCT	PONCT		28	ponct	28	ponct
+30	Gloucester	_	NPP	NPP		0	_	0	_
+31	and	_	NPP	NPP		30	mod	30	mod
+32	Sharpness	_	NPP	NPP		30	mod	30	mod
+33	Canal	Canal	NPP	NPP	n=s|g=m	30	mod	30	mod
+34	"	"	PONCT	PONCT		33	ponct	33	ponct
+35	,	,	PONCT	PONCT		33	ponct	33	ponct
+36	le	le	DET	DET	n=s|g=m	39	det	39	det
+37	second	second	ADJ	ADJ	n=s|g=m	39	mod	39	mod
+38	"	"	PONCT	PONCT		37	ponct	37	ponct
+39	Harecastle	_	NPP	NPP		30	coord	30	coord
+40	Tunnel	_	NPP	NPP		39	mod	39	mod
+41	"	"	PONCT	PONCT		40	ponct	40	ponct
+42	sur	sur	P	P		0	_	0	_
+43	le	le	DET	DET	n=s|g=m	45	det	45	det
+44	"	"	PONCT	PONCT		43	ponct	43	ponct
+45	Trent	Trent	NPP	NPP	n=s|g=m	42	prep	42	prep
+46	and	_	NPP	NPP		45	mod	45	mod
+47	Mersey	_	NPP	NPP		45	mod	45	mod
+48	Canal	Canal	NPP	NPP	n=s|g=m	45	mod	45	mod
+49	"	"	PONCT	PONCT		48	ponct	48	ponct
+50	(	(	PONCT	PONCT		48	ponct	48	ponct
+51	1827	1827	NC	NC		45	mod	45	mod
+52	)	)	PONCT	PONCT		51	ponct	51	ponct
+53	,	,	PONCT	PONCT		51	ponct	51	ponct
+54	et	et	CC	CC		45	coord	45	coord
+55	le	le	DET	DET	n=s|g=m	57	det	57	det
+56	"	"	PONCT	PONCT		55	ponct	55	ponct
+57	Birmingham	Birmingham	NPP	NPP	n=s|g=m	54	dep_coord	54	dep_coord
+58	and	_	NPP	NPP		57	mod	57	mod
+59	Liverpool	Liverpool	NPP	NPP	n=s|g=m	57	mod	57	mod
+60	Junction	_	NPP	NPP		57	mod	57	mod
+61	Canal	Canal	NPP	NPP	n=s|g=m	57	mod	57	mod
+62	"	"	PONCT	PONCT		61	ponct	61	ponct
+63	(	(	PONCT	PONCT		61	ponct	61	ponct
+64	1826-1835	1826-1835	NPP	NPP		57	mod	57	mod
+65	)	)	PONCT	PONCT		64	ponct	64	ponct
+66	.	.	PONCT	PONCT		64	ponct	64	ponct
+
+1	En	en	P	P		5	mod	5	mod
+2	1820	1820	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	Telford	_	NPP	NPP		5	suj	5	suj
+5	prit	prendre	V	V	n=s|t=J|p=3	0	root	0	root
+6	la	la	DET	DET	n=s|g=f	7	det	7	det
+7	présidence	présidence	NC	NC	n=s|g=f	5	obj	5	obj
+8	de	de	P	P		5	mod	5	mod
+9	l'	le	DET	DET	n=s	10	det	10	det
+10	Institut	institut	NC	NC	n=s|g=m	8	prep	8	prep
+11	des	de	P+D	P+D	n=p	5	mod	5	mod
+12	Ingénieurs	ingénieur	NC	NC	n=p|g=m	11	prep	11	prep
+13	Civils	_	NPP	NPP		12	mod	12	mod
+14	(	(	PONCT	PONCT		13	ponct	13	ponct
+15	Institution	institution	NC	NC	n=s|g=f	12	mod	12	mod
+16	of	_	NPP	NPP		15	mod	15	mod
+17	Civil	_	NPP	NPP		15	mod	15	mod
+18	Engineers	_	NPP	NPP		15	mod	15	mod
+19	)	)	PONCT	PONCT		18	ponct	18	ponct
+20	,	,	PONCT	PONCT		18	ponct	18	ponct
+21	poste	poste	NC	NC	n=s	15	mod	15	mod
+22	qu'	que	PROREL	PROREL		24	obj	24	obj
+23	il	il	CLS	CLS	n=s|g=m|p=3	24	suj	24	suj
+24	conserva	conserver	V	V	n=s|t=J|p=3	21	mod_rel	21	mod_rel
+25	jusqu'	jusque	P	P		24	mod	24	mod
+26	à	à	P	P		25	dep	25	dep
+27	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	28	det	28	det
+28	mort	mort	NC	NC	n=s|g=f,m	26	prep	26	prep
+29	en	en	P	P		28	dep	28	dep
+30	1834	1834	NC	NC		29	prep	29	prep
+31	.	.	PONCT	PONCT		30	ponct	30	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	4	suj	4	suj
+2	a	avoir	V	V	n=s|t=P|p=3	4	aux_tps	4	aux_tps
+3	été	être	VPP	VPP	t=K	4	aux_pass	4	aux_pass
+4	inhumé	inhumer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+5	à	à	P	P		4	mod	4	mod
+6	l'	le	DET	DET	n=s	7	det	7	det
+7	abbaye	abbaye	NC	NC	n=s|g=f	5	prep	5	prep
+8	de	de	P	P		4	mod	4	mod
+9	Westminster	_	NPP	NPP		8	prep	8	prep
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	nom	nom	NC	NC	n=s|g=m	7	suj	7	suj
+3	de	de	P	P		2	dep	2	dep
+4	Telford	_	NPP	NPP		3	prep	3	prep
+5	a	avoir	V	V	n=s|t=P|p=3	7	aux_tps	7	aux_tps
+6	été	être	VPP	VPP	t=K	7	aux_pass	7	aux_pass
+7	donné	donner	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+8	à	à	P	P		7	mod	7	mod
+9	une	une	DET	DET	n=s|g=f	10	det	10	det
+10	ville	ville	NC	NC	n=s|g=f	8	prep	8	prep
+11	nouvelle	nouveau	ADJ	ADJ	n=s|g=f	10	mod	10	mod
+12	fondée	fonder	VPP	VPP	n=s|g=f|t=K	10	mod	10	mod
+13	en	en	P	P		12	mod	12	mod
+14	1968	1968	NC	NC		13	prep	13	prep
+15	dans	dans	P	P		12	mod	12	mod
+16	le	le	DET	DET	n=s|g=m	17	det	17	det
+17	Shropshire	_	NPP	NPP		15	prep	15	prep
+18	et	et	CC	CC		7	coord	7	coord
+19	à	à	P	P		18	dep_coord	18	dep_coord
+20	divers	divers	DET	DET	n=p|g=m	21	det	21	det
+21	établissements	établissement	NC	NC	n=p|g=m	19	prep	19	prep
+22	universitaires	universitaire	ADJ	ADJ	n=p	21	mod	21	mod
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+

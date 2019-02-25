@@ -14,6 +14,7 @@
 import sys
 import pickle
 from socket import socket, AF_INET, SOCK_STREAM
+import os.path
 
 #-----------------------------------------------------------
 # Connexion to an instance of Talismane
@@ -233,6 +234,15 @@ def console():
 
 def load_bin(filename):
     return pickle.load(open(filename, mode='rb'))
+
+
+def load(filename):
+    if filename.endswith('.tal'):
+        return process_file(filename)
+    elif filename.endswith('.bin'):
+        return load_bin(filename)
+    elif os.path.isdir(filename):
+        pass
 
 
 def txt2tal(target, encoding):

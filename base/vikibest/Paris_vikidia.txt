@@ -1,0 +1,3561 @@
+1	Paris	_	NPP	NPP		8	suj	8	suj
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	surnommée	surnommer	VPP	VPP	n=s|g=f|t=K	1	mod	1	mod
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	Ville	ville	NC	NC	n=s|g=f	3	mod	3	mod
+6	Lumière	_	NPP	NPP		5	mod	5	mod
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+9	une	une	DET	DET	n=s|g=f	10	det	10	det
+10	commune	commune	NC	NC	n=s|g=f	8	obj	8	obj
+11	française	français	ADJ	ADJ	n=s|g=f	10	mod	10	mod
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	capitale	capitale	NC	NC	n=s|g=f	10	mod	10	mod
+14	de	de	P	P		13	dep	13	dep
+15	la	la	DET	DET	n=s|g=f	16	det	16	det
+16	France	France	NPP	NPP	n=s|g=f,m	14	prep	14	prep
+17	et	et	CC	CC		13	coord	13	coord
+18	chef-lieu	chef-lieu	NC	NC	n=s|g=m	17	dep_coord	17	dep_coord
+19	de	de	P	P		8	mod	8	mod
+20	la	la	DET	DET	n=s|g=f	21	det	21	det
+21	région	région	NC	NC	n=s|g=f	19	prep	19	prep
+22	d'	de	P	P		8	mod	8	mod
+23	Île-de-France	_	NPP	NPP		22	prep	22	prep
+24	.	.	PONCT	PONCT		23	ponct	23	ponct
+
+1	Cette	cette	DET	DET	n=s|g=f	2	det	2	det
+2	ville	ville	NC	NC	n=s|g=f	4	suj	4	suj
+3	est	être	V	V	n=s|t=P|p=3	4	aux_pass	4	aux_pass
+4	construite	construire	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+5	sur	sur	P	P		4	mod	4	mod
+6	une	une	DET	DET	n=s|g=f	7	det	7	det
+7	boucle	boucle	NC	NC	n=s|g=f	5	prep	5	prep
+8	de	de	P	P		4	mod	4	mod
+9	la	la	DET	DET	n=s|g=f	10	det	10	det
+10	Seine	Seine	NPP	NPP	n=s|g=f	8	prep	8	prep
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+1	Ses	ses	DET	DET	n=p|p=3|poss=s	2	det	2	det
+2	habitants	habitant	NC	NC	n=p|g=m	4	suj	4	suj
+3	sont	être	V	V	n=p|t=P|p=3	4	aux_tps	4	aux_tps
+4	appelés	appeler	VPP	VPP	n=p|g=m|t=K	0	root	0	root
+5	les	les	DET	DET	n=p	6	det	6	det
+6	Parisiens	_	NPP	NPP		4	obj	4	obj
+7	.	.	PONCT	PONCT		6	ponct	6	ponct
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	3	suj	3	suj
+2	est	être	V	V	n=s|t=P|p=3	3	aux_pass	3	aux_pass
+3	connue	connaître	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+4	dans	dans	P	P		3	mod	3	mod
+5	le	le	DET	DET	n=s|g=m	6	det	6	det
+6	monde	monde	NC	NC	n=s|g=m	4	prep	4	prep
+7	entier	entier	ADJ	ADJ	n=s|g=m	6	mod	6	mod
+8	pour	pour	P	P		3	mod	3	mod
+9	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	10	det	10	det
+10	vie	vie	NC	NC	n=s|g=f	8	prep	8	prep
+11	artistique	artistique	ADJ	ADJ	n=s	10	mod	10	mod
+12	et	et	CC	CC		11	coord	11	coord
+13	culturelle	culturel	ADJ	ADJ	n=s|g=f	12	dep_coord	12	dep_coord
+14	et	et	CC	CC		3	coord	3	coord
+15	est	être	V	V	n=s|t=P|p=3	14	dep_coord	14	dep_coord
+16	d'	de	P	P		15	mod	15	mod
+17	ailleurs	ailleurs	ADV	ADV		19	mod	19	mod
+18	la	la	DET	DET	n=s|g=f	19	det	19	det
+19	ville	ville	NC	NC	n=s|g=f	16	prep	16	prep
+20	la	la	DET	DET	n=s|g=f	22	det	22	det
+21	plus	plus	ADV	ADV		22	mod	22	mod
+22	visitée	visiter	VPP	VPP	n=s|g=f|t=K	15	mod	15	mod
+23	au	à	P+D	P+D	n=s|g=m	22	mod	22	mod
+24	monde	monde	NC	NC	n=s|g=m	23	prep	23	prep
+25	.	.	PONCT	PONCT		24	ponct	24	ponct
+
+1	Paris	_	NPP	NPP		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	aussi	aussi	ADV	ADV		2	mod	2	mod
+4	un	un	DET	DET	n=s|g=m	5	det	5	det
+5	centre	centre	NC	NC	n=s|g=m	2	obj	2	obj
+6	politique	politique	ADJ	ADJ	n=s	5	mod	5	mod
+7	et	et	CC	CC		6	coord	6	coord
+8	économique	économique	ADJ	ADJ	n=s	7	dep_coord	7	dep_coord
+9	majeur	majeur	ADJ	ADJ	n=s|g=m	5	mod	5	mod
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	maire	maire	NC	NC	n=s|g=m	7	suj	7	suj
+3	de	de	P	P		2	dep	2	dep
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	commune	commune	NC	NC	n=s|g=f	3	prep	3	prep
+6	actuellement	_	ADV	ADV		7	mod	7	mod
+7	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+8	Anne	Anne	NPP	NPP	n=s|g=f	7	obj	7	obj
+9	Hidalgo	_	NPP	NPP		8	mod	8	mod
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	elle	elle	CLS	CLS	n=s|g=f|p=3	12	suj	12	suj
+12	est	être	V	V	n=s|t=P|p=3	7	mod	7	mod
+13	membre	membre	NC	NC	n=s|g=m	12	obj	12	obj
+14	du	de	P+D	P+D	n=s|g=m	12	mod	12	mod
+15	parti	parti	NC	NC	n=s|g=m	14	prep	14	prep
+16	socialiste	socialiste	ADJ	ADJ	n=s	15	mod	15	mod
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+1	C'	ce	CLS	CLS		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	la	la	DET	DET	n=s|g=f	6	det	6	det
+4	plus	plus	ADV	ADV		5	mod	5	mod
+5	grande	grand	ADJ	ADJ	n=s|g=f	6	mod	6	mod
+6	ville	ville	NC	NC	n=s|g=f	2	obj	2	obj
+7	de	de	P	P		2	mod	2	mod
+8	France	France	NPP	NPP	n=s|g=f,m	7	prep	7	prep
+9	.	.	PONCT	PONCT		8	ponct	8	ponct
+
+1	Paris	_	NPP	NPP		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	également	_	ADV	ADV		2	mod	2	mod
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	commune	commune	NC	NC	n=s|g=f	2	obj	2	obj
+6	la	la	DET	DET	n=s|g=f	8	det	8	det
+7	plus	plus	ADV	ADV		8	mod	8	mod
+8	peuplée	peupler	VPP	VPP	n=s|g=f|t=K	5	mod	5	mod
+9	.	.	PONCT	PONCT		8	ponct	8	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	site	site	NC	NC	n=s|g=m	11	suj	11	suj
+3	où	où	PROREL	PROREL		7	mod	7	mod
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	ville	ville	NC	NC	n=s|g=f	7	suj	7	suj
+6	a	avoir	V	V	n=s|t=P|p=3	7	aux_tps	7	aux_tps
+7	commencé	commencer	VPP	VPP	n=s|g=m|t=K	2	mod_rel	2	mod_rel
+8	à	à	P	P		7	mod	7	mod
+9	être	être	VINF	VINF	t=W	10	ato	10	ato
+10	construite	construire	VPP	VPP	n=s|g=f|t=K	8	prep	8	prep
+11	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+12	une	une	DET	DET	n=s|g=f	13	det	13	det
+13	boucle	boucle	NC	NC	n=s|g=f	11	obj	11	obj
+14	de	de	P	P		11	mod	11	mod
+15	la	la	DET	DET	n=s|g=f	16	det	16	det
+16	Seine	Seine	NPP	NPP	n=s|g=f	14	prep	14	prep
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	Seine	Seine	NPP	NPP	n=s|g=f	4	suj	4	suj
+3	a	avoir	V	V	n=s|t=P|p=3	4	aux_tps	4	aux_tps
+4	dévié	dévier	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+5	son	son	DET	DET	n=s|g=m|p=3|poss=s	6	det	6	det
+6	cours	cour	NC	NC	n=p|g=f	4	obj	4	obj
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	car	car	CS	CS		4	mod	4	mod
+9	le	le	DET	DET	n=s|g=m	10	det	10	det
+10	méandre	méandre	NC	NC	n=s|g=m	11	suj	11	suj
+11	venait	venir	V	V	n=s|t=I|p=3	8	sub	8	sub
+12	mordre	mordre	VINF	VINF	t=W	11	obj	11	obj
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	au	à	P+D	P+D	n=s|g=m	12	mod	12	mod
+15	nord	nord	NC	NC	n=s|g=m	14	prep	14	prep
+16	le	le	DET	DET	n=s|g=m	17	det	17	det
+17	bas	bas	ADJ	ADJ	g=m	12	obj	12	obj
+18	des	de	P+D	P+D	n=p	17	mod	17	mod
+19	pentes	pente	NC	NC	n=p|g=f	18	prep	18	prep
+20	de	de	P	P		19	dep	19	dep
+21	la	la	DET	DET	n=s|g=f	22	det	22	det
+22	butte	butte	NC	NC	n=s|g=f	20	prep	20	prep
+23	Montmartre	_	NPP	NPP		22	mod	22	mod
+24	et	et	CC	CC		12	coord	12	coord
+25	à	à	P	P		24	dep_coord	24	dep_coord
+26	l'	le	DET	DET	n=s	27	det	27	det
+27	ouest	ouest	NC	NC	n=s|g=m	25	prep	25	prep
+28	le	le	DET	DET	n=s|g=m	29	det	29	det
+29	bas	bas	ADJ	ADJ	g=m	12	obj	12	obj
+30	de	de	P	P		29	mod	29	mod
+31	la	la	DET	DET	n=s|g=f	32	det	32	det
+32	colline	colline	NC	NC	n=s|g=f	30	prep	30	prep
+33	de	de	P	P		32	dep	32	dep
+34	Chaillot	_	NPP	NPP		33	prep	33	prep
+35	.	.	PONCT	PONCT		34	ponct	34	ponct
+
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	abandon	abandon	NC	NC	n=s|g=m	8	suj	8	suj
+3	de	de	P	P		2	dep	2	dep
+4	ce	ce	DET	DET	n=s|g=m	5	det	5	det
+5	cours	cour	NC	NC	n=p|g=f	3	prep	3	prep
+6	ancien	ancien	ADJ	ADJ	n=s|g=m	5	mod	5	mod
+7	a	avoir	V	V	n=s|t=P|p=3	8	aux_tps	8	aux_tps
+8	laissé	laisser	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+9	une	une	DET	DET	n=s|g=f	10	det	10	det
+10	partie	partie	NC	NC	n=s|g=f	8	obj	8	obj
+11	basse	bas	ADJ	ADJ	n=s|g=f	10	mod	10	mod
+12	et	et	CC	CC		11	coord	11	coord
+13	longtemps	longtemps	ADV	ADV		14	mod	14	mod
+14	marécageuse	marécageux	ADJ	ADJ	n=s|g=f	12	dep_coord	12	dep_coord
+15	qui	qui	PROREL	PROREL	n=s	17	suj	17	suj
+16	a	avoir	V	V	n=s|t=P|p=3	17	aux_tps	17	aux_tps
+17	donné	donner	VPP	VPP	n=s|g=m|t=K	10	mod_rel	10	mod_rel
+18	le	le	DET	DET	n=s|g=m	19	det	19	det
+19	quartier	quartier	NC	NC	n=s|g=m	17	obj	17	obj
+20	du	de	P+D	P+D	n=s|g=m	19	dep	19	dep
+21	Marais	_	NPP	NPP		20	prep	20	prep
+22	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	point	point	NC	NC	n=s|g=m	7	suj	7	suj
+3	culminant	culminant	ADJ	ADJ	n=s|g=m	2	mod	2	mod
+4	de	de	P	P		2	dep	2	dep
+5	Paris	Paris	NPP	NPP	n=s|g=m	4	prep	4	prep
+6	est	être	V	V	n=s|t=P|p=3	7	aux_tps	7	aux_tps
+7	situé	situer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+8	sur	sur	P	P		7	mod	7	mod
+9	la	la	DET	DET	n=s|g=f	10	det	10	det
+10	colline	colline	NC	NC	n=s|g=f	8	prep	8	prep
+11	de	de	P	P		7	mod	7	mod
+12	Montmartre	_	NPP	NPP		11	prep	11	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	il	il	CLS	CLS	n=s|g=m|p=3	15	suj	15	suj
+15	est	être	V	V	n=s|t=P|p=3	7	mod	7	mod
+16	à	à	P	P		15	mod	15	mod
+17	131	131	ADJ	ADJ		18	mod	18	mod
+18	mètres	mètre	NC	NC	n=p|g=m	16	prep	16	prep
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	À	à	P	P		5	mod	5	mod
+2	Paris	Paris	NPP	NPP	n=s|g=m	1	prep	1	prep
+3	la	la	DET	DET	n=s|g=f	4	det	4	det
+4	Seine	Seine	NPP	NPP	n=s|g=f	5	suj	5	suj
+5	a	avoir	V	V	n=s|t=P|p=3	0	root	0	root
+6	en	en	P	P		5	mod	5	mod
+7	moyenne	moyenne	NC	NC	n=s|g=f	6	prep	6	prep
+8	26	26	ADJ	ADJ		7	mod	7	mod
+9	mètres	mètre	NC	NC	n=p|g=m	7	mod	7	mod
+10	d'	de	P	P		5	mod	5	mod
+11	altitude	altitude	NC	NC	n=s|g=f	10	prep	10	prep
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+1	Paris	_	NPP	NPP		2	suj	2	suj
+2	compte	compter	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	deux	deux	DET	DET	s=card|n=p	4	det	4	det
+4	îles	île	NC	NC	n=p|g=f	2	obj	2	obj
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	l'	le	DET	DET	n=s	7	det	7	det
+7	île	île	NC	NC	n=s|g=f	2	mod	2	mod
+8	de	de	P	P		7	dep	7	dep
+9	la	la	DET	DET	n=s|g=f	10	det	10	det
+10	Cité	_	NPP	NPP		8	prep	8	prep
+11	et	et	CC	CC		7	coord	7	coord
+12	l'	le	DET	DET	n=s	13	det	13	det
+13	île	île	NC	NC	n=s|g=f	11	dep_coord	11	dep_coord
+14	Saint-Louis	Saint-Louis	NPP	NPP	n=s|g=m	13	mod	13	mod
+15	(	(	PONCT	PONCT		14	ponct	14	ponct
+16	qui	qui	PROREL	PROREL	n=s	18	suj	18	suj
+17	est	être	V	V	n=s|t=P|p=3	18	aux_tps	18	aux_tps
+18	formée	former	VPP	VPP	n=s|g=f|t=K	7	mod_rel	7	mod_rel
+19	par	par	P	P		18	mod	18	mod
+20	la	la	DET	DET	n=s|g=f	21	det	21	det
+21	réunion	réunion	NC	NC	n=s|g=f	19	prep	19	prep
+22	au	à	P+D	P+D	n=s|g=m	18	mod	18	mod
+23	début	début	NC	NC	n=s|g=m	22	prep	22	prep
+24	du	de	P+D	P+D	n=s|g=m	18	mod	18	mod
+25	XVIIe	_	ADJ	ADJ		26	mod	26	mod
+26	siècle	siècle	NC	NC	n=s|g=m	24	prep	24	prep
+27	de	de	P	P		18	mod	18	mod
+28	deux	deux	DET	DET	s=card|n=p	29	det	29	det
+29	îlots	îlot	NC	NC	n=p|g=m	27	prep	27	prep
+30	l'	le	DET	DET	n=s	31	det	31	det
+31	île	île	NC	NC	n=s|g=f	18	mod	18	mod
+32	aux	à	P+D	P+D	n=p	31	dep	31	dep
+33	vaches	vache	NC	NC	n=p|g=f	32	prep	32	prep
+34	et	et	CC	CC		31	coord	31	coord
+35	l'	le	DET	DET	n=s	36	det	36	det
+36	île	île	NC	NC	n=s|g=f	34	dep_coord	34	dep_coord
+37	Notre-Dame	Notre-Dame	NPP	NPP	n=s|g=f,m	36	mod	36	mod
+38	)	)	PONCT	PONCT		37	ponct	37	ponct
+39	,	,	PONCT	PONCT		37	ponct	37	ponct
+40	au	à	P+D	P+D	n=s|g=m	18	mod	18	mod
+41	centre	centre	NC	NC	n=s|g=m	40	prep	40	prep
+42	de	de	P	P		18	mod	18	mod
+43	la	la	DET	DET	n=s|g=f	44	det	44	det
+44	capitale	capitale	NC	NC	n=s|g=f	42	prep	42	prep
+45	.	.	PONCT	PONCT		44	ponct	44	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	existait	exister	V	V	n=s|t=I|p=3	0	root	0	root
+3	une	une	DET	DET	n=s|g=f	5	det	5	det
+4	troisième	troisième	ADJ	ADJ	n=s	5	mod	5	mod
+5	île	île	NC	NC	n=s|g=f	2	obj	2	obj
+6	mais	mais	CC	CC		2	coord	2	coord
+7	elle	elle	CLS	CLS	n=s|g=f|p=3	10	suj	10	suj
+8	a	avoir	V	V	n=s|t=P|p=3	10	aux_tps	10	aux_tps
+9	été	être	VPP	VPP	t=K	10	aux_pass	10	aux_pass
+10	reliée	relier	VPP	VPP	n=s|g=f|t=K	6	dep_coord	6	dep_coord
+11	à	à	P	P		10	mod	10	mod
+12	la	la	DET	DET	n=s|g=f	13	det	13	det
+13	ville	ville	NC	NC	n=s|g=f	11	prep	11	prep
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+1	Mise	mettre	VPP	VPP	n=s|g=f|t=K	10	mod	10	mod
+2	à	à	P	P		1	mod	1	mod
+3	part	part	NC	NC	n=s	2	prep	2	prep
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	Seine	Seine	NPP	NPP	n=s|g=f	10	suj	10	suj
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	une	une	DET	DET	n=s|g=f	9	det	9	det
+8	autre	autre	ADJ	ADJ	n=s	9	mod	9	mod
+9	rivière	rivière	NC	NC	n=s|g=f	5	mod	5	mod
+10	traverse	traverser	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+11	Paris	Paris	NPP	NPP	n=s|g=m	10	obj	10	obj
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	la	la	DET	DET	n=s|g=f	14	det	14	det
+14	Bièvre	_	NPP	NPP		10	mod	10	mod
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	3	suj	3	suj
+2	se	se	CLR	CLR	n=p,s|p=3	3	aff	3	aff
+3	jetait	jeter	V	V	n=s|t=I|p=3	0	root	0	root
+4	dans	dans	P	P		3	mod	3	mod
+5	la	la	DET	DET	n=s|g=f	6	det	6	det
+6	Seine	Seine	NPP	NPP	n=s|g=f	4	prep	4	prep
+7	au	à	P+D	P+D	n=s|g=m	3	mod	3	mod
+8	niveau	niveau	NC	NC	n=s|g=m	7	prep	7	prep
+9	de	de	P	P		3	mod	3	mod
+10	la	la	DET	DET	n=s|g=f	11	det	11	det
+11	Gare	_	NPP	NPP		9	prep	9	prep
+12	d'	de	P	P		3	mod	3	mod
+13	Austerlitz	_	NPP	NPP		12	prep	12	prep
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	mais	mais	CC	CC		3	coord	3	coord
+16	elle	elle	CLS	CLS	n=s|g=f|p=3	18	suj	18	suj
+17	fut	être	V	V	n=s|t=J|p=3	18	aux_pass	18	aux_pass
+18	recouverte	recouvrir	VPP	VPP	n=s|g=f|t=K	15	dep_coord	15	dep_coord
+19	en	en	P	P		18	mod	18	mod
+20	1912	1912	NC	NC		19	prep	19	prep
+21	par	par	P	P		18	mod	18	mod
+22	souci	souci	NC	NC	n=s|g=m	21	prep	21	prep
+23	d'	de	P	P		18	mod	18	mod
+24	hygiène	hygiène	NC	NC	n=s|g=f	23	prep	23	prep
+25	.	.	PONCT	PONCT		24	ponct	24	ponct
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	maintenant	maintenant	ADV	ADV		2	mod	2	mod
+4	souterraine	souterrain	ADJ	ADJ	n=s|g=f	2	ats	2	ats
+5	.	.	PONCT	PONCT		4	ponct	4	ponct
+
+1	Un	un	DET	DET	n=s|g=m	2	det	2	det
+2	canal	canal	NC	NC	n=s|g=m	3	suj	3	suj
+3	traverse	traverser	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	le	le	DET	DET	n=s|g=m	5	det	5	det
+5	nord-est	nord-est	NC	NC	g=m	3	obj	3	obj
+6	de	de	P	P		3	mod	3	mod
+7	Paris	Paris	NPP	NPP	n=s|g=m	6	prep	6	prep
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	il	il	CLS	CLS	n=s|g=m|p=3	11	suj	11	suj
+10	s'	se	CLR	CLR	n=p,s|p=3	11	aff	11	aff
+11	agit	agir	V	V	n=s|t=J,P|p=3	3	mod	3	mod
+12	du	de	P+D	P+D	n=s|g=m	11	mod	11	mod
+13	canal	canal	NC	NC	n=s|g=m	12	prep	12	prep
+14	Saint	_	NPP	NPP		13	mod	13	mod
+15	-	-	PONCT	PONCT		14	ponct	14	ponct
+16	Martin	martin	NC	NC	n=s|g=m	13	mod	13	mod
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	qui	qui	PROREL	PROREL	n=s	19	suj	19	suj
+19	est	être	V	V	n=s|t=P|p=3	13	mod_rel	13	mod_rel
+20	la	la	DET	DET	n=s|g=f	21	det	21	det
+21	partie	partie	NC	NC	n=s|g=f	19	obj	19	obj
+22	terminale	terminal	ADJ	ADJ	n=s|g=f	21	mod	21	mod
+23	du	de	P+D	P+D	n=s|g=m	21	dep	21	dep
+24	canal	canal	NC	NC	n=s|g=m	23	prep	23	prep
+25	de	de	P	P		24	dep	24	dep
+26	l'	le	DET	DET	n=s	27	det	27	det
+27	Ourcq	_	NPP	NPP		25	prep	25	prep
+28	.	.	PONCT	PONCT		27	ponct	27	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	sous-sol	sous-sol	NC	NC	n=s|g=m	6	suj	6	suj
+3	de	de	P	P		2	dep	2	dep
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	ville	ville	NC	NC	n=s|g=f	3	prep	3	prep
+6	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+7	calcaire	calcaire	ADJ	ADJ	n=s	6	ats	6	ats
+8	et	et	CC	CC		6	coord	6	coord
+9	il	il	CLS	CLS	n=s|g=m|p=3	11	suj	11	suj
+10	fut	être	V	V	n=s|t=J|p=3	11	aux_pass	11	aux_pass
+11	exploité	exploiter	VPP	VPP	n=s|g=m|t=K	8	dep_coord	8	dep_coord
+12	pour	pour	P	P		11	mod	11	mod
+13	construire	construire	VINF	VINF	t=W	12	prep	12	prep
+14	les	les	DET	DET	n=p	15	det	15	det
+15	bâtiments	bâtiment	NC	NC	n=p|g=m	13	obj	13	obj
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	ce	ce	PRO	PRO	n=s	11	mod	11	mod
+18	qui	qui	PROREL	PROREL	n=s	19	suj	19	suj
+19	explique	expliquer	V	V	n=s|t=P,S|p=1,3	17	mod_rel	17	mod_rel
+20	que	que	CS	CS		19	obj	19	obj
+21	l'	le	DET	DET	n=s	22	det	22	det
+22	on	on	CLS	CLS	n=s|p=3	23	suj	23	suj
+23	trouve	trouver	V	V	n=s|t=P,S|p=1,3	20	sub	20	sub
+24	des	des	DET	DET	n=p	25	det	25	det
+25	carrières	carrière	NC	NC	n=p|g=f	23	obj	23	obj
+26	sous	sous	P	P		23	mod	23	mod
+27	Paris	Paris	NPP	NPP	n=s|g=m	26	prep	26	prep
+28	.	.	PONCT	PONCT		27	ponct	27	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	population	population	NC	NC	n=s|g=f	8	suj	8	suj
+3	de	de	P	P		2	dep	2	dep
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	ville	ville	NC	NC	n=s|g=f	3	prep	3	prep
+6	de	de	P	P		2	dep	2	dep
+7	Paris	Paris	NPP	NPP	n=s|g=m	6	prep	6	prep
+8	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+9	de	de	P	P		8	mod	8	mod
+10	2_211_297	2_211_297	NC	NC		9	prep	9	prep
+11	habitants	habitant	NC	NC	n=p|g=m	10	mod	10	mod
+12	en	en	P	P		8	mod	8	mod
+13	20081	20081	NC	NC		12	prep	12	prep
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	mais	mais	CC	CC		8	coord	8	coord
+16	11,8	11,8	ADJ	ADJ		17	mod	17	mod
+17	millions	million	NC	NC	n=p	18	suj	18	suj
+18	habitent	habiter	V	V	n=p|t=P,S|p=3	15	dep_coord	15	dep_coord
+19	dans	dans	P	P		18	mod	18	mod
+20	son	son	DET	DET	n=s|g=m|p=3|poss=s	21	det	21	det
+21	agglomération	agglomération	NC	NC	n=s|g=f	19	prep	19	prep
+22	et	et	CC	CC		18	coord	18	coord
+23	ses	ses	DET	DET	n=p|p=3|poss=s	24	det	24	det
+24	alentours	alentours	NC	NC	n=p|g=m	0	_	0	_
+25	.	.	PONCT	PONCT		24	ponct	24	ponct
+
+1	Paris	_	NPP	NPP		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	une	une	DET	DET	n=s|g=f	4	det	4	det
+4	mégapole	mégapole	NC	NC	n=s|g=f	2	obj	2	obj
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	c'	ce	DET	DET	n=s|g=m	7	det	7	det
+7	est-à-dire	_	NC	NC		2	mod	2	mod
+8	une	une	DET	DET	n=s|g=f	9	det	9	det
+9	ville	ville	NC	NC	n=s|g=f	2	mod	2	mod
+10	géante	géant	ADJ	ADJ	n=s|g=f	9	mod	9	mod
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+1	Pour	pour	P	P		0	_	0	_
+2	peser	peser	VINF	VINF	t=W	1	prep	1	prep
+3	face	face	NC	NC	n=s|g=f	2	obj	2	obj
+4	à	à	P	P		2	mod	2	mod
+5	elle	elle	PRO	PRO	n=s|g=f|p=3	4	prep	4	prep
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	les	les	DET	DET	n=p	10	det	10	det
+8	autres	autre	ADJ	ADJ	n=p	10	mod	10	mod
+9	grandes	grand	ADJ	ADJ	n=p|g=f	10	mod	10	mod
+10	villes	ville	NC	NC	n=p|g=f	0	_	0	_
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	nommées	nommer	VPP	VPP	n=p|g=f|t=K	10	mod	10	mod
+13	«_	"	PONCT	PONCT		12	ponct	12	ponct
+14	métropoles	métropole	NC	NC	n=p|g=f	12	mod	12	mod
+15	d'	de	P	P		14	dep	14	dep
+16	équilibre	équilibre	NC	NC	n=s|g=m	15	prep	15	prep
+17	_»	"	PONCT	PONCT		16	ponct	16	ponct
+18	,	,	PONCT	PONCT		16	ponct	16	ponct
+19	comme	comme	P	P		12	mod	12	mod
+20	Lyon	Lyon	NPP	NPP	n=s|g=m	19	prep	19	prep
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	Nantes	Nantes	NPP	NPP	n=s|g=m	20	mod	20	mod
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	Lille	Lille	NPP	NPP	n=s|g=m	20	mod	20	mod
+25	,	,	PONCT	PONCT		24	ponct	24	ponct
+26	Marseille	Marseille	NPP	NPP	n=s|g=m	20	mod	20	mod
+27	...	...	PONCT	PONCT		26	ponct	26	ponct
+
+1	s'	se	CLR	CLR	n=p,s|p=3	2	aff	2	aff
+2	efforcent	efforcer	V	V	n=p|t=P,S|p=3	0	root	0	root
+3	d'	de	P	P		2	mod	2	mod
+4	accueillir	accueillir	VINF	VINF	t=W	3	prep	3	prep
+5	beaucoup	beaucoup	ADV	ADV		4	mod	4	mod
+6	d'	de	P	P		4	mod	4	mod
+7	infrastructures	infrastructure	NC	NC	n=p|g=f	6	prep	6	prep
+8	importantes	important	ADJ	ADJ	n=p|g=f	7	mod	7	mod
+9	.	.	PONCT	PONCT		8	ponct	8	ponct
+
+1	On	on	CLS	CLS	n=s|p=3	2	suj	2	suj
+2	trouve	trouver	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	les	les	DET	DET	n=p	4	det	4	det
+4	quartiers	quartier	NC	NC	n=p|g=m	2	obj	2	obj
+5	les	les	DET	DET	n=p	7	det	7	det
+6	plus	plus	ADV	ADV		7	mod	7	mod
+7	riches	riche	ADJ	ADJ	n=p	4	mod	4	mod
+8	à	à	P	P		2	mod	2	mod
+9	l'	le	DET	DET	n=s	10	det	10	det
+10	ouest	ouest	NC	NC	n=s|g=m	8	prep	8	prep
+11	de	de	P	P		2	mod	2	mod
+12	la	la	DET	DET	n=s|g=f	13	det	13	det
+13	capitale	capitale	NC	NC	n=s|g=f	11	prep	11	prep
+14	tandis	tandis	P	P		2	mod	2	mod
+15	que	que	CS	CS		14	prep	14	prep
+16	les	les	DET	DET	n=p	17	det	17	det
+17	quartiers	quartier	NC	NC	n=p|g=m	22	suj	22	suj
+18	les	les	DET	DET	n=p	20	det	20	det
+19	plus	plus	ADV	ADV		20	mod	20	mod
+20	populaires	populaire	ADJ	ADJ	n=p	17	mod	17	mod
+21	se	se	CLR	CLR	n=p,s|p=3	22	aff	22	aff
+22	trouvent	trouver	V	V	n=p|t=P,S|p=3	15	sub	15	sub
+23	au	à	P+D	P+D	n=s|g=m	22	mod	22	mod
+24	nord-est	nord-est	NC	NC	g=m	23	prep	23	prep
+25	de	de	P	P		22	mod	22	mod
+26	la	la	DET	DET	n=s|g=f	27	det	27	det
+27	ville	ville	NC	NC	n=s|g=f	25	prep	25	prep
+28	dans	dans	P	P		22	mod	22	mod
+29	les	les	DET	DET	n=p	30	det	30	det
+30	18e	_	NC	NC		28	prep	28	prep
+31	,	,	PONCT	PONCT		30	ponct	30	ponct
+32	19e	_	NC	NC		22	mod	22	mod
+33	et	et	CC	CC		32	coord	32	coord
+34	20e	_	ADJ	ADJ		35	mod	35	mod
+35	arrondissements	arrondissement	NC	NC	n=p|g=m	33	dep_coord	33	dep_coord
+36	.	.	PONCT	PONCT		35	ponct	35	ponct
+
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	arrondissement	arrondissement	NC	NC	n=s|g=m	6	suj	6	suj
+3	le	le	DET	DET	n=s|g=m	5	det	5	det
+4	plus	plus	ADV	ADV		5	mod	5	mod
+5	peuplé	peupler	ADJ	ADJ	n=s|g=m|t=K	2	mod	2	mod
+6	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+7	le	le	DET	DET	n=s|g=m	9	det	9	det
+8	15e	_	ADJ	ADJ		9	mod	9	mod
+9	arrondissement	arrondissement	NC	NC	n=s|g=m	6	obj	6	obj
+10	avec	avec	P	P		6	mod	6	mod
+11	236_000	236_000	ADJ	ADJ		12	mod	12	mod
+12	habitants	habitant	NC	NC	n=p|g=m	10	prep	10	prep
+13	comptabilisés	comptabiliser	VPP	VPP	n=p|g=m|t=K	12	mod	12	mod
+14	lors	lors	ADV	ADV		13	mod	13	mod
+15	du	de	P+D	P+D	n=s|g=m	13	mod	13	mod
+16	dernier	dernier	ADJ	ADJ	n=s|g=m	17	mod	17	mod
+17	recensement	recensement	NC	NC	n=s|g=m	15	prep	15	prep
+18	(	(	PONCT	PONCT		17	ponct	17	ponct
+19	2008	2008	NC	NC		17	mod	17	mod
+20	)	)	PONCT	PONCT		19	ponct	19	ponct
+21	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+1	Globalement	_	ADV	ADV		6	mod	6	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	les	les	DET	DET	n=p	4	det	4	det
+4	habitants	habitant	NC	NC	n=p|g=m	6	suj	6	suj
+5	se	se	CLR	CLR	n=p,s|p=3	6	aff	6	aff
+6	concentrent	concentrer	V	V	n=p|t=P,S|p=3	0	root	0	root
+7	dans	dans	P	P		6	mod	6	mod
+8	les	les	DET	DET	n=p	9	det	9	det
+9	arrondissements	arrondissement	NC	NC	n=p|g=m	7	prep	7	prep
+10	extérieurs	extérieur	ADJ	ADJ	n=p|g=m	9	mod	9	mod
+11	de	de	P	P		6	mod	6	mod
+12	la	la	DET	DET	n=s|g=f	13	det	13	det
+13	ville	ville	NC	NC	n=s|g=f	11	prep	11	prep
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	du	de	P+D	P+D	n=s|g=m	6	mod	6	mod
+16	12e	_	ADJ	ADJ		15	prep	15	prep
+17	au	à	P+D	P+D	n=s|g=m	6	mod	6	mod
+18	20e	_	NC	NC		17	prep	17	prep
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	arrondissements	arrondissement	NC	NC	n=p|g=m	8	suj	8	suj
+3	centraux	central	ADJ	ADJ	n=p|g=m	2	mod	2	mod
+4	ne	ne	ADV	ADV		8	mod	8	mod
+5	sont	être	V	V	n=p|t=P|p=3	8	aux_tps	8	aux_tps
+6	pas	pas	ADV	ADV		8	mod	8	mod
+7	très	très	ADV	ADV		8	mod	8	mod
+8	peuplés	peupler	VPP	VPP	n=p|g=m|t=K	0	root	0	root
+9	car	car	CS	CS		8	mod	8	mod
+10	on	on	CLS	CLS	n=s|p=3	12	suj	12	suj
+11	y	y	CLO	CLO		12	aff	12	aff
+12	trouve	trouver	V	V	n=s|t=P,S|p=1,3	9	sub	9	sub
+13	surtout	surtout	ADV	ADV		12	mod	12	mod
+14	les	les	DET	DET	n=p	15	det	15	det
+15	bureaux	bureau	NC	NC	n=p|g=m	12	obj	12	obj
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	les	les	DET	DET	n=p	18	det	18	det
+18	monuments	monument	NC	NC	n=p|g=m	12	mod	12	mod
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	les	les	DET	DET	n=p	21	det	21	det
+21	ministères	ministère	NC	NC	n=p|g=m	12	obj	12	obj
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+23	etc	_	ADV	ADV		12	mod	12	mod
+24	.	.	PONCT	PONCT		23	ponct	23	ponct
+
+1	Depuis	depuis	P	P		9	mod	9	mod
+2	10	10	ADJ	ADJ		3	mod	3	mod
+3	ans	an	NC	NC	n=p|g=m	1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	la	la	DET	DET	n=s|g=f	6	det	6	det
+6	population	population	NC	NC	n=s|g=f	9	suj	9	suj
+7	de	de	P	P		6	dep	6	dep
+8	Paris	Paris	NPP	NPP	n=s|g=m	7	prep	7	prep
+9	augmente	augmenter	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+10	après	après	P	P		9	mod	9	mod
+11	avoir	avoir	VINF	VINF	t=W	12	aux_tps	12	aux_tps
+12	subi	subir	VPP	VPP	n=s|g=m|t=K	10	prep	10	prep
+13	une	une	DET	DET	n=s|g=f	14	det	14	det
+14	diminution	diminution	NC	NC	n=s|g=f	12	obj	12	obj
+15	au	à	P+D	P+D	n=s|g=m	12	mod	12	mod
+16	XXe	_	ADJ	ADJ		17	mod	17	mod
+17	siècle	siècle	NC	NC	n=s|g=m	15	prep	15	prep
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	site	site	NC	NC	n=s|g=m	6	suj	6	suj
+3	de	de	P	P		2	dep	2	dep
+4	Paris	Paris	NPP	NPP	n=s|g=m	3	prep	3	prep
+5	est	être	V	V	n=s|t=P|p=3	6	aux_tps	6	aux_tps
+6	habité	habiter	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+7	depuis	depuis	P	P		6	mod	6	mod
+8	près	près	ADV	ADV		0	_	0	_
+9	de	de	P	P		0	_	0	_
+10	6000	6000	ADJ	ADJ		11	mod	11	mod
+11	ans	an	NC	NC	n=p|g=m	9	prep	9	prep
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+1	On	on	CLS	CLS	n=s|p=3	3	suj	3	suj
+2	a	avoir	V	V	n=s|t=P|p=3	3	aux_tps	3	aux_tps
+3	retrouvé	retrouver	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+4	des	des	DET	DET	n=p	5	det	5	det
+5	pirogues	pirogue	NC	NC	n=p|g=f	3	obj	3	obj
+6	de	de	P	P		5	dep	5	dep
+7	l'	le	DET	DET	n=s	8	det	8	det
+8	époque	époque	NC	NC	n=s|g=f	6	prep	6	prep
+9	néolithique	néolithique	ADJ	ADJ	n=s	8	mod	8	mod
+10	chasséenne	_	NC	NC		8	mod	8	mod
+11	(	(	PONCT	PONCT		10	ponct	10	ponct
+12	4000-3800	_	ADJ	ADJ		5	mod	5	mod
+13	av	_	NC	NC		5	mod	5	mod
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+1	J	_	NPP	NPP		0	_	0	_
+2	.	.	PONCT	PONCT		1	ponct	1	ponct
+3	-	-	PONCT	PONCT		1	ponct	1	ponct
+4	C	femelle	ADJ	ADJ		1	mod	1	mod
+5	.	.	PONCT	PONCT		4	ponct	4	ponct
+6	)	)	PONCT	PONCT		4	ponct	4	ponct
+7	dans	dans	P	P		0	_	0	_
+8	l'	le	DET	DET	n=s	10	det	10	det
+9	ancien	ancien	ADJ	ADJ	n=s|g=m	10	mod	10	mod
+10	lit	lit	NC	NC	n=s|g=m	7	prep	7	prep
+11	de	de	P	P		10	dep	10	dep
+12	la	la	DET	DET	n=s|g=f	13	det	13	det
+13	Seine	Seine	NPP	NPP	n=s|g=f	11	prep	11	prep
+14	(	(	PONCT	PONCT		13	ponct	13	ponct
+15	quartier	quartier	NC	NC	n=s|g=m	10	mod	10	mod
+16	de	de	P	P		15	dep	15	dep
+17	Bercy	_	NPP	NPP		16	prep	16	prep
+18	)	)	PONCT	PONCT		17	ponct	17	ponct
+19	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	Parisii	_	NPP	NPP		8	suj	8	suj
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	une	une	DET	DET	n=s|g=f	5	det	5	det
+5	tribu	tribu	NC	NC	n=s|g=f	2	mod	2	mod
+6	gauloise	gaulois	ADJ	ADJ	n=s|g=f	5	mod	5	mod
+7	s'	se	CLR	CLR	n=p,s|p=3	8	aff	8	aff
+8	installe	installer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+9	dans	dans	P	P		8	mod	8	mod
+10	la	la	DET	DET	n=s|g=f	11	det	11	det
+11	région	région	NC	NC	n=s|g=f	9	prep	9	prep
+12	dès	dès	P	P		8	mod	8	mod
+13	le	le	DET	DET	n=s|g=m	15	det	15	det
+14	IIIe	_	ADJ	ADJ		15	mod	15	mod
+15	siècle	siècle	NC	NC	n=s|g=m	12	prep	12	prep
+16	av	_	ADV	ADV		8	mod	8	mod
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+1	J	_	NPP	NPP		0	_	0	_
+2	.	.	PONCT	PONCT		1	ponct	1	ponct
+3	-	-	PONCT	PONCT		1	ponct	1	ponct
+4	C	femelle	ADJ	ADJ		1	mod	1	mod
+5	..	..	PONCT	PONCT		4	ponct	4	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	3	suj	3	suj
+2	n'	ne	ADV	ADV		3	mod	3	mod
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	pas	pas	ADV	ADV		3	mod	3	mod
+5	sûr	sûr	ADJ	ADJ	n=s|g=m	3	ats	3	ats
+6	que	que	CS	CS		3	mod	3	mod
+7	son	son	DET	DET	n=s|g=m|p=3|poss=s	8	det	8	det
+8	oppidum	oppidum	NC	NC	n=s|g=m	10	suj	10	suj
+9	soit	être	VS	VS	n=s|t=S|p=3	10	aux_pass	10	aux_pass
+10	situé	situer	VPP	VPP	n=s|g=m|t=K	6	sub	6	sub
+11	dans	dans	P	P		10	mod	10	mod
+12	le	le	DET	DET	n=s|g=m	13	det	13	det
+13	site	site	NC	NC	n=s|g=m	11	prep	11	prep
+14	actuel	actuel	ADJ	ADJ	n=s|g=m	13	mod	13	mod
+15	de	de	P	P		10	mod	10	mod
+16	Paris	Paris	NPP	NPP	n=s|g=m	15	prep	15	prep
+17	(	(	PONCT	PONCT		16	ponct	16	ponct
+18	des	des	DET	DET	n=p	19	det	19	det
+19	découvertes	découverte	NC	NC	n=p|g=f	10	obj	10	obj
+20	archéologiques	archéologique	ADJ	ADJ	n=p	19	mod	19	mod
+21	récentes	récent	ADJ	ADJ	n=p|g=f	19	mod	19	mod
+22	montrent	montrer	V	V	n=p|t=P,S|p=3	3	mod	3	mod
+23	qu'	que	CS	CS		22	obj	22	obj
+24	il	il	CLS	CLS	n=s|g=m|p=3	25	suj	25	suj
+25	existait	exister	V	V	n=s|t=I|p=3	23	sub	23	sub
+26	une	une	DET	DET	n=s|g=f	27	det	27	det
+27	agglomération	agglomération	NC	NC	n=s|g=f	25	obj	25	obj
+28	gauloise	gaulois	ADJ	ADJ	n=s|g=f	27	mod	27	mod
+29	importante	important	ADJ	ADJ	n=s|g=f	27	mod	27	mod
+30	à	à	P	P		25	mod	25	mod
+31	Nanterre	Nanterre	NPP	NPP	n=s|g=m	30	prep	30	prep
+32	,	,	PONCT	PONCT		31	ponct	31	ponct
+33	quelques	quelques	DET	DET	n=p	34	det	34	det
+34	kilomètres	kilomètre	NC	NC	n=p|g=m	25	obj	25	obj
+35	à	à	P	P		34	dep	34	dep
+36	l'	le	DET	DET	n=s	37	det	37	det
+37	ouest	ouest	NC	NC	n=s|g=m	35	prep	35	prep
+38	de	de	P	P		37	dep	37	dep
+39	Paris	Paris	NPP	NPP	n=s|g=m	38	prep	38	prep
+40	)	)	PONCT	PONCT		39	ponct	39	ponct
+41	.	.	PONCT	PONCT		39	ponct	39	ponct
+
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	oppidum	oppidum	NC	NC	n=s|g=m	5	suj	5	suj
+3	a	avoir	V	V	n=s|t=P|p=3	5	aux_tps	5	aux_tps
+4	été	être	VPP	VPP	t=K	5	aux_pass	5	aux_pass
+5	incendié	incendier	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+6	pendant	pendant	P	P		5	mod	5	mod
+7	le	le	DET	DET	n=s|g=m	8	det	8	det
+8	siège	siège	NC	NC	n=s|g=m	6	prep	6	prep
+9	par	par	P	P		5	mod	5	mod
+10	les	les	DET	DET	n=p	11	det	11	det
+11	Romains	_	NPP	NPP		9	prep	9	prep
+12	en	en	P	P		5	mod	5	mod
+13	52	52	NC	NC		12	prep	12	prep
+14	av	_	NPP	NPP		13	mod	13	mod
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+1	J	_	NPP	NPP		0	_	0	_
+2	.	.	PONCT	PONCT		1	ponct	1	ponct
+3	-	-	PONCT	PONCT		1	ponct	1	ponct
+4	C	femelle	ADJ	ADJ		1	mod	1	mod
+5	..	..	PONCT	PONCT		4	ponct	4	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	Romains	_	NPP	NPP		3	suj	3	suj
+3	construisent	construire	V	V	n=p|t=P,S|p=3	0	root	0	root
+4	une	une	DET	DET	n=s|g=f	5	det	5	det
+5	ville	ville	NC	NC	n=s|g=f	3	obj	3	obj
+6	nouvelle	nouveau	ADJ	ADJ	n=s|g=f	5	mod	5	mod
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	nommée	nommer	VPP	VPP	n=s|g=f|t=K	5	mod	5	mod
+9	Lutèce	_	NPP	NPP		8	mod	8	mod
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	sur	sur	P	P		8	mod	8	mod
+12	les	les	DET	DET	n=p	13	det	13	det
+13	pentes	pente	NC	NC	n=p|g=f	11	prep	11	prep
+14	de	de	P	P		13	dep	13	dep
+15	la	la	DET	DET	n=s|g=f	16	det	16	det
+16	montagne	montagne	NC	NC	n=s|g=f	14	prep	14	prep
+17	Sainte-Geneviève	Sainte-Geneviève	NPP	NPP	n=s|g=m	16	mod	16	mod
+18	(	(	PONCT	PONCT		17	ponct	17	ponct
+19	rive	rive	NC	NC	n=s|g=f	16	mod	16	mod
+20	gauche	gauche	NC	NC	n=s	19	mod	19	mod
+21	de	de	P	P		19	dep	19	dep
+22	la	la	DET	DET	n=s|g=f	23	det	23	det
+23	Seine	Seine	NPP	NPP	n=s|g=f	21	prep	21	prep
+24	au	à	P+D	P+D	n=s|g=m	19	dep	19	dep
+25	sud	sud	NC	NC	n=s|g=m	24	prep	24	prep
+26	de	de	P	P		25	dep	25	dep
+27	l'	le	DET	DET	n=s	28	det	28	det
+28	île	île	NC	NC	n=s|g=f	26	prep	26	prep
+29	de	de	P	P		28	dep	28	dep
+30	la	la	DET	DET	n=s|g=f	31	det	31	det
+31	cité	cité	NC	NC	n=s|g=f	29	prep	29	prep
+32	)	)	PONCT	PONCT		31	ponct	31	ponct
+33	.	.	PONCT	PONCT		31	ponct	31	ponct
+
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	île	île	NC	NC	n=s|g=f	6	suj	6	suj
+3	de	de	P	P		2	dep	2	dep
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	Cité	_	NPP	NPP		3	prep	3	prep
+6	devient	devenir	V	V	n=s|t=P|p=3	0	root	0	root
+7	le	le	DET	DET	n=s|g=m	8	det	8	det
+8	centre	centre	NC	NC	n=s|g=m	6	obj	6	obj
+9	religieux	religieux	ADJ	ADJ	g=m	8	mod	8	mod
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+1	Pendant	pendant	P	P		6	mod	6	mod
+2	l'	le	DET	DET	n=s	3	det	3	det
+3	empire	empire	NC	NC	n=s|g=m	1	prep	1	prep
+4	romain	romain	ADJ	ADJ	n=s|g=m	3	mod	3	mod
+5	Lutèce	_	NPP	NPP		3	mod	3	mod
+6	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+7	une	une	DET	DET	n=s|g=f	9	det	9	det
+8	petite	petit	ADJ	ADJ	n=s|g=f	9	mod	9	mod
+9	ville	ville	NC	NC	n=s|g=f	6	obj	6	obj
+10	romaine	romaine	NC	NC	n=s|g=f	9	mod	9	mod
+11	qui	qui	PROREL	PROREL	n=s	16	suj	16	suj
+12	avec	avec	P	P		16	mod	16	mod
+13	ses	ses	DET	DET	n=p|p=3|poss=s	15	det	15	det
+14	6_000	6_000	ADJ	ADJ		15	mod	15	mod
+15	habitants	habitant	NC	NC	n=p|g=m	12	prep	12	prep
+16	est	être	V	V	n=s|t=P|p=3	6	mod	6	mod
+17	dix	dix	DET	DET	s=card|n=p	18	det	18	det
+18	fois	fois	NC	NC	g=f	16	mod	16	mod
+19	moins	moins	ADV	ADV		20	mod	20	mod
+20	peuplée	peupler	VPP	VPP	n=s|g=f|t=K	18	mod	18	mod
+21	que	que	CS	CS		16	mod	16	mod
+22	Lugdunum	_	NPP	NPP		27	suj	27	suj
+23	(	(	PONCT	PONCT		22	ponct	22	ponct
+24	Lyon	Lyon	NPP	NPP	n=s|g=m	22	mod	22	mod
+25	)	)	PONCT	PONCT		24	ponct	24	ponct
+26	qui	qui	PROREL	PROREL	n=s	27	suj	27	suj
+27	est	être	V	V	n=s|t=P|p=3	21	sub	21	sub
+28	alors	alors	ADV	ADV		27	mod	27	mod
+29	la	la	DET	DET	n=s|g=f	30	det	30	det
+30	capitale	capitale	NC	NC	n=s|g=f	27	obj	27	obj
+31	de	de	P	P		30	dep	30	dep
+32	la	la	DET	DET	n=s|g=f	33	det	33	det
+33	Gaule	_	NPP	NPP		31	prep	31	prep
+34	.	.	PONCT	PONCT		33	ponct	33	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	invasions	invasion	NC	NC	n=p|g=f	12	suj	12	suj
+3	germaniques	germanique	ADJ	ADJ	n=p	2	mod	2	mod
+4	qui	qui	PROREL	PROREL	n=s	5	suj	5	suj
+5	ravagent	ravager	V	V	n=p|t=P,S|p=3	2	mod_rel	2	mod_rel
+6	la	la	DET	DET	n=s|g=f	7	det	7	det
+7	Gaule	_	NPP	NPP		5	obj	5	obj
+8	dès	dès	P	P		5	mod	5	mod
+9	le	le	DET	DET	n=s|g=m	11	det	11	det
+10	IIIe	_	ADJ	ADJ		11	mod	11	mod
+11	siècle	siècle	NC	NC	n=s|g=m	8	prep	8	prep
+12	provoquent	provoquer	V	V	n=p|t=P,S|p=3	0	root	0	root
+13	l'	le	DET	DET	n=s	14	det	14	det
+14	abandon	abandon	NC	NC	n=s|g=m	12	obj	12	obj
+15	de	de	P	P		14	dep	14	dep
+16	la	la	DET	DET	n=s|g=f	17	det	17	det
+17	ville	ville	NC	NC	n=s|g=f	15	prep	15	prep
+18	romaine	romain	ADJ	ADJ	n=s|g=f	17	mod	17	mod
+19	en	en	P	P		17	dep	17	dep
+20	partie	partie	NC	NC	n=s|g=f	19	prep	19	prep
+21	détruite	détruire	VPP	VPP	n=s|g=f|t=K	20	mod	20	mod
+22	et	et	CC	CC		14	coord	14	coord
+23	le	le	DET	DET	n=s|g=m	24	det	24	det
+24	repli	repli	NC	NC	n=s|g=m	22	dep_coord	22	dep_coord
+25	sur	sur	P	P		12	mod	12	mod
+26	l'	le	DET	DET	n=s	27	det	27	det
+27	île	île	NC	NC	n=s|g=f	25	prep	25	prep
+28	de	de	P	P		12	mod	12	mod
+29	la	la	DET	DET	n=s|g=f	30	det	30	det
+30	Cité	_	NPP	NPP		28	prep	28	prep
+31	qui	qui	PROREL	PROREL	n=s	33	suj	33	suj
+32	est	être	V	V	n=s|t=P|p=3	33	aux_tps	33	aux_tps
+33	fortifiée	fortifier	VPP	VPP	n=s|g=f|t=K	12	mod	12	mod
+34	.	.	PONCT	PONCT		33	ponct	33	ponct
+
+1	C'	ce	CLS	CLS		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	là	là	ADV	ADV		2	mod	2	mod
+4	qu'	que	CS	CS		2	mod	2	mod
+5	en	en	P	P		9	mod	9	mod
+6	360	360	NC	NC		5	prep	5	prep
+7	Julien	Julien	NPP	NPP	n=s|g=m	6	mod	6	mod
+8	est	être	V	V	n=s|t=P|p=3	9	aux_tps	9	aux_tps
+9	proclamé	proclamer	VPP	VPP	n=s|g=m|t=K	4	sub	4	sub
+10	empereur	empereur	NC	NC	n=s|g=m	9	obj	9	obj
+11	par	par	P	P		9	mod	9	mod
+12	ses	ses	DET	DET	n=p|p=3|poss=s	13	det	13	det
+13	soldats	soldat	NC	NC	n=p|g=m	11	prep	11	prep
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+1	Désormais	désormais	ADV	ADV		4	mod	4	mod
+2	la	la	DET	DET	n=s|g=f	3	det	3	det
+3	ville	ville	NC	NC	n=s|g=f	4	suj	4	suj
+4	prend	prendre	V	V	n=s|t=P|p=3	0	root	0	root
+5	le	le	DET	DET	n=s|g=m	6	det	6	det
+6	nom	nom	NC	NC	n=s|g=m	4	obj	4	obj
+7	de	de	P	P		4	mod	4	mod
+8	Paris	Paris	NPP	NPP	n=s|g=m	7	prep	7	prep
+9	.	.	PONCT	PONCT		8	ponct	8	ponct
+
+1	En	en	P	P		12	mod	12	mod
+2	451	451	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	les	les	DET	DET	n=p	5	det	5	det
+5	Huns	_	NPP	NPP		12	suj	12	suj
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	menés	mener	VPP	VPP	n=p|g=m|t=K	5	mod	5	mod
+8	par	par	P	P		7	mod	7	mod
+9	Attila	Attila	NPP	NPP	n=s|g=m	8	prep	8	prep
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	qui	qui	PROREL	PROREL	n=s	12	suj	12	suj
+12	progressent	progresser	V	V	n=p|t=P,S|p=3	0	root	0	root
+13	vers	vers	P	P		12	mod	12	mod
+14	l'	le	DET	DET	n=s	15	det	15	det
+15	ouest	ouest	NC	NC	n=s|g=m	13	prep	13	prep
+16	en	en	P	P		12	mod	12	mod
+17	ravageant	ravager	VPR	VPR	t=G	16	prep	16	prep
+18	les	les	DET	DET	n=p	19	det	19	det
+19	régions	région	NC	NC	n=p|g=f	17	obj	17	obj
+20	sur	sur	P	P		17	mod	17	mod
+21	leur	leur	DET	DET	n=s|p=3|poss=p	22	det	22	det
+22	passage	passage	NC	NC	n=s|g=m	20	prep	20	prep
+23	parviennent	parvenir	V	V	n=p|t=P,S|p=3	12	mod	12	mod
+24	à	à	P	P		23	mod	23	mod
+25	proximité	proximité	NC	NC	n=s|g=f	24	prep	24	prep
+26	de	de	P	P		23	mod	23	mod
+27	Paris	Paris	NPP	NPP	n=s|g=m	26	prep	26	prep
+28	.	.	PONCT	PONCT		27	ponct	27	ponct
+
+1	Selon	selon	P	P		12	mod	12	mod
+2	la	la	DET	DET	n=s|g=f	3	det	3	det
+3	tradition	tradition	NC	NC	n=s|g=f	1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	sainte	saint	ADJ	ADJ	n=s|g=f	3	mod	3	mod
+6	Geneviève	Geneviève	NPP	NPP	n=s|g=f	3	mod	3	mod
+7	(	(	PONCT	PONCT		6	ponct	6	ponct
+8	patronne	patronne	NC	NC	n=s|g=f	3	mod	3	mod
+9	de	de	P	P		8	dep	8	dep
+10	Paris	Paris	NPP	NPP	n=s|g=m	9	prep	9	prep
+11	)	)	PONCT	PONCT		10	ponct	10	ponct
+12	organise	organiser	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+13	la	la	DET	DET	n=s|g=f	14	det	14	det
+14	résistance	résistance	NC	NC	n=s|g=f	12	obj	12	obj
+15	parisienne	parisien	ADJ	ADJ	n=s|g=f	14	mod	14	mod
+16	ce	ce	PRO	PRO	n=s	12	mod	12	mod
+17	qui	qui	PROREL	PROREL	n=s	19	suj	19	suj
+18	aurait	avoir	V	V	n=s|t=C|p=3	19	aux_tps	19	aux_tps
+19	découragé	décourager	VPP	VPP	n=s|g=m|t=K	16	mod_rel	16	mod_rel
+20	les	les	DET	DET	n=p	21	det	21	det
+21	Huns	_	NC	NC		19	obj	19	obj
+22	d'	de	P	P		19	mod	19	mod
+23	attaquer	attaquer	VINF	VINF	t=W	22	prep	22	prep
+24	la	la	DET	DET	n=s|g=f	25	det	25	det
+25	ville	ville	NC	NC	n=s|g=f	23	obj	23	obj
+26	.	.	PONCT	PONCT		25	ponct	25	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	Francs	Francs	NPP	NPP	n=s|g=m	5	suj	5	suj
+3	avaient	avoir	V	V	n=p|t=I|p=3	5	aux_tps	5	aux_tps
+4	vainement	_	ADV	ADV		5	mod	5	mod
+5	lancé	lancer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+6	une	une	DET	DET	n=s|g=f	8	det	8	det
+7	première	premier	ADJ	ADJ	n=s|g=f	8	mod	8	mod
+8	attaque	attaque	NC	NC	n=s|g=f	5	obj	5	obj
+9	en	en	P	P		5	mod	5	mod
+10	460	460	NC	NC		9	prep	9	prep
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+1	En	en	P	P		14	mod	14	mod
+2	486	486	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	ayant	avoir	VPR	VPR	t=G	5	aux_tps	5	aux_tps
+5	vaincu	vaincre	VPP	VPP	n=s|g=m|t=K	2	mod	2	mod
+6	le	le	DET	DET	n=s|g=m	7	det	7	det
+7	général	général	NC	NC	n=s|g=m	5	obj	5	obj
+8	gallo-romain	gallo-romain	ADJ	ADJ	n=s|g=m	7	mod	7	mod
+9	Syagrius	_	NPP	NPP		7	mod	7	mod
+10	à	à	P	P		5	mod	5	mod
+11	Soissons	Soissons	NPP	NPP	n=s|g=m	10	prep	10	prep
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	ils	ils	CLS	CLS	n=p|g=m|p=3	14	suj	14	suj
+14	prennent	prendre	VS	VS	n=p|t=P,S|p=3	0	root	0	root
+15	Paris	Paris	NPP	NPP	n=s|g=m	14	mod	14	mod
+16	dont	dont	PROREL	PROREL		20	mod	20	mod
+17	leur	leur	DET	DET	n=s|p=3|poss=p	18	det	18	det
+18	roi	roi	NC	NC	n=s|g=m	20	suj	20	suj
+19	Clovis	Clovis	NPP	NPP	n=s|g=m	18	mod	18	mod
+20	fait	faire	V	V	n=s|t=P|p=3	14	mod	14	mod
+21	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	22	det	22	det
+22	capitale	capitale	NC	NC	n=s|g=f	20	obj	20	obj
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	île	île	NC	NC	n=s|g=f	6	suj	6	suj
+3	de	de	P	P		2	dep	2	dep
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	cité	cité	NC	NC	n=s|g=f	3	prep	3	prep
+6	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+7	le	le	DET	DET	n=s|g=m	8	det	8	det
+8	siège	siège	NC	NC	n=s|g=m	6	obj	6	obj
+9	des	de	P+D	P+D	n=p	8	dep	8	dep
+10	autorités	autorité	NC	NC	n=p|g=f	9	prep	9	prep
+11	politiques	politique	ADJ	ADJ	n=p	10	mod	10	mod
+12	et	et	CC	CC		11	coord	11	coord
+13	religieuses	religieux	ADJ	ADJ	n=p|g=f	12	dep_coord	12	dep_coord
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	rive	rive	NC	NC	n=s|g=f	0	_	0	_
+3	droite	droit	ADJ	ADJ	n=s|g=f	2	mod	2	mod
+4	de	de	P	P		2	dep	2	dep
+5	la	la	DET	DET	n=s|g=f	6	det	6	det
+6	Seine	Seine	NPP	NPP	n=s|g=f	4	prep	4	prep
+7	se	se	CLR	CLR	n=p,s|p=3	0	_	0	_
+8	peuple	peuple	NC	NC	n=s|g=m	0	_	0	_
+9	de	de	P	P		8	dep	8	dep
+10	marchands	marchand	NC	NC	n=p|g=m	9	prep	9	prep
+11	et	et	CC	CC		9	coord	9	coord
+12	d'	de	P	P		11	dep_coord	11	dep_coord
+13	artisans	artisan	NC	NC	n=p|g=m	12	prep	12	prep
+14	groupés	grouper	VPP	VPP	n=p|g=m|t=K	13	mod	13	mod
+15	autour	autour	NC	NC	n=s|g=m	14	mod	14	mod
+16	du	de	P+D	P+D	n=s|g=m	14	mod	14	mod
+17	port	port	NC	NC	n=s|g=m	16	prep	16	prep
+18	et	et	CC	CC		8	coord	8	coord
+19	de	de	P	P		18	dep_coord	18	dep_coord
+20	la	la	DET	DET	n=s|g=f	21	det	21	det
+21	place	place	NC	NC	n=s|g=f	19	prep	19	prep
+22	de	de	P	P		21	dep	21	dep
+23	grève	grève	NC	NC	n=s|g=f	22	prep	22	prep
+24	(	(	PONCT	PONCT		23	ponct	23	ponct
+25	aujourd'hui	aujourd'hui	ADV	ADV		26	mod	26	mod
+26	place	place	NC	NC	n=s|g=f	0	_	0	_
+27	de	de	P	P		26	dep	26	dep
+28	l'	le	DET	DET	n=s	29	det	29	det
+29	Hôtel-de-Ville	_	NPP	NPP		27	prep	27	prep
+30	)	)	PONCT	PONCT		29	ponct	29	ponct
+31	.	.	PONCT	PONCT		29	ponct	29	ponct
+
+1	On	on	CLS	CLS	n=s|p=3	2	suj	2	suj
+2	construit	construire	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+3	des	des	DET	DET	n=p	4	det	4	det
+4	églises	église	NC	NC	n=p|g=f	2	obj	2	obj
+5	comme	comme	P	P		2	mod	2	mod
+6	celle	celle	PRO	PRO	n=s|g=f	5	prep	5	prep
+7	de	de	P	P		2	mod	2	mod
+8	Saint-Gervais	Saint-Gervais	NPP	NPP	n=s|g=m	7	prep	7	prep
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	ou	ou	CC	CC		2	coord	2	coord
+11	celle	celle	PRO	PRO	n=s|g=f	10	dep_coord	10	dep_coord
+12	de	de	P	P		10	dep_coord	10	dep_coord
+13	Saint-Pierre	Saint-Pierre	NPP	NPP	n=s|g=m	12	prep	12	prep
+14	(	(	PONCT	PONCT		13	ponct	13	ponct
+15	à	à	P	P		10	dep_coord	10	dep_coord
+16	l'	le	DET	DET	n=s	17	det	17	det
+17	emplacement	emplacement	NC	NC	n=s|g=m	15	prep	15	prep
+18	de	de	P	P		10	dep_coord	10	dep_coord
+19	l'	le	DET	DET	n=s	20	det	20	det
+20	église	église	NC	NC	n=s|g=f	18	prep	18	prep
+21	Saint	_	NPP	NPP		20	mod	20	mod
+22	-	-	PONCT	PONCT		21	ponct	21	ponct
+23	Merri	Merri	NPP	NPP	n=s|g=m	20	mod	20	mod
+24	actuelle	actuel	ADJ	ADJ	n=s|g=f	23	mod	23	mod
+25	.	.	PONCT	PONCT		24	ponct	24	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	rive	rive	NC	NC	n=s|g=f	4	suj	4	suj
+3	gauche	gauche	NC	NC	n=s	2	mod	2	mod
+4	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+5	quasiment	_	ADV	ADV		4	mod	4	mod
+6	vide	vide	ADJ	ADJ	n=s	4	ats	4	ats
+7	.	.	PONCT	PONCT		6	ponct	6	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	monastères	monastère	NC	NC	n=p|g=m	20	suj	20	suj
+3	comme	comme	P	P		2	dep	2	dep
+4	deux	deux	PRO	PRO	s=card|n=p	3	prep	3	prep
+5	de	de	P	P		2	dep	2	dep
+6	Saint-Vincent	Saint-Vincent	NPP	NPP	n=s|g=m	5	prep	5	prep
+7	(	(	PONCT	PONCT		6	ponct	6	ponct
+8	aujourd'hui	aujourd'hui	ADV	ADV		2	mod	2	mod
+9	Saint-Germain-des-Près	_	NPP	NPP		2	mod	2	mod
+10	)	)	PONCT	PONCT		9	ponct	9	ponct
+11	ou	ou	CC	CC		2	coord	2	coord
+12	des	de	P+D	P+D	n=p	11	dep_coord	11	dep_coord
+13	Saint-Apôtres	_	NPP	NPP		12	prep	12	prep
+14	(	(	PONCT	PONCT		13	ponct	13	ponct
+15	aujourd'hui	aujourd'hui	ADV	ADV		17	mod	17	mod
+16	le	le	DET	DET	n=s|g=m	17	det	17	det
+17	Panthéon	_	NPP	NPP		2	mod	2	mod
+18	)	)	PONCT	PONCT		17	ponct	17	ponct
+19	sont	être	V	V	n=p|t=P|p=3	20	aux_pass	20	aux_pass
+20	isolés	isoler	VPP	VPP	n=p|g=m|t=K	0	root	0	root
+21	dans	dans	P	P		20	mod	20	mod
+22	la	la	DET	DET	n=s|g=f	23	det	23	det
+23	campagne	campagne	NC	NC	n=s|g=f	21	prep	21	prep
+24	environnant	environner	VPR	VPR	t=G	20	mod	20	mod
+25	la	la	DET	DET	n=s|g=f	26	det	26	det
+26	capitale	capitale	NC	NC	n=s|g=f	24	obj	24	obj
+27	.	.	PONCT	PONCT		26	ponct	26	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	faudra	falloir	V	V	n=s|t=F|p=3	0	root	0	root
+3	attendre	attendre	VINF	VINF	t=W	2	obj	2	obj
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	construction	construction	NC	NC	n=s|g=f	3	obj	3	obj
+6	de	de	P	P		3	mod	3	mod
+7	l'	le	DET	DET	n=s	8	det	8	det
+8	enceinte	enceinte	NC	NC	n=s|g=f	6	prep	6	prep
+9	par	par	P	P		3	mod	3	mod
+10	le	le	DET	DET	n=s|g=m	11	det	11	det
+11	roi	roi	NC	NC	n=s|g=m	9	prep	9	prep
+12	Philippe-Auguste	_	NPP	NPP		11	mod	11	mod
+13	à	à	P	P		3	mod	3	mod
+14	partir	partir	VINF	VINF	t=W	13	prep	13	prep
+15	de	de	P	P		14	mod	14	mod
+16	1176	1176	NC	NC		15	prep	15	prep
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	pour	pour	P	P		3	mod	3	mod
+19	que	que	CS	CS		18	prep	18	prep
+20	des	des	DET	DET	n=p	21	det	21	det
+21	habitants	habitant	NC	NC	n=p|g=m	22	suj	22	suj
+22	consentent	consentir	V	V	n=p|t=P,S|p=3	19	sub	19	sub
+23	à	à	P	P		22	mod	22	mod
+24	s'	se	CLR	CLR	n=p,s|p=3	26	aff	26	aff
+25	y	y	CLO	CLO		26	aff	26	aff
+26	installer	installer	VINF	VINF	t=W	23	prep	23	prep
+27	.	.	PONCT	PONCT		26	ponct	26	ponct
+
+1	Sous	sous	P	P		7	mod	7	mod
+2	l'	le	DET	DET	n=s	3	det	3	det
+3	empereur	empereur	NC	NC	n=s|g=m	1	prep	1	prep
+4	Charlemagne	_	NPP	NPP		3	mod	3	mod
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	Paris	Paris	NPP	NPP	n=s|g=m	7	suj	7	suj
+7	perd	perdre	V	V	n=s|t=P|p=3	0	root	0	root
+8	son	son	DET	DET	n=s|g=m|p=3|poss=s	9	det	9	det
+9	rôle	rôle	NC	NC	n=s|g=m	7	obj	7	obj
+10	de	de	P	P		9	dep	9	dep
+11	capitale	capitale	NC	NC	n=s|g=f	10	prep	10	prep
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	3	suj	3	suj
+2	est	être	V	V	n=s|t=P|p=3	3	aux_pass	3	aux_pass
+3	remplacée	remplacer	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+4	par	par	P	P		3	mod	3	mod
+5	Aix-la-Chapelle	Aix-la-Chapelle	NPP	NPP	n=s|g=m	4	prep	4	prep
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	capitale	capitale	NC	NC	n=s|g=f	3	mod	3	mod
+8	de	de	P	P		7	dep	7	dep
+9	l'	le	DET	DET	n=s	10	det	10	det
+10	empire	empire	NC	NC	n=s|g=m	8	prep	8	prep
+11	carolingien	carolingien	ADJ	ADJ	n=s|g=m	10	mod	10	mod
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+1	Paris	_	NPP	NPP		2	suj	2	suj
+2	redevient	redevenir	V	V	n=s|t=P|p=3	0	root	0	root
+3	une	une	DET	DET	n=s|g=f	4	det	4	det
+4	ville	ville	NC	NC	n=s|g=f	2	obj	2	obj
+5	franque	franc	NC	NC	n=s|g=f	4	mod	4	mod
+6	parmi	parmi	P	P		2	mod	2	mod
+7	d'	de	DET	DET	n=p	8	det	8	det
+8	autres	autres	PRO	PRO	n=p|g=f,m	6	prep	6	prep
+9	.	.	PONCT	PONCT		8	ponct	8	ponct
+
+1	En	en	P	P		13	mod	13	mod
+2	885	885	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	les	les	DET	DET	n=p	5	det	5	det
+5	Vikings	_	NPP	NPP		13	suj	13	suj
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	peuples	peuple	NC	NC	n=p|g=m	5	mod	5	mod
+8	du	de	P+D	P+D	n=s|g=m	7	dep	7	dep
+9	nord	nord	NC	NC	n=s|g=m	8	prep	8	prep
+10	de	de	P	P		7	dep	7	dep
+11	l'	le	DET	DET	n=s	12	det	12	det
+12	Europe	Europe	NPP	NPP	n=s|g=f	10	prep	10	prep
+13	remontent	remonter	V	V	n=p|t=P,S|p=3	0	root	0	root
+14	la	la	DET	DET	n=s|g=f	15	det	15	det
+15	Seine	Seine	NPP	NPP	n=s|g=f	13	obj	13	obj
+16	et	et	CC	CC		13	coord	13	coord
+17	attaquent	attaquer	V	V	n=p|t=P,S|p=3	16	dep_coord	16	dep_coord
+18	Paris	Paris	NPP	NPP	n=s|g=m	17	obj	17	obj
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	C'	ce	CLS	CLS		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	le	le	DET	DET	n=s|g=m	4	det	4	det
+4	siège	siège	NC	NC	n=s|g=m	2	obj	2	obj
+5	de	de	P	P		2	mod	2	mod
+6	Paris	Paris	NPP	NPP	n=s|g=m	5	prep	5	prep
+7	(	(	PONCT	PONCT		6	ponct	6	ponct
+8	885-887	_	NPP	NPP		2	mod	2	mod
+9	)	)	PONCT	PONCT		8	ponct	8	ponct
+10	.	.	PONCT	PONCT		8	ponct	8	ponct
+
+1	Ils	ils	CLS	CLS	n=p|g=m|p=3	2	suj	2	suj
+2	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+3	40_000	40_000	ADJ	ADJ		2	ats	2	ats
+4	et	et	CC	CC		2	coord	2	coord
+5	ne	ne	ADV	ADV		6	mod	6	mod
+6	reculent	reculer	V	V	n=p|t=P,S|p=3	4	dep_coord	4	dep_coord
+7	devant	devant	P	P		6	mod	6	mod
+8	rien	rien	PRO	PRO	n=s|g=m	7	prep	7	prep
+9	:	:	PONCT	PONCT		8	ponct	8	ponct
+10	ils	ils	CLS	CLS	n=p|g=m|p=3	12	suj	12	suj
+11	sont	être	V	V	n=p|t=P|p=3	12	aux_pass	12	aux_pass
+12	réputés	réputer	VPP	VPP	n=p|g=m|t=K	2	mod	2	mod
+13	pour	pour	P	P		12	mod	12	mod
+14	être	être	VINF	VINF	t=W	13	prep	13	prep
+15	sanguinaires	sanguinaire	ADJ	ADJ	n=p	0	_	0	_
+16	et	et	CC	CC		15	coord	15	coord
+17	impitoyables	impitoyable	ADJ	ADJ	n=p	16	dep_coord	16	dep_coord
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	lendemain	lendemain	NC	NC	n=s|g=m	7	mod	7	mod
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	une	une	DET	DET	n=s|g=f	5	det	5	det
+5	attaque	attaque	NC	NC	n=s|g=f	7	suj	7	suj
+6	est	être	V	V	n=s|t=P|p=3	7	aux_pass	7	aux_pass
+7	donnée	donner	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+8	par	par	P	P		7	mod	7	mod
+9	les	les	DET	DET	n=p	10	det	10	det
+10	Vikings	_	NPP	NPP		8	prep	8	prep
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	siège	siège	NC	NC	n=s|g=m	8	suj	8	suj
+3	dure	dur	ADJ	ADJ	n=s|g=f	2	mod	2	mod
+4	longtemps	longtemps	ADV	ADV		8	mod	8	mod
+5	:	:	PONCT	PONCT		4	ponct	4	ponct
+6	les	les	DET	DET	n=p	7	det	7	det
+7	Parisiens	_	NPP	NPP		8	suj	8	suj
+8	commencent	commencer	V	V	n=p|t=P,S|p=3	0	root	0	root
+9	à	à	P	P		8	obj	8	obj
+10	mourir	mourir	VINF	VINF	t=W	9	prep	9	prep
+11	de	de	P	P		10	mod	10	mod
+12	faim	faim	NC	NC	n=s|g=f	11	prep	11	prep
+13	et	et	CC	CC		11	coord	11	coord
+14	de	de	P	P		13	dep_coord	13	dep_coord
+15	maladies	maladie	NC	NC	n=p|g=f	14	prep	14	prep
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+1	Cependant	cependant	ADV	ADV		5	mod	5	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	ils	ils	CLS	CLS	n=p|g=m|p=3	5	suj	5	suj
+4	ne	ne	ADV	ADV		5	mod	5	mod
+5	laissent	laisser	V	V	n=p|t=P,S|p=3	0	root	0	root
+6	rien	rien	PRO	PRO	n=s|g=m	5	obj	5	obj
+7	passer	passer	VINF	VINF	t=W	5	mod	5	mod
+8	.	.	PONCT	PONCT		7	ponct	7	ponct
+
+1	Paris	_	NPP	NPP		2	suj	2	suj
+2	a	avoir	V	V	n=s|t=P|p=3	0	root	0	root
+3	beau	beau	ADV	ADV		2	mod	2	mod
+4	voir	voir	VINF	VINF	t=W	2	obj	2	obj
+5	ses	ses	DET	DET	n=p|p=3|poss=s	6	det	6	det
+6	remparts	rempart	NC	NC	n=p|g=m	4	obj	4	obj
+7	enflammés	enflammer	VPP	VPP	n=p|g=m|t=K	6	mod	6	mod
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	ses	ses	DET	DET	n=p|p=3|poss=s	10	det	10	det
+10	habitants	habitant	NC	NC	n=p|g=m	6	mod	6	mod
+11	décimés	décimer	VPP	VPP	n=p|g=m|t=K	10	mod	10	mod
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	les	les	DET	DET	n=p	14	det	14	det
+14	Vikings	viking	NC	NC	n=p	18	suj	18	suj
+15	ne	ne	ADV	ADV		18	mod	18	mod
+16	sont	être	V	V	n=p|t=P|p=3	18	aux_tps	18	aux_tps
+17	pas	pas	ADV	ADV		18	mod	18	mod
+18	entrés	entrer	VPP	VPP	n=p|g=m|t=K	2	mod	2	mod
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	Eudes	_	NPP	NPP		16	suj	16	suj
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	comte	comte	NC	NC	n=s|g=m	1	mod	1	mod
+4	de	de	P	P		3	dep	3	dep
+5	Paris	Paris	NPP	NPP	n=s|g=m	4	prep	4	prep
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	qui	qui	PROREL	PROREL	n=s	9	suj	9	suj
+8	a	avoir	V	V	n=s|t=P|p=3	9	aux_tps	9	aux_tps
+9	conduit	conduire	VPP	VPP	n=s|g=m|t=K	1	mod_rel	1	mod_rel
+10	la	la	DET	DET	n=s|g=f	11	det	11	det
+11	défense	défense	NC	NC	n=s|g=f	9	obj	9	obj
+12	de	de	P	P		9	mod	9	mod
+13	la	la	DET	DET	n=s|g=f	14	det	14	det
+14	ville	ville	NC	NC	n=s|g=f	12	prep	12	prep
+15	est	être	V	V	n=s|t=P|p=3	16	aux_tps	16	aux_tps
+16	reconnu	reconnaître	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+17	pour	pour	P	P		16	mod	16	mod
+18	son	son	DET	DET	n=s|g=m|p=3|poss=s	19	det	19	det
+19	courage	courage	NC	NC	n=s|g=m	17	prep	17	prep
+20	(	(	PONCT	PONCT		19	ponct	19	ponct
+21	en	en	P	P		16	mod	16	mod
+22	888	888	NC	NC		21	prep	21	prep
+23	il	il	CLS	CLS	n=s|g=m|p=3	25	suj	25	suj
+24	sera	être	V	V	n=s|t=F|p=3	25	aux_tps	25	aux_tps
+25	élu	élire	VPP	VPP	n=s|g=m|t=K	16	mod	16	mod
+26	roi	roi	NC	NC	n=s|g=m	25	obj	25	obj
+27	des	de	P+D	P+D	n=p	25	mod	25	mod
+28	Francs	Francs	NPP	NPP	n=s|g=m	27	prep	27	prep
+29	par	par	P	P		25	mod	25	mod
+30	les	les	DET	DET	n=p	31	det	31	det
+31	barons	baron	NC	NC	n=p|g=m	29	prep	29	prep
+32	francs	franc	NC	NC	n=p|g=m	31	mod	31	mod
+33	)	)	PONCT	PONCT		32	ponct	32	ponct
+34	.	.	PONCT	PONCT		32	ponct	32	ponct
+
+1	Pour	pour	P	P		13	mod	13	mod
+2	libérer	libérer	VINF	VINF	t=W	1	prep	1	prep
+3	Paris	Paris	NPP	NPP	n=s|g=m	2	obj	2	obj
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	le	le	DET	DET	n=s|g=m	6	det	6	det
+6	roi	roi	NC	NC	n=s|g=m	13	suj	13	suj
+7	Charles	Charles	NPP	NPP	n=s|g=m	6	mod	6	mod
+8	III	_	NPP	NPP		6	mod	6	mod
+9	le	le	DET	DET	n=s|g=m	10	det	10	det
+10	Gros	_	NPP	NPP		6	mod	6	mod
+11	(	(	PONCT	PONCT		10	ponct	10	ponct
+12	qui	qui	PROREL	PROREL	n=s	13	suj	13	suj
+13	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+14	en	en	P	P		13	mod	13	mod
+15	même	même	ADJ	ADJ	n=s	16	mod	16	mod
+16	temps	temps	NC	NC	g=m	14	prep	14	prep
+17	empereur	empereur	NC	NC	n=s|g=m	16	mod	16	mod
+18	carolingien	carolingien	ADJ	ADJ	n=s|g=m	17	mod	17	mod
+19	)	)	PONCT	PONCT		18	ponct	18	ponct
+20	envoient	envoyer	V	V	n=p|t=P,S|p=3	13	mod	13	mod
+21	les	les	DET	DET	n=p	22	det	22	det
+22	Vikings	viking	NC	NC	n=p	20	suj	20	suj
+23	piller	piller	VINF	VINF	t=W	13	mod	13	mod
+24	la	la	DET	DET	n=s|g=f	25	det	25	det
+25	Bourgogne	Bourgogne	NPP	NPP	n=s|g=f,m	23	obj	23	obj
+26	.	.	PONCT	PONCT		25	ponct	25	ponct
+
+1	En	en	P	P		13	mod	13	mod
+2	987	987	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	Hugues	Hugues	NPP	NPP	n=s|g=m	13	suj	13	suj
+5	Capet	_	NPP	NPP		4	mod	4	mod
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	un	un	DET	DET	n=s|g=m	8	det	8	det
+8	descendant	descendant	NC	NC	n=s|g=m	4	mod	4	mod
+9	d'	de	P	P		8	dep	8	dep
+10	Eudes	_	NPP	NPP		9	prep	9	prep
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	est	être	V	V	n=s|t=P|p=3	13	aux_tps	13	aux_tps
+13	élu	élire	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+14	roi	roi	NC	NC	n=s|g=m	13	obj	13	obj
+15	de	de	P	P		13	mod	13	mod
+16	France	France	NPP	NPP	n=s|g=f,m	15	prep	15	prep
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+1	Ses	ses	DET	DET	n=p|p=3|poss=s	2	det	2	det
+2	successeurs	successeur	NC	NC	n=p|g=m	3	suj	3	suj
+3	font	faire	V	V	n=p|t=P|p=3	0	root	0	root
+4	de	de	P	P		3	mod	3	mod
+5	Paris	Paris	NPP	NPP	n=s|g=m	4	prep	4	prep
+6	la	la	DET	DET	n=s|g=f	7	det	7	det
+7	capitale	capitale	NC	NC	n=s|g=f	3	obj	3	obj
+8	du	de	P+D	P+D	n=s|g=m	7	dep	7	dep
+9	royaume	royaume	NC	NC	n=s|g=m	8	prep	8	prep
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+1	Au	à	P+D	P+D	n=s|g=m	9	mod	9	mod
+2	XIIe	_	ADJ	ADJ		3	mod	3	mod
+3	siècle	siècle	NC	NC	n=s|g=m	1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	le	le	DET	DET	n=s|g=m	6	det	6	det
+6	roi	roi	NC	NC	n=s|g=m	9	suj	9	suj
+7	Louis	Louis	NPP	NPP	n=s|g=m	6	mod	6	mod
+8	VII	_	NPP	NPP		6	mod	6	mod
+9	améliore	améliorer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+10	la	la	DET	DET	n=s|g=f	11	det	11	det
+11	défense	défense	NC	NC	n=s|g=f	9	obj	9	obj
+12	de	de	P	P		11	dep	11	dep
+13	Paris	Paris	NPP	NPP	n=s|g=m	12	prep	12	prep
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	accès	accès	NC	NC	g=m	10	suj	10	suj
+3	à	à	P	P		2	dep	2	dep
+4	l'	le	DET	DET	n=s	5	det	5	det
+5	île	île	NC	NC	n=s|g=f	3	prep	3	prep
+6	de	de	P	P		2	dep	2	dep
+7	la	la	DET	DET	n=s|g=f	8	det	8	det
+8	Cité	_	NPP	NPP		6	prep	6	prep
+9	sont	être	V	V	n=p|t=P|p=3	10	aux_tps	10	aux_tps
+10	contrôlés	contrôler	VPP	VPP	n=p|g=m|t=K	0	root	0	root
+11	au	à	P+D	P+D	n=s|g=m	10	mod	10	mod
+12	nord	_	NPP	NPP		11	prep	11	prep
+13	(	(	PONCT	PONCT		12	ponct	12	ponct
+14	rive	rive	NC	NC	n=s|g=f	10	mod	10	mod
+15	droite	droite	NC	NC	n=s|g=f	14	mod	14	mod
+16	de	de	P	P		14	dep	14	dep
+17	la	la	DET	DET	n=s|g=f	18	det	18	det
+18	Seine	Seine	NPP	NPP	n=s|g=f	16	prep	16	prep
+19	)	)	PONCT	PONCT		18	ponct	18	ponct
+20	par	par	P	P		10	mod	10	mod
+21	le	le	DET	DET	n=s|g=m	22	det	22	det
+22	Grand	Grand	NPP	NPP	n=s|g=m	20	prep	20	prep
+23	Châtelet	_	NPP	NPP		22	mod	22	mod
+24	qui	qui	PROREL	PROREL	n=s	25	suj	25	suj
+25	protège	protéger	V	V	n=s|t=P,S|p=1,3	10	mod	10	mod
+26	le	le	DET	DET	n=s|g=m	28	det	28	det
+27	nouveau	nouveau	ADJ	ADJ	n=s|g=m	28	mod	28	mod
+28	pont	pont	NC	NC	n=s|g=m	25	obj	25	obj
+29	(	(	PONCT	PONCT		28	ponct	28	ponct
+30	actuel	actuel	ADJ	ADJ	n=s|g=m	28	mod	28	mod
+31	Pont	Pont	NPP	NPP	n=s|g=m	28	mod	28	mod
+32	au	à	P+D	P+D	n=s|g=m	25	mod	25	mod
+33	Change	Change	NPP	NPP	n=s|g=m	32	prep	32	prep
+34	)	)	PONCT	PONCT		33	ponct	33	ponct
+35	et	et	CC	CC		10	coord	10	coord
+36	au	à	P+D	P+D	n=s|g=m	35	dep_coord	35	dep_coord
+37	sud	_	NPP	NPP		36	prep	36	prep
+38	,	,	PONCT	PONCT		37	ponct	37	ponct
+39	sur	sur	P	P		10	mod	10	mod
+40	la	la	DET	DET	n=s|g=f	41	det	41	det
+41	rive	rive	NC	NC	n=s|g=f	39	prep	39	prep
+42	gauche	gauche	NC	NC	n=s	41	mod	41	mod
+43	de	de	P	P		10	mod	10	mod
+44	la	la	DET	DET	n=s|g=f	45	det	45	det
+45	Seine	Seine	NPP	NPP	n=s|g=f	43	prep	43	prep
+46	,	,	PONCT	PONCT		45	ponct	45	ponct
+47	par	par	P	P		10	mod	10	mod
+48	le	le	DET	DET	n=s|g=m	49	det	49	det
+49	Petit	_	NPP	NPP		47	prep	47	prep
+50	Châtelet	_	NPP	NPP		49	mod	49	mod
+51	.	.	PONCT	PONCT		50	ponct	50	ponct
+
+1	Son	son	DET	DET	n=s|g=m|p=3|poss=s	2	det	2	det
+2	fils	fils	NC	NC	g=m	5	suj	5	suj
+3	Philippe	Philippe	NPP	NPP	n=s|g=m	2	mod	2	mod
+4	Auguste	Auguste	NPP	NPP	n=s|g=m	2	mod	2	mod
+5	fait	faire	V	V	n=s|t=P|p=3	0	root	0	root
+6	construire	construire	VINF	VINF	t=W	5	obj	5	obj
+7	une	une	DET	DET	n=s|g=f	9	det	9	det
+8	nouvelle	nouveau	ADJ	ADJ	n=s|g=f	9	mod	9	mod
+9	enceinte	enceinte	NC	NC	n=s|g=f	6	obj	6	obj
+10	afin	_	ADV	ADV		6	mod	6	mod
+11	de	de	P	P		6	mod	6	mod
+12	protéger	protéger	VINF	VINF	t=W	11	prep	11	prep
+13	les	les	DET	DET	n=p	15	det	15	det
+14	nouveaux	nouveau	ADJ	ADJ	n=p|g=m	15	mod	15	mod
+15	espaces	espace	NC	NC	n=p	12	obj	12	obj
+16	bâtis	bâti	ADJ	ADJ	n=p|g=m|t=K	15	mod	15	mod
+17	ou	ou	CC	CC		11	coord	11	coord
+18	à	à	P	P		17	dep_coord	17	dep_coord
+19	bâtir	bâtir	VINF	VINF	t=W	18	prep	18	prep
+20	tant	tant	ADV	ADV		19	mod	19	mod
+21	sur	sur	P	P		19	mod	19	mod
+22	la	la	DET	DET	n=s|g=f	23	det	23	det
+23	rive	rive	NC	NC	n=s|g=f	21	prep	21	prep
+24	droite	droit	ADJ	ADJ	n=s|g=f	23	mod	23	mod
+25	(	(	PONCT	PONCT		24	ponct	24	ponct
+26	autour	autour	NC	NC	n=s|g=m	23	mod	23	mod
+27	de	de	P	P		26	dep	26	dep
+28	Saint	_	NPP	NPP		27	prep	27	prep
+29	-	-	PONCT	PONCT		28	ponct	28	ponct
+30	Merri	Merri	NPP	NPP	n=s|g=m	28	mod	28	mod
+31	,	,	PONCT	PONCT		30	ponct	30	ponct
+32	de	de	P	P		19	mod	19	mod
+33	Saint	_	NPP	NPP		32	prep	32	prep
+34	-	-	PONCT	PONCT		33	ponct	33	ponct
+35	Martin	martin	NC	NC	n=s|g=m	33	mod	33	mod
+36	des	de	P+D	P+D	n=p	35	dep	35	dep
+37	Champs	Champs	NPP	NPP	n=s|g=m	36	prep	36	prep
+38	,	,	PONCT	PONCT		37	ponct	37	ponct
+39	de	de	P	P		19	mod	19	mod
+40	Saint-Germain	Saint-Germain	NPP	NPP	n=s|g=m	39	prep	39	prep
+41	l'	le	DET	DET	n=s	42	det	42	det
+42	Auxerrois	_	NPP	NPP		19	obj	19	obj
+43	)	)	PONCT	PONCT		42	ponct	42	ponct
+44	que	que	CS	CS		5	mod	5	mod
+45	sur	sur	P	P		44	sub	44	sub
+46	la	la	DET	DET	n=s|g=f	47	det	47	det
+47	rive	rive	NC	NC	n=s|g=f	45	prep	45	prep
+48	gauche	gauche	NC	NC	n=s	47	mod	47	mod
+49	(	(	PONCT	PONCT		48	ponct	48	ponct
+50	l'	le	DET	DET	n=s	52	det	52	det
+51	ancienne	ancien	ADJ	ADJ	n=s|g=f	52	mod	52	mod
+52	ville	ville	NC	NC	n=s|g=f	0	_	0	_
+53	romaine	romain	ADJ	ADJ	n=s|g=f	52	mod	52	mod
+54	)	)	PONCT	PONCT		53	ponct	53	ponct
+55	autour	autour	NC	NC	n=s|g=m	52	mod	52	mod
+56	de	de	P	P		55	dep	55	dep
+57	Saint-Germain	Saint-Germain	NPP	NPP	n=s|g=m	56	prep	56	prep
+58	des	de	P+D	P+D	n=p	55	dep	55	dep
+59	Près	_	NPP	NPP		58	prep	58	prep
+60	et	et	CC	CC		55	coord	55	coord
+61	Saint	_	NPP	NPP		60	dep_coord	60	dep_coord
+62	-	-	PONCT	PONCT		61	ponct	61	ponct
+63	Marcel	Marcel	NPP	NPP	n=s|g=m	61	mod	61	mod
+64	.	.	PONCT	PONCT		63	ponct	63	ponct
+
+1	Les	les	DET	DET	n=p	3	det	3	det
+2	nouvelles	nouveau	ADJ	ADJ	n=p|g=f	3	mod	3	mod
+3	fortifications	fortification	NC	NC	n=p|g=f	4	suj	4	suj
+4	font	faire	V	V	n=p|t=P|p=3	0	root	0	root
+5	environ	environ	ADV	ADV		4	mod	4	mod
+6	5,3	5,3	ADJ	ADJ		7	mod	7	mod
+7	km	kilomètre	NC	NC	g=m	4	obj	4	obj
+8	de	de	P	P		4	mod	4	mod
+9	long	long	ADJ	ADJ	n=s|g=m	8	prep	8	prep
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	elles	elles	CLS	CLS	n=p|g=f|p=3	12	suj	12	suj
+12	comprennent	comprendre	V	V	n=p|t=P,S|p=3	4	mod	4	mod
+13	67	67	ADJ	ADJ		14	mod	14	mod
+14	tours	tour	NC	NC	n=p	12	obj	12	obj
+15	d'	de	P	P		14	dep	14	dep
+16	un	un	DET	DET	n=s|g=m	17	det	17	det
+17	diamètre	diamètre	NC	NC	n=s|g=m	15	prep	15	prep
+18	de	de	P	P		17	dep	17	dep
+19	6	6	ADJ	ADJ		20	mod	20	mod
+20	mètres	mètre	NC	NC	n=p|g=m	18	prep	18	prep
+21	.	.	PONCT	PONCT		20	ponct	20	ponct
+
+1	À	à	P	P		6	mod	6	mod
+2	l'	le	DET	DET	n=s	3	det	3	det
+3	ouest	ouest	NC	NC	n=s|g=m	1	prep	1	prep
+4	elles	elles	CLS	CLS	n=p|g=f|p=3	6	suj	6	suj
+5	s'	se	CLR	CLR	n=p,s|p=3	6	aff	6	aff
+6	appuient	appuyer	V	V	n=p|t=P,S|p=3	0	root	0	root
+7	sur	sur	P	P		6	mod	6	mod
+8	la	la	DET	DET	n=s|g=f	9	det	9	det
+9	forteresse	forteresse	NC	NC	n=s|g=f	7	prep	7	prep
+10	du	de	P+D	P+D	n=s|g=m	9	dep	9	dep
+11	Louvre	_	NPP	NPP		10	prep	10	prep
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+1	Elles	elles	CLS	CLS	n=p|g=f|p=3	3	suj	3	suj
+2	sont	être	V	V	n=p|t=P|p=3	3	aux_pass	3	aux_pass
+3	précédées	précéder	VPP	VPP	n=p|g=f|t=K	0	root	0	root
+4	d'	de	P	P		3	mod	3	mod
+5	un	un	DET	DET	n=s|g=m	6	det	6	det
+6	fossé	fossé	NC	NC	n=s|g=m	4	prep	4	prep
+7	sans	sans	P	P		3	mod	3	mod
+8	eau	eau	NC	NC	n=s|g=f	7	prep	7	prep
+9	.	.	PONCT	PONCT		8	ponct	8	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	nuit	nuit	NC	NC	n=s|g=f	13	suj	13	suj
+3	des	de	P+D	P+D	n=p	2	dep	2	dep
+4	bateaux	bateau	NC	NC	n=p|g=m	3	prep	3	prep
+5	en	en	P	P		2	dep	2	dep
+6	bois	bois	NC	NC	g=m	5	prep	5	prep
+7	reliés	relier	VPP	VPP	n=p|g=m|t=K	6	mod	6	mod
+8	aux	à	P+D	P+D	n=p	7	mod	7	mod
+9	rives	rive	NC	NC	n=p|g=f	8	prep	8	prep
+10	par	par	P	P		2	dep	2	dep
+11	des	des	DET	DET	n=p	12	det	12	det
+12	chaînes	chaîne	NC	NC	n=p|g=f	10	prep	10	prep
+13	interdisent	interdire	V	V	n=p|t=P,S|p=3	0	root	0	root
+14	la	la	DET	DET	n=s|g=f	15	det	15	det
+15	circulation	circulation	NC	NC	n=s|g=f	13	obj	13	obj
+16	sur	sur	P	P		13	mod	13	mod
+17	la	la	DET	DET	n=s|g=f	18	det	18	det
+18	Seine	Seine	NPP	NPP	n=s|g=f	16	prep	16	prep
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	À	à	P	P		21	mod	21	mod
+2	partir	partir	VINF	VINF	t=W	1	prep	1	prep
+3	de	de	P	P		2	mod	2	mod
+4	1163	1163	NC	NC		3	prep	3	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	sur	sur	P	P		2	mod	2	mod
+7	l'	le	DET	DET	n=s	8	det	8	det
+8	île	île	NC	NC	n=s|g=f	6	prep	6	prep
+9	de	de	P	P		2	mod	2	mod
+10	la	la	DET	DET	n=s|g=f	11	det	11	det
+11	Cité	_	NPP	NPP		9	prep	9	prep
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	où	où	PROREL	PROREL		21	mod	21	mod
+14	il	il	CLS	CLS	n=s|g=m|p=3	21	suj	21	suj
+15	y	y	CLO	CLO		21	mod	21	mod
+16	une	une	DET	DET	n=s|g=f	17	det	17	det
+17	quinzaine	quinzaine	NC	NC	n=s|g=f	21	suj	21	suj
+18	d'	de	P	P		17	dep	17	dep
+19	églises	église	NC	NC	n=p|g=f	18	prep	18	prep
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	commence	commencer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+22	l'	le	DET	DET	n=s	23	det	23	det
+23	édification	édification	NC	NC	n=s|g=f	21	obj	21	obj
+24	de	de	P	P		21	mod	21	mod
+25	la	la	DET	DET	n=s|g=f	26	det	26	det
+26	cathédrale	cathédrale	NC	NC	n=s|g=f	24	prep	24	prep
+27	Notre-Dame	Notre-Dame	NPP	NPP	n=s|g=f,m	26	mod	26	mod
+28	sur	sur	P	P		21	mod	21	mod
+29	l'	le	DET	DET	n=s	30	det	30	det
+30	emplacement	emplacement	NC	NC	n=s|g=m	28	prep	28	prep
+31	de	de	P	P		21	mod	21	mod
+32	l'	le	DET	DET	n=s	34	det	34	det
+33	antique	antique	ADJ	ADJ	n=s	34	mod	34	mod
+34	église	église	NC	NC	n=s|g=f	31	prep	31	prep
+35	Saint-Étienne	Saint-Étienne	NPP	NPP	n=s|g=m	34	mod	34	mod
+36	(	(	PONCT	PONCT		35	ponct	35	ponct
+37	elle	elle	PRO	PRO	n=s|g=f|p=3	21	mod	21	mod
+38	-	-	PONCT	PONCT		37	ponct	37	ponct
+39	même	même	ADV	ADV		40	mod	40	mod
+40	édifiée	édifier	VPP	VPP	n=s|g=f|t=K	21	mod	21	mod
+41	sur	sur	P	P		40	mod	40	mod
+42	les	les	DET	DET	n=p	43	det	43	det
+43	ruines	ruine	NC	NC	n=p|g=f	41	prep	41	prep
+44	du	de	P+D	P+D	n=s|g=m	43	dep	43	dep
+45	temple	temple	NC	NC	n=s|g=m	44	prep	44	prep
+46	de	de	P	P		40	mod	40	mod
+47	Jupiter	Jupiter	NPP	NPP	n=s|g=m	46	prep	46	prep
+48	)	)	PONCT	PONCT		47	ponct	47	ponct
+49	.	.	PONCT	PONCT		47	ponct	47	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	travaux	travail	NC	NC	n=p|g=m	4	suj	4	suj
+3	se	se	CLR	CLR	n=p,s|p=3	4	aff	4	aff
+4	poursuivront	poursuivre	V	V	n=p|t=F|p=3	0	root	0	root
+5	jusqu'	jusque	P	P		4	mod	4	mod
+6	en	en	P	P		5	dep	5	dep
+7	1350	1350	NC	NC		6	prep	6	prep
+8	.	.	PONCT	PONCT		7	ponct	7	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	palais	palais	NC	NC	g=m	12	suj	12	suj
+3	royal	royal	ADJ	ADJ	n=s|g=m	2	mod	2	mod
+4	(	(	PONCT	PONCT		3	ponct	3	ponct
+5	actuel	actuel	ADJ	ADJ	n=s|g=m	6	mod	6	mod
+6	Palais	palais	NC	NC	g=m	2	mod	2	mod
+7	de	de	P	P		6	dep	6	dep
+8	Justice	justice	NC	NC	n=s|g=f	7	prep	7	prep
+9	de	de	P	P		6	dep	6	dep
+10	Paris	Paris	NPP	NPP	n=s|g=m	9	prep	9	prep
+11	)	)	PONCT	PONCT		10	ponct	10	ponct
+12	occupait	occuper	V	V	n=s|t=I|p=3	0	root	0	root
+13	le	le	DET	DET	n=s|g=m	14	det	14	det
+14	tiers	tiers	NC	NC	g=m	12	obj	12	obj
+15	ouest	ouest	NC	NC	n=s|g=m	14	mod	14	mod
+16	de	de	P	P		12	mod	12	mod
+17	l'	le	DET	DET	n=s	18	det	18	det
+18	île	île	NC	NC	n=s|g=f	16	prep	16	prep
+19	de	de	P	P		12	mod	12	mod
+20	la	la	DET	DET	n=s|g=f	21	det	21	det
+21	Cité	_	NPP	NPP		19	prep	19	prep
+22	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+1	De	de	DET	DET	n=p	3	det	3	det
+2	nombreux	nombreux	ADJ	ADJ	g=m	3	mod	3	mod
+3	ponts	pont	NC	NC	n=p|g=m	4	suj	4	suj
+4	enjambent	enjamber	V	V	n=p|t=P,S|p=3	0	root	0	root
+5	la	la	DET	DET	n=s|g=f	6	det	6	det
+6	Seine	Seine	NPP	NPP	n=s|g=f	4	obj	4	obj
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	comme	comme	P	P		4	mod	4	mod
+9	le	le	DET	DET	n=s|g=m	10	det	10	det
+10	Pont	Pont	NPP	NPP	n=s|g=m	8	prep	8	prep
+11	aux	à	P+D	P+D	n=p	4	mod	4	mod
+12	meuniers	meunier	NC	NC	n=p|g=m	11	prep	11	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	pont	pont	NC	NC	n=s|g=m	4	mod	4	mod
+15	privé	priver	ADJ	ADJ	n=s|g=m|t=K	14	mod	14	mod
+16	garni	garni	NC	NC	n=s|g=m	14	mod	14	mod
+17	de	de	P	P		4	mod	4	mod
+18	moulins	moulin	NC	NC	n=p|g=m	17	prep	17	prep
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	le	le	DET	DET	n=s|g=m	21	det	21	det
+21	Pont	Pont	NPP	NPP	n=s|g=m	4	mod	4	mod
+22	au	à	P+D	P+D	n=s|g=m	21	dep	21	dep
+23	change	change	NC	NC	n=s|g=m	22	prep	22	prep
+24	où	où	PROREL	PROREL		26	suj	26	suj
+25	se	se	CLR	CLR	n=p,s|p=3	26	aff	26	aff
+26	rassemblaient	rassembler	V	V	n=p|t=I|p=3	21	mod_rel	21	mod_rel
+27	les	les	DET	DET	n=p	28	det	28	det
+28	changeurs	changeur	NC	NC	n=p|g=m	26	obj	26	obj
+29	de	de	P	P		28	dep	28	dep
+30	monnaie	monnaie	NC	NC	n=s|g=f	29	prep	29	prep
+31	et	et	CC	CC		28	coord	28	coord
+32	les	les	DET	DET	n=p	33	det	33	det
+33	orfèvres	orfèvre	NC	NC	n=p	31	dep_coord	31	dep_coord
+34	,	,	PONCT	PONCT		33	ponct	33	ponct
+35	le	le	DET	DET	n=s|g=m	36	det	36	det
+36	Grand	Grand	NPP	NPP	n=s|g=m	4	mod	4	mod
+37	pont	pont	NC	NC	n=s|g=m	36	mod	36	mod
+38	,	,	PONCT	PONCT		37	ponct	37	ponct
+39	couvert	couvrir	VPP	VPP	n=s|g=m|t=K	37	mod	37	mod
+40	de	de	P	P		39	mod	39	mod
+41	maisons	maison	NC	NC	n=p|g=f	40	prep	40	prep
+42	,	,	PONCT	PONCT		41	ponct	41	ponct
+43	le	le	DET	DET	n=s|g=m	45	det	45	det
+44	Petit	petit	ADJ	ADJ	n=s|g=m	45	mod	45	mod
+45	pont	pont	NC	NC	n=s|g=m	39	mod	39	mod
+46	,	,	PONCT	PONCT		45	ponct	45	ponct
+47	que	que	PROREL	PROREL		51	mod	51	mod
+48	l'	le	DET	DET	n=s	49	det	49	det
+49	on	on	CLS	CLS	n=s|p=3	51	suj	51	suj
+50	ne	ne	ADV	ADV		51	mod	51	mod
+51	pouvait	pouvoir	V	V	n=s|t=I|p=3	45	mod_rel	45	mod_rel
+52	franchir	franchir	VINF	VINF	t=W	51	obj	51	obj
+53	qu'	que	CS	CS		52	obj	52	obj
+54	après	après	P	P		0	_	0	_
+55	avoir	avoir	VINF	VINF	t=W	56	aux_tps	56	aux_tps
+56	acquitté	acquitter	VPP	VPP	n=s|g=m|t=K	54	prep	54	prep
+57	un	un	DET	DET	n=s|g=m	58	det	58	det
+58	péage	péage	NC	NC	n=s|g=m	56	obj	56	obj
+59	,	,	PONCT	PONCT		58	ponct	58	ponct
+60	sauf	sauf	P	P		56	mod	56	mod
+61	les	les	DET	DET	n=p	62	det	62	det
+62	montreurs	montreur	NC	NC	n=p|g=m	60	prep	60	prep
+63	d'	de	P	P		62	dep	62	dep
+64	animaux	animal	NC	NC	n=p|g=m	63	prep	63	prep
+65	savants	savant	ADJ	ADJ	n=p|g=m	64	mod	64	mod
+66	qui	qui	PROREL	PROREL	n=s	67	suj	67	suj
+67	payaient	payer	V	V	n=p|t=I|p=3	62	mod_rel	62	mod_rel
+68	par	par	P	P		67	mod	67	mod
+69	les	les	DET	DET	n=p	70	det	70	det
+70	spectacles	spectacle	NC	NC	n=p|g=m	68	prep	68	prep
+71	qu'	que	PROREL	PROREL		73	obj	73	obj
+72	ils	ils	CLS	CLS	n=p|g=m|p=3	73	suj	73	suj
+73	produisaient	produire	V	V	n=p|t=I|p=3	70	mod_rel	70	mod_rel
+74	(	(	PONCT	PONCT		73	ponct	73	ponct
+75	d'	de	P	P		73	mod	73	mod
+76	où	où	PROREL	PROREL		75	prep	75	prep
+77	l'	le	DET	DET	n=s	78	det	78	det
+78	expression	expression	NC	NC	n=s|g=f	75	ponct	75	ponct
+79	«_	"	PONCT	PONCT		78	ponct	78	ponct
+80	payer	payer	VINF	VINF	t=W	73	obj	73	obj
+81	en	en	P	P		80	mod	80	mod
+82	monnaie	monnaie	NC	NC	n=s|g=f	81	prep	81	prep
+83	de	de	P	P		80	mod	80	mod
+84	singe	singe	NC	NC	n=s|g=m	83	prep	83	prep
+85	_»	"	PONCT	PONCT		84	ponct	84	ponct
+86	)	)	PONCT	PONCT		84	ponct	84	ponct
+87	.	.	PONCT	PONCT		84	ponct	84	ponct
+
+1	Les	les	DET	DET	n=p	3	det	3	det
+2	principales	principal	ADJ	ADJ	n=p|g=f	3	mod	3	mod
+3	rues	rue	NC	NC	n=p|g=f	5	suj	5	suj
+4	sont	être	V	V	n=p|t=P|p=3	5	aux_pass	5	aux_pass
+5	pavées	paver	VPP	VPP	n=p|g=f|t=K	0	root	0	root
+6	.	.	PONCT	PONCT		5	ponct	5	ponct
+
+1	Sur	sur	P	P		9	mod	9	mod
+2	la	la	DET	DET	n=s|g=f	3	det	3	det
+3	rive	rive	NC	NC	n=s|g=f	1	prep	1	prep
+4	gauche	gauche	NC	NC	n=s	3	mod	3	mod
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	l'	le	DET	DET	n=s	7	det	7	det
+7	Université	université	NC	NC	n=s|g=f	9	suj	9	suj
+8	s'	se	CLR	CLR	n=p,s|p=3	9	aff	9	aff
+9	installe	installer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+10	sur	sur	P	P		9	mod	9	mod
+11	les	les	DET	DET	n=p	12	det	12	det
+12	pentes	pente	NC	NC	n=p|g=f	10	prep	10	prep
+13	de	de	P	P		9	mod	9	mod
+14	la	la	DET	DET	n=s|g=f	15	det	15	det
+15	Montagne	Montagne	NPP	NPP	n=s|g=m	13	prep	13	prep
+16	Sainte-Geneviève	Sainte-Geneviève	NPP	NPP	n=s|g=m	15	mod	15	mod
+17	à	à	P	P		9	mod	9	mod
+18	partir	partir	VINF	VINF	t=W	17	prep	17	prep
+19	de	de	P	P		18	mod	18	mod
+20	1215	1215	NC	NC		19	prep	19	prep
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	c'	ce	CLS	CLS		23	suj	23	suj
+23	est	être	V	V	n=s|t=P|p=3	9	mod	9	mod
+24	la	la	DET	DET	n=s|g=f	25	det	25	det
+25	naissance	naissance	NC	NC	n=s|g=f	23	obj	23	obj
+26	du	de	P+D	P+D	n=s|g=m	25	dep	25	dep
+27	"	"	PONCT	PONCT		26	ponct	26	ponct
+28	Quartier	quartier	NC	NC	n=s|g=m	26	prep	26	prep
+29	latin	latin	ADJ	ADJ	n=s|g=m	28	mod	28	mod
+30	"	"	PONCT	PONCT		29	ponct	29	ponct
+31	.	.	PONCT	PONCT		29	ponct	29	ponct
+
+1	Au	à	P+D	P+D	n=s|g=m	11	mod	11	mod
+2	XIIIe	_	ADJ	ADJ		3	mod	3	mod
+3	siècle	siècle	NC	NC	n=s|g=m	1	prep	1	prep
+4	Paris	Paris	NPP	NPP	n=s|g=m	3	mod	3	mod
+5	qui	qui	PROREL	PROREL	n=s	6	suj	6	suj
+6	compte	compter	V	V	n=s|t=P,S|p=1,3	3	mod_rel	3	mod_rel
+7	près	près	ADV	ADV		6	mod	6	mod
+8	de	de	P	P		6	mod	6	mod
+9	100_000	100_000	ADJ	ADJ		10	mod	10	mod
+10	habitants	habitant	NC	NC	n=p|g=m	8	prep	8	prep
+11	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+12	la	la	DET	DET	n=s|g=f	15	det	15	det
+13	plus	plus	ADV	ADV		14	mod	14	mod
+14	grande	grand	ADJ	ADJ	n=s|g=f	15	mod	15	mod
+15	ville	ville	NC	NC	n=s|g=f	11	obj	11	obj
+16	de	de	P	P		11	mod	11	mod
+17	l'	le	DET	DET	n=s	18	det	18	det
+18	Occident	occident	NC	NC	n=s|g=m	16	prep	16	prep
+19	chrétien	chrétien	ADJ	ADJ	n=s|g=m	18	mod	18	mod
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+1	Pendant	pendant	P	P		17	mod	17	mod
+2	la	la	DET	DET	n=s|g=f	3	det	3	det
+3	Guerre	_	NPP	NPP		1	prep	1	prep
+4	de	de	P	P		17	mod	17	mod
+5	Cent	cent	NPP	NPP		4	prep	4	prep
+6	Ans	_	NPP	NPP		5	mod	5	mod
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	à	à	P	P		17	mod	17	mod
+9	partir	partir	VINF	VINF	t=W	8	prep	8	prep
+10	de	de	P	P		9	mod	9	mod
+11	1356	1356	NC	NC		10	prep	10	prep
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	le	le	DET	DET	n=s|g=m	14	det	14	det
+14	roi	roi	NC	NC	n=s|g=m	9	obj	9	obj
+15	Charles	Charles	NPP	NPP	n=s|g=m	14	mod	14	mod
+16	V	_	NPP	NPP		14	mod	14	mod
+17	fait	faire	V	V	n=s|t=P|p=3	0	root	0	root
+18	construire	construire	VINF	VINF	t=W	17	obj	17	obj
+19	une	une	DET	DET	n=s|g=f	21	det	21	det
+20	nouvelle	nouveau	ADJ	ADJ	n=s|g=f	21	mod	21	mod
+21	enceinte	enceinte	NC	NC	n=s|g=f	18	obj	18	obj
+22	sur	sur	P	P		18	mod	18	mod
+23	la	la	DET	DET	n=s|g=f	24	det	24	det
+24	rive	rive	NC	NC	n=s|g=f	22	prep	22	prep
+25	droite	droit	ADJ	ADJ	n=s|g=f	24	mod	24	mod
+26	.	.	PONCT	PONCT		25	ponct	25	ponct
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	3	suj	3	suj
+2	est	être	V	V	n=s|t=P|p=3	3	aux_pass	3	aux_pass
+3	précédée	précéder	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+4	d'	de	P	P		3	mod	3	mod
+5	un	un	DET	DET	n=s|g=m	7	det	7	det
+6	double	double	ADJ	ADJ	n=s	7	mod	7	mod
+7	fossé	fossé	NC	NC	n=s|g=m	4	prep	4	prep
+8	rempli	remplir	VPP	VPP	n=s|g=m|t=K	7	mod	7	mod
+9	d'	de	P	P		8	mod	8	mod
+10	eau	eau	NC	NC	n=s|g=f	9	prep	9	prep
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+1	À	à	P	P		6	mod	6	mod
+2	l'	le	DET	DET	n=s	3	det	3	det
+3	est	est	NC	NC	n=s|g=m	1	prep	1	prep
+4	elle	elle	CLS	CLS	n=s|g=f|p=3	6	suj	6	suj
+5	s'	se	CLR	CLR	n=p,s|p=3	6	aff	6	aff
+6	appuie	appuyer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+7	sur	sur	P	P		6	mod	6	mod
+8	la	la	DET	DET	n=s|g=f	10	det	10	det
+9	nouvelle	nouveau	ADJ	ADJ	n=s|g=f	10	mod	10	mod
+10	forteresse	forteresse	NC	NC	n=s|g=f	7	prep	7	prep
+11	de	de	P	P		6	mod	6	mod
+12	la	la	DET	DET	n=s|g=f	13	det	13	det
+13	Bastille	_	NPP	NPP		11	prep	11	prep
+14	édifiée	édifier	VPP	VPP	n=s|g=f|t=K	13	mod	13	mod
+15	à	à	P	P		6	mod	6	mod
+16	partir	partir	VINF	VINF	t=W	15	prep	15	prep
+17	de	de	P	P		16	mod	16	mod
+18	1370	1370	NC	NC		17	prep	17	prep
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	pouvoir	pouvoir	NC	NC	n=s|g=m	17	suj	17	suj
+3	municipal	municipal	ADJ	ADJ	n=s|g=m	2	mod	2	mod
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	avec	avec	P	P		17	mod	17	mod
+6	à	à	P	P		17	mod	17	mod
+7	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	8	det	8	det
+8	tête	tête	NC	NC	n=s|g=f	6	prep	6	prep
+9	le	le	DET	DET	n=s|g=m	10	det	10	det
+10	prévôt	prévôt	NC	NC	n=s|g=m	8	mod	8	mod
+11	des	de	P+D	P+D	n=p	10	dep	10	dep
+12	marchands	marchand	NC	NC	n=p|g=m	11	prep	11	prep
+13	Étienne	_	VS	VS		17	mod	17	mod
+14	Marcel	Marcel	NPP	NPP	n=s|g=m	17	suj	17	suj
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	se	se	CLR	CLR	n=p,s|p=3	17	aff	17	aff
+17	mêle	mêler	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+18	de	de	P	P		17	mod	17	mod
+19	la	la	DET	DET	n=s|g=f	20	det	20	det
+20	politique	politique	NC	NC	n=s|g=f	18	prep	18	prep
+21	nationale	national	ADJ	ADJ	n=s|g=f	20	mod	20	mod
+22	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+1	En	en	P	P		6	mod	6	mod
+2	1357	1357	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	il	il	CLS	CLS	n=s|g=m|p=3	6	suj	6	suj
+5	se	se	CLR	CLR	n=p,s|p=3	6	aff	6	aff
+6	soulève	soulever	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+7	contre	contre	P	P		6	mod	6	mod
+8	le	le	DET	DET	n=s|g=m	9	det	9	det
+9	gouvernement	gouvernement	NC	NC	n=s|g=m	7	prep	7	prep
+10	royal	royal	ADJ	ADJ	n=s|g=m	9	mod	9	mod
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+1	C'	ce	CLS	CLS		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	le	le	DET	DET	n=s|g=m	4	det	4	det
+4	début	début	NC	NC	n=s|g=m	2	obj	2	obj
+5	d'	de	P	P		2	mod	2	mod
+6	une	une	DET	DET	n=s|g=f	8	det	8	det
+7	longue	long	ADJ	ADJ	n=s|g=f	8	mod	8	mod
+8	tradition	tradition	NC	NC	n=s|g=f	5	prep	5	prep
+9	révolutionnaire	révolutionnaire	ADJ	ADJ	n=s	8	mod	8	mod
+10	de	de	P	P		2	mod	2	mod
+11	la	la	DET	DET	n=s|g=f	12	det	12	det
+12	vie	vie	NC	NC	n=s|g=f	10	prep	10	prep
+13	parisienne	parisien	ADJ	ADJ	n=s|g=f	12	mod	12	mod
+14	et	et	CC	CC		13	coord	13	coord
+15	française	français	ADJ	ADJ	n=s|g=f	14	dep_coord	14	dep_coord
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	faction	faction	NC	NC	n=s|g=f	0	_	0	_
+3	politique	politique	ADJ	ADJ	n=s	2	mod	2	mod
+4	des	de	P+D	P+D	n=p	2	dep	2	dep
+5	Bourguignons	Bourguignons	NPP	NPP	n=s|g=m	4	prep	4	prep
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	opposée	opposer	VPP	VPP	n=s|g=f|t=K	2	mod	2	mod
+8	au	à	P+D	P+D	n=s|g=m	7	mod	7	mod
+9	dauphin	dauphin	NC	NC	n=s|g=m	8	prep	8	prep
+10	Charles	Charles	NPP	NPP	n=s|g=m	9	mod	9	mod
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	livre	livre	NC	NC	n=s	9	mod	9	mod
+13	Paris	Paris	NPP	NPP	n=s|g=m	12	mod	12	mod
+14	aux	à	P+D	P+D	n=p	7	mod	7	mod
+15	Anglais	anglais	NC	NC	g=m	14	prep	14	prep
+16	en	en	P	P		7	mod	7	mod
+17	1420	1420	NC	NC		16	prep	16	prep
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	Paris	_	NPP	NPP		3	suj	3	suj
+2	est	être	V	V	n=s|t=P|p=3	3	aux_tps	3	aux_tps
+3	assiégée	assiéger	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+4	sans	sans	P	P		3	mod	3	mod
+5	succès	succès	NC	NC	g=m	4	prep	4	prep
+6	en	en	P	P		3	mod	3	mod
+7	1429	1429	NC	NC		6	prep	6	prep
+8	par	par	P	P		3	mod	3	mod
+9	l'	le	DET	DET	n=s	10	det	10	det
+10	armée	armée	NC	NC	n=s|g=f	8	prep	8	prep
+11	royale	royal	ADJ	ADJ	n=s|g=f	10	mod	10	mod
+12	avec	avec	P	P		3	mod	3	mod
+13	Jeanne	Jeanne	NPP	NPP	n=s|g=f	12	prep	12	prep
+14	d'	de	P	P		3	mod	3	mod
+15	Arc	_	NPP	NPP		14	prep	14	prep
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+1	Ce	ce	CLS	CLS		3	suj	3	suj
+2	n'	ne	ADV	ADV		3	mod	3	mod
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	qu'	que	CS	CS		3	obj	3	obj
+5	après	après	P	P		0	_	0	_
+6	la	la	DET	DET	n=s|g=f	7	det	7	det
+7	réconciliation	réconciliation	NC	NC	n=s|g=f	5	prep	5	prep
+8	des	de	P+D	P+D	n=p	7	dep	7	dep
+9	"	"	PONCT	PONCT		8	ponct	8	ponct
+10	Bourguignons	bourguignon	ADJ	ADJ	n=p|g=m	8	prep	8	prep
+11	"	"	PONCT	PONCT		10	ponct	10	ponct
+12	et	et	CC	CC		8	coord	8	coord
+13	du	de	P+D	P+D	n=s|g=m	12	dep_coord	12	dep_coord
+14	roi	roi	NC	NC	n=s|g=m	13	prep	13	prep
+15	que	que	CS	CS		0	_	0	_
+16	la	la	DET	DET	n=s|g=f	17	det	17	det
+17	ville	ville	NC	NC	n=s|g=f	19	suj	19	suj
+18	est	être	V	V	n=s|t=P|p=3	19	aux_pass	19	aux_pass
+19	reprise	reprendre	VPP	VPP	n=s|g=f|t=K	15	sub	15	sub
+20	en	en	P	P		19	mod	19	mod
+21	1435	1435	NC	NC		20	prep	20	prep
+22	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+1	À	à	P	P		12	mod	12	mod
+2	la	la	DET	DET	n=s|g=f	3	det	3	det
+3	fin	fin	NC	NC	n=s	1	prep	1	prep
+4	de	de	P	P		3	dep	3	dep
+5	la	la	DET	DET	n=s|g=f	6	det	6	det
+6	guerre	guerre	NC	NC	n=s|g=f	4	prep	4	prep
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	en	en	P	P		12	mod	12	mod
+9	1453	1453	NC	NC		8	prep	8	prep
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	Paris	Paris	NPP	NPP	n=s|g=m	12	suj	12	suj
+12	renaît	renaître	V	V	n=s|t=P|p=3	0	root	0	root
+13	très	très	ADV	ADV		14	mod	14	mod
+14	lentement	_	ADV	ADV		12	mod	12	mod
+15	mais	mais	CC	CC		12	coord	12	coord
+16	la	la	DET	DET	n=s|g=f	17	det	17	det
+17	ville	ville	NC	NC	n=s|g=f	19	suj	19	suj
+18	n'	ne	ADV	ADV		19	mod	19	mod
+19	est	être	V	V	n=s|t=P|p=3	15	dep_coord	15	dep_coord
+20	plus	plus	ADV	ADV		19	mod	19	mod
+21	le	le	DET	DET	n=s|g=m	22	det	22	det
+22	lieu	lieu	NC	NC	n=s|g=m	19	obj	19	obj
+23	de	de	P	P		22	dep	22	dep
+24	séjour	séjour	NC	NC	n=s|g=m	23	prep	23	prep
+25	des	de	P+D	P+D	n=p	22	dep	22	dep
+26	rois	roi	NC	NC	n=p|g=m	25	prep	25	prep
+27	.	.	PONCT	PONCT		26	ponct	26	ponct
+
+1	François	François	NPP	NPP	n=s|g=m	3	suj	3	suj
+2	Ier	_	NPP	NPP		1	mod	1	mod
+3	accède	accéder	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	au	à	P+D	P+D	n=s|g=m	3	mod	3	mod
+5	trône	trône	NC	NC	n=s|g=m	4	prep	4	prep
+6	en	en	P	P		3	mod	3	mod
+7	1515	1515	NC	NC		6	prep	6	prep
+8	et	et	CC	CC		3	coord	3	coord
+9	il	il	CLS	CLS	n=s|g=m|p=3	10	suj	10	suj
+10	décide	décider	V	V	n=s|t=P,S|p=1,3	8	dep_coord	8	dep_coord
+11	d'	de	P	P		10	obj	10	obj
+12	installer	installer	VINF	VINF	t=W	11	prep	11	prep
+13	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	14	det	14	det
+14	résidence	résidence	NC	NC	n=s|g=f	12	obj	12	obj
+15	à	à	P	P		12	mod	12	mod
+16	Paris	Paris	NPP	NPP	n=s|g=m	15	prep	15	prep
+17	en	en	P	P		12	mod	12	mod
+18	1528	1528	NC	NC		17	prep	17	prep
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	fait	faire	V	V	n=s|t=P|p=3	0	root	0	root
+3	alors	alors	ADV	ADV		2	mod	2	mod
+4	reconstruire	reconstruire	VINF	VINF	t=W	2	obj	2	obj
+5	le	le	DET	DET	n=s|g=m	6	det	6	det
+6	Louvre	_	NPP	NPP		4	obj	4	obj
+7	et	et	CC	CC		4	coord	4	coord
+8	entame	entame	NC	NC	n=s|g=f	7	dep_coord	7	dep_coord
+9	de	de	P	P		4	mod	4	mod
+10	gros	gros	ADJ	ADJ	g=m	11	mod	11	mod
+11	travaux	travail	NC	NC	n=p|g=m	9	prep	9	prep
+12	dans	dans	P	P		4	mod	4	mod
+13	la	la	DET	DET	n=s|g=f	14	det	14	det
+14	ville	ville	NC	NC	n=s|g=f	12	prep	12	prep
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	rayonnement	rayonnement	NC	NC	n=s|g=m	7	suj	7	suj
+3	intellectuel	intellectuel	ADJ	ADJ	n=s|g=m	2	mod	2	mod
+4	de	de	P	P		2	dep	2	dep
+5	la	la	DET	DET	n=s|g=f	6	det	6	det
+6	ville	ville	NC	NC	n=s|g=f	4	prep	4	prep
+7	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+8	important	important	ADJ	ADJ	n=s|g=m	7	ats	7	ats
+9	et	et	CC	CC		7	coord	7	coord
+10	à	à	P	P		9	dep_coord	9	dep_coord
+11	la	la	DET	DET	n=s|g=f	12	det	12	det
+12	mort	mort	NC	NC	n=s|g=f,m	10	prep	10	prep
+13	du	de	P+D	P+D	n=s|g=m	12	dep	12	dep
+14	roi	roi	NC	NC	n=s|g=m	13	prep	13	prep
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	on	on	CLS	CLS	n=s|p=3	0	_	0	_
+17	compte	compter	V	V	n=s|t=P,S|p=1,3	16	aux_caus	16	aux_caus
+18	280_000	280_000	ADJ	ADJ		19	mod	19	mod
+19	habitants	habitant	NC	NC	n=p|g=m	17	obj	17	obj
+20	à	à	P	P		19	dep	19	dep
+21	Paris	Paris	NPP	NPP	n=s|g=m	20	prep	20	prep
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+23	ce	ce	PRO	PRO	n=s	17	mod	17	mod
+24	qui	qui	PROREL	PROREL	n=s	26	suj	26	suj
+25	en	en	CLO	CLO		26	obj	26	obj
+26	fait	faire	V	V	n=s|t=P|p=3	23	mod_rel	23	mod_rel
+27	la	la	DET	DET	n=s|g=f	30	det	30	det
+28	plus	plus	ADV	ADV		29	mod	29	mod
+29	grande	grand	ADJ	ADJ	n=s|g=f	30	mod	30	mod
+30	ville	ville	NC	NC	n=s|g=f	26	obj	26	obj
+31	de	de	P	P		26	mod	26	mod
+32	l'	le	DET	DET	n=s	33	det	33	det
+33	Europe	Europe	NPP	NPP	n=s|g=f	31	prep	31	prep
+34	de	de	P	P		26	mod	26	mod
+35	l'	le	DET	DET	n=s	36	det	36	det
+36	Ouest	_	NPP	NPP		34	prep	34	prep
+37	.	.	PONCT	PONCT		36	ponct	36	ponct
+
+1	C'	ce	CLS	CLS		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	au	à	P+D	P+D	n=s|g=m	2	mod	2	mod
+4	palais	palais	NC	NC	g=m	3	prep	3	prep
+5	des	de	P+D	P+D	n=p	2	mod	2	mod
+6	Tuileries	tuilerie	NC	NC	n=p|g=f	5	prep	5	prep
+7	que	que	PROREL	PROREL		8	obj	8	obj
+8	meurt	mourir	V	V	n=s|t=P|p=3	2	mod	2	mod
+9	Henri	Henri	NPP	NPP	n=s|g=m	8	suj	8	suj
+10	II	_	NPP	NPP		9	mod	9	mod
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	blessé	blesser	VPP	VPP	n=s|g=m|t=K	9	mod	9	mod
+13	lors	lors	ADV	ADV		12	mod	12	mod
+14	d'	de	P	P		12	mod	12	mod
+15	un	un	DET	DET	n=s|g=m	16	det	16	det
+16	tournoi	tournoi	NC	NC	n=s|g=m	14	prep	14	prep
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	guerres	guerre	NC	NC	n=p|g=f	5	suj	5	suj
+3	de	de	P	P		2	dep	2	dep
+4	religion	religion	NC	NC	n=s|g=f	3	prep	3	prep
+5	affectent	affecter	V	V	n=p|t=P,S|p=3	0	root	0	root
+6	durement	_	NC	NC		5	obj	5	obj
+7	Paris	Paris	NPP	NPP	n=s|g=m	6	mod	6	mod
+8	.	.	PONCT	PONCT		7	ponct	7	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	nuit	nuit	NC	NC	n=s|g=f	19	mod	19	mod
+3	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+4	24	24	ADJ	ADJ		5	mod	5	mod
+5	août	août	NC	NC	n=s|g=m	3	prep	3	prep
+6	1574	1574	ADJ	ADJ		5	mod	5	mod
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	le	le	DET	DET	n=s|g=m	9	det	9	det
+9	massacre	massacre	NC	NC	n=s|g=m	19	suj	19	suj
+10	des	de	P+D	P+D	n=p	9	dep	9	dep
+11	protestants	protestant	NC	NC	n=p|g=m	10	prep	10	prep
+12	par	par	P	P		9	dep	9	dep
+13	les	les	DET	DET	n=p	14	det	14	det
+14	catholiques	catholique	ADJ	ADJ	n=p	12	prep	12	prep
+15	a	avoir	V	V	n=s|t=P|p=3	19	mod	19	mod
+16	lieu	lieu	NC	NC	n=s|g=m	15	obj	15	obj
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	c'	ce	CLS	CLS		19	suj	19	suj
+19	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+20	le	le	DET	DET	n=s|g=m	21	det	21	det
+21	Massacre	_	NPP	NPP		19	obj	19	obj
+22	de	de	P	P		19	mod	19	mod
+23	la	la	DET	DET	n=s|g=f	24	det	24	det
+24	Saint-Barthélemy	_	NPP	NPP		22	prep	22	prep
+25	.	.	PONCT	PONCT		24	ponct	24	ponct
+
+1	À	à	P	P		9	mod	9	mod
+2	la	la	DET	DET	n=s|g=f	3	det	3	det
+3	fin	fin	NC	NC	n=s	1	prep	1	prep
+4	de	de	P	P		3	dep	3	dep
+5	ces	ces	DET	DET	n=p	6	det	6	det
+6	guerres	guerre	NC	NC	n=p|g=f	4	prep	4	prep
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	Paris	Paris	NPP	NPP	n=s|g=m	9	suj	9	suj
+9	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+10	une	une	DET	DET	n=s|g=f	11	det	11	det
+11	ville	ville	NC	NC	n=s|g=f	9	obj	9	obj
+12	meurtrie	meurtrir	VPP	VPP	n=s|g=f|t=K	11	mod	11	mod
+13	.	.	PONCT	PONCT		12	ponct	12	ponct
+
+1	Lorsque	lorsque	CS	CS		7	mod	7	mod
+2	la	la	DET	DET	n=s|g=f	3	det	3	det
+3	paix	paix	NC	NC	g=f	4	suj	4	suj
+4	revient	revenir	V	V	n=s|t=P|p=3	1	sub	1	sub
+5	Henri	Henri	NPP	NPP	n=s|g=m	7	suj	7	suj
+6	IV	_	NPP	NPP		5	mod	5	mod
+7	dira	dire	V	V	n=s|t=F|p=3	0	root	0	root
+8	:	:	PONCT	PONCT		7	ponct	7	ponct
+9	"	"	PONCT	PONCT		7	ponct	7	ponct
+10	Paris	_	NPP	NPP		11	suj	11	suj
+11	vaut	valoir	V	V	n=s|t=P|p=3	7	mod	7	mod
+12	bien	bien	ADV	ADV		11	mod	11	mod
+13	une	une	DET	DET	n=s|g=f	14	det	14	det
+14	messe	messe	NC	NC	n=s|g=f	11	obj	11	obj
+15	"	"	PONCT	PONCT		14	ponct	14	ponct
+16	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	roi	roi	NC	NC	n=s|g=m	3	suj	3	suj
+3	modernise	moderniser	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	alors	alors	ADV	ADV		3	mod	3	mod
+5	Paris	Paris	NPP	NPP	n=s|g=m	3	obj	3	obj
+6	afin	_	NPP	NPP		5	mod	5	mod
+7	de	de	P	P		3	mod	3	mod
+8	résorber	résorber	VINF	VINF	t=W	7	prep	7	prep
+9	la	la	DET	DET	n=s|g=f	10	det	10	det
+10	misère	misère	NC	NC	n=s|g=f	8	obj	8	obj
+11	et	et	CC	CC		10	coord	10	coord
+12	la	la	DET	DET	n=s|g=f	13	det	13	det
+13	pauvreté	pauvreté	NC	NC	n=s|g=f	11	dep_coord	11	dep_coord
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+1	Des	des	DET	DET	n=p	2	det	2	det
+2	chantiers	chantier	NC	NC	n=p|g=m	4	suj	4	suj
+3	s'	se	CLR	CLR	n=p,s|p=3	4	aff	4	aff
+4	enchaînent	enchaîner	V	V	n=p|t=P,S|p=3	0	root	0	root
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	le	le	DET	DET	n=s|g=m	7	det	7	det
+7	roi	roi	NC	NC	n=s|g=m	8	suj	8	suj
+8	fait	faire	V	V	n=s|t=P|p=3	4	mod	4	mod
+9	agrandir	agrandir	VINF	VINF	t=W	8	obj	8	obj
+10	le	le	DET	DET	n=s|g=m	11	det	11	det
+11	Louvre	_	NPP	NPP		9	obj	9	obj
+12	et	et	CC	CC		9	coord	9	coord
+13	le	le	DET	DET	n=s|g=m	14	det	14	det
+14	chantier	chantier	NC	NC	n=s|g=m	12	dep_coord	12	dep_coord
+15	du	de	P+D	P+D	n=s|g=m	9	mod	9	mod
+16	Pont	Pont	NPP	NPP	n=s|g=m	15	prep	15	prep
+17	Neuf	neuf	NPP	NPP		16	mod	16	mod
+18	se	se	CLR	CLR	n=p,s|p=3	19	aff	19	aff
+19	termine	terminer	V	V	n=s|t=P,S|p=1,3	8	mod	8	mod
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+1	Durant	durant	P	P		16	mod	16	mod
+2	le	le	DET	DET	n=s|g=m	3	det	3	det
+3	règne	règne	NC	NC	n=s|g=m	1	prep	1	prep
+4	de	de	P	P		3	dep	3	dep
+5	son	son	DET	DET	n=s|g=m|p=3|poss=s	6	det	6	det
+6	fils	fils	NC	NC	g=m	4	prep	4	prep
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	le	le	DET	DET	n=s|g=m	9	det	9	det
+9	roi	roi	NC	NC	n=s|g=m	16	suj	16	suj
+10	Louis	Louis	NPP	NPP	n=s|g=m	9	mod	9	mod
+11	XIII	_	NPP	NPP		9	mod	9	mod
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	cette	cette	DET	DET	n=s|g=f	14	det	14	det
+14	modernisation	modernisation	NC	NC	n=s|g=f	9	mod	9	mod
+15	se	se	CLR	CLR	n=p,s|p=3	16	aff	16	aff
+16	poursuit	poursuivre	V	V	n=s|t=P|p=3	0	root	0	root
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+1	En	en	P	P		0	_	0	_
+2	1648	1648	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	les	les	DET	DET	n=p	5	det	5	det
+5	nobles	noble	NC	NC	n=p	0	_	0	_
+6	s'	se	CLR	CLR	n=p,s|p=3	0	_	0	_
+7	insurgent	insurgent	NC	NC	n=s|g=m	15	mod	15	mod
+8	contre	contre	P	P		7	dep	7	dep
+9	l'	le	DET	DET	n=s	10	det	10	det
+10	autorité	autorité	NC	NC	n=s|g=f	8	prep	8	prep
+11	du	de	P+D	P+D	n=s|g=m	10	dep	10	dep
+12	roi	roi	NC	NC	n=s|g=m	11	prep	11	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	c'	ce	CLS	CLS		15	suj	15	suj
+15	est	être	V	V	n=s|t=P|p=3	0	_	0	_
+16	la	la	DET	DET	n=s|g=f	17	det	17	det
+17	Fronde	_	NPP	NPP		15	obj	15	obj
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	Louis	_	NPP	NPP		8	suj	8	suj
+2	XIV	_	NPP	NPP		1	mod	1	mod
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	alors	alors	ADV	ADV		5	mod	5	mod
+5	jeune	jeune	ADJ	ADJ	n=s	6	mod	6	mod
+6	roi	roi	NC	NC	n=s|g=m	1	mod	1	mod
+7	est	être	V	V	n=s|t=P|p=3	8	aux_tps	8	aux_tps
+8	choqué	choquer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+9	par	par	P	P		8	mod	8	mod
+10	cette	cette	DET	DET	n=s|g=f	11	det	11	det
+11	révolte	révolte	NC	NC	n=s|g=f	9	prep	9	prep
+12	et	et	CC	CC		8	coord	8	coord
+13	s'	se	CLR	CLR	n=p,s|p=3	14	aff	14	aff
+14	éloigne	éloigner	V	V	n=s|t=P,S|p=1,3	12	dep_coord	12	dep_coord
+15	de	de	P	P		14	mod	14	mod
+16	Paris	Paris	NPP	NPP	n=s|g=m	15	prep	15	prep
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	3	suj	3	suj
+2	s'	se	CLR	CLR	n=p,s|p=3	3	aff	3	aff
+3	installe	installer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	à	à	P	P		3	mod	3	mod
+5	Versailles	Versailles	NPP	NPP	n=s|g=m	4	prep	4	prep
+6	.	.	PONCT	PONCT		5	ponct	5	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	détestera	détester	V	V	n=s|t=F|p=3	0	root	0	root
+3	Paris	Paris	NPP	NPP	n=s|g=m	2	obj	2	obj
+4	au	à	P+D	P+D	n=s|g=m	2	mod	2	mod
+5	cours	cour	NC	NC	n=p|g=f	4	prep	4	prep
+6	de	de	P	P		2	mod	2	mod
+7	son	son	DET	DET	n=s|g=m|p=3|poss=s	8	det	8	det
+8	règne	règne	NC	NC	n=s|g=m	6	prep	6	prep
+9	en	en	P	P		2	mod	2	mod
+10	ne	ne	ADV	ADV		13	mod	13	mod
+11	s'	se	CLR	CLR	n=p,s|p=3	13	aff	13	aff
+12	y	y	CLO	CLO		13	aff	13	aff
+13	rendant	rendre	VPR	VPR	t=G	9	prep	9	prep
+14	que	que	CS	CS		2	mod	2	mod
+15	24	24	ADJ	ADJ		16	mod	16	mod
+16	fois	fois	NC	NC	g=f	14	sub	14	sub
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+1	Néanmoins	néanmoins	ADV	ADV		4	mod	4	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	il	il	CLS	CLS	n=s|g=m|p=3	4	suj	4	suj
+4	fait	faire	V	V	n=s|t=P|p=3	0	root	0	root
+5	abattre	abattre	VINF	VINF	t=W	4	obj	4	obj
+6	les	les	DET	DET	n=p	7	det	7	det
+7	fortifications	fortification	NC	NC	n=p|g=f	5	obj	5	obj
+8	et	et	CC	CC		4	coord	4	coord
+9	la	la	DET	DET	n=s|g=f	10	det	10	det
+10	ville	ville	NC	NC	n=s|g=f	12	suj	12	suj
+11	se	se	CLR	CLR	n=p,s|p=3	12	aff	12	aff
+12	dote	doter	V	V	n=s|t=P,S|p=1,3	8	dep_coord	8	dep_coord
+13	à	à	P	P		12	mod	12	mod
+14	la	la	DET	DET	n=s|g=f	15	det	15	det
+15	place	place	NC	NC	n=s|g=f	13	prep	13	prep
+16	de	de	P	P		15	dep	15	dep
+17	promenades	promenade	NC	NC	n=p|g=f	16	prep	16	prep
+18	plantées	planter	VPP	VPP	n=p|g=f|t=K	17	mod	17	mod
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	ce	ce	CLS	CLS		21	suj	21	suj
+21	sont	être	V	V	n=p|t=P|p=3	4	mod	4	mod
+22	les	les	DET	DET	n=p	24	det	24	det
+23	Grands	grand	ADJ	ADJ	n=p|g=m	24	mod	24	mod
+24	Boulevards	_	NPP	NPP		21	obj	21	obj
+25	.	.	PONCT	PONCT		24	ponct	24	ponct
+
+1	Durant	durant	P	P		8	mod	8	mod
+2	le	le	DET	DET	n=s|g=m	4	det	4	det
+3	XVIIIe	_	ADJ	ADJ		4	mod	4	mod
+4	siècle	siècle	NC	NC	n=s|g=m	1	prep	1	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	les	les	DET	DET	n=p	7	det	7	det
+7	salons	salon	NC	NC	n=p|g=m	8	suj	8	suj
+8	répandent	répandre	V	V	n=p|t=P,S|p=3	0	root	0	root
+9	les	les	DET	DET	n=p	10	det	10	det
+10	idées	idée	NC	NC	n=p|g=f	8	obj	8	obj
+11	des	de	P+D	P+D	n=p	10	dep	10	dep
+12	Lumières	lumière	NC	NC	n=p|g=f	11	prep	11	prep
+13	.	.	PONCT	PONCT		12	ponct	12	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	roi	roi	NC	NC	n=s|g=m	5	suj	5	suj
+3	Louis	Louis	NPP	NPP	n=s|g=m	2	mod	2	mod
+4	XV	_	NPP	NPP		2	mod	2	mod
+5	autorise	autoriser	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+6	les	les	DET	DET	n=p	7	det	7	det
+7	chantiers	chantier	NC	NC	n=p|g=m	5	obj	5	obj
+8	de	de	P	P		7	dep	7	dep
+9	la	la	DET	DET	n=s|g=f	10	det	10	det
+10	Place	Place	NPP	NPP	n=s|g=m	8	prep	8	prep
+11	de	de	P	P		5	mod	5	mod
+12	la	la	DET	DET	n=s|g=f	13	det	13	det
+13	Concorde	Concorde	NPP	NPP	n=s|g=m	11	prep	11	prep
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	du	de	P+D	P+D	n=s|g=m	5	mod	5	mod
+16	Panthéon	_	NPP	NPP		15	prep	15	prep
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	de	de	P	P		5	mod	5	mod
+19	l'	le	DET	DET	n=s	20	det	20	det
+20	École	école	NC	NC	n=s|g=f	18	prep	18	prep
+21	Militaire	_	NPP	NPP		20	mod	20	mod
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+23	du	de	P+D	P+D	n=s|g=m	5	mod	5	mod
+24	Champ	_	NPP	NPP		23	prep	23	prep
+25	de	de	P	P		5	mod	5	mod
+26	Mars	mars	NC	NC	g=m	25	prep	25	prep
+27	.	.	PONCT	PONCT		26	ponct	26	ponct
+
+1	Un	un	DET	DET	n=s|g=m	2	det	2	det
+2	mur	mur	NC	NC	n=s|g=m	4	suj	4	suj
+3	est	être	V	V	n=s|t=P|p=3	4	aux_tps	4	aux_tps
+4	édifié	édifier	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+5	en	en	P	P		4	mod	4	mod
+6	1785	1785	NC	NC		5	prep	5	prep
+7	autour	autour	NC	NC	n=s|g=m	6	mod	6	mod
+8	de	de	P	P		4	mod	4	mod
+9	la	la	DET	DET	n=s|g=f	10	det	10	det
+10	ville	ville	NC	NC	n=s|g=f	8	prep	8	prep
+11	afin	_	ADV	ADV		4	mod	4	mod
+12	de	de	P	P		4	mod	4	mod
+13	taxer	taxer	VINF	VINF	t=W	12	prep	12	prep
+14	les	les	DET	DET	n=p	15	det	15	det
+15	marchands	marchand	NC	NC	n=p|g=m	13	obj	13	obj
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	le	le	DET	DET	n=s|g=m	18	det	18	det
+18	mur	mur	NC	NC	n=s|g=m	4	obj	4	obj
+19	des	de	P+D	P+D	n=p	18	dep	18	dep
+20	fermiers	fermier	NC	NC	n=p|g=m	19	prep	19	prep
+21	généraux	général	ADJ	ADJ	n=p|g=m	20	mod	20	mod
+22	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+1	C'	ce	CLS	CLS		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	à	à	P	P		2	mod	2	mod
+4	cette	cette	DET	DET	n=s|g=f	5	det	5	det
+5	période	période	NC	NC	n=s	3	prep	3	prep
+6	que	que	CS	CS		2	mod	2	mod
+7	les	les	DET	DET	n=p	8	det	8	det
+8	prix	prix	NC	NC	g=m	9	suj	9	suj
+9	augmentent	augmenter	V	V	n=p|t=P,S|p=3	6	sub	6	sub
+10	et	et	CC	CC		6	coord	6	coord
+11	que	que	CS	CS		10	dep_coord	10	dep_coord
+12	le	le	DET	DET	n=s|g=m	13	det	13	det
+13	peuple	peuple	NC	NC	n=s|g=m	15	suj	15	suj
+14	est	être	V	V	n=s|t=P|p=3	15	aux_tps	15	aux_tps
+15	affamé	affamer	VPP	VPP	n=s|g=m|t=K	11	sub	11	sub
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	révolution	révolution	NC	NC	n=s|g=f	0	_	0	_
+3	approche	approche	NC	NC	n=s|g=f	2	mod	2	mod
+4	.	.	PONCT	PONCT		3	ponct	3	ponct
+
+1	En	en	P	P		8	mod	8	mod
+2	1789	1789	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	les	les	DET	DET	n=p	5	det	5	det
+5	États	État	NC	NC	n=p|g=m	8	suj	8	suj
+6	généraux	général	ADJ	ADJ	n=p|g=m	5	mod	5	mod
+7	se	se	CLR	CLR	n=p,s|p=3	8	aff	8	aff
+8	tiennent	tenir	V	V	n=p|t=P,S|p=3	0	root	0	root
+9	à	à	P	P		8	mod	8	mod
+10	Versailles	Versailles	NPP	NPP	n=s|g=m	9	prep	9	prep
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+1	Le	le	DET	DET	n=s|g=m	3	det	3	det
+2	14	14	ADJ	ADJ		3	mod	3	mod
+3	juillet	juillet	NC	NC	n=s|g=m	11	mod	11	mod
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	les	les	DET	DET	n=p	6	det	6	det
+6	parisiens	parisien	ADJ	ADJ	n=p|g=m	11	suj	11	suj
+7	qui	qui	PROREL	PROREL	n=s	9	suj	9	suj
+8	se	se	CLR	CLR	n=p,s|p=3	9	aff	9	aff
+9	sentent	sentir	V	V	n=p|t=P,S|p=3	6	mod_rel	6	mod_rel
+10	menacés	menacer	VPP	VPP	n=p|g=m|t=K	11	mod	11	mod
+11	décident	décider	V	V	n=p|t=P,S|p=3	0	root	0	root
+12	d'	de	P	P		11	mod	11	mod
+13	attaquer	attaquer	VINF	VINF	t=W	12	prep	12	prep
+14	la	la	DET	DET	n=s|g=f	15	det	15	det
+15	Bastille	_	NPP	NPP		13	obj	13	obj
+16	afin	_	ADV	ADV		13	mod	13	mod
+17	de	de	P	P		13	mod	13	mod
+18	prendre	prendre	VINF	VINF	t=W	17	prep	17	prep
+19	des	des	DET	DET	n=p	20	det	20	det
+20	armes	arme	NC	NC	n=p|g=f	18	obj	18	obj
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	cet	cet	DET	DET	n=s|g=m	23	det	23	det
+23	épisode	épisode	NC	NC	n=s|g=m	25	suj	25	suj
+24	est	être	V	V	n=s|t=P|p=3	25	aux_tps	25	aux_tps
+25	appelé	appeler	VPP	VPP	n=s|g=m|t=K	11	mod	11	mod
+26	la	la	DET	DET	n=s|g=f	27	det	27	det
+27	Prise	_	NPP	NPP		25	obj	25	obj
+28	de	de	P	P		25	mod	25	mod
+29	la	la	DET	DET	n=s|g=f	30	det	30	det
+30	Bastille	_	NPP	NPP		28	prep	28	prep
+31	.	.	PONCT	PONCT		30	ponct	30	ponct
+
+1	À	à	P	P		10	mod	10	mod
+2	la	la	DET	DET	n=s|g=f	3	det	3	det
+3	fin	fin	NC	NC	n=s	1	prep	1	prep
+4	de	de	P	P		3	dep	3	dep
+5	la	la	DET	DET	n=s|g=f	6	det	6	det
+6	Révolution	révolution	NC	NC	n=s|g=f	4	prep	4	prep
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	Paris	Paris	NPP	NPP	n=s|g=m	10	suj	10	suj
+9	a	avoir	V	V	n=s|t=P|p=3	10	aux_tps	10	aux_tps
+10	souffert	souffrir	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	parisiens	parisien	ADJ	ADJ	n=p|g=m	0	_	0	_
+3	ont	avoir	V	V	n=p|t=P|p=3	0	_	0	_
+4	faim	faim	NC	NC	n=s|g=f	3	obj	3	obj
+5	.	.	PONCT	PONCT		4	ponct	4	ponct
+
+1	De	de	P	P		19	mod	19	mod
+2	1852	1852	NC	NC		1	prep	1	prep
+3	à	à	P	P		19	mod	19	mod
+4	1870	1870	NC	NC		3	prep	3	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	sous	sous	P	P		19	mod	19	mod
+7	le	le	DET	DET	n=s|g=m	8	det	8	det
+8	Second	_	NPP	NPP		6	prep	6	prep
+9	Empire	_	NPP	NPP		8	mod	8	mod
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	Napoléon	_	NPP	NPP		19	suj	19	suj
+12	III	_	NPP	NPP		11	mod	11	mod
+13	et	et	CC	CC		11	coord	11	coord
+14	le	le	DET	DET	n=s|g=m	15	det	15	det
+15	préfet	préfet	NC	NC	n=s|g=m	13	dep_coord	13	dep_coord
+16	Georges	Georges	NPP	NPP	n=s|g=m	15	mod	15	mod
+17	Eugène	Eugène	NPP	NPP	n=s|g=m	15	mod	15	mod
+18	Haussmann	_	NPP	NPP		15	mod	15	mod
+19	conduisent	conduire	V	V	n=p|t=P,S|p=3	0	root	0	root
+20	une	une	DET	DET	n=s|g=f	22	det	22	det
+21	grande	grand	ADJ	ADJ	n=s|g=f	22	mod	22	mod
+22	transformation	transformation	NC	NC	n=s|g=f	19	obj	19	obj
+23	de	de	P	P		22	dep	22	dep
+24	la	la	DET	DET	n=s|g=f	25	det	25	det
+25	ville	ville	NC	NC	n=s|g=f	23	prep	23	prep
+26	,	,	PONCT	PONCT		25	ponct	25	ponct
+27	et	et	CC	CC		19	coord	19	coord
+28	lui	lui	CLO	CLO	n=s|p=3	29	a_obj	29	a_obj
+29	donnent	donner	V	V	n=p|t=P,S|p=3	27	dep_coord	27	dep_coord
+30	une	une	DET	DET	n=s|g=f	31	det	31	det
+31	forme	forme	NC	NC	n=s|g=f	29	obj	29	obj
+32	qu'	que	PROREL	PROREL		34	obj	34	obj
+33	elle	elle	CLS	CLS	n=s|g=f|p=3	34	suj	34	suj
+34	a	avoir	V	V	n=s|t=P|p=3	31	mod_rel	31	mod_rel
+35	toujours	toujours	ADV	ADV		34	mod	34	mod
+36	en	en	P	P		34	mod	34	mod
+37	grande	grand	ADJ	ADJ	n=s|g=f	38	mod	38	mod
+38	partie	partie	NC	NC	n=s|g=f	36	prep	36	prep
+39	aujourd'hui	aujourd'hui	ADV	ADV		38	mod	38	mod
+40	.	.	PONCT	PONCT		39	ponct	39	ponct
+
+1	De	de	DET	DET	n=p	4	det	4	det
+2	nombreux	nombreux	ADJ	ADJ	g=m	4	mod	4	mod
+3	anciens	ancien	ADJ	ADJ	n=p|g=m	4	mod	4	mod
+4	bâtiments	bâtiment	NC	NC	n=p|g=m	7	suj	7	suj
+5	ont	avoir	V	V	n=p|t=P|p=3	7	aux_tps	7	aux_tps
+6	été	être	VPP	VPP	t=K	7	aux_pass	7	aux_pass
+7	détruits	détruire	VPP	VPP	n=p|g=m|t=K	0	root	0	root
+8	pour	pour	P	P		7	mod	7	mod
+9	établir	établir	VINF	VINF	t=W	8	prep	8	prep
+10	(	(	PONCT	PONCT		9	ponct	9	ponct
+11	percer	percer	VINF	VINF	t=W	9	obj	9	obj
+12	)	)	PONCT	PONCT		11	ponct	11	ponct
+13	de	de	DET	DET	n=p	15	det	15	det
+14	grandes	grand	ADJ	ADJ	n=p|g=f	15	mod	15	mod
+15	avenues	avenue	NC	NC	n=p|g=f	7	mod	7	mod
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+1	Au	à	P+D	P+D	n=s|g=m	7	mod	7	mod
+2	XIXe	_	ADJ	ADJ		3	mod	3	mod
+3	siècle	siècle	NC	NC	n=s|g=m	1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	Paris	Paris	NPP	NPP	n=s|g=m	7	suj	7	suj
+6	a	avoir	V	V	n=s|t=P|p=3	7	aux_tps	7	aux_tps
+7	gardé	garder	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+8	un	un	DET	DET	n=s|g=m	9	det	9	det
+9	aspect	aspect	NC	NC	n=s|g=m	7	obj	7	obj
+10	du	de	P+D	P+D	n=s|g=m	9	dep	9	dep
+11	moyen	moyen	ADJ	ADJ	n=s|g=m	12	mod	12	mod
+12	Âge	âge	NC	NC	n=s|g=m	10	prep	10	prep
+13	.	.	PONCT	PONCT		12	ponct	12	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	rues	rue	NC	NC	n=p|g=f	4	suj	4	suj
+3	y	y	CLO	CLO		4	mod	4	mod
+4	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+5	sombres	sombre	ADJ	ADJ	n=p	4	ats	4	ats
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	insalubres	insalubre	ADJ	ADJ	n=p	5	coord	5	coord
+8	et	et	CC	CC		7	coord	7	coord
+9	étroites	étroit	ADJ	ADJ	n=p|g=f	8	dep_coord	8	dep_coord
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+1	Louis-Napoléon	_	NPP	NPP		4	suj	4	suj
+2	Bonaparte	_	NPP	NPP		1	mod	1	mod
+3	est	être	V	V	n=s|t=P|p=3	4	aux_tps	4	aux_tps
+4	impressionné	impressionner	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+5	par	par	P	P		4	mod	4	mod
+6	le	le	DET	DET	n=s|g=m	7	det	7	det
+7	quartier	quartier	NC	NC	n=s|g=m	5	prep	5	prep
+8	Ouest	_	NPP	NPP		7	mod	7	mod
+9	de	de	P	P		4	mod	4	mod
+10	Londres	Londres	NPP	NPP	n=s|g=m	9	prep	9	prep
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	qui	qui	PROREL	PROREL	n=s	15	suj	15	suj
+13	a	avoir	V	V	n=s|t=P|p=3	15	aux_tps	15	aux_tps
+14	été	être	VPP	VPP	t=K	15	aux_pass	15	aux_pass
+15	reconstruit	reconstruire	VPP	VPP	n=s|g=m|t=K	4	mod	4	mod
+16	après	après	P	P		15	mod	15	mod
+17	l'	le	DET	DET	n=s	18	det	18	det
+18	incendie	incendie	NC	NC	n=s|g=m	16	prep	16	prep
+19	de	de	P	P		15	mod	15	mod
+20	1666	1666	NC	NC		19	prep	19	prep
+21	et	et	CC	CC		15	coord	15	coord
+22	qui	qui	PROREL	PROREL	n=s	23	suj	23	suj
+23	est	être	V	V	n=s|t=P|p=3	21	dep_coord	21	dep_coord
+24	une	une	DET	DET	n=s|g=f	25	det	25	det
+25	référence	référence	NC	NC	n=s|g=f	23	obj	23	obj
+26	,	,	PONCT	PONCT		25	ponct	25	ponct
+27	pour	pour	P	P		23	mod	23	mod
+28	l'	le	DET	DET	n=s	29	det	29	det
+29	hygiène	hygiène	NC	NC	n=s|g=f	27	prep	27	prep
+30	et	et	CC	CC		23	coord	23	coord
+31	l'	le	DET	DET	n=s	32	det	32	det
+32	urbanisme	urbanisme	NC	NC	n=s|g=m	0	_	0	_
+33	moderne	moderne	ADJ	ADJ	n=s	32	mod	32	mod
+34	.	.	PONCT	PONCT		33	ponct	33	ponct
+
+1	Sous	sous	P	P		12	mod	12	mod
+2	Napoléon	_	NPP	NPP		1	prep	1	prep
+3	III	_	NPP	NPP		2	mod	2	mod
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	son	son	DET	DET	n=s|g=m|p=3|poss=s	6	det	6	det
+6	préfet	préfet	NC	NC	n=s|g=m	12	suj	12	suj
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	Georges	Georges	NPP	NPP	n=s|g=m	6	mod	6	mod
+9	Eugène	Eugène	NPP	NPP	n=s|g=m	8	mod	8	mod
+10	Haussmann	_	NPP	NPP		8	mod	8	mod
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	crée	créer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+13	un	un	DET	DET	n=s|g=m	15	det	15	det
+14	vaste	vaste	ADJ	ADJ	n=s	15	mod	15	mod
+15	système	système	NC	NC	n=s|g=m	12	obj	12	obj
+16	de	de	P	P		15	dep	15	dep
+17	circulation	circulation	NC	NC	n=s|g=f	16	prep	16	prep
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	pour	pour	P	P		12	mod	12	mod
+20	relier	relier	VINF	VINF	t=W	19	prep	19	prep
+21	les	les	DET	DET	n=p	22	det	22	det
+22	gares	gare	NC	NC	n=p|g=f	20	obj	20	obj
+23	et	et	CC	CC		19	coord	19	coord
+24	pour	pour	P	P		23	dep_coord	23	dep_coord
+25	rendre	rendre	VINF	VINF	t=W	24	prep	24	prep
+26	la	la	DET	DET	n=s|g=f	27	det	27	det
+27	circulation	circulation	NC	NC	n=s|g=f	25	obj	25	obj
+28	plus	plus	ADV	ADV		29	mod	29	mod
+29	rapide	rapide	ADJ	ADJ	n=s	27	mod	27	mod
+30	et	et	CC	CC		29	coord	29	coord
+31	plus	plus	ADV	ADV		32	mod	32	mod
+32	facile	facile	ADJ	ADJ	n=s	30	dep_coord	30	dep_coord
+33	.	.	PONCT	PONCT		32	ponct	32	ponct
+
+1	Dans	dans	P	P		6	mod	6	mod
+2	la	la	DET	DET	n=s|g=f	3	det	3	det
+3	ville	ville	NC	NC	n=s|g=f	1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	il	il	CLS	CLS	n=s|g=m|p=3	6	suj	6	suj
+6	augmente	augmenter	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+7	le	le	DET	DET	n=s|g=m	8	det	8	det
+8	nombre	nombre	NC	NC	n=s|g=m	6	obj	6	obj
+9	de	de	P	P		8	dep	8	dep
+10	réverbères	réverbère	NC	NC	n=p|g=m	9	prep	9	prep
+11	*	*	PONCT	PONCT		10	ponct	10	ponct
+12	(	(	PONCT	PONCT		10	ponct	10	ponct
+13	il	il	CLS	CLS	n=s|g=m|p=3	15	suj	15	suj
+14	s'	se	CLR	CLR	n=p,s|p=3	15	aff	15	aff
+15	agissait	agir	V	V	n=s|t=I|p=3	6	mod	6	mod
+16	de	de	P	P		15	mod	15	mod
+17	réverbères	réverbère	NC	NC	n=p|g=m	16	prep	16	prep
+18	à	à	P	P		15	mod	15	mod
+19	gaz	gaz	NC	NC	g=m	18	prep	18	prep
+20	qu'	que	PROREL	PROREL		22	obj	22	obj
+21	il	il	CLS	CLS	n=s|g=m|p=3	22	suj	22	suj
+22	fallait	falloir	V	V	n=s|t=I|p=3	19	mod_rel	19	mod_rel
+23	allumer	allumer	VINF	VINF	t=W	22	obj	22	obj
+24	manuellement	_	ADV	ADV		23	mod	23	mod
+25	chaque	chaque	DET	DET	n=s	26	det	26	det
+26	jour	jour	NC	NC	n=s|g=m	23	obj	23	obj
+27	)	)	PONCT	PONCT		26	ponct	26	ponct
+28	et	et	CC	CC		15	coord	15	coord
+29	la	la	DET	DET	n=s|g=f	30	det	30	det
+30	surface	surface	NC	NC	n=s|g=f	0	_	0	_
+31	des	de	P+D	P+D	n=p	30	dep	30	dep
+32	trottoirs	trottoir	NC	NC	n=p|g=m	31	prep	31	prep
+33	.	.	PONCT	PONCT		32	ponct	32	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	souci	souci	NC	NC	n=s|g=m	13	suj	13	suj
+3	d'	de	P	P		2	dep	2	dep
+4	améliorer	améliorer	VINF	VINF	t=W	3	prep	3	prep
+5	l'	le	DET	DET	n=s	6	det	6	det
+6	alimentation	alimentation	NC	NC	n=s|g=f	4	obj	4	obj
+7	en	en	P	P		4	mod	4	mod
+8	eau	eau	NC	NC	n=s|g=f	7	prep	7	prep
+9	de	de	P	P		4	mod	4	mod
+10	la	la	DET	DET	n=s|g=f	11	det	11	det
+11	capitale	capitale	NC	NC	n=s|g=f	9	prep	9	prep
+12	se	se	CLR	CLR	n=p,s|p=3	13	aff	13	aff
+13	traduit	traduire	V	V	n=s|t=P|p=3	0	root	0	root
+14	par	par	P	P		13	mod	13	mod
+15	l'	le	DET	DET	n=s	16	det	16	det
+16	ouverture	ouverture	NC	NC	n=s|g=f	14	prep	14	prep
+17	du	de	P+D	P+D	n=s|g=m	16	dep	16	dep
+18	canal	canal	NC	NC	n=s|g=m	17	prep	17	prep
+19	de	de	P	P		13	mod	13	mod
+20	l'	le	DET	DET	n=s	21	det	21	det
+21	Ourcq	_	NPP	NPP		19	prep	19	prep
+22	(	(	PONCT	PONCT		21	ponct	21	ponct
+23	le	le	DET	DET	n=s|g=m	24	det	24	det
+24	canal	canal	NC	NC	n=s|g=m	13	mod	13	mod
+25	de	de	P	P		24	dep	24	dep
+26	l'	le	DET	DET	n=s	27	det	27	det
+27	Ourcq	_	NPP	NPP		25	prep	25	prep
+28	est	être	V	V	n=s|t=P|p=3	13	mod	13	mod
+29	un	un	DET	DET	n=s|g=m	30	det	30	det
+30	canal	canal	NC	NC	n=s|g=m	28	obj	28	obj
+31	du	de	P+D	P+D	n=s|g=m	30	dep	30	dep
+32	bassin	bassin	NC	NC	n=s|g=m	31	prep	31	prep
+33	parisien	parisien	ADJ	ADJ	n=s|g=m	32	mod	32	mod
+34	)	)	PONCT	PONCT		33	ponct	33	ponct
+35	et	et	CC	CC		28	coord	28	coord
+36	la	la	DET	DET	n=s|g=f	37	det	37	det
+37	construction	construction	NC	NC	n=s|g=f	0	_	0	_
+38	de	de	P	P		37	dep	37	dep
+39	plusieurs	plusieurs	DET	DET	n=p	40	det	40	det
+40	fontaines	fontaine	NC	NC	n=p|g=f	38	prep	38	prep
+41	.	.	PONCT	PONCT		40	ponct	40	ponct
+
+1	Paris	_	NPP	NPP		8	suj	8	suj
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	au	à	P+D	P+D	n=s|g=m	1	dep	1	dep
+4	milieu	milieu	NC	NC	n=s|g=m	3	prep	3	prep
+5	du	de	P+D	P+D	n=s|g=m	1	dep	1	dep
+6	XIXe	_	ADJ	ADJ		7	mod	7	mod
+7	siècle	siècle	NC	NC	n=s|g=m	5	prep	5	prep
+8	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+9	une	une	DET	DET	n=s|g=f	10	det	10	det
+10	ville	ville	NC	NC	n=s|g=f	8	obj	8	obj
+11	malsaine	malsain	ADJ	ADJ	n=s|g=f	10	mod	10	mod
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	très	très	ADV	ADV		14	mod	14	mod
+14	vulnérable	vulnérable	ADJ	ADJ	n=s	10	mod	10	mod
+15	aux	à	P+D	P+D	n=p	8	mod	8	mod
+16	épidémies	épidémie	NC	NC	n=p|g=f	15	prep	15	prep
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	il	il	CLS	CLS	n=s|g=m|p=3	19	suj	19	suj
+19	faut	falloir	V	V	n=s|t=P|p=3	8	mod	8	mod
+20	donc	donc	ADV	ADV		19	mod	19	mod
+21	assainir	assainir	VINF	VINF	t=W	19	obj	19	obj
+22	la	la	DET	DET	n=s|g=f	23	det	23	det
+23	ville	ville	NC	NC	n=s|g=f	21	obj	21	obj
+24	.	.	PONCT	PONCT		23	ponct	23	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	aussi	aussi	ADV	ADV		2	mod	2	mod
+4	nécessaire	nécessaire	ADJ	ADJ	n=s	2	ats	2	ats
+5	d'	de	P	P		2	mod	2	mod
+6	améliorer	améliorer	VINF	VINF	t=W	5	prep	5	prep
+7	l'	le	DET	DET	n=s	8	det	8	det
+8	éclairage	éclairage	NC	NC	n=s|g=m	6	obj	6	obj
+9	naturel	naturel	ADJ	ADJ	n=s|g=m	8	mod	8	mod
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	rénover	rénover	VINF	VINF	t=W	2	obj	2	obj
+12	les	les	DET	DET	n=p	13	det	13	det
+13	bâtiments	bâtiment	NC	NC	n=p|g=m	11	obj	11	obj
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	faciliter	faciliter	VINF	VINF	t=W	2	mod	2	mod
+16	la	la	DET	DET	n=s|g=f	17	det	17	det
+17	circulation	circulation	NC	NC	n=s|g=f	15	obj	15	obj
+18	et	et	CC	CC		17	coord	17	coord
+19	les	les	DET	DET	n=p	20	det	20	det
+20	échanges	échange	NC	NC	n=p|g=m	18	dep_coord	18	dep_coord
+21	commerciaux	commercial	ADJ	ADJ	n=p|g=m	20	mod	20	mod
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+23	créer	créer	VINF	VINF	t=W	2	mod	2	mod
+24	des	des	DET	DET	n=p	25	det	25	det
+25	emplois	emploi	NC	NC	n=p|g=m	23	obj	23	obj
+26	,	,	PONCT	PONCT		25	ponct	25	ponct
+27	construire	construire	VINF	VINF	t=W	2	mod	2	mod
+28	des	des	DET	DET	n=p	29	det	29	det
+29	casernes	caserne	NC	NC	n=p|g=f	27	obj	27	obj
+30	pour	pour	P	P		27	mod	27	mod
+31	renforcer	renforcer	VINF	VINF	t=W	30	prep	30	prep
+32	la	la	DET	DET	n=s|g=f	33	det	33	det
+33	sécurité	sécurité	NC	NC	n=s|g=f	31	obj	31	obj
+34	dans	dans	P	P		31	mod	31	mod
+35	la	la	DET	DET	n=s|g=f	36	det	36	det
+36	ville	ville	NC	NC	n=s|g=f	34	prep	34	prep
+37	.	.	PONCT	PONCT		36	ponct	36	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	faut	falloir	V	V	n=s|t=P|p=3	0	root	0	root
+3	également	_	ADV	ADV		2	mod	2	mod
+4	résoudre	résoudre	VINF	VINF	t=W	2	obj	2	obj
+5	les	les	DET	DET	n=p	6	det	6	det
+6	problèmes	problème	NC	NC	n=p|g=m	4	obj	4	obj
+7	des	de	P+D	P+D	n=p	4	mod	4	mod
+8	quartiers	quartier	NC	NC	n=p|g=m	7	prep	7	prep
+9	surpeuplés	surpeupler	VPP	VPP	n=p|g=m|t=K	8	mod	8	mod
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	de	de	P	P		4	mod	4	mod
+12	l'	le	DET	DET	n=s	13	det	13	det
+13	alimentation	alimentation	NC	NC	n=s|g=f	11	prep	11	prep
+14	en	en	P	P		13	dep	13	dep
+15	eau	eau	NC	NC	n=s|g=f	14	prep	14	prep
+16	et	et	CC	CC		11	coord	11	coord
+17	d'	de	P	P		16	dep_coord	16	dep_coord
+18	un	un	DET	DET	n=s|g=m	19	det	19	det
+19	réseau	réseau	NC	NC	n=s|g=m	17	prep	17	prep
+20	d'	de	P	P		19	dep	19	dep
+21	égouts	égout	NC	NC	n=p|g=m	20	prep	20	prep
+22	insuffisant	insuffisant	ADJ	ADJ	n=s|g=m	19	mod	19	mod
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+1	Paris	_	NPP	NPP		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	une	une	DET	DET	n=s|g=f	4	det	4	det
+4	ville	ville	NC	NC	n=s|g=f	2	obj	2	obj
+5	très	très	ADV	ADV		6	mod	6	mod
+6	culturelle	culturel	ADJ	ADJ	n=s|g=f	4	mod	4	mod
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	parsemée	parsemer	VPP	VPP	n=s|g=f|t=K	4	mod	4	mod
+9	de	de	P	P		8	mod	8	mod
+10	monuments	monument	NC	NC	n=p|g=m	9	prep	9	prep
+11	illustres	illustre	ADJ	ADJ	n=p	10	mod	10	mod
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	qui	qui	PROREL	PROREL	n=s	14	suj	14	suj
+14	accueille	accueillir	V	V	n=s|t=P,S|p=1,3	4	mod_rel	4	mod_rel
+15	de	de	DET	DET	n=p	17	det	17	det
+16	nombreux	nombreux	ADJ	ADJ	g=m	17	mod	17	mod
+17	visiteurs	visiteur	NC	NC	n=p|g=m	14	obj	14	obj
+18	chaque	chaque	DET	DET	n=s	19	det	19	det
+19	année	année	NC	NC	n=s|g=f	14	obj	14	obj
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	3	suj	3	suj
+2	est	être	V	V	n=s|t=P|p=3	3	aux_pass	3	aux_pass
+3	connue	connaître	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+4	pour	pour	P	P		3	mod	3	mod
+5	ses	ses	DET	DET	n=p|p=3|poss=s	6	det	6	det
+6	musées	musée	NC	NC	n=p|g=m	4	prep	4	prep
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	tels	tel	ADJ	ADJ	n=p|g=m	6	mod	6	mod
+9	que	que	CS	CS		3	mod	3	mod
+10	le	le	DET	DET	n=s|g=m	11	det	11	det
+11	musée	musée	NC	NC	n=s|g=m	0	_	0	_
+12	du	de	P+D	P+D	n=s|g=m	11	dep	11	dep
+13	Louvre	_	NPP	NPP		12	prep	12	prep
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	et	et	CC	CC		11	coord	11	coord
+16	la	la	DET	DET	n=s|g=f	18	det	18	det
+17	célèbre	célèbre	ADJ	ADJ	n=s	18	mod	18	mod
+18	tour	tour	NC	NC	n=s	15	dep_coord	15	dep_coord
+19	Eiffel	_	NPP	NPP		18	mod	18	mod
+20	qui	qui	PROREL	PROREL	n=s	21	suj	21	suj
+21	est	être	V	V	n=s|t=P|p=3	18	mod_rel	18	mod_rel
+22	le	le	DET	DET	n=s|g=m	23	det	23	det
+23	monument	monument	NC	NC	n=s|g=m	21	obj	21	obj
+24	le	le	DET	DET	n=s|g=m	26	det	26	det
+25	plus	plus	ADV	ADV		26	mod	26	mod
+26	visité	visiter	VPP	VPP	n=s|g=m|t=K	23	mod	23	mod
+27	au	à	P+D	P+D	n=s|g=m	26	mod	26	mod
+28	monde	monde	NC	NC	n=s|g=m	27	prep	27	prep
+29	.	.	PONCT	PONCT		28	ponct	28	ponct
+
+1	Son	son	DET	DET	n=s|g=m|p=3|poss=s	2	det	2	det
+2	rôle	rôle	NC	NC	n=s|g=m	9	suj	9	suj
+3	dans	dans	P	P		2	dep	2	dep
+4	l'	le	DET	DET	n=s	5	det	5	det
+5	art	art	NC	NC	n=s|g=m	3	prep	3	prep
+6	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+7	XXème	_	ADJ	ADJ		8	mod	8	mod
+8	siècle	siècle	NC	NC	n=s|g=m	6	prep	6	prep
+9	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+10	primordial	primordial	ADJ	ADJ	n=s|g=m	9	ats	9	ats
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	elle	elle	CLS	CLS	n=s|g=f|p=3	14	suj	14	suj
+13	a	avoir	V	V	n=s|t=P|p=3	14	aux_tps	14	aux_tps
+14	fixé	fixer	VPP	VPP	n=s|g=m|t=K	9	mod	9	mod
+15	tous	tout	ADJ	ADJ	n=p|g=m	17	mod	17	mod
+16	les	les	DET	DET	n=p	17	det	17	det
+17	courants	courant	NC	NC	n=p|g=m	14	obj	14	obj
+18	du	de	P+D	P+D	n=s|g=m	17	dep	17	dep
+19	siècle	siècle	NC	NC	n=s|g=m	18	prep	18	prep
+20	(	(	PONCT	PONCT		19	ponct	19	ponct
+21	impressionnisme	impressionnisme	NC	NC	n=s|g=m	19	mod	19	mod
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+23	surréalisme	surréalisme	NC	NC	n=s|g=m	19	mod	19	mod
+24	ou	ou	CC	CC		23	coord	23	coord
+25	cubisme	cubisme	NC	NC	n=s|g=m	24	dep_coord	24	dep_coord
+26	)	)	PONCT	PONCT		25	ponct	25	ponct
+27	et	et	CC	CC		17	coord	17	coord
+28	beaucoup	beaucoup	ADV	ADV		27	mod	27	mod
+29	de	de	DET	DET	n=p	31	det	31	det
+30	grands	grand	ADJ	ADJ	n=p|g=m	31	mod	31	mod
+31	artistes	artiste	NC	NC	n=p	27	dep_coord	27	dep_coord
+32	s'	se	CLR	CLR	n=p,s|p=3	35	aff	35	aff
+33	y	y	CLO	CLO		35	aff	35	aff
+34	sont	être	V	V	n=p|t=P|p=3	35	aux_tps	35	aux_tps
+35	installés	installer	VPP	VPP	n=p|g=m|t=K	14	mod	14	mod
+36	.	.	PONCT	PONCT		35	ponct	35	ponct
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	la	la	DET	DET	n=s|g=f	4	det	4	det
+4	capitale	capitale	NC	NC	n=s|g=f	2	obj	2	obj
+5	la	la	DET	DET	n=s|g=f	7	det	7	det
+6	plus	plus	ADV	ADV		7	mod	7	mod
+7	visitée	visiter	VPP	VPP	n=s|g=f|t=K	4	mod	4	mod
+8	au	à	P+D	P+D	n=s|g=m	7	mod	7	mod
+9	monde	monde	NC	NC	n=s|g=m	8	prep	8	prep
+10	(	(	PONCT	PONCT		9	ponct	9	ponct
+11	42	42	ADJ	ADJ		9	mod	9	mod
+12	millions	million	NC	NC	n=p	9	mod	9	mod
+13	de	de	P	P		7	mod	7	mod
+14	touristes	touriste	NC	NC	n=p	13	prep	13	prep
+15	par	par	P	P		7	mod	7	mod
+16	an	an	NC	NC	n=s|g=m	15	prep	15	prep
+17	)	)	PONCT	PONCT		16	ponct	16	ponct
+18	et	et	CC	CC		2	coord	2	coord
+19	est	être	V	V	n=s|t=P|p=3	18	dep_coord	18	dep_coord
+20	une	un	PRO	PRO	n=s|g=f	19	ats	19	ats
+21	des	de	P+D	P+D	n=p	20	dep	20	dep
+22	plus	plus	ADV	ADV		23	mod	23	mod
+23	grandes	grand	ADJ	ADJ	n=p|g=f	21	prep	21	prep
+24	par	par	P	P		19	mod	19	mod
+25	le	le	DET	DET	n=s|g=m	26	det	26	det
+26	nombre	nombre	NC	NC	n=s|g=m	24	prep	24	prep
+27	de	de	P	P		19	mod	19	mod
+28	congrès	congrès	NC	NC	g=m	27	prep	27	prep
+29	.	.	PONCT	PONCT		28	ponct	28	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	cuisine	cuisine	NC	NC	n=s|g=f	4	suj	4	suj
+3	parisienne	parisien	ADJ	ADJ	n=s|g=f	2	mod	2	mod
+4	représente	représenter	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+5	tout	tout	ADJ	ADJ	n=s|g=m	7	mod	7	mod
+6	le	le	DET	DET	n=s|g=m	7	det	7	det
+7	savoir-faire	savoir-faire	NC	NC	g=m	4	obj	4	obj
+8	parisien	parisien	ADJ	ADJ	n=s|g=m	7	mod	7	mod
+9	dans	dans	P	P		4	mod	4	mod
+10	le	le	DET	DET	n=s|g=m	11	det	11	det
+11	domaine	domaine	NC	NC	n=s|g=m	9	prep	9	prep
+12	de	de	P	P		4	mod	4	mod
+13	la	la	DET	DET	n=s|g=f	14	det	14	det
+14	cuisine	cuisine	NC	NC	n=s|g=f	12	prep	12	prep
+15	à	à	P	P		4	mod	4	mod
+16	Paris	Paris	NPP	NPP	n=s|g=m	15	prep	15	prep
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	alimentation	alimentation	NC	NC	n=s|g=f	15	suj	15	suj
+3	des	de	P+D	P+D	n=p	2	dep	2	dep
+4	parisiens	parisien	ADJ	ADJ	n=p|g=m	3	prep	3	prep
+5	à	à	P	P		2	dep	2	dep
+6	une	une	DET	DET	n=s|g=f	7	det	7	det
+7	influence	influence	NC	NC	n=s|g=f	5	prep	5	prep
+8	sur	sur	P	P		2	dep	2	dep
+9	leur	leur	DET	DET	n=s|p=3|poss=p	10	det	10	det
+10	quotidien	quotidien	NC	NC	n=s|g=m	8	prep	8	prep
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	aussi	aussi	ADV	ADV		15	mod	15	mod
+13	a-t	_	ADV	ADV		15	mod	15	mod
+14	-elle	elle	CLS	CLS	n=s|g=f|p=3	15	suj	15	suj
+15	évoluée	évoluer	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+16	en	en	P	P		15	mod	15	mod
+17	fonction	fonction	NC	NC	n=s|g=f	16	prep	16	prep
+18	de	de	P	P		15	mod	15	mod
+19	la	la	DET	DET	n=s|g=f	20	det	20	det
+20	société	société	NC	NC	n=s|g=f	18	prep	18	prep
+21	.	.	PONCT	PONCT		20	ponct	20	ponct
+
+1	Son	son	DET	DET	n=s|g=m|p=3|poss=s	2	det	2	det
+2	apothéose	apothéose	NC	NC	n=s|g=f	4	suj	4	suj
+3	est	être	V	V	n=s|t=P|p=3	4	aux_pass	4	aux_pass
+4	désignée	désigner	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+5	au	à	P+D	P+D	n=s|g=m	4	mod	4	mod
+6	XIXe	_	ADJ	ADJ		7	mod	7	mod
+7	siècle	siècle	NC	NC	n=s|g=m	5	prep	5	prep
+8	où	où	PROREL	PROREL		10	mod	10	mod
+9	elle	elle	CLS	CLS	n=s|g=f|p=3	10	suj	10	suj
+10	influence	influencer	V	V	n=s|t=P,S|p=1,3	7	mod_rel	7	mod_rel
+11	alors	alors	ADV	ADV		10	mod	10	mod
+12	mondialement	_	ADV	ADV		10	mod	10	mod
+13	la	la	DET	DET	n=s|g=f	14	det	14	det
+14	gastronomie2	_	NC	NC		10	obj	10	obj
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+1	Le	le	DET	DET	n=s|g=m	3	det	3	det
+2	mobilier	mobilier	ADJ	ADJ	n=s|g=m	3	mod	3	mod
+3	urbain	urbain	ADJ	ADJ	n=s|g=m	14	suj	14	suj
+4	de	de	P	P		3	mod	3	mod
+5	Paris	Paris	NPP	NPP	n=s|g=m	4	prep	4	prep
+6	(	(	PONCT	PONCT		5	ponct	5	ponct
+7	bancs	banc	NC	NC	n=p|g=m	3	mod	3	mod
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	lampadaires	lampadaire	NC	NC	n=p|g=m	7	mod	7	mod
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	kiosques	kiosque	NC	NC	n=p|g=m	7	mod	7	mod
+12	...	...	PONCT	PONCT		11	ponct	11	ponct
+13	)	)	PONCT	PONCT		11	ponct	11	ponct
+14	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+15	très	très	ADV	ADV		14	mod	14	mod
+16	harmonieux	harmonieux	ADJ	ADJ	g=m	14	ats	14	ats
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	avec	avec	P	P		14	mod	14	mod
+19	ses	ses	DET	DET	n=p|p=3|poss=s	20	det	20	det
+20	teintes	teinte	NC	NC	n=p|g=f	18	prep	18	prep
+21	vertes	vert	ADJ	ADJ	n=p|g=f	20	mod	20	mod
+22	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	4	suj	4	suj
+2	a	avoir	V	V	n=s|t=P|p=3	4	aux_tps	4	aux_tps
+3	été	être	VPP	VPP	t=K	4	aux_pass	4	aux_pass
+4	dessiné	dessiner	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+5	et	et	CC	CC		4	coord	4	coord
+6	fabriqué	fabriquer	VPP	VPP	n=s|g=m|t=K	5	dep_coord	5	dep_coord
+7	pendant	pendant	P	P		4	mod	4	mod
+8	les	les	DET	DET	n=p	9	det	9	det
+9	transformations	transformation	NC	NC	n=p|g=f	7	prep	7	prep
+10	de	de	P	P		4	mod	4	mod
+11	Paris	Paris	NPP	NPP	n=s|g=m	10	prep	10	prep
+12	sous	sous	P	P		4	mod	4	mod
+13	le	le	DET	DET	n=s|g=m	14	det	14	det
+14	Second	_	NPP	NPP		12	prep	12	prep
+15	Empire	_	NPP	NPP		14	mod	14	mod
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	fontaines	fontaine	NC	NC	n=p|g=f	0	_	0	_
+3	Wallace	Wallace	NPP	NPP	n=s|g=m	2	mod	2	mod
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	les	les	DET	DET	n=p	6	det	6	det
+6	colonnes	colonne	NC	NC	n=p|g=f	2	mod	2	mod
+7	Morris	Morris	NPP	NPP	n=s|g=m	6	mod	6	mod
+8	ou	ou	CC	CC		6	coord	6	coord
+9	les	les	DET	DET	n=p	10	det	10	det
+10	vespasiennes	vespasienne	NC	NC	n=p|g=f	8	dep_coord	8	dep_coord
+11	sont	être	V	V	n=p|t=P|p=3	13	aux_tps	13	aux_tps
+12	véritablement	_	ADV	ADV		13	mod	13	mod
+13	devenus	devenir	VPP	VPP	n=p|g=m|t=K	6	mod_rel	6	mod_rel
+14	des	des	DET	DET	n=p	15	det	15	det
+15	symboles	symbole	NC	NC	n=p|g=m	13	suj	13	suj
+16	de	de	P	P		13	mod	13	mod
+17	la	la	DET	DET	n=s|g=f	18	det	18	det
+18	ville	ville	NC	NC	n=s|g=f	16	prep	16	prep
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	Au	à	P+D	P+D	n=s|g=m	7	mod	7	mod
+2	niveau	niveau	NC	NC	n=s|g=m	1	prep	1	prep
+3	sportif	sportif	ADJ	ADJ	n=s|g=m	2	mod	2	mod
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	la	la	DET	DET	n=s|g=f	6	det	6	det
+6	ville	ville	NC	NC	n=s|g=f	7	suj	7	suj
+7	compte	compter	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+8	de	de	DET	DET	n=p	10	det	10	det
+9	nombreux	nombreux	ADJ	ADJ	g=m	10	mod	10	mod
+10	clubs	club	NC	NC	n=p|g=m	7	obj	7	obj
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	professionnels	professionnel	NC	NC	n=p|g=m	10	mod	10	mod
+13	et	et	CC	CC		12	coord	12	coord
+14	amateurs	amateur	NC	NC	n=p	13	dep_coord	13	dep_coord
+15	dans	dans	P	P		7	mod	7	mod
+16	de	de	DET	DET	n=p	18	det	18	det
+17	nombreuses	nombreux	ADJ	ADJ	n=p|g=f	18	mod	18	mod
+18	disciplines	discipline	NC	NC	n=p|g=f	15	prep	15	prep
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	Au	à	P+D	P+D	n=s|g=m	6	mod	6	mod
+2	football	football	NC	NC	n=s|g=m	1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	il	il	CLS	CLS	n=s|g=m|p=3	6	suj	6	suj
+5	y	y	CLO	CLO		6	aff	6	aff
+6	a	avoir	V	V	n=s|t=P|p=3	0	root	0	root
+7	le	le	DET	DET	n=s|g=m	8	det	8	det
+8	Paris	Paris	NPP	NPP	n=s|g=m	6	suj	6	suj
+9	Saint-Germain	Saint-Germain	NPP	NPP	n=s|g=m	8	mod	8	mod
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	au	à	P+D	P+D	n=s|g=m	6	mod	6	mod
+12	rugby	rugby	NC	NC	n=s|g=m	11	prep	11	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	le	le	DET	DET	n=s|g=m	15	det	15	det
+15	Stade	stade	NC	NC	n=s|g=m	6	obj	6	obj
+16	français	français	ADJ	ADJ	g=m	15	mod	15	mod
+17	Paris	Paris	NPP	NPP	n=s|g=m	15	mod	15	mod
+18	rugby	_	NPP	NPP		15	mod	15	mod
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	mais	mais	CC	CC		15	coord	15	coord
+21	aussi	aussi	ADV	ADV		20	mod	20	mod
+22	le	le	DET	DET	n=s|g=m	23	det	23	det
+23	PSG	_	NPP	NPP		20	dep_coord	20	dep_coord
+24	Handball	_	NPP	NPP		23	mod	23	mod
+25	,	,	PONCT	PONCT		24	ponct	24	ponct
+26	le	le	DET	DET	n=s|g=m	27	det	27	det
+27	Paris	Paris	NPP	NPP	n=s|g=m	23	mod	23	mod
+28	-	-	PONCT	PONCT		27	ponct	27	ponct
+29	Levallois	_	NPP	NPP		27	mod	27	mod
+30	au	à	P+D	P+D	n=s|g=m	27	dep	27	dep
+31	basket-ball	basket-ball	NC	NC	n=s|g=m	30	prep	30	prep
+32	,	,	PONCT	PONCT		31	ponct	31	ponct
+33	etc	_	ADV	ADV		23	mod	23	mod
+34	.	.	PONCT	PONCT		33	ponct	33	ponct
+
+1	Le	le	DET	DET	n=s|g=m	4	det	4	det
+2	plus	plus	ADV	ADV		3	mod	3	mod
+3	grand	grand	ADJ	ADJ	n=s|g=m	4	mod	4	mod
+4	stade	stade	NC	NC	n=s|g=m	8	suj	8	suj
+5	de	de	P	P		4	dep	4	dep
+6	la	la	DET	DET	n=s|g=f	7	det	7	det
+7	capitale	capitale	NC	NC	n=s|g=f	5	prep	5	prep
+8	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+9	le	le	DET	DET	n=s|g=m	10	det	10	det
+10	Parc	_	NPP	NPP		8	obj	8	obj
+11	des	de	P+D	P+D	n=p	8	mod	8	mod
+12	Princes	_	NPP	NPP		11	prep	11	prep
+13	.	.	PONCT	PONCT		12	ponct	12	ponct
+
+1	On	on	CLS	CLS	n=s|p=3	2	suj	2	suj
+2	trouve	trouver	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	aussi	aussi	ADV	ADV		2	mod	2	mod
+4	le	le	DET	DET	n=s|g=m	5	det	5	det
+5	stade	stade	NC	NC	n=s|g=m	2	obj	2	obj
+6	Jean-Bouin	_	NPP	NPP		5	mod	5	mod
+7	et	et	CC	CC		5	coord	5	coord
+8	le	le	DET	DET	n=s|g=m	9	det	9	det
+9	stade	stade	NC	NC	n=s|g=m	7	dep_coord	7	dep_coord
+10	Charléty	_	NPP	NPP		9	mod	9	mod
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	stade	stade	NC	NC	n=s|g=m	8	suj	8	suj
+3	de	de	P	P		2	dep	2	dep
+4	France	France	NPP	NPP	n=s|g=f,m	3	prep	3	prep
+5	n'	ne	ADV	ADV		8	mod	8	mod
+6	est	être	V	V	n=s|t=P|p=3	8	aux_tps	8	aux_tps
+7	pas	pas	ADV	ADV		8	mod	8	mod
+8	situé	situer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+9	à	à	P	P		8	mod	8	mod
+10	Paris	Paris	NPP	NPP	n=s|g=m	9	prep	9	prep
+11	mais	mais	CC	CC		8	coord	8	coord
+12	dans	dans	P	P		11	dep_coord	11	dep_coord
+13	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	14	det	14	det
+14	banlieue	banlieue	NC	NC	n=s|g=f	12	prep	12	prep
+15	à	à	P	P		14	dep	14	dep
+16	Saint-Denis	Saint-Denis	NPP	NPP	n=s|g=m	15	prep	15	prep
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+1	Chaque	chaque	DET	DET	n=s	2	det	2	det
+2	année	année	NC	NC	n=s|g=f	8	suj	8	suj
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	le	le	DET	DET	n=s|g=m	5	det	5	det
+5	Marathon	_	NPP	NPP		2	mod	2	mod
+6	de	de	P	P		2	dep	2	dep
+7	Paris	Paris	NPP	NPP	n=s|g=m	6	prep	6	prep
+8	a	avoir	V	V	n=s|t=P|p=3	0	root	0	root
+9	lieu	lieu	NC	NC	n=s|g=m	8	obj	8	obj
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	aux	à	P+D	P+D	n=p	8	mod	8	mod
+12	alentours	alentours	NC	NC	n=p|g=m	11	prep	11	prep
+13	du	de	P+D	P+D	n=s|g=m	8	mod	8	mod
+14	début	début	NC	NC	n=s|g=m	13	prep	13	prep
+15	avril	avril	NC	NC	n=s|g=m	14	mod	14	mod
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	ville	ville	NC	NC	n=s|g=f	6	suj	6	suj
+3	de	de	P	P		2	dep	2	dep
+4	Paris	Paris	NPP	NPP	n=s|g=m	3	prep	3	prep
+5	est	être	V	V	n=s|t=P|p=3	6	aux_tps	6	aux_tps
+6	équipée	équiper	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+7	d'	de	P	P		6	mod	6	mod
+8	un	un	DET	DET	n=s|g=m	9	det	9	det
+9	réseau	réseau	NC	NC	n=s|g=m	7	prep	7	prep
+10	de	de	P	P		6	mod	6	mod
+11	bus	bus	NC	NC	g=m	10	prep	10	prep
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	de	de	P	P		6	mod	6	mod
+14	trams	tram	NC	NC	n=p|g=m	13	prep	13	prep
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	de	de	P	P		6	mod	6	mod
+17	RER	_	NPP	NPP		16	prep	16	prep
+18	et	et	CC	CC		16	coord	16	coord
+19	de	de	P	P		18	dep_coord	18	dep_coord
+20	métro	métro	NC	NC	n=s|g=m	19	prep	19	prep
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	le	le	DET	DET	n=s|g=m	24	det	24	det
+23	plus	plus	ADV	ADV		24	mod	24	mod
+24	grand	grand	ADJ	ADJ	n=s|g=m	6	mod	6	mod
+25	de	de	P	P		6	mod	6	mod
+26	France	France	NPP	NPP	n=s|g=f,m	25	prep	25	prep
+27	,	,	PONCT	PONCT		26	ponct	26	ponct
+28	avec	avec	P	P		6	mod	6	mod
+29	près	près	ADV	ADV		0	_	0	_
+30	de	de	P	P		0	_	0	_
+31	90	90	NC	NC		30	prep	30	prep
+32	lignes	ligne	NC	NC	n=p|g=f	31	mod	31	mod
+33	de	de	P	P		31	dep	31	dep
+34	bus	bus	NC	NC	g=m	33	prep	33	prep
+35	dans	dans	P	P		34	dep	34	dep
+36	Paris	Paris	NPP	NPP	n=s|g=m	35	prep	35	prep
+37	,	,	PONCT	PONCT		36	ponct	36	ponct
+38	300	300	ADJ	ADJ		39	mod	39	mod
+39	lignes	ligne	NC	NC	n=p|g=f	36	mod	36	mod
+40	de	de	P	P		39	dep	39	dep
+41	bus	bus	NC	NC	g=m	40	prep	40	prep
+42	inter-banlieues	_	ADJ	ADJ		41	mod	41	mod
+43	,	,	PONCT	PONCT		42	ponct	42	ponct
+44	5	5	ADJ	ADJ		45	mod	45	mod
+45	lignes	ligne	NC	NC	n=p|g=f	36	mod	36	mod
+46	RER	_	NPP	NPP		45	mod	45	mod
+47	et	et	CC	CC		31	coord	31	coord
+48	16	16	ADJ	ADJ		49	mod	49	mod
+49	lignes	ligne	NC	NC	n=p|g=f	47	dep_coord	47	dep_coord
+50	de	de	P	P		49	dep	49	dep
+51	métros	métro	NC	NC	n=p|g=m	50	prep	50	prep
+52	.	.	PONCT	PONCT		51	ponct	51	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	métro	métro	NC	NC	n=s|g=m	5	suj	5	suj
+3	de	de	P	P		2	dep	2	dep
+4	Paris	Paris	NPP	NPP	n=s|g=m	3	prep	3	prep
+5	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+6	un	un	DET	DET	n=s|g=m	7	det	7	det
+7	moyen	moyen	NC	NC	n=s|g=m	5	obj	5	obj
+8	de	de	P	P		7	dep	7	dep
+9	transport	transport	NC	NC	n=s|g=m	8	prep	8	prep
+10	souterrain	souterrain	ADJ	ADJ	n=s|g=m	9	mod	9	mod
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	comportant	comporter	VPR	VPR	t=G	5	mod	5	mod
+13	14	14	ADJ	ADJ		12	mod	12	mod
+14	lignes	ligne	NC	NC	n=p|g=f	12	obj	12	obj
+15	(	(	PONCT	PONCT		14	ponct	14	ponct
+16	la	la	DET	DET	n=s|g=f	17	det	17	det
+17	première	premier	ADJ	ADJ	n=s|g=f	12	mod	12	mod
+18	a	avoir	V	V	n=s|t=P|p=3	20	aux_tps	20	aux_tps
+19	été	être	VPP	VPP	t=K	20	aux_pass	20	aux_pass
+20	ouverte	ouvrir	VPP	VPP	n=s|g=f|t=K	17	ponct	17	ponct
+21	en	en	P	P		20	mod	20	mod
+22	1900	1900	NC	NC		21	prep	21	prep
+23	)	)	PONCT	PONCT		22	ponct	22	ponct
+24	et	et	CC	CC		17	coord	17	coord
+25	près	près	ADV	ADV		26	mod	26	mod
+26	de	de	P	P		24	dep_coord	24	dep_coord
+27	300	300	ADJ	ADJ		28	mod	28	mod
+28	stations	station	NC	NC	n=p|g=f	26	prep	26	prep
+29	,	,	PONCT	PONCT		28	ponct	28	ponct
+30	dont	dont	PROREL	PROREL		33	mod	33	mod
+31	le	le	DET	DET	n=s|g=m	32	det	32	det
+32	nom	nom	NC	NC	n=s|g=m	33	suj	33	suj
+33	est	être	V	V	n=s|t=P|p=3	5	mod	5	mod
+34	généralement	_	ADV	ADV		33	mod	33	mod
+35	celui	celui	PRO	PRO	n=s|g=m	33	ats	33	ats
+36	des	de	P+D	P+D	n=p	35	dep	35	dep
+37	rues	rue	NC	NC	n=p|g=f	36	prep	36	prep
+38	et	et	CC	CC		35	coord	35	coord
+39	voies	voie	NC	NC	n=p|g=f	38	dep_coord	38	dep_coord
+40	les	les	DET	DET	n=p	42	det	42	det
+41	plus	plus	ADV	ADV		42	mod	42	mod
+42	proches	proche	ADJ	ADJ	n=p	33	mod	33	mod
+43	.	.	PONCT	PONCT		42	ponct	42	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	métro	métro	NC	NC	n=s|g=m	6	suj	6	suj
+3	de	de	P	P		2	dep	2	dep
+4	Paris	Paris	NPP	NPP	n=s|g=m	3	prep	3	prep
+5	est	être	V	V	n=s|t=P|p=3	6	aux_tps	6	aux_tps
+6	emprunté	emprunter	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+7	chaque	chaque	DET	DET	n=s	8	det	8	det
+8	année	année	NC	NC	n=s|g=f	6	obj	6	obj
+9	par	par	P	P		6	mod	6	mod
+10	près	près	ADV	ADV		0	_	0	_
+11	de	de	P	P		0	_	0	_
+12	1.4	1.4	NC	NC		11	prep	11	prep
+13	milliard	milliard	NC	NC	n=s|g=m	12	mod	12	mod
+14	de	de	P	P		12	dep	12	dep
+15	voyageurs	voyageur	NC	NC	n=p|g=m	14	prep	14	prep
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	3	suj	3	suj
+2	y	y	CLO	CLO		3	aff	3	aff
+3	a	avoir	V	V	n=s|t=P|p=3	0	root	0	root
+4	deux	deux	DET	DET	s=card|n=p	6	det	6	det
+5	grands	grand	ADJ	ADJ	n=p|g=m	6	mod	6	mod
+6	aéroports	aéroport	NC	NC	n=p|g=m	3	obj	3	obj
+7	en	en	P	P		6	dep	6	dep
+8	banlieue	banlieue	NC	NC	n=s|g=f	7	prep	7	prep
+9	de	de	P	P		3	mod	3	mod
+10	Paris	Paris	NPP	NPP	n=s|g=m	9	prep	9	prep
+11	:	:	PONCT	PONCT		10	ponct	10	ponct
+
+1	sept	sept	DET	DET	s=card|n=p	2	det	2	det
+2	gares	gare	NC	NC	n=p|g=f	8	suj	8	suj
+3	SNCF	SNCF	NPP	NPP	n=s|g=f	2	mod	2	mod
+4	/	/	PONCT	PONCT		3	ponct	3	ponct
+5	métros	métro	NC	NC	n=p|g=m	2	mod	2	mod
+6	/	/	PONCT	PONCT		5	ponct	5	ponct
+7	RER	_	NPP	NPP		2	mod	2	mod
+8	desservent	desservir	V	V	n=p|t=P,S|p=3	0	root	0	root
+9	Paris	Paris	NPP	NPP	n=s|g=m	8	obj	8	obj
+10	:	:	PONCT	PONCT		9	ponct	9	ponct
+
+1	Elles	elles	CLS	CLS	n=p|g=f|p=3	2	suj	2	suj
+2	totalisent	totaliser	V	V	n=p|t=P,S|p=3	0	root	0	root
+3	toutes	tout	ADJ	ADJ	n=p|g=f	5	mod	5	mod
+4	plusieurs	plusieurs	DET	DET	n=p	5	det	5	det
+5	millions	million	NC	NC	n=p	2	obj	2	obj
+6	de	de	P	P		5	dep	5	dep
+7	voyageurs	voyageur	NC	NC	n=p|g=m	6	prep	6	prep
+8	par	par	P	P		2	mod	2	mod
+9	an	an	NC	NC	n=s|g=m	8	prep	8	prep
+10	(	(	PONCT	PONCT		9	ponct	9	ponct
+11	exemple	exemple	NC	NC	n=s|g=m	2	mod	2	mod
+12	:	:	PONCT	PONCT		11	ponct	11	ponct
+13	Gare	gare	NC	NC	n=s|g=f	2	mod	2	mod
+14	du	de	P+D	P+D	n=s|g=m	13	dep	13	dep
+15	Nord	Nord	NPP	NPP	n=s|g=m	14	prep	14	prep
+16	avec	avec	P	P		2	mod	2	mod
+17	près	près	ADV	ADV		0	_	0	_
+18	de	de	P	P		0	_	0	_
+19	180	180	NC	NC		18	prep	18	prep
+20	millions	million	NC	NC	n=p	19	mod	19	mod
+21	de	de	P	P		19	dep	19	dep
+22	passagers	passager	NC	NC	n=p|g=m	21	prep	21	prep
+23	)	)	PONCT	PONCT		22	ponct	22	ponct
+24	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+1	Paris	_	NPP	NPP		6	suj	6	suj
+2	et	et	CC	CC		1	coord	1	coord
+3	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	5	det	5	det
+4	proche	proche	ADJ	ADJ	n=s	5	mod	5	mod
+5	banlieue	banlieue	NC	NC	n=s|g=f	2	dep_coord	2	dep_coord
+6	comptent	compter	V	V	n=p|t=P,S|p=3	0	root	0	root
+7	41	41	ADJ	ADJ		8	mod	8	mod
+8	hôpitaux	hôpital	NC	NC	n=p|g=m	6	obj	6	obj
+9	publics	public	ADJ	ADJ	n=p|g=m	8	mod	8	mod
+10	dépendants	dépendant	ADJ	ADJ	n=p|g=m	8	mod	8	mod
+11	de	de	P	P		8	dep	8	dep
+12	l'	le	DET	DET	n=s	13	det	13	det
+13	AP-HP	_	NPP	NPP		11	prep	11	prep
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+1	Ces	ces	DET	DET	n=p	2	det	2	det
+2	hôpitaux	hôpital	NC	NC	n=p|g=m	4	suj	4	suj
+3	réputés	réputer	ADJ	ADJ	n=p|g=m|t=K	2	mod	2	mod
+4	comptent	compter	V	V	n=p|t=P,S|p=3	0	root	0	root
+5	en	en	P	P		4	mod	4	mod
+6	tout	tout	PRO	PRO	n=s|g=m	5	prep	5	prep
+7	près	près	ADV	ADV		4	mod	4	mod
+8	de	de	P	P		4	mod	4	mod
+9	20_000	20_000	ADJ	ADJ		10	mod	10	mod
+10	médecins	médecin	NC	NC	n=p|g=m	8	prep	8	prep
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	et	et	CC	CC		4	coord	4	coord
+13	totalisent	totaliser	V	V	n=p|t=P,S|p=3	12	dep_coord	12	dep_coord
+14	plus	plus	ADV	ADV		13	mod	13	mod
+15	d'	de	P	P		13	mod	13	mod
+16	un_million	un_million	NC	NC		15	prep	15	prep
+17	de	de	P	P		13	mod	13	mod
+18	visites	visite	NC	NC	n=p|g=f	17	prep	17	prep
+19	chaque	chaque	DET	DET	n=s	20	det	20	det
+20	année	année	NC	NC	n=s|g=f	13	obj	13	obj
+21	.	.	PONCT	PONCT		20	ponct	20	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	fonctionnement	fonctionnement	NC	NC	n=s|g=m	8	suj	8	suj
+3	de	de	P	P		2	dep	2	dep
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	commune	commune	NC	NC	n=s|g=f	3	prep	3	prep
+6	de	de	P	P		5	dep	5	dep
+7	Paris	Paris	NPP	NPP	n=s|g=m	6	prep	6	prep
+8	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+9	différent	différent	ADJ	ADJ	n=s|g=m	8	ats	8	ats
+10	de	de	P	P		8	mod	8	mod
+11	celui	celui	PRO	PRO	n=s|g=m	10	prep	10	prep
+12	des	de	P+D	P+D	n=p	11	dep	11	dep
+13	autres	autre	ADJ	ADJ	n=p	14	mod	14	mod
+14	communes	commune	NC	NC	n=p|g=f	12	prep	12	prep
+15	de	de	P	P		8	mod	8	mod
+16	France	France	NPP	NPP	n=s|g=f,m	15	prep	15	prep
+17	car	car	CS	CS		8	mod	8	mod
+18	la	la	DET	DET	n=s|g=f	19	det	19	det
+19	capitale	capitale	NC	NC	n=s|g=f	20	suj	20	suj
+20	est	être	V	V	n=s|t=P|p=3	17	sub	17	sub
+21	à	à	P	P		20	mod	20	mod
+22	la	la	DET	DET	n=s|g=f	23	det	23	det
+23	fois	fois	NC	NC	g=f	21	prep	21	prep
+24	une	une	DET	DET	n=s|g=f	25	det	25	det
+25	commune	commune	NC	NC	n=s|g=f	20	obj	20	obj
+26	et	et	CC	CC		25	coord	25	coord
+27	un	un	DET	DET	n=s|g=m	28	det	28	det
+28	département	département	NC	NC	n=s|g=m	26	dep_coord	26	dep_coord
+29	.	.	PONCT	PONCT		28	ponct	28	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	ville	ville	NC	NC	n=s|g=f	4	suj	4	suj
+3	est	être	V	V	n=s|t=P|p=3	4	aux_pass	4	aux_pass
+4	découpée	découper	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+5	en	en	P	P		4	mod	4	mod
+6	vingt	vingt	DET	DET	s=card|n=p	7	det	7	det
+7	arrondissements	arrondissement	NC	NC	n=p|g=m	5	prep	5	prep
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	qui	qui	PROREL	PROREL	n=s	11	suj	11	suj
+10	sont	être	V	V	n=p|t=P|p=3	11	aux_pass	11	aux_pass
+11	dirigés	diriger	VPP	VPP	n=p|g=m|t=K	7	mod_rel	7	mod_rel
+12	par	par	P	P		11	mod	11	mod
+13	un	un	DET	DET	n=s|g=m	14	det	14	det
+14	maire	maire	NC	NC	n=s|g=m	12	prep	12	prep
+15	élu	élire	VPP	VPP	n=s|g=m|t=K	14	mod	14	mod
+16	au	à	P+D	P+D	n=s|g=m	15	mod	15	mod
+17	suffrage	suffrage	NC	NC	n=s|g=m	16	prep	16	prep
+18	universel	universel	ADJ	ADJ	n=s|g=m	17	mod	17	mod
+19	direct	direct	ADJ	ADJ	n=s|g=m	17	mod	17	mod
+20	comme	comme	P	P		15	mod	15	mod
+21	dans	dans	P	P		20	dep	20	dep
+22	une	une	DET	DET	n=s|g=f	23	det	23	det
+23	commune	commune	NC	NC	n=s|g=f	21	prep	21	prep
+24	normale	normal	ADJ	ADJ	n=s|g=f	23	mod	23	mod
+25	,	,	PONCT	PONCT		24	ponct	24	ponct
+26	lors	lors	ADV	ADV		28	mod	28	mod
+27	des	des	DET	DET	n=p	28	det	28	det
+28	élections	élection	NC	NC	n=p|g=f	11	mod	11	mod
+29	municipales	municipal	ADJ	ADJ	n=p|g=f	28	mod	28	mod
+30	.	.	PONCT	PONCT		29	ponct	29	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	commune	commune	NC	NC	n=s|g=f	3	suj	3	suj
+3	dispose	disposer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	un	un	DET	DET	n=s|g=m	5	det	5	det
+5	conseil	conseil	NC	NC	n=s|g=m	3	obj	3	obj
+6	dont	dont	PROREL	PROREL		10	mod	10	mod
+7	les	les	DET	DET	n=p	8	det	8	det
+8	membres	membre	NC	NC	n=p|g=m	10	suj	10	suj
+9	sont	être	V	V	n=p|t=P|p=3	10	aux_tps	10	aux_tps
+10	appelés	appeler	VPP	VPP	n=p|g=m|t=K	5	mod_rel	5	mod_rel
+11	conseillers	conseiller	NC	NC	n=p|g=m	10	mod	10	mod
+12	et	et	CC	CC		3	coord	3	coord
+13	sont	être	V	V	n=p|t=P|p=3	12	dep_coord	12	dep_coord
+14	au	à	P+D	P+D	n=s|g=m	13	mod	13	mod
+15	nombre	nombre	NC	NC	n=s|g=m	14	prep	14	prep
+16	de	de	P	P		13	mod	13	mod
+17	163	163	NC	NC		16	prep	16	prep
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	conseil	conseil	NC	NC	n=s|g=m	5	suj	5	suj
+3	de	de	P	P		2	dep	2	dep
+4	Paris	Paris	NPP	NPP	n=s|g=m	3	prep	3	prep
+5	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+6	l'	le	DET	DET	n=s	7	det	7	det
+7	organe	organe	NC	NC	n=s|g=m	5	obj	5	obj
+8	délibérant	délibérer	VPR	VPR	t=G	7	mod	7	mod
+9	de	de	P	P		8	mod	8	mod
+10	la	la	DET	DET	n=s|g=f	11	det	11	det
+11	commune	commune	NC	NC	n=s|g=f	9	prep	9	prep
+12	et	et	CC	CC		7	coord	7	coord
+13	les	les	DET	DET	n=p	14	det	14	det
+14	conseillers	conseiller	NC	NC	n=p|g=m	12	dep_coord	12	dep_coord
+15	de	de	P	P		14	dep	14	dep
+16	Paris	Paris	NPP	NPP	n=s|g=m	15	prep	15	prep
+17	sont	être	V	V	n=p|t=P|p=3	18	aux_pass	18	aux_pass
+18	élus	élire	VPP	VPP	n=p|g=m|t=K	12	dep_coord	12	dep_coord
+19	pour	pour	P	P		18	mod	18	mod
+20	un	un	DET	DET	n=s|g=m	21	det	21	det
+21	mandat	mandat	NC	NC	n=s|g=m	19	prep	19	prep
+22	de	de	P	P		18	mod	18	mod
+23	6	6	ADJ	ADJ		24	mod	24	mod
+24	ans	an	NC	NC	n=p|g=m	22	prep	22	prep
+25	renouvelable	renouvelable	ADJ	ADJ	n=s	24	mod	24	mod
+26	.	.	PONCT	PONCT		25	ponct	25	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	conseil	conseil	NC	NC	n=s|g=m	6	suj	6	suj
+3	de	de	P	P		2	dep	2	dep
+4	Paris	Paris	NPP	NPP	n=s|g=m	3	prep	3	prep
+5	est	être	V	V	n=s|t=P|p=3	6	aux_tps	6	aux_tps
+6	présidé	présider	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+7	par	par	P	P		6	mod	6	mod
+8	le	le	DET	DET	n=s|g=m	9	det	9	det
+9	maire	maire	NC	NC	n=s|g=m	7	prep	7	prep
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	4	suj	4	suj
+2	était	être	V	V	n=s|t=I|p=3	4	aux_tps	4	aux_tps
+3	toutefois	toutefois	ADV	ADV		4	mod	4	mod
+4	dirigé	diriger	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+5	par	par	P	P		4	mod	4	mod
+6	un	un	DET	DET	n=s|g=m	7	det	7	det
+7	président	président	NC	NC	n=s|g=m	5	prep	5	prep
+8	(	(	PONCT	PONCT		7	ponct	7	ponct
+9	élu	élire	VPP	VPP	n=s|g=m|t=K	7	mod	7	mod
+10	pour	pour	P	P		9	mod	9	mod
+11	un	un	DET	DET	n=s|g=m	12	det	12	det
+12	an	an	NC	NC	n=s|g=m	10	prep	10	prep
+13	)	)	PONCT	PONCT		12	ponct	12	ponct
+14	de	de	P	P		9	mod	9	mod
+15	1968	1968	NC	NC		14	prep	14	prep
+16	à	à	P	P		9	mod	9	mod
+17	1977	1977	NC	NC		16	prep	16	prep
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	Paris	_	NPP	NPP		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	une	une	DET	DET	n=s|g=f	4	det	4	det
+4	mégalopole	mégalopole	NC	NC	n=s|g=f	2	obj	2	obj
+5	avec	avec	P	P		2	mod	2	mod
+6	l'	le	DET	DET	n=s	7	det	7	det
+7	Île-de-France	_	NPP	NPP		5	prep	5	prep
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	où	où	PROREL	PROREL		11	suj	11	suj
+10	sont	être	V	V	n=p|t=P|p=3	11	aux_tps	11	aux_tps
+11	installés	installer	VPP	VPP	n=p|g=m|t=K	2	mod	2	mod
+12	nombre	nombre	NC	NC	n=s|g=m	11	mod	11	mod
+13	de	de	P	P		11	mod	11	mod
+14	sièges	siège	NC	NC	n=p|g=m	13	prep	13	prep
+15	de	de	P	P		11	mod	11	mod
+16	sociétés	société	NC	NC	n=p|g=f	15	prep	15	prep
+17	importantes	important	ADJ	ADJ	n=p|g=f	16	mod	16	mod
+18	(	(	PONCT	PONCT		17	ponct	17	ponct
+19	Elf	_	NPP	NPP		2	mod	2	mod
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	Axa	_	NPP	NPP		19	mod	19	mod
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+23	Société	_	NPP	NPP		19	mod	19	mod
+24	Générale	_	NPP	NPP		19	mod	19	mod
+25	...	...	PONCT	PONCT		24	ponct	24	ponct
+26	)	)	PONCT	PONCT		24	ponct	24	ponct
+27	,	,	PONCT	PONCT		24	ponct	24	ponct
+28	en	en	P	P		2	mod	2	mod
+29	particulier	particulier	NC	NC	n=s|g=m	28	prep	28	prep
+30	dans	dans	P	P		2	mod	2	mod
+31	le	le	DET	DET	n=s|g=m	32	det	32	det
+32	quartier	quartier	NC	NC	n=s|g=m	30	prep	30	prep
+33	d'	de	P	P		2	mod	2	mod
+34	affaires	affaire	NC	NC	n=p|g=f	33	prep	33	prep
+35	de	de	P	P		2	mod	2	mod
+36	Paris	Paris	NPP	NPP	n=s|g=m	35	prep	35	prep
+37	-La	la	DET	DET	n=s|g=f	38	det	38	det
+38	Défense	_	NPP	NPP		0	_	0	_
+39	,	,	PONCT	PONCT		38	ponct	38	ponct
+40	géographiquement	_	ADV	ADV		41	mod	41	mod
+41	situé	situer	VPP	VPP	n=s|g=m|t=K	38	mod	38	mod
+42	à	à	P	P		41	mod	41	mod
+43	l'	le	DET	DET	n=s	44	det	44	det
+44	ouest	ouest	NC	NC	n=s|g=m	42	prep	42	prep
+45	de	de	P	P		41	mod	41	mod
+46	Paris	Paris	NPP	NPP	n=s|g=m	45	prep	45	prep
+47	dans	dans	P	P		41	mod	41	mod
+48	les	les	DET	DET	n=p	49	det	49	det
+49	Hauts-de-Seine	Hauts-de-Seine	NPP	NPP	n=p|g=m	47	prep	47	prep
+50	.	.	PONCT	PONCT		49	ponct	49	ponct
+
+1	Sa	sa	DET	DET	n=s|g=f|p=3|poss=s	3	det	3	det
+2	grande	grand	ADJ	ADJ	n=s|g=f	3	mod	3	mod
+3	rivale	rival	NC	NC	n=s|g=f	13	suj	13	suj
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	Londres	Londres	NPP	NPP	n=s|g=m	3	mod	3	mod
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	qui	qui	PROREL	PROREL	n=s	8	suj	8	suj
+8	possède	posséder	V	V	n=s|t=P,S|p=1,3	3	mod_rel	3	mod_rel
+9	moins	moins	ADV	ADV		8	mod	8	mod
+10	de	de	P	P		8	mod	8	mod
+11	bureaux	bureau	NC	NC	n=p|g=m	10	prep	10	prep
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+14	deuxième	deuxième	ADJ	ADJ	n=s	13	ats	13	ats
+15	derrière	derrière	P	P		13	mod	13	mod
+16	Paris	Paris	NPP	NPP	n=s|g=m	15	prep	15	prep
+17	par	par	P	P		13	mod	13	mod
+18	le	le	DET	DET	n=s|g=m	19	det	19	det
+19	nombre	nombre	NC	NC	n=s|g=m	17	prep	17	prep
+20	d'	de	P	P		19	dep	19	dep
+21	emplois	emploi	NC	NC	n=p|g=m	20	prep	20	prep
+22	créés	créer	VPP	VPP	n=p|g=m|t=K	21	mod	21	mod
+23	et	et	CC	CC		13	coord	13	coord
+24	a	avoir	V	V	n=s|t=P|p=3	23	dep_coord	23	dep_coord
+25	plus	plus	ADV	ADV		24	mod	24	mod
+26	d'	de	DET	DET	n=p	27	det	27	det
+27	entreprises	entreprise	NC	NC	n=p|g=f	24	obj	24	obj
+28	classées	classer	VPP	VPP	n=p|g=f|t=K	27	mod	27	mod
+29	Fortune	Fortune	NPP	NPP	n=s|g=f	27	mod	27	mod
+30	500	500	ADJ	ADJ		27	mod	27	mod
+31	.	.	PONCT	PONCT		30	ponct	30	ponct
+
+1	Paris	_	NPP	NPP		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	la	la	DET	DET	n=s|g=f	5	det	5	det
+4	deuxième	deuxième	ADJ	ADJ	n=s	5	mod	5	mod
+5	capitale	capitale	NC	NC	n=s|g=f	2	obj	2	obj
+6	la	la	DET	DET	n=s|g=f	8	det	8	det
+7	plus	plus	ADV	ADV		8	mod	8	mod
+8	chère	cher	ADJ	ADJ	n=s|g=f	5	mod	5	mod
+9	d'	de	P	P		2	mod	2	mod
+10	Europe	Europe	NPP	NPP	n=s|g=f	9	prep	9	prep
+11	après	après	P	P		2	mod	2	mod
+12	Londres	Londres	NPP	NPP	n=s|g=m	11	prep	11	prep
+13	.	.	PONCT	PONCT		12	ponct	12	ponct
+
+1	Paris	_	NPP	NPP		2	suj	2	suj
+2	a	avoir	V	V	n=s|t=P|p=3	0	root	0	root
+3	un	un	DET	DET	n=s|g=m	4	det	4	det
+4	jumelage	jumelage	NC	NC	n=s|g=m	2	obj	2	obj
+5	original	original	ADJ	ADJ	n=s|g=m	4	mod	4	mod
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	elle	elle	CLS	CLS	n=s|g=f|p=3	10	suj	10	suj
+8	n'	ne	ADV	ADV		10	mod	10	mod
+9	est	être	V	V	n=s|t=P|p=3	10	aux_tps	10	aux_tps
+10	jumelée	jumeler	VPP	VPP	n=s|g=f|t=K	2	mod	2	mod
+11	qu'	que	CS	CS		2	mod	2	mod
+12	avec	avec	P	P		14	mod	14	mod
+13	Rome	Rome	NPP	NPP	n=s|g=m	12	prep	12	prep
+14	voici	voici	V	V		11	sub	11	sub
+15	le	le	DET	DET	n=s|g=m	16	det	16	det
+16	slogan	slogan	NC	NC	n=s|g=m	14	obj	14	obj
+17	du	de	P+D	P+D	n=s|g=m	16	dep	16	dep
+18	jumelage	jumelage	NC	NC	n=s|g=m	17	prep	17	prep
+19	:	:	PONCT	PONCT		18	ponct	18	ponct
+20	"	"	PONCT	PONCT		18	ponct	18	ponct
+21	Seule	seul	ADJ	ADJ	n=s|g=f	22	mod	22	mod
+22	Paris	Paris	NPP	NPP	n=s|g=m	23	suj	23	suj
+23	est	être	V	V	n=s|t=P|p=3	11	root	11	root
+24	digne	digne	ADJ	ADJ	n=s	23	ats	23	ats
+25	de	de	P	P		23	mod	23	mod
+26	Rome	Rome	NPP	NPP	n=s|g=m	25	prep	25	prep
+27	et	et	CC	CC		23	coord	23	coord
+28	seule	seul	ADJ	ADJ	n=s|g=f	27	dep_coord	27	dep_coord
+29	Rome	Rome	NPP	NPP	n=s|g=m	30	suj	30	suj
+30	est	être	V	V	n=s|t=P|p=3	23	mod	23	mod
+31	digne	digne	ADJ	ADJ	n=s	30	ats	30	ats
+32	de	de	P	P		30	mod	30	mod
+33	Paris	Paris	NPP	NPP	n=s|g=m	32	prep	32	prep
+34	"	"	PONCT	PONCT		33	ponct	33	ponct
+35	néanmoins	néanmoins	ADV	ADV		37	mod	37	mod
+36	la	la	DET	DET	n=s|g=f	37	det	37	det
+37	commune	commune	NC	NC	n=s|g=f	30	mod	30	mod
+38	a	avoir	V	V	n=s|t=P|p=3	39	aux_tps	39	aux_tps
+39	conclu	conclure	VPP	VPP	n=s|g=m|t=K	37	mod_rel	37	mod_rel
+40	de	de	DET	DET	n=p	42	det	42	det
+41	nombreux	nombreux	ADJ	ADJ	g=m	42	mod	42	mod
+42	accords	accord	NC	NC	n=p|g=m	39	obj	39	obj
+43	d'	de	P	P		39	mod	39	mod
+44	amitié	amitié	NC	NC	n=s|g=f	43	prep	43	prep
+45	et	et	CC	CC		43	coord	43	coord
+46	de	de	P	P		45	dep_coord	45	dep_coord
+47	coopération	coopération	NC	NC	n=s|g=f	46	prep	46	prep
+48	dans	dans	P	P		39	mod	39	mod
+49	le	le	DET	DET	n=s|g=m	50	det	50	det
+50	monde	monde	NC	NC	n=s|g=m	48	prep	48	prep
+51	entier	entier	ADJ	ADJ	n=s|g=m	50	mod	50	mod
+52	.	.	PONCT	PONCT		51	ponct	51	ponct
+

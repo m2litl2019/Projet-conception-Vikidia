@@ -1,0 +1,1884 @@
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	manx	_	NC	NC		17	suj	17	suj
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	également	_	ADV	ADV		5	mod	5	mod
+5	appelé	appeler	VPP	VPP	n=s|g=m|t=K	2	mod	2	mod
+6	chat	chat	NC	NC	n=s|g=m	5	mod	5	mod
+7	de	de	P	P		5	mod	5	mod
+8	l'	le	DET	DET	n=s	9	det	9	det
+9	Île	île	NC	NC	n=s|g=f	7	prep	7	prep
+10	de	de	P	P		5	mod	5	mod
+11	Man	_	NPP	NPP		10	prep	10	prep
+12	et	et	CC	CC		5	coord	5	coord
+13	anciennement	_	ADV	ADV		14	mod	14	mod
+14	orthographié	orthographier	ADJ	ADJ	n=s|g=m|t=K	12	dep_coord	12	dep_coord
+15	manks	_	NC	NC		2	mod	2	mod
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+18	une	une	DET	DET	n=s|g=f	19	det	19	det
+19	race	race	NC	NC	n=s|g=f	17	obj	17	obj
+20	de	de	P	P		17	mod	17	mod
+21	chat	chat	NC	NC	n=s|g=m	20	prep	20	prep
+22	à	à	P	P		17	mod	17	mod
+23	poil	poil	NC	NC	n=s|g=m	22	prep	22	prep
+24	court	court	ADJ	ADJ	n=s|g=m	23	mod	23	mod
+25	originaire	originaire	ADJ	ADJ	n=s	23	mod	23	mod
+26	de	de	P	P		17	mod	17	mod
+27	l'	le	DET	DET	n=s	28	det	28	det
+28	Île	île	NC	NC	n=s|g=f	26	prep	26	prep
+29	de	de	P	P		17	mod	17	mod
+30	Man	_	NPP	NPP		29	prep	29	prep
+31	(	(	PONCT	PONCT		30	ponct	30	ponct
+32	Îles	île	NC	NC	n=p|g=f	17	mod	17	mod
+33	Britanniques	britannique	NC	NC	n=p	32	mod	32	mod
+34	)	)	PONCT	PONCT		33	ponct	33	ponct
+35	.	.	PONCT	PONCT		33	ponct	33	ponct
+
+1	Ce	ce	DET	DET	n=s|g=m	2	det	2	det
+2	chat	chat	NC	NC	n=s|g=m	9	suj	9	suj
+3	de	de	P	P		2	dep	2	dep
+4	taille	taille	NC	NC	n=s|g=f	3	prep	3	prep
+5	moyenne	moyen	ADJ	ADJ	n=s|g=f	4	mod	4	mod
+6	à	à	P	P		2	dep	2	dep
+7	grande	grand	ADJ	ADJ	n=s|g=f	6	prep	6	prep
+8	est	être	V	V	n=s|t=P|p=3	9	aux_tps	9	aux_tps
+9	caractérisé	caractériser	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+10	par	par	P	P		9	mod	9	mod
+11	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	12	det	12	det
+12	silhouette	silhouette	NC	NC	n=s|g=f	10	prep	10	prep
+13	ronde	rond	ADJ	ADJ	n=s|g=f	12	mod	12	mod
+14	et	et	CC	CC		9	coord	9	coord
+15	par	par	P	P		14	dep_coord	14	dep_coord
+16	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	17	det	17	det
+17	queue	queue	NC	NC	n=s|g=f	15	prep	15	prep
+18	très	très	ADV	ADV		19	mod	19	mod
+19	courte	court	ADJ	ADJ	n=s|g=f	17	mod	17	mod
+20	voire	voire	CC	CC		19	coord	19	coord
+21	absente	absent	ADJ	ADJ	n=s|g=f	20	dep_coord	20	dep_coord
+22	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+1	Reconnue	reconnaître	VPP	VPP	n=s|g=f|t=K	11	mod	11	mod
+2	depuis	depuis	P	P		1	mod	1	mod
+3	la	la	DET	DET	n=s|g=f	4	det	4	det
+4	fin	fin	NC	NC	n=s	2	prep	2	prep
+5	du	de	P+D	P+D	n=s|g=m	1	mod	1	mod
+6	XIXe	_	ADJ	ADJ		7	mod	7	mod
+7	siècle	siècle	NC	NC	n=s|g=m	5	prep	5	prep
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	cette	cette	DET	DET	n=s|g=f	10	det	10	det
+10	race	race	NC	NC	n=s|g=f	11	suj	11	suj
+11	fit	faire	V	V	n=s|t=J|p=3	0	root	0	root
+12	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	14	det	14	det
+13	première	premier	ADJ	ADJ	n=s|g=f	14	mod	14	mod
+14	exposition	exposition	NC	NC	n=s|g=f	11	obj	11	obj
+15	dès	dès	P	P		11	mod	11	mod
+16	1883	1883	NC	NC		15	prep	15	prep
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	puis	puis	CC	CC		11	coord	11	coord
+19	la	la	DET	DET	n=s|g=f	20	det	20	det
+20	race	race	NC	NC	n=s|g=f	22	suj	22	suj
+21	est	être	V	V	n=s|t=P|p=3	22	aux_pass	22	aux_pass
+22	remarquée	remarquer	VPP	VPP	n=s|g=f|t=K	18	dep_coord	18	dep_coord
+23	par	par	P	P		22	mod	22	mod
+24	les	les	DET	DET	n=p	25	det	25	det
+25	éleveurs	éleveur	NC	NC	n=p|g=m	23	prep	23	prep
+26	anglais	anglais	ADJ	ADJ	g=m	25	mod	25	mod
+27	qui	qui	PROREL	PROREL	n=s	28	suj	28	suj
+28	créèrent	créer	V	V	n=p|t=J|p=3	25	mod_rel	25	mod_rel
+29	le	le	DET	DET	n=s|g=m	30	det	30	det
+30	Manx	_	NPP	NPP		28	suj	28	suj
+31	Club	_	NPP	NPP		30	mod	30	mod
+32	de	de	P	P		28	mod	28	mod
+33	Grande-Bretagne	Grande-Bretagne	NPP	NPP	n=s|g=f	32	prep	32	prep
+34	en	en	P	P		28	mod	28	mod
+35	1901	1901	NC	NC		34	prep	34	prep
+36	.	.	PONCT	PONCT		35	ponct	35	ponct
+
+1	Cette	cette	DET	DET	n=s|g=f	2	det	2	det
+2	race	race	NC	NC	n=s|g=f	10	suj	10	suj
+3	qui	qui	PROREL	PROREL	n=s	5	suj	5	suj
+4	avait	avoir	V	V	n=s|t=I|p=3	5	aux_tps	5	aux_tps
+5	séduit	séduire	VPP	VPP	n=s|g=m|t=K	2	mod_rel	2	mod_rel
+6	le	le	DET	DET	n=s|g=m	7	det	7	det
+7	roi	roi	NC	NC	n=s|g=m	5	obj	5	obj
+8	Édouard	Édouard	NPP	NPP	n=s|g=m	7	mod	7	mod
+9	VIII	_	NPP	NPP		7	mod	7	mod
+10	était	être	V	V	n=s|t=I|p=3	0	root	0	root
+11	à	à	P	P		10	mod	10	mod
+12	la	la	DET	DET	n=s|g=f	13	det	13	det
+13	mode	mode	NC	NC	n=s	11	prep	11	prep
+14	dans	dans	P	P		10	mod	10	mod
+15	les	les	DET	DET	n=p	16	det	16	det
+16	années	année	NC	NC	n=p|g=f	14	prep	14	prep
+17	1920-1930	1920-1930	NC	NC		16	mod	16	mod
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	Malheureusement	_	ADV	ADV		9	mod	9	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	la	la	DET	DET	n=s|g=f	4	det	4	det
+4	popularité	popularité	NC	NC	n=s|g=f	9	suj	9	suj
+5	du	de	P+D	P+D	n=s|g=m	4	dep	4	dep
+6	chat	chat	NC	NC	n=s|g=m	5	prep	5	prep
+7	sans	sans	P	P		6	dep	6	dep
+8	queue	queue	NC	NC	n=s|g=f	7	prep	7	prep
+9	a	avoir	V	V	n=s|t=P|p=3	0	root	0	root
+10	depuis	depuis	P	P		9	mod	9	mod
+11	immensément	_	ADV	ADV		12	mod	12	mod
+12	baissé	baisser	VPP	VPP	n=s|g=m|t=K	10	prep	10	prep
+13	et	et	CC	CC		9	coord	9	coord
+14	elle	elle	CLS	CLS	n=s|g=f|p=3	15	suj	15	suj
+15	est	être	V	V	n=s|t=P|p=3	13	dep_coord	13	dep_coord
+16	maintenant	maintenant	ADV	ADV		15	mod	15	mod
+17	l'	le	DET	DET	n=s	18	det	18	det
+18	une	un	PRO	PRO	n=s|g=f	15	ats	15	ats
+19	des	de	P+D	P+D	n=p	18	dep	18	dep
+20	races	race	NC	NC	n=p|g=f	19	prep	19	prep
+21	les	les	DET	DET	n=p	22	det	22	det
+22	moins	moins	ADV	ADV		23	mod	23	mod
+23	vendues	vendre	VPP	VPP	n=p|g=f|t=K	15	mod	15	mod
+24	dans	dans	P	P		23	mod	23	mod
+25	le	le	DET	DET	n=s|g=m	26	det	26	det
+26	monde	monde	NC	NC	n=s|g=m	24	prep	24	prep
+27	.	.	PONCT	PONCT		26	ponct	26	ponct
+
+1	Cependant	cependant	ADV	ADV		4	mod	4	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	elle	elle	CLS	CLS	n=s|g=f|p=3	4	suj	4	suj
+4	semble	sembler	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+5	à	à	P	P		4	mod	4	mod
+6	nouveau	nouveau	ADJ	ADJ	n=s|g=m	8	mod	8	mod
+7	se	se	CLR	CLR	n=p,s|p=3	8	aff	8	aff
+8	développer	développer	VINF	VINF	t=W	5	prep	5	prep
+9	.	.	PONCT	PONCT		8	ponct	8	ponct
+
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	élevage	élevage	NC	NC	n=s|g=m	6	suj	6	suj
+3	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+4	chat	chat	NC	NC	n=s|g=m	3	prep	3	prep
+5	manx	_	NPP	NPP		4	mod	4	mod
+6	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+7	simple	simple	ADJ	ADJ	n=s	6	ats	6	ats
+8	et	et	CC	CC		6	coord	6	coord
+9	se	se	CLR	CLR	n=p,s|p=3	10	aff	10	aff
+10	caractérise	caractériser	V	V	n=s|t=P,S|p=1,3	8	dep_coord	8	dep_coord
+11	par	par	P	P		10	mod	10	mod
+12	un	un	DET	DET	n=s|g=m	14	det	14	det
+13	simple	simple	ADJ	ADJ	n=s	14	mod	14	mod
+14	brossage	brossage	NC	NC	n=s|g=m	11	prep	11	prep
+15	hebdomadaire	hebdomadaire	ADJ	ADJ	n=s	14	mod	14	mod
+16	de	de	P	P		10	mod	10	mod
+17	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	18	det	18	det
+18	fourrure	fourrure	NC	NC	n=s|g=f	16	prep	16	prep
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	manx	_	NC	NC		4	suj	4	suj
+3	n'	ne	ADV	ADV		4	mod	4	mod
+4	a	avoir	V	V	n=s|t=P|p=3	0	root	0	root
+5	pas	pas	ADV	ADV		4	mod	4	mod
+6	de	de	P	P		4	mod	4	mod
+7	problème	problème	NC	NC	n=s|g=m	6	prep	6	prep
+8	de	de	P	P		4	mod	4	mod
+9	santé	santé	NC	NC	n=s|g=f	8	prep	8	prep
+10	particulier	particulier	ADJ	ADJ	n=s|g=m	9	mod	9	mod
+11	et	et	CC	CC		4	coord	4	coord
+12	atteint	atteindre	V	V	n=s|t=P|p=3	11	dep_coord	11	dep_coord
+13	même	même	ADV	ADV		14	mod	14	mod
+14	fréquemment	_	ADV	ADV		12	mod	12	mod
+15	les	les	DET	DET	n=p	17	det	17	det
+16	20	20	ADJ	ADJ		17	mod	17	mod
+17	ans	an	NC	NC	n=p|g=m	12	obj	12	obj
+18	de	de	P	P		17	dep	17	dep
+19	vie	vie	NC	NC	n=s|g=f	18	prep	18	prep
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	manx	_	NC	NC		3	suj	3	suj
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	un	un	DET	DET	n=s|g=m	5	det	5	det
+5	chat	chat	NC	NC	n=s|g=m	3	obj	3	obj
+6	facile	facile	ADJ	ADJ	n=s	5	mod	5	mod
+7	à	à	P	P		3	mod	3	mod
+8	vivre	vivre	VINF	VINF	t=W	7	prep	7	prep
+9	et	et	CC	CC		3	coord	3	coord
+10	équilibré	équilibrer	ADJ	ADJ	n=s|g=m|t=K	9	dep_coord	9	dep_coord
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	comme	comme	P	P		3	mod	3	mod
+13	l'	le	DET	DET	n=s	14	det	14	det
+14	européen	européen	ADJ	ADJ	n=s|g=m	12	prep	12	prep
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+1	On	on	CLS	CLS	n=s|p=3	2	suj	2	suj
+2	peut	pouvoir	V	V	n=s|t=P|p=3	0	root	0	root
+3	même	même	ADV	ADV		2	mod	2	mod
+4	remarquer	remarquer	VINF	VINF	t=W	2	obj	2	obj
+5	une	une	DET	DET	n=s|g=f	6	det	6	det
+6	ressemblance	ressemblance	NC	NC	n=s|g=f	4	obj	4	obj
+7	entre	entre	P	P		4	mod	4	mod
+8	ces	ces	DET	DET	n=p	10	det	10	det
+9	deux	deux	ADJ	ADJ	s=card|n=p	10	mod	10	mod
+10	races	race	NC	NC	n=p|g=f	7	prep	7	prep
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	l'	le	DET	DET	n=s	13	det	13	det
+13	absence	absence	NC	NC	n=s|g=f	0	_	0	_
+14	de	de	P	P		13	dep	13	dep
+15	queue	queue	NC	NC	n=s|g=f	14	prep	14	prep
+16	du	de	P+D	P+D	n=s|g=m	13	dep	13	dep
+17	premier	premier	ADJ	ADJ	n=s|g=m	0	_	0	_
+18	étant	être	VPR	VPR	t=G	17	mod	17	mod
+19	sans	sans	P	P		18	mod	18	mod
+20	aucun	aucun	DET	DET	n=s|g=m	21	det	21	det
+21	doute	doute	NC	NC	n=s|g=m	19	prep	19	prep
+22	la	la	DET	DET	n=s|g=f	23	det	23	det
+23	différence	différence	NC	NC	n=s|g=f	18	obj	18	obj
+24	la	la	DET	DET	n=s|g=f	26	det	26	det
+25	plus	plus	ADV	ADV		26	mod	26	mod
+26	flagrante	flagrant	ADJ	ADJ	n=s|g=f	23	mod	23	mod
+27	.	.	PONCT	PONCT		26	ponct	26	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	peut	pouvoir	V	V	n=s|t=P|p=3	0	root	0	root
+3	aussi	aussi	ADV	ADV		2	mod	2	mod
+4	être	être	VINF	VINF	t=W	5	aux_pass	5	aux_pass
+5	confondu	confondre	VPP	VPP	n=s|g=m|t=K	2	obj	2	obj
+6	avec	avec	P	P		5	mod	5	mod
+7	le	le	DET	DET	n=s|g=m	8	det	8	det
+8	bobtail	_	NC	NC		6	prep	6	prep
+9	japonais	japonais	ADJ	ADJ	g=m	8	mod	8	mod
+10	;	;	PONCT	PONCT		9	ponct	9	ponct
+11	les	les	DET	DET	n=p	12	det	12	det
+12	détails	détail	NC	NC	n=p|g=m	5	mod	5	mod
+13	les	les	DET	DET	n=p	14	det	14	det
+14	discernant	discernant	NC	NC	n=s|g=m	5	mod	5	mod
+15	sont	être	V	V	n=p|t=P|p=3	2	mod	2	mod
+16	l'	le	DET	DET	n=s	17	det	17	det
+17	allure	allure	NC	NC	n=s|g=f	15	obj	15	obj
+18	moins	moins	ADV	ADV		19	mod	19	mod
+19	trapue	trapu	ADJ	ADJ	n=s|g=f	17	mod	17	mod
+20	du	de	P+D	P+D	n=s|g=m	17	dep	17	dep
+21	dernier	dernier	ADJ	ADJ	n=s|g=m	20	prep	20	prep
+22	et	et	CC	CC		17	coord	17	coord
+23	la	la	DET	DET	n=s|g=f	24	det	24	det
+24	queue	queue	NC	NC	n=s|g=f	22	dep_coord	22	dep_coord
+25	enroulée	enrouler	VPP	VPP	n=s|g=f|t=K	24	mod	24	mod
+26	sur	sur	P	P		25	mod	25	mod
+27	elle	elle	PRO	PRO	n=s|g=f|p=3	26	prep	26	prep
+28	-	-	PONCT	PONCT		27	ponct	27	ponct
+29	même	même	ADV	ADV		32	mod	32	mod
+30	qui	qui	PROREL	PROREL	n=s	32	suj	32	suj
+31	n'	ne	ADV	ADV		32	mod	32	mod
+32	est	être	V	V	n=s|t=P|p=3	15	mod	15	mod
+33	jamais	jamais	ADV	ADV		32	mod	32	mod
+34	absente	absent	ADJ	ADJ	n=s|g=f	32	ats	32	ats
+35	chez	chez	P	P		32	mod	32	mod
+36	le	le	DET	DET	n=s|g=m	37	det	37	det
+37	bobtail	_	NC	NC		35	prep	35	prep
+38	.	.	PONCT	PONCT		37	ponct	37	ponct
+
+1	Cette	cette	DET	DET	n=s|g=f	2	det	2	det
+2	race	race	NC	NC	n=s|g=f	5	suj	5	suj
+3	est	être	V	V	n=s|t=P|p=3	5	aux_tps	5	aux_tps
+4	peut-être	peut-être	ADV	ADV		5	mod	5	mod
+5	arrivée	arriver	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+6	dans	dans	P	P		5	mod	5	mod
+7	l'	le	DET	DET	n=s	8	det	8	det
+8	Île	île	NC	NC	n=s|g=f	6	prep	6	prep
+9	de	de	P	P		5	mod	5	mod
+10	Man	_	NPP	NPP		9	prep	9	prep
+11	à	à	P	P		5	mod	5	mod
+12	bord	bord	NC	NC	n=s|g=m	11	prep	11	prep
+13	des	de	P+D	P+D	n=p	5	mod	5	mod
+14	vaisseaux	vaisseau	NC	NC	n=p|g=m	13	prep	13	prep
+15	de	de	P	P		5	mod	5	mod
+16	l'	le	DET	DET	n=s	17	det	17	det
+17	Invincible	_	NPP	NPP		15	prep	15	prep
+18	Armada	_	NPP	NPP		17	mod	17	mod
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	Ce	ce	PRO	PRO	n=s	4	suj	4	suj
+2	dont	dont	PROREL	PROREL		4	mod	4	mod
+3	on	on	CLS	CLS	n=s|p=3	4	suj	4	suj
+4	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+5	sûr	sûr	ADJ	ADJ	n=s|g=m	4	ats	4	ats
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	c'	ce	CLS	CLS		8	suj	8	suj
+8	est	être	V	V	n=s|t=P|p=3	4	mod	4	mod
+9	que	que	CS	CS		8	ats	8	ats
+10	la	la	DET	DET	n=s|g=f	11	det	11	det
+11	race	race	NC	NC	n=s|g=f	14	suj	14	suj
+12	y	y	CLO	CLO		14	aff	14	aff
+13	est	être	V	V	n=s|t=P|p=3	14	aux_pass	14	aux_pass
+14	connue	connaître	VPP	VPP	n=s|g=f|t=K	9	sub	9	sub
+15	depuis	depuis	P	P		14	mod	14	mod
+16	plus	plus	ADV	ADV		15	prep	15	prep
+17	de	de	P	P		14	mod	14	mod
+18	deux	deux	DET	DET	s=card|n=p	19	det	19	det
+19	siècles1	_	NC	NC		17	prep	17	prep
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	3	suj	3	suj
+2	y	y	CLO	CLO		3	aff	3	aff
+3	a	avoir	V	V	n=s|t=P|p=3	0	root	0	root
+4	de	de	P	P		3	mod	3	mod
+5	cela	cela	PRO	PRO	n=s|g=m	4	prep	4	prep
+6	deux	deux	ADJ	ADJ	s=card|n=p	5	mod	5	mod
+7	ou	ou	CC	CC		3	coord	3	coord
+8	trois	trois	DET	DET	s=card|n=p	9	det	9	det
+9	siècles	siècle	NC	NC	n=p|g=m	7	dep_coord	7	dep_coord
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	une	une	DET	DET	n=s|g=f	12	det	12	det
+12	mutation	mutation	NC	NC	n=s|g=f	17	suj	17	suj
+13	génétique	génétique	ADJ	ADJ	n=s	12	mod	12	mod
+14	naturelle	naturel	ADJ	ADJ	n=s|g=f	12	mod	12	mod
+15	s'	se	CLR	CLR	n=p,s|p=3	17	aff	17	aff
+16	est	être	V	V	n=s|t=P|p=3	17	aux_tps	17	aux_tps
+17	produite	produire	VPP	VPP	n=s|g=f|t=K	3	mod	3	mod
+18	à	à	P	P		17	mod	17	mod
+19	l'	le	DET	DET	n=s	20	det	20	det
+20	Île	île	NC	NC	n=s|g=f	18	prep	18	prep
+21	de	de	P	P		20	dep	20	dep
+22	Man	_	NPP	NPP		21	prep	21	prep
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	révélant	révéler	VPR	VPR	t=G	17	mod	17	mod
+25	au	à	P+D	P+D	n=s|g=m	24	mod	24	mod
+26	monde	monde	NC	NC	n=s|g=m	25	prep	25	prep
+27	un	un	DET	DET	n=s|g=m	28	det	28	det
+28	chat	chat	NC	NC	n=s|g=m	24	obj	24	obj
+29	unique	unique	ADJ	ADJ	n=s	28	mod	28	mod
+30	:	:	PONCT	PONCT		29	ponct	29	ponct
+31	le	le	DET	DET	n=s|g=m	32	det	32	det
+32	manx	_	NC	NC		24	obj	24	obj
+33	,	,	PONCT	PONCT		32	ponct	32	ponct
+34	ce	ce	DET	DET	n=s|g=m	35	det	35	det
+35	chat	chat	NC	NC	n=s|g=m	32	mod	32	mod
+36	si	_	ADV	ADV		37	mod	37	mod
+37	réputé	réputer	ADJ	ADJ	n=s|g=m|t=K	35	mod	35	mod
+38	pour	pour	P	P		35	dep	35	dep
+39	son	son	DET	DET	n=s|g=m|p=3|poss=s	40	det	40	det
+40	absence	absence	NC	NC	n=s|g=f	38	prep	38	prep
+41	de	de	P	P		40	dep	40	dep
+42	queue	queue	NC	NC	n=s|g=f	41	prep	41	prep
+43	.	.	PONCT	PONCT		42	ponct	42	ponct
+
+1	Cet	cet	DET	DET	n=s|g=m	2	det	2	det
+2	allèle	allèle	NC	NC	n=s|g=m	7	suj	7	suj
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	dominant	dominant	ADJ	ADJ	n=s|g=m	2	mod	2	mod
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	se	se	CLR	CLR	n=p,s|p=3	7	aff	7	aff
+7	propagea	propager	V	V	n=s|t=J|p=3	0	root	0	root
+8	à	à	P	P		7	mod	7	mod
+9	beaucoup	beaucoup	ADV	ADV		11	mod	11	mod
+10	de	de	P	P		11	det	11	det
+11	chats	chat	NC	NC	n=p|g=m	8	prep	8	prep
+12	de	de	P	P		7	mod	7	mod
+13	l'	le	DET	DET	n=s	14	det	14	det
+14	île2	_	NC	NC		12	prep	12	prep
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+1	D'	de	P	P		10	mod	10	mod
+2	abord	abord	NC	NC	n=s|g=m	1	prep	1	prep
+3	chat	chat	NC	NC	n=s|g=m	2	mod	2	mod
+4	de	de	P	P		10	mod	10	mod
+5	ferme	ferme	ADJ	ADJ	n=s	4	prep	4	prep
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	le	le	DET	DET	n=s|g=m	8	det	8	det
+8	manx	_	NC	NC		10	suj	10	suj
+9	était	être	V	V	n=s|t=I|p=3	10	aux_tps	10	aux_tps
+10	chargé	charger	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+11	d'	de	P	P		10	mod	10	mod
+12	éliminer	éliminer	VINF	VINF	t=W	11	prep	11	prep
+13	les	les	DET	DET	n=p	14	det	14	det
+14	rats	rat	NC	NC	n=p|g=m	12	obj	12	obj
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	une	une	DET	DET	n=s|g=f	17	det	17	det
+17	tâche	tâche	NC	NC	n=s|g=f	10	mod	10	mod
+18	dont	dont	PROREL	PROREL		23	mod	23	mod
+19	ce	ce	DET	DET	n=s|g=m	20	det	20	det
+20	chasseur	chasseur	NC	NC	n=s|g=m	23	suj	23	suj
+21	émérite	émérite	ADJ	ADJ	n=s	20	mod	20	mod
+22	s'	se	CLR	CLR	n=p,s|p=3	23	aff	23	aff
+23	acquittait	acquitter	V	V	n=s|t=I|p=3	17	mod_rel	17	mod_rel
+24	sans	sans	P	P		23	mod	23	mod
+25	problème1	_	NC	NC		24	prep	24	prep
+26	.	.	PONCT	PONCT		25	ponct	25	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	légendes	légende	NC	NC	n=p|g=f	7	suj	7	suj
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	plus	plus	ADV	ADV		5	mod	5	mod
+5	poétiques	poétique	ADJ	ADJ	n=p	2	mod	2	mod
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	racontent	raconter	V	V	n=p|t=P,S|p=3	0	root	0	root
+8	par	par	P	P		7	mod	7	mod
+9	exemple	exemple	NC	NC	n=s|g=m	8	prep	8	prep
+10	que	que	CS	CS		7	mod	7	mod
+11	le	le	DET	DET	n=s|g=m	12	det	12	det
+12	manx	_	NC	NC		14	suj	14	suj
+13	serait	être	V	V	n=s|t=C|p=3	14	aux_tps	14	aux_tps
+14	arrivé	arriver	VPP	VPP	n=s|g=m|t=K	10	sub	10	sub
+15	le	le	DET	DET	n=s|g=m	16	det	16	det
+16	dernier	dernier	ADJ	ADJ	n=s|g=m	14	ats	14	ats
+17	sur	sur	P	P		14	mod	14	mod
+18	l'	le	DET	DET	n=s	19	det	19	det
+19	arche	arche	NC	NC	n=s|g=f	17	prep	17	prep
+20	de	de	P	P		19	dep	19	dep
+21	Noé	Noé	NPP	NPP	n=s|g=m	20	prep	20	prep
+22	et	et	CC	CC		10	coord	10	coord
+23	que	que	CS	CS		22	dep_coord	22	dep_coord
+24	la	la	DET	DET	n=s|g=f	25	det	25	det
+25	porte	porte	NC	NC	n=s|g=f	28	suj	28	suj
+26	se	se	CLR	CLR	n=p,s|p=3	28	aff	28	aff
+27	serait	être	V	V	n=s|t=C|p=3	28	aux_tps	28	aux_tps
+28	refermée	refermer	VPP	VPP	n=s|g=f|t=K	23	sub	23	sub
+29	sur	sur	P	P		28	mod	28	mod
+30	la	la	DET	DET	n=s|g=f	31	det	31	det
+31	queue	queue	NC	NC	n=s|g=f	29	prep	29	prep
+32	du	de	P+D	P+D	n=s|g=m	31	dep	31	dep
+33	félin	félin	ADJ	ADJ	n=s|g=m	32	prep	32	prep
+34	...	...	PONCT	PONCT		33	ponct	33	ponct
+
+1	Une	une	DET	DET	n=s|g=f	3	det	3	det
+2	autre	autre	ADJ	ADJ	n=s	3	mod	3	mod
+3	version	version	NC	NC	n=s|g=f	4	suj	4	suj
+4	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+5	que	que	CS	CS		4	mod	4	mod
+6	les	les	DET	DET	n=p	7	det	7	det
+7	seigneurs	seigneur	NC	NC	n=p|g=m	12	suj	12	suj
+8	de	de	P	P		7	dep	7	dep
+9	l'	le	DET	DET	n=s	10	det	10	det
+10	île	île	NC	NC	n=s|g=f	8	prep	8	prep
+11	aurait	avoir	V	V	n=s|t=C|p=3	12	aux_tps	12	aux_tps
+12	coupé	couper	VPP	VPP	n=s|g=m|t=K	5	sub	5	sub
+13	la	la	DET	DET	n=s|g=f	14	det	14	det
+14	queue	queue	NC	NC	n=s|g=f	12	obj	12	obj
+15	des	de	P+D	P+D	n=p	14	dep	14	dep
+16	chats	chat	NC	NC	n=p|g=m	15	prep	15	prep
+17	pour	pour	P	P		12	mod	12	mod
+18	en	en	CLO	CLO		19	obj	19	obj
+19	orner	orner	VINF	VINF	t=W	17	prep	17	prep
+20	leurs	leurs	DET	DET	n=p|p=3|poss=p	21	det	21	det
+21	coiffures	coiffure	NC	NC	n=p|g=f	19	obj	19	obj
+22	de	de	P	P		21	dep	21	dep
+23	guerriers	guerrier	NC	NC	n=p|g=m	22	prep	22	prep
+24	.	.	PONCT	PONCT		23	ponct	23	ponct
+
+1	Alors	alors	ADV	ADV		0	_	0	_
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	une	une	DET	DET	n=s|g=f	4	det	4	det
+4	chatte	chatte	NC	NC	n=s|g=f	0	_	0	_
+5	plus	plus	ADV	ADV		6	mod	6	mod
+6	maligne	malin	ADJ	ADJ	n=s|g=f	4	mod	4	mod
+7	que	que	CS	CS		4	mod	4	mod
+8	les	les	DET	DET	n=p	9	det	9	det
+9	autres	autres	PRO	PRO	n=p|g=f,m	11	suj	11	suj
+10	aurait	avoir	V	V	n=s|t=C|p=3	11	aux_tps	11	aux_tps
+11	sectionné	sectionner	VPP	VPP	n=s|g=m|t=K	7	sub	7	sub
+12	d'	de	P	P		11	mod	11	mod
+13	un	un	DET	DET	n=s|g=m	14	det	14	det
+14	coup	coup	NC	NC	n=s|g=m	12	prep	12	prep
+15	de	de	P	P		14	dep	14	dep
+16	dents	dent	NC	NC	n=p|g=f	15	prep	15	prep
+17	la	la	DET	DET	n=s|g=f	18	det	18	det
+18	queue	queue	NC	NC	n=s|g=f	11	obj	11	obj
+19	de	de	P	P		18	dep	18	dep
+20	ses	ses	DET	DET	n=p|p=3|poss=s	21	det	21	det
+21	chatons	chaton	NC	NC	n=p|g=m	19	prep	19	prep
+22	afin	_	ADV	ADV		11	mod	11	mod
+23	de	de	P	P		11	mod	11	mod
+24	les	les	CLO	CLO	n=p|p=3	25	obj	25	obj
+25	sauver	sauver	VINF	VINF	t=W	23	prep	23	prep
+26	!	!	PONCT	PONCT		25	ponct	25	ponct
+
+1	Enfin	enfin	ADV	ADV		6	mod	6	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	une	une	DET	DET	n=s|g=f	5	det	5	det
+4	dernière	dernier	ADJ	ADJ	n=s|g=f	5	mod	5	mod
+5	légende	légende	NC	NC	n=s|g=f	6	suj	6	suj
+6	prétend	prétendre	V	V	n=s|t=P|p=3	0	root	0	root
+7	que	que	CS	CS		6	mod	6	mod
+8	les	les	DET	DET	n=p	9	det	9	det
+9	habitants	habitant	NC	NC	n=p|g=m	17	suj	17	suj
+10	de	de	P	P		9	dep	9	dep
+11	l'	le	DET	DET	n=s	12	det	12	det
+12	île	île	NC	NC	n=s|g=f	10	prep	10	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	radins	radin	NC	NC	n=p|g=m	9	mod	9	mod
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	auraient	avoir	V	V	n=p|t=C|p=3	17	aux_tps	17	aux_tps
+17	coupé	couper	VPP	VPP	n=s|g=m|t=K	7	sub	7	sub
+18	la	la	DET	DET	n=s|g=f	19	det	19	det
+19	queue	queue	NC	NC	n=s|g=f	17	obj	17	obj
+20	des	de	P+D	P+D	n=p	19	dep	19	dep
+21	chats	chat	NC	NC	n=p|g=m	20	prep	20	prep
+22	afin	_	ADV	ADV		17	mod	17	mod
+23	d'	de	P	P		17	mod	17	mod
+24	économiser	économiser	VINF	VINF	t=W	23	prep	23	prep
+25	le	le	DET	DET	n=s|g=m	26	det	26	det
+26	chauffage	chauffage	NC	NC	n=s|g=m	24	obj	24	obj
+27	:	:	PONCT	PONCT		26	ponct	26	ponct
+28	ainsi	ainsi	ADV	ADV		24	mod	24	mod
+29	,	,	PONCT	PONCT		28	ponct	28	ponct
+30	la	la	DET	DET	n=s|g=f	31	det	31	det
+31	porte	porte	NC	NC	n=s|g=f	17	obj	17	obj
+32	se	se	CLR	CLR	n=p,s|p=3	0	_	0	_
+33	refermait	refermer	V	V	n=s|t=I|p=3	0	_	0	_
+34	plus	plus	ADV	ADV		35	mod	35	mod
+35	vite	vite	ADV	ADV		33	mod	33	mod
+36	sur	sur	P	P		33	mod	33	mod
+37	les	les	DET	DET	n=p	38	det	38	det
+38	félins	félin	ADJ	ADJ	n=p|g=m	36	prep	36	prep
+39	et	et	CC	CC		36	coord	36	coord
+40	moins	moins	ADV	ADV		39	mod	39	mod
+41	de	de	P	P		39	dep_coord	39	dep_coord
+42	chaleur	chaleur	NC	NC	n=s|g=f	41	prep	41	prep
+43	s'	se	CLR	CLR	n=p,s|p=3	44	aff	44	aff
+44	échappait	échapper	V	V	n=s|t=I|p=3	33	mod	33	mod
+45	.	.	PONCT	PONCT		44	ponct	44	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	manx	_	NC	NC		3	suj	3	suj
+3	fut	être	V	V	n=s|t=J|p=3	0	root	0	root
+4	présent	présent	ADJ	ADJ	n=s|g=m	3	ats	3	ats
+5	à	à	P	P		3	mod	3	mod
+6	une	une	DET	DET	n=s|g=f	8	det	8	det
+7	première	premier	ADJ	ADJ	n=s|g=f	8	mod	8	mod
+8	exposition	exposition	NC	NC	n=s|g=f	5	prep	5	prep
+9	féline	félin	ADJ	ADJ	n=s|g=f	8	mod	8	mod
+10	américaine	américain	ADJ	ADJ	n=s|g=f	8	mod	8	mod
+11	dès	dès	P	P		3	mod	3	mod
+12	1883	1883	NC	NC		11	prep	11	prep
+13	.	.	PONCT	PONCT		12	ponct	12	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	3	suj	3	suj
+2	fut	être	V	V	n=s|t=J|p=3	3	aux_pass	3	aux_pass
+3	remarqué	remarquer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+4	par	par	P	P		3	mod	3	mod
+5	les	les	DET	DET	n=p	6	det	6	det
+6	éleveurs	éleveur	NC	NC	n=p|g=m	4	prep	4	prep
+7	anglais	anglais	ADJ	ADJ	g=m	6	mod	6	mod
+8	dès	dès	P	P		3	mod	3	mod
+9	la	la	DET	DET	n=s|g=f	10	det	10	det
+10	fin	fin	NC	NC	n=s	8	prep	8	prep
+11	du	de	P+D	P+D	n=s|g=m	3	mod	3	mod
+12	XIXe	_	ADJ	ADJ		13	mod	13	mod
+13	siècle	siècle	NC	NC	n=s|g=m	11	prep	11	prep
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+1	Alors	alors	ADV	ADV		9	mod	9	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	le	le	DET	DET	n=s|g=m	4	det	4	det
+4	Manx	_	NPP	NPP		9	suj	9	suj
+5	Club	_	NPP	NPP		4	mod	4	mod
+6	de	de	P	P		4	dep	4	dep
+7	Grande-Bretagne	Grande-Bretagne	NPP	NPP	n=s|g=f	6	prep	6	prep
+8	fut	être	V	V	n=s|t=J|p=3	9	aux_pass	9	aux_pass
+9	créé	créer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+10	dès	dès	P	P		9	mod	9	mod
+11	1901	1901	NC	NC		10	prep	10	prep
+12	et	et	CC	CC		9	coord	9	coord
+13	la	la	DET	DET	n=s|g=f	14	det	14	det
+14	race	race	NC	NC	n=s|g=f	15	suj	15	suj
+15	participa	participer	V	V	n=s|t=J|p=3	12	dep_coord	12	dep_coord
+16	à	à	P	P		15	mod	15	mod
+17	une	une	DET	DET	n=s|g=f	18	det	18	det
+18	exposition	exposition	NC	NC	n=s|g=f	16	prep	16	prep
+19	féline	félin	ADJ	ADJ	n=s|g=f	18	mod	18	mod
+20	britannique	britannique	ADJ	ADJ	n=s	18	mod	18	mod
+21	peu	peu	ADV	ADV		22	mod	22	mod
+22	après	après	ADV	ADV		18	mod	18	mod
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	roi	roi	NC	NC	n=s|g=m	5	suj	5	suj
+3	Édouard	Édouard	NPP	NPP	n=s|g=m	2	mod	2	mod
+4	VIII	_	NPP	NPP		2	mod	2	mod
+5	possédait	posséder	V	V	n=s|t=I|p=3	0	root	0	root
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	durant	durant	P	P		5	mod	5	mod
+8	les	les	DET	DET	n=p	9	det	9	det
+9	années	année	NC	NC	n=p|g=f	7	prep	7	prep
+10	1920-1930	1920-1930	NC	NC		9	mod	9	mod
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	plusieurs	plusieurs	DET	DET	n=p	13	det	13	det
+13	manx	_	NC	NC		5	obj	5	obj
+14	et	et	CC	CC		13	coord	13	coord
+15	la	la	DET	DET	n=s|g=f	16	det	16	det
+16	race	race	NC	NC	n=s|g=f	14	dep_coord	14	dep_coord
+17	était	être	V	V	n=s|t=I|p=3	5	mod	5	mod
+18	à	à	P	P		17	mod	17	mod
+19	la	la	DET	DET	n=s|g=f	20	det	20	det
+20	mode	mode	NC	NC	n=s	18	prep	18	prep
+21	aux	à	P+D	P+D	n=p	20	dep	20	dep
+22	États-Unis	États-Unis_d'Amérique	NPP	NPP	n=p|g=m	21	prep	21	prep
+23	comme	comme	P	P		17	mod	17	mod
+24	en	en	P	P		23	prep	23	prep
+25	Angleterre	Angleterre	NPP	NPP	n=s|g=f	24	prep	24	prep
+26	.	.	PONCT	PONCT		25	ponct	25	ponct
+
+1	Alors	alors	ADV	ADV		2	mod	2	mod
+2	que	que	CS	CS		0	root	0	root
+3	cette	cette	DET	DET	n=s|g=f	4	det	4	det
+4	race	race	NC	NC	n=s|g=f	5	suj	5	suj
+5	était	être	V	V	n=s|t=I|p=3	2	sub	2	sub
+6	à	à	P	P		5	mod	5	mod
+7	la	la	DET	DET	n=s|g=f	8	det	8	det
+8	mode	mode	NC	NC	n=s	6	prep	6	prep
+9	dans	dans	P	P		5	mod	5	mod
+10	les	les	DET	DET	n=p	11	det	11	det
+11	années	année	NC	NC	n=p|g=f	9	prep	9	prep
+12	1930	1930	NC	NC		11	mod	11	mod
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	en	en	P	P		5	mod	5	mod
+15	Angleterre	Angleterre	NPP	NPP	n=s|g=f	14	prep	14	prep
+16	comme	comme	P	P		5	mod	5	mod
+17	aux	à	P+D	P+D	n=p	16	prep	16	prep
+18	États-Unis	États-Unis_d'Amérique	NPP	NPP	n=p|g=m	17	prep	17	prep
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	il	il	CLS	CLS	n=s|g=m|p=3	0	_	0	_
+21	n'	ne	ADV	ADV		0	_	0	_
+22	en	en	CLO	CLO		0	_	0	_
+23	est	être	V	V	n=s|t=P|p=3	0	_	0	_
+24	plus	plus	ADV	ADV		0	_	0	_
+25	de	de	P	P		0	_	0	_
+26	même	même	ADV	ADV		0	_	0	_
+27	aujourd'hui	aujourd'hui	ADV	ADV		0	_	0	_
+28	.	.	PONCT	PONCT		27	ponct	27	ponct
+
+1	Sa	sa	DET	DET	n=s|g=f|p=3|poss=s	2	det	2	det
+2	popularité	popularité	NC	NC	n=s|g=f	4	suj	4	suj
+3	a	avoir	V	V	n=s|t=P|p=3	4	aux_tps	4	aux_tps
+4	essuyé	essuyer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+5	d'	de	P	P		4	mod	4	mod
+6	immenses	immense	ADJ	ADJ	n=p	7	mod	7	mod
+7	revers	revers	NC	NC	g=m	5	prep	5	prep
+8	en	en	P	P		4	mod	4	mod
+9	Europe	Europe	NPP	NPP	n=s|g=f	8	prep	8	prep
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	certains	certain	DET	DET	n=p|g=m	12	det	12	det
+12	détracteurs	détracteur	NC	NC	n=p|g=m	13	suj	13	suj
+13	voulant	vouloir	VPR	VPR	t=G	4	mod	4	mod
+14	même	même	ADV	ADV		13	mod	13	mod
+15	l'	le	CLO	CLO	n=s|p=3	16	obj	16	obj
+16	interdire	interdire	VINF	VINF	t=W	13	obj	13	obj
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+1	Alors	alors	ADV	ADV		2	mod	2	mod
+2	qu'	que	CS	CS		0	root	0	root
+3	il	il	CLS	CLS	n=s|g=m|p=3	6	suj	6	suj
+4	était	être	V	V	n=s|t=I|p=3	6	aux_pass	6	aux_pass
+5	déjà	déjà	ADV	ADV		6	mod	6	mod
+6	réputé	réputer	VPP	VPP	n=s|g=m|t=K	2	sub	2	sub
+7	pour	pour	P	P		6	mod	6	mod
+8	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	9	det	9	det
+9	difficulté	difficulté	NC	NC	n=s|g=f	7	prep	7	prep
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	l'	le	DET	DET	n=s	12	det	12	det
+12	élevage	élevage	NC	NC	n=s|g=m	14	suj	14	suj
+13	a	avoir	V	V	n=s|t=P|p=3	14	aux_tps	14	aux_tps
+14	subi	subir	VPP	VPP	n=s|g=m|t=K	2	root	2	root
+15	de	de	P	P		14	mod	14	mod
+16	plein	plein	ADJ	ADJ	n=s|g=m	17	mod	17	mod
+17	fouet	fouet	NC	NC	n=s|g=m	15	prep	15	prep
+18	ces	ces	DET	DET	n=p	19	det	19	det
+19	critiques	critique	NC	NC	n=p	14	obj	14	obj
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+1	En	en	P	P		8	mod	8	mod
+2	France	France	NPP	NPP	n=s|g=f,m	1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	ce	ce	DET	DET	n=s|g=m	5	det	5	det
+5	chat	chat	NC	NC	n=s|g=m	8	suj	8	suj
+6	est	être	V	V	n=s|t=P|p=3	8	aux_tps	8	aux_tps
+7	peu	peu	ADV	ADV		8	mod	8	mod
+8	représenté	représenter	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	mais	mais	CC	CC		8	coord	8	coord
+11	il	il	CLS	CLS	n=s|g=m|p=3	12	suj	12	suj
+12	semble	sembler	V	V	n=s|t=P,S|p=1,3	10	dep_coord	10	dep_coord
+13	à	à	P	P		12	mod	12	mod
+14	nouveau	nouveau	ADJ	ADJ	n=s|g=m	13	prep	13	prep
+15	en	en	P	P		12	mod	12	mod
+16	voie	voie	NC	NC	n=s|g=f	15	prep	15	prep
+17	de	de	P	P		12	mod	12	mod
+18	développement	développement	NC	NC	n=s|g=m	17	prep	17	prep
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	manx	_	NC	NC		6	suj	6	suj
+3	anoures	anoure	ADJ	ADJ	n=p	2	mod	2	mod
+4	ou	ou	CC	CC		2	coord	2	coord
+5	quasi-anoures	_	NC	NC		4	dep_coord	4	dep_coord
+6	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+7	préférables	préférable	ADJ	ADJ	n=p	6	ats	6	ats
+8	en	en	P	P		6	mod	6	mod
+9	exposition	exposition	NC	NC	n=s|g=f	8	prep	8	prep
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	existe	exister	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	une	une	DET	DET	n=s|g=f	4	det	4	det
+4	variété	variété	NC	NC	n=s|g=f	2	obj	2	obj
+5	à	à	P	P		4	dep	4	dep
+6	poil	poil	NC	NC	n=s|g=m	5	prep	5	prep
+7	mi-long	_	NPP	NPP		6	mod	6	mod
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	le	le	DET	DET	n=s|g=m	10	det	10	det
+10	cymric	_	NPP	NPP		2	mod	2	mod
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	manx	_	NC	NC		3	suj	3	suj
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	un	un	DET	DET	n=s|g=m	5	det	5	det
+5	chat	chat	NC	NC	n=s|g=m	3	obj	3	obj
+6	rond	rond	ADJ	ADJ	n=s|g=m	5	mod	5	mod
+7	de	de	P	P		3	mod	3	mod
+8	type	type	NC	NC	n=s|g=m	7	prep	7	prep
+9	bréviligne	bréviligne	ADJ	ADJ	n=s	8	mod	8	mod
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+1	Son	son	DET	DET	n=s|g=m|p=3|poss=s	2	det	2	det
+2	allure	allure	NC	NC	n=s|g=f	4	suj	4	suj
+3	générale	général	ADJ	ADJ	n=s|g=f	2	mod	2	mod
+4	montre	montrer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+5	un	un	DET	DET	n=s|g=m	6	det	6	det
+6	chat	chat	NC	NC	n=s|g=m	4	obj	4	obj
+7	de	de	P	P		6	dep	6	dep
+8	taille	taille	NC	NC	n=s|g=f	7	prep	7	prep
+9	moyenne	moyen	ADJ	ADJ	n=s|g=f	8	mod	8	mod
+10	à	à	P	P		4	mod	4	mod
+11	grande	grand	ADJ	ADJ	n=s|g=f	10	prep	10	prep
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	compact	compact	NC	NC	n=s	4	mod	4	mod
+14	avec	avec	P	P		13	dep	13	dep
+15	des	des	DET	DET	n=p	16	det	16	det
+16	pattes	patte	NC	NC	n=p|g=f	14	prep	14	prep
+17	moyennes	moyen	ADJ	ADJ	n=p|g=f	16	mod	16	mod
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	pattes	patte	NC	NC	n=p|g=f	4	suj	4	suj
+3	avant	avant	P	P		4	mod	4	mod
+4	doivent	devoir	V	V	n=p|t=P,S|p=3	0	root	0	root
+5	être	être	VINF	VINF	t=W	4	obj	4	obj
+6	visiblement	_	ADV	ADV		5	mod	5	mod
+7	plus	plus	ADV	ADV		8	mod	8	mod
+8	longues	long	ADJ	ADJ	n=p|g=f	5	ats	5	ats
+9	que	que	CS	CS		4	mod	4	mod
+10	les	les	DET	DET	n=p	11	det	11	det
+11	pattes	patte	NC	NC	n=p|g=f	0	_	0	_
+12	arrière	arrière	ADJ	ADJ		11	mod	11	mod
+13	.	.	PONCT	PONCT		12	ponct	12	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	corps	corps	NC	NC	g=m	3	suj	3	suj
+3	doit	devoir	V	V	n=s|t=P|p=3	0	root	0	root
+4	être	être	VINF	VINF	t=W	5	aux_pass	5	aux_pass
+5	musclé	muscler	VPP	VPP	n=s|g=m|t=K	3	obj	3	obj
+6	avec	avec	P	P		5	mod	5	mod
+7	une	une	DET	DET	n=s|g=f	8	det	8	det
+8	ossature	ossature	NC	NC	n=s|g=f	6	prep	6	prep
+9	robuste	robuste	ADJ	ADJ	n=s	8	mod	8	mod
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	avec	avec	P	P		5	mod	5	mod
+12	un	un	DET	DET	n=s|g=m	13	det	13	det
+13	dos	dos	NC	NC	g=m	11	prep	11	prep
+14	court	court	ADJ	ADJ	n=s|g=m	13	mod	13	mod
+15	en	en	P	P		5	mod	5	mod
+16	forme	forme	NC	NC	n=s|g=f	15	prep	15	prep
+17	d'	de	P	P		5	mod	5	mod
+18	arc	arc	NC	NC	n=s|g=m	17	prep	17	prep
+19	continu	continu	ADJ	ADJ	n=s|g=m	18	mod	18	mod
+20	et	et	CC	CC		3	coord	3	coord
+21	lisse	lisse	NC	NC	n=s|g=f	0	_	0	_
+22	qui	qui	PROREL	PROREL	n=s	24	suj	24	suj
+23	se	se	CLR	CLR	n=p,s|p=3	24	aff	24	aff
+24	termine	terminer	V	V	n=s|t=P,S|p=1,3	21	mod_rel	21	mod_rel
+25	par	par	P	P		24	mod	24	mod
+26	une	une	DET	DET	n=s|g=f	27	det	27	det
+27	croupe	croupe	NC	NC	n=s|g=f	25	prep	25	prep
+28	ronde	rond	ADJ	ADJ	n=s|g=f	27	mod	27	mod
+29	.	.	PONCT	PONCT		28	ponct	28	ponct
+
+1	Un	un	DET	DET	n=s|g=m	2	det	2	det
+2	dos	dos	NC	NC	g=m	5	suj	5	suj
+3	trop	trop	ADV	ADV		4	mod	4	mod
+4	plat	plat	ADJ	ADJ	n=s|g=m	2	mod	2	mod
+5	entraîne	entraîner	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+6	des	des	DET	DET	n=p	7	det	7	det
+7	pénalités	pénalité	NC	NC	n=p|g=f	5	obj	5	obj
+8	de	de	P	P		7	dep	7	dep
+9	la	la	DET	DET	n=s|g=f	10	det	10	det
+10	part	part	NC	NC	n=s	8	prep	8	prep
+11	des	de	P+D	P+D	n=p	10	dep	10	dep
+12	juges	juge	NC	NC	n=p|g=m	11	prep	11	prep
+13	.	.	PONCT	PONCT		12	ponct	12	ponct
+
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	encolure	encolure	NC	NC	n=s|g=f	3	suj	3	suj
+3	doit	devoir	V	V	n=s|t=P|p=3	0	root	0	root
+4	être	être	VINF	VINF	t=W	3	obj	3	obj
+5	courte	court	ADJ	ADJ	n=s|g=f	4	ats	4	ats
+6	et	et	CC	CC		5	coord	5	coord
+7	massive	massif	ADJ	ADJ	n=s|g=f	6	dep_coord	6	dep_coord
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	jusqu'	jusque	P	P		4	mod	4	mod
+10	à	à	P	P		9	dep	9	dep
+11	apparaître	apparaître	VINF	VINF	t=W	10	prep	10	prep
+12	presque	presque	ADV	ADV		13	mod	13	mod
+13	inexistante	inexistant	ADJ	ADJ	n=s|g=f	11	ats	11	ats
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	flancs	flanc	NC	NC	n=p|g=m	5	suj	5	suj
+3	très	très	ADV	ADV		4	mod	4	mod
+4	profonds	profond	ADJ	ADJ	n=p|g=m	2	mod	2	mod
+5	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+6	également	_	ADV	ADV		5	mod	5	mod
+7	une	une	DET	DET	n=s|g=f	8	det	8	det
+8	caractéristique	caractéristique	NC	NC	n=s|g=f	5	obj	5	obj
+9	de	de	P	P		8	dep	8	dep
+10	cette	cette	DET	DET	n=s|g=f	11	det	11	det
+11	race	race	NC	NC	n=s|g=f	9	prep	9	prep
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	pattes	patte	NC	NC	n=p|g=f	3	suj	3	suj
+3	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+4	moyennes	moyen	ADJ	ADJ	n=p|g=f	3	ats	3	ats
+5	et	et	CC	CC		4	coord	4	coord
+6	robustes6	_	ADJ	ADJ		5	dep_coord	5	dep_coord
+7	.	.	PONCT	PONCT		6	ponct	6	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	pieds	pied	NC	NC	n=p	3	suj	3	suj
+3	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+4	ronds	rond	ADJ	ADJ	n=p|g=m	3	ats	3	ats
+5	et	et	CC	CC		4	coord	4	coord
+6	fermes	ferme	ADJ	ADJ	n=p	5	dep_coord	5	dep_coord
+7	.	.	PONCT	PONCT		6	ponct	6	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	3	suj	3	suj
+2	s'	se	CLR	CLR	n=p,s|p=3	3	aff	3	aff
+3	agit	agir	V	V	n=s|t=J,P|p=3	0	root	0	root
+4	précisément	_	ADV	ADV		3	mod	3	mod
+5	de	de	P	P		3	mod	3	mod
+6	la	la	DET	DET	n=s|g=f	7	det	7	det
+7	caractéristique	caractéristique	NC	NC	n=s|g=f	5	prep	5	prep
+8	de	de	P	P		3	mod	3	mod
+9	cette	cette	DET	DET	n=s|g=f	10	det	10	det
+10	race	race	NC	NC	n=s|g=f	8	prep	8	prep
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	existe	exister	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	quatre	quatre	DET	DET	s=card|n=p	4	det	4	det
+4	catégories	catégorie	NC	NC	n=p|g=f	2	obj	2	obj
+5	de	de	P	P		4	dep	4	dep
+6	manx	_	NC	NC		5	prep	5	prep
+7	:	:	PONCT	PONCT		6	ponct	6	ponct
+
+1	Seuls	seul	ADJ	ADJ	n=p|g=m	3	mod	3	mod
+2	les	les	DET	DET	n=p	3	det	3	det
+3	rumpy	_	NC	NC		8	suj	8	suj
+4	(	(	PONCT	PONCT		3	ponct	3	ponct
+5	riser	riser	VINF	VINF	t=W	3	dep	3	dep
+6	)	)	PONCT	PONCT		5	ponct	5	ponct
+7	sont	être	V	V	n=p|t=P|p=3	8	aux_pass	8	aux_pass
+8	acceptés	accepter	VPP	VPP	n=p|g=m|t=K	0	root	0	root
+9	en	en	P	P		8	mod	8	mod
+10	championnat	championnat	NC	NC	n=s|g=m	9	prep	9	prep
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+1	Si	si	CS	CS		0	_	0	_
+2	le	le	DET	DET	n=s|g=m	3	det	3	det
+3	juge	juge	NC	NC	n=s|g=m	5	suj	5	suj
+4	ne	ne	ADV	ADV		5	mod	5	mod
+5	peut	pouvoir	V	V	n=s|t=P|p=3	1	sub	1	sub
+6	faire	faire	VINF	VINF	t=W	5	obj	5	obj
+7	tenir	tenir	VINF	VINF	t=W	6	obj	6	obj
+8	debout	debout	ADJ	ADJ		0	_	0	_
+9	ou	ou	CC	CC		8	coord	8	coord
+10	marcher	marcher	VINF	VINF	t=W	9	dep_coord	9	dep_coord
+11	correctement	_	ADV	ADV		10	mod	10	mod
+12	le	le	DET	DET	n=s|g=m	13	det	13	det
+13	chat	chat	NC	NC	n=s|g=m	10	obj	10	obj
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	celui-ci	celui-ci	PRO	PRO	n=s|g=m	10	mod	10	mod
+16	est	être	V	V	n=s|t=P|p=3	0	_	0	_
+17	disqualifié1	_	VPP	VPP		0	_	0	_
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	tête	tête	NC	NC	n=s|g=f	3	suj	3	suj
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	large	large	ADJ	ADJ	n=s	3	ats	3	ats
+5	avec	avec	P	P		3	mod	3	mod
+6	des	des	DET	DET	n=p	7	det	7	det
+7	contours	contour	NC	NC	n=p|g=m	5	prep	5	prep
+8	arrondis	arrondir	VPP	VPP	n=p|g=m|t=K	7	mod	7	mod
+9	et	et	CC	CC		3	coord	3	coord
+10	des	de	P+D	P+D	n=p	9	dep_coord	9	dep_coord
+11	pommettes	pommette	NC	NC	n=p|g=f	10	prep	10	prep
+12	saillantes	saillant	ADJ	ADJ	n=p|g=f	11	mod	11	mod
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	un	un	DET	DET	n=s|g=m	15	det	15	det
+15	museau	museau	NC	NC	n=s|g=m	0	_	0	_
+16	rond	rond	ADJ	ADJ	n=s|g=m	15	mod	15	mod
+17	et	et	CC	CC		15	coord	15	coord
+18	le	le	DET	DET	n=s|g=m	19	det	19	det
+19	crâne	crâne	NC	NC	n=s|g=m	17	dep_coord	17	dep_coord
+20	arrondi	arrondir	VPP	VPP	n=s|g=m|t=K	19	mod	19	mod
+21	avec	avec	P	P		20	mod	20	mod
+22	des	des	DET	DET	n=p	23	det	23	det
+23	courbes	courbe	NC	NC	n=p|g=f	21	prep	21	prep
+24	légèrement	_	ADV	ADV		25	mod	25	mod
+25	concaves	concave	ADJ	ADJ	n=p	23	mod	23	mod
+26	.	.	PONCT	PONCT		25	ponct	25	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	nez	nez	NC	NC	g=m	3	suj	3	suj
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	court	court	ADJ	ADJ	n=s|g=m	3	ats	3	ats
+5	et	et	CC	CC		4	coord	4	coord
+6	large	large	ADJ	ADJ	n=s	5	dep_coord	5	dep_coord
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	et	et	CC	CC		3	coord	3	coord
+9	un	un	DET	DET	n=s|g=m	11	det	11	det
+10	léger	léger	ADJ	ADJ	n=s|g=m	11	mod	11	mod
+11	stop	stop	NC	NC	n=s|g=m	13	suj	13	suj
+12	est	être	V	V	n=s|t=P|p=3	13	aux_tps	13	aux_tps
+13	admis	admettre	VPP	VPP	g=m|t=K	8	dep_coord	8	dep_coord
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	mâles	mâle	NC	NC	n=p|g=m	4	suj	4	suj
+3	adultes	adulte	NC	NC	n=p	2	mod	2	mod
+4	ont	avoir	V	V	n=p|t=P|p=3	0	root	0	root
+5	des	des	DET	DET	n=p	6	det	6	det
+6	bajoues	bajoue	NC	NC	n=p|g=f	4	obj	4	obj
+7	puissantes	puissant	ADJ	ADJ	n=p|g=f	6	mod	6	mod
+8	.	.	PONCT	PONCT		7	ponct	7	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	yeux	oeil	NC	NC	n=p|g=m	4	suj	4	suj
+3	sont	être	V	V	n=p|t=P|p=3	4	aux_pass	4	aux_pass
+4	placés	placer	VPP	VPP	n=p|g=m|t=K	0	root	0	root
+5	éloignés	éloigner	VPP	VPP	n=p|g=m|t=K	4	ats	4	ats
+6	l'	le	DET	DET	n=s	7	det	7	det
+7	un	un	PRO	PRO	n=s|g=m	5	mod	5	mod
+8	de	de	P	P		5	mod	5	mod
+9	l'	le	DET	DET	n=s	10	det	10	det
+10	autre	autre	PRO	PRO	n=s|g=f,m	8	prep	8	prep
+11	sur	sur	P	P		5	mod	5	mod
+12	la	la	DET	DET	n=s|g=f	13	det	13	det
+13	tête	tête	NC	NC	n=s|g=f	11	prep	11	prep
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+1	Ils	ils	CLS	CLS	n=p|g=m|p=3	2	suj	2	suj
+2	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+3	grands	grand	ADJ	ADJ	n=p|g=m	2	ats	2	ats
+4	et	et	CC	CC		3	coord	3	coord
+5	ronds	rond	ADJ	ADJ	n=p|g=m	4	dep_coord	4	dep_coord
+6	et	et	CC	CC		2	coord	2	coord
+7	d'	de	P	P		6	dep_coord	6	dep_coord
+8	une	une	DET	DET	n=s|g=f	9	det	9	det
+9	couleur	couleur	NC	NC	n=s|g=f	7	prep	7	prep
+10	assortie	assortir	VPP	VPP	n=s|g=f|t=K	9	mod	9	mod
+11	à	à	P	P		10	mod	10	mod
+12	la	la	DET	DET	n=s|g=f	13	det	13	det
+13	robe	robe	NC	NC	n=s|g=f	11	prep	11	prep
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	oreilles	oreille	NC	NC	n=p|g=f	4	suj	4	suj
+3	sont	être	V	V	n=p|t=P|p=3	4	aux_pass	4	aux_pass
+4	arrondies	arrondir	VPP	VPP	n=p|g=f|t=K	0	root	0	root
+5	à	à	P	P		4	mod	4	mod
+6	leur	leur	DET	DET	n=s|p=3|poss=p	7	det	7	det
+7	extrémité	extrémité	NC	NC	n=s|g=f	5	prep	5	prep
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	petites	petit	ADJ	ADJ	n=p|g=f	7	mod	7	mod
+10	à	à	P	P		7	dep	7	dep
+11	moyennes	moyen	ADJ	ADJ	n=p|g=f	10	prep	10	prep
+12	et	et	CC	CC		11	coord	11	coord
+13	larges	large	ADJ	ADJ	n=p	12	dep_coord	12	dep_coord
+14	à	à	P	P		4	mod	4	mod
+15	la	la	DET	DET	n=s|g=f	16	det	16	det
+16	base	base	NC	NC	n=s|g=f	14	prep	14	prep
+17	et	et	CC	CC		4	coord	4	coord
+18	bien	bien	ADV	ADV		19	mod	19	mod
+19	espacées	espacer	VPP	VPP	n=p|g=f|t=K	17	dep_coord	17	dep_coord
+20	sur	sur	P	P		19	mod	19	mod
+21	le	le	DET	DET	n=s|g=m	22	det	22	det
+22	crâne	crâne	NC	NC	n=s|g=m	20	prep	20	prep
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	de	de	P	P		19	mod	19	mod
+25	manière	manière	NC	NC	n=s|g=f	24	prep	24	prep
+26	à	à	P	P		19	mod	19	mod
+27	respecter	respecter	VINF	VINF	t=W	26	prep	26	prep
+28	la	la	DET	DET	n=s|g=f	29	det	29	det
+29	courbure	courbure	NC	NC	n=s|g=f	27	obj	27	obj
+30	de	de	P	P		29	dep	29	dep
+31	la	la	DET	DET	n=s|g=f	32	det	32	det
+32	tête	tête	NC	NC	n=s|g=f	30	prep	30	prep
+33	.	.	PONCT	PONCT		32	ponct	32	ponct
+
+1	Des	des	DET	DET	n=p	2	det	2	det
+2	oreilles	oreille	NC	NC	n=p|g=f	6	suj	6	suj
+3	placées	placer	VPP	VPP	n=p|g=f|t=K	2	mod	2	mod
+4	trop	trop	ADV	ADV		3	mod	3	mod
+5	droites	droite	NC	NC	n=p|g=f	2	mod	2	mod
+6	entraînent	entraîner	V	V	n=p|t=P,S|p=3	0	root	0	root
+7	des	des	DET	DET	n=p	8	det	8	det
+8	pénalités	pénalité	NC	NC	n=p|g=f	6	obj	6	obj
+9	.	.	PONCT	PONCT		8	ponct	8	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	fourrure	fourrure	NC	NC	n=s|g=f	3	suj	3	suj
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	courte	court	ADJ	ADJ	n=s|g=f	3	ats	3	ats
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	dense	dense	ADJ	ADJ	n=s	4	coord	4	coord
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	ferme	ferme	ADJ	ADJ	n=s	6	coord	6	coord
+9	et	et	CC	CC		3	coord	3	coord
+10	dressée	dresser	VPP	VPP	n=s|g=f|t=K	9	dep_coord	9	dep_coord
+11	à	à	P	P		10	mod	10	mod
+12	un	un	DET	DET	n=s|g=m	14	det	14	det
+13	tel	tel	ADJ	ADJ	n=s|g=m	14	mod	14	mod
+14	point	point	NC	NC	n=s|g=m	11	prep	11	prep
+15	qu'	que	CS	CS		10	mod	10	mod
+16	elle	elle	CLS	CLS	n=s|g=f|p=3	18	suj	18	suj
+17	s'	se	CLR	CLR	n=p,s|p=3	18	aff	18	aff
+18	ouvre	ouvrir	V	V	n=s|t=P,S|p=1,3	15	sub	15	sub
+19	sur	sur	P	P		18	mod	18	mod
+20	l'	le	DET	DET	n=s	21	det	21	det
+21	encolure	encolure	NC	NC	n=s|g=f	19	prep	19	prep
+22	lorsque	lorsque	CS	CS		18	mod	18	mod
+23	le	le	DET	DET	n=s|g=m	24	det	24	det
+24	chat	chat	NC	NC	n=s|g=m	25	suj	25	suj
+25	tourne	tourner	V	V	n=s|t=P,S|p=1,3	22	sub	22	sub
+26	la	la	DET	DET	n=s|g=f	27	det	27	det
+27	tête	tête	NC	NC	n=s|g=f	25	obj	25	obj
+28	.	.	PONCT	PONCT		27	ponct	27	ponct
+
+1	Lorsqu'	lorsque	CS	CS		8	mod	8	mod
+2	on	on	CLS	CLS	n=s|p=3	3	suj	3	suj
+3	caresse	caresser	V	V	n=s|t=P,S|p=1,3	1	sub	1	sub
+4	un	un	DET	DET	n=s|g=m	5	det	5	det
+5	manx	_	NC	NC		3	obj	3	obj
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	on	on	CLS	CLS	n=s|p=3	8	suj	8	suj
+8	a	avoir	V	V	n=s|t=P|p=3	0	root	0	root
+9	l'	le	DET	DET	n=s	10	det	10	det
+10	impression	impression	NC	NC	n=s|g=f	8	obj	8	obj
+11	de	de	P	P		8	mod	8	mod
+12	toucher	toucher	VINF	VINF	t=W	11	prep	11	prep
+13	les	les	DET	DET	n=p	14	det	14	det
+14	poils	poil	NC	NC	n=p|g=m	12	obj	12	obj
+15	d'	de	P	P		14	dep	14	dep
+16	un	un	DET	DET	n=s|g=m	17	det	17	det
+17	tapis	tapis	NC	NC	g=m	15	prep	15	prep
+18	de	de	P	P		17	dep	17	dep
+19	laine	laine	NC	NC	n=s|g=f	18	prep	18	prep
+20	et	et	CC	CC		8	coord	8	coord
+21	le	le	DET	DET	n=s|g=m	22	det	22	det
+22	sous-poil	_	NC	NC		23	suj	23	suj
+23	est	être	V	V	n=s|t=P|p=3	20	dep_coord	20	dep_coord
+24	abondant	abondant	ADJ	ADJ	n=s|g=m	25	mod	25	mod
+25	ce	ce	PRO	PRO	n=s	23	obj	23	obj
+26	qui	qui	PROREL	PROREL	n=s	27	suj	27	suj
+27	donne	donner	V	V	n=s|t=P,S|p=1,3	25	mod_rel	25	mod_rel
+28	une	une	DET	DET	n=s|g=f	29	det	29	det
+29	impression	impression	NC	NC	n=s|g=f	27	obj	27	obj
+30	de	de	P	P		29	dep	29	dep
+31	bonne	bon	ADJ	ADJ	n=s|g=f	32	mod	32	mod
+32	protection	protection	NC	NC	n=s|g=f	30	prep	30	prep
+33	.	.	PONCT	PONCT		32	ponct	32	ponct
+
+1	Toutes	tout	ADJ	ADJ	n=p|g=f	3	mod	3	mod
+2	les	les	DET	DET	n=p	3	det	3	det
+3	couleurs	couleur	NC	NC	n=p|g=f	5	suj	5	suj
+4	sont	être	V	V	n=p|t=P|p=3	5	aux_pass	5	aux_pass
+5	acceptées	accepter	VPP	VPP	n=p|g=f|t=K	0	root	0	root
+6	.	.	PONCT	PONCT		5	ponct	5	ponct
+
+1	En	en	P	P		7	mod	7	mod
+2	terme	terme	NC	NC	n=s|g=m	1	prep	1	prep
+3	de	de	P	P		2	dep	2	dep
+4	patrons	patron	NC	NC	n=p|g=m	3	prep	3	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	sont	être	V	V	n=p|t=P|p=3	7	aux_pass	7	aux_pass
+7	autorisés	autoriser	VPP	VPP	n=p|g=m|t=K	0	root	0	root
+8	:	:	PONCT	PONCT		7	ponct	7	ponct
+9	tous	tout	ADJ	ADJ	n=p|g=m	11	mod	11	mod
+10	les	les	DET	DET	n=p	11	det	11	det
+11	tabbyL	_	NC	NC		7	mod	7	mod
+12	1	1	ADJ	ADJ		11	mod	11	mod
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	les	les	DET	DET	n=p	15	det	15	det
+15	solides	solide	ADJ	ADJ	n=p	7	mod	7	mod
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	les	les	DET	DET	n=p	18	det	18	det
+18	solides	solide	NC	NC	n=p|g=m	7	mod	7	mod
+19	blancs	blanc	ADJ	ADJ	n=p|g=m	18	mod	18	mod
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	les	les	DET	DET	n=p	22	det	22	det
+22	tabby	_	NPP	NPP		7	mod	7	mod
+23	et	et	CC	CC		22	coord	22	coord
+24	blancs	blanc	ADJ	ADJ	n=p|g=m	23	dep_coord	23	dep_coord
+25	,	,	PONCT	PONCT		24	ponct	24	ponct
+26	les	les	DET	DET	n=p	27	det	27	det
+27	silver	_	NC	NC		7	mod	7	mod
+28	et	et	CC	CC		7	coord	7	coord
+29	les	les	DET	DET	n=p	30	det	30	det
+30	smoke	_	NC	NC		32	suj	32	suj
+31	sont	être	V	V	n=p|t=P|p=3	32	aux_pass	32	aux_pass
+32	autorisés	autoriser	VPP	VPP	n=p|g=m|t=K	28	dep_coord	28	dep_coord
+33	.	.	PONCT	PONCT		32	ponct	32	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	cymric	_	NPP	NPP		3	suj	3	suj
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	variété	variété	NC	NC	n=s|g=f	3	obj	3	obj
+6	à	à	P	P		5	dep	5	dep
+7	poil	poil	NC	NC	n=s|g=m	6	prep	6	prep
+8	mi-long	_	ADJ	ADJ		7	mod	7	mod
+9	du	de	P+D	P+D	n=s|g=m	5	dep	5	dep
+10	manx	_	NC	NC		9	prep	9	prep
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	a	avoir	V	V	n=s|t=P|p=3	0	root	0	root
+3	la	la	DET	DET	n=s|g=f	5	det	5	det
+4	même	même	ADJ	ADJ	n=s	5	mod	5	mod
+5	tête	tête	NC	NC	n=s|g=f	2	obj	2	obj
+6	que	que	CS	CS		2	mod	2	mod
+7	le	le	DET	DET	n=s|g=m	8	det	8	det
+8	manx	_	NC	NC		0	_	0	_
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	à	à	P	P		0	_	0	_
+11	savoir	savoir	VINF	VINF	t=W	10	prep	10	prep
+12	nez	nez	NC	NC	g=m	11	obj	11	obj
+13	incurvé	incurver	VPP	VPP	n=s|g=m|t=K	12	mod	12	mod
+14	et	et	CC	CC		12	coord	12	coord
+15	tête	tête	NC	NC	n=s|g=f	14	dep_coord	14	dep_coord
+16	ronde	rond	ADJ	ADJ	n=s|g=f	15	mod	15	mod
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	3	suj	3	suj
+2	est	être	V	V	n=s|t=P|p=3	3	aux_tps	3	aux_tps
+3	né	naître	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+4	naturellement	_	ADV	ADV		3	mod	3	mod
+5	de	de	P	P		3	mod	3	mod
+6	l'	le	DET	DET	n=s	7	det	7	det
+7	apparition	apparition	NC	NC	n=s|g=f	5	prep	5	prep
+8	de	de	P	P		3	mod	3	mod
+9	l'	le	DET	DET	n=s	10	det	10	det
+10	allèle	allèle	NC	NC	n=s|g=m	8	prep	8	prep
+11	du	de	P+D	P+D	n=s|g=m	3	mod	3	mod
+12	poil	poil	NC	NC	n=s|g=m	11	prep	11	prep
+13	long	long	ADJ	ADJ	n=s|g=m	12	mod	12	mod
+14	chez	chez	P	P		3	mod	3	mod
+15	les	les	DET	DET	n=p	16	det	16	det
+16	chats	chat	NC	NC	n=p|g=m	14	prep	14	prep
+17	sans	sans	P	P		3	mod	3	mod
+18	queue	queue	NC	NC	n=s|g=f	17	prep	17	prep
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	Cet	cet	DET	DET	n=s|g=m	2	det	2	det
+2	allèle	allèle	NC	NC	n=s|g=m	3	suj	3	suj
+3	semblait	sembler	V	V	n=s|t=I|p=3	0	root	0	root
+4	exister	exister	VINF	VINF	t=W	3	obj	3	obj
+5	depuis	depuis	P	P		4	mod	4	mod
+6	les	les	DET	DET	n=p	7	det	7	det
+7	années	année	NC	NC	n=p|g=f	5	prep	5	prep
+8	1940-1950	1940-1950	NPP	NPP		7	mod	7	mod
+9	;	;	PONCT	PONCT		8	ponct	8	ponct
+10	cependant	cependant	ADV	ADV		4	mod	4	mod
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	jusque	jusque	P	P		4	mod	4	mod
+13	vers	vers	P	P		12	dep	12	dep
+14	1960	1960	NC	NC		13	prep	13	prep
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	les	les	DET	DET	n=p	17	det	17	det
+17	individus	individu	NC	NC	n=p|g=m	12	prep	12	prep
+18	à	à	P	P		17	dep	17	dep
+19	poil	poil	NC	NC	n=s|g=m	18	prep	18	prep
+20	-	-	PONCT	PONCT		19	ponct	19	ponct
+21	mi	mi	NC	NC	g=m	17	mod	17	mod
+22	long	long	ADJ	ADJ	n=s|g=m	21	mod	21	mod
+23	étaient	être	V	V	n=p|t=I|p=3	25	aux_pass	25	aux_pass
+24	soigneusement	_	ADV	ADV		25	mod	25	mod
+25	écartés	écarter	VPP	VPP	n=p|g=m|t=K	17	mod_rel	17	mod_rel
+26	des	de	P+D	P+D	n=p	25	mod	25	mod
+27	expositions	exposition	NC	NC	n=p|g=f	26	prep	26	prep
+28	.	.	PONCT	PONCT		27	ponct	27	ponct
+
+1	Mais	mais	CC	CC		0	root	0	root
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	vers	vers	P	P		11	mod	11	mod
+4	cette	cette	DET	DET	n=s|g=f	6	det	6	det
+5	même	même	ADJ	ADJ	n=s	6	mod	6	mod
+6	date	date	NC	NC	n=s|g=f	3	prep	3	prep
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	les	les	DET	DET	n=p	9	det	9	det
+9	éleveurs	éleveur	NC	NC	n=p|g=m	11	suj	11	suj
+10	américains	américain	ADJ	ADJ	n=p|g=m	9	mod	9	mod
+11	commencèrent	commencer	V	V	n=p|t=J|p=3	1	dep_coord	1	dep_coord
+12	à	à	P	P		11	mod	11	mod
+13	s'	se	CLR	CLR	n=p,s|p=3	15	aff	15	aff
+14	y	y	CLO	CLO		15	aff	15	aff
+15	intéresser	intéresser	VINF	VINF	t=W	12	prep	12	prep
+16	et	et	CC	CC		11	coord	11	coord
+17	fixèrent	fixer	V	V	n=p|t=J|p=3	16	dep_coord	16	dep_coord
+18	ce	ce	DET	DET	n=s|g=m	19	det	19	det
+19	caractère	caractère	NC	NC	n=s|g=m	17	obj	17	obj
+20	dans	dans	P	P		17	mod	17	mod
+21	le	le	DET	DET	n=s|g=m	22	det	22	det
+22	but	but	NC	NC	n=s|g=m	20	prep	20	prep
+23	de	de	P	P		17	mod	17	mod
+24	créer	créer	VINF	VINF	t=W	23	prep	23	prep
+25	une	une	DET	DET	n=s|g=f	27	det	27	det
+26	nouvelle	nouveau	ADJ	ADJ	n=s|g=f	27	mod	27	mod
+27	race	race	NC	NC	n=s|g=f	24	obj	24	obj
+28	.	.	PONCT	PONCT		27	ponct	27	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	4	suj	4	suj
+2	est	être	V	V	n=s|t=P|p=3	4	aux_tps	4	aux_tps
+3	aujourd'hui	aujourd'hui	ADV	ADV		4	mod	4	mod
+4	reconnu	reconnaître	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+5	par	par	P	P		4	mod	4	mod
+6	la	la	DET	DET	n=s|g=f	7	det	7	det
+7	plupart	plupart	NC	NC	n=s|g=f	5	prep	5	prep
+8	des	de	P+D	P+D	n=p	4	mod	4	mod
+9	grandes	grand	ADJ	ADJ	n=p|g=f	10	mod	10	mod
+10	fédérations	fédération	NC	NC	n=p|g=f	8	prep	8	prep
+11	mais	mais	CC	CC		4	coord	4	coord
+12	a	avoir	V	V	n=s|t=P|p=3	13	aux_tps	13	aux_tps
+13	eu	avoir	VPP	VPP	n=s|g=m|t=K	11	dep_coord	11	dep_coord
+14	du	du	DET	DET	n=s|g=m	15	det	15	det
+15	mal	mal	NC	NC	n=s|g=m	13	obj	13	obj
+16	à	à	P	P		13	mod	13	mod
+17	percer1	_	NC	NC		16	prep	16	prep
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	manx	_	NC	NC		3	suj	3	suj
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	un	un	DET	DET	n=s|g=m	5	det	5	det
+5	chat	chat	NC	NC	n=s|g=m	3	obj	3	obj
+6	au	à	P+D	P+D	n=s|g=m	3	mod	3	mod
+7	caractère	caractère	NC	NC	n=s|g=m	6	prep	6	prep
+8	équilibré	équilibrer	ADJ	ADJ	n=s|g=m|t=K	7	mod	7	mod
+9	et	et	CC	CC		8	coord	8	coord
+10	facile	facile	ADJ	ADJ	n=s	9	dep_coord	9	dep_coord
+11	à	à	P	P		3	mod	3	mod
+12	vivre	vivre	VINF	VINF	t=W	11	prep	11	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	comme	comme	P	P		12	mod	12	mod
+15	l'	le	DET	DET	n=s	16	det	16	det
+16	européen	européen	ADJ	ADJ	n=s|g=m	14	prep	14	prep
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+1	Malgré	malgré	P	P		11	mod	11	mod
+2	son	son	DET	DET	n=s|g=m|p=3|poss=s	3	det	3	det
+3	tempérament	tempérament	NC	NC	n=s|g=m	1	prep	1	prep
+4	calme	calme	ADJ	ADJ	n=s	3	mod	3	mod
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	ce	ce	DET	DET	n=s|g=m	7	det	7	det
+7	chat	chat	NC	NC	n=s|g=m	11	suj	11	suj
+8	anoure	anoure	ADJ	ADJ	n=s	7	mod	7	mod
+9	n'	ne	ADV	ADV		11	mod	11	mod
+10	en	en	CLO	CLO		11	aff	11	aff
+11	reste	rester	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+12	pas	pas	ADV	ADV		11	mod	11	mod
+13	moins	moins	ADV	ADV		11	mod	11	mod
+14	un	un	DET	DET	n=s|g=m	16	det	16	det
+15	excellent	excellent	ADJ	ADJ	n=s|g=m	16	mod	16	mod
+16	chasseur	chasseur	NC	NC	n=s|g=m	11	obj	11	obj
+17	et	et	CC	CC		16	coord	16	coord
+18	joueur	joueur	NC	NC	n=s|g=m	17	dep_coord	17	dep_coord
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	et	et	CC	CC		11	coord	11	coord
+21	ce	ce	PRO	PRO	n=s	20	dep_coord	20	dep_coord
+22	à	à	P	P		20	dep_coord	20	dep_coord
+23	tous	tout	ADJ	ADJ	n=p|g=m	25	mod	25	mod
+24	les	les	DET	DET	n=p	25	det	25	det
+25	âges6	_	NC	NC		22	prep	22	prep
+26	.	.	PONCT	PONCT		25	ponct	25	ponct
+
+1	Ce	ce	DET	DET	n=s|g=m	2	det	2	det
+2	chat	chat	NC	NC	n=s|g=m	7	suj	7	suj
+3	très	très	ADV	ADV		4	mod	4	mod
+4	affectueux	affectueux	ADJ	ADJ	g=m	2	mod	2	mod
+5	et	et	CC	CC		4	coord	4	coord
+6	sociable	sociable	ADJ	ADJ	n=s	5	dep_coord	5	dep_coord
+7	arrive	arriver	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+8	à	à	P	P		7	mod	7	mod
+9	très	très	ADV	ADV		10	mod	10	mod
+10	bien	bien	ADV	ADV		13	mod	13	mod
+11	se	se	CLR	CLR	n=p,s|p=3	13	obj	13	obj
+12	faire	faire	VINF	VINF	t=W	13	aux_caus	13	aux_caus
+13	comprendre	comprendre	VINF	VINF	t=W	8	prep	8	prep
+14	malgré	malgré	P	P		13	mod	13	mod
+15	son	son	DET	DET	n=s|g=m|p=3|poss=s	16	det	16	det
+16	absence	absence	NC	NC	n=s|g=f	14	prep	14	prep
+17	de	de	P	P		13	mod	13	mod
+18	queue	queue	NC	NC	n=s|g=f	17	prep	17	prep
+19	grâce	grâce	NC	NC	n=s|g=f	18	mod	18	mod
+20	à	à	P	P		13	mod	13	mod
+21	des	des	DET	DET	n=p	22	det	22	det
+22	expressions	expression	NC	NC	n=p|g=f	20	prep	20	prep
+23	de	de	P	P		22	dep	22	dep
+24	visage	visage	NC	NC	n=s|g=m	23	prep	23	prep
+25	et	et	CC	CC		20	coord	20	coord
+26	des	de	P+D	P+D	n=p	25	dep_coord	25	dep_coord
+27	miaulements	miaulement	NC	NC	n=p|g=m	26	prep	26	prep
+28	très	très	ADV	ADV		29	mod	29	mod
+29	parlants1	_	VPP	VPP		27	mod	27	mod
+30	.	.	PONCT	PONCT		29	ponct	29	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	manx	_	NC	NC		5	suj	5	suj
+3	entre	entre	P	P		2	dep	2	dep
+4	eux	eux	PRO	PRO	n=p|g=m|p=3	3	prep	3	prep
+5	respectent	respecter	V	V	n=p|t=P,S|p=3	0	root	0	root
+6	la	la	DET	DET	n=s|g=f	7	det	7	det
+7	parité	parité	NC	NC	n=s|g=f	5	obj	5	obj
+8	:	:	PONCT	PONCT		7	ponct	7	ponct
+9	les	les	DET	DET	n=p	10	det	10	det
+10	mâles	mâle	NC	NC	n=p|g=m	11	suj	11	suj
+11	sont	être	V	V	n=p|t=P|p=3	5	mod	5	mod
+12	aussi	aussi	ADV	ADV		11	mod	11	mod
+13	attentionnés	attentionné	ADJ	ADJ	n=p|g=m	11	ats	11	ats
+14	envers	envers	P	P		11	mod	11	mod
+15	leurs	leurs	DET	DET	n=p|p=3|poss=p	16	det	16	det
+16	chatons	chaton	NC	NC	n=p|g=m	14	prep	14	prep
+17	que	que	CS	CS		11	mod	11	mod
+18	les	les	DET	DET	n=p	19	det	19	det
+19	femelles6	_	NC	NC		0	_	0	_
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	puberté	puberté	NC	NC	n=s|g=f	6	suj	6	suj
+3	des	de	P+D	P+D	n=p	2	dep	2	dep
+4	femelles	femelle	NC	NC	n=p|g=f	3	prep	3	prep
+5	manx	_	NPP	NPP		4	mod	4	mod
+6	arrive	arriver	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+7	tardivement	_	ADV	ADV		6	mod	6	mod
+8	.	.	PONCT	PONCT		7	ponct	7	ponct
+
+1	Une	une	DET	DET	n=s|g=f	2	det	2	det
+2	étude	étude	NC	NC	n=s|g=f	6	suj	6	suj
+3	de	de	P	P		2	dep	2	dep
+4	1978	1978	NC	NC		3	prep	3	prep
+5	a	avoir	V	V	n=s|t=P|p=3	6	aux_tps	6	aux_tps
+6	montré	montrer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+7	que	que	CS	CS		6	obj	6	obj
+8	le	le	DET	DET	n=s|g=m	10	det	10	det
+9	premier	premier	ADJ	ADJ	n=s|g=m	10	mod	10	mod
+10	œstrus	_	NC	NC		12	suj	12	suj
+11	se	se	CLR	CLR	n=p,s|p=3	12	aff	12	aff
+12	trouvait	trouver	V	V	n=s|t=I|p=3	7	sub	7	sub
+13	en	en	P	P		12	mod	12	mod
+14	moyenne	moyenne	NC	NC	n=s|g=f	13	prep	13	prep
+15	à	à	P	P		12	mod	12	mod
+16	12,4	12,4	ADJ	ADJ		15	prep	15	prep
+17	mois	mois	NC	NC	g=m	15	prep	15	prep
+18	avec	avec	P	P		12	mod	12	mod
+19	des	des	DET	DET	n=p	20	det	20	det
+20	valeurs	valeur	NC	NC	n=p|g=f	18	prep	18	prep
+21	comprises	comprendre	VPP	VPP	n=p|g=f|t=K	20	mod	20	mod
+22	entre	entre	P	P		21	mod	21	mod
+23	4	4	NC	NC		22	prep	22	prep
+24	et	et	CC	CC		20	coord	20	coord
+25	21	21	ADJ	ADJ		26	mod	26	mod
+26	mois7	_	NC	NC		24	dep_coord	24	dep_coord
+27	.	.	PONCT	PONCT		26	ponct	26	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	portées	portée	NC	NC	n=p|g=f	4	suj	4	suj
+3	sont	être	V	V	n=p|t=P|p=3	4	aux_pass	4	aux_pass
+4	réduites	réduire	VPP	VPP	n=p|g=f|t=K	0	root	0	root
+5	:	:	PONCT	PONCT		4	ponct	4	ponct
+6	1	1	ADJ	ADJ		7	mod	7	mod
+7	chaton	chaton	NC	NC	n=s|g=m	4	mod	4	mod
+8	sur	sur	P	P		7	dep	7	dep
+9	5	5	NC	NC		8	prep	8	prep
+10	meurt	mourir	V	V	n=s|t=P|p=3	4	mod	4	mod
+11	à	à	P	P		10	mod	10	mod
+12	l'	le	DET	DET	n=s	13	det	13	det
+13	état	état	NC	NC	n=s|g=m	11	prep	11	prep
+14	d'	de	P	P		10	mod	10	mod
+15	embryon	embryon	NC	NC	n=s|g=m	14	prep	14	prep
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	d'	de	DET	DET	n=p	18	det	18	det
+18	autres	autres	PRO	PRO	n=p|g=f,m	4	mod	4	mod
+19	naissent	naître	V	V	n=p|t=P,S|p=3	18	mod_rel	18	mod_rel
+20	avec	avec	P	P		19	mod	19	mod
+21	des	des	DET	DET	n=p	22	det	22	det
+22	malformations1	_	NC	NC		20	prep	20	prep
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	croisements	croisement	NC	NC	n=p|g=m	18	suj	18	suj
+3	avec	avec	P	P		2	dep	2	dep
+4	des	des	DET	DET	n=p	5	det	5	det
+5	cymric	_	NPP	NPP		3	prep	3	prep
+6	(	(	PONCT	PONCT		5	ponct	5	ponct
+7	variété	variété	NC	NC	n=s|g=f	2	mod	2	mod
+8	à	à	P	P		7	dep	7	dep
+9	poil	poil	NC	NC	n=s|g=m	8	prep	8	prep
+10	mi-long	_	NPP	NPP		9	mod	9	mod
+11	)	)	PONCT	PONCT		10	ponct	10	ponct
+12	,	,	PONCT	PONCT		10	ponct	10	ponct
+13	des	des	DET	DET	n=p	15	det	15	det
+14	british	british	ADJ	ADJ		15	mod	15	mod
+15	longhair	_	NC	NC		18	suj	18	suj
+16	et	et	CC	CC		15	coord	15	coord
+17	shorthair	_	NC	NC		16	dep_coord	16	dep_coord
+18	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+19	les	les	DET	DET	n=p	0	_	0	_
+20	seuls	seul	ADJ	ADJ	n=p|g=m	0	_	0	_
+21	autorisés	autoriser	VPP	VPP	n=p|g=m|t=K	20	mod	20	mod
+22	en	en	P	P		21	mod	21	mod
+23	dehors	dehors	NC	NC	g=m	22	prep	22	prep
+24	de	de	P	P		21	mod	21	mod
+25	la	la	DET	DET	n=s|g=f	26	det	26	det
+26	race	race	NC	NC	n=s|g=f	24	prep	24	prep
+27	.	.	PONCT	PONCT		26	ponct	26	ponct
+
+1	Dans	dans	P	P		15	mod	15	mod
+2	la	la	DET	DET	n=s|g=f	3	det	3	det
+3	race	race	NC	NC	n=s|g=f	1	prep	1	prep
+4	elle	elle	PRO	PRO	n=s|g=f|p=3	15	suj	15	suj
+5	-	-	PONCT	PONCT		4	ponct	4	ponct
+6	même	même	ADV	ADV		15	mod	15	mod
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	les	les	DET	DET	n=p	9	det	9	det
+9	rumpy	_	NC	NC		15	suj	15	suj
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	rumpy-riser	_	NPP	NPP		9	mod	9	mod
+12	et	et	CC	CC		9	coord	9	coord
+13	stumpy	_	NC	NC		12	dep_coord	12	dep_coord
+14	ne	ne	ADV	ADV		15	mod	15	mod
+15	peuvent	pouvoir	V	V	n=p|t=P|p=3	0	root	0	root
+16	être	être	VINF	VINF	t=W	15	obj	15	obj
+17	croisés	croiser	VPP	VPP	n=p|g=m|t=K	16	dep	16	dep
+18	qu'	que	CS	CS		15	mod	15	mod
+19	avec	avec	P	P		0	_	0	_
+20	des	des	DET	DET	n=p	21	det	21	det
+21	longy6	_	NC	NC		19	prep	19	prep
+22	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	entretien	entretien	NC	NC	n=s|g=m	6	suj	6	suj
+3	d'	de	P	P		2	dep	2	dep
+4	un	un	DET	DET	n=s|g=m	5	det	5	det
+5	manx	_	NC	NC		3	prep	3	prep
+6	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+7	très	très	ADV	ADV		6	mod	6	mod
+8	facile	facile	ADJ	ADJ	n=s	6	ats	6	ats
+9	.	.	PONCT	PONCT		8	ponct	8	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	3	suj	3	suj
+2	n'	ne	ADV	ADV		3	mod	3	mod
+3	a	avoir	V	V	n=s|t=P|p=3	0	root	0	root
+4	pas	pas	ADV	ADV		3	mod	3	mod
+5	besoin	besoin	NC	NC	n=s|g=m	3	obj	3	obj
+6	de	de	P	P		3	mod	3	mod
+7	nourriture	nourriture	NC	NC	n=s|g=f	6	prep	6	prep
+8	particulière	particulier	ADJ	ADJ	n=s|g=f	7	mod	7	mod
+9	.	.	PONCT	PONCT		8	ponct	8	ponct
+
+1	En	en	P	P		6	mod	6	mod
+2	fait	fait	NC	NC	n=s|g=m	1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	il	il	CLS	CLS	n=s|g=m|p=3	6	suj	6	suj
+5	n'	ne	ADV	ADV		6	mod	6	mod
+6	a	avoir	V	V	n=s|t=P|p=3	0	root	0	root
+7	presque	presque	ADV	ADV		6	mod	6	mod
+8	pas	pas	ADV	ADV		6	mod	6	mod
+9	besoin	besoin	NC	NC	n=s|g=m	6	obj	6	obj
+10	d'	de	P	P		6	mod	6	mod
+11	entretien	entretien	NC	NC	n=s|g=m	10	prep	10	prep
+12	si	si	CS	CS		6	mod	6	mod
+13	ce	ce	CLS	CLS		15	suj	15	suj
+14	n'	ne	ADV	ADV		15	mod	15	mod
+15	est	être	V	V	n=s|t=P|p=3	12	sub	12	sub
+16	le	le	DET	DET	n=s|g=m	17	det	17	det
+17	brossage	brossage	NC	NC	n=s|g=m	15	obj	15	obj
+18	habituel	habituel	ADJ	ADJ	n=s|g=m	17	mod	17	mod
+19	de	de	P	P		15	mod	15	mod
+20	son	son	DET	DET	n=s|g=m|p=3|poss=s	21	det	21	det
+21	poil	poil	NC	NC	n=s|g=m	19	prep	19	prep
+22	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	manx	_	NC	NC		4	suj	4	suj
+3	ne	ne	ADV	ADV		4	mod	4	mod
+4	connaît	connaître	V	V	n=s|t=P|p=3	0	root	0	root
+5	aucun	aucun	DET	DET	n=s|g=m	6	det	6	det
+6	problème	problème	NC	NC	n=s|g=m	4	obj	4	obj
+7	de	de	P	P		4	mod	4	mod
+8	santé	santé	NC	NC	n=s|g=f	7	prep	7	prep
+9	particulier	particulier	ADJ	ADJ	n=s|g=m	8	mod	8	mod
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+1	Une	une	DET	DET	n=s|g=f	3	det	3	det
+2	autre	autre	ADJ	ADJ	n=s	3	mod	3	mod
+3	caractéristique	caractéristique	NC	NC	n=s|g=f	8	suj	8	suj
+4	agréable	agréable	ADJ	ADJ	n=s	3	mod	3	mod
+5	de	de	P	P		3	dep	3	dep
+6	cette	cette	DET	DET	n=s|g=f	7	det	7	det
+7	race	race	NC	NC	n=s|g=f	5	prep	5	prep
+8	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+9	son	son	DET	DET	n=s|g=m|p=3|poss=s	11	det	11	det
+10	exceptionnelle	exceptionnel	ADJ	ADJ	n=s|g=f	11	mod	11	mod
+11	longévité	longévité	NC	NC	n=s|g=f	8	obj	8	obj
+12	:	:	PONCT	PONCT		11	ponct	11	ponct
+13	bien	bien	ADV	ADV		14	mod	14	mod
+14	traité	traiter	VPP	VPP	n=s|g=m|t=K	11	mod	11	mod
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	il	il	CLS	CLS	n=s|g=m|p=3	17	suj	17	suj
+17	peut	pouvoir	V	V	n=s|t=P|p=3	8	mod	8	mod
+18	atteindre	atteindre	VINF	VINF	t=W	17	obj	17	obj
+19	allègrement	_	ADV	ADV		18	mod	18	mod
+20	les	les	DET	DET	n=p	22	det	22	det
+21	20	20	ADJ	ADJ		22	mod	22	mod
+22	ans	an	NC	NC	n=p|g=m	18	obj	18	obj
+23	et	et	CC	CC		17	coord	17	coord
+24	ce	ce	PRO	PRO	n=s	23	dep_coord	23	dep_coord
+25	sans	sans	P	P		23	dep_coord	23	dep_coord
+26	problèmes	problème	NC	NC	n=p|g=m	25	prep	25	prep
+27	particuliers	particulier	ADJ	ADJ	n=p|g=m	26	mod	26	mod
+28	dus	devoir	V	V	n=s|t=J|p=1,2	23	dep_coord	23	dep_coord
+29	à	à	P	P		28	mod	28	mod
+30	cet	cet	DET	DET	n=s|g=m	31	det	31	det
+31	âge	âge	NC	NC	n=s|g=m	29	prep	29	prep
+32	.	.	PONCT	PONCT		31	ponct	31	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	gène	gène	NC	NC	n=s|g=m	4	suj	4	suj
+3	manx	_	NC	NC		2	mod	2	mod
+4	porte	porter	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+5	le	le	DET	DET	n=s|g=m	6	det	6	det
+6	nom	nom	NC	NC	n=s|g=m	4	obj	4	obj
+7	du	de	P+D	P+D	n=s|g=m	6	dep	6	dep
+8	manx	_	NC	NC		7	prep	7	prep
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	chez	chez	P	P		4	mod	4	mod
+11	qui	qui	PROREL	PROREL	n=s	10	prep	10	prep
+12	il	il	CLS	CLS	n=s|g=m|p=3	15	suj	15	suj
+13	a	avoir	V	V	n=s|t=P|p=3	15	aux_tps	15	aux_tps
+14	été	être	VPP	VPP	t=K	15	aux_pass	15	aux_pass
+15	découvert	découvrir	VPP	VPP	n=s|g=m|t=K	10	sub	10	sub
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+1	Présent	présent	ADJ	ADJ	n=s|g=m	8	mod	8	mod
+2	chez	chez	P	P		1	mod	1	mod
+3	tous	tout	ADJ	ADJ	n=p|g=m	5	mod	5	mod
+4	les	les	DET	DET	n=p	5	det	5	det
+5	vertébrés	vertébré	NC	NC	n=p|g=m	2	prep	2	prep
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	il	il	CLS	CLS	n=s|g=m|p=3	8	suj	8	suj
+8	permet	permettre	V	V	n=s|t=P|p=3	0	root	0	root
+9	le	le	DET	DET	n=s|g=m	10	det	10	det
+10	développement	développement	NC	NC	n=s|g=m	8	obj	8	obj
+11	de	de	P	P		8	mod	8	mod
+12	la	la	DET	DET	n=s|g=f	13	det	13	det
+13	colonne	colonne	NC	NC	n=s|g=f	11	prep	11	prep
+14	vertébrale	vertébral	ADJ	ADJ	n=s|g=f	13	mod	13	mod
+15	et	et	CC	CC		8	coord	8	coord
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	notamment	_	ADV	ADV		15	mod	15	mod
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	de	de	P	P		15	dep_coord	15	dep_coord
+20	la	la	DET	DET	n=s|g=f	21	det	21	det
+21	queue	queue	NC	NC	n=s|g=f	19	prep	19	prep
+22	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	apparition	apparition	NC	NC	n=s|g=f	8	suj	8	suj
+3	de	de	P	P		2	dep	2	dep
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	race	race	NC	NC	n=s|g=f	3	prep	3	prep
+6	manx	_	NPP	NPP		5	mod	5	mod
+7	est	être	V	V	n=s|t=P|p=3	8	aux_pass	8	aux_pass
+8	due	devoir	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+9	à	à	P	P		8	mod	8	mod
+10	une	une	DET	DET	n=s|g=f	11	det	11	det
+11	mutation	mutation	NC	NC	n=s|g=f	9	prep	9	prep
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	qui	qui	PROREL	PROREL	n=s	15	suj	15	suj
+14	a	avoir	V	V	n=s|t=P|p=3	15	aux_tps	15	aux_tps
+15	causé	causer	VPP	VPP	n=s|g=m|t=K	8	mod	8	mod
+16	l'	le	DET	DET	n=s	17	det	17	det
+17	apparition	apparition	NC	NC	n=s|g=f	15	obj	15	obj
+18	d'	de	P	P		15	mod	15	mod
+19	une	une	DET	DET	n=s|g=f	21	det	21	det
+20	nouvelle	nouveau	ADJ	ADJ	n=s|g=f	21	mod	21	mod
+21	version	version	NC	NC	n=s|g=f	18	prep	18	prep
+22	du	de	P+D	P+D	n=s|g=m	21	dep	21	dep
+23	gène	gène	NC	NC	n=s|g=m	22	prep	22	prep
+24	,	,	PONCT	PONCT		23	ponct	23	ponct
+25	l'	le	DET	DET	n=s	26	det	26	det
+26	allèle	allèle	NC	NC	n=s|g=m	15	mod	15	mod
+27	mutant	mutant	ADJ	ADJ	n=s|g=m	26	mod	26	mod
+28	M	_	NPP	NPP		26	mod	26	mod
+29	,	,	PONCT	PONCT		28	ponct	28	ponct
+30	qui	qui	PROREL	PROREL	n=s	31	suj	31	suj
+31	provoque	provoquer	V	V	n=s|t=P,S|p=1,3	26	mod_rel	26	mod_rel
+32	un	un	DET	DET	n=s|g=m	33	det	33	det
+33	développement	développement	NC	NC	n=s|g=m	31	obj	31	obj
+34	anormal	anormal	ADJ	ADJ	n=s|g=m	33	mod	33	mod
+35	des	de	P+D	P+D	n=p	33	dep	33	dep
+36	vertèbres	vertèbre	NC	NC	n=p|g=f	35	prep	35	prep
+37	et	et	CC	CC		35	coord	35	coord
+38	du	de	P+D	P+D	n=s|g=m	37	dep_coord	37	dep_coord
+39	coccyx	coccyx	NC	NC	g=m	38	prep	38	prep
+40	,	,	PONCT	PONCT		39	ponct	39	ponct
+41	et	et	CC	CC		31	coord	31	coord
+42	empêche	empêcher	V	V	n=s|t=P,S|p=1,3	41	dep_coord	41	dep_coord
+43	le	le	DET	DET	n=s|g=m	44	det	44	det
+44	développement	développement	NC	NC	n=s|g=m	42	obj	42	obj
+45	de	de	P	P		42	mod	42	mod
+46	la	la	DET	DET	n=s|g=f	47	det	47	det
+47	queue	queue	NC	NC	n=s|g=f	45	prep	45	prep
+48	.	.	PONCT	PONCT		47	ponct	47	ponct
+
+1	Un	un	DET	DET	n=s|g=m	2	det	2	det
+2	chat	chat	NC	NC	n=s|g=m	14	suj	14	suj
+3	portant	porter	VPR	VPR	t=G	2	mod	2	mod
+4	un	un	DET	DET	n=s|g=m	5	det	5	det
+5	allèle	allèle	NC	NC	n=s|g=m	3	obj	3	obj
+6	mutant	mutant	ADJ	ADJ	n=s|g=m	5	mod	5	mod
+7	M	_	NPP	NPP		5	mod	5	mod
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	et	et	CC	CC		5	coord	5	coord
+10	un	un	DET	DET	n=s|g=m	11	det	11	det
+11	allèle	allèle	NC	NC	n=s|g=m	9	dep_coord	9	dep_coord
+12	normal	normal	ADJ	ADJ	n=s|g=m	11	mod	11	mod
+13	m	_	NC	NC		11	mod	11	mod
+14	aura	avoir	V	V	n=s|t=F|p=3	0	root	0	root
+15	donc	donc	ADV	ADV		14	mod	14	mod
+16	une	une	DET	DET	n=s|g=f	17	det	17	det
+17	queue	queue	NC	NC	n=s|g=f	14	obj	14	obj
+18	considérablement	_	ADV	ADV		19	mod	19	mod
+19	raccourcie	raccourcir	VPP	VPP	n=s|g=f|t=K	17	mod	17	mod
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	voire	voire	CC	CC		17	coord	17	coord
+22	absente	absent	ADJ	ADJ	n=s|g=f	21	dep_coord	21	dep_coord
+23	:	:	PONCT	PONCT		22	ponct	22	ponct
+24	ce	ce	CLS	CLS		25	suj	25	suj
+25	sera	être	V	V	n=s|t=F|p=3	14	mod	14	mod
+26	un	un	DET	DET	n=s|g=m	27	det	27	det
+27	chat	chat	NC	NC	n=s|g=m	25	obj	25	obj
+28	manx	_	NPP	NPP		27	mod	27	mod
+29	.	.	PONCT	PONCT		28	ponct	28	ponct
+
+1	Cependant	cependant	ADV	ADV		0	_	0	_
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	comme	comme	CS	CS		0	_	0	_
+4	le	le	DET	DET	n=s|g=m	6	det	6	det
+5	nouvel	_	ADJ	ADJ		6	mod	6	mod
+6	allèle	allèle	NC	NC	n=s|g=m	8	suj	8	suj
+7	M	_	NPP	NPP		6	mod	6	mod
+8	est	être	V	V	n=s|t=P|p=3	3	sub	3	sub
+9	dominant	dominant	ADJ	ADJ	n=s|g=m	8	ats	8	ats
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	si	si	CS	CS		8	mod	8	mod
+12	un	un	DET	DET	n=s|g=m	13	det	13	det
+13	chat	chat	NC	NC	n=s|g=m	14	suj	14	suj
+14	porte	porter	V	V	n=s|t=P,S|p=1,3	11	sub	11	sub
+15	deux	deux	DET	DET	s=card|n=p	16	det	16	det
+16	allèles	allèle	NC	NC	n=p|g=m	14	obj	14	obj
+17	M	_	NPP	NPP		16	mod	16	mod
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	les	les	DET	DET	n=p	20	det	20	det
+20	malformations	malformation	NC	NC	n=p|g=f	21	suj	21	suj
+21	seront	être	V	V	n=p|t=F|p=3	11	root	11	root
+22	tellement	_	ADV	ADV		23	mod	23	mod
+23	importantes	important	ADJ	ADJ	n=p|g=f	21	ats	21	ats
+24	qu'	que	CS	CS		21	mod	21	mod
+25	elles	elles	CLS	CLS	n=p|g=f|p=3	26	suj	26	suj
+26	empêcheront	empêcher	V	V	n=p|t=F|p=3	24	sub	24	sub
+27	la	la	DET	DET	n=s|g=f	28	det	28	det
+28	colonne	colonne	NC	NC	n=s|g=f	26	obj	26	obj
+29	vertébrale	vertébral	ADJ	ADJ	n=s|g=f	28	mod	28	mod
+30	de	de	P	P		26	mod	26	mod
+31	bien	bien	ADV	ADV		33	mod	33	mod
+32	se	se	CLR	CLR	n=p,s|p=3	33	aff	33	aff
+33	former	former	VINF	VINF	t=W	30	prep	30	prep
+34	,	,	PONCT	PONCT		33	ponct	33	ponct
+35	ce	ce	PRO	PRO	n=s	26	mod	26	mod
+36	qui	qui	PROREL	PROREL	n=s	38	suj	38	suj
+37	n'	ne	ADV	ADV		38	mod	38	mod
+38	est	être	V	V	n=s|t=P|p=3	35	mod_rel	35	mod_rel
+39	pas	pas	ADV	ADV		38	mod	38	mod
+40	viable	viable	ADJ	ADJ	n=s	38	ats	38	ats
+41	:	:	PONCT	PONCT		40	ponct	40	ponct
+42	la	la	DET	DET	n=s|g=f	43	det	43	det
+43	moelle	moelle	NC	NC	n=s|g=f	38	obj	38	obj
+44	épinière	épinière	ADJ	ADJ	n=s|g=f	43	mod	43	mod
+45	ne	ne	ADV	ADV		47	mod	47	mod
+46	se	se	CLR	CLR	n=p,s|p=3	47	aff	47	aff
+47	développe	développer	V	V	n=s|t=P,S|p=1,3	38	mod	38	mod
+48	pas	pas	ADV	ADV		47	mod	47	mod
+49	complètement	_	ADV	ADV		47	mod	47	mod
+50	,	,	PONCT	PONCT		49	ponct	49	ponct
+51	et	et	CC	CC		47	coord	47	coord
+52	le	le	DET	DET	n=s|g=m	53	det	53	det
+53	chaton	chaton	NC	NC	n=s|g=m	54	suj	54	suj
+54	meurt	mourir	V	V	n=s|t=P|p=3	51	dep_coord	51	dep_coord
+55	dans	dans	P	P		54	mod	54	mod
+56	l'	le	DET	DET	n=s	57	det	57	det
+57	utérus	utérus	NC	NC	g=m	55	prep	55	prep
+58	de	de	P	P		54	mod	54	mod
+59	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	60	det	60	det
+60	mère	mère	NC	NC	n=s|g=f	58	prep	58	prep
+61	.	.	PONCT	PONCT		60	ponct	60	ponct
+
+1	Tous	tout	ADJ	ADJ	n=p|g=m	3	mod	3	mod
+2	les	les	DET	DET	n=p	3	det	3	det
+3	chatons	chaton	NC	NC	n=p|g=m	7	suj	7	suj
+4	arrivant	arriver	VPR	VPR	t=G	3	mod	3	mod
+5	à	à	P	P		4	mod	4	mod
+6	terme	terme	NC	NC	n=s|g=m	5	prep	5	prep
+7	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+8	donc	donc	ADV	ADV		7	mod	7	mod
+9	hétérozygotes	hétérozygote	ADJ	ADJ	n=p	7	ats	7	ats
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	génétique	génétique	NC	NC	n=s|g=f	3	suj	3	suj
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	donc	donc	ADV	ADV		3	mod	3	mod
+5	un	un	PRO	PRO	n=s|g=m	3	ats	3	ats
+6	des	de	P+D	P+D	n=p	5	dep	5	dep
+7	autres	autre	ADJ	ADJ	n=p	8	mod	8	mod
+8	problèmes	problème	NC	NC	n=p|g=m	6	prep	6	prep
+9	de	de	P	P		3	mod	3	mod
+10	l'	le	DET	DET	n=s	11	det	11	det
+11	élevage	élevage	NC	NC	n=s|g=m	9	prep	9	prep
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	car	car	CS	CS		3	mod	3	mod
+14	les	les	DET	DET	n=p	15	det	15	det
+15	manx	_	NC	NC		16	suj	16	suj
+16	auront	avoir	V	V	n=p|t=F|p=3	13	sub	13	sub
+17	en	en	P	P		16	mod	16	mod
+18	moyenne	moyenne	NC	NC	n=s|g=f	17	prep	17	prep
+19	moins	moins	ADV	ADV		16	mod	16	mod
+20	de	de	P	P		16	mod	16	mod
+21	petits	petit	ADJ	ADJ	n=p|g=m	20	prep	20	prep
+22	par	par	P	P		16	mod	16	mod
+23	portée	portée	NC	NC	n=s|g=f	22	prep	22	prep
+24	que	que	CS	CS		16	mod	16	mod
+25	les	les	DET	DET	n=p	27	det	27	det
+26	autres	autre	ADJ	ADJ	n=p	27	mod	27	mod
+27	races	race	NC	NC	n=p|g=f	24	sub	24	sub
+28	,	,	PONCT	PONCT		27	ponct	27	ponct
+29	et	et	CC	CC		13	coord	13	coord
+30	que	que	CS	CS		29	dep_coord	29	dep_coord
+31	,	,	PONCT	PONCT		30	ponct	30	ponct
+32	les	les	DET	DET	n=p	33	det	33	det
+33	manx	_	NC	NC		42	suj	42	suj
+34	possédant	posséder	VPR	VPR	t=G	33	mod	33	mod
+35	tous	tout	ADJ	ADJ	n=p|g=m	37	mod	37	mod
+36	un	un	DET	DET	n=s|g=m	37	det	37	det
+37	allèle	allèle	NC	NC	n=s|g=m	34	obj	34	obj
+38	normal	normal	ADJ	ADJ	n=s|g=m	37	mod	37	mod
+39	m	_	NPP	NPP		37	mod	37	mod
+40	,	,	PONCT	PONCT		39	ponct	39	ponct
+41	ils	ils	CLS	CLS	n=p|g=m|p=3	42	suj	42	suj
+42	peuvent	pouvoir	V	V	n=p|t=P|p=3	30	sub	30	sub
+43	le	le	CLO	CLO	n=s|g=m|p=3	44	obj	44	obj
+44	transmettre	transmettre	VINF	VINF	t=W	42	obj	42	obj
+45	à	à	P	P		44	mod	44	mod
+46	leurs	leurs	DET	DET	n=p|p=3|poss=p	47	det	47	det
+47	chatons	chaton	NC	NC	n=p|g=m	45	prep	45	prep
+48	qui	qui	PROREL	PROREL	n=s	50	suj	50	suj
+49	ne	ne	ADV	ADV		50	mod	50	mod
+50	seront	être	V	V	n=p|t=F|p=3	47	mod_rel	47	mod_rel
+51	donc	donc	ADV	ADV		50	mod	50	mod
+52	pas	pas	ADV	ADV		50	mod	50	mod
+53	forcément	_	ADV	ADV		50	mod	50	mod
+54	manx	_	NC	NC		50	obj	50	obj
+55	...	...	PONCT	PONCT		54	ponct	54	ponct
+
+1	Tous	tout	ADJ	ADJ	n=p|g=m	3	mod	3	mod
+2	les	les	DET	DET	n=p	3	det	3	det
+3	chats	chat	NC	NC	n=p|g=m	6	suj	6	suj
+4	manx	_	NPP	NPP		3	mod	3	mod
+5	ne	ne	ADV	ADV		6	mod	6	mod
+6	naissent	naître	V	V	n=p|t=P,S|p=3	0	root	0	root
+7	pas	pas	ADV	ADV		6	mod	6	mod
+8	sans	sans	P	P		6	mod	6	mod
+9	queue	queue	NC	NC	n=s|g=f	8	prep	8	prep
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	le	le	DET	DET	n=s|g=m	12	det	12	det
+12	gène	gène	NC	NC	n=s|g=m	6	obj	6	obj
+13	responsable	responsable	ADJ	ADJ	n=s	12	mod	12	mod
+14	de	de	P	P		12	dep	12	dep
+15	cette	cette	DET	DET	n=s|g=f	16	det	16	det
+16	particularité	particularité	NC	NC	n=s|g=f	14	prep	14	prep
+17	n'	ne	ADV	ADV		18	mod	18	mod
+18	ayant	avoir	VPR	VPR	t=G	12	mod	12	mod
+19	pas	pas	ADV	ADV		18	mod	18	mod
+20	encore	encore	ADV	ADV		18	mod	18	mod
+21	été	être	VPP	VPP	t=K	18	dep	18	dep
+22	fixé1	_	NC	NC		21	mod	21	mod
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	mariages	mariage	NC	NC	n=p|g=m	5	suj	5	suj
+3	entre	entre	P	P		2	dep	2	dep
+4	rumpy	_	NC	NC		3	prep	3	prep
+5	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+6	interdits	interdire	ADJ	ADJ	n=p|g=m|t=K	5	ats	5	ats
+7	car	car	CS	CS		5	mod	5	mod
+8	cela	cela	PRO	PRO	n=s|g=m	9	suj	9	suj
+9	peut	pouvoir	V	V	n=s|t=P|p=3	7	sub	7	sub
+10	causer	causer	VINF	VINF	t=W	9	obj	9	obj
+11	la	la	DET	DET	n=s|g=f	12	det	12	det
+12	présence	présence	NC	NC	n=s|g=f	10	obj	10	obj
+13	d'	de	P	P		12	dep	12	dep
+14	un	un	DET	DET	n=s|g=m	15	det	15	det
+15	gène	gène	NC	NC	n=s|g=m	13	prep	13	prep
+16	mortel	mortel	ADJ	ADJ	n=s|g=m	15	mod	15	mod
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	4	suj	4	suj
+2	est	être	V	V	n=s|t=P|p=3	4	aux_tps	4	aux_tps
+3	donc	donc	ADV	ADV		4	mod	4	mod
+4	conseillé	conseiller	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+5	d'	de	P	P		4	mod	4	mod
+6	accoupler	accoupler	VINF	VINF	t=W	5	prep	5	prep
+7	les	les	DET	DET	n=p	8	det	8	det
+8	manx	_	NC	NC		6	obj	6	obj
+9	rumpy	_	ADV	ADV		6	mod	6	mod
+10	avec	avec	P	P		6	mod	6	mod
+11	des	des	DET	DET	n=p	13	det	13	det
+12	british	british	ADJ	ADJ		13	mod	13	mod
+13	longhair	_	NC	NC		10	prep	10	prep
+14	ou	ou	CC	CC		4	coord	4	coord
+15	shorthair	_	NC	NC		14	dep_coord	14	dep_coord
+16	pour	pour	P	P		4	mod	4	mod
+17	y	y	CLO	CLO		18	aff	18	aff
+18	remédier	remédier	VINF	VINF	t=W	16	prep	16	prep
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	mais	mais	CC	CC		4	coord	4	coord
+21	dans	dans	P	P		20	dep_coord	20	dep_coord
+22	ce	ce	DET	DET	n=s|g=m	23	det	23	det
+23	cas-là	_	NC	NC		21	prep	21	prep
+24	certains	certain	DET	DET	n=p|g=m	25	det	25	det
+25	chatons	chaton	NC	NC	n=p|g=m	26	suj	26	suj
+26	sont	être	V	V	n=p|t=P|p=3	4	mod	4	mod
+27	des	des	DET	DET	n=p	28	det	28	det
+28	british6	_	NC	NC		26	obj	26	obj
+29	.	.	PONCT	PONCT		28	ponct	28	ponct
+

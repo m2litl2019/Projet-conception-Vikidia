@@ -1,0 +1,28 @@
+1	En	en	P	P		22	mod	22	mod
+2	raison	raison	NC	NC	n=s|g=f	1	prep	1	prep
+3	de	de	P	P		2	dep	2	dep
+4	limitations	limitation	NC	NC	n=p|g=f	3	prep	3	prep
+5	techniques	technique	ADJ	ADJ	n=p	4	mod	4	mod
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	la	la	DET	DET	n=s|g=f	8	det	8	det
+8	typographie	typographie	NC	NC	n=s|g=f	22	suj	22	suj
+9	souhaitable	souhaitable	ADJ	ADJ	n=s	8	mod	8	mod
+10	du	de	P+D	P+D	n=s|g=m	8	dep	8	dep
+11	titre	titre	NC	NC	n=s|g=m	10	prep	10	prep
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	«_	"	PONCT	PONCT		11	ponct	11	ponct
+14	La	la	DET	DET	n=s|g=f	15	det	15	det
+15	Ferme	ferme	NC	NC	n=s|g=f	8	mod	8	mod
+16	des	de	P+D	P+D	n=p	15	dep	15	dep
+17	animaux	animal	NC	NC	n=p|g=m	16	prep	16	prep
+18	_»	"	PONCT	PONCT		17	ponct	17	ponct
+19	,	,	PONCT	PONCT		17	ponct	17	ponct
+20	n'	ne	ADV	ADV		22	mod	22	mod
+21	a	avoir	V	V	n=s|t=P|p=3	22	aux_tps	22	aux_tps
+22	pu	pouvoir	VPP	VPP	t=K	0	root	0	root
+23	être	être	VINF	VINF	t=W	22	obj	22	obj
+24	restituée	restituer	VPP	VPP	n=s|g=f|t=K	23	dep	23	dep
+25	correctement	_	ADV	ADV		26	mod	26	mod
+26	ci-dessus	ci-dessus	ADV	ADV		24	mod	24	mod
+27	.	.	PONCT	PONCT		26	ponct	26	ponct
+

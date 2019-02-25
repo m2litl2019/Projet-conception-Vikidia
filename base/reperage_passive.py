@@ -1,7 +1,7 @@
-from texteval import process_file
+from texteval import load
 
-if __name__ == '__main__':
-    data = process_file('ema.tal')
+def reperage_passive(target):
+    data = load(target)
     liste_passives = []
     for sentence in data:
         for word in sentence:
@@ -9,7 +9,10 @@ if __name__ == '__main__':
                 liste_passives.append(sentence)
     nb_phrases = len(data)
     nb_passives = len(liste_passives)
-
-    print('Nb phrases :', nb_phrases)
-    print('Nb passives :', nb_passives)
-    print(f'Ratio : {(nb_passives / nb_phrases):.3f} %')
+    print('reperage_passive on ' + target)
+    print('Nb phrases  :', f"{nb_phrases:6d}")
+    print('Nb passives :', f"{nb_passives:6d}")
+    print(f'Ratio      : {(nb_passives / nb_phrases):.3f} %')
+    
+if __name__ == '__main__':
+    reperage_passive('ema.tal')

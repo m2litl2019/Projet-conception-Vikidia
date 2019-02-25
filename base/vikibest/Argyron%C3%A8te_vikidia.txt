@@ -1,0 +1,1458 @@
+1	L’	le	DET	DET	n=s	2	det	2	det
+2	argyronète	argyronète	NC	NC	n=s|g=f	10	suj	10	suj
+3	(	(	PONCT	PONCT		2	ponct	2	ponct
+4	nom	nom	NC	NC	n=s|g=m	2	mod	2	mod
+5	scientifique	scientifique	ADJ	ADJ	n=s	4	mod	4	mod
+6	:	:	PONCT	PONCT		5	ponct	5	ponct
+7	Argyroneta	_	NPP	NPP		4	mod	4	mod
+8	aquatica	_	NPP	NPP		4	mod	4	mod
+9	)	)	PONCT	PONCT		8	ponct	8	ponct
+10	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+11	une	une	DET	DET	n=s|g=f	12	det	12	det
+12	espèce	espèce	NC	NC	n=s|g=f	10	obj	10	obj
+13	d'	de	P	P		12	dep	12	dep
+14	araignée	araignée	NC	NC	n=s|g=f	13	prep	13	prep
+15	qui	qui	PROREL	PROREL	n=s	16	suj	16	suj
+16	vit	vivre	V	V	n=s|t=P|p=3	12	mod_rel	12	mod_rel
+17	dans	dans	P	P		16	mod	16	mod
+18	l’	le	DET	DET	n=s	19	det	19	det
+19	eau	eau	NC	NC	n=s|g=f	17	prep	17	prep
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	2	suj	2	suj
+2	peut	pouvoir	V	V	n=s|t=P|p=3	0	root	0	root
+3	survivre	survivre	VINF	VINF	t=W	2	obj	2	obj
+4	grâce	grâce	NC	NC	n=s|g=f	3	obj	3	obj
+5	à	à	P	P		3	mod	3	mod
+6	une	une	DET	DET	n=s|g=f	7	det	7	det
+7	cloche	cloche	NC	NC	n=s|g=f	5	prep	5	prep
+8	de	de	P	P		7	dep	7	dep
+9	soie	soie	NC	NC	n=s|g=f	8	prep	8	prep
+10	qu’	que	PROREL	PROREL		12	obj	12	obj
+11	elle	elle	CLS	CLS	n=s|g=f|p=3	12	suj	12	suj
+12	tisse	tisser	V	V	n=s|t=P,S|p=1,3	7	mod_rel	7	mod_rel
+13	elle	elle	PRO	PRO	n=s|g=f|p=3	12	obj	12	obj
+14	-	-	PONCT	PONCT		13	ponct	13	ponct
+15	même	même	ADV	ADV		12	mod	12	mod
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+1	Quand	quand	CS	CS		12	mod	12	mod
+2	elle	elle	CLS	CLS	n=s|g=f|p=3	3	suj	3	suj
+3	est	être	V	V	n=s|t=P|p=3	1	sub	1	sub
+4	à	à	P	P		3	mod	3	mod
+5	la	la	DET	DET	n=s|g=f	6	det	6	det
+6	surface	surface	NC	NC	n=s|g=f	4	prep	4	prep
+7	de	de	P	P		3	mod	3	mod
+8	l'	le	DET	DET	n=s	9	det	9	det
+9	eau	eau	NC	NC	n=s|g=f	7	prep	7	prep
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	elle	elle	CLS	CLS	n=s|g=f|p=3	12	suj	12	suj
+12	remplit	remplir	V	V	n=s|t=J,P|p=3	0	root	0	root
+13	la	la	DET	DET	n=s|g=f	14	det	14	det
+14	cloche	cloche	NC	NC	n=s|g=f	12	obj	12	obj
+15	de	de	P	P		14	dep	14	dep
+16	soie	soie	NC	NC	n=s|g=f	15	prep	15	prep
+17	avec	avec	P	P		12	mod	12	mod
+18	de	de	P	P		17	dep	17	dep
+19	l’	le	DET	DET	n=s	20	det	20	det
+20	air	air	NC	NC	n=s|g=m	18	prep	18	prep
+21	.	.	PONCT	PONCT		20	ponct	20	ponct
+
+1	Une	une	DET	DET	n=s|g=f	2	det	2	det
+2	fois	fois	NC	NC	g=f	11	mod	11	mod
+3	la	la	DET	DET	n=s|g=f	4	det	4	det
+4	cloche	cloche	NC	NC	n=s|g=f	2	mod	2	mod
+5	remplie	remplir	VPP	VPP	n=s|g=f|t=K	4	mod	4	mod
+6	d’	de	P	P		5	mod	5	mod
+7	air	air	NC	NC	n=s|g=m	6	prep	6	prep
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	l’	le	DET	DET	n=s	10	det	10	det
+10	argyronète	argyronète	NC	NC	n=s|g=f	11	suj	11	suj
+11	descend	descendre	V	V	n=s|t=P|p=3	0	root	0	root
+12	dans	dans	P	P		11	mod	11	mod
+13	l’	le	DET	DET	n=s	14	det	14	det
+14	eau	eau	NC	NC	n=s|g=f	12	prep	12	prep
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	où	où	PROREL	PROREL		18	mod	18	mod
+17	elle	elle	CLS	CLS	n=s|g=f|p=3	18	suj	18	suj
+18	peut	pouvoir	V	V	n=s|t=P|p=3	11	mod	11	mod
+19	parfaitement	_	ADV	ADV		18	mod	18	mod
+20	respirer	respirer	VINF	VINF	t=W	18	obj	18	obj
+21	grâce	grâce	NC	NC	n=s|g=f	20	obj	20	obj
+22	à	à	P	P		20	mod	20	mod
+23	la	la	DET	DET	n=s|g=f	24	det	24	det
+24	cloche	cloche	NC	NC	n=s|g=f	22	prep	22	prep
+25	de	de	P	P		24	dep	24	dep
+26	soie	soie	NC	NC	n=s|g=f	25	prep	25	prep
+27	.	.	PONCT	PONCT		26	ponct	26	ponct
+
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	argyronète	argyronète	NC	NC	n=s|g=f	3	suj	3	suj
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	la	la	DET	DET	n=s|g=f	6	det	6	det
+5	seule	seul	ADJ	ADJ	n=s|g=f	6	mod	6	mod
+6	araignée	araignée	NC	NC	n=s|g=f	3	obj	3	obj
+7	aquatiqueδ	_	NC	NC		6	mod	6	mod
+8	du	de	P+D	P+D	n=s|g=m	3	mod	3	mod
+9	monde	monde	NC	NC	n=s|g=m	8	prep	8	prep
+10	:	:	PONCT	PONCT		9	ponct	9	ponct
+11	certaines	certain	DET	DET	n=p|g=f	13	det	13	det
+12	autres	autre	ADJ	ADJ	n=p	13	mod	13	mod
+13	araignées	araignée	NC	NC	n=p|g=f	3	obj	3	obj
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	comme	comme	P	P		3	mod	3	mod
+16	la	la	DET	DET	n=s|g=f	17	det	17	det
+17	dolomède	_	NC	NC		15	prep	15	prep
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	vivent	vivre	V	V	n=p|t=P,S|p=3	3	mod	3	mod
+20	près	près	ADV	ADV		19	mod	19	mod
+21	de	de	P	P		19	mod	19	mod
+22	l'	le	DET	DET	n=s	23	det	23	det
+23	eau	eau	NC	NC	n=s|g=f	21	prep	21	prep
+24	,	,	PONCT	PONCT		23	ponct	23	ponct
+25	et	et	CC	CC		19	coord	19	coord
+26	peuvent	pouvoir	V	V	n=p|t=P|p=3	25	dep_coord	25	dep_coord
+27	même	même	ADV	ADV		26	mod	26	mod
+28	se	se	CLR	CLR	n=p,s|p=3	29	aff	29	aff
+29	déplacer	déplacer	VINF	VINF	t=W	26	obj	26	obj
+30	sur	sur	P	P		29	mod	29	mod
+31	l'	le	DET	DET	n=s	32	det	32	det
+32	eau	eau	NC	NC	n=s|g=f	30	prep	30	prep
+33	,	,	PONCT	PONCT		32	ponct	32	ponct
+34	mais	mais	CC	CC		26	coord	26	coord
+35	seule	seul	ADJ	ADJ	n=s|g=f	34	dep_coord	34	dep_coord
+36	l'	le	DET	DET	n=s	37	det	37	det
+37	argyronète	argyronète	NC	NC	n=s|g=f	38	suj	38	suj
+38	est	être	V	V	n=s|t=P|p=3	34	dep_coord	34	dep_coord
+39	capable	capable	ADJ	ADJ	n=s	38	ats	38	ats
+40	d'	de	P	P		38	mod	38	mod
+41	y	y	CLO	CLO		42	aff	42	aff
+42	plonger	plonger	VINF	VINF	t=W	40	prep	40	prep
+43	,	,	PONCT	PONCT		42	ponct	42	ponct
+44	et	et	CC	CC		38	coord	38	coord
+45	d'	de	P	P		44	dep_coord	44	dep_coord
+46	y	y	CLO	CLO		47	aff	47	aff
+47	nager	nager	VINF	VINF	t=W	45	prep	45	prep
+48	.	.	PONCT	PONCT		47	ponct	47	ponct
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	2	suj	2	suj
+2	vit	vivre	V	V	n=s|t=P|p=3	0	root	0	root
+3	entièrement	_	ADV	ADV		2	mod	2	mod
+4	sous	sous	P	P		2	mod	2	mod
+5	l'	le	DET	DET	n=s	6	det	6	det
+6	eau	eau	NC	NC	n=s|g=f	4	prep	4	prep
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	dans	dans	P	P		2	mod	2	mod
+9	une	une	DET	DET	n=s|g=f	10	det	10	det
+10	sorte	sorte	NC	NC	n=s|g=f	8	prep	8	prep
+11	de	de	P	P		2	mod	2	mod
+12	«_	"	PONCT	PONCT		11	ponct	11	ponct
+13	cloche	cloche	NC	NC	n=s|g=f	11	prep	11	prep
+14	de	de	P	P		13	dep	13	dep
+15	plongée	plongée	NC	NC	n=s|g=f	14	prep	14	prep
+16	_»	"	PONCT	PONCT		15	ponct	15	ponct
+17	,	,	PONCT	PONCT		15	ponct	15	ponct
+18	une	une	DET	DET	n=s|g=f	20	det	20	det
+19	grosse	gros	ADJ	ADJ	n=s|g=f	20	mod	20	mod
+20	bulle	bulle	NC	NC	n=s	2	obj	2	obj
+21	qu'	que	PROREL	PROREL		23	obj	23	obj
+22	elle	elle	CLS	CLS	n=s|g=f|p=3	23	suj	23	suj
+23	fabrique	fabriquer	V	V	n=s|t=P,S|p=1,3	20	mod_rel	20	mod_rel
+24	elle	elle	PRO	PRO	n=s|g=f|p=3	23	obj	23	obj
+25	-	-	PONCT	PONCT		24	ponct	24	ponct
+26	même	même	ADJ	ADJ	n=s	24	mod	24	mod
+27	et	et	CC	CC		2	coord	2	coord
+28	dans	dans	P	P		31	mod	31	mod
+29	laquelle	lequel	PROREL	PROREL	n=s|g=f	28	prep	28	prep
+30	elle	elle	CLS	CLS	n=s|g=f|p=3	31	suj	31	suj
+31	vit	vivre	V	V	n=s|t=P|p=3	27	dep_coord	27	dep_coord
+32	,	,	PONCT	PONCT		31	ponct	31	ponct
+33	mange	manger	V	V	n=s|t=P,S|p=1,3	2	mod	2	mod
+34	,	,	PONCT	PONCT		33	ponct	33	ponct
+35	se	se	CLR	CLR	n=p,s|p=3	0	_	0	_
+36	reproduit	reproduire	V	V	n=s|t=P|p=3	0	_	0	_
+37	,	,	PONCT	PONCT		36	ponct	36	ponct
+38	et	et	CC	CC		36	coord	36	coord
+39	élève	élever	V	V	n=s|t=P,S|p=1,3	38	dep_coord	38	dep_coord
+40	ses	ses	DET	DET	n=p|p=3|poss=s	0	_	0	_
+41	petits	petit	ADJ	ADJ	n=p|g=m	0	_	0	_
+42	.	.	PONCT	PONCT		41	ponct	41	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	corps	corps	NC	NC	g=m	7	suj	7	suj
+3	de	de	P	P		2	dep	2	dep
+4	l'	le	DET	DET	n=s	5	det	5	det
+5	argyronète	argyronète	NC	NC	n=s|g=f	3	prep	3	prep
+6	est	être	V	V	n=s|t=P|p=3	7	aux_tps	7	aux_tps
+7	couvert	couvrir	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+8	de	de	P	P		7	mod	7	mod
+9	petits	petit	ADJ	ADJ	n=p|g=m	10	mod	10	mod
+10	poils	poil	NC	NC	n=p|g=m	8	prep	8	prep
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	très	très	ADV	ADV		13	mod	13	mod
+13	courts	court	ADJ	ADJ	n=p|g=m	7	mod	7	mod
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	et	et	CC	CC		7	coord	7	coord
+16	très	très	ADV	ADV		17	mod	17	mod
+17	serrés	serrer	VPP	VPP	n=p|g=m|t=K	15	dep_coord	15	dep_coord
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	Ces	ces	DET	DET	n=p	3	det	3	det
+2	petits	petit	ADJ	ADJ	n=p|g=m	3	mod	3	mod
+3	poils	poil	NC	NC	n=p|g=m	4	suj	4	suj
+4	rendent	rendre	V	V	n=p|t=P,S|p=3	0	root	0	root
+5	le	le	DET	DET	n=s|g=m	6	det	6	det
+6	corps	corps	NC	NC	g=m	4	obj	4	obj
+7	de	de	P	P		4	mod	4	mod
+8	l'	le	DET	DET	n=s	9	det	9	det
+9	argyronète	argyronète	NC	NC	n=s|g=f	7	prep	7	prep
+10	hydrophobe	hydrophobe	ADJ	ADJ	n=s	9	mod	9	mod
+11	:	:	PONCT	PONCT		10	ponct	10	ponct
+12	l'	le	DET	DET	n=s	13	det	13	det
+13	eau	eau	NC	NC	n=s|g=f	14	suj	14	suj
+14	glisse	glisser	V	V	n=s|t=P,S|p=1,3	4	mod	4	mod
+15	dessus	dessus	ADV	ADV		14	mod	14	mod
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	et	et	CC	CC		14	coord	14	coord
+18	n'	ne	ADV	ADV		20	mod	20	mod
+19	y	y	CLO	CLO		20	aff	20	aff
+20	accroche	accrocher	V	V	n=s|t=P,S|p=1,3	17	dep_coord	17	dep_coord
+21	pas	pas	ADV	ADV		20	mod	20	mod
+22	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	argyronètes	argyronète	NC	NC	n=p|g=f	3	suj	3	suj
+3	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+4	donc	donc	ADV	ADV		3	mod	3	mod
+5	constamment	_	ADV	ADV		3	mod	3	mod
+6	parfaitement	_	ADV	ADV		7	mod	7	mod
+7	sèches	sec	ADJ	ADJ	n=p|g=f	3	ats	3	ats
+8	.	.	PONCT	PONCT		7	ponct	7	ponct
+
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	air	air	NC	NC	n=s|g=m	4	suj	4	suj
+3	reste	rester	V	V	n=s|t=P,S|p=1,3	4	aux_pass	4	aux_pass
+4	piégé	piéger	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+5	dans	dans	P	P		4	mod	4	mod
+6	ses	ses	DET	DET	n=p|p=3|poss=s	7	det	7	det
+7	poils	poil	NC	NC	n=p|g=m	5	prep	5	prep
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	et	et	CC	CC		4	coord	4	coord
+10	forme	former	V	V	n=s|t=P,S|p=1,3	9	dep_coord	9	dep_coord
+11	une	une	DET	DET	n=s|g=f	12	det	12	det
+12	bulle	bulle	NC	NC	n=s	10	obj	10	obj
+13	autour	autour	NC	NC	n=s|g=m	12	mod	12	mod
+14	de	de	P	P		10	mod	10	mod
+15	son	son	DET	DET	n=s|g=m|p=3|poss=s	16	det	16	det
+16	corps	corps	NC	NC	g=m	14	prep	14	prep
+17	lorsqu'	lorsque	CS	CS		10	mod	10	mod
+18	elle	elle	CLS	CLS	n=s|g=f|p=3	19	suj	19	suj
+19	plonge	plonger	V	V	n=s|t=P,S|p=1,3	17	sub	17	sub
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	incapable	incapable	ADJ	ADJ	n=s	2	ats	2	ats
+4	de	de	P	P		2	mod	2	mod
+5	respirer	respirer	VINF	VINF	t=W	4	prep	4	prep
+6	le	le	DET	DET	n=s|g=m	7	det	7	det
+7	dioxygène	dioxygène	NC	NC	n=s|g=m	5	obj	5	obj
+8	dissous	dissoudre	VPP	VPP	g=m|t=K	7	mod	7	mod
+9	dans	dans	P	P		8	mod	8	mod
+10	l'	le	DET	DET	n=s	11	det	11	det
+11	eau	eau	NC	NC	n=s|g=f	9	prep	9	prep
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	comme	comme	P	P		5	mod	5	mod
+14	les	les	DET	DET	n=p	15	det	15	det
+15	poissons	poisson	NC	NC	n=p|g=m	13	prep	13	prep
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	par	par	P	P		5	mod	5	mod
+18	exemple	exemple	NC	NC	n=s|g=m	17	prep	17	prep
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	mais	mais	CC	CC		2	coord	2	coord
+21	peut	pouvoir	V	V	n=s|t=P|p=3	20	dep_coord	20	dep_coord
+22	respirer	respirer	VINF	VINF	t=W	21	obj	21	obj
+23	tout	tout	ADV	ADV		22	mod	22	mod
+24	à	à	P	P		22	mod	22	mod
+25	fait	fait	NC	NC	n=s|g=m	24	prep	24	prep
+26	normalement	_	ADV	ADV		22	mod	22	mod
+27	dans	dans	P	P		22	mod	22	mod
+28	l'	le	DET	DET	n=s	29	det	29	det
+29	air	air	NC	NC	n=s|g=m	27	prep	27	prep
+30	de	de	P	P		22	mod	22	mod
+31	la	la	DET	DET	n=s|g=f	32	det	32	det
+32	bulle	bulle	NC	NC	n=s	30	prep	30	prep
+33	qui	qui	PROREL	PROREL	n=s	35	suj	35	suj
+34	se	se	CLR	CLR	n=p,s|p=3	35	aff	35	aff
+35	forme	former	V	V	n=s|t=P,S|p=1,3	32	mod_rel	32	mod_rel
+36	autour	autour	NC	NC	n=s|g=m	35	obj	35	obj
+37	de	de	P	P		35	mod	35	mod
+38	son	son	DET	DET	n=s|g=m|p=3|poss=s	39	det	39	det
+39	corps	corps	NC	NC	g=m	37	prep	37	prep
+40	.	.	PONCT	PONCT		39	ponct	39	ponct
+
+1	Quand	quand	CS	CS		13	mod	13	mod
+2	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	3	det	3	det
+3	réserve	réserve	NC	NC	n=s|g=f	6	suj	6	suj
+4	d'	de	P	P		3	dep	3	dep
+5	air	air	NC	NC	n=s|g=m	4	prep	4	prep
+6	vient	venir	V	V	n=s|t=P|p=3	1	sub	1	sub
+7	à	à	P	P		6	ats	6	ats
+8	diminuer	diminuer	VINF	VINF	t=W	7	prep	7	prep
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	l'	le	DET	DET	n=s	11	det	11	det
+11	argyronète	argyronète	NC	NC	n=s|g=f	13	suj	13	suj
+12	n'	ne	ADV	ADV		11	mod	11	mod
+13	a	avoir	V	V	n=s|t=P|p=3	0	root	0	root
+14	qu'	que	CS	CS		13	mod	13	mod
+15	à	à	P	P		14	sub	14	sub
+16	remonter	remonter	VINF	VINF	t=W	15	prep	15	prep
+17	à	à	P	P		16	mod	16	mod
+18	la	la	DET	DET	n=s|g=f	19	det	19	det
+19	surface	surface	NC	NC	n=s|g=f	17	prep	17	prep
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	et	et	CC	CC		13	coord	13	coord
+22	une	une	DET	DET	n=s|g=f	24	det	24	det
+23	nouvelle	nouveau	ADJ	ADJ	n=s|g=f	24	mod	24	mod
+24	bulle	bulle	NC	NC	n=s	26	suj	26	suj
+25	se	se	CLR	CLR	n=p,s|p=3	26	aff	26	aff
+26	forme	former	V	V	n=s|t=P,S|p=1,3	21	dep_coord	21	dep_coord
+27	autour	autour	NC	NC	n=s|g=m	26	obj	26	obj
+28	de	de	P	P		26	mod	26	mod
+29	son	son	DET	DET	n=s|g=m|p=3|poss=s	30	det	30	det
+30	corps	corps	NC	NC	g=m	28	prep	28	prep
+31	.	.	PONCT	PONCT		30	ponct	30	ponct
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	2	suj	2	suj
+2	peut	pouvoir	V	V	n=s|t=P|p=3	0	root	0	root
+3	ainsi	ainsi	ADV	ADV		2	mod	2	mod
+4	se	se	CLR	CLR	n=p,s|p=3	5	aff	5	aff
+5	déplacer	déplacer	VINF	VINF	t=W	2	obj	2	obj
+6	très	très	ADV	ADV		7	mod	7	mod
+7	facilement	_	ADV	ADV		5	mod	5	mod
+8	sous	sous	P	P		5	mod	5	mod
+9	l'	le	DET	DET	n=s	10	det	10	det
+10	eau	eau	NC	NC	n=s|g=f	8	prep	8	prep
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	parmi	parmi	P	P		5	mod	5	mod
+13	les	les	DET	DET	n=p	14	det	14	det
+14	plantes	plante	NC	NC	n=p|g=f	12	prep	12	prep
+15	aquatiques	aquatique	ADJ	ADJ	n=p	14	mod	14	mod
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	2	suj	2	suj
+2	peut	pouvoir	V	V	n=s|t=P|p=3	0	root	0	root
+3	même	même	ADV	ADV		2	mod	2	mod
+4	lâcher	lâcher	VINF	VINF	t=W	2	obj	2	obj
+5	les	les	DET	DET	n=p	6	det	6	det
+6	plantes	plante	NC	NC	n=p|g=f	4	obj	4	obj
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	et	et	CC	CC		2	coord	2	coord
+9	se	se	CLR	CLR	n=p,s|p=3	10	aff	10	aff
+10	déplacer	déplacer	VINF	VINF	t=W	8	dep_coord	8	dep_coord
+11	dans	dans	P	P		10	mod	10	mod
+12	l'	le	DET	DET	n=s	13	det	13	det
+13	eau	eau	NC	NC	n=s|g=f	11	prep	11	prep
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	en	en	P	P		10	mod	10	mod
+16	nageant	nager	VPR	VPR	t=G	15	prep	15	prep
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	ce	ce	PRO	PRO	n=s	16	obj	16	obj
+19	qu'	que	PROREL	PROREL		21	obj	21	obj
+20	elle	elle	CLS	CLS	n=s|g=f|p=3	21	suj	21	suj
+21	est	être	V	V	n=s|t=P|p=3	18	mod_rel	18	mod_rel
+22	la	la	DET	DET	n=s|g=f	24	det	24	det
+23	seule	seul	ADJ	ADJ	n=s|g=f	24	mod	24	mod
+24	araignée	araignée	NC	NC	n=s|g=f	21	obj	21	obj
+25	au	à	P+D	P+D	n=s|g=m	24	dep	24	dep
+26	monde	monde	NC	NC	n=s|g=m	25	prep	25	prep
+27	à	à	P	P		21	mod	21	mod
+28	pouvoir	pouvoir	VINF	VINF	t=W	27	prep	27	prep
+29	faire	faire	VINF	VINF	t=W	28	obj	28	obj
+30	.	.	PONCT	PONCT		29	ponct	29	ponct
+
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	argyronète	argyronète	NC	NC	n=s|g=f	3	mod	3	mod
+3	construit	construire	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+4	également	_	ADV	ADV		3	mod	3	mod
+5	une	une	DET	DET	n=s|g=f	6	det	6	det
+6	sorte	sorte	NC	NC	n=s|g=f	3	obj	3	obj
+7	de	de	P	P		6	dep	6	dep
+8	nid	nid	NC	NC	n=s|g=m	7	prep	7	prep
+9	sous	sous	P	P		3	mod	3	mod
+10	l'	le	DET	DET	n=s	11	det	11	det
+11	eau	eau	NC	NC	n=s|g=f	9	prep	9	prep
+12	:	:	PONCT	PONCT		11	ponct	11	ponct
+13	comme	comme	P	P		3	mod	3	mod
+14	toutes	tout	ADJ	ADJ	n=p|g=f	16	mod	16	mod
+15	les	les	DET	DET	n=p	16	det	16	det
+16	araignées	araignée	NC	NC	n=p|g=f	13	prep	13	prep
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	elle	elle	CLS	CLS	n=s|g=f|p=3	19	suj	19	suj
+19	est	être	V	V	n=s|t=P|p=3	3	mod	3	mod
+20	capable	capable	ADJ	ADJ	n=s	19	ats	19	ats
+21	de	de	P	P		19	mod	19	mod
+22	sécréter	sécréter	VINF	VINF	t=W	21	prep	21	prep
+23	de	de	P	P		22	mod	22	mod
+24	la	la	DET	DET	n=s|g=f	25	det	25	det
+25	soie	soie	NC	NC	n=s|g=f	23	prep	23	prep
+26	,	,	PONCT	PONCT		25	ponct	25	ponct
+27	et	et	CC	CC		19	coord	19	coord
+28	s'	se	CLR	CLR	n=p,s|p=3	30	aff	30	aff
+29	en	en	CLO	CLO		30	aff	30	aff
+30	sert	servir	V	V	n=s|t=P|p=3	27	dep_coord	27	dep_coord
+31	pour	pour	P	P		30	mod	30	mod
+32	construire	construire	VINF	VINF	t=W	31	prep	31	prep
+33	une	une	DET	DET	n=s|g=f	34	det	34	det
+34	sorte	sorte	NC	NC	n=s|g=f	32	obj	32	obj
+35	de	de	P	P		34	dep	34	dep
+36	filet	filet	NC	NC	n=s|g=m	35	prep	35	prep
+37	,	,	PONCT	PONCT		36	ponct	36	ponct
+38	accroché	accrocher	VPP	VPP	n=s|g=m|t=K	34	mod	34	mod
+39	aux	à	P+D	P+D	n=p	38	mod	38	mod
+40	plantes	plante	NC	NC	n=p|g=f	39	prep	39	prep
+41	aquatiques	aquatique	ADJ	ADJ	n=p	40	mod	40	mod
+42	.	.	PONCT	PONCT		41	ponct	41	ponct
+
+1	Une	une	DET	DET	n=s|g=f	2	det	2	det
+2	fois	fois	NC	NC	g=f	3	mod	3	mod
+3	terminé	terminer	VPP	VPP	n=s|g=m|t=K	6	mod	6	mod
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	elle	elle	CLS	CLS	n=s|g=f|p=3	6	suj	6	suj
+6	va	aller	V	V	n=s|t=P|p=3	0	root	0	root
+7	vers	vers	P	P		6	mod	6	mod
+8	la	la	DET	DET	n=s|g=f	9	det	9	det
+9	surface	surface	NC	NC	n=s|g=f	7	prep	7	prep
+10	et	et	CC	CC		6	coord	6	coord
+11	revient	revenir	V	V	n=s|t=P|p=3	10	dep_coord	10	dep_coord
+12	avec	avec	P	P		11	mod	11	mod
+13	une	une	DET	DET	n=s|g=f	15	det	15	det
+14	grosse	gros	ADJ	ADJ	n=s|g=f	15	mod	15	mod
+15	bulle	bulle	NC	NC	n=s	12	prep	12	prep
+16	d'	de	P	P		15	dep	15	dep
+17	air	air	NC	NC	n=s|g=m	16	prep	16	prep
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	qu'	que	PROREL	PROREL		21	obj	21	obj
+20	elle	elle	CLS	CLS	n=s|g=f|p=3	21	suj	21	suj
+21	va	aller	V	V	n=s|t=P|p=3	15	mod_rel	15	mod_rel
+22	relâcher	relâcher	VINF	VINF	t=W	21	obj	21	obj
+23	juste	juste	ADV	ADV		22	mod	22	mod
+24	sous	sous	P	P		22	mod	22	mod
+25	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	26	det	26	det
+26	toile	toile	NC	NC	n=s|g=f	24	prep	24	prep
+27	:	:	PONCT	PONCT		26	ponct	26	ponct
+28	la	la	DET	DET	n=s|g=f	29	det	29	det
+29	bulle	bulle	NC	NC	n=s	30	suj	30	suj
+30	remonte	remonter	V	V	n=s|t=P,S|p=1,3	6	mod	6	mod
+31	,	,	PONCT	PONCT		30	ponct	30	ponct
+32	mais	mais	CC	CC		30	coord	30	coord
+33	reste	rester	V	V	n=s|t=P,S|p=1,3	32	dep_coord	32	dep_coord
+34	coincée	coincer	VPP	VPP	n=s|g=f|t=K	33	ats	33	ats
+35	par	par	P	P		34	mod	34	mod
+36	la	la	DET	DET	n=s|g=f	37	det	37	det
+37	toile	toile	NC	NC	n=s|g=f	35	prep	35	prep
+38	.	.	PONCT	PONCT		37	ponct	37	ponct
+
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	argyronète	argyronète	NC	NC	n=s|g=f	4	suj	4	suj
+3	n'	ne	ADV	ADV		4	mod	4	mod
+4	a	avoir	V	V	n=s|t=P|p=3	0	root	0	root
+5	plus	plus	ADV	ADV		4	mod	4	mod
+6	qu'	que	CS	CS		4	mod	4	mod
+7	à	à	P	P		0	_	0	_
+8	aller	aller	VINF	VINF	t=W	9	aux_caus	9	aux_caus
+9	chercher	chercher	VINF	VINF	t=W	7	prep	7	prep
+10	d'	de	DET	DET	n=p	12	det	12	det
+11	autres	autre	ADJ	ADJ	n=p	12	mod	12	mod
+12	bulles	bulle	NC	NC	n=p	9	obj	9	obj
+13	d'	de	P	P		12	dep	12	dep
+14	air	air	NC	NC	n=s|g=m	13	prep	13	prep
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	pour	pour	P	P		9	mod	9	mod
+17	en	en	CLO	CLO		18	aff	18	aff
+18	former	former	VINF	VINF	t=W	16	prep	16	prep
+19	une	une	DET	DET	n=s|g=f	0	_	0	_
+20	grosse	gros	ADJ	ADJ	n=s|g=f	0	_	0	_
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	entourée	entourer	VPP	VPP	n=s|g=f|t=K	20	mod	20	mod
+23	de	de	P	P		22	mod	22	mod
+24	soie	soie	NC	NC	n=s|g=f	23	prep	23	prep
+25	,	,	PONCT	PONCT		24	ponct	24	ponct
+26	accrochée	accrocher	VPP	VPP	n=s|g=f|t=K	24	mod	24	mod
+27	aux	à	P+D	P+D	n=p	26	mod	26	mod
+28	plantes	plante	NC	NC	n=p|g=f	27	prep	27	prep
+29	.	.	PONCT	PONCT		28	ponct	28	ponct
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	assez	assez	ADV	ADV		2	mod	2	mod
+4	grande	grand	ADJ	ADJ	n=s|g=f	2	ats	2	ats
+5	pour	pour	P	P		2	mod	2	mod
+6	que	que	CS	CS		5	prep	5	prep
+7	l'	le	DET	DET	n=s	8	det	8	det
+8	argyronète	argyronète	NC	NC	n=s|g=f	9	suj	9	suj
+9	puisse	pouvoir	VS	VS	n=s|t=S|p=1,3	6	sub	6	sub
+10	y	y	CLO	CLO		11	aff	11	aff
+11	entrer	entrer	VINF	VINF	t=W	9	obj	9	obj
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	et	et	CC	CC		2	coord	2	coord
+14	s'	se	CLR	CLR	n=p,s|p=3	16	aff	16	aff
+15	y	y	CLO	CLO		16	aff	16	aff
+16	reposer	reposer	VINF	VINF	t=W	13	dep_coord	13	dep_coord
+17	si	si	CS	CS		2	mod	2	mod
+18	elle	elle	CLS	CLS	n=s|g=f|p=3	20	suj	20	suj
+19	le	le	CLO	CLO	n=s|g=m|p=3	20	obj	20	obj
+20	souhaite	souhaiter	V	V	n=s|t=P,S|p=1,3	17	sub	17	sub
+21	.	.	PONCT	PONCT		20	ponct	20	ponct
+
+1	On	on	CLS	CLS	n=s|p=3	11	suj	11	suj
+2	y	y	CLO	CLO		11	aff	11	aff
+3	entre	entre	P	P		2	mod	2	mod
+4	par	par	P	P		3	dep	3	dep
+5	en	en	P	P		4	dep	4	dep
+6	dessous	dessous	NC	NC	g=m	5	prep	5	prep
+7	:	:	PONCT	PONCT		6	ponct	6	ponct
+8	l'	le	DET	DET	n=s	9	det	9	det
+9	eau	eau	NC	NC	n=s|g=f	11	suj	11	suj
+10	ne	ne	ADV	ADV		11	mod	11	mod
+11	rentre	rentrer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+12	pas	pas	ADV	ADV		11	mod	11	mod
+13	dans	dans	P	P		11	mod	11	mod
+14	la	la	DET	DET	n=s|g=f	15	det	15	det
+15	bulle	bulle	NC	NC	n=s	13	prep	13	prep
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	car	car	CS	CS		11	mod	11	mod
+18	elle	elle	CLS	CLS	n=s|g=f|p=3	20	suj	20	suj
+19	est	être	V	V	n=s|t=P|p=3	20	aux_pass	20	aux_pass
+20	bloquée	bloquer	VPP	VPP	n=s|g=f|t=K	17	sub	17	sub
+21	par	par	P	P		20	mod	20	mod
+22	la	la	DET	DET	n=s|g=f	23	det	23	det
+23	pression	pression	NC	NC	n=s|g=f	21	prep	21	prep
+24	de	de	P	P		20	mod	20	mod
+25	l'	le	DET	DET	n=s	26	det	26	det
+26	air	air	NC	NC	n=s|g=m	24	prep	24	prep
+27	,	,	PONCT	PONCT		26	ponct	26	ponct
+28	un	un	DET	DET	n=s|g=m	0	_	0	_
+29	peu	peu	ADV	ADV		0	_	0	_
+30	comme	comme	P	P		0	_	0	_
+31	dans	dans	P	P		0	_	0	_
+32	une	une	DET	DET	n=s|g=f	33	det	33	det
+33	cloche	cloche	NC	NC	n=s|g=f	31	prep	31	prep
+34	de	de	P	P		33	dep	33	dep
+35	plongée	plongée	NC	NC	n=s|g=f	34	prep	34	prep
+36	.	.	PONCT	PONCT		35	ponct	35	ponct
+
+1	Cette	cette	DET	DET	n=s|g=f	2	det	2	det
+2	capacité	capacité	NC	NC	n=s|g=f	14	suj	14	suj
+3	à	à	P	P		2	dep	2	dep
+4	capter	capter	VINF	VINF	t=W	3	prep	3	prep
+5	de	de	P	P		4	mod	4	mod
+6	l'	le	DET	DET	n=s	7	det	7	det
+7	air	air	NC	NC	n=s|g=m	5	prep	5	prep
+8	gène	gène	NC	NC	n=s|g=m	7	mod	7	mod
+9	parfois	parfois	ADV	ADV		4	mod	4	mod
+10	l'	le	DET	DET	n=s	11	det	11	det
+11	argyronète	argyronète	NC	NC	n=s|g=f	4	obj	4	obj
+12	:	:	PONCT	PONCT		11	ponct	11	ponct
+13	elle	elle	CLS	CLS	n=s|g=f|p=3	14	suj	14	suj
+14	flotte	flotter	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+15	tellement	_	ADV	ADV		14	mod	14	mod
+16	bien	bien	ADV	ADV		14	mod	14	mod
+17	qu'	que	CS	CS		14	mod	14	mod
+18	elle	elle	CLS	CLS	n=s|g=f|p=3	19	suj	19	suj
+19	a	avoir	V	V	n=s|t=P|p=3	17	sub	17	sub
+20	du	du	DET	DET	n=s|g=m	21	det	21	det
+21	mal	mal	NC	NC	n=s|g=m	19	obj	19	obj
+22	à	à	P	P		19	mod	19	mod
+23	plonger	plonger	VINF	VINF	t=W	22	prep	22	prep
+24	,	,	PONCT	PONCT		23	ponct	23	ponct
+25	et	et	CC	CC		14	coord	14	coord
+26	doit	devoir	V	V	n=s|t=P|p=3	25	dep_coord	25	dep_coord
+27	dépenser	dépenser	VINF	VINF	t=W	26	obj	26	obj
+28	beaucoup	beaucoup	ADV	ADV		27	mod	27	mod
+29	d'	de	P	P		27	mod	27	mod
+30	énergie	énergie	NC	NC	n=s|g=f	29	prep	29	prep
+31	pour	pour	P	P		27	mod	27	mod
+32	rester	rester	VINF	VINF	t=W	31	prep	31	prep
+33	sous	sous	P	P		32	mod	32	mod
+34	l'	le	DET	DET	n=s	35	det	35	det
+35	eau1	_	NC	NC		33	prep	33	prep
+36	.	.	PONCT	PONCT		35	ponct	35	ponct
+
+1	Une	une	DET	DET	n=s|g=f	2	det	2	det
+2	fois	fois	NC	NC	g=f	7	mod	7	mod
+3	installée	installer	VPP	VPP	n=s|g=f|t=K	2	mod	2	mod
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	l'	le	DET	DET	n=s	6	det	6	det
+6	argyronète	argyronète	NC	NC	n=s|g=f	7	suj	7	suj
+7	remonte	remonter	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+8	régulièrement	_	ADV	ADV		7	mod	7	mod
+9	à	à	P	P		7	mod	7	mod
+10	la	la	DET	DET	n=s|g=f	11	det	11	det
+11	surface	surface	NC	NC	n=s|g=f	9	prep	9	prep
+12	pour	pour	P	P		7	mod	7	mod
+13	renouveler	renouveler	VINF	VINF	t=W	12	prep	12	prep
+14	l'	le	DET	DET	n=s	15	det	15	det
+15	air	air	NC	NC	n=s|g=m	13	obj	13	obj
+16	de	de	P	P		13	mod	13	mod
+17	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	19	det	19	det
+18	«_	"	PONCT	PONCT		17	ponct	17	ponct
+19	cloche	cloche	NC	NC	n=s|g=f	16	prep	16	prep
+20	de	de	P	P		19	dep	19	dep
+21	plongée	plongée	NC	NC	n=s|g=f	20	prep	20	prep
+22	_»	"	PONCT	PONCT		21	ponct	21	ponct
+23	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	reste	reste	NC	NC	n=s|g=m	7	suj	7	suj
+3	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+4	temps	temps	NC	NC	g=m	3	prep	3	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	elle	elle	CLS	CLS	n=s|g=f|p=3	7	suj	7	suj
+7	peut	pouvoir	V	V	n=s|t=P|p=3	0	root	0	root
+8	chasser	chasser	VINF	VINF	t=W	7	obj	7	obj
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	s'	se	CLR	CLR	n=p,s|p=3	11	aff	11	aff
+11	accoupler	accoupler	VINF	VINF	t=W	8	obj	8	obj
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	et	et	CC	CC		8	coord	8	coord
+14	s'	se	CLR	CLR	n=p,s|p=3	15	aff	15	aff
+15	occuper	occuper	VINF	VINF	t=W	13	dep_coord	13	dep_coord
+16	de	de	P	P		15	mod	15	mod
+17	ses	ses	DET	DET	n=p|p=3|poss=s	18	det	18	det
+18	petits	petit	ADJ	ADJ	n=p|g=m	16	prep	16	prep
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	argyronète	argyronète	NC	NC	n=s|g=f	10	suj	10	suj
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	comme	comme	P	P		10	mod	10	mod
+5	presque2	_	VPR	VPR		4	prep	4	prep
+6	toutes	tout	ADJ	ADJ	n=p|g=f	8	mod	8	mod
+7	les	les	DET	DET	n=p	8	det	8	det
+8	araignées	araignée	NC	NC	n=p|g=f	5	mod	5	mod
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+11	carnivore	carnivore	ADJ	ADJ	n=s	10	ats	10	ats
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	mâle	mâle	NC	NC	n=s|g=m	0	_	0	_
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	plus	plus	ADV	ADV		2	mod	2	mod
+5	à	à	P	P		2	dep	2	dep
+6	l'	le	DET	DET	n=s	7	det	7	det
+7	aise	aise	NC	NC	n=s|g=f	5	prep	5	prep
+8	dans	dans	P	P		2	dep	2	dep
+9	l'	le	DET	DET	n=s	10	det	10	det
+10	eau	eau	NC	NC	n=s|g=f	8	prep	8	prep
+11	et	et	CC	CC		2	coord	2	coord
+12	plus	plus	ADV	ADV		13	mod	13	mod
+13	actif1	_	ADJ	ADJ		14	mod	14	mod
+14	chasse	chasse	NC	NC	n=s|g=f	11	dep_coord	11	dep_coord
+15	activement	_	ADV	ADV		11	mod	11	mod
+16	ses	ses	DET	DET	n=p|p=3|poss=s	17	det	17	det
+17	proies	proie	NC	NC	n=p|g=f	11	dep_coord	11	dep_coord
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	tandis	tandis	P	P		0	_	0	_
+20	que	que	CS	CS		0	_	0	_
+21	la	la	DET	DET	n=s|g=f	22	det	22	det
+22	femelle	femelle	NC	NC	n=s|g=f	23	suj	23	suj
+23	reste	rester	V	V	n=s|t=P,S|p=1,3	20	sub	20	sub
+24	plutôt	plutôt	ADV	ADV		23	mod	23	mod
+25	dans	dans	P	P		23	mod	23	mod
+26	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	27	det	27	det
+27	cloche	cloche	NC	NC	n=s|g=f	25	prep	25	prep
+28	,	,	PONCT	PONCT		27	ponct	27	ponct
+29	à	à	P	P		23	mod	23	mod
+30	les	les	CLO	CLO	n=p|p=3	31	obj	31	obj
+31	guetter	guetter	VINF	VINF	t=W	29	prep	29	prep
+32	en	en	P	P		31	mod	31	mod
+33	embuscade	embuscade	NC	NC	n=s|g=f	32	prep	32	prep
+34	.	.	PONCT	PONCT		33	ponct	33	ponct
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	3	suj	3	suj
+2	se	se	CLR	CLR	n=p,s|p=3	3	aff	3	aff
+3	nourrit	nourrir	V	V	n=s|t=J,P|p=3	0	root	0	root
+4	de	de	P	P		3	mod	3	mod
+5	toutes	toutes	DET	DET	n=p|g=f	6	det	6	det
+6	sortes	sorte	NC	NC	n=p|g=f	4	prep	4	prep
+7	d'	de	P	P		3	mod	3	mod
+8	animaux	animal	NC	NC	n=p|g=m	7	prep	7	prep
+9	aquatiques	aquatique	ADJ	ADJ	n=p	8	mod	8	mod
+10	:	:	PONCT	PONCT		9	ponct	9	ponct
+11	des	des	DET	DET	n=p	12	det	12	det
+12	insectes	insecte	NC	NC	n=p|g=m	0	_	0	_
+13	et	et	CC	CC		12	coord	12	coord
+14	leurs	leurs	DET	DET	n=p|p=3|poss=p	15	det	15	det
+15	larves	larve	NC	NC	n=p|g=f	13	dep_coord	13	dep_coord
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	bien	bien	ADV	ADV		18	mod	18	mod
+18	sûr	sûr	ADJ	ADJ	n=s|g=m	15	mod	15	mod
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	comme	comme	P	P		15	dep	15	dep
+21	les	les	DET	DET	n=p	22	det	22	det
+22	larves	larve	NC	NC	n=p|g=f	20	prep	20	prep
+23	de	de	P	P		22	dep	22	dep
+24	moustique	moustique	NC	NC	n=s|g=m	23	prep	23	prep
+25	et	et	CC	CC		20	coord	20	coord
+26	de	de	P	P		25	dep_coord	25	dep_coord
+27	chironome	_	NC	NC		26	prep	26	prep
+28	,	,	PONCT	PONCT		27	ponct	27	ponct
+29	mais	mais	CC	CC		15	coord	15	coord
+30	aussi	aussi	ADV	ADV		29	mod	29	mod
+31	des	des	DET	DET	n=p	32	det	32	det
+32	proies	proie	NC	NC	n=p|g=f	29	dep_coord	29	dep_coord
+33	plus	plus	ADV	ADV		34	mod	34	mod
+34	grosses	gros	ADJ	ADJ	n=p|g=f	32	mod	32	mod
+35	,	,	PONCT	PONCT		34	ponct	34	ponct
+36	comme	comme	P	P		15	dep	15	dep
+37	les	les	DET	DET	n=p	38	det	38	det
+38	nèpes	_	NPP	NPP		36	prep	36	prep
+39	,	,	PONCT	PONCT		38	ponct	38	ponct
+40	ou	ou	CC	CC		15	coord	15	coord
+41	les	les	DET	DET	n=p	42	det	42	det
+42	dytiques	dytique	NC	NC	n=p|g=m	40	dep_coord	40	dep_coord
+43	,	,	PONCT	PONCT		42	ponct	42	ponct
+44	ainsi	ainsi	ADV	ADV		40	mod	40	mod
+45	que	que	CS	CS		40	dep_coord	40	dep_coord
+46	d'	de	DET	DET	n=p	49	det	49	det
+47	autres	autre	ADJ	ADJ	n=p	49	mod	49	mod
+48	petits	petit	ADJ	ADJ	n=p|g=m	49	mod	49	mod
+49	animaux	animal	NC	NC	n=p|g=m	0	_	0	_
+50	aquatiques	aquatique	ADJ	ADJ	n=p	49	mod	49	mod
+51	,	,	PONCT	PONCT		50	ponct	50	ponct
+52	comme	comme	P	P		49	dep	49	dep
+53	les	les	DET	DET	n=p	54	det	54	det
+54	gammares	gammare	NC	NC	n=p|g=m	52	prep	52	prep
+55	,	,	PONCT	PONCT		54	ponct	54	ponct
+56	ou	ou	CC	CC		49	coord	49	coord
+57	les	les	DET	DET	n=p	58	det	58	det
+58	aselles	_	NPP	NPP		56	dep_coord	56	dep_coord
+59	,	,	PONCT	PONCT		58	ponct	58	ponct
+60	et	et	CC	CC		58	coord	58	coord
+61	parfois	parfois	ADV	ADV		60	mod	60	mod
+62	même	même	ADV	ADV		60	mod	60	mod
+63	de	de	P	P		60	dep_coord	60	dep_coord
+64	têtards	têtard	NC	NC	n=p|g=m	63	prep	63	prep
+65	et	et	CC	CC		63	coord	63	coord
+66	de	de	P	P		65	dep_coord	65	dep_coord
+67	petits	petit	ADJ	ADJ	n=p|g=m	66	prep	66	prep
+68	poissons	poisson	NC	NC	n=p|g=m	66	prep	66	prep
+69	,	,	PONCT	PONCT		68	ponct	68	ponct
+70	comme	comme	P	P		49	dep	49	dep
+71	les	les	DET	DET	n=p	72	det	72	det
+72	épinoches	épinoche	NC	NC	n=p|g=f	70	prep	70	prep
+73	.	.	PONCT	PONCT		72	ponct	72	ponct
+
+1	Si	si	CS	CS		30	mod	30	mod
+2	l'	le	DET	DET	n=s	3	det	3	det
+3	argyronète	argyronète	NC	NC	n=s|g=f	17	suj	17	suj
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	qui	qui	PROREL	PROREL	n=s	6	suj	6	suj
+6	mesure	mesurer	V	V	n=s|t=P,S|p=1,3	3	mod_rel	3	mod_rel
+7	environ	environ	ADV	ADV		6	mod	6	mod
+8	1	1	ADJ	ADJ		9	mod	9	mod
+9	cm	centimètre	NC	NC	g=m	6	obj	6	obj
+10	de	de	P	P		6	mod	6	mod
+11	long	long	ADJ	ADJ	n=s|g=m	10	prep	10	prep
+12	(	(	PONCT	PONCT		11	ponct	11	ponct
+13	sans	sans	P	P		6	mod	6	mod
+14	les	les	DET	DET	n=p	15	det	15	det
+15	pattes	patte	NC	NC	n=p|g=f	13	prep	13	prep
+16	)	)	PONCT	PONCT		15	ponct	15	ponct
+17	parvient	parvenir	V	V	n=s|t=P|p=3	1	sub	1	sub
+18	à	à	P	P		17	mod	17	mod
+19	s'	se	CLR	CLR	n=p,s|p=3	20	aff	20	aff
+20	attaquer	attaquer	VINF	VINF	t=W	18	prep	18	prep
+21	à	à	P	P		20	mod	20	mod
+22	des	des	DET	DET	n=p	23	det	23	det
+23	proies	proie	NC	NC	n=p|g=f	21	prep	21	prep
+24	aussi	aussi	ADV	ADV		25	mod	25	mod
+25	grosses	gros	ADJ	ADJ	n=p|g=f	23	mod	23	mod
+26	pour	pour	P	P		20	mod	20	mod
+27	elle	elle	PRO	PRO	n=s|g=f|p=3	26	prep	26	prep
+28	,	,	PONCT	PONCT		27	ponct	27	ponct
+29	c'	ce	CLS	CLS		30	suj	30	suj
+30	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+31	parce	_	ADV	ADV		30	mod	30	mod
+32	qu'	que	CS	CS		30	mod	30	mod
+33	elle	elle	CLS	CLS	n=s|g=f|p=3	34	suj	34	suj
+34	est	être	V	V	n=s|t=P|p=3	32	sub	32	sub
+35	venimeuse	venimeux	ADJ	ADJ	n=s|g=f	34	ats	34	ats
+36	.	.	PONCT	PONCT		35	ponct	35	ponct
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	2	suj	2	suj
+2	injecte	injecter	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	son	son	DET	DET	n=s|g=m|p=3|poss=s	4	det	4	det
+4	venin	venin	NC	NC	n=s|g=m	2	obj	2	obj
+5	à	à	P	P		2	mod	2	mod
+6	ses	ses	DET	DET	n=p|p=3|poss=s	7	det	7	det
+7	proies	proie	NC	NC	n=p|g=f	5	prep	5	prep
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	ce	ce	PRO	PRO	n=s	2	mod	2	mod
+10	qui	qui	PROREL	PROREL	n=s	12	suj	12	suj
+11	les	les	CLO	CLO	n=p|p=3	12	obj	12	obj
+12	paralyse	paralyser	V	V	n=s|t=P,S|p=1,3	9	mod_rel	9	mod_rel
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	puis	puis	CC	CC		2	coord	2	coord
+15	les	les	CLO	CLO	n=p|p=3	16	obj	16	obj
+16	ramène	ramener	V	V	n=s|t=P,S|p=1,3	14	dep_coord	14	dep_coord
+17	dans	dans	P	P		16	mod	16	mod
+18	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	19	det	19	det
+19	cloche	cloche	NC	NC	n=s|g=f	17	prep	17	prep
+20	de	de	P	P		16	mod	16	mod
+21	plongée	plongée	NC	NC	n=s|g=f	20	prep	20	prep
+22	pour	pour	P	P		16	mod	16	mod
+23	les	les	CLO	CLO	n=p|p=3	24	obj	24	obj
+24	manger	manger	VINF	VINF	t=W	22	prep	22	prep
+25	.	.	PONCT	PONCT		24	ponct	24	ponct
+
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	argyronète	argyronète	NC	NC	n=s|g=f	3	suj	3	suj
+3	fait	faire	V	V	n=s|t=P|p=3	0	root	0	root
+4	partie	partie	NC	NC	n=s|g=f	3	obj	3	obj
+5	des	de	P+D	P+D	n=p	3	mod	3	mod
+6	très	très	ADV	ADV		7	mod	7	mod
+7	rares	rare	ADJ	ADJ	n=p	8	mod	8	mod
+8	araignées	araignée	NC	NC	n=p|g=f	5	prep	5	prep
+9	d'	de	P	P		8	dep	8	dep
+10	Europe	Europe	NPP	NPP	n=s|g=f	9	prep	9	prep
+11	qui	qui	PROREL	PROREL	n=s	12	suj	12	suj
+12	peuvent	pouvoir	V	V	n=p|t=P|p=3	3	mod	3	mod
+13	mordre	mordre	VINF	VINF	t=W	12	obj	12	obj
+14	l'	le	DET	DET	n=s	15	det	15	det
+15	homme	homme	NC	NC	n=s|g=m	13	obj	13	obj
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	ce	ce	PRO	PRO	n=s	12	mod	12	mod
+18	qui	qui	PROREL	PROREL	n=s	19	suj	19	suj
+19	reste	rester	V	V	n=s|t=P,S|p=1,3	17	mod_rel	17	mod_rel
+20	très	très	ADV	ADV		19	mod	19	mod
+21	rare	rare	ADJ	ADJ	n=s	19	ats	19	ats
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+23	compte	compte	NC	NC	n=s|g=m	21	mod	21	mod
+24	-	-	PONCT	PONCT		23	ponct	23	ponct
+25	tenu	tenir	VPP	VPP	n=s|g=m|t=K	23	mod	23	mod
+26	de	de	P	P		25	mod	25	mod
+27	son	son	DET	DET	n=s|g=m|p=3|poss=s	28	det	28	det
+28	milieu	milieu	NC	NC	n=s|g=m	26	prep	26	prep
+29	de	de	P	P		28	dep	28	dep
+30	vie	vie	NC	NC	n=s|g=f	29	prep	29	prep
+31	...	...	PONCT	PONCT		30	ponct	30	ponct
+
+1	Lorsque	lorsque	CS	CS		0	_	0	_
+2	cela	cela	PRO	PRO	n=s|g=m	3	suj	3	suj
+3	arrive	arriver	V	V	n=s|t=P,S|p=1,3	1	sub	1	sub
+4	malgré	malgré	P	P		3	mod	3	mod
+5	tout	tout	PRO	PRO	n=s|g=m	4	prep	4	prep
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	le	le	DET	DET	n=s|g=m	8	det	8	det
+8	venin	venin	NC	NC	n=s|g=m	3	obj	3	obj
+9	de	de	P	P		8	dep	8	dep
+10	l'	le	DET	DET	n=s	11	det	11	det
+11	argyronète	argyronète	NC	NC	n=s|g=f	9	prep	9	prep
+12	n'	ne	ADV	ADV		0	_	0	_
+13	est	être	V	V	n=s|t=P|p=3	0	_	0	_
+14	pas	pas	ADV	ADV		15	mod	15	mod
+15	très	très	ADV	ADV		16	mod	16	mod
+16	dangereux	dangereux	ADJ	ADJ	g=m	13	ats	13	ats
+17	pour	pour	P	P		13	mod	13	mod
+18	l'	le	DET	DET	n=s	19	det	19	det
+19	homme	homme	NC	NC	n=s|g=m	17	prep	17	prep
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	argyronète	argyronète	NC	NC	n=s|g=f	3	suj	3	suj
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	en	en	P	P		3	mod	3	mod
+6	plus	plus	ADV	ADV		5	mod	5	mod
+7	d'	de	P	P		3	mod	3	mod
+8	être	être	VINF	VINF	t=W	7	prep	7	prep
+9	aquatique	aquatique	ADJ	ADJ	n=s	8	ats	8	ats
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	l'	le	DET	DET	n=s	12	det	12	det
+12	une	un	PRO	PRO	n=s|g=f	3	ats	3	ats
+13	des	de	P+D	P+D	n=p	12	dep	12	dep
+14	très	très	ADV	ADV		15	mod	15	mod
+15	rares	rare	ADJ	ADJ	n=p	16	mod	16	mod
+16	araignées	araignée	NC	NC	n=p|g=f	13	prep	13	prep
+17	chez	chez	P	P		3	mod	3	mod
+18	qui	qui	PROREL	PROREL	n=s	0	_	0	_
+19	le	le	DET	DET	n=s|g=m	20	det	20	det
+20	mâle	mâle	NC	NC	n=s|g=m	0	_	0	_
+21	soit	être	VS	VS	n=s|t=S|p=3	0	_	0	_
+22	légèrement	_	ADV	ADV		23	mod	23	mod
+23	plus	plus	ADV	ADV		24	mod	24	mod
+24	grand	grand	ADJ	ADJ	n=s|g=m	21	ats	21	ats
+25	que	que	CS	CS		24	dep	24	dep
+26	la	la	DET	DET	n=s|g=f	27	det	27	det
+27	femelle	femelle	NC	NC	n=s|g=f	0	_	0	_
+28	.	.	PONCT	PONCT		27	ponct	27	ponct
+
+1	On	on	CLS	CLS	n=s|p=3	2	suj	2	suj
+2	pense	penser	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	qu'	que	CS	CS		2	obj	2	obj
+4	en	en	P	P		0	_	0	_
+5	raison	raison	NC	NC	n=s|g=f	4	prep	4	prep
+6	de	de	P	P		0	_	0	_
+7	cette	cette	DET	DET	n=s|g=f	10	det	10	det
+8	plus	plus	ADV	ADV		9	mod	9	mod
+9	grande	grand	ADJ	ADJ	n=s|g=f	10	mod	10	mod
+10	taille	taille	NC	NC	n=s|g=f	6	prep	6	prep
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	le	le	DET	DET	n=s|g=m	14	det	14	det
+13	mâle	mâle	ADJ	ADJ	n=s	14	mod	14	mod
+14	flotte	flotte	NC	NC	n=s|g=f	10	mod	10	mod
+15	moins	moins	ADV	ADV		16	mod	16	mod
+16	bien	bien	ADV	ADV		10	mod	10	mod
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	ce	ce	PRO	PRO	n=s	10	mod	10	mod
+19	qui	qui	PROREL	PROREL	n=s	20	suj	20	suj
+20	fait	faire	V	V	n=s|t=P|p=3	18	mod_rel	18	mod_rel
+21	qu'	que	CS	CS		20	obj	20	obj
+22	il	il	CLS	CLS	n=s|g=m|p=3	23	suj	23	suj
+23	est	être	V	V	n=s|t=P|p=3	21	sub	21	sub
+24	plus	plus	ADV	ADV		23	mod	23	mod
+25	agile	agile	ADJ	ADJ	n=s	23	ats	23	ats
+26	dans	dans	P	P		23	mod	23	mod
+27	l'	le	DET	DET	n=s	28	det	28	det
+28	eau1	_	NC	NC		26	prep	26	prep
+29	.	.	PONCT	PONCT		28	ponct	28	ponct
+
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	argyronète	argyronète	NC	NC	n=s|g=f	3	suj	3	suj
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	une	une	DET	DET	n=s|g=f	5	det	5	det
+5	araignée	araignée	NC	NC	n=s|g=f	3	obj	3	obj
+6	solitaire	solitaire	ADJ	ADJ	n=s	5	mod	5	mod
+7	:	:	PONCT	PONCT		6	ponct	6	ponct
+8	chacune	chacun	PRO	PRO	n=s|g=f	3	mod	3	mod
+9	vit	vivre	V	V	n=s|t=P|p=3	3	mod	3	mod
+10	seule	seul	ADJ	ADJ	n=s|g=f	9	ats	9	ats
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	dans	dans	P	P		9	mod	9	mod
+13	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	15	det	15	det
+14	propre	propre	ADJ	ADJ	n=s	15	mod	15	mod
+15	cloche	cloche	NC	NC	n=s|g=f	12	prep	12	prep
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	et	et	CC	CC		9	coord	9	coord
+18	ne	ne	ADV	ADV		19	mod	19	mod
+19	laisse	laisser	V	V	n=s|t=P,S|p=1,3	17	dep_coord	17	dep_coord
+20	aucune	aucune	DET	DET	n=s|g=f	22	det	22	det
+21	autre	autre	ADJ	ADJ	n=s	22	mod	22	mod
+22	araignée	araignée	NC	NC	n=s|g=f	19	obj	19	obj
+23	y	y	CLO	CLO		24	aff	24	aff
+24	entrer	entrer	VINF	VINF	t=W	19	mod	19	mod
+25	.	.	PONCT	PONCT		24	ponct	24	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	mâle	mâle	NC	NC	n=s|g=m	6	suj	6	suj
+3	et	et	CC	CC		2	coord	2	coord
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	femelle	femelle	NC	NC	n=s|g=f	3	dep_coord	3	dep_coord
+6	vivent	vivre	V	V	n=p|t=P,S|p=3	0	root	0	root
+7	ainsi	ainsi	ADV	ADV		6	mod	6	mod
+8	séparément	_	ADV	ADV		6	mod	6	mod
+9	.	.	PONCT	PONCT		8	ponct	8	ponct
+
+1	Mais	mais	CC	CC		0	root	0	root
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	durant	durant	P	P		21	mod	21	mod
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	période	période	NC	NC	n=s	3	prep	3	prep
+6	de	de	P	P		5	dep	5	dep
+7	reproduction	reproduction	NC	NC	n=s|g=f	6	prep	6	prep
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	les	les	DET	DET	n=p	10	det	10	det
+10	mâles	mâle	NC	NC	n=p|g=m	21	suj	21	suj
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	plus	plus	ADV	ADV		13	mod	13	mod
+13	gros	gros	ADJ	ADJ	g=m	10	mod	10	mod
+14	et	et	CC	CC		13	coord	13	coord
+15	plus	plus	ADV	ADV		16	mod	16	mod
+16	agiles	agile	ADJ	ADJ	n=p	14	dep_coord	14	dep_coord
+17	dans	dans	P	P		10	dep	10	dep
+18	l'	le	DET	DET	n=s	19	det	19	det
+19	eau	eau	NC	NC	n=s|g=f	17	prep	17	prep
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	rendent	rendre	V	V	n=p|t=P,S|p=3	1	dep_coord	1	dep_coord
+22	visite	visite	NC	NC	n=s|g=f	21	obj	21	obj
+23	aux	à	P+D	P+D	n=p	21	mod	21	mod
+24	femelles	femelle	NC	NC	n=p|g=f	23	prep	23	prep
+25	;	;	PONCT	PONCT		24	ponct	24	ponct
+26	à	à	P	P		21	mod	21	mod
+27	cette	cette	DET	DET	n=s|g=f	28	det	28	det
+28	occasion	occasion	NC	NC	n=s|g=f	26	prep	26	prep
+29	,	,	PONCT	PONCT		28	ponct	28	ponct
+30	il	il	CLS	CLS	n=s|g=m|p=3	31	suj	31	suj
+31	arrive	arriver	V	V	n=s|t=P,S|p=1,3	21	mod	21	mod
+32	qu'	que	CS	CS		31	obj	31	obj
+33	un	un	DET	DET	n=s|g=m	34	det	34	det
+34	mâle	mâle	NC	NC	n=s|g=m	36	suj	36	suj
+35	affamé	affamer	VPP	VPP	n=s|g=m|t=K	34	mod	34	mod
+36	mange	manger	V	V	n=s|t=P,S|p=1,3	32	sub	32	sub
+37	la	la	DET	DET	n=s|g=f	38	det	38	det
+38	femelle	femelle	NC	NC	n=s|g=f	36	obj	36	obj
+39	:	:	PONCT	PONCT		38	ponct	38	ponct
+40	ce	ce	DET	DET	n=s|g=m	41	det	41	det
+41	cas	cas	NC	NC	g=m	36	mod	36	mod
+42	de	de	P	P		41	dep	41	dep
+43	cannibalisme	cannibalisme	NC	NC	n=s|g=m	42	prep	42	prep
+44	,	,	PONCT	PONCT		43	ponct	43	ponct
+45	encore	encore	ADV	ADV		47	mod	47	mod
+46	une	une	DET	DET	n=s|g=f	47	det	47	det
+47	fois	fois	NC	NC	g=f	41	mod	41	mod
+48	,	,	PONCT	PONCT		47	ponct	47	ponct
+49	est	être	V	V	n=s|t=P|p=3	31	mod	31	mod
+50	assez	assez	ADV	ADV		49	mod	49	mod
+51	rare	rare	ADJ	ADJ	n=s	49	ats	49	ats
+52	chez	chez	P	P		49	mod	49	mod
+53	les	les	DET	DET	n=p	54	det	54	det
+54	araignées	araignée	NC	NC	n=p|g=f	52	prep	52	prep
+55	,	,	PONCT	PONCT		54	ponct	54	ponct
+56	ou	ou	CC	CC		49	coord	49	coord
+57	c'	ce	CLS	CLS		58	suj	58	suj
+58	est	être	V	V	n=s|t=P|p=3	56	dep_coord	56	dep_coord
+59	plutôt	plutôt	ADV	ADV		58	mod	58	mod
+60	la	la	DET	DET	n=s|g=f	61	det	61	det
+61	femelle	femelle	NC	NC	n=s|g=f	58	obj	58	obj
+62	qui	qui	PROREL	PROREL	n=s	63	suj	63	suj
+63	mange	manger	V	V	n=s|t=P,S|p=1,3	61	mod_rel	61	mod_rel
+64	le	le	DET	DET	n=s|g=m	65	det	65	det
+65	mâle	mâle	NC	NC	n=s|g=m	63	obj	63	obj
+66	,	,	PONCT	PONCT		65	ponct	65	ponct
+67	d'	de	P	P		63	mod	63	mod
+68	habitude	habitude	NC	NC	n=s|g=f	67	prep	67	prep
+69	.	.	PONCT	PONCT		68	ponct	68	ponct
+
+1	Du	de	P+D	P+D	n=s|g=m	7	mod	7	mod
+2	coup	coup	NC	NC	n=s|g=m	1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	les	les	DET	DET	n=p	5	det	5	det
+5	femelles	femelle	NC	NC	n=p|g=f	7	suj	7	suj
+6	ne	ne	ADV	ADV		7	mod	7	mod
+7	prennent	prendre	V	V	n=p|t=P,S|p=3	0	root	0	root
+8	généralement	_	ADV	ADV		7	mod	7	mod
+9	pas	pas	ADV	ADV		7	mod	7	mod
+10	de	de	P	P		7	mod	7	mod
+11	risques	risque	NC	NC	n=p|g=m	10	prep	10	prep
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	et	et	CC	CC		7	coord	7	coord
+14	s'	se	CLR	CLR	n=p,s|p=3	15	aff	15	aff
+15	enfuient	enfuir	V	V	n=p|t=P,S|p=3	13	dep_coord	13	dep_coord
+16	lorsqu'	lorsque	CS	CS		15	mod	15	mod
+17	elles	elles	CLS	CLS	n=p|g=f|p=3	18	suj	18	suj
+18	voient	voir	V	V	n=p|t=P,S|p=3	16	sub	16	sub
+19	arriver	arriver	VINF	VINF	t=W	18	obj	18	obj
+20	un	un	DET	DET	n=s|g=m	21	det	21	det
+21	mâle1	_	NC	NC		19	obj	19	obj
+22	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+1	Cependant	cependant	ADV	ADV		11	mod	11	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	si	si	CS	CS		11	mod	11	mod
+4	le	le	DET	DET	n=s|g=m	5	det	5	det
+5	mâle	mâle	NC	NC	n=s|g=m	7	suj	7	suj
+6	lui	lui	CLO	CLO	n=s|p=3	7	obj	7	obj
+7	plaît	plaire	V	V	n=s|t=P|p=3	3	sub	3	sub
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	la	la	DET	DET	n=s|g=f	10	det	10	det
+10	femelle	femelle	NC	NC	n=s|g=f	11	suj	11	suj
+11	peut	pouvoir	V	V	n=s|t=P|p=3	0	root	0	root
+12	le	le	CLO	CLO	n=s|g=m|p=3	13	obj	13	obj
+13	laisser	laisser	VINF	VINF	t=W	11	obj	11	obj
+14	approcher	approcher	VINF	VINF	t=W	13	obj	13	obj
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+1	Après	après	P	P		7	mod	7	mod
+2	l'	le	DET	DET	n=s	3	det	3	det
+3	accouplement	accouplement	NC	NC	n=s|g=m	1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	la	la	DET	DET	n=s|g=f	6	det	6	det
+6	femelle	femelle	NC	NC	n=s|g=f	7	suj	7	suj
+7	peut	pouvoir	V	V	n=s|t=P|p=3	0	root	0	root
+8	pondre	pondre	VINF	VINF	t=W	7	obj	7	obj
+9	une	une	DET	DET	n=s|g=f	11	det	11	det
+10	grande	grand	ADJ	ADJ	n=s|g=f	11	mod	11	mod
+11	quantité	quantité	NC	NC	n=s|g=f	8	obj	8	obj
+12	d'	de	P	P		11	dep	11	dep
+13	œufs	_	NC	NC		12	prep	12	prep
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	dans	dans	P	P		8	mod	8	mod
+16	un	un	DET	DET	n=s|g=m	17	det	17	det
+17	cocon	cocon	NC	NC	n=s|g=m	15	prep	15	prep
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	Ces	ces	DET	DET	n=p	2	det	2	det
+2	œufs	_	NC	NC		3	suj	3	suj
+3	donneront	donner	V	V	n=p|t=F|p=3	0	root	0	root
+4	naissance	naissance	NC	NC	n=s|g=f	3	obj	3	obj
+5	à	à	P	P		3	mod	3	mod
+6	de	de	DET	DET	n=p	8	det	8	det
+7	minuscules	minuscule	ADJ	ADJ	n=p	8	mod	8	mod
+8	araignées	araignée	NC	NC	n=p|g=f	5	prep	5	prep
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	qui	qui	PROREL	PROREL	n=s	11	suj	11	suj
+11	vivent	vivre	V	V	n=p|t=P,S|p=3	8	mod_rel	8	mod_rel
+12	dans	dans	P	P		11	mod	11	mod
+13	la	la	DET	DET	n=s|g=f	14	det	14	det
+14	cloche	cloche	NC	NC	n=s|g=f	12	prep	12	prep
+15	de	de	P	P		11	mod	11	mod
+16	leur	leur	DET	DET	n=s|p=3|poss=p	17	det	17	det
+17	mère	mère	NC	NC	n=s|g=f	15	prep	15	prep
+18	jusqu'	jusque	P	P		11	mod	11	mod
+19	à	à	P	P		18	prep	18	prep
+20	ce	ce	PRO	PRO	n=s	19	prep	19	prep
+21	qu'	que	PROREL	PROREL		0	_	0	_
+22	elles	elles	CLS	CLS	n=p|g=f|p=3	0	_	0	_
+23	soient	être	VS	VS	n=p|t=S|p=3	0	_	0	_
+24	assez	assez	ADV	ADV		25	mod	25	mod
+25	grandes	grand	ADJ	ADJ	n=p|g=f	23	ats	23	ats
+26	pour	pour	P	P		23	mod	23	mod
+27	la	la	CLO	CLO	n=s|g=f|p=3	28	obj	28	obj
+28	quitter	quitter	VINF	VINF	t=W	26	prep	26	prep
+29	,	,	PONCT	PONCT		28	ponct	28	ponct
+30	et	et	CC	CC		28	coord	28	coord
+31	construire	construire	VINF	VINF	t=W	30	dep_coord	30	dep_coord
+32	leur	leur	DET	DET	n=s|p=3|poss=p	34	det	34	det
+33	propre	propre	ADJ	ADJ	n=s	34	mod	34	mod
+34	abri	abri	NC	NC	n=s|g=m	31	obj	31	obj
+35	.	.	PONCT	PONCT		34	ponct	34	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	3	suj	3	suj
+2	est	être	V	V	n=s|t=P|p=3	3	aux_tps	3	aux_tps
+3	déconseillé	déconseiller	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+4	d'	de	P	P		3	mod	3	mod
+5	essayer	essayer	VINF	VINF	t=W	4	prep	4	prep
+6	d'	de	P	P		3	mod	3	mod
+7	élever	élever	VINF	VINF	t=W	6	prep	6	prep
+8	des	des	DET	DET	n=p	9	det	9	det
+9	argyronètes	argyronète	NC	NC	n=p|g=f	7	obj	7	obj
+10	en	en	P	P		7	mod	7	mod
+11	captivitéδ	_	NC	NC		10	prep	10	prep
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	car	car	CS	CS		3	mod	3	mod
+14	elle	elle	CLS	CLS	n=s|g=f|p=3	15	suj	15	suj
+15	reste	rester	V	V	n=s|t=P,S|p=1,3	13	sub	13	sub
+16	une	une	DET	DET	n=s|g=f	17	det	17	det
+17	espèce	espèce	NC	NC	n=s|g=f	15	obj	15	obj
+18	dangereuse	dangereux	ADJ	ADJ	n=s|g=f	17	mod	17	mod
+19	à	à	P	P		15	mod	15	mod
+20	manipuler	manipuler	VINF	VINF	t=W	19	prep	19	prep
+21	(	(	PONCT	PONCT		20	ponct	20	ponct
+22	ce	ce	CLS	CLS		24	suj	24	suj
+23	n'	ne	ADV	ADV		24	mod	24	mod
+24	est	être	V	V	n=s|t=P|p=3	3	mod	3	mod
+25	pas	pas	ADV	ADV		24	mod	24	mod
+26	parce	_	ADV	ADV		24	mod	24	mod
+27	que	que	CS	CS		24	mod	24	mod
+28	c'	ce	CLS	CLS		29	suj	29	suj
+29	est	être	V	V	n=s|t=P|p=3	27	sub	27	sub
+30	une	une	DET	DET	n=s|g=f	31	det	31	det
+31	espèce	espèce	NC	NC	n=s|g=f	29	obj	29	obj
+32	aquatique	aquatique	ADJ	ADJ	n=s	31	mod	31	mod
+33	qu'	que	PROREL	PROREL		36	obj	36	obj
+34	elle	elle	CLS	CLS	n=s|g=f|p=3	36	suj	36	suj
+35	ne	ne	ADV	ADV		36	mod	36	mod
+36	peut	pouvoir	V	V	n=s|t=P|p=3	31	mod_rel	31	mod_rel
+37	pas	pas	ADV	ADV		36	mod	36	mod
+38	sortir	sortir	VINF	VINF	t=W	36	obj	36	obj
+39	de	de	P	P		38	mod	38	mod
+40	l'	le	DET	DET	n=s	41	det	41	det
+41	eau	eau	NC	NC	n=s|g=f	39	prep	39	prep
+42	...	...	PONCT	PONCT		41	ponct	41	ponct
+43	)	)	PONCT	PONCT		41	ponct	41	ponct
+
+1	Cependant	cependant	ADV	ADV		4	mod	4	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	elle	elle	CLS	CLS	n=s|g=f|p=3	4	suj	4	suj
+4	reste	rester	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+5	assez	assez	ADV	ADV		4	mod	4	mod
+6	facile	facile	ADJ	ADJ	n=s	4	ats	4	ats
+7	à	à	P	P		4	mod	4	mod
+8	élever	élever	VINF	VINF	t=W	7	prep	7	prep
+9	en	en	P	P		8	mod	8	mod
+10	aquarium	aquarium	NC	NC	n=s|g=m	9	prep	9	prep
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	pour	pour	P	P		4	mod	4	mod
+13	les	les	DET	DET	n=p	14	det	14	det
+14	chercheurs	chercheur	NC	NC	n=p|g=m	12	prep	12	prep
+15	qui	qui	PROREL	PROREL	n=s	17	suj	17	suj
+16	l'	le	CLO	CLO	n=s|p=3	17	obj	17	obj
+17	étudient	étudier	V	V	n=p|t=P,S|p=3	14	mod_rel	14	mod_rel
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	Pour	pour	P	P		5	mod	5	mod
+2	cela	cela	PRO	PRO	n=s|g=m	1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	il	il	CLS	CLS	n=s|g=m|p=3	5	suj	5	suj
+5	faut	falloir	V	V	n=s|t=P|p=3	0	root	0	root
+6	prévoir	prévoir	VINF	VINF	t=W	5	obj	5	obj
+7	un	un	DET	DET	n=s|g=m	8	det	8	det
+8	aquarium	aquarium	NC	NC	n=s|g=m	6	obj	6	obj
+9	pour	pour	P	P		6	mod	6	mod
+10	une	une	DET	DET	n=s|g=f	12	det	12	det
+11	seule	seul	ADJ	ADJ	n=s|g=f	12	mod	12	mod
+12	argyronète	argyronète	NC	NC	n=s|g=f	9	prep	9	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	car	car	CS	CS		5	mod	5	mod
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	autrement	_	ADV	ADV		21	mod	21	mod
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	les	les	DET	DET	n=p	19	det	19	det
+19	araignées	araignée	NC	NC	n=p|g=f	21	suj	21	suj
+20	se	se	CLR	CLR	n=p,s|p=3	21	aff	21	aff
+21	battraient	battre	V	V	n=p|t=C|p=3	14	sub	14	sub
+22	entre	entre	P	P		21	mod	21	mod
+23	elles	elles	PRO	PRO	n=p|g=f|p=3	22	prep	22	prep
+24	.	.	PONCT	PONCT		23	ponct	23	ponct
+
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	aquarium	aquarium	NC	NC	n=s|g=m	3	suj	3	suj
+3	devra	devoir	V	V	n=s|t=F|p=3	0	root	0	root
+4	comporter	comporter	VINF	VINF	t=W	3	obj	3	obj
+5	des	des	DET	DET	n=p	6	det	6	det
+6	plantes	plante	NC	NC	n=p|g=f	4	obj	4	obj
+7	aquatiques	aquatique	ADJ	ADJ	n=p	6	mod	6	mod
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	et	et	CC	CC		3	coord	3	coord
+10	des	de	P+D	P+D	n=p	9	dep_coord	9	dep_coord
+11	pierres	pierre	NC	NC	n=p|g=f	10	prep	10	prep
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	pour	pour	P	P		3	mod	3	mod
+14	que	que	CS	CS		13	prep	13	prep
+15	l'	le	DET	DET	n=s	16	det	16	det
+16	argyronète	argyronète	NC	NC	n=s|g=f	17	suj	17	suj
+17	puisse	pouvoir	VS	VS	n=s|t=S|p=1,3	14	sub	14	sub
+18	y	y	CLO	CLO		19	a_obj	19	a_obj
+19	tisser	tisser	VINF	VINF	t=W	17	obj	17	obj
+20	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	21	det	21	det
+21	toile	toile	NC	NC	n=s|g=f	19	obj	19	obj
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+23	et	et	CC	CC		19	coord	19	coord
+24	fixer	fixer	VINF	VINF	t=W	23	dep_coord	23	dep_coord
+25	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	26	det	26	det
+26	bulle	bulle	NC	NC	n=s	24	obj	24	obj
+27	.	.	PONCT	PONCT		26	ponct	26	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	faudra	falloir	V	V	n=s|t=F|p=3	0	root	0	root
+3	donc	donc	ADV	ADV		2	mod	2	mod
+4	que	que	CS	CS		2	obj	2	obj
+5	l'	le	DET	DET	n=s	6	det	6	det
+6	eau	eau	NC	NC	n=s|g=f	7	suj	7	suj
+7	soit	être	VS	VS	n=s|t=S|p=3	4	sub	4	sub
+8	propre	propre	ADJ	ADJ	n=s	7	ats	7	ats
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	et	et	CC	CC		4	coord	4	coord
+11	que	que	CS	CS		10	dep_coord	10	dep_coord
+12	l'	le	DET	DET	n=s	13	det	13	det
+13	aquarium	aquarium	NC	NC	n=s|g=m	0	_	0	_
+14	soit	soit	CC	CC		13	coord	13	coord
+15	correctement	_	ADV	ADV		16	mod	16	mod
+16	éclairé	éclairer	VPP	VPP	n=s|g=m|t=K	14	dep_coord	14	dep_coord
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	pour	pour	P	P		16	mod	16	mod
+19	que	que	CS	CS		18	prep	18	prep
+20	les	les	DET	DET	n=p	21	det	21	det
+21	plantes	plante	NC	NC	n=p|g=f	0	_	0	_
+22	puissent	pouvoir	VS	VS	n=p|t=S|p=3	0	_	0	_
+23	s'	se	CLR	CLR	n=p,s|p=3	25	aff	25	aff
+24	y	y	CLO	CLO		25	aff	25	aff
+25	développer	développer	VINF	VINF	t=W	22	obj	22	obj
+26	.	.	PONCT	PONCT		25	ponct	25	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	bac	bac	NC	NC	n=s|g=m	5	suj	5	suj
+3	sera	être	V	V	n=s|t=F|p=3	5	aux_pass	5	aux_pass
+4	donc	donc	ADV	ADV		5	mod	5	mod
+5	équipé	équiper	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+6	d'	de	P	P		5	mod	5	mod
+7	un	un	DET	DET	n=s|g=m	9	det	9	det
+8	petit	petit	ADJ	ADJ	n=s|g=m	9	mod	9	mod
+9	filtre	filtre	NC	NC	n=s|g=m	6	prep	6	prep
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	ainsi	ainsi	ADV	ADV		12	mod	12	mod
+12	que	que	CS	CS		5	mod	5	mod
+13	d'	de	P	P		0	_	0	_
+14	une	une	DET	DET	n=s|g=f	15	det	15	det
+15	lampe	lampe	NC	NC	n=s|g=f	13	prep	13	prep
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	et	et	CC	CC		13	coord	13	coord
+18	d'	de	P	P		17	dep_coord	17	dep_coord
+19	un	un	DET	DET	n=s|g=m	20	det	20	det
+20	couvercle	couvercle	NC	NC	n=s|g=m	18	prep	18	prep
+21	.	.	PONCT	PONCT		20	ponct	20	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	niveau	niveau	NC	NC	n=s|g=m	6	suj	6	suj
+3	de	de	P	P		2	dep	2	dep
+4	l'	le	DET	DET	n=s	5	det	5	det
+5	eau	eau	NC	NC	n=s|g=f	3	prep	3	prep
+6	devra	devoir	V	V	n=s|t=F|p=3	0	root	0	root
+7	arriver	arriver	VINF	VINF	t=W	6	obj	6	obj
+8	bien	bien	ADV	ADV		7	mod	7	mod
+9	en	en	P	P		7	mod	7	mod
+10	dessous	dessous	NC	NC	g=m	9	prep	9	prep
+11	du	de	P+D	P+D	n=s|g=m	7	mod	7	mod
+12	couvercle	couvercle	NC	NC	n=s|g=m	11	prep	11	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	afin	_	ADV	ADV		6	mod	6	mod
+15	que	que	CS	CS		6	mod	6	mod
+16	l'	le	DET	DET	n=s	17	det	17	det
+17	argyronète	argyronète	NC	NC	n=s|g=f	18	suj	18	suj
+18	puisse	pouvoir	VS	VS	n=s|t=S|p=1,3	15	sub	15	sub
+19	récupérer	récupérer	VINF	VINF	t=W	18	obj	18	obj
+20	de	de	P	P		19	mod	19	mod
+21	l'	le	DET	DET	n=s	22	det	22	det
+22	air	air	NC	NC	n=s|g=m	20	prep	20	prep
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	faute	faute	NC	NC	n=s|g=f	22	mod	22	mod
+25	de	de	P	P		19	mod	19	mod
+26	quoi	quoi	PROREL	PROREL		25	prep	25	prep
+27	elle	elle	CLS	CLS	n=s|g=f|p=3	29	suj	29	suj
+28	se	se	CLR	CLR	n=p,s|p=3	29	aff	29	aff
+29	noierait	noyer	V	V	n=s|t=C|p=3	15	sub	15	sub
+30	.	.	PONCT	PONCT		29	ponct	29	ponct
+
+1	En	en	P	P		5	mod	5	mod
+2	aquarium	aquarium	NC	NC	n=s|g=m	1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	il	il	CLS	CLS	n=s|g=m|p=3	5	suj	5	suj
+5	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+6	possible	possible	ADJ	ADJ	n=s	5	ats	5	ats
+7	de	de	P	P		5	mod	5	mod
+8	nourrir	nourrir	VINF	VINF	t=W	7	prep	7	prep
+9	les	les	DET	DET	n=p	10	det	10	det
+10	argyronètes	argyronète	NC	NC	n=p|g=f	8	obj	8	obj
+11	en	en	P	P		8	mod	8	mod
+12	leur	leur	CLO	CLO	n=p|p=3	13	obj	13	obj
+13	distribuant	distribuer	VPR	VPR	t=G	11	prep	11	prep
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	une	une	DET	DET	n=s|g=f	16	det	16	det
+16	fois	fois	NC	NC	g=f	13	obj	13	obj
+17	par	par	P	P		16	dep	16	dep
+18	semaine	semaine	NC	NC	n=s|g=f	17	prep	17	prep
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	des	des	DET	DET	n=p	21	det	21	det
+21	gammares	gammare	NC	NC	n=p|g=m	16	mod	16	mod
+22	ou	ou	CC	CC		16	coord	16	coord
+23	des	de	P+D	P+D	n=p	22	dep_coord	22	dep_coord
+24	aselles1	_	NC	NC		23	prep	23	prep
+25	.	.	PONCT	PONCT		24	ponct	24	ponct
+
+1	Une	une	DET	DET	n=s|g=f	2	det	2	det
+2	autre	autre	ADJ	ADJ	n=s	0	_	0	_
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	l'	le	DET	DET	n=s	5	det	5	det
+5	Argyronète	_	NPP	NPP		0	_	0	_
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	se	se	CLR	CLR	n=p,s|p=3	8	aff	8	aff
+8	construit	construire	VPP	VPP	n=s|g=m|t=K	5	mod	5	mod
+9	au	à	P+D	P+D	n=s|g=m	8	mod	8	mod
+10	sein	sein	NC	NC	n=s|g=m	9	prep	9	prep
+11	de	de	P	P		8	mod	8	mod
+12	l'	le	DET	DET	n=s	13	det	13	det
+13	eau	eau	NC	NC	n=s|g=f	11	prep	11	prep
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	avec	avec	P	P		8	mod	8	mod
+16	de	de	P	P		15	dep	15	dep
+17	la	la	DET	DET	n=s|g=f	18	det	18	det
+18	soie	soie	NC	NC	n=s|g=f	16	prep	16	prep
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	une	une	DET	DET	n=s|g=f	22	det	22	det
+21	élégante	élégant	ADJ	ADJ	n=s|g=f	22	mod	22	mod
+22	cloche	cloche	NC	NC	n=s|g=f	8	mod	8	mod
+23	à	à	P	P		22	dep	22	dep
+24	plongeur	plongeur	NC	NC	n=s|g=m	23	prep	23	prep
+25	où	où	PROREL	PROREL		27	mod	27	mod
+26	elle	elle	CLS	CLS	n=s|g=f|p=3	27	suj	27	suj
+27	emmagasine	emmagasiner	V	V	n=s|t=P,S|p=1,3	22	mod_rel	22	mod_rel
+28	de	de	P	P		27	mod	27	mod
+29	l'	le	DET	DET	n=s	30	det	30	det
+30	air	air	NC	NC	n=s|g=m	28	prep	28	prep
+31	.	.	PONCT	PONCT		30	ponct	30	ponct
+
+1	Ainsi	ainsi	ADV	ADV		2	mod	2	mod
+2	pourvue	pourvoir	VPP	VPP	n=s|g=f|t=K	9	mod	9	mod
+3	de	de	P	P		2	mod	2	mod
+4	l'	le	DET	DET	n=s	5	det	5	det
+5	élément	élément	NC	NC	n=s|g=m	3	prep	3	prep
+6	respirable	respirable	ADJ	ADJ	n=s	5	mod	5	mod
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	elle	elle	CLS	CLS	n=s|g=f|p=3	9	suj	9	suj
+9	guette	guetter	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+10	au	à	P+D	P+D	n=s|g=m	9	mod	9	mod
+11	frais	frais	NC	NC	n=p|g=m	10	prep	10	prep
+12	la	la	DET	DET	n=s|g=f	13	det	13	det
+13	venue	venue	NC	NC	n=s|g=f	9	obj	9	obj
+14	de	de	P	P		13	dep	13	dep
+15	la	la	DET	DET	n=s|g=f	16	det	16	det
+16	proie	proie	NC	NC	n=s|g=f	14	prep	14	prep
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+1	En	en	P	P		7	mod	7	mod
+2	temps	temps	NC	NC	g=m	1	prep	1	prep
+3	de	de	P	P		7	mod	7	mod
+4	canicule	canicule	NC	NC	n=s|g=f	3	prep	3	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	c'	ce	CLS	CLS		7	suj	7	suj
+7	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+8	vraie	vrai	ADJ	ADJ	n=s|g=f	9	suj	9	suj
+9	demeure	demeurer	V	V	n=s|t=P,S|p=1,3	7	mod	7	mod
+10	de	de	P	P		9	mod	9	mod
+11	sybarite	sybarite	NC	NC	n=s	10	prep	10	prep
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	comme	comme	P	P		9	mod	9	mod
+14	l'	le	DET	DET	n=s	15	det	15	det
+15	homme	homme	NC	NC	n=s|g=m	13	prep	13	prep
+16	insensé	insensé	ADJ	ADJ	n=s|g=m	15	mod	15	mod
+17	en	en	CLO	CLO		20	aff	20	aff
+18	a	avoir	V	V	n=s|t=P|p=3	20	aux_tps	20	aux_tps
+19	parfois	parfois	ADV	ADV		20	mod	20	mod
+20	entrepris	entreprendre	VPP	VPP	g=m|t=K	7	mod	7	mod
+21	sous	sous	P	P		20	mod	20	mod
+22	les	les	DET	DET	n=p	23	det	23	det
+23	flots	flot	NC	NC	n=p|g=m	21	prep	21	prep
+24	,	,	PONCT	PONCT		23	ponct	23	ponct
+25	à	à	P	P		20	mod	20	mod
+26	grand	grand	ADJ	ADJ	n=s|g=m	27	mod	27	mod
+27	renfort	renfort	NC	NC	n=s|g=m	25	prep	25	prep
+28	de	de	P	P		20	mod	20	mod
+29	blocs	bloc	NC	NC	n=p|g=m	28	prep	28	prep
+30	de	de	P	P		20	mod	20	mod
+31	marbre	marbre	NC	NC	n=s|g=m	30	prep	30	prep
+32	et	et	CC	CC		20	coord	20	coord
+33	de	de	P	P		32	dep_coord	32	dep_coord
+34	pierres	pierre	NC	NC	n=p|g=f	33	prep	33	prep
+35	de	de	P	P		20	mod	20	mod
+36	taille	taille	NC	NC	n=s|g=f	35	prep	35	prep
+37	.	.	PONCT	PONCT		36	ponct	36	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	plafonds	plafond	NC	NC	n=p|g=m	9	suj	9	suj
+3	sous	sous	P	P		2	dep	2	dep
+4	-	-	PONCT	PONCT		3	ponct	3	ponct
+5	marins	marin	NC	NC	n=p|g=m	3	prep	3	prep
+6	de	de	P	P		2	dep	2	dep
+7	Tibère	_	NPP	NPP		6	prep	6	prep
+8	ne	ne	ADV	ADV		9	mod	9	mod
+9	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+10	plus	plus	ADV	ADV		9	mod	9	mod
+11	qu'	que	CS	CS		9	mod	9	mod
+12	un	un	DET	DET	n=s|g=m	14	det	14	det
+13	odieux	odieux	ADJ	ADJ	g=m	14	mod	14	mod
+14	souvenir	souvenir	NC	NC	n=s|g=m	22	suj	22	suj
+15	;	;	PONCT	PONCT		14	ponct	14	ponct
+16	la	la	DET	DET	n=s|g=f	18	det	18	det
+17	délicate	délicat	ADJ	ADJ	n=s|g=f	18	mod	18	mod
+18	coupole	coupole	NC	NC	n=s|g=f	14	mod	14	mod
+19	de	de	P	P		18	dep	18	dep
+20	l'	le	DET	DET	n=s	21	det	21	det
+21	Argyronète	_	NPP	NPP		19	prep	19	prep
+22	prospère	prospérer	V	V	n=s|t=P,S|p=1,3	11	sub	11	sub
+23	toujours	toujours	ADV	ADV		22	mod	22	mod
+24	.	.	PONCT	PONCT		23	ponct	23	ponct
+25	3	3	NC	NC		22	obj	22	obj
+

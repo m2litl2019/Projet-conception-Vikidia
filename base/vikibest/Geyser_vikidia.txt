@@ -1,0 +1,1394 @@
+1	Un	un	DET	DET	n=s|g=m	2	det	2	det
+2	geyser	geyser	NC	NC	n=s|g=m	7	suj	7	suj
+3	(	(	PONCT	PONCT		2	ponct	2	ponct
+4	prononcer	prononcer	VINF	VINF	t=W	2	dep	2	dep
+5	gézère	_	NPP	NPP		4	obj	4	obj
+6	)	)	PONCT	PONCT		5	ponct	5	ponct
+7	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+8	le	le	DET	DET	n=s|g=m	9	det	9	det
+9	nom	nom	NC	NC	n=s|g=m	7	obj	7	obj
+10	donné	donner	VPP	VPP	n=s|g=m|t=K	9	mod	9	mod
+11	à	à	P	P		10	mod	10	mod
+12	une	une	DET	DET	n=s|g=f	13	det	13	det
+13	source	source	NC	NC	n=s|g=f	11	prep	11	prep
+14	d'	de	P	P		13	dep	13	dep
+15	eau	eau	NC	NC	n=s|g=f	14	prep	14	prep
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	chaude	chaude	NC	NC	n=s|g=f	13	mod	13	mod
+18	ou	ou	CC	CC		9	coord	9	coord
+19	boueuse	boueux	ADJ	ADJ	n=s|g=f	18	dep_coord	18	dep_coord
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	qui	qui	PROREL	PROREL	n=s	31	suj	31	suj
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+23	sous	sous	P	P		31	mod	31	mod
+24	la	la	DET	DET	n=s|g=f	25	det	25	det
+25	pression	pression	NC	NC	n=s|g=f	23	prep	23	prep
+26	d'	de	P	P		25	dep	25	dep
+27	une	une	DET	DET	n=s|g=f	28	det	28	det
+28	ébullition	ébullition	NC	NC	n=s|g=f	26	prep	26	prep
+29	brutale	brutal	ADJ	ADJ	n=s|g=f	28	mod	28	mod
+30	,	,	PONCT	PONCT		29	ponct	29	ponct
+31	jaillit	jaillir	V	V	n=s|t=J,P|p=3	7	mod	7	mod
+32	hors	hors	P	P		31	mod	31	mod
+33	du	de	P+D	P+D	n=s|g=m	32	dep	32	dep
+34	sol	_	NC	NC		33	prep	33	prep
+35	par	par	P	P		34	dep	34	dep
+36	intermittence	intermittence	NC	NC	n=s|g=f	35	prep	35	prep
+37	.	.	PONCT	PONCT		36	ponct	36	ponct
+
+1	C'	ce	CLS	CLS		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	aussi	aussi	ADV	ADV		2	mod	2	mod
+4	le	le	DET	DET	n=s|g=m	5	det	5	det
+5	nom	nom	NC	NC	n=s|g=m	2	obj	2	obj
+6	donné	donner	VPP	VPP	n=s|g=m|t=K	5	mod	5	mod
+7	au	à	P+D	P+D	n=s|g=m	6	mod	6	mod
+8	phénomène	phénomène	NC	NC	n=s|g=m	7	prep	7	prep
+9	de	de	P	P		6	mod	6	mod
+10	jaillissement	jaillissement	NC	NC	n=s|g=m	9	prep	9	prep
+11	brutal	brutal	ADJ	ADJ	n=s|g=m	10	mod	10	mod
+12	hors	hors	P	P		6	mod	6	mod
+13	du	de	P+D	P+D	n=s|g=m	12	dep	12	dep
+14	sol	_	NC	NC		13	prep	13	prep
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	lié	lier	VPP	VPP	n=s|g=m|t=K	5	mod	5	mod
+17	à	à	P	P		16	mod	16	mod
+18	un	un	DET	DET	n=s|g=m	19	det	19	det
+19	changement	changement	NC	NC	n=s|g=m	17	prep	17	prep
+20	d'	de	P	P		16	mod	16	mod
+21	état	état	NC	NC	n=s|g=m	20	prep	20	prep
+22	brutal	brutal	ADJ	ADJ	n=s|g=m	21	mod	21	mod
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+1	il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	existe	exister	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	deux	deux	DET	DET	s=card|n=p	4	det	4	det
+4	type	type	NC	NC	n=s|g=m	2	obj	2	obj
+5	de	de	P	P		4	dep	4	dep
+6	geyser	geyser	NC	NC	n=s|g=m	5	prep	5	prep
+7	.	.	PONCT	PONCT		6	ponct	6	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	mot	mot	NC	NC	n=s|g=m	4	suj	4	suj
+3	geyser	geyser	NC	NC	n=s|g=m	2	mod	2	mod
+4	vient	venir	V	V	n=s|t=P|p=3	0	root	0	root
+5	du	de	P+D	P+D	n=s|g=m	4	mod	4	mod
+6	nom	nom	NC	NC	n=s|g=m	5	prep	5	prep
+7	de	de	P	P		4	mod	4	mod
+8	l'	le	DET	DET	n=s	9	det	9	det
+9	un	un	PRO	PRO	n=s|g=m	7	prep	7	prep
+10	d'	de	P	P		4	mod	4	mod
+11	entre	entre	P	P		10	dep	10	dep
+12	eux	eux	PRO	PRO	n=p|g=m|p=3	11	prep	11	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	situé	situer	VPP	VPP	n=s|g=m|t=K	4	mod	4	mod
+15	en	en	P	P		14	mod	14	mod
+16	Islande	Islande	NPP	NPP	n=s|g=f	15	prep	15	prep
+17	:	:	PONCT	PONCT		16	ponct	16	ponct
+18	Geysir	_	NPP	NPP		16	mod	16	mod
+19	(	(	PONCT	PONCT		18	ponct	18	ponct
+20	il	il	CLS	CLS	n=s|g=m|p=3	21	suj	21	suj
+21	atteint	atteindre	V	V	n=s|t=P|p=3	4	mod	4	mod
+22	55	55	ADJ	ADJ		23	mod	23	mod
+23	mètres	mètre	NC	NC	n=p|g=m	21	obj	21	obj
+24	de	de	P	P		23	dep	23	dep
+25	hauteur	hauteur	NC	NC	n=s|g=f	24	prep	24	prep
+26	)	)	PONCT	PONCT		25	ponct	25	ponct
+27	1	1	NC	NC		23	mod	23	mod
+28	.	.	PONCT	PONCT		27	ponct	27	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	nom	nom	NC	NC	n=s|g=m	6	suj	6	suj
+3	de	de	P	P		2	dep	2	dep
+4	ce	ce	DET	DET	n=s|g=m	5	det	5	det
+5	geyser	geyser	NC	NC	n=s|g=m	3	prep	3	prep
+6	dérive	dériver	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+7	de	de	P	P		6	mod	6	mod
+8	l'	le	DET	DET	n=s	9	det	9	det
+9	islandais	islandais	NC	NC	g=m	7	prep	7	prep
+10	gjósa	_	NPP	NPP		9	mod	9	mod
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	qui	qui	PROREL	PROREL	n=s	13	suj	13	suj
+13	signifie	signifier	V	V	n=s|t=P,S|p=1,3	9	mod_rel	9	mod_rel
+14	«_	"	PONCT	PONCT		13	ponct	13	ponct
+15	jaillir	jaillir	VINF	VINF	t=W	13	obj	13	obj
+16	_»	"	PONCT	PONCT		15	ponct	15	ponct
+17	1	1	NC	NC		15	obj	15	obj
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	Un	un	DET	DET	n=s|g=m	2	det	2	det
+2	geyser	geyser	NC	NC	n=s|g=m	3	suj	3	suj
+3	naît	naître	V	V	n=s|t=P|p=3	0	root	0	root
+4	de	de	P	P		3	mod	3	mod
+5	l'	le	DET	DET	n=s	6	det	6	det
+6	infiltration	infiltration	NC	NC	n=s|g=f	4	prep	4	prep
+7	d'	de	P	P		3	mod	3	mod
+8	eau	eau	NC	NC	n=s|g=f	7	prep	7	prep
+9	dans	dans	P	P		3	mod	3	mod
+10	le	le	DET	DET	n=s|g=m	11	det	11	det
+11	sous-sol	sous-sol	NC	NC	n=s|g=m	9	prep	9	prep
+12	d'	de	P	P		3	mod	3	mod
+13	une	une	DET	DET	n=s|g=f	14	det	14	det
+14	région	région	NC	NC	n=s|g=f	12	prep	12	prep
+15	volcanique	volcanique	ADJ	ADJ	n=s	14	mod	14	mod
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+1	Cette	cette	DET	DET	n=s|g=f	2	det	2	det
+2	eau	eau	NC	NC	n=s|g=f	4	suj	4	suj
+3	est	être	V	V	n=s|t=P|p=3	4	aux_tps	4	aux_tps
+4	chauffée	chauffer	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+5	en	en	P	P		4	mod	4	mod
+6	profondeur	profondeur	NC	NC	n=s|g=f	5	prep	5	prep
+7	(	(	PONCT	PONCT		6	ponct	6	ponct
+8	quelques	quelques	DET	DET	n=p	9	det	9	det
+9	dizaines	dizaine	NC	NC	n=p|g=f	4	mod	4	mod
+10	à	à	P	P		4	mod	4	mod
+11	moins	moins	ADV	ADV		0	_	0	_
+12	de	de	P	P		0	_	0	_
+13	150	150	ADJ	ADJ		14	mod	14	mod
+14	m	_	NC	NC		12	prep	12	prep
+15	de	de	P	P		14	dep	14	dep
+16	profondeur	profondeur	NC	NC	n=s|g=f	15	prep	15	prep
+17	)	)	PONCT	PONCT		16	ponct	16	ponct
+18	par	par	P	P		14	dep	14	dep
+19	contact	contact	NC	NC	n=s|g=m	18	prep	18	prep
+20	avec	avec	P	P		14	dep	14	dep
+21	des	des	DET	DET	n=p	22	det	22	det
+22	roches	roche	NC	NC	n=p|g=f	20	prep	20	prep
+23	volcaniques	volcanique	ADJ	ADJ	n=p	22	mod	22	mod
+24	encore	encore	ADV	ADV		25	mod	25	mod
+25	très	très	ADV	ADV		26	mod	26	mod
+26	chaudes	chaud	ADJ	ADJ	n=p|g=f	22	mod	22	mod
+27	(	(	PONCT	PONCT		26	ponct	26	ponct
+28	200	200	NC	NC		22	mod	22	mod
+29	à	à	P	P		28	dep	28	dep
+30	350	350	NC	NC		29	prep	29	prep
+31	°C	_	NPP	NPP		30	mod	30	mod
+32	)	)	PONCT	PONCT		31	ponct	31	ponct
+33	,	,	PONCT	PONCT		31	ponct	31	ponct
+34	éventuellement	_	ADV	ADV		35	mod	35	mod
+35	elles	elles	PRO	PRO	n=p|g=f|p=3	22	mod	22	mod
+36	-	-	PONCT	PONCT		35	ponct	35	ponct
+37	mêmes	même	ADJ	ADJ	n=p	35	mod	35	mod
+38	très	très	ADV	ADV		35	mod	35	mod
+39	proches	proche	ADJ	ADJ	n=p	35	mod	35	mod
+40	d'	de	P	P		22	dep	22	dep
+41	une	une	DET	DET	n=s|g=f	42	det	42	det
+42	source	source	NC	NC	n=s|g=f	40	prep	40	prep
+43	de	de	P	P		42	dep	42	dep
+44	chaleur	chaleur	NC	NC	n=s|g=f	43	prep	43	prep
+45	,	,	PONCT	PONCT		44	ponct	44	ponct
+46	un	un	DET	DET	n=s|g=m	47	det	47	det
+47	magma	magma	NC	NC	n=s|g=m	0	_	0	_
+48	stationnant	stationner	VPR	VPR	t=G	47	mod	47	mod
+49	dans	dans	P	P		48	mod	48	mod
+50	un	un	DET	DET	n=s|g=m	51	det	51	det
+51	filon	filon	NC	NC	n=s|g=m	49	prep	49	prep
+52	intrusif	intrusif	ADJ	ADJ	n=s|g=m	51	mod	51	mod
+53	à	à	P	P		48	mod	48	mod
+54	quelques	quelques	DET	DET	n=p	55	det	55	det
+55	centaines	centaine	NC	NC	n=p|g=f	53	prep	53	prep
+56	de	de	P	P		48	mod	48	mod
+57	mètres	mètre	NC	NC	n=p|g=m	56	prep	56	prep
+58	plus	plus	ADV	ADV		59	mod	59	mod
+59	profond	profond	ADJ	ADJ	n=s|g=m	57	mod	57	mod
+60	.	.	PONCT	PONCT		59	ponct	59	ponct
+
+1	À	à	P	P		14	mod	14	mod
+2	typiquement	_	ADV	ADV		6	mod	6	mod
+3	100	100	ET	ET		6	dep	6	dep
+4	m	_	ET	ET		6	dep	6	dep
+5	de	de	P	P		4	dep	4	dep
+6	profondeur	profondeur	NC	NC	n=s|g=f	1	prep	1	prep
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	la	la	DET	DET	n=s|g=f	9	det	9	det
+9	pression	pression	NC	NC	n=s|g=f	14	suj	14	suj
+10	de	de	P	P		9	dep	9	dep
+11	l'	le	DET	DET	n=s	12	det	12	det
+12	eau	eau	NC	NC	n=s|g=f	10	prep	10	prep
+13	qui	qui	PROREL	PROREL	n=s	14	suj	14	suj
+14	résulte	résulter	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+15	du	de	P+D	P+D	n=s|g=m	14	mod	14	mod
+16	poids	poids	NC	NC	g=m	15	prep	15	prep
+17	de	de	P	P		14	mod	14	mod
+18	la	la	DET	DET	n=s|g=f	19	det	19	det
+19	colonne	colonne	NC	NC	n=s|g=f	17	prep	17	prep
+20	d'	de	P	P		14	mod	14	mod
+21	eau	eau	NC	NC	n=s|g=f	20	prep	20	prep
+22	jusqu'	jusque	P	P		14	mod	14	mod
+23	à	à	P	P		22	prep	22	prep
+24	la	la	DET	DET	n=s|g=f	25	det	25	det
+25	surface	surface	NC	NC	n=s|g=f	23	prep	23	prep
+26	,	,	PONCT	PONCT		25	ponct	25	ponct
+27	empêche	empêcher	V	V	n=s|t=P,S|p=1,3	14	mod	14	mod
+28	cette	cette	DET	DET	n=s|g=f	29	det	29	det
+29	eau	eau	NC	NC	n=s|g=f	27	obj	27	obj
+30	d'	de	P	P		27	mod	27	mod
+31	entrer	entrer	VINF	VINF	t=W	30	prep	30	prep
+32	en	en	P	P		31	mod	31	mod
+33	ébullition	ébullition	NC	NC	n=s|g=f	32	prep	32	prep
+34	quand	quand	CS	CS		27	mod	27	mod
+35	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	36	det	36	det
+36	température	température	NC	NC	n=s|g=f	37	suj	37	suj
+37	dépasse	dépasser	V	V	n=s|t=P,S|p=1,3	34	sub	34	sub
+38	100	100	ADJ	ADJ		39	mod	39	mod
+39	°C	_	NPP	NPP		37	obj	37	obj
+40	;	;	PONCT	PONCT		39	ponct	39	ponct
+41	elle	elle	CLS	CLS	n=s|g=f|p=3	42	suj	42	suj
+42	peut	pouvoir	V	V	n=s|t=P|p=3	34	root	34	root
+43	ainsi	ainsi	ADV	ADV		42	mod	42	mod
+44	atteindre	atteindre	VINF	VINF	t=W	42	obj	42	obj
+45	des	des	DET	DET	n=p	46	det	46	det
+46	températures	température	NC	NC	n=p|g=f	44	obj	44	obj
+47	plus	plus	ADV	ADV		48	mod	48	mod
+48	élevées	élever	ADJ	ADJ	n=p|g=f|t=K	46	mod	46	mod
+49	,	,	PONCT	PONCT		48	ponct	48	ponct
+50	de	de	P	P		44	mod	44	mod
+51	l'	le	DET	DET	n=s	52	det	52	det
+52	ordre	ordre	NC	NC	n=s|g=m	50	prep	50	prep
+53	de	de	P	P		44	mod	44	mod
+54	200	200	NC	NC		53	prep	53	prep
+55	°C1	_	NPP	NPP		54	mod	54	mod
+56	.	.	PONCT	PONCT		55	ponct	55	ponct
+
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	eau	eau	NC	NC	n=s|g=f	3	suj	3	suj
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	alors	alors	ADV	ADV		3	mod	3	mod
+5	en	en	P	P		3	mod	3	mod
+6	état	état	NC	NC	n=s|g=m	5	prep	5	prep
+7	très	très	ADV	ADV		8	mod	8	mod
+8	instable	instable	ADJ	ADJ	n=s	6	mod	6	mod
+9	(	(	PONCT	PONCT		8	ponct	8	ponct
+10	on	on	CLS	CLS	n=s|p=3	11	suj	11	suj
+11	parle	parler	V	V	n=s|t=P,S|p=1,3	3	mod	3	mod
+12	de	de	P	P		11	mod	11	mod
+13	surpression	surpression	NC	NC	n=s|g=f	12	prep	12	prep
+14	d'	de	P	P		11	mod	11	mod
+15	ébullition	ébullition	NC	NC	n=s|g=f	14	prep	14	prep
+16	)	)	PONCT	PONCT		15	ponct	15	ponct
+17	,	,	PONCT	PONCT		15	ponct	15	ponct
+18	et	et	CC	CC		11	coord	11	coord
+19	il	il	CLS	CLS	n=s|g=m|p=3	20	suj	20	suj
+20	suffit	suffire	V	V	n=s|t=J,P|p=3	18	dep_coord	18	dep_coord
+21	de	de	P	P		20	mod	20	mod
+22	peu	peu	ADV	ADV		0	_	0	_
+23	de	de	P	P		0	_	0	_
+24	chose	chose	NC	NC	n=s|g=f	23	prep	23	prep
+25	,	,	PONCT	PONCT		24	ponct	24	ponct
+26	une	une	DET	DET	n=s|g=f	27	det	27	det
+27	modification	modification	NC	NC	n=s|g=f	0	_	0	_
+28	de	de	P	P		27	dep	27	dep
+29	composition	composition	NC	NC	n=s|g=f	28	prep	28	prep
+30	chimique	chimique	ADJ	ADJ	n=s	29	mod	29	mod
+31	,	,	PONCT	PONCT		30	ponct	30	ponct
+32	une	une	DET	DET	n=s|g=f	33	det	33	det
+33	vibration	vibration	NC	NC	n=s|g=f	27	mod	27	mod
+34	qui	qui	PROREL	PROREL	n=s	35	suj	35	suj
+35	crée	créer	V	V	n=s|t=P,S|p=1,3	33	mod_rel	33	mod_rel
+36	une	une	DET	DET	n=s|g=f	38	det	38	det
+37	légère	léger	ADJ	ADJ	n=s|g=f	38	mod	38	mod
+38	décompression	décompression	NC	NC	n=s|g=f	35	obj	35	obj
+39	,	,	PONCT	PONCT		38	ponct	38	ponct
+40	un	un	DET	DET	n=s|g=m	41	det	41	det
+41	mouvement	mouvement	NC	NC	n=s|g=m	35	obj	35	obj
+42	de	de	P	P		41	dep	41	dep
+43	convection	_	NC	NC		42	prep	42	prep
+44	un	un	DET	DET	n=s|g=m	47	det	47	det
+45	peu	peu	ADV	ADV		46	mod	46	mod
+46	plus	plus	ADV	ADV		47	mod	47	mod
+47	rapide	rapide	ADJ	ADJ	n=s	41	mod	41	mod
+48	,	,	PONCT	PONCT		47	ponct	47	ponct
+49	pour	pour	P	P		35	mod	35	mod
+50	qu'	que	CS	CS		49	prep	49	prep
+51	une	une	DET	DET	n=s|g=f	52	det	52	det
+52	fraction	fraction	NC	NC	n=s|g=f	0	_	0	_
+53	de	de	P	P		52	dep	52	dep
+54	cette	cette	DET	DET	n=s|g=f	55	det	55	det
+55	eau	eau	NC	NC	n=s|g=f	53	prep	53	prep
+56	,	,	PONCT	PONCT		55	ponct	55	ponct
+57	pas	pas	ADV	ADV		58	mod	58	mod
+58	plus	plus	ADV	ADV		59	mod	59	mod
+59	de	de	P	P		52	dep	52	dep
+60	quelques	quelques	DET	DET	n=p	61	det	61	det
+61	centimètres-cube	_	NPP	NPP		59	prep	59	prep
+62	,	,	PONCT	PONCT		61	ponct	61	ponct
+63	entre	entre	P	P		0	_	0	_
+64	en	en	P	P		63	dep	63	dep
+65	ébullition	ébullition	NC	NC	n=s|g=f	64	prep	64	prep
+66	brutale2	_	ADJ	ADJ		65	mod	65	mod
+67	,	,	PONCT	PONCT		66	ponct	66	ponct
+68	ce	ce	PRO	PRO	n=s	0	_	0	_
+69	qui	qui	PROREL	PROREL	n=s	0	_	0	_
+70	en	en	CLO	CLO		0	_	0	_
+71	général	général	ADJ	ADJ	n=s|g=m	0	_	0	_
+72	entraîne	entraîner	V	V	n=s|t=P,S|p=1,3	71	ponct	71	ponct
+73	un	un	DET	DET	n=s|g=m	74	det	74	det
+74	volume	volume	NC	NC	n=s|g=m	72	obj	72	obj
+75	plus	plus	ADV	ADV		76	mod	76	mod
+76	important	important	ADJ	ADJ	n=s|g=m	74	mod	74	mod
+77	,	,	PONCT	PONCT		76	ponct	76	ponct
+78	de	de	P	P		74	dep	74	dep
+79	l'	le	DET	DET	n=s	80	det	80	det
+80	ordre	ordre	NC	NC	n=s|g=m	78	prep	78	prep
+81	de	de	P	P		80	dep	80	dep
+82	1	1	NC	NC		81	prep	81	prep
+83	à	à	P	P		74	dep	74	dep
+84	quelques	quelques	DET	DET	n=p	85	det	85	det
+85	litres	litre	NC	NC	n=p	83	prep	83	prep
+86	.	.	PONCT	PONCT		85	ponct	85	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	vapeur	vapeur	NC	NC	n=s	5	suj	5	suj
+3	d'	de	P	P		2	dep	2	dep
+4	eau	eau	NC	NC	n=s|g=f	3	prep	3	prep
+5	remonte	remonter	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+6	alors	alors	ADV	ADV		5	mod	5	mod
+7	violemment	_	ADV	ADV		5	mod	5	mod
+8	le	le	DET	DET	n=s|g=m	9	det	9	det
+9	conduit	conduit	NC	NC	n=s|g=m	5	obj	5	obj
+10	d'	de	P	P		9	dep	9	dep
+11	alimentation	alimentation	NC	NC	n=s|g=f	10	prep	10	prep
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	en	en	P	P		5	mod	5	mod
+14	repoussant	repousser	VPR	VPR	t=G	13	prep	13	prep
+15	la	la	DET	DET	n=s|g=f	16	det	16	det
+16	colonne	colonne	NC	NC	n=s|g=f	14	obj	14	obj
+17	d'	de	P	P		16	dep	16	dep
+18	eau	eau	NC	NC	n=s|g=f	17	prep	17	prep
+19	vers	vers	P	P		14	mod	14	mod
+20	la	la	DET	DET	n=s|g=f	21	det	21	det
+21	surface	surface	NC	NC	n=s|g=f	19	prep	19	prep
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+23	son	son	DET	DET	n=s|g=m|p=3|poss=s	24	det	24	det
+24	volume	volume	NC	NC	n=s|g=m	14	mod	14	mod
+25	augmentant	augmenter	VPR	VPR	t=G	24	mod	24	mod
+26	au	à	P+D	P+D	n=s|g=m	25	mod	25	mod
+27	fur	fur	NC	NC	n=s|g=m	26	prep	26	prep
+28	et	et	CC	CC		26	coord	26	coord
+29	à	à	P	P		28	dep_coord	28	dep_coord
+30	mesure	mesure	NC	NC	n=s|g=f	29	prep	29	prep
+31	par	par	P	P		25	mod	25	mod
+32	décompression	décompression	NC	NC	n=s|g=f	31	prep	31	prep
+33	(	(	PONCT	PONCT		32	ponct	32	ponct
+34	la	la	DET	DET	n=s|g=f	35	det	35	det
+35	vaporisation	vaporisation	NC	NC	n=s|g=f	25	obj	25	obj
+36	de	de	P	P		35	dep	35	dep
+37	20	20	NC	NC		36	prep	36	prep
+38	cm3	_	NC	NC		37	mod	37	mod
+39	d'	de	P	P		35	dep	35	dep
+40	eau	eau	NC	NC	n=s|g=f	39	prep	39	prep
+41	liquide	liquide	ADJ	ADJ	n=s	40	mod	40	mod
+42	donne	donner	V	V	n=s|t=P,S|p=1,3	35	mod_rel	35	mod_rel
+43	en	en	P	P		42	mod	42	mod
+44	surface	surface	NC	NC	n=s|g=f	43	prep	43	prep
+45	environ	environ	ADV	ADV		46	mod	46	mod
+46	25	25	ADJ	ADJ		44	mod	44	mod
+47	l	_	NC	NC		44	mod	44	mod
+48	de	de	P	P		42	mod	42	mod
+49	vapeur	vapeur	NC	NC	n=s	48	prep	48	prep
+50	d'	de	P	P		42	mod	42	mod
+51	eau	eau	NC	NC	n=s|g=f	50	prep	50	prep
+52	)	)	PONCT	PONCT		51	ponct	51	ponct
+53	;	;	PONCT	PONCT		51	ponct	51	ponct
+54	puis	puis	CC	CC		35	coord	35	coord
+55	la	la	DET	DET	n=s|g=f	56	det	56	det
+56	bulle	bulle	NC	NC	n=s	54	dep_coord	54	dep_coord
+57	de	de	P	P		56	dep	56	dep
+58	vapeur	vapeur	NC	NC	n=s	57	prep	57	prep
+59	arrivant	arriver	VPR	VPR	t=G	56	mod	56	mod
+60	à	à	P	P		59	mod	59	mod
+61	la	la	DET	DET	n=s|g=f	62	det	62	det
+62	surface	surface	NC	NC	n=s|g=f	60	prep	60	prep
+63	et	et	CC	CC		62	coord	62	coord
+64	éclatant	éclatant	ADJ	ADJ	n=s|g=m	63	dep_coord	63	dep_coord
+65	,	,	PONCT	PONCT		64	ponct	64	ponct
+66	provoque	provoquer	V	V	n=s|t=P,S|p=1,3	5	mod	5	mod
+67	une	une	DET	DET	n=s|g=f	68	det	68	det
+68	projection	projection	NC	NC	n=s|g=f	66	suj	66	suj
+69	hors	hors	P	P		66	mod	66	mod
+70	du	de	P+D	P+D	n=s|g=m	69	dep	69	dep
+71	sol	_	NC	NC		70	prep	70	prep
+72	de	de	P	P		71	dep	71	dep
+73	vapeur	vapeur	NC	NC	n=s	72	prep	72	prep
+74	et	et	CC	CC		69	coord	69	coord
+75	d'	de	P	P		74	dep_coord	74	dep_coord
+76	eau	eau	NC	NC	n=s|g=f	75	prep	75	prep
+77	liquide	liquide	ADJ	ADJ	n=s	76	mod	76	mod
+78	entraînée	entraîner	VPP	VPP	n=s|g=f|t=K	76	mod	76	mod
+79	:	:	PONCT	PONCT		78	ponct	78	ponct
+80	c'	ce	CLS	CLS		81	suj	81	suj
+81	est	être	V	V	n=s|t=P|p=3	5	mod	5	mod
+82	le	le	DET	DET	n=s|g=m	83	det	83	det
+83	geyser	geyser	NC	NC	n=s|g=m	81	obj	81	obj
+84	proprement	_	ADV	ADV		85	mod	85	mod
+85	dit	dire	VPP	VPP	n=s|g=m|t=K	83	mod	83	mod
+86	.	.	PONCT	PONCT		85	ponct	85	ponct
+
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	eau	eau	NC	NC	n=s|g=f	4	suj	4	suj
+3	ne	ne	ADV	ADV		4	mod	4	mod
+4	jaillit	jaillir	V	V	n=s|t=J,P|p=3	0	root	0	root
+5	pas	pas	ADV	ADV		4	mod	4	mod
+6	de	de	P	P		4	mod	4	mod
+7	manière	manière	NC	NC	n=s|g=f	6	prep	6	prep
+8	continue	continuer	V	V	n=s|t=P,S|p=1,3	4	mod	4	mod
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	car	car	CS	CS		4	mod	4	mod
+11	une	une	DET	DET	n=s|g=f	12	det	12	det
+12	fois	fois	NC	NC	g=f	0	_	0	_
+13	que	que	CS	CS		12	dep	12	dep
+14	l'	le	DET	DET	n=s	15	det	15	det
+15	eau	eau	NC	NC	n=s|g=f	17	suj	17	suj
+16	a	avoir	V	V	n=s|t=P|p=3	17	aux_tps	17	aux_tps
+17	jailli	jaillir	VPP	VPP	n=s|g=m|t=K	13	sub	13	sub
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	la	la	DET	DET	n=s|g=f	20	det	20	det
+20	surpression	surpression	NC	NC	n=s|g=f	17	obj	17	obj
+21	d'	de	P	P		20	dep	20	dep
+22	ébullition	ébullition	NC	NC	n=s|g=f	21	prep	21	prep
+23	retombe	retomber	V	V	n=s|t=P,S|p=1,3	17	mod	17	mod
+24	;	;	PONCT	PONCT		23	ponct	23	ponct
+25	il	il	CLS	CLS	n=s|g=m|p=3	26	suj	26	suj
+26	faut	falloir	V	V	n=s|t=P|p=3	13	root	13	root
+27	donc	donc	ADV	ADV		26	mod	26	mod
+28	attendre	attendre	VINF	VINF	t=W	26	obj	26	obj
+29	que	que	CS	CS		28	obj	28	obj
+30	cette	cette	DET	DET	n=s|g=f	31	det	31	det
+31	surpression	surpression	NC	NC	n=s|g=f	32	suj	32	suj
+32	remonte	remonter	V	V	n=s|t=P,S|p=1,3	29	sub	29	sub
+33	,	,	PONCT	PONCT		32	ponct	32	ponct
+34	atteigne	atteindre	VS	VS	n=s|t=S|p=1,3	32	mod	32	mod
+35	le	le	DET	DET	n=s|g=m	36	det	36	det
+36	seuil	seuil	NC	NC	n=s|g=m	34	obj	34	obj
+37	critique	critique	ADJ	ADJ	n=s	36	mod	36	mod
+38	,	,	PONCT	PONCT		37	ponct	37	ponct
+39	et	et	CC	CC		36	coord	36	coord
+40	enfin	enfin	ADV	ADV		39	mod	39	mod
+41	que	que	CS	CS		39	dep_coord	39	dep_coord
+42	l'	le	DET	DET	n=s	43	det	43	det
+43	ébullition	ébullition	NC	NC	n=s|g=f	45	suj	45	suj
+44	se	se	CLR	CLR	n=p,s|p=3	45	aff	45	aff
+45	déclenche	déclencher	V	V	n=s|t=P,S|p=1,3	41	sub	41	sub
+46	brutalement	_	ADV	ADV		45	mod	45	mod
+47	pour	pour	P	P		45	mod	45	mod
+48	que	que	CS	CS		47	prep	47	prep
+49	l'	le	DET	DET	n=s	50	det	50	det
+50	eau	eau	NC	NC	n=s|g=f	0	_	0	_
+51	jaillisse	_	ADJ	ADJ		50	mod	50	mod
+52	à	à	P	P		50	dep	50	dep
+53	nouveau	nouveau	ADJ	ADJ	n=s|g=m	52	prep	52	prep
+54	.	.	PONCT	PONCT		53	ponct	53	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	geysers	geyser	NC	NC	n=p|g=m	5	suj	5	suj
+3	ne	ne	ADV	ADV		5	mod	5	mod
+4	se	se	CLR	CLR	n=p,s|p=3	5	aff	5	aff
+5	situent	situer	V	V	n=p|t=P,S|p=3	0	root	0	root
+6	pas	pas	ADV	ADV		5	mod	5	mod
+7	forcément	_	ADV	ADV		5	mod	5	mod
+8	dans	dans	P	P		5	mod	5	mod
+9	les	les	DET	DET	n=p	10	det	10	det
+10	régions	région	NC	NC	n=p|g=f	8	prep	8	prep
+11	volcaniques	volcanique	ADJ	ADJ	n=p	10	mod	10	mod
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	car	car	CS	CS		5	mod	5	mod
+14	il	il	CLS	CLS	n=s|g=m|p=3	15	suj	15	suj
+15	suffit	suffire	V	V	n=s|t=J,P|p=3	13	sub	13	sub
+16	que	que	CS	CS		15	obj	15	obj
+17	l'	le	DET	DET	n=s	18	det	18	det
+18	eau	eau	NC	NC	n=s|g=f	20	suj	20	suj
+19	s'	se	CLR	CLR	n=p,s|p=3	20	aff	20	aff
+20	infiltre	infiltrer	V	V	n=s|t=P,S|p=1,3	16	sub	16	sub
+21	suffisamment	_	ADV	ADV		20	mod	20	mod
+22	profond	profond	ADJ	ADJ	n=s|g=m	20	ats	20	ats
+23	pour	pour	P	P		20	mod	20	mod
+24	qu'	que	PROREL	PROREL		23	prep	23	prep
+25	elle	elle	CLS	CLS	n=s|g=f|p=3	26	suj	26	suj
+26	rencontre	rencontrer	V	V	n=s|t=P,S|p=1,3	23	mod_rel	23	mod_rel
+27	la	la	DET	DET	n=s|g=f	28	det	28	det
+28	chaleur	chaleur	NC	NC	n=s|g=f	26	obj	26	obj
+29	naturelle	naturel	ADJ	ADJ	n=s|g=f	28	mod	28	mod
+30	de	de	P	P		28	dep	28	dep
+31	la	la	DET	DET	n=s|g=f	32	det	32	det
+32	Terre	_	NPP	NPP		30	prep	30	prep
+33	(	(	PONCT	PONCT		32	ponct	32	ponct
+34	géothermie	géothermie	NC	NC	n=s|g=f	28	mod	28	mod
+35	)	)	PONCT	PONCT		34	ponct	34	ponct
+36	:	:	PONCT	PONCT		34	ponct	34	ponct
+37	l'	le	DET	DET	n=s	38	det	38	det
+38	augmentation	augmentation	NC	NC	n=s|g=f	26	mod	26	mod
+39	de	de	P	P		38	dep	38	dep
+40	cette	cette	DET	DET	n=s|g=f	41	det	41	det
+41	chaleur	chaleur	NC	NC	n=s|g=f	39	prep	39	prep
+42	en	en	P	P		41	dep	41	dep
+43	fonction	fonction	NC	NC	n=s|g=f	42	prep	42	prep
+44	de	de	P	P		38	dep	38	dep
+45	la	la	DET	DET	n=s|g=f	46	det	46	det
+46	profondeur	profondeur	NC	NC	n=s|g=f	44	prep	44	prep
+47	s'	se	CLR	CLR	n=p,s|p=3	48	aff	48	aff
+48	appelle	appeler	V	V	n=s|t=P,S|p=1,3	20	mod	20	mod
+49	le	le	DET	DET	n=s|g=m	50	det	50	det
+50	gradient	gradient	NC	NC	n=s|g=m	48	suj	48	suj
+51	géothermique	géothermique	ADJ	ADJ	n=s	50	mod	50	mod
+52	.	.	PONCT	PONCT		51	ponct	51	ponct
+
+1	Un	un	DET	DET	n=s|g=m	2	det	2	det
+2	geyser	geyser	NC	NC	n=s|g=m	4	suj	4	suj
+3	ne	ne	ADV	ADV		4	mod	4	mod
+4	peut	pouvoir	V	V	n=s|t=P|p=3	0	root	0	root
+5	en	en	P	P		4	mod	4	mod
+6	revanche	revanche	NC	NC	n=s|g=f	5	prep	5	prep
+7	exister	exister	VINF	VINF	t=W	4	obj	4	obj
+8	que	que	CS	CS		4	mod	4	mod
+9	si	si	CS	CS		4	mod	4	mod
+10	la	la	DET	DET	n=s|g=f	11	det	11	det
+11	structure	structure	NC	NC	n=s|g=f	0	_	0	_
+12	géologique	géologique	ADJ	ADJ	n=s	11	mod	11	mod
+13	s'	se	CLR	CLR	n=p,s|p=3	0	_	0	_
+14	y	y	CLO	CLO		0	_	0	_
+15	prête	prêt	ADJ	ADJ	n=s|g=f	18	mod	18	mod
+16	:	:	PONCT	PONCT		15	ponct	15	ponct
+17	il	il	CLS	CLS	n=s|g=m|p=3	18	suj	18	suj
+18	faut	falloir	V	V	n=s|t=P|p=3	0	_	0	_
+19	que	que	CS	CS		18	obj	18	obj
+20	le	le	DET	DET	n=s|g=m	21	det	21	det
+21	conduit	conduit	NC	NC	n=s|g=m	22	suj	22	suj
+22	soit	être	VS	VS	n=s|t=S|p=3	19	sub	19	sub
+23	étroit	étroit	ADJ	ADJ	n=s|g=m	22	ats	22	ats
+24	(	(	PONCT	PONCT		23	ponct	23	ponct
+25	s'	se	CLR	CLR	n=p,s|p=3	0	_	0	_
+26	il	il	CLS	CLS	n=s|g=m|p=3	27	suj	27	suj
+27	est	être	V	V	n=s|t=P|p=3	0	_	0	_
+28	trop	trop	ADV	ADV		29	mod	29	mod
+29	large	large	ADJ	ADJ	n=s	27	ats	27	ats
+30	,	,	PONCT	PONCT		29	ponct	29	ponct
+31	la	la	DET	DET	n=s|g=f	32	det	32	det
+32	convection	_	NC	NC		27	mod	27	mod
+33	,	,	PONCT	PONCT		32	ponct	32	ponct
+34	brassage	brassage	NC	NC	n=s|g=m	32	mod	32	mod
+35	naturel	naturel	ADJ	ADJ	n=s|g=m	34	mod	34	mod
+36	causé	causer	VPP	VPP	n=s|g=m|t=K	34	mod	34	mod
+37	par	par	P	P		36	mod	36	mod
+38	la	la	DET	DET	n=s|g=f	40	det	40	det
+39	moindre	moindre	ADJ	ADJ	n=s	40	mod	40	mod
+40	densité	densité	NC	NC	n=s|g=f	37	prep	37	prep
+41	de	de	P	P		36	mod	36	mod
+42	l'	le	DET	DET	n=s	43	det	43	det
+43	eau	eau	NC	NC	n=s|g=f	41	prep	41	prep
+44	chaude	chaud	ADJ	ADJ	n=s|g=f	43	mod	43	mod
+45	par	par	P	P		36	mod	36	mod
+46	rapport	rapport	NC	NC	n=s|g=m	45	prep	45	prep
+47	à	à	P	P		36	mod	36	mod
+48	l'	le	DET	DET	n=s	49	det	49	det
+49	eau	eau	NC	NC	n=s|g=f	47	prep	47	prep
+50	froide	froid	ADJ	ADJ	n=s|g=f	49	mod	49	mod
+51	,	,	PONCT	PONCT		50	ponct	50	ponct
+52	empêche	empêcher	V	V	n=s|t=P,S|p=1,3	27	mod	27	mod
+53	d'	de	P	P		52	mod	52	mod
+54	atteindre	atteindre	VINF	VINF	t=W	53	prep	53	prep
+55	une	une	DET	DET	n=s|g=f	56	det	56	det
+56	surpression	surpression	NC	NC	n=s|g=f	54	obj	54	obj
+57	d'	de	P	P		56	dep	56	dep
+58	ébullition	ébullition	NC	NC	n=s|g=f	57	prep	57	prep
+59	critique	critique	ADJ	ADJ	n=s	58	mod	58	mod
+60	)	)	PONCT	PONCT		59	ponct	59	ponct
+61	et	et	CC	CC		52	coord	52	coord
+62	que	que	CS	CS		61	dep_coord	61	dep_coord
+63	la	la	DET	DET	n=s|g=f	64	det	64	det
+64	roche	roche	NC	NC	n=s|g=f	75	suj	75	suj
+65	souterraine	souterrain	ADJ	ADJ	n=s|g=f	64	mod	64	mod
+66	soit	soit	CC	CC		65	coord	65	coord
+67	compacte	compact	ADJ	ADJ	n=s|g=f	66	dep_coord	66	dep_coord
+68	:	:	PONCT	PONCT		67	ponct	67	ponct
+69	une	une	DET	DET	n=s|g=f	70	det	70	det
+70	roche	roche	NC	NC	n=s|g=f	64	mod	64	mod
+71	poreuse	poreux	ADJ	ADJ	n=s|g=f	70	mod	70	mod
+72	ou	ou	CC	CC		71	coord	71	coord
+73	friable	friable	ADJ	ADJ	n=s	72	dep_coord	72	dep_coord
+74	ne	ne	ADV	ADV		75	mod	75	mod
+75	peut	pouvoir	V	V	n=s|t=P|p=3	62	sub	62	sub
+76	pas	pas	ADV	ADV		75	mod	75	mod
+77	occasionner	occasionner	VINF	VINF	t=W	75	obj	75	obj
+78	de	de	P	P		77	mod	77	mod
+79	geyser	geyser	NC	NC	n=s|g=m	78	prep	78	prep
+80	.	.	PONCT	PONCT		79	ponct	79	ponct
+
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	orifice	orifice	NC	NC	n=s|g=m	7	suj	7	suj
+3	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+4	geyser	geyser	NC	NC	n=s|g=m	3	prep	3	prep
+5	est	être	V	V	n=s|t=P|p=3	7	aux_tps	7	aux_tps
+6	généralement	_	ADV	ADV		7	mod	7	mod
+7	relié	relier	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+8	à	à	P	P		7	mod	7	mod
+9	un	un	DET	DET	n=s|g=m	11	det	11	det
+10	grand	grand	ADJ	ADJ	n=s|g=m	11	mod	11	mod
+11	réservoir	réservoir	NC	NC	n=s|g=m	8	prep	8	prep
+12	d'	de	P	P		7	mod	7	mod
+13	eau	eau	NC	NC	n=s|g=f	12	prep	12	prep
+14	par	par	P	P		7	mod	7	mod
+15	des	des	DET	DET	n=p	16	det	16	det
+16	conduits	conduit	NC	NC	n=p|g=m	14	prep	14	prep
+17	fins	fin	ADJ	ADJ	n=p|g=m	16	mod	16	mod
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	Un	un	DET	DET	n=s|g=m	2	det	2	det
+2	geyser	geyser	NC	NC	n=s|g=m	5	suj	5	suj
+3	est	être	V	V	n=s|t=P|p=3	5	aux_tps	5	aux_tps
+4	souvent	souvent	ADV	ADV		5	mod	5	mod
+5	accompagné	accompagner	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+6	de	de	P	P		5	mod	5	mod
+7	différents	différent	DET	DET	n=p|g=m	8	det	8	det
+8	phénomènes	phénomène	NC	NC	n=p|g=m	6	prep	6	prep
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	comme	comme	P	P		5	mod	5	mod
+11	des	des	DET	DET	n=p	12	det	12	det
+12	fumerolles	fumerolle	NC	NC	n=p|g=f	10	prep	10	prep
+13	(	(	PONCT	PONCT		12	ponct	12	ponct
+14	évacuation	évacuation	NC	NC	n=s|g=f	12	mod	12	mod
+15	de	de	P	P		14	dep	14	dep
+16	vapeur	vapeur	NC	NC	n=s	15	prep	15	prep
+17	d'	de	P	P		16	dep	16	dep
+18	eau	eau	NC	NC	n=s|g=f	17	prep	17	prep
+19	)	)	PONCT	PONCT		18	ponct	18	ponct
+20	,	,	PONCT	PONCT		18	ponct	18	ponct
+21	des	des	DET	DET	n=p	22	det	22	det
+22	sources	source	NC	NC	n=p|g=f	5	obj	5	obj
+23	chaudes	chaud	ADJ	ADJ	n=p|g=f	22	mod	22	mod
+24	(	(	PONCT	PONCT		23	ponct	23	ponct
+25	comme	comme	P	P		5	mod	5	mod
+26	des	des	DET	DET	n=p	27	det	27	det
+27	geysers	geyser	NC	NC	n=p|g=m	25	prep	25	prep
+28	,	,	PONCT	PONCT		27	ponct	27	ponct
+29	mais	mais	CC	CC		25	coord	25	coord
+30	sans	sans	P	P		29	dep_coord	29	dep_coord
+31	jaillissement	jaillissement	NC	NC	n=s|g=m	30	prep	30	prep
+32	)	)	PONCT	PONCT		31	ponct	31	ponct
+33	,	,	PONCT	PONCT		31	ponct	31	ponct
+34	des	des	DET	DET	n=p	35	det	35	det
+35	mares	mare	NC	NC	n=p|g=f	5	obj	5	obj
+36	de	de	P	P		35	dep	35	dep
+37	boue	boue	NC	NC	n=s|g=f	36	prep	36	prep
+38	(	(	PONCT	PONCT		37	ponct	37	ponct
+39	sources	source	NC	NC	n=p|g=f	35	mod	35	mod
+40	d'	de	P	P		39	dep	39	dep
+41	eau	eau	NC	NC	n=s|g=f	40	prep	40	prep
+42	chaude	chaud	ADJ	ADJ	n=s|g=f	41	mod	41	mod
+43	boueuses	boueux	ADJ	ADJ	n=p|g=f	39	mod	39	mod
+44	)	)	PONCT	PONCT		43	ponct	43	ponct
+45	ou	ou	CC	CC		5	coord	5	coord
+46	des	de	P+D	P+D	n=p	45	dep_coord	45	dep_coord
+47	mofettes	mofette	NC	NC	n=p|g=f	46	prep	46	prep
+48	(	(	PONCT	PONCT		47	ponct	47	ponct
+49	trous	trou	NC	NC	n=p|g=m	47	mod	47	mod
+50	par	par	P	P		5	mod	5	mod
+51	lesquels	lequel	PROREL	PROREL	n=p|g=m	50	prep	50	prep
+52	s'	se	CLR	CLR	n=p,s|p=3	53	aff	53	aff
+53	évacuent	évacuer	V	V	n=p|t=P,S|p=3	5	mod	5	mod
+54	des	des	DET	DET	n=p	55	det	55	det
+55	gaz	gaz	NC	NC	g=m	53	suj	53	suj
+56	)	)	PONCT	PONCT		55	ponct	55	ponct
+57	.	.	PONCT	PONCT		55	ponct	55	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	record	record	NC	NC	n=s|g=m	11	suj	11	suj
+3	de	de	P	P		2	dep	2	dep
+4	hauteur	hauteur	NC	NC	n=s|g=f	3	prep	3	prep
+5	des	de	P+D	P+D	n=p	2	dep	2	dep
+6	geysers	geyser	NC	NC	n=p|g=m	5	prep	5	prep
+7	dans	dans	P	P		2	dep	2	dep
+8	le	le	DET	DET	n=s|g=m	9	det	9	det
+9	monde	monde	NC	NC	n=s|g=m	7	prep	7	prep
+10	se	se	CLR	CLR	n=p,s|p=3	11	aff	11	aff
+11	situe	situer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+12	actuellement	_	ADV	ADV		11	mod	11	mod
+13	au	à	P+D	P+D	n=s|g=m	11	mod	11	mod
+14	parc	parc	NC	NC	n=s|g=m	13	prep	13	prep
+15	de	de	P	P		11	mod	11	mod
+16	Yellowstone	_	NPP	NPP		15	prep	15	prep
+17	:	:	PONCT	PONCT		16	ponct	16	ponct
+18	le	le	DET	DET	n=s|g=m	19	det	19	det
+19	Steamboat	_	NPP	NPP		11	mod	11	mod
+20	(	(	PONCT	PONCT		19	ponct	19	ponct
+21	littéralement	_	ADV	ADV		23	mod	23	mod
+22	«_	"	PONCT	PONCT		21	ponct	21	ponct
+23	bateau	bateau	NC	NC	n=s|g=m	11	mod	11	mod
+24	à	à	P	P		23	dep	23	dep
+25	vapeur	vapeur	NC	NC	n=s	24	prep	24	prep
+26	_»	"	PONCT	PONCT		25	ponct	25	ponct
+27	)	)	PONCT	PONCT		25	ponct	25	ponct
+28	atteint	atteindre	V	V	n=s|t=P|p=3	11	mod	11	mod
+29	110	110	ADJ	ADJ		30	mod	30	mod
+30	mètres	mètre	NC	NC	n=p|g=m	28	obj	28	obj
+31	de	de	P	P		30	dep	30	dep
+32	hauteur2	_	NPP	NPP		31	prep	31	prep
+33	.	.	PONCT	PONCT		32	ponct	32	ponct
+
+1	Sur	sur	P	P		7	mod	7	mod
+2	Terre	_	NPP	NPP		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	le	le	DET	DET	n=s|g=m	5	det	5	det
+5	record	record	NC	NC	n=s|g=m	7	suj	7	suj
+6	est	être	V	V	n=s|t=P|p=3	7	aux_tps	7	aux_tps
+7	détenu	détenir	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+8	par	par	P	P		7	mod	7	mod
+9	le	le	DET	DET	n=s|g=m	10	det	10	det
+10	Waimangu	_	NPP	NPP		8	prep	8	prep
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	en	en	P	P		7	mod	7	mod
+13	Nouvelle-Zélande	Nouvelle-Zélande	NPP	NPP	n=s|g=f	12	prep	12	prep
+14	:	:	PONCT	PONCT		13	ponct	13	ponct
+15	ce	ce	DET	DET	n=s|g=m	16	det	16	det
+16	geyser	geyser	NC	NC	n=s|g=m	7	mod	7	mod
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	actif	actif	NC	NC	n=s|g=m	16	mod	16	mod
+19	de	de	P	P		18	dep	18	dep
+20	1899	1899	NC	NC		19	prep	19	prep
+21	à	à	P	P		7	mod	7	mod
+22	1904	1904	NC	NC		21	prep	21	prep
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	atteignait	atteindre	V	V	n=s|t=I|p=3	7	mod	7	mod
+25	de	de	P	P		24	mod	24	mod
+26	300	300	NC	NC		25	prep	25	prep
+27	à	à	P	P		24	mod	24	mod
+28	450	450	ADJ	ADJ		29	mod	29	mod
+29	mètres	mètre	NC	NC	n=p|g=m	27	prep	27	prep
+30	de	de	P	P		24	mod	24	mod
+31	hauteur1	_	NPP	NPP		30	prep	30	prep
+32	,	,	PONCT	PONCT		31	ponct	31	ponct
+33	2	2	ADJ	ADJ		24	mod	24	mod
+34	.	.	PONCT	PONCT		33	ponct	33	ponct
+
+1	Mais	mais	CC	CC		0	root	0	root
+2	sur	sur	P	P		11	mod	11	mod
+3	d'	de	DET	DET	n=p	5	det	5	det
+4	autres	autre	ADJ	ADJ	n=p	5	mod	5	mod
+5	corps	corps	NC	NC	g=m	2	prep	2	prep
+6	planétaires	planétaire	ADJ	ADJ	n=p	5	mod	5	mod
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	ces	ces	DET	DET	n=p	9	det	9	det
+9	données	donnée	NC	NC	n=p|g=f	11	suj	11	suj
+10	n'	ne	ADV	ADV		11	mod	11	mod
+11	ont	avoir	V	V	n=p|t=P|p=3	1	dep_coord	1	dep_coord
+12	rien	rien	PRO	PRO	n=s|g=m	11	obj	11	obj
+13	à	à	P	P		11	mod	11	mod
+14	voir	voir	VINF	VINF	t=W	13	prep	13	prep
+15	:	:	PONCT	PONCT		14	ponct	14	ponct
+16	sur	sur	P	P		14	mod	14	mod
+17	Triton	_	NPP	NPP		16	prep	16	prep
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	les	les	DET	DET	n=p	20	det	20	det
+20	geysers	geyser	NC	NC	n=p|g=m	14	obj	14	obj
+21	atteignent	atteindre	V	V	n=p|t=P,S|p=3	11	mod	11	mod
+22	8_000	8_000	ADJ	ADJ		23	mod	23	mod
+23	mètres	mètre	NC	NC	n=p|g=m	21	obj	21	obj
+24	de	de	P	P		23	dep	23	dep
+25	hauteur3	_	NPP	NPP		24	prep	24	prep
+26	.	.	PONCT	PONCT		25	ponct	25	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	geysers	geyser	NC	NC	n=p|g=m	6	suj	6	suj
+3	et	et	CC	CC		2	coord	2	coord
+4	leur	leur	DET	DET	n=s|p=3|poss=p	5	det	5	det
+5	environnement	environnement	NC	NC	n=s|g=m	3	dep_coord	3	dep_coord
+6	peuvent	pouvoir	V	V	n=p|t=P|p=3	0	root	0	root
+7	accueillir	accueillir	VINF	VINF	t=W	6	obj	6	obj
+8	la	la	DET	DET	n=s|g=f	9	det	9	det
+9	vie	vie	NC	NC	n=s|g=f	7	obj	7	obj
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	puisqu'	puisque	CS	CS		6	mod	6	mod
+12	on	on	CLS	CLS	n=s|p=3	14	suj	14	suj
+13	y	y	CLO	CLO		14	aff	14	aff
+14	trouve	trouver	V	V	n=s|t=P,S|p=1,3	11	sub	11	sub
+15	de	de	DET	DET	n=p	17	det	17	det
+16	nombreuses	nombreux	ADJ	ADJ	n=p|g=f	17	mod	17	mod
+17	espèces	espèce	NC	NC	n=p|g=f	14	obj	14	obj
+18	d'	de	P	P		17	dep	17	dep
+19	archées	archée	NC	NC	n=p|g=f	18	prep	18	prep
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+1	Ce	ce	CLS	CLS		2	suj	2	suj
+2	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+3	des	des	DET	DET	n=p	4	det	4	det
+4	micro-organismes	micro-organisme	NC	NC	n=p|g=m	2	obj	2	obj
+5	spéciaux	spécial	ADJ	ADJ	n=p|g=m	4	mod	4	mod
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	capables	capable	ADJ	ADJ	n=p	4	mod	4	mod
+8	de	de	P	P		2	mod	2	mod
+9	résister	résister	VINF	VINF	t=W	8	prep	8	prep
+10	aux	à	P+D	P+D	n=p	9	mod	9	mod
+11	très	très	ADV	ADV		12	mod	12	mod
+12	hautes	haut	ADJ	ADJ	n=p|g=f	13	mod	13	mod
+13	températures	température	NC	NC	n=p|g=f	10	prep	10	prep
+14	et	et	CC	CC		10	coord	10	coord
+15	au	à	P+D	P+D	n=s|g=m	14	dep_coord	14	dep_coord
+16	manque	manque	NC	NC	n=s	15	prep	15	prep
+17	de	de	P	P		16	dep	16	dep
+18	dioxygène	dioxygène	NC	NC	n=s|g=m	17	prep	17	prep
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	Ce	ce	CLS	CLS		2	suj	2	suj
+2	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+3	ces	ces	DET	DET	n=p	4	det	4	det
+4	archées	archée	NC	NC	n=p|g=f	2	obj	2	obj
+5	qui	qui	PROREL	PROREL	n=s	6	suj	6	suj
+6	donnent	donner	V	V	n=p|t=P,S|p=3	4	mod_rel	4	mod_rel
+7	les	les	DET	DET	n=p	8	det	8	det
+8	couleurs	couleur	NC	NC	n=p|g=f	6	obj	6	obj
+9	du	de	P+D	P+D	n=s|g=m	8	dep	8	dep
+10	parc	parc	NC	NC	n=s|g=m	9	prep	9	prep
+11	de	de	P	P		6	mod	6	mod
+12	Yellowstone	_	NPP	NPP		11	prep	11	prep
+13	par	par	P	P		6	mod	6	mod
+14	exemple	exemple	NC	NC	n=s|g=m	13	prep	13	prep
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	existence	existence	NC	NC	n=s|g=f	12	suj	12	suj
+3	de	de	P	P		2	dep	2	dep
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	vie	vie	NC	NC	n=s|g=f	3	prep	3	prep
+6	dans	dans	P	P		2	dep	2	dep
+7	ces	ces	DET	DET	n=p	8	det	8	det
+8	milieux	milieu	NC	NC	n=p|g=m	6	prep	6	prep
+9	extrêmes	extrême	ADJ	ADJ	n=p	8	mod	8	mod
+10	n'	ne	ADV	ADV		12	mod	12	mod
+11	est	être	V	V	n=s|t=P|p=3	12	aux_tps	12	aux_tps
+12	prouvée	prouver	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+13	que	que	CS	CS		12	mod	12	mod
+14	depuis	depuis	P	P		0	_	0	_
+15	les	les	DET	DET	n=p	16	det	16	det
+16	années	année	NC	NC	n=p|g=f	14	prep	14	prep
+17	1960	1960	NC	NC		16	mod	16	mod
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	Du	de	P+D	P+D	n=s|g=m	14	mod	14	mod
+2	point	point	NC	NC	n=s|g=m	1	prep	1	prep
+3	de	de	P	P		2	dep	2	dep
+4	vue	vue	NC	NC	n=s|g=f	3	prep	3	prep
+5	de	de	P	P		2	dep	2	dep
+6	la	la	DET	DET	n=s|g=f	7	det	7	det
+7	partie	partie	NC	NC	n=s|g=f	5	prep	5	prep
+8	visible	visible	ADJ	ADJ	n=s	7	mod	7	mod
+9	de	de	P	P		2	dep	2	dep
+10	l'	le	DET	DET	n=s	11	det	11	det
+11	édifice	édifice	NC	NC	n=s|g=m	9	prep	9	prep
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	Il	_	NPP	NPP		14	suj	14	suj
+14	existe	exister	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+15	deux	deux	DET	DET	s=card|n=p	16	det	16	det
+16	types	type	NC	NC	n=p|g=m	14	obj	14	obj
+17	de	de	P	P		16	dep	16	dep
+18	geysers	geyser	NC	NC	n=p|g=m	17	prep	17	prep
+19	:	:	PONCT	PONCT		18	ponct	18	ponct
+
+1	On	on	CLS	CLS	n=s|p=3	2	suj	2	suj
+2	peut	pouvoir	V	V	n=s|t=P|p=3	0	root	0	root
+3	trouver	trouver	VINF	VINF	t=W	2	obj	2	obj
+4	des	des	DET	DET	n=p	5	det	5	det
+5	geysers	geyser	NC	NC	n=p|g=m	3	obj	3	obj
+6	en	en	P	P		3	mod	3	mod
+7	Islande	Islande	NPP	NPP	n=s|g=f	6	prep	6	prep
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	au	à	P+D	P+D	n=s|g=m	3	mod	3	mod
+10	Kamtchatka	_	NPP	NPP		9	prep	9	prep
+11	(	(	PONCT	PONCT		10	ponct	10	ponct
+12	est	être	V	V	n=s|t=P|p=3	2	mod	2	mod
+13	de	de	P	P		12	mod	12	mod
+14	la	la	DET	DET	n=s|g=f	15	det	15	det
+15	Russie	Russie	NPP	NPP	n=s|g=f	13	prep	13	prep
+16	)	)	PONCT	PONCT		15	ponct	15	ponct
+17	,	,	PONCT	PONCT		15	ponct	15	ponct
+18	au	à	P+D	P+D	n=s|g=m	12	mod	12	mod
+19	Chili	Chili	NPP	NPP	n=s|g=m	18	prep	18	prep
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	en	en	P	P		12	mod	12	mod
+22	Nouvelle-Zélande	Nouvelle-Zélande	NPP	NPP	n=s|g=f	21	prep	21	prep
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	en	en	P	P		12	mod	12	mod
+25	Éthiopie	Éthiopie	NPP	NPP	n=s|g=f	24	prep	24	prep
+26	,	,	PONCT	PONCT		25	ponct	25	ponct
+27	au	à	P+D	P+D	n=s|g=m	12	mod	12	mod
+28	Pérou	Pérou	NPP	NPP	n=s|g=m	27	prep	27	prep
+29	,	,	PONCT	PONCT		28	ponct	28	ponct
+30	en	en	P	P		12	mod	12	mod
+31	Bolivie	Bolivie	NPP	NPP	n=s|g=f	30	prep	30	prep
+32	,	,	PONCT	PONCT		31	ponct	31	ponct
+33	en	en	P	P		12	mod	12	mod
+34	Argentine	Argentine	NPP	NPP	n=s|g=f	33	prep	33	prep
+35	,	,	PONCT	PONCT		34	ponct	34	ponct
+36	en	en	P	P		12	mod	12	mod
+37	Alaska	Alaska	NPP	NPP	n=s|g=m	36	prep	36	prep
+38	,	,	PONCT	PONCT		37	ponct	37	ponct
+39	au	à	P+D	P+D	n=s|g=m	12	mod	12	mod
+40	Kenya	Kenya	NPP	NPP	n=s|g=m	39	prep	39	prep
+41	,	,	PONCT	PONCT		40	ponct	40	ponct
+42	au	à	P+D	P+D	n=s|g=m	12	mod	12	mod
+43	Japon	Japon	NPP	NPP	n=s|g=m	42	prep	42	prep
+44	et	et	CC	CC		42	coord	42	coord
+45	en	en	P	P		44	dep_coord	44	dep_coord
+46	Thaïlande	Thaïlande	NPP	NPP	n=s|g=f	45	prep	45	prep
+47	,	,	PONCT	PONCT		46	ponct	46	ponct
+48	entre	entre	P	P		12	mod	12	mod
+49	autres	autres	PRO	PRO	n=p|g=f,m	48	prep	48	prep
+50	.	.	PONCT	PONCT		49	ponct	49	ponct
+
+1	Aux	à	P+D	P+D	n=p	6	mod	6	mod
+2	États-Unis	États-Unis_d'Amérique	NPP	NPP	n=p|g=m	1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	il	il	CLS	CLS	n=s|g=m|p=3	6	suj	6	suj
+5	en	en	CLO	CLO		6	obj	6	obj
+6	existe	exister	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+7	au	à	P+D	P+D	n=s|g=m	6	mod	6	mod
+8	Wyoming	Wyoming	NPP	NPP	n=s|g=m	7	prep	7	prep
+9	(	(	PONCT	PONCT		8	ponct	8	ponct
+10	parc	parc	NC	NC	n=s|g=m	8	mod	8	mod
+11	de	de	P	P		6	mod	6	mod
+12	Yellowstone	_	NPP	NPP		11	prep	11	prep
+13	)	)	PONCT	PONCT		12	ponct	12	ponct
+14	et	et	CC	CC		6	coord	6	coord
+15	en	en	P	P		14	dep_coord	14	dep_coord
+16	Utah	Utah	NPP	NPP	n=s|g=m	15	prep	15	prep
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	parc	parc	NC	NC	n=s|g=m	13	suj	13	suj
+3	de	de	P	P		2	dep	2	dep
+4	Yellowstone	_	NPP	NPP		3	prep	3	prep
+5	(	(	PONCT	PONCT		4	ponct	4	ponct
+6	dans	dans	P	P		2	dep	2	dep
+7	le	le	DET	DET	n=s|g=m	8	det	8	det
+8	Wyoming	Wyoming	NPP	NPP	n=s|g=m	6	prep	6	prep
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	aux	à	P+D	P+D	n=p	2	dep	2	dep
+11	États-Unis	États-Unis_d'Amérique	NPP	NPP	n=p|g=m	10	prep	10	prep
+12	)	)	PONCT	PONCT		11	ponct	11	ponct
+13	détient	détenir	V	V	n=s|t=P|p=3	0	root	0	root
+14	le	le	DET	DET	n=s|g=m	15	det	15	det
+15	record	record	NC	NC	n=s|g=m	13	obj	13	obj
+16	du	de	P+D	P+D	n=s|g=m	15	dep	15	dep
+17	nombre	nombre	NC	NC	n=s|g=m	16	prep	16	prep
+18	de	de	P	P		17	dep	17	dep
+19	geysers	geyser	NC	NC	n=p|g=m	18	prep	18	prep
+20	sur	sur	P	P		13	mod	13	mod
+21	une	une	DET	DET	n=s|g=f	22	det	22	det
+22	surface	surface	NC	NC	n=s|g=f	20	prep	20	prep
+23	donnée	donner	VPP	VPP	n=s|g=f|t=K	22	mod	22	mod
+24	:	:	PONCT	PONCT		23	ponct	23	ponct
+25	le	le	DET	DET	n=s|g=m	26	det	26	det
+26	parc	parc	NC	NC	n=s|g=m	13	obj	13	obj
+27	en	en	P	P		26	dep	26	dep
+28	compte	compte	NC	NC	n=s|g=m	27	prep	27	prep
+29	plus	plus	ADV	ADV		28	mod	28	mod
+30	de	de	P	P		26	dep	26	dep
+31	3_000	3_000	NPP	NPP		30	prep	30	prep
+32	(	(	PONCT	PONCT		31	ponct	31	ponct
+33	ainsi	ainsi	ADV	ADV		0	_	0	_
+34	que	que	CS	CS		33	dep	33	dep
+35	10_000	10_000	ADJ	ADJ		36	mod	36	mod
+36	sources	source	NC	NC	n=p|g=f	0	_	0	_
+37	d'	de	P	P		36	dep	36	dep
+38	eau	eau	NC	NC	n=s|g=f	37	prep	37	prep
+39	chaude	chaud	ADJ	ADJ	n=s|g=f	38	mod	38	mod
+40	)	)	PONCT	PONCT		39	ponct	39	ponct
+41	1	1	NC	NC		36	mod	36	mod
+42	.	.	PONCT	PONCT		41	ponct	41	ponct
+
+1	Le	le	DET	DET	n=s|g=m	3	det	3	det
+2	plus	plus	ADV	ADV		3	mod	3	mod
+3	haut	haut	ADJ	ADJ	n=s|g=m	0	_	0	_
+4	d'	de	P	P		3	mod	3	mod
+5	entre	entre	P	P		4	dep	4	dep
+6	eux	eux	PRO	PRO	n=p|g=m|p=3	5	prep	5	prep
+7	atteint	atteindre	V	V	n=s|t=P|p=3	0	_	0	_
+8	60	60	ADJ	ADJ		9	mod	9	mod
+9	mètres	mètre	NC	NC	n=p|g=m	7	obj	7	obj
+10	de	de	P	P		9	dep	9	dep
+11	hauteur1	_	NPP	NPP		10	prep	10	prep
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	geysers	geyser	NC	NC	n=p|g=m	4	suj	4	suj
+3	sont	être	V	V	n=p|t=P|p=3	4	aux_pass	4	aux_pass
+4	exploités	exploiter	VPP	VPP	n=p|g=m|t=K	0	root	0	root
+5	dans	dans	P	P		4	mod	4	mod
+6	les	les	DET	DET	n=p	7	det	7	det
+7	activités	activité	NC	NC	n=p|g=f	5	prep	5	prep
+8	balnéaires	balnéaire	ADJ	ADJ	n=p	7	mod	7	mod
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	pour	pour	P	P		4	mod	4	mod
+11	l'	le	DET	DET	n=s	12	det	12	det
+12	attraction	attraction	NC	NC	n=s|g=f	10	prep	10	prep
+13	touristique	touristique	ADJ	ADJ	n=s	12	mod	12	mod
+14	que	que	CS	CS		4	mod	4	mod
+15	la	la	DET	DET	n=s|g=f	16	det	16	det
+16	fascination	fascination	NC	NC	n=s|g=f	20	suj	20	suj
+17	de	de	P	P		16	dep	16	dep
+18	ce	ce	DET	DET	n=s|g=m	19	det	19	det
+19	phénomène	phénomène	NC	NC	n=s|g=m	17	prep	17	prep
+20	provoque	provoquer	V	V	n=s|t=P,S|p=1,3	14	sub	14	sub
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	ou	ou	CC	CC		4	coord	4	coord
+23	pour	pour	P	P		22	dep_coord	22	dep_coord
+24	construire	construire	VINF	VINF	t=W	23	prep	23	prep
+25	des	des	DET	DET	n=p	26	det	26	det
+26	centrales	centrale	NC	NC	n=p|g=f	24	obj	24	obj
+27	géothermiques1	_	ADJ	ADJ		26	mod	26	mod
+28	.	.	PONCT	PONCT		27	ponct	27	ponct
+
+1	En	en	P	P		8	mod	8	mod
+2	effet	effet	NC	NC	n=s|g=m	1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	l'	le	DET	DET	n=s	5	det	5	det
+5	eau	eau	NC	NC	n=s|g=f	8	suj	8	suj
+6	des	de	P+D	P+D	n=p	5	dep	5	dep
+7	geysers	geyser	NC	NC	n=p|g=m	6	prep	6	prep
+8	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+9	naturellement	_	ADV	ADV		10	mod	10	mod
+10	chaude	chaud	ADJ	ADJ	n=s|g=f	8	ats	8	ats
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	il	il	CLS	CLS	n=s|g=m|p=3	15	suj	15	suj
+13	n'	ne	ADV	ADV		15	mod	15	mod
+14	y	y	CLO	CLO		15	aff	15	aff
+15	a	avoir	V	V	n=s|t=P|p=3	8	mod	8	mod
+16	donc	donc	ADV	ADV		15	mod	15	mod
+17	pas	pas	ADV	ADV		15	mod	15	mod
+18	besoin	besoin	NC	NC	n=s|g=m	15	obj	15	obj
+19	de	de	P	P		15	mod	15	mod
+20	la	la	CLO	CLO	n=s|g=f|p=3	21	obj	21	obj
+21	chauffer	chauffer	VINF	VINF	t=W	19	prep	19	prep
+22	pour	pour	P	P		21	mod	21	mod
+23	l'	le	CLO	CLO	n=s|p=3	24	obj	24	obj
+24	utiliser	utiliser	VINF	VINF	t=W	22	prep	22	prep
+25	.	.	PONCT	PONCT		24	ponct	24	ponct
+
+1	Mais	mais	CC	CC		0	root	0	root
+2	cette	cette	DET	DET	n=s|g=f	3	det	3	det
+3	exploitation	exploitation	NC	NC	n=s|g=f	5	suj	5	suj
+4	est	être	V	V	n=s|t=P|p=3	5	aux_tps	5	aux_tps
+5	contestée	contester	VPP	VPP	n=s|g=f|t=K	1	dep_coord	1	dep_coord
+6	car	car	CS	CS		5	mod	5	mod
+7	les	les	DET	DET	n=p	8	det	8	det
+8	geysers	geyser	NC	NC	n=p|g=m	9	suj	9	suj
+9	sont	être	V	V	n=p|t=P|p=3	6	sub	6	sub
+10	fragiles	fragile	ADJ	ADJ	n=p	9	ats	9	ats
+11	et	et	CC	CC		5	coord	5	coord
+12	leur	leur	DET	DET	n=s|p=3|poss=p	13	det	13	det
+13	utilisation	utilisation	NC	NC	n=s|g=f	14	suj	14	suj
+14	peut	pouvoir	V	V	n=s|t=P|p=3	11	dep_coord	11	dep_coord
+15	les	les	DET	DET	n=p	0	_	0	_
+16	«_	"	PONCT	PONCT		15	ponct	15	ponct
+17	éteindre	éteindre	VINF	VINF	t=W	0	_	0	_
+18	_»	"	PONCT	PONCT		17	ponct	17	ponct
+19	1	1	NC	NC		17	mod	17	mod
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	paysages	paysage	NC	NC	n=p|g=m	5	suj	5	suj
+3	de	de	P	P		2	dep	2	dep
+4	geysers	geyser	NC	NC	n=p|g=m	3	prep	3	prep
+5	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+6	aussi	aussi	ADV	ADV		5	mod	5	mod
+7	utiles	utile	ADJ	ADJ	n=p	5	ats	5	ats
+8	dans	dans	P	P		5	mod	5	mod
+9	des	des	DET	DET	n=p	10	det	10	det
+10	pays	pays	NC	NC	g=m	8	prep	8	prep
+11	comme	comme	P	P		5	mod	5	mod
+12	l'	le	DET	DET	n=s	13	det	13	det
+13	Islande	Islande	NPP	NPP	n=s|g=f	11	prep	11	prep
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	où	où	PROREL	PROREL		18	mod	18	mod
+16	l'	le	DET	DET	n=s	17	det	17	det
+17	agriculture	agriculture	NC	NC	n=s|g=f	18	suj	18	suj
+18	serait	être	V	V	n=s|t=C|p=3	13	mod_rel	13	mod_rel
+19	pauvre	pauvre	ADJ	ADJ	n=s	18	ats	18	ats
+20	sans	sans	P	P		18	mod	18	mod
+21	l'	le	DET	DET	n=s	22	det	22	det
+22	activité	activité	NC	NC	n=s|g=f	20	prep	20	prep
+23	de	de	P	P		18	mod	18	mod
+24	ces	ces	DET	DET	n=p	25	det	25	det
+25	sources	source	NC	NC	n=p|g=f	23	prep	23	prep
+26	.	.	PONCT	PONCT		25	ponct	25	ponct
+
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	eau	eau	NC	NC	n=s|g=f	4	suj	4	suj
+3	chaude	chaud	ADJ	ADJ	n=s|g=f	2	mod	2	mod
+4	sert	servir	V	V	n=s|t=P|p=3	0	root	0	root
+5	notamment	_	ADV	ADV		4	mod	4	mod
+6	à	à	P	P		4	mod	4	mod
+7	chauffer	chauffer	VINF	VINF	t=W	6	prep	6	prep
+8	les	les	DET	DET	n=p	9	det	9	det
+9	serres	serre	NC	NC	n=p|g=f	7	obj	7	obj
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+1	Dans	dans	P	P		0	_	0	_
+2	les	les	DET	DET	n=p	3	det	3	det
+3	états	état	NC	NC	n=p|g=m	1	prep	1	prep
+4	américains	américain	ADJ	ADJ	n=p|g=m	3	mod	3	mod
+5	où	où	PROREL	PROREL		8	mod	8	mod
+6	il	il	CLS	CLS	n=s|g=m|p=3	8	suj	8	suj
+7	y	y	CLO	CLO		8	aff	8	aff
+8	a	avoir	V	V	n=s|t=P|p=3	3	mod_rel	3	mod_rel
+9	des	des	DET	DET	n=p	10	det	10	det
+10	geysers	geyser	NC	NC	n=p|g=m	8	obj	8	obj
+11	(	(	PONCT	PONCT		10	ponct	10	ponct
+12	voir	voir	VINF	VINF	t=W	8	obj	8	obj
+13	la	la	DET	DET	n=s|g=f	14	det	14	det
+14	carte	carte	NC	NC	n=s|g=f	12	obj	12	obj
+15	ci-contre	ci-contre	ADV	ADV		12	mod	12	mod
+16	)	)	PONCT	PONCT		15	ponct	15	ponct
+17	,	,	PONCT	PONCT		15	ponct	15	ponct
+18	l'	le	DET	DET	n=s	19	det	19	det
+19	eau	eau	NC	NC	n=s|g=f	12	obj	12	obj
+20	chaude	chaud	ADJ	ADJ	n=s|g=f	19	mod	19	mod
+21	qui	qui	PROREL	PROREL	n=s	23	suj	23	suj
+22	en	en	CLO	CLO		23	aff	23	aff
+23	est	être	V	V	n=s|t=P|p=3	19	mod_rel	19	mod_rel
+24	la	la	DET	DET	n=s|g=f	25	det	25	det
+25	cause	cause	NC	NC	n=s|g=f	23	obj	23	obj
+26	est	être	V	V	n=s|t=P|p=3	27	aux_pass	27	aux_pass
+27	utilisée	utiliser	VPP	VPP	n=s|g=f|t=K	19	mod	19	mod
+28	en	en	P	P		27	mod	27	mod
+29	géothermie	géothermie	NC	NC	n=s|g=f	28	prep	28	prep
+30	,	,	PONCT	PONCT		29	ponct	29	ponct
+31	mais	mais	CC	CC		19	coord	19	coord
+32	leur	leur	DET	DET	n=s|p=3|poss=p	33	det	33	det
+33	exploitation	exploitation	NC	NC	n=s|g=f	31	dep_coord	31	dep_coord
+34	est	être	V	V	n=s|t=P|p=3	35	aux_pass	35	aux_pass
+35	contrôlée	contrôler	VPP	VPP	n=s|g=f|t=K	19	mod_rel	19	mod_rel
+36	de	de	P	P		35	mod	35	mod
+37	manière	manière	NC	NC	n=s|g=f	36	prep	36	prep
+38	à	à	P	P		35	mod	35	mod
+39	ne	ne	ADV	ADV		40	mod	40	mod
+40	pas	pas	ADV	ADV		42	mod	42	mod
+41	les	les	CLO	CLO	n=p|p=3	42	obj	42	obj
+42	tarir	tarir	VINF	VINF	t=W	38	prep	38	prep
+43	.	.	PONCT	PONCT		42	ponct	42	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	geysers	geyser	NC	NC	n=p|g=m	5	suj	5	suj
+3	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+4	Nevada	Nevada	NPP	NPP	n=s|g=m	3	prep	3	prep
+5	ont	avoir	V	V	n=p|t=P|p=3	0	root	0	root
+6	d'	de	P	P		5	mod	5	mod
+7	ailleurs	ailleurs	ADV	ADV		8	mod	8	mod
+8	disparu	disparaître	VPP	VPP	n=s|g=m|t=K	6	prep	6	prep
+9	à	à	P	P		8	mod	8	mod
+10	cause	cause	NC	NC	n=s|g=f	9	prep	9	prep
+11	de	de	P	P		8	mod	8	mod
+12	l'	le	DET	DET	n=s	13	det	13	det
+13	exploitation	exploitation	NC	NC	n=s|g=f	11	prep	11	prep
+14	des	de	P+D	P+D	n=p	8	mod	8	mod
+15	sources	source	NC	NC	n=p|g=f	14	prep	14	prep
+16	chaudes	chaud	ADJ	ADJ	n=p|g=f	15	mod	15	mod
+17	par	par	P	P		8	mod	8	mod
+18	l'	le	DET	DET	n=s	19	det	19	det
+19	homme	homme	NC	NC	n=s|g=m	17	prep	17	prep
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	geysers	geyser	NC	NC	n=p|g=m	4	suj	4	suj
+3	ne	ne	ADV	ADV		4	mod	4	mod
+4	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+5	pas	pas	ADV	ADV		4	mod	4	mod
+6	des	des	DET	DET	n=p	7	det	7	det
+7	phénomenes	_	NC	NC		4	obj	4	obj
+8	seulement	_	ADV	ADV		9	mod	9	mod
+9	terrestres	terrestre	ADJ	ADJ	n=p	7	mod	7	mod
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+1	Néanmoins	néanmoins	ADV	ADV		5	mod	5	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	il	il	CLS	CLS	n=s|g=m|p=3	5	suj	5	suj
+4	s'	se	CLR	CLR	n=p,s|p=3	5	aff	5	aff
+5	agit	agir	V	V	n=s|t=J,P|p=3	0	root	0	root
+6	là	là	ADV	ADV		5	mod	5	mod
+7	de	de	P	P		5	mod	5	mod
+8	phénomènes	phénomène	NC	NC	n=p|g=m	7	prep	7	prep
+9	physiquement	_	ADV	ADV		10	mod	10	mod
+10	très	très	ADV	ADV		11	mod	11	mod
+11	différents	différent	ADJ	ADJ	n=p|g=m	8	mod	8	mod
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	et	et	CC	CC		5	coord	5	coord
+14	le	le	DET	DET	n=s|g=m	15	det	15	det
+15	terme	terme	NC	NC	n=s|g=m	18	suj	18	suj
+16	n'	ne	ADV	ADV		18	mod	18	mod
+17	est	être	V	V	n=s|t=P|p=3	18	aux_tps	18	aux_tps
+18	retenu	retenir	VPP	VPP	n=s|g=m|t=K	13	dep_coord	13	dep_coord
+19	que	que	CS	CS		18	mod	18	mod
+20	pour	pour	P	P		0	_	0	_
+21	le	le	DET	DET	n=s|g=m	22	det	22	det
+22	sens	sens	NC	NC	g=m	20	prep	20	prep
+23	d'	de	P	P		22	dep	22	dep
+24	un	un	DET	DET	n=s|g=m	25	det	25	det
+25	phénomène	phénomène	NC	NC	n=s|g=m	23	prep	23	prep
+26	,	,	PONCT	PONCT		25	ponct	25	ponct
+27	épisodique	épisodique	ADJ	ADJ	n=s	25	mod	25	mod
+28	mais	mais	CC	CC		27	coord	27	coord
+29	récurrent	récurrent	ADJ	ADJ	n=s|g=m	28	dep_coord	28	dep_coord
+30	,	,	PONCT	PONCT		29	ponct	29	ponct
+31	de	de	P	P		25	dep	25	dep
+32	jaillissement	jaillissement	NC	NC	n=s|g=m	31	prep	31	prep
+33	brutal	brutal	ADJ	ADJ	n=s|g=m	32	mod	32	mod
+34	dû	devoir	VPP	VPP	n=s|g=m|t=K	32	mod	32	mod
+35	à	à	P	P		34	mod	34	mod
+36	une	une	DET	DET	n=s|g=f	37	det	37	det
+37	instabilité	instabilité	NC	NC	n=s|g=f	35	prep	35	prep
+38	d'	de	P	P		37	dep	37	dep
+39	état	état	NC	NC	n=s|g=m	38	prep	38	prep
+40	d'	de	P	P		34	mod	34	mod
+41	un	un	DET	DET	n=s|g=m	42	det	42	det
+42	matériau	matériau	NC	NC	n=s|g=m	40	prep	40	prep
+43	.	.	PONCT	PONCT		42	ponct	42	ponct
+
+1	En	en	P	P		0	_	0	_
+2	l'	le	DET	DET	n=s	3	det	3	det
+3	état	état	NC	NC	n=s|g=m	1	prep	1	prep
+4	de	de	P	P		3	dep	3	dep
+5	notre	notre	DET	DET	n=s|p=1|poss=p	6	det	6	det
+6	exploration	exploration	NC	NC	n=s|g=f	4	prep	4	prep
+7	du	de	P+D	P+D	n=s|g=m	6	dep	6	dep
+8	syst´me	_	NC	NC		7	prep	7	prep
+9	solaire	solaire	ADJ	ADJ	n=s	8	mod	8	mod
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	une	une	DET	DET	n=s|g=f	12	det	12	det
+12	planète	planète	NC	NC	n=s|g=f	0	_	0	_
+13	et	et	CC	CC		12	coord	12	coord
+14	rois	roi	NC	NC	n=p|g=m	13	dep_coord	13	dep_coord
+15	satellites	satellite	NC	NC	n=p|g=m	14	mod	14	mod
+16	naturels	naturel	ADJ	ADJ	n=p|g=m	15	mod	15	mod
+17	de	de	P	P		12	dep	12	dep
+18	notre	notre	DET	DET	n=s|p=1|poss=p	19	det	19	det
+19	système	système	NC	NC	n=s|g=m	17	prep	17	prep
+20	solaire	solaire	ADJ	ADJ	n=s	19	mod	19	mod
+21	en	en	P	P		12	dep	12	dep
+22	possèdent	_	NC	NC		21	prep	21	prep
+23	:	:	PONCT	PONCT		22	ponct	22	ponct
+24	Mars	mars	NC	NC	g=m	12	mod	12	mod
+25	,	,	PONCT	PONCT		24	ponct	24	ponct
+26	Io4	_	NPP	NPP		12	mod	12	mod
+27	,	,	PONCT	PONCT		26	ponct	26	ponct
+28	Encelade5	_	NPP	NPP		12	mod	12	mod
+29	,	,	PONCT	PONCT		28	ponct	28	ponct
+30	6	6	ADJ	ADJ		12	mod	12	mod
+31	et	et	CC	CC		12	coord	12	coord
+32	Triton3	_	NPP	NPP		31	dep_coord	31	dep_coord
+33	.	.	PONCT	PONCT		32	ponct	32	ponct
+
+1	Ces	ces	DET	DET	n=p	2	det	2	det
+2	geysers	geyser	NC	NC	n=p|g=m	4	suj	4	suj
+3	extraterrestres	extraterrestre	ADJ	ADJ	n=p	2	mod	2	mod
+4	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+5	donc	donc	ADV	ADV		4	mod	4	mod
+6	très	très	ADV	ADV		7	mod	7	mod
+7	différents	différent	ADJ	ADJ	n=p|g=m	4	ats	4	ats
+8	de	de	P	P		4	mod	4	mod
+9	ceux	ceux	PRO	PRO	n=p|g=m	8	prep	8	prep
+10	qu'	que	PROREL	PROREL		12	obj	12	obj
+11	on	on	CLS	CLS	n=s|p=3	12	suj	12	suj
+12	peut	pouvoir	V	V	n=s|t=P|p=3	9	mod_rel	9	mod_rel
+13	voir	voir	VINF	VINF	t=W	12	obj	12	obj
+14	sur	sur	P	P		13	mod	13	mod
+15	Terre	_	NPP	NPP		14	prep	14	prep
+16	:	:	PONCT	PONCT		15	ponct	15	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	comètes	comète	NC	NC	n=p|g=f	3	suj	3	suj
+3	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+4	des	des	DET	DET	n=p	5	det	5	det
+5	corps	corps	NC	NC	g=m	3	obj	3	obj
+6	glacés	glacer	ADJ	ADJ	n=p|g=m|t=K	5	mod	5	mod
+7	qui	qui	PROREL	PROREL	n=s	16	suj	16	suj
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	quand	quand	CS	CS		16	mod	16	mod
+10	elles	elles	CLS	CLS	n=p|g=f|p=3	11	suj	11	suj
+11	sont	être	V	V	n=p|t=P|p=3	9	sub	9	sub
+12	proches	proche	ADJ	ADJ	n=p	11	ats	11	ats
+13	du	de	P+D	P+D	n=s|g=m	11	mod	11	mod
+14	Soleil	_	NPP	NPP		13	prep	13	prep
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	sont	être	V	V	n=p|t=P|p=3	3	mod	3	mod
+17	susceptibles	susceptible	ADJ	ADJ	n=p	16	ats	16	ats
+18	d'	de	P	P		16	mod	16	mod
+19	avoir	avoir	VINF	VINF	t=W	18	prep	18	prep
+20	des	des	DET	DET	n=p	21	det	21	det
+21	phénomènes	phénomène	NC	NC	n=p|g=m	19	obj	19	obj
+22	de	de	P	P		21	dep	21	dep
+23	dégazage	dégazage	NC	NC	n=s|g=m	22	prep	22	prep
+24	brutaux	brutal	ADJ	ADJ	n=p|g=m	21	mod	21	mod
+25	,	,	PONCT	PONCT		24	ponct	24	ponct
+26	que	que	PROREL	PROREL		29	mod	29	mod
+27	l'	le	DET	DET	n=s	28	det	28	det
+28	on	on	CLS	CLS	n=s|p=3	29	suj	29	suj
+29	nomme	nommer	V	V	n=s|t=P,S|p=1,3	21	mod_rel	21	mod_rel
+30	aussi	aussi	ADV	ADV		29	mod	29	mod
+31	geysers	geyser	NC	NC	n=p|g=m	29	obj	29	obj
+32	,	,	PONCT	PONCT		31	ponct	31	ponct
+33	bien	bien	ADV	ADV		29	mod	29	mod
+34	qu'	que	CS	CS		29	obj	29	obj
+35	ils	ils	CLS	CLS	n=p|g=m|p=3	37	suj	37	suj
+36	n'	ne	ADV	ADV		37	mod	37	mod
+37	aient	avoir	VS	VS	n=p|t=S|p=3	34	sub	34	sub
+38	pas	pas	ADV	ADV		37	mod	37	mod
+39	encore	encore	ADV	ADV		41	mod	41	mod
+40	été	être	VPP	VPP	t=K	41	aux_pass	41	aux_pass
+41	observés	observer	VPP	VPP	n=p|g=m|t=K	34	sub	34	sub
+42	,	,	PONCT	PONCT		41	ponct	41	ponct
+43	sinon	sinon	CC	CC		16	coord	16	coord
+44	dans	dans	P	P		43	dep_coord	43	dep_coord
+45	quelques	quelques	DET	DET	n=p	46	det	46	det
+46	films	film	NC	NC	n=p|g=m	44	prep	44	prep
+47	de	de	P	P		46	dep	46	dep
+48	science-fiction	science-fiction	NC	NC	n=s|g=f	47	prep	47	prep
+49	(	(	PONCT	PONCT		48	ponct	48	ponct
+50	par	par	P	P		16	mod	16	mod
+51	ex	ex	NC	NC		50	prep	50	prep
+52	.	.	PONCT	PONCT		51	ponct	51	ponct
+
+1	"	"	PONCT	PONCT		0	ponct	0	ponct
+2	Armaggedon	_	NPP	NPP		0	_	0	_
+3	"	"	PONCT	PONCT		2	ponct	2	ponct
+4	)	)	PONCT	PONCT		2	ponct	2	ponct
+5	.	.	PONCT	PONCT		2	ponct	2	ponct
+
+1	Peut-être	peut-être	ADV	ADV		17	mod	17	mod
+2	l'	le	DET	DET	n=s	3	det	3	det
+3	atterrisseur	_	NC	NC		17	suj	17	suj
+4	Philae	_	NPP	NPP		3	mod	3	mod
+5	ou	ou	CC	CC		3	coord	3	coord
+6	son	son	DET	DET	n=s|g=m|p=3|poss=s	7	det	7	det
+7	orbiteur	_	NC	NC		5	dep_coord	5	dep_coord
+8	Rosetta	Rosetta	NPP	NPP	n=s|g=f	7	mod	7	mod
+9	sur	sur	P	P		5	dep_coord	5	dep_coord
+10	et	et	CC	CC		3	coord	3	coord
+11	autour	autour	NC	NC	n=s|g=m	3	mod	3	mod
+12	de	de	P	P		3	dep	3	dep
+13	la	la	DET	DET	n=s|g=f	14	det	14	det
+14	comète	comète	NC	NC	n=s|g=f	12	prep	12	prep
+15	Churuymov-Gerassimenko	_	NPP	NPP		14	mod	14	mod
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	pourront	pouvoir	V	V	n=p|t=F|p=3	0	root	0	root
+18	-ils	ils	CLS	CLS	n=p|g=m|p=3	17	suj	17	suj
+19	en	en	CLO	CLO		20	obj	20	obj
+20	observer	observer	VINF	VINF	t=W	17	obj	17	obj
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	à	à	P	P		20	mod	20	mod
+23	leur	leur	DET	DET	n=s|p=3|poss=p	24	det	24	det
+24	péril	péril	NC	NC	n=s|g=m	22	prep	22	prep
+25	,	,	PONCT	PONCT		24	ponct	24	ponct
+26	dans	dans	P	P		20	mod	20	mod
+27	les	les	DET	DET	n=p	28	det	28	det
+28	mois	mois	NC	NC	g=m	26	prep	26	prep
+29	de	de	P	P		20	mod	20	mod
+30	fin	fin	NC	NC	n=s	29	prep	29	prep
+31	2014-début	_	NC	NC		30	mod	30	mod
+32	2015	2015	NC	NC		30	mod	30	mod
+33	…	…	PONCT	PONCT		32	ponct	32	ponct
+
+1	Galerie	galerie	NC	NC	n=s|g=f	0	_	0	_
+2	photo	photo	NC	NC	n=s|g=f	1	mod	1	mod
+3	sur	sur	P	P		1	dep	1	dep
+4	Wikimedia	_	NPP	NPP		3	prep	3	prep
+5	Commons	_	NPP	NPP		4	mod	4	mod
+

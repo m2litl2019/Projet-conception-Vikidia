@@ -1,0 +1,2451 @@
+1	Une	une	DET	DET	n=s|g=f	2	det	2	det
+2	boulangerie	boulangerie	NC	NC	n=s|g=f	3	suj	3	suj
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	un	un	DET	DET	n=s|g=m	5	det	5	det
+5	atelier	atelier	NC	NC	n=s|g=m	3	obj	3	obj
+6	et	et	CC	CC		3	coord	3	coord
+7	une	une	DET	DET	n=s|g=f	8	det	8	det
+8	boutique	boutique	NC	NC	n=s|g=f	16	mod	16	mod
+9	où	où	PROREL	PROREL		10	suj	10	suj
+10	travaille	travailler	V	V	n=s|t=P,S|p=1,3	8	mod_rel	8	mod_rel
+11	le	le	DET	DET	n=s|g=m	12	det	12	det
+12	boulanger	boulanger	NC	NC	n=s|g=m	10	obj	10	obj
+13	:	:	PONCT	PONCT		12	ponct	12	ponct
+14	on	on	CLS	CLS	n=s|p=3	16	suj	16	suj
+15	y	y	CLO	CLO		16	aff	16	aff
+16	fabrique	fabriquer	V	V	n=s|t=P,S|p=1,3	6	dep_coord	6	dep_coord
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	et	et	CC	CC		16	coord	16	coord
+19	on	on	CLS	CLS	n=s|p=3	21	suj	21	suj
+20	y	y	CLO	CLO		21	aff	21	aff
+21	vend	vendre	V	V	n=s|t=P|p=3	18	dep_coord	18	dep_coord
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+23	du	de	P+D	P+D	n=s|g=m	21	mod	21	mod
+24	pain	pain	NC	NC	n=s|g=m	23	prep	23	prep
+25	,	,	PONCT	PONCT		24	ponct	24	ponct
+26	et	et	CC	CC		21	coord	21	coord
+27	,	,	PONCT	PONCT		26	ponct	26	ponct
+28	traditionnellement	_	ADV	ADV		26	mod	26	mod
+29	,	,	PONCT	PONCT		28	ponct	28	ponct
+30	des	de	P+D	P+D	n=p	26	dep_coord	26	dep_coord
+31	viennoiseries	_	NC	NC		30	prep	30	prep
+32	(	(	PONCT	PONCT		31	ponct	31	ponct
+33	croissants	croissant	NC	NC	n=p|g=m	31	mod	31	mod
+34	,	,	PONCT	PONCT		33	ponct	33	ponct
+35	pains	pain	NC	NC	n=p|g=m	31	mod	31	mod
+36	aux	à	P+D	P+D	n=p	35	dep	35	dep
+37	chocolat	chocolat	NC	NC	n=s|g=m	36	prep	36	prep
+38	...	...	PONCT	PONCT		37	ponct	37	ponct
+39	)	)	PONCT	PONCT		37	ponct	37	ponct
+40	.	.	PONCT	PONCT		37	ponct	37	ponct
+
+1	De	de	P	P		8	mod	8	mod
+2	nos	nos	DET	DET	n=p|p=1|poss=p	3	det	3	det
+3	jours	jour	NC	NC	n=p|g=m	1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	beaucoup	beaucoup	ADV	ADV		8	mod	8	mod
+6	de	de	P	P		8	mod	8	mod
+7	boulangeries	boulangerie	NC	NC	n=p|g=f	6	prep	6	prep
+8	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+9	aussi	aussi	ADV	ADV		8	mod	8	mod
+10	des	des	DET	DET	n=p	11	det	11	det
+11	pâtisseries	pâtisserie	NC	NC	n=p|g=f	8	obj	8	obj
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+1	Comme	comme	P	P		11	mod	11	mod
+2	le	le	DET	DET	n=s|g=m	3	det	3	det
+3	pain	pain	NC	NC	n=s|g=m	1	prep	1	prep
+4	qui	qui	PROREL	PROREL	n=s	7	suj	7	suj
+5	y	y	CLO	CLO		7	aff	7	aff
+6	est	être	V	V	n=s|t=P|p=3	7	aux_tps	7	aux_tps
+7	fabriqué	fabriquer	VPP	VPP	n=s|g=m|t=K	3	mod_rel	3	mod_rel
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	la	la	DET	DET	n=s|g=f	10	det	10	det
+10	boulangerie	boulangerie	NC	NC	n=s|g=f	11	suj	11	suj
+11	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+12	l'	le	DET	DET	n=s	13	det	13	det
+13	un	un	PRO	PRO	n=s|g=m	11	ats	11	ats
+14	des	de	P+D	P+D	n=p	13	dep	13	dep
+15	symboles	symbole	NC	NC	n=p|g=m	14	prep	14	prep
+16	de	de	P	P		11	mod	11	mod
+17	la	la	DET	DET	n=s|g=f	18	det	18	det
+18	France	France	NPP	NPP	n=s|g=f,m	16	prep	16	prep
+19	:	:	PONCT	PONCT		18	ponct	18	ponct
+20	dans	dans	P	P		11	mod	11	mod
+21	les	les	DET	DET	n=p	22	det	22	det
+22	villes	ville	NC	NC	n=p|g=f	20	prep	20	prep
+23	françaises	français	ADJ	ADJ	n=p|g=f	22	mod	22	mod
+24	,	,	PONCT	PONCT		23	ponct	23	ponct
+25	c'	ce	CLS	CLS		26	suj	26	suj
+26	est	être	V	V	n=s|t=P|p=3	11	mod	11	mod
+27	une	un	PRO	PRO	n=s|g=f	26	ats	26	ats
+28	des	de	P+D	P+D	n=p	27	dep	27	dep
+29	boutiques	boutique	NC	NC	n=p|g=f	28	prep	28	prep
+30	les	les	DET	DET	n=p	32	det	32	det
+31	plus	plus	ADV	ADV		32	mod	32	mod
+32	courantes	courant	ADJ	ADJ	n=p|g=f	26	mod	26	mod
+33	:	:	PONCT	PONCT		32	ponct	32	ponct
+34	on	on	CLS	CLS	n=s|p=3	36	suj	36	suj
+35	en	en	CLO	CLO		36	obj	36	obj
+36	trouve	trouver	V	V	n=s|t=P,S|p=1,3	11	mod	11	mod
+37	une	un	PRO	PRO	n=s|g=f	36	obj	36	obj
+38	dans	dans	P	P		36	mod	36	mod
+39	pratiquement	_	ADV	ADV		40	mod	40	mod
+40	toutes	tout	ADJ	ADJ	n=p|g=f	42	mod	42	mod
+41	les	les	DET	DET	n=p	42	det	42	det
+42	villes	ville	NC	NC	n=p|g=f	38	prep	38	prep
+43	:	:	PONCT	PONCT		42	ponct	42	ponct
+44	il	il	CLS	CLS	n=s|g=m|p=3	46	suj	46	suj
+45	y	y	CLO	CLO		46	aff	46	aff
+46	a	avoir	V	V	n=s|t=P|p=3	11	mod	11	mod
+47	plus	plus	ADV	ADV		46	mod	46	mod
+48	de	de	P	P		46	mod	46	mod
+49	8001	8001	ADJ	ADJ		50	mod	50	mod
+50	boulangeries	boulangerie	NC	NC	n=p|g=f	48	prep	48	prep
+51	à	à	P	P		46	mod	46	mod
+52	Paris	Paris	NPP	NPP	n=s|g=m	51	prep	51	prep
+53	,	,	PONCT	PONCT		52	ponct	52	ponct
+54	et	et	CC	CC		46	coord	46	coord
+55	même	même	ADV	ADV		54	mod	54	mod
+56	à	à	P	P		54	dep_coord	54	dep_coord
+57	Moncontour2	_	NPP	NPP		56	prep	56	prep
+58	,	,	PONCT	PONCT		57	ponct	57	ponct
+59	l'	le	DET	DET	n=s	60	det	60	det
+60	une	un	PRO	PRO	n=s|g=f	11	ats	11	ats
+61	des	de	P+D	P+D	n=p	60	dep	60	dep
+62	plus	plus	ADV	ADV		63	mod	63	mod
+63	petites	petit	ADJ	ADJ	n=p|g=f	64	mod	64	mod
+64	communes	commune	NC	NC	n=p|g=f	61	prep	61	prep
+65	de	de	P	P		11	mod	11	mod
+66	France3	_	NPP	NPP		65	prep	65	prep
+67	.	.	PONCT	PONCT		66	ponct	66	ponct
+
+1	Mais	mais	CC	CC		0	root	0	root
+2	on	on	CLS	CLS	n=s|p=3	3	suj	3	suj
+3	trouve	trouver	V	V	n=s|t=P,S|p=1,3	1	dep_coord	1	dep_coord
+4	aussi	aussi	ADV	ADV		3	mod	3	mod
+5	des	des	DET	DET	n=p	6	det	6	det
+6	boulangeries	boulangerie	NC	NC	n=p|g=f	3	obj	3	obj
+7	dans	dans	P	P		3	mod	3	mod
+8	beaucoup	beaucoup	ADV	ADV		7	mod	7	mod
+9	d'	de	DET	DET	n=p	11	det	11	det
+10	autres	autre	ADJ	ADJ	n=p	11	mod	11	mod
+11	pays	pays	NC	NC	g=m	7	prep	7	prep
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	qui	qui	PROREL	PROREL	n=s	14	suj	14	suj
+14	produisent	produire	V	V	n=p|t=P,S|p=3	11	mod_rel	11	mod_rel
+15	différentes	différent	ADJ	ADJ	n=p|g=f	16	mod	16	mod
+16	sortes	sorte	NC	NC	n=p|g=f	14	obj	14	obj
+17	de	de	P	P		16	dep	16	dep
+18	pain	pain	NC	NC	n=s|g=m	17	prep	17	prep
+19	et	et	CC	CC		16	coord	16	coord
+20	viennoiseries	_	NC	NC		19	dep_coord	19	dep_coord
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	comme	comme	CS	CS		3	mod	3	mod
+23	le	le	DET	DET	n=s|g=m	24	det	24	det
+24	schwarzbrot	_	NPP	NPP		0	_	0	_
+25	(	(	PONCT	PONCT		24	ponct	24	ponct
+26	pain	pain	NC	NC	n=s|g=m	24	mod	24	mod
+27	noir	noir	ADJ	ADJ	n=s|g=m	26	mod	26	mod
+28	)	)	PONCT	PONCT		27	ponct	27	ponct
+29	et	et	CC	CC		24	coord	24	coord
+30	le	le	DET	DET	n=s|g=m	31	det	31	det
+31	bretzel	bretzel	NC	NC	n=s|g=m	29	dep_coord	29	dep_coord
+32	allemands	allemand	ADJ	ADJ	n=p|g=m	31	mod	31	mod
+33	,	,	PONCT	PONCT		32	ponct	32	ponct
+34	les	les	DET	DET	n=p	35	det	35	det
+35	kanelbullar	_	NC	NC		24	mod	24	mod
+36	(	(	PONCT	PONCT		35	ponct	35	ponct
+37	pains	pain	NC	NC	n=p|g=m	24	mod	24	mod
+38	à	à	P	P		37	dep	37	dep
+39	la	la	DET	DET	n=s|g=f	40	det	40	det
+40	cannelle	cannelle	NC	NC	n=s|g=f	38	prep	38	prep
+41	)	)	PONCT	PONCT		40	ponct	40	ponct
+42	suédois	suédois	ADJ	ADJ	g=m	37	mod	37	mod
+43	ou	ou	CC	CC		37	coord	37	coord
+44	les	les	DET	DET	n=p	45	det	45	det
+45	muffins	muffin	NC	NC	n=p|g=m	43	dep_coord	43	dep_coord
+46	anglais	anglais	ADJ	ADJ	g=m	45	mod	45	mod
+47	...	...	PONCT	PONCT		46	ponct	46	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	pain	pain	NC	NC	n=s|g=m	5	suj	5	suj
+3	a	avoir	V	V	n=s|t=P|p=3	5	aux_tps	5	aux_tps
+4	toujours	toujours	ADV	ADV		5	mod	5	mod
+5	été	être	VPP	VPP	t=K	0	root	0	root
+6	un	un	DET	DET	n=s|g=m	7	det	7	det
+7	aliment	aliment	NC	NC	n=s|g=m	5	obj	5	obj
+8	de	de	P	P		7	dep	7	dep
+9	base	base	NC	NC	n=s|g=f	8	prep	8	prep
+10	en	en	P	P		5	mod	5	mod
+11	Europe	Europe	NPP	NPP	n=s|g=f	10	prep	10	prep
+12	et	et	CC	CC		5	coord	5	coord
+13	au	à	P+D	P+D	n=s|g=m	12	dep_coord	12	dep_coord
+14	Moyen-Orient	Moyen-Orient	NPP	NPP	n=s|g=m	13	prep	13	prep
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	et	et	CC	CC		5	coord	5	coord
+17	le	le	DET	DET	n=s|g=m	18	det	18	det
+18	métier	métier	NC	NC	n=s|g=m	21	suj	21	suj
+19	de	de	P	P		18	dep	18	dep
+20	boulanger	boulanger	NC	NC	n=s|g=m	19	prep	19	prep
+21	existe	exister	V	V	n=s|t=P,S|p=1,3	16	dep_coord	16	dep_coord
+22	depuis	depuis	P	P		21	mod	21	mod
+23	l'	le	DET	DET	n=s	24	det	24	det
+24	Antiquité	_	NPP	NPP		22	prep	22	prep
+25	;	;	PONCT	PONCT		24	ponct	24	ponct
+26	cependant	cependant	ADV	ADV		21	mod	21	mod
+27	,	,	PONCT	PONCT		26	ponct	26	ponct
+28	la	la	DET	DET	n=s|g=f	29	det	29	det
+29	fabrication	fabrication	NC	NC	n=s|g=f	21	obj	21	obj
+30	du	de	P+D	P+D	n=s|g=m	29	dep	29	dep
+31	pain	pain	NC	NC	n=s|g=m	30	prep	30	prep
+32	est	être	V	V	n=s|t=P|p=3	34	aux_tps	34	aux_tps
+33	longtemps	longtemps	ADV	ADV		34	mod	34	mod
+34	restée	rester	VPP	VPP	n=s|g=f|t=K	29	mod_rel	29	mod_rel
+35	une	une	DET	DET	n=s|g=f	36	det	36	det
+36	activité	activité	NC	NC	n=s|g=f	34	mod	34	mod
+37	que	que	PROREL	PROREL		40	obj	40	obj
+38	l'	le	DET	DET	n=s	39	det	39	det
+39	on	on	CLS	CLS	n=s|p=3	40	suj	40	suj
+40	pratique	pratiquer	V	V	n=s|t=P,S|p=1,3	29	mod_rel	29	mod_rel
+41	à	à	P	P		40	mod	40	mod
+42	la	la	DET	DET	n=s|g=f	43	det	43	det
+43	maison	maison	NC	NC	n=s|g=f	41	prep	41	prep
+44	,	,	PONCT	PONCT		43	ponct	43	ponct
+45	et	et	CC	CC		29	coord	29	coord
+46	la	la	DET	DET	n=s|g=f	47	det	47	det
+47	boulangerie	boulangerie	NC	NC	n=s|g=f	45	dep_coord	45	dep_coord
+48	,	,	PONCT	PONCT		47	ponct	47	ponct
+49	telle	tel	ADJ	ADJ	n=s|g=f	29	mod	29	mod
+50	qu'	que	CS	CS		21	mod	21	mod
+51	on	on	CLS	CLS	n=s|p=3	53	suj	53	suj
+52	la	la	CLO	CLO	n=s|g=f|p=3	53	obj	53	obj
+53	connaît	connaître	V	V	n=s|t=P|p=3	50	sub	50	sub
+54	aujourd'hui	aujourd'hui	ADV	ADV		53	mod	53	mod
+55	,	,	PONCT	PONCT		54	ponct	54	ponct
+56	n'	ne	ADV	ADV		58	mod	58	mod
+57	est	être	V	V	n=s|t=P|p=3	58	aux_tps	58	aux_tps
+58	apparue	apparaître	VPP	VPP	n=s|g=f|t=K	53	mod	53	mod
+59	que	que	CS	CS		53	mod	53	mod
+60	bien	bien	ADV	ADV		0	_	0	_
+61	plus	plus	ADV	ADV		62	mod	62	mod
+62	tard	tard	ADV	ADV		0	_	0	_
+63	.	.	PONCT	PONCT		62	ponct	62	ponct
+
+1	Dans	dans	P	P		8	mod	8	mod
+2	l'	le	DET	DET	n=s	3	det	3	det
+3	Égypte	Égypte	NPP	NPP	n=s|g=f	1	prep	1	prep
+4	antique	antique	ADJ	ADJ	n=s	3	mod	3	mod
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	les	les	DET	DET	n=p	7	det	7	det
+7	boulangers	boulanger	NC	NC	n=p|g=m	8	suj	8	suj
+8	faisaient	faire	V	V	n=p|t=I|p=3	0	root	0	root
+9	cuire	cuire	VINF	VINF	t=W	8	obj	8	obj
+10	leur	leur	DET	DET	n=s|p=3|poss=p	11	det	11	det
+11	pain	pain	NC	NC	n=s|g=m	9	obj	9	obj
+12	le	le	DET	DET	n=s|g=m	13	det	13	det
+13	matin	matin	NC	NC	n=s|g=m	9	mod	9	mod
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	et	et	CC	CC		8	coord	8	coord
+16	allaient	aller	V	V	n=p|t=I|p=3	15	dep_coord	15	dep_coord
+17	ensuite	ensuite	ADV	ADV		16	mod	16	mod
+18	le	le	CLO	CLO	n=s|g=m|p=3	19	obj	19	obj
+19	vendre	vendre	VINF	VINF	t=W	16	obj	16	obj
+20	sur	sur	P	P		19	mod	19	mod
+21	les	les	DET	DET	n=p	22	det	22	det
+22	marchés	marché	NC	NC	n=p|g=m	20	prep	20	prep
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+1	Les	les	DET	DET	n=p	3	det	3	det
+2	riches	riche	ADJ	ADJ	n=p	3	mod	3	mod
+3	romains	romain	NC	NC	n=p|g=m	4	suj	4	suj
+4	avaient	avoir	V	V	n=p|t=I|p=3	0	root	0	root
+5	des	des	DET	DET	n=p	6	det	6	det
+6	boulangers	boulanger	NC	NC	n=p|g=m	4	obj	4	obj
+7	parmi	parmi	P	P		4	mod	4	mod
+8	leur	leur	DET	DET	n=s|p=3|poss=p	9	det	9	det
+9	personnel	personnel	NC	NC	n=s|g=m	7	prep	7	prep
+10	:	:	PONCT	PONCT		9	ponct	9	ponct
+11	ils	ils	CLS	CLS	n=p|g=m|p=3	12	suj	12	suj
+12	préparaient	préparer	V	V	n=p|t=I|p=3	4	mod	4	mod
+13	le	le	DET	DET	n=s|g=m	14	det	14	det
+14	pain	pain	NC	NC	n=s|g=m	12	obj	12	obj
+15	dans	dans	P	P		12	mod	12	mod
+16	une	une	DET	DET	n=s|g=f	17	det	17	det
+17	boulangerie	boulangerie	NC	NC	n=s|g=f	15	prep	15	prep
+18	qui	qui	PROREL	PROREL	n=s	0	_	0	_
+19	faisait	faire	V	V	n=s|t=I|p=3	0	_	0	_
+20	partie	partie	NC	NC	n=s|g=f	19	obj	19	obj
+21	de	de	P	P		19	mod	19	mod
+22	la	la	DET	DET	n=s|g=f	23	det	23	det
+23	maison	maison	NC	NC	n=s|g=f	21	prep	21	prep
+24	,	,	PONCT	PONCT		23	ponct	23	ponct
+25	mais	mais	CC	CC		19	coord	19	coord
+26	n'	ne	ADV	ADV		27	mod	27	mod
+27	avaient	avoir	V	V	n=p|t=I|p=3	25	dep_coord	25	dep_coord
+28	pas	pas	ADV	ADV		27	mod	27	mod
+29	de	de	P	P		27	mod	27	mod
+30	«_	"	PONCT	PONCT		29	ponct	29	ponct
+31	boutique	boutique	NC	NC	n=s|g=f	29	prep	29	prep
+32	_»	"	PONCT	PONCT		31	ponct	31	ponct
+33	en	en	P	P		27	mod	27	mod
+34	ville	ville	NC	NC	n=s|g=f	33	prep	33	prep
+35	.	.	PONCT	PONCT		34	ponct	34	ponct
+
+1	En	en	P	P		10	mod	10	mod
+2	Europe	Europe	NPP	NPP	n=s|g=f	1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	dans	dans	P	P		10	mod	10	mod
+5	les	les	DET	DET	n=p	6	det	6	det
+6	villages	village	NC	NC	n=p|g=m	4	prep	4	prep
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	était	être	V	V	n=s|t=I|p=3	10	aux_tps	10	aux_tps
+9	souvent	souvent	ADV	ADV		10	mod	10	mod
+10	construit	construire	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+11	un	un	DET	DET	n=s|g=m	12	det	12	det
+12	four	four	NC	NC	n=s|g=m	10	obj	10	obj
+13	communal	communal	ADJ	ADJ	n=s|g=m	12	mod	12	mod
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	autour	autour	NC	NC	n=s|g=m	12	mod	12	mod
+16	duquel	duquel	P+PRO	P+PRO	n=s|g=m	20	mod	20	mod
+17	les	les	DET	DET	n=p	18	det	18	det
+18	gens	gens	NC	NC	n=p|g=m	20	suj	20	suj
+19	se	se	CLR	CLR	n=p,s|p=3	20	aff	20	aff
+20	rassemblaient	rassembler	V	V	n=p|t=I|p=3	15	mod_rel	15	mod_rel
+21	le	le	DET	DET	n=s|g=m	22	det	22	det
+22	matin	matin	NC	NC	n=s|g=m	20	obj	20	obj
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	pour	pour	P	P		20	mod	20	mod
+25	venir	venir	VINF	VINF	t=W	24	prep	24	prep
+26	faire	faire	VINF	VINF	t=W	25	obj	25	obj
+27	cuire	cuire	VINF	VINF	t=W	26	obj	26	obj
+28	leur	leur	DET	DET	n=s|p=3|poss=p	29	det	29	det
+29	pain	pain	NC	NC	n=s|g=m	27	obj	27	obj
+30	.	.	PONCT	PONCT		29	ponct	29	ponct
+
+1	Parfois	parfois	ADV	ADV		5	mod	5	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	il	il	CLS	CLS	n=s|g=m|p=3	5	suj	5	suj
+4	y	y	CLO	CLO		5	aff	5	aff
+5	avait	avoir	V	V	n=s|t=I|p=3	0	root	0	root
+6	un	un	DET	DET	n=s|g=m	7	det	7	det
+7	boulanger	boulanger	NC	NC	n=s|g=m	5	obj	5	obj
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	qui	qui	PROREL	PROREL	n=s	10	suj	10	suj
+10	cuisait	cuire	V	V	n=s|t=I|p=3	5	mod	5	mod
+11	le	le	DET	DET	n=s|g=m	12	det	12	det
+12	pain	pain	NC	NC	n=s|g=m	10	obj	10	obj
+13	sur	sur	P	P		10	mod	10	mod
+14	place	place	NC	NC	n=s|g=f	13	prep	13	prep
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+1	C'	ce	CLS	CLS		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	durant	durant	P	P		2	mod	2	mod
+4	le	le	DET	DET	n=s|g=m	5	det	5	det
+5	Moyen-Âge	_	NPP	NPP		3	prep	3	prep
+6	que	que	CS	CS		2	mod	2	mod
+7	les	les	DET	DET	n=p	8	det	8	det
+8	boulangeries	boulangerie	NC	NC	n=p|g=f	9	suj	9	suj
+9	apparaissent	apparaître	V	V	n=p|t=P,S|p=3	6	sub	6	sub
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+1	Rapidement	_	ADV	ADV		5	mod	5	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	on	on	CLS	CLS	n=s|p=3	5	suj	5	suj
+4	ne	ne	ADV	ADV		5	mod	5	mod
+5	fabrique	fabriquer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+6	plus	plus	ADV	ADV		5	mod	5	mod
+7	le	le	DET	DET	n=s|g=m	8	det	8	det
+8	pain	pain	NC	NC	n=s|g=m	5	obj	5	obj
+9	à	à	P	P		5	mod	5	mod
+10	la	la	DET	DET	n=s|g=f	11	det	11	det
+11	maison	maison	NC	NC	n=s|g=f	9	prep	9	prep
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	on	on	CLS	CLS	n=s|p=3	14	suj	14	suj
+14	vient	venir	V	V	n=s|t=P|p=3	5	mod	5	mod
+15	l'	le	CLO	CLO	n=s|p=3	16	obj	16	obj
+16	acheter	acheter	VINF	VINF	t=W	14	obj	14	obj
+17	à	à	P	P		16	mod	16	mod
+18	la	la	DET	DET	n=s|g=f	19	det	19	det
+19	boulangerie	boulangerie	NC	NC	n=s|g=f	17	prep	17	prep
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	et	et	CC	CC		14	coord	14	coord
+22	la	la	DET	DET	n=s|g=f	23	det	23	det
+23	boulangerie	boulangerie	NC	NC	n=s|g=f	24	suj	24	suj
+24	devient	devenir	V	V	n=s|t=P|p=3	21	dep_coord	21	dep_coord
+25	un	un	DET	DET	n=s|g=m	26	det	26	det
+26	élément	élément	NC	NC	n=s|g=m	24	obj	24	obj
+27	très	très	ADV	ADV		28	mod	28	mod
+28	important	important	ADJ	ADJ	n=s|g=m	26	mod	26	mod
+29	du	de	P+D	P+D	n=s|g=m	26	dep	26	dep
+30	village	village	NC	NC	n=s|g=m	29	prep	29	prep
+31	.	.	PONCT	PONCT		30	ponct	30	ponct
+
+1	Par	par	P	P		10	mod	10	mod
+2	la	la	DET	DET	n=s|g=f	3	det	3	det
+3	suite	suite	NC	NC	n=s|g=f	1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	le	le	DET	DET	n=s|g=m	6	det	6	det
+6	métier	métier	NC	NC	n=s|g=m	10	suj	10	suj
+7	de	de	P	P		6	dep	6	dep
+8	boulanger	boulanger	VINF	VINF	t=W	7	prep	7	prep
+9	se	se	CLR	CLR	n=p,s|p=3	10	aff	10	aff
+10	diversifie	diversifier	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+11	:	:	PONCT	PONCT		10	ponct	10	ponct
+12	dans	dans	P	P		10	mod	10	mod
+13	les	les	DET	DET	n=p	15	det	15	det
+14	différents	différent	ADJ	ADJ	n=p|g=m	15	mod	15	mod
+15	pays	pays	NC	NC	g=m	12	prep	12	prep
+16	et	et	CC	CC		10	coord	10	coord
+17	régions	région	NC	NC	n=p|g=f	20	mod	20	mod
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	il	il	CLS	CLS	n=s|g=m|p=3	20	suj	20	suj
+20	existe	exister	V	V	n=s|t=P,S|p=1,3	16	dep_coord	16	dep_coord
+21	différentes	différent	ADJ	ADJ	n=p|g=f	22	mod	22	mod
+22	variétés	variété	NC	NC	n=p|g=f	20	obj	20	obj
+23	de	de	P	P		22	dep	22	dep
+24	pains	pain	NC	NC	n=p|g=m	23	prep	23	prep
+25	et	et	CC	CC		22	coord	22	coord
+26	préparation	préparation	NC	NC	n=s|g=f	25	dep_coord	25	dep_coord
+27	.	.	PONCT	PONCT		26	ponct	26	ponct
+
+1	C'	ce	CLS	CLS		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	au	à	P+D	P+D	n=s|g=m	2	mod	2	mod
+4	XVIsiècle	_	NC	NC		3	prep	3	prep
+5	qu'	que	PROREL	PROREL		6	suj	6	suj
+6	apparaît	apparaître	V	V	n=s|t=P|p=3	2	mod	2	mod
+7	la	la	DET	DET	n=s|g=f	8	det	8	det
+8	brioche	brioche	NC	NC	n=s|g=f	6	obj	6	obj
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	en	en	P	P		6	mod	6	mod
+11	Normandie	Normandie	NPP	NPP	n=s|g=f	10	prep	10	prep
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	pains	pain	NC	NC	n=p|g=m	14	suj	14	suj
+3	et	et	CC	CC		2	coord	2	coord
+4	les	les	DET	DET	n=p	5	det	5	det
+5	préparations	préparation	NC	NC	n=p|g=f	3	dep_coord	3	dep_coord
+6	des	de	P+D	P+D	n=p	2	dep	2	dep
+7	boulangers	boulanger	NC	NC	n=p|g=m	6	prep	6	prep
+8	de	de	P	P		2	dep	2	dep
+9	Vienne	Vienne	NPP	NPP	n=s|g=f,m	8	prep	8	prep
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	en	en	P	P		2	dep	2	dep
+12	Autriche	Autriche	NPP	NPP	n=s|g=f	11	prep	11	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	étaient	être	V	V	n=p|t=I|p=3	0	root	0	root
+15	très	très	ADV	ADV		14	mod	14	mod
+16	réputées	réputer	ADJ	ADJ	n=p|g=f|t=K	14	mod	14	mod
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+1	On	on	CLS	CLS	n=s|p=3	2	suj	2	suj
+2	dit	dire	V	V	n=s|t=J,P|p=3	0	root	0	root
+3	que	que	CS	CS		2	obj	2	obj
+4	c'	ce	CLS	CLS		5	suj	5	suj
+5	est	être	V	V	n=s|t=P|p=3	3	sub	3	sub
+6	Marie-Antoinette	_	NPP	NPP		5	obj	5	obj
+7	d'	de	P	P		5	mod	5	mod
+8	Autriche	Autriche	NPP	NPP	n=s|g=f	7	prep	7	prep
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	originaire	originaire	ADJ	ADJ	n=s	5	ats	5	ats
+11	de	de	P	P		5	mod	5	mod
+12	Vienne	Vienne	NPP	NPP	n=s|g=f,m	11	prep	11	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	qui	qui	PROREL	PROREL	n=s	16	suj	16	suj
+15	aurait	avoir	V	V	n=s|t=C|p=3	16	aux_tps	16	aux_tps
+16	fait	faire	VPP	VPP	n=s|g=m|t=K	5	mod	5	mod
+17	connaître	connaître	VINF	VINF	t=W	16	obj	16	obj
+18	les	les	DET	DET	n=p	19	det	19	det
+19	pains	pain	NC	NC	n=p|g=m	17	obj	17	obj
+20	viennois	viennois	NC	NC	g=m	19	mod	19	mod
+21	à	à	P	P		17	mod	17	mod
+22	la	la	DET	DET	n=s|g=f	23	det	23	det
+23	cour	cour	NC	NC	n=s|g=f	21	prep	21	prep
+24	française	français	ADJ	ADJ	n=s|g=f	23	mod	23	mod
+25	.	.	PONCT	PONCT		24	ponct	24	ponct
+
+1	Durant	durant	P	P		9	mod	9	mod
+2	la	la	DET	DET	n=s|g=f	3	det	3	det
+3	Révolution	révolution	NC	NC	n=s|g=f	1	prep	1	prep
+4	française	français	ADJ	ADJ	n=s|g=f	3	mod	3	mod
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	les	les	DET	DET	n=p	7	det	7	det
+7	boulangers	boulanger	NC	NC	n=p|g=m	9	suj	9	suj
+8	sont	être	V	V	n=p|t=P|p=3	9	aux_pass	9	aux_pass
+9	accusés	accuser	VPP	VPP	n=p|g=m|t=K	0	root	0	root
+10	de	de	P	P		9	mod	9	mod
+11	faire	faire	VINF	VINF	t=W	10	prep	10	prep
+12	du	du	DET	DET	n=s|g=m	13	det	13	det
+13	profit	profit	NC	NC	n=s|g=m	11	obj	11	obj
+14	sur	sur	P	P		11	mod	11	mod
+15	le	le	DET	DET	n=s|g=m	16	det	16	det
+16	pain	pain	NC	NC	n=s|g=m	14	prep	14	prep
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	et	et	CC	CC		9	coord	9	coord
+19	les	les	DET	DET	n=p	20	det	20	det
+20	boulangeries	boulangerie	NC	NC	n=p|g=f	21	suj	21	suj
+21	doivent	devoir	V	V	n=p|t=P,S|p=3	18	dep_coord	18	dep_coord
+22	être	être	VINF	VINF	t=W	23	aux_pass	23	aux_pass
+23	grillagées	grillager	VPP	VPP	n=p|g=f|t=K	21	obj	21	obj
+24	,	,	PONCT	PONCT		23	ponct	23	ponct
+25	pour	pour	P	P		21	mod	21	mod
+26	se	se	CLR	CLR	n=p,s|p=3	27	aff	27	aff
+27	protéger	protéger	VINF	VINF	t=W	25	prep	25	prep
+28	de	de	P	P		27	mod	27	mod
+29	la	la	DET	DET	n=s|g=f	30	det	30	det
+30	foule	foule	NC	NC	n=s|g=f	28	prep	28	prep
+31	.	.	PONCT	PONCT		30	ponct	30	ponct
+
+1	Afin	_	NPP	NPP		0	root	0	root
+2	d'	de	P	P		15	mod	15	mod
+3	assurer	assurer	VINF	VINF	t=W	2	prep	2	prep
+4	les	les	DET	DET	n=p	5	det	5	det
+5	approvisionnements	approvisionnement	NC	NC	n=p|g=m	3	obj	3	obj
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	et	et	CC	CC		2	coord	2	coord
+8	d'	de	P	P		7	dep_coord	7	dep_coord
+9	éviter	éviter	VINF	VINF	t=W	8	prep	8	prep
+10	les	les	DET	DET	n=p	11	det	11	det
+11	émeutes	émeute	NC	NC	n=p|g=f	9	obj	9	obj
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	Napoléon	_	NPP	NPP		15	suj	15	suj
+14	Bonaparte	_	NPP	NPP		13	mod	13	mod
+15	imposera	imposer	V	V	n=s|t=F|p=3	0	root	0	root
+16	des	des	DET	DET	n=p	17	det	17	det
+17	tarifs	tarif	NC	NC	n=p|g=m	15	obj	15	obj
+18	fixés	fixer	VPP	VPP	n=p|g=m|t=K	17	mod	17	mod
+19	sur	sur	P	P		18	mod	18	mod
+20	le	le	DET	DET	n=s|g=m	21	det	21	det
+21	pain	pain	NC	NC	n=s|g=m	19	prep	19	prep
+22	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+1	En	en	P	P		6	mod	6	mod
+2	réaction	réaction	NC	NC	n=s|g=f	1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	les	les	DET	DET	n=p	5	det	5	det
+5	boulangers	boulanger	NC	NC	n=p|g=m	6	suj	6	suj
+6	vont	aller	V	V	n=p|t=P|p=3	0	root	0	root
+7	inventer	inventer	VINF	VINF	t=W	6	obj	6	obj
+8	tout	tout	ADJ	ADJ	n=s|g=m	10	mod	10	mod
+9	un	un	DET	DET	n=s|g=m	10	det	10	det
+10	tas	tas	NC	NC	g=m	7	obj	7	obj
+11	de	de	P	P		10	dep	10	dep
+12	nouvelles	nouveau	ADJ	ADJ	n=p|g=f	13	mod	13	mod
+13	variétés	variété	NC	NC	n=p|g=f	11	prep	11	prep
+14	de	de	P	P		7	mod	7	mod
+15	pains	pain	NC	NC	n=p|g=m	14	prep	14	prep
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	non	non	ADV	ADV		18	mod	18	mod
+18	prévues	prévoir	VPP	VPP	n=p|g=f|t=K	7	mod	7	mod
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	et	et	CC	CC		6	coord	6	coord
+21	dont	dont	PROREL	PROREL		27	mod	27	mod
+22	le	le	DET	DET	n=s|g=m	23	det	23	det
+23	prix	prix	NC	NC	g=m	27	suj	27	suj
+24	n'	ne	ADV	ADV		27	mod	27	mod
+25	était	être	V	V	n=s|t=I|p=3	27	aux_tps	27	aux_tps
+26	pas	pas	ADV	ADV		27	mod	27	mod
+27	imposé	imposer	VPP	VPP	n=s|g=m|t=K	20	dep_coord	20	dep_coord
+28	...	...	PONCT	PONCT		27	ponct	27	ponct
+
+1	Vers	vers	P	P		10	mod	10	mod
+2	1838	1838	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	un	un	DET	DET	n=s|g=m	5	det	5	det
+5	autrichien	autrichien	ADJ	ADJ	n=s|g=m	7	mod	7	mod
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	August	August	NPP	NPP	n=s|g=m	10	suj	10	suj
+8	Zang	_	NPP	NPP		7	mod	7	mod
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	ouvre	ouvrir	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+11	à	à	P	P		10	mod	10	mod
+12	Paris	Paris	NPP	NPP	n=s|g=m	11	prep	11	prep
+13	la	la	DET	DET	n=s|g=f	14	det	14	det
+14	Boulangerie	boulangerie	NC	NC	n=s|g=f	10	obj	10	obj
+15	viennoise	_	ADJ	ADJ		14	mod	14	mod
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	fait	faire	V	V	n=s|t=P|p=3	0	root	0	root
+3	connaître	connaître	VINF	VINF	t=W	2	obj	2	obj
+4	ce	ce	PRO	PRO	n=s	3	obj	3	obj
+5	que	que	PROREL	PROREL		8	obj	8	obj
+6	l'	le	DET	DET	n=s	7	det	7	det
+7	on	on	CLS	CLS	n=s|p=3	8	suj	8	suj
+8	appellera	appeler	V	V	n=s|t=F|p=3	4	mod_rel	4	mod_rel
+9	désormais	désormais	ADV	ADV		8	mod	8	mod
+10	le	le	DET	DET	n=s|g=m	11	det	11	det
+11	pain	pain	NC	NC	n=s|g=m	8	obj	8	obj
+12	viennois	viennois	NC	NC	g=m	11	mod	11	mod
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	et	et	CC	CC		2	coord	2	coord
+15	le	le	DET	DET	n=s|g=m	16	det	16	det
+16	kifli	_	NPP	NPP		0	_	0	_
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	l'	le	DET	DET	n=s	19	det	19	det
+19	ancêtre	ancêtre	NC	NC	n=s	16	mod	16	mod
+20	du	de	P+D	P+D	n=s|g=m	19	dep	19	dep
+21	croissant	croissant	ADJ	ADJ	n=s|g=m	20	prep	20	prep
+22	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+1	Toutes	tout	ADJ	ADJ	n=p|g=f	3	mod	3	mod
+2	ces	ces	DET	DET	n=p	3	det	3	det
+3	préparations	préparation	NC	NC	n=p|g=f	4	suj	4	suj
+4	vont	aller	V	V	n=p|t=P|p=3	0	root	0	root
+5	être	être	VINF	VINF	t=W	7	aux_pass	7	aux_pass
+6	désormais	désormais	ADV	ADV		7	mod	7	mod
+7	connues	connaître	VPP	VPP	n=p|g=f|t=K	4	obj	4	obj
+8	sous	sous	P	P		7	mod	7	mod
+9	le	le	DET	DET	n=s|g=m	10	det	10	det
+10	nom	nom	NC	NC	n=s|g=m	8	prep	8	prep
+11	de	de	P	P		7	mod	7	mod
+12	«_	"	PONCT	PONCT		11	ponct	11	ponct
+13	viennoiseries	_	NC	NC		11	prep	11	prep
+14	_»	"	PONCT	PONCT		13	ponct	13	ponct
+15	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+1	On	on	CLS	CLS	n=s|p=3	3	suj	3	suj
+2	les	les	CLO	CLO	n=p|p=3	3	obj	3	obj
+3	consomme	consommer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	au	à	P+D	P+D	n=s|g=m	3	mod	3	mod
+5	petit-déjeuner	_	NPP	NPP		4	prep	4	prep
+6	.	.	PONCT	PONCT		5	ponct	5	ponct
+
+1	Durant	durant	P	P		9	mod	9	mod
+2	le	le	DET	DET	n=s|g=m	4	det	4	det
+3	XIXème	_	ADJ	ADJ		4	mod	4	mod
+4	siècle	siècle	NC	NC	n=s|g=m	1	prep	1	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	les	les	DET	DET	n=p	7	det	7	det
+7	viennoiseries	_	NC	NC		9	suj	9	suj
+8	se	se	CLR	CLR	n=p,s|p=3	9	aff	9	aff
+9	développent	développer	V	V	n=p|t=P,S|p=3	0	root	0	root
+10	dans	dans	P	P		9	mod	9	mod
+11	toutes	tout	ADJ	ADJ	n=p|g=f	13	mod	13	mod
+12	les	les	DET	DET	n=p	13	det	13	det
+13	boulangeries	boulangerie	NC	NC	n=p|g=f	10	prep	10	prep
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	et	et	CC	CC		9	coord	9	coord
+16	de	de	DET	DET	n=p	19	det	19	det
+17	nombreuses	nombreux	ADJ	ADJ	n=p|g=f	19	mod	19	mod
+18	nouvelles	nouveau	ADJ	ADJ	n=p|g=f	19	mod	19	mod
+19	recettes	recette	NC	NC	n=p|g=f	20	suj	20	suj
+20	apparaissent	apparaître	V	V	n=p|t=P,S|p=3	15	dep_coord	15	dep_coord
+21	.	.	PONCT	PONCT		20	ponct	20	ponct
+
+1	Certaines	certain	PRO	PRO	n=p|g=f	19	suj	19	suj
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	comme	comme	P	P		1	dep	1	dep
+4	les	les	DET	DET	n=p	5	det	5	det
+5	pains	pain	NC	NC	n=p|g=m	3	prep	3	prep
+6	aux	à	P+D	P+D	n=p	5	dep	5	dep
+7	raisins	raisin	NC	NC	n=p|g=m	6	prep	6	prep
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	les	les	DET	DET	n=p	10	det	10	det
+10	pains	pain	NC	NC	n=p|g=m	1	mod	1	mod
+11	au	à	P+D	P+D	n=s|g=m	10	dep	10	dep
+12	chocolat	chocolat	NC	NC	n=s|g=m	11	prep	11	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	ou	ou	CC	CC		10	coord	10	coord
+15	les	les	DET	DET	n=p	17	det	17	det
+16	célèbres	célèbre	ADJ	ADJ	n=p	17	mod	17	mod
+17	chouquettes	_	NC	NC		14	dep_coord	14	dep_coord
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	deviennent	devenir	V	V	n=p|t=P,S|p=3	0	root	0	root
+20	rapidement	_	ADV	ADV		19	mod	19	mod
+21	incontournables	incontournable	ADJ	ADJ	n=p	19	ats	19	ats
+22	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	croissant	croissant	ADJ	ADJ	n=s|g=m	10	suj	10	suj
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	la	la	DET	DET	n=s|g=f	6	det	6	det
+5	plus	plus	ADV	ADV		6	mod	6	mod
+6	célèbre	célèbre	ADJ	ADJ	n=s	2	mod	2	mod
+7	des	de	P+D	P+D	n=p	2	mod	2	mod
+8	viennoiseries	_	NC	NC		7	prep	7	prep
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	devient	devenir	V	V	n=s|t=P|p=3	0	root	0	root
+11	au	à	P+D	P+D	n=s|g=m	10	mod	10	mod
+12	XXsiècle	_	NC	NC		11	prep	11	prep
+13	un	un	DET	DET	n=s|g=m	14	det	14	det
+14	symbole	symbole	NC	NC	n=s|g=m	10	obj	10	obj
+15	de	de	P	P		10	mod	10	mod
+16	la	la	DET	DET	n=s|g=f	17	det	17	det
+17	gastronomie	gastronomie	NC	NC	n=s|g=f	15	prep	15	prep
+18	française	français	ADJ	ADJ	n=s|g=f	17	mod	17	mod
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	De	de	P	P		6	mod	6	mod
+2	nos	nos	DET	DET	n=p|p=1|poss=p	3	det	3	det
+3	jours	jour	NC	NC	n=p|g=m	1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	il	il	CLS	CLS	n=s|g=m|p=3	6	suj	6	suj
+6	existe	exister	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+7	des	des	DET	DET	n=p	8	det	8	det
+8	boulangeries	boulangerie	NC	NC	n=p|g=f	6	obj	6	obj
+9	très	très	ADV	ADV		10	mod	10	mod
+10	modernes	moderne	ADJ	ADJ	n=p	8	mod	8	mod
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+1	Au	à	P+D	P+D	n=s|g=m	8	mod	8	mod
+2	XXème	_	ADJ	ADJ		3	mod	3	mod
+3	siècle	siècle	NC	NC	n=s|g=m	1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	des	des	DET	DET	n=p	6	det	6	det
+6	boulangeries	boulangerie	NC	NC	n=p|g=f	8	suj	8	suj
+7	se	se	CLR	CLR	n=p,s|p=3	8	aff	8	aff
+8	constituent	constituer	V	V	n=p|t=P,S|p=3	0	root	0	root
+9	en	en	P	P		8	mod	8	mod
+10	grandes	grand	ADJ	ADJ	n=p|g=f	11	mod	11	mod
+11	entreprises	entreprise	NC	NC	n=p|g=f	9	prep	9	prep
+12	:	:	PONCT	PONCT		11	ponct	11	ponct
+13	il	il	CLS	CLS	n=s|g=m|p=3	15	suj	15	suj
+14	s'	se	CLR	CLR	n=p,s|p=3	15	aff	15	aff
+15	agit	agir	V	V	n=s|t=J,P|p=3	8	mod	8	mod
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	par	par	P	P		15	mod	15	mod
+18	exemple	exemple	NC	NC	n=s|g=m	17	prep	17	prep
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	de	de	P	P		15	mod	15	mod
+21	boulangeries	boulangerie	NC	NC	n=p|g=f	20	prep	20	prep
+22	familiales	familial	ADJ	ADJ	n=p|g=f	21	mod	21	mod
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	qui	qui	PROREL	PROREL	n=s	27	suj	27	suj
+25	se	se	CLR	CLR	n=p,s|p=3	27	aff	27	aff
+26	sont	être	V	V	n=p|t=P|p=3	27	aux_tps	27	aux_tps
+27	développées	développer	VPP	VPP	n=p|g=f|t=K	15	mod	15	mod
+28	:	:	PONCT	PONCT		27	ponct	27	ponct
+
+1	Aujourd'hui	aujourd'hui	ADV	ADV		7	mod	7	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	de	de	DET	DET	n=p	5	det	5	det
+4	nombreuses	nombreux	ADJ	ADJ	n=p|g=f	5	mod	5	mod
+5	boulangeries	boulangerie	NC	NC	n=p|g=f	7	suj	7	suj
+6	sont	être	V	V	n=p|t=P|p=3	7	aux_pass	7	aux_pass
+7	devenues	devenir	VPP	VPP	n=p|g=f|t=K	0	root	0	root
+8	des	de	P+D	P+D	n=p	7	mod	7	mod
+9	usines	usine	NC	NC	n=p|g=f	8	prep	8	prep
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	dans	dans	P	P		7	mod	7	mod
+12	lesquelles	lequel	PROREL	PROREL	n=p|g=f	11	prep	11	prep
+13	le	le	DET	DET	n=s|g=m	14	det	14	det
+14	pain	pain	NC	NC	n=s|g=m	11	ponct	11	ponct
+15	est	être	V	V	n=s|t=P|p=3	14	ponct	14	ponct
+16	produit	produire	VPP	VPP	n=s|g=m|t=K	15	prep	15	prep
+17	de	de	P	P		16	mod	16	mod
+18	façon	façon	NC	NC	n=s|g=f	17	prep	17	prep
+19	industrielle	industriel	ADJ	ADJ	n=s|g=f	18	mod	18	mod
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+1	Dans	dans	P	P		7	mod	7	mod
+2	les	les	DET	DET	n=p	4	det	4	det
+3	grandes	grand	ADJ	ADJ	n=p|g=f	4	mod	4	mod
+4	surfaces	surface	NC	NC	n=p|g=f	1	prep	1	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	on	on	CLS	CLS	n=s|p=3	7	suj	7	suj
+7	trouve	trouver	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+8	souvent	souvent	ADV	ADV		7	mod	7	mod
+9	des	des	DET	DET	n=p	10	det	10	det
+10	ateliers	atelier	NC	NC	n=p|g=m	7	obj	7	obj
+11	de	de	P	P		10	dep	10	dep
+12	boulangeries	boulangerie	NC	NC	n=p|g=f	11	prep	11	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	dans	dans	P	P		7	mod	7	mod
+15	lesquels	lequel	PROREL	PROREL	n=p|g=m	17	mod	17	mod
+16	on	on	CLS	CLS	n=s|p=3	17	suj	17	suj
+17	cuit	cuire	VPP	VPP	n=s|g=m|t=K	7	mod	7	mod
+18	le	le	DET	DET	n=s|g=m	19	det	19	det
+19	pain	pain	NC	NC	n=s|g=m	17	obj	17	obj
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+1	Certains	certain	DET	DET	n=p|g=m	2	det	2	det
+2	magasins	magasin	NC	NC	n=p|g=m	3	suj	3	suj
+3	ont	avoir	V	V	n=p|t=P|p=3	0	root	0	root
+4	une	une	DET	DET	n=s|g=f	6	det	6	det
+5	vraie	vrai	ADJ	ADJ	n=s|g=f	6	mod	6	mod
+6	boulangerie	boulangerie	NC	NC	n=s|g=f	3	obj	3	obj
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	tandis	tandis	P	P		3	mod	3	mod
+9	que	que	CS	CS		8	prep	8	prep
+10	d'	de	DET	DET	n=p	11	det	11	det
+11	autres	autre	ADJ	ADJ	n=p	12	suj	12	suj
+12	achètent	acheter	V	V	n=p|t=P,S|p=3	9	sub	9	sub
+13	du	de	P+D	P+D	n=s|g=m	12	mod	12	mod
+14	pain	pain	NC	NC	n=s|g=m	13	prep	13	prep
+15	précuit	_	ADV	ADV		14	mod	14	mod
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	produit	produire	VPP	VPP	n=s|g=m|t=K	14	mod	14	mod
+18	par	par	P	P		17	mod	17	mod
+19	des	des	DET	DET	n=p	20	det	20	det
+20	industries	industrie	NC	NC	n=p|g=f	18	prep	18	prep
+21	agro-alimentaires	agro-alimentaire	ADJ	ADJ	n=p	20	mod	20	mod
+22	:	:	PONCT	PONCT		21	ponct	21	ponct
+23	il	il	CLS	CLS	n=s|g=m|p=3	24	suj	24	suj
+24	suffit	suffire	V	V	n=s|t=J,P|p=3	3	mod	3	mod
+25	de	de	P	P		24	obj	24	obj
+26	le	le	CLO	CLO	n=s|g=m|p=3	28	obj	28	obj
+27	faire	faire	VINF	VINF	t=W	28	aux_caus	28	aux_caus
+28	cuire	cuire	VINF	VINF	t=W	25	prep	25	prep
+29	,	,	PONCT	PONCT		28	ponct	28	ponct
+30	il	il	CLS	CLS	n=s|g=m|p=3	33	suj	33	suj
+31	n'	ne	ADV	ADV		33	mod	33	mod
+32	y	y	CLO	CLO		33	aff	33	aff
+33	a	avoir	V	V	n=s|t=P|p=3	3	mod	3	mod
+34	donc	donc	ADV	ADV		33	mod	33	mod
+35	pas	pas	ADV	ADV		33	mod	33	mod
+36	besoin	besoin	NC	NC	n=s|g=m	33	obj	33	obj
+37	de	de	P	P		33	mod	33	mod
+38	tout	tout	ADJ	ADJ	n=s|g=m	40	mod	40	mod
+39	le	le	DET	DET	n=s|g=m	40	det	40	det
+40	matériel	matériel	NC	NC	n=s|g=m	37	prep	37	prep
+41	que	que	PROREL	PROREL		44	obj	44	obj
+42	l'	le	DET	DET	n=s	43	det	43	det
+43	on	on	CLS	CLS	n=s|p=3	44	suj	44	suj
+44	trouve	trouver	V	V	n=s|t=P,S|p=1,3	40	mod_rel	40	mod_rel
+45	normalement	_	ADV	ADV		44	mod	44	mod
+46	dans	dans	P	P		44	mod	44	mod
+47	une	une	DET	DET	n=s|g=f	48	det	48	det
+48	boulangerie	boulangerie	NC	NC	n=s|g=f	46	prep	46	prep
+49	pour	pour	P	P		44	mod	44	mod
+50	pétrir	pétrir	VINF	VINF	t=W	49	prep	49	prep
+51	la	la	DET	DET	n=s|g=f	52	det	52	det
+52	pâte	pâte	NC	NC	n=s|g=f	50	obj	50	obj
+53	,	,	PONCT	PONCT		52	ponct	52	ponct
+54	etc	_	ADV	ADV		50	mod	50	mod
+55	.	.	PONCT	PONCT		54	ponct	54	ponct
+
+1	Ces	ces	DET	DET	n=p	2	det	2	det
+2	ateliers	atelier	NC	NC	n=p|g=m	3	suj	3	suj
+3	permettent	permettre	V	V	n=p|t=P,S|p=3	0	root	0	root
+4	aux	à	P+D	P+D	n=p	3	mod	3	mod
+5	supermarchés	supermarché	NC	NC	n=p|g=m	4	prep	4	prep
+6	de	de	P	P		3	mod	3	mod
+7	proposer	proposer	VINF	VINF	t=W	6	prep	6	prep
+8	du	de	P+D	P+D	n=s|g=m	7	mod	7	mod
+9	pain	pain	NC	NC	n=s|g=m	8	prep	8	prep
+10	fraîchement	_	ADV	ADV		11	mod	11	mod
+11	cuit	cuire	VPP	VPP	n=s|g=m|t=K	9	mod	9	mod
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	à	à	P	P		11	mod	11	mod
+14	faible	faible	ADJ	ADJ	n=s	13	prep	13	prep
+15	prix	prix	NC	NC	g=m	13	prep	13	prep
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	sans	sans	P	P		3	mod	3	mod
+18	avoir	avoir	VINF	VINF	t=W	17	prep	17	prep
+19	besoin	besoin	NC	NC	n=s|g=m	18	obj	18	obj
+20	de	de	P	P		18	mod	18	mod
+21	trop	trop	ADV	ADV		0	_	0	_
+22	de	de	P	P		0	_	0	_
+23	place	place	NC	NC	n=s|g=f	22	prep	22	prep
+24	.	.	PONCT	PONCT		23	ponct	23	ponct
+
+1	De	de	P	P		6	mod	6	mod
+2	nos	nos	DET	DET	n=p|p=1|poss=p	3	det	3	det
+3	jours	jour	NC	NC	n=p|g=m	1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	il	il	CLS	CLS	n=s|g=m|p=3	6	suj	6	suj
+6	existe	exister	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+7	des	des	DET	DET	n=p	8	det	8	det
+8	boutiques	boutique	NC	NC	n=p|g=f	6	obj	6	obj
+9	qui	qui	PROREL	PROREL	n=s	10	suj	10	suj
+10	proposent	proposer	V	V	n=p|t=P,S|p=3	8	mod_rel	8	mod_rel
+11	un	un	DET	DET	n=s|g=m	12	det	12	det
+12	type	type	NC	NC	n=s|g=m	10	obj	10	obj
+13	de	de	P	P		12	dep	12	dep
+14	pain	pain	NC	NC	n=s|g=m	13	prep	13	prep
+15	nouveau	nouveau	ADJ	ADJ	n=s|g=m	14	mod	14	mod
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	très	très	ADV	ADV		18	mod	18	mod
+18	bon	bon	ADJ	ADJ	n=s|g=m	12	mod	12	mod
+19	marché	marché	NC	NC	n=s|g=m	12	mod	12	mod
+20	:	:	PONCT	PONCT		19	ponct	19	ponct
+21	ces	ces	DET	DET	n=p	22	det	22	det
+22	boutiques	boutique	NC	NC	n=p|g=f	23	suj	23	suj
+23	disposent	disposer	V	V	n=p|t=P,S|p=3	6	mod	6	mod
+24	d'	de	P	P		23	mod	23	mod
+25	un	un	DET	DET	n=s|g=m	26	det	26	det
+26	four	four	NC	NC	n=s|g=m	24	prep	24	prep
+27	,	,	PONCT	PONCT		26	ponct	26	ponct
+28	mais	mais	CC	CC		23	coord	23	coord
+29	pas	pas	ADV	ADV		28	dep_coord	28	dep_coord
+30	d'	de	P	P		28	dep_coord	28	dep_coord
+31	un	un	DET	DET	n=s|g=m	32	det	32	det
+32	laboratoire	laboratoire	NC	NC	n=s|g=m	30	prep	30	prep
+33	ou	ou	CC	CC		30	coord	30	coord
+34	d'	de	P	P		33	dep_coord	33	dep_coord
+35	un	un	DET	DET	n=s|g=m	36	det	36	det
+36	atelier	atelier	NC	NC	n=s|g=m	34	prep	34	prep
+37	pour	pour	P	P		28	dep_coord	28	dep_coord
+38	préparer	préparer	VINF	VINF	t=W	37	prep	37	prep
+39	la	la	DET	DET	n=s|g=f	40	det	40	det
+40	pâte	pâte	NC	NC	n=s|g=f	38	obj	38	obj
+41	:	:	PONCT	PONCT		40	ponct	40	ponct
+42	la	la	DET	DET	n=s|g=f	43	det	43	det
+43	pâte	pâte	NC	NC	n=s|g=f	23	mod	23	mod
+44	est	être	V	V	n=s|t=P|p=3	0	_	0	_
+45	achetée	acheter	VPP	VPP	n=s|g=f|t=K	0	_	0	_
+46	toute	toute	ADV	ADV		47	mod	47	mod
+47	faite	faire	VPP	VPP	n=s|g=f|t=K	45	mod	45	mod
+48	,	,	PONCT	PONCT		47	ponct	47	ponct
+49	surgelée	surgeler	VPP	VPP	n=s|g=f|t=K	47	coord	47	coord
+50	,	,	PONCT	PONCT		49	ponct	49	ponct
+51	il	il	CLS	CLS	n=s|g=m|p=3	0	_	0	_
+52	n'	ne	ADV	ADV		0	_	0	_
+53	y	y	CLO	CLO		0	_	0	_
+54	a	avoir	V	V	n=s|t=P|p=3	0	_	0	_
+55	plus	plus	ADV	ADV		54	mod	54	mod
+56	qu'	que	CS	CS		54	ats	54	ats
+57	à	à	P	P		56	sub	56	sub
+58	la	la	CLO	CLO	n=s|g=f|p=3	60	obj	60	obj
+59	faire	faire	VINF	VINF	t=W	60	aux_caus	60	aux_caus
+60	cuire	cuire	VINF	VINF	t=W	57	prep	57	prep
+61	.	.	PONCT	PONCT		60	ponct	60	ponct
+
+1	Cela	cela	PRO	PRO	n=s|g=m	2	suj	2	suj
+2	permet	permettre	V	V	n=s|t=P|p=3	0	root	0	root
+3	de	de	P	P		2	obj	2	obj
+4	faire	faire	VINF	VINF	t=W	5	aux_caus	5	aux_caus
+5	gagner	gagner	VINF	VINF	t=W	3	prep	3	prep
+6	beaucoup	beaucoup	ADV	ADV		5	mod	5	mod
+7	de	de	P	P		5	mod	5	mod
+8	temps	temps	NC	NC	g=m	7	prep	7	prep
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	car	car	CS	CS		2	mod	2	mod
+11	un	un	DET	DET	n=s|g=m	12	det	12	det
+12	boulanger	boulanger	NC	NC	n=s|g=m	15	suj	15	suj
+13	est	être	V	V	n=s|t=P|p=3	15	aux_pass	15	aux_pass
+14	normalement	_	ADV	ADV		15	mod	15	mod
+15	obligé	obliger	VPP	VPP	n=s|g=m|t=K	10	sub	10	sub
+16	de	de	P	P		15	mod	15	mod
+17	se	se	CLR	CLR	n=p,s|p=3	18	aff	18	aff
+18	lever	lever	VINF	VINF	t=W	16	prep	16	prep
+19	très	très	ADV	ADV		18	mod	18	mod
+20	tôt	tôt	ADV	ADV		18	mod	18	mod
+21	pour	pour	P	P		18	mod	18	mod
+22	préparer	préparer	VINF	VINF	t=W	21	prep	21	prep
+23	son	son	DET	DET	n=s|g=m|p=3|poss=s	24	det	24	det
+24	pain	pain	NC	NC	n=s|g=m	22	obj	22	obj
+25	:	:	PONCT	PONCT		24	ponct	24	ponct
+26	là	là	ADV	ADV		18	mod	18	mod
+27	,	,	PONCT	PONCT		26	ponct	26	ponct
+28	ce	ce	CLS	CLS		30	suj	30	suj
+29	n'	ne	ADV	ADV		30	mod	30	mod
+30	est	être	V	V	n=s|t=P|p=3	10	root	10	root
+31	plus	plus	ADV	ADV		30	mod	30	mod
+32	la	la	DET	DET	n=s|g=f	33	det	33	det
+33	peine	peine	NC	NC	n=s|g=f	30	obj	30	obj
+34	.	.	PONCT	PONCT		33	ponct	33	ponct
+
+1	En	en	P	P		10	mod	10	mod
+2	France	France	NPP	NPP	n=s|g=f,m	1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	loi	loi	NC	NC	n=s|g=f	10	suj	10	suj
+6	du	de	P+D	P+D	n=s|g=m	5	dep	5	dep
+7	25	25	ADJ	ADJ		8	mod	8	mod
+8	mai	mai	NC	NC	n=s|g=m	6	prep	6	prep
+9	19985	19985	NC	NC		8	mod	8	mod
+10	interdit	interdire	V	V	n=s|t=J,P|p=3	0	root	0	root
+11	à	à	P	P		10	mod	10	mod
+12	ces	ces	DET	DET	n=p	13	det	13	det
+13	boutiques	boutique	NC	NC	n=p|g=f	11	prep	11	prep
+14	de	de	P	P		10	mod	10	mod
+15	se	se	CLR	CLR	n=p,s|p=3	17	obj	17	obj
+16	faire	faire	VINF	VINF	t=W	17	aux_caus	17	aux_caus
+17	appeler	appeler	VINF	VINF	t=W	14	prep	14	prep
+18	«_	"	PONCT	PONCT		17	ponct	17	ponct
+19	boulangerie	boulangerie	NC	NC	n=s|g=f	17	obj	17	obj
+20	_»	"	PONCT	PONCT		19	ponct	19	ponct
+21	:	:	PONCT	PONCT		19	ponct	19	ponct
+22	une	une	DET	DET	n=s|g=f	23	det	23	det
+23	boulangerie	boulangerie	NC	NC	n=s|g=f	24	suj	24	suj
+24	est	être	V	V	n=s|t=P|p=3	10	mod	10	mod
+25	un	un	DET	DET	n=s|g=m	26	det	26	det
+26	endroit	endroit	NC	NC	n=s|g=m	24	obj	24	obj
+27	où	où	PROREL	PROREL		32	mod	32	mod
+28	le	le	DET	DET	n=s|g=m	29	det	29	det
+29	pain	pain	NC	NC	n=s|g=m	32	suj	32	suj
+30	est	être	V	V	n=s|t=P|p=3	32	aux_pass	32	aux_pass
+31	entièrement	_	ADV	ADV		32	mod	32	mod
+32	préparé	préparer	VPP	VPP	n=s|g=m|t=K	26	mod_rel	26	mod_rel
+33	et	et	CC	CC		32	coord	32	coord
+34	cuit	cuire	VPP	VPP	n=s|g=m|t=K	33	dep_coord	33	dep_coord
+35	sur	sur	P	P		32	mod	32	mod
+36	place	place	NC	NC	n=s|g=f	35	prep	35	prep
+37	,	,	PONCT	PONCT		36	ponct	36	ponct
+38	y	y	CLO	CLO		39	mod	39	mod
+39	compris	comprendre	VPP	VPP	g=m|t=K	24	mod	24	mod
+40	la	la	DET	DET	n=s|g=f	41	det	41	det
+41	pâte	pâte	NC	NC	n=s|g=f	39	obj	39	obj
+42	,	,	PONCT	PONCT		41	ponct	41	ponct
+43	et	et	CC	CC		24	coord	24	coord
+44	seuls	seul	ADJ	ADJ	n=p|g=m	46	mod	46	mod
+45	les	les	DET	DET	n=p	46	det	46	det
+46	commerçants	commerçant	NC	NC	n=p|g=m	0	_	0	_
+47	qui	qui	PROREL	PROREL	n=s	0	_	0	_
+48	le	le	CLO	CLO	n=s|g=m|p=3	0	_	0	_
+49	font	faire	V	V	n=p|t=P|p=3	0	_	0	_
+50	ont	avoir	V	V	n=p|t=P|p=3	49	mod_rel	49	mod_rel
+51	le	le	DET	DET	n=s|g=m	52	det	52	det
+52	droit	droit	NC	NC	n=s|g=m	50	obj	50	obj
+53	de	de	P	P		52	dep	52	dep
+54	s'	se	CLR	CLR	n=p,s|p=3	0	_	0	_
+55	appeler	appeler	VINF	VINF	t=W	0	_	0	_
+56	boulangerie	boulangerie	NC	NC	n=s|g=f	55	obj	55	obj
+57	.	.	PONCT	PONCT		56	ponct	56	ponct
+
+1	Ceux	ceux	PRO	PRO	n=p|g=m	11	suj	11	suj
+2	qui	qui	PROREL	PROREL	n=s	3	suj	3	suj
+3	font	faire	V	V	n=p|t=P|p=3	1	mod_rel	1	mod_rel
+4	cuire	cuire	VINF	VINF	t=W	3	obj	3	obj
+5	du	de	P+D	P+D	n=s|g=m	4	mod	4	mod
+6	pain	pain	NC	NC	n=s|g=m	5	prep	5	prep
+7	qu'	que	PROREL	PROREL		9	obj	9	obj
+8	ils	ils	CLS	CLS	n=p|g=m|p=3	9	suj	9	suj
+9	achètent	acheter	V	V	n=p|t=P,S|p=3	6	mod_rel	6	mod_rel
+10	surgelé	surgeler	VPP	VPP	n=s|g=m|t=K	9	mod	9	mod
+11	choisissent	choisir	V	V	n=p|t=P,S|p=3	0	root	0	root
+12	souvent	souvent	ADV	ADV		11	mod	11	mod
+13	de	de	P	P		11	mod	11	mod
+14	s'	se	CLR	CLR	n=p,s|p=3	15	aff	15	aff
+15	appeler	appeler	VINF	VINF	t=W	13	prep	13	prep
+16	«_	"	PONCT	PONCT		15	ponct	15	ponct
+17	point	point	NC	NC	n=s|g=m	15	obj	15	obj
+18	chaud	chaud	ADJ	ADJ	n=s|g=m	17	mod	17	mod
+19	_»	"	PONCT	PONCT		18	ponct	18	ponct
+20	,	,	PONCT	PONCT		18	ponct	18	ponct
+21	ou	ou	CC	CC		11	coord	11	coord
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+23	parfois	parfois	ADV	ADV		21	mod	21	mod
+24	,	,	PONCT	PONCT		23	ponct	23	ponct
+25	«_	"	PONCT	PONCT		23	ponct	23	ponct
+26	viennoiserie	_	NC	NC		0	_	0	_
+27	_»	"	PONCT	PONCT		26	ponct	26	ponct
+28	6	6	NC	NC		26	mod	26	mod
+
+1	D'	de	DET	DET	n=p	3	det	3	det
+2	autres	autre	ADJ	ADJ	n=p	3	mod	3	mod
+3	sociétés	société	NC	NC	n=p|g=f	4	suj	4	suj
+4	développent	développer	V	V	n=p|t=P,S|p=3	0	root	0	root
+5	des	des	DET	DET	n=p	6	det	6	det
+6	franchises	franchise	NC	NC	n=p|g=f	4	obj	4	obj
+7	de	de	P	P		6	dep	6	dep
+8	boulangeries	boulangerie	NC	NC	n=p|g=f	7	prep	7	prep
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	comme	comme	P	P		4	mod	4	mod
+11	Paul	Paul	NPP	NPP	n=s|g=m	10	prep	10	prep
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	ou	ou	CC	CC		4	coord	4	coord
+14	la	la	DET	DET	n=s|g=f	15	det	15	det
+15	Brioche	_	NPP	NPP		27	suj	27	suj
+16	dorée	dorer	VPP	VPP	n=s|g=f|t=K	15	mod	15	mod
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	qui	qui	PROREL	PROREL	n=s	19	suj	19	suj
+19	combinent	combiner	V	V	n=p|t=P,S|p=3	15	mod_rel	15	mod_rel
+20	boulangerie	boulangerie	NC	NC	n=s|g=f	19	obj	19	obj
+21	et	et	CC	CC		20	coord	20	coord
+22	restauration	restauration	NC	NC	n=s|g=f	21	dep_coord	21	dep_coord
+23	rapide	rapide	ADJ	ADJ	n=s	20	mod	20	mod
+24	:	:	PONCT	PONCT		23	ponct	23	ponct
+25	ces	ces	DET	DET	n=p	26	det	26	det
+26	magasins	magasin	NC	NC	n=p|g=m	19	mod	19	mod
+27	ressemblent	ressembler	V	V	n=p|t=P,S|p=3	13	dep_coord	13	dep_coord
+28	davantage	davantage	ADV	ADV		27	mod	27	mod
+29	à	à	P	P		27	mod	27	mod
+30	des	des	DET	DET	n=p	31	det	31	det
+31	boulangeries	boulangerie	NC	NC	n=p|g=f	29	prep	29	prep
+32	traditionnelles	traditionnel	ADJ	ADJ	n=p|g=f	31	mod	31	mod
+33	,	,	PONCT	PONCT		32	ponct	32	ponct
+34	et	et	CC	CC		27	coord	27	coord
+35	vendent	vendre	V	V	n=p|t=P,S|p=3	34	dep_coord	34	dep_coord
+36	du	de	P+D	P+D	n=s|g=m	35	mod	35	mod
+37	pain	pain	NC	NC	n=s|g=m	36	prep	36	prep
+38	et	et	CC	CC		36	coord	36	coord
+39	des	de	P+D	P+D	n=p	38	dep_coord	38	dep_coord
+40	viennoiseries	_	NC	NC		39	prep	39	prep
+41	,	,	PONCT	PONCT		40	ponct	40	ponct
+42	mais	mais	CC	CC		35	coord	35	coord
+43	aussi	aussi	ADV	ADV		42	mod	42	mod
+44	des	de	P+D	P+D	n=p	42	dep_coord	42	dep_coord
+45	sandwichs	_	NC	NC		44	prep	44	prep
+46	,	,	PONCT	PONCT		45	ponct	45	ponct
+47	des	des	DET	DET	n=p	48	det	48	det
+48	pizzas	pizza	NC	NC	n=p|g=f	35	obj	35	obj
+49	...	...	PONCT	PONCT		48	ponct	48	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	fabrication	fabrication	NC	NC	n=s|g=f	8	suj	8	suj
+3	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+4	pain	pain	NC	NC	n=s|g=m	3	prep	3	prep
+5	en	en	P	P		4	dep	4	dep
+6	grande	grand	ADJ	ADJ	n=s|g=f	7	mod	7	mod
+7	quantité	quantité	NC	NC	n=s|g=f	5	prep	5	prep
+8	nécessite	nécessiter	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+9	du	du	DET	DET	n=s|g=m	10	det	10	det
+10	matériel	matériel	NC	NC	n=s|g=m	8	obj	8	obj
+11	et	et	CC	CC		8	coord	8	coord
+12	des	de	P+D	P+D	n=p	11	dep_coord	11	dep_coord
+13	équipements	équipement	NC	NC	n=p|g=m	12	prep	12	prep
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+1	Dans	dans	P	P		6	mod	6	mod
+2	une	une	DET	DET	n=s|g=f	3	det	3	det
+3	boulangerie	boulangerie	NC	NC	n=s|g=f	1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	on	on	CLS	CLS	n=s|p=3	6	suj	6	suj
+6	trouve	trouver	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+7	en	en	P	P		6	mod	6	mod
+8	général	général	NC	NC	n=s|g=m	7	prep	7	prep
+9	un	un	DET	DET	n=s|g=m	10	det	10	det
+10	atelier	atelier	NC	NC	n=s|g=m	6	obj	6	obj
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	équipé	équiper	VPP	VPP	n=s|g=m|t=K	10	mod	10	mod
+13	d'	de	P	P		12	mod	12	mod
+14	un	un	DET	DET	n=s|g=m	16	det	16	det
+15	certain	certain	ADJ	ADJ	n=s|g=m	16	mod	16	mod
+16	nombre	nombre	NC	NC	n=s|g=m	13	prep	13	prep
+17	de	de	P	P		16	dep	16	dep
+18	machines	machine	NC	NC	n=p|g=f	17	prep	17	prep
+19	:	:	PONCT	PONCT		18	ponct	18	ponct
+
+1	Pour	pour	P	P		7	mod	7	mod
+2	fabriquer	fabriquer	VINF	VINF	t=W	1	prep	1	prep
+3	du	de	P+D	P+D	n=s|g=m	2	mod	2	mod
+4	pain	pain	NC	NC	n=s|g=m	3	prep	3	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	il	il	CLS	CLS	n=s|g=m|p=3	7	suj	7	suj
+7	faut	falloir	V	V	n=s|t=P|p=3	0	root	0	root
+8	de	de	P	P		7	mod	7	mod
+9	la	la	DET	DET	n=s|g=f	10	det	10	det
+10	pâte	pâte	NC	NC	n=s|g=f	8	prep	8	prep
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	une	une	DET	DET	n=s|g=f	13	det	13	det
+13	pâte	pâte	NC	NC	n=s|g=f	7	obj	7	obj
+14	levée	lever	VPP	VPP	n=s|g=f|t=K	13	mod	13	mod
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	c'	ce	CLS	CLS		17	suj	17	suj
+17	est	être	V	V	n=s|t=P|p=3	7	mod	7	mod
+18	à	à	P	P		17	mod	17	mod
+19	dire	dire	VINF	VINF	t=W	18	prep	18	prep
+20	une	une	DET	DET	n=s|g=f	21	det	21	det
+21	pâte	pâte	NC	NC	n=s|g=f	19	obj	19	obj
+22	que	que	PROREL	PROREL		27	mod	27	mod
+23	l'	le	DET	DET	n=s	24	det	24	det
+24	on	on	CLS	CLS	n=s|p=3	27	suj	27	suj
+25	a	avoir	V	V	n=s|t=P|p=3	27	aux_tps	27	aux_tps
+26	laissé	laisser	VPP	VPP	n=s|g=m|t=K	27	aux_pass	27	aux_pass
+27	reposé	reposer	VPP	VPP	n=s|g=m|t=K	21	mod_rel	21	mod_rel
+28	,	,	PONCT	PONCT		27	ponct	27	ponct
+29	le	le	DET	DET	n=s|g=m	30	det	30	det
+30	temps	temps	NC	NC	g=m	27	mod	27	mod
+31	que	que	CS	CS		27	mod	27	mod
+32	les	les	DET	DET	n=p	33	det	33	det
+33	micro-organismes	micro-organisme	NC	NC	n=p|g=m	0	_	0	_
+34	présents	présent	ADJ	ADJ	n=p|g=m	33	mod	33	mod
+35	dans	dans	P	P		33	dep	33	dep
+36	la	la	DET	DET	n=s|g=f	37	det	37	det
+37	levure	levure	NC	NC	n=s|g=f	35	prep	35	prep
+38	ou	ou	CC	CC		33	coord	33	coord
+39	le	le	DET	DET	n=s|g=m	40	det	40	det
+40	levain	levain	NC	NC	n=s|g=m	38	dep_coord	38	dep_coord
+41	la	la	DET	DET	n=s|g=f	0	_	0	_
+42	fassent	faire	VS	VS	n=p|t=S|p=3	0	_	0	_
+43	gonfler	gonfler	VINF	VINF	t=W	42	obj	42	obj
+44	.	.	PONCT	PONCT		43	ponct	43	ponct
+
+1	Pour	pour	P	P		6	mod	6	mod
+2	cela	cela	PRO	PRO	n=s|g=m	1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	le	le	DET	DET	n=s|g=m	5	det	5	det
+5	boulanger	boulanger	NC	NC	n=s|g=m	6	suj	6	suj
+6	dispose	disposer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+7	d'	de	P	P		6	mod	6	mod
+8	une	une	DET	DET	n=s|g=f	9	det	9	det
+9	chambre	chambre	NC	NC	n=s|g=f	7	prep	7	prep
+10	de	de	P	P		6	mod	6	mod
+11	pousse	pousse	NC	NC	n=s|g=f	10	prep	10	prep
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	une	une	DET	DET	n=s|g=f	14	det	14	det
+14	pièce	pièce	NC	NC	n=s|g=f	6	obj	6	obj
+15	gardée	garder	VPP	VPP	n=s|g=f|t=K	14	mod	14	mod
+16	à	à	P	P		15	mod	15	mod
+17	la	la	DET	DET	n=s|g=f	19	det	19	det
+18	bonne	bon	ADJ	ADJ	n=s|g=f	19	mod	19	mod
+19	température	température	NC	NC	n=s|g=f	16	prep	16	prep
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	dans	dans	P	P		6	mod	6	mod
+22	laquelle	lequel	PROREL	PROREL	n=s|g=f	24	mod	24	mod
+23	il	il	CLS	CLS	n=s|g=m|p=3	24	suj	24	suj
+24	peut	pouvoir	V	V	n=s|t=P|p=3	6	mod	6	mod
+25	déposer	déposer	VINF	VINF	t=W	24	obj	24	obj
+26	ses	ses	DET	DET	n=p|p=3|poss=s	27	det	27	det
+27	pâtons	pâton	NC	NC	n=p|g=m	25	obj	25	obj
+28	de	de	P	P		27	dep	27	dep
+29	pâte	pâte	NC	NC	n=s|g=f	28	prep	28	prep
+30	,	,	PONCT	PONCT		29	ponct	29	ponct
+31	le	le	DET	DET	n=s|g=m	32	det	32	det
+32	temps	temps	NC	NC	g=m	6	obj	6	obj
+33	qu'	que	PROREL	PROREL		35	obj	35	obj
+34	ils	ils	CLS	CLS	n=p|g=m|p=3	35	suj	35	suj
+35	lèvent	lever	V	V	n=p|t=P,S|p=3	32	mod_rel	32	mod_rel
+36	.	.	PONCT	PONCT		35	ponct	35	ponct
+
+1	Beaucoup	beaucoup	ADV	ADV		3	mod	3	mod
+2	de	de	P	P		3	det	3	det
+3	boulangeries	boulangerie	NC	NC	n=p|g=f	5	suj	5	suj
+4	modernes	moderne	ADJ	ADJ	n=p	3	mod	3	mod
+5	ont	avoir	V	V	n=p|t=P|p=3	0	root	0	root
+6	aussi	aussi	ADV	ADV		5	mod	5	mod
+7	une	une	DET	DET	n=s|g=f	8	det	8	det
+8	chambre	chambre	NC	NC	n=s|g=f	5	obj	5	obj
+9	froide	froid	ADJ	ADJ	n=s|g=f	8	mod	8	mod
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	une	une	DET	DET	n=s|g=f	12	det	12	det
+12	pièce	pièce	NC	NC	n=s|g=f	5	obj	5	obj
+13	réfrigérée	réfrigérer	VPP	VPP	n=s|g=f|t=K	12	mod	12	mod
+14	dans	dans	P	P		13	mod	13	mod
+15	laquelle	lequel	PROREL	PROREL	n=s|g=f	17	mod	17	mod
+16	on	on	CLS	CLS	n=s|p=3	17	suj	17	suj
+17	conserve	conserver	V	V	n=s|t=P,S|p=1,3	12	mod_rel	12	mod_rel
+18	les	les	DET	DET	n=p	19	det	19	det
+19	aliments	aliment	NC	NC	n=p|g=m	17	obj	17	obj
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	farine	farine	NC	NC	n=s|g=f	6	suj	6	suj
+3	et	et	CC	CC		2	coord	2	coord
+4	les	les	DET	DET	n=p	5	det	5	det
+5	céréales	céréale	NC	NC	n=p|g=f	3	dep_coord	3	dep_coord
+6	peuvent	pouvoir	V	V	n=p|t=P|p=3	0	root	0	root
+7	également	_	ADV	ADV		6	mod	6	mod
+8	être	être	VINF	VINF	t=W	6	obj	6	obj
+9	conservés	conserver	VPP	VPP	n=p|g=m|t=K	8	dep	8	dep
+10	au	à	P+D	P+D	n=s|g=m	9	mod	9	mod
+11	froid	froid	NC	NC	n=s|g=m	10	prep	10	prep
+12	:	:	PONCT	PONCT		11	ponct	11	ponct
+13	en	en	P	P		8	mod	8	mod
+14	effet	effet	NC	NC	n=s|g=m	13	prep	13	prep
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	le	le	DET	DET	n=s|g=m	17	det	17	det
+17	froid	froid	NC	NC	n=s|g=m	18	suj	18	suj
+18	protège	protéger	V	V	n=s|t=P,S|p=1,3	6	mod	6	mod
+19	les	les	DET	DET	n=p	20	det	20	det
+20	aliments	aliment	NC	NC	n=p|g=m	18	obj	18	obj
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	et	et	CC	CC		18	coord	18	coord
+23	permet	permettre	V	V	n=s|t=P|p=3	22	dep_coord	22	dep_coord
+24	de	de	P	P		23	obj	23	obj
+25	se	se	CLR	CLR	n=p,s|p=3	26	aff	26	aff
+26	débarrasser	débarrasser	VINF	VINF	t=W	24	prep	24	prep
+27	des	des	DET	DET	n=p	28	det	28	det
+28	parasites	parasite	NC	NC	n=p	26	obj	26	obj
+29	,	,	PONCT	PONCT		28	ponct	28	ponct
+30	comme	comme	P	P		23	mod	23	mod
+31	le	le	DET	DET	n=s|g=m	32	det	32	det
+32	charançon	charançon	NC	NC	n=s|g=m	30	prep	30	prep
+33	du	de	P+D	P+D	n=s|g=m	32	dep	32	dep
+34	blé	blé	NC	NC	n=s|g=m	33	prep	33	prep
+35	,	,	PONCT	PONCT		34	ponct	34	ponct
+36	par	par	P	P		23	mod	23	mod
+37	exemple	exemple	NC	NC	n=s|g=m	36	prep	36	prep
+38	.	.	PONCT	PONCT		37	ponct	37	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	boulanger	boulanger	NC	NC	n=s|g=m	3	suj	3	suj
+3	doit	devoir	V	V	n=s|t=P|p=3	0	root	0	root
+4	d'	de	P	P		3	mod	3	mod
+5	abord	abord	NC	NC	n=s|g=m	4	prep	4	prep
+6	préparer	préparer	VINF	VINF	t=W	3	obj	3	obj
+7	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	8	det	8	det
+8	pâte	pâte	NC	NC	n=s|g=f	6	obj	6	obj
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	en	en	P	P		3	mod	3	mod
+11	mélangeant	mélanger	VPR	VPR	t=G	10	prep	10	prep
+12	les	les	DET	DET	n=p	14	det	14	det
+13	différents	différent	ADJ	ADJ	n=p|g=m	14	mod	14	mod
+14	ingrédients	ingrédient	NC	NC	n=p|g=m	11	obj	11	obj
+15	:	:	PONCT	PONCT		14	ponct	14	ponct
+16	c'	ce	CLS	CLS		17	suj	17	suj
+17	est	être	V	V	n=s|t=P|p=3	3	mod	3	mod
+18	le	le	DET	DET	n=s|g=m	19	det	19	det
+19	pétrissage	pétrissage	NC	NC	n=s|g=m	17	obj	17	obj
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	pâte	pâte	NC	NC	n=s|g=f	14	suj	14	suj
+3	à	à	P	P		2	dep	2	dep
+4	pain	pain	NC	NC	n=s|g=m	3	prep	3	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	constituée	constituer	VPP	VPP	n=s|g=f|t=K	2	mod	2	mod
+7	principalement	_	ADV	ADV		6	mod	6	mod
+8	de	de	P	P		6	mod	6	mod
+9	farine	farine	NC	NC	n=s|g=f	8	prep	8	prep
+10	et	et	CC	CC		8	coord	8	coord
+11	d'	de	P	P		10	dep_coord	10	dep_coord
+12	eau	eau	NC	NC	n=s|g=f	11	prep	11	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+15	très	très	ADV	ADV		16	mod	16	mod
+16	élastique	élastique	ADJ	ADJ	n=s	14	ats	14	ats
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	notamment	_	ADV	ADV		19	mod	19	mod
+19	en	en	P	P		14	mod	14	mod
+20	raison	raison	NC	NC	n=s|g=f	19	prep	19	prep
+21	de	de	P	P		14	mod	14	mod
+22	la	la	DET	DET	n=s|g=f	23	det	23	det
+23	présence	présence	NC	NC	n=s|g=f	21	prep	21	prep
+24	de	de	P	P		14	mod	14	mod
+25	gluten	gluten	NC	NC	n=s|g=m	24	prep	24	prep
+26	.	.	PONCT	PONCT		25	ponct	25	ponct
+
+1	De	de	P	P		5	mod	5	mod
+2	plus	plus	ADV	ADV		5	mod	5	mod
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	compte	compte	NC	NC	n=s|g=m	5	mod	5	mod
+5	tenu	tenir	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+6	de	de	P	P		5	mod	5	mod
+7	la	la	DET	DET	n=s|g=f	8	det	8	det
+8	quantité	quantité	NC	NC	n=s|g=f	6	prep	6	prep
+9	à	à	P	P		5	mod	5	mod
+10	préparer	préparer	VINF	VINF	t=W	9	prep	9	prep
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	elle	elle	CLS	CLS	n=s|g=f|p=3	13	suj	13	suj
+13	est	être	V	V	n=s|t=P|p=3	5	mod	5	mod
+14	assez	assez	ADV	ADV		13	mod	13	mod
+15	lourde	lourd	ADJ	ADJ	n=s|g=f	13	ats	13	ats
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	pétrissage	pétrissage	NC	NC	n=s|g=m	6	suj	6	suj
+3	de	de	P	P		2	dep	2	dep
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	pâte	pâte	NC	NC	n=s|g=f	3	prep	3	prep
+6	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+7	un	un	DET	DET	n=s|g=m	8	det	8	det
+8	travail	travail	NC	NC	n=s|g=m	6	obj	6	obj
+9	long	long	ADJ	ADJ	n=s|g=m	8	mod	8	mod
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	difficile	difficile	ADJ	ADJ	n=s	8	mod	8	mod
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	et	et	CC	CC		6	coord	6	coord
+14	fatiguant	fatiguer	VPR	VPR	t=G	6	mod	6	mod
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	que	que	CS	CS		14	mod	14	mod
+17	l'	le	DET	DET	n=s	18	det	18	det
+18	on	on	CLS	CLS	n=s|p=3	19	suj	19	suj
+19	réalise	réaliser	V	V	n=s|t=P,S|p=1,3	16	sub	16	sub
+20	dans	dans	P	P		19	mod	19	mod
+21	un	un	DET	DET	n=s|g=m	22	det	22	det
+22	pétrin	pétrin	NC	NC	n=s|g=m	20	prep	20	prep
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+1	Aujourd'hui	aujourd'hui	ADV	ADV		6	mod	6	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	beaucoup	beaucoup	ADV	ADV		4	mod	4	mod
+4	de	de	P	P		6	mod	6	mod
+5	pétrins	pétrin	NC	NC	n=p|g=m	4	prep	4	prep
+6	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+7	électriques	électrique	ADJ	ADJ	n=p	6	ats	6	ats
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	ce	ce	PRO	PRO	n=s	6	mod	6	mod
+10	qui	qui	PROREL	PROREL	n=s	11	suj	11	suj
+11	facilite	faciliter	V	V	n=s|t=P,S|p=1,3	9	mod_rel	9	mod_rel
+12	beaucoup	beaucoup	ADV	ADV		11	mod	11	mod
+13	le	le	DET	DET	n=s|g=m	14	det	14	det
+14	travail	travail	NC	NC	n=s|g=m	11	obj	11	obj
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+1	Enfin	enfin	ADV	ADV		11	mod	11	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	pour	pour	P	P		11	mod	11	mod
+4	pouvoir	pouvoir	VINF	VINF	t=W	5	aux_caus	5	aux_caus
+5	faire	faire	VINF	VINF	t=W	3	prep	3	prep
+6	cuire	cuire	VINF	VINF	t=W	5	obj	5	obj
+7	le	le	DET	DET	n=s|g=m	8	det	8	det
+8	pain	pain	NC	NC	n=s|g=m	6	obj	6	obj
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	il	il	CLS	CLS	n=s|g=m|p=3	11	suj	11	suj
+11	faut	falloir	V	V	n=s|t=P|p=3	0	root	0	root
+12	un	un	DET	DET	n=s|g=m	13	det	13	det
+13	four	four	NC	NC	n=s|g=m	11	obj	11	obj
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	four	four	NC	NC	n=s|g=m	5	suj	5	suj
+3	à	à	P	P		2	dep	2	dep
+4	pain	pain	NC	NC	n=s|g=m	3	prep	3	prep
+5	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+6	beaucoup	beaucoup	ADV	ADV		5	mod	5	mod
+7	plus	plus	ADV	ADV		8	mod	8	mod
+8	grand	grand	ADJ	ADJ	n=s|g=m	5	ats	5	ats
+9	que	que	CS	CS		5	mod	5	mod
+10	le	le	DET	DET	n=s|g=m	11	det	11	det
+11	four	four	NC	NC	n=s|g=m	0	_	0	_
+12	que	que	PROREL	PROREL		15	obj	15	obj
+13	l'	le	DET	DET	n=s	14	det	14	det
+14	on	on	CLS	CLS	n=s|p=3	15	suj	15	suj
+15	a	avoir	V	V	n=s|t=P|p=3	11	mod_rel	11	mod_rel
+16	dans	dans	P	P		15	mod	15	mod
+17	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	18	det	18	det
+18	cuisine	cuisine	NC	NC	n=s|g=f	16	prep	16	prep
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	par	par	P	P		15	mod	15	mod
+21	exemple	exemple	NC	NC	n=s|g=m	20	prep	20	prep
+22	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	était	être	V	V	n=s|t=I|p=3	0	root	0	root
+3	autrefois	autrefois	ADV	ADV		2	mod	2	mod
+4	en	en	P	P		2	mod	2	mod
+5	pierre	pierre	NC	NC	n=s|g=f	4	prep	4	prep
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	avec	avec	P	P		2	mod	2	mod
+8	une	une	DET	DET	n=s|g=f	9	det	9	det
+9	cheminée	cheminée	NC	NC	n=s|g=f	7	prep	7	prep
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	car	car	CS	CS		2	mod	2	mod
+12	il	il	CLS	CLS	n=s|g=m|p=3	13	suj	13	suj
+13	chauffait	chauffer	V	V	n=s|t=I|p=3	11	sub	11	sub
+14	grâce	grâce	NC	NC	n=s|g=f	13	obj	13	obj
+15	à	à	P	P		13	mod	13	mod
+16	un	un	DET	DET	n=s|g=m	17	det	17	det
+17	feu	feu	NC	NC	n=s|g=m	15	prep	15	prep
+18	de	de	P	P		13	mod	13	mod
+19	bois	bois	NC	NC	g=m	18	prep	18	prep
+20	:	:	PONCT	PONCT		19	ponct	19	ponct
+21	le	le	DET	DET	n=s|g=m	22	det	22	det
+22	four	four	NC	NC	n=s|g=m	13	mod	13	mod
+23	était	être	V	V	n=s|t=I|p=3	24	aux_tps	24	aux_tps
+24	divisé	diviser	VPP	VPP	n=s|g=m|t=K	22	mod_rel	22	mod_rel
+25	en	en	P	P		24	mod	24	mod
+26	deux	deux	PRO	PRO	s=card|n=p	25	prep	25	prep
+27	,	,	PONCT	PONCT		26	ponct	26	ponct
+28	par	par	P	P		24	mod	24	mod
+29	une	une	DET	DET	n=s|g=f	30	det	30	det
+30	dalle	dalle	NC	NC	n=s|g=f	28	prep	28	prep
+31	horizontale	horizontal	ADJ	ADJ	n=s|g=f	30	mod	30	mod
+32	.	.	PONCT	PONCT		31	ponct	31	ponct
+
+1	En	en	P	P		8	mod	8	mod
+2	dessous	dessous	NC	NC	g=m	1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	le	le	DET	DET	n=s|g=m	5	det	5	det
+5	feu	feu	NC	NC	n=s|g=m	8	suj	8	suj
+6	de	de	P	P		5	dep	5	dep
+7	bois	bois	NC	NC	g=m	6	prep	6	prep
+8	faisait	faire	V	V	n=s|t=I|p=3	0	root	0	root
+9	chauffer	chauffer	VINF	VINF	t=W	8	obj	8	obj
+10	la	la	DET	DET	n=s|g=f	11	det	11	det
+11	dalle	dalle	NC	NC	n=s|g=f	9	obj	9	obj
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	sur	sur	P	P		9	mod	9	mod
+14	laquelle	lequel	PROREL	PROREL	n=s|g=f	13	prep	13	prep
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	au	à	P+D	P+D	n=s|g=m	20	mod	20	mod
+17	dessus	dessus	ADV	ADV		20	mod	20	mod
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	on	on	CLS	CLS	n=s|p=3	20	suj	20	suj
+20	pouvait	pouvoir	V	V	n=s|t=I|p=3	0	_	0	_
+21	faire	faire	VINF	VINF	t=W	20	obj	20	obj
+22	cuire	cuire	VINF	VINF	t=W	21	obj	21	obj
+23	le	le	DET	DET	n=s|g=m	24	det	24	det
+24	pain	pain	NC	NC	n=s|g=m	22	obj	22	obj
+25	.	.	PONCT	PONCT		24	ponct	24	ponct
+
+1	Ce	ce	DET	DET	n=s|g=m	2	det	2	det
+2	type	type	NC	NC	n=s|g=m	12	suj	12	suj
+3	de	de	P	P		2	dep	2	dep
+4	cuisson	cuisson	NC	NC	n=s|g=f	3	prep	3	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	chauffé	chauffer	VPP	VPP	n=s|g=m|t=K	2	mod	2	mod
+7	par	par	P	P		6	mod	6	mod
+8	le	le	DET	DET	n=s|g=m	9	det	9	det
+9	bas	bas	ADJ	ADJ	g=m	7	prep	7	prep
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	est	être	V	V	n=s|t=P|p=3	12	aux_tps	12	aux_tps
+12	appelé	appeler	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+13	un	un	DET	DET	n=s|g=m	14	det	14	det
+14	four	four	NC	NC	n=s|g=m	12	obj	12	obj
+15	à	à	P	P		12	mod	12	mod
+16	sole	sole	NC	NC	n=s|g=f	15	prep	15	prep
+17	:	:	PONCT	PONCT		16	ponct	16	ponct
+18	c'	ce	CLS	CLS		19	suj	19	suj
+19	est	être	V	V	n=s|t=P|p=3	12	mod	12	mod
+20	ce	ce	PRO	PRO	n=s	19	ats	19	ats
+21	qui	qui	PROREL	PROREL	n=s	22	suj	22	suj
+22	permet	permettre	V	V	n=s|t=P|p=3	20	mod_rel	20	mod_rel
+23	de	de	P	P		22	obj	22	obj
+24	donner	donner	VINF	VINF	t=W	23	prep	23	prep
+25	au	à	P+D	P+D	n=s|g=m	24	mod	24	mod
+26	pain	pain	NC	NC	n=s|g=m	25	prep	25	prep
+27	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	28	det	28	det
+28	texture	texture	NC	NC	n=s|g=f	24	obj	24	obj
+29	particulière	particulier	ADJ	ADJ	n=s|g=f	28	mod	28	mod
+30	,	,	PONCT	PONCT		29	ponct	29	ponct
+31	car	car	CS	CS		22	mod	22	mod
+32	le	le	DET	DET	n=s|g=m	33	det	33	det
+33	dessous	dessous	NC	NC	g=m	36	suj	36	suj
+34	du	de	P+D	P+D	n=s|g=m	33	dep	33	dep
+35	pain	pain	NC	NC	n=s|g=m	34	prep	34	prep
+36	va	aller	V	V	n=s|t=P|p=3	31	sub	31	sub
+37	être	être	VINF	VINF	t=W	36	obj	36	obj
+38	plus	plus	ADV	ADV		39	mod	39	mod
+39	cuit	cuire	VPP	VPP	n=s|g=m|t=K	37	dep	37	dep
+40	que	que	CS	CS		39	obj	39	obj
+41	le	le	DET	DET	n=s|g=m	42	det	42	det
+42	dessus	dessus	NC	NC	g=m	0	_	0	_
+43	,	,	PONCT	PONCT		42	ponct	42	ponct
+44	ce	ce	PRO	PRO	n=s	42	mod	42	mod
+45	qui	qui	PROREL	PROREL	n=s	46	suj	46	suj
+46	va	aller	V	V	n=s|t=P|p=3	44	mod_rel	44	mod_rel
+47	permettre	permettre	VINF	VINF	t=W	46	obj	46	obj
+48	de	de	P	P		47	mod	47	mod
+49	former	former	VINF	VINF	t=W	48	prep	48	prep
+50	une	une	DET	DET	n=s|g=f	51	det	51	det
+51	croûte	croûte	NC	NC	n=s|g=f	49	obj	49	obj
+52	plus	plus	ADV	ADV		53	mod	53	mod
+53	épaisse	épais	ADJ	ADJ	n=s|g=f	51	mod	51	mod
+54	.	.	PONCT	PONCT		53	ponct	53	ponct
+
+1	De	de	P	P		6	mod	6	mod
+2	nos	nos	DET	DET	n=p|p=1|poss=p	3	det	3	det
+3	jours	jour	NC	NC	n=p|g=m	1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	il	il	CLS	CLS	n=s|g=m|p=3	6	suj	6	suj
+6	existe	exister	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+7	encore	encore	ADV	ADV		6	mod	6	mod
+8	des	des	DET	DET	n=p	9	det	9	det
+9	fours	four	NC	NC	n=p|g=m	6	obj	6	obj
+10	à	à	P	P		9	dep	9	dep
+11	bois	bois	NC	NC	g=m	10	prep	10	prep
+12	traditionnels	traditionnel	ADJ	ADJ	n=p|g=m	11	mod	11	mod
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	mais	mais	CC	CC		6	coord	6	coord
+15	dans	dans	P	P		14	dep_coord	14	dep_coord
+16	la	la	DET	DET	n=s|g=f	17	det	17	det
+17	plupart	plupart	NC	NC	n=s|g=f	15	prep	15	prep
+18	des	de	P+D	P+D	n=p	17	dep	17	dep
+19	boulangeries	boulangerie	NC	NC	n=p|g=f	18	prep	18	prep
+20	modernes	moderne	ADJ	ADJ	n=p	19	mod	19	mod
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	ce	ce	CLS	CLS		23	suj	23	suj
+23	sont	être	V	V	n=p|t=P|p=3	15	root	15	root
+24	plutôt	plutôt	ADV	ADV		23	mod	23	mod
+25	des	des	DET	DET	n=p	26	det	26	det
+26	fours	four	NC	NC	n=p|g=m	23	obj	23	obj
+27	électriques	électrique	ADJ	ADJ	n=p	26	mod	26	mod
+28	.	.	PONCT	PONCT		27	ponct	27	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	fours	four	NC	NC	n=p|g=m	5	suj	5	suj
+3	à	à	P	P		2	dep	2	dep
+4	pain	pain	NC	NC	n=s|g=m	3	prep	3	prep
+5	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+6	très	très	ADV	ADV		7	mod	7	mod
+7	profonds	profond	ADJ	ADJ	n=p|g=m	5	ats	5	ats
+8	:	:	PONCT	PONCT		7	ponct	7	ponct
+9	on	on	CLS	CLS	n=s|p=3	10	suj	10	suj
+10	peut	pouvoir	V	V	n=s|t=P|p=3	5	mod	5	mod
+11	y	y	CLO	CLO		12	aff	12	aff
+12	enfourner	enfourner	VINF	VINF	t=W	10	obj	10	obj
+13	un	un	DET	DET	n=s|g=m	15	det	15	det
+14	grand	grand	ADJ	ADJ	n=s|g=m	15	mod	15	mod
+15	nombre	nombre	NC	NC	n=s|g=m	12	obj	12	obj
+16	de	de	P	P		15	dep	15	dep
+17	pains	pain	NC	NC	n=p|g=m	16	prep	16	prep
+18	à	à	P	P		12	mod	12	mod
+19	la	la	DET	DET	n=s|g=f	20	det	20	det
+20	fois	fois	NC	NC	g=f	18	prep	18	prep
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	qui	qui	PROREL	PROREL	n=s	23	suj	23	suj
+23	vont	aller	V	V	n=p|t=P|p=3	20	mod_rel	20	mod_rel
+24	cuire	cuire	VINF	VINF	t=W	23	obj	23	obj
+25	en	en	P	P		24	mod	24	mod
+26	même	même	ADJ	ADJ	n=s	27	mod	27	mod
+27	temps	temps	NC	NC	g=m	25	prep	25	prep
+28	.	.	PONCT	PONCT		27	ponct	27	ponct
+
+1	Pour	pour	P	P		12	mod	12	mod
+2	enfourner	enfourner	VINF	VINF	t=W	1	prep	1	prep
+3	ces	ces	DET	DET	n=p	4	det	4	det
+4	pains	pain	NC	NC	n=p|g=m	2	obj	2	obj
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	ou	ou	CC	CC		1	coord	1	coord
+7	pour	pour	P	P		6	dep_coord	6	dep_coord
+8	les	les	DET	DET	n=p	9	det	9	det
+9	sortir	sortir	NC	NC	n=s|g=m	7	prep	7	prep
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	il	il	CLS	CLS	n=s|g=m|p=3	12	suj	12	suj
+12	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+13	nécessaire	nécessaire	ADJ	ADJ	n=s	12	ats	12	ats
+14	d'	de	P	P		12	mod	12	mod
+15	utiliser	utiliser	VINF	VINF	t=W	14	prep	14	prep
+16	une	une	DET	DET	n=s|g=f	17	det	17	det
+17	pelle	pelle	NC	NC	n=s|g=f	15	obj	15	obj
+18	à	à	P	P		17	dep	17	dep
+19	pain	pain	NC	NC	n=s|g=m	18	prep	18	prep
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	traditionnellement	_	ADV	ADV		15	mod	15	mod
+22	en	en	P	P		15	mod	15	mod
+23	bois	bois	NC	NC	g=m	22	prep	22	prep
+24	.	.	PONCT	PONCT		23	ponct	23	ponct
+
+1	Aujourd'hui	aujourd'hui	ADV	ADV		7	mod	7	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	beaucoup	beaucoup	ADV	ADV		4	mod	4	mod
+4	de	de	P	P		7	mod	7	mod
+5	fours	four	NC	NC	n=p|g=m	4	prep	4	prep
+6	modernes	moderne	ADJ	ADJ	n=p	5	mod	5	mod
+7	permettent	permettre	V	V	n=p|t=P,S|p=3	0	root	0	root
+8	de	de	P	P		7	obj	7	obj
+9	faire	faire	VINF	VINF	t=W	10	aux_caus	10	aux_caus
+10	entrer	entrer	VINF	VINF	t=W	8	prep	8	prep
+11	directement	_	ADV	ADV		10	mod	10	mod
+12	un	un	DET	DET	n=s|g=m	13	det	13	det
+13	chariot	chariot	NC	NC	n=s|g=m	10	obj	10	obj
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	sur	sur	P	P		7	mod	7	mod
+16	lequel	lequel	PROREL	PROREL	n=s|g=m	18	mod	18	mod
+17	sont	être	V	V	n=p|t=P|p=3	18	aux_tps	18	aux_tps
+18	posés	poser	VPP	VPP	n=p|g=m|t=K	7	mod	7	mod
+19	les	les	DET	DET	n=p	21	det	21	det
+20	différents	différent	ADJ	ADJ	n=p|g=m	21	mod	21	mod
+21	pains	pain	NC	NC	n=p|g=m	18	mod	18	mod
+22	à	à	P	P		18	mod	18	mod
+23	cuire	cuire	VINF	VINF	t=W	22	prep	22	prep
+24	.	.	PONCT	PONCT		23	ponct	23	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	boulanger	boulanger	NC	NC	n=s|g=m	3	suj	3	suj
+3	pèse	peser	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	ses	ses	DET	DET	n=p|p=3|poss=s	5	det	5	det
+5	ingrédients	ingrédient	NC	NC	n=p|g=m	3	obj	3	obj
+6	à	à	P	P		3	mod	3	mod
+7	l'	le	DET	DET	n=s	8	det	8	det
+8	aide	aide	NC	NC	n=s	6	prep	6	prep
+9	d'	de	P	P		3	mod	3	mod
+10	une	une	DET	DET	n=s|g=f	11	det	11	det
+11	balance	balance	NC	NC	n=s|g=f	9	prep	9	prep
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	verse	verser	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	ensuite	ensuite	ADV	ADV		2	mod	2	mod
+4	ses	ses	DET	DET	n=p|p=3|poss=s	5	det	5	det
+5	ingrédients	ingrédient	NC	NC	n=p|g=m	2	obj	2	obj
+6	dans	dans	P	P		2	mod	2	mod
+7	un	un	DET	DET	n=s|g=m	8	det	8	det
+8	pétrin	pétrin	NC	NC	n=s|g=m	6	prep	6	prep
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	et	et	CC	CC		2	coord	2	coord
+11	rajoute	rajouter	V	V	n=s|t=P,S|p=1,3	10	dep_coord	10	dep_coord
+12	de	de	P	P		11	mod	11	mod
+13	l'	le	DET	DET	n=s	14	det	14	det
+14	eau	eau	NC	NC	n=s|g=f	12	prep	12	prep
+15	pour	pour	P	P		11	mod	11	mod
+16	former	former	VINF	VINF	t=W	15	prep	15	prep
+17	la	la	DET	DET	n=s|g=f	18	det	18	det
+18	pâte	pâte	NC	NC	n=s|g=f	16	obj	16	obj
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	Une	une	DET	DET	n=s|g=f	2	det	2	det
+2	fois	fois	NC	NC	g=f	10	mod	10	mod
+3	sortie	sortir	VPP	VPP	n=s|g=f|t=K	2	mod	2	mod
+4	du	de	P+D	P+D	n=s|g=m	3	mod	3	mod
+5	pétrin	pétrin	NC	NC	n=s|g=m	4	prep	4	prep
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	la	la	DET	DET	n=s|g=f	8	det	8	det
+8	pâte	pâte	NC	NC	n=s|g=f	10	suj	10	suj
+9	est	être	V	V	n=s|t=P|p=3	10	aux_pass	10	aux_pass
+10	divisée	diviser	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+11	en	en	P	P		10	mod	10	mod
+12	pâtons	pâton	NC	NC	n=p|g=m	11	prep	11	prep
+13	tous	tout	ADJ	ADJ	n=p|g=m	12	mod	12	mod
+14	de	de	P	P		10	mod	10	mod
+15	taille	taille	NC	NC	n=s|g=f	14	prep	14	prep
+16	égale	égal	ADJ	ADJ	n=s|g=f	15	mod	15	mod
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	au	à	P+D	P+D	n=s|g=m	10	mod	10	mod
+19	moyen	moyen	NC	NC	n=s|g=m	18	prep	18	prep
+20	d'	de	P	P		10	mod	10	mod
+21	une	une	DET	DET	n=s|g=f	22	det	22	det
+22	diviseuse	_	NC	NC		20	prep	20	prep
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	boulanger	boulanger	NC	NC	n=s|g=m	3	suj	3	suj
+3	façonne	façonner	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	ensuite	ensuite	ADV	ADV		3	mod	3	mod
+5	ses	ses	DET	DET	n=p|p=3|poss=s	6	det	6	det
+6	baguettes	baguette	NC	NC	n=p|g=f	3	obj	3	obj
+7	au	à	P+D	P+D	n=s|g=m	6	dep	6	dep
+8	moyen	moyen	NC	NC	n=s|g=m	7	prep	7	prep
+9	d'	de	P	P		8	dep	8	dep
+10	une	une	DET	DET	n=s|g=f	11	det	11	det
+11	façonneuse	_	NC	NC		9	prep	9	prep
+12	...	...	PONCT	PONCT		11	ponct	11	ponct
+
+1	...	...	PONCT	PONCT		0	ponct	0	ponct
+2	puis	puis	CC	CC		0	root	0	root
+3	les	les	CLO	CLO	n=p|p=3	4	aff	4	aff
+4	met	mettre	V	V	n=s|t=P|p=3	2	dep_coord	2	dep_coord
+5	à	à	P	P		4	mod	4	mod
+6	reposer	reposer	VINF	VINF	t=W	5	prep	5	prep
+7	.	.	PONCT	PONCT		6	ponct	6	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	pâtons	pâton	NC	NC	n=p|g=m	5	suj	5	suj
+3	sont	être	V	V	n=p|t=P|p=3	5	aux_pass	5	aux_pass
+4	ensuite	ensuite	ADV	ADV		5	mod	5	mod
+5	déposés	déposer	VPP	VPP	n=p|g=m|t=K	0	root	0	root
+6	sur	sur	P	P		5	mod	5	mod
+7	une	une	DET	DET	n=s|g=f	8	det	8	det
+8	échelle	échelle	NC	NC	n=s|g=f	6	prep	6	prep
+9	...	...	PONCT	PONCT		8	ponct	8	ponct
+
+1	...	...	PONCT	PONCT		0	ponct	0	ponct
+2	puis	_	ADV	ADV		3	mod	3	mod
+3	emmenés	emmener	VPP	VPP	n=p|g=m|t=K	0	_	0	_
+4	en	en	P	P		3	mod	3	mod
+5	chambre	chambre	NC	NC	n=s|g=f	4	prep	4	prep
+6	de	de	P	P		3	mod	3	mod
+7	pousse	pousse	NC	NC	n=s|g=f	6	prep	6	prep
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	le	le	DET	DET	n=s|g=m	10	det	10	det
+10	temps	temps	NC	NC	g=m	0	_	0	_
+11	que	que	PROREL	PROREL		14	mod	14	mod
+12	la	la	DET	DET	n=s|g=f	13	det	13	det
+13	pâte	pâte	NC	NC	n=s|g=f	14	suj	14	suj
+14	lève	lever	V	V	n=s|t=P,S|p=1,3	10	mod_rel	10	mod_rel
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+1	Une	une	DET	DET	n=s|g=f	2	det	2	det
+2	fois	fois	NC	NC	g=f	14	mod	14	mod
+3	les	les	DET	DET	n=p	4	det	4	det
+4	pâtons	pâton	NC	NC	n=p|g=m	2	mod	2	mod
+5	sortis	sortir	VPP	VPP	n=p|g=m|t=K	4	mod	4	mod
+6	de	de	P	P		5	mod	5	mod
+7	la	la	DET	DET	n=s|g=f	8	det	8	det
+8	chambre	chambre	NC	NC	n=s|g=f	6	prep	6	prep
+9	de	de	P	P		8	dep	8	dep
+10	pousse	pousse	NC	NC	n=s|g=f	9	prep	9	prep
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	ils	ils	CLS	CLS	n=p|g=m|p=3	14	suj	14	suj
+13	sont	être	V	V	n=p|t=P|p=3	14	aux_pass	14	aux_pass
+14	déposés	déposer	VPP	VPP	n=p|g=m|t=K	0	root	0	root
+15	sur	sur	P	P		14	mod	14	mod
+16	la	la	DET	DET	n=s|g=f	17	det	17	det
+17	couche	couche	NC	NC	n=s|g=f	15	prep	15	prep
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	une	une	DET	DET	n=s|g=f	20	det	20	det
+20	toile	toile	NC	NC	n=s|g=f	14	mod	14	mod
+21	en	en	P	P		20	dep	20	dep
+22	lin	lin	NC	NC	n=s|g=m	21	prep	21	prep
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	grignage	grignage	NC	NC	n=s|g=m	3	suj	3	suj
+3	consiste	consister	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	à	à	P	P		3	mod	3	mod
+5	effectuer	effectuer	VINF	VINF	t=W	4	prep	4	prep
+6	des	des	DET	DET	n=p	8	det	8	det
+7	petits	petit	ADJ	ADJ	n=p|g=m	8	mod	8	mod
+8	traits	trait	NC	NC	n=p|g=m	5	obj	5	obj
+9	de	de	P	P		8	dep	8	dep
+10	découpe	découpe	NC	NC	n=s|g=f	9	prep	9	prep
+11	sur	sur	P	P		5	mod	5	mod
+12	le	le	DET	DET	n=s|g=m	13	det	13	det
+13	pain	pain	NC	NC	n=s|g=m	11	prep	11	prep
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	de	de	P	P		3	mod	3	mod
+16	façon	façon	NC	NC	n=s|g=f	15	prep	15	prep
+17	à	à	P	P		16	dep	16	dep
+18	ce	ce	PRO	PRO	n=s	17	prep	17	prep
+19	que	que	CS	CS		3	mod	3	mod
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	en	en	P	P		27	mod	27	mod
+22	cuisant	cuire	VPR	VPR	t=G	21	prep	21	prep
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	la	la	DET	DET	n=s|g=f	25	det	25	det
+25	croûte	croûte	NC	NC	n=s|g=f	27	suj	27	suj
+26	se	se	CLR	CLR	n=p,s|p=3	27	aff	27	aff
+27	craque	craquer	V	V	n=s|t=P,S|p=1,3	19	sub	19	sub
+28	à	à	P	P		27	mod	27	mod
+29	cet	cet	DET	DET	n=s|g=m	30	det	30	det
+30	endroit	endroit	NC	NC	n=s|g=m	28	prep	28	prep
+31	.	.	PONCT	PONCT		30	ponct	30	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	pâtons	pâton	NC	NC	n=p|g=m	5	suj	5	suj
+3	sont	être	V	V	n=p|t=P|p=3	5	aux_pass	5	aux_pass
+4	ensuite	ensuite	ADV	ADV		5	mod	5	mod
+5	enfournés	enfourner	VPP	VPP	n=p|g=m|t=K	0	root	0	root
+6	.	.	PONCT	PONCT		5	ponct	5	ponct
+
+1	Une	une	DET	DET	n=s|g=f	2	det	2	det
+2	fois	fois	NC	NC	g=f	7	mod	7	mod
+3	cuits	cuire	VPP	VPP	n=p|g=m|t=K	2	mod	2	mod
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	il	il	CLS	CLS	n=s|g=m|p=3	7	suj	7	suj
+6	ne	ne	ADV	ADV		7	mod	7	mod
+7	reste	rester	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+8	plus	plus	ADV	ADV		7	mod	7	mod
+9	qu'	que	CS	CS		7	obj	7	obj
+10	à	à	P	P		0	_	0	_
+11	les	les	DET	DET	n=p	12	det	12	det
+12	sortir	sortir	NC	NC	n=s|g=m	10	prep	10	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	au	à	P+D	P+D	n=s|g=m	12	dep	12	dep
+15	moyen	moyen	NC	NC	n=s|g=m	14	prep	14	prep
+16	d'	de	P	P		12	dep	12	dep
+17	une	une	DET	DET	n=s|g=f	18	det	18	det
+18	pelle	pelle	NC	NC	n=s|g=f	16	prep	16	prep
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	fabrication	fabrication	NC	NC	n=s|g=f	5	suj	5	suj
+3	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+4	pain	pain	NC	NC	n=s|g=m	3	prep	3	prep
+5	prend	prendre	V	V	n=s|t=P|p=3	0	root	0	root
+6	du	du	DET	DET	n=s|g=m	7	det	7	det
+7	temps	temps	NC	NC	g=m	5	obj	5	obj
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	car	car	CS	CS		5	mod	5	mod
+10	la	la	DET	DET	n=s|g=f	11	det	11	det
+11	pâte	pâte	NC	NC	n=s|g=f	12	suj	12	suj
+12	doit	devoir	V	V	n=s|t=P|p=3	9	sub	9	sub
+13	reposer	reposer	VINF	VINF	t=W	12	obj	12	obj
+14	avant	avant	P	P		13	mod	13	mod
+15	d'	de	P	P		14	dep	14	dep
+16	être	être	VINF	VINF	t=W	17	aux_pass	17	aux_pass
+17	cuite	cuire	VPP	VPP	n=s|g=f|t=K	15	prep	15	prep
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	C'	ce	CLS	CLS		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	pourquoi	pourquoi	ADVWH	ADVWH		6	mod	6	mod
+4	le	le	DET	DET	n=s|g=m	5	det	5	det
+5	boulanger	boulanger	NC	NC	n=s|g=m	6	suj	6	suj
+6	doit	devoir	V	V	n=s|t=P|p=3	2	obj	2	obj
+7	se	se	CLR	CLR	n=p,s|p=3	8	aff	8	aff
+8	lever	lever	VINF	VINF	t=W	6	obj	6	obj
+9	très	très	ADV	ADV		8	mod	8	mod
+10	tôt	tôt	ADV	ADV		8	mod	8	mod
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	avant	avant	P	P		8	mod	8	mod
+13	que	que	CS	CS		12	prep	12	prep
+14	le	le	DET	DET	n=s|g=m	15	det	15	det
+15	jour	jour	NC	NC	n=s|g=m	17	suj	17	suj
+16	soit	être	VS	VS	n=s|t=S|p=3	17	aux_pass	17	aux_pass
+17	levé	lever	VPP	VPP	n=s|g=m|t=K	13	sub	13	sub
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	pour	pour	P	P		8	mod	8	mod
+20	que	que	CS	CS		19	prep	19	prep
+21	son	son	DET	DET	n=s|g=m|p=3|poss=s	22	det	22	det
+22	pain	pain	NC	NC	n=s|g=m	0	_	0	_
+23	soit	être	VS	VS	n=s|t=S|p=3	0	_	0	_
+24	prêt	prêt	NC	NC	n=s|g=m	23	suj	23	suj
+25	pour	pour	P	P		23	mod	23	mod
+26	le	le	CLO	CLO	n=s|g=m|p=3	27	obj	27	obj
+27	vendre	vendre	VINF	VINF	t=W	25	prep	25	prep
+28	le	le	DET	DET	n=s|g=m	29	det	29	det
+29	matin	matin	NC	NC	n=s|g=m	27	obj	27	obj
+30	.	.	PONCT	PONCT		29	ponct	29	ponct
+
+1	Autrefois	autrefois	ADV	ADV		5	mod	5	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	le	le	DET	DET	n=s|g=m	4	det	4	det
+4	boulanger	boulanger	NC	NC	n=s|g=m	5	suj	5	suj
+5	travaillait	travailler	V	V	n=s|t=I|p=3	0	root	0	root
+6	une	une	DET	DET	n=s|g=f	7	det	7	det
+7	partie	partie	NC	NC	n=s|g=f	5	obj	5	obj
+8	de	de	P	P		5	mod	5	mod
+9	la	la	DET	DET	n=s|g=f	10	det	10	det
+10	nuit	nuit	NC	NC	n=s|g=f	8	prep	8	prep
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	puis	puis	CC	CC		5	coord	5	coord
+13	il	il	CLS	CLS	n=s|g=m|p=3	14	suj	14	suj
+14	allait	aller	V	V	n=s|t=I|p=3	12	dep_coord	12	dep_coord
+15	dormir	dormir	VINF	VINF	t=W	14	obj	14	obj
+16	durant	durant	P	P		15	mod	15	mod
+17	la	la	DET	DET	n=s|g=f	18	det	18	det
+18	journée	journée	NC	NC	n=s|g=f	16	prep	16	prep
+19	:	:	PONCT	PONCT		18	ponct	18	ponct
+20	c'	ce	CLS	CLS		21	suj	21	suj
+21	était	être	V	V	n=s|t=I|p=3	5	mod	5	mod
+22	souvent	souvent	ADV	ADV		21	mod	21	mod
+23	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	24	det	24	det
+24	femme	femme	NC	NC	n=s|g=f	21	obj	21	obj
+25	qui	qui	PROREL	PROREL	n=s	26	suj	26	suj
+26	vendait	vendre	V	V	n=s|t=I|p=3	24	mod_rel	24	mod_rel
+27	le	le	DET	DET	n=s|g=m	28	det	28	det
+28	pain	pain	NC	NC	n=s|g=m	26	obj	26	obj
+29	qu'	que	PROREL	PROREL		32	obj	32	obj
+30	il	il	CLS	CLS	n=s|g=m|p=3	32	suj	32	suj
+31	avait	avoir	V	V	n=s|t=I|p=3	32	aux_tps	32	aux_tps
+32	préparé	préparer	VPP	VPP	n=s|g=m|t=K	28	mod_rel	28	mod_rel
+33	.	.	PONCT	PONCT		32	ponct	32	ponct
+
+1	Aujourd'hui	aujourd'hui	ADV	ADV		5	mod	5	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	les	les	DET	DET	n=p	4	det	4	det
+4	boulangers	boulanger	NC	NC	n=p|g=m	5	suj	5	suj
+5	ont	avoir	V	V	n=p|t=P|p=3	0	root	0	root
+6	souvent	souvent	ADV	ADV		5	mod	5	mod
+7	des	des	DET	DET	n=p	8	det	8	det
+8	employés	employé	NC	NC	n=p|g=m	5	obj	5	obj
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	qui	qui	PROREL	PROREL	n=s	11	suj	11	suj
+11	vendent	vendre	V	V	n=p|t=P,S|p=3	8	mod_rel	8	mod_rel
+12	le	le	DET	DET	n=s|g=m	13	det	13	det
+13	pain	pain	NC	NC	n=s|g=m	11	obj	11	obj
+14	pour	pour	P	P		11	mod	11	mod
+15	eux	eux	PRO	PRO	n=p|g=m|p=3	14	prep	14	prep
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	et	et	CC	CC		8	coord	8	coord
+18	plusieurs	plusieurs	DET	DET	n=p	19	det	19	det
+19	équipes	équipe	NC	NC	n=p|g=f	17	dep_coord	17	dep_coord
+20	peuvent	pouvoir	V	V	n=p|t=P|p=3	8	mod_rel	8	mod_rel
+21	se	se	CLR	CLR	n=p,s|p=3	22	aff	22	aff
+22	relayer	relayer	VINF	VINF	t=W	20	obj	20	obj
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	aidées	aider	VPP	VPP	n=p|g=f|t=K	22	dep	22	dep
+25	par	par	P	P		22	mod	22	mod
+26	des	des	DET	DET	n=p	27	det	27	det
+27	machines	machine	NC	NC	n=p|g=f	25	prep	25	prep
+28	,	,	PONCT	PONCT		27	ponct	27	ponct
+29	pour	pour	P	P		5	mod	5	mod
+30	travailler	travailler	VINF	VINF	t=W	29	prep	29	prep
+31	plus	plus	ADV	ADV		32	mod	32	mod
+32	efficacement	_	ADV	ADV		30	mod	30	mod
+33	.	.	PONCT	PONCT		32	ponct	32	ponct
+
+1	En	en	P	P		14	mod	14	mod
+2	plus	plus	ADV	ADV		4	mod	4	mod
+3	de	de	P	P		4	aux_tps	4	aux_tps
+4	faire	faire	VINF	VINF	t=W	1	prep	1	prep
+5	du	du	DET	DET	n=s|g=m	6	det	6	det
+6	pain	pain	NC	NC	n=s|g=m	4	obj	4	obj
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	dans	dans	P	P		4	mod	4	mod
+9	une	une	DET	DET	n=s|g=f	10	det	10	det
+10	boulangerie	boulangerie	NC	NC	n=s|g=f	8	prep	8	prep
+11	moderne	moderne	ADJ	ADJ	n=s	10	mod	10	mod
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	on	on	CLS	CLS	n=s|p=3	14	suj	14	suj
+14	propose	proposer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+15	généralement	_	ADV	ADV		14	mod	14	mod
+16	d'	de	DET	DET	n=p	18	det	18	det
+17	autres	autre	ADJ	ADJ	n=p	18	mod	18	mod
+18	produits	produit	NC	NC	n=p|g=m	14	obj	14	obj
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	viennoiseries	_	NC	NC		3	suj	3	suj
+3	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+4	les	les	DET	DET	n=p	6	det	6	det
+5	plus	plus	ADV	ADV		6	mod	6	mod
+6	traditionnelles	traditionnel	ADJ	ADJ	n=p|g=f	3	ats	3	ats
+7	:	:	PONCT	PONCT		6	ponct	6	ponct
+8	les	les	DET	DET	n=p	9	det	9	det
+9	recettes	recette	NC	NC	n=p|g=f	3	obj	3	obj
+10	de	de	P	P		9	dep	9	dep
+11	viennoiseries	_	NC	NC		10	prep	10	prep
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	souvent	souvent	ADV	ADV		14	mod	14	mod
+14	à	à	P	P		9	dep	9	dep
+15	base	base	NC	NC	n=s|g=f	14	prep	14	prep
+16	d'	de	P	P		15	dep	15	dep
+17	œufs	_	NC	NC		16	prep	16	prep
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	ou	ou	CC	CC		14	coord	14	coord
+20	de	de	P	P		19	dep_coord	19	dep_coord
+21	sucre	sucre	NC	NC	n=s|g=m	20	prep	20	prep
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+23	ressemblent	ressembler	V	V	n=p|t=P,S|p=3	3	mod	3	mod
+24	plus	plus	ADV	ADV		23	mod	23	mod
+25	à	à	P	P		23	mod	23	mod
+26	des	des	DET	DET	n=p	27	det	27	det
+27	recettes	recette	NC	NC	n=p|g=f	25	prep	25	prep
+28	de	de	P	P		23	mod	23	mod
+29	pâtisserie	pâtisserie	NC	NC	n=s|g=f	28	prep	28	prep
+30	,	,	PONCT	PONCT		29	ponct	29	ponct
+31	mais	mais	CC	CC		23	coord	23	coord
+32	les	les	DET	DET	n=p	33	det	33	det
+33	techniques	technique	NC	NC	n=p|g=f	41	suj	41	suj
+34	et	et	CC	CC		33	coord	33	coord
+35	le	le	DET	DET	n=s|g=m	36	det	36	det
+36	matériel	matériel	NC	NC	n=s|g=m	34	dep_coord	34	dep_coord
+37	employés	employer	VPP	VPP	n=p|g=m|t=K	33	mod	33	mod
+38	pour	pour	P	P		37	mod	37	mod
+39	les	les	CLO	CLO	n=p|p=3	40	obj	40	obj
+40	faire	faire	VINF	VINF	t=W	38	prep	38	prep
+41	ressemble	ressembler	V	V	n=s|t=P,S|p=1,3	31	dep_coord	31	dep_coord
+42	plus	plus	ADV	ADV		41	mod	41	mod
+43	à	à	P	P		41	mod	41	mod
+44	de	de	P	P		43	dep	43	dep
+45	la	la	DET	DET	n=s|g=f	46	det	46	det
+46	boulangerie	boulangerie	NC	NC	n=s|g=f	44	prep	44	prep
+47	:	:	PONCT	PONCT		46	ponct	46	ponct
+48	les	les	DET	DET	n=p	49	det	49	det
+49	pâtes	pâte	NC	NC	n=p|g=f	41	obj	41	obj
+50	de	de	P	P		49	dep	49	dep
+51	viennoiseries	_	NC	NC		50	prep	50	prep
+52	sont	être	V	V	n=p|t=P|p=3	41	mod	41	mod
+53	souvent	souvent	ADV	ADV		52	mod	52	mod
+54	des	des	DET	DET	n=p	55	det	55	det
+55	pâtes	pâte	NC	NC	n=p|g=f	52	obj	52	obj
+56	levées	lever	VPP	VPP	n=p|g=f|t=K	55	mod	55	mod
+57	,	,	PONCT	PONCT		56	ponct	56	ponct
+58	elles	elles	CLS	CLS	n=p|g=f|p=3	59	suj	59	suj
+59	sont	être	V	V	n=p|t=P|p=3	3	mod	3	mod
+60	d'	de	P	P		59	mod	59	mod
+61	abord	abord	NC	NC	n=s|g=m	60	prep	60	prep
+62	pétries	pétrir	VPP	VPP	n=p|g=f|t=K	59	mod	59	mod
+63	dans	dans	P	P		62	mod	62	mod
+64	le	le	DET	DET	n=s|g=m	65	det	65	det
+65	pétrin	pétrin	NC	NC	n=s|g=m	63	prep	63	prep
+66	,	,	PONCT	PONCT		65	ponct	65	ponct
+67	puis	puis	CC	CC		62	coord	62	coord
+68	mises	mettre	VPP	VPP	n=p|g=f|t=K	67	dep_coord	67	dep_coord
+69	en	en	P	P		68	mod	68	mod
+70	pousse	pousse	NC	NC	n=s|g=f	69	prep	69	prep
+71	,	,	PONCT	PONCT		70	ponct	70	ponct
+72	comme	comme	CC	CC		59	coord	59	coord
+73	pour	pour	P	P		72	dep_coord	72	dep_coord
+74	le	le	DET	DET	n=s|g=m	75	det	75	det
+75	pain	pain	NC	NC	n=s|g=m	73	prep	73	prep
+76	.	.	PONCT	PONCT		75	ponct	75	ponct
+
+1	En	en	P	P		7	mod	7	mod
+2	revanche	revanche	NC	NC	n=s|g=f	1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	beaucoup	beaucoup	ADV	ADV		6	mod	6	mod
+5	de	de	P	P		6	det	6	det
+6	boulangeries	boulangerie	NC	NC	n=p|g=f	7	suj	7	suj
+7	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+8	aujourd'hui	aujourd'hui	ADV	ADV		7	mod	7	mod
+9	aussi	aussi	ADV	ADV		7	mod	7	mod
+10	des	des	DET	DET	n=p	11	det	11	det
+11	pâtisseries	pâtisserie	NC	NC	n=p|g=f	7	obj	7	obj
+12	:	:	PONCT	PONCT		11	ponct	11	ponct
+13	on	on	CLS	CLS	n=s|p=3	15	suj	15	suj
+14	y	y	CLO	CLO		15	aff	15	aff
+15	fabrique	fabriquer	V	V	n=s|t=P,S|p=1,3	7	mod	7	mod
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	et	et	CC	CC		7	coord	7	coord
+18	on	on	CLS	CLS	n=s|p=3	20	suj	20	suj
+19	y	y	CLO	CLO		20	obj	20	obj
+20	vend	vendre	V	V	n=s|t=P|p=3	17	dep_coord	17	dep_coord
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	des	des	DET	DET	n=p	23	det	23	det
+23	gâteaux	gâteau	NC	NC	n=p|g=m	7	obj	7	obj
+24	.	.	PONCT	PONCT		23	ponct	23	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	boulangeries	boulangerie	NC	NC	n=p|g=f	3	suj	3	suj
+3	peuvent	pouvoir	V	V	n=p|t=P|p=3	0	root	0	root
+4	également	_	ADV	ADV		3	mod	3	mod
+5	proposer	proposer	VINF	VINF	t=W	3	obj	3	obj
+6	d'	de	DET	DET	n=p	8	det	8	det
+7	autres	autre	ADJ	ADJ	n=p	8	mod	8	mod
+8	aliments	aliment	NC	NC	n=p|g=m	5	obj	5	obj
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	comme	comme	P	P		5	mod	5	mod
+11	des	des	DET	DET	n=p	12	det	12	det
+12	pizzas	pizza	NC	NC	n=p|g=f	10	prep	10	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	ou	ou	CC	CC		10	coord	10	coord
+15	des	de	P+D	P+D	n=p	14	dep_coord	14	dep_coord
+16	sandwiches	sandwich	NC	NC	n=p|g=m	15	prep	15	prep
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	présence	présence	NC	NC	n=s|g=f	20	suj	20	suj
+3	d'	de	P	P		2	dep	2	dep
+4	une	une	DET	DET	n=s|g=f	6	det	6	det
+5	grande	grand	ADJ	ADJ	n=s|g=f	6	mod	6	mod
+6	quantité	quantité	NC	NC	n=s|g=f	3	prep	3	prep
+7	de	de	P	P		6	dep	6	dep
+8	farine	farine	NC	NC	n=s|g=f	7	prep	7	prep
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	et	et	CC	CC		2	coord	2	coord
+11	de	de	P	P		10	dep_coord	10	dep_coord
+12	céréales	céréale	NC	NC	n=p|g=f	11	prep	11	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	dans	dans	P	P		2	dep	2	dep
+15	une	une	DET	DET	n=s|g=f	16	det	16	det
+16	boulangerie	boulangerie	NC	NC	n=s|g=f	14	prep	14	prep
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	a	avoir	V	V	n=s|t=P|p=3	20	aux_tps	20	aux_tps
+19	toujours	toujours	ADV	ADV		20	mod	20	mod
+20	attiré	attirer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+21	de	de	DET	DET	n=p	23	det	23	det
+22	nombreux	nombreux	ADJ	ADJ	g=m	23	mod	23	mod
+23	animaux	animal	NC	NC	n=p|g=m	20	obj	20	obj
+24	,	,	PONCT	PONCT		23	ponct	23	ponct
+25	pas	pas	ADV	ADV		26	mod	26	mod
+26	toujours	toujours	ADV	ADV		27	mod	27	mod
+27	bienvenus	bienvenu	ADJ	ADJ	n=p|g=m	23	mod	23	mod
+28	,	,	PONCT	PONCT		27	ponct	27	ponct
+29	(	(	PONCT	PONCT		27	ponct	27	ponct
+30	dans	dans	P	P		20	mod	20	mod
+31	les	les	DET	DET	n=p	32	det	32	det
+32	boulangeries	boulangerie	NC	NC	n=p|g=f	30	prep	30	prep
+33	)	)	PONCT	PONCT		32	ponct	32	ponct
+34	.	.	PONCT	PONCT		32	ponct	32	ponct
+
+1	Ainsi	ainsi	ADV	ADV		8	mod	8	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	les	les	DET	DET	n=p	4	det	4	det
+4	rats	rat	NC	NC	n=p|g=m	8	suj	8	suj
+5	et	et	CC	CC		4	coord	4	coord
+6	les	les	DET	DET	n=p	7	det	7	det
+7	souris	souris	NC	NC	g=f	5	dep_coord	5	dep_coord
+8	étaient	être	V	V	n=p|t=I|p=3	0	root	0	root
+9	autrefois	autrefois	ADV	ADV		10	mod	10	mod
+10	fréquents	fréquent	ADJ	ADJ	n=p|g=m	8	ats	8	ats
+11	:	:	PONCT	PONCT		10	ponct	10	ponct
+12	ils	ils	CLS	CLS	n=p|g=m|p=3	13	suj	13	suj
+13	vivaient	vivre	V	V	n=p|t=I|p=3	8	mod	8	mod
+14	dans	dans	P	P		13	mod	13	mod
+15	la	la	DET	DET	n=s|g=f	16	det	16	det
+16	boulangerie	boulangerie	NC	NC	n=s|g=f	14	prep	14	prep
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	perçaient	percer	V	V	n=p|t=I|p=3	8	mod	8	mod
+19	les	les	DET	DET	n=p	20	det	20	det
+20	sacs	sac	NC	NC	n=p|g=m	18	suj	18	suj
+21	de	de	P	P		20	dep	20	dep
+22	farine	farine	NC	NC	n=s|g=f	21	prep	21	prep
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	et	et	CC	CC		18	coord	18	coord
+25	occasionnaient	occasionner	V	V	n=p|t=I|p=3	24	dep_coord	24	dep_coord
+26	de	de	P	P		25	mod	25	mod
+27	gros	gros	ADJ	ADJ	g=m	28	mod	28	mod
+28	dégâts	dégât	NC	NC	n=p|g=m	26	prep	26	prep
+29	dans	dans	P	P		25	mod	25	mod
+30	les	les	DET	DET	n=p	31	det	31	det
+31	provisions	provision	NC	NC	n=p|g=f	29	prep	29	prep
+32	.	.	PONCT	PONCT		31	ponct	31	ponct
+
+1	C'	ce	CLS	CLS		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	pour	pour	P	P		2	mod	2	mod
+4	cette	cette	DET	DET	n=s|g=f	5	det	5	det
+5	raison	raison	NC	NC	n=s|g=f	3	prep	3	prep
+6	que	que	CS	CS		2	mod	2	mod
+7	les	les	DET	DET	n=p	8	det	8	det
+8	boulangeries	boulangerie	NC	NC	n=p|g=f	9	suj	9	suj
+9	accueillaient	accueillir	V	V	n=p|t=I|p=3	6	sub	6	sub
+10	très	très	ADV	ADV		9	mod	9	mod
+11	souvent	souvent	ADV	ADV		9	mod	9	mod
+12	des	des	DET	DET	n=p	13	det	13	det
+13	chats	chat	NC	NC	n=p|g=m	9	obj	9	obj
+14	:	:	PONCT	PONCT		13	ponct	13	ponct
+15	ces	ces	DET	DET	n=p	16	det	16	det
+16	animaux	animal	NC	NC	n=p|g=m	17	suj	17	suj
+17	aimaient	aimer	V	V	n=p|t=I|p=3	2	mod	2	mod
+18	se	se	CLR	CLR	n=p,s|p=3	19	aff	19	aff
+19	prélasser	prélasser	VINF	VINF	t=W	17	obj	17	obj
+20	près	près	ADV	ADV		19	mod	19	mod
+21	de	de	P	P		19	mod	19	mod
+22	la	la	DET	DET	n=s|g=f	23	det	23	det
+23	chaleur	chaleur	NC	NC	n=s|g=f	21	prep	21	prep
+24	du	de	P+D	P+D	n=s|g=m	23	dep	23	dep
+25	four	four	NC	NC	n=s|g=m	24	prep	24	prep
+26	,	,	PONCT	PONCT		25	ponct	25	ponct
+27	et	et	CC	CC		17	coord	17	coord
+28	trouvaient	trouver	V	V	n=p|t=I|p=3	27	dep_coord	27	dep_coord
+29	de	de	P	P		28	mod	28	mod
+30	quoi	quoi	PROWH	PROWH		29	prep	29	prep
+31	manger	manger	VINF	VINF	t=W	28	obj	28	obj
+32	en	en	P	P		31	mod	31	mod
+33	chassant	chasser	VPR	VPR	t=G	32	prep	32	prep
+34	les	les	DET	DET	n=p	0	_	0	_
+35	rongeurs	rongeur	ADJ	ADJ	n=p|g=m	0	_	0	_
+36	,	,	PONCT	PONCT		35	ponct	35	ponct
+37	évitant	éviter	VPR	VPR	t=G	35	mod	35	mod
+38	ainsi	ainsi	ADV	ADV		37	mod	37	mod
+39	des	des	DET	DET	n=p	40	det	40	det
+40	pertes	perte	NC	NC	n=p|g=f	37	obj	37	obj
+41	trop	trop	ADV	ADV		42	mod	42	mod
+42	importantes	important	ADJ	ADJ	n=p|g=f	40	mod	40	mod
+43	.	.	PONCT	PONCT		42	ponct	42	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	boulangers	boulanger	NC	NC	n=p|g=m	17	suj	17	suj
+3	(	(	PONCT	PONCT		2	ponct	2	ponct
+4	comme	comme	P	P		17	mod	17	mod
+5	d'	de	P	P		17	mod	17	mod
+6	ailleurs	ailleurs	ADV	ADV		17	mod	17	mod
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	les	les	DET	DET	n=p	9	det	9	det
+9	meuniers	meunier	NC	NC	n=p|g=m	17	suj	17	suj
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	pour	pour	P	P		9	dep	9	dep
+12	les	les	DET	DET	n=p	14	det	14	det
+13	mêmes	même	ADJ	ADJ	n=p	14	mod	14	mod
+14	raisons	raison	NC	NC	n=p|g=f	11	prep	11	prep
+15	)	)	PONCT	PONCT		14	ponct	14	ponct
+16	,	,	PONCT	PONCT		14	ponct	14	ponct
+17	avaient	avoir	V	V	n=p|t=I|p=3	0	root	0	root
+18	donc	donc	ADV	ADV		17	mod	17	mod
+19	souvent	souvent	ADV	ADV		17	mod	17	mod
+20	des	des	DET	DET	n=p	21	det	21	det
+21	chats	chat	NC	NC	n=p|g=m	17	obj	17	obj
+22	dans	dans	P	P		17	mod	17	mod
+23	leur	leur	DET	DET	n=s|p=3|poss=p	24	det	24	det
+24	boulangerie	boulangerie	NC	NC	n=s|g=f	22	prep	22	prep
+25	.	.	PONCT	PONCT		24	ponct	24	ponct
+
+1	Plusieurs	plusieurs	DET	DET	n=p	2	det	2	det
+2	insectes	insecte	NC	NC	n=p|g=m	3	suj	3	suj
+3	apprécient	apprécier	V	V	n=p|t=P,S|p=3	0	root	0	root
+4	également	_	ADV	ADV		3	mod	3	mod
+5	les	les	DET	DET	n=p	6	det	6	det
+6	céréales	céréale	NC	NC	n=p|g=f	3	obj	3	obj
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	et	et	CC	CC		3	coord	3	coord
+9	les	les	DET	DET	n=p	10	det	10	det
+10	farines	farine	NC	NC	n=p|g=f	0	_	0	_
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	ce	ce	PRO	PRO	n=s	10	mod	10	mod
+13	qui	qui	PROREL	PROREL	n=s	14	suj	14	suj
+14	fait	faire	V	V	n=s|t=P|p=3	12	mod_rel	12	mod_rel
+15	qu'	que	CS	CS		14	obj	14	obj
+16	on	on	CLS	CLS	n=s|p=3	17	suj	17	suj
+17	pouvait	pouvoir	V	V	n=s|t=I|p=3	15	sub	15	sub
+18	les	les	CLO	CLO	n=p|p=3	19	obj	19	obj
+19	trouver	trouver	VINF	VINF	t=W	17	obj	17	obj
+20	abondamment	_	ADV	ADV		19	mod	19	mod
+21	dans	dans	P	P		19	mod	19	mod
+22	les	les	DET	DET	n=p	23	det	23	det
+23	boulangeries	boulangerie	NC	NC	n=p|g=f	21	prep	21	prep
+24	.	.	PONCT	PONCT		23	ponct	23	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	ver	ver	NC	NC	n=s|g=m	9	suj	9	suj
+3	de	de	P	P		2	dep	2	dep
+4	farine	farine	NC	NC	n=s|g=f	3	prep	3	prep
+5	s'	se	CLR	CLR	n=p,s|p=3	9	aff	9	aff
+6	est	être	V	V	n=s|t=P|p=3	9	aux_tps	9	aux_tps
+7	si	_	ADV	ADV		9	mod	9	mod
+8	bien	bien	ADV	ADV		9	mod	9	mod
+9	adapté	adapter	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+10	aux	à	P+D	P+D	n=p	9	mod	9	mod
+11	habitats	habitat	NC	NC	n=p|g=m	10	prep	10	prep
+12	humains	humain	ADJ	ADJ	n=p|g=m	11	mod	11	mod
+13	qu'	que	CS	CS		9	mod	9	mod
+14	il	il	CLS	CLS	n=s|g=m|p=3	16	suj	16	suj
+15	y	y	CLO	CLO		16	aff	16	aff
+16	est	être	V	V	n=s|t=P|p=3	13	sub	13	sub
+17	beaucoup	beaucoup	ADV	ADV		16	mod	16	mod
+18	plus	plus	ADV	ADV		19	mod	19	mod
+19	fréquent	fréquent	ADJ	ADJ	n=s|g=m	16	ats	16	ats
+20	que	que	CS	CS		16	mod	16	mod
+21	dans	dans	P	P		20	sub	20	sub
+22	la	la	DET	DET	n=s|g=f	23	det	23	det
+23	nature	nature	NC	NC	n=s|g=f	21	prep	21	prep
+24	.	.	PONCT	PONCT		23	ponct	23	ponct
+
+1	C'	ce	CLS	CLS		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	en	en	P	P		2	mod	2	mod
+4	fait	fait	NC	NC	n=s|g=m	3	prep	3	prep
+5	la	la	DET	DET	n=s|g=f	6	det	6	det
+6	larve	larve	NC	NC	n=s|g=f	2	obj	2	obj
+7	d'	de	P	P		6	dep	6	dep
+8	un	un	DET	DET	n=s|g=m	10	det	10	det
+9	petit	petit	ADJ	ADJ	n=s|g=m	10	mod	10	mod
+10	insecte	insecte	NC	NC	n=s|g=m	7	prep	7	prep
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	le	le	DET	DET	n=s|g=m	13	det	13	det
+13	ténébrion	ténébrion	NC	NC	n=s|g=m	2	mod	2	mod
+14	meunier	meunier	NC	NC	n=s|g=m	13	mod	13	mod
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	appelé	appeler	VPP	VPP	n=s|g=m|t=K	13	mod	13	mod
+17	ainsi	ainsi	ADV	ADV		16	mod	16	mod
+18	car	car	CS	CS		16	mod	16	mod
+19	il	il	CLS	CLS	n=s|g=m|p=3	20	suj	20	suj
+20	adore	adorer	V	V	n=s|t=P,S|p=1,3	18	sub	18	sub
+21	la	la	DET	DET	n=s|g=f	22	det	22	det
+22	farine	farine	NC	NC	n=s|g=f	20	obj	20	obj
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	et	et	CC	CC		2	coord	2	coord
+25	qu'	que	CS	CS		24	dep_coord	24	dep_coord
+26	il	il	CLS	CLS	n=s|g=m|p=3	27	suj	27	suj
+27	était	être	V	V	n=s|t=I|p=3	25	sub	25	sub
+28	fréquent	fréquent	ADJ	ADJ	n=s|g=m	27	ats	27	ats
+29	de	de	P	P		27	obj	27	obj
+30	le	le	CLO	CLO	n=s|g=m|p=3	31	obj	31	obj
+31	trouver	trouver	VINF	VINF	t=W	29	prep	29	prep
+32	dans	dans	P	P		31	mod	31	mod
+33	les	les	DET	DET	n=p	34	det	34	det
+34	moulins	moulin	NC	NC	n=p|g=m	32	prep	32	prep
+35	...	...	PONCT	PONCT		34	ponct	34	ponct
+
+1	Ou	ou	CC	CC		0	root	0	root
+2	les	les	DET	DET	n=p	3	det	3	det
+3	boulangeries	boulangerie	NC	NC	n=p|g=f	0	_	0	_
+4	.	.	PONCT	PONCT		3	ponct	3	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	charançon	charançon	NC	NC	n=s|g=m	5	suj	5	suj
+3	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+4	blé	blé	NC	NC	n=s|g=m	3	prep	3	prep
+5	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+6	un	un	DET	DET	n=s|g=m	8	det	8	det
+7	autre	autre	ADJ	ADJ	n=s	8	mod	8	mod
+8	insecte	insecte	NC	NC	n=s|g=m	5	obj	5	obj
+9	coléoptère	coléoptère	NC	NC	n=s|g=m	8	mod	8	mod
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	minuscule	minuscule	ADJ	ADJ	n=s	8	mod	8	mod
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	qui	qui	PROREL	PROREL	n=s	14	suj	14	suj
+14	perce	percer	V	V	n=s|t=P,S|p=1,3	5	mod	5	mod
+15	un	un	DET	DET	n=s|g=m	17	det	17	det
+16	petit	petit	ADJ	ADJ	n=s|g=m	17	mod	17	mod
+17	trou	trou	NC	NC	n=s|g=m	14	obj	14	obj
+18	dans	dans	P	P		14	mod	14	mod
+19	les	les	DET	DET	n=p	20	det	20	det
+20	grains	grain	NC	NC	n=p|g=m	18	prep	18	prep
+21	de	de	P	P		20	dep	20	dep
+22	blé	blé	NC	NC	n=s|g=m	21	prep	21	prep
+23	pour	pour	P	P		14	mod	14	mod
+24	y	y	CLO	CLO		25	aff	25	aff
+25	pondre	pondre	VINF	VINF	t=W	23	prep	23	prep
+26	ses	ses	DET	DET	n=p|p=3|poss=s	27	det	27	det
+27	œufs	_	NC	NC		25	obj	25	obj
+28	.	.	PONCT	PONCT		27	ponct	27	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	3	suj	3	suj
+2	se	se	CLR	CLR	n=p,s|p=3	3	aff	3	aff
+3	nourrit	nourrir	V	V	n=s|t=J,P|p=3	0	root	0	root
+4	aussi	aussi	ADV	ADV		3	mod	3	mod
+5	d'	de	DET	DET	n=p	7	det	7	det
+6	autres	autre	ADJ	ADJ	n=p	7	mod	7	mod
+7	céréales	céréale	NC	NC	n=p|g=f	3	obj	3	obj
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	de	de	P	P		3	mod	3	mod
+10	farine	farine	NC	NC	n=s|g=f	9	prep	9	prep
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	de	de	P	P		3	mod	3	mod
+13	pain	pain	NC	NC	n=s|g=m	12	prep	12	prep
+14	...	...	PONCT	PONCT		13	ponct	13	ponct
+15	et	et	CC	CC		3	coord	3	coord
+16	peut	pouvoir	V	V	n=s|t=P|p=3	15	dep_coord	15	dep_coord
+17	occasionner	occasionner	VINF	VINF	t=W	16	obj	16	obj
+18	de	de	P	P		17	mod	17	mod
+19	gros	gros	ADJ	ADJ	g=m	20	mod	20	mod
+20	dégâts	dégât	NC	NC	n=p|g=m	18	prep	18	prep
+21	dans	dans	P	P		17	mod	17	mod
+22	une	une	DET	DET	n=s|g=f	23	det	23	det
+23	boulangerie	boulangerie	NC	NC	n=s|g=f	21	prep	21	prep
+24	.	.	PONCT	PONCT		23	ponct	23	ponct
+
+1	Aujourd'hui	aujourd'hui	ADV	ADV		8	mod	8	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	les	les	DET	DET	n=p	4	det	4	det
+4	méthodes	méthode	NC	NC	n=p|g=f	8	suj	8	suj
+5	d'	de	P	P		4	dep	4	dep
+6	hygiène	hygiène	NC	NC	n=s|g=f	5	prep	5	prep
+7	ont	avoir	V	V	n=p|t=P|p=3	8	aux_tps	8	aux_tps
+8	permis	permettre	VPP	VPP	g=m|t=K	0	root	0	root
+9	d'	de	P	P		8	mod	8	mod
+10	éliminer	éliminer	VINF	VINF	t=W	9	prep	9	prep
+11	tous	tout	ADJ	ADJ	n=p|g=m	13	mod	13	mod
+12	ces	ces	DET	DET	n=p	13	det	13	det
+13	animaux	animal	NC	NC	n=p|g=m	10	obj	10	obj
+14	des	de	P+D	P+D	n=p	13	dep	13	dep
+15	boulangeries	boulangerie	NC	NC	n=p|g=f	14	prep	14	prep
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+1	On	on	CLS	CLS	n=s|p=3	3	suj	3	suj
+2	ne	ne	ADV	ADV		3	mod	3	mod
+3	trouve	trouver	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	plus	plus	ADV	ADV		3	mod	3	mod
+5	de	de	P	P		3	mod	3	mod
+6	rats	rat	NC	NC	n=p|g=m	5	prep	5	prep
+7	dans	dans	P	P		3	mod	3	mod
+8	les	les	DET	DET	n=p	9	det	9	det
+9	boulangeries	boulangerie	NC	NC	n=p|g=f	7	prep	7	prep
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	ni	ni	CC	CC		3	coord	3	coord
+12	de	de	P	P		11	dep_coord	11	dep_coord
+13	chats	chat	NC	NC	n=p|g=m	12	prep	12	prep
+14	non	non	ADV	ADV		15	mod	15	mod
+15	plus	plus	ADV	ADV		11	mod	11	mod
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	d'	de	P	P		11	dep_coord	11	dep_coord
+18	ailleurs	ailleurs	ADV	ADV		17	mod	17	mod
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	Des	des	DET	DET	n=p	2	det	2	det
+2	rats	rat	NC	NC	n=p|g=m	0	_	0	_
+3	noirs	noir	ADJ	ADJ	n=p|g=m	2	mod	2	mod
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	sur	sur	P	P		0	_	0	_
+6	un	un	DET	DET	n=s|g=m	7	det	7	det
+7	sac	sac	NC	NC	n=s|g=m	5	prep	5	prep
+8	de	de	P	P		7	dep	7	dep
+9	grains	grain	NC	NC	n=p|g=m	8	prep	8	prep
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	au	à	P+D	P+D	n=s|g=m	7	dep	7	dep
+12	Muséum	muséum	NC	NC	n=s|g=m	11	prep	11	prep
+13	d'	de	P	P		12	dep	12	dep
+14	Histoire	histoire	NC	NC	n=s|g=f	13	prep	13	prep
+15	naturelle	naturel	ADJ	ADJ	n=s|g=f	14	mod	14	mod
+16	de	de	P	P		7	dep	7	dep
+17	Berlin	Berlin	NPP	NPP	n=s|g=f,m	16	prep	16	prep
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	Des	des	DET	DET	n=p	2	det	2	det
+2	ténébrions	ténébrion	NC	NC	n=p|g=m	0	_	0	_
+3	meuniers	meunier	NC	NC	n=p|g=m	2	mod	2	mod
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	dans	dans	P	P		0	_	0	_
+6	des	des	DET	DET	n=p	7	det	7	det
+7	grains	grain	NC	NC	n=p|g=m	5	prep	5	prep
+8	de	de	P	P		7	dep	7	dep
+9	blé	blé	NC	NC	n=s|g=m	8	prep	8	prep
+
+1	Des	des	DET	DET	n=p	2	det	2	det
+2	vers	vers	P	P		0	_	0	_
+3	de	de	P	P		0	_	0	_
+4	farine	farine	NC	NC	n=s|g=f	3	prep	3	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	les	les	DET	DET	n=p	7	det	7	det
+7	larves	larve	NC	NC	n=p|g=f	0	_	0	_
+8	du	de	P+D	P+D	n=s|g=m	7	dep	7	dep
+9	ténébrion	ténébrion	NC	NC	n=s|g=m	8	prep	8	prep
+10	meunier	meunier	NC	NC	n=s|g=m	9	mod	9	mod
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	dans	dans	P	P		7	dep	7	dep
+13	du	du	DET	DET	n=s|g=m	0	_	0	_
+14	son	_	VS	VS		0	_	0	_
+
+1	Un	un	DET	DET	n=s|g=m	3	det	3	det
+2	minuscule	minuscule	ADJ	ADJ	n=s	3	mod	3	mod
+3	charançon	charançon	NC	NC	n=s|g=m	16	suj	16	suj
+4	du	de	P+D	P+D	n=s|g=m	3	dep	3	dep
+5	blé	blé	NC	NC	n=s|g=m	4	prep	4	prep
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	très	très	ADV	ADV		8	mod	8	mod
+8	fortement	_	ADV	ADV		9	mod	9	mod
+9	grossi	grossir	ADJ	ADJ	n=s|g=m|t=K	3	mod	3	mod
+10	(	(	PONCT	PONCT		9	ponct	9	ponct
+11	en	en	P	P		3	dep	3	dep
+12	réalité	réalité	NC	NC	n=s|g=f	11	prep	11	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	il	il	CLS	CLS	n=s|g=m|p=3	16	suj	16	suj
+15	ne	ne	ADV	ADV		16	mod	16	mod
+16	mesure	mesurer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+17	que	que	CS	CS		16	obj	16	obj
+18	quelques	quelques	DET	DET	n=p	19	det	19	det
+19	millimètres	millimètre	NC	NC	n=p|g=m	0	_	0	_
+20	)	)	PONCT	PONCT		19	ponct	19	ponct
+

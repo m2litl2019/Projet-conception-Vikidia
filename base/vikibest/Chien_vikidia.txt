@@ -1,0 +1,1645 @@
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	chien	chien	NC	NC	n=s|g=m	8	suj	8	suj
+3	(	(	PONCT	PONCT		2	ponct	2	ponct
+4	Canis	_	NPP	NPP		2	mod	2	mod
+5	lupus	lupus	NC	NC	g=m	2	mod	2	mod
+6	familiaris	_	ADJ	ADJ		2	mod	2	mod
+7	)	)	PONCT	PONCT		6	ponct	6	ponct
+8	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+9	un	un	DET	DET	n=s|g=m	10	det	10	det
+10	mammifère	mammifère	NC	NC	n=s|g=m	8	obj	8	obj
+11	carnivore	carnivore	ADJ	ADJ	n=s	10	mod	10	mod
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	sous-espèce	sous-espèce	NC	NC	n=s|g=f	8	mod	8	mod
+14	du	de	P+D	P+D	n=s|g=m	13	dep	13	dep
+15	loup	loup	NC	NC	n=s|g=m	14	prep	14	prep
+16	(	(	PONCT	PONCT		15	ponct	15	ponct
+17	Canis	_	NPP	NPP		8	mod	8	mod
+18	lupus	lupus	NC	NC	g=m	17	mod	17	mod
+19	)	)	PONCT	PONCT		18	ponct	18	ponct
+20	de	de	P	P		8	mod	8	mod
+21	la	la	DET	DET	n=s|g=f	22	det	22	det
+22	famille	famille	NC	NC	n=s|g=f	20	prep	20	prep
+23	des	de	P+D	P+D	n=p	22	dep	22	dep
+24	canidés	canidé	NC	NC	n=p|g=m	23	prep	23	prep
+25	(	(	PONCT	PONCT		24	ponct	24	ponct
+26	Canidae	_	NPP	NPP		8	mod	8	mod
+27	)	)	PONCT	PONCT		26	ponct	26	ponct
+28	.	.	PONCT	PONCT		26	ponct	26	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	femelle	femelle	NC	NC	n=s|g=f	6	suj	6	suj
+3	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+4	chien	chien	NC	NC	n=s|g=m	3	prep	3	prep
+5	s'	se	CLR	CLR	n=p,s|p=3	6	aff	6	aff
+6	appelle	appeler	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+7	«_	"	PONCT	PONCT		6	ponct	6	ponct
+8	chienne	chien	ADJ	ADJ	n=s|g=f	6	ats	6	ats
+9	_»	"	PONCT	PONCT		8	ponct	8	ponct
+10	et	et	CC	CC		6	coord	6	coord
+11	le	le	DET	DET	n=s|g=m	13	det	13	det
+12	jeune	jeune	ADJ	ADJ	n=s	13	mod	13	mod
+13	chien	chien	NC	NC	n=s|g=m	0	_	0	_
+14	«_	"	PONCT	PONCT		13	ponct	13	ponct
+15	chiot	chiot	NC	NC	n=s|g=m	13	mod	13	mod
+16	_»	"	PONCT	PONCT		15	ponct	15	ponct
+17	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+1	C'	ce	CLS	CLS		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	aussi	aussi	ADV	ADV		2	mod	2	mod
+4	le	le	DET	DET	n=s|g=m	7	det	7	det
+5	plus	plus	ADV	ADV		6	mod	6	mod
+6	ancien	ancien	ADJ	ADJ	n=s|g=m	7	mod	7	mod
+7	animal	animal	NC	NC	n=s|g=m	2	obj	2	obj
+8	domestique	domestique	ADJ	ADJ	n=s	7	mod	7	mod
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	de	de	P	P		2	mod	2	mod
+11	nos	nos	DET	DET	n=p|p=1|poss=p	12	det	12	det
+12	jours	jour	NC	NC	n=p|g=m	10	prep	10	prep
+13	souvent	souvent	ADV	ADV		14	mod	14	mod
+14	utilisé	utiliser	VPP	VPP	n=s|g=m|t=K	12	mod	12	mod
+15	comme	comme	P	P		14	mod	14	mod
+16	simple	simple	ADJ	ADJ	n=s	17	mod	17	mod
+17	animal	animal	NC	NC	n=s|g=m	15	prep	15	prep
+18	de	de	P	P		14	mod	14	mod
+19	compagnie	compagnie	NC	NC	n=s|g=f	18	prep	18	prep
+20	et	et	CC	CC		14	coord	14	coord
+21	considéré	considérer	VPP	VPP	n=s|g=m|t=K	20	dep_coord	20	dep_coord
+22	comme	comme	P	P		21	mod	21	mod
+23	le	le	DET	DET	n=s|g=m	25	det	25	det
+24	meilleur	meilleur	ADJ	ADJ	n=s|g=m	25	mod	25	mod
+25	ami	ami	NC	NC	n=s|g=m	22	prep	22	prep
+26	de	de	P	P		25	dep	25	dep
+27	l'	le	DET	DET	n=s	28	det	28	det
+28	homme	homme	NC	NC	n=s|g=m	26	prep	26	prep
+29	.	.	PONCT	PONCT		28	ponct	28	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	a	avoir	V	V	n=s|t=P|p=3	0	root	0	root
+3	un	un	DET	DET	n=s|g=m	6	det	6	det
+4	très	très	ADV	ADV		5	mod	5	mod
+5	bon	bon	ADJ	ADJ	n=s|g=m	6	mod	6	mod
+6	flair	flair	NC	NC	n=s|g=m	2	obj	2	obj
+7	et	et	CC	CC		2	coord	2	coord
+8	peut	pouvoir	V	V	n=s|t=P|p=3	7	dep_coord	7	dep_coord
+9	être	être	VINF	VINF	t=W	8	obj	8	obj
+10	dressé	dresser	VPP	VPP	n=s|g=m|t=K	9	dep	9	dep
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	existe	exister	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	plus	plus	ADV	ADV		2	mod	2	mod
+4	de	de	P	P		2	mod	2	mod
+5	300	300	ADJ	ADJ		6	mod	6	mod
+6	races	race	NC	NC	n=p|g=f	4	prep	4	prep
+7	de	de	P	P		2	mod	2	mod
+8	chiens	chien	NC	NC	n=p|g=m	7	prep	7	prep
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	comme	comme	CS	CS		2	mod	2	mod
+11	le	le	DET	DET	n=s|g=m	12	det	12	det
+12	beauceron	beauceron	NC	NC	n=s|g=m	0	_	0	_
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	le	le	DET	DET	n=s|g=m	15	det	15	det
+15	husky	_	NC	NC		12	mod	12	mod
+16	sibérien	sibérien	ADJ	ADJ	n=s|g=m	15	mod	15	mod
+17	et	et	CC	CC		15	coord	15	coord
+18	le	le	DET	DET	n=s|g=m	19	det	19	det
+19	berger	berger	NC	NC	n=s|g=m	17	dep_coord	17	dep_coord
+20	allemand	allemand	ADJ	ADJ	n=s|g=m	19	mod	19	mod
+21	et	et	CC	CC		20	coord	20	coord
+22	aussi	aussi	ADV	ADV		23	mod	23	mod
+23	beaucoup	beaucoup	ADV	ADV		21	mod	21	mod
+24	de	de	P	P		21	dep_coord	21	dep_coord
+25	sortes	sorte	NC	NC	n=p|g=f	24	prep	24	prep
+26	de	de	P	P		19	dep	19	dep
+27	bâtards	bâtard	NC	NC	n=p|g=m	26	prep	26	prep
+28	(	(	PONCT	PONCT		27	ponct	27	ponct
+29	ou	ou	CC	CC		12	coord	12	coord
+30	chiens	chien	NC	NC	n=p|g=m	29	dep_coord	29	dep_coord
+31	nés	naître	VPP	VPP	n=p|g=m|t=K	30	mod	30	mod
+32	de	de	P	P		31	mod	31	mod
+33	croisement	croisement	NC	NC	n=s|g=m	32	prep	32	prep
+34	de	de	P	P		31	mod	31	mod
+35	races	race	NC	NC	n=p|g=f	34	prep	34	prep
+36	)	)	PONCT	PONCT		35	ponct	35	ponct
+37	.	.	PONCT	PONCT		35	ponct	35	ponct
+
+1	Des	des	DET	DET	n=p	2	det	2	det
+2	études	étude	NC	NC	n=p|g=f	5	suj	5	suj
+3	génétiques	génétique	ADJ	ADJ	n=p	2	mod	2	mod
+4	ont	avoir	V	V	n=p|t=P|p=3	5	aux_tps	5	aux_tps
+5	montré	montrer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+6	que	que	CS	CS		5	obj	5	obj
+7	l'	le	DET	DET	n=s	8	det	8	det
+8	ADN	_	NC	NC		11	suj	11	suj
+9	du	de	P+D	P+D	n=s|g=m	8	dep	8	dep
+10	chien	chien	NC	NC	n=s|g=m	9	prep	9	prep
+11	est	être	V	V	n=s|t=P|p=3	6	sub	6	sub
+12	très	très	ADV	ADV		11	mod	11	mod
+13	proche	proche	ADJ	ADJ	n=s	11	ats	11	ats
+14	de	de	P	P		11	mod	11	mod
+15	celui	celui	PRO	PRO	n=s|g=m	14	prep	14	prep
+16	du	de	P+D	P+D	n=s|g=m	15	dep	15	dep
+17	loup1	_	NC	NC		16	prep	16	prep
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	Ceci	ceci	PRO	PRO	n=s|g=m	6	suj	6	suj
+2	et	et	CC	CC		1	coord	1	coord
+3	d'	de	DET	DET	n=p	5	det	5	det
+4	autres	autre	ADJ	ADJ	n=p	5	mod	5	mod
+5	indices	indice	NC	NC	n=p|g=m	6	suj	6	suj
+6	font	faire	V	V	n=p|t=P|p=3	0	root	0	root
+7	qu'	que	CS	CS		6	mod	6	mod
+8	il	il	CLS	CLS	n=s|g=m|p=3	9	suj	9	suj
+9	est	être	V	V	n=s|t=P|p=3	7	sub	7	sub
+10	maintenant	maintenant	ADV	ADV		11	mod	11	mod
+11	certain	certain	ADJ	ADJ	n=s|g=m	9	ats	9	ats
+12	que	que	CS	CS		9	mod	9	mod
+13	le	le	DET	DET	n=s|g=m	14	det	14	det
+14	chien	chien	NC	NC	n=s|g=m	15	suj	15	suj
+15	est	être	V	V	n=s|t=P|p=3	12	sub	12	sub
+16	un	un	DET	DET	n=s|g=m	17	det	17	det
+17	loup	loup	NC	NC	n=s|g=m	15	obj	15	obj
+18	domestiqué	domestiquer	VPP	VPP	n=s|g=m|t=K	17	mod	17	mod
+19	par	par	P	P		18	mod	18	mod
+20	l'	le	DET	DET	n=s	21	det	21	det
+21	être	être	NC	NC	n=s|g=m	19	prep	19	prep
+22	humain	humain	ADJ	ADJ	n=s|g=m	21	mod	21	mod
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	chien	chien	NC	NC	n=s|g=m	3	suj	3	suj
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	donc	donc	ADV	ADV		3	mod	3	mod
+5	en	en	P	P		3	mod	3	mod
+6	quelque	quelque	DET	DET	n=s	7	det	7	det
+7	sorte	sorte	NC	NC	n=s|g=f	5	prep	5	prep
+8	un	un	DET	DET	n=s|g=m	9	det	9	det
+9	loup	loup	NC	NC	n=s|g=m	3	obj	3	obj
+10	domestique	domestique	ADJ	ADJ	n=s	9	mod	9	mod
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+1	Par	par	P	P		4	mod	4	mod
+2	contre	contre	NC	NC	n=s|g=m	1	prep	1	prep
+3	on	on	CLS	CLS	n=s|p=3	4	suj	4	suj
+4	connait	_	V	V		0	root	0	root
+5	mal	mal	ADV	ADV		4	mod	4	mod
+6	l'	le	DET	DET	n=s	7	det	7	det
+7	époque	époque	NC	NC	n=s|g=f	4	obj	4	obj
+8	précise	précis	ADJ	ADJ	n=s|g=f	7	mod	7	mod
+9	de	de	P	P		4	mod	4	mod
+10	cette	cette	DET	DET	n=s|g=f	11	det	11	det
+11	domestication	domestication	NC	NC	n=s|g=f	9	prep	9	prep
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+1	D'	de	P	P		12	mod	12	mod
+2	après	après	P	P		1	dep	1	dep
+3	des	des	DET	DET	n=p	4	det	4	det
+4	trouvailles	trouvaille	NC	NC	n=p|g=f	2	prep	2	prep
+5	archéologiques	archéologique	ADJ	ADJ	n=p	4	mod	4	mod
+6	et	et	CC	CC		1	coord	1	coord
+7	des	de	P+D	P+D	n=p	6	dep_coord	6	dep_coord
+8	analyses	analyse	NC	NC	n=p|g=f	7	prep	7	prep
+9	génétiques	génétique	ADJ	ADJ	n=p	8	mod	8	mod
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	c'	ce	CLS	CLS		12	suj	12	suj
+12	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+13	il	il	CLS	CLS	n=s|g=m|p=3	15	suj	15	suj
+14	y	y	CLO	CLO		15	mod	15	mod
+15	a	avoir	V	V	n=s|t=P|p=3	12	mod	12	mod
+16	entre	entre	P	P		15	mod	15	mod
+17	20_000	20_000	NC	NC		16	prep	16	prep
+18	et	et	CC	CC		15	coord	15	coord
+19	50_000	50_000	ADJ	ADJ		20	mod	20	mod
+20	ans	an	NC	NC	n=p|g=m	33	suj	33	suj
+21	environ	environ	ADV	ADV		20	mod	20	mod
+22	que	que	CS	CS		20	dep	20	dep
+23	les	les	DET	DET	n=p	24	det	24	det
+24	chiens	chien	NC	NC	n=p|g=m	27	suj	27	suj
+25	se	se	CLR	CLR	n=p,s|p=3	27	aff	27	aff
+26	sont	être	V	V	n=p|t=P|p=3	27	aux_tps	27	aux_tps
+27	séparés	séparer	VPP	VPP	n=p|g=m|t=K	22	sub	22	sub
+28	des	des	DET	DET	n=p	29	det	29	det
+29	loups	loup	NC	NC	n=p|g=m	27	obj	27	obj
+30	et	et	CC	CC		27	coord	27	coord
+31	ont	avoir	V	V	n=p|t=P|p=3	33	aux_tps	33	aux_tps
+32	été	être	VPP	VPP	t=K	33	aux_pass	33	aux_pass
+33	domestiqués	domestiquer	VPP	VPP	n=p|g=m|t=K	18	dep_coord	18	dep_coord
+34	(	(	PONCT	PONCT		33	ponct	33	ponct
+35	ce	ce	PRO	PRO	n=s	33	mod	33	mod
+36	qui	qui	PROREL	PROREL	n=s	38	suj	38	suj
+37	n'	ne	ADV	ADV		38	mod	38	mod
+38	est	être	V	V	n=s|t=P|p=3	35	mod_rel	35	mod_rel
+39	pas	pas	ADV	ADV		38	mod	38	mod
+40	exactement	_	ADV	ADV		38	mod	38	mod
+41	la	la	DET	DET	n=s|g=f	43	det	43	det
+42	même	même	ADJ	ADJ	n=s	43	mod	43	mod
+43	chose	chose	NC	NC	n=s|g=f	38	obj	38	obj
+44	)	)	PONCT	PONCT		43	ponct	43	ponct
+45	.	.	PONCT	PONCT		43	ponct	43	ponct
+
+1	On	on	CLS	CLS	n=s|p=3	2	suj	2	suj
+2	connait	_	V	V		0	root	0	root
+3	mal	mal	ADV	ADV		2	mod	2	mod
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	façon	façon	NC	NC	n=s|g=f	2	obj	2	obj
+6	dont	dont	PROREL	PROREL		10	de_obj	10	de_obj
+7	cela	cela	PRO	PRO	n=s|g=m	10	suj	10	suj
+8	s'	se	CLR	CLR	n=p,s|p=3	10	aff	10	aff
+9	est	être	V	V	n=s|t=P|p=3	10	aux_tps	10	aux_tps
+10	passé	passer	VPP	VPP	n=s|g=m|t=K	5	mod_rel	5	mod_rel
+11	et	et	CC	CC		10	coord	10	coord
+12	combien	combien	ADVWH	ADVWH		0	_	0	_
+13	de	de	P	P		14	det	14	det
+14	temps	temps	NC	NC	g=m	0	_	0	_
+15	cela	cela	PRO	PRO	n=s|g=m	0	_	0	_
+16	a	avoir	V	V	n=s|t=P|p=3	17	aux_tps	17	aux_tps
+17	pris1	_	VPP	VPP		15	ponct	15	ponct
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	Peut-être	peut-être	ADV	ADV		2	mod	2	mod
+2	que	que	CS	CS		0	root	0	root
+3	des	des	DET	DET	n=p	4	det	4	det
+4	groupes	groupe	NC	NC	n=p|g=m	7	suj	7	suj
+5	de	de	P	P		4	dep	4	dep
+6	loups	loup	NC	NC	n=p|g=m	5	prep	5	prep
+7	consommaient	consommer	V	V	n=p|t=I|p=3	2	sub	2	sub
+8	les	les	DET	DET	n=p	9	det	9	det
+9	restes	reste	NC	NC	n=p|g=m	7	obj	7	obj
+10	alimentaires	alimentaire	ADJ	ADJ	n=p	9	mod	9	mod
+11	de	de	P	P		7	mod	7	mod
+12	groupes	groupe	NC	NC	n=p|g=m	11	prep	11	prep
+13	d'	de	P	P		7	mod	7	mod
+14	hommes	homme	NC	NC	n=p|g=m	13	prep	13	prep
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	chassaient	chasser	V	V	n=p|t=I|p=3	7	mod	7	mod
+17	plus	plus	ADV	ADV		16	mod	16	mod
+18	ou	ou	CC	CC		17	coord	17	coord
+19	moins	moins	ADV	ADV		18	dep_coord	18	dep_coord
+20	avec	avec	P	P		16	mod	16	mod
+21	eux	eux	PRO	PRO	n=p|g=m|p=3	20	prep	20	prep
+22	et	et	CC	CC		16	coord	16	coord
+23	sont	être	V	V	n=p|t=P|p=3	22	dep_coord	22	dep_coord
+24	devenus	devenir	VPP	VPP	n=p|g=m|t=K	23	ponct	23	ponct
+25	de	de	P	P		23	mod	23	mod
+26	moins	moins	ADV	ADV		0	_	0	_
+27	en	en	P	P		0	_	0	_
+28	moins	moins	ADV	ADV		29	mod	29	mod
+29	farouches	farouche	ADJ	ADJ	n=p	27	prep	27	prep
+30	.	.	PONCT	PONCT		29	ponct	29	ponct
+
+1	Puis	puis	CC	CC		0	root	0	root
+2	des	de	P+D	P+D	n=p	6	mod	6	mod
+3	relations	relation	NC	NC	n=p|g=f	2	prep	2	prep
+4	se	se	CLR	CLR	n=p,s|p=3	6	aff	6	aff
+5	seraient	être	V	V	n=p|t=C|p=3	6	aux_tps	6	aux_tps
+6	développées	développer	VPP	VPP	n=p|g=f|t=K	1	dep_coord	1	dep_coord
+7	peu	peu	ADV	ADV		6	mod	6	mod
+8	à	à	P	P		6	mod	6	mod
+9	peu	peu	ADV	ADV		8	mod	8	mod
+10	entre	entre	P	P		6	mod	6	mod
+11	ce	ce	DET	DET	n=s|g=m	12	det	12	det
+12	type	type	NC	NC	n=s|g=m	10	prep	10	prep
+13	de	de	P	P		6	mod	6	mod
+14	chien	chien	NC	NC	n=s|g=m	13	prep	13	prep
+15	et	et	CC	CC		6	coord	6	coord
+16	des	de	P+D	P+D	n=p	15	dep_coord	15	dep_coord
+17	hommes	homme	NC	NC	n=p|g=m	16	prep	16	prep
+18	préhistoriques	préhistorique	ADJ	ADJ	n=p	17	mod	17	mod
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	arrivait	arriver	V	V	n=s|t=I|p=3	0	root	0	root
+3	sans	sans	P	P		2	mod	2	mod
+4	doute	doute	NC	NC	n=s|g=m	3	prep	3	prep
+5	également	_	ADV	ADV		2	mod	2	mod
+6	que	que	CS	CS		2	mod	2	mod
+7	les	les	DET	DET	n=p	8	det	8	det
+8	hommes	homme	NC	NC	n=p|g=m	9	suj	9	suj
+9	recueillent	recueillir	V	V	n=p|t=P,S|p=3	6	sub	6	sub
+10	et	et	CC	CC		9	coord	9	coord
+11	élèvent	élever	V	V	n=p|t=P,S|p=3	10	dep_coord	10	dep_coord
+12	des	des	DET	DET	n=p	13	det	13	det
+13	louveteaux	louveteau	NC	NC	n=p|g=m	11	obj	11	obj
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	ce	ce	PRO	PRO	n=s	9	mod	9	mod
+16	qui	qui	PROREL	PROREL	n=s	17	suj	17	suj
+17	permettait	permettre	V	V	n=s|t=I|p=3	15	mod_rel	15	mod_rel
+18	de	de	P	P		17	mod	17	mod
+19	les	les	CLO	CLO	n=p|p=3	20	obj	20	obj
+20	apprivoiser	apprivoiser	VINF	VINF	t=W	18	prep	18	prep
+21	mais	mais	CC	CC		9	coord	9	coord
+22	ne	ne	ADV	ADV		23	mod	23	mod
+23	suffisait	suffire	V	V	n=s|t=I|p=3	21	dep_coord	21	dep_coord
+24	pas	pas	ADV	ADV		23	mod	23	mod
+25	à	à	P	P		23	mod	23	mod
+26	en	en	CLO	CLO		27	aff	27	aff
+27	faire	faire	VINF	VINF	t=W	25	prep	25	prep
+28	tout	tout	PRO	PRO	n=s|g=m	27	obj	27	obj
+29	de	de	P	P		27	mod	27	mod
+30	suite	suite	NC	NC	n=s|g=f	29	prep	29	prep
+31	des	de	P+D	P+D	n=p	27	mod	27	mod
+32	chiens	chien	NC	NC	n=p|g=m	31	prep	31	prep
+33	.	.	PONCT	PONCT		32	ponct	32	ponct
+
+1	Avant	avant	P	P		7	mod	7	mod
+2	ces	ces	DET	DET	n=p	3	det	3	det
+3	découvertes	découverte	NC	NC	n=p|g=f	1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	on	on	CLS	CLS	n=s|p=3	7	suj	7	suj
+6	a	avoir	V	V	n=s|t=P|p=3	7	aux_tps	7	aux_tps
+7	pensé	penser	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+8	à	à	P	P		7	mod	7	mod
+9	une	une	DET	DET	n=s|g=f	10	det	10	det
+10	époque	époque	NC	NC	n=s|g=f	8	prep	8	prep
+11	que	que	CS	CS		7	mod	7	mod
+12	le	le	DET	DET	n=s|g=m	13	det	13	det
+13	chien	chien	NC	NC	n=s|g=m	15	suj	15	suj
+14	domestique	domestique	ADJ	ADJ	n=s	13	mod	13	mod
+15	avait	avoir	V	V	n=s|t=I|p=3	11	sub	11	sub
+16	pour	pour	P	P		15	mod	15	mod
+17	ancêtre	ancêtre	NC	NC	n=s	16	prep	16	prep
+18	un	un	DET	DET	n=s|g=m	19	det	19	det
+19	chien	chien	NC	NC	n=s|g=m	15	obj	15	obj
+20	sauvage	sauvage	ADJ	ADJ	n=s	19	mod	19	mod
+21	comme	comme	CS	CS		15	mod	15	mod
+22	il	il	CLS	CLS	n=s|g=m|p=3	24	suj	24	suj
+23	en	en	CLO	CLO		24	obj	24	obj
+24	existe	exister	V	V	n=s|t=P,S|p=1,3	21	sub	21	sub
+25	dans	dans	P	P		24	mod	24	mod
+26	certaines	certain	DET	DET	n=p|g=f	27	det	27	det
+27	régions	région	NC	NC	n=p|g=f	25	prep	25	prep
+28	,	,	PONCT	PONCT		27	ponct	27	ponct
+29	dont	dont	PROREL	PROREL		31	mod	31	mod
+30	le	le	DET	DET	n=s|g=m	31	det	31	det
+31	dingo	dingo	NC	NC	n=s	27	mod_rel	27	mod_rel
+32	d'	de	P	P		31	dep	31	dep
+33	Australie	Australie	NPP	NPP	n=s|g=f	32	prep	32	prep
+34	.	.	PONCT	PONCT		33	ponct	33	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	chien	chien	NC	NC	n=s|g=m	3	suj	3	suj
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	un	un	DET	DET	n=s|g=m	5	det	5	det
+5	chasseur	chasseur	NC	NC	n=s|g=m	3	obj	3	obj
+6	qui	qui	PROREL	PROREL	n=s	7	suj	7	suj
+7	peut	pouvoir	V	V	n=s|t=P|p=3	5	mod_rel	5	mod_rel
+8	poursuivre	poursuivre	VINF	VINF	t=W	7	obj	7	obj
+9	ses	ses	DET	DET	n=p|p=3|poss=s	10	det	10	det
+10	proies	proie	NC	NC	n=p|g=f	8	obj	8	obj
+11	sur	sur	P	P		8	mod	8	mod
+12	de	de	DET	DET	n=p	14	det	14	det
+13	longues	long	ADJ	ADJ	n=p|g=f	14	mod	14	mod
+14	distances	distance	NC	NC	n=p|g=f	11	prep	11	prep
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	de	de	P	P		8	mod	8	mod
+17	préférence	préférence	NC	NC	n=s|g=f	16	prep	16	prep
+18	en	en	P	P		8	mod	8	mod
+19	meute	meute	NC	NC	n=s|g=f	18	prep	18	prep
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+1	Ses	ses	DET	DET	n=p|p=3|poss=s	2	det	2	det
+2	pattes	patte	NC	NC	n=p|g=f	3	suj	3	suj
+3	reposent	reposer	V	V	n=p|t=P,S|p=3	0	root	0	root
+4	au	à	P+D	P+D	n=s|g=m	3	mod	3	mod
+5	sol	_	NC	NC		4	prep	4	prep
+6	seulement	_	ADV	ADV		3	mod	3	mod
+7	par	par	P	P		3	mod	3	mod
+8	la	la	DET	DET	n=s|g=f	10	det	10	det
+9	troisième	troisième	ADJ	ADJ	n=s	10	mod	10	mod
+10	phalange	phalange	NC	NC	n=s|g=f	7	prep	7	prep
+11	de	de	P	P		3	mod	3	mod
+12	chaque	chaque	DET	DET	n=s	13	det	13	det
+13	doigt	doigt	NC	NC	n=s|g=m	11	prep	11	prep
+14	:	:	PONCT	PONCT		13	ponct	13	ponct
+15	le	le	DET	DET	n=s|g=m	16	det	16	det
+16	chien	chien	NC	NC	n=s|g=m	17	suj	17	suj
+17	est	être	V	V	n=s|t=P|p=3	3	mod	3	mod
+18	digitigrade	digitigrade	ADJ	ADJ	n=s	17	ats	17	ats
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	ce	ce	PRO	PRO	n=s	17	mod	17	mod
+21	qui	qui	PROREL	PROREL	n=s	22	suj	22	suj
+22	veut	vouloir	V	V	n=s|t=P|p=3	20	mod_rel	20	mod_rel
+23	dire	dire	VINF	VINF	t=W	22	obj	22	obj
+24	qu'	que	CS	CS		23	obj	23	obj
+25	il	il	CLS	CLS	n=s|g=m|p=3	27	suj	27	suj
+26	«_	"	PONCT	PONCT		25	ponct	25	ponct
+27	marche	marcher	V	V	n=s|t=P,S|p=1,3	24	sub	24	sub
+28	sur	sur	P	P		27	mod	27	mod
+29	ses	ses	DET	DET	n=p|p=3|poss=s	30	det	30	det
+30	doigts	doigt	NC	NC	n=p|g=m	28	prep	28	prep
+31	_»	"	PONCT	PONCT		30	ponct	30	ponct
+32	.	.	PONCT	PONCT		30	ponct	30	ponct
+
+1	Ses	ses	DET	DET	n=p|p=3|poss=s	2	det	2	det
+2	membres	membre	NC	NC	n=p|g=m	4	suj	4	suj
+3	antérieurs	antérieur	ADJ	ADJ	n=p|g=m	2	mod	2	mod
+4	ont	avoir	V	V	n=p|t=P|p=3	0	root	0	root
+5	cinq	cinq	DET	DET	s=card|n=p	6	det	6	det
+6	doigts	doigt	NC	NC	n=p|g=m	4	obj	4	obj
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	dont	dont	PROREL	PROREL		9	mod	9	mod
+9	un	un	PRO	PRO	n=s|g=m	6	mod_rel	6	mod_rel
+10	en	en	P	P		9	dep	9	dep
+11	arrière	arrière	NC	NC	n=s	10	prep	10	prep
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	appelé	appeler	VPP	VPP	n=s|g=m|t=K	9	mod	9	mod
+14	ergot	ergot	NC	NC	n=s|g=m	13	mod	13	mod
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	qui	qui	PROREL	PROREL	n=s	18	suj	18	suj
+17	ne	ne	ADV	ADV		18	mod	18	mod
+18	touche	toucher	V	V	n=s|t=P,S|p=1,3	6	mod_rel	6	mod_rel
+19	pas	pas	ADV	ADV		18	mod	18	mod
+20	le	le	DET	DET	n=s|g=m	21	det	21	det
+21	sol	_	NC	NC		18	obj	18	obj
+22	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	membres	membre	NC	NC	n=p|g=m	7	suj	7	suj
+3	postérieurs	postérieur	ADJ	ADJ	n=p|g=m	2	mod	2	mod
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	eux	eux	PRO	PRO	n=p|g=m|p=3	2	mod	2	mod
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	ont	avoir	V	V	n=p|t=P|p=3	0	root	0	root
+8	généralement	_	ADV	ADV		7	mod	7	mod
+9	quatre	quatre	DET	DET	s=card|n=p	10	det	10	det
+10	doigts	doigt	NC	NC	n=p|g=m	7	obj	7	obj
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	mais	mais	CC	CC		7	coord	7	coord
+13	l'	le	DET	DET	n=s	14	det	14	det
+14	ergot	ergot	NC	NC	n=s|g=m	15	suj	15	suj
+15	existe	exister	V	V	n=s|t=P,S|p=1,3	12	dep_coord	12	dep_coord
+16	parfois	parfois	ADV	ADV		15	mod	15	mod
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	et	et	CC	CC		15	coord	15	coord
+19	peut	pouvoir	V	V	n=s|t=P|p=3	18	dep_coord	18	dep_coord
+20	même	même	ADV	ADV		19	mod	19	mod
+21	être	être	VINF	VINF	t=W	19	obj	19	obj
+22	double	double	ADJ	ADJ	n=s	21	ats	21	ats
+23	chez	chez	P	P		21	mod	21	mod
+24	certains	certain	DET	DET	n=p|g=m	26	det	26	det
+25	grands	grand	ADJ	ADJ	n=p|g=m	26	mod	26	mod
+26	chiens	chien	NC	NC	n=p|g=m	23	prep	23	prep
+27	de	de	P	P		26	dep	26	dep
+28	berger	berger	NC	NC	n=s|g=m	27	prep	27	prep
+29	.	.	PONCT	PONCT		28	ponct	28	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	doigts	doigt	NC	NC	n=p|g=m	4	suj	4	suj
+3	se	se	CLR	CLR	n=p,s|p=3	4	aff	4	aff
+4	terminent	terminer	V	V	n=p|t=P,S|p=3	0	root	0	root
+5	par	par	P	P		4	mod	4	mod
+6	des	des	DET	DET	n=p	7	det	7	det
+7	griffes	griffe	NC	NC	n=p|g=f	5	prep	5	prep
+8	non	non	ADV	ADV		9	mod	9	mod
+9	rétractiles	rétractile	ADJ	ADJ	n=p	7	mod	7	mod
+10	;	;	PONCT	PONCT		9	ponct	9	ponct
+11	ils	ils	CLS	CLS	n=p|g=m|p=3	13	suj	13	suj
+12	sont	être	V	V	n=p|t=P|p=3	13	aux_pass	13	aux_pass
+13	soutenus	soutenir	VPP	VPP	n=p|g=m|t=K	4	mod	4	mod
+14	par	par	P	P		13	mod	13	mod
+15	des	des	DET	DET	n=p	16	det	16	det
+16	coussinets	coussinet	NC	NC	n=p|g=m	14	prep	14	prep
+17	plantaires	plantaire	ADJ	ADJ	n=p	16	mod	16	mod
+18	à	à	P	P		13	mod	13	mod
+19	peau	peau	NC	NC	n=s|g=f	18	prep	18	prep
+20	épaisse	épais	ADJ	ADJ	n=s|g=f	19	mod	19	mod
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	en	en	P	P		13	mod	13	mod
+23	contact	contact	NC	NC	n=s|g=m	22	prep	22	prep
+24	avec	avec	P	P		13	mod	13	mod
+25	le	le	DET	DET	n=s|g=m	26	det	26	det
+26	sol	_	NC	NC		24	prep	24	prep
+27	.	.	PONCT	PONCT		26	ponct	26	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	chiens	chien	NC	NC	n=p|g=m	3	suj	3	suj
+3	ont	avoir	V	V	n=p|t=P|p=3	0	root	0	root
+4	un	un	DET	DET	n=s|g=m	5	det	5	det
+5	flair	flair	NC	NC	n=s|g=m	3	obj	3	obj
+6	très	très	ADV	ADV		7	mod	7	mod
+7	développé	développer	VPP	VPP	n=s|g=m|t=K	5	mod	5	mod
+8	.	.	PONCT	PONCT		7	ponct	7	ponct
+
+1	Selon	selon	P	P		9	mod	9	mod
+2	les	les	DET	DET	n=p	3	det	3	det
+3	sources	source	NC	NC	n=p|g=f	1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	le	le	DET	DET	n=s|g=m	6	det	6	det
+6	flair	flair	NC	NC	n=s|g=m	9	suj	9	suj
+7	du	de	P+D	P+D	n=s|g=m	6	dep	6	dep
+8	chien	chien	NC	NC	n=s|g=m	7	prep	7	prep
+9	serait	être	V	V	n=s|t=C|p=3	0	root	0	root
+10	de	de	P	P		9	mod	9	mod
+11	40	40	NC	NC		10	prep	10	prep
+12	à	à	P	P		9	mod	9	mod
+13	10_000	10_000	ADJ	ADJ		14	mod	14	mod
+14	fois	fois	NC	NC	g=f	12	prep	12	prep
+15	plus	plus	ADV	ADV		16	mod	16	mod
+16	développé	développer	VPP	VPP	n=s|g=m|t=K	9	mod	9	mod
+17	que	que	CS	CS		16	mod	16	mod
+18	celui	celui	PRO	PRO	n=s|g=m	0	_	0	_
+19	de	de	P	P		18	dep	18	dep
+20	l'	le	DET	DET	n=s	21	det	21	det
+21	homme2	_	NC	NC		19	prep	19	prep
+22	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+1	Certaines	certain	DET	DET	n=p|g=f	2	det	2	det
+2	races	race	NC	NC	n=p|g=f	5	suj	5	suj
+3	sont	être	V	V	n=p|t=P|p=3	5	aux_pass	5	aux_pass
+4	spécialement	_	ADV	ADV		5	mod	5	mod
+5	douées	douer	VPP	VPP	n=p|g=f|t=K	0	root	0	root
+6	et	et	CC	CC		5	coord	5	coord
+7	ont	avoir	V	V	n=p|t=P|p=3	9	aux_tps	9	aux_tps
+8	été	être	VPP	VPP	t=K	9	aux_pass	9	aux_pass
+9	sélectionnées	sélectionner	VPP	VPP	n=p|g=f|t=K	6	dep_coord	6	dep_coord
+10	pour	pour	P	P		9	mod	9	mod
+11	leur	leur	DET	DET	n=s|p=3|poss=p	12	det	12	det
+12	flair	flair	NC	NC	n=s|g=m	10	prep	10	prep
+13	comme	comme	P	P		9	mod	9	mod
+14	chien	chien	NC	NC	n=s|g=m	13	prep	13	prep
+15	de	de	P	P		9	mod	9	mod
+16	chasse	chasse	NC	NC	n=s|g=f	15	prep	15	prep
+17	par	par	P	P		9	mod	9	mod
+18	exemple	exemple	NC	NC	n=s|g=m	17	prep	17	prep
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	On	on	CLS	CLS	n=s|p=3	2	suj	2	suj
+2	utilise	utiliser	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	toujours	toujours	ADV	ADV		2	mod	2	mod
+4	des	des	DET	DET	n=p	5	det	5	det
+5	chiens	chien	NC	NC	n=p|g=m	2	obj	2	obj
+6	de	de	P	P		5	dep	5	dep
+7	travail	travail	NC	NC	n=s|g=m	6	prep	6	prep
+8	pour	pour	P	P		2	mod	2	mod
+9	leur	leur	DET	DET	n=s|p=3|poss=p	10	det	10	det
+10	flair	flair	NC	NC	n=s|g=m	8	prep	8	prep
+11	(	(	PONCT	PONCT		10	ponct	10	ponct
+12	recherche	recherche	NC	NC	n=s|g=f	10	mod	10	mod
+13	de	de	P	P		12	dep	12	dep
+14	personnes	personne	NC	NC	n=p|g=f	13	prep	13	prep
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	de	de	P	P		2	mod	2	mod
+17	substances	substance	NC	NC	n=p|g=f	16	prep	16	prep
+18	...	...	PONCT	PONCT		17	ponct	17	ponct
+19	ou	ou	CC	CC		16	coord	16	coord
+20	de	de	P	P		19	dep_coord	19	dep_coord
+21	truffes	truffe	NC	NC	n=p|g=f	20	prep	20	prep
+22	)	)	PONCT	PONCT		21	ponct	21	ponct
+23	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+1	Habituellement	_	ADV	ADV		5	mod	5	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	un	un	DET	DET	n=s|g=m	4	det	4	det
+4	chien	chien	NC	NC	n=s|g=m	5	suj	5	suj
+5	mange	manger	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+6	des	des	DET	DET	n=p	7	det	7	det
+7	croquettes	croquette	NC	NC	n=p|g=f	5	obj	5	obj
+8	conçues	concevoir	VPP	VPP	n=p|g=f|t=K	7	mod	7	mod
+9	pour	pour	P	P		8	mod	8	mod
+10	eux	eux	PRO	PRO	n=p|g=m|p=3	9	prep	9	prep
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	qui	qui	PROREL	PROREL	n=s	13	suj	13	suj
+13	contiennent	contenir	V	V	n=p|t=P,S|p=3	7	mod_rel	7	mod_rel
+14	tous	tout	ADJ	ADJ	n=p|g=m	16	mod	16	mod
+15	les	les	DET	DET	n=p	16	det	16	det
+16	nutriments	nutriment	NC	NC	n=p|g=m	13	obj	13	obj
+17	nécessaires	nécessaire	ADJ	ADJ	n=p	16	mod	16	mod
+18	au	à	P+D	P+D	n=s|g=m	13	mod	13	mod
+19	quotidien	quotidien	NC	NC	n=s|g=m	18	prep	18	prep
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+1	Cependant	cependant	ADV	ADV		4	mod	4	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	ils	ils	CLS	CLS	n=p|g=m|p=3	4	suj	4	suj
+4	peuvent	pouvoir	V	V	n=p|t=P|p=3	0	root	0	root
+5	également	_	ADV	ADV		4	mod	4	mod
+6	grignoter	grignoter	VINF	VINF	t=W	4	obj	4	obj
+7	des	des	DET	DET	n=p	8	det	8	det
+8	os	os	NC	NC	g=m	6	obj	6	obj
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	ou	ou	CC	CC		4	coord	4	coord
+11	d'	de	DET	DET	n=p	13	det	13	det
+12	autres	autre	ADJ	ADJ	n=p	13	mod	13	mod
+13	types	type	NC	NC	n=p|g=m	0	_	0	_
+14	d'	de	P	P		13	dep	13	dep
+15	aliments	aliment	NC	NC	n=p|g=m	14	prep	14	prep
+16	pour	pour	P	P		13	dep	13	dep
+17	chien	chien	NC	NC	n=s|g=m	16	prep	16	prep
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	Un	un	DET	DET	n=s|g=m	2	det	2	det
+2	chien	chien	NC	NC	n=s|g=m	3	suj	3	suj
+3	peut	pouvoir	V	V	n=s|t=P|p=3	0	root	0	root
+4	être	être	VINF	VINF	t=W	5	aux_pass	5	aux_pass
+5	habitué	habituer	VPP	VPP	n=s|g=m|t=K	3	obj	3	obj
+6	à	à	P	P		5	mod	5	mod
+7	manger	manger	VINF	VINF	t=W	6	prep	6	prep
+8	des	des	DET	DET	n=p	9	det	9	det
+9	aliments	aliment	NC	NC	n=p|g=m	7	obj	7	obj
+10	pour	pour	P	P		7	mod	7	mod
+11	les	les	DET	DET	n=p	12	det	12	det
+12	humains	humains	NC	NC	n=p|g=m	10	prep	10	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	cela	cela	PRO	PRO	n=s|g=m	15	suj	15	suj
+15	dépend	dépendre	V	V	n=s|t=P|p=3	3	mod	3	mod
+16	de	de	P	P		15	mod	15	mod
+17	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	18	det	18	det
+18	race	race	NC	NC	n=s|g=f	16	prep	16	prep
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	Certains	certain	DET	DET	n=p|g=m	2	det	2	det
+2	éleveurs	éleveur	NC	NC	n=p|g=m	7	suj	7	suj
+3	ou	ou	CC	CC		2	coord	2	coord
+4	propriétaires	propriétaire	NC	NC	n=p	3	dep_coord	3	dep_coord
+5	de	de	P	P		2	dep	2	dep
+6	chiens	chien	NC	NC	n=p|g=m	5	prep	5	prep
+7	préfèrent	préférer	V	V	n=p|t=P,S|p=3	0	root	0	root
+8	préparer	préparer	VINF	VINF	t=W	7	obj	7	obj
+9	eux	eux	PRO	PRO	n=p|g=m|p=3	8	obj	8	obj
+10	-	-	PONCT	PONCT		9	ponct	9	ponct
+11	même	même	ADV	ADV		8	mod	8	mod
+12	des	des	DET	DET	n=p	13	det	13	det
+13	repas	repas	NC	NC	g=m	8	obj	8	obj
+14	à	à	P	P		8	mod	8	mod
+15	base	base	NC	NC	n=s|g=f	14	prep	14	prep
+16	de	de	P	P		8	mod	8	mod
+17	viande	viande	NC	NC	n=s|g=f	16	prep	16	prep
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	d'	de	P	P		8	mod	8	mod
+20	os	os	NC	NC	g=m	19	prep	19	prep
+21	crus	croire	ADJ	ADJ	n=p|g=m|t=K	20	mod	20	mod
+22	et	et	CC	CC		7	coord	7	coord
+23	d'	de	DET	DET	n=p	25	det	25	det
+24	autres	autre	ADJ	ADJ	n=p	25	mod	25	mod
+25	ingrédients	ingrédient	NC	NC	n=p|g=m	0	_	0	_
+26	.	.	PONCT	PONCT		25	ponct	25	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	chocolat	chocolat	NC	NC	n=s|g=m	3	suj	3	suj
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	très	très	ADV	ADV		3	mod	3	mod
+5	dangereux	dangereux	ADJ	ADJ	g=m	3	ats	3	ats
+6	pour	pour	P	P		3	mod	3	mod
+7	le	le	DET	DET	n=s|g=m	8	det	8	det
+8	chien	chien	NC	NC	n=s|g=m	6	prep	6	prep
+9	.	.	PONCT	PONCT		8	ponct	8	ponct
+
+1	En	en	P	P		5	mod	5	mod
+2	effet	effet	NC	NC	n=s|g=m	1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	il	il	CLS	CLS	n=s|g=m|p=3	5	suj	5	suj
+5	contient	contenir	V	V	n=s|t=P|p=3	0	root	0	root
+6	une	une	DET	DET	n=s|g=f	7	det	7	det
+7	substance	substance	NC	NC	n=s|g=f	5	obj	5	obj
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	la	la	DET	DET	n=s|g=f	10	det	10	det
+10	théobromine	théobromine	NC	NC	n=s|g=f	5	mod	5	mod
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	qui	qui	PROREL	PROREL	n=s	13	suj	13	suj
+13	est	être	V	V	n=s|t=P|p=3	5	mod	5	mod
+14	mortelle	mortel	ADJ	ADJ	n=s|g=f	13	ats	13	ats
+15	à	à	P	P		13	mod	13	mod
+16	raison	raison	NC	NC	n=s|g=f	15	prep	15	prep
+17	de	de	P	P		13	mod	13	mod
+18	100	100	NC	NC		17	prep	17	prep
+19	~	_	NPP	NPP		18	mod	18	mod
+20	150	150	ADJ	ADJ		21	mod	21	mod
+21	mg	milligramme	NC	NC	g=m	18	mod	18	mod
+22	par	par	P	P		13	mod	13	mod
+23	kilo	kilo	NC	NC	n=s|g=m	22	prep	22	prep
+24	.	.	PONCT	PONCT		23	ponct	23	ponct
+
+1	Ainsi	ainsi	ADV	ADV		13	mod	13	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	pour	pour	P	P		13	mod	13	mod
+4	un	un	DET	DET	n=s|g=m	5	det	5	det
+5	yorkshire	_	NC	NC		3	prep	3	prep
+6	de	de	P	P		5	dep	5	dep
+7	3	3	ADJ	ADJ		8	mod	8	mod
+8	kg	kilogramme	NC	NC	g=m	6	prep	6	prep
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	la	la	DET	DET	n=s|g=f	11	det	11	det
+11	dose	dose	NC	NC	n=s|g=f	13	suj	13	suj
+12	mortelle	mortel	ADJ	ADJ	n=s|g=f	11	mod	11	mod
+13	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+14	de	de	P	P		13	mod	13	mod
+15	20	20	ADJ	ADJ		16	mod	16	mod
+16	g	gramme	NC	NC	g=m	14	prep	14	prep
+17	;	;	PONCT	PONCT		16	ponct	16	ponct
+18	pour	pour	P	P		13	mod	13	mod
+19	un	un	DET	DET	n=s|g=m	20	det	20	det
+20	colley	colley	NC	NC	n=s|g=m	18	prep	18	prep
+21	de	de	P	P		13	mod	13	mod
+22	25	25	ADJ	ADJ		23	mod	23	mod
+23	kg	kilogramme	NC	NC	g=m	21	prep	21	prep
+24	,	,	PONCT	PONCT		23	ponct	23	ponct
+25	ce	ce	CLS	CLS		26	suj	26	suj
+26	sera	être	V	V	n=s|t=F|p=3	13	mod	13	mod
+27	150	150	ADJ	ADJ		28	mod	28	mod
+28	g	gramme	NC	NC	g=m	26	obj	26	obj
+29	,	,	PONCT	PONCT		28	ponct	28	ponct
+30	etc	_	ADV	ADV		26	mod	26	mod
+31	.	.	PONCT	PONCT		30	ponct	30	ponct
+
+1	Un	un	DET	DET	n=s|g=m	2	det	2	det
+2	chien	chien	NC	NC	n=s|g=m	7	suj	7	suj
+3	n'	ne	ADV	ADV		7	mod	7	mod
+4	est	être	V	V	n=s|t=P|p=3	7	aux_tps	7	aux_tps
+5	pas	pas	ADV	ADV		6	mod	6	mod
+6	toujours	toujours	ADV	ADV		7	mod	7	mod
+7	habitué	habituer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+8	à	à	P	P		7	mod	7	mod
+9	manger	manger	VINF	VINF	t=W	8	prep	8	prep
+10	des	des	DET	DET	n=p	11	det	11	det
+11	croquettes	croquette	NC	NC	n=p|g=f	9	obj	9	obj
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+1	Certains	certain	PRO	PRO	n=p|g=m	2	suj	2	suj
+2	mangent	manger	V	V	n=p|t=P,S|p=3	0	root	0	root
+3	la	la	DET	DET	n=s|g=f	5	det	5	det
+4	même	même	ADJ	ADJ	n=s	5	mod	5	mod
+5	nourriture	nourriture	NC	NC	n=s|g=f	2	obj	2	obj
+6	que	que	CS	CS		2	mod	2	mod
+7	les	les	DET	DET	n=p	8	det	8	det
+8	êtres	être	NC	NC	n=p|g=m	0	_	0	_
+9	humains	humain	ADJ	ADJ	n=p|g=m	8	mod	8	mod
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+1	Certains	certain	DET	DET	n=p|g=m	2	det	2	det
+2	vétérinaires	vétérinaire	NC	NC	n=p	5	suj	5	suj
+3	ont	avoir	V	V	n=p|t=P|p=3	5	aux_tps	5	aux_tps
+4	cependant	cependant	ADV	ADV		5	mod	5	mod
+5	indiqué	indiquer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+6	que	que	CS	CS		5	obj	5	obj
+7	cela	cela	PRO	PRO	n=s|g=m	8	suj	8	suj
+8	pouvait	pouvoir	V	V	n=s|t=I|p=3	6	sub	6	sub
+9	être	être	VINF	VINF	t=W	8	obj	8	obj
+10	mauvais	mauvais	ADJ	ADJ	g=m	9	ats	9	ats
+11	pour	pour	P	P		9	mod	9	mod
+12	leur	leur	DET	DET	n=s|p=3|poss=p	13	det	13	det
+13	organisme	organisme	NC	NC	n=s|g=m	11	prep	11	prep
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	faut	falloir	V	V	n=s|t=P|p=3	0	root	0	root
+3	donc	donc	ADV	ADV		2	mod	2	mod
+4	y	y	CLO	CLO		5	aff	5	aff
+5	faire	faire	VINF	VINF	t=W	2	obj	2	obj
+6	très	très	ADV	ADV		5	mod	5	mod
+7	attention	attention	NC	NC	n=s|g=f	5	obj	5	obj
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	(	(	PONCT	PONCT		7	ponct	7	ponct
+10	notamment	_	ADV	ADV		14	mod	14	mod
+11	ne	ne	ADV	ADV		14	mod	14	mod
+12	pas	pas	ADV	ADV		14	mod	14	mod
+13	leur	leur	CLO	CLO	n=p|p=3	14	a_obj	14	a_obj
+14	donner	donner	VINF	VINF	t=W	5	mod	5	mod
+15	de	de	DET	DET	n=p	17	det	17	det
+16	petits	petit	ADJ	ADJ	n=p|g=m	17	mod	17	mod
+17	os	os	NC	NC	g=m	14	obj	14	obj
+18	pointus	pointu	NC	NC	n=p|g=m	17	mod	17	mod
+19	ni	ni	CC	CC		14	coord	14	coord
+20	des	de	P+D	P+D	n=p	19	dep_coord	19	dep_coord
+21	os	os	NC	NC	g=m	20	prep	20	prep
+22	de	de	P	P		21	dep	21	dep
+23	poulets	poulet	NC	NC	n=p|g=m	22	prep	22	prep
+24	)	)	PONCT	PONCT		23	ponct	23	ponct
+25	.	.	PONCT	PONCT		23	ponct	23	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	femelle	femelle	NC	NC	n=s|g=f	6	suj	6	suj
+3	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+4	chien	chien	NC	NC	n=s|g=m	3	prep	3	prep
+5	s'	se	CLR	CLR	n=p,s|p=3	6	aff	6	aff
+6	appelle	appeler	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+7	«_	"	PONCT	PONCT		6	ponct	6	ponct
+8	chienne	chien	ADJ	ADJ	n=s|g=f	6	ats	6	ats
+9	_»	"	PONCT	PONCT		8	ponct	8	ponct
+10	et	et	CC	CC		6	coord	6	coord
+11	le	le	DET	DET	n=s|g=m	13	det	13	det
+12	jeune	jeune	ADJ	ADJ	n=s	13	mod	13	mod
+13	chien	chien	NC	NC	n=s|g=m	0	_	0	_
+14	(	(	PONCT	PONCT		13	ponct	13	ponct
+15	mâle	mâle	NC	NC	n=s|g=m	13	mod	13	mod
+16	ou	ou	CC	CC		15	coord	15	coord
+17	femelle	femelle	NC	NC	n=s|g=f	16	dep_coord	16	dep_coord
+18	)	)	PONCT	PONCT		17	ponct	17	ponct
+19	«_	"	PONCT	PONCT		17	ponct	17	ponct
+20	chiot	chiot	NC	NC	n=s|g=m	13	mod	13	mod
+21	_»	"	PONCT	PONCT		20	ponct	20	ponct
+22	.	.	PONCT	PONCT		20	ponct	20	ponct
+
+1	Comme	comme	P	P		8	mod	8	mod
+2	chez	chez	P	P		8	mod	8	mod
+3	l'	le	CLO	CLO	n=s|p=3	4	obj	4	obj
+4	être	être	VINF	VINF	t=W	2	prep	2	prep
+5	humain	humain	ADJ	ADJ	n=s|g=m	8	mod	8	mod
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	il	il	CLS	CLS	n=s|g=m|p=3	8	suj	8	suj
+8	existe	exister	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+9	un	un	DET	DET	n=s|g=m	10	det	10	det
+10	ensemble	ensemble	NC	NC	n=s|g=m	8	obj	8	obj
+11	de	de	P	P		10	dep	10	dep
+12	changements	changement	NC	NC	n=p|g=m	11	prep	11	prep
+13	qui	qui	PROREL	PROREL	n=s	14	suj	14	suj
+14	rendent	rendre	V	V	n=p|t=P,S|p=3	10	mod_rel	10	mod_rel
+15	le	le	DET	DET	n=s|g=m	16	det	16	det
+16	chien	chien	NC	NC	n=s|g=m	14	obj	14	obj
+17	capable	capable	ADJ	ADJ	n=s	16	mod	16	mod
+18	de	de	P	P		14	mod	14	mod
+19	se	se	CLR	CLR	n=p,s|p=3	20	aff	20	aff
+20	reproduire	reproduire	VINF	VINF	t=W	18	prep	18	prep
+21	.	.	PONCT	PONCT		20	ponct	20	ponct
+
+1	Pour	pour	P	P		7	mod	7	mod
+2	la	la	DET	DET	n=s|g=f	3	det	3	det
+3	chienne	chienne	NC	NC	n=s|g=f	1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	la	la	DET	DET	n=s|g=f	6	det	6	det
+6	puberté	puberté	NC	NC	n=s|g=f	7	suj	7	suj
+7	intervient	intervenir	V	V	n=s|t=P|p=3	0	root	0	root
+8	en	en	P	P		7	mod	7	mod
+9	moyenne	moyen	ADJ	ADJ	n=s|g=f	8	prep	8	prep
+10	vers	vers	P	P		7	mod	7	mod
+11	8-10	_	NC	NC		10	prep	10	prep
+12	mois	mois	NC	NC	g=m	11	mod	11	mod
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	mais	mais	CC	CC		7	coord	7	coord
+15	est	être	V	V	n=s|t=P|p=3	14	dep_coord	14	dep_coord
+16	plus	plus	ADV	ADV		15	mod	15	mod
+17	précoce	précoce	ADJ	ADJ	n=s	15	ats	15	ats
+18	chez	chez	P	P		15	mod	15	mod
+19	les	les	DET	DET	n=p	20	det	20	det
+20	races	race	NC	NC	n=p|g=f	18	prep	18	prep
+21	de	de	P	P		15	mod	15	mod
+22	petite	petit	ADJ	ADJ	n=s|g=f	23	mod	23	mod
+23	taille	taille	NC	NC	n=s|g=f	21	prep	21	prep
+24	(	(	PONCT	PONCT		23	ponct	23	ponct
+25	à	à	P	P		15	mod	15	mod
+26	partir	partir	VINF	VINF	t=W	25	prep	25	prep
+27	de	de	P	P		26	mod	26	mod
+28	6	6	ADJ	ADJ		29	mod	29	mod
+29	mois	mois	NC	NC	g=m	27	prep	27	prep
+30	)	)	PONCT	PONCT		29	ponct	29	ponct
+31	et	et	CC	CC		15	coord	15	coord
+32	plus	plus	ADV	ADV		33	mod	33	mod
+33	tardive	tardif	ADJ	ADJ	n=s|g=f	31	dep_coord	31	dep_coord
+34	chez	chez	P	P		15	mod	15	mod
+35	les	les	DET	DET	n=p	36	det	36	det
+36	races	race	NC	NC	n=p|g=f	34	prep	34	prep
+37	de	de	P	P		15	mod	15	mod
+38	grande	grand	ADJ	ADJ	n=s|g=f	39	mod	39	mod
+39	taille	taille	NC	NC	n=s|g=f	37	prep	37	prep
+40	(	(	PONCT	PONCT		39	ponct	39	ponct
+41	jusqu'	jusque	P	P		15	mod	15	mod
+42	à	à	P	P		41	prep	41	prep
+43	18	18	ADJ	ADJ		44	mod	44	mod
+44	mois	mois	NC	NC	g=m	42	prep	42	prep
+45	)	)	PONCT	PONCT		44	ponct	44	ponct
+46	.	.	PONCT	PONCT		44	ponct	44	ponct
+
+1	Comme	comme	P	P		7	mod	7	mod
+2	la	la	DET	DET	n=s|g=f	3	det	3	det
+3	femme	femme	NC	NC	n=s|g=f	1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	elle	elle	CLS	CLS	n=s|g=f|p=3	7	suj	7	suj
+6	n'	ne	ADV	ADV		7	mod	7	mod
+7	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+8	féconde	fécond	ADJ	ADJ	n=s|g=f	7	ats	7	ats
+9	qu'	que	CS	CS		7	mod	7	mod
+10	à	à	P	P		21	mod	21	mod
+11	certaines	certain	DET	DET	n=p|g=f	12	det	12	det
+12	périodes	période	NC	NC	n=p	10	prep	10	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	mais	mais	CC	CC		10	coord	10	coord
+15	contrairement	_	ADV	ADV		14	mod	14	mod
+16	à	à	P	P		14	dep_coord	14	dep_coord
+17	la	la	DET	DET	n=s|g=f	18	det	18	det
+18	femme	femme	NC	NC	n=s|g=f	16	prep	16	prep
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	elle	elle	CLS	CLS	n=s|g=f|p=3	21	suj	21	suj
+21	peut	pouvoir	V	V	n=s|t=P|p=3	9	sub	9	sub
+22	se	se	CLR	CLR	n=p,s|p=3	23	aff	23	aff
+23	reproduire	reproduire	VINF	VINF	t=W	21	obj	21	obj
+24	jusqu'	jusque	P	P		23	mod	23	mod
+25	à	à	P	P		24	dep	24	dep
+26	la	la	DET	DET	n=s|g=f	27	det	27	det
+27	fin	fin	NC	NC	n=s	25	prep	25	prep
+28	de	de	P	P		23	mod	23	mod
+29	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	30	det	30	det
+30	vie	vie	NC	NC	n=s|g=f	28	prep	28	prep
+31	(	(	PONCT	PONCT		30	ponct	30	ponct
+32	pas	pas	ADV	ADV		23	mod	23	mod
+33	de	de	P	P		23	mod	23	mod
+34	ménopause	ménopause	NC	NC	n=s|g=f	33	prep	33	prep
+35	)	)	PONCT	PONCT		34	ponct	34	ponct
+36	.	.	PONCT	PONCT		34	ponct	34	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	périodes	période	NC	NC	n=p	6	suj	6	suj
+3	de	de	P	P		2	dep	2	dep
+4	fécondité	fécondité	NC	NC	n=s|g=f	3	prep	3	prep
+5	se	se	CLR	CLR	n=p,s|p=3	6	aff	6	aff
+6	situent	situer	V	V	n=p|t=P,S|p=3	0	root	0	root
+7	quand	quand	CS	CS		6	mod	6	mod
+8	elle	elle	CLS	CLS	n=s|g=f|p=3	9	suj	9	suj
+9	est	être	V	V	n=s|t=P|p=3	7	sub	7	sub
+10	en	en	P	P		9	mod	9	mod
+11	«_	"	PONCT	PONCT		10	ponct	10	ponct
+12	chaleurs	chaleur	NC	NC	n=p|g=f	10	prep	10	prep
+13	_»	"	PONCT	PONCT		12	ponct	12	ponct
+14	;	;	PONCT	PONCT		12	ponct	12	ponct
+15	indépendantes	indépendant	ADJ	ADJ	n=p|g=f	12	mod	12	mod
+16	des	de	P+D	P+D	n=p	9	mod	9	mod
+17	saisons	saison	NC	NC	n=p|g=f	16	prep	16	prep
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	elles	elles	CLS	CLS	n=p|g=f|p=3	20	suj	20	suj
+20	reviennent	revenir	V	V	n=p|t=P,S|p=3	7	root	7	root
+21	en	en	P	P		20	mod	20	mod
+22	moyenne	moyenne	NC	NC	n=s|g=f	21	prep	21	prep
+23	tous	tout	ADJ	ADJ	n=p|g=m	26	mod	26	mod
+24	les	les	DET	DET	n=p	26	det	26	det
+25	7	7	ADJ	ADJ		26	mod	26	mod
+26	mois	mois	NC	NC	g=m	20	obj	20	obj
+27	(	(	PONCT	PONCT		26	ponct	26	ponct
+28	selon	selon	P	P		20	mod	20	mod
+29	les	les	DET	DET	n=p	30	det	30	det
+30	races	race	NC	NC	n=p|g=f	28	prep	28	prep
+31	,	,	PONCT	PONCT		30	ponct	30	ponct
+32	de	de	P	P		20	mod	20	mod
+33	4	4	NC	NC		32	prep	32	prep
+34	à	à	P	P		20	mod	20	mod
+35	12	12	ADJ	ADJ		36	mod	36	mod
+36	mois	mois	NC	NC	g=m	34	prep	34	prep
+37	comme	comme	P	P		20	mod	20	mod
+38	chez	chez	P	P		37	prep	37	prep
+39	la	la	DET	DET	n=s|g=f	40	det	40	det
+40	louve	louve	NC	NC	n=s|g=f	38	prep	38	prep
+41	)	)	PONCT	PONCT		40	ponct	40	ponct
+42	et	et	CC	CC		20	coord	20	coord
+43	durent	devoir	V	V	n=p|t=J|p=3	42	dep_coord	42	dep_coord
+44	à	à	P	P		43	mod	43	mod
+45	peu	peu	ADV	ADV		44	mod	44	mod
+46	près	près	ADV	ADV		44	mod	44	mod
+47	trois	trois	DET	DET	s=card|n=p	48	det	48	det
+48	semaines	semaine	NC	NC	n=p|g=f	44	prep	44	prep
+49	.	.	PONCT	PONCT		48	ponct	48	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	saillies	saillie	NC	NC	n=p|g=f	3	suj	3	suj
+3	doivent	devoir	V	V	n=p|t=P,S|p=3	0	root	0	root
+4	se	se	CLR	CLR	n=p,s|p=3	5	aff	5	aff
+5	produire	produire	VINF	VINF	t=W	3	obj	3	obj
+6	deux	deux	DET	DET	s=card|n=p	7	det	7	det
+7	jours	jour	NC	NC	n=p|g=m	5	obj	5	obj
+8	après	après	P	P		5	mod	5	mod
+9	l'	le	DET	DET	n=s	10	det	10	det
+10	ovulation	ovulation	NC	NC	n=s|g=f	8	prep	8	prep
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	soit	soit	CC	CC		5	coord	5	coord
+13	environ	environ	ADV	ADV		12	mod	12	mod
+14	vers	vers	P	P		12	dep_coord	12	dep_coord
+15	le	le	DET	DET	n=s|g=m	17	det	17	det
+16	10e-12e	_	ADJ	ADJ		17	mod	17	mod
+17	jour	jour	NC	NC	n=s|g=m	14	prep	14	prep
+18	après	après	P	P		12	dep_coord	12	dep_coord
+19	le	le	DET	DET	n=s|g=m	20	det	20	det
+20	début	début	NC	NC	n=s|g=m	18	prep	18	prep
+21	des	de	P+D	P+D	n=p	20	dep	20	dep
+22	chaleurs	chaleur	NC	NC	n=p|g=f	21	prep	21	prep
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	chiots	chiot	NC	NC	n=p|g=m	3	suj	3	suj
+3	naissent	naître	V	V	n=p|t=P,S|p=3	0	root	0	root
+4	entre	entre	P	P		3	mod	3	mod
+5	59	59	NC	NC		4	prep	4	prep
+6	et	et	CC	CC		3	coord	3	coord
+7	67	67	ADJ	ADJ		8	mod	8	mod
+8	jours	jour	NC	NC	n=p|g=m	0	_	0	_
+9	après	après	P	P		8	dep	8	dep
+10	:	:	PONCT	PONCT		9	ponct	9	ponct
+11	soit	être	VS	VS	n=s|t=S|p=3	0	_	0	_
+12	environ	environ	ADV	ADV		14	mod	14	mod
+13	deux	deux	DET	DET	s=card|n=p	14	det	14	det
+14	mois	mois	NC	NC	g=m	11	obj	11	obj
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+1	Pour	pour	P	P		9	mod	9	mod
+2	s'	se	CLR	CLR	n=p,s|p=3	3	aff	3	aff
+3	exprimer	exprimer	VINF	VINF	t=W	1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	en	en	P	P		3	mod	3	mod
+6	général	général	NC	NC	n=s|g=m	5	prep	5	prep
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	il	il	CLS	CLS	n=s|g=m|p=3	9	suj	9	suj
+9	aboie	aboyer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+10	—	—	PONCT	PONCT		9	ponct	9	ponct
+11	c'	ce	DET	DET	n=s|g=m	12	det	12	det
+12	est-à-dire	_	NC	NC		9	obj	9	obj
+13	qu'	que	PROREL	PROREL		15	obj	15	obj
+14	il	il	CLS	CLS	n=s|g=m|p=3	15	suj	15	suj
+15	émet	émettre	V	V	n=s|t=P|p=3	12	mod_rel	12	mod_rel
+16	un	un	DET	DET	n=s|g=m	17	det	17	det
+17	son	_	ADJ	ADJ		15	obj	15	obj
+18	bref	bref	ADV	ADV		17	mod	17	mod
+19	et	et	CC	CC		17	coord	17	coord
+20	souvent	souvent	ADV	ADV		19	mod	19	mod
+21	par	par	P	P		15	mod	15	mod
+22	saccades	saccade	NC	NC	n=p|g=f	21	prep	21	prep
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+1	Ses	ses	DET	DET	n=p|p=3|poss=s	2	det	2	det
+2	aboiements	aboiement	NC	NC	n=p|g=m	3	suj	3	suj
+3	peuvent	pouvoir	V	V	n=p|t=P|p=3	0	root	0	root
+4	varier	varier	VINF	VINF	t=W	3	obj	3	obj
+5	selon	selon	P	P		4	mod	4	mod
+6	la	la	DET	DET	n=s|g=f	7	det	7	det
+7	taille	taille	NC	NC	n=s|g=f	5	prep	5	prep
+8	ou	ou	CC	CC		4	coord	4	coord
+9	l'	le	DET	DET	n=s	10	det	10	det
+10	âge	âge	NC	NC	n=s|g=m	8	dep_coord	8	dep_coord
+11	:	:	PONCT	PONCT		10	ponct	10	ponct
+12	il	il	CLS	CLS	n=s|g=m|p=3	13	suj	13	suj
+13	glapit	glapir	V	V	n=s|t=J,P|p=3	3	mod	3	mod
+14	(	(	PONCT	PONCT		13	ponct	13	ponct
+15	petits	petit	ADJ	ADJ	n=p|g=m	13	mod	13	mod
+16	chiens	chien	NC	NC	n=p|g=m	13	obj	13	obj
+17	)	)	PONCT	PONCT		16	ponct	16	ponct
+18	,	,	PONCT	PONCT		16	ponct	16	ponct
+19	jappe	japper	V	V	n=s|t=P,S|p=1,3	13	mod	13	mod
+20	(	(	PONCT	PONCT		19	ponct	19	ponct
+21	jeunes	jeune	ADJ	ADJ	n=p	19	mod	19	mod
+22	chiens	chien	NC	NC	n=p|g=m	19	obj	19	obj
+23	)	)	PONCT	PONCT		22	ponct	22	ponct
+24	,	,	PONCT	PONCT		22	ponct	22	ponct
+25	etc	_	NPP	NPP		19	suj	19	suj
+26	.	.	PONCT	PONCT		25	ponct	25	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	gronde	gronder	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	en	en	P	P		2	mod	2	mod
+4	signe	signe	NC	NC	n=s|g=m	3	prep	3	prep
+5	de	de	P	P		2	mod	2	mod
+6	menace	menace	NC	NC	n=s|g=f	5	prep	5	prep
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	avec	avec	P	P		2	mod	2	mod
+9	les	les	DET	DET	n=p	10	det	10	det
+10	babines	babine	NC	NC	n=p|g=f	8	prep	8	prep
+11	fréquemment	_	ADV	ADV		12	mod	12	mod
+12	retroussées	retrousser	VPP	VPP	n=p|g=f|t=K	10	mod	10	mod
+13	.	.	PONCT	PONCT		12	ponct	12	ponct
+
+1	Et	et	CC	CC		0	root	0	root
+2	parfois	parfois	ADV	ADV		5	mod	5	mod
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	il	il	CLS	CLS	n=s|g=m|p=3	5	suj	5	suj
+5	hurle	hurler	V	V	n=s|t=P,S|p=1,3	1	dep_coord	1	dep_coord
+6	(	(	PONCT	PONCT		5	ponct	5	ponct
+7	peut-être	peut-être	ADV	ADV		5	mod	5	mod
+8	de	de	P	P		5	mod	5	mod
+9	douleur	douleur	NC	NC	n=s|g=f	8	prep	8	prep
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	de	de	P	P		5	mod	5	mod
+12	colère	colère	NC	NC	n=s|g=f	11	prep	11	prep
+13	ou	ou	CC	CC		11	coord	11	coord
+14	de	de	P	P		13	dep_coord	13	dep_coord
+15	plainte	plainte	NC	NC	n=s|g=f	14	prep	14	prep
+16	)	)	PONCT	PONCT		15	ponct	15	ponct
+17	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	chiens	chien	NC	NC	n=p|g=m	3	suj	3	suj
+3	communiquent	communiquer	V	V	n=p|t=P,S|p=3	0	root	0	root
+4	entre	entre	P	P		3	mod	3	mod
+5	eux	eux	PRO	PRO	n=p|g=m|p=3	4	prep	4	prep
+6	avec	avec	P	P		3	mod	3	mod
+7	leur	leur	DET	DET	n=s|p=3|poss=p	8	det	8	det
+8	queue	queue	NC	NC	n=s|g=f	6	prep	6	prep
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	leurs	leurs	DET	DET	n=p|p=3|poss=p	11	det	11	det
+11	aboiements	aboiement	NC	NC	n=p|g=m	3	obj	3	obj
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	leurs	leurs	DET	DET	n=p|p=3|poss=p	14	det	14	det
+14	grognements	grognement	NC	NC	n=p|g=m	11	mod	11	mod
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	et	et	CC	CC		14	coord	14	coord
+17	leurs	leurs	DET	DET	n=p|p=3|poss=p	18	det	18	det
+18	sens	sens	NC	NC	g=m	16	dep_coord	16	dep_coord
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	chiens	chien	NC	NC	n=p|g=m	3	suj	3	suj
+3	ont	avoir	V	V	n=p|t=P|p=3	0	root	0	root
+4	des	des	DET	DET	n=p	5	det	5	det
+5	sentiments	sentiment	NC	NC	n=p|g=m	3	obj	3	obj
+6	pour	pour	P	P		3	mod	3	mod
+7	l'	le	DET	DET	n=s	8	det	8	det
+8	homme	homme	NC	NC	n=s|g=m	6	prep	6	prep
+9	.	.	PONCT	PONCT		8	ponct	8	ponct
+
+1	Exemple	exemple	NC	NC	n=s|g=m	8	mod	8	mod
+2	:	:	PONCT	PONCT		1	ponct	1	ponct
+3	quand	quand	CS	CS		8	mod	8	mod
+4	ils	ils	CLS	CLS	n=p|g=m|p=3	5	suj	5	suj
+5	aboient	aboyer	V	V	n=p|t=P,S|p=3	3	sub	3	sub
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	ils	ils	CLS	CLS	n=p|g=m|p=3	8	suj	8	suj
+8	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+9	en	en	P	P		8	mod	8	mod
+10	colère	colère	NC	NC	n=s|g=f	9	prep	9	prep
+11	;	;	PONCT	PONCT		10	ponct	10	ponct
+12	quand	quand	CS	CS		8	mod	8	mod
+13	ils	ils	CLS	CLS	n=p|g=m|p=3	14	suj	14	suj
+14	baissent	baisser	V	V	n=p|t=P,S|p=3	12	sub	12	sub
+15	les	les	DET	DET	n=p	16	det	16	det
+16	oreilles	oreille	NC	NC	n=p|g=f	14	obj	14	obj
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	c'	ce	CLS	CLS		19	suj	19	suj
+19	est	être	V	V	n=s|t=P|p=3	12	root	12	root
+20	qu'	que	CS	CS		19	obj	19	obj
+21	ils	ils	CLS	CLS	n=p|g=m|p=3	0	_	0	_
+22	ont	avoir	V	V	n=p|t=P|p=3	0	_	0	_
+23	peur	peur	NC	NC	n=s|g=f	22	obj	22	obj
+24	;	;	PONCT	PONCT		23	ponct	23	ponct
+25	et	et	CC	CC		22	coord	22	coord
+26	quand	quand	CS	CS		25	dep_coord	25	dep_coord
+27	ils	ils	CLS	CLS	n=p|g=m|p=3	28	suj	28	suj
+28	remuent	remuer	V	V	n=p|t=P,S|p=3	26	sub	26	sub
+29	la	la	DET	DET	n=s|g=f	30	det	30	det
+30	queue	queue	NC	NC	n=s|g=f	28	obj	28	obj
+31	,	,	PONCT	PONCT		30	ponct	30	ponct
+32	c'	ce	CLS	CLS		33	suj	33	suj
+33	est	être	V	V	n=s|t=P|p=3	26	root	26	root
+34	qu'	que	CS	CS		33	obj	33	obj
+35	ils	ils	CLS	CLS	n=p|g=m|p=3	36	suj	36	suj
+36	sont	être	V	V	n=p|t=P|p=3	34	sub	34	sub
+37	joyeux	joyeux	ADJ	ADJ	g=m	36	ats	36	ats
+38	....	....	PONCT	PONCT		37	ponct	37	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	chien	chien	NC	NC	n=s|g=m	3	suj	3	suj
+3	aime	aimer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	présence	présence	NC	NC	n=s|g=f	3	obj	3	obj
+6	de	de	P	P		5	dep	5	dep
+7	l'	le	DET	DET	n=s	8	det	8	det
+8	homme	homme	NC	NC	n=s|g=m	6	prep	6	prep
+9	et	et	CC	CC		3	coord	3	coord
+10	l'	le	CLO	CLO	n=s|p=3	11	obj	11	obj
+11	assister	assister	VINF	VINF	t=W	9	dep_coord	9	dep_coord
+12	:	:	PONCT	PONCT		11	ponct	11	ponct
+13	on	on	CLS	CLS	n=s|p=3	14	suj	14	suj
+14	parle	parler	V	V	n=s|t=P,S|p=1,3	3	mod	3	mod
+15	d'	de	P	P		14	mod	14	mod
+16	ailleurs	ailleurs	ADV	ADV		17	mod	17	mod
+17	souvent	souvent	ADV	ADV		15	prep	15	prep
+18	de	de	P	P		14	mod	14	mod
+19	lui	lui	PRO	PRO	n=s|g=m|p=3	18	prep	18	prep
+20	comme	comme	P	P		14	mod	14	mod
+21	du	de	P+D	P+D	n=s|g=m	20	prep	20	prep
+22	meilleur	meilleur	ADJ	ADJ	n=s|g=m	23	mod	23	mod
+23	ami	ami	NC	NC	n=s|g=m	21	prep	21	prep
+24	de	de	P	P		14	mod	14	mod
+25	l'	le	DET	DET	n=s	26	det	26	det
+26	homme	homme	NC	NC	n=s|g=m	24	prep	24	prep
+27	ou	ou	CC	CC		14	coord	14	coord
+28	de	de	P	P		27	dep_coord	27	dep_coord
+29	son	son	DET	DET	n=s|g=m|p=3|poss=s	30	det	30	det
+30	ami	ami	NC	NC	n=s|g=m	28	prep	28	prep
+31	le	le	DET	DET	n=s|g=m	0	_	0	_
+32	plus	plus	ADV	ADV		33	mod	33	mod
+33	fidèle	fidèle	ADJ	ADJ	n=s	0	_	0	_
+34	.	.	PONCT	PONCT		33	ponct	33	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	aide	aider	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	les	les	DET	DET	n=p	4	det	4	det
+4	chasseurs	chasseur	NC	NC	n=p|g=m	2	obj	2	obj
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	les	les	DET	DET	n=p	7	det	7	det
+7	aveugles	aveugle	NC	NC	n=p	2	mod	2	mod
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	les	les	DET	DET	n=p	10	det	10	det
+10	victimes	victime	NC	NC	n=p|g=f	2	obj	2	obj
+11	d'	de	P	P		10	dep	10	dep
+12	un	un	DET	DET	n=s|g=m	13	det	13	det
+13	accident	accident	NC	NC	n=s|g=m	11	prep	11	prep
+14	(	(	PONCT	PONCT		13	ponct	13	ponct
+15	par	par	P	P		2	mod	2	mod
+16	exemple	exemple	NC	NC	n=s|g=m	15	prep	15	prep
+17	avec	avec	P	P		2	mod	2	mod
+18	les	les	DET	DET	n=p	19	det	19	det
+19	secouristes	secouriste	NC	NC	n=p	17	prep	17	prep
+20	de	de	P	P		2	mod	2	mod
+21	montagne	montagne	NC	NC	n=s|g=f	20	prep	20	prep
+22	)	)	PONCT	PONCT		21	ponct	21	ponct
+23	,	,	PONCT	PONCT		21	ponct	21	ponct
+24	garde	garder	V	V	n=s|t=P,S|p=1,3	2	mod	2	mod
+25	les	les	DET	DET	n=p	26	det	26	det
+26	maisons	maison	NC	NC	n=p|g=f	24	obj	24	obj
+27	et	et	CC	CC		24	coord	24	coord
+28	les	les	DET	DET	n=p	29	det	29	det
+29	troupeaux	troupeau	NC	NC	n=p|g=m	32	suj	32	suj
+30	,	,	PONCT	PONCT		29	ponct	29	ponct
+31	est	être	V	V	n=s|t=P|p=3	32	aux_tps	32	aux_tps
+32	élevé	élever	VPP	VPP	n=s|g=m|t=K	27	dep_coord	27	dep_coord
+33	juste	juste	ADV	ADV		32	mod	32	mod
+34	pour	pour	P	P		32	mod	32	mod
+35	le	le	DET	DET	n=s|g=m	36	det	36	det
+36	plaisir	plaisir	NC	NC	n=s|g=m	34	prep	34	prep
+37	,	,	PONCT	PONCT		36	ponct	36	ponct
+38	etc	_	ADV	ADV		32	mod	32	mod
+39	.	.	PONCT	PONCT		38	ponct	38	ponct
+40	;	;	PONCT	PONCT		38	ponct	38	ponct
+41	d'	de	P	P		32	mod	32	mod
+42	où	où	PROREL	PROREL		41	prep	41	prep
+43	de	de	DET	DET	n=p	45	det	45	det
+44	nombreuses	nombreux	ADJ	ADJ	n=p|g=f	45	mod	45	mod
+45	expressions	expression	NC	NC	n=p|g=f	41	prep	41	prep
+46	courantes	courant	ADJ	ADJ	n=p|g=f	45	mod	45	mod
+47	:	:	PONCT	PONCT		46	ponct	46	ponct
+48	chiens	chien	NC	NC	n=p|g=m	45	mod	45	mod
+49	de	de	P	P		48	dep	48	dep
+50	chasse	chasse	NC	NC	n=s|g=f	49	prep	49	prep
+51	(	(	PONCT	PONCT		50	ponct	50	ponct
+52	d'	de	P	P		32	mod	32	mod
+53	arrêtNote	_	NC	NC		52	prep	52	prep
+54	1	1	NC	NC		53	mod	53	mod
+55	...	...	PONCT	PONCT		54	ponct	54	ponct
+56	)	)	PONCT	PONCT		54	ponct	54	ponct
+57	,	,	PONCT	PONCT		54	ponct	54	ponct
+58	chiens-guides	_	NC	NC		32	mod	32	mod
+59	,	,	PONCT	PONCT		58	ponct	58	ponct
+60	chiens-sauveteurs	_	NC	NC		32	mod	32	mod
+61	,	,	PONCT	PONCT		60	ponct	60	ponct
+62	chiens	chien	NC	NC	n=p|g=m	32	mod	32	mod
+63	policiers	policier	ADJ	ADJ	n=p|g=m	62	mod	62	mod
+64	,	,	PONCT	PONCT		63	ponct	63	ponct
+65	chiens	chien	NC	NC	n=p|g=m	62	mod	62	mod
+66	de	de	P	P		65	dep	65	dep
+67	berger	berger	NC	NC	n=s|g=m	66	prep	66	prep
+68	,	,	PONCT	PONCT		67	ponct	67	ponct
+69	chiens	chien	NC	NC	n=p|g=m	62	mod	62	mod
+70	de	de	P	P		69	dep	69	dep
+71	garde	garde	NC	NC	n=s	70	prep	70	prep
+72	,	,	PONCT	PONCT		71	ponct	71	ponct
+73	chiens	chien	NC	NC	n=p|g=m	62	mod	62	mod
+74	de	de	P	P		73	dep	73	dep
+75	compagnieNote	_	NC	NC		74	prep	74	prep
+76	2	2	ADJ	ADJ		75	mod	75	mod
+77	,	,	PONCT	PONCT		76	ponct	76	ponct
+78	etc	_	ADV	ADV		32	mod	32	mod
+79	.	.	PONCT	PONCT		78	ponct	78	ponct
+
+1	Son	son	DET	DET	n=s|g=m|p=3|poss=s	2	det	2	det
+2	caractère	caractère	NC	NC	n=s|g=m	6	suj	6	suj
+3	et	et	CC	CC		2	coord	2	coord
+4	son	son	DET	DET	n=s|g=m|p=3|poss=s	5	det	5	det
+5	comportement	comportement	NC	NC	n=s|g=m	3	dep_coord	3	dep_coord
+6	dépendent	dépendre	V	V	n=p|t=P,S|p=3	0	root	0	root
+7	en	en	P	P		6	mod	6	mod
+8	grande	grand	ADJ	ADJ	n=s|g=f	9	mod	9	mod
+9	partie	partie	NC	NC	n=s|g=f	7	prep	7	prep
+10	de	de	P	P		6	mod	6	mod
+11	la	la	DET	DET	n=s|g=f	12	det	12	det
+12	vie	vie	NC	NC	n=s|g=f	10	prep	10	prep
+13	qu'	que	PROREL	PROREL		15	obj	15	obj
+14	il	il	CLS	CLS	n=s|g=m|p=3	15	suj	15	suj
+15	mène	mener	V	V	n=s|t=P,S|p=1,3	12	mod_rel	12	mod_rel
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	généralement	_	ADV	ADV		15	mod	15	mod
+18	avec	avec	P	P		15	mod	15	mod
+19	son	son	DET	DET	n=s|g=m|p=3|poss=s	20	det	20	det
+20	maître	maître	NC	NC	n=s|g=m	18	prep	18	prep
+21	ou	ou	CC	CC		6	coord	6	coord
+22	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	23	det	23	det
+23	famille	famille	NC	NC	n=s|g=f	21	dep_coord	21	dep_coord
+24	d'	de	P	P		23	dep	23	dep
+25	accueil	accueil	NC	NC	n=s|g=m	24	prep	24	prep
+26	(	(	PONCT	PONCT		25	ponct	25	ponct
+27	affection	affection	NC	NC	n=s|g=f	23	mod	23	mod
+28	,	,	PONCT	PONCT		27	ponct	27	ponct
+29	éducation	éducation	NC	NC	n=s|g=f	23	mod	23	mod
+30	,	,	PONCT	PONCT		29	ponct	29	ponct
+31	activités	activité	NC	NC	n=p|g=f	23	mod	23	mod
+32	...	...	PONCT	PONCT		31	ponct	31	ponct
+33	)	)	PONCT	PONCT		31	ponct	31	ponct
+34	.	.	PONCT	PONCT		31	ponct	31	ponct
+
+1	Par	par	P	P		11	mod	11	mod
+2	exemple	exemple	NC	NC	n=s|g=m	1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	un	un	DET	DET	n=s|g=m	5	det	5	det
+5	chien	chien	NC	NC	n=s|g=m	11	suj	11	suj
+6	dressé	dresser	VPP	VPP	n=s|g=m|t=K	5	mod	5	mod
+7	à	à	P	P		6	mod	6	mod
+8	attaquer	attaquer	VINF	VINF	t=W	7	prep	7	prep
+9	ou	ou	CC	CC		5	coord	5	coord
+10	sous-alimenté	_	NC	NC		9	dep_coord	9	dep_coord
+11	risque	risquer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+12	davantage	davantage	ADV	ADV		11	mod	11	mod
+13	de	de	P	P		11	mod	11	mod
+14	se	se	CLR	CLR	n=p,s|p=3	15	aff	15	aff
+15	manifester	manifester	VINF	VINF	t=W	13	prep	13	prep
+16	comme	comme	P	P		15	mod	15	mod
+17	un	un	DET	DET	n=s|g=m	18	det	18	det
+18	chien	chien	NC	NC	n=s|g=m	16	prep	16	prep
+19	méchant	méchant	ADJ	ADJ	n=s|g=m	18	mod	18	mod
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+1	On	on	CLS	CLS	n=s|p=3	2	suj	2	suj
+2	utilise	utiliser	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	l'	le	DET	DET	n=s	4	det	4	det
+4	image	image	NC	NC	n=s|g=f	2	obj	2	obj
+5	du	de	P+D	P+D	n=s|g=m	4	dep	4	dep
+6	chien	chien	NC	NC	n=s|g=m	5	prep	5	prep
+7	parce	_	ADV	ADV		2	mod	2	mod
+8	qu'	que	CS	CS		2	mod	2	mod
+9	il	il	CLS	CLS	n=s|g=m|p=3	10	suj	10	suj
+10	partait	partir	V	V	n=s|t=I|p=3	8	sub	8	sub
+11	de	de	P	P		10	mod	10	mod
+12	l'	le	DET	DET	n=s	13	det	13	det
+13	idée	idée	NC	NC	n=s|g=f	11	prep	11	prep
+14	que	que	CS	CS		2	mod	2	mod
+15	le	le	DET	DET	n=s|g=m	16	det	16	det
+16	chien	chien	NC	NC	n=s|g=m	17	suj	17	suj
+17	est	être	V	V	n=s|t=P|p=3	14	sub	14	sub
+18	une	une	DET	DET	n=s|g=f	19	det	19	det
+19	sale	sale	NC	NC	n=s	17	obj	17	obj
+20	bête	bête	ADJ	ADJ	n=s	19	mod	19	mod
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	un	un	DET	DET	n=s|g=m	23	det	23	det
+23	animal	animal	NC	NC	n=s|g=m	17	mod	17	mod
+24	méchant	méchant	ADJ	ADJ	n=s|g=m	23	mod	23	mod
+25	et	et	CC	CC		24	coord	24	coord
+26	méprisant	méprisant	ADJ	ADJ	n=s|g=m	25	dep_coord	25	dep_coord
+27	,	,	PONCT	PONCT		26	ponct	26	ponct
+28	et	et	CC	CC		2	coord	2	coord
+29	il	il	CLS	CLS	n=s|g=m|p=3	31	suj	31	suj
+30	n'	ne	ADV	ADV		31	mod	31	mod
+31	est	être	V	V	n=s|t=P|p=3	28	dep_coord	28	dep_coord
+32	pas	pas	ADV	ADV		31	mod	31	mod
+33	vraiment	_	ADV	ADV		34	mod	34	mod
+34	bien	bien	ADV	ADV		35	mod	35	mod
+35	considéré	considérer	VPP	VPP	n=s|g=m|t=K	31	ats	31	ats
+36	selon	selon	P	P		35	mod	35	mod
+37	les	les	DET	DET	n=p	38	det	38	det
+38	pays	pays	NC	NC	g=m	36	prep	36	prep
+39	et	et	CC	CC		38	coord	38	coord
+40	les	les	DET	DET	n=p	41	det	41	det
+41	origines	origine	NC	NC	n=p|g=f	39	dep_coord	39	dep_coord
+42	et	et	CC	CC		41	coord	41	coord
+43	les	les	DET	DET	n=p	44	det	44	det
+44	époques	époque	NC	NC	n=p|g=f	42	dep_coord	42	dep_coord
+45	.	.	PONCT	PONCT		44	ponct	44	ponct
+
+1	De	de	DET	DET	n=p	3	det	3	det
+2	nombreuses	nombreux	ADJ	ADJ	n=p|g=f	3	mod	3	mod
+3	expressions	expression	NC	NC	n=p|g=f	4	suj	4	suj
+4	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+5	en	en	P	P		4	mod	4	mod
+6	rapport	rapport	NC	NC	n=s|g=m	5	prep	5	prep
+7	avec	avec	P	P		4	mod	4	mod
+8	le	le	DET	DET	n=s|g=m	9	det	9	det
+9	chien	chien	NC	NC	n=s|g=m	7	prep	7	prep
+10	et	et	CC	CC		4	coord	4	coord
+11	tantôt	tantôt	ADV	ADV		13	mod	13	mod
+12	elles	elles	CLS	CLS	n=p|g=f|p=3	13	suj	13	suj
+13	ont	avoir	V	V	n=p|t=P|p=3	10	dep_coord	10	dep_coord
+14	une	une	DET	DET	n=s|g=f	15	det	15	det
+15	connotation	connotation	NC	NC	n=s|g=f	13	obj	13	obj
+16	positive	positif	ADJ	ADJ	n=s|g=f	15	mod	15	mod
+17	et	et	CC	CC		13	coord	13	coord
+18	tantôt	tantôt	ADV	ADV		0	_	0	_
+19	une	une	DET	DET	n=s|g=f	20	det	20	det
+20	connotation	connotation	NC	NC	n=s|g=f	0	_	0	_
+21	négative	négatif	ADJ	ADJ	n=s|g=f	20	mod	20	mod
+22	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+1	En	en	P	P		10	mod	10	mod
+2	s'	se	CLR	CLR	n=p,s|p=3	3	aff	3	aff
+3	installant	installer	VPR	VPR	t=G	1	prep	1	prep
+4	en	en	P	P		3	mod	3	mod
+5	Australie	Australie	NPP	NPP	n=s|g=f	4	prep	4	prep
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	les	les	DET	DET	n=p	8	det	8	det
+8	hommes	homme	NC	NC	n=p|g=m	10	suj	10	suj
+9	ont	avoir	V	V	n=p|t=P|p=3	10	aux_tps	10	aux_tps
+10	introduit	introduire	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+11	de	de	DET	DET	n=p	13	det	13	det
+12	nouveaux	nouveau	ADJ	ADJ	n=p|g=m	13	mod	13	mod
+13	animaux	animal	NC	NC	n=p|g=m	10	obj	10	obj
+14	sur	sur	P	P		10	mod	10	mod
+15	cette	cette	DET	DET	n=s|g=f	16	det	16	det
+16	île	île	NC	NC	n=s|g=f	14	prep	14	prep
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	premier	premier	ADJ	ADJ	n=s|g=m	3	suj	3	suj
+3	fut	être	V	V	n=s|t=J|p=3	0	root	0	root
+4	le	le	DET	DET	n=s|g=m	5	det	5	det
+5	dingo	dingo	NC	NC	n=s	3	obj	3	obj
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	sorte	sorte	NC	NC	n=s|g=f	5	mod	5	mod
+8	de	de	P	P		7	dep	7	dep
+9	chien	chien	NC	NC	n=s|g=m	8	prep	8	prep
+10	sauvage	sauvage	ADJ	ADJ	n=s	9	mod	9	mod
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+1	On	on	CLS	CLS	n=s|p=3	2	suj	2	suj
+2	pense	penser	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	que	que	CS	CS		2	mod	2	mod
+4	le	le	DET	DET	n=s|g=m	5	det	5	det
+5	dingo	dingo	NC	NC	n=s	8	suj	8	suj
+6	a	avoir	V	V	n=s|t=P|p=3	8	aux_tps	8	aux_tps
+7	été	être	VPP	VPP	t=K	8	aux_pass	8	aux_pass
+8	introduit	introduire	VPP	VPP	n=s|g=m|t=K	3	sub	3	sub
+9	en	en	P	P		8	mod	8	mod
+10	Australie	Australie	NPP	NPP	n=s|g=f	9	prep	9	prep
+11	par	par	P	P		8	mod	8	mod
+12	des	des	DET	DET	n=p	13	det	13	det
+13	hommes	homme	NC	NC	n=p|g=m	11	prep	11	prep
+14	venus	venir	VPP	VPP	n=p|g=m|t=K	13	mod	13	mod
+15	du	de	P+D	P+D	n=s|g=m	14	mod	14	mod
+16	nord	_	NPP	NPP		15	prep	15	prep
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	il	il	CLS	CLS	n=s|g=m|p=3	0	_	0	_
+19	y	y	CLO	CLO		0	_	0	_
+20	a	avoir	V	V	n=s|t=P|p=3	0	_	0	_
+21	5_000	5_000	ADJ	ADJ		22	mod	22	mod
+22	ans	an	NC	NC	n=p|g=m	20	obj	20	obj
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	ancêtres	ancêtre	NC	NC	n=p	9	suj	9	suj
+3	des	de	P+D	P+D	n=p	2	dep	2	dep
+4	dingos	dingo	NC	NC	n=p	3	prep	3	prep
+5	qui	qui	PROREL	PROREL	n=s	9	suj	9	suj
+6	ont	avoir	V	V	n=p|t=P|p=3	9	mod	9	mod
+7	été	être	VPP	VPP	t=K	9	mod	9	mod
+8	introduits	introduire	VPP	VPP	n=p|g=m|t=K	7	ponct	7	ponct
+9	étaient	être	V	V	n=p|t=I|p=3	0	root	0	root
+10	sans	sans	P	P		9	mod	9	mod
+11	doute	doute	NC	NC	n=s|g=m	10	prep	10	prep
+12	domestiqués	domestiquer	VPP	VPP	n=p|g=m|t=K	9	mod	9	mod
+13	et	et	CC	CC		9	coord	9	coord
+14	leur	leur	DET	DET	n=s|p=3|poss=p	15	det	15	det
+15	descendants	descendant	NC	NC	n=p|g=m	17	suj	17	suj
+16	sont	être	V	V	n=p|t=P|p=3	17	aux_tps	17	aux_tps
+17	redevenus	redevenir	VPP	VPP	n=p|g=m|t=K	13	dep_coord	13	dep_coord
+18	sauvages	sauvage	ADJ	ADJ	n=p	17	ats	17	ats
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	Et	et	CC	CC		0	root	0	root
+2	en	en	P	P		0	_	0	_
+3	Afrique	Afrique	NPP	NPP	n=s|g=f	2	prep	2	prep
+4	subsaharienne	subsaharien	ADJ	ADJ	n=s|g=f	3	mod	3	mod
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	il	il	CLS	CLS	n=s|g=m|p=3	0	_	0	_
+7	y	y	CLO	CLO		0	_	0	_
+8	a	avoir	V	V	n=s|t=P|p=3	0	_	0	_
+9	le	le	DET	DET	n=s|g=m	10	det	10	det
+10	lycaon	lycaon	NC	NC	n=s|g=m	8	obj	8	obj
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	un	un	DET	DET	n=s|g=m	13	det	13	det
+13	chien	chien	NC	NC	n=s|g=m	8	mod	8	mod
+14	sauvage	sauvage	ADJ	ADJ	n=s	13	mod	13	mod
+15	d'	de	P	P		13	dep	13	dep
+16	Afrique	Afrique	NPP	NPP	n=s|g=f	15	prep	15	prep
+17	aussi	aussi	ADV	ADV		18	mod	18	mod
+18	appelé	appeler	VPP	VPP	n=s|g=m|t=K	13	mod	13	mod
+19	chien-hyène	_	NC	NC		18	mod	18	mod
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+1	En	en	P	P		12	mod	12	mod
+2	France	France	NPP	NPP	n=s|g=f,m	1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	tout	tout	ADJ	ADJ	n=s|g=m	6	mod	6	mod
+5	les	les	DET	DET	n=p	6	det	6	det
+6	chiens	chien	NC	NC	n=p|g=m	12	suj	12	suj
+7	de	de	P	P		6	dep	6	dep
+8	plus	plus	ADV	ADV		12	mod	12	mod
+9	de	de	P	P		12	mod	12	mod
+10	4	4	ADJ	ADJ		11	mod	11	mod
+11	mois	mois	NC	NC	g=m	9	prep	9	prep
+12	doivent	devoir	V	V	n=p|t=P,S|p=3	0	root	0	root
+13	être	être	VINF	VINF	t=W	12	obj	12	obj
+14	identifiés	identifier	ADJ	ADJ	n=p|g=m|t=K	13	ats	13	ats
+15	et	et	CC	CC		12	coord	12	coord
+16	enregistrés	enregistrer	VPP	VPP	n=p|g=m|t=K	15	dep_coord	15	dep_coord
+17	dans	dans	P	P		16	mod	16	mod
+18	un	un	DET	DET	n=s|g=m	19	det	19	det
+19	fichier	fichier	NC	NC	n=s|g=m	17	prep	17	prep
+20	national	national	ADJ	ADJ	n=s|g=m	19	mod	19	mod
+21	.	.	PONCT	PONCT		20	ponct	20	ponct
+
+1	Lorsque	lorsque	CS	CS		11	mod	11	mod
+2	le	le	DET	DET	n=s|g=m	3	det	3	det
+3	propriétaire	propriétaire	NC	NC	n=s	7	suj	7	suj
+4	d'	de	P	P		3	dep	3	dep
+5	un	un	DET	DET	n=s|g=m	6	det	6	det
+6	chien	chien	NC	NC	n=s|g=m	4	prep	4	prep
+7	déménage	déménager	V	V	n=s|t=P,S|p=1,3	1	sub	1	sub
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	il	il	CLS	CLS	n=s|g=m|p=3	11	suj	11	suj
+10	est	être	V	V	n=s|t=P|p=3	11	aux_tps	11	aux_tps
+11	obligé	obliger	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+12	de	de	P	P		11	mod	11	mod
+13	le	le	CLO	CLO	n=s|g=m|p=3	14	obj	14	obj
+14	signaler	signaler	VINF	VINF	t=W	12	prep	12	prep
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+1	Par	par	P	P		7	mod	7	mod
+2	ailleurs	ailleurs	ADV	ADV		3	mod	3	mod
+3	le	le	DET	DET	n=s|g=m	4	det	4	det
+4	décès	décès	NC	NC	g=m	1	prep	1	prep
+5	du	de	P+D	P+D	n=s|g=m	4	dep	4	dep
+6	chien	chien	NC	NC	n=s|g=m	5	prep	5	prep
+7	doit	devoir	V	V	n=s|t=P|p=3	0	root	0	root
+8	aussi	aussi	ADV	ADV		7	mod	7	mod
+9	être	être	VINF	VINF	t=W	7	obj	7	obj
+10	signalé	signaler	VPP	VPP	n=s|g=m|t=K	9	dep	9	dep
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	chiens	chien	NC	NC	n=p|g=m	14	suj	14	suj
+3	qui	qui	PROREL	PROREL	n=s	4	suj	4	suj
+4	sortent	sortir	V	V	n=p|t=P,S|p=3	2	mod_rel	2	mod_rel
+5	de	de	P	P		4	mod	4	mod
+6	la	la	DET	DET	n=s|g=f	7	det	7	det
+7	France	France	NPP	NPP	n=s|g=f,m	5	prep	5	prep
+8	métropolitaine	métropolitain	ADJ	ADJ	n=s|g=f	7	mod	7	mod
+9	lors	lors	ADV	ADV		4	mod	4	mod
+10	d'	de	P	P		4	mod	4	mod
+11	un	un	DET	DET	n=s|g=m	12	det	12	det
+12	voyage	voyage	NC	NC	n=s|g=m	10	prep	10	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	doivent	devoir	V	V	n=p|t=P,S|p=3	0	root	0	root
+15	être	être	VINF	VINF	t=W	17	aux_pass	17	aux_pass
+16	obligatoirement	_	ADV	ADV		17	mod	17	mod
+17	vaccinés	vacciner	VPP	VPP	n=p|g=m|t=K	14	obj	14	obj
+18	contre	contre	P	P		17	mod	17	mod
+19	la	la	DET	DET	n=s|g=f	20	det	20	det
+20	rage3	_	NC	NC		18	prep	18	prep
+21	.	.	PONCT	PONCT		20	ponct	20	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	chiens	chien	NC	NC	n=p|g=m	5	suj	5	suj
+3	de	de	P	P		2	dep	2	dep
+4	race	race	NC	NC	n=s|g=f	3	prep	3	prep
+5	doivent	devoir	V	V	n=p|t=P,S|p=3	0	root	0	root
+6	porter	porter	VINF	VINF	t=W	5	obj	5	obj
+7	un	un	DET	DET	n=s|g=m	8	det	8	det
+8	nom	nom	NC	NC	n=s|g=m	6	obj	6	obj
+9	qui	qui	PROREL	PROREL	n=s	10	suj	10	suj
+10	commence	commencer	V	V	n=s|t=P,S|p=1,3	8	mod_rel	8	mod_rel
+11	par	par	P	P		10	mod	10	mod
+12	la	la	DET	DET	n=s|g=f	13	det	13	det
+13	lettre	lettre	NC	NC	n=s|g=f	11	prep	11	prep
+14	associée	associer	VPP	VPP	n=s|g=f|t=K	13	mod	13	mod
+15	à	à	P	P		14	mod	14	mod
+16	l'	le	DET	DET	n=s	17	det	17	det
+17	année	année	NC	NC	n=s|g=f	15	prep	15	prep
+18	où	où	PROREL	PROREL		21	mod	21	mod
+19	il	il	CLS	CLS	n=s|g=m|p=3	21	suj	21	suj
+20	sont	être	V	V	n=p|t=P|p=3	21	aux_tps	21	aux_tps
+21	nés	naître	VPP	VPP	n=p|g=m|t=K	13	mod_rel	13	mod_rel
+22	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+1	Par	par	P	P		12	mod	12	mod
+2	exemple	exemple	NC	NC	n=s|g=m	1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	lettre	lettre	NC	NC	n=s|g=f	12	suj	12	suj
+6	de	de	P	P		5	dep	5	dep
+7	l'	le	DET	DET	n=s	8	det	8	det
+8	année	année	NC	NC	n=s|g=f	6	prep	6	prep
+9	2014	2014	NC	NC		8	mod	8	mod
+10	en	en	P	P		5	dep	5	dep
+11	France	France	NPP	NPP	n=s|g=f,m	10	prep	10	prep
+12	était	être	V	V	n=s|t=I|p=3	0	root	0	root
+13	J	_	NPP	NPP		12	obj	12	obj
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+15	Tous	tout	ADJ	ADJ	n=p|g=m	13	mod	13	mod
+16	les	les	DET	DET	n=p	17	det	17	det
+17	chiens	chien	NC	NC	n=p|g=m	13	mod	13	mod
+18	de	de	P	P		17	dep	17	dep
+19	race	race	NC	NC	n=s|g=f	18	prep	18	prep
+20	nés	naître	VPP	VPP	n=p|g=m|t=K	17	mod	17	mod
+21	en	en	P	P		20	mod	20	mod
+22	France	France	NPP	NPP	n=s|g=f,m	21	prep	21	prep
+23	en	en	P	P		20	mod	20	mod
+24	2014	2014	NC	NC		23	prep	23	prep
+25	ont	avoir	V	V	n=p|t=P|p=3	12	mod	12	mod
+26	donc	donc	ADV	ADV		25	mod	25	mod
+27	un	un	DET	DET	n=s|g=m	28	det	28	det
+28	prénom	prénom	NC	NC	n=s|g=m	25	obj	25	obj
+29	qui	qui	PROREL	PROREL	n=s	30	suj	30	suj
+30	commence	commencer	V	V	n=s|t=P,S|p=1,3	28	mod_rel	28	mod_rel
+31	par	par	P	P		30	mod	30	mod
+32	J4	_	NPP	NPP		31	prep	31	prep
+33	.	.	PONCT	PONCT		32	ponct	32	ponct
+

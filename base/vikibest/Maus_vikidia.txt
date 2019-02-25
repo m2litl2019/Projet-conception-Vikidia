@@ -1,0 +1,1675 @@
+1	Maus	_	NPP	NPP		9	suj	9	suj
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	parfois	parfois	ADV	ADV		4	mod	4	mod
+4	sous	sous	P	P		6	mod	6	mod
+5	-	-	PONCT	PONCT		4	ponct	4	ponct
+6	titré	titrer	VPP	VPP	n=s|g=m|t=K	1	mod	1	mod
+7	Un	_	ADV	ADV		6	mod	6	mod
+8	survivant	survivant	ADJ	ADJ	n=s|g=m	6	mod	6	mod
+9	raconte	raconter	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	est	être	V	V	n=s|t=P|p=3	9	mod	9	mod
+12	une	une	DET	DET	n=s|g=f	13	det	13	det
+13	bande	bande	NC	NC	n=s|g=f	11	suj	11	suj
+14	dessinée	dessiner	VPP	VPP	n=s|g=f|t=K	13	mod	13	mod
+15	d'	de	P	P		14	mod	14	mod
+16	Art	Art	NPP	NPP	n=s|g=m	15	prep	15	prep
+17	Spiegelman	_	NPP	NPP		16	mod	16	mod
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	composée	composer	VPP	VPP	n=s|g=f|t=K	13	mod	13	mod
+20	de	de	P	P		19	mod	19	mod
+21	11	11	ADJ	ADJ		22	mod	22	mod
+22	épisodes	épisode	NC	NC	n=p|g=m	20	prep	20	prep
+23	parus	paraître	VPP	VPP	n=p|g=m|t=K	22	mod	22	mod
+24	entre	entre	P	P		23	mod	23	mod
+25	1973	1973	NC	NC		24	prep	24	prep
+26	et	et	CC	CC		13	coord	13	coord
+27	1991	1991	NC	NC		26	dep_coord	26	dep_coord
+28	dans	dans	P	P		11	mod	11	mod
+29	le	le	DET	DET	n=s|g=m	30	det	30	det
+30	magazine	magazine	NC	NC	n=s|g=m	28	prep	28	prep
+31	Raw	_	NPP	NPP		30	mod	30	mod
+32	.	.	PONCT	PONCT		31	ponct	31	ponct
+
+1	En	en	P	P		6	mod	6	mod
+2	France	France	NPP	NPP	n=s|g=f,m	1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	ils	ils	CLS	CLS	n=p|g=m|p=3	6	suj	6	suj
+5	sont	être	V	V	n=p|t=P|p=3	6	aux_pass	6	aux_pass
+6	rassemblés	rassembler	VPP	VPP	n=p|g=m|t=K	0	root	0	root
+7	dans	dans	P	P		6	mod	6	mod
+8	2	2	ADJ	ADJ		9	mod	9	mod
+9	albums	album	NC	NC	n=p|g=m	7	prep	7	prep
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	Mon	_	NPP	NPP		13	suj	13	suj
+12	père	père	NC	NC	n=s|g=m	11	mod	11	mod
+13	saigne	saigner	V	V	n=s|t=P,S|p=1,3	6	mod	6	mod
+14	l'	le	DET	DET	n=s	15	det	15	det
+15	histoire	histoire	NC	NC	n=s|g=f	13	obj	13	obj
+16	en	en	P	P		13	mod	13	mod
+17	19871	19871	NC	NC		16	prep	16	prep
+18	puis	puis	CC	CC		13	coord	13	coord
+19	Et	_	NC	NC		21	mod	21	mod
+20	c'	ce	CLS	CLS		21	suj	21	suj
+21	est	être	V	V	n=s|t=P|p=3	18	dep_coord	18	dep_coord
+22	là	là	ADV	ADV		21	mod	21	mod
+23	que	que	CS	CS		21	mod	21	mod
+24	mes	mes	DET	DET	n=p|p=1|poss=s	25	det	25	det
+25	ennuis	ennui	NC	NC	n=p|g=m	27	suj	27	suj
+26	ont	avoir	V	V	n=p|t=P|p=3	27	aux_tps	27	aux_tps
+27	commencé	commencer	VPP	VPP	n=s|g=m|t=K	23	sub	23	sub
+28	en	en	P	P		27	mod	27	mod
+29	19962	19962	NC	NC		28	prep	28	prep
+30	,	,	PONCT	PONCT		29	ponct	29	ponct
+31	aux	à	P+D	P+D	n=p	27	mod	27	mod
+32	éditions	édition	NC	NC	n=p|g=f	31	prep	31	prep
+33	Flammarion	_	NPP	NPP		32	mod	32	mod
+34	.	.	PONCT	PONCT		33	ponct	33	ponct
+
+1	Ces	ces	DET	DET	n=p	3	det	3	det
+2	deux	deux	ADJ	ADJ	s=card|n=p	3	mod	3	mod
+3	volumes	volume	NC	NC	n=p|g=m	5	suj	5	suj
+4	étaient	être	V	V	n=p|t=I|p=3	5	aux_tps	5	aux_tps
+5	parus	paraître	VPP	VPP	n=p|g=m|t=K	0	root	0	root
+6	un	un	DET	DET	n=s|g=m	0	_	0	_
+7	petit	petit	ADJ	ADJ	n=s|g=m	17	suj	17	suj
+8	peu	peu	ADV	ADV		10	mod	10	mod
+9	plus	plus	ADV	ADV		10	mod	10	mod
+10	tôt	tôt	ADV	ADV		7	mod	7	mod
+11	aux	à	P+D	P+D	n=p	7	mod	7	mod
+12	Etats-Unis	_	NPP	NPP		11	prep	11	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	où	où	PROREL	PROREL		17	mod	17	mod
+15	ils	ils	CLS	CLS	n=p|g=m|p=3	17	suj	17	suj
+16	ont	avoir	V	V	n=p|t=P|p=3	17	aux_tps	17	aux_tps
+17	eu	avoir	VPP	VPP	n=s|g=m|t=K	6	mod	6	mod
+18	le	le	DET	DET	n=s|g=m	20	det	20	det
+19	même	même	ADJ	ADJ	n=s	20	mod	20	mod
+20	succès	succès	NC	NC	g=m	17	obj	17	obj
+21	.	.	PONCT	PONCT		20	ponct	20	ponct
+
+1	Cette	cette	DET	DET	n=s|g=f	2	det	2	det
+2	bande	bande	NC	NC	n=s|g=f	7	suj	7	suj
+3	dessinée	dessiner	VPP	VPP	n=s|g=f|t=K	2	mod	2	mod
+4	de	de	P	P		3	mod	3	mod
+5	295	295	NC	NC		4	prep	4	prep
+6	pages	page	NC	NC	n=p	5	mod	5	mod
+7	raconte	raconter	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+8	l'	le	DET	DET	n=s	9	det	9	det
+9	histoire	histoire	NC	NC	n=s|g=f	7	obj	7	obj
+10	du	de	P+D	P+D	n=s|g=m	9	dep	9	dep
+11	père	père	NC	NC	n=s|g=m	10	prep	10	prep
+12	de	de	P	P		7	mod	7	mod
+13	l'	le	DET	DET	n=s	14	det	14	det
+14	auteur	auteur	NC	NC	n=s|g=m	12	prep	12	prep
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	Vladek	_	NPP	NPP		14	mod	14	mod
+17	Spiegelman	_	NPP	NPP		14	mod	14	mod
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	un	un	DET	DET	n=s|g=m	20	det	20	det
+20	Juif	Juif	NPP	NPP	n=s|g=m	7	mod	7	mod
+21	polonais	polonais	ADJ	ADJ	g=m	20	mod	20	mod
+22	qui	qui	PROREL	PROREL	n=s	23	suj	23	suj
+23	fut	être	V	V	n=s|t=J|p=3	20	mod_rel	20	mod_rel
+24	,	,	PONCT	PONCT		23	ponct	23	ponct
+25	comme	comme	P	P		23	mod	23	mod
+26	tant	tant	ADV	ADV		28	mod	28	mod
+27	d'	de	DET	DET	n=p	28	det	28	det
+28	autres	autres	PRO	PRO	n=p|g=f,m	25	prep	25	prep
+29	,	,	PONCT	PONCT		28	ponct	28	ponct
+30	persécuté	persécuter	VPP	VPP	n=s|g=m|t=K	28	mod	28	mod
+31	par	par	P	P		30	mod	30	mod
+32	les	les	DET	DET	n=p	33	det	33	det
+33	Nazis	_	NPP	NPP		31	prep	31	prep
+34	sous	sous	P	P		30	mod	30	mod
+35	la	la	DET	DET	n=s|g=f	36	det	36	det
+36	Seconde	_	NPP	NPP		34	prep	34	prep
+37	Guerre	_	NPP	NPP		36	mod	36	mod
+38	mondiale	mondial	ADJ	ADJ	n=s|g=f	36	mod	36	mod
+39	.	.	PONCT	PONCT		38	ponct	38	ponct
+
+1	Cette	cette	DET	DET	n=s|g=f	2	det	2	det
+2	œuvre	_	NC	NC		3	suj	3	suj
+3	raconte	raconter	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	donc	donc	ADV	ADV		3	mod	3	mod
+5	la	la	DET	DET	n=s|g=f	6	det	6	det
+6	Shoah	_	NC	NC		3	obj	3	obj
+7	sans	sans	P	P		3	mod	3	mod
+8	aucune	aucune	DET	DET	n=s|g=f	9	det	9	det
+9	concession	concession	NC	NC	n=s|g=f	7	prep	7	prep
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	n'	ne	ADV	ADV		12	mod	12	mod
+12	hésitant	hésiter	VPR	VPR	t=G	3	mod	3	mod
+13	pas	pas	ADV	ADV		12	mod	12	mod
+14	à	à	P	P		12	mod	12	mod
+15	montrer	montrer	VINF	VINF	t=W	14	prep	14	prep
+16	les	les	DET	DET	n=p	18	det	18	det
+17	pires	pire	ADJ	ADJ	n=p	18	mod	18	mod
+18	horreurs	horreur	NC	NC	n=p|g=f	15	obj	15	obj
+19	faites	faire	VPP	VPP	n=p|g=f|t=K	18	mod	18	mod
+20	aux	à	P+D	P+D	n=p	19	mod	19	mod
+21	Juifs	juif	NC	NC	n=p|g=m	20	prep	20	prep
+22	par	par	P	P		19	mod	19	mod
+23	les	les	DET	DET	n=p	24	det	24	det
+24	Allemands	allemand	NC	NC	n=p|g=m	22	prep	22	prep
+25	.	.	PONCT	PONCT		24	ponct	24	ponct
+
+1	Mais	mais	CC	CC		0	root	0	root
+2	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	4	det	4	det
+3	principale	principal	ADJ	ADJ	n=s|g=f	4	mod	4	mod
+4	différence	différence	NC	NC	n=s|g=f	12	suj	12	suj
+5	avec	avec	P	P		4	dep	4	dep
+6	les	les	DET	DET	n=p	8	det	8	det
+7	autres	autre	ADJ	ADJ	n=p	8	mod	8	mod
+8	histoires	histoire	NC	NC	n=p|g=f	5	prep	5	prep
+9	sur	sur	P	P		8	dep	8	dep
+10	l'	le	DET	DET	n=s	11	det	11	det
+11	Holocauste	_	NPP	NPP		9	prep	9	prep
+12	est	être	V	V	n=s|t=P|p=3	1	dep_coord	1	dep_coord
+13	d'	de	P	P		12	ats	12	ats
+14	avoir	avoir	VINF	VINF	t=W	15	aux_tps	15	aux_tps
+15	transposé	transposer	VPP	VPP	n=s|g=m|t=K	13	prep	13	prep
+16	l'	le	DET	DET	n=s	17	det	17	det
+17	histoire	histoire	NC	NC	n=s|g=f	15	obj	15	obj
+18	sous	sous	P	P		15	mod	15	mod
+19	un	un	DET	DET	n=s|g=m	20	det	20	det
+20	angle	angle	NC	NC	n=s|g=m	18	prep	18	prep
+21	animalier3	_	NC	NC		20	mod	20	mod
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+23	faisant	faire	VPR	VPR	t=G	12	mod	12	mod
+24	des	de	P+D	P+D	n=p	23	mod	23	mod
+25	Juifs	juif	NC	NC	n=p|g=m	24	prep	24	prep
+26	des	de	P+D	P+D	n=p	25	dep	25	dep
+27	souris	souris	NC	NC	g=f	26	prep	26	prep
+28	et	et	CC	CC		24	coord	24	coord
+29	des	de	P+D	P+D	n=p	28	dep_coord	28	dep_coord
+30	Allemands	allemand	NC	NC	n=p|g=m	29	prep	29	prep
+31	nazis	nazi	ADJ	ADJ	n=p|g=m	30	mod	30	mod
+32	(	(	PONCT	PONCT		31	ponct	31	ponct
+33	certains	certain	PRO	PRO	n=p|g=m	0	_	0	_
+34	étant	être	VPR	VPR	t=G	33	mod	33	mod
+35	Juifs	_	ADV	ADV		34	mod	34	mod
+36	aussi	aussi	ADV	ADV		34	mod	34	mod
+37	)	)	PONCT	PONCT		36	ponct	36	ponct
+38	des	de	P+D	P+D	n=p	34	mod	34	mod
+39	chats	chat	NC	NC	n=p|g=m	38	prep	38	prep
+40	,	,	PONCT	PONCT		39	ponct	39	ponct
+41	ce	ce	PRO	PRO	n=s	34	mod	34	mod
+42	qui	qui	PROREL	PROREL	n=s	44	suj	44	suj
+43	n'	ne	ADV	ADV		44	mod	44	mod
+44	empêche	empêcher	V	V	n=s|t=P,S|p=1,3	41	mod_rel	41	mod_rel
+45	pas	pas	ADV	ADV		44	mod	44	mod
+46	l'	le	DET	DET	n=s	47	det	47	det
+47	histoire	histoire	NC	NC	n=s|g=f	44	obj	44	obj
+48	d'	de	P	P		44	mod	44	mod
+49	être	être	VINF	VINF	t=W	48	prep	48	prep
+50	sérieuse	sérieux	ADJ	ADJ	n=s|g=f	0	_	0	_
+51	et	et	CC	CC		50	coord	50	coord
+52	très	très	ADV	ADV		53	mod	53	mod
+53	sombre	sombre	ADJ	ADJ	n=s	51	dep_coord	51	dep_coord
+54	.	.	PONCT	PONCT		53	ponct	53	ponct
+
+1	Spiegelman	_	NPP	NPP		3	suj	3	suj
+2	y	y	CLO	CLO		3	aff	3	aff
+3	évoque	évoquer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	aussi	aussi	ADV	ADV		3	mod	3	mod
+5	l'	le	DET	DET	n=s	6	det	6	det
+6	impact	impact	NC	NC	n=s|g=m	3	obj	3	obj
+7	psychologique	psychologique	ADJ	ADJ	n=s	6	mod	6	mod
+8	de	de	P	P		3	mod	3	mod
+9	cette	cette	DET	DET	n=s|g=f	10	det	10	det
+10	catastrophe	catastrophe	NC	NC	n=s|g=f	8	prep	8	prep
+11	sur	sur	P	P		3	mod	3	mod
+12	la	la	DET	DET	n=s|g=f	13	det	13	det
+13	communauté	communauté	NC	NC	n=s|g=f	11	prep	11	prep
+14	juive	juif	ADJ	ADJ	n=s|g=f	13	mod	13	mod
+15	tout	tout	ADV	ADV		16	mod	16	mod
+16	entière	entier	ADJ	ADJ	n=s|g=f	13	mod	13	mod
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	et	et	CC	CC		3	coord	3	coord
+19	sur	sur	P	P		18	dep_coord	18	dep_coord
+20	plusieurs	plusieurs	DET	DET	n=p	21	det	21	det
+21	générations4	_	NC	NC		19	prep	19	prep
+22	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	3	suj	3	suj
+2	y	y	CLO	CLO		3	aff	3	aff
+3	parle	parler	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	aussi	aussi	ADV	ADV		3	mod	3	mod
+5	de	de	P	P		3	mod	3	mod
+6	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	7	det	7	det
+7	vie	vie	NC	NC	n=s|g=f	5	prep	5	prep
+8	personnelle	personnel	ADJ	ADJ	n=s|g=f	7	mod	7	mod
+9	et	et	CC	CC		5	coord	5	coord
+10	notamment	_	ADV	ADV		9	mod	9	mod
+11	des	de	P+D	P+D	n=p	9	dep_coord	9	dep_coord
+12	ses	ses	DET	DET	n=p|p=3|poss=s	13	det	13	det
+13	relations	relation	NC	NC	n=p|g=f	11	prep	11	prep
+14	compliquées	compliquer	ADJ	ADJ	n=p|g=f|t=K	13	mod	13	mod
+15	avec	avec	P	P		3	mod	3	mod
+16	son	son	DET	DET	n=s|g=m|p=3|poss=s	17	det	17	det
+17	père	père	NC	NC	n=s|g=m	15	prep	15	prep
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	Reconnu	reconnaître	VPP	VPP	n=s|g=m|t=K	11	mod	11	mod
+2	dès	dès	P	P		1	mod	1	mod
+3	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	4	det	4	det
+4	sortie	sortie	NC	NC	n=s|g=f	2	prep	2	prep
+5	comme	comme	P	P		1	mod	1	mod
+6	un	un	DET	DET	n=s|g=m	7	det	7	det
+7	chef-d'œuvre	_	NC	NC		5	prep	5	prep
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	Maus	_	NPP	NPP		11	suj	11	suj
+10	est	être	V	V	n=s|t=P|p=3	11	aux_tps	11	aux_tps
+11	considéré	considérer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+12	comme	comme	P	P		11	mod	11	mod
+13	une	une	DET	DET	n=s|g=f	14	det	14	det
+14	œuvre	_	NC	NC		12	prep	12	prep
+15	culte	culte	ADJ	ADJ	n=s	14	mod	14	mod
+16	et	et	CC	CC		11	coord	11	coord
+17	l'	le	DET	DET	n=s	18	det	18	det
+18	une	un	PRO	PRO	n=s|g=f	16	dep_coord	16	dep_coord
+19	des	de	P+D	P+D	n=p	18	dep	18	dep
+20	bandes	bande	NC	NC	n=p|g=f	19	prep	19	prep
+21	dessinées	dessiner	VPP	VPP	n=p|g=f|t=K	20	mod	20	mod
+22	«_	"	PONCT	PONCT		21	ponct	21	ponct
+23	adultes	adulte	NC	NC	n=p	20	mod	20	mod
+24	_»	"	PONCT	PONCT		23	ponct	23	ponct
+25	les	les	DET	DET	n=p	27	det	27	det
+26	plus	plus	ADV	ADV		27	mod	27	mod
+27	célèbres	célèbre	ADJ	ADJ	n=p	11	mod	11	mod
+28	de	de	P	P		11	mod	11	mod
+29	l'	le	DET	DET	n=s	30	det	30	det
+30	histoire	histoire	NC	NC	n=s|g=f	28	prep	28	prep
+31	du	de	P+D	P+D	n=s|g=m	11	mod	11	mod
+32	9ème	_	ADJ	ADJ		33	mod	33	mod
+33	art	art	NC	NC	n=s|g=m	31	prep	31	prep
+34	,	,	PONCT	PONCT		33	ponct	33	ponct
+35	et	et	CC	CC		11	coord	11	coord
+36	propulse	propulser	V	V	n=s|t=P,S|p=1,3	35	dep_coord	35	dep_coord
+37	Art	Art	NPP	NPP	n=s|g=m	36	obj	36	obj
+38	Spiegelman	_	NPP	NPP		37	mod	37	mod
+39	au	à	P+D	P+D	n=s|g=m	36	mod	36	mod
+40	rang	rang	NC	NC	n=s|g=m	39	prep	39	prep
+41	de	de	P	P		36	mod	36	mod
+42	vedette	vedette	NC	NC	n=s|g=f	41	prep	41	prep
+43	de	de	P	P		36	mod	36	mod
+44	la	la	DET	DET	n=s|g=f	45	det	45	det
+45	bande	bande	NC	NC	n=s|g=f	43	prep	43	prep
+46	dessinée	dessiner	VPP	VPP	n=s|g=f|t=K	45	mod	45	mod
+47	.	.	PONCT	PONCT		46	ponct	46	ponct
+
+1	Les	les	DET	DET	n=p	3	det	3	det
+2	deux	deux	ADJ	ADJ	s=card|n=p	3	mod	3	mod
+3	volumes	volume	NC	NC	n=p|g=m	6	suj	6	suj
+4	se	se	CLR	CLR	n=p,s|p=3	6	aff	6	aff
+5	sont	être	V	V	n=p|t=P|p=3	6	aux_tps	6	aux_tps
+6	écoulés	écouler	VPP	VPP	n=p|g=m|t=K	0	root	0	root
+7	à	à	P	P		6	mod	6	mod
+8	plusieurs	plusieurs	DET	DET	n=p	9	det	9	det
+9	millions	million	NC	NC	n=p	7	prep	7	prep
+10	d'	de	P	P		6	mod	6	mod
+11	exemplaires	exemplaire	NC	NC	n=p|g=m	10	prep	10	prep
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	sont	être	V	V	n=p|t=P|p=3	6	mod	6	mod
+14	régulièrement	_	ADV	ADV		0	_	0	_
+15	réédités	rééditer	VPP	VPP	n=p|g=m|t=K	14	ponct	14	ponct
+16	et	et	CC	CC		15	coord	15	coord
+17	ont	avoir	V	V	n=p|t=P|p=3	18	aux_tps	18	aux_tps
+18	reçu	recevoir	VPP	VPP	n=s|g=m|t=K	16	dep_coord	16	dep_coord
+19	de	de	P	P		18	mod	18	mod
+20	très	très	ADV	ADV		21	mod	21	mod
+21	nombreux	nombreux	ADJ	ADJ	g=m	22	mod	22	mod
+22	prix	prix	NC	NC	g=m	19	prep	19	prep
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	dont	dont	PROREL	PROREL		0	_	0	_
+25	le	le	DET	DET	n=s|g=m	27	det	27	det
+26	fameux	fameux	ADJ	ADJ	g=m	27	mod	27	mod
+27	Prix	_	NPP	NPP		0	_	0	_
+28	Pulitzer	_	NPP	NPP		27	mod	27	mod
+29	,	,	PONCT	PONCT		28	ponct	28	ponct
+30	décerné	décerner	VPP	VPP	n=s|g=m|t=K	27	mod	27	mod
+31	pour	pour	P	P		30	mod	30	mod
+32	la	la	DET	DET	n=s|g=f	34	det	34	det
+33	première	premier	ADJ	ADJ	n=s|g=f	34	mod	34	mod
+34	fois	fois	NC	NC	g=f	31	prep	31	prep
+35	de	de	P	P		30	mod	30	mod
+36	son	son	DET	DET	n=s|g=m|p=3|poss=s	37	det	37	det
+37	histoire	histoire	NC	NC	n=s|g=f	35	prep	35	prep
+38	(	(	PONCT	PONCT		37	ponct	37	ponct
+39	et	et	CC	CC		27	coord	27	coord
+40	seule	seul	ADJ	ADJ	n=s|g=f	41	mod	41	mod
+41	fois	fois	NC	NC	g=f	39	dep_coord	39	dep_coord
+42	à	à	P	P		27	dep	27	dep
+43	ce	ce	DET	DET	n=s|g=m	44	det	44	det
+44	jour	jour	NC	NC	n=s|g=m	42	prep	42	prep
+45	)	)	PONCT	PONCT		44	ponct	44	ponct
+46	à	à	P	P		27	dep	27	dep
+47	une	une	DET	DET	n=s|g=f	48	det	48	det
+48	bande	bande	NC	NC	n=s|g=f	46	prep	46	prep
+49	dessinée5	_	NC	NC		48	mod	48	mod
+50	.	.	PONCT	PONCT		49	ponct	49	ponct
+
+1	Maus	_	NPP	NPP		2	suj	2	suj
+2	raconte	raconter	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	l'	le	DET	DET	n=s	4	det	4	det
+4	histoire	histoire	NC	NC	n=s|g=f	2	obj	2	obj
+5	de	de	P	P		4	dep	4	dep
+6	Vladek	_	NPP	NPP		5	prep	5	prep
+7	Spiegelman	_	NPP	NPP		6	mod	6	mod
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	déporté	déporter	VPP	VPP	n=s|g=m|t=K	6	mod	6	mod
+10	durant	durant	P	P		9	mod	9	mod
+11	la	la	DET	DET	n=s|g=f	12	det	12	det
+12	Seconde	_	NPP	NPP		10	prep	10	prep
+13	Guerre	_	NPP	NPP		12	mod	12	mod
+14	mondiale	mondial	ADJ	ADJ	n=s|g=f	12	mod	12	mod
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	par	par	P	P		9	mod	9	mod
+17	la	la	DET	DET	n=s|g=f	18	det	18	det
+18	voix	voix	NC	NC	g=f	16	prep	16	prep
+19	de	de	P	P		9	mod	9	mod
+20	son	son	DET	DET	n=s|g=m|p=3|poss=s	21	det	21	det
+21	protagoniste	protagoniste	NC	NC	n=s	19	prep	19	prep
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+23	qui	qui	PROREL	PROREL	n=s	24	suj	24	suj
+24	est	être	V	V	n=s|t=P|p=3	6	mod_rel	6	mod_rel
+25	désormais	désormais	ADV	ADV		24	mod	24	mod
+26	un	un	DET	DET	n=s|g=m	27	det	27	det
+27	vieillard	vieillard	NC	NC	n=s|g=m	24	obj	24	obj
+28	grincheux	grincheux	ADJ	ADJ	g=m	27	mod	27	mod
+29	dans	dans	P	P		24	mod	24	mod
+30	les	les	DET	DET	n=p	31	det	31	det
+31	années	année	NC	NC	n=p|g=f	29	prep	29	prep
+32	1970	1970	NC	NC		31	mod	31	mod
+33	.	.	PONCT	PONCT		32	ponct	32	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	raconte	raconter	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	en	en	P	P		2	mod	2	mod
+4	effet	effet	NC	NC	n=s|g=m	3	prep	3	prep
+5	son	son	DET	DET	n=s|g=m|p=3|poss=s	6	det	6	det
+6	récit	récit	NC	NC	n=s|g=m	2	obj	2	obj
+7	à	à	P	P		2	mod	2	mod
+8	son	son	DET	DET	n=s|g=m|p=3|poss=s	9	det	9	det
+9	fils	fils	NC	NC	g=m	7	prep	7	prep
+10	Art	Art	NPP	NPP	n=s|g=m	9	mod	9	mod
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	avec	avec	P	P		2	mod	2	mod
+13	qui	qui	PROREL	PROREL	n=s	12	prep	12	prep
+14	il	il	CLS	CLS	n=s|g=m|p=3	15	suj	15	suj
+15	a	avoir	V	V	n=s|t=P|p=3	12	mod_rel	12	mod_rel
+16	une	une	DET	DET	n=s|g=f	17	det	17	det
+17	relation	relation	NC	NC	n=s|g=f	15	obj	15	obj
+18	très	très	ADV	ADV		19	mod	19	mod
+19	mouvementée	mouvementer	VPP	VPP	n=s|g=f|t=K	17	mod	17	mod
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+1	Cette	cette	DET	DET	n=s|g=f	2	det	2	det
+2	bande	bande	NC	NC	n=s|g=f	5	suj	5	suj
+3	dessinée	dessiner	VPP	VPP	n=s|g=f|t=K	2	mod	2	mod
+4	se	se	CLR	CLR	n=p,s|p=3	5	aff	5	aff
+5	distingue	distinguer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+6	par	par	P	P		5	mod	5	mod
+7	l'	le	DET	DET	n=s	8	det	8	det
+8	utilisation	utilisation	NC	NC	n=s|g=f	6	prep	6	prep
+9	d'	de	P	P		5	mod	5	mod
+10	animaux	animal	NC	NC	n=p|g=m	9	prep	9	prep
+11	anthropomorphiques	anthropomorphique	ADJ	ADJ	n=p	10	mod	10	mod
+12	pour	pour	P	P		5	mod	5	mod
+13	une	une	DET	DET	n=s|g=f	14	det	14	det
+14	histoire	histoire	NC	NC	n=s|g=f	12	prep	12	prep
+15	très	très	ADV	ADV		16	mod	16	mod
+16	sombre3	_	ADJ	ADJ		14	mod	14	mod
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+1	Parmi	parmi	P	P		0	_	0	_
+2	les	les	DET	DET	n=p	3	det	3	det
+3	principaux	principal	ADJ	ADJ	n=p|g=m	1	prep	1	prep
+4	:	:	PONCT	PONCT		3	ponct	3	ponct
+
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	utilisation	utilisation	NC	NC	n=s|g=f	6	suj	6	suj
+3	d'	de	P	P		2	dep	2	dep
+4	animaux	animal	NC	NC	n=p|g=m	3	prep	3	prep
+5	ne	ne	ADV	ADV		6	mod	6	mod
+6	rend	rendre	V	V	n=s|t=P|p=3	0	root	0	root
+7	pas	pas	ADV	ADV		6	mod	6	mod
+8	cette	cette	DET	DET	n=s|g=f	9	det	9	det
+9	œuvre	_	NC	NC		6	obj	6	obj
+10	amusante	amusant	ADJ	ADJ	n=s|g=f	9	mod	9	mod
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	elle	elle	CLS	CLS	n=s|g=f|p=3	13	suj	13	suj
+13	aide	aider	V	V	n=s|t=P,S|p=1,3	6	mod	6	mod
+14	juste	juste	ADV	ADV		13	mod	13	mod
+15	à	à	P	P		13	mod	13	mod
+16	rendre	rendre	VINF	VINF	t=W	15	prep	15	prep
+17	supportables	supportable	ADJ	ADJ	n=p	19	mod	19	mod
+18	les	les	DET	DET	n=p	19	det	19	det
+19	souffrances	souffrance	NC	NC	n=p|g=f	16	obj	16	obj
+20	endurées	endurer	VPP	VPP	n=p|g=f|t=K	19	mod	19	mod
+21	par	par	P	P		20	mod	20	mod
+22	les	les	DET	DET	n=p	23	det	23	det
+23	Juifs	_	NPP	NPP		21	prep	21	prep
+24	.	.	PONCT	PONCT		23	ponct	23	ponct
+
+1	Ceci	ceci	PRO	PRO	n=s|g=m	3	suj	3	suj
+2	est	être	V	V	n=s|t=P|p=3	3	aux_tps	3	aux_tps
+3	expliqué	expliquer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+4	dans	dans	P	P		3	mod	3	mod
+5	le	le	DET	DET	n=s|g=m	6	det	6	det
+6	résumé	résumé	NC	NC	n=s|g=m	4	prep	4	prep
+7	de	de	P	P		3	mod	3	mod
+8	dos	dos	NC	NC	g=m	7	prep	7	prep
+9	de	de	P	P		3	mod	3	mod
+10	couverture	couverture	NC	NC	n=s|g=f	9	prep	9	prep
+11	du	de	P+D	P+D	n=s|g=m	3	mod	3	mod
+12	tome	tome	NC	NC	n=s	11	prep	11	prep
+13	1	1	ADJ	ADJ		12	mod	12	mod
+14	:	:	PONCT	PONCT		13	ponct	13	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	bande	bande	NC	NC	n=s|g=f	9	suj	9	suj
+3	dessinée	dessiner	VPP	VPP	n=s|g=f|t=K	2	mod	2	mod
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	qui	qui	PROREL	PROREL	n=s	9	suj	9	suj
+6	n'	ne	ADV	ADV		9	mod	9	mod
+7	est	être	V	V	n=s|t=P|p=3	9	aux_pass	9	aux_pass
+8	pas	pas	ADV	ADV		9	mod	9	mod
+9	destinée	destiner	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+10	à	à	P	P		9	mod	9	mod
+11	tous	tout	ADJ	ADJ	n=p|g=m	13	mod	13	mod
+12	les	les	DET	DET	n=p	13	det	13	det
+13	publics	public	ADJ	ADJ	n=p|g=m	10	prep	10	prep
+14	et	et	CC	CC		9	coord	9	coord
+15	dont	dont	PROREL	PROREL		26	mod	26	mod
+16	certains	certain	DET	DET	n=p|g=m	17	det	17	det
+17	passages	passage	NC	NC	n=p|g=m	26	suj	26	suj
+18	-	-	PONCT	PONCT		17	ponct	17	ponct
+19	notamment	_	ADV	ADV		17	mod	17	mod
+20	dans	dans	P	P		17	dep	17	dep
+21	le	le	DET	DET	n=s|g=m	22	det	22	det
+22	camp	camp	NC	NC	n=s|g=m	20	prep	20	prep
+23	d'	de	P	P		17	dep	17	dep
+24	Auschwitz	_	NPP	NPP		23	prep	23	prep
+25	-	-	PONCT	PONCT		24	ponct	24	ponct
+26	peuvent	pouvoir	V	V	n=p|t=P|p=3	14	dep_coord	14	dep_coord
+27	choquer	choquer	VINF	VINF	t=W	26	obj	26	obj
+28	les	les	DET	DET	n=p	30	det	30	det
+29	plus	plus	ADV	ADV		30	mod	30	mod
+30	jeunes	jeune	ADJ	ADJ	n=p	27	mod	27	mod
+31	,	,	PONCT	PONCT		30	ponct	30	ponct
+32	a	avoir	V	V	n=s|t=P|p=3	9	mod	9	mod
+33	un	un	DET	DET	n=s|g=m	34	det	34	det
+34	impact	impact	NC	NC	n=s|g=m	32	obj	32	obj
+35	psychologique	psychologique	ADJ	ADJ	n=s	34	mod	34	mod
+36	très	très	ADV	ADV		37	mod	37	mod
+37	fort	fort	ADJ	ADJ	n=s|g=m	34	mod	34	mod
+38	.	.	PONCT	PONCT		37	ponct	37	ponct
+
+1	Ce	ce	CLS	CLS		3	suj	3	suj
+2	n'	ne	ADV	ADV		3	mod	3	mod
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	pas	pas	ADV	ADV		3	mod	3	mod
+5	un	un	DET	DET	n=s|g=m	7	det	7	det
+6	simple	simple	ADJ	ADJ	n=s	7	mod	7	mod
+7	récit	récit	NC	NC	n=s|g=m	3	obj	3	obj
+8	historique	historique	ADJ	ADJ	n=s	7	mod	7	mod
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	c'	ce	CLS	CLS		11	suj	11	suj
+11	est	être	V	V	n=s|t=P|p=3	3	mod	3	mod
+12	aussi	aussi	ADV	ADV		11	mod	11	mod
+13	une	une	DET	DET	n=s|g=f	14	det	14	det
+14	analyse	analyse	NC	NC	n=s|g=f	11	obj	11	obj
+15	sur	sur	P	P		14	dep	14	dep
+16	la	la	DET	DET	n=s|g=f	17	det	17	det
+17	souffrance	souffrance	NC	NC	n=s|g=f	15	prep	15	prep
+18	morale	moral	ADJ	ADJ	n=s|g=f	17	mod	17	mod
+19	des	de	P+D	P+D	n=p	17	dep	17	dep
+20	Juifs	juif	NC	NC	n=p|g=m	19	prep	19	prep
+21	-	-	PONCT	PONCT		20	ponct	20	ponct
+22	et	et	CC	CC		11	coord	11	coord
+23	des	des	DET	DET	n=p	24	det	24	det
+24	générations	génération	NC	NC	n=p|g=f	0	_	0	_
+25	suivantes	suivant	ADJ	ADJ	n=p|g=f	24	mod	24	mod
+26	de	de	P	P		24	dep	24	dep
+27	ces	ces	DET	DET	n=p	28	det	28	det
+28	derniers	dernier	ADJ	ADJ	n=p|g=m	26	prep	26	prep
+29	-	-	PONCT	PONCT		28	ponct	28	ponct
+30	pendant	pendant	P	P		28	mod	28	mod
+31	et	et	CC	CC		30	coord	30	coord
+32	après	après	P	P		31	dep_coord	31	dep_coord
+33	la	la	DET	DET	n=s|g=f	34	det	34	det
+34	Shoah4	_	NPP	NPP		32	prep	32	prep
+35	.	.	PONCT	PONCT		34	ponct	34	ponct
+
+1	Vladek	_	NPP	NPP		8	suj	8	suj
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	par	par	P	P		8	mod	8	mod
+4	exemple	exemple	NC	NC	n=s|g=m	3	prep	3	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	a	avoir	V	V	n=s|t=P|p=3	8	aux_tps	8	aux_tps
+7	été	être	VPP	VPP	t=K	8	aux_pass	8	aux_pass
+8	traumatisé	traumatiser	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+9	par	par	P	P		8	mod	8	mod
+10	cette	cette	DET	DET	n=s|g=f	11	det	11	det
+11	épreuve	épreuve	NC	NC	n=s|g=f	9	prep	9	prep
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	récit	récit	NC	NC	n=s|g=m	3	suj	3	suj
+3	débute	débuter	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	par	par	P	P		3	mod	3	mod
+5	un	un	DET	DET	n=s|g=m	6	det	6	det
+6	moment	moment	NC	NC	n=s|g=m	4	prep	4	prep
+7	de	de	P	P		3	mod	3	mod
+8	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	9	det	9	det
+9	vie	vie	NC	NC	n=s|g=f	7	prep	7	prep
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	en	en	P	P		3	mod	3	mod
+12	1958	1958	NC	NC		11	prep	11	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	où	où	PROREL	PROREL		17	mod	17	mod
+15	Art	Art	NPP	NPP	n=s|g=m	17	suj	17	suj
+16	enfant	enfant	NC	NC	n=s	15	mod	15	mod
+17	pleure	pleurer	V	V	n=s|t=P,S|p=1,3	3	mod	3	mod
+18	car	car	CS	CS		17	mod	17	mod
+19	ses	ses	DET	DET	n=p|p=3|poss=s	20	det	20	det
+20	amis	ami	NC	NC	n=p|g=m	22	suj	22	suj
+21	sont	être	V	V	n=p|t=P|p=3	22	aux_pass	22	aux_pass
+22	partis	partir	VPP	VPP	n=p|g=m|t=K	18	sub	18	sub
+23	sans	sans	P	P		22	mod	22	mod
+24	lui	lui	PRO	PRO	n=s|g=m|p=3	23	prep	23	prep
+25	.	.	PONCT	PONCT		24	ponct	24	ponct
+
+1	Vladek	_	NPP	NPP		3	suj	3	suj
+2	lui	lui	CLO	CLO	n=s|p=3	3	obj	3	obj
+3	réplique	répliquer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	sans	sans	P	P		3	mod	3	mod
+5	plus	plus	ADV	ADV		7	mod	7	mod
+6	d'	de	P	P		7	det	7	det
+7	explications	explication	NC	NC	n=p|g=f	4	prep	4	prep
+8	:	:	PONCT	PONCT		7	ponct	7	ponct
+
+1	Art	art	NC	NC	n=s|g=m	3	suj	3	suj
+2	Spiegelman	_	NPP	NPP		1	mod	1	mod
+3	a	avoir	V	V	n=s|t=P|p=3	0	root	0	root
+4	pour	pour	P	P		3	mod	3	mod
+5	projet	projet	NC	NC	n=s|g=m	4	prep	4	prep
+6	d'	de	P	P		3	mod	3	mod
+7	écrire	écrire	VINF	VINF	t=W	6	prep	6	prep
+8	un	un	DET	DET	n=s|g=m	9	det	9	det
+9	livre	livre	NC	NC	n=s	7	obj	7	obj
+10	sur	sur	P	P		7	mod	7	mod
+11	la	la	DET	DET	n=s|g=f	12	det	12	det
+12	Shoah	_	NPP	NPP		10	prep	10	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	et	et	CC	CC		3	coord	3	coord
+15	demande	demander	V	V	n=s|t=P,S|p=1,3	14	dep_coord	14	dep_coord
+16	à	à	P	P		15	mod	15	mod
+17	son	son	DET	DET	n=s|g=m|p=3|poss=s	18	det	18	det
+18	père	père	NC	NC	n=s|g=m	16	prep	16	prep
+19	vieillissant	vieillir	VPR	VPR	t=G	18	mod	18	mod
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	Vladek	_	NPP	NPP		19	obj	19	obj
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+23	un	un	DET	DET	n=s|g=m	24	det	24	det
+24	survivant	survivant	NC	NC	n=s|g=m	21	mod	21	mod
+25	d'	de	P	P		24	dep	24	dep
+26	Auschwitz	_	NPP	NPP		25	prep	25	prep
+27	,	,	PONCT	PONCT		26	ponct	26	ponct
+28	de	de	P	P		15	mod	15	mod
+29	lui	lui	CLO	CLO	n=s|p=3	30	a_obj	30	a_obj
+30	raconter	raconter	VINF	VINF	t=W	28	prep	28	prep
+31	son	son	DET	DET	n=s|g=m|p=3|poss=s	32	det	32	det
+32	histoire	histoire	NC	NC	n=s|g=f	30	obj	30	obj
+33	.	.	PONCT	PONCT		32	ponct	32	ponct
+
+1	C'	ce	CLS	CLS		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	la	la	DET	DET	n=s|g=f	5	det	5	det
+4	première	premier	ADJ	ADJ	n=s|g=f	5	mod	5	mod
+5	fois	fois	NC	NC	g=f	2	mod	2	mod
+6	qu'	que	PROREL	PROREL		9	obj	9	obj
+7	il	il	CLS	CLS	n=s|g=m|p=3	9	suj	9	suj
+8	le	le	CLO	CLO	n=s|g=m|p=3	9	obj	9	obj
+9	revoit	revoir	V	V	n=s|t=P|p=3	5	mod_rel	5	mod_rel
+10	depuis	depuis	P	P		9	mod	9	mod
+11	longtemps	longtemps	ADV	ADV		10	mod	10	mod
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	et	et	CC	CC		2	coord	2	coord
+14	il	il	CLS	CLS	n=s|g=m|p=3	15	suj	15	suj
+15	constate	constater	V	V	n=s|t=P,S|p=1,3	13	dep_coord	13	dep_coord
+16	que	que	CS	CS		15	obj	15	obj
+17	le	le	DET	DET	n=s|g=m	18	det	18	det
+18	suicide	suicide	NC	NC	n=s|g=m	30	suj	30	suj
+19	de	de	P	P		18	dep	18	dep
+20	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	21	det	21	det
+21	femme	femme	NC	NC	n=s|g=f	19	prep	19	prep
+22	Anja	Anja	NPP	NPP	n=s|g=f	21	mod	21	mod
+23	et	et	CC	CC		18	coord	18	coord
+24	ses	ses	DET	DET	n=p|p=3|poss=s	26	det	26	det
+25	deux	deux	ADJ	ADJ	s=card|n=p	26	mod	26	mod
+26	infarctus	infarctus	NC	NC	g=m	23	dep_coord	23	dep_coord
+27	l'	le	CLO	CLO	n=s|p=3	30	obj	30	obj
+28	ont	avoir	V	V	n=p|t=P|p=3	30	aux_tps	30	aux_tps
+29	beaucoup	beaucoup	ADV	ADV		30	mod	30	mod
+30	vieilli	vieillir	VPP	VPP	n=s|g=m|t=K	16	sub	16	sub
+31	.	.	PONCT	PONCT		30	ponct	30	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	4	suj	4	suj
+2	s'	se	CLR	CLR	n=p,s|p=3	4	aff	4	aff
+3	est	être	V	V	n=s|t=P|p=3	4	aux_tps	4	aux_tps
+4	remarié	remarier	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+5	avec	avec	P	P		4	mod	4	mod
+6	une	une	DET	DET	n=s|g=f	7	det	7	det
+7	femme	femme	NC	NC	n=s|g=f	5	prep	5	prep
+8	avec	avec	P	P		4	mod	4	mod
+9	qui	qui	PROREL	PROREL	n=s	8	prep	8	prep
+10	il	il	CLS	CLS	n=s|g=m|p=3	13	suj	13	suj
+11	ne	ne	ADV	ADV		13	mod	13	mod
+12	s'	se	CLR	CLR	n=p,s|p=3	13	aff	13	aff
+13	entend	entendre	V	V	n=s|t=P|p=3	4	mod	4	mod
+14	pas	pas	ADV	ADV		13	mod	13	mod
+15	très	très	ADV	ADV		13	mod	13	mod
+16	bien	bien	ADV	ADV		13	mod	13	mod
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	Mala	Mala	NPP	NPP	n=s|g=f	13	ats	13	ats
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	Mais	mais	CC	CC		0	root	0	root
+2	Art	Art	NPP	NPP	n=s|g=m	3	suj	3	suj
+3	convainc	convaincre	V	V	n=s|t=P|p=3	1	dep_coord	1	dep_coord
+4	son	son	DET	DET	n=s|g=m|p=3|poss=s	5	det	5	det
+5	père	père	NC	NC	n=s|g=m	3	obj	3	obj
+6	de	de	P	P		3	mod	3	mod
+7	lui	lui	CLO	CLO	n=s|p=3	8	a_obj	8	a_obj
+8	raconter	raconter	VINF	VINF	t=W	6	prep	6	prep
+9	son	son	DET	DET	n=s|g=m|p=3|poss=s	10	det	10	det
+10	aventure	aventure	NC	NC	n=s|g=f	8	obj	8	obj
+11	...	...	PONCT	PONCT		10	ponct	10	ponct
+
+1	Dans	dans	P	P		8	mod	8	mod
+2	les	les	DET	DET	n=p	3	det	3	det
+3	années	année	NC	NC	n=p|g=f	1	prep	1	prep
+4	30	30	ADJ	ADJ		3	mod	3	mod
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	Vladek	_	NPP	NPP		8	suj	8	suj
+7	Spiegelman	_	NPP	NPP		6	mod	6	mod
+8	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+9	un	un	DET	DET	n=s|g=m	11	det	11	det
+10	jeune	jeune	ADJ	ADJ	n=s	11	mod	11	mod
+11	homme	homme	NC	NC	n=s|g=m	8	obj	8	obj
+12	juif	juif	ADJ	ADJ	n=s|g=m	11	mod	11	mod
+13	polonais	polonais	ADJ	ADJ	g=m	11	mod	11	mod
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	épouse	épouser	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	une	une	DET	DET	n=s|g=f	5	det	5	det
+4	jeune	jeune	ADJ	ADJ	n=s	5	mod	5	mod
+5	femme	femme	NC	NC	n=s|g=f	2	obj	2	obj
+6	riche	riche	ADJ	ADJ	n=s	5	mod	5	mod
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	Anja	Anja	NPP	NPP	n=s|g=f	5	mod	5	mod
+9	Zylberberg	_	NPP	NPP		8	mod	8	mod
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	de	de	P	P		2	mod	2	mod
+12	laquelle	lequel	PROREL	PROREL	n=s|g=f	11	prep	11	prep
+13	il	il	CLS	CLS	n=s|g=m|p=3	14	suj	14	suj
+14	a	avoir	V	V	n=s|t=P|p=3	2	mod	2	mod
+15	un	un	DET	DET	n=s|g=m	16	det	16	det
+16	fils	fils	NC	NC	g=m	14	obj	14	obj
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	Richieu	_	NPP	NPP		16	mod	16	mod
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	Très	très	ADV	ADV		2	mod	2	mod
+2	bien	bien	ADV	ADV		3	mod	3	mod
+3	intégré	intégrer	VPP	VPP	n=s|g=m|t=K	9	mod	9	mod
+4	dans	dans	P	P		3	mod	3	mod
+5	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	6	det	6	det
+6	belle-famille	belle-famille	NC	NC	n=s|g=f	4	prep	4	prep
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	il	il	CLS	CLS	n=s|g=m|p=3	9	suj	9	suj
+9	observe	observer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+10	avec	avec	P	P		9	mod	9	mod
+11	inquiétude	inquiétude	NC	NC	n=s|g=f	10	prep	10	prep
+12	la	la	DET	DET	n=s|g=f	13	det	13	det
+13	montée	montée	NC	NC	n=s|g=f	9	obj	9	obj
+14	des	de	P+D	P+D	n=p	13	dep	13	dep
+15	tensions	tension	NC	NC	n=p|g=f	14	prep	14	prep
+16	en	en	P	P		15	dep	15	dep
+17	Europe	Europe	NPP	NPP	n=s|g=f	16	prep	16	prep
+18	:	:	PONCT	PONCT		17	ponct	17	ponct
+19	la	la	DET	DET	n=s|g=f	20	det	20	det
+20	puissance	puissance	NC	NC	n=s|g=f	9	mod	9	mod
+21	d'	de	P	P		20	dep	20	dep
+22	Adolf	Adolf	NPP	NPP	n=s|g=m	21	prep	21	prep
+23	Hitler	_	NPP	NPP		22	mod	22	mod
+24	,	,	PONCT	PONCT		23	ponct	23	ponct
+25	dirigeant	dirigeant	NC	NC	n=s|g=m	22	mod	22	mod
+26	de	de	P	P		25	dep	25	dep
+27	l'	le	DET	DET	n=s	28	det	28	det
+28	Allemagne	Allemagne	NPP	NPP	n=s|g=f	26	prep	26	prep
+29	nazie	nazi	ADJ	ADJ	n=s|g=f	28	mod	28	mod
+30	,	,	PONCT	PONCT		29	ponct	29	ponct
+31	fait	faire	V	V	n=s|t=P|p=3	9	mod	9	mod
+32	se	se	CLR	CLR	n=p,s|p=3	33	aff	33	aff
+33	déchaîner	déchaîner	VINF	VINF	t=W	31	obj	31	obj
+34	de	de	DET	DET	n=p	36	det	36	det
+35	grandes	grand	ADJ	ADJ	n=p|g=f	36	mod	36	mod
+36	haines	haine	NC	NC	n=p|g=f	33	obj	33	obj
+37	antisémites	antisémite	ADJ	ADJ	n=p	36	mod	36	mod
+38	un	un	DET	DET	n=s|g=m	0	_	0	_
+39	peu	peu	ADV	ADV		40	mod	40	mod
+40	partout	partout	ADV	ADV		0	_	0	_
+41	.	.	PONCT	PONCT		40	ponct	40	ponct
+
+1	C'	ce	CLS	CLS		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	finalement	_	ADV	ADV		2	mod	2	mod
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	guerre	guerre	NC	NC	n=s|g=f	2	obj	2	obj
+6	:	:	PONCT	PONCT		5	ponct	5	ponct
+7	les	les	DET	DET	n=p	8	det	8	det
+8	Nazis	_	NPP	NPP		9	suj	9	suj
+9	viennent	venir	V	V	n=p|t=P,S|p=3	2	mod	2	mod
+10	très	très	ADV	ADV		9	mod	9	mod
+11	rapidement	_	ADV	ADV		9	mod	9	mod
+12	à	à	P	P		9	mod	9	mod
+13	bout	bout	NC	NC	n=s|g=m	12	prep	12	prep
+14	de	de	P	P		9	mod	9	mod
+15	la	la	DET	DET	n=s|g=f	17	det	17	det
+16	faible	faible	ADJ	ADJ	n=s	17	mod	17	mod
+17	Pologne	Pologne	NPP	NPP	n=s|g=f	14	prep	14	prep
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	politique	politique	NC	NC	n=s|g=f	9	suj	9	suj
+3	antisémite	antisémite	ADJ	ADJ	n=s	2	mod	2	mod
+4	créée	créer	VPP	VPP	n=s|g=f|t=K	2	mod	2	mod
+5	par	par	P	P		4	mod	4	mod
+6	le	le	DET	DET	n=s|g=m	7	det	7	det
+7	Führer	_	NPP	NPP		5	prep	5	prep
+8	se	se	CLR	CLR	n=p,s|p=3	9	aff	9	aff
+9	met	mettre	V	V	n=s|t=P|p=3	0	root	0	root
+10	rapidement	_	ADV	ADV		9	mod	9	mod
+11	en	en	P	P		9	mod	9	mod
+12	place	place	NC	NC	n=s|g=f	11	prep	11	prep
+13	:	:	PONCT	PONCT		12	ponct	12	ponct
+14	pour	pour	P	P		9	mod	9	mod
+15	Vladek	_	NPP	NPP		14	prep	14	prep
+16	et	et	CC	CC		9	coord	9	coord
+17	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	18	det	18	det
+18	famille	famille	NC	NC	n=s|g=f	16	dep_coord	16	dep_coord
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	la	la	DET	DET	n=s|g=f	21	det	21	det
+21	vie	vie	NC	NC	n=s|g=f	22	suj	22	suj
+22	devient	devenir	V	V	n=s|t=P|p=3	9	mod	9	mod
+23	de	de	P	P		22	mod	22	mod
+24	plus	plus	ADV	ADV		23	prep	23	prep
+25	en	en	P	P		22	mod	22	mod
+26	plus	plus	ADV	ADV		27	mod	27	mod
+27	dure	dur	ADJ	ADJ	n=s|g=f	25	prep	25	prep
+28	.	.	PONCT	PONCT		27	ponct	27	ponct
+
+1	Enfermés	enfermer	VPP	VPP	n=p|g=m|t=K	18	mod	18	mod
+2	dans	dans	P	P		1	mod	1	mod
+3	des	des	DET	DET	n=p	4	det	4	det
+4	ghettos	ghetto	NC	NC	n=p|g=m	2	prep	2	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	humiliés	humilié	NC	NC	n=p|g=m	4	mod	4	mod
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	traités	traiter	VPP	VPP	n=p|g=m|t=K	4	mod	4	mod
+9	comme	comme	P	P		8	mod	8	mod
+10	des	des	DET	DET	n=p	11	det	11	det
+11	esclaves	esclave	NC	NC	n=p	9	prep	9	prep
+12	et	et	CC	CC		9	coord	9	coord
+13	des	de	P+D	P+D	n=p	12	dep_coord	12	dep_coord
+14	sous-humains	_	NC	NC		13	prep	13	prep
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	les	les	DET	DET	n=p	17	det	17	det
+17	Zylberberg	_	NPP	NPP		18	suj	18	suj
+18	voient	voir	V	V	n=p|t=P,S|p=3	0	root	0	root
+19	peu	peu	ADV	ADV		18	mod	18	mod
+20	à	à	P	P		18	mod	18	mod
+21	peu	peu	ADV	ADV		22	mod	22	mod
+22	tout	tout	ADJ	ADJ	n=s|g=m	24	mod	24	mod
+23	leur	leur	DET	DET	n=s|p=3|poss=p	24	det	24	det
+24	entourage	entourage	NC	NC	n=s|g=m	20	prep	20	prep
+25	mourir	mourir	VINF	VINF	t=W	18	mod	18	mod
+26	dans	dans	P	P		25	mod	25	mod
+27	des	des	DET	DET	n=p	28	det	28	det
+28	camps	camp	NC	NC	n=p|g=m	26	prep	26	prep
+29	de	de	P	P		25	mod	25	mod
+30	concentration	concentration	NC	NC	n=s|g=f	29	prep	29	prep
+31	.	.	PONCT	PONCT		30	ponct	30	ponct
+
+1	C'	ce	CLS	CLS		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	une	une	DET	DET	n=s|g=f	5	det	5	det
+4	véritable	véritable	ADJ	ADJ	n=s	5	mod	5	mod
+5	course	course	NC	NC	n=s|g=f	2	obj	2	obj
+6	à	à	P	P		2	mod	2	mod
+7	la	la	DET	DET	n=s|g=f	8	det	8	det
+8	survie	survie	NC	NC	n=s|g=f	6	prep	6	prep
+9	qui	qui	PROREL	PROREL	n=s	10	suj	10	suj
+10	commence	commencer	V	V	n=s|t=P,S|p=1,3	2	mod	2	mod
+11	:	:	PONCT	PONCT		10	ponct	10	ponct
+12	fuites	fuite	NC	NC	n=p|g=f	10	obj	10	obj
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	trahisons	trahison	NC	NC	n=p|g=f	12	mod	12	mod
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	désespoir	désespoir	NC	NC	n=s|g=m	12	mod	12	mod
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	suicides	suicide	NC	NC	n=p|g=m	16	coord	16	coord
+19	et	et	CC	CC		18	coord	18	coord
+20	nombreux	nombreux	ADJ	ADJ	g=m	21	mod	21	mod
+21	assassinats	assassinat	NC	NC	n=p|g=m	19	dep_coord	19	dep_coord
+22	rythment	rythmer	V	V	n=p|t=P,S|p=3	2	mod	2	mod
+23	la	la	DET	DET	n=s|g=f	25	det	25	det
+24	première	premier	ADJ	ADJ	n=s|g=f	25	mod	25	mod
+25	partie	partie	NC	NC	n=s|g=f	22	obj	22	obj
+26	de	de	P	P		25	dep	25	dep
+27	cette	cette	DET	DET	n=s|g=f	29	det	29	det
+28	terrible	terrible	ADJ	ADJ	n=s	29	mod	29	mod
+29	aventure	aventure	NC	NC	n=s|g=f	26	prep	26	prep
+30	dans	dans	P	P		22	mod	22	mod
+31	l'	le	DET	DET	n=s	32	det	32	det
+32	horreur	horreur	NC	NC	n=s|g=f	30	prep	30	prep
+33	de	de	P	P		22	mod	22	mod
+34	la	la	DET	DET	n=s|g=f	35	det	35	det
+35	Shoah	_	NPP	NPP		33	prep	33	prep
+36	...	...	PONCT	PONCT		35	ponct	35	ponct
+
+1	Alors	alors	ADV	ADV		2	mod	2	mod
+2	que	que	CS	CS		0	root	0	root
+3	Art	Art	NPP	NPP	n=s|g=m	4	suj	4	suj
+4	travaille	travailler	V	V	n=s|t=P,S|p=1,3	2	sub	2	sub
+5	sur	sur	P	P		4	mod	4	mod
+6	le	le	DET	DET	n=s|g=m	8	det	8	det
+7	premier	premier	ADJ	ADJ	n=s|g=m	8	mod	8	mod
+8	tome	tome	NC	NC	n=s	5	prep	5	prep
+9	de	de	P	P		4	mod	4	mod
+10	son	son	DET	DET	n=s|g=m|p=3|poss=s	11	det	11	det
+11	livre	livre	NC	NC	n=s	9	prep	9	prep
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	il	il	CLS	CLS	n=s|g=m|p=3	0	_	0	_
+14	doit	devoir	V	V	n=s|t=P|p=3	0	_	0	_
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	avec	avec	P	P		14	mod	14	mod
+17	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	18	det	18	det
+18	femme	femme	NC	NC	n=s|g=f	16	prep	16	prep
+19	Françoise	Françoise	NPP	NPP	n=s|g=f	18	mod	18	mod
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	aller	aller	VINF	VINF	t=W	14	obj	14	obj
+22	chez	chez	P	P		21	mod	21	mod
+23	son	son	DET	DET	n=s|g=m|p=3|poss=s	24	det	24	det
+24	père	père	NC	NC	n=s|g=m	22	prep	22	prep
+25	en	en	P	P		21	mod	21	mod
+26	urgence	urgence	NC	NC	n=s|g=f	25	prep	25	prep
+27	:	:	PONCT	PONCT		26	ponct	26	ponct
+28	Vladek	_	NPP	NPP		30	suj	30	suj
+29	s'	se	CLR	CLR	n=p,s|p=3	30	aff	30	aff
+30	entend	entendre	V	V	n=s|t=P|p=3	14	mod	14	mod
+31	si	_	ADV	ADV		30	mod	30	mod
+32	mal	mal	ADV	ADV		30	mod	30	mod
+33	avec	avec	P	P		30	mod	30	mod
+34	Mala	Mala	NPP	NPP	n=s|g=f	33	prep	33	prep
+35	que	que	CS	CS		30	mod	30	mod
+36	cette	cette	DET	DET	n=s|g=f	37	det	37	det
+37	dernière	dernier	ADJ	ADJ	n=s|g=f	39	suj	39	suj
+38	a	avoir	V	V	n=s|t=P|p=3	39	aux_tps	39	aux_tps
+39	quitté	quitter	VPP	VPP	n=s|g=m|t=K	35	sub	35	sub
+40	le	le	DET	DET	n=s|g=m	41	det	41	det
+41	domicile	domicile	NC	NC	n=s|g=m	39	obj	39	obj
+42	conjugal	conjugal	ADJ	ADJ	n=s|g=m	41	mod	41	mod
+43	...	...	PONCT	PONCT		42	ponct	42	ponct
+44	en	en	P	P		39	mod	39	mod
+45	tirant	tirer	VPR	VPR	t=G	44	prep	44	prep
+46	de	de	P	P		45	mod	45	mod
+47	l'	le	DET	DET	n=s	48	det	48	det
+48	argent	argent	NC	NC	n=s|g=m	46	prep	46	prep
+49	de	de	P	P		45	mod	45	mod
+50	son	son	DET	DET	n=s|g=m|p=3|poss=s	51	det	51	det
+51	compte	compte	NC	NC	n=s|g=m	49	prep	49	prep
+52	!	!	PONCT	PONCT		51	ponct	51	ponct
+
+1	Or	or	CC	CC		0	root	0	root
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	le	le	DET	DET	n=s|g=m	5	det	5	det
+4	vieux	vieux	ADJ	ADJ	g=m	5	mod	5	mod
+5	Spiegelman	_	NPP	NPP		7	suj	7	suj
+6	ne	ne	ADV	ADV		7	mod	7	mod
+7	peut	pouvoir	V	V	n=s|t=P|p=3	1	dep_coord	1	dep_coord
+8	pas	pas	ADV	ADV		7	mod	7	mod
+9	vivre	vivre	VINF	VINF	t=W	7	obj	7	obj
+10	seul	seul	ADJ	ADJ	n=s|g=m	9	mod	9	mod
+11	:	:	PONCT	PONCT		10	ponct	10	ponct
+12	malade	malade	ADJ	ADJ	n=s	9	mod	9	mod
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	il	il	CLS	CLS	n=s|g=m|p=3	15	suj	15	suj
+15	est	être	V	V	n=s|t=P|p=3	7	mod	7	mod
+16	dépendant	dépendant	ADJ	ADJ	n=s|g=m	15	ats	15	ats
+17	désormais	désormais	ADV	ADV		15	mod	15	mod
+18	de	de	P	P		15	mod	15	mod
+19	son	son	DET	DET	n=s|g=m|p=3|poss=s	20	det	20	det
+20	fils	fils	NC	NC	g=m	18	prep	18	prep
+21	et	et	CC	CC		18	coord	18	coord
+22	de	de	P	P		21	dep_coord	21	dep_coord
+23	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	24	det	24	det
+24	belle-fille	belle-fille	NC	NC	n=s|g=f	22	prep	22	prep
+25	,	,	PONCT	PONCT		24	ponct	24	ponct
+26	lesquels	lequel	PROREL	PROREL	n=p|g=m	28	suj	28	suj
+27	se	se	CLR	CLR	n=p,s|p=3	28	aff	28	aff
+28	priveraient	priver	V	V	n=p|t=C|p=3	15	mod	15	mod
+29	bien	bien	ADV	ADV		28	mod	28	mod
+30	de	de	P	P		28	mod	28	mod
+31	ce	ce	DET	DET	n=s|g=m	32	det	32	det
+32	vieillard	vieillard	NC	NC	n=s|g=m	30	prep	30	prep
+33	insupportable	insupportable	ADJ	ADJ	n=s	32	mod	32	mod
+34	.	.	PONCT	PONCT		33	ponct	33	ponct
+
+1	Art	art	NC	NC	n=s|g=m	2	suj	2	suj
+2	décide	décider	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	de	de	P	P		2	mod	2	mod
+4	profiter	profiter	VINF	VINF	t=W	3	prep	3	prep
+5	du	de	P+D	P+D	n=s|g=m	2	mod	2	mod
+6	temps	temps	NC	NC	g=m	5	prep	5	prep
+7	qu'	que	PROREL	PROREL		9	obj	9	obj
+8	il	il	CLS	CLS	n=s|g=m|p=3	9	suj	9	suj
+9	passe	passer	V	V	n=s|t=P,S|p=1,3	6	mod_rel	6	mod_rel
+10	avec	avec	P	P		9	mod	9	mod
+11	son	son	DET	DET	n=s|g=m|p=3|poss=s	12	det	12	det
+12	père	père	NC	NC	n=s|g=m	10	prep	10	prep
+13	pour	pour	P	P		9	mod	9	mod
+14	qu'	que	PROREL	PROREL		13	prep	13	prep
+15	il	il	CLS	CLS	n=s|g=m|p=3	17	suj	17	suj
+16	lui	lui	CLO	CLO	n=s|p=3	17	a_obj	17	a_obj
+17	raconte	raconter	V	V	n=s|t=P,S|p=1,3	2	mod	2	mod
+18	la	la	DET	DET	n=s|g=f	19	det	19	det
+19	fin	fin	NC	NC	n=s	17	obj	17	obj
+20	de	de	P	P		17	mod	17	mod
+21	son	son	DET	DET	n=s|g=m|p=3|poss=s	22	det	22	det
+22	histoire	histoire	NC	NC	n=s|g=f	20	prep	20	prep
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	et	et	CC	CC		17	coord	17	coord
+25	assiste	assister	V	V	n=s|t=P,S|p=1,3	24	dep_coord	24	dep_coord
+26	avec	avec	P	P		25	mod	25	mod
+27	angoisse	angoisse	NC	NC	n=s|g=f	26	prep	26	prep
+28	à	à	P	P		25	mod	25	mod
+29	la	la	DET	DET	n=s|g=f	30	det	30	det
+30	dégradation	dégradation	NC	NC	n=s|g=f	28	prep	28	prep
+31	de	de	P	P		25	mod	25	mod
+32	la	la	DET	DET	n=s|g=f	33	det	33	det
+33	santé	santé	NC	NC	n=s|g=f	31	prep	31	prep
+34	de	de	P	P		25	mod	25	mod
+35	Vladek	_	NPP	NPP		34	prep	34	prep
+36	...	...	PONCT	PONCT		35	ponct	35	ponct
+
+1	Vladek	_	NPP	NPP		4	suj	4	suj
+2	Spiegelman	_	NPP	NPP		1	mod	1	mod
+3	est	être	V	V	n=s|t=P|p=3	4	aux_tps	4	aux_tps
+4	emmené	emmener	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+5	au	à	P+D	P+D	n=s|g=m	4	mod	4	mod
+6	terrible	terrible	ADJ	ADJ	n=s	7	mod	7	mod
+7	camp	camp	NC	NC	n=s|g=m	5	prep	5	prep
+8	d'	de	P	P		4	mod	4	mod
+9	Auschwitz	_	NPP	NPP		8	prep	8	prep
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	le	le	DET	DET	n=s|g=m	13	det	13	det
+12	plus	plus	ADV	ADV		13	mod	13	mod
+13	meurtrier	meurtrier	ADJ	ADJ	n=s|g=m	4	mod	4	mod
+14	des	de	P+D	P+D	n=p	4	mod	4	mod
+15	camps	camp	NC	NC	n=p|g=m	14	prep	14	prep
+16	de	de	P	P		4	mod	4	mod
+17	concentration	concentration	NC	NC	n=s|g=f	16	prep	16	prep
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	3	suj	3	suj
+2	est	être	V	V	n=s|t=P|p=3	3	aux_tps	3	aux_tps
+3	séparé	séparer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+4	de	de	P	P		3	mod	3	mod
+5	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	6	det	6	det
+6	femme	femme	NC	NC	n=s|g=f	4	prep	4	prep
+7	et	et	CC	CC		3	coord	3	coord
+8	est	être	V	V	n=s|t=P|p=3	7	dep_coord	7	dep_coord
+9	dans	dans	P	P		8	mod	8	mod
+10	la	la	DET	DET	n=s|g=f	11	det	11	det
+11	peur	peur	NC	NC	n=s|g=f	9	prep	9	prep
+12	constante	constant	ADJ	ADJ	n=s|g=f	11	mod	11	mod
+13	de	de	P	P		8	mod	8	mod
+14	faire	faire	VINF	VINF	t=W	13	prep	13	prep
+15	partie	partie	NC	NC	n=s|g=f	14	obj	14	obj
+16	des	de	P+D	P+D	n=p	14	mod	14	mod
+17	convois	convoi	NC	NC	n=p|g=m	16	prep	16	prep
+18	vers	vers	P	P		14	mod	14	mod
+19	les	les	DET	DET	n=p	20	det	20	det
+20	chambres	chambre	NC	NC	n=p|g=f	18	prep	18	prep
+21	à	à	P	P		20	dep	20	dep
+22	gaz	gaz	NC	NC	g=m	21	prep	21	prep
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+1	Au	à	P+D	P+D	n=s|g=m	15	mod	15	mod
+2	gré	gré	NC	NC	n=s|g=m	1	prep	1	prep
+3	des	de	P+D	P+D	n=p	2	dep	2	dep
+4	amitiés	amitié	NC	NC	n=p|g=f	3	prep	3	prep
+5	et	et	CC	CC		1	coord	1	coord
+6	des	de	P+D	P+D	n=p	5	dep_coord	5	dep_coord
+7	inimitiés	inimitié	NC	NC	n=p|g=f	6	prep	6	prep
+8	qu'	que	CS	CS		15	mod	15	mod
+9	il	il	CLS	CLS	n=s|g=m|p=3	11	suj	11	suj
+10	se	se	CLR	CLR	n=p,s|p=3	11	aff	11	aff
+11	fait	faire	V	V	n=s|t=P|p=3	8	sub	8	sub
+12	là-bas	là-bas	ADV	ADV		11	mod	11	mod
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	il	il	CLS	CLS	n=s|g=m|p=3	15	suj	15	suj
+15	lutte	lutter	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+16	pour	pour	P	P		15	mod	15	mod
+17	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	18	det	18	det
+18	survie	survie	NC	NC	n=s|g=f	16	prep	16	prep
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	Mais	mais	CC	CC		0	root	0	root
+2	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	3	det	3	det
+3	santé	santé	NC	NC	n=s|g=f	5	suj	5	suj
+4	se	se	CLR	CLR	n=p,s|p=3	5	aff	5	aff
+5	dégrade	dégrader	V	V	n=s|t=P,S|p=1,3	1	dep_coord	1	dep_coord
+6	sans	sans	P	P		5	mod	5	mod
+7	cesse	cesse	NC	NC	n=s|g=f	6	prep	6	prep
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	il	il	CLS	CLS	n=s|g=m|p=3	10	suj	10	suj
+10	craint	craindre	V	V	n=s|t=P|p=3	5	mod	5	mod
+11	de	de	P	P		10	mod	10	mod
+12	ne	ne	ADV	ADV		14	mod	14	mod
+13	pas	pas	ADV	ADV		14	mod	14	mod
+14	voir	voir	VINF	VINF	t=W	11	prep	11	prep
+15	la	la	DET	DET	n=s|g=f	16	det	16	det
+16	fin	fin	NC	NC	n=s	14	obj	14	obj
+17	de	de	P	P		16	dep	16	dep
+18	cette	cette	DET	DET	n=s|g=f	19	det	19	det
+19	guerre	guerre	NC	NC	n=s|g=f	17	prep	17	prep
+20	abominable	abominable	ADJ	ADJ	n=s	19	mod	19	mod
+21	et	et	CC	CC		10	coord	10	coord
+22	de	de	P	P		21	dep_coord	21	dep_coord
+23	connaître	connaître	VINF	VINF	t=W	22	prep	22	prep
+24	lui	lui	PRO	PRO	n=s|g=m|p=3	23	obj	23	obj
+25	aussi	aussi	ADV	ADV		23	mod	23	mod
+26	une	une	DET	DET	n=s|g=f	27	det	27	det
+27	mort	mort	NC	NC	n=s|g=f,m	23	obj	23	obj
+28	infâme	infâme	ADJ	ADJ	n=s	27	mod	27	mod
+29	...	...	PONCT	PONCT		28	ponct	28	ponct
+
+1	Vladek	_	NPP	NPP		4	suj	4	suj
+2	Spiegelman	_	NPP	NPP		1	mod	1	mod
+3	est	être	V	V	n=s|t=P|p=3	4	aux_tps	4	aux_tps
+4	né	naître	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+5	en	en	P	P		4	mod	4	mod
+6	1906	1906	NC	NC		5	prep	5	prep
+7	et	et	CC	CC		4	coord	4	coord
+8	mort	mort	NC	NC	n=s|g=f,m	7	dep_coord	7	dep_coord
+9	en	en	P	P		4	mod	4	mod
+10	1982	1982	NC	NC		9	prep	9	prep
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	le	le	DET	DET	n=s|g=m	4	det	4	det
+4	héros	héros	NC	NC	g=m	2	obj	2	obj
+5	de	de	P	P		2	mod	2	mod
+6	l'	le	DET	DET	n=s	7	det	7	det
+7	histoire	histoire	NC	NC	n=s|g=f	5	prep	5	prep
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	qui	qui	PROREL	PROREL	n=s	10	suj	10	suj
+10	narre	narrer	V	V	n=s|t=P,S|p=1,3	2	mod	2	mod
+11	ses	ses	DET	DET	n=p|p=3|poss=s	13	det	13	det
+12	nombreuses	nombreux	ADJ	ADJ	n=p|g=f	13	mod	13	mod
+13	péripéties	péripétie	NC	NC	n=p|g=f	10	obj	10	obj
+14	pour	pour	P	P		10	mod	10	mod
+15	échapper	échapper	VINF	VINF	t=W	14	prep	14	prep
+16	à	à	P	P		15	mod	15	mod
+17	l'	le	DET	DET	n=s	19	det	19	det
+18	affreuse	affreux	ADJ	ADJ	n=s|g=f	19	mod	19	mod
+19	élimination	élimination	NC	NC	n=s|g=f	16	prep	16	prep
+20	des	de	P+D	P+D	n=p	19	dep	19	dep
+21	Juifs	juif	NC	NC	n=p|g=m	20	prep	20	prep
+22	voulue	vouloir	VPP	VPP	n=s|g=f|t=K	19	mod	19	mod
+23	par	par	P	P		22	mod	22	mod
+24	Adolf	Adolf	NPP	NPP	n=s|g=m	23	prep	23	prep
+25	Hitler	_	NPP	NPP		24	mod	24	mod
+26	.	.	PONCT	PONCT		25	ponct	25	ponct
+
+1	Après	après	P	P		6	mod	6	mod
+2	la	la	DET	DET	n=s|g=f	3	det	3	det
+3	guerre	guerre	NC	NC	n=s|g=f	1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	il	il	CLS	CLS	n=s|g=m|p=3	6	suj	6	suj
+6	vit	vivre	V	V	n=s|t=P|p=3	0	root	0	root
+7	une	une	DET	DET	n=s|g=f	8	det	8	det
+8	existence	existence	NC	NC	n=s|g=f	6	obj	6	obj
+9	heureuse	heureux	ADJ	ADJ	n=s|g=f	8	mod	8	mod
+10	de	de	P	P		6	mod	6	mod
+11	père	père	NC	NC	n=s|g=m	10	prep	10	prep
+12	de	de	P	P		6	mod	6	mod
+13	famille	famille	NC	NC	n=s|g=f	12	prep	12	prep
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	mais	mais	CC	CC		6	coord	6	coord
+16	le	le	DET	DET	n=s|g=m	17	det	17	det
+17	suicide	suicide	NC	NC	n=s|g=m	26	suj	26	suj
+18	de	de	P	P		17	dep	17	dep
+19	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	20	det	20	det
+20	femme	femme	NC	NC	n=s|g=f	18	prep	18	prep
+21	Anja	Anja	NPP	NPP	n=s|g=f	20	mod	20	mod
+22	en	en	P	P		20	dep	20	dep
+23	mai	mai	NC	NC	n=s|g=m	22	prep	22	prep
+24	1968	1968	NC	NC		23	mod	23	mod
+25	le	le	CLO	CLO	n=s|g=m|p=3	26	obj	26	obj
+26	bouleverse	bouleverser	V	V	n=s|t=P,S|p=1,3	15	dep_coord	15	dep_coord
+27	,	,	PONCT	PONCT		26	ponct	26	ponct
+28	et	et	CC	CC		26	coord	26	coord
+29	les	les	DET	DET	n=p	31	det	31	det
+30	deux	deux	ADJ	ADJ	s=card|n=p	31	mod	31	mod
+31	infarctus	infarctus	NC	NC	g=m	38	suj	38	suj
+32	qu'	que	PROREL	PROREL		34	obj	34	obj
+33	il	il	CLS	CLS	n=s|g=m|p=3	34	suj	34	suj
+34	fera	faire	V	V	n=s|t=F|p=3	31	mod_rel	31	mod_rel
+35	par	par	P	P		34	mod	34	mod
+36	la	la	DET	DET	n=s|g=f	37	det	37	det
+37	suite	suite	NC	NC	n=s|g=f	35	prep	35	prep
+38	vont	aller	V	V	n=p|t=P|p=3	28	dep_coord	28	dep_coord
+39	faire	faire	VINF	VINF	t=W	38	obj	38	obj
+40	décliner	décliner	VINF	VINF	t=W	39	obj	39	obj
+41	lentement	_	ADV	ADV		40	mod	40	mod
+42	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	43	det	43	det
+43	santé	santé	NC	NC	n=s|g=f	40	obj	40	obj
+44	.	.	PONCT	PONCT		43	ponct	43	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	3	suj	3	suj
+2	se	se	CLR	CLR	n=p,s|p=3	3	aff	3	aff
+3	remarie	remarier	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	avec	avec	P	P		3	mod	3	mod
+5	Mala	Mala	NPP	NPP	n=s|g=f	4	prep	4	prep
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	une	une	DET	DET	n=s|g=f	9	det	9	det
+8	autre	autre	ADJ	ADJ	n=s	9	mod	9	mod
+9	survivante	survivant	NC	NC	n=s|g=f	3	mod	3	mod
+10	de	de	P	P		9	dep	9	dep
+11	la	la	DET	DET	n=s|g=f	12	det	12	det
+12	Shoah	_	NPP	NPP		10	prep	10	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	qu'	que	CS	CS		3	mod	3	mod
+15	il	il	CLS	CLS	n=s|g=m|p=3	17	suj	17	suj
+16	n'	ne	ADV	ADV		17	mod	17	mod
+17	aime	aimer	V	V	n=s|t=P,S|p=1,3	14	sub	14	sub
+18	pas	pas	ADV	ADV		17	mod	17	mod
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	guerre	guerre	NC	NC	n=s|g=f	5	suj	5	suj
+3	l'	le	CLO	CLO	n=s|p=3	5	obj	5	obj
+4	a	avoir	V	V	n=s|t=P|p=3	5	aux_tps	5	aux_tps
+5	endurci3	_	VPP	VPP		0	root	0	root
+6	:	:	PONCT	PONCT		5	ponct	5	ponct
+7	il	il	CLS	CLS	n=s|g=m|p=3	8	suj	8	suj
+8	est	être	V	V	n=s|t=P|p=3	5	mod	5	mod
+9	grincheux	grincheux	ADJ	ADJ	g=m	8	ats	8	ats
+10	et	et	CC	CC		9	coord	9	coord
+11	avare	avare	ADJ	ADJ	n=s	10	dep_coord	10	dep_coord
+12	à	à	P	P		8	mod	8	mod
+13	l'	le	DET	DET	n=s	14	det	14	det
+14	extrême	extrême	ADJ	ADJ	n=s	12	prep	12	prep
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	au	à	P+D	P+D	n=s|g=m	8	mod	8	mod
+17	point	point	NC	NC	n=s|g=m	16	prep	16	prep
+18	que	que	CS	CS		8	mod	8	mod
+19	Art	Art	NPP	NPP	n=s|g=m	20	suj	20	suj
+20	tremble	trembler	V	V	n=s|t=P,S|p=1,3	18	sub	18	sub
+21	à	à	P	P		20	mod	20	mod
+22	l'	le	DET	DET	n=s	23	det	23	det
+23	idée	idée	NC	NC	n=s|g=f	21	prep	21	prep
+24	que	que	CS	CS		20	mod	20	mod
+25	son	son	DET	DET	n=s|g=m|p=3|poss=s	26	det	26	det
+26	père	père	NC	NC	n=s|g=m	27	suj	27	suj
+27	ressemble	ressembler	V	V	n=s|t=P,S|p=1,3	24	sub	24	sub
+28	au	à	P+D	P+D	n=s|g=m	27	mod	27	mod
+29	cliché	cliché	NC	NC	n=s|g=m	28	prep	28	prep
+30	raciste	raciste	ADJ	ADJ	n=s	29	mod	29	mod
+31	du	de	P+D	P+D	n=s|g=m	29	dep	29	dep
+32	«_	"	PONCT	PONCT		31	ponct	31	ponct
+33	vieux	vieux	ADJ	ADJ	g=m	0	_	0	_
+34	Juif	_	V	V		33	ponct	33	ponct
+35	avare	avare	ADJ	ADJ	n=s	34	prep	34	prep
+36	_»	"	PONCT	PONCT		35	ponct	35	ponct
+37	.	.	PONCT	PONCT		35	ponct	35	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	aussi	aussi	ADV	ADV		2	mod	2	mod
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	à	à	P	P		2	mod	2	mod
+6	la	la	DET	DET	n=s|g=f	8	det	8	det
+7	grande	grand	ADJ	ADJ	n=s|g=f	8	mod	8	mod
+8	surprise	surprise	NC	NC	n=s|g=f	5	prep	5	prep
+9	d'	de	P	P		8	dep	8	dep
+10	Art	Art	NPP	NPP	n=s|g=m	9	prep	9	prep
+11	et	et	CC	CC		5	coord	5	coord
+12	de	de	P	P		11	dep_coord	11	dep_coord
+13	Françoise	Françoise	NPP	NPP	n=s|g=f	12	prep	12	prep
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	raciste	raciste	ADJ	ADJ	n=s	5	prep	5	prep
+16	envers	envers	P	P		2	mod	2	mod
+17	les	les	DET	DET	n=p	18	det	18	det
+18	Noirs	noir	NC	NC	n=p|g=m	16	prep	16	prep
+19	!	!	PONCT	PONCT		18	ponct	18	ponct
+
+1	Toutefois	toutefois	ADV	ADV		4	mod	4	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	Vladek	_	NPP	NPP		4	suj	4	suj
+4	semble	sembler	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+5	réellement	_	ADV	ADV		4	mod	4	mod
+6	aimer	aimer	VINF	VINF	t=W	4	obj	4	obj
+7	son	son	DET	DET	n=s|g=m|p=3|poss=s	8	det	8	det
+8	fils	fils	NC	NC	g=m	6	obj	6	obj
+9	bien	bien	ADV	ADV		6	mod	6	mod
+10	qu'	que	CS	CS		6	mod	6	mod
+11	il	il	CLS	CLS	n=s|g=m|p=3	13	suj	13	suj
+12	le	le	CLO	CLO	n=s|g=m|p=3	13	obj	13	obj
+13	critique	critiquer	V	V	n=s|t=P,S|p=1,3	10	sub	10	sub
+14	régulièrement	_	ADV	ADV		13	mod	13	mod
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+1	Art	art	NC	NC	n=s|g=m	4	suj	4	suj
+2	Spiegelman	_	NPP	NPP		1	mod	1	mod
+3	est	être	V	V	n=s|t=P|p=3	4	aux_tps	4	aux_tps
+4	né	naître	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+5	en	en	P	P		4	mod	4	mod
+6	1948	1948	NC	NC		5	prep	5	prep
+7	.	.	PONCT	PONCT		6	ponct	6	ponct
+
+1	Fils	fils	NC	NC	g=m	6	mod	6	mod
+2	de	de	P	P		1	dep	1	dep
+3	Vladek	_	NPP	NPP		2	prep	2	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	il	il	CLS	CLS	n=s|g=m|p=3	6	suj	6	suj
+6	veut	vouloir	V	V	n=s|t=P|p=3	0	root	0	root
+7	adapter	adapter	VINF	VINF	t=W	6	obj	6	obj
+8	l'	le	DET	DET	n=s	9	det	9	det
+9	histoire	histoire	NC	NC	n=s|g=f	7	obj	7	obj
+10	de	de	P	P		7	mod	7	mod
+11	ce	ce	DET	DET	n=s|g=m	12	det	12	det
+12	dernier	dernier	ADJ	ADJ	n=s|g=m	10	prep	10	prep
+13	en	en	P	P		7	mod	7	mod
+14	bande	bande	NC	NC	n=s|g=f	13	prep	13	prep
+15	dessinée	dessiner	VPP	VPP	n=s|g=f|t=K	14	mod	14	mod
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	en	en	P	P		2	mod	2	mod
+4	effet	effet	NC	NC	n=s|g=m	3	prep	3	prep
+5	dessinateur	dessinateur	NC	NC	n=s|g=m	4	mod	4	mod
+6	:	:	PONCT	PONCT		5	ponct	5	ponct
+7	une	un	PRO	PRO	n=s|g=f	2	mod	2	mod
+8	de	de	P	P		7	dep	7	dep
+9	ses	ses	DET	DET	n=p|p=3|poss=s	10	det	10	det
+10	œuvres	_	NC	NC		8	prep	8	prep
+11	apparaît	apparaître	V	V	n=s|t=P|p=3	0	_	0	_
+12	dans	dans	P	P		11	mod	11	mod
+13	le	le	DET	DET	n=s|g=m	14	det	14	det
+14	tome	tome	NC	NC	n=s	12	prep	12	prep
+15	1	1	ADJ	ADJ		14	mod	14	mod
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	Voyage	voyage	NC	NC	n=s|g=m	14	mod	14	mod
+18	sur	sur	P	P		11	mod	11	mod
+19	la	la	DET	DET	n=s|g=f	20	det	20	det
+20	planète	planète	NC	NC	n=s|g=f	18	prep	18	prep
+21	Enfer	_	NPP	NPP		20	mod	20	mod
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+23	où	où	PROREL	PROREL		25	mod	25	mod
+24	il	il	CLS	CLS	n=s|g=m|p=3	25	suj	25	suj
+25	raconte	raconter	V	V	n=s|t=P,S|p=1,3	20	mod_rel	20	mod_rel
+26	le	le	DET	DET	n=s|g=m	27	det	27	det
+27	traumatisme	traumatisme	NC	NC	n=s|g=m	25	obj	25	obj
+28	de	de	P	P		25	mod	25	mod
+29	la	la	DET	DET	n=s|g=f	30	det	30	det
+30	mort	mort	NC	NC	n=s|g=f,m	28	prep	28	prep
+31	de	de	P	P		25	mod	25	mod
+32	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	33	det	33	det
+33	mère	mère	NC	NC	n=s|g=f	31	prep	31	prep
+34	,	,	PONCT	PONCT		33	ponct	33	ponct
+35	et	et	CC	CC		25	coord	25	coord
+36	où	où	PROREL	PROREL		39	mod	39	mod
+37	les	les	DET	DET	n=p	38	det	38	det
+38	personnages	personnage	NC	NC	n=p|g=m	39	suj	39	suj
+39	sont	être	V	V	n=p|t=P|p=3	35	dep_coord	35	dep_coord
+40	cette	cette	DET	DET	n=s|g=f	41	det	41	det
+41	fois-ci	_	NC	NC		39	obj	39	obj
+42	humains6	_	ADJ	ADJ		41	mod	41	mod
+43	.	.	PONCT	PONCT		42	ponct	42	ponct
+
+1	En	en	P	P		12	mod	12	mod
+2	plus	plus	ADV	ADV		4	mod	4	mod
+3	de	de	P	P		4	aux_tps	4	aux_tps
+4	raconter	raconter	VINF	VINF	t=W	1	prep	1	prep
+5	l'	le	DET	DET	n=s	6	det	6	det
+6	histoire	histoire	NC	NC	n=s|g=f	4	obj	4	obj
+7	de	de	P	P		4	mod	4	mod
+8	son	son	DET	DET	n=s|g=m|p=3|poss=s	9	det	9	det
+9	père	père	NC	NC	n=s|g=m	7	prep	7	prep
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	Maus	_	NPP	NPP		12	suj	12	suj
+12	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+13	aussi	aussi	ADV	ADV		12	mod	12	mod
+14	un	un	DET	DET	n=s|g=m	15	det	15	det
+15	récit	récit	NC	NC	n=s|g=m	12	obj	12	obj
+16	autobiographique	autobiographique	ADJ	ADJ	n=s	15	mod	15	mod
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+1	En	en	P	P		5	mod	5	mod
+2	effet	effet	NC	NC	n=s|g=m	1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	Art	Art	NPP	NPP	n=s|g=m	5	suj	5	suj
+5	montre	montrer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+6	comment	comment	NC	NC	g=m	5	mod	5	mod
+7	est	être	V	V	n=s|t=P|p=3	5	mod	5	mod
+8	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	9	det	9	det
+9	vie	vie	NC	NC	n=s|g=f	7	obj	7	obj
+10	:	:	PONCT	PONCT		9	ponct	9	ponct
+11	son	son	DET	DET	n=s|g=m|p=3|poss=s	12	det	12	det
+12	couple	couple	NC	NC	n=s	7	ponct	7	ponct
+13	avec	avec	P	P		12	dep	12	dep
+14	Françoise	Françoise	NPP	NPP	n=s|g=f	13	prep	13	prep
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	ses	ses	DET	DET	n=p|p=3|poss=s	17	det	17	det
+17	regrets	regret	NC	NC	n=p|g=m	5	obj	5	obj
+18	par	par	P	P		17	dep	17	dep
+19	rapport	rapport	NC	NC	n=s|g=m	18	prep	18	prep
+20	au	à	P+D	P+D	n=s|g=m	5	mod	5	mod
+21	suicide	suicide	NC	NC	n=s|g=m	20	prep	20	prep
+22	de	de	P	P		5	mod	5	mod
+23	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	24	det	24	det
+24	mère	mère	NC	NC	n=s|g=f	22	prep	22	prep
+25	,	,	PONCT	PONCT		24	ponct	24	ponct
+26	la	la	DET	DET	n=s|g=f	27	det	27	det
+27	naissance	naissance	NC	NC	n=s|g=f	5	obj	5	obj
+28	de	de	P	P		27	dep	27	dep
+29	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	30	det	30	det
+30	fille	fille	NC	NC	n=s|g=f	28	prep	28	prep
+31	Nadja	Nadja	NPP	NPP	n=s|g=f	30	mod	30	mod
+32	,	,	PONCT	PONCT		31	ponct	31	ponct
+33	ses	ses	DET	DET	n=p|p=3|poss=s	34	det	34	det
+34	relations	relation	NC	NC	n=p|g=f	5	mod	5	mod
+35	compliquées	compliquer	ADJ	ADJ	n=p|g=f|t=K	34	mod	34	mod
+36	avec	avec	P	P		34	dep	34	dep
+37	son	son	DET	DET	n=s|g=m|p=3|poss=s	38	det	38	det
+38	père	père	NC	NC	n=s|g=m	36	prep	36	prep
+39	vieillissant	vieillir	VPR	VPR	t=G	38	mod	38	mod
+40	,	,	PONCT	PONCT		39	ponct	39	ponct
+41	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	42	det	42	det
+42	dépression	dépression	NC	NC	n=s|g=f	39	obj	39	obj
+43	après	après	P	P		39	mod	39	mod
+44	le	le	DET	DET	n=s|g=m	46	det	46	det
+45	grand	grand	ADJ	ADJ	n=s|g=m	46	mod	46	mod
+46	succès	succès	NC	NC	g=m	43	prep	43	prep
+47	du	de	P+D	P+D	n=s|g=m	39	mod	39	mod
+48	tome	tome	NC	NC	n=s	47	prep	47	prep
+49	1	1	ADJ	ADJ		48	mod	48	mod
+50	de	de	P	P		39	mod	39	mod
+51	Maus	_	NPP	NPP		50	prep	50	prep
+52	,	,	PONCT	PONCT		51	ponct	51	ponct
+53	...	...	PONCT	PONCT		51	ponct	51	ponct
+
+1	Art	art	NC	NC	n=s|g=m	4	suj	4	suj
+2	Spiegelman	_	NPP	NPP		1	mod	1	mod
+3	a	avoir	V	V	n=s|t=P|p=3	4	aux_tps	4	aux_tps
+4	précédé	précéder	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+5	ses	ses	DET	DET	n=p|p=3|poss=s	7	det	7	det
+6	deux	deux	ADJ	ADJ	s=card|n=p	7	mod	7	mod
+7	œuvres	_	NC	NC		4	obj	4	obj
+8	de	de	P	P		7	dep	7	dep
+9	citations	citation	NC	NC	n=p|g=f	8	prep	8	prep
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	l'	le	DET	DET	n=s	12	det	12	det
+12	une	un	PRO	PRO	n=s|g=f	4	mod	4	mod
+13	d'	de	P	P		4	mod	4	mod
+14	Adolf	Adolf	NPP	NPP	n=s|g=m	13	prep	13	prep
+15	Hitler	_	NPP	NPP		14	mod	14	mod
+16	dans	dans	P	P		4	mod	4	mod
+17	le	le	DET	DET	n=s|g=m	18	det	18	det
+18	tome	tome	NC	NC	n=s	16	prep	16	prep
+19	1	1	ADJ	ADJ		18	mod	18	mod
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	l'	le	DET	DET	n=s	22	det	22	det
+22	autre	autre	PRO	PRO	n=s|g=f,m	4	mod	4	mod
+23	d'	de	P	P		4	mod	4	mod
+24	un	un	DET	DET	n=s|g=m	25	det	25	det
+25	journal	journal	NC	NC	n=s|g=m	23	prep	23	prep
+26	nazi	nazi	ADJ	ADJ	n=s|g=m	25	mod	25	mod
+27	dans	dans	P	P		4	mod	4	mod
+28	le	le	DET	DET	n=s|g=m	29	det	29	det
+29	tome	tome	NC	NC	n=s	27	prep	27	prep
+30	2	2	ADJ	ADJ		29	mod	29	mod
+31	.	.	PONCT	PONCT		30	ponct	30	ponct
+
+1	—	—	PONCT	PONCT		0	ponct	0	ponct
+
+1	Adolf	Adolf	NPP	NPP	n=s|g=m	0	_	0	_
+2	Hitler	_	NPP	NPP		1	mod	1	mod
+3	.	.	PONCT	PONCT		2	ponct	2	ponct
+4	—	—	PONCT	PONCT		2	ponct	2	ponct
+
+1	Article	article	NC	NC	n=s|g=m	22	mod	22	mod
+2	de	de	P	P		1	dep	1	dep
+3	journal	journal	NC	NC	n=s|g=m	2	prep	2	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	Poméranie	_	NPP	NPP		22	suj	22	suj
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	Allemagne	Allemagne	NPP	NPP	n=s|g=f	5	mod	5	mod
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	milieu	milieu	NC	NC	n=s|g=m	5	mod	5	mod
+10	des	de	P+D	P+D	n=p	9	dep	9	dep
+11	années	année	NC	NC	n=p|g=f	10	prep	10	prep
+12	30	30	NC	NC		11	mod	11	mod
+13	.	.	PONCT	PONCT		12	ponct	12	ponct
+14	Dès	dès	P	P		9	dep	9	dep
+15	la	la	DET	DET	n=s|g=f	16	det	16	det
+16	parution	parution	NC	NC	n=s|g=f	14	prep	14	prep
+17	du	de	P+D	P+D	n=s|g=m	16	dep	16	dep
+18	tome	tome	NC	NC	n=s	17	prep	17	prep
+19	1	1	ADJ	ADJ		18	mod	18	mod
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	Maus	_	NPP	NPP		5	mod	5	mod
+22	connaît	connaître	V	V	n=s|t=P|p=3	0	root	0	root
+23	un	un	DET	DET	n=s|g=m	25	det	25	det
+24	grand	grand	ADJ	ADJ	n=s|g=m	25	mod	25	mod
+25	succès	succès	NC	NC	g=m	22	obj	22	obj
+26	.	.	PONCT	PONCT		25	ponct	25	ponct
+
+1	Spiegelman	_	NPP	NPP		6	suj	6	suj
+2	lui	lui	PRO	PRO	n=s|g=m|p=3	1	mod	1	mod
+3	-	-	PONCT	PONCT		2	ponct	2	ponct
+4	même	même	ADV	ADV		6	mod	6	mod
+5	en	en	CLO	CLO		6	aff	6	aff
+6	parle	parler	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+7	dans	dans	P	P		6	mod	6	mod
+8	le	le	DET	DET	n=s|g=m	9	det	9	det
+9	tome	tome	NC	NC	n=s	7	prep	7	prep
+10	2	2	ADJ	ADJ		9	mod	9	mod
+11	:	:	PONCT	PONCT		10	ponct	10	ponct
+
+1	En	en	P	P		6	mod	6	mod
+2	effet	effet	NC	NC	n=s|g=m	1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	Maus	_	NPP	NPP		6	suj	6	suj
+5	a	avoir	V	V	n=s|t=P|p=3	6	aux_tps	6	aux_tps
+6	reçu	recevoir	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+7	et	et	CC	CC		6	coord	6	coord
+8	concouru	concourir	VPP	VPP	n=s|g=m|t=K	7	dep_coord	7	dep_coord
+9	pour	pour	P	P		6	mod	6	mod
+10	de	de	DET	DET	n=p	12	det	12	det
+11	nombreux	nombreux	ADJ	ADJ	g=m	12	mod	12	mod
+12	prix	prix	NC	NC	g=m	9	prep	9	prep
+13	:	:	PONCT	PONCT		12	ponct	12	ponct
+
+1	Parmi	parmi	P	P		8	mod	8	mod
+2	tous	tout	ADJ	ADJ	n=p|g=m	4	mod	4	mod
+3	ses	ses	DET	DET	n=p|p=3|poss=s	4	det	4	det
+4	prix	prix	NC	NC	g=m	1	prep	1	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	le	le	DET	DET	n=s|g=m	7	det	7	det
+7	Pulitzer	_	NPP	NPP		8	suj	8	suj
+8	retient	retenir	V	V	n=s|t=P|p=3	0	root	0	root
+9	l'	le	DET	DET	n=s	10	det	10	det
+10	attention	attention	NC	NC	n=s|g=f	8	obj	8	obj
+11	:	:	PONCT	PONCT		10	ponct	10	ponct
+12	c'	ce	CLS	CLS		13	suj	13	suj
+13	est	être	V	V	n=s|t=P|p=3	8	mod	8	mod
+14	en	en	P	P		13	mod	13	mod
+15	effet	effet	NC	NC	n=s|g=m	14	prep	14	prep
+16	la	la	DET	DET	n=s|g=f	18	det	18	det
+17	première	premier	ADJ	ADJ	n=s|g=f	18	mod	18	mod
+18	fois	fois	NC	NC	g=f	13	mod	13	mod
+19	qu'	que	PROREL	PROREL		22	obj	22	obj
+20	il	il	CLS	CLS	n=s|g=m|p=3	22	suj	22	suj
+21	est	être	V	V	n=s|t=P|p=3	22	aux_tps	22	aux_tps
+22	décerné	décerner	VPP	VPP	n=s|g=m|t=K	18	mod_rel	18	mod_rel
+23	à	à	P	P		22	mod	22	mod
+24	une	une	DET	DET	n=s|g=f	25	det	25	det
+25	bande	bande	NC	NC	n=s|g=f	23	prep	23	prep
+26	dessinée5	_	NC	NC		25	mod	25	mod
+27	.	.	PONCT	PONCT		26	ponct	26	ponct
+
+1	En	en	P	P		5	mod	5	mod
+2	2011	2011	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	Spiegelman	_	NPP	NPP		5	suj	5	suj
+5	publie	publier	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+6	MetaMaus7	_	NPP	NPP		5	obj	5	obj
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	où	où	PROREL	PROREL		10	mod	10	mod
+9	il	il	CLS	CLS	n=s|g=m|p=3	10	suj	10	suj
+10	raconte	raconter	V	V	n=s|t=P,S|p=1,3	6	mod_rel	6	mod_rel
+11	les	les	DET	DET	n=p	12	det	12	det
+12	étapes	étape	NC	NC	n=p|g=f	10	obj	10	obj
+13	de	de	P	P		12	dep	12	dep
+14	fabrication	fabrication	NC	NC	n=s|g=f	13	prep	13	prep
+15	de	de	P	P		10	mod	10	mod
+16	son	son	DET	DET	n=s|g=m|p=3|poss=s	17	det	17	det
+17	œuvre	_	NC	NC		15	prep	15	prep
+18	qui	qui	PROREL	PROREL	n=s	0	_	0	_
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	25	25	ADJ	ADJ		21	mod	21	mod
+21	ans	an	NC	NC	n=p|g=m	0	_	0	_
+22	après	après	P	P		21	dep	21	dep
+23	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	24	det	24	det
+24	sortie	sortie	NC	NC	n=s|g=f	22	prep	22	prep
+25	,	,	PONCT	PONCT		24	ponct	24	ponct
+26	a	avoir	V	V	n=s|t=P|p=3	21	ponct	21	ponct
+27	un	un	DET	DET	n=s|g=m	28	det	28	det
+28	pouvoir	pouvoir	NC	NC	n=s|g=m	26	obj	26	obj
+29	de	de	P	P		28	dep	28	dep
+30	fascination	fascination	NC	NC	n=s|g=f	29	prep	29	prep
+31	toujours	toujours	ADV	ADV		30	mod	30	mod
+32	aussi	aussi	ADV	ADV		33	mod	33	mod
+33	fort	fort	ADJ	ADJ	n=s|g=m	30	mod	30	mod
+34	sur	sur	P	P		28	dep	28	dep
+35	le	le	DET	DET	n=s|g=m	36	det	36	det
+36	public	public	NC	NC	n=s|g=m	34	prep	34	prep
+37	.	.	PONCT	PONCT		36	ponct	36	ponct
+
+1	Ce	ce	DET	DET	n=s|g=m	2	det	2	det
+2	livre	livre	NC	NC	n=s	7	suj	7	suj
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	très	très	ADV	ADV		5	mod	5	mod
+5	attendu	attendre	VPP	VPP	n=s|g=m|t=K	2	mod	2	mod
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+8	un	un	DET	DET	n=s|g=m	9	det	9	det
+9	best-seller	best-seller	NC	NC	n=s|g=m	7	obj	7	obj
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+1	En	en	P	P		7	mod	7	mod
+2	2012	2012	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	le	le	DET	DET	n=s|g=m	5	det	5	det
+5	magazine	magazine	NC	NC	n=s|g=m	7	suj	7	suj
+6	Lire	Lire	NPP	NPP	n=s|g=m	5	mod	5	mod
+7	propose	proposer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+8	un	un	DET	DET	n=s|g=m	9	det	9	det
+9	classement	classement	NC	NC	n=s|g=m	7	obj	7	obj
+10	des	de	P+D	P+D	n=p	9	dep	9	dep
+11	«_	"	PONCT	PONCT		10	ponct	10	ponct
+12	50	50	NC	NC		10	prep	10	prep
+13	BD	_	NPP	NPP		12	mod	12	mod
+14	essentielles	essentiel	ADJ	ADJ	n=p|g=f	12	mod	12	mod
+15	_»	"	PONCT	PONCT		14	ponct	14	ponct
+16	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+1	Maus	_	NPP	NPP		3	suj	3	suj
+2	est	être	V	V	n=s|t=P|p=3	3	aux_tps	3	aux_tps
+3	deuxième8	_	VPP	VPP		0	root	0	root
+4	.	.	PONCT	PONCT		3	ponct	3	ponct
+
+1	Voici	voici	V	V		0	root	0	root
+2	les	les	DET	DET	n=p	5	det	5	det
+3	cinq	cinq	ADJ	ADJ	s=card|n=p	4	mod	4	mod
+4	premières	premier	ADJ	ADJ	n=p|g=f	5	mod	5	mod
+5	œuvres	_	NC	NC		1	obj	1	obj
+6	du	de	P+D	P+D	n=s|g=m	1	mod	1	mod
+7	classement	classement	NC	NC	n=s|g=m	6	prep	6	prep
+8	:	:	PONCT	PONCT		7	ponct	7	ponct
+
+1	En	en	P	P		8	mod	8	mod
+2	2013	2013	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	le	le	DET	DET	n=s|g=m	5	det	5	det
+5	Vancouver	_	NPP	NPP		8	suj	8	suj
+6	Art	Art	NPP	NPP	n=s|g=m	5	mod	5	mod
+7	Gallery	_	NPP	NPP		5	mod	5	mod
+8	organise	organiser	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+9	une	une	DET	DET	n=s|g=f	10	det	10	det
+10	exposition	exposition	NC	NC	n=s|g=f	8	obj	8	obj
+11	consacrée	consacrer	VPP	VPP	n=s|g=f|t=K	10	mod	10	mod
+12	à	à	P	P		11	mod	11	mod
+13	Maus9	_	NPP	NPP		12	prep	12	prep
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+1	Pour	pour	P	P		8	mod	8	mod
+2	elle	elle	PRO	PRO	n=s|g=f|p=3	1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	ce	ce	DET	DET	n=s|g=m	5	det	5	det
+5	musée	musée	NC	NC	n=s|g=m	8	suj	8	suj
+6	s'	se	CLR	CLR	n=p,s|p=3	8	aff	8	aff
+7	est	être	V	V	n=s|t=P|p=3	8	aux_tps	8	aux_tps
+8	associé	associer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+9	au	à	P+D	P+D	n=s|g=m	8	mod	8	mod
+10	musée	musée	NC	NC	n=s|g=m	9	prep	9	prep
+11	Ludwig	Ludwig	NPP	NPP	n=s|g=m	10	mod	10	mod
+12	et	et	CC	CC		9	coord	9	coord
+13	au	à	P+D	P+D	n=s|g=m	12	dep_coord	12	dep_coord
+14	musée	musée	NC	NC	n=s|g=m	13	prep	13	prep
+15	juif	juif	ADJ	ADJ	n=s|g=m	14	mod	14	mod
+16	de	de	P	P		8	mod	8	mod
+17	New	_	NPP	NPP		16	prep	16	prep
+18	York	York	NPP	NPP	n=s|g=m	17	mod	17	mod
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	Enfin	enfin	ADV	ADV		9	mod	9	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	des	des	DET	DET	n=p	4	det	4	det
+4	dessins	dessin	NC	NC	n=p|g=m	9	suj	9	suj
+5	originaux	original	ADJ	ADJ	n=p|g=m	4	mod	4	mod
+6	de	de	P	P		4	dep	4	dep
+7	Spiegelman	_	NPP	NPP		6	prep	6	prep
+8	sont	être	V	V	n=p|t=P|p=3	9	aux_pass	9	aux_pass
+9	conservés	conserver	VPP	VPP	n=p|g=m|t=K	0	root	0	root
+10	dans	dans	P	P		9	mod	9	mod
+11	des	des	DET	DET	n=p	12	det	12	det
+12	musées	musée	NC	NC	n=p|g=m	10	prep	10	prep
+13	partout	partout	ADV	ADV		9	mod	9	mod
+14	dans	dans	P	P		9	mod	9	mod
+15	le	le	DET	DET	n=s|g=m	16	det	16	det
+16	monde	monde	NC	NC	n=s|g=m	14	prep	14	prep
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+

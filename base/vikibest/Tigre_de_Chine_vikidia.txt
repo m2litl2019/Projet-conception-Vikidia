@@ -1,0 +1,1702 @@
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	tigre	tigre	NC	NC	n=s|g=m	15	suj	15	suj
+3	de	de	P	P		2	dep	2	dep
+4	Chine	Chine	NPP	NPP	n=s|g=f	3	prep	3	prep
+5	(	(	PONCT	PONCT		4	ponct	4	ponct
+6	华南虎	_	NPP	NPP		2	mod	2	mod
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	nom	nom	NC	NC	n=s|g=m	2	mod	2	mod
+9	scientifique	scientifique	ADJ	ADJ	n=s	8	mod	8	mod
+10	:	:	PONCT	PONCT		9	ponct	9	ponct
+11	Panthera	_	NPP	NPP		8	mod	8	mod
+12	tigris	_	NPP	NPP		8	mod	8	mod
+13	amoyensis	_	NPP	NPP		8	mod	8	mod
+14	)	)	PONCT	PONCT		13	ponct	13	ponct
+15	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+16	un	un	DET	DET	n=s|g=m	17	det	17	det
+17	tigre	tigre	NC	NC	n=s|g=m	15	obj	15	obj
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	originaire	originaire	ADJ	ADJ	n=s	17	mod	17	mod
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	comme	comme	P	P		15	mod	15	mod
+22	son	son	DET	DET	n=s|g=m|p=3|poss=s	23	det	23	det
+23	nom	nom	NC	NC	n=s|g=m	21	prep	21	prep
+24	l'	le	CLO	CLO	n=s|p=3	25	obj	25	obj
+25	indique	indiquer	V	V	n=s|t=P,S|p=1,3	15	mod	15	mod
+26	,	,	PONCT	PONCT		25	ponct	25	ponct
+27	du	de	P+D	P+D	n=s|g=m	25	mod	25	mod
+28	sud	sud	NC	NC	n=s|g=m	27	prep	27	prep
+29	de	de	P	P		28	dep	28	dep
+30	la	la	DET	DET	n=s|g=f	31	det	31	det
+31	Chine	Chine	NPP	NPP	n=s|g=f	29	prep	29	prep
+32	.	.	PONCT	PONCT		31	ponct	31	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	4	suj	4	suj
+2	est	être	V	V	n=s|t=P|p=3	4	aux_tps	4	aux_tps
+3	traditionnellement	_	ADV	ADV		4	mod	4	mod
+4	appelé	appeler	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+5	«_	"	PONCT	PONCT		4	ponct	4	ponct
+6	tigre	tigre	NC	NC	n=s|g=m	4	mod	4	mod
+7	chinois	chinois	ADJ	ADJ	g=m	6	mod	6	mod
+8	_»	"	PONCT	PONCT		7	ponct	7	ponct
+9	,	,	PONCT	PONCT		7	ponct	7	ponct
+10	mais	mais	CC	CC		4	coord	4	coord
+11	une	une	DET	DET	n=s|g=f	13	det	13	det
+12	autre	autre	ADJ	ADJ	n=s	13	mod	13	mod
+13	sorte	sorte	NC	NC	n=s|g=f	21	suj	21	suj
+14	de	de	P	P		13	dep	13	dep
+15	tigre	tigre	NC	NC	n=s|g=m	14	prep	14	prep
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	le	le	DET	DET	n=s|g=m	18	det	18	det
+18	tigre	tigre	NC	NC	n=s|g=m	21	suj	21	suj
+19	de	de	P	P		18	dep	18	dep
+20	Sibérie	Sibérie	NPP	NPP	n=s|g=f	19	prep	19	prep
+21	vit	vivre	V	V	n=s|t=P|p=3	10	dep_coord	10	dep_coord
+22	également	_	ADV	ADV		21	mod	21	mod
+23	en	en	P	P		21	mod	21	mod
+24	Chine	Chine	NPP	NPP	n=s|g=f	23	prep	23	prep
+25	,	,	PONCT	PONCT		24	ponct	24	ponct
+26	dans	dans	P	P		21	mod	21	mod
+27	le	le	DET	DET	n=s|g=m	28	det	28	det
+28	nord	nord	NC	NC	n=s|g=m	26	prep	26	prep
+29	.	.	PONCT	PONCT		28	ponct	28	ponct
+
+1	Pour	pour	P	P		7	mod	7	mod
+2	l'	le	DET	DET	n=s	3	ato	3	ato
+3	en	en	CLO	CLO		4	aff	4	aff
+4	distinguer	distinguer	VINF	VINF	t=W	1	prep	1	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	on	on	CLS	CLS	n=s|p=3	7	suj	7	suj
+7	appelle	appeler	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+8	ce	ce	DET	DET	n=s|g=m	9	det	9	det
+9	tigre	tigre	NC	NC	n=s|g=m	7	obj	7	obj
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	qui	qui	PROREL	PROREL	n=s	13	suj	13	suj
+12	ne	ne	ADV	ADV		13	mod	13	mod
+13	vit	vivre	V	V	n=s|t=P|p=3	9	mod_rel	9	mod_rel
+14	qu'	que	CS	CS		13	obj	13	obj
+15	au	à	P+D	P+D	n=s|g=m	0	_	0	_
+16	sud	sud	NC	NC	n=s|g=m	15	prep	15	prep
+17	de	de	P	P		16	dep	16	dep
+18	la	la	DET	DET	n=s|g=f	19	det	19	det
+19	Chine	Chine	NPP	NPP	n=s|g=f	17	prep	17	prep
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	«_	"	PONCT	PONCT		19	ponct	19	ponct
+22	tigre	tigre	NC	NC	n=s|g=m	16	mod	16	mod
+23	de	de	P	P		22	dep	22	dep
+24	Chine	Chine	NPP	NPP	n=s|g=f	23	prep	23	prep
+25	méridionale	méridional	ADJ	ADJ	n=s|g=f	24	mod	24	mod
+26	_»	"	PONCT	PONCT		25	ponct	25	ponct
+27	.	.	PONCT	PONCT		25	ponct	25	ponct
+
+1	C'	ce	CLS	CLS		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	aujourd'hui	aujourd'hui	ADV	ADV		2	mod	2	mod
+4	le	le	DET	DET	n=s|g=m	5	det	5	det
+5	tigre	tigre	NC	NC	n=s|g=m	2	obj	2	obj
+6	le	le	DET	DET	n=s|g=m	8	det	8	det
+7	plus	plus	ADV	ADV		8	mod	8	mod
+8	menacé	menacer	VPP	VPP	n=s|g=m|t=K	5	mod	5	mod
+9	du	de	P+D	P+D	n=s|g=m	8	mod	8	mod
+10	monde	monde	NC	NC	n=s|g=m	9	prep	9	prep
+11	:	:	PONCT	PONCT		10	ponct	10	ponct
+12	il	il	CLS	CLS	n=s|g=m|p=3	14	suj	14	suj
+13	ne	ne	ADV	ADV		14	mod	14	mod
+14	vit	vivre	V	V	n=s|t=P|p=3	2	mod	2	mod
+15	plus	plus	ADV	ADV		14	mod	14	mod
+16	que	que	CS	CS		14	mod	14	mod
+17	dans	dans	P	P		0	_	0	_
+18	quelques	quelques	DET	DET	n=p	19	det	19	det
+19	zoos	zoo	NC	NC	n=p|g=m	17	prep	17	prep
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	ainsi	ainsi	ADV	ADV		19	mod	19	mod
+22	que	que	CS	CS		21	mod	21	mod
+23	peut-être	peut-être	ADV	ADV		0	_	0	_
+24	à	à	P	P		0	_	0	_
+25	l'	le	DET	DET	n=s	26	det	26	det
+26	état	état	NC	NC	n=s|g=m	24	prep	24	prep
+27	sauvage	sauvage	ADJ	ADJ	n=s	26	mod	26	mod
+28	que	que	CS	CS		24	root	24	root
+29	dans	dans	P	P		28	sub	28	sub
+30	une	une	DET	DET	n=s|g=f	33	det	33	det
+31	toute	tout	ADJ	ADJ	n=s|g=f	32	mod	32	mod
+32	petite	petit	ADJ	ADJ	n=s|g=f	33	mod	33	mod
+33	zone	zone	NC	NC	n=s|g=f	29	prep	29	prep
+34	du	de	P+D	P+D	n=s|g=m	33	dep	33	dep
+35	sud	sud	NC	NC	n=s|g=m	34	prep	34	prep
+36	de	de	P	P		33	dep	33	dep
+37	la	la	DET	DET	n=s|g=f	38	det	38	det
+38	Chine	Chine	NPP	NPP	n=s|g=f	36	prep	36	prep
+39	,	,	PONCT	PONCT		38	ponct	38	ponct
+40	dans	dans	P	P		0	_	0	_
+41	la	la	DET	DET	n=s|g=f	42	det	42	det
+42	province	province	NC	NC	n=s|g=f	40	prep	40	prep
+43	de	de	P	P		42	dep	42	dep
+44	Xiamen	_	NPP	NPP		43	prep	43	prep
+45	,	,	PONCT	PONCT		44	ponct	44	ponct
+46	d'	de	P	P		49	mod	49	mod
+47	où	où	PROREL	PROREL		46	prep	46	prep
+48	il	il	CLS	CLS	n=s|g=m|p=3	49	suj	49	suj
+49	est	être	V	V	n=s|t=P|p=3	42	mod_rel	42	mod_rel
+50	possible	possible	ADJ	ADJ	n=s	49	ats	49	ats
+51	qu'	que	CS	CS		49	mod	49	mod
+52	il	il	CLS	CLS	n=s|g=m|p=3	53	suj	53	suj
+53	ait	avoir	VS	VS	n=s|t=S|p=3	51	sub	51	sub
+54	en	en	CLO	CLO		0	_	0	_
+55	fait	faire	V	V	n=s|t=P|p=3	0	_	0	_
+56	entièrement	_	ADV	ADV		0	_	0	_
+57	disparu	disparaître	VPP	VPP	n=s|g=m|t=K	56	root	56	root
+58	.	.	PONCT	PONCT		57	ponct	57	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	tigre	tigre	NC	NC	n=s|g=m	4	suj	4	suj
+3	chinois	chinois	ADJ	ADJ	g=m	2	mod	2	mod
+4	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+5	assez	assez	ADV	ADV		4	mod	4	mod
+6	facile	facile	ADJ	ADJ	n=s	4	ats	4	ats
+7	à	à	P	P		4	mod	4	mod
+8	reconnaître	reconnaître	VINF	VINF	t=W	7	prep	7	prep
+9	:	:	PONCT	PONCT		8	ponct	8	ponct
+10	son	son	DET	DET	n=s|g=m|p=3|poss=s	11	det	11	det
+11	museau	museau	NC	NC	n=s|g=m	12	suj	12	suj
+12	est	être	V	V	n=s|t=P|p=3	4	mod	4	mod
+13	un	un	DET	DET	n=s|g=m	16	det	16	det
+14	peu	peu	ADV	ADV		15	mod	15	mod
+15	plus	plus	ADV	ADV		16	mod	16	mod
+16	court	court	ADJ	ADJ	n=s|g=m	12	ats	12	ats
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	et	et	CC	CC		12	coord	12	coord
+19	ses	ses	DET	DET	n=p|p=3|poss=s	20	det	20	det
+20	yeux	oeil	NC	NC	n=p|g=m	0	_	0	_
+21	plus	plus	ADV	ADV		22	mod	22	mod
+22	rapprochés	rapprocher	VPP	VPP	n=p|g=m|t=K	20	mod	20	mod
+23	que	que	CS	CS		22	mod	22	mod
+24	les	les	DET	DET	n=p	26	det	26	det
+25	autres	autre	ADJ	ADJ	n=p	26	mod	26	mod
+26	tigres	tigre	NC	NC	n=p|g=m	0	_	0	_
+27	,	,	PONCT	PONCT		26	ponct	26	ponct
+28	ce	ce	PRO	PRO	n=s	26	mod	26	mod
+29	qui	qui	PROREL	PROREL	n=s	31	suj	31	suj
+30	lui	lui	CLO	CLO	n=s|p=3	31	a_obj	31	a_obj
+31	donne	donner	V	V	n=s|t=P,S|p=1,3	28	mod_rel	28	mod_rel
+32	l'	le	DET	DET	n=s	33	det	33	det
+33	impression	impression	NC	NC	n=s|g=f	31	obj	31	obj
+34	d'	de	P	P		31	mod	31	mod
+35	une	une	DET	DET	n=s|g=f	36	det	36	det
+36	tête	tête	NC	NC	n=s|g=f	34	prep	34	prep
+37	beaucoup	beaucoup	ADV	ADV		38	mod	38	mod
+38	plus	plus	ADV	ADV		39	mod	39	mod
+39	ronde	rond	ADJ	ADJ	n=s|g=f	36	mod	36	mod
+40	.	.	PONCT	PONCT		39	ponct	39	ponct
+
+1	Ses	ses	DET	DET	n=p|p=3|poss=s	2	det	2	det
+2	rayures	rayure	NC	NC	n=p|g=f	3	suj	3	suj
+3	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+4	également	_	ADV	ADV		3	mod	3	mod
+5	très	très	ADV	ADV		6	mod	6	mod
+6	fines	fin	ADJ	ADJ	n=p|g=f	3	ats	3	ats
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	bien	bien	ADV	ADV		9	mod	9	mod
+9	nettes	net	ADJ	ADJ	n=p|g=f	3	mod	3	mod
+10	et	et	CC	CC		3	coord	3	coord
+11	plus	plus	ADV	ADV		12	mod	12	mod
+12	nombreuses	nombreux	ADJ	ADJ	n=p|g=f	10	dep_coord	10	dep_coord
+13	que	que	CS	CS		3	mod	3	mod
+14	les	les	DET	DET	n=p	16	det	16	det
+15	autres	autre	ADJ	ADJ	n=p	16	mod	16	mod
+16	tigres	tigre	NC	NC	n=p|g=m	19	suj	19	suj
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	qui	qui	PROREL	PROREL	n=s	19	suj	19	suj
+19	ont	avoir	V	V	n=p|t=P|p=3	13	sub	13	sub
+20	plutôt	plutôt	ADV	ADV		19	mod	19	mod
+21	tendance	tendance	NC	NC	n=s|g=f	19	obj	19	obj
+22	à	à	P	P		19	mod	19	mod
+23	avoir	avoir	VINF	VINF	t=W	22	prep	22	prep
+24	des	des	DET	DET	n=p	25	det	25	det
+25	bandes	bande	NC	NC	n=p|g=f	23	obj	23	obj
+26	noires	noir	ADJ	ADJ	n=p|g=f	25	mod	25	mod
+27	plus	plus	ADV	ADV		28	mod	28	mod
+28	larges	large	ADJ	ADJ	n=p	25	mod	25	mod
+29	et	et	CC	CC		28	coord	28	coord
+30	plus	plus	ADV	ADV		31	mod	31	mod
+31	diffuses	diffus	ADJ	ADJ	n=p|g=f	29	dep_coord	29	dep_coord
+32	.	.	PONCT	PONCT		31	ponct	31	ponct
+
+1	C'	ce	CLS	CLS		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	ce	ce	DET	DET	n=s|g=m	4	det	4	det
+4	tigre	tigre	NC	NC	n=s|g=m	2	obj	2	obj
+5	qui	qui	PROREL	PROREL	n=s	7	suj	7	suj
+6	a	avoir	V	V	n=s|t=P|p=3	7	aux_tps	7	aux_tps
+7	été	être	VPP	VPP	t=K	4	mod_rel	4	mod_rel
+8	très	très	ADV	ADV		7	mod	7	mod
+9	largement	_	ADV	ADV		10	mod	10	mod
+10	représenté	représenter	VPP	VPP	n=s|g=m|t=K	7	dep	7	dep
+11	dans	dans	P	P		10	mod	10	mod
+12	l'	le	DET	DET	n=s	13	det	13	det
+13	art	art	NC	NC	n=s|g=m	11	prep	11	prep
+14	chinois	chinois	ADJ	ADJ	g=m	13	mod	13	mod
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+1	C'	ce	CLS	CLS		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	également	_	ADV	ADV		2	mod	2	mod
+4	le	le	DET	DET	n=s|g=m	6	det	6	det
+5	plus	plus	ADV	ADV		6	mod	6	mod
+6	petit	petit	ADJ	ADJ	n=s|g=m	2	ats	2	ats
+7	de	de	P	P		2	mod	2	mod
+8	tous	tout	ADJ	ADJ	n=p|g=m	10	mod	10	mod
+9	les	les	DET	DET	n=p	10	det	10	det
+10	tigres	tigre	NC	NC	n=p|g=m	7	prep	7	prep
+11	que	que	PROREL	PROREL		14	mod	14	mod
+12	l'	le	DET	DET	n=s	13	det	13	det
+13	on	on	CLS	CLS	n=s|p=3	14	suj	14	suj
+14	trouve	trouver	V	V	n=s|t=P,S|p=1,3	10	mod_rel	10	mod_rel
+15	en	en	P	P		14	mod	14	mod
+16	Asie	Asie	NPP	NPP	n=s|g=f	15	prep	15	prep
+17	:	:	PONCT	PONCT		16	ponct	16	ponct
+18	le	le	DET	DET	n=s|g=m	20	det	20	det
+19	mâle	mâle	ADJ	ADJ	n=s	20	mod	20	mod
+20	mesure	mesure	NC	NC	n=s|g=f	2	mod	2	mod
+21	environ	environ	ADV	ADV		22	mod	22	mod
+22	2m30	_	VPP	VPP		20	mod	20	mod
+23	à	à	P	P		22	mod	22	mod
+24	2m65	_	NPP	NPP		23	prep	23	prep
+25	,	,	PONCT	PONCT		24	ponct	24	ponct
+26	et	et	CC	CC		2	coord	2	coord
+27	pèse	peser	V	V	n=s|t=P,S|p=1,3	26	dep_coord	26	dep_coord
+28	entre	entre	P	P		27	mod	27	mod
+29	130	130	VINF	VINF		28	prep	28	prep
+30	à	à	P	P		29	mod	29	mod
+31	175	175	NC	NC		30	prep	30	prep
+32	kg	kilogramme	NC	NC	g=m	31	mod	31	mod
+33	en	en	P	P		29	mod	29	mod
+34	moyenne	moyenne	NC	NC	n=s|g=f	33	prep	33	prep
+35	.	.	PONCT	PONCT		34	ponct	34	ponct
+
+1	A	à	P	P		10	mod	10	mod
+2	titre	titre	NC	NC	n=s|g=m	1	prep	1	prep
+3	de	de	P	P		2	dep	2	dep
+4	comparaison	comparaison	NC	NC	n=s|g=f	3	prep	3	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	un	un	DET	DET	n=s|g=m	7	det	7	det
+7	tigre	tigre	NC	NC	n=s|g=m	10	suj	10	suj
+8	du	de	P+D	P+D	n=s|g=m	7	dep	7	dep
+9	Bengale	Bengale	NPP	NPP	n=s|g=m	8	prep	8	prep
+10	peut	pouvoir	V	V	n=s|t=P|p=3	0	root	0	root
+11	mesurer	mesurer	VINF	VINF	t=W	10	obj	10	obj
+12	jusque	jusque	P	P		11	mod	11	mod
+13	3m10	_	NC	NC		12	prep	12	prep
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	et	et	CC	CC		10	coord	10	coord
+16	un	un	DET	DET	n=s|g=m	17	det	17	det
+17	tigre	tigre	NC	NC	n=s|g=m	0	_	0	_
+18	de	de	P	P		17	dep	17	dep
+19	Sibérie	Sibérie	NPP	NPP	n=s|g=f	18	prep	18	prep
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	3m80	_	NC	NC		17	mod	17	mod
+22	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	existe	exister	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	et	et	CC	CC		2	coord	2	coord
+4	a	avoir	V	V	n=s|t=P|p=3	5	aux_tps	5	aux_tps
+5	existé	exister	VPP	VPP	n=s|g=m|t=K	3	dep_coord	3	dep_coord
+6	cependant	cependant	ADV	ADV		5	mod	5	mod
+7	d'	de	DET	DET	n=p	9	det	9	det
+8	autres	autre	ADJ	ADJ	n=p	9	mod	9	mod
+9	tigres	tigre	NC	NC	n=p|g=m	5	obj	5	obj
+10	encore	encore	ADV	ADV		11	mod	11	mod
+11	plus	plus	ADV	ADV		12	mod	12	mod
+12	petits	petit	ADJ	ADJ	n=p|g=m	9	mod	9	mod
+13	que	que	CS	CS		5	mod	5	mod
+14	le	le	DET	DET	n=s|g=m	15	det	15	det
+15	tigre	tigre	NC	NC	n=s|g=m	0	_	0	_
+16	chinois	chinois	ADJ	ADJ	g=m	15	mod	15	mod
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	comme	comme	CS	CS		0	_	0	_
+19	le	le	CLO	CLO	n=s|g=m|p=3	0	_	0	_
+20	le	le	DET	DET	n=s|g=m	21	det	21	det
+21	tigre	tigre	NC	NC	n=s|g=m	0	_	0	_
+22	de	de	P	P		21	dep	21	dep
+23	Sumatra	_	NPP	NPP		22	prep	22	prep
+24	,	,	PONCT	PONCT		23	ponct	23	ponct
+25	le	le	DET	DET	n=s|g=m	28	det	28	det
+26	plus	plus	ADV	ADV		27	mod	27	mod
+27	petit	petit	ADJ	ADJ	n=s|g=m	28	mod	28	mod
+28	tigre	tigre	NC	NC	n=s|g=m	21	mod	21	mod
+29	au	à	P+D	P+D	n=s|g=m	28	dep	28	dep
+30	monde	monde	NC	NC	n=s|g=m	29	prep	29	prep
+31	,	,	PONCT	PONCT		30	ponct	30	ponct
+32	qui	qui	PROREL	PROREL	n=s	0	_	0	_
+33	ne	ne	ADV	ADV		34	mod	34	mod
+34	mesure	mesure	NC	NC	n=s|g=f	0	_	0	_
+35	«_	"	PONCT	PONCT		34	ponct	34	ponct
+36	que	que	CS	CS		0	_	0	_
+37	_»	"	PONCT	PONCT		36	ponct	36	ponct
+38	2m20	_	NC	NC		46	mod	46	mod
+39	à	à	P	P		38	dep	38	dep
+40	2m25	_	NPP	NPP		39	prep	39	prep
+41	;	;	PONCT	PONCT		40	ponct	40	ponct
+42	cependant	cependant	ADV	ADV		46	mod	46	mod
+43	,	,	PONCT	PONCT		42	ponct	42	ponct
+44	il	il	CLS	CLS	n=s|g=m|p=3	46	suj	46	suj
+45	ne	ne	ADV	ADV		46	mod	46	mod
+46	vit	vivre	V	V	n=s|t=P|p=3	36	sub	36	sub
+47	pas	pas	ADV	ADV		46	mod	46	mod
+48	sur	sur	P	P		46	mod	46	mod
+49	le	le	DET	DET	n=s|g=m	50	det	50	det
+50	continent	continent	NC	NC	n=s|g=m	48	prep	48	prep
+51	asiatique	asiatique	ADJ	ADJ	n=s	50	mod	50	mod
+52	,	,	PONCT	PONCT		51	ponct	51	ponct
+53	mais	mais	CC	CC		48	coord	48	coord
+54	uniquement	_	ADV	ADV		53	mod	53	mod
+55	sur	sur	P	P		53	dep_coord	53	dep_coord
+56	certaines	certain	DET	DET	n=p|g=f	57	det	57	det
+57	îles	île	NC	NC	n=p|g=f	55	prep	55	prep
+58	de	de	P	P		53	dep_coord	53	dep_coord
+59	l'	le	DET	DET	n=s	60	det	60	det
+60	océan	océan	NC	NC	n=s|g=m	58	prep	58	prep
+61	Indien	_	NPP	NPP		60	mod	60	mod
+62	.	.	PONCT	PONCT		61	ponct	61	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	femelle	femelle	NC	NC	n=s|g=f	3	suj	3	suj
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	un	un	DET	DET	n=s|g=m	7	det	7	det
+5	peu	peu	ADV	ADV		6	mod	6	mod
+6	plus	plus	ADV	ADV		7	mod	7	mod
+7	petite	petit	ADJ	ADJ	n=s|g=f	3	ats	3	ats
+8	que	que	CS	CS		3	mod	3	mod
+9	le	le	DET	DET	n=s|g=m	10	det	10	det
+10	mâle	mâle	NC	NC	n=s|g=m	16	suj	16	suj
+11	:	:	PONCT	PONCT		10	ponct	10	ponct
+12	la	la	DET	DET	n=s|g=f	13	det	13	det
+13	tigresse	tigresse	NC	NC	n=s|g=f	16	suj	16	suj
+14	de	de	P	P		13	dep	13	dep
+15	Chine	Chine	NPP	NPP	n=s|g=f	14	prep	14	prep
+16	peut	pouvoir	V	V	n=s|t=P|p=3	8	sub	8	sub
+17	mesurer	mesurer	VINF	VINF	t=W	16	obj	16	obj
+18	entre	entre	P	P		17	mod	17	mod
+19	2m20	_	NC	NC		18	prep	18	prep
+20	et	et	CC	CC		19	coord	19	coord
+21	2m40	_	NC	NC		20	dep_coord	20	dep_coord
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+23	et	et	CC	CC		17	coord	17	coord
+24	peser	peser	VINF	VINF	t=W	23	dep_coord	23	dep_coord
+25	environ	environ	ADV	ADV		24	mod	24	mod
+26	110	110	VPP	VPP		24	ats	24	ats
+27	à	à	P	P		24	mod	24	mod
+28	115	115	NC	NC		27	prep	27	prep
+29	kg	kilogramme	NC	NC	g=m	28	mod	28	mod
+30	.	.	PONCT	PONCT		29	ponct	29	ponct
+
+1	En	en	P	P		11	mod	11	mod
+2	raison	raison	NC	NC	n=s|g=f	1	prep	1	prep
+3	de	de	P	P		11	mod	11	mod
+4	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	5	det	5	det
+5	taille	taille	NC	NC	n=s|g=f	3	prep	3	prep
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	le	le	DET	DET	n=s|g=m	8	det	8	det
+8	tigre	tigre	NC	NC	n=s|g=m	11	suj	11	suj
+9	chinois	chinois	ADJ	ADJ	g=m	8	mod	8	mod
+10	n'	ne	ADV	ADV		11	mod	11	mod
+11	a	avoir	V	V	n=s|t=P|p=3	0	root	0	root
+12	aucun	aucun	DET	DET	n=s|g=m	13	det	13	det
+13	prédateur	prédateur	NC	NC	n=s|g=m	11	obj	11	obj
+14	dans	dans	P	P		11	mod	11	mod
+15	la	la	DET	DET	n=s|g=f	16	det	16	det
+16	nature	nature	NC	NC	n=s|g=f	14	prep	14	prep
+17	(	(	PONCT	PONCT		16	ponct	16	ponct
+18	en	en	P	P		11	mod	11	mod
+19	dehors	dehors	NC	NC	g=m	18	prep	18	prep
+20	de	de	P	P		11	mod	11	mod
+21	l'	le	DET	DET	n=s	22	det	22	det
+22	homme	homme	NC	NC	n=s|g=m	20	prep	20	prep
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	bien	bien	ADV	ADV		25	mod	25	mod
+25	entendu	entendre	VPP	VPP	n=s|g=m|t=K	22	mod	22	mod
+26	)	)	PONCT	PONCT		25	ponct	25	ponct
+27	.	.	PONCT	PONCT		25	ponct	25	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	peut	pouvoir	V	V	n=s|t=P|p=3	0	root	0	root
+3	vivre	vivre	VINF	VINF	t=W	2	obj	2	obj
+4	environ	environ	ADV	ADV		3	mod	3	mod
+5	quinze	quinze	DET	DET	s=card|n=p	6	det	6	det
+6	ans	an	NC	NC	n=p|g=m	3	obj	3	obj
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	dans	dans	P	P		3	mod	3	mod
+9	la	la	DET	DET	n=s|g=f	10	det	10	det
+10	nature	nature	NC	NC	n=s|g=f	8	prep	8	prep
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	et	et	CC	CC		8	coord	8	coord
+13	jusque	jusque	P	P		12	dep_coord	12	dep_coord
+14	vingt	vingt	ADJ	ADJ	s=card|n=p	13	prep	13	prep
+15	en	en	P	P		12	dep_coord	12	dep_coord
+16	captivité	captivité	NC	NC	n=s|g=f	15	prep	15	prep
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	tigre	tigre	NC	NC	n=s|g=m	4	suj	4	suj
+3	chinois	chinois	ADJ	ADJ	g=m	2	mod	2	mod
+4	vit	vivre	V	V	n=s|t=P|p=3	0	root	0	root
+5	traditionnellement	_	ADV	ADV		4	mod	4	mod
+6	dans	dans	P	P		4	mod	4	mod
+7	les	les	DET	DET	n=p	8	det	8	det
+8	jungles	jungle	NC	NC	n=p|g=f	6	prep	6	prep
+9	denses	dense	ADJ	ADJ	n=p	8	mod	8	mod
+10	et	et	CC	CC		4	coord	4	coord
+11	les	les	DET	DET	n=p	12	det	12	det
+12	forêts	forêt	NC	NC	n=p|g=f	0	_	0	_
+13	humides	humide	ADJ	ADJ	n=p	12	mod	12	mod
+14	du	de	P+D	P+D	n=s|g=m	12	dep	12	dep
+15	sud	sud	NC	NC	n=s|g=m	14	prep	14	prep
+16	de	de	P	P		15	dep	15	dep
+17	la	la	DET	DET	n=s|g=f	18	det	18	det
+18	Chine	Chine	NPP	NPP	n=s|g=f	16	prep	16	prep
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	adore	adorer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	l'	le	DET	DET	n=s	4	det	4	det
+4	eau	eau	NC	NC	n=s|g=f	2	obj	2	obj
+5	!	!	PONCT	PONCT		4	ponct	4	ponct
+
+1	On	on	CLS	CLS	n=s|p=3	3	suj	3	suj
+2	le	le	CLO	CLO	n=s|g=m|p=3	3	obj	3	obj
+3	rencontre	rencontrer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	dans	dans	P	P		3	mod	3	mod
+5	les	les	DET	DET	n=p	6	det	6	det
+6	forêts	forêt	NC	NC	n=p|g=f	4	prep	4	prep
+7	de	de	P	P		3	mod	3	mod
+8	montagnes	montagne	NC	NC	n=p|g=f	7	prep	7	prep
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	à	à	P	P		3	mod	3	mod
+11	la	la	DET	DET	n=s|g=f	12	det	12	det
+12	frontière	frontière	NC	NC	n=s|g=f	10	prep	10	prep
+13	entre	entre	P	P		3	mod	3	mod
+14	les	les	DET	DET	n=p	16	det	16	det
+15	différentes	différent	ADJ	ADJ	n=p|g=f	16	mod	16	mod
+16	provinces	province	NC	NC	n=p|g=f	13	prep	13	prep
+17	chinoises	chinois	ADJ	ADJ	n=p|g=f	16	mod	16	mod
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	d'	de	P	P		3	mod	3	mod
+20	où	où	PROREL	PROREL		0	_	0	_
+21	il	il	CLS	CLS	n=s|g=m|p=3	0	_	0	_
+22	a	avoir	V	V	n=s|t=P|p=3	0	_	0	_
+23	tendance	tendance	NC	NC	n=s|g=f	22	obj	22	obj
+24	à	à	P	P		22	mod	22	mod
+25	disparaître	disparaître	VINF	VINF	t=W	24	prep	24	prep
+26	.	.	PONCT	PONCT		25	ponct	25	ponct
+
+1	C'	ce	CLS	CLS		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	un	un	DET	DET	n=s|g=m	4	det	4	det
+4	animal	animal	NC	NC	n=s|g=m	2	obj	2	obj
+5	carnivore	carnivore	ADJ	ADJ	n=s	4	mod	4	mod
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	qui	qui	PROREL	PROREL	n=s	8	suj	8	suj
+8	chasse	chasser	V	V	n=s|t=P,S|p=1,3	4	mod_rel	4	mod_rel
+9	à	à	P	P		8	mod	8	mod
+10	l'	le	DET	DET	n=s	11	det	11	det
+11	affût	affût	NC	NC	n=s|g=m	9	prep	9	prep
+12	:	:	PONCT	PONCT		11	ponct	11	ponct
+13	grâce	grâce	NC	NC	n=s|g=f	11	mod	11	mod
+14	à	à	P	P		8	mod	8	mod
+15	ses	ses	DET	DET	n=p|p=3|poss=s	16	det	16	det
+16	rayures	rayure	NC	NC	n=p|g=f	14	prep	14	prep
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	qui	qui	PROREL	PROREL	n=s	19	suj	19	suj
+19	constituent	constituer	V	V	n=p|t=P,S|p=3	16	mod_rel	16	mod_rel
+20	un	un	DET	DET	n=s|g=m	22	det	22	det
+21	excellent	excellent	ADJ	ADJ	n=s|g=m	22	mod	22	mod
+22	camouflage	camouflage	NC	NC	n=s|g=m	19	obj	19	obj
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	il	il	CLS	CLS	n=s|g=m|p=3	26	suj	26	suj
+25	s'	se	CLR	CLR	n=p,s|p=3	26	aff	26	aff
+26	approche	approcher	V	V	n=s|t=P,S|p=1,3	2	mod	2	mod
+27	tout	tout	ADV	ADV		26	mod	26	mod
+28	doucement	_	ADV	ADV		26	mod	26	mod
+29	de	de	P	P		26	mod	26	mod
+30	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	31	det	31	det
+31	proie	proie	NC	NC	n=s|g=f	29	prep	29	prep
+32	sans	sans	P	P		26	mod	26	mod
+33	faire	faire	VINF	VINF	t=W	32	prep	32	prep
+34	de	de	P	P		33	mod	33	mod
+35	bruit	bruit	NC	NC	n=s|g=m	34	prep	34	prep
+36	,	,	PONCT	PONCT		35	ponct	35	ponct
+37	puis	puis	CC	CC		26	coord	26	coord
+38	,	,	PONCT	PONCT		37	ponct	37	ponct
+39	lorsqu'	lorsque	CS	CS		26	mod	26	mod
+40	il	il	CLS	CLS	n=s|g=m|p=3	41	suj	41	suj
+41	est	être	V	V	n=s|t=P|p=3	39	sub	39	sub
+42	assez	assez	ADV	ADV		41	mod	41	mod
+43	près	près	ADV	ADV		41	mod	41	mod
+44	,	,	PONCT	PONCT		43	ponct	43	ponct
+45	bondit	bondir	V	V	n=s|t=J,P|p=3	2	mod	2	mod
+46	dessus	dessus	ADV	ADV		45	mod	45	mod
+47	pour	pour	P	P		45	mod	45	mod
+48	l'	le	CLO	CLO	n=s|p=3	49	obj	49	obj
+49	attraper	attraper	VINF	VINF	t=W	47	prep	47	prep
+50	.	.	PONCT	PONCT		49	ponct	49	ponct
+
+1	Dans	dans	P	P		7	mod	7	mod
+2	la	la	DET	DET	n=s|g=f	3	det	3	det
+3	nature	nature	NC	NC	n=s|g=f	1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	il	il	CLS	CLS	n=s|g=m|p=3	7	suj	7	suj
+6	se	se	CLR	CLR	n=p,s|p=3	7	aff	7	aff
+7	nourrit	nourrir	V	V	n=s|t=J,P|p=3	0	root	0	root
+8	principalement	_	ADV	ADV		7	mod	7	mod
+9	de	de	P	P		7	mod	7	mod
+10	sangliers	sanglier	NC	NC	n=p|g=m	9	prep	9	prep
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	mais	mais	CC	CC		7	coord	7	coord
+13	aussi	aussi	ADV	ADV		12	mod	12	mod
+14	d'	de	DET	DET	n=p	17	det	17	det
+15	autres	autre	ADJ	ADJ	n=p	17	mod	17	mod
+16	gros	gros	ADJ	ADJ	g=m	17	mod	17	mod
+17	animaux	animal	NC	NC	n=p|g=m	12	dep_coord	12	dep_coord
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	comme	comme	P	P		7	mod	7	mod
+20	les	les	DET	DET	n=p	21	det	21	det
+21	cerfs	cerf	NC	NC	n=p|g=m	19	prep	19	prep
+22	cochons	cochon	NC	NC	n=p|g=m	21	mod	21	mod
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	les	les	DET	DET	n=p	25	det	25	det
+25	muntjacs	_	NC	NC		7	obj	7	obj
+26	,	,	PONCT	PONCT		25	ponct	25	ponct
+27	les	les	DET	DET	n=p	28	det	28	det
+28	sambars	_	NC	NC		25	mod	25	mod
+29	,	,	PONCT	PONCT		28	ponct	28	ponct
+30	les	les	DET	DET	n=p	31	det	31	det
+31	cerfs	cerf	NC	NC	n=p|g=m	25	mod	25	mod
+32	huppés	huppé	ADJ	ADJ	n=p|g=m	31	mod	31	mod
+33	,	,	PONCT	PONCT		32	ponct	32	ponct
+34	ou	ou	CC	CC		31	coord	31	coord
+35	les	les	DET	DET	n=p	36	det	36	det
+36	saros	saros	NC	NC	g=m	34	dep_coord	34	dep_coord
+37	,	,	PONCT	PONCT		36	ponct	36	ponct
+38	et	et	CC	CC		7	coord	7	coord
+39	plus	plus	ADV	ADV		40	mod	40	mod
+40	rarement	_	ADV	ADV		38	mod	38	mod
+41	d'	de	P	P		38	dep_coord	38	dep_coord
+42	animaux	animal	NC	NC	n=p|g=m	41	prep	41	prep
+43	plus	plus	ADV	ADV		44	mod	44	mod
+44	petits	petit	ADJ	ADJ	n=p|g=m	42	mod	42	mod
+45	,	,	PONCT	PONCT		44	ponct	44	ponct
+46	comme	comme	P	P		38	dep_coord	38	dep_coord
+47	les	les	DET	DET	n=p	48	det	48	det
+48	porc-épics	_	NC	NC		46	prep	46	prep
+49	,	,	PONCT	PONCT		48	ponct	48	ponct
+50	les	les	DET	DET	n=p	51	det	51	det
+51	entelles	_	NC	NC		48	mod	48	mod
+52	ou	ou	CC	CC		51	coord	51	coord
+53	les	les	DET	DET	n=p	54	det	54	det
+54	paons	paon	NC	NC	n=p|g=m	52	dep_coord	52	dep_coord
+55	.	.	PONCT	PONCT		54	ponct	54	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	tigre	tigre	NC	NC	n=s|g=m	4	suj	4	suj
+3	chinois	chinois	ADJ	ADJ	g=m	2	mod	2	mod
+4	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+5	un	un	DET	DET	n=s|g=m	6	det	6	det
+6	animal	animal	NC	NC	n=s|g=m	4	obj	4	obj
+7	solitaire	solitaire	ADJ	ADJ	n=s	6	mod	6	mod
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	qui	qui	PROREL	PROREL	n=s	10	suj	10	suj
+10	vit	vivre	V	V	n=s|t=P|p=3	6	mod_rel	6	mod_rel
+11	et	et	CC	CC		10	coord	10	coord
+12	chasse	chasser	V	V	n=s|t=P,S|p=1,3	11	dep_coord	11	dep_coord
+13	seul	seul	ADJ	ADJ	n=s|g=m	12	ats	12	ats
+14	sur	sur	P	P		12	mod	12	mod
+15	un	un	DET	DET	n=s|g=m	16	det	16	det
+16	territoire	territoire	NC	NC	n=s|g=m	14	prep	14	prep
+17	qu'	que	PROREL	PROREL		19	obj	19	obj
+18	il	il	CLS	CLS	n=s|g=m|p=3	19	suj	19	suj
+19	protège	protéger	V	V	n=s|t=P,S|p=1,3	16	mod_rel	16	mod_rel
+20	contre	contre	P	P		19	mod	19	mod
+21	les	les	DET	DET	n=p	22	det	22	det
+22	intrus	intrus	ADJ	ADJ	g=m	20	prep	20	prep
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	mâles	mâle	NC	NC	n=p|g=m	7	suj	7	suj
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	plus	plus	ADV	ADV		5	mod	5	mod
+5	gros	gros	ADJ	ADJ	g=m	2	mod	2	mod
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	ont	avoir	V	V	n=p|t=P|p=3	0	root	0	root
+8	un	un	DET	DET	n=s|g=m	9	det	9	det
+9	territoire	territoire	NC	NC	n=s|g=m	7	obj	7	obj
+10	plus	plus	ADV	ADV		11	mod	11	mod
+11	grand	grand	ADJ	ADJ	n=s|g=m	9	mod	9	mod
+12	que	que	CS	CS		7	mod	7	mod
+13	celui	celui	PRO	PRO	n=s|g=m	0	_	0	_
+14	des	de	P+D	P+D	n=p	13	dep	13	dep
+15	femelles	femelle	ADJ	ADJ	n=p	0	_	0	_
+16	:	:	PONCT	PONCT		15	ponct	15	ponct
+17	à	à	P	P		15	mod	15	mod
+18	l'	le	DET	DET	n=s	19	det	19	det
+19	intérieur	intérieur	NC	NC	n=s|g=m	17	prep	17	prep
+20	du	de	P+D	P+D	n=s|g=m	19	dep	19	dep
+21	territoire	territoire	NC	NC	n=s|g=m	20	prep	20	prep
+22	d'	de	P	P		19	dep	19	dep
+23	un	un	DET	DET	n=s|g=m	24	det	24	det
+24	mâle	mâle	NC	NC	n=s|g=m	22	prep	22	prep
+25	,	,	PONCT	PONCT		24	ponct	24	ponct
+26	on	on	CLS	CLS	n=s|p=3	27	suj	27	suj
+27	trouve	trouver	V	V	n=s|t=P,S|p=1,3	15	mod_rel	15	mod_rel
+28	,	,	PONCT	PONCT		27	ponct	27	ponct
+29	en	en	P	P		27	mod	27	mod
+30	général	général	NC	NC	n=s|g=m	29	prep	29	prep
+31	,	,	PONCT	PONCT		30	ponct	30	ponct
+32	les	les	DET	DET	n=p	33	det	33	det
+33	territoires	territoire	NC	NC	n=p|g=m	27	obj	27	obj
+34	plus	plus	ADV	ADV		35	mod	35	mod
+35	petits	petit	ADJ	ADJ	n=p|g=m	33	mod	33	mod
+36	d'	de	P	P		33	dep	33	dep
+37	une	une	DET	DET	n=s|g=f	0	_	0	_
+38	ou	ou	CC	CC		37	coord	37	coord
+39	deux	deux	DET	DET	s=card|n=p	38	dep_coord	38	dep_coord
+40	femelles	femelle	ADJ	ADJ	n=p	0	_	0	_
+41	.	.	PONCT	PONCT		40	ponct	40	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	tigres	tigre	NC	NC	n=p|g=m	7	suj	7	suj
+3	mâles	mâle	ADJ	ADJ	n=p	2	mod	2	mod
+4	et	et	CC	CC		3	coord	3	coord
+5	femelles	femelle	ADJ	ADJ	n=p	4	dep_coord	4	dep_coord
+6	s'	se	CLR	CLR	n=p,s|p=3	7	aff	7	aff
+7	évitent	éviter	V	V	n=p|t=P,S|p=3	0	root	0	root
+8	la	la	DET	DET	n=s|g=f	9	det	9	det
+9	plupart	plupart	NC	NC	n=s|g=f	7	obj	7	obj
+10	du	de	P+D	P+D	n=s|g=m	9	dep	9	dep
+11	temps	temps	NC	NC	g=m	10	prep	10	prep
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	sauf	sauf	P	P		7	mod	7	mod
+14	en	en	P	P		13	dep	13	dep
+15	période	période	NC	NC	n=s	14	prep	14	prep
+16	de	de	P	P		15	dep	15	dep
+17	reproduction	reproduction	NC	NC	n=s|g=f	16	prep	16	prep
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	mâle	mâle	ADJ	ADJ	n=s	3	suj	3	suj
+3	part	partir	V	V	n=s|t=P|p=3	0	root	0	root
+4	alors	alors	ADV	ADV		3	mod	3	mod
+5	à	à	P	P		3	mod	3	mod
+6	la	la	DET	DET	n=s|g=f	7	det	7	det
+7	recherche	recherche	NC	NC	n=s|g=f	5	prep	5	prep
+8	d'	de	P	P		3	mod	3	mod
+9	une	une	DET	DET	n=s|g=f	10	det	10	det
+10	femelle	femelle	NC	NC	n=s|g=f	8	prep	8	prep
+11	sur	sur	P	P		3	mod	3	mod
+12	son	son	DET	DET	n=s|g=m|p=3|poss=s	13	det	13	det
+13	territoire	territoire	NC	NC	n=s|g=m	11	prep	11	prep
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+1	Après	après	P	P		10	mod	10	mod
+2	l'	le	DET	DET	n=s	3	det	3	det
+3	accouplement	accouplement	NC	NC	n=s|g=m	1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	il	il	CLS	CLS	n=s|g=m|p=3	10	suj	10	suj
+6	la	la	CLO	CLO	n=s|g=f|p=3	10	aff	10	aff
+7	quitte	_	ADJ	ADJ		6	mod	6	mod
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	et	et	CC	CC		10	suj	10	suj
+10	cherche	chercher	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+11	une	une	DET	DET	n=s|g=f	13	det	13	det
+12	nouvelle	nouveau	ADJ	ADJ	n=s|g=f	13	mod	13	mod
+13	femelle	femelle	NC	NC	n=s|g=f	10	obj	10	obj
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	3	suj	3	suj
+2	ne	ne	ADV	ADV		3	mod	3	mod
+3	participe	participer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	pas	pas	ADV	ADV		3	mod	3	mod
+5	à	à	P	P		3	mod	3	mod
+6	l'	le	DET	DET	n=s	7	det	7	det
+7	éducation	éducation	NC	NC	n=s|g=f	5	prep	5	prep
+8	des	de	P+D	P+D	n=p	7	dep	7	dep
+9	jeunes	jeune	NC	NC	n=p	8	prep	8	prep
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+1	Comme	comme	P	P		10	mod	10	mod
+2	tous	tout	ADJ	ADJ	n=p|g=m	4	mod	4	mod
+3	les	les	DET	DET	n=p	4	det	4	det
+4	mammifères	mammifère	NC	NC	n=p|g=m	1	prep	1	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	la	la	DET	DET	n=s|g=f	7	det	7	det
+7	tigresse	tigresse	NC	NC	n=s|g=f	10	suj	10	suj
+8	de	de	P	P		7	dep	7	dep
+9	Chine	Chine	NPP	NPP	n=s|g=f	8	prep	8	prep
+10	met	mettre	V	V	n=s|t=P|p=3	0	root	0	root
+11	au	à	P+D	P+D	n=s|g=m	10	mod	10	mod
+12	monde	monde	NC	NC	n=s|g=m	11	prep	11	prep
+13	des	de	P+D	P+D	n=p	12	dep	12	dep
+14	petits	petit	ADJ	ADJ	n=p|g=m	15	mod	15	mod
+15	vivants	vivant	ADJ	ADJ	n=p|g=m	13	prep	13	prep
+16	:	:	PONCT	PONCT		15	ponct	15	ponct
+17	la	la	DET	DET	n=s|g=f	18	det	18	det
+18	gestation	gestation	NC	NC	n=s|g=f	10	obj	10	obj
+19	dure	dur	ADJ	ADJ	n=s|g=f	18	mod	18	mod
+20	environ	environ	ADV	ADV		21	mod	21	mod
+21	3	3	ADJ	ADJ		18	mod	18	mod
+22	à	à	P	P		18	dep	18	dep
+23	4	4	ADJ	ADJ		24	mod	24	mod
+24	mois	mois	NC	NC	g=m	22	prep	22	prep
+25	,	,	PONCT	PONCT		24	ponct	24	ponct
+26	après	après	P	P		10	mod	10	mod
+27	quoi	quoi	PROREL	PROREL		26	prep	26	prep
+28	la	la	DET	DET	n=s|g=f	29	det	29	det
+29	mère	mère	NC	NC	n=s|g=f	30	suj	30	suj
+30	met	mettre	V	V	n=s|t=P|p=3	10	mod	10	mod
+31	au	à	P+D	P+D	n=s|g=m	30	mod	30	mod
+32	monde	monde	NC	NC	n=s|g=m	31	prep	31	prep
+33	en	en	P	P		30	mod	30	mod
+34	général	général	NC	NC	n=s|g=m	33	prep	33	prep
+35	un	un	DET	DET	n=s|g=m	38	det	38	det
+36	ou	ou	CC	CC		35	coord	35	coord
+37	deux	deux	DET	DET	s=card|n=p	36	dep_coord	36	dep_coord
+38	tigrons	tigron	NC	NC	n=p|g=m	30	obj	30	obj
+39	(	(	PONCT	PONCT		38	ponct	38	ponct
+40	parfois	parfois	ADV	ADV		41	mod	41	mod
+41	jusqu'	jusque	P	P		30	mod	30	mod
+42	à	à	P	P		41	dep	41	dep
+43	5	5	I	I		42	root	42	root
+44	!	!	PONCT	PONCT		43	ponct	43	ponct
+45	)	)	PONCT	PONCT		43	ponct	43	ponct
+46	.	.	PONCT	PONCT		43	ponct	43	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	petits	petit	ADJ	ADJ	n=p|g=m	3	suj	3	suj
+3	pèsent	peser	V	V	n=p|t=P,S|p=3	0	root	0	root
+4	environ	environ	ADV	ADV		3	mod	3	mod
+5	2	2	ADJ	ADJ		6	mod	6	mod
+6	kg	kilogramme	NC	NC	g=m	3	obj	3	obj
+7	à	à	P	P		3	mod	3	mod
+8	la	la	DET	DET	n=s|g=f	9	det	9	det
+9	naissance	naissance	NC	NC	n=s|g=f	7	prep	7	prep
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	moins	moins	ADV	ADV		12	mod	12	mod
+12	lourd	lourd	ADJ	ADJ	n=s|g=m	3	mod	3	mod
+13	qu'	que	CS	CS		3	mod	3	mod
+14	un	un	DET	DET	n=s|g=m	15	det	15	det
+15	bébé	bébé	NC	NC	n=s|g=m	0	_	0	_
+16	humain	humain	ADJ	ADJ	n=s|g=m	15	mod	15	mod
+17	!	!	PONCT	PONCT		16	ponct	16	ponct
+
+1	Afin	_	NPP	NPP		0	root	0	root
+2	de	de	P	P		11	mod	11	mod
+3	prendre	prendre	VINF	VINF	t=W	2	prep	2	prep
+4	des	des	DET	DET	n=p	5	det	5	det
+5	forces	force	NC	NC	n=p|g=f	3	obj	3	obj
+6	et	et	CC	CC		2	coord	2	coord
+7	de	de	P	P		6	dep_coord	6	dep_coord
+8	grandir	grandir	VINF	VINF	t=W	7	prep	7	prep
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	ils	ils	CLS	CLS	n=p|g=m|p=3	11	suj	11	suj
+11	vont	aller	V	V	n=p|t=P|p=3	0	root	0	root
+12	téter	téter	VINF	VINF	t=W	11	obj	11	obj
+13	le	le	DET	DET	n=s|g=m	14	det	14	det
+14	lait	lait	NC	NC	n=s|g=m	12	obj	12	obj
+15	de	de	P	P		12	mod	12	mod
+16	leur	leur	DET	DET	n=s|p=3|poss=p	17	det	17	det
+17	mère	mère	NC	NC	n=s|g=f	15	prep	15	prep
+18	pendant	pendant	P	P		12	mod	12	mod
+19	environ	environ	ADV	ADV		20	mod	20	mod
+20	2	2	ADJ	ADJ		21	mod	21	mod
+21	mois	mois	NC	NC	g=m	18	prep	18	prep
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+23	après	après	P	P		12	mod	12	mod
+24	quoi	quoi	PROREL	PROREL		23	prep	23	prep
+25	,	,	PONCT	PONCT		24	ponct	24	ponct
+26	ils	ils	CLS	CLS	n=p|g=m|p=3	27	suj	27	suj
+27	commenceront	commencer	V	V	n=p|t=F|p=3	11	mod	11	mod
+28	à	à	P	P		27	mod	27	mod
+29	manger	manger	VINF	VINF	t=W	28	prep	28	prep
+30	de	de	P	P		29	mod	29	mod
+31	la	la	DET	DET	n=s|g=f	32	det	32	det
+32	viande	viande	NC	NC	n=s|g=f	30	prep	30	prep
+33	.	.	PONCT	PONCT		32	ponct	32	ponct
+
+1	En	en	P	P		6	mod	6	mod
+2	tout	tout	PRO	PRO	n=s|g=m	1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	les	les	DET	DET	n=p	5	det	5	det
+5	petits	petit	ADJ	ADJ	n=p|g=m	6	suj	6	suj
+6	vont	aller	V	V	n=p|t=P|p=3	0	root	0	root
+7	rester	rester	VINF	VINF	t=W	6	obj	6	obj
+8	avec	avec	P	P		7	mod	7	mod
+9	leur	leur	DET	DET	n=s|p=3|poss=p	10	det	10	det
+10	mère	mère	NC	NC	n=s|g=f	8	prep	8	prep
+11	environ	environ	ADV	ADV		12	mod	12	mod
+12	1	1	ADJ	ADJ		10	mod	10	mod
+13	an	an	NC	NC	n=s|g=m	10	mod	10	mod
+14	et	et	CC	CC		13	coord	13	coord
+15	demi	demi	NC	NC	n=s|g=m	14	dep_coord	14	dep_coord
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	après	après	P	P		7	mod	7	mod
+18	quoi	quoi	PROREL	PROREL		17	prep	17	prep
+19	ils	ils	CLS	CLS	n=p|g=m|p=3	20	suj	20	suj
+20	commenceront	commencer	V	V	n=p|t=F|p=3	6	mod	6	mod
+21	à	à	P	P		20	mod	20	mod
+22	chasser	chasser	VINF	VINF	t=W	21	prep	21	prep
+23	seuls	seul	ADJ	ADJ	n=p|g=m	0	_	0	_
+24	.	.	PONCT	PONCT		23	ponct	23	ponct
+
+1	À	à	P	P		10	mod	10	mod
+2	l'	le	DET	DET	n=s	3	det	3	det
+3	âge	âge	NC	NC	n=s|g=m	1	prep	1	prep
+4	de	de	P	P		3	dep	3	dep
+5	2	2	ADJ	ADJ		6	mod	6	mod
+6	ans	an	NC	NC	n=p|g=m	4	prep	4	prep
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	ils	ils	CLS	CLS	n=p|g=m|p=3	10	suj	10	suj
+9	la	la	CLO	CLO	n=s|g=f|p=3	10	obj	10	obj
+10	quitteront	quitter	V	V	n=p|t=F|p=3	0	root	0	root
+11	pour	pour	P	P		10	mod	10	mod
+12	se	se	CLR	CLR	n=p,s|p=3	13	aff	13	aff
+13	chercher	chercher	VINF	VINF	t=W	11	prep	11	prep
+14	leur	leur	DET	DET	n=s|p=3|poss=p	16	det	16	det
+15	propre	propre	ADJ	ADJ	n=s	16	mod	16	mod
+16	territoire	territoire	NC	NC	n=s|g=m	13	obj	13	obj
+17	et	et	CC	CC		13	coord	13	coord
+18	vivre	vivre	VINF	VINF	t=W	17	dep_coord	17	dep_coord
+19	seul	seul	ADJ	ADJ	n=s|g=m	18	ats	18	ats
+
+1	Les	les	DET	DET	n=p	4	det	4	det
+2	plus	plus	ADV	ADV		3	mod	3	mod
+3	anciens	ancien	ADJ	ADJ	n=p|g=m	4	mod	4	mod
+4	fossiles	fossile	NC	NC	n=p|g=m	8	suj	8	suj
+5	connus	connaître	VPP	VPP	n=p|g=m|t=K	4	mod	4	mod
+6	de	de	P	P		5	mod	5	mod
+7	tigres	tigre	NC	NC	n=p|g=m	6	prep	6	prep
+8	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+9	originaires	originaire	ADJ	ADJ	n=p	8	ats	8	ats
+10	de	de	P	P		8	mod	8	mod
+11	la	la	DET	DET	n=s|g=f	13	det	13	det
+12	même	même	ADJ	ADJ	n=s	13	mod	13	mod
+13	région	région	NC	NC	n=s|g=f	10	prep	10	prep
+14	que	que	CS	CS		8	mod	8	mod
+15	celle	celle	PRO	PRO	n=s|g=f	17	suj	17	suj
+16	où	où	PROREL	PROREL		17	suj	17	suj
+17	vit	vivre	V	V	n=s|t=P|p=3	14	sub	14	sub
+18	actuellement	_	ADV	ADV		17	mod	17	mod
+19	le	le	DET	DET	n=s|g=m	20	det	20	det
+20	tigre	tigre	NC	NC	n=s|g=m	17	obj	17	obj
+21	de	de	P	P		20	dep	20	dep
+22	Chine	Chine	NPP	NPP	n=s|g=f	21	prep	21	prep
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+1	Certains	certain	DET	DET	n=p|g=m	2	det	2	det
+2	scientifiques1	_	NPP	NPP		3	suj	3	suj
+3	pensent	penser	V	V	n=p|t=P,S|p=3	0	root	0	root
+4	que	que	CS	CS		3	obj	3	obj
+5	c'	ce	CLS	CLS		6	suj	6	suj
+6	est	être	V	V	n=s|t=P|p=3	4	sub	4	sub
+7	en	en	P	P		6	mod	6	mod
+8	Chine	Chine	NPP	NPP	n=s|g=f	7	prep	7	prep
+9	que	que	CS	CS		6	mod	6	mod
+10	les	les	DET	DET	n=p	11	det	11	det
+11	tigres	tigre	NC	NC	n=p|g=m	13	suj	13	suj
+12	sont	être	V	V	n=p|t=P|p=3	13	aux_pass	13	aux_pass
+13	apparus	apparaître	VPP	VPP	n=p|g=m|t=K	9	sub	9	sub
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	avant	avant	P	P		13	mod	13	mod
+16	de	de	P	P		15	prep	15	prep
+17	se	se	CLR	CLR	n=p,s|p=3	18	aff	18	aff
+18	répandre	répandre	VINF	VINF	t=W	16	prep	16	prep
+19	en	en	P	P		18	mod	18	mod
+20	Asie	Asie	NPP	NPP	n=s|g=f	19	prep	19	prep
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	et	et	CC	CC		3	coord	3	coord
+23	de	de	P	P		22	dep_coord	22	dep_coord
+24	se	se	CLR	CLR	n=p,s|p=3	25	aff	25	aff
+25	différencier	différencier	VINF	VINF	t=W	23	prep	23	prep
+26	pour	pour	P	P		25	mod	25	mod
+27	donner	donner	VINF	VINF	t=W	26	prep	26	prep
+28	les	les	DET	DET	n=p	29	det	29	det
+29	sous-espèces	sous-espèce	NC	NC	n=p|g=f	27	obj	27	obj
+30	de	de	P	P		29	dep	29	dep
+31	tigre	tigre	NC	NC	n=s|g=m	30	prep	30	prep
+32	que	que	PROREL	PROREL		34	obj	34	obj
+33	nous	nous	CLS	CLS	n=p|p=1	34	suj	34	suj
+34	connaissons	connaître	V	V	n=p|t=P|p=1	29	mod_rel	29	mod_rel
+35	aujourd'hui	aujourd'hui	ADV	ADV		34	mod	34	mod
+36	.	.	PONCT	PONCT		35	ponct	35	ponct
+
+1	Selon	selon	P	P		8	mod	8	mod
+2	cette	cette	DET	DET	n=s|g=f	3	det	3	det
+3	hypothèse	hypothèse	NC	NC	n=s|g=f	1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	les	les	DET	DET	n=p	6	det	6	det
+6	tigres	tigre	NC	NC	n=p|g=m	8	suj	8	suj
+7	chinois	chinois	ADJ	ADJ	g=m	6	mod	6	mod
+8	seraient	être	V	V	n=p|t=C|p=3	0	root	0	root
+9	les	les	DET	DET	n=p	11	det	11	det
+10	derniers	dernier	ADJ	ADJ	n=p|g=m	11	mod	11	mod
+11	descendants	descendant	NC	NC	n=p|g=m	8	obj	8	obj
+12	des	de	P+D	P+D	n=p	11	dep	11	dep
+13	tous	tout	ADJ	ADJ	n=p|g=m	14	mod	14	mod
+14	premiers	premier	ADJ	ADJ	n=p|g=m	15	mod	15	mod
+15	tigres	tigre	NC	NC	n=p|g=m	12	prep	12	prep
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	tigre	tigre	NC	NC	n=s|g=m	3	suj	3	suj
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	un	un	DET	DET	n=s|g=m	5	det	5	det
+5	animal	animal	NC	NC	n=s|g=m	3	obj	3	obj
+6	qui	qui	PROREL	PROREL	n=s	7	suj	7	suj
+7	peut	pouvoir	V	V	n=s|t=P|p=3	5	mod_rel	5	mod_rel
+8	s'	se	CLR	CLR	n=p,s|p=3	9	aff	9	aff
+9	avérer	avérer	VINF	VINF	t=W	7	obj	7	obj
+10	dangereux	dangereux	ADJ	ADJ	g=m	9	ats	9	ats
+11	pour	pour	P	P		9	mod	9	mod
+12	l'	le	DET	DET	n=s	13	det	13	det
+13	homme	homme	NC	NC	n=s|g=m	11	prep	11	prep
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	même	même	ADV	ADV		7	mod	7	mod
+16	s'	se	CLR	CLR	n=p,s|p=3	0	_	0	_
+17	il	il	CLS	CLS	n=s|g=m|p=3	0	_	0	_
+18	ne	ne	ADV	ADV		0	_	0	_
+19	l'	le	DET	DET	n=s	20	det	20	det
+20	attaque	attaque	NC	NC	n=s|g=f	0	_	0	_
+21	que	que	PROREL	PROREL		0	_	0	_
+22	très	très	ADV	ADV		0	_	0	_
+23	rarement	_	ADV	ADV		0	_	0	_
+24	.	.	PONCT	PONCT		23	ponct	23	ponct
+
+1	En	en	P	P		6	mod	6	mod
+2	revanche	revanche	NC	NC	n=s|g=f	1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	il	il	CLS	CLS	n=s|g=m|p=3	6	suj	6	suj
+5	s'	se	CLR	CLR	n=p,s|p=3	6	aff	6	aff
+6	attaque	attaquer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+7	plus	plus	ADV	ADV		6	mod	6	mod
+8	volontiers	volontiers	ADV	ADV		6	mod	6	mod
+9	au	à	P+D	P+D	n=s|g=m	6	mod	6	mod
+10	bétail	bétail	NC	NC	n=s|g=m	9	prep	9	prep
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	quand	quand	CS	CS		6	mod	6	mod
+13	il	il	CLS	CLS	n=s|g=m|p=3	15	suj	15	suj
+14	ne	ne	ADV	ADV		15	mod	15	mod
+15	trouve	trouver	V	V	n=s|t=P,S|p=1,3	12	sub	12	sub
+16	rien	rien	PRO	PRO	n=s|g=m	15	obj	15	obj
+17	d'	de	P	P		15	mod	15	mod
+18	autre	autre	ADJ	ADJ	n=s	17	prep	17	prep
+19	à	à	P	P		15	mod	15	mod
+20	manger	manger	VINF	VINF	t=W	19	prep	19	prep
+21	:	:	PONCT	PONCT		20	ponct	20	ponct
+22	il	il	CLS	CLS	n=s|g=m|p=3	0	_	0	_
+23	est	être	V	V	n=s|t=P|p=3	0	_	0	_
+24	donc	donc	ADV	ADV		25	mod	25	mod
+25	gênant	gênant	ADJ	ADJ	n=s|g=m	23	ats	23	ats
+26	pour	pour	P	P		23	mod	23	mod
+27	les	les	DET	DET	n=p	28	det	28	det
+28	fermiers	fermier	NC	NC	n=p|g=m	26	prep	26	prep
+29	,	,	PONCT	PONCT		28	ponct	28	ponct
+30	qui	qui	PROREL	PROREL	n=s	31	suj	31	suj
+31	peuvent	pouvoir	V	V	n=p|t=P|p=3	28	mod_rel	28	mod_rel
+32	parfois	parfois	ADV	ADV		31	mod	31	mod
+33	le	le	CLO	CLO	n=s|g=m|p=3	34	obj	34	obj
+34	chasser	chasser	VINF	VINF	t=W	31	obj	31	obj
+35	,	,	PONCT	PONCT		34	ponct	34	ponct
+36	afin	_	ADV	ADV		34	mod	34	mod
+37	de	de	P	P		34	mod	34	mod
+38	protéger	protéger	VINF	VINF	t=W	37	prep	37	prep
+39	leurs	leurs	DET	DET	n=p|p=3|poss=p	40	det	40	det
+40	troupeaux	troupeau	NC	NC	n=p|g=m	38	obj	38	obj
+41	.	.	PONCT	PONCT		40	ponct	40	ponct
+
+1	De	de	P	P		13	mod	13	mod
+2	plus	plus	ADV	ADV		1	mod	1	mod
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	dans	dans	P	P		1	dep	1	dep
+5	la	la	DET	DET	n=s|g=f	6	det	6	det
+6	médecine	médecine	NC	NC	n=s|g=f	4	prep	4	prep
+7	traditionnelle	traditionnel	ADJ	ADJ	n=s|g=f	6	mod	6	mod
+8	chinoise	chinois	ADJ	ADJ	n=s|g=f	6	mod	6	mod
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	certains	certain	DET	DET	n=p|g=m	11	det	11	det
+11	animaux	animal	NC	NC	n=p|g=m	13	suj	13	suj
+12	sont	être	V	V	n=p|t=P|p=3	13	aux_pass	13	aux_pass
+13	utilisés	utiliser	VPP	VPP	n=p|g=m|t=K	0	root	0	root
+14	comme	comme	P	P		13	mod	13	mod
+15	médicaments	médicament	NC	NC	n=p|g=m	14	prep	14	prep
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	ce	ce	PRO	PRO	n=s	13	mod	13	mod
+18	qui	qui	PROREL	PROREL	n=s	19	suj	19	suj
+19	pose	poser	V	V	n=s|t=P,S|p=1,3	17	mod_rel	17	mod_rel
+20	problème	problème	NC	NC	n=s|g=m	19	obj	19	obj
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	notamment	_	ADV	ADV		19	mod	19	mod
+23	pour	pour	P	P		19	mod	19	mod
+24	les	les	DET	DET	n=p	25	det	25	det
+25	espèces	espèce	NC	NC	n=p|g=f	23	prep	23	prep
+26	menacées	menacer	VPP	VPP	n=p|g=f|t=K	25	mod	25	mod
+27	.	.	PONCT	PONCT		26	ponct	26	ponct
+
+1	Ainsi	ainsi	ADV	ADV		9	mod	9	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	le	le	DET	DET	n=s|g=m	4	det	4	det
+4	tigre	tigre	NC	NC	n=s|g=m	9	suj	9	suj
+5	chinois	chinois	ADJ	ADJ	g=m	4	mod	4	mod
+6	a	avoir	V	V	n=s|t=P|p=3	9	aux_tps	9	aux_tps
+7	été	être	VPP	VPP	t=K	9	aux_pass	9	aux_pass
+8	très	très	ADV	ADV		9	mod	9	mod
+9	chassé	chasser	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+10	pour	pour	P	P		9	mod	9	mod
+11	ses	ses	DET	DET	n=p|p=3|poss=s	12	det	12	det
+12	os	os	NC	NC	g=m	10	prep	10	prep
+13	et	et	CC	CC		9	coord	9	coord
+14	pour	pour	P	P		13	dep_coord	13	dep_coord
+15	ses	ses	DET	DET	n=p|p=3|poss=s	16	det	16	det
+16	moustaches	moustache	NC	NC	n=p|g=f	14	prep	14	prep
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	utilisés	utiliser	VPP	VPP	n=p|g=m|t=K	13	dep_coord	13	dep_coord
+19	comme	comme	P	P		18	mod	18	mod
+20	remède	remède	NC	NC	n=s|g=m	19	prep	19	prep
+21	...	...	PONCT	PONCT		20	ponct	20	ponct
+
+1	Ses	ses	DET	DET	n=p|p=3|poss=s	2	det	2	det
+2	dents	dent	NC	NC	n=p|g=f	7	suj	7	suj
+3	et	et	CC	CC		2	coord	2	coord
+4	ses	ses	DET	DET	n=p|p=3|poss=s	5	det	5	det
+5	griffes	griffe	NC	NC	n=p|g=f	3	dep_coord	3	dep_coord
+6	sont	être	V	V	n=p|t=P|p=3	7	aux_pass	7	aux_pass
+7	utilisées	utiliser	VPP	VPP	n=p|g=f|t=K	0	root	0	root
+8	en	en	P	P		7	mod	7	mod
+9	Chine	Chine	NPP	NPP	n=s|g=f	8	prep	8	prep
+10	comme	comme	P	P		7	mod	7	mod
+11	talisman	talisman	NC	NC	n=s|g=m	10	prep	10	prep
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	pour	pour	P	P		7	mod	7	mod
+14	attirer	attirer	VINF	VINF	t=W	13	prep	13	prep
+15	la	la	DET	DET	n=s|g=f	16	det	16	det
+16	chance	chance	NC	NC	n=s|g=f	14	obj	14	obj
+17	et	et	CC	CC		7	coord	7	coord
+18	se	se	CLR	CLR	n=p,s|p=3	19	aff	19	aff
+19	protéger	protéger	VINF	VINF	t=W	17	dep_coord	17	dep_coord
+20	des	des	DET	DET	n=p	21	det	21	det
+21	fantômes	fantôme	NC	NC	n=p|g=m	19	obj	19	obj
+22	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+1	Sa	sa	DET	DET	n=s|g=f|p=3|poss=s	2	det	2	det
+2	peau	peau	NC	NC	n=s|g=f	5	suj	5	suj
+3	est	être	V	V	n=s|t=P|p=3	5	aux_pass	5	aux_pass
+4	très	très	ADV	ADV		5	mod	5	mod
+5	recherchée	rechercher	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+6	par	par	P	P		5	mod	5	mod
+7	les	les	DET	DET	n=p	9	det	9	det
+8	riches	riche	ADJ	ADJ	n=p	9	mod	9	mod
+9	collectionneurs	collectionneur	NC	NC	n=p|g=m	6	prep	6	prep
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+1	Pour	pour	P	P		9	mod	9	mod
+2	toutes	tout	ADJ	ADJ	n=p|g=f	4	mod	4	mod
+3	ces	ces	DET	DET	n=p	4	det	4	det
+4	raisons	raison	NC	NC	n=p|g=f	1	prep	1	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	le	le	DET	DET	n=s|g=m	7	det	7	det
+7	tigre	tigre	NC	NC	n=s|g=m	9	suj	9	suj
+8	a	avoir	V	V	n=s|t=P|p=3	9	aux_tps	9	aux_tps
+9	été	être	VPP	VPP	t=K	0	root	0	root
+10	énormément	_	ADV	ADV		9	mod	9	mod
+11	victime	victime	NC	NC	n=s|g=f	9	obj	9	obj
+12	du	de	P+D	P+D	n=s|g=m	9	mod	9	mod
+13	braconnage	braconnage	NC	NC	n=s|g=m	12	prep	12	prep
+14	en	en	P	P		9	mod	9	mod
+15	Chine	Chine	NPP	NPP	n=s|g=f	14	prep	14	prep
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+1	De	de	P	P		10	mod	10	mod
+2	plus	plus	ADV	ADV		10	mod	10	mod
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	les	les	DET	DET	n=p	5	det	5	det
+5	forêts	forêt	NC	NC	n=p|g=f	10	suj	10	suj
+6	où	où	PROREL	PROREL		8	obj	8	obj
+7	il	il	CLS	CLS	n=s|g=m|p=3	8	suj	8	suj
+8	vivait	vivre	V	V	n=s|t=I|p=3	5	mod_rel	5	mod_rel
+9	traditionnellement	_	ADV	ADV		10	mod	10	mod
+10	tendent	tendre	V	V	n=p|t=P,S|p=3	0	root	0	root
+11	à	à	P	P		10	mod	10	mod
+12	se	se	CLR	CLR	n=p,s|p=3	13	aff	13	aff
+13	raréfier	raréfier	VINF	VINF	t=W	11	prep	11	prep
+14	et	et	CC	CC		11	coord	11	coord
+15	à	à	P	P		14	dep_coord	14	dep_coord
+16	disparaître	disparaître	VINF	VINF	t=W	15	prep	15	prep
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	à	à	P	P		10	mod	10	mod
+19	mesure	mesure	NC	NC	n=s|g=f	18	prep	18	prep
+20	qu'	que	PROREL	PROREL		23	mod	23	mod
+21	elles	elles	CLS	CLS	n=p|g=f|p=3	23	suj	23	suj
+22	sont	être	V	V	n=p|t=P|p=3	23	aux_pass	23	aux_pass
+23	rasées	raser	VPP	VPP	n=p|g=f|t=K	10	mod	10	mod
+24	et	et	CC	CC		23	coord	23	coord
+25	remplacées	remplacer	VPP	VPP	n=p|g=f|t=K	24	dep_coord	24	dep_coord
+26	par	par	P	P		23	mod	23	mod
+27	des	des	DET	DET	n=p	28	det	28	det
+28	habitations	habitation	NC	NC	n=p|g=f	26	prep	26	prep
+29	ou	ou	CC	CC		23	coord	23	coord
+30	d'	de	DET	DET	n=p	32	det	32	det
+31	autres	autre	ADJ	ADJ	n=p	32	mod	32	mod
+32	constructions	construction	NC	NC	n=p|g=f	0	_	0	_
+33	humaines	humain	ADJ	ADJ	n=p|g=f	32	mod	32	mod
+34	.	.	PONCT	PONCT		33	ponct	33	ponct
+
+1	Un	un	DET	DET	n=s|g=m	2	det	2	det
+2	tigre	tigre	NC	NC	n=s|g=m	3	suj	3	suj
+3	a	avoir	V	V	n=s|t=P|p=3	0	root	0	root
+4	besoin	besoin	NC	NC	n=s|g=m	3	obj	3	obj
+5	d'	de	P	P		3	mod	3	mod
+6	un	un	DET	DET	n=s|g=m	8	det	8	det
+7	grand	grand	ADJ	ADJ	n=s|g=m	8	mod	8	mod
+8	espace	espace	NC	NC	n=s	5	prep	5	prep
+9	pour	pour	P	P		3	mod	3	mod
+10	vivre	vivre	VINF	VINF	t=W	9	prep	9	prep
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	et	et	CC	CC		3	coord	3	coord
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	si	si	CS	CS		26	mod	26	mod
+15	l'	le	DET	DET	n=s	16	det	16	det
+16	on	on	CLS	CLS	n=s|p=3	17	suj	17	suj
+17	détruit	détruire	V	V	n=s|t=P|p=3	14	sub	14	sub
+18	la	la	DET	DET	n=s|g=f	19	det	19	det
+19	forêt	forêt	NC	NC	n=s|g=f	17	obj	17	obj
+20	où	où	PROREL	PROREL		22	mod	22	mod
+21	il	il	CLS	CLS	n=s|g=m|p=3	22	suj	22	suj
+22	vit	vivre	V	V	n=s|t=P|p=3	19	mod_rel	19	mod_rel
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	il	il	CLS	CLS	n=s|g=m|p=3	26	suj	26	suj
+25	ne	ne	ADV	ADV		26	mod	26	mod
+26	trouvera	trouver	V	V	n=s|t=F|p=3	12	dep_coord	12	dep_coord
+27	plus	plus	ADV	ADV		26	mod	26	mod
+28	assez	assez	ADV	ADV		26	mod	26	mod
+29	de	de	P	P		26	mod	26	mod
+30	proies	proie	NC	NC	n=p|g=f	29	prep	29	prep
+31	pour	pour	P	P		26	mod	26	mod
+32	se	se	CLR	CLR	n=p,s|p=3	33	aff	33	aff
+33	nourrir	nourrir	VINF	VINF	t=W	31	prep	31	prep
+34	,	,	PONCT	PONCT		33	ponct	33	ponct
+35	et	et	CC	CC		26	coord	26	coord
+36	va	aller	V	V	n=s|t=P|p=3	35	dep_coord	35	dep_coord
+37	donc	donc	ADV	ADV		36	mod	36	mod
+38	se	se	CLR	CLR	n=p,s|p=3	39	aff	39	aff
+39	rapprocher	rapprocher	VINF	VINF	t=W	36	obj	36	obj
+40	des	des	DET	DET	n=p	41	det	41	det
+41	villages	village	NC	NC	n=p|g=m	39	obj	39	obj
+42	et	et	CC	CC		36	coord	36	coord
+43	des	de	P+D	P+D	n=p	42	dep_coord	42	dep_coord
+44	habitations	habitation	NC	NC	n=p|g=f	43	prep	43	prep
+45	humaines	humain	ADJ	ADJ	n=p|g=f	44	mod	44	mod
+46	,	,	PONCT	PONCT		45	ponct	45	ponct
+47	qui	qui	PROREL	PROREL	n=s	48	suj	48	suj
+48	remplacent	remplacer	V	V	n=p|t=P,S|p=3	44	mod_rel	44	mod_rel
+49	son	son	DET	DET	n=s|g=m|p=3|poss=s	50	det	50	det
+50	habitat	habitat	NC	NC	n=s|g=m	48	obj	48	obj
+51	.	.	PONCT	PONCT		50	ponct	50	ponct
+
+1	Pour	pour	P	P		8	mod	8	mod
+2	cette	cette	DET	DET	n=s|g=f	3	det	3	det
+3	raison	raison	NC	NC	n=s|g=f	1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	les	les	DET	DET	n=p	6	det	6	det
+6	tigres	tigre	NC	NC	n=p|g=m	8	suj	8	suj
+7	ont	avoir	V	V	n=p|t=P|p=3	8	aux_tps	8	aux_tps
+8	été	être	VPP	VPP	t=K	0	root	0	root
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	durant	durant	P	P		8	mod	8	mod
+11	le	le	DET	DET	n=s|g=m	13	det	13	det
+12	XXe	_	ADJ	ADJ		13	mod	13	mod
+13	siècle	siècle	NC	NC	n=s|g=m	10	prep	10	prep
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	de	de	P	P		8	mod	8	mod
+16	plus	plus	ADV	ADV		17	mod	17	mod
+17	en	en	P	P		15	dep	15	dep
+18	plus	plus	ADV	ADV		19	mod	19	mod
+19	fréquents	fréquent	ADJ	ADJ	n=p|g=m	17	prep	17	prep
+20	à	à	P	P		17	dep	17	dep
+21	proximité	proximité	NC	NC	n=s|g=f	20	prep	20	prep
+22	des	de	P+D	P+D	n=p	21	dep	21	dep
+23	habitations	habitation	NC	NC	n=p|g=f	22	prep	22	prep
+24	,	,	PONCT	PONCT		23	ponct	23	ponct
+25	ce	ce	PRO	PRO	n=s	8	mod	8	mod
+26	qui	qui	PROREL	PROREL	n=s	28	suj	28	suj
+27	a	avoir	V	V	n=s|t=P|p=3	28	aux_tps	28	aux_tps
+28	multiplié	multiplier	VPP	VPP	n=s|g=m|t=K	25	mod_rel	25	mod_rel
+29	les	les	DET	DET	n=p	30	det	30	det
+30	accidents	accident	NC	NC	n=p|g=m	28	obj	28	obj
+31	,	,	PONCT	PONCT		30	ponct	30	ponct
+32	les	les	DET	DET	n=p	33	det	33	det
+33	gens	gens	NC	NC	n=p|g=m	34	suj	34	suj
+34	tuant	tuer	VPR	VPR	t=G	8	mod	8	mod
+35	les	les	DET	DET	n=p	36	det	36	det
+36	tigres	tigre	NC	NC	n=p|g=m	34	obj	34	obj
+37	qui	qui	PROREL	PROREL	n=s	39	suj	39	suj
+38	s'	se	CLR	CLR	n=p,s|p=3	39	aff	39	aff
+39	approchaient	approcher	V	V	n=p|t=I|p=3	36	mod_rel	36	mod_rel
+40	trop	trop	ADV	ADV		39	mod	39	mod
+41	,	,	PONCT	PONCT		40	ponct	40	ponct
+42	pour	pour	P	P		39	mod	39	mod
+43	se	se	CLR	CLR	n=p,s|p=3	44	aff	44	aff
+44	protéger	protéger	VINF	VINF	t=W	42	prep	42	prep
+45	.	.	PONCT	PONCT		44	ponct	44	ponct
+
+1	Au	à	P+D	P+D	n=s|g=m	8	mod	8	mod
+2	début	début	NC	NC	n=s|g=m	1	prep	1	prep
+3	des	de	P+D	P+D	n=p	2	dep	2	dep
+4	années	année	NC	NC	n=p|g=f	3	prep	3	prep
+5	1950	1950	ADJ	ADJ		4	mod	4	mod
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	on	on	CLS	CLS	n=s|p=3	8	suj	8	suj
+8	estime	estimer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+9	qu'	que	CS	CS		8	obj	8	obj
+10	il	il	CLS	CLS	n=s|g=m|p=3	11	suj	11	suj
+11	restait	rester	V	V	n=s|t=I|p=3	9	sub	9	sub
+12	environ	environ	ADV	ADV		11	mod	11	mod
+13	4_000	4_000	ADJ	ADJ		14	mod	14	mod
+14	tigres	tigre	NC	NC	n=p|g=m	11	obj	11	obj
+15	chinois	chinois	ADJ	ADJ	g=m	14	mod	14	mod
+16	vivant	vivre	VPR	VPR	t=G	14	mod	14	mod
+17	en	en	P	P		16	mod	16	mod
+18	liberté2	_	NC	NC		17	prep	17	prep
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	En	en	P	P		10	mod	10	mod
+2	1949	1949	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	République	république	NC	NC	n=s|g=f	10	suj	10	suj
+6	Populaire	_	NC	NC		5	mod	5	mod
+7	de	de	P	P		5	dep	5	dep
+8	Chine	Chine	NPP	NPP	n=s|g=f	7	prep	7	prep
+9	est	être	V	V	n=s|t=P|p=3	10	aux_tps	10	aux_tps
+10	proclamée	proclamer	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	tigre	tigre	NC	NC	n=s|g=m	5	suj	5	suj
+3	chinois	chinois	ADJ	ADJ	g=m	2	mod	2	mod
+4	est	être	V	V	n=s|t=P|p=3	5	aux_tps	5	aux_tps
+5	déclaré	déclarer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+6	nuisible	nuisible	ADJ	ADJ	n=s	5	ats	5	ats
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	et	et	CC	CC		5	coord	5	coord
+9	des	des	DET	DET	n=p	10	det	10	det
+10	mesures	mesure	NC	NC	n=p|g=f	12	suj	12	suj
+11	sont	être	V	V	n=p|t=P|p=3	12	aux_pass	12	aux_pass
+12	prises	prendre	VPP	VPP	n=p|g=f|t=K	8	dep_coord	8	dep_coord
+13	pour	pour	P	P		12	mod	12	mod
+14	s'	se	CLR	CLR	n=p,s|p=3	16	aff	16	aff
+15	en	en	CLO	CLO		16	obj	16	obj
+16	débarrasser	débarrasser	VINF	VINF	t=W	13	prep	13	prep
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+1	En	en	P	P		14	mod	14	mod
+2	1979	1979	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	après	après	P	P		14	mod	14	mod
+5	la	la	DET	DET	n=s|g=f	6	det	6	det
+6	mort	mort	NC	NC	n=s|g=f,m	4	prep	4	prep
+7	de	de	P	P		6	dep	6	dep
+8	Mao	_	NPP	NPP		7	prep	7	prep
+9	Zedong	_	NPP	NPP		8	mod	8	mod
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	le	le	DET	DET	n=s|g=m	12	det	12	det
+12	gouvernement	gouvernement	NC	NC	n=s|g=m	14	suj	14	suj
+13	chinois	chinois	ADJ	ADJ	g=m	12	mod	12	mod
+14	finit	finir	V	V	n=s|t=J,P|p=3	0	root	0	root
+15	par	par	P	P		14	mod	14	mod
+16	interdire	interdire	VINF	VINF	t=W	15	prep	15	prep
+17	la	la	DET	DET	n=s|g=f	18	det	18	det
+18	chasse	chasse	NC	NC	n=s|g=f	16	obj	16	obj
+19	au	à	P+D	P+D	n=s|g=m	16	mod	16	mod
+20	tigre	tigre	NC	NC	n=s|g=m	19	prep	19	prep
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	et	et	CC	CC		14	coord	14	coord
+23	le	le	DET	DET	n=s|g=m	24	det	24	det
+24	classe	classe	NC	NC	n=s|g=f	0	_	0	_
+25	parmi	parmi	P	P		24	dep	24	dep
+26	les	les	DET	DET	n=p	27	det	27	det
+27	espèces	espèce	NC	NC	n=p|g=f	25	prep	25	prep
+28	protégées2	_	NC	NC		27	mod	27	mod
+29	.	.	PONCT	PONCT		28	ponct	28	ponct
+
+1	Cependant	cependant	ADV	ADV		7	mod	7	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	en	en	P	P		7	mod	7	mod
+4	1982	1982	NC	NC		3	prep	3	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	on	on	CLS	CLS	n=s|p=3	7	suj	7	suj
+7	estime	estimer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+8	qu'	que	CS	CS		7	obj	7	obj
+9	il	il	CLS	CLS	n=s|g=m|p=3	11	suj	11	suj
+10	ne	ne	ADV	ADV		11	mod	11	mod
+11	reste	rester	V	V	n=s|t=P,S|p=1,3	8	sub	8	sub
+12	que	que	CS	CS		11	obj	11	obj
+13	150	150	ADJ	ADJ		16	mod	16	mod
+14	ou	ou	CC	CC		13	coord	13	coord
+15	200	200	ADJ	ADJ		14	dep_coord	14	dep_coord
+16	tigres	tigre	NC	NC	n=p|g=m	0	_	0	_
+17	encore	encore	ADV	ADV		18	mod	18	mod
+18	vivants	vivant	ADJ	ADJ	n=p|g=m	16	mod	16	mod
+19	en	en	P	P		16	dep	16	dep
+20	liberté1	_	NC	NC		19	prep	19	prep
+21	.	.	PONCT	PONCT		20	ponct	20	ponct
+
+1	Dans	dans	P	P		9	mod	9	mod
+2	les	les	DET	DET	n=p	3	det	3	det
+3	années	année	NC	NC	n=p|g=f	1	prep	1	prep
+4	1990	1990	NC	NC		3	mod	3	mod
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	plusieurs	plusieurs	DET	DET	n=p	7	det	7	det
+7	études	étude	NC	NC	n=p|g=f	9	suj	9	suj
+8	sont	être	V	V	n=p|t=P|p=3	9	aux_pass	9	aux_pass
+9	menées	mener	VPP	VPP	n=p|g=f|t=K	0	root	0	root
+10	pour	pour	P	P		9	mod	9	mod
+11	essayer	essayer	VINF	VINF	t=W	10	prep	10	prep
+12	de	de	P	P		9	mod	9	mod
+13	déterminer	déterminer	VINF	VINF	t=W	12	prep	12	prep
+14	le	le	DET	DET	n=s|g=m	15	det	15	det
+15	nombre	nombre	NC	NC	n=s|g=m	13	obj	13	obj
+16	de	de	P	P		15	dep	15	dep
+17	tigres	tigre	NC	NC	n=p|g=m	16	prep	16	prep
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	d'	de	P	P		13	mod	13	mod
+20	après	après	P	P		19	dep	19	dep
+21	les	les	DET	DET	n=p	22	det	22	det
+22	traces	trace	NC	NC	n=p|g=f	20	prep	20	prep
+23	qu'	que	PROREL	PROREL		25	obj	25	obj
+24	ils	ils	CLS	CLS	n=p|g=m|p=3	25	suj	25	suj
+25	laissent	laisser	V	V	n=p|t=P,S|p=3	22	mod_rel	22	mod_rel
+26	,	,	PONCT	PONCT		25	ponct	25	ponct
+27	mais	mais	CC	CC		19	coord	19	coord
+28	sans	sans	P	P		27	dep_coord	27	dep_coord
+29	succès	succès	NC	NC	g=m	28	prep	28	prep
+30	:	:	PONCT	PONCT		29	ponct	29	ponct
+31	il	il	CLS	CLS	n=s|g=m|p=3	33	suj	33	suj
+32	ne	ne	ADV	ADV		33	mod	33	mod
+33	reste	rester	V	V	n=s|t=P,S|p=1,3	9	mod	9	mod
+34	que	que	CS	CS		33	obj	33	obj
+35	trop	trop	ADV	ADV		0	_	0	_
+36	peu	peu	ADV	ADV		0	_	0	_
+37	de	de	P	P		0	_	0	_
+38	tigres	tigre	NC	NC	n=p|g=m	37	prep	37	prep
+39	dans	dans	P	P		38	dep	38	dep
+40	la	la	DET	DET	n=s|g=f	41	det	41	det
+41	nature	nature	NC	NC	n=s|g=f	39	prep	39	prep
+42	pour	pour	P	P		38	dep	38	dep
+43	pouvoir	pouvoir	VINF	VINF	t=W	42	prep	42	prep
+44	les	les	CLO	CLO	n=p|p=3	45	obj	45	obj
+45	compter	compter	VINF	VINF	t=W	43	obj	43	obj
+46	.	.	PONCT	PONCT		45	ponct	45	ponct
+
+1	En	en	P	P		14	mod	14	mod
+2	2001	2001	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	des	des	DET	DET	n=p	5	det	5	det
+5	scientifiques	scientifique	ADJ	ADJ	n=p	14	suj	14	suj
+6	à	à	P	P		5	mod	5	mod
+7	la	la	DET	DET	n=s|g=f	8	det	8	det
+8	recherche	recherche	NC	NC	n=s|g=f	6	prep	6	prep
+9	de	de	P	P		8	dep	8	dep
+10	tigres	tigre	NC	NC	n=p|g=m	9	prep	9	prep
+11	n'	ne	ADV	ADV		14	mod	14	mod
+12	en	en	CLO	CLO		14	obj	14	obj
+13	ont	avoir	V	V	n=p|t=P|p=3	14	aux_tps	14	aux_tps
+14	trouvé	trouver	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+15	aucun	aucun	PRO	PRO	n=s|g=m	14	obj	14	obj
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+1	Certains	certain	DET	DET	n=p|g=m	2	det	2	det
+2	villageois	villageois	NC	NC	g=m	3	suj	3	suj
+3	disent	dire	V	V	n=p|t=P,S|p=3	0	root	0	root
+4	avoir	avoir	VINF	VINF	t=W	5	aux_pass	5	aux_pass
+5	aperçu	apercevoir	VPP	VPP	n=s|g=m|t=K	3	obj	3	obj
+6	des	de	P+D	P+D	n=p	5	mod	5	mod
+7	tigres	tigre	NC	NC	n=p|g=m	6	prep	6	prep
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	ou	ou	CC	CC		3	coord	3	coord
+10	leurs	leurs	DET	DET	n=p|p=3|poss=p	11	det	11	det
+11	traces	trace	NC	NC	n=p|g=f	0	_	0	_
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	en	en	P	P		11	dep	11	dep
+14	2002	2002	NC	NC		13	prep	13	prep
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	dans	dans	P	P		11	dep	11	dep
+17	la	la	DET	DET	n=s|g=f	18	det	18	det
+18	réserve	réserve	NC	NC	n=s|g=f	16	prep	16	prep
+19	naturelle	naturel	ADJ	ADJ	n=s|g=f	18	mod	18	mod
+20	de	de	P	P		11	dep	11	dep
+21	Qizimei	_	NPP	NPP		20	prep	20	prep
+22	Mountains	_	NPP	NPP		21	mod	21	mod
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	mais	mais	CC	CC		11	coord	11	coord
+25	aucun	aucun	DET	DET	n=s|g=m	26	det	26	det
+26	tigre	tigre	NC	NC	n=s|g=m	24	dep_coord	24	dep_coord
+27	n'	ne	ADV	ADV		26	mod	26	mod
+28	a	avoir	V	V	n=s|t=P|p=3	30	aux_tps	30	aux_tps
+29	été	être	VPP	VPP	t=K	30	aux_pass	30	aux_pass
+30	vu	voir	VPP	VPP	n=s|g=m|t=K	26	mod	26	mod
+31	avec	avec	P	P		30	mod	30	mod
+32	certitude	certitude	NC	NC	n=s|g=f	31	prep	31	prep
+33	dans	dans	P	P		30	mod	30	mod
+34	la	la	DET	DET	n=s|g=f	35	det	35	det
+35	nature	nature	NC	NC	n=s|g=f	33	prep	33	prep
+36	depuis	depuis	P	P		30	mod	30	mod
+37	les	les	DET	DET	n=p	38	det	38	det
+38	années	année	NC	NC	n=p|g=f	36	prep	36	prep
+39	1970	1970	NC	NC		38	mod	38	mod
+40	,	,	PONCT	PONCT		39	ponct	39	ponct
+41	quand	quand	CS	CS		30	mod	30	mod
+42	le	le	DET	DET	n=s|g=m	44	det	44	det
+43	dernier	dernier	ADJ	ADJ	n=s|g=m	44	mod	44	mod
+44	tigre	tigre	NC	NC	n=s|g=m	48	suj	48	suj
+45	connu	connaître	ADJ	ADJ	n=s|g=m|t=K	44	mod	44	mod
+46	a	avoir	V	V	n=s|t=P|p=3	48	aux_tps	48	aux_tps
+47	été	être	VPP	VPP	t=K	48	aux_pass	48	aux_pass
+48	capturé	capturer	VPP	VPP	n=s|g=m|t=K	41	sub	41	sub
+49	.	.	PONCT	PONCT		48	ponct	48	ponct
+
+1	Aujourd'hui	aujourd'hui	ADV	ADV		4	mod	4	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	on	on	CLS	CLS	n=s|p=3	4	suj	4	suj
+4	pense	penser	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+5	que	que	CS	CS		4	mod	4	mod
+6	le	le	DET	DET	n=s|g=m	7	det	7	det
+7	tigre	tigre	NC	NC	n=s|g=m	11	suj	11	suj
+8	chinois	chinois	ADJ	ADJ	g=m	7	mod	7	mod
+9	est	être	V	V	n=s|t=P|p=3	11	aux_tps	11	aux_tps
+10	peut-être	peut-être	ADV	ADV		11	mod	11	mod
+11	éteint	éteindre	VPP	VPP	n=s|g=m|t=K	5	sub	5	sub
+12	dans	dans	P	P		11	mod	11	mod
+13	la	la	DET	DET	n=s|g=f	14	det	14	det
+14	nature	nature	NC	NC	n=s|g=f	12	prep	12	prep
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	4	suj	4	suj
+2	n'	ne	ADV	ADV		4	mod	4	mod
+3	en	en	CLO	CLO		4	aff	4	aff
+4	existe	exister	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+5	plus	plus	ADV	ADV		4	mod	4	mod
+6	qu'	que	CS	CS		4	mod	4	mod
+7	une	une	DET	DET	n=s|g=f	8	det	8	det
+8	cinquantaine	cinquantaine	NC	NC	n=s|g=f	13	suj	13	suj
+9	d'	de	P	P		8	dep	8	dep
+10	individus	individu	NC	NC	n=p|g=m	9	prep	9	prep
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	qui	qui	PROREL	PROREL	n=s	13	suj	13	suj
+13	vivent	vivre	V	V	n=p|t=P,S|p=3	6	sub	6	sub
+14	dans	dans	P	P		13	mod	13	mod
+15	des	des	DET	DET	n=p	16	det	16	det
+16	zoos	zoo	NC	NC	n=p|g=m	14	prep	14	prep
+17	:	:	PONCT	PONCT		16	ponct	16	ponct
+18	ce	ce	CLS	CLS		19	suj	19	suj
+19	sont	être	V	V	n=p|t=P|p=3	6	root	6	root
+20	des	des	DET	DET	n=p	21	det	21	det
+21	descendants	descendant	NC	NC	n=p|g=m	19	obj	19	obj
+22	des	de	P+D	P+D	n=p	19	mod	19	mod
+23	derniers	dernier	ADJ	ADJ	n=p|g=m	24	mod	24	mod
+24	tigres	tigre	NC	NC	n=p|g=m	22	prep	22	prep
+25	à	à	P	P		19	mod	19	mod
+26	avoir	avoir	VINF	VINF	t=W	28	aux_tps	28	aux_tps
+27	été	être	VPP	VPP	t=K	28	aux_pass	28	aux_pass
+28	capturés	capturer	VPP	VPP	n=p|g=m|t=K	25	prep	25	prep
+29	,	,	PONCT	PONCT		28	ponct	28	ponct
+30	et	et	CC	CC		19	coord	19	coord
+31	certains	certain	PRO	PRO	n=p|g=m	30	dep_coord	30	dep_coord
+32	d'	de	P	P		31	dep	31	dep
+33	entre	entre	P	P		32	dep	32	dep
+34	eux	eux	PRO	PRO	n=p|g=m|p=3	33	prep	33	prep
+35	sont	être	V	V	n=p|t=P|p=3	0	_	0	_
+36	peut-être	peut-être	ADV	ADV		35	mod	35	mod
+37	des	des	DET	DET	n=p	38	det	38	det
+38	hybrides	hybride	NC	NC	n=p|g=m	35	obj	35	obj
+39	d'	de	P	P		38	dep	38	dep
+40	autres	autre	ADJ	ADJ	n=p	41	mod	41	mod
+41	sous-espèces	sous-espèce	NC	NC	n=p|g=f	39	prep	39	prep
+42	de	de	P	P		41	dep	41	dep
+43	tigres	tigre	NC	NC	n=p|g=m	42	prep	42	prep
+44	.	.	PONCT	PONCT		43	ponct	43	ponct
+
+1	Plusieurs	plusieurs	DET	DET	n=p	2	det	2	det
+2	projets	projet	NC	NC	n=p|g=m	3	suj	3	suj
+3	visent	viser	V	V	n=p|t=P,S|p=3	0	root	0	root
+4	à	à	P	P		3	mod	3	mod
+5	la	la	DET	DET	n=s|g=f	6	det	6	det
+6	réintroduction	réintroduction	NC	NC	n=s|g=f	4	prep	4	prep
+7	du	de	P+D	P+D	n=s|g=m	3	mod	3	mod
+8	tigre	tigre	NC	NC	n=s|g=m	7	prep	7	prep
+9	chinois	chinois	ADJ	ADJ	g=m	8	mod	8	mod
+10	dans	dans	P	P		3	mod	3	mod
+11	la	la	DET	DET	n=s|g=f	12	det	12	det
+12	nature	nature	NC	NC	n=s|g=f	10	prep	10	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	notamment	_	ADV	ADV		15	mod	15	mod
+15	en	en	P	P		3	mod	3	mod
+16	Chine	Chine	NPP	NPP	n=s|g=f	15	prep	15	prep
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	existe	exister	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	un	un	DET	DET	n=s|g=m	4	det	4	det
+4	projet	projet	NC	NC	n=s|g=m	2	obj	2	obj
+5	en	en	P	P		2	mod	2	mod
+6	Afrique	Afrique	NPP	NPP	n=s|g=f	5	prep	5	prep
+7	du	de	P+D	P+D	n=s|g=m	2	mod	2	mod
+8	Sud	sud	NC	NC	n=s|g=m	7	prep	7	prep
+9	:	:	PONCT	PONCT		8	ponct	8	ponct
+10	Des	des	DET	DET	n=p	11	det	11	det
+11	tigres	tigre	NC	NC	n=p|g=m	15	suj	15	suj
+12	chinois	chinois	ADJ	ADJ	g=m	11	mod	11	mod
+13	ont	avoir	V	V	n=p|t=P|p=3	15	aux_tps	15	aux_tps
+14	été	être	VPP	VPP	t=K	15	aux_pass	15	aux_pass
+15	réintroduits	réintroduire	VPP	VPP	n=p|g=m|t=K	2	mod	2	mod
+16	dans	dans	P	P		15	mod	15	mod
+17	une	une	DET	DET	n=s|g=f	18	det	18	det
+18	réserve	réserve	NC	NC	n=s|g=f	16	prep	16	prep
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	en	en	P	P		15	mod	15	mod
+21	Afrique	Afrique	NPP	NPP	n=s|g=f	20	prep	20	prep
+22	du	de	P+D	P+D	n=s|g=m	15	mod	15	mod
+23	Sud	sud	NC	NC	n=s|g=m	22	prep	22	prep
+24	:	:	PONCT	PONCT		23	ponct	23	ponct
+25	l'	le	DET	DET	n=s	26	det	26	det
+26	endroit	endroit	NC	NC	n=s|g=m	15	mod	15	mod
+27	a	avoir	V	V	n=s|t=P|p=3	29	aux_tps	29	aux_tps
+28	été	être	VPP	VPP	t=K	29	aux_pass	29	aux_pass
+29	choisi	choisir	VPP	VPP	n=s|g=m|t=K	26	mod_rel	26	mod_rel
+30	parce	_	ADV	ADV		29	mod	29	mod
+31	qu'	que	CS	CS		29	mod	29	mod
+32	il	il	CLS	CLS	n=s|g=m|p=3	33	suj	33	suj
+33	permet	permettre	V	V	n=s|t=P|p=3	31	sub	31	sub
+34	aux	à	P+D	P+D	n=p	33	mod	33	mod
+35	tigres	tigre	NC	NC	n=p|g=m	34	prep	34	prep
+36	de	de	P	P		33	mod	33	mod
+37	trouver	trouver	VINF	VINF	t=W	36	prep	36	prep
+38	un	un	DET	DET	n=s|g=m	39	det	39	det
+39	territoire	territoire	NC	NC	n=s|g=m	37	obj	37	obj
+40	approprié	approprier	VPP	VPP	n=s|g=m|t=K	39	mod	39	mod
+41	et	et	CC	CC		40	coord	40	coord
+42	des	de	P+D	P+D	n=p	41	dep_coord	41	dep_coord
+43	proies	proie	NC	NC	n=p|g=f	42	prep	42	prep
+44	suffisantes	suffisant	ADJ	ADJ	n=p|g=f	43	mod	43	mod
+45	.	.	PONCT	PONCT		44	ponct	44	ponct
+
+1	Des	des	DET	DET	n=p	2	det	2	det
+2	tigres	tigre	NC	NC	n=p|g=m	7	suj	7	suj
+3	chinois	chinois	ADJ	ADJ	g=m	2	mod	2	mod
+4	y	y	CLO	CLO		7	de_obj	7	de_obj
+5	ont	avoir	V	V	n=p|t=P|p=3	7	aux_tps	7	aux_tps
+6	été	être	VPP	VPP	t=K	7	aux_pass	7	aux_pass
+7	relâchés	relâcher	VPP	VPP	n=p|g=m|t=K	0	root	0	root
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	afin	_	ADV	ADV		7	mod	7	mod
+10	qu'	que	CS	CS		7	mod	7	mod
+11	ils	ils	CLS	CLS	n=p|g=m|p=3	13	suj	13	suj
+12	se	se	CLR	CLR	n=p,s|p=3	13	aff	13	aff
+13	réhabituent	réhabituer	V	V	n=p|t=P,S|p=3	10	sub	10	sub
+14	à	à	P	P		13	mod	13	mod
+15	la	la	DET	DET	n=s|g=f	16	det	16	det
+16	vie	vie	NC	NC	n=s|g=f	14	prep	14	prep
+17	dans	dans	P	P		13	mod	13	mod
+18	la	la	DET	DET	n=s|g=f	19	det	19	det
+19	nature	nature	NC	NC	n=s|g=f	17	prep	17	prep
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	afin	_	ADV	ADV		13	mod	13	mod
+22	qu'	que	CS	CS		13	mod	13	mod
+23	on	on	CLS	CLS	n=s|p=3	24	suj	24	suj
+24	puisse	pouvoir	VS	VS	n=s|t=S|p=1,3	22	sub	22	sub
+25	peut-être	peut-être	ADV	ADV		24	mod	24	mod
+26	un	un	DET	DET	n=s|g=m	27	det	27	det
+27	jour	jour	NC	NC	n=s|g=m	24	obj	24	obj
+28	les	les	CLO	CLO	n=p|p=3	29	obj	29	obj
+29	relâcher	relâcher	VINF	VINF	t=W	24	obj	24	obj
+30	hors	hors	P	P		29	mod	29	mod
+31	d'	de	P	P		30	prep	30	prep
+32	une	une	DET	DET	n=s|g=f	33	det	33	det
+33	réserve	réserve	NC	NC	n=s|g=f	31	prep	31	prep
+34	,	,	PONCT	PONCT		33	ponct	33	ponct
+35	dans	dans	P	P		29	mod	29	mod
+36	leur	leur	DET	DET	n=s|p=3|poss=p	37	det	37	det
+37	milieu	milieu	NC	NC	n=s|g=m	35	prep	35	prep
+38	naturel	naturel	ADJ	ADJ	n=s|g=m	37	mod	37	mod
+39	,	,	PONCT	PONCT		38	ponct	38	ponct
+40	en	en	P	P		29	mod	29	mod
+41	Chine	Chine	NPP	NPP	n=s|g=f	40	prep	40	prep
+42	.	.	PONCT	PONCT		41	ponct	41	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	tigre	tigre	NC	NC	n=s|g=m	3	suj	3	suj
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	un	un	DET	DET	n=s|g=m	5	det	5	det
+5	symbole	symbole	NC	NC	n=s|g=m	3	obj	3	obj
+6	très	très	ADV	ADV		7	mod	7	mod
+7	important	important	ADJ	ADJ	n=s|g=m	5	mod	5	mod
+8	en	en	P	P		3	mod	3	mod
+9	Chine	Chine	NPP	NPP	n=s|g=f	8	prep	8	prep
+10	;	;	PONCT	PONCT		9	ponct	9	ponct
+11	c'	ce	CLS	CLS		12	suj	12	suj
+12	est	être	V	V	n=s|t=P|p=3	3	mod	3	mod
+13	l'	le	DET	DET	n=s	14	det	14	det
+14	un	un	PRO	PRO	n=s|g=m	12	obj	12	obj
+15	des	de	P+D	P+D	n=p	14	dep	14	dep
+16	douze	douze	ADJ	ADJ	s=card|n=p	17	mod	17	mod
+17	signes	signe	NC	NC	n=p|g=m	15	prep	15	prep
+18	du	de	P+D	P+D	n=s|g=m	17	dep	17	dep
+19	zodiaque	zodiaque	NC	NC	n=s|g=m	18	prep	18	prep
+20	chinois	chinois	ADJ	ADJ	g=m	19	mod	19	mod
+21	.	.	PONCT	PONCT		20	ponct	20	ponct
+
+1	C'	ce	CLS	CLS		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	l'	le	DET	DET	n=s	4	det	4	det
+4	une	un	PRO	PRO	n=s|g=f	2	ats	2	ats
+5	des	de	P+D	P+D	n=p	4	dep	4	dep
+6	raisons	raison	NC	NC	n=p|g=f	5	prep	5	prep
+7	pour	pour	P	P		2	mod	2	mod
+8	lesquelles	lequel	PROREL	PROREL	n=p|g=f	13	mod	13	mod
+9	il	il	CLS	CLS	n=s|g=m|p=3	13	suj	13	suj
+10	a	avoir	V	V	n=s|t=P|p=3	13	aux_tps	13	aux_tps
+11	été	être	VPP	VPP	t=K	13	aux_pass	13	aux_pass
+12	très	très	ADV	ADV		13	mod	13	mod
+13	représenté	représenter	VPP	VPP	n=s|g=m|t=K	2	mod	2	mod
+14	dans	dans	P	P		13	mod	13	mod
+15	l'	le	DET	DET	n=s	16	det	16	det
+16	art	art	NC	NC	n=s|g=m	14	prep	14	prep
+17	chinois	chinois	ADJ	ADJ	g=m	16	mod	16	mod
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	baume	baume	NC	NC	n=s	5	suj	5	suj
+3	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+4	tigre	tigre	NC	NC	n=s|g=m	3	prep	3	prep
+5	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+6	une	une	DET	DET	n=s|g=f	7	det	7	det
+7	pommade	pommade	NC	NC	n=s|g=f	5	obj	5	obj
+8	à	à	P	P		5	mod	5	mod
+9	base	base	NC	NC	n=s|g=f	8	prep	8	prep
+10	de	de	P	P		5	mod	5	mod
+11	plantes	plante	NC	NC	n=p|g=f	10	prep	10	prep
+12	(	(	PONCT	PONCT		11	ponct	11	ponct
+13	et	et	CC	CC		5	coord	5	coord
+14	qui	qui	PROREL	PROREL	n=s	16	suj	16	suj
+15	ne	ne	ADV	ADV		16	mod	16	mod
+16	contient	contenir	V	V	n=s|t=P|p=3	13	dep_coord	13	dep_coord
+17	pas	pas	ADV	ADV		16	mod	16	mod
+18	de	de	P	P		16	mod	16	mod
+19	tigre	tigre	NC	NC	n=s|g=m	18	prep	18	prep
+20	!	!	PONCT	PONCT		19	ponct	19	ponct
+21	)	)	PONCT	PONCT		19	ponct	19	ponct
+22	,	,	PONCT	PONCT		19	ponct	19	ponct
+23	inventée	inventer	VPP	VPP	n=s|g=f|t=K	16	mod	16	mod
+24	et	et	CC	CC		23	coord	23	coord
+25	fabriquée	fabriquer	VPP	VPP	n=s|g=f|t=K	24	dep_coord	24	dep_coord
+26	à	à	P	P		23	mod	23	mod
+27	Singapour	Singapour	NPP	NPP	n=s|g=m	26	prep	26	prep
+28	.	.	PONCT	PONCT		27	ponct	27	ponct
+

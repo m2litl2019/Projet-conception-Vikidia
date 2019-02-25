@@ -11,17 +11,17 @@
 commentaire version : compte les modifieurs des NC (mais il n'y a pas encore accès aux coordonnés de ces modifieurs --> mesure pas très efficace du coup car ne compte pas tous les modifieurs (s'appuie sur v2 de texteval.py que je n'ai pas modifiée a souhait total)
 """
 
-from texteval import process_file
+from texteval import load
 import pandas as pd
 import numpy as np
 
+DEBUG = False
+
 def meanFromList(liste):
     return pd.Series(liste).astype(float).mean()
-    
 
-if __name__ == '__main__':
-    data = process_file('ema.tal')
-
+def reperage_verbeconj_prorel_sub(target, debug=DEBUG):
+    data = load(target)
     svTot = 0
     proRelTot = 0
     subordTot = 0
@@ -45,20 +45,28 @@ if __name__ == '__main__':
                 listeSubord.append(word)
             elif word.pos == "NC":
                 nbMod = 0
-                for dep in sentence.getDependents(word):
+                for dep in sentence.get_dependents(word):
                     if dep.dep == "mod":
                         nbMod += 1
                 nbModNcAll.append(nbMod)
         nbSV = len(listeSV)
         nbProRel = len(listeProRel)
         nbSubord = len(listeSubord)
-    
-        print('Phrase', nb_phrase, ':', nbSV, 'verbes conjugués,', nbProRel, 'pronoms relatifs', nbSubord, 'subordonnées',positionV,"position du premier verbe")
+        if debug:
+            print('Phrase', nb_phrase, ':', nbSV, 'verbes conjugués,', nbProRel, 'pronoms relatifs', nbSubord, 'subordonnées',positionV,"position du premier verbe")
         svTot += nbSV
         proRelTot += nbProRel
         subordTot += nbSubord
         
         nb_phrase += 1
+    print('reperage_verbeconj_prorel_sub on', target)
+    print('Total phrases             :', nb_phrase)
+    print('Verbes conjugués          :', svTot)
+    print('Pronoms relatifs          :', proRelTot)
+    print('Subordonnées              :', subordTot)
+    print('Moyenne V1                :', meanFromList(positionsV))
+    print('Moyenne modifieurs par NC :', meanFromList(nbModNcAll))
 
-    print('Total :', nb_phrase, 'phrases,', svTot, 'verbes conjugués,', proRelTot, 'pronoms relatifs et', subordTot, 'subordonnées.',meanFromList(positionsV),"moyenne position V1",meanFromList(nbModNcAll),"moyenne modifieurs par NC")
-    
+
+if __name__ == '__main__':
+    reperage_verbeconj_prorel_sub('ema.tal', debug=DEBUG)
