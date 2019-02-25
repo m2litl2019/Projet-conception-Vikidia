@@ -183,6 +183,9 @@ class Word:
     def __repr__(self):
         return str(self)
 
+    def get_dependents(self):
+        return self.sentence.get_dependents(self)
+
 
 #-----------------------------------------------------------
 # Convert Talismane output to the datamodel
