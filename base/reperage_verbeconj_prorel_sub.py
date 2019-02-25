@@ -46,8 +46,11 @@ def reperage_verbeconj_prorel_sub(target, debug=DEBUG):
             elif word.pos == "NC":
                 nbMod = 0
                 for dep in sentence.get_dependents(word):
-                    if dep.dep == "mod":
+                    if dep.dep.startswith("mod"):
                         nbMod += 1
+                        print(dep.dep,dep.form)
+                        for coord in dep.coords:
+                            nbMod += 1
                 nbModNcAll.append(nbMod)
         nbSV = len(listeSV)
         nbProRel = len(listeProRel)
