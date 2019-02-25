@@ -1,0 +1,597 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="fr" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Chat - Vikidia, l’encyclopédie des 8-13 ans</title>
+<script type="3fe92a7f52078fbe50532a20-text/javascript">document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script type="3fe92a7f52078fbe50532a20-text/javascript">(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Chat","wgTitle":"Chat","wgCurRevisionId":1199641,"wgRevisionId":1199641,"wgArticleId":125343,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Super article","Portail:animaux/Pages liées","Article de la semaine 2019","Portail:Félins/Pages liées","Page semi-protégée","Chat","Animal domestique","Animal par ordre alphabétique","Animal de compagnie","Espèce invasive"],"wgBreakFrames":false,"wgPageContentLanguage":"fr","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"],"wgMonthNamesShort":["","jan","fév","mar","avr","mai","juin","juil","août","sep","oct","nov","déc"],"wgRelevantPageName":"Chat","wgRelevantArticleId":125343,"wgRequestId":"ba82c14f6dc12878d3d7e291","wgIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["sysop"],"wgVisualEditor":{"pageLanguageCode":"fr","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":false},"wgWikiEditorEnabledModules":{"toolbar":true,"preview":true,"publish":false},"wgPreferredVariant":"fr","wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1x2qlv5",function($,jQuery,require,module){mw.user.options.set({"variant":"fr"});});mw.loader.implement("user.tokens@091j2g3",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.gadget.InviteDiscussion","ext.gadget.Edittools","mmv.head","mmv.bootstrap.autostart","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="//download.vikidia.org/fr.vikidia.org/load.php?debug=false&amp;lang=fr&amp;modules=ext.cite.styles%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="//download.vikidia.org/fr.vikidia.org/load.php?debug=false&amp;lang=fr&amp;modules=startup&amp;only=scripts&amp;skin=vector" type="3fe92a7f52078fbe50532a20-text/javascript"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="//download.vikidia.org/fr.vikidia.org/load.php?debug=false&amp;lang=fr&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.2"/>
+<link rel="shortcut icon" href="//download.vikidia.org/vikidia/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Vikidia (fr)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://fr.vikidia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Flux Atom de Vikidia" href="/w/index.php?title=Sp%C3%A9cial:Modifications_r%C3%A9centes&amp;feed=atom"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Chat rootpage-Chat skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="fr">Chat</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">« Chat » expliqué aux enfants par Vikidia, l’encyclopédie junior</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Aller à :					<a href="#mw-head">navigation</a>, 					<a href="#p-search">rechercher</a>
+				</div>
+				<div id="mw-content-text" lang="fr" dir="ltr" class="mw-content-ltr"><div style="float:right;margin-top:1em;" class="icone_de_titre"><span title="Vous lisez un «&#160;Super Article&#160;»."><a href="https://fr.vikidia.org/wiki/Vikidia:SA" rel="nofollow"><img alt="Vous lisez un «&#160;Super Article&#160;»." src="//download.vikidia.org/vikidia/fr/images/thumb/b/ba/Icone_%C3%A9toile.png/30px-Icone_%C3%A9toile.png" width="30" height="30" srcset="//download.vikidia.org/vikidia/fr/images/thumb/b/ba/Icone_%C3%A9toile.png/45px-Icone_%C3%A9toile.png 1.5x, //download.vikidia.org/vikidia/fr/images/thumb/b/ba/Icone_%C3%A9toile.png/60px-Icone_%C3%A9toile.png 2x" data-file-width="512" data-file-height="512" /></a></span></div>
+<div style="margin-bottom: 5px; padding-bottom: 5px; text-indent: 30px; border-bottom: 1px solid #AAA;"><img alt="Super article" src="//download.vikidia.org/vikidia/fr/images/thumb/b/ba/Icone_%C3%A9toile.png/20px-Icone_%C3%A9toile.png" title="Super article" width="20" height="20" srcset="//download.vikidia.org/vikidia/fr/images/thumb/b/ba/Icone_%C3%A9toile.png/30px-Icone_%C3%A9toile.png 1.5x, //download.vikidia.org/vikidia/fr/images/thumb/b/ba/Icone_%C3%A9toile.png/40px-Icone_%C3%A9toile.png 2x" data-file-width="512" data-file-height="512" /> <i>Tu lis un «&#160;<a href="/wiki/Vikidia:Super_article" title="Vikidia:Super article">super article</a>&#160;».</i></div>
+<div style="margin-bottom: 5px; padding-bottom: 5px; text-indent: 30px; border-bottom: 1px solid #AAA;"><img alt="Voir les articles homonymes" src="//download.vikidia.org/vikidia/fr/images/thumb/a/aa/Icone_homonymie.svg/20px-Icone_homonymie.svg.png" title="Voir les articles homonymes" width="20" height="15" srcset="//download.vikidia.org/vikidia/fr/images/thumb/a/aa/Icone_homonymie.svg/30px-Icone_homonymie.svg.png 1.5x, //download.vikidia.org/vikidia/fr/images/thumb/a/aa/Icone_homonymie.svg/40px-Icone_homonymie.svg.png 2x" data-file-width="272" data-file-height="200" /> <i>Attention, à ne pas confondre&#160;! Pour les sujets ou articles dits <a href="/wiki/Aide:Page_d%27homonymie" title="Aide:Page d'homonymie">homonymes</a>, voir&#160;: <b><a href="/wiki/Chat_(homonymie)" class="mw-disambig" title="Chat (homonymie)">Chat (homonymie)</a></b>.</i></div>
+<table class="toccolours" style="float: right; width: 25%; margin-left: 1em; margin-bottom: 1em; border-right-width: 2px; border-bottom-width: 2px; -moz-border-radius: 1em; -webkit-border-radius: 1em; font-size: 90%; float:right; clear:right;">
+<tr>
+<th colspan="2" style="background-color: #74A9E4; border-radius: 30px; -moz-border-radius: 0.5em; -webkit-border-radius: 0.5em; color: white; font-size: 1.5em; line-height: 1.5em;text-align:center"><i>Felis silvestris catus</i></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center;"><a href="/wiki/Fichier:Collage_of_Six_Cats-02.jpg" class="image"><img alt="Collage of Six Cats-02.jpg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Collage_of_Six_Cats-02.jpg/240px-Collage_of_Six_Cats-02.jpg" width="240" height="238" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Collage_of_Six_Cats-02.jpg/360px-Collage_of_Six_Cats-02.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Collage_of_Six_Cats-02.jpg/480px-Collage_of_Six_Cats-02.jpg 2x" data-file-width="1824" data-file-height="1812" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="border-bottom: 2px solid #74A9E4;" />
+</tr>
+
+
+<tr>
+<th scope="row" style="text-align: left; vertical-align: top; border: solid #AAAAAA; border-width: 0px 1px 1px 0px;"><a href="/wiki/Classification_classique" title="Classification classique">Classification</a></th>
+<td style="vertical-align: top; border: solid #AAAAAA; border-width: 0px 1px 1px 0px; border-radius: 0px 8px 0px 0px;"><a href="/wiki/F%C3%A9lin" title="Félin">Felidae</a>, sous-famille <a href="/wiki/F%C3%A9lin%C3%A9" title="Féliné">Felinae</a></td>
+</tr>
+
+<tr>
+<th scope="row" style="text-align: left; vertical-align: top; border: solid #AAAAAA; border-width: 0px 1px 1px 0px;">Milieu de vie</th>
+<td style="vertical-align: top; border: solid #AAAAAA; border-width: 0px 1px 1px 0px; border-radius: 0px 8px 0px 0px;">Ville</td>
+</tr>
+<tr>
+<td colspan="2" style="border-bottom: 2px solid #74A9E4;" />
+</tr>
+<tr>
+<th scope="row" style="text-align: left; vertical-align: top; border: solid #AAAAAA; border-width: 0px 1px 1px 0px;">Taille</th>
+<td style="vertical-align: top; border: solid #AAAAAA; border-width: 0px 1px 1px 0px; border-radius: 0px 8px 0px 0px;">66 cm à 77 cm (queue comprise)</td>
+</tr>
+<tr>
+<th scope="row" style="text-align: left; vertical-align: top; border: solid #AAAAAA; border-width: 0px 1px 1px 0px;">Poids</th>
+<td style="vertical-align: top; border: solid #AAAAAA; border-width: 0px 1px 1px 0px; border-radius: 0px 8px 0px 0px;">2 à 6 kg en moyenne (dépend des races)</td>
+</tr>
+<tr>
+<th scope="row" style="text-align: left; vertical-align: top; border: solid #AAAAAA; border-width: 0px 1px 1px 0px;">Longévité</th>
+<td style="vertical-align: top; border: solid #AAAAAA; border-width: 0px 1px 1px 0px; border-radius: 0px 8px 0px 0px;">12 à 18 ans (dépend des races)</td>
+</tr>
+<tr>
+<th scope="row" style="text-align: left; vertical-align: top; border: solid #AAAAAA; border-width: 0px 1px 1px 0px;">Reproduction</th>
+<td style="vertical-align: top; border: solid #AAAAAA; border-width: 0px 1px 1px 0px; border-radius: 0px 8px 0px 0px;">4 ou 5 chatons en moyenne</td>
+</tr>
+
+<tr>
+<th scope="row" style="text-align: left; vertical-align: top; border: solid #AAAAAA; border-width: 0px 1px 1px 0px;"><a href="/wiki/R%C3%A9gime_alimentaire" title="Régime alimentaire">Régime alimentaire</a></th>
+<td style="vertical-align: top; border: solid #AAAAAA; border-width: 0px 1px 1px 0px; border-radius: 0px 8px 0px 0px;"><a href="/wiki/Carnivore" title="Carnivore">Carnivore</a></td>
+</tr>
+
+
+
+
+<tr>
+<td colspan="2" style="border-bottom: 2px solid #74A9E4;" />
+</tr>
+<tr>
+<td colspan="2" style="text-align: center;"><a href="/wiki/Fichier:Catskull.jpg" class="image" title="Un crâne de chat"><img alt="Un crâne de chat" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Catskull.jpg/240px-Catskull.jpg" width="240" height="190" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Catskull.jpg/360px-Catskull.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Catskull.jpg/480px-Catskull.jpg 2x" data-file-width="994" data-file-height="786" /></a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center; font-size: 90%;">Un crâne de chat</td>
+</tr>
+<tr>
+<td colspan="2" style="border-bottom: 2px solid #74A9E4;" />
+</tr>
+<tr style="font-size: 90%;">
+<td class="plainlinks"><a rel="nofollow" class="external text" href="https://fr.vikidia.org/w/index.php?title=Chat&amp;action=edit&amp;section=0">Modifier</a></td>
+<td style="text-align: right;"><span class="plainlinks"><a href="/wiki/Mod%C3%A8le:Bo%C3%AEte_animal" title="Modèle:Boîte animal">voir modèle</a>&#160;&#8226; <a rel="nofollow" class="external text" href="https://fr.vikidia.org/w/index.php?title=Mod%C3%A8le:Bo%C3%AEte_animal&amp;action=edit">modifier</a></span></td></tr></table>
+<p>Le <b>chat domestique</b> (<a href="/wiki/Nom_scientifique" title="Nom scientifique">nom scientifique</a>&#160;: <i>Felis silvestris catus</i>)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup> est un <a href="/wiki/Mammif%C3%A8re" title="Mammifère">mammifère</a> <a href="/wiki/Carnivore" title="Carnivore">carnivore</a> de la famille des <a href="/wiki/F%C3%A9lid%C3%A9" class="mw-redirect" title="Félidé">félidés</a>. C'est le seul félin <a href="/wiki/Domestication" title="Domestication">domestiqué</a>; il conserve tout de même son caractère sauvage beaucoup plus qu'un chien. Appelé <i>chatte</i> dans le cas des femelles, le chat est un <a href="/wiki/Carnivore" title="Carnivore">carnivore</a> qui mange de petits <a href="/wiki/Rongeurs" class="mw-redirect" title="Rongeurs">rongeurs</a> (<a href="/wiki/Souris" class="mw-disambig" title="Souris">souris</a>, <a href="/wiki/Mulot" title="Mulot">mulots</a>) et des <a href="/wiki/Oiseau" title="Oiseau">oiseaux</a>. Les chats sont de grands dormeurs&#160;: les jeunes chats, appelés <i>chatons</i>, dorment jusqu'à 16 heures par jour.
+</p>
+<div id="toc" class="toc"><div id="toctitle" class="toctitle"><h2>Sommaire</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Sens"><span class="tocnumber">1.1</span> <span class="toctext">Sens</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Races"><span class="tocnumber">1.2</span> <span class="toctext">Races</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Robes"><span class="tocnumber">1.3</span> <span class="toctext">Robes</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Locomotion"><span class="tocnumber">1.4</span> <span class="toctext">Locomotion</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Comportements"><span class="tocnumber">2</span> <span class="toctext">Comportements</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Territoire"><span class="tocnumber">2.1</span> <span class="toctext">Territoire</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Reproduction"><span class="tocnumber">2.2</span> <span class="toctext">Reproduction</span></a>
+<ul>
+<li class="toclevel-3 tocsection-9"><a href="#Gestation_de_la_chatte"><span class="tocnumber">2.2.1</span> <span class="toctext">Gestation de la chatte</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#Prolif.C3.A9ration_du_chat"><span class="tocnumber">2.2.2</span> <span class="toctext">Prolifération du chat</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Le_chat_au_fil_du_temps"><span class="tocnumber">3</span> <span class="toctext">Le chat au fil du temps</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Alimentation"><span class="tocnumber">4</span> <span class="toctext">Alimentation</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Expressions"><span class="tocnumber">5</span> <span class="toctext">Expressions</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Le_chat_dans_la_culture"><span class="tocnumber">6</span> <span class="toctext">Le chat dans la culture</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Voir_aussi"><span class="tocnumber">7</span> <span class="toctext">Voir aussi</span></a>
+<ul>
+<li class="toclevel-2 tocsection-16"><a href="#Liens_internes"><span class="tocnumber">7.1</span> <span class="toctext">Liens internes</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Lien_externes"><span class="tocnumber">7.2</span> <span class="toctext">Lien externes</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-18"><a href="#Notes_et_r.C3.A9f.C3.A9rences"><span class="tocnumber">8</span> <span class="toctext">Notes et références</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Description">Description</span></h2>
+<p>Un chat pèse en moyenne entre 2 à <span class="nowrap">6&#160;kg</span> et mesure 46 à <span class="nowrap">51&#160;cm</span> sans la queue, qui, elle, mesure en moyenne 20 à <span class="nowrap">25&#160;cm</span>. Ses <a href="/wiki/Griffe" title="Griffe">griffes</a> rétractiles peuvent rentrer et sortir à tout moment. Il a en tout 18 <a href="/wiki/Griffe" title="Griffe">griffes</a>&#160;: 5 sur chacune de ses pattes avant et 4 sur chacune de ses pattes arrières. 
+</p><p>Le chat vit couramment 15 ou 16 ans, mais on a vu des chats vivre jusqu'à 20 ans et plus. Le plus vieux chat jamais enregistré, <a href="/wiki/Creme_Puff" title="Creme Puff">Creme Puff</a>, est mort à 38 ans et 3 jours.
+</p>
+<h3><span class="mw-headline" id="Sens">Sens</span></h3>
+<p>Ses <a href="/wiki/Sens" title="Sens">sens</a> sont très aiguisés. La nuit, ses pupilles sont beaucoup plus dilatées que le jour. Contrairement à ce que l'on croit, les chats ne peuvent pas voir dans l'obscurité totale, ils ont besoin d'un minimum de lumière. Il possède une <a href="/wiki/Ou%C3%AFe" title="Ouïe">ouïe</a> remarquable. On dit qu'il a une bonne <a href="/wiki/M%C3%A9moire" title="Mémoire">mémoire</a>, et qu'il serait doté d'un sixième sens lui permettant notamment de parcourir des kilomètres pour retrouver sa maison. Quand il tombe, il retombe presque toujours sur les pattes, sauf si celui-ci tombe d'une hauteur inférieure à deux mètres.
+</p>
+<h3><span class="mw-headline" id="Races">Races</span></h3>
+<p>Il existe de nombreuses <a href="/wiki/Race" title="Race">races</a> <a href="/wiki/Race_(chat)" title="Race (chat)">de chats</a>, comme l'<a href="/wiki/European_shorthair" title="European shorthair">européen</a>, le <a href="/wiki/British_shorthair" title="British shorthair">british shorthair</a>, le <a href="/wiki/Persan_(chat)" title="Persan (chat)">persan</a>, le <a href="/wiki/Siamois_(chat)" title="Siamois (chat)">siamois</a>, le <a href="/wiki/Chartreux" title="Chartreux">chartreux</a> à la robe grise et aux yeux oranges, le <a href="/wiki/Sacr%C3%A9_de_Birmanie" title="Sacré de Birmanie">sacré de Birmanie</a> aux yeux bleus et aux pattes blanches, le <a href="/wiki/Maine_coon" title="Maine coon">Maine coon</a>, le <a href="/wiki/Ragdoll" title="Ragdoll">Ragdoll</a> etc. Chacun a son caractère propre. Certains ont le poil long, d'autres le poil court, d'autres encore n'ont aucun poil<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">2</a></sup>. Le <a href="/wiki/Chat_de_goutti%C3%A8re" title="Chat de gouttière">chat de gouttière</a> est un chat non-racé, à ne pas confondre avec l'<a href="/wiki/European_shorthair" title="European shorthair">european shorthair</a> qui est une race avec des standards définis.
+</p>
+<div style="margin-bottom: 5px; text-indent: 30px;"><img alt="Pour en savoir plus" src="//download.vikidia.org/vikidia/fr/images/5/5e/Bonne_id%C3%A9e.gif" title="Pour en savoir plus" width="30" height="18" data-file-width="30" data-file-height="18" /> <i>Pour en savoir plus, lire l’article : <b><a href="/wiki/Races_de_chats" class="mw-redirect" title="Races de chats">Races de chats</a></b>.</i></div>
+<h3><span class="mw-headline" id="Robes">Robes</span></h3>
+<p>Le chat, comme le <a href="/wiki/Cheval" title="Cheval">cheval</a>, a des <a href="/wiki/Robe_(animal)" title="Robe (animal)">robes</a>.<br />
+Seulement huit couleurs sont autorisées par le <a href="/wiki/LOOF" class="mw-redirect" title="LOOF">LOOF</a> (Livre officiel des origines félines) en France.
+</p>
+<center>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/Fichier:Blackcat-Lilith.jpg" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Blackcat-Lilith.jpg/94px-Blackcat-Lilith.jpg" width="94" height="120" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Blackcat-Lilith.jpg/142px-Blackcat-Lilith.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Blackcat-Lilith.jpg/189px-Blackcat-Lilith.jpg 2x" data-file-width="473" data-file-height="600" /></a></div></div>
+			<div class="gallerytext">
+<p>Noir
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/Fichier:Korat_in_cat_show-cropped.JPG" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Korat_in_cat_show-cropped.JPG/87px-Korat_in_cat_show-cropped.JPG" width="87" height="120" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Korat_in_cat_show-cropped.JPG/131px-Korat_in_cat_show-cropped.JPG 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Korat_in_cat_show-cropped.JPG/175px-Korat_in_cat_show-cropped.JPG 2x" data-file-width="392" data-file-height="537" /></a></div></div>
+			<div class="gallerytext">
+<p>Bleu
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/Fichier:Havana_Brown_-_choco.jpg" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Havana_Brown_-_choco.jpg/103px-Havana_Brown_-_choco.jpg" width="103" height="120" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Havana_Brown_-_choco.jpg/155px-Havana_Brown_-_choco.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Havana_Brown_-_choco.jpg/207px-Havana_Brown_-_choco.jpg 2x" data-file-width="682" data-file-height="791" /></a></div></div>
+			<div class="gallerytext">
+<p>Chocolat
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/Fichier:Tamila_the_lilac_tabby_Peterbald_cat.jpg" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Tamila_the_lilac_tabby_Peterbald_cat.jpg/120px-Tamila_the_lilac_tabby_Peterbald_cat.jpg" width="120" height="120" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Tamila_the_lilac_tabby_Peterbald_cat.jpg/180px-Tamila_the_lilac_tabby_Peterbald_cat.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Tamila_the_lilac_tabby_Peterbald_cat.jpg/240px-Tamila_the_lilac_tabby_Peterbald_cat.jpg 2x" data-file-width="250" data-file-height="250" /></a></div></div>
+			<div class="gallerytext">
+<p>Lilas
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:22.5px auto;"><a href="/wiki/Fichier:Abessinier_sorrel.jpg" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Abessinier_sorrel.jpg/120px-Abessinier_sorrel.jpg" width="120" height="105" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Abessinier_sorrel.jpg/180px-Abessinier_sorrel.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Abessinier_sorrel.jpg/240px-Abessinier_sorrel.jpg 2x" data-file-width="400" data-file-height="350" /></a></div></div>
+			<div class="gallerytext">
+<p>Cannelle
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:29.5px auto;"><a href="/wiki/Fichier:Abyssinian_cat_with_amber_eyes_and_fawn_coloration.jpg" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Abyssinian_cat_with_amber_eyes_and_fawn_coloration.jpg/120px-Abyssinian_cat_with_amber_eyes_and_fawn_coloration.jpg" width="120" height="91" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Abyssinian_cat_with_amber_eyes_and_fawn_coloration.jpg/180px-Abyssinian_cat_with_amber_eyes_and_fawn_coloration.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Abyssinian_cat_with_amber_eyes_and_fawn_coloration.jpg/240px-Abyssinian_cat_with_amber_eyes_and_fawn_coloration.jpg 2x" data-file-width="1000" data-file-height="761" /></a></div></div>
+			<div class="gallerytext">
+<p>Fauve
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:30px auto;"><a href="/wiki/Fichier:Chat_mi-long.jpg" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Chat_mi-long.jpg/120px-Chat_mi-long.jpg" width="120" height="90" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Chat_mi-long.jpg/180px-Chat_mi-long.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Chat_mi-long.jpg/240px-Chat_mi-long.jpg 2x" data-file-width="534" data-file-height="400" /></a></div></div>
+			<div class="gallerytext">
+<p>Roux
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/Fichier:Persian_in_Cat_Cafe.jpg" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Persian_in_Cat_Cafe.jpg/80px-Persian_in_Cat_Cafe.jpg" width="80" height="120" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Persian_in_Cat_Cafe.jpg/120px-Persian_in_Cat_Cafe.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Persian_in_Cat_Cafe.jpg/160px-Persian_in_Cat_Cafe.jpg 2x" data-file-width="3280" data-file-height="4928" /></a></div></div>
+			<div class="gallerytext">
+<p>Crème
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:30px auto;"><a href="/wiki/Fichier:PersanBlanc.jpg" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/PersanBlanc.jpg/120px-PersanBlanc.jpg" width="120" height="90" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/PersanBlanc.jpg/180px-PersanBlanc.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/PersanBlanc.jpg/240px-PersanBlanc.jpg 2x" data-file-width="500" data-file-height="377" /></a></div></div>
+			<div class="gallerytext">
+<p>Blanc
+</p>
+			</div>
+		</div></li>
+</ul>
+</center>
+<h3><span class="mw-headline" id="Locomotion">Locomotion</span></h3>
+<p>Le chat est digitigrade et possède des coussinets. Il peut bondir sur de longues distances et sauter en hauteur jusqu'à 1 mètre 80<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">3</a></sup>. Très bon chasseur, qui a tendance à jouer avec sa proie avant de la dévorer, il est incapable de courir rapidement pendant une longue durée, mais est tout de même capable de parcourir de longues distances. Lorsqu'il tombe, le chat retombe très souvent sur ses pattes, mais pas systématiquement contrairement à la croyance populaire.
+</p>
+<div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:202px;"><a href="/wiki/Fichier:Claw.jpg" class="image"><img alt="" src="//download.vikidia.org/vikidia/fr/images/thumb/7/7e/Claw.jpg/200px-Claw.jpg" width="200" height="109" class="thumbimage" srcset="//download.vikidia.org/vikidia/fr/images/thumb/7/7e/Claw.jpg/300px-Claw.jpg 1.5x, //download.vikidia.org/vikidia/fr/images/thumb/7/7e/Claw.jpg/400px-Claw.jpg 2x" data-file-width="800" data-file-height="434" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Fichier:Claw.jpg" class="internal" title="Agrandir"></a></div>Griffes d'un chaton roux</div></div></div></div>
+<h2><span class="mw-headline" id="Comportements">Comportements</span></h2>
+<p>Les chats ont généralement une nature indépendante, mais elle varie selon les races (le siamois est très bavard, tandis que d’autres races sont plutôt calmes) et les conditions dans lesquelles le chat a été élevé. Ils se promènent seuls, contrairement aux chiens (pour le leur permettre, on installe parfois une <a href="/wiki/Chati%C3%A8re" title="Chatière">chatière</a> sur la porte). Cet animal aime bien les situations qui se répètent (par exemple, heures fixes pour les repas). Bien que territorial, le chat est un animal social, bon nombre de <a href="/wiki/Chat_haret" title="Chat haret">chats harets</a> vivant en groupe.
+</p><p>Bien que possédant un caractère indépendant, il aime la compagnie des humains et a ses préférences&#160;: il est généralement très affectueux et avide de caresses, mais si vous sentez qu'il s'agite pendant que vous le caressez, n'insistez pas, il pourrait vous griffer.
+</p><p>Le chat miaule s'il a mal ou s'il y a un danger, ronronne lorsqu'il est ému, et griffe lorsqu'on l'embête ou bien pour chasser.
+</p><p>Le chat se lave avec sa <a href="/wiki/Salive" title="Salive">salive</a>, qui rend leur fourrure un peu plus imperméable. C'est pour cela que beaucoup de personnes sont dites <a href="/wiki/Allergie" title="Allergie">allergiques</a> aux poils de chat alors qu'en vérité, ces personnes sont allergiques à la salive des chats.
+</p>
+<table style="width: 90%; margin: auto; margin-bottom: 0.5em; background-color: transparent;" cellpadding="0" cellspacing="0">
+<tr>
+<td colspan="2">
+</td>
+<td rowspan="2" style="width: 187px; height: 37px; vertical-align: top; background:#ffddff; border: 1px solid #BE66CC; border-bottom: 0;"><a href="/wiki/Fichier:Le_savais-tu.png" class="image"><img alt="Le savais-tu.png" src="//download.vikidia.org/vikidia/fr/images/7/7a/Le_savais-tu.png" width="187" height="37" data-file-width="187" data-file-height="37" /></a><div style="margin-top:-33px; padding-left:43px"> <span style="font-size: 150%;">Le savais-tu&#160;?</span></div>
+</td></tr>
+<tr>
+<td style="width:1px; border-bottom:1px solid #BE66CC">
+</td>
+<td style="-moz-border-radius-topright:5em; border-top-right-radius:5em; border:1px solid #BE66CC; background:#ffddff; border-bottom:1px dotted #BE66CC; text-align:center; font-size:95%; width:90%; padding-left: 5px;"> <b><span style="font-size: 150%;">S'étirer pour la santé</span></b>
+</td></tr>
+<tr>
+<td colspan="3" style="z-index:0;padding:2px; background:#FFeeFF; border:1px solid #BE66CC; border-top:0; border-bottom:1" width="50%" valign="top"> Un chat s'étire toujours avant de se lever. Se lever promptement est mauvais pour la santé, en particulier pour le cœur. Cela vaut aussi pour les humains.
+</td></tr></table>
+<h3><span class="mw-headline" id="Territoire">Territoire</span></h3>
+<p>C'est un animal qui s'approprie un territoire&#160;: le chat est chez lui et vous êtes son hôte et non l'inverse. 
+Pour marquer son territoire, il griffe différentes choses, et urine sur ce qu'il souhaite marquer. Pour faire sa toilette, le chat utilise sa <a href="/wiki/Langue" title="Langue">langue</a>, qui est très râpeuse&#160;: quand il se lèche, des poils morts s'accrochent à sa langue.
+</p>
+<h3><span class="mw-headline" id="Reproduction">Reproduction</span></h3>
+<h4><span class="mw-headline" id="Gestation_de_la_chatte">Gestation de la chatte</span></h4>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/Fichier:SqueletteChatChauveau1990.jpg" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SqueletteChatChauveau1990.jpg/200px-SqueletteChatChauveau1990.jpg" width="200" height="117" class="thumbimage" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SqueletteChatChauveau1990.jpg/300px-SqueletteChatChauveau1990.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SqueletteChatChauveau1990.jpg/400px-SqueletteChatChauveau1990.jpg 2x" data-file-width="1148" data-file-height="671" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Fichier:SqueletteChatChauveau1990.jpg" class="internal" title="Agrandir"></a></div>Squelette de chat</div></div></div>
+<p>La gestation de la chatte dure en moyenne 63 jours<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">4</a></sup>. La chatte s'agite une semaine avant la mise bas. Les contractions sont de plus en plus rapprochées et au bout de 15 minutes environ apparaît le premier chaton. Ensuite, un chaton naît toutes les 10 à 50 minutes.
+</p><p>Généralement, la chatte perce la poche dans laquelle naît le chaton (le <a href="/wiki/Placenta" title="Placenta">placenta</a>), puis coupe le cordon ombilical à l'aide de ses dents. La chatte mange le placenta qui est bon pour son organisme et lui permet de reprendre des forces, il faut donc la laisser faire.
+</p><p>Il est fortement conseillé de toucher au minimum les petits pendant quelques jours pour éviter que la mère ne les rejette. Si la mère ne s'occupe pas de ses petits, c'est qu'ils ne sont pas viables, qu'ils sont mal formés. Les petits sont très fragiles.
+</p><p>Chez les chats, il n'y a pas de période de reproduction&#160;: ils se reproduisent quand ils le veulent. Une chatte accouche en moyenne de 4 à 5 chatons, mais cela peut atteindre 8 dans quelques rares portées et le record mondial est de <span style="cursor:help;border-bottom:1px dotted black;" title="dont 4 morts-nés">19 chatons<span style="position:relative; top:-0.3em;"><img alt="" src="//download.vikidia.org/vikidia/fr/images/thumb/9/9f/Interrogation.svg/12px-Interrogation.svg.png" width="12" height="12" srcset="//download.vikidia.org/vikidia/fr/images/thumb/9/9f/Interrogation.svg/18px-Interrogation.svg.png 1.5x, //download.vikidia.org/vikidia/fr/images/thumb/9/9f/Interrogation.svg/24px-Interrogation.svg.png 2x" data-file-width="233" data-file-height="233" /></span></span>. Un chaton est sevré entre 2 et 3 mois. 
+</p>
+<table style="width: 90%; margin: auto; margin-bottom: 0.5em; background-color: transparent;" cellpadding="0" cellspacing="0">
+<tr>
+<td colspan="2">
+</td>
+<td rowspan="2" style="width: 187px; height: 37px; vertical-align: top; background:#ffddff; border: 1px solid #BE66CC; border-bottom: 0;"><a href="/wiki/Fichier:Le_savais-tu.png" class="image"><img alt="Le savais-tu.png" src="//download.vikidia.org/vikidia/fr/images/7/7a/Le_savais-tu.png" width="187" height="37" data-file-width="187" data-file-height="37" /></a><div style="margin-top:-33px; padding-left:43px"> <span style="font-size: 150%;">Le savais-tu&#160;?</span></div>
+</td></tr>
+<tr>
+<td style="width:1px; border-bottom:1px solid #BE66CC">
+</td>
+<td style="-moz-border-radius-topright:5em; border-top-right-radius:5em; border:1px solid #BE66CC; background:#ffddff; border-bottom:1px dotted #BE66CC; text-align:center; font-size:95%; width:90%; padding-left: 5px;"> <b><span style="font-size: 150%;">Croissance du chat</span></b>
+</td></tr>
+<tr>
+<td colspan="3" style="z-index:0;padding:2px; background:#FFeeFF; border:1px solid #BE66CC; border-top:0; border-bottom:1" width="50%" valign="top"> Il est mauvais de réveiller un chaton de sa sieste, car cela peut ralentir sa croissance.
+</td></tr></table>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/Fichier:Chaton.jpg" class="image"><img alt="" src="//download.vikidia.org/vikidia/fr/images/thumb/9/9e/Chaton.jpg/200px-Chaton.jpg" width="200" height="133" class="thumbimage" srcset="//download.vikidia.org/vikidia/fr/images/thumb/9/9e/Chaton.jpg/300px-Chaton.jpg 1.5x, //download.vikidia.org/vikidia/fr/images/thumb/9/9e/Chaton.jpg/400px-Chaton.jpg 2x" data-file-width="1061" data-file-height="708" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Fichier:Chaton.jpg" class="internal" title="Agrandir"></a></div>Un chaton âgé de six semaines</div></div></div>
+<h4><span class="mw-headline" id="Prolif.C3.A9ration_du_chat">Prolifération du chat</span></h4>
+<p>Le chat est très prolifique&#160;! Avec au départ deux chats il est possible que&#160;:
+</p>
+<ul><li> En un an il y ait 3 portées, environ 12 chatons.</li>
+<li> En deux ans il y ait environ 56 chats.</li>
+<li> En trois ans il y ait environ 266 chats.</li>
+<li> Et qu'en 4 ans il y ait environ 1 230 chats&#160;!</li></ul>
+<p>La <a href="/w/index.php?title=St%C3%A9rilisation&amp;action=edit&amp;redlink=1" class="new" title="Stérilisation (page inexistante)">stérilisation</a> permet donc d'éviter de se retrouver avec une plutôt grande famille<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">5</a></sup>. La pilule pour chatte permet aussi d'éviter une grossesse, cependant des risques existent. 
+</p>
+<h2><span class="mw-headline" id="Le_chat_au_fil_du_temps">Le chat au fil du temps</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/Fichier:Bastet.png" class="image"><img alt="" src="//download.vikidia.org/vikidia/fr/images/thumb/3/34/Bastet.png/200px-Bastet.png" width="200" height="276" class="thumbimage" srcset="//download.vikidia.org/vikidia/fr/images/thumb/3/34/Bastet.png/300px-Bastet.png 1.5x, //download.vikidia.org/vikidia/fr/images/thumb/3/34/Bastet.png/400px-Bastet.png 2x" data-file-width="1363" data-file-height="1881" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Fichier:Bastet.png" class="internal" title="Agrandir"></a></div>Une représentation de la déesse Bastet</div></div></div>
+<p>Dans l'<a href="/wiki/%C3%89gypte_antique" class="mw-redirect" title="Égypte antique">Égypte antique</a>, les chats chassaient les rongeurs des greniers de ce peuple d'agriculteurs. Ils étaient vénérés et, à leur mort, étaient parfois <a href="/wiki/Momification" title="Momification">momifiés</a>. <a href="/wiki/Bastet" title="Bastet">Bastet</a>, déesse du foyer, était représentée sous la forme d'un chat.
+</p><p>Au <a href="/wiki/Moyen_%C3%82ge" title="Moyen Âge">Moyen Âge</a>, les chats étaient redoutés et détestés. En raison de leurs habitudes nocturnes, on les soupçonnait de fréquenter le <a href="/wiki/Diable" title="Diable">diable</a>. La rumeur qui prétendait qu'ils étaient les compagnons des <a href="/wiki/Sorci%C3%A8re" title="Sorcière">sorcières</a> leur valait d’être l’objet de nombreuses cruautés.
+</p><p>Puis, pendant la période moderne, le chat est réhabilité. Au <a href="/wiki/Japon" title="Japon">Japon</a>, par exemple, le chat est un porte-bonheur&#160;: des talismans représentent un chat avec la patte derrière l'oreille. Les chats, dit-on, peuvent prévoir les séismes.
+</p>
+<div style="margin-bottom: 5px; text-indent: 30px;"><img alt="Pour en savoir plus" src="//download.vikidia.org/vikidia/fr/images/5/5e/Bonne_id%C3%A9e.gif" title="Pour en savoir plus" width="30" height="18" data-file-width="30" data-file-height="18" /> <i>Pour en savoir plus, lire l’article : <b><a href="/wiki/Chat_dans_l%27%C3%89gypte_antique" title="Chat dans l'Égypte antique">Chat dans l'Égypte antique</a></b>.</i></div>
+<h2><span class="mw-headline" id="Alimentation">Alimentation</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/Fichier:Tmurakam_-_IMG_1878_(by).jpg" class="image"><img alt="" src="//download.vikidia.org/vikidia/fr/images/thumb/8/86/Tmurakam_-_IMG_1878_%28by%29.jpg/200px-Tmurakam_-_IMG_1878_%28by%29.jpg" width="200" height="150" class="thumbimage" srcset="//download.vikidia.org/vikidia/fr/images/thumb/8/86/Tmurakam_-_IMG_1878_%28by%29.jpg/300px-Tmurakam_-_IMG_1878_%28by%29.jpg 1.5x, //download.vikidia.org/vikidia/fr/images/thumb/8/86/Tmurakam_-_IMG_1878_%28by%29.jpg/400px-Tmurakam_-_IMG_1878_%28by%29.jpg 2x" data-file-width="800" data-file-height="600" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Fichier:Tmurakam_-_IMG_1878_(by).jpg" class="internal" title="Agrandir"></a></div>Le chat dort jusqu'à 16 heures par jour.</div></div></div>
+<p>De nos jours, les chats domestiques (dans les pays développés) mangent des croquettes ou des aliments en conserve. Il est courant que dans les <a href="/w/index.php?title=Pays_en_d%C3%A9veloppement&amp;action=edit&amp;redlink=1" class="new" title="Pays en développement (page inexistante)">pays en voie de développement</a>, les chats domestiques, soient nourris des restes alimentaires.
+</p><p>Attention, malgré l'idée répandue, donner du lait au chat est mauvais pour lui. En effet, il ne peut pas le digérer. Toute gourmandise est mauvaise pour le chat. D'autres aliments, comme le chocolat ou l'oignon sont très toxiques pour le chat. En liberté, le chat peut manger des grenouilles, des souris, des oiseaux, de petits insectes...
+</p>
+<h2><span class="mw-headline" id="Expressions">Expressions</span></h2>
+<table style="margin-top: 6px; margin-bottom: 10px; float: right; border-left: 4px solid #F96; width: 25%; clear: right; background: #FFC; border-radius: 2px;">
+<tr>
+<td style="padding: 5px; text-align: left;"><img alt="Images de chat" src="//download.vikidia.org/vikidia/fr/images/thumb/f/ff/Chat_gris.jpg/35px-Chat_gris.jpg" width="35" height="33" srcset="//download.vikidia.org/vikidia/fr/images/thumb/f/ff/Chat_gris.jpg/53px-Chat_gris.jpg 1.5x, //download.vikidia.org/vikidia/fr/images/thumb/f/ff/Chat_gris.jpg/70px-Chat_gris.jpg 2x" data-file-width="614" data-file-height="576" />
+</td>
+<td width="90%" style="font-size: 15px;">Vikidia possède une <a href="/wiki/Cat%C3%A9gorie:Image_chat" title="Catégorie:Image chat">catégorie d’images <b>de chat</b></a>.
+</td></tr></table>
+<ul><li> <i>Avoir un chat dans la gorge</i>&#160;: avoir quelque chose qui nous gène dans la gorge, être enroué.</li>
+<li> <i>Donner sa langue au chat</i>&#160;: ne pas connaître, ignorer la réponse à une question.</li>
+<li> <i>Il n'y a pas un chat</i>&#160;: lorsqu'il n'y a personne.</li>
+<li> <i>Avoir d'autres chats à fouetter</i>&#160;: avoir d'autres choses à faire.</li>
+<li> <i>Les chiens ne font pas des chats</i>&#160;: en général, les enfants prennent les mêmes comportements que leurs parents.</li>
+<li> <i>Quand le chat n'est pas là, les souris dansent</i>&#160;: lorsqu'une ou des personnes profitent de l'absence de quelqu'un d'autre.</li>
+<li> <i>Être comme chien et chat</i>&#160;: avoir des relations tendues, difficiles.</li>
+<li> <i>Acheter chat en poche</i>&#160;: acheter quelque chose que l'on n'a pas vu.</li></ul>
+<h2><span class="mw-headline" id="Le_chat_dans_la_culture">Le chat dans la culture</span></h2>
+<ul><li> Conte de <a href="/wiki/Charles_Perrault" title="Charles Perrault">Charles Perrault</a>&#160;: <i><a href="/wiki/Le_Ma%C3%AEtre_chat_ou_le_Chat_bott%C3%A9" title="Le Maître chat ou le Chat botté">Le chat botté</a></i></li>
+<li> Conte des <a href="/wiki/Fr%C3%A8res_Grimm" title="Frères Grimm">Frères Grimm</a>&#160;: <i>Chat et souris associés</i>.</li>
+<li><div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/Fichier:Petit_chat.jpg" class="image"><img alt="" src="//download.vikidia.org/vikidia/fr/images/thumb/a/af/Petit_chat.jpg/200px-Petit_chat.jpg" width="200" height="168" class="thumbimage" srcset="//download.vikidia.org/vikidia/fr/images/thumb/a/af/Petit_chat.jpg/300px-Petit_chat.jpg 1.5x, //download.vikidia.org/vikidia/fr/images/thumb/a/af/Petit_chat.jpg/400px-Petit_chat.jpg 2x" data-file-width="715" data-file-height="600" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Fichier:Petit_chat.jpg" class="internal" title="Agrandir"></a></div>Un petit chat</div></div></div>Poème en prose de <a href="/wiki/Jules_Renard" title="Jules Renard">Jules Renard</a>, <i><a rel="nofollow" class="external text" href="https://fr.wikiversity.org/wiki/Jules_Renard,_Histoires_naturelles/Le_chat">Histoires naturelles</a></i>.</li>
+<li> La série des <a href="/wiki/B%C3%A9d%C3%A9" class="mw-redirect" title="Bédé">bédés</a> <i><a href="/wiki/Le_Chat" title="Le Chat">Le Chat</a></i>, de Philippe Geluck, humoriste et dessinateur belge&#160;; ce personnage, dessiné de façon très caricaturée, est une sorte de penseur, dont les phrases sont souvent à double-sens. Il n'a pas d'autre nom que « le Chat »&#160;!</li>
+<li> Dans les <a href="/wiki/Schtroumpfs" class="mw-redirect" title="Schtroumpfs">Schtroumpfs</a> du dessinateur Peyo, il y a le chat Azraël.</li>
+<li> Dans les dessins animés de <a href="/wiki/Tex_Avery" title="Tex Avery">Tex Avery</a>, il y a le chat Sylvestre, encore appelé Grosminet qui ne rêve qu'à croquer Titi, un canari jaune très malin (lui, avec son accent, appelle le chat "Rominet"). Titi est protégé par un chien, un bouledogue pas très malin mais fidèle à son travail, Hector. Rominet-Sylvestre parle bizarrement, comme s'il avait un "ceveu" sur la langue. Tous habitent chez Mémé, une vieille dame gentille et un peu naïve. Dans certaines aventures, Sylvestre court après d'autres personnages. Parfois, il est appelé « le chat le plus stupide de tous les chats ».</li>
+<li> Le film "les Aristochats" de <a href="/wiki/Disney" class="mw-disambig" title="Disney">Disney</a>.</li>
+<li> <i>Félix le Chat</i> créé aux USA en 1919.</li>
+<li> <i>Neko</i>, est un petit « chat d'écran » qui cherche à attraper la souris de l'écran d'ordinateur&#160;; puis il s'endort. Il faut installer un petit programme disponible pour de nombreux types d'ordinateurs en logiciel libre.</li></ul>
+<h2><span class="mw-headline" id="Voir_aussi">Voir aussi</span></h2>
+<table class="bandeau plainlinks" style="width: 70%; margin: auto; margin-bottom: 10px; text-align: center; background-color: white; border: 1px solid #008CBA; border-right-width: 2px; border-bottom-width: 2px;width: 25%; clear: right; float: right; margin: 0 0 10px 20px;">
+<tr>
+<td style="width: 10%;">
+<div><img alt="Voir Dico des Ados" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Greek_lc_delta.png/20px-Greek_lc_delta.png" title="Voir Dico des Ados" width="20" height="38" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Greek_lc_delta.png/30px-Greek_lc_delta.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Greek_lc_delta.png/40px-Greek_lc_delta.png 2x" data-file-width="208" data-file-height="400" /></div>
+</td>
+<td>
+<div style="text-align: left;">Voir aussi la <a href="http://dicoado.org/dico/chat" class="extiw" title="dico:chat">définition de <b>chat</b></a> sur le Dico des Ados.</div>
+</td>
+
+</tr>
+</table>
+<h3><span class="mw-headline" id="Liens_internes">Liens internes</span></h3>
+<ul><li> <a href="/wiki/Animal" title="Animal">Animal</a></li>
+<li> <a href="/wiki/Carnivore" title="Carnivore">Carnivore</a></li>
+<li> <a href="/wiki/F%C3%A9lin" title="Félin">Félin</a></li>
+<li> <a href="/wiki/Souris" class="mw-disambig" title="Souris">Souris</a></li>
+<li> <a href="/wiki/Chat_de_navire" title="Chat de navire">Chat de navire</a></li></ul>
+<h3><span class="mw-headline" id="Lien_externes">Lien externes</span></h3>
+<ul><li> <a rel="nofollow" class="external text" href="http://fifeweb.org/index.php">Fédération internationale féline</a></li>
+<li> <a rel="nofollow" class="external text" href="https://www.wikichat.fr/">L'encyclopédie du chat - Conseils chat - Wikichat</a>, Royal Canin</li></ul>
+<h2><span class="mw-headline" id="Notes_et_r.C3.A9f.C3.A9rences">Notes et références</span></h2>
+<table style="margin-top: 6px; margin-bottom: 10px; float: right; border-left: 4px solid #921496; width: 25%; clear: right; background: #F5B2FF; border-radius: 2px;">
+<tr>
+<td style="padding: 5px; text-align: left;"><img alt="" src="//download.vikidia.org/vikidia/fr/images/thumb/d/d9/Favicon_Vikidia.png/16px-Favicon_Vikidia.png" width="16" height="16" srcset="//download.vikidia.org/vikidia/fr/images/thumb/d/d9/Favicon_Vikidia.png/24px-Favicon_Vikidia.png 1.5x, //download.vikidia.org/vikidia/fr/images/thumb/d/d9/Favicon_Vikidia.png/32px-Favicon_Vikidia.png 2x" data-file-width="2000" data-file-height="2000" />
+</td>
+<td width="90%" style="font-size: 15px;">Article <b><a href="/wiki/Cat%C3%A9gorie:Article_de_la_semaine" title="Catégorie:Article de la semaine">mis en lumière</a></b> la semaine du 7 janvier 2019.
+</td></tr></table>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><i>La grande encyclopédie des chats</i>, livre écrit sous la direction de Christophe Matho, publié en sept.2017, 220 pg., aux éditions de Borée (Clermont-Ferrand, France)&#160;; <small>(ISBN 978-2-8129-2226-8)</small>.</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://fr.wikipedia.org/wiki/Sphynx">Le chat sphynx est le plus connu, mais il y en a d'autres</a></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.linternaute.com/science/biologie/dossiers/06/0606-records-animaux/4.shtml">Ces animaux qui nous surpassent, saut en hauteur</a>, sur <i>www.linternaute.com</i> (page visitée le 3 juillet 2018)</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.vetovitre.fr/index.php/nos-services/fichesconseil/gestation-chatte-et-chienne">Gestation - chatte et chienne</a>, sur <i>www.vetovitre.fr</i></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">Page web "<a rel="nofollow" class="external text" href="https://wamiz.com/chats/guide/sterilisation-du-chat-1506.html">Stérilisation du chat femelle</a>", sur le site "<a rel="nofollow" class="external text" href="https://wamiz.com/chats">Chats et chatons</a>" de Wamiz (<i>contient des publicités</i>) -- visité le 2 juil. 2018.</span>
+</li>
+</ol></div>
+<table class="bandeau plainlinks" style="width: 70%; margin: auto; margin-bottom: 10px; text-align: center; background-color: #FFFFD4; border: 1px solid #FFCC00; border-right-width: 2px; border-bottom-width: 2px;">
+<tr>
+<td style="width: 10%;">
+<div><img alt="Icone étoile.png" src="//download.vikidia.org/vikidia/fr/images/thumb/b/ba/Icone_%C3%A9toile.png/50px-Icone_%C3%A9toile.png" width="50" height="50" srcset="//download.vikidia.org/vikidia/fr/images/thumb/b/ba/Icone_%C3%A9toile.png/75px-Icone_%C3%A9toile.png 1.5x, //download.vikidia.org/vikidia/fr/images/thumb/b/ba/Icone_%C3%A9toile.png/100px-Icone_%C3%A9toile.png 2x" data-file-width="512" data-file-height="512" /></div>
+</td>
+<td>
+<div style=""><b>Super article</b> </div>
+<div style="">Cet article a été élu <i><a href="/wiki/Vikidia:Super_article" title="Vikidia:Super article">super article</a></i>&#160;! Tu peux voir sa page de vote <a href="/wiki/Vikidia:Super_article/%C3%89lection/Chat" title="Vikidia:Super article/Élection/Chat">ici</a>.</div>
+</td>
+
+</tr>
+</table>
+<table class="multi-banner" style="width: 100%; clear: both; margin: 0; background-color: transparent; padding: 0;">
+
+<tr style="vertical-align: middle;">
+<td> <center>
+<table style="clear: both; margin-top: 12px; border-left: 4px solid #9683EC; width: 90%; background: #F8D999; border-radius: 2px;">
+<tr>
+<td style="padding: 3px; text-align: left;"><a href="/wiki/Fichier:Nuvola_apps_kugar.svg" class="image"><img alt="Nuvola apps kugar.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nuvola_apps_kugar.svg/35px-Nuvola_apps_kugar.svg.png" width="35" height="35" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nuvola_apps_kugar.svg/53px-Nuvola_apps_kugar.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nuvola_apps_kugar.svg/70px-Nuvola_apps_kugar.svg.png 2x" data-file-width="125" data-file-height="125" /></a>
+</td>
+<td width="90%" style="font-size: 15px;"> <b><a href="/wiki/Portail:F%C3%A9lins" title="Portail:Félins">Portail des félins</a></b> &#32;&#8212;&#160; Tous les articles sur les félins.
+</td></tr></table>
+</center>
+</td>
+<td>
+</td></tr></table>
+<table class="multi-banner" style="width: 100%; clear: both; margin: 0; background-color: transparent; padding: 0;">
+
+<tr style="vertical-align: middle;">
+<td>
+</td>
+<td>
+</td></tr></table>
+<table class="multi-banner" style="width: 100%; clear: both; margin: 0; background-color: transparent; padding: 0;">
+
+<tr style="vertical-align: middle;">
+<td>
+</td>
+<td>
+</td></tr></table>
+<div style="float:right;margin-top:1em;" class="icone_de_titre"><span title="Cette page est semi-protégée."><a href="https://fr.vikidia.org/wiki/Aide:Page_prot%C3%A9g%C3%A9e" rel="nofollow"><img alt="Cette page est semi-protégée." src="//download.vikidia.org/vikidia/fr/images/thumb/9/9a/Cadenas-entrouvert-jaune.png/20px-Cadenas-entrouvert-jaune.png" width="20" height="20" srcset="//download.vikidia.org/vikidia/fr/images/thumb/9/9a/Cadenas-entrouvert-jaune.png/30px-Cadenas-entrouvert-jaune.png 1.5x, //download.vikidia.org/vikidia/fr/images/thumb/9/9a/Cadenas-entrouvert-jaune.png/40px-Cadenas-entrouvert-jaune.png 2x" data-file-width="500" data-file-height="500" /></a></span></div>
+
+<!-- 
+NewPP limit report
+Cached time: 20190224154609
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.176 seconds
+Real time usage: 1.143 seconds
+Preprocessor visited node count: 1274/1000000
+Preprocessor generated node count: 5637/1000000
+Post‐expand include size: 28350/2097152 bytes
+Template argument size: 4476/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 0/100
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  764.286      1 -total
+  1.73%   13.213      1 Modèle:Boîte_animal
+  0.85%    6.500      4 Modèle:Méta_mini_bandeau
+  0.67%    5.107     15 Modèle:Boîte/Ligne
+  0.50%    3.829      1 Modèle:Voir_aussi
+  0.46%    3.528      1 Modèle:Boîte/Pied
+  0.40%    3.021      2 Modèle:Multi_lien
+  0.39%    3.003      1 Modèle:Pour_en_savoir_plus
+  0.35%    2.651      2 Modèle:Méta_bandeau
+  0.34%    2.615      1 Modèle:Barre_de_navigation
+-->
+
+<!-- Saved in parser cache with key vikidia_fr-wk_:pcache:idhash:125343-0!*!0!!fr!3!* and timestamp 20190224154608 and revision id 1199641
+ -->
+</div>					<div class="printfooter">
+						Récupérée de «&#160;<a dir="ltr" href="https://fr.vikidia.org/w/index.php?title=Chat&amp;oldid=1199641">https://fr.vikidia.org/w/index.php?title=Chat&amp;oldid=1199641</a>&#160;»					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Sp%C3%A9cial:Cat%C3%A9gories" title="Spécial:Catégories">Catégories</a> : <ul><li><a href="/wiki/Cat%C3%A9gorie:Chat" title="Catégorie:Chat">Chat</a></li><li><a href="/wiki/Cat%C3%A9gorie:Animal_domestique" title="Catégorie:Animal domestique">Animal domestique</a></li><li><a href="/wiki/Cat%C3%A9gorie:Animal_par_ordre_alphab%C3%A9tique" title="Catégorie:Animal par ordre alphabétique">Animal par ordre alphabétique</a></li><li><a href="/wiki/Cat%C3%A9gorie:Animal_de_compagnie" title="Catégorie:Animal de compagnie">Animal de compagnie</a></li><li><a href="/wiki/Cat%C3%A9gorie:Esp%C3%A8ce_invasive" title="Catégorie:Espèce invasive">Espèce invasive</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Catégories cachées : <ul><li><a href="/wiki/Cat%C3%A9gorie:Super_article" title="Catégorie:Super article">Super article</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:animaux/Pages_li%C3%A9es" title="Catégorie:Portail:animaux/Pages liées">Portail:animaux/Pages liées</a></li><li><a href="/wiki/Cat%C3%A9gorie:Article_de_la_semaine_2019" title="Catégorie:Article de la semaine 2019">Article de la semaine 2019</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:F%C3%A9lins/Pages_li%C3%A9es" title="Catégorie:Portail:Félins/Pages liées">Portail:Félins/Pages liées</a></li><li><a href="/wiki/Cat%C3%A9gorie:Page_semi-prot%C3%A9g%C3%A9e" title="Catégorie:Page semi-protégée">Page semi-protégée</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Menu de navigation</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Outils personnels</h3>
+						<ul>
+							<li id="pt-anonuserpage">Non connecté</li><li id="pt-anontalk"><a href="/wiki/Sp%C3%A9cial:Mes_discussions" title="La page de discussion pour les contributions depuis cette adresse IP [n]" accesskey="n">Discussion</a></li><li id="pt-anoncontribs"><a href="/wiki/Sp%C3%A9cial:Mes_contributions" title="Une liste des modifications effectuées depuis cette adresse IP [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&amp;returnto=Chat" title="Il vous est conseillé de créer un compte et de vous connecter ; cependant, ce n’est pas obligatoire">Créer un compte</a></li><li id="pt-login"><a href="/w/index.php?title=Sp%C3%A9cial:Connexion&amp;returnto=Chat" title="Il est recommandé de vous identifier ; ce n'est cependant pas obligatoire. [o]" accesskey="o">Se connecter</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Espaces de noms</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Chat"  title="Voir la page de contenu [m]" accesskey="m">Page</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Discussion:Chat"  title="Discussion au sujet de cette page de contenu [d]" accesskey="d" rel="discussion">Discussion</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variantes</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Affichages</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Chat" >Lire</a></span></li>
+															<li id="ca-viewsource"><span><a href="/w/index.php?title=Chat&amp;action=edit"  title="Cette page est protégée.&#10;Vous pouvez toutefois en visualiser la source. [v]" accesskey="v">Voir le texte source</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Chat&amp;action=history"  title="Les versions passées de cette page (avec leurs contributeurs) [h]" accesskey="h">Historique</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Plus</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Chercher</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Rechercher sur Vikidia" title="Rechercher dans Vikidia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Spécial:Recherche" name="title"/><input type="submit" name="fulltext" value="Rechercher" title="Rechercher les pages comportant ce texte." id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Trouver" title="Aller vers une page portant exactement ce nom si elle existe." id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Vikidia:Accueil"  title="Page principale"></a></div>
+						<div class="portal" role="navigation" id='p-Navigation' aria-labelledby='p-Navigation-label'>
+			<h3 id='p-Navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-Accueil"><a href="/wiki/Vikidia:Accueil">Accueil</a></li><li id="n-Pages-par-th.C3.A8mes"><a href="/wiki/Portail:Accueil">Pages par thèmes</a></li><li id="n-randompage"><a href="/wiki/Sp%C3%A9cial:Page_au_hasard" title="Afficher une page au hasard [x]" accesskey="x">Page au hasard</a></li><li id="n-Banque-d.E2.80.99images"><a href="/wiki/Portail:Images">Banque d’images</a></li><li id="n-Le-Savant"><a href="/wiki/Vikidia:Le_Savant">Le Savant</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-Contribuer' aria-labelledby='p-Contribuer-label'>
+			<h3 id='p-Contribuer-label'>Contribuer</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-recentchanges"><a href="/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes" title="Liste des modifications récentes sur le wiki [r]" accesskey="r">Modifications récentes</a></li><li id="n-portal"><a href="/wiki/Vikidia:Communaut%C3%A9" title="À propos du projet, ce que vous pouvez faire, où trouver des informations [p]" accesskey="p">Communauté</a></li><li id="n-Bavardages"><a href="/wiki/Vikidia:Bavardages">Bavardages</a></li><li id="n-help"><a href="/wiki/Aide:Accueil" title="Aide [a]" accesskey="a">Aide</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Outils</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Chat" title="Liste des pages liées qui pointent sur celle-ci [j]" accesskey="j">Pages liées</a></li><li id="t-recentchangeslinked"><a href="/wiki/Sp%C3%A9cial:Suivi_des_liens/Chat" rel="nofollow" title="Liste des modifications récentes des pages appelées par celle-ci [k]" accesskey="k">Suivi des pages liées</a></li><li id="t-specialpages"><a href="/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales" title="Liste de toutes les pages spéciales [q]" accesskey="q">Pages spéciales</a></li><li id="t-permalink"><a href="/w/index.php?title=Chat&amp;oldid=1199641" title="Adresse permanente de cette version de la page">Adresse permanente</a></li><li id="t-info"><a href="/w/index.php?title=Chat&amp;action=info" title="Plus d’information sur cette page">Information sur la page</a></li><li id="t-cite"><a href="/w/index.php?title=Sp%C3%A9cial:Citer&amp;page=Chat&amp;id=1199641" title="Informations sur la manière de citer cette page">Citer cette page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-Vikidia' aria-labelledby='p-Vikidia-label'>
+			<h3 id='p-Vikidia-label'>Vikidia</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-.C3.80-propos-de-Vikidia"><a href="/wiki/Vikidia:%C3%80_propos">À propos de Vikidia</a></li><li id="n-Contact"><a href="/wiki/Vikidia:Contact">Contact</a></li><li id="n-sitesupport"><a href="//www.vikidia.org/dons.html" rel="nofollow">Faire un don</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Imprimer / exporter</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Sp%C3%A9cial:Livre&amp;bookcmd=book_creator&amp;referer=Chat">Créer un livre</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Sp%C3%A9cial:Livre&amp;bookcmd=render_article&amp;arttitle=Chat&amp;returnto=Chat&amp;oldid=1199641&amp;writer=rl">Télécharger comme PDF</a></li><li id="t-print"><a href="/w/index.php?title=Chat&amp;printable=yes" title="Version imprimable de cette page [p]" accesskey="p">Version imprimable</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Sur d’autres projets</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-en"><a href="//en.vikidia.org/wiki/Cat" title="Cat — anglais" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-es"><a href="//es.vikidia.org/wiki/Gato" title="Gato — espagnol" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eu"><a href="http://eu.vikidia.org/wiki/Katu" title="Katu — basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-it"><a href="//it.vikidia.org/wiki/Gatto" title="Gatto — italien" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-nl"><a href="http://wikikids.nl/Kat" title="Kat — néerlandais" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-simple"><a href="//simple.wikipedia.org/wiki/Cat" title="Cat — Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-wp"><a href="//fr.wikipedia.org/wiki/Chat" title="wp:Chat" lang="wp" hreflang="wp" class="interlanguage-link-target">Wikipédia</a></li>					</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> <div id="donation-box" style="border: 1px solid #a7d7f9; font-size: 1.6em; font-weight: bold; text-align: center; line-height: 1.6; background-color: rgb(242, 237, 248); margin-bottom: 0;">
+<div style="float: left; transform: scaleX(-1); margin-left: 0.5em; margin-top: 0.2em;"><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=contact%40vikidia%2eorg&amp;lc=FR&amp;item_name=Association%20Vikidia%2c%20Encyclopedie%20pour%20enfants&amp;no_note=0&amp;currency_code=EUR&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHostedGuest" rel="nofollow"><img alt="Open Clip Art Library Piggy Bank.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Open_Clip_Art_Library_Piggy_Bank.svg/60px-Open_Clip_Art_Library_Piggy_Bank.svg.png" width="60" height="58" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Open_Clip_Art_Library_Piggy_Bank.svg/90px-Open_Clip_Art_Library_Piggy_Bank.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Open_Clip_Art_Library_Piggy_Bank.svg/120px-Open_Clip_Art_Library_Piggy_Bank.svg.png 2x" data-file-width="456" data-file-height="442" /></a></div>
+<div>Combien de fois as-tu lu nos articles&#160;? Aujourd'hui, aide les Vikidiens, fais un don&#160;!<br /><a rel="nofollow" class="external text" href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=contact%40vikidia%2eorg&amp;lc=FR&amp;item_name=Association%20Vikidia%2c%20Encyclopedie%20pour%20enfants&amp;no_note=0&amp;currency_code=EUR&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHostedGuest">2€, 20€, 50€... Clique ici pour faire un don&#160;!</a><div style="font-size: 0.5em; font-weight: normal; line-height: 1; padding-bottom: 0.3em; font-style: italic;"></div></div>
+</div>
+<div id="donation-box" style="margin-top: 0em; border: 1px solid #a7d7f9; font-size: 1.6em; font-weight: bold; text-align: center; line-height: 1.6; background-color: #FFFFFF;">
+<div style="float: left; margin-left: 1em; padding-top: 0.3em;"><a href="https://www.lilo.org/?utm_source=vikidia" rel="nofollow"><img alt="Logo-lilo.png" src="//download.vikidia.org/vikidia/fr/images/thumb/9/91/Logo-lilo.png/80px-Logo-lilo.png" width="80" height="28" srcset="//download.vikidia.org/vikidia/fr/images/thumb/9/91/Logo-lilo.png/120px-Logo-lilo.png 1.5x, //download.vikidia.org/vikidia/fr/images/thumb/9/91/Logo-lilo.png/160px-Logo-lilo.png 2x" data-file-width="221" data-file-height="77" /></a></div>
+<p><a rel="nofollow" class="external text" href="https://www.lilo.org/?utm_source=vikidia">Le saviez-vous&#160;? Vous pouvez financer gratuitement Vikidia en utilisant le moteur de recherche solidaire Lilo.</a>
+</p>
+</div>
+<p><br />
+Par Vikidia, l’encyclopédie pour les jeunes, qui explique aux enfants et à ceux qui veulent une présentation simple d'un sujet.<br />
+Dernière modification de cette page le 27 janvier 2019 à 14:36.<br />
+</p></li>
+											<li id="footer-info-copyright">Le contenu est disponible sous licence <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-Share Alike 3.0</a> sauf mention contraire.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/Vikidia:Confidentialit%C3%A9" title="Vikidia:Confidentialité">Politique de confidentialité</a></li>
+											<li id="footer-places-about"><a href="/wiki/Vikidia:%C3%80_propos" title="Vikidia:À propos">À propos de Vikidia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Vikidia:Avertissements_g%C3%A9n%C3%A9raux" title="Vikidia:Avertissements généraux">Avertissements</a></li>
+											<li id="footer-places-mobileview"><a href="https://fr.vikidia.org/w/index.php?title=Chat&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Version mobile</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://creativecommons.org/licenses/by-sa/3.0/"><img src="/w/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution-Share Alike 3.0" width="88" height="31"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script type="3fe92a7f52078fbe50532a20-text/javascript">(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.176","walltime":"1.143","ppvisitednodes":{"value":1274,"limit":1000000},"ppgeneratednodes":{"value":5637,"limit":1000000},"postexpandincludesize":{"value":28350,"limit":2097152},"templateargumentsize":{"value":4476,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%  764.286      1 -total","  1.73%   13.213      1 Modèle:Boîte_animal","  0.85%    6.500      4 Modèle:Méta_mini_bandeau","  0.67%    5.107     15 Modèle:Boîte/Ligne","  0.50%    3.829      1 Modèle:Voir_aussi","  0.46%    3.528      1 Modèle:Boîte/Pied","  0.40%    3.021      2 Modèle:Multi_lien","  0.39%    3.003      1 Modèle:Pour_en_savoir_plus","  0.35%    2.651      2 Modèle:Méta_bandeau","  0.34%    2.615      1 Modèle:Barre_de_navigation"]},"cachereport":{"timestamp":"20190224154609","ttl":86400,"transientcontent":false}}});});</script><!-- Piwik -->
+<script type="3fe92a7f52078fbe50532a20-text/javascript">
+  var _paq = _paq || [];
+  _paq.push(["disableCookies"]);
+  _paq.push(["trackPageView"]);
+  _paq.push(["enableLinkTracking"]);
+
+  (function() {
+    var u = (("https:" == document.location.protocol) ? "https" : "http") + "://";
+    _paq.push(["setTrackerUrl", u+"stats.vikidia.org/"+"piwik.php"]);
+    _paq.push(["setSiteId", "1"]);
+    var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
+    g.defer=true; g.async=true; g.src=u+"download.vikidia.org/piwik.js"; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Piwik Code -->
+
+<!-- Piwik Image Tracker -->
+<noscript><img src="https://stats.vikidia.org/piwik.php?idsite=1&rec=1" style="border:0" alt="" /></noscript>
+<!-- End Piwik --><script type="3fe92a7f52078fbe50532a20-text/javascript">(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":147});});</script>
+	<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/cb7744ae/cloudflare-static/rocket-loader.min.js" data-cf-settings="3fe92a7f52078fbe50532a20-|49" defer=""></script></body>
+</html>

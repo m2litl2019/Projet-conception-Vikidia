@@ -14,6 +14,7 @@ from bs4 import BeautifulSoup, Comment
 
 WRITE_TARGET_LIST_TO_DISK = False
 LOAD_TARGET_LIST_FROM_DISK = True
+TARGET_NAME = 'targets_best.txt' # 'targets.txt'
 
 #------------------------------------------------------------
 # Make a list of targets
@@ -77,7 +78,7 @@ def process_target_both(name, output):
         print('Impossible to get', name, 'for wikipedia.')
         failed_wikipedia += 1
 
-def process_target(target, url, suffix, display=False, output=False):
+def process_target(target, url, suffix, display=False, output=False, strip=True):
 
     req = urllib.request.Request(
         url,
@@ -94,58 +95,62 @@ def process_target(target, url, suffix, display=False, output=False):
     html_doc = response.read()
     #print(html_doc)
 
-    soup = BeautifulSoup(html_doc, 'html.parser')
-    part = soup.find("div", {"id" : "mw-content-text"}) 
+    if strip:
+        soup = BeautifulSoup(html_doc, 'html.parser')
+        part = soup.find("div", {"id" : "mw-content-text"}) 
 
-    #for div in part.findAll("div"): 
-    #    div.decompose()
+        #for div in part.findAll("div"): 
+        #    div.decompose()
+    
+        for center in part.findAll("center"):
+            center.decompose()
+    
+        for table in part.findAll("table"):
+            table.decompose()
+    
+        for child in part.children:
+            if isinstance(child, Comment):
+                child.extract()
 
-    for center in part.findAll("center"):
-        center.decompose()
+        def replace_by_text(part, tag):
+            for child in part.findAll(tag):
+                child.insert_before(child.text)
+                child.decompose()
+            return part
+        
+        replace_by_text(part, "a")
+        replace_by_text(part, "b")
+        replace_by_text(part, "i")
+        replace_by_text(part, "strong")
+        replace_by_text(part, "em")
+        replace_by_text(part, "u")
 
-    for table in part.findAll("table"):
-        table.decompose()
-
-    for child in part.children:
-        if isinstance(child, Comment):
-            child.extract()
-
-    def replace_by_text(part, tag):
-        for child in part.findAll(tag):
-            child.insert_before(child.text)
-            child.decompose()
-        return part
-
-    replace_by_text(part, "a")
-    replace_by_text(part, "b")
-    replace_by_text(part, "i")
-    replace_by_text(part, "strong")
-    replace_by_text(part, "em")
-    replace_by_text(part, "u")
-
-    text = ''
-    for child in part.findAll("p"):
-        text += child.text
-
+        text = ''
+        for child in part.findAll("p"):
+            text += child.text
+    else:
+        text = html_doc
+    
     if display:
         print(text)
     if output:
         if suffix == 'wikipedia': # if "https://fr.wikipedia.org" in url:
-            f = open('wikipedia/' + target + '_' + suffix + '.txt', mode='w', encoding='utf8')
+            f = open('wikipedia/' + target + '_' + suffix + '.txt', mode='wb') #, encoding='utf8')
         else:
-            f = open('vikidia/' + target + '_' + suffix + '.txt', mode='w', encoding='utf8')
+            f = open('vikidia/' + target + '_' + suffix + '.txt', mode='wb') #, encoding='utf8')
         #f = open(target + '_' + suffix + '.txt', mode='w', encoding='utf8')
         f.write(text)
         f.close()
 
+
 if __name__ == '__main__':
     if WRITE_TARGET_LIST_TO_DISK:
-        f = open('targets.txt', encoding='utf8', mode='w')
+        f = open(TARGET_NAME, encoding='utf8', mode='w')
         for t in urls: # 52127
             f.write(t + "\n")
         f.close()
     elif LOAD_TARGET_LIST_FROM_DISK:
-        urls = open('targets.txt', encoding='utf8', mode='r').readlines()
+        urls = open(TARGET_NAME, encoding='utf8', mode='r').readlines()
     else:
         raise Exception("A target list has not been defined. Scrap it from the web or provide a file named targets.txt.")
     
@@ -154,12 +159,13 @@ if __name__ == '__main__':
     #article = ["Belgique"]
     #article=["%C3%89checs","%C3%89l%C3%A9phant","Australie","Belgique ","Boulangerie","Caracal","Catherine_II_de_Russie","Ch%C3%A8vre","Chat","Cheval","Chien","Com%C3%A8te","D%C3%B4me_du_Rocher","Geyser","Homme_au_masque_de_fer","Ich_bin_ein_Berliner","Kurdistan","Indira_Gandhi","Kylian_Mbapp%C3%A9","L%C3%A9gionelle","L%C3%A9onard_de_Vinci","La_Ferme_des_animaux","Le_Lotus_bleu","Lille","Lyon","Marl%C3%A8ne_Dietrich","Massif_central","Mode_(habillement)","Monstre_de_Gila","Mosqu%C3%A9e","Napol%C3%A9on_Ier","Navette_spatiale_Bourane","Op%C3%A9ra_Garnier","Otto_Dix","Paris","Poivre","Portugal","Pyr%C3%A9n%C3%A9es","Rome","Rubik%27s_Cube","Saturn_V","Tyrannosaurus_rex","Vienne_(Is%C3%A8re)","Volcan"]
     #for target in article:
-    restart_at = 'Tripoli_(Lybie)' #'TF1_games' #'BZRK'
+    restart_at = 'Napol%C3%A9on_Ier' #None 'Tripoli_(Lybie)' #'TF1_games' #'BZRK'
     for vikidia in urls:
         target = vikidia.replace('/wiki/', '').strip()
         if restart_at is not None:
             if target == restart_at: restart_at = None
             else: continue
-        process_target_both(target, output=True)
+        process_target(target, "https://fr.vikidia.org/wiki/"+ target, 'vikidia', output=target + '.txt', strip=False)
+        #process_target_both(target, output=True)
     print('Wikipedia failed:', failed_wikipedia)
     print('Vikidia failed:', failed_vikidia)

@@ -1,0 +1,466 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="fr" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>TRAPPIST-1 - Vikidia, l’encyclopédie des 8-13 ans</title>
+<script type="b5c4306460f1c017bd1c8c02-text/javascript">document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script type="b5c4306460f1c017bd1c8c02-text/javascript">(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"TRAPPIST-1","wgTitle":"TRAPPIST-1","wgCurRevisionId":1213142,"wgRevisionId":1213142,"wgArticleId":140105,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Super article","Article de la semaine 2018","Portail:astronomie/Pages liées","Portail:Exoplanètes/Pages liées","Étoile","Exoplanète"],"wgBreakFrames":false,"wgPageContentLanguage":"fr","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"],"wgMonthNamesShort":["","jan","fév","mar","avr","mai","juin","juil","août","sep","oct","nov","déc"],"wgRelevantPageName":"TRAPPIST-1","wgRelevantArticleId":140105,"wgRequestId":"081bef38e294fb0bcf4c881a","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVisualEditor":{"pageLanguageCode":"fr","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":false},"wgWikiEditorEnabledModules":{"toolbar":true,"preview":true,"publish":false},"wgPreferredVariant":"fr","wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1x2qlv5",function($,jQuery,require,module){mw.user.options.set({"variant":"fr"});});mw.loader.implement("user.tokens@091j2g3",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.page.gallery","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.gadget.InviteDiscussion","ext.gadget.Edittools","mmv.head","mmv.bootstrap.autostart","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="//download.vikidia.org/fr.vikidia.org/load.php?debug=false&amp;lang=fr&amp;modules=ext.cite.styles%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="//download.vikidia.org/fr.vikidia.org/load.php?debug=false&amp;lang=fr&amp;modules=startup&amp;only=scripts&amp;skin=vector" type="b5c4306460f1c017bd1c8c02-text/javascript"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="//download.vikidia.org/fr.vikidia.org/load.php?debug=false&amp;lang=fr&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.2"/>
+<link rel="alternate" type="application/x-wiki" title="Modifier" href="/w/index.php?title=TRAPPIST-1&amp;action=edit"/>
+<link rel="edit" title="Modifier" href="/w/index.php?title=TRAPPIST-1&amp;action=edit"/>
+<link rel="shortcut icon" href="//download.vikidia.org/vikidia/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Vikidia (fr)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://fr.vikidia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Flux Atom de Vikidia" href="/w/index.php?title=Sp%C3%A9cial:Modifications_r%C3%A9centes&amp;feed=atom"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-TRAPPIST-1 rootpage-TRAPPIST-1 skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="fr">TRAPPIST-1</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">« TRAPPIST-1 » expliqué aux enfants par Vikidia, l’encyclopédie junior</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Aller à :					<a href="#mw-head">navigation</a>, 					<a href="#p-search">rechercher</a>
+				</div>
+				<div id="mw-content-text" lang="fr" dir="ltr" class="mw-content-ltr"><div style="margin-bottom: 5px; padding-bottom: 5px; text-indent: 30px; border-bottom: 1px solid #AAA;"><img alt="Super article" src="//download.vikidia.org/vikidia/fr/images/thumb/b/ba/Icone_%C3%A9toile.png/20px-Icone_%C3%A9toile.png" title="Super article" width="20" height="20" srcset="//download.vikidia.org/vikidia/fr/images/thumb/b/ba/Icone_%C3%A9toile.png/30px-Icone_%C3%A9toile.png 1.5x, //download.vikidia.org/vikidia/fr/images/thumb/b/ba/Icone_%C3%A9toile.png/40px-Icone_%C3%A9toile.png 2x" data-file-width="512" data-file-height="512" /> <i>Tu lis un «&#160;<a href="/wiki/Vikidia:Super_article" title="Vikidia:Super article">super article</a>&#160;».</i></div><div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/Fichier:TRAPPIST-1_and_its_three_planets.jpg" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/TRAPPIST-1_and_its_three_planets.jpg/200px-TRAPPIST-1_and_its_three_planets.jpg" width="200" height="140" class="thumbimage" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/TRAPPIST-1_and_its_three_planets.jpg/300px-TRAPPIST-1_and_its_three_planets.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/TRAPPIST-1_and_its_three_planets.jpg/400px-TRAPPIST-1_and_its_three_planets.jpg 2x" data-file-width="10000" data-file-height="7000" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Fichier:TRAPPIST-1_and_its_three_planets.jpg" class="internal" title="Agrandir"></a></div>TRAPPIST-1 et une de ses planètes (<a href="/w/index.php?title=Vue_d%27artiste&amp;action=edit&amp;redlink=1" class="new" title="Vue d'artiste (page inexistante)">vue d'artiste</a>)</div></div></div>
+<p><b>TRAPPIST-1</b> est une <a href="/wiki/Naine_brune" title="Naine brune">naine brune</a>, c'est-à-dire un objet intermédiaire entre une <a href="/wiki/%C3%89toile" title="Étoile">étoile</a> et une <a href="/wiki/Plan%C3%A8te" title="Planète">planète</a>, située à 39 <a href="/wiki/Ann%C3%A9es-lumi%C3%A8re" class="mw-redirect" title="Années-lumière">années-lumière</a> de la <a href="/wiki/Terre" title="Terre">Terre</a>, dans la constellation du <a href="/wiki/Verseau_(constellation)" title="Verseau (constellation)">Verseau</a>. Cet objet était d'abord connu sous le nom très complexe de <i>2MASS J23062928-0502285</i>, avant de recevoir le nom de TRAPPIST-1 en <a href="/wiki/2016" title="2016">2016</a>. Le <a href="/wiki/Mai" title="Mai">2 mai</a> <a href="/wiki/2016" title="2016">2016</a>, la découverte de trois <a href="/wiki/Exoplan%C3%A8te" title="Exoplanète">exoplanètes</a> (<a href="/wiki/Plan%C3%A8te" title="Planète">planètes</a> en dehors du <a href="/wiki/Syst%C3%A8me_solaire" title="Système solaire">système solaire</a>) autour de cette naine brune a été annoncée. Ensuite, en <a href="/wiki/2017" title="2017">2017</a>, 4 autres exoplanètes autour de l'étoile ont été découvertes, ce qui fait un système de 7 planètes, c'est-à-dire à peu près le même nombre de planètes que dans notre <a href="/wiki/Syst%C3%A8me_solaire" title="Système solaire">système solaire</a>. Parmi ces planètes, quatre sont peut-être des <a href="/wiki/Plan%C3%A8te_habitable" title="Planète habitable">planètes habitables</a> et contiennent probablement de l'<a href="/wiki/Eau" title="Eau">eau</a> liquide à leur surface<sup id="cite_ref-futurasciences_1-0" class="reference"><a href="#cite_note-futurasciences-1">1</a></sup>.
+</p>
+<div id="toc" class="toc"><div id="toctitle" class="toctitle"><h2>Sommaire</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#D.C3.A9couverte"><span class="tocnumber">1</span> <span class="toctext">Découverte</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#.C3.89toile"><span class="tocnumber">2</span> <span class="toctext">Étoile</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Plan.C3.A8tes"><span class="tocnumber">3</span> <span class="toctext">Planètes</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#TRAPPIST-1_b"><span class="tocnumber">3.1</span> <span class="toctext">TRAPPIST-1 b</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#TRAPPIST-1_c"><span class="tocnumber">3.2</span> <span class="toctext">TRAPPIST-1 c</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#TRAPPIST-1_d"><span class="tocnumber">3.3</span> <span class="toctext">TRAPPIST-1 d</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#TRAPPIST-1_e"><span class="tocnumber">3.4</span> <span class="toctext">TRAPPIST-1 e</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#TRAPPIST-1_f"><span class="tocnumber">3.5</span> <span class="toctext">TRAPPIST-1 f</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#TRAPPIST-1_g"><span class="tocnumber">3.6</span> <span class="toctext">TRAPPIST-1 g</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#TRAPPIST-1_h"><span class="tocnumber">3.7</span> <span class="toctext">TRAPPIST-1 h</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Vie_extraterrestre"><span class="tocnumber">4</span> <span class="toctext">Vie extraterrestre</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Probabilit.C3.A9_de_l.27eau"><span class="tocnumber">4.1</span> <span class="toctext">Probabilité de l'eau</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Un_voyage_vers_TRAPPIST-1_.3F"><span class="tocnumber">4.2</span> <span class="toctext">Un voyage vers TRAPPIST-1&#160;?</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Notes_et_r.C3.A9f.C3.A9rences"><span class="tocnumber">5</span> <span class="toctext">Notes et références</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="D.C3.A9couverte">Découverte</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=TRAPPIST-1&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Modifier la section : Découverte">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=TRAPPIST-1&amp;action=edit&amp;section=1" title="Modifier la section : Découverte">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>L'étoile ainsi que ses 3 premières exoplanètes ont été découvertes par le <a href="/wiki/T%C3%A9lescope" title="Télescope">télescope</a> Trappist-South en 2016 au <a href="/wiki/Chili" title="Chili">Chili</a> qui a donné le nom à l'étoile. Ensuite, 4 autres exoplanètes ont été découvertes en 2017 et des recherches sur l'<a href="/wiki/Atmosph%C3%A8re" class="mw-disambig" title="Atmosphère">atmosphère</a> de ces planètes grâce au <a href="/w/index.php?title=T%C3%A9lescope_spatial&amp;action=edit&amp;redlink=1" class="new" title="Télescope spatial (page inexistante)">télescope spatial</a> <a href="/wiki/T%C3%A9lescope_spatial_Hubble" title="Télescope spatial Hubble">Hubble</a> ont permis de dire qu'elles seraient probablement habitables et qu'elles contiendraient probablement de l'eau<sup id="cite_ref-futurasciences_1-1" class="reference"><a href="#cite_note-futurasciences-1">1</a></sup>.
+</p>
+<h2><span class="mw-headline" id=".C3.89toile">Étoile</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=TRAPPIST-1&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Modifier la section : Étoile">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=TRAPPIST-1&amp;action=edit&amp;section=2" title="Modifier la section : Étoile">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>TRAPPIST-1 est une étoile entre la catégorie des <a href="/wiki/Naine_rouge" title="Naine rouge">naines rouges</a> et celle des <a href="/wiki/Naine_brune" title="Naine brune">naines brunes</a>, elle est donc très petite par rapport au <a href="/wiki/Soleil" title="Soleil">Soleil</a> (elle ne fait qu'un dixième de sa taille et à peu près la taille de <a href="/wiki/Jupiter_(plan%C3%A8te)" title="Jupiter (planète)">Jupiter</a>) et n'est pas très chaude (sa température est d'environ <span class="nowrap">2 000&#160;°C</span> alors que celle du Soleil est d'environ <span class="nowrap">5 000&#160;°C</span>) et ses planètes ne sont pas situées plus loin que <a href="/wiki/Mercure_(plan%C3%A8te)" title="Mercure (planète)">Mercure</a> à notre étoile. Cela permet aux différentes planètes d'avoir une <a href="/wiki/Temp%C3%A9rature" title="Température">température</a> similaire à la Terre et donc aux planètes d'être dans la <a href="/wiki/Zone_habitable_(astronomie)" title="Zone habitable (astronomie)">zone habitable</a>. L'étoile est aussi très âgée par rapport au Soleil, elle a à peu près 7,6 milliards d'années<sup id="cite_ref-futurasciences_1-2" class="reference"><a href="#cite_note-futurasciences-1">1</a></sup>,<sup id="cite_ref-trappist.one_2-0" class="reference"><a href="#cite_note-trappist.one-2">2</a></sup>.
+</p>
+<ul class="gallery mw-gallery-packed">
+		<li class="gallerybox" style="width: 130.66666666667px"><div style="width: 130.66666666667px">
+			<div class="thumb" style="width: 128.66666666667px;"><div style="margin:0px auto;"><a href="/wiki/Fichier:The_ultracool_dwarf_star_TRAPPIST-1_in_the_constellation_of_Aquarius.tif" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/The_ultracool_dwarf_star_TRAPPIST-1_in_the_constellation_of_Aquarius.tif/lossy-page1-193px-The_ultracool_dwarf_star_TRAPPIST-1_in_the_constellation_of_Aquarius.tif.jpg" width="129" height="120" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/The_ultracool_dwarf_star_TRAPPIST-1_in_the_constellation_of_Aquarius.tif/lossy-page1-290px-The_ultracool_dwarf_star_TRAPPIST-1_in_the_constellation_of_Aquarius.tif.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/The_ultracool_dwarf_star_TRAPPIST-1_in_the_constellation_of_Aquarius.tif/lossy-page1-386px-The_ultracool_dwarf_star_TRAPPIST-1_in_the_constellation_of_Aquarius.tif.jpg 2x" data-file-width="3338" data-file-height="3111" /></a></div></div>
+			<div class="gallerytext">
+<p>Situation de l'étoile dans la constellation du Verseau
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 117.33333333333px"><div style="width: 117.33333333333px">
+			<div class="thumb" style="width: 115.33333333333px;"><div style="margin:0px auto;"><a href="/wiki/Fichier:Comparison_of_the_sizes_of_the_TRAPPIST-1_planets_with_Solar_System_bodies.jpg" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Comparison_of_the_sizes_of_the_TRAPPIST-1_planets_with_Solar_System_bodies.jpg/173px-Comparison_of_the_sizes_of_the_TRAPPIST-1_planets_with_Solar_System_bodies.jpg" width="116" height="120" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Comparison_of_the_sizes_of_the_TRAPPIST-1_planets_with_Solar_System_bodies.jpg/260px-Comparison_of_the_sizes_of_the_TRAPPIST-1_planets_with_Solar_System_bodies.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Comparison_of_the_sizes_of_the_TRAPPIST-1_planets_with_Solar_System_bodies.jpg/347px-Comparison_of_the_sizes_of_the_TRAPPIST-1_planets_with_Solar_System_bodies.jpg 2x" data-file-width="2773" data-file-height="2880" /></a></div></div>
+			<div class="gallerytext">
+<p>Comparaison de la taille de l'étoile avec le Soleil et des planètes
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 215.33333333333px"><div style="width: 215.33333333333px">
+			<div class="thumb" style="width: 213.33333333333px;"><div style="margin:0px auto;"><a href="/wiki/Fichier:PIA22095-TRAPPIST-1-SolarSystemComparison-20180205.jpg" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/PIA22095-TRAPPIST-1-SolarSystemComparison-20180205.jpg/320px-PIA22095-TRAPPIST-1-SolarSystemComparison-20180205.jpg" width="214" height="120" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/PIA22095-TRAPPIST-1-SolarSystemComparison-20180205.jpg/480px-PIA22095-TRAPPIST-1-SolarSystemComparison-20180205.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/PIA22095-TRAPPIST-1-SolarSystemComparison-20180205.jpg/640px-PIA22095-TRAPPIST-1-SolarSystemComparison-20180205.jpg 2x" data-file-width="4800" data-file-height="2700" /></a></div></div>
+			<div class="gallerytext">
+<p>Densité des planètes et intensité de la luminosité de l'étoile
+</p>
+			</div>
+		</div></li>
+</ul>
+<h2><span class="mw-headline" id="Plan.C3.A8tes">Planètes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=TRAPPIST-1&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Modifier la section : Planètes">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=TRAPPIST-1&amp;action=edit&amp;section=3" title="Modifier la section : Planètes">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="TRAPPIST-1_b">TRAPPIST-1 b</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=TRAPPIST-1&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Modifier la section : TRAPPIST-1 b">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=TRAPPIST-1&amp;action=edit&amp;section=4" title="Modifier la section : TRAPPIST-1 b">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div style="margin-bottom: 5px; text-indent: 30px;"><img alt="Article à lire" src="//download.vikidia.org/vikidia/fr/images/thumb/2/27/System-search.png/20px-System-search.png" title="Article à lire" width="20" height="20" srcset="//download.vikidia.org/vikidia/fr/images/thumb/2/27/System-search.png/30px-System-search.png 1.5x, //download.vikidia.org/vikidia/fr/images/thumb/2/27/System-search.png/40px-System-search.png 2x" data-file-width="500" data-file-height="500" /> <i>Article à lire : <b><a href="/wiki/TRAPPIST-1_b" title="TRAPPIST-1 b">TRAPPIST-1 b</a></b></i></div>
+<p>TRAPPIST-1b est la <a href="/wiki/Plan%C3%A8te" title="Planète">planète</a> la plus proche de la <a href="/wiki/Naine_brune" title="Naine brune">naine brune</a>, elle est si proche qu'il lui faut seulement 1,5 <a href="/wiki/Jour" title="Jour">jour</a> pour accomplir une <a href="/wiki/R%C3%A9volution_(astronomie)" title="Révolution (astronomie)">révolution</a> autour de TRAPPIST-1. Cet objet ressemblerait à la <a href="/wiki/Terre" title="Terre">Terre</a>, en effet, sa taille est similaire, mais elle se situe trop proche de TRAPPIST-1, ce qui fait que la température est trop élevée. En revanche, comme elle serait en <a href="/wiki/Rotation_synchrone" title="Rotation synchrone">rotation synchrone</a> (période de rotation identique à la période de révolution), il y aurait un côté qui recevrait toujours de la lumière et la chaleur, et l'autre serait en permanence dans la nuit. Entre les deux, il y a une zone où la température serait plus vivable, et la vie pourrait donc exister<sup id="cite_ref-futurasciences_1-3" class="reference"><a href="#cite_note-futurasciences-1">1</a></sup>,<sup id="cite_ref-trappist.one_2-1" class="reference"><a href="#cite_note-trappist.one-2">2</a></sup>.
+</p>
+<h3><span class="mw-headline" id="TRAPPIST-1_c">TRAPPIST-1 c</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=TRAPPIST-1&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Modifier la section : TRAPPIST-1 c">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=TRAPPIST-1&amp;action=edit&amp;section=5" title="Modifier la section : TRAPPIST-1 c">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div style="margin-bottom: 5px; text-indent: 30px;"><img alt="Article à lire" src="//download.vikidia.org/vikidia/fr/images/thumb/2/27/System-search.png/20px-System-search.png" title="Article à lire" width="20" height="20" srcset="//download.vikidia.org/vikidia/fr/images/thumb/2/27/System-search.png/30px-System-search.png 1.5x, //download.vikidia.org/vikidia/fr/images/thumb/2/27/System-search.png/40px-System-search.png 2x" data-file-width="500" data-file-height="500" /> <i>Article à lire : <b><a href="/wiki/TRAPPIST-1_c" title="TRAPPIST-1 c">TRAPPIST-1 c</a></b></i></div>
+<p>Cette planète est un peu plus éloignée de la <a href="/wiki/Naine_brune" title="Naine brune">naine brune</a>, et tourne autour d'elle en 2,4 <a href="/wiki/Jour" title="Jour">jours</a>, mais elle est encore trop proche, et la <a href="/wiki/Temp%C3%A9rature" title="Température">température</a> est sans doute trop élevée, mais elle serait très probablement en <a href="/wiki/Rotation_synchrone" title="Rotation synchrone">rotation synchrone</a>, donc, il y aurait un côté jour, un côté nuit, et une partie de la planète où la température est vivable, et donc, la <a href="/wiki/Vie_extraterrestre" class="mw-redirect" title="Vie extraterrestre">vie extraterrestre</a> est donc possible là aussi, il se pourrait bien que la vie existe sur les deux planètes à la fois <sup id="cite_ref-futurasciences_1-4" class="reference"><a href="#cite_note-futurasciences-1">1</a></sup>,<sup id="cite_ref-trappist.one_2-2" class="reference"><a href="#cite_note-trappist.one-2">2</a></sup>&#160;!
+</p>
+<h3><span class="mw-headline" id="TRAPPIST-1_d">TRAPPIST-1 d</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=TRAPPIST-1&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Modifier la section : TRAPPIST-1 d">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=TRAPPIST-1&amp;action=edit&amp;section=6" title="Modifier la section : TRAPPIST-1 d">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div style="margin-bottom: 5px; text-indent: 30px;"><img alt="Article à lire" src="//download.vikidia.org/vikidia/fr/images/thumb/2/27/System-search.png/20px-System-search.png" title="Article à lire" width="20" height="20" srcset="//download.vikidia.org/vikidia/fr/images/thumb/2/27/System-search.png/30px-System-search.png 1.5x, //download.vikidia.org/vikidia/fr/images/thumb/2/27/System-search.png/40px-System-search.png 2x" data-file-width="500" data-file-height="500" /> <i>Article à lire : <b><a href="/wiki/TRAPPIST-1_d" title="TRAPPIST-1 d">TRAPPIST-1 d</a></b></i></div>
+<p>On connait moins de chose sur elle que sur les autres planètes de ce système planétaire, sa <a href="/wiki/P%C3%A9riode_de_r%C3%A9volution" title="Période de révolution">période de révolution</a> serait entre 4,5 et 73 <a href="/wiki/Jour" title="Jour">jours</a>, et se trouve peut-être dans la zone où la température permet une forme de vie, mais il est également possible qu'elle soit trop loin, mais comme les autres planètes de TRAPPIST-1, elle serait sans doute en <a href="/wiki/Rotation_synchrone" title="Rotation synchrone">rotation synchrone</a>, et donc, le côté jour serait chauffé, mais pas trop non plus, la vie pourrait donc y exister encore une fois, comme toute les planètes en orbite autour de TRAPPIST-1. Cette exoplanète serait également la moins massive du système planétaire avec une masse comprise entre un quart et un tiers de celle de notre planète, soit une masse d'environ 0,297 fois la Terre<sup id="cite_ref-futurasciences_1-5" class="reference"><a href="#cite_note-futurasciences-1">1</a></sup>,<sup id="cite_ref-trappist.one_2-3" class="reference"><a href="#cite_note-trappist.one-2">2</a></sup>.
+</p>
+<h3><span class="mw-headline" id="TRAPPIST-1_e">TRAPPIST-1 e</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=TRAPPIST-1&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Modifier la section : TRAPPIST-1 e">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=TRAPPIST-1&amp;action=edit&amp;section=7" title="Modifier la section : TRAPPIST-1 e">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div style="margin-bottom: 5px; text-indent: 30px;"><img alt="Article à lire" src="//download.vikidia.org/vikidia/fr/images/thumb/2/27/System-search.png/20px-System-search.png" title="Article à lire" width="20" height="20" srcset="//download.vikidia.org/vikidia/fr/images/thumb/2/27/System-search.png/30px-System-search.png 1.5x, //download.vikidia.org/vikidia/fr/images/thumb/2/27/System-search.png/40px-System-search.png 2x" data-file-width="500" data-file-height="500" /> <i>Article à lire : <b><a href="/wiki/TRAPPIST-1_e" title="TRAPPIST-1 e">TRAPPIST-1 e</a></b></i></div>
+<p><a href="/wiki/TRAPPIST-1_e" title="TRAPPIST-1 e">TRAPPIST-1 e</a> est la 4ème planète de ce système planétaire. C'est la planète qui présente probablement le plus de ressemblances à la Terre et fait 3 quart de la masse de la Terre (0,772 fois la masse de notre planète) et fait à peu près la taille de notre planète (0,915 fois le rayon)<sup id="cite_ref-futurasciences_1-6" class="reference"><a href="#cite_note-futurasciences-1">1</a></sup>,<sup id="cite_ref-trappist.one_2-4" class="reference"><a href="#cite_note-trappist.one-2">2</a></sup>.
+</p>
+<h3><span class="mw-headline" id="TRAPPIST-1_f">TRAPPIST-1 f</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=TRAPPIST-1&amp;veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Modifier la section : TRAPPIST-1 f">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=TRAPPIST-1&amp;action=edit&amp;section=8" title="Modifier la section : TRAPPIST-1 f">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div style="margin-bottom: 5px; text-indent: 30px;"><img alt="Article à lire" src="//download.vikidia.org/vikidia/fr/images/thumb/2/27/System-search.png/20px-System-search.png" title="Article à lire" width="20" height="20" srcset="//download.vikidia.org/vikidia/fr/images/thumb/2/27/System-search.png/30px-System-search.png 1.5x, //download.vikidia.org/vikidia/fr/images/thumb/2/27/System-search.png/40px-System-search.png 2x" data-file-width="500" data-file-height="500" /> <i>Article à lire : <b><a href="/wiki/TRAPPIST-1_f" title="TRAPPIST-1 f">TRAPPIST-1 f</a></b></i></div>
+<p><a href="/wiki/TRAPPIST-1_f" title="TRAPPIST-1 f">TRAPPIST-1 f</a> est la 5ème planète de ce système planétaire. Elle orbite en un peu plus de 9 jours autour de son étoile, sa taille est à peine plus grande que la Terre (1,052 fois) et sa masse est à peine plus petite (0,934 fois)<sup id="cite_ref-trappist.one_2-5" class="reference"><a href="#cite_note-trappist.one-2">2</a></sup>.
+</p>
+<h3><span class="mw-headline" id="TRAPPIST-1_g">TRAPPIST-1 g</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=TRAPPIST-1&amp;veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Modifier la section : TRAPPIST-1 g">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=TRAPPIST-1&amp;action=edit&amp;section=9" title="Modifier la section : TRAPPIST-1 g">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div style="margin-bottom: 5px; text-indent: 30px;"><img alt="Article à lire" src="//download.vikidia.org/vikidia/fr/images/thumb/2/27/System-search.png/20px-System-search.png" title="Article à lire" width="20" height="20" srcset="//download.vikidia.org/vikidia/fr/images/thumb/2/27/System-search.png/30px-System-search.png 1.5x, //download.vikidia.org/vikidia/fr/images/thumb/2/27/System-search.png/40px-System-search.png 2x" data-file-width="500" data-file-height="500" /> <i>Article à lire : <b><a href="/wiki/TRAPPIST-1_g" title="TRAPPIST-1 g">TRAPPIST-1 g</a></b></i></div>
+<p><a href="/wiki/TRAPPIST-1_g" title="TRAPPIST-1 g">TRAPPIST-1 g</a> est la 6ème planète de ce système planétaire. Elle orbite en un peu plus de 12 jours autour de son étoile, sa taille fait environ 1,154 fois la Terre et sa masse fait 1,148 fois la Terre.<sup id="cite_ref-trappist.one_2-6" class="reference"><a href="#cite_note-trappist.one-2">2</a></sup>.
+</p>
+<h3><span class="mw-headline" id="TRAPPIST-1_h">TRAPPIST-1 h</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=TRAPPIST-1&amp;veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Modifier la section : TRAPPIST-1 h">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=TRAPPIST-1&amp;action=edit&amp;section=10" title="Modifier la section : TRAPPIST-1 h">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div style="margin-bottom: 5px; text-indent: 30px;"><img alt="Article à lire" src="//download.vikidia.org/vikidia/fr/images/thumb/2/27/System-search.png/20px-System-search.png" title="Article à lire" width="20" height="20" srcset="//download.vikidia.org/vikidia/fr/images/thumb/2/27/System-search.png/30px-System-search.png 1.5x, //download.vikidia.org/vikidia/fr/images/thumb/2/27/System-search.png/40px-System-search.png 2x" data-file-width="500" data-file-height="500" /> <i>Article à lire : <b><a href="/wiki/TRAPPIST-1_h" title="TRAPPIST-1 h">TRAPPIST-1 h</a></b></i></div>
+<p><a href="/wiki/TRAPPIST-1_h" title="TRAPPIST-1 h">TRAPPIST-1 h</a> est la 7ème planète de ce système planétaire. C'est la planète la plus éloignée de son étoile qu'on a découverte. Elle orbite en un peu plus de 9 jours autour de son étoile, sa taille fait 3 quart celle de la Terre (0,777 fois) et sa masse est très faible par rapport à la Terre, elle ne fait qu'environ un tiers de sa masse (0,331 fois).<sup id="cite_ref-trappist.one_2-7" class="reference"><a href="#cite_note-trappist.one-2">2</a></sup>.
+</p>
+<ul class="gallery mw-gallery-packed">
+		<li class="gallerybox" style="width: 1302px"><div style="width: 1302px">
+			<div class="thumb" style="width: 1300px;"><div style="margin:9px auto;"><a href="/wiki/Fichier:TRAPPIST-1_navbox.jpg" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRAPPIST-1_navbox.jpg/1950px-TRAPPIST-1_navbox.jpg" width="1300" height="102" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRAPPIST-1_navbox.jpg/2925px-TRAPPIST-1_navbox.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRAPPIST-1_navbox.jpg/3900px-TRAPPIST-1_navbox.jpg 2x" data-file-width="12768" data-file-height="1000" /></a></div></div>
+			<div class="gallerytext">
+<p>Système planétaire
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 208px"><div style="width: 208px">
+			<div class="thumb" style="width: 206px;"><div style="margin:0px auto;"><a href="/wiki/Fichier:PIA22094-TRAPPIST-1-PlanetLineup-20180205.jpg" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/PIA22094-TRAPPIST-1-PlanetLineup-20180205.jpg/309px-PIA22094-TRAPPIST-1-PlanetLineup-20180205.jpg" width="206" height="120" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/PIA22094-TRAPPIST-1-PlanetLineup-20180205.jpg/463px-PIA22094-TRAPPIST-1-PlanetLineup-20180205.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/PIA22094-TRAPPIST-1-PlanetLineup-20180205.jpg/617px-PIA22094-TRAPPIST-1-PlanetLineup-20180205.jpg 2x" data-file-width="6000" data-file-height="3500" /></a></div></div>
+			<div class="gallerytext">
+<p>Données sur les planètes
+</p>
+			</div>
+		</div></li>
+</ul>
+<h2><span class="mw-headline" id="Vie_extraterrestre">Vie extraterrestre</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=TRAPPIST-1&amp;veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="Modifier la section : Vie extraterrestre">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=TRAPPIST-1&amp;action=edit&amp;section=11" title="Modifier la section : Vie extraterrestre">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Une, voire plusieurs planètes en orbite autour de TRAPPIST-1 pourraient abriter une <a href="/wiki/Vie_extraterrestre" class="mw-redirect" title="Vie extraterrestre">vie extraterrestre</a>, mais en raison de la distance, nous ne pouvons pas encore prendre des photos, mais il est possible de savoir que quoi est faite l'<a href="/wiki/Atmosph%C3%A8re" class="mw-disambig" title="Atmosphère">atmosphère</a>, les <a href="/wiki/Scientifique" title="Scientifique">scientifiques</a> recherchent en particulier du <a href="/wiki/M%C3%A9thane" title="Méthane">méthane</a>, un <a href="/wiki/Gaz" title="Gaz">gaz</a> présent en petite quantité sur Terre, et la plus grande partie est produite par des êtres vivants, mais aussi de l'<a href="/wiki/Ozone" title="Ozone">ozone</a>, également produit par des êtres vivants. Si on trouve ces gaz dans l'atmosphère de l'une des planètes, c'est que la vie est probablement présente sur cette planète<sup id="cite_ref-futurasciences_1-7" class="reference"><a href="#cite_note-futurasciences-1">1</a></sup>.
+</p>
+<h3><span class="mw-headline" id="Probabilit.C3.A9_de_l.27eau">Probabilité de l'eau</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=TRAPPIST-1&amp;veaction=edit&amp;section=12" class="mw-editsection-visualeditor" title="Modifier la section : Probabilité de l'eau">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=TRAPPIST-1&amp;action=edit&amp;section=12" title="Modifier la section : Probabilité de l'eau">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/Fichier:Plain_water_(seawater_of_the_Finnish_Gulf).JPG" class="image"><img alt="" src="//download.vikidia.org/vikidia/fr/images/thumb/b/ba/Plain_water_%28seawater_of_the_Finnish_Gulf%29.JPG/200px-Plain_water_%28seawater_of_the_Finnish_Gulf%29.JPG" width="200" height="150" class="thumbimage" srcset="//download.vikidia.org/vikidia/fr/images/thumb/b/ba/Plain_water_%28seawater_of_the_Finnish_Gulf%29.JPG/300px-Plain_water_%28seawater_of_the_Finnish_Gulf%29.JPG 1.5x, //download.vikidia.org/vikidia/fr/images/thumb/b/ba/Plain_water_%28seawater_of_the_Finnish_Gulf%29.JPG/400px-Plain_water_%28seawater_of_the_Finnish_Gulf%29.JPG 2x" data-file-width="800" data-file-height="600" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Fichier:Plain_water_(seawater_of_the_Finnish_Gulf).JPG" class="internal" title="Agrandir"></a></div>Ces planètes pourraient contenir des <a href="/wiki/Mer" title="Mer">mers</a> et <a href="/wiki/Oc%C3%A9an" title="Océan">océans</a>.</div></div></div>
+<p>Des recherches ont permis de découvrir que certaines planètes de ce système contiendraient probablement de l'eau liquide, en effet, les planètes d, e, f et g auraient une <a href="/wiki/Masse" title="Masse">masse</a> similaire à la <a href="/wiki/Terre" title="Terre">Terre</a> et sont situées dans la <a href="/wiki/Zone_habitable" class="mw-redirect" title="Zone habitable">zone habitable</a>, c'est-à-dire qu'elles sont à la bonne distance de leurs étoile. Elles pourraient même contenir beaucoup plus d'eau que sur Terre, c'est-à-dire jusqu'à 250 fois plus que sur notre planète. Cependant, vu qu'on n'a jamais été sur ces planètes, on ne peux pas être sûr de la présence réelle d'eau<sup id="cite_ref-sciencesetavenir_3-0" class="reference"><a href="#cite_note-sciencesetavenir-3">3</a></sup>.
+</p><p>S'il y a de l'eau sur les planètes, il y aurait de grands océans sur les planètes les plus centrées dans la zone habitable, c'est-à-dire sur les planètes d et e. Les planètes f, g et h contiendraient également de l'eau à l'état solide car elle est plutôt éloignée de son étoile (ce sont les plus éloignées du système parmi les planètes que l'on connaît) et il y aurait donc beaucoup de glace. Les planètes b et c contiendraient de l'eau à l'état de vapeur vu que ces planètes sont très proches de leur étoile (ce sont les planètes les plus proches) et il y aurait donc beaucoup de vapeur d'eau<sup id="cite_ref-sciencesetavenir_3-1" class="reference"><a href="#cite_note-sciencesetavenir-3">3</a></sup>.
+</p>
+<ul class="gallery mw-gallery-packed">
+		<li class="gallerybox" style="width: 215.33333333333px"><div style="width: 215.33333333333px">
+			<div class="thumb" style="width: 213.33333333333px;"><div style="margin:0px auto;"><a href="/wiki/Fichier:PIA21424_-_The_TRAPPIST-1_Habitable_Zone.jpg" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/PIA21424_-_The_TRAPPIST-1_Habitable_Zone.jpg/320px-PIA21424_-_The_TRAPPIST-1_Habitable_Zone.jpg" width="214" height="120" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/PIA21424_-_The_TRAPPIST-1_Habitable_Zone.jpg/480px-PIA21424_-_The_TRAPPIST-1_Habitable_Zone.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/PIA21424_-_The_TRAPPIST-1_Habitable_Zone.jpg/640px-PIA21424_-_The_TRAPPIST-1_Habitable_Zone.jpg 2x" data-file-width="5295" data-file-height="2978" /></a></div></div>
+			<div class="gallerytext">
+<p>Localisation des planètes du système de TRAPPIST-1 et de notre <a href="/wiki/Syst%C3%A8me_solaire" title="Système solaire">système solaire</a> dans la zone habitable.
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 210px"><div style="width: 210px">
+			<div class="thumb" style="width: 208px;"><div style="margin:0px auto;"><a href="/wiki/Fichier:Temp%C3%A9ratures_des_plan%C3%A8tes_dans_le_syst%C3%A8me_TRAPPIST-1.png" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Temp%C3%A9ratures_des_plan%C3%A8tes_dans_le_syst%C3%A8me_TRAPPIST-1.png/312px-Temp%C3%A9ratures_des_plan%C3%A8tes_dans_le_syst%C3%A8me_TRAPPIST-1.png" width="208" height="120" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Temp%C3%A9ratures_des_plan%C3%A8tes_dans_le_syst%C3%A8me_TRAPPIST-1.png/467px-Temp%C3%A9ratures_des_plan%C3%A8tes_dans_le_syst%C3%A8me_TRAPPIST-1.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Temp%C3%A9ratures_des_plan%C3%A8tes_dans_le_syst%C3%A8me_TRAPPIST-1.png/623px-Temp%C3%A9ratures_des_plan%C3%A8tes_dans_le_syst%C3%A8me_TRAPPIST-1.png 2x" data-file-width="1716" data-file-height="992" /></a></div></div>
+			<div class="gallerytext">
+<p>Températures des planètes dans le système TRAPPIST-1.
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 86.666666666667px"><div style="width: 86.666666666667px">
+			<div class="thumb" style="width: 84.666666666667px;"><div style="margin:0px auto;"><a href="/wiki/Fichier:Artist%E2%80%99s_impression_of_the_ultracool_dwarf_star_TRAPPIST-1_from_the_surface_of_one_of_its_planets.jpg" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Artist%E2%80%99s_impression_of_the_ultracool_dwarf_star_TRAPPIST-1_from_the_surface_of_one_of_its_planets.jpg/127px-Artist%E2%80%99s_impression_of_the_ultracool_dwarf_star_TRAPPIST-1_from_the_surface_of_one_of_its_planets.jpg" width="85" height="120" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Artist%E2%80%99s_impression_of_the_ultracool_dwarf_star_TRAPPIST-1_from_the_surface_of_one_of_its_planets.jpg/191px-Artist%E2%80%99s_impression_of_the_ultracool_dwarf_star_TRAPPIST-1_from_the_surface_of_one_of_its_planets.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Artist%E2%80%99s_impression_of_the_ultracool_dwarf_star_TRAPPIST-1_from_the_surface_of_one_of_its_planets.jpg/254px-Artist%E2%80%99s_impression_of_the_ultracool_dwarf_star_TRAPPIST-1_from_the_surface_of_one_of_its_planets.jpg 2x" data-file-width="3535" data-file-height="5000" /></a></div></div>
+			<div class="gallerytext">
+<p>Vue d'artiste de la surface de la planète c, cette planète est très proche de son étoile, donc l'eau serait sous forme de vapeur et parfois liquide.
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 122px"><div style="width: 122px">
+			<div class="thumb" style="width: 120px;"><div style="margin:0px auto;"><a href="/wiki/Fichier:TRAPPIST-1e_Artist%27s_Impression.png" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/TRAPPIST-1e_Artist%27s_Impression.png/180px-TRAPPIST-1e_Artist%27s_Impression.png" width="120" height="120" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/TRAPPIST-1e_Artist%27s_Impression.png/270px-TRAPPIST-1e_Artist%27s_Impression.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/TRAPPIST-1e_Artist%27s_Impression.png/360px-TRAPPIST-1e_Artist%27s_Impression.png 2x" data-file-width="1080" data-file-height="1080" /></a></div></div>
+			<div class="gallerytext">
+<p>Vue d'artiste de la planète e, la planète du système ayant probablement le plus de ressemblances à la Terre, elle pourrait contenir beaucoup d'eau (comme éventuellement d'autres planètes du système).
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 215.33333333333px"><div style="width: 215.33333333333px">
+			<div class="thumb" style="width: 213.33333333333px;"><div style="margin:0px auto;"><a href="/wiki/Fichier:PIA21423_-_Surface_of_TRAPPIST-1f.jpg" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/PIA21423_-_Surface_of_TRAPPIST-1f.jpg/320px-PIA21423_-_Surface_of_TRAPPIST-1f.jpg" width="214" height="120" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/PIA21423_-_Surface_of_TRAPPIST-1f.jpg/480px-PIA21423_-_Surface_of_TRAPPIST-1f.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/PIA21423_-_Surface_of_TRAPPIST-1f.jpg/640px-PIA21423_-_Surface_of_TRAPPIST-1f.jpg 2x" data-file-width="4534" data-file-height="2550" /></a></div></div>
+			<div class="gallerytext">
+<p>Vue d'artiste de la surface de la planète f, la planète contiendrait de l'eau liquide et de la <a href="/wiki/Glace" title="Glace">glace</a> vu qu'elle est un peu éloignée de son étoile.
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 122px"><div style="width: 122px">
+			<div class="thumb" style="width: 120px;"><div style="margin:0px auto;"><a href="/wiki/Fichier:TRAPPIST-1h_Artist%27s_Impression.png" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TRAPPIST-1h_Artist%27s_Impression.png/180px-TRAPPIST-1h_Artist%27s_Impression.png" width="120" height="120" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TRAPPIST-1h_Artist%27s_Impression.png/270px-TRAPPIST-1h_Artist%27s_Impression.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TRAPPIST-1h_Artist%27s_Impression.png/360px-TRAPPIST-1h_Artist%27s_Impression.png 2x" data-file-width="1080" data-file-height="1080" /></a></div></div>
+			<div class="gallerytext">
+<p>Vue d'artiste de la planète h, qui pourrait contenir beaucoup de glace à sa surface.
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 355.33333333333px"><div style="width: 355.33333333333px">
+			<div class="thumb" style="width: 353.33333333333px;"><div style="margin:0px auto;"><a href="/wiki/Fichier:Esobiologia_exobiology_extrasolar_Alien_blocco_sincrona_marea_locked_planet_tidally.png" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Esobiologia_exobiology_extrasolar_Alien_blocco_sincrona_marea_locked_planet_tidally.png/530px-Esobiologia_exobiology_extrasolar_Alien_blocco_sincrona_marea_locked_planet_tidally.png" width="354" height="120" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Esobiologia_exobiology_extrasolar_Alien_blocco_sincrona_marea_locked_planet_tidally.png/795px-Esobiologia_exobiology_extrasolar_Alien_blocco_sincrona_marea_locked_planet_tidally.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Esobiologia_exobiology_extrasolar_Alien_blocco_sincrona_marea_locked_planet_tidally.png/1060px-Esobiologia_exobiology_extrasolar_Alien_blocco_sincrona_marea_locked_planet_tidally.png 2x" data-file-width="1784" data-file-height="606" /></a></div></div>
+			<div class="gallerytext">
+<p>Les températures possibles sur les <a href="/wiki/Plan%C3%A8te" title="Planète">planètes</a> situées dans la <a href="/wiki/Zone_habitable" class="mw-redirect" title="Zone habitable">zone habitable</a> si elles sont en <a href="/wiki/Rotation_synchrone" title="Rotation synchrone">rotation synchrone</a> et présentent toujours la même face à leur <a href="/wiki/%C3%89toile" title="Étoile">étoile</a> tout comme la <a href="/wiki/Lune" title="Lune">Lune</a> à la <a href="/wiki/Terre" title="Terre">Terre</a>.
+</p>
+			</div>
+		</div></li>
+</ul>
+<h3><span class="mw-headline" id="Un_voyage_vers_TRAPPIST-1_.3F">Un voyage vers TRAPPIST-1&#160;?</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=TRAPPIST-1&amp;veaction=edit&amp;section=13" class="mw-editsection-visualeditor" title="Modifier la section : Un voyage vers TRAPPIST-1 ?">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=TRAPPIST-1&amp;action=edit&amp;section=13" title="Modifier la section : Un voyage vers TRAPPIST-1 ?">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>L'étoile est située à <span class="nowrap">39&#160;<a href="/wiki/Ann%C3%A9e-lumi%C3%A8re" class="mw-redirect" title="Année-lumière">années-lumière</a></span> de la <a href="/wiki/Terre" title="Terre">Terre</a>, cela veut dire que la <a href="/wiki/Lumi%C3%A8re" title="Lumière">lumière</a> de la Terre met 39 ans pour arriver à l'étoile et que vu que la lumière a une vitesse d'environ <span class="nowrap">300 000&#160;km/s</span>, soit <span class="nowrap">1 080 000 000&#160;km/h</span>, si on va à cette vitesse en direction de TRAPPIST-1, le voyage durerait 39 ans. En 2019, il n'existe pas de <a href="/w/index.php?title=V%C3%A9hicule_spatial&amp;action=edit&amp;redlink=1" class="new" title="Véhicule spatial (page inexistante)">véhicule spatial</a> qui va à la <a href="/wiki/Vitesse_de_la_lumi%C3%A8re" title="Vitesse de la lumière">vitesse de la lumière</a>, donc pour y aller, le voyage prendrait beaucoup trop de temps pour survivre jusqu'à la fin du voyage.
+Il est aussi possible d'envoyer des <a href="/wiki/Sonde_spatiale" title="Sonde spatiale">sondes</a> jusqu'à l'étoile et aux exoplanètes afin de voir à quoi elles ressemblent réellement, mais la sonde la plus rapide jamais inventée va à la vitesse de <span class="nowrap">51 000&#160;km/h</span> (il s'agit de <i><a href="/wiki/New_Horizons" title="New Horizons">New Horizons</a></i>) et il faudrait donc environ <span class="nowrap">817 000&#160;ans</span>, soit <span class="nowrap">8 170&#160;<a href="/wiki/Si%C3%A8cle" title="Siècle">siècles</a></span> pour atteindre le système planétaire<sup id="cite_ref-futurasciences2_4-0" class="reference"><a href="#cite_note-futurasciences2-4">4</a></sup>.
+</p>
+<h2><span class="mw-headline" id="Notes_et_r.C3.A9f.C3.A9rences">Notes et références</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=TRAPPIST-1&amp;veaction=edit&amp;section=14" class="mw-editsection-visualeditor" title="Modifier la section : Notes et références">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=TRAPPIST-1&amp;action=edit&amp;section=14" title="Modifier la section : Notes et références">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h2>
+<b><center>Source&#160;:</b> cette page a été partiellement adaptée de la page <span class="plainlinks"><i><a rel="nofollow" class="external text" href="https://fr.wikipedia.org/w/index.php?title=TRAPPIST-1&amp;oldid=cur">TRAPPIST-1</a></i></span> de Wikipédia.</center>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-futurasciences-1"><span class="mw-cite-backlink">↑ <sup style="margin-left:.2em;margin-right:.2em;"><a href="#cite_ref-futurasciences_1-0">1,0</a></sup>, <sup style="margin-left:.2em;margin-right:.2em;"><a href="#cite_ref-futurasciences_1-1">1,1</a></sup>, <sup style="margin-left:.2em;margin-right:.2em;"><a href="#cite_ref-futurasciences_1-2">1,2</a></sup>, <sup style="margin-left:.2em;margin-right:.2em;"><a href="#cite_ref-futurasciences_1-3">1,3</a></sup>, <sup style="margin-left:.2em;margin-right:.2em;"><a href="#cite_ref-futurasciences_1-4">1,4</a></sup>, <sup style="margin-left:.2em;margin-right:.2em;"><a href="#cite_ref-futurasciences_1-5">1,5</a></sup>, <sup style="margin-left:.2em;margin-right:.2em;"><a href="#cite_ref-futurasciences_1-6">1,6</a></sup> et <sup style="margin-left:.2em;margin-right:.2em;"><a href="#cite_ref-futurasciences_1-7">1,7</a></sup></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.futura-sciences.com/sciences/actualites/exoplanetes-exoplanetes-autour-trappist-1-pourraient-accueillir-vie-62652/">https://www.futura-sciences.com/sciences/actualites/exoplanetes-exoplanetes-autour-trappist-1-pourraient-accueillir-vie-62652/</a></span>
+</li>
+<li id="cite_note-trappist.one-2"><span class="mw-cite-backlink">↑ <sup style="margin-left:.2em;margin-right:.2em;"><a href="#cite_ref-trappist.one_2-0">2,0</a></sup>, <sup style="margin-left:.2em;margin-right:.2em;"><a href="#cite_ref-trappist.one_2-1">2,1</a></sup>, <sup style="margin-left:.2em;margin-right:.2em;"><a href="#cite_ref-trappist.one_2-2">2,2</a></sup>, <sup style="margin-left:.2em;margin-right:.2em;"><a href="#cite_ref-trappist.one_2-3">2,3</a></sup>, <sup style="margin-left:.2em;margin-right:.2em;"><a href="#cite_ref-trappist.one_2-4">2,4</a></sup>, <sup style="margin-left:.2em;margin-right:.2em;"><a href="#cite_ref-trappist.one_2-5">2,5</a></sup>, <sup style="margin-left:.2em;margin-right:.2em;"><a href="#cite_ref-trappist.one_2-6">2,6</a></sup> et <sup style="margin-left:.2em;margin-right:.2em;"><a href="#cite_ref-trappist.one_2-7">2,7</a></sup></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.trappist.one/#system">http://www.trappist.one/#system</a></span>
+</li>
+<li id="cite_note-sciencesetavenir-3"><span class="mw-cite-backlink">↑ <sup style="margin-left:.2em;margin-right:.2em;"><a href="#cite_ref-sciencesetavenir_3-0">3,0</a></sup> et <sup style="margin-left:.2em;margin-right:.2em;"><a href="#cite_ref-sciencesetavenir_3-1">3,1</a></sup></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.sciencesetavenir.fr/espace/c-est-confirme-il-y-a-beaucoup-d-eau-sur-les-exoplanetes-du-systeme-trappist_120536">https://www.sciencesetavenir.fr/espace/c-est-confirme-il-y-a-beaucoup-d-eau-sur-les-exoplanetes-du-systeme-trappist_120536</a></span>
+</li>
+<li id="cite_note-futurasciences2-4"><span class="mw-cite-backlink"><a href="#cite_ref-futurasciences2_4-0">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.futura-sciences.com/sciences/questions-reponses/exoplanetes-temps-durerait-voyage-vers-trappist-1-7329/">https://www.futura-sciences.com/sciences/questions-reponses/exoplanetes-temps-durerait-voyage-vers-trappist-1-7329/</a></span>
+</li>
+</ol></div>
+<table class="bandeau plainlinks" style="width: 70%; margin: auto; margin-bottom: 10px; text-align: center; background-color: #FFFFD4; border: 1px solid #FFCC00; border-right-width: 2px; border-bottom-width: 2px;">
+<tr>
+<td style="width: 10%;">
+<div><img alt="Icone étoile.png" src="//download.vikidia.org/vikidia/fr/images/thumb/b/ba/Icone_%C3%A9toile.png/50px-Icone_%C3%A9toile.png" width="50" height="50" srcset="//download.vikidia.org/vikidia/fr/images/thumb/b/ba/Icone_%C3%A9toile.png/75px-Icone_%C3%A9toile.png 1.5x, //download.vikidia.org/vikidia/fr/images/thumb/b/ba/Icone_%C3%A9toile.png/100px-Icone_%C3%A9toile.png 2x" data-file-width="512" data-file-height="512" /></div>
+</td>
+<td>
+<div style=""><b>Super article</b> </div>
+<div style="">Cet article a été élu <i><a href="/wiki/Vikidia:Super_article" title="Vikidia:Super article">super article</a></i>&#160;! Tu peux voir sa page de vote <a href="/wiki/Vikidia:Super_article/%C3%89lection/TRAPPIST-1" title="Vikidia:Super article/Élection/TRAPPIST-1">ici</a>.</div>
+</td>
+
+</tr>
+</table>
+<table style="margin-top: 6px; margin-bottom: 10px; float: right; border-left: 4px solid #921496; width: 25%; clear: right; background: #F5B2FF; border-radius: 2px;">
+<tr>
+<td style="padding: 5px; text-align: left;"><img alt="" src="//download.vikidia.org/vikidia/fr/images/thumb/d/d9/Favicon_Vikidia.png/16px-Favicon_Vikidia.png" width="16" height="16" srcset="//download.vikidia.org/vikidia/fr/images/thumb/d/d9/Favicon_Vikidia.png/24px-Favicon_Vikidia.png 1.5x, //download.vikidia.org/vikidia/fr/images/thumb/d/d9/Favicon_Vikidia.png/32px-Favicon_Vikidia.png 2x" data-file-width="2000" data-file-height="2000" />
+</td>
+<td width="90%" style="font-size: 15px;">Article <b><a href="/wiki/Cat%C3%A9gorie:Article_de_la_semaine" title="Catégorie:Article de la semaine">mis en lumière</a></b> la semaine du 21 mai 2018.
+</td></tr></table>
+<table class="multi-banner" style="width: 100%; clear: both; margin: 0; background-color: transparent; padding: 0;">
+
+<tr style="vertical-align: middle;">
+<td> <center>
+<table style="clear: both; margin-top: 12px; border-left: 4px solid #AAAAAA; width: 90%; background: #cccccc; border-radius: 2px;">
+<tr>
+<td style="padding: 3px; text-align: left;"><img alt="" src="//download.vikidia.org/vikidia/fr/images/thumb/6/61/Saturn.jpg/30px-Saturn.jpg" width="30" height="38" srcset="//download.vikidia.org/vikidia/fr/images/thumb/6/61/Saturn.jpg/45px-Saturn.jpg 1.5x, //download.vikidia.org/vikidia/fr/images/thumb/6/61/Saturn.jpg/60px-Saturn.jpg 2x" data-file-width="280" data-file-height="350" />
+</td>
+<td width="90%" style="font-size: 15px;"> <b><a href="/wiki/Portail:Astronomie" title="Portail:Astronomie">Portail de l'astronomie</a></b> &#32;&#8212;&#160; Accédez aux articles de Vikidia concernant l'astronomie.
+</td></tr></table>
+</center>
+</td>
+<td> <center>
+<table style="clear: both; margin-top: 12px; border-left: 4px solid #cccccc; width: 90%; background: orange; border-radius: 2px;">
+<tr>
+<td style="padding: 3px; text-align: left;"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/16_Cygni_B_b.png/40px-16_Cygni_B_b.png" width="40" height="23" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/16_Cygni_B_b.png/60px-16_Cygni_B_b.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/16_Cygni_B_b.png/80px-16_Cygni_B_b.png 2x" data-file-width="499" data-file-height="283" />
+</td>
+<td width="90%" style="font-size: 15px;"> <b><a href="/wiki/Portail:Exoplan%C3%A8tes" title="Portail:Exoplanètes">Portail des exoplanètes</a></b> &#32;&#8212;&#160; Accédez aux articles de Vikidia concernant les exoplanètes.
+</td></tr></table>
+</center>
+</td></tr></table>
+<table class="multi-banner" style="width: 100%; clear: both; margin: 0; background-color: transparent; padding: 0;">
+
+<tr style="vertical-align: middle;">
+<td>
+</td>
+<td>
+</td></tr></table>
+<table class="multi-banner" style="width: 100%; clear: both; margin: 0; background-color: transparent; padding: 0;">
+
+<tr style="vertical-align: middle;">
+<td>
+</td>
+<td>
+</td></tr></table>
+
+<!-- 
+NewPP limit report
+Cached time: 20190224235023
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.300 seconds
+Real time usage: 2.584 seconds
+Preprocessor visited node count: 1367/1000000
+Preprocessor generated node count: 4053/1000000
+Post‐expand include size: 12300/2097152 bytes
+Template argument size: 2800/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 0/100
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 2169.684      1 -total
+  0.77%   16.798      7 Modèle:Article_détaillé
+  0.72%   15.607      8 Modèle:Méta_mini_bandeau
+  0.60%   12.967      8 Modèle:Unité
+  0.37%    8.112      1 Modèle:Portail
+  0.36%    7.873      7 Modèle:Multi_lien
+  0.28%    6.152      1 Modèle:Super_Article
+  0.19%    4.024      1 Modèle:Portail_astronomie
+  0.16%    3.531      1 Modèle:Méta_bandeau
+  0.15%    3.258      2 Modèle:Méta_lien_portail
+-->
+
+<!-- Saved in parser cache with key vikidia_fr-wk_:pcache:idhash:140105-0!*!0!!fr!3!* and timestamp 20190224235020 and revision id 1213142
+ -->
+</div>					<div class="printfooter">
+						Récupérée de «&#160;<a dir="ltr" href="https://fr.vikidia.org/w/index.php?title=TRAPPIST-1&amp;oldid=1213142">https://fr.vikidia.org/w/index.php?title=TRAPPIST-1&amp;oldid=1213142</a>&#160;»					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Sp%C3%A9cial:Cat%C3%A9gories" title="Spécial:Catégories">Catégories</a> : <ul><li><a href="/wiki/Cat%C3%A9gorie:%C3%89toile" title="Catégorie:Étoile">Étoile</a></li><li><a href="/wiki/Cat%C3%A9gorie:Exoplan%C3%A8te" title="Catégorie:Exoplanète">Exoplanète</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Catégories cachées : <ul><li><a href="/wiki/Cat%C3%A9gorie:Super_article" title="Catégorie:Super article">Super article</a></li><li><a href="/wiki/Cat%C3%A9gorie:Article_de_la_semaine_2018" title="Catégorie:Article de la semaine 2018">Article de la semaine 2018</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:astronomie/Pages_li%C3%A9es" title="Catégorie:Portail:astronomie/Pages liées">Portail:astronomie/Pages liées</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:Exoplan%C3%A8tes/Pages_li%C3%A9es" title="Catégorie:Portail:Exoplanètes/Pages liées">Portail:Exoplanètes/Pages liées</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Menu de navigation</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Outils personnels</h3>
+						<ul>
+							<li id="pt-anonuserpage">Non connecté</li><li id="pt-anontalk"><a href="/wiki/Sp%C3%A9cial:Mes_discussions" title="La page de discussion pour les contributions depuis cette adresse IP [n]" accesskey="n">Discussion</a></li><li id="pt-anoncontribs"><a href="/wiki/Sp%C3%A9cial:Mes_contributions" title="Une liste des modifications effectuées depuis cette adresse IP [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&amp;returnto=TRAPPIST-1" title="Il vous est conseillé de créer un compte et de vous connecter ; cependant, ce n’est pas obligatoire">Créer un compte</a></li><li id="pt-login"><a href="/w/index.php?title=Sp%C3%A9cial:Connexion&amp;returnto=TRAPPIST-1" title="Il est recommandé de vous identifier ; ce n'est cependant pas obligatoire. [o]" accesskey="o">Se connecter</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Espaces de noms</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/TRAPPIST-1"  title="Voir la page de contenu [m]" accesskey="m">Page</a></span></li>
+															<li  id="ca-talk" class="new"><span><a href="/w/index.php?title=Discussion:TRAPPIST-1&amp;action=edit&amp;redlink=1"  title="Discussion au sujet de cette page de contenu [d]" accesskey="d" rel="discussion">Discussion</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variantes</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Affichages</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/TRAPPIST-1" >Lire</a></span></li>
+															<li id="ca-ve-edit"><span><a href="/w/index.php?title=TRAPPIST-1&amp;veaction=edit"  title="Modifier cette page [v]" accesskey="v">Modifier</a></span></li>
+															<li id="ca-edit" class=" collapsible"><span><a href="/w/index.php?title=TRAPPIST-1&amp;action=edit"  title="Modifier le wikicode [m]" accesskey="m">Modifier le wikicode</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=TRAPPIST-1&amp;action=history"  title="Les versions passées de cette page (avec leurs contributeurs) [h]" accesskey="h">Historique</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Plus</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Chercher</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Rechercher sur Vikidia" title="Rechercher dans Vikidia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Spécial:Recherche" name="title"/><input type="submit" name="fulltext" value="Rechercher" title="Rechercher les pages comportant ce texte." id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Trouver" title="Aller vers une page portant exactement ce nom si elle existe." id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Vikidia:Accueil"  title="Page principale"></a></div>
+						<div class="portal" role="navigation" id='p-Navigation' aria-labelledby='p-Navigation-label'>
+			<h3 id='p-Navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-Accueil"><a href="/wiki/Vikidia:Accueil">Accueil</a></li><li id="n-Pages-par-th.C3.A8mes"><a href="/wiki/Portail:Accueil">Pages par thèmes</a></li><li id="n-randompage"><a href="/wiki/Sp%C3%A9cial:Page_au_hasard" title="Afficher une page au hasard [x]" accesskey="x">Page au hasard</a></li><li id="n-Banque-d.E2.80.99images"><a href="/wiki/Portail:Images">Banque d’images</a></li><li id="n-Le-Savant"><a href="/wiki/Vikidia:Le_Savant">Le Savant</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-Contribuer' aria-labelledby='p-Contribuer-label'>
+			<h3 id='p-Contribuer-label'>Contribuer</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-recentchanges"><a href="/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes" title="Liste des modifications récentes sur le wiki [r]" accesskey="r">Modifications récentes</a></li><li id="n-portal"><a href="/wiki/Vikidia:Communaut%C3%A9" title="À propos du projet, ce que vous pouvez faire, où trouver des informations [p]" accesskey="p">Communauté</a></li><li id="n-Bavardages"><a href="/wiki/Vikidia:Bavardages">Bavardages</a></li><li id="n-help"><a href="/wiki/Aide:Accueil" title="Aide [a]" accesskey="a">Aide</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Outils</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/TRAPPIST-1" title="Liste des pages liées qui pointent sur celle-ci [j]" accesskey="j">Pages liées</a></li><li id="t-recentchangeslinked"><a href="/wiki/Sp%C3%A9cial:Suivi_des_liens/TRAPPIST-1" rel="nofollow" title="Liste des modifications récentes des pages appelées par celle-ci [k]" accesskey="k">Suivi des pages liées</a></li><li id="t-specialpages"><a href="/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales" title="Liste de toutes les pages spéciales [q]" accesskey="q">Pages spéciales</a></li><li id="t-permalink"><a href="/w/index.php?title=TRAPPIST-1&amp;oldid=1213142" title="Adresse permanente de cette version de la page">Adresse permanente</a></li><li id="t-info"><a href="/w/index.php?title=TRAPPIST-1&amp;action=info" title="Plus d’information sur cette page">Information sur la page</a></li><li id="t-cite"><a href="/w/index.php?title=Sp%C3%A9cial:Citer&amp;page=TRAPPIST-1&amp;id=1213142" title="Informations sur la manière de citer cette page">Citer cette page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-Vikidia' aria-labelledby='p-Vikidia-label'>
+			<h3 id='p-Vikidia-label'>Vikidia</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-.C3.80-propos-de-Vikidia"><a href="/wiki/Vikidia:%C3%80_propos">À propos de Vikidia</a></li><li id="n-Contact"><a href="/wiki/Vikidia:Contact">Contact</a></li><li id="n-sitesupport"><a href="//www.vikidia.org/dons.html" rel="nofollow">Faire un don</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Imprimer / exporter</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Sp%C3%A9cial:Livre&amp;bookcmd=book_creator&amp;referer=TRAPPIST-1">Créer un livre</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Sp%C3%A9cial:Livre&amp;bookcmd=render_article&amp;arttitle=TRAPPIST-1&amp;returnto=TRAPPIST-1&amp;oldid=1213142&amp;writer=rl">Télécharger comme PDF</a></li><li id="t-print"><a href="/w/index.php?title=TRAPPIST-1&amp;printable=yes" title="Version imprimable de cette page [p]" accesskey="p">Version imprimable</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Sur d’autres projets</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-wp"><a href="//fr.wikipedia.org/wiki/TRAPPIST-1" title="wp:TRAPPIST-1" lang="wp" hreflang="wp" class="interlanguage-link-target">Wikipédia</a></li>					</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> <div id="donation-box" style="border: 1px solid #a7d7f9; font-size: 1.6em; font-weight: bold; text-align: center; line-height: 1.6; background-color: rgb(242, 237, 248); margin-bottom: 0;">
+<div style="float: left; transform: scaleX(-1); margin-left: 0.5em; margin-top: 0.2em;"><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=contact%40vikidia%2eorg&amp;lc=FR&amp;item_name=Association%20Vikidia%2c%20Encyclopedie%20pour%20enfants&amp;no_note=0&amp;currency_code=EUR&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHostedGuest" rel="nofollow"><img alt="Open Clip Art Library Piggy Bank.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Open_Clip_Art_Library_Piggy_Bank.svg/60px-Open_Clip_Art_Library_Piggy_Bank.svg.png" width="60" height="58" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Open_Clip_Art_Library_Piggy_Bank.svg/90px-Open_Clip_Art_Library_Piggy_Bank.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Open_Clip_Art_Library_Piggy_Bank.svg/120px-Open_Clip_Art_Library_Piggy_Bank.svg.png 2x" data-file-width="456" data-file-height="442" /></a></div>
+<div><a rel="nofollow" class="external text" href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=contact%40vikidia%2eorg&amp;lc=FR&amp;item_name=Association%20Vikidia%2c%20Encyclopedie%20pour%20enfants&amp;no_note=0&amp;currency_code=EUR&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHostedGuest">Vikidia est une association et existe grâce à des dons.<br />Pour maintenir les serveurs de Vikidia allumés &#160;: clique ici&#160;!</a><div style="font-size: 0.5em; font-weight: normal; line-height: 1; padding-bottom: 0.3em; font-style: italic;"></div></div>
+</div>
+<div id="donation-box" style="margin-top: 0em; border: 1px solid #a7d7f9; font-size: 1.6em; font-weight: bold; text-align: center; line-height: 1.6; background-color: #FFFFFF;">
+<div style="float: left; margin-left: 1em; padding-top: 0.3em;"><a href="https://www.lilo.org/?utm_source=vikidia" rel="nofollow"><img alt="Logo-lilo.png" src="//download.vikidia.org/vikidia/fr/images/thumb/9/91/Logo-lilo.png/80px-Logo-lilo.png" width="80" height="28" srcset="//download.vikidia.org/vikidia/fr/images/thumb/9/91/Logo-lilo.png/120px-Logo-lilo.png 1.5x, //download.vikidia.org/vikidia/fr/images/thumb/9/91/Logo-lilo.png/160px-Logo-lilo.png 2x" data-file-width="221" data-file-height="77" /></a></div>
+<p><a rel="nofollow" class="external text" href="https://www.lilo.org/?utm_source=vikidia">Le saviez-vous&#160;? Vous pouvez financer gratuitement Vikidia en utilisant le moteur de recherche solidaire Lilo.</a>
+</p>
+</div>
+<p><br />
+Par Vikidia, l’encyclopédie pour les jeunes, qui explique aux enfants et à ceux qui veulent une présentation simple d'un sujet.<br />
+Dernière modification de cette page le 23 février 2019 à 19:29.<br />
+</p></li>
+											<li id="footer-info-copyright">Le contenu est disponible sous licence <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-Share Alike 3.0</a> sauf mention contraire.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/Vikidia:Confidentialit%C3%A9" title="Vikidia:Confidentialité">Politique de confidentialité</a></li>
+											<li id="footer-places-about"><a href="/wiki/Vikidia:%C3%80_propos" title="Vikidia:À propos">À propos de Vikidia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Vikidia:Avertissements_g%C3%A9n%C3%A9raux" title="Vikidia:Avertissements généraux">Avertissements</a></li>
+											<li id="footer-places-mobileview"><a href="https://fr.vikidia.org/w/index.php?title=TRAPPIST-1&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Version mobile</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://creativecommons.org/licenses/by-sa/3.0/"><img src="/w/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution-Share Alike 3.0" width="88" height="31"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script type="b5c4306460f1c017bd1c8c02-text/javascript">(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.300","walltime":"2.584","ppvisitednodes":{"value":1367,"limit":1000000},"ppgeneratednodes":{"value":4053,"limit":1000000},"postexpandincludesize":{"value":12300,"limit":2097152},"templateargumentsize":{"value":2800,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00% 2169.684      1 -total","  0.77%   16.798      7 Modèle:Article_détaillé","  0.72%   15.607      8 Modèle:Méta_mini_bandeau","  0.60%   12.967      8 Modèle:Unité","  0.37%    8.112      1 Modèle:Portail","  0.36%    7.873      7 Modèle:Multi_lien","  0.28%    6.152      1 Modèle:Super_Article","  0.19%    4.024      1 Modèle:Portail_astronomie","  0.16%    3.531      1 Modèle:Méta_bandeau","  0.15%    3.258      2 Modèle:Méta_lien_portail"]},"cachereport":{"timestamp":"20190224235023","ttl":86400,"transientcontent":false}}});});</script><!-- Piwik -->
+<script type="b5c4306460f1c017bd1c8c02-text/javascript">
+  var _paq = _paq || [];
+  _paq.push(["disableCookies"]);
+  _paq.push(["trackPageView"]);
+  _paq.push(["enableLinkTracking"]);
+
+  (function() {
+    var u = (("https:" == document.location.protocol) ? "https" : "http") + "://";
+    _paq.push(["setTrackerUrl", u+"stats.vikidia.org/"+"piwik.php"]);
+    _paq.push(["setSiteId", "1"]);
+    var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
+    g.defer=true; g.async=true; g.src=u+"download.vikidia.org/piwik.js"; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Piwik Code -->
+
+<!-- Piwik Image Tracker -->
+<noscript><img src="https://stats.vikidia.org/piwik.php?idsite=1&rec=1" style="border:0" alt="" /></noscript>
+<!-- End Piwik --><script type="b5c4306460f1c017bd1c8c02-text/javascript">(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":147});});</script>
+	<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/cb7744ae/cloudflare-static/rocket-loader.min.js" data-cf-settings="b5c4306460f1c017bd1c8c02-|49" defer=""></script></body>
+</html>

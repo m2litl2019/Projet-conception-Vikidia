@@ -1,0 +1,624 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="fr" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Rubik's Cube - Vikidia, l’encyclopédie des 8-13 ans</title>
+<script type="8d0c2fc861e5d4ffe80e0144-text/javascript">document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script type="8d0c2fc861e5d4ffe80e0144-text/javascript">(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Rubik's_Cube","wgTitle":"Rubik's Cube","wgCurRevisionId":1212624,"wgRevisionId":1212624,"wgArticleId":71970,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Super article","Article de la semaine 2015","Portail:loisirs/Pages liées","Rubik's Cube","Années 1980"],"wgBreakFrames":false,"wgPageContentLanguage":"fr","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"],"wgMonthNamesShort":["","jan","fév","mar","avr","mai","juin","juil","août","sep","oct","nov","déc"],"wgRelevantPageName":"Rubik's_Cube","wgRelevantArticleId":71970,"wgRequestId":"20404b0a68a07ecda93a9ef7","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVisualEditor":{"pageLanguageCode":"fr","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":false},"wgWikiEditorEnabledModules":{"toolbar":true,"preview":true,"publish":false},"wgPreferredVariant":"fr","wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1x2qlv5",function($,jQuery,require,module){mw.user.options.set({"variant":"fr"});});mw.loader.implement("user.tokens@091j2g3",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.gadget.InviteDiscussion","ext.gadget.Edittools","mmv.head","mmv.bootstrap.autostart","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="//download.vikidia.org/fr.vikidia.org/load.php?debug=false&amp;lang=fr&amp;modules=ext.cite.styles%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="//download.vikidia.org/fr.vikidia.org/load.php?debug=false&amp;lang=fr&amp;modules=startup&amp;only=scripts&amp;skin=vector" type="8d0c2fc861e5d4ffe80e0144-text/javascript"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="//download.vikidia.org/fr.vikidia.org/load.php?debug=false&amp;lang=fr&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.2"/>
+<link rel="alternate" type="application/x-wiki" title="Modifier" href="/w/index.php?title=Rubik%27s_Cube&amp;action=edit"/>
+<link rel="edit" title="Modifier" href="/w/index.php?title=Rubik%27s_Cube&amp;action=edit"/>
+<link rel="shortcut icon" href="//download.vikidia.org/vikidia/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Vikidia (fr)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://fr.vikidia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Flux Atom de Vikidia" href="/w/index.php?title=Sp%C3%A9cial:Modifications_r%C3%A9centes&amp;feed=atom"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Rubik_s_Cube rootpage-Rubik_s_Cube skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="fr">Rubik's Cube</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">« Rubik&#39;s Cube » expliqué aux enfants par Vikidia, l’encyclopédie junior</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Aller à :					<a href="#mw-head">navigation</a>, 					<a href="#p-search">rechercher</a>
+				</div>
+				<div id="mw-content-text" lang="fr" dir="ltr" class="mw-content-ltr"><div style="margin-bottom: 5px; padding-bottom: 5px; text-indent: 30px; border-bottom: 1px solid #AAA;"><img alt="Super article" src="//download.vikidia.org/vikidia/fr/images/thumb/b/ba/Icone_%C3%A9toile.png/20px-Icone_%C3%A9toile.png" title="Super article" width="20" height="20" srcset="//download.vikidia.org/vikidia/fr/images/thumb/b/ba/Icone_%C3%A9toile.png/30px-Icone_%C3%A9toile.png 1.5x, //download.vikidia.org/vikidia/fr/images/thumb/b/ba/Icone_%C3%A9toile.png/40px-Icone_%C3%A9toile.png 2x" data-file-width="512" data-file-height="512" /> <i>Tu lis un «&#160;<a href="/wiki/Vikidia:Super_article" title="Vikidia:Super article">super article</a>&#160;».</i></div>
+<table class="bandeau plainlinks" style="width: 70%; margin: auto; margin-bottom: 10px; text-align: center; background-color: white; border: 1px solid #6666CC; border-right-width: 2px; border-bottom-width: 2px;width: 25%; clear: right; float: right; margin: 0 0 10px 20px; text-align: left;">
+<tr>
+<td style="width: 10%;">
+<div><img alt="Quiz" src="//download.vikidia.org/vikidia/fr/images/thumb/f/f9/Ic%C3%B4ne_quiz.png/35px-Ic%C3%B4ne_quiz.png" title="Quiz" width="35" height="35" srcset="//download.vikidia.org/vikidia/fr/images/thumb/f/f9/Ic%C3%B4ne_quiz.png/53px-Ic%C3%B4ne_quiz.png 1.5x, //download.vikidia.org/vikidia/fr/images/thumb/f/f9/Ic%C3%B4ne_quiz.png/70px-Ic%C3%B4ne_quiz.png 2x" data-file-width="150" data-file-height="150" /></div>
+</td>
+<td>
+<div style="">Il y a un <a href="/wiki/Quiz:Rubik%27s_Cube" class="mw-redirect" title="Quiz:Rubik's Cube">quiz sur <b>le Rubik's Cube</b></a>.</div>
+</td>
+
+</tr>
+</table>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/Fichier:Rubik%27s_cube.svg" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Rubik%27s_cube.svg/220px-Rubik%27s_cube.svg.png" width="220" height="229" class="thumbimage" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Rubik%27s_cube.svg/330px-Rubik%27s_cube.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Rubik%27s_cube.svg/440px-Rubik%27s_cube.svg.png 2x" data-file-width="480" data-file-height="500" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Fichier:Rubik%27s_cube.svg" class="internal" title="Agrandir"></a></div>Un Rubik's Cube avec une <a href="/wiki/Face_(g%C3%A9om%C3%A9trie)" title="Face (géométrie)">face</a> en cours de rotation.</div></div></div>
+<p>Le <b>Rubik's Cube</b> ou, bien plus rarement, <b>Cube de Rubik</b>, est un <a href="/wiki/Casse-t%C3%AAte" title="Casse-tête">casse-tête</a> inventé par le <a href="/wiki/Hongrois" title="Hongrois">Hongrois</a> <a href="/wiki/Ern%C5%91_Rubik" title="Ernő Rubik">Ernő Rubik</a> en 1974 et qui s'est rapidement propagé sur toute la planète dans les <a href="/wiki/Ann%C3%A9es_1980" title="Années 1980">années 1980</a>.
+</p><p>Au&#160;Canada&#160;francophone, il est connu sous le nom de&#160;<b>Cube Rubik</b>&#160;(sans «&#160;de&#160;») alors que l'appellation&#160;<b>Rubik's Cube</b>&#160;est entièrement anglophone.
+</p><p>Il s'agit d'un <a href="/wiki/Casse-t%C3%AAte" title="Casse-tête">casse-tête</a> <a href="/wiki/G%C3%A9om%C3%A9trie" title="Géométrie">géométrique</a> en <a href="/wiki/3D" title="3D">3D</a> composé de 26 petits cubes (il ne contient pas de cube central). Un système d'axes, breveté par son auteur, <a href="/wiki/Ern%C5%91_Rubik" title="Ernő Rubik">Ernő Rubik</a>, est dissimulé au centre du cube. Ce système d'axes est visible dans une photo du Rubik's démonté, dans la section <a rel="nofollow" class="external text" href="https://fr.vikidia.org/wiki/Rubik%27s_Cube#Description">Description</a>.
+</p>
+<div id="toc" class="toc"><div id="toctitle" class="toctitle"><h2>Sommaire</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Histoire"><span class="tocnumber">1</span> <span class="toctext">Histoire</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Description"><span class="tocnumber">2</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#R.C3.A9solution"><span class="tocnumber">3</span> <span class="toctext">Résolution</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#M.C3.A9thode_.22couche_par_couche.22"><span class="tocnumber">3.1</span> <span class="toctext">Méthode "couche par couche"</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#M.C3.A9thode_.22sandwich.22"><span class="tocnumber">3.2</span> <span class="toctext">Méthode "sandwich"</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#M.C3.A9thode_de_Lars_Petrus"><span class="tocnumber">3.3</span> <span class="toctext">Méthode de Lars Petrus</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#M.C3.A9thode_de_Jessica_Fridrich_.28ou_CFOP.29"><span class="tocnumber">3.4</span> <span class="toctext">Méthode de Jessica Fridrich (ou CFOP)</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#M.C3.A9thodes_corners_first_.28Guimond.2C_Ortega_et_Waterman.29"><span class="tocnumber">3.5</span> <span class="toctext">Méthodes corners first (Guimond, Ortega et Waterman)</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Remarque"><span class="tocnumber">3.6</span> <span class="toctext">Remarque</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Championnats_et_records"><span class="tocnumber">4</span> <span class="toctext">Championnats et records</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Variantes"><span class="tocnumber">5</span> <span class="toctext">Variantes</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#D.C3.A9coration_du_Rubik.27s_Cube"><span class="tocnumber">5.1</span> <span class="toctext">Décoration du Rubik's Cube</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Records_du_Rubik.27s_Cube_et_de_ses_variantes"><span class="tocnumber">6</span> <span class="toctext">Records du Rubik's Cube et de ses variantes</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#R.C3.A9compense"><span class="tocnumber">7</span> <span class="toctext">Récompense</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Voir_aussi"><span class="tocnumber">8</span> <span class="toctext">Voir aussi</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#R.C3.A9f.C3.A9rences"><span class="tocnumber">9</span> <span class="toctext">Références</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Histoire">Histoire</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rubik%27s_Cube&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Modifier la section : Histoire">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Rubik%27s_Cube&amp;action=edit&amp;section=1" title="Modifier la section : Histoire">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/Fichier:Erno_Rubik_Genius_Gala_2014.jpg" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Erno_Rubik_Genius_Gala_2014.jpg/200px-Erno_Rubik_Genius_Gala_2014.jpg" width="200" height="255" class="thumbimage" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Erno_Rubik_Genius_Gala_2014.jpg/300px-Erno_Rubik_Genius_Gala_2014.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Erno_Rubik_Genius_Gala_2014.jpg/400px-Erno_Rubik_Genius_Gala_2014.jpg 2x" data-file-width="1337" data-file-height="1705" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Fichier:Erno_Rubik_Genius_Gala_2014.jpg" class="internal" title="Agrandir"></a></div>Ernő Rubik, l'inventeur du Rubik's Cube .</div></div></div>
+<p>Le Rubik's Cube est inventé le <a href="/w/index.php?title=19_mai&amp;action=edit&amp;redlink=1" class="new" title="19 mai (page inexistante)">19</a> <a href="/w/index.php?title=Mai_1974&amp;action=edit&amp;redlink=1" class="new" title="Mai 1974 (page inexistante)">mai</a> <a href="/wiki/1974" class="mw-redirect" title="1974">1974</a> par <a href="/wiki/Ern%C5%91_Rubik" title="Ernő Rubik">Ernő Rubik</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup>, un sculpteur et professeur d'architecture. En s'intéressant aux mathématiques et en particulier à la <a href="/wiki/G%C3%A9om%C3%A9trie" title="Géométrie">géométrie</a> et à l'étude des formes en <a href="/wiki/3D" title="3D">3D</a>, Rubik eut l'idée de construire ce cube pour faire deviner à ses étudiants quel était son mécanisme interne, comment les petits cubes pouvaient tourner sur les trois axes tout en restant soudés, et ainsi les faire s'intéresser à la géométrie en trois dimensions<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">2</a></sup>. Ensuite, sur la suggestion d'un ami, il eut l'idée de colorer les petits cubes de 6 couleurs différentes, constatant qu'après été mélangé, il est extrêmement difficile de remettre le cube dans sa position initiale (une couleur par <a href="/wiki/Face_(g%C3%A9om%C3%A9trie)" title="Face (géométrie)">face</a>). Alors, il le commercialisa en tant que "<a href="/wiki/Casse-t%C3%AAte" title="Casse-tête">casse-tête</a>" mathématique.
+</p><p>Bientôt, le cube gagna la popularité des Hongrois par le bouche à oreille, puis envahit toute l'Europe. En septembre 1979, un accord est signé avec Ideal Toys, une compagnie de fabrication de jouets, afin que le cube soit distribué de manière planétaire.
+</p><p>Le Rubik's Cube atteint son paroxysme de popularité au début des <a href="/wiki/Ann%C3%A9es_1980" title="Années 1980">années 1980</a>&#160;: plus de 100 millions de cubes sont vendus entre 1980 et 1982. De nombreuses variantes sont commercialisées peu après, notamment le <a href="/wiki/Rubik%27s_Revenge" title="Rubik's Revenge">Rubik's Revenge</a>, une version de 4x4x4 cubes. Il existe aussi le <a href="/wiki/Pocket_Cube" title="Pocket Cube">Pocket Cube</a> et le <a href="/wiki/Professor%27s_Cube" title="Professor's Cube">Professor's Cube</a> (respectivement 2x2x2 et 5x5x5) et des versions dans d'autres formes, comme la <a href="/wiki/Pyramide_(g%C3%A9om%C3%A9trie)" title="Pyramide (géométrie)">pyramide</a> et le <a href="/wiki/Dod%C3%A9ca%C3%A8dre_r%C3%A9gulier" class="mw-redirect" title="Dodécaèdre régulier">dodécaèdre régulier</a>. Depuis juin 2008, <i>V-Cube</i> vend des modèles 6x6x6, 7x7x7 et 8x8x8.
+</p><p>En 1981, Patrick Bossert, écolier de douze ans, publie sa solution détaillée. <i>You can do the cube</i> se vend à 1,5 million d'exemplaires.
+</p>
+<table style="width: 90%; margin: auto; margin-bottom: 0.5em; background-color: transparent;" cellpadding="0" cellspacing="0">
+<tr>
+<td colspan="2">
+</td>
+<td rowspan="2" style="width: 187px; height: 37px; vertical-align: top; background:#ffddff; border: 1px solid #BE66CC; border-bottom: 0;"><a href="/wiki/Fichier:Le_savais-tu.png" class="image"><img alt="Le savais-tu.png" src="//download.vikidia.org/vikidia/fr/images/7/7a/Le_savais-tu.png" width="187" height="37" data-file-width="187" data-file-height="37" /></a><div style="margin-top:-33px; padding-left:43px"> <span style="font-size: 150%;">Le savais-tu&#160;?</span></div>
+</td></tr>
+<tr>
+<td style="width:1px; border-bottom:1px solid #BE66CC">
+</td>
+<td style="-moz-border-radius-topright:5em; border-top-right-radius:5em; border:1px solid #BE66CC; background:#ffddff; border-bottom:1px dotted #BE66CC; text-align:center; font-size:95%; width:90%; padding-left: 5px;"> <b><span style="font-size: 150%;">Pyraminx, le vrai premier puzzle de la famille</span></b>
+</td></tr>
+<tr>
+<td colspan="3" style="z-index:0;padding:2px; background:#FFeeFF; border:1px solid #BE66CC; border-top:0; border-bottom:1" width="50%" valign="top"> Le <a href="/wiki/Pyraminx" title="Pyraminx">Pyraminx</a>, inventé par <a href="/wiki/Uwe_M%C3%A8ffert" title="Uwe Mèffert">Uwe Mèffert</a>, l'a été en 1970&#160;: ce n'est qu'en voyant l'expansion du Rubik's Cube qu'il a décidé de le commercialiser&#160;!
+</td></tr></table>
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rubik%27s_Cube&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Modifier la section : Description">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Rubik%27s_Cube&amp;action=edit&amp;section=2" title="Modifier la section : Description">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Le Rubik's Cube est un <a href="/wiki/Cube" class="mw-disambig" title="Cube">cube</a> dont chaque <a href="/wiki/Face_(g%C3%A9om%C3%A9trie)" title="Face (géométrie)">faceest</a> divisée en neuf cubes miniatures, qui peuvent tourner indépendamment les uns des autres. Le cube est composé d'un axe central qui soutient tous les mini-cubes des arêtes (2 faces visibles), tous les mini-cubes des sommets (3 faces visibles) et les mini-cubes placés au centre de leurs faces respectives. Au final, chaque face du cube est composée d'une couleur homogène, mais différente de celle des autres faces, néanmoins la rotation indépendante d'une face entraîne le mélange des cubes de coin et d'arête sur cette face.
+</p><p>Pour gagner, il est nécessaire que, après l'avoir mélangé, le joueur rende son apparence d'origine au cube (les six faces sont de couleur unie). Les couleurs pour l'original sont&#160;: <a href="/wiki/Blanc" title="Blanc">blanc</a> en face de <a href="/wiki/Jaune" title="Jaune">jaune</a>, <a href="/wiki/Vert" title="Vert">vert</a> en face de <a href="/wiki/Bleu" title="Bleu">bleu</a> et <a href="/wiki/Orange" class="mw-disambig" title="Orange">orange</a> en face de <a href="/wiki/Rouge" title="Rouge">rouge</a>. Sur d'autres versions, les positions des couleurs et même les couleurs elles-mêmes peuvent changer.
+</p><p>Il est sorti de nombreuses variantes (voir la section <i><a href="#Variantes">Variantes</a></i>).
+</p><p>Le Rubik's Cube peut obtenir <b>43 252 003 274 489 856 000</b> combinaisons différentes. 
+</p>
+<center><ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/Fichier:Rubiks_cube_by_keqs.jpg" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Rubiks_cube_by_keqs.jpg/120px-Rubiks_cube_by_keqs.jpg" width="120" height="120" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Rubiks_cube_by_keqs.jpg/180px-Rubiks_cube_by_keqs.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Rubiks_cube_by_keqs.jpg/240px-Rubiks_cube_by_keqs.jpg 2x" data-file-width="1600" data-file-height="1600" /></a></div></div>
+			<div class="gallerytext">
+<p>Cube mélangé.
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/Fichier:Rubiks_cube_solved.jpg" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rubiks_cube_solved.jpg/120px-Rubiks_cube_solved.jpg" width="120" height="120" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rubiks_cube_solved.jpg/180px-Rubiks_cube_solved.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rubiks_cube_solved.jpg/240px-Rubiks_cube_solved.jpg 2x" data-file-width="600" data-file-height="600" /></a></div></div>
+			<div class="gallerytext">
+<p>Cube résolu.
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:30px auto;"><a href="/wiki/Fichier:Disassembled-rubix-1.jpg" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Disassembled-rubix-1.jpg/120px-Disassembled-rubix-1.jpg" width="120" height="90" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Disassembled-rubix-1.jpg/180px-Disassembled-rubix-1.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Disassembled-rubix-1.jpg/240px-Disassembled-rubix-1.jpg 2x" data-file-width="1024" data-file-height="768" /></a></div></div>
+			<div class="gallerytext">
+<p>Système interne du cube.
+</p>
+			</div>
+		</div></li>
+</ul></center>
+<h2><span class="mw-headline" id="R.C3.A9solution">Résolution</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rubik%27s_Cube&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Modifier la section : Résolution">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Rubik%27s_Cube&amp;action=edit&amp;section=3" title="Modifier la section : Résolution">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Il existe différentes techniques, consistant à réaliser des séquences d'une dizaine de mouvements chacune. Les techniques consistant à former la "croix" d'une face avant de finir cette face sont les plus connues.
+</p><p>On peut tenter de trouver la solution au hasard, mais l'<a href="/wiki/Esp%C3%A9rance_de_vie" title="Espérance de vie">espérance de vie humaine</a> étant trop courte, cette tactique n'est pas viable. Si l'on admet qu'un humain peut passer en revue une combinaison par seconde, il lui faudrait un temps quatre-vingt-six fois supérieur à l'âge actuel de l'univers (environ 500 millions de milliards de secondes), autrement dit plus de 43 milliards de milliards de secondes.
+</p><p>Il est possible de manipuler le cube méthodiquement, avec des séquences de mouvements prédéfinies qui permettent progressivement de remonter les mélanges du cube, c'est-à-dire de déplacer les petits cubes par étapes, sans perdre le fil de son travail précédent. Il est possible de résoudre le Rubik's sans avoir à apprendre des formules par cœur, mais cela demande en revanche un bon niveau de réflexion&#160;! Voici quelques exemples de méthodes.
+</p>
+<h3><span class="mw-headline" id="M.C3.A9thode_.22couche_par_couche.22">Méthode "couche par couche"</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rubik%27s_Cube&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Modifier la section : Méthode &quot;couche par couche&quot;">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Rubik%27s_Cube&amp;action=edit&amp;section=4" title="Modifier la section : Méthode &quot;couche par couche&quot;">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>C’est la plus simple à mettre en œuvre et la plus intuitive. La résolution du cube par cette méthode nécessite en moyenne un peu plus de 110 mouvements&#160;:
+</p>
+<ol><li> Réaliser une face, par exemple la face supérieure blanche, en prenant bien soin de placer correctement l'étage (placer les cubes entourant cette face) et les cubes centraux (bleu, orange, vert et rouge),</li>
+<li> puis le second étage (la rangée horizontale à mi-hauteur),</li>
+<li> déplacer les cubes-arête de la face du bas à leur place et les orienter correctement,</li>
+<li> rendre leur place aux cubes-sommets,</li>
+<li> enfin les orienter.</li></ol>
+<p>Chaque opération (tourner une arête ou un sommet, échanger deux arêtes ou deux sommets) devra parfois être réalisée deux fois si une configuration défavorable se présente. Pour chaque cas, il existe tout de même une formule (ou algorithme) qui permet de ne pas effectuer deux fois la même formule. Cela dit, cela nécessite davantage d'apprentissage et de connaissance de la résolution du Rubiks cube.
+</p>
+<h3><span class="mw-headline" id="M.C3.A9thode_.22sandwich.22">Méthode "sandwich"</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rubik%27s_Cube&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Modifier la section : Méthode &quot;sandwich&quot;">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Rubik%27s_Cube&amp;action=edit&amp;section=5" title="Modifier la section : Méthode &quot;sandwich&quot;">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Autre méthode intuitive&#160;:
+</p>
+<ol><li> Réaliser une face, par ex. la face orange.</li>
+<li> Réaliser la face opposée à celle déjà correcte (ici la face rouge), pour cela il faut d’abord placer correctement tous les coins, puis les orienter correctement, et enfin mettre les arêtes.</li>
+<li> Par échanges, amener chaque arête restante à sa place (à ce stade il ne reste plus que 4 arêtes à placer).</li>
+<li> Enfin placer, puis orienter ces 4 arêtes correctement.</li></ol>
+<h3><span class="mw-headline" id="M.C3.A9thode_de_Lars_Petrus">Méthode de Lars Petrus</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rubik%27s_Cube&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Modifier la section : Méthode de Lars Petrus">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Rubik%27s_Cube&amp;action=edit&amp;section=6" title="Modifier la section : Méthode de Lars Petrus">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Bien que moins automatisée, cette méthode est plus courte (env. 60 mouvements) et a l'avantage de conserver au maximum l'emplacement des cubes bien placés.
+</p>
+<ol><li> Réaliser un petit cube de la taille d'un <a href="/wiki/Pocket_Cube" title="Pocket Cube">Pocket</a> (2x2x2) constitué de 3 couleurs.</li>
+<li> Étendre ce petit cube à un <a href="/wiki/Parall%C3%A9l%C3%A9pip%C3%A8de" title="Parallélépipède">parallélépipède</a> (2x2x3) constitué de 4 couleurs sans détruire le petit cube.</li>
+<li> Orienter les arêtes restantes, de manière à pouvoir les placer orientées correctement en utilisant deux des six faces.</li>
+<li> Étendre le parallélépipède 2x2x3 à un parallélépipède 2x3x3 (deux couronnes du cube complet).</li>
+<li> Placer et orienter les 4 coins restants.</li>
+<li> Placer les 4 arêtes restantes.</li></ol>
+<h3><span class="mw-headline" id="M.C3.A9thode_de_Jessica_Fridrich_.28ou_CFOP.29">Méthode de Jessica Fridrich (ou CFOP)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rubik%27s_Cube&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Modifier la section : Méthode de Jessica Fridrich (ou CFOP)">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Rubik%27s_Cube&amp;action=edit&amp;section=7" title="Modifier la section : Méthode de Jessica Fridrich (ou CFOP)">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Cette méthode nécessite environ 60 mouvements. C'est celle utilisée dans l'image de début d'article. Elle est très utilisée en <a href="/wiki/Speedcubing" class="mw-redirect" title="Speedcubing">speedcubing</a>, car systématique&#160;:
+</p>
+<ol><li> Réaliser une croix sur une face (presque toujours la blanche).</li>
+<li> Réaliser les F2L, c'est-à-dire finir la première face et réaliser la seconde couche.</li>
+<li> Réaliser l'OLL, c'est-à-dire orienter les coins de la dernière couche.</li>
+<li> Réaliser la PLL, c'est-à-dire replacer les cubes de la dernière couche.</li></ol>
+<h3><span class="mw-headline" id="M.C3.A9thodes_corners_first_.28Guimond.2C_Ortega_et_Waterman.29">Méthodes corners first (Guimond, Ortega et Waterman)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rubik%27s_Cube&amp;veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Modifier la section : Méthodes corners first (Guimond, Ortega et Waterman)">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Rubik%27s_Cube&amp;action=edit&amp;section=8" title="Modifier la section : Méthodes corners first (Guimond, Ortega et Waterman)">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Une autre approche, intuitive, consister à placer les cubes-sommets en premier. Cette méthode donne l'avantage de faciliter le placement des arêtes tout en gardant les coins placés. Cette méthode, très utilisée dans les années 1980, l'est moins aujourd'hui. La résolution par cette technique nécessite de 60 à 70 mouvements (une cinquante seulement si on compte un mouvement de tranche centrale comme un seul mouvement au lieu de deux).
+</p>
+<ol><li> Placer les coins (plusieurs méthodes possibles).</li>
+<li> Placer et orienter les arêtes des deux couches extérieures.</li>
+<li> Résoudre la couche intermédiaire.</li></ol>
+<h3><span class="mw-headline" id="Remarque">Remarque</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rubik%27s_Cube&amp;veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Modifier la section : Remarque">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Rubik%27s_Cube&amp;action=edit&amp;section=9" title="Modifier la section : Remarque">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Si un cubelet est bien placé, les couleurs ne le sont pas forcément. Un cube d'arête a deux positions de couleurs possibles et un cube-sommet trois. 
+</p><p>Chaque étape intermédiaire utilise des algorithmes spécifiques. 
+</p><p>En vérité il existe de très nombreuses méthodes de résolution, si bien que des spécialistes y consacrent leur <a href="/w/index.php?title=Doctorat&amp;action=edit&amp;redlink=1" class="new" title="Doctorat (page inexistante)">thèse universitaire</a>. Des compétitions sont organisées, et les meilleurs peuvent résoudre le cube en moins de 15 secondes grâce à des dizaines d'algorithmes (80 pour la méthode de Fridrich, la plus utilisée en <a href="/wiki/Speedcubing" class="mw-redirect" title="Speedcubing">speedcubing</a>).
+</p>
+<h2><span class="mw-headline" id="Championnats_et_records">Championnats et records</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rubik%27s_Cube&amp;veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Modifier la section : Championnats et records">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Rubik%27s_Cube&amp;action=edit&amp;section=10" title="Modifier la section : Championnats et records">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Il existe une <a href="/wiki/World_Cube_Association" title="World Cube Association">World Cube Association</a> qui organise des championnats suivant des règles bien fixées&#160;: chaque joueur utilise son cube personnel (parfois graissé) et la position de départ est identique pour tous les joueurs. Le premier championnat s'est déroulé à <a href="/wiki/Budapest" title="Budapest">Budapest</a> en <a href="/wiki/1982" class="mw-redirect" title="1982">1982</a>.
+</p><p>Le temps le plus rapide jamais réalisé et vérifié est de <b>5,25 s</b>, réalisé par le lycéen Collin Burns lors de son 3<sup>e</sup> essai dans une compétition locale d'un lycée de <a href="/wiki/Pennsylvanie" title="Pennsylvanie">Pennsylvanie</a>. Sa moyenne fut de <b>8,70 s</b>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">3</a></sup>
+</p><p>Le record officiel basé sur la moyenne de 3 des 5 essais (le plus rapide et le moins bon sont exclus) est de <b>6,54 s</b>, détenu par l'Australien <a href="/wiki/Feliks_Zemdegs" title="Feliks Zemdegs">Feliks Zemdegs</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">4</a></sup>
+</p><p>Il existe également des championnats moins conventionnels, mais reconnus tout de même par la World Cube Association&#160;: résolution les yeux bandés (le <i>blindfold cubing</i>), avec une seule main, avec les pieds...
+</p><p>En 2011, un robot construit en <a href="/wiki/Lego" title="Lego">Lego</a>, Cube Stormer II, a battu le record du monde de <b>5,66 s</b> détenu par un humain. Le robot s'est approprié le record et l'a alors établi à <b>5,27 s</b>. Il tournait grâce à une application <a href="/wiki/Android" title="Android">Android</a> sur un Samsung Galaxy S II. Le robot a été programmé par Mike Dobson et David Gilday.
+</p><p>Depuis, ces mêmes programmeurs ont créé le robot <a rel="nofollow" class="external text" href="https://www.lemonde.fr/technologies/video/2014/03/17/un-robot-pulverise-le-record-du-monde-du-rubik-s-cube_4384634_651865.html">ARM-Powered Cubestormer 3</a> . Ce robot a explosé le record détenu par leur robot précédent, Cube Stormer II. Il a réalisé le célèbre casse-tête en seulement <b>3,253 secondes</b>. Ce robot était lui aussi en Lego et fonctionnait grâce à une application Android sur un Samsung Galaxy S4.
+</p>
+<h2><span class="mw-headline" id="Variantes">Variantes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rubik%27s_Cube&amp;veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="Modifier la section : Variantes">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Rubik%27s_Cube&amp;action=edit&amp;section=11" title="Modifier la section : Variantes">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Le succès du cube a permis à plusieurs variantes de voir le jour. Rubik a commercialisé <span style="cursor:help;border-bottom:1px dotted black;" title="en comptant le Rubik&#39;s Cube lui-même">quatre variantes cubiques<span style="position:relative; top:-0.3em;"><img alt="" src="//download.vikidia.org/vikidia/fr/images/thumb/9/9f/Interrogation.svg/12px-Interrogation.svg.png" width="12" height="12" srcset="//download.vikidia.org/vikidia/fr/images/thumb/9/9f/Interrogation.svg/18px-Interrogation.svg.png 1.5x, //download.vikidia.org/vikidia/fr/images/thumb/9/9f/Interrogation.svg/24px-Interrogation.svg.png 2x" data-file-width="233" data-file-height="233" /></span></span>, en changeant le nombre de cubes par arête&#160;: 
+</p>
+<center><ul class="gallery mw-gallery-traditional" style="max-width: 692px;_width: 692px;">
+		<li class="gallerybox" style="width: 165px"><div style="width: 165px">
+			<div class="thumb" style="width: 160px;"><div style="margin:25px auto;"><a href="/wiki/Fichier:Pocket_cube_solved.jpg" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Pocket_cube_solved.jpg/130px-Pocket_cube_solved.jpg" width="130" height="130" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Pocket_cube_solved.jpg/195px-Pocket_cube_solved.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Pocket_cube_solved.jpg/260px-Pocket_cube_solved.jpg 2x" data-file-width="600" data-file-height="600" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/wiki/Pocket_Cube" title="Pocket Cube">Pocket Cube</a> (2x2x2)
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 165px"><div style="width: 165px">
+			<div class="thumb" style="width: 160px;"><div style="margin:25px auto;"><a href="/wiki/Fichier:Rubiks_cube_solved.jpg" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rubiks_cube_solved.jpg/130px-Rubiks_cube_solved.jpg" width="130" height="130" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rubiks_cube_solved.jpg/195px-Rubiks_cube_solved.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rubiks_cube_solved.jpg/260px-Rubiks_cube_solved.jpg 2x" data-file-width="600" data-file-height="600" /></a></div></div>
+			<div class="gallerytext">
+<p>Rubik's Cube (3x3x3)
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 165px"><div style="width: 165px">
+			<div class="thumb" style="width: 160px;"><div style="margin:25px auto;"><a href="/wiki/Fichier:Rubiks_revenge_scrambled.jpg" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Rubiks_revenge_scrambled.jpg/130px-Rubiks_revenge_scrambled.jpg" width="130" height="130" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Rubiks_revenge_scrambled.jpg/195px-Rubiks_revenge_scrambled.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Rubiks_revenge_scrambled.jpg/260px-Rubiks_revenge_scrambled.jpg 2x" data-file-width="622" data-file-height="622" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/wiki/Rubik%27s_Revenge" title="Rubik's Revenge">Rubik's Revenge</a> (4x4x4)
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 165px"><div style="width: 165px">
+			<div class="thumb" style="width: 160px;"><div style="margin:25px auto;"><a href="/wiki/Fichier:Professors_cube.jpg" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Professors_cube.jpg/130px-Professors_cube.jpg" width="130" height="130" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Professors_cube.jpg/195px-Professors_cube.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Professors_cube.jpg/260px-Professors_cube.jpg 2x" data-file-width="600" data-file-height="600" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/wiki/Professor%27s_Cube" title="Professor's Cube">Professor's Cube</a> (5x5x5)
+</p>
+			</div>
+		</div></li>
+</ul></center>
+<p>Il existe aussi des versions plus complexes, des cubes <a href="/wiki/V-Cube_6" title="V-Cube 6">6×6×6</a> et <a href="/wiki/V-Cube_7" title="V-Cube 7">7×7×7</a>, inventés par l'Espagnol Panagiotis Verdes&#160;:
+</p>
+<center><ul class="gallery mw-gallery-traditional" style="max-width: 346px;_width: 346px;">
+		<li class="gallerybox" style="width: 165px"><div style="width: 165px">
+			<div class="thumb" style="width: 160px;"><div style="margin:25px auto;"><a href="/wiki/Fichier:V-Cube_6_small.jpg" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/V-Cube_6_small.jpg/130px-V-Cube_6_small.jpg" width="130" height="130" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/V-Cube_6_small.jpg/195px-V-Cube_6_small.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/V-Cube_6_small.jpg/260px-V-Cube_6_small.jpg 2x" data-file-width="600" data-file-height="600" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/wiki/V-Cube_6" title="V-Cube 6">V-Cube 6</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 165px"><div style="width: 165px">
+			<div class="thumb" style="width: 160px;"><div style="margin:25px auto;"><a href="/wiki/Fichier:V-Cube_7_solved.jpg" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/V-Cube_7_solved.jpg/130px-V-Cube_7_solved.jpg" width="130" height="130" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/V-Cube_7_solved.jpg/195px-V-Cube_7_solved.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/V-Cube_7_solved.jpg/260px-V-Cube_7_solved.jpg 2x" data-file-width="800" data-file-height="800" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/wiki/V-Cube_7" title="V-Cube 7">V-Cube 7</a>
+</p>
+			</div>
+		</div></li>
+</ul></center>
+<div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:402px;"><a href="/wiki/Fichier:Rubik%27s_Cube_variants.jpg" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Rubik%27s_Cube_variants.jpg/400px-Rubik%27s_Cube_variants.jpg" width="400" height="248" class="thumbimage" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Rubik%27s_Cube_variants.jpg/600px-Rubik%27s_Cube_variants.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Rubik%27s_Cube_variants.jpg/800px-Rubik%27s_Cube_variants.jpg 2x" data-file-width="1200" data-file-height="744" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Fichier:Rubik%27s_Cube_variants.jpg" class="internal" title="Agrandir"></a></div>Toutes les variantes du Rubik's Cube</div></div></div></div>
+Il existe d'autres variantes, utilisant des <a href="/wiki/Poly%C3%A8dre" title="Polyèdre">polyèdres</a> différents. <a href="/wiki/Uwe_M%C3%A8ffert" title="Uwe Mèffert">Uwe Mèffert</a> inventa la plupart de ces variantes&#160;: <ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/Fichier:Pyraminx_solved.jpg" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Pyraminx_solved.jpg/114px-Pyraminx_solved.jpg" width="114" height="120" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Pyraminx_solved.jpg/171px-Pyraminx_solved.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/0/04/Pyraminx_solved.jpg 2x" data-file-width="200" data-file-height="210" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/wiki/Pyraminx" title="Pyraminx">Pyraminx</a>  (<a href="/wiki/T%C3%A9tra%C3%A8dre" title="Tétraèdre">tétraèdre</a>)
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/Fichier:Skewb.jpg" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Skewb.jpg/120px-Skewb.jpg" width="120" height="120" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Skewb.jpg/180px-Skewb.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Skewb.jpg/240px-Skewb.jpg 2x" data-file-width="1024" data-file-height="1024" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/wiki/Skewb" title="Skewb">Skewb</a> (<a href="/wiki/Cube" class="mw-disambig" title="Cube">cube</a>)
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:19px auto;"><a href="/wiki/Fichier:Megaminx6.jpg" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Megaminx6.jpg/120px-Megaminx6.jpg" width="120" height="112" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Megaminx6.jpg/180px-Megaminx6.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/5/55/Megaminx6.jpg 2x" data-file-width="200" data-file-height="187" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/wiki/Megaminx" title="Megaminx">Megaminx</a> (<a href="/wiki/Dod%C3%A9ca%C3%A8dre_r%C3%A9gulier" class="mw-redirect" title="Dodécaèdre régulier">dodécaèdre régulier</a>)
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/Fichier:Square-1_solved.jpg" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Square-1_solved.jpg/120px-Square-1_solved.jpg" width="120" height="120" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Square-1_solved.jpg/180px-Square-1_solved.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Square-1_solved.jpg/240px-Square-1_solved.jpg 2x" data-file-width="600" data-file-height="600" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/wiki/Square_One" title="Square One">Square One</a> (<a href="/wiki/Cube" class="mw-disambig" title="Cube">cube</a>)
+</p>
+			</div>
+		</div></li>
+</ul>Ou encore la Twistball, conçue par Josip Matijek&#160;:<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/Fichier:Twist-ball-bleu-vert.jpg" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Twist-ball-bleu-vert.jpg/120px-Twist-ball-bleu-vert.jpg" width="120" height="120" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Twist-ball-bleu-vert.jpg/180px-Twist-ball-bleu-vert.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Twist-ball-bleu-vert.jpg/240px-Twist-ball-bleu-vert.jpg 2x" data-file-width="1460" data-file-height="1460" /></a></div></div>
+			<div class="gallerytext">
+<p>Twistball bleu-vert
+</p>
+			</div>
+		</div></li>
+</ul>Il existe d'autres variantes, tels le Rubik's Barrel ou le <a href="/w/index.php?title=Puzzle_multi-pyramidal&amp;action=edit&amp;redlink=1" class="new" title="Puzzle multi-pyramidal (page inexistante)">Puzzle multi-pyramidal</a>.
+<table style="width: 90%; margin: auto; margin-bottom: 0.5em; background-color: transparent;" cellpadding="0" cellspacing="0">
+<tr>
+<td colspan="2">
+</td>
+<td rowspan="2" style="width: 187px; height: 37px; vertical-align: top; background:#ffddff; border: 1px solid #BE66CC; border-bottom: 0;"><a href="/wiki/Fichier:Le_savais-tu.png" class="image"><img alt="Le savais-tu.png" src="//download.vikidia.org/vikidia/fr/images/7/7a/Le_savais-tu.png" width="187" height="37" data-file-width="187" data-file-height="37" /></a><div style="margin-top:-33px; padding-left:43px"> <span style="font-size: 150%;">Le savais-tu&#160;?</span></div>
+</td></tr>
+<tr>
+<td style="width:1px; border-bottom:1px solid #BE66CC">
+</td>
+<td style="-moz-border-radius-topright:5em; border-top-right-radius:5em; border:1px solid #BE66CC; background:#ffddff; border-bottom:1px dotted #BE66CC; text-align:center; font-size:95%; width:90%; padding-left: 5px;"> <b><span style="font-size: 150%;">Megaminx</span></b>
+</td></tr>
+<tr>
+<td colspan="3" style="z-index:0;padding:2px; background:#FFeeFF; border:1px solid #BE66CC; border-top:0; border-bottom:1" width="50%" valign="top"> Le <a href="/wiki/Megaminx" title="Megaminx">Megaminx</a> est presque identique au Rubik's Cube&#160;: malgré sa forme différente, les pièces sont les mêmes et la plupart des algorithmes de résolution applicable à l'un, l'est aussi à l'autre&#160;!
+</td></tr></table>
+<h3><span class="mw-headline" id="D.C3.A9coration_du_Rubik.27s_Cube">Décoration du Rubik's Cube</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rubik%27s_Cube&amp;veaction=edit&amp;section=12" class="mw-editsection-visualeditor" title="Modifier la section : Décoration du Rubik's Cube">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Rubik%27s_Cube&amp;action=edit&amp;section=12" title="Modifier la section : Décoration du Rubik's Cube">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/Fichier:Rubik%27s_calendar_cubes.jpg" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Rubik%27s_calendar_cubes.jpg/200px-Rubik%27s_calendar_cubes.jpg" width="200" height="119" class="thumbimage" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Rubik%27s_calendar_cubes.jpg/300px-Rubik%27s_calendar_cubes.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Rubik%27s_calendar_cubes.jpg/400px-Rubik%27s_calendar_cubes.jpg 2x" data-file-width="2371" data-file-height="1416" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Fichier:Rubik%27s_calendar_cubes.jpg" class="internal" title="Agrandir"></a></div>Cubes calendriers (latin et anglais)</div></div></div>
+<p>Il y a des variantes au schéma de couleur classique. Par exemple, sur le schéma dit <i>japonais</i>, les faces bleues et blanches sont opposées. 
+</p><p>Le cube calendrier est un cube décoré tant et si bien qu'il est possible de former n'importe quelle combinaison de jour et mois sur ses faces. 
+</p><p>Il existe aussi des cubes publicitaires ou thématiques&#160;: ainsi furent créés des Rubik's Cubes à l'effigie de <a href="/wiki/Dark_Maul" title="Dark Maul">Dark Maul</a>, d'Homer Simpson ou encore de marques de sodas.
+</p>
+<h2><span class="mw-headline" id="Records_du_Rubik.27s_Cube_et_de_ses_variantes">Records du Rubik's Cube et de ses variantes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rubik%27s_Cube&amp;veaction=edit&amp;section=13" class="mw-editsection-visualeditor" title="Modifier la section : Records du Rubik's Cube et de ses variantes">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Rubik%27s_Cube&amp;action=edit&amp;section=13" title="Modifier la section : Records du Rubik's Cube et de ses variantes">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>On peut remarquer une domination de <a href="/wiki/Feliks_Zemdegs" title="Feliks Zemdegs">Feliks Zemdegs</a> dans le Rubik's Cube (3x3x3) et le <a href="/wiki/Professor%27s_Cube" title="Professor's Cube">Professor's Cube</a> (5x5x5), bien que ce soit Collin Burns qui, à 15 ans, détient le record sur le casse-tête original, en l'ayant résolu en 5,25 s, rendant fous de joie les lycéens qui entouraient le jeune speedcuber. Il devient aussi le seul humain à ce jour ayant réalisé une meilleure performance que le robot Cubestormer II. C'est Sebastian Weyer qui est, pour le moment, le maître du <a href="/wiki/Rubik%27s_Revenge" title="Rubik's Revenge">Rubik's Revenge</a> (4x4x4). Kevin Hays est le champion incontestable du V-Cube 6, tandis que le V-Cube 7 voit plusieurs champions se repasser le titre. Dans le <a href="/wiki/Megaminx" title="Megaminx">Megaminx</a>, Louis Cormier est le premier champion à l'occasion de l'<i>Euro 2014</i> mais Yu Da-Hyun lui prit le titre dans les championnats asiatiques de 2014 pour toujours le détenir aujourd'hui. Bingliang Li est le maître incontestable, quant à lui, du <a href="/wiki/Square_One" title="Square One">Square One</a>. <a href="/wiki/Liste_des_records_du_monde_en_Rubik%27s_Cube" title="Liste des records du monde en Rubik's Cube"><i><b>En savoir plus</b></i></a>
+</p>
+<h2><span class="mw-headline" id="R.C3.A9compense">Récompense</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rubik%27s_Cube&amp;veaction=edit&amp;section=14" class="mw-editsection-visualeditor" title="Modifier la section : Récompense">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Rubik%27s_Cube&amp;action=edit&amp;section=14" title="Modifier la section : Récompense">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>En 1980, le Rubik's Cube a été élu meilleur jeu solitaire dans le <i>Spiel des Jahres</i> (Jeu de l'année en allemand).
+</p>
+<h2><span class="mw-headline" id="Voir_aussi">Voir aussi</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rubik%27s_Cube&amp;veaction=edit&amp;section=15" class="mw-editsection-visualeditor" title="Modifier la section : Voir aussi">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Rubik%27s_Cube&amp;action=edit&amp;section=15" title="Modifier la section : Voir aussi">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li> <a href="/wiki/Pyraminx_Crystal" title="Pyraminx Crystal">Pyraminx Crystal</a></li>
+<li> <a href="/wiki/Megaminx" title="Megaminx">Megaminx</a></li>
+<li> <a href="/wiki/Association_fran%C3%A7aise_de_speedcubing" title="Association française de speedcubing">Association française de speedcubing</a>&#160;: association qui organise des compétitions de Rubik's Cube</li></ul>
+<h2><span class="mw-headline" id="R.C3.A9f.C3.A9rences">Références</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rubik%27s_Cube&amp;veaction=edit&amp;section=16" class="mw-editsection-visualeditor" title="Modifier la section : Références">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Rubik%27s_Cube&amp;action=edit&amp;section=16" title="Modifier la section : Références">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Damien Hypolite, <a rel="nofollow" class="external text" href="http://www.sciencesetavenir.fr/decryptage/20140519.OBS7618/le-rubik-s-cube-a-40-ans.html">«&#160;Le Rubik's Cube a 40 ans&#160;»</a>, sur <i>Sciences et avenir</i>, 19 mai 2014</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.sciencesetavenir.fr/decryptage/20140519.OBS7618/le-rubik-s-cube-a-40-ans.html">Le Rubik's Cube a 40 ans - 19 mai 2014 - Sciencesetavenir.fr</a></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.worldcubeassociation.org/results/p.php?i=2010BURN01#333">World Cube Association - Official Results</a> for Collin Burns</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.worldcubeassociation.org/results/p.php?i=2009ZEMD01#333">World Cube Association - Official Results</a> for Feliks Zemdegs</span>
+</li>
+</ol></div>
+<table align="center" cellspacing="0" style="width: 30%; background-color:#00FF00; padding:5px; border:1px solid #8888aa; border-right-width: 2px; border-bottom-width: 2px; line-height: 1.5em">
+<tr>
+<td colspan="4" width="100%">
+<table align="center" width="100%">
+<tr>
+<td style="background:#FF0000" align="center" width="100%"> <b><span style="color: blue;">Les <a class="mw-selflink selflink"><span style="color: blue;">Rubik's cubes</span></a></span></b>
+</td></tr></table>
+</td></tr>
+<tr align="center" valign="top" style="font-size: 85%;">
+<td width="100%">
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/Fichier:Pocket_cube_solved.jpg" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Pocket_cube_solved.jpg/120px-Pocket_cube_solved.jpg" width="120" height="120" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Pocket_cube_solved.jpg/180px-Pocket_cube_solved.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Pocket_cube_solved.jpg/240px-Pocket_cube_solved.jpg 2x" data-file-width="600" data-file-height="600" /></a></div></div>
+			<div class="gallerytext">
+<p>Un <a href="/wiki/Pocket_Cube" title="Pocket Cube">Pocket Cube</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/Fichier:Rubiks-Cube.gif" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Rubiks-Cube.gif/112px-Rubiks-Cube.gif" width="112" height="120" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Rubiks-Cube.gif/168px-Rubiks-Cube.gif 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Rubiks-Cube.gif/223px-Rubiks-Cube.gif 2x" data-file-width="407" data-file-height="437" /></a></div></div>
+			<div class="gallerytext">
+<p>Un <a class="mw-selflink selflink">Rubik's Cube</a>
+</p>
+			</div>
+		</div></li>
+</ul>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/Fichier:Rubiks_revenge_scrambled.jpg" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Rubiks_revenge_scrambled.jpg/120px-Rubiks_revenge_scrambled.jpg" width="120" height="120" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Rubiks_revenge_scrambled.jpg/180px-Rubiks_revenge_scrambled.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Rubiks_revenge_scrambled.jpg/240px-Rubiks_revenge_scrambled.jpg 2x" data-file-width="622" data-file-height="622" /></a></div></div>
+			<div class="gallerytext">
+<p>Un <a href="/wiki/Rubik%27s_Revenge" title="Rubik's Revenge">Rubik's Revenge</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/Fichier:Professors_cube.jpg" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Professors_cube.jpg/120px-Professors_cube.jpg" width="120" height="120" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Professors_cube.jpg/180px-Professors_cube.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Professors_cube.jpg/240px-Professors_cube.jpg 2x" data-file-width="600" data-file-height="600" /></a></div></div>
+			<div class="gallerytext">
+<p>Un <a href="/wiki/Professor%27s_Cube" title="Professor's Cube">Professor's Cube</a>
+</p>
+			</div>
+		</div></li>
+</ul>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/Fichier:V-Cube_6_scrambled.jpg" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/V-Cube_6_scrambled.jpg/120px-V-Cube_6_scrambled.jpg" width="120" height="120" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/V-Cube_6_scrambled.jpg/180px-V-Cube_6_scrambled.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/V-Cube_6_scrambled.jpg/240px-V-Cube_6_scrambled.jpg 2x" data-file-width="800" data-file-height="800" /></a></div></div>
+			<div class="gallerytext">
+<p>Un <a href="/wiki/V-Cube_6" title="V-Cube 6">V-Cube 6</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/Fichier:V-Cube_7_scrambled.jpg" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/V-Cube_7_scrambled.jpg/120px-V-Cube_7_scrambled.jpg" width="120" height="120" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/V-Cube_7_scrambled.jpg/180px-V-Cube_7_scrambled.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/V-Cube_7_scrambled.jpg/240px-V-Cube_7_scrambled.jpg 2x" data-file-width="800" data-file-height="800" /></a></div></div>
+			<div class="gallerytext">
+<p>Un <a href="/wiki/V-Cube_7" title="V-Cube 7">V-Cube 7</a>
+</p>
+			</div>
+		</div></li>
+</ul>
+</td></tr></table>
+<table style="margin-top: 6px; margin-bottom: 10px; float: right; border-left: 4px solid #921496; width: 25%; clear: right; background: #F5B2FF; border-radius: 2px;">
+<tr>
+<td style="padding: 5px; text-align: left;"><img alt="" src="//download.vikidia.org/vikidia/fr/images/thumb/d/d9/Favicon_Vikidia.png/16px-Favicon_Vikidia.png" width="16" height="16" srcset="//download.vikidia.org/vikidia/fr/images/thumb/d/d9/Favicon_Vikidia.png/24px-Favicon_Vikidia.png 1.5x, //download.vikidia.org/vikidia/fr/images/thumb/d/d9/Favicon_Vikidia.png/32px-Favicon_Vikidia.png 2x" data-file-width="2000" data-file-height="2000" />
+</td>
+<td width="90%" style="font-size: 15px;">Article <b><a href="/wiki/Cat%C3%A9gorie:Article_de_la_semaine" title="Catégorie:Article de la semaine">mis en lumière</a></b> la semaine du 14 décembre 2015.
+</td></tr></table>
+<table class="bandeau plainlinks" style="width: 70%; margin: auto; margin-bottom: 10px; text-align: center; background-color: #FFFFD4; border: 1px solid #FFCC00; border-right-width: 2px; border-bottom-width: 2px;">
+<tr>
+<td style="width: 10%;">
+<div><img alt="Icone étoile.png" src="//download.vikidia.org/vikidia/fr/images/thumb/b/ba/Icone_%C3%A9toile.png/50px-Icone_%C3%A9toile.png" width="50" height="50" srcset="//download.vikidia.org/vikidia/fr/images/thumb/b/ba/Icone_%C3%A9toile.png/75px-Icone_%C3%A9toile.png 1.5x, //download.vikidia.org/vikidia/fr/images/thumb/b/ba/Icone_%C3%A9toile.png/100px-Icone_%C3%A9toile.png 2x" data-file-width="512" data-file-height="512" /></div>
+</td>
+<td>
+<div style=""><b>Super article</b> </div>
+<div style="">Cet article a été élu <i><a href="/wiki/Vikidia:Super_article" title="Vikidia:Super article">super article</a></i>&#160;! Tu peux voir sa page de vote <a href="/wiki/Vikidia:Super_article/%C3%89lection/Rubik%27s_Cube" title="Vikidia:Super article/Élection/Rubik's Cube">ici</a>.</div>
+</td>
+
+</tr>
+</table>
+<table class="multi-banner" style="width: 100%; clear: both; margin: 0; background-color: transparent; padding: 0;">
+
+<tr style="vertical-align: middle;">
+<td>
+<center>
+<table style="clear: both; margin-top: 12px; border-left: 4px solid green; width: 90%; background: #F0FF80; border-radius: 2px;">
+<tr>
+<td style="padding: 3px; text-align: left;"><img alt="" src="//download.vikidia.org/vikidia/fr/images/thumb/f/f2/Icone_jeu.png/40px-Icone_jeu.png" width="40" height="40" srcset="//download.vikidia.org/vikidia/fr/images/thumb/f/f2/Icone_jeu.png/60px-Icone_jeu.png 1.5x, //download.vikidia.org/vikidia/fr/images/thumb/f/f2/Icone_jeu.png/80px-Icone_jeu.png 2x" data-file-width="120" data-file-height="120" />
+</td>
+<td width="90%" style="font-size: 15px;"> <b><a href="/wiki/Portail:Loisirs" title="Portail:Loisirs">Portail des loisirs</a></b> &#32;&#8212;&#160; Le sport, les jeux, les spectacles.
+</td></tr></table>
+</center>
+</td>
+<td>
+</td></tr></table>
+<table class="multi-banner" style="width: 100%; clear: both; margin: 0; background-color: transparent; padding: 0;">
+
+<tr style="vertical-align: middle;">
+<td>
+</td>
+<td>
+</td></tr></table>
+<table class="multi-banner" style="width: 100%; clear: both; margin: 0; background-color: transparent; padding: 0;">
+
+<tr style="vertical-align: middle;">
+<td>
+</td>
+<td>
+</td></tr></table>
+
+<!-- 
+NewPP limit report
+Cached time: 20190225092657
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.332 seconds
+Real time usage: 5.481 seconds
+Preprocessor visited node count: 472/1000000
+Preprocessor generated node count: 1879/1000000
+Post‐expand include size: 8944/2097152 bytes
+Template argument size: 1661/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 0/100
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 4584.209      1 -total
+  8.15%  373.654      1 Modèle:Rubik's_cube
+  0.05%    2.398      2 Modèle:Le_savais-tu
+  0.05%    2.301      1 Modèle:Portail
+  0.04%    2.028      1 Modèle:Super_article_mini
+  0.04%    1.912      2 Modèle:Méta_bandeau
+  0.04%    1.623      1 Modèle:Quiz
+  0.03%    1.488      1 Modèle:Super_article
+  0.03%    1.466      1 Modèle:Portail_loisirs
+  0.03%    1.381      1 Modèle:Méta_mini_bandeau
+-->
+
+<!-- Saved in parser cache with key vikidia_fr-wk_:pcache:idhash:71970-0!*!0!!fr!3!* and timestamp 20190225092651 and revision id 1212624
+ -->
+</div>					<div class="printfooter">
+						Récupérée de «&#160;<a dir="ltr" href="https://fr.vikidia.org/w/index.php?title=Rubik%27s_Cube&amp;oldid=1212624">https://fr.vikidia.org/w/index.php?title=Rubik%27s_Cube&amp;oldid=1212624</a>&#160;»					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Sp%C3%A9cial:Cat%C3%A9gories" title="Spécial:Catégories">Catégories</a> : <ul><li><a href="/wiki/Cat%C3%A9gorie:Rubik%27s_Cube" title="Catégorie:Rubik's Cube">Rubik's Cube</a></li><li><a href="/wiki/Cat%C3%A9gorie:Ann%C3%A9es_1980" title="Catégorie:Années 1980">Années 1980</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Catégories cachées : <ul><li><a href="/wiki/Cat%C3%A9gorie:Super_article" title="Catégorie:Super article">Super article</a></li><li><a href="/wiki/Cat%C3%A9gorie:Article_de_la_semaine_2015" title="Catégorie:Article de la semaine 2015">Article de la semaine 2015</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:loisirs/Pages_li%C3%A9es" title="Catégorie:Portail:loisirs/Pages liées">Portail:loisirs/Pages liées</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Menu de navigation</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Outils personnels</h3>
+						<ul>
+							<li id="pt-anonuserpage">Non connecté</li><li id="pt-anontalk"><a href="/wiki/Sp%C3%A9cial:Mes_discussions" title="La page de discussion pour les contributions depuis cette adresse IP [n]" accesskey="n">Discussion</a></li><li id="pt-anoncontribs"><a href="/wiki/Sp%C3%A9cial:Mes_contributions" title="Une liste des modifications effectuées depuis cette adresse IP [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&amp;returnto=Rubik%27s+Cube" title="Il vous est conseillé de créer un compte et de vous connecter ; cependant, ce n’est pas obligatoire">Créer un compte</a></li><li id="pt-login"><a href="/w/index.php?title=Sp%C3%A9cial:Connexion&amp;returnto=Rubik%27s+Cube" title="Il est recommandé de vous identifier ; ce n'est cependant pas obligatoire. [o]" accesskey="o">Se connecter</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Espaces de noms</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Rubik%27s_Cube"  title="Voir la page de contenu [m]" accesskey="m">Page</a></span></li>
+															<li  id="ca-talk" class="new"><span><a href="/w/index.php?title=Discussion:Rubik%27s_Cube&amp;action=edit&amp;redlink=1"  title="Discussion au sujet de cette page de contenu [d]" accesskey="d" rel="discussion">Discussion</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variantes</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Affichages</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Rubik%27s_Cube" >Lire</a></span></li>
+															<li id="ca-ve-edit"><span><a href="/w/index.php?title=Rubik%27s_Cube&amp;veaction=edit"  title="Modifier cette page [v]" accesskey="v">Modifier</a></span></li>
+															<li id="ca-edit" class=" collapsible"><span><a href="/w/index.php?title=Rubik%27s_Cube&amp;action=edit"  title="Modifier le wikicode [m]" accesskey="m">Modifier le wikicode</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Rubik%27s_Cube&amp;action=history"  title="Les versions passées de cette page (avec leurs contributeurs) [h]" accesskey="h">Historique</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Plus</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Chercher</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Rechercher sur Vikidia" title="Rechercher dans Vikidia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Spécial:Recherche" name="title"/><input type="submit" name="fulltext" value="Rechercher" title="Rechercher les pages comportant ce texte." id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Trouver" title="Aller vers une page portant exactement ce nom si elle existe." id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Vikidia:Accueil"  title="Page principale"></a></div>
+						<div class="portal" role="navigation" id='p-Navigation' aria-labelledby='p-Navigation-label'>
+			<h3 id='p-Navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-Accueil"><a href="/wiki/Vikidia:Accueil">Accueil</a></li><li id="n-Pages-par-th.C3.A8mes"><a href="/wiki/Portail:Accueil">Pages par thèmes</a></li><li id="n-randompage"><a href="/wiki/Sp%C3%A9cial:Page_au_hasard" title="Afficher une page au hasard [x]" accesskey="x">Page au hasard</a></li><li id="n-Banque-d.E2.80.99images"><a href="/wiki/Portail:Images">Banque d’images</a></li><li id="n-Le-Savant"><a href="/wiki/Vikidia:Le_Savant">Le Savant</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-Contribuer' aria-labelledby='p-Contribuer-label'>
+			<h3 id='p-Contribuer-label'>Contribuer</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-recentchanges"><a href="/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes" title="Liste des modifications récentes sur le wiki [r]" accesskey="r">Modifications récentes</a></li><li id="n-portal"><a href="/wiki/Vikidia:Communaut%C3%A9" title="À propos du projet, ce que vous pouvez faire, où trouver des informations [p]" accesskey="p">Communauté</a></li><li id="n-Bavardages"><a href="/wiki/Vikidia:Bavardages">Bavardages</a></li><li id="n-help"><a href="/wiki/Aide:Accueil" title="Aide [a]" accesskey="a">Aide</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Outils</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Rubik%27s_Cube" title="Liste des pages liées qui pointent sur celle-ci [j]" accesskey="j">Pages liées</a></li><li id="t-recentchangeslinked"><a href="/wiki/Sp%C3%A9cial:Suivi_des_liens/Rubik%27s_Cube" rel="nofollow" title="Liste des modifications récentes des pages appelées par celle-ci [k]" accesskey="k">Suivi des pages liées</a></li><li id="t-specialpages"><a href="/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales" title="Liste de toutes les pages spéciales [q]" accesskey="q">Pages spéciales</a></li><li id="t-permalink"><a href="/w/index.php?title=Rubik%27s_Cube&amp;oldid=1212624" title="Adresse permanente de cette version de la page">Adresse permanente</a></li><li id="t-info"><a href="/w/index.php?title=Rubik%27s_Cube&amp;action=info" title="Plus d’information sur cette page">Information sur la page</a></li><li id="t-cite"><a href="/w/index.php?title=Sp%C3%A9cial:Citer&amp;page=Rubik%27s_Cube&amp;id=1212624" title="Informations sur la manière de citer cette page">Citer cette page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-Vikidia' aria-labelledby='p-Vikidia-label'>
+			<h3 id='p-Vikidia-label'>Vikidia</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-.C3.80-propos-de-Vikidia"><a href="/wiki/Vikidia:%C3%80_propos">À propos de Vikidia</a></li><li id="n-Contact"><a href="/wiki/Vikidia:Contact">Contact</a></li><li id="n-sitesupport"><a href="//www.vikidia.org/dons.html" rel="nofollow">Faire un don</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Imprimer / exporter</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Sp%C3%A9cial:Livre&amp;bookcmd=book_creator&amp;referer=Rubik%27s+Cube">Créer un livre</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Sp%C3%A9cial:Livre&amp;bookcmd=render_article&amp;arttitle=Rubik%27s+Cube&amp;returnto=Rubik%27s+Cube&amp;oldid=1212624&amp;writer=rl">Télécharger comme PDF</a></li><li id="t-print"><a href="/w/index.php?title=Rubik%27s_Cube&amp;printable=yes" title="Version imprimable de cette page [p]" accesskey="p">Version imprimable</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Sur d’autres projets</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-wp"><a href="//fr.wikipedia.org/wiki/Rubik%27s_Cube" title="wp:Rubik's Cube" lang="wp" hreflang="wp" class="interlanguage-link-target">Wikipédia</a></li><li class="interlanguage-link interwiki-simple"><a href="//simple.wikipedia.org/wiki/Rubik%27s_Cube" title="Rubik's Cube — Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-nl"><a href="http://wikikids.nl/Rubik%27s_Kubus" title="Rubik's Kubus — néerlandais" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li>					</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> <div id="donation-box" style="border: 1px solid #a7d7f9; font-size: 1.6em; font-weight: bold; text-align: center; line-height: 1.6; background-color: rgb(242, 237, 248); margin-bottom: 0;">
+<div style="float: left; transform: scaleX(-1); margin-left: 0.5em; margin-top: 0.2em;"><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=contact%40vikidia%2eorg&amp;lc=FR&amp;item_name=Association%20Vikidia%2c%20Encyclopedie%20pour%20enfants&amp;no_note=0&amp;currency_code=EUR&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHostedGuest" rel="nofollow"><img alt="Open Clip Art Library Piggy Bank.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Open_Clip_Art_Library_Piggy_Bank.svg/60px-Open_Clip_Art_Library_Piggy_Bank.svg.png" width="60" height="58" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Open_Clip_Art_Library_Piggy_Bank.svg/90px-Open_Clip_Art_Library_Piggy_Bank.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Open_Clip_Art_Library_Piggy_Bank.svg/120px-Open_Clip_Art_Library_Piggy_Bank.svg.png 2x" data-file-width="456" data-file-height="442" /></a></div>
+<div><a rel="nofollow" class="external text" href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=contact%40vikidia%2eorg&amp;lc=FR&amp;item_name=Association%20Vikidia%2c%20Encyclopedie%20pour%20enfants&amp;no_note=0&amp;currency_code=EUR&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHostedGuest">Vikidia est une association et existe grâce à des dons.<br />Pour maintenir les serveurs de Vikidia allumés &#160;: clique ici&#160;!</a><div style="font-size: 0.5em; font-weight: normal; line-height: 1; padding-bottom: 0.3em; font-style: italic;"></div></div>
+</div>
+<div id="donation-box" style="margin-top: 0em; border: 1px solid #a7d7f9; font-size: 1.6em; font-weight: bold; text-align: center; line-height: 1.6; background-color: #FFFFFF;">
+<div style="float: left; margin-left: 1em; padding-top: 0.3em;"><a href="https://www.lilo.org/?utm_source=vikidia" rel="nofollow"><img alt="Logo-lilo.png" src="//download.vikidia.org/vikidia/fr/images/thumb/9/91/Logo-lilo.png/80px-Logo-lilo.png" width="80" height="28" srcset="//download.vikidia.org/vikidia/fr/images/thumb/9/91/Logo-lilo.png/120px-Logo-lilo.png 1.5x, //download.vikidia.org/vikidia/fr/images/thumb/9/91/Logo-lilo.png/160px-Logo-lilo.png 2x" data-file-width="221" data-file-height="77" /></a></div>
+<p><a rel="nofollow" class="external text" href="https://www.lilo.org/?utm_source=vikidia">Le saviez-vous&#160;? Vous pouvez financer gratuitement Vikidia en utilisant le moteur de recherche solidaire Lilo.</a>
+</p>
+</div>
+<p><br />
+Par Vikidia, l’encyclopédie pour les jeunes, qui explique aux enfants et à ceux qui veulent une présentation simple d'un sujet.<br />
+Dernière modification de cette page le 21 février 2019 à 14:18.<br />
+</p></li>
+											<li id="footer-info-copyright">Le contenu est disponible sous licence <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-Share Alike 3.0</a> sauf mention contraire.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/Vikidia:Confidentialit%C3%A9" title="Vikidia:Confidentialité">Politique de confidentialité</a></li>
+											<li id="footer-places-about"><a href="/wiki/Vikidia:%C3%80_propos" title="Vikidia:À propos">À propos de Vikidia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Vikidia:Avertissements_g%C3%A9n%C3%A9raux" title="Vikidia:Avertissements généraux">Avertissements</a></li>
+											<li id="footer-places-mobileview"><a href="https://fr.vikidia.org/w/index.php?title=Rubik%27s_Cube&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Version mobile</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://creativecommons.org/licenses/by-sa/3.0/"><img src="/w/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution-Share Alike 3.0" width="88" height="31"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script type="8d0c2fc861e5d4ffe80e0144-text/javascript">(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.332","walltime":"5.481","ppvisitednodes":{"value":472,"limit":1000000},"ppgeneratednodes":{"value":1879,"limit":1000000},"postexpandincludesize":{"value":8944,"limit":2097152},"templateargumentsize":{"value":1661,"limit":2097152},"expansiondepth":{"value":6,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00% 4584.209      1 -total","  8.15%  373.654      1 Modèle:Rubik's_cube","  0.05%    2.398      2 Modèle:Le_savais-tu","  0.05%    2.301      1 Modèle:Portail","  0.04%    2.028      1 Modèle:Super_article_mini","  0.04%    1.912      2 Modèle:Méta_bandeau","  0.04%    1.623      1 Modèle:Quiz","  0.03%    1.488      1 Modèle:Super_article","  0.03%    1.466      1 Modèle:Portail_loisirs","  0.03%    1.381      1 Modèle:Méta_mini_bandeau"]},"cachereport":{"timestamp":"20190225092657","ttl":86400,"transientcontent":false}}});});</script><!-- Piwik -->
+<script type="8d0c2fc861e5d4ffe80e0144-text/javascript">
+  var _paq = _paq || [];
+  _paq.push(["disableCookies"]);
+  _paq.push(["trackPageView"]);
+  _paq.push(["enableLinkTracking"]);
+
+  (function() {
+    var u = (("https:" == document.location.protocol) ? "https" : "http") + "://";
+    _paq.push(["setTrackerUrl", u+"stats.vikidia.org/"+"piwik.php"]);
+    _paq.push(["setSiteId", "1"]);
+    var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
+    g.defer=true; g.async=true; g.src=u+"download.vikidia.org/piwik.js"; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Piwik Code -->
+
+<!-- Piwik Image Tracker -->
+<noscript><img src="https://stats.vikidia.org/piwik.php?idsite=1&rec=1" style="border:0" alt="" /></noscript>
+<!-- End Piwik --><script type="8d0c2fc861e5d4ffe80e0144-text/javascript">(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":142});});</script>
+	<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/cb7744ae/cloudflare-static/rocket-loader.min.js" data-cf-settings="8d0c2fc861e5d4ffe80e0144-|49" defer=""></script></body>
+</html>
