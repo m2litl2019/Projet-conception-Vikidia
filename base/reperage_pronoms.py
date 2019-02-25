@@ -9,7 +9,7 @@ def reperage_pronoms(target, debug=DEBUG):
     for sentence in data:
         nb_pro_by_sentence = 0
         for word in sentence:     
-            if word.pos.startswith('PRO'):
+            if word.pos.startswith('PRO') or word.pos.startswith("CL"):
                 nb_pro_by_sentence += 1
         if nb_pro_by_sentence > 0:
             if debug:
