@@ -7,39 +7,53 @@ else:
 
 class Presentation:
 
-    def __init__(self, template):
-        f = open(template, mode='r', encoding='utf8')
-        self.template = f.read()
-        f.close()
-        self.keys = {}
+    def __init__(self, templatefile):
+        self.templatefile = templatefile
+        self.set_of_keys = []
     
-    def populate(self, dic):
-        self.keys.update(dic)
+    def populate(self, dic, who=0):
+        if who == len(self.set_of_keys):
+            self.set_of_keys.append({})
+        elif who > len(self.set_of_keys):
+            raise Exception('set_of_keys to small : ' + str(len(self.set_of_keys)))            
+        self.set_of_keys[who].update(dic)
 
     def output_html(self, filename):
-        for key, val in self.keys.items():
-            if type(val) == str and val.startswith('http'):
-                val = f'<a href="{val}">{val}</a>'
-            self.template = self.template.replace(key, str(val))
-        f = open(filename, mode='w', encoding='utf8')
-        f.write(self.template)
-        f.close()
+        for who in range(0, len(self.set_of_keys)):
+            f = open(self.templatefile, mode='r', encoding='utf8')
+            template = f.read()
+            f.close()
+            for key, val in self.set_of_keys[who].items():
+                if type(val) == str and val.startswith('http'):
+                    val = f'<a href="{val}">{val}</a>'
+                template = template.replace(key, str(val))
+            f = open(filename.replace('.html', '_' + str(who) + '.html'), mode='w', encoding='utf8')
+            f.write(template)
+            f.close()
 
     def output_excel(self, filename):
         if not XLWT: raise Exception('xlwt not installed. Do "pip install xlwt" before.')
         wb = xlwt.Workbook(encoding='utf8')
         ws = wb.add_sheet("Results")
         ws.col(0).width = 256 * 50
-        ws.col(1).width = 256 * 30
-        row = 0
-        for key, val in self.keys.items():
-            ws.write(row, 0, key, xlwt.easyxf('font: bold on;'))
-            ws.write(row, 1, val)
-            row += 1
+        for i in range(0, len(self.set_of_keys)):
+            ws.col(1 + i).width = 256 * 30
+        for who in range(0, len(self.set_of_keys)):
+            row = 0
+            for key, val in self.set_of_keys[who].items():
+                if who == 0:
+                    ws.write(row, 0, key, xlwt.easyxf('font: bold on;'))
+                ws.write(row, who + 1, val)
+                row += 1
         wb.save(filename)
 
+    def ouput_all(self, name):
+        self.output_html(name + '.html')
+        self.output_excel(name + '.xls')
+
 if __name__ == '__main__':
-    p = Presentation('maquette.html')
+    # only one set of keys
+    p = Presentation('templates/maquette.html')
     dummy = {
         'GEN_TITLE' : 'Titre 1',
         'GEN_URL' : 'http://www.test.com',
@@ -54,6 +68,23 @@ if __name__ == '__main__':
         'SYN_RES1' : 5,
         }
     p.populate(dummy)
-    p.output_html('results1.html')
-    p.output_excel('results1.xls')
-
+    p.output_html('results/results1.html')
+    p.output_excel('results/results1.xls')
+    # two set of keys
+    p = Presentation('templates/maquette.html')
+    p.populate(dummy, 0)
+    dummy2 = {
+        'GEN_TITLE' : 'Titre 2',
+        'GEN_URL' : 'http://www.toto.com',
+        'SURF_WORD_LENGTH' : 24,
+        'GEN_NOTE' : 'Mauvais',
+        'META_NB_LINKS' : 1,
+        'META_NB_PICTURES' : 0,
+        'META_NB_SECTION' : 24,
+        'META_NB_PARAGRAPH' : 2,
+        'SURF_AVG_WORD_LENGTH' : 3,
+        'SURF_FLESCH_KINCAID' : 0,
+        'SYN_RES1' : 12,
+        }
+    p.populate(dummy2, 1)
+    p.ouput_all('results/results2') # don't but html or xls at the end

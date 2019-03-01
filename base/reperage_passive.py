@@ -13,6 +13,11 @@ def reperage_passive(target):
     print('Nb phrases  :', f"{nb_phrases:6d}")
     print('Nb passives :', f"{nb_passives:6d}")
     print(f'Ratio      : {(nb_passives / nb_phrases):.3f} %')
-    
+    return {
+        'PASSIVE_NB_PHRASE' : nb_phrases,
+        'PASSIVE_NB_PASSIVES' : nb_passives,
+        'PASSIVE_RATIO' : nb_passives / nb_phrases
+        }
+
 if __name__ == '__main__':
     reperage_passive('ema.tal')

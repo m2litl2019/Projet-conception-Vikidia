@@ -48,7 +48,7 @@ def reperage_verbeconj_prorel_sub(target, debug=DEBUG):
                 for dep in sentence.get_dependents(word):
                     if dep.dep.startswith("mod"):
                         nbMod += 1
-                        print(dep.dep,dep.form)
+                        #print(dep.dep,dep.form)
                         for coord in dep.coords:
                             nbMod += 1
                 nbModNcAll.append(nbMod)
@@ -69,7 +69,14 @@ def reperage_verbeconj_prorel_sub(target, debug=DEBUG):
     print('Subordonnées              :', subordTot)
     print('Moyenne V1                :', meanFromList(positionsV))
     print('Moyenne modifieurs par NC :', meanFromList(nbModNcAll))
-
+    return {
+        'VERBECONJ_PROREL_TOTAL_PHRASE' : nb_phrase,
+        'VERBECONJ_PROREL_VERBES_CONJ' : svTot,
+        'VERBECONJ_PROREL_PRONOM_REL' : proRelTot,
+        'VERBECONJ_PROREL_SUB' : subordTot,
+        'VERBECONJ_PROREL_AVG_V1' : meanFromList(positionsV),
+        'VERBECONJ_PROREL_AVG_MOD_PAR_NC' : meanFromList(nbModNcAll),
+        }
 
 if __name__ == '__main__':
     reperage_verbeconj_prorel_sub('ema.tal', debug=DEBUG)

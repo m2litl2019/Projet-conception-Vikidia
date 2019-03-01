@@ -126,6 +126,11 @@ class Sentence:
             if w.num == str(i):
                 return w
         return None
+        # Bug
+        print('Searched: ', i)
+        for w in self.words:
+            print(w.num, w == str(i), w.gov, w.dep, w)
+        #raise Exception('Word not found with num = ' + str(i))
     
     def search_coords(self):
         """ construit une liste des éléments coordonnés à chaque mot de la phrase
@@ -139,7 +144,12 @@ class Sentence:
         for word in self.words:
             if word.dep == "dep_coord":
                 coord = self(word.gov)
-                self(coord.gov).coords.append(word)
+                #if self(coord.gov) is None:
+                #    print(word)
+                #    print(word.sentence.formnum)
+                #    print(word.gov)
+                if self(coord.gov) is not None:
+                    self(coord.gov).coords.append(word)
     
     
     def get_dependents(self, w):

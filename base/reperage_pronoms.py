@@ -22,8 +22,15 @@ def reperage_pronoms(target, debug=DEBUG):
     print(f'Total pronoms : {nb_pro_total:10d}')
     print(f'Total phrases : {index_phrase:10d}')
     print('Moyenne pro / ph :  ', f"{(nb_pro_total / index_phrase):.3f}")
+    res = {
+        'PRONOM_NB_TOTAL' : nb_pro_total,
+        'PRONOM_TOTAL_PHRASES' : index_phrase,
+        'PRONOM_AVG_PAR_PHRASE' : nb_pro_total / index_phrase,
+        }
     for key in freq_pro:
         print(key," : ",f"{freq_pro[key]/nb_pro_total:.3f}")
+        res['PRONOM_FREQ_' + key] = freq_pro[key] / nb_pro_total
+    return res
 
 if __name__ == '__main__':
     reperage_pronoms('ema.tal')
