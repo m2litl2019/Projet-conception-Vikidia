@@ -3,6 +3,7 @@ from presentation import Presentation
 from reperage_passive import reperage_passive
 from reperage_pronoms import reperage_pronoms
 from reperage_verbeconj_prorel_sub import reperage_verbeconj_prorel_sub
+from reperage_tpsV import reperage_tps
 import datetime
 
 EMA = 'ema.tal'
@@ -19,6 +20,9 @@ res_ema.update(reperage_pronoms(EMA))
 print()
 res_ema.update(reperage_verbeconj_prorel_sub(EMA))
 print()
+res_ema.update(reperage_tps(EMA))
+print()
+
 
 MAUPA = 'maupassant12.bin'
 res_maupa = {
@@ -50,12 +54,14 @@ res_vikibest.update(reperage_pronoms(VIKIBEST))
 print()
 res_vikibest.update(reperage_verbeconj_prorel_sub(VIKIBEST))
 print()
+res_vikibest.update(reperage_tps(VIKIBEST))
+print()
 
 
 LITENF = 'litEnfant.tal'
 res_litenf = {
     'GEN_TITLE' : 'LitEnfant',
-    'GEN_URL' : 'https://github.com/m2litl2019/Projet-conception-Vikidia/tree/master/base/corpuslitenf',
+    'GEN_URL' : 'https://github.com/m2litl2019/Projet-conception-Vikidia/tree/master/base/litEnfant.tal',
     'GEN_DATE' : str(datetime.datetime.now())
 }
 print('== Corpus littéraire 6eme / 5eme ==')
@@ -67,7 +73,8 @@ res_litenf.update(reperage_pronoms(LITENF))
 print()
 res_litenf.update(reperage_verbeconj_prorel_sub(LITENF))
 print()
-
+res_litenf.update(reperage_tps(LITENF))
+print()
 
 p = Presentation('templates/maquette2.html')
 p.populate(res_ema, 0)
@@ -75,4 +82,7 @@ p.populate(res_maupa, 1)
 p.populate(res_vikibest, 2)
 p.populate(res_litenf,3)
 p.ouput_all('results/multitests')
+
+
+
 
