@@ -1,0 +1,246 @@
+<p>
+Le Rubik's Cube ou, bien plus rarement, Cube de Rubik, est un casse-tête inventé par le Hongrois Ernő Rubik en 1974 et qui s'est rapidement propagé sur toute la planète dans les années 1980.
+</p>
+<p>
+Au Canada francophone, il est connu sous le nom de Cube Rubik (sans « de ») alors que l'appellation Rubik's Cube est entièrement anglophone.
+</p>
+<p>
+Il s'agit d'un casse-tête géométrique en 3D composé de 26 petits cubes (il ne contient pas de cube central). Un système d'axes, breveté par son auteur, Ernő Rubik, est dissimulé au centre du cube. Ce système d'axes est visible dans une photo du Rubik's démonté, dans la section Description.
+</p>
+<h2>
+Histoire
+</h2>
+<p>
+Le Rubik's Cube est inventé le 19 mai 1974 par Ernő Rubik, un sculpteur et professeur d'architecture. En s'intéressant aux mathématiques et en particulier à la géométrie et à l'étude des formes en 3D, Rubik eut l'idée de construire ce cube pour faire deviner à ses étudiants quel était son mécanisme interne, comment les petits cubes pouvaient tourner sur les trois axes tout en restant soudés, et ainsi les faire s'intéresser à la géométrie en trois dimensions. Ensuite, sur la suggestion d'un ami, il eut l'idée de colorer les petits cubes de 6 couleurs différentes, constatant qu'après été mélangé, il est extrêmement difficile de remettre le cube dans sa position initiale (une couleur par face). Alors, il le commercialisa en tant que "casse-tête" mathématique.
+</p>
+<p>
+Bientôt, le cube gagna la popularité des Hongrois par le bouche à oreille, puis envahit toute l'Europe. En septembre 1979, un accord est signé avec Ideal Toys, une compagnie de fabrication de jouets, afin que le cube soit distribué de manière planétaire.
+</p>
+<p>
+Le Rubik's Cube atteint son paroxysme de popularité au début des années 1980 : plus de 100 millions de cubes sont vendus entre 1980 et 1982. De nombreuses variantes sont commercialisées peu après, notamment le Rubik's Revenge, une version de 4x4x4 cubes. Il existe aussi le Pocket Cube et le Professor's Cube (respectivement 2x2x2 et 5x5x5) et des versions dans d'autres formes, comme la pyramide et le dodécaèdre régulier. Depuis juin 2008, V-Cube vend des modèles 6x6x6, 7x7x7 et 8x8x8.
+</p>
+<p>
+En 1981, Patrick Bossert, écolier de douze ans, publie sa solution détaillée. You can do the cube se vend à 1,5 million d'exemplaires.
+</p>
+<h2>
+Description
+</h2>
+<p>
+Le Rubik's Cube est un cube dont chaque faceest divisée en neuf cubes miniatures, qui peuvent tourner indépendamment les uns des autres. Le cube est composé d'un axe central qui soutient tous les mini-cubes des arêtes (2 faces visibles), tous les mini-cubes des sommets (3 faces visibles) et les mini-cubes placés au centre de leurs faces respectives. Au final, chaque face du cube est composée d'une couleur homogène, mais différente de celle des autres faces, néanmoins la rotation indépendante d'une face entraîne le mélange des cubes de coin et d'arête sur cette face.
+</p>
+<p>
+Pour gagner, il est nécessaire que, après l'avoir mélangé, le joueur rende son apparence d'origine au cube (les six faces sont de couleur unie). Les couleurs pour l'original sont : blanc en face de jaune, vert en face de bleu et orange en face de rouge. Sur d'autres versions, les positions des couleurs et même les couleurs elles-mêmes peuvent changer.
+</p>
+<p>
+Il est sorti de nombreuses variantes (voir la section Variantes).
+</p>
+<p>
+Le Rubik's Cube peut obtenir 43 252 003 274 489 856 000 combinaisons différentes.
+</p>
+<h2>
+Résolution
+</h2>
+<p>
+Il existe différentes techniques, consistant à réaliser des séquences d'une dizaine de mouvements chacune. Les techniques consistant à former la "croix" d'une face avant de finir cette face sont les plus connues.
+</p>
+<p>
+On peut tenter de trouver la solution au hasard, mais l'espérance de vie humaine étant trop courte, cette tactique n'est pas viable. Si l'on admet qu'un humain peut passer en revue une combinaison par seconde, il lui faudrait un temps quatre-vingt-six fois supérieur à l'âge actuel de l'univers (environ 500 millions de milliards de secondes), autrement dit plus de 43 milliards de milliards de secondes.
+</p>
+<p>
+Il est possible de manipuler le cube méthodiquement, avec des séquences de mouvements prédéfinies qui permettent progressivement de remonter les mélanges du cube, c'est-à-dire de déplacer les petits cubes par étapes, sans perdre le fil de son travail précédent. Il est possible de résoudre le Rubik's sans avoir à apprendre des formules par cœur, mais cela demande en revanche un bon niveau de réflexion ! Voici quelques exemples de méthodes.
+</p>
+<h3>
+Méthode "couche par couche"
+</h3>
+<p>
+C’est la plus simple à mettre en œuvre et la plus intuitive. La résolution du cube par cette méthode nécessite en moyenne un peu plus de 110 mouvements :
+</p>
+<p>
+Réaliser une face, par exemple la face supérieure blanche, en prenant bien soin de placer correctement l'étage (placer les cubes entourant cette face) et les cubes centraux (bleu, orange, vert et rouge),
+</p>
+<p>
+puis le second étage (la rangée horizontale à mi-hauteur),
+</p>
+<p>
+déplacer les cubes-arête de la face du bas à leur place et les orienter correctement,
+</p>
+<p>
+rendre leur place aux cubes-sommets,
+</p>
+<p>
+enfin les orienter.
+</p>
+<p>
+Chaque opération (tourner une arête ou un sommet, échanger deux arêtes ou deux sommets) devra parfois être réalisée deux fois si une configuration défavorable se présente. Pour chaque cas, il existe tout de même une formule (ou algorithme) qui permet de ne pas effectuer deux fois la même formule. Cela dit, cela nécessite davantage d'apprentissage et de connaissance de la résolution du Rubiks cube.
+</p>
+<h3>
+Méthode "sandwich"
+</h3>
+<p>
+Autre méthode intuitive :
+</p>
+<p>
+Réaliser une face, par ex. la face orange.
+</p>
+<p>
+Réaliser la face opposée à celle déjà correcte (ici la face rouge), pour cela il faut d’abord placer correctement tous les coins, puis les orienter correctement, et enfin mettre les arêtes.
+</p>
+<p>
+Par échanges, amener chaque arête restante à sa place (à ce stade il ne reste plus que 4 arêtes à placer).
+</p>
+<p>
+Enfin placer, puis orienter ces 4 arêtes correctement.
+</p>
+<h3>
+Méthode de Lars Petrus
+</h3>
+<p>
+Bien que moins automatisée, cette méthode est plus courte (env. 60 mouvements) et a l'avantage de conserver au maximum l'emplacement des cubes bien placés.
+</p>
+<p>
+Réaliser un petit cube de la taille d'un Pocket (2x2x2) constitué de 3 couleurs.
+</p>
+<p>
+Étendre ce petit cube à un parallélépipède (2x2x3) constitué de 4 couleurs sans détruire le petit cube.
+</p>
+<p>
+Orienter les arêtes restantes, de manière à pouvoir les placer orientées correctement en utilisant deux des six faces.
+</p>
+<p>
+Étendre le parallélépipède 2x2x3 à un parallélépipède 2x3x3 (deux couronnes du cube complet).
+</p>
+<p>
+Placer et orienter les 4 coins restants.
+</p>
+<p>
+Placer les 4 arêtes restantes.
+</p>
+<h3>
+Méthode de Jessica Fridrich (ou CFOP)
+</h3>
+<p>
+Cette méthode nécessite environ 60 mouvements. C'est celle utilisée dans l'image de début d'article. Elle est très utilisée en speedcubing, car systématique :
+</p>
+<p>
+Réaliser une croix sur une face (presque toujours la blanche).
+</p>
+<p>
+Réaliser les F2L, c'est-à-dire finir la première face et réaliser la seconde couche.
+</p>
+<p>
+Réaliser l'OLL, c'est-à-dire orienter les coins de la dernière couche.
+</p>
+<p>
+Réaliser la PLL, c'est-à-dire replacer les cubes de la dernière couche.
+</p>
+<h3>
+Méthodes corners first (Guimond, Ortega et Waterman)
+</h3>
+<p>
+Une autre approche, intuitive, consister à placer les cubes-sommets en premier. Cette méthode donne l'avantage de faciliter le placement des arêtes tout en gardant les coins placés. Cette méthode, très utilisée dans les années 1980, l'est moins aujourd'hui. La résolution par cette technique nécessite de 60 à 70 mouvements (une cinquante seulement si on compte un mouvement de tranche centrale comme un seul mouvement au lieu de deux).
+</p>
+<p>
+Placer les coins (plusieurs méthodes possibles).
+</p>
+<p>
+Placer et orienter les arêtes des deux couches extérieures.
+</p>
+<p>
+Résoudre la couche intermédiaire.
+</p>
+<h3>
+Remarque
+</h3>
+<p>
+Si un cubelet est bien placé, les couleurs ne le sont pas forcément. Un cube d'arête a deux positions de couleurs possibles et un cube-sommet trois.
+</p>
+<p>
+Chaque étape intermédiaire utilise des algorithmes spécifiques.
+</p>
+<p>
+En vérité il existe de très nombreuses méthodes de résolution, si bien que des spécialistes y consacrent leur thèse universitaire. Des compétitions sont organisées, et les meilleurs peuvent résoudre le cube en moins de 15 secondes grâce à des dizaines d'algorithmes (80 pour la méthode de Fridrich, la plus utilisée en speedcubing).
+</p>
+<h2>
+Championnats et records
+</h2>
+<p>
+Il existe une World Cube Association qui organise des championnats suivant des règles bien fixées : chaque joueur utilise son cube personnel (parfois graissé) et la position de départ est identique pour tous les joueurs. Le premier championnat s'est déroulé à Budapest en 1982.
+</p>
+<p>
+Le temps le plus rapide jamais réalisé et vérifié est de 5,25 s, réalisé par le lycéen Collin Burns lors de son 3 essai dans une compétition locale d'un lycée de Pennsylvanie. Sa moyenne fut de 8,70 s.
+</p>
+<p>
+Le record officiel basé sur la moyenne de 3 des 5 essais (le plus rapide et le moins bon sont exclus) est de 6,54 s, détenu par l'Australien Feliks Zemdegs.
+</p>
+<p>
+Il existe également des championnats moins conventionnels, mais reconnus tout de même par la World Cube Association : résolution les yeux bandés (le blindfold cubing), avec une seule main, avec les pieds...
+</p>
+<p>
+En 2011, un robot construit en Lego, Cube Stormer II, a battu le record du monde de 5,66 s détenu par un humain. Le robot s'est approprié le record et l'a alors établi à 5,27 s. Il tournait grâce à une application Android sur un Samsung Galaxy S II. Le robot a été programmé par Mike Dobson et David Gilday.
+</p>
+<p>
+Depuis, ces mêmes programmeurs ont créé le robot ARM-Powered Cubestormer 3 . Ce robot a explosé le record détenu par leur robot précédent, Cube Stormer II. Il a réalisé le célèbre casse-tête en seulement 3,253 secondes. Ce robot était lui aussi en Lego et fonctionnait grâce à une application Android sur un Samsung Galaxy S4.
+</p>
+<h2>
+Variantes
+</h2>
+<p>
+Le succès du cube a permis à plusieurs variantes de voir le jour. Rubik a commercialisé quatre variantes cubiques, en changeant le nombre de cubes par arête :
+</p>
+<p>
+Il existe aussi des versions plus complexes, des cubes 6×6×6 et 7×7×7, inventés par l'Espagnol Panagiotis Verdes :
+</p>
+<p>
+Toutes les variantes du Rubik's Cube
+Il existe d'autres variantes, utilisant des polyèdres différents. Uwe Mèffert inventa la plupart de ces variantes : <ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div class="gallerytext">
+</p>
+<p>
+Pyraminx  (tétraèdre)
+</p>
+<li class="gallerybox" style="width: 155px">
+<div class="gallerytext">
+<p>
+Skewb (cube)
+</p>
+<li class="gallerybox" style="width: 155px">
+<div class="gallerytext">
+<p>
+Megaminx (dodécaèdre régulier)
+</p>
+<li class="gallerybox" style="width: 155px">
+<div class="gallerytext">
+<p>
+Square One (cube)
+</p>
+Ou encore la Twistball, conçue par Josip Matijek :<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div class="gallerytext">
+<p>
+Twistball bleu-vert
+</p>
+Il existe d'autres variantes, tels le Rubik's Barrel ou le Puzzle multi-pyramidal.<h3>
+Décoration du Rubik's Cube
+</h3>
+<p>
+Il y a des variantes au schéma de couleur classique. Par exemple, sur le schéma dit japonais, les faces bleues et blanches sont opposées.
+</p>
+<p>
+Le cube calendrier est un cube décoré tant et si bien qu'il est possible de former n'importe quelle combinaison de jour et mois sur ses faces.
+</p>
+<p>
+Il existe aussi des cubes publicitaires ou thématiques : ainsi furent créés des Rubik's Cubes à l'effigie de Dark Maul, d'Homer Simpson ou encore de marques de sodas.
+</p>
+<h2>
+Records du Rubik's Cube et de ses variantes
+</h2>
+<p>
+On peut remarquer une domination de Feliks Zemdegs dans le Rubik's Cube (3x3x3) et le Professor's Cube (5x5x5), bien que ce soit Collin Burns qui, à 15 ans, détient le record sur le casse-tête original, en l'ayant résolu en 5,25 s, rendant fous de joie les lycéens qui entouraient le jeune speedcuber. Il devient aussi le seul humain à ce jour ayant réalisé une meilleure performance que le robot Cubestormer II. C'est Sebastian Weyer qui est, pour le moment, le maître du Rubik's Revenge (4x4x4). Kevin Hays est le champion incontestable du V-Cube 6, tandis que le V-Cube 7 voit plusieurs champions se repasser le titre. Dans le Megaminx, Louis Cormier est le premier champion à l'occasion de l'Euro 2014 mais Yu Da-Hyun lui prit le titre dans les championnats asiatiques de 2014 pour toujours le détenir aujourd'hui. Bingliang Li est le maître incontestable, quant à lui, du Square One. En savoir plus
+</p>
+<h2>
+Récompense
+</h2>
+<p>
+En 1980, le Rubik's Cube a été élu meilleur jeu solitaire dans le Spiel des Jahres (Jeu de l'année en allemand).
+</p>

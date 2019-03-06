@@ -12,13 +12,11 @@ commentaire version : compte les modifieurs des NC (mais il n'y a pas encore acc
 """
 
 from texteval import load
-import pandas as pd
-import numpy as np
 
 DEBUG = False
 
 def meanFromList(liste):
-    return pd.Series(liste).astype(float).mean()
+    return sum(liste)/len(liste)
 
 def reperage_verbeconj_prorel_sub(target, debug=DEBUG):
     data = load(target)
@@ -40,10 +38,10 @@ def reperage_verbeconj_prorel_sub(target, debug=DEBUG):
                 listeSV.append(word)
                 if positionV == 0:
                     positionV = word.num
-                    positionsV.append(word.num)
+                    positionsV.append(float(word.num))
             elif word.pos == 'CS':
                 listeSubord.append(word)
-            elif word.pos == "NC":
+            elif word.pos == 'NC':
                 nbMod = 0
                 for dep in sentence.get_dependents(word):
                     if dep.dep.startswith("mod"):
@@ -56,7 +54,7 @@ def reperage_verbeconj_prorel_sub(target, debug=DEBUG):
         nbProRel = len(listeProRel)
         nbSubord = len(listeSubord)
         if debug:
-            print('Phrase', nb_phrase, ':', nbSV, 'verbes conjugués,', nbProRel, 'pronoms relatifs', nbSubord, 'subordonnées',positionV,"position du premier verbe")
+            print('Phrase', nb_phrase, ':', nbSV, 'verbes conjugués,', nbProRel, 'pronoms relatifs', nbSubord, 'subordonnées',positionV, "position du premier verbe")
         svTot += nbSV
         proRelTot += nbProRel
         subordTot += nbSubord
@@ -70,12 +68,13 @@ def reperage_verbeconj_prorel_sub(target, debug=DEBUG):
     print('Moyenne V1                :', meanFromList(positionsV))
     print('Moyenne modifieurs par NC :', meanFromList(nbModNcAll))
     return {
-        'VERBECONJ_PROREL_TOTAL_PHRASE' : nb_phrase,
+        'GEN_SENTENCE_LEN' : nb_phrase,
         'VERBECONJ_PROREL_VERBES_CONJ' : svTot,
         'VERBECONJ_PROREL_PRONOM_REL' : proRelTot,
         'VERBECONJ_PROREL_SUB' : subordTot,
         'VERBECONJ_PROREL_AVG_V1' : meanFromList(positionsV),
-        'VERBECONJ_PROREL_AVG_MOD_PAR_NC' : meanFromList(nbModNcAll),
+        'SYN_NB_MODIFIERS_PER_NOUN' : meanFromList(nbModNcAll),
+        'GEN_WORD_LENGTH' : data.word_len
         }
 
 if __name__ == '__main__':

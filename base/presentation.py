@@ -11,11 +11,16 @@ class Presentation:
         self.templatefile = templatefile
         self.set_of_keys = []
     
-    def populate(self, dic, who=0):
+    def populate(self, dic, who=0, coherency=True):
         if who == len(self.set_of_keys):
             self.set_of_keys.append({})
         elif who > len(self.set_of_keys):
-            raise Exception('set_of_keys to small : ' + str(len(self.set_of_keys)))            
+            raise Exception('set_of_keys to small : ' + str(len(self.set_of_keys)))
+        if coherency:
+            for k, v in dic.items():
+                if k in self.set_of_keys[who]:
+                    if v != self.set_of_keys[who][k]:
+                        raise Exception("Multiple values for key: " + k)
         self.set_of_keys[who].update(dic)
 
     def output_html(self, filename):
@@ -26,6 +31,8 @@ class Presentation:
             for key, val in self.set_of_keys[who].items():
                 if type(val) == str and val.startswith('http'):
                     val = f'<a href="{val}">{val}</a>'
+                if type(val) == float:
+                    val = f"{val:.3f}"
                 template = template.replace(key, str(val))
             f = open(filename.replace('.html', '_' + str(who) + '.html'), mode='w', encoding='utf8')
             f.write(template)

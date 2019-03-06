@@ -7,20 +7,38 @@
     <title>Maquette</title>
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
     <style type="text/css">
-        div {
+        div.part {
+            margin-top: 3em;
+            background-color: #f8f9fa;
+            border-radius: 25px;
+            padding: 1em;
         }
         tr {
             border-bottom: 1px solid grey;
         }
+        tr:last-child {
+            border-bottom: None;
+        }
         td:first-child {
             padding-right: 3em;
+        }
+        td:first-child {
+            width: 445px;
+        }
+        div.back {
+            width: 100%;
+            text-align: center;
+            margin-top: 1em;
+        }
+        div.back a {
         }
     </style>
   </head>
   <body>
     <div class="container">
+    
       <!--<nav class="navbar sticky-top navbar-light bg-light">-->
-      <nav class="navbar bg-light">
+      <nav class="navbar bg-light" id="nav">
         <ul class="nav">
           <li class="nav-item">
             <a class="nav-link active" href="#id">Fiche</a>
@@ -32,100 +50,167 @@
             <a class="nav-link" href="#sur">Surface</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#syn">Syntaxe/morphologie</a>
+            <a class="nav-link" href="#syn">Syntaxe et morphologie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#sem">Sémantique/lexique</a>
+            <a class="nav-link" href="#mor">Morphologie</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#dis">Discours</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#sem">Sémantique et lexique</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#eno">Énoncés</a>
           </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#det">Détails</a>
+          </li>
         </ul>
       </nav>
       
-      <div id="id">
+      <div id="id" class="part">
         <h1>Fiche d'identité de l'article</h1>
         <hr>
         <table>
-          <tr><td>Titre</td><td>GEN_TITLE</td></tr>
-          <tr><td>URL</td><td>GEN_URL</td></tr>
-          <tr><td>Longueur globale</td><td>SURF_WORD_LENGTH</td></tr>
-          <tr><td>Avis global</td><td>GEN_NOTE</td>
+          <tr><td>Titre</td><td>VIKIBEST</td></tr>
+          <tr><td>URL</td><td><a href="https://github.com/m2litl2019/Projet-conception-Vikidia/tree/master/base/vikibest">https://github.com/m2litl2019/Projet-conception-Vikidia/tree/master/base/vikibest</a></td></tr>
+          <tr><td>Nombre de mots</td><td>184524</td></tr>
+          <tr><td>Nombre de phrases</td><td>9236</td></tr>
+          <tr><td>Avis global</td><td>GEN_NOTE</td></tr>
+          <tr><td>Date d'évaluation</td><td>2019-03-06 01:15:10.949605</td></tr>
         </table>
+        <div class="back">
+            <a href="#nav">Retour au début</a>
+        </div>
       </div>
-      <div id="ana">
+      <div id="ana" class="part">
         <h1>Anatomie de l'article</h1>
         <hr>
         <i>Indices métatextuels</i>
         <table>
           <tr><td>Nombre de liens</td><td>META_NB_LINKS</td></tr>
           <tr><td>Nombre d'images</td><td>META_NB_PICTURES</td></tr>
-          <tr><td>Nombre de sections</td><td>META_NB_SECTION</td></tr>
-          <tr><td>Nombre de paragraphes</td><td>META_NB_PARAGRAPH</td></tr>
+          <!--<tr><td>Nombre de sections</td><td>META_NB_SECTION</td></tr>
+          <tr><td>Nombre de paragraphes</td><td>META_NB_PARAGRAPH</td></tr>-->
         </table>
+        <div class="back">
+            <a href="#nav">Retour au début</a>
+        </div>
       </div>
-      <div id="sur">
+      <div id="sur" class="part">
         <h1>Indices de surface</h1>
         <hr>
         <table>
-          <tr><td>Longueur en nombre de mots</td><td>SURF_WORD_LENGTH</td></tr>
-          <tr><td>Longueur moyenne des phrases</td><td>SURF_AVG_WORD_LENGTH</td></tr>
-          <tr><td>Mesure de Flesch-Kincaid</td><td>SURF_FLESCH_KINCAID</td></tr>
+          <!--<tr><td>Longueur en nombre de mots</td><td>SUR_WORD_LENGTH</td></tr>-->
+          <tr><td>Longueur moyenne des phrases</td><td>SUR_WORD_LEN_AVG</td></tr>
+          <tr><td>Mesure de Flesch-Kincaid</td><td>SUR_FLESCH_KINCAID</td></tr>
+          <tr><td>Mesure de ponctuation</td><td>SUR_PONCTUATION</td></tr>
         </table>
+        <div class="back">
+            <a href="#nav">Retour au début</a>
+        </div>
       </div>
-      <div id="syn">
+      <div id="syn" class="part">
         <h1>Syntaxe et morphologie</h1>
         <hr>
         <table>
-          <tr><td>Texte Syn 1</td><td>SYN_RES1</td></tr>
+          <tr><td>Nombre de verbes à la voix passive sur nombre de phrases</td><td>0.129</td></tr>
+          <tr><td>Moyenne du nombre de verbes par phrase</td><td>SYN_NB_VERBS_PER_SENTENCE</td></tr>
+          <tr><td>Moyenne du nombre de modificateur par nom commun</td><td>0.449</td></tr>
+          <tr><td>Temps verbaux</td><td>SYN_VERBAL_TENSE</td></tr>
         </table>
+        <div class="back">
+            <a href="#nav">Retour au début</a>
+        </div>
       </div>
-      <div id="sem">
+      <div id="mor" class="part">
+        <h1>Morphologie</h1>
+        <hr>
+        <table>
+          <tr>
+            <td>Nombre de particules complexes sur nombre de mots</td><td>MOR_PART_COMPLEXE</td>
+          </tr>
+        </table>
+        <div class="back">
+            <a href="#nav">Retour au début</a>
+        </div>
+      </div>
+      <div id="dis" class="part">
+        <h1>Discours</h1>
+        <hr>
+        <table>
+          <tr>
+            <td>Nombre de pronoms sur nombre de noms</td><td>0.237</td>
+          </tr>
+        </table>
+        <div class="back">
+            <a href="#nav">Retour au début</a>
+        </div>
+      </div>
+      <div id="sem" class="part">
         <h1>Sémantique et lexique</h1>
         <hr>
+        <table>
+          <tr>
+            <td>Nombre de mots ambigus sur le nombre de mots</td><td>SEMLEX_MOTS_AMBIGUS</td>
+          </tr>
+          <tr>
+            <td>Nombre de mots rares sur le nombre de mots</td><td>SEMLEX_MOTS_RARES</td>
+          </tr>
+          <tr>
+            <td>Âge d'acquisition </td><td>SEMLEX_AQUISITION</td>
+          </tr>
+        </table>
+        <div class="back">
+            <a href="#nav">Retour au début</a>
+        </div>
       </div>
-      <div id="eno">
+      <div id="eno" class="part">
         <h1>Énoncé définitoires et connecteurs</h1>
         <hr>
-        <div class="alert alert-primary" role="alert">
-          Bleu
-        </div>
-        <div class="alert alert-success" role="alert">
-          Verte
-        </div>
-        <div class="alert alert-danger" role="alert">
-          Rouge
-        </div>
-        <div class="alert alert-warning" role="alert">
-          Jaune
+        <table>
+          <tr>
+            <td>Moyenne de patrons de reformulation par phrase</td><td>REFORMULATION</td>
+          </tr>
+          <tr>
+            <td>Moyenne de connecteurs par phrase</td><td>CONNECTEURS</td>
+          </tr>
+        </table>
+        <div class="back">
+            <a href="#nav">Retour au début</a>
         </div>
       </div>
-      <div>
+      <div id="det" class="part">
+        <h1>Détails</h1>
+        <hr>
+        <i>Différents nombres sur l'article analysé.</i>
         <table>
-          <tr><td>Nb phrases</td><td>9236</td></tr>
-          <tr><td>Nb passives</td><td>1189</td></tr>
-          <tr><td>Ratio</td><td>0.1287353832828064</td></tr>
-          <tr><td>Total pronoms</td><td>12603</td></tr>
-          <tr><td>Total phrases</td><td>9236</td></tr>
-          <tr><td>Moyenne pro / ph</td><td>1.3645517540060632</td></tr>
-          <!-- Cas des multiclés -->
-          <tr><td>Total phrases</td><td>9236</td></tr>
-          <tr><td>Verbes conjugués</td><td>25066</td></tr>
-          <tr><td>Pronoms relatifs</td><td>2658</td></tr>
-          <tr><td>Subordonnées</td><td>2232</td></tr>
-          <tr><td>Moyenne V1</td><td>5.328074129727022</td></tr>
-          <tr><td>Moyenne modifieurs par NC</td><td>0.44910282953761216</td></tr>
-          <tr><td></td><td></td></tr>
-          <tr><td></td><td></td></tr>
-          <tr><td></td><td></td></tr>
-          <tr><td></td><td></td></tr>
-          <tr><td></td><td></td></tr>
-          <tr><td></td><td></td></tr>
-          <tr><td></td><td></td></tr>
-          <tr><td></td><td></td></tr>
-          <tr><td></td><td></td></tr>
+          <tr><td>Nombre de noms communs et propres</td><td>53177</td></tr>
+          <tr><td>Nombre de verbes conjugués</td><td>25066</td></tr>
+          <tr><td>Nombre de pronoms</td><td>12603</td></tr>
+          <tr><td>Nombre de pronoms relatifs</td><td>2658</td></tr>
+          <tr><td>Nombre de phrases passives</td><td>1189</td></tr>
+          <tr><td>Nombre de subordonnées</td><td>2232</td></tr>
+          <!--<tr><td>Moyenne V1</td><td>5.328</td></tr>-->
         </table>
+        <div class="back">
+            <a href="#nav">Retour au début</a>
+        </div>
       </div>
     </div>
+    <!--<div class="alert alert-primary" role="alert">
+      Bleu
+    </div>
+    <div class="alert alert-success" role="alert">
+      Verte
+    </div>
+    <div class="alert alert-danger" role="alert">
+      Rouge
+    </div>
+    <div class="alert alert-warning" role="alert">
+      Jaune
+    </div>-->
   </body>
 </html>

@@ -3,9 +3,14 @@ from presentation import Presentation
 from reperage_passive import reperage_passive
 from reperage_pronoms import reperage_pronoms
 from reperage_verbeconj_prorel_sub import reperage_verbeconj_prorel_sub
+import datetime
 
 EMA = 'ema.tal'
-res_ema = {}
+res_ema = {
+    'GEN_TITLE' : 'EMA',
+    'GEN_URL' : 'https://github.com/m2litl2019/Projet-conception-Vikidia/blob/master/base/ema.tal',
+    'GEN_DATE' : str(datetime.datetime.now())
+}
 print('== EMA ==')
 print()
 res_ema.update(reperage_passive(EMA))
@@ -16,7 +21,11 @@ res_ema.update(reperage_verbeconj_prorel_sub(EMA))
 print()
 
 MAUPA = 'maupassant12.bin'
-res_maupa = {}
+res_maupa = {
+    'GEN_TITLE' : 'MAUPASSANT',
+    'GEN_URL' : 'https://github.com/m2litl2019/Projet-conception-Vikidia/blob/master/base/maupassant12.bin',
+    'GEN_DATE' : str(datetime.datetime.now())
+}
 print('== MAUPASSANT ==')
 print()
 res_maupa.update(reperage_passive(MAUPA))
@@ -27,7 +36,11 @@ res_maupa.update(reperage_verbeconj_prorel_sub(MAUPA))
 print()
 
 VIKIBEST = 'vikibest'
-res_vikibest = {}
+res_vikibest = {
+    'GEN_TITLE' : 'VIKIBEST',
+    'GEN_URL' : 'https://github.com/m2litl2019/Projet-conception-Vikidia/tree/master/base/vikibest',
+    'GEN_DATE' : str(datetime.datetime.now())
+}
 print('== VIKIBEST ==')
 print()
 res_vikibest.update(reperage_passive(VIKIBEST))

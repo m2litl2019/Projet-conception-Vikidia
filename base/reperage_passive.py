@@ -14,9 +14,10 @@ def reperage_passive(target):
     print('Nb passives :', f"{nb_passives:6d}")
     print(f'Ratio      : {(nb_passives / nb_phrases):.3f} %')
     return {
-        'PASSIVE_NB_PHRASE' : nb_phrases,
+        'GEN_SENTENCE_LEN' : nb_phrases,
         'PASSIVE_NB_PASSIVES' : nb_passives,
-        'PASSIVE_RATIO' : nb_passives / nb_phrases
+        'SYN_NB_PASSIVE' : nb_passives / nb_phrases,
+        'GEN_WORD_LENGTH' : data.word_len
         }
 
 if __name__ == '__main__':

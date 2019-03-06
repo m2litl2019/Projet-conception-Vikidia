@@ -74,6 +74,12 @@ class Part:
     def __len__(self):
         return len(self.sentences)
 
+    @property
+    def word_len(self):
+        nb = 0
+        for s in self.sentences:
+            nb += s.word_len
+        return nb
 
 class Sentence:
 
@@ -115,6 +121,14 @@ class Sentence:
             nb += len(w.form)
         return nb
 
+    @property
+    def word_len(self):
+        nb = 0
+        for w in self.words:
+            if w.pos != 'PONCT':
+                nb += 1
+        return nb
+    
     def __len__(self):
         return len(self.words)
 
