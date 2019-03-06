@@ -46,13 +46,33 @@ print()
 res_vikibest.update(reperage_passive(VIKIBEST))
 print()
 res_vikibest.update(reperage_pronoms(VIKIBEST))
+res_vikibest.update(reperage_pronoms(VIKIBEST))
 print()
 res_vikibest.update(reperage_verbeconj_prorel_sub(VIKIBEST))
 print()
+
+
+LITENF = 'litEnfant.tal'
+res_litenf = {
+    'GEN_TITLE' : 'LitEnfant',
+    'GEN_URL' : 'https://github.com/m2litl2019/Projet-conception-Vikidia/tree/master/base/corpuslitenf',
+    'GEN_DATE' : str(datetime.datetime.now())
+}
+print('== Corpus littéraire 6eme / 5eme ==')
+print()
+res_litenf.update(reperage_passive(LITENF))
+print()
+res_litenf.update(reperage_pronoms(LITENF))
+res_litenf.update(reperage_pronoms(LITENF))
+print()
+res_litenf.update(reperage_verbeconj_prorel_sub(LITENF))
+print()
+
 
 p = Presentation('templates/maquette2.html')
 p.populate(res_ema, 0)
 p.populate(res_maupa, 1)
 p.populate(res_vikibest, 2)
+p.populate(res_litenf,3)
 p.ouput_all('results/multitests')
 
