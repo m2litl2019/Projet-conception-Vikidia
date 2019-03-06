@@ -1,0 +1,1858 @@
+<p>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	Bête	bête	NC	NC	n=s|g=f	5	suj	5	suj
+3	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+4	Gévaudan	_	NPP	NPP		3	prep	3	prep
+5	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+6	un	un	DET	DET	n=s|g=m	7	det	7	det
+7	animal	animal	NC	NC	n=s|g=m	5	obj	5	obj
+8	légendaire	légendaire	ADJ	ADJ	n=s	7	mod	7	mod
+9	qui	qui	PROREL	PROREL	n=s	11	suj	11	suj
+10	a	avoir	V	V	n=s|t=P|p=3	11	aux_tps	11	aux_tps
+11	fait	faire	VPP	VPP	n=s|g=m|t=K	7	mod_rel	7	mod_rel
+12	une	une	DET	DET	n=s|g=f	13	det	13	det
+13	centaine	centaine	NC	NC	n=s|g=f	11	obj	11	obj
+14	de	de	P	P		13	dep	13	dep
+15	victimes	victime	NC	NC	n=p|g=f	14	prep	14	prep
+16	(	(	PONCT	PONCT		15	ponct	15	ponct
+17	morts	mort	ADJ	ADJ	n=p|g=m|t=K	13	mod	13	mod
+18	ou	ou	CC	CC		11	coord	11	coord
+19	blessés	blesser	VPP	VPP	n=p|g=m|t=K	18	dep_coord	18	dep_coord
+20	)	)	PONCT	PONCT		19	ponct	19	ponct
+21	dans	dans	P	P		19	mod	19	mod
+22	la	la	DET	DET	n=s|g=f	23	det	23	det
+23	région	région	NC	NC	n=s|g=f	21	prep	21	prep
+24	du	de	P+D	P+D	n=s|g=m	23	dep	23	dep
+25	Gévaudan	_	NPP	NPP		24	prep	24	prep
+26	,	,	PONCT	PONCT		25	ponct	25	ponct
+27	région	région	NC	NC	n=s|g=f	23	mod	23	mod
+28	française	français	ADJ	ADJ	n=s|g=f	27	mod	27	mod
+29	du	de	P+D	P+D	n=s|g=m	27	dep	27	dep
+30	Languedoc	Languedoc	NPP	NPP	n=s|g=m	29	prep	29	prep
+31	(	(	PONCT	PONCT		30	ponct	30	ponct
+32	aujourd'hui	aujourd'hui	ADV	ADV		34	mod	34	mod
+33	la	la	DET	DET	n=s|g=f	34	det	34	det
+34	Lozère	Lozère	NPP	NPP	n=s|g=f	23	mod	23	mod
+35	et	et	CC	CC		34	coord	34	coord
+36	la	la	DET	DET	n=s|g=f	37	det	37	det
+37	Haute-Loire	Haute-Loire	NPP	NPP	n=s|g=f	35	dep_coord	35	dep_coord
+38	)	)	PONCT	PONCT		37	ponct	37	ponct
+39	.	.	PONCT	PONCT		37	ponct	37	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	faits	fait	NC	NC	n=p|g=m	5	suj	5	suj
+3	se	se	CLR	CLR	n=p,s|p=3	5	aff	5	aff
+4	sont	être	V	V	n=p|t=P|p=3	5	aux_tps	5	aux_tps
+5	déroulés	dérouler	VPP	VPP	n=p|g=m|t=K	0	root	0	root
+6	sous	sous	P	P		5	mod	5	mod
+7	le	le	DET	DET	n=s|g=m	8	det	8	det
+8	règne	règne	NC	NC	n=s|g=m	6	prep	6	prep
+9	de	de	P	P		5	mod	5	mod
+10	Louis	Louis	NPP	NPP	n=s|g=m	9	prep	9	prep
+11	XV	_	NPP	NPP		10	mod	10	mod
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	entre	entre	P	P		5	mod	5	mod
+14	1764	1764	NC	NC		13	prep	13	prep
+15	et	et	CC	CC		5	coord	5	coord
+16	1767	1767	NC	NC		15	dep_coord	15	dep_coord
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+</p><h2>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	mythe	mythe	NC	NC	n=s|g=m	0	_	0	_
+
+</h2><p>
+1	À	à	P	P		8	mod	8	mod
+2	l'	le	DET	DET	n=s	3	det	3	det
+3	époque	époque	NC	NC	n=s|g=f	1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	rien	rien	PRO	PRO	n=s|g=m	8	suj	8	suj
+6	n'	ne	ADV	ADV		8	mod	8	mod
+7	a	avoir	V	V	n=s|t=P|p=3	8	aux_tps	8	aux_tps
+8	pu	pouvoir	VPP	VPP	t=K	0	root	0	root
+9	être	être	VINF	VINF	t=W	8	obj	8	obj
+10	prouvé	prouver	VPP	VPP	n=s|g=m|t=K	9	dep	9	dep
+11	sur	sur	P	P		9	mod	9	mod
+12	l'	le	DET	DET	n=s	13	det	13	det
+13	existence	existence	NC	NC	n=s|g=f	11	prep	11	prep
+14	d'	de	P	P		8	mod	8	mod
+15	un	un	DET	DET	n=s|g=m	18	det	18	det
+16	ou	ou	CC	CC		15	coord	15	coord
+17	plusieurs	plusieurs	DET	DET	n=p	16	dep_coord	16	dep_coord
+18	animaux	animal	NC	NC	n=p|g=m	14	prep	14	prep
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	ni	ni	CC	CC		8	coord	8	coord
+21	de	de	P	P		20	dep_coord	20	dep_coord
+22	quel	quel	DETWH	DETWH	n=s|g=m	23	mod	23	mod
+23	animal	animal	NC	NC	n=s|g=m	21	prep	21	prep
+24	il	il	CLS	CLS	n=s|g=m|p=3	0	_	0	_
+25	s'	se	CLR	CLR	n=p,s|p=3	0	_	0	_
+26	agissait	agir	V	V	n=s|t=I|p=3	0	_	0	_
+27	.	.	PONCT	PONCT		26	ponct	26	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	plupart	plupart	NC	NC	n=s|g=f	5	suj	5	suj
+3	des	de	P+D	P+D	n=p	2	dep	2	dep
+4	témoins	témoin	NC	NC	n=p|g=m	3	prep	3	prep
+5	parlent	parler	V	V	n=p|t=P,S|p=3	0	root	0	root
+6	d'	de	P	P		5	mod	5	mod
+7	une	une	DET	DET	n=s|g=f	8	det	8	det
+8	bête	bête	NC	NC	n=s|g=f	6	prep	6	prep
+9	de	de	P	P		5	mod	5	mod
+10	type	type	NC	NC	n=s|g=m	9	prep	9	prep
+11	«_	"	PONCT	PONCT		10	ponct	10	ponct
+12	inconnu	inconnu	ADJ	ADJ	n=s|g=m	10	mod	10	mod
+13	_»	"	PONCT	PONCT		12	ponct	12	ponct
+14	.	.	PONCT	PONCT		12	ponct	12	ponct
+
+1	Une	une	DET	DET	n=s|g=f	4	suj	4	suj
+2	des	de	P+D	P+D	n=p	1	dep	1	dep
+3	thèses	thèse	NC	NC	n=p|g=f	2	prep	2	prep
+4	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+5	celle	celle	PRO	PRO	n=s|g=f	4	obj	4	obj
+6	d'	de	P	P		4	mod	4	mod
+7	un	un	DET	DET	n=s|g=m	8	det	8	det
+8	loup	loup	NC	NC	n=s|g=m	6	prep	6	prep
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	mais	mais	CC	CC		4	coord	4	coord
+11	les	les	DET	DET	n=p	12	det	12	det
+12	habitants	habitant	NC	NC	n=p|g=m	17	suj	17	suj
+13	du	de	P+D	P+D	n=s|g=m	12	dep	12	dep
+14	Gévaudan	_	NPP	NPP		13	prep	13	prep
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	qui	qui	PROREL	PROREL	n=s	17	suj	17	suj
+17	connaissaient	connaître	V	V	n=p|t=I|p=3	10	dep_coord	10	dep_coord
+18	tous	tout	ADJ	ADJ	n=p|g=m	20	mod	20	mod
+19	les	les	DET	DET	n=p	20	det	20	det
+20	loups	loup	NC	NC	n=p|g=m	17	mod	17	mod
+21	s'	se	CLR	CLR	n=p,s|p=3	22	aff	22	aff
+22	accordaient	accorder	V	V	n=p|t=I|p=3	4	mod	4	mod
+23	à	à	P	P		22	mod	22	mod
+24	dire	dire	VINF	VINF	t=W	23	prep	23	prep
+25	que	que	CS	CS		22	mod	22	mod
+26	ce	ce	CLS	CLS		29	suj	29	suj
+27	n'	ne	ADV	ADV		29	mod	29	mod
+28	en	en	CLO	CLO		29	obj	29	obj
+29	était	être	V	V	n=s|t=I|p=3	25	sub	25	sub
+30	pas	pas	ADV	ADV		29	mod	29	mod
+31	un	un	PRO	PRO	n=s|g=m	29	obj	29	obj
+32	.	.	PONCT	PONCT		31	ponct	31	ponct
+
+1	Parmi	parmi	P	P		7	mod	7	mod
+2	d'	de	DET	DET	n=p	4	det	4	det
+3	autres	autre	ADJ	ADJ	n=p	4	mod	4	mod
+4	hypothèses	hypothèse	NC	NC	n=p|g=f	1	prep	1	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	on	on	CLS	CLS	n=s|p=3	7	suj	7	suj
+7	proposa	proposer	V	V	n=s|t=J|p=3	0	root	0	root
+8	un	un	DET	DET	n=s|g=m	9	det	9	det
+9	babouin	babouin	NC	NC	n=s|g=m	7	obj	7	obj
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	une	une	DET	DET	n=s|g=f	12	det	12	det
+12	hyène	hyène	NC	NC	n=s|g=f	7	mod	7	mod
+13	et	et	CC	CC		7	coord	7	coord
+14	même	même	ADV	ADV		16	mod	16	mod
+15	un	un	DET	DET	n=s|g=m	16	det	16	det
+16	fléau	fléau	NC	NC	n=s|g=m	13	dep_coord	13	dep_coord
+17	de	de	P	P		16	dep	16	dep
+18	Dieu	_	NPP	NPP		17	prep	17	prep
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+</p><p>
+1	Pour	pour	P	P		7	mod	7	mod
+2	certains	certain	PRO	PRO	n=p|g=m	1	prep	1	prep
+3	spécialistes	spécialiste	ADJ	ADJ	n=p	2	mod	2	mod
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	il	il	CLS	CLS	n=s|g=m|p=3	7	suj	7	suj
+6	s'	se	CLR	CLR	n=p,s|p=3	7	aff	7	aff
+7	agirait	agir	V	V	n=s|t=C|p=3	0	root	0	root
+8	d'	de	P	P		7	mod	7	mod
+9	un	un	DET	DET	n=s|g=m	10	det	10	det
+10	loup	loup	NC	NC	n=s|g=m	8	prep	8	prep
+11	-	-	PONCT	PONCT		10	ponct	10	ponct
+12	cervier	cervier	ADJ	ADJ	n=s|g=m	10	mod	10	mod
+13	(	(	PONCT	PONCT		12	ponct	12	ponct
+14	hyène	hyène	NC	NC	n=s|g=f	10	mod	10	mod
+15	ou	ou	CC	CC		14	coord	14	coord
+16	lynx	lynx	NC	NC	g=m	15	dep_coord	15	dep_coord
+17	)	)	PONCT	PONCT		16	ponct	16	ponct
+18	,	,	PONCT	PONCT		16	ponct	16	ponct
+19	à	à	P	P		7	mod	7	mod
+20	tout	tout	ADJ	ADJ	n=s|g=m	24	mod	24	mod
+21	le	le	DET	DET	n=s|g=m	24	det	24	det
+22	moins	moins	ADV	ADV		24	mod	24	mod
+23	un	un	DET	DET	n=s|g=m	24	det	24	det
+24	canidé	canidé	NC	NC	n=s|g=m	19	prep	19	prep
+25	.	.	PONCT	PONCT		24	ponct	24	ponct
+
+1	Pourtant	pourtant	ADV	ADV		2	mod	2	mod
+2	une	un	PRO	PRO	n=s|g=f	21	suj	21	suj
+3	des	de	P+D	P+D	n=p	2	dep	2	dep
+4	bêtes	bête	NC	NC	n=p|g=f	3	prep	3	prep
+5	abattues	abattre	VPP	VPP	n=p|g=f|t=K	4	mod	4	mod
+6	en	en	P	P		5	mod	5	mod
+7	1767	1767	NC	NC		6	prep	6	prep
+8	par	par	P	P		5	mod	5	mod
+9	l'	le	DET	DET	n=s	10	det	10	det
+10	arque-buse	_	NC	NC		8	prep	8	prep
+11	spécial	spécial	ADJ	ADJ	n=s|g=m	10	mod	10	mod
+12	du	de	P+D	P+D	n=s|g=m	5	mod	5	mod
+13	roi	roi	NC	NC	n=s|g=m	12	prep	12	prep
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	et	et	CC	CC		2	coord	2	coord
+16	ramenée	ramener	VPP	VPP	n=s|g=f|t=K	15	dep_coord	15	dep_coord
+17	à	à	P	P		16	mod	16	mod
+18	la	la	DET	DET	n=s|g=f	19	det	19	det
+19	Cour	cour	NC	NC	n=s|g=f	17	prep	17	prep
+20	est	être	V	V	n=s|t=P|p=3	21	aux_tps	21	aux_tps
+21	décrite	décrire	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+22	comme	comme	P	P		21	mod	21	mod
+23	un	un	DET	DET	n=s|g=m	26	det	26	det
+24	très	très	ADV	ADV		25	mod	25	mod
+25	gros	gros	ADJ	ADJ	g=m	26	mod	26	mod
+26	loup	loup	NC	NC	n=s|g=m	22	prep	22	prep
+27	par	par	P	P		21	mod	21	mod
+28	Buffon	Buffon	NPP	NPP	n=s|g=m	27	prep	27	prep
+29	,	,	PONCT	PONCT		28	ponct	28	ponct
+30	qui	qui	PROREL	PROREL	n=s	31	suj	31	suj
+31	fit	faire	V	V	n=s|t=J|p=3	21	mod	21	mod
+32	l'	le	DET	DET	n=s	33	det	33	det
+33	autopsie	autopsie	NC	NC	n=s|g=f	31	obj	31	obj
+34	du	de	P+D	P+D	n=s|g=m	33	dep	33	dep
+35	corps	corps	NC	NC	g=m	34	prep	34	prep
+36	très	très	ADV	ADV		37	mod	37	mod
+37	décomposé	décomposer	VPP	VPP	n=s|g=m|t=K	33	mod	33	mod
+38	.	.	PONCT	PONCT		37	ponct	37	ponct
+
+1	D'	de	DET	DET	n=p	2	det	2	det
+2	autres	autres	PRO	PRO	n=p|g=f,m	4	suj	4	suj
+3	ont	avoir	V	V	n=p|t=P|p=3	4	aux_tps	4	aux_tps
+4	suggéré	suggérer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+5	qu'	que	CS	CS		4	obj	4	obj
+6	il	il	CLS	CLS	n=s|g=m|p=3	8	suj	8	suj
+7	s'	se	CLR	CLR	n=p,s|p=3	8	aff	8	aff
+8	agirait	agir	V	V	n=s|t=C|p=3	5	sub	5	sub
+9	d'	de	P	P		8	mod	8	mod
+10	un	un	DET	DET	n=s|g=m	11	det	11	det
+11	chien-loup	chien-loup	NC	NC	n=s|g=m	9	prep	9	prep
+12	dressé	dresser	VPP	VPP	n=s|g=m|t=K	11	mod	11	mod
+13	depuis	depuis	P	P		12	mod	12	mod
+14	son	son	DET	DET	n=s|g=m|p=3|poss=s	17	det	17	det
+15	plus	plus	ADV	ADV		16	mod	16	mod
+16	jeune	jeune	ADJ	ADJ	n=s	17	mod	17	mod
+17	âge	âge	NC	NC	n=s|g=m	13	prep	13	prep
+18	pour	pour	P	P		8	mod	8	mod
+19	attaquer	attaquer	VINF	VINF	t=W	18	prep	18	prep
+20	les	les	DET	DET	n=p	21	det	21	det
+21	personnes	personne	NC	NC	n=p|g=f	19	obj	19	obj
+22	les	les	DET	DET	n=p	24	det	24	det
+23	plus	plus	ADV	ADV		24	mod	24	mod
+24	faibles	faible	ADJ	ADJ	n=p	21	mod	21	mod
+25	,	,	PONCT	PONCT		24	ponct	24	ponct
+26	doté	doter	VPP	VPP	n=s|g=m|t=K	21	mod	21	mod
+27	d'	de	P	P		26	mod	26	mod
+28	une	une	DET	DET	n=s|g=f	29	det	29	det
+29	cuirasse	cuirasse	NC	NC	n=s|g=f	27	prep	27	prep
+30	en	en	P	P		26	mod	26	mod
+31	peau	peau	NC	NC	n=s|g=f	30	prep	30	prep
+32	de	de	P	P		26	mod	26	mod
+33	sanglier	sanglier	NC	NC	n=s|g=m	32	prep	32	prep
+34	.	.	PONCT	PONCT		33	ponct	33	ponct
+
+1	Une	une	DET	DET	n=s|g=f	3	det	3	det
+2	autre	autre	ADJ	ADJ	n=s	3	mod	3	mod
+3	hypothèse	hypothèse	NC	NC	n=s|g=f	7	suj	7	suj
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	encore	encore	ADV	ADV		7	mod	7	mod
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	indique	indiquer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+8	la	la	DET	DET	n=s|g=f	9	det	9	det
+9	présence	présence	NC	NC	n=s|g=f	7	obj	7	obj
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	non	non	ADV	ADV		12	mod	12	mod
+12	pas	pas	ADV	ADV		7	mod	7	mod
+13	d'	de	P	P		7	mod	7	mod
+14	un	un	DET	DET	n=s|g=m	15	det	15	det
+15	loup	loup	NC	NC	n=s|g=m	13	prep	13	prep
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	mais	mais	CC	CC		7	coord	7	coord
+18	d'	de	P	P		17	dep_coord	17	dep_coord
+19	une	une	DET	DET	n=s|g=f	20	det	20	det
+20	meute	meute	NC	NC	n=s|g=f	18	prep	18	prep
+21	:	:	PONCT	PONCT		20	ponct	20	ponct
+22	cela	cela	PRO	PRO	n=s|g=m	23	suj	23	suj
+23	expliquerait	expliquer	V	V	n=s|t=C|p=3	17	dep_coord	17	dep_coord
+24	comment	comment	ADVWH	ADVWH		27	mod	27	mod
+25	la	la	DET	DET	n=s|g=f	26	det	26	det
+26	bête	bête	NC	NC	n=s|g=f	27	suj	27	suj
+27	pouvait	pouvoir	V	V	n=s|t=I|p=3	23	obj	23	obj
+28	se	se	CLR	CLR	n=p,s|p=3	29	aff	29	aff
+29	déplacer	déplacer	VINF	VINF	t=W	27	obj	27	obj
+30	si	si	CS	CS		27	mod	27	mod
+31	rapidement	_	ADV	ADV		0	_	0	_
+32	,	,	PONCT	PONCT		31	ponct	31	ponct
+33	et	et	CC	CC		31	coord	31	coord
+34	sévir	sévir	VINF	VINF	t=W	33	dep_coord	33	dep_coord
+35	avec	avec	P	P		34	mod	34	mod
+36	un	un	DET	DET	n=s|g=m	37	det	37	det
+37	enchaînement	enchaînement	NC	NC	n=s|g=m	35	prep	35	prep
+38	si	_	ADV	ADV		39	mod	39	mod
+39	fluide	fluide	ADJ	ADJ	n=s	37	mod	37	mod
+40	.	.	PONCT	PONCT		39	ponct	39	ponct
+
+1	Un	un	DET	DET	n=s|g=m	2	det	2	det
+2	abbé	abbé	NC	NC	n=s|g=m	4	suj	4	suj
+3	l'	le	CLO	CLO	n=s|p=3	4	obj	4	obj
+4	ayant	avoir	VPR	VPR	t=G	5	aux_tps	5	aux_tps
+5	vue	voir	VPP	VPP	n=s|g=f|t=K	15	mod	15	mod
+6	la	la	DET	DET	n=s|g=f	7	det	7	det
+7	décrit	_	NC	NC		5	obj	5	obj
+8	ainsi	ainsi	ADV	ADV		5	mod	5	mod
+9	:	:	PONCT	PONCT		8	ponct	8	ponct
+10	«_	"	PONCT	PONCT		8	ponct	8	ponct
+11	…	…	PONCT	PONCT		8	ponct	8	ponct
+12	la	la	DET	DET	n=s|g=f	13	det	13	det
+13	Bête	bête	NC	NC	n=s|g=f	15	suj	15	suj
+14	se	se	CLR	CLR	n=p,s|p=3	15	aff	15	aff
+15	redresse	redresser	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+16	sur	sur	P	P		15	mod	15	mod
+17	ses	ses	DET	DET	n=p|p=3|poss=s	19	det	19	det
+18	deux	deux	ADJ	ADJ	s=card|n=p	19	mod	19	mod
+19	jambes	jambe	NC	NC	n=p|g=f	16	prep	16	prep
+20	de	de	P	P		15	mod	15	mod
+21	derrière	derrière	ADV	ADV		20	mod	20	mod
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+23	et	et	CC	CC		15	coord	15	coord
+24	,	,	PONCT	PONCT		23	ponct	23	ponct
+25	dans	dans	P	P		30	mod	30	mod
+26	cette	cette	DET	DET	n=s|g=f	27	det	27	det
+27	position	position	NC	NC	n=s|g=f	25	prep	25	prep
+28	,	,	PONCT	PONCT		27	ponct	27	ponct
+29	elle	elle	CLS	CLS	n=s|g=f|p=3	30	suj	30	suj
+30	badine	badiner	V	V	n=s|t=P,S|p=1,3	23	dep_coord	23	dep_coord
+31	de	de	P	P		30	mod	30	mod
+32	ses	ses	DET	DET	n=p|p=3|poss=s	34	det	34	det
+33	deux	deux	ADJ	ADJ	s=card|n=p	34	mod	34	mod
+34	pattes	patte	NC	NC	n=p|g=f	31	prep	31	prep
+35	de	de	P	P		30	mod	30	mod
+36	devant	devant	NC	NC	n=s|g=m	35	prep	35	prep
+37	,	,	PONCT	PONCT		36	ponct	36	ponct
+38	pour	pour	P	P		30	mod	30	mod
+39	lors	lors	ADV	ADV		41	mod	41	mod
+40	elle	elle	CLS	CLS	n=s|g=f|p=3	41	suj	41	suj
+41	paraît	paraître	V	V	n=s|t=P|p=3	38	root	38	root
+42	de	de	P	P		41	mod	41	mod
+43	la	la	DET	DET	n=s|g=f	44	det	44	det
+44	hauteur	hauteur	NC	NC	n=s|g=f	42	prep	42	prep
+45	d’	de	P	P		41	mod	41	mod
+46	un	un	DET	DET	n=s|g=m	47	det	47	det
+47	homme	homme	NC	NC	n=s|g=m	45	prep	45	prep
+48	de	de	P	P		41	mod	41	mod
+49	taille	taille	NC	NC	n=s|g=f	48	prep	48	prep
+50	médiocre	médiocre	ADJ	ADJ	n=s	49	mod	49	mod
+51	_»	"	PONCT	PONCT		50	ponct	50	ponct
+
+</p><p>
+1	Bien	bien	ADV	ADV		2	mod	2	mod
+2	que	que	CS	CS		12	mod	12	mod
+3	déclarée	déclarer	VPP	VPP	n=s|g=f|t=K	2	sub	2	sub
+4	plusieurs	plusieurs	DET	DET	n=p	5	det	5	det
+5	fois	fois	NC	NC	g=f	12	suj	12	suj
+6	blessée	blesser	VPP	VPP	n=s|g=f|t=K	5	mod	5	mod
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	la	la	DET	DET	n=s|g=f	9	det	9	det
+9	bête	bête	NC	NC	n=s|g=f	5	mod	5	mod
+10	a	avoir	V	V	n=s|t=P|p=3	12	aux_tps	12	aux_tps
+11	longtemps	longtemps	ADV	ADV		12	mod	12	mod
+12	échappé	échapper	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+13	à	à	P	P		12	mod	12	mod
+14	ses	ses	DET	DET	n=p|p=3|poss=s	15	det	15	det
+15	poursuivants	poursuivant	NC	NC	n=p|g=m	13	prep	13	prep
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	victimes	victime	NC	NC	n=p|g=f	3	suj	3	suj
+3	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+4	surtout	surtout	ADV	ADV		3	mod	3	mod
+5	des	des	DET	DET	n=p	6	det	6	det
+6	enfants	enfant	NC	NC	n=p	3	obj	3	obj
+7	ou	ou	CC	CC		6	coord	6	coord
+8	des	des	DET	DET	n=p	10	det	10	det
+9	jeunes	jeune	ADJ	ADJ	n=p	10	mod	10	mod
+10	femmes	femme	NC	NC	n=p|g=f	7	dep_coord	7	dep_coord
+11	isolées	isoler	VPP	VPP	n=p|g=f|t=K	10	mod	10	mod
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+1	Quelquefois	quelquefois	ADV	ADV		6	mod	6	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	la	la	DET	DET	n=s|g=f	4	det	4	det
+4	bête	bête	NC	NC	n=s|g=f	6	suj	6	suj
+5	n'	ne	ADV	ADV		6	mod	6	mod
+6	hésite	hésiter	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+7	pas	pas	ADV	ADV		6	mod	6	mod
+8	à	à	P	P		6	mod	6	mod
+9	s'	se	CLR	CLR	n=p,s|p=3	10	aff	10	aff
+10	attaquer	attaquer	VINF	VINF	t=W	8	prep	8	prep
+11	à	à	P	P		10	mod	10	mod
+12	des	des	DET	DET	n=p	13	det	13	det
+13	groupes	groupe	NC	NC	n=p|g=m	11	prep	11	prep
+14	d'	de	P	P		13	dep	13	dep
+15	enfants	enfant	NC	NC	n=p	14	prep	14	prep
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	qui	qui	PROREL	PROREL	n=s	18	suj	18	suj
+18	arrivent	arriver	V	V	n=p|t=P,S|p=3	6	mod	6	mod
+19	souvent	souvent	ADV	ADV		18	mod	18	mod
+20	à	à	P	P		18	mod	18	mod
+21	la	la	CLO	CLO	n=s|g=f|p=3	22	obj	22	obj
+22	repousser	repousser	VINF	VINF	t=W	20	prep	20	prep
+23	malgré	malgré	P	P		22	mod	22	mod
+24	quelques	quelques	DET	DET	n=p	25	det	25	det
+25	blessures	blessure	NC	NC	n=p|g=f	23	prep	23	prep
+26	.	.	PONCT	PONCT		25	ponct	25	ponct
+
+</p><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	roi	roi	NC	NC	n=s|g=m	0	_	0	_
+3	expédia	_	NC	NC		2	mod	2	mod
+4	en	en	P	P		2	dep	2	dep
+5	Gévaudan	_	NPP	NPP		4	prep	4	prep
+6	plusieurs	plusieurs	DET	DET	n=p	7	det	7	det
+7	troupes	troupe	NC	NC	n=p|g=f	2	mod	2	mod
+8	de	de	P	P		7	dep	7	dep
+9	soldats	soldat	NC	NC	n=p|g=m	8	prep	8	prep
+10	(	(	PONCT	PONCT		9	ponct	9	ponct
+11	des	de	P+D	P+D	n=p	2	dep	2	dep
+12	dragons	dragon	NC	NC	n=p|g=m	11	prep	11	prep
+13	)	)	PONCT	PONCT		12	ponct	12	ponct
+14	et	et	CC	CC		11	coord	11	coord
+15	des	de	P+D	P+D	n=p	14	dep_coord	14	dep_coord
+16	louvetiers	louvetier	NC	NC	n=p|g=m	15	prep	15	prep
+17	expérimentés	expérimenter	VPP	VPP	n=p|g=m|t=K	16	mod	16	mod
+18	qui	qui	PROREL	PROREL	n=s	20	suj	20	suj
+19	ne	ne	ADV	ADV		20	mod	20	mod
+20	purent	pouvoir	V	V	n=p|t=J|p=3	16	mod_rel	16	mod_rel
+21	venir	venir	VINF	VINF	t=W	20	obj	20	obj
+22	à	à	P	P		21	mod	21	mod
+23	bout	bout	NC	NC	n=s|g=m	22	prep	22	prep
+24	de	de	P	P		21	mod	21	mod
+25	la	la	DET	DET	n=s|g=f	26	det	26	det
+26	bête	bête	NC	NC	n=s|g=f	24	prep	24	prep
+27	.	.	PONCT	PONCT		26	ponct	26	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	bête	bête	NC	NC	n=s|g=f	6	suj	6	suj
+3	de	de	P	P		2	dep	2	dep
+4	1767	1767	NC	NC		3	prep	3	prep
+5	est	être	V	V	n=s|t=P|p=3	6	aux_pass	6	aux_pass
+6	abattue	abattre	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+7	par	par	P	P		6	mod	6	mod
+8	un	un	DET	DET	n=s|g=m	9	det	9	det
+9	paysan	paysan	NC	NC	n=s|g=m	7	prep	7	prep
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	qui	qui	PROREL	PROREL	n=s	12	suj	12	suj
+12	recevra	recevoir	V	V	n=s|t=F|p=3	6	mod	6	mod
+13	du	de	P+D	P+D	n=s|g=m	12	mod	12	mod
+14	roi	roi	NC	NC	n=s|g=m	13	prep	13	prep
+15	une	une	DET	DET	n=s|g=f	16	det	16	det
+16	récompense	récompense	NC	NC	n=s|g=f	12	obj	12	obj
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+1	C'	ce	CLS	CLS		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	donc	donc	ADV	ADV		2	mod	2	mod
+4	en	en	P	P		2	mod	2	mod
+5	partie	partie	NC	NC	n=s|g=f	4	prep	4	prep
+6	un	un	DET	DET	n=s|g=m	7	det	7	det
+7	mythe	mythe	NC	NC	n=s|g=m	2	obj	2	obj
+8	qui	qui	PROREL	PROREL	n=s	10	suj	10	suj
+9	s'	se	CLR	CLR	n=p,s|p=3	10	aff	10	aff
+10	appuie	appuyer	V	V	n=s|t=P,S|p=1,3	7	mod_rel	7	mod_rel
+11	sur	sur	P	P		10	mod	10	mod
+12	des	des	DET	DET	n=p	13	det	13	det
+13	réalités	réalité	NC	NC	n=p|g=f	11	prep	11	prep
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	et	et	CC	CC		10	coord	10	coord
+16	qui	qui	PROREL	PROREL	n=s	17	suj	17	suj
+17	demeure	demeurer	V	V	n=s|t=P,S|p=1,3	15	dep_coord	15	dep_coord
+18	de	de	P	P		17	mod	17	mod
+19	nos	nos	DET	DET	n=p|p=1|poss=p	20	det	20	det
+20	jours	jour	NC	NC	n=p|g=m	18	prep	18	prep
+21	encore	encore	ADV	ADV		17	mod	17	mod
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+23	un	un	PRO	PRO	n=s|g=m	17	obj	17	obj
+24	des	de	P+D	P+D	n=p	23	dep	23	dep
+25	plus	plus	ADV	ADV		26	mod	26	mod
+26	grands	grand	ADJ	ADJ	n=p|g=m	27	mod	27	mod
+27	mystères	mystère	NC	NC	n=p|g=m	24	prep	24	prep
+28	de	de	P	P		17	mod	17	mod
+29	l'	le	DET	DET	n=s	30	det	30	det
+30	histoire	histoire	NC	NC	n=s|g=f	28	prep	28	prep
+31	...	...	PONCT	PONCT		30	ponct	30	ponct
+
+</p><h2>
+1	Déroulement	déroulement	NC	NC	n=s|g=m	0	_	0	_
+2	des	de	P+D	P+D	n=p	1	dep	1	dep
+3	faits	fait	NC	NC	n=p|g=m	2	prep	2	prep
+
+</h2><p>
+1	Au	à	P+D	P+D	n=s|g=m	10	mod	10	mod
+2	début	début	NC	NC	n=s|g=m	1	prep	1	prep
+3	de	de	P	P		2	dep	2	dep
+4	l'	le	DET	DET	n=s	5	det	5	det
+5	été	été	NC	NC	n=s|g=m	3	prep	3	prep
+6	1764	1764	NC	NC		5	mod	5	mod
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	une	une	DET	DET	n=s|g=f	9	det	9	det
+9	vachère	vacher	NC	NC	n=s|g=f	10	suj	10	suj
+10	affirme	affirmer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+11	avoir	avoir	VINF	VINF	t=W	13	aux_tps	13	aux_tps
+12	été	être	VPP	VPP	t=K	13	aux_pass	13	aux_pass
+13	attaquée	attaquer	VPP	VPP	n=s|g=f|t=K	10	ats	10	ats
+14	par	par	P	P		13	mod	13	mod
+15	une	une	DET	DET	n=s|g=f	17	det	17	det
+16	«_	"	PONCT	PONCT		15	ponct	15	ponct
+17	bête	bête	NC	NC	n=s|g=f	14	prep	14	prep
+18	_»	"	PONCT	PONCT		17	ponct	17	ponct
+19	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	Le	le	DET	DET	n=s|g=m	3	det	3	det
+2	même	même	ADJ	ADJ	n=s	3	mod	3	mod
+3	mois	mois	NC	NC	g=m	9	mod	9	mod
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	une	une	DET	DET	n=s|g=f	7	det	7	det
+6	jeune	jeune	ADJ	ADJ	n=s	7	mod	7	mod
+7	fille	fille	NC	NC	n=s|g=f	9	suj	9	suj
+8	est	être	V	V	n=s|t=P|p=3	9	aux_pass	9	aux_pass
+9	tuée	tuer	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+10	au	à	P+D	P+D	n=s|g=m	9	mod	9	mod
+11	village	village	NC	NC	n=s|g=m	10	prep	10	prep
+12	des	de	P+D	P+D	n=p	11	dep	11	dep
+13	Hubacs	_	NC	NC		12	prep	12	prep
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+1	C'	ce	CLS	CLS		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	la	la	DET	DET	n=s|g=f	5	det	5	det
+4	première	premier	ADJ	ADJ	n=s|g=f	5	mod	5	mod
+5	victime	victime	NC	NC	n=s|g=f	2	obj	2	obj
+6	officielle	officiel	ADJ	ADJ	n=s|g=f	5	mod	5	mod
+7	de	de	P	P		2	mod	2	mod
+8	la	la	DET	DET	n=s|g=f	9	det	9	det
+9	bête	bête	NC	NC	n=s|g=f	7	prep	7	prep
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+1	Le	le	DET	DET	n=s|g=m	3	det	3	det
+2	8	8	ADJ	ADJ		3	mod	3	mod
+3	août	août	NC	NC	n=s|g=m	12	mod	12	mod
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	une	une	DET	DET	n=s|g=f	7	det	7	det
+6	deuxième	deuxième	ADJ	ADJ	n=s	7	mod	7	mod
+7	fille	fille	NC	NC	n=s|g=f	12	suj	12	suj
+8	de	de	P	P		7	dep	7	dep
+9	14	14	ADJ	ADJ		10	mod	10	mod
+10	ans	an	NC	NC	n=p|g=m	8	prep	8	prep
+11	est	être	V	V	n=s|t=P|p=3	12	aux_pass	12	aux_pass
+12	retrouvée	retrouver	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+13	sans	sans	P	P		12	mod	12	mod
+14	vie	vie	NC	NC	n=s|g=f	13	prep	13	prep
+15	près	près	ADV	ADV		12	mod	12	mod
+16	du	de	P+D	P+D	n=s|g=m	12	mod	12	mod
+17	hameau	hameau	NC	NC	n=s|g=m	16	prep	16	prep
+18	de	de	P	P		12	mod	12	mod
+19	Masméjean	_	NPP	NPP		18	prep	18	prep
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+1	Elles	elles	CLS	CLS	n=p|g=f|p=3	2	suj	2	suj
+2	ont	avoir	V	V	n=p|t=P|p=3	0	root	0	root
+3	toutes	tout	ADJ	ADJ	n=p|g=f	5	mod	5	mod
+4	deux	deux	DET	DET	s=card|n=p	5	det	5	det
+5	été	été	NC	NC	n=s|g=m	2	obj	2	obj
+6	tuées	tuer	VPP	VPP	n=p|g=f|t=K	2	mod	2	mod
+7	dans	dans	P	P		6	mod	6	mod
+8	la	la	DET	DET	n=s|g=f	9	det	9	det
+9	vallée	vallée	NC	NC	n=s|g=f	7	prep	7	prep
+10	de	de	P	P		6	mod	6	mod
+11	l'	le	DET	DET	n=s	12	det	12	det
+12	Allier	Allier	NPP	NPP	n=s|g=m	10	prep	10	prep
+13	.	.	PONCT	PONCT		12	ponct	12	ponct
+
+</p><h3>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	dragons	dragon	NC	NC	n=p|g=m	0	_	0	_
+3	de	de	P	P		2	dep	2	dep
+4	Duhamel	_	NPP	NPP		3	prep	3	prep
+
+</h3><p>
+1	Par	par	P	P		17	mod	17	mod
+2	l'	le	DET	DET	n=s	3	det	3	det
+3	intermédiaire	intermédiaire	NC	NC	n=s	1	prep	1	prep
+4	des	de	P+D	P+D	n=p	3	dep	3	dep
+5	gazettes	gazette	NC	NC	n=p|g=f	4	prep	4	prep
+6	de	de	P	P		3	dep	3	dep
+7	l'	le	DET	DET	n=s	8	det	8	det
+8	époque	époque	NC	NC	n=s|g=f	6	prep	6	prep
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	l'	le	DET	DET	n=s	11	det	11	det
+11	histoire	histoire	NC	NC	n=s|g=f	17	suj	17	suj
+12	de	de	P	P		11	dep	11	dep
+13	la	la	DET	DET	n=s|g=f	14	det	14	det
+14	bête	bête	NC	NC	n=s|g=f	12	prep	12	prep
+15	du	de	P+D	P+D	n=s|g=m	14	dep	14	dep
+16	Gévaudan	_	NPP	NPP		15	prep	15	prep
+17	fait	faire	V	V	n=s|t=P|p=3	0	root	0	root
+18	le	le	DET	DET	n=s|g=m	19	det	19	det
+19	tour	tour	NC	NC	n=s	17	obj	17	obj
+20	de	de	P	P		19	dep	19	dep
+21	la	la	DET	DET	n=s|g=f	22	det	22	det
+22	France	France	NPP	NPP	n=s|g=f,m	20	prep	20	prep
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	et	et	CC	CC		17	coord	17	coord
+25	se	se	CLR	CLR	n=p,s|p=3	26	aff	26	aff
+26	propage	propager	V	V	n=s|t=P,S|p=1,3	24	dep_coord	24	dep_coord
+27	même	même	ADV	ADV		26	mod	26	mod
+28	vers	vers	P	P		26	mod	26	mod
+29	ses	ses	DET	DET	n=p|p=3|poss=s	30	det	30	det
+30	pays	pays	NC	NC	g=m	28	prep	28	prep
+31	limitrophes	limitrophe	ADJ	ADJ	n=p	30	mod	30	mod
+32	:	:	PONCT	PONCT		31	ponct	31	ponct
+33	sous	sous	P	P		26	mod	26	mod
+34	les	les	DET	DET	n=p	35	det	35	det
+35	moqueries	moquerie	NC	NC	n=p|g=f	33	prep	33	prep
+36	générales	général	ADJ	ADJ	n=p|g=f	35	mod	35	mod
+37	,	,	PONCT	PONCT		36	ponct	36	ponct
+38	le	le	DET	DET	n=s|g=m	39	det	39	det
+39	roi	roi	NC	NC	n=s|g=m	41	suj	41	suj
+40	se	se	CLR	CLR	n=p,s|p=3	41	aff	41	aff
+41	trouve	trouver	V	V	n=s|t=P,S|p=1,3	26	mod	26	mod
+42	dans	dans	P	P		41	mod	41	mod
+43	l'	le	DET	DET	n=s	44	det	44	det
+44	obligation	obligation	NC	NC	n=s|g=f	42	prep	42	prep
+45	d'	de	P	P		41	mod	41	mod
+46	agir	agir	VINF	VINF	t=W	45	prep	45	prep
+47	.	.	PONCT	PONCT		46	ponct	46	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	envoie	envoyer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	le	le	DET	DET	n=s|g=m	4	det	4	det
+4	capitaine	capitaine	NC	NC	n=s|g=m	2	obj	2	obj
+5	Duhamel	_	NPP	NPP		4	mod	4	mod
+6	et	et	CC	CC		2	coord	2	coord
+7	ses	ses	DET	DET	n=p|p=3|poss=s	8	det	8	det
+8	dragons	dragon	NC	NC	n=p|g=m	6	dep_coord	6	dep_coord
+9	prêter	prêter	VINF	VINF	t=W	2	mod	2	mod
+10	main	main	NC	NC	n=s|g=f	9	obj	9	obj
+11	forte	fort	ADJ	ADJ	n=s|g=f	10	mod	10	mod
+12	aux	à	P+D	P+D	n=p	9	mod	9	mod
+13	habitants	habitant	NC	NC	n=p|g=m	12	prep	12	prep
+14	du	de	P+D	P+D	n=s|g=m	13	dep	13	dep
+15	Gévaudan	_	NPP	NPP		14	prep	14	prep
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+</p><h3>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	combat	combat	NC	NC	n=s|g=m	0	_	0	_
+3	de	de	P	P		2	dep	2	dep
+4	Jacques	Jacques	NPP	NPP	n=s|g=m	3	prep	3	prep
+5	Portefaix	_	NPP	NPP		4	mod	4	mod
+
+</h3><p>
+1	Depuis	depuis	P	P		10	mod	10	mod
+2	l'	le	DET	DET	n=s	3	det	3	det
+3	arrivée	arrivée	NC	NC	n=s|g=f	1	prep	1	prep
+4	de	de	P	P		3	dep	3	dep
+5	la	la	DET	DET	n=s|g=f	6	det	6	det
+6	bête	bête	NC	NC	n=s|g=f	4	prep	4	prep
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	les	les	DET	DET	n=p	9	det	9	det
+9	enfants	enfant	NC	NC	n=p	10	suj	10	suj
+10	vont	aller	V	V	n=p|t=P|p=3	0	root	0	root
+11	garder	garder	VINF	VINF	t=W	10	obj	10	obj
+12	les	les	DET	DET	n=p	13	det	13	det
+13	troupeaux	troupeau	NC	NC	n=p|g=m	11	obj	11	obj
+14	en	en	P	P		13	dep	13	dep
+15	groupe	groupe	NC	NC	n=s|g=m	14	prep	14	prep
+16	pour	pour	P	P		11	mod	11	mod
+17	plus	plus	ADV	ADV		0	_	0	_
+18	de	de	P	P		0	_	0	_
+19	sécurité	sécurité	NC	NC	n=s|g=f	18	prep	18	prep
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+1	C'	ce	CLS	CLS		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	le	le	DET	DET	n=s|g=m	4	det	4	det
+4	cas	cas	NC	NC	g=m	2	obj	2	obj
+5	des	de	P+D	P+D	n=p	2	mod	2	mod
+6	sept	sept	ADJ	ADJ	s=card|n=p	7	mod	7	mod
+7	enfants	enfant	NC	NC	n=p	5	prep	5	prep
+8	du	de	P+D	P+D	n=s|g=m	2	mod	2	mod
+9	Villaret	_	NC	NC		8	prep	8	prep
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	cinq	cinq	DET	DET	s=card|n=p	12	det	12	det
+12	garçons	garçon	NC	NC	n=p|g=m	0	_	0	_
+13	et	et	CC	CC		12	coord	12	coord
+14	deux	deux	DET	DET	s=card|n=p	15	det	15	det
+15	filles	fille	NC	NC	n=p|g=f	13	dep_coord	13	dep_coord
+16	âgés	âgé	ADJ	ADJ	n=p|g=m	15	mod	15	mod
+17	de	de	P	P		15	dep	15	dep
+18	huit	huit	ADJ	ADJ	s=card|n=p	17	prep	17	prep
+19	à	à	P	P		15	dep	15	dep
+20	douze	douze	DET	DET	s=card|n=p	21	det	21	det
+21	ans	an	NC	NC	n=p|g=m	19	prep	19	prep
+22	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	Bête	bête	NC	NC	n=s|g=f	9	mod	9	mod
+3	les	les	DET	DET	n=p	4	det	4	det
+4	attaque	attaque	NC	NC	n=s|g=f	2	mod	2	mod
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	tout	tout	PRO	PRO	n=s|g=m	9	suj	9	suj
+7	d'	de	P	P		6	dep	6	dep
+8	abord	abord	NC	NC	n=s|g=m	7	prep	7	prep
+9	tourne	tourner	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+10	autour	autour	NC	NC	n=s|g=m	9	obj	9	obj
+11	d'	de	P	P		9	mod	9	mod
+12	eux	eux	PRO	PRO	n=p|g=m|p=3	11	prep	11	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	puis	puis	CC	CC		9	coord	9	coord
+15	elle	elle	CLS	CLS	n=s|g=f|p=3	17	suj	17	suj
+16	s'	se	CLR	CLR	n=p,s|p=3	17	aff	17	aff
+17	empare	emparer	V	V	n=s|t=P,S|p=1,3	14	dep_coord	14	dep_coord
+18	d'	de	P	P		17	mod	17	mod
+19	un	un	PRO	PRO	n=s|g=m	18	prep	18	prep
+20	des	de	P+D	P+D	n=p	19	dep	19	dep
+21	plus	plus	ADV	ADV		22	mod	22	mod
+22	jeunes	jeune	ADJ	ADJ	n=p	23	mod	23	mod
+23	garçons	garçon	NC	NC	n=p|g=m	20	prep	20	prep
+24	;	;	PONCT	PONCT		23	ponct	23	ponct
+25	mais	mais	CC	CC		17	coord	17	coord
+26	les	les	DET	DET	n=p	27	det	27	det
+27	autres	autre	ADJ	ADJ	n=p	25	dep_coord	25	dep_coord
+28	réussissent	réussir	V	V	n=p|t=P,S|p=3	25	dep_coord	25	dep_coord
+29	à	à	P	P		28	mod	28	mod
+30	piquer	piquer	VINF	VINF	t=W	29	prep	29	prep
+31	la	la	DET	DET	n=s|g=f	32	det	32	det
+32	bête	bête	NC	NC	n=s|g=f	30	obj	30	obj
+33	à	à	P	P		30	mod	30	mod
+34	l'	le	DET	DET	n=s	35	det	35	det
+35	aide	aide	NC	NC	n=s	33	prep	33	prep
+36	de	de	P	P		35	dep	35	dep
+37	lames	lame	NC	NC	n=p|g=f	36	prep	36	prep
+38	fixées	fixer	VPP	VPP	n=p|g=f|t=K	37	mod	37	mod
+39	sur	sur	P	P		38	mod	38	mod
+40	leurs	leurs	DET	DET	n=p|p=3|poss=p	41	det	41	det
+41	bâtons	bâton	NC	NC	n=p|g=m	39	prep	39	prep
+42	et	et	CC	CC		28	coord	28	coord
+43	lui	lui	CLO	CLO	n=s|p=3	45	obj	45	obj
+44	font	faire	V	V	n=p|t=P|p=3	45	aux_caus	45	aux_caus
+45	lâcher	lâcher	VINF	VINF	t=W	42	dep_coord	42	dep_coord
+46	prise	prendre	VPP	VPP	n=s|g=f|t=K	45	ponct	45	ponct
+47	.	.	PONCT	PONCT		46	ponct	46	ponct
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	2	suj	2	suj
+2	a	avoir	V	V	n=s|t=P|p=3	0	root	0	root
+3	cependant	cependant	ADV	ADV		2	mod	2	mod
+4	le	le	DET	DET	n=s|g=m	5	det	5	det
+5	temps	temps	NC	NC	g=m	2	obj	2	obj
+6	de	de	P	P		2	mod	2	mod
+7	dévorer	dévorer	VINF	VINF	t=W	6	prep	6	prep
+8	une	une	DET	DET	n=s|g=f	9	det	9	det
+9	partie	partie	NC	NC	n=s|g=f	7	obj	7	obj
+10	de	de	P	P		9	dep	9	dep
+11	la	la	DET	DET	n=s|g=f	12	det	12	det
+12	joue	joue	NC	NC	n=s|g=f	10	prep	10	prep
+13	de	de	P	P		12	dep	12	dep
+14	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	15	det	15	det
+15	victime	victime	NC	NC	n=s|g=f	13	prep	13	prep
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	2	suj	2	suj
+2	revient	revenir	V	V	n=s|t=P|p=3	0	root	0	root
+3	ensuite	ensuite	ADV	ADV		2	mod	2	mod
+4	à	à	P	P		2	mod	2	mod
+5	la	la	DET	DET	n=s|g=f	6	det	6	det
+6	charge	charge	NC	NC	n=s|g=f	4	prep	4	prep
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	saisissant	saisir	VPR	VPR	t=G	2	mod	2	mod
+9	le	le	DET	DET	n=s|g=m	11	det	11	det
+10	plus	plus	ADV	ADV		11	mod	11	mod
+11	jeune	jeune	ADJ	ADJ	n=s	8	mod	8	mod
+12	par	par	P	P		11	mod	11	mod
+13	le	le	DET	DET	n=s|g=m	14	det	14	det
+14	bras	bras	NC	NC	g=m	12	prep	12	prep
+15	et	et	CC	CC		11	coord	11	coord
+16	l'	le	CLO	CLO	n=s|p=3	17	obj	17	obj
+17	emporte	emporter	V	V	n=s|t=P,S|p=1,3	15	dep_coord	15	dep_coord
+18	un	un	DET	DET	n=s|g=m	0	_	0	_
+19	peu	peu	ADV	ADV		20	mod	20	mod
+20	plus	plus	ADV	ADV		0	_	0	_
+21	loin	loin	ADV	ADV		0	_	0	_
+22	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+1	Un	un	DET	DET	n=s|g=m	4	suj	4	suj
+2	des	de	P+D	P+D	n=p	1	dep	1	dep
+3	enfants	enfant	NC	NC	n=p	2	prep	2	prep
+4	suggère	suggérer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+5	de	de	P	P		4	mod	4	mod
+6	prendre	prendre	VINF	VINF	t=W	5	prep	5	prep
+7	la	la	DET	DET	n=s|g=f	8	det	8	det
+8	fuite	fuite	NC	NC	n=s|g=f	6	obj	6	obj
+9	pendant	pendant	P	P		4	mod	4	mod
+10	qu'	que	PROREL	PROREL		13	mod	13	mod
+11	elle	elle	CLS	CLS	n=s|g=f|p=3	13	suj	13	suj
+12	est	être	V	V	n=s|t=P|p=3	13	aux_pass	13	aux_pass
+13	occupée	occuper	VPP	VPP	n=s|g=f|t=K	4	mod	4	mod
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	mais	mais	CC	CC		4	coord	4	coord
+16	un	un	DET	DET	n=s|g=m	17	det	17	det
+17	autre	autre	ADJ	ADJ	n=s	15	dep_coord	15	dep_coord
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	Jacques	Jacques	NPP	NPP	n=s|g=m	4	mod	4	mod
+20	Portefaix	_	NPP	NPP		19	mod	19	mod
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	les	les	CLO	CLO	n=p|p=3	23	obj	23	obj
+23	incite	inciter	V	V	n=s|t=P,S|p=1,3	4	mod	4	mod
+24	à	à	P	P		23	mod	23	mod
+25	secourir	secourir	VINF	VINF	t=W	24	prep	24	prep
+26	leur	leur	DET	DET	n=s|p=3|poss=p	27	det	27	det
+27	compagnon	compagnon	NC	NC	n=s|g=m	25	obj	25	obj
+28	.	.	PONCT	PONCT		27	ponct	27	ponct
+
+1	Tentant	tenter	VPR	VPR	t=G	10	mod	10	mod
+2	d'	de	P	P		1	mod	1	mod
+3	atteindre	atteindre	VINF	VINF	t=W	2	prep	2	prep
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	bête	bête	NC	NC	n=s|g=f	3	obj	3	obj
+6	aux	à	P+D	P+D	n=p	3	mod	3	mod
+7	yeux	oeil	NC	NC	n=p|g=m	6	prep	6	prep
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	ils	ils	CLS	CLS	n=p|g=m|p=3	10	suj	10	suj
+10	parviennent	parvenir	V	V	n=p|t=P,S|p=3	0	root	0	root
+11	à	à	P	P		10	mod	10	mod
+12	lui	lui	CLO	CLO	n=s|p=3	14	obj	14	obj
+13	faire	faire	VINF	VINF	t=W	14	aux_caus	14	aux_caus
+14	lâcher	lâcher	VINF	VINF	t=W	11	prep	11	prep
+15	prise	prendre	VPP	VPP	n=s|g=f|t=K	14	mod	14	mod
+16	et	et	CC	CC		10	coord	10	coord
+17	à	à	P	P		16	dep_coord	16	dep_coord
+18	la	la	CLO	CLO	n=s|g=f|p=3	19	obj	19	obj
+19	tenir	tenir	VINF	VINF	t=W	17	prep	17	prep
+20	à	à	P	P		19	mod	19	mod
+21	distance	distance	NC	NC	n=s|g=f	20	prep	20	prep
+22	jusqu'	jusque	P	P		19	mod	19	mod
+23	à	à	P	P		22	prep	22	prep
+24	l'	le	DET	DET	n=s	25	det	25	det
+25	arrivée	arrivée	NC	NC	n=s|g=f	23	prep	23	prep
+26	de	de	P	P		19	mod	19	mod
+27	plusieurs	plusieurs	DET	DET	n=p	28	det	28	det
+28	hommes	homme	NC	NC	n=p|g=m	26	prep	26	prep
+29	alertés	alerter	VPP	VPP	n=p|g=m|t=K	28	mod	28	mod
+30	par	par	P	P		29	mod	29	mod
+31	les	les	DET	DET	n=p	32	det	32	det
+32	cris	cri	NC	NC	n=p|g=m	30	prep	30	prep
+33	.	.	PONCT	PONCT		32	ponct	32	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	Bête	bête	NC	NC	n=s|g=f	4	suj	4	suj
+3	s'	se	CLR	CLR	n=p,s|p=3	4	aff	4	aff
+4	enfuit	enfuir	V	V	n=s|t=J,P|p=3	0	root	0	root
+5	alors	alors	ADV	ADV		4	mod	4	mod
+6	dans	dans	P	P		4	mod	4	mod
+7	un	un	DET	DET	n=s|g=m	8	det	8	det
+8	bois	bois	NC	NC	g=m	6	prep	6	prep
+9	voisin	voisin	ADJ	ADJ	n=s|g=m	8	mod	8	mod
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+</p><h3>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	bataille	bataille	NC	NC	n=s|g=f	0	_	0	_
+3	de	de	P	P		2	dep	2	dep
+4	Jeanne	Jeanne	NPP	NPP	n=s|g=f	3	prep	3	prep
+5	Jouve	_	NPP	NPP		4	mod	4	mod
+
+</h3><p>
+1	Jeanne	_	NPP	NPP		3	suj	3	suj
+2	Jouve	_	NPP	NPP		1	mod	1	mod
+3	voit	voir	V	V	n=s|t=P|p=3	0	root	0	root
+4	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	5	det	5	det
+5	fille	fille	NC	NC	n=s|g=f	3	obj	3	obj
+6	de	de	P	P		5	dep	5	dep
+7	9	9	ADJ	ADJ		8	mod	8	mod
+8	ans	an	NC	NC	n=p|g=m	6	prep	6	prep
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	qui	qui	PROREL	PROREL	n=s	11	suj	11	suj
+11	tient	tenir	V	V	n=s|t=P|p=3	5	mod_rel	5	mod_rel
+12	dans	dans	P	P		11	mod	11	mod
+13	ses	ses	DET	DET	n=p|p=3|poss=s	14	det	14	det
+14	bras	bras	NC	NC	g=m	12	prep	12	prep
+15	son	son	DET	DET	n=s|g=m|p=3|poss=s	18	det	18	det
+16	plus	plus	ADV	ADV		17	mod	17	mod
+17	jeune	jeune	ADJ	ADJ	n=s	18	mod	18	mod
+18	frère	frère	NC	NC	n=s|g=m	11	obj	11	obj
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	se	se	CLR	CLR	n=p,s|p=3	22	obj	22	obj
+21	faire	faire	VINF	VINF	t=W	22	aux_caus	22	aux_caus
+22	attaquer	attaquer	VINF	VINF	t=W	11	obj	11	obj
+23	par	par	P	P		22	mod	22	mod
+24	la	la	DET	DET	n=s|g=f	25	det	25	det
+25	bête	bête	NC	NC	n=s|g=f	23	prep	23	prep
+26	.	.	PONCT	PONCT		25	ponct	25	ponct
+
+1	Jeanne	_	NPP	NPP		3	suj	3	suj
+2	se	se	CLR	CLR	n=p,s|p=3	3	aff	3	aff
+3	jette	jeter	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	alors	alors	ADV	ADV		3	mod	3	mod
+5	sur	sur	P	P		3	mod	3	mod
+6	elle	elle	PRO	PRO	n=s|g=f|p=3	5	prep	5	prep
+7	et	et	CC	CC		3	coord	3	coord
+8	parvient	parvenir	V	V	n=s|t=P|p=3	7	dep_coord	7	dep_coord
+9	à	à	P	P		8	mod	8	mod
+10	lui	lui	CLO	CLO	n=s|p=3	12	obj	12	obj
+11	faire	faire	VINF	VINF	t=W	12	aux_caus	12	aux_caus
+12	lâcher	lâcher	VINF	VINF	t=W	9	prep	9	prep
+13	prise	prendre	VPP	VPP	n=s|g=f|t=K	12	mod	12	mod
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	mais	mais	CC	CC		8	coord	8	coord
+16	elle	elle	CLS	CLS	n=s|g=f|p=3	17	suj	17	suj
+17	revient	revenir	V	V	n=s|t=P|p=3	15	dep_coord	15	dep_coord
+18	à	à	P	P		17	mod	17	mod
+19	la	la	DET	DET	n=s|g=f	20	det	20	det
+20	charge	charge	NC	NC	n=s|g=f	18	prep	18	prep
+21	et	et	CC	CC		17	coord	17	coord
+22	tente	tenter	V	V	n=s|t=P,S|p=1,3	21	dep_coord	21	dep_coord
+23	de	de	P	P		22	obj	22	obj
+24	s'	se	CLR	CLR	n=p,s|p=3	26	aff	26	aff
+25	en	en	CLO	CLO		26	obj	26	obj
+26	prendre	prendre	VINF	VINF	t=W	23	prep	23	prep
+27	au	à	P+D	P+D	n=s|g=m	26	mod	26	mod
+28	plus	plus	ADV	ADV		29	mod	29	mod
+29	jeune	jeune	ADJ	ADJ	n=s	27	prep	27	prep
+30	des	de	P+D	P+D	n=p	26	mod	26	mod
+31	enfants	enfant	NC	NC	n=p	30	prep	30	prep
+32	:	:	PONCT	PONCT		31	ponct	31	ponct
+33	la	la	DET	DET	n=s|g=f	34	det	34	det
+34	mère	mère	NC	NC	n=s|g=f	36	suj	36	suj
+35	s'	se	CLR	CLR	n=p,s|p=3	36	aff	36	aff
+36	interpose	interposer	V	V	n=s|t=P,S|p=1,3	3	mod	3	mod
+37	.	.	PONCT	PONCT		36	ponct	36	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	bête	bête	NC	NC	n=s|g=f	4	suj	4	suj
+3	se	se	CLR	CLR	n=p,s|p=3	4	aff	4	aff
+4	jette	jeter	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+5	sur	sur	P	P		4	mod	4	mod
+6	le	le	DET	DET	n=s|g=m	8	det	8	det
+7	petit	petit	ADJ	ADJ	n=s|g=m	8	mod	8	mod
+8	Jean-Pierre	Jean-Pierre	NPP	NPP	n=s|g=m	5	prep	5	prep
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	autre	autre	ADJ	ADJ	n=s	11	mod	11	mod
+11	frère	frère	NC	NC	n=s|g=m	8	mod	8	mod
+12	de	de	P	P		11	dep	11	dep
+13	6	6	ADJ	ADJ		14	mod	14	mod
+14	ans	an	NC	NC	n=p|g=m	12	prep	12	prep
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	l'	le	DET	DET	n=s	17	det	17	det
+17	attrape	attrape	NC	NC	n=s|g=f	0	_	0	_
+18	au	à	P+D	P+D	n=s|g=m	17	dep	17	dep
+19	bras	bras	NC	NC	g=m	18	prep	18	prep
+20	et	et	CC	CC		17	coord	17	coord
+21	l'	le	CLO	CLO	n=s|p=3	22	obj	22	obj
+22	emporte	emporter	V	V	n=s|t=P,S|p=1,3	20	dep_coord	20	dep_coord
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	mère	mère	NC	NC	n=s|g=f	4	suj	4	suj
+3	lui	lui	CLO	CLO	n=s|p=3	4	aff	4	aff
+4	saute	sauter	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+5	dessus	dessus	ADV	ADV		4	mod	4	mod
+6	.	.	PONCT	PONCT		5	ponct	5	ponct
+
+1	S'	se	CLR	CLR	n=p,s|p=3	0	_	0	_
+2	ensuit	ensuivre	V	V	n=s|t=P|p=3	0	_	0	_
+3	alors	alors	ADV	ADV		2	mod	2	mod
+4	un	un	DET	DET	n=s|g=m	6	det	6	det
+5	long	long	ADJ	ADJ	n=s|g=m	6	mod	6	mod
+6	combat	combat	NC	NC	n=s|g=m	2	suj	2	suj
+7	où	où	PROREL	PROREL		10	mod	10	mod
+8	Jeanne	Jeanne	NPP	NPP	n=s|g=f	10	suj	10	suj
+9	se	se	CLR	CLR	n=p,s|p=3	10	aff	10	aff
+10	retrouve	retrouver	V	V	n=s|t=P,S|p=1,3	6	mod_rel	6	mod_rel
+11	poussée	pousser	VPP	VPP	n=s|g=f|t=K	10	mod	10	mod
+12	au	à	P+D	P+D	n=s|g=m	10	mod	10	mod
+13	sol	_	NC	NC		12	prep	12	prep
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	griffée	griffer	ADJ	ADJ	n=s|g=f|t=K	13	mod	13	mod
+16	et	et	CC	CC		15	coord	15	coord
+17	mordue	mordre	ADJ	ADJ	n=s|g=f|t=K	16	dep_coord	16	dep_coord
+18	à	à	P	P		10	mod	10	mod
+19	plusieurs	plusieurs	DET	DET	n=p	20	det	20	det
+20	reprises	reprise	NC	NC	n=p|g=f	18	prep	18	prep
+21	.	.	PONCT	PONCT		20	ponct	20	ponct
+
+1	Finalement	_	ADV	ADV		10	mod	10	mod
+2	la	la	DET	DET	n=s|g=f	3	det	3	det
+3	Bête	bête	NC	NC	n=s|g=f	10	suj	10	suj
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	qui	qui	PROREL	PROREL	n=s	6	suj	6	suj
+6	tient	tenir	V	V	n=s|t=P|p=3	3	mod_rel	3	mod_rel
+7	toujours	toujours	ADV	ADV		6	mod	6	mod
+8	Jean-Pierre	Jean-Pierre	NPP	NPP	n=s|g=m	6	obj	6	obj
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	parvient	parvenir	V	V	n=s|t=P|p=3	0	root	0	root
+11	à	à	P	P		10	mod	10	mod
+12	s'	se	CLR	CLR	n=p,s|p=3	13	aff	13	aff
+13	échapper	échapper	VINF	VINF	t=W	11	prep	11	prep
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	mais	mais	CC	CC		10	coord	10	coord
+16	elle	elle	CLS	CLS	n=s|g=f|p=3	18	suj	18	suj
+17	se	se	CLR	CLR	n=p,s|p=3	18	aff	18	aff
+18	retrouve	retrouver	V	V	n=s|t=P,S|p=1,3	15	dep_coord	15	dep_coord
+19	face	face	NC	NC	n=s|g=f	18	obj	18	obj
+20	aux	à	P+D	P+D	n=p	18	mod	18	mod
+21	deux	deux	ADJ	ADJ	s=card|n=p	24	mod	24	mod
+22	plus	plus	ADV	ADV		23	mod	23	mod
+23	grands	grand	ADJ	ADJ	n=p|g=m	24	mod	24	mod
+24	enfants	enfant	NC	NC	n=p	20	prep	20	prep
+25	,	,	PONCT	PONCT		24	ponct	24	ponct
+26	qui	qui	PROREL	PROREL	n=s	28	suj	28	suj
+27	se	se	CLR	CLR	n=p,s|p=3	28	aff	28	aff
+28	préparaient	préparer	V	V	n=p|t=I|p=3	24	mod_rel	24	mod_rel
+29	à	à	P	P		28	mod	28	mod
+30	emmener	emmener	VINF	VINF	t=W	29	prep	29	prep
+31	le	le	DET	DET	n=s|g=m	32	det	32	det
+32	troupeau	troupeau	NC	NC	n=s|g=m	30	obj	30	obj
+33	aux	à	P+D	P+D	n=p	30	mod	30	mod
+34	pâtures	pâture	NC	NC	n=p|g=f	33	prep	33	prep
+35	,	,	PONCT	PONCT		34	ponct	34	ponct
+36	ils	ils	CLS	CLS	n=p|g=m|p=3	37	suj	37	suj
+37	parviennent	parvenir	V	V	n=p|t=P,S|p=3	10	mod	10	mod
+38	à	à	P	P		37	mod	37	mod
+39	libérer	libérer	VINF	VINF	t=W	38	prep	38	prep
+40	leur	leur	DET	DET	n=s|p=3|poss=p	42	det	42	det
+41	jeune	jeune	ADJ	ADJ	n=s	42	mod	42	mod
+42	frère	frère	NC	NC	n=s|g=m	39	obj	39	obj
+43	et	et	CC	CC		37	coord	37	coord
+44	à	à	P	P		43	dep_coord	43	dep_coord
+45	faire	faire	VINF	VINF	t=W	46	aux_caus	46	aux_caus
+46	fuir	fuir	VINF	VINF	t=W	44	prep	44	prep
+47	la	la	DET	DET	n=s|g=f	48	det	48	det
+48	Bête	bête	NC	NC	n=s|g=f	46	obj	46	obj
+49	.	.	PONCT	PONCT		48	ponct	48	ponct
+
+1	Jean-Pierre	Jean-Pierre	NPP	NPP	n=s|g=m	2	suj	2	suj
+2	succombe	succomber	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	cependant	cependant	ADV	ADV		2	mod	2	mod
+4	à	à	P	P		2	mod	2	mod
+5	ses	ses	DET	DET	n=p|p=3|poss=s	6	det	6	det
+6	blessures	blessure	NC	NC	n=p|g=f	4	prep	4	prep
+7	quelques	quelques	DET	DET	n=p	8	det	8	det
+8	heures	heure	NC	NC	n=p|g=f	2	obj	2	obj
+9	plus	plus	ADV	ADV		10	mod	10	mod
+10	tard	tard	ADV	ADV		8	mod	8	mod
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+</p><h3>
+1	Marie	_	NPP	NPP		0	_	0	_
+2	-	-	PONCT	PONCT		1	ponct	1	ponct
+3	Jeanne	_	NPP	NPP		1	mod	1	mod
+4	Valet	_	NPP	NPP		1	mod	1	mod
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	la	la	DET	DET	n=s|g=f	8	det	8	det
+7	«_	"	PONCT	PONCT		6	ponct	6	ponct
+8	pucelle	puceau	NC	NC	n=s|g=f	1	mod	1	mod
+9	du	de	P+D	P+D	n=s|g=m	8	dep	8	dep
+10	Gévaudan	_	NPP	NPP		9	prep	9	prep
+11	_»	"	PONCT	PONCT		10	ponct	10	ponct
+
+</h3><p>
+1	Le	le	DET	DET	n=s|g=m	3	det	3	det
+2	13	13	ADJ	ADJ		3	mod	3	mod
+3	août	août	NC	NC	n=s|g=m	9	suj	9	suj
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	Marie	Marie	NPP	NPP	n=s|g=f	3	mod	3	mod
+6	-	-	PONCT	PONCT		5	ponct	5	ponct
+7	Jeanne	_	NPP	NPP		3	mod	3	mod
+8	Valet	_	NPP	NPP		3	mod	3	mod
+9	emprunte	emprunter	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+10	une	une	DET	DET	n=s|g=f	11	det	11	det
+11	passerelle	passerelle	NC	NC	n=s|g=f	9	obj	9	obj
+12	avec	avec	P	P		9	mod	9	mod
+13	d'	de	DET	DET	n=p	15	det	15	det
+14	autres	autre	ADJ	ADJ	n=p	15	mod	15	mod
+15	paysannes	paysan	NC	NC	n=p|g=f	12	prep	12	prep
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	lorsque	lorsque	CS	CS		9	mod	9	mod
+18	la	la	DET	DET	n=s|g=f	19	det	19	det
+19	bête	bête	NC	NC	n=s|g=f	0	_	0	_
+20	les	les	DET	DET	n=p	21	det	21	det
+21	attaque	attaque	NC	NC	n=s|g=f	19	mod	19	mod
+22	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	2	suj	2	suj
+2	parvient	parvenir	V	V	n=s|t=P|p=3	0	root	0	root
+3	à	à	P	P		2	mod	2	mod
+4	lui	lui	CLO	CLO	n=s|p=3	5	a_obj	5	a_obj
+5	planter	planter	VINF	VINF	t=W	3	prep	3	prep
+6	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	7	det	7	det
+7	lance	lance	NC	NC	n=s|g=f	5	obj	5	obj
+8	dans	dans	P	P		5	mod	5	mod
+9	le	le	DET	DET	n=s|g=m	10	det	10	det
+10	poitrail	poitrail	NC	NC	n=s|g=m	8	prep	8	prep
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	bête	bête	NC	NC	n=s|g=f	4	suj	4	suj
+3	se	se	CLR	CLR	n=p,s|p=3	4	aff	4	aff
+4	laisse	laisser	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+5	alors	alors	ADV	ADV		4	mod	4	mod
+6	tomber	tomber	VINF	VINF	t=W	4	obj	4	obj
+7	dans	dans	P	P		6	mod	6	mod
+8	la	la	DET	DET	n=s|g=f	9	det	9	det
+9	rivière	rivière	NC	NC	n=s|g=f	7	prep	7	prep
+10	et	et	CC	CC		4	coord	4	coord
+11	disparaît	disparaître	V	V	n=s|t=P|p=3	10	dep_coord	10	dep_coord
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+</p><h3>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	loup	loup	NC	NC	n=s|g=m	0	_	0	_
+3	des	de	P+D	P+D	n=p	2	dep	2	dep
+4	Chazes	_	NC	NC		3	prep	3	prep
+
+</h3><p>
+1	François	François	NPP	NPP	n=s|g=m	3	suj	3	suj
+2	Antoine	Antoine	NPP	NPP	n=s|g=m	1	mod	1	mod
+3	entend	entendre	V	V	n=s|t=P|p=3	0	root	0	root
+4	dire	dire	VINF	VINF	t=W	3	obj	3	obj
+5	qu'	que	CS	CS		4	obj	4	obj
+6	un	un	DET	DET	n=s|g=m	8	det	8	det
+7	gros	gros	ADJ	ADJ	g=m	8	mod	8	mod
+8	loup	loup	NC	NC	n=s|g=m	9	suj	9	suj
+9	est	être	V	V	n=s|t=P|p=3	5	sub	5	sub
+10	dans	dans	P	P		9	mod	9	mod
+11	le	le	DET	DET	n=s|g=m	12	det	12	det
+12	bois	bois	NC	NC	g=m	10	prep	10	prep
+13	des	de	P+D	P+D	n=p	12	dep	12	dep
+14	Chazes	_	NPP	NPP		13	prep	13	prep
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+1	Comme	comme	CS	CS		12	mod	12	mod
+2	il	il	CLS	CLS	n=s|g=m|p=3	3	suj	3	suj
+3	est	être	V	V	n=s|t=P|p=3	1	sub	1	sub
+4	possible	possible	ADJ	ADJ	n=s	3	ats	3	ats
+5	que	que	CS	CS		3	mod	3	mod
+6	ce	ce	CLS	CLS		7	suj	7	suj
+7	soit	être	VS	VS	n=s|t=S|p=3	5	sub	5	sub
+8	la	la	DET	DET	n=s|g=f	9	det	9	det
+9	bête	bête	NC	NC	n=s|g=f	7	obj	7	obj
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	il	il	CLS	CLS	n=s|g=m|p=3	12	suj	12	suj
+12	va	aller	V	V	n=s|t=P|p=3	0	root	0	root
+13	au	à	P+D	P+D	n=s|g=m	12	mod	12	mod
+14	bois	bois	NC	NC	g=m	13	prep	13	prep
+15	et	et	CC	CC		12	coord	12	coord
+16	le	le	DET	DET	n=s|g=m	17	det	17	det
+17	tue	taire	ADJ	ADJ	n=s|g=f|t=K	15	dep_coord	15	dep_coord
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	meurtres	meurtre	NC	NC	n=p|g=m	3	suj	3	suj
+3	cessent	cesser	V	V	n=p|t=P,S|p=3	0	root	0	root
+4	alors	alors	ADV	ADV		3	mod	3	mod
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	et	et	CC	CC		3	coord	3	coord
+7	tout	tout	ADJ	ADJ	n=s|g=m	9	mod	9	mod
+8	le	le	DET	DET	n=s|g=m	9	det	9	det
+9	monde	monde	NC	NC	n=s|g=m	10	suj	10	suj
+10	pense	penser	V	V	n=s|t=P,S|p=1,3	6	dep_coord	6	dep_coord
+11	que	que	CS	CS		10	mod	10	mod
+12	la	la	DET	DET	n=s|g=f	13	det	13	det
+13	bête	bête	NC	NC	n=s|g=f	16	suj	16	suj
+14	a	avoir	V	V	n=s|t=P|p=3	16	aux_tps	16	aux_tps
+15	été	être	VPP	VPP	t=K	16	aux_pass	16	aux_pass
+16	tuée	tuer	VPP	VPP	n=s|g=f|t=K	11	sub	11	sub
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+1	Mais	mais	CC	CC		0	root	0	root
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	un	un	DET	DET	n=s|g=m	10	suj	10	suj
+4	peu	peu	ADV	ADV		5	mod	5	mod
+5	plus	plus	ADV	ADV		10	mod	10	mod
+6	tard	tard	ADV	ADV		10	mod	10	mod
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	les	les	DET	DET	n=p	9	det	9	det
+9	meurtres	meurtre	NC	NC	n=p|g=m	10	suj	10	suj
+10	reprennent	reprendre	V	V	n=p|t=P,S|p=3	1	dep_coord	1	dep_coord
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+</p><h3>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	bête	bête	NC	NC	n=s|g=f	0	_	0	_
+3	des	de	P+D	P+D	n=p	2	dep	2	dep
+4	Chastel	Chastel	NPP	NPP	n=s|g=m	3	prep	3	prep
+
+</h3><p>
+1	Un	un	DET	DET	n=s|g=m	2	det	2	det
+2	jour	jour	NC	NC	n=s|g=m	6	suj	6	suj
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	Jean	Jean	NPP	NPP	n=s	2	mod	2	mod
+5	Chastel	Chastel	NPP	NPP	n=s|g=m	4	mod	4	mod
+6	va	aller	V	V	n=s|t=P|p=3	0	root	0	root
+7	à	à	P	P		6	mod	6	mod
+8	l'	le	DET	DET	n=s	9	det	9	det
+9	église	église	NC	NC	n=s|g=f	7	prep	7	prep
+10	et	et	CC	CC		6	coord	6	coord
+11	fait	faire	V	V	n=s|t=P|p=3	10	dep_coord	10	dep_coord
+12	bénir	bénir	VINF	VINF	t=W	11	obj	11	obj
+13	des	des	DET	DET	n=p	14	det	14	det
+14	balles	balle	NC	NC	n=p|g=f	12	obj	12	obj
+15	d'	de	P	P		14	dep	14	dep
+16	argent	argent	NC	NC	n=s|g=m	15	prep	15	prep
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	les	les	DET	DET	n=p	19	det	19	det
+19	mêmes	même	ADJ	ADJ	n=p	14	mod	14	mod
+20	que	que	CS	CS		12	mod	12	mod
+21	pour	pour	P	P		0	_	0	_
+22	tuer	tuer	VINF	VINF	t=W	21	prep	21	prep
+23	les	les	DET	DET	n=p	24	det	24	det
+24	loups-garous	loup-garou	NC	NC	n=p|g=m	22	obj	22	obj
+25	.	.	PONCT	PONCT		24	ponct	24	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	légende	légende	NC	NC	n=s|g=f	3	suj	3	suj
+3	rapporte	rapporter	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	que	que	CS	CS		3	obj	3	obj
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	pendant	pendant	P	P		0	_	0	_
+7	que	que	CS	CS		0	_	0	_
+8	Jean	Jean	NPP	NPP	n=s	10	suj	10	suj
+9	Chastel	Chastel	NPP	NPP	n=s|g=m	8	mod	8	mod
+10	était	être	V	V	n=s|t=I|p=3	7	sub	7	sub
+11	en	en	P	P		10	mod	10	mod
+12	train	train	NC	NC	n=s|g=m	11	prep	11	prep
+13	de	de	P	P		10	mod	10	mod
+14	réciter	réciter	VINF	VINF	t=W	13	prep	13	prep
+15	des	des	DET	DET	n=p	16	det	16	det
+16	prières	prière	NC	NC	n=p|g=f	14	obj	14	obj
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	la	la	DET	DET	n=s|g=f	19	det	19	det
+19	bête	bête	NC	NC	n=s|g=f	21	suj	21	suj
+20	serait	être	V	V	n=s|t=C|p=3	21	aux_tps	21	aux_tps
+21	venue	venir	VPP	VPP	n=s|g=f|t=K	10	mod	10	mod
+22	s’	se	CLR	CLR	n=p,s|p=3	23	aff	23	aff
+23	asseoir	asseoir	VINF	VINF	t=W	21	obj	21	obj
+24	devant	devant	P	P		23	mod	23	mod
+25	lui	lui	PRO	PRO	n=s|g=m|p=3	24	prep	24	prep
+26	.	.	PONCT	PONCT		25	ponct	25	ponct
+
+1	Sans	sans	P	P		6	mod	6	mod
+2	précipitation	précipitation	NC	NC	n=s|g=f	1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	il	il	CLS	CLS	n=s|g=m|p=3	6	suj	6	suj
+5	aurait	avoir	V	V	n=s|t=C|p=3	6	aux_tps	6	aux_tps
+6	saisi	saisir	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+7	son	son	DET	DET	n=s|g=m|p=3|poss=s	8	det	8	det
+8	fusil	fusil	NC	NC	n=s|g=m	6	obj	6	obj
+9	et	et	CC	CC		6	coord	6	coord
+10	tiré	tirer	VPP	VPP	n=s|g=m|t=K	9	dep_coord	9	dep_coord
+11	:	:	PONCT	PONCT		10	ponct	10	ponct
+12	la	la	DET	DET	n=s|g=f	13	det	13	det
+13	bête	bête	NC	NC	n=s|g=f	14	suj	14	suj
+14	était	être	V	V	n=s|t=I|p=3	6	mod	6	mod
+15	morte	mort	ADJ	ADJ	n=s|g=f|t=K	14	ats	14	ats
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	3	suj	3	suj
+2	fut	être	V	V	n=s|t=J|p=3	3	aux_pass	3	aux_pass
+3	transportée	transporter	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+4	jusqu'	jusque	P	P		3	mod	3	mod
+5	à	à	P	P		4	dep	4	dep
+6	Versailles	Versailles	NPP	NPP	n=s|g=m	5	prep	5	prep
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	mais	mais	CC	CC		0	root	0	root
+9	quand	quand	CS	CS		8	dep_coord	8	dep_coord
+10	elle	elle	CLS	CLS	n=s|g=f|p=3	11	suj	11	suj
+11	arriva	arriver	V	V	n=s|t=J|p=3	9	sub	9	sub
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	elle	elle	CLS	CLS	n=s|g=f|p=3	14	suj	14	suj
+14	était	être	V	V	n=s|t=I|p=3	9	root	9	root
+15	dans	dans	P	P		14	mod	14	mod
+16	un	un	DET	DET	n=s|g=m	18	det	18	det
+17	tel	tel	ADJ	ADJ	n=s|g=m	18	mod	18	mod
+18	état	état	NC	NC	n=s|g=m	15	prep	15	prep
+19	de	de	P	P		14	mod	14	mod
+20	décomposition	décomposition	NC	NC	n=s|g=f	19	prep	19	prep
+21	que	que	PROREL	PROREL		26	mod	26	mod
+22	seul	seul	ADJ	ADJ	n=s|g=m	24	mod	24	mod
+23	le	le	DET	DET	n=s|g=m	24	det	24	det
+24	zoologiste	zoologiste	NC	NC	n=s	26	suj	26	suj
+25	Buffon	Buffon	NPP	NPP	n=s|g=m	24	mod	24	mod
+26	put	pouvoir	V	V	n=s|t=J|p=3	14	mod	14	mod
+27	l'	le	CLO	CLO	n=s|p=3	28	obj	28	obj
+28	examiner	examiner	VINF	VINF	t=W	26	obj	26	obj
+29	.	.	PONCT	PONCT		28	ponct	28	ponct
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	5	suj	5	suj
+2	est	être	V	V	n=s|t=P|p=3	5	aux_pass	5	aux_pass
+3	encore	encore	ADV	ADV		5	mod	5	mod
+4	aujourd'hui	aujourd'hui	ADV	ADV		5	mod	5	mod
+5	enterrée	enterrer	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	dit	dire	V	V	n=s|t=J,P|p=3	5	mod	5	mod
+8	-on	on	CLS	CLS	n=s|p=3	7	suj	7	suj
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	dans	dans	P	P		7	mod	7	mod
+11	le	le	DET	DET	n=s|g=m	12	det	12	det
+12	parc	parc	NC	NC	n=s|g=m	10	prep	10	prep
+13	de	de	P	P		12	dep	12	dep
+14	Versailles	Versailles	NPP	NPP	n=s|g=m	13	prep	13	prep
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+</p><p>
+1	Après	après	P	P		15	mod	15	mod
+2	le	le	DET	DET	n=s|g=m	3	det	3	det
+3	coup	coup	NC	NC	n=s|g=m	1	prep	1	prep
+4	de	de	P	P		3	dep	3	dep
+5	fusil	fusil	NC	NC	n=s|g=m	4	prep	4	prep
+6	«_	"	PONCT	PONCT		5	ponct	5	ponct
+7	miraculeux	miraculeux	ADJ	ADJ	g=m	3	mod	3	mod
+8	_»	"	PONCT	PONCT		7	ponct	7	ponct
+9	de	de	P	P		15	mod	15	mod
+10	Jean	Jean	NPP	NPP	n=s	9	prep	9	prep
+11	Chastel	Chastel	NPP	NPP	n=s|g=m	10	mod	10	mod
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	les	les	DET	DET	n=p	14	det	14	det
+14	meurtres	meurtre	NC	NC	n=p|g=m	15	suj	15	suj
+15	cessent	cesser	V	V	n=p|t=P,S|p=3	0	root	0	root
+16	:	:	PONCT	PONCT		15	ponct	15	ponct
+17	la	la	DET	DET	n=s|g=f	18	det	18	det
+18	bête	bête	NC	NC	n=s|g=f	20	suj	20	suj
+19	avait	avoir	V	V	n=s|t=I|p=3	20	aux_tps	20	aux_tps
+20	tué	tuer	VPP	VPP	n=s|g=m|t=K	15	mod	15	mod
+21	100	100	VINF	VINF		20	obj	20	obj
+22	à	à	P	P		21	mod	21	mod
+23	120	120	NC	NC		22	prep	22	prep
+24	personnes	personne	NC	NC	n=p|g=f	23	mod	23	mod
+25	en	en	P	P		21	mod	21	mod
+26	trois	trois	DET	DET	s=card|n=p	27	det	27	det
+27	ans	an	NC	NC	n=p|g=m	25	prep	25	prep
+28	.	.	PONCT	PONCT		27	ponct	27	ponct
+
+</p><h3>
+1	Retombées	retombée	NC	NC	n=p|g=f	0	_	0	_
+2	politiques	politique	NC	NC	n=p|g=f,m	1	mod	1	mod
+
+</h3><p>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	Anglais	anglais	NC	NC	g=m	14	suj	14	suj
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	à	à	P	P		14	mod	14	mod
+5	cette	cette	DET	DET	n=s|g=f	6	det	6	det
+6	époque	époque	NC	NC	n=s|g=f	4	prep	4	prep
+7	en	en	P	P		6	dep	6	dep
+8	guerre	guerre	NC	NC	n=s|g=f	7	prep	7	prep
+9	contre	contre	P	P		6	dep	6	dep
+10	les	les	DET	DET	n=p	11	det	11	det
+11	Français	français	NC	NC	g=m	9	prep	9	prep
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	avaient	avoir	V	V	n=p|t=I|p=3	14	aux_tps	14	aux_tps
+14	eu	avoir	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+15	vent	vent	NC	NC	n=s|g=m	14	obj	14	obj
+16	de	de	P	P		14	mod	14	mod
+17	l'	le	DET	DET	n=s	18	det	18	det
+18	histoire	histoire	NC	NC	n=s|g=f	16	prep	16	prep
+19	de	de	P	P		14	mod	14	mod
+20	la	la	DET	DET	n=s|g=f	21	det	21	det
+21	bête	bête	NC	NC	n=s|g=f	19	prep	19	prep
+22	et	et	CC	CC		14	coord	14	coord
+23	s'	se	CLR	CLR	n=p,s|p=3	27	aff	27	aff
+24	en	en	CLO	CLO		27	aff	27	aff
+25	étaient	être	V	V	n=p|t=I|p=3	27	aux_tps	27	aux_tps
+26	largement	_	ADV	ADV		27	mod	27	mod
+27	amusés	amuser	VPP	VPP	n=p|g=m|t=K	22	dep_coord	22	dep_coord
+28	:	:	PONCT	PONCT		27	ponct	27	ponct
+29	par	par	P	P		27	mod	27	mod
+30	exemple	exemple	NC	NC	n=s|g=m	29	prep	29	prep
+31	,	,	PONCT	PONCT		30	ponct	30	ponct
+32	un	un	DET	DET	n=s|g=m	33	det	33	det
+33	dessin	dessin	NC	NC	n=s|g=m	14	mod	14	mod
+34	humoristique	humoristique	ADJ	ADJ	n=s	33	mod	33	mod
+35	anglais	anglais	NC	NC	g=m	33	mod	33	mod
+36	montre	montrer	V	V	n=s|t=P,S|p=1,3	14	mod	14	mod
+37	toute	tout	ADJ	ADJ	n=s|g=f	36	mod	36	mod
+38	l'	le	DET	DET	n=s	39	det	39	det
+39	armée	armée	NC	NC	n=s|g=f	36	obj	36	obj
+40	du	de	P+D	P+D	n=s|g=m	39	dep	39	dep
+41	roi	roi	NC	NC	n=s|g=m	40	prep	40	prep
+42	mise	mise	NC	NC	n=s|g=f	41	mod	41	mod
+43	en	en	P	P		39	dep	39	dep
+44	déroute	déroute	NC	NC	n=s|g=f	43	prep	43	prep
+45	par	par	P	P		36	mod	36	mod
+46	la	la	DET	DET	n=s|g=f	47	det	47	det
+47	bête	bête	NC	NC	n=s|g=f	45	prep	45	prep
+48	et	et	CC	CC		36	coord	36	coord
+49	,	,	PONCT	PONCT		48	ponct	48	ponct
+50	à	à	P	P		0	_	0	_
+51	côté	côté	NC	NC	n=s|g=m	50	prep	50	prep
+52	,	,	PONCT	PONCT		51	ponct	51	ponct
+53	la	la	DET	DET	n=s|g=f	54	det	54	det
+54	bête	bête	NC	NC	n=s|g=f	0	_	0	_
+55	tuée	tuer	VPP	VPP	n=s|g=f|t=K	54	mod	54	mod
+56	par	par	P	P		55	mod	55	mod
+57	une	une	DET	DET	n=s|g=f	58	det	58	det
+58	chatte	chatte	NC	NC	n=s|g=f	56	prep	56	prep
+59	protégeant	protéger	VPR	VPR	t=G	54	mod	54	mod
+60	ses	ses	DET	DET	n=p|p=3|poss=s	0	_	0	_
+61	petits	petit	ADJ	ADJ	n=p|g=m	0	_	0	_
+62	.	.	PONCT	PONCT		61	ponct	61	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	roi	roi	NC	NC	n=s|g=m	4	suj	4	suj
+3	se	se	CLR	CLR	n=p,s|p=3	4	aff	4	aff
+4	devait	devoir	V	V	n=s|t=I|p=3	0	root	0	root
+5	d'	de	P	P		4	mod	4	mod
+6	agir	agir	VINF	VINF	t=W	5	prep	5	prep
+7	:	:	PONCT	PONCT		6	ponct	6	ponct
+8	il	il	CLS	CLS	n=s|g=m|p=3	9	suj	9	suj
+9	envoya	envoyer	V	V	n=s|t=J|p=3	4	mod	4	mod
+10	ses	ses	DET	DET	n=p|p=3|poss=s	11	det	11	det
+11	dragons	dragon	NC	NC	n=p|g=m	9	obj	9	obj
+12	tuer	tuer	VINF	VINF	t=W	9	mod	9	mod
+13	la	la	DET	DET	n=s|g=f	14	det	14	det
+14	bête	bête	NC	NC	n=s|g=f	12	obj	12	obj
+15	pour	pour	P	P		9	mod	9	mod
+16	faire	faire	VINF	VINF	t=W	17	aux_caus	17	aux_caus
+17	cesser	cesser	VINF	VINF	t=W	15	prep	15	prep
+18	les	les	DET	DET	n=p	19	det	19	det
+19	moqueries	moquerie	NC	NC	n=p|g=f	17	obj	17	obj
+20	et	et	CC	CC		9	coord	9	coord
+21	quand	quand	CS	CS		9	mod	9	mod
+22	François	François	NPP	NPP	n=s|g=m	24	suj	24	suj
+23	Antoine	Antoine	NPP	NPP	n=s|g=m	22	mod	22	mod
+24	tua	tuer	V	V	n=s|t=J|p=3	21	sub	21	sub
+25	le	le	DET	DET	n=s|g=m	27	det	27	det
+26	fameux	fameux	ADJ	ADJ	g=m	27	mod	27	mod
+27	loup	loup	NC	NC	n=s|g=m	24	obj	24	obj
+28	des	de	P+D	P+D	n=p	27	dep	27	dep
+29	Chazes	_	NPP	NPP		28	prep	28	prep
+30	,	,	PONCT	PONCT		29	ponct	29	ponct
+31	il	il	CLS	CLS	n=s|g=m|p=3	32	suj	32	suj
+32	fit	faire	V	V	n=s|t=J|p=3	21	root	21	root
+33	croire	croire	VINF	VINF	t=W	32	obj	32	obj
+34	à	à	P	P		33	mod	33	mod
+35	la	la	DET	DET	n=s|g=f	36	det	36	det
+36	mort	mort	NC	NC	n=s|g=f,m	34	prep	34	prep
+37	de	de	P	P		33	mod	33	mod
+38	la	la	DET	DET	n=s|g=f	39	det	39	det
+39	bête	bête	NC	NC	n=s|g=f	37	prep	37	prep
+40	.	.	PONCT	PONCT		39	ponct	39	ponct
+
+1	Lorsque	lorsque	CS	CS		0	_	0	_
+2	les	les	DET	DET	n=p	3	det	3	det
+3	meurtres	meurtre	NC	NC	n=p|g=m	4	suj	4	suj
+4	reprirent	reprendre	V	V	n=p|t=J|p=3	1	sub	1	sub
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	aucune	aucune	DET	DET	n=s|g=f	7	det	7	det
+7	gazette	gazette	NC	NC	n=s|g=f	4	obj	4	obj
+8	n'	ne	ADV	ADV		10	mod	10	mod
+9	en	en	CLO	CLO		10	aff	10	aff
+10	parla	parler	V	V	n=s|t=J|p=3	4	mod	4	mod
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+</p><h2>
+1	Littérature	littérature	NC	NC	n=s|g=f	0	_	0	_
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	cinéma	cinéma	NC	NC	n=s|g=m	1	mod	1	mod
+
+</h2><p>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	bête	bête	NC	NC	n=s|g=f	6	suj	6	suj
+3	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+4	Gévaudan	_	NPP	NPP		3	prep	3	prep
+5	a	avoir	V	V	n=s|t=P|p=3	6	aux_tps	6	aux_tps
+6	inspiré	inspirer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+7	de	de	DET	DET	n=p	9	det	9	det
+8	nombreux	nombreux	ADJ	ADJ	g=m	9	mod	9	mod
+9	livres	livre	NC	NC	n=p	6	obj	6	obj
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	des	des	DET	DET	n=p	12	det	12	det
+12	pièces	pièce	NC	NC	n=p|g=f	6	mod	6	mod
+13	de	de	P	P		12	dep	12	dep
+14	théâtre	théâtre	NC	NC	n=s|g=m	13	prep	13	prep
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	des	des	DET	DET	n=p	17	det	17	det
+17	films	film	NC	NC	n=p|g=m	12	mod	12	mod
+18	et	et	CC	CC		6	coord	6	coord
+19	des	de	P+D	P+D	n=p	18	dep_coord	18	dep_coord
+20	émissions	émission	NC	NC	n=p|g=f	19	prep	19	prep
+21	de	de	P	P		20	dep	20	dep
+22	télévision	télévision	NC	NC	n=s|g=f	21	prep	21	prep
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+</p><h3>
+1	Littérature	littérature	NC	NC	n=s|g=f	0	_	0	_
+2	jeunesse	jeunesse	NC	NC	n=s|g=f	1	mod	1	mod
+
+</h3><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	secret	secret	NC	NC	n=s|g=m	0	_	0	_
+3	de	de	P	P		2	dep	2	dep
+4	Portefaix	_	NPP	NPP		3	prep	3	prep
+5	de	de	P	P		2	dep	2	dep
+6	Roger	Roger	NPP	NPP	n=s|g=m	5	prep	5	prep
+7	Lagrave	Lagrave	NPP	NPP	n=s|g=m	6	mod	6	mod
+8	et	et	CC	CC		2	coord	2	coord
+9	Cyrille	Cyrille	NPP	NPP	n=s	8	dep_coord	8	dep_coord
+10	Le	_	NPP	NPP		9	mod	9	mod
+11	Faou	_	NPP	NPP		9	mod	9	mod
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	édition	édition	NC	NC	n=s|g=f	2	mod	2	mod
+14	Alain	Alain	NPP	NPP	n=s|g=m	13	mod	13	mod
+15	Piazzola	_	NPP	NPP		13	mod	13	mod
+16	(	(	PONCT	PONCT		15	ponct	15	ponct
+17	BD	_	NPP	NPP		13	mod	13	mod
+18	)	)	PONCT	PONCT		17	ponct	17	ponct
+
+</p><p>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	Bête	bête	NC	NC	n=s|g=f	12	suj	12	suj
+3	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+4	Gévaudan	_	NC	NC		3	prep	3	prep
+5	de	de	P	P		2	dep	2	dep
+6	José	José	NPP	NPP	n=s|g=m	5	prep	5	prep
+7	Féron	_	NPP	NPP		6	mod	6	mod
+8	Romano	Romano	NPP	NPP	n=s|g=m	6	mod	6	mod
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	édition	édition	NC	NC	n=s|g=f	6	mod	6	mod
+11	Le	_	NPP	NPP		10	mod	10	mod
+12	livre	livrer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+13	de	de	P	P		12	mod	12	mod
+14	poche	poche	NC	NC	n=s	13	prep	13	prep
+15	jeunesse	jeunesse	NC	NC	n=s|g=f	14	mod	14	mod
+
+</p><p>
+1	Les	les	DET	DET	n=p	3	det	3	det
+2	grandes	grand	ADJ	ADJ	n=p|g=f	3	mod	3	mod
+3	énigmes	énigme	NC	NC	n=p|g=f	0	_	0	_
+4	de	de	P	P		3	dep	3	dep
+5	l'	le	DET	DET	n=s	6	det	6	det
+6	histoire	histoire	NC	NC	n=s|g=f	4	prep	4	prep
+7	:	:	PONCT	PONCT		6	ponct	6	ponct
+8	la	la	DET	DET	n=s|g=f	9	det	9	det
+9	Bête	bête	NC	NC	n=s|g=f	0	_	0	_
+10	du	de	P+D	P+D	n=s|g=m	9	dep	9	dep
+11	Gévaudan	_	NC	NC		10	prep	10	prep
+12	de	de	P	P		9	dep	9	dep
+13	Pascale	Pascale	NPP	NPP	n=s|g=f	12	prep	12	prep
+14	Hédelin	_	NPP	NPP		13	mod	13	mod
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	édition	édition	NC	NC	n=s|g=f	13	mod	13	mod
+17	Bayard	_	NPP	NPP		16	mod	16	mod
+18	jeunesse	jeunesse	NC	NC	n=s|g=f	16	mod	16	mod
+
+</p><h3>
+1	Littérature	littérature	NC	NC	n=s|g=f	0	_	0	_
+2	adulte	adulte	NC	NC	n=s	1	mod	1	mod
+
+</h3><p>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	Bête	bête	NC	NC	n=s|g=f	0	_	0	_
+3	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+4	Gévaudan	_	NC	NC		3	prep	3	prep
+5	de	de	P	P		2	dep	2	dep
+6	François	François	NPP	NPP	n=s|g=m	5	prep	5	prep
+7	Fabre	_	NPP	NPP		6	mod	6	mod
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	éditions	édition	NC	NC	n=p|g=f	6	mod	6	mod
+10	de	de	P	P		9	dep	9	dep
+11	Borée	_	NPP	NPP		10	prep	10	prep
+12	;	;	PONCT	PONCT		11	ponct	11	ponct
+
+</p><p>
+1	Du	de	P+D	P+D	n=s|g=m	0	_	0	_
+2	sang	sang	NC	NC	n=s|g=m	1	prep	1	prep
+3	dans	dans	P	P		2	dep	2	dep
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	montagne	montagne	NC	NC	n=s|g=f	3	prep	3	prep
+6	de	de	P	P		2	dep	2	dep
+7	Jacques	Jacques	NPP	NPP	n=s|g=m	6	prep	6	prep
+8	Delperrie	_	NPP	NPP		7	mod	7	mod
+9	de	de	P	P		2	dep	2	dep
+10	Bayac	Bayac	NPP	NPP	n=s|g=m	9	prep	9	prep
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	éditions	édition	NC	NC	n=p|g=f	2	mod	2	mod
+13	Fayard	_	NPP	NPP		12	mod	12	mod
+14	;	;	PONCT	PONCT		13	ponct	13	ponct
+
+</p><p>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	Bête	bête	NC	NC	n=s|g=f	0	_	0	_
+3	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+4	Gévaudan	_	NC	NC		3	prep	3	prep
+5	de	de	P	P		2	dep	2	dep
+6	Abel	Abel	NPP	NPP	n=s|g=m	5	prep	5	prep
+7	Chevalley	_	NPP	NPP		6	mod	6	mod
+8	;	;	PONCT	PONCT		7	ponct	7	ponct
+
+</p><p>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	Bête	bête	NC	NC	n=s|g=f	0	_	0	_
+3	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+4	Gévaudan	_	NPP	NPP		3	prep	3	prep
+5	:	:	PONCT	PONCT		4	ponct	4	ponct
+6	L'	le	DET	DET	n=s	7	det	7	det
+7	innocence	innocence	NC	NC	n=s|g=f	0	_	0	_
+8	des	de	P+D	P+D	n=p	7	dep	7	dep
+9	loups	loup	NC	NC	n=p|g=m	8	prep	8	prep
+10	de	de	P	P		7	dep	7	dep
+11	Michel	Michel	NPP	NPP	n=s|g=m	10	prep	10	prep
+12	Louis	Louis	NPP	NPP	n=s|g=m	11	mod	11	mod
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	édition	édition	NC	NC	n=s|g=f	11	mod	11	mod
+15	Perrin	_	NPP	NPP		14	mod	14	mod
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+</p><h3>
+1	Films	film	NC	NC	n=p|g=m	0	_	0	_
+
+</h3><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	Pacte	pacte	NC	NC	n=s|g=m	0	_	0	_
+3	des	de	P+D	P+D	n=p	2	dep	2	dep
+4	loups	loup	NC	NC	n=p|g=m	3	prep	3	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	film	film	NC	NC	n=s|g=m	2	mod	2	mod
+7	français	français	ADJ	ADJ	g=m	6	mod	6	mod
+8	réalisé	réaliser	VPP	VPP	n=s|g=m|t=K	6	mod	6	mod
+9	en	en	P	P		8	mod	8	mod
+10	2001	2001	NC	NC		9	prep	9	prep
+11	par	par	P	P		8	mod	8	mod
+12	Christophe	Christophe	NPP	NPP	n=s|g=m	11	prep	11	prep
+13	Gans	Gans	NPP	NPP	n=s|g=m	12	mod	12	mod
+14	;	;	PONCT	PONCT		13	ponct	13	ponct
+
+</p><p>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	Bête	bête	NC	NC	n=s|g=f	0	_	0	_
+3	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+4	Gevaudan	_	NPP	NPP		3	prep	3	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	téléfilm	téléfilm	NC	NC	n=s|g=m	2	mod	2	mod
+7	français	français	ADJ	ADJ	g=m	6	mod	6	mod
+8	réalisé	réaliser	VPP	VPP	n=s|g=m|t=K	6	mod	6	mod
+9	en	en	P	P		8	mod	8	mod
+10	2003	2003	NC	NC		9	prep	9	prep
+11	par	par	P	P		8	mod	8	mod
+12	Patrick	Patrick	NPP	NPP	n=s|g=m	11	prep	11	prep
+13	Volson	_	NPP	NPP		12	mod	12	mod
+14	;	;	PONCT	PONCT		13	ponct	13	ponct
+
+</p><p>
+1	Wolfman	_	NPP	NPP		0	_	0	_
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	film	film	NC	NC	n=s|g=m	1	mod	1	mod
+4	américain	américain	ADJ	ADJ	n=s|g=m	3	mod	3	mod
+5	réalisé	réaliser	VPP	VPP	n=s|g=m|t=K	3	mod	3	mod
+6	en	en	P	P		5	mod	5	mod
+7	2010	2010	NC	NC		6	prep	6	prep
+8	par	par	P	P		5	mod	5	mod
+9	Joe	Joe	NPP	NPP	n=s|g=m	8	prep	8	prep
+10	Johnston	_	NPP	NPP		9	mod	9	mod
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+</p><h3>
+1	Documentaires	documentaire	NC	NC	n=p|g=m	0	_	0	_
+
+</h3><p>
+1	2008	2008	NC	NC		4	mod	4	mod
+2	:	:	PONCT	PONCT		1	ponct	1	ponct
+3	Quel	quel	DETWH	DETWH	n=s|g=m	4	mod	4	mod
+4	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+5	le	le	DET	DET	n=s|g=m	6	det	6	det
+6	mystère	mystère	NC	NC	n=s|g=m	4	obj	4	obj
+7	de	de	P	P		4	mod	4	mod
+8	la	la	DET	DET	n=s|g=f	9	det	9	det
+9	bête	bête	NC	NC	n=s|g=f	7	prep	7	prep
+10	du	de	P+D	P+D	n=s|g=m	4	mod	4	mod
+11	Gévaudan	_	NPP	NPP		10	prep	10	prep
+12	?	?	PONCT	PONCT		11	ponct	11	ponct
+
+1	dans	dans	P	P		0	_	0	_
+2	la	la	DET	DET	n=s|g=f	3	det	3	det
+3	série	série	NC	NC	n=s|g=f	1	prep	1	prep
+4	Secrets	_	NPP	NPP		3	mod	3	mod
+5	d'	de	P	P		3	dep	3	dep
+6	histoire	histoire	NC	NC	n=s|g=f	5	prep	5	prep
+7	animée	animer	VPP	VPP	n=s|g=f|t=K	3	mod	3	mod
+8	par	par	P	P		7	mod	7	mod
+9	Stéphane	Stéphane	NPP	NPP	n=s|g=m	8	prep	8	prep
+10	Bern	_	NPP	NPP		9	mod	9	mod
+11	;	;	PONCT	PONCT		10	ponct	10	ponct
+
+</p><p>
+1	2011	2011	NC	NC		0	_	0	_
+2	:	:	PONCT	PONCT		1	ponct	1	ponct
+3	1764	1764	NC	NC		1	mod	1	mod
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	un	un	DET	DET	n=s|g=m	6	det	6	det
+6	an	an	NC	NC	n=s|g=m	1	mod	1	mod
+7	à	à	P	P		6	dep	6	dep
+8	tuer	tuer	VINF	VINF	t=W	7	prep	7	prep
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	réalisé	réaliser	VPP	VPP	n=s|g=m|t=K	6	mod	6	mod
+11	par	par	P	P		10	mod	10	mod
+12	Jean	Jean	NPP	NPP	n=s	11	prep	11	prep
+13	Soulé	_	NPP	NPP		12	mod	12	mod
+14	;	;	PONCT	PONCT		13	ponct	13	ponct
+
+</p><p>
+1	2014	2014	NC	NC		0	_	0	_
+2	:	:	PONCT	PONCT		1	ponct	1	ponct
+3	Au	à	P+D	P+D	n=s|g=m	0	_	0	_
+4	cœur	_	NC	NC		3	prep	3	prep
+5	de	de	P	P		4	dep	4	dep
+6	la	la	DET	DET	n=s|g=f	7	det	7	det
+7	Lozère	Lozère	NPP	NPP	n=s|g=f	5	prep	5	prep
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	dans	dans	P	P		4	dep	4	dep
+10	l'	le	DET	DET	n=s	11	det	11	det
+11	émission	émission	NC	NC	n=s|g=f	9	prep	9	prep
+12	Échappées	échappé	ADJ	ADJ	n=p|g=f|t=K	11	mod	11	mod
+13	belles	beau	ADJ	ADJ	n=p|g=f	11	mod	11	mod
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	France	France	NPP	NPP	n=s|g=f,m	11	mod	11	mod
+16	5	5	ADJ	ADJ		15	mod	15	mod
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+</p><h3>
+1	Radio	radio	NC	NC	n=s	0	_	0	_
+
+</h3><p>
+1	2011	2011	NC	NC		0	_	0	_
+2	:	:	PONCT	PONCT		1	ponct	1	ponct
+3	La	la	DET	DET	n=s|g=f	4	det	4	det
+4	Bête	bête	NC	NC	n=s|g=f	0	_	0	_
+5	du	de	P+D	P+D	n=s|g=m	4	dep	4	dep
+6	Gévaudan	_	NPP	NPP		5	prep	5	prep
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	dans	dans	P	P		4	dep	4	dep
+9	l'	le	DET	DET	n=s	10	det	10	det
+10	émission	émission	NC	NC	n=s|g=f	8	prep	8	prep
+11	d'	de	P	P		10	dep	10	dep
+12	Europe	Europe	NPP	NPP	n=s|g=f	11	prep	11	prep
+13	1	1	ADJ	ADJ		12	mod	12	mod
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	Au	_	NPP	NPP		4	mod	4	mod
+16	cœur	_	NPP	NPP		4	mod	4	mod
+17	de	de	P	P		4	dep	4	dep
+18	l'	le	DET	DET	n=s	19	det	19	det
+19	Histoire	_	NPP	NPP		17	prep	17	prep
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	animée	animer	VPP	VPP	n=s|g=f|t=K	4	mod	4	mod
+22	par	par	P	P		21	mod	21	mod
+23	Franck	Franck	NPP	NPP	n=s|g=m	22	prep	22	prep
+24	Ferrand	_	NPP	NPP		23	mod	23	mod
+25	.	.	PONCT	PONCT		24	ponct	24	ponct
+
+</p><p>
+1	2014	2014	NC	NC		0	_	0	_
+2	:	:	PONCT	PONCT		1	ponct	1	ponct
+3	La	la	DET	DET	n=s|g=f	4	det	4	det
+4	Bête	bête	NC	NC	n=s|g=f	0	_	0	_
+5	du	de	P+D	P+D	n=s|g=m	4	dep	4	dep
+6	Gévaudan	_	NPP	NPP		5	prep	5	prep
+7	:	:	PONCT	PONCT		6	ponct	6	ponct
+8	entre	entre	P	P		4	dep	4	dep
+9	mythe	mythe	NC	NC	n=s|g=m	8	prep	8	prep
+10	et	et	CC	CC		4	coord	4	coord
+11	réalité	réalité	NC	NC	n=s|g=f	10	dep_coord	10	dep_coord
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	sur	sur	P	P		4	dep	4	dep
+14	RTL	_	NPP	NPP		13	prep	13	prep
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	L'	le	DET	DET	n=s	17	det	17	det
+17	Heure	heure	NC	NC	n=s|g=f	0	_	0	_
+18	du	de	P+D	P+D	n=s|g=m	17	dep	17	dep
+19	crime	crime	NC	NC	n=s|g=m	18	prep	18	prep
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	animée	animer	VPP	VPP	n=s|g=f|t=K	17	mod	17	mod
+22	par	par	P	P		21	mod	21	mod
+23	Jacques	Jacques	NPP	NPP	n=s|g=m	22	prep	22	prep
+24	Pradel	_	NPP	NPP		23	mod	23	mod
+25	.	.	PONCT	PONCT		24	ponct	24	ponct
+
+</p><h2>
+1	Liens	lien	NC	NC	n=p|g=m	0	_	0	_
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	sources	source	NC	NC	n=p|g=f	0	_	0	_
+4	et	et	CC	CC		3	coord	3	coord
+5	références	référence	NC	NC	n=p|g=f	4	dep_coord	4	dep_coord
+
+</h2><h3>
+1	Vikiliens	_	NC	NC		0	_	0	_
+
+</h3><p>
+1	Gévaudan	_	NC	NC		0	_	0	_
+
+</p><p>
+1	Languedoc	Languedoc	NPP	NPP	n=s|g=m	0	_	0	_
+
+</p><p>
+1	Louis	_	NPP	NPP		0	_	0	_
+2	XV	_	NPP	NPP		1	mod	1	mod
+
+</p><p>
+1	Loup	loup	NC	NC	n=s|g=m	0	_	0	_
+
+</p><p>
+1	Bête	bête	NC	NC	n=s|g=f	0	_	0	_
+
+</p><h3>
+1	Liens	lien	NC	NC	n=p|g=m	0	_	0	_
+2	externes	externe	ADJ	ADJ	n=p	1	mod	1	mod
+
+</h3><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	site	site	NC	NC	n=s|g=m	0	_	0	_
+3	officiel	officiel	ADJ	ADJ	n=s|g=m	2	mod	2	mod
+4	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+5	parc	parc	NC	NC	n=s|g=m	4	prep	4	prep
+6	à	à	P	P		5	dep	5	dep
+7	loups	loup	NC	NC	n=p|g=m	6	prep	6	prep
+8	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+9	Gévaudan	_	NPP	NPP		8	prep	8	prep
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+</p><p>
+1	Un	un	DET	DET	n=s|g=m	2	det	2	det
+2	site	site	NC	NC	n=s|g=m	0	_	0	_
+3	sur	sur	P	P		2	dep	2	dep
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	Bête	bête	NC	NC	n=s|g=f	3	prep	3	prep
+6	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+7	Gévaudan	_	NC	NC		6	prep	6	prep
+
+</p><p>
+1	Un	un	DET	DET	n=s|g=m	3	det	3	det
+2	autre	autre	ADJ	ADJ	n=s	3	mod	3	mod
+3	site	site	NC	NC	n=s|g=m	0	_	0	_
+
+</p><h3>
+1	Sources	source	NC	NC	n=p|g=f	0	_	0	_
+
+</h3>
+1	cette	cette	DET	DET	n=s|g=f	2	det	2	det
+2	page	page	NC	NC	n=s	6	suj	6	suj
+3	a	avoir	V	V	n=s|t=P|p=3	6	aux_tps	6	aux_tps
+4	été	être	VPP	VPP	t=K	6	aux_pass	6	aux_pass
+5	partiellement	_	ADV	ADV		6	mod	6	mod
+6	adaptée	adapter	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+7	de	de	P	P		6	mod	6	mod
+8	la	la	DET	DET	n=s|g=f	9	det	9	det
+9	page	page	NC	NC	n=s	7	prep	7	prep
+10	Bête	bête	NC	NC	n=s|g=f	9	mod	9	mod
+11	du	de	P+D	P+D	n=s|g=m	6	mod	6	mod
+12	Gévaudan	_	NC	NC		11	prep	11	prep
+13	de	de	P	P		6	mod	6	mod
+14	Wikipédia	Wikipedia	NPP	NPP	n=s|g=f	13	prep	13	prep
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+

@@ -1,0 +1,1612 @@
+<p>
+1	TRAPPIST-1	_	NPP	NPP		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	une	une	DET	DET	n=s|g=f	4	det	4	det
+4	naine	nain	NC	NC	n=s|g=f	2	obj	2	obj
+5	brune	brun	ADJ	ADJ	n=s|g=f	4	mod	4	mod
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	c'	ce	DET	DET	n=s|g=m	8	det	8	det
+8	est-à-dire	_	NC	NC		2	mod	2	mod
+9	un	un	DET	DET	n=s|g=m	10	det	10	det
+10	objet	objet	NC	NC	n=s|g=m	2	mod	2	mod
+11	intermédiaire	intermédiaire	ADJ	ADJ	n=s	10	mod	10	mod
+12	entre	entre	P	P		2	mod	2	mod
+13	une	une	DET	DET	n=s|g=f	14	det	14	det
+14	étoile	étoile	NC	NC	n=s|g=f	12	prep	12	prep
+15	et	et	CC	CC		2	coord	2	coord
+16	une	une	DET	DET	n=s|g=f	17	det	17	det
+17	planète	planète	NC	NC	n=s|g=f	0	_	0	_
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	située	situer	VPP	VPP	n=s|g=f|t=K	17	mod	17	mod
+20	à	à	P	P		19	mod	19	mod
+21	39	39	NC	NC		20	prep	20	prep
+22	années-lumière	_	NC	NC		21	mod	21	mod
+23	de	de	P	P		19	mod	19	mod
+24	la	la	DET	DET	n=s|g=f	25	det	25	det
+25	Terre	_	NPP	NPP		23	prep	23	prep
+26	,	,	PONCT	PONCT		25	ponct	25	ponct
+27	dans	dans	P	P		19	mod	19	mod
+28	la	la	DET	DET	n=s|g=f	29	det	29	det
+29	constellation	constellation	NC	NC	n=s|g=f	27	prep	27	prep
+30	du	de	P+D	P+D	n=s|g=m	29	dep	29	dep
+31	Verseau	_	NPP	NPP		30	prep	30	prep
+32	.	.	PONCT	PONCT		31	ponct	31	ponct
+
+1	Cet	cet	DET	DET	n=s|g=m	2	det	2	det
+2	objet	objet	NC	NC	n=s|g=m	3	suj	3	suj
+3	était	être	V	V	n=s|t=I|p=3	0	root	0	root
+4	d'	de	P	P		3	mod	3	mod
+5	abord	abord	NC	NC	n=s|g=m	4	prep	4	prep
+6	connu	connaître	VPP	VPP	n=s|g=m|t=K	5	mod	5	mod
+7	sous	sous	P	P		6	mod	6	mod
+8	le	le	DET	DET	n=s|g=m	9	det	9	det
+9	nom	nom	NC	NC	n=s|g=m	7	prep	7	prep
+10	très	très	ADV	ADV		11	mod	11	mod
+11	complexe	complexe	ADJ	ADJ	n=s	9	mod	9	mod
+12	de	de	P	P		9	dep	9	dep
+13	2MASS	_	NC	NC		12	prep	12	prep
+14	J23062928-0502285	_	NPP	NPP		13	mod	13	mod
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	avant	avant	P	P		6	mod	6	mod
+17	de	de	P	P		16	dep	16	dep
+18	recevoir	recevoir	VINF	VINF	t=W	17	prep	17	prep
+19	le	le	DET	DET	n=s|g=m	20	det	20	det
+20	nom	nom	NC	NC	n=s|g=m	18	obj	18	obj
+21	de	de	P	P		20	dep	20	dep
+22	TRAPPIST-1	_	NPP	NPP		21	prep	21	prep
+23	en	en	P	P		18	mod	18	mod
+24	2016	2016	NC	NC		23	prep	23	prep
+25	.	.	PONCT	PONCT		24	ponct	24	ponct
+
+1	Le	le	DET	DET	n=s|g=m	3	det	3	det
+2	2	2	ADJ	ADJ		3	mod	3	mod
+3	mai	mai	NC	NC	n=s|g=m	26	mod	26	mod
+4	2016	2016	NC	NC		3	mod	3	mod
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	la	la	DET	DET	n=s|g=f	7	det	7	det
+7	découverte	découverte	NC	NC	n=s|g=f	26	suj	26	suj
+8	de	de	P	P		7	dep	7	dep
+9	trois	trois	DET	DET	s=card|n=p	10	det	10	det
+10	exoplanètes	_	NC	NC		8	prep	8	prep
+11	(	(	PONCT	PONCT		10	ponct	10	ponct
+12	planètes	planète	NC	NC	n=p|g=f	26	suj	26	suj
+13	en	en	P	P		12	dep	12	dep
+14	dehors	dehors	NC	NC	g=m	13	prep	13	prep
+15	du	de	P+D	P+D	n=s|g=m	12	dep	12	dep
+16	système	système	NC	NC	n=s|g=m	15	prep	15	prep
+17	solaire	solaire	ADJ	ADJ	n=s	16	mod	16	mod
+18	)	)	PONCT	PONCT		17	ponct	17	ponct
+19	autour	autour	NC	NC	n=s|g=m	16	mod	16	mod
+20	de	de	P	P		19	dep	19	dep
+21	cette	cette	DET	DET	n=s|g=f	22	det	22	det
+22	naine	nain	NC	NC	n=s|g=f	20	prep	20	prep
+23	brune	brun	ADJ	ADJ	n=s|g=f	22	mod	22	mod
+24	a	avoir	V	V	n=s|t=P|p=3	26	aux_tps	26	aux_tps
+25	été	être	VPP	VPP	t=K	26	aux_pass	26	aux_pass
+26	annoncée	annoncer	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+27	.	.	PONCT	PONCT		26	ponct	26	ponct
+
+1	Ensuite	ensuite	ADV	ADV		15	mod	15	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	en	en	P	P		15	mod	15	mod
+4	2017	2017	NC	NC		3	prep	3	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	4	4	NC	NC		15	suj	15	suj
+7	autres	autre	ADJ	ADJ	n=p	6	mod	6	mod
+8	exoplanètes	_	NC	NC		6	mod	6	mod
+9	autour	autour	NC	NC	n=s|g=m	8	mod	8	mod
+10	de	de	P	P		6	dep	6	dep
+11	l'	le	DET	DET	n=s	12	det	12	det
+12	étoile	étoile	NC	NC	n=s|g=f	10	prep	10	prep
+13	ont	avoir	V	V	n=p|t=P|p=3	15	aux_tps	15	aux_tps
+14	été	être	VPP	VPP	t=K	15	aux_pass	15	aux_pass
+15	découvertes	découvrir	VPP	VPP	n=p|g=f|t=K	0	root	0	root
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	ce	ce	PRO	PRO	n=s	15	mod	15	mod
+18	qui	qui	PROREL	PROREL	n=s	19	suj	19	suj
+19	fait	faire	V	V	n=s|t=P|p=3	17	mod_rel	17	mod_rel
+20	un	un	DET	DET	n=s|g=m	21	det	21	det
+21	système	système	NC	NC	n=s|g=m	19	obj	19	obj
+22	de	de	P	P		19	mod	19	mod
+23	7	7	ADJ	ADJ		24	mod	24	mod
+24	planètes	planète	NC	NC	n=p|g=f	22	prep	22	prep
+25	,	,	PONCT	PONCT		24	ponct	24	ponct
+26	c'	ce	DET	DET	n=s|g=m	27	det	27	det
+27	est-à-dire	_	NC	NC		15	mod	15	mod
+28	à	à	P	P		15	mod	15	mod
+29	peu	peu	ADV	ADV		30	mod	30	mod
+30	près	près	ADV	ADV		33	mod	33	mod
+31	le	le	DET	DET	n=s|g=m	33	det	33	det
+32	même	même	ADJ	ADJ	n=s	33	mod	33	mod
+33	nombre	nombre	NC	NC	n=s|g=m	28	prep	28	prep
+34	de	de	P	P		15	mod	15	mod
+35	planètes	planète	NC	NC	n=p|g=f	34	prep	34	prep
+36	que	que	CS	CS		15	mod	15	mod
+37	dans	dans	P	P		36	sub	36	sub
+38	notre	notre	DET	DET	n=s|p=1|poss=p	39	det	39	det
+39	système	système	NC	NC	n=s|g=m	37	prep	37	prep
+40	solaire	solaire	ADJ	ADJ	n=s	39	mod	39	mod
+41	.	.	PONCT	PONCT		40	ponct	40	ponct
+
+1	Parmi	parmi	P	P		6	mod	6	mod
+2	ces	ces	DET	DET	n=p	3	det	3	det
+3	planètes	planète	NC	NC	n=p|g=f	1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	quatre	quatre	PRO	PRO	s=card|n=p	6	suj	6	suj
+6	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+7	peut-être	peut-être	ADV	ADV		6	mod	6	mod
+8	des	des	DET	DET	n=p	9	det	9	det
+9	planètes	planète	NC	NC	n=p|g=f	6	obj	6	obj
+10	habitables	habitable	ADJ	ADJ	n=p	9	mod	9	mod
+11	et	et	CC	CC		6	coord	6	coord
+12	contiennent	contenir	V	V	n=p|t=P,S|p=3	11	dep_coord	11	dep_coord
+13	probablement	_	ADV	ADV		12	mod	12	mod
+14	de	de	P	P		12	mod	12	mod
+15	l'	le	DET	DET	n=s	16	det	16	det
+16	eau	eau	NC	NC	n=s|g=f	14	prep	14	prep
+17	liquide	liquide	ADJ	ADJ	n=s	16	mod	16	mod
+18	à	à	P	P		12	mod	12	mod
+19	leur	leur	DET	DET	n=s|p=3|poss=p	20	det	20	det
+20	surface	surface	NC	NC	n=s|g=f	18	prep	18	prep
+21	.	.	PONCT	PONCT		20	ponct	20	ponct
+
+</p><h2>
+1	Découverte	découverte	NC	NC	n=s|g=f	0	_	0	_
+
+</h2><p>
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	étoile	étoile	NC	NC	n=s|g=f	0	_	0	_
+3	ainsi	ainsi	ADV	ADV		2	mod	2	mod
+4	que	que	CS	CS		2	mod	2	mod
+5	ses	ses	DET	DET	n=p|p=3|poss=s	6	det	6	det
+6	3	3	NC	NC		11	suj	11	suj
+7	premières	premier	ADJ	ADJ	n=p|g=f	6	mod	6	mod
+8	exoplanètes	_	NC	NC		6	mod	6	mod
+9	ont	avoir	V	V	n=p|t=P|p=3	11	aux_tps	11	aux_tps
+10	été	être	VPP	VPP	t=K	11	aux_pass	11	aux_pass
+11	découvertes	découvrir	VPP	VPP	n=p|g=f|t=K	4	sub	4	sub
+12	par	par	P	P		11	mod	11	mod
+13	le	le	DET	DET	n=s|g=m	14	det	14	det
+14	télescope	télescope	NC	NC	n=s|g=m	12	prep	12	prep
+15	Trappist-South	_	NPP	NPP		14	mod	14	mod
+16	en	en	P	P		11	mod	11	mod
+17	2016	2016	NC	NC		16	prep	16	prep
+18	au	à	P+D	P+D	n=s|g=m	11	mod	11	mod
+19	Chili	Chili	NPP	NPP	n=s|g=m	18	prep	18	prep
+20	qui	qui	PROREL	PROREL	n=s	22	suj	22	suj
+21	a	avoir	V	V	n=s|t=P|p=3	22	aux_tps	22	aux_tps
+22	donné	donner	VPP	VPP	n=s|g=m|t=K	11	mod	11	mod
+23	le	le	DET	DET	n=s|g=m	24	det	24	det
+24	nom	nom	NC	NC	n=s|g=m	22	obj	22	obj
+25	à	à	P	P		22	mod	22	mod
+26	l'	le	DET	DET	n=s	27	det	27	det
+27	étoile	étoile	NC	NC	n=s|g=f	25	prep	25	prep
+28	.	.	PONCT	PONCT		27	ponct	27	ponct
+
+1	Ensuite	ensuite	ADV	ADV		8	mod	8	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	4	4	NC	NC		8	suj	8	suj
+4	autres	autre	ADJ	ADJ	n=p	3	mod	3	mod
+5	exoplanètes	_	NC	NC		3	mod	3	mod
+6	ont	avoir	V	V	n=p|t=P|p=3	8	aux_tps	8	aux_tps
+7	été	être	VPP	VPP	t=K	8	aux_pass	8	aux_pass
+8	découvertes	découvrir	VPP	VPP	n=p|g=f|t=K	0	root	0	root
+9	en	en	P	P		8	mod	8	mod
+10	2017	2017	NC	NC		9	prep	9	prep
+11	et	et	CC	CC		8	coord	8	coord
+12	des	de	P+D	P+D	n=p	11	dep_coord	11	dep_coord
+13	recherches	recherche	NC	NC	n=p|g=f	12	prep	12	prep
+14	sur	sur	P	P		8	mod	8	mod
+15	l'	le	DET	DET	n=s	16	det	16	det
+16	atmosphère	atmosphère	NC	NC	n=s|g=f	14	prep	14	prep
+17	de	de	P	P		8	mod	8	mod
+18	ces	ces	DET	DET	n=p	19	det	19	det
+19	planètes	planète	NC	NC	n=p|g=f	17	prep	17	prep
+20	grâce	grâce	NC	NC	n=s|g=f	19	mod	19	mod
+21	au	à	P+D	P+D	n=s|g=m	8	mod	8	mod
+22	télescope	télescope	NC	NC	n=s|g=m	21	prep	21	prep
+23	spatial	spatial	ADJ	ADJ	n=s|g=m	22	mod	22	mod
+24	Hubble	_	NPP	NPP		22	mod	22	mod
+25	ont	avoir	V	V	n=p|t=P|p=3	26	aux_tps	26	aux_tps
+26	permis	permettre	VPP	VPP	g=m|t=K	8	mod	8	mod
+27	de	de	P	P		26	mod	26	mod
+28	dire	dire	VINF	VINF	t=W	27	prep	27	prep
+29	qu'	que	CS	CS		28	obj	28	obj
+30	elles	elles	CLS	CLS	n=p|g=f|p=3	31	suj	31	suj
+31	seraient	être	V	V	n=p|t=C|p=3	29	sub	29	sub
+32	probablement	_	ADV	ADV		33	mod	33	mod
+33	habitables	habitable	ADJ	ADJ	n=p	31	ats	31	ats
+34	et	et	CC	CC		29	coord	29	coord
+35	qu'	que	CS	CS		34	dep_coord	34	dep_coord
+36	elles	elles	CLS	CLS	n=p|g=f|p=3	37	suj	37	suj
+37	contiendraient	contenir	V	V	n=p|t=C|p=3	35	sub	35	sub
+38	probablement	_	ADV	ADV		37	mod	37	mod
+39	de	de	P	P		37	mod	37	mod
+40	l'	le	DET	DET	n=s	41	det	41	det
+41	eau	eau	NC	NC	n=s|g=f	39	prep	39	prep
+42	.	.	PONCT	PONCT		41	ponct	41	ponct
+
+</p><h2>
+1	Étoile	étoile	NC	NC	n=s|g=f	0	_	0	_
+
+</h2><p>
+1	TRAPPIST-1	_	NPP	NPP		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	une	une	DET	DET	n=s|g=f	4	det	4	det
+4	étoile	étoile	NC	NC	n=s|g=f	2	obj	2	obj
+5	entre	entre	P	P		4	dep	4	dep
+6	la	la	DET	DET	n=s|g=f	7	det	7	det
+7	catégorie	catégorie	NC	NC	n=s|g=f	5	prep	5	prep
+8	des	de	P+D	P+D	n=p	7	dep	7	dep
+9	naines	nain	ADJ	ADJ	n=p|g=f	10	mod	10	mod
+10	rouges	rouge	ADJ	ADJ	n=p	8	prep	8	prep
+11	et	et	CC	CC		2	coord	2	coord
+12	celle	celle	PRO	PRO	n=s|g=f	11	dep_coord	11	dep_coord
+13	des	de	P+D	P+D	n=p	11	dep_coord	11	dep_coord
+14	naines	nain	NC	NC	n=p|g=f	13	prep	13	prep
+15	brunes	brun	ADJ	ADJ	n=p|g=f	14	mod	14	mod
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	elle	elle	CLS	CLS	n=s|g=f|p=3	18	suj	18	suj
+18	est	être	V	V	n=s|t=P|p=3	2	mod	2	mod
+19	donc	donc	ADV	ADV		18	mod	18	mod
+20	très	très	ADV	ADV		21	mod	21	mod
+21	petite	petit	ADJ	ADJ	n=s|g=f	18	ats	18	ats
+22	par	par	P	P		18	mod	18	mod
+23	rapport	rapport	NC	NC	n=s|g=m	22	prep	22	prep
+24	au	à	P+D	P+D	n=s|g=m	18	mod	18	mod
+25	Soleil	_	NPP	NPP		24	prep	24	prep
+26	(	(	PONCT	PONCT		25	ponct	25	ponct
+27	elle	elle	CLS	CLS	n=s|g=f|p=3	29	suj	29	suj
+28	ne	ne	ADV	ADV		29	mod	29	mod
+29	fait	faire	V	V	n=s|t=P|p=3	2	mod	2	mod
+30	qu'	que	CS	CS		29	obj	29	obj
+31	un	un	DET	DET	n=s|g=m	32	det	32	det
+32	dixième	dixième	ADJ	ADJ	n=s	0	_	0	_
+33	de	de	P	P		32	mod	32	mod
+34	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	35	det	35	det
+35	taille	taille	NC	NC	n=s|g=f	33	prep	33	prep
+36	et	et	CC	CC		32	coord	32	coord
+37	à	à	P	P		36	dep_coord	36	dep_coord
+38	peu	peu	ADV	ADV		37	mod	37	mod
+39	près	près	ADV	ADV		37	mod	37	mod
+40	la	la	DET	DET	n=s|g=f	41	det	41	det
+41	taille	taille	NC	NC	n=s|g=f	37	prep	37	prep
+42	de	de	P	P		41	dep	41	dep
+43	Jupiter	Jupiter	NPP	NPP	n=s|g=m	42	prep	42	prep
+44	)	)	PONCT	PONCT		43	ponct	43	ponct
+45	et	et	CC	CC		32	coord	32	coord
+46	n'	ne	ADV	ADV		47	mod	47	mod
+47	est	être	V	V	n=s|t=P|p=3	45	dep_coord	45	dep_coord
+48	pas	pas	ADV	ADV		47	mod	47	mod
+49	très	très	ADV	ADV		50	mod	50	mod
+50	chaude	chaud	ADJ	ADJ	n=s|g=f	47	ats	47	ats
+51	(	(	PONCT	PONCT		50	ponct	50	ponct
+52	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	53	det	53	det
+53	température	température	NC	NC	n=s|g=f	54	suj	54	suj
+54	est	être	V	V	n=s|t=P|p=3	47	mod	47	mod
+55	d'	de	P	P		54	mod	54	mod
+56	environ	environ	ADV	ADV		57	mod	57	mod
+57	2_000	2_000	ADJ	ADJ		58	mod	58	mod
+58	°C	_	NC	NC		55	prep	55	prep
+59	alors	alors	ADV	ADV		54	mod	54	mod
+60	que	que	CS	CS		54	mod	54	mod
+61	celle	celle	PRO	PRO	n=s|g=f	64	suj	64	suj
+62	du	de	P+D	P+D	n=s|g=m	61	dep	61	dep
+63	Soleil	_	NPP	NPP		62	prep	62	prep
+64	est	être	V	V	n=s|t=P|p=3	60	sub	60	sub
+65	d'	de	P	P		64	mod	64	mod
+66	environ	environ	ADV	ADV		67	mod	67	mod
+67	5_000	5_000	ADJ	ADJ		68	mod	68	mod
+68	°C	_	NC	NC		65	prep	65	prep
+69	)	)	PONCT	PONCT		68	ponct	68	ponct
+70	et	et	CC	CC		64	coord	64	coord
+71	ses	ses	DET	DET	n=p|p=3|poss=s	72	det	72	det
+72	planètes	planète	NC	NC	n=p|g=f	76	suj	76	suj
+73	ne	ne	ADV	ADV		76	mod	76	mod
+74	sont	être	V	V	n=p|t=P|p=3	76	aux_pass	76	aux_pass
+75	pas	pas	ADV	ADV		76	mod	76	mod
+76	situées	situer	VPP	VPP	n=p|g=f|t=K	70	dep_coord	70	dep_coord
+77	plus	plus	ADV	ADV		78	mod	78	mod
+78	loin	loin	ADV	ADV		76	mod	76	mod
+79	que	que	CS	CS		76	mod	76	mod
+80	Mercure	_	NPP	NPP		0	_	0	_
+81	à	à	P	P		80	dep	80	dep
+82	notre	notre	DET	DET	n=s|p=1|poss=p	83	det	83	det
+83	étoile	étoile	NC	NC	n=s|g=f	81	prep	81	prep
+84	.	.	PONCT	PONCT		83	ponct	83	ponct
+
+1	Cela	cela	PRO	PRO	n=s|g=m	2	suj	2	suj
+2	permet	permettre	V	V	n=s|t=P|p=3	0	root	0	root
+3	aux	à	P+D	P+D	n=p	2	mod	2	mod
+4	différentes	différent	ADJ	ADJ	n=p|g=f	5	mod	5	mod
+5	planètes	planète	NC	NC	n=p|g=f	3	prep	3	prep
+6	d'	de	P	P		2	mod	2	mod
+7	avoir	avoir	VINF	VINF	t=W	6	prep	6	prep
+8	une	une	DET	DET	n=s|g=f	9	det	9	det
+9	température	température	NC	NC	n=s|g=f	7	obj	7	obj
+10	similaire	similaire	ADJ	ADJ	n=s	9	mod	9	mod
+11	à	à	P	P		9	dep	9	dep
+12	la	la	DET	DET	n=s|g=f	13	det	13	det
+13	Terre	_	NPP	NPP		11	prep	11	prep
+14	et	et	CC	CC		11	coord	11	coord
+15	donc	donc	ADV	ADV		14	mod	14	mod
+16	aux	à	P+D	P+D	n=p	14	dep_coord	14	dep_coord
+17	planètes	planète	NC	NC	n=p|g=f	16	prep	16	prep
+18	d'	de	P	P		2	mod	2	mod
+19	être	être	VINF	VINF	t=W	18	prep	18	prep
+20	dans	dans	P	P		19	mod	19	mod
+21	la	la	DET	DET	n=s|g=f	22	det	22	det
+22	zone	zone	NC	NC	n=s|g=f	20	prep	20	prep
+23	habitable	habitable	ADJ	ADJ	n=s	22	mod	22	mod
+24	.	.	PONCT	PONCT		23	ponct	23	ponct
+
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	étoile	étoile	NC	NC	n=s|g=f	3	suj	3	suj
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	aussi	aussi	ADV	ADV		3	mod	3	mod
+5	très	très	ADV	ADV		6	mod	6	mod
+6	âgée	âgé	ADJ	ADJ	n=s|g=f	3	ats	3	ats
+7	par	par	P	P		3	mod	3	mod
+8	rapport	rapport	NC	NC	n=s|g=m	7	prep	7	prep
+9	au	à	P+D	P+D	n=s|g=m	3	mod	3	mod
+10	Soleil	_	NPP	NPP		9	prep	9	prep
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	elle	elle	CLS	CLS	n=s|g=f|p=3	13	suj	13	suj
+13	a	avoir	V	V	n=s|t=P|p=3	3	mod	3	mod
+14	à	à	P	P		13	mod	13	mod
+15	peu	peu	ADV	ADV		17	mod	17	mod
+16	près	près	ADV	ADV		17	mod	17	mod
+17	7,6	7,6	ADJ	ADJ		18	mod	18	mod
+18	milliards	milliard	NC	NC	n=p|g=m	14	prep	14	prep
+19	d'	de	P	P		13	mod	13	mod
+20	années	année	NC	NC	n=p|g=f	19	prep	19	prep
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	.	.	PONCT	PONCT		20	ponct	20	ponct
+
+</p><h2>
+1	Planètes	planète	NC	NC	n=p|g=f	0	_	0	_
+
+</h2><h3>
+1	TRAPPIST-1	_	NC	NC		0	_	0	_
+2	b	_	NC	NC		1	mod	1	mod
+
+</h3><p>
+1	TRAPPIST-1b	_	NPP	NPP		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	la	la	DET	DET	n=s|g=f	4	det	4	det
+4	planète	planète	NC	NC	n=s|g=f	2	obj	2	obj
+5	la	la	DET	DET	n=s|g=f	7	det	7	det
+6	plus	plus	ADV	ADV		7	mod	7	mod
+7	proche	proche	ADJ	ADJ	n=s	4	mod	4	mod
+8	de	de	P	P		2	mod	2	mod
+9	la	la	DET	DET	n=s|g=f	10	det	10	det
+10	naine	nain	NC	NC	n=s|g=f	8	prep	8	prep
+11	brune	brun	ADJ	ADJ	n=s|g=f	10	mod	10	mod
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	elle	elle	CLS	CLS	n=s|g=f|p=3	14	suj	14	suj
+14	est	être	V	V	n=s|t=P|p=3	2	mod	2	mod
+15	si	_	ADV	ADV		16	mod	16	mod
+16	proche	proche	ADJ	ADJ	n=s	14	ats	14	ats
+17	qu'	que	CS	CS		14	mod	14	mod
+18	il	il	CLS	CLS	n=s|g=m|p=3	20	suj	20	suj
+19	lui	lui	CLO	CLO	n=s|p=3	20	obj	20	obj
+20	faut	falloir	V	V	n=s|t=P|p=3	17	sub	17	sub
+21	seulement	_	ADV	ADV		20	mod	20	mod
+22	1,5	1,5	ADJ	ADJ		23	mod	23	mod
+23	jour	jour	NC	NC	n=s|g=m	20	obj	20	obj
+24	pour	pour	P	P		20	mod	20	mod
+25	accomplir	accomplir	VINF	VINF	t=W	24	prep	24	prep
+26	une	une	DET	DET	n=s|g=f	27	det	27	det
+27	révolution	révolution	NC	NC	n=s|g=f	25	obj	25	obj
+28	autour	autour	NC	NC	n=s|g=m	27	mod	27	mod
+29	de	de	P	P		25	mod	25	mod
+30	TRAPPIST-1	_	NPP	NPP		29	prep	29	prep
+31	.	.	PONCT	PONCT		30	ponct	30	ponct
+
+1	Cet	cet	DET	DET	n=s|g=m	2	det	2	det
+2	objet	objet	NC	NC	n=s|g=m	3	suj	3	suj
+3	ressemblerait	ressembler	V	V	n=s|t=C|p=3	0	root	0	root
+4	à	à	P	P		3	mod	3	mod
+5	la	la	DET	DET	n=s|g=f	6	det	6	det
+6	Terre	_	NPP	NPP		4	prep	4	prep
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	en	en	P	P		3	mod	3	mod
+9	effet	effet	NC	NC	n=s|g=m	8	prep	8	prep
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	12	det	12	det
+12	taille	taille	NC	NC	n=s|g=f	13	suj	13	suj
+13	est	être	V	V	n=s|t=P|p=3	3	mod	3	mod
+14	similaire	similaire	ADJ	ADJ	n=s	13	ats	13	ats
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	mais	mais	CC	CC		3	coord	3	coord
+17	elle	elle	CLS	CLS	n=s|g=f|p=3	19	suj	19	suj
+18	se	se	CLR	CLR	n=p,s|p=3	19	aff	19	aff
+19	situe	situer	V	V	n=s|t=P,S|p=1,3	16	dep_coord	16	dep_coord
+20	trop	trop	ADV	ADV		19	mod	19	mod
+21	proche	proche	ADJ	ADJ	n=s	19	ats	19	ats
+22	de	de	P	P		19	mod	19	mod
+23	TRAPPIST-1	_	NPP	NPP		22	prep	22	prep
+24	,	,	PONCT	PONCT		23	ponct	23	ponct
+25	ce	ce	PRO	PRO	n=s	19	mod	19	mod
+26	qui	qui	PROREL	PROREL	n=s	27	suj	27	suj
+27	fait	faire	V	V	n=s|t=P|p=3	25	mod_rel	25	mod_rel
+28	que	que	CS	CS		27	obj	27	obj
+29	la	la	DET	DET	n=s|g=f	30	det	30	det
+30	température	température	NC	NC	n=s|g=f	31	suj	31	suj
+31	est	être	V	V	n=s|t=P|p=3	28	sub	28	sub
+32	trop	trop	ADV	ADV		31	mod	31	mod
+33	élevée	élever	ADJ	ADJ	n=s|g=f|t=K	31	ats	31	ats
+34	.	.	PONCT	PONCT		33	ponct	33	ponct
+
+1	En	en	P	P		24	mod	24	mod
+2	revanche	revanche	NC	NC	n=s|g=f	1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	comme	comme	CS	CS		24	mod	24	mod
+5	elle	elle	CLS	CLS	n=s|g=f|p=3	6	suj	6	suj
+6	serait	être	V	V	n=s|t=C|p=3	4	sub	4	sub
+7	en	en	P	P		6	mod	6	mod
+8	rotation	rotation	NC	NC	n=s|g=f	7	prep	7	prep
+9	synchrone	synchrone	ADJ	ADJ	n=s	8	mod	8	mod
+10	(	(	PONCT	PONCT		9	ponct	9	ponct
+11	période	période	NC	NC	n=s	6	mod	6	mod
+12	de	de	P	P		11	dep	11	dep
+13	rotation	rotation	NC	NC	n=s|g=f	12	prep	12	prep
+14	identique	identique	ADJ	ADJ	n=s	13	mod	13	mod
+15	à	à	P	P		6	mod	6	mod
+16	la	la	DET	DET	n=s|g=f	17	det	17	det
+17	période	période	NC	NC	n=s	15	prep	15	prep
+18	de	de	P	P		17	dep	17	dep
+19	révolution	révolution	NC	NC	n=s|g=f	18	prep	18	prep
+20	)	)	PONCT	PONCT		19	ponct	19	ponct
+21	,	,	PONCT	PONCT		19	ponct	19	ponct
+22	il	il	CLS	CLS	n=s|g=m|p=3	24	suj	24	suj
+23	y	y	CLO	CLO		24	obj	24	obj
+24	aurait	avoir	V	V	n=s|t=C|p=3	0	root	0	root
+25	un	un	DET	DET	n=s|g=m	26	det	26	det
+26	côté	côté	NC	NC	n=s|g=m	24	obj	24	obj
+27	qui	qui	PROREL	PROREL	n=s	28	suj	28	suj
+28	recevrait	recevoir	V	V	n=s|t=C|p=3	26	mod_rel	26	mod_rel
+29	toujours	toujours	ADV	ADV		28	mod	28	mod
+30	de	de	P	P		28	mod	28	mod
+31	la	la	DET	DET	n=s|g=f	32	det	32	det
+32	lumière	lumière	NC	NC	n=s|g=f	30	prep	30	prep
+33	et	et	CC	CC		32	coord	32	coord
+34	la	la	DET	DET	n=s|g=f	35	det	35	det
+35	chaleur	chaleur	NC	NC	n=s|g=f	33	dep_coord	33	dep_coord
+36	,	,	PONCT	PONCT		35	ponct	35	ponct
+37	et	et	CC	CC		24	coord	24	coord
+38	l'	le	DET	DET	n=s	39	det	39	det
+39	autre	autre	PRO	PRO	n=s|g=f,m	40	suj	40	suj
+40	serait	être	V	V	n=s|t=C|p=3	37	dep_coord	37	dep_coord
+41	en	en	P	P		40	mod	40	mod
+42	permanence	permanence	NC	NC	n=s|g=f	41	prep	41	prep
+43	dans	dans	P	P		40	mod	40	mod
+44	la	la	DET	DET	n=s|g=f	45	det	45	det
+45	nuit	nuit	NC	NC	n=s|g=f	43	prep	43	prep
+46	.	.	PONCT	PONCT		45	ponct	45	ponct
+
+1	Entre	entre	P	P		7	mod	7	mod
+2	les	les	DET	DET	n=p	3	det	3	det
+3	deux	deux	ADJ	ADJ	s=card|n=p	1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	il	il	CLS	CLS	n=s|g=m|p=3	7	suj	7	suj
+6	y	y	CLO	CLO		7	aff	7	aff
+7	a	avoir	V	V	n=s|t=P|p=3	0	root	0	root
+8	une	une	DET	DET	n=s|g=f	9	det	9	det
+9	zone	zone	NC	NC	n=s|g=f	7	obj	7	obj
+10	où	où	PROREL	PROREL		13	mod	13	mod
+11	la	la	DET	DET	n=s|g=f	12	det	12	det
+12	température	température	NC	NC	n=s|g=f	13	suj	13	suj
+13	serait	être	V	V	n=s|t=C|p=3	9	mod_rel	9	mod_rel
+14	plus	plus	ADV	ADV		13	mod	13	mod
+15	vivable	vivable	ADJ	ADJ	n=s	13	ats	13	ats
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	et	et	CC	CC		7	coord	7	coord
+18	la	la	DET	DET	n=s|g=f	19	det	19	det
+19	vie	vie	NC	NC	n=s|g=f	20	suj	20	suj
+20	pourrait	pouvoir	V	V	n=s|t=C|p=3	17	dep_coord	17	dep_coord
+21	donc	donc	ADV	ADV		20	mod	20	mod
+22	exister	exister	VINF	VINF	t=W	20	obj	20	obj
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+</p><h3>
+1	TRAPPIST-1	_	NC	NC		0	_	0	_
+2	c	_	NC	NC		1	mod	1	mod
+
+</h3><p>
+1	Cette	cette	DET	DET	n=s|g=f	2	det	2	det
+2	planète	planète	NC	NC	n=s|g=f	3	suj	3	suj
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	un	un	DET	DET	n=s|g=m	6	det	6	det
+5	peu	peu	ADV	ADV		6	mod	6	mod
+6	plus	plus	ADV	ADV		7	mod	7	mod
+7	éloignée	éloigner	VPP	VPP	n=s|g=f|t=K	3	ats	3	ats
+8	de	de	P	P		7	mod	7	mod
+9	la	la	DET	DET	n=s|g=f	10	det	10	det
+10	naine	nain	NC	NC	n=s|g=f	8	prep	8	prep
+11	brune	brun	ADJ	ADJ	n=s|g=f	10	mod	10	mod
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	et	et	CC	CC		3	coord	3	coord
+14	tourne	tourner	V	V	n=s|t=P,S|p=1,3	13	dep_coord	13	dep_coord
+15	autour	autour	NC	NC	n=s|g=m	14	obj	14	obj
+16	d'	de	P	P		14	mod	14	mod
+17	elle	elle	PRO	PRO	n=s|g=f|p=3	16	prep	16	prep
+18	en	en	P	P		14	mod	14	mod
+19	2,4	2,4	NC	NC		18	prep	18	prep
+20	jours	jour	NC	NC	n=p|g=m	19	mod	19	mod
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	mais	mais	CC	CC		14	coord	14	coord
+23	elle	elle	CLS	CLS	n=s|g=f|p=3	24	suj	24	suj
+24	est	être	V	V	n=s|t=P|p=3	22	dep_coord	22	dep_coord
+25	encore	encore	ADV	ADV		24	mod	24	mod
+26	trop	trop	ADV	ADV		27	mod	27	mod
+27	proche	proche	ADJ	ADJ	n=s	24	ats	24	ats
+28	,	,	PONCT	PONCT		27	ponct	27	ponct
+29	et	et	CC	CC		24	coord	24	coord
+30	la	la	DET	DET	n=s|g=f	31	det	31	det
+31	température	température	NC	NC	n=s|g=f	32	suj	32	suj
+32	est	être	V	V	n=s|t=P|p=3	29	dep_coord	29	dep_coord
+33	sans	sans	P	P		32	mod	32	mod
+34	doute	doute	NC	NC	n=s|g=m	33	prep	33	prep
+35	trop	trop	ADV	ADV		36	mod	36	mod
+36	élevée	élever	ADJ	ADJ	n=s|g=f|t=K	34	mod	34	mod
+37	,	,	PONCT	PONCT		36	ponct	36	ponct
+38	mais	mais	CC	CC		32	coord	32	coord
+39	elle	elle	CLS	CLS	n=s|g=f|p=3	40	suj	40	suj
+40	serait	être	V	V	n=s|t=C|p=3	38	dep_coord	38	dep_coord
+41	très	très	ADV	ADV		40	mod	40	mod
+42	probablement	_	ADV	ADV		40	mod	40	mod
+43	en	en	P	P		40	mod	40	mod
+44	rotation	rotation	NC	NC	n=s|g=f	43	prep	43	prep
+45	synchrone	synchrone	ADJ	ADJ	n=s	44	mod	44	mod
+46	,	,	PONCT	PONCT		45	ponct	45	ponct
+47	donc	donc	ADV	ADV		51	mod	51	mod
+48	,	,	PONCT	PONCT		47	ponct	47	ponct
+49	il	il	CLS	CLS	n=s|g=m|p=3	51	suj	51	suj
+50	y	y	CLO	CLO		51	obj	51	obj
+51	aurait	avoir	V	V	n=s|t=C|p=3	40	mod	40	mod
+52	un	un	DET	DET	n=s|g=m	53	det	53	det
+53	côté	côté	NC	NC	n=s|g=m	51	obj	51	obj
+54	jour	jour	NC	NC	n=s|g=m	53	mod	53	mod
+55	,	,	PONCT	PONCT		54	ponct	54	ponct
+56	un	un	DET	DET	n=s|g=m	57	det	57	det
+57	côté	côté	NC	NC	n=s|g=m	58	suj	58	suj
+58	nuit	nuire	V	V	n=s|t=P|p=3	51	mod	51	mod
+59	,	,	PONCT	PONCT		58	ponct	58	ponct
+60	et	et	CC	CC		51	coord	51	coord
+61	une	une	DET	DET	n=s|g=f	62	det	62	det
+62	partie	partie	NC	NC	n=s|g=f	60	dep_coord	60	dep_coord
+63	de	de	P	P		62	dep	62	dep
+64	la	la	DET	DET	n=s|g=f	65	det	65	det
+65	planète	planète	NC	NC	n=s|g=f	63	prep	63	prep
+66	où	où	PROREL	PROREL		69	mod	69	mod
+67	la	la	DET	DET	n=s|g=f	68	det	68	det
+68	température	température	NC	NC	n=s|g=f	69	suj	69	suj
+69	est	être	V	V	n=s|t=P|p=3	51	mod	51	mod
+70	vivable	vivable	ADJ	ADJ	n=s	69	ats	69	ats
+71	,	,	PONCT	PONCT		70	ponct	70	ponct
+72	et	et	CC	CC		69	coord	69	coord
+73	donc	donc	ADV	ADV		78	mod	78	mod
+74	,	,	PONCT	PONCT		73	ponct	73	ponct
+75	la	la	DET	DET	n=s|g=f	76	det	76	det
+76	vie	vie	NC	NC	n=s|g=f	78	suj	78	suj
+77	extraterrestre	extraterrestre	ADJ	ADJ	n=s	76	mod	76	mod
+78	est	être	V	V	n=s|t=P|p=3	72	dep_coord	72	dep_coord
+79	donc	donc	ADV	ADV		78	mod	78	mod
+80	possible	possible	ADJ	ADJ	n=s	78	ats	78	ats
+81	là	là	ADV	ADV		82	mod	82	mod
+82	aussi	aussi	ADV	ADV		78	mod	78	mod
+83	,	,	PONCT	PONCT		82	ponct	82	ponct
+84	il	il	CLS	CLS	n=s|g=m|p=3	86	suj	86	suj
+85	se	se	CLR	CLR	n=p,s|p=3	86	aff	86	aff
+86	pourrait	pouvoir	V	V	n=s|t=C|p=3	78	mod	78	mod
+87	bien	bien	ADV	ADV		86	mod	86	mod
+88	que	que	CS	CS		86	mod	86	mod
+89	la	la	DET	DET	n=s|g=f	90	det	90	det
+90	vie	vie	NC	NC	n=s|g=f	91	suj	91	suj
+91	existe	exister	V	V	n=s|t=P,S|p=1,3	88	sub	88	sub
+92	sur	sur	P	P		91	mod	91	mod
+93	les	les	DET	DET	n=p	95	det	95	det
+94	deux	deux	ADJ	ADJ	s=card|n=p	95	mod	95	mod
+95	planètes	planète	NC	NC	n=p|g=f	92	prep	92	prep
+96	à	à	P	P		91	mod	91	mod
+97	la	la	DET	DET	n=s|g=f	98	det	98	det
+98	fois	fois	NC	NC	g=f	96	prep	96	prep
+99	,	,	PONCT	PONCT		98	ponct	98	ponct
+100	!	!	PONCT	PONCT		98	ponct	98	ponct
+
+</p><h3>
+1	TRAPPIST-1	_	NC	NC		0	_	0	_
+2	d	_	NC	NC		1	mod	1	mod
+
+</h3><p>
+1	On	on	CLS	CLS	n=s|p=3	2	suj	2	suj
+2	connait	_	V	V		0	root	0	root
+3	moins	moins	ADV	ADV		2	mod	2	mod
+4	de	de	P	P		2	mod	2	mod
+5	chose	chose	NC	NC	n=s|g=f	4	prep	4	prep
+6	sur	sur	P	P		2	mod	2	mod
+7	elle	elle	PRO	PRO	n=s|g=f|p=3	6	prep	6	prep
+8	que	que	CS	CS		2	mod	2	mod
+9	sur	sur	P	P		22	mod	22	mod
+10	les	les	DET	DET	n=p	12	det	12	det
+11	autres	autre	ADJ	ADJ	n=p	12	mod	12	mod
+12	planètes	planète	NC	NC	n=p|g=f	9	prep	9	prep
+13	de	de	P	P		12	dep	12	dep
+14	ce	ce	DET	DET	n=s|g=m	15	det	15	det
+15	système	système	NC	NC	n=s|g=m	13	prep	13	prep
+16	planétaire	planétaire	ADJ	ADJ	n=s	15	mod	15	mod
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	19	det	19	det
+19	période	période	NC	NC	n=s	22	suj	22	suj
+20	de	de	P	P		19	dep	19	dep
+21	révolution	révolution	NC	NC	n=s|g=f	20	prep	20	prep
+22	serait	être	V	V	n=s|t=C|p=3	8	sub	8	sub
+23	entre	entre	P	P		22	mod	22	mod
+24	4,5	4,5	NC	NC		23	prep	23	prep
+25	et	et	CC	CC		22	coord	22	coord
+26	73	73	ADJ	ADJ		27	mod	27	mod
+27	jours	jour	NC	NC	n=p|g=m	25	dep_coord	25	dep_coord
+28	,	,	PONCT	PONCT		27	ponct	27	ponct
+29	et	et	CC	CC		2	coord	2	coord
+30	se	se	CLR	CLR	n=p,s|p=3	31	aff	31	aff
+31	trouve	trouver	V	V	n=s|t=P,S|p=1,3	29	dep_coord	29	dep_coord
+32	peut-être	peut-être	ADV	ADV		31	mod	31	mod
+33	dans	dans	P	P		31	mod	31	mod
+34	la	la	DET	DET	n=s|g=f	35	det	35	det
+35	zone	zone	NC	NC	n=s|g=f	33	prep	33	prep
+36	où	où	PROREL	PROREL		39	mod	39	mod
+37	la	la	DET	DET	n=s|g=f	38	det	38	det
+38	température	température	NC	NC	n=s|g=f	39	suj	39	suj
+39	permet	permettre	V	V	n=s|t=P|p=3	35	mod_rel	35	mod_rel
+40	une	une	DET	DET	n=s|g=f	41	det	41	det
+41	forme	forme	NC	NC	n=s|g=f	39	obj	39	obj
+42	de	de	P	P		39	mod	39	mod
+43	vie	vie	NC	NC	n=s|g=f	42	prep	42	prep
+44	,	,	PONCT	PONCT		43	ponct	43	ponct
+45	mais	mais	CC	CC		31	coord	31	coord
+46	il	il	CLS	CLS	n=s|g=m|p=3	47	suj	47	suj
+47	est	être	V	V	n=s|t=P|p=3	45	dep_coord	45	dep_coord
+48	également	_	ADV	ADV		49	mod	49	mod
+49	possible	possible	ADJ	ADJ	n=s	47	ats	47	ats
+50	qu'	que	CS	CS		47	mod	47	mod
+51	elle	elle	CLS	CLS	n=s|g=f|p=3	52	suj	52	suj
+52	soit	être	VS	VS	n=s|t=S|p=3	50	sub	50	sub
+53	trop	trop	ADV	ADV		52	mod	52	mod
+54	loin	loin	ADV	ADV		52	mod	52	mod
+55	,	,	PONCT	PONCT		54	ponct	54	ponct
+56	mais	mais	CC	CC		52	coord	52	coord
+57	comme	comme	P	P		56	dep_coord	56	dep_coord
+58	les	les	DET	DET	n=p	60	det	60	det
+59	autres	autre	ADJ	ADJ	n=p	60	mod	60	mod
+60	planètes	planète	NC	NC	n=p|g=f	57	prep	57	prep
+61	de	de	P	P		60	dep	60	dep
+62	TRAPPIST-1	_	NPP	NPP		61	prep	61	prep
+63	,	,	PONCT	PONCT		62	ponct	62	ponct
+64	elle	elle	CLS	CLS	n=s|g=f|p=3	65	suj	65	suj
+65	serait	être	V	V	n=s|t=C|p=3	50	sub	50	sub
+66	sans	sans	P	P		65	mod	65	mod
+67	doute	doute	NC	NC	n=s|g=m	66	prep	66	prep
+68	en	en	P	P		65	mod	65	mod
+69	rotation	rotation	NC	NC	n=s|g=f	68	prep	68	prep
+70	synchrone	synchrone	ADJ	ADJ	n=s	69	mod	69	mod
+71	,	,	PONCT	PONCT		70	ponct	70	ponct
+72	et	et	CC	CC		65	coord	65	coord
+73	donc	donc	ADV	ADV		79	mod	79	mod
+74	,	,	PONCT	PONCT		73	ponct	73	ponct
+75	le	le	DET	DET	n=s|g=m	76	det	76	det
+76	côté	côté	NC	NC	n=s|g=m	79	suj	79	suj
+77	jour	jour	NC	NC	n=s|g=m	76	mod	76	mod
+78	serait	être	V	V	n=s|t=C|p=3	79	aux_pass	79	aux_pass
+79	chauffé	chauffer	VPP	VPP	n=s|g=m|t=K	72	dep_coord	72	dep_coord
+80	,	,	PONCT	PONCT		79	ponct	79	ponct
+81	mais	mais	CC	CC		79	coord	79	coord
+82	pas	pas	ADV	ADV		85	mod	85	mod
+83	trop	trop	ADV	ADV		85	mod	85	mod
+84	non	non	ADV	ADV		85	mod	85	mod
+85	plus	plus	ADV	ADV		81	dep_coord	81	dep_coord
+86	,	,	PONCT	PONCT		85	ponct	85	ponct
+87	la	la	DET	DET	n=s|g=f	88	det	88	det
+88	vie	vie	NC	NC	n=s|g=f	89	suj	89	suj
+89	pourrait	pouvoir	V	V	n=s|t=C|p=3	79	mod	79	mod
+90	donc	donc	ADV	ADV		89	mod	89	mod
+91	y	y	CLO	CLO		92	a_obj	92	a_obj
+92	exister	exister	VINF	VINF	t=W	89	obj	89	obj
+93	encore	encore	ADV	ADV		92	mod	92	mod
+94	une	une	DET	DET	n=s|g=f	95	det	95	det
+95	fois	fois	NC	NC	g=f	92	obj	92	obj
+96	,	,	PONCT	PONCT		95	ponct	95	ponct
+97	comme	comme	P	P		92	mod	92	mod
+98	toute	tout	ADJ	ADJ	n=s|g=f	100	mod	100	mod
+99	les	les	DET	DET	n=p	100	det	100	det
+100	planètes	planète	NC	NC	n=p|g=f	97	prep	97	prep
+101	en	en	P	P		100	dep	100	dep
+102	orbite	orbite	NC	NC	n=s|g=f	101	prep	101	prep
+103	autour	autour	NC	NC	n=s|g=m	102	mod	102	mod
+104	de	de	P	P		100	dep	100	dep
+105	TRAPPIST-1	_	NPP	NPP		104	prep	104	prep
+106	.	.	PONCT	PONCT		105	ponct	105	ponct
+
+1	Cette	cette	DET	DET	n=s|g=f	2	det	2	det
+2	exoplanète	_	NC	NC		3	suj	3	suj
+3	serait	être	V	V	n=s|t=C|p=3	0	root	0	root
+4	également	_	ADV	ADV		3	mod	3	mod
+5	la	la	DET	DET	n=s|g=f	7	det	7	det
+6	moins	moins	ADV	ADV		7	mod	7	mod
+7	massive	massif	ADJ	ADJ	n=s|g=f	3	ats	3	ats
+8	du	de	P+D	P+D	n=s|g=m	3	mod	3	mod
+9	système	système	NC	NC	n=s|g=m	8	prep	8	prep
+10	planétaire	planétaire	ADJ	ADJ	n=s	9	mod	9	mod
+11	avec	avec	P	P		3	mod	3	mod
+12	une	une	DET	DET	n=s|g=f	13	det	13	det
+13	masse	masse	NC	NC	n=s|g=f	11	prep	11	prep
+14	comprise	comprendre	VPP	VPP	n=s|g=f|t=K	13	mod	13	mod
+15	entre	entre	P	P		14	mod	14	mod
+16	un	un	DET	DET	n=s|g=m	17	det	17	det
+17	quart	quart	NC	NC	n=s|g=m	15	prep	15	prep
+18	et	et	CC	CC		3	coord	3	coord
+19	un	un	DET	DET	n=s|g=m	20	det	20	det
+20	tiers	tiers	NC	NC	g=m	18	dep_coord	18	dep_coord
+21	de	de	P	P		20	dep	20	dep
+22	celle	celle	PRO	PRO	n=s|g=f	21	prep	21	prep
+23	de	de	P	P		22	dep	22	dep
+24	notre	notre	DET	DET	n=s|p=1|poss=p	25	det	25	det
+25	planète	planète	NC	NC	n=s|g=f	23	prep	23	prep
+26	,	,	PONCT	PONCT		25	ponct	25	ponct
+27	soit	soit	CC	CC		20	coord	20	coord
+28	une	une	DET	DET	n=s|g=f	29	det	29	det
+29	masse	masse	NC	NC	n=s|g=f	27	dep_coord	27	dep_coord
+30	d'	de	P	P		29	dep	29	dep
+31	environ	environ	ADV	ADV		32	mod	32	mod
+32	0,297	0,297	ADJ	ADJ		33	mod	33	mod
+33	fois	fois	NC	NC	g=f	30	prep	30	prep
+34	la	la	DET	DET	n=s|g=f	35	det	35	det
+35	Terre	_	NPP	NPP		33	mod	33	mod
+36	,	,	PONCT	PONCT		35	ponct	35	ponct
+37	.	.	PONCT	PONCT		35	ponct	35	ponct
+
+</p><h3>
+1	TRAPPIST-1	_	NC	NC		0	_	0	_
+2	e	_	NC	NC		1	mod	1	mod
+
+</h3><p>
+1	TRAPPIST-1	_	NC	NC		3	suj	3	suj
+2	e	_	NPP	NPP		1	mod	1	mod
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	la	la	DET	DET	n=s|g=f	6	det	6	det
+5	4ème	_	ADJ	ADJ		6	mod	6	mod
+6	planète	planète	NC	NC	n=s|g=f	3	obj	3	obj
+7	de	de	P	P		3	mod	3	mod
+8	ce	ce	DET	DET	n=s|g=m	9	det	9	det
+9	système	système	NC	NC	n=s|g=m	7	prep	7	prep
+10	planétaire	planétaire	ADJ	ADJ	n=s	9	mod	9	mod
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+1	C'	ce	CLS	CLS		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	la	la	DET	DET	n=s|g=f	4	det	4	det
+4	planète	planète	NC	NC	n=s|g=f	2	obj	2	obj
+5	qui	qui	PROREL	PROREL	n=s	6	suj	6	suj
+6	présente	présenter	V	V	n=s|t=P,S|p=1,3	4	mod_rel	4	mod_rel
+7	probablement	_	ADV	ADV		6	mod	6	mod
+8	le	le	DET	DET	n=s|g=m	0	_	0	_
+9	plus	plus	ADV	ADV		0	_	0	_
+10	de	de	P	P		0	_	0	_
+11	ressemblances	ressemblance	NC	NC	n=p|g=f	10	prep	10	prep
+12	à	à	P	P		11	dep	11	dep
+13	la	la	DET	DET	n=s|g=f	14	det	14	det
+14	Terre	_	NPP	NPP		12	prep	12	prep
+15	et	et	CC	CC		10	coord	10	coord
+16	fait	faire	V	V	n=s|t=P|p=3	0	_	0	_
+17	3	3	ADJ	ADJ		18	mod	18	mod
+18	quart	quart	NC	NC	n=s|g=m	16	obj	16	obj
+19	de	de	P	P		18	dep	18	dep
+20	la	la	DET	DET	n=s|g=f	21	det	21	det
+21	masse	masse	NC	NC	n=s|g=f	19	prep	19	prep
+22	de	de	P	P		18	dep	18	dep
+23	la	la	DET	DET	n=s|g=f	24	det	24	det
+24	Terre	_	NPP	NPP		22	prep	22	prep
+25	(	(	PONCT	PONCT		24	ponct	24	ponct
+26	0,772	0,772	NC	NC		18	mod	18	mod
+27	fois	fois	NC	NC	g=f	26	mod	26	mod
+28	la	la	DET	DET	n=s|g=f	29	det	29	det
+29	masse	masse	NC	NC	n=s|g=f	16	mod	16	mod
+30	de	de	P	P		29	dep	29	dep
+31	notre	notre	DET	DET	n=s|p=1|poss=p	32	det	32	det
+32	planète	planète	NC	NC	n=s|g=f	30	prep	30	prep
+33	)	)	PONCT	PONCT		32	ponct	32	ponct
+34	et	et	CC	CC		16	coord	16	coord
+35	fait	faire	V	V	n=s|t=P|p=3	34	dep_coord	34	dep_coord
+36	à	à	P	P		35	mod	35	mod
+37	peu	peu	ADV	ADV		36	mod	36	mod
+38	près	près	ADV	ADV		40	mod	40	mod
+39	la	la	DET	DET	n=s|g=f	40	det	40	det
+40	taille	taille	NC	NC	n=s|g=f	36	prep	36	prep
+41	de	de	P	P		35	mod	35	mod
+42	notre	notre	DET	DET	n=s|p=1|poss=p	43	det	43	det
+43	planète	planète	NC	NC	n=s|g=f	41	prep	41	prep
+44	(	(	PONCT	PONCT		43	ponct	43	ponct
+45	0,915	0,915	NC	NC		35	mod	35	mod
+46	fois	fois	NC	NC	g=f	45	mod	45	mod
+47	le	le	DET	DET	n=s|g=m	48	det	48	det
+48	rayon	rayon	NC	NC	n=s|g=m	35	mod	35	mod
+49	)	)	PONCT	PONCT		48	ponct	48	ponct
+50	,	,	PONCT	PONCT		48	ponct	48	ponct
+51	.	.	PONCT	PONCT		48	ponct	48	ponct
+
+</p><h3>
+1	TRAPPIST-1	_	NC	NC		0	_	0	_
+2	f	_	NC	NC		1	mod	1	mod
+
+</h3><p>
+1	TRAPPIST-1	_	NC	NC		3	suj	3	suj
+2	f	_	NPP	NPP		1	mod	1	mod
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	la	la	DET	DET	n=s|g=f	6	det	6	det
+5	5ème	_	ADJ	ADJ		6	mod	6	mod
+6	planète	planète	NC	NC	n=s|g=f	3	obj	3	obj
+7	de	de	P	P		3	mod	3	mod
+8	ce	ce	DET	DET	n=s|g=m	9	det	9	det
+9	système	système	NC	NC	n=s|g=m	7	prep	7	prep
+10	planétaire	planétaire	ADJ	ADJ	n=s	9	mod	9	mod
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	2	suj	2	suj
+2	orbite	orbite	NC	NC	n=s|g=f	0	root	0	root
+3	en	en	P	P		2	dep	2	dep
+4	un	un	DET	DET	n=s|g=m	6	det	6	det
+5	peu	peu	ADV	ADV		6	mod	6	mod
+6	plus	plus	ADV	ADV		7	mod	7	mod
+7	de	de	P	P		3	dep	3	dep
+8	9	9	ADJ	ADJ		9	mod	9	mod
+9	jours	jour	NC	NC	n=p|g=m	7	prep	7	prep
+10	autour	autour	NC	NC	n=s|g=m	2	mod	2	mod
+11	de	de	P	P		2	dep	2	dep
+12	son	son	DET	DET	n=s|g=m|p=3|poss=s	13	det	13	det
+13	étoile	étoile	NC	NC	n=s|g=f	11	prep	11	prep
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	16	det	16	det
+16	taille	taille	NC	NC	n=s|g=f	2	mod	2	mod
+17	est	être	V	V	n=s|t=P|p=3	0	_	0	_
+18	à	à	P	P		17	mod	17	mod
+19	peine	peine	NC	NC	n=s|g=f	18	prep	18	prep
+20	plus	plus	ADV	ADV		21	mod	21	mod
+21	grande	grand	ADJ	ADJ	n=s|g=f	17	ats	17	ats
+22	que	que	CS	CS		21	dep	21	dep
+23	la	la	DET	DET	n=s|g=f	24	det	24	det
+24	Terre	_	NPP	NPP		22	sub	22	sub
+25	(	(	PONCT	PONCT		24	ponct	24	ponct
+26	1,052	1,052	ADJ	ADJ		27	mod	27	mod
+27	fois	fois	NC	NC	g=f	17	mod	17	mod
+28	)	)	PONCT	PONCT		27	ponct	27	ponct
+29	et	et	CC	CC		17	coord	17	coord
+30	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	31	det	31	det
+31	masse	masse	NC	NC	n=s|g=f	32	suj	32	suj
+32	est	être	V	V	n=s|t=P|p=3	29	dep_coord	29	dep_coord
+33	à	à	P	P		32	mod	32	mod
+34	peine	peine	NC	NC	n=s|g=f	33	prep	33	prep
+35	plus	plus	ADV	ADV		36	mod	36	mod
+36	petite	petit	ADJ	ADJ	n=s|g=f	34	mod	34	mod
+37	(	(	PONCT	PONCT		36	ponct	36	ponct
+38	0,934	0,934	NC	NC		32	mod	32	mod
+39	fois	fois	NC	NC	g=f	38	mod	38	mod
+40	)	)	PONCT	PONCT		39	ponct	39	ponct
+41	.	.	PONCT	PONCT		39	ponct	39	ponct
+
+</p><h3>
+1	TRAPPIST-1	_	ADJ	ADJ		2	mod	2	mod
+2	g	gramme	NC	NC	g=m	0	_	0	_
+
+</h3><p>
+1	TRAPPIST-1	_	ADJ	ADJ		2	mod	2	mod
+2	g	gramme	NC	NC	g=m	3	suj	3	suj
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	la	la	DET	DET	n=s|g=f	6	det	6	det
+5	6ème	_	ADJ	ADJ		6	mod	6	mod
+6	planète	planète	NC	NC	n=s|g=f	3	obj	3	obj
+7	de	de	P	P		3	mod	3	mod
+8	ce	ce	DET	DET	n=s|g=m	9	det	9	det
+9	système	système	NC	NC	n=s|g=m	7	prep	7	prep
+10	planétaire	planétaire	ADJ	ADJ	n=s	9	mod	9	mod
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	2	suj	2	suj
+2	orbite	orbite	NC	NC	n=s|g=f	0	root	0	root
+3	en	en	P	P		2	dep	2	dep
+4	un	un	DET	DET	n=s|g=m	6	det	6	det
+5	peu	peu	ADV	ADV		6	mod	6	mod
+6	plus	plus	ADV	ADV		7	mod	7	mod
+7	de	de	P	P		3	dep	3	dep
+8	12	12	ADJ	ADJ		9	mod	9	mod
+9	jours	jour	NC	NC	n=p|g=m	7	prep	7	prep
+10	autour	autour	NC	NC	n=s|g=m	2	mod	2	mod
+11	de	de	P	P		2	dep	2	dep
+12	son	son	DET	DET	n=s|g=m|p=3|poss=s	13	det	13	det
+13	étoile	étoile	NC	NC	n=s|g=f	11	prep	11	prep
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	16	det	16	det
+16	taille	taille	NC	NC	n=s|g=f	2	mod	2	mod
+17	fait	faire	V	V	n=s|t=P|p=3	0	_	0	_
+18	environ	environ	ADV	ADV		17	mod	17	mod
+19	1,154	1,154	ADJ	ADJ		20	mod	20	mod
+20	fois	fois	NC	NC	g=f	17	mod	17	mod
+21	la	la	DET	DET	n=s|g=f	22	det	22	det
+22	Terre	_	NPP	NPP		26	suj	26	suj
+23	et	et	CC	CC		22	coord	22	coord
+24	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	25	det	25	det
+25	masse	masse	NC	NC	n=s|g=f	23	dep_coord	23	dep_coord
+26	fait	faire	V	V	n=s|t=P|p=3	17	mod	17	mod
+27	1,148	1,148	VINF	VINF		26	obj	26	obj
+28	fois	fois	NC	NC	g=f	27	mod	27	mod
+29	la	la	DET	DET	n=s|g=f	30	det	30	det
+30	Terre	_	NPP	NPP		0	_	0	_
+31	..	..	PONCT	PONCT		30	ponct	30	ponct
+
+</p><h3>
+1	TRAPPIST-1	_	ADJ	ADJ		2	mod	2	mod
+2	h	heure	NC	NC	g=f	0	_	0	_
+
+</h3><p>
+1	TRAPPIST-1	_	ADJ	ADJ		2	mod	2	mod
+2	h	heure	NC	NC	g=f	3	suj	3	suj
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	la	la	DET	DET	n=s|g=f	6	det	6	det
+5	7ème	_	ADJ	ADJ		6	mod	6	mod
+6	planète	planète	NC	NC	n=s|g=f	3	obj	3	obj
+7	de	de	P	P		3	mod	3	mod
+8	ce	ce	DET	DET	n=s|g=m	9	det	9	det
+9	système	système	NC	NC	n=s|g=m	7	prep	7	prep
+10	planétaire	planétaire	ADJ	ADJ	n=s	9	mod	9	mod
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+1	C'	ce	CLS	CLS		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	la	la	DET	DET	n=s|g=f	4	det	4	det
+4	planète	planète	NC	NC	n=s|g=f	2	obj	2	obj
+5	la	la	DET	DET	n=s|g=f	7	det	7	det
+6	plus	plus	ADV	ADV		7	mod	7	mod
+7	éloignée	éloigner	VPP	VPP	n=s|g=f|t=K	4	mod	4	mod
+8	de	de	P	P		4	dep	4	dep
+9	son	son	DET	DET	n=s|g=m|p=3|poss=s	10	det	10	det
+10	étoile	étoile	NC	NC	n=s|g=f	8	prep	8	prep
+11	qu'	que	PROREL	PROREL		14	mod	14	mod
+12	on	on	CLS	CLS	n=s|p=3	14	suj	14	suj
+13	a	avoir	V	V	n=s|t=P|p=3	14	aux_tps	14	aux_tps
+14	découverte	découvrir	VPP	VPP	n=s|g=f|t=K	2	mod	2	mod
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	2	suj	2	suj
+2	orbite	orbite	NC	NC	n=s|g=f	0	root	0	root
+3	en	en	P	P		2	dep	2	dep
+4	un	un	DET	DET	n=s|g=m	6	det	6	det
+5	peu	peu	ADV	ADV		6	mod	6	mod
+6	plus	plus	ADV	ADV		7	mod	7	mod
+7	de	de	P	P		3	dep	3	dep
+8	9	9	ADJ	ADJ		9	mod	9	mod
+9	jours	jour	NC	NC	n=p|g=m	7	prep	7	prep
+10	autour	autour	NC	NC	n=s|g=m	2	mod	2	mod
+11	de	de	P	P		2	dep	2	dep
+12	son	son	DET	DET	n=s|g=m|p=3|poss=s	13	det	13	det
+13	étoile	étoile	NC	NC	n=s|g=f	11	prep	11	prep
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	16	det	16	det
+16	taille	taille	NC	NC	n=s|g=f	2	mod	2	mod
+17	fait	faire	V	V	n=s|t=P|p=3	0	_	0	_
+18	3	3	ADJ	ADJ		19	mod	19	mod
+19	quart	quart	NC	NC	n=s|g=m	17	obj	17	obj
+20	celle	celle	PRO	PRO	n=s|g=f	0	_	0	_
+21	de	de	P	P		20	dep	20	dep
+22	la	la	DET	DET	n=s|g=f	23	det	23	det
+23	Terre	_	NPP	NPP		21	prep	21	prep
+24	(	(	PONCT	PONCT		23	ponct	23	ponct
+25	0,777	0,777	NC	NC		20	mod	20	mod
+26	fois	fois	NC	NC	g=f	25	mod	25	mod
+27	)	)	PONCT	PONCT		26	ponct	26	ponct
+28	et	et	CC	CC		25	coord	25	coord
+29	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	30	det	30	det
+30	masse	masse	NC	NC	n=s|g=f	28	dep_coord	28	dep_coord
+31	est	être	V	V	n=s|t=P|p=3	0	_	0	_
+32	très	très	ADV	ADV		33	mod	33	mod
+33	faible	faible	ADJ	ADJ	n=s	31	ats	31	ats
+34	par	par	P	P		31	mod	31	mod
+35	rapport	rapport	NC	NC	n=s|g=m	34	prep	34	prep
+36	à	à	P	P		31	mod	31	mod
+37	la	la	DET	DET	n=s|g=f	38	det	38	det
+38	Terre	_	NPP	NPP		36	prep	36	prep
+39	,	,	PONCT	PONCT		38	ponct	38	ponct
+40	elle	elle	CLS	CLS	n=s|g=f|p=3	42	suj	42	suj
+41	ne	ne	ADV	ADV		42	mod	42	mod
+42	fait	faire	V	V	n=s|t=P|p=3	31	mod	31	mod
+43	qu'	que	CS	CS		42	obj	42	obj
+44	environ	environ	ADV	ADV		0	_	0	_
+45	un	un	DET	DET	n=s|g=m	46	det	46	det
+46	tiers	tiers	NC	NC	g=m	0	_	0	_
+47	de	de	P	P		46	dep	46	dep
+48	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	49	det	49	det
+49	masse	masse	NC	NC	n=s|g=f	47	prep	47	prep
+50	(	(	PONCT	PONCT		49	ponct	49	ponct
+51	0,331	0,331	NC	NC		46	mod	46	mod
+52	fois	fois	NC	NC	g=f	46	mod	46	mod
+53	)	)	PONCT	PONCT		52	ponct	52	ponct
+54	.	.	PONCT	PONCT		52	ponct	52	ponct
+
+1	.	.	PONCT	PONCT		0	ponct	0	ponct
+
+</p><h2>
+1	Vie	vie	NC	NC	n=s|g=f	0	_	0	_
+2	extraterrestre	extraterrestre	ADJ	ADJ	n=s	1	mod	1	mod
+
+</h2><p>
+1	Une	une	DET	DET	n=s|g=f	5	det	5	det
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	voire	voire	CC	CC		1	coord	1	coord
+4	plusieurs	plusieurs	DET	DET	n=p	3	dep_coord	3	dep_coord
+5	planètes	planète	NC	NC	n=p|g=f	11	suj	11	suj
+6	en	en	P	P		5	dep	5	dep
+7	orbite	orbite	NC	NC	n=s|g=f	6	prep	6	prep
+8	autour	autour	NC	NC	n=s|g=m	7	mod	7	mod
+9	de	de	P	P		5	dep	5	dep
+10	TRAPPIST-1	_	NPP	NPP		9	prep	9	prep
+11	pourraient	pouvoir	V	V	n=p|t=C|p=3	0	root	0	root
+12	abriter	abriter	VINF	VINF	t=W	11	obj	11	obj
+13	une	une	DET	DET	n=s|g=f	14	det	14	det
+14	vie	vie	NC	NC	n=s|g=f	12	obj	12	obj
+15	extraterrestre	extraterrestre	ADJ	ADJ	n=s	14	mod	14	mod
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	mais	mais	CC	CC		11	coord	11	coord
+18	en	en	P	P		17	dep_coord	17	dep_coord
+19	raison	raison	NC	NC	n=s|g=f	18	prep	18	prep
+20	de	de	P	P		11	mod	11	mod
+21	la	la	DET	DET	n=s|g=f	22	det	22	det
+22	distance	distance	NC	NC	n=s|g=f	20	prep	20	prep
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	nous	nous	CLS	CLS	n=p|p=1	26	suj	26	suj
+25	ne	ne	ADV	ADV		26	mod	26	mod
+26	pouvons	pouvoir	V	V	n=p|t=P|p=1	11	mod	11	mod
+27	pas	pas	ADV	ADV		26	mod	26	mod
+28	encore	encore	ADV	ADV		26	mod	26	mod
+29	prendre	prendre	VINF	VINF	t=W	26	obj	26	obj
+30	des	des	DET	DET	n=p	31	det	31	det
+31	photos	photo	NC	NC	n=p|g=f	29	obj	29	obj
+32	,	,	PONCT	PONCT		31	ponct	31	ponct
+33	mais	mais	CC	CC		26	coord	26	coord
+34	il	il	CLS	CLS	n=s|g=m|p=3	35	suj	35	suj
+35	est	être	V	V	n=s|t=P|p=3	33	dep_coord	33	dep_coord
+36	possible	possible	ADJ	ADJ	n=s	35	ats	35	ats
+37	de	de	P	P		35	mod	35	mod
+38	savoir	savoir	VINF	VINF	t=W	37	prep	37	prep
+39	que	que	CS	CS		38	obj	38	obj
+40	quoi	quoi	PROREL	PROREL		42	suj	42	suj
+41	est	être	V	V	n=s|t=P|p=3	42	aux_tps	42	aux_tps
+42	faite	faire	VPP	VPP	n=s|g=f|t=K	35	mod	35	mod
+43	l'	le	DET	DET	n=s	44	det	44	det
+44	atmosphère	atmosphère	NC	NC	n=s|g=f	42	mod	42	mod
+45	,	,	PONCT	PONCT		44	ponct	44	ponct
+46	les	les	DET	DET	n=p	55	det	55	det
+47	scientifiques	scientifique	ADJ	ADJ	n=p	55	mod	55	mod
+48	recherchent	rechercher	V	V	n=p|t=P,S|p=3	47	ponct	47	ponct
+49	en	en	P	P		48	mod	48	mod
+50	particulier	particulier	NC	NC	n=s|g=m	49	prep	49	prep
+51	du	de	P+D	P+D	n=s|g=m	48	mod	48	mod
+52	méthane	méthane	NC	NC	n=s|g=m	51	prep	51	prep
+53	,	,	PONCT	PONCT		52	ponct	52	ponct
+54	un	un	DET	DET	n=s|g=m	55	det	55	det
+55	gaz	gaz	NC	NC	g=m	42	mod	42	mod
+56	présent	présent	ADJ	ADJ	n=s|g=m	55	mod	55	mod
+57	en	en	P	P		42	mod	42	mod
+58	petite	petit	ADJ	ADJ	n=s|g=f	59	mod	59	mod
+59	quantité	quantité	NC	NC	n=s|g=f	57	prep	57	prep
+60	sur	sur	P	P		42	mod	42	mod
+61	Terre	_	NPP	NPP		60	prep	60	prep
+62	,	,	PONCT	PONCT		61	ponct	61	ponct
+63	et	et	CC	CC		35	coord	35	coord
+64	la	la	DET	DET	n=s|g=f	67	det	67	det
+65	plus	plus	ADV	ADV		66	mod	66	mod
+66	grande	grand	ADJ	ADJ	n=s|g=f	67	mod	67	mod
+67	partie	partie	NC	NC	n=s|g=f	69	suj	69	suj
+68	est	être	V	V	n=s|t=P|p=3	69	aux_tps	69	aux_tps
+69	produite	produire	VPP	VPP	n=s|g=f|t=K	63	dep_coord	63	dep_coord
+70	par	par	P	P		69	mod	69	mod
+71	des	des	DET	DET	n=p	72	det	72	det
+72	êtres	être	NC	NC	n=p|g=m	70	prep	70	prep
+73	vivants	vivant	ADJ	ADJ	n=p|g=m	72	mod	72	mod
+74	,	,	PONCT	PONCT		73	ponct	73	ponct
+75	mais	mais	CC	CC		69	coord	69	coord
+76	aussi	aussi	ADV	ADV		75	mod	75	mod
+77	de	de	P	P		75	dep_coord	75	dep_coord
+78	l'	le	DET	DET	n=s	79	det	79	det
+79	ozone	ozone	NC	NC	n=s|g=m	77	prep	77	prep
+80	,	,	PONCT	PONCT		79	ponct	79	ponct
+81	également	_	ADV	ADV		82	mod	82	mod
+82	produit	produire	VPP	VPP	n=s|g=m|t=K	79	mod	79	mod
+83	par	par	P	P		82	mod	82	mod
+84	des	des	DET	DET	n=p	85	det	85	det
+85	êtres	être	NC	NC	n=p|g=m	83	prep	83	prep
+86	vivants	vivant	ADJ	ADJ	n=p|g=m	85	mod	85	mod
+87	.	.	PONCT	PONCT		86	ponct	86	ponct
+
+1	Si	si	CS	CS		16	mod	16	mod
+2	on	on	CLS	CLS	n=s|p=3	3	suj	3	suj
+3	trouve	trouver	V	V	n=s|t=P,S|p=1,3	1	sub	1	sub
+4	ces	ces	DET	DET	n=p	5	det	5	det
+5	gaz	gaz	NC	NC	g=m	3	obj	3	obj
+6	dans	dans	P	P		3	mod	3	mod
+7	l'	le	DET	DET	n=s	8	det	8	det
+8	atmosphère	atmosphère	NC	NC	n=s|g=f	6	prep	6	prep
+9	de	de	P	P		3	mod	3	mod
+10	l'	le	DET	DET	n=s	11	det	11	det
+11	une	un	PRO	PRO	n=s|g=f	9	prep	9	prep
+12	des	de	P+D	P+D	n=p	11	dep	11	dep
+13	planètes	planète	NC	NC	n=p|g=f	12	prep	12	prep
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	c'	ce	CLS	CLS		16	suj	16	suj
+16	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+17	que	que	CS	CS		16	obj	16	obj
+18	la	la	DET	DET	n=s|g=f	19	det	19	det
+19	vie	vie	NC	NC	n=s|g=f	20	suj	20	suj
+20	est	être	V	V	n=s|t=P|p=3	17	sub	17	sub
+21	probablement	_	ADV	ADV		20	mod	20	mod
+22	présente	présent	ADJ	ADJ	n=s|g=f	20	ats	20	ats
+23	sur	sur	P	P		20	mod	20	mod
+24	cette	cette	DET	DET	n=s|g=f	25	det	25	det
+25	planète	planète	NC	NC	n=s|g=f	23	prep	23	prep
+26	.	.	PONCT	PONCT		25	ponct	25	ponct
+
+</p><h3>
+1	Probabilité	probabilité	NC	NC	n=s|g=f	0	_	0	_
+2	de	de	P	P		1	dep	1	dep
+3	l'	le	DET	DET	n=s	4	det	4	det
+4	eau	eau	NC	NC	n=s|g=f	2	prep	2	prep
+
+</h3><p>
+1	Des	des	DET	DET	n=p	2	det	2	det
+2	recherches	recherche	NC	NC	n=p|g=f	4	suj	4	suj
+3	ont	avoir	V	V	n=p|t=P|p=3	4	aux_tps	4	aux_tps
+4	permis	permettre	VPP	VPP	g=m|t=K	0	root	0	root
+5	de	de	P	P		4	obj	4	obj
+6	découvrir	découvrir	VINF	VINF	t=W	5	prep	5	prep
+7	que	que	CS	CS		4	mod	4	mod
+8	certaines	certain	DET	DET	n=p|g=f	9	det	9	det
+9	planètes	planète	NC	NC	n=p|g=f	13	suj	13	suj
+10	de	de	P	P		9	dep	9	dep
+11	ce	ce	DET	DET	n=s|g=m	12	det	12	det
+12	système	système	NC	NC	n=s|g=m	10	prep	10	prep
+13	contiendraient	contenir	V	V	n=p|t=C|p=3	7	sub	7	sub
+14	probablement	_	ADV	ADV		13	mod	13	mod
+15	de	de	P	P		13	mod	13	mod
+16	l'	le	DET	DET	n=s	17	det	17	det
+17	eau	eau	NC	NC	n=s|g=f	15	prep	15	prep
+18	liquide	liquide	ADJ	ADJ	n=s	17	mod	17	mod
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	en	en	P	P		13	mod	13	mod
+21	effet	effet	NC	NC	n=s|g=m	20	prep	20	prep
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+23	les	les	DET	DET	n=p	24	det	24	det
+24	planètes	planète	NC	NC	n=p|g=f	13	obj	13	obj
+25	d	_	NPP	NPP		24	mod	24	mod
+26	,	,	PONCT	PONCT		25	ponct	25	ponct
+27	e	_	NPP	NPP		24	mod	24	mod
+28	,	,	PONCT	PONCT		27	ponct	27	ponct
+29	f	_	NPP	NPP		24	mod	24	mod
+30	et	et	CC	CC		24	coord	24	coord
+31	g	gramme	NC	NC	g=m	30	dep_coord	30	dep_coord
+32	auraient	avoir	V	V	n=p|t=C|p=3	24	mod_rel	24	mod_rel
+33	une	une	DET	DET	n=s|g=f	34	det	34	det
+34	masse	masse	NC	NC	n=s|g=f	32	obj	32	obj
+35	similaire	similaire	ADJ	ADJ	n=s	34	mod	34	mod
+36	à	à	P	P		32	mod	32	mod
+37	la	la	DET	DET	n=s|g=f	38	det	38	det
+38	Terre	_	NPP	NPP		36	prep	36	prep
+39	et	et	CC	CC		32	coord	32	coord
+40	sont	être	V	V	n=p|t=P|p=3	41	aux_tps	41	aux_tps
+41	situées	situer	VPP	VPP	n=p|g=f|t=K	39	dep_coord	39	dep_coord
+42	dans	dans	P	P		41	mod	41	mod
+43	la	la	DET	DET	n=s|g=f	44	det	44	det
+44	zone	zone	NC	NC	n=s|g=f	42	prep	42	prep
+45	habitable	habitable	ADJ	ADJ	n=s	44	mod	44	mod
+46	,	,	PONCT	PONCT		45	ponct	45	ponct
+47	c'	ce	DET	DET	n=s|g=m	48	det	48	det
+48	est-à-dire	_	NC	NC		32	obj	32	obj
+49	qu'	que	PROREL	PROREL		51	obj	51	obj
+50	elles	elles	CLS	CLS	n=p|g=f|p=3	51	suj	51	suj
+51	sont	être	V	V	n=p|t=P|p=3	48	mod_rel	48	mod_rel
+52	à	à	P	P		51	mod	51	mod
+53	la	la	DET	DET	n=s|g=f	55	det	55	det
+54	bonne	bon	ADJ	ADJ	n=s|g=f	55	mod	55	mod
+55	distance	distance	NC	NC	n=s|g=f	52	prep	52	prep
+56	de	de	P	P		51	mod	51	mod
+57	leurs	leurs	DET	DET	n=p|p=3|poss=p	58	det	58	det
+58	étoile	étoile	NC	NC	n=s|g=f	56	prep	56	prep
+59	.	.	PONCT	PONCT		58	ponct	58	ponct
+
+1	Elles	elles	CLS	CLS	n=p|g=f|p=3	2	suj	2	suj
+2	pourraient	pouvoir	V	V	n=p|t=C|p=3	0	root	0	root
+3	même	même	ADV	ADV		2	mod	2	mod
+4	contenir	contenir	VINF	VINF	t=W	2	obj	2	obj
+5	beaucoup	beaucoup	ADV	ADV		6	mod	6	mod
+6	plus	plus	ADV	ADV		4	mod	4	mod
+7	d'	de	P	P		4	mod	4	mod
+8	eau	eau	NC	NC	n=s|g=f	7	prep	7	prep
+9	que	que	CS	CS		4	mod	4	mod
+10	sur	sur	P	P		0	_	0	_
+11	Terre	_	NPP	NPP		10	prep	10	prep
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	c'	ce	DET	DET	n=s|g=m	14	det	14	det
+14	est-à-dire	_	NC	NC		0	_	0	_
+15	jusqu'	jusque	P	P		14	dep	14	dep
+16	à	à	P	P		15	prep	15	prep
+17	250	250	NC	NC		16	prep	16	prep
+18	fois	fois	NC	NC	g=f	14	mod	14	mod
+19	plus	plus	ADV	ADV		14	mod	14	mod
+20	que	que	CS	CS		14	mod	14	mod
+21	sur	sur	P	P		20	sub	20	sub
+22	notre	notre	DET	DET	n=s|p=1|poss=p	23	det	23	det
+23	planète	planète	NC	NC	n=s|g=f	21	prep	21	prep
+24	.	.	PONCT	PONCT		23	ponct	23	ponct
+
+1	Cependant	cependant	ADV	ADV		3	mod	3	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	vu	voir	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+4	qu'	que	CS	CS		3	obj	3	obj
+5	on	on	CLS	CLS	n=s|p=3	9	suj	9	suj
+6	n'	ne	ADV	ADV		9	mod	9	mod
+7	a	avoir	V	V	n=s|t=P|p=3	9	aux_tps	9	aux_tps
+8	jamais	jamais	ADV	ADV		9	mod	9	mod
+9	été	être	VPP	VPP	t=K	4	sub	4	sub
+10	sur	sur	P	P		9	mod	9	mod
+11	ces	ces	DET	DET	n=p	12	det	12	det
+12	planètes	planète	NC	NC	n=p|g=f	10	prep	10	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	on	on	CLS	CLS	n=s|p=3	16	suj	16	suj
+15	ne	ne	ADV	ADV		16	mod	16	mod
+16	peux	pouvoir	V	V	n=s|t=P|p=1,2	4	root	4	root
+17	pas	pas	ADV	ADV		16	mod	16	mod
+18	être	être	VINF	VINF	t=W	16	obj	16	obj
+19	sûr	sûr	ADJ	ADJ	n=s|g=m	18	ats	18	ats
+20	de	de	P	P		18	mod	18	mod
+21	la	la	DET	DET	n=s|g=f	22	det	22	det
+22	présence	présence	NC	NC	n=s|g=f	20	prep	20	prep
+23	réelle	réel	ADJ	ADJ	n=s|g=f	22	mod	22	mod
+24	d'	de	P	P		18	mod	18	mod
+25	eau	eau	NC	NC	n=s|g=f	24	prep	24	prep
+26	.	.	PONCT	PONCT		25	ponct	25	ponct
+
+</p><p>
+1	S'	se	CLR	CLR	n=p,s|p=3	4	aff	4	aff
+2	il	il	CLS	CLS	n=s|g=m|p=3	4	suj	4	suj
+3	y	y	CLO	CLO		4	aff	4	aff
+4	a	avoir	V	V	n=s|t=P|p=3	0	root	0	root
+5	de	de	P	P		4	mod	4	mod
+6	l'	le	DET	DET	n=s	7	det	7	det
+7	eau	eau	NC	NC	n=s|g=f	5	prep	5	prep
+8	sur	sur	P	P		4	mod	4	mod
+9	les	les	DET	DET	n=p	10	det	10	det
+10	planètes	planète	NC	NC	n=p|g=f	8	prep	8	prep
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	il	il	CLS	CLS	n=s|g=m|p=3	14	suj	14	suj
+13	y	y	CLO	CLO		14	aff	14	aff
+14	aurait	avoir	V	V	n=s|t=C|p=3	4	mod	4	mod
+15	de	de	DET	DET	n=p	17	det	17	det
+16	grands	grand	ADJ	ADJ	n=p|g=m	17	mod	17	mod
+17	océans	océan	NC	NC	n=p|g=m	14	obj	14	obj
+18	sur	sur	P	P		14	mod	14	mod
+19	les	les	DET	DET	n=p	20	det	20	det
+20	planètes	planète	NC	NC	n=p|g=f	18	prep	18	prep
+21	les	les	DET	DET	n=p	23	det	23	det
+22	plus	plus	ADV	ADV		23	mod	23	mod
+23	centrées	centrer	VPP	VPP	n=p|g=f|t=K	14	mod	14	mod
+24	dans	dans	P	P		23	mod	23	mod
+25	la	la	DET	DET	n=s|g=f	26	det	26	det
+26	zone	zone	NC	NC	n=s|g=f	24	prep	24	prep
+27	habitable	habitable	ADJ	ADJ	n=s	26	mod	26	mod
+28	,	,	PONCT	PONCT		27	ponct	27	ponct
+29	c'	ce	DET	DET	n=s|g=m	30	det	30	det
+30	est-à-dire	_	NC	NC		14	obj	14	obj
+31	sur	sur	P	P		30	dep	30	dep
+32	les	les	DET	DET	n=p	33	det	33	det
+33	planètes	planète	NC	NC	n=p|g=f	31	prep	31	prep
+34	d	_	NPP	NPP		33	mod	33	mod
+35	et	et	CC	CC		34	coord	34	coord
+36	e	_	NPP	NPP		35	dep_coord	35	dep_coord
+37	.	.	PONCT	PONCT		36	ponct	36	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	planètes	planète	NC	NC	n=p|g=f	8	suj	8	suj
+3	f	_	NPP	NPP		2	mod	2	mod
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	g	gramme	NC	NC	g=m	2	mod	2	mod
+6	et	et	CC	CC		2	coord	2	coord
+7	h	heure	NC	NC	g=f	6	dep_coord	6	dep_coord
+8	contiendraient	contenir	V	V	n=p|t=C|p=3	0	root	0	root
+9	également	_	ADV	ADV		8	mod	8	mod
+10	de	de	P	P		8	mod	8	mod
+11	l'	le	DET	DET	n=s	12	det	12	det
+12	eau	eau	NC	NC	n=s|g=f	10	prep	10	prep
+13	à	à	P	P		8	mod	8	mod
+14	l'	le	DET	DET	n=s	15	det	15	det
+15	état	état	NC	NC	n=s|g=m	13	prep	13	prep
+16	solide	solide	ADJ	ADJ	n=s	15	mod	15	mod
+17	car	car	CS	CS		8	mod	8	mod
+18	elle	elle	CLS	CLS	n=s|g=f|p=3	21	suj	21	suj
+19	est	être	V	V	n=s|t=P|p=3	21	aux_pass	21	aux_pass
+20	plutôt	plutôt	ADV	ADV		21	mod	21	mod
+21	éloignée	éloigner	VPP	VPP	n=s|g=f|t=K	17	sub	17	sub
+22	de	de	P	P		21	mod	21	mod
+23	son	son	DET	DET	n=s|g=m|p=3|poss=s	24	det	24	det
+24	étoile	étoile	NC	NC	n=s|g=f	22	prep	22	prep
+25	(	(	PONCT	PONCT		24	ponct	24	ponct
+26	ce	ce	CLS	CLS		27	suj	27	suj
+27	sont	être	V	V	n=p|t=P|p=3	8	mod	8	mod
+28	les	les	DET	DET	n=p	30	det	30	det
+29	plus	plus	ADV	ADV		30	mod	30	mod
+30	éloignées	éloigner	ADJ	ADJ	n=p|g=f|t=K	27	ats	27	ats
+31	du	de	P+D	P+D	n=s|g=m	30	mod	30	mod
+32	système	système	NC	NC	n=s|g=m	31	prep	31	prep
+33	parmi	parmi	P	P		27	mod	27	mod
+34	les	les	DET	DET	n=p	35	det	35	det
+35	planètes	planète	NC	NC	n=p|g=f	33	prep	33	prep
+36	que	que	PROREL	PROREL		39	obj	39	obj
+37	l'	le	DET	DET	n=s	38	det	38	det
+38	on	on	CLS	CLS	n=s|p=3	39	suj	39	suj
+39	connaît	connaître	V	V	n=s|t=P|p=3	35	mod_rel	35	mod_rel
+40	)	)	PONCT	PONCT		39	ponct	39	ponct
+41	et	et	CC	CC		27	coord	27	coord
+42	il	il	CLS	CLS	n=s|g=m|p=3	44	suj	44	suj
+43	y	y	CLO	CLO		44	obj	44	obj
+44	aurait	avoir	V	V	n=s|t=C|p=3	41	dep_coord	41	dep_coord
+45	donc	donc	ADV	ADV		44	mod	44	mod
+46	beaucoup	beaucoup	ADV	ADV		44	mod	44	mod
+47	de	de	P	P		44	mod	44	mod
+48	glace	glace	NC	NC	n=s|g=f	47	prep	47	prep
+49	.	.	PONCT	PONCT		48	ponct	48	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	planètes	planète	NC	NC	n=p|g=f	6	suj	6	suj
+3	b	_	NPP	NPP		2	mod	2	mod
+4	et	et	CC	CC		2	coord	2	coord
+5	c	_	NPP	NPP		4	dep_coord	4	dep_coord
+6	contiendraient	contenir	V	V	n=p|t=C|p=3	0	root	0	root
+7	de	de	P	P		6	mod	6	mod
+8	l'	le	DET	DET	n=s	9	det	9	det
+9	eau	eau	NC	NC	n=s|g=f	7	prep	7	prep
+10	à	à	P	P		6	mod	6	mod
+11	l'	le	DET	DET	n=s	12	det	12	det
+12	état	état	NC	NC	n=s|g=m	10	prep	10	prep
+13	de	de	P	P		12	dep	12	dep
+14	vapeur	vapeur	NC	NC	n=s	13	prep	13	prep
+15	vu	voir	VPP	VPP	n=s|g=m|t=K	14	mod	14	mod
+16	que	que	CS	CS		6	mod	6	mod
+17	ces	ces	DET	DET	n=p	18	det	18	det
+18	planètes	planète	NC	NC	n=p|g=f	19	suj	19	suj
+19	sont	être	V	V	n=p|t=P|p=3	16	sub	16	sub
+20	très	très	ADV	ADV		19	mod	19	mod
+21	proches	proche	ADJ	ADJ	n=p	19	ats	19	ats
+22	de	de	P	P		19	mod	19	mod
+23	leur	leur	DET	DET	n=s|p=3|poss=p	24	det	24	det
+24	étoile	étoile	NC	NC	n=s|g=f	22	prep	22	prep
+25	(	(	PONCT	PONCT		24	ponct	24	ponct
+26	ce	ce	CLS	CLS		27	suj	27	suj
+27	sont	être	V	V	n=p|t=P|p=3	6	mod	6	mod
+28	les	les	DET	DET	n=p	29	det	29	det
+29	planètes	planète	NC	NC	n=p|g=f	27	obj	27	obj
+30	les	les	DET	DET	n=p	32	det	32	det
+31	plus	plus	ADV	ADV		32	mod	32	mod
+32	proches	proche	ADJ	ADJ	n=p	29	mod	29	mod
+33	)	)	PONCT	PONCT		32	ponct	32	ponct
+34	et	et	CC	CC		27	coord	27	coord
+35	il	il	CLS	CLS	n=s|g=m|p=3	37	suj	37	suj
+36	y	y	CLO	CLO		37	obj	37	obj
+37	aurait	avoir	V	V	n=s|t=C|p=3	34	dep_coord	34	dep_coord
+38	donc	donc	ADV	ADV		37	mod	37	mod
+39	beaucoup	beaucoup	ADV	ADV		37	mod	37	mod
+40	de	de	P	P		37	mod	37	mod
+41	vapeur	vapeur	NC	NC	n=s	40	prep	40	prep
+42	d'	de	P	P		37	mod	37	mod
+43	eau	eau	NC	NC	n=s|g=f	42	prep	42	prep
+44	.	.	PONCT	PONCT		43	ponct	43	ponct
+
+</p><h3>
+1	Un	un	DET	DET	n=s|g=m	2	det	2	det
+2	voyage	voyage	NC	NC	n=s|g=m	0	_	0	_
+3	vers	vers	P	P		2	dep	2	dep
+4	TRAPPIST-1	_	NC	NC		3	prep	3	prep
+5	?	?	PONCT	PONCT		4	ponct	4	ponct
+
+</h3><p>
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	étoile	étoile	NC	NC	n=s|g=f	4	suj	4	suj
+3	est	être	V	V	n=s|t=P|p=3	4	aux_pass	4	aux_pass
+4	située	situer	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+5	à	à	P	P		4	mod	4	mod
+6	39	39	NC	NC		5	prep	5	prep
+7	années-lumière	_	NC	NC		6	mod	6	mod
+8	de	de	P	P		4	mod	4	mod
+9	la	la	DET	DET	n=s|g=f	10	det	10	det
+10	Terre	_	NPP	NPP		8	prep	8	prep
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	cela	cela	PRO	PRO	n=s|g=m	4	mod	4	mod
+13	veut	vouloir	V	V	n=s|t=P|p=3	0	_	0	_
+14	dire	dire	VINF	VINF	t=W	13	obj	13	obj
+15	que	que	CS	CS		14	obj	14	obj
+16	la	la	DET	DET	n=s|g=f	17	det	17	det
+17	lumière	lumière	NC	NC	n=s|g=f	21	suj	21	suj
+18	de	de	P	P		17	dep	17	dep
+19	la	la	DET	DET	n=s|g=f	20	det	20	det
+20	Terre	_	NPP	NPP		18	prep	18	prep
+21	met	mettre	V	V	n=s|t=P|p=3	15	sub	15	sub
+22	39	39	ADJ	ADJ		23	mod	23	mod
+23	ans	an	NC	NC	n=p|g=m	21	obj	21	obj
+24	pour	pour	P	P		21	mod	21	mod
+25	arriver	arriver	VINF	VINF	t=W	24	prep	24	prep
+26	à	à	P	P		25	mod	25	mod
+27	l'	le	DET	DET	n=s	28	det	28	det
+28	étoile	étoile	NC	NC	n=s|g=f	26	prep	26	prep
+29	et	et	CC	CC		15	coord	15	coord
+30	que	que	CS	CS		29	dep_coord	29	dep_coord
+31	vu	voir	VPP	VPP	n=s|g=m|t=K	30	sub	30	sub
+32	que	que	CS	CS		31	mod	31	mod
+33	la	la	DET	DET	n=s|g=f	34	det	34	det
+34	lumière	lumière	NC	NC	n=s|g=f	35	suj	35	suj
+35	a	avoir	V	V	n=s|t=P|p=3	32	sub	32	sub
+36	une	une	DET	DET	n=s|g=f	37	det	37	det
+37	vitesse	vitesse	NC	NC	n=s|g=f	35	obj	35	obj
+38	d'	de	P	P		35	mod	35	mod
+39	environ	environ	ADV	ADV		40	mod	40	mod
+40	300_000	300_000	ADJ	ADJ		41	mod	41	mod
+41	km	kilomètre	NC	NC	g=m	38	prep	38	prep
+42	/	/	PONCT	PONCT		41	ponct	41	ponct
+43	s	_	NPP	NPP		35	mod	35	mod
+44	,	,	PONCT	PONCT		43	ponct	43	ponct
+45	soit	soit	CC	CC		14	coord	14	coord
+46	1_080_000_000	1_080_000_000	ADJ	ADJ		47	mod	47	mod
+47	km	kilomètre	NC	NC	g=m	45	dep_coord	45	dep_coord
+48	/	/	PONCT	PONCT		47	ponct	47	ponct
+49	h	heure	NC	NC	g=f	47	mod	47	mod
+50	,	,	PONCT	PONCT		49	ponct	49	ponct
+51	si	si	CS	CS		13	mod	13	mod
+52	on	on	CLS	CLS	n=s|p=3	53	suj	53	suj
+53	va	aller	V	V	n=s|t=P|p=3	51	sub	51	sub
+54	à	à	P	P		53	mod	53	mod
+55	cette	cette	DET	DET	n=s|g=f	56	det	56	det
+56	vitesse	vitesse	NC	NC	n=s|g=f	54	prep	54	prep
+57	en	en	P	P		53	mod	53	mod
+58	direction	direction	NC	NC	n=s|g=f	57	prep	57	prep
+59	de	de	P	P		53	mod	53	mod
+60	TRAPPIST-1	_	NPP	NPP		59	prep	59	prep
+61	,	,	PONCT	PONCT		60	ponct	60	ponct
+62	le	le	DET	DET	n=s|g=m	63	det	63	det
+63	voyage	voyage	NC	NC	n=s|g=m	53	mod	53	mod
+64	durerait	durer	V	V	n=s|t=C|p=3	51	root	51	root
+65	39	39	ADJ	ADJ		66	mod	66	mod
+66	ans	an	NC	NC	n=p|g=m	64	obj	64	obj
+67	.	.	PONCT	PONCT		66	ponct	66	ponct
+
+1	En	en	P	P		6	mod	6	mod
+2	2019	2019	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	il	il	CLS	CLS	n=s|g=m|p=3	6	suj	6	suj
+5	n'	ne	ADV	ADV		6	mod	6	mod
+6	existe	exister	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+7	pas	pas	ADV	ADV		6	mod	6	mod
+8	de	de	P	P		6	mod	6	mod
+9	véhicule	véhicule	NC	NC	n=s|g=m	8	prep	8	prep
+10	spatial	spatial	ADJ	ADJ	n=s|g=m	9	mod	9	mod
+11	qui	qui	PROREL	PROREL	n=s	12	suj	12	suj
+12	va	aller	V	V	n=s|t=P|p=3	9	mod_rel	9	mod_rel
+13	à	à	P	P		12	mod	12	mod
+14	la	la	DET	DET	n=s|g=f	15	det	15	det
+15	vitesse	vitesse	NC	NC	n=s|g=f	13	prep	13	prep
+16	de	de	P	P		12	mod	12	mod
+17	la	la	DET	DET	n=s|g=f	18	det	18	det
+18	lumière	lumière	NC	NC	n=s|g=f	16	prep	16	prep
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	donc	donc	ADV	ADV		12	mod	12	mod
+21	pour	pour	P	P		12	mod	12	mod
+22	y	y	CLO	CLO		23	aff	23	aff
+23	aller	aller	VINF	VINF	t=W	21	prep	21	prep
+24	,	,	PONCT	PONCT		23	ponct	23	ponct
+25	le	le	DET	DET	n=s|g=m	26	det	26	det
+26	voyage	voyage	NC	NC	n=s|g=m	27	suj	27	suj
+27	prendrait	prendre	V	V	n=s|t=C|p=3	6	mod	6	mod
+28	beaucoup	beaucoup	ADV	ADV		27	mod	27	mod
+29	trop	trop	ADV	ADV		27	mod	27	mod
+30	de	de	P	P		27	mod	27	mod
+31	temps	temps	NC	NC	g=m	30	prep	30	prep
+32	pour	pour	P	P		27	mod	27	mod
+33	survivre	survivre	VINF	VINF	t=W	32	prep	32	prep
+34	jusqu'	jusque	P	P		33	mod	33	mod
+35	à	à	P	P		34	dep	34	dep
+36	la	la	DET	DET	n=s|g=f	37	det	37	det
+37	fin	fin	NC	NC	n=s	35	prep	35	prep
+38	du	de	P+D	P+D	n=s|g=m	37	dep	37	dep
+39	voyage	voyage	NC	NC	n=s|g=m	38	prep	38	prep
+40	.	.	PONCT	PONCT		39	ponct	39	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	aussi	aussi	ADV	ADV		2	mod	2	mod
+4	possible	possible	ADJ	ADJ	n=s	2	ats	2	ats
+5	d'	de	P	P		2	mod	2	mod
+6	envoyer	envoyer	VINF	VINF	t=W	5	prep	5	prep
+7	des	des	DET	DET	n=p	8	det	8	det
+8	sondes	sonde	NC	NC	n=p|g=f	6	obj	6	obj
+9	jusqu'	jusque	P	P		6	mod	6	mod
+10	à	à	P	P		9	prep	9	prep
+11	l'	le	DET	DET	n=s	12	det	12	det
+12	étoile	étoile	NC	NC	n=s|g=f	10	prep	10	prep
+13	et	et	CC	CC		2	coord	2	coord
+14	aux	à	P+D	P+D	n=p	13	dep_coord	13	dep_coord
+15	exoplanètes	_	NC	NC		14	prep	14	prep
+16	afin	_	ADV	ADV		2	mod	2	mod
+17	de	de	P	P		2	mod	2	mod
+18	voir	voir	VINF	VINF	t=W	17	prep	17	prep
+19	à	à	P	P		18	mod	18	mod
+20	quoi	quoi	PROREL	PROREL		19	prep	19	prep
+21	elles	elles	CLS	CLS	n=p|g=f|p=3	22	suj	22	suj
+22	ressemblent	ressembler	V	V	n=p|t=P,S|p=3	2	mod	2	mod
+23	réellement	_	ADV	ADV		22	mod	22	mod
+24	,	,	PONCT	PONCT		23	ponct	23	ponct
+25	mais	mais	CC	CC		2	coord	2	coord
+26	la	la	DET	DET	n=s|g=f	27	det	27	det
+27	sonde	sonde	NC	NC	n=s|g=f	33	suj	33	suj
+28	la	la	DET	DET	n=s|g=f	30	det	30	det
+29	plus	plus	ADV	ADV		30	mod	30	mod
+30	rapide	rapide	ADJ	ADJ	n=s	27	mod	27	mod
+31	jamais	jamais	ADV	ADV		32	mod	32	mod
+32	inventée	inventer	VPP	VPP	n=s|g=f|t=K	27	mod	27	mod
+33	va	aller	V	V	n=s|t=P|p=3	25	dep_coord	25	dep_coord
+34	à	à	P	P		33	mod	33	mod
+35	la	la	DET	DET	n=s|g=f	36	det	36	det
+36	vitesse	vitesse	NC	NC	n=s|g=f	34	prep	34	prep
+37	de	de	P	P		33	mod	33	mod
+38	51_000	51_000	ADJ	ADJ		39	mod	39	mod
+39	km	kilomètre	NC	NC	g=m	37	prep	37	prep
+40	/	/	PONCT	PONCT		39	ponct	39	ponct
+41	h	heure	NC	NC	g=f	33	mod	33	mod
+42	(	(	PONCT	PONCT		41	ponct	41	ponct
+43	il	il	CLS	CLS	n=s|g=m|p=3	45	suj	45	suj
+44	s'	se	CLR	CLR	n=p,s|p=3	45	aff	45	aff
+45	agit	agir	V	V	n=s|t=J,P|p=3	2	mod	2	mod
+46	de	de	P	P		45	mod	45	mod
+47	New	_	NPP	NPP		46	prep	46	prep
+48	Horizons	_	NPP	NPP		47	mod	47	mod
+49	)	)	PONCT	PONCT		48	ponct	48	ponct
+50	et	et	CC	CC		45	coord	45	coord
+51	il	il	CLS	CLS	n=s|g=m|p=3	52	suj	52	suj
+52	faudrait	falloir	V	V	n=s|t=C|p=3	50	dep_coord	50	dep_coord
+53	donc	donc	ADV	ADV		52	mod	52	mod
+54	environ	environ	ADV	ADV		52	mod	52	mod
+55	817_000	817_000	ADJ	ADJ		56	mod	56	mod
+56	ans	an	NC	NC	n=p|g=m	52	obj	52	obj
+57	,	,	PONCT	PONCT		56	ponct	56	ponct
+58	soit	soit	CC	CC		56	coord	56	coord
+59	8_170	8_170	ADJ	ADJ		60	mod	60	mod
+60	siècles	siècle	NC	NC	n=p|g=m	58	dep_coord	58	dep_coord
+61	pour	pour	P	P		52	mod	52	mod
+62	atteindre	atteindre	VINF	VINF	t=W	61	prep	61	prep
+63	le	le	DET	DET	n=s|g=m	64	det	64	det
+64	système	système	NC	NC	n=s|g=m	62	obj	62	obj
+65	planétaire	planétaire	ADJ	ADJ	n=s	64	mod	64	mod
+66	.	.	PONCT	PONCT		65	ponct	65	ponct
+
+</p><h2>
+1	Notes	note	NC	NC	n=p|g=f	0	_	0	_
+2	et	et	CC	CC		1	coord	1	coord
+3	références	référence	NC	NC	n=p|g=f	2	dep_coord	2	dep_coord
+
+</h2>
+1	cette	cette	DET	DET	n=s|g=f	2	det	2	det
+2	page	page	NC	NC	n=s	6	suj	6	suj
+3	a	avoir	V	V	n=s|t=P|p=3	6	aux_tps	6	aux_tps
+4	été	être	VPP	VPP	t=K	6	aux_pass	6	aux_pass
+5	partiellement	_	ADV	ADV		6	mod	6	mod
+6	adaptée	adapter	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+7	de	de	P	P		6	mod	6	mod
+8	la	la	DET	DET	n=s|g=f	9	det	9	det
+9	page	page	NC	NC	n=s	7	prep	7	prep
+10	TRAPPIST-1	_	NPP	NPP		9	mod	9	mod
+11	de	de	P	P		6	mod	6	mod
+12	Wikipédia	Wikipedia	NPP	NPP	n=s|g=f	11	prep	11	prep
+13	.	.	PONCT	PONCT		12	ponct	12	ponct
+

@@ -1,0 +1,4944 @@
+<p>
+1	Saturn	Saturn	NPP	NPP	n=s|g=m	3	suj	3	suj
+2	V	_	NPP	NPP		1	mod	1	mod
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	une	une	DET	DET	n=s|g=f	5	det	5	det
+5	fusée	fusée	NC	NC	n=s|g=f	3	obj	3	obj
+6	développée	développer	VPP	VPP	n=s|g=f|t=K	5	mod	5	mod
+7	par	par	P	P		6	mod	6	mod
+8	la	la	DET	DET	n=s|g=f	9	det	9	det
+9	NASA	_	NPP	NPP		7	prep	7	prep
+10	dans	dans	P	P		6	mod	6	mod
+11	les	les	DET	DET	n=p	12	det	12	det
+12	années	année	NC	NC	n=p|g=f	10	prep	10	prep
+13	1960	1960	NC	NC		12	mod	12	mod
+14	pour	pour	P	P		6	mod	6	mod
+15	le	le	DET	DET	n=s|g=m	16	det	16	det
+16	programme	programme	NC	NC	n=s|g=m	14	prep	14	prep
+17	spatial	spatial	ADJ	ADJ	n=s|g=m	16	mod	16	mod
+18	Apollo	Apollo	NPP	NPP	n=s|g=m	16	mod	16	mod
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	Saturn	Saturn	NPP	NPP	n=s|g=m	5	suj	5	suj
+2	V	_	NPP	NPP		1	mod	1	mod
+3	a	avoir	V	V	n=s|t=P|p=3	5	aux_tps	5	aux_tps
+4	été	être	VPP	VPP	t=K	5	aux_pass	5	aux_pass
+5	utilisée	utiliser	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+6	sans	sans	P	P		5	mod	5	mod
+7	aucun	aucun	DET	DET	n=s|g=m	8	det	8	det
+8	échec	échec	NC	NC	n=s|g=m	6	prep	6	prep
+9	entre	entre	P	P		5	mod	5	mod
+10	1967	1967	NC	NC		9	prep	9	prep
+11	(	(	PONCT	PONCT		10	ponct	10	ponct
+12	Apollo	Apollo	NPP	NPP	n=s|g=m	5	mod	5	mod
+13	4	4	NC	NC		12	mod	12	mod
+14	)	)	PONCT	PONCT		13	ponct	13	ponct
+15	et	et	CC	CC		5	coord	5	coord
+16	1973	1973	NC	NC		0	_	0	_
+17	(	(	PONCT	PONCT		16	ponct	16	ponct
+18	Skylab	_	NPP	NPP		16	mod	16	mod
+19	1	1	NC	NC		18	mod	18	mod
+20	)	)	PONCT	PONCT		19	ponct	19	ponct
+21	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+1	Saturn	Saturn	NPP	NPP	n=s|g=m	3	suj	3	suj
+2	V	_	NPP	NPP		1	mod	1	mod
+3	pèse	peser	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	3_038	3_038	ADJ	ADJ		5	mod	5	mod
+5	tonnes	tonne	NC	NC	n=p|g=f	3	obj	3	obj
+6	et	et	CC	CC		5	coord	5	coord
+7	mesure	mesure	NC	NC	n=s|g=f	6	dep_coord	6	dep_coord
+8	110,6	110,6	ADJ	ADJ		7	mod	7	mod
+9	mètres	mètre	NC	NC	n=p|g=m	5	mod	5	mod
+10	de	de	P	P		5	dep	5	dep
+11	haut	haut	NC	NC	n=s|g=m	10	prep	10	prep
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+1	Son	son	DET	DET	n=s|g=m|p=3|poss=s	3	det	3	det
+2	premier	premier	ADJ	ADJ	n=s|g=m	3	mod	3	mod
+3	vol	vol	NC	NC	n=s|g=m	5	suj	5	suj
+4	a	avoir	V	V	n=s|t=P|p=3	5	aux_tps	5	aux_tps
+5	eu	avoir	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+6	lieu	lieu	NC	NC	n=s|g=m	5	obj	5	obj
+7	le	le	DET	DET	n=s|g=m	9	det	9	det
+8	9	9	ADJ	ADJ		9	mod	9	mod
+9	novembre	novembre	NC	NC	n=s|g=m	5	mod	5	mod
+10	1967	1967	NC	NC		9	mod	9	mod
+11	(	(	PONCT	PONCT		10	ponct	10	ponct
+12	Apollo	Apollo	NPP	NPP	n=s|g=m	9	mod	9	mod
+13	4	4	NC	NC		12	mod	12	mod
+14	)	)	PONCT	PONCT		13	ponct	13	ponct
+15	et	et	CC	CC		5	coord	5	coord
+16	le	le	DET	DET	n=s|g=m	17	det	17	det
+17	dernier	dernier	ADJ	ADJ	n=s|g=m	15	dep_coord	15	dep_coord
+18	a	avoir	V	V	n=s|t=P|p=3	19	aux_tps	19	aux_tps
+19	eu	avoir	VPP	VPP	n=s|g=m|t=K	5	mod	5	mod
+20	lieu	lieu	NC	NC	n=s|g=m	19	mod	19	mod
+21	le	le	DET	DET	n=s|g=m	23	det	23	det
+22	14	14	ADJ	ADJ		23	mod	23	mod
+23	mai	mai	NC	NC	n=s|g=m	19	mod	19	mod
+24	1973	1973	NC	NC		23	mod	23	mod
+25	(	(	PONCT	PONCT		24	ponct	24	ponct
+26	Skylab	_	NPP	NPP		5	mod	5	mod
+27	1	1	NC	NC		26	mod	26	mod
+28	)	)	PONCT	PONCT		27	ponct	27	ponct
+29	.	.	PONCT	PONCT		27	ponct	27	ponct
+
+</p><h2>
+1	Histoire	histoire	NC	NC	n=s|g=f	0	_	0	_
+
+</h2><h3>
+1	Une	une	DET	DET	n=s|g=f	2	det	2	det
+2	fusée	fusée	NC	NC	n=s|g=f	0	_	0	_
+3	pour	pour	P	P		2	dep	2	dep
+4	des	des	DET	DET	n=p	5	det	5	det
+5	satellites	satellite	NC	NC	n=p|g=m	3	prep	3	prep
+6	militaires	militaire	ADJ	ADJ	n=p	5	mod	5	mod
+
+</h3><p>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	débuts	début	NC	NC	n=p|g=m	9	suj	9	suj
+3	de	de	P	P		2	dep	2	dep
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	famille	famille	NC	NC	n=s|g=f	3	prep	3	prep
+6	des	de	P+D	P+D	n=p	2	dep	2	dep
+7	fusées	fusée	NC	NC	n=p|g=f	6	prep	6	prep
+8	Saturn	Saturn	NPP	NPP	n=s|g=m	7	mod	7	mod
+9	commencent	commencer	V	V	n=p|t=P,S|p=3	0	root	0	root
+10	par	par	P	P		9	mod	9	mod
+11	le	le	DET	DET	n=s|g=m	12	det	12	det
+12	Département	département	NC	NC	n=s|g=m	10	prep	10	prep
+13	de	de	P	P		9	mod	9	mod
+14	la	la	DET	DET	n=s|g=f	15	det	15	det
+15	Défense	_	NPP	NPP		13	prep	13	prep
+16	(	(	PONCT	PONCT		15	ponct	15	ponct
+17	DOD	_	NPP	NPP		15	mod	15	mod
+18	)	)	PONCT	PONCT		17	ponct	17	ponct
+19	américain	américain	ADJ	ADJ	n=s|g=m	15	mod	15	mod
+20	qui	qui	PROREL	PROREL	n=s	21	suj	21	suj
+21	a	avoir	V	V	n=s|t=P|p=3	9	mod	9	mod
+22	besoin	besoin	NC	NC	n=s|g=m	21	obj	21	obj
+23	d'	de	P	P		21	mod	21	mod
+24	une	une	DET	DET	n=s|g=f	25	det	25	det
+25	fusée	fusée	NC	NC	n=s|g=f	23	prep	23	prep
+26	lourde	lourd	ADJ	ADJ	n=s|g=f	25	mod	25	mod
+27	:	:	PONCT	PONCT		26	ponct	26	ponct
+28	elle	elle	CLS	CLS	n=s|g=f|p=3	29	suj	29	suj
+29	doit	devoir	V	V	n=s|t=P|p=3	9	mod	9	mod
+30	permettre	permettre	VINF	VINF	t=W	29	obj	29	obj
+31	de	de	P	P		30	mod	30	mod
+32	placer	placer	VINF	VINF	t=W	31	prep	31	prep
+33	en	en	P	P		32	mod	32	mod
+34	orbite	orbite	NC	NC	n=s|g=f	33	prep	33	prep
+35	basse	bas	ADJ	ADJ	n=s|g=f	34	mod	34	mod
+36	des	de	P+D	P+D	n=p	32	mod	32	mod
+37	satellites	satellite	NC	NC	n=p|g=m	36	prep	36	prep
+38	de	de	P	P		37	dep	37	dep
+39	reconnaissance	reconnaissance	NC	NC	n=s|g=f	38	prep	38	prep
+40	et	et	CC	CC		31	coord	31	coord
+41	de	de	P	P		40	dep_coord	40	dep_coord
+42	télécommunications	télécommunication	NC	NC	n=p|g=f	41	prep	41	prep
+43	pesant	peser	VPR	VPR	t=G	30	mod	30	mod
+44	jusqu'	jusque	P	P		43	mod	43	mod
+45	à	à	P	P		44	dep	44	dep
+46	20	20	ADJ	ADJ		47	mod	47	mod
+47	tonnes	tonne	NC	NC	n=p|g=f	45	prep	45	prep
+48	.	.	PONCT	PONCT		47	ponct	47	ponct
+
+1	À	à	P	P		15	mod	15	mod
+2	cette	cette	DET	DET	n=s|g=f	3	det	3	det
+3	époque	époque	NC	NC	n=s|g=f	1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	les	les	DET	DET	n=p	6	det	6	det
+6	fusées	fusée	NC	NC	n=p|g=f	15	suj	15	suj
+7	américaines	américain	ADJ	ADJ	n=p|g=f	6	mod	6	mod
+8	les	les	DET	DET	n=p	10	det	10	det
+9	plus	plus	ADV	ADV		10	mod	10	mod
+10	puissantes	puissant	ADJ	ADJ	n=p|g=f	6	mod	6	mod
+11	en	en	P	P		6	dep	6	dep
+12	cours	cour	NC	NC	n=p|g=f	11	prep	11	prep
+13	de	de	P	P		12	dep	12	dep
+14	développement	développement	NC	NC	n=s|g=m	13	prep	13	prep
+15	peuvent	pouvoir	V	V	n=p|t=P|p=3	0	root	0	root
+16	tout	tout	ADV	ADV		15	mod	15	mod
+17	au	à	P+D	P+D	n=s|g=m	15	mod	15	mod
+18	plus	plus	ADV	ADV		19	mod	19	mod
+19	lancer	lancer	VINF	VINF	t=W	15	obj	15	obj
+20	1,5	1,5	ADJ	ADJ		21	mod	21	mod
+21	tonne	tonne	NC	NC	n=s|g=f	19	obj	19	obj
+22	en	en	P	P		19	mod	19	mod
+23	orbite	orbite	NC	NC	n=s|g=f	22	prep	22	prep
+24	basse	bas	ADJ	ADJ	n=s|g=f	23	mod	23	mod
+25	,	,	PONCT	PONCT		24	ponct	24	ponct
+26	car	car	CS	CS		15	mod	15	mod
+27	elles	elles	CLS	CLS	n=p|g=f|p=3	28	suj	28	suj
+28	sont	être	V	V	n=p|t=P|p=3	26	sub	26	sub
+29	originaires	originaire	ADJ	ADJ	n=p	28	ats	28	ats
+30	de	de	P	P		28	mod	28	mod
+31	missiles	missile	NC	NC	n=p|g=m	30	prep	30	prep
+32	balistiques	balistique	ADJ	ADJ	n=p	31	mod	31	mod
+33	beaucoup	beaucoup	ADV	ADV		34	mod	34	mod
+34	plus	plus	ADV	ADV		35	mod	35	mod
+35	légers	léger	ADJ	ADJ	n=p|g=m	31	mod	31	mod
+36	.	.	PONCT	PONCT		35	ponct	35	ponct
+
+1	En	en	P	P		19	mod	19	mod
+2	1957	1957	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	Wernher	_	NPP	NPP		19	suj	19	suj
+5	von	_	NPP	NPP		4	mod	4	mod
+6	Braun	_	NPP	NPP		4	mod	4	mod
+7	et	et	CC	CC		4	coord	4	coord
+8	son	son	DET	DET	n=s|g=m|p=3|poss=s	9	det	9	det
+9	équipe	équipe	NC	NC	n=s|g=f	7	dep_coord	7	dep_coord
+10	d'	de	P	P		9	dep	9	dep
+11	ingénieurs	ingénieur	NC	NC	n=p|g=m	10	prep	10	prep
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	venus	venir	VPP	VPP	n=p|g=m|t=K	4	mod	4	mod
+14	comme	comme	P	P		13	mod	13	mod
+15	lui	lui	PRO	PRO	n=s|g=m|p=3	14	prep	14	prep
+16	d'	de	P	P		13	mod	13	mod
+17	Allemagne	Allemagne	NPP	NPP	n=s|g=f	16	prep	16	prep
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	travaillent	travailler	V	V	n=p|t=P,S|p=3	0	root	0	root
+20	à	à	P	P		19	mod	19	mod
+21	la	la	DET	DET	n=s|g=f	22	det	22	det
+22	mise	mise	NC	NC	n=s|g=f	20	prep	20	prep
+23	au	à	P+D	P+D	n=s|g=m	19	mod	19	mod
+24	point	point	NC	NC	n=s|g=m	23	prep	23	prep
+25	des	de	P+D	P+D	n=p	19	mod	19	mod
+26	missiles	missile	NC	NC	n=p|g=m	25	prep	25	prep
+27	intercontinentaux	intercontinental	ADJ	ADJ	n=p|g=m	26	mod	26	mod
+28	Redstone	_	NPP	NPP		26	mod	26	mod
+29	et	et	CC	CC		19	coord	19	coord
+30	Jupiter	Jupiter	NPP	NPP	n=s|g=m	29	dep_coord	29	dep_coord
+31	au	à	P+D	P+D	n=s|g=m	19	mod	19	mod
+32	sein	sein	NC	NC	n=s|g=m	31	prep	31	prep
+33	de	de	P	P		19	mod	19	mod
+34	l'	le	DET	DET	n=s	35	det	35	det
+35	Army	_	NPP	NPP		33	prep	33	prep
+36	Ballistic	_	NPP	NPP		35	mod	35	mod
+37	Missile	_	NPP	NPP		35	mod	35	mod
+38	Agency	_	NPP	NPP		35	mod	35	mod
+39	(	(	PONCT	PONCT		38	ponct	38	ponct
+40	ABMA	_	NPP	NPP		35	mod	35	mod
+41	)	)	PONCT	PONCT		40	ponct	40	ponct
+42	,	,	PONCT	PONCT		40	ponct	40	ponct
+43	un	un	DET	DET	n=s|g=m	44	det	44	det
+44	service	service	NC	NC	n=s|g=m	19	obj	19	obj
+45	de	de	P	P		44	dep	44	dep
+46	l'	le	DET	DET	n=s	47	det	47	det
+47	Armée	armée	NC	NC	n=s|g=f	45	prep	45	prep
+48	de	de	P	P		47	dep	47	dep
+49	Terre	_	NPP	NPP		48	prep	48	prep
+50	situé	situer	VPP	VPP	n=s|g=m|t=K	44	mod	44	mod
+51	à	à	P	P		50	mod	50	mod
+52	Huntsville	_	NPP	NPP		51	prep	51	prep
+53	(	(	PONCT	PONCT		52	ponct	52	ponct
+54	Alabama	Alabama	NPP	NPP	n=s|g=m	52	mod	52	mod
+55	)	)	PONCT	PONCT		54	ponct	54	ponct
+56	.	.	PONCT	PONCT		54	ponct	54	ponct
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	3	suj	3	suj
+2	lui	lui	CLO	CLO	n=s|p=3	3	a_obj	3	a_obj
+3	demande	demander	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	de	de	P	P		3	obj	3	obj
+5	concevoir	concevoir	VINF	VINF	t=W	4	prep	4	prep
+6	une	une	DET	DET	n=s|g=f	7	det	7	det
+7	fusée	fusée	NC	NC	n=s|g=f	5	obj	5	obj
+8	capable	capable	ADJ	ADJ	n=s	7	mod	7	mod
+9	de	de	P	P		3	mod	3	mod
+10	répondre	répondre	VINF	VINF	t=W	9	prep	9	prep
+11	à	à	P	P		10	mod	10	mod
+12	la	la	DET	DET	n=s|g=f	13	det	13	det
+13	demande	demande	NC	NC	n=s|g=f	11	prep	11	prep
+14	du	de	P+D	P+D	n=s|g=m	13	dep	13	dep
+15	DOD	_	NPP	NPP		14	prep	14	prep
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+1	Von	_	NPP	NPP		3	suj	3	suj
+2	Braun	_	NPP	NPP		1	mod	1	mod
+3	propose	proposer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	un	un	DET	DET	n=s|g=m	5	det	5	det
+5	engin	engin	NC	NC	n=s|g=m	3	obj	3	obj
+6	qu'	que	PROREL	PROREL		29	obj	29	obj
+7	il	il	CLS	CLS	n=s|g=m|p=3	29	suj	29	suj
+8	baptise	_	NPP	NPP		29	suj	29	suj
+9	"	"	PONCT	PONCT		8	ponct	8	ponct
+10	Super-Jupiter	_	NPP	NPP		8	mod	8	mod
+11	"	"	PONCT	PONCT		10	ponct	10	ponct
+12	,	,	PONCT	PONCT		10	ponct	10	ponct
+13	dont	dont	PROREL	PROREL		29	mod	29	mod
+14	le	le	DET	DET	n=s|g=m	16	det	16	det
+15	premier	premier	ADJ	ADJ	n=s|g=m	16	mod	16	mod
+16	étage	étage	NC	NC	n=s|g=m	29	suj	29	suj
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	constitué	constituer	VPP	VPP	n=s|g=m|t=K	16	mod	16	mod
+19	de	de	P	P		18	mod	18	mod
+20	huit	huit	DET	DET	s=card|n=p	21	det	21	det
+21	étages	étage	NC	NC	n=p|g=m	19	prep	19	prep
+22	regroupés	regrouper	VPP	VPP	n=p|g=m|t=K	21	mod	21	mod
+23	autour	autour	NC	NC	n=s|g=m	22	mod	22	mod
+24	d'	de	P	P		18	mod	18	mod
+25	un	un	DET	DET	n=s|g=m	26	det	26	det
+26	étage	étage	NC	NC	n=s|g=m	24	prep	24	prep
+27	Jupiter	Jupiter	NPP	NPP	n=s|g=m	26	mod	26	mod
+28	,	,	PONCT	PONCT		27	ponct	27	ponct
+29	fournit	fournir	V	V	n=s|t=J,P|p=3	5	mod_rel	5	mod_rel
+30	les	les	DET	DET	n=p	32	det	32	det
+31	680	680	ADJ	ADJ		32	mod	32	mod
+32	tonnes	tonne	NC	NC	n=p|g=f	29	obj	29	obj
+33	de	de	P	P		29	mod	29	mod
+34	poussée	poussée	NC	NC	n=s|g=f	33	prep	33	prep
+35	nécessaires	nécessaire	ADJ	ADJ	n=p	0	_	0	_
+36	pour	pour	P	P		35	a_obj	35	a_obj
+37	lancer	lancer	VINF	VINF	t=W	36	prep	36	prep
+38	les	les	DET	DET	n=p	39	det	39	det
+39	satellites	satellite	NC	NC	n=p|g=m	37	obj	37	obj
+40	lourds	lourd	ADJ	ADJ	n=p|g=m	39	mod	39	mod
+41	.	.	PONCT	PONCT		40	ponct	40	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	course	course	NC	NC	n=s|g=f	12	suj	12	suj
+3	à	à	P	P		2	dep	2	dep
+4	l'	le	DET	DET	n=s	5	det	5	det
+5	espace	espace	NC	NC	n=s	3	prep	3	prep
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	qui	qui	PROREL	PROREL	n=s	8	suj	8	suj
+8	débute	débuter	V	V	n=s|t=P,S|p=1,3	2	mod_rel	2	mod_rel
+9	fin	fin	NC	NC	n=s	8	obj	8	obj
+10	1957	1957	NC	NC		9	mod	9	mod
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	décide	décider	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+13	le	le	DET	DET	n=s|g=m	14	det	14	det
+14	DOD	_	NPP	NPP		12	obj	12	obj
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	après	après	P	P		12	mod	12	mod
+17	examen	examen	NC	NC	n=s|g=m	16	prep	16	prep
+18	de	de	P	P		12	mod	12	mod
+19	projets	projet	NC	NC	n=p|g=m	18	prep	18	prep
+20	concurrents	concurrent	NC	NC	n=p|g=m	19	mod	19	mod
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	à	à	P	P		12	mod	12	mod
+23	financer	financer	VINF	VINF	t=W	22	prep	22	prep
+24	en	en	P	P		23	mod	23	mod
+25	août	août	NC	NC	n=s|g=m	24	prep	24	prep
+26	1958	1958	NC	NC		25	mod	25	mod
+27	le	le	DET	DET	n=s|g=m	28	det	28	det
+28	développement	développement	NC	NC	n=s|g=m	23	obj	23	obj
+29	de	de	P	P		23	mod	23	mod
+30	ce	ce	DET	DET	n=s|g=m	33	det	33	det
+31	nouveau	nouveau	ADJ	ADJ	n=s|g=m	33	mod	33	mod
+32	premier	premier	ADJ	ADJ	n=s|g=m	33	mod	33	mod
+33	étage	étage	NC	NC	n=s|g=m	29	prep	29	prep
+34	rebaptisé	rebaptiser	VPP	VPP	n=s|g=m|t=K	33	mod	33	mod
+35	Juno	Juno	NPP	NPP	n=s|g=f	33	mod	33	mod
+36	V	_	NPP	NPP		33	mod	33	mod
+37	,	,	PONCT	PONCT		36	ponct	36	ponct
+38	puis	puis	CC	CC		12	coord	12	coord
+39	finalement	_	NC	NC		0	_	0	_
+40	Saturn	Saturn	NPP	NPP	n=s|g=m	39	mod	39	mod
+41	.	.	PONCT	PONCT		40	ponct	40	ponct
+
+</p><h3>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	récupération	récupération	NC	NC	n=s|g=f	0	_	0	_
+3	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+4	projet	projet	NC	NC	n=s|g=m	3	prep	3	prep
+5	par	par	P	P		2	dep	2	dep
+6	la	la	DET	DET	n=s|g=f	7	det	7	det
+7	NASA	_	NC	NC		5	prep	5	prep
+
+</h3><p>
+1	En	en	P	P		13	mod	13	mod
+2	1958	1958	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	NASA	_	NPP	NPP		13	suj	13	suj
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	qui	qui	PROREL	PROREL	n=s	8	suj	8	suj
+8	vient	venir	V	V	n=s|t=P|p=3	5	mod_rel	5	mod_rel
+9	d'	de	P	P		8	de_obj	8	de_obj
+10	être	être	VINF	VINF	t=W	11	aux_pass	11	aux_pass
+11	créée	créer	VPP	VPP	n=s|g=f|t=K	9	prep	9	prep
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	identifie	identifier	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+14	la	la	DET	DET	n=s|g=f	15	det	15	det
+15	fusée	fusée	NC	NC	n=s|g=f	13	obj	13	obj
+16	comme	comme	P	P		13	mod	13	mod
+17	un	un	DET	DET	n=s|g=m	18	det	18	det
+18	composant	composant	NC	NC	n=s|g=m	16	prep	16	prep
+19	important	important	ADJ	ADJ	n=s|g=m	18	mod	18	mod
+20	dans	dans	P	P		13	mod	13	mod
+21	son	son	DET	DET	n=s|g=m|p=3|poss=s	22	det	22	det
+22	programme	programme	NC	NC	n=s|g=m	20	prep	20	prep
+23	spatial	spatial	ADJ	ADJ	n=s|g=m	22	mod	22	mod
+24	.	.	PONCT	PONCT		23	ponct	23	ponct
+
+1	Mais	mais	CC	CC		0	root	0	root
+2	en	en	P	P		10	mod	10	mod
+3	1959	1959	NC	NC		2	prep	2	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	le	le	DET	DET	n=s|g=m	6	det	6	det
+6	Département	département	NC	NC	n=s|g=m	10	suj	10	suj
+7	de	de	P	P		6	dep	6	dep
+8	la	la	DET	DET	n=s|g=f	9	det	9	det
+9	Défense	défense	NC	NC	n=s|g=f	7	prep	7	prep
+10	décide	décider	V	V	n=s|t=P,S|p=1,3	1	dep_coord	1	dep_coord
+11	d'	de	P	P		10	obj	10	obj
+12	arrêter	arrêter	VINF	VINF	t=W	11	prep	11	prep
+13	le	le	DET	DET	n=s|g=m	14	det	14	det
+14	programme	programme	NC	NC	n=s|g=m	12	obj	12	obj
+15	qui	qui	PROREL	PROREL	n=s	16	suj	16	suj
+16	coûte	coûter	V	V	n=s|t=P,S|p=1,3	14	mod_rel	14	mod_rel
+17	trop	trop	ADV	ADV		16	mod	16	mod
+18	cher	cher	ADJ	ADJ	n=s|g=m	16	ats	16	ats
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	NASA	_	NPP	NPP		3	suj	3	suj
+3	obtient	obtenir	V	V	n=s|t=P|p=3	0	root	0	root
+4	le	le	DET	DET	n=s|g=m	5	det	5	det
+5	transfert	transfert	NC	NC	n=s|g=m	3	obj	3	obj
+6	du	de	P+D	P+D	n=s|g=m	5	dep	5	dep
+7	projet	projet	NC	NC	n=s|g=m	6	prep	6	prep
+8	et	et	CC	CC		3	coord	3	coord
+9	des	des	DET	DET	n=p	10	det	10	det
+10	équipes	équipe	NC	NC	n=p|g=f	8	dep_coord	8	dep_coord
+11	de	de	P	P		10	dep	10	dep
+12	von	_	NC	NC		11	prep	11	prep
+13	Braun	_	NPP	NPP		12	mod	12	mod
+14	fin	fin	NC	NC	n=s	12	mod	12	mod
+15	1959	1959	NC	NC		12	mod	12	mod
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	centre	centre	NC	NC	n=s|g=m	4	suj	4	suj
+3	Marshall	Marshall	NPP	NPP	n=s|g=m	2	mod	2	mod
+4	étudie	étudier	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+5	à	à	P	P		4	mod	4	mod
+6	l'	le	DET	DET	n=s	7	det	7	det
+7	époque	époque	NC	NC	n=s|g=f	5	prep	5	prep
+8	une	une	DET	DET	n=s|g=f	9	det	9	det
+9	fusée	fusée	NC	NC	n=s|g=f	4	obj	4	obj
+10	extraordinaire	extraordinaire	ADJ	ADJ	n=s	9	mod	9	mod
+11	capable	capable	ADJ	ADJ	n=s	9	mod	9	mod
+12	d'	de	P	P		4	mod	4	mod
+13	envoyer	envoyer	VINF	VINF	t=W	12	prep	12	prep
+14	une	une	DET	DET	n=s|g=f	15	det	15	det
+15	mission	mission	NC	NC	n=s|g=f	13	obj	13	obj
+16	vers	vers	P	P		15	dep	15	dep
+17	la	la	DET	DET	n=s|g=f	18	det	18	det
+18	Lune	_	NPP	NPP		16	prep	16	prep
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	Cette	cette	DET	DET	n=s|g=f	2	det	2	det
+2	fusée	fusée	NC	NC	n=s|g=f	10	suj	10	suj
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	qui	qui	PROREL	PROREL	n=s	6	suj	6	suj
+5	s'	se	CLR	CLR	n=p,s|p=3	6	aff	6	aff
+6	appelle	appeler	V	V	n=s|t=P,S|p=1,3	2	mod_rel	2	mod_rel
+7	Nova	Nova	NPP	NPP	n=s|g=f	6	suj	6	suj
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	est	être	V	V	n=s|t=P|p=3	10	aux_tps	10	aux_tps
+10	dotée	doter	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+11	d'	de	P	P		10	mod	10	mod
+12	un	un	DET	DET	n=s|g=m	14	det	14	det
+13	premier	premier	ADJ	ADJ	n=s|g=m	14	mod	14	mod
+14	étage	étage	NC	NC	n=s|g=m	11	prep	11	prep
+15	qui	qui	PROREL	PROREL	n=s	16	suj	16	suj
+16	peut	pouvoir	V	V	n=s|t=P|p=3	14	mod_rel	14	mod_rel
+17	avoir	avoir	VINF	VINF	t=W	16	obj	16	obj
+18	une	une	DET	DET	n=s|g=f	19	det	19	det
+19	poussée	poussée	NC	NC	n=s|g=f	17	obj	17	obj
+20	de	de	P	P		19	dep	19	dep
+21	5_300	5_300	ADJ	ADJ		22	mod	22	mod
+22	tonnes	tonne	NC	NC	n=p|g=f	20	prep	20	prep
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	capable	capable	ADJ	ADJ	n=s	19	mod	19	mod
+25	de	de	P	P		17	mod	17	mod
+26	lancer	lancer	VINF	VINF	t=W	25	prep	25	prep
+27	une	une	DET	DET	n=s|g=f	28	det	28	det
+28	charge	charge	NC	NC	n=s|g=f	26	obj	26	obj
+29	de	de	P	P		28	dep	28	dep
+30	81,6	81,6	NC	NC		29	prep	29	prep
+31	tonnes	tonne	NC	NC	n=p|g=f	30	mod	30	mod
+32	sur	sur	P	P		26	mod	26	mod
+33	une	une	DET	DET	n=s|g=f	34	det	34	det
+34	trajectoire	trajectoire	NC	NC	n=s|g=f	32	prep	32	prep
+35	"	"	PONCT	PONCT		34	ponct	34	ponct
+36	interplanétaire	interplanétaire	ADJ	ADJ	n=s	34	mod	34	mod
+37	"	"	PONCT	PONCT		36	ponct	36	ponct
+38	.	.	PONCT	PONCT		36	ponct	36	ponct
+
+</p><h3>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	Saturn	Saturn	NPP	NPP	n=s|g=m	0	_	0	_
+3	IB	_	NPP	NPP		2	mod	2	mod
+4	et	et	CC	CC		2	coord	2	coord
+5	V	_	NC	NC		4	dep_coord	4	dep_coord
+
+</h3><p>
+1	Dès	dès	P	P		13	mod	13	mod
+2	juillet	juillet	NC	NC	n=s|g=m	1	prep	1	prep
+3	1960	1960	NC	NC		2	mod	2	mod
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	Rocketdyne	_	NPP	NPP		13	suj	13	suj
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	sélectionné	sélectionner	VPP	VPP	n=s|g=m|t=K	5	mod	5	mod
+8	par	par	P	P		7	mod	7	mod
+9	la	la	DET	DET	n=s|g=f	10	det	10	det
+10	NASA	_	NPP	NPP		8	prep	8	prep
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	avait	avoir	V	V	n=s|t=I|p=3	13	aux_tps	13	aux_tps
+13	commencé	commencer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+14	les	les	DET	DET	n=p	15	det	15	det
+15	études	étude	NC	NC	n=p|g=f	13	obj	13	obj
+16	sur	sur	P	P		13	mod	13	mod
+17	le	le	DET	DET	n=s|g=m	18	det	18	det
+18	moteur	moteur	NC	NC	n=s|g=m	16	prep	16	prep
+19	J-2	_	NPP	NPP		18	mod	18	mod
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	consommant	consommer	VPR	VPR	t=G	13	mod	13	mod
+22	le	le	DET	DET	n=s|g=m	23	det	23	det
+23	mélange	mélange	NC	NC	n=s|g=m	21	obj	21	obj
+24	hydrogène	hydrogène	NC	NC	n=s|g=m	23	mod	23	mod
+25	et	et	CC	CC		23	coord	23	coord
+26	oxygène	oxygène	NC	NC	n=s|g=m	25	dep_coord	25	dep_coord
+27	,	,	PONCT	PONCT		26	ponct	26	ponct
+28	d'	de	P	P		21	mod	21	mod
+29	une	une	DET	DET	n=s|g=f	30	det	30	det
+30	poussée	poussée	NC	NC	n=s|g=f	28	prep	28	prep
+31	d'	de	P	P		30	dep	30	dep
+32	environ	environ	ADV	ADV		33	mod	33	mod
+33	90	90	ADJ	ADJ		34	mod	34	mod
+34	tonnes	tonne	NC	NC	n=p|g=f	31	prep	31	prep
+35	,	,	PONCT	PONCT		34	ponct	34	ponct
+36	elle	elle	CLS	CLS	n=s|g=f|p=3	38	suj	38	suj
+37	est	être	V	V	n=s|t=P|p=3	38	aux_tps	38	aux_tps
+38	retenue	retenir	VPP	VPP	n=s|g=f|t=K	13	mod	13	mod
+39	pour	pour	P	P		38	mod	38	mod
+40	propulser	propulser	VINF	VINF	t=W	39	prep	39	prep
+41	les	les	DET	DET	n=p	42	det	42	det
+42	étages	étage	NC	NC	n=p|g=m	40	obj	40	obj
+43	supérieurs	supérieur	ADJ	ADJ	n=p|g=m	42	mod	42	mod
+44	des	de	P+D	P+D	n=p	40	mod	40	mod
+45	fusées	fusée	NC	NC	n=p|g=f	44	prep	44	prep
+46	Saturn	Saturn	NPP	NPP	n=s|g=m	45	mod	45	mod
+47	.	.	PONCT	PONCT		46	ponct	46	ponct
+
+1	Ils	ils	CLS	CLS	n=p|g=m|p=3	2	suj	2	suj
+2	travaillaient	travailler	V	V	n=p|t=I|p=3	0	root	0	root
+3	depuis	depuis	P	P		2	mod	2	mod
+4	1956	1956	NC	NC		3	prep	3	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	à	à	P	P		2	mod	2	mod
+7	la	la	DET	DET	n=s|g=f	8	det	8	det
+8	demande	demande	NC	NC	n=s|g=f	6	prep	6	prep
+9	de	de	P	P		2	mod	2	mod
+10	l'	le	DET	DET	n=s	11	det	11	det
+11	armée	armée	NC	NC	n=s|g=f	9	prep	9	prep
+12	de	de	P	P		2	mod	2	mod
+13	l'	le	DET	DET	n=s	14	det	14	det
+14	Air	_	NPP	NPP		12	prep	12	prep
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	sur	sur	P	P		2	mod	2	mod
+17	l'	le	DET	DET	n=s	19	det	19	det
+18	énorme	énorme	ADJ	ADJ	n=s	19	mod	19	mod
+19	moteur	moteur	NC	NC	n=s|g=m	16	prep	16	prep
+20	F-1	_	NPP	NPP		19	mod	19	mod
+21	(	(	PONCT	PONCT		20	ponct	20	ponct
+22	680	680	ADJ	ADJ		23	mod	23	mod
+23	tonnes	tonne	NC	NC	n=p|g=f	19	mod	19	mod
+24	de	de	P	P		23	dep	23	dep
+25	poussée	poussée	NC	NC	n=s|g=f	24	prep	24	prep
+26	)	)	PONCT	PONCT		25	ponct	25	ponct
+27	retenu	retenir	VPP	VPP	n=s|g=m|t=K	19	mod	19	mod
+28	pour	pour	P	P		27	mod	27	mod
+29	le	le	DET	DET	n=s|g=m	31	det	31	det
+30	premier	premier	ADJ	ADJ	n=s|g=m	31	mod	31	mod
+31	étage	étage	NC	NC	n=s|g=m	28	prep	28	prep
+32	de	de	P	P		31	dep	31	dep
+33	Saturn	Saturn	NPP	NPP	n=s|g=m	32	prep	32	prep
+34	.	.	PONCT	PONCT		33	ponct	33	ponct
+
+1	Fin	fin	NC	NC	n=s	11	mod	11	mod
+2	1961	1961	NC	NC		1	mod	1	mod
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	configuration	configuration	NC	NC	n=s|g=f	11	suj	11	suj
+6	du	de	P+D	P+D	n=s|g=m	5	dep	5	dep
+7	lanceur	lanceur	NC	NC	n=s|g=m	6	prep	6	prep
+8	lourd	lourd	ADJ	ADJ	n=s|g=m	7	mod	7	mod
+9	Saturn	Saturn	NPP	NPP	n=s|g=m	7	mod	7	mod
+10	V	_	NPP	NPP		7	mod	7	mod
+11	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+12	prêt	prêt	ADJ	ADJ	n=s|g=m	11	ats	11	ats
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	le	le	DET	DET	n=s|g=m	16	det	16	det
+15	premier	premier	ADJ	ADJ	n=s|g=m	16	mod	16	mod
+16	étage	étage	NC	NC	n=s|g=m	18	suj	18	suj
+17	est	être	V	V	n=s|t=P|p=3	18	aux_tps	18	aux_tps
+18	propulsé	propulser	VPP	VPP	n=s|g=m|t=K	11	mod	11	mod
+19	par	par	P	P		18	mod	18	mod
+20	5	5	NC	NC		19	prep	19	prep
+21	moteurs	moteur	NC	NC	n=p|g=m	20	mod	20	mod
+22	F-1	_	NPP	NPP		21	mod	21	mod
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	le	le	DET	DET	n=s|g=m	25	det	25	det
+25	deuxième	deuxième	ADJ	ADJ	n=s	0	_	0	_
+26	par	par	P	P		25	mod	25	mod
+27	5	5	NC	NC		26	prep	26	prep
+28	moteurs	moteur	NC	NC	n=p|g=m	27	mod	27	mod
+29	J-2	_	NPP	NPP		28	mod	28	mod
+30	et	et	CC	CC		25	coord	25	coord
+31	le	le	DET	DET	n=s|g=m	32	det	32	det
+32	troisième	troisième	ADJ	ADJ	n=s	30	dep_coord	30	dep_coord
+33	par	par	P	P		32	mod	32	mod
+34	1	1	NC	NC		33	prep	33	prep
+35	moteur	moteur	NC	NC	n=s|g=m	34	mod	34	mod
+36	J-2	_	NPP	NPP		35	mod	35	mod
+37	.	.	PONCT	PONCT		36	ponct	36	ponct
+
+1	L'	le	DET	DET	n=s	3	det	3	det
+2	énorme	énorme	ADJ	ADJ	n=s	3	mod	3	mod
+3	fusée	fusée	NC	NC	n=s|g=f	4	suj	4	suj
+4	peut	pouvoir	V	V	n=s|t=P|p=3	0	root	0	root
+5	placer	placer	VINF	VINF	t=W	4	obj	4	obj
+6	118	118	ADJ	ADJ		7	mod	7	mod
+7	tonnes	tonne	NC	NC	n=p|g=f	5	obj	5	obj
+8	en	en	P	P		5	mod	5	mod
+9	orbite	orbite	NC	NC	n=s|g=f	8	prep	8	prep
+10	basse	bas	ADJ	ADJ	n=s|g=f	9	mod	9	mod
+11	et	et	CC	CC		5	coord	5	coord
+12	envoyer	envoyer	VINF	VINF	t=W	11	dep_coord	11	dep_coord
+13	40	40	ADJ	ADJ		14	mod	14	mod
+14	tonnes	tonne	NC	NC	n=p|g=f	12	obj	12	obj
+15	vers	vers	P	P		12	mod	12	mod
+16	la	la	DET	DET	n=s|g=f	17	det	17	det
+17	Lune	_	NPP	NPP		15	prep	15	prep
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	2	2	NC	NC		5	suj	5	suj
+2	modèles	modèle	NC	NC	n=p|g=m	1	mod	1	mod
+3	moins	moins	ADV	ADV		4	mod	4	mod
+4	puissants	puissant	ADJ	ADJ	n=p|g=m	1	mod	1	mod
+5	doivent	devoir	V	V	n=p|t=P,S|p=3	0	root	0	root
+6	être	être	VINF	VINF	t=W	7	aux_pass	7	aux_pass
+7	utilisés	utiliser	VPP	VPP	n=p|g=m|t=K	5	obj	5	obj
+8	durant	durant	P	P		7	mod	7	mod
+9	la	la	DET	DET	n=s|g=f	11	det	11	det
+10	première	premier	ADJ	ADJ	n=s|g=f	11	mod	11	mod
+11	phase	phase	NC	NC	n=s|g=f	8	prep	8	prep
+12	du	de	P+D	P+D	n=s|g=m	11	dep	11	dep
+13	projet	projet	NC	NC	n=s|g=m	12	prep	12	prep
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+1	:	:	PONCT	PONCT		0	ponct	0	ponct
+
+</p><p>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	C-1	_	NPP	NPP		19	suj	19	suj
+3	(	(	PONCT	PONCT		2	ponct	2	ponct
+4	ou	ou	CC	CC		2	coord	2	coord
+5	Saturn	Saturn	NPP	NPP	n=s|g=m	4	dep_coord	4	dep_coord
+6	I	_	NPP	NPP		5	mod	5	mod
+7	)	)	PONCT	PONCT		6	ponct	6	ponct
+8	,	,	PONCT	PONCT		6	ponct	6	ponct
+9	utilisée	utiliser	VPP	VPP	n=s|g=f|t=K	2	mod	2	mod
+10	pour	pour	P	P		9	mod	9	mod
+11	tester	tester	VINF	VINF	t=W	10	prep	10	prep
+12	des	des	DET	DET	n=p	13	det	13	det
+13	maquettes	maquette	NC	NC	n=p|g=f	11	obj	11	obj
+14	des	de	P+D	P+D	n=p	11	mod	11	mod
+15	vaisseaux	vaisseau	NC	NC	n=p|g=m	14	prep	14	prep
+16	Apollo	Apollo	NPP	NPP	n=s|g=m	15	mod	15	mod
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	est	être	V	V	n=s|t=P|p=3	19	aux_pass	19	aux_pass
+19	constituée	constituer	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+20	d'	de	P	P		19	mod	19	mod
+21	un	un	DET	DET	n=s|g=m	23	det	23	det
+22	premier	premier	ADJ	ADJ	n=s|g=m	23	mod	23	mod
+23	étage	étage	NC	NC	n=s|g=m	20	prep	20	prep
+24	propulsé	propulser	VPP	VPP	n=s|g=m|t=K	23	mod	23	mod
+25	par	par	P	P		24	mod	24	mod
+26	8	8	NC	NC		25	prep	25	prep
+27	moteurs	moteur	NC	NC	n=p|g=m	26	mod	26	mod
+28	H-1	_	NPP	NPP		27	mod	27	mod
+29	(	(	PONCT	PONCT		28	ponct	28	ponct
+30	1	1	NC	NC		19	mod	19	mod
+31	moteur	moteur	NC	NC	n=s|g=m	19	mod	19	mod
+32	H-1	_	NPP	NPP		31	mod	31	mod
+33	a	avoir	V	V	n=s|t=P|p=3	19	mod	19	mod
+34	90	90	ADJ	ADJ		35	mod	35	mod
+35	tonnes	tonne	NC	NC	n=p|g=f	33	obj	33	obj
+36	de	de	P	P		35	dep	35	dep
+37	poussée	poussée	NC	NC	n=s|g=f	36	prep	36	prep
+38	)	)	PONCT	PONCT		37	ponct	37	ponct
+39	,	,	PONCT	PONCT		37	ponct	37	ponct
+40	couronné	couronner	VPP	VPP	n=s|g=m|t=K	35	mod	35	mod
+41	d'	de	P	P		40	mod	40	mod
+42	un	un	DET	DET	n=s|g=m	44	det	44	det
+43	second	second	ADJ	ADJ	n=s|g=m	44	mod	44	mod
+44	étage	étage	NC	NC	n=s|g=m	41	prep	41	prep
+45	propulsé	propulser	VPP	VPP	n=s|g=m|t=K	44	mod	44	mod
+46	par	par	P	P		45	mod	45	mod
+47	six	six	DET	DET	s=card|n=p	48	det	48	det
+48	RL-10	_	NC	NC		46	prep	46	prep
+
+</p><p>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	C-1B	_	NPP	NPP		20	suj	20	suj
+3	(	(	PONCT	PONCT		2	ponct	2	ponct
+4	ou	ou	CC	CC		2	coord	2	coord
+5	Saturn	Saturn	NPP	NPP	n=s|g=m	4	dep_coord	4	dep_coord
+6	IB	_	NPP	NPP		5	mod	5	mod
+7	)	)	PONCT	PONCT		6	ponct	6	ponct
+8	,	,	PONCT	PONCT		6	ponct	6	ponct
+9	chargée	charger	VPP	VPP	n=s|g=f|t=K	2	mod	2	mod
+10	de	de	P	P		9	mod	9	mod
+11	qualifier	qualifier	VINF	VINF	t=W	10	prep	10	prep
+12	les	les	DET	DET	n=p	13	det	13	det
+13	vaisseaux	vaisseau	NC	NC	n=p|g=m	11	obj	11	obj
+14	Apollo	Apollo	NPP	NPP	n=s|g=m	13	mod	13	mod
+15	en	en	P	P		11	mod	11	mod
+16	orbite	orbite	NC	NC	n=s|g=f	15	prep	15	prep
+17	terrestre	terrestre	ADJ	ADJ	n=s	16	mod	16	mod
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	est	être	V	V	n=s|t=P|p=3	20	aux_pass	20	aux_pass
+20	constituée	constituer	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+21	du	de	P+D	P+D	n=s|g=m	20	mod	20	mod
+22	1	1	ADJ	ADJ		23	mod	23	mod
+23	étage	étage	NC	NC	n=s|g=m	21	prep	21	prep
+24	de	de	P	P		20	mod	20	mod
+25	la	la	DET	DET	n=s|g=f	26	det	26	det
+26	S-1	_	NC	NC		24	prep	24	prep
+27	couronné	couronner	ADJ	ADJ	n=s|g=m|t=K	26	mod	26	mod
+28	du	de	P+D	P+D	n=s|g=m	20	mod	20	mod
+29	troisième	troisième	ADJ	ADJ	n=s	30	mod	30	mod
+30	étage	étage	NC	NC	n=s|g=m	28	prep	28	prep
+31	de	de	P	P		20	mod	20	mod
+32	la	la	DET	DET	n=s|g=f	33	det	33	det
+33	C-5	_	NPP	NPP		31	prep	31	prep
+34	.	.	PONCT	PONCT		33	ponct	33	ponct
+
+</p><h3>
+1	Lancement	lancement	NC	NC	n=s|g=m	0	_	0	_
+2	du	de	P+D	P+D	n=s|g=m	1	dep	1	dep
+3	programme	programme	NC	NC	n=s|g=m	2	prep	2	prep
+4	Apollo	Apollo	NPP	NPP	n=s|g=m	3	mod	3	mod
+
+</h3><p>
+1	Le	le	DET	DET	n=s|g=m	3	det	3	det
+2	25	25	ADJ	ADJ		3	mod	3	mod
+3	mai	mai	NC	NC	n=s|g=m	11	mod	11	mod
+4	1961	1961	NC	NC		3	mod	3	mod
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	le	le	DET	DET	n=s|g=m	7	det	7	det
+7	président	président	NC	NC	n=s|g=m	11	suj	11	suj
+8	John	John	NPP	NPP	n=s|g=m	7	mod	7	mod
+9	Fitzgerald	_	NPP	NPP		7	mod	7	mod
+10	Kennedy	Kennedy	NPP	NPP	n=s	7	mod	7	mod
+11	annonce	annoncer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+12	devant	devant	P	P		11	mod	11	mod
+13	le	le	DET	DET	n=s|g=m	14	det	14	det
+14	Congrès	congrès	NC	NC	g=m	12	prep	12	prep
+15	des	de	P+D	P+D	n=p	11	mod	11	mod
+16	États-Unis	États-Unis_d'Amérique	NPP	NPP	n=p|g=m	15	prep	15	prep
+17	le	le	DET	DET	n=s|g=m	18	det	18	det
+18	lancement	lancement	NC	NC	n=s|g=m	11	obj	11	obj
+19	du	de	P+D	P+D	n=s|g=m	18	dep	18	dep
+20	programme	programme	NC	NC	n=s|g=m	19	prep	19	prep
+21	Apollo	Apollo	NPP	NPP	n=s|g=m	20	mod	20	mod
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+23	qui	qui	PROREL	PROREL	n=s	24	suj	24	suj
+24	doit	devoir	V	V	n=s|t=P|p=3	18	mod_rel	18	mod_rel
+25	amener	amener	VINF	VINF	t=W	24	obj	24	obj
+26	des	des	DET	DET	n=p	27	det	27	det
+27	astronautes	astronaute	NC	NC	n=p	25	obj	25	obj
+28	américains	américain	ADJ	ADJ	n=p|g=m	27	mod	27	mod
+29	sur	sur	P	P		25	mod	25	mod
+30	la	la	DET	DET	n=s|g=f	31	det	31	det
+31	Lune	_	NPP	NPP		29	prep	29	prep
+32	avant	avant	P	P		25	mod	25	mod
+33	la	la	DET	DET	n=s|g=f	34	det	34	det
+34	fin	fin	NC	NC	n=s	32	prep	32	prep
+35	de	de	P	P		25	mod	25	mod
+36	la	la	DET	DET	n=s|g=f	37	det	37	det
+37	décennie	décennie	NC	NC	n=s|g=f	35	prep	35	prep
+38	.	.	PONCT	PONCT		37	ponct	37	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	proposition	proposition	NC	NC	n=s|g=f	5	suj	5	suj
+3	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+4	président	président	NC	NC	n=s|g=m	3	prep	3	prep
+5	reçoit	recevoir	V	V	n=s|t=P|p=3	0	root	0	root
+6	un	un	DET	DET	n=s|g=m	7	det	7	det
+7	succès	succès	NC	NC	g=m	5	obj	5	obj
+8	.	.	PONCT	PONCT		7	ponct	7	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	fonds	fonds	NC	NC	g=m	7	suj	7	suj
+3	donnés	donner	VPP	VPP	n=p|g=m|t=K	2	mod	2	mod
+4	à	à	P	P		3	mod	3	mod
+5	la	la	DET	DET	n=s|g=f	6	det	6	det
+6	NASA	_	NPP	NPP		4	prep	4	prep
+7	vont	aller	V	V	n=p|t=P|p=3	0	root	0	root
+8	passer	passer	VINF	VINF	t=W	7	obj	7	obj
+9	de	de	P	P		8	mod	8	mod
+10	500	500	ADJ	ADJ		11	mod	11	mod
+11	millions	million	NC	NC	n=p	9	prep	9	prep
+12	de	de	P	P		8	mod	8	mod
+13	dollars	dollar	NC	NC	n=p|g=m	12	prep	12	prep
+14	(	(	PONCT	PONCT		13	ponct	13	ponct
+15	en	en	P	P		8	mod	8	mod
+16	1960	1960	NC	NC		15	prep	15	prep
+17	)	)	PONCT	PONCT		16	ponct	16	ponct
+18	,	,	PONCT	PONCT		16	ponct	16	ponct
+19	à	à	P	P		8	mod	8	mod
+20	5,2	5,2	NC	NC		19	prep	19	prep
+21	milliards	milliard	NC	NC	n=p|g=m	20	mod	20	mod
+22	de	de	P	P		8	mod	8	mod
+23	dollars	dollar	NC	NC	n=p|g=m	22	prep	22	prep
+24	(	(	PONCT	PONCT		23	ponct	23	ponct
+25	en	en	P	P		8	mod	8	mod
+26	1965	1965	NC	NC		25	prep	25	prep
+27	)	)	PONCT	PONCT		26	ponct	26	ponct
+28	.	.	PONCT	PONCT		26	ponct	26	ponct
+
+</p><h3>
+1	Développement	développement	NC	NC	n=s|g=m	0	_	0	_
+2	du	de	P+D	P+D	n=s|g=m	1	dep	1	dep
+3	programme	programme	NC	NC	n=s|g=m	2	prep	2	prep
+4	Apollo	Apollo	NPP	NPP	n=s|g=m	3	mod	3	mod
+
+</h3><p>
+1	Dès	dès	P	P		7	mod	7	mod
+2	1959	1959	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	les	les	DET	DET	n=p	5	det	5	det
+5	études	étude	NC	NC	n=p|g=f	7	suj	7	suj
+6	sont	être	V	V	n=p|t=P|p=3	7	aux_pass	7	aux_pass
+7	lancées	lancer	VPP	VPP	n=p|g=f|t=K	0	root	0	root
+8	à	à	P	P		7	mod	7	mod
+9	l'	le	DET	DET	n=s	10	det	10	det
+10	agence	agence	NC	NC	n=s|g=f	8	prep	8	prep
+11	spatiale	spatial	ADJ	ADJ	n=s|g=f	10	mod	10	mod
+12	américaine	américain	ADJ	ADJ	n=s|g=f	10	mod	10	mod
+13	dans	dans	P	P		7	mod	7	mod
+14	une	une	DET	DET	n=s|g=f	15	det	15	det
+15	réflexion	réflexion	NC	NC	n=s|g=f	13	prep	13	prep
+16	à	à	P	P		15	dep	15	dep
+17	long	long	ADJ	ADJ	n=s|g=m	18	mod	18	mod
+18	terme	terme	NC	NC	n=s|g=m	16	prep	16	prep
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	sur	sur	P	P		7	mod	7	mod
+21	la	la	DET	DET	n=s|g=f	22	det	22	det
+22	manière	manière	NC	NC	n=s|g=f	20	prep	20	prep
+23	de	de	P	P		7	mod	7	mod
+24	poser	poser	VINF	VINF	t=W	23	prep	23	prep
+25	un	un	DET	DET	n=s|g=m	26	det	26	det
+26	engin	engin	NC	NC	n=s|g=m	24	obj	24	obj
+27	habité	habiter	VPP	VPP	n=s|g=m|t=K	26	mod	26	mod
+28	sur	sur	P	P		27	mod	27	mod
+29	la	la	DET	DET	n=s|g=f	30	det	30	det
+30	Lune	_	NPP	NPP		28	prep	28	prep
+31	.	.	PONCT	PONCT		30	ponct	30	ponct
+
+1	Trois	trois	DET	DET	s=card|n=p	2	det	2	det
+2	scénarios	scénario	NC	NC	n=p|g=m	5	suj	5	suj
+3	principaux	principal	ADJ	ADJ	n=p|g=m	2	mod	2	mod
+4	se	se	CLR	CLR	n=p,s|p=3	5	aff	5	aff
+5	dégagent	dégager	V	V	n=p|t=P,S|p=3	0	root	0	root
+6	:	:	PONCT	PONCT		5	ponct	5	ponct
+
+</p><p>
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	envoi	envoi	NC	NC	n=s|g=m	25	suj	25	suj
+3	direct	direct	ADJ	ADJ	n=s|g=m	2	mod	2	mod
+4	d'	de	P	P		2	dep	2	dep
+5	un	un	DET	DET	n=s|g=m	6	det	6	det
+6	vaisseau	vaisseau	NC	NC	n=s|g=m	4	prep	4	prep
+7	sur	sur	P	P		2	dep	2	dep
+8	la	la	DET	DET	n=s|g=f	9	det	9	det
+9	Lune	_	NPP	NPP		7	prep	7	prep
+10	(	(	PONCT	PONCT		9	ponct	9	ponct
+11	Direct	direct	ADJ	ADJ	n=s|g=m	2	mod	2	mod
+12	Ascent	_	NPP	NPP		2	mod	2	mod
+13	)	)	PONCT	PONCT		12	ponct	12	ponct
+14	:	:	PONCT	PONCT		12	ponct	12	ponct
+15	une	une	DET	DET	n=s|g=f	16	det	16	det
+16	fusée	fusée	NC	NC	n=s|g=f	2	mod	2	mod
+17	de	de	P	P		16	dep	16	dep
+18	forte	fort	ADJ	ADJ	n=s|g=f	19	mod	19	mod
+19	puissance	puissance	NC	NC	n=s|g=f	17	prep	17	prep
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	de	de	P	P		16	dep	16	dep
+22	type	type	NC	NC	n=s|g=m	21	prep	21	prep
+23	Nova	Nova	NPP	NPP	n=s|g=f	22	mod	22	mod
+24	,	,	PONCT	PONCT		23	ponct	23	ponct
+25	envoie	envoyer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+26	le	le	DET	DET	n=s|g=m	27	det	27	det
+27	vaisseau	vaisseau	NC	NC	n=s|g=m	25	obj	25	obj
+28	complet	complet	ADJ	ADJ	n=s|g=m	27	mod	27	mod
+29	;	;	PONCT	PONCT		28	ponct	28	ponct
+30	celui-ci	celui-ci	PRO	PRO	n=s|g=m	31	suj	31	suj
+31	atterrit	atterrir	V	V	n=s|t=J,P|p=3	25	mod	25	mod
+32	sur	sur	P	P		31	mod	31	mod
+33	la	la	DET	DET	n=s|g=f	34	det	34	det
+34	Lune	_	NPP	NPP		32	prep	32	prep
+35	,	,	PONCT	PONCT		34	ponct	34	ponct
+36	puis	puis	CC	CC		31	coord	31	coord
+37	en	en	CLO	CLO		38	obj	38	obj
+38	décolle	décoller	V	V	n=s|t=P,S|p=1,3	36	dep_coord	36	dep_coord
+39	avant	avant	P	P		38	mod	38	mod
+40	de	de	P	P		39	prep	39	prep
+41	retourner	retourner	VINF	VINF	t=W	40	prep	40	prep
+42	sur	sur	P	P		41	mod	41	mod
+43	la	la	DET	DET	n=s|g=f	44	det	44	det
+44	Terre	_	NPP	NPP		42	prep	42	prep
+45	.	.	PONCT	PONCT		44	ponct	44	ponct
+
+</p><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	rendez-vous	rendez-vous	NC	NC	g=m	36	suj	36	suj
+3	orbital	orbital	ADJ	ADJ	n=s|g=m	2	mod	2	mod
+4	autour	autour	NC	NC	n=s|g=m	2	mod	2	mod
+5	de	de	P	P		2	dep	2	dep
+6	la	la	DET	DET	n=s|g=f	7	det	7	det
+7	Terre	_	NPP	NPP		5	prep	5	prep
+8	(	(	PONCT	PONCT		7	ponct	7	ponct
+9	EOR	_	NPP	NPP		7	mod	7	mod
+10	pour	pour	P	P		2	dep	2	dep
+11	"	"	PONCT	PONCT		10	ponct	10	ponct
+12	Earth-Orbit	_	NPP	NPP		10	prep	10	prep
+13	Rendez-vous	rendez-vous	NPP	NPP		12	mod	12	mod
+14	"	"	PONCT	PONCT		13	ponct	13	ponct
+15	)	)	PONCT	PONCT		13	ponct	13	ponct
+16	:	:	PONCT	PONCT		13	ponct	13	ponct
+17	pour	pour	P	P		36	mod	36	mod
+18	limiter	limiter	VINF	VINF	t=W	17	prep	17	prep
+19	les	les	DET	DET	n=p	20	det	20	det
+20	risques	risque	NC	NC	n=p|g=m	18	obj	18	obj
+21	et	et	CC	CC		20	coord	20	coord
+22	le	le	DET	DET	n=s|g=m	23	det	23	det
+23	coût	coût	NC	NC	n=s|g=m	21	dep_coord	21	dep_coord
+24	de	de	P	P		23	dep	23	dep
+25	développement	développement	NC	NC	n=s|g=m	24	prep	24	prep
+26	de	de	P	P		18	mod	18	mod
+27	la	la	DET	DET	n=s|g=f	28	det	28	det
+28	fusée	fusée	NC	NC	n=s|g=f	26	prep	26	prep
+29	Nova	Nova	NPP	NPP	n=s|g=f	28	mod	28	mod
+30	,	,	PONCT	PONCT		29	ponct	29	ponct
+31	les	les	DET	DET	n=p	32	det	32	det
+32	composants	composant	NC	NC	n=p|g=m	18	obj	18	obj
+33	du	de	P+D	P+D	n=s|g=m	32	dep	32	dep
+34	vaisseau	vaisseau	NC	NC	n=s|g=m	33	prep	33	prep
+35	sont	être	V	V	n=p|t=P|p=3	36	aux_pass	36	aux_pass
+36	envoyés	envoyer	VPP	VPP	n=p|g=m|t=K	0	root	0	root
+37	en	en	P	P		36	mod	36	mod
+38	orbite	orbite	NC	NC	n=s|g=f	37	prep	37	prep
+39	terrestre	terrestre	ADJ	ADJ	n=s	38	mod	38	mod
+40	par	par	P	P		36	mod	36	mod
+41	2	2	NC	NC		40	prep	40	prep
+42	ou	ou	CC	CC		36	coord	36	coord
+43	plusieurs	plusieurs	DET	DET	n=p	44	det	44	det
+44	fusées	fusée	NC	NC	n=p|g=f	42	dep_coord	42	dep_coord
+45	moins	moins	ADV	ADV		46	mod	46	mod
+46	puissantes	puissant	ADJ	ADJ	n=p|g=f	44	mod	44	mod
+47	.	.	PONCT	PONCT		46	ponct	46	ponct
+
+1	Ces	ces	DET	DET	n=p	3	det	3	det
+2	différents	différent	ADJ	ADJ	n=p|g=m	3	mod	3	mod
+3	éléments	élément	NC	NC	n=p|g=m	5	suj	5	suj
+4	sont	être	V	V	n=p|t=P|p=3	5	aux_pass	5	aux_pass
+5	assemblés	assembler	VPP	VPP	n=p|g=m|t=K	0	root	0	root
+6	en	en	P	P		5	mod	5	mod
+7	orbite	orbite	NC	NC	n=s|g=f	6	prep	6	prep
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	en	en	P	P		5	mod	5	mod
+10	utilisant	utiliser	VPR	VPR	t=G	9	prep	9	prep
+11	une	une	DET	DET	n=s|g=f	12	det	12	det
+12	station	station	NC	NC	n=s|g=f	10	obj	10	obj
+13	spatiale	spatial	ADJ	ADJ	n=s|g=f	12	mod	12	mod
+14	comme	comme	P	P		10	mod	10	mod
+15	base	base	NC	NC	n=s|g=f	14	prep	14	prep
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	déroulement	déroulement	NC	NC	n=s|g=m	12	suj	12	suj
+3	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+4	vol	vol	NC	NC	n=s|g=m	3	prep	3	prep
+5	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+6	vaisseau	vaisseau	NC	NC	n=s|g=m	5	prep	5	prep
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	par	par	P	P		2	dep	2	dep
+9	la	la	DET	DET	n=s|g=f	10	det	10	det
+10	suite	suite	NC	NC	n=s|g=f	8	prep	8	prep
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+13	similaire	similaire	ADJ	ADJ	n=s	12	ats	12	ats
+14	à	à	P	P		12	mod	12	mod
+15	celui	celui	PRO	PRO	n=s|g=m	14	prep	14	prep
+16	du	de	P+D	P+D	n=s|g=m	15	dep	15	dep
+17	premier	premier	ADJ	ADJ	n=s|g=m	18	mod	18	mod
+18	scénario	scénario	NC	NC	n=s|g=m	16	prep	16	prep
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+</p><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	rendez-vous	rendez-vous	NC	NC	g=m	17	suj	17	suj
+3	en	en	P	P		2	dep	2	dep
+4	orbite	orbite	NC	NC	n=s|g=f	3	prep	3	prep
+5	lunaire	lunaire	NC	NC	n=s|g=f	4	mod	4	mod
+6	(	(	PONCT	PONCT		5	ponct	5	ponct
+7	LOR	Lor	NPP	NPP	n=s|g=m	2	mod	2	mod
+8	pour	pour	P	P		2	dep	2	dep
+9	"	"	PONCT	PONCT		8	ponct	8	ponct
+10	Lunar	_	NPP	NPP		8	prep	8	prep
+11	Orbital	_	NPP	NPP		2	mod	2	mod
+12	Rendez-vous	rendez-vous	NPP	NPP		2	mod	2	mod
+13	"	"	PONCT	PONCT		12	ponct	12	ponct
+14	)	)	PONCT	PONCT		12	ponct	12	ponct
+15	:	:	PONCT	PONCT		12	ponct	12	ponct
+16	Il	il	CLS	CLS	n=s|g=m|p=3	17	suj	17	suj
+17	fait	faire	V	V	n=s|t=P|p=3	0	root	0	root
+18	une	une	DET	DET	n=s|g=f	20	det	20	det
+19	seule	seul	ADJ	ADJ	n=s|g=f	20	mod	20	mod
+20	fusée	fusée	NC	NC	n=s|g=f	17	obj	17	obj
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	mais	mais	CC	CC		17	coord	17	coord
+23	le	le	DET	DET	n=s|g=m	24	det	24	det
+24	vaisseau	vaisseau	NC	NC	n=s|g=m	26	suj	26	suj
+25	spatial	spatial	ADJ	ADJ	n=s|g=m	24	mod	24	mod
+26	comporte	comporter	V	V	n=s|t=P,S|p=1,3	22	dep_coord	22	dep_coord
+27	deux	deux	DET	DET	s=card|n=p	28	det	28	det
+28	sous	sou	NC	NC	n=p|g=m	26	obj	26	obj
+29	-	-	PONCT	PONCT		28	ponct	28	ponct
+30	ensembles	ensemble	NC	NC	n=p|g=m	28	mod	28	mod
+31	qui	qui	PROREL	PROREL	n=s	33	suj	33	suj
+32	se	se	CLR	CLR	n=p,s|p=3	33	aff	33	aff
+33	séparent	séparer	V	V	n=p|t=P,S|p=3	28	mod_rel	28	mod_rel
+34	une	une	DET	DET	n=s|g=f	35	det	35	det
+35	fois	fois	NC	NC	g=f	33	obj	33	obj
+36	que	que	CS	CS		33	mod	33	mod
+37	l'	le	DET	DET	n=s	38	det	38	det
+38	orbite	orbite	NC	NC	n=s|g=f	41	suj	41	suj
+39	lunaire	lunaire	NC	NC	n=s|g=f	38	mod	38	mod
+40	est	être	V	V	n=s|t=P|p=3	41	aux_tps	41	aux_tps
+41	atteinte	atteindre	VPP	VPP	n=s|g=f|t=K	36	sub	36	sub
+42	.	.	PONCT	PONCT		41	ponct	41	ponct
+
+1	Un	un	DET	DET	n=s|g=m	2	det	2	det
+2	module	module	NC	NC	n=s|g=m	8	suj	8	suj
+3	dit	dire	VPP	VPP	n=s|g=m|t=K	2	mod	2	mod
+4	"	"	PONCT	PONCT		3	ponct	3	ponct
+5	lunaire	lunaire	NC	NC	n=s|g=f	3	mod	3	mod
+6	"	"	PONCT	PONCT		5	ponct	5	ponct
+7	se	se	CLR	CLR	n=p,s|p=3	8	aff	8	aff
+8	pose	poser	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+9	sur	sur	P	P		8	mod	8	mod
+10	la	la	DET	DET	n=s|g=f	11	det	11	det
+11	Lune	_	NPP	NPP		9	prep	9	prep
+12	avec	avec	P	P		8	mod	8	mod
+13	2	2	NC	NC		12	prep	12	prep
+14	des	de	P+D	P+D	n=p	8	mod	8	mod
+15	3	3	ADJ	ADJ		16	mod	16	mod
+16	astronautes	astronaute	NC	NC	n=p	14	prep	14	prep
+17	et	et	CC	CC		8	coord	8	coord
+18	en	en	CLO	CLO		19	obj	19	obj
+19	redécolle	redécoller	V	V	n=s|t=P,S|p=1,3	17	dep_coord	17	dep_coord
+20	pour	pour	P	P		19	mod	19	mod
+21	ramener	ramener	VINF	VINF	t=W	20	prep	20	prep
+22	les	les	DET	DET	n=p	23	det	23	det
+23	astronautes	astronaute	NC	NC	n=p	21	obj	21	obj
+24	jusqu'	jusque	P	P		21	mod	21	mod
+25	au	à	P+D	P+D	n=s|g=m	21	mod	21	mod
+26	module	module	NC	NC	n=s|g=m	25	prep	25	prep
+27	dit	dire	VPP	VPP	n=s|g=m|t=K	26	mod	26	mod
+28	"	"	PONCT	PONCT		27	ponct	27	ponct
+29	de	de	P	P		27	mod	27	mod
+30	commande	commande	NC	NC	n=s|g=f	29	prep	29	prep
+31	"	"	PONCT	PONCT		30	ponct	30	ponct
+32	,	,	PONCT	PONCT		30	ponct	30	ponct
+33	resté	rester	VPP	VPP	n=s|g=m|t=K	26	mod	26	mod
+34	en	en	P	P		33	mod	33	mod
+35	orbite	orbite	NC	NC	n=s|g=f	34	prep	34	prep
+36	autour	autour	NC	NC	n=s|g=m	35	mod	35	mod
+37	de	de	P	P		33	mod	33	mod
+38	la	la	DET	DET	n=s|g=f	39	det	39	det
+39	Lune	_	NPP	NPP		37	prep	37	prep
+40	,	,	PONCT	PONCT		39	ponct	39	ponct
+41	qui	qui	PROREL	PROREL	n=s	42	suj	42	suj
+42	prend	prendre	V	V	n=s|t=P|p=3	39	mod_rel	39	mod_rel
+43	en	en	P	P		42	mod	42	mod
+44	charge	charge	NC	NC	n=s|g=f	43	prep	43	prep
+45	le	le	DET	DET	n=s|g=m	46	det	46	det
+46	retour	retour	NC	NC	n=s|g=m	42	obj	42	obj
+47	des	de	P+D	P+D	n=p	46	dep	46	dep
+48	astronautes	astronaute	NC	NC	n=p	47	prep	47	prep
+49	vers	vers	P	P		42	mod	42	mod
+50	la	la	DET	DET	n=s|g=f	51	det	51	det
+51	Terre	_	NPP	NPP		49	prep	49	prep
+52	.	.	PONCT	PONCT		51	ponct	51	ponct
+
+1	Cette	cette	DET	DET	n=s|g=f	2	det	2	det
+2	solution	solution	NC	NC	n=s|g=f	3	suj	3	suj
+3	permet	permettre	V	V	n=s|t=P|p=3	0	root	0	root
+4	d'	de	P	P		3	ats	3	ats
+5	économiser	économiser	VINF	VINF	t=W	4	prep	4	prep
+6	du	de	P+D	P+D	n=s|g=m	5	mod	5	mod
+7	poids	poids	NC	NC	g=m	6	prep	6	prep
+8	par	par	P	P		5	mod	5	mod
+9	rapport	rapport	NC	NC	n=s|g=m	8	prep	8	prep
+10	aux	à	P+D	P+D	n=p	5	mod	5	mod
+11	deux	deux	ADJ	ADJ	s=card|n=p	13	mod	13	mod
+12	autres	autre	ADJ	ADJ	n=p	13	mod	13	mod
+13	scénarios	scénario	NC	NC	n=p|g=m	10	prep	10	prep
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	et	et	CC	CC		3	coord	3	coord
+16	permet	permettre	V	V	n=s|t=P|p=3	15	dep_coord	15	dep_coord
+17	de	de	P	P		16	obj	16	obj
+18	concevoir	concevoir	VINF	VINF	t=W	17	prep	17	prep
+19	un	un	DET	DET	n=s|g=m	20	det	20	det
+20	vaisseau	vaisseau	NC	NC	n=s|g=m	18	obj	18	obj
+21	destiné	destiner	VPP	VPP	n=s|g=m|t=K	20	mod	20	mod
+22	à	à	P	P		21	mod	21	mod
+23	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	24	det	24	det
+24	mission	mission	NC	NC	n=s|g=f	22	prep	22	prep
+25	lunaire	lunaire	NC	NC	n=s|g=f	24	mod	24	mod
+26	.	.	PONCT	PONCT		25	ponct	25	ponct
+
+</p><p>
+1	Quand	quand	CS	CS		30	mod	30	mod
+2	le	le	DET	DET	n=s|g=m	3	det	3	det
+3	président	président	NC	NC	n=s|g=m	5	suj	5	suj
+4	Kennedy	Kennedy	NPP	NPP	n=s	3	mod	3	mod
+5	annonce	annoncer	V	V	n=s|t=P,S|p=1,3	1	sub	1	sub
+6	à	à	P	P		5	mod	5	mod
+7	la	la	DET	DET	n=s|g=f	8	det	8	det
+8	NASA	_	NPP	NPP		6	prep	6	prep
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	en	en	P	P		5	mod	5	mod
+11	1961	1961	NC	NC		10	prep	10	prep
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	l'	le	DET	DET	n=s	14	det	14	det
+14	objectif	objectif	NC	NC	n=s|g=m	5	obj	5	obj
+15	de	de	P	P		14	dep	14	dep
+16	faire	faire	VINF	VINF	t=W	17	aux_caus	17	aux_caus
+17	atterrir	atterrir	VINF	VINF	t=W	15	prep	15	prep
+18	des	des	DET	DET	n=p	19	det	19	det
+19	hommes	homme	NC	NC	n=p|g=m	17	obj	17	obj
+20	sur	sur	P	P		17	mod	17	mod
+21	la	la	DET	DET	n=s|g=f	22	det	22	det
+22	Lune	_	NPP	NPP		20	prep	20	prep
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	l'	le	DET	DET	n=s	25	det	25	det
+25	étude	étude	NC	NC	n=s|g=f	5	mod	5	mod
+26	de	de	P	P		25	dep	25	dep
+27	ces	ces	DET	DET	n=p	29	det	29	det
+28	trois	trois	ADJ	ADJ	s=card|n=p	29	mod	29	mod
+29	méthodes	méthode	NC	NC	n=p|g=f	26	prep	26	prep
+30	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+31	encore	encore	ADV	ADV		30	mod	30	mod
+32	en	en	P	P		30	mod	30	mod
+33	cours	cour	NC	NC	n=p|g=f	32	prep	32	prep
+34	.	.	PONCT	PONCT		33	ponct	33	ponct
+
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	agence	agence	NC	NC	n=s|g=f	32	mod	32	mod
+3	spatiale	spatial	ADJ	ADJ	n=s|g=f	2	mod	2	mod
+4	maîtrise	maîtrise	NC	NC	n=s|g=f	2	mod	2	mod
+5	peu	peu	ADV	ADV		7	mod	7	mod
+6	les	les	DET	DET	n=p	7	det	7	det
+7	rendez-vous	rendez-vous	NC	NC	g=m	2	mod	2	mod
+8	entre	entre	P	P		7	dep	7	dep
+9	des	des	DET	DET	n=p	10	det	10	det
+10	engins	engin	NC	NC	n=p|g=m	8	prep	8	prep
+11	spatiaux	spatial	ADJ	ADJ	n=p|g=m	10	mod	10	mod
+12	et	et	CC	CC		2	coord	2	coord
+13	elle	elle	CLS	CLS	n=s|g=f|p=3	15	suj	15	suj
+14	ne	ne	ADV	ADV		15	mod	15	mod
+15	maîtrise	maîtriser	V	V	n=s|t=P,S|p=1,3	12	dep_coord	12	dep_coord
+16	pas	pas	ADV	ADV		15	mod	15	mod
+17	l'	le	DET	DET	n=s	18	det	18	det
+18	attitude	attitude	NC	NC	n=s|g=f	15	obj	15	obj
+19	des	de	P+D	P+D	n=p	18	dep	18	dep
+20	astronautes	astronaute	NC	NC	n=p	19	prep	19	prep
+21	à	à	P	P		15	mod	15	mod
+22	rester	rester	VINF	VINF	t=W	21	prep	21	prep
+23	de	de	DET	DET	n=p	25	det	25	det
+24	longs	long	ADJ	ADJ	n=p|g=m	25	mod	25	mod
+25	séjours	séjour	NC	NC	n=p|g=m	22	obj	22	obj
+26	dans	dans	P	P		22	mod	22	mod
+27	l'	le	DET	DET	n=s	28	det	28	det
+28	espace	espace	NC	NC	n=s	26	prep	26	prep
+29	,	,	PONCT	PONCT		28	ponct	28	ponct
+30	la	la	DET	DET	n=s|g=f	31	det	31	det
+31	NASA	_	NPP	NPP		32	suj	32	suj
+32	va	aller	V	V	n=s|t=P|p=3	0	root	0	root
+33	mettre	mettre	VINF	VINF	t=W	32	obj	32	obj
+34	plus	plus	ADV	ADV		33	mod	33	mod
+35	de	de	P	P		33	mod	33	mod
+36	1	1	NC	NC		35	prep	35	prep
+37	an	an	NC	NC	n=s|g=m	36	mod	36	mod
+38	,	,	PONCT	PONCT		37	ponct	37	ponct
+39	passé	passer	VPP	VPP	n=s|g=m|t=K	37	mod	37	mod
+40	en	en	P	P		39	mod	39	mod
+41	études	étude	NC	NC	n=p|g=f	40	prep	40	prep
+42	et	et	CC	CC		40	coord	40	coord
+43	en	en	P	P		42	dep_coord	42	dep_coord
+44	débats	débat	NC	NC	n=p|g=m	43	prep	43	prep
+45	,	,	PONCT	PONCT		44	ponct	44	ponct
+46	avant	avant	P	P		33	mod	33	mod
+47	que	que	CS	CS		46	prep	46	prep
+48	le	le	DET	DET	n=s|g=m	49	det	49	det
+49	scénario	scénario	NC	NC	n=s|g=m	0	_	0	_
+50	du	de	P+D	P+D	n=s|g=m	49	dep	49	dep
+51	LOR	_	NC	NC		50	prep	50	prep
+52	soit	soit	CC	CC		49	coord	49	coord
+53	finalement	_	ADV	ADV		54	mod	54	mod
+54	retenu	retenir	VPP	VPP	n=s|g=m|t=K	52	dep_coord	52	dep_coord
+55	.	.	PONCT	PONCT		54	ponct	54	ponct
+
+1	Au	à	P+D	P+D	n=s|g=m	17	mod	17	mod
+2	début	début	NC	NC	n=s|g=m	1	prep	1	prep
+3	de	de	P	P		2	dep	2	dep
+4	l'	le	DET	DET	n=s	5	det	5	det
+5	étude	étude	NC	NC	n=s|g=f	3	prep	3	prep
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	la	la	DET	DET	n=s|g=f	8	det	8	det
+8	technique	technique	NC	NC	n=s|g=f	17	suj	17	suj
+9	du	de	P+D	P+D	n=s|g=m	8	dep	8	dep
+10	rendez-vous	rendez-vous	NC	NC	g=m	9	prep	9	prep
+11	en	en	P	P		10	dep	10	dep
+12	orbite	orbite	NC	NC	n=s|g=f	11	prep	11	prep
+13	lunaire	lunaire	NC	NC	n=s|g=f	12	mod	12	mod
+14	(	(	PONCT	PONCT		13	ponct	13	ponct
+15	LOR	Lor	NPP	NPP	n=s|g=m	10	mod	10	mod
+16	)	)	PONCT	PONCT		15	ponct	15	ponct
+17	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+18	la	la	DET	DET	n=s|g=f	19	det	19	det
+19	solution	solution	NC	NC	n=s|g=f	17	obj	17	obj
+20	qui	qui	PROREL	PROREL	n=s	21	suj	21	suj
+21	reçoit	recevoir	V	V	n=s|t=P|p=3	19	mod_rel	19	mod_rel
+22	un	un	DET	DET	n=s|g=m	23	det	23	det
+23	échec	échec	NC	NC	n=s|g=m	21	obj	21	obj
+24	total	total	ADJ	ADJ	n=s|g=m	23	mod	23	mod
+25	,	,	PONCT	PONCT		24	ponct	24	ponct
+26	malgré	malgré	P	P		21	mod	21	mod
+27	les	les	DET	DET	n=p	28	det	28	det
+28	démonstrations	démonstration	NC	NC	n=p|g=f	26	prep	26	prep
+29	de	de	P	P		28	dep	28	dep
+30	John	John	NPP	NPP	n=s|g=m	29	prep	29	prep
+31	C	_	NPP	NPP		30	mod	30	mod
+32	.	.	PONCT	PONCT		31	ponct	31	ponct
+33	Houbolt	_	ET	ET		30	dep	30	dep
+34	du	de	P+D	P+D	n=s|g=m	28	dep	28	dep
+35	Centre	Centre	NPP	NPP	n=s|g=m	34	prep	34	prep
+36	de	de	P	P		21	mod	21	mod
+37	Recherche	_	NPP	NPP		36	prep	36	prep
+38	de	de	P	P		21	mod	21	mod
+39	Langley	Langley	NPP	NPP	n=s|g=m	38	prep	38	prep
+40	.	.	PONCT	PONCT		39	ponct	39	ponct
+
+1	D'	de	P	P		16	mod	16	mod
+2	après	après	P	P		1	dep	1	dep
+3	beaucoup	beaucoup	ADV	ADV		5	mod	5	mod
+4	de	de	P	P		5	det	5	det
+5	spécialistes	spécialiste	NC	NC	n=p	2	prep	2	prep
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	le	le	DET	DET	n=s|g=m	8	det	8	det
+8	rendez-vous	rendez-vous	NC	NC	g=m	16	suj	16	suj
+9	entre	entre	P	P		8	dep	8	dep
+10	de	de	DET	DET	n=p	11	det	11	det
+11	modules	module	NC	NC	n=p|g=m	9	prep	9	prep
+12	autour	autour	NC	NC	n=s|g=m	11	mod	11	mod
+13	de	de	P	P		8	dep	8	dep
+14	la	la	DET	DET	n=s|g=f	15	det	15	det
+15	lune	lune	NC	NC	n=s|g=f	13	prep	13	prep
+16	paraît	paraître	V	V	n=s|t=P|p=3	0	root	0	root
+17	trop	trop	ADV	ADV		16	mod	16	mod
+18	dangereux	dangereux	ADJ	ADJ	g=m	16	ats	16	ats
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	avantages	avantage	NC	NC	n=p|g=m	0	_	0	_
+3	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+4	LOR	_	NPP	NPP		3	prep	3	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	en	en	P	P		0	_	0	_
+7	particulier	particulier	NC	NC	n=s|g=m	6	prep	6	prep
+8	le	le	DET	DET	n=s|g=m	9	det	9	det
+9	gain	gain	NC	NC	n=s|g=m	0	_	0	_
+10	sur	sur	P	P		9	dep	9	dep
+11	le	le	DET	DET	n=s|g=m	12	det	12	det
+12	poids	poids	NC	NC	g=m	10	prep	10	prep
+13	à	à	P	P		9	dep	9	dep
+14	placer	placer	VINF	VINF	t=W	13	prep	13	prep
+15	en	en	P	P		14	mod	14	mod
+16	orbite	orbite	NC	NC	n=s|g=f	15	prep	15	prep
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+1	Au	à	P+D	P+D	n=s|g=m	6	mod	6	mod
+2	fur	fur	NC	NC	n=s|g=m	1	prep	1	prep
+3	et	et	CC	CC		1	coord	1	coord
+4	à	à	P	P		3	dep_coord	3	dep_coord
+5	mesure	mesure	NC	NC	n=s|g=f	4	prep	4	prep
+6	que	que	CS	CS		0	root	0	root
+7	les	les	DET	DET	n=p	9	det	9	det
+8	autres	autre	ADJ	ADJ	n=p	9	mod	9	mod
+9	scénarios	scénario	NC	NC	n=p|g=m	10	suj	10	suj
+10	sont	être	V	V	n=p|t=P|p=3	6	sub	6	sub
+11	à	à	P	P		10	mod	10	mod
+12	l'	le	DET	DET	n=s	13	det	13	det
+13	étude	étude	NC	NC	n=s|g=f	11	prep	11	prep
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	le	le	DET	DET	n=s|g=m	16	det	16	det
+16	LOR	_	NPP	NPP		17	suj	17	suj
+17	gagne	gagner	V	V	n=s|t=P,S|p=1,3	6	root	6	root
+18	en	en	P	P		17	mod	17	mod
+19	crédibilité	crédibilité	NC	NC	n=s|g=f	18	prep	18	prep
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+1	Au	à	P+D	P+D	n=s|g=m	28	mod	28	mod
+2	début	début	NC	NC	n=s|g=m	1	prep	1	prep
+3	de	de	P	P		2	dep	2	dep
+4	l'	le	DET	DET	n=s	5	det	5	det
+5	été	été	NC	NC	n=s|g=m	3	prep	3	prep
+6	1962	1962	ADJ	ADJ		5	mod	5	mod
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	les	les	DET	DET	n=p	9	det	9	det
+9	responsables	responsable	NC	NC	n=p	28	suj	28	suj
+10	de	de	P	P		9	dep	9	dep
+11	la	la	DET	DET	n=s|g=f	12	det	12	det
+12	NASA	_	NPP	NPP		10	prep	10	prep
+13	se	se	CLR	CLR	n=p,s|p=3	28	aff	28	aff
+14	sont	être	V	V	n=p|t=P|p=3	28	aux_tps	28	aux_tps
+15	tous	tout	PRO	PRO	n=p|g=m	28	suj	28	suj
+16	convertis	convertir	VPP	VPP	n=p|g=m|t=K	15	mod	15	mod
+17	au	à	P+D	P+D	n=s|g=m	16	mod	16	mod
+18	LOR	_	NPP	NPP		17	prep	17	prep
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	et	et	CC	CC		15	coord	15	coord
+21	le	le	DET	DET	n=s|g=m	22	det	22	det
+22	choix	choix	NC	NC	g=m	20	dep_coord	20	dep_coord
+23	de	de	P	P		22	dep	22	dep
+24	ce	ce	DET	DET	n=s|g=m	25	det	25	det
+25	scénario	scénario	NC	NC	n=s|g=m	23	prep	23	prep
+26	est	être	V	V	n=s|t=P|p=3	28	aux_tps	28	aux_tps
+27	finalement	_	ADV	ADV		28	mod	28	mod
+28	pris	prendre	VPP	VPP	g=m|t=K	0	root	0	root
+29	le	le	DET	DET	n=s|g=m	31	det	31	det
+30	7	7	ADJ	ADJ		31	mod	31	mod
+31	novembre	novembre	NC	NC	n=s|g=m	28	mod	28	mod
+32	1962	1962	NC	NC		31	mod	31	mod
+33	.	.	PONCT	PONCT		32	ponct	32	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	fusée	fusée	NC	NC	n=s|g=f	5	suj	5	suj
+3	Saturn	Saturn	NPP	NPP	n=s|g=m	2	mod	2	mod
+4	V	_	NPP	NPP		2	mod	2	mod
+5	joue	jouer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+6	un	un	DET	DET	n=s|g=m	8	det	8	det
+7	grand	grand	ADJ	ADJ	n=s|g=m	8	mod	8	mod
+8	rôle	rôle	NC	NC	n=s|g=m	5	obj	5	obj
+9	dans	dans	P	P		5	mod	5	mod
+10	le	le	DET	DET	n=s|g=m	11	det	11	det
+11	scénario	scénario	NC	NC	n=s|g=m	9	prep	9	prep
+12	retenu	retenir	VPP	VPP	n=s|g=m|t=K	11	mod	11	mod
+13	et	et	CC	CC		5	coord	5	coord
+14	les	les	DET	DET	n=p	15	det	15	det
+15	études	étude	NC	NC	n=p|g=f	21	suj	21	suj
+16	sur	sur	P	P		15	dep	15	dep
+17	le	le	DET	DET	n=s|g=m	18	det	18	det
+18	lanceur	lanceur	NC	NC	n=s|g=m	16	prep	16	prep
+19	Nova	Nova	NPP	NPP	n=s|g=f	18	mod	18	mod
+20	sont	être	V	V	n=p|t=P|p=3	21	aux_pass	21	aux_pass
+21	arrêtées	arrêter	VPP	VPP	n=p|g=f|t=K	13	dep_coord	13	dep_coord
+22	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+</p><h3>
+1	Développement	développement	NC	NC	n=s|g=m	0	_	0	_
+2	de	de	P	P		1	dep	1	dep
+3	Saturn	Saturn	NPP	NPP	n=s|g=m	2	prep	2	prep
+4	V	_	NPP	NPP		3	mod	3	mod
+
+</h3><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	développement	développement	NC	NC	n=s|g=m	7	suj	7	suj
+3	de	de	P	P		2	dep	2	dep
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	fusée	fusée	NC	NC	n=s|g=f	3	prep	3	prep
+6	Saturn	Saturn	NPP	NPP	n=s|g=m	2	mod	2	mod
+7	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+8	un	un	DET	DET	n=s|g=m	9	det	9	det
+9	défi	défi	NC	NC	n=s|g=m	7	obj	7	obj
+10	sans	sans	P	P		7	mod	7	mod
+11	précédent	précédent	ADJ	ADJ	n=s|g=m	10	prep	10	prep
+12	sur	sur	P	P		7	mod	7	mod
+13	le	le	DET	DET	n=s|g=m	14	det	14	det
+14	plan	plan	NC	NC	n=s|g=m	12	prep	12	prep
+15	technique	technique	ADJ	ADJ	n=s	14	mod	14	mod
+16	et	et	CC	CC		7	coord	7	coord
+17	de	de	P	P		16	dep_coord	16	dep_coord
+18	l'	le	DET	DET	n=s	19	det	19	det
+19	organisation	organisation	NC	NC	n=s|g=f	17	prep	17	prep
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	il	il	CLS	CLS	n=s|g=m|p=3	22	suj	22	suj
+22	fallait	falloir	V	V	n=s|t=I|p=3	7	mod	7	mod
+23	mettre	mettre	VINF	VINF	t=W	22	obj	22	obj
+24	au	à	P+D	P+D	n=s|g=m	23	mod	23	mod
+25	point	point	NC	NC	n=s|g=m	24	prep	24	prep
+26	une	une	DET	DET	n=s|g=f	27	det	27	det
+27	fusée	fusée	NC	NC	n=s|g=f	23	obj	23	obj
+28	dont	dont	PROREL	PROREL		31	mod	31	mod
+29	la	la	DET	DET	n=s|g=f	30	det	30	det
+30	grandeur	grandeur	NC	NC	n=s|g=f	31	suj	31	suj
+31	faisait	faire	V	V	n=s|t=I|p=3	27	mod_rel	27	mod_rel
+32	apparaître	apparaître	VINF	VINF	t=W	31	obj	31	obj
+33	des	des	DET	DET	n=p	34	det	34	det
+34	problèmes	problème	NC	NC	n=p|g=m	32	obj	32	obj
+35	jamais	jamais	ADV	ADV		36	mod	36	mod
+36	rencontrés	rencontrer	VPP	VPP	n=p|g=m|t=K	34	mod	34	mod
+37	,	,	PONCT	PONCT		36	ponct	36	ponct
+38	ainsi	ainsi	ADV	ADV		36	mod	36	mod
+39	que	que	CS	CS		38	dep	38	dep
+40	2	2	ADJ	ADJ		42	mod	42	mod
+41	nouveaux	nouveau	ADJ	ADJ	n=p|g=m	42	mod	42	mod
+42	moteurs	moteur	NC	NC	n=p|g=m	0	_	0	_
+43	aussi	aussi	ADV	ADV		45	mod	45	mod
+44	bien	bien	ADV	ADV		45	mod	45	mod
+45	par	par	P	P		42	dep	42	dep
+46	leur	leur	DET	DET	n=s|p=3|poss=p	47	det	47	det
+47	puissance	puissance	NC	NC	n=s|g=f	45	prep	45	prep
+48	(	(	PONCT	PONCT		47	ponct	47	ponct
+49	F-1	_	NPP	NPP		47	mod	47	mod
+50	)	)	PONCT	PONCT		49	ponct	49	ponct
+51	que	que	CS	CS		45	prep	45	prep
+52	par	par	P	P		51	sub	51	sub
+53	leur	leur	DET	DET	n=s|p=3|poss=p	54	det	54	det
+54	technologie	technologie	NC	NC	n=s|g=f	52	prep	52	prep
+55	(	(	PONCT	PONCT		54	ponct	54	ponct
+56	J-2	_	NPP	NPP		54	mod	54	mod
+57	)	)	PONCT	PONCT		56	ponct	56	ponct
+58	,	,	PONCT	PONCT		56	ponct	56	ponct
+59	ils	ils	CLS	CLS	n=p|g=m|p=3	60	suj	60	suj
+60	avaient	avoir	V	V	n=p|t=I|p=3	52	root	52	root
+61	un	un	DET	DET	n=s|g=m	62	det	62	det
+62	calendrier	calendrier	NC	NC	n=s|g=m	60	obj	60	obj
+63	très	très	ADV	ADV		64	mod	64	mod
+64	serré	serrer	ADJ	ADJ	n=s|g=m|t=K	62	mod	62	mod
+65	(	(	PONCT	PONCT		64	ponct	64	ponct
+66	8	8	ADJ	ADJ		62	mod	62	mod
+67	ans	an	NC	NC	n=p|g=m	62	mod	62	mod
+68	entre	entre	P	P		67	dep	67	dep
+69	le	le	DET	DET	n=s|g=m	70	det	70	det
+70	démarrage	démarrage	NC	NC	n=s|g=m	68	prep	68	prep
+71	du	de	P+D	P+D	n=s|g=m	60	mod	60	mod
+72	programme	programme	NC	NC	n=s|g=m	71	prep	71	prep
+73	Apollo	Apollo	NPP	NPP	n=s|g=m	72	mod	72	mod
+74	et	et	CC	CC		60	coord	60	coord
+75	la	la	DET	DET	n=s|g=f	76	det	76	det
+76	date	date	NC	NC	n=s|g=f	74	dep_coord	74	dep_coord
+77	fixée	fixer	VPP	VPP	n=s|g=f|t=K	76	mod	76	mod
+78	par	par	P	P		77	mod	77	mod
+79	le	le	DET	DET	n=s|g=m	80	det	80	det
+80	président	président	NC	NC	n=s|g=m	78	prep	78	prep
+81	Kennedy	Kennedy	NPP	NPP	n=s	80	mod	80	mod
+82	pour	pour	P	P		77	mod	77	mod
+83	le	le	DET	DET	n=s|g=m	85	det	85	det
+84	premier	premier	ADJ	ADJ	n=s|g=m	85	mod	85	mod
+85	alunissage	alunissage	NC	NC	n=s|g=m	82	prep	82	prep
+86	sur	sur	P	P		77	mod	77	mod
+87	la	la	DET	DET	n=s|g=f	88	det	88	det
+88	Lune	_	NPP	NPP		86	prep	86	prep
+89	d'	de	P	P		77	mod	77	mod
+90	une	une	DET	DET	n=s|g=f	91	det	91	det
+91	mission	mission	NC	NC	n=s|g=f	89	prep	89	prep
+92	habitée	habiter	ADJ	ADJ	n=s|g=f|t=K	91	mod	91	mod
+93	)	)	PONCT	PONCT		92	ponct	92	ponct
+94	.	.	PONCT	PONCT		92	ponct	92	ponct
+
+</p><p>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	mise	mise	NC	NC	n=s|g=f	20	suj	20	suj
+3	au	à	P+D	P+D	n=s|g=m	2	dep	2	dep
+4	point	point	NC	NC	n=s|g=m	3	prep	3	prep
+5	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+6	moteur	moteur	NC	NC	n=s|g=m	5	prep	5	prep
+7	F-1	_	NPP	NPP		6	mod	6	mod
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	d'	de	P	P		2	dep	2	dep
+10	architecture	architecture	NC	NC	n=s|g=f	9	prep	9	prep
+11	classique	classique	ADJ	ADJ	n=s	10	mod	10	mod
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	mais	mais	CC	CC		2	coord	2	coord
+14	d'	de	P	P		13	dep_coord	13	dep_coord
+15	une	une	DET	DET	n=s|g=f	16	det	16	det
+16	puissance	puissance	NC	NC	n=s|g=f	14	prep	14	prep
+17	exceptionnelle	exceptionnel	ADJ	ADJ	n=s|g=f	16	mod	16	mod
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	a	avoir	V	V	n=s|t=P|p=3	20	aux_tps	20	aux_tps
+20	duré	durer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+21	extrêmement	_	ADV	ADV		20	mod	20	mod
+22	longtemps	longtemps	ADV	ADV		20	mod	20	mod
+23	à	à	P	P		20	mod	20	mod
+24	cause	cause	NC	NC	n=s|g=f	23	prep	23	prep
+25	de	de	P	P		20	mod	20	mod
+26	problèmes	problème	NC	NC	n=p|g=m	25	prep	25	prep
+27	d'	de	P	P		20	mod	20	mod
+28	instabilité	instabilité	NC	NC	n=s|g=f	27	prep	27	prep
+29	au	à	P+D	P+D	n=s|g=m	20	mod	20	mod
+30	niveau	niveau	NC	NC	n=s|g=m	29	prep	29	prep
+31	de	de	P	P		20	mod	20	mod
+32	la	la	DET	DET	n=s|g=f	33	det	33	det
+33	chambre	chambre	NC	NC	n=s|g=f	31	prep	31	prep
+34	de	de	P	P		33	dep	33	dep
+35	combustion	combustion	NC	NC	n=s|g=f	34	prep	34	prep
+36	.	.	PONCT	PONCT		35	ponct	35	ponct
+
+1	Le	le	DET	DET	n=s|g=m	3	det	3	det
+2	deuxième	deuxième	ADJ	ADJ	n=s	3	mod	3	mod
+3	étage	étage	NC	NC	n=s|g=m	0	_	0	_
+4	de	de	P	P		3	dep	3	dep
+5	la	la	DET	DET	n=s|g=f	6	det	6	det
+6	fusée	fusée	NC	NC	n=s|g=f	4	prep	4	prep
+7	Saturn	Saturn	NPP	NPP	n=s|g=m	6	mod	6	mod
+8	V	_	NPP	NPP		6	mod	6	mod
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	qui	qui	PROREL	PROREL	n=s	11	suj	11	suj
+11	constituait	constituer	V	V	n=s|t=I|p=3	6	mod_rel	6	mod_rel
+12	une	une	DET	DET	n=s|g=f	13	det	13	det
+13	complexité	complexité	NC	NC	n=s|g=f	11	obj	11	obj
+14	technique	technique	ADJ	ADJ	n=s	13	mod	13	mod
+15	à	à	P	P		11	mod	11	mod
+16	cause	cause	NC	NC	n=s|g=f	15	prep	15	prep
+17	de	de	P	P		11	mod	11	mod
+18	la	la	DET	DET	n=s|g=f	19	det	19	det
+19	taille	taille	NC	NC	n=s|g=f	17	prep	17	prep
+20	de	de	P	P		11	mod	11	mod
+21	son	son	DET	DET	n=s|g=m|p=3|poss=s	22	det	22	det
+22	réservoir	réservoir	NC	NC	n=s|g=m	20	prep	20	prep
+23	d'	de	P	P		11	mod	11	mod
+24	hydrogène	hydrogène	NC	NC	n=s|g=m	23	prep	23	prep
+25	.	.	PONCT	PONCT		24	ponct	24	ponct
+
+</p><p>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	tests	test	NC	NC	n=p|g=m	4	suj	4	suj
+3	ont	avoir	V	V	n=p|t=P|p=3	4	aux_tps	4	aux_tps
+4	eu	avoir	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+5	une	une	DET	DET	n=s|g=f	6	det	6	det
+6	importance	importance	NC	NC	n=s|g=f	4	obj	4	obj
+7	considérable	considérable	ADJ	ADJ	n=s	6	mod	6	mod
+8	dans	dans	P	P		4	mod	4	mod
+9	le	le	DET	DET	n=s|g=m	10	det	10	det
+10	cadre	cadre	NC	NC	n=s|g=m	8	prep	8	prep
+11	du	de	P+D	P+D	n=s|g=m	10	dep	10	dep
+12	programme	programme	NC	NC	n=s|g=m	11	prep	11	prep
+13	puisqu'	puisque	CS	CS		4	mod	4	mod
+14	ils	ils	CLS	CLS	n=p|g=m|p=3	15	suj	15	suj
+15	représentèrent	représenter	V	V	n=p|t=J|p=3	13	sub	13	sub
+16	près	près	ADV	ADV		15	mod	15	mod
+17	de	de	P	P		15	mod	15	mod
+18	50	50	NC	NC		17	prep	17	prep
+19	%	%	NC	NC	g=m	18	mod	18	mod
+20	du	de	P+D	P+D	n=s|g=m	15	mod	15	mod
+21	travail	travail	NC	NC	n=s|g=m	20	prep	20	prep
+22	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+1	Grâce	grâce	NC	NC	n=s|g=f	36	mod	36	mod
+2	aux	à	P+D	P+D	n=p	1	dep	1	dep
+3	avancées	avancée	NC	NC	n=p|g=f	2	prep	2	prep
+4	de	de	P	P		1	dep	1	dep
+5	l'	le	DET	DET	n=s	6	det	6	det
+6	informatique	informatique	NC	NC	n=s|g=f	4	prep	4	prep
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	la	la	DET	DET	n=s|g=f	9	det	9	det
+9	séquence	séquence	NC	NC	n=s|g=f	36	suj	36	suj
+10	des	de	P+D	P+D	n=p	9	dep	9	dep
+11	tests	test	NC	NC	n=p|g=m	10	prep	10	prep
+12	et	et	CC	CC		9	coord	9	coord
+13	l'	le	DET	DET	n=s	14	det	14	det
+14	enregistrement	enregistrement	NC	NC	n=s|g=m	12	dep_coord	12	dep_coord
+15	des	de	P+D	P+D	n=p	9	dep	9	dep
+16	mesures	mesure	NC	NC	n=p|g=f	15	prep	15	prep
+17	de	de	P	P		9	dep	9	dep
+18	centaines	centaine	NC	NC	n=p|g=f	17	prep	17	prep
+19	de	de	P	P		9	dep	9	dep
+20	paramètres	paramètre	NC	NC	n=p|g=m	19	prep	19	prep
+21	(	(	PONCT	PONCT		20	ponct	20	ponct
+22	jusqu'	jusque	P	P		9	dep	9	dep
+23	à	à	P	P		22	dep	22	dep
+24	1_000	1_000	NPP	NPP		23	prep	23	prep
+25	pour	pour	P	P		9	dep	9	dep
+26	un	un	DET	DET	n=s|g=m	27	det	27	det
+27	étage	étage	NC	NC	n=s|g=m	25	prep	25	prep
+28	de	de	P	P		9	dep	9	dep
+29	la	la	DET	DET	n=s|g=f	30	det	30	det
+30	fusée	fusée	NC	NC	n=s|g=f	28	prep	28	prep
+31	Saturn	Saturn	NPP	NPP	n=s|g=m	30	mod	30	mod
+32	V	_	NPP	NPP		30	mod	30	mod
+33	)	)	PONCT	PONCT		32	ponct	32	ponct
+34	se	se	CLR	CLR	n=p,s|p=3	36	aff	36	aff
+35	sont	être	V	V	n=p|t=P|p=3	36	aux_tps	36	aux_tps
+36	déroulés	dérouler	VPP	VPP	n=p|g=m|t=K	0	root	0	root
+37	pour	pour	P	P		36	mod	36	mod
+38	la	la	DET	DET	n=s|g=f	40	det	40	det
+39	première	premier	ADJ	ADJ	n=s|g=f	40	mod	40	mod
+40	fois	fois	NC	NC	g=f	37	prep	37	prep
+41	automatiquement	_	ADV	ADV		36	mod	36	mod
+42	.	.	PONCT	PONCT		41	ponct	41	ponct
+
+1	Ceci	ceci	PRO	PRO	n=s|g=m	2	suj	2	suj
+2	permit	permettre	V	V	n=s|t=J|p=3	0	root	0	root
+3	aux	à	P+D	P+D	n=p	2	mod	2	mod
+4	ingénieurs	ingénieur	NC	NC	n=p|g=m	3	prep	3	prep
+5	de	de	P	P		2	mod	2	mod
+6	se	se	CLR	CLR	n=p,s|p=3	7	aff	7	aff
+7	concentrer	concentrer	VINF	VINF	t=W	5	prep	5	prep
+8	sur	sur	P	P		7	mod	7	mod
+9	l'	le	DET	DET	n=s	10	det	10	det
+10	interprétation	interprétation	NC	NC	n=s|g=f	8	prep	8	prep
+11	des	de	P+D	P+D	n=p	7	mod	7	mod
+12	résultats	résultat	NC	NC	n=p|g=m	11	prep	11	prep
+13	et	et	CC	CC		2	coord	2	coord
+14	réduit	réduire	V	V	n=s|t=P|p=3	13	dep_coord	13	dep_coord
+15	la	la	DET	DET	n=s|g=f	16	det	16	det
+16	durée	durée	NC	NC	n=s|g=f	14	obj	14	obj
+17	des	de	P+D	P+D	n=p	16	dep	16	dep
+18	phases	phase	NC	NC	n=p|g=f	17	prep	17	prep
+19	de	de	P	P		18	dep	18	dep
+20	qualification	qualification	NC	NC	n=s|g=f	19	prep	19	prep
+21	.	.	PONCT	PONCT		20	ponct	20	ponct
+
+</p><h3>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	création	création	NC	NC	n=s|g=f	0	_	0	_
+3	d'	de	P	P		2	dep	2	dep
+4	installations	installation	NC	NC	n=p|g=f	3	prep	3	prep
+5	adaptées	adapter	ADJ	ADJ	n=p|g=f|t=K	4	mod	4	mod
+6	pour	pour	P	P		2	dep	2	dep
+7	Saturn	Saturn	NPP	NPP	n=s|g=m	6	prep	6	prep
+8	V	_	NPP	NPP		7	mod	7	mod
+
+</h3><p>
+1	Pour	pour	P	P		14	mod	14	mod
+2	développer	développer	VINF	VINF	t=W	1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	tester	tester	VINF	VINF	t=W	2	obj	2	obj
+5	et	et	CC	CC		4	coord	4	coord
+6	lancer	lancer	VINF	VINF	t=W	5	dep_coord	5	dep_coord
+7	la	la	DET	DET	n=s|g=f	8	det	8	det
+8	fusée	fusée	NC	NC	n=s|g=f	4	mod	4	mod
+9	Saturn	Saturn	NPP	NPP	n=s|g=m	8	mod	8	mod
+10	V	_	NPP	NPP		8	mod	8	mod
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	la	la	DET	DET	n=s|g=f	13	det	13	det
+13	NASA	_	NPP	NPP		14	suj	14	suj
+14	crée	créer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+15	de	de	DET	DET	n=p	17	det	17	det
+16	nouvelles	nouveau	ADJ	ADJ	n=p|g=f	17	mod	17	mod
+17	installations	installation	NC	NC	n=p|g=f	14	obj	14	obj
+18	adaptées	adapter	ADJ	ADJ	n=p|g=f|t=K	17	mod	17	mod
+19	à	à	P	P		14	mod	14	mod
+20	la	la	DET	DET	n=s|g=f	21	det	21	det
+21	dimension	dimension	NC	NC	n=s|g=f	19	prep	19	prep
+22	du	de	P+D	P+D	n=s|g=m	21	dep	21	dep
+23	projet	projet	NC	NC	n=s|g=m	22	prep	22	prep
+24	:	:	PONCT	PONCT		23	ponct	23	ponct
+
+</p><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	Centre	Centre	NPP	NPP	n=s|g=m	0	_	0	_
+3	de	de	P	P		2	dep	2	dep
+4	vol	vol	NC	NC	n=s|g=m	3	prep	3	prep
+5	spatial	spatial	ADJ	ADJ	n=s|g=m	4	mod	4	mod
+6	Marshall	Marshall	NPP	NPP	n=s|g=m	4	mod	4	mod
+7	(	(	PONCT	PONCT		6	ponct	6	ponct
+8	George	George	NPP	NPP	n=s|g=m	4	mod	4	mod
+9	C	_	NPP	NPP		4	mod	4	mod
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+11	Marshall	Marshall	NPP	NPP	n=s|g=m	2	mod	2	mod
+12	Space	_	NPP	NPP		2	mod	2	mod
+13	Flight	_	NPP	NPP		2	mod	2	mod
+14	Center	_	NPP	NPP		2	mod	2	mod
+15	ou	ou	CC	CC		2	coord	2	coord
+16	MSFC	_	NPP	NPP		15	dep_coord	15	dep_coord
+17	)	)	PONCT	PONCT		16	ponct	16	ponct
+18	,	,	PONCT	PONCT		16	ponct	16	ponct
+19	situé	situer	VPP	VPP	n=s|g=m|t=K	2	mod	2	mod
+20	près	près	ADV	ADV		19	mod	19	mod
+21	de	de	P	P		19	mod	19	mod
+22	Huntsville	_	NPP	NPP		21	prep	21	prep
+23	dans	dans	P	P		19	mod	19	mod
+24	l'	le	DET	DET	n=s	25	det	25	det
+25	Alabama	Alabama	NPP	NPP	n=s|g=m	23	prep	23	prep
+26	.	.	PONCT	PONCT		25	ponct	25	ponct
+
+1	On	on	CLS	CLS	n=s|p=3	2	suj	2	suj
+2	pouvait	pouvoir	V	V	n=s|t=I|p=3	0	root	0	root
+3	y	y	CLO	CLO		4	aff	4	aff
+4	trouver	trouver	VINF	VINF	t=W	2	obj	2	obj
+5	des	des	DET	DET	n=p	6	det	6	det
+6	bancs	banc	NC	NC	n=p|g=m	4	obj	4	obj
+7	d'	de	P	P		4	mod	4	mod
+8	essai	essai	NC	NC	n=s|g=m	7	prep	7	prep
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	des	des	DET	DET	n=p	11	det	11	det
+11	bureaux	bureau	NC	NC	n=p|g=m	2	mod	2	mod
+12	d'	de	P	P		11	dep	11	dep
+13	études	étude	NC	NC	n=p|g=f	12	prep	12	prep
+14	et	et	CC	CC		11	coord	11	coord
+15	des	des	DET	DET	n=p	16	det	16	det
+16	installations	installation	NC	NC	n=p|g=f	14	dep_coord	14	dep_coord
+17	d'	de	P	P		16	dep	16	dep
+18	assemblage	assemblage	NC	NC	n=s|g=m	17	prep	17	prep
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	Les	les	DET	DET	n=p	3	det	3	det
+2	premiers	premier	ADJ	ADJ	n=p|g=m	3	mod	3	mod
+3	exemplaires	exemplaire	NC	NC	n=p|g=m	11	suj	11	suj
+4	de	de	P	P		3	dep	3	dep
+5	la	la	DET	DET	n=s|g=f	6	det	6	det
+6	fusée	fusée	NC	NC	n=s|g=f	4	prep	4	prep
+7	Saturn	Saturn	NPP	NPP	n=s|g=m	6	mod	6	mod
+8	I	_	NPP	NPP		6	mod	6	mod
+9	ont	avoir	V	V	n=p|t=P|p=3	11	aux_tps	11	aux_tps
+10	été	être	VPP	VPP	t=K	11	aux_pass	11	aux_pass
+11	construits	construire	VPP	VPP	n=p|g=m|t=K	0	root	0	root
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	avant	avant	P	P		11	mod	11	mod
+14	que	que	CS	CS		13	prep	13	prep
+15	le	le	DET	DET	n=s|g=m	16	det	16	det
+16	reste	reste	NC	NC	n=s|g=m	21	suj	21	suj
+17	de	de	P	P		16	dep	16	dep
+18	la	la	DET	DET	n=s|g=f	19	det	19	det
+19	production	production	NC	NC	n=s|g=f	17	prep	17	prep
+20	soit	être	VS	VS	n=s|t=S|p=3	21	aux_pass	21	aux_pass
+21	confié	confier	VPP	VPP	n=s|g=m|t=K	14	sub	14	sub
+22	à	à	P	P		21	mod	21	mod
+23	l'	le	DET	DET	n=s	24	det	24	det
+24	industrie	industrie	NC	NC	n=s|g=f	22	prep	22	prep
+25	.	.	PONCT	PONCT		24	ponct	24	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	emploiera	employer	V	V	n=s|t=F|p=3	0	root	0	root
+3	jusqu'	jusque	P	P		2	mod	2	mod
+4	à	à	P	P		3	prep	3	prep
+5	20_000	20_000	ADJ	ADJ		6	mod	6	mod
+6	personnes	personne	NC	NC	n=p|g=f	4	prep	4	prep
+7	.	.	PONCT	PONCT		6	ponct	6	ponct
+
+</p><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	Centre	Centre	NPP	NPP	n=s|g=m	17	suj	17	suj
+3	spatial	spatial	ADJ	ADJ	n=s|g=m	2	mod	2	mod
+4	Kennedy	Kennedy	NPP	NPP	n=s	2	mod	2	mod
+5	(	(	PONCT	PONCT		4	ponct	4	ponct
+6	KSC	_	NPP	NPP		2	mod	2	mod
+7	)	)	PONCT	PONCT		6	ponct	6	ponct
+8	,	,	PONCT	PONCT		6	ponct	6	ponct
+9	situé	situer	VPP	VPP	n=s|g=m|t=K	2	mod	2	mod
+10	sur	sur	P	P		9	mod	9	mod
+11	l'	le	DET	DET	n=s	12	det	12	det
+12	île	île	NC	NC	n=s|g=f	10	prep	10	prep
+13	Meritt	_	NPP	NPP		12	mod	12	mod
+14	en	en	P	P		9	mod	9	mod
+15	Floride	Floride	NPP	NPP	n=s|g=f	14	prep	14	prep
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+18	le	le	DET	DET	n=s|g=m	19	det	19	det
+19	site	site	NC	NC	n=s|g=m	17	obj	17	obj
+20	d'	de	P	P		17	mod	17	mod
+21	où	où	PROREL	PROREL		23	mod	23	mod
+22	sont	être	V	V	n=p|t=P|p=3	23	aux_tps	23	aux_tps
+23	lancées	lancer	VPP	VPP	n=p|g=f|t=K	17	mod	17	mod
+24	les	les	DET	DET	n=p	25	det	25	det
+25	fusées	fusée	NC	NC	n=p|g=f	23	suj	23	suj
+26	du	de	P+D	P+D	n=s|g=m	25	dep	25	dep
+27	programme	programme	NC	NC	n=s|g=m	26	prep	26	prep
+28	Apollo	Apollo	NPP	NPP	n=s|g=m	27	mod	27	mod
+29	.	.	PONCT	PONCT		28	ponct	28	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	NASA	_	NPP	NPP		18	suj	18	suj
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	qui	qui	PROREL	PROREL	n=s	18	suj	18	suj
+5	avait	avoir	V	V	n=s|t=I|p=3	18	mod	18	mod
+6	besoin	besoin	NC	NC	n=s|g=m	5	obj	5	obj
+7	d'	de	P	P		5	mod	5	mod
+8	installations	installation	NC	NC	n=p|g=f	7	prep	7	prep
+9	à	à	P	P		5	mod	5	mod
+10	l'	le	DET	DET	n=s	11	det	11	det
+11	échelle	échelle	NC	NC	n=s|g=f	9	prep	9	prep
+12	de	de	P	P		5	mod	5	mod
+13	la	la	DET	DET	n=s|g=f	14	det	14	det
+14	fusée	fusée	NC	NC	n=s|g=f	12	prep	12	prep
+15	Saturn	Saturn	NPP	NPP	n=s|g=m	14	mod	14	mod
+16	V	_	NPP	NPP		14	mod	14	mod
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	mit	mettre	V	V	n=s|t=J|p=3	0	root	0	root
+19	en	en	P	P		18	mod	18	mod
+20	construction	construction	NC	NC	n=s|g=f	19	prep	19	prep
+21	en	en	P	P		18	mod	18	mod
+22	1963	1963	NC	NC		21	prep	21	prep
+23	cette	cette	DET	DET	n=s|g=f	25	det	25	det
+24	nouvelle	nouveau	ADJ	ADJ	n=s|g=f	25	mod	25	mod
+25	base	base	NC	NC	n=s|g=f	18	obj	18	obj
+26	de	de	P	P		25	dep	25	dep
+27	lancement	lancement	NC	NC	n=s|g=m	26	prep	26	prep
+28	,	,	PONCT	PONCT		27	ponct	27	ponct
+29	qui	qui	PROREL	PROREL	n=s	30	suj	30	suj
+30	jouxtait	jouxter	V	V	n=s|t=I|p=3	25	mod_rel	25	mod_rel
+31	celle	celle	PRO	PRO	n=s|g=f	30	obj	30	obj
+32	de	de	P	P		30	mod	30	mod
+33	Cape	_	NPP	NPP		32	prep	32	prep
+34	Canaveral	_	NPP	NPP		33	mod	33	mod
+35	appartenant	appartenir	VPR	VPR	t=G	30	mod	30	mod
+36	à	à	P	P		35	mod	35	mod
+37	l'	le	DET	DET	n=s	38	det	38	det
+38	Armée	armée	NC	NC	n=s|g=f	36	prep	36	prep
+39	de	de	P	P		35	mod	35	mod
+40	l'	le	DET	DET	n=s	41	det	41	det
+41	Air	air	NC	NC	n=s|g=m	39	prep	39	prep
+42	américaine	américain	ADJ	ADJ	n=s|g=f	41	mod	41	mod
+43	et	et	CC	CC		18	coord	18	coord
+44	d'	de	P	P		43	dep_coord	43	dep_coord
+45	où	où	PROREL	PROREL		44	prep	44	prep
+46	étaient	être	V	V	n=p|t=I|p=3	0	_	0	_
+47	parties	partie	NC	NC	n=p|g=f	46	suj	46	suj
+48	,	,	PONCT	PONCT		47	ponct	47	ponct
+49	jusqu'	jusque	P	P		46	mod	46	mod
+50	alors	alors	ADV	ADV		49	mod	49	mod
+51	,	,	PONCT	PONCT		50	ponct	50	ponct
+52	toutes	tout	ADJ	ADJ	n=p|g=f	54	mod	54	mod
+53	les	les	DET	DET	n=p	54	det	54	det
+54	missions	mission	NC	NC	n=p|g=f	49	prep	49	prep
+55	habitées	habiter	ADJ	ADJ	n=p|g=f|t=K	54	mod	54	mod
+56	et	et	CC	CC		54	coord	54	coord
+57	les	les	DET	DET	n=p	58	det	58	det
+58	sondes	sonde	NC	NC	n=p|g=f	56	dep_coord	56	dep_coord
+59	spatiales	spatial	ADJ	ADJ	n=p|g=f	58	mod	58	mod
+60	de	de	P	P		58	dep	58	dep
+61	l'	le	DET	DET	n=s	62	det	62	det
+62	agence	agence	NC	NC	n=s|g=f	60	prep	60	prep
+63	spatiale	spatial	ADJ	ADJ	n=s|g=f	62	mod	62	mod
+64	.	.	PONCT	PONCT		63	ponct	63	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	centre	centre	NC	NC	n=s|g=m	3	suj	3	suj
+3	effectuait	effectuer	V	V	n=s|t=I|p=3	0	root	0	root
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	qualification	qualification	NC	NC	n=s|g=f	3	obj	3	obj
+6	de	de	P	P		3	mod	3	mod
+7	la	la	DET	DET	n=s|g=f	8	det	8	det
+8	fusée	fusée	NC	NC	n=s|g=f	6	prep	6	prep
+9	assemblée	assembler	VPP	VPP	n=s|g=f|t=K	8	mod	8	mod
+10	(	(	PONCT	PONCT		9	ponct	9	ponct
+11	«_	"	PONCT	PONCT		9	ponct	9	ponct
+12	all	_	NPP	NPP		8	mod	8	mod
+13	up	_	NPP	NPP		8	mod	8	mod
+14	_»	"	PONCT	PONCT		13	ponct	13	ponct
+15	)	)	PONCT	PONCT		13	ponct	13	ponct
+16	et	et	CC	CC		3	coord	3	coord
+17	contrôlait	contrôler	V	V	n=s|t=I|p=3	16	dep_coord	16	dep_coord
+18	les	les	DET	DET	n=p	19	det	19	det
+19	opérations	opération	NC	NC	n=p|g=f	17	obj	17	obj
+20	sur	sur	P	P		17	mod	17	mod
+21	la	la	DET	DET	n=s|g=f	22	det	22	det
+22	fusée	fusée	NC	NC	n=s|g=f	20	prep	20	prep
+23	jusqu'	jusque	P	P		17	mod	17	mod
+24	à	à	P	P		23	prep	23	prep
+25	son	son	DET	DET	n=s|g=m|p=3|poss=s	26	det	26	det
+26	décollage	décollage	NC	NC	n=s|g=m	24	prep	24	prep
+27	.	.	PONCT	PONCT		26	ponct	26	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	employait	employer	V	V	n=s|t=I|p=3	0	root	0	root
+3	en	en	P	P		2	mod	2	mod
+4	1965	1965	NC	NC		3	prep	3	prep
+5	environ	environ	ADV	ADV		2	mod	2	mod
+6	20_000	20_000	ADJ	ADJ		7	mod	7	mod
+7	personnes	personne	NC	NC	n=p|g=f	2	obj	2	obj
+8	.	.	PONCT	PONCT		7	ponct	7	ponct
+
+1	Au	à	P+D	P+D	n=s|g=m	11	mod	11	mod
+2	cœur	_	NC	NC		1	prep	1	prep
+3	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+4	centre	centre	NC	NC	n=s|g=m	3	prep	3	prep
+5	spatial	spatial	ADJ	ADJ	n=s|g=m	4	mod	4	mod
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	le	le	DET	DET	n=s|g=m	8	det	8	det
+8	complexe	complexe	NC	NC	n=s|g=m	11	suj	11	suj
+9	de	de	P	P		8	dep	8	dep
+10	lancement	lancement	NC	NC	n=s|g=m	9	prep	9	prep
+11	comportait	comporter	V	V	n=s|t=I|p=3	0	root	0	root
+12	2	2	ADJ	ADJ		13	mod	13	mod
+13	aires	aire	NC	NC	n=p|g=f	11	obj	11	obj
+14	de	de	P	P		13	dep	13	dep
+15	lancement	lancement	NC	NC	n=s|g=m	14	prep	14	prep
+16	et	et	CC	CC		11	coord	11	coord
+17	un	un	DET	DET	n=s|g=m	19	det	19	det
+18	immense	immense	ADJ	ADJ	n=s	19	mod	19	mod
+19	bâtiment	bâtiment	NC	NC	n=s|g=m	38	suj	38	suj
+20	d'	de	P	P		19	dep	19	dep
+21	assemblage	assemblage	NC	NC	n=s|g=m	20	prep	20	prep
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+23	le	le	DET	DET	n=s|g=m	24	det	24	det
+24	VAB	_	NPP	NPP		19	mod	19	mod
+25	(	(	PONCT	PONCT		24	ponct	24	ponct
+26	haut	haut	NC	NC	n=s|g=m	24	mod	24	mod
+27	de	de	P	P		26	dep	26	dep
+28	140	140	ADJ	ADJ		29	mod	29	mod
+29	mètres	mètre	NC	NC	n=p|g=m	27	prep	27	prep
+30	)	)	PONCT	PONCT		29	ponct	29	ponct
+31	,	,	PONCT	PONCT		29	ponct	29	ponct
+32	dans	dans	P	P		38	mod	38	mod
+33	lequel	lequel	PROREL	PROREL	n=s|g=m	32	prep	32	prep
+34	plusieurs	plusieurs	DET	DET	n=p	35	det	35	det
+35	fusées	fusée	NC	NC	n=p|g=f	38	suj	38	suj
+36	Saturn	Saturn	NPP	NPP	n=s|g=m	35	mod	35	mod
+37	V	_	NPP	NPP		35	mod	35	mod
+38	pouvaient	pouvoir	V	V	n=p|t=I|p=3	16	dep_coord	16	dep_coord
+39	être	être	VINF	VINF	t=W	38	obj	38	obj
+40	préparées	préparer	VPP	VPP	n=p|g=f|t=K	39	ponct	39	ponct
+41	en	en	P	P		39	mod	39	mod
+42	parallèle	parallèle	ADJ	ADJ	n=s	41	prep	41	prep
+43	.	.	PONCT	PONCT		42	ponct	42	ponct
+
+1	Plusieurs	plusieurs	DET	DET	n=p	2	det	2	det
+2	plates-formes	plate-forme	NC	NC	n=p|g=f	6	suj	6	suj
+3	de	de	P	P		2	dep	2	dep
+4	lancement	lancement	NC	NC	n=s|g=m	3	prep	3	prep
+5	mobiles	mobile	ADJ	ADJ	n=p	2	mod	2	mod
+6	permettaient	permettre	V	V	n=p|t=I|p=3	0	root	0	root
+7	de	de	P	P		6	mod	6	mod
+8	transporter	transporter	VINF	VINF	t=W	7	prep	7	prep
+9	la	la	DET	DET	n=s|g=f	10	det	10	det
+10	fusée	fusée	NC	NC	n=s|g=f	8	obj	8	obj
+11	Saturn	Saturn	NPP	NPP	n=s|g=m	10	mod	10	mod
+12	V	_	NPP	NPP		10	mod	10	mod
+13	jusqu'	jusque	P	P		6	mod	6	mod
+14	au	à	P+D	P+D	n=s|g=m	6	mod	6	mod
+15	site	site	NC	NC	n=s|g=m	14	prep	14	prep
+16	de	de	P	P		15	dep	15	dep
+17	lancement	lancement	NC	NC	n=s|g=m	16	prep	16	prep
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	Jusqu'	jusque	P	P		8	mod	8	mod
+2	en	en	P	P		8	mod	8	mod
+3	2011	2011	NC	NC		2	prep	2	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	le	le	DET	DET	n=s|g=m	6	det	6	det
+6	complexe	complexe	NC	NC	n=s|g=m	8	suj	8	suj
+7	était	être	V	V	n=s|t=I|p=3	8	aux_tps	8	aux_tps
+8	utilisé	utiliser	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+9	pour	pour	P	P		8	mod	8	mod
+10	lancer	lancer	VINF	VINF	t=W	9	prep	9	prep
+11	la	la	DET	DET	n=s|g=f	12	det	12	det
+12	navette	navette	NC	NC	n=s|g=f	10	obj	10	obj
+13	spatiale	spatial	ADJ	ADJ	n=s|g=f	12	mod	12	mod
+14	américaine	américain	ADJ	ADJ	n=s|g=f	12	mod	12	mod
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+</p><p>
+1	En	en	P	P		12	mod	12	mod
+2	1961	1961	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	le	le	DET	DET	n=s|g=m	5	det	5	det
+5	Centre	Centre	NPP	NPP	n=s|g=m	12	suj	12	suj
+6	spatial	spatial	ADJ	ADJ	n=s|g=m	5	mod	5	mod
+7	John	John	NPP	NPP	n=s|g=m	5	mod	5	mod
+8	C	_	NPP	NPP		5	mod	5	mod
+9	.	.	PONCT	PONCT		8	ponct	8	ponct
+10	Stennis	_	NPP	NPP		5	mod	5	mod
+11	est	être	V	V	n=s|t=P|p=3	12	aux_tps	12	aux_tps
+12	édifié	édifier	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+13	dans	dans	P	P		12	mod	12	mod
+14	l'	le	DET	DET	n=s	15	det	15	det
+15	État	État	NC	NC	n=s|g=m	13	prep	13	prep
+16	du	de	P+D	P+D	n=s|g=m	12	mod	12	mod
+17	Mississippi	Mississippi-Missouri	NPP	NPP	n=s|g=m	16	prep	16	prep
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	Le	le	DET	DET	n=s|g=m	3	det	3	det
+2	nouveau	nouveau	ADJ	ADJ	n=s|g=m	3	mod	3	mod
+3	centre	centre	NC	NC	n=s|g=m	4	suj	4	suj
+4	disposait	disposer	V	V	n=s|t=I|p=3	0	root	0	root
+5	de	de	P	P		4	mod	4	mod
+6	bancs	banc	NC	NC	n=p|g=m	5	prep	5	prep
+7	d'	de	P	P		4	mod	4	mod
+8	essai	essai	NC	NC	n=s|g=m	7	prep	7	prep
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	utilisés	utiliser	VPP	VPP	n=p|g=m|t=K	4	mod	4	mod
+11	pour	pour	P	P		10	mod	10	mod
+12	tester	tester	VINF	VINF	t=W	11	prep	11	prep
+13	les	les	DET	DET	n=p	14	det	14	det
+14	moteurs-fusées	_	NC	NC		12	obj	12	obj
+15	qui	qui	PROREL	PROREL	n=s	17	suj	17	suj
+16	été	être	VPP	VPP	t=K	17	aux_pass	17	aux_pass
+17	développés	développer	VPP	VPP	n=p|g=m|t=K	14	mod_rel	14	mod_rel
+18	pour	pour	P	P		17	mod	17	mod
+19	le	le	DET	DET	n=s|g=m	20	det	20	det
+20	programme	programme	NC	NC	n=s|g=m	18	prep	18	prep
+21	.	.	PONCT	PONCT		20	ponct	20	ponct
+
+</p><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	Langley	Langley	NPP	NPP	n=s|g=m	15	suj	15	suj
+3	Research	_	NPP	NPP		2	mod	2	mod
+4	Center	_	NPP	NPP		2	mod	2	mod
+5	(	(	PONCT	PONCT		4	ponct	4	ponct
+6	1914	1914	NC	NC		2	mod	2	mod
+7	)	)	PONCT	PONCT		6	ponct	6	ponct
+8	,	,	PONCT	PONCT		6	ponct	6	ponct
+9	situé	situer	VPP	VPP	n=s|g=m|t=K	2	mod	2	mod
+10	à	à	P	P		9	mod	9	mod
+11	Hampton	_	NPP	NPP		10	prep	10	prep
+12	(	(	PONCT	PONCT		11	ponct	11	ponct
+13	Virginie	virginie	NC	NC	n=s|g=m	9	mod	9	mod
+14	)	)	PONCT	PONCT		13	ponct	13	ponct
+15	abritait	abriter	V	V	n=s|t=I|p=3	0	root	0	root
+16	de	de	DET	DET	n=p	18	det	18	det
+17	nombreuses	nombreux	ADJ	ADJ	n=p|g=f	18	mod	18	mod
+18	souffleries	soufflerie	NC	NC	n=p|g=f	15	obj	15	obj
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	servit	servir	V	V	n=s|t=J|p=3	0	root	0	root
+3	jusqu'	jusque	P	P		2	mod	2	mod
+4	en	en	P	P		3	dep	3	dep
+5	1963	1963	NC	NC		4	prep	4	prep
+6	de	de	P	P		2	mod	2	mod
+7	siège	siège	NC	NC	n=s|g=m	6	prep	6	prep
+8	au	à	P+D	P+D	n=s|g=m	2	mod	2	mod
+9	MSC	_	NPP	NPP		8	prep	8	prep
+10	et	et	CC	CC		2	coord	2	coord
+11	continua	continuer	V	V	n=s|t=J|p=3	10	dep_coord	10	dep_coord
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	par	par	P	P		11	mod	11	mod
+14	la	la	DET	DET	n=s|g=f	15	det	15	det
+15	suite	suite	NC	NC	n=s|g=f	13	prep	13	prep
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	à	à	P	P		11	mod	11	mod
+18	abriter	abriter	VINF	VINF	t=W	17	prep	17	prep
+19	certains	certain	DET	DET	n=p|g=m	20	det	20	det
+20	simulateurs	simulateur	NC	NC	n=p|g=m	18	obj	18	obj
+21	du	de	P+D	P+D	n=s|g=m	18	mod	18	mod
+22	programme	programme	NC	NC	n=s|g=m	21	prep	21	prep
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+</p><h2>
+1	Caractéristique	caractéristique	NC	NC	n=s|g=f	0	_	0	_
+2	de	de	P	P		1	dep	1	dep
+3	Saturn	Saturn	NPP	NPP	n=s|g=m	2	prep	2	prep
+4	V	_	NPP	NPP		3	mod	3	mod
+
+</h2><p>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	fusée	fusée	NC	NC	n=s|g=f	6	suj	6	suj
+3	Saturn	Saturn	NPP	NPP	n=s|g=m	2	mod	2	mod
+4	V	_	NPP	NPP		2	mod	2	mod
+5	est	être	V	V	n=s|t=P|p=3	6	aux_tps	6	aux_tps
+6	composée	composer	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+7	de	de	P	P		6	mod	6	mod
+8	3	3	NC	NC		7	prep	7	prep
+9	étages	étage	NC	NC	n=p|g=m	8	mod	8	mod
+10	(	(	PONCT	PONCT		9	ponct	9	ponct
+11	le	le	DET	DET	n=s|g=m	12	det	12	det
+12	S-IC	_	NPP	NPP		6	mod	6	mod
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	le	le	DET	DET	n=s|g=m	15	det	15	det
+15	S-II	_	NPP	NPP		12	coord	12	coord
+16	et	et	CC	CC		15	coord	15	coord
+17	le	le	DET	DET	n=s|g=m	18	det	18	det
+18	S-IVB	_	NPP	NPP		16	dep_coord	16	dep_coord
+19	)	)	PONCT	PONCT		18	ponct	18	ponct
+20	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	En	en	P	P		6	mod	6	mod
+2	tout	tout	PRO	PRO	n=s|g=m	1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	Saturn	Saturn	NPP	NPP	n=s|g=m	6	suj	6	suj
+5	V	_	NPP	NPP		4	mod	4	mod
+6	comprend	comprendre	V	V	n=s|t=P|p=3	0	root	0	root
+7	11	11	NC	NC		6	obj	6	obj
+8	moteurs-fusées	_	NC	NC		7	mod	7	mod
+9	.	.	PONCT	PONCT		8	ponct	8	ponct
+
+</p><h3>
+1	Premier	premier	ADJ	ADJ	n=s|g=m	2	mod	2	mod
+2	étage	étage	NC	NC	n=s|g=m	0	_	0	_
+3	(	(	PONCT	PONCT		2	ponct	2	ponct
+4	S-IC	_	NPP	NPP		0	_	0	_
+5	)	)	PONCT	PONCT		4	ponct	4	ponct
+
+</h3><p>
+1	Le	le	DET	DET	n=s|g=m	3	det	3	det
+2	1	1	ADJ	ADJ		3	mod	3	mod
+3	étage	étage	NC	NC	n=s|g=m	5	suj	5	suj
+4	est	être	V	V	n=s|t=P|p=3	5	aux_tps	5	aux_tps
+5	construit	construire	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+6	par	par	P	P		5	mod	5	mod
+7	la	la	DET	DET	n=s|g=f	8	det	8	det
+8	société	société	NC	NC	n=s|g=f	6	prep	6	prep
+9	Boeing	Boeing	NPP	NPP	n=s|g=m	8	mod	8	mod
+10	au	à	P+D	P+D	n=s|g=m	5	mod	5	mod
+11	centre	centre	NC	NC	n=s|g=m	10	prep	10	prep
+12	d’	de	P	P		11	dep	11	dep
+13	assemblage	assemblage	NC	NC	n=s|g=m	12	prep	12	prep
+14	Michoud	_	NPP	NPP		13	mod	13	mod
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	à	à	P	P		5	mod	5	mod
+17	la	la	DET	DET	n=s|g=f	18	det	18	det
+18	Nouvelle-Orléans	_	NPP	NPP		16	prep	16	prep
+19	où	où	PROREL	PROREL		23	suj	23	suj
+20	plus	plus	ADV	ADV		23	mod	23	mod
+21	tard	tard	ADV	ADV		23	mod	23	mod
+22	seront	être	V	V	n=p|t=F|p=3	23	aux_pass	23	aux_pass
+23	construits	construire	VPP	VPP	n=p|g=m|t=K	5	mod	5	mod
+24	les	les	DET	DET	n=p	25	det	25	det
+25	réservoirs	réservoir	NC	NC	n=p|g=m	23	obj	23	obj
+26	externes	externe	ADJ	ADJ	n=p	25	mod	25	mod
+27	de	de	P	P		23	mod	23	mod
+28	la	la	DET	DET	n=s|g=f	29	det	29	det
+29	navette	navette	NC	NC	n=s|g=f	27	prep	27	prep
+30	spatiale	spatial	ADJ	ADJ	n=s|g=f	29	mod	29	mod
+31	américaine	américain	ADJ	ADJ	n=s|g=f	29	mod	29	mod
+32	.	.	PONCT	PONCT		31	ponct	31	ponct
+
+1	Comme	comme	P	P		23	mod	23	mod
+2	pour	pour	P	P		1	prep	1	prep
+3	souvent	souvent	ADV	ADV		4	mod	4	mod
+4	des	des	DET	DET	n=p	5	det	5	det
+5	étages	étage	NC	NC	n=p|g=m	2	prep	2	prep
+6	d’	de	P	P		23	mod	23	mod
+7	une	une	DET	DET	n=s|g=f	8	det	8	det
+8	fusée	fusée	NC	NC	n=s|g=f	6	prep	6	prep
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	la	la	DET	DET	n=s|g=f	12	det	12	det
+11	presque	presque	ADV	ADV		12	mod	12	mod
+12	totalité	totalité	NC	NC	n=s|g=f	8	mod	8	mod
+13	du	de	P+D	P+D	n=s|g=m	8	dep	8	dep
+14	poids	poids	NC	NC	g=m	13	prep	13	prep
+15	(	(	PONCT	PONCT		14	ponct	14	ponct
+16	2_000	2_000	ADJ	ADJ		17	mod	17	mod
+17	tonnes	tonne	NC	NC	n=p|g=f	8	mod	8	mod
+18	au	à	P+D	P+D	n=s|g=m	8	dep	8	dep
+19	décollage	décollage	NC	NC	n=s|g=m	18	prep	18	prep
+20	)	)	PONCT	PONCT		19	ponct	19	ponct
+21	du	de	P+D	P+D	n=s|g=m	8	dep	8	dep
+22	S-IC	_	NPP	NPP		21	prep	21	prep
+23	provenait	provenir	V	V	n=s|t=I|p=3	0	root	0	root
+24	du	de	P+D	P+D	n=s|g=m	23	mod	23	mod
+25	carburant	carburant	NC	NC	n=s|g=m	24	prep	24	prep
+26	.	.	PONCT	PONCT		25	ponct	25	ponct
+
+1	Le	le	DET	DET	n=s|g=m	3	det	3	det
+2	premier	premier	ADJ	ADJ	n=s|g=m	3	mod	3	mod
+3	étage	étage	NC	NC	n=s|g=m	4	suj	4	suj
+4	fait	faire	V	V	n=s|t=P|p=3	0	root	0	root
+5	40	40	ADJ	ADJ		6	mod	6	mod
+6	mètres	mètre	NC	NC	n=p|g=m	4	obj	4	obj
+7	de	de	P	P		6	dep	6	dep
+8	haut	haut	NC	NC	n=s|g=m	7	prep	7	prep
+9	et	et	CC	CC		6	coord	6	coord
+10	10	10	ADJ	ADJ		11	mod	11	mod
+11	mètres	mètre	NC	NC	n=p|g=m	9	dep_coord	9	dep_coord
+12	de	de	P	P		4	mod	4	mod
+13	diamètre	diamètre	NC	NC	n=s|g=m	12	prep	12	prep
+14	pour	pour	P	P		4	mod	4	mod
+15	2_300_000	2_300_000	ADJ	ADJ		16	mod	16	mod
+16	kg	kilogramme	NC	NC	g=m	14	prep	14	prep
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	elle	elle	CLS	CLS	n=s|g=f|p=3	19	suj	19	suj
+19	fournissait	fournir	V	V	n=s|t=I|p=3	4	mod	4	mod
+20	une	une	DET	DET	n=s|g=f	21	det	21	det
+21	poussée	poussée	NC	NC	n=s|g=f	19	obj	19	obj
+22	de	de	P	P		21	dep	21	dep
+23	3_500	3_500	ADJ	ADJ		24	mod	24	mod
+24	tonnes	tonne	NC	NC	n=p|g=f	22	prep	22	prep
+25	propulsant	propulser	VPR	VPR	t=G	19	mod	19	mod
+26	la	la	DET	DET	n=s|g=f	27	det	27	det
+27	fusée	fusée	NC	NC	n=s|g=f	25	obj	25	obj
+28	pendant	pendant	P	P		25	mod	25	mod
+29	les	les	DET	DET	n=p	30	det	30	det
+30	65	65	NC	NC		28	prep	28	prep
+31	premiers	premier	ADJ	ADJ	n=p|g=m	30	mod	30	mod
+32	kilomètres	kilomètre	NC	NC	n=p|g=m	30	mod	30	mod
+33	(	(	PONCT	PONCT		32	ponct	32	ponct
+34	environ	environ	ADV	ADV		0	_	0	_
+35	)	)	PONCT	PONCT		34	ponct	34	ponct
+36	de	de	P	P		0	_	0	_
+37	décollage	décollage	NC	NC	n=s|g=m	36	prep	36	prep
+38	.	.	PONCT	PONCT		37	ponct	37	ponct
+
+1	Le	le	DET	DET	n=s|g=m	3	det	3	det
+2	premier	premier	ADJ	ADJ	n=s|g=m	3	mod	3	mod
+3	étage	étage	NC	NC	n=s|g=m	4	suj	4	suj
+4	a	avoir	V	V	n=s|t=P|p=3	0	root	0	root
+5	5	5	ADJ	ADJ		6	mod	6	mod
+6	moteurs-fusées	_	NC	NC		4	obj	4	obj
+7	(	(	PONCT	PONCT		6	ponct	6	ponct
+8	F-1	_	NPP	NPP		4	mod	4	mod
+9	)	)	PONCT	PONCT		8	ponct	8	ponct
+10	qui	qui	PROREL	PROREL	n=s	11	suj	11	suj
+11	consomment	consommer	V	V	n=p|t=P,S|p=3	8	mod_rel	8	mod_rel
+12	15	15	ADJ	ADJ		13	mod	13	mod
+13	tonnes	tonne	NC	NC	n=p|g=f	11	obj	11	obj
+14	de	de	P	P		13	dep	13	dep
+15	carburant	carburant	NC	NC	n=s|g=m	14	prep	14	prep
+16	par	par	P	P		11	mod	11	mod
+17	seconde	second	ADJ	ADJ	n=s|g=f	16	prep	16	prep
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+</p><h3>
+1	Deuxième	deuxième	ADJ	ADJ	n=s	2	mod	2	mod
+2	étage	étage	NC	NC	n=s|g=m	0	_	0	_
+3	(	(	PONCT	PONCT		2	ponct	2	ponct
+4	S-II	_	NPP	NPP		0	_	0	_
+5	)	)	PONCT	PONCT		4	ponct	4	ponct
+
+</h3><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	S-II	_	NPP	NPP		4	suj	4	suj
+3	est	être	V	V	n=s|t=P|p=3	4	aux_tps	4	aux_tps
+4	construit	construire	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+5	par	par	P	P		4	mod	4	mod
+6	North	_	NPP	NPP		5	prep	5	prep
+7	American	_	NPP	NPP		6	mod	6	mod
+8	Aviation	aviation	NC	NC	n=s|g=f	6	mod	6	mod
+9	en	en	P	P		4	mod	4	mod
+10	Californie	Californie	NPP	NPP	n=s|g=f	9	prep	9	prep
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	2	suj	2	suj
+2	utilise	utiliser	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	de	de	P	P		2	mod	2	mod
+4	l’	le	DET	DET	n=s	5	det	5	det
+5	oxygène	oxygène	NC	NC	n=s|g=m	3	prep	3	prep
+6	et	et	CC	CC		2	coord	2	coord
+7	de	de	P	P		6	dep_coord	6	dep_coord
+8	l’	le	DET	DET	n=s	9	det	9	det
+9	hydrogène	hydrogène	NC	NC	n=s|g=m	7	prep	7	prep
+10	liquides	liquide	ADJ	ADJ	n=p	9	mod	9	mod
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	ses	ses	DET	DET	n=p|p=3|poss=s	14	det	14	det
+13	cinq	cinq	ADJ	ADJ	s=card|n=p	14	mod	14	mod
+14	moteurs-fusées	_	NC	NC		16	suj	16	suj
+15	J-2	_	NPP	NPP		14	mod	14	mod
+16	présentent	présenter	V	V	n=p|t=P,S|p=3	2	mod	2	mod
+17	une	une	DET	DET	n=s|g=f	18	det	18	det
+18	disposition	disposition	NC	NC	n=s|g=f	16	obj	16	obj
+19	des	de	P+D	P+D	n=p	18	dep	18	dep
+20	moteurs	moteur	NC	NC	n=p|g=m	19	prep	19	prep
+21	similaires	similaire	ADJ	ADJ	n=p	20	mod	20	mod
+22	au	à	P+D	P+D	n=s|g=m	16	mod	16	mod
+23	premier	premier	ADJ	ADJ	n=s|g=m	24	mod	24	mod
+24	étage	étage	NC	NC	n=s|g=m	22	prep	22	prep
+25	.	.	PONCT	PONCT		24	ponct	24	ponct
+
+1	Le	le	DET	DET	n=s|g=m	3	det	3	det
+2	deuxième	deuxième	ADJ	ADJ	n=s	3	mod	3	mod
+3	étage	étage	NC	NC	n=s|g=m	4	suj	4	suj
+4	faisait	faire	V	V	n=s|t=I|p=3	0	root	0	root
+5	avancer	avancer	VINF	VINF	t=W	4	obj	4	obj
+6	Saturn	Saturn	NPP	NPP	n=s|g=m	5	obj	5	obj
+7	V	_	NPP	NPP		6	mod	6	mod
+8	dans	dans	P	P		5	mod	5	mod
+9	les	les	DET	DET	n=p	11	det	11	det
+10	hautes	haut	ADJ	ADJ	n=p|g=f	11	mod	11	mod
+11	couches	couche	NC	NC	n=p|g=f	8	prep	8	prep
+12	de	de	P	P		5	mod	5	mod
+13	l’	le	DET	DET	n=s	14	det	14	det
+14	atmosphère	atmosphère	NC	NC	n=s|g=f	12	prep	12	prep
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	0	_	0	_
+2	fait	faire	V	V	n=s|t=P|p=3	0	_	0	_
+3	25	25	ADJ	ADJ		4	mod	4	mod
+4	mètres	mètre	NC	NC	n=p|g=m	2	obj	2	obj
+5	de	de	P	P		4	dep	4	dep
+6	haut	haut	NC	NC	n=s|g=m	5	prep	5	prep
+7	et	et	CC	CC		4	coord	4	coord
+8	10	10	ADJ	ADJ		9	mod	9	mod
+9	m	_	NC	NC		7	dep_coord	7	dep_coord
+10	de	de	P	P		2	mod	2	mod
+11	diamètre	diamètre	NC	NC	n=s|g=m	10	prep	10	prep
+12	pour	pour	P	P		2	mod	2	mod
+13	480_900	480_900	NC	NC		12	prep	12	prep
+14	kg	kilogramme	NC	NC	g=m	13	mod	13	mod
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	3	suj	3	suj
+2	est	être	V	V	n=s|t=P|p=3	3	aux_tps	3	aux_tps
+3	composé	composer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+4	de	de	P	P		3	mod	3	mod
+5	5	5	NC	NC		4	prep	4	prep
+6	moteurs-fusée	_	NC	NC		5	mod	5	mod
+7	J-2	_	NPP	NPP		6	mod	6	mod
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	tous	tout	PRO	PRO	n=p|g=m	3	mod	3	mod
+10	sont	être	V	V	n=p|t=P|p=3	0	_	0	_
+11	inclinables	inclinable	ADJ	ADJ	n=p	10	ats	10	ats
+12	pour	pour	P	P		10	mod	10	mod
+13	naviguer	naviguer	VINF	VINF	t=W	12	prep	12	prep
+14	dans	dans	P	P		13	mod	13	mod
+15	l'	le	DET	DET	n=s	16	det	16	det
+16	espace	espace	NC	NC	n=s	14	prep	14	prep
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	sauf	sauf	P	P		13	mod	13	mod
+19	le	le	DET	DET	n=s|g=m	20	det	20	det
+20	moteur	moteur	NC	NC	n=s|g=m	18	prep	18	prep
+21	central	central	ADJ	ADJ	n=s|g=m	20	mod	20	mod
+22	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+</p><h3>
+1	Troisième	troisième	ADJ	ADJ	n=s	2	mod	2	mod
+2	étage	étage	NC	NC	n=s|g=m	0	_	0	_
+3	(	(	PONCT	PONCT		2	ponct	2	ponct
+4	S-IVB	_	NPP	NPP		0	_	0	_
+5	)	)	PONCT	PONCT		4	ponct	4	ponct
+
+</h3><p>
+1	Le	le	DET	DET	n=s|g=m	3	det	3	det
+2	troisième	troisième	ADJ	ADJ	n=s	3	mod	3	mod
+3	étage	étage	NC	NC	n=s|g=m	5	suj	5	suj
+4	est	être	V	V	n=s|t=P|p=3	5	aux_pass	5	aux_pass
+5	fabriqué	fabriquer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+6	par	par	P	P		5	mod	5	mod
+7	la	la	DET	DET	n=s|g=f	8	det	8	det
+8	société	société	NC	NC	n=s|g=f	6	prep	6	prep
+9	Douglas	Douglas	NPP	NPP	n=s|g=m	8	mod	8	mod
+10	Aircraft	_	NPP	NPP		8	mod	8	mod
+11	en	en	P	P		5	mod	5	mod
+12	Californie	Californie	NPP	NPP	n=s|g=f	11	prep	11	prep
+13	.	.	PONCT	PONCT		12	ponct	12	ponct
+
+1	Cet	cet	DET	DET	n=s|g=m	2	det	2	det
+2	étage	étage	NC	NC	n=s|g=m	4	suj	4	suj
+3	est	être	V	V	n=s|t=P|p=3	4	aux_tps	4	aux_tps
+4	utilisé	utiliser	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+5	deux	deux	DET	DET	s=card|n=p	6	det	6	det
+6	fois	fois	NC	NC	g=f	4	obj	4	obj
+7	au	à	P+D	P+D	n=s|g=m	4	mod	4	mod
+8	cours	cour	NC	NC	n=p|g=f	7	prep	7	prep
+9	d’	de	P	P		4	mod	4	mod
+10	une	une	DET	DET	n=s|g=f	11	det	11	det
+11	mission	mission	NC	NC	n=s|g=f	9	prep	9	prep
+12	lunaire	lunaire	NC	NC	n=s|g=f	11	mod	11	mod
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	une	une	DET	DET	n=s|g=f	16	det	16	det
+15	première	premier	ADJ	ADJ	n=s|g=f	16	mod	16	mod
+16	fois	fois	NC	NC	g=f	4	mod	4	mod
+17	pour	pour	P	P		4	mod	4	mod
+18	la	la	DET	DET	n=s|g=f	19	det	19	det
+19	mise	mise	NC	NC	n=s|g=f	17	prep	17	prep
+20	en	en	P	P		4	mod	4	mod
+21	orbite	orbite	NC	NC	n=s|g=f	20	prep	20	prep
+22	après	après	P	P		4	mod	4	mod
+23	la	la	DET	DET	n=s|g=f	24	det	24	det
+24	séparation	séparation	NC	NC	n=s|g=f	22	prep	22	prep
+25	du	de	P+D	P+D	n=s|g=m	4	mod	4	mod
+26	deuxième	deuxième	ADJ	ADJ	n=s	27	mod	27	mod
+27	étage	étage	NC	NC	n=s|g=m	25	prep	25	prep
+28	,	,	PONCT	PONCT		27	ponct	27	ponct
+29	et	et	CC	CC		4	coord	4	coord
+30	une	une	DET	DET	n=s|g=f	32	det	32	det
+31	seconde	second	ADJ	ADJ	n=s|g=f	32	mod	32	mod
+32	fois	fois	NC	NC	g=f	0	_	0	_
+33	pour	pour	P	P		32	dep	32	dep
+34	la	la	DET	DET	n=s|g=f	35	det	35	det
+35	manœuvre	_	NC	NC		33	prep	33	prep
+36	de	de	P	P		35	dep	35	dep
+37	l’	le	DET	DET	n=s	38	det	38	det
+38	injection	injection	NC	NC	n=s|g=f	36	prep	36	prep
+39	dit	dire	VPP	VPP	n=s|g=m|t=K	35	mod	35	mod
+40	"	"	PONCT	PONCT		39	ponct	39	ponct
+41	translunaire	_	NC	NC		35	mod	35	mod
+42	"	"	PONCT	PONCT		41	ponct	41	ponct
+43	.	.	PONCT	PONCT		41	ponct	41	ponct
+
+1	Le	le	DET	DET	n=s|g=m	3	det	3	det
+2	troisième	troisième	ADJ	ADJ	n=s	3	mod	3	mod
+3	étage	étage	NC	NC	n=s|g=m	4	suj	4	suj
+4	fait	faire	V	V	n=s|t=P|p=3	0	root	0	root
+5	17,5	17,5	NC	NC		4	obj	4	obj
+6	m	_	NPP	NPP		5	mod	5	mod
+7	de	de	P	P		4	mod	4	mod
+8	haut	haut	NC	NC	n=s|g=m	7	prep	7	prep
+9	et	et	CC	CC		4	coord	4	coord
+10	6,5	6,5	ADJ	ADJ		11	mod	11	mod
+11	m	_	NC	NC		18	suj	18	suj
+12	de	de	P	P		11	dep	11	dep
+13	diamètre	diamètre	NC	NC	n=s|g=m	12	prep	12	prep
+14	pour	pour	P	P		11	dep	11	dep
+15	119_900	119_900	ADJ	ADJ		16	mod	16	mod
+16	kg	kilogramme	NC	NC	g=m	14	prep	14	prep
+17	et	et	CC	CC		11	coord	11	coord
+18	possède	posséder	V	V	n=s|t=P,S|p=1,3	4	mod	4	mod
+19	1	1	NC	NC		18	obj	18	obj
+20	moteur-fusée	_	NC	NC		19	mod	19	mod
+21	J-2	_	NPP	NPP		19	mod	19	mod
+22	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+</p><h3>
+1	Module	module	NC	NC	n=s|g=m	0	_	0	_
+2	lunaire	lunaire	NC	NC	n=s|g=f	1	mod	1	mod
+3	(	(	PONCT	PONCT		2	ponct	2	ponct
+4	"	"	PONCT	PONCT		2	ponct	2	ponct
+5	LEM	_	NPP	NPP		0	_	0	_
+6	"	"	PONCT	PONCT		5	ponct	5	ponct
+7	ou	ou	CC	CC		5	coord	5	coord
+8	"	"	PONCT	PONCT		7	ponct	7	ponct
+9	LM	_	NPP	NPP		7	dep_coord	7	dep_coord
+10	"	"	PONCT	PONCT		9	ponct	9	ponct
+11	)	)	PONCT	PONCT		9	ponct	9	ponct
+
+</h3><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	module	module	NC	NC	n=s|g=m	14	suj	14	suj
+3	lunaire	lunaire	NC	NC	n=s|g=f	2	mod	2	mod
+4	(	(	PONCT	PONCT		3	ponct	3	ponct
+5	"	"	PONCT	PONCT		3	ponct	3	ponct
+6	LEM	_	NPP	NPP		2	mod	2	mod
+7	"	"	PONCT	PONCT		6	ponct	6	ponct
+8	ou	ou	CC	CC		2	coord	2	coord
+9	"	"	PONCT	PONCT		8	ponct	8	ponct
+10	LM	_	NPP	NPP		8	dep_coord	8	dep_coord
+11	"	"	PONCT	PONCT		10	ponct	10	ponct
+12	)	)	PONCT	PONCT		10	ponct	10	ponct
+13	se	se	CLR	CLR	n=p,s|p=3	14	aff	14	aff
+14	situe	situer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+15	dans	dans	P	P		14	mod	14	mod
+16	le	le	DET	DET	n=s|g=m	18	det	18	det
+17	troisième	troisième	ADJ	ADJ	n=s	18	mod	18	mod
+18	étage	étage	NC	NC	n=s|g=m	15	prep	15	prep
+19	de	de	P	P		14	mod	14	mod
+20	Saturn	Saturn	NPP	NPP	n=s|g=m	19	prep	19	prep
+21	V	_	NPP	NPP		20	mod	20	mod
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+23	quatre	quatre	DET	DET	s=card|n=p	24	det	24	det
+24	panneaux	panneau	NC	NC	n=p|g=m	25	suj	25	suj
+25	protègent	protéger	V	V	n=p|t=P,S|p=3	14	mod	14	mod
+26	le	le	DET	DET	n=s|g=m	27	det	27	det
+27	LEM	_	NPP	NPP		25	obj	25	obj
+28	pendant	pendant	P	P		25	mod	25	mod
+29	le	le	DET	DET	n=s|g=m	30	det	30	det
+30	vol	vol	NC	NC	n=s|g=m	28	prep	28	prep
+31	,	,	PONCT	PONCT		30	ponct	30	ponct
+32	puis	puis	CC	CC		25	coord	25	coord
+33	les	les	DET	DET	n=p	34	det	34	det
+34	panneaux	panneau	NC	NC	n=p|g=m	36	suj	36	suj
+35	sont	être	V	V	n=p|t=P|p=3	36	aux_pass	36	aux_pass
+36	éjectés	éjecter	VPP	VPP	n=p|g=m|t=K	32	dep_coord	32	dep_coord
+37	pendant	pendant	P	P		36	mod	36	mod
+38	le	le	DET	DET	n=s|g=m	39	det	39	det
+39	transit	transit	NC	NC	n=s|g=m	37	prep	37	prep
+40	Terre-Lune	_	NPP	NPP		39	mod	39	mod
+41	pour	pour	P	P		36	mod	36	mod
+42	libérer	libérer	VINF	VINF	t=W	41	prep	41	prep
+43	le	le	DET	DET	n=s|g=m	44	det	44	det
+44	LEM	_	NPP	NPP		42	obj	42	obj
+45	pour	pour	P	P		42	mod	42	mod
+46	s'	se	CLR	CLR	n=p,s|p=3	47	aff	47	aff
+47	amarrer	amarrer	VINF	VINF	t=W	45	prep	45	prep
+48	au	à	P+D	P+D	n=s|g=m	47	mod	47	mod
+49	module	module	NC	NC	n=s|g=m	48	prep	48	prep
+50	de	de	P	P		49	dep	49	dep
+51	commande	commande	NC	NC	n=s|g=f	50	prep	50	prep
+52	et	et	CC	CC		45	coord	45	coord
+53	de	de	P	P		52	dep_coord	52	dep_coord
+54	service	service	NC	NC	n=s|g=m	53	prep	53	prep
+55	.	.	PONCT	PONCT		54	ponct	54	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	module	module	NC	NC	n=s|g=m	4	suj	4	suj
+3	lunaire	lunaire	NC	NC	n=s|g=f	2	mod	2	mod
+4	fait	faire	V	V	n=s|t=P|p=3	0	root	0	root
+5	7	7	ADJ	ADJ		6	mod	6	mod
+6	mètres	mètre	NC	NC	n=p|g=m	4	obj	4	obj
+7	de	de	P	P		6	dep	6	dep
+8	haut	haut	NC	NC	n=s|g=m	7	prep	7	prep
+9	et	et	CC	CC		6	coord	6	coord
+10	4,30	4,30	ADJ	ADJ		11	mod	11	mod
+11	mètres	mètre	NC	NC	n=p|g=m	9	dep_coord	9	dep_coord
+12	de	de	P	P		4	mod	4	mod
+13	diamètre	diamètre	NC	NC	n=s|g=m	12	prep	12	prep
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+</p><h3>
+1	Rover	_	NPP	NPP		0	root	0	root
+2	lunaire	lunaire	NC	NC	n=s|g=f	1	mod	1	mod
+
+</h3><p>
+1	Véhicule	véhicule	NC	NC	n=s|g=m	22	mod	22	mod
+2	tout	tout	DET	DET	n=s|g=m	3	det	3	det
+3	terrain	terrain	NC	NC	n=s|g=m	1	mod	1	mod
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	tenant	tenir	VPR	VPR	t=G	1	mod	1	mod
+6	à	à	P	P		5	mod	5	mod
+7	la	la	DET	DET	n=s|g=f	8	det	8	det
+8	fois	fois	NC	NC	g=f	6	prep	6	prep
+9	du	de	P+D	P+D	n=s|g=m	5	mod	5	mod
+10	buggy	buggy	NC	NC	n=s|g=m	9	prep	9	prep
+11	et	et	CC	CC		1	coord	1	coord
+12	de	de	P	P		11	dep_coord	11	dep_coord
+13	la	la	DET	DET	n=s|g=f	14	det	14	det
+14	voiture	voiture	NC	NC	n=s|g=f	12	prep	12	prep
+15	de	de	P	P		14	dep	14	dep
+16	golf	golf	NC	NC	n=s|g=m	15	prep	15	prep
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	le	le	DET	DET	n=s|g=m	20	det	20	det
+19	rover	_	ADJ	ADJ		20	mod	20	mod
+20	lunaire	lunaire	NC	NC	n=s|g=f	22	suj	22	suj
+21	fut	être	V	V	n=s|t=J|p=3	22	aux_pass	22	aux_pass
+22	fabriqué	fabriquer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+23	à	à	P	P		22	mod	22	mod
+24	4	4	ADJ	ADJ		25	mod	25	mod
+25	exemplaires	exemplaire	NC	NC	n=p|g=m	23	prep	23	prep
+26	par	par	P	P		22	mod	22	mod
+27	les	les	DET	DET	n=p	28	det	28	det
+28	sociétés	société	NC	NC	n=p|g=f	26	prep	26	prep
+29	Boeing	Boeing	NPP	NPP	n=s|g=m	28	mod	28	mod
+30	et	et	CC	CC		22	coord	22	coord
+31	Delco	_	NPP	NPP		30	dep_coord	30	dep_coord
+32	Electronics	_	NPP	NPP		31	mod	31	mod
+33	(	(	PONCT	PONCT		32	ponct	32	ponct
+34	General	_	NPP	NPP		22	mod	22	mod
+35	Motor	_	NPP	NPP		34	mod	34	mod
+36	)	)	PONCT	PONCT		35	ponct	35	ponct
+37	.	.	PONCT	PONCT		35	ponct	35	ponct
+
+1	Dépliée	déplier	VPP	VPP	n=s|g=f|t=K	4	mod	4	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	elle	elle	CLS	CLS	n=s|g=f|p=3	4	suj	4	suj
+4	mesurait	mesurer	V	V	n=s|t=I|p=3	0	root	0	root
+5	3,10	3,10	ADJ	ADJ		6	mod	6	mod
+6	mètres	mètre	NC	NC	n=p|g=m	4	obj	4	obj
+7	de	de	P	P		6	dep	6	dep
+8	longueur	longueur	NC	NC	n=s|g=f	7	prep	7	prep
+9	sur	sur	P	P		4	mod	4	mod
+10	1,80	1,80	NC	NC		9	prep	9	prep
+11	m	_	NPP	NPP		10	mod	10	mod
+12	de	de	P	P		4	mod	4	mod
+13	largeur	largeur	NC	NC	n=s|g=f	12	prep	12	prep
+14	et	et	CC	CC		4	coord	4	coord
+15	pesait	peser	V	V	n=s|t=I|p=3	14	dep_coord	14	dep_coord
+16	35	35	ADJ	ADJ		17	mod	17	mod
+17	kg	kilogramme	NC	NC	g=m	15	obj	15	obj
+18	sur	sur	P	P		15	mod	15	mod
+19	la	la	DET	DET	n=s|g=f	20	det	20	det
+20	Lune	_	NPP	NPP		18	prep	18	prep
+21	(	(	PONCT	PONCT		20	ponct	20	ponct
+22	205	205	ADJ	ADJ		23	mod	23	mod
+23	kg	kilogramme	NC	NC	g=m	20	mod	20	mod
+24	sur	sur	P	P		23	dep	23	dep
+25	la	la	DET	DET	n=s|g=f	26	det	26	det
+26	Terre	_	NPP	NPP		24	prep	24	prep
+27	)	)	PONCT	PONCT		26	ponct	26	ponct
+28	.	.	PONCT	PONCT		26	ponct	26	ponct
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	2	suj	2	suj
+2	avait	avoir	V	V	n=s|t=I|p=3	0	root	0	root
+3	pour	pour	P	P		2	mod	2	mod
+4	fonction	fonction	NC	NC	n=s|g=f	3	prep	3	prep
+5	de	de	P	P		2	mod	2	mod
+6	transporter	transporter	VINF	VINF	t=W	5	prep	5	prep
+7	les	les	DET	DET	n=p	8	det	8	det
+8	astronautes	astronaute	NC	NC	n=p	6	obj	6	obj
+9	et	et	CC	CC		2	coord	2	coord
+10	leurs	leurs	DET	DET	n=p|p=3|poss=p	11	det	11	det
+11	équipements	équipement	NC	NC	n=p|g=m	0	_	0	_
+12	scientifiques	scientifique	ADJ	ADJ	n=p	11	mod	11	mod
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	les	les	DET	DET	n=p	15	det	15	det
+15	caméras	caméra	NC	NC	n=p|g=f	11	mod	11	mod
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	et	et	CC	CC		15	coord	15	coord
+18	les	les	DET	DET	n=p	19	det	19	det
+19	échantillons	échantillon	NC	NC	n=p|g=m	17	dep_coord	17	dep_coord
+20	de	de	P	P		19	dep	19	dep
+21	roches	roche	NC	NC	n=p|g=f	20	prep	20	prep
+22	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+1	Sa	sa	DET	DET	n=s|g=f|p=3|poss=s	2	det	2	det
+2	charge	charge	NC	NC	n=s|g=f	3	suj	3	suj
+3	pouvait	pouvoir	V	V	n=s|t=I|p=3	0	root	0	root
+4	atteindre	atteindre	VINF	VINF	t=W	3	obj	3	obj
+5	450	450	ADJ	ADJ		6	mod	6	mod
+6	kg	kilogramme	NC	NC	g=m	4	obj	4	obj
+7	.	.	PONCT	PONCT		6	ponct	6	ponct
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	3	suj	3	suj
+2	se	se	CLR	CLR	n=p,s|p=3	3	aff	3	aff
+3	situe	situer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	dans	dans	P	P		3	mod	3	mod
+5	une	une	DET	DET	n=s|g=f	6	det	6	det
+6	soute	soute	NC	NC	n=s|g=f	4	prep	4	prep
+7	dans	dans	P	P		3	mod	3	mod
+8	le	le	DET	DET	n=s|g=m	9	det	9	det
+9	LEM	_	NPP	NPP		7	prep	7	prep
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+</p><h3>
+1	Module	module	NC	NC	n=s|g=m	0	_	0	_
+2	de	de	P	P		1	dep	1	dep
+3	service	service	NC	NC	n=s|g=m	2	prep	2	prep
+4	et	et	CC	CC		2	coord	2	coord
+5	de	de	P	P		4	dep_coord	4	dep_coord
+6	commande	commande	NC	NC	n=s|g=f	5	prep	5	prep
+7	(	(	PONCT	PONCT		6	ponct	6	ponct
+8	CSM	CSM	NPP	NPP	n=s|g=m	0	_	0	_
+9	)	)	PONCT	PONCT		8	ponct	8	ponct
+
+</h3><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	Module	_	NPP	NPP		9	suj	9	suj
+3	de	de	P	P		2	dep	2	dep
+4	commande	commande	NC	NC	n=s|g=f	3	prep	3	prep
+5	et	et	CC	CC		2	coord	2	coord
+6	de	de	P	P		5	dep_coord	5	dep_coord
+7	service	service	NC	NC	n=s|g=m	6	prep	6	prep
+8	se	se	CLR	CLR	n=p,s|p=3	9	aff	9	aff
+9	situe	situer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+10	tout	tout	ADV	ADV		9	mod	9	mod
+11	en	en	P	P		9	mod	9	mod
+12	haut	haut	NC	NC	n=s|g=m	11	prep	11	prep
+13	de	de	P	P		9	mod	9	mod
+14	la	la	DET	DET	n=s|g=f	15	det	15	det
+15	fusée	fusée	NC	NC	n=s|g=f	13	prep	13	prep
+16	après	après	P	P		9	mod	9	mod
+17	la	la	DET	DET	n=s|g=f	18	det	18	det
+18	tour	tour	NC	NC	n=s	16	prep	16	prep
+19	de	de	P	P		9	mod	9	mod
+20	sauvetage	sauvetage	NC	NC	n=s|g=m	19	prep	19	prep
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	il	il	CLS	CLS	n=s|g=m|p=3	23	suj	23	suj
+23	mesurait	mesurer	V	V	n=s|t=I|p=3	9	mod	9	mod
+24	au	à	P+D	P+D	n=s|g=m	23	mod	23	mod
+25	total	total	NC	NC	n=s|g=m	24	prep	24	prep
+26	5,70	5,70	NC	NC		25	mod	25	mod
+27	de	de	P	P		23	mod	23	mod
+28	longueur	longueur	NC	NC	n=s|g=f	27	prep	27	prep
+29	,	,	PONCT	PONCT		28	ponct	28	ponct
+30	3,60	3,60	ADJ	ADJ		31	mod	31	mod
+31	m	_	NC	NC		23	mod	23	mod
+32	de	de	P	P		31	dep	31	dep
+33	hauteur	hauteur	NC	NC	n=s|g=f	32	prep	32	prep
+34	,	,	PONCT	PONCT		33	ponct	33	ponct
+35	et	et	CC	CC		23	coord	23	coord
+36	3,80	3,80	ADJ	ADJ		37	mod	37	mod
+37	m	_	NC	NC		0	_	0	_
+38	de	de	P	P		37	dep	37	dep
+39	diamètre	diamètre	NC	NC	n=s|g=m	38	prep	38	prep
+40	dans	dans	P	P		37	dep	37	dep
+41	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	42	det	42	det
+42	partie	partie	NC	NC	n=s|g=f	40	prep	40	prep
+43	la	la	DET	DET	n=s|g=f	45	det	45	det
+44	plus	plus	ADV	ADV		45	mod	45	mod
+45	large	large	ADJ	ADJ	n=s	37	mod	37	mod
+46	.	.	PONCT	PONCT		45	ponct	45	ponct
+
+1	Son	son	DET	DET	n=s|g=m|p=3|poss=s	2	det	2	det
+2	poids	poids	NC	NC	g=m	5	suj	5	suj
+3	total	total	ADJ	ADJ	n=s|g=m	2	mod	2	mod
+4	s'	se	CLR	CLR	n=p,s|p=3	5	aff	5	aff
+5	élevait	élever	V	V	n=s|t=I|p=3	0	root	0	root
+6	à	à	P	P		5	mod	5	mod
+7	5,6	5,6	NC	NC		6	prep	6	prep
+8	tonnes	tonne	NC	NC	n=p|g=f	7	mod	7	mod
+9	.	.	PONCT	PONCT		8	ponct	8	ponct
+
+</p><h3>
+1	Tour	tour	NC	NC	n=s	0	_	0	_
+2	de	de	P	P		1	dep	1	dep
+3	sauvetage	sauvetage	NC	NC	n=s|g=m	2	prep	2	prep
+4	Apollo	Apollo	NPP	NPP	n=s|g=m	3	mod	3	mod
+
+</h3><p>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	tour	tour	NC	NC	n=s	9	suj	9	suj
+3	de	de	P	P		2	dep	2	dep
+4	sauvetage	sauvetage	NC	NC	n=s|g=m	3	prep	3	prep
+5	utilisée	utiliser	VPP	VPP	n=s|g=f|t=K	2	mod	2	mod
+6	sur	sur	P	P		5	mod	5	mod
+7	Saturn	Saturn	NPP	NPP	n=s|g=m	6	prep	6	prep
+8	V	_	NPP	NPP		7	mod	7	mod
+9	faisait	faire	V	V	n=s|t=I|p=3	0	root	0	root
+10	10	10	ADJ	ADJ		11	mod	11	mod
+11	mètres	mètre	NC	NC	n=p|g=m	9	obj	9	obj
+12	de	de	P	P		9	mod	9	mod
+13	long	long	ADJ	ADJ	n=s|g=m	12	prep	12	prep
+14	et	et	CC	CC		9	coord	9	coord
+15	un	un	DET	DET	n=s|g=m	16	det	16	det
+16	diamètre	diamètre	NC	NC	n=s|g=m	22	suj	22	suj
+17	de	de	P	P		16	dep	16	dep
+18	0,70	0,70	NC	NC		17	prep	17	prep
+19	mètre	mètre	NC	NC	n=s|g=m	18	mod	18	mod
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	elle	elle	CLS	CLS	n=s|g=f|p=3	22	suj	22	suj
+22	pesait	peser	V	V	n=s|t=I|p=3	14	dep_coord	14	dep_coord
+23	plus	plus	ADV	ADV		22	mod	22	mod
+24	de	de	P	P		22	mod	22	mod
+25	4	4	ADJ	ADJ		24	prep	24	prep
+26	tonnes	tonne	NC	NC	n=p|g=f	24	prep	24	prep
+27	,	,	PONCT	PONCT		26	ponct	26	ponct
+28	la	la	DET	DET	n=s|g=f	29	det	29	det
+29	tour	tour	NC	NC	n=s	22	obj	22	obj
+30	de	de	P	P		29	dep	29	dep
+31	sauvetage	sauvetage	NC	NC	n=s|g=m	30	prep	30	prep
+32	avait	avoir	V	V	n=s|t=I|p=3	22	mod	22	mod
+33	une	une	DET	DET	n=s|g=f	34	det	34	det
+34	poussée	poussée	NC	NC	n=s|g=f	32	obj	32	obj
+35	d'	de	P	P		34	dep	34	dep
+36	environ	environ	ADV	ADV		37	mod	37	mod
+37	70	70	ADJ	ADJ		38	mod	38	mod
+38	tonnes	tonne	NC	NC	n=p|g=f	35	prep	35	prep
+39	.	.	PONCT	PONCT		38	ponct	38	ponct
+
+</p><p>
+1	Sa	sa	DET	DET	n=s|g=f|p=3|poss=s	2	det	2	det
+2	poussée	poussée	NC	NC	n=s|g=f	3	suj	3	suj
+3	était	être	V	V	n=s|t=I|p=3	0	root	0	root
+4	plus	plus	ADV	ADV		5	mod	5	mod
+5	forte	fort	ADJ	ADJ	n=s|g=f	3	ats	3	ats
+6	que	que	CS	CS		3	obj	3	obj
+7	celle	celle	PRO	PRO	n=s|g=f	0	_	0	_
+8	de	de	P	P		7	dep	7	dep
+9	la	la	DET	DET	n=s|g=f	10	det	10	det
+10	fusée	fusée	NC	NC	n=s|g=f	8	prep	8	prep
+11	Mercury-Redstone	_	NPP	NPP		10	mod	10	mod
+12	qui	qui	PROREL	PROREL	n=s	14	suj	14	suj
+13	avait	avoir	V	V	n=s|t=I|p=3	14	aux_tps	14	aux_tps
+14	propulsé	propulser	VPP	VPP	n=s|g=m|t=K	10	mod_rel	10	mod_rel
+15	Alan	Alan	NPP	NPP	n=s|g=m	14	obj	14	obj
+16	Shepard	_	NPP	NPP		15	mod	15	mod
+17	lors	lors	ADV	ADV		14	mod	14	mod
+18	de	de	P	P		14	mod	14	mod
+19	la	la	DET	DET	n=s|g=f	21	det	21	det
+20	première	premier	ADJ	ADJ	n=s|g=f	21	mod	21	mod
+21	mission	mission	NC	NC	n=s|g=f	18	prep	18	prep
+22	spatiale	spatial	ADJ	ADJ	n=s|g=f	21	mod	21	mod
+23	américaine	américain	ADJ	ADJ	n=s|g=f	21	mod	21	mod
+24	.	.	PONCT	PONCT		23	ponct	23	ponct
+
+</p><h2>
+1	Moteurs	moteur	NC	NC	n=p|g=m	0	_	0	_
+2	F-1	_	NPP	NPP		1	mod	1	mod
+3	et	et	CC	CC		1	coord	1	coord
+4	J-2	_	NC	NC		3	dep_coord	3	dep_coord
+
+</h2><h3>
+1	Moteur-fusée	_	NC	NC		0	_	0	_
+2	F-1	_	NC	NC		1	mod	1	mod
+
+</h3><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	moteur	moteur	NC	NC	n=s|g=m	0	_	0	_
+3	seul	seul	ADJ	ADJ	n=s|g=m	2	mod	2	mod
+4	mesure	mesure	NC	NC	n=s|g=f	2	mod	2	mod
+5	3,3	3,3	ADJ	ADJ		2	mod	2	mod
+6	m	_	NC	NC		2	mod	2	mod
+7	de	de	P	P		2	dep	2	dep
+8	haut	haut	ADJ	ADJ	n=s|g=m	7	prep	7	prep
+9	pour	pour	P	P		2	dep	2	dep
+10	3	3	NC	NC		9	prep	9	prep
+11	m	_	NPP	NPP		10	mod	10	mod
+12	de	de	P	P		2	dep	2	dep
+13	diamètre	diamètre	NC	NC	n=s|g=m	12	prep	12	prep
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	prolongateur	prolongateur	NC	NC	n=s|g=m	5	suj	5	suj
+3	de	de	P	P		2	dep	2	dep
+4	tuyère	tuyère	NC	NC	n=s|g=f	3	prep	3	prep
+5	porte	porter	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+6	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	7	det	7	det
+7	longueur	longueur	NC	NC	n=s|g=f	5	obj	5	obj
+8	à	à	P	P		5	mod	5	mod
+9	6	6	NC	NC		8	prep	8	prep
+10	m	_	NPP	NPP		9	mod	9	mod
+11	pour	pour	P	P		5	mod	5	mod
+12	un	un	DET	DET	n=s|g=m	13	det	13	det
+13	diamètre	diamètre	NC	NC	n=s|g=m	11	prep	11	prep
+14	de	de	P	P		5	mod	5	mod
+15	4	4	NC	NC		14	prep	14	prep
+16	m	_	NPP	NPP		15	mod	15	mod
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+1	Cette	cette	DET	DET	n=s|g=f	2	det	2	det
+2	tuyère	tuyère	NC	NC	n=s|g=f	4	suj	4	suj
+3	est	être	V	V	n=s|t=P|p=3	4	aux_pass	4	aux_pass
+4	constituée	constituer	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+5	de	de	P	P		4	mod	4	mod
+6	178	178	NC	NC		5	prep	5	prep
+7	tubes	tube	NC	NC	n=p|g=m	6	mod	6	mod
+8	d'	de	P	P		4	mod	4	mod
+9	acier	acier	NC	NC	n=s|g=m	8	prep	8	prep
+10	de	de	P	P		4	mod	4	mod
+11	2,25	2,25	NC	NC		10	prep	10	prep
+12	cm	centimètre	NC	NC	g=m	11	mod	11	mod
+13	de	de	P	P		4	mod	4	mod
+14	diamètre	diamètre	NC	NC	n=s|g=m	13	prep	13	prep
+15	convenablement	_	ADV	ADV		16	mod	16	mod
+16	cintrés	cintrer	VPP	VPP	n=p|g=m|t=K	4	mod	4	mod
+17	entre	entre	P	P		16	mod	16	mod
+18	lesquels	lequel	PROREL	PROREL	n=p|g=m	17	prep	17	prep
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	dans	dans	P	P		29	mod	29	mod
+21	la	la	DET	DET	n=s|g=f	22	det	22	det
+22	partie	partie	NC	NC	n=s|g=f	20	prep	20	prep
+23	intérieure	intérieur	ADJ	ADJ	n=s|g=f	22	mod	22	mod
+24	,	,	PONCT	PONCT		23	ponct	23	ponct
+25	178	178	NC	NC		29	suj	29	suj
+26	autres	autre	ADJ	ADJ	n=p	25	mod	25	mod
+27	tubes	tube	NC	NC	n=p|g=m	25	mod	25	mod
+28	sont	être	V	V	n=p|t=P|p=3	29	aux_pass	29	aux_pass
+29	insérés	insérer	VPP	VPP	n=p|g=m|t=K	18	root	18	root
+30	,	,	PONCT	PONCT		29	ponct	29	ponct
+31	tous	tout	PRO	PRO	n=p|g=m	29	mod	29	mod
+32	soudés	souder	VPP	VPP	n=p|g=m|t=K	31	mod	31	mod
+33	avec	avec	P	P		32	mod	32	mod
+34	un	un	DET	DET	n=s|g=m	35	det	35	det
+35	alliage	alliage	NC	NC	n=s|g=m	33	prep	33	prep
+36	contenant	contenir	VPR	VPR	t=G	35	mod	35	mod
+37	cuivre	cuivre	NC	NC	n=s|g=m	36	obj	36	obj
+38	,	,	PONCT	PONCT		37	ponct	37	ponct
+39	argent	argent	NC	NC	n=s|g=m	37	mod	37	mod
+40	et	et	CC	CC		39	coord	39	coord
+41	or	or	NC	NC	n=s|g=m	40	dep_coord	40	dep_coord
+42	.	.	PONCT	PONCT		41	ponct	41	ponct
+
+1	Dans	dans	P	P		7	mod	7	mod
+2	ces	ces	DET	DET	n=p	3	det	3	det
+3	tubes	tube	NC	NC	n=p|g=m	1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	le	le	DET	DET	n=s|g=m	6	det	6	det
+6	combustible	combustible	ADJ	ADJ	n=s	7	suj	7	suj
+7	circule	circuler	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+8	avant	avant	P	P		7	mod	7	mod
+9	son	son	DET	DET	n=s|g=m|p=3|poss=s	10	det	10	det
+10	introduction	introduction	NC	NC	n=s|g=f	8	prep	8	prep
+11	dans	dans	P	P		7	mod	7	mod
+12	la	la	DET	DET	n=s|g=f	13	det	13	det
+13	chambre	chambre	NC	NC	n=s|g=f	11	prep	11	prep
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	moteurs	moteur	NC	NC	n=p|g=m	4	suj	4	suj
+3	sont	être	V	V	n=p|t=P|p=3	4	aux_pass	4	aux_pass
+4	fabriqués	fabriquer	VPP	VPP	n=p|g=m|t=K	0	root	0	root
+5	par	par	P	P		4	mod	4	mod
+6	Rocketdyne	_	NPP	NPP		5	prep	5	prep
+7	à	à	P	P		4	mod	4	mod
+8	Canoga	_	NPP	NPP		7	prep	7	prep
+9	Park	_	NPP	NPP		8	mod	8	mod
+10	en	en	P	P		4	mod	4	mod
+11	Californie	Californie	NPP	NPP	n=s|g=f	10	prep	10	prep
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+</p><h3>
+1	Moteur-fusée	_	NC	NC		0	_	0	_
+2	J-2	_	NC	NC		1	mod	1	mod
+
+</h3><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	moteur	moteur	NC	NC	n=s|g=m	4	suj	4	suj
+3	J2	_	NPP	NPP		2	mod	2	mod
+4	équipe	équiper	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+5	les	les	DET	DET	n=p	9	det	9	det
+6	deuxième	deuxième	ADJ	ADJ	n=s	9	mod	9	mod
+7	et	et	CC	CC		6	coord	6	coord
+8	troisième	troisième	ADJ	ADJ	n=s	7	dep_coord	7	dep_coord
+9	étages	étage	NC	NC	n=p|g=m	4	obj	4	obj
+10	du	de	P+D	P+D	n=s|g=m	4	mod	4	mod
+11	Saturn	Saturn	NPP	NPP	n=s|g=m	10	prep	10	prep
+12	V	_	NPP	NPP		11	mod	11	mod
+13	.	.	PONCT	PONCT		12	ponct	12	ponct
+14	C'	ce	CLS	CLS		15	suj	15	suj
+15	est	être	V	V	n=s|t=P|p=3	4	mod	4	mod
+16	lui	lui	PRO	PRO	n=s|g=m|p=3	15	ats	15	ats
+17	qui	qui	PROREL	PROREL	n=s	19	suj	19	suj
+18	est	être	V	V	n=s|t=P|p=3	19	aux_pass	19	aux_pass
+19	chargé	charger	VPP	VPP	n=s|g=m|t=K	15	mod	15	mod
+20	de	de	P	P		19	mod	19	mod
+21	la	la	DET	DET	n=s|g=f	22	det	22	det
+22	satellisation	satellisation	NC	NC	n=s|g=f	20	prep	20	prep
+23	autour	autour	NC	NC	n=s|g=m	22	mod	22	mod
+24	de	de	P	P		19	mod	19	mod
+25	la	la	DET	DET	n=s|g=f	26	det	26	det
+26	terre	terre	NC	NC	n=s|g=f	24	prep	24	prep
+27	et	et	CC	CC		19	coord	19	coord
+28	d'	de	P	P		27	dep_coord	27	dep_coord
+29	envoyer	envoyer	VINF	VINF	t=W	28	prep	28	prep
+30	le	le	DET	DET	n=s|g=m	31	det	31	det
+31	module	module	NC	NC	n=s|g=m	29	obj	29	obj
+32	lunaire	lunaire	NC	NC	n=s|g=f	31	mod	31	mod
+33	vers	vers	P	P		29	mod	29	mod
+34	la	la	DET	DET	n=s|g=f	35	det	35	det
+35	Lune	_	NPP	NPP		33	prep	33	prep
+36	.	.	PONCT	PONCT		35	ponct	35	ponct
+
+1	Successeur	successeur	NC	NC	n=s|g=m	11	mod	11	mod
+2	du	de	P+D	P+D	n=s|g=m	1	dep	1	dep
+3	RL10	_	NC	NC		2	prep	2	prep
+4	qui	qui	PROREL	PROREL	n=s	5	suj	5	suj
+5	équipe	équiper	V	V	n=s|t=P,S|p=1,3	1	mod_rel	1	mod_rel
+6	les	les	DET	DET	n=p	7	det	7	det
+7	Saturn	Saturn	NPP	NPP	n=s|g=m	5	obj	5	obj
+8	1	1	ADJ	ADJ		7	mod	7	mod
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	il	il	CLS	CLS	n=s|g=m|p=3	11	suj	11	suj
+11	développe	développer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+12	90	90	ADJ	ADJ		13	mod	13	mod
+13	tonnes	tonne	NC	NC	n=p|g=f	11	obj	11	obj
+14	de	de	P	P		13	dep	13	dep
+15	poussée	poussée	NC	NC	n=s|g=f	14	prep	14	prep
+16	dans	dans	P	P		11	mod	11	mod
+17	le	le	DET	DET	n=s|g=m	18	det	18	det
+18	vide	vide	NC	NC	n=s|g=m	16	prep	16	prep
+19	contre	contre	P	P		11	mod	11	mod
+20	40	40	NC	NC		19	prep	19	prep
+21	dans	dans	P	P		11	mod	11	mod
+22	l'	le	DET	DET	n=s	23	det	23	det
+23	air	air	NC	NC	n=s|g=m	21	prep	21	prep
+24	.	.	PONCT	PONCT		23	ponct	23	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	0	_	0	_
+2	fait	faire	V	V	n=s|t=P|p=3	0	_	0	_
+3	3,4	3,4	ADJ	ADJ		4	mod	4	mod
+4	mètres	mètre	NC	NC	n=p|g=m	2	obj	2	obj
+5	de	de	P	P		2	mod	2	mod
+6	haut	haut	ADJ	ADJ	n=s|g=m	5	prep	5	prep
+7	pour	pour	P	P		2	mod	2	mod
+8	2,1	2,1	NC	NC		7	prep	7	prep
+9	m	_	NPP	NPP		8	mod	8	mod
+10	de	de	P	P		2	mod	2	mod
+11	diamètre	diamètre	NC	NC	n=s|g=m	10	prep	10	prep
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+</p><h2>
+1	Chronologie	chronologie	NC	NC	n=s|g=f	0	_	0	_
+2	du	de	P+D	P+D	n=s|g=m	1	dep	1	dep
+3	lancement	lancement	NC	NC	n=s|g=m	2	prep	2	prep
+4	de	de	P	P		1	dep	1	dep
+5	Saturn	Saturn	NPP	NPP	n=s|g=m	4	prep	4	prep
+6	V	_	NPP	NPP		5	mod	5	mod
+
+</h2><p>
+1	Lancement	lancement	NC	NC	n=s|g=m	4	suj	4	suj
+2	d'	de	P	P		1	dep	1	dep
+3	Apollo	Apollo	NPP	NPP	n=s|g=m	2	prep	2	prep
+4	10	10	V	V		0	root	0	root
+5	le	le	DET	DET	n=s|g=m	7	det	7	det
+6	11	11	ADJ	ADJ		7	mod	7	mod
+7	mars	mars	NC	NC	g=m	4	obj	4	obj
+8	1969	1969	NC	NC		7	mod	7	mod
+9	.	.	PONCT	PONCT		8	ponct	8	ponct
+
+</p><h3>
+1	Fonctionnement	fonctionnement	NC	NC	n=s|g=m	0	_	0	_
+2	du	de	P+D	P+D	n=s|g=m	1	dep	1	dep
+3	1	1	ADJ	ADJ		4	mod	4	mod
+4	étage	étage	NC	NC	n=s|g=m	2	prep	2	prep
+
+</h3><p>
+1	Le	le	DET	DET	n=s|g=m	3	det	3	det
+2	premier	premier	ADJ	ADJ	n=s|g=m	3	mod	3	mod
+3	étage	étage	NC	NC	n=s|g=m	4	suj	4	suj
+4	fonctionne	fonctionner	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+5	pendant	pendant	P	P		4	mod	4	mod
+6	2	2	NC	NC		5	prep	5	prep
+7	minutes	minute	NC	NC	n=p|g=f	6	mod	6	mod
+8	et	et	CC	CC		4	coord	4	coord
+9	30	30	NC	NC		0	_	0	_
+10	secondes	second	ADJ	ADJ	n=p|g=f	9	mod	9	mod
+11	en	en	P	P		0	_	0	_
+12	brûlant	brûler	VPR	VPR	t=G	11	prep	11	prep
+13	2_000	2_000	ADJ	ADJ		14	mod	14	mod
+14	tonnes	tonne	NC	NC	n=p|g=f	12	obj	12	obj
+15	de	de	P	P		14	dep	14	dep
+16	carburant	carburant	NC	NC	n=s|g=m	15	prep	15	prep
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+1	Lorsque	lorsque	CS	CS		12	mod	12	mod
+2	le	le	DET	DET	n=s|g=m	4	det	4	det
+3	2	2	ADJ	ADJ		4	mod	4	mod
+4	étage	étage	NC	NC	n=s|g=m	5	suj	5	suj
+5	prend	prendre	V	V	n=s|t=P|p=3	1	sub	1	sub
+6	le	le	DET	DET	n=s|g=m	7	det	7	det
+7	relais	relais	NC	NC	g=m	5	obj	5	obj
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	la	la	DET	DET	n=s|g=f	10	det	10	det
+10	fusée	fusée	NC	NC	n=s|g=f	12	suj	12	suj
+11	se	se	CLR	CLR	n=p,s|p=3	12	aff	12	aff
+12	trouve	trouver	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+13	à	à	P	P		12	mod	12	mod
+14	une	une	DET	DET	n=s|g=f	15	det	15	det
+15	altitude	altitude	NC	NC	n=s|g=f	13	prep	13	prep
+16	d'	de	P	P		12	mod	12	mod
+17	environs	environs	NC	NC	n=p|g=m	16	prep	16	prep
+18	60	60	ADJ	ADJ		17	mod	17	mod
+19	km	kilomètre	NC	NC	g=m	17	mod	17	mod
+20	et	et	CC	CC		12	coord	12	coord
+21	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	22	det	22	det
+22	vitesse	vitesse	NC	NC	n=s|g=f	23	suj	23	suj
+23	est	être	V	V	n=s|t=P|p=3	20	dep_coord	20	dep_coord
+24	de	de	P	P		23	mod	23	mod
+25	8_600	8_600	ADJ	ADJ		26	mod	26	mod
+26	km	kilomètre	NC	NC	g=m	24	prep	24	prep
+27	/	/	PONCT	PONCT		26	ponct	26	ponct
+28	h	heure	NC	NC	g=f	23	mod	23	mod
+29	.	.	PONCT	PONCT		28	ponct	28	ponct
+
+</p><p>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	séquence	séquence	NC	NC	n=s|g=f	8	suj	8	suj
+3	d’	de	P	P		2	dep	2	dep
+4	allumage	allumage	NC	NC	n=s|g=m	3	prep	3	prep
+5	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+6	1	1	ADJ	ADJ		7	mod	7	mod
+7	étage	étage	NC	NC	n=s|g=m	5	prep	5	prep
+8	débute	débuter	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+9	8	8	ADJ	ADJ		10	mod	10	mod
+10	secondes	seconde	NC	NC	n=p|g=f	8	obj	8	obj
+11	avant	avant	P	P		8	mod	8	mod
+12	le	le	DET	DET	n=s|g=m	13	det	13	det
+13	lancement	lancement	NC	NC	n=s|g=m	11	prep	11	prep
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	moteur	moteur	NC	NC	n=s|g=m	6	suj	6	suj
+3	F-1	_	NC	NC		2	mod	2	mod
+4	central	central	ADJ	ADJ	n=s|g=m	2	mod	2	mod
+5	s’	se	CLR	CLR	n=p,s|p=3	6	aff	6	aff
+6	allume	allumer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+7	en	en	P	P		6	mod	6	mod
+8	premier	premier	ADJ	ADJ	n=s|g=m	7	prep	7	prep
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	suivi	suivre	VPP	VPP	n=s|g=m|t=K	6	mod	6	mod
+11	par	par	P	P		10	mod	10	mod
+12	les	les	DET	DET	n=p	14	det	14	det
+13	4	4	ADJ	ADJ		14	mod	14	mod
+14	moteurs	moteur	NC	NC	n=p|g=m	11	prep	11	prep
+15	extérieurs	extérieur	ADJ	ADJ	n=p|g=m	14	mod	14	mod
+16	avec	avec	P	P		10	mod	10	mod
+17	un	un	DET	DET	n=s|g=m	18	det	18	det
+18	décalage	décalage	NC	NC	n=s|g=m	16	prep	16	prep
+19	d'	de	P	P		10	mod	10	mod
+20	environ	environ	ADV	ADV		21	mod	21	mod
+21	1	1	NC	NC		19	prep	19	prep
+22	seconde	second	ADJ	ADJ	n=s|g=f	21	mod	21	mod
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+1	Une	une	DET	DET	n=s|g=f	2	det	2	det
+2	fois	fois	NC	NC	g=f	32	suj	32	suj
+3	que	que	CS	CS		2	mod	2	mod
+4	les	les	DET	DET	n=p	5	det	5	det
+5	ordinateurs	ordinateur	NC	NC	n=p|g=m	7	suj	7	suj
+6	ont	avoir	V	V	n=p|t=P|p=3	7	aux_tps	7	aux_tps
+7	confirmé	confirmer	VPP	VPP	n=s|g=m|t=K	3	sub	3	sub
+8	que	que	CS	CS		7	obj	7	obj
+9	les	les	DET	DET	n=p	10	det	10	det
+10	moteurs	moteur	NC	NC	n=p|g=m	12	suj	12	suj
+11	ont	avoir	V	V	n=p|t=P|p=3	12	aux_tps	12	aux_tps
+12	atteint	atteindre	VPP	VPP	n=s|g=m|t=K	8	sub	8	sub
+13	leur	leur	DET	DET	n=s|p=3|poss=p	14	det	14	det
+14	puissance	puissance	NC	NC	n=s|g=f	12	obj	12	obj
+15	maximale	maximal	ADJ	ADJ	n=s|g=f	14	mod	14	mod
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	la	la	DET	DET	n=s|g=f	18	det	18	det
+18	fusée	fusée	NC	NC	n=s|g=f	12	mod	12	mod
+19	est	être	V	V	n=s|t=P|p=3	20	aux_tps	20	aux_tps
+20	relâchée	relâcher	VPP	VPP	n=s|g=f|t=K	12	mod	12	mod
+21	en	en	P	P		20	mod	20	mod
+22	deux	deux	DET	DET	s=card|n=p	23	det	23	det
+23	étapes	étape	NC	NC	n=p|g=f	21	prep	21	prep
+24	:	:	PONCT	PONCT		23	ponct	23	ponct
+25	les	les	DET	DET	n=p	26	det	26	det
+26	bras	bras	NC	NC	g=m	20	mod	20	mod
+27	qui	qui	PROREL	PROREL	n=s	28	suj	28	suj
+28	maintiennent	maintenir	V	V	n=p|t=P,S|p=3	26	mod_rel	26	mod_rel
+29	la	la	DET	DET	n=s|g=f	30	det	30	det
+30	fusée	fusée	NC	NC	n=s|g=f	28	obj	28	obj
+31	se	se	CLR	CLR	n=p,s|p=3	32	aff	32	aff
+32	déverrouillent	déverrouiller	V	V	n=p|t=P,S|p=3	0	root	0	root
+33	pour	pour	P	P		32	mod	32	mod
+34	la	la	CLO	CLO	n=s|g=f|p=3	35	obj	35	obj
+35	libérer	libérer	VINF	VINF	t=W	33	prep	33	prep
+36	puis	puis	CC	CC		32	coord	32	coord
+37	,	,	PONCT	PONCT		36	ponct	36	ponct
+38	tandis	tandis	P	P		0	_	0	_
+39	que	que	CS	CS		0	_	0	_
+40	le	le	DET	DET	n=s|g=m	41	det	41	det
+41	lanceur	lanceur	NC	NC	n=s|g=m	42	suj	42	suj
+42	commence	commencer	V	V	n=s|t=P,S|p=1,3	39	sub	39	sub
+43	à	à	P	P		42	obj	42	obj
+44	s'	se	CLR	CLR	n=p,s|p=3	45	aff	45	aff
+45	élever	élever	VINF	VINF	t=W	43	prep	43	prep
+46	au-dessus	au-dessus	ADV	ADV		45	mod	45	mod
+47	du	de	P+D	P+D	n=s|g=m	45	mod	45	mod
+48	sol	_	NC	NC		47	prep	47	prep
+49	,	,	PONCT	PONCT		48	ponct	48	ponct
+50	des	des	DET	DET	n=p	51	det	51	det
+51	fixations	fixation	NC	NC	n=p|g=f	62	suj	62	suj
+52	métalliques	métallique	ADJ	ADJ	n=p	51	mod	51	mod
+53	accrochées	accrocher	VPP	VPP	n=p|g=f|t=K	51	mod	51	mod
+54	à	à	P	P		53	mod	53	mod
+55	travers	travers	NC	NC	g=m	54	prep	54	prep
+56	des	de	P+D	P+D	n=p	53	mod	53	mod
+57	fentes	fente	NC	NC	n=p|g=f	56	prep	56	prep
+58	à	à	P	P		53	mod	53	mod
+59	la	la	DET	DET	n=s|g=f	60	det	60	det
+60	fusée	fusée	NC	NC	n=s|g=f	58	prep	58	prep
+61	se	se	CLR	CLR	n=p,s|p=3	62	aff	62	aff
+62	déforment	déformer	V	V	n=p|t=P,S|p=3	42	mod	42	mod
+63	progressivement	_	ADV	ADV		62	mod	62	mod
+64	jusqu'	jusque	P	P		62	mod	62	mod
+65	à	à	P	P		64	prep	64	prep
+66	relâcher	relâcher	VINF	VINF	t=W	0	_	0	_
+67	complètement	_	ADV	ADV		66	mod	66	mod
+68	le	le	DET	DET	n=s|g=m	69	det	69	det
+69	lanceur	lanceur	NC	NC	n=s|g=m	66	obj	66	obj
+70	.	.	PONCT	PONCT		69	ponct	69	ponct
+
+1	Cette	cette	DET	DET	n=s|g=f	2	det	2	det
+2	phase	phase	NC	NC	n=s|g=f	0	_	0	_
+3	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+4	lancement	lancement	NC	NC	n=s|g=m	3	prep	3	prep
+5	dure	dur	ADJ	ADJ	n=s|g=f	2	mod	2	mod
+6	une	une	DET	DET	n=s|g=f	7	det	7	det
+7	demi-seconde	_	NC	NC		2	mod	2	mod
+8	.	.	PONCT	PONCT		7	ponct	7	ponct
+
+1	Lorsque	lorsque	CS	CS		11	mod	11	mod
+2	la	la	DET	DET	n=s|g=f	3	det	3	det
+3	fusée	fusée	NC	NC	n=s|g=f	6	suj	6	suj
+4	est	être	V	V	n=s|t=P|p=3	6	aux_pass	6	aux_pass
+5	complètement	_	ADV	ADV		6	mod	6	mod
+6	relâchée	relâcher	VPP	VPP	n=s|g=f|t=K	1	sub	1	sub
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	le	le	DET	DET	n=s|g=m	9	det	9	det
+9	lancement	lancement	NC	NC	n=s|g=m	11	suj	11	suj
+10	ne	ne	ADV	ADV		11	mod	11	mod
+11	peut	pouvoir	V	V	n=s|t=P|p=3	0	root	0	root
+12	plus	plus	ADV	ADV		11	mod	11	mod
+13	être	être	VINF	VINF	t=W	11	obj	11	obj
+14	interrompu	interrompre	VPP	VPP	n=s|g=m|t=K	13	dep	13	dep
+15	même	même	ADV	ADV		14	mod	14	mod
+16	si	si	CS	CS		14	mod	14	mod
+17	un	un	DET	DET	n=s|g=m	18	det	18	det
+18	moteur	moteur	NC	NC	n=s|g=m	19	suj	19	suj
+19	a	avoir	V	V	n=s|t=P|p=3	16	sub	16	sub
+20	un	un	DET	DET	n=s|g=m	21	det	21	det
+21	fonctionnement	fonctionnement	NC	NC	n=s|g=m	19	obj	19	obj
+22	défectueux	défectueux	ADJ	ADJ	g=m	21	mod	21	mod
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	faut	falloir	V	V	n=s|t=P|p=3	0	root	0	root
+3	environ	environ	ADV	ADV		2	mod	2	mod
+4	10	10	ADJ	ADJ		5	mod	5	mod
+5	secondes	seconde	NC	NC	n=p|g=f	2	obj	2	obj
+6	à	à	P	P		2	mod	2	mod
+7	la	la	DET	DET	n=s|g=f	8	det	8	det
+8	fusée	fusée	NC	NC	n=s|g=f	6	prep	6	prep
+9	pour	pour	P	P		2	mod	2	mod
+10	s’	se	CLR	CLR	n=p,s|p=3	11	aff	11	aff
+11	élever	élever	VINF	VINF	t=W	9	prep	9	prep
+12	au-dessus	au-dessus	ADV	ADV		11	mod	11	mod
+13	de	de	P	P		11	mod	11	mod
+14	la	la	DET	DET	n=s|g=f	15	det	15	det
+15	tour	tour	NC	NC	n=s	13	prep	13	prep
+16	de	de	P	P		15	dep	15	dep
+17	lancement	lancement	NC	NC	n=s|g=m	16	prep	16	prep
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	Saturn	Saturn	NPP	NPP	n=s|g=m	3	suj	3	suj
+2	V	_	NPP	NPP		1	mod	1	mod
+3	accélère	accélérer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	rapidement	_	ADV	ADV		3	mod	3	mod
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	atteignant	atteindre	VPR	VPR	t=G	3	mod	3	mod
+7	la	la	DET	DET	n=s|g=f	8	det	8	det
+8	vitesse	vitesse	NC	NC	n=s|g=f	6	obj	6	obj
+9	de	de	P	P		8	dep	8	dep
+10	500	500	ADJ	ADJ		11	mod	11	mod
+11	mètres	mètre	NC	NC	n=p|g=m	9	prep	9	prep
+12	par	par	P	P		6	mod	6	mod
+13	seconde	seconde	NC	NC	n=s|g=f	12	prep	12	prep
+14	à	à	P	P		6	mod	6	mod
+15	2	2	ADJ	ADJ		14	prep	14	prep
+16	km	kilomètre	NC	NC	g=m	14	prep	14	prep
+17	d’	de	P	P		6	mod	6	mod
+18	altitude	altitude	NC	NC	n=s|g=f	17	prep	17	prep
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	Or	or	CC	CC		0	root	0	root
+2	la	la	DET	DET	n=s|g=f	3	det	3	det
+3	poussée	poussée	NC	NC	n=s|g=f	8	suj	8	suj
+4	du	de	P+D	P+D	n=s|g=m	3	dep	3	dep
+5	moteur	moteur	NC	NC	n=s|g=m	4	prep	4	prep
+6	F-1	_	NPP	NPP		5	mod	5	mod
+7	n’	ne	ADV	ADV		8	mod	8	mod
+8	était	être	V	V	n=s|t=I|p=3	1	dep_coord	1	dep_coord
+9	pas	pas	ADV	ADV		8	mod	8	mod
+10	variable	variable	ADJ	ADJ	n=s	8	ats	8	ats
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+1	6	6	ADJ	ADJ		2	mod	2	mod
+2	secondes	seconde	NC	NC	n=p|g=f	0	root	0	root
+3	après	après	P	P		2	dep	2	dep
+4	avoir	avoir	VINF	VINF	t=W	5	aux_tps	5	aux_tps
+5	éteint	éteindre	VPP	VPP	n=s|g=m|t=K	3	prep	3	prep
+6	le	le	DET	DET	n=s|g=m	7	det	7	det
+7	moteur	moteur	NC	NC	n=s|g=m	5	obj	5	obj
+8	central	central	ADJ	ADJ	n=s|g=m	7	mod	7	mod
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	alors	alors	ADV	ADV		11	mod	11	mod
+11	que	que	CS	CS		5	mod	5	mod
+12	la	la	DET	DET	n=s|g=f	13	det	13	det
+13	fusée	fusée	NC	NC	n=s|g=f	15	suj	15	suj
+14	a	avoir	V	V	n=s|t=P|p=3	15	aux_tps	15	aux_tps
+15	atteint	atteindre	VPP	VPP	n=s|g=m|t=K	11	sub	11	sub
+16	une	une	DET	DET	n=s|g=f	17	det	17	det
+17	altitude	altitude	NC	NC	n=s|g=f	15	obj	15	obj
+18	de	de	P	P		17	dep	17	dep
+19	60	60	ADJ	ADJ		20	mod	20	mod
+20	km	kilomètre	NC	NC	g=m	18	prep	18	prep
+21	le	le	DET	DET	n=s|g=m	23	det	23	det
+22	premier	premier	ADJ	ADJ	n=s|g=m	23	mod	23	mod
+23	étage	étage	NC	NC	n=s|g=m	15	mod	15	mod
+24	se	se	CLR	CLR	n=p,s|p=3	25	aff	25	aff
+25	sépare	séparer	V	V	n=s|t=P,S|p=1,3	15	mod	15	mod
+26	du	de	P+D	P+D	n=s|g=m	25	mod	25	mod
+27	lanceur	lanceur	NC	NC	n=s|g=m	26	prep	26	prep
+28	avec	avec	P	P		25	mod	25	mod
+29	l’	le	DET	DET	n=s	30	det	30	det
+30	aide	aide	NC	NC	n=s	28	prep	28	prep
+31	de	de	P	P		25	mod	25	mod
+32	8	8	NC	NC		31	prep	31	prep
+33	petits	petit	ADJ	ADJ	n=p|g=m	32	mod	32	mod
+34	rétrofusées	rétrofusée	NC	NC	n=p|g=f	32	mod	32	mod
+35	à	à	P	P		34	dep	34	dep
+36	poudre	poudre	NC	NC	n=s|g=f	35	prep	35	prep
+37	qui	qui	PROREL	PROREL	n=s	38	suj	38	suj
+38	empêchent	empêcher	V	V	n=p|t=P,S|p=3	25	mod	25	mod
+39	le	le	DET	DET	n=s|g=m	40	det	40	det
+40	premier	premier	ADJ	ADJ	n=s|g=m	38	obj	38	obj
+41	étage	étager	V	V	n=s|t=P,S|p=1,3	25	mod	25	mod
+42	toujours	toujours	ADV	ADV		43	mod	43	mod
+43	propulsé	propulser	VPP	VPP	n=s|g=m|t=K	41	mod	41	mod
+44	de	de	P	P		43	mod	43	mod
+45	rentrer	rentrer	VINF	VINF	t=W	44	prep	44	prep
+46	en	en	P	P		45	mod	45	mod
+47	collision	collision	NC	NC	n=s|g=f	46	prep	46	prep
+48	avec	avec	P	P		45	mod	45	mod
+49	le	le	DET	DET	n=s|g=m	51	det	51	det
+50	2	2	ADJ	ADJ		51	mod	51	mod
+51	étage	étage	NC	NC	n=s|g=m	48	prep	48	prep
+52	qui	qui	PROREL	PROREL	n=s	54	suj	54	suj
+53	n'	ne	ADV	ADV		54	mod	54	mod
+54	avance	avancer	V	V	n=s|t=P,S|p=1,3	51	mod_rel	51	mod_rel
+55	plus	plus	ADV	ADV		54	mod	54	mod
+56	que	que	CS	CS		54	obj	54	obj
+57	sur	sur	P	P		0	_	0	_
+58	son	son	DET	DET	n=s|g=m|p=3|poss=s	59	det	59	det
+59	inertie	inertie	NC	NC	n=s|g=f	57	prep	57	prep
+60	.	.	PONCT	PONCT		59	ponct	59	ponct
+
+</p><h3>
+1	Fonctionnement	fonctionnement	NC	NC	n=s|g=m	0	_	0	_
+2	du	de	P+D	P+D	n=s|g=m	1	dep	1	dep
+3	2	2	ADJ	ADJ		4	mod	4	mod
+4	étage	étage	NC	NC	n=s|g=m	2	prep	2	prep
+
+</h3><p>
+1	Le	le	DET	DET	n=s|g=m	3	det	3	det
+2	deuxième	deuxième	ADJ	ADJ	n=s	3	mod	3	mod
+3	étage	étage	NC	NC	n=s|g=m	4	suj	4	suj
+4	prend	prendre	V	V	n=s|t=P|p=3	0	root	0	root
+5	le	le	DET	DET	n=s|g=m	6	det	6	det
+6	relais	relais	NC	NC	g=m	4	obj	4	obj
+7	du	de	P+D	P+D	n=s|g=m	4	mod	4	mod
+8	premier	premier	ADJ	ADJ	n=s|g=m	7	prep	7	prep
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	il	il	CLS	CLS	n=s|g=m|p=3	11	suj	11	suj
+11	va	aller	V	V	n=s|t=P|p=3	4	mod	4	mod
+12	fonctionner	fonctionner	VINF	VINF	t=W	11	obj	11	obj
+13	pendant	pendant	P	P		12	mod	12	mod
+14	6	6	NC	NC		13	prep	13	prep
+15	minutes	minute	NC	NC	n=p|g=f	14	mod	14	mod
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	va	aller	V	V	n=s|t=P|p=3	0	root	0	root
+3	permettre	permettre	VINF	VINF	t=W	2	obj	2	obj
+4	d'	de	P	P		3	mod	3	mod
+5	atteindre	atteindre	VINF	VINF	t=W	4	prep	4	prep
+6	une	une	DET	DET	n=s|g=f	7	det	7	det
+7	altitude	altitude	NC	NC	n=s|g=f	5	obj	5	obj
+8	de	de	P	P		7	dep	7	dep
+9	185	185	NC	NC		8	prep	8	prep
+10	km	kilomètre	NC	NC	g=m	9	mod	9	mod
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	une	une	DET	DET	n=s|g=f	13	det	13	det
+13	vitesse	vitesse	NC	NC	n=s|g=f	3	obj	3	obj
+14	de	de	P	P		13	dep	13	dep
+15	24_600	24_600	ADJ	ADJ		16	mod	16	mod
+16	km	kilomètre	NC	NC	g=m	14	prep	14	prep
+17	/	/	PONCT	PONCT		16	ponct	16	ponct
+18	h	heure	NC	NC	g=f	13	mod	13	mod
+19	(	(	PONCT	PONCT		18	ponct	18	ponct
+20	6,5	6,5	ADJ	ADJ		13	mod	13	mod
+21	km	kilomètre	NC	NC	g=m	13	mod	13	mod
+22	/	/	PONCT	PONCT		21	ponct	21	ponct
+23	s	_	NPP	NPP		13	mod	13	mod
+24	)	)	PONCT	PONCT		23	ponct	23	ponct
+25	.	.	PONCT	PONCT		23	ponct	23	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	moteurs	moteur	NC	NC	n=p|g=m	7	suj	7	suj
+3	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+4	second	second	ADJ	ADJ	n=s|g=m	5	mod	5	mod
+5	étage	étage	NC	NC	n=s|g=m	3	prep	3	prep
+6	sont	être	V	V	n=p|t=P|p=3	7	aux_pass	7	aux_pass
+7	allumés	allumer	VPP	VPP	n=p|g=m|t=K	0	root	0	root
+8	en	en	P	P		7	mod	7	mod
+9	deux	deux	DET	DET	s=card|n=p	10	det	10	det
+10	temps	temps	NC	NC	g=m	8	prep	8	prep
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+1	Après	après	P	P		0	_	0	_
+2	la	la	DET	DET	n=s|g=f	3	det	3	det
+3	séparation	séparation	NC	NC	n=s|g=f	1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	des	des	DET	DET	n=p	6	det	6	det
+6	fusées	fusée	NC	NC	n=p|g=f	0	_	0	_
+7	à	à	P	P		6	dep	6	dep
+8	propergol	propergol	NC	NC	n=s|g=m	7	prep	7	prep
+9	solide	solide	ADJ	ADJ	n=s	8	mod	8	mod
+10	impriment	_	NC	NC		8	mod	8	mod
+11	durant	durant	P	P		6	dep	6	dep
+12	4	4	NC	NC		11	prep	11	prep
+13	secondes	second	ADJ	ADJ	n=p|g=f	6	mod	6	mod
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+1	Puis	puis	CC	CC		0	root	0	root
+2	les	les	DET	DET	n=p	4	det	4	det
+3	cinq	cinq	ADJ	ADJ	s=card|n=p	4	mod	4	mod
+4	moteurs	moteur	NC	NC	n=p|g=m	7	suj	7	suj
+5	J-2	_	NC	NC		4	mod	4	mod
+6	sont	être	V	V	n=p|t=P|p=3	7	aux_pass	7	aux_pass
+7	allumés	allumer	VPP	VPP	n=p|g=m|t=K	1	dep_coord	1	dep_coord
+8	.	.	PONCT	PONCT		7	ponct	7	ponct
+
+1	Environ	environ	ADV	ADV		2	mod	2	mod
+2	30	30	ADJ	ADJ		3	mod	3	mod
+3	secondes	seconde	NC	NC	n=p|g=f	0	root	0	root
+4	après	après	P	P		3	dep	3	dep
+5	la	la	DET	DET	n=s|g=f	6	det	6	det
+6	séparation	séparation	NC	NC	n=s|g=f	4	prep	4	prep
+7	avec	avec	P	P		3	dep	3	dep
+8	le	le	DET	DET	n=s|g=m	10	det	10	det
+9	premier	premier	ADJ	ADJ	n=s|g=m	10	mod	10	mod
+10	étage	étage	NC	NC	n=s|g=m	7	prep	7	prep
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	la	la	DET	DET	n=s|g=f	13	det	13	det
+13	jupe	jupe	NC	NC	n=s|g=f	3	mod	3	mod
+14	située	situer	VPP	VPP	n=s|g=f|t=K	13	mod	13	mod
+15	entre	entre	P	P		14	mod	14	mod
+16	les	les	DET	DET	n=p	18	det	18	det
+17	deux	deux	ADJ	ADJ	s=card|n=p	18	mod	18	mod
+18	étages	étage	NC	NC	n=p|g=m	15	prep	15	prep
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	qui	qui	PROREL	PROREL	n=s	21	suj	21	suj
+21	sert	servir	V	V	n=s|t=P|p=3	18	mod_rel	18	mod_rel
+22	également	_	ADV	ADV		21	mod	21	mod
+23	de	de	P	P		21	mod	21	mod
+24	support	support	NC	NC	n=s|g=m	23	prep	23	prep
+25	aux	à	P+D	P+D	n=p	24	dep	24	dep
+26	fusées	fusée	NC	NC	n=p|g=f	25	prep	25	prep
+27	de	de	P	P		21	mod	21	mod
+28	tassement	tassement	NC	NC	n=s|g=m	27	prep	27	prep
+29	,	,	PONCT	PONCT		28	ponct	28	ponct
+30	est	être	V	V	n=s|t=P|p=3	0	_	0	_
+31	larguée	larguer	VPP	VPP	n=s|g=f|t=K	30	root	30	root
+32	pour	pour	P	P		31	mod	31	mod
+33	alléger	alléger	VINF	VINF	t=W	32	prep	32	prep
+34	le	le	DET	DET	n=s|g=m	35	det	35	det
+35	lanceur	lanceur	NC	NC	n=s|g=m	33	obj	33	obj
+36	.	.	PONCT	PONCT		35	ponct	35	ponct
+
+1	Cette	cette	DET	DET	n=s|g=f	2	det	2	det
+2	manœuvre	_	NC	NC		5	suj	5	suj
+3	de	de	P	P		2	dep	2	dep
+4	séparation	séparation	NC	NC	n=s|g=f	3	prep	3	prep
+5	demande	demander	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+6	une	une	DET	DET	n=s|g=f	8	det	8	det
+7	grande	grand	ADJ	ADJ	n=s|g=f	8	mod	8	mod
+8	précision	précision	NC	NC	n=s|g=f	5	obj	5	obj
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	car	car	CS	CS		5	mod	5	mod
+11	il	il	CLS	CLS	n=s|g=m|p=3	13	suj	13	suj
+12	ne	ne	ADV	ADV		13	mod	13	mod
+13	faut	falloir	V	V	n=s|t=P|p=3	10	sub	10	sub
+14	pas	pas	ADV	ADV		13	mod	13	mod
+15	que	que	CS	CS		13	obj	13	obj
+16	cette	cette	DET	DET	n=s|g=f	17	det	17	det
+17	pièce	pièce	NC	NC	n=s|g=f	31	suj	31	suj
+18	qui	qui	PROREL	PROREL	n=s	19	suj	19	suj
+19	entoure	entourer	V	V	n=s|t=P,S|p=1,3	17	mod_rel	17	mod_rel
+20	les	les	DET	DET	n=p	21	det	21	det
+21	moteurs	moteur	NC	NC	n=p|g=m	19	obj	19	obj
+22	et	et	CC	CC		19	coord	19	coord
+23	qui	qui	PROREL	PROREL	n=s	25	suj	25	suj
+24	en	en	CLO	CLO		25	mod	25	mod
+25	est	être	V	V	n=s|t=P|p=3	22	dep_coord	22	dep_coord
+26	distante	distant	ADJ	ADJ	n=s|g=f	25	ats	25	ats
+27	de	de	P	P		25	mod	25	mod
+28	seulement	_	ADV	ADV		29	mod	29	mod
+29	1	1	NC	NC		27	prep	27	prep
+30	mètre	mètre	NC	NC	n=s|g=m	29	mod	29	mod
+31	percute	percuter	V	V	n=s|t=P,S|p=1,3	15	sub	15	sub
+32	les	les	DET	DET	n=p	33	det	33	det
+33	moteurs	moteur	NC	NC	n=p|g=m	31	obj	31	obj
+34	.	.	PONCT	PONCT		33	ponct	33	ponct
+
+1	Au	à	P+D	P+D	n=s|g=m	29	mod	29	mod
+2	même	même	ADJ	ADJ	n=s	3	mod	3	mod
+3	moment	moment	NC	NC	n=s|g=m	1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	la	la	DET	DET	n=s|g=f	6	det	6	det
+6	tour	tour	NC	NC	n=s	29	suj	29	suj
+7	de	de	P	P		6	dep	6	dep
+8	sauvetage	sauvetage	NC	NC	n=s|g=m	7	prep	7	prep
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	qui	qui	PROREL	PROREL	n=s	12	suj	12	suj
+11	est	être	V	V	n=s|t=P|p=3	12	aux_pass	12	aux_pass
+12	fixée	fixer	VPP	VPP	n=s|g=f|t=K	6	mod_rel	6	mod_rel
+13	au	à	P+D	P+D	n=s|g=m	12	mod	12	mod
+14	sommet	sommet	NC	NC	n=s|g=m	13	prep	13	prep
+15	du	de	P+D	P+D	n=s|g=m	14	dep	14	dep
+16	vaisseau	vaisseau	NC	NC	n=s|g=m	15	prep	15	prep
+17	Apollo	Apollo	NPP	NPP	n=s|g=m	16	mod	16	mod
+18	pour	pour	P	P		12	mod	12	mod
+19	arracher	arracher	VINF	VINF	t=W	18	prep	18	prep
+20	celui-ci	celui-ci	PRO	PRO	n=s|g=m	19	obj	19	obj
+21	au	à	P+D	P+D	n=s|g=m	20	dep	20	dep
+22	lanceur	lanceur	NC	NC	n=s|g=m	21	prep	21	prep
+23	en	en	P	P		19	mod	19	mod
+24	cas	cas	NC	NC	g=m	23	prep	23	prep
+25	de	de	P	P		19	mod	19	mod
+26	défaillance	défaillance	NC	NC	n=s|g=f	25	prep	25	prep
+27	,	,	PONCT	PONCT		26	ponct	26	ponct
+28	est	être	V	V	n=s|t=P|p=3	29	aux_tps	29	aux_tps
+29	larguée	larguer	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+30	.	.	PONCT	PONCT		29	ponct	29	ponct
+
+1	Dès	dès	P	P		2	mod	2	mod
+2	que	que	CS	CS		0	root	0	root
+3	des	des	DET	DET	n=p	4	det	4	det
+4	capteurs	capteur	NC	NC	n=p|g=m	9	suj	9	suj
+5	au	à	P+D	P+D	n=s|g=m	4	dep	4	dep
+6	fond	fond	NC	NC	n=s|g=m	5	prep	5	prep
+7	des	de	P+D	P+D	n=p	4	dep	4	dep
+8	réservoirs	réservoir	NC	NC	n=p|g=m	7	prep	7	prep
+9	captent	capter	V	V	n=p|t=P,S|p=3	2	sub	2	sub
+10	qu'	que	CS	CS		9	obj	9	obj
+11	il	il	CLS	CLS	n=s|g=m|p=3	14	suj	14	suj
+12	n'	ne	ADV	ADV		14	mod	14	mod
+13	y	y	CLO	CLO		14	aff	14	aff
+14	a	avoir	V	V	n=s|t=P|p=3	10	sub	10	sub
+15	plus	plus	ADV	ADV		14	mod	14	mod
+16	d'	de	P	P		14	mod	14	mod
+17	essence	essence	NC	NC	n=s|g=f	16	prep	16	prep
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	les	les	DET	DET	n=p	20	det	20	det
+20	ordinateurs	ordinateur	NC	NC	n=p|g=m	21	suj	21	suj
+21	séparent	séparer	V	V	n=p|t=P,S|p=3	14	mod	14	mod
+22	le	le	DET	DET	n=s|g=m	24	det	24	det
+23	2	2	ADJ	ADJ		24	mod	24	mod
+24	étage	étage	NC	NC	n=s|g=m	21	obj	21	obj
+25	.	.	PONCT	PONCT		24	ponct	24	ponct
+
+1	Puis	puis	CC	CC		0	root	0	root
+2	4	4	ADJ	ADJ		3	mod	3	mod
+3	rétros	rétro	NC	NC	n=p	5	suj	5	suj
+4	fusées	fuser	ADJ	ADJ	n=p|g=f|t=K	3	mod	3	mod
+5	éloignent	éloigner	V	V	n=p|t=P,S|p=3	1	dep_coord	1	dep_coord
+6	le	le	DET	DET	n=s|g=m	8	det	8	det
+7	troisième	troisième	ADJ	ADJ	n=s	8	mod	8	mod
+8	étage	étage	NC	NC	n=s|g=m	5	obj	5	obj
+9	du	de	P+D	P+D	n=s|g=m	8	dep	8	dep
+10	2	2	NC	NC		9	prep	9	prep
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+</p><h3>
+1	Fonctionnement	fonctionnement	NC	NC	n=s|g=m	0	_	0	_
+2	du	de	P+D	P+D	n=s|g=m	1	dep	1	dep
+3	3	3	ADJ	ADJ		4	mod	4	mod
+4	étage	étage	NC	NC	n=s|g=m	2	prep	2	prep
+
+</h3><p>
+1	Le	le	DET	DET	n=s|g=m	3	det	3	det
+2	troisième	troisième	ADJ	ADJ	n=s	3	mod	3	mod
+3	étage	étage	NC	NC	n=s|g=m	4	suj	4	suj
+4	fonctionne	fonctionner	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+5	pendant	pendant	P	P		4	mod	4	mod
+6	les	les	DET	DET	n=p	7	det	7	det
+7	2,5	2,5	NC	NC		5	prep	5	prep
+8	minutes	minute	NC	NC	n=p|g=f	7	mod	7	mod
+9	suivantes	suivant	ADJ	ADJ	n=p|g=f	8	mod	8	mod
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+</p><p>
+1	À	à	P	P		11	mod	11	mod
+2	la	la	DET	DET	n=s|g=f	3	det	3	det
+3	séparation	séparation	NC	NC	n=s|g=f	1	prep	1	prep
+4	du	de	P+D	P+D	n=s|g=m	3	dep	3	dep
+5	deuxième	deuxième	ADJ	ADJ	n=s	6	mod	6	mod
+6	étage	étage	NC	NC	n=s|g=m	4	prep	4	prep
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	il	il	CLS	CLS	n=s|g=m|p=3	11	suj	11	suj
+9	n’	ne	ADV	ADV		11	mod	11	mod
+10	y	y	CLO	CLO		11	aff	11	aff
+11	a	avoir	V	V	n=s|t=P|p=3	0	root	0	root
+12	pas	pas	ADV	ADV		11	mod	11	mod
+13	d’	de	P	P		11	mod	11	mod
+14	opération	opération	NC	NC	n=s|g=f	13	prep	13	prep
+15	spécifique	spécifique	ADJ	ADJ	n=s	14	mod	14	mod
+16	de	de	P	P		11	mod	11	mod
+17	séparation	séparation	NC	NC	n=s|g=f	16	prep	16	prep
+18	pour	pour	P	P		11	mod	11	mod
+19	l'	le	DET	DET	n=s	20	det	20	det
+20	interétage	_	NC	NC		18	prep	18	prep
+21	.	.	PONCT	PONCT		20	ponct	20	ponct
+
+1	L’	le	DET	DET	n=s	2	det	2	det
+2	inter	inter	NC	NC	n=s|g=m	3	suj	3	suj
+3	étage	étager	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	entre	entre	P	P		3	mod	3	mod
+5	les	les	DET	DET	n=p	9	det	9	det
+6	deuxième	deuxième	ADJ	ADJ	n=s	9	mod	9	mod
+7	et	et	CC	CC		6	coord	6	coord
+8	troisième	troisième	ADJ	ADJ	n=s	7	dep_coord	7	dep_coord
+9	étages	étage	NC	NC	n=p|g=m	4	prep	4	prep
+10	reste	rester	V	V	n=s|t=P,S|p=1,3	3	mod	3	mod
+11	attaché	attacher	VPP	VPP	n=s|g=m|t=K	10	ats	10	ats
+12	au	à	P+D	P+D	n=s|g=m	11	mod	11	mod
+13	2	2	ADJ	ADJ		14	mod	14	mod
+14	étage	étage	NC	NC	n=s|g=m	12	prep	12	prep
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	10	10	ADJ	ADJ		14	mod	14	mod
+17	minutes	minute	NC	NC	n=p|g=f	14	mod	14	mod
+18	après	après	P	P		11	mod	11	mod
+19	le	le	DET	DET	n=s|g=m	20	det	20	det
+20	décollage	décollage	NC	NC	n=s|g=m	18	prep	18	prep
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	Saturn	Saturn	NPP	NPP	n=s|g=m	24	suj	24	suj
+23	V	_	NPP	NPP		22	mod	22	mod
+24	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+25	à	à	P	P		24	mod	24	mod
+26	environ	environ	ADV	ADV		27	mod	27	mod
+27	160	160	ADJ	ADJ		28	mod	28	mod
+28	km	kilomètre	NC	NC	g=m	25	prep	25	prep
+29	d’	de	P	P		24	mod	24	mod
+30	altitude	altitude	NC	NC	n=s|g=f	29	prep	29	prep
+31	et	et	CC	CC		29	coord	29	coord
+32	à	à	P	P		31	dep_coord	31	dep_coord
+33	1_700	1_700	ADJ	ADJ		34	mod	34	mod
+34	km	kilomètre	NC	NC	g=m	32	prep	32	prep
+35	de	de	P	P		24	mod	24	mod
+36	distance	distance	NC	NC	n=s|g=f	35	prep	35	prep
+37	au	à	P+D	P+D	n=s|g=m	24	mod	24	mod
+38	sol	_	NC	NC		37	prep	37	prep
+39	du	de	P+D	P+D	n=s|g=m	24	mod	24	mod
+40	site	site	NC	NC	n=s|g=m	39	prep	39	prep
+41	de	de	P	P		24	mod	24	mod
+42	lancement	lancement	NC	NC	n=s|g=m	41	prep	41	prep
+43	.	.	PONCT	PONCT		42	ponct	42	ponct
+
+1	Quelques	quelques	DET	DET	n=p	2	det	2	det
+2	instants	instant	NC	NC	n=p|g=m	17	mod	17	mod
+3	plus	plus	ADV	ADV		4	mod	4	mod
+4	tard	tard	ADV	ADV		2	mod	2	mod
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	après	après	P	P		2	dep	2	dep
+7	des	des	DET	DET	n=p	8	det	8	det
+8	manœuvres	_	NC	NC		6	prep	6	prep
+9	de	de	P	P		2	dep	2	dep
+10	mise	mise	NC	NC	n=s|g=f	9	prep	9	prep
+11	en	en	P	P		2	dep	2	dep
+12	orbite	orbite	NC	NC	n=s|g=f	11	prep	11	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	le	le	DET	DET	n=s|g=m	16	det	16	det
+15	3	3	ADJ	ADJ		16	mod	16	mod
+16	étage	étage	NC	NC	n=s|g=m	17	suj	17	suj
+17	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+18	sur	sur	P	P		17	mod	17	mod
+19	une	une	DET	DET	n=s|g=f	20	det	20	det
+20	orbite	orbite	NC	NC	n=s|g=f	18	prep	18	prep
+21	terrestre	terrestre	ADJ	ADJ	n=s	20	mod	20	mod
+22	de	de	P	P		17	mod	17	mod
+23	180	180	NC	NC		22	prep	22	prep
+24	km	kilomètre	NC	NC	g=m	23	mod	23	mod
+25	sur	sur	P	P		17	mod	17	mod
+26	160	160	ADJ	ADJ		27	mod	27	mod
+27	km	kilomètre	NC	NC	g=m	25	prep	25	prep
+28	.	.	PONCT	PONCT		27	ponct	27	ponct
+
+1	C'	ce	CLS	CLS		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	très	très	ADV	ADV		2	mod	2	mod
+4	bas	bas	ADJ	ADJ	g=m	2	ats	2	ats
+5	pour	pour	P	P		2	mod	2	mod
+6	une	une	DET	DET	n=s|g=f	7	det	7	det
+7	orbite	orbite	NC	NC	n=s|g=f	5	prep	5	prep
+8	terrestre	terrestre	ADJ	ADJ	n=s	7	mod	7	mod
+9	et	et	CC	CC		2	coord	2	coord
+10	la	la	DET	DET	n=s|g=f	11	det	11	det
+11	trajectoire	trajectoire	NC	NC	n=s|g=f	13	suj	13	suj
+12	ne	ne	ADV	ADV		13	mod	13	mod
+13	peut	pouvoir	V	V	n=s|t=P|p=3	9	dep_coord	9	dep_coord
+14	pas	pas	ADV	ADV		13	mod	13	mod
+15	rester	rester	VINF	VINF	t=W	13	obj	13	obj
+16	stable	stable	ADJ	ADJ	n=s	15	mod	15	mod
+17	à	à	P	P		15	mod	15	mod
+18	cause	cause	NC	NC	n=s|g=f	17	prep	17	prep
+19	du	de	P+D	P+D	n=s|g=m	15	mod	15	mod
+20	frottement	frottement	NC	NC	n=s|g=m	19	prep	19	prep
+21	avec	avec	P	P		15	mod	15	mod
+22	les	les	DET	DET	n=p	24	det	24	det
+23	hautes	haut	ADJ	ADJ	n=p|g=f	24	mod	24	mod
+24	couches	couche	NC	NC	n=p|g=f	21	prep	21	prep
+25	de	de	P	P		15	mod	15	mod
+26	l’	le	DET	DET	n=s	27	det	27	det
+27	atmosphère	atmosphère	NC	NC	n=s|g=f	25	prep	25	prep
+28	.	.	PONCT	PONCT		27	ponct	27	ponct
+
+1	Pour	pour	P	P		19	mod	19	mod
+2	les	les	DET	DET	n=p	4	det	4	det
+3	2	2	ADJ	ADJ		4	mod	4	mod
+4	missions	mission	NC	NC	n=p|g=f	1	prep	1	prep
+5	qui	qui	PROREL	PROREL	n=s	7	suj	7	suj
+6	se	se	CLR	CLR	n=p,s|p=3	7	aff	7	aff
+7	déroulent	dérouler	V	V	n=p|t=P,S|p=3	4	mod_rel	4	mod_rel
+8	en	en	P	P		7	mod	7	mod
+9	orbite	orbite	NC	NC	n=s|g=f	8	prep	8	prep
+10	terrestre	terrestre	ADJ	ADJ	n=s	9	mod	9	mod
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	Apollo	Apollo	NPP	NPP	n=s|g=m	19	suj	19	suj
+13	9	9	ADJ	ADJ		12	mod	12	mod
+14	et	et	CC	CC		12	coord	12	coord
+15	Skylab	_	NPP	NPP		14	dep_coord	14	dep_coord
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	le	le	DET	DET	n=s|g=m	18	det	18	det
+18	lanceur	lanceur	NC	NC	n=s|g=m	12	mod	12	mod
+19	injecte	injecter	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+20	les	les	DET	DET	n=p	21	det	21	det
+21	vaisseaux	vaisseau	NC	NC	n=p|g=m	19	obj	19	obj
+22	sur	sur	P	P		19	mod	19	mod
+23	une	une	DET	DET	n=s|g=f	24	det	24	det
+24	orbite	orbite	NC	NC	n=s|g=f	22	prep	22	prep
+25	beaucoup	beaucoup	ADV	ADV		26	mod	26	mod
+26	plus	plus	ADV	ADV		27	mod	27	mod
+27	élevée	élever	ADJ	ADJ	n=s|g=f|t=K	24	mod	24	mod
+28	.	.	PONCT	PONCT		27	ponct	27	ponct
+
+1	Une	une	DET	DET	n=s|g=f	2	det	2	det
+2	fois	fois	NC	NC	g=f	20	suj	20	suj
+3	sur	sur	P	P		2	dep	2	dep
+4	cette	cette	DET	DET	n=s|g=f	5	det	5	det
+5	orbite	orbite	NC	NC	n=s|g=f	3	prep	3	prep
+6	de	de	P	P		5	dep	5	dep
+7	parking	parking	NC	NC	n=s|g=m	6	prep	6	prep
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	le	le	DET	DET	n=s|g=m	11	det	11	det
+10	3	3	ADJ	ADJ		11	mod	11	mod
+11	étage	étage	NC	NC	n=s|g=m	20	suj	20	suj
+12	et	et	CC	CC		11	coord	11	coord
+13	le	le	DET	DET	n=s|g=m	14	det	14	det
+14	vaisseau	vaisseau	NC	NC	n=s|g=m	12	dep_coord	12	dep_coord
+15	spatial	spatial	ADJ	ADJ	n=s|g=m	14	mod	14	mod
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	restés	rester	VPP	VPP	n=p|g=m|t=K	11	mod	11	mod
+18	attachés	attacher	VPP	VPP	n=p|g=m|t=K	11	mod	11	mod
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	font	faire	V	V	n=p|t=P|p=3	0	root	0	root
+21	2	2	ADJ	ADJ		22	mod	22	mod
+22	orbites	orbite	NC	NC	n=p|g=f	20	obj	20	obj
+23	et	et	CC	CC		20	coord	20	coord
+24	demie	demie	NC	NC	n=s|g=f	23	dep_coord	23	dep_coord
+25	autour	autour	NC	NC	n=s|g=m	24	mod	24	mod
+26	de	de	P	P		20	mod	20	mod
+27	la	la	DET	DET	n=s|g=f	28	det	28	det
+28	Terre	_	NPP	NPP		26	prep	26	prep
+29	.	.	PONCT	PONCT		28	ponct	28	ponct
+
+1	Durant	durant	P	P		6	mod	6	mod
+2	cette	cette	DET	DET	n=s|g=f	3	det	3	det
+3	période	période	NC	NC	n=s	1	prep	1	prep
+4	les	les	DET	DET	n=p	5	det	5	det
+5	astronautes	astronaute	NC	NC	n=p	6	suj	6	suj
+6	effectuent	effectuer	V	V	n=p|t=P,S|p=3	0	root	0	root
+7	des	des	DET	DET	n=p	8	det	8	det
+8	contrôles	contrôle	NC	NC	n=p|g=m	6	obj	6	obj
+9	des	de	P+D	P+D	n=p	6	mod	6	mod
+10	équipements	équipement	NC	NC	n=p|g=m	9	prep	9	prep
+11	du	de	P+D	P+D	n=s|g=m	6	mod	6	mod
+12	vaisseau	vaisseau	NC	NC	n=s|g=m	11	prep	11	prep
+13	et	et	CC	CC		11	coord	11	coord
+14	du	de	P+D	P+D	n=s|g=m	13	dep_coord	13	dep_coord
+15	3	3	ADJ	ADJ		16	mod	16	mod
+16	étage	étage	NC	NC	n=s|g=m	14	prep	14	prep
+17	pour	pour	P	P		6	mod	6	mod
+18	s’	se	CLR	CLR	n=p,s|p=3	19	aff	19	aff
+19	assurer	assurer	VINF	VINF	t=W	17	prep	17	prep
+20	que	que	CS	CS		6	mod	6	mod
+21	tout	tout	PRO	PRO	n=s|g=m	22	suj	22	suj
+22	est	être	V	V	n=s|t=P|p=3	20	sub	20	sub
+23	en	en	P	P		22	mod	22	mod
+24	parfait	parfait	ADJ	ADJ	n=s|g=m	25	mod	25	mod
+25	état	état	NC	NC	n=s|g=m	23	prep	23	prep
+26	de	de	P	P		22	mod	22	mod
+27	marche	marche	NC	NC	n=s|g=f	26	prep	26	prep
+28	et	et	CC	CC		22	coord	22	coord
+29	préparer	préparer	VINF	VINF	t=W	28	dep_coord	28	dep_coord
+30	le	le	DET	DET	n=s|g=m	31	det	31	det
+31	vaisseau	vaisseau	NC	NC	n=s|g=m	29	obj	29	obj
+32	pour	pour	P	P		29	mod	29	mod
+33	la	la	DET	DET	n=s|g=f	34	det	34	det
+34	manœuvre	_	NC	NC		32	prep	32	prep
+35	d’	de	P	P		29	mod	29	mod
+36	injection	injection	NC	NC	n=s|g=f	35	prep	35	prep
+37	"	"	PONCT	PONCT		36	ponct	36	ponct
+38	translunaire	_	NC	NC		29	mod	29	mod
+39	"	"	PONCT	PONCT		38	ponct	38	ponct
+40	(	(	PONCT	PONCT		38	ponct	38	ponct
+41	TLI	_	NPP	NPP		22	mod	22	mod
+42	)	)	PONCT	PONCT		41	ponct	41	ponct
+43	.	.	PONCT	PONCT		41	ponct	41	ponct
+
+</p><p>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	manœuvre	_	NC	NC		4	suj	4	suj
+3	TLI	_	NPP	NPP		2	mod	2	mod
+4	intervient	intervenir	V	V	n=s|t=P|p=3	0	root	0	root
+5	environ	environ	ADV	ADV		4	mod	4	mod
+6	2	2	ADJ	ADJ		7	mod	7	mod
+7	heures	heure	NC	NC	n=p|g=f	4	obj	4	obj
+8	et	et	CC	CC		7	coord	7	coord
+9	demie	demie	NC	NC	n=s|g=f	8	dep_coord	8	dep_coord
+10	après	après	P	P		7	dep	7	dep
+11	le	le	DET	DET	n=s|g=m	12	det	12	det
+12	lancement	lancement	NC	NC	n=s|g=m	10	prep	10	prep
+13	:	:	PONCT	PONCT		12	ponct	12	ponct
+14	le	le	DET	DET	n=s|g=m	15	det	15	det
+15	moteur	moteur	NC	NC	n=s|g=m	4	mod	4	mod
+16	du	de	P+D	P+D	n=s|g=m	15	dep	15	dep
+17	troisième	troisième	ADJ	ADJ	n=s	18	mod	18	mod
+18	étage	étage	NC	NC	n=s|g=m	16	prep	16	prep
+19	est	être	V	V	n=s|t=P|p=3	20	aux_tps	20	aux_tps
+20	rallumé	rallumer	VPP	VPP	n=s|g=m|t=K	15	mod	15	mod
+21	pour	pour	P	P		20	mod	20	mod
+22	propulser	propulser	VINF	VINF	t=W	21	prep	21	prep
+23	le	le	DET	DET	n=s|g=m	24	det	24	det
+24	vaisseau	vaisseau	NC	NC	n=s|g=m	22	obj	22	obj
+25	spatial	spatial	ADJ	ADJ	n=s|g=m	24	mod	24	mod
+26	vers	vers	P	P		22	mod	22	mod
+27	la	la	DET	DET	n=s|g=f	28	det	28	det
+28	Lune	_	NPP	NPP		26	prep	26	prep
+29	.	.	PONCT	PONCT		28	ponct	28	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	propulsion	propulsion	NC	NC	n=s|g=f	0	_	0	_
+3	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+4	S-IVB	_	NPP	NPP		3	prep	3	prep
+5	durant	durant	P	P		2	dep	2	dep
+6	6	6	NC	NC		5	prep	5	prep
+7	minutes	minute	NC	NC	n=p|g=f	6	mod	6	mod
+8	ce	ce	PRO	PRO	n=s	0	_	0	_
+9	qui	qui	PROREL	PROREL	n=s	10	suj	10	suj
+10	porte	porter	V	V	n=s|t=P,S|p=1,3	8	mod_rel	8	mod_rel
+11	la	la	DET	DET	n=s|g=f	12	det	12	det
+12	vitesse	vitesse	NC	NC	n=s|g=f	10	obj	10	obj
+13	des	de	P+D	P+D	n=p	12	dep	12	dep
+14	vaisseaux	vaisseau	NC	NC	n=p|g=m	13	prep	13	prep
+15	à	à	P	P		10	mod	10	mod
+16	plus	plus	ADV	ADV		24	mod	24	mod
+17	de	de	P	P		24	mod	24	mod
+18	10	10	ADJ	ADJ		19	mod	19	mod
+19	km	kilomètre	NC	NC	g=m	17	prep	17	prep
+20	/	/	PONCT	PONCT		19	ponct	19	ponct
+21	s	_	NPP	NPP		19	mod	19	mod
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+23	ceux-ci	ceux-ci	PRO	PRO	n=p|g=m	24	suj	24	suj
+24	peuvent	pouvoir	V	V	n=p|t=P|p=3	10	mod	10	mod
+25	ainsi	ainsi	ADV	ADV		24	mod	24	mod
+26	s’	se	CLR	CLR	n=p,s|p=3	27	aff	27	aff
+27	échapper	échapper	VINF	VINF	t=W	24	obj	24	obj
+28	de	de	P	P		27	mod	27	mod
+29	l’	le	DET	DET	n=s	30	det	30	det
+30	attraction	attraction	NC	NC	n=s|g=f	28	prep	28	prep
+31	de	de	P	P		27	mod	27	mod
+32	la	la	DET	DET	n=s|g=f	33	det	33	det
+33	Terre	_	NPP	NPP		31	prep	31	prep
+34	pour	pour	P	P		27	mod	27	mod
+35	se	se	CLR	CLR	n=p,s|p=3	36	aff	36	aff
+36	diriger	diriger	VINF	VINF	t=W	34	prep	34	prep
+37	vers	vers	P	P		36	mod	36	mod
+38	la	la	DET	DET	n=s|g=f	39	det	39	det
+39	Lune	_	NPP	NPP		37	prep	37	prep
+40	.	.	PONCT	PONCT		39	ponct	39	ponct
+
+1	Quelques	quelques	DET	DET	n=p	2	det	2	det
+2	heures	heure	NC	NC	n=p|g=f	20	mod	20	mod
+3	après	après	P	P		2	dep	2	dep
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	manœuvre	_	NC	NC		3	prep	3	prep
+6	TLI	_	NPP	NPP		5	mod	5	mod
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	le	le	DET	DET	n=s|g=m	9	det	9	det
+9	module	module	NC	NC	n=s|g=m	20	suj	20	suj
+10	de	de	P	P		9	dep	9	dep
+11	commande	commande	NC	NC	n=s|g=f	10	prep	10	prep
+12	et	et	CC	CC		9	coord	9	coord
+13	de	de	P	P		12	dep_coord	12	dep_coord
+14	service	service	NC	NC	n=s|g=m	13	prep	13	prep
+15	Apollo	Apollo	NPP	NPP	n=s|g=m	14	mod	14	mod
+16	(	(	PONCT	PONCT		15	ponct	15	ponct
+17	CSM	CSM	NPP	NPP	n=s|g=m	14	mod	14	mod
+18	)	)	PONCT	PONCT		17	ponct	17	ponct
+19	se	se	CLR	CLR	n=p,s|p=3	20	aff	20	aff
+20	sépare	séparer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+21	du	de	P+D	P+D	n=s|g=m	20	mod	20	mod
+22	troisième	troisième	ADJ	ADJ	n=s	23	mod	23	mod
+23	étage	étage	NC	NC	n=s|g=m	21	prep	21	prep
+24	,	,	PONCT	PONCT		23	ponct	23	ponct
+25	pivote	pivoter	V	V	n=s|t=P,S|p=1,3	20	mod	20	mod
+26	de	de	P	P		25	mod	25	mod
+27	180	180	NC	NC		26	prep	26	prep
+28	degrés	degré	NC	NC	n=p|g=m	27	mod	27	mod
+29	,	,	PONCT	PONCT		28	ponct	28	ponct
+30	puis	puis	CC	CC		25	coord	25	coord
+31	s’	se	CLR	CLR	n=p,s|p=3	32	aff	32	aff
+32	arrime	arrimer	V	V	n=s|t=P,S|p=1,3	30	dep_coord	30	dep_coord
+33	au	à	P+D	P+D	n=s|g=m	32	mod	32	mod
+34	module	module	NC	NC	n=s|g=m	33	prep	33	prep
+35	lunaire	lunaire	NC	NC	n=s|g=f	34	mod	34	mod
+36	(	(	PONCT	PONCT		35	ponct	35	ponct
+37	LEM	_	NPP	NPP		34	mod	34	mod
+38	)	)	PONCT	PONCT		37	ponct	37	ponct
+39	qui	qui	PROREL	PROREL	n=s	41	suj	41	suj
+40	était	être	V	V	n=s|t=I|p=3	41	aux_tps	41	aux_tps
+41	situé	situer	VPP	VPP	n=s|g=m|t=K	34	mod_rel	34	mod_rel
+42	sous	sous	P	P		41	mod	41	mod
+43	le	le	DET	DET	n=s|g=m	44	det	44	det
+44	CSM	CSM	NPP	NPP	n=s|g=m	42	prep	42	prep
+45	pendant	pendant	P	P		41	mod	41	mod
+46	la	la	DET	DET	n=s|g=f	47	det	47	det
+47	phase	phase	NC	NC	n=s|g=f	45	prep	45	prep
+48	de	de	P	P		41	mod	41	mod
+49	lancement	lancement	NC	NC	n=s|g=m	48	prep	48	prep
+50	.	.	PONCT	PONCT		49	ponct	49	ponct
+
+1	Enfin	enfin	ADV	ADV		13	mod	13	mod
+2	le	le	DET	DET	n=s|g=m	4	det	4	det
+3	nouvel	_	ADJ	ADJ		4	mod	4	mod
+4	ensemble	ensemble	NC	NC	n=s|g=m	13	suj	13	suj
+5	formé	former	VPP	VPP	n=s|g=m|t=K	4	mod	4	mod
+6	par	par	P	P		5	mod	5	mod
+7	le	le	DET	DET	n=s|g=m	8	det	8	det
+8	CSM	CSM	NPP	NPP	n=s|g=m	6	prep	6	prep
+9	et	et	CC	CC		4	coord	4	coord
+10	le	le	DET	DET	n=s|g=m	11	det	11	det
+11	LEM	_	NPP	NPP		9	dep_coord	9	dep_coord
+12	se	se	CLR	CLR	n=p,s|p=3	13	aff	13	aff
+13	détache	détacher	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+14	du	de	P+D	P+D	n=s|g=m	13	mod	13	mod
+15	troisième	troisième	ADJ	ADJ	n=s	16	mod	16	mod
+16	étage	étage	NC	NC	n=s|g=m	14	prep	14	prep
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+</p><h2>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	missions	mission	NC	NC	n=p|g=f	0	_	0	_
+3	de	de	P	P		2	dep	2	dep
+4	Saturn	Saturn	NPP	NPP	n=s|g=m	3	prep	3	prep
+5	V	_	NPP	NPP		4	mod	4	mod
+
+</h2><h3>
+1	Missions	mission	NC	NC	n=p|g=f	0	_	0	_
+2	sans	sans	P	P		1	dep	1	dep
+3	équipage	équipage	NC	NC	n=s|g=m	2	prep	2	prep
+
+</h3><p>
+1	Apollo	Apollo	NPP	NPP	n=s|g=m	0	root	0	root
+2	4	4	NC	NC		1	mod	1	mod
+3	(	(	PONCT	PONCT		2	ponct	2	ponct
+4	9	9	ADJ	ADJ		5	mod	5	mod
+5	novembre	novembre	NC	NC	n=s|g=m	1	mod	1	mod
+6	1967	1967	NC	NC		1	mod	1	mod
+7	)	)	PONCT	PONCT		6	ponct	6	ponct
+8	,	,	PONCT	PONCT		6	ponct	6	ponct
+9	mission	mission	NC	NC	n=s|g=f	1	mod	1	mod
+10	non	non	ADV	ADV		11	mod	11	mod
+11	habitée	habiter	VPP	VPP	n=s|g=f|t=K	1	mod	1	mod
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	premier	premier	ADJ	ADJ	n=s|g=m	14	mod	14	mod
+14	essai	essai	NC	NC	n=s|g=m	11	mod	11	mod
+15	de	de	P	P		11	mod	11	mod
+16	la	la	DET	DET	n=s|g=f	17	det	17	det
+17	fusée	fusée	NC	NC	n=s|g=f	15	prep	15	prep
+18	Saturn	Saturn	NPP	NPP	n=s|g=m	17	mod	17	mod
+19	V	_	NPP	NPP		17	mod	17	mod
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	mission	mission	NC	NC	n=s|g=f	5	suj	5	suj
+3	Apollo	Apollo	NPP	NPP	n=s|g=m	2	mod	2	mod
+4	4	4	NC	NC		2	mod	2	mod
+5	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+6	le	le	DET	DET	n=s|g=m	8	det	8	det
+7	premier	premier	ADJ	ADJ	n=s|g=m	8	mod	8	mod
+8	vol	vol	NC	NC	n=s|g=m	5	obj	5	obj
+9	de	de	P	P		5	mod	5	mod
+10	la	la	DET	DET	n=s|g=f	11	det	11	det
+11	fusée	fusée	NC	NC	n=s|g=f	9	prep	9	prep
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+1	Afin	_	NPP	NPP		0	root	0	root
+2	de	de	P	P		18	mod	18	mod
+3	recueillir	recueillir	VINF	VINF	t=W	2	prep	2	prep
+4	un	un	DET	DET	n=s|g=m	5	det	5	det
+5	maximum	maximum	NC	NC	n=s|g=m	3	obj	3	obj
+6	d'	de	P	P		3	mod	3	mod
+7	informations	information	NC	NC	n=p|g=f	6	prep	6	prep
+8	sur	sur	P	P		3	mod	3	mod
+9	le	le	DET	DET	n=s|g=m	10	det	10	det
+10	comportement	comportement	NC	NC	n=s|g=m	8	prep	8	prep
+11	de	de	P	P		3	mod	3	mod
+12	la	la	DET	DET	n=s|g=f	13	det	13	det
+13	fusée	fusée	NC	NC	n=s|g=f	11	prep	11	prep
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	4100	4100	ADJ	ADJ		13	mod	13	mod
+16	capteurs	capteur	NC	NC	n=p|g=m	13	mod	13	mod
+17	sont	être	V	V	n=p|t=P|p=3	18	aux_pass	18	aux_pass
+18	installés	installer	VPP	VPP	n=p|g=m|t=K	0	root	0	root
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	Le	le	DET	DET	n=s|g=m	3	det	3	det
+2	premier	premier	ADJ	ADJ	n=s|g=m	3	mod	3	mod
+3	lancement	lancement	NC	NC	n=s|g=m	7	suj	7	suj
+4	de	de	P	P		3	dep	3	dep
+5	Saturn	Saturn	NPP	NPP	n=s|g=m	4	prep	4	prep
+6	V	_	NPP	NPP		5	mod	5	mod
+7	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+8	un	un	DET	DET	n=s|g=m	9	det	9	det
+9	succès	succès	NC	NC	g=m	7	obj	7	obj
+10	complet	complet	ADJ	ADJ	n=s|g=m	9	mod	9	mod
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+</p><p>
+1	Apollo	Apollo	NPP	NPP	n=s|g=m	8	suj	8	suj
+2	6	6	ET	ET		1	dep	1	dep
+3	(	(	PONCT	PONCT		2	ponct	2	ponct
+4	4	4	ADJ	ADJ		5	mod	5	mod
+5	avril	avril	NC	NC	n=s|g=m	1	mod	1	mod
+6	1968	1968	NC	NC		5	mod	5	mod
+7	)	)	PONCT	PONCT		6	ponct	6	ponct
+8	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+9	une	une	DET	DET	n=s|g=f	10	det	10	det
+10	répétition	répétition	NC	NC	n=s|g=f	8	obj	8	obj
+11	plus	plus	ADV	ADV		12	mod	12	mod
+12	complète	complet	ADJ	ADJ	n=s|g=f	10	mod	10	mod
+13	d'	de	P	P		8	mod	8	mod
+14	Apollo	Apollo	NPP	NPP	n=s|g=m	13	prep	13	prep
+15	4	4	NC	NC		14	mod	14	mod
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	test	test	NC	NC	n=s|g=m	3	suj	3	suj
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	peu	peu	ADV	ADV		3	mod	3	mod
+5	concluant	conclure	VPR	VPR	t=G	3	mod	3	mod
+6	:	:	PONCT	PONCT		5	ponct	5	ponct
+7	deux	deux	PRO	PRO	s=card|n=p	5	obj	5	obj
+8	des	de	P+D	P+D	n=p	5	mod	5	mod
+9	moteurs	moteur	NC	NC	n=p|g=m	8	prep	8	prep
+10	J-2	_	NC	NC		5	obj	5	obj
+11	du	de	P+D	P+D	n=s|g=m	5	mod	5	mod
+12	2	2	ADJ	ADJ		13	mod	13	mod
+13	étage	étage	NC	NC	n=s|g=m	11	prep	11	prep
+14	cessent	cesser	V	V	n=p|t=P,S|p=3	3	mod	3	mod
+15	prématurément	_	ADV	ADV		14	mod	14	mod
+16	de	de	P	P		14	mod	14	mod
+17	fonctionner	fonctionner	VINF	VINF	t=W	16	prep	16	prep
+18	ce	ce	PRO	PRO	n=s	17	obj	17	obj
+19	qui	qui	PROREL	PROREL	n=s	20	suj	20	suj
+20	peut	pouvoir	V	V	n=s|t=P|p=3	18	mod_rel	18	mod_rel
+21	être	être	VINF	VINF	t=W	20	obj	20	obj
+22	compensé	compenser	VPP	VPP	n=s|g=m|t=K	21	dep	21	dep
+23	que	que	CS	CS		20	mod	20	mod
+24	par	par	P	P		0	_	0	_
+25	une	une	DET	DET	n=s|g=f	26	det	26	det
+26	durée	durée	NC	NC	n=s|g=f	24	prep	24	prep
+27	de	de	P	P		26	dep	26	dep
+28	fonctionnement	fonctionnement	NC	NC	n=s|g=m	27	prep	27	prep
+29	prolongée	prolonger	VPP	VPP	n=s|g=f|t=K	26	mod	26	mod
+30	des	de	P+D	P+D	n=p	29	mod	29	mod
+31	autres	autre	ADJ	ADJ	n=p	32	mod	32	mod
+32	moteurs	moteur	NC	NC	n=p|g=m	30	prep	30	prep
+33	de	de	P	P		29	mod	29	mod
+34	l'	le	DET	DET	n=s	35	det	35	det
+35	étage	étage	NC	NC	n=s|g=m	33	prep	33	prep
+36	.	.	PONCT	PONCT		35	ponct	35	ponct
+
+1	Alors	alors	ADV	ADV		2	mod	2	mod
+2	que	que	CS	CS		0	root	0	root
+3	la	la	DET	DET	n=s|g=f	4	det	4	det
+4	fusée	fusée	NC	NC	n=s|g=f	5	suj	5	suj
+5	est	être	V	V	n=s|t=P|p=3	2	sub	2	sub
+6	sur	sur	P	P		5	mod	5	mod
+7	son	son	DET	DET	n=s|g=m|p=3|poss=s	8	det	8	det
+8	orbite	orbite	NC	NC	n=s|g=f	6	prep	6	prep
+9	de	de	P	P		5	mod	5	mod
+10	"	"	PONCT	PONCT		9	ponct	9	ponct
+11	parking	parking	NC	NC	n=s|g=m	9	prep	9	prep
+12	"	"	PONCT	PONCT		11	ponct	11	ponct
+13	,	,	PONCT	PONCT		11	ponct	11	ponct
+14	l'	le	DET	DET	n=s	16	det	16	det
+15	unique	unique	ADJ	ADJ	n=s	16	mod	16	mod
+16	moteur	moteur	NC	NC	n=s|g=m	5	mod	5	mod
+17	J-2	_	NC	NC		16	mod	16	mod
+18	du	de	P+D	P+D	n=s|g=m	5	mod	5	mod
+19	3	3	ADJ	ADJ		20	mod	20	mod
+20	étage	étage	NC	NC	n=s|g=m	18	prep	18	prep
+21	refuse	refuser	V	V	n=s|t=P,S|p=1,3	5	mod	5	mod
+22	de	de	P	P		21	obj	21	obj
+23	se	se	CLR	CLR	n=p,s|p=3	24	aff	24	aff
+24	rallumer	rallumer	VINF	VINF	t=W	22	prep	22	prep
+25	pour	pour	P	P		24	mod	24	mod
+26	simuler	simuler	VINF	VINF	t=W	25	prep	25	prep
+27	l'	le	DET	DET	n=s	28	det	28	det
+28	injection	injection	NC	NC	n=s|g=f	26	obj	26	obj
+29	sur	sur	P	P		26	mod	26	mod
+30	une	une	DET	DET	n=s|g=f	31	det	31	det
+31	trajectoire	trajectoire	NC	NC	n=s|g=f	29	prep	29	prep
+32	lunaire	lunaire	NC	NC	n=s|g=f	31	mod	31	mod
+33	,	,	PONCT	PONCT		32	ponct	32	ponct
+34	en	en	P	P		21	mod	21	mod
+35	sollicitant	solliciter	VPR	VPR	t=G	34	prep	34	prep
+36	le	le	DET	DET	n=s|g=m	37	det	37	det
+37	moteur	moteur	NC	NC	n=s|g=m	35	obj	35	obj
+38	du	de	P+D	P+D	n=s|g=m	37	dep	37	dep
+39	vaisseau	vaisseau	NC	NC	n=s|g=m	38	prep	38	prep
+40	Apollo	Apollo	NPP	NPP	n=s|g=m	39	mod	39	mod
+41	.	.	PONCT	PONCT		40	ponct	40	ponct
+
+</p><h3>
+1	Missions	mission	NC	NC	n=p|g=f	0	_	0	_
+2	avec	avec	P	P		1	dep	1	dep
+3	un	un	DET	DET	n=s|g=m	4	det	4	det
+4	équipage	équipage	NC	NC	n=s|g=m	2	prep	2	prep
+
+</h3><p>
+1	Apollo	Apollo	NPP	NPP	n=s|g=m	0	root	0	root
+2	8	8	NC	NC		1	mod	1	mod
+3	(	(	PONCT	PONCT		2	ponct	2	ponct
+4	21	21	ADJ	ADJ		5	mod	5	mod
+5	décembre	décembre	NC	NC	n=s|g=m	1	mod	1	mod
+6	1968	1968	NC	NC		5	mod	5	mod
+7	-	-	PONCT	PONCT		6	ponct	6	ponct
+8	27	27	ADJ	ADJ		9	mod	9	mod
+9	décembre	décembre	NC	NC	n=s|g=m	1	mod	1	mod
+10	1968	1968	NC	NC		1	mod	1	mod
+11	)	)	PONCT	PONCT		10	ponct	10	ponct
+12	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	mission	mission	NC	NC	n=s|g=f	5	suj	5	suj
+3	Apollo	Apollo	NPP	NPP	n=s|g=m	2	mod	2	mod
+4	8	8	ADJ	ADJ		2	mod	2	mod
+5	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+6	le	le	DET	DET	n=s|g=m	8	det	8	det
+7	premier	premier	ADJ	ADJ	n=s|g=m	8	mod	8	mod
+8	vol	vol	NC	NC	n=s|g=m	5	obj	5	obj
+9	habité	habiter	VPP	VPP	n=s|g=m|t=K	8	mod	8	mod
+10	à	à	P	P		9	mod	9	mod
+11	quitter	quitter	VINF	VINF	t=W	10	prep	10	prep
+12	l’	le	DET	DET	n=s	13	det	13	det
+13	orbite	orbite	NC	NC	n=s|g=f	11	obj	11	obj
+14	terrestre	terrestre	ADJ	ADJ	n=s	13	mod	13	mod
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+1	À	à	P	P		11	mod	11	mod
+2	ce	ce	DET	DET	n=s|g=m	3	det	3	det
+3	stade	stade	NC	NC	n=s|g=m	1	prep	1	prep
+4	d'	de	P	P		3	dep	3	dep
+5	avancement	avancement	NC	NC	n=s|g=m	4	prep	4	prep
+6	du	de	P+D	P+D	n=s|g=m	3	dep	3	dep
+7	programme	programme	NC	NC	n=s|g=m	6	prep	6	prep
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	il	il	CLS	CLS	n=s|g=m|p=3	11	suj	11	suj
+10	s'	se	CLR	CLR	n=p,s|p=3	11	aff	11	aff
+11	agit	agir	V	V	n=s|t=J,P|p=3	0	root	0	root
+12	d'	de	P	P		11	de_obj	11	de_obj
+13	une	une	DET	DET	n=s|g=f	14	det	14	det
+14	mission	mission	NC	NC	n=s|g=f	12	prep	12	prep
+15	risquée	risquer	ADJ	ADJ	n=s|g=f|t=K	14	mod	14	mod
+16	car	car	CS	CS		11	mod	11	mod
+17	une	une	DET	DET	n=s|g=f	18	det	18	det
+18	défaillance	défaillance	NC	NC	n=s|g=f	43	suj	43	suj
+19	du	de	P+D	P+D	n=s|g=m	18	dep	18	dep
+20	moteur	moteur	NC	NC	n=s|g=m	19	prep	19	prep
+21	du	de	P+D	P+D	n=s|g=m	20	dep	20	dep
+22	vaisseau	vaisseau	NC	NC	n=s|g=m	21	prep	21	prep
+23	Apollo	Apollo	NPP	NPP	n=s|g=m	22	mod	22	mod
+24	au	à	P+D	P+D	n=s|g=m	18	dep	18	dep
+25	moment	moment	NC	NC	n=s|g=m	24	prep	24	prep
+26	de	de	P	P		25	dep	25	dep
+27	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	28	det	28	det
+28	mise	mise	NC	NC	n=s|g=f	26	prep	26	prep
+29	en	en	P	P		28	dep	28	dep
+30	orbite	orbite	NC	NC	n=s|g=f	29	prep	29	prep
+31	lunaire	lunaire	NC	NC	n=s|g=f	30	mod	30	mod
+32	ou	ou	CC	CC		18	coord	18	coord
+33	de	de	P	P		32	dep_coord	32	dep_coord
+34	son	son	DET	DET	n=s|g=m|p=3|poss=s	35	det	35	det
+35	retour	retour	NC	NC	n=s|g=m	33	prep	33	prep
+36	sur	sur	P	P		35	dep	35	dep
+37	la	la	DET	DET	n=s|g=f	38	det	38	det
+38	trajectoire	trajectoire	NC	NC	n=s|g=f	36	prep	36	prep
+39	de	de	P	P		38	dep	38	dep
+40	la	la	DET	DET	n=s|g=f	41	det	41	det
+41	Terre	_	NPP	NPP		39	prep	39	prep
+42	aurait	avoir	V	V	n=s|t=C|p=3	43	aux_tps	43	aux_tps
+43	pu	pouvoir	VPP	VPP	t=K	16	sub	16	sub
+44	être	être	VINF	VINF	t=W	43	obj	43	obj
+45	mortel	mortel	NC	NC	n=s|g=m	44	obj	44	obj
+46	à	à	P	P		44	mod	44	mod
+47	l'	le	DET	DET	n=s	48	det	48	det
+48	équipage	équipage	NC	NC	n=s|g=m	46	prep	46	prep
+49	d'	de	P	P		43	mod	43	mod
+50	autant	autant	ADV	ADV		49	mod	49	mod
+51	que	que	CS	CS		43	mod	43	mod
+52	le	le	DET	DET	n=s|g=m	53	det	53	det
+53	module	module	NC	NC	n=s|g=m	57	suj	57	suj
+54	lunaire	lunaire	NC	NC	n=s|g=f	53	mod	53	mod
+55	a	avoir	V	V	n=s|t=P|p=3	57	aux_tps	57	aux_tps
+56	été	être	VPP	VPP	t=K	57	aux_pass	57	aux_pass
+57	remplacé	remplacer	VPP	VPP	n=s|g=m|t=K	51	sub	51	sub
+58	par	par	P	P		57	mod	57	mod
+59	une	une	DET	DET	n=s|g=f	60	det	60	det
+60	maquette	maquette	NC	NC	n=s|g=f	58	prep	58	prep
+61	.	.	PONCT	PONCT		60	ponct	60	ponct
+
+</p><p>
+1	Apollo	Apollo	NPP	NPP	n=s|g=m	0	_	0	_
+2	9	9	ET	ET		1	dep	1	dep
+3	(	(	PONCT	PONCT		2	ponct	2	ponct
+4	3	3	ADJ	ADJ		5	mod	5	mod
+5	mars	mars	NC	NC	g=m	1	mod	1	mod
+6	1969	1969	NC	NC		1	mod	1	mod
+7	-	-	PONCT	PONCT		6	ponct	6	ponct
+8	13	13	ADJ	ADJ		9	mod	9	mod
+9	mars	mars	NC	NC	g=m	1	mod	1	mod
+10	1969	1969	NC	NC		1	mod	1	mod
+11	)	)	PONCT	PONCT		10	ponct	10	ponct
+12	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+1	Apollo	Apollo	NPP	NPP	n=s|g=m	3	suj	3	suj
+2	9	9	ADJ	ADJ		1	mod	1	mod
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	le	le	DET	DET	n=s|g=m	6	det	6	det
+5	premier	premier	ADJ	ADJ	n=s|g=m	6	mod	6	mod
+6	essai	essai	NC	NC	n=s|g=m	3	obj	3	obj
+7	en	en	P	P		3	mod	3	mod
+8	vol	vol	NC	NC	n=s|g=m	7	prep	7	prep
+9	avec	avec	P	P		3	mod	3	mod
+10	les	les	DET	DET	n=p	11	det	11	det
+11	équipements	équipement	NC	NC	n=p|g=m	9	prep	9	prep
+12	prévus	prévoir	VPP	VPP	n=p|g=m|t=K	11	mod	11	mod
+13	pour	pour	P	P		12	mod	12	mod
+14	une	une	DET	DET	n=s|g=f	15	det	15	det
+15	mission	mission	NC	NC	n=s|g=f	13	prep	13	prep
+16	lunaire	lunaire	NC	NC	n=s|g=f	15	mod	15	mod
+17	:	:	PONCT	PONCT		16	ponct	16	ponct
+18	fusée	fusée	NC	NC	n=s|g=f	15	mod	15	mod
+19	Saturn	Saturn	NPP	NPP	n=s|g=m	18	mod	18	mod
+20	V	_	NPP	NPP		18	mod	18	mod
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	module	moduler	V	V	n=s|t=P,S|p=1,3	3	mod	3	mod
+23	lunaire	lunaire	NC	NC	n=s|g=f	22	obj	22	obj
+24	et	et	CC	CC		22	coord	22	coord
+25	le	le	DET	DET	n=s|g=m	26	det	26	det
+26	vaisseau	vaisseau	NC	NC	n=s|g=m	0	_	0	_
+27	Apollo	Apollo	NPP	NPP	n=s|g=m	26	mod	26	mod
+28	.	.	PONCT	PONCT		27	ponct	27	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	astronautes	astronaute	NC	NC	n=p	3	suj	3	suj
+3	effectuent	effectuer	V	V	n=p|t=P,S|p=3	0	root	0	root
+4	toutes	tout	ADJ	ADJ	n=p|g=f	6	mod	6	mod
+5	les	les	DET	DET	n=p	6	det	6	det
+6	manœuvres	_	NC	NC		3	obj	3	obj
+7	de	de	P	P		3	mod	3	mod
+8	la	la	DET	DET	n=s|g=f	9	det	9	det
+9	mission	mission	NC	NC	n=s|g=f	7	prep	7	prep
+10	lunaire	lunaire	NC	NC	n=s|g=f	9	mod	9	mod
+11	tout	tout	ADV	ADV		3	mod	3	mod
+12	en	en	P	P		3	mod	3	mod
+13	restant	rester	VPR	VPR	t=G	12	prep	12	prep
+14	en	en	P	P		13	mod	13	mod
+15	orbite	orbite	NC	NC	n=s|g=f	14	prep	14	prep
+16	terrestre	terrestre	ADJ	ADJ	n=s	15	mod	15	mod
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+</p><p>
+1	Apollo	Apollo	NPP	NPP	n=s|g=m	0	_	0	_
+2	10	10	ET	ET		1	dep	1	dep
+3	(	(	PONCT	PONCT		2	ponct	2	ponct
+4	18	18	ADJ	ADJ		5	mod	5	mod
+5	mai	mai	NC	NC	n=s|g=m	1	mod	1	mod
+6	1969	1969	NC	NC		5	mod	5	mod
+7	-	-	PONCT	PONCT		6	ponct	6	ponct
+8	26	26	ADJ	ADJ		9	mod	9	mod
+9	mai	mai	NC	NC	n=s|g=m	1	mod	1	mod
+10	1969	1969	NC	NC		9	mod	9	mod
+11	)	)	PONCT	PONCT		10	ponct	10	ponct
+12	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	directeurs	directeur	NC	NC	n=p|g=m	6	suj	6	suj
+3	de	de	P	P		2	dep	2	dep
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	NASA	_	NPP	NPP		3	prep	3	prep
+6	envisagent	envisager	V	V	n=p|t=P,S|p=3	0	root	0	root
+7	que	que	CS	CS		6	obj	6	obj
+8	cette	cette	DET	DET	n=s|g=f	9	det	9	det
+9	mission	mission	NC	NC	n=s|g=f	0	_	0	_
+10	soit	soit	CC	CC		9	coord	9	coord
+11	celle	celle	PRO	PRO	n=s|g=f	10	dep_coord	10	dep_coord
+12	du	de	P+D	P+D	n=s|g=m	11	dep	11	dep
+13	premier	premier	ADJ	ADJ	n=s|g=m	14	mod	14	mod
+14	alunissage	alunissage	NC	NC	n=s|g=m	12	prep	12	prep
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	car	car	CS	CS		10	dep_coord	10	dep_coord
+17	l'	le	DET	DET	n=s	18	det	18	det
+18	ensemble	ensemble	NC	NC	n=s|g=m	26	suj	26	suj
+19	des	de	P+D	P+D	n=p	18	dep	18	dep
+20	véhicules	véhicule	NC	NC	n=p|g=m	19	prep	19	prep
+21	et	et	CC	CC		19	coord	19	coord
+22	des	de	P+D	P+D	n=p	21	dep_coord	21	dep_coord
+23	manœuvres	_	NC	NC		22	prep	22	prep
+24	a	avoir	V	V	n=s|t=P|p=3	26	aux_tps	26	aux_tps
+25	été	être	VPP	VPP	t=K	26	aux_pass	26	aux_pass
+26	testé	tester	VPP	VPP	n=s|g=m|t=K	16	sub	16	sub
+27	sans	sans	P	P		26	mod	26	mod
+28	qu'	que	CS	CS		27	prep	27	prep
+29	aucun	aucun	DET	DET	n=s|g=m	30	det	30	det
+30	problème	problème	NC	NC	n=s|g=m	34	suj	34	suj
+31	n'	ne	ADV	ADV		34	mod	34	mod
+32	ait	avoir	VS	VS	n=s|t=S|p=3	34	aux_tps	34	aux_tps
+33	été	être	VPP	VPP	t=K	34	aux_pass	34	aux_pass
+34	détecté	détecter	VPP	VPP	n=s|g=m|t=K	28	sub	28	sub
+35	.	.	PONCT	PONCT		34	ponct	34	ponct
+
+1	Mais	mais	CC	CC		0	root	0	root
+2	les	les	DET	DET	n=p	3	det	3	det
+3	Soviétiques	soviétique	NC	NC	n=p	5	suj	5	suj
+4	n'	ne	ADV	ADV		5	mod	5	mod
+5	ont	avoir	V	V	n=p|t=P|p=3	1	dep_coord	1	dep_coord
+6	pas	pas	ADV	ADV		5	mod	5	mod
+7	l'	le	DET	DET	n=s	8	det	8	det
+8	air	air	NC	NC	n=s|g=m	5	obj	5	obj
+9	d'	de	P	P		5	mod	5	mod
+10	avancer	avancer	VINF	VINF	t=W	9	prep	9	prep
+11	dans	dans	P	P		10	mod	10	mod
+12	leur	leur	DET	DET	n=s|p=3|poss=p	13	det	13	det
+13	programme	programme	NC	NC	n=s|g=m	11	prep	11	prep
+14	habité	habiter	VPP	VPP	n=s|g=m|t=K	13	mod	13	mod
+15	sur	sur	P	P		14	mod	14	mod
+16	la	la	DET	DET	n=s|g=f	17	det	17	det
+17	Lune	_	NPP	NPP		15	prep	15	prep
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	la	la	DET	DET	n=s|g=f	20	det	20	det
+20	NASA	_	NC	NC		21	suj	21	suj
+21	décide	décider	V	V	n=s|t=P,S|p=1,3	5	mod	5	mod
+22	d'	de	P	P		21	mod	21	mod
+23	une	une	DET	DET	n=s|g=f	25	det	25	det
+24	dernière	dernier	ADJ	ADJ	n=s|g=f	25	mod	25	mod
+25	mission	mission	NC	NC	n=s|g=f	22	prep	22	prep
+26	de	de	P	P		25	dep	25	dep
+27	test	test	NC	NC	n=s|g=m	26	prep	26	prep
+28	des	de	P+D	P+D	n=p	25	dep	25	dep
+29	vaisseaux	vaisseau	NC	NC	n=p|g=m	28	prep	28	prep
+30	.	.	PONCT	PONCT		29	ponct	29	ponct
+
+</p><h3>
+1	Missions	mission	NC	NC	n=p|g=f	0	_	0	_
+2	habitées	habiter	VPP	VPP	n=p|g=f|t=K	1	mod	1	mod
+3	sur	sur	P	P		2	mod	2	mod
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	Lune	lune	NC	NC	n=s|g=f	3	prep	3	prep
+
+</h3><p>
+1	Apollo	Apollo	NPP	NPP	n=s|g=m	0	root	0	root
+2	11	11	NC	NC		1	mod	1	mod
+3	(	(	PONCT	PONCT		2	ponct	2	ponct
+4	16	16	ADJ	ADJ		5	mod	5	mod
+5	juillet	juillet	NC	NC	n=s|g=m	1	mod	1	mod
+6	1969	1969	NC	NC		5	mod	5	mod
+7	-	-	PONCT	PONCT		6	ponct	6	ponct
+8	24	24	ADJ	ADJ		9	mod	9	mod
+9	juillet	juillet	NC	NC	n=s|g=m	1	mod	1	mod
+10	1969	1969	NC	NC		1	mod	1	mod
+11	)	)	PONCT	PONCT		10	ponct	10	ponct
+
+</p><p>
+1	Le	le	DET	DET	n=s|g=m	3	det	3	det
+2	20	20	ADJ	ADJ		3	mod	3	mod
+3	juillet	juillet	NC	NC	n=s|g=m	24	mod	24	mod
+4	1969	1969	NC	NC		3	mod	3	mod
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	les	les	DET	DET	n=p	7	det	7	det
+7	astronautes	astronaute	NC	NC	n=p	24	suj	24	suj
+8	Neil	Neil	NPP	NPP	n=s|g=m	7	mod	7	mod
+9	Armstrong	_	NPP	NPP		7	mod	7	mod
+10	et	et	CC	CC		7	coord	7	coord
+11	Buzz	_	NPP	NPP		10	dep_coord	10	dep_coord
+12	Aldrin	_	NPP	NPP		11	mod	11	mod
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	après	après	P	P		7	dep	7	dep
+15	leur	leur	DET	DET	n=s|p=3|poss=p	16	det	16	det
+16	alunissage	alunissage	NC	NC	n=s|g=m	14	prep	14	prep
+17	dans	dans	P	P		16	dep	16	dep
+18	la	la	DET	DET	n=s|g=f	19	det	19	det
+19	mer	mer	NC	NC	n=s|g=f	17	prep	17	prep
+20	de	de	P	P		19	dep	19	dep
+21	la	la	DET	DET	n=s|g=f	22	det	22	det
+22	Tranquillité	tranquillité	NC	NC	n=s|g=f	20	prep	20	prep
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	font	faire	V	V	n=p|t=P|p=3	0	root	0	root
+25	leurs	leurs	DET	DET	n=p|p=3|poss=p	27	det	27	det
+26	premiers	premier	ADJ	ADJ	n=p|g=m	27	mod	27	mod
+27	pas	pas	NC	NC	g=m	24	obj	24	obj
+28	sur	sur	P	P		24	mod	24	mod
+29	la	la	DET	DET	n=s|g=f	30	det	30	det
+30	Lune	_	NPP	NPP		28	prep	28	prep
+31	,	,	PONCT	PONCT		30	ponct	30	ponct
+32	et	et	CC	CC		24	coord	24	coord
+33	deviennent	devenir	V	V	n=p|t=P,S|p=3	32	dep_coord	32	dep_coord
+34	les	les	DET	DET	n=p	36	det	36	det
+35	premiers	premier	ADJ	ADJ	n=p|g=m	36	mod	36	mod
+36	hommes	homme	NC	NC	n=p|g=m	33	obj	33	obj
+37	à	à	P	P		33	mod	33	mod
+38	marcher	marcher	VINF	VINF	t=W	37	prep	37	prep
+39	sur	sur	P	P		38	mod	38	mod
+40	la	la	DET	DET	n=s|g=f	41	det	41	det
+41	Lune	_	NPP	NPP		39	prep	39	prep
+42	.	.	PONCT	PONCT		41	ponct	41	ponct
+
+</p><p>
+1	Apollo	Apollo	NPP	NPP	n=s|g=m	0	_	0	_
+2	12	12	ET	ET		1	dep	1	dep
+3	(	(	PONCT	PONCT		2	ponct	2	ponct
+4	14	14	ADJ	ADJ		5	mod	5	mod
+5	novembre	novembre	NC	NC	n=s|g=m	1	mod	1	mod
+6	1969	1969	NC	NC		5	mod	5	mod
+7	–	–	PONCT	PONCT		6	ponct	6	ponct
+8	24	24	ADJ	ADJ		9	mod	9	mod
+9	novembre	novembre	NC	NC	n=s|g=m	1	mod	1	mod
+10	1969	1969	NC	NC		9	mod	9	mod
+11	)	)	PONCT	PONCT		10	ponct	10	ponct
+
+</p><p>
+1	30	30	NC	NC		12	mod	12	mod
+2	secondes	second	ADJ	ADJ	n=p|g=f	1	mod	1	mod
+3	après	après	P	P		1	dep	1	dep
+4	son	son	DET	DET	n=s|g=m|p=3|poss=s	5	det	5	det
+5	décollage	décollage	NC	NC	n=s|g=m	3	prep	3	prep
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	la	la	DET	DET	n=s|g=f	8	det	8	det
+8	fusée	fusée	NC	NC	n=s|g=f	12	suj	12	suj
+9	Saturn	Saturn	NPP	NPP	n=s|g=m	8	mod	8	mod
+10	V	_	NPP	NPP		8	mod	8	mod
+11	est	être	V	V	n=s|t=P|p=3	12	aux_tps	12	aux_tps
+12	frappée	frapper	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+13	par	par	P	P		12	mod	12	mod
+14	un	un	DET	DET	n=s|g=m	15	det	15	det
+15	éclair	éclair	NC	NC	n=s|g=m	13	prep	13	prep
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	qui	qui	PROREL	PROREL	n=s	18	suj	18	suj
+18	perturbe	perturber	V	V	n=s|t=P,S|p=1,3	12	mod	12	mod
+19	temporairement	_	ADV	ADV		18	mod	18	mod
+20	la	la	DET	DET	n=s|g=f	21	det	21	det
+21	puissance	puissance	NC	NC	n=s|g=f	18	obj	18	obj
+22	électrique	électrique	ADJ	ADJ	n=s	21	mod	21	mod
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	module	module	NC	NC	n=s|g=m	4	suj	4	suj
+3	lunaire	lunaire	NC	NC	n=s|g=f	2	mod	2	mod
+4	fait	faire	V	V	n=s|t=P|p=3	0	root	0	root
+5	un	un	DET	DET	n=s|g=m	6	det	6	det
+6	alunissage	alunissage	NC	NC	n=s|g=m	4	obj	4	obj
+7	dans	dans	P	P		4	mod	4	mod
+8	l'	le	DET	DET	n=s	9	det	9	det
+9	Océan	océan	NC	NC	n=s|g=m	7	prep	7	prep
+10	des	de	P+D	P+D	n=p	9	dep	9	dep
+11	Tempêtes	_	NPP	NPP		10	prep	10	prep
+12	à	à	P	P		4	mod	4	mod
+13	environs	environs	NC	NC	n=p|g=m	12	prep	12	prep
+14	200	200	ADJ	ADJ		13	mod	13	mod
+15	mètres	mètre	NC	NC	n=p|g=m	13	mod	13	mod
+16	de	de	P	P		4	mod	4	mod
+17	la	la	DET	DET	n=s|g=f	18	det	18	det
+18	sonde	sonde	NC	NC	n=s|g=f	16	prep	16	prep
+19	spatiale	spatial	ADJ	ADJ	n=s|g=f	18	mod	18	mod
+20	Surveyor	_	NPP	NPP		18	mod	18	mod
+21	3	3	ADJ	ADJ		20	mod	20	mod
+22	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+</p><p>
+1	Apollo	Apollo	NPP	NPP	n=s|g=m	0	root	0	root
+2	13	13	NC	NC		1	mod	1	mod
+3	(	(	PONCT	PONCT		2	ponct	2	ponct
+4	11	11	ADJ	ADJ		5	mod	5	mod
+5	avril	avril	NC	NC	n=s|g=m	1	mod	1	mod
+6	1970	1970	NC	NC		5	mod	5	mod
+7	-	-	PONCT	PONCT		6	ponct	6	ponct
+8	17	17	ADJ	ADJ		9	mod	9	mod
+9	avril	avril	NC	NC	n=s|g=m	1	mod	1	mod
+10	1970	1970	NC	NC		1	mod	1	mod
+11	)	)	PONCT	PONCT		10	ponct	10	ponct
+
+</p><p>
+1	Cette	cette	DET	DET	n=s|g=f	2	det	2	det
+2	mission	mission	NC	NC	n=s|g=f	4	suj	4	suj
+3	est	être	V	V	n=s|t=P|p=3	4	aux_pass	4	aux_pass
+4	interrompue	interrompre	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+5	à	à	P	P		4	mod	4	mod
+6	la	la	DET	DET	n=s|g=f	7	det	7	det
+7	suite	suite	NC	NC	n=s|g=f	5	prep	5	prep
+8	de	de	P	P		4	mod	4	mod
+9	l'	le	DET	DET	n=s	10	det	10	det
+10	explosion	explosion	NC	NC	n=s|g=f	8	prep	8	prep
+11	d'	de	P	P		4	mod	4	mod
+12	un	un	DET	DET	n=s|g=m	13	det	13	det
+13	réservoir	réservoir	NC	NC	n=s|g=m	11	prep	11	prep
+14	d'	de	P	P		4	mod	4	mod
+15	oxygène	oxygène	NC	NC	n=s|g=m	14	prep	14	prep
+16	liquide	liquide	ADJ	ADJ	n=s	15	mod	15	mod
+17	situé	situer	ADJ	ADJ	n=s|g=m|t=K	15	mod	15	mod
+18	dans	dans	P	P		4	mod	4	mod
+19	le	le	DET	DET	n=s|g=m	20	det	20	det
+20	module	module	NC	NC	n=s|g=m	18	prep	18	prep
+21	de	de	P	P		20	dep	20	dep
+22	service	service	NC	NC	n=s|g=m	21	prep	21	prep
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	durant	durant	P	P		4	mod	4	mod
+25	le	le	DET	DET	n=s|g=m	26	det	26	det
+26	transit	transit	NC	NC	n=s|g=m	24	prep	24	prep
+27	de	de	P	P		4	mod	4	mod
+28	la	la	DET	DET	n=s|g=f	29	det	29	det
+29	Terre	_	NPP	NPP		27	prep	27	prep
+30	à	à	P	P		4	mod	4	mod
+31	la	la	DET	DET	n=s|g=f	32	det	32	det
+32	Lune	_	NPP	NPP		30	prep	30	prep
+33	.	.	PONCT	PONCT		32	ponct	32	ponct
+
+1	Heureusement	_	ADV	ADV		10	mod	10	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	la	la	DET	DET	n=s|g=f	4	det	4	det
+4	trajectoire	trajectoire	NC	NC	n=s|g=f	10	suj	10	suj
+5	de	de	P	P		4	dep	4	dep
+6	transit	transit	NC	NC	n=s|g=m	5	prep	5	prep
+7	Terre-Lune	_	NPP	NPP		6	mod	6	mod
+8	a	avoir	V	V	n=s|t=P|p=3	10	aux_tps	10	aux_tps
+9	été	être	VPP	VPP	t=K	10	aux_pass	10	aux_pass
+10	calculée	calculer	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+11	pour	pour	P	P		10	mod	10	mod
+12	que	que	CS	CS		11	prep	11	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	en	en	P	P		10	mod	10	mod
+15	l'	le	DET	DET	n=s	16	det	16	det
+16	absence	absence	NC	NC	n=s|g=f	14	prep	14	prep
+17	de	de	P	P		10	mod	10	mod
+18	manœuvre	_	NC	NC		17	prep	17	prep
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	le	le	DET	DET	n=s|g=m	21	det	21	det
+21	CSM	CSM	NPP	NPP	n=s|g=m	0	_	0	_
+22	puisse	pouvoir	VS	VS	n=s|t=S|p=1,3	0	_	0	_
+23	revenir	revenir	VINF	VINF	t=W	22	obj	22	obj
+24	vers	vers	P	P		23	mod	23	mod
+25	la	la	DET	DET	n=s|g=f	26	det	26	det
+26	Terre	_	NPP	NPP		24	prep	24	prep
+27	après	après	P	P		23	mod	23	mod
+28	avoir	avoir	VINF	VINF	t=W	29	aux_tps	29	aux_tps
+29	fait	faire	VPP	VPP	n=s|g=m|t=K	27	prep	27	prep
+30	le	le	DET	DET	n=s|g=m	31	det	31	det
+31	tour	tour	NC	NC	n=s	29	obj	29	obj
+32	de	de	P	P		29	mod	29	mod
+33	la	la	DET	DET	n=s|g=f	34	det	34	det
+34	Lune	_	NPP	NPP		32	prep	32	prep
+35	.	.	PONCT	PONCT		34	ponct	34	ponct
+
+</p><p>
+1	Apollo	Apollo	NPP	NPP	n=s|g=m	0	_	0	_
+2	14	14	ET	ET		1	dep	1	dep
+3	(	(	PONCT	PONCT		2	ponct	2	ponct
+4	31	31	ADJ	ADJ		5	mod	5	mod
+5	janvier	janvier	NC	NC	n=s|g=m	1	mod	1	mod
+6	1971	1971	NC	NC		5	mod	5	mod
+7	-	-	PONCT	PONCT		6	ponct	6	ponct
+8	9	9	ADJ	ADJ		9	mod	9	mod
+9	février	février	NC	NC	n=s|g=m	1	mod	1	mod
+10	1971	1971	NC	NC		9	mod	9	mod
+11	)	)	PONCT	PONCT		10	ponct	10	ponct
+12	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+</p><p>
+1	Au	à	P+D	P+D	n=s|g=m	10	mod	10	mod
+2	début	début	NC	NC	n=s|g=m	1	prep	1	prep
+3	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+4	transit	transit	NC	NC	n=s|g=m	3	prep	3	prep
+5	Terre-Lune	_	NPP	NPP		4	mod	4	mod
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	l'	le	DET	DET	n=s	8	det	8	det
+8	équipage	équipage	NC	NC	n=s|g=m	10	suj	10	suj
+9	n'	ne	ADV	ADV		10	mod	10	mod
+10	arrive	arriver	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+11	pas	pas	ADV	ADV		10	mod	10	mod
+12	amarrer	amarrer	VINF	VINF	t=W	10	obj	10	obj
+13	le	le	DET	DET	n=s|g=m	14	det	14	det
+14	module	module	NC	NC	n=s|g=m	12	obj	12	obj
+15	CSM	CSM	NPP	NPP	n=s|g=m	14	mod	14	mod
+16	au	à	P+D	P+D	n=s|g=m	12	mod	12	mod
+17	module	module	NC	NC	n=s|g=m	16	prep	16	prep
+18	lunaire	lunaire	NC	NC	n=s|g=f	17	mod	17	mod
+19	après	après	P	P		12	mod	12	mod
+20	5	5	ADJ	ADJ		21	mod	21	mod
+21	tentatives	tentative	NC	NC	n=p|g=f	19	prep	19	prep
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+23	impliquant	impliquer	VPR	VPR	t=G	12	mod	12	mod
+24	une	une	DET	DET	n=s|g=f	26	det	26	det
+25	longue	long	ADJ	ADJ	n=s|g=f	26	mod	26	mod
+26	période	période	NC	NC	n=s	23	obj	23	obj
+27	de	de	P	P		26	dep	26	dep
+28	tension	tension	NC	NC	n=s|g=f	27	prep	27	prep
+29	pour	pour	P	P		23	mod	23	mod
+30	l'	le	DET	DET	n=s	31	det	31	det
+31	équipage	équipage	NC	NC	n=s|g=m	29	prep	29	prep
+32	.	.	PONCT	PONCT		31	ponct	31	ponct
+
+1	Apollo	Apollo	NPP	NPP	n=s|g=m	3	suj	3	suj
+2	14	14	ADJ	ADJ		1	mod	1	mod
+3	atterrit	atterrir	V	V	n=s|t=J,P|p=3	0	root	0	root
+4	dans	dans	P	P		3	mod	3	mod
+5	la	la	DET	DET	n=s|g=f	6	det	6	det
+6	région	région	NC	NC	n=s|g=f	4	prep	4	prep
+7	accidentée	accidenter	VPP	VPP	n=s|g=f|t=K	6	mod	6	mod
+8	de	de	P	P		7	mod	7	mod
+9	Fra	_	NPP	NPP		8	prep	8	prep
+10	Mauro	Mauro	NPP	NPP	n=s|g=m	9	mod	9	mod
+11	qui	qui	PROREL	PROREL	n=s	12	suj	12	suj
+12	était	être	V	V	n=s|t=I|p=3	3	mod	3	mod
+13	l'	le	DET	DET	n=s	14	det	14	det
+14	objectif	objectif	NC	NC	n=s|g=m	12	obj	12	obj
+15	initial	initial	ADJ	ADJ	n=s|g=m	14	mod	14	mod
+16	d'	de	P	P		14	dep	14	dep
+17	Apollo	Apollo	NPP	NPP	n=s|g=m	16	prep	16	prep
+18	13	13	ADJ	ADJ		17	mod	17	mod
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+</p><p>
+1	Apollo	Apollo	NPP	NPP	n=s|g=m	0	_	0	_
+2	15	15	ET	ET		1	dep	1	dep
+3	(	(	PONCT	PONCT		2	ponct	2	ponct
+4	26	26	ADJ	ADJ		5	mod	5	mod
+5	juillet	juillet	NC	NC	n=s|g=m	1	mod	1	mod
+6	1971	1971	NC	NC		5	mod	5	mod
+7	-	-	PONCT	PONCT		6	ponct	6	ponct
+8	7	7	ADJ	ADJ		9	mod	9	mod
+9	août	août	NC	NC	n=s|g=m	1	mod	1	mod
+10	1971	1971	NC	NC		9	mod	9	mod
+11	)	)	PONCT	PONCT		10	ponct	10	ponct
+
+</p><p>
+1	Apollo	Apollo	NPP	NPP	n=s|g=m	3	suj	3	suj
+2	15	15	ADJ	ADJ		1	mod	1	mod
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	la	la	DET	DET	n=s|g=f	6	det	6	det
+5	première	premier	ADJ	ADJ	n=s|g=f	6	mod	6	mod
+6	mission	mission	NC	NC	n=s|g=f	3	obj	3	obj
+7	à	à	P	P		3	mod	3	mod
+8	emporter	emporter	VINF	VINF	t=W	7	prep	7	prep
+9	un	un	DET	DET	n=s|g=m	10	det	10	det
+10	module	module	NC	NC	n=s|g=m	8	obj	8	obj
+11	lunaire	lunaire	NC	NC	n=s|g=f	10	mod	10	mod
+12	grâce	grâce	NC	NC	n=s|g=f	10	mod	10	mod
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	à	à	P	P		8	mod	8	mod
+15	l'	le	DET	DET	n=s	16	det	16	det
+16	optimisation	optimisation	NC	NC	n=s|g=f	14	prep	14	prep
+17	du	de	P+D	P+D	n=s|g=m	16	dep	16	dep
+18	lanceur	lanceur	NC	NC	n=s|g=m	17	prep	17	prep
+19	Saturn	Saturn	NPP	NPP	n=s|g=m	18	mod	18	mod
+20	V	_	NPP	NPP		18	mod	18	mod
+21	.	.	PONCT	PONCT		20	ponct	20	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	poids	poids	NC	NC	g=m	6	suj	6	suj
+3	supplémentaire	supplémentaire	ADJ	ADJ	n=s	2	mod	2	mod
+4	est	être	V	V	n=s|t=P|p=3	6	aux_pass	6	aux_pass
+5	principalement	_	ADV	ADV		6	mod	6	mod
+6	constitué	constituer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+7	par	par	P	P		6	mod	6	mod
+8	le	le	DET	DET	n=s|g=m	10	det	10	det
+9	rover	_	ADJ	ADJ		10	mod	10	mod
+10	lunaire	lunaire	NC	NC	n=s|g=f	7	prep	7	prep
+11	et	et	CC	CC		6	coord	6	coord
+12	ses	ses	DET	DET	n=p|p=3|poss=s	13	det	13	det
+13	aliments	aliment	NC	NC	n=p|g=m	22	suj	22	suj
+14	embarqués	embarquer	VPP	VPP	n=p|g=m|t=K	13	mod	13	mod
+15	à	à	P	P		14	mod	14	mod
+16	bord	bord	NC	NC	n=s|g=m	15	prep	15	prep
+17	du	de	P+D	P+D	n=s|g=m	14	mod	14	mod
+18	module	module	NC	NC	n=s|g=m	17	prep	17	prep
+19	lunaire	lunaire	NC	NC	n=s|g=f	18	mod	18	mod
+20	Apollo	Apollo	NPP	NPP	n=s|g=m	19	mod	19	mod
+21	qui	qui	PROREL	PROREL	n=s	22	suj	22	suj
+22	permettent	permettre	V	V	n=p|t=P,S|p=3	11	dep_coord	11	dep_coord
+23	d'	de	P	P		22	obj	22	obj
+24	allonger	allonger	VINF	VINF	t=W	23	prep	23	prep
+25	le	le	DET	DET	n=s|g=m	26	det	26	det
+26	séjour	séjour	NC	NC	n=s|g=m	24	obj	24	obj
+27	sur	sur	P	P		24	mod	24	mod
+28	la	la	DET	DET	n=s|g=f	29	det	29	det
+29	Lune	_	NPP	NPP		27	prep	27	prep
+30	de	de	P	P		24	mod	24	mod
+31	35	35	NC	NC		30	prep	30	prep
+32	heures	heure	NC	NC	n=p|g=f	31	mod	31	mod
+33	à	à	P	P		24	mod	24	mod
+34	67	67	ADJ	ADJ		35	mod	35	mod
+35	heures	heure	NC	NC	n=p|g=f	33	prep	33	prep
+36	.	.	PONCT	PONCT		35	ponct	35	ponct
+
+</p><p>
+1	Apollo	Apollo	NPP	NPP	n=s|g=m	0	root	0	root
+2	16	16	NC	NC		1	mod	1	mod
+3	(	(	PONCT	PONCT		2	ponct	2	ponct
+4	16	16	ADJ	ADJ		5	mod	5	mod
+5	avril	avril	NC	NC	n=s|g=m	1	mod	1	mod
+6	1972	1972	NC	NC		5	mod	5	mod
+7	-	-	PONCT	PONCT		6	ponct	6	ponct
+8	27	27	ADJ	ADJ		9	mod	9	mod
+9	avril	avril	NC	NC	n=s|g=m	1	mod	1	mod
+10	1972	1972	NC	NC		1	mod	1	mod
+11	)	)	PONCT	PONCT		10	ponct	10	ponct
+
+</p><p>
+1	Apollo	Apollo	NPP	NPP	n=s|g=m	3	suj	3	suj
+2	16	16	NC	NC		1	mod	1	mod
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	la	la	DET	DET	n=s|g=f	6	det	6	det
+5	première	premier	ADJ	ADJ	n=s|g=f	6	mod	6	mod
+6	mission	mission	NC	NC	n=s|g=f	3	obj	3	obj
+7	à	à	P	P		3	mod	3	mod
+8	se	se	CLR	CLR	n=p,s|p=3	9	aff	9	aff
+9	poser	poser	VINF	VINF	t=W	7	prep	7	prep
+10	sur	sur	P	P		9	mod	9	mod
+11	les	les	DET	DET	n=p	13	det	13	det
+12	hauts	haut	ADJ	ADJ	n=p|g=m	13	mod	13	mod
+13	plateaux	plateau	NC	NC	n=p|g=m	10	prep	10	prep
+14	lunaires	lunaire	NC	NC	n=p|g=f	13	mod	13	mod
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+</p><p>
+1	Apollo	Apollo	NPP	NPP	n=s|g=m	0	root	0	root
+2	17	17	NC	NC		1	mod	1	mod
+3	(	(	PONCT	PONCT		2	ponct	2	ponct
+4	7	7	ADJ	ADJ		5	mod	5	mod
+5	décembre	décembre	NC	NC	n=s|g=m	1	mod	1	mod
+6	1972	1972	NC	NC		5	mod	5	mod
+7	-	-	PONCT	PONCT		6	ponct	6	ponct
+8	19	19	ADJ	ADJ		9	mod	9	mod
+9	décembre	décembre	NC	NC	n=s|g=m	1	mod	1	mod
+10	1972	1972	NC	NC		1	mod	1	mod
+11	)	)	PONCT	PONCT		10	ponct	10	ponct
+
+</p><p>
+1	Apollo	Apollo	NPP	NPP	n=s|g=m	3	suj	3	suj
+2	17	17	NC	NC		1	mod	1	mod
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	la	la	DET	DET	n=s|g=f	6	det	6	det
+5	dernière	dernier	ADJ	ADJ	n=s|g=f	6	mod	6	mod
+6	mission	mission	NC	NC	n=s|g=f	3	obj	3	obj
+7	sur	sur	P	P		6	dep	6	dep
+8	la	la	DET	DET	n=s|g=f	9	det	9	det
+9	Lune	_	NPP	NPP		7	prep	7	prep
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	astronaute	astronaute	NC	NC	n=s	27	suj	27	suj
+3	Eugene	Eugene	NPP	NPP	n=s|g=m	2	mod	2	mod
+4	Cernan	_	NPP	NPP		2	mod	2	mod
+5	et	et	CC	CC		2	coord	2	coord
+6	son	son	DET	DET	n=s|g=m|p=3|poss=s	7	det	7	det
+7	compagnon	compagnon	NC	NC	n=s|g=m	5	dep_coord	5	dep_coord
+8	Harrison	Harrison	NPP	NPP	n=s|g=m	7	mod	7	mod
+9	Schmitt	_	NPP	NPP		7	mod	7	mod
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	un	un	DET	DET	n=s|g=m	12	det	12	det
+12	géologue	géologue	NC	NC	n=s	7	mod	7	mod
+13	civil	civil	ADJ	ADJ	n=s|g=m	12	mod	12	mod
+14	américain	américain	ADJ	ADJ	n=s|g=m	12	mod	12	mod
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	le	le	DET	DET	n=s|g=m	18	det	18	det
+17	seul	seul	ADJ	ADJ	n=s|g=m	18	mod	18	mod
+18	astronaute	astronaute	NC	NC	n=s	12	mod	12	mod
+19	scientifique	scientifique	ADJ	ADJ	n=s	18	mod	18	mod
+20	du	de	P+D	P+D	n=s|g=m	18	dep	18	dep
+21	programme	programme	NC	NC	n=s|g=m	20	prep	20	prep
+22	Apollo	Apollo	NPP	NPP	n=s|g=m	21	mod	21	mod
+23	à	à	P	P		18	dep	18	dep
+24	avoir	avoir	VINF	VINF	t=W	25	aux_pass	25	aux_pass
+25	volé	voler	VPP	VPP	n=s|g=m|t=K	23	prep	23	prep
+26	,	,	PONCT	PONCT		25	ponct	25	ponct
+27	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+28	les	les	DET	DET	n=p	30	det	30	det
+29	derniers	dernier	ADJ	ADJ	n=p|g=m	30	mod	30	mod
+30	hommes	homme	NC	NC	n=p|g=m	27	obj	27	obj
+31	à	à	P	P		27	mod	27	mod
+32	avoir	avoir	VINF	VINF	t=W	31	prep	31	prep
+33	marché	marché	NC	NC	n=s|g=m	32	obj	32	obj
+34	sur	sur	P	P		32	mod	32	mod
+35	la	la	DET	DET	n=s|g=f	36	det	36	det
+36	Lune	_	NPP	NPP		34	prep	34	prep
+37	.	.	PONCT	PONCT		36	ponct	36	ponct
+
+</p><p>
+1	En	en	P	P		7	mod	7	mod
+2	tout	tout	PRO	PRO	n=s|g=m	1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	12	12	ADJ	ADJ		5	mod	5	mod
+5	hommes	homme	NC	NC	n=p|g=m	2	mod	2	mod
+6	ont	avoir	V	V	n=p|t=P|p=3	7	aux_tps	7	aux_tps
+7	marché	marcher	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+8	sur	sur	P	P		7	mod	7	mod
+9	la	la	DET	DET	n=s|g=f	10	det	10	det
+10	Lune	_	NPP	NPP		8	prep	8	prep
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+</p><h2>
+1	Vikiliens	_	NC	NC		0	_	0	_
+2	pour	pour	P	P		1	dep	1	dep
+3	compléter	compléter	VINF	VINF	t=W	2	prep	2	prep
+
+</h2><h3>
+1	Sources	source	NC	NC	n=p|g=f	0	_	0	_
+
+</h3><p>
+1	Chaîne	chaîne	NC	NC	n=s|g=f	0	_	0	_
+2	Stardust	_	NPP	NPP		1	mod	1	mod
+3	sur	sur	P	P		1	dep	1	dep
+4	YouTube	_	NPP	NPP		3	prep	3	prep
+
+</p><p>
+1	Saturn	Saturn	NPP	NPP	n=s|g=m	0	_	0	_
+2	V	_	NPP	NPP		1	mod	1	mod
+3	sur	sur	P	P		1	dep	1	dep
+4	Wikipédia	Wikipedia	NPP	NPP	n=s|g=f	3	prep	3	prep
+
+</p><p>
+1	Tour	tour	NC	NC	n=s	0	_	0	_
+2	de	de	P	P		1	dep	1	dep
+3	sauvetage	sauvetage	NC	NC	n=s|g=m	2	prep	2	prep
+4	Apollo	Apollo	NPP	NPP	n=s|g=m	3	mod	3	mod
+5	sur	sur	P	P		1	dep	1	dep
+6	le	le	DET	DET	n=s|g=m	7	det	7	det
+7	site	site	NC	NC	n=s|g=m	5	prep	5	prep
+8	sylviescope	_	NC	NC		7	mod	7	mod
+
+</p><p>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	véhicules	véhicule	NC	NC	n=p|g=m	0	_	0	_
+3	des	de	P+D	P+D	n=p	2	dep	2	dep
+4	mission	mission	NC	NC	n=s|g=f	3	prep	3	prep
+5	Apollo	Apollo	NPP	NPP	n=s|g=m	4	mod	4	mod
+6	sur	sur	P	P		2	dep	2	dep
+7	sylviescope.com	$URL$	NPP	NPP		6	prep	6	prep
+
+</p><p>
+1	Histoire	histoire	NC	NC	n=s|g=f	0	_	0	_
+2	de	de	P	P		1	dep	1	dep
+3	Saturn	Saturn	NPP	NPP	n=s|g=m	2	prep	2	prep
+4	V	_	NPP	NPP		3	mod	3	mod
+5	sur	sur	P	P		1	dep	1	dep
+6	capcomespace	_	NC	NC		5	prep	5	prep
+
+</p><p>
+1	Caractéristique	caractéristique	NC	NC	n=s|g=f	0	_	0	_
+2	de	de	P	P		1	dep	1	dep
+3	Saturn	Saturn	NPP	NPP	n=s|g=m	2	prep	2	prep
+4	V	_	NPP	NPP		3	mod	3	mod
+5	sur	sur	P	P		1	dep	1	dep
+6	capcomespace	_	NC	NC		5	prep	5	prep
+
+</p><p>
+1	Caractéristique	caractéristique	NC	NC	n=s|g=f	0	_	0	_
+2	des	de	P+D	P+D	n=p	1	dep	1	dep
+3	moteur-fusées	_	NC	NC		2	prep	2	prep
+4	de	de	P	P		1	dep	1	dep
+5	Saturn	Saturn	NPP	NPP	n=s|g=m	4	prep	4	prep
+6	V	_	NPP	NPP		5	mod	5	mod
+
+</p><h3>
+1	Liens	lien	NC	NC	n=p|g=m	0	_	0	_
+2	externes	externe	ADJ	ADJ	n=p	1	mod	1	mod
+
+</h3><p>
+1	Petite	petit	ADJ	ADJ	n=s|g=f	2	mod	2	mod
+2	vidéo	vidéo	NC	NC	n=s	0	_	0	_
+3	explicative	explicatif	ADJ	ADJ	n=s|g=f	2	mod	2	mod
+4	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+5	premier	premier	ADJ	ADJ	n=s|g=m	6	mod	6	mod
+6	étage	étage	NC	NC	n=s|g=m	4	prep	4	prep
+7	de	de	P	P		6	dep	6	dep
+8	Saturn	Saturn	NPP	NPP	n=s|g=m	7	prep	7	prep
+9	V	_	NPP	NPP		8	mod	8	mod
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+</p><p>
+1	Petite	petit	ADJ	ADJ	n=s|g=f	2	mod	2	mod
+2	vidéo	vidéo	NC	NC	n=s	0	_	0	_
+3	explicative	explicatif	ADJ	ADJ	n=s|g=f	2	mod	2	mod
+4	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+5	deuxième	deuxième	ADJ	ADJ	n=s	6	mod	6	mod
+6	étage	étage	NC	NC	n=s|g=m	4	prep	4	prep
+7	de	de	P	P		6	dep	6	dep
+8	Saturn	Saturn	NPP	NPP	n=s|g=m	7	prep	7	prep
+9	V	_	NPP	NPP		8	mod	8	mod
+
+</p><p>
+1	petite	petit	ADJ	ADJ	n=s|g=f	2	mod	2	mod
+2	vidéo	vidéo	NC	NC	n=s	0	_	0	_
+3	explicative	explicatif	ADJ	ADJ	n=s|g=f	2	mod	2	mod
+4	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+5	troisième	troisième	ADJ	ADJ	n=s	6	mod	6	mod
+6	étage	étage	NC	NC	n=s|g=m	4	prep	4	prep
+7	de	de	P	P		6	dep	6	dep
+8	Saturn	Saturn	NPP	NPP	n=s|g=m	7	prep	7	prep
+9	V	_	NPP	NPP		8	mod	8	mod
+
+</p><p>
+1	Petite	petit	ADJ	ADJ	n=s|g=f	2	mod	2	mod
+2	vidéo	vidéo	NC	NC	n=s	0	_	0	_
+3	explicative	explicatif	ADJ	ADJ	n=s|g=f	2	mod	2	mod
+4	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+5	LEM	_	NC	NC		4	prep	4	prep
+
+</p><p>
+1	Petite	petit	ADJ	ADJ	n=s|g=f	2	mod	2	mod
+2	vidéo	vidéo	NC	NC	n=s	0	_	0	_
+3	explicative	explicatif	ADJ	ADJ	n=s|g=f	2	mod	2	mod
+4	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+5	CSM	CSM	NPP	NPP	n=s|g=m	4	prep	4	prep
+
+</p><p>
+1	Petite	petit	ADJ	ADJ	n=s|g=f	2	mod	2	mod
+2	vidéo	vidéo	NC	NC	n=s	0	_	0	_
+3	explicatifs	explicatif	ADJ	ADJ	n=p|g=m	2	mod	2	mod
+4	de	de	P	P		2	dep	2	dep
+5	la	la	DET	DET	n=s|g=f	6	det	6	det
+6	Tour	tour	NC	NC	n=s	4	prep	4	prep
+7	de	de	P	P		6	dep	6	dep
+8	sauvetage	sauvetage	NC	NC	n=s|g=m	7	prep	7	prep
+9	de	de	P	P		2	dep	2	dep
+10	Saturn	Saturn	NPP	NPP	n=s|g=m	9	prep	9	prep
+11	V	_	NPP	NPP		10	mod	10	mod
+
+</p><p>
+1	Décollage	décollage	NC	NC	n=s|g=m	0	_	0	_
+2	de	de	P	P		1	dep	1	dep
+3	la	la	DET	DET	n=s|g=f	4	det	4	det
+4	mission	mission	NC	NC	n=s|g=f	2	prep	2	prep
+5	Apollo	Apollo	NPP	NPP	n=s|g=m	4	mod	4	mod
+6	11	11	V	V		0	_	0	_
+7	présenter	présenter	VINF	VINF	t=W	6	obj	6	obj
+8	en	en	P	P		7	mod	7	mod
+9	Français	français	NC	NC	g=m	8	prep	8	prep
+
+</p><p>
+1	Toutes	tout	ADJ	ADJ	n=p|g=f	3	mod	3	mod
+2	la	la	DET	DET	n=s|g=f	3	det	3	det
+3	mission	mission	NC	NC	n=s|g=f	0	_	0	_
+4	Apollo	Apollo	NPP	NPP	n=s|g=m	3	mod	3	mod
+5	11	11	NC	NC		3	mod	3	mod
+
+</p><p>
+1	Décollage	décollage	NC	NC	n=s|g=m	0	_	0	_
+2	de	de	P	P		1	dep	1	dep
+3	la	la	DET	DET	n=s|g=f	4	det	4	det
+4	mission	mission	NC	NC	n=s|g=f	2	prep	2	prep
+5	Apollo	Apollo	NPP	NPP	n=s|g=m	4	mod	4	mod
+6	11	11	NC	NC		4	mod	4	mod
+
+</p><h3>
+1	Liens	lien	NC	NC	n=p|g=m	0	_	0	_
+2	internes	interne	ADJ	ADJ	n=p	1	mod	1	mod
+
+</h3><p>
+1	VAB	_	NC	NC		0	_	0	_
+
+</p><p>
+1	Module	module	NC	NC	n=s|g=m	0	_	0	_
+2	lunaire	lunaire	NC	NC	n=s|g=f	1	mod	1	mod
+3	Apollo	Apollo	NPP	NPP	n=s|g=m	2	mod	2	mod
+
+</p><p>
+1	Rover	_	NPP	NPP		0	root	0	root
+2	lunaire	lunaire	NC	NC	n=s|g=f	1	mod	1	mod
+
+</p><p>
+1	Tour	tour	NC	NC	n=s	0	_	0	_
+2	de	de	P	P		1	dep	1	dep
+3	sauvetage	sauvetage	NC	NC	n=s|g=m	2	prep	2	prep
+4	(	(	PONCT	PONCT		3	ponct	3	ponct
+5	fusée	fusée	NC	NC	n=s|g=f	0	_	0	_
+6	)	)	PONCT	PONCT		5	ponct	5	ponct
+
+</p><p>
+1	Skylab	_	NC	NC		0	_	0	_
+
+</p><p>
+1	Programme	programme	NC	NC	n=s|g=m	0	_	0	_
+2	Apollo	Apollo	NPP	NPP	n=s|g=m	1	mod	1	mod
+
+</p><p>
+1	F-1	_	NPP	NPP		0	root	0	root
+2	(	(	PONCT	PONCT		1	ponct	1	ponct
+3	moteur-fusée	_	NC	NC		1	mod	1	mod
+4	)	)	PONCT	PONCT		3	ponct	3	ponct
+
+</p><p>
+1	J-2	_	NPP	NPP		0	root	0	root
+2	(	(	PONCT	PONCT		1	ponct	1	ponct
+3	moteur-fusée	_	NC	NC		1	mod	1	mod
+4	)	)	PONCT	PONCT		3	ponct	3	ponct
+
+</p><p>
+1	Module	module	NC	NC	n=s|g=m	0	_	0	_
+2	de	de	P	P		1	dep	1	dep
+3	commande	commande	NC	NC	n=s|g=f	2	prep	2	prep
+4	et	et	CC	CC		1	coord	1	coord
+5	de	de	P	P		4	dep_coord	4	dep_coord
+6	service	service	NC	NC	n=s|g=m	5	prep	5	prep
+7	Apollo	Apollo	NPP	NPP	n=s|g=m	6	mod	6	mod
+

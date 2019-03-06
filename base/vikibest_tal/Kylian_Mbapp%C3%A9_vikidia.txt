@@ -1,0 +1,3133 @@
+<p>
+1	Kylian	_	NPP	NPP		29	suj	29	suj
+2	Mbappé	_	NPP	NPP		1	mod	1	mod
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	de	de	P	P		29	mod	29	mod
+5	son	son	DET	DET	n=s|g=m|p=3|poss=s	6	det	6	det
+6	nom	nom	NC	NC	n=s|g=m	4	prep	4	prep
+7	complet	complet	ADJ	ADJ	n=s|g=m	6	mod	6	mod
+8	Kylian	_	NPP	NPP		6	mod	6	mod
+9	Mbappé	_	NPP	NPP		6	mod	6	mod
+10	Lottin	_	NPP	NPP		6	mod	6	mod
+11	(	(	PONCT	PONCT		10	ponct	10	ponct
+12	parfois	parfois	ADV	ADV		13	mod	13	mod
+13	surnommé	surnommer	VPP	VPP	n=s|g=m|t=K	6	mod	6	mod
+14	"	"	PONCT	PONCT		13	ponct	13	ponct
+15	le	le	DET	DET	n=s|g=m	16	det	16	det
+16	prince	prince	NC	NC	n=s|g=m	13	mod	13	mod
+17	de	de	P	P		16	dep	16	dep
+18	Bondy	Bondy	NPP	NPP	n=s|g=m	17	prep	17	prep
+19	"	"	PONCT	PONCT		18	ponct	18	ponct
+20	,	,	PONCT	PONCT		18	ponct	18	ponct
+21	«_	"	PONCT	PONCT		18	ponct	18	ponct
+22	Donatello	Donatello	NPP	NPP	n=s|g=m	16	mod	16	mod
+23	_»	"	PONCT	PONCT		22	ponct	22	ponct
+24	ou	ou	CC	CC		16	coord	16	coord
+25	«_	"	PONCT	PONCT		24	ponct	24	ponct
+26	Kiki	kiki	NC	NC	n=s|g=m	24	dep_coord	24	dep_coord
+27	_»	"	PONCT	PONCT		26	ponct	26	ponct
+28	)	)	PONCT	PONCT		26	ponct	26	ponct
+29	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+30	un	un	DET	DET	n=s|g=m	31	det	31	det
+31	footballeur	footballeur	NC	NC	n=s|g=m	29	obj	29	obj
+32	international	international	ADJ	ADJ	n=s|g=m	31	mod	31	mod
+33	français	français	ADJ	ADJ	g=m	31	mod	31	mod
+34	né	naître	VPP	VPP	n=s|g=m|t=K	31	mod	31	mod
+35	le	le	DET	DET	n=s|g=m	37	det	37	det
+36	20	20	ADJ	ADJ		37	mod	37	mod
+37	décembre	décembre	NC	NC	n=s|g=m	34	mod	34	mod
+38	1998	1998	NC	NC		37	mod	37	mod
+39	dans	dans	P	P		34	mod	34	mod
+40	le	le	DET	DET	n=s|g=m	42	det	42	det
+41	19e	_	ADJ	ADJ		42	mod	42	mod
+42	arrondissement	arrondissement	NC	NC	n=s|g=m	39	prep	39	prep
+43	de	de	P	P		42	dep	42	dep
+44	Paris	Paris	NPP	NPP	n=s|g=m	43	prep	43	prep
+45	.	.	PONCT	PONCT		44	ponct	44	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	évolue	évoluer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	au	à	P+D	P+D	n=s|g=m	2	mod	2	mod
+4	poste	poste	NC	NC	n=s	3	prep	3	prep
+5	d'	de	P	P		2	mod	2	mod
+6	attaquant	attaquant	NC	NC	n=s|g=m	5	prep	5	prep
+7	et	et	CC	CC		2	coord	2	coord
+8	actuellement	_	ADV	ADV		0	_	0	_
+9	au	à	P+D	P+D	n=s|g=m	0	_	0	_
+10	Paris	Paris	NPP	NPP	n=s|g=m	9	prep	9	prep
+11	Saint-Germain	Saint-Germain	NPP	NPP	n=s|g=m	10	mod	10	mod
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	qui	qui	PROREL	PROREL	n=s	16	suj	16	suj
+14	l'	le	CLO	CLO	n=s|p=3	16	obj	16	obj
+15	a	avoir	V	V	n=s|t=P|p=3	16	aux_tps	16	aux_tps
+16	arraché	arracher	VPP	VPP	n=s|g=m|t=K	10	mod_rel	10	mod_rel
+17	à	à	P	P		16	mod	16	mod
+18	l'	le	DET	DET	n=s	19	det	19	det
+19	AS	as	NC	NC	g=m	17	prep	17	prep
+20	Monaco	Monaco	NPP	NPP	n=s|g=m	19	mod	19	mod
+21	pour	pour	P	P		16	mod	16	mod
+22	180	180	NC	NC		21	prep	21	prep
+23	millions	million	NC	NC	n=p	22	mod	22	mod
+24	d'	de	P	P		16	mod	16	mod
+25	euros	euro	NC	NC	n=p|g=m	24	prep	24	prep
+26	,	,	PONCT	PONCT		25	ponct	25	ponct
+27	faisant	faire	VPR	VPR	t=G	16	mod	16	mod
+28	de	de	P	P		27	mod	27	mod
+29	lui	lui	PRO	PRO	n=s|g=m|p=3	28	prep	28	prep
+30	le	le	DET	DET	n=s|g=m	32	det	32	det
+31	deuxième	deuxième	ADJ	ADJ	n=s	32	mod	32	mod
+32	joueur	joueur	NC	NC	n=s|g=m	27	obj	27	obj
+33	de	de	P	P		32	dep	32	dep
+34	football	football	NC	NC	n=s|g=m	33	prep	33	prep
+35	le	le	DET	DET	n=s|g=m	37	det	37	det
+36	plus	plus	ADV	ADV		37	mod	37	mod
+37	cher	cher	ADJ	ADJ	n=s|g=m	32	mod	32	mod
+38	de	de	P	P		27	mod	27	mod
+39	l'	le	DET	DET	n=s	40	det	40	det
+40	histoire	histoire	NC	NC	n=s|g=f	38	prep	38	prep
+41	après	après	P	P		27	mod	27	mod
+42	Neymar	_	NPP	NPP		41	prep	41	prep
+43	,	,	PONCT	PONCT		42	ponct	42	ponct
+44	signé	signer	VPP	VPP	n=s|g=m|t=K	42	mod	42	mod
+45	contre	contre	P	P		44	mod	44	mod
+46	222	222	NC	NC		45	prep	45	prep
+47	millions	million	NC	NC	n=p	46	mod	46	mod
+48	d'	de	P	P		44	mod	44	mod
+49	euros	euro	NC	NC	n=p|g=m	48	prep	48	prep
+50	par	par	P	P		44	mod	44	mod
+51	le	le	DET	DET	n=s|g=m	0	_	0	_
+52	...	...	PONCT	PONCT		51	ponct	51	ponct
+
+1	Paris	_	NPP	NPP		0	_	0	_
+2	Saint-Germain	Saint-Germain	NPP	NPP	n=s|g=m	1	mod	1	mod
+3	.	.	PONCT	PONCT		2	ponct	2	ponct
+
+1	Les	les	DET	DET	n=p	3	det	3	det
+2	deux	deux	ADJ	ADJ	s=card|n=p	3	mod	3	mod
+3	joueurs	joueur	NC	NC	n=p|g=m	10	suj	10	suj
+4	les	les	DET	DET	n=p	6	det	6	det
+5	plus	plus	ADV	ADV		6	mod	6	mod
+6	onéreux	onéreux	ADJ	ADJ	g=m	3	mod	3	mod
+7	de	de	P	P		6	mod	6	mod
+8	l'	le	DET	DET	n=s	9	det	9	det
+9	histoire	histoire	NC	NC	n=s|g=f	7	prep	7	prep
+10	évoluent	évoluer	V	V	n=p|t=P,S|p=3	0	root	0	root
+11	donc	donc	ADV	ADV		10	mod	10	mod
+12	ensemble	ensemble	ADV	ADV		10	mod	10	mod
+13	en	en	P	P		10	mod	10	mod
+14	attaque	attaque	NC	NC	n=s|g=f	13	prep	13	prep
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+</p><p>
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	dispute	disputer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	son	son	DET	DET	n=s|g=m|p=3|poss=s	5	det	5	det
+4	premier	premier	ADJ	ADJ	n=s|g=m	5	mod	5	mod
+5	match	match	NC	NC	n=s|g=m	2	obj	2	obj
+6	de	de	P	P		5	dep	5	dep
+7	Ligue	_	NPP	NPP		6	prep	6	prep
+8	1	1	NC	NC		7	mod	7	mod
+9	en	en	P	P		2	mod	2	mod
+10	décembre	décembre	NC	NC	n=s|g=m	9	prep	9	prep
+11	2015	2015	NC	NC		10	mod	10	mod
+12	sous	sous	P	P		2	mod	2	mod
+13	les	les	DET	DET	n=p	14	det	14	det
+14	couleurs	couleur	NC	NC	n=p|g=f	12	prep	12	prep
+15	monégasques	monégasque	NC	NC	n=p	14	mod	14	mod
+16	et	et	CC	CC		2	coord	2	coord
+17	inscrit	inscrire	V	V	n=s|t=P|p=3	16	dep_coord	16	dep_coord
+18	son	son	DET	DET	n=s|g=m|p=3|poss=s	20	det	20	det
+19	premier	premier	ADJ	ADJ	n=s|g=m	20	mod	20	mod
+20	but	but	NC	NC	n=s|g=m	17	obj	17	obj
+21	deux	deux	DET	DET	s=card|n=p	22	det	22	det
+22	mois	mois	NC	NC	g=m	17	obj	17	obj
+23	plus	plus	ADV	ADV		24	mod	24	mod
+24	tard	tard	ADV	ADV		22	mod	22	mod
+25	,	,	PONCT	PONCT		24	ponct	24	ponct
+26	devenant	devenir	VPR	VPR	t=G	22	mod	22	mod
+27	le	le	DET	DET	n=s|g=m	30	det	30	det
+28	plus	plus	ADV	ADV		29	mod	29	mod
+29	jeune	jeune	ADJ	ADJ	n=s	30	mod	30	mod
+30	buteur	buteur	NC	NC	n=s|g=m	26	obj	26	obj
+31	de	de	P	P		26	mod	26	mod
+32	l'	le	DET	DET	n=s	33	det	33	det
+33	histoire	histoire	NC	NC	n=s|g=f	31	prep	31	prep
+34	de	de	P	P		26	mod	26	mod
+35	la	la	DET	DET	n=s|g=f	36	det	36	det
+36	Ligue	_	NPP	NPP		34	prep	34	prep
+37	1	1	ADJ	ADJ		36	mod	36	mod
+38	,	,	PONCT	PONCT		37	ponct	37	ponct
+39	devant	devant	P	P		26	mod	26	mod
+40	Thierry	Thierry	NPP	NPP	n=s|g=m	39	prep	39	prep
+41	Henry	Henry	NPP	NPP	n=s|g=m	40	mod	40	mod
+42	.	.	PONCT	PONCT		41	ponct	41	ponct
+
+</p><p>
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	remporte	remporter	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	ensuite	ensuite	ADV	ADV		2	mod	2	mod
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	Coupe	coupe	NC	NC	n=s|g=f	2	obj	2	obj
+6	Gambardella	_	NPP	NPP		5	mod	5	mod
+7	avec	avec	P	P		2	mod	2	mod
+8	l'	le	DET	DET	n=s	9	det	9	det
+9	AS	as	NC	NC	g=m	7	prep	7	prep
+10	Monaco	Monaco	NPP	NPP	n=s|g=m	9	mod	9	mod
+11	U-19	_	NPP	NPP		9	mod	9	mod
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	puis	puis	CC	CC		2	coord	2	coord
+14	le	le	DET	DET	n=s|g=m	15	det	15	det
+15	championnat	championnat	NC	NC	n=s|g=m	0	_	0	_
+16	d'	de	P	P		15	dep	15	dep
+17	Europe	Europe	NPP	NPP	n=s|g=f	16	prep	16	prep
+18	2016	2016	NC	NC		17	mod	17	mod
+19	des	de	P+D	P+D	n=p	15	dep	15	dep
+20	moins	moins	ADV	ADV		0	_	0	_
+21	de	de	P	P		0	_	0	_
+22	19	19	ADJ	ADJ		23	mod	23	mod
+23	ans	an	NC	NC	n=p|g=m	21	prep	21	prep
+24	sous	sous	P	P		23	dep	23	dep
+25	le	le	DET	DET	n=s|g=m	26	det	26	det
+26	maillot	maillot	NC	NC	n=s|g=m	24	prep	24	prep
+27	de	de	P	P		23	dep	23	dep
+28	l'	le	DET	DET	n=s	29	det	29	det
+29	équipe	équipe	NC	NC	n=s|g=f	27	prep	27	prep
+30	de	de	P	P		29	dep	29	dep
+31	France	France	NPP	NPP	n=s|g=f,m	30	prep	30	prep
+32	.	.	PONCT	PONCT		31	ponct	31	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	saison	saison	NC	NC	n=s|g=f	7	suj	7	suj
+3	suivante	suivant	ADJ	ADJ	n=s|g=f	2	mod	2	mod
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	Kylian	_	NPP	NPP		2	mod	2	mod
+6	Mbappé	_	NPP	NPP		2	mod	2	mod
+7	explose	exploser	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+8	en	en	P	P		7	mod	7	mod
+9	devenant	devenir	VPR	VPR	t=G	8	prep	8	prep
+10	le	le	DET	DET	n=s|g=m	13	det	13	det
+11	plus	plus	ADV	ADV		12	mod	12	mod
+12	jeune	jeune	ADJ	ADJ	n=s	13	mod	13	mod
+13	buteur	buteur	NC	NC	n=s|g=m	9	obj	9	obj
+14	de	de	P	P		9	mod	9	mod
+15	l'	le	DET	DET	n=s	16	det	16	det
+16	histoire	histoire	NC	NC	n=s|g=f	14	prep	14	prep
+17	des	de	P+D	P+D	n=p	9	mod	9	mod
+18	demi-finales	demi-finale	NC	NC	n=p|g=f	17	prep	17	prep
+19	de	de	P	P		18	dep	18	dep
+20	Ligue	ligue	NC	NC	n=s|g=f	19	prep	19	prep
+21	des	de	P+D	P+D	n=p	9	mod	9	mod
+22	champions	champion	NC	NC	n=p|g=m	21	prep	21	prep
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	le	le	DET	DET	n=s|g=m	26	det	26	det
+25	meilleur	meilleur	ADJ	ADJ	n=s|g=m	26	mod	26	mod
+26	espoir	espoir	NC	NC	n=s|g=m	7	obj	7	obj
+27	de	de	P	P		26	dep	26	dep
+28	la	la	DET	DET	n=s|g=f	29	det	29	det
+29	Ligue	_	NPP	NPP		27	prep	27	prep
+30	1	1	ADJ	ADJ		29	mod	29	mod
+31	2016-2017	2016-2017	NPP	NPP		26	mod	26	mod
+32	et	et	CC	CC		26	coord	26	coord
+33	champion	champion	NC	NC	n=s|g=m	32	dep_coord	32	dep_coord
+34	de	de	P	P		26	dep	26	dep
+35	France	France	NPP	NPP	n=s|g=f,m	34	prep	34	prep
+36	avec	avec	P	P		26	dep	26	dep
+37	l'	le	DET	DET	n=s	38	det	38	det
+38	AS	as	NC	NC	g=m	36	prep	36	prep
+39	Monaco	Monaco	NPP	NPP	n=s|g=m	38	mod	38	mod
+40	.	.	PONCT	PONCT		39	ponct	39	ponct
+
+</p><p>
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	remporte	remporter	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	la	la	DET	DET	n=s|g=f	4	det	4	det
+4	Ligue	_	NPP	NPP		2	obj	2	obj
+5	1	1	ADJ	ADJ		4	mod	4	mod
+6	2017-2018	2017-2018	NPP	NPP		4	mod	4	mod
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	10	det	10	det
+9	deuxième	deuxième	ADJ	ADJ	n=s	10	mod	10	mod
+10	consécutive	consécutif	ADJ	ADJ	n=s|g=f	12	mod	12	mod
+11	cette	cette	DET	DET	n=s|g=f	12	det	12	det
+12	fois	fois	NC	NC	g=f	2	mod	2	mod
+13	avec	avec	P	P		2	mod	2	mod
+14	le	le	DET	DET	n=s|g=m	15	det	15	det
+15	Paris	Paris	NPP	NPP	n=s|g=m	13	prep	13	prep
+16	Saint-Germain	Saint-Germain	NPP	NPP	n=s|g=m	15	mod	15	mod
+17	devant	devant	P	P		2	mod	2	mod
+18	...	...	PONCT	PONCT		17	ponct	17	ponct
+19	son	son	DET	DET	n=s|g=m|p=3|poss=s	21	det	21	det
+20	ancien	ancien	ADJ	ADJ	n=s|g=m	21	mod	21	mod
+21	club	club	NC	NC	n=s|g=m	17	prep	17	prep
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+23	l'	le	DET	DET	n=s	24	det	24	det
+24	AS	as	NC	NC	g=m	2	obj	2	obj
+25	Monaco	Monaco	NPP	NPP	n=s|g=m	24	mod	24	mod
+26	.	.	PONCT	PONCT		25	ponct	25	ponct
+
+1	Le	le	DET	DET	n=s|g=m	3	det	3	det
+2	15	15	ADJ	ADJ		3	mod	3	mod
+3	juillet	juillet	NC	NC	n=s|g=m	7	mod	7	mod
+4	2018	2018	NC	NC		3	mod	3	mod
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	il	il	CLS	CLS	n=s|g=m|p=3	7	suj	7	suj
+7	devient	devenir	V	V	n=s|t=P|p=3	0	root	0	root
+8	champion	champion	NC	NC	n=s|g=m	7	ats	7	ats
+9	du	de	P+D	P+D	n=s|g=m	7	mod	7	mod
+10	monde	monde	NC	NC	n=s|g=m	9	prep	9	prep
+11	avec	avec	P	P		7	mod	7	mod
+12	la	la	DET	DET	n=s|g=f	13	det	13	det
+13	France	France	NPP	NPP	n=s|g=f,m	11	prep	11	prep
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	battant	battre	VPR	VPR	t=G	7	mod	7	mod
+16	au	à	P+D	P+D	n=s|g=m	15	mod	15	mod
+17	passage	passage	NC	NC	n=s|g=m	16	prep	16	prep
+18	de	de	P	P		17	dep	17	dep
+19	nouveaux	nouveau	ADJ	ADJ	n=p|g=m	20	mod	20	mod
+20	records	record	NC	NC	n=p|g=m	18	prep	18	prep
+21	de	de	P	P		15	mod	15	mod
+22	précocité	précocité	NC	NC	n=s|g=f	21	prep	21	prep
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+1	Titularisé	titulariser	VPP	VPP	n=s|g=m|t=K	15	mod	15	mod
+2	dans	dans	P	P		1	mod	1	mod
+3	tous	tout	ADJ	ADJ	n=p|g=m	5	mod	5	mod
+4	les	les	DET	DET	n=p	5	det	5	det
+5	matches	match	NC	NC	n=p|g=m	2	prep	2	prep
+6	des	de	P+D	P+D	n=p	5	dep	5	dep
+7	Bleus	_	NPP	NPP		6	prep	6	prep
+8	en	en	P	P		1	mod	1	mod
+9	Coupe	coupe	NC	NC	n=s|g=f	8	prep	8	prep
+10	du	de	P+D	P+D	n=s|g=m	9	dep	9	dep
+11	monde	monde	NC	NC	n=s|g=m	10	prep	10	prep
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	il	il	CLS	CLS	n=s|g=m|p=3	15	suj	15	suj
+14	y	y	CLO	CLO		15	aff	15	aff
+15	inscrit	inscrire	V	V	n=s|t=P|p=3	0	root	0	root
+16	quatre	quatre	DET	DET	s=card|n=p	17	det	17	det
+17	buts	but	NC	NC	n=p|g=m	15	obj	15	obj
+18	et	et	CC	CC		15	coord	15	coord
+19	est	être	V	V	n=s|t=P|p=3	18	dep_coord	18	dep_coord
+20	élu	élire	VPP	VPP	n=s|g=m|t=K	19	prep	19	prep
+21	meilleur	meilleur	ADJ	ADJ	n=s|g=m	20	mod	20	mod
+22	jeune	jeune	ADJ	ADJ	n=s	20	mod	20	mod
+23	de	de	P	P		20	mod	20	mod
+24	la	la	DET	DET	n=s|g=f	25	det	25	det
+25	compétition	compétition	NC	NC	n=s|g=f	23	prep	23	prep
+26	.	.	PONCT	PONCT		25	ponct	25	ponct
+
+</p><h2>
+1	Biographie	biographie	NC	NC	n=s|g=f	0	_	0	_
+
+</h2><h3>
+1	Jeunesse	jeunesse	NC	NC	n=s|g=f	0	_	0	_
+2	et	et	CC	CC		1	coord	1	coord
+3	formation	formation	NC	NC	n=s|g=f	2	dep_coord	2	dep_coord
+4	à	à	P	P		1	dep	1	dep
+5	Clairefontaine	Clairefontaine	NPP	NPP	n=s|g=m	4	prep	4	prep
+
+</h3><p>
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	naît	naître	V	V	n=s|t=P|p=3	0	root	0	root
+3	d'	de	P	P		2	mod	2	mod
+4	une	une	DET	DET	n=s|g=f	5	det	5	det
+5	mère	mère	NC	NC	n=s|g=f	3	prep	3	prep
+6	algérienne	algérien	ADJ	ADJ	n=s|g=f	5	mod	5	mod
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	la	la	DET	DET	n=s|g=f	9	det	9	det
+9	handballeuse	_	NC	NC		0	_	0	_
+10	professionnelle	professionnel	ADJ	ADJ	n=s|g=f	9	mod	9	mod
+11	Fayza	Fayza	NPP	NPP	n=s|g=f	9	mod	9	mod
+12	Lamari	_	NPP	NPP		9	mod	9	mod
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	et	et	CC	CC		9	coord	9	coord
+15	d'	de	P	P		14	dep_coord	14	dep_coord
+16	un	un	DET	DET	n=s|g=m	17	det	17	det
+17	père	père	NC	NC	n=s|g=m	15	prep	15	prep
+18	camerounais	camerounais	ADJ	ADJ	g=m	17	mod	17	mod
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	Wilfried	Wilfried	NPP	NPP	n=s|g=m	17	mod	17	mod
+21	Mbappé	_	NPP	NPP		17	mod	17	mod
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+23	qui	qui	PROREL	PROREL	n=s	25	suj	25	suj
+24	a	avoir	V	V	n=s|t=P|p=3	25	aux_tps	25	aux_tps
+25	évolué	évoluer	VPP	VPP	n=s|g=m|t=K	17	mod_rel	17	mod_rel
+26	comme	comme	P	P		25	mod	25	mod
+27	joueur	joueur	NC	NC	n=s|g=m	26	prep	26	prep
+28	de	de	P	P		25	mod	25	mod
+29	football	football	NC	NC	n=s|g=m	28	prep	28	prep
+30	au	à	P+D	P+D	n=s|g=m	25	mod	25	mod
+31	niveau	niveau	NC	NC	n=s|g=m	30	prep	30	prep
+32	régional	régional	ADJ	ADJ	n=s|g=m	31	mod	31	mod
+33	avant	avant	P	P		25	mod	25	mod
+34	de	de	P	P		33	dep	33	dep
+35	devenir	devenir	VINF	VINF	t=W	34	prep	34	prep
+36	éducateur	éducateur	NC	NC	n=s|g=m	35	obj	35	obj
+37	dans	dans	P	P		35	mod	35	mod
+38	le	le	DET	DET	n=s|g=m	39	det	39	det
+39	club	club	NC	NC	n=s|g=m	37	prep	37	prep
+40	de	de	P	P		35	mod	35	mod
+41	l'	le	DET	DET	n=s	42	det	42	det
+42	AS	as	NC	NC	g=m	40	prep	40	prep
+43	Bondy	Bondy	NPP	NPP	n=s|g=m	42	mod	42	mod
+44	,	,	PONCT	PONCT		43	ponct	43	ponct
+45	où	où	PROREL	PROREL		48	suj	48	suj
+46	a	avoir	V	V	n=s|t=P|p=3	48	aux_tps	48	aux_tps
+47	justement	_	ADV	ADV		48	mod	48	mod
+48	débuté	débuter	VPP	VPP	n=s|g=m|t=K	42	mod_rel	42	mod_rel
+49	son	son	DET	DET	n=s|g=m|p=3|poss=s	50	det	50	det
+50	fils	fils	NC	NC	g=m	48	obj	48	obj
+51	.	.	PONCT	PONCT		50	ponct	50	ponct
+
+</p><p>
+1	Enfant	enfant	NC	NC	n=s	18	mod	18	mod
+2	vif	vif	ADJ	ADJ	n=s|g=m	1	mod	1	mod
+3	et	et	CC	CC		1	coord	1	coord
+4	considéré	considérer	VPP	VPP	n=s|g=m|t=K	3	dep_coord	3	dep_coord
+5	comme	comme	P	P		4	mod	4	mod
+6	surdoué	surdoué	NC	NC	n=s|g=m	5	prep	5	prep
+7	dans	dans	P	P		4	mod	4	mod
+8	la	la	DET	DET	n=s|g=f	9	det	9	det
+9	plupart	plupart	NC	NC	n=s|g=f	7	prep	7	prep
+10	de	de	P	P		4	mod	4	mod
+11	ses	ses	DET	DET	n=p|p=3|poss=s	12	det	12	det
+12	projets	projet	NC	NC	n=p|g=m	10	prep	10	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	il	il	CLS	CLS	n=s|g=m|p=3	18	suj	18	suj
+15	ne	ne	ADV	ADV		18	mod	18	mod
+16	s'	se	CLR	CLR	n=p,s|p=3	18	aff	18	aff
+17	en	en	CLO	CLO		18	aff	18	aff
+18	montre	montrer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+19	pas	pas	ADV	ADV		18	mod	18	mod
+20	moins	moins	ADV	ADV		18	mod	18	mod
+21	difficile	difficile	ADJ	ADJ	n=s	18	ats	18	ats
+22	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	supplie	supplier	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	déjà	déjà	ADV	ADV		2	mod	2	mod
+4	son	son	DET	DET	n=s|g=m|p=3|poss=s	5	det	5	det
+5	père	père	NC	NC	n=s|g=m	2	obj	2	obj
+6	à	à	P	P		5	dep	5	dep
+7	2	2	NC	NC		6	prep	6	prep
+8	ou	ou	CC	CC		5	coord	5	coord
+9	3	3	ADJ	ADJ		10	mod	10	mod
+10	ans	an	NC	NC	n=p|g=m	8	dep_coord	8	dep_coord
+11	de	de	P	P		2	mod	2	mod
+12	l'	le	CLO	CLO	n=s|p=3	13	obj	13	obj
+13	emmener	emmener	VINF	VINF	t=W	11	prep	11	prep
+14	avec	avec	P	P		13	mod	13	mod
+15	lui	lui	CLO	CLO	n=s|p=3	0	_	0	_
+16	au	à	P+D	P+D	n=s|g=m	0	_	0	_
+17	foot	foot	NC	NC	n=s|g=m	16	prep	16	prep
+18	et	et	CC	CC		17	coord	17	coord
+19	de	de	P	P		18	dep_coord	18	dep_coord
+20	l'	le	CLO	CLO	n=s|p=3	21	obj	21	obj
+21	inscrire	inscrire	VINF	VINF	t=W	19	prep	19	prep
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+23	et	et	CC	CC		0	_	0	_
+24	Wilfried	Wilfried	NPP	NPP	n=s|g=m	25	suj	25	suj
+25	finit	finir	V	V	n=s|t=J,P|p=3	23	dep_coord	23	dep_coord
+26	par	par	P	P		25	mod	25	mod
+27	céder	céder	VINF	VINF	t=W	26	prep	26	prep
+28	trois	trois	DET	DET	s=card|n=p	29	det	29	det
+29	ans	an	NC	NC	n=p|g=m	27	obj	27	obj
+30	plus	plus	ADV	ADV		31	mod	31	mod
+31	tard	tard	ADV	ADV		27	mod	27	mod
+32	.	.	PONCT	PONCT		31	ponct	31	ponct
+
+</p><p>
+1	Commence	commencer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+2	alors	alors	ADV	ADV		1	mod	1	mod
+3	l'	le	DET	DET	n=s	4	det	4	det
+4	ascension	ascension	NC	NC	n=s|g=f	1	obj	1	obj
+5	fulgurante	fulgurant	ADJ	ADJ	n=s|g=f	4	mod	4	mod
+6	du	de	P+D	P+D	n=s|g=m	4	dep	4	dep
+7	prodige	prodige	NC	NC	n=s|g=m	6	prep	6	prep
+8	qui	qui	PROREL	PROREL	n=s	11	suj	11	suj
+9	n'	ne	ADV	ADV		11	mod	11	mod
+10	en	en	CLO	CLO		11	aff	11	aff
+11	finit	finir	V	V	n=s|t=J,P|p=3	4	mod_rel	4	mod_rel
+12	déjà	déjà	ADV	ADV		11	mod	11	mod
+13	plus	plus	ADV	ADV		11	mod	11	mod
+14	d'	de	P	P		11	mod	11	mod
+15	affoler	affoler	VINF	VINF	t=W	14	prep	14	prep
+16	son	son	DET	DET	n=s|g=m|p=3|poss=s	17	det	17	det
+17	monde	monde	NC	NC	n=s|g=m	15	obj	15	obj
+18	et	et	CC	CC		14	coord	14	coord
+19	d'	de	P	P		18	dep_coord	18	dep_coord
+20	être	être	VINF	VINF	t=W	19	prep	19	prep
+21	sans	sans	P	P		20	mod	20	mod
+22	cesse	cesser	VS	VS	n=s|t=P,S|p=1,3	20	mod	20	mod
+23	classé	classer	VPP	VPP	n=s|g=m|t=K	22	mod	22	mod
+24	dans	dans	P	P		23	mod	23	mod
+25	les	les	DET	DET	n=p	26	det	26	det
+26	catégories	catégorie	NC	NC	n=p|g=f	24	prep	24	prep
+27	supérieures	supérieur	ADJ	ADJ	n=p|g=f	26	mod	26	mod
+28	,	,	PONCT	PONCT		27	ponct	27	ponct
+29	dans	dans	P	P		23	mod	23	mod
+30	une	une	DET	DET	n=s|g=f	31	det	31	det
+31	tentative	tentative	NC	NC	n=s|g=f	29	prep	29	prep
+32	d'	de	P	P		23	mod	23	mod
+33	effacer	effacer	VINF	VINF	t=W	32	prep	32	prep
+34	les	les	DET	DET	n=p	36	det	36	det
+35	gigantesques	gigantesque	ADJ	ADJ	n=p	36	mod	36	mod
+36	différences	différence	NC	NC	n=p|g=f	33	obj	33	obj
+37	avec	avec	P	P		33	mod	33	mod
+38	les	les	DET	DET	n=p	39	det	39	det
+39	enfants	enfant	NC	NC	n=p	37	prep	37	prep
+40	de	de	P	P		33	mod	33	mod
+41	son	son	DET	DET	n=s|g=m|p=3|poss=s	42	det	42	det
+42	âge	âge	NC	NC	n=s|g=m	40	prep	40	prep
+43	.	.	PONCT	PONCT		42	ponct	42	ponct
+
+1	Peine	peine	NC	NC	n=s|g=f	13	mod	13	mod
+2	perdue	perdre	VPP	VPP	n=s|g=f|t=K	1	mod	1	mod
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	malgré	malgré	P	P		2	mod	2	mod
+5	l'	le	DET	DET	n=s	7	det	7	det
+6	apparente	apparent	ADJ	ADJ	n=s|g=f	7	mod	7	mod
+7	fragilité	fragilité	NC	NC	n=s|g=f	4	prep	4	prep
+8	physique	physique	ADJ	ADJ	n=s	7	mod	7	mod
+9	de	de	P	P		7	dep	7	dep
+10	Mbappé	_	NPP	NPP		9	prep	9	prep
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	il	il	CLS	CLS	n=s|g=m|p=3	13	suj	13	suj
+13	continuait	continuer	V	V	n=s|t=I|p=3	0	root	0	root
+14	à	à	P	P		13	mod	13	mod
+15	faire	faire	VINF	VINF	t=W	14	prep	14	prep
+16	la	la	DET	DET	n=s|g=f	17	det	17	det
+17	différence	différence	NC	NC	n=s|g=f	15	obj	15	obj
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	4	suj	4	suj
+2	est	être	V	V	n=s|t=P|p=3	4	aux_pass	4	aux_pass
+3	déjà	déjà	ADV	ADV		4	mod	4	mod
+4	considéré	considérer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+5	comme	comme	P	P		4	mod	4	mod
+6	un	un	DET	DET	n=s|g=m	7	det	7	det
+7	crack	crack	NC	NC	n=s	5	prep	5	prep
+8	à	à	P	P		4	mod	4	mod
+9	11-12	_	NC	NC		8	prep	8	prep
+10	ans	an	NC	NC	n=p|g=m	9	mod	9	mod
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	et	et	CC	CC		4	coord	4	coord
+13	ses	ses	DET	DET	n=p|p=3|poss=s	14	det	14	det
+14	matches	match	NC	NC	n=p|g=m	19	suj	19	suj
+15	en	en	P	P		14	dep	14	dep
+16	championnat	championnat	NC	NC	n=s|g=m	15	prep	15	prep
+17	départemental	départemental	ADJ	ADJ	n=s|g=m	16	mod	16	mod
+18	sont	être	V	V	n=p|t=P|p=3	19	aux_pass	19	aux_pass
+19	observés	observer	VPP	VPP	n=p|g=m|t=K	12	dep_coord	12	dep_coord
+20	attentivement	_	ADV	ADV		19	mod	19	mod
+21	par	par	P	P		19	mod	19	mod
+22	plusieurs	plusieurs	DET	DET	n=p	23	det	23	det
+23	clubs	club	NC	NC	n=p|g=m	21	prep	21	prep
+24	.	.	PONCT	PONCT		23	ponct	23	ponct
+
+</p><p>
+1	Kylian	_	NPP	NPP		2	suj	2	suj
+2	débute	débuter	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	à	à	P	P		2	mod	2	mod
+4	l'	le	DET	DET	n=s	5	det	5	det
+5	AS	as	NC	NC	g=m	3	prep	3	prep
+6	Monaco	Monaco	NPP	NPP	n=s|g=m	5	mod	5	mod
+7	à	à	P	P		2	mod	2	mod
+8	14	14	ADJ	ADJ		9	mod	9	mod
+9	ans	an	NC	NC	n=p|g=m	7	prep	7	prep
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	deux	deux	DET	DET	s=card|n=p	12	det	12	det
+12	ans	an	NC	NC	n=p|g=m	2	obj	2	obj
+13	après	après	P	P		2	mod	2	mod
+14	avoir	avoir	VINF	VINF	t=W	15	aux_tps	15	aux_tps
+15	rejoint	rejoindre	VPP	VPP	n=s|g=m|t=K	13	prep	13	prep
+16	le	le	DET	DET	n=s|g=m	18	det	18	det
+17	prestigieux	prestigieux	ADJ	ADJ	g=m	18	mod	18	mod
+18	Institut	institut	NC	NC	n=s|g=m	15	obj	15	obj
+19	National	_	NPP	NPP		18	mod	18	mod
+20	de	de	P	P		15	mod	15	mod
+21	Football	_	NPP	NPP		20	prep	20	prep
+22	de	de	P	P		15	mod	15	mod
+23	Clairefontaine	Clairefontaine	NPP	NPP	n=s|g=m	22	prep	22	prep
+24	,	,	PONCT	PONCT		23	ponct	23	ponct
+25	malgré	malgré	P	P		15	mod	15	mod
+26	des	des	DET	DET	n=p	27	det	27	det
+27	négociations	négociation	NC	NC	n=p|g=f	25	prep	25	prep
+28	avancées	avancer	VPP	VPP	n=p|g=f|t=K	27	mod	27	mod
+29	avec	avec	P	P		28	mod	28	mod
+30	le	le	DET	DET	n=s|g=m	31	det	31	det
+31	SM	_	NC	NC		29	prep	29	prep
+32	Caen	Caen	NPP	NPP	n=s|g=m	31	mod	31	mod
+33	et	et	CC	CC		27	coord	27	coord
+34	les	les	DET	DET	n=p	35	det	35	det
+35	tentations	tentation	NC	NC	n=p|g=f	33	dep_coord	33	dep_coord
+36	du	de	P+D	P+D	n=s|g=m	15	mod	15	mod
+37	RC	_	NC	NC		36	prep	36	prep
+38	Lens	Lens	NPP	NPP	n=s|g=m	37	mod	37	mod
+39	,	,	PONCT	PONCT		38	ponct	38	ponct
+40	des	de	P+D	P+D	n=p	15	mod	15	mod
+41	Girondins	girondin	NC	NC	n=p|g=f	40	prep	40	prep
+42	de	de	P	P		41	dep	41	dep
+43	Bordeaux	Bordeaux	NPP	NPP	n=s|g=m	42	prep	42	prep
+44	,	,	PONCT	PONCT		43	ponct	43	ponct
+45	de	de	P	P		15	mod	15	mod
+46	Chelsea	Chelsea	NPP	NPP	n=s|g=f	45	prep	45	prep
+47	ou	ou	CC	CC		45	coord	45	coord
+48	encore	encore	ADV	ADV		47	mod	47	mod
+49	du	de	P+D	P+D	n=s|g=m	47	dep_coord	47	dep_coord
+50	Real	Real	NPP	NPP	n=s|g=m	49	prep	49	prep
+51	Madrid	Madrid	NPP	NPP	n=s|g=m	50	mod	50	mod
+52	.	.	PONCT	PONCT		51	ponct	51	ponct
+
+</p><h3>
+1	Débuts	début	NC	NC	n=p|g=m	0	_	0	_
+2	professionnels	professionnel	NC	NC	n=p|g=m	1	mod	1	mod
+
+</h3><p>
+1	Lors	lors	ADV	ADV		2	mod	2	mod
+2	de	de	P	P		13	mod	13	mod
+3	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	5	det	5	det
+4	première	premier	ADJ	ADJ	n=s|g=f	5	mod	5	mod
+5	année	année	NC	NC	n=s|g=f	2	prep	2	prep
+6	avec	avec	P	P		5	dep	5	dep
+7	le	le	DET	DET	n=s|g=m	8	det	8	det
+8	club	club	NC	NC	n=s|g=m	6	prep	6	prep
+9	monégasque	_	ADJ	ADJ		8	mod	8	mod
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	Kylian	_	NPP	NPP		13	suj	13	suj
+12	Mbappé	_	NPP	NPP		11	mod	11	mod
+13	vit	vivre	V	V	n=s|t=P|p=3	0	root	0	root
+14	dans	dans	P	P		13	mod	13	mod
+15	un	un	DET	DET	n=s|g=m	16	det	16	det
+16	appartement	appartement	NC	NC	n=s|g=m	14	prep	14	prep
+17	avec	avec	P	P		13	mod	13	mod
+18	son	son	DET	DET	n=s|g=m|p=3|poss=s	19	det	19	det
+19	père	père	NC	NC	n=s|g=m	17	prep	17	prep
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	qui	qui	PROREL	PROREL	n=s	23	suj	23	suj
+22	a	avoir	V	V	n=s|t=P|p=3	23	aux_tps	23	aux_tps
+23	pris	prendre	VPP	VPP	g=m|t=K	13	mod	13	mod
+24	une	une	DET	DET	n=s|g=f	25	det	25	det
+25	année	année	NC	NC	n=s|g=f	23	obj	23	obj
+26	sabbatique	sabbatique	ADJ	ADJ	n=s	25	mod	25	mod
+27	pour	pour	P	P		23	mod	23	mod
+28	le	le	CLO	CLO	n=s|g=m|p=3	29	obj	29	obj
+29	soutenir	soutenir	VINF	VINF	t=W	27	prep	27	prep
+30	dans	dans	P	P		29	mod	29	mod
+31	ses	ses	DET	DET	n=p|p=3|poss=s	32	det	32	det
+32	débuts	début	NC	NC	n=p|g=m	30	prep	30	prep
+33	avec	avec	P	P		29	mod	29	mod
+34	Monaco	Monaco	NPP	NPP	n=s|g=m	33	prep	33	prep
+35	,	,	PONCT	PONCT		34	ponct	34	ponct
+36	alors	alors	ADV	ADV		37	mod	37	mod
+37	tout	tout	ADV	ADV		38	mod	38	mod
+38	juste	juste	ADJ	ADJ	n=s	29	mod	29	mod
+39	promu	promouvoir	VPP	VPP	n=s|g=m|t=K	29	mod	29	mod
+40	en	en	P	P		39	mod	39	mod
+41	Ligue	_	NPP	NPP		40	prep	40	prep
+42	1	1	NC	NC		41	mod	41	mod
+43	.	.	PONCT	PONCT		42	ponct	42	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	4	suj	4	suj
+2	est	être	V	V	n=s|t=P|p=3	4	aux_tps	4	aux_tps
+3	toutefois	toutefois	ADV	ADV		4	mod	4	mod
+4	écarté	écarter	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+5	à	à	P	P		4	mod	4	mod
+6	plusieurs	plusieurs	DET	DET	n=p	7	det	7	det
+7	reprises	reprise	NC	NC	n=p|g=f	5	prep	5	prep
+8	de	de	P	P		4	mod	4	mod
+9	l'	le	DET	DET	n=s	10	det	10	det
+10	équipe	équipe	NC	NC	n=s|g=f	8	prep	8	prep
+11	U17	_	NPP	NPP		10	mod	10	mod
+12	de	de	P	P		4	mod	4	mod
+13	Monaco	Monaco	NPP	NPP	n=s|g=m	12	prep	12	prep
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	son	son	DET	DET	n=s|g=m|p=3|poss=s	16	det	16	det
+16	entraîneur	entraîneur	NC	NC	n=s|g=m	20	suj	20	suj
+17	Bruno	Bruno	NPP	NPP	n=s|g=m	16	mod	16	mod
+18	Irles	Irles	NPP	NPP	n=s|g=m	16	mod	16	mod
+19	lui	lui	CLO	CLO	n=s|p=3	20	obj	20	obj
+20	reprochant	reprocher	VPR	VPR	t=G	4	mod	4	mod
+21	de	de	P	P		20	mod	20	mod
+22	ne	ne	ADV	ADV		24	mod	24	mod
+23	pas	pas	ADV	ADV		24	mod	24	mod
+24	participer	participer	VINF	VINF	t=W	21	prep	21	prep
+25	suffisamment	_	ADV	ADV		24	mod	24	mod
+26	aux	à	P+D	P+D	n=p	24	mod	24	mod
+27	tâches	tâche	NC	NC	n=p|g=f	26	prep	26	prep
+28	défensives	défensif	ADJ	ADJ	n=p|g=f	27	mod	27	mod
+29	.	.	PONCT	PONCT		28	ponct	28	ponct
+
+</p><p>
+1	Cependant	cependant	ADV	ADV		6	mod	6	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	des	des	DET	DET	n=p	4	det	4	det
+4	joueurs	joueur	NC	NC	n=p|g=m	6	suj	6	suj
+5	meilleurs	meilleur	ADJ	ADJ	n=p|g=m	4	mod	4	mod
+6	arrivent	arriver	V	V	n=p|t=P,S|p=3	0	root	0	root
+7	:	:	PONCT	PONCT		6	ponct	6	ponct
+8	à	à	P	P		6	mod	6	mod
+9	16	16	NC	NC		8	prep	8	prep
+10	ans	an	NC	NC	n=p|g=m	9	mod	9	mod
+11	et	et	CC	CC		6	coord	6	coord
+12	11	11	ADJ	ADJ		13	mod	13	mod
+13	mois	mois	NC	NC	g=m	19	mod	19	mod
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	l'	le	DET	DET	n=s	16	det	16	det
+16	équipe	équipe	NC	NC	n=s|g=f	19	suj	19	suj
+17	première	premier	ADJ	ADJ	n=s|g=f	16	mod	16	mod
+18	monégasque	monégasque	NC	NC	n=s	16	mod	16	mod
+19	lance	lancer	V	V	n=s|t=P,S|p=1,3	6	mod	6	mod
+20	Mbappé	_	NPP	NPP		19	obj	19	obj
+21	dans	dans	P	P		19	mod	19	mod
+22	un	un	DET	DET	n=s|g=m	23	det	23	det
+23	match	match	NC	NC	n=s|g=m	21	prep	21	prep
+24	de	de	P	P		19	mod	19	mod
+25	Ligue	_	NPP	NPP		24	prep	24	prep
+26	1	1	ADJ	ADJ		25	mod	25	mod
+27	contre	contre	P	P		19	mod	19	mod
+28	le	le	DET	DET	n=s|g=m	29	det	29	det
+29	SM	_	NC	NC		27	prep	27	prep
+30	Caen	Caen	NPP	NPP	n=s|g=m	29	mod	29	mod
+31	,	,	PONCT	PONCT		30	ponct	30	ponct
+32	le	le	CLO	CLO	n=s|g=m|p=3	33	obj	33	obj
+33	faisant	faire	VPR	VPR	t=G	19	mod	19	mod
+34	devenir	devenir	VINF	VINF	t=W	33	obj	33	obj
+35	le	le	DET	DET	n=s|g=m	38	det	38	det
+36	plus	plus	ADV	ADV		37	mod	37	mod
+37	jeune	jeune	ADJ	ADJ	n=s	38	mod	38	mod
+38	joueur	joueur	NC	NC	n=s|g=m	34	obj	34	obj
+39	de	de	P	P		38	dep	38	dep
+40	l'	le	DET	DET	n=s	41	det	41	det
+41	histoire	histoire	NC	NC	n=s|g=f	39	prep	39	prep
+42	de	de	P	P		34	mod	34	mod
+43	l'	le	DET	DET	n=s	44	det	44	det
+44	AS	as	NC	NC	g=m	42	prep	42	prep
+45	Monaco	Monaco	NPP	NPP	n=s|g=m	44	mod	44	mod
+46	A	_	NPP	NPP		44	mod	44	mod
+47	,	,	PONCT	PONCT		46	ponct	46	ponct
+48	et	et	CC	CC		19	coord	19	coord
+49	deux	deux	DET	DET	s=card|n=p	50	det	50	det
+50	mois	mois	NC	NC	g=m	55	suj	55	suj
+51	plus	plus	ADV	ADV		52	mod	52	mod
+52	tard	tard	ADV	ADV		50	mod	50	mod
+53	,	,	PONCT	PONCT		52	ponct	52	ponct
+54	il	il	CLS	CLS	n=s|g=m|p=3	55	suj	55	suj
+55	inscrit	inscrire	V	V	n=s|t=P|p=3	48	dep_coord	48	dep_coord
+56	son	son	DET	DET	n=s|g=m|p=3|poss=s	58	det	58	det
+57	premier	premier	ADJ	ADJ	n=s|g=m	58	mod	58	mod
+58	but	but	NC	NC	n=s|g=m	55	obj	55	obj
+59	en	en	P	P		55	mod	55	mod
+60	championnat	championnat	NC	NC	n=s|g=m	59	prep	59	prep
+61	national	national	ADJ	ADJ	n=s|g=m	60	mod	60	mod
+62	contre	contre	P	P		55	mod	55	mod
+63	l'	le	DET	DET	n=s	64	det	64	det
+64	ESTAC	_	NPP	NPP		62	prep	62	prep
+65	Troyes	Troyes	NPP	NPP	n=s|g=m	64	mod	64	mod
+66	,	,	PONCT	PONCT		65	ponct	65	ponct
+67	battant	battre	VPR	VPR	t=G	55	mod	55	mod
+68	deux	deux	DET	DET	s=card|n=p	69	det	69	det
+69	records	record	NC	NC	n=p|g=m	67	obj	67	obj
+70	de	de	P	P		69	dep	69	dep
+71	précocité	précocité	NC	NC	n=s|g=f	70	prep	70	prep
+72	de	de	P	P		67	mod	67	mod
+73	Thierry	Thierry	NPP	NPP	n=s|g=m	72	prep	72	prep
+74	Henry	Henry	NPP	NPP	n=s|g=m	73	mod	73	mod
+75	.	.	PONCT	PONCT		74	ponct	74	ponct
+
+</p><h3>
+1	Records	record	NC	NC	n=p|g=m	0	_	0	_
+2	avec	avec	P	P		1	dep	1	dep
+3	l'	le	DET	DET	n=s	4	det	4	det
+4	AS	as	NC	NC	g=m	2	prep	2	prep
+5	Monaco	Monaco	NPP	NPP	n=s|g=m	4	mod	4	mod
+
+</h3><p>
+1	Maintenant	maintenant	ADV	ADV		2	mod	2	mod
+2	habitué	habituer	VPP	VPP	n=s|g=m|t=K	12	mod	12	mod
+3	à	à	P	P		2	mod	2	mod
+4	jouer	jouer	VINF	VINF	t=W	3	prep	3	prep
+5	en	en	P	P		4	mod	4	mod
+6	équipe	équipe	NC	NC	n=s|g=f	5	prep	5	prep
+7	première	premier	ADJ	ADJ	n=s|g=f	6	mod	6	mod
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	Kylian	_	NPP	NPP		12	suj	12	suj
+10	Mbappé	_	NPP	NPP		9	mod	9	mod
+11	est	être	V	V	n=s|t=P|p=3	12	aux_tps	12	aux_tps
+12	appelé	appeler	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+13	chez	chez	P	P		12	mod	12	mod
+14	les	les	DET	DET	n=p	15	det	15	det
+15	U19	_	NPP	NPP		13	prep	13	prep
+16	pour	pour	P	P		12	mod	12	mod
+17	disputer	disputer	VINF	VINF	t=W	16	prep	16	prep
+18	la	la	DET	DET	n=s|g=f	19	det	19	det
+19	Coupe	coupe	NC	NC	n=s|g=f	17	obj	17	obj
+20	Gamberdella	_	NPP	NPP		19	mod	19	mod
+21	2015-2016	2015-2016	NPP	NPP		19	mod	19	mod
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+23	équivalent	équivalent	NC	NC	n=s|g=m	19	mod	19	mod
+24	de	de	P	P		23	dep	23	dep
+25	la	la	DET	DET	n=s|g=f	26	det	26	det
+26	Coupe	coupe	NC	NC	n=s|g=f	24	prep	24	prep
+27	de	de	P	P		26	dep	26	dep
+28	France	France	NPP	NPP	n=s|g=f,m	27	prep	27	prep
+29	pour	pour	P	P		17	mod	17	mod
+30	les	les	DET	DET	n=p	0	_	0	_
+31	moins	moins	ADV	ADV		0	_	0	_
+32	de	de	P	P		0	_	0	_
+33	19	19	ADJ	ADJ		34	mod	34	mod
+34	ans	an	NC	NC	n=p|g=m	32	prep	32	prep
+35	.	.	PONCT	PONCT		34	ponct	34	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	prodige	prodige	NC	NC	n=s|g=m	5	suj	5	suj
+3	de	de	P	P		2	dep	2	dep
+4	Bondy	Bondy	NPP	NPP	n=s|g=m	3	prep	3	prep
+5	répond	répondre	V	V	n=s|t=P|p=3	0	root	0	root
+6	aux	à	P+D	P+D	n=p	5	mod	5	mod
+7	attentes	attente	NC	NC	n=p|g=f	6	prep	6	prep
+8	et	et	CC	CC		5	coord	5	coord
+9	inscrit	inscrire	V	V	n=s|t=P|p=3	8	dep_coord	8	dep_coord
+10	notamment	_	ADV	ADV		9	mod	9	mod
+11	un	un	DET	DET	n=s|g=m	12	det	12	det
+12	doublé	doublé	NC	NC	n=s|g=m	9	obj	9	obj
+13	contre	contre	P	P		12	dep	12	dep
+14	le	le	DET	DET	n=s|g=m	15	det	15	det
+15	RC	_	NC	NC		13	prep	13	prep
+16	Lens	Lens	NPP	NPP	n=s|g=m	15	mod	15	mod
+17	dans	dans	P	P		9	mod	9	mod
+18	une	une	DET	DET	n=s|g=f	19	det	19	det
+19	finale	final	ADJ	ADJ	n=s|g=f	17	prep	17	prep
+20	à	à	P	P		9	mod	9	mod
+21	sens	sens	NC	NC	g=m	20	prep	20	prep
+22	unique	unique	ADJ	ADJ	n=s	21	mod	21	mod
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	remportée	remporter	VPP	VPP	n=s|g=f|t=K	9	mod	9	mod
+25	3-0	_	NC	NC		24	mod	24	mod
+26	.	.	PONCT	PONCT		25	ponct	25	ponct
+
+</p><p>
+1	Au	à	P+D	P+D	n=s|g=m	37	mod	37	mod
+2	terme	terme	NC	NC	n=s|g=m	1	prep	1	prep
+3	d'	de	P	P		2	dep	2	dep
+4	une	une	DET	DET	n=s|g=f	6	det	6	det
+5	superbe	superbe	ADJ	ADJ	n=s	6	mod	6	mod
+6	saison	saison	NC	NC	n=s|g=f	3	prep	3	prep
+7	2016-100	_	NC	NC		6	mod	6	mod
+8	en	en	P	P		2	dep	2	dep
+9	Ligue	_	NPP	NPP		8	prep	8	prep
+10	1	1	NC	NC		9	mod	9	mod
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	où	où	PROREL	PROREL		14	mod	14	mod
+13	il	il	CLS	CLS	n=s|g=m|p=3	14	suj	14	suj
+14	inscrit	inscrire	V	V	n=s|t=P|p=3	2	mod_rel	2	mod_rel
+15	quinze	quinze	DET	DET	s=card|n=p	16	det	16	det
+16	but0	_	NC	NC		14	obj	14	obj
+17	et	et	CC	CC		14	coord	14	coord
+18	devient	devenir	V	V	n=s|t=P|p=3	17	dep_coord	17	dep_coord
+19	le	le	DET	DET	n=s|g=m	22	det	22	det
+20	plus	plus	ADV	ADV		21	mod	21	mod
+21	jeune	jeune	ADJ	ADJ	n=s	22	mod	22	mod
+22	joueur	joueur	NC	NC	n=s|g=m	18	obj	18	obj
+23	de	de	P	P		18	mod	18	mod
+24	l'	le	DET	DET	n=s	25	det	25	det
+25	histoire	histoire	NC	NC	n=s|g=f	23	prep	23	prep
+26	de	de	P	P		18	mod	18	mod
+27	la	la	DET	DET	n=s|g=f	28	det	28	det
+28	Ligue	_	NPP	NPP		26	prep	26	prep
+29	1	1	V	V		18	mod	18	mod
+30	à	à	P	P		29	mod	29	mod
+31	atteindre	atteindre	VINF	VINF	t=W	30	prep	30	prep
+32	ce	ce	DET	DET	n=s|g=m	33	det	33	det
+33	chiffre	chiffre	NC	NC	n=s|g=m	31	obj	31	obj
+34	,	,	PONCT	PONCT		33	ponct	33	ponct
+35	Kylian	_	NPP	NPP		37	suj	37	suj
+36	Mbappé	_	NPP	NPP		35	mod	35	mod
+37	reçoit	recevoir	V	V	n=s|t=P|p=3	0	root	0	root
+38	le	le	DET	DET	n=s|g=m	39	det	39	det
+39	trophée	trophée	NC	NC	n=s|g=m	37	obj	37	obj
+40	UNFP	_	NPP	NPP		39	mod	39	mod
+41	du	de	P+D	P+D	n=s|g=m	37	mod	37	mod
+42	meilleur	meilleur	ADJ	ADJ	n=s|g=m	43	mod	43	mod
+43	espoir	espoir	NC	NC	n=s|g=m	41	prep	41	prep
+44	de	de	P	P		37	mod	37	mod
+45	la	la	DET	DET	n=s|g=f	46	det	46	det
+46	Ligue	_	NPP	NPP		44	prep	44	prep
+47	1	1	ADJ	ADJ		46	mod	46	mod
+48	.	.	PONCT	PONCT		47	ponct	47	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	marque	marquer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	également	_	ADV	ADV		2	mod	2	mod
+4	ses	ses	DET	DET	n=p|p=3|poss=s	6	det	6	det
+5	deux	deux	ADJ	ADJ	s=card|n=p	6	mod	6	mod
+6	premiers	premier	ADJ	ADJ	n=p|g=m	2	obj	2	obj
+7	triplés	tripler	VPP	VPP	n=p|g=m|t=K	6	mod	6	mod
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	en	en	P	P		2	mod	2	mod
+10	huitièmes	huitième	NC	NC	n=p	9	prep	9	prep
+11	de	de	P	P		2	mod	2	mod
+12	finale	final	ADJ	ADJ	n=s|g=f	11	prep	11	prep
+13	de	de	P	P		2	mod	2	mod
+14	la	la	DET	DET	n=s|g=f	15	det	15	det
+15	Coupe	coupe	NC	NC	n=s|g=f	13	prep	13	prep
+16	de	de	P	P		2	mod	2	mod
+17	la	la	DET	DET	n=s|g=f	18	det	18	det
+18	Ligue	_	NPP	NPP		16	prep	16	prep
+19	contre	contre	P	P		2	mod	2	mod
+20	le	le	DET	DET	n=s|g=m	21	det	21	det
+21	Stade	_	NPP	NPP		19	prep	19	prep
+22	rennais	_	NPP	NPP		21	mod	21	mod
+23	et	et	CC	CC		2	coord	2	coord
+24	en	en	P	P		23	dep_coord	23	dep_coord
+25	Ligue	_	NPP	NPP		24	prep	24	prep
+26	1	1	ADJ	ADJ		25	mod	25	mod
+27	contre	contre	P	P		2	mod	2	mod
+28	le	le	DET	DET	n=s|g=m	29	det	29	det
+29	FC	_	NC	NC		27	prep	27	prep
+30	Metz	Metz	NPP	NPP	n=s|g=m	29	mod	29	mod
+31	.	.	PONCT	PONCT		30	ponct	30	ponct
+
+</p><p>
+1	Kylian	_	NPP	NPP		3	suj	3	suj
+2	Mbappé	_	NPP	NPP		1	mod	1	mod
+3	marque	marquer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	avec	avec	P	P		3	mod	3	mod
+5	l'	le	DET	DET	n=s	6	det	6	det
+6	AS	as	NC	NC	g=m	4	prep	4	prep
+7	Monaco	_	V	V		3	mod	3	mod
+8	pas	pas	ADV	ADV		9	mod	9	mod
+9	moins	moins	ADV	ADV		7	mod	7	mod
+10	de	de	P	P		7	mod	7	mod
+11	six	six	DET	DET	s=card|n=p	12	det	12	det
+12	buts	but	NC	NC	n=p|g=m	10	prep	10	prep
+13	dans	dans	P	P		7	mod	7	mod
+14	la	la	DET	DET	n=s|g=f	15	det	15	det
+15	Ligue	ligue	NC	NC	n=s|g=f	13	prep	13	prep
+16	des	de	P+D	P+D	n=p	7	mod	7	mod
+17	champions	champion	NC	NC	n=p|g=m	16	prep	16	prep
+18	2016-17	2016-17	NPP	NPP		17	mod	17	mod
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	autant	autant	ADV	ADV		21	mod	21	mod
+21	qu'	que	CS	CS		7	mod	7	mod
+22	Antoine	Antoine	NPP	NPP	n=s|g=m	0	_	0	_
+23	Griezmann	_	NPP	NPP		22	mod	22	mod
+24	,	,	PONCT	PONCT		23	ponct	23	ponct
+25	devenant	devenir	VPR	VPR	t=G	22	mod	22	mod
+26	à	à	P	P		25	mod	25	mod
+27	cette	cette	DET	DET	n=s|g=f	28	det	28	det
+28	occasion	occasion	NC	NC	n=s|g=f	26	prep	26	prep
+29	le	le	DET	DET	n=s|g=m	32	det	32	det
+30	plus	plus	ADV	ADV		31	mod	31	mod
+31	jeune	jeune	ADJ	ADJ	n=s	32	mod	32	mod
+32	quintuple	quintuple	NC	NC	n=s|g=m	25	mod	25	mod
+33	buteur	buteur	NC	NC	n=s|g=m	32	mod	32	mod
+34	de	de	P	P		25	mod	25	mod
+35	la	la	DET	DET	n=s|g=f	36	det	36	det
+36	compétition	compétition	NC	NC	n=s|g=f	34	prep	34	prep
+37	et	et	CC	CC		25	coord	25	coord
+38	le	le	DET	DET	n=s|g=m	42	det	42	det
+39	deuxième	deuxième	ADJ	ADJ	n=s	42	mod	42	mod
+40	plus	plus	ADV	ADV		41	mod	41	mod
+41	jeune	jeune	ADJ	ADJ	n=s	42	mod	42	mod
+42	buteur	buteur	NC	NC	n=s|g=m	37	dep_coord	37	dep_coord
+43	français	français	ADJ	ADJ	g=m	42	mod	42	mod
+44	après	après	P	P		25	mod	25	mod
+45	Karim	Karim	NPP	NPP	n=s|g=m	44	prep	44	prep
+46	Benzema	_	NPP	NPP		45	mod	45	mod
+47	.	.	PONCT	PONCT		46	ponct	46	ponct
+
+1	Parmi	parmi	P	P		7	mod	7	mod
+2	ces	ces	DET	DET	n=p	3	det	3	det
+3	buts	but	NC	NC	n=p|g=m	1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	quatre	quatre	PRO	PRO	s=card|n=p	7	suj	7	suj
+6	sont	être	V	V	n=p|t=P|p=3	7	aux_pass	7	aux_pass
+7	marqués	marquer	VPP	VPP	n=p|g=m|t=K	0	root	0	root
+8	dans	dans	P	P		7	mod	7	mod
+9	les	les	DET	DET	n=p	12	det	12	det
+10	quatre	quatre	ADJ	ADJ	s=card|n=p	12	mod	12	mod
+11	premiers	premier	ADJ	ADJ	n=p|g=m	12	mod	12	mod
+12	matchs	_	NC	NC		8	prep	8	prep
+13	à	à	P	P		7	mod	7	mod
+14	élimination	élimination	NC	NC	n=s|g=f	13	prep	13	prep
+15	directe	direct	ADJ	ADJ	n=s|g=f	14	mod	14	mod
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	ce	ce	PRO	PRO	n=s	7	mod	7	mod
+18	qui	qui	PROREL	PROREL	n=s	19	suj	19	suj
+19	est	être	V	V	n=s|t=P|p=3	17	mod_rel	17	mod_rel
+20	également	_	ADV	ADV		19	mod	19	mod
+21	historique	historique	ADJ	ADJ	n=s	19	ats	19	ats
+22	:	:	PONCT	PONCT		21	ponct	21	ponct
+23	l'	le	DET	DET	n=s	24	det	24	det
+24	aller	aller	NC	NC	n=s|g=m	19	obj	19	obj
+25	et	et	CC	CC		24	coord	24	coord
+26	le	le	DET	DET	n=s|g=m	27	det	27	det
+27	retour	retour	NC	NC	n=s|g=m	25	dep_coord	25	dep_coord
+28	du	de	P+D	P+D	n=s|g=m	24	dep	24	dep
+29	huitième	huitième	ADJ	ADJ	n=s	28	prep	28	prep
+30	de	de	P	P		29	mod	29	mod
+31	finale	final	ADJ	ADJ	n=s|g=f	30	prep	30	prep
+32	contre	contre	P	P		24	dep	24	dep
+33	Manchester	Manchester	NPP	NPP	n=s|g=m	32	prep	32	prep
+34	City	_	NPP	NPP		33	mod	33	mod
+35	,	,	PONCT	PONCT		34	ponct	34	ponct
+36	et	et	CC	CC		7	coord	7	coord
+37	les	les	DET	DET	n=p	39	det	39	det
+38	deux	deux	ADJ	ADJ	s=card|n=p	39	mod	39	mod
+39	quarts	quart	NC	NC	n=p|g=m	0	_	0	_
+40	de	de	P	P		39	dep	39	dep
+41	finale	finale	NC	NC	n=s	40	prep	40	prep
+42	contre	contre	P	P		39	dep	39	dep
+43	le	le	DET	DET	n=s|g=m	44	det	44	det
+44	Borussia	_	NPP	NPP		42	prep	42	prep
+45	Dortmund	_	NPP	NPP		44	mod	44	mod
+46	.	.	PONCT	PONCT		45	ponct	45	ponct
+
+</p><h3>
+1	Paris	_	NPP	NPP		0	_	0	_
+2	Saint-Germain	Saint-Germain	NPP	NPP	n=s|g=m	1	mod	1	mod
+
+</h3><p>
+1	Le	le	DET	DET	n=s|g=m	3	det	3	det
+2	31	31	ADJ	ADJ		3	mod	3	mod
+3	août	août	NC	NC	n=s|g=m	8	mod	8	mod
+4	2017	2017	NC	NC		3	mod	3	mod
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	Kylian	_	NPP	NPP		8	suj	8	suj
+7	Mbappé	_	NPP	NPP		6	mod	6	mod
+8	quitte	quitter	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+9	officiellement	_	ADV	ADV		8	mod	8	mod
+10	Monaco	Monaco	NPP	NPP	n=s|g=m	8	obj	8	obj
+11	pour	pour	P	P		8	mod	8	mod
+12	rejoindre	rejoindre	VINF	VINF	t=W	11	prep	11	prep
+13	le	le	DET	DET	n=s|g=m	14	det	14	det
+14	Paris	Paris	NPP	NPP	n=s|g=m	12	obj	12	obj
+15	Saint-Germain	Saint-Germain	NPP	NPP	n=s|g=m	14	mod	14	mod
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	dans	dans	P	P		12	mod	12	mod
+18	un	un	DET	DET	n=s|g=m	20	det	20	det
+19	premier	premier	ADJ	ADJ	n=s|g=m	20	mod	20	mod
+20	temps	temps	NC	NC	g=m	17	prep	17	prep
+21	sous	sous	P	P		20	dep	20	dep
+22	forme	forme	NC	NC	n=s|g=f	21	prep	21	prep
+23	de	de	P	P		12	mod	12	mod
+24	prêt	prêt	NC	NC	n=s|g=m	23	prep	23	prep
+25	avec	avec	P	P		12	mod	12	mod
+26	option	option	NC	NC	n=s|g=f	25	prep	25	prep
+27	d'	de	P	P		12	mod	12	mod
+28	achat	achat	NC	NC	n=s|g=m	27	prep	27	prep
+29	à	à	P	P		12	mod	12	mod
+30	180	180	NC	NC		29	prep	29	prep
+31	millions	million	NC	NC	n=p	30	mod	30	mod
+32	d'	de	P	P		12	mod	12	mod
+33	euros	euro	NC	NC	n=p|g=m	32	prep	32	prep
+34	devenant	devenir	VPR	VPR	t=G	12	mod	12	mod
+35	obligatoire	obligatoire	ADJ	ADJ	n=s	0	_	0	_
+36	en	en	P	P		35	mod	35	mod
+37	cas	cas	NC	NC	g=m	36	prep	36	prep
+38	de	de	P	P		37	dep	37	dep
+39	maintien	maintien	NC	NC	n=s|g=m	38	prep	38	prep
+40	du	de	P+D	P+D	n=s|g=m	37	dep	37	dep
+41	club	club	NC	NC	n=s|g=m	40	prep	40	prep
+42	parisien	parisien	ADJ	ADJ	n=s|g=m	41	mod	41	mod
+43	au	à	P+D	P+D	n=s|g=m	37	dep	37	dep
+44	sein	sein	NC	NC	n=s|g=m	43	prep	43	prep
+45	de	de	P	P		44	dep	44	dep
+46	l'	le	DET	DET	n=s	47	det	47	det
+47	élite	élite	NC	NC	n=s|g=f	45	prep	45	prep
+48	,	,	PONCT	PONCT		47	ponct	47	ponct
+49	ce	ce	PRO	PRO	n=s	37	mod	37	mod
+50	qui	qui	PROREL	PROREL	n=s	52	suj	52	suj
+51	est	être	V	V	n=s|t=P|p=3	52	aux_tps	52	aux_tps
+52	effectué	effectuer	VPP	VPP	n=s|g=m|t=K	49	mod_rel	49	mod_rel
+53	après	après	P	P		52	mod	52	mod
+54	une	une	DET	DET	n=s|g=f	55	det	55	det
+55	victoire	victoire	NC	NC	n=s|g=f	53	prep	53	prep
+56	5-2	_	ADJ	ADJ		55	mod	55	mod
+57	contre	contre	P	P		52	mod	52	mod
+58	le	le	DET	DET	n=s|g=m	59	det	59	det
+59	RC	_	NC	NC		57	prep	57	prep
+60	Strasbourg	Strasbourg	NPP	NPP	n=s|g=m	59	mod	59	mod
+61	en	en	P	P		52	mod	52	mod
+62	février	février	NC	NC	n=s|g=m	61	prep	61	prep
+63	2018	2018	NC	NC		62	mod	62	mod
+64	.	.	PONCT	PONCT		63	ponct	63	ponct
+
+1	Mbappé	_	NPP	NPP		0	_	0	_
+2	y	y	CLO	CLO		0	_	0	_
+3	inscrit	inscrire	V	V	n=s|t=P|p=3	0	_	0	_
+4	13	13	ADJ	ADJ		5	mod	5	mod
+5	buts	but	NC	NC	n=p|g=m	3	obj	3	obj
+6	et	et	CC	CC		5	coord	5	coord
+7	délivre	délivre	NC	NC	n=s|g=m	6	dep_coord	6	dep_coord
+8	7	7	ADJ	ADJ		5	mod	5	mod
+9	passes	passe	NC	NC	n=p	5	mod	5	mod
+10	décisives	décisif	ADJ	ADJ	n=p|g=f	9	mod	9	mod
+11	en	en	P	P		5	dep	5	dep
+12	27	27	NC	NC		11	prep	11	prep
+13	matchs	_	ADJ	ADJ		12	mod	12	mod
+14	avec	avec	P	P		3	mod	3	mod
+15	le	le	DET	DET	n=s|g=m	16	det	16	det
+16	PSG	_	NPP	NPP		14	prep	14	prep
+17	en	en	P	P		3	mod	3	mod
+18	Ligue	_	NPP	NPP		17	prep	17	prep
+19	1	1	NC	NC		18	mod	18	mod
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	dont	dont	PROREL	PROREL		22	mod	22	mod
+22	un	un	PRO	PRO	n=s|g=m	3	mod	3	mod
+23	de	de	P	P		22	dep	22	dep
+24	chacun	chacun	PRO	PRO	n=s|g=m	23	prep	23	prep
+25	dès	dès	P	P		22	dep	22	dep
+26	son	son	DET	DET	n=s|g=m|p=3|poss=s	28	det	28	det
+27	deuxième	deuxième	ADJ	ADJ	n=s	28	mod	28	mod
+28	match	match	NC	NC	n=s|g=m	25	prep	25	prep
+29	par	par	P	P		22	dep	22	dep
+30	exemple	exemple	NC	NC	n=s|g=m	29	prep	29	prep
+31	,	,	PONCT	PONCT		30	ponct	30	ponct
+32	contre	contre	P	P		3	mod	3	mod
+33	les	les	DET	DET	n=p	34	det	34	det
+34	Girondins	_	NPP	NPP		32	prep	32	prep
+35	de	de	P	P		3	mod	3	mod
+36	Bordeaux	Bordeaux	NPP	NPP	n=s|g=m	35	prep	35	prep
+37	(	(	PONCT	PONCT		36	ponct	36	ponct
+38	6-2	_	NPP	NPP		36	mod	36	mod
+39	)	)	PONCT	PONCT		38	ponct	38	ponct
+40	.	.	PONCT	PONCT		38	ponct	38	ponct
+
+</p><p>
+1	Il	il	CLS	CLS	n=s|g=m|p=3	3	suj	3	suj
+2	se	se	CLR	CLR	n=p,s|p=3	3	aff	3	aff
+3	montre	montrer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	une	une	DET	DET	n=s|g=f	6	det	6	det
+5	nouvelle	nouveau	ADJ	ADJ	n=s|g=f	6	mod	6	mod
+6	fois	fois	NC	NC	g=f	3	obj	3	obj
+7	décisif	décisif	ADJ	ADJ	n=s|g=m	6	mod	6	mod
+8	en	en	P	P		3	mod	3	mod
+9	Ligue	ligue	NC	NC	n=s|g=f	8	prep	8	prep
+10	des	de	P+D	P+D	n=p	3	mod	3	mod
+11	champions	champion	NC	NC	n=p|g=m	10	prep	10	prep
+12	2017-18	2017-18	NPP	NPP		11	mod	11	mod
+13	en	en	P	P		3	mod	3	mod
+14	inscrivant	inscrire	VPR	VPR	t=G	13	prep	13	prep
+15	quatre	quatre	PRO	PRO	s=card|n=p	14	obj	14	obj
+16	des	de	P+D	P+D	n=p	15	dep	15	dep
+17	25	25	ADJ	ADJ		18	mod	18	mod
+18	buts	but	NC	NC	n=p|g=m	16	prep	16	prep
+19	parisiens	parisien	ADJ	ADJ	n=p|g=m	18	mod	18	mod
+20	en	en	P	P		14	mod	14	mod
+21	phase	phase	NC	NC	n=s|g=f	20	prep	20	prep
+22	de	de	P	P		14	mod	14	mod
+23	groupes	groupe	NC	NC	n=p|g=m	22	prep	22	prep
+24	,	,	PONCT	PONCT		23	ponct	23	ponct
+25	un	un	DET	DET	n=s|g=m	26	det	26	det
+26	record	record	NC	NC	n=s|g=m	14	obj	14	obj
+27	,	,	PONCT	PONCT		26	ponct	26	ponct
+28	et	et	CC	CC		3	coord	3	coord
+29	délivre	délivrer	V	V	n=s|t=P,S|p=1,3	28	dep_coord	28	dep_coord
+30	quatre	quatre	DET	DET	s=card|n=p	31	det	31	det
+31	passes	passe	NC	NC	n=p	29	obj	29	obj
+32	décisives	décisif	ADJ	ADJ	n=p|g=f	31	mod	31	mod
+33	en	en	P	P		29	mod	29	mod
+34	cinq	cinq	DET	DET	s=card|n=p	35	det	35	det
+35	matchs	_	NC	NC		33	prep	33	prep
+36	,	,	PONCT	PONCT		35	ponct	35	ponct
+37	dont	dont	PROREL	PROREL		38	mod	38	mod
+38	deux	deux	PRO	PRO	s=card|n=p	35	mod_rel	35	mod_rel
+39	lors	lors	ADV	ADV		38	mod	38	mod
+40	du	de	P+D	P+D	n=s|g=m	35	dep	35	dep
+41	match	match	NC	NC	n=s|g=m	40	prep	40	prep
+42	remporté	remporter	VPP	VPP	n=s|g=m|t=K	41	mod	41	mod
+43	par	par	P	P		42	mod	42	mod
+44	le	le	DET	DET	n=s|g=m	45	det	45	det
+45	PSG	_	NPP	NPP		43	prep	43	prep
+46	contre	contre	P	P		42	mod	42	mod
+47	le	le	DET	DET	n=s|g=m	48	det	48	det
+48	Bayern	_	NPP	NPP		46	prep	46	prep
+49	Munich	Munich	NPP	NPP	n=s|g=m	48	mod	48	mod
+50	par	par	P	P		42	mod	42	mod
+51	trois	trois	DET	DET	s=card|n=p	52	det	52	det
+52	buts	but	NC	NC	n=p|g=m	50	prep	50	prep
+53	à	à	P	P		42	mod	42	mod
+54	zéro	zéro	NC	NC	n=s|g=m	53	prep	53	prep
+55	.	.	PONCT	PONCT		54	ponct	54	ponct
+
+1	Le	le	DET	DET	n=s|g=m	3	det	3	det
+2	23	23	ADJ	ADJ		3	mod	3	mod
+3	octobre	octobre	NC	NC	n=s|g=m	8	mod	8	mod
+4	2017	2017	NC	NC		3	mod	3	mod
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	Mbappé	_	NPP	NPP		8	suj	8	suj
+7	est	être	V	V	n=s|t=P|p=3	8	aux_tps	8	aux_tps
+8	élu	élire	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+9	Golden	_	NPP	NPP		8	obj	8	obj
+10	Boy	_	NPP	NPP		9	mod	9	mod
+11	2017	2017	NC	NC		9	mod	9	mod
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	c'	ce	DET	DET	n=s|g=m	14	det	14	det
+14	est-à-dire	_	NC	NC		8	mod	8	mod
+15	qu'	que	PROREL	PROREL		19	mod	19	mod
+16	il	il	CLS	CLS	n=s|g=m|p=3	19	suj	19	suj
+17	a	avoir	V	V	n=s|t=P|p=3	19	aux_tps	19	aux_tps
+18	été	être	VPP	VPP	t=K	19	aux_pass	19	aux_pass
+19	désigné	désigner	VPP	VPP	n=s|g=m|t=K	14	mod_rel	14	mod_rel
+20	par	par	P	P		19	mod	19	mod
+21	le	le	DET	DET	n=s|g=m	22	det	22	det
+22	quotidien	quotidien	NC	NC	n=s|g=m	20	prep	20	prep
+23	italien	italien	ADJ	ADJ	n=s|g=m	22	mod	22	mod
+24	Tuttosport	_	NPP	NPP		22	mod	22	mod
+25	comme	comme	P	P		19	mod	19	mod
+26	le	le	DET	DET	n=s|g=m	28	det	28	det
+27	meilleur	meilleur	ADJ	ADJ	n=s|g=m	28	mod	28	mod
+28	joueur	joueur	NC	NC	n=s|g=m	25	prep	25	prep
+29	européen	européen	ADJ	ADJ	n=s|g=m	28	mod	28	mod
+30	de	de	P	P		19	mod	19	mod
+31	moins	moins	ADV	ADV		0	_	0	_
+32	de	de	P	P		0	_	0	_
+33	21	21	ADJ	ADJ		34	mod	34	mod
+34	ans	an	NC	NC	n=p|g=m	32	prep	32	prep
+35	.	.	PONCT	PONCT		34	ponct	34	ponct
+
+1	Lors	lors	ADV	ADV		2	mod	2	mod
+2	de	de	P	P		0	root	0	root
+3	la	la	DET	DET	n=s|g=f	4	det	4	det
+4	saison	saison	NC	NC	n=s|g=f	2	prep	2	prep
+5	2018-2019	2018-2019	NPP	NPP		4	mod	4	mod
+6	il	il	CLS	CLS	n=s|g=m|p=3	7	suj	7	suj
+7	choisit	choisir	V	V	n=s|t=J,P|p=3	2	root	2	root
+8	d'	de	P	P		7	obj	7	obj
+9	évoluer	évoluer	VINF	VINF	t=W	8	prep	8	prep
+10	avec	avec	P	P		9	mod	9	mod
+11	le	le	DET	DET	n=s|g=m	12	det	12	det
+12	numéro	numéro	NC	NC	n=s|g=m	10	prep	10	prep
+13	7	7	ADJ	ADJ		12	mod	12	mod
+14	étant	être	VPR	VPR	t=G	7	mod	7	mod
+15	fan	fan	NC	NC	n=s	14	obj	14	obj
+16	de	de	P	P		14	mod	14	mod
+17	Cristiano	Cristiano	NPP	NPP	n=s|g=m	16	prep	16	prep
+18	Ronaldo	Ronaldo	NPP	NPP	n=s|g=m	17	mod	17	mod
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+</p><h3>
+1	En	en	P	P		0	_	0	_
+2	équipes	équipe	NC	NC	n=p|g=f	1	prep	1	prep
+3	nationales	national	ADJ	ADJ	n=p|g=f	2	mod	2	mod
+
+</h3><h4>
+1	Équipe	équipe	NC	NC	n=s|g=f	0	_	0	_
+2	de	de	P	P		1	dep	1	dep
+3	France	France	NPP	NPP	n=s|g=f,m	2	prep	2	prep
+4	U19	_	NPP	NPP		3	mod	3	mod
+
+</h4><p>
+1	En	en	P	P		0	_	0	_
+2	2016	2016	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	alors	alors	ADV	ADV		5	mod	5	mod
+5	qu'	que	CS	CS		0	_	0	_
+6	il	il	CLS	CLS	n=s|g=m|p=3	8	suj	8	suj
+7	n'	ne	ADV	ADV		8	mod	8	mod
+8	a	avoir	V	V	n=s|t=P|p=3	5	sub	5	sub
+9	que	que	CS	CS		8	mod	8	mod
+10	17	17	ADJ	ADJ		11	mod	11	mod
+11	ans	an	NC	NC	n=p|g=m	15	suj	15	suj
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	Mbappé	_	NPP	NPP		11	mod	11	mod
+14	est	être	V	V	n=s|t=P|p=3	15	aux_tps	15	aux_tps
+15	intégré	intégrer	VPP	VPP	n=s|g=m|t=K	9	sub	9	sub
+16	à	à	P	P		15	mod	15	mod
+17	l'	le	DET	DET	n=s	18	det	18	det
+18	équipe	équipe	NC	NC	n=s|g=f	16	prep	16	prep
+19	de	de	P	P		15	mod	15	mod
+20	France	France	NPP	NPP	n=s|g=f,m	19	prep	19	prep
+21	des	de	P+D	P+D	n=p	15	mod	15	mod
+22	moins	moins	ADV	ADV		15	mod	15	mod
+23	de	de	P	P		15	mod	15	mod
+24	19	19	ADJ	ADJ		25	mod	25	mod
+25	ans	an	NC	NC	n=p|g=m	23	prep	23	prep
+26	,	,	PONCT	PONCT		25	ponct	25	ponct
+27	zappant	zapper	VPR	VPR	t=G	15	mod	15	mod
+28	les	les	DET	DET	n=p	29	det	29	det
+29	U18	_	NPP	NPP		27	obj	27	obj
+30	.	.	PONCT	PONCT		29	ponct	29	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	évoque	évoquer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	alors	alors	ADV	ADV		2	mod	2	mod
+4	la	la	DET	DET	n=s|g=f	6	det	6	det
+5	«_	"	PONCT	PONCT		4	ponct	4	ponct
+6	fantaisie	fantaisie	NC	NC	n=s|g=f	2	obj	2	obj
+7	de	de	P	P		6	dep	6	dep
+8	Neymar	_	NPP	NPP		7	prep	7	prep
+9	_»	"	PONCT	PONCT		8	ponct	8	ponct
+10	,	,	PONCT	PONCT		8	ponct	8	ponct
+11	son	son	DET	DET	n=s|g=m|p=3|poss=s	13	det	13	det
+12	futur	futur	ADJ	ADJ	n=s|g=m	13	mod	13	mod
+13	coéquipier	coéquipier	NC	NC	n=s|g=m	2	obj	2	obj
+14	au	à	P+D	P+D	n=s|g=m	2	mod	2	mod
+15	Paris	Paris	NPP	NPP	n=s|g=m	14	prep	14	prep
+16	SG	_	NPP	NPP		15	mod	15	mod
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+1	il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	aidera	aider	V	V	n=s|t=F|p=3	0	root	0	root
+3	grandement	_	ADV	ADV		2	mod	2	mod
+4	les	les	DET	DET	n=p	5	det	5	det
+5	Bleuets	bleuet	NC	NC	n=p|g=m	2	obj	2	obj
+6	à	à	P	P		2	mod	2	mod
+7	remporter	remporter	VINF	VINF	t=W	6	prep	6	prep
+8	l'	le	DET	DET	n=s	9	det	9	det
+9	Euro	_	NPP	NPP		7	obj	7	obj
+10	2016	2016	NC	NC		9	mod	9	mod
+11	U19	_	NPP	NPP		9	mod	9	mod
+12	en	en	P	P		7	mod	7	mod
+13	inscrivant	inscrire	VPR	VPR	t=G	12	prep	12	prep
+14	cinq	cinq	DET	DET	s=card|n=p	15	det	15	det
+15	buts	but	NC	NC	n=p|g=m	13	obj	13	obj
+16	en	en	P	P		13	mod	13	mod
+17	autant	autant	ADV	ADV		0	_	0	_
+18	de	de	P	P		0	_	0	_
+19	matchs	_	NC	NC		18	prep	18	prep
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	notamment	_	ADV	ADV		23	mod	23	mod
+22	un	un	DET	DET	n=s|g=m	23	det	23	det
+23	doublé	doublé	NC	NC	n=s|g=m	0	_	0	_
+24	contre	contre	P	P		23	dep	23	dep
+25	les	les	DET	DET	n=p	26	det	26	det
+26	Pays-Bas	Pays-Bas	NPP	NPP	n=p|g=m	24	prep	24	prep
+27	dans	dans	P	P		23	dep	23	dep
+28	un	un	DET	DET	n=s|g=m	29	det	29	det
+29	match	match	NC	NC	n=s|g=m	27	prep	27	prep
+30	couperet	couperet	NC	NC	n=s|g=m	29	mod	29	mod
+31	du	de	P+D	P+D	n=s|g=m	23	dep	23	dep
+32	Groupe	groupe	NC	NC	n=s|g=m	31	prep	31	prep
+33	B	_	NPP	NPP		32	mod	32	mod
+34	et	et	CC	CC		23	coord	23	coord
+35	surtout	surtout	ADV	ADV		34	mod	34	mod
+36	deux	deux	DET	DET	s=card|n=p	38	det	38	det
+37	autres	autre	ADJ	ADJ	n=p	38	mod	38	mod
+38	buts	but	NC	NC	n=p|g=m	34	dep_coord	34	dep_coord
+39	et	et	CC	CC		23	coord	23	coord
+40	une	une	DET	DET	n=s|g=f	41	det	41	det
+41	passe	passe	NC	NC	n=s	39	dep_coord	39	dep_coord
+42	décisive	décisif	ADJ	ADJ	n=s|g=f	41	mod	41	mod
+43	en	en	P	P		23	dep	23	dep
+44	demi-finale	demi-finale	NC	NC	n=s|g=f	43	prep	43	prep
+45	contre	contre	P	P		23	dep	23	dep
+46	le	le	DET	DET	n=s|g=m	47	det	47	det
+47	Portugal	Portugal	NPP	NPP	n=s|g=m	45	prep	45	prep
+48	(	(	PONCT	PONCT		47	ponct	47	ponct
+49	3-1	_	NPP	NPP		47	mod	47	mod
+50	)	)	PONCT	PONCT		49	ponct	49	ponct
+51	.	.	PONCT	PONCT		49	ponct	49	ponct
+
+</p><h4>
+1	Équipe	équipe	NC	NC	n=s|g=f	0	_	0	_
+2	de	de	P	P		1	dep	1	dep
+3	France	France	NPP	NPP	n=s|g=f,m	2	prep	2	prep
+4	A	_	NPP	NPP		3	mod	3	mod
+
+</h4><p>
+1	Le	le	DET	DET	n=s|g=m	3	det	3	det
+2	25	25	ADJ	ADJ		3	mod	3	mod
+3	mars	mars	NC	NC	g=m	28	suj	28	suj
+4	2017	2017	NC	NC		3	mod	3	mod
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	lors	lors	ADV	ADV		3	mod	3	mod
+7	d'	de	P	P		3	dep	3	dep
+8	un	un	DET	DET	n=s|g=m	9	det	9	det
+9	match	match	NC	NC	n=s|g=m	7	prep	7	prep
+10	de	de	P	P		9	dep	9	dep
+11	qualification	qualification	NC	NC	n=s|g=f	10	prep	10	prep
+12	pour	pour	P	P		9	dep	9	dep
+13	la	la	DET	DET	n=s|g=f	14	det	14	det
+14	Coupe	coupe	NC	NC	n=s|g=f	12	prep	12	prep
+15	du	de	P+D	P+D	n=s|g=m	14	dep	14	dep
+16	monde	monde	NC	NC	n=s|g=m	15	prep	15	prep
+17	2018	2018	ADJ	ADJ		16	mod	16	mod
+18	contre	contre	P	P		9	dep	9	dep
+19	le	le	DET	DET	n=s|g=m	20	det	20	det
+20	Luxembourg	Luxembourg	NPP	NPP	n=s|g=m	18	prep	18	prep
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	remporté	remporter	VPP	VPP	n=s|g=m|t=K	9	mod	9	mod
+23	3-1	_	NPP	NPP		22	mod	22	mod
+24	,	,	PONCT	PONCT		23	ponct	23	ponct
+25	Kylian	_	NPP	NPP		9	mod	9	mod
+26	Mbappé	_	NPP	NPP		9	mod	9	mod
+27	est	être	V	V	n=s|t=P|p=3	28	aux_tps	28	aux_tps
+28	titularisé	titulariser	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+29	pour	pour	P	P		28	mod	28	mod
+30	la	la	DET	DET	n=s|g=f	32	det	32	det
+31	première	premier	ADJ	ADJ	n=s|g=f	32	mod	32	mod
+32	fois	fois	NC	NC	g=f	29	prep	29	prep
+33	en	en	P	P		28	mod	28	mod
+34	équipe	équipe	NC	NC	n=s|g=f	33	prep	33	prep
+35	de	de	P	P		28	mod	28	mod
+36	France	France	NPP	NPP	n=s|g=f,m	35	prep	35	prep
+37	,	,	PONCT	PONCT		36	ponct	36	ponct
+38	devenant	devenir	VPR	VPR	t=G	28	mod	28	mod
+39	le	le	DET	DET	n=s|g=m	41	det	41	det
+40	premier	premier	ADJ	ADJ	n=s|g=m	41	mod	41	mod
+41	joueur	joueur	NC	NC	n=s|g=m	38	obj	38	obj
+42	né	naître	VPP	VPP	n=s|g=m|t=K	41	mod	41	mod
+43	après	après	P	P		42	mod	42	mod
+44	la	la	DET	DET	n=s|g=f	45	det	45	det
+45	victoire	victoire	NC	NC	n=s|g=f	43	prep	43	prep
+46	française	français	ADJ	ADJ	n=s|g=f	45	mod	45	mod
+47	de	de	P	P		42	mod	42	mod
+48	1998	1998	NC	NC		47	prep	47	prep
+49	à	à	P	P		42	mod	42	mod
+50	être	être	VINF	VINF	t=W	51	aux_tps	51	aux_tps
+51	sélectionné	sélectionner	VPP	VPP	n=s|g=m|t=K	49	prep	49	prep
+52	par	par	P	P		51	mod	51	mod
+53	cette	cette	DET	DET	n=s|g=f	54	det	54	det
+54	nation	nation	NC	NC	n=s|g=f	52	prep	52	prep
+55	,	,	PONCT	PONCT		54	ponct	54	ponct
+56	puis	_	ADV	ADV		0	_	0	_
+57	est	être	V	V	n=s|t=P|p=3	0	_	0	_
+58	à	à	P	P		57	mod	57	mod
+59	nouveau	nouveau	ADJ	ADJ	n=s|g=m	60	mod	60	mod
+60	titularisé	titulariser	VPP	VPP	n=s|g=m|t=K	58	prep	58	prep
+61	dans	dans	P	P		60	mod	60	mod
+62	un	un	DET	DET	n=s|g=m	63	det	63	det
+63	match	match	NC	NC	n=s|g=m	61	prep	61	prep
+64	amical	amical	ADJ	ADJ	n=s|g=m	63	mod	63	mod
+65	,	,	PONCT	PONCT		64	ponct	64	ponct
+66	perdu	perdre	VPP	VPP	n=s|g=m|t=K	63	mod	63	mod
+67	0-2	_	NPP	NPP		66	mod	66	mod
+68	,	,	PONCT	PONCT		67	ponct	67	ponct
+69	contre	contre	P	P		66	mod	66	mod
+70	l'	le	DET	DET	n=s	71	det	71	det
+71	Espagne	Espagne	NPP	NPP	n=s|g=f	69	prep	69	prep
+72	.	.	PONCT	PONCT		71	ponct	71	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	marque	marquer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	son	son	DET	DET	n=s|g=m|p=3|poss=s	5	det	5	det
+4	premier	premier	ADJ	ADJ	n=s|g=m	5	mod	5	mod
+5	but	but	NC	NC	n=s|g=m	2	obj	2	obj
+6	en	en	P	P		2	mod	2	mod
+7	Bleu	_	NPP	NPP		6	prep	6	prep
+8	le	le	DET	DET	n=s|g=m	9	det	9	det
+9	jour	jour	NC	NC	n=s|g=m	2	obj	2	obj
+10	de	de	P	P		9	dep	9	dep
+11	son	son	DET	DET	n=s|g=m|p=3|poss=s	12	det	12	det
+12	transfert	transfert	NC	NC	n=s|g=m	10	prep	10	prep
+13	au	à	P+D	P+D	n=s|g=m	12	dep	12	dep
+14	PSG	_	NPP	NPP		13	prep	13	prep
+15	lors	lors	ADV	ADV		2	mod	2	mod
+16	d'	de	P	P		2	mod	2	mod
+17	un	un	DET	DET	n=s|g=m	18	det	18	det
+18	match	match	NC	NC	n=s|g=m	16	prep	16	prep
+19	d'	de	P	P		18	dep	18	dep
+20	éliminatoires	éliminatoire	NC	NC	n=p|g=f	19	prep	19	prep
+21	de	de	P	P		2	mod	2	mod
+22	la	la	DET	DET	n=s|g=f	23	det	23	det
+23	Coupe	coupe	NC	NC	n=s|g=f	21	prep	21	prep
+24	du	de	P+D	P+D	n=s|g=m	23	dep	23	dep
+25	monde	monde	NC	NC	n=s|g=m	24	prep	24	prep
+26	2018	2018	ADJ	ADJ		25	mod	25	mod
+27	contre	contre	P	P		2	mod	2	mod
+28	les	les	DET	DET	n=p	29	det	29	det
+29	Pays-Bas	Pays-Bas	NPP	NPP	n=p|g=m	27	prep	27	prep
+30	,	,	PONCT	PONCT		29	ponct	29	ponct
+31	contribuant	contribuer	VPR	VPR	t=G	2	mod	2	mod
+32	à	à	P	P		31	mod	31	mod
+33	la	la	DET	DET	n=s|g=f	35	det	35	det
+34	large	large	ADJ	ADJ	n=s	35	mod	35	mod
+35	victoire	victoire	NC	NC	n=s|g=f	32	prep	32	prep
+36	française	français	ADJ	ADJ	n=s|g=f	35	mod	35	mod
+37	4-0	_	NC	NC		35	mod	35	mod
+38	.	.	PONCT	PONCT		37	ponct	37	ponct
+
+</p><p>
+1	En	en	P	P		22	mod	22	mod
+2	mars	mars	NC	NC	g=m	1	prep	1	prep
+3	2018	2018	NC	NC		2	mod	2	mod
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	face	face	NC	NC	n=s|g=f	22	mod	22	mod
+6	à	à	P	P		5	dep	5	dep
+7	la	la	DET	DET	n=s|g=f	8	det	8	det
+8	Russie	Russie	NPP	NPP	n=s|g=f	6	prep	6	prep
+9	en	en	P	P		5	dep	5	dep
+10	match	match	NC	NC	n=s|g=m	9	prep	9	prep
+11	amical	amical	ADJ	ADJ	n=s|g=m	10	mod	10	mod
+12	de	de	P	P		5	dep	5	dep
+13	préparation	préparation	NC	NC	n=s|g=f	12	prep	12	prep
+14	pour	pour	P	P		5	dep	5	dep
+15	la	la	DET	DET	n=s|g=f	16	det	16	det
+16	Coupe	coupe	NC	NC	n=s|g=f	14	prep	14	prep
+17	du	de	P+D	P+D	n=s|g=m	16	dep	16	dep
+18	monde	monde	NC	NC	n=s|g=m	17	prep	17	prep
+19	2018	2018	ADJ	ADJ		18	mod	18	mod
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	Mbappé	_	NPP	NPP		22	suj	22	suj
+22	inscrit	inscrire	V	V	n=s|t=P|p=3	0	root	0	root
+23	un	un	DET	DET	n=s|g=m	24	det	24	det
+24	doublé	doublé	NC	NC	n=s|g=m	22	obj	22	obj
+25	et	et	CC	CC		22	coord	22	coord
+26	permet	permettre	V	V	n=s|t=P|p=3	25	dep_coord	25	dep_coord
+27	à	à	P	P		26	mod	26	mod
+28	une	une	DET	DET	n=s|g=f	29	det	29	det
+29	équipe	équipe	NC	NC	n=s|g=f	27	prep	27	prep
+30	globalement	_	ADV	ADV		31	mod	31	mod
+31	médiocre	médiocre	ADJ	ADJ	n=s	29	mod	29	mod
+32	de	de	P	P		26	mod	26	mod
+33	s'	se	CLR	CLR	n=p,s|p=3	0	_	0	_
+34	imposer	imposer	VINF	VINF	t=W	0	_	0	_
+35	3-1	_	NPP	NPP		34	obj	34	obj
+36	.	.	PONCT	PONCT		35	ponct	35	ponct
+
+1	Pour	pour	P	P		20	mod	20	mod
+2	son	son	DET	DET	n=s|g=m|p=3|poss=s	4	det	4	det
+3	dernier	dernier	ADJ	ADJ	n=s|g=m	4	mod	4	mod
+4	match	match	NC	NC	n=s|g=m	1	prep	1	prep
+5	de	de	P	P		4	dep	4	dep
+6	préparation	préparation	NC	NC	n=s|g=f	5	prep	5	prep
+7	à	à	P	P		4	dep	4	dep
+8	la	la	DET	DET	n=s|g=f	9	det	9	det
+9	coupe	coupe	NC	NC	n=s|g=f	7	prep	7	prep
+10	du	de	P+D	P+D	n=s|g=m	9	dep	9	dep
+11	monde	monde	NC	NC	n=s|g=m	10	prep	10	prep
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	contre	contre	P	P		20	mod	20	mod
+14	les	les	DET	DET	n=p	15	det	15	det
+15	États-Unis	États-Unis_d'Amérique	NPP	NPP	n=p|g=m	13	prep	13	prep
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	la	la	DET	DET	n=s|g=f	18	det	18	det
+18	France	France	NPP	NPP	n=s|g=f,m	20	suj	20	suj
+19	se	se	CLR	CLR	n=p,s|p=3	20	aff	20	aff
+20	montre	montrer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+21	inefficace	inefficace	ADJ	ADJ	n=s	20	ats	20	ats
+22	et	et	CC	CC		21	coord	21	coord
+23	stérile	stérile	ADJ	ADJ	n=s	22	dep_coord	22	dep_coord
+24	et	et	CC	CC		20	coord	20	coord
+25	n'	ne	ADV	ADV		26	mod	26	mod
+26	évite	éviter	V	V	n=s|t=P,S|p=1,3	24	dep_coord	24	dep_coord
+27	la	la	DET	DET	n=s|g=f	28	det	28	det
+28	défaite	défaite	NC	NC	n=s|g=f	26	obj	26	obj
+29	que	que	CS	CS		26	mod	26	mod
+30	grâce	grâce	NC	NC	n=s|g=f	0	_	0	_
+31	à	à	P	P		30	dep	30	dep
+32	Mbappé	_	NPP	NPP		31	prep	31	prep
+33	(	(	PONCT	PONCT		32	ponct	32	ponct
+34	1-1	_	NPP	NPP		32	mod	32	mod
+35	)	)	PONCT	PONCT		34	ponct	34	ponct
+36	.	.	PONCT	PONCT		34	ponct	34	ponct
+
+</p><p>
+1	Après	après	P	P		27	mod	27	mod
+2	un	un	DET	DET	n=s|g=m	5	det	5	det
+3	terne	terne	ADJ	ADJ	n=s	4	mod	4	mod
+4	premier	premier	ADJ	ADJ	n=s|g=m	5	mod	5	mod
+5	match	match	NC	NC	n=s|g=m	1	prep	1	prep
+6	en	en	P	P		5	dep	5	dep
+7	phase	phase	NC	NC	n=s|g=f	6	prep	6	prep
+8	de	de	P	P		5	dep	5	dep
+9	groupes	groupe	NC	NC	n=p|g=m	8	prep	8	prep
+10	face	face	NC	NC	n=s|g=f	9	mod	9	mod
+11	à	à	P	P		5	dep	5	dep
+12	l'	le	DET	DET	n=s	13	det	13	det
+13	Australie	Australie	NPP	NPP	n=s|g=f	11	prep	11	prep
+14	poussivement	_	ADV	ADV		15	mod	15	mod
+15	remporté	remporter	VPP	VPP	n=s|g=m|t=K	5	mod	5	mod
+16	2-1	_	NC	NC		15	mod	15	mod
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	où	où	PROREL	PROREL		20	mod	20	mod
+19	Mbappé	_	NPP	NPP		20	suj	20	suj
+20	multiplia	multiplier	V	V	n=s|t=J|p=3	5	mod_rel	5	mod_rel
+21	les	les	DET	DET	n=p	23	det	23	det
+22	mauvais	mauvais	ADJ	ADJ	g=m	23	mod	23	mod
+23	choix	choix	NC	NC	g=m	20	obj	20	obj
+24	,	,	PONCT	PONCT		23	ponct	23	ponct
+25	ce	ce	DET	DET	n=s|g=m	26	det	26	det
+26	dernier	dernier	ADJ	ADJ	n=s|g=m	27	suj	27	suj
+27	marque	marquer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+28	l'	le	DET	DET	n=s	30	det	30	det
+29	unique	unique	ADJ	ADJ	n=s	30	mod	30	mod
+30	but	but	NC	NC	n=s|g=m	27	obj	27	obj
+31	Tricolore	_	NPP	NPP		30	mod	30	mod
+32	contre	contre	P	P		27	mod	27	mod
+33	le	le	DET	DET	n=s|g=m	34	det	34	det
+34	Pérou	Pérou	NPP	NPP	n=s|g=m	32	prep	32	prep
+35	et	et	CC	CC		27	coord	27	coord
+36	,	,	PONCT	PONCT		35	ponct	35	ponct
+37	à	à	P	P		44	mod	44	mod
+38	19	19	ADJ	ADJ		39	mod	39	mod
+39	ans	an	NC	NC	n=p|g=m	37	prep	37	prep
+40	et	et	CC	CC		39	coord	39	coord
+41	183	183	ADJ	ADJ		42	mod	42	mod
+42	jours	jour	NC	NC	n=p|g=m	40	dep_coord	40	dep_coord
+43	,	,	PONCT	PONCT		42	ponct	42	ponct
+44	devient	devenir	V	V	n=s|t=P|p=3	35	dep_coord	35	dep_coord
+45	le	le	DET	DET	n=s|g=m	49	det	49	det
+46	neuvième	neuvième	ADJ	ADJ	n=s	49	mod	49	mod
+47	plus	plus	ADV	ADV		48	mod	48	mod
+48	jeune	jeune	ADJ	ADJ	n=s	49	mod	49	mod
+49	buteur	buteur	NC	NC	n=s|g=m	44	obj	44	obj
+50	d'	de	P	P		44	mod	44	mod
+51	une	une	DET	DET	n=s|g=f	52	det	52	det
+52	Coupe	coupe	NC	NC	n=s|g=f	50	prep	50	prep
+53	du	de	P+D	P+D	n=s|g=m	52	dep	52	dep
+54	monde	monde	NC	NC	n=s|g=m	53	prep	53	prep
+55	.	.	PONCT	PONCT		54	ponct	54	ponct
+
+</p><p>
+1	Après	après	P	P		40	mod	40	mod
+2	la	la	DET	DET	n=s|g=f	3	det	3	det
+3	qualification	qualification	NC	NC	n=s|g=f	1	prep	1	prep
+4	française	français	ADJ	ADJ	n=s|g=f	3	mod	3	mod
+5	issue	issir	VPP	VPP	n=s|g=f|t=K	3	mod	3	mod
+6	d'	de	P	P		5	mod	5	mod
+7	un	un	DET	DET	n=s|g=m	8	det	8	det
+8	match	match	NC	NC	n=s|g=m	6	prep	6	prep
+9	sans	sans	P	P		5	mod	5	mod
+10	histoire	histoire	NC	NC	n=s|g=f	9	prep	9	prep
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	si	si	CS	CS		40	mod	40	mod
+13	ce	ce	CLS	CLS		15	suj	15	suj
+14	n'	ne	ADV	ADV		15	mod	15	mod
+15	est	être	V	V	n=s|t=P|p=3	12	sub	12	sub
+16	l'	le	DET	DET	n=s	17	det	17	det
+17	interruption	interruption	NC	NC	n=s|g=f	15	obj	15	obj
+18	d'	de	P	P		15	mod	15	mod
+19	une	une	DET	DET	n=s|g=f	20	det	20	det
+20	série	série	NC	NC	n=s|g=f	18	prep	18	prep
+21	record	record	NC	NC	n=s|g=m	20	mod	20	mod
+22	de	de	P	P		15	mod	15	mod
+23	37	37	NC	NC		22	prep	22	prep
+24	matchs	_	NC	NC		23	mod	23	mod
+25	de	de	P	P		15	mod	15	mod
+26	Coupe	coupe	NC	NC	n=s|g=f	25	prep	25	prep
+27	avec	avec	P	P		15	mod	15	mod
+28	au	à	P+D	P+D	n=s|g=m	27	prep	27	prep
+29	moins	moins	ADV	ADV		31	mod	31	mod
+30	un	un	DET	DET	n=s|g=m	31	det	31	det
+31	but	but	NC	NC	n=s|g=m	28	prep	28	prep
+32	marqué	marquer	ADJ	ADJ	n=s|g=m|t=K	31	mod	31	mod
+33	,	,	PONCT	PONCT		32	ponct	32	ponct
+34	contre	contre	P	P		15	mod	15	mod
+35	le	le	DET	DET	n=s|g=m	36	det	36	det
+36	Danemark	Danemark	NPP	NPP	n=s|g=m	34	prep	34	prep
+37	,	,	PONCT	PONCT		36	ponct	36	ponct
+38	Kylian	_	NPP	NPP		40	suj	40	suj
+39	Mbappé	_	NPP	NPP		38	mod	38	mod
+40	livre	livrer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+41	une	une	DET	DET	n=s|g=f	42	det	42	det
+42	prestation	prestation	NC	NC	n=s|g=f	40	obj	40	obj
+43	complète	complet	ADJ	ADJ	n=s|g=f	42	mod	42	mod
+44	face	face	NC	NC	n=s|g=f	42	mod	42	mod
+45	à	à	P	P		40	mod	40	mod
+46	l'	le	DET	DET	n=s	47	det	47	det
+47	Argentine	Argentine	NPP	NPP	n=s|g=f	45	prep	45	prep
+48	en	en	P	P		40	mod	40	mod
+49	huitième	huitième	ADJ	ADJ	n=s	48	prep	48	prep
+50	de	de	P	P		40	mod	40	mod
+51	finale	final	ADJ	ADJ	n=s|g=f	50	prep	50	prep
+52	,	,	PONCT	PONCT		51	ponct	51	ponct
+53	faisant	faire	VPR	VPR	t=G	40	mod	40	mod
+54	totalement	_	ADV	ADV		53	mod	53	mod
+55	déjouer	déjouer	VINF	VINF	t=W	53	obj	53	obj
+56	la	la	DET	DET	n=s|g=f	57	det	57	det
+57	défense	défense	NC	NC	n=s|g=f	55	obj	55	obj
+58	argentine	argentin	ADJ	ADJ	n=s|g=f	57	mod	57	mod
+59	pour	pour	P	P		55	mod	55	mod
+60	marquer	marquer	VINF	VINF	t=W	59	prep	59	prep
+61	un	un	DET	DET	n=s|g=m	62	det	62	det
+62	doublé	doublé	NC	NC	n=s|g=m	60	obj	60	obj
+63	.	.	PONCT	PONCT		62	ponct	62	ponct
+
+1	Face	face	NC	NC	n=s|g=f	16	mod	16	mod
+2	à	à	P	P		1	dep	1	dep
+3	un	un	DET	DET	n=s|g=m	4	det	4	det
+4	Uruguay	Uruguay	NPP	NPP	n=s|g=m	2	prep	2	prep
+5	privé	priver	ADJ	ADJ	n=s|g=m|t=K	4	mod	4	mod
+6	d'	de	P	P		1	dep	1	dep
+7	Edinson	_	NPP	NPP		6	prep	6	prep
+8	Cavani	_	NPP	NPP		7	mod	7	mod
+9	en	en	P	P		1	dep	1	dep
+10	quarts	quart	NC	NC	n=p|g=m	9	prep	9	prep
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	les	les	DET	DET	n=p	13	det	13	det
+13	accélérations	accélération	NC	NC	n=p|g=f	16	suj	16	suj
+14	de	de	P	P		13	dep	13	dep
+15	Mbappé	_	NPP	NPP		14	prep	14	prep
+16	mettent	mettre	V	V	n=p|t=P,S|p=3	0	root	0	root
+17	encore	encore	ADV	ADV		16	mod	16	mod
+18	à	à	P	P		16	mod	16	mod
+19	mal	mal	ADV	ADV		18	mod	18	mod
+20	la	la	DET	DET	n=s|g=f	21	det	21	det
+21	défense	défense	NC	NC	n=s|g=f	18	prep	18	prep
+22	adverse	adverse	ADJ	ADJ	n=s	21	mod	21	mod
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	mais	mais	CC	CC		16	coord	16	coord
+25	il	il	CLS	CLS	n=s|g=m|p=3	27	suj	27	suj
+26	n'	ne	ADV	ADV		27	mod	27	mod
+27	inscrit	inscrire	V	V	n=s|t=P|p=3	24	dep_coord	24	dep_coord
+28	pas	pas	ADV	ADV		27	mod	27	mod
+29	de	de	P	P		27	mod	27	mod
+30	but	but	NC	NC	n=s|g=m	29	prep	29	prep
+31	et	et	CC	CC		27	coord	27	coord
+32	se	se	CLR	CLR	n=p,s|p=3	33	aff	33	aff
+33	démarque	démarquer	V	V	n=s|t=P,S|p=1,3	31	dep_coord	31	dep_coord
+34	surtout	surtout	ADV	ADV		33	mod	33	mod
+35	en	en	P	P		33	mod	33	mod
+36	tombant	tomber	VPR	VPR	t=G	35	prep	35	prep
+37	sur	sur	P	P		36	mod	36	mod
+38	un	un	DET	DET	n=s|g=m	40	det	40	det
+39	léger	léger	ADJ	ADJ	n=s|g=m	40	mod	40	mod
+40	contact	contact	NC	NC	n=s|g=m	37	prep	37	prep
+41	avec	avec	P	P		36	mod	36	mod
+42	un	un	DET	DET	n=s|g=m	43	det	43	det
+43	uruguayen	uruguayen	NC	NC	n=s|g=m	41	prep	41	prep
+44	,	,	PONCT	PONCT		43	ponct	43	ponct
+45	ce	ce	PRO	PRO	n=s	36	mod	36	mod
+46	qui	qui	PROREL	PROREL	n=s	47	suj	47	suj
+47	provoque	provoquer	V	V	n=s|t=P,S|p=1,3	45	mod_rel	45	mod_rel
+48	une	une	DET	DET	n=s|g=f	49	det	49	det
+49	embrouille	embrouille	NC	NC	n=s|g=f	47	obj	47	obj
+50	générale	général	ADJ	ADJ	n=s|g=f	49	mod	49	mod
+51	entre	entre	P	P		47	mod	47	mod
+52	les	les	DET	DET	n=p	54	det	54	det
+53	22	22	ADJ	ADJ		54	mod	54	mod
+54	joueurs	joueur	NC	NC	n=p|g=m	51	prep	51	prep
+55	.	.	PONCT	PONCT		54	ponct	54	ponct
+
+</p><p>
+1	Face	face	NC	NC	n=s|g=f	11	mod	11	mod
+2	à	à	P	P		1	dep	1	dep
+3	la	la	DET	DET	n=s|g=f	4	det	4	det
+4	Belgique	Belgique	NPP	NPP	n=s|g=f	2	prep	2	prep
+5	en	en	P	P		1	dep	1	dep
+6	demi-finale	demi-finale	NC	NC	n=s|g=f	5	prep	5	prep
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	Kylian	_	NPP	NPP		11	suj	11	suj
+9	Mbappé	_	NPP	NPP		8	mod	8	mod
+10	n'	ne	ADV	ADV		11	mod	11	mod
+11	améliore	améliorer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+12	pas	pas	ADV	ADV		11	mod	11	mod
+13	ses	ses	DET	DET	n=p|p=3|poss=s	14	det	14	det
+14	statistiques	statistique	NC	NC	n=p|g=f	11	obj	11	obj
+15	mais	mais	CC	CC		11	coord	11	coord
+16	n'	ne	ADV	ADV		18	mod	18	mod
+17	en	en	CLO	CLO		18	aff	18	aff
+18	réalise	réaliser	V	V	n=s|t=P,S|p=1,3	15	dep_coord	15	dep_coord
+19	pas	pas	ADV	ADV		18	mod	18	mod
+20	moins	moins	ADV	ADV		18	mod	18	mod
+21	une	une	DET	DET	n=s|g=f	22	det	22	det
+22	prestation	prestation	NC	NC	n=s|g=f	18	obj	18	obj
+23	remarquable	remarquable	ADJ	ADJ	n=s	22	mod	22	mod
+24	,	,	PONCT	PONCT		23	ponct	23	ponct
+25	mettant	mettre	VPR	VPR	t=G	18	mod	18	mod
+26	au	à	P+D	P+D	n=s|g=m	25	mod	25	mod
+27	supplice	supplice	NC	NC	n=s|g=m	26	prep	26	prep
+28	les	les	DET	DET	n=p	29	det	29	det
+29	défenseurs	défenseur	NC	NC	n=p|g=m	25	obj	25	obj
+30	belges	belge	ADJ	ADJ	n=p	29	mod	29	mod
+31	avec	avec	P	P		25	mod	25	mod
+32	un	un	DET	DET	n=s|g=m	34	det	34	det
+33	beau	beau	ADJ	ADJ	n=s|g=m	34	mod	34	mod
+34	centre	centre	NC	NC	n=s|g=m	31	prep	31	prep
+35	pour	pour	P	P		25	mod	25	mod
+36	Olivier	Olivier	NPP	NPP	n=s|g=m	35	prep	35	prep
+37	Giroud	_	NPP	NPP		36	mod	36	mod
+38	,	,	PONCT	PONCT		37	ponct	37	ponct
+39	qui	qui	PROREL	PROREL	n=s	41	suj	41	suj
+40	a	avoir	V	V	n=s|t=P|p=3	41	aux_tps	41	aux_tps
+41	loupé	louper	VPP	VPP	n=s|g=m|t=K	36	mod_rel	36	mod_rel
+42	son	son	DET	DET	n=s|g=m|p=3|poss=s	43	det	43	det
+43	face-à-face	face-à-face	NC	NC	g=m	41	obj	41	obj
+44	avec	avec	P	P		41	mod	41	mod
+45	Courtois	_	NPP	NPP		44	prep	44	prep
+46	,	,	PONCT	PONCT		45	ponct	45	ponct
+47	et	et	CC	CC		18	coord	18	coord
+48	un	un	DET	DET	n=s|g=m	49	det	49	det
+49	décalage	décalage	NC	NC	n=s|g=m	0	_	0	_
+50	pour	pour	P	P		49	dep	49	dep
+51	Pavard	_	NPP	NPP		50	prep	50	prep
+52	lui	lui	PRO	PRO	n=s|g=m|p=3	0	_	0	_
+53	aussi	aussi	ADV	ADV		54	mod	54	mod
+54	tenu	tenir	VPP	VPP	n=s|g=m|t=K	52	mod	52	mod
+55	en	en	P	P		54	mod	54	mod
+56	échec	échec	NC	NC	n=s|g=m	55	prep	55	prep
+57	par	par	P	P		54	mod	54	mod
+58	le	le	DET	DET	n=s|g=m	59	det	59	det
+59	gardien	gardien	NC	NC	n=s|g=m	57	prep	57	prep
+60	belge	belge	ADJ	ADJ	n=s	59	mod	59	mod
+61	.	.	PONCT	PONCT		60	ponct	60	ponct
+
+</p><p>
+1	En	en	P	P		17	mod	17	mod
+2	finale	final	ADJ	ADJ	n=s|g=f	4	mod	4	mod
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	face	face	NC	NC	n=s|g=f	1	prep	1	prep
+5	à	à	P	P		4	dep	4	dep
+6	la	la	DET	DET	n=s|g=f	7	det	7	det
+7	Croatie	Croatie	NPP	NPP	n=s|g=f	5	prep	5	prep
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	Mbappé	_	NPP	NPP		17	suj	17	suj
+10	place	place	NC	NC	n=s|g=f	9	mod	9	mod
+11	à	à	P	P		9	dep	9	dep
+12	nouveau	nouveau	ADJ	ADJ	n=s|g=m	11	prep	11	prep
+13	des	de	P+D	P+D	n=p	9	dep	9	dep
+14	accélérations	accélération	NC	NC	n=p|g=f	13	prep	13	prep
+15	redoutables	redoutable	ADJ	ADJ	n=p	14	mod	14	mod
+16	et	et	CC	CC		9	coord	9	coord
+17	distribue	distribuer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+18	de	de	DET	DET	n=p	20	det	20	det
+19	bons	bon	ADJ	ADJ	n=p|g=m	20	mod	20	mod
+20	ballons	ballon	NC	NC	n=p|g=m	17	obj	17	obj
+21	au	à	P+D	P+D	n=s|g=m	17	mod	17	mod
+22	reste	rester	V	V	n=s|t=P,S|p=1,3	17	mod	17	mod
+23	de	de	P	P		22	mod	22	mod
+24	l'	le	DET	DET	n=s	25	det	25	det
+25	attaque	attaque	NC	NC	n=s|g=f	23	prep	23	prep
+26	française	français	ADJ	ADJ	n=s|g=f	25	mod	25	mod
+27	.	.	PONCT	PONCT		26	ponct	26	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	centre	centrer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	sur	sur	P	P		2	mod	2	mod
+4	Griezmann	_	NPP	NPP		3	prep	3	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	qui	qui	PROREL	PROREL	n=s	7	suj	7	suj
+7	trouve	trouver	V	V	n=s|t=P,S|p=1,3	2	mod	2	mod
+8	Paul	Paul	NPP	NPP	n=s|g=m	7	suj	7	suj
+9	Pogba	_	NPP	NPP		8	mod	8	mod
+10	qui	qui	PROREL	PROREL	n=s	11	suj	11	suj
+11	marque	marquer	V	V	n=s|t=P,S|p=1,3	8	mod_rel	8	mod_rel
+12	le	le	DET	DET	n=s|g=m	14	det	14	det
+13	troisième	troisième	ADJ	ADJ	n=s	14	mod	14	mod
+14	but	but	NC	NC	n=s|g=m	11	obj	11	obj
+15	des	de	P+D	P+D	n=p	14	dep	14	dep
+16	Français	français	NC	NC	g=m	15	prep	15	prep
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+1	Enfin	enfin	ADV	ADV		5	mod	5	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	Mbappé	_	NPP	NPP		5	suj	5	suj
+4	est	être	V	V	n=s|t=P|p=3	5	aux_tps	5	aux_tps
+5	servi	servir	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+6	aux	à	P+D	P+D	n=p	5	mod	5	mod
+7	seize	seize	ADJ	ADJ	s=card|n=p	8	mod	8	mod
+8	mètres	mètre	NC	NC	n=p|g=m	6	prep	6	prep
+9	et	et	CC	CC		5	coord	5	coord
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	d'	de	P	P		19	mod	19	mod
+12	une	une	DET	DET	n=s|g=f	13	det	13	det
+13	frappe	frappe	NC	NC	n=s|g=f	11	prep	11	prep
+14	pleine	plein	ADJ	ADJ	n=s|g=f	13	mod	13	mod
+15	de	de	P	P		13	dep	13	dep
+16	sang	sang	NC	NC	n=s|g=m	15	prep	15	prep
+17	froid	froid	ADJ	ADJ	n=s|g=m	16	mod	16	mod
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	marque	marquer	V	V	n=s|t=P,S|p=1,3	9	dep_coord	9	dep_coord
+20	le	le	DET	DET	n=s|g=m	22	det	22	det
+21	quatrième	quatrième	ADJ	ADJ	n=s	22	mod	22	mod
+22	but	but	NC	NC	n=s|g=m	19	obj	19	obj
+23	bleu	bleu	ADJ	ADJ	n=s|g=m	22	mod	22	mod
+24	de	de	P	P		19	mod	19	mod
+25	la	la	DET	DET	n=s|g=f	26	det	26	det
+26	finale	final	ADJ	ADJ	n=s|g=f	24	prep	24	prep
+27	qui	qui	PROREL	PROREL	n=s	29	suj	29	suj
+28	se	se	CLR	CLR	n=p,s|p=3	29	aff	29	aff
+29	termine	terminer	V	V	n=s|t=P,S|p=1,3	26	mod_rel	26	mod_rel
+30	sur	sur	P	P		29	mod	29	mod
+31	le	le	DET	DET	n=s|g=m	32	det	32	det
+32	score	score	NC	NC	n=s|g=m	30	prep	30	prep
+33	de	de	P	P		29	mod	29	mod
+34	4-2	_	NC	NC		33	prep	33	prep
+35	.	.	PONCT	PONCT		34	ponct	34	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	0	_	0	_
+2	se	se	CLR	CLR	n=p,s|p=3	0	_	0	_
+3	voit	voir	V	V	n=s|t=P|p=3	0	_	0	_
+4	alors	alors	ADV	ADV		3	mod	3	mod
+5	décerner	décerner	VINF	VINF	t=W	3	obj	3	obj
+6	le	le	DET	DET	n=s|g=m	7	det	7	det
+7	trophée	trophée	NC	NC	n=s|g=m	5	obj	5	obj
+8	du	de	P+D	P+D	n=s|g=m	5	mod	5	mod
+9	meilleur	meilleur	ADJ	ADJ	n=s|g=m	10	mod	10	mod
+10	jeune	jeune	ADJ	ADJ	n=s	8	prep	8	prep
+11	de	de	P	P		5	mod	5	mod
+12	la	la	DET	DET	n=s|g=f	13	det	13	det
+13	Coupe	coupe	NC	NC	n=s|g=f	11	prep	11	prep
+14	du	de	P+D	P+D	n=s|g=m	13	dep	13	dep
+15	monde	monde	NC	NC	n=s|g=m	14	prep	14	prep
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+</p><h2>
+1	Style	style	NC	NC	n=s|g=m	0	_	0	_
+2	de	de	P	P		1	dep	1	dep
+3	jeu	jeu	NC	NC	n=s|g=m	2	prep	2	prep
+4	et	et	CC	CC		1	coord	1	coord
+5	personnalité	personnalité	NC	NC	n=s|g=f	4	dep_coord	4	dep_coord
+
+</h2><p>
+1	Kylian	_	NPP	NPP		3	suj	3	suj
+2	Mbappé	_	NPP	NPP		1	mod	1	mod
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	un	un	DET	DET	n=s|g=m	9	suj	9	suj
+5	attaquant	attaquer	VPR	VPR	t=G	6	aux_pass	6	aux_pass
+6	excentré	excentrer	VPP	VPP	n=s|g=m|t=K	4	mod	4	mod
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	qui	qui	PROREL	PROREL	n=s	9	suj	9	suj
+9	peut	pouvoir	V	V	n=s|t=P|p=3	3	mod	3	mod
+10	éliminer	éliminer	VINF	VINF	t=W	9	obj	9	obj
+11	ses	ses	DET	DET	n=p|p=3|poss=s	0	_	0	_
+12	vis-à-vis	vis-à-vis	P	P		0	_	0	_
+13	et	et	CC	CC		12	coord	12	coord
+14	semer	semer	VINF	VINF	t=W	13	dep_coord	13	dep_coord
+15	la	la	DET	DET	n=s|g=f	16	det	16	det
+16	pagaille	pagaille	NC	NC	n=s|g=f	14	obj	14	obj
+17	dans	dans	P	P		14	mod	14	mod
+18	la	la	DET	DET	n=s|g=f	19	det	19	det
+19	moitié	moitié	NC	NC	n=s|g=f	17	prep	17	prep
+20	de	de	P	P		14	mod	14	mod
+21	terrain	terrain	NC	NC	n=s|g=m	20	prep	20	prep
+22	adverse	adverse	ADJ	ADJ	n=s	21	mod	21	mod
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+1	Cet	cet	DET	DET	n=s|g=m	3	det	3	det
+2	excellent	excellent	ADJ	ADJ	n=s|g=m	3	mod	3	mod
+3	passeur	passeur	NC	NC	n=s|g=m	4	suj	4	suj
+4	pratique	pratiquer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+5	un	un	DET	DET	n=s|g=m	7	det	7	det
+6	beau	beau	ADJ	ADJ	n=s|g=m	7	mod	7	mod
+7	jeu	jeu	NC	NC	n=s|g=m	4	obj	4	obj
+8	balle	balle	NC	NC	n=s|g=f	7	mod	7	mod
+9	au	à	P+D	P+D	n=s|g=m	4	mod	4	mod
+10	pied	pied	NC	NC	n=s	9	prep	9	prep
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+1	Fortement	_	ADV	ADV		2	mod	2	mod
+2	loué	louer	VPP	VPP	n=s|g=m|t=K	0	_	0	_
+3	pour	pour	P	P		2	mod	2	mod
+4	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	5	det	5	det
+5	vitesse	vitesse	NC	NC	n=s|g=f	3	prep	3	prep
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	qu'	que	CS	CS		2	mod	2	mod
+8	il	il	CLS	CLS	n=s|g=m|p=3	9	suj	9	suj
+9	produit	produire	V	V	n=s|t=P|p=3	7	sub	7	sub
+10	grâce	grâce	NC	NC	n=s|g=f	9	obj	9	obj
+11	à	à	P	P		9	mod	9	mod
+12	des	des	DET	DET	n=p	13	det	13	det
+13	mouvements	mouvement	NC	NC	n=p|g=m	11	prep	11	prep
+14	similaires	similaire	ADJ	ADJ	n=p	13	mod	13	mod
+15	à	à	P	P		9	mod	9	mod
+16	ceux	ceux	PRO	PRO	n=p|g=m	15	prep	15	prep
+17	de	de	P	P		9	mod	9	mod
+18	coureurs	coureur	NC	NC	n=p|g=m	17	prep	17	prep
+19	professionnels	professionnel	ADJ	ADJ	n=p|g=m	18	mod	18	mod
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	Mbappé	_	NPP	NPP		0	_	0	_
+22	est	être	V	V	n=s|t=P|p=3	0	_	0	_
+23	capable	capable	ADJ	ADJ	n=s	22	ats	22	ats
+24	de	de	P	P		22	obj	22	obj
+25	trouver	trouver	VINF	VINF	t=W	24	prep	24	prep
+26	le	le	DET	DET	n=s|g=m	28	det	28	det
+27	bon	bon	ADJ	ADJ	n=s|g=m	28	mod	28	mod
+28	timing	timing	NC	NC	n=s|g=m	25	obj	25	obj
+29	contrairement	_	ADV	ADV		25	mod	25	mod
+30	à	à	P	P		25	mod	25	mod
+31	beaucoup	beaucoup	ADV	ADV		30	mod	30	mod
+32	d'	de	DET	DET	n=p	34	det	34	det
+33	autres	autre	ADJ	ADJ	n=p	34	mod	34	mod
+34	joueurs	joueur	NC	NC	n=p|g=m	30	prep	30	prep
+35	rapides	rapide	ADJ	ADJ	n=p	34	mod	34	mod
+36	.	.	PONCT	PONCT		35	ponct	35	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	3	suj	3	suj
+2	se	se	CLR	CLR	n=p,s|p=3	3	aff	3	aff
+3	montre	montrer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	également	_	ADV	ADV		3	mod	3	mod
+5	capable	capable	ADJ	ADJ	n=s	3	ats	3	ats
+6	d'	de	P	P		3	mod	3	mod
+7	analyser	analyser	VINF	VINF	t=W	6	prep	6	prep
+8	rapidement	_	ADV	ADV		7	mod	7	mod
+9	son	son	DET	DET	n=s|g=m|p=3|poss=s	10	det	10	det
+10	adversaire	adversaire	NC	NC	n=s	7	obj	7	obj
+11	et	et	CC	CC		3	coord	3	coord
+12	de	de	P	P		11	dep_coord	11	dep_coord
+13	produire	produire	VINF	VINF	t=W	12	prep	12	prep
+14	les	les	DET	DET	n=p	15	det	15	det
+15	appels	appel	NC	NC	n=p|g=m	13	obj	13	obj
+16	adéquats	adéquat	ADJ	ADJ	n=p|g=m	15	mod	15	mod
+17	pour	pour	P	P		13	mod	13	mod
+18	le	le	CLO	CLO	n=s|g=m|p=3	19	obj	19	obj
+19	battre	battre	VINF	VINF	t=W	17	prep	17	prep
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+</p><p>
+1	Mbappé	_	NPP	NPP		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	un	un	DET	DET	n=s|g=m	5	det	5	det
+4	bon	bon	ADJ	ADJ	n=s|g=m	5	mod	5	mod
+5	dribbleur	dribbleur	NC	NC	n=s|g=m	2	obj	2	obj
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	capable	capable	ADJ	ADJ	n=s	5	mod	5	mod
+8	de	de	P	P		5	dep	5	dep
+9	changer	changer	VINF	VINF	t=W	8	prep	8	prep
+10	de	de	P	P		9	mod	9	mod
+11	rythme	rythme	NC	NC	n=s|g=m	10	prep	10	prep
+12	en	en	P	P		9	mod	9	mod
+13	pleine	plein	ADJ	ADJ	n=s|g=f	14	mod	14	mod
+14	course	course	NC	NC	n=s|g=f	12	prep	12	prep
+15	ou	ou	CC	CC		12	coord	12	coord
+16	à	à	P	P		15	dep_coord	15	dep_coord
+17	l'	le	DET	DET	n=s	18	det	18	det
+18	arrêt	arrêt	NC	NC	n=s|g=m	16	prep	16	prep
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	fait	faire	V	V	n=s|t=P|p=3	0	root	0	root
+3	généralement	_	ADV	ADV		2	mod	2	mod
+4	une	une	DET	DET	n=s|g=f	5	det	5	det
+5	feinte	feinte	NC	NC	n=s|g=f	2	obj	2	obj
+6	puis	puis	CC	CC		2	coord	2	coord
+7	place	placer	V	V	n=s|t=P,S|p=1,3	6	dep_coord	6	dep_coord
+8	une	une	DET	DET	n=s|g=f	9	det	9	det
+9	accélération	accélération	NC	NC	n=s|g=f	7	obj	7	obj
+10	pour	pour	P	P		7	mod	7	mod
+11	prendre	prendre	VINF	VINF	t=W	10	prep	10	prep
+12	l'	le	DET	DET	n=s	13	det	13	det
+13	adversaire	adversaire	NC	NC	n=s	11	obj	11	obj
+14	au	à	P+D	P+D	n=s|g=m	11	mod	11	mod
+15	dépourvu	dépourvoir	ADJ	ADJ	n=s|g=m|t=K	14	prep	14	prep
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+1	Aimant	aimer	VPR	VPR	t=G	9	mod	9	mod
+2	jouer	jouer	VINF	VINF	t=W	1	obj	1	obj
+3	en	en	P	P		2	mod	2	mod
+4	passes	passe	NC	NC	n=p	3	prep	3	prep
+5	courtes	court	ADJ	ADJ	n=p|g=f	4	mod	4	mod
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	il	il	CLS	CLS	n=s|g=m|p=3	9	suj	9	suj
+8	est	être	V	V	n=s|t=P|p=3	9	aux_tps	9	aux_tps
+9	décrit	décrire	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+10	comme	comme	P	P		9	mod	9	mod
+11	un	un	DET	DET	n=s|g=m	12	det	12	det
+12	joueur	joueur	NC	NC	n=s|g=m	10	prep	10	prep
+13	complet	complet	ADJ	ADJ	n=s|g=m	12	mod	12	mod
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	très	très	ADV	ADV		16	mod	16	mod
+16	rapide	rapide	ADJ	ADJ	n=s	12	mod	12	mod
+17	à	à	P	P		9	mod	9	mod
+18	l'	le	DET	DET	n=s	19	det	19	det
+19	exécution	exécution	NC	NC	n=s|g=f	17	prep	17	prep
+20	mais	mais	CC	CC		9	coord	9	coord
+21	également	_	ADV	ADV		22	mod	22	mod
+22	doué	douer	VPP	VPP	n=s|g=m|t=K	20	dep_coord	20	dep_coord
+23	techniquement	_	ADV	ADV		22	mod	22	mod
+24	,	,	PONCT	PONCT		23	ponct	23	ponct
+25	deux	deux	DET	DET	s=card|n=p	26	det	26	det
+26	qualités	qualité	NC	NC	n=p|g=f	22	obj	22	obj
+27	qui	qui	PROREL	PROREL	n=s	30	suj	30	suj
+28	ne	ne	ADV	ADV		30	mod	30	mod
+29	sont	être	V	V	n=p|t=P|p=3	30	aux_pass	30	aux_pass
+30	réunies	réunir	VPP	VPP	n=p|g=f|t=K	26	mod_rel	26	mod_rel
+31	que	que	CS	CS		30	mod	30	mod
+32	par	par	P	P		31	sub	31	sub
+33	quelques	quelques	DET	DET	n=p	34	det	34	det
+34	autres	autres	PRO	PRO	n=p|g=f,m	32	prep	32	prep
+35	comme	comme	P	P		34	dep	34	dep
+36	le	le	DET	DET	n=s|g=m	38	det	38	det
+37	légendaire	légendaire	ADJ	ADJ	n=s	38	mod	38	mod
+38	Brésilien	_	NPP	NPP		35	prep	35	prep
+39	Ronaldo	Ronaldo	NPP	NPP	n=s|g=m	38	mod	38	mod
+40	.	.	PONCT	PONCT		39	ponct	39	ponct
+
+</p><p>
+1	Mbappé	_	NPP	NPP		2	suj	2	suj
+2	peut	pouvoir	V	V	n=s|t=P|p=3	0	root	0	root
+3	s'	se	CLR	CLR	n=p,s|p=3	4	aff	4	aff
+4	adapter	adapter	VINF	VINF	t=W	2	obj	2	obj
+5	à	à	P	P		4	mod	4	mod
+6	beaucoup	beaucoup	ADV	ADV		8	mod	8	mod
+7	de	de	P	P		8	det	8	det
+8	situations	situation	NC	NC	n=p|g=f	5	prep	5	prep
+9	sur	sur	P	P		4	mod	4	mod
+10	le	le	DET	DET	n=s|g=m	11	det	11	det
+11	terrain	terrain	NC	NC	n=s|g=m	9	prep	9	prep
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	même	même	ADV	ADV		2	mod	2	mod
+14	qu'	que	CS	CS		2	mod	2	mod
+15	il	il	CLS	CLS	n=s|g=m|p=3	19	suj	19	suj
+16	n'	ne	ADV	ADV		19	mod	19	mod
+17	a	avoir	V	V	n=s|t=P|p=3	19	aux_tps	19	aux_tps
+18	jamais	jamais	ADV	ADV		19	mod	19	mod
+19	vécues	vivre	VPP	VPP	n=p|g=f|t=K	14	sub	14	sub
+20	auparavant	auparavant	ADV	ADV		19	mod	19	mod
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	mais	mais	CC	CC		19	coord	19	coord
+23	aussi	aussi	ADV	ADV		22	mod	22	mod
+24	à	à	P	P		22	dep_coord	22	dep_coord
+25	l'	le	DET	DET	n=s	26	det	26	det
+26	équipe	équipe	NC	NC	n=s|g=f	24	prep	24	prep
+27	qui	qui	PROREL	PROREL	n=s	29	suj	29	suj
+28	l'	le	CLO	CLO	n=s|p=3	29	obj	29	obj
+29	entoure	entourer	V	V	n=s|t=P,S|p=1,3	26	mod_rel	26	mod_rel
+30	,	,	PONCT	PONCT		29	ponct	29	ponct
+31	comme	comme	CS	CS		2	mod	2	mod
+32	en	en	CLO	CLO		33	obj	33	obj
+33	témoigne	témoigner	V	V	n=s|t=P,S|p=1,3	31	sub	31	sub
+34	une	une	DET	DET	n=s|g=f	35	det	35	det
+35	passe	passe	NC	NC	n=s	33	suj	33	suj
+36	vers	vers	P	P		33	mod	33	mod
+37	Edinson	_	NPP	NPP		36	prep	36	prep
+38	Cavani	_	NPP	NPP		37	mod	37	mod
+39	alors	alors	ADV	ADV		33	mod	33	mod
+40	que	que	CS	CS		33	mod	33	mod
+41	ce	ce	DET	DET	n=s|g=m	42	det	42	det
+42	dernier	dernier	ADJ	ADJ	n=s|g=m	47	suj	47	suj
+43	,	,	PONCT	PONCT		42	ponct	42	ponct
+44	Mbappé	_	NPP	NPP		42	mod	42	mod
+45	et	et	CC	CC		44	coord	44	coord
+46	Neymar	_	NPP	NPP		45	dep_coord	45	dep_coord
+47	étaient	être	V	V	n=p|t=I|p=3	40	sub	40	sub
+48	tous	tout	PRO	PRO	n=p|g=m	47	mod	47	mod
+49	trois	trois	DET	DET	s=card|n=p	50	det	50	det
+50	présents	présent	ADJ	ADJ	n=p|g=m	47	mod	47	mod
+51	dans	dans	P	P		47	mod	47	mod
+52	la	la	DET	DET	n=s|g=f	53	det	53	det
+53	surface	surface	NC	NC	n=s|g=f	51	prep	51	prep
+54	du	de	P+D	P+D	n=s|g=m	47	mod	47	mod
+55	Bayern	_	NPP	NPP		54	prep	54	prep
+56	Munich	Munich	NPP	NPP	n=s|g=m	55	mod	55	mod
+57	.	.	PONCT	PONCT		56	ponct	56	ponct
+
+1	Quand	quand	CS	CS		0	_	0	_
+2	ses	ses	DET	DET	n=p|p=3|poss=s	3	det	3	det
+3	coéquipiers	coéquipier	NC	NC	n=p|g=m	4	suj	4	suj
+4	sont	être	V	V	n=p|t=P|p=3	1	sub	1	sub
+5	plus	plus	ADV	ADV		4	mod	4	mod
+6	individualistes	individualiste	ADJ	ADJ	n=p	4	ats	4	ats
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	Mbappé	_	NPP	NPP		0	_	0	_
+9	veille	veille	NC	NC	n=s|g=f	8	mod	8	mod
+10	à	à	P	P		0	_	0	_
+11	souder	souder	VINF	VINF	t=W	10	prep	10	prep
+12	le	le	DET	DET	n=s|g=m	13	det	13	det
+13	collectif	collectif	ADJ	ADJ	n=s|g=m	11	obj	11	obj
+14	de	de	P	P		11	mod	11	mod
+15	l'	le	DET	DET	n=s	16	det	16	det
+16	équipe	équipe	NC	NC	n=s|g=f	14	prep	14	prep
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+</p><p>
+1	Kylian	_	NPP	NPP		5	suj	5	suj
+2	Mbappé	_	NPP	NPP		1	mod	1	mod
+3	est	être	V	V	n=s|t=P|p=3	5	aux_tps	5	aux_tps
+4	fréquemment	_	ADV	ADV		5	mod	5	mod
+5	loué	louer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+6	pour	pour	P	P		5	mod	5	mod
+7	son	son	DET	DET	n=s|g=m|p=3|poss=s	9	det	9	det
+8	étonnante	étonnant	ADJ	ADJ	n=s|g=f	9	mod	9	mod
+9	maturité	maturité	NC	NC	n=s|g=f	6	prep	6	prep
+10	et	et	CC	CC		5	coord	5	coord
+11	sens	sens	NC	NC	g=m	10	dep_coord	10	dep_coord
+12	de	de	P	P		5	mod	5	mod
+13	l'	le	DET	DET	n=s	14	det	14	det
+14	auto-critique	_	NC	NC		12	prep	12	prep
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+1	Ainsi	ainsi	ADV	ADV		4	mod	4	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	alors	alors	ADV	ADV		4	mod	4	mod
+4	que	que	CS	CS		0	root	0	root
+5	la	la	DET	DET	n=s|g=f	6	det	6	det
+6	totalité	totalité	NC	NC	n=s|g=f	11	suj	11	suj
+7	de	de	P	P		6	dep	6	dep
+8	ses	ses	DET	DET	n=p|p=3|poss=s	9	det	9	det
+9	coéquipiers	coéquipier	NC	NC	n=p|g=m	7	prep	7	prep
+10	avaient	avoir	V	V	n=p|t=I|p=3	11	aux_tps	11	aux_tps
+11	sorti	sortir	VPP	VPP	n=s|g=m|t=K	4	sub	4	sub
+12	leur	leur	DET	DET	n=s|p=3|poss=p	13	det	13	det
+13	téléphone	téléphone	NC	NC	n=s|g=m	11	obj	11	obj
+14	portable	portable	ADJ	ADJ	n=s	13	mod	13	mod
+15	en	en	P	P		11	mod	11	mod
+16	célébrant	célébrer	VPR	VPR	t=G	15	prep	15	prep
+17	le	le	DET	DET	n=s|g=m	18	det	18	det
+18	titre	titre	NC	NC	n=s|g=m	16	obj	16	obj
+19	de	de	P	P		16	mod	16	mod
+20	l'	le	DET	DET	n=s	21	det	21	det
+21	AS	as	NC	NC	g=m	19	prep	19	prep
+22	Monaco	Monaco	NPP	NPP	n=s|g=m	21	mod	21	mod
+23	en	en	P	P		16	mod	16	mod
+24	Ligue	_	NPP	NPP		23	prep	23	prep
+25	1	1	NC	NC		24	mod	24	mod
+26	,	,	PONCT	PONCT		25	ponct	25	ponct
+27	Mbappé	_	NPP	NPP		32	suj	32	suj
+28	ne	ne	ADV	ADV		32	mod	32	mod
+29	l'	le	CLO	CLO	n=s|p=3	32	obj	32	obj
+30	a	avoir	V	V	n=s|t=P|p=3	32	aux_tps	32	aux_tps
+31	pas	pas	ADV	ADV		32	mod	32	mod
+32	fait	faire	VPP	VPP	n=s|g=m|t=K	4	root	4	root
+33	,	,	PONCT	PONCT		32	ponct	32	ponct
+34	n'	ne	ADV	ADV		32	mod	32	mod
+35	y	y	CLO	CLO		36	aff	36	aff
+36	voyant	voir	VPR	VPR	t=G	32	mod	32	mod
+37	pas	pas	ADV	ADV		36	mod	36	mod
+38	l'	le	DET	DET	n=s	39	det	39	det
+39	utilité	utilité	NC	NC	n=s|g=f	36	obj	36	obj
+40	et	et	CC	CC		36	coord	36	coord
+41	préférant	préférer	VPR	VPR	t=G	40	dep_coord	40	dep_coord
+42	vivre	vivre	VINF	VINF	t=W	41	obj	41	obj
+43	la	la	DET	DET	n=s|g=f	44	det	44	det
+44	fête	fête	NC	NC	n=s|g=f	42	obj	42	obj
+45	telle	tel	ADJ	ADJ	n=s|g=f	44	mod	44	mod
+46	qu'	que	PROREL	PROREL		48	obj	48	obj
+47	elle	elle	CLS	CLS	n=s|g=f|p=3	48	suj	48	suj
+48	est	être	V	V	n=s|t=P|p=3	44	mod_rel	44	mod_rel
+49	.	.	PONCT	PONCT		48	ponct	48	ponct
+
+1	Capable	capable	ADJ	ADJ	n=s	0	_	0	_
+2	d'	de	P	P		1	mod	1	mod
+3	utiliser	utiliser	VINF	VINF	t=W	2	prep	2	prep
+4	une	une	DET	DET	n=s|g=f	6	det	6	det
+5	double	double	ADJ	ADJ	n=s	6	mod	6	mod
+6	personnalité	personnalité	NC	NC	n=s|g=f	3	obj	3	obj
+7	de	de	P	P		6	dep	6	dep
+8	joueur	joueur	NC	NC	n=s|g=m	7	prep	7	prep
+9	professionnel	professionnel	ADJ	ADJ	n=s|g=m	8	mod	8	mod
+10	mature	mature	ADJ	ADJ	n=s	8	mod	8	mod
+11	et	et	CC	CC		2	coord	2	coord
+12	de	de	P	P		11	dep_coord	11	dep_coord
+13	gamin	gamin	NC	NC	n=s|g=m	12	prep	12	prep
+14	de	de	P	P		13	dep	13	dep
+15	banlieue	banlieue	NC	NC	n=s|g=f	14	prep	14	prep
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	il	il	CLS	CLS	n=s|g=m|p=3	0	_	0	_
+18	célèbre	célèbre	ADJ	ADJ	n=s	0	_	0	_
+19	sobrement	_	ADV	ADV		18	mod	18	mod
+20	son	son	DET	DET	n=s|g=m|p=3|poss=s	21	det	21	det
+21	titre	titre	NC	NC	n=s|g=m	0	_	0	_
+22	de	de	P	P		21	dep	21	dep
+23	champion	champion	NC	NC	n=s|g=m	22	prep	22	prep
+24	du	de	P+D	P+D	n=s|g=m	21	dep	21	dep
+25	monde	monde	NC	NC	n=s|g=m	24	prep	24	prep
+26	2018	2018	ADJ	ADJ		25	mod	25	mod
+27	,	,	PONCT	PONCT		26	ponct	26	ponct
+28	tenant	tenir	VPR	VPR	t=G	21	mod	21	mod
+29	notamment	_	ADV	ADV		28	mod	28	mod
+30	à	à	P	P		28	mod	28	mod
+31	ne	ne	ADV	ADV		34	mod	34	mod
+32	pas	pas	ADV	ADV		34	mod	34	mod
+33	s'	se	CLR	CLR	n=p,s|p=3	34	obj	34	obj
+34	arrêter	arrêter	VINF	VINF	t=W	30	prep	30	prep
+35	à	à	P	P		34	mod	34	mod
+36	ce	ce	DET	DET	n=s|g=m	37	det	37	det
+37	titre	titre	NC	NC	n=s|g=m	35	prep	35	prep
+38	et	et	CC	CC		30	coord	30	coord
+39	à	à	P	P		38	dep_coord	38	dep_coord
+40	se	se	CLR	CLR	n=p,s|p=3	41	aff	41	aff
+41	remettre	remettre	VINF	VINF	t=W	39	prep	39	prep
+42	au	à	P+D	P+D	n=s|g=m	41	a_obj	41	a_obj
+43	travail	travail	NC	NC	n=s|g=m	42	prep	42	prep
+44	pour	pour	P	P		28	mod	28	mod
+45	glaner	glaner	VINF	VINF	t=W	44	prep	44	prep
+46	d'	de	DET	DET	n=p	48	det	48	det
+47	autres	autre	ADJ	ADJ	n=p	48	mod	48	mod
+48	succès	succès	NC	NC	g=m	45	obj	45	obj
+49	.	.	PONCT	PONCT		48	ponct	48	ponct
+
+</p><h2>
+1	Statistiques	statistique	NC	NC	n=p|g=f	0	_	0	_
+
+</h2><h3>
+1	En	en	P	P		0	_	0	_
+2	club	club	NC	NC	n=s|g=m	1	prep	1	prep
+
+</h3><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	tableau	tableau	NC	NC	n=s|g=m	4	suj	4	suj
+3	ci-dessous	ci-dessous	ADV	ADV		4	mod	4	mod
+4	résume	résumer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+5	les	les	DET	DET	n=p	6	det	6	det
+6	statistiques	statistique	NC	NC	n=p|g=f	4	obj	4	obj
+7	de	de	P	P		4	mod	4	mod
+8	Kylian	_	NPP	NPP		7	prep	7	prep
+9	Mbappé	_	NPP	NPP		8	mod	8	mod
+10	en	en	P	P		4	mod	4	mod
+11	club	club	NC	NC	n=s|g=m	10	prep	10	prep
+12	professionnel	professionnel	ADJ	ADJ	n=s|g=m	11	mod	11	mod
+13	mises	mettre	VPP	VPP	n=p|g=f|t=K	4	mod	4	mod
+14	à	à	P	P		13	mod	13	mod
+15	jour	jour	NC	NC	n=s|g=m	14	prep	14	prep
+16	le	le	DET	DET	n=s|g=m	18	det	18	det
+17	26	26	ADJ	ADJ		18	mod	18	mod
+18	septembre	septembre	NC	NC	n=s|g=m	13	mod	13	mod
+19	2018	2018	NC	NC		18	mod	18	mod
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+</p><h3>
+1	En	en	P	P		0	_	0	_
+2	sélection	sélection	NC	NC	n=s|g=f	1	prep	1	prep
+
+</h3><p>
+1	Kylian	_	NPP	NPP		4	suj	4	suj
+2	Mbappé	_	NPP	NPP		1	mod	1	mod
+3	a	avoir	V	V	n=s|t=P|p=3	4	aux_tps	4	aux_tps
+4	disputé	disputer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+5	deux	deux	DET	DET	s=card|n=p	6	det	6	det
+6	matches	match	NC	NC	n=p|g=m	4	obj	4	obj
+7	avec	avec	P	P		4	mod	4	mod
+8	la	la	DET	DET	n=s|g=f	9	det	9	det
+9	France	France	NPP	NPP	n=s|g=f,m	7	prep	7	prep
+10	U17	_	NPP	NPP		9	mod	9	mod
+11	contre	contre	P	P		4	mod	4	mod
+12	l'	le	DET	DET	n=s	13	det	13	det
+13	Ukraine	Ukraine	NPP	NPP	n=s|g=f	11	prep	11	prep
+14	et	et	CC	CC		4	coord	4	coord
+15	marqué	marquer	VPP	VPP	n=s|g=m|t=K	14	dep_coord	14	dep_coord
+16	sept	sept	DET	DET	s=card|n=p	17	det	17	det
+17	buts	but	NC	NC	n=p|g=m	15	mod	15	mod
+18	en	en	P	P		15	mod	15	mod
+19	onze	onze	DET	DET	s=card|n=p	20	det	20	det
+20	sélections	sélection	NC	NC	n=p|g=f	18	prep	18	prep
+21	avec	avec	P	P		15	mod	15	mod
+22	la	la	DET	DET	n=s|g=f	23	det	23	det
+23	France	France	NPP	NPP	n=s|g=f,m	21	prep	21	prep
+24	U19	_	NPP	NPP		23	mod	23	mod
+25	.	.	PONCT	PONCT		24	ponct	24	ponct
+
+1	Voici	voici	V	V		0	root	0	root
+2	un	un	DET	DET	n=s|g=m	3	det	3	det
+3	tableau	tableau	NC	NC	n=s|g=m	1	obj	1	obj
+4	résumant	résumer	VPR	VPR	t=G	3	mod	3	mod
+5	les	les	DET	DET	n=p	6	det	6	det
+6	statistiques	statistique	NC	NC	n=p|g=f	4	obj	4	obj
+7	de	de	P	P		4	mod	4	mod
+8	Mbappé	_	NPP	NPP		7	prep	7	prep
+9	en	en	P	P		4	mod	4	mod
+10	équipe	équipe	NC	NC	n=s|g=f	9	prep	9	prep
+11	de	de	P	P		4	mod	4	mod
+12	France	France	NPP	NPP	n=s|g=f,m	11	prep	11	prep
+13	senior	senior	NC	NC	n=s	12	mod	12	mod
+14	d'	de	P	P		4	mod	4	mod
+15	après	après	P	P		14	prep	14	prep
+16	la	la	DET	DET	n=s|g=f	17	det	17	det
+17	Fédération	fédération	NC	NC	n=s|g=f	15	prep	15	prep
+18	française	français	ADJ	ADJ	n=s|g=f	17	mod	17	mod
+19	de	de	P	P		4	mod	4	mod
+20	football	football	NC	NC	n=s|g=m	19	prep	19	prep
+21	:	:	PONCT	PONCT		20	ponct	20	ponct
+
+</p><h2>
+1	Palmarès	palmarès	NC	NC	g=m	0	_	0	_
+
+</h2><h3>
+1	En	en	P	P		0	_	0	_
+2	club	club	NC	NC	n=s|g=m	1	prep	1	prep
+
+</h3><p>
+1	Le	le	DET	DET	n=s|g=m	3	det	3	det
+2	premier	premier	ADJ	ADJ	n=s|g=m	3	mod	3	mod
+3	titre	titre	NC	NC	n=s|g=m	7	suj	7	suj
+4	de	de	P	P		3	dep	3	dep
+5	Kylian	_	NPP	NPP		4	prep	4	prep
+6	Mbappé	_	NPP	NPP		5	mod	5	mod
+7	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+8	la	la	DET	DET	n=s|g=f	9	det	9	det
+9	Coupe	coupe	NC	NC	n=s|g=f	7	obj	7	obj
+10	Gambardella	_	NPP	NPP		9	mod	9	mod
+11	2016	2016	NC	NC		9	mod	9	mod
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	remportée	remporter	VPP	VPP	n=s|g=f|t=K	9	mod	9	mod
+14	avec	avec	P	P		13	mod	13	mod
+15	l'	le	DET	DET	n=s	16	det	16	det
+16	AS	as	NC	NC	g=m	14	prep	14	prep
+17	Monaco	Monaco	NPP	NPP	n=s|g=m	16	mod	16	mod
+18	U19	_	NPP	NPP		16	mod	16	mod
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	termine	terminer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	ensuite	ensuite	ADV	ADV		2	mod	2	mod
+4	premier	premier	ADJ	ADJ	n=s|g=m	2	ats	2	ats
+5	de	de	P	P		2	mod	2	mod
+6	la	la	DET	DET	n=s|g=f	7	det	7	det
+7	Ligue	_	NPP	NPP		5	prep	5	prep
+8	1	1	ADJ	ADJ		9	mod	9	mod
+9	2016-2017	2016-2017	NC	NC		2	obj	2	obj
+10	avec	avec	P	P		2	mod	2	mod
+11	les	les	DET	DET	n=p	12	det	12	det
+12	Monégasques	_	NPP	NPP		10	prep	10	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	auteurs	auteur	NC	NC	n=p|g=m	12	mod	12	mod
+15	d'	de	P	P		2	mod	2	mod
+16	une	une	DET	DET	n=s|g=f	17	det	17	det
+17	saison	saison	NC	NC	n=s|g=f	15	prep	15	prep
+18	record	record	NC	NC	n=s|g=m	17	mod	17	mod
+19	avec	avec	P	P		2	mod	2	mod
+20	95	95	ADJ	ADJ		21	mod	21	mod
+21	points	point	NC	NC	n=p|g=m	19	prep	19	prep
+22	engrangés	engranger	VPP	VPP	n=p|g=m|t=K	21	mod	21	mod
+23	et	et	CC	CC		2	coord	2	coord
+24	107	107	ADJ	ADJ		25	mod	25	mod
+25	buts	but	NC	NC	n=p|g=m	0	_	0	_
+26	étalés	étaler	VPP	VPP	n=p|g=m|t=K	25	mod	25	mod
+27	sur	sur	P	P		26	mod	26	mod
+28	37	37	NC	NC		27	prep	27	prep
+29	des	de	P+D	P+D	n=p	26	mod	26	mod
+30	38	38	NC	NC		29	prep	29	prep
+31	matchs	_	ADV	ADV		30	mod	30	mod
+32	,	,	PONCT	PONCT		31	ponct	31	ponct
+33	et	et	CC	CC		25	coord	25	coord
+34	réalise	réaliser	V	V	n=s|t=P,S|p=1,3	33	dep_coord	33	dep_coord
+35	également	_	ADV	ADV		34	mod	34	mod
+36	une	une	DET	DET	n=s|g=f	38	det	38	det
+37	belle	beau	ADJ	ADJ	n=s|g=f	38	mod	38	mod
+38	aventure	aventure	NC	NC	n=s|g=f	34	obj	34	obj
+39	en	en	P	P		38	dep	38	dep
+40	Ligue	ligue	NC	NC	n=s|g=f	39	prep	39	prep
+41	des	de	P+D	P+D	n=p	34	mod	34	mod
+42	champions	champion	NC	NC	n=p|g=m	41	prep	41	prep
+43	stoppée	stopper	VPP	VPP	n=s|g=f|t=K	34	mod	34	mod
+44	en	en	P	P		43	mod	43	mod
+45	demi-finales	demi-finale	NC	NC	n=p|g=f	44	prep	44	prep
+46	par	par	P	P		43	mod	43	mod
+47	la	la	DET	DET	n=s|g=f	48	det	48	det
+48	Juventus	_	NPP	NPP		46	prep	46	prep
+49	de	de	P	P		43	mod	43	mod
+50	Turin	Turin	NPP	NPP	n=s|g=m	49	prep	49	prep
+51	.	.	PONCT	PONCT		50	ponct	50	ponct
+
+</p><p>
+1	Arrivé	arriver	VPP	VPP	n=s|g=m|t=K	7	mod	7	mod
+2	au	à	P+D	P+D	n=s|g=m	1	mod	1	mod
+3	Paris	Paris	NPP	NPP	n=s|g=m	2	prep	2	prep
+4	Saint-Germain	Saint-Germain	NPP	NPP	n=s|g=m	3	mod	3	mod
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	Mbappé	_	NPP	NPP		7	suj	7	suj
+7	étoffe	étoffer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+8	son	son	DET	DET	n=s|g=m|p=3|poss=s	9	det	9	det
+9	palmarès	palmarès	NC	NC	g=m	7	obj	7	obj
+10	d'	de	P	P		7	mod	7	mod
+11	une	une	DET	DET	n=s|g=f	13	det	13	det
+12	deuxième	deuxième	ADJ	ADJ	n=s	13	mod	13	mod
+13	Ligue	ligue	NC	NC	n=s|g=f	10	prep	10	prep
+14	1	1	ADJ	ADJ		13	mod	13	mod
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	consécutive	consécutif	ADJ	ADJ	n=s|g=f	13	mod	13	mod
+17	à	à	P	P		13	dep	13	dep
+18	celle	celle	PRO	PRO	n=s|g=f	17	prep	17	prep
+19	remporte	remporter	V	V	n=s|t=P,S|p=1,3	18	mod_rel	18	mod_rel
+20	avec	avec	P	P		19	mod	19	mod
+21	Monaco	Monaco	NPP	NPP	n=s|g=m	20	prep	20	prep
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+23	mais	mais	CC	CC		7	coord	7	coord
+24	aussi	aussi	ADV	ADV		23	mod	23	mod
+25	d'	de	P	P		23	dep_coord	23	dep_coord
+26	une	une	DET	DET	n=s|g=f	27	det	27	det
+27	Coupe	coupe	NC	NC	n=s|g=f	25	prep	25	prep
+28	de	de	P	P		27	dep	27	dep
+29	la	la	DET	DET	n=s|g=f	30	det	30	det
+30	Ligue	_	NPP	NPP		28	prep	28	prep
+31	et	et	CC	CC		25	coord	25	coord
+32	d'	de	P	P		31	dep_coord	31	dep_coord
+33	une	une	DET	DET	n=s|g=f	34	det	34	det
+34	Coupe	coupe	NC	NC	n=s|g=f	32	prep	32	prep
+35	de	de	P	P		34	dep	34	dep
+36	France	France	NPP	NPP	n=s|g=f,m	35	prep	35	prep
+37	.	.	PONCT	PONCT		36	ponct	36	ponct
+
+</p><h3>
+1	En	en	P	P		0	_	0	_
+2	sélection	sélection	NC	NC	n=s|g=f	1	prep	1	prep
+
+</h3><p>
+1	En	en	P	P		13	mod	13	mod
+2	équipe	équipe	NC	NC	n=s|g=f	1	prep	1	prep
+3	de	de	P	P		13	mod	13	mod
+4	France	France	NPP	NPP	n=s|g=f,m	3	prep	3	prep
+5	des	de	P+D	P+D	n=p	3	coord	3	coord
+6	moins	moins	ADV	ADV		13	mod	13	mod
+7	de	de	P	P		13	mod	13	mod
+8	19	19	ADJ	ADJ		9	mod	9	mod
+9	ans	an	NC	NC	n=p|g=m	7	prep	7	prep
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	Kylian	_	NPP	NPP		13	suj	13	suj
+12	Mbappé	_	NPP	NPP		11	mod	11	mod
+13	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+14	sacré	sacrer	ADJ	ADJ	n=s|g=m|t=K	15	mod	15	mod
+15	champion	champion	NC	NC	n=s|g=m	13	mod	13	mod
+16	d'	de	P	P		13	mod	13	mod
+17	Europe	Europe	NPP	NPP	n=s|g=f	16	prep	16	prep
+18	en	en	P	P		13	mod	13	mod
+19	2016	2016	NC	NC		18	prep	18	prep
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	fait	faire	V	V	n=s|t=P|p=3	0	root	0	root
+3	partie	partie	NC	NC	n=s|g=f	2	obj	2	obj
+4	de	de	P	P		2	mod	2	mod
+5	l'	le	DET	DET	n=s	6	det	6	det
+6	équipe	équipe	NC	NC	n=s|g=f	4	prep	4	prep
+7	de	de	P	P		2	mod	2	mod
+8	France	France	NPP	NPP	n=s|g=f,m	7	prep	7	prep
+9	A	_	NPP	NPP		8	mod	8	mod
+10	qui	qui	PROREL	PROREL	n=s	11	suj	11	suj
+11	remporte	remporter	V	V	n=s|t=P,S|p=1,3	2	mod	2	mod
+12	la	la	DET	DET	n=s|g=f	13	det	13	det
+13	Coupe	coupe	NC	NC	n=s|g=f	11	obj	11	obj
+14	du	de	P+D	P+D	n=s|g=m	13	dep	13	dep
+15	monde	monde	NC	NC	n=s|g=m	14	prep	14	prep
+16	2018	2018	ADJ	ADJ		15	mod	15	mod
+17	et	et	CC	CC		11	coord	11	coord
+18	totalise	totaliser	V	V	n=s|t=P,S|p=1,3	17	dep_coord	17	dep_coord
+19	22	22	ADJ	ADJ		20	mod	20	mod
+20	sélections	sélection	NC	NC	n=p|g=f	18	obj	18	obj
+21	pour	pour	P	P		18	mod	18	mod
+22	8	8	ADJ	ADJ		23	mod	23	mod
+23	buts	but	NC	NC	n=p|g=m	21	prep	21	prep
+24	avec	avec	P	P		18	mod	18	mod
+25	cette	cette	DET	DET	n=s|g=f	26	det	26	det
+26	équipe	équipe	NC	NC	n=s|g=f	24	prep	24	prep
+27	.	.	PONCT	PONCT		26	ponct	26	ponct
+
+</p><h3>
+1	Accomplissements	accomplissement	NC	NC	n=p|g=m	0	_	0	_
+2	personnels	personnel	NC	NC	n=p|g=m	1	mod	1	mod
+
+</h3><p>
+1	Kylian	_	NPP	NPP		5	suj	5	suj
+2	Mbappé	_	NPP	NPP		1	mod	1	mod
+3	a	avoir	V	V	n=s|t=P|p=3	5	aux_tps	5	aux_tps
+4	déjà	déjà	ADV	ADV		5	mod	5	mod
+5	reçu	recevoir	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+6	de	de	DET	DET	n=p	8	det	8	det
+7	nombreuses	nombreux	ADJ	ADJ	n=p|g=f	8	mod	8	mod
+8	distinctions	distinction	NC	NC	n=p|g=f	5	obj	5	obj
+9	individuelles	individuel	ADJ	ADJ	n=p|g=f	8	mod	8	mod
+10	:	:	PONCT	PONCT		9	ponct	9	ponct
+
+</p><p>
+1	Meilleur	meilleur	ADJ	ADJ	n=s|g=m	2	mod	2	mod
+2	espoir	espoir	NC	NC	n=s|g=m	0	_	0	_
+3	de	de	P	P		2	dep	2	dep
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	Ligue	_	NPP	NPP		3	prep	3	prep
+6	1	1	ADJ	ADJ		5	mod	5	mod
+7	2016-2017	2016-2017	NPP	NPP		2	mod	2	mod
+8	et	et	CC	CC		2	coord	2	coord
+9	2017-2018	2017-2018	NC	NC		8	dep_coord	8	dep_coord
+
+</p><p>
+1	Joueur	joueur	NC	NC	n=s|g=m	0	_	0	_
+2	du	de	P+D	P+D	n=s|g=m	1	dep	1	dep
+3	mois	mois	NC	NC	g=m	2	prep	2	prep
+4	de	de	P	P		1	dep	1	dep
+5	Ligue	_	NPP	NPP		4	prep	4	prep
+6	1	1	NC	NC		5	mod	5	mod
+7	en	en	P	P		1	dep	1	dep
+8	avril	avril	NC	NC	n=s|g=m	7	prep	7	prep
+9	2017	2017	NC	NC		8	mod	8	mod
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	mars	mars	NC	NC	g=m	0	_	0	_
+12	2018	2018	NC	NC		11	mod	11	mod
+13	et	et	CC	CC		11	coord	11	coord
+14	août	août	NC	NC	n=s|g=m	13	dep_coord	13	dep_coord
+15	2018	2018	NC	NC		14	mod	14	mod
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+</p><p>
+1	Septième	septième	ADJ	ADJ	n=s	0	_	0	_
+2	du	de	P+D	P+D	n=s|g=m	1	mod	1	mod
+3	Ballon	Ballon	NPP	NPP	n=s|g=m	2	prep	2	prep
+4	d'	de	P	P		1	mod	1	mod
+5	Or	_	NPP	NPP		4	prep	4	prep
+6	2017	2017	NC	NC		0	_	0	_
+
+</p><p>
+1	Membre	membre	NC	NC	n=s|g=m	0	_	0	_
+2	de	de	P	P		1	dep	1	dep
+3	la	la	DET	DET	n=s|g=f	4	det	4	det
+4	FIFA	_	NPP	NPP		2	prep	2	prep
+5	/	/	PONCT	PONCT		4	ponct	4	ponct
+6	FIFPro	_	NPP	NPP		4	mod	4	mod
+7	World	_	NPP	NPP		4	mod	4	mod
+8	XI	_	NPP	NPP		4	mod	4	mod
+9	2018	2018	NC	NC		4	mod	4	mod
+
+</p><p>
+1	Quatrième	quatrième	ADJ	ADJ	n=s	2	mod	2	mod
+2	Meilleur	meilleur	NC	NC	n=s|g=m	0	_	0	_
+3	footballeur	footballeur	NC	NC	n=s|g=m	2	mod	2	mod
+4	de	de	P	P		2	dep	2	dep
+5	l'	le	DET	DET	n=s	6	det	6	det
+6	année	année	NC	NC	n=s|g=f	4	prep	4	prep
+7	FIFA	_	NPP	NPP		6	mod	6	mod
+8	.	.	PONCT	PONCT		7	ponct	7	ponct
+
+</p><p>
+1	Meilleur	meilleur	ADJ	ADJ	n=s|g=m	2	mod	2	mod
+2	jeune	jeune	ADJ	ADJ	n=s	0	_	0	_
+3	de	de	P	P		2	mod	2	mod
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	Coupe	coupe	NC	NC	n=s|g=f	3	prep	3	prep
+6	du	de	P+D	P+D	n=s|g=m	5	dep	5	dep
+7	monde	monde	NC	NC	n=s|g=m	6	prep	6	prep
+8	2018	2018	NC	NC		7	mod	7	mod
+
+</p><p>
+1	Quatrième	quatrième	ADJ	ADJ	n=s	0	_	0	_
+2	au	à	P+D	P+D	n=s|g=m	1	mod	1	mod
+3	Ballon	Ballon	NPP	NPP	n=s|g=m	2	prep	2	prep
+4	d'	de	P	P		1	mod	1	mod
+5	Or	_	NPP	NPP		4	prep	4	prep
+6	2018	2018	NC	NC		0	_	0	_
+
+</p><p>
+1	Vainqueur	vainqueur	NC	NC	n=s|g=m	0	_	0	_
+2	du	de	P+D	P+D	n=s|g=m	1	dep	1	dep
+3	1er	_	ADJ	ADJ		4	mod	4	mod
+4	trophée	trophée	NC	NC	n=s|g=m	2	prep	2	prep
+5	Kopa	_	NPP	NPP		4	mod	4	mod
+6	en	en	P	P		1	dep	1	dep
+7	2018	2018	NC	NC		6	prep	6	prep
+8	du	de	P+D	P+D	n=s|g=m	1	dep	1	dep
+9	meilleur	meilleur	ADJ	ADJ	n=s|g=m	10	mod	10	mod
+10	U21	_	NC	NC		8	prep	8	prep
+
+</p><p>
+1	Meilleur	meilleur	ADJ	ADJ	n=s|g=m	2	mod	2	mod
+2	joueur	joueur	NC	NC	n=s|g=m	0	_	0	_
+3	français	français	ADJ	ADJ	g=m	2	mod	2	mod
+4	de	de	P	P		2	dep	2	dep
+5	l'	le	DET	DET	n=s	6	det	6	det
+6	année	année	NC	NC	n=s|g=f	4	prep	4	prep
+7	2018	2018	NC	NC		6	mod	6	mod
+8	d'	de	P	P		2	dep	2	dep
+9	après	après	P	P		8	prep	8	prep
+10	France	France	NPP	NPP	n=s|g=f,m	0	_	0	_
+11	Football	_	NPP	NPP		10	mod	10	mod
+
+</p><h4>
+1	Records	record	NC	NC	n=p|g=m	0	_	0	_
+
+</h4><p>
+1	Plus	plus	ADV	ADV		2	mod	2	mod
+2	jeune	jeune	ADJ	ADJ	n=s	3	mod	3	mod
+3	Français	français	NC	NC	g=m	0	root	0	root
+4	à	à	P	P		3	dep	3	dep
+5	disputer	disputer	VINF	VINF	t=W	4	prep	4	prep
+6	un	un	DET	DET	n=s|g=m	7	det	7	det
+7	match	match	NC	NC	n=s|g=m	5	obj	5	obj
+8	de	de	P	P		7	dep	7	dep
+9	Coupe	coupe	NC	NC	n=s|g=f	8	prep	8	prep
+10	du	de	P+D	P+D	n=s|g=m	5	mod	5	mod
+11	monde	monde	NC	NC	n=s|g=m	10	prep	10	prep
+12	(	(	PONCT	PONCT		11	ponct	11	ponct
+13	19	19	ADJ	ADJ		11	mod	11	mod
+14	ans	an	NC	NC	n=p|g=m	11	mod	11	mod
+15	et	et	CC	CC		3	coord	3	coord
+16	5	5	ADJ	ADJ		17	mod	17	mod
+17	mois	mois	NC	NC	g=m	15	dep_coord	15	dep_coord
+18	)	)	PONCT	PONCT		17	ponct	17	ponct
+
+</p><p>
+1	Plus	plus	ADV	ADV		2	mod	2	mod
+2	jeune	jeune	ADJ	ADJ	n=s	3	mod	3	mod
+3	Français	français	NC	NC	g=m	0	root	0	root
+4	à	à	P	P		3	dep	3	dep
+5	marquer	marquer	VINF	VINF	t=W	4	prep	4	prep
+6	en	en	P	P		5	mod	5	mod
+7	Coupe	coupe	NC	NC	n=s|g=f	6	prep	6	prep
+8	du	de	P+D	P+D	n=s|g=m	5	mod	5	mod
+9	monde	monde	NC	NC	n=s|g=m	8	prep	8	prep
+10	(	(	PONCT	PONCT		9	ponct	9	ponct
+11	19	19	ADJ	ADJ		9	mod	9	mod
+12	ans	an	NC	NC	n=p|g=m	9	mod	9	mod
+13	et	et	CC	CC		3	coord	3	coord
+14	6	6	ADJ	ADJ		15	mod	15	mod
+15	mois	mois	NC	NC	g=m	13	dep_coord	13	dep_coord
+16	)	)	PONCT	PONCT		15	ponct	15	ponct
+
+</p><p>
+1	Premier	premier	ADJ	ADJ	n=s|g=m	2	mod	2	mod
+2	joueur	joueur	NC	NC	n=s|g=m	0	_	0	_
+3	né	naître	VPP	VPP	n=s|g=m|t=K	2	mod	2	mod
+4	après	après	P	P		3	mod	3	mod
+5	la	la	DET	DET	n=s|g=f	6	det	6	det
+6	victoire	victoire	NC	NC	n=s|g=f	4	prep	4	prep
+7	de	de	P	P		3	mod	3	mod
+8	la	la	DET	DET	n=s|g=f	9	det	9	det
+9	France	France	NPP	NPP	n=s|g=f,m	7	prep	7	prep
+10	dans	dans	P	P		3	mod	3	mod
+11	la	la	DET	DET	n=s|g=f	12	det	12	det
+12	Coupe	coupe	NC	NC	n=s|g=f	10	prep	10	prep
+13	du	de	P+D	P+D	n=s|g=m	12	dep	12	dep
+14	monde	monde	NC	NC	n=s|g=m	13	prep	13	prep
+15	1998	1998	ADJ	ADJ		14	mod	14	mod
+16	à	à	P	P		3	mod	3	mod
+17	être	être	VINF	VINF	t=W	18	aux_tps	18	aux_tps
+18	sélectionné	sélectionner	VPP	VPP	n=s|g=m|t=K	16	prep	16	prep
+19	par	par	P	P		18	mod	18	mod
+20	cette	cette	DET	DET	n=s|g=f	21	det	21	det
+21	équipe	équipe	NC	NC	n=s|g=f	19	prep	19	prep
+
+</p><p>
+1	Premier	premier	ADJ	ADJ	n=s|g=m	2	mod	2	mod
+2	joueur	joueur	NC	NC	n=s|g=m	0	_	0	_
+3	né	naître	VPP	VPP	n=s|g=m|t=K	2	mod	2	mod
+4	après	après	P	P		3	mod	3	mod
+5	la	la	DET	DET	n=s|g=f	6	det	6	det
+6	victoire	victoire	NC	NC	n=s|g=f	4	prep	4	prep
+7	de	de	P	P		3	mod	3	mod
+8	la	la	DET	DET	n=s|g=f	9	det	9	det
+9	France	France	NPP	NPP	n=s|g=f,m	7	prep	7	prep
+10	en	en	P	P		3	mod	3	mod
+11	1998	1998	NC	NC		10	prep	10	prep
+12	à	à	P	P		3	mod	3	mod
+13	marquer	marquer	VINF	VINF	t=W	12	prep	12	prep
+14	en	en	P	P		13	mod	13	mod
+15	Coupe	coupe	NC	NC	n=s|g=f	14	prep	14	prep
+16	du	de	P+D	P+D	n=s|g=m	13	mod	13	mod
+17	monde	monde	NC	NC	n=s|g=m	16	prep	16	prep
+
+</p><p>
+1	Deuxième	deuxième	ADJ	ADJ	n=s	4	mod	4	mod
+2	plus	plus	ADV	ADV		3	mod	3	mod
+3	jeune	jeune	ADJ	ADJ	n=s	4	mod	4	mod
+4	joueur	joueur	NC	NC	n=s|g=m	0	root	0	root
+5	à	à	P	P		4	dep	4	dep
+6	marquer	marquer	VINF	VINF	t=W	5	prep	5	prep
+7	trois	trois	DET	DET	s=card|n=p	8	det	8	det
+8	buts	but	NC	NC	n=p|g=m	6	obj	6	obj
+9	en	en	P	P		6	mod	6	mod
+10	Coupe	coupe	NC	NC	n=s|g=f	9	prep	9	prep
+11	du	de	P+D	P+D	n=s|g=m	6	mod	6	mod
+12	monde	monde	NC	NC	n=s|g=m	11	prep	11	prep
+13	(	(	PONCT	PONCT		12	ponct	12	ponct
+14	19	19	ADJ	ADJ		12	mod	12	mod
+15	ans	an	NC	NC	n=p|g=m	12	mod	12	mod
+16	et	et	CC	CC		4	coord	4	coord
+17	6	6	ADJ	ADJ		18	mod	18	mod
+18	mois	mois	NC	NC	g=m	16	dep_coord	16	dep_coord
+19	)	)	PONCT	PONCT		18	ponct	18	ponct
+20	,	,	PONCT	PONCT		18	ponct	18	ponct
+21	derrière	derrière	P	P		0	_	0	_
+22	Pelé	_	NPP	NPP		21	prep	21	prep
+23	(	(	PONCT	PONCT		22	ponct	22	ponct
+24	17	17	ADJ	ADJ		25	mod	25	mod
+25	ans	an	NC	NC	n=p|g=m	0	_	0	_
+26	et	et	CC	CC		25	coord	25	coord
+27	8	8	ADJ	ADJ		28	mod	28	mod
+28	mois	mois	NC	NC	g=m	26	dep_coord	26	dep_coord
+29	)	)	PONCT	PONCT		28	ponct	28	ponct
+
+</p><p>
+1	Deuxième	deuxième	ADJ	ADJ	n=s	4	mod	4	mod
+2	plus	plus	ADV	ADV		3	mod	3	mod
+3	jeune	jeune	ADJ	ADJ	n=s	4	mod	4	mod
+4	joueur	joueur	NC	NC	n=s|g=m	0	root	0	root
+5	à	à	P	P		4	dep	4	dep
+6	marquer	marquer	VINF	VINF	t=W	5	prep	5	prep
+7	un	un	DET	DET	n=s|g=m	8	det	8	det
+8	doublé	doublé	NC	NC	n=s|g=m	6	obj	6	obj
+9	en	en	P	P		6	mod	6	mod
+10	Coupe	coupe	NC	NC	n=s|g=f	9	prep	9	prep
+11	du	de	P+D	P+D	n=s|g=m	6	mod	6	mod
+12	monde	monde	NC	NC	n=s|g=m	11	prep	11	prep
+13	(	(	PONCT	PONCT		12	ponct	12	ponct
+14	19	19	ADJ	ADJ		12	mod	12	mod
+15	ans	an	NC	NC	n=p|g=m	12	mod	12	mod
+16	et	et	CC	CC		4	coord	4	coord
+17	6	6	ADJ	ADJ		18	mod	18	mod
+18	mois	mois	NC	NC	g=m	16	dep_coord	16	dep_coord
+19	)	)	PONCT	PONCT		18	ponct	18	ponct
+20	,	,	PONCT	PONCT		18	ponct	18	ponct
+21	derrière	derrière	P	P		0	_	0	_
+22	Pelé	_	NPP	NPP		21	prep	21	prep
+23	(	(	PONCT	PONCT		22	ponct	22	ponct
+24	17	17	ADJ	ADJ		25	mod	25	mod
+25	ans	an	NC	NC	n=p|g=m	0	_	0	_
+26	et	et	CC	CC		25	coord	25	coord
+27	8	8	ADJ	ADJ		28	mod	28	mod
+28	mois	mois	NC	NC	g=m	26	dep_coord	26	dep_coord
+29	)	)	PONCT	PONCT		28	ponct	28	ponct
+
+</p><p>
+1	Joueur	joueur	NC	NC	n=s|g=m	0	_	0	_
+2	Français	_	NPP	NPP		1	mod	1	mod
+3	ayant	avoir	VPR	VPR	t=G	4	aux_tps	4	aux_tps
+4	tenté	tenter	VPP	VPP	n=s|g=m|t=K	1	mod	1	mod
+5	le	le	DET	DET	n=s|g=m	6	det	6	det
+6	plus	plus	ADV	ADV		4	mod	4	mod
+7	de	de	P	P		4	mod	4	mod
+8	dribbles	dribble	NC	NC	n=p|g=m	7	prep	7	prep
+9	en	en	P	P		4	mod	4	mod
+10	un	un	DET	DET	n=s|g=m	11	det	11	det
+11	match	match	NC	NC	n=s|g=m	9	prep	9	prep
+12	de	de	P	P		4	mod	4	mod
+13	Coupe	coupe	NC	NC	n=s|g=f	12	prep	12	prep
+14	du	de	P+D	P+D	n=s|g=m	4	mod	4	mod
+15	monde	monde	NC	NC	n=s|g=m	14	prep	14	prep
+16	depuis	depuis	P	P		4	mod	4	mod
+17	1966	1966	NC	NC		16	prep	16	prep
+18	(	(	PONCT	PONCT		17	ponct	17	ponct
+19	15	15	ADJ	ADJ		17	mod	17	mod
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	sept	sept	DET	DET	s=card|n=p	0	_	0	_
+22	réussis	réussir	ADJ	ADJ	n=p|g=m|t=K	0	_	0	_
+23	)	)	PONCT	PONCT		22	ponct	22	ponct
+
+</p><p>
+1	Deuxième	deuxième	ADJ	ADJ	n=s	4	mod	4	mod
+2	plus	plus	ADV	ADV		3	mod	3	mod
+3	jeune	jeune	ADJ	ADJ	n=s	4	mod	4	mod
+4	buteur	buteur	NC	NC	n=s|g=m	0	root	0	root
+5	d'	de	P	P		4	dep	4	dep
+6	une	une	DET	DET	n=s|g=f	7	det	7	det
+7	finale	final	ADJ	ADJ	n=s|g=f	5	prep	5	prep
+8	de	de	P	P		4	dep	4	dep
+9	Coupe	coupe	NC	NC	n=s|g=f	8	prep	8	prep
+10	du	de	P+D	P+D	n=s|g=m	4	dep	4	dep
+11	monde	monde	NC	NC	n=s|g=m	10	prep	10	prep
+12	(	(	PONCT	PONCT		11	ponct	11	ponct
+13	19	19	ADJ	ADJ		11	mod	11	mod
+14	ans	an	NC	NC	n=p|g=m	11	mod	11	mod
+15	et	et	CC	CC		4	coord	4	coord
+16	6	6	ADJ	ADJ		17	mod	17	mod
+17	mois	mois	NC	NC	g=m	15	dep_coord	15	dep_coord
+18	)	)	PONCT	PONCT		17	ponct	17	ponct
+19	,	,	PONCT	PONCT		17	ponct	17	ponct
+20	derrière	derrière	P	P		4	dep	4	dep
+21	Pelé	_	NPP	NPP		20	prep	20	prep
+22	(	(	PONCT	PONCT		21	ponct	21	ponct
+23	17	17	ADJ	ADJ		24	mod	24	mod
+24	ans	an	NC	NC	n=p|g=m	4	mod	4	mod
+25	et	et	CC	CC		24	coord	24	coord
+26	8	8	ADJ	ADJ		27	mod	27	mod
+27	mois	mois	NC	NC	g=m	25	dep_coord	25	dep_coord
+28	)	)	PONCT	PONCT		27	ponct	27	ponct
+
+</p><p>
+1	Deuxième	deuxième	ADJ	ADJ	n=s	4	mod	4	mod
+2	plus	plus	ADV	ADV		3	mod	3	mod
+3	jeune	jeune	ADJ	ADJ	n=s	4	mod	4	mod
+4	buteur	buteur	NC	NC	n=s|g=m	0	_	0	_
+5	Français	français	ADJ	ADJ	g=m	4	mod	4	mod
+6	en	en	P	P		4	dep	4	dep
+7	Ligue	ligue	NC	NC	n=s|g=f	6	prep	6	prep
+8	des	de	P+D	P+D	n=p	4	dep	4	dep
+9	champions	champion	NC	NC	n=p|g=m	8	prep	8	prep
+10	(	(	PONCT	PONCT		9	ponct	9	ponct
+11	18	18	ADJ	ADJ		12	mod	12	mod
+12	ans	an	NC	NC	n=p|g=m	4	mod	4	mod
+13	et	et	CC	CC		12	coord	12	coord
+14	5	5	ADJ	ADJ		15	mod	15	mod
+15	mois	mois	NC	NC	g=m	13	dep_coord	13	dep_coord
+16	)	)	PONCT	PONCT		15	ponct	15	ponct
+
+</p><p>
+1	Deuxième	deuxième	ADJ	ADJ	n=s	2	mod	2	mod
+2	joueur	joueur	NC	NC	n=s|g=m	0	root	0	root
+3	de	de	P	P		2	dep	2	dep
+4	football	football	NC	NC	n=s|g=m	3	prep	3	prep
+5	le	le	DET	DET	n=s|g=m	7	det	7	det
+6	plus	plus	ADV	ADV		7	mod	7	mod
+7	cher	cher	ADJ	ADJ	n=s|g=m	2	mod	2	mod
+8	de	de	P	P		2	dep	2	dep
+9	l'	le	DET	DET	n=s	10	det	10	det
+10	histoire	histoire	NC	NC	n=s|g=f	8	prep	8	prep
+11	(	(	PONCT	PONCT		10	ponct	10	ponct
+12	180	180	ADJ	ADJ		10	mod	10	mod
+13	millions	million	NC	NC	n=p	10	mod	10	mod
+14	d'	de	P	P		13	dep	13	dep
+15	euros	euro	NC	NC	n=p|g=m	14	prep	14	prep
+16	)	)	PONCT	PONCT		15	ponct	15	ponct
+
+</p><p>
+1	Plus	plus	ADV	ADV		2	mod	2	mod
+2	jeune	jeune	ADJ	ADJ	n=s	3	mod	3	mod
+3	joueur	joueur	NC	NC	n=s|g=m	0	root	0	root
+4	à	à	P	P		3	dep	3	dep
+5	marquer	marquer	VINF	VINF	t=W	4	prep	4	prep
+6	dix	dix	DET	DET	s=card|n=p	7	det	7	det
+7	buts	but	NC	NC	n=p|g=m	5	obj	5	obj
+8	en	en	P	P		5	mod	5	mod
+9	Ligue	ligue	NC	NC	n=s|g=f	8	prep	8	prep
+10	des	de	P+D	P+D	n=p	5	mod	5	mod
+11	champions	champion	NC	NC	n=p|g=m	10	prep	10	prep
+12	(	(	PONCT	PONCT		11	ponct	11	ponct
+13	18	18	ADJ	ADJ		11	mod	11	mod
+14	ans	an	NC	NC	n=p|g=m	11	mod	11	mod
+15	et	et	CC	CC		3	coord	3	coord
+16	11	11	ADJ	ADJ		17	mod	17	mod
+17	mois	mois	NC	NC	g=m	15	dep_coord	15	dep_coord
+18	)	)	PONCT	PONCT		17	ponct	17	ponct
+
+</p><p>
+1	Plus	plus	ADV	ADV		2	mod	2	mod
+2	jeune	jeune	ADJ	ADJ	n=s	3	mod	3	mod
+3	buteur	buteur	NC	NC	n=s|g=m	0	root	0	root
+4	de	de	P	P		3	dep	3	dep
+5	l'	le	DET	DET	n=s	6	det	6	det
+6	histoire	histoire	NC	NC	n=s|g=f	4	prep	4	prep
+7	des	de	P+D	P+D	n=p	3	dep	3	dep
+8	demi-finales	demi-finale	NC	NC	n=p|g=f	7	prep	7	prep
+9	de	de	P	P		3	dep	3	dep
+10	Ligue	ligue	NC	NC	n=s|g=f	9	prep	9	prep
+11	des	de	P+D	P+D	n=p	3	dep	3	dep
+12	champions	champion	NC	NC	n=p|g=m	11	prep	11	prep
+13	(	(	PONCT	PONCT		12	ponct	12	ponct
+14	18	18	ADJ	ADJ		15	mod	15	mod
+15	ans	an	NC	NC	n=p|g=m	3	mod	3	mod
+16	et	et	CC	CC		15	coord	15	coord
+17	4	4	ADJ	ADJ		18	mod	18	mod
+18	mois	mois	NC	NC	g=m	16	dep_coord	16	dep_coord
+19	)	)	PONCT	PONCT		18	ponct	18	ponct
+
+</p><p>
+1	Plus	plus	ADV	ADV		2	mod	2	mod
+2	jeune	jeune	ADJ	ADJ	n=s	3	mod	3	mod
+3	joueur	joueur	NC	NC	n=s|g=m	0	root	0	root
+4	à	à	P	P		3	dep	3	dep
+5	marquer	marquer	VINF	VINF	t=W	4	prep	4	prep
+6	un	un	DET	DET	n=s|g=m	7	det	7	det
+7	but	but	NC	NC	n=s|g=m	5	obj	5	obj
+8	de	de	P	P		5	mod	5	mod
+9	chaque	chaque	DET	DET	n=s	10	det	10	det
+10	pied	pied	NC	NC	n=s	8	prep	8	prep
+11	en	en	P	P		5	mod	5	mod
+12	quart	quart	NC	NC	n=s|g=m	11	prep	11	prep
+13	de	de	P	P		5	mod	5	mod
+14	finale	final	ADJ	ADJ	n=s|g=f	13	prep	13	prep
+15	de	de	P	P		5	mod	5	mod
+16	Ligue	ligue	NC	NC	n=s|g=f	15	prep	15	prep
+17	des	de	P+D	P+D	n=p	5	mod	5	mod
+18	champions	champion	NC	NC	n=p|g=m	17	prep	17	prep
+19	(	(	PONCT	PONCT		18	ponct	18	ponct
+20	18	18	ADJ	ADJ		18	mod	18	mod
+21	ans	an	NC	NC	n=p|g=m	18	mod	18	mod
+22	et	et	CC	CC		3	coord	3	coord
+23	3	3	ADJ	ADJ		24	mod	24	mod
+24	mois	mois	NC	NC	g=m	22	dep_coord	22	dep_coord
+25	)	)	PONCT	PONCT		24	ponct	24	ponct
+
+</p><p>
+1	Plus	plus	ADV	ADV		2	mod	2	mod
+2	jeune	jeune	ADJ	ADJ	n=s	3	mod	3	mod
+3	buteur	buteur	NC	NC	n=s|g=m	0	root	0	root
+4	du	de	P+D	P+D	n=s|g=m	3	dep	3	dep
+5	PSG	_	NPP	NPP		4	prep	4	prep
+6	en	en	P	P		3	dep	3	dep
+7	Ligue	ligue	NC	NC	n=s|g=f	6	prep	6	prep
+8	des	de	P+D	P+D	n=p	3	dep	3	dep
+9	champions	champion	NC	NC	n=p|g=m	8	prep	8	prep
+10	(	(	PONCT	PONCT		9	ponct	9	ponct
+11	18	18	ADJ	ADJ		12	mod	12	mod
+12	ans	an	NC	NC	n=p|g=m	3	mod	3	mod
+13	et	et	CC	CC		12	coord	12	coord
+14	8	8	ADJ	ADJ		15	mod	15	mod
+15	mois	mois	NC	NC	g=m	13	dep_coord	13	dep_coord
+16	)	)	PONCT	PONCT		15	ponct	15	ponct
+
+</p><p>
+1	Deuxième	deuxième	ADJ	ADJ	n=s	4	mod	4	mod
+2	plus	plus	ADV	ADV		3	mod	3	mod
+3	jeune	jeune	ADJ	ADJ	n=s	4	mod	4	mod
+4	buteur	buteur	NC	NC	n=s|g=m	0	root	0	root
+5	du	de	P+D	P+D	n=s|g=m	4	dep	4	dep
+6	PSG	_	NPP	NPP		5	prep	5	prep
+7	en	en	P	P		4	dep	4	dep
+8	Ligue	_	NPP	NPP		7	prep	7	prep
+9	1	1	NC	NC		4	mod	4	mod
+10	(	(	PONCT	PONCT		9	ponct	9	ponct
+11	18	18	ADJ	ADJ		12	mod	12	mod
+12	ans	an	NC	NC	n=p|g=m	4	mod	4	mod
+13	et	et	CC	CC		12	coord	12	coord
+14	8	8	ADJ	ADJ		15	mod	15	mod
+15	mois	mois	NC	NC	g=m	13	dep_coord	13	dep_coord
+16	)	)	PONCT	PONCT		15	ponct	15	ponct
+
+</p><p>
+1	Plus	plus	ADV	ADV		2	mod	2	mod
+2	jeune	jeune	ADJ	ADJ	n=s	3	mod	3	mod
+3	buteur	buteur	NC	NC	n=s|g=m	0	root	0	root
+4	pour	pour	P	P		3	dep	3	dep
+5	deux	deux	DET	DET	s=card|n=p	6	det	6	det
+6	clubs	club	NC	NC	n=p|g=m	4	prep	4	prep
+7	différents	différent	ADJ	ADJ	n=p|g=m	6	mod	6	mod
+8	en	en	P	P		3	dep	3	dep
+9	Ligue	ligue	NC	NC	n=s|g=f	8	prep	8	prep
+10	des	de	P+D	P+D	n=p	3	dep	3	dep
+11	champions	champion	NC	NC	n=p|g=m	10	prep	10	prep
+12	(	(	PONCT	PONCT		11	ponct	11	ponct
+13	18	18	ADJ	ADJ		14	mod	14	mod
+14	ans	an	NC	NC	n=p|g=m	3	mod	3	mod
+15	et	et	CC	CC		14	coord	14	coord
+16	8	8	ADJ	ADJ		17	mod	17	mod
+17	mois	mois	NC	NC	g=m	15	dep_coord	15	dep_coord
+18	)	)	PONCT	PONCT		17	ponct	17	ponct
+
+</p><h2>
+1	Revenus	revenu	NC	NC	n=p|g=m	0	_	0	_
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	sponsors	sponsor	NC	NC	n=p	1	mod	1	mod
+
+</h2><p>
+1	Kylian	_	NPP	NPP		3	suj	3	suj
+2	Mbappé	_	NPP	NPP		1	mod	1	mod
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	un	un	DET	DET	n=s|g=m	5	det	5	det
+5	personnage	personnage	NC	NC	n=s|g=m	3	obj	3	obj
+6	jouable	jouable	ADJ	ADJ	n=s	5	mod	5	mod
+7	dans	dans	P	P		3	mod	3	mod
+8	le	le	DET	DET	n=s|g=m	9	det	9	det
+9	jeu	jeu	NC	NC	n=s|g=m	7	prep	7	prep
+10	vidéo	vidéo	NC	NC	n=s	9	mod	9	mod
+11	FIFA	_	NPP	NPP		10	mod	10	mod
+12	18	18	ADJ	ADJ		11	mod	11	mod
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	dans	dans	P	P		3	mod	3	mod
+15	le	le	DET	DET	n=s|g=m	16	det	16	det
+16	mode	mode	NC	NC	n=s	14	prep	14	prep
+17	de	de	P	P		16	dep	16	dep
+18	jeu	jeu	NC	NC	n=s|g=m	17	prep	17	prep
+19	Ultimate	_	NPP	NPP		18	mod	18	mod
+20	Team	_	NPP	NPP		18	mod	18	mod
+21	.	.	PONCT	PONCT		20	ponct	20	ponct
+
+1	En	en	P	P		0	_	0	_
+2	2012	2012	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	alors	alors	ADV	ADV		5	mod	5	mod
+5	qu'	que	CS	CS		0	_	0	_
+6	il	il	CLS	CLS	n=s|g=m|p=3	8	suj	8	suj
+7	n'	ne	ADV	ADV		8	mod	8	mod
+8	est	être	V	V	n=s|t=P|p=3	5	sub	5	sub
+9	âgé	âgé	ADJ	ADJ	n=s|g=m	8	ats	8	ats
+10	que	que	CS	CS		8	mod	8	mod
+11	de	de	P	P		16	mod	16	mod
+12	14	14	ADJ	ADJ		13	mod	13	mod
+13	ans	an	NC	NC	n=p|g=m	11	prep	11	prep
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	Mbappé	_	NPP	NPP		16	suj	16	suj
+16	signe	signer	V	V	n=s|t=P,S|p=1,3	10	sub	10	sub
+17	son	son	DET	DET	n=s|g=m|p=3|poss=s	19	det	19	det
+18	premier	premier	ADJ	ADJ	n=s|g=m	19	mod	19	mod
+19	contrat	contrat	NC	NC	n=s|g=m	16	obj	16	obj
+20	et	et	CC	CC		16	coord	16	coord
+21	touche	toucher	V	V	n=s|t=P,S|p=1,3	20	dep_coord	20	dep_coord
+22	une	une	DET	DET	n=s|g=f	23	det	23	det
+23	prime	prime	NC	NC	n=s|g=f	21	obj	21	obj
+24	de	de	P	P		23	dep	23	dep
+25	400_000	400_000	ADJ	ADJ		26	mod	26	mod
+26	euros	euro	NC	NC	n=p|g=m	24	prep	24	prep
+27	.	.	PONCT	PONCT		26	ponct	26	ponct
+
+1	Lors	lors	ADV	ADV		2	mod	2	mod
+2	de	de	P	P		0	root	0	root
+3	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	4	det	4	det
+4	saison	saison	NC	NC	n=s|g=f	2	prep	2	prep
+5	2016-2017	2016-2017	ADJ	ADJ		4	mod	4	mod
+6	avec	avec	P	P		4	dep	4	dep
+7	l'	le	DET	DET	n=s	8	det	8	det
+8	AS	as	NC	NC	g=m	6	prep	6	prep
+9	Monaco	Monaco	NPP	NPP	n=s|g=m	8	mod	8	mod
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	le	le	DET	DET	n=s|g=m	12	det	12	det
+12	salaire	salaire	NC	NC	n=s|g=m	17	suj	17	suj
+13	annuel	annuel	ADJ	ADJ	n=s|g=m	12	mod	12	mod
+14	de	de	P	P		12	dep	12	dep
+15	Kylian	_	NPP	NPP		14	prep	14	prep
+16	Mbappé	_	NPP	NPP		15	mod	15	mod
+17	était	être	V	V	n=s|t=I|p=3	0	root	0	root
+18	d'	de	P	P		17	mod	17	mod
+19	environ	environ	ADV	ADV		20	mod	20	mod
+20	1	1	ADJ	ADJ		18	prep	18	prep
+21	million	million	NC	NC	n=s	18	prep	18	prep
+22	d'	de	P	P		17	mod	17	mod
+23	euros	euro	NC	NC	n=p|g=m	22	prep	22	prep
+24	.	.	PONCT	PONCT		23	ponct	23	ponct
+
+1	Avec	avec	P	P		7	mod	7	mod
+2	le	le	DET	DET	n=s|g=m	3	det	3	det
+3	PSG	_	NPP	NPP		1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	ces	ces	DET	DET	n=p	6	det	6	det
+6	revenus	revenu	NC	NC	n=p|g=m	7	suj	7	suj
+7	explosent	exploser	V	V	n=p|t=P,S|p=3	0	root	0	root
+8	pour	pour	P	P		7	mod	7	mod
+9	atteindre	atteindre	VINF	VINF	t=W	8	prep	8	prep
+10	une	une	DET	DET	n=s|g=f	11	det	11	det
+11	somme	somme	NC	NC	n=s	9	obj	9	obj
+12	vertigineuse	vertigineux	ADJ	ADJ	n=s|g=f	11	mod	11	mod
+13	de	de	P	P		11	dep	11	dep
+14	17,5	17,5	NC	NC		13	prep	13	prep
+15	millions	million	NC	NC	n=p	14	mod	14	mod
+16	d'	de	P	P		11	dep	11	dep
+17	euros	euro	NC	NC	n=p|g=m	16	prep	16	prep
+18	gagnés	gagner	VPP	VPP	n=p|g=m|t=K	17	mod	17	mod
+19	sur	sur	P	P		18	mod	18	mod
+20	la	la	DET	DET	n=s|g=f	21	det	21	det
+21	saison	saison	NC	NC	n=s|g=f	19	prep	19	prep
+22	2017-2018	2017-2018	NPP	NPP		21	mod	21	mod
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+1	Malgré	malgré	P	P		10	mod	10	mod
+2	de	de	DET	DET	n=p	4	det	4	det
+3	nombreuses	nombreux	ADJ	ADJ	n=p|g=f	4	mod	4	mod
+4	propositions	proposition	NC	NC	n=p|g=f	1	prep	1	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	Kylian	_	NPP	NPP		10	suj	10	suj
+7	Mbappé	_	NPP	NPP		6	mod	6	mod
+8	n'	ne	ADV	ADV		10	mod	10	mod
+9	a	avoir	V	V	n=s|t=P|p=3	10	aux_tps	10	aux_tps
+10	choisi	choisir	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+11	qu'	que	CS	CS		10	mod	10	mod
+12	un	un	DET	DET	n=s|g=m	14	det	14	det
+13	unique	unique	ADJ	ADJ	n=s	14	mod	14	mod
+14	sponsor	sponsor	NC	NC	n=s	0	_	0	_
+15	:	:	PONCT	PONCT		14	ponct	14	ponct
+16	son	son	DET	DET	n=s|g=m|p=3|poss=s	17	det	17	det
+17	équipementier	équipementier	NC	NC	n=s|g=m	14	mod	14	mod
+18	Nike	Nike	NPP	NPP	n=s|g=f,m	17	mod	17	mod
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+</p><h2>
+1	Références	référence	NC	NC	n=p|g=f	0	_	0	_
+
+</h2><h2>
+1	Annexes	annexe	NC	NC	n=p|g=f	0	_	0	_
+
+</h2><h3>
+1	Articles	article	NC	NC	n=p|g=m	0	_	0	_
+2	connexes	connexe	ADJ	ADJ	n=p	1	mod	1	mod
+
+</h3><p>
+1	Bondy	Bondy	NPP	NPP	n=s|g=m	0	_	0	_
+
+</p><p>
+1	Association	association	NC	NC	n=s|g=f	0	_	0	_
+2	sportive	sportif	ADJ	ADJ	n=s|g=f	1	mod	1	mod
+3	de	de	P	P		1	dep	1	dep
+4	Monaco	Monaco	NPP	NPP	n=s|g=m	3	prep	3	prep
+
+</p><h3>
+1	Liens	lien	NC	NC	n=p|g=m	0	_	0	_
+2	externes	externe	ADJ	ADJ	n=p	1	mod	1	mod
+
+</h3><p>
+1	Site	site	NC	NC	n=s|g=m	0	_	0	_
+2	officiel	officiel	ADJ	ADJ	n=s|g=m	1	mod	1	mod
+3	de	de	P	P		1	dep	1	dep
+4	Kylian	_	NPP	NPP		3	prep	3	prep
+5	Mbappé	_	NPP	NPP		4	mod	4	mod
+
+</p><p>
+1	Premiers	premier	ADJ	ADJ	n=p|g=m	0	_	0	_
+2	de	de	P	P		1	mod	1	mod
+3	Cordée	_	NPP	NPP		2	prep	2	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	association	association	NC	NC	n=s|g=f	3	mod	3	mod
+6	pour	pour	P	P		5	dep	5	dep
+7	enfants	enfant	NC	NC	n=p	6	prep	6	prep
+8	handicapés	handicaper	VPP	VPP	n=p|g=m|t=K	7	mod	7	mod
+9	parrainée	parrainer	VPP	VPP	n=s|g=f|t=K	5	mod	5	mod
+10	par	par	P	P		9	mod	9	mod
+11	Mbappé	_	NPP	NPP		10	prep	10	prep
+

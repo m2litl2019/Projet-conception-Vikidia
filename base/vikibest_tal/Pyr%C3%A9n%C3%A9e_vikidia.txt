@@ -1,0 +1,626 @@
+<p>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	Pyrénées	Pyrénées	NPP	NPP	n=p|g=f	4	suj	4	suj
+3	françaises	français	ADJ	ADJ	n=p|g=f	2	mod	2	mod
+4	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+5	la	la	DET	DET	n=s|g=f	6	det	6	det
+6	partie	partie	NC	NC	n=s|g=f	4	obj	4	obj
+7	française	français	ADJ	ADJ	n=s|g=f	6	mod	6	mod
+8	des	de	P+D	P+D	n=p	6	dep	6	dep
+9	Pyrénées	Pyrénées	NPP	NPP	n=p|g=f	8	prep	8	prep
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	une	une	DET	DET	n=s|g=f	12	det	12	det
+12	chaîne	chaîne	NC	NC	n=s|g=f	4	mod	4	mod
+13	de	de	P	P		12	dep	12	dep
+14	montagnes	montagne	NC	NC	n=p|g=f	13	prep	13	prep
+15	également	_	ADV	ADV		16	mod	16	mod
+16	occupée	occuper	VPP	VPP	n=s|g=f|t=K	12	mod	12	mod
+17	par	par	P	P		16	mod	16	mod
+18	l'	le	DET	DET	n=s	19	det	19	det
+19	Espagne	Espagne	NPP	NPP	n=s|g=f	17	prep	17	prep
+20	et	et	CC	CC		12	coord	12	coord
+21	l'	le	DET	DET	n=s	22	det	22	det
+22	Andorre	Andorre	NPP	NPP	n=s|g=m	20	dep_coord	20	dep_coord
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+1	Elles	elles	CLS	CLS	n=p|g=f|p=3	2	suj	2	suj
+2	correspondent	correspondre	V	V	n=p|t=P,S|p=3	0	root	0	root
+3	au	à	P+D	P+D	n=s|g=m	2	mod	2	mod
+4	versant	versant	NC	NC	n=s|g=m	3	prep	3	prep
+5	nord	nord	NC	NC	n=s|g=m	4	mod	4	mod
+6	des	de	P+D	P+D	n=p	4	dep	4	dep
+7	Pyrénées	Pyrénées	NPP	NPP	n=p|g=f	6	prep	6	prep
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	tandis	tandis	P	P		2	mod	2	mod
+10	que	que	CS	CS		9	prep	9	prep
+11	les	les	DET	DET	n=p	12	det	12	det
+12	Pyrénées	_	NC	NC		17	suj	17	suj
+13	espagnoles	espagnol	ADJ	ADJ	n=p|g=f	12	mod	12	mod
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	beaucoup	beaucoup	ADV	ADV		17	mod	17	mod
+16	plus	plus	ADV	ADV		17	mod	17	mod
+17	étendues	étendre	VPP	VPP	n=p|g=f|t=K	10	sub	10	sub
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	et	et	CC	CC		2	coord	2	coord
+20	l'	le	DET	DET	n=s	21	det	21	det
+21	Andorre	Andorre	NPP	NPP	n=s|g=m	23	suj	23	suj
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+23	recouvrent	recouvrir	V	V	n=p|t=P,S|p=3	19	dep_coord	19	dep_coord
+24	leur	leur	DET	DET	n=s|p=3|poss=p	25	det	25	det
+25	versant	versant	NC	NC	n=s|g=m	23	obj	23	obj
+26	sud	sud	ADJ	ADJ		25	mod	25	mod
+27	.	.	PONCT	PONCT		26	ponct	26	ponct
+
+1	D'	de	P	P		15	mod	15	mod
+2	une	une	DET	DET	n=s|g=f	3	det	3	det
+3	superficie	superficie	NC	NC	n=s|g=f	1	prep	1	prep
+4	de	de	P	P		3	dep	3	dep
+5	17_000	17_000	NPP	NPP		4	prep	4	prep
+6	km²	_	NPP	NPP		5	mod	5	mod
+7	(	(	PONCT	PONCT		6	ponct	6	ponct
+8	soit	soit	CC	CC		1	coord	1	coord
+9	environ	environ	ADV	ADV		10	mod	10	mod
+10	435	435	ADJ	ADJ		8	dep_coord	8	dep_coord
+11	km	kilomètre	NC	NC	g=m	15	suj	15	suj
+12	d'	de	P	P		11	dep	11	dep
+13	ouest	ouest	NC	NC	n=s|g=m	12	prep	12	prep
+14	en	en	CLO	CLO		15	obj	15	obj
+15	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+16	et	et	CC	CC		15	coord	15	coord
+17	20	20	V	V		16	dep_coord	16	dep_coord
+18	à	à	P	P		17	mod	17	mod
+19	40	40	ADJ	ADJ		20	mod	20	mod
+20	km	kilomètre	NC	NC	g=m	18	prep	18	prep
+21	du	de	P+D	P+D	n=s|g=m	17	mod	17	mod
+22	nord	nord	NC	NC	n=s|g=m	21	prep	21	prep
+23	au	à	P+D	P+D	n=s|g=m	17	mod	17	mod
+24	sud	_	NPP	NPP		23	prep	23	prep
+25	)	)	PONCT	PONCT		24	ponct	24	ponct
+26	,	,	PONCT	PONCT		24	ponct	24	ponct
+27	elles	elles	CLS	CLS	n=p|g=f|p=3	28	suj	28	suj
+28	culminent	culminer	V	V	n=p|t=P,S|p=3	15	mod	15	mod
+29	au	à	P+D	P+D	n=s|g=m	28	mod	28	mod
+30	Vignemale	_	NPP	NPP		29	prep	29	prep
+31	(	(	PONCT	PONCT		30	ponct	30	ponct
+32	3_298	3_298	NC	NC		28	mod	28	mod
+33	m	_	NPP	NPP		32	mod	32	mod
+34	)	)	PONCT	PONCT		33	ponct	33	ponct
+35	,	,	PONCT	PONCT		33	ponct	33	ponct
+36	un	un	DET	DET	n=s|g=m	37	det	37	det
+37	sommet	sommet	NC	NC	n=s|g=m	41	suj	41	suj
+38	des	de	P+D	P+D	n=p	37	dep	37	dep
+39	Hautes-Pyrénées	Hautes-Pyrénées	NPP	NPP	n=p|g=f	38	prep	38	prep
+40	qui	qui	PROREL	PROREL	n=s	41	suj	41	suj
+41	domine	dominer	V	V	n=s|t=P,S|p=1,3	15	mod	15	mod
+42	le	le	DET	DET	n=s|g=m	43	det	43	det
+43	lac	lac	NC	NC	n=s|g=m	41	obj	41	obj
+44	de	de	P	P		43	dep	43	dep
+45	Gaube	_	NPP	NPP		44	prep	44	prep
+46	.	.	PONCT	PONCT		45	ponct	45	ponct
+
+</p><p>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	Pyrénées	Pyrénées	NPP	NPP	n=p|g=f	5	suj	5	suj
+3	françaises	français	ADJ	ADJ	n=p|g=f	2	mod	2	mod
+4	sont	être	V	V	n=p|t=P|p=3	5	aux_tps	5	aux_tps
+5	formées	former	VPP	VPP	n=p|g=f|t=K	0	root	0	root
+6	d'	de	P	P		5	mod	5	mod
+7	une	une	DET	DET	n=s|g=f	8	det	8	det
+8	montagne	montagne	NC	NC	n=s|g=f	6	prep	6	prep
+9	d'	de	P	P		5	mod	5	mod
+10	allure	allure	NC	NC	n=s|g=f	9	prep	9	prep
+11	massive	massif	ADJ	ADJ	n=s|g=f	10	mod	10	mod
+12	où	où	PROREL	PROREL		13	suj	13	suj
+13	dominent	dominer	V	V	n=p|t=P,S|p=3	5	mod	5	mod
+14	les	les	DET	DET	n=p	15	det	15	det
+15	plateaux	plateau	NC	NC	n=p|g=m	13	obj	13	obj
+16	d'	de	P	P		15	dep	15	dep
+17	altitude	altitude	NC	NC	n=s|g=f	16	prep	16	prep
+18	(	(	PONCT	PONCT		17	ponct	17	ponct
+19	les	les	DET	DET	n=p	20	det	20	det
+20	plas	_	NC	NC		15	mod	15	mod
+21	)	)	PONCT	PONCT		20	ponct	20	ponct
+22	,	,	PONCT	PONCT		20	ponct	20	ponct
+23	qui	qui	PROREL	PROREL	n=s	25	suj	25	suj
+24	sont	être	V	V	n=p|t=P|p=3	25	aux_pass	25	aux_pass
+25	surmontés	surmonter	VPP	VPP	n=p|g=m|t=K	15	mod_rel	15	mod_rel
+26	de	de	P	P		25	mod	25	mod
+27	crêtes	crête	NC	NC	n=p|g=f	26	prep	26	prep
+28	en	en	P	P		25	mod	25	mod
+29	dent	dent	NC	NC	n=s|g=f	28	prep	28	prep
+30	de	de	P	P		25	mod	25	mod
+31	scie	scie	NC	NC	n=s|g=f	30	prep	30	prep
+32	et	et	CC	CC		25	coord	25	coord
+33	de	de	P	P		32	dep_coord	32	dep_coord
+34	sommets	sommet	NC	NC	n=p|g=m	33	prep	33	prep
+35	isolés	isoler	ADJ	ADJ	n=p|g=m|t=K	34	mod	34	mod
+36	(	(	PONCT	PONCT		35	ponct	35	ponct
+37	le	le	DET	DET	n=s|g=m	38	det	38	det
+38	pic	pic	NC	NC	n=s|g=m	25	mod	25	mod
+39	du	de	P+D	P+D	n=s|g=m	38	dep	38	dep
+40	Midi	_	NPP	NPP		39	prep	39	prep
+41	de	de	P	P		25	mod	25	mod
+42	Bigorre	_	NPP	NPP		41	prep	41	prep
+43	,	,	PONCT	PONCT		42	ponct	42	ponct
+44	le	le	DET	DET	n=s|g=m	45	det	45	det
+45	Vignemale	_	NPP	NPP		25	mod	25	mod
+46	,	,	PONCT	PONCT		45	ponct	45	ponct
+47	le	le	DET	DET	n=s|g=m	48	det	48	det
+48	Canigou	_	NPP	NPP		25	mod	25	mod
+49	...	...	PONCT	PONCT		48	ponct	48	ponct
+50	)	)	PONCT	PONCT		48	ponct	48	ponct
+51	.	.	PONCT	PONCT		48	ponct	48	ponct
+
+1	C'	ce	CLS	CLS		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	une	une	DET	DET	n=s|g=f	4	det	4	det
+4	montagne	montagne	NC	NC	n=s|g=f	2	obj	2	obj
+5	difficile	difficile	ADJ	ADJ	n=s	4	mod	4	mod
+6	à	à	P	P		2	mod	2	mod
+7	pénétrer	pénétrer	VINF	VINF	t=W	6	prep	6	prep
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	car	car	CS	CS		2	mod	2	mod
+10	les	les	DET	DET	n=p	12	det	12	det
+11	nombreuses	nombreux	ADJ	ADJ	n=p|g=f	12	mod	12	mod
+12	vallées	vallée	NC	NC	n=p|g=f	21	suj	21	suj
+13	perpendiculaires	perpendiculaire	ADJ	ADJ	n=p	12	mod	12	mod
+14	à	à	P	P		12	dep	12	dep
+15	l'	le	DET	DET	n=s	16	det	16	det
+16	axe	axe	NC	NC	n=s|g=m	14	prep	14	prep
+17	de	de	P	P		16	dep	16	dep
+18	la	la	DET	DET	n=s|g=f	19	det	19	det
+19	chaîne	chaîne	NC	NC	n=s|g=f	17	prep	17	prep
+20	se	se	CLR	CLR	n=p,s|p=3	21	aff	21	aff
+21	terminent	terminer	V	V	n=p|t=P,S|p=3	9	sub	9	sub
+22	en	en	P	P		21	mod	21	mod
+23	culs-de-sac	cul-de-sac	NC	NC	n=p|g=m	22	prep	22	prep
+24	mal	mal	ADV	ADV		25	mod	25	mod
+25	reliés	relier	VPP	VPP	n=p|g=m|t=K	23	mod	23	mod
+26	entre	entre	P	P		25	mod	25	mod
+27	eux	eux	PRO	PRO	n=p|g=m|p=3	26	prep	26	prep
+28	par	par	P	P		25	mod	25	mod
+29	des	des	DET	DET	n=p	30	det	30	det
+30	cols	col	NC	NC	n=p|g=m	28	prep	28	prep
+31	de	de	P	P		25	mod	25	mod
+32	haute	haut	ADJ	ADJ	n=s|g=f	33	mod	33	mod
+33	altitude	altitude	NC	NC	n=s|g=f	31	prep	31	prep
+34	(	(	PONCT	PONCT		33	ponct	33	ponct
+35	col	col	NC	NC	n=s|g=m	25	mod	25	mod
+36	du	de	P+D	P+D	n=s|g=m	35	dep	35	dep
+37	Tourmalet	_	NPP	NPP		36	prep	36	prep
+38	,	,	PONCT	PONCT		37	ponct	37	ponct
+39	col	col	NC	NC	n=s|g=m	25	mod	25	mod
+40	de	de	P	P		39	dep	39	dep
+41	l'	le	DET	DET	n=s	42	det	42	det
+42	Aubisque	_	NPP	NPP		40	prep	40	prep
+43	)	)	PONCT	PONCT		42	ponct	42	ponct
+44	.	.	PONCT	PONCT		42	ponct	42	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	cols	col	NC	NC	n=p|g=m	10	suj	10	suj
+3	permettant	permettre	VPR	VPR	t=G	2	mod	2	mod
+4	le	le	DET	DET	n=s|g=m	5	det	5	det
+5	passage	passage	NC	NC	n=s|g=m	3	obj	3	obj
+6	vers	vers	P	P		3	mod	3	mod
+7	le	le	DET	DET	n=s|g=m	8	det	8	det
+8	versant	versant	NC	NC	n=s|g=m	6	prep	6	prep
+9	espagnol	espagnol	ADJ	ADJ	n=s|g=m	8	mod	8	mod
+10	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+11	également	_	ADV	ADV		10	mod	10	mod
+12	très	très	ADV	ADV		13	mod	13	mod
+13	rares	rare	ADJ	ADJ	n=p	10	ats	10	ats
+14	et	et	CC	CC		13	coord	13	coord
+15	hauts	haut	ADJ	ADJ	n=p|g=m	14	dep_coord	14	dep_coord
+16	(	(	PONCT	PONCT		15	ponct	15	ponct
+17	col	col	NC	NC	n=s|g=m	10	mod	10	mod
+18	du	de	P+D	P+D	n=s|g=m	17	dep	17	dep
+19	Somport	_	NPP	NPP		18	prep	18	prep
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	col	col	NC	NC	n=s|g=m	19	mod	19	mod
+22	de	de	P	P		21	dep	21	dep
+23	Puymorens	_	NPP	NPP		22	prep	22	prep
+24	)	)	PONCT	PONCT		23	ponct	23	ponct
+25	,	,	PONCT	PONCT		23	ponct	23	ponct
+26	sauf	sauf	P	P		10	mod	10	mod
+27	aux	à	P+D	P+D	n=p	26	dep	26	dep
+28	extrémités	extrémité	NC	NC	n=p|g=f	27	prep	27	prep
+29	(	(	PONCT	PONCT		28	ponct	28	ponct
+30	col	col	NC	NC	n=s|g=m	10	mod	10	mod
+31	du	de	P+D	P+D	n=s|g=m	30	dep	30	dep
+32	Perthus	_	NPP	NPP		31	prep	31	prep
+33	à	à	P	P		10	mod	10	mod
+34	l'	le	DET	DET	n=s	35	det	35	det
+35	est	_	NPP	NPP		33	prep	33	prep
+36	)	)	PONCT	PONCT		35	ponct	35	ponct
+37	.	.	PONCT	PONCT		35	ponct	35	ponct
+
+</p><h2>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	paysages	paysage	NC	NC	n=p|g=m	0	_	0	_
+3	pyrénéens	pyrénéen	NC	NC	n=p|g=m	2	mod	2	mod
+
+</h2><p>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	paysages	paysage	NC	NC	n=p|g=m	5	suj	5	suj
+3	pyrénéens	pyrénéen	NC	NC	n=p|g=m	2	mod	2	mod
+4	sont	être	V	V	n=p|t=P|p=3	5	aux_pass	5	aux_pass
+5	variés	varier	VPP	VPP	n=p|g=m|t=K	0	root	0	root
+6	.	.	PONCT	PONCT		5	ponct	5	ponct
+
+1	On	on	CLS	CLS	n=s|p=3	2	suj	2	suj
+2	peut	pouvoir	V	V	n=s|t=P|p=3	0	root	0	root
+3	diviser	diviser	VINF	VINF	t=W	2	obj	2	obj
+4	les	les	DET	DET	n=p	5	det	5	det
+5	Pyrénées	_	NC	NC		3	obj	3	obj
+6	françaises	français	ADJ	ADJ	n=p|g=f	5	mod	5	mod
+7	en	en	P	P		3	mod	3	mod
+8	trois	trois	DET	DET	s=card|n=p	9	det	9	det
+9	parties	partie	NC	NC	n=p|g=f	7	prep	7	prep
+10	:	:	PONCT	PONCT		9	ponct	9	ponct
+
+</p><p>
+1	De	de	P	P		13	mod	13	mod
+2	l'	le	DET	DET	n=s	3	det	3	det
+3	océan	océan	NC	NC	n=s|g=m	1	prep	1	prep
+4	Atlantique	_	NPP	NPP		3	mod	3	mod
+5	au	à	P+D	P+D	n=s|g=m	13	mod	13	mod
+6	col	col	NC	NC	n=s|g=m	5	prep	5	prep
+7	du	de	P+D	P+D	n=s|g=m	6	dep	6	dep
+8	Somport	_	NPP	NPP		7	prep	7	prep
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	le	le	DET	DET	n=s|g=m	11	det	11	det
+11	relief	relief	NC	NC	n=s|g=m	13	suj	13	suj
+12	montagnard	montagnard	NC	NC	n=s|g=m	11	mod	11	mod
+13	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+14	peu	peu	ADV	ADV		13	mod	13	mod
+15	élevé	élever	ADJ	ADJ	n=s|g=m|t=K	13	ats	13	ats
+16	à	à	P	P		13	mod	13	mod
+17	l'	le	DET	DET	n=s	18	det	18	det
+18	ouest	ouest	NC	NC	n=s|g=m	16	prep	16	prep
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	où	où	PROREL	PROREL		22	mod	22	mod
+21	il	il	CLS	CLS	n=s|g=m|p=3	22	suj	22	suj
+22	forme	former	V	V	n=s|t=P,S|p=1,3	13	mod	13	mod
+23	les	les	DET	DET	n=p	24	det	24	det
+24	collines	colline	NC	NC	n=p|g=f	22	obj	22	obj
+25	et	et	CC	CC		22	coord	22	coord
+26	les	les	DET	DET	n=p	27	det	27	det
+27	plateaux	plateau	NC	NC	n=p|g=m	0	_	0	_
+28	du	de	P+D	P+D	n=s|g=m	27	dep	27	dep
+29	Pays	pays	NC	NC	g=m	28	prep	28	prep
+30	basque	basque	ADJ	ADJ	n=s	29	mod	29	mod
+31	français	français	ADJ	ADJ	g=m	29	mod	29	mod
+32	.	.	PONCT	PONCT		31	ponct	31	ponct
+
+1	Puis	puis	CC	CC		0	root	0	root
+2	il	il	CLS	CLS	n=s|g=m|p=3	4	suj	4	suj
+3	s'	se	CLR	CLR	n=p,s|p=3	4	aff	4	aff
+4	élève	élever	V	V	n=s|t=P,S|p=1,3	1	dep_coord	1	dep_coord
+5	progressivement	_	ADV	ADV		4	mod	4	mod
+6	pour	pour	P	P		4	mod	4	mod
+7	culminer	culminer	VINF	VINF	t=W	6	prep	6	prep
+8	au	à	P+D	P+D	n=s|g=m	7	mod	7	mod
+9	pic	pic	NC	NC	n=s|g=m	8	prep	8	prep
+10	d'	de	P	P		7	mod	7	mod
+11	Anie	_	NPP	NPP		10	prep	10	prep
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	à	à	P	P		4	mod	4	mod
+14	2_500	2_500	NC	NC		13	prep	13	prep
+15	m	_	NPP	NPP		14	mod	14	mod
+16	d'	de	P	P		4	mod	4	mod
+17	altitude	altitude	NC	NC	n=s|g=f	16	prep	16	prep
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	proximité	proximité	NC	NC	n=s|g=f	0	_	0	_
+3	de	de	P	P		2	dep	2	dep
+4	l'	le	DET	DET	n=s	5	det	5	det
+5	océan	océan	NC	NC	n=s|g=m	3	prep	3	prep
+6	en	en	P	P		5	dep	5	dep
+7	fait	fait	NC	NC	n=s|g=m	6	prep	6	prep
+8	une	une	DET	DET	n=s|g=f	9	det	9	det
+9	région	région	NC	NC	n=s|g=f	0	_	0	_
+10	arrosée	arroser	VPP	VPP	n=s|g=f|t=K	9	mod	9	mod
+11	et	et	CC	CC		9	coord	9	coord
+12	verdoyante	verdoyant	ADJ	ADJ	n=s|g=f	11	dep_coord	11	dep_coord
+13	.	.	PONCT	PONCT		12	ponct	12	ponct
+
+</p><p>
+1	Du	de	P+D	P+D	n=s|g=m	11	mod	11	mod
+2	col	col	NC	NC	n=s|g=m	1	prep	1	prep
+3	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+4	Somport	_	NPP	NPP		3	prep	3	prep
+5	au	à	P+D	P+D	n=s|g=m	1	dep	1	dep
+6	col	col	NC	NC	n=s|g=m	5	prep	5	prep
+7	du	de	P+D	P+D	n=s|g=m	6	dep	6	dep
+8	Puymorens	_	NPP	NPP		7	prep	7	prep
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	ce	ce	CLS	CLS		11	suj	11	suj
+11	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+12	les	les	DET	DET	n=p	14	det	14	det
+13	hautes	haut	ADJ	ADJ	n=p|g=f	14	mod	14	mod
+14	montagnes	montagne	NC	NC	n=p|g=f	11	obj	11	obj
+15	des	de	P+D	P+D	n=p	14	dep	14	dep
+16	Pyrénées	_	NC	NC		15	prep	15	prep
+17	centrales	central	ADJ	ADJ	n=p|g=f	16	mod	16	mod
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	neige	neige	NC	NC	n=s|g=f	7	suj	7	suj
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	souvent	souvent	ADV	ADV		5	mod	5	mod
+5	abondante	abondant	ADJ	ADJ	n=s|g=f	2	mod	2	mod
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	maintient	maintenir	V	V	n=s|t=P|p=3	0	root	0	root
+8	l'	le	DET	DET	n=s	9	det	9	det
+9	existence	existence	NC	NC	n=s|g=f	7	obj	7	obj
+10	de	de	P	P		7	mod	7	mod
+11	petits	petit	ADJ	ADJ	n=p|g=m	12	mod	12	mod
+12	glaciers	glacier	NC	NC	n=p|g=m	10	prep	10	prep
+13	qui	qui	PROREL	PROREL	n=s	14	suj	14	suj
+14	alimentent	alimenter	V	V	n=p|t=P,S|p=3	12	mod_rel	12	mod_rel
+15	de	de	DET	DET	n=p	17	det	17	det
+16	nombreuses	nombreux	ADJ	ADJ	n=p|g=f	17	mod	17	mod
+17	rivières	rivière	NC	NC	n=p|g=f	14	obj	14	obj
+18	aux	à	P+D	P+D	n=p	14	mod	14	mod
+19	allures	allure	NC	NC	n=p|g=f	18	prep	18	prep
+20	de	de	P	P		14	mod	14	mod
+21	torrents	torrent	NC	NC	n=p|g=m	20	prep	20	prep
+22	(	(	PONCT	PONCT		21	ponct	21	ponct
+23	le	le	DET	DET	n=s|g=m	24	det	24	det
+24	gave	gave	NC	NC	n=s|g=m	7	obj	7	obj
+25	d'	de	P	P		24	dep	24	dep
+26	Aspe	_	NPP	NPP		25	prep	25	prep
+27	,	,	PONCT	PONCT		26	ponct	26	ponct
+28	le	le	DET	DET	n=s|g=m	29	det	29	det
+29	gave	gave	NC	NC	n=s|g=m	24	mod	24	mod
+30	d'	de	P	P		29	dep	29	dep
+31	Ossau	_	NPP	NPP		30	prep	30	prep
+32	,	,	PONCT	PONCT		31	ponct	31	ponct
+33	le	le	DET	DET	n=s|g=m	34	det	34	det
+34	gave	gave	NC	NC	n=s|g=m	29	mod	29	mod
+35	de	de	P	P		34	dep	34	dep
+36	Pau	Pau	NPP	NPP	n=s|g=m	35	prep	35	prep
+37	,	,	PONCT	PONCT		36	ponct	36	ponct
+38	la	la	DET	DET	n=s|g=f	39	det	39	det
+39	Neste	_	NPP	NPP		34	mod	34	mod
+40	,	,	PONCT	PONCT		39	ponct	39	ponct
+41	la	la	DET	DET	n=s|g=f	42	det	42	det
+42	Pique	_	NPP	NPP		34	mod	34	mod
+43	,	,	PONCT	PONCT		42	ponct	42	ponct
+44	la	la	DET	DET	n=s|g=f	45	det	45	det
+45	Garonne	Garonne	NPP	NPP	n=s|g=f	34	mod	34	mod
+46	,	,	PONCT	PONCT		45	ponct	45	ponct
+47	le	le	DET	DET	n=s|g=m	48	det	48	det
+48	Salat	_	NPP	NPP		34	mod	34	mod
+49	,	,	PONCT	PONCT		48	ponct	48	ponct
+50	l'	le	DET	DET	n=s	51	det	51	det
+51	Ariège	Ariège	NPP	NPP	n=s|g=f	34	mod	34	mod
+52	)	)	PONCT	PONCT		51	ponct	51	ponct
+53	.	.	PONCT	PONCT		51	ponct	51	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	vallées	vallée	NC	NC	n=p|g=f	3	suj	3	suj
+3	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+4	parallèles	parallèle	ADJ	ADJ	n=p	3	ats	3	ats
+5	entre	entre	P	P		3	mod	3	mod
+6	elles	elles	PRO	PRO	n=p|g=f|p=3	5	prep	5	prep
+7	et	et	CC	CC		3	coord	3	coord
+8	se	se	CLR	CLR	n=p,s|p=3	9	aff	9	aff
+9	terminent	terminer	V	V	n=p|t=P,S|p=3	7	dep_coord	7	dep_coord
+10	souvent	souvent	ADV	ADV		9	mod	9	mod
+11	par	par	P	P		9	mod	9	mod
+12	des	des	DET	DET	n=p	13	det	13	det
+13	culs-de-sac	cul-de-sac	NC	NC	n=p|g=m	11	prep	11	prep
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	dont	dont	PROREL	PROREL		19	mod	19	mod
+16	le	le	DET	DET	n=s|g=m	18	det	18	det
+17	plus	plus	ADV	ADV		18	mod	18	mod
+18	célèbre	célèbre	ADJ	ADJ	n=s	19	suj	19	suj
+19	est	être	V	V	n=s|t=P|p=3	3	mod	3	mod
+20	le	le	DET	DET	n=s|g=m	21	det	21	det
+21	cirque	cirque	NC	NC	n=s|g=m	19	suj	19	suj
+22	de	de	P	P		21	dep	21	dep
+23	Gavarnie	Gavarnie	NPP	NPP	n=s|g=m	22	prep	22	prep
+24	.	.	PONCT	PONCT		23	ponct	23	ponct
+
+1	Cette	cette	DET	DET	n=s|g=f	2	det	2	det
+2	région	région	NC	NC	n=s|g=f	3	suj	3	suj
+3	renferme	renfermer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	de	de	DET	DET	n=p	7	det	7	det
+5	nombreux	nombreux	ADJ	ADJ	g=m	6	mod	6	mod
+6	hauts	haut	ADJ	ADJ	n=p|g=m	7	mod	7	mod
+7	sommets	sommet	NC	NC	n=p|g=m	3	obj	3	obj
+8	comme	comme	P	P		3	mod	3	mod
+9	le	le	DET	DET	n=s|g=m	10	det	10	det
+10	Vignemale	_	NPP	NPP		8	prep	8	prep
+11	(	(	PONCT	PONCT		10	ponct	10	ponct
+12	3_298	3_298	NC	NC		10	mod	10	mod
+13	m	_	NPP	NPP		12	mod	12	mod
+14	)	)	PONCT	PONCT		13	ponct	13	ponct
+15	ou	ou	CC	CC		3	coord	3	coord
+16	le	le	DET	DET	n=s|g=m	17	det	17	det
+17	pic	pic	NC	NC	n=s|g=m	0	_	0	_
+18	du	de	P+D	P+D	n=s|g=m	17	dep	17	dep
+19	Midi	_	NPP	NPP		18	prep	18	prep
+20	de	de	P	P		17	dep	17	dep
+21	Bigorre	_	NPP	NPP		20	prep	20	prep
+22	(	(	PONCT	PONCT		21	ponct	21	ponct
+23	2_877	2_877	NC	NC		17	mod	17	mod
+24	m	_	NPP	NPP		23	mod	23	mod
+25	)	)	PONCT	PONCT		24	ponct	24	ponct
+26	,	,	PONCT	PONCT		24	ponct	24	ponct
+27	qui	qui	PROREL	PROREL	n=s	28	suj	28	suj
+28	sont	être	V	V	n=p|t=P|p=3	17	mod_rel	17	mod_rel
+29	de	de	DET	DET	n=p	31	det	31	det
+30	lourds	lourd	ADJ	ADJ	n=p|g=m	31	mod	31	mod
+31	massifs	massif	NC	NC	n=p|g=m	28	obj	28	obj
+32	formés	former	VPP	VPP	n=p|g=m|t=K	31	mod	31	mod
+33	de	de	P	P		32	mod	32	mod
+34	granit	granit	NC	NC	n=s|g=m	33	prep	33	prep
+35	.	.	PONCT	PONCT		34	ponct	34	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	pentes	pente	NC	NC	n=p|g=f	3	suj	3	suj
+3	présentent	présenter	V	V	n=p|t=P,S|p=3	0	root	0	root
+4	l'	le	DET	DET	n=s	5	det	5	det
+5	étagement	étagement	NC	NC	n=s|g=m	3	obj	3	obj
+6	montagnard	montagnard	NC	NC	n=s|g=m	5	mod	5	mod
+7	de	de	P	P		3	mod	3	mod
+8	la	la	DET	DET	n=s|g=f	9	det	9	det
+9	végétation	végétation	NC	NC	n=s|g=f	7	prep	7	prep
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+1	Dans	dans	P	P		9	mod	9	mod
+2	les	les	DET	DET	n=p	3	det	3	det
+3	Pyrénées	Pyrénées	NPP	NPP	n=p|g=f	1	prep	1	prep
+4	ariégeoises	ariégeois	ADJ	ADJ	n=p|g=f	3	mod	3	mod
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	la	la	DET	DET	n=s|g=f	7	det	7	det
+7	chaîne	chaîne	NC	NC	n=s|g=f	9	suj	9	suj
+8	s'	se	CLR	CLR	n=p,s|p=3	9	aff	9	aff
+9	élargit	élargir	V	V	n=s|t=J,P|p=3	0	root	0	root
+10	au	à	P+D	P+D	n=s|g=m	9	mod	9	mod
+11	nord	nord	NC	NC	n=s|g=m	10	prep	10	prep
+12	avec	avec	P	P		9	mod	9	mod
+13	la	la	DET	DET	n=s|g=f	14	det	14	det
+14	chaîne	chaîne	NC	NC	n=s|g=f	12	prep	12	prep
+15	calcaire	calcaire	ADJ	ADJ	n=s	14	mod	14	mod
+16	plissée	plisser	VPP	VPP	n=s|g=f|t=K	14	mod	14	mod
+17	du	de	P+D	P+D	n=s|g=m	16	mod	16	mod
+18	Plantaurel	_	NC	NC		17	prep	17	prep
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+</p><p>
+1	Du	de	P+D	P+D	n=s|g=m	11	mod	11	mod
+2	col	col	NC	NC	n=s|g=m	1	prep	1	prep
+3	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+4	Puymorens	_	NPP	NPP		3	prep	3	prep
+5	à	à	P	P		2	dep	2	dep
+6	la	la	DET	DET	n=s|g=f	7	det	7	det
+7	mer	mer	NC	NC	n=s|g=f	5	prep	5	prep
+8	Méditerranée	_	NPP	NPP		7	mod	7	mod
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	ce	ce	CLS	CLS		11	suj	11	suj
+11	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+12	les	les	DET	DET	n=p	13	det	13	det
+13	Pyrénées	Pyrénées	NPP	NPP	n=p|g=f	11	obj	11	obj
+14	orientales	oriental	ADJ	ADJ	n=p|g=f	13	mod	13	mod
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+1	Les	les	DET	DET	n=p	3	det	3	det
+2	massifs	massif	ADJ	ADJ	n=p|g=m	3	mod	3	mod
+3	cristallins	cristallin	NC	NC	n=p|g=m	17	suj	17	suj
+4	du	de	P+D	P+D	n=s|g=m	3	dep	3	dep
+5	Carlit	_	NPP	NPP		4	prep	4	prep
+6	(	(	PONCT	PONCT		5	ponct	5	ponct
+7	2_921	2_921	NC	NC		3	mod	3	mod
+8	m	_	NPP	NPP		7	mod	7	mod
+9	)	)	PONCT	PONCT		8	ponct	8	ponct
+10	et	et	CC	CC		3	coord	3	coord
+11	du	de	P+D	P+D	n=s|g=m	10	dep_coord	10	dep_coord
+12	Canigou	_	NPP	NPP		11	prep	11	prep
+13	(	(	PONCT	PONCT		12	ponct	12	ponct
+14	2_785	2_785	NC	NC		3	mod	3	mod
+15	m	_	NPP	NPP		14	mod	14	mod
+16	)	)	PONCT	PONCT		15	ponct	15	ponct
+17	surmontent	surmonter	V	V	n=p|t=P,S|p=3	0	root	0	root
+18	des	des	DET	DET	n=p	19	det	19	det
+19	fossés	fossé	NC	NC	n=p|g=m	17	obj	17	obj
+20	d'	de	P	P		19	dep	19	dep
+21	effondrement	effondrement	NC	NC	n=s|g=m	20	prep	20	prep
+22	dus	devoir	V	V	n=s|t=J|p=1,2	17	mod	17	mod
+23	aux	à	P+D	P+D	n=p	22	mod	22	mod
+24	mouvements	mouvement	NC	NC	n=p|g=m	23	prep	23	prep
+25	violents	violent	ADJ	ADJ	n=p|g=m	24	mod	24	mod
+26	qu'	que	PROREL	PROREL		28	suj	28	suj
+27	a	avoir	V	V	n=s|t=P|p=3	28	aux_tps	28	aux_tps
+28	connus	connaître	VPP	VPP	n=p|g=m|t=K	24	mod_rel	24	mod_rel
+29	la	la	DET	DET	n=s|g=f	30	det	30	det
+30	région	région	NC	NC	n=s|g=f	28	obj	28	obj
+31	au	à	P+D	P+D	n=s|g=m	28	mod	28	mod
+32	début	début	NC	NC	n=s|g=m	31	prep	31	prep
+33	du	de	P+D	P+D	n=s|g=m	32	dep	32	dep
+34	cénozoïque	_	NC	NC		33	prep	33	prep
+35	.	.	PONCT	PONCT		34	ponct	34	ponct
+
+1	Ces	ces	DET	DET	n=p	2	det	2	det
+2	fossés	fossé	NC	NC	n=p|g=m	3	suj	3	suj
+3	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+4	ceux	ceux	PRO	PRO	n=p|g=m	3	ats	3	ats
+5	du	de	P+D	P+D	n=s|g=m	3	mod	3	mod
+6	Capcir	_	NPP	NPP		5	prep	5	prep
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	de	de	P	P		3	mod	3	mod
+9	la	la	DET	DET	n=s|g=f	10	det	10	det
+10	Cerdagne	_	NPP	NPP		8	prep	8	prep
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	du	de	P+D	P+D	n=s|g=m	3	mod	3	mod
+13	Conflent	_	NPP	NPP		12	prep	12	prep
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	du	de	P+D	P+D	n=s|g=m	3	mod	3	mod
+16	Vallespir	_	NPP	NPP		15	prep	15	prep
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	climat	climat	NC	NC	n=s|g=m	0	_	0	_
+3	y	y	CLO	CLO		0	_	0	_
+4	est	être	V	V	n=s|t=P|p=3	0	_	0	_
+5	méditerranéen	méditerranéen	ADJ	ADJ	n=s|g=m	4	ats	4	ats
+6	;	;	PONCT	PONCT		5	ponct	5	ponct
+7	la	la	DET	DET	n=s|g=f	8	det	8	det
+8	vigne	vigne	NC	NC	n=s|g=f	4	mod	4	mod
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	les	les	DET	DET	n=p	11	det	11	det
+11	oliviers	olivier	NC	NC	n=p|g=m	8	coord	8	coord
+12	et	et	CC	CC		11	coord	11	coord
+13	d'	de	DET	DET	n=p	15	det	15	det
+14	autres	autre	ADJ	ADJ	n=p	15	mod	15	mod
+15	arbres	arbre	NC	NC	n=p|g=m	12	dep_coord	12	dep_coord
+16	fruitiers	fruitier	NC	NC	n=p|g=m	15	mod	15	mod
+17	y	y	CLO	CLO		0	_	0	_
+18	sont	être	V	V	n=p|t=P|p=3	0	_	0	_
+19	abondants	abondant	ADJ	ADJ	n=p|g=m	18	ats	18	ats
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	mais	mais	CC	CC		18	coord	18	coord
+22	aussi	aussi	ADV	ADV		24	mod	24	mod
+23	les	les	DET	DET	n=p	24	det	24	det
+24	châtaigniers	châtaignier	NC	NC	n=p|g=m	21	dep_coord	21	dep_coord
+25	et	et	CC	CC		24	coord	24	coord
+26	les	les	DET	DET	n=p	27	det	27	det
+27	chênes	chêne	NC	NC	n=p|g=m	25	dep_coord	25	dep_coord
+28	verts	vert	ADJ	ADJ	n=p|g=m	27	mod	27	mod
+29	lorsqu'	lorsque	CS	CS		18	mod	18	mod
+30	on	on	CLS	CLS	n=s|p=3	31	suj	31	suj
+31	monte	monter	V	V	n=s|t=P,S|p=1,3	29	sub	29	sub
+32	en	en	P	P		31	mod	31	mod
+33	altitude	altitude	NC	NC	n=s|g=f	32	prep	32	prep
+34	.	.	PONCT	PONCT		33	ponct	33	ponct
+
+</p><h2>
+1	Vikiliens	_	NC	NC		0	root	0	root
+2	pour	pour	P	P		1	dep	1	dep
+3	compléter	compléter	VINF	VINF	t=W	2	prep	2	prep
+4	sur	sur	P	P		3	mod	3	mod
+5	les	les	DET	DET	n=p	6	det	6	det
+6	montagnes	montagne	NC	NC	n=p|g=f	4	prep	4	prep
+7	françaises	français	ADJ	ADJ	n=p|g=f	6	mod	6	mod
+
+</h2><p>
+1	Alpes	alpe	NC	NC	n=p|g=f	0	_	0	_
+2	françaises	français	ADJ	ADJ	n=p|g=f	1	mod	1	mod
+
+</p><p>
+1	Jura	_	NC	NC		0	_	0	_
+
+</p><p>
+1	Massif	massif	ADJ	ADJ	n=s|g=m	2	mod	2	mod
+2	armoricain	armoricain	NC	NC	n=s|g=m	0	_	0	_
+
+</p><p>
+1	Massif	massif	NC	NC	n=s|g=m	0	_	0	_
+2	central	central	ADJ	ADJ	n=s|g=m	1	mod	1	mod
+
+</p><p>
+1	Vosges	Vosges	NPP	NPP	n=p|g=f	0	_	0	_
+

@@ -1,0 +1,1342 @@
+<p>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	chapelle	chapelle	NC	NC	n=s|g=f	4	suj	4	suj
+3	Sixtine	_	NPP	NPP		2	mod	2	mod
+4	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+5	un	un	DET	DET	n=s|g=m	6	det	6	det
+6	édifice	édifice	NC	NC	n=s|g=m	4	obj	4	obj
+7	religieux	religieux	ADJ	ADJ	g=m	6	mod	6	mod
+8	de	de	P	P		4	mod	4	mod
+9	la	la	DET	DET	n=s|g=f	10	det	10	det
+10	Renaissance	renaissance	NC	NC	n=s|g=f	8	prep	8	prep
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	bâti	bâtir	VPP	VPP	n=s|g=m|t=K	4	mod	4	mod
+13	au	à	P+D	P+D	n=s|g=m	12	mod	12	mod
+14	milieu	milieu	NC	NC	n=s|g=m	13	prep	13	prep
+15	des	de	P+D	P+D	n=p	14	dep	14	dep
+16	palais	palais	NC	NC	g=m	15	prep	15	prep
+17	pontificaux	pontifical	ADJ	ADJ	n=p|g=m	16	mod	16	mod
+18	du	de	P+D	P+D	n=s|g=m	14	dep	14	dep
+19	Vatican	Vatican	NPP	NPP	n=s|g=m	18	prep	18	prep
+20	par	par	P	P		12	mod	12	mod
+21	le	le	DET	DET	n=s|g=m	22	det	22	det
+22	pape	pape	NC	NC	n=s|g=m	20	prep	20	prep
+23	Sixte	_	NPP	NPP		22	mod	22	mod
+24	IV	_	NPP	NPP		22	mod	22	mod
+25	,	,	PONCT	PONCT		24	ponct	24	ponct
+26	entre	entre	P	P		12	mod	12	mod
+27	1477	1477	NC	NC		26	prep	26	prep
+28	et	et	CC	CC		27	coord	27	coord
+29	1483	1483	NC	NC		28	dep_coord	28	dep_coord
+30	.	.	PONCT	PONCT		29	ponct	29	ponct
+
+1	Actuellement	_	ADV	ADV		4	mod	4	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	elle	elle	CLS	CLS	n=s|g=f|p=3	4	suj	4	suj
+4	fait	faire	V	V	n=s|t=P|p=3	0	root	0	root
+5	partie	partie	NC	NC	n=s|g=f	4	obj	4	obj
+6	des	de	P+D	P+D	n=p	4	mod	4	mod
+7	musées	musée	NC	NC	n=p|g=m	6	prep	6	prep
+8	du	de	P+D	P+D	n=s|g=m	4	mod	4	mod
+9	Vatican	Vatican	NPP	NPP	n=s|g=m	8	prep	8	prep
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+1	C'	ce	CLS	CLS		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	là	là	ADV	ADV		2	mod	2	mod
+4	que	que	CS	CS		2	mod	2	mod
+5	les	les	DET	DET	n=p	6	det	6	det
+6	cardinaux	cardinal	NC	NC	n=p|g=m	8	suj	8	suj
+7	se	se	CLR	CLR	n=p,s|p=3	8	aff	8	aff
+8	réunissent	réunir	V	V	n=p|t=P,S|p=3	4	sub	4	sub
+9	en	en	P	P		8	mod	8	mod
+10	conclave	conclave	NC	NC	n=s|g=m	9	prep	9	prep
+11	pour	pour	P	P		8	mod	8	mod
+12	élire	élire	VINF	VINF	t=W	11	prep	11	prep
+13	chaque	chaque	DET	DET	n=s	15	det	15	det
+14	nouveau	nouveau	ADJ	ADJ	n=s|g=m	15	mod	15	mod
+15	pape	pape	NC	NC	n=s|g=m	12	obj	12	obj
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+</p><h2>
+1	Histoire	histoire	NC	NC	n=s|g=f	0	_	0	_
+
+</h2><p>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	chapelle	chapelle	NC	NC	n=s|g=f	17	suj	17	suj
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	commandée	commander	VPP	VPP	n=s|g=f|t=K	2	mod	2	mod
+5	par	par	P	P		4	mod	4	mod
+6	le	le	DET	DET	n=s|g=m	7	det	7	det
+7	pape	pape	NC	NC	n=s|g=m	5	prep	5	prep
+8	Sixte	_	NPP	NPP		7	mod	7	mod
+9	IV	_	NPP	NPP		7	mod	7	mod
+10	della	_	ET	ET		13	dep	13	dep
+11	Rovere	_	ET	ET		13	dep	13	dep
+12	(	(	PONCT	PONCT		11	ponct	11	ponct
+13	1471-1484	1471-1484	NPP	NPP		7	mod	7	mod
+14	)	)	PONCT	PONCT		13	ponct	13	ponct
+15	,	,	PONCT	PONCT		13	ponct	13	ponct
+16	est	être	V	V	n=s|t=P|p=3	17	aux_tps	17	aux_tps
+17	consacrée	consacrer	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+18	à	à	P	P		17	mod	17	mod
+19	la	la	DET	DET	n=s|g=f	20	det	20	det
+20	Vierge	_	NPP	NPP		18	prep	18	prep
+21	de	de	P	P		17	mod	17	mod
+22	l'	le	DET	DET	n=s	23	det	23	det
+23	Assomption	_	NPP	NPP		21	prep	21	prep
+24	.	.	PONCT	PONCT		23	ponct	23	ponct
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	2	suj	2	suj
+2	fut	être	V	V	n=s|t=J|p=3	0	root	0	root
+3	au	à	P+D	P+D	n=s|g=m	2	mod	2	mod
+4	cœur	_	NC	NC		3	prep	3	prep
+5	du	de	P+D	P+D	n=s|g=m	2	mod	2	mod
+6	projet	projet	NC	NC	n=s|g=m	5	prep	5	prep
+7	de	de	P	P		2	mod	2	mod
+8	Sixte	_	NPP	NPP		7	prep	7	prep
+9	IV	_	NPP	NPP		8	mod	8	mod
+10	de	de	P	P		2	mod	2	mod
+11	relancer	relancer	VINF	VINF	t=W	10	prep	10	prep
+12	la	la	DET	DET	n=s|g=f	13	det	13	det
+13	force	force	NC	NC	n=s|g=f	11	obj	11	obj
+14	chrétienne	chrétien	ADJ	ADJ	n=s|g=f	13	mod	13	mod
+15	face	face	NC	NC	n=s|g=f	13	mod	13	mod
+16	aux	à	P+D	P+D	n=p	11	mod	11	mod
+17	signories	_	NC	NC		16	prep	16	prep
+18	telles	tel	ADJ	ADJ	n=p|g=f	17	mod	17	mod
+19	que	que	PROREL	PROREL		0	_	0	_
+20	Florence	Florence	NPP	NPP	n=s|g=f	0	_	0	_
+21	.	.	PONCT	PONCT		20	ponct	20	ponct
+
+1	Rome	Rome	NPP	NPP	n=s|g=m	3	suj	3	suj
+2	était	être	V	V	n=s|t=I|p=3	3	aux_tps	3	aux_tps
+3	sortie	sortir	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+4	d'	de	P	P		3	mod	3	mod
+5	une	une	DET	DET	n=s|g=f	6	det	6	det
+6	période	période	NC	NC	n=s	4	prep	4	prep
+7	de	de	P	P		3	mod	3	mod
+8	décadence	décadence	NC	NC	n=s|g=f	7	prep	7	prep
+9	(	(	PONCT	PONCT		8	ponct	8	ponct
+10	à	à	P	P		3	mod	3	mod
+11	cause	cause	NC	NC	n=s|g=f	10	prep	10	prep
+12	du	de	P+D	P+D	n=s|g=m	3	mod	3	mod
+13	déplacement	déplacement	NC	NC	n=s|g=m	12	prep	12	prep
+14	de	de	P	P		3	mod	3	mod
+15	la	la	DET	DET	n=s|g=f	16	det	16	det
+16	papauté	papauté	NC	NC	n=s|g=f	14	prep	14	prep
+17	à	à	P	P		3	mod	3	mod
+18	Avignon	Avignon	NPP	NPP	n=s|g=m	17	prep	17	prep
+19	)	)	PONCT	PONCT		18	ponct	18	ponct
+20	,	,	PONCT	PONCT		18	ponct	18	ponct
+21	pendant	pendant	P	P		3	mod	3	mod
+22	laquelle	lequel	PROREL	PROREL	n=s|g=f	21	prep	21	prep
+23	de	de	DET	DET	n=p	25	det	25	det
+24	nombreux	nombreux	ADJ	ADJ	g=m	25	mod	25	mod
+25	édifices	édifice	NC	NC	n=p|g=m	21	ponct	21	ponct
+26	étaient	être	V	V	n=p|t=I|p=3	27	aux_pass	27	aux_pass
+27	tombés	tomber	VPP	VPP	n=p|g=m|t=K	3	mod	3	mod
+28	en	en	P	P		27	mod	27	mod
+29	ruine	ruine	NC	NC	n=s|g=f	28	prep	28	prep
+30	.	.	PONCT	PONCT		29	ponct	29	ponct
+
+</p><p>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	chapelle	chapelle	NC	NC	n=s|g=f	5	suj	5	suj
+3	Sixtine	_	NPP	NPP		2	mod	2	mod
+4	a	avoir	V	V	n=s|t=P|p=3	5	aux_tps	5	aux_tps
+5	pris	prendre	VPP	VPP	g=m|t=K	0	root	0	root
+6	la	la	DET	DET	n=s|g=f	7	det	7	det
+7	place	place	NC	NC	n=s|g=f	5	obj	5	obj
+8	de	de	P	P		7	dep	7	dep
+9	la	la	DET	DET	n=s|g=f	10	det	10	det
+10	capella	_	NC	NC		8	prep	8	prep
+11	magna	magner	V	V	n=s|t=J|p=3	5	mod	5	mod
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	une	une	DET	DET	n=s|g=f	15	det	15	det
+14	grande	grand	ADJ	ADJ	n=s|g=f	15	mod	15	mod
+15	pièce	pièce	NC	NC	n=s|g=f	11	obj	11	obj
+16	médiévale	médiéval	ADJ	ADJ	n=s|g=f	15	mod	15	mod
+17	où	où	PROREL	PROREL		20	mod	20	mod
+18	le	le	DET	DET	n=s|g=m	19	det	19	det
+19	pape	pape	NC	NC	n=s|g=m	20	suj	20	suj
+20	recevait	recevoir	V	V	n=s|t=I|p=3	15	mod_rel	15	mod_rel
+21	la	la	DET	DET	n=s|g=f	22	det	22	det
+22	cour	cour	NC	NC	n=s|g=f	20	obj	20	obj
+23	pontificale	pontifical	ADJ	ADJ	n=s|g=f	22	mod	22	mod
+24	et	et	CC	CC		22	coord	22	coord
+25	les	les	DET	DET	n=p	26	det	26	det
+26	ambassadeurs	ambassadeur	NC	NC	n=p|g=m	24	dep_coord	24	dep_coord
+27	,	,	PONCT	PONCT		26	ponct	26	ponct
+28	et	et	CC	CC		20	coord	20	coord
+29	célébrait	célébrer	V	V	n=s|t=I|p=3	28	dep_coord	28	dep_coord
+30	les	les	DET	DET	n=p	31	det	31	det
+31	liturgies	liturgie	NC	NC	n=p|g=f	29	obj	29	obj
+32	.	.	PONCT	PONCT		31	ponct	31	ponct
+
+</p><p>
+1	Au	à	P+D	P+D	n=s|g=m	12	mod	12	mod
+2	cours	cour	NC	NC	n=p|g=f	1	prep	1	prep
+3	des	de	P+D	P+D	n=p	2	dep	2	dep
+4	premières	premier	ADJ	ADJ	n=p|g=f	5	mod	5	mod
+5	années	année	NC	NC	n=p|g=f	3	prep	3	prep
+6	de	de	P	P		2	dep	2	dep
+7	son	son	DET	DET	n=s|g=m|p=3|poss=s	8	det	8	det
+8	pontificat	pontificat	NC	NC	n=s|g=m	6	prep	6	prep
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	Sixte	_	NPP	NPP		12	suj	12	suj
+11	IV	_	NPP	NPP		10	mod	10	mod
+12	utilisa	utiliser	V	V	n=s|t=J|p=3	0	root	0	root
+13	la	la	DET	DET	n=s|g=f	14	det	14	det
+14	capella	_	NC	NC		12	obj	12	obj
+15	magna	magner	V	V	n=s|t=J|p=3	12	mod	12	mod
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	mais	mais	CC	CC		15	coord	15	coord
+18	en	en	P	P		17	dep_coord	17	dep_coord
+19	1477	1477	NC	NC		18	prep	18	prep
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	il	il	CLS	CLS	n=s|g=m|p=3	22	suj	22	suj
+22	voulut	vouloir	V	V	n=s|t=J|p=3	12	mod	12	mod
+23	réaménager	réaménager	VINF	VINF	t=W	22	obj	22	obj
+24	complètement	_	ADV	ADV		23	mod	23	mod
+25	cet	cet	DET	DET	n=s|g=m	26	det	26	det
+26	espace	espace	NC	NC	n=s	23	obj	23	obj
+27	:	:	PONCT	PONCT		26	ponct	26	ponct
+28	il	il	CLS	CLS	n=s|g=m|p=3	0	_	0	_
+29	rénova	_	NPP	NPP		0	_	0	_
+30	et	et	CC	CC		29	coord	29	coord
+31	embellit	embellir	V	V	n=s|t=J,P|p=3	30	dep_coord	30	dep_coord
+32	de	de	DET	DET	n=p	34	det	34	det
+33	nombreux	nombreux	ADJ	ADJ	g=m	34	mod	34	mod
+34	bâtiments	bâtiment	NC	NC	n=p|g=m	31	obj	31	obj
+35	,	,	PONCT	PONCT		34	ponct	34	ponct
+36	construisit	construire	V	V	n=s|t=J|p=3	31	mod	31	mod
+37	un	un	DET	DET	n=s|g=m	39	det	39	det
+38	nouveau	nouveau	ADJ	ADJ	n=s|g=m	39	mod	39	mod
+39	pont	pont	NC	NC	n=s|g=m	36	obj	36	obj
+40	sur	sur	P	P		36	mod	36	mod
+41	le	le	DET	DET	n=s|g=m	42	det	42	det
+42	Tibre	Tibre	NPP	NPP	n=s|g=m	40	prep	40	prep
+43	et	et	CC	CC		36	coord	36	coord
+44	rétablit	rétablir	V	V	n=s|t=J,P|p=3	43	dep_coord	43	dep_coord
+45	les	les	DET	DET	n=p	46	det	46	det
+46	routes	route	NC	NC	n=p|g=f	44	obj	44	obj
+47	.	.	PONCT	PONCT		46	ponct	46	ponct
+
+</p><p>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	architectes	architecte	NC	NC	n=p	6	suj	6	suj
+3	de	de	P	P		2	dep	2	dep
+4	l'	le	DET	DET	n=s	5	det	5	det
+5	édifice	édifice	NC	NC	n=s|g=m	3	prep	3	prep
+6	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+7	incertains	incertain	ADJ	ADJ	n=p|g=m	6	ats	6	ats
+8	:	:	PONCT	PONCT		7	ponct	7	ponct
+9	Giovanni	Giovanni	NPP	NPP	n=s|g=m	6	obj	6	obj
+10	de	de	P	P		6	mod	6	mod
+11	'	'	PONCT	PONCT		10	ponct	10	ponct
+12	Dolci	_	NPP	NPP		10	prep	10	prep
+13	ou	ou	CC	CC		6	coord	6	coord
+14	Baccio	_	NPP	NPP		13	dep_coord	13	dep_coord
+15	Pontelli	_	NPP	NPP		14	mod	14	mod
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	premier	premier	ADJ	ADJ	n=s|g=m	3	suj	3	suj
+3	reçut	recevoir	V	V	n=s|t=J|p=3	0	root	0	root
+4	des	des	DET	DET	n=p	5	det	5	det
+5	paiements	paiement	NC	NC	n=p|g=m	3	obj	3	obj
+6	pour	pour	P	P		3	mod	3	mod
+7	la	la	DET	DET	n=s|g=f	8	det	8	det
+8	construction	construction	NC	NC	n=s|g=f	6	prep	6	prep
+9	de	de	P	P		3	mod	3	mod
+10	la	la	DET	DET	n=s|g=f	11	det	11	det
+11	chapelle	chapelle	NC	NC	n=s|g=f	9	prep	9	prep
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	mais	mais	CC	CC		3	coord	3	coord
+14	il	il	CLS	CLS	n=s|g=m|p=3	15	suj	15	suj
+15	est	être	V	V	n=s|t=P|p=3	13	dep_coord	13	dep_coord
+16	probable	probable	ADJ	ADJ	n=s	15	ats	15	ats
+17	qu'	que	CS	CS		15	mod	15	mod
+18	il	il	CLS	CLS	n=s|g=m|p=3	20	suj	20	suj
+19	n'	ne	ADV	ADV		20	mod	20	mod
+20	était	être	V	V	n=s|t=I|p=3	17	sub	17	sub
+21	que	que	CS	CS		20	obj	20	obj
+22	le	le	DET	DET	n=s|g=m	23	det	23	det
+23	contremaître	contremaître	NC	NC	n=s|g=m	29	suj	29	suj
+24	du	de	P+D	P+D	n=s|g=m	23	dep	23	dep
+25	projet	projet	NC	NC	n=s|g=m	24	prep	24	prep
+26	;	;	PONCT	PONCT		25	ponct	25	ponct
+27	le	le	DET	DET	n=s|g=m	28	det	28	det
+28	second	second	ADJ	ADJ	n=s|g=m	23	mod	23	mod
+29	demeurait	demeurer	V	V	n=s|t=I|p=3	21	sub	21	sub
+30	à	à	P	P		29	mod	29	mod
+31	la	la	DET	DET	n=s|g=f	32	det	32	det
+32	cour	cour	NC	NC	n=s|g=f	30	prep	30	prep
+33	d'	de	P	P		29	mod	29	mod
+34	Urbino	_	NPP	NPP		33	prep	33	prep
+35	,	,	PONCT	PONCT		34	ponct	34	ponct
+36	mais	mais	CC	CC		15	coord	15	coord
+37	il	il	CLS	CLS	n=s|g=m|p=3	39	suj	39	suj
+38	aurait	avoir	V	V	n=s|t=C|p=3	39	aux_tps	39	aux_tps
+39	pu	pouvoir	VPP	VPP	t=K	36	dep_coord	36	dep_coord
+40	envoyer	envoyer	VINF	VINF	t=W	39	obj	39	obj
+41	ses	ses	DET	DET	n=p|p=3|poss=s	42	det	42	det
+42	projets	projet	NC	NC	n=p|g=m	40	obj	40	obj
+43	à	à	P	P		40	mod	40	mod
+44	Rome	Rome	NPP	NPP	n=s|g=m	43	prep	43	prep
+45	.	.	PONCT	PONCT		44	ponct	44	ponct
+
+</p><p>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	décoration	décoration	NC	NC	n=s|g=f	4	suj	4	suj
+3	fut	être	V	V	n=s|t=J|p=3	4	aux_pass	4	aux_pass
+4	commencée	commencer	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+5	par	par	P	P		4	mod	4	mod
+6	Le	_	NPP	NPP		5	prep	5	prep
+7	Pérugin	_	NPP	NPP		6	mod	6	mod
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	qui	qui	PROREL	PROREL	n=s	10	suj	10	suj
+10	exécuta	exécuter	V	V	n=s|t=J|p=3	4	mod	4	mod
+11	seul	seul	ADJ	ADJ	n=s|g=m	10	mod	10	mod
+12	la	la	DET	DET	n=s|g=f	13	det	13	det
+13	fresque	fresque	NC	NC	n=s|g=f	10	obj	10	obj
+14	(	(	PONCT	PONCT		13	ponct	13	ponct
+15	la	la	DET	DET	n=s|g=f	16	det	16	det
+16	Pala	_	NPP	NPP		13	mod	13	mod
+17	del	_	ADJ	ADJ		16	mod	16	mod
+18	Assunta	Assunta	NPP	NPP	n=s|g=f	13	mod	13	mod
+19	)	)	PONCT	PONCT		18	ponct	18	ponct
+20	située	situer	VPP	VPP	n=s|g=f|t=K	13	mod	13	mod
+21	derrière	derrière	P	P		20	mod	20	mod
+22	l'	le	DET	DET	n=s	23	det	23	det
+23	autel	autel	NC	NC	n=s|g=m	21	prep	21	prep
+24	.	.	PONCT	PONCT		23	ponct	23	ponct
+
+1	Le	le	DET	DET	n=s|g=m	3	det	3	det
+2	28	28	ADJ	ADJ		3	mod	3	mod
+3	juin	juin	NC	NC	n=s|g=m	10	mod	10	mod
+4	1472	1472	ADJ	ADJ		3	mod	3	mod
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	le	le	DET	DET	n=s|g=m	7	det	7	det
+7	pape	pape	NC	NC	n=s|g=m	10	suj	10	suj
+8	Sixte	_	NPP	NPP		7	mod	7	mod
+9	IV	_	NPP	NPP		7	mod	7	mod
+10	prononça	prononcer	V	V	n=s|t=J|p=3	0	root	0	root
+11	une	une	DET	DET	n=s|g=f	12	det	12	det
+12	excommunication	excommunication	NC	NC	n=s|g=f	10	obj	10	obj
+13	à	à	P	P		10	mod	10	mod
+14	l'	le	DET	DET	n=s	15	det	15	det
+15	encontre	encontre	NC	NC	n=s|g=f	13	prep	13	prep
+16	des	de	P+D	P+D	n=p	15	dep	15	dep
+17	Médicis	_	NPP	NPP		16	prep	16	prep
+18	et	et	CC	CC		16	coord	16	coord
+19	de	de	P	P		18	dep_coord	18	dep_coord
+20	Florence	Florence	NPP	NPP	n=s|g=f	19	prep	19	prep
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	car	car	CS	CS		10	mod	10	mod
+23	une	une	DET	DET	n=s|g=f	24	det	24	det
+24	conjuration	conjuration	NC	NC	n=s|g=f	40	suj	40	suj
+25	menée	mener	VPP	VPP	n=s|g=f|t=K	24	mod	24	mod
+26	par	par	P	P		25	mod	25	mod
+27	la	la	DET	DET	n=s|g=f	28	det	28	det
+28	famille	famille	NC	NC	n=s|g=f	26	prep	26	prep
+29	des	de	P+D	P+D	n=p	28	dep	28	dep
+30	Pazzi	_	NPP	NPP		29	prep	29	prep
+31	,	,	PONCT	PONCT		30	ponct	30	ponct
+32	soutenue	soutenir	VPP	VPP	n=s|g=f|t=K	28	mod	28	mod
+33	par	par	P	P		32	mod	32	mod
+34	la	la	DET	DET	n=s|g=f	35	det	35	det
+35	papauté	papauté	NC	NC	n=s|g=f	33	prep	33	prep
+36	,	,	PONCT	PONCT		35	ponct	35	ponct
+37	n'	ne	ADV	ADV		40	mod	40	mod
+38	avait	avoir	V	V	n=s|t=I|p=3	40	aux_tps	40	aux_tps
+39	pas	pas	ADV	ADV		40	mod	40	mod
+40	réussi	réussir	VPP	VPP	n=s|g=m|t=K	22	sub	22	sub
+41	.	.	PONCT	PONCT		40	ponct	40	ponct
+
+1	Cependant	cependant	ADV	ADV		14	mod	14	mod
+2	les	les	DET	DET	n=p	4	det	4	det
+3	meilleurs	meilleur	ADJ	ADJ	n=p|g=m	4	mod	4	mod
+4	ateliers	atelier	NC	NC	n=p|g=m	14	suj	14	suj
+5	et	et	CC	CC		4	coord	4	coord
+6	les	les	DET	DET	n=p	9	det	9	det
+7	plus	plus	ADV	ADV		8	mod	8	mod
+8	talentueux	talentueux	ADJ	ADJ	g=m	9	mod	9	mod
+9	artistes	artiste	NC	NC	n=p	5	dep_coord	5	dep_coord
+10	de	de	P	P		9	dep	9	dep
+11	l'	le	DET	DET	n=s	12	det	12	det
+12	époque	époque	NC	NC	n=s|g=f	10	prep	10	prep
+13	se	se	CLR	CLR	n=p,s|p=3	14	aff	14	aff
+14	trouvaient	trouver	V	V	n=p|t=I|p=3	0	root	0	root
+15	à	à	P	P		14	mod	14	mod
+16	Florence	Florence	NPP	NPP	n=s|g=f	15	prep	15	prep
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+1	C'	ce	CLS	CLS		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	pour	pour	P	P		2	mod	2	mod
+4	cela	cela	PRO	PRO	n=s|g=m	3	prep	3	prep
+5	que	que	CS	CS		2	mod	2	mod
+6	seul	seul	ADJ	ADJ	n=s|g=m	7	mod	7	mod
+7	Le	_	NC	NC		10	suj	10	suj
+8	Pérugin	_	NPP	NPP		7	mod	7	mod
+9	avait	avoir	V	V	n=s|t=I|p=3	10	aux_tps	10	aux_tps
+10	commencé	commencer	VPP	VPP	n=s|g=m|t=K	5	sub	5	sub
+11	la	la	DET	DET	n=s|g=f	12	det	12	det
+12	décoration	décoration	NC	NC	n=s|g=f	10	obj	10	obj
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	car	car	CS	CS		10	mod	10	mod
+15	il	il	CLS	CLS	n=s|g=m|p=3	17	suj	17	suj
+16	n'	ne	ADV	ADV		17	mod	17	mod
+17	était	être	V	V	n=s|t=I|p=3	14	sub	14	sub
+18	pas	pas	ADV	ADV		17	mod	17	mod
+19	originaire	originaire	ADJ	ADJ	n=s	17	ats	17	ats
+20	de	de	P	P		17	mod	17	mod
+21	la	la	DET	DET	n=s|g=f	22	det	22	det
+22	capitale	capitale	NC	NC	n=s|g=f	20	prep	20	prep
+23	toscane	toscan	NC	NC	n=s|g=f	22	mod	22	mod
+24	.	.	PONCT	PONCT		23	ponct	23	ponct
+
+1	Plus	plus	ADV	ADV		2	mod	2	mod
+2	tard	tard	ADV	ADV		11	mod	11	mod
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	les	les	DET	DET	n=p	5	det	5	det
+5	tensions	tension	NC	NC	n=p|g=f	11	suj	11	suj
+6	entre	entre	P	P		5	dep	5	dep
+7	le	le	DET	DET	n=s|g=m	8	det	8	det
+8	pape	pape	NC	NC	n=s|g=m	6	prep	6	prep
+9	et	et	CC	CC		5	coord	5	coord
+10	Florence	Florence	NPP	NPP	n=s|g=f	9	dep_coord	9	dep_coord
+11	disparurent	disparaître	V	V	n=p|t=J|p=3	0	root	0	root
+12	:	:	PONCT	PONCT		11	ponct	11	ponct
+13	le	le	DET	DET	n=s|g=m	14	det	14	det
+14	premier	premier	ADJ	ADJ	n=s|g=m	15	suj	15	suj
+15	révoqua	révoquer	V	V	n=s|t=J|p=3	11	mod	11	mod
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	le	le	DET	DET	n=s|g=m	19	det	19	det
+18	3	3	ADJ	ADJ		19	mod	19	mod
+19	décembre	décembre	NC	NC	n=s|g=m	15	obj	15	obj
+20	1480	1480	ADJ	ADJ		19	mod	19	mod
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	l'	le	DET	DET	n=s	23	det	23	det
+23	excommunication	excommunication	NC	NC	n=s|g=f	15	mod	15	mod
+24	prononcée	prononcer	VPP	VPP	n=s|g=f|t=K	23	mod	23	mod
+25	en	en	P	P		24	mod	24	mod
+26	1472	1472	NC	NC		25	prep	25	prep
+27	.	.	PONCT	PONCT		26	ponct	26	ponct
+
+1	Pour	pour	P	P		10	mod	10	mod
+2	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	3	det	3	det
+3	réconciliation	réconciliation	NC	NC	n=s|g=f	1	prep	1	prep
+4	avec	avec	P	P		3	dep	3	dep
+5	lui	lui	PRO	PRO	n=s|g=m|p=3	4	prep	4	prep
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	Laurent	Laurent	NPP	NPP	n=s|g=m	10	suj	10	suj
+8	de	de	P	P		7	dep	7	dep
+9	Médicis	_	NPP	NPP		8	prep	8	prep
+10	proposa	proposer	V	V	n=s|t=J|p=3	0	root	0	root
+11	de	de	P	P		10	mod	10	mod
+12	lui	lui	CLO	CLO	n=s|p=3	13	aff	13	aff
+13	envoyer	envoyer	VINF	VINF	t=W	11	prep	11	prep
+14	les	les	DET	DET	n=p	16	det	16	det
+15	meilleurs	meilleur	ADJ	ADJ	n=p|g=m	16	mod	16	mod
+16	artistes	artiste	NC	NC	n=p	13	obj	13	obj
+17	florentins	florentin	ADJ	ADJ	n=p|g=m	16	mod	16	mod
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	ce	ce	PRO	PRO	n=s	10	mod	10	mod
+20	que	que	PROREL	PROREL		0	_	0	_
+21	Sixte	_	ET	ET		0	_	0	_
+22	IV	_	ET	ET		0	_	0	_
+23	accepta	accepter	V	V	n=s|t=J|p=3	22	mod_rel	22	mod_rel
+24	.	.	PONCT	PONCT		23	ponct	23	ponct
+
+</p><p>
+1	Ghirlandaio	_	NPP	NPP		10	suj	10	suj
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	Botticelli	_	NPP	NPP		1	mod	1	mod
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	Signorelli	_	NPP	NPP		1	mod	1	mod
+6	et	et	CC	CC		1	coord	1	coord
+7	d'	de	DET	DET	n=p	9	det	9	det
+8	autres	autre	ADJ	ADJ	n=p	9	mod	9	mod
+9	Florentins	florentin	NC	NC	n=p|g=m	6	dep_coord	6	dep_coord
+10	arrivèrent	arriver	V	V	n=p|t=J|p=3	0	root	0	root
+11	pour	pour	P	P		10	mod	10	mod
+12	décorer	décorer	VINF	VINF	t=W	11	prep	11	prep
+13	les	les	DET	DET	n=p	14	det	14	det
+14	murs	mur	NC	NC	n=p|g=m	12	obj	12	obj
+15	latéraux	latéral	ADJ	ADJ	n=p|g=m	14	mod	14	mod
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+1	D'	de	DET	DET	n=p	3	det	3	det
+2	autres	autre	ADJ	ADJ	n=p	3	mod	3	mod
+3	peintres	peintre	NC	NC	n=p	4	suj	4	suj
+4	avaient	avoir	V	V	n=p|t=I|p=3	0	root	0	root
+5	des	des	DET	DET	n=p	6	det	6	det
+6	tâches	tâche	NC	NC	n=p|g=f	4	obj	4	obj
+7	mineures	mineur	ADJ	ADJ	n=p|g=f	6	mod	6	mod
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	comme	comme	P	P		4	mod	4	mod
+10	les	les	DET	DET	n=p	11	det	11	det
+11	scénettes	_	NC	NC		9	prep	9	prep
+12	du	de	P+D	P+D	n=s|g=m	4	mod	4	mod
+13	fond	fond	NC	NC	n=s|g=m	12	prep	12	prep
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	le	le	DET	DET	n=s|g=m	16	det	16	det
+16	décor	décor	NC	NC	n=s|g=m	4	obj	4	obj
+17	...	...	PONCT	PONCT		16	ponct	16	ponct
+
+</p><p>
+1	Jules	jules	NC	NC	g=m	3	suj	3	suj
+2	II	_	NPP	NPP		1	mod	1	mod
+3	continua	continuer	V	V	n=s|t=J|p=3	0	root	0	root
+4	ensuite	ensuite	ADV	ADV		3	mod	3	mod
+5	la	la	DET	DET	n=s|g=f	6	det	6	det
+6	renovatio	_	NC	NC		3	obj	3	obj
+7	de	de	P	P		6	dep	6	dep
+8	Rome	Rome	NPP	NPP	n=s|g=m	7	prep	7	prep
+9	entamée	entamer	VPP	VPP	n=s|g=f|t=K	6	mod	6	mod
+10	par	par	P	P		9	mod	9	mod
+11	Sixte	_	NPP	NPP		10	prep	10	prep
+12	IV	_	NPP	NPP		11	mod	11	mod
+13	.	.	PONCT	PONCT		12	ponct	12	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	nomma	nommer	V	V	n=s|t=J|p=3	0	root	0	root
+3	Bramante	_	ADJ	ADJ		4	mod	4	mod
+4	surintendant	surintendant	NC	NC	n=s|g=m	2	obj	2	obj
+5	des	de	P+D	P+D	n=p	2	mod	2	mod
+6	fabriques	fabrique	NC	NC	n=p|g=f	5	prep	5	prep
+7	papales	papal	ADJ	ADJ	n=p|g=f	6	mod	6	mod
+8	.	.	PONCT	PONCT		7	ponct	7	ponct
+
+1	On	on	CLS	CLS	n=s|p=3	2	suj	2	suj
+2	peut	pouvoir	V	V	n=s|t=P|p=3	0	root	0	root
+3	imaginer	imaginer	VINF	VINF	t=W	2	obj	2	obj
+4	qu'	que	CS	CS		2	mod	2	mod
+5	au	à	P+D	P+D	n=s|g=m	19	mod	19	mod
+6	vu	_	NC	NC		5	prep	5	prep
+7	de	de	P	P		6	dep	6	dep
+8	la	la	DET	DET	n=s|g=f	9	det	9	det
+9	Sixtine	_	NPP	NPP		7	prep	7	prep
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	avec	avec	P	P		6	dep	6	dep
+12	le	le	DET	DET	n=s|g=m	13	det	13	det
+13	plafond	plafond	NC	NC	n=s|g=m	11	prep	11	prep
+14	étoilé	étoiler	VPP	VPP	n=s|g=m|t=K	13	mod	13	mod
+15	endommagé	endommager	VPP	VPP	n=s|g=m|t=K	13	mod	13	mod
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	18	det	18	det
+18	pensée	pensée	NC	NC	n=s|g=f	19	suj	19	suj
+19	alla	aller	V	V	n=s|t=J|p=3	4	sub	4	sub
+20	au	à	P+D	P+D	n=s|g=m	19	mod	19	mod
+21	génie	génie	NC	NC	n=s|g=m	20	prep	20	prep
+22	de	de	P	P		19	mod	19	mod
+23	Michel-Ange	_	NPP	NPP		22	prep	22	prep
+24	,	,	PONCT	PONCT		23	ponct	23	ponct
+25	qui	qui	PROREL	PROREL	n=s	35	suj	35	suj
+26	,	,	PONCT	PONCT		25	ponct	25	ponct
+27	lorsqu'	lorsque	CS	CS		35	mod	35	mod
+28	il	il	CLS	CLS	n=s|g=m|p=3	30	suj	30	suj
+29	fut	être	V	V	n=s|t=J|p=3	30	aux_pass	30	aux_pass
+30	appelé	appeler	VPP	VPP	n=s|g=m|t=K	27	sub	27	sub
+31	par	par	P	P		30	mod	30	mod
+32	le	le	DET	DET	n=s|g=m	33	det	33	det
+33	pape	pape	NC	NC	n=s|g=m	31	prep	31	prep
+34	,	,	PONCT	PONCT		33	ponct	33	ponct
+35	était	être	V	V	n=s|t=I|p=3	2	mod	2	mod
+36	déjà	déjà	ADV	ADV		35	mod	35	mod
+37	un	un	DET	DET	n=s|g=m	38	det	38	det
+38	artiste	artiste	NC	NC	n=s	35	obj	35	obj
+39	affirmé	affirmer	VPP	VPP	n=s|g=m|t=K	38	mod	38	mod
+40	et	et	CC	CC		39	coord	39	coord
+41	connu	connaître	VPP	VPP	n=s|g=m|t=K	40	dep_coord	40	dep_coord
+42	,	,	PONCT	PONCT		41	ponct	41	ponct
+43	protégé	protéger	VPP	VPP	n=s|g=m|t=K	41	dep	41	dep
+44	par	par	P	P		43	mod	43	mod
+45	les	les	DET	DET	n=p	46	det	46	det
+46	Médicis	_	NPP	NPP		44	prep	44	prep
+47	.	.	PONCT	PONCT		46	ponct	46	ponct
+
+</p><p>
+1	Michel-Ange	_	NPP	NPP		2	suj	2	suj
+2	était	être	V	V	n=s|t=I|p=3	0	root	0	root
+3	cependant	cependant	ADV	ADV		2	mod	2	mod
+4	très	très	ADV	ADV		2	mod	2	mod
+5	perplexe	perplexe	ADJ	ADJ	n=s	2	ats	2	ats
+6	quant	_	ADV	ADV		2	mod	2	mod
+7	à	à	P	P		2	mod	2	mod
+8	accepter	accepter	VINF	VINF	t=W	7	prep	7	prep
+9	la	la	DET	DET	n=s|g=f	10	det	10	det
+10	proposition	proposition	NC	NC	n=s|g=f	8	obj	8	obj
+11	:	:	PONCT	PONCT		10	ponct	10	ponct
+12	peindre	peindre	VINF	VINF	t=W	2	obj	2	obj
+13	une	une	DET	DET	n=s|g=f	14	det	14	det
+14	voûte	voûte	NC	NC	n=s|g=f	12	obj	12	obj
+15	aussi	aussi	ADV	ADV		16	mod	16	mod
+16	importante	important	ADJ	ADJ	n=s|g=f	14	mod	14	mod
+17	était	être	V	V	n=s|t=I|p=3	2	mod	2	mod
+18	un	un	DET	DET	n=s|g=m	19	det	19	det
+19	travail	travail	NC	NC	n=s|g=m	17	suj	17	suj
+20	épuisant	épuisant	ADJ	ADJ	n=s|g=m	19	mod	19	mod
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	et	et	CC	CC		2	coord	2	coord
+23	l'	le	DET	DET	n=s	24	det	24	det
+24	artiste	artiste	NC	NC	n=s	25	suj	25	suj
+25	était	être	V	V	n=s|t=I|p=3	22	dep_coord	22	dep_coord
+26	un	un	DET	DET	n=s|g=m	27	det	27	det
+27	sculpteur	sculpteur	NC	NC	n=s|g=m	25	obj	25	obj
+28	,	,	PONCT	PONCT		27	ponct	27	ponct
+29	non	non	ADV	ADV		31	mod	31	mod
+30	un	un	DET	DET	n=s|g=m	31	det	31	det
+31	expert	expert	NC	NC	n=s	25	mod	25	mod
+32	de	de	P	P		31	dep	31	dep
+33	la	la	DET	DET	n=s|g=f	34	det	34	det
+34	fresque	fresque	NC	NC	n=s|g=f	32	prep	32	prep
+35	(	(	PONCT	PONCT		34	ponct	34	ponct
+36	il	il	CLS	CLS	n=s|g=m|p=3	39	suj	39	suj
+37	n'	ne	ADV	ADV		39	mod	39	mod
+38	avait	avoir	V	V	n=s|t=I|p=3	39	aux_tps	39	aux_tps
+39	fini	finir	VPP	VPP	n=s|g=m|t=K	2	mod	2	mod
+40	aucun	aucun	DET	DET	n=s|g=m	41	det	41	det
+41	tableau	tableau	NC	NC	n=s|g=m	39	obj	39	obj
+42	,	,	PONCT	PONCT		41	ponct	41	ponct
+43	même	même	ADV	ADV		44	mod	44	mod
+44	pas	pas	ADV	ADV		39	mod	39	mod
+45	la	la	DET	DET	n=s|g=f	46	det	46	det
+46	Bataille	bataille	NC	NC	n=s|g=f	39	obj	39	obj
+47	de	de	P	P		46	dep	46	dep
+48	Cascina	_	NPP	NPP		47	prep	47	prep
+49	)	)	PONCT	PONCT		48	ponct	48	ponct
+50	.	.	PONCT	PONCT		48	ponct	48	ponct
+
+1	De	de	P	P		5	mod	5	mod
+2	plus	plus	ADV	ADV		1	mod	1	mod
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	cela	cela	PRO	PRO	n=s|g=m	5	suj	5	suj
+5	impliquait	impliquer	V	V	n=s|t=I|p=3	0	root	0	root
+6	d'	de	DET	DET	n=p	8	det	8	det
+7	énormes	énorme	ADJ	ADJ	n=p	8	mod	8	mod
+8	risques	risque	NC	NC	n=p|g=m	5	obj	5	obj
+9	:	:	PONCT	PONCT		8	ponct	8	ponct
+10	il	il	CLS	CLS	n=s|g=m|p=3	11	suj	11	suj
+11	devait	devoir	V	V	n=s|t=I|p=3	5	mod	5	mod
+12	décorer	décorer	VINF	VINF	t=W	11	obj	11	obj
+13	la	la	DET	DET	n=s|g=f	14	det	14	det
+14	chapelle	chapelle	NC	NC	n=s|g=f	12	obj	12	obj
+15	la	la	DET	DET	n=s|g=f	17	det	17	det
+16	plus	plus	ADV	ADV		17	mod	17	mod
+17	importante	important	ADJ	ADJ	n=s|g=f	14	mod	14	mod
+18	de	de	P	P		12	mod	12	mod
+19	la	la	DET	DET	n=s|g=f	20	det	20	det
+20	chrétienté	chrétienté	NC	NC	n=s|g=f	18	prep	18	prep
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	alors	alors	ADV	ADV		23	mod	23	mod
+23	que	que	CS	CS		11	mod	11	mod
+24	lui	lui	PRO	PRO	n=s|g=m|p=3	29	suj	29	suj
+25	-	-	PONCT	PONCT		24	ponct	24	ponct
+26	même	même	ADV	ADV		27	mod	27	mod
+27	n'	ne	ADV	ADV		29	mod	29	mod
+28	avait	avoir	V	V	n=s|t=I|p=3	29	aux_tps	29	aux_tps
+29	exécuté	exécuter	VPP	VPP	n=s|g=m|t=K	23	sub	23	sub
+30	aucune	aucune	DET	DET	n=s|g=f	31	det	31	det
+31	fresque	fresque	NC	NC	n=s|g=f	29	obj	29	obj
+32	.	.	PONCT	PONCT		31	ponct	31	ponct
+
+</p><h2>
+1	Architecture	architecture	NC	NC	n=s|g=f	0	_	0	_
+
+</h2><p>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	chapelle	chapelle	NC	NC	n=s|g=f	4	suj	4	suj
+3	est	être	V	V	n=s|t=P|p=3	4	aux_pass	4	aux_pass
+4	constituée	constituer	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+5	d'	de	P	P		4	mod	4	mod
+6	une	une	DET	DET	n=s|g=f	8	det	8	det
+7	unique	unique	ADJ	ADJ	n=s	8	mod	8	mod
+8	salle	salle	NC	NC	n=s|g=f	5	prep	5	prep
+9	rectangulaire	rectangulaire	ADJ	ADJ	n=s	8	mod	8	mod
+10	de	de	P	P		4	mod	4	mod
+11	40	40	NC	NC		10	prep	10	prep
+12	m	_	NPP	NPP		11	mod	11	mod
+13	de	de	P	P		4	mod	4	mod
+14	long	long	ADJ	ADJ	n=s|g=m	13	prep	13	prep
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	13	13	ADJ	ADJ		17	mod	17	mod
+17	m	_	NC	NC		4	mod	4	mod
+18	de	de	P	P		17	dep	17	dep
+19	large	large	ADJ	ADJ	n=s	22	mod	22	mod
+20	et	et	CC	CC		19	coord	19	coord
+21	21	21	ADJ	ADJ		20	dep_coord	20	dep_coord
+22	m	_	NC	NC		18	prep	18	prep
+23	de	de	P	P		4	mod	4	mod
+24	haut	haut	NC	NC	n=s|g=m	23	prep	23	prep
+25	(	(	PONCT	PONCT		24	ponct	24	ponct
+26	21	21	NC	NC		4	mod	4	mod
+27	/	/	PONCT	PONCT		26	ponct	26	ponct
+28	13	13	NC	NC		4	mod	4	mod
+29	=	=	P	P		4	mod	4	mod
+30	1,61	1,61	NC	NC		29	prep	29	prep
+31	...	...	PONCT	PONCT		30	ponct	30	ponct
+32	est	être	V	V	n=s|t=P|p=3	4	mod	4	mod
+33	le	le	DET	DET	n=s|g=m	34	det	34	det
+34	nombre	nombre	NC	NC	n=s|g=m	32	suj	32	suj
+35	d'	de	P	P		34	dep	34	dep
+36	or	or	NC	NC	n=s|g=m	35	prep	35	prep
+37	)	)	PONCT	PONCT		36	ponct	36	ponct
+38	,	,	PONCT	PONCT		36	ponct	36	ponct
+39	avec	avec	P	P		4	mod	4	mod
+40	une	une	DET	DET	n=s|g=f	41	det	41	det
+41	voûte	voûte	NC	NC	n=s|g=f	39	prep	39	prep
+42	en	en	P	P		41	dep	41	dep
+43	berceau	berceau	NC	NC	n=s|g=m	42	prep	42	prep
+44	et	et	CC	CC		4	coord	4	coord
+45	12	12	ADJ	ADJ		46	mod	46	mod
+46	fenêtres	fenêtre	NC	NC	n=p|g=f	0	_	0	_
+47	cintrées	cintrer	VPP	VPP	n=p|g=f|t=K	46	mod	46	mod
+48	.	.	PONCT	PONCT		47	ponct	47	ponct
+
+1	Une	une	DET	DET	n=s|g=f	2	det	2	det
+2	galerie	galerie	NC	NC	n=s|g=f	5	suj	5	suj
+3	extérieure	extérieur	ADJ	ADJ	n=s|g=f	2	mod	2	mod
+4	défensive	défensif	ADJ	ADJ	n=s|g=f	2	mod	2	mod
+5	assurait	assurer	V	V	n=s|t=I|p=3	0	root	0	root
+6	la	la	DET	DET	n=s|g=f	7	det	7	det
+7	sécurité	sécurité	NC	NC	n=s|g=f	5	obj	5	obj
+8	du	de	P+D	P+D	n=s|g=m	7	dep	7	dep
+9	bâtiment	bâtiment	NC	NC	n=s|g=m	8	prep	8	prep
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	3	suj	3	suj
+2	est	être	V	V	n=s|t=P|p=3	3	aux_tps	3	aux_tps
+3	séparée	séparer	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+4	en	en	P	P		3	mod	3	mod
+5	deux	deux	PRO	PRO	s=card|n=p	4	prep	4	prep
+6	par	par	P	P		3	mod	3	mod
+7	une	une	DET	DET	n=s|g=f	8	det	8	det
+8	cloison	cloison	NC	NC	n=s|g=f	6	prep	6	prep
+9	en	en	P	P		8	dep	8	dep
+10	marbre	marbre	NC	NC	n=s|g=m	9	prep	9	prep
+11	qui	qui	PROREL	PROREL	n=s	12	suj	12	suj
+12	délimite	délimiter	V	V	n=s|t=P,S|p=1,3	3	mod	3	mod
+13	la	la	DET	DET	n=s|g=f	14	det	14	det
+14	partie	partie	NC	NC	n=s|g=f	12	obj	12	obj
+15	réservée	réserver	VPP	VPP	n=s|g=f|t=K	14	mod	14	mod
+16	au	à	P+D	P+D	n=s|g=m	15	a_obj	15	a_obj
+17	clergé	clergé	NC	NC	n=s|g=m	16	prep	16	prep
+18	et	et	CC	CC		14	coord	14	coord
+19	celle	celle	PRO	PRO	n=s|g=f	18	dep_coord	18	dep_coord
+20	accessible	accessible	ADJ	ADJ	n=s	19	mod	19	mod
+21	aux	à	P+D	P+D	n=p	12	mod	12	mod
+22	fidèles	fidèle	ADJ	ADJ	n=p	0	_	0	_
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+</p><h2>
+1	Décoration	décoration	NC	NC	n=s|g=f	0	_	0	_
+
+</h2><p>
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	2	suj	2	suj
+2	doit	devoir	V	V	n=s|t=P|p=3	0	root	0	root
+3	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	4	det	4	det
+4	célébrité	célébrité	NC	NC	n=s|g=f	2	obj	2	obj
+5	à	à	P	P		2	mod	2	mod
+6	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	7	det	7	det
+7	décoration	décoration	NC	NC	n=s|g=f	5	prep	5	prep
+8	réalisée	réaliser	VPP	VPP	n=s|g=f|t=K	7	mod	7	mod
+9	par	par	P	P		8	mod	8	mod
+10	les	les	DET	DET	n=p	13	det	13	det
+11	plus	plus	ADV	ADV		12	mod	12	mod
+12	grands	grand	ADJ	ADJ	n=p|g=m	13	mod	13	mod
+13	artistes	artiste	NC	NC	n=p	9	prep	9	prep
+14	de	de	P	P		13	dep	13	dep
+15	la	la	DET	DET	n=s|g=f	16	det	16	det
+16	Renaissance	renaissance	NC	NC	n=s|g=f	14	prep	14	prep
+17	:	:	PONCT	PONCT		16	ponct	16	ponct
+18	Michel-Ange	_	NPP	NPP		13	mod	13	mod
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	Le	_	NPP	NPP		13	mod	13	mod
+21	Pérugin	_	NPP	NPP		13	mod	13	mod
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+23	Sandro	Sandro	NPP	NPP	n=s|g=m	13	mod	13	mod
+24	Botticelli	_	NPP	NPP		13	mod	13	mod
+25	,	,	PONCT	PONCT		24	ponct	24	ponct
+26	notamment	_	ADV	ADV		0	_	0	_
+27	.	.	PONCT	PONCT		26	ponct	26	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	Pérugin	_	NPP	NPP		3	suj	3	suj
+3	fut	être	V	V	n=s|t=J|p=3	0	root	0	root
+4	le	le	DET	DET	n=s|g=m	5	det	5	det
+5	premier	premier	ADJ	ADJ	n=s|g=m	6	suj	6	suj
+6	a	avoir	V	V	n=s|t=P|p=3	3	mod	3	mod
+7	commencer	commencer	VINF	VINF	t=W	6	obj	6	obj
+8	la	la	DET	DET	n=s|g=f	9	det	9	det
+9	décoration	décoration	NC	NC	n=s|g=f	7	obj	7	obj
+10	de	de	P	P		7	mod	7	mod
+11	la	la	DET	DET	n=s|g=f	12	det	12	det
+12	chapelle	chapelle	NC	NC	n=s|g=f	10	prep	10	prep
+13	(	(	PONCT	PONCT		12	ponct	12	ponct
+14	pour	pour	P	P		7	mod	7	mod
+15	le	le	DET	DET	n=s|g=m	16	det	16	det
+16	maître	maître	NC	NC	n=s|g=m	14	prep	14	prep
+17	autel	autel	NC	NC	n=s|g=m	16	mod	16	mod
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	la	la	DET	DET	n=s|g=f	20	det	20	det
+20	Pala	_	NPP	NPP		7	obj	7	obj
+21	d'	de	P	P		7	mod	7	mod
+22	Assunta	Assunta	NPP	NPP	n=s|g=f	21	prep	21	prep
+23	et	et	CC	CC		7	coord	7	coord
+24	sur	sur	P	P		23	dep_coord	23	dep_coord
+25	les	les	DET	DET	n=p	26	det	26	det
+26	côtés	côté	NC	NC	n=p|g=m	24	prep	24	prep
+27	)	)	PONCT	PONCT		26	ponct	26	ponct
+28	.	.	PONCT	PONCT		26	ponct	26	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	Médicis	_	NPP	NPP		6	suj	6	suj
+3	et	et	CC	CC		2	coord	2	coord
+4	le	le	DET	DET	n=s|g=m	5	det	5	det
+5	pape	pape	NC	NC	n=s|g=m	3	dep_coord	3	dep_coord
+6	entretenaient	entretenir	V	V	n=p|t=I|p=3	0	root	0	root
+7	de	de	DET	DET	n=p	10	det	10	det
+8	très	très	ADV	ADV		9	mod	9	mod
+9	mauvaises	mauvais	ADJ	ADJ	n=p|g=f	10	mod	10	mod
+10	relations	relation	NC	NC	n=p|g=f	6	obj	6	obj
+11	à	à	P	P		6	mod	6	mod
+12	l'	le	DET	DET	n=s	13	det	13	det
+13	époque	époque	NC	NC	n=s|g=f	11	prep	11	prep
+14	(	(	PONCT	PONCT		13	ponct	13	ponct
+15	on	on	CLS	CLS	n=s|p=3	16	suj	16	suj
+16	soupçonne	soupçonner	V	V	n=s|t=P,S|p=1,3	6	mod	6	mod
+17	ce	ce	DET	DET	n=s|g=m	18	det	18	det
+18	dernier	dernier	ADJ	ADJ	n=s|g=m	16	obj	16	obj
+19	d'	de	P	P		16	mod	16	mod
+20	avoir	avoir	VINF	VINF	t=W	21	aux_tps	21	aux_tps
+21	organisé	organiser	VPP	VPP	n=s|g=m|t=K	19	prep	19	prep
+22	la	la	DET	DET	n=s|g=f	23	det	23	det
+23	conjuration	conjuration	NC	NC	n=s|g=f	21	obj	21	obj
+24	dei	_	ADJ	ADJ		23	mod	23	mod
+25	Pazzi	_	NPP	NPP		23	mod	23	mod
+26	)	)	PONCT	PONCT		25	ponct	25	ponct
+27	;	;	PONCT	PONCT		25	ponct	25	ponct
+28	la	la	DET	DET	n=s|g=f	29	det	29	det
+29	plupart	plupart	NC	NC	n=s|g=f	16	obj	16	obj
+30	des	de	P+D	P+D	n=p	29	dep	29	dep
+31	artistes	artiste	NC	NC	n=p	30	prep	30	prep
+32	renommés	renommer	VPP	VPP	n=p|g=m|t=K	31	mod	31	mod
+33	de	de	P	P		32	mod	32	mod
+34	l'	le	DET	DET	n=s	35	det	35	det
+35	époque	époque	NC	NC	n=s|g=f	33	prep	33	prep
+36	venaient	venir	V	V	n=p|t=I|p=3	16	mod	16	mod
+37	de	de	P	P		36	mod	36	mod
+38	Florence	Florence	NPP	NPP	n=s|g=f	37	prep	37	prep
+39	et	et	CC	CC		36	coord	36	coord
+40	le	le	DET	DET	n=s|g=m	41	det	41	det
+41	pape	pape	NC	NC	n=s|g=m	45	suj	45	suj
+42	s'	se	CLR	CLR	n=p,s|p=3	45	aff	45	aff
+43	est	être	V	V	n=s|t=P|p=3	45	aux_tps	45	aux_tps
+44	vu	voir	VPP	VPP	n=s|g=m|t=K	45	aux_pass	45	aux_pass
+45	privé	priver	VPP	VPP	n=s|g=m|t=K	39	dep_coord	39	dep_coord
+46	pendant	pendant	P	P		45	mod	45	mod
+47	7	7	ADJ	ADJ		48	mod	48	mod
+48	ans	an	NC	NC	n=p|g=m	46	prep	46	prep
+49	des	de	P+D	P+D	n=p	45	mod	45	mod
+50	meilleurs	meilleur	ADJ	ADJ	n=p|g=m	51	mod	51	mod
+51	peintres	peintre	NC	NC	n=p	49	prep	49	prep
+52	de	de	P	P		45	mod	45	mod
+53	l'	le	DET	DET	n=s	54	det	54	det
+54	époque	époque	NC	NC	n=s|g=f	52	prep	52	prep
+55	.	.	PONCT	PONCT		54	ponct	54	ponct
+
+</p><h3>
+1	Plafond	plafond	NC	NC	n=s|g=m	0	_	0	_
+2	et	et	CC	CC		1	coord	1	coord
+3	Jugement	jugement	NC	NC	n=s|g=m	2	dep_coord	2	dep_coord
+4	dernier	dernier	ADJ	ADJ	n=s|g=m	1	mod	1	mod
+
+</h3><p>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	fresques	fresque	NC	NC	n=p|g=f	21	suj	21	suj
+3	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+4	Jugement	jugement	NC	NC	n=s|g=m	3	prep	3	prep
+5	dernier	dernier	ADJ	ADJ	n=s|g=m	4	mod	4	mod
+6	et	et	CC	CC		3	coord	3	coord
+7	du	de	P+D	P+D	n=s|g=m	6	dep_coord	6	dep_coord
+8	plafond	plafond	NC	NC	n=s|g=m	7	prep	7	prep
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	dont	dont	PROREL	PROREL		21	mod	21	mod
+11	La	_	NPP	NPP		21	suj	21	suj
+12	Création	_	NPP	NPP		11	mod	11	mod
+13	d'	de	P	P		11	dep	11	dep
+14	Adam	Adam	NPP	NPP	n=s|g=m	13	prep	13	prep
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	par	par	P	P		11	dep	11	dep
+17	Michel-Ange	_	NPP	NPP		16	prep	16	prep
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	ont	avoir	V	V	n=p|t=P|p=3	21	aux_tps	21	aux_tps
+20	été	être	VPP	VPP	t=K	21	aux_pass	21	aux_pass
+21	restaurées	restaurer	VPP	VPP	n=p|g=f|t=K	0	root	0	root
+22	récemment	_	ADV	ADV		21	mod	21	mod
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	retrouvant	retrouver	VPR	VPR	t=G	21	mod	21	mod
+25	un	un	DET	DET	n=s|g=m	26	det	26	det
+26	éclat	éclat	NC	NC	n=s|g=m	24	obj	24	obj
+27	et	et	CC	CC		26	coord	26	coord
+28	une	une	DET	DET	n=s|g=f	29	det	29	det
+29	fraîcheur	fraîcheur	NC	NC	n=s|g=f	27	dep_coord	27	dep_coord
+30	de	de	P	P		29	dep	29	dep
+31	couleurs	couleur	NC	NC	n=p|g=f	30	prep	30	prep
+32	qu'	que	PROREL	PROREL		38	obj	38	obj
+33	on	on	CLS	CLS	n=s|p=3	38	suj	38	suj
+34	ne	ne	ADV	ADV		38	mod	38	mod
+35	leur	leur	CLO	CLO	n=p|p=3	38	obj	38	obj
+36	avait	avoir	V	V	n=s|t=I|p=3	38	aux_tps	38	aux_tps
+37	pas	pas	ADV	ADV		38	mod	38	mod
+38	connus	connaître	VPP	VPP	n=p|g=m|t=K	29	mod_rel	29	mod_rel
+39	depuis	depuis	P	P		38	mod	38	mod
+40	des	des	DET	DET	n=p	41	det	41	det
+41	siècles	siècle	NC	NC	n=p|g=m	39	prep	39	prep
+42	.	.	PONCT	PONCT		41	ponct	41	ponct
+
+</p><p>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	voûte	voûte	NC	NC	n=s|g=f	8	suj	8	suj
+3	de	de	P	P		2	dep	2	dep
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	chapelle	chapelle	NC	NC	n=s|g=f	3	prep	3	prep
+6	Sixtine	_	NPP	NPP		5	mod	5	mod
+7	est	être	V	V	n=s|t=P|p=3	8	aux_tps	8	aux_tps
+8	composée	composer	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+9	de	de	P	P		8	mod	8	mod
+10	11	11	ADJ	ADJ		11	mod	11	mod
+11	sections	section	NC	NC	n=p|g=f	9	prep	9	prep
+12	représentant	représenter	VPR	VPR	t=G	8	mod	8	mod
+13	des	des	DET	DET	n=p	14	det	14	det
+14	évènements	_	NC	NC		12	obj	12	obj
+15	relatés	relater	VPP	VPP	n=p|g=m|t=K	14	mod	14	mod
+16	dans	dans	P	P		15	mod	15	mod
+17	la	la	DET	DET	n=s|g=f	18	det	18	det
+18	Genèse	_	NPP	NPP		16	prep	16	prep
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+</p><p>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	sections	section	NC	NC	n=p|g=f	5	suj	5	suj
+3	paires	paire	NC	NC	n=p|g=f	2	mod	2	mod
+4	sont	être	V	V	n=p|t=P|p=3	5	aux_pass	5	aux_pass
+5	constituées	constituer	VPP	VPP	n=p|g=f|t=K	0	root	0	root
+6	latéralement	_	ADV	ADV		5	mod	5	mod
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	de	de	P	P		5	mod	5	mod
+9	deux	deux	DET	DET	s=card|n=p	10	det	10	det
+10	trônes	trône	NC	NC	n=p|g=m	8	prep	8	prep
+11	des	de	P+D	P+D	n=p	5	mod	5	mod
+12	Voyants	voyant	NC	NC	n=p|g=m	11	prep	11	prep
+13	(	(	PONCT	PONCT		12	ponct	12	ponct
+14	prophètes	prophète	NC	NC	n=p|g=m	12	mod	12	mod
+15	ou	ou	CC	CC		14	coord	14	coord
+16	sibylles	sibylle	NC	NC	n=p|g=f	15	dep_coord	15	dep_coord
+17	)	)	PONCT	PONCT		16	ponct	16	ponct
+18	,	,	PONCT	PONCT		16	ponct	16	ponct
+19	et	et	CC	CC		5	coord	5	coord
+20	au	à	P+D	P+D	n=s|g=m	19	dep_coord	19	dep_coord
+21	centre	centre	NC	NC	n=s|g=m	20	prep	20	prep
+22	d'	de	P	P		21	dep	21	dep
+23	une	une	DET	DET	n=s|g=f	24	det	24	det
+24	corniche	corniche	NC	NC	n=s|g=f	22	prep	22	prep
+25	en	en	P	P		24	dep	24	dep
+26	marbre	marbre	NC	NC	n=s|g=m	25	prep	25	prep
+27	avec	avec	P	P		19	dep_coord	19	dep_coord
+28	deux	deux	DET	DET	s=card|n=p	29	det	29	det
+29	médaillons	médaillon	NC	NC	n=p|g=m	27	prep	27	prep
+30	représentant	représenter	VPR	VPR	t=G	29	mod	29	mod
+31	des	des	DET	DET	n=p	32	det	32	det
+32	épisodes	épisode	NC	NC	n=p|g=m	30	obj	30	obj
+33	bibliques	biblique	ADJ	ADJ	n=p	32	mod	32	mod
+34	et	et	CC	CC		32	coord	32	coord
+35	quatre	quatre	DET	DET	s=card|n=p	36	det	36	det
+36	gnudi	_	NC	NC		34	dep_coord	34	dep_coord
+37	.	.	PONCT	PONCT		36	ponct	36	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	sections	section	NC	NC	n=p|g=f	12	suj	12	suj
+3	impaires	impair	ADJ	ADJ	n=p|g=f	2	mod	2	mod
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	situées	situer	VPP	VPP	n=p|g=f|t=K	2	mod	2	mod
+6	juste	juste	ADV	ADV		5	mod	5	mod
+7	au	à	P+D	P+D	n=s|g=m	5	mod	5	mod
+8	dessus	dessus	P	P		5	mod	5	mod
+9	des	des	DET	DET	n=p	10	det	10	det
+10	fenêtres	fenêtre	NC	NC	n=p|g=f	8	prep	8	prep
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	possèdent	posséder	V	V	n=p|t=P,S|p=3	0	root	0	root
+13	des	des	DET	DET	n=p	14	det	14	det
+14	lunettes	lunette	NC	NC	n=p|g=f	12	obj	12	obj
+15	semi-circulaires	_	NC	NC		14	mod	14	mod
+16	qui	qui	PROREL	PROREL	n=s	17	suj	17	suj
+17	soulignent	souligner	V	V	n=p|t=P,S|p=3	14	mod_rel	14	mod_rel
+18	l'	le	DET	DET	n=s	19	det	19	det
+19	arc	arc	NC	NC	n=s|g=m	17	obj	17	obj
+20	des	de	P+D	P+D	n=p	19	dep	19	dep
+21	fenêtres	fenêtre	NC	NC	n=p|g=f	20	prep	20	prep
+22	et	et	CC	CC		17	coord	17	coord
+23	qui	qui	PROREL	PROREL	n=s	25	suj	25	suj
+24	sont	être	V	V	n=p|t=P|p=3	25	aux_pass	25	aux_pass
+25	surmontées	surmonter	VPP	VPP	n=p|g=f|t=K	22	dep_coord	22	dep_coord
+26	par	par	P	P		25	mod	25	mod
+27	des	des	DET	DET	n=p	28	det	28	det
+28	parties	partie	NC	NC	n=p|g=f	26	prep	26	prep
+29	triangulaires	triangulaire	ADJ	ADJ	n=p	28	mod	28	mod
+30	.	.	PONCT	PONCT		29	ponct	29	ponct
+
+</p><h3>
+1	Parois	paroi	NC	NC	n=p|g=f	0	_	0	_
+2	latérales	latéral	ADJ	ADJ	n=p|g=f	1	mod	1	mod
+
+</h3><p>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	parois	paroi	NC	NC	n=p|g=f	5	suj	5	suj
+3	latérales	latéral	ADJ	ADJ	n=p|g=f	2	mod	2	mod
+4	furent	être	V	V	n=p|t=J|p=3	5	aux_pass	5	aux_pass
+5	décorées	décorer	VPP	VPP	n=p|g=f|t=K	0	root	0	root
+6	par	par	P	P		5	mod	5	mod
+7	deux	deux	DET	DET	s=card|n=p	8	det	8	det
+8	cycles	cycle	NC	NC	n=p|g=m	6	prep	6	prep
+9	consacrés	consacrer	VPP	VPP	n=p|g=m|t=K	8	mod	8	mod
+10	à	à	P	P		9	mod	9	mod
+11	Moïse	_	NPP	NPP		10	prep	10	prep
+12	et	et	CC	CC		5	coord	5	coord
+13	Jésus	_	NPP	NPP		12	dep_coord	12	dep_coord
+14	–	–	PONCT	PONCT		13	ponct	13	ponct
+15	Moïse	moïse	NC	NC	n=s|g=m	16	suj	16	suj
+16	était	être	V	V	n=s|t=I|p=3	5	mod	5	mod
+17	un	un	DET	DET	n=s|g=m	0	_	0	_
+18	des	de	P+D	P+D	n=p	17	dep	17	dep
+19	principaux	principal	ADJ	ADJ	n=p|g=m	20	mod	20	mod
+20	patriarches	patriarche	NC	NC	n=p|g=m	18	prep	18	prep
+21	de	de	P	P		20	dep	20	dep
+22	l'	le	DET	DET	n=s	23	det	23	det
+23	Église	_	NPP	NPP		21	prep	21	prep
+24	,	,	PONCT	PONCT		23	ponct	23	ponct
+25	à	à	P	P		17	dep	17	dep
+26	l'	le	DET	DET	n=s	27	det	27	det
+27	égal	égal	ADJ	ADJ	n=s|g=m	25	prep	25	prep
+28	de	de	P	P		25	prep	25	prep
+29	Isaac	Isaac	NPP	NPP	n=s|g=m	28	prep	28	prep
+30	et	et	CC	CC		29	coord	29	coord
+31	Abraham	Abraham	NPP	NPP	n=s|g=m	30	dep_coord	30	dep_coord
+32	.	.	PONCT	PONCT		31	ponct	31	ponct
+
+1	Ces	ces	DET	DET	n=p	2	det	2	det
+2	cycles	cycle	NC	NC	n=p|g=m	3	suj	3	suj
+3	représentent	représenter	V	V	n=p|t=P,S|p=3	0	root	0	root
+4	certains	certain	DET	DET	n=p|g=m	5	det	5	det
+5	évènements	_	NC	NC		3	obj	3	obj
+6	de	de	P	P		3	mod	3	mod
+7	la	la	DET	DET	n=s|g=f	8	det	8	det
+8	vie	vie	NC	NC	n=s|g=f	6	prep	6	prep
+9	de	de	P	P		3	mod	3	mod
+10	ces	ces	DET	DET	n=p	11	det	11	det
+11	personnes	personne	NC	NC	n=p|g=f	9	prep	9	prep
+12	assez	assez	ADV	ADV		13	mod	13	mod
+13	proches	proche	ADJ	ADJ	n=p	11	mod	11	mod
+14	théologiquement	_	NC	NC		11	mod	11	mod
+15	et	et	CC	CC		14	coord	14	coord
+16	thématiquement	_	NC	NC		15	dep_coord	15	dep_coord
+17	(	(	PONCT	PONCT		16	ponct	16	ponct
+18	volonté	volonté	NC	NC	n=s|g=f	11	mod	11	mod
+19	d'	de	P	P		3	mod	3	mod
+20	opposer	opposer	VINF	VINF	t=W	19	prep	19	prep
+21	les	les	DET	DET	n=p	23	det	23	det
+22	deux	deux	ADJ	ADJ	s=card|n=p	23	mod	23	mod
+23	patriarches	patriarche	NC	NC	n=p|g=m	20	obj	20	obj
+24	pour	pour	P	P		3	mod	3	mod
+25	montrer	montrer	VINF	VINF	t=W	24	prep	24	prep
+26	leur	leur	DET	DET	n=s|p=3|poss=p	27	det	27	det
+27	importance	importance	NC	NC	n=s|g=f	25	obj	25	obj
+28	)	)	PONCT	PONCT		27	ponct	27	ponct
+29	.	.	PONCT	PONCT		27	ponct	27	ponct
+
+</p><h4>
+1	Cycle	cycle	NC	NC	n=s|g=m	0	_	0	_
+2	de	de	P	P		1	dep	1	dep
+3	Jésus	_	NPP	NPP		2	prep	2	prep
+
+</h4><p>
+1	Il	il	CLS	CLS	n=s|g=m|p=3	3	suj	3	suj
+2	est	être	V	V	n=s|t=P|p=3	3	aux_tps	3	aux_tps
+3	composé	composer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+4	de	de	P	P		3	mod	3	mod
+5	6	6	ADJ	ADJ		6	mod	6	mod
+6	peintures	peinture	NC	NC	n=p|g=f	4	prep	4	prep
+7	:	:	PONCT	PONCT		6	ponct	6	ponct
+
+</p><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	Baptême	_	NPP	NPP		0	_	0	_
+3	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+4	Christ	Christ	NPP	NPP	n=s|g=m	3	prep	3	prep
+5	:	:	PONCT	PONCT		4	ponct	4	ponct
+6	Le	le	DET	DET	n=s|g=m	7	det	7	det
+7	Pérugin	_	NPP	NPP		2	coord	2	coord
+8	et	et	CC	CC		7	coord	7	coord
+9	atelier	atelier	NC	NC	n=s|g=m	8	dep_coord	8	dep_coord
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+</p><p>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	Tentation	tentation	NC	NC	n=s|g=f	0	_	0	_
+3	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+4	Christ	Christ	NPP	NPP	n=s|g=m	3	prep	3	prep
+5	:	:	PONCT	PONCT		4	ponct	4	ponct
+6	Sandro	Sandro	NPP	NPP	n=s|g=m	2	mod	2	mod
+7	Botticelli	_	NPP	NPP		2	mod	2	mod
+8	et	et	CC	CC		2	coord	2	coord
+9	atelier	atelier	NC	NC	n=s|g=m	8	dep_coord	8	dep_coord
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+</p><p>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	Vocation	vocation	NC	NC	n=s|g=f	0	_	0	_
+3	des	de	P+D	P+D	n=p	2	dep	2	dep
+4	apôtres	apôtre	NC	NC	n=p|g=m	3	prep	3	prep
+5	:	:	PONCT	PONCT		4	ponct	4	ponct
+6	Domenico	Domenico	NPP	NPP	n=s|g=m	2	mod	2	mod
+7	Ghirlandaio	_	NPP	NPP		6	mod	6	mod
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	Davide	Davide	NPP	NPP	n=s|g=m	2	mod	2	mod
+10	Ghirlandaio	_	NPP	NPP		2	mod	2	mod
+11	et	et	CC	CC		2	coord	2	coord
+12	atelier	atelier	NC	NC	n=s|g=m	11	dep_coord	11	dep_coord
+13	.	.	PONCT	PONCT		12	ponct	12	ponct
+
+</p><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	Sermon	_	NPP	NPP		0	_	0	_
+3	sur	sur	P	P		2	dep	2	dep
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	montagne	montagne	NC	NC	n=s|g=f	3	prep	3	prep
+6	:	:	PONCT	PONCT		5	ponct	5	ponct
+7	Cosimo	Cosimo	NPP	NPP	n=s|g=m	2	mod	2	mod
+8	Rosselli	_	NPP	NPP		7	mod	7	mod
+9	et	et	CC	CC		7	coord	7	coord
+10	atelier	atelier	NC	NC	n=s|g=m	9	dep_coord	9	dep_coord
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+</p><p>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	Remise	remise	NC	NC	n=s|g=f	0	_	0	_
+3	des	de	P+D	P+D	n=p	2	dep	2	dep
+4	clés	clé	NC	NC	n=p|g=f	3	prep	3	prep
+5	à	à	P	P		2	dep	2	dep
+6	saint	saint	ADJ	ADJ	n=s|g=m	7	mod	7	mod
+7	Pierre	Pierre	NPP	NPP	n=s|g=m	5	prep	5	prep
+8	:	:	PONCT	PONCT		7	ponct	7	ponct
+9	Le	le	DET	DET	n=s|g=m	10	det	10	det
+10	Pérugin	_	NPP	NPP		2	mod	2	mod
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	Luca	Luca	NPP	NPP	n=s	2	mod	2	mod
+13	Signorelli	_	NPP	NPP		2	mod	2	mod
+14	et	et	CC	CC		2	coord	2	coord
+15	atelier	atelier	NC	NC	n=s|g=m	14	dep_coord	14	dep_coord
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+</p><p>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	Cène	_	NPP	NPP		0	_	0	_
+3	:	:	PONCT	PONCT		2	ponct	2	ponct
+4	Cosimo	Cosimo	NPP	NPP	n=s|g=m	2	mod	2	mod
+5	Rosselli	_	NPP	NPP		2	mod	2	mod
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	Biagio	Biagio	NPP	NPP	n=s|g=m	2	mod	2	mod
+8	d’	de	P	P		2	dep	2	dep
+9	Antonio	Antonio	NPP	NPP	n=s|g=m	8	prep	8	prep
+10	et	et	CC	CC		2	coord	2	coord
+11	atelier	atelier	NC	NC	n=s|g=m	10	dep_coord	10	dep_coord
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+</p><h4>
+1	Cycle	cycle	NC	NC	n=s|g=m	0	_	0	_
+2	de	de	P	P		1	dep	1	dep
+3	Moïse	_	NPP	NPP		2	prep	2	prep
+
+</h4><p>
+1	Il	il	CLS	CLS	n=s|g=m|p=3	4	suj	4	suj
+2	est	être	V	V	n=s|t=P|p=3	4	aux_tps	4	aux_tps
+3	également	_	ADV	ADV		4	mod	4	mod
+4	composé	composer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+5	de	de	P	P		4	mod	4	mod
+6	6	6	ADJ	ADJ		7	mod	7	mod
+7	peintures	peinture	NC	NC	n=p|g=f	5	prep	5	prep
+8	:	:	PONCT	PONCT		7	ponct	7	ponct
+
+</p><p>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	Circoncision	circoncision	NC	NC	n=s|g=f	0	_	0	_
+3	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+4	fils	fils	NC	NC	g=m	3	prep	3	prep
+5	de	de	P	P		2	dep	2	dep
+6	Moïse	_	NPP	NPP		5	prep	5	prep
+7	:	:	PONCT	PONCT		6	ponct	6	ponct
+8	Pérugin	_	NPP	NPP		2	mod	2	mod
+9	et	et	CC	CC		2	coord	2	coord
+10	atelier	atelier	NC	NC	n=s|g=m	9	dep_coord	9	dep_coord
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+</p><p>
+1	Scènes	scène	NC	NC	n=p|g=f	0	_	0	_
+2	de	de	P	P		1	dep	1	dep
+3	la	la	DET	DET	n=s|g=f	4	det	4	det
+4	vie	vie	NC	NC	n=s|g=f	2	prep	2	prep
+5	de	de	P	P		1	dep	1	dep
+6	Moïse	_	NPP	NPP		5	prep	5	prep
+7	:	:	PONCT	PONCT		6	ponct	6	ponct
+8	Sandro	Sandro	NPP	NPP	n=s|g=m	0	_	0	_
+9	Botticelli	_	NPP	NPP		8	mod	8	mod
+10	et	et	CC	CC		8	coord	8	coord
+11	atelier	atelier	NC	NC	n=s|g=m	10	dep_coord	10	dep_coord
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+</p><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	Passage	passage	NC	NC	n=s|g=m	0	_	0	_
+3	de	de	P	P		2	dep	2	dep
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	mer	mer	NC	NC	n=s|g=f	3	prep	3	prep
+6	Rouge	Rouge	NPP	NPP	n=s|g=m	5	mod	5	mod
+7	:	:	PONCT	PONCT		6	ponct	6	ponct
+8	Biagio	Biagio	NPP	NPP	n=s|g=m	5	mod	5	mod
+9	d’	de	P	P		2	dep	2	dep
+10	Antonio	Antonio	NPP	NPP	n=s|g=m	9	prep	9	prep
+11	et	et	CC	CC		2	coord	2	coord
+12	atelier	atelier	NC	NC	n=s|g=m	11	dep_coord	11	dep_coord
+13	.	.	PONCT	PONCT		12	ponct	12	ponct
+
+</p><p>
+1	L’	le	DET	DET	n=s	2	det	2	det
+2	Adoration	adoration	NC	NC	n=s|g=f	0	_	0	_
+3	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+4	Veau	_	NPP	NPP		3	prep	3	prep
+5	d’	de	P	P		2	dep	2	dep
+6	or	or	NC	NC	n=s|g=m	5	prep	5	prep
+7	:	:	PONCT	PONCT		6	ponct	6	ponct
+8	Cosimo	Cosimo	NPP	NPP	n=s|g=m	2	mod	2	mod
+9	Rosselli	_	NPP	NPP		2	mod	2	mod
+10	et	et	CC	CC		2	coord	2	coord
+11	atelier	atelier	NC	NC	n=s|g=m	10	dep_coord	10	dep_coord
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+</p><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	Châtiment	châtiment	NC	NC	n=s|g=m	0	_	0	_
+3	de	de	P	P		2	dep	2	dep
+4	Coré	_	NPP	NPP		3	prep	3	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	Datan	_	NPP	NPP		4	mod	4	mod
+7	et	et	CC	CC		6	coord	6	coord
+8	Abiram	Abiram	NPP	NPP	n=s|g=m	7	dep_coord	7	dep_coord
+9	:	:	PONCT	PONCT		8	ponct	8	ponct
+10	Sandro	Sandro	NPP	NPP	n=s|g=m	2	mod	2	mod
+11	Botticelli	_	NPP	NPP		2	mod	2	mod
+12	et	et	CC	CC		2	coord	2	coord
+13	atelier	atelier	NC	NC	n=s|g=m	12	dep_coord	12	dep_coord
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+</p><p>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	Derniers	_	NPP	NPP		0	_	0	_
+3	Actes	_	NPP	NPP		2	mod	2	mod
+4	de	de	P	P		2	dep	2	dep
+5	Moïse	_	NPP	NPP		4	prep	4	prep
+6	:	:	PONCT	PONCT		5	ponct	5	ponct
+7	Luca	Luca	NPP	NPP	n=s	2	mod	2	mod
+8	Signorelli	_	NPP	NPP		2	mod	2	mod
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	et	et	CC	CC		2	coord	2	coord
+11	Sandro	Sandro	NPP	NPP	n=s|g=m	10	dep_coord	10	dep_coord
+12	Botticelli	_	NPP	NPP		11	mod	11	mod
+13	.	.	PONCT	PONCT		12	ponct	12	ponct
+
+</p><p></p><h2>
+1	Marketing	marketing	NC	NC	n=s|g=m	0	_	0	_
+
+</h2><p>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	chapelle	chapelle	NC	NC	n=s|g=f	4	suj	4	suj
+3	Sixtine	_	NPP	NPP		2	mod	2	mod
+4	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+5	une	un	PRO	PRO	n=s|g=f	4	ats	4	ats
+6	des	de	P+D	P+D	n=p	4	mod	4	mod
+7	œuvres	_	NC	NC		6	prep	6	prep
+8	artistiques	artistique	ADJ	ADJ	n=p	7	mod	7	mod
+9	les	les	DET	DET	n=p	11	det	11	det
+10	plus	plus	ADV	ADV		11	mod	11	mod
+11	reproduites	reproduire	VPP	VPP	n=p|g=f|t=K	4	mod	4	mod
+12	dans	dans	P	P		11	mod	11	mod
+13	le	le	DET	DET	n=s|g=m	14	det	14	det
+14	monde	monde	NC	NC	n=s|g=m	12	prep	12	prep
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	Vatican	Vatican	NPP	NPP	n=s|g=m	3	suj	3	suj
+3	gagne	gagner	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	de	de	P	P		3	mod	3	mod
+5	l'	le	DET	DET	n=s	6	det	6	det
+6	argent	argent	NC	NC	n=s|g=m	4	prep	4	prep
+7	grâce	grâce	NC	NC	n=s|g=f	6	mod	6	mod
+8	aux	à	P+D	P+D	n=p	3	mod	3	mod
+9	droits	droit	NC	NC	n=p|g=m	8	prep	8	prep
+10	d'	de	P	P		3	mod	3	mod
+11	auteur	auteur	NC	NC	n=s|g=m	10	prep	10	prep
+12	et	et	CC	CC		3	coord	3	coord
+13	d'	de	P	P		12	dep_coord	12	dep_coord
+14	image	image	NC	NC	n=s|g=f	13	prep	13	prep
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+</p><h2>
+1	Sources	source	NC	NC	n=p|g=f	0	_	0	_
+
+</h2><p>
+1	(	(	PONCT	PONCT		0	ponct	0	ponct
+2	it	_	NPP	NPP		0	_	0	_
+3	)	)	PONCT	PONCT		2	ponct	2	ponct
+4	Viaggio	_	NPP	NPP		2	mod	2	mod
+5	nella	_	NPP	NPP		2	mod	2	mod
+6	Cappella	_	NPP	NPP		2	mod	2	mod
+7	Sistina	_	NPP	NPP		2	mod	2	mod
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	Alberto	Alberto	NPP	NPP	n=s|g=m	2	mod	2	mod
+10	Angela	Angela	NPP	NPP	n=s|g=f	2	mod	2	mod
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	Éditions	édition	NC	NC	n=p|g=f	2	mod	2	mod
+13	Musées	_	NPP	NPP		12	mod	12	mod
+14	du	de	P+D	P+D	n=s|g=m	12	dep	12	dep
+15	Vatican	Vatican	NPP	NPP	n=s|g=m	14	prep	14	prep
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+</p><p>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	Musées	musée	NC	NC	n=p|g=m	0	_	0	_
+3	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+4	Vatican	Vatican	NPP	NPP	n=s|g=m	3	prep	3	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	Éditions	édition	NC	NC	n=p|g=f	2	mod	2	mod
+7	Musées	_	NPP	NPP		6	mod	6	mod
+8	du	de	P+D	P+D	n=s|g=m	6	dep	6	dep
+9	Vatican	Vatican	NPP	NPP	n=s|g=m	8	prep	8	prep
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+</p><h2>
+1	Liens	lien	NC	NC	n=p|g=m	0	_	0	_
+2	externes	externe	ADJ	ADJ	n=p	1	mod	1	mod
+
+</h2><p>
+1	Visite	visite	NC	NC	n=s|g=f	0	_	0	_
+2	de	de	P	P		1	dep	1	dep
+3	la	la	DET	DET	n=s|g=f	4	det	4	det
+4	Chapelle	_	NPP	NPP		2	prep	2	prep
+5	Sixtine	_	NPP	NPP		4	mod	4	mod
+6	en	en	P	P		1	dep	1	dep
+7	ligne	ligne	NC	NC	n=s|g=f	6	prep	6	prep
+

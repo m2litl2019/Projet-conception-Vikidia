@@ -1,0 +1,2755 @@
+<p>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	Réunion	Réunion	NPP	NPP	n=s|g=f	3	suj	3	suj
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	une	une	DET	DET	n=s|g=f	5	det	5	det
+5	île	île	NC	NC	n=s|g=f	3	obj	3	obj
+6	française	français	ADJ	ADJ	n=s|g=f	5	mod	5	mod
+7	de	de	P	P		3	mod	3	mod
+8	2_512	2_512	NC	NC		7	prep	7	prep
+9	km	kilomètre	NC	NC	g=m	8	mod	8	mod
+10	située	situer	VPP	VPP	n=s|g=f|t=K	3	mod	3	mod
+11	au	à	P+D	P+D	n=s|g=m	10	mod	10	mod
+12	Sud-Ouest	_	NPP	NPP		11	prep	11	prep
+13	de	de	P	P		10	mod	10	mod
+14	l'	le	DET	DET	n=s	15	det	15	det
+15	océan	océan	NC	NC	n=s|g=m	13	prep	13	prep
+16	Indien	_	NPP	NPP		15	mod	15	mod
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	à	à	P	P		3	mod	3	mod
+19	l'	le	DET	DET	n=s	20	det	20	det
+20	est	_	NPP	NPP		18	prep	18	prep
+21	de	de	P	P		3	mod	3	mod
+22	l'	le	DET	DET	n=s	23	det	23	det
+23	Afrique	Afrique	NPP	NPP	n=s|g=f	21	prep	21	prep
+24	:	:	PONCT	PONCT		23	ponct	23	ponct
+25	plus	plus	ADV	ADV		26	mod	26	mod
+26	précisément	_	ADV	ADV		3	mod	3	mod
+27	dans	dans	P	P		3	mod	3	mod
+28	l'	le	DET	DET	n=s	29	det	29	det
+29	archipel	archipel	NC	NC	n=s|g=m	27	prep	27	prep
+30	des	de	P+D	P+D	n=p	29	dep	29	dep
+31	Mascareignes	_	NPP	NPP		30	prep	30	prep
+32	,	,	PONCT	PONCT		31	ponct	31	ponct
+33	à	à	P	P		3	mod	3	mod
+34	près	près	ADV	ADV		0	_	0	_
+35	de	de	P	P		0	_	0	_
+36	700	700	ADJ	ADJ		37	mod	37	mod
+37	kilomètres	kilomètre	NC	NC	n=p|g=m	35	prep	35	prep
+38	à	à	P	P		37	dep	37	dep
+39	l'	le	DET	DET	n=s	40	det	40	det
+40	est	_	NPP	NPP		38	prep	38	prep
+41	de	de	P	P		37	dep	37	dep
+42	Madagascar	Madagascar	NPP	NPP	n=s|g=m	41	prep	41	prep
+43	et	et	CC	CC		35	coord	35	coord
+44	à	à	P	P		43	dep_coord	43	dep_coord
+45	un	un	DET	DET	n=s|g=m	0	_	0	_
+46	peu	peu	ADV	ADV		47	mod	47	mod
+47	plus	plus	ADV	ADV		0	_	0	_
+48	de	de	P	P		0	_	0	_
+49	200	200	NC	NC		48	prep	48	prep
+50	kilomètres	kilomètre	NC	NC	n=p|g=m	49	mod	49	mod
+51	au	à	P+D	P+D	n=s|g=m	49	dep	49	dep
+52	sud-ouest	_	NPP	NPP		51	prep	51	prep
+53	de	de	P	P		0	_	0	_
+54	l'	le	DET	DET	n=s	55	det	55	det
+55	île	île	NC	NC	n=s|g=f	53	prep	53	prep
+56	Maurice	Maurice	NPP	NPP	n=s|g=m	55	mod	55	mod
+57	,	,	PONCT	PONCT		56	ponct	56	ponct
+58	terre	terre	NC	NC	n=s|g=f	55	mod	55	mod
+59	la	la	DET	DET	n=s|g=f	61	det	61	det
+60	plus	plus	ADV	ADV		61	mod	61	mod
+61	proche	proche	ADJ	ADJ	n=s	55	mod	55	mod
+62	.	.	PONCT	PONCT		61	ponct	61	ponct
+
+1	Son	son	DET	DET	n=s|g=m|p=3|poss=s	2	det	2	det
+2	climat	climat	NC	NC	n=s|g=m	3	suj	3	suj
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	tropical	tropical	ADJ	ADJ	n=s|g=m	3	ats	3	ats
+5	.	.	PONCT	PONCT		4	ponct	4	ponct
+
+</p><p>
+1	Ancienne	ancien	ADJ	ADJ	n=s|g=f	2	mod	2	mod
+2	colonie	colonie	NC	NC	n=s|g=f	7	mod	7	mod
+3	française	français	ADJ	ADJ	n=s|g=f	2	mod	2	mod
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	cette	cette	DET	DET	n=s|g=f	6	det	6	det
+6	île	île	NC	NC	n=s|g=f	7	suj	7	suj
+7	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+8	un	un	DET	DET	n=s|g=m	9	det	9	det
+9	département	département	NC	NC	n=s|g=m	7	obj	7	obj
+10	français	français	ADJ	ADJ	g=m	9	mod	9	mod
+11	d'	de	P	P		7	mod	7	mod
+12	outre	outre	NC	NC	n=s|g=f	11	prep	11	prep
+13	-	-	PONCT	PONCT		12	ponct	12	ponct
+14	mer	mer	NC	NC	n=s|g=f	7	mod	7	mod
+15	(	(	PONCT	PONCT		14	ponct	14	ponct
+16	DOM	dom	NC	NC	n=s|g=m	14	mod	14	mod
+17	)	)	PONCT	PONCT		16	ponct	16	ponct
+18	depuis	depuis	P	P		7	mod	7	mod
+19	1946	1946	NC	NC		18	prep	18	prep
+20	et	et	CC	CC		7	coord	7	coord
+21	également	_	ADV	ADV		23	mod	23	mod
+22	une	une	DET	DET	n=s|g=f	23	det	23	det
+23	région	région	NC	NC	n=s|g=f	20	dep_coord	20	dep_coord
+24	administrative	administratif	ADJ	ADJ	n=s|g=f	23	mod	23	mod
+25	française	français	ADJ	ADJ	n=s|g=f	23	mod	23	mod
+26	(	(	PONCT	PONCT		25	ponct	25	ponct
+27	à	à	P	P		7	mod	7	mod
+28	département	département	NC	NC	n=s|g=m	27	prep	27	prep
+29	unique	unique	ADJ	ADJ	n=s	28	mod	28	mod
+30	)	)	PONCT	PONCT		29	ponct	29	ponct
+31	depuis	depuis	P	P		7	mod	7	mod
+32	2003	2003	NC	NC		31	prep	31	prep
+33	,	,	PONCT	PONCT		32	ponct	32	ponct
+34	dont	dont	PROREL	PROREL		37	mod	37	mod
+35	le	le	DET	DET	n=s|g=m	36	det	36	det
+36	chef-lieu	chef-lieu	NC	NC	n=s|g=m	37	suj	37	suj
+37	est	être	V	V	n=s|t=P|p=3	7	mod	7	mod
+38	Saint-Denis	Saint-Denis	NPP	NPP	n=s|g=m	37	obj	37	obj
+39	.	.	PONCT	PONCT		38	ponct	38	ponct
+
+1	Ses	ses	DET	DET	n=p|p=3|poss=s	2	det	2	det
+2	habitants	habitant	NC	NC	n=p|g=m	13	suj	13	suj
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	au	à	P+D	P+D	n=s|g=m	2	dep	2	dep
+5	nombre	nombre	NC	NC	n=s|g=m	4	prep	4	prep
+6	de	de	P	P		2	dep	2	dep
+7	817_000	817_000	NPP	NPP		6	prep	6	prep
+8	(	(	PONCT	PONCT		7	ponct	7	ponct
+9	en	en	P	P		2	dep	2	dep
+10	2008	2008	NC	NC		9	prep	9	prep
+11	)	)	PONCT	PONCT		10	ponct	10	ponct
+12	,	,	PONCT	PONCT		10	ponct	10	ponct
+13	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+14	les	les	DET	DET	n=p	15	det	15	det
+15	Réunionnais	_	NPP	NPP		13	obj	13	obj
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+1	Sa	sa	DET	DET	n=s|g=f|p=3|poss=s	2	det	2	det
+2	densité	densité	NC	NC	n=s|g=f	5	suj	5	suj
+3	de	de	P	P		2	dep	2	dep
+4	population	population	NC	NC	n=s|g=f	3	prep	3	prep
+5	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+6	de	de	P	P		5	mod	5	mod
+7	325	325	NC	NC		6	prep	6	prep
+8	hab	_	NPP	NPP		7	mod	7	mod
+9	.	.	PONCT	PONCT		8	ponct	8	ponct
+10	/	/	PONCT	PONCT		8	ponct	8	ponct
+11	km²	_	NPP	NPP		7	mod	7	mod
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+</p><h2>
+1	Géographie	géographie	NC	NC	n=s|g=f	0	_	0	_
+
+</h2><p>
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	île	île	NC	NC	n=s|g=f	7	suj	7	suj
+3	de	de	P	P		2	dep	2	dep
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	Réunion	Réunion	NPP	NPP	n=s|g=f	3	prep	3	prep
+6	n'	ne	ADV	ADV		7	mod	7	mod
+7	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+8	que	que	CS	CS		7	mod	7	mod
+9	la	la	DET	DET	n=s|g=f	10	det	10	det
+10	partie	partie	NC	NC	n=s|g=f	21	suj	21	suj
+11	émergée	émerger	VPP	VPP	n=s|g=f|t=K	10	mod	10	mod
+12	d'	de	P	P		11	mod	11	mod
+13	un	un	DET	DET	n=s|g=m	15	det	15	det
+14	immense	immense	ADJ	ADJ	n=s	15	mod	15	mod
+15	volcan	volcan	NC	NC	n=s|g=m	12	prep	12	prep
+16	sous	sous	P	P		11	mod	11	mod
+17	-	-	PONCT	PONCT		16	ponct	16	ponct
+18	marin	marin	ADJ	ADJ	n=s|g=m	16	prep	16	prep
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	qui	qui	PROREL	PROREL	n=s	21	suj	21	suj
+21	a	avoir	V	V	n=s|t=P|p=3	8	sub	8	sub
+22	environ	environ	ADV	ADV		21	mod	21	mod
+23	7_000	7_000	ADJ	ADJ		24	mod	24	mod
+24	mètres	mètre	NC	NC	n=p|g=m	21	obj	21	obj
+25	de	de	P	P		21	mod	21	mod
+26	développement	développement	NC	NC	n=s|g=m	25	prep	25	prep
+27	en	en	P	P		21	mod	21	mod
+28	hauteur	hauteur	NC	NC	n=s|g=f	27	prep	27	prep
+29	et	et	CC	CC		21	coord	21	coord
+30	220	220	ADJ	ADJ		31	mod	31	mod
+31	kilomètres	kilomètre	NC	NC	n=p|g=m	29	dep_coord	29	dep_coord
+32	de	de	P	P		21	mod	21	mod
+33	diamètre	diamètre	NC	NC	n=s|g=m	32	prep	32	prep
+34	.	.	PONCT	PONCT		33	ponct	33	ponct
+
+1	Ce	ce	DET	DET	n=s|g=m	2	det	2	det
+2	volcan	volcan	NC	NC	n=s|g=m	11	suj	11	suj
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	un	un	PRO	PRO	n=s|g=m	2	mod	2	mod
+5	des	de	P+D	P+D	n=p	4	dep	4	dep
+6	plus	plus	ADV	ADV		7	mod	7	mod
+7	grands	grand	ADJ	ADJ	n=p|g=m	11	mod	11	mod
+8	du	de	P+D	P+D	n=s|g=m	7	mod	7	mod
+9	monde	monde	NC	NC	n=s|g=m	8	prep	8	prep
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+12	toujours	toujours	ADV	ADV		11	mod	11	mod
+13	actif	actif	ADJ	ADJ	n=s|g=m	11	ats	11	ats
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+</p><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	volcan	volcan	NC	NC	n=s|g=m	13	suj	13	suj
+3	réunionnais	réunionnais	ADJ	ADJ	g=m	2	mod	2	mod
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	puis	puis	CC	CC		2	coord	2	coord
+6	l'	le	DET	DET	n=s	7	det	7	det
+7	île	île	NC	NC	n=s|g=f	5	dep_coord	5	dep_coord
+8	qu'	que	PROREL	PROREL		11	obj	11	obj
+9	il	il	CLS	CLS	n=s|g=m|p=3	11	suj	11	suj
+10	a	avoir	V	V	n=s|t=P|p=3	11	aux_tps	11	aux_tps
+11	formée	former	VPP	VPP	n=s|g=f|t=K	2	mod_rel	2	mod_rel
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	apparaissent	apparaître	V	V	n=p|t=P,S|p=3	0	root	0	root
+14	il	il	CLS	CLS	n=s|g=m|p=3	17	suj	17	suj
+15	y	y	CLO	CLO		17	obj	17	obj
+16	a	avoir	V	V	n=s|t=P|p=3	17	aux_tps	17	aux_tps
+17	2	2	VPP	VPP		13	mod	13	mod
+18	à	à	P	P		17	mod	17	mod
+19	3	3	ADJ	ADJ		20	mod	20	mod
+20	millions	million	NC	NC	n=p	18	prep	18	prep
+21	d'	de	P	P		17	mod	17	mod
+22	années	année	NC	NC	n=p|g=f	21	prep	21	prep
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	à	à	P	P		17	mod	17	mod
+25	un	un	DET	DET	n=s|g=m	26	det	26	det
+26	endroit	endroit	NC	NC	n=s|g=m	24	prep	24	prep
+27	où	où	PROREL	PROREL		31	mod	31	mod
+28	le	le	DET	DET	n=s|g=m	29	det	29	det
+29	magma	magma	NC	NC	n=s|g=m	31	suj	31	suj
+30	a	avoir	V	V	n=s|t=P|p=3	31	aux_tps	31	aux_tps
+31	percé	percer	VPP	VPP	n=s|g=m|t=K	26	mod_rel	26	mod_rel
+32	la	la	DET	DET	n=s|g=f	33	det	33	det
+33	croûte	croûte	NC	NC	n=s|g=f	31	obj	31	obj
+34	terrestre	terrestre	ADJ	ADJ	n=s	33	mod	33	mod
+35	qui	qui	PROREL	PROREL	n=s	36	suj	36	suj
+36	forme	former	V	V	n=s|t=P,S|p=1,3	33	mod_rel	33	mod_rel
+37	le	le	DET	DET	n=s|g=m	38	det	38	det
+38	fond	fond	NC	NC	n=s|g=m	36	obj	36	obj
+39	de	de	P	P		36	mod	36	mod
+40	l'	le	DET	DET	n=s	41	det	41	det
+41	océan	océan	NC	NC	n=s|g=m	39	prep	39	prep
+42	Indien	_	NPP	NPP		41	mod	41	mod
+43	.	.	PONCT	PONCT		42	ponct	42	ponct
+
+1	Vu	voir	VPP	VPP	n=s|g=m|t=K	11	mod	11	mod
+2	la	la	DET	DET	n=s|g=f	3	det	3	det
+3	dimension	dimension	NC	NC	n=s|g=f	1	mod	1	mod
+4	du	de	P+D	P+D	n=s|g=m	3	dep	3	dep
+5	volcan	volcan	NC	NC	n=s|g=m	4	prep	4	prep
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	la	la	DET	DET	n=s|g=f	8	det	8	det
+8	masse	masse	NC	NC	n=s|g=f	1	mod	1	mod
+9	de	de	P	P		8	dep	8	dep
+10	magma	magma	NC	NC	n=s|g=m	9	prep	9	prep
+11	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+12	considérable	considérable	ADJ	ADJ	n=s	11	ats	11	ats
+13	.	.	PONCT	PONCT		12	ponct	12	ponct
+
+</p><p>
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	île	île	NC	NC	n=s|g=f	7	suj	7	suj
+3	de	de	P	P		2	dep	2	dep
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	Réunion	Réunion	NPP	NPP	n=s|g=f	3	prep	3	prep
+6	est	être	V	V	n=s|t=P|p=3	7	aux_tps	7	aux_tps
+7	formée	former	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+8	de	de	P	P		7	mod	7	mod
+9	deux	deux	DET	DET	s=card|n=p	10	det	10	det
+10	massifs	massif	ADJ	ADJ	n=p|g=m	8	prep	8	prep
+11	volcaniques	volcanique	ADJ	ADJ	n=p	10	mod	10	mod
+12	:	:	PONCT	PONCT		11	ponct	11	ponct
+13	le	le	DET	DET	n=s|g=m	14	det	14	det
+14	massif	massif	ADJ	ADJ	n=s|g=m	0	_	0	_
+15	du	de	P+D	P+D	n=s|g=m	14	mod	14	mod
+16	piton	piton	NC	NC	n=s|g=m	15	prep	15	prep
+17	des	de	P+D	P+D	n=p	16	dep	16	dep
+18	Neiges	_	NPP	NPP		17	prep	17	prep
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	à	à	P	P		14	mod	14	mod
+21	l'	le	DET	DET	n=s	22	det	22	det
+22	ouest	ouest	NC	NC	n=s|g=m	20	prep	20	prep
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	et	et	CC	CC		14	coord	14	coord
+25	le	le	DET	DET	n=s|g=m	26	det	26	det
+26	massif	massif	ADJ	ADJ	n=s|g=m	24	dep_coord	24	dep_coord
+27	du	de	P+D	P+D	n=s|g=m	26	mod	26	mod
+28	piton	piton	NC	NC	n=s|g=m	27	prep	27	prep
+29	de	de	P	P		28	dep	28	dep
+30	la	la	DET	DET	n=s|g=f	31	det	31	det
+31	Fournaise	_	NPP	NPP		29	prep	29	prep
+32	à	à	P	P		24	dep_coord	24	dep_coord
+33	l'	le	DET	DET	n=s	34	det	34	det
+34	est	_	NPP	NPP		32	prep	32	prep
+35	.	.	PONCT	PONCT		34	ponct	34	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	piton	piton	NC	NC	n=s|g=m	5	suj	5	suj
+3	des	de	P+D	P+D	n=p	2	dep	2	dep
+4	Neiges	_	NPP	NPP		3	prep	3	prep
+5	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+6	le	le	DET	DET	n=s|g=m	7	det	7	det
+7	point	point	NC	NC	n=s|g=m	5	obj	5	obj
+8	culminant	culminant	ADJ	ADJ	n=s|g=m	7	mod	7	mod
+9	de	de	P	P		5	mod	5	mod
+10	l'	le	DET	DET	n=s	11	det	11	det
+11	île	île	NC	NC	n=s|g=f	9	prep	9	prep
+12	(	(	PONCT	PONCT		11	ponct	11	ponct
+13	3_070	3_070	NC	NC		11	mod	11	mod
+14	m	_	NPP	NPP		13	mod	13	mod
+15	)	)	PONCT	PONCT		14	ponct	14	ponct
+16	:	:	PONCT	PONCT		14	ponct	14	ponct
+17	c'	ce	CLS	CLS		18	suj	18	suj
+18	est	être	V	V	n=s|t=P|p=3	5	mod	5	mod
+19	un	un	DET	DET	n=s|g=m	21	det	21	det
+20	ancien	ancien	ADJ	ADJ	n=s|g=m	21	mod	21	mod
+21	volcan	volcan	NC	NC	n=s|g=m	18	obj	18	obj
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+23	éteint	éteindre	V	V	n=s|t=P|p=3	18	mod	18	mod
+24	depuis	depuis	P	P		23	mod	23	mod
+25	environ	environ	ADV	ADV		26	mod	26	mod
+26	12_000	12_000	ADJ	ADJ		27	mod	27	mod
+27	ans	an	NC	NC	n=p|g=m	24	prep	24	prep
+28	.	.	PONCT	PONCT		27	ponct	27	ponct
+
+1	Dans	dans	P	P		5	mod	5	mod
+2	ses	ses	DET	DET	n=p|p=3|poss=s	3	det	3	det
+3	flancs	flanc	NC	NC	n=p|g=m	1	prep	1	prep
+4	sont	être	V	V	n=p|t=P|p=3	5	aux_tps	5	aux_tps
+5	creusés	creuser	VPP	VPP	n=p|g=m|t=K	0	root	0	root
+6	trois	trois	DET	DET	s=card|n=p	7	det	7	det
+7	cirques	cirque	NC	NC	n=p|g=m	5	obj	5	obj
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	nommés	nommer	VPP	VPP	n=p|g=m|t=K	7	mod	7	mod
+10	Salazie	_	NPP	NPP		9	mod	9	mod
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	Cilaos	_	NPP	NPP		10	mod	10	mod
+13	et	et	CC	CC		12	coord	12	coord
+14	Mafate	_	NPP	NPP		13	dep_coord	13	dep_coord
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	ce	ce	DET	DET	n=s|g=m	17	det	17	det
+17	dernier	dernier	ADJ	ADJ	n=s|g=m	19	suj	19	suj
+18	n'	ne	ADV	ADV		19	mod	19	mod
+19	étant	être	VPR	VPR	t=G	5	mod	5	mod
+20	accessible	accessible	ADJ	ADJ	n=s	19	ats	19	ats
+21	qu'	que	CS	CS		5	mod	5	mod
+22	à	à	P	P		0	_	0	_
+23	pied	pied	NC	NC	n=s	22	prep	22	prep
+24	ou	ou	CC	CC		22	coord	22	coord
+25	par	par	P	P		24	dep_coord	24	dep_coord
+26	hélicoptère	hélicoptère	NC	NC	n=s|g=m	25	prep	25	prep
+27	.	.	PONCT	PONCT		26	ponct	26	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	piton	piton	NC	NC	n=s|g=m	6	suj	6	suj
+3	de	de	P	P		2	dep	2	dep
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	Fournaise	_	NPP	NPP		3	prep	3	prep
+6	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+7	un	un	PRO	PRO	n=s|g=m	6	ats	6	ats
+8	des	de	P+D	P+D	n=p	6	mod	6	mod
+9	volcans	volcan	NC	NC	n=p|g=m	8	prep	8	prep
+10	les	les	DET	DET	n=p	12	det	12	det
+11	plus	plus	ADV	ADV		12	mod	12	mod
+12	actifs	actif	ADJ	ADJ	n=p|g=m	17	mod	17	mod
+13	du	de	P+D	P+D	n=s|g=m	12	mod	12	mod
+14	monde	monde	NC	NC	n=s|g=m	13	prep	13	prep
+15	:	:	PONCT	PONCT		14	ponct	14	ponct
+16	il	il	CLS	CLS	n=s|g=m|p=3	17	suj	17	suj
+17	entre	entrer	V	V	n=s|t=P,S|p=1,3	6	mod	6	mod
+18	en	en	P	P		17	mod	17	mod
+19	éruption	éruption	NC	NC	n=s|g=f	18	prep	18	prep
+20	en	en	P	P		17	mod	17	mod
+21	moyenne	moyenne	NC	NC	n=s|g=f	20	prep	20	prep
+22	chaque	chaque	DET	DET	n=s	23	det	23	det
+23	année	année	NC	NC	n=s|g=f	17	obj	17	obj
+24	.	.	PONCT	PONCT		23	ponct	23	ponct
+
+</p><h3>
+1	Climat	climat	NC	NC	n=s|g=m	0	_	0	_
+
+</h3><p>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	Réunion	Réunion	NPP	NPP	n=s|g=f	4	suj	4	suj
+3	est	être	V	V	n=s|t=P|p=3	4	aux_tps	4	aux_tps
+4	située	situer	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+5	à	à	P	P		4	mod	4	mod
+6	proximité	proximité	NC	NC	n=s|g=f	5	prep	5	prep
+7	du	de	P+D	P+D	n=s|g=m	4	mod	4	mod
+8	tropique	tropique	NC	NC	n=s|g=m	7	prep	7	prep
+9	du	de	P+D	P+D	n=s|g=m	8	dep	8	dep
+10	Capricorne	_	NPP	NPP		9	prep	9	prep
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	2	suj	2	suj
+2	fait	faire	V	V	n=s|t=P|p=3	0	root	0	root
+3	donc	donc	ADV	ADV		2	mod	2	mod
+4	partie	partie	NC	NC	n=s|g=f	2	obj	2	obj
+5	de	de	P	P		2	mod	2	mod
+6	la	la	DET	DET	n=s|g=f	7	det	7	det
+7	zone	zone	NC	NC	n=s|g=f	5	prep	5	prep
+8	tropicale	tropical	ADJ	ADJ	n=s|g=f	7	mod	7	mod
+9	.	.	PONCT	PONCT		8	ponct	8	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	saisons	saison	NC	NC	n=p|g=f	4	suj	4	suj
+3	sont	être	V	V	n=p|t=P|p=3	4	aux_pass	4	aux_pass
+4	basées	baser	VPP	VPP	n=p|g=f|t=K	0	root	0	root
+5	sur	sur	P	P		4	mod	4	mod
+6	la	la	DET	DET	n=s|g=f	7	det	7	det
+7	différence	différence	NC	NC	n=s|g=f	5	prep	5	prep
+8	des	de	P+D	P+D	n=p	4	mod	4	mod
+9	pluies	pluie	NC	NC	n=p|g=f	8	prep	8	prep
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+</p><p>
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	île	île	NC	NC	n=s|g=f	3	suj	3	suj
+3	possède	posséder	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	un	un	DET	DET	n=s|g=m	5	det	5	det
+5	climat	climat	NC	NC	n=s|g=m	3	obj	3	obj
+6	tropical	tropical	ADJ	ADJ	n=s|g=m	5	mod	5	mod
+7	humide	humide	ADJ	ADJ	n=s	5	mod	5	mod
+8	.	.	PONCT	PONCT		7	ponct	7	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	vents	vent	NC	NC	n=p|g=m	0	_	0	_
+3	dominants	dominant	ADJ	ADJ	n=p|g=m	2	mod	2	mod
+4	(	(	PONCT	PONCT		3	ponct	3	ponct
+5	alizés	alizé	NC	NC	n=p|g=m	2	mod	2	mod
+6	)	)	PONCT	PONCT		5	ponct	5	ponct
+7	étant	être	VPR	VPR	t=G	0	_	0	_
+8	d'	de	P	P		7	mod	7	mod
+9	est	_	NPP	NPP		8	prep	8	prep
+10	en	en	P	P		7	mod	7	mod
+11	ouest	ouest	NC	NC	n=s|g=m	10	prep	10	prep
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	la	la	DET	DET	n=s|g=f	14	det	14	det
+14	partie	partie	NC	NC	n=s|g=f	7	obj	7	obj
+15	orientale	oriental	ADJ	ADJ	n=s|g=f	14	mod	14	mod
+16	de	de	P	P		14	dep	14	dep
+17	l'	le	DET	DET	n=s	18	det	18	det
+18	île	île	NC	NC	n=s|g=f	16	prep	16	prep
+19	est	être	V	V	n=s|t=P|p=3	14	mod_rel	14	mod_rel
+20	au	à	P+D	P+D	n=s|g=m	19	mod	19	mod
+21	vent	vent	NC	NC	n=s|g=m	20	prep	20	prep
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+23	et	et	CC	CC		14	coord	14	coord
+24	l'	le	DET	DET	n=s	25	det	25	det
+25	autre	autre	ADJ	ADJ	n=s	23	dep_coord	23	dep_coord
+26	sous	sous	P	P		25	mod	25	mod
+27	le	le	DET	DET	n=s|g=m	28	det	28	det
+28	vent	vent	NC	NC	n=s|g=m	26	prep	26	prep
+29	.	.	PONCT	PONCT		28	ponct	28	ponct
+
+1	De	de	P	P		9	mod	9	mod
+2	plus	plus	ADV	ADV		9	mod	9	mod
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	présence	présence	NC	NC	n=s|g=f	9	suj	9	suj
+6	de	de	P	P		5	dep	5	dep
+7	montagnes	montagne	NC	NC	n=p|g=f	6	prep	6	prep
+8	imposantes	imposant	ADJ	ADJ	n=p|g=f	7	mod	7	mod
+9	provoque	provoquer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+10	une	une	DET	DET	n=s|g=f	11	det	11	det
+11	différence	différence	NC	NC	n=s|g=f	9	obj	9	obj
+12	nette	net	ADJ	ADJ	n=s|g=f	11	mod	11	mod
+13	entre	entre	P	P		9	mod	9	mod
+14	la	la	DET	DET	n=s|g=f	15	det	15	det
+15	côte	côte	NC	NC	n=s|g=f	13	prep	13	prep
+16	est	être	V	V	n=s|t=P|p=3	9	mod	9	mod
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	qui	qui	PROREL	PROREL	n=s	19	suj	19	suj
+19	reçoit	recevoir	V	V	n=s|t=P|p=3	9	mod	9	mod
+20	le	le	DET	DET	n=s|g=m	21	det	21	det
+21	vent	vent	NC	NC	n=s|g=m	19	obj	19	obj
+22	et	et	CC	CC		21	coord	21	coord
+23	la	la	DET	DET	n=s|g=f	24	det	24	det
+24	pluie	pluie	NC	NC	n=s|g=f	22	dep_coord	22	dep_coord
+25	,	,	PONCT	PONCT		24	ponct	24	ponct
+26	et	et	CC	CC		9	coord	9	coord
+27	la	la	DET	DET	n=s|g=f	28	det	28	det
+28	côte	côte	NC	NC	n=s|g=f	33	suj	33	suj
+29	ouest	ouest	NC	NC	n=s|g=m	28	mod	28	mod
+30	qui	qui	PROREL	PROREL	n=s	33	suj	33	suj
+31	en	en	CLO	CLO		33	aff	33	aff
+32	est	être	V	V	n=s|t=P|p=3	33	aux_tps	33	aux_tps
+33	protégée	protéger	VPP	VPP	n=s|g=f|t=K	26	dep_coord	26	dep_coord
+34	.	.	PONCT	PONCT		33	ponct	33	ponct
+
+1	Ainsi	ainsi	ADV	ADV		15	mod	15	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	à	à	P	P		15	mod	15	mod
+4	Sainte-Rose	_	NPP	NPP		3	prep	3	prep
+5	(	(	PONCT	PONCT		4	ponct	4	ponct
+6	à	à	P	P		15	mod	15	mod
+7	l'	le	DET	DET	n=s	8	det	8	det
+8	est	_	NPP	NPP		6	prep	6	prep
+9	)	)	PONCT	PONCT		8	ponct	8	ponct
+10	,	,	PONCT	PONCT		8	ponct	8	ponct
+11	le	le	DET	DET	n=s|g=m	12	det	12	det
+12	total	total	NC	NC	n=s|g=m	15	suj	15	suj
+13	des	de	P+D	P+D	n=p	12	dep	12	dep
+14	pluies	pluie	NC	NC	n=p|g=f	13	prep	13	prep
+15	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+16	de	de	P	P		15	mod	15	mod
+17	4	4	ADJ	ADJ		18	mod	18	mod
+18	mètres	mètre	NC	NC	n=p|g=m	16	prep	16	prep
+19	par	par	P	P		15	mod	15	mod
+20	an	an	NC	NC	n=s|g=m	19	prep	19	prep
+21	en	en	P	P		15	mod	15	mod
+22	moyenne	moyenne	NC	NC	n=s|g=f	21	prep	21	prep
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	tandis	tandis	P	P		15	mod	15	mod
+25	que	que	CS	CS		24	prep	24	prep
+26	Saint-Gilles-les-Bains	_	NPP	NPP		33	suj	33	suj
+27	(	(	PONCT	PONCT		26	ponct	26	ponct
+28	sur	sur	P	P		33	mod	33	mod
+29	la	la	DET	DET	n=s|g=f	30	det	30	det
+30	côte	côte	NC	NC	n=s|g=f	28	prep	28	prep
+31	ouest	_	NPP	NPP		30	mod	30	mod
+32	)	)	PONCT	PONCT		31	ponct	31	ponct
+33	reçoit	recevoir	V	V	n=s|t=P|p=3	15	mod	15	mod
+34	entre	entre	P	P		33	mod	33	mod
+35	0,5	0,5	NC	NC		34	prep	34	prep
+36	et	et	CC	CC		33	coord	33	coord
+37	1	1	NC	NC		36	dep_coord	36	dep_coord
+38	mètre	mètre	NC	NC	n=s|g=m	37	mod	37	mod
+39	par	par	P	P		33	mod	33	mod
+40	an	an	NC	NC	n=s|g=m	39	prep	39	prep
+41	.	.	PONCT	PONCT		40	ponct	40	ponct
+
+1	Certains	certain	DET	DET	n=p|g=m	2	det	2	det
+2	endroits	endroit	NC	NC	n=p|g=m	7	suj	7	suj
+3	de	de	P	P		2	dep	2	dep
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	côte	côte	NC	NC	n=s|g=f	3	prep	3	prep
+6	est	être	V	V	n=s|t=P|p=3	7	mod	7	mod
+7	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+8	parmi	parmi	P	P		7	ats	7	ats
+9	les	les	DET	DET	n=p	11	det	11	det
+10	plus	plus	ADV	ADV		11	mod	11	mod
+11	pluvieux	pluvieux	ADJ	ADJ	g=m	8	prep	8	prep
+12	du	de	P+D	P+D	n=s|g=m	11	mod	11	mod
+13	monde	monde	NC	NC	n=s|g=m	12	prep	12	prep
+14	!	!	PONCT	PONCT		13	ponct	13	ponct
+
+1	On	on	CLS	CLS	n=s|p=3	2	suj	2	suj
+2	distingue	distinguer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	de	de	P	P		2	mod	2	mod
+4	novembre	novembre	NC	NC	n=s|g=m	3	prep	3	prep
+5	à	à	P	P		2	mod	2	mod
+6	avril	avril	NC	NC	n=s|g=m	5	prep	5	prep
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	un	un	DET	DET	n=s|g=m	9	det	9	det
+9	été	été	NC	NC	n=s|g=m	2	obj	2	obj
+10	qui	qui	PROREL	PROREL	n=s	11	suj	11	suj
+11	est	être	V	V	n=s|t=P|p=3	9	mod_rel	9	mod_rel
+12	la	la	DET	DET	n=s|g=f	13	det	13	det
+13	saison	saison	NC	NC	n=s|g=f	11	obj	11	obj
+14	chaude	chaud	ADJ	ADJ	n=s|g=f	13	mod	13	mod
+15	et	et	CC	CC		14	coord	14	coord
+16	humide	humide	ADJ	ADJ	n=s	15	dep_coord	15	dep_coord
+17	;	;	PONCT	PONCT		16	ponct	16	ponct
+18	le	le	DET	DET	n=s|g=m	19	det	19	det
+19	reste	reste	NC	NC	n=s|g=m	2	mod	2	mod
+20	de	de	P	P		19	dep	19	dep
+21	l'	le	DET	DET	n=s	22	det	22	det
+22	année	année	NC	NC	n=s|g=f	20	prep	20	prep
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	le	le	DET	DET	n=s|g=m	25	det	25	det
+25	climat	climat	NC	NC	n=s|g=m	26	suj	26	suj
+26	devient	devenir	V	V	n=s|t=P|p=3	2	mod	2	mod
+27	plus	plus	ADV	ADV		26	mod	26	mod
+28	frais	frais	ADJ	ADJ	g=m	26	ats	26	ats
+29	et	et	CC	CC		28	coord	28	coord
+30	plus	plus	ADV	ADV		31	mod	31	mod
+31	sec	sec	ADJ	ADJ	n=s|g=m	29	dep_coord	29	dep_coord
+32	.	.	PONCT	PONCT		31	ponct	31	ponct
+
+</p><p>
+1	Par	par	P	P		7	mod	7	mod
+2	ailleurs	ailleurs	ADV	ADV		7	mod	7	mod
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	l'	le	DET	DET	n=s	5	det	5	det
+5	île	île	NC	NC	n=s|g=f	7	suj	7	suj
+6	se	se	CLR	CLR	n=p,s|p=3	7	aff	7	aff
+7	trouve	trouver	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+8	dans	dans	P	P		7	mod	7	mod
+9	une	une	DET	DET	n=s|g=f	10	det	10	det
+10	zone	zone	NC	NC	n=s|g=f	8	prep	8	prep
+11	où	où	PROREL	PROREL		12	suj	12	suj
+12	sévissent	sévir	V	V	n=p|t=P,S|p=3	10	mod_rel	10	mod_rel
+13	les	les	DET	DET	n=p	14	det	14	det
+14	cyclones	cyclone	NC	NC	n=p|g=m	12	obj	12	obj
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	entre	entre	P	P		12	mod	12	mod
+17	les	les	DET	DET	n=p	18	det	18	det
+18	mois	mois	NC	NC	g=m	16	prep	16	prep
+19	de	de	P	P		12	mod	12	mod
+20	janvier	janvier	NC	NC	n=s|g=m	19	prep	19	prep
+21	et	et	CC	CC		20	coord	20	coord
+22	mars	mars	NC	NC	g=m	21	dep_coord	21	dep_coord
+23	(	(	PONCT	PONCT		22	ponct	22	ponct
+24	qui	qui	PROREL	PROREL	n=s	25	suj	25	suj
+25	est	être	V	V	n=s|t=P|p=3	7	mod	7	mod
+26	à	à	P	P		25	mod	25	mod
+27	La	la	NC	NC	g=m	26	prep	26	prep
+28	Réunion	Réunion	NPP	NPP	n=s|g=f	27	mod	27	mod
+29	,	,	PONCT	PONCT		28	ponct	28	ponct
+30	la	la	DET	DET	n=s|g=f	31	det	31	det
+31	saison	saison	NC	NC	n=s|g=f	25	obj	25	obj
+32	d'	de	P	P		31	dep	31	dep
+33	été	été	NC	NC	n=s|g=m	32	prep	32	prep
+34	)	)	PONCT	PONCT		33	ponct	33	ponct
+35	.	.	PONCT	PONCT		33	ponct	33	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	vents	vent	NC	NC	n=p|g=m	3	suj	3	suj
+3	dépassent	dépasser	V	V	n=p|t=P,S|p=3	0	root	0	root
+4	parfois	parfois	ADV	ADV		3	mod	3	mod
+5	200	200	ADJ	ADJ		6	mod	6	mod
+6	km	kilomètre	NC	NC	g=m	3	obj	3	obj
+7	/	/	PONCT	PONCT		6	ponct	6	ponct
+8	h	heure	NC	NC	g=f	6	mod	6	mod
+9	et	et	CC	CC		8	coord	8	coord
+10	les	les	DET	DET	n=p	11	det	11	det
+11	pluies	pluie	NC	NC	n=p|g=f	9	dep_coord	9	dep_coord
+12	très	très	ADV	ADV		13	mod	13	mod
+13	intenses	intense	ADJ	ADJ	n=p	11	mod	11	mod
+14	battent	battre	V	V	n=p|t=P,S|p=3	3	mod	3	mod
+15	des	des	DET	DET	n=p	16	det	16	det
+16	records	record	NC	NC	n=p|g=m	14	suj	14	suj
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+1	Par	par	P	P		17	mod	17	mod
+2	exemple	exemple	NC	NC	n=s|g=m	1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	en	en	P	P		17	mod	17	mod
+5	janvier	janvier	NC	NC	n=s|g=m	4	prep	4	prep
+6	1980	1980	NC	NC		5	mod	5	mod
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	lors	lors	ADV	ADV		5	mod	5	mod
+9	du	de	P+D	P+D	n=s|g=m	5	dep	5	dep
+10	passage	passage	NC	NC	n=s|g=m	9	prep	9	prep
+11	du	de	P+D	P+D	n=s|g=m	10	dep	10	dep
+12	cyclone	cyclone	NC	NC	n=s|g=m	11	prep	11	prep
+13	Hyacinthe	Hyacinthe	NPP	NPP	n=s|g=f	12	mod	12	mod
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	il	il	CLS	CLS	n=s|g=m|p=3	17	suj	17	suj
+16	est	être	V	V	n=s|t=P|p=3	17	aux_tps	17	aux_tps
+17	tombé	tomber	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+18	plus	plus	ADV	ADV		17	mod	17	mod
+19	de	de	P	P		17	mod	17	mod
+20	6	6	ADJ	ADJ		21	mod	21	mod
+21	mètres	mètre	NC	NC	n=p|g=m	19	prep	19	prep
+22	de	de	P	P		17	mod	17	mod
+23	pluie	pluie	NC	NC	n=s|g=f	22	prep	22	prep
+24	à	à	P	P		17	mod	17	mod
+25	certains	certain	DET	DET	n=p|g=m	26	det	26	det
+26	endroits	endroit	NC	NC	n=p|g=m	24	prep	24	prep
+27	en	en	P	P		17	mod	17	mod
+28	deux	deux	DET	DET	s=card|n=p	29	det	29	det
+29	semaines	semaine	NC	NC	n=p|g=f	27	prep	27	prep
+30	,	,	PONCT	PONCT		29	ponct	29	ponct
+31	soit	soit	CC	CC		17	coord	17	coord
+32	plus	plus	ADV	ADV		31	mod	31	mod
+33	de	de	P	P		31	dep_coord	31	dep_coord
+34	dix	dix	DET	DET	s=card|n=p	35	det	35	det
+35	fois	fois	NC	NC	g=f	33	prep	33	prep
+36	les	les	DET	DET	n=p	37	det	37	det
+37	précipitations	précipitation	NC	NC	n=p|g=f	17	obj	17	obj
+38	annuelles	annuel	ADJ	ADJ	n=p|g=f	37	mod	37	mod
+39	à	à	P	P		17	mod	17	mod
+40	Paris	Paris	NPP	NPP	n=s|g=m	39	prep	39	prep
+41	.	.	PONCT	PONCT		40	ponct	40	ponct
+
+1	En	en	P	P		10	mod	10	mod
+2	1962	1962	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	à	à	P	P		10	mod	10	mod
+5	Sainte-Rose	_	NPP	NPP		4	prep	4	prep
+6	(	(	PONCT	PONCT		5	ponct	5	ponct
+7	sur	sur	P	P		10	mod	10	mod
+8	la	la	DET	DET	n=s|g=f	9	det	9	det
+9	côte	côte	NC	NC	n=s|g=f	7	prep	7	prep
+10	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+11	)	)	PONCT	PONCT		10	ponct	10	ponct
+12	,	,	PONCT	PONCT		10	ponct	10	ponct
+13	on	on	CLS	CLS	n=s|p=3	15	suj	15	suj
+14	a	avoir	V	V	n=s|t=P|p=3	15	aux_tps	15	aux_tps
+15	comptabilisé	comptabiliser	VPP	VPP	n=s|g=m|t=K	10	mod	10	mod
+16	près	près	ADV	ADV		15	mod	15	mod
+17	de	de	P	P		15	mod	15	mod
+18	15	15	ADJ	ADJ		19	mod	19	mod
+19	mètres	mètre	NC	NC	n=p|g=m	17	prep	17	prep
+20	de	de	P	P		15	mod	15	mod
+21	pluies	pluie	NC	NC	n=p|g=f	20	prep	20	prep
+22	annuelles	annuel	ADJ	ADJ	n=p|g=f	21	mod	21	mod
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	rivières	rivière	NC	NC	n=p|g=f	3	suj	3	suj
+3	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+4	alors	alors	ADV	ADV		3	mod	3	mod
+5	le	le	DET	DET	n=s|g=m	6	det	6	det
+6	théâtre	théâtre	NC	NC	n=s|g=m	3	obj	3	obj
+7	de	de	P	P		6	dep	6	dep
+8	crues	crue	NC	NC	n=p|g=f	7	prep	7	prep
+9	gigantesques	gigantesque	ADJ	ADJ	n=p	8	mod	8	mod
+10	:	:	PONCT	PONCT		9	ponct	9	ponct
+11	la	la	DET	DET	n=s|g=f	12	det	12	det
+12	rivière	rivière	NC	NC	n=s|g=f	3	mod	3	mod
+13	du	de	P+D	P+D	n=s|g=m	12	dep	12	dep
+14	Mât	_	NPP	NPP		13	prep	13	prep
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	au	à	P+D	P+D	n=s|g=m	3	mod	3	mod
+17	nord-est	nord-est	NC	NC	g=m	16	prep	16	prep
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	peut	pouvoir	V	V	n=s|t=P|p=3	3	mod	3	mod
+20	augmenter	augmenter	VINF	VINF	t=W	19	obj	19	obj
+21	son	son	DET	DET	n=s|g=m|p=3|poss=s	22	det	22	det
+22	débit	débit	NC	NC	n=s|g=m	20	obj	20	obj
+23	de	de	P	P		20	mod	20	mod
+24	près	près	ADV	ADV		0	_	0	_
+25	de	de	P	P		0	_	0	_
+26	350	350	NC	NC		25	prep	25	prep
+27	fois	fois	NC	NC	g=f	26	mod	26	mod
+28	(	(	PONCT	PONCT		27	ponct	27	ponct
+29	jusqu'	jusque	P	P		0	_	0	_
+30	à	à	P	P		29	dep	29	dep
+31	2600	2600	NC	NC		30	prep	30	prep
+32	M	_	NPP	NPP		31	mod	31	mod
+33	par	par	P	P		29	dep	29	dep
+34	seconde	second	ADJ	ADJ	n=s|g=f	33	prep	33	prep
+35	,	,	PONCT	PONCT		34	ponct	34	ponct
+36	soit	soit	CC	CC		29	coord	29	coord
+37	environ	environ	ADV	ADV		38	mod	38	mod
+38	1,5	1,5	ADJ	ADJ		36	dep_coord	36	dep_coord
+39	fois	fois	NC	NC	g=f	0	_	0	_
+40	le	le	DET	DET	n=s|g=m	41	det	41	det
+41	débit	débit	NC	NC	n=s|g=m	39	mod	39	mod
+42	moyen	moyen	ADJ	ADJ	n=s|g=m	41	mod	41	mod
+43	du	de	P+D	P+D	n=s|g=m	41	dep	41	dep
+44	Rhône	Rhône	NPP	NPP	n=s|g=m	43	prep	43	prep
+45	à	à	P	P		41	dep	41	dep
+46	Beaucaire	Beaucaire	NPP	NPP	n=s|g=m	45	prep	45	prep
+47	)	)	PONCT	PONCT		46	ponct	46	ponct
+48	.	.	PONCT	PONCT		46	ponct	46	ponct
+
+</p><p>
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	altitude	altitude	NC	NC	n=s|g=f	3	suj	3	suj
+3	joue	jouer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	aussi	aussi	ADV	ADV		3	mod	3	mod
+5	un	un	DET	DET	n=s|g=m	6	det	6	det
+6	rôle	rôle	NC	NC	n=s|g=m	3	obj	3	obj
+7	.	.	PONCT	PONCT		6	ponct	6	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	peut	pouvoir	V	V	n=s|t=P|p=3	0	root	0	root
+3	faire	faire	VINF	VINF	t=W	2	obj	2	obj
+4	très	très	ADV	ADV		3	mod	3	mod
+5	froid	froid	ADJ	ADJ	n=s|g=m	3	ats	3	ats
+6	au	à	P+D	P+D	n=s|g=m	3	mod	3	mod
+7	sommet	sommet	NC	NC	n=s|g=m	6	prep	6	prep
+8	du	de	P+D	P+D	n=s|g=m	3	mod	3	mod
+9	piton	piton	NC	NC	n=s|g=m	8	prep	8	prep
+10	des	de	P+D	P+D	n=p	3	mod	3	mod
+11	Neiges	_	NPP	NPP		10	prep	10	prep
+12	(	(	PONCT	PONCT		11	ponct	11	ponct
+13	jusqu'	jusque	P	P		3	mod	3	mod
+14	à	à	P	P		13	dep	13	dep
+15	moins	moins	ADV	ADV		17	mod	17	mod
+16	dix	dix	DET	DET	s=card|n=p	17	det	17	det
+17	degrés	degré	NC	NC	n=p|g=m	14	prep	14	prep
+18	)	)	PONCT	PONCT		17	ponct	17	ponct
+19	et	et	CC	CC		2	coord	2	coord
+20	il	il	CLS	CLS	n=s|g=m|p=3	21	suj	21	suj
+21	peut	pouvoir	V	V	n=s|t=P|p=3	19	dep_coord	19	dep_coord
+22	y	y	CLO	CLO		23	aff	23	aff
+23	avoir	avoir	VINF	VINF	t=W	21	obj	21	obj
+24	des	des	DET	DET	n=p	25	det	25	det
+25	chutes	chute	NC	NC	n=p|g=f	23	obj	23	obj
+26	de	de	P	P		25	dep	25	dep
+27	neige	neige	NC	NC	n=s|g=f	26	prep	26	prep
+28	.	.	PONCT	PONCT		27	ponct	27	ponct
+
+1	Dans	dans	P	P		12	mod	12	mod
+2	la	la	DET	DET	n=s|g=f	3	det	3	det
+3	journée	journée	NC	NC	n=s|g=f	1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	sur	sur	P	P		12	mod	12	mod
+6	les	les	DET	DET	n=p	7	det	7	det
+7	hauteurs	hauteur	NC	NC	n=p|g=f	5	prep	5	prep
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	l'	le	DET	DET	n=s	10	det	10	det
+10	amplitude	amplitude	NC	NC	n=s|g=f	12	suj	12	suj
+11	thermique	thermique	ADJ	ADJ	n=s	10	mod	10	mod
+12	peut	pouvoir	V	V	n=s|t=P|p=3	0	root	0	root
+13	dépasser	dépasser	VINF	VINF	t=W	12	obj	12	obj
+14	les	les	DET	DET	n=p	15	det	15	det
+15	20	20	NC	NC		13	obj	13	obj
+16	°C	_	NPP	NPP		15	mod	15	mod
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	climat	climat	NC	NC	n=s|g=m	3	suj	3	suj
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	donc	donc	ADV	ADV		3	mod	3	mod
+5	très	très	ADV	ADV		6	mod	6	mod
+6	différent	différent	ADJ	ADJ	n=s|g=m	3	ats	3	ats
+7	en	en	P	P		3	mod	3	mod
+8	fonction	fonction	NC	NC	n=s|g=f	7	prep	7	prep
+9	de	de	P	P		3	mod	3	mod
+10	l'	le	DET	DET	n=s	11	det	11	det
+11	altitude	altitude	NC	NC	n=s|g=f	9	prep	9	prep
+12	qui	qui	PROREL	PROREL	n=s	13	suj	13	suj
+13	varie	varier	V	V	n=s|t=P,S|p=1,3	11	mod_rel	11	mod_rel
+14	fortement	_	ADV	ADV		13	mod	13	mod
+15	en	en	P	P		13	mod	13	mod
+16	quelques	quelques	DET	DET	n=p	17	det	17	det
+17	kilomètres	kilomètre	NC	NC	n=p|g=m	15	prep	15	prep
+18	dans	dans	P	P		13	mod	13	mod
+19	l'	le	DET	DET	n=s	20	det	20	det
+20	île	île	NC	NC	n=s|g=f	18	prep	18	prep
+21	:	:	PONCT	PONCT		20	ponct	20	ponct
+22	cela	cela	PRO	PRO	n=s|g=m	23	suj	23	suj
+23	donne	donner	V	V	n=s|t=P,S|p=1,3	3	mod	3	mod
+24	naissance	naissance	NC	NC	n=s|g=f	23	obj	23	obj
+25	à	à	P	P		23	mod	23	mod
+26	des	des	DET	DET	n=p	27	det	27	det
+27	paysages	paysage	NC	NC	n=p|g=m	25	prep	25	prep
+28	végétaux	végétal	ADJ	ADJ	n=p|g=m	27	mod	27	mod
+29	très	très	ADV	ADV		30	mod	30	mod
+30	différents	différent	ADJ	ADJ	n=p|g=m	27	mod	27	mod
+31	.	.	PONCT	PONCT		30	ponct	30	ponct
+
+</p><h3>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	bord	bord	NC	NC	n=s|g=m	0	_	0	_
+3	de	de	P	P		2	dep	2	dep
+4	mer	mer	NC	NC	n=s|g=f	3	prep	3	prep
+
+</h3><p>
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	île	île	NC	NC	n=s|g=f	3	suj	3	suj
+3	a	avoir	V	V	n=s|t=P|p=3	0	root	0	root
+4	environ	environ	ADV	ADV		3	mod	3	mod
+5	200	200	ADJ	ADJ		6	mod	6	mod
+6	km	kilomètre	NC	NC	g=m	3	obj	3	obj
+7	de	de	P	P		3	mod	3	mod
+8	côtes	côte	NC	NC	n=p|g=f	7	prep	7	prep
+9	maritimes	maritime	ADJ	ADJ	n=p	8	mod	8	mod
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	dont	dont	PROREL	PROREL		0	_	0	_
+12	de	de	DET	DET	n=p	14	det	14	det
+13	belles	beau	ADJ	ADJ	n=p|g=f	14	mod	14	mod
+14	plages	plage	NC	NC	n=p|g=f	0	_	0	_
+15	et	et	CC	CC		14	coord	14	coord
+16	des	de	P+D	P+D	n=p	15	dep_coord	15	dep_coord
+17	lagons	lagon	NC	NC	n=p|g=m	16	prep	16	prep
+18	fermés	fermer	VPP	VPP	n=p|g=m|t=K	17	mod	17	mod
+19	par	par	P	P		18	mod	18	mod
+20	des	des	DET	DET	n=p	21	det	21	det
+21	récifs	récif	NC	NC	n=p|g=m	19	prep	19	prep
+22	coralliens	corallien	ADJ	ADJ	n=p|g=m	21	mod	21	mod
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+</p><h2>
+1	Biodiversité	biodiversité	NC	NC	n=s|g=f	0	_	0	_
+
+</h2><p>
+1	Diaporama	diaporama	NC	NC	n=s|g=m	0	_	0	_
+
+</p><h3>
+1	Faune	faune	NC	NC	n=s|g=f,m	0	_	0	_
+
+</h3><p>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	Réunion	Réunion	NPP	NPP	n=s|g=f	3	suj	3	suj
+3	compte	compter	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	de	de	DET	DET	n=p	6	det	6	det
+5	nombreuses	nombreux	ADJ	ADJ	n=p|g=f	6	mod	6	mod
+6	espèces	espèce	NC	NC	n=p|g=f	3	obj	3	obj
+7	endémiques	endémique	ADJ	ADJ	n=p	6	mod	6	mod
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	comme	comme	CS	CS		3	mod	3	mod
+10	le	le	DET	DET	n=s|g=m	11	det	11	det
+11	papangue	_	NPP	NPP		0	_	0	_
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	l'	le	DET	DET	n=s	14	det	14	det
+14	oiseau	oiseau	NC	NC	n=s|g=m	11	mod	11	mod
+15	la	la	DET	DET	n=s|g=f	16	det	16	det
+16	Vierge	_	NPP	NPP		11	coord	11	coord
+17	et	et	CC	CC		16	coord	16	coord
+18	le	le	DET	DET	n=s|g=m	19	det	19	det
+19	tec	_	NC	NC		17	dep_coord	17	dep_coord
+20	-	-	PONCT	PONCT		19	ponct	19	ponct
+21	tec	_	NC	NC		19	mod	19	mod
+22	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+</p><h3>
+1	Végétation	végétation	NC	NC	n=s|g=f	0	_	0	_
+
+</h3><p>
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	opposition	opposition	NC	NC	n=s|g=f	6	suj	6	suj
+3	entre	entre	P	P		2	dep	2	dep
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	façade	façade	NC	NC	n=s|g=f	3	prep	3	prep
+6	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	plus	plus	ADV	ADV		9	mod	9	mod
+9	arrosée	arroser	VPP	VPP	n=s|g=f|t=K	6	mod	6	mod
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	et	et	CC	CC		6	coord	6	coord
+12	celle	celle	PRO	PRO	n=s|g=f	11	dep_coord	11	dep_coord
+13	de	de	P	P		11	dep_coord	11	dep_coord
+14	l'	le	DET	DET	n=s	15	det	15	det
+15	ouest	ouest	NC	NC	n=s|g=m	13	prep	13	prep
+16	qui	qui	PROREL	PROREL	n=s	18	suj	18	suj
+17	l'	le	CLO	CLO	n=s|p=3	18	aff	18	aff
+18	est	être	V	V	n=s|t=P|p=3	15	mod_rel	15	mod_rel
+19	moins	moins	ADV	ADV		18	mod	18	mod
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	et	et	CC	CC		6	coord	6	coord
+22	la	la	DET	DET	n=s|g=f	23	det	23	det
+23	variation	variation	NC	NC	n=s|g=f	28	suj	28	suj
+24	rapide	rapide	ADJ	ADJ	n=s	23	mod	23	mod
+25	de	de	P	P		23	dep	23	dep
+26	l'	le	DET	DET	n=s	27	det	27	det
+27	altitude	altitude	NC	NC	n=s|g=f	25	prep	25	prep
+28	font	faire	V	V	n=p|t=P|p=3	21	dep_coord	21	dep_coord
+29	que	que	CS	CS		28	obj	28	obj
+30	les	les	DET	DET	n=p	31	det	31	det
+31	paysages	paysage	NC	NC	n=p|g=m	36	suj	36	suj
+32	végétaux	végétal	ADJ	ADJ	n=p|g=m	31	mod	31	mod
+33	de	de	P	P		31	dep	31	dep
+34	la	la	DET	DET	n=s|g=f	35	det	35	det
+35	Réunion	Réunion	NPP	NPP	n=s|g=f	33	prep	33	prep
+36	sont	être	V	V	n=p|t=P|p=3	29	sub	29	sub
+37	très	très	ADV	ADV		36	mod	36	mod
+38	différents	différent	ADJ	ADJ	n=p|g=m	36	ats	36	ats
+39	.	.	PONCT	PONCT		38	ponct	38	ponct
+
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	altitude	altitude	NC	NC	n=s|g=f	3	suj	3	suj
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	responsable	responsable	ADJ	ADJ	n=s	3	ats	3	ats
+5	d'	de	P	P		3	mod	3	mod
+6	une	une	DET	DET	n=s|g=f	7	det	7	det
+7	répartition	répartition	NC	NC	n=s|g=f	5	prep	5	prep
+8	en	en	P	P		3	mod	3	mod
+9	couronnes	couronne	NC	NC	n=p|g=f	8	prep	8	prep
+10	végétales	végétal	ADJ	ADJ	n=p|g=f	9	mod	9	mod
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+</p><p>
+1	Sur	sur	P	P		17	mod	17	mod
+2	les	les	DET	DET	n=p	3	det	3	det
+3	côtes	côte	NC	NC	n=p|g=f	1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	la	la	DET	DET	n=s|g=f	6	det	6	det
+6	végétation	végétation	NC	NC	n=s|g=f	17	suj	17	suj
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	soumise	soumettre	VPP	VPP	n=s|g=f|t=K	6	mod	6	mod
+9	aux	à	P+D	P+D	n=p	8	a_obj	8	a_obj
+10	vents	vent	NC	NC	n=p|g=m	9	prep	9	prep
+11	et	et	CC	CC		9	coord	9	coord
+12	aux	à	P+D	P+D	n=p	11	dep_coord	11	dep_coord
+13	embruns	embrun	NC	NC	n=p|g=m	12	prep	12	prep
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	est	être	V	V	n=s|t=P|p=3	17	aux_tps	17	aux_tps
+16	assez	assez	ADV	ADV		17	mod	17	mod
+17	rabougrie	rabougrir	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	En	en	P	P		6	mod	6	mod
+2	s'	se	CLR	CLR	n=p,s|p=3	3	aff	3	aff
+3	élevant	élever	VPR	VPR	t=G	1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	on	on	CLS	CLS	n=s|p=3	6	suj	6	suj
+6	passe	passer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+7	dans	dans	P	P		6	mod	6	mod
+8	une	une	DET	DET	n=s|g=f	9	det	9	det
+9	forêt	forêt	NC	NC	n=s|g=f	7	prep	7	prep
+10	chaude	chaud	ADJ	ADJ	n=s|g=f	9	mod	9	mod
+11	et	et	CC	CC		6	coord	6	coord
+12	sèche	sécher	V	V	n=s|t=P,S|p=1,3	11	dep_coord	11	dep_coord
+13	formée	former	VPP	VPP	n=s|g=f|t=K	12	ats	12	ats
+14	d'	de	P	P		13	mod	13	mod
+15	ébéniers	ébénier	NC	NC	n=p|g=m	14	prep	14	prep
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	de	de	P	P		13	mod	13	mod
+18	lataniers	latanier	NC	NC	n=p|g=m	17	prep	17	prep
+19	et	et	CC	CC		17	coord	17	coord
+20	de	de	P	P		19	dep_coord	19	dep_coord
+21	benjoins	benjoin	NC	NC	n=p|g=m	20	prep	20	prep
+22	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+1	Puis	puis	CC	CC		0	root	0	root
+2	on	on	CLS	CLS	n=s|p=3	3	suj	3	suj
+3	monte	monter	V	V	n=s|t=P,S|p=1,3	1	dep_coord	1	dep_coord
+4	à	à	P	P		3	mod	3	mod
+5	une	une	DET	DET	n=s|g=f	6	det	6	det
+6	forêt	forêt	NC	NC	n=s|g=f	4	prep	4	prep
+7	chaude	chaud	ADJ	ADJ	n=s|g=f	6	mod	6	mod
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	mais	mais	CC	CC		7	coord	7	coord
+10	humide	humide	ADJ	ADJ	n=s	9	dep_coord	9	dep_coord
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	avec	avec	P	P		3	mod	3	mod
+13	des	des	DET	DET	n=p	14	det	14	det
+14	orchidées	orchidée	NC	NC	n=p|g=f	12	prep	12	prep
+15	et	et	CC	CC		12	coord	12	coord
+16	des	de	P+D	P+D	n=p	15	dep_coord	15	dep_coord
+17	fougères	fougère	NC	NC	n=p|g=f	16	prep	16	prep
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	Au-dessus	au-dessus	ADV	ADV		10	mod	10	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	vers	vers	P	P		10	mod	10	mod
+4	800	800	ADJ	ADJ		5	mod	5	mod
+5	mètres	mètre	NC	NC	n=p|g=m	3	prep	3	prep
+6	d'	de	P	P		5	dep	5	dep
+7	altitude	altitude	NC	NC	n=s|g=f	6	prep	6	prep
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	on	on	CLS	CLS	n=s|p=3	10	suj	10	suj
+10	entre	entrer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+11	dans	dans	P	P		10	mod	10	mod
+12	la	la	DET	DET	n=s|g=f	13	det	13	det
+13	forêt	forêt	NC	NC	n=s|g=f	11	prep	11	prep
+14	très	très	ADV	ADV		15	mod	15	mod
+15	humide	humide	ADJ	ADJ	n=s	13	mod	13	mod
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	où	où	PROREL	PROREL		20	mod	20	mod
+18	le	le	DET	DET	n=s|g=m	19	det	19	det
+19	brouillard	brouillard	NC	NC	n=s|g=m	20	suj	20	suj
+20	est	être	V	V	n=s|t=P|p=3	10	mod	10	mod
+21	très	très	ADV	ADV		20	mod	20	mod
+22	fréquent	fréquent	ADJ	ADJ	n=s|g=m	20	ats	20	ats
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	sol	_	NC	NC		4	suj	4	suj
+3	est	être	V	V	n=s|t=P|p=3	4	aux_tps	4	aux_tps
+4	gorgé	gorger	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+5	d'	de	P	P		4	mod	4	mod
+6	eau	eau	NC	NC	n=s|g=f	5	prep	5	prep
+7	:	:	PONCT	PONCT		6	ponct	6	ponct
+8	là	là	ADV	ADV		10	mod	10	mod
+9	se	se	CLR	CLR	n=p,s|p=3	10	aff	10	aff
+10	développe	développer	V	V	n=s|t=P,S|p=1,3	4	mod	4	mod
+11	une	une	DET	DET	n=s|g=f	12	det	12	det
+12	forêt	forêt	NC	NC	n=s|g=f	10	suj	10	suj
+13	avec	avec	P	P		10	mod	10	mod
+14	des	des	DET	DET	n=p	15	det	15	det
+15	arbres	arbre	NC	NC	n=p|g=m	13	prep	13	prep
+16	aux	à	P+D	P+D	n=p	10	mod	10	mod
+17	troncs	tronc	NC	NC	n=p|g=m	16	prep	16	prep
+18	tordus	tordre	ADJ	ADJ	n=p|g=m|t=K	17	mod	17	mod
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	avec	avec	P	P		10	mod	10	mod
+21	des	des	DET	DET	n=p	22	det	22	det
+22	fougères	fougère	NC	NC	n=p|g=f	20	prep	20	prep
+23	arborescentes	arborescent	ADJ	ADJ	n=p|g=f	22	mod	22	mod
+24	,	,	PONCT	PONCT		23	ponct	23	ponct
+25	des	des	DET	DET	n=p	26	det	26	det
+26	mousses	mousse	NC	NC	n=p	10	mod	10	mod
+27	,	,	PONCT	PONCT		26	ponct	26	ponct
+28	des	des	DET	DET	n=p	29	det	29	det
+29	lichens	lichen	NC	NC	n=p|g=m	10	mod	10	mod
+30	.	.	PONCT	PONCT		29	ponct	29	ponct
+
+1	Ces	ces	DET	DET	n=p	2	det	2	det
+2	formations	formation	NC	NC	n=p|g=f	7	suj	7	suj
+3	forestières	forestier	ADJ	ADJ	n=p|g=f	2	mod	2	mod
+4	ont	avoir	V	V	n=p|t=P|p=3	7	aux_tps	7	aux_tps
+5	été	être	VPP	VPP	t=K	7	aux_pass	7	aux_pass
+6	très	très	ADV	ADV		7	mod	7	mod
+7	attaquées	attaquer	VPP	VPP	n=p|g=f|t=K	0	root	0	root
+8	par	par	P	P		7	mod	7	mod
+9	l'	le	DET	DET	n=s	10	det	10	det
+10	homme	homme	NC	NC	n=s|g=m	8	prep	8	prep
+11	pour	pour	P	P		7	mod	7	mod
+12	la	la	DET	DET	n=s|g=f	13	det	13	det
+13	culture	culture	NC	NC	n=s|g=f	11	prep	11	prep
+14	de	de	P	P		7	mod	7	mod
+15	la	la	DET	DET	n=s|g=f	16	det	16	det
+16	canne	canne	NC	NC	n=s|g=f	14	prep	14	prep
+17	à	à	P	P		7	mod	7	mod
+18	sucre	sucre	NC	NC	n=s|g=m	17	prep	17	prep
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	Cependant	cependant	ADV	ADV		9	mod	9	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	à	à	P	P		9	mod	9	mod
+4	cause	cause	NC	NC	n=s|g=f	3	prep	3	prep
+5	des	de	P+D	P+D	n=p	4	dep	4	dep
+6	difficultés	difficulté	NC	NC	n=p|g=f	5	prep	5	prep
+7	d'	de	P	P		4	dep	4	dep
+8	accès	accès	NC	NC	g=m	7	prep	7	prep
+9	liées	lier	VPP	VPP	n=p|g=f|t=K	0	root	0	root
+10	aux	à	P+D	P+D	n=p	9	mod	9	mod
+11	fortes	fort	ADJ	ADJ	n=p|g=f	12	mod	12	mod
+12	pentes	pente	NC	NC	n=p|g=f	10	prep	10	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	la	la	DET	DET	n=s|g=f	15	det	15	det
+15	végétation	végétation	NC	NC	n=s|g=f	17	suj	17	suj
+16	naturelle	naturel	ADJ	ADJ	n=s|g=f	15	mod	15	mod
+17	représente	représenter	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+18	encore	encore	ADV	ADV		17	mod	17	mod
+19	environ	environ	ADV	ADV		20	mod	20	mod
+20	30	30	VPP	VPP		17	mod	17	mod
+21	%	%	NC	NC	g=m	20	mod	20	mod
+22	de	de	P	P		20	mod	20	mod
+23	la	la	DET	DET	n=s|g=f	24	det	24	det
+24	surface	surface	NC	NC	n=s|g=f	22	prep	22	prep
+25	de	de	P	P		20	mod	20	mod
+26	l'	le	DET	DET	n=s	27	det	27	det
+27	île	île	NC	NC	n=s|g=f	25	prep	25	prep
+28	.	.	PONCT	PONCT		27	ponct	27	ponct
+
+</p><p>
+1	À	à	P	P		12	mod	12	mod
+2	partir	partir	VINF	VINF	t=W	1	prep	1	prep
+3	de	de	P	P		2	mod	2	mod
+4	1900	1900	NC	NC		3	prep	3	prep
+5	à	à	P	P		2	mod	2	mod
+6	2_000	2_000	ADJ	ADJ		7	mod	7	mod
+7	mètres	mètre	NC	NC	n=p|g=m	5	prep	5	prep
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	le	le	DET	DET	n=s|g=m	10	det	10	det
+10	ciel	ciel	NC	NC	n=s|g=m	12	suj	12	suj
+11	se	se	CLR	CLR	n=p,s|p=3	12	aff	12	aff
+12	dégage	dégager	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	les	les	DET	DET	n=p	15	det	15	det
+15	bruyères	bruyère	NC	NC	n=p|g=f	12	obj	12	obj
+16	et	et	CC	CC		15	coord	15	coord
+17	la	la	DET	DET	n=s|g=f	18	det	18	det
+18	lande	lande	NC	NC	n=s|g=f	16	dep_coord	16	dep_coord
+19	occupent	occuper	V	V	n=p|t=P,S|p=3	12	mod	12	mod
+20	les	les	DET	DET	n=p	21	det	21	det
+21	pentes	pente	NC	NC	n=p|g=f	19	obj	19	obj
+22	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+</p><h2>
+1	Histoire	histoire	NC	NC	n=s|g=f	0	_	0	_
+
+</h2><p>
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	île	île	NC	NC	n=s|g=f	3	suj	3	suj
+3	apparaît	apparaître	V	V	n=s|t=P|p=3	0	root	0	root
+4	pour	pour	P	P		3	mod	3	mod
+5	la	la	DET	DET	n=s|g=f	7	det	7	det
+6	première	premier	ADJ	ADJ	n=s|g=f	7	mod	7	mod
+7	fois	fois	NC	NC	g=f	4	prep	4	prep
+8	sur	sur	P	P		3	mod	3	mod
+9	une	une	DET	DET	n=s|g=f	10	det	10	det
+10	carte	carte	NC	NC	n=s|g=f	8	prep	8	prep
+11	portugaise	portugais	ADJ	ADJ	n=s|g=f	10	mod	10	mod
+12	en	en	P	P		3	mod	3	mod
+13	1505	1505	NC	NC		12	prep	12	prep
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	en	en	P	P		3	mod	3	mod
+16	même	même	ADJ	ADJ	n=s	17	mod	17	mod
+17	temps	temps	NC	NC	g=m	15	prep	15	prep
+18	que	que	CS	CS		3	mod	3	mod
+19	l'	le	DET	DET	n=s	20	det	20	det
+20	archipel	archipel	NC	NC	n=s|g=m	0	_	0	_
+21	des	de	P+D	P+D	n=p	20	dep	20	dep
+22	Mascareignes	_	NPP	NPP		21	prep	21	prep
+23	dont	dont	PROREL	PROREL		0	_	0	_
+24	elle	elle	CLS	CLS	n=s|g=f|p=3	0	_	0	_
+25	fait	faire	V	V	n=s|t=P|p=3	0	_	0	_
+26	partie	partie	NC	NC	n=s|g=f	25	obj	25	obj
+27	.	.	PONCT	PONCT		26	ponct	26	ponct
+
+1	C'	ce	CLS	CLS		2	suj	2	suj
+2	était	être	V	V	n=s|t=I|p=3	0	root	0	root
+3	jusque	jusque	P	P		2	mod	2	mod
+4	là	là	ADV	ADV		6	mod	6	mod
+5	une	une	DET	DET	n=s|g=f	6	det	6	det
+6	île	île	NC	NC	n=s|g=f	3	prep	3	prep
+7	déserte	désert	ADJ	ADJ	n=s|g=f	6	mod	6	mod
+8	:	:	PONCT	PONCT		7	ponct	7	ponct
+9	l'	le	DET	DET	n=s	10	det	10	det
+10	île	île	NC	NC	n=s|g=f	20	suj	20	suj
+11	étant	être	VPR	VPR	t=G	13	aux_tps	13	aux_tps
+12	assez	assez	ADV	ADV		11	mod	11	mod
+13	isolée	isoler	VPP	VPP	n=s|g=f|t=K	10	mod	10	mod
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	aucune	aucune	DET	DET	n=s|g=f	16	det	16	det
+16	population	population	NC	NC	n=s|g=f	20	suj	20	suj
+17	ne	ne	ADV	ADV		20	mod	20	mod
+18	l'	le	CLO	CLO	n=s|p=3	20	aff	20	aff
+19	avait	avoir	V	V	n=s|t=I|p=3	20	aux_tps	20	aux_tps
+20	atteinte	atteindre	VPP	VPP	n=s|g=f|t=K	2	mod	2	mod
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	ou	ou	CC	CC		20	coord	20	coord
+23	en	en	P	P		22	dep_coord	22	dep_coord
+24	tout	tout	DET	DET	n=s|g=m	25	det	25	det
+25	cas	cas	NC	NC	g=m	23	prep	23	prep
+26	personne	personne	PRO	PRO	n=s	22	dep_coord	22	dep_coord
+27	ne	ne	ADV	ADV		26	mod	26	mod
+28	s'	se	CLR	CLR	n=p,s|p=3	31	aff	31	aff
+29	y	y	CLO	CLO		31	aff	31	aff
+30	était	être	V	V	n=s|t=I|p=3	31	aux_tps	31	aux_tps
+31	installé	installer	VPP	VPP	n=s|g=m|t=K	26	mod	26	mod
+32	pour	pour	P	P		31	mod	31	mod
+33	l'	le	CLO	CLO	n=s|p=3	34	obj	34	obj
+34	habiter	habiter	VINF	VINF	t=W	32	prep	32	prep
+35	.	.	PONCT	PONCT		34	ponct	34	ponct
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	2	suj	2	suj
+2	sert	servir	V	V	n=s|t=P|p=3	0	root	0	root
+3	alors	alors	ADV	ADV		2	mod	2	mod
+4	de	de	P	P		2	mod	2	mod
+5	point	point	NC	NC	n=s|g=m	4	prep	4	prep
+6	de	de	P	P		2	mod	2	mod
+7	ravitaillement	ravitaillement	NC	NC	n=s|g=m	6	prep	6	prep
+8	en	en	P	P		2	mod	2	mod
+9	eau	eau	NC	NC	n=s|g=f	8	prep	8	prep
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	fruits	fruit	NC	NC	n=p|g=m	2	mod	2	mod
+12	et	et	CC	CC		11	coord	11	coord
+13	chair	chair	NC	NC	n=s|g=f	12	dep_coord	12	dep_coord
+14	fraîche	frais	ADJ	ADJ	n=s|g=f	13	mod	13	mod
+15	(	(	PONCT	PONCT		14	ponct	14	ponct
+16	tortue	tortue	NC	NC	n=s|g=f	2	mod	2	mod
+17	et	et	CC	CC		16	coord	16	coord
+18	dodo	dodo	NC	NC	n=s|g=m	17	dep_coord	17	dep_coord
+19	)	)	PONCT	PONCT		18	ponct	18	ponct
+20	pour	pour	P	P		2	mod	2	mod
+21	les	les	DET	DET	n=p	22	det	22	det
+22	équipages	équipage	NC	NC	n=p|g=m	20	prep	20	prep
+23	des	de	P+D	P+D	n=p	2	mod	2	mod
+24	navires	navire	NC	NC	n=p|g=m	23	prep	23	prep
+25	faisant	faire	VPR	VPR	t=G	24	mod	24	mod
+26	le	le	DET	DET	n=s|g=m	27	det	27	det
+27	commerce	commerce	NC	NC	n=s|g=m	25	obj	25	obj
+28	entre	entre	P	P		25	mod	25	mod
+29	l'	le	DET	DET	n=s	30	det	30	det
+30	Europe	Europe	NPP	NPP	n=s|g=f	28	prep	28	prep
+31	et	et	CC	CC		2	coord	2	coord
+32	l'	le	DET	DET	n=s	33	det	33	det
+33	Inde	Inde	NPP	NPP	n=s|g=f	31	dep_coord	31	dep_coord
+34	.	.	PONCT	PONCT		33	ponct	33	ponct
+
+</p><p>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	Français	français	NC	NC	g=m	4	suj	4	suj
+3	y	y	CLO	CLO		4	aff	4	aff
+4	débarquent	débarquer	V	V	n=p|t=P,S|p=3	0	root	0	root
+5	en	en	P	P		4	mod	4	mod
+6	1638	1638	NC	NC		5	prep	5	prep
+7	(	(	PONCT	PONCT		6	ponct	6	ponct
+8	ainsi	ainsi	ADV	ADV		4	mod	4	mod
+9	que	que	CS	CS		4	mod	4	mod
+10	dans	dans	P	P		25	mod	25	mod
+11	l'	le	DET	DET	n=s	12	det	12	det
+12	île	île	NC	NC	n=s|g=f	10	prep	10	prep
+13	de	de	P	P		12	dep	12	dep
+14	Rodrigues	_	NPP	NPP		13	prep	13	prep
+15	)	)	PONCT	PONCT		14	ponct	14	ponct
+16	;	;	PONCT	PONCT		14	ponct	14	ponct
+17	quelque	quelque	DET	DET	n=s	18	det	18	det
+18	temps	temps	NC	NC	g=m	25	suj	25	suj
+19	auparavant	auparavant	ADV	ADV		18	mod	18	mod
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	les	les	DET	DET	n=p	22	det	22	det
+22	Néerlandais	néerlandais	NC	NC	g=m	18	mod	18	mod
+23	s'	se	CLR	CLR	n=p,s|p=3	25	aff	25	aff
+24	étaient	être	V	V	n=p|t=I|p=3	25	aux_tps	25	aux_tps
+25	installés	installer	VPP	VPP	n=p|g=m|t=K	9	sub	9	sub
+26	à	à	P	P		25	mod	25	mod
+27	Maurice	Maurice	NPP	NPP	n=s|g=m	26	prep	26	prep
+28	.	.	PONCT	PONCT		27	ponct	27	ponct
+
+1	On	on	CLS	CLS	n=s|p=3	3	suj	3	suj
+2	y	y	CLO	CLO		3	aff	3	aff
+3	débarque	débarquer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	une	une	DET	DET	n=s|g=f	5	det	5	det
+5	douzaine	douzaine	NC	NC	n=s|g=f	3	obj	3	obj
+6	de	de	P	P		3	mod	3	mod
+7	colons	colon	NC	NC	n=p|g=m	6	prep	6	prep
+8	mutins	mutin	NC	NC	n=p|g=m	7	mod	7	mod
+9	provenant	provenir	VPR	VPR	t=G	3	mod	3	mod
+10	de	de	P	P		9	mod	9	mod
+11	Madagascar	Madagascar	NPP	NPP	n=s|g=m	10	prep	10	prep
+12	en	en	P	P		9	mod	9	mod
+13	1646	1646	NC	NC		12	prep	12	prep
+14	et	et	CC	CC		3	coord	3	coord
+15	en	en	P	P		14	dep_coord	14	dep_coord
+16	1654	1654	NC	NC		15	prep	15	prep
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+1	En	en	P	P		6	mod	6	mod
+2	1649	1649	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	l'	le	DET	DET	n=s	5	det	5	det
+5	île	île	NC	NC	n=s|g=f	6	suj	6	suj
+6	reçoit	recevoir	V	V	n=s|t=P|p=3	0	root	0	root
+7	le	le	DET	DET	n=s|g=m	8	det	8	det
+8	nom	nom	NC	NC	n=s|g=m	6	obj	6	obj
+9	d'	de	P	P		8	dep	8	dep
+10	île	île	NC	NC	n=s|g=f	9	prep	9	prep
+11	Bourbon	_	NPP	NPP		10	mod	10	mod
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	en	en	P	P		6	mod	6	mod
+14	référence	référence	NC	NC	n=s|g=f	13	prep	13	prep
+15	au	à	P+D	P+D	n=s|g=m	6	mod	6	mod
+16	nom	nom	NC	NC	n=s|g=m	15	prep	15	prep
+17	de	de	P	P		6	mod	6	mod
+18	la	la	DET	DET	n=s|g=f	19	det	19	det
+19	famille	famille	NC	NC	n=s|g=f	17	prep	17	prep
+20	royale	royal	ADJ	ADJ	n=s|g=f	19	mod	19	mod
+21	française	français	ADJ	ADJ	n=s|g=f	19	mod	19	mod
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+23	la	la	DET	DET	n=s|g=f	24	det	24	det
+24	dynastie	dynastie	NC	NC	n=s|g=f	6	obj	6	obj
+25	capétienne	capétien	ADJ	ADJ	n=s|g=f	24	mod	24	mod
+26	de	de	P	P		24	dep	24	dep
+27	Bourbon	_	NPP	NPP		26	prep	26	prep
+28	.	.	PONCT	PONCT		27	ponct	27	ponct
+
+1	Cependant	cependant	ADV	ADV		6	mod	6	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	on	on	CLS	CLS	n=s|p=3	6	suj	6	suj
+4	ne	ne	ADV	ADV		6	mod	6	mod
+5	se	se	CLR	CLR	n=p,s|p=3	6	aff	6	aff
+6	préoccupe	préoccuper	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+7	pas	pas	ADV	ADV		6	mod	6	mod
+8	de	de	P	P		6	mod	6	mod
+9	peupler	peupler	VINF	VINF	t=W	8	prep	8	prep
+10	l'	le	DET	DET	n=s	11	det	11	det
+11	île	île	NC	NC	n=s|g=f	9	obj	9	obj
+12	d'	de	P	P		11	dep	11	dep
+13	une	une	DET	DET	n=s|g=f	14	det	14	det
+14	manière	manière	NC	NC	n=s|g=f	12	prep	12	prep
+15	durable	durable	ADJ	ADJ	n=s	14	mod	14	mod
+16	...	...	PONCT	PONCT		15	ponct	15	ponct
+17	d'	de	P	P		6	mod	6	mod
+18	autant	autant	ADV	ADV		17	mod	17	mod
+19	que	que	CS	CS		6	mod	6	mod
+20	manquent	manquer	V	V	n=p|t=P,S|p=3	19	sub	19	sub
+21	des	des	DET	DET	n=p	22	det	22	det
+22	femmes	femme	NC	NC	n=p|g=f	20	suj	20	suj
+23	volontaires	volontaire	ADJ	ADJ	n=p	22	mod	22	mod
+24	pour	pour	P	P		20	mod	20	mod
+25	aller	aller	VINF	VINF	t=W	24	prep	24	prep
+26	vivre	vivre	VINF	VINF	t=W	25	obj	25	obj
+27	dans	dans	P	P		26	mod	26	mod
+28	ce	ce	DET	DET	n=s|g=m	29	det	29	det
+29	lieu	lieu	NC	NC	n=s|g=m	27	prep	27	prep
+30	très	très	ADV	ADV		31	mod	31	mod
+31	éloigné	éloigner	VPP	VPP	n=s|g=m|t=K	29	mod	29	mod
+32	de	de	P	P		31	mod	31	mod
+33	la	la	DET	DET	n=s|g=f	34	det	34	det
+34	France	France	NPP	NPP	n=s|g=f,m	32	prep	32	prep
+35	.	.	PONCT	PONCT		34	ponct	34	ponct
+
+</p><p>
+1	En	en	P	P		9	mod	9	mod
+2	1663	1663	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	un	un	DET	DET	n=s|g=m	5	det	5	det
+5	colon	colon	NC	NC	n=s|g=m	9	suj	9	suj
+6	volontaire	volontaire	ADJ	ADJ	n=s	5	mod	5	mod
+7	s'	se	CLR	CLR	n=p,s|p=3	9	aff	9	aff
+8	était	être	V	V	n=s|t=I|p=3	9	aux_tps	9	aux_tps
+9	installé	installer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+10	sur	sur	P	P		9	mod	9	mod
+11	la	la	DET	DET	n=s|g=f	12	det	12	det
+12	côte	côte	NC	NC	n=s|g=f	10	prep	10	prep
+13	ouest	ouest	NC	NC	n=s|g=m	12	mod	12	mod
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	à	à	P	P		9	mod	9	mod
+16	Saint-Paul	Saint-Paul	NPP	NPP	n=s|g=m	15	prep	15	prep
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	avec	avec	P	P		9	mod	9	mod
+19	un	un	DET	DET	n=s|g=m	20	det	20	det
+20	ami	ami	NC	NC	n=s|g=m	18	prep	18	prep
+21	et	et	CC	CC		9	coord	9	coord
+22	dix	dix	DET	DET	s=card|n=p	23	det	23	det
+23	Malgaches	_	NPP	NPP		0	_	0	_
+24	,	,	PONCT	PONCT		23	ponct	23	ponct
+25	dont	dont	PROREL	PROREL		0	_	0	_
+26	trois	trois	DET	DET	s=card|n=p	27	det	27	det
+27	femmes	femme	NC	NC	n=p|g=f	0	_	0	_
+28	.	.	PONCT	PONCT		27	ponct	27	ponct
+
+1	Mais	mais	CC	CC		0	root	0	root
+2	très	très	ADV	ADV		3	mod	3	mod
+3	rapidement	_	ADV	ADV		7	mod	7	mod
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	les	les	DET	DET	n=p	6	det	6	det
+6	Malgaches	_	NPP	NPP		7	suj	7	suj
+7	fuient	fuir	V	V	n=p|t=P,S|p=3	1	dep_coord	1	dep_coord
+8	et	et	CC	CC		7	coord	7	coord
+9	se	se	CLR	CLR	n=p,s|p=3	10	aff	10	aff
+10	réfugient	réfugier	V	V	n=p|t=P,S|p=3	8	dep_coord	8	dep_coord
+11	dans	dans	P	P		10	mod	10	mod
+12	les	les	DET	DET	n=p	13	det	13	det
+13	montagnes	montagne	NC	NC	n=p|g=f	11	prep	11	prep
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+1	En	en	P	P		11	mod	11	mod
+2	1665	1665	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	Compagnie	compagnie	NC	NC	n=s|g=f	11	suj	11	suj
+6	des	de	P+D	P+D	n=p	5	dep	5	dep
+7	Indes	inde	NC	NC	n=p|g=m	6	prep	6	prep
+8	orientales	oriental	ADJ	ADJ	n=p|g=f	7	mod	7	mod
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	qui	qui	PROREL	PROREL	n=s	11	suj	11	suj
+11	vient	venir	V	V	n=s|t=P|p=3	0	root	0	root
+12	d'	de	P	P		11	ats	11	ats
+13	être	être	VINF	VINF	t=W	14	aux_pass	14	aux_pass
+14	créée	créer	VPP	VPP	n=s|g=f|t=K	12	prep	12	prep
+15	en	en	P	P		14	mod	14	mod
+16	France	France	NPP	NPP	n=s|g=f,m	15	prep	15	prep
+17	par	par	P	P		14	mod	14	mod
+18	Colbert	Colbert	NPP	NPP	n=s|g=m	17	prep	17	prep
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	implante	implanter	V	V	n=s|t=P,S|p=1,3	11	mod	11	mod
+21	officiellement	_	ADV	ADV		20	mod	20	mod
+22	une	une	DET	DET	n=s|g=f	23	det	23	det
+23	colonie	colonie	NC	NC	n=s|g=f	20	obj	20	obj
+24	d'	de	P	P		23	dep	23	dep
+25	une	une	DET	DET	n=s|g=f	26	det	26	det
+26	vingtaine	vingtaine	NC	NC	n=s|g=f	24	prep	24	prep
+27	d'	de	P	P		26	dep	26	dep
+28	hommes	homme	NC	NC	n=p|g=m	27	prep	27	prep
+29	dans	dans	P	P		20	mod	20	mod
+30	l'	le	DET	DET	n=s	31	det	31	det
+31	île	île	NC	NC	n=s|g=f	29	prep	29	prep
+32	Bourbon	_	NPP	NPP		31	mod	31	mod
+33	.	.	PONCT	PONCT		32	ponct	32	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	peuplement	peuplement	NC	NC	n=s|g=m	13	suj	13	suj
+3	féminin	féminin	ADJ	ADJ	n=s|g=m	2	mod	2	mod
+4	d'	de	P	P		2	dep	2	dep
+5	origine	origine	NC	NC	n=s|g=f	4	prep	4	prep
+6	européenne	européen	ADJ	ADJ	n=s|g=f	5	mod	5	mod
+7	étant	être	VPR	VPR	t=G	2	mod	2	mod
+8	insuffisant	insuffisant	ADJ	ADJ	n=s|g=m	7	ats	7	ats
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	les	les	DET	DET	n=p	11	det	11	det
+11	femmes	femme	NC	NC	n=p|g=f	13	suj	13	suj
+12	seront	être	V	V	n=p|t=F|p=3	13	aux_pass	13	aux_pass
+13	recrutées	recruter	VPP	VPP	n=p|g=f|t=K	0	root	0	root
+14	en	en	P	P		13	mod	13	mod
+15	Inde	Inde	NPP	NPP	n=s|g=f	14	prep	14	prep
+16	et	et	CC	CC		13	coord	13	coord
+17	à	à	P	P		16	dep_coord	16	dep_coord
+18	Madagascar	Madagascar	NPP	NPP	n=s|g=m	17	prep	17	prep
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	esclavage	esclavage	NC	NC	n=s|g=m	4	suj	4	suj
+3	est	être	V	V	n=s|t=P|p=3	4	aux_tps	4	aux_tps
+4	introduit	introduire	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+5	à	à	P	P		4	mod	4	mod
+6	partir	partir	VINF	VINF	t=W	5	prep	5	prep
+7	de	de	P	P		6	mod	6	mod
+8	l'	le	DET	DET	n=s	9	det	9	det
+9	Inde	Inde	NPP	NPP	n=s|g=f	7	prep	7	prep
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	de	de	P	P		6	mod	6	mod
+12	l'	le	DET	DET	n=s	13	det	13	det
+13	Afrique	Afrique	NPP	NPP	n=s|g=f	11	prep	11	prep
+14	de	de	P	P		6	mod	6	mod
+15	l'	le	DET	DET	n=s	16	det	16	det
+16	Ouest	_	NPP	NPP		14	prep	14	prep
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	du	de	P+D	P+D	n=s|g=m	6	mod	6	mod
+19	Mozambique	Mozambique	NPP	NPP	n=s|g=m	18	prep	18	prep
+20	et	et	CC	CC		18	coord	18	coord
+21	de	de	P	P		20	dep_coord	20	dep_coord
+22	Madagascar	Madagascar	NPP	NPP	n=s|g=m	21	prep	21	prep
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+</p><p>
+1	Au	à	P+D	P+D	n=s|g=m	11	mod	11	mod
+2	milieu	milieu	NC	NC	n=s|g=m	1	prep	1	prep
+3	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+4	XVIII	_	ADJ	ADJ		5	mod	5	mod
+5	siècle	siècle	NC	NC	n=s|g=m	3	prep	3	prep
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	le	le	DET	DET	n=s|g=m	9	det	9	det
+8	naturaliste	naturaliste	ADJ	ADJ	n=s	9	mod	9	mod
+9	Pierre	Pierre	NPP	NPP	n=s|g=m	11	suj	11	suj
+10	Poivre	_	NPP	NPP		9	mod	9	mod
+11	subtilise	subtiliser	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+12	aux	à	P+D	P+D	n=p	11	mod	11	mod
+13	Hollandais	hollandais	NC	NC	g=m	12	prep	12	prep
+14	de	de	P	P		11	mod	11	mod
+15	Maurice	Maurice	NPP	NPP	n=s|g=m	14	prep	14	prep
+16	des	de	P+D	P+D	n=p	11	mod	11	mod
+17	plants	plant	NC	NC	n=p|g=m	16	prep	16	prep
+18	pour	pour	P	P		11	mod	11	mod
+19	les	les	DET	DET	n=p	20	det	20	det
+20	épices	épice	NC	NC	n=p|g=f	18	prep	18	prep
+21	et	et	CC	CC		11	coord	11	coord
+22	les	les	DET	DET	n=p	23	det	23	det
+23	introduit	_	NC	NC		0	_	0	_
+24	dans	dans	P	P		23	dep	23	dep
+25	l'	le	DET	DET	n=s	26	det	26	det
+26	île	île	NC	NC	n=s|g=f	24	prep	24	prep
+27	Bourbon	_	NPP	NPP		26	mod	26	mod
+28	.	.	PONCT	PONCT		27	ponct	27	ponct
+
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	île	île	NC	NC	n=s|g=f	3	suj	3	suj
+3	va	aller	V	V	n=s|t=P|p=3	0	root	0	root
+4	alors	alors	ADV	ADV		3	mod	3	mod
+5	devenir	devenir	VINF	VINF	t=W	3	obj	3	obj
+6	un	un	DET	DET	n=s|g=m	7	det	7	det
+7	fournisseur	fournisseur	NC	NC	n=s|g=m	5	obj	5	obj
+8	d'	de	P	P		7	dep	7	dep
+9	épices	épice	NC	NC	n=p|g=f	8	prep	8	prep
+10	pour	pour	P	P		5	mod	5	mod
+11	la	la	DET	DET	n=s|g=f	12	det	12	det
+12	France	France	NPP	NPP	n=s|g=f,m	10	prep	10	prep
+13	.	.	PONCT	PONCT		12	ponct	12	ponct
+
+</p><p>
+1	En	en	P	P		16	mod	16	mod
+2	1793	1793	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	après	après	P	P		16	mod	16	mod
+5	la	la	DET	DET	n=s|g=f	6	det	6	det
+6	chute	chute	NC	NC	n=s|g=f	4	prep	4	prep
+7	de	de	P	P		6	dep	6	dep
+8	la	la	DET	DET	n=s|g=f	9	det	9	det
+9	royauté	royauté	NC	NC	n=s|g=f	7	prep	7	prep
+10	en	en	P	P		6	dep	6	dep
+11	France	France	NPP	NPP	n=s|g=f,m	10	prep	10	prep
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	l'	le	DET	DET	n=s	14	det	14	det
+14	île	île	NC	NC	n=s|g=f	16	suj	16	suj
+15	Bourbon	_	NPP	NPP		14	mod	14	mod
+16	change	changer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+17	de	de	P	P		16	mod	16	mod
+18	nom	nom	NC	NC	n=s|g=m	17	prep	17	prep
+19	et	et	CC	CC		16	coord	16	coord
+20	devient	devenir	V	V	n=s|t=P|p=3	19	dep_coord	19	dep_coord
+21	l'	le	DET	DET	n=s	22	det	22	det
+22	île	île	NC	NC	n=s|g=f	20	obj	20	obj
+23	de	de	P	P		22	dep	22	dep
+24	la	la	DET	DET	n=s|g=f	25	det	25	det
+25	Réunion	Réunion	NPP	NPP	n=s|g=f	23	prep	23	prep
+26	pour	pour	P	P		20	mod	20	mod
+27	honorer	honorer	VINF	VINF	t=W	26	prep	26	prep
+28	les	les	DET	DET	n=p	29	det	29	det
+29	groupements	groupement	NC	NC	n=p|g=m	27	obj	27	obj
+30	de	de	P	P		29	dep	29	dep
+31	gardes	garde	NC	NC	n=p	30	prep	30	prep
+32	nationaux	national	ADJ	ADJ	n=p|g=m	31	mod	31	mod
+33	,	,	PONCT	PONCT		32	ponct	32	ponct
+34	piliers	pilier	NC	NC	n=p|g=m	29	mod	29	mod
+35	de	de	P	P		34	dep	34	dep
+36	la	la	DET	DET	n=s|g=f	37	det	37	det
+37	Révolution	révolution	NC	NC	n=s|g=f	35	prep	35	prep
+38	.	.	PONCT	PONCT		37	ponct	37	ponct
+
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	île	île	NC	NC	n=s|g=f	4	suj	4	suj
+3	est	être	V	V	n=s|t=P|p=3	4	aux_tps	4	aux_tps
+4	protégée	protéger	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+5	des	de	P+D	P+D	n=p	4	mod	4	mod
+6	entreprises	entreprise	NC	NC	n=p|g=f	5	prep	5	prep
+7	militaires	militaire	ADJ	ADJ	n=p	6	mod	6	mod
+8	des	de	P+D	P+D	n=p	4	mod	4	mod
+9	Britanniques	britannique	NC	NC	n=p	8	prep	8	prep
+10	par	par	P	P		4	mod	4	mod
+11	l'	le	DET	DET	n=s	12	det	12	det
+12	action	action	NC	NC	n=s|g=f	10	prep	10	prep
+13	des	de	P+D	P+D	n=p	4	mod	4	mod
+14	corsaires	corsaire	NC	NC	n=p|g=m	13	prep	13	prep
+15	français	français	ADJ	ADJ	g=m	14	mod	14	mod
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	en	en	P	P		4	mod	4	mod
+18	particulier	particulier	NC	NC	n=s|g=m	17	prep	17	prep
+19	Robert	Robert	NPP	NPP	n=s|g=m	18	mod	18	mod
+20	Surcouf	_	NPP	NPP		18	mod	18	mod
+21	.	.	PONCT	PONCT		20	ponct	20	ponct
+
+1	Cependant	cependant	ADV	ADV		9	mod	9	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	en	en	P	P		9	mod	9	mod
+4	1810	1810	NC	NC		3	prep	3	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	les	les	DET	DET	n=p	7	det	7	det
+7	Britanniques	britannique	NC	NC	n=p	9	suj	9	suj
+8	s'	se	CLR	CLR	n=p,s|p=3	9	aff	9	aff
+9	emparent	emparer	V	V	n=p|t=P,S|p=3	0	root	0	root
+10	de	de	P	P		9	mod	9	mod
+11	l'	le	DET	DET	n=s	12	det	12	det
+12	île	île	NC	NC	n=s|g=f	10	prep	10	prep
+13	où	où	PROREL	PROREL		15	mod	15	mod
+14	ils	ils	CLS	CLS	n=p|g=m|p=3	15	suj	15	suj
+15	abolissent	abolir	V	V	n=p|t=P,S|p=3	9	mod	9	mod
+16	la	la	DET	DET	n=s|g=f	17	det	17	det
+17	traite	traite	NC	NC	n=s|g=f	15	obj	15	obj
+18	des	de	P+D	P+D	n=p	17	dep	17	dep
+19	esclaves	esclave	NC	NC	n=p	18	prep	18	prep
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+1	Ils	ils	CLS	CLS	n=p|g=m|p=3	4	suj	4	suj
+2	ne	ne	ADV	ADV		4	mod	4	mod
+3	la	la	CLO	CLO	n=s|g=f|p=3	4	obj	4	obj
+4	rétrocèdent	rétrocéder	V	V	n=p|t=P,S|p=3	0	root	0	root
+5	à	à	P	P		4	mod	4	mod
+6	la	la	DET	DET	n=s|g=f	7	det	7	det
+7	France	France	NPP	NPP	n=s|g=f,m	5	prep	5	prep
+8	qu'	que	CS	CS		4	mod	4	mod
+9	en	en	P	P		0	_	0	_
+10	1815	1815	NC	NC		9	prep	9	prep
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	après	après	P	P		0	_	0	_
+13	la	la	DET	DET	n=s|g=f	14	det	14	det
+14	chute	chute	NC	NC	n=s|g=f	12	prep	12	prep
+15	de	de	P	P		14	dep	14	dep
+16	Napoléon	_	NPP	NPP		15	prep	15	prep
+17	Ier	_	NPP	NPP		16	mod	16	mod
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+</p><p>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	culture	culture	NC	NC	n=s|g=f	9	suj	9	suj
+3	de	de	P	P		2	dep	2	dep
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	canne	canne	NC	NC	n=s|g=f	3	prep	3	prep
+6	à	à	P	P		5	dep	5	dep
+7	sucre	sucre	NC	NC	n=s|g=m	6	prep	6	prep
+8	se	se	CLR	CLR	n=p,s|p=3	9	aff	9	aff
+9	développe	développer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+10	grâce	grâce	NC	NC	n=s|g=f	9	obj	9	obj
+11	au	à	P+D	P+D	n=s|g=m	9	mod	9	mod
+12	travail	travail	NC	NC	n=s|g=m	11	prep	11	prep
+13	des	de	P+D	P+D	n=p	12	dep	12	dep
+14	esclaves	esclave	NC	NC	n=p	13	prep	13	prep
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+1	En	en	P	P		7	mod	7	mod
+2	1848	1848	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	la	la	DET	DET	n=s|g=f	6	det	6	det
+5	Deuxième	deuxième	ADJ	ADJ	n=s	6	mod	6	mod
+6	République	république	NC	NC	n=s|g=f	7	suj	7	suj
+7	abolit	abolir	V	V	n=s|t=J,P|p=3	0	root	0	root
+8	l'	le	DET	DET	n=s	9	det	9	det
+9	esclavage	esclavage	NC	NC	n=s|g=m	7	obj	7	obj
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+1	Pour	pour	P	P		7	mod	7	mod
+2	renforcer	renforcer	VINF	VINF	t=W	1	prep	1	prep
+3	la	la	DET	DET	n=s|g=f	4	det	4	det
+4	main-d'œuvre	_	NC	NC		2	obj	2	obj
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	on	on	CLS	CLS	n=s|p=3	7	suj	7	suj
+7	importe	importer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+8	des	des	DET	DET	n=p	9	det	9	det
+9	travailleurs	travailleur	NC	NC	n=p|g=m	7	obj	7	obj
+10	libres	libre	ADJ	ADJ	n=p	9	mod	9	mod
+11	originaires	originaire	ADJ	ADJ	n=p	9	mod	9	mod
+12	de	de	P	P		9	dep	9	dep
+13	Madagascar	Madagascar	NPP	NPP	n=s|g=m	12	prep	12	prep
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	d'	de	P	P		7	mod	7	mod
+16	Afrique	Afrique	NPP	NPP	n=s|g=f	15	prep	15	prep
+17	du	de	P+D	P+D	n=s|g=m	7	mod	7	mod
+18	Sud-Est	_	NPP	NPP		17	prep	17	prep
+19	et	et	CC	CC		7	coord	7	coord
+20	du	de	P+D	P+D	n=s|g=m	19	dep_coord	19	dep_coord
+21	Gujerat	_	NC	NC		20	prep	20	prep
+22	indien	indien	ADJ	ADJ	n=s|g=m	21	mod	21	mod
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	puis	puis	CC	CC		20	coord	20	coord
+25	des	de	P+D	P+D	n=p	24	dep_coord	24	dep_coord
+26	Chinois	chinois	NC	NC	g=m	25	prep	25	prep
+27	.	.	PONCT	PONCT		26	ponct	26	ponct
+
+1	Ces	ces	DET	DET	n=p	2	det	2	det
+2	vagues	vague	NC	NC	n=p	13	suj	13	suj
+3	d'	de	P	P		2	dep	2	dep
+4	immigration	immigration	NC	NC	n=s|g=f	3	prep	3	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	s'	se	CLR	CLR	n=p,s|p=3	7	aff	7	aff
+7	ajoutant	ajouter	VPR	VPR	t=G	2	mod	2	mod
+8	au	à	P+D	P+D	n=s|g=m	7	mod	7	mod
+9	peuplement	peuplement	NC	NC	n=s|g=m	8	prep	8	prep
+10	plus	plus	ADV	ADV		11	mod	11	mod
+11	ancien	ancien	ADJ	ADJ	n=s|g=m	9	mod	9	mod
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	créent	créer	V	V	n=p|t=P,S|p=3	0	root	0	root
+14	une	une	DET	DET	n=s|g=f	15	det	15	det
+15	population	population	NC	NC	n=s|g=f	13	obj	13	obj
+16	multi-ethnique	_	ADJ	ADJ		15	mod	15	mod
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+</p><h2>
+1	Peuplement	peuplement	NC	NC	n=s|g=m	0	_	0	_
+
+</h2><p>
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	une	un	PRO	PRO	n=s|g=f	6	suj	6	suj
+3	des	de	P+D	P+D	n=p	2	dep	2	dep
+4	premières	premier	ADJ	ADJ	n=p|g=f	5	mod	5	mod
+5	espèces	espèce	NC	NC	n=p|g=f	3	prep	3	prep
+6	vivant	vivre	VPR	VPR	t=G	10	mod	10	mod
+7	sur	sur	P	P		6	mod	6	mod
+8	l'	le	DET	DET	n=s	9	det	9	det
+9	île	île	NC	NC	n=s|g=f	7	prep	7	prep
+10	fut	être	V	V	n=s|t=J|p=3	0	root	0	root
+11	le	le	DET	DET	n=s|g=m	12	det	12	det
+12	dodo	dodo	NC	NC	n=s|g=m	10	obj	10	obj
+13	.	.	PONCT	PONCT		12	ponct	12	ponct
+
+1	Très	très	ADV	ADV		2	mod	2	mod
+2	longtemps	longtemps	ADV	ADV		7	mod	7	mod
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	cette	cette	DET	DET	n=s|g=f	5	det	5	det
+5	espèce	espèce	NC	NC	n=s|g=f	7	suj	7	suj
+6	a	avoir	V	V	n=s|t=P|p=3	7	aux_tps	7	aux_tps
+7	vécu	vivre	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+8	sans	sans	P	P		7	mod	7	mod
+9	prédateur	prédateur	NC	NC	n=s|g=m	8	prep	8	prep
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	arrivée	arrivée	NC	NC	n=s|g=f	13	suj	13	suj
+3	des	de	P+D	P+D	n=p	2	dep	2	dep
+4	premiers	premier	ADJ	ADJ	n=p|g=m	5	mod	5	mod
+5	colons	colon	NC	NC	n=p|g=m	3	prep	3	prep
+6	sur	sur	P	P		2	dep	2	dep
+7	l'	le	DET	DET	n=s	8	det	8	det
+8	île	île	NC	NC	n=s|g=f	6	prep	6	prep
+9	et	et	CC	CC		2	coord	2	coord
+10	une	une	DET	DET	n=s|g=f	11	det	11	det
+11	chasse	chasse	NC	NC	n=s|g=f	9	dep_coord	9	dep_coord
+12	intensive	intensif	ADJ	ADJ	n=s|g=f	11	mod	11	mod
+13	vont	aller	V	V	n=p|t=P|p=3	0	root	0	root
+14	malheureusement	_	ADV	ADV		13	mod	13	mod
+15	conduire	conduire	VINF	VINF	t=W	13	obj	13	obj
+16	à	à	P	P		15	mod	15	mod
+17	l'	le	DET	DET	n=s	18	det	18	det
+18	extinction	extinction	NC	NC	n=s|g=f	16	prep	16	prep
+19	de	de	P	P		15	mod	15	mod
+20	l'	le	DET	DET	n=s	21	det	21	det
+21	espèce	espèce	NC	NC	n=s|g=f	19	prep	19	prep
+22	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+</p><p>
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	île	île	NC	NC	n=s|g=f	4	suj	4	suj
+3	Bourbon	_	NPP	NPP		2	mod	2	mod
+4	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+5	d'	de	P	P		4	mod	4	mod
+6	abord	abord	NC	NC	n=s|g=m	5	prep	5	prep
+7	peuplée	peupler	VPP	VPP	n=s|g=f|t=K	4	mod	4	mod
+8	par	par	P	P		7	mod	7	mod
+9	des	des	DET	DET	n=p	10	det	10	det
+10	colons	colon	NC	NC	n=p|g=m	8	prep	8	prep
+11	français	français	ADJ	ADJ	g=m	10	mod	10	mod
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	venus	venir	VPP	VPP	n=p|g=m|t=K	10	mod	10	mod
+14	de	de	P	P		13	mod	13	mod
+15	métropole	métropole	NC	NC	n=s|g=f	14	prep	14	prep
+16	ou	ou	CC	CC		14	coord	14	coord
+17	de	de	P	P		16	dep_coord	16	dep_coord
+18	Madagascar	Madagascar	NPP	NPP	n=s|g=m	17	prep	17	prep
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	qui	qui	PROREL	PROREL	n=s	21	suj	21	suj
+21	amènent	amener	V	V	n=p|t=P,S|p=3	4	mod	4	mod
+22	avec	avec	P	P		21	mod	21	mod
+23	eux	eux	PRO	PRO	n=p|g=m|p=3	22	prep	22	prep
+24	leurs	leurs	DET	DET	n=p|p=3|poss=p	25	det	25	det
+25	familles	famille	NC	NC	n=p|g=f	21	obj	21	obj
+26	et	et	CC	CC		25	coord	25	coord
+27	leurs	leurs	DET	DET	n=p|p=3|poss=p	28	det	28	det
+28	serviteurs	serviteur	NC	NC	n=p|g=m	26	dep_coord	26	dep_coord
+29	.	.	PONCT	PONCT		28	ponct	28	ponct
+
+1	Pendant	pendant	P	P		8	mod	8	mod
+2	un	un	DET	DET	n=s|g=m	3	det	3	det
+3	temps	temps	NC	NC	g=m	1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	l'	le	DET	DET	n=s	6	det	6	det
+6	île	île	NC	NC	n=s|g=f	8	suj	8	suj
+7	n'	ne	ADV	ADV		6	mod	6	mod
+8	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+9	qu'	que	CS	CS		8	mod	8	mod
+10	un	un	DET	DET	n=s|g=m	11	det	11	det
+11	port	port	NC	NC	n=s|g=m	54	suj	54	suj
+12	d'	de	P	P		11	dep	11	dep
+13	étape	étape	NC	NC	n=s|g=f	12	prep	12	prep
+14	pour	pour	P	P		11	dep	11	dep
+15	les	les	DET	DET	n=p	16	det	16	det
+16	bateaux	bateau	NC	NC	n=p|g=m	14	prep	14	prep
+17	qui	qui	PROREL	PROREL	n=s	18	suj	18	suj
+18	voyagent	voyager	V	V	n=p|t=P,S|p=3	11	mod_rel	11	mod_rel
+19	entre	entre	P	P		18	mod	18	mod
+20	l'	le	DET	DET	n=s	21	det	21	det
+21	Asie	Asie	NPP	NPP	n=s|g=f	19	prep	19	prep
+22	et	et	CC	CC		11	coord	11	coord
+23	l'	le	DET	DET	n=s	24	det	24	det
+24	Europe	Europe	NPP	NPP	n=s|g=f	22	dep_coord	22	dep_coord
+25	,	,	PONCT	PONCT		24	ponct	24	ponct
+26	mais	mais	CC	CC		11	coord	11	coord
+27	bientôt	bientôt	ADV	ADV		31	mod	31	mod
+28	,	,	PONCT	PONCT		27	ponct	27	ponct
+29	elle	elle	CLS	CLS	n=s|g=f|p=3	31	suj	31	suj
+30	sera	être	V	V	n=s|t=F|p=3	31	aux_pass	31	aux_pass
+31	exploitée	exploiter	VPP	VPP	n=s|g=f|t=K	26	dep_coord	26	dep_coord
+32	pour	pour	P	P		31	mod	31	mod
+33	ses	ses	DET	DET	n=p|p=3|poss=s	34	det	34	det
+34	ressources	ressource	NC	NC	n=p|g=f	32	prep	32	prep
+35	agricoles	agricole	ADJ	ADJ	n=p	34	mod	34	mod
+36	:	:	PONCT	PONCT		35	ponct	35	ponct
+37	d'	de	P	P		31	mod	31	mod
+38	abord	abord	NC	NC	n=s|g=m	37	prep	37	prep
+39	pour	pour	P	P		31	mod	31	mod
+40	les	les	DET	DET	n=p	41	det	41	det
+41	plantations	plantation	NC	NC	n=p|g=f	39	prep	39	prep
+42	de	de	P	P		31	mod	31	mod
+43	café	café	NC	NC	n=s|g=m	42	prep	42	prep
+44	,	,	PONCT	PONCT		43	ponct	43	ponct
+45	puis	puis	CC	CC		31	coord	31	coord
+46	de	de	P	P		45	dep_coord	45	dep_coord
+47	canne	canne	NC	NC	n=s|g=f	46	prep	46	prep
+48	à	à	P	P		31	mod	31	mod
+49	sucre	sucre	NC	NC	n=s|g=m	48	prep	48	prep
+50	:	:	PONCT	PONCT		49	ponct	49	ponct
+51	l'	le	DET	DET	n=s	52	det	52	det
+52	agriculture	agriculture	NC	NC	n=s|g=f	54	suj	54	suj
+53	locale	local	ADJ	ADJ	n=s|g=f	52	mod	52	mod
+54	a	avoir	V	V	n=s|t=P|p=3	9	sub	9	sub
+55	besoin	besoin	NC	NC	n=s|g=m	54	obj	54	obj
+56	de	de	P	P		54	mod	54	mod
+57	plus	plus	ADV	ADV		56	prep	56	prep
+58	en	en	P	P		54	mod	54	mod
+59	plus	plus	ADV	ADV		61	mod	61	mod
+60	d'	de	DET	DET	n=p	61	det	61	det
+61	esclaves	esclave	NC	NC	n=p	58	prep	58	prep
+62	achetés	acheter	VPP	VPP	n=p|g=m|t=K	61	mod	61	mod
+63	en	en	P	P		62	mod	62	mod
+64	Afrique	Afrique	NPP	NPP	n=s|g=f	63	prep	63	prep
+65	.	.	PONCT	PONCT		64	ponct	64	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	colons	colon	NC	NC	n=p|g=m	4	suj	4	suj
+3	s'	se	CLR	CLR	n=p,s|p=3	4	aff	4	aff
+4	installent	installer	V	V	n=p|t=P,S|p=3	0	root	0	root
+5	sur	sur	P	P		4	mod	4	mod
+6	les	les	DET	DET	n=p	7	det	7	det
+7	côtes	côte	NC	NC	n=p|g=f	5	prep	5	prep
+8	de	de	P	P		4	mod	4	mod
+9	l'	le	DET	DET	n=s	10	det	10	det
+10	île	île	NC	NC	n=s|g=f	8	prep	8	prep
+11	(	(	PONCT	PONCT		10	ponct	10	ponct
+12	les	les	DET	DET	n=p	13	det	13	det
+13	bas	bas	ADJ	ADJ	g=m	4	mod	4	mod
+14	)	)	PONCT	PONCT		13	ponct	13	ponct
+15	,	,	PONCT	PONCT		13	ponct	13	ponct
+16	les	les	DET	DET	n=p	17	det	17	det
+17	plantations	plantation	NC	NC	n=p|g=f	4	mod	4	mod
+18	sur	sur	P	P		17	dep	17	dep
+19	les	les	DET	DET	n=p	20	det	20	det
+20	flancs	flanc	NC	NC	n=p|g=m	18	prep	18	prep
+21	(	(	PONCT	PONCT		20	ponct	20	ponct
+22	les	les	DET	DET	n=p	23	det	23	det
+23	hauts	haut	ADJ	ADJ	n=p|g=m	4	mod	4	mod
+24	)	)	PONCT	PONCT		23	ponct	23	ponct
+25	du	de	P+D	P+D	n=s|g=m	4	mod	4	mod
+26	massif	massif	ADJ	ADJ	n=s|g=m	25	prep	25	prep
+27	du	de	P+D	P+D	n=s|g=m	4	mod	4	mod
+28	piton	piton	NC	NC	n=s|g=m	27	prep	27	prep
+29	des	de	P+D	P+D	n=p	28	dep	28	dep
+30	Neiges	_	NPP	NPP		29	prep	29	prep
+31	.	.	PONCT	PONCT		30	ponct	30	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	esclaves	esclave	NC	NC	n=p	5	suj	5	suj
+3	en	en	P	P		2	dep	2	dep
+4	fuite	fuite	NC	NC	n=s|g=f	3	prep	3	prep
+5	vont	aller	V	V	n=p|t=P|p=3	0	root	0	root
+6	peu	peu	ADV	ADV		5	mod	5	mod
+7	à	à	P	P		5	mod	5	mod
+8	peu	peu	ADV	ADV		9	mod	9	mod
+9	former	former	VINF	VINF	t=W	7	prep	7	prep
+10	des	des	DET	DET	n=p	11	det	11	det
+11	villages	village	NC	NC	n=p|g=m	9	obj	9	obj
+12	(	(	PONCT	PONCT		11	ponct	11	ponct
+13	nommés	nommer	VPP	VPP	n=p|g=m|t=K	11	mod	11	mod
+14	îlets	îlet	NC	NC	n=p|g=m	13	mod	13	mod
+15	)	)	PONCT	PONCT		14	ponct	14	ponct
+16	dans	dans	P	P		13	mod	13	mod
+17	les	les	DET	DET	n=p	18	det	18	det
+18	cirques	cirque	NC	NC	n=p|g=m	16	prep	16	prep
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	difficiles	difficile	ADJ	ADJ	n=p	18	mod	18	mod
+21	d'	de	P	P		18	dep	18	dep
+22	accès	accès	NC	NC	g=m	21	prep	21	prep
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+</p><p>
+1	Après	après	P	P		17	mod	17	mod
+2	l'	le	DET	DET	n=s	3	det	3	det
+3	abolition	abolition	NC	NC	n=s|g=f	1	prep	1	prep
+4	de	de	P	P		3	dep	3	dep
+5	l'	le	DET	DET	n=s	6	det	6	det
+6	esclavage	esclavage	NC	NC	n=s|g=m	4	prep	4	prep
+7	(	(	PONCT	PONCT		6	ponct	6	ponct
+8	20	20	ADJ	ADJ		9	mod	9	mod
+9	décembre	décembre	NC	NC	n=s|g=m	17	mod	17	mod
+10	1848	1848	NC	NC		9	mod	9	mod
+11	)	)	PONCT	PONCT		10	ponct	10	ponct
+12	,	,	PONCT	PONCT		10	ponct	10	ponct
+13	les	les	DET	DET	n=p	14	det	14	det
+14	planteurs	planteur	NC	NC	n=p|g=m	17	suj	17	suj
+15	de	de	P	P		14	dep	14	dep
+16	canne	canne	NC	NC	n=s|g=f	15	prep	15	prep
+17	recrutent	recruter	V	V	n=p|t=P,S|p=3	0	root	0	root
+18	des	des	DET	DET	n=p	19	det	19	det
+19	travailleurs	travailleur	NC	NC	n=p|g=m	17	obj	17	obj
+20	venus	venir	VPP	VPP	n=p|g=m|t=K	19	mod	19	mod
+21	d'	de	P	P		20	mod	20	mod
+22	Inde	Inde	NPP	NPP	n=s|g=f	21	prep	21	prep
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	puis	puis	CC	CC		17	coord	17	coord
+25	de	de	P	P		24	dep_coord	24	dep_coord
+26	Chine	Chine	NPP	NPP	n=s|g=f	25	prep	25	prep
+27	.	.	PONCT	PONCT		26	ponct	26	ponct
+
+1	Tous	tout	ADJ	ADJ	n=p|g=m	3	mod	3	mod
+2	ces	ces	DET	DET	n=p	3	det	3	det
+3	gens	gens	NC	NC	n=p|g=m	5	suj	5	suj
+4	ont	avoir	V	V	n=p|t=P|p=3	5	aux_tps	5	aux_tps
+5	fait	faire	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+6	souche	souche	NC	NC	n=s|g=f	5	obj	5	obj
+7	dans	dans	P	P		5	mod	5	mod
+8	l'	le	DET	DET	n=s	9	det	9	det
+9	île	île	NC	NC	n=s|g=f	7	prep	7	prep
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	et	et	CC	CC		5	coord	5	coord
+12	la	la	DET	DET	n=s|g=f	13	det	13	det
+13	Réunion	Réunion	NPP	NPP	n=s|g=f	14	suj	14	suj
+14	est	être	V	V	n=s|t=P|p=3	11	dep_coord	11	dep_coord
+15	un	un	DET	DET	n=s|g=m	16	det	16	det
+16	endroit	endroit	NC	NC	n=s|g=m	14	obj	14	obj
+17	où	où	PROREL	PROREL		22	mod	22	mod
+18	la	la	DET	DET	n=s|g=f	19	det	19	det
+19	population	population	NC	NC	n=s|g=f	22	suj	22	suj
+20	est	être	V	V	n=s|t=P|p=3	22	aux_pass	22	aux_pass
+21	très	très	ADV	ADV		22	mod	22	mod
+22	métissée	métisser	VPP	VPP	n=s|g=f|t=K	16	mod_rel	16	mod_rel
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	créole	créole	NC	NC	n=s	6	suj	6	suj
+3	réunionnais	réunionnais	ADJ	ADJ	g=m	2	mod	2	mod
+4	est	être	V	V	n=s|t=P|p=3	6	aux_tps	6	aux_tps
+5	couramment	_	ADV	ADV		6	mod	6	mod
+6	parlé	parler	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	même	même	ADV	ADV		6	mod	6	mod
+9	si	si	CS	CS		6	mod	6	mod
+10	la	la	DET	DET	n=s|g=f	11	det	11	det
+11	langue	langue	NC	NC	n=s|g=f	13	suj	13	suj
+12	officielle	officiel	ADJ	ADJ	n=s|g=f	11	mod	11	mod
+13	est	être	V	V	n=s|t=P|p=3	9	sub	9	sub
+14	le	le	DET	DET	n=s|g=m	15	det	15	det
+15	français	français	NC	NC	g=m	13	obj	13	obj
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+</p><p>
+1	Aujourd'hui	aujourd'hui	ADV	ADV		5	mod	5	mod
+2	les	les	DET	DET	n=p	3	det	3	det
+3	Réunionnais	_	NPP	NPP		5	suj	5	suj
+4	se	se	CLR	CLR	n=p,s|p=3	5	aff	5	aff
+5	partagent	partager	V	V	n=p|t=P,S|p=3	0	root	0	root
+6	entre	entre	P	P		5	mod	5	mod
+7	:	:	PONCT	PONCT		6	ponct	6	ponct
+
+</p><p>
+1	Les	les	DET	DET	n=p	3	det	3	det
+2	blancs	blanc	ADJ	ADJ	n=p|g=m	3	mod	3	mod
+3	créoles	créole	NC	NC	n=p	0	_	0	_
+4	descendants	descendant	ADJ	ADJ	n=p|g=m	3	mod	3	mod
+5	des	de	P+D	P+D	n=p	3	dep	3	dep
+6	colons	colon	NC	NC	n=p|g=m	5	prep	5	prep
+7	d'	de	P	P		6	dep	6	dep
+8	origine	origine	NC	NC	n=s|g=f	7	prep	7	prep
+9	européenne	européen	ADJ	ADJ	n=s|g=f	8	mod	8	mod
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+1	Ils	ils	CLS	CLS	n=p|g=m|p=3	2	suj	2	suj
+2	forment	former	V	V	n=p|t=P,S|p=3	0	root	0	root
+3	environ	environ	ADV	ADV		2	mod	2	mod
+4	25	25	ADJ	ADJ		5	mod	5	mod
+5	%	%	NC	NC	g=m	2	obj	2	obj
+6	de	de	P	P		2	mod	2	mod
+7	la	la	DET	DET	n=s|g=f	8	det	8	det
+8	population	population	NC	NC	n=s|g=f	6	prep	6	prep
+9	.	.	PONCT	PONCT		8	ponct	8	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	métropolitains	métropolitain	NC	NC	n=p|g=m	11	suj	11	suj
+3	arrivés	arriver	VPP	VPP	n=p|g=m|t=K	2	mod	2	mod
+4	récemment	_	ADV	ADV		3	mod	3	mod
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	surnommés	surnommer	VPP	VPP	n=p|g=m|t=K	2	mod	2	mod
+7	les	les	DET	DET	n=p	8	det	8	det
+8	Zoreils	_	NC	NC		6	mod	6	mod
+9	sont	être	V	V	n=p|t=P|p=3	11	aux_tps	11	aux_tps
+10	environ	environ	ADV	ADV		11	mod	11	mod
+11	5	5	VPP	VPP		0	root	0	root
+12	%	%	NC	NC	g=m	11	mod	11	mod
+13	de	de	P	P		11	mod	11	mod
+14	la	la	DET	DET	n=s|g=f	15	det	15	det
+15	population	population	NC	NC	n=s|g=f	13	prep	13	prep
+16	;	;	PONCT	PONCT		15	ponct	15	ponct
+
+</p><p>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	descendants	descendant	NC	NC	n=p|g=m	0	_	0	_
+3	des	de	P+D	P+D	n=p	2	dep	2	dep
+4	esclaves	esclave	NC	NC	n=p	3	prep	3	prep
+5	africains	africain	ADJ	ADJ	n=p|g=m	4	mod	4	mod
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	appelés	appeler	VPP	VPP	n=p|g=m|t=K	4	mod	4	mod
+8	Cafres	_	NPP	NPP		7	mod	7	mod
+9	.	.	PONCT	PONCT		8	ponct	8	ponct
+
+1	Ils	ils	CLS	CLS	n=p|g=m|p=3	2	suj	2	suj
+2	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+3	plus	plus	ADV	ADV		2	mod	2	mod
+4	ou	ou	CC	CC		2	coord	2	coord
+5	moins	moins	ADV	ADV		6	mod	6	mod
+6	métissés	métisser	VPP	VPP	n=p|g=m|t=K	4	dep_coord	4	dep_coord
+7	avec	avec	P	P		6	mod	6	mod
+8	les	les	DET	DET	n=p	9	det	9	det
+9	blancs	blanc	ADJ	ADJ	n=p|g=m	7	prep	7	prep
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+1	Ils	ils	CLS	CLS	n=p|g=m|p=3	2	suj	2	suj
+2	représentent	représenter	V	V	n=p|t=P,S|p=3	0	root	0	root
+3	35	35	VPP	VPP		0	_	0	_
+4	%	%	NC	NC	g=m	3	mod	3	mod
+5	de	de	P	P		3	mod	3	mod
+6	la	la	DET	DET	n=s|g=f	7	det	7	det
+7	population	population	NC	NC	n=s|g=f	5	prep	5	prep
+8	;	;	PONCT	PONCT		7	ponct	7	ponct
+
+</p><p>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	descendants	descendant	NC	NC	n=p|g=m	0	_	0	_
+3	des	de	P+D	P+D	n=p	2	dep	2	dep
+4	Indiens	indien	NC	NC	n=p|g=f	3	prep	3	prep
+5	engagés	engager	VPP	VPP	n=p|g=m|t=K	2	mod	2	mod
+6	au	à	P+D	P+D	n=s|g=m	5	mod	5	mod
+7	XIX	_	ADJ	ADJ		8	mod	8	mod
+8	siècle	siècle	NC	NC	n=s|g=m	6	prep	6	prep
+9	après	après	P	P		5	mod	5	mod
+10	l'	le	DET	DET	n=s	11	det	11	det
+11	abolition	abolition	NC	NC	n=s|g=f	9	prep	9	prep
+12	de	de	P	P		11	dep	11	dep
+13	l'	le	DET	DET	n=s	14	det	14	det
+14	esclavage	esclavage	NC	NC	n=s|g=m	12	prep	12	prep
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+1	On	on	CLS	CLS	n=s|p=3	3	suj	3	suj
+2	les	les	CLO	CLO	n=p|p=3	3	obj	3	obj
+3	appelle	appeler	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	les	les	DET	DET	n=p	5	det	5	det
+5	Malbars	_	NPP	NPP		3	obj	3	obj
+6	.	.	PONCT	PONCT		5	ponct	5	ponct
+
+1	Ils	ils	CLS	CLS	n=p|g=m|p=3	2	suj	2	suj
+2	forment	former	V	V	n=p|t=P,S|p=3	0	root	0	root
+3	environ	environ	ADV	ADV		2	mod	2	mod
+4	25	25	ADJ	ADJ		5	mod	5	mod
+5	%	%	NC	NC	g=m	2	obj	2	obj
+6	de	de	P	P		2	mod	2	mod
+7	la	la	DET	DET	n=s|g=f	8	det	8	det
+8	population	population	NC	NC	n=s|g=f	6	prep	6	prep
+9	.	.	PONCT	PONCT		8	ponct	8	ponct
+
+1	S'	se	CLR	CLR	n=p,s|p=3	3	aff	3	aff
+2	y	y	CLO	CLO		3	aff	3	aff
+3	joignent	joindre	V	V	n=p|t=P,S|p=3	0	root	0	root
+4	des	des	DET	DET	n=p	5	det	5	det
+5	indo	_	NC	NC		3	suj	3	suj
+6	-	-	PONCT	PONCT		5	ponct	5	ponct
+7	musulmans	musulman	NC	NC	n=p|g=m	5	mod	5	mod
+8	du	de	P+D	P+D	n=s|g=m	7	dep	7	dep
+9	Gujerat	_	NPP	NPP		8	prep	8	prep
+10	(	(	PONCT	PONCT		9	ponct	9	ponct
+11	environ	environ	ADV	ADV		12	mod	12	mod
+12	3	3	ADJ	ADJ		5	mod	5	mod
+13	%	%	NC	NC	g=m	5	mod	5	mod
+14	)	)	PONCT	PONCT		13	ponct	13	ponct
+15	surnommés	surnommer	VPP	VPP	n=p|g=m|t=K	13	mod	13	mod
+16	les	les	DET	DET	n=p	17	det	17	det
+17	Zarabs	_	NPP	NPP		15	suj	15	suj
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+</p><h2>
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	esclavage	esclavage	NC	NC	n=s|g=m	0	_	0	_
+3	à	à	P	P		2	dep	2	dep
+4	La	_	NPP	NPP		3	prep	3	prep
+5	Réunion	Réunion	NPP	NPP	n=s|g=f	4	mod	4	mod
+
+</h2><p>
+1	Les	les	DET	DET	n=p	3	det	3	det
+2	premiers	premier	ADJ	ADJ	n=p|g=m	3	mod	3	mod
+3	habitants	habitant	NC	NC	n=p|g=m	7	suj	7	suj
+4	de	de	P	P		3	dep	3	dep
+5	La	la	NC	NC	g=m	4	prep	4	prep
+6	Réunion	Réunion	NPP	NPP	n=s|g=f	5	mod	5	mod
+7	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+8	des	des	DET	DET	n=p	9	det	9	det
+9	Européens	européen	NC	NC	n=p|g=m	7	obj	7	obj
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+1	Rapidement	_	ADV	ADV		5	mod	5	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	ces	ces	DET	DET	n=p	4	det	4	det
+4	colons	colon	NC	NC	n=p|g=m	5	suj	5	suj
+5	importent	importer	V	V	n=p|t=P,S|p=3	0	root	0	root
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	grâce	grâce	NC	NC	n=s|g=f	5	obj	5	obj
+8	à	à	P	P		5	mod	5	mod
+9	la	la	DET	DET	n=s|g=f	10	det	10	det
+10	traite	traite	NC	NC	n=s|g=f	8	prep	8	prep
+11	des	de	P+D	P+D	n=p	5	mod	5	mod
+12	noirs	noir	ADJ	ADJ	n=p|g=m	11	prep	11	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	des	des	DET	DET	n=p	15	det	15	det
+15	esclaves	esclave	NC	NC	n=p	0	_	0	_
+16	provenant	provenir	VPR	VPR	t=G	15	mod	15	mod
+17	d'	de	P	P		16	mod	16	mod
+18	Afrique	Afrique	NPP	NPP	n=s|g=f	17	prep	17	prep
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	En	en	P	P		5	mod	5	mod
+2	1665	1665	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	on	on	CLS	CLS	n=s|p=3	5	suj	5	suj
+5	a	avoir	V	V	n=s|t=P|p=3	0	root	0	root
+6	la	la	DET	DET	n=s|g=f	7	det	7	det
+7	trace	trace	NC	NC	n=s|g=f	5	obj	5	obj
+8	d'	de	P	P		5	mod	5	mod
+9	une	une	DET	DET	n=s|g=f	10	det	10	det
+10	vente	vente	NC	NC	n=s|g=f	8	prep	8	prep
+11	d'	de	P	P		5	mod	5	mod
+12	esclaves	esclave	NC	NC	n=p	11	prep	11	prep
+13	.	.	PONCT	PONCT		12	ponct	12	ponct
+
+1	En	en	P	P		0	_	0	_
+2	1679	1679	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	il	il	CLS	CLS	n=s|g=m|p=3	0	_	0	_
+5	y	y	CLO	CLO		0	_	0	_
+6	a	avoir	V	V	n=s|t=P|p=3	0	_	0	_
+7	750	750	ADJ	ADJ		8	mod	8	mod
+8	habitants	habitant	NC	NC	n=p|g=m	6	obj	6	obj
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	dont	dont	PROREL	PROREL		15	suj	15	suj
+11	près	près	ADV	ADV		15	mod	15	mod
+12	de	de	P	P		15	mod	15	mod
+13	la	la	DET	DET	n=s|g=f	14	det	14	det
+14	moitié	moitié	NC	NC	n=s|g=f	12	prep	12	prep
+15	sont	être	V	V	n=p|t=P|p=3	8	mod_rel	8	mod_rel
+16	des	des	DET	DET	n=p	17	det	17	det
+17	esclaves	esclave	NC	NC	n=p	15	obj	15	obj
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+</p><p>
+1	Ces	ces	DET	DET	n=p	2	det	2	det
+2	esclaves	esclave	NC	NC	n=p	3	suj	3	suj
+3	travaillent	travailler	V	V	n=p|t=P,S|p=3	0	root	0	root
+4	dans	dans	P	P		3	mod	3	mod
+5	les	les	DET	DET	n=p	6	det	6	det
+6	plantations	plantation	NC	NC	n=p|g=f	4	prep	4	prep
+7	de	de	P	P		6	dep	6	dep
+8	café	café	NC	NC	n=s|g=m	7	prep	7	prep
+9	qui	qui	PROREL	PROREL	n=s	10	suj	10	suj
+10	connaissent	connaître	V	V	n=p|t=P,S|p=3	6	mod_rel	6	mod_rel
+11	un	un	DET	DET	n=s|g=m	13	det	13	det
+12	grand	grand	ADJ	ADJ	n=s|g=m	13	mod	13	mod
+13	essor	essor	NC	NC	n=s|g=m	10	obj	10	obj
+14	au	à	P+D	P+D	n=s|g=m	10	mod	10	mod
+15	XVIII	_	ADJ	ADJ		16	mod	16	mod
+16	siècle	siècle	NC	NC	n=s|g=m	14	prep	14	prep
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+1	En	en	P	P		7	mod	7	mod
+2	1735	1735	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	les	les	DET	DET	n=p	5	det	5	det
+5	esclaves	esclave	NC	NC	n=p	7	suj	7	suj
+6	sont	être	V	V	n=p|t=P|p=3	7	aux_tps	7	aux_tps
+7	7_500	7_500	VPP	VPP		0	root	0	root
+8	pour	pour	P	P		7	mod	7	mod
+9	une	une	DET	DET	n=s|g=f	10	det	10	det
+10	population	population	NC	NC	n=s|g=f	8	prep	8	prep
+11	de	de	P	P		7	mod	7	mod
+12	colons	colon	NC	NC	n=p|g=m	11	prep	11	prep
+13	de	de	P	P		7	mod	7	mod
+14	1_700	1_700	NC	NC		13	prep	13	prep
+15	personnes	personne	NC	NC	n=p|g=f	14	mod	14	mod
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+1	En	en	P	P		0	_	0	_
+2	1794	1794	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	lorsque	lorsque	CS	CS		0	_	0	_
+5	la	la	DET	DET	n=s|g=f	6	det	6	det
+6	Convention	convention	NC	NC	n=s|g=f	8	suj	8	suj
+7	nationale	national	ADJ	ADJ	n=s|g=f	6	mod	6	mod
+8	abolit	abolir	V	V	n=s|t=J,P|p=3	4	sub	4	sub
+9	l'	le	DET	DET	n=s	10	det	10	det
+10	esclavage	esclavage	NC	NC	n=s|g=m	8	obj	8	obj
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	il	il	CLS	CLS	n=s|g=m|p=3	0	_	0	_
+13	y	y	CLO	CLO		0	_	0	_
+14	a	avoir	V	V	n=s|t=P|p=3	0	_	0	_
+15	35_000	35_000	ADJ	ADJ		16	mod	16	mod
+16	esclaves	esclave	NC	NC	n=p	14	obj	14	obj
+17	et	et	CC	CC		16	coord	16	coord
+18	1_000	1_000	ADJ	ADJ		19	mod	19	mod
+19	personnes	personne	NC	NC	n=p|g=f	17	dep_coord	17	dep_coord
+20	libres	libre	ADJ	ADJ	n=p	19	mod	19	mod
+21	.	.	PONCT	PONCT		20	ponct	20	ponct
+
+1	Mais	mais	CC	CC		0	root	0	root
+2	Napoléon	_	NPP	NPP		4	suj	4	suj
+3	Bonaparte	_	NPP	NPP		2	mod	2	mod
+4	rétablit	rétablir	V	V	n=s|t=J,P|p=3	1	dep_coord	1	dep_coord
+5	l'	le	DET	DET	n=s	6	det	6	det
+6	esclavage	esclavage	NC	NC	n=s|g=m	4	obj	4	obj
+7	.	.	PONCT	PONCT		6	ponct	6	ponct
+
+</p><p>
+1	En	en	P	P		7	mod	7	mod
+2	1809	1809	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	les	les	DET	DET	n=p	5	det	5	det
+5	Britanniques	britannique	NC	NC	n=p	7	suj	7	suj
+6	s'	se	CLR	CLR	n=p,s|p=3	7	aff	7	aff
+7	emparent	emparer	V	V	n=p|t=P,S|p=3	0	root	0	root
+8	de	de	P	P		7	mod	7	mod
+9	l'	le	DET	DET	n=s	10	det	10	det
+10	île	île	NC	NC	n=s|g=f	8	prep	8	prep
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+1	En	en	P	P		5	mod	5	mod
+2	1811	1811	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	ils	ils	CLS	CLS	n=p|g=m|p=3	5	suj	5	suj
+5	répriment	réprimer	V	V	n=p|t=P,S|p=3	0	root	0	root
+6	sévèrement	_	ADV	ADV		5	mod	5	mod
+7	une	une	DET	DET	n=s|g=f	8	det	8	det
+8	révolte	révolte	NC	NC	n=s|g=f	5	obj	5	obj
+9	d'	de	P	P		8	dep	8	dep
+10	esclaves	esclave	NC	NC	n=p	9	prep	9	prep
+11	dans	dans	P	P		5	mod	5	mod
+12	la	la	DET	DET	n=s|g=f	13	det	13	det
+13	région	région	NC	NC	n=s|g=f	11	prep	11	prep
+14	de	de	P	P		5	mod	5	mod
+15	Saint	_	NPP	NPP		14	prep	14	prep
+16	-	-	PONCT	PONCT		15	ponct	15	ponct
+17	Leu	leu	NC	NC	n=s|g=m	15	mod	15	mod
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	En	en	P	P		9	mod	9	mod
+2	1830	1830	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	traite	traite	NC	NC	n=s|g=f	9	suj	9	suj
+6	des	de	P+D	P+D	n=p	5	dep	5	dep
+7	esclaves	esclave	NC	NC	n=p	6	prep	6	prep
+8	est	être	V	V	n=s|t=P|p=3	9	aux_tps	9	aux_tps
+9	interdite	interdire	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+10	par	par	P	P		9	mod	9	mod
+11	le	le	DET	DET	n=s|g=m	12	det	12	det
+12	gouvernement	gouvernement	NC	NC	n=s|g=m	10	prep	10	prep
+13	du	de	P+D	P+D	n=s|g=m	9	mod	9	mod
+14	roi	roi	NC	NC	n=s|g=m	13	prep	13	prep
+15	Louis-Philippe	_	NPP	NPP		14	mod	14	mod
+16	Ier	_	NPP	NPP		14	mod	14	mod
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+1	Mais	mais	CC	CC		0	root	0	root
+2	il	il	CLS	CLS	n=s|g=m|p=3	3	suj	3	suj
+3	faut	falloir	V	V	n=s|t=P|p=3	1	dep_coord	1	dep_coord
+4	attendre	attendre	VINF	VINF	t=W	3	obj	3	obj
+5	1848	1848	NC	NC		4	obj	4	obj
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	et	et	CC	CC		3	coord	3	coord
+8	la	la	DET	DET	n=s|g=f	9	det	9	det
+9	proclamation	proclamation	NC	NC	n=s|g=f	0	_	0	_
+10	de	de	P	P		9	dep	9	dep
+11	la	la	DET	DET	n=s|g=f	13	det	13	det
+12	Deuxième	deuxième	ADJ	ADJ	n=s	13	mod	13	mod
+13	République	république	NC	NC	n=s|g=f	10	prep	10	prep
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	pour	pour	P	P		0	_	0	_
+16	que	que	CS	CS		15	prep	15	prep
+17	l'	le	DET	DET	n=s	18	det	18	det
+18	esclavage	esclavage	NC	NC	n=s|g=m	20	suj	20	suj
+19	soit	être	VS	VS	n=s|t=S|p=3	20	aux_pass	20	aux_pass
+20	aboli	abolir	VPP	VPP	n=s|g=m|t=K	16	sub	16	sub
+21	à	à	P	P		20	mod	20	mod
+22	La	la	NC	NC	g=m	21	prep	21	prep
+23	Réunion	Réunion	NPP	NPP	n=s|g=f	22	mod	22	mod
+24	(	(	PONCT	PONCT		23	ponct	23	ponct
+25	et	et	CC	CC		15	coord	15	coord
+26	dans	dans	P	P		25	dep_coord	25	dep_coord
+27	les	les	DET	DET	n=p	29	det	29	det
+28	autres	autre	ADJ	ADJ	n=p	29	mod	29	mod
+29	colonies	colonie	NC	NC	n=p|g=f	26	prep	26	prep
+30	françaises	français	ADJ	ADJ	n=p|g=f	29	mod	29	mod
+31	)	)	PONCT	PONCT		30	ponct	30	ponct
+32	.	.	PONCT	PONCT		30	ponct	30	ponct
+
+</p><h2>
+1	Agriculture	agriculture	NC	NC	n=s|g=f	0	_	0	_
+
+</h2><p>
+1	Encore	encore	ADV	ADV		2	mod	2	mod
+2	aujourd'hui	aujourd'hui	ADV	ADV		7	mod	7	mod
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	les	les	DET	DET	n=p	5	det	5	det
+5	hauts	haut	ADJ	ADJ	n=p|g=m	7	suj	7	suj
+6	sont	être	V	V	n=p|t=P|p=3	7	aux_pass	7	aux_pass
+7	utilisés	utiliser	VPP	VPP	n=p|g=m|t=K	0	root	0	root
+8	pour	pour	P	P		7	mod	7	mod
+9	la	la	DET	DET	n=s|g=f	10	det	10	det
+10	culture	culture	NC	NC	n=s|g=f	8	prep	8	prep
+11	de	de	P	P		7	mod	7	mod
+12	la	la	DET	DET	n=s|g=f	13	det	13	det
+13	canne	canne	NC	NC	n=s|g=f	11	prep	11	prep
+14	à	à	P	P		7	mod	7	mod
+15	sucre	sucre	NC	NC	n=s|g=m	14	prep	14	prep
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+1	Mais	mais	CC	CC		0	root	0	root
+2	dans	dans	P	P		7	mod	7	mod
+3	les	les	DET	DET	n=p	4	det	4	det
+4	cirques	cirque	NC	NC	n=p|g=m	2	prep	2	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	il	il	CLS	CLS	n=s|g=m|p=3	7	suj	7	suj
+7	existe	exister	V	V	n=s|t=P,S|p=1,3	1	dep_coord	1	dep_coord
+8	des	des	DET	DET	n=p	9	det	9	det
+9	cultures	culture	NC	NC	n=p|g=f	7	obj	7	obj
+10	locales	local	ADJ	ADJ	n=p|g=f	9	mod	9	mod
+11	bien	bien	ADV	ADV		12	mod	12	mod
+12	développées	développer	VPP	VPP	n=p|g=f|t=K	9	mod	9	mod
+13	:	:	PONCT	PONCT		12	ponct	12	ponct
+14	chouchou	chouchou	NC	NC	n=s|g=m	12	mod	12	mod
+15	(	(	PONCT	PONCT		14	ponct	14	ponct
+16	christophine	_	NPP	NPP		14	mod	14	mod
+17	ou	ou	CC	CC		14	coord	14	coord
+18	chayote	_	NC	NC		17	dep_coord	17	dep_coord
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	dans	dans	P	P		12	mod	12	mod
+21	le	le	DET	DET	n=s|g=m	22	det	22	det
+22	cirque	cirque	NC	NC	n=s|g=m	20	prep	20	prep
+23	de	de	P	P		12	mod	12	mod
+24	Salazie	_	NPP	NPP		23	prep	23	prep
+25	)	)	PONCT	PONCT		24	ponct	24	ponct
+26	,	,	PONCT	PONCT		24	ponct	24	ponct
+27	lentilles	lentille	NC	NC	n=p|g=f	12	mod	12	mod
+28	,	,	PONCT	PONCT		27	ponct	27	ponct
+29	vigne	vigne	NC	NC	n=s|g=f	12	mod	12	mod
+30	(	(	PONCT	PONCT		29	ponct	29	ponct
+31	cirque	cirque	NC	NC	n=s|g=m	12	mod	12	mod
+32	de	de	P	P		12	mod	12	mod
+33	Cilaos	_	NPP	NPP		32	prep	32	prep
+34	)	)	PONCT	PONCT		33	ponct	33	ponct
+35	par	par	P	P		12	mod	12	mod
+36	exemple	exemple	NC	NC	n=s|g=m	35	prep	35	prep
+37	.	.	PONCT	PONCT		36	ponct	36	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	canne	canne	NC	NC	n=s|g=f	5	suj	5	suj
+3	à	à	P	P		2	dep	2	dep
+4	sucre	sucre	NC	NC	n=s|g=m	3	prep	3	prep
+5	forme	former	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+6	l'	le	DET	DET	n=s	7	det	7	det
+7	essentiel	essentiel	NC	NC	n=s|g=m	5	obj	5	obj
+8	des	de	P+D	P+D	n=p	7	dep	7	dep
+9	exportations	exportation	NC	NC	n=p|g=f	8	prep	8	prep
+10	de	de	P	P		5	mod	5	mod
+11	l'	le	DET	DET	n=s	12	det	12	det
+12	île	île	NC	NC	n=s|g=f	10	prep	10	prep
+13	.	.	PONCT	PONCT		12	ponct	12	ponct
+
+</p><h2>
+1	Tourisme	tourisme	NC	NC	n=s|g=m	0	_	0	_
+
+</h2><p>
+1	Située	situer	VPP	VPP	n=s|g=f|t=K	8	mod	8	mod
+2	dans	dans	P	P		1	mod	1	mod
+3	les	les	DET	DET	n=p	4	det	4	det
+4	tropiques	tropique	NC	NC	n=p|g=m	2	prep	2	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	l'	le	DET	DET	n=s	7	det	7	det
+7	île	île	NC	NC	n=s|g=f	8	suj	8	suj
+8	possède	posséder	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+9	de	de	DET	DET	n=p	11	det	11	det
+10	grandes	grand	ADJ	ADJ	n=p|g=f	11	mod	11	mod
+11	plages	plage	NC	NC	n=p|g=f	8	obj	8	obj
+12	et	et	CC	CC		8	coord	8	coord
+13	des	de	P+D	P+D	n=p	12	dep_coord	12	dep_coord
+14	lagons	lagon	NC	NC	n=p|g=m	13	prep	13	prep
+15	de	de	P	P		14	dep	14	dep
+16	corail	corail	NC	NC	n=s|g=m	15	prep	15	prep
+17	sur	sur	P	P		8	mod	8	mod
+18	une	une	DET	DET	n=s|g=f	19	det	19	det
+19	partie	partie	NC	NC	n=s|g=f	17	prep	17	prep
+20	de	de	P	P		8	mod	8	mod
+21	son	son	DET	DET	n=s|g=m|p=3|poss=s	22	det	22	det
+22	pourtour	pourtour	NC	NC	n=s|g=m	20	prep	20	prep
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	qui	qui	PROREL	PROREL	n=s	25	suj	25	suj
+25	intéressent	intéresser	V	V	n=p|t=P,S|p=3	8	mod	8	mod
+26	les	les	DET	DET	n=p	27	det	27	det
+27	touristes	touriste	NC	NC	n=p	25	obj	25	obj
+28	.	.	PONCT	PONCT		27	ponct	27	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	existe	exister	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	un	un	DET	DET	n=s|g=m	5	det	5	det
+4	important	important	ADJ	ADJ	n=s|g=m	5	mod	5	mod
+5	réseau	réseau	NC	NC	n=s|g=m	2	obj	2	obj
+6	de	de	P	P		5	dep	5	dep
+7	chemins	chemin	NC	NC	n=p|g=m	6	prep	6	prep
+8	de	de	P	P		5	dep	5	dep
+9	randonnées	randonnée	NC	NC	n=p|g=f	8	prep	8	prep
+10	favorisé	favoriser	VPP	VPP	n=s|g=m|t=K	5	mod	5	mod
+11	par	par	P	P		10	mod	10	mod
+12	l'	le	DET	DET	n=s	13	det	13	det
+13	histoire	histoire	NC	NC	n=s|g=f	11	prep	11	prep
+14	de	de	P	P		13	dep	13	dep
+15	l'	le	DET	DET	n=s	16	det	16	det
+16	île	île	NC	NC	n=s|g=f	14	prep	14	prep
+17	et	et	CC	CC		5	coord	5	coord
+18	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	19	det	19	det
+19	géographie	géographie	NC	NC	n=s|g=f	17	dep_coord	17	dep_coord
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+1	Certains	certain	PRO	PRO	n=p|g=m	2	suj	2	suj
+2	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+3	sur	sur	P	P		2	mod	2	mod
+4	les	les	DET	DET	n=p	5	det	5	det
+5	côtes	côte	NC	NC	n=p|g=f	3	prep	3	prep
+6	et	et	CC	CC		2	coord	2	coord
+7	d'	de	DET	DET	n=p	8	det	8	det
+8	autres	autres	PRO	PRO	n=p|g=f,m	6	dep_coord	6	dep_coord
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	dirigés	diriger	VPP	VPP	n=p|g=m|t=K	8	mod	8	mod
+11	vers	vers	P	P		10	mod	10	mod
+12	les	les	DET	DET	n=p	13	det	13	det
+13	pitons	piton	NC	NC	n=p|g=m	11	prep	11	prep
+14	et	et	CC	CC		2	coord	2	coord
+15	l'	le	DET	DET	n=s	16	det	16	det
+16	intérieur	intérieur	NC	NC	n=s|g=m	14	dep_coord	14	dep_coord
+17	des	de	P+D	P+D	n=p	16	dep	16	dep
+18	cirques	cirque	NC	NC	n=p|g=m	17	prep	17	prep
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	permettent	permettre	V	V	n=p|t=P,S|p=3	2	mod	2	mod
+21	d'	de	P	P		20	obj	20	obj
+22	y	y	CLO	CLO		23	a_obj	23	a_obj
+23	pratiquer	pratiquer	VINF	VINF	t=W	21	prep	21	prep
+24	la	la	DET	DET	n=s|g=f	25	det	25	det
+25	randonnée	randonnée	NC	NC	n=s|g=f	23	obj	23	obj
+26	en	en	P	P		23	mod	23	mod
+27	montagne	montagne	NC	NC	n=s|g=f	26	prep	26	prep
+28	.	.	PONCT	PONCT		27	ponct	27	ponct
+
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	activité	activité	NC	NC	n=s|g=f	4	suj	4	suj
+3	volcanique	volcanique	ADJ	ADJ	n=s	2	mod	2	mod
+4	attire	attirer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+5	également	_	ADV	ADV		4	mod	4	mod
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	car	car	CS	CS		4	mod	4	mod
+8	elle	elle	CLS	CLS	n=s|g=f|p=3	9	suj	9	suj
+9	offre	offrir	V	V	n=s|t=P,S|p=1,3	7	sub	7	sub
+10	un	un	DET	DET	n=s|g=m	11	det	11	det
+11	spectacle	spectacle	NC	NC	n=s|g=m	9	obj	9	obj
+12	inoffensif	inoffensif	ADJ	ADJ	n=s|g=m	11	mod	11	mod
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	les	les	DET	DET	n=p	15	det	15	det
+15	éruptions	éruption	NC	NC	n=p|g=f	9	mod	9	mod
+16	du	de	P+D	P+D	n=s|g=m	15	dep	15	dep
+17	Piton	piton	NC	NC	n=s|g=m	16	prep	16	prep
+18	de	de	P	P		17	dep	17	dep
+19	la	la	DET	DET	n=s|g=f	20	det	20	det
+20	Fournaise	_	NPP	NPP		18	prep	18	prep
+21	étant	être	VPR	VPR	t=G	17	mod	17	mod
+22	de	de	P	P		21	mod	21	mod
+23	type	type	NC	NC	n=s|g=m	22	prep	22	prep
+24	effusif	_	NPP	NPP		23	mod	23	mod
+25	.	.	PONCT	PONCT		24	ponct	24	ponct
+
+</p><h2>
+1	Culture	culture	NC	NC	n=s|g=f	0	_	0	_
+
+</h2><h3>
+1	Musique	musique	NC	NC	n=s|g=f	0	_	0	_
+
+</h3><p>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	musique	musique	NC	NC	n=s|g=f	3	suj	3	suj
+3	occupe	occuper	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	une	une	DET	DET	n=s|g=f	5	det	5	det
+5	place	place	NC	NC	n=s|g=f	3	obj	3	obj
+6	majeure	majeur	ADJ	ADJ	n=s|g=f	5	mod	5	mod
+7	dans	dans	P	P		3	mod	3	mod
+8	la	la	DET	DET	n=s|g=f	9	det	9	det
+9	vie	vie	NC	NC	n=s|g=f	7	prep	7	prep
+10	de	de	P	P		3	mod	3	mod
+11	la	la	DET	DET	n=s|g=f	12	det	12	det
+12	population	population	NC	NC	n=s|g=f	10	prep	10	prep
+13	réunionnaise	réunionnais	ADJ	ADJ	n=s|g=f	12	mod	12	mod
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+1	les	les	DET	DET	n=p	3	det	3	det
+2	deux	deux	ADJ	ADJ	s=card|n=p	3	mod	3	mod
+3	styles	style	NC	NC	n=p|g=m	8	suj	8	suj
+4	emblématiques	emblématique	ADJ	ADJ	n=p	3	mod	3	mod
+5	de	de	P	P		3	dep	3	dep
+6	l’	le	DET	DET	n=s	7	det	7	det
+7	île	île	NC	NC	n=s|g=f	5	prep	5	prep
+8	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+9	le	le	DET	DET	n=s|g=m	10	det	10	det
+10	maloya	_	NC	NC		8	obj	8	obj
+11	et	et	CC	CC		8	coord	8	coord
+12	le	le	DET	DET	n=s|g=m	13	det	13	det
+13	séga	_	NPP	NPP		0	_	0	_
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	maloya	_	NC	NC		3	suj	3	suj
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	une	une	DET	DET	n=s|g=f	5	det	5	det
+5	musique	musique	NC	NC	n=s|g=f	3	obj	3	obj
+6	qui	qui	PROREL	PROREL	n=s	8	suj	8	suj
+7	se	se	CLR	CLR	n=p,s|p=3	8	aff	8	aff
+8	caractérise	caractériser	V	V	n=s|t=P,S|p=1,3	5	mod_rel	5	mod_rel
+9	par	par	P	P		8	mod	8	mod
+10	le	le	DET	DET	n=s|g=m	11	det	11	det
+11	blues	blues	NC	NC	g=m	9	prep	9	prep
+12	ternaire	ternaire	ADJ	ADJ	n=s	11	mod	11	mod
+13	et	et	CC	CC		3	coord	3	coord
+14	il	il	CLS	CLS	n=s|g=m|p=3	17	suj	17	suj
+15	a	avoir	V	V	n=s|t=P|p=3	17	aux_tps	17	aux_tps
+16	été	être	VPP	VPP	t=K	17	aux_pass	17	aux_pass
+17	créé	créer	VPP	VPP	n=s|g=m|t=K	13	dep_coord	13	dep_coord
+18	clandestinement	_	ADV	ADV		17	mod	17	mod
+19	par	par	P	P		17	mod	17	mod
+20	les	les	DET	DET	n=p	21	det	21	det
+21	esclaves	esclave	NC	NC	n=p	19	prep	19	prep
+22	africains	africain	ADJ	ADJ	n=p|g=m	21	mod	21	mod
+23	et	et	CC	CC		21	coord	21	coord
+24	malgaches	malgache	NC	NC	n=p	23	dep_coord	23	dep_coord
+25	pour	pour	P	P		17	mod	17	mod
+26	transcender	transcender	VINF	VINF	t=W	25	prep	25	prep
+27	leurs	leurs	DET	DET	n=p|p=3|poss=p	28	det	28	det
+28	souffrances	souffrance	NC	NC	n=p|g=f	26	obj	26	obj
+29	et	et	CC	CC		28	coord	28	coord
+30	leurs	leurs	DET	DET	n=p|p=3|poss=p	31	det	31	det
+31	douleurs	douleur	NC	NC	n=p|g=f	29	dep_coord	29	dep_coord
+32	.	.	PONCT	PONCT		31	ponct	31	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	séga	_	NPP	NPP		0	_	0	_
+3	se	se	CLR	CLR	n=p,s|p=3	0	_	0	_
+4	danse	danse	NC	NC	n=s|g=f	0	_	0	_
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	lui	lui	PRO	PRO	n=s|g=m|p=3	0	_	0	_
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	en	en	P	P		0	_	0	_
+9	dandinant	dandiner	VPR	VPR	t=G	8	prep	8	prep
+10	les	les	DET	DET	n=p	11	det	11	det
+11	hanches	hanche	NC	NC	n=p|g=f	9	obj	9	obj
+12	et	et	CC	CC		8	coord	8	coord
+13	en	en	P	P		12	dep_coord	12	dep_coord
+14	tournoyant	tournoyer	VPR	VPR	t=G	13	prep	13	prep
+15	sur	sur	P	P		14	mod	14	mod
+16	soi	soi	NC	NC	n=s|g=m	15	prep	15	prep
+17	et	et	CC	CC		13	coord	13	coord
+18	l'	le	DET	DET	n=s	19	det	19	det
+19	homme	homme	NC	NC	n=s|g=m	17	dep_coord	17	dep_coord
+20	autour	autour	NC	NC	n=s|g=m	19	mod	19	mod
+21	de	de	P	P		12	dep_coord	12	dep_coord
+22	la	la	DET	DET	n=s|g=f	23	det	23	det
+23	femme	femme	NC	NC	n=s|g=f	21	prep	21	prep
+24	.	.	PONCT	PONCT		23	ponct	23	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	séga	_	NPP	NPP		3	suj	3	suj
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	une	une	DET	DET	n=s|g=f	5	det	5	det
+5	musique	musique	NC	NC	n=s|g=f	3	obj	3	obj
+6	plus	plus	ADV	ADV		7	mod	7	mod
+7	entraînante	entraînant	ADJ	ADJ	n=s|g=f	5	mod	5	mod
+8	et	et	CC	CC		7	coord	7	coord
+9	joyeuse	joyeux	ADJ	ADJ	n=s|g=f	8	dep_coord	8	dep_coord
+10	que	que	CS	CS		3	mod	3	mod
+11	le	le	DET	DET	n=s|g=m	12	det	12	det
+12	maloya	_	NC	NC		0	_	0	_
+13	.	.	PONCT	PONCT		12	ponct	12	ponct
+
+</p><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	maloya	_	NC	NC		4	suj	4	suj
+3	est	être	V	V	n=s|t=P|p=3	4	aux_tps	4	aux_tps
+4	classé	classer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+5	au	à	P+D	P+D	n=s|g=m	4	mod	4	mod
+6	Patrimoine	patrimoine	NC	NC	n=s|g=m	5	prep	5	prep
+7	culturel	culturel	ADJ	ADJ	n=s|g=m	6	mod	6	mod
+8	immatériel	immatériel	NC	NC	n=s|g=m	6	mod	6	mod
+9	de	de	P	P		4	mod	4	mod
+10	l'	le	DET	DET	n=s	11	det	11	det
+11	humanité	humanité	NC	NC	n=s|g=f	9	prep	9	prep
+12	de	de	P	P		4	mod	4	mod
+13	l'	le	DET	DET	n=s	14	det	14	det
+14	UNESCO	_	NPP	NPP		12	prep	12	prep
+15	depuis	depuis	P	P		4	mod	4	mod
+16	2009	2009	NC	NC		15	prep	15	prep
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+</p><h2>
+1	Cuisine	cuisine	NC	NC	n=s|g=f	0	_	0	_
+
+</h2><p>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	cuisine	cuisine	NC	NC	n=s|g=f	4	suj	4	suj
+3	réunionnaise	réunionnais	ADJ	ADJ	n=s|g=f	2	mod	2	mod
+4	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+5	savoureuse	savoureux	ADJ	ADJ	n=s|g=f	4	ats	4	ats
+6	et	et	CC	CC		5	coord	5	coord
+7	variée	varier	ADJ	ADJ	n=s|g=f|t=K	6	dep_coord	6	dep_coord
+8	.	.	PONCT	PONCT		7	ponct	7	ponct
+
+</p><p>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	spécialité	spécialité	NC	NC	n=s|g=f	3	suj	3	suj
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	le	le	DET	DET	n=s|g=m	5	det	5	det
+5	carry	carry	NC	NC	n=s|g=m	3	obj	3	obj
+6	:	:	PONCT	PONCT		5	ponct	5	ponct
+7	il	il	CLS	CLS	n=s|g=m|p=3	9	suj	9	suj
+8	s'	se	CLR	CLR	n=p,s|p=3	9	aff	9	aff
+9	agit	agir	V	V	n=s|t=J,P|p=3	3	mod	3	mod
+10	d'	de	P	P		9	de_obj	9	de_obj
+11	un	un	DET	DET	n=s|g=m	12	det	12	det
+12	plat	plat	NC	NC	n=s|g=m	10	prep	10	prep
+13	composé	composer	VPP	VPP	n=s|g=m|t=K	12	mod	12	mod
+14	de	de	P	P		13	mod	13	mod
+15	viande	viande	NC	NC	n=s|g=f	14	prep	14	prep
+16	ou	ou	CC	CC		14	coord	14	coord
+17	de	de	P	P		16	dep_coord	16	dep_coord
+18	poisson	poisson	NC	NC	n=s|g=m	17	prep	17	prep
+19	agrémenté	agrémenter	VPP	VPP	n=s|g=m|t=K	12	mod	12	mod
+20	d'	de	P	P		19	mod	19	mod
+21	épices	épice	NC	NC	n=p|g=f	20	prep	20	prep
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+23	d'	de	P	P		19	mod	19	mod
+24	oignons	oignon	NC	NC	n=p|g=m	23	prep	23	prep
+25	,	,	PONCT	PONCT		24	ponct	24	ponct
+26	d'	de	P	P		9	mod	9	mod
+27	ail	ail	NC	NC	n=s|g=m	26	prep	26	prep
+28	et	et	CC	CC		9	coord	9	coord
+29	le	le	DET	DET	n=s|g=m	31	det	31	det
+30	plus	plus	ADV	ADV		31	mod	31	mod
+31	souvent	souvent	ADV	ADV		28	mod	28	mod
+32	de	de	P	P		28	dep_coord	28	dep_coord
+33	tomates	tomate	NC	NC	n=p|g=f	32	prep	32	prep
+34	.	.	PONCT	PONCT		33	ponct	33	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	4	suj	4	suj
+2	est	être	V	V	n=s|t=P|p=3	4	aux_tps	4	aux_tps
+3	servi	servir	VPP	VPP	n=s|g=m|t=K	4	aux_pass	4	aux_pass
+4	accompagné	accompagner	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+5	de	de	P	P		4	mod	4	mod
+6	riz	riz	NC	NC	g=m	5	prep	5	prep
+7	et	et	CC	CC		4	coord	4	coord
+8	de	de	P	P		7	dep_coord	7	dep_coord
+9	grains	grain	NC	NC	n=p|g=m	8	prep	8	prep
+10	comme	comme	P	P		4	mod	4	mod
+11	les	les	DET	DET	n=p	12	det	12	det
+12	lentilles	lentille	NC	NC	n=p|g=f	10	prep	10	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	les	les	DET	DET	n=p	15	det	15	det
+15	pois	pois	NC	NC	g=m	4	mod	4	mod
+16	ou	ou	CC	CC		15	coord	15	coord
+17	les	les	DET	DET	n=p	18	det	18	det
+18	haricots	haricot	NC	NC	n=p|g=m	16	dep_coord	16	dep_coord
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	On	on	CLS	CLS	n=s|p=3	2	suj	2	suj
+2	peut	pouvoir	V	V	n=s|t=P|p=3	0	root	0	root
+3	le	le	CLO	CLO	n=s|g=m|p=3	4	obj	4	obj
+4	manger	manger	VINF	VINF	t=W	2	obj	2	obj
+5	avec	avec	P	P		4	mod	4	mod
+6	du	du	DET	DET	n=s|g=m	7	det	7	det
+7	rougail	_	NC	NC		5	prep	5	prep
+8	qui	qui	PROREL	PROREL	n=s	9	suj	9	suj
+9	est	être	V	V	n=s|t=P|p=3	2	mod	2	mod
+10	un	un	DET	DET	n=s|g=m	11	det	11	det
+11	condiment	condiment	NC	NC	n=s|g=m	9	obj	9	obj
+12	composé	composer	VPP	VPP	n=s|g=m|t=K	11	mod	11	mod
+13	de	de	P	P		12	mod	12	mod
+14	piment	piment	NC	NC	n=s|g=m	13	prep	13	prep
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	oignons	oignon	NC	NC	n=p|g=m	12	mod	12	mod
+17	et	et	CC	CC		2	coord	2	coord
+18	de	de	P	P		17	dep_coord	17	dep_coord
+19	légumes	légume	NC	NC	n=p	18	prep	18	prep
+20	divers	divers	ADJ	ADJ	g=m	19	mod	19	mod
+21	(	(	PONCT	PONCT		20	ponct	20	ponct
+22	rougail	_	ADJ	ADJ		23	mod	23	mod
+23	tomate	tomate	NC	NC	n=s|g=f	2	mod	2	mod
+24	,	,	PONCT	PONCT		23	ponct	23	ponct
+25	rougail	_	ADJ	ADJ		23	mod	23	mod
+26	concombre	concombre	NC	NC	n=s|g=m	23	mod	23	mod
+27	...	...	PONCT	PONCT		26	ponct	26	ponct
+28	)	)	PONCT	PONCT		26	ponct	26	ponct
+29	.	.	PONCT	PONCT		26	ponct	26	ponct
+
+</p>
+1	cette	cette	DET	DET	n=s|g=f	2	det	2	det
+2	page	page	NC	NC	n=s	6	suj	6	suj
+3	a	avoir	V	V	n=s|t=P|p=3	6	aux_tps	6	aux_tps
+4	été	être	VPP	VPP	t=K	6	aux_pass	6	aux_pass
+5	partiellement	_	ADV	ADV		6	mod	6	mod
+6	adaptée	adapter	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+7	de	de	P	P		6	mod	6	mod
+8	la	la	DET	DET	n=s|g=f	9	det	9	det
+9	page	page	NC	NC	n=s	7	prep	7	prep
+10	La	_	NPP	NPP		9	mod	9	mod
+11	Réunion	Réunion	NPP	NPP	n=s|g=f	9	mod	9	mod
+12	de	de	P	P		6	mod	6	mod
+13	Wikipédia	Wikipedia	NPP	NPP	n=s|g=f	12	prep	12	prep
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+

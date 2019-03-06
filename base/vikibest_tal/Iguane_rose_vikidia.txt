@@ -1,0 +1,720 @@
+<p>
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	iguane	iguane	NC	NC	n=s|g=m	27	suj	27	suj
+3	rose	rose	NC	NC	n=s	2	mod	2	mod
+4	des	de	P+D	P+D	n=p	2	dep	2	dep
+5	Galápagos	_	NPP	NPP		4	prep	4	prep
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	ou	ou	CC	CC		2	coord	2	coord
+8	iguane	iguane	NC	NC	n=s|g=m	7	dep_coord	7	dep_coord
+9	terrestre	terrestre	ADJ	ADJ	n=s	8	mod	8	mod
+10	rose	rose	NC	NC	n=s	8	mod	8	mod
+11	des	de	P+D	P+D	n=p	2	dep	2	dep
+12	Galápagos	_	NPP	NPP		11	prep	11	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	ou	ou	CC	CC		2	coord	2	coord
+15	encore	encore	ADV	ADV		14	mod	14	mod
+16	rosada	_	NPP	NPP		14	dep_coord	14	dep_coord
+17	en	en	P	P		14	dep_coord	14	dep_coord
+18	espagnol	espagnol	NC	NC	n=s|g=m	17	prep	17	prep
+19	(	(	PONCT	PONCT		18	ponct	18	ponct
+20	nom	nom	NC	NC	n=s|g=m	14	dep_coord	14	dep_coord
+21	scientifique	scientifique	ADJ	ADJ	n=s	20	mod	20	mod
+22	:	:	PONCT	PONCT		21	ponct	21	ponct
+23	Conolophus	_	NPP	NPP		20	mod	20	mod
+24	marthae	_	NPP	NPP		20	mod	20	mod
+25	)	)	PONCT	PONCT		24	ponct	24	ponct
+26	,	,	PONCT	PONCT		24	ponct	24	ponct
+27	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+28	une	une	DET	DET	n=s|g=f	29	det	29	det
+29	espèce	espèce	NC	NC	n=s|g=f	27	obj	27	obj
+30	d'	de	P	P		27	mod	27	mod
+31	iguane	iguane	NC	NC	n=s|g=m	30	prep	30	prep
+32	terrestre	terrestre	ADJ	ADJ	n=s	31	mod	31	mod
+33	de	de	P	P		27	mod	27	mod
+34	couleur	couleur	NC	NC	n=s|g=f	33	prep	33	prep
+35	...	...	PONCT	PONCT		34	ponct	34	ponct
+36	rose	rose	NC	NC	n=s	27	mod	27	mod
+37	,	,	PONCT	PONCT		36	ponct	36	ponct
+38	et	et	CC	CC		27	coord	27	coord
+39	vivant	vivant	ADJ	ADJ	n=s|g=m	38	dep_coord	38	dep_coord
+40	,	,	PONCT	PONCT		39	ponct	39	ponct
+41	comme	comme	P	P		27	mod	27	mod
+42	son	son	DET	DET	n=s|g=m|p=3|poss=s	43	det	43	det
+43	nom	nom	NC	NC	n=s|g=m	41	prep	41	prep
+44	l'	le	CLO	CLO	n=s|p=3	45	obj	45	obj
+45	indique	indiquer	V	V	n=s|t=P,S|p=1,3	27	mod	27	mod
+46	,	,	PONCT	PONCT		45	ponct	45	ponct
+47	aux	à	P+D	P+D	n=p	45	mod	45	mod
+48	îles	île	NC	NC	n=p|g=f	47	prep	47	prep
+49	Galápagos	_	NPP	NPP		48	mod	48	mod
+50	,	,	PONCT	PONCT		49	ponct	49	ponct
+51	plus	plus	ADV	ADV		52	mod	52	mod
+52	précisément	_	ADV	ADV		45	mod	45	mod
+53	sur	sur	P	P		45	mod	45	mod
+54	une	une	DET	DET	n=s|g=f	55	det	55	det
+55	partie	partie	NC	NC	n=s|g=f	53	prep	53	prep
+56	de	de	P	P		45	mod	45	mod
+57	l'	le	DET	DET	n=s	58	det	58	det
+58	île	île	NC	NC	n=s|g=f	56	prep	56	prep
+59	Isabella	Isabella	NPP	NPP	n=s|g=f	58	mod	58	mod
+60	.	.	PONCT	PONCT		59	ponct	59	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	5	suj	5	suj
+2	n'	ne	ADV	ADV		5	mod	5	mod
+3	a	avoir	V	V	n=s|t=P|p=3	5	aux_tps	5	aux_tps
+4	été	être	VPP	VPP	t=K	5	aux_pass	5	aux_pass
+5	découvert	découvrir	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+6	que	que	CS	CS		5	obj	5	obj
+7	très	très	ADV	ADV		8	mod	8	mod
+8	récemment	_	ADV	ADV		0	_	0	_
+9	.	.	PONCT	PONCT		8	ponct	8	ponct
+
+</p><h2>
+1	Découverte	découverte	NC	NC	n=s|g=f	0	_	0	_
+
+</h2><p>
+1	Il	il	CLS	CLS	n=s|g=m|p=3	4	suj	4	suj
+2	n'	ne	ADV	ADV		4	mod	4	mod
+3	y	y	CLO	CLO		4	aff	4	aff
+4	a	avoir	V	V	n=s|t=P|p=3	0	root	0	root
+5	pas	pas	ADV	ADV		4	mod	4	mod
+6	si	_	ADV	ADV		4	mod	4	mod
+7	longtemps	longtemps	ADV	ADV		4	mod	4	mod
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	on	on	CLS	CLS	n=s|p=3	11	suj	11	suj
+10	ne	ne	ADV	ADV		11	mod	11	mod
+11	connaissait	connaître	V	V	n=s|t=I|p=3	4	mod	4	mod
+12	que	que	CS	CS		11	obj	11	obj
+13	trois	trois	DET	DET	s=card|n=p	14	det	14	det
+14	espèces	espèce	NC	NC	n=p|g=f	0	_	0	_
+15	d'	de	P	P		14	dep	14	dep
+16	iguanes	iguane	NC	NC	n=p|g=m	15	prep	15	prep
+17	aux	à	P+D	P+D	n=p	14	dep	14	dep
+18	Galápagos	_	NPP	NPP		17	prep	17	prep
+19	:	:	PONCT	PONCT		18	ponct	18	ponct
+20	l'	le	DET	DET	n=s	21	det	21	det
+21	iguane	iguane	NC	NC	n=s|g=m	14	mod	14	mod
+22	marin	marin	ADJ	ADJ	n=s|g=m	21	mod	21	mod
+23	(	(	PONCT	PONCT		22	ponct	22	ponct
+24	Amblyrynchus	_	NPP	NPP		21	mod	21	mod
+25	cristatus	_	NPP	NPP		21	mod	21	mod
+26	)	)	PONCT	PONCT		25	ponct	25	ponct
+27	,	,	PONCT	PONCT		25	ponct	25	ponct
+28	et	et	CC	CC		21	coord	21	coord
+29	les	les	DET	DET	n=p	31	det	31	det
+30	deux	deux	ADJ	ADJ	s=card|n=p	31	mod	31	mod
+31	espèces	espèce	NC	NC	n=p|g=f	28	dep_coord	28	dep_coord
+32	d'	de	P	P		31	dep	31	dep
+33	iguanes	iguane	NC	NC	n=p|g=m	32	prep	32	prep
+34	terrestres	terrestre	ADJ	ADJ	n=p	33	mod	33	mod
+35	«_	"	PONCT	PONCT		34	ponct	34	ponct
+36	jaune	jaune	ADJ	ADJ	n=s	21	mod	21	mod
+37	_»	"	PONCT	PONCT		36	ponct	36	ponct
+38	:	:	PONCT	PONCT		36	ponct	36	ponct
+39	l'	le	DET	DET	n=s	40	det	40	det
+40	iguane	iguane	NC	NC	n=s|g=m	14	mod	14	mod
+41	terrestre	terrestre	ADJ	ADJ	n=s	40	mod	40	mod
+42	des	de	P+D	P+D	n=p	40	dep	40	dep
+43	Galápagos	_	NPP	NPP		42	prep	42	prep
+44	(	(	PONCT	PONCT		43	ponct	43	ponct
+45	Conolophus	_	NPP	NPP		40	mod	40	mod
+46	subcristatus	_	NPP	NPP		40	mod	40	mod
+47	)	)	PONCT	PONCT		46	ponct	46	ponct
+48	et	et	CC	CC		40	coord	40	coord
+49	l'	le	DET	DET	n=s	50	det	50	det
+50	iguane	iguane	NC	NC	n=s|g=m	48	dep_coord	48	dep_coord
+51	terrestre	terrestre	ADJ	ADJ	n=s	50	mod	50	mod
+52	de	de	P	P		50	dep	50	dep
+53	Santa	Santa	NPP	NPP	n=s|g=f	52	prep	52	prep
+54	Fe	_	NPP	NPP		53	mod	53	mod
+55	(	(	PONCT	PONCT		54	ponct	54	ponct
+56	Conolophus	_	NPP	NPP		50	mod	50	mod
+57	pallidus	_	NPP	NPP		50	mod	50	mod
+58	)	)	PONCT	PONCT		57	ponct	57	ponct
+59	.	.	PONCT	PONCT		57	ponct	57	ponct
+
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	iguane	iguane	NC	NC	n=s|g=m	6	suj	6	suj
+3	rose	rose	NC	NC	n=s	2	mod	2	mod
+4	a	avoir	V	V	n=s|t=P|p=3	6	aux_tps	6	aux_tps
+5	été	être	VPP	VPP	t=K	6	aux_pass	6	aux_pass
+6	aperçu	apercevoir	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+7	pour	pour	P	P		6	mod	6	mod
+8	la	la	DET	DET	n=s|g=f	10	det	10	det
+9	première	premier	ADJ	ADJ	n=s|g=f	10	mod	10	mod
+10	fois	fois	NC	NC	g=f	7	prep	7	prep
+11	sur	sur	P	P		6	mod	6	mod
+12	les	les	DET	DET	n=p	13	det	13	det
+13	pentes	pente	NC	NC	n=p|g=f	11	prep	11	prep
+14	du	de	P+D	P+D	n=s|g=m	6	mod	6	mod
+15	volcan	volcan	NC	NC	n=s|g=m	14	prep	14	prep
+16	Wolf	Wolf	NPP	NPP	n=s|g=m	15	mod	15	mod
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	au	à	P+D	P+D	n=s|g=m	6	mod	6	mod
+19	Nord	Nord	NPP	NPP	n=s|g=m	18	prep	18	prep
+20	de	de	P	P		6	mod	6	mod
+21	l'	le	DET	DET	n=s	22	det	22	det
+22	île	île	NC	NC	n=s|g=f	20	prep	20	prep
+23	d'	de	P	P		6	mod	6	mod
+24	Isabella	Isabella	NPP	NPP	n=s|g=f	23	prep	23	prep
+25	,	,	PONCT	PONCT		24	ponct	24	ponct
+26	en	en	P	P		6	mod	6	mod
+27	1986	1986	NC	NC		26	prep	26	prep
+28	.	.	PONCT	PONCT		27	ponct	27	ponct
+
+1	Jusque-là	jusque-là	ADV	ADV		4	mod	4	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	on	on	CLS	CLS	n=s|p=3	4	suj	4	suj
+4	ignorait	ignorer	V	V	n=s|t=I|p=3	0	root	0	root
+5	s'	se	CLR	CLR	n=p,s|p=3	8	aff	8	aff
+6	il	il	CLS	CLS	n=s|g=m|p=3	8	suj	8	suj
+7	s'	se	CLR	CLR	n=p,s|p=3	8	aff	8	aff
+8	agissait	agir	V	V	n=s|t=I|p=3	4	mod	4	mod
+9	d'	de	P	P		8	mod	8	mod
+10	une	une	DET	DET	n=s|g=f	11	det	11	det
+11	anomalie	anomalie	NC	NC	n=s|g=f	9	prep	9	prep
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	ou	ou	CC	CC		8	coord	8	coord
+14	bien	bien	ADV	ADV		13	mod	13	mod
+15	d'	de	P	P		13	dep_coord	13	dep_coord
+16	un	un	DET	DET	n=s|g=m	17	det	17	det
+17	hybride	hybride	NC	NC	n=s|g=m	15	prep	15	prep
+18	entre	entre	P	P		13	dep_coord	13	dep_coord
+19	plusieurs	plusieurs	DET	DET	n=p	20	det	20	det
+20	espèces	espèce	NC	NC	n=p|g=f	18	prep	18	prep
+21	d'	de	P	P		20	dep	20	dep
+22	iguanes	iguane	NC	NC	n=p|g=m	21	prep	21	prep
+23	déjà	déjà	ADV	ADV		24	mod	24	mod
+24	connues	connaître	VPP	VPP	n=p|g=f|t=K	20	mod	20	mod
+25	,	,	PONCT	PONCT		24	ponct	24	ponct
+26	et	et	CC	CC		4	coord	4	coord
+27	qui	qui	PROREL	PROREL	n=s	28	suj	28	suj
+28	vivent	vivre	V	V	n=p|t=P,S|p=3	26	dep_coord	26	dep_coord
+29	au	à	P+D	P+D	n=s|g=m	28	mod	28	mod
+30	même	même	ADJ	ADJ	n=s	31	mod	31	mod
+31	endroit	endroit	NC	NC	n=s|g=m	29	prep	29	prep
+32	.	.	PONCT	PONCT		31	ponct	31	ponct
+
+1	Récemment	_	ADV	ADV		9	mod	9	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	en	en	P	P		9	mod	9	mod
+4	2009	2009	NC	NC		3	prep	3	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	des	des	DET	DET	n=p	7	det	7	det
+7	scientifiques	scientifique	ADJ	ADJ	n=p	9	suj	9	suj
+8	ont	avoir	V	V	n=p|t=P|p=3	9	aux_tps	9	aux_tps
+9	démontré	démontrer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+10	qu'	que	CS	CS		9	mod	9	mod
+11	il	il	CLS	CLS	n=s|g=m|p=3	13	suj	13	suj
+12	s'	se	CLR	CLR	n=p,s|p=3	13	aff	13	aff
+13	agissait	agir	V	V	n=s|t=I|p=3	10	sub	10	sub
+14	en	en	P	P		13	mod	13	mod
+15	fait	fait	NC	NC	n=s|g=m	14	prep	14	prep
+16	d'	de	P	P		13	mod	13	mod
+17	une	une	DET	DET	n=s|g=f	19	det	19	det
+18	troisième	troisième	ADJ	ADJ	n=s	19	mod	19	mod
+19	espèce	espèce	NC	NC	n=s|g=f	16	prep	16	prep
+20	d'	de	P	P		13	mod	13	mod
+21	iguane	iguane	NC	NC	n=s|g=m	20	prep	20	prep
+22	terrestre	terrestre	ADJ	ADJ	n=s	21	mod	21	mod
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	à	à	P	P		13	mod	13	mod
+25	laquelle	lequel	PROREL	PROREL	n=s|g=f	24	prep	24	prep
+26	ils	ils	CLS	CLS	n=p|g=m|p=3	28	suj	28	suj
+27	ont	avoir	V	V	n=p|t=P|p=3	28	aux_tps	28	aux_tps
+28	donné	donner	VPP	VPP	n=s|g=m|t=K	13	mod	13	mod
+29	le	le	DET	DET	n=s|g=m	30	det	30	det
+30	nom	nom	NC	NC	n=s|g=m	28	obj	28	obj
+31	scientifique	scientifique	ADJ	ADJ	n=s	30	mod	30	mod
+32	de	de	P	P		28	mod	28	mod
+33	Conolophus	_	NPP	NPP		32	prep	32	prep
+34	marthae	_	NPP	NPP		33	mod	33	mod
+35	.	.	PONCT	PONCT		34	ponct	34	ponct
+
+</p><h2>
+1	Description	description	NC	NC	n=s|g=f	0	_	0	_
+
+</h2><p>
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	iguane	iguane	NC	NC	n=s|g=m	4	suj	4	suj
+3	rose	rose	NC	NC	n=s	2	mod	2	mod
+4	ressemble	ressembler	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+5	beaucoup	beaucoup	ADV	ADV		4	mod	4	mod
+6	à	à	P	P		4	mod	4	mod
+7	ses	ses	DET	DET	n=p|p=3|poss=s	8	det	8	det
+8	cousins	cousin	NC	NC	n=p|g=m	6	prep	6	prep
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	mais	mais	CC	CC		4	coord	4	coord
+11	il	il	CLS	CLS	n=s|g=m|p=3	13	suj	13	suj
+12	se	se	CLR	CLR	n=p,s|p=3	13	aff	13	aff
+13	reconnaît	reconnaître	V	V	n=s|t=P|p=3	10	dep_coord	10	dep_coord
+14	facilement	_	ADV	ADV		13	mod	13	mod
+15	par	par	P	P		13	mod	13	mod
+16	la	la	DET	DET	n=s|g=f	17	det	17	det
+17	couleur	couleur	NC	NC	n=s|g=f	15	prep	15	prep
+18	particulière	particulier	ADJ	ADJ	n=s|g=f	17	mod	17	mod
+19	de	de	P	P		13	mod	13	mod
+20	son	son	DET	DET	n=s|g=m|p=3|poss=s	21	det	21	det
+21	corps	corps	NC	NC	g=m	19	prep	19	prep
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+23	rose	rose	NC	NC	n=s	21	mod	21	mod
+24	orné	orner	VPP	VPP	n=s|g=m|t=K	23	mod	23	mod
+25	de	de	P	P		24	mod	24	mod
+26	bandes	bande	NC	NC	n=p|g=f	25	prep	25	prep
+27	noires	noir	ADJ	ADJ	n=p|g=f	26	mod	26	mod
+28	.	.	PONCT	PONCT		27	ponct	27	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	tête	tête	NC	NC	n=s|g=f	14	suj	14	suj
+3	et	et	CC	CC		2	coord	2	coord
+4	les	les	DET	DET	n=p	5	det	5	det
+5	pattes	patte	NC	NC	n=p|g=f	3	dep_coord	3	dep_coord
+6	avant	avant	P	P		5	dep	5	dep
+7	sont	_	NC	NC		6	prep	6	prep
+8	entièrement	_	ADV	ADV		9	mod	9	mod
+9	roses	rose	ADJ	ADJ	n=p	7	mod	7	mod
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	des	des	DET	DET	n=p	12	det	12	det
+12	rayures	rayure	NC	NC	n=p|g=f	14	suj	14	suj
+13	noires	noir	ADJ	ADJ	n=p|g=f	12	mod	12	mod
+14	couvrent	couvrir	V	V	n=p|t=P,S|p=3	0	root	0	root
+15	l'	le	DET	DET	n=s	16	det	16	det
+16	arrière	arrière	NC	NC	n=s	14	obj	14	obj
+17	de	de	P	P		16	dep	16	dep
+18	son	son	DET	DET	n=s|g=m|p=3|poss=s	19	det	19	det
+19	corps	corps	NC	NC	g=m	17	prep	17	prep
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	et	et	CC	CC		14	coord	14	coord
+22	se	se	CLR	CLR	n=p,s|p=3	23	aff	23	aff
+23	rejoignent	rejoindre	V	V	n=p|t=P,S|p=3	21	dep_coord	21	dep_coord
+24	pour	pour	P	P		23	mod	23	mod
+25	former	former	VINF	VINF	t=W	24	prep	24	prep
+26	un	un	DET	DET	n=s|g=m	27	det	27	det
+27	motif	motif	NC	NC	n=s|g=m	25	obj	25	obj
+28	.	.	PONCT	PONCT		27	ponct	27	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	queue	queue	NC	NC	n=s|g=f	3	suj	3	suj
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	entièrement	_	ADV	ADV		3	mod	3	mod
+5	noire	noir	ADJ	ADJ	n=s|g=f	3	ats	3	ats
+6	.	.	PONCT	PONCT		5	ponct	5	ponct
+
+1	On	on	CLS	CLS	n=s|p=3	3	suj	3	suj
+2	ne	ne	ADV	ADV		3	mod	3	mod
+3	sait	savoir	V	V	n=s|t=P|p=3	0	root	0	root
+4	pas	pas	ADV	ADV		3	mod	3	mod
+5	très	très	ADV	ADV		3	mod	3	mod
+6	bien	bien	ADV	ADV		3	mod	3	mod
+7	à	à	P	P		3	mod	3	mod
+8	quoi	quoi	PROREL	PROREL		10	suj	10	suj
+9	est	être	V	V	n=s|t=P|p=3	10	aux_tps	10	aux_tps
+10	due	devoir	VPP	VPP	n=s|g=f|t=K	3	mod	3	mod
+11	la	la	DET	DET	n=s|g=f	12	det	12	det
+12	coloration	coloration	NC	NC	n=s|g=f	10	mod	10	mod
+13	rose	rose	ADJ	ADJ	n=s	12	mod	12	mod
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	mais	mais	CC	CC		3	coord	3	coord
+16	ce	ce	DET	DET	n=s|g=m	17	det	17	det
+17	phénomène	phénomène	NC	NC	n=s|g=m	18	suj	18	suj
+18	peut	pouvoir	V	V	n=s|t=P|p=3	15	dep_coord	15	dep_coord
+19	probablement	_	ADV	ADV		18	mod	18	mod
+20	s'	se	CLR	CLR	n=p,s|p=3	21	aff	21	aff
+21	expliquer	expliquer	VINF	VINF	t=W	18	obj	18	obj
+22	au	à	P+D	P+D	n=s|g=m	21	mod	21	mod
+23	moins	moins	ADV	ADV		24	mod	24	mod
+24	en	en	P	P		21	mod	21	mod
+25	partie	partie	NC	NC	n=s|g=f	24	prep	24	prep
+26	par	par	P	P		21	mod	21	mod
+27	la	la	DET	DET	n=s|g=f	28	det	28	det
+28	circulation	circulation	NC	NC	n=s|g=f	26	prep	26	prep
+29	du	de	P+D	P+D	n=s|g=m	21	mod	21	mod
+30	sang	sang	NC	NC	n=s|g=m	29	prep	29	prep
+31	dans	dans	P	P		21	mod	21	mod
+32	la	la	DET	DET	n=s|g=f	33	det	33	det
+33	peau	peau	NC	NC	n=s|g=f	31	prep	31	prep
+34	et	et	CC	CC		18	coord	18	coord
+35	les	les	DET	DET	n=p	36	det	36	det
+36	écailles	écaille	NC	NC	n=p|g=f	34	dep_coord	34	dep_coord
+37	.	.	PONCT	PONCT		36	ponct	36	ponct
+
+</p><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	dos	dos	NC	NC	g=m	15	suj	15	suj
+3	de	de	P	P		2	dep	2	dep
+4	l'	le	DET	DET	n=s	5	det	5	det
+5	iguane	iguane	NC	NC	n=s|g=m	3	prep	3	prep
+6	rose	rose	ADJ	ADJ	n=s	5	mod	5	mod
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	comme	comme	P	P		2	dep	2	dep
+9	celui	celui	PRO	PRO	n=s|g=m	8	prep	8	prep
+10	de	de	P	P		9	dep	9	dep
+11	ses	ses	DET	DET	n=p|p=3|poss=s	12	det	12	det
+12	cousins	cousin	NC	NC	n=p|g=m	10	prep	10	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	est	être	V	V	n=s|t=P|p=3	15	aux_tps	15	aux_tps
+15	parcouru	parcourir	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+16	par	par	P	P		15	mod	15	mod
+17	une	une	DET	DET	n=s|g=f	18	det	18	det
+18	crête	crête	NC	NC	n=s|g=f	16	prep	16	prep
+19	ornée	orner	VPP	VPP	n=s|g=f|t=K	18	mod	18	mod
+20	de	de	P	P		19	mod	19	mod
+21	piquants	piquant	NC	NC	n=p|g=m	20	prep	20	prep
+22	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+1	En	en	P	P		12	mod	12	mod
+2	revanche	revanche	NC	NC	n=s|g=f	1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	sur	sur	P	P		12	mod	12	mod
+5	la	la	DET	DET	n=s|g=f	6	det	6	det
+6	nuque	nuque	NC	NC	n=s|g=f	4	prep	4	prep
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	l'	le	DET	DET	n=s	9	det	9	det
+9	iguane	iguane	NC	NC	n=s|g=m	12	suj	12	suj
+10	rose	rose	NC	NC	n=s	9	mod	9	mod
+11	n'	ne	ADV	ADV		12	mod	12	mod
+12	a	avoir	V	V	n=s|t=P|p=3	0	root	0	root
+13	pas	pas	ADV	ADV		12	mod	12	mod
+14	de	de	P	P		12	mod	12	mod
+15	piquants	piquant	NC	NC	n=p|g=m	14	prep	14	prep
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	juste	juste	ADV	ADV		19	mod	19	mod
+18	une	une	DET	DET	n=s|g=f	19	det	19	det
+19	sorte	sorte	NC	NC	n=s|g=f	12	obj	12	obj
+20	de	de	P	P		19	dep	19	dep
+21	bosse	bosse	NC	NC	n=s|g=f	20	prep	20	prep
+22	arrondie	arrondir	VPP	VPP	n=s|g=f|t=K	21	mod	21	mod
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+</p><h2>
+1	Classification	classification	NC	NC	n=s|g=f	0	_	0	_
+
+</h2><p>
+1	Ce	ce	CLS	CLS		2	suj	2	suj
+2	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+3	notamment	_	ADV	ADV		2	mod	2	mod
+4	des	des	DET	DET	n=p	5	det	5	det
+5	analyses	analyse	NC	NC	n=p|g=f	2	obj	2	obj
+6	génétiques	génétique	ADJ	ADJ	n=p	5	mod	5	mod
+7	qui	qui	PROREL	PROREL	n=s	9	suj	9	suj
+8	ont	avoir	V	V	n=p|t=P|p=3	9	aux_tps	9	aux_tps
+9	permis	permettre	VPP	VPP	g=m|t=K	5	mod_rel	5	mod_rel
+10	de	de	P	P		9	mod	9	mod
+11	déterminer	déterminer	VINF	VINF	t=W	10	prep	10	prep
+12	que	que	CS	CS		2	mod	2	mod
+13	l'	le	DET	DET	n=s	14	det	14	det
+14	iguane	iguane	NC	NC	n=s|g=m	16	suj	16	suj
+15	rose	rose	NC	NC	n=s	14	mod	14	mod
+16	est	être	V	V	n=s|t=P|p=3	12	sub	12	sub
+17	bien	bien	ADV	ADV		16	mod	16	mod
+18	une	une	DET	DET	n=s|g=f	20	det	20	det
+19	nouvelle	nouveau	ADJ	ADJ	n=s|g=f	20	mod	20	mod
+20	espèce	espèce	NC	NC	n=s|g=f	16	obj	16	obj
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	et	et	CC	CC		16	coord	16	coord
+23	non	non	ADV	ADV		24	mod	24	mod
+24	pas	pas	ADV	ADV		22	mod	22	mod
+25	une	une	DET	DET	n=s|g=f	26	det	26	det
+26	variété	variété	NC	NC	n=s|g=f	22	dep_coord	22	dep_coord
+27	d'	de	P	P		26	dep	26	dep
+28	iguane	iguane	NC	NC	n=s|g=m	27	prep	27	prep
+29	terrestre	terrestre	ADJ	ADJ	n=s	28	mod	28	mod
+30	,	,	PONCT	PONCT		29	ponct	29	ponct
+31	ou	ou	CC	CC		26	coord	26	coord
+32	bien	bien	ADV	ADV		31	mod	31	mod
+33	un	un	DET	DET	n=s|g=m	34	det	34	det
+34	hybride	hybride	NC	NC	n=s|g=m	31	dep_coord	31	dep_coord
+35	entre	entre	P	P		34	dep	34	dep
+36	l'	le	DET	DET	n=s	37	det	37	det
+37	iguane	iguane	NC	NC	n=s|g=m	35	prep	35	prep
+38	terrestre	terrestre	ADJ	ADJ	n=s	37	mod	37	mod
+39	et	et	CC	CC		34	coord	34	coord
+40	l'	le	DET	DET	n=s	41	det	41	det
+41	iguane	iguane	NC	NC	n=s|g=m	39	dep_coord	39	dep_coord
+42	marin	marin	ADJ	ADJ	n=s|g=m	41	mod	41	mod
+43	.	.	PONCT	PONCT		42	ponct	42	ponct
+
+</p><p>
+1	Ces	ces	DET	DET	n=p	2	det	2	det
+2	analyses	analyse	NC	NC	n=p|g=f	5	suj	5	suj
+3	ont	avoir	V	V	n=p|t=P|p=3	5	aux_tps	5	aux_tps
+4	également	_	ADV	ADV		5	mod	5	mod
+5	permis	permettre	VPP	VPP	g=m|t=K	0	root	0	root
+6	de	de	P	P		5	mod	5	mod
+7	classer	classer	VINF	VINF	t=W	6	prep	6	prep
+8	l'	le	DET	DET	n=s	9	det	9	det
+9	iguane	iguane	NC	NC	n=s|g=m	7	obj	7	obj
+10	rose	roser	V	V	n=s|t=P,S|p=1,3	5	mod	5	mod
+11	parmi	parmi	P	P		10	mod	10	mod
+12	les	les	DET	DET	n=p	14	det	14	det
+13	autres	autre	ADJ	ADJ	n=p	14	mod	14	mod
+14	animaux	animal	NC	NC	n=p|g=m	11	prep	11	prep
+15	;	;	PONCT	PONCT		14	ponct	14	ponct
+16	s'	se	CLR	CLR	n=p,s|p=3	0	_	0	_
+17	il	il	CLS	CLS	n=s|g=m|p=3	19	suj	19	suj
+18	n'	ne	ADV	ADV		19	mod	19	mod
+19	est	être	V	V	n=s|t=P|p=3	0	_	0	_
+20	pas	pas	ADV	ADV		19	mod	19	mod
+21	un	un	DET	DET	n=s|g=m	22	det	22	det
+22	iguane	iguane	NC	NC	n=s|g=m	19	obj	19	obj
+23	terrestre	terrestre	ADJ	ADJ	n=s	22	mod	22	mod
+24	,	,	PONCT	PONCT		23	ponct	23	ponct
+25	il	il	CLS	CLS	n=s|g=m|p=3	27	suj	27	suj
+26	en	en	CLO	CLO		27	aff	27	aff
+27	est	être	V	V	n=s|t=P|p=3	19	mod	19	mod
+28	cependant	cependant	ADV	ADV		27	mod	27	mod
+29	le	le	DET	DET	n=s|g=m	31	det	31	det
+30	proche	proche	ADJ	ADJ	n=s	31	mod	31	mod
+31	cousin	cousin	NC	NC	n=s|g=m	27	obj	27	obj
+32	:	:	PONCT	PONCT		31	ponct	31	ponct
+33	l'	le	DET	DET	n=s	34	det	34	det
+34	iguane	iguane	NC	NC	n=s|g=m	51	suj	51	suj
+35	terrestre	terrestre	ADJ	ADJ	n=s	34	mod	34	mod
+36	des	de	P+D	P+D	n=p	34	dep	34	dep
+37	Galápagos	_	NPP	NPP		36	prep	36	prep
+38	,	,	PONCT	PONCT		37	ponct	37	ponct
+39	l'	le	DET	DET	n=s	40	det	40	det
+40	iguane	iguane	NC	NC	n=s|g=m	34	mod	34	mod
+41	jaune	jaune	ADJ	ADJ	n=s	40	mod	40	mod
+42	des	de	P+D	P+D	n=p	40	dep	40	dep
+43	Galápagos	_	NPP	NPP		42	prep	42	prep
+44	,	,	PONCT	PONCT		43	ponct	43	ponct
+45	et	et	CC	CC		40	coord	40	coord
+46	l'	le	DET	DET	n=s	47	det	47	det
+47	iguane	iguane	NC	NC	n=s|g=m	45	dep_coord	45	dep_coord
+48	rose	rose	NC	NC	n=s	47	mod	47	mod
+49	des	de	P+D	P+D	n=p	40	dep	40	dep
+50	Galápagos	_	NPP	NPP		49	prep	49	prep
+51	font	faire	V	V	n=p|t=P|p=3	19	mod	19	mod
+52	tous	tout	ADJ	ADJ	n=p|g=m	55	mod	55	mod
+53	les	les	DET	DET	n=p	55	det	55	det
+54	trois	trois	ADJ	ADJ	s=card|n=p	55	mod	55	mod
+55	partie	partie	NC	NC	n=s|g=f	51	obj	51	obj
+56	du	de	P+D	P+D	n=s|g=m	55	dep	55	dep
+57	genre	genre	NC	NC	n=s|g=m	56	prep	56	prep
+58	Conolophus	_	NPP	NPP		57	mod	57	mod
+59	,	,	PONCT	PONCT		58	ponct	58	ponct
+60	dont	dont	PROREL	PROREL		62	mod	62	mod
+61	ils	ils	CLS	CLS	n=p|g=m|p=3	62	suj	62	suj
+62	sont	être	V	V	n=p|t=P|p=3	55	mod_rel	55	mod_rel
+63	les	les	DET	DET	n=p	65	det	65	det
+64	seuls	seul	ADJ	ADJ	n=p|g=m	65	mod	65	mod
+65	représentants	représentant	NC	NC	n=p|g=m	62	obj	62	obj
+66	.	.	PONCT	PONCT		65	ponct	65	ponct
+
+1	Parmi	parmi	P	P		12	mod	12	mod
+2	les	les	DET	DET	n=p	3	det	3	det
+3	trois	trois	ADJ	ADJ	s=card|n=p	1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	l'	le	DET	DET	n=s	6	det	6	det
+6	iguane	iguane	NC	NC	n=s|g=m	12	suj	12	suj
+7	terrestre	terrestre	ADJ	ADJ	n=s	6	mod	6	mod
+8	et	et	CC	CC		6	coord	6	coord
+9	l'	le	DET	DET	n=s	10	det	10	det
+10	iguane	iguane	NC	NC	n=s|g=m	8	dep_coord	8	dep_coord
+11	jaune	jaune	ADJ	ADJ	n=s	10	mod	10	mod
+12	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+13	plus	plus	ADV	ADV		12	mod	12	mod
+14	proches	proche	ADJ	ADJ	n=p	12	ats	12	ats
+15	entre	entre	P	P		12	mod	12	mod
+16	eux	eux	PRO	PRO	n=p|g=m|p=3	15	prep	15	prep
+17	que	que	CS	CS		12	mod	12	mod
+18	de	de	P	P		0	_	0	_
+19	l'	le	DET	DET	n=s	20	det	20	det
+20	iguane	iguane	NC	NC	n=s|g=m	18	prep	18	prep
+21	rose	rose	ADJ	ADJ	n=s	20	mod	20	mod
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+23	qui	qui	PROREL	PROREL	n=s	24	suj	24	suj
+24	est	être	V	V	n=s|t=P|p=3	20	mod_rel	20	mod_rel
+25	semble-t	_	ADV	ADV		24	mod	24	mod
+26	-il	il	CLS	CLS	n=s|g=m|p=3	0	_	0	_
+27	l'	le	DET	DET	n=s	28	det	28	det
+28	espèce	espèce	NC	NC	n=s|g=f	0	_	0	_
+29	qui	qui	PROREL	PROREL	n=s	30	suj	30	suj
+30	pourrait	pouvoir	V	V	n=s|t=C|p=3	28	mod_rel	28	mod_rel
+31	être	être	VINF	VINF	t=W	32	aux_pass	32	aux_pass
+32	apparue	apparaître	VPP	VPP	n=s|g=f|t=K	30	obj	30	obj
+33	en	en	P	P		32	mod	32	mod
+34	premier	premier	ADJ	ADJ	n=s|g=m	33	prep	33	prep
+35	...	...	PONCT	PONCT		34	ponct	34	ponct
+
+</p><p>
+1	Autrement	_	ADV	ADV		2	mod	2	mod
+2	dit	dire	V	V	n=s|t=J,P|p=3	0	root	0	root
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	les	les	DET	DET	n=p	6	det	6	det
+5	premiers	premier	ADJ	ADJ	n=p|g=m	6	mod	6	mod
+6	iguanes	iguane	NC	NC	n=p|g=m	2	obj	2	obj
+7	à	à	P	P		2	mod	2	mod
+8	avoir	avoir	VINF	VINF	t=W	9	aux_tps	9	aux_tps
+9	peuplé	peupler	VPP	VPP	n=s|g=m|t=K	7	prep	7	prep
+10	les	les	DET	DET	n=p	11	det	11	det
+11	Galápagos	_	NPP	NPP		12	suj	12	suj
+12	pourraient	pouvoir	V	V	n=p|t=C|p=3	2	mod	2	mod
+13	avoir	avoir	VINF	VINF	t=W	12	obj	12	obj
+14	été	être	VPP	VPP	t=K	13	dep	13	dep
+15	...	...	PONCT	PONCT		14	ponct	14	ponct
+16	roses	rose	NC	NC	n=p	13	mod	13	mod
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	et	et	CC	CC		13	coord	13	coord
+19	non	non	ADV	ADV		18	mod	18	mod
+20	pas	pas	ADV	ADV		18	mod	18	mod
+21	jaunes	jaune	ADJ	ADJ	n=p	18	dep_coord	18	dep_coord
+22	!	!	PONCT	PONCT		21	ponct	21	ponct
+
+</p><p>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	analyses	analyse	NC	NC	n=p|g=f	4	suj	4	suj
+3	génétiques	génétique	ADJ	ADJ	n=p	2	mod	2	mod
+4	révèlent	révéler	V	V	n=p|t=P,S|p=3	0	root	0	root
+5	que	que	CS	CS		4	mod	4	mod
+6	l'	le	DET	DET	n=s	7	det	7	det
+7	iguane	iguane	NC	NC	n=s|g=m	10	suj	10	suj
+8	rose	rose	NC	NC	n=s	7	mod	7	mod
+9	est	être	V	V	n=s|t=P|p=3	10	aux_tps	10	aux_tps
+10	apparu	apparaître	VPP	VPP	n=s|g=m|t=K	5	sub	5	sub
+11	sur	sur	P	P		10	mod	10	mod
+12	les	les	DET	DET	n=p	13	det	13	det
+13	Galápagos	_	NPP	NPP		11	prep	11	prep
+14	il	il	CLS	CLS	n=s|g=m|p=3	0	_	0	_
+15	y	y	CLO	CLO		0	_	0	_
+16	a	avoir	V	V	n=s|t=P|p=3	0	_	0	_
+17	très	très	ADV	ADV		18	mod	18	mod
+18	longtemps	longtemps	ADV	ADV		16	mod	16	mod
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	alors	alors	ADV	ADV		16	mod	16	mod
+21	que	que	CS	CS		16	mod	16	mod
+22	la	la	DET	DET	n=s|g=f	23	det	23	det
+23	plupart	plupart	NC	NC	n=s|g=f	29	suj	29	suj
+24	des	de	P+D	P+D	n=p	23	dep	23	dep
+25	îles	île	NC	NC	n=p|g=f	24	prep	24	prep
+26	des	de	P+D	P+D	n=p	23	dep	23	dep
+27	Galápagos	_	NPP	NPP		26	prep	26	prep
+28	n'	ne	ADV	ADV		29	mod	29	mod
+29	étaient	être	V	V	n=p|t=I|p=3	21	sub	21	sub
+30	même	même	ADV	ADV		29	mod	29	mod
+31	pas	pas	ADV	ADV		33	mod	33	mod
+32	encore	encore	ADV	ADV		33	mod	33	mod
+33	formées	former	VPP	VPP	n=p|g=f|t=K	29	ats	29	ats
+34	!	!	PONCT	PONCT		33	ponct	33	ponct
+
+1	Plus	plus	ADV	ADV		2	mod	2	mod
+2	étonnant	étonnant	ADJ	ADJ	n=s|g=m	11	mod	11	mod
+3	encore	encore	ADV	ADV		11	mod	11	mod
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	le	le	DET	DET	n=s|g=m	6	det	6	det
+6	volcan	volcan	NC	NC	n=s|g=m	11	suj	11	suj
+7	sur	sur	P	P		10	mod	10	mod
+8	lequel	lequel	PROREL	PROREL	n=s|g=m	7	prep	7	prep
+9	il	il	CLS	CLS	n=s|g=m|p=3	10	suj	10	suj
+10	vit	vivre	V	V	n=s|t=P|p=3	6	mod_rel	6	mod_rel
+11	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	au	à	P+D	P+D	n=s|g=m	11	mod	11	mod
+14	contraire	contraire	NC	NC	n=s|g=m	13	prep	13	prep
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	l'	le	DET	DET	n=s	17	det	17	det
+17	un	un	PRO	PRO	n=s|g=m	11	ats	11	ats
+18	des	de	P+D	P+D	n=p	17	dep	17	dep
+19	plus	plus	ADV	ADV		20	mod	20	mod
+20	jeunes	jeune	ADJ	ADJ	n=p	18	prep	18	prep
+21	de	de	P	P		11	mod	11	mod
+22	tout	tout	ADJ	ADJ	n=s|g=m	24	mod	24	mod
+23	l'	le	DET	DET	n=s	24	det	24	det
+24	archipel	archipel	NC	NC	n=s|g=m	21	prep	21	prep
+25	!	!	PONCT	PONCT		24	ponct	24	ponct
+
+1	Cela	cela	PRO	PRO	n=s|g=m	2	suj	2	suj
+2	pourrait	pouvoir	V	V	n=s|t=C|p=3	0	root	0	root
+3	vouloir	vouloir	VINF	VINF	t=W	2	obj	2	obj
+4	dire	dire	VINF	VINF	t=W	3	obj	3	obj
+5	que	que	CS	CS		2	mod	2	mod
+6	peut-être	peut-être	ADV	ADV		12	mod	12	mod
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	l'	le	DET	DET	n=s	9	det	9	det
+9	iguane	iguane	NC	NC	n=s|g=m	12	suj	12	suj
+10	rose	rose	NC	NC	n=s	9	mod	9	mod
+11	est	être	V	V	n=s|t=P|p=3	12	aux_tps	12	aux_tps
+12	apparu	apparaître	VPP	VPP	n=s|g=m|t=K	5	sub	5	sub
+13	ailleurs	ailleurs	ADV	ADV		12	mod	12	mod
+14	dans	dans	P	P		12	mod	12	mod
+15	l'	le	DET	DET	n=s	16	det	16	det
+16	archipel	archipel	NC	NC	n=s|g=m	14	prep	14	prep
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	et	et	CC	CC		5	coord	5	coord
+19	qu'	que	CS	CS		18	dep_coord	18	dep_coord
+20	il	il	CLS	CLS	n=s|g=m|p=3	23	suj	23	suj
+21	n'	ne	ADV	ADV		23	mod	23	mod
+22	est	être	V	V	n=s|t=P|p=3	23	aux_tps	23	aux_tps
+23	venu	venir	VPP	VPP	n=s|g=m|t=K	19	sub	19	sub
+24	sur	sur	P	P		23	mod	23	mod
+25	ce	ce	DET	DET	n=s|g=m	26	det	26	det
+26	volcan	volcan	NC	NC	n=s|g=m	24	prep	24	prep
+27	que	que	CS	CS		23	mod	23	mod
+28	plus	plus	ADV	ADV		0	_	0	_
+29	tard	tard	ADV	ADV		0	_	0	_
+30	.	.	PONCT	PONCT		29	ponct	29	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	vivait	vivre	V	V	n=s|t=I|p=3	0	root	0	root
+3	peut-être	peut-être	ADV	ADV		2	mod	2	mod
+4	par	par	P	P		2	mod	2	mod
+5	le	le	DET	DET	n=s|g=m	6	det	6	det
+6	passé	passé	NC	NC	n=s|g=m	4	prep	4	prep
+7	ailleurs	ailleurs	ADV	ADV		2	mod	2	mod
+8	dans	dans	P	P		2	mod	2	mod
+9	l'	le	DET	DET	n=s	10	det	10	det
+10	archipel	archipel	NC	NC	n=s|g=m	8	prep	8	prep
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	sur	sur	P	P		2	mod	2	mod
+13	une	une	DET	DET	n=s|g=f	14	det	14	det
+14	zone	zone	NC	NC	n=s|g=f	12	prep	12	prep
+15	plus	plus	ADV	ADV		16	mod	16	mod
+16	étendue	étendre	VPP	VPP	n=s|g=f|t=K	14	mod	14	mod
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	d'	de	P	P		2	mod	2	mod
+19	où	où	PROREL	PROREL		21	mod	21	mod
+20	il	il	CLS	CLS	n=s|g=m|p=3	21	suj	21	suj
+21	semble	sembler	V	V	n=s|t=P,S|p=1,3	2	mod	2	mod
+22	avoir	avoir	VINF	VINF	t=W	21	obj	21	obj
+23	disparu	disparaître	VPP	VPP	n=s|g=m|t=K	22	dep	22	dep
+24	...	...	PONCT	PONCT		23	ponct	23	ponct
+
+1	Ou	ou	CC	CC		0	root	0	root
+2	peut-être	peut-être	ADV	ADV		3	mod	3	mod
+3	pas	pas	ADV	ADV		5	mod	5	mod
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	d'	de	P	P		1	dep_coord	1	dep_coord
+6	ailleurs	ailleurs	ADV	ADV		5	mod	5	mod
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	car	car	CS	CS		0	_	0	_
+9	le	le	DET	DET	n=s|g=m	10	det	10	det
+10	fait	fait	NC	NC	n=s|g=m	20	suj	20	suj
+11	que	que	PROREL	PROREL		17	obj	17	obj
+12	l'	le	DET	DET	n=s	13	det	13	det
+13	on	on	CLS	CLS	n=s|p=3	17	suj	17	suj
+14	ait	avoir	VS	VS	n=s|t=S|p=3	17	aux_pass	17	aux_pass
+15	pas	pas	ADV	ADV		16	mod	16	mod
+16	encore	encore	ADV	ADV		17	mod	17	mod
+17	trouvé	trouver	VPP	VPP	n=s|g=m|t=K	10	mod_rel	10	mod_rel
+18	d'	de	P	P		17	mod	17	mod
+19	iguane	iguane	NC	NC	n=s|g=m	18	prep	18	prep
+20	rose	roser	V	V	n=s|t=P,S|p=1,3	8	sub	8	sub
+21	ailleurs	ailleurs	ADV	ADV		20	mod	20	mod
+22	dans	dans	P	P		20	mod	20	mod
+23	les	les	DET	DET	n=p	24	det	24	det
+24	Galápagos	_	NPP	NPP		22	prep	22	prep
+25	ne	ne	ADV	ADV		26	mod	26	mod
+26	veut	vouloir	V	V	n=s|t=P|p=3	20	mod	20	mod
+27	pas	pas	ADV	ADV		26	mod	26	mod
+28	dire	dire	VINF	VINF	t=W	26	obj	26	obj
+29	qu'	que	CS	CS		28	obj	28	obj
+30	il	il	CLS	CLS	n=s|g=m|p=3	34	suj	34	suj
+31	n'	ne	ADV	ADV		34	mod	34	mod
+32	y	y	CLO	CLO		34	aff	34	aff
+33	en	en	CLO	CLO		34	aff	34	aff
+34	ait	avoir	VS	VS	n=s|t=S|p=3	29	sub	29	sub
+35	pas	pas	ADV	ADV		34	mod	34	mod
+36	...	...	PONCT	PONCT		35	ponct	35	ponct
+

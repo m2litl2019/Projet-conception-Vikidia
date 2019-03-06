@@ -1,0 +1,633 @@
+<p>
+1	Felis	_	NPP	NPP		0	_	0	_
+2	margarita	_	NPP	NPP		1	mod	1	mod
+
+</p><h2>
+1	Description	description	NC	NC	n=s|g=f	0	_	0	_
+
+</h2><p>
+1	�	_	ADV	ADV		8	mod	8	mod
+2	la	la	DET	DET	n=s|g=f	3	det	3	det
+3	mani�re	_	NC	NC		8	suj	8	suj
+4	du	de	P+D	P+D	n=s|g=m	3	dep	3	dep
+5	fennec	fennec	NC	NC	n=s|g=m	4	prep	4	prep
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	qui	qui	PROREL	PROREL	n=s	8	suj	8	suj
+8	vit	vivre	V	V	n=s|t=P|p=3	0	root	0	root
+9	dans	dans	P	P		8	mod	8	mod
+10	les	les	DET	DET	n=p	12	det	12	det
+11	m�mes	_	ADJ	ADJ		12	mod	12	mod
+12	milieux	milieu	NC	NC	n=p|g=m	9	prep	9	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	le	le	DET	DET	n=s|g=m	15	det	15	det
+15	chat	chat	NC	NC	n=s|g=m	18	suj	18	suj
+16	des	de	P+D	P+D	n=p	15	dep	15	dep
+17	sables	sable	NC	NC	n=p|g=m	16	prep	16	prep
+18	est	être	V	V	n=s|t=P|p=3	8	mod	8	mod
+19	un	un	DET	DET	n=s|g=m	20	det	20	det
+20	animal	animal	NC	NC	n=s|g=m	18	obj	18	obj
+21	tr�s	_	ADV	ADV		20	mod	20	mod
+22	bien	bien	ADV	ADV		23	mod	23	mod
+23	adapt�	_	ADJ	ADJ		20	mod	20	mod
+24	au	à	P+D	P+D	n=s|g=m	18	mod	18	mod
+25	d�sert	_	NPP	NPP		24	prep	24	prep
+26	.	.	PONCT	PONCT		25	ponct	25	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	pr�sente	_	V	V		0	root	0	root
+3	quelques	quelques	DET	DET	n=p	4	det	4	det
+4	diff�rences	_	NC	NC		2	obj	2	obj
+5	avec	avec	P	P		2	mod	2	mod
+6	les	les	DET	DET	n=p	8	det	8	det
+7	autres	autre	ADJ	ADJ	n=p	8	mod	8	mod
+8	esp�ces	_	NC	NC		5	prep	5	prep
+9	de	de	P	P		2	mod	2	mod
+10	chat	chat	NC	NC	n=s|g=m	9	prep	9	prep
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	qui	qui	PROREL	PROREL	n=s	14	suj	14	suj
+13	lui	lui	CLO	CLO	n=s|p=3	14	a_obj	14	a_obj
+14	permettent	permettre	V	V	n=p|t=P,S|p=3	2	mod	2	mod
+15	de	de	P	P		14	obj	14	obj
+16	supporter	supporter	VINF	VINF	t=W	15	prep	15	prep
+17	les	les	DET	DET	n=p	18	det	18	det
+18	contraintes	contrainte	NC	NC	n=p|g=f	16	obj	16	obj
+19	du	de	P+D	P+D	n=s|g=m	18	dep	18	dep
+20	d�sert	_	NPP	NPP		19	prep	19	prep
+21	.	.	PONCT	PONCT		20	ponct	20	ponct
+
+</p><p>
+1	Ainsi	ainsi	ADV	ADV		4	mod	4	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	il	il	CLS	CLS	n=s|g=m|p=3	4	suj	4	suj
+4	a	avoir	V	V	n=s|t=P|p=3	0	root	0	root
+5	des	des	DET	DET	n=p	6	det	6	det
+6	oreilles	oreille	NC	NC	n=p|g=f	4	obj	4	obj
+7	proportionnellement	_	ADV	ADV		4	mod	4	mod
+8	beaucoup	beaucoup	ADV	ADV		4	mod	4	mod
+9	plus	plus	ADV	ADV		10	mod	10	mod
+10	grandes	grand	ADJ	ADJ	n=p|g=f	0	_	0	_
+11	que	que	CS	CS		10	dep	10	dep
+12	les	les	DET	DET	n=p	14	det	14	det
+13	autres	autre	ADJ	ADJ	n=p	14	mod	14	mod
+14	f�lins	_	NC	NC		11	sub	11	sub
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	ce	ce	PRO	PRO	n=s	14	mod	14	mod
+17	qui	qui	PROREL	PROREL	n=s	19	suj	19	suj
+18	lui	lui	CLO	CLO	n=s|p=3	19	a_obj	19	a_obj
+19	permet	permettre	V	V	n=s|t=P|p=3	16	mod_rel	16	mod_rel
+20	non	non	ADV	ADV		19	mod	19	mod
+21	seulement	_	ADV	ADV		19	mod	19	mod
+22	de	de	P	P		19	mod	19	mod
+23	mieux	mieux	ADV	ADV		24	mod	24	mod
+24	entendre	entendre	VINF	VINF	t=W	22	prep	22	prep
+25	,	,	PONCT	PONCT		24	ponct	24	ponct
+26	mais	mais	CC	CC		22	coord	22	coord
+27	aussi	aussi	ADV	ADV		26	mod	26	mod
+28	d'	de	P	P		26	dep_coord	26	dep_coord
+29	�vacuer	_	VINF	VINF		28	prep	28	prep
+30	la	la	DET	DET	n=s|g=f	31	det	31	det
+31	chaleur	chaleur	NC	NC	n=s|g=f	29	obj	29	obj
+32	de	de	P	P		31	dep	31	dep
+33	son	son	DET	DET	n=s|g=m|p=3|poss=s	34	det	34	det
+34	corps	corps	NC	NC	g=m	32	prep	32	prep
+35	.	.	PONCT	PONCT		34	ponct	34	ponct
+
+1	A	à	P	P		11	mod	11	mod
+2	l'	le	DET	DET	n=s	3	det	3	det
+3	int�rieur	_	NC	NC		1	prep	1	prep
+4	de	de	P	P		3	dep	3	dep
+5	l'	le	DET	DET	n=s	6	det	6	det
+6	oreille	oreille	NC	NC	n=s|g=f	4	prep	4	prep
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	son	son	DET	DET	n=s|g=m|p=3|poss=s	9	det	9	det
+9	conduit	conduit	NC	NC	n=s|g=m	11	suj	11	suj
+10	auditif	auditif	ADJ	ADJ	n=s|g=m	9	mod	9	mod
+11	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+12	�galement	_	ADV	ADV		11	mod	11	mod
+13	plus	plus	ADV	ADV		14	mod	14	mod
+14	d�velopp�	_	ADV	ADV		11	mod	11	mod
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	lui	lui	PRO	PRO	n=s|g=m|p=3	11	mod	11	mod
+17	conf�rant	_	ADV	ADV		11	mod	11	mod
+18	une	une	DET	DET	n=s|g=f	19	det	19	det
+19	ou�e	_	NC	NC		11	obj	11	obj
+20	bien	bien	ADV	ADV		21	mod	21	mod
+21	meilleure	meilleur	ADJ	ADJ	n=s|g=f	19	mod	19	mod
+22	que	que	CS	CS		11	mod	11	mod
+23	les	les	DET	DET	n=p	25	det	25	det
+24	autres	autre	ADJ	ADJ	n=p	25	mod	25	mod
+25	f�lins	_	NC	NC		0	_	0	_
+26	.	.	PONCT	PONCT		25	ponct	25	ponct
+
+</p><p>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	coussinets	coussinet	NC	NC	n=p|g=m	7	suj	7	suj
+3	de	de	P	P		2	dep	2	dep
+4	ses	ses	DET	DET	n=p|p=3|poss=s	5	det	5	det
+5	pattes	patte	NC	NC	n=p|g=f	3	prep	3	prep
+6	sont	être	V	V	n=p|t=P|p=3	7	aux_pass	7	aux_pass
+7	recouverts	recouvrir	VPP	VPP	n=p|g=m|t=K	0	root	0	root
+8	d'	de	P	P		7	mod	7	mod
+9	une	une	DET	DET	n=s|g=f	11	det	11	det
+10	�paisse	_	ADJ	ADJ		11	mod	11	mod
+11	fourrure	fourrure	NC	NC	n=s|g=f	8	prep	8	prep
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	qui	qui	PROREL	PROREL	n=s	15	suj	15	suj
+14	lui	lui	CLO	CLO	n=s|p=3	15	a_obj	15	a_obj
+15	permet	permettre	V	V	n=s|t=P|p=3	7	mod	7	mod
+16	de	de	P	P		15	mod	15	mod
+17	se	se	CLR	CLR	n=p,s|p=3	18	aff	18	aff
+18	d�placer	_	VINF	VINF		16	prep	16	prep
+19	silencieusement	_	ADV	ADV		18	mod	18	mod
+20	dans	dans	P	P		18	mod	18	mod
+21	le	le	DET	DET	n=s|g=m	22	det	22	det
+22	sable	sable	NC	NC	n=s|g=m	20	prep	20	prep
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	mais	mais	CC	CC		7	coord	7	coord
+25	�galement	_	ADV	ADV		24	mod	24	mod
+26	de	de	P	P		24	dep_coord	24	dep_coord
+27	ne	ne	ADV	ADV		29	mod	29	mod
+28	jamais	jamais	ADV	ADV		29	mod	29	mod
+29	toucher	toucher	VINF	VINF	t=W	26	prep	26	prep
+30	le	le	DET	DET	n=s|g=m	31	det	31	det
+31	sable	sable	NC	NC	n=s|g=m	29	obj	29	obj
+32	br�lant	_	ADJ	ADJ		31	mod	31	mod
+33	directement	_	ADV	ADV		34	mod	34	mod
+34	avec	avec	P	P		29	mod	29	mod
+35	la	la	DET	DET	n=s|g=f	36	det	36	det
+36	peau	peau	NC	NC	n=s|g=f	34	prep	34	prep
+37	de	de	P	P		29	mod	29	mod
+38	ses	ses	DET	DET	n=p|p=3|poss=s	39	det	39	det
+39	coussinets	coussinet	NC	NC	n=p|g=m	37	prep	37	prep
+40	:	:	PONCT	PONCT		39	ponct	39	ponct
+41	bien	bien	ADV	ADV		42	mod	42	mod
+42	prot�g�	_	VPP	VPP		29	mod	29	mod
+43	par	par	P	P		42	mod	42	mod
+44	ses	ses	DET	DET	n=p|p=3|poss=s	45	det	45	det
+45	poils	poil	NC	NC	n=p|g=m	43	prep	43	prep
+46	,	,	PONCT	PONCT		45	ponct	45	ponct
+47	il	il	CLS	CLS	n=s|g=m|p=3	48	suj	48	suj
+48	est	être	V	V	n=s|t=P|p=3	7	mod	7	mod
+49	�	_	ADV	ADV		48	mod	48	mod
+50	l'	le	DET	DET	n=s	51	det	51	det
+51	abri	abri	NC	NC	n=s|g=m	48	obj	48	obj
+52	de	de	P	P		51	dep	51	dep
+53	la	la	DET	DET	n=s|g=f	54	det	54	det
+54	chaleur	chaleur	NC	NC	n=s|g=f	52	prep	52	prep
+55	.	.	PONCT	PONCT		54	ponct	54	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	peut	pouvoir	V	V	n=s|t=P|p=3	0	root	0	root
+3	marcher	marcher	VINF	VINF	t=W	2	obj	2	obj
+4	tr�s	_	ADV	ADV		5	mod	5	mod
+5	longtemps	longtemps	ADV	ADV		3	mod	3	mod
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	mais	mais	CC	CC		2	coord	2	coord
+8	ne	ne	ADV	ADV		9	mod	9	mod
+9	court	courir	V	V	n=s|t=P|p=3	7	dep_coord	7	dep_coord
+10	pas	pas	ADV	ADV		9	mod	9	mod
+11	tr�s	_	ADV	ADV		9	mod	9	mod
+12	vite	vite	ADV	ADV		9	mod	9	mod
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	et	et	CC	CC		9	coord	9	coord
+15	ne	ne	ADV	ADV		16	mod	16	mod
+16	saute	sauter	V	V	n=s|t=P,S|p=1,3	14	dep_coord	14	dep_coord
+17	pas	pas	ADV	ADV		16	mod	16	mod
+18	tr�s	_	ADV	ADV		16	mod	16	mod
+19	bien	bien	ADV	ADV		16	mod	16	mod
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+1	Face	face	NC	NC	n=s|g=f	10	mod	10	mod
+2	�	_	NPP	NPP		1	mod	1	mod
+3	un	un	DET	DET	n=s|g=m	4	det	4	det
+4	danger	danger	NC	NC	n=s|g=m	1	mod	1	mod
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	il	il	CLS	CLS	n=s|g=m|p=3	10	suj	10	suj
+7	pr�f�re	_	ADV	ADV		10	mod	10	mod
+8	souvent	souvent	ADV	ADV		10	mod	10	mod
+9	se	se	CLR	CLR	n=p,s|p=3	10	aff	10	aff
+10	cacher	cacher	VINF	VINF	t=W	0	root	0	root
+11	que	que	CS	CS		10	obj	10	obj
+12	d'	de	P	P		0	_	0	_
+13	essayer	essayer	VINF	VINF	t=W	12	prep	12	prep
+14	de	de	P	P		13	mod	13	mod
+15	s'	se	CLR	CLR	n=p,s|p=3	16	aff	16	aff
+16	enfuir	enfuir	VINF	VINF	t=W	14	prep	14	prep
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	3	suj	3	suj
+2	n'	ne	ADV	ADV		3	mod	3	mod
+3	aime	aimer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	pas	pas	ADV	ADV		3	mod	3	mod
+5	grimper	grimper	VINF	VINF	t=W	3	obj	3	obj
+6	aux	à	P+D	P+D	n=p	5	mod	5	mod
+7	arbres	arbre	NC	NC	n=p|g=m	6	prep	6	prep
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	et	et	CC	CC		3	coord	3	coord
+10	pr�f�re	_	NC	NC		12	suj	12	suj
+11	se	se	CLR	CLR	n=p,s|p=3	12	aff	12	aff
+12	cacher	cacher	VINF	VINF	t=W	9	dep_coord	9	dep_coord
+13	dans	dans	P	P		12	mod	12	mod
+14	les	les	DET	DET	n=p	15	det	15	det
+15	herbes	herbe	NC	NC	n=p|g=f	13	prep	13	prep
+16	ou	ou	CC	CC		12	coord	12	coord
+17	les	les	DET	DET	n=p	18	det	18	det
+18	buissons	buisson	NC	NC	n=p|g=m	16	dep_coord	16	dep_coord
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	Sa	sa	DET	DET	n=s|g=f|p=3|poss=s	2	det	2	det
+2	fourrure	fourrure	NC	NC	n=s|g=f	11	suj	11	suj
+3	de	de	P	P		2	dep	2	dep
+4	couleur	couleur	NC	NC	n=s|g=f	3	prep	3	prep
+5	beige	beige	ADJ	ADJ	n=s	4	mod	4	mod
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	avec	avec	P	P		2	dep	2	dep
+8	quelques	quelques	DET	DET	n=p	9	det	9	det
+9	rayures	rayure	NC	NC	n=p|g=f	7	prep	7	prep
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+12	un	un	DET	DET	n=s|g=m	14	det	14	det
+13	excellent	excellent	ADJ	ADJ	n=s|g=m	14	mod	14	mod
+14	camouflage	camouflage	NC	NC	n=s|g=m	11	obj	11	obj
+15	dans	dans	P	P		11	mod	11	mod
+16	le	le	DET	DET	n=s|g=m	17	det	17	det
+17	sable	sable	NC	NC	n=s|g=m	15	prep	15	prep
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+</p><h2>
+1	Mode	mode	NC	NC	n=s	0	_	0	_
+2	de	de	P	P		1	dep	1	dep
+3	vie	vie	NC	NC	n=s|g=f	2	prep	2	prep
+
+</h2><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	chat	chat	NC	NC	n=s|g=m	5	suj	5	suj
+3	des	de	P+D	P+D	n=p	2	dep	2	dep
+4	sables	sable	NC	NC	n=p|g=m	3	prep	3	prep
+5	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+6	un	un	DET	DET	n=s|g=m	7	det	7	det
+7	animal	animal	NC	NC	n=s|g=m	5	obj	5	obj
+8	nocturne	nocturne	ADJ	ADJ	n=s	7	mod	7	mod
+9	:	:	PONCT	PONCT		8	ponct	8	ponct
+10	pour	pour	P	P		5	mod	5	mod
+11	se	se	CLR	CLR	n=p,s|p=3	12	aff	12	aff
+12	prot�ger	_	VINF	VINF		10	prep	10	prep
+13	de	de	P	P		12	mod	12	mod
+14	la	la	DET	DET	n=s|g=f	15	det	15	det
+15	chaleur	chaleur	NC	NC	n=s|g=f	13	prep	13	prep
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	il	il	CLS	CLS	n=s|g=m|p=3	18	suj	18	suj
+18	passe	passer	V	V	n=s|t=P,S|p=1,3	5	mod	5	mod
+19	toute	tout	ADJ	ADJ	n=s|g=f	18	mod	18	mod
+20	la	la	DET	DET	n=s|g=f	21	det	21	det
+21	journ�e	_	NC	NC		18	obj	18	obj
+22	�	_	ADV	ADV		18	mod	18	mod
+23	l'	le	DET	DET	n=s	24	det	24	det
+24	abri	abri	NC	NC	n=s|g=m	18	obj	18	obj
+25	dans	dans	P	P		18	mod	18	mod
+26	un	un	DET	DET	n=s|g=m	27	det	27	det
+27	terrier	terrier	NC	NC	n=s|g=m	25	prep	25	prep
+28	,	,	PONCT	PONCT		27	ponct	27	ponct
+29	et	et	CC	CC		18	coord	18	coord
+30	n'	ne	ADV	ADV		0	_	0	_
+31	en	en	P	P		0	_	0	_
+32	sort	sort	NC	NC	n=s|g=m	31	prep	31	prep
+33	que	que	CS	CS		32	dep	32	dep
+34	la	la	DET	DET	n=s|g=f	35	det	35	det
+35	nuit	nuit	NC	NC	n=s|g=f	0	_	0	_
+36	,	,	PONCT	PONCT		35	ponct	35	ponct
+37	pour	pour	P	P		35	dep	35	dep
+38	chasser	chasser	VINF	VINF	t=W	37	prep	37	prep
+39	.	.	PONCT	PONCT		38	ponct	38	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	0	_	0	_
+2	r�cup�re	_	ADV	ADV		3	mod	3	mod
+3	parfois	parfois	ADV	ADV		0	_	0	_
+4	le	le	DET	DET	n=s|g=m	5	det	5	det
+5	terrier	terrier	NC	NC	n=s|g=m	0	_	0	_
+6	abandonn�	_	NC	NC		5	mod	5	mod
+7	d'	de	P	P		5	dep	5	dep
+8	un	un	DET	DET	n=s|g=m	9	det	9	det
+9	fennec	fennec	NC	NC	n=s|g=m	7	prep	7	prep
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	ou	ou	CC	CC		5	coord	5	coord
+12	bien	bien	ADV	ADV		11	mod	11	mod
+13	il	il	CLS	CLS	n=s|g=m|p=3	14	suj	14	suj
+14	peut	pouvoir	V	V	n=s|t=P|p=3	11	dep_coord	11	dep_coord
+15	agrandir	agrandir	VINF	VINF	t=W	14	obj	14	obj
+16	celui	celui	PRO	PRO	n=s|g=m	15	obj	15	obj
+17	d'	de	P	P		15	mod	15	mod
+18	un	un	DET	DET	n=s|g=m	19	det	19	det
+19	rongeur	rongeur	NC	NC	n=s|g=m	17	prep	17	prep
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+1	Dans	dans	P	P		11	mod	11	mod
+2	les	les	DET	DET	n=p	3	det	3	det
+3	r�gions	_	NC	NC		1	prep	1	prep
+4	rocheuses	rocheux	ADJ	ADJ	n=p|g=f	3	mod	3	mod
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	le	le	DET	DET	n=s|g=m	7	det	7	det
+7	chat	chat	NC	NC	n=s|g=m	11	suj	11	suj
+8	des	de	P+D	P+D	n=p	7	dep	7	dep
+9	sables	sable	NC	NC	n=p|g=m	8	prep	8	prep
+10	ne	ne	ADV	ADV		11	mod	11	mod
+11	peut	pouvoir	V	V	n=s|t=P|p=3	0	root	0	root
+12	pas	pas	ADV	ADV		11	mod	11	mod
+13	creuser	creuser	VINF	VINF	t=W	11	obj	11	obj
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	et	et	CC	CC		11	coord	11	coord
+16	il	il	CLS	CLS	n=s|g=m|p=3	18	suj	18	suj
+17	se	se	CLR	CLR	n=p,s|p=3	18	aff	18	aff
+18	r�fugie	_	V	V		15	dep_coord	15	dep_coord
+19	alors	alors	ADV	ADV		18	mod	18	mod
+20	pour	pour	P	P		18	mod	18	mod
+21	la	la	DET	DET	n=s|g=f	22	det	22	det
+22	journ�e	_	NC	NC		20	prep	20	prep
+23	dans	dans	P	P		18	mod	18	mod
+24	un	un	DET	DET	n=s|g=m	25	det	25	det
+25	trou	trou	NC	NC	n=s|g=m	23	prep	23	prep
+26	entre	entre	P	P		18	mod	18	mod
+27	deux	deux	DET	DET	s=card|n=p	28	det	28	det
+28	rochers	rocher	NC	NC	n=p|g=m	26	prep	26	prep
+29	.	.	PONCT	PONCT		28	ponct	28	ponct
+
+</p><p>
+1	C'	ce	CLS	CLS		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	un	un	DET	DET	n=s|g=m	5	det	5	det
+4	petit	petit	ADJ	ADJ	n=s|g=m	5	mod	5	mod
+5	pr�dateur	_	NC	NC		2	obj	2	obj
+6	carnivore	carnivore	ADJ	ADJ	n=s	5	mod	5	mod
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	qui	qui	PROREL	PROREL	n=s	9	suj	9	suj
+9	chasse	chasser	V	V	n=s|t=P,S|p=1,3	5	mod_rel	5	mod_rel
+10	toutes	toutes	DET	DET	n=p|g=f	11	det	11	det
+11	sortes	sorte	NC	NC	n=p|g=f	9	obj	9	obj
+12	de	de	P	P		11	dep	11	dep
+13	proies	proie	NC	NC	n=p|g=f	12	prep	12	prep
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	principalement	_	ADV	ADV		9	mod	9	mod
+16	des	des	DET	DET	n=p	17	det	17	det
+17	rongeurs	rongeur	NC	NC	n=p|g=m	9	obj	9	obj
+18	comme	comme	P	P		9	mod	9	mod
+19	les	les	DET	DET	n=p	20	det	20	det
+20	souris	souris	NC	NC	g=f	18	prep	18	prep
+21	�pineuses	_	ADJ	ADJ		20	mod	20	mod
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+23	les	les	DET	DET	n=p	24	det	24	det
+24	gerbilles	gerbille	NC	NC	n=p|g=f	9	obj	9	obj
+25	ou	ou	CC	CC		24	coord	24	coord
+26	les	les	DET	DET	n=p	27	det	27	det
+27	gerboises1	_	NC	NC		25	dep_coord	25	dep_coord
+28	.	.	PONCT	PONCT		27	ponct	27	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	poss�de	_	V	V		0	root	0	root
+3	de	de	DET	DET	n=p	5	det	5	det
+4	grandes	grand	ADJ	ADJ	n=p|g=f	5	mod	5	mod
+5	oreilles	oreille	NC	NC	n=p|g=f	2	obj	2	obj
+6	touffues	touffu	ADJ	ADJ	n=p|g=f	5	mod	5	mod
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	tr�s	_	ADV	ADV		9	mod	9	mod
+9	sensibles	sensible	ADJ	ADJ	n=p	5	mod	5	mod
+10	au	à	P+D	P+D	n=s|g=m	2	mod	2	mod
+11	bruit	bruit	NC	NC	n=s|g=m	10	prep	10	prep
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	et	et	CC	CC		2	coord	2	coord
+14	rep�re	_	NC	NC		13	dep_coord	13	dep_coord
+15	principalement	_	ADV	ADV		14	mod	14	mod
+16	ses	ses	DET	DET	n=p|p=3|poss=s	17	det	17	det
+17	proies	proie	NC	NC	n=p|g=f	14	mod	14	mod
+18	�	_	ADV	ADV		17	mod	17	mod
+19	l'	le	DET	DET	n=s	20	det	20	det
+20	ou�e	_	NC	NC		17	mod	17	mod
+21	:	:	PONCT	PONCT		20	ponct	20	ponct
+22	quand	quand	CS	CS		2	mod	2	mod
+23	il	il	CLS	CLS	n=s|g=m|p=3	24	suj	24	suj
+24	pense	penser	V	V	n=s|t=P,S|p=1,3	22	sub	22	sub
+25	avoir	avoir	VINF	VINF	t=W	24	obj	24	obj
+26	rep�rer	_	NPP	NPP		25	obj	25	obj
+27	un	un	DET	DET	n=s|g=m	28	det	28	det
+28	terrier	terrier	NC	NC	n=s|g=m	25	mod	25	mod
+29	de	de	P	P		28	dep	28	dep
+30	gerbille	gerbille	NC	NC	n=s|g=f	29	prep	29	prep
+31	,	,	PONCT	PONCT		30	ponct	30	ponct
+32	il	il	CLS	CLS	n=s|g=m|p=3	33	suj	33	suj
+33	plaque	plaquer	V	V	n=s|t=P,S|p=1,3	22	root	22	root
+34	son	son	DET	DET	n=s|g=m|p=3|poss=s	35	det	35	det
+35	oreille	oreille	NC	NC	n=s|g=f	33	obj	33	obj
+36	contre	contre	P	P		33	mod	33	mod
+37	le	le	DET	DET	n=s|g=m	38	det	38	det
+38	sol	_	NC	NC		36	prep	36	prep
+39	,	,	PONCT	PONCT		38	ponct	38	ponct
+40	pour	pour	P	P		33	mod	33	mod
+41	essayer	essayer	VINF	VINF	t=W	40	prep	40	prep
+42	d'	de	P	P		41	mod	41	mod
+43	entendre	entendre	VINF	VINF	t=W	42	prep	42	prep
+44	ce	ce	PRO	PRO	n=s	43	obj	43	obj
+45	qui	qui	PROREL	PROREL	n=s	47	suj	47	suj
+46	se	se	CLR	CLR	n=p,s|p=3	47	aff	47	aff
+47	passe	passer	V	V	n=s|t=P,S|p=1,3	44	mod_rel	44	mod_rel
+48	�	_	ADV	ADV		47	mod	47	mod
+49	l'	le	DET	DET	n=s	50	det	50	det
+50	int�rieur	_	NC	NC		47	obj	47	obj
+51	.	.	PONCT	PONCT		50	ponct	50	ponct
+
+1	S'	se	CLR	CLR	n=p,s|p=3	0	_	0	_
+2	il	il	CLS	CLS	n=s|g=m|p=3	0	_	0	_
+3	entend	entendre	V	V	n=s|t=P|p=3	0	_	0	_
+4	quelque	quelque	ADJ	ADJ	n=s	5	mod	5	mod
+5	chose	chose	NC	NC	n=s|g=f	3	obj	3	obj
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	il	il	CLS	CLS	n=s|g=m|p=3	9	suj	9	suj
+8	se	se	CLR	CLR	n=p,s|p=3	9	aff	9	aff
+9	met	mettre	V	V	n=s|t=P|p=3	3	mod	3	mod
+10	alors	alors	ADV	ADV		9	mod	9	mod
+11	�	_	ADV	ADV		9	mod	9	mod
+12	creuser	creuser	VINF	VINF	t=W	9	obj	9	obj
+13	le	le	DET	DET	n=s|g=m	14	det	14	det
+14	sol	_	NC	NC		12	obj	12	obj
+15	�	_	ADV	ADV		12	mod	12	mod
+16	toute	toute	DET	DET	n=s|g=f	17	det	17	det
+17	vitesse	vitesse	NC	NC	n=s|g=f	12	obj	12	obj
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	pour	pour	P	P		9	mod	9	mod
+20	attraper	attraper	VINF	VINF	t=W	19	prep	19	prep
+21	la	la	DET	DET	n=s|g=f	22	det	22	det
+22	gerbille	gerbille	NC	NC	n=s|g=f	20	obj	20	obj
+23	et	et	CC	CC		20	coord	20	coord
+24	la	la	CLO	CLO	n=s|g=f|p=3	25	obj	25	obj
+25	manger	manger	VINF	VINF	t=W	23	dep_coord	23	dep_coord
+26	.	.	PONCT	PONCT		25	ponct	25	ponct
+
+</p><p>
+1	Mais	mais	CC	CC		0	root	0	root
+2	il	il	CLS	CLS	n=s|g=m|p=3	3	suj	3	suj
+3	chasse	chasser	V	V	n=s|t=P,S|p=1,3	1	dep_coord	1	dep_coord
+4	aussi	aussi	ADV	ADV		3	mod	3	mod
+5	toutes	toutes	DET	DET	n=p|g=f	6	det	6	det
+6	sortes	sorte	NC	NC	n=p|g=f	3	obj	3	obj
+7	d'	de	P	P		6	dep	6	dep
+8	animaux	animal	NC	NC	n=p|g=m	7	prep	7	prep
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	la	la	DET	DET	n=s|g=f	11	det	11	det
+11	nourriture	nourriture	NC	NC	n=s|g=f	0	_	0	_
+12	�tant	_	ADV	ADV		13	mod	13	mod
+13	assez	assez	ADV	ADV		14	mod	14	mod
+14	rare	rare	ADJ	ADJ	n=s	11	mod	11	mod
+15	dans	dans	P	P		11	dep	11	dep
+16	son	son	DET	DET	n=s|g=m|p=3|poss=s	17	det	17	det
+17	milieu	milieu	NC	NC	n=s|g=m	15	prep	15	prep
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	comme	comme	CS	CS		11	mod	11	mod
+20	le	le	DET	DET	n=s|g=m	21	det	21	det
+21	li�vre	_	NC	NC		41	suj	41	suj
+22	du	de	P+D	P+D	n=s|g=m	21	dep	21	dep
+23	Cap	_	NPP	NPP		22	prep	22	prep
+24	,	,	PONCT	PONCT		23	ponct	23	ponct
+25	ou	ou	CC	CC		21	coord	21	coord
+26	des	des	DET	DET	n=p	27	det	27	det
+27	oiseaux	oiseau	NC	NC	n=p|g=m	25	dep_coord	25	dep_coord
+28	comme	comme	P	P		27	dep	27	dep
+29	le	le	DET	DET	n=s|g=m	30	det	30	det
+30	sirli	sirli	NC	NC	n=s|g=m	28	prep	28	prep
+31	du	de	P+D	P+D	n=s|g=m	30	dep	30	dep
+32	d�sert	_	NPP	NPP		31	prep	31	prep
+33	,	,	PONCT	PONCT		32	ponct	32	ponct
+34	ou	ou	CC	CC		27	coord	27	coord
+35	l'	le	DET	DET	n=s	36	det	36	det
+36	ammomane	_	NC	NC		34	dep_coord	34	dep_coord
+37	isabelline	_	NPP	NPP		36	mod	36	mod
+38	;	;	PONCT	PONCT		37	ponct	37	ponct
+39	il	il	CLS	CLS	n=s|g=m|p=3	41	suj	41	suj
+40	s'	se	CLR	CLR	n=p,s|p=3	41	aff	41	aff
+41	attaque	attaquer	V	V	n=s|t=P,S|p=1,3	19	sub	19	sub
+42	�galement	_	ADV	ADV		41	mod	41	mod
+43	aux	à	P+D	P+D	n=p	41	mod	41	mod
+44	araign�es	_	NC	NC		43	prep	43	prep
+45	,	,	PONCT	PONCT		44	ponct	44	ponct
+46	aux	à	P+D	P+D	n=p	41	mod	41	mod
+47	insectes	insecte	NC	NC	n=p|g=m	46	prep	46	prep
+48	,	,	PONCT	PONCT		47	ponct	47	ponct
+49	et	et	CC	CC		46	coord	46	coord
+50	aux	à	P+D	P+D	n=p	49	dep_coord	49	dep_coord
+51	reptiles	reptile	NC	NC	n=p|g=m	50	prep	50	prep
+52	,	,	PONCT	PONCT		51	ponct	51	ponct
+53	notamment	_	ADV	ADV		55	mod	55	mod
+54	les	les	DET	DET	n=p	55	det	55	det
+55	l�zards	_	NC	NC		41	obj	41	obj
+56	comme	comme	P	P		41	mod	41	mod
+57	les	les	DET	DET	n=p	58	det	58	det
+58	acanthodactyles	_	NC	NC		56	prep	56	prep
+59	ou	ou	CC	CC		41	coord	41	coord
+60	le	le	DET	DET	n=s|g=m	61	det	61	det
+61	poisson	poisson	NC	NC	n=s|g=m	59	dep_coord	59	dep_coord
+62	de	de	P	P		61	dep	61	dep
+63	sable	sable	NC	NC	n=s|g=m	62	prep	62	prep
+64	,	,	PONCT	PONCT		63	ponct	63	ponct
+65	mais	mais	CC	CC		61	coord	61	coord
+66	aussi	aussi	ADV	ADV		65	mod	65	mod
+67	les	les	DET	DET	n=p	69	det	69	det
+68	petits	petit	ADJ	ADJ	n=p|g=m	69	mod	69	mod
+69	geckos	gecko	NC	NC	n=p|g=m	65	dep_coord	65	dep_coord
+70	,	,	PONCT	PONCT		69	ponct	69	ponct
+71	le	le	DET	DET	n=s|g=m	72	det	72	det
+72	varan	varan	NC	NC	n=s|g=m	0	_	0	_
+73	du	de	P+D	P+D	n=s|g=m	72	dep	72	dep
+74	d�sert	_	NPP	NPP		73	prep	73	prep
+75	et	et	CC	CC		72	coord	72	coord
+76	m�me	_	ADV	ADV		75	mod	75	mod
+77	les	les	DET	DET	n=p	78	det	78	det
+78	serpents	serpent	NC	NC	n=p|g=m	75	dep_coord	75	dep_coord
+79	venimeux	venimeux	ADJ	ADJ	g=m	78	mod	78	mod
+80	,	,	PONCT	PONCT		79	ponct	79	ponct
+81	comme	comme	P	P		72	dep	72	dep
+82	la	la	DET	DET	n=s|g=f	83	det	83	det
+83	vip�re	_	NC	NC		81	prep	81	prep
+84	�	_	ADJ	ADJ		83	mod	83	mod
+85	cornes	corne	NC	NC	n=p|g=f	83	mod	83	mod
+86	ou	ou	CC	CC		72	coord	72	coord
+87	la	la	DET	DET	n=s|g=f	88	det	88	det
+88	vip�re	_	NC	NC		86	dep_coord	86	dep_coord
+89	du	de	P+D	P+D	n=s|g=m	72	dep	72	dep
+90	d�sert1	_	NC	NC		89	prep	89	prep
+91	:	:	PONCT	PONCT		90	ponct	90	ponct
+92	quand	quand	CS	CS		72	mod	72	mod
+93	il	il	CLS	CLS	n=s|g=m|p=3	103	suj	103	suj
+94	rep�re	_	NPP	NPP		103	suj	103	suj
+95	un	un	DET	DET	n=s|g=m	96	det	96	det
+96	serpent	serpent	NC	NC	n=s|g=m	94	mod	94	mod
+97	,	,	PONCT	PONCT		96	ponct	96	ponct
+98	le	le	DET	DET	n=s|g=m	99	det	99	det
+99	chat	chat	NC	NC	n=s|g=m	94	mod	94	mod
+100	des	de	P+D	P+D	n=p	99	dep	99	dep
+101	sables	sable	NC	NC	n=p|g=m	100	prep	100	prep
+102	l'	le	CLO	CLO	n=s|p=3	103	obj	103	obj
+103	assomme	assommer	V	V	n=s|t=P,S|p=1,3	92	sub	92	sub
+104	d'	de	P	P		103	mod	103	mod
+105	un	un	DET	DET	n=s|g=m	107	det	107	det
+106	grand	grand	ADJ	ADJ	n=s|g=m	107	mod	107	mod
+107	coup	coup	NC	NC	n=s|g=m	104	prep	104	prep
+108	de	de	P	P		103	mod	103	mod
+109	patte	patte	NC	NC	n=s|g=f	108	prep	108	prep
+110	�	_	ADV	ADV		109	mod	109	mod
+111	la	la	DET	DET	n=s|g=f	112	det	112	det
+112	t�te	_	NPP	NPP		103	mod	103	mod
+113	,	,	PONCT	PONCT		112	ponct	112	ponct
+114	puis	puis	CC	CC		103	coord	103	coord
+115	le	le	CLO	CLO	n=s|g=m|p=3	116	obj	116	obj
+116	mord	mordre	V	V	n=s|t=P|p=3	114	dep_coord	114	dep_coord
+117	au	à	P+D	P+D	n=s|g=m	116	mod	116	mod
+118	cou	cou	NC	NC	n=s|g=m	117	prep	117	prep
+119	pour	pour	P	P		116	mod	116	mod
+120	le	le	CLO	CLO	n=s|g=m|p=3	121	obj	121	obj
+121	tuer	tuer	VINF	VINF	t=W	119	prep	119	prep
+122	avant	avant	P	P		121	mod	121	mod
+123	d'	de	P	P		122	dep	122	dep
+124	avoir	avoir	VINF	VINF	t=W	125	aux_tps	125	aux_tps
+125	eu	avoir	VPP	VPP	n=s|g=m|t=K	123	prep	123	prep
+126	le	le	DET	DET	n=s|g=m	127	det	127	det
+127	temps	temps	NC	NC	g=m	125	obj	125	obj
+128	de	de	P	P		125	mod	125	mod
+129	se	se	CLR	CLR	n=p,s|p=3	131	obj	131	obj
+130	faire	faire	VINF	VINF	t=W	131	aux_caus	131	aux_caus
+131	mordre	mordre	VINF	VINF	t=W	128	prep	128	prep
+132	.	.	PONCT	PONCT		131	ponct	131	ponct
+
+</p><p>
+1	Il	il	CLS	CLS	n=s|g=m|p=3	3	suj	3	suj
+2	ne	ne	ADV	ADV		3	mod	3	mod
+3	boit	boire	V	V	n=s|t=P|p=3	0	root	0	root
+4	quasiment	_	ADV	ADV		3	mod	3	mod
+5	jamais	jamais	ADV	ADV		3	mod	3	mod
+6	:	:	PONCT	PONCT		5	ponct	5	ponct
+7	s'	se	CLR	CLR	n=p,s|p=3	10	aff	10	aff
+8	il	il	CLS	CLS	n=s|g=m|p=3	10	suj	10	suj
+9	ne	ne	ADV	ADV		10	mod	10	mod
+10	trouve	trouver	V	V	n=s|t=P,S|p=1,3	3	mod	3	mod
+11	pas	pas	ADV	ADV		10	mod	10	mod
+12	d'	de	P	P		10	mod	10	mod
+13	eau	eau	NC	NC	n=s|g=f	12	prep	12	prep
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	l'	le	DET	DET	n=s	16	det	16	det
+16	humidit�	_	NC	NC		10	mod	10	mod
+17	contenue	contenir	VPP	VPP	n=s|g=f|t=K	16	mod	16	mod
+18	dans	dans	P	P		17	mod	17	mod
+19	ses	ses	DET	DET	n=p|p=3|poss=s	20	det	20	det
+20	proies	proie	NC	NC	n=p|g=f	18	prep	18	prep
+21	lui	lui	CLO	CLO	n=s|p=3	22	obj	22	obj
+22	suffit	suffire	V	V	n=s|t=J,P|p=3	3	mod	3	mod
+23	pour	pour	P	P		22	mod	22	mod
+24	survivre	survivre	VINF	VINF	t=W	23	prep	23	prep
+25	.	.	PONCT	PONCT		24	ponct	24	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	ainsi	ainsi	ADV	ADV		2	mod	2	mod
+4	tr�s	_	ADV	ADV		2	mod	2	mod
+5	bien	bien	ADV	ADV		6	mod	6	mod
+6	adapt�	_	ADJ	ADJ		2	ats	2	ats
+7	au	à	P+D	P+D	n=s|g=m	2	mod	2	mod
+8	d�sert	_	NPP	NPP		7	prep	7	prep
+9	.	.	PONCT	PONCT		8	ponct	8	ponct
+

@@ -1,0 +1,2836 @@
+<p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	dôme	dôme	NC	NC	n=s|g=m	7	suj	7	suj
+3	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+4	Rocher	Rocher	NPP	NPP	n=s|g=m	3	prep	3	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	aussi	aussi	ADV	ADV		7	mod	7	mod
+7	appelé	appeler	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+8	la	la	DET	DET	n=s|g=f	9	det	9	det
+9	coupole	coupole	NC	NC	n=s|g=f	7	obj	7	obj
+10	du	de	P+D	P+D	n=s|g=m	9	dep	9	dep
+11	Rocher	Rocher	NPP	NPP	n=s|g=m	10	prep	10	prep
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	est	être	V	V	n=s|t=P|p=3	7	mod	7	mod
+14	une	une	DET	DET	n=s|g=f	15	det	15	det
+15	mosquée	mosquée	NC	NC	n=s|g=f	13	suj	13	suj
+16	musulmane	musulman	ADJ	ADJ	n=s|g=f	15	mod	15	mod
+17	qui	qui	PROREL	PROREL	n=s	20	suj	20	suj
+18	a	avoir	V	V	n=s|t=P|p=3	20	aux_tps	20	aux_tps
+19	été	être	VPP	VPP	t=K	20	aux_pass	20	aux_pass
+20	construite	construire	VPP	VPP	n=s|g=f|t=K	15	mod_rel	15	mod_rel
+21	sur	sur	P	P		20	mod	20	mod
+22	l'	le	DET	DET	n=s	23	det	23	det
+23	emplacement	emplacement	NC	NC	n=s|g=m	21	prep	21	prep
+24	de	de	P	P		20	mod	20	mod
+25	l'	le	DET	DET	n=s	27	det	27	det
+26	ancien	ancien	ADJ	ADJ	n=s|g=m	27	mod	27	mod
+27	Temple	Temple	NPP	NPP	n=s	24	prep	24	prep
+28	de	de	P	P		20	mod	20	mod
+29	Salomon	Salomon	NPP	NPP	n=s|g=m	28	prep	28	prep
+30	(	(	PONCT	PONCT		29	ponct	29	ponct
+31	détruit	détruire	VPP	VPP	n=s|g=m|t=K	20	dep	20	dep
+32	une	une	DET	DET	n=s|g=f	34	det	34	det
+33	deuxième	deuxième	ADJ	ADJ	n=s	34	mod	34	mod
+34	fois	fois	NC	NC	g=f	31	mod	31	mod
+35	en	en	P	P		31	mod	31	mod
+36	70	70	NC	NC		35	prep	35	prep
+37	par	par	P	P		31	mod	31	mod
+38	les	les	DET	DET	n=p	39	det	39	det
+39	Romains	romain	NC	NC	n=p|g=m	37	prep	37	prep
+40	de	de	P	P		39	dep	39	dep
+41	Titus	Titus	NPP	NPP	n=s|g=m	40	prep	40	prep
+42	)	)	PONCT	PONCT		41	ponct	41	ponct
+43	,	,	PONCT	PONCT		41	ponct	41	ponct
+44	à	à	P	P		31	mod	31	mod
+45	Jérusalem	Jérusalem	NPP	NPP	n=s|g=m	44	prep	44	prep
+46	.	.	PONCT	PONCT		45	ponct	45	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	3	suj	3	suj
+2	est	être	V	V	n=s|t=P|p=3	3	aux_pass	3	aux_pass
+3	considéré	considérer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+4	comme	comme	P	P		3	mod	3	mod
+5	le	le	DET	DET	n=s|g=m	7	det	7	det
+6	troisième	troisième	ADJ	ADJ	n=s	7	mod	7	mod
+7	lieu	lieu	NC	NC	n=s|g=m	4	prep	4	prep
+8	saint	saint	ADJ	ADJ	n=s|g=m	7	mod	7	mod
+9	de	de	P	P		3	mod	3	mod
+10	l'	le	DET	DET	n=s	11	det	11	det
+11	islam	islam	NC	NC	n=s|g=m	9	prep	9	prep
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	après	après	P	P		3	mod	3	mod
+14	la	la	DET	DET	n=s|g=f	15	det	15	det
+15	Mecque	_	NPP	NPP		13	prep	13	prep
+16	et	et	CC	CC		15	coord	15	coord
+17	Médine	_	NPP	NPP		16	dep_coord	16	dep_coord
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	en	en	P	P		3	mod	3	mod
+20	Arabie	Arabie	NPP	NPP	n=s|g=f	19	prep	19	prep
+21	saoudite	saoudite	ADJ	ADJ	n=s	20	mod	20	mod
+22	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+</p><p>
+1	Selon	selon	P	P		6	mod	6	mod
+2	la	la	DET	DET	n=s|g=f	3	det	3	det
+3	légende	légende	NC	NC	n=s|g=f	1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	c'	ce	CLS	CLS		6	suj	6	suj
+6	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+7	là	là	ADV	ADV		6	mod	6	mod
+8	que	que	CS	CS		6	mod	6	mod
+9	le	le	DET	DET	n=s|g=m	10	det	10	det
+10	prophète	prophète	NC	NC	n=s|g=m	13	suj	13	suj
+11	Mahomet	Mahomet	NPP	NPP	n=s|g=m	10	mod	10	mod
+12	aurait	avoir	V	V	n=s|t=C|p=3	13	aux_tps	13	aux_tps
+13	fait	faire	VPP	VPP	n=s|g=m|t=K	8	sub	8	sub
+14	son	son	DET	DET	n=s|g=m|p=3|poss=s	15	det	15	det
+15	voyage	voyage	NC	NC	n=s|g=m	13	obj	13	obj
+16	nocturne	nocturne	ADJ	ADJ	n=s	15	mod	15	mod
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	puis	puis	CC	CC		13	coord	13	coord
+19	son	son	DET	DET	n=s|g=m|p=3|poss=s	20	det	20	det
+20	élévation	élévation	NC	NC	n=s|g=f	18	dep_coord	18	dep_coord
+21	vers	vers	P	P		20	dep	20	dep
+22	les	les	DET	DET	n=p	23	det	23	det
+23	cieux	ciel	NC	NC	n=p|g=m	21	prep	21	prep
+24	.	.	PONCT	PONCT		23	ponct	23	ponct
+
+1	C'	ce	CLS	CLS		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	aussi	aussi	ADV	ADV		2	mod	2	mod
+4	sur	sur	P	P		2	mod	2	mod
+5	ce	ce	DET	DET	n=s|g=m	6	det	6	det
+6	rocher	rocher	NC	NC	n=s|g=m	4	prep	4	prep
+7	qu'	que	PROREL	PROREL		10	mod	10	mod
+8	Abraham	Abraham	NPP	NPP	n=s|g=m	10	suj	10	suj
+9	aurait	avoir	V	V	n=s|t=C|p=3	10	aux_tps	10	aux_tps
+10	failli	faillir	VPP	VPP	n=s|g=m|t=K	6	mod_rel	6	mod_rel
+11	sacrifier	sacrifier	VINF	VINF	t=W	10	obj	10	obj
+12	son	son	DET	DET	n=s|g=m|p=3|poss=s	13	det	13	det
+13	fils	fils	NC	NC	g=m	11	obj	11	obj
+14	Isaac	Isaac	NPP	NPP	n=s|g=m	13	mod	13	mod
+15	avant	avant	P	P		11	mod	11	mod
+16	qu'	que	CS	CS		15	prep	15	prep
+17	un	un	DET	DET	n=s|g=m	18	det	18	det
+18	ange	ange	NC	NC	n=s|g=m	21	suj	21	suj
+19	ne	ne	ADV	ADV		21	mod	21	mod
+20	l'	le	CLO	CLO	n=s|p=3	21	obj	21	obj
+21	arrête	arrêter	V	V	n=s|t=P,S|p=1,3	16	sub	16	sub
+22	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+</p><h2>
+1	Histoire	histoire	NC	NC	n=s|g=f	0	_	0	_
+
+</h2><p>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	mosquée	mosquée	NC	NC	n=s|g=f	4	suj	4	suj
+3	fut	être	V	V	n=s|t=J|p=3	4	aux_pass	4	aux_pass
+4	construite	construire	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+5	par	par	P	P		4	mod	4	mod
+6	le	le	DET	DET	n=s|g=m	7	det	7	det
+7	calife	calife	NC	NC	n=s|g=m	5	prep	5	prep
+8	omeyyade	_	ADJ	ADJ		7	mod	7	mod
+9	Abd	_	NPP	NPP		7	mod	7	mod
+10	al	_	NPP	NPP		7	mod	7	mod
+11	-	-	PONCT	PONCT		10	ponct	10	ponct
+12	Malik	Malik	NPP	NPP	n=s|g=m	7	mod	7	mod
+13	de	de	P	P		4	mod	4	mod
+14	691	691	NC	NC		13	prep	13	prep
+15	à	à	P	P		4	mod	4	mod
+16	692	692	NC	NC		15	prep	15	prep
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	c’	ce	DET	DET	n=s|g=m	19	det	19	det
+19	est-à-dire	_	NC	NC		4	mod	4	mod
+20	72	72	ADJ	ADJ		19	mod	19	mod
+21	ans	an	NC	NC	n=p|g=m	19	mod	19	mod
+22	après	après	P	P		4	mod	4	mod
+23	l'	le	DET	DET	n=s	24	det	24	det
+24	Hégire	_	NPP	NPP		22	prep	22	prep
+25	.	.	PONCT	PONCT		24	ponct	24	ponct
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	3	suj	3	suj
+2	est	être	V	V	n=s|t=P|p=3	3	aux_tps	3	aux_tps
+3	située	situer	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+4	sur	sur	P	P		3	mod	3	mod
+5	le	le	DET	DET	n=s|g=m	6	det	6	det
+6	harâm	_	NPP	NPP		4	prep	4	prep
+7	al-sharif	_	NPP	NPP		6	mod	6	mod
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	en	en	P	P		3	mod	3	mod
+10	face	face	NC	NC	n=s|g=f	9	prep	9	prep
+11	de	de	P	P		3	mod	3	mod
+12	la	la	DET	DET	n=s|g=f	13	det	13	det
+13	mosquée	mosquée	NC	NC	n=s|g=f	11	prep	11	prep
+14	Al-Aqsa	_	NPP	NPP		13	mod	13	mod
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	qui	qui	PROREL	PROREL	n=s	17	suj	17	suj
+17	est	être	V	V	n=s|t=P|p=3	13	mod_rel	13	mod_rel
+18	la	la	DET	DET	n=s|g=f	21	det	21	det
+19	plus	plus	ADV	ADV		20	mod	20	mod
+20	vieille	vieux	ADJ	ADJ	n=s|g=f	21	mod	21	mod
+21	mosquée	mosquée	NC	NC	n=s|g=f	17	obj	17	obj
+22	que	que	PROREL	PROREL		25	obj	25	obj
+23	l'	le	DET	DET	n=s	24	det	24	det
+24	on	on	CLS	CLS	n=s|p=3	25	suj	25	suj
+25	connaisse	connaître	VS	VS	n=s|t=S|p=1,3	21	mod_rel	21	mod_rel
+26	.	.	PONCT	PONCT		25	ponct	25	ponct
+
+1	Après	après	P	P		2	mod	2	mod
+2	qu'	que	CS	CS		0	root	0	root
+3	Hélène	Hélène	NPP	NPP	n=s|g=f	13	suj	13	suj
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	la	la	DET	DET	n=s|g=f	6	det	6	det
+6	mère	mère	NC	NC	n=s|g=f	3	mod	3	mod
+7	de	de	P	P		6	dep	6	dep
+8	l'	le	DET	DET	n=s	9	det	9	det
+9	empereur	empereur	NC	NC	n=s|g=m	7	prep	7	prep
+10	Constantin	Constantin	NPP	NPP	n=s|g=m	9	mod	9	mod
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	a	avoir	V	V	n=s|t=P|p=3	13	aux_tps	13	aux_tps
+13	découvert	découvrir	VPP	VPP	n=s|g=m|t=K	2	sub	2	sub
+14	la	la	DET	DET	n=s|g=f	15	det	15	det
+15	croix	croix	NC	NC	g=f	13	obj	13	obj
+16	de	de	P	P		13	mod	13	mod
+17	Jésus	_	NPP	NPP		16	prep	16	prep
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	les	les	DET	DET	n=p	20	det	20	det
+20	chrétiens	chrétien	NC	NC	n=p|g=m	21	suj	21	suj
+21	laissèrent	laisser	V	V	n=p|t=J|p=3	13	mod	13	mod
+22	à	à	P	P		21	mod	21	mod
+23	l'	le	DET	DET	n=s	24	det	24	det
+24	abandon	abandon	NC	NC	n=s|g=m	22	prep	22	prep
+25	cette	cette	DET	DET	n=s|g=f	26	det	26	det
+26	partie	partie	NC	NC	n=s|g=f	21	obj	21	obj
+27	de	de	P	P		21	mod	21	mod
+28	la	la	DET	DET	n=s|g=f	29	det	29	det
+29	ville	ville	NC	NC	n=s|g=f	27	prep	27	prep
+30	pour	pour	P	P		21	mod	21	mod
+31	se	se	CLR	CLR	n=p,s|p=3	32	aff	32	aff
+32	concentrer	concentrer	VINF	VINF	t=W	30	prep	30	prep
+33	sur	sur	P	P		32	mod	32	mod
+34	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	35	det	35	det
+35	partie	partie	NC	NC	n=s|g=f	33	prep	33	prep
+36	occidentale	occidental	ADJ	ADJ	n=s|g=f	35	mod	35	mod
+37	.	.	PONCT	PONCT		36	ponct	36	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	3	suj	3	suj
+2	est	être	V	V	n=s|t=P|p=3	3	aux_tps	3	aux_tps
+3	reconnu	reconnaître	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+4	que	que	CS	CS		3	obj	3	obj
+5	c'	ce	CLS	CLS		6	suj	6	suj
+6	est	être	V	V	n=s|t=P|p=3	4	sub	4	sub
+7	à	à	P	P		6	mod	6	mod
+8	cet	cet	DET	DET	n=s|g=m	9	det	9	det
+9	endroit	endroit	NC	NC	n=s|g=m	7	prep	7	prep
+10	que	que	CS	CS		6	mod	6	mod
+11	le	le	DET	DET	n=s|g=m	12	det	12	det
+12	roi	roi	NC	NC	n=s|g=m	15	suj	15	suj
+13	biblique	biblique	ADJ	ADJ	n=s	12	mod	12	mod
+14	Salomon	Salomon	NPP	NPP	n=s|g=m	12	mod	12	mod
+15	construisit	construire	V	V	n=s|t=J|p=3	10	sub	10	sub
+16	au	à	P+D	P+D	n=s|g=m	15	mod	15	mod
+17	VI	_	ADJ	ADJ		18	mod	18	mod
+18	siècle	siècle	NC	NC	n=s|g=m	16	prep	16	prep
+19	av	_	ADV	ADV		18	mod	18	mod
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+1	J	_	NPP	NPP		0	_	0	_
+2	.	.	PONCT	PONCT		1	ponct	1	ponct
+3	-	-	PONCT	PONCT		1	ponct	1	ponct
+4	C	femelle	ADJ	ADJ		1	mod	1	mod
+5	.	.	PONCT	PONCT		4	ponct	4	ponct
+6	le	le	DET	DET	n=s|g=m	8	det	8	det
+7	premier	premier	ADJ	ADJ	n=s|g=m	8	mod	8	mod
+8	Temple	Temple	NPP	NPP	n=s	1	mod	1	mod
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	qui	qui	PROREL	PROREL	n=s	12	suj	12	suj
+11	fut	être	V	V	n=s|t=J|p=3	12	aux_pass	12	aux_pass
+12	détruit	détruire	VPP	VPP	n=s|g=m|t=K	1	mod_rel	1	mod_rel
+13	par	par	P	P		12	mod	12	mod
+14	les	les	DET	DET	n=p	15	det	15	det
+15	Perses	_	NPP	NPP		13	prep	13	prep
+16	quelques	quelques	DET	DET	n=p	17	det	17	det
+17	siècles	siècle	NC	NC	n=p|g=m	12	obj	12	obj
+18	plus	plus	ADV	ADV		19	mod	19	mod
+19	tard	tard	ADV	ADV		17	mod	17	mod
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	4	suj	4	suj
+2	fut	être	V	V	n=s|t=J|p=3	4	aux_pass	4	aux_pass
+3	ensuite	ensuite	ADV	ADV		4	mod	4	mod
+4	reconstruit	reconstruire	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+5	et	et	CC	CC		4	coord	4	coord
+6	agrandi	agrandir	VPP	VPP	n=s|g=m|t=K	5	dep_coord	5	dep_coord
+7	par	par	P	P		6	mod	6	mod
+8	Hérode	_	NPP	NPP		7	prep	7	prep
+9	et	et	CC	CC		6	coord	6	coord
+10	détruit	détruire	VPP	VPP	n=s|g=m|t=K	9	dep_coord	9	dep_coord
+11	de	de	P	P		10	mod	10	mod
+12	nouveau	nouveau	ADJ	ADJ	n=s|g=m	11	prep	11	prep
+13	en	en	P	P		10	mod	10	mod
+14	70	70	NC	NC		13	prep	13	prep
+15	ap	_	NPP	NPP		14	mod	14	mod
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+1	J	_	NPP	NPP		0	_	0	_
+2	.	.	PONCT	PONCT		1	ponct	1	ponct
+3	-	-	PONCT	PONCT		1	ponct	1	ponct
+4	C	femelle	ADJ	ADJ		1	mod	1	mod
+5	.	.	PONCT	PONCT		4	ponct	4	ponct
+
+</p><p>
+1	Sur	sur	P	P		7	mod	7	mod
+2	la	la	DET	DET	n=s|g=f	3	det	3	det
+3	terrasse	terrasse	NC	NC	n=s|g=f	1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	il	il	CLS	CLS	n=s|g=m|p=3	7	suj	7	suj
+6	y	y	CLO	CLO		7	aff	7	aff
+7	avait	avoir	V	V	n=s|t=I|p=3	0	root	0	root
+8	un	un	DET	DET	n=s|g=m	9	det	9	det
+9	temple	temple	NC	NC	n=s|g=m	7	obj	7	obj
+10	romain	romain	ADJ	ADJ	n=s|g=m	9	mod	9	mod
+11	consacré	consacrer	VPP	VPP	n=s|g=m|t=K	9	mod	9	mod
+12	à	à	P	P		11	mod	11	mod
+13	Jupiter	Jupiter	NPP	NPP	n=s|g=m	12	prep	12	prep
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	restant	rester	VPR	VPR	t=G	9	mod	9	mod
+16	en	en	P	P		15	mod	15	mod
+17	ruines	ruine	NC	NC	n=p|g=f	16	prep	16	prep
+18	afin	_	ADV	ADV		15	mod	15	mod
+19	de	de	P	P		15	mod	15	mod
+20	témoigner	témoigner	VINF	VINF	t=W	19	prep	19	prep
+21	symboliquement	_	ADV	ADV		20	mod	20	mod
+22	de	de	P	P		20	mod	20	mod
+23	la	la	DET	DET	n=s|g=f	24	det	24	det
+24	victoire	victoire	NC	NC	n=s|g=f	22	prep	22	prep
+25	du	de	P+D	P+D	n=s|g=m	24	dep	24	dep
+26	christianisme	christianisme	NC	NC	n=s|g=m	25	prep	25	prep
+27	sur	sur	P	P		20	mod	20	mod
+28	les	les	DET	DET	n=p	29	det	29	det
+29	religions	religion	NC	NC	n=p|g=f	27	prep	27	prep
+30	païennes	païen	NC	NC	n=p|g=f	29	mod	29	mod
+31	.	.	PONCT	PONCT		30	ponct	30	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	3	suj	3	suj
+2	y	y	CLO	CLO		3	aff	3	aff
+3	a	avoir	V	V	n=s|t=P|p=3	0	root	0	root
+4	alors	alors	ADV	ADV		3	mod	3	mod
+5	de	de	P	P		3	mod	3	mod
+6	très	très	ADV	ADV		7	mod	7	mod
+7	nombreuses	nombreux	ADJ	ADJ	n=p|g=f	8	mod	8	mod
+8	églises	église	NC	NC	n=p|g=f	5	prep	5	prep
+9	chrétiennes	chrétien	ADJ	ADJ	n=p|g=f	8	mod	8	mod
+10	dans	dans	P	P		3	mod	3	mod
+11	la	la	DET	DET	n=s|g=f	12	det	12	det
+12	ville	ville	NC	NC	n=s|g=f	10	prep	10	prep
+13	de	de	P	P		3	mod	3	mod
+14	Jérusalem	Jérusalem	NPP	NPP	n=s|g=m	13	prep	13	prep
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	ruines	ruine	NC	NC	n=p|g=f	7	suj	7	suj
+3	de	de	P	P		2	dep	2	dep
+4	l'	le	DET	DET	n=s	5	det	5	det
+5	esplanade	esplanade	NC	NC	n=s|g=f	3	prep	3	prep
+6	seront	être	V	V	n=p|t=F|p=3	7	aux_pass	7	aux_pass
+7	réutilisées	réutiliser	VPP	VPP	n=p|g=f|t=K	0	root	0	root
+8	afin	_	ADV	ADV		7	mod	7	mod
+9	de	de	P	P		7	mod	7	mod
+10	créer	créer	VINF	VINF	t=W	9	prep	9	prep
+11	un	un	DET	DET	n=s|g=m	12	det	12	det
+12	symbole	symbole	NC	NC	n=s|g=m	10	obj	10	obj
+13	fort	fort	ADJ	ADJ	n=s|g=m	12	mod	12	mod
+14	de	de	P	P		10	mod	10	mod
+15	la	la	DET	DET	n=s|g=f	16	det	16	det
+16	religion	religion	NC	NC	n=s|g=f	14	prep	14	prep
+17	musulmane	musulman	ADJ	ADJ	n=s|g=f	16	mod	16	mod
+18	face	face	NC	NC	n=s|g=f	16	mod	16	mod
+19	au	à	P+D	P+D	n=s|g=m	10	mod	10	mod
+20	judaïsme	judaïsme	NC	NC	n=s|g=m	19	prep	19	prep
+21	et	et	CC	CC		19	coord	19	coord
+22	au	à	P+D	P+D	n=s|g=m	21	dep_coord	21	dep_coord
+23	christianisme	christianisme	NC	NC	n=s|g=m	22	prep	22	prep
+24	,	,	PONCT	PONCT		23	ponct	23	ponct
+25	deux	deux	DET	DET	s=card|n=p	26	det	26	det
+26	religions	religion	NC	NC	n=p|g=f	7	mod	7	mod
+27	que	que	CS	CS		7	mod	7	mod
+28	l'	le	DET	DET	n=s	29	det	29	det
+29	islam	islam	NC	NC	n=s|g=m	31	suj	31	suj
+30	ne	ne	ADV	ADV		31	mod	31	mod
+31	considère	considérer	V	V	n=s|t=P,S|p=1,3	27	sub	27	sub
+32	pas	pas	ADV	ADV		31	mod	31	mod
+33	comme	comme	P	P		31	mod	31	mod
+34	justes	juste	ADJ	ADJ	n=p	33	prep	33	prep
+35	.	.	PONCT	PONCT		34	ponct	34	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	dôme	dôme	NC	NC	n=s|g=m	4	suj	4	suj
+3	fut	être	V	V	n=s|t=J|p=3	4	aux_tps	4	aux_tps
+4	restauré	restaurer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+5	de	de	DET	DET	n=p	7	det	7	det
+6	nombreuses	nombreux	ADJ	ADJ	n=p|g=f	7	mod	7	mod
+7	fois	fois	NC	NC	g=f	4	obj	4	obj
+8	.	.	PONCT	PONCT		7	ponct	7	ponct
+
+1	Au	à	P+D	P+D	n=s|g=m	11	mod	11	mod
+2	IX	_	ADJ	ADJ		3	mod	3	mod
+3	siècle	siècle	NC	NC	n=s|g=m	1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	le	le	DET	DET	n=s|g=m	6	det	6	det
+6	calife	calife	NC	NC	n=s|g=m	11	suj	11	suj
+7	abbasside	abbasside	ADJ	ADJ	n=s	6	mod	6	mod
+8	Al	Al	NPP	NPP	n=s|g=m	6	mod	6	mod
+9	-	-	PONCT	PONCT		8	ponct	8	ponct
+10	Mamun	_	NPP	NPP		6	mod	6	mod
+11	effaça	effacer	V	V	n=s|t=J|p=3	0	root	0	root
+12	le	le	DET	DET	n=s|g=m	13	det	13	det
+13	nom	nom	NC	NC	n=s|g=m	11	obj	11	obj
+14	d'	de	P	P		11	mod	11	mod
+15	Abd	_	NPP	NPP		14	prep	14	prep
+16	al	_	NPP	NPP		15	mod	15	mod
+17	-	-	PONCT	PONCT		16	ponct	16	ponct
+18	Malik	Malik	NPP	NPP	n=s|g=m	11	mod	11	mod
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	le	le	DET	DET	n=s|g=m	21	det	21	det
+21	calife	calife	NC	NC	n=s|g=m	11	mod	11	mod
+22	qui	qui	PROREL	PROREL	n=s	23	suj	23	suj
+23	fit	faire	V	V	n=s|t=J|p=3	21	mod_rel	21	mod_rel
+24	construire	construire	VINF	VINF	t=W	23	obj	23	obj
+25	la	la	DET	DET	n=s|g=f	26	det	26	det
+26	mosquée	mosquée	NC	NC	n=s|g=f	24	obj	24	obj
+27	,	,	PONCT	PONCT		26	ponct	26	ponct
+28	pour	pour	P	P		11	mod	11	mod
+29	le	le	CLO	CLO	n=s|g=m|p=3	30	obj	30	obj
+30	remplacer	remplacer	VINF	VINF	t=W	28	prep	28	prep
+31	par	par	P	P		30	mod	30	mod
+32	le	le	DET	DET	n=s|g=m	33	det	33	det
+33	sien	sien	ADJ	ADJ	n=s|g=m	31	prep	31	prep
+34	.	.	PONCT	PONCT		33	ponct	33	ponct
+
+</p><p>
+1	Au	à	P+D	P+D	n=s|g=m	17	mod	17	mod
+2	début	début	NC	NC	n=s|g=m	1	prep	1	prep
+3	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+4	X	_	ADJ	ADJ		5	mod	5	mod
+5	siècle	siècle	NC	NC	n=s|g=m	3	prep	3	prep
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	la	la	DET	DET	n=s|g=f	8	det	8	det
+8	coupole	coupole	NC	NC	n=s|g=f	17	suj	17	suj
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	qui	qui	PROREL	PROREL	n=s	12	suj	12	suj
+11	auparavant	auparavant	ADV	ADV		12	mod	12	mod
+12	était	être	V	V	n=s|t=I|p=3	8	mod_rel	8	mod_rel
+13	en	en	P	P		12	mod	12	mod
+14	cuivre	cuivre	NC	NC	n=s|g=m	13	prep	13	prep
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	est	être	V	V	n=s|t=P|p=3	17	aux_tps	17	aux_tps
+17	recouverte	recouvrir	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+18	d'	de	P	P		17	mod	17	mod
+19	une	une	DET	DET	n=s|g=f	20	det	20	det
+20	feuille	feuille	NC	NC	n=s|g=f	18	prep	18	prep
+21	d'	de	P	P		17	mod	17	mod
+22	or	or	NC	NC	n=s|g=m	21	prep	21	prep
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+1	Plus	plus	ADV	ADV		2	mod	2	mod
+2	tard	tard	ADV	ADV		7	mod	7	mod
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	cette	cette	DET	DET	n=s|g=f	5	det	5	det
+5	couverture	couverture	NC	NC	n=s|g=f	7	suj	7	suj
+6	est	être	V	V	n=s|t=P|p=3	7	aux_pass	7	aux_pass
+7	remplacée	remplacer	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+8	par	par	P	P		7	mod	7	mod
+9	du	du	DET	DET	n=s|g=m	10	det	10	det
+10	plomb	plomb	NC	NC	n=s|g=m	8	prep	8	prep
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+1	Au	à	P+D	P+D	n=s|g=m	13	mod	13	mod
+2	XI	_	ADJ	ADJ		3	mod	3	mod
+3	siècle	siècle	NC	NC	n=s|g=m	1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	le	le	DET	DET	n=s|g=m	6	det	6	det
+6	site	site	NC	NC	n=s|g=m	13	suj	13	suj
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	et	et	CC	CC		6	coord	6	coord
+9	particulièrement	_	ADV	ADV		8	mod	8	mod
+10	le	le	DET	DET	n=s|g=m	11	det	11	det
+11	dôme	dôme	NC	NC	n=s|g=m	8	dep_coord	8	dep_coord
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	subit	subir	V	V	n=s|t=J,P|p=3	0	root	0	root
+14	deux	deux	DET	DET	s=card|n=p	15	det	15	det
+15	tremblements	tremblement	NC	NC	n=p|g=m	13	obj	13	obj
+16	de	de	P	P		13	mod	13	mod
+17	terre	terre	NC	NC	n=s|g=f	16	prep	16	prep
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	Avec	avec	P	P		15	mod	15	mod
+2	la	la	DET	DET	n=s|g=f	3	det	3	det
+3	prise	prise	NC	NC	n=s|g=f	1	prep	1	prep
+4	de	de	P	P		3	dep	3	dep
+5	Jérusalem	Jérusalem	NPP	NPP	n=s|g=m	4	prep	4	prep
+6	par	par	P	P		3	dep	3	dep
+7	les	les	DET	DET	n=p	8	det	8	det
+8	croisés	croisé	NC	NC	n=p|g=m	6	prep	6	prep
+9	en	en	P	P		3	dep	3	dep
+10	1099	1099	NC	NC		9	prep	9	prep
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	la	la	DET	DET	n=s|g=f	13	det	13	det
+13	mosquée	mosquée	NC	NC	n=s|g=f	15	suj	15	suj
+14	est	être	V	V	n=s|t=P|p=3	15	aux_tps	15	aux_tps
+15	reconvertie	reconvertir	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+16	en	en	P	P		15	mod	15	mod
+17	église	église	NC	NC	n=s|g=f	16	prep	16	prep
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	mais	mais	CC	CC		15	coord	15	coord
+20	l'	le	DET	DET	n=s	21	det	21	det
+21	édifice	édifice	NC	NC	n=s|g=m	23	suj	23	suj
+22	est	être	V	V	n=s|t=P|p=3	23	aux_tps	23	aux_tps
+23	conservé	conserver	VPP	VPP	n=s|g=m|t=K	19	dep_coord	19	dep_coord
+24	tel	tel	ADJ	ADJ	n=s|g=m	0	_	0	_
+25	quel	quel	DETWH	DETWH	n=s|g=m	0	_	0	_
+26	.	.	PONCT	PONCT		0	_	0	_
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	croissant	croissant	NC	NC	n=s|g=m	4	suj	4	suj
+3	est	être	V	V	n=s|t=P|p=3	4	aux_pass	4	aux_pass
+4	remplacé	remplacer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+5	par	par	P	P		4	mod	4	mod
+6	la	la	DET	DET	n=s|g=f	7	det	7	det
+7	croix	croix	NC	NC	g=f	5	prep	5	prep
+8	et	et	CC	CC		4	coord	4	coord
+9	on	on	CLS	CLS	n=s|p=3	10	suj	10	suj
+10	construit	construire	VPP	VPP	n=s|g=m|t=K	8	dep_coord	8	dep_coord
+11	un	un	DET	DET	n=s|g=m	12	det	12	det
+12	autel	autel	NC	NC	n=s|g=m	10	obj	10	obj
+13	en	en	P	P		10	mod	10	mod
+14	pierre	pierre	NC	NC	n=s|g=f	13	prep	13	prep
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+1	Pendant	pendant	P	P		10	mod	10	mod
+2	cette	cette	DET	DET	n=s|g=f	3	det	3	det
+3	période	période	NC	NC	n=s	1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	les	les	DET	DET	n=p	6	det	6	det
+6	juifs	juif	ADJ	ADJ	n=p|g=m	10	suj	10	suj
+7	et	et	CC	CC		6	coord	6	coord
+8	les	les	DET	DET	n=p	9	det	9	det
+9	musulmans	musulman	NC	NC	n=p|g=m	10	suj	10	suj
+10	ont	avoir	V	V	n=p|t=P|p=3	0	root	0	root
+11	l'	le	DET	DET	n=s	12	det	12	det
+12	interdiction	interdiction	NC	NC	n=s|g=f	10	obj	10	obj
+13	de	de	P	P		10	mod	10	mod
+14	pénétrer	pénétrer	VINF	VINF	t=W	13	prep	13	prep
+15	dans	dans	P	P		14	mod	14	mod
+16	la	la	DET	DET	n=s|g=f	17	det	17	det
+17	ville	ville	NC	NC	n=s|g=f	15	prep	15	prep
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	À	à	P	P		16	mod	16	mod
+2	cause	cause	NC	NC	n=s|g=f	1	prep	1	prep
+3	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+4	symbole	symbole	NC	NC	n=s|g=m	3	prep	3	prep
+5	que	que	PROREL	PROREL		6	suj	6	suj
+6	représente	représenter	V	V	n=s|t=P,S|p=1,3	2	mod_rel	2	mod_rel
+7	le	le	DET	DET	n=s|g=m	8	det	8	det
+8	Rocher	Rocher	NPP	NPP	n=s|g=m	6	obj	6	obj
+9	(	(	PONCT	PONCT		8	ponct	8	ponct
+10	comme	comme	P	P		6	mod	6	mod
+11	au	à	P+D	P+D	n=s|g=m	10	prep	10	prep
+12	Saint-Sépulcre	_	NPP	NPP		11	prep	11	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	il	il	CLS	CLS	n=s|g=m|p=3	16	suj	16	suj
+15	y	y	CLO	CLO		16	aff	16	aff
+16	a	avoir	V	V	n=s|t=P|p=3	0	root	0	root
+17	un	un	DET	DET	n=s|g=m	18	det	18	det
+18	rocher	rocher	NC	NC	n=s|g=m	16	obj	16	obj
+19	au	à	P+D	P+D	n=s|g=m	16	mod	16	mod
+20	centre	centre	NC	NC	n=s|g=m	19	prep	19	prep
+21	)	)	PONCT	PONCT		20	ponct	20	ponct
+22	,	,	PONCT	PONCT		20	ponct	20	ponct
+23	les	les	DET	DET	n=p	24	det	24	det
+24	croisés	croisé	NC	NC	n=p|g=m	25	suj	25	suj
+25	arrachèrent	arracher	V	V	n=p|t=J|p=3	16	mod	16	mod
+26	quelques	quelques	DET	DET	n=p	27	det	27	det
+27	bouts	bout	NC	NC	n=p|g=m	25	obj	25	obj
+28	de	de	P	P		25	mod	25	mod
+29	terre	terre	NC	NC	n=s|g=f	28	prep	28	prep
+30	afin	_	ADV	ADV		25	mod	25	mod
+31	de	de	P	P		25	mod	25	mod
+32	les	les	CLO	CLO	n=p|p=3	33	obj	33	obj
+33	vendre	vendre	VINF	VINF	t=W	31	prep	31	prep
+34	à	à	P	P		33	mod	33	mod
+35	des	des	DET	DET	n=p	36	det	36	det
+36	pèlerins	pèlerin	NC	NC	n=p|g=m	34	prep	34	prep
+37	.	.	PONCT	PONCT		36	ponct	36	ponct
+
+1	Pour	pour	P	P		9	mod	9	mod
+2	empêcher	empêcher	VINF	VINF	t=W	1	prep	1	prep
+3	ce	ce	DET	DET	n=s|g=m	4	det	4	det
+4	commerce	commerce	NC	NC	n=s|g=m	2	obj	2	obj
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	les	les	DET	DET	n=p	7	det	7	det
+7	rois	roi	NC	NC	n=p|g=m	9	suj	9	suj
+8	croisés	croiser	ADJ	ADJ	n=p|g=m|t=K	7	mod	7	mod
+9	firent	faire	V	V	n=p|t=J|p=3	0	root	0	root
+10	installer	installer	VINF	VINF	t=W	9	obj	9	obj
+11	une	une	DET	DET	n=s|g=f	12	det	12	det
+12	grille	grille	NC	NC	n=s|g=f	10	obj	10	obj
+13	en	en	P	P		12	dep	12	dep
+14	métal	métal	NC	NC	n=s|g=m	13	prep	13	prep
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	dont	dont	PROREL	PROREL		19	mod	19	mod
+17	certaines	certain	DET	DET	n=p|g=f	18	det	18	det
+18	parties	partie	NC	NC	n=p|g=f	19	suj	19	suj
+19	sont	être	V	V	n=p|t=P|p=3	9	mod	9	mod
+20	encore	encore	ADV	ADV		19	mod	19	mod
+21	visibles	visible	ADJ	ADJ	n=p	19	ats	19	ats
+22	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	dôme	dôme	NC	NC	n=s|g=m	6	suj	6	suj
+3	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+4	Rocher	Rocher	NPP	NPP	n=s|g=m	3	prep	3	prep
+5	est	être	V	V	n=s|t=P|p=3	6	aux_tps	6	aux_tps
+6	consacré	consacrer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+7	comme	comme	P	P		6	mod	6	mod
+8	église	église	NC	NC	n=s|g=f	7	prep	7	prep
+9	chrétienne	chrétien	ADJ	ADJ	n=s|g=f	8	mod	8	mod
+10	en	en	P	P		6	mod	6	mod
+11	1142	1142	NC	NC		10	prep	10	prep
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+1	Cependant	cependant	ADV	ADV		5	mod	5	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	on	on	CLS	CLS	n=s|p=3	5	suj	5	suj
+4	ne	ne	ADV	ADV		5	mod	5	mod
+5	veut	vouloir	V	V	n=s|t=P|p=3	0	root	0	root
+6	pas	pas	ADV	ADV		5	mod	5	mod
+7	en	en	CLO	CLO		8	obj	8	obj
+8	faire	faire	VINF	VINF	t=W	5	obj	5	obj
+9	un	un	DET	DET	n=s|g=m	10	det	10	det
+10	endroit	endroit	NC	NC	n=s|g=m	8	obj	8	obj
+11	plus	plus	ADV	ADV		12	mod	12	mod
+12	important	important	ADJ	ADJ	n=s|g=m	10	mod	10	mod
+13	que	que	CS	CS		5	mod	5	mod
+14	le	le	DET	DET	n=s|g=m	15	det	15	det
+15	Saint-Sépulcre	_	NPP	NPP		0	_	0	_
+16	(	(	PONCT	PONCT		15	ponct	15	ponct
+17	bien	bien	ADV	ADV		0	_	0	_
+18	que	que	CS	CS		17	dep	17	dep
+19	plusieurs	plusieurs	DET	DET	n=p	20	det	20	det
+20	événements	événement	NC	NC	n=p|g=m	0	_	0	_
+21	de	de	P	P		20	dep	20	dep
+22	l'	le	DET	DET	n=s	23	det	23	det
+23	Ancien	_	NPP	NPP		21	prep	21	prep
+24	et	et	CC	CC		20	coord	20	coord
+25	du	de	P+D	P+D	n=s|g=m	24	dep_coord	24	dep_coord
+26	Nouveau	nouveau	ADJ	ADJ	n=s|g=m	27	mod	27	mod
+27	Testament	_	NPP	NPP		25	prep	25	prep
+28	lui	lui	CLO	CLO	n=s|p=3	0	_	0	_
+29	soient	être	VS	VS	n=p|t=S|p=3	0	_	0	_
+30	associés	associé	NC	NC	n=p|g=m	29	suj	29	suj
+31	)	)	PONCT	PONCT		30	ponct	30	ponct
+32	.	.	PONCT	PONCT		30	ponct	30	ponct
+
+</p><p>
+1	Au	à	P+D	P+D	n=s|g=m	14	mod	14	mod
+2	cours	cour	NC	NC	n=p|g=f	1	prep	1	prep
+3	des	de	P+D	P+D	n=p	2	dep	2	dep
+4	siècles	siècle	NC	NC	n=p|g=m	3	prep	3	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	de	de	DET	DET	n=p	8	det	8	det
+7	nombreux	nombreux	ADJ	ADJ	g=m	8	mod	8	mod
+8	éléments	élément	NC	NC	n=p|g=m	14	suj	14	suj
+9	de	de	P	P		8	dep	8	dep
+10	la	la	DET	DET	n=s|g=f	11	det	11	det
+11	mosquée	mosquée	NC	NC	n=s|g=f	9	prep	9	prep
+12	ont	avoir	V	V	n=p|t=P|p=3	14	aux_tps	14	aux_tps
+13	été	être	VPP	VPP	t=K	14	aux_pass	14	aux_pass
+14	remplacés	remplacer	VPP	VPP	n=p|g=m|t=K	0	root	0	root
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+1	C'	ce	CLS	CLS		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	le	le	DET	DET	n=s|g=m	4	det	4	det
+4	cas	cas	NC	NC	g=m	2	obj	2	obj
+5	des	de	P+D	P+D	n=p	2	mod	2	mod
+6	mosaïques	mosaïque	NC	NC	n=p|g=f	5	prep	5	prep
+7	intérieures	intérieur	ADJ	ADJ	n=p|g=f	6	mod	6	mod
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	où	où	PROREL	PROREL		12	mod	12	mod
+10	l'	le	DET	DET	n=s	11	det	11	det
+11	on	on	CLS	CLS	n=s|p=3	12	suj	12	suj
+12	trouve	trouver	V	V	n=s|t=P,S|p=1,3	2	mod	2	mod
+13	des	des	DET	DET	n=p	14	det	14	det
+14	restaurations	restauration	NC	NC	n=p|g=f	12	obj	12	obj
+15	mamelouks	mamelouk	NC	NC	n=p|g=m	14	mod	14	mod
+16	dans	dans	P	P		12	mod	12	mod
+17	la	la	DET	DET	n=s|g=f	18	det	18	det
+18	coupole	coupole	NC	NC	n=s|g=f	16	prep	16	prep
+19	ou	ou	CC	CC		12	coord	12	coord
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	par	par	P	P		0	_	0	_
+22	exemple	exemple	NC	NC	n=s|g=m	21	prep	21	prep
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	dans	dans	P	P		0	_	0	_
+25	les	les	DET	DET	n=p	26	det	26	det
+26	plafonds	plafond	NC	NC	n=p|g=m	24	prep	24	prep
+27	peints	peindre	VPP	VPP	n=p|g=m|t=K	26	mod	26	mod
+28	dont	dont	PROREL	PROREL		31	mod	31	mod
+29	les	les	DET	DET	n=p	30	det	30	det
+30	motifs	motif	NC	NC	n=p|g=m	31	suj	31	suj
+31	datent	dater	V	V	n=p|t=P,S|p=3	26	mod_rel	26	mod_rel
+32	du	de	P+D	P+D	n=s|g=m	31	mod	31	mod
+33	XIII	_	ADJ	ADJ		34	mod	34	mod
+34	siècle	siècle	NC	NC	n=s|g=m	32	prep	32	prep
+35	.	.	PONCT	PONCT		34	ponct	34	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	décor	décor	NC	NC	n=s|g=m	6	suj	6	suj
+3	extérieur	extérieur	ADJ	ADJ	n=s|g=m	2	mod	2	mod
+4	est	être	V	V	n=s|t=P|p=3	6	aux_pass	6	aux_pass
+5	complètement	_	ADV	ADV		6	mod	6	mod
+6	remplacé	remplacer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+7	par	par	P	P		6	mod	6	mod
+8	des	des	DET	DET	n=p	9	det	9	det
+9	carreaux	carreau	NC	NC	n=p|g=m	7	prep	7	prep
+10	de	de	P	P		6	mod	6	mod
+11	céramique	céramique	NC	NC	n=s|g=f	10	prep	10	prep
+12	ottomans	ottoman	NC	NC	n=p|g=m	11	mod	11	mod
+13	sur	sur	P	P		6	mod	6	mod
+14	l'	le	DET	DET	n=s	15	det	15	det
+15	ordre	ordre	NC	NC	n=s|g=m	13	prep	13	prep
+16	de	de	P	P		6	mod	6	mod
+17	l'	le	DET	DET	n=s	18	det	18	det
+18	empereur	empereur	NC	NC	n=s|g=m	16	prep	16	prep
+19	Soliman	_	NPP	NPP		18	mod	18	mod
+20	le	le	DET	DET	n=s|g=m	21	det	21	det
+21	Magnifique	_	NPP	NPP		6	mod	6	mod
+22	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+1	Quatre	quatre	DET	DET	s=card|n=p	2	det	2	det
+2	campagnes	campagne	NC	NC	n=p|g=f	7	suj	7	suj
+3	de	de	P	P		2	dep	2	dep
+4	restauration	restauration	NC	NC	n=s|g=f	3	prep	3	prep
+5	ont	avoir	V	V	n=p|t=P|p=3	7	aux_tps	7	aux_tps
+6	été	être	VPP	VPP	t=K	7	aux_pass	7	aux_pass
+7	menées	mener	VPP	VPP	n=p|g=f|t=K	0	root	0	root
+8	par	par	P	P		7	mod	7	mod
+9	la	la	DET	DET	n=s|g=f	10	det	10	det
+10	suite	suite	NC	NC	n=s|g=f	8	prep	8	prep
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	à	à	P	P		7	mod	7	mod
+13	l'	le	DET	DET	n=s	14	det	14	det
+14	initiative	initiative	NC	NC	n=s|g=f	12	prep	12	prep
+15	des	de	P+D	P+D	n=p	14	dep	14	dep
+16	sultans	sultan	NC	NC	n=p	15	prep	15	prep
+17	ou	ou	CC	CC		12	coord	12	coord
+18	des	de	P+D	P+D	n=p	17	dep_coord	17	dep_coord
+19	califes	calife	NC	NC	n=p|g=m	18	prep	18	prep
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	5	suj	5	suj
+2	y	y	CLO	CLO		5	aff	5	aff
+3	a	avoir	V	V	n=s|t=P|p=3	5	aux_tps	5	aux_tps
+4	également	_	ADV	ADV		5	mod	5	mod
+5	eu	avoir	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+6	une	une	DET	DET	n=s|g=f	7	det	7	det
+7	restauration	restauration	NC	NC	n=s|g=f	5	obj	5	obj
+8	en	en	P	P		5	mod	5	mod
+9	1960	1960	NC	NC		8	prep	8	prep
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+</p><p>
+1	En	en	P	P		7	mod	7	mod
+2	1927	1927	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	une	une	DET	DET	n=s|g=f	5	det	5	det
+5	étude	étude	NC	NC	n=s|g=f	7	suj	7	suj
+6	est	être	V	V	n=s|t=P|p=3	7	aux_pass	7	aux_pass
+7	menée	mener	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+8	sur	sur	P	P		7	mod	7	mod
+9	les	les	DET	DET	n=p	10	det	10	det
+10	mosaïques	mosaïque	NC	NC	n=p|g=f	8	prep	8	prep
+11	par	par	P	P		10	dep	10	dep
+12	Marguerite	Marguerite	NPP	NPP	n=s|g=f	11	prep	11	prep
+13	van	van	NC	NC	n=s|g=m	12	mod	12	mod
+14	Berchem	_	NPP	NPP		13	mod	13	mod
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	qui	qui	PROREL	PROREL	n=s	18	suj	18	suj
+17	en	en	CLO	CLO		18	obj	18	obj
+18	fait	faire	V	V	n=s|t=P|p=3	7	mod	7	mod
+19	une	une	DET	DET	n=s|g=f	20	det	20	det
+20	description	description	NC	NC	n=s|g=f	18	obj	18	obj
+21	détaillée	détailler	ADJ	ADJ	n=s|g=f|t=K	20	mod	20	mod
+22	et	et	CC	CC		18	coord	18	coord
+23	conclut	conclure	V	V	n=s|t=J,P|p=3	22	dep_coord	22	dep_coord
+24	qu'	que	CS	CS		23	obj	23	obj
+25	elles	elles	CLS	CLS	n=p|g=f|p=3	28	suj	28	suj
+26	ont	avoir	V	V	n=p|t=P|p=3	28	aux_tps	28	aux_tps
+27	été	être	VPP	VPP	t=K	28	aux_pass	28	aux_pass
+28	faites	faire	VPP	VPP	n=p|g=f|t=K	24	sub	24	sub
+29	par	par	P	P		28	mod	28	mod
+30	des	des	DET	DET	n=p	31	det	31	det
+31	artistes	artiste	NC	NC	n=p	29	prep	29	prep
+32	syriens	syrien	ADJ	ADJ	n=p|g=m	31	mod	31	mod
+33	et	et	CC	CC		32	coord	32	coord
+34	non	non	ADV	ADV		35	mod	35	mod
+35	byzantins	byzantin	ADJ	ADJ	n=p|g=m	33	dep_coord	33	dep_coord
+36	.	.	PONCT	PONCT		35	ponct	35	ponct
+
+</p><h2>
+1	Architecture	architecture	NC	NC	n=s|g=f	0	_	0	_
+
+</h2><h3>
+1	Plan	plan	NC	NC	n=s|g=m	0	_	0	_
+
+</h3><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	dôme	dôme	NC	NC	n=s|g=m	5	suj	5	suj
+3	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+4	Rocher	Rocher	NPP	NPP	n=s|g=m	3	prep	3	prep
+5	a	avoir	V	V	n=s|t=P|p=3	0	root	0	root
+6	un	un	DET	DET	n=s|g=m	7	det	7	det
+7	plan	plan	NC	NC	n=s|g=m	5	obj	5	obj
+8	octogonal	octogonal	ADJ	ADJ	n=s|g=m	7	mod	7	mod
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	organisé	organiser	VPP	VPP	n=s|g=m|t=K	7	mod	7	mod
+11	autour	autour	NC	NC	n=s|g=m	10	mod	10	mod
+12	du	de	P+D	P+D	n=s|g=m	11	dep	11	dep
+13	Rocher	Rocher	NPP	NPP	n=s|g=m	12	prep	12	prep
+14	de	de	P	P		10	mod	10	mod
+15	la	la	DET	DET	n=s|g=f	16	det	16	det
+16	Fondation	_	NPP	NPP		14	prep	14	prep
+17	(	(	PONCT	PONCT		16	ponct	16	ponct
+18	rocher	rocher	VINF	VINF	t=W	10	obj	10	obj
+19	au	à	P+D	P+D	n=s|g=m	18	mod	18	mod
+20	milieu	milieu	NC	NC	n=s|g=m	19	prep	19	prep
+21	de	de	P	P		18	mod	18	mod
+22	la	la	DET	DET	n=s|g=f	23	det	23	det
+23	mosquée	mosquée	NC	NC	n=s|g=f	21	prep	21	prep
+24	)	)	PONCT	PONCT		23	ponct	23	ponct
+25	,	,	PONCT	PONCT		23	ponct	23	ponct
+26	qui	qui	PROREL	PROREL	n=s	27	suj	27	suj
+27	est	être	V	V	n=s|t=P|p=3	7	mod_rel	7	mod_rel
+28	l'	le	DET	DET	n=s	29	det	29	det
+29	endroit	endroit	NC	NC	n=s|g=m	27	obj	27	obj
+30	le	le	DET	DET	n=s|g=m	32	det	32	det
+31	plus	plus	ADV	ADV		32	mod	32	mod
+32	élevé	élever	ADJ	ADJ	n=s|g=m|t=K	29	mod	29	mod
+33	du	de	P+D	P+D	n=s|g=m	32	mod	32	mod
+34	mont	mont	NC	NC	n=s|g=m	33	prep	33	prep
+35	.	.	PONCT	PONCT		34	ponct	34	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	repose	reposer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	sur	sur	P	P		2	mod	2	mod
+4	une	une	DET	DET	n=s|g=f	5	det	5	det
+5	plate-forme	plate-forme	NC	NC	n=s|g=f	3	prep	3	prep
+6	artificielle	artificiel	ADJ	ADJ	n=s|g=f	5	mod	5	mod
+7	rectangulaire	rectangulaire	ADJ	ADJ	n=s	5	mod	5	mod
+8	qui	qui	PROREL	PROREL	n=s	9	suj	9	suj
+9	possède	posséder	V	V	n=s|t=P,S|p=1,3	5	mod_rel	5	mod_rel
+10	huit	huit	DET	DET	s=card|n=p	11	det	11	det
+11	escaliers	escalier	NC	NC	n=p|g=m	9	obj	9	obj
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	dôme	dôme	NC	NC	n=s|g=m	4	suj	4	suj
+3	est	être	V	V	n=s|t=P|p=3	4	aux_tps	4	aux_tps
+4	supporté	supporter	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+5	par	par	P	P		4	mod	4	mod
+6	une	une	DET	DET	n=s|g=f	7	det	7	det
+7	arcade	arcade	NC	NC	n=s|g=f	5	prep	5	prep
+8	circulaire	circulaire	ADJ	ADJ	n=s	7	mod	7	mod
+9	comportant	comporter	VPR	VPR	t=G	4	mod	4	mod
+10	quatre	quatre	DET	DET	s=card|n=p	11	det	11	det
+11	piliers	pilier	NC	NC	n=p|g=m	9	obj	9	obj
+12	et	et	CC	CC		11	coord	11	coord
+13	douze	douze	DET	DET	s=card|n=p	14	det	14	det
+14	colonnes	colonne	NC	NC	n=p|g=f	12	dep_coord	12	dep_coord
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	espace	espace	NC	NC	n=s	4	suj	4	suj
+3	s'	se	CLR	CLR	n=p,s|p=3	4	aff	4	aff
+4	organise	organiser	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+5	en	en	P	P		4	mod	4	mod
+6	un	un	DET	DET	n=s|g=m	8	det	8	det
+7	double	double	ADJ	ADJ	n=s	8	mod	8	mod
+8	déambulatoire	déambulatoire	NC	NC	n=s|g=m	5	prep	5	prep
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	ce	ce	PRO	PRO	n=s	4	mod	4	mod
+11	qui	qui	PROREL	PROREL	n=s	12	suj	12	suj
+12	est	être	V	V	n=s|t=P|p=3	10	mod_rel	10	mod_rel
+13	étonnant	étonnant	ADJ	ADJ	n=s|g=m	12	ats	12	ats
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	car	car	CS	CS		12	mod	12	mod
+16	cela	cela	PRO	PRO	n=s|g=m	18	suj	18	suj
+17	ne	ne	ADV	ADV		18	mod	18	mod
+18	fait	faire	V	V	n=s|t=P|p=3	15	sub	15	sub
+19	pas	pas	ADV	ADV		18	mod	18	mod
+20	partie	partie	NC	NC	n=s|g=f	18	obj	18	obj
+21	des	de	P+D	P+D	n=p	18	mod	18	mod
+22	pratiques	pratique	NC	NC	n=p|g=f	21	prep	21	prep
+23	musulmanes	musulman	ADJ	ADJ	n=p|g=f	22	mod	22	mod
+24	,	,	PONCT	PONCT		23	ponct	23	ponct
+25	mais	mais	CC	CC		23	coord	23	coord
+26	plutôt	plutôt	ADV	ADV		27	mod	27	mod
+27	catholiques	catholique	ADJ	ADJ	n=p	25	dep_coord	25	dep_coord
+28	.	.	PONCT	PONCT		27	ponct	27	ponct
+
+</p><p>
+1	Le	le	DET	DET	n=s|g=m	3	det	3	det
+2	premier	premier	ADJ	ADJ	n=s|g=m	3	mod	3	mod
+3	déambulatoire	déambulatoire	NC	NC	n=s|g=m	5	suj	5	suj
+4	est	être	V	V	n=s|t=P|p=3	5	aux_tps	5	aux_tps
+5	défini	définir	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+6	par	par	P	P		5	mod	5	mod
+7	la	la	DET	DET	n=s|g=f	8	det	8	det
+8	colonnade	colonnade	NC	NC	n=s|g=f	6	prep	6	prep
+9	circulaire	circulaire	ADJ	ADJ	n=s	8	mod	8	mod
+10	(	(	PONCT	PONCT		9	ponct	9	ponct
+11	celle	celle	PRO	PRO	n=s|g=f	5	mod	5	mod
+12	qui	qui	PROREL	PROREL	n=s	13	suj	13	suj
+13	supporte	supporter	V	V	n=s|t=P,S|p=1,3	11	mod_rel	11	mod_rel
+14	la	la	DET	DET	n=s|g=f	15	det	15	det
+15	coupole	coupole	NC	NC	n=s|g=f	13	obj	13	obj
+16	)	)	PONCT	PONCT		15	ponct	15	ponct
+17	et	et	CC	CC		5	coord	5	coord
+18	la	la	DET	DET	n=s|g=f	20	det	20	det
+19	deuxième	deuxième	ADJ	ADJ	n=s	20	mod	20	mod
+20	colonnade	colonnade	NC	NC	n=s|g=f	0	_	0	_
+21	.	.	PONCT	PONCT		20	ponct	20	ponct
+
+1	Le	le	DET	DET	n=s|g=m	3	det	3	det
+2	deuxième	deuxième	ADJ	ADJ	n=s	3	mod	3	mod
+3	déambulatoire	déambulatoire	NC	NC	n=s|g=m	5	suj	5	suj
+4	se	se	CLR	CLR	n=p,s|p=3	5	aff	5	aff
+5	situe	situer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+6	entre	entre	P	P		5	mod	5	mod
+7	la	la	DET	DET	n=s|g=f	9	det	9	det
+8	deuxième	deuxième	ADJ	ADJ	n=s	9	mod	9	mod
+9	colonnade	colonnade	NC	NC	n=s|g=f	6	prep	6	prep
+10	et	et	CC	CC		5	coord	5	coord
+11	les	les	DET	DET	n=p	12	det	12	det
+12	murs	mur	NC	NC	n=p|g=m	0	_	0	_
+13	extérieurs	extérieur	ADJ	ADJ	n=p|g=m	12	mod	12	mod
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	eux	eux	PRO	PRO	n=p|g=m|p=3	12	mod	12	mod
+16	aussi	aussi	ADV	ADV		15	mod	15	mod
+17	octogonaux	octogonal	ADJ	ADJ	n=p|g=m	15	mod	15	mod
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	3	suj	3	suj
+2	y	y	CLO	CLO		3	aff	3	aff
+3	a	avoir	V	V	n=s|t=P|p=3	0	root	0	root
+4	quatre	quatre	DET	DET	s=card|n=p	5	det	5	det
+5	portes	porte	NC	NC	n=p|g=f	3	obj	3	obj
+6	en	en	P	P		3	mod	3	mod
+7	direction	direction	NC	NC	n=s|g=f	6	prep	6	prep
+8	des	de	P+D	P+D	n=p	3	mod	3	mod
+9	points	point	NC	NC	n=p|g=m	8	prep	8	prep
+10	cardinaux	cardinal	ADJ	ADJ	n=p|g=m	9	mod	9	mod
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	celle	celle	PRO	PRO	n=s|g=f	23	suj	23	suj
+13	orientée	orienter	VPP	VPP	n=s|g=f|t=K	12	mod	12	mod
+14	vers	vers	P	P		13	mod	13	mod
+15	la	la	DET	DET	n=s|g=f	16	det	16	det
+16	mosquée	mosquée	NC	NC	n=s|g=f	14	prep	14	prep
+17	Al-Aqsa	_	NPP	NPP		16	mod	16	mod
+18	et	et	CC	CC		16	coord	16	coord
+19	donc	donc	ADV	ADV		18	mod	18	mod
+20	vers	vers	P	P		18	dep_coord	18	dep_coord
+21	La	_	NPP	NPP		20	prep	20	prep
+22	Mecque	_	NPP	NPP		21	mod	21	mod
+23	disposant	disposer	VPR	VPR	t=G	3	mod	3	mod
+24	d'	de	P	P		23	mod	23	mod
+25	un	un	DET	DET	n=s|g=m	26	det	26	det
+26	portique	portique	NC	NC	n=s|g=m	24	prep	24	prep
+27	plus	plus	ADV	ADV		28	mod	28	mod
+28	imposant	imposant	ADJ	ADJ	n=s|g=m	26	mod	26	mod
+29	.	.	PONCT	PONCT		28	ponct	28	ponct
+
+</p><p>
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	possède	posséder	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	également	_	ADV	ADV		2	mod	2	mod
+4	deux	deux	DET	DET	s=card|n=p	5	det	5	det
+5	mihrab	_	NC	NC		2	obj	2	obj
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	situés	situer	VPP	VPP	n=p|g=m|t=K	5	mod	5	mod
+8	dans	dans	P	P		7	mod	7	mod
+9	la	la	DET	DET	n=s|g=f	10	det	10	det
+10	grotte	grotte	NC	NC	n=s|g=f	8	prep	8	prep
+11	du	de	P+D	P+D	n=s|g=m	10	dep	10	dep
+12	Dôme	_	NPP	NPP		11	prep	11	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	donc	donc	ADV	ADV		15	mod	15	mod
+15	non	non	ADV	ADV		16	mod	16	mod
+16	visibles	visible	ADJ	ADJ	n=p	10	mod	10	mod
+17	depuis	depuis	P	P		7	mod	7	mod
+18	l'	le	DET	DET	n=s	19	det	19	det
+19	intérieur	intérieur	NC	NC	n=s|g=m	17	prep	17	prep
+20	de	de	P	P		19	dep	19	dep
+21	la	la	DET	DET	n=s|g=f	22	det	22	det
+22	mosquée	mosquée	NC	NC	n=s|g=f	20	prep	20	prep
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+1	Une	une	DET	DET	n=s|g=f	3	det	3	det
+2	petite	petit	ADJ	ADJ	n=s|g=f	3	mod	3	mod
+3	annexe	annexe	ADJ	ADJ	n=s	12	suj	12	suj
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	comprenant	comprendre	VPR	VPR	t=G	3	mod	3	mod
+6	des	des	DET	DET	n=p	7	det	7	det
+7	colonnes	colonne	NC	NC	n=p|g=f	5	obj	5	obj
+8	à	à	P	P		5	mod	5	mod
+9	chapiteaux	chapiteau	NC	NC	n=p|g=m	8	prep	8	prep
+10	byzantins	byzantin	ADJ	ADJ	n=p|g=m	9	mod	9	mod
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	abrite	abriter	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+13	le	le	DET	DET	n=s|g=m	14	det	14	det
+14	bassin	bassin	NC	NC	n=s|g=m	12	obj	12	obj
+15	aux	à	P+D	P+D	n=p	12	mod	12	mod
+16	ablutions	ablution	NC	NC	n=p|g=f	15	prep	15	prep
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+</p><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	Dôme	_	NPP	NPP		3	suj	3	suj
+3	ressemble	ressembler	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	beaucoup	beaucoup	ADV	ADV		3	mod	3	mod
+5	à	à	P	P		3	mod	3	mod
+6	l'	le	DET	DET	n=s	7	det	7	det
+7	église	église	NC	NC	n=s|g=f	5	prep	5	prep
+8	du	de	P+D	P+D	n=s|g=m	7	dep	7	dep
+9	Saint-Sépulcre	_	NPP	NPP		8	prep	8	prep
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	probablement	_	ADV	ADV		12	mod	12	mod
+12	parce	_	ADV	ADV		3	mod	3	mod
+13	qu'	que	CS	CS		3	mod	3	mod
+14	il	il	CLS	CLS	n=s|g=m|p=3	15	suj	15	suj
+15	a	avoir	V	V	n=s|t=P|p=3	13	sub	13	sub
+16	des	des	DET	DET	n=p	17	det	17	det
+17	héritages	héritage	NC	NC	n=p|g=m	15	obj	15	obj
+18	architecturaux	architectural	ADJ	ADJ	n=p|g=m	17	mod	17	mod
+19	byzantins	byzantin	NC	NC	n=p|g=f	17	mod	17	mod
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+</p><h3>
+1	Élévation	élévation	NC	NC	n=s|g=f	0	_	0	_
+
+</h3><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	dôme	dôme	NC	NC	n=s|g=m	4	suj	4	suj
+3	s'	se	CLR	CLR	n=p,s|p=3	4	aff	4	aff
+4	élève	élever	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+5	sur	sur	P	P		4	mod	4	mod
+6	douze	douze	DET	DET	s=card|n=p	7	det	7	det
+7	piliers	pilier	NC	NC	n=p|g=m	5	prep	5	prep
+8	ronds	rond	ADJ	ADJ	n=p|g=m	7	mod	7	mod
+9	en	en	P	P		4	mod	4	mod
+10	marbre	marbre	NC	NC	n=s|g=m	9	prep	9	prep
+11	et	et	CC	CC		4	coord	4	coord
+12	quatre	quatre	PRO	PRO	s=card|n=p	11	dep_coord	11	dep_coord
+13	en	en	P	P		11	dep_coord	11	dep_coord
+14	granite	granite	NC	NC	n=s|g=m	13	prep	13	prep
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+1	Seize	seize	DET	DET	s=card|n=p	2	det	2	det
+2	baies	baie	NC	NC	n=p|g=f	10	suj	10	suj
+3	situées	situer	VPP	VPP	n=p|g=f|t=K	2	mod	2	mod
+4	sur	sur	P	P		3	mod	3	mod
+5	le	le	DET	DET	n=s|g=m	6	det	6	det
+6	tambour	tambour	NC	NC	n=s|g=m	4	prep	4	prep
+7	de	de	P	P		3	mod	3	mod
+8	la	la	DET	DET	n=s|g=f	9	det	9	det
+9	coupole	coupole	NC	NC	n=s|g=f	7	prep	7	prep
+10	apportent	apporter	V	V	n=p|t=P,S|p=3	0	root	0	root
+11	la	la	DET	DET	n=s|g=f	12	det	12	det
+12	lumière	lumière	NC	NC	n=s|g=f	10	obj	10	obj
+13	à	à	P	P		10	mod	10	mod
+14	l'	le	DET	DET	n=s	15	det	15	det
+15	intérieur	intérieur	NC	NC	n=s|g=m	13	prep	13	prep
+16	de	de	P	P		10	mod	10	mod
+17	la	la	DET	DET	n=s|g=f	18	det	18	det
+18	mosquée	mosquée	NC	NC	n=s|g=f	16	prep	16	prep
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	murs	mur	NC	NC	n=p|g=m	6	suj	6	suj
+3	extérieurs	extérieur	ADJ	ADJ	n=p|g=m	2	mod	2	mod
+4	octogonaux	octogonal	ADJ	ADJ	n=p|g=m	2	mod	2	mod
+5	sont	être	V	V	n=p|t=P|p=3	6	aux_pass	6	aux_pass
+6	pourvus	pourvoir	VPP	VPP	n=p|g=m|t=K	0	root	0	root
+7	d'	de	P	P		6	mod	6	mod
+8	une	une	DET	DET	n=s|g=f	9	det	9	det
+9	alternance	alternance	NC	NC	n=s|g=f	7	prep	7	prep
+10	de	de	P	P		6	mod	6	mod
+11	colonnes	colonne	NC	NC	n=p|g=f	10	prep	10	prep
+12	de	de	P	P		11	dep	11	dep
+13	marbre	marbre	NC	NC	n=s|g=m	12	prep	12	prep
+14	coloré	colorer	VPP	VPP	n=s|g=m|t=K	13	mod	13	mod
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	colonnade	colonnade	NC	NC	n=s|g=f	8	suj	8	suj
+3	circulaire	circulaire	ADJ	ADJ	n=s	2	mod	2	mod
+4	(	(	PONCT	PONCT		3	ponct	3	ponct
+5	intérieure	intérieur	ADJ	ADJ	n=s|g=f	2	mod	2	mod
+6	)	)	PONCT	PONCT		5	ponct	5	ponct
+7	est	être	V	V	n=s|t=P|p=3	8	aux_tps	8	aux_tps
+8	formée	former	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+9	sur	sur	P	P		8	mod	8	mod
+10	la	la	DET	DET	n=s|g=f	11	det	11	det
+11	division	division	NC	NC	n=s|g=f	9	prep	9	prep
+12	en	en	P	P		8	mod	8	mod
+13	quatre	quatre	DET	DET	s=card|n=p	14	det	14	det
+14	piliers	pilier	NC	NC	n=p|g=m	12	prep	12	prep
+15	de	de	P	P		8	mod	8	mod
+16	l'	le	DET	DET	n=s	17	det	17	det
+17	espace	espace	NC	NC	n=s	15	prep	15	prep
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	Sur	sur	P	P		8	mod	8	mod
+2	la	la	DET	DET	n=s|g=f	3	det	3	det
+3	colonnade	colonnade	NC	NC	n=s|g=f	1	prep	1	prep
+4	octogonale	octogonal	ADJ	ADJ	n=s|g=f	3	mod	3	mod
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	il	il	CLS	CLS	n=s|g=m|p=3	8	suj	8	suj
+7	y	y	CLO	CLO		8	aff	8	aff
+8	a	avoir	V	V	n=s|t=P|p=3	0	root	0	root
+9	un	un	DET	DET	n=s|g=m	10	det	10	det
+10	ordre	ordre	NC	NC	n=s|g=m	8	obj	8	obj
+11	de	de	P	P		8	mod	8	mod
+12	deux	deux	DET	DET	s=card|n=p	13	det	13	det
+13	colonnes	colonne	NC	NC	n=p|g=f	11	prep	11	prep
+14	reliées	relier	VPP	VPP	n=p|g=f|t=K	13	mod	13	mod
+15	par	par	P	P		14	mod	14	mod
+16	des	des	DET	DET	n=p	17	det	17	det
+17	arcs	arc	NC	NC	n=p|g=m	15	prep	15	prep
+18	surhaussés	surhausser	VPP	VPP	n=p|g=m|t=K	17	mod	17	mod
+19	entre	entre	P	P		18	mod	18	mod
+20	chacun	chacun	PRO	PRO	n=s|g=m	19	prep	19	prep
+21	des	de	P+D	P+D	n=p	20	dep	20	dep
+22	huit	huit	ADJ	ADJ	s=card|n=p	23	mod	23	mod
+23	piliers	pilier	NC	NC	n=p|g=m	21	prep	21	prep
+24	.	.	PONCT	PONCT		23	ponct	23	ponct
+
+</p><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	mur	mur	NC	NC	n=s|g=m	4	suj	4	suj
+3	extérieur	extérieur	ADJ	ADJ	n=s|g=m	2	mod	2	mod
+4	possède	posséder	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+5	de	de	DET	DET	n=p	7	det	7	det
+6	nombreuses	nombreux	ADJ	ADJ	n=p|g=f	7	mod	7	mod
+7	fenêtres	fenêtre	NC	NC	n=p|g=f	4	obj	4	obj
+8	à	à	P	P		7	dep	7	dep
+9	claustras	claustra	NC	NC	n=p|g=m	8	prep	8	prep
+10	sur	sur	P	P		4	mod	4	mod
+11	chaque	chaque	DET	DET	n=s	12	det	12	det
+12	face	face	NC	NC	n=s|g=f	10	prep	10	prep
+13	du	de	P+D	P+D	n=s|g=m	12	dep	12	dep
+14	monument	monument	NC	NC	n=s|g=m	13	prep	13	prep
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	colonnes	colonne	NC	NC	n=p|g=f	4	suj	4	suj
+3	sont	être	V	V	n=p|t=P|p=3	4	aux_pass	4	aux_pass
+4	surmontées	surmonter	VPP	VPP	n=p|g=f|t=K	0	root	0	root
+5	de	de	P	P		4	mod	4	mod
+6	chapiteaux	chapiteau	NC	NC	n=p|g=m	5	prep	5	prep
+7	à	à	P	P		4	mod	4	mod
+8	feuilles	feuille	NC	NC	n=p|g=f	7	prep	7	prep
+9	d'	de	P	P		4	mod	4	mod
+10	acanthe	acanthe	NC	NC	n=s|g=f	9	prep	9	prep
+11	(	(	PONCT	PONCT		10	ponct	10	ponct
+12	motif	motif	NC	NC	n=s|g=m	4	mod	4	mod
+13	végétal	végétal	ADJ	ADJ	n=s|g=m	12	mod	12	mod
+14	)	)	PONCT	PONCT		13	ponct	13	ponct
+15	et	et	CC	CC		4	coord	4	coord
+16	renforcées	renforcer	VPP	VPP	n=p|g=f|t=K	15	dep_coord	15	dep_coord
+17	par	par	P	P		16	mod	16	mod
+18	une	une	DET	DET	n=s|g=f	19	det	19	det
+19	bande	bande	NC	NC	n=s|g=f	17	prep	17	prep
+20	de	de	P	P		19	dep	19	dep
+21	poutres	poutre	NC	NC	n=p|g=f	20	prep	20	prep
+22	(	(	PONCT	PONCT		21	ponct	21	ponct
+23	que	que	PROREL	PROREL		26	mod	26	mod
+24	l'	le	DET	DET	n=s	25	det	25	det
+25	on	on	CLS	CLS	n=s|p=3	26	suj	26	suj
+26	peut	pouvoir	V	V	n=s|t=P|p=3	4	mod	4	mod
+27	appeler	appeler	VINF	VINF	t=W	26	obj	26	obj
+28	aussi	aussi	ADV	ADV		27	mod	27	mod
+29	«_	"	PONCT	PONCT		28	ponct	28	ponct
+30	tirants	tirant	NC	NC	n=p|g=m	27	obj	27	obj
+31	_»	"	PONCT	PONCT		30	ponct	30	ponct
+32	)	)	PONCT	PONCT		30	ponct	30	ponct
+33	.	.	PONCT	PONCT		30	ponct	30	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	ouvertures	ouverture	NC	NC	n=p|g=f	5	suj	5	suj
+3	extérieures	extérieur	ADJ	ADJ	n=p|g=f	2	mod	2	mod
+4	sont	être	V	V	n=p|t=P|p=3	5	aux_pass	5	aux_pass
+5	fermées	fermer	VPP	VPP	n=p|g=f|t=K	0	root	0	root
+6	par	par	P	P		5	mod	5	mod
+7	des	des	DET	DET	n=p	9	det	9	det
+8	doubles	double	ADJ	ADJ	n=p	9	mod	9	mod
+9	grilles	grille	NC	NC	n=p|g=f	6	prep	6	prep
+10	qui	qui	PROREL	PROREL	n=s	11	suj	11	suj
+11	datent	dater	V	V	n=p|t=P,S|p=3	9	mod_rel	9	mod_rel
+12	de	de	P	P		11	mod	11	mod
+13	l'	le	DET	DET	n=s	14	det	14	det
+14	époque	époque	NC	NC	n=s|g=f	12	prep	12	prep
+15	ottomane	ottoman	ADJ	ADJ	n=s|g=f	14	mod	14	mod
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+</p><h3>
+1	Couverture	couverture	NC	NC	n=s|g=f	0	_	0	_
+2	du	de	P+D	P+D	n=s|g=m	1	dep	1	dep
+3	dôme	dôme	NC	NC	n=s|g=m	2	prep	2	prep
+
+</h3><p>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	coupole	coupole	NC	NC	n=s|g=f	8	suj	8	suj
+3	qui	qui	PROREL	PROREL	n=s	4	suj	4	suj
+4	surplombe	surplomber	V	V	n=s|t=P,S|p=1,3	2	mod_rel	2	mod_rel
+5	le	le	DET	DET	n=s|g=m	6	det	6	det
+6	Rocher	Rocher	NPP	NPP	n=s|g=m	4	suj	4	suj
+7	est	être	V	V	n=s|t=P|p=3	8	aux_tps	8	aux_tps
+8	formée	former	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+9	d'	de	P	P		8	mod	8	mod
+10	un	un	DET	DET	n=s|g=m	12	det	12	det
+11	haut	haut	ADJ	ADJ	n=s|g=m	12	mod	12	mod
+12	tambour	tambour	NC	NC	n=s|g=m	9	prep	9	prep
+13	à	à	P	P		8	mod	8	mod
+14	deux	deux	DET	DET	s=card|n=p	15	det	15	det
+15	étages	étage	NC	NC	n=p|g=m	13	prep	13	prep
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+1	Sur	sur	P	P		11	mod	11	mod
+2	la	la	DET	DET	n=s|g=f	3	det	3	det
+3	partie	partie	NC	NC	n=s|g=f	1	prep	1	prep
+4	inférieure	inférieur	ADJ	ADJ	n=s|g=f	3	mod	3	mod
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	le	le	DET	DET	n=s|g=m	7	det	7	det
+7	mur	mur	NC	NC	n=s|g=m	11	suj	11	suj
+8	n'	ne	ADV	ADV		11	mod	11	mod
+9	est	être	V	V	n=s|t=P|p=3	11	aux_pass	11	aux_pass
+10	pas	pas	ADV	ADV		11	mod	11	mod
+11	percé	percer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	mais	mais	CC	CC		11	coord	11	coord
+14	sur	sur	P	P		13	dep_coord	13	dep_coord
+15	la	la	DET	DET	n=s|g=f	16	det	16	det
+16	partie	partie	NC	NC	n=s|g=f	14	prep	14	prep
+17	supérieure	supérieur	ADJ	ADJ	n=s|g=f	16	mod	16	mod
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	il	il	CLS	CLS	n=s|g=m|p=3	20	suj	20	suj
+20	a	avoir	V	V	n=s|t=P|p=3	11	mod	11	mod
+21	seize	seize	DET	DET	s=card|n=p	22	det	22	det
+22	fenêtres	fenêtre	NC	NC	n=p|g=f	20	obj	20	obj
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	dôme	dôme	NC	NC	n=s|g=m	3	suj	3	suj
+3	fait	faire	V	V	n=s|t=P|p=3	0	root	0	root
+4	20,3	20,3	NC	NC		3	obj	3	obj
+5	m	_	NPP	NPP		4	mod	4	mod
+6	de	de	P	P		3	mod	3	mod
+7	diamètre	diamètre	NC	NC	n=s|g=m	6	prep	6	prep
+8	et	et	CC	CC		3	coord	3	coord
+9	20,5	20,5	NC	NC		0	_	0	_
+10	m	_	NPP	NPP		9	mod	9	mod
+11	de	de	P	P		9	dep	9	dep
+12	hauteur	hauteur	NC	NC	n=s|g=f	11	prep	11	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	des	des	DET	DET	n=p	15	det	15	det
+15	dimensions	dimension	NC	NC	n=p|g=f	0	_	0	_
+16	semblables	semblable	ADJ	ADJ	n=p	15	mod	15	mod
+17	à	à	P	P		15	dep	15	dep
+18	celles	celle	PRO	PRO	n=p|g=f	17	prep	17	prep
+19	du	de	P+D	P+D	n=s|g=m	15	dep	15	dep
+20	Saint-Sépulcre	_	NPP	NPP		19	prep	19	prep
+21	.	.	PONCT	PONCT		20	ponct	20	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	3	suj	3	suj
+2	y	y	CLO	CLO		3	aff	3	aff
+3	a	avoir	V	V	n=s|t=P|p=3	0	root	0	root
+4	deux	deux	DET	DET	s=card|n=p	5	det	5	det
+5	coques	coque	NC	NC	n=p|g=f	3	obj	3	obj
+6	en	en	P	P		5	dep	5	dep
+7	bois	bois	NC	NC	g=m	6	prep	6	prep
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	dont	dont	PROREL	PROREL		13	mod	13	mod
+10	l'	le	DET	DET	n=s	11	det	11	det
+11	extérieur	extérieur	NC	NC	n=s|g=m	13	suj	13	suj
+12	est	être	V	V	n=s|t=P|p=3	13	aux_tps	13	aux_tps
+13	doré	dorer	VPP	VPP	n=s|g=m|t=K	5	mod_rel	5	mod_rel
+14	par	par	P	P		13	mod	13	mod
+15	un	un	DET	DET	n=s|g=m	16	det	16	det
+16	alliage	alliage	NC	NC	n=s|g=m	14	prep	14	prep
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+1	Selon	selon	P	P		10	mod	10	mod
+2	plusieurs	plusieurs	DET	DET	n=p	3	det	3	det
+3	auteurs	auteur	NC	NC	n=p|g=m	1	prep	1	prep
+4	musulmans	musulman	ADJ	ADJ	n=p|g=m	3	mod	3	mod
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	la	la	DET	DET	n=s|g=f	7	det	7	det
+7	coupole	coupole	NC	NC	n=s|g=f	10	suj	10	suj
+8	avait	avoir	V	V	n=s|t=I|p=3	10	aux_tps	10	aux_tps
+9	été	être	VPP	VPP	t=K	10	aux_pass	10	aux_pass
+10	recouverte	recouvrir	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+11	d'	de	P	P		10	mod	10	mod
+12	or	or	NC	NC	n=s|g=m	11	prep	11	prep
+13	qui	qui	PROREL	PROREL	n=s	14	suj	14	suj
+14	restait	rester	V	V	n=s|t=I|p=3	10	mod	10	mod
+15	après	après	P	P		14	mod	14	mod
+16	la	la	DET	DET	n=s|g=f	17	det	17	det
+17	construction	construction	NC	NC	n=s|g=f	15	prep	15	prep
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	mais	mais	CC	CC		10	coord	10	coord
+20	ce	ce	CLS	CLS		22	suj	22	suj
+21	ne	ne	ADV	ADV		22	mod	22	mod
+22	serait	être	V	V	n=s|t=C|p=3	19	dep_coord	19	dep_coord
+23	qu'	que	CS	CS		22	mod	22	mod
+24	une	une	DET	DET	n=s|g=f	25	det	25	det
+25	légende	légende	NC	NC	n=s|g=f	0	_	0	_
+26	.	.	PONCT	PONCT		25	ponct	25	ponct
+
+</p><p>
+1	Plusieurs	plusieurs	DET	DET	n=p	2	det	2	det
+2	peintures	peinture	NC	NC	n=p|g=f	8	suj	8	suj
+3	des	de	P+D	P+D	n=p	2	dep	2	dep
+4	XIX	_	NPP	NPP		3	prep	3	prep
+5	et	et	CC	CC		2	coord	2	coord
+6	XX	_	ADJ	ADJ		7	mod	7	mod
+7	siècles	siècle	NC	NC	n=p|g=m	5	dep_coord	5	dep_coord
+8	montrent	montrer	V	V	n=p|t=P,S|p=3	0	root	0	root
+9	le	le	DET	DET	n=s|g=m	10	det	10	det
+10	dôme	dôme	NC	NC	n=s|g=m	8	obj	8	obj
+11	avec	avec	P	P		8	mod	8	mod
+12	une	une	DET	DET	n=s|g=f	13	det	13	det
+13	couleur	couleur	NC	NC	n=s|g=f	11	prep	11	prep
+14	dorée	dorer	VPP	VPP	n=s|g=f|t=K	13	mod	13	mod
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	tel	tel	ADJ	ADJ	n=s|g=m	13	mod	13	mod
+17	qu'	que	CS	CS		8	mod	8	mod
+18	on	on	CLS	CLS	n=s|p=3	19	suj	19	suj
+19	peut	pouvoir	V	V	n=s|t=P|p=3	17	sub	17	sub
+20	le	le	CLO	CLO	n=s|g=m|p=3	21	obj	21	obj
+21	voir	voir	VINF	VINF	t=W	19	obj	19	obj
+22	aujourd'hui	aujourd'hui	ADV	ADV		21	mod	21	mod
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+1	Cependant	cependant	ADV	ADV		13	mod	13	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	une	une	DET	DET	n=s|g=f	4	det	4	det
+4	toile	toile	NC	NC	n=s|g=f	13	suj	13	suj
+5	de	de	P	P		4	dep	4	dep
+6	1928	1928	NC	NC		5	prep	5	prep
+7	et	et	CC	CC		4	coord	4	coord
+8	plusieurs	plusieurs	DET	DET	n=p	9	det	9	det
+9	photos	photo	NC	NC	n=p|g=f	7	dep_coord	7	dep_coord
+10	du	de	P+D	P+D	n=s|g=m	4	dep	4	dep
+11	XXe	_	ADJ	ADJ		12	mod	12	mod
+12	siècle	siècle	NC	NC	n=s|g=m	10	prep	10	prep
+13	montrent	montrer	V	V	n=p|t=P,S|p=3	0	root	0	root
+14	le	le	DET	DET	n=s|g=m	15	det	15	det
+15	dôme	dôme	NC	NC	n=s|g=m	13	obj	13	obj
+16	sans	sans	P	P		13	mod	13	mod
+17	dorure	dorure	NC	NC	n=s|g=f	16	prep	16	prep
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	4	suj	4	suj
+2	aurait	avoir	V	V	n=s|t=C|p=3	4	aux_tps	4	aux_tps
+3	été	être	VPP	VPP	t=K	4	aux_pass	4	aux_pass
+4	redoré	redorer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+5	en	en	P	P		4	mod	4	mod
+6	1965	1965	NC	NC		5	prep	5	prep
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	mais	mais	CC	CC		4	coord	4	coord
+9	l'	le	DET	DET	n=s	10	det	10	det
+10	état	état	NC	NC	n=s|g=m	0	_	0	_
+11	de	de	P	P		10	dep	10	dep
+12	la	la	DET	DET	n=s|g=f	13	det	13	det
+13	coupole	coupole	NC	NC	n=s|g=f	11	prep	11	prep
+14	actuelle	actuel	ADJ	ADJ	n=s|g=f	13	mod	13	mod
+15	date	date	NC	NC	n=s|g=f	13	mod	13	mod
+16	de	de	P	P		10	dep	10	dep
+17	la	la	DET	DET	n=s|g=f	18	det	18	det
+18	restauration	restauration	NC	NC	n=s|g=f	16	prep	16	prep
+19	de	de	P	P		18	dep	18	dep
+20	1995	1995	NC	NC		19	prep	19	prep
+21	.	.	PONCT	PONCT		20	ponct	20	ponct
+
+</p><p>
+1	Au-dessus	au-dessus	ADV	ADV		9	mod	9	mod
+2	des	des	DET	DET	n=p	3	det	3	det
+3	déambulatoires	déambulatoire	NC	NC	n=p|g=m	9	mod	9	mod
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	un	un	DET	DET	n=s|g=m	6	det	6	det
+6	toit	toit	NC	NC	n=s|g=m	9	suj	9	suj
+7	en	en	P	P		6	dep	6	dep
+8	pente	pente	NC	NC	n=s|g=f	7	prep	7	prep
+9	fait	faire	V	V	n=s|t=P|p=3	0	root	0	root
+10	office	office	NC	NC	n=s	9	obj	9	obj
+11	de	de	P	P		9	mod	9	mod
+12	plafond	plafond	NC	NC	n=s|g=m	11	prep	11	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	mais	mais	CC	CC		9	coord	9	coord
+15	il	il	CLS	CLS	n=s|g=m|p=3	17	suj	17	suj
+16	est	être	V	V	n=s|t=P|p=3	17	aux_tps	17	aux_tps
+17	caché	cacher	VPP	VPP	n=s|g=m|t=K	14	dep_coord	14	dep_coord
+18	par	par	P	P		17	mod	17	mod
+19	la	la	DET	DET	n=s|g=f	21	det	21	det
+20	grande	grand	ADJ	ADJ	n=s|g=f	21	mod	21	mod
+21	hauteur	hauteur	NC	NC	n=s|g=f	18	prep	18	prep
+22	du	de	P+D	P+D	n=s|g=m	17	mod	17	mod
+23	parapet	parapet	NC	NC	n=s|g=m	22	prep	22	prep
+24	de	de	P	P		17	mod	17	mod
+25	la	la	DET	DET	n=s|g=f	26	det	26	det
+26	mosquée	mosquée	NC	NC	n=s|g=f	24	prep	24	prep
+27	.	.	PONCT	PONCT		26	ponct	26	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	3	suj	3	suj
+2	se	se	CLR	CLR	n=p,s|p=3	3	aff	3	aff
+3	situe	situer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	juste	juste	ADV	ADV		3	mod	3	mod
+5	au-dessous	au-dessous	ADV	ADV		3	mod	3	mod
+6	des	des	DET	DET	n=p	7	det	7	det
+7	fenêtres	fenêtre	NC	NC	n=p|g=f	3	obj	3	obj
+8	à	à	P	P		7	dep	7	dep
+9	claustras	claustra	NC	NC	n=p|g=m	8	prep	8	prep
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+</p><h2>
+1	Décor	décor	NC	NC	n=s|g=m	0	_	0	_
+
+</h2><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	décor	décor	NC	NC	n=s|g=m	6	suj	6	suj
+3	de	de	P	P		2	dep	2	dep
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	mosquée	mosquée	NC	NC	n=s|g=f	3	prep	3	prep
+6	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+7	de	de	P	P		6	mod	6	mod
+8	trois	trois	DET	DET	s=card|n=p	9	det	9	det
+9	types	type	NC	NC	n=p|g=m	7	prep	7	prep
+10	:	:	PONCT	PONCT		9	ponct	9	ponct
+11	les	les	DET	DET	n=p	12	det	12	det
+12	tirants	tirant	NC	NC	n=p|g=m	6	mod	6	mod
+13	en	en	P	P		12	dep	12	dep
+14	bois	bois	NC	NC	g=m	13	prep	13	prep
+15	qui	qui	PROREL	PROREL	n=s	17	suj	17	suj
+16	sont	être	V	V	n=p|t=P|p=3	17	aux_pass	17	aux_pass
+17	couverts	couvrir	VPP	VPP	n=p|g=m|t=K	12	mod_rel	12	mod_rel
+18	de	de	P	P		17	mod	17	mod
+19	bronze	bronze	NC	NC	n=s|g=m	18	prep	18	prep
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	les	les	DET	DET	n=p	22	det	22	det
+22	placages	placage	NC	NC	n=p|g=m	17	mod	17	mod
+23	de	de	P	P		22	dep	22	dep
+24	marbre	marbre	NC	NC	n=s|g=m	23	prep	23	prep
+25	sur	sur	P	P		17	mod	17	mod
+26	les	les	DET	DET	n=p	27	det	27	det
+27	murs	mur	NC	NC	n=p|g=m	25	prep	25	prep
+28	et	et	CC	CC		27	coord	27	coord
+29	les	les	DET	DET	n=p	30	det	30	det
+30	piliers	pilier	NC	NC	n=p|g=m	28	dep_coord	28	dep_coord
+31	et	et	CC	CC		12	coord	12	coord
+32	la	la	DET	DET	n=s|g=f	33	det	33	det
+33	présence	présence	NC	NC	n=s|g=f	31	dep_coord	31	dep_coord
+34	d'	de	P	P		33	dep	33	dep
+35	une	une	DET	DET	n=s|g=f	37	det	37	det
+36	longue	long	ADJ	ADJ	n=s|g=f	37	mod	37	mod
+37	bande	bande	NC	NC	n=s|g=f	34	prep	34	prep
+38	de	de	P	P		37	dep	37	dep
+39	mosaïque	mosaïque	NC	NC	n=s|g=f	38	prep	38	prep
+40	(	(	PONCT	PONCT		39	ponct	39	ponct
+41	280	280	NC	NC		37	mod	37	mod
+42	m	_	NPP	NPP		41	mod	41	mod
+43	)	)	PONCT	PONCT		42	ponct	42	ponct
+44	pour	pour	P	P		6	mod	6	mod
+45	les	les	DET	DET	n=p	46	det	46	det
+46	parties	partie	NC	NC	n=p|g=f	44	prep	44	prep
+47	hautes	haut	ADJ	ADJ	n=p|g=f	46	mod	46	mod
+48	(	(	PONCT	PONCT		47	ponct	47	ponct
+49	écoinçons	_	NC	NC		46	mod	46	mod
+50	et	et	CC	CC		49	coord	49	coord
+51	soffites	soffite	NC	NC	n=p|g=m	50	dep_coord	50	dep_coord
+52	)	)	PONCT	PONCT		51	ponct	51	ponct
+53	.	.	PONCT	PONCT		51	ponct	51	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	décor	décor	NC	NC	n=s|g=m	3	suj	3	suj
+3	devait	devoir	V	V	n=s|t=I|p=3	0	root	0	root
+4	être	être	VINF	VINF	t=W	3	obj	3	obj
+5	identique	identique	ADJ	ADJ	n=s	4	ats	4	ats
+6	à	à	P	P		4	mod	4	mod
+7	l'	le	DET	DET	n=s	8	det	8	det
+8	extérieur	extérieur	NC	NC	n=s|g=m	6	prep	6	prep
+9	mais	mais	CC	CC		3	coord	3	coord
+10	il	il	CLS	CLS	n=s|g=m|p=3	13	suj	13	suj
+11	a	avoir	V	V	n=s|t=P|p=3	13	aux_tps	13	aux_tps
+12	été	être	VPP	VPP	t=K	13	aux_pass	13	aux_pass
+13	remplacé	remplacer	VPP	VPP	n=s|g=m|t=K	9	dep_coord	9	dep_coord
+14	par	par	P	P		13	mod	13	mod
+15	de	de	DET	DET	n=p	18	det	18	det
+16	très	très	ADV	ADV		17	mod	17	mod
+17	belles	beau	ADJ	ADJ	n=p|g=f	18	mod	18	mod
+18	céramiques	céramique	NC	NC	n=p|g=f	14	prep	14	prep
+19	ottomanes	ottoman	ADJ	ADJ	n=p|g=f	18	mod	18	mod
+20	polychromes	polychrome	ADJ	ADJ	n=p	18	mod	18	mod
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	mais	mais	CC	CC		13	coord	13	coord
+23	le	le	DET	DET	n=s|g=m	24	det	24	det
+24	marbre	marbre	NC	NC	n=s|g=m	27	suj	27	suj
+25	extérieur	extérieur	ADJ	ADJ	n=s|g=m	24	mod	24	mod
+26	est	être	V	V	n=s|t=P|p=3	27	aux_tps	27	aux_tps
+27	resté	rester	VPP	VPP	n=s|g=m|t=K	22	dep_coord	22	dep_coord
+28	intact	intact	ADJ	ADJ	n=s|g=m	27	ats	27	ats
+29	.	.	PONCT	PONCT		28	ponct	28	ponct
+
+1	On	on	CLS	CLS	n=s|p=3	3	suj	3	suj
+2	ne	ne	ADV	ADV		3	mod	3	mod
+3	sait	savoir	V	V	n=s|t=P|p=3	0	root	0	root
+4	pas	pas	ADV	ADV		3	mod	3	mod
+5	si	si	CS	CS		3	mod	3	mod
+6	les	les	DET	DET	n=p	7	det	7	det
+7	mosaïques	mosaïque	NC	NC	n=p|g=f	8	suj	8	suj
+8	couvraient	couvrir	V	V	n=p|t=I|p=3	5	sub	5	sub
+9	toute	tout	ADJ	ADJ	n=s|g=f	11	mod	11	mod
+10	la	la	DET	DET	n=s|g=f	11	det	11	det
+11	surface	surface	NC	NC	n=s|g=f	8	obj	8	obj
+12	ou	ou	CC	CC		3	coord	3	coord
+13	étaient	être	V	V	n=p|t=I|p=3	12	dep_coord	12	dep_coord
+14	organisées	organiser	VPP	VPP	n=p|g=f|t=K	13	ponct	13	ponct
+15	autrement	_	ADV	ADV		14	mod	14	mod
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+</p><p>
+1	Il	il	CLS	CLS	n=s|g=m|p=3	4	suj	4	suj
+2	n'	ne	ADV	ADV		4	mod	4	mod
+3	y	y	CLO	CLO		4	aff	4	aff
+4	a	avoir	V	V	n=s|t=P|p=3	0	root	0	root
+5	aucune	aucune	DET	DET	n=s|g=f	6	det	6	det
+6	représentation	représentation	NC	NC	n=s|g=f	4	obj	4	obj
+7	d'	de	P	P		6	dep	6	dep
+8	hommes	homme	NC	NC	n=p|g=m	7	prep	7	prep
+9	ou	ou	CC	CC		4	coord	4	coord
+10	d'	de	P	P		9	dep_coord	9	dep_coord
+11	animaux	animal	NC	NC	n=p|g=m	10	prep	10	prep
+12	dans	dans	P	P		4	mod	4	mod
+13	le	le	DET	DET	n=s|g=m	14	det	14	det
+14	monument	monument	NC	NC	n=s|g=m	12	prep	12	prep
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	à	à	P	P		4	mod	4	mod
+17	cause	cause	NC	NC	n=s|g=f	16	prep	16	prep
+18	de	de	P	P		4	mod	4	mod
+19	l'	le	DET	DET	n=s	20	det	20	det
+20	interdiction	interdiction	NC	NC	n=s|g=f	18	prep	18	prep
+21	faite	faire	VPP	VPP	n=s|g=f|t=K	20	mod	20	mod
+22	dans	dans	P	P		21	mod	21	mod
+23	le	le	DET	DET	n=s|g=m	24	det	24	det
+24	Coran	_	NPP	NPP		22	prep	22	prep
+25	de	de	P	P		4	mod	4	mod
+26	représenter	représenter	VINF	VINF	t=W	25	prep	25	prep
+27	ce	ce	DET	DET	n=s|g=m	28	det	28	det
+28	genre	genre	NC	NC	n=s|g=m	26	obj	26	obj
+29	d'	de	P	P		28	dep	28	dep
+30	images	image	NC	NC	n=p|g=f	29	prep	29	prep
+31	.	.	PONCT	PONCT		30	ponct	30	ponct
+
+1	Par	par	P	P		6	mod	6	mod
+2	contre	contre	NC	NC	n=s|g=m	1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	il	il	CLS	CLS	n=s|g=m|p=3	6	suj	6	suj
+5	y	y	CLO	CLO		6	aff	6	aff
+6	a	avoir	V	V	n=s|t=P|p=3	0	root	0	root
+7	une	une	DET	DET	n=s|g=f	8	det	8	det
+8	omniprésence	omniprésence	NC	NC	n=s|g=f	6	obj	6	obj
+9	des	de	P+D	P+D	n=p	8	dep	8	dep
+10	éléments	élément	NC	NC	n=p|g=m	9	prep	9	prep
+11	végétaux	végétal	ADJ	ADJ	n=p|g=m	10	mod	10	mod
+12	:	:	PONCT	PONCT		11	ponct	11	ponct
+13	feuilles	feuille	NC	NC	n=p|g=f	10	mod	10	mod
+14	d'	de	P	P		13	dep	13	dep
+15	acanthe	acanthe	NC	NC	n=s|g=f	14	prep	14	prep
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	vignes	vigne	NC	NC	n=p|g=f	10	mod	10	mod
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	grandes	grand	ADJ	ADJ	n=p|g=f	17	mod	17	mod
+20	fleurs	fleur	NC	NC	n=p|g=f	17	mod	17	mod
+21	stylisées	styliser	VPP	VPP	n=p|g=f|t=K	20	mod	20	mod
+22	en	en	P	P		21	mod	21	mod
+23	forme	forme	NC	NC	n=s|g=f	22	prep	22	prep
+24	de	de	P	P		21	mod	21	mod
+25	lotus	lotus	NC	NC	g=m	24	prep	24	prep
+26	,	,	PONCT	PONCT		25	ponct	25	ponct
+27	arbres	arbre	NC	NC	n=p|g=m	25	mod	25	mod
+28	,	,	PONCT	PONCT		27	ponct	27	ponct
+29	tous	tout	PRO	PRO	n=p|g=m	0	_	0	_
+30	hérités	hériter	VPP	VPP	n=p|g=m|t=K	29	mod	29	mod
+31	des	de	P+D	P+D	n=p	30	mod	30	mod
+32	traditions	tradition	NC	NC	n=p|g=f	31	prep	31	prep
+33	gréco-romaine	gréco-romain	ADJ	ADJ	n=s|g=f	32	mod	32	mod
+34	et	et	CC	CC		33	coord	33	coord
+35	orientale	oriental	ADJ	ADJ	n=s|g=f	34	dep_coord	34	dep_coord
+36	.	.	PONCT	PONCT		35	ponct	35	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	teintes	teinte	NC	NC	n=p|g=f	4	suj	4	suj
+3	dominantes	dominant	ADJ	ADJ	n=p|g=f	2	mod	2	mod
+4	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+5	le	le	DET	DET	n=s|g=m	6	det	6	det
+6	bleu	bleu	NC	NC	n=s|g=m	4	obj	4	obj
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	le	le	DET	DET	n=s|g=m	9	det	9	det
+9	vert	vert	ADJ	ADJ	n=s|g=m	0	_	0	_
+10	et	et	CC	CC		9	coord	9	coord
+11	l'	le	DET	DET	n=s	12	det	12	det
+12	or	or	NC	NC	n=s|g=m	10	dep_coord	10	dep_coord
+13	.	.	PONCT	PONCT		12	ponct	12	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	3	suj	3	suj
+2	y	y	CLO	CLO		3	aff	3	aff
+3	avait	avoir	V	V	n=s|t=I|p=3	0	root	0	root
+4	aussi	aussi	ADV	ADV		3	mod	3	mod
+5	des	des	DET	DET	n=p	6	det	6	det
+6	bijoux	bijou	NC	NC	n=p|g=m	3	obj	3	obj
+7	et	et	CC	CC		3	coord	3	coord
+8	des	de	P+D	P+D	n=p	7	dep_coord	7	dep_coord
+9	pectoraux	pectoral	NC	NC	n=p|g=m	8	prep	8	prep
+10	sur	sur	P	P		3	mod	3	mod
+11	la	la	DET	DET	n=s|g=f	12	det	12	det
+12	façade	façade	NC	NC	n=s|g=f	10	prep	10	prep
+13	.	.	PONCT	PONCT		12	ponct	12	ponct
+
+</p><p>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	symbolique	symbolique	ADJ	ADJ	n=s	6	suj	6	suj
+3	du	de	P+D	P+D	n=s|g=m	2	mod	2	mod
+4	décor	décor	NC	NC	n=s|g=m	3	prep	3	prep
+5	a	avoir	V	V	n=s|t=P|p=3	6	aux_tps	6	aux_tps
+6	suscité	susciter	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+7	de	de	DET	DET	n=p	9	det	9	det
+8	nombreuses	nombreux	ADJ	ADJ	n=p|g=f	9	mod	9	mod
+9	interprétations	interprétation	NC	NC	n=p|g=f	6	obj	6	obj
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	mais	mais	CC	CC		6	coord	6	coord
+12	il	il	CLS	CLS	n=s|g=m|p=3	13	suj	13	suj
+13	semblerait	sembler	V	V	n=s|t=C|p=3	11	dep_coord	11	dep_coord
+14	que	que	CS	CS		13	obj	13	obj
+15	le	le	DET	DET	n=s|g=m	16	det	16	det
+16	décor	décor	NC	NC	n=s|g=m	18	suj	18	suj
+17	n'	ne	ADV	ADV		18	mod	18	mod
+18	ait	avoir	VS	VS	n=s|t=S|p=3	14	sub	14	sub
+19	qu'	que	CS	CS		13	mod	13	mod
+20	un	un	DET	DET	n=s|g=m	21	det	21	det
+21	but	but	NC	NC	n=s|g=m	0	_	0	_
+22	ornemental	ornemental	ADJ	ADJ	n=s|g=m	21	mod	21	mod
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	selon	selon	P	P		21	dep	21	dep
+25	son	son	DET	DET	n=s|g=m|p=3|poss=s	26	det	26	det
+26	agencement	agencement	NC	NC	n=s|g=m	24	prep	24	prep
+27	et	et	CC	CC		21	coord	21	coord
+28	son	son	DET	DET	n=s|g=m|p=3|poss=s	29	det	29	det
+29	iconographie	iconographie	NC	NC	n=s|g=f	27	dep_coord	27	dep_coord
+30	.	.	PONCT	PONCT		29	ponct	29	ponct
+
+</p><p>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	mosaïques	mosaïque	NC	NC	n=p|g=f	8	suj	8	suj
+3	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+4	dôme	dôme	NC	NC	n=s|g=m	3	prep	3	prep
+5	ont	avoir	V	V	n=p|t=P|p=3	8	aux_tps	8	aux_tps
+6	souvent	souvent	ADV	ADV		8	mod	8	mod
+7	été	être	VPP	VPP	t=K	8	aux_pass	8	aux_pass
+8	rapprochées	rapprocher	VPP	VPP	n=p|g=f|t=K	0	root	0	root
+9	des	de	P+D	P+D	n=p	8	mod	8	mod
+10	mosaïques	mosaïque	NC	NC	n=p|g=f	9	prep	9	prep
+11	de	de	P	P		8	mod	8	mod
+12	dômes	dôme	NC	NC	n=p|g=m	11	prep	11	prep
+13	chrétiens	chrétien	ADJ	ADJ	n=p|g=m	12	mod	12	mod
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	probable	probable	ADJ	ADJ	n=s	2	ats	2	ats
+4	qu'	que	CS	CS		2	mod	2	mod
+5	elles	elles	CLS	CLS	n=p|g=f|p=3	8	suj	8	suj
+6	aient	avoir	VS	VS	n=p|t=S|p=3	8	aux_tps	8	aux_tps
+7	été	être	VPP	VPP	t=K	8	aux_pass	8	aux_pass
+8	exécutées	exécuter	VPP	VPP	n=p|g=f|t=K	4	sub	4	sub
+9	par	par	P	P		8	mod	8	mod
+10	des	des	DET	DET	n=p	11	det	11	det
+11	artistes	artiste	NC	NC	n=p	9	prep	9	prep
+12	chrétiens	chrétien	ADJ	ADJ	n=p|g=m	11	mod	11	mod
+13	ou	ou	CC	CC		2	coord	2	coord
+14	récemment	_	ADV	ADV		15	mod	15	mod
+15	convertis	convertir	VPP	VPP	n=p|g=m|t=K	13	dep_coord	13	dep_coord
+16	à	à	P	P		15	mod	15	mod
+17	l'	le	DET	DET	n=s	18	det	18	det
+18	islam	islam	NC	NC	n=s|g=m	16	prep	16	prep
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	Cependant	cependant	ADV	ADV		5	mod	5	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	il	il	CLS	CLS	n=s|g=m|p=3	5	suj	5	suj
+4	y	y	CLO	CLO		5	aff	5	aff
+5	a	avoir	V	V	n=s|t=P|p=3	0	root	0	root
+6	une	une	DET	DET	n=s|g=f	7	det	7	det
+7	disparition	disparition	NC	NC	n=s|g=f	5	obj	5	obj
+8	de	de	P	P		5	mod	5	mod
+9	la	la	DET	DET	n=s|g=f	10	det	10	det
+10	figuration	figuration	NC	NC	n=s|g=f	8	prep	8	prep
+11	:	:	PONCT	PONCT		10	ponct	10	ponct
+12	en	en	P	P		5	mod	5	mod
+13	effet	effet	NC	NC	n=s|g=m	12	prep	12	prep
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	il	il	CLS	CLS	n=s|g=m|p=3	18	suj	18	suj
+16	n'	ne	ADV	ADV		18	mod	18	mod
+17	y	y	CLO	CLO		18	aff	18	aff
+18	a	avoir	V	V	n=s|t=P|p=3	5	mod	5	mod
+19	que	que	CS	CS		18	obj	18	obj
+20	des	des	DET	DET	n=p	21	det	21	det
+21	éléments	élément	NC	NC	n=p|g=m	0	_	0	_
+22	géométriques	géométrique	ADJ	ADJ	n=p	21	mod	21	mod
+23	et	et	CC	CC		22	coord	22	coord
+24	végétaux	végétal	ADJ	ADJ	n=p|g=m	23	dep_coord	23	dep_coord
+25	.	.	PONCT	PONCT		24	ponct	24	ponct
+
+</p><p>
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	historien	historien	NC	NC	n=s|g=m	22	suj	22	suj
+3	de	de	P	P		2	dep	2	dep
+4	l'	le	DET	DET	n=s	5	det	5	det
+5	art	art	NC	NC	n=s|g=m	3	prep	3	prep
+6	Oleg	Oleg	NPP	NPP	n=s|g=m	5	mod	5	mod
+7	Grabar	_	NPP	NPP		5	mod	5	mod
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	spécialiste	spécialiste	NC	NC	n=s	5	mod	5	mod
+10	des	de	P+D	P+D	n=p	9	dep	9	dep
+11	arts	art	NC	NC	n=p|g=m	10	prep	10	prep
+12	de	de	P	P		11	dep	11	dep
+13	l'	le	DET	DET	n=s	14	det	14	det
+14	Islam	_	NPP	NPP		12	prep	12	prep
+15	et	et	CC	CC		10	coord	10	coord
+16	du	de	P+D	P+D	n=s|g=m	15	dep_coord	15	dep_coord
+17	Dôme	dôme	NC	NC	n=s|g=m	16	prep	16	prep
+18	du	de	P+D	P+D	n=s|g=m	9	dep	9	dep
+19	Rocher	Rocher	NPP	NPP	n=s|g=m	18	prep	18	prep
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	a	avoir	V	V	n=s|t=P|p=3	22	aux_tps	22	aux_tps
+22	remarqué	remarquer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+23	dans	dans	P	P		22	mod	22	mod
+24	le	le	DET	DET	n=s|g=m	25	det	25	det
+25	décor	décor	NC	NC	n=s|g=m	23	prep	23	prep
+26	du	de	P+D	P+D	n=s|g=m	22	mod	22	mod
+27	bâtiment	bâtiment	NC	NC	n=s|g=m	26	prep	26	prep
+28	,	,	PONCT	PONCT		27	ponct	27	ponct
+29	deux	deux	DET	DET	s=card|n=p	30	det	30	det
+30	caractéristiques	caractéristique	NC	NC	n=p|g=f	22	obj	22	obj
+31	de	de	P	P		30	dep	30	dep
+32	l'	le	DET	DET	n=s	33	det	33	det
+33	art	art	NC	NC	n=s|g=m	31	prep	31	prep
+34	islamique	islamique	ADJ	ADJ	n=s	33	mod	33	mod
+35	.	.	PONCT	PONCT		34	ponct	34	ponct
+
+1	D'	de	P	P		6	mod	6	mod
+2	une	une	DET	DET	n=s|g=f	3	det	3	det
+3	part	part	NC	NC	n=s	1	prep	1	prep
+4	il	il	CLS	CLS	n=s|g=m|p=3	6	suj	6	suj
+5	y	y	CLO	CLO		6	a_obj	6	a_obj
+6	a	avoir	V	V	n=s|t=P|p=3	0	root	0	root
+7	l'	le	DET	DET	n=s	8	det	8	det
+8	utilisation	utilisation	NC	NC	n=s|g=f	6	obj	6	obj
+9	de	de	P	P		6	mod	6	mod
+10	formes	forme	NC	NC	n=p|g=f	9	prep	9	prep
+11	réalistes	réaliste	ADJ	ADJ	n=p	10	mod	10	mod
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	c'	ce	DET	DET	n=s|g=m	14	det	14	det
+14	est-à-dire	_	NC	NC		6	obj	6	obj
+15	des	de	P+D	P+D	n=p	14	dep	14	dep
+16	végétaux	_	NC	NC		15	prep	15	prep
+17	par	par	P	P		6	mod	6	mod
+18	exemple	exemple	NC	NC	n=s|g=m	17	prep	17	prep
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	pour	pour	P	P		6	mod	6	mod
+21	des	des	DET	DET	n=p	22	det	22	det
+22	buts	but	NC	NC	n=p|g=m	20	prep	20	prep
+23	non-réalistes	_	NC	NC		22	mod	22	mod
+24	(	(	PONCT	PONCT		23	ponct	23	ponct
+25	les	les	DET	DET	n=p	26	det	26	det
+26	artistes	artiste	NC	NC	n=p	28	suj	28	suj
+27	ne	ne	ADV	ADV		28	mod	28	mod
+28	voulaient	vouloir	V	V	n=p|t=I|p=3	6	mod	6	mod
+29	pas	pas	ADV	ADV		28	mod	28	mod
+30	représenter	représenter	VINF	VINF	t=W	28	obj	28	obj
+31	fidèlement	_	ADV	ADV		30	mod	30	mod
+32	la	la	DET	DET	n=s|g=f	33	det	33	det
+33	réalité	réalité	NC	NC	n=s|g=f	30	obj	30	obj
+34	mais	mais	CC	CC		30	coord	30	coord
+35	rendre	rendre	VINF	VINF	t=W	34	dep_coord	34	dep_coord
+36	la	la	DET	DET	n=s|g=f	37	det	37	det
+37	mosquée	mosquée	NC	NC	n=s|g=f	35	obj	35	obj
+38	la	la	DET	DET	n=s|g=f	41	det	41	det
+39	plus	plus	ADV	ADV		40	mod	40	mod
+40	belle	beau	ADJ	ADJ	n=s|g=f	41	mod	41	mod
+41	possible	possible	ADJ	ADJ	n=s	35	mod	35	mod
+42	)	)	PONCT	PONCT		41	ponct	41	ponct
+43	.	.	PONCT	PONCT		41	ponct	41	ponct
+
+1	Ainsi	ainsi	ADV	ADV		4	mod	4	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	nous	nous	CLS	CLS	n=p|p=1	4	suj	4	suj
+4	pouvons	pouvoir	V	V	n=p|t=P|p=1	0	root	0	root
+5	voir	voir	VINF	VINF	t=W	4	obj	4	obj
+6	des	des	DET	DET	n=p	7	det	7	det
+7	joyaux	joyau	NC	NC	n=p|g=m	5	obj	5	obj
+8	incrustés	incruster	VPP	VPP	n=p|g=m|t=K	7	mod	7	mod
+9	dans	dans	P	P		8	mod	8	mod
+10	des	des	DET	DET	n=p	11	det	11	det
+11	arbres	arbre	NC	NC	n=p|g=m	9	prep	9	prep
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	qui	qui	PROREL	PROREL	n=s	14	suj	14	suj
+14	illustrent	illustrer	V	V	n=p|t=P,S|p=3	7	mod_rel	7	mod_rel
+15	cette	cette	DET	DET	n=s|g=f	16	det	16	det
+16	idée	idée	NC	NC	n=s|g=f	14	obj	14	obj
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+1	D'	de	P	P		8	mod	8	mod
+2	une	une	DET	DET	n=s|g=f	4	det	4	det
+3	autre	autre	ADJ	ADJ	n=s	4	mod	4	mod
+4	part	part	NC	NC	n=s	1	prep	1	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	les	les	DET	DET	n=p	7	det	7	det
+7	artistes	artiste	NC	NC	n=p	8	suj	8	suj
+8	utilisaient	utiliser	V	V	n=p|t=I|p=3	0	root	0	root
+9	le	le	DET	DET	n=s|g=m	11	det	11	det
+10	même	même	ADJ	ADJ	n=s	11	mod	11	mod
+11	motif	motif	NC	NC	n=s|g=m	8	obj	8	obj
+12	qu'	que	PROREL	PROREL		14	obj	14	obj
+13	ils	ils	CLS	CLS	n=p|g=m|p=3	14	suj	14	suj
+14	répétaient	répéter	V	V	n=p|t=I|p=3	11	mod_rel	11	mod_rel
+15	autant	autant	ADV	ADV		14	mod	14	mod
+16	de	de	DET	DET	n=p	17	det	17	det
+17	fois	fois	NC	NC	g=f	14	obj	14	obj
+18	que	que	CS	CS		14	mod	14	mod
+19	possible	possible	ADJ	ADJ	n=s	0	_	0	_
+20	(	(	PONCT	PONCT		19	ponct	19	ponct
+21	des	des	DET	DET	n=p	22	det	22	det
+22	motifs	motif	NC	NC	n=p|g=m	0	_	0	_
+23	géométriques	géométrique	ADJ	ADJ	n=p	22	mod	22	mod
+24	)	)	PONCT	PONCT		23	ponct	23	ponct
+25	et	et	CC	CC		22	coord	22	coord
+26	ils	ils	CLS	CLS	n=p|g=m|p=3	27	suj	27	suj
+27	pouvaient	pouvoir	V	V	n=p|t=I|p=3	25	dep_coord	25	dep_coord
+28	créer	créer	VINF	VINF	t=W	27	obj	27	obj
+29	ainsi	ainsi	ADV	ADV		28	mod	28	mod
+30	de	de	DET	DET	n=p	32	det	32	det
+31	nouveaux	nouveau	ADJ	ADJ	n=p|g=m	32	mod	32	mod
+32	motifs	motif	NC	NC	n=p|g=m	28	obj	28	obj
+33	,	,	PONCT	PONCT		32	ponct	32	ponct
+34	en	en	P	P		28	mod	28	mod
+35	les	les	CLO	CLO	n=p|p=3	36	obj	36	obj
+36	combinant	combiner	VPR	VPR	t=G	34	prep	34	prep
+37	différemment	_	ADV	ADV		36	mod	36	mod
+38	(	(	PONCT	PONCT		37	ponct	37	ponct
+39	à	à	P	P		36	mod	36	mod
+40	la	la	DET	DET	n=s|g=f	41	det	41	det
+41	manière	manière	NC	NC	n=s|g=f	39	prep	39	prep
+42	d'	de	P	P		36	mod	36	mod
+43	un	un	DET	DET	n=s|g=m	44	det	44	det
+44	puzzle	puzzle	NC	NC	n=s|g=m	42	prep	42	prep
+45	)	)	PONCT	PONCT		44	ponct	44	ponct
+46	.	.	PONCT	PONCT		44	ponct	44	ponct
+
+1	Enfin	enfin	ADV	ADV		9	mod	9	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	tout	tout	ADJ	ADJ	n=s|g=m	5	mod	5	mod
+4	le	le	DET	DET	n=s|g=m	5	det	5	det
+5	décor	décor	NC	NC	n=s|g=m	9	suj	9	suj
+6	intérieur	intérieur	ADJ	ADJ	n=s|g=m	5	mod	5	mod
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	ne	ne	ADV	ADV		9	mod	9	mod
+9	sert	servir	V	V	n=s|t=P|p=3	0	root	0	root
+10	pas	pas	ADV	ADV		9	mod	9	mod
+11	à	à	P	P		9	mod	9	mod
+12	mettre	mettre	VINF	VINF	t=W	11	prep	11	prep
+13	en	en	P	P		12	mod	12	mod
+14	valeur	valeur	NC	NC	n=s|g=f	13	prep	13	prep
+15	l'	le	DET	DET	n=s	16	det	16	det
+16	architecture	architecture	NC	NC	n=s|g=f	12	obj	12	obj
+17	de	de	P	P		16	dep	16	dep
+18	la	la	DET	DET	n=s|g=f	19	det	19	det
+19	mosquée	mosquée	NC	NC	n=s|g=f	17	prep	17	prep
+20	avec	avec	P	P		19	dep	19	dep
+21	son	son	DET	DET	n=s|g=m|p=3|poss=s	22	det	22	det
+22	dôme	dôme	NC	NC	n=s|g=m	20	prep	20	prep
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	mais	mais	CC	CC		9	coord	9	coord
+25	de	de	P	P		24	dep_coord	24	dep_coord
+26	créer	créer	VINF	VINF	t=W	25	prep	25	prep
+27	une	une	DET	DET	n=s|g=f	28	det	28	det
+28	atmosphère	atmosphère	NC	NC	n=s|g=f	26	obj	26	obj
+29	unifiée	unifier	VPP	VPP	n=s|g=f|t=K	28	mod	28	mod
+30	(	(	PONCT	PONCT		29	ponct	29	ponct
+31	les	les	DET	DET	n=p	32	det	32	det
+32	couleurs	couleur	NC	NC	n=p|g=f	36	suj	36	suj
+33	du	de	P+D	P+D	n=s|g=m	32	dep	32	dep
+34	décor	décor	NC	NC	n=s|g=m	33	prep	33	prep
+35	intérieur	intérieur	ADJ	ADJ	n=s|g=m	34	mod	34	mod
+36	sont	être	V	V	n=p|t=P|p=3	9	mod	9	mod
+37	souvent	souvent	ADV	ADV		36	mod	36	mod
+38	les	les	DET	DET	n=p	39	det	39	det
+39	mêmes	même	ADJ	ADJ	n=p	36	ats	36	ats
+40	:	:	PONCT	PONCT		39	ponct	39	ponct
+41	le	le	DET	DET	n=s|g=m	42	det	42	det
+42	vert	vert	ADJ	ADJ	n=s|g=m	9	mod	9	mod
+43	,	,	PONCT	PONCT		42	ponct	42	ponct
+44	l'	le	DET	DET	n=s	45	det	45	det
+45	or	or	NC	NC	n=s|g=m	9	obj	9	obj
+46	et	et	CC	CC		45	coord	45	coord
+47	le	le	DET	DET	n=s|g=m	48	det	48	det
+48	gris	gris	NC	NC	g=m	46	dep_coord	46	dep_coord
+49	)	)	PONCT	PONCT		48	ponct	48	ponct
+50	,	,	PONCT	PONCT		48	ponct	48	ponct
+51	cohérente	cohérent	ADJ	ADJ	n=s|g=f	45	mod	45	mod
+52	,	,	PONCT	PONCT		51	ponct	51	ponct
+53	sûrement	_	ADV	ADV		54	mod	54	mod
+54	dans	dans	P	P		9	mod	9	mod
+55	le	le	DET	DET	n=s|g=m	56	det	56	det
+56	but	but	NC	NC	n=s|g=m	54	prep	54	prep
+57	d'	de	P	P		9	mod	9	mod
+58	inciter	inciter	VINF	VINF	t=W	57	prep	57	prep
+59	à	à	P	P		58	mod	58	mod
+60	la	la	DET	DET	n=s|g=f	61	det	61	det
+61	prière	prière	NC	NC	n=s|g=f	59	prep	59	prep
+62	.	.	PONCT	PONCT		61	ponct	61	ponct
+
+</p><h2>
+1	Raisons	raison	NC	NC	n=p|g=f	0	_	0	_
+2	de	de	P	P		1	dep	1	dep
+3	la	la	DET	DET	n=s|g=f	4	det	4	det
+4	construction	construction	NC	NC	n=s|g=f	2	prep	2	prep
+
+</h2><h3>
+1	Raisons	raison	NC	NC	n=p|g=f	0	_	0	_
+2	politiques	politique	ADJ	ADJ	n=p	1	mod	1	mod
+
+</h3><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	bâtiment	bâtiment	NC	NC	n=s|g=m	6	suj	6	suj
+3	a	avoir	V	V	n=s|t=P|p=3	6	aux_tps	6	aux_tps
+4	sûrement	_	ADV	ADV		6	mod	6	mod
+5	été	être	VPP	VPP	t=K	6	aux_pass	6	aux_pass
+6	construit	construire	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+7	pour	pour	P	P		6	mod	6	mod
+8	symboliser	symboliser	VINF	VINF	t=W	7	prep	7	prep
+9	et	et	CC	CC		8	coord	8	coord
+10	matérialiser	matérialiser	VINF	VINF	t=W	9	dep_coord	9	dep_coord
+11	la	la	DET	DET	n=s|g=f	12	det	12	det
+12	victoire	victoire	NC	NC	n=s|g=f	8	mod	8	mod
+13	de	de	P	P		12	dep	12	dep
+14	la	la	DET	DET	n=s|g=f	15	det	15	det
+15	dynastie	dynastie	NC	NC	n=s|g=f	13	prep	13	prep
+16	umayyade	_	NPP	NPP		15	mod	15	mod
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	et	et	CC	CC		6	coord	6	coord
+19	plus	plus	ADV	ADV		20	mod	20	mod
+20	largement	_	ADV	ADV		18	mod	18	mod
+21	de	de	P	P		18	dep_coord	18	dep_coord
+22	l'	le	DET	DET	n=s	23	det	23	det
+23	islam	islam	NC	NC	n=s|g=m	21	prep	21	prep
+24	,	,	PONCT	PONCT		23	ponct	23	ponct
+25	sur	sur	P	P		18	dep_coord	18	dep_coord
+26	les	les	DET	DET	n=p	29	det	29	det
+27	deux	deux	ADJ	ADJ	s=card|n=p	29	mod	29	mod
+28	autres	autre	ADJ	ADJ	n=p	29	mod	29	mod
+29	religions	religion	NC	NC	n=p|g=f	25	prep	25	prep
+30	monothéistes	monothéiste	NC	NC	n=p	29	mod	29	mod
+31	présentes	présent	ADJ	ADJ	n=p|g=f	29	mod	29	mod
+32	dans	dans	P	P		18	dep_coord	18	dep_coord
+33	Jérusalem	Jérusalem	NPP	NPP	n=s|g=m	32	prep	32	prep
+34	:	:	PONCT	PONCT		33	ponct	33	ponct
+35	le	le	DET	DET	n=s|g=m	36	det	36	det
+36	christianisme	christianisme	NC	NC	n=s|g=m	6	mod	6	mod
+37	et	et	CC	CC		36	coord	36	coord
+38	le	le	DET	DET	n=s|g=m	39	det	39	det
+39	judaïsme	judaïsme	NC	NC	n=s|g=m	37	dep_coord	37	dep_coord
+40	.	.	PONCT	PONCT		39	ponct	39	ponct
+
+1	Plusieurs	plusieurs	DET	DET	n=p	2	det	2	det
+2	éléments	élément	NC	NC	n=p|g=m	3	suj	3	suj
+3	concordent	concorder	V	V	n=p|t=P,S|p=3	0	root	0	root
+4	avec	avec	P	P		3	mod	3	mod
+5	cette	cette	DET	DET	n=s|g=f	6	det	6	det
+6	version	version	NC	NC	n=s|g=f	4	prep	4	prep
+7	:	:	PONCT	PONCT		6	ponct	6	ponct
+8	la	la	DET	DET	n=s|g=f	9	det	9	det
+9	grandeur	grandeur	NC	NC	n=s|g=f	3	obj	3	obj
+10	du	de	P+D	P+D	n=s|g=m	9	dep	9	dep
+11	dôme	dôme	NC	NC	n=s|g=m	10	prep	10	prep
+12	et	et	CC	CC		9	coord	9	coord
+13	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	14	det	14	det
+14	couverture	couverture	NC	NC	n=s|g=f	12	dep_coord	12	dep_coord
+15	en	en	P	P		14	dep	14	dep
+16	or	or	NC	NC	n=s|g=m	15	prep	15	prep
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	les	les	DET	DET	n=p	19	det	19	det
+19	mosaïques	mosaïque	NC	NC	n=p|g=f	3	mod	3	mod
+20	colorées	colorer	ADJ	ADJ	n=p|g=f|t=K	19	mod	19	mod
+21	et	et	CC	CC		19	coord	19	coord
+22	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	23	det	23	det
+23	position	position	NC	NC	n=s|g=f	21	dep_coord	21	dep_coord
+24	stratégique	stratégique	ADJ	ADJ	n=s	23	mod	23	mod
+25	dans	dans	P	P		23	dep	23	dep
+26	la	la	DET	DET	n=s|g=f	27	det	27	det
+27	ville	ville	NC	NC	n=s|g=f	25	prep	25	prep
+28	laissent	laisser	V	V	n=p|t=P,S|p=3	3	mod	3	mod
+29	à	à	P	P		28	mod	28	mod
+30	penser	penser	VINF	VINF	t=W	29	prep	29	prep
+31	qu'	que	CS	CS		30	obj	30	obj
+32	il	il	CLS	CLS	n=s|g=m|p=3	35	suj	35	suj
+33	a	avoir	V	V	n=s|t=P|p=3	35	aux_tps	35	aux_tps
+34	été	être	VPP	VPP	t=K	35	aux_pass	35	aux_pass
+35	conçu	concevoir	VPP	VPP	n=s|g=m|t=K	31	sub	31	sub
+36	pour	pour	P	P		35	mod	35	mod
+37	être	être	VINF	VINF	t=W	36	prep	36	prep
+38	visible	visible	ADJ	ADJ	n=s	0	_	0	_
+39	de	de	P	P		38	mod	38	mod
+40	loin	loin	ADV	ADV		0	_	0	_
+41	.	.	PONCT	PONCT		40	ponct	40	ponct
+
+1	En	en	P	P		5	mod	5	mod
+2	outre	outre	NC	NC	n=s|g=f	1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	Jérusalem	Jérusalem	NPP	NPP	n=s|g=m	5	suj	5	suj
+5	était	être	V	V	n=s|t=I|p=3	0	root	0	root
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	à	à	P	P		5	mod	5	mod
+8	l'	le	DET	DET	n=s	9	det	9	det
+9	époque	époque	NC	NC	n=s|g=f	7	prep	7	prep
+10	de	de	P	P		9	dep	9	dep
+11	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	12	det	12	det
+12	construction	construction	NC	NC	n=s|g=f	10	prep	10	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	une	une	DET	DET	n=s|g=f	15	det	15	det
+15	ville	ville	NC	NC	n=s|g=f	5	obj	5	obj
+16	majoritairement	_	ADV	ADV		17	mod	17	mod
+17	chrétienne	chrétien	ADJ	ADJ	n=s|g=f	15	mod	15	mod
+18	et	et	CC	CC		15	coord	15	coord
+19	avec	avec	P	P		18	dep_coord	18	dep_coord
+20	une	une	DET	DET	n=s|g=f	22	det	22	det
+21	forte	fort	ADJ	ADJ	n=s|g=f	22	mod	22	mod
+22	communauté	communauté	NC	NC	n=s|g=f	19	prep	19	prep
+23	juive	juif	ADJ	ADJ	n=s|g=f	22	mod	22	mod
+24	.	.	PONCT	PONCT		23	ponct	23	ponct
+
+</p><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	choix	choix	NC	NC	g=m	5	suj	5	suj
+3	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+4	lieu	lieu	NC	NC	n=s|g=m	3	prep	3	prep
+5	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+6	extrêmement	_	ADV	ADV		7	mod	7	mod
+7	important	important	ADJ	ADJ	n=s|g=m	5	ats	5	ats
+8	:	:	PONCT	PONCT		7	ponct	7	ponct
+9	la	la	DET	DET	n=s|g=f	10	det	10	det
+10	mosquée	mosquée	NC	NC	n=s|g=f	12	suj	12	suj
+11	est	être	V	V	n=s|t=P|p=3	12	aux_pass	12	aux_pass
+12	construite	construire	VPP	VPP	n=s|g=f|t=K	5	mod	5	mod
+13	sur	sur	P	P		12	mod	12	mod
+14	les	les	DET	DET	n=p	15	det	15	det
+15	ruines	ruine	NC	NC	n=p|g=f	13	prep	13	prep
+16	juives	juif	ADJ	ADJ	n=p|g=f	15	mod	15	mod
+17	du	de	P+D	P+D	n=s|g=m	15	dep	15	dep
+18	Temple	Temple	NPP	NPP	n=s	17	prep	17	prep
+19	d'	de	P	P		12	mod	12	mod
+20	Hérode	_	NPP	NPP		19	prep	19	prep
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	laissé	laisser	VPP	VPP	n=s|g=m|t=K	12	mod	12	mod
+23	à	à	P	P		22	mod	22	mod
+24	l'	le	DET	DET	n=s	25	det	25	det
+25	abandon	abandon	NC	NC	n=s|g=m	23	prep	23	prep
+26	par	par	P	P		22	mod	22	mod
+27	les	les	DET	DET	n=p	28	det	28	det
+28	chrétiens	chrétien	ADJ	ADJ	n=p|g=m	26	prep	26	prep
+29	pour	pour	P	P		22	mod	22	mod
+30	marquer	marquer	VINF	VINF	t=W	29	prep	29	prep
+31	le	le	DET	DET	n=s|g=m	32	det	32	det
+32	triomphe	triomphe	NC	NC	n=s	30	obj	30	obj
+33	du	de	P+D	P+D	n=s|g=m	32	dep	32	dep
+34	christianisme	christianisme	NC	NC	n=s|g=m	33	prep	33	prep
+35	sur	sur	P	P		30	mod	30	mod
+36	le	le	DET	DET	n=s|g=m	37	det	37	det
+37	judaïsme	judaïsme	NC	NC	n=s|g=m	35	prep	35	prep
+38	.	.	PONCT	PONCT		37	ponct	37	ponct
+
+1	C'	ce	CLS	CLS		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	un	un	DET	DET	n=s|g=m	4	det	4	det
+4	symbole	symbole	NC	NC	n=s|g=m	2	obj	2	obj
+5	très	très	ADV	ADV		6	mod	6	mod
+6	fort	fort	ADJ	ADJ	n=s|g=m	4	mod	4	mod
+7	.	.	PONCT	PONCT		6	ponct	6	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	lieu	lieu	NC	NC	n=s|g=m	4	suj	4	suj
+3	est	être	V	V	n=s|t=P|p=3	4	aux_pass	4	aux_pass
+4	associé	associer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+5	à	à	P	P		4	mod	4	mod
+6	David	David	NPP	NPP	n=s|g=m	5	prep	5	prep
+7	et	et	CC	CC		4	coord	4	coord
+8	Salomon	Salomon	NPP	NPP	n=s|g=m	7	dep_coord	7	dep_coord
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	deux	deux	DET	DET	s=card|n=p	11	det	11	det
+11	rois	roi	NC	NC	n=p|g=m	4	obj	4	obj
+12	très	très	ADV	ADV		13	mod	13	mod
+13	importants	important	ADJ	ADJ	n=p|g=m	11	mod	11	mod
+14	dans	dans	P	P		4	mod	4	mod
+15	la	la	DET	DET	n=s|g=f	16	det	16	det
+16	tradition	tradition	NC	NC	n=s|g=f	14	prep	14	prep
+17	biblique	biblique	ADJ	ADJ	n=s	16	mod	16	mod
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	et	et	CC	CC		4	coord	4	coord
+20	dont	dont	PROREL	PROREL		28	mod	28	mod
+21	le	le	DET	DET	n=s|g=m	22	det	22	det
+22	succès	succès	NC	NC	g=m	28	suj	28	suj
+23	et	et	CC	CC		22	coord	22	coord
+24	la	la	DET	DET	n=s|g=f	25	det	25	det
+25	notoriété	notoriété	NC	NC	n=s|g=f	23	dep_coord	23	dep_coord
+26	sont	être	V	V	n=p|t=P|p=3	28	aux_tps	28	aux_tps
+27	censés	_	VPP	VPP		28	aux_caus	28	aux_caus
+28	rejaillir	rejaillir	VINF	VINF	t=W	19	dep_coord	19	dep_coord
+29	sur	sur	P	P		28	mod	28	mod
+30	le	le	DET	DET	n=s|g=m	31	det	31	det
+31	calife	calife	NC	NC	n=s|g=m	29	prep	29	prep
+32	.	.	PONCT	PONCT		31	ponct	31	ponct
+
+</p><p>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	bijoux	bijou	NC	NC	n=p|g=m	6	suj	6	suj
+3	et	et	CC	CC		2	coord	2	coord
+4	les	les	DET	DET	n=p	5	det	5	det
+5	couronnes	couronne	NC	NC	n=p|g=f	3	dep_coord	3	dep_coord
+6	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+7	peut-être	peut-être	ADV	ADV		6	mod	6	mod
+8	des	des	DET	DET	n=p	9	det	9	det
+9	trophées	trophée	NC	NC	n=p|g=m	6	obj	6	obj
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+</p><h3>
+1	Raisons	raison	NC	NC	n=p|g=f	0	_	0	_
+2	religieuses	religieux	ADJ	ADJ	n=p|g=f	1	mod	1	mod
+
+</h3><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	lieu	lieu	NC	NC	n=s|g=m	3	suj	3	suj
+3	serait	être	V	V	n=s|t=C|p=3	0	root	0	root
+4	l'	le	DET	DET	n=s	5	det	5	det
+5	endroit	endroit	NC	NC	n=s|g=m	3	obj	3	obj
+6	où	où	PROREL	PROREL		9	mod	9	mod
+7	Abraham	Abraham	NPP	NPP	n=s|g=m	9	suj	9	suj
+8	avait	avoir	V	V	n=s|t=I|p=3	9	aux_tps	9	aux_tps
+9	tenté	tenter	VPP	VPP	n=s|g=m|t=K	5	mod_rel	5	mod_rel
+10	de	de	P	P		9	mod	9	mod
+11	sacrifier	sacrifier	VINF	VINF	t=W	10	prep	10	prep
+12	son	son	DET	DET	n=s|g=m|p=3|poss=s	13	det	13	det
+13	fils	fils	NC	NC	g=m	11	obj	11	obj
+14	Isaac	Isaac	NPP	NPP	n=s|g=m	13	mod	13	mod
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	livre	livre	NC	NC	n=s	7	suj	7	suj
+3	de	de	P	P		2	dep	2	dep
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	Genèse	_	NPP	NPP		3	prep	3	prep
+6	nous	nous	CLO	CLO	n=p|p=1	7	a_obj	7	a_obj
+7	décrit	décrire	V	V	n=s|t=P|p=3	0	root	0	root
+8	le	le	DET	DET	n=s|g=m	9	det	9	det
+9	nom	nom	NC	NC	n=s|g=m	7	obj	7	obj
+10	de	de	P	P		7	mod	7	mod
+11	cet	cet	DET	DET	n=s|g=m	12	det	12	det
+12	endroit	endroit	NC	NC	n=s|g=m	10	prep	10	prep
+13	précis	précis	ADJ	ADJ	g=m	12	mod	12	mod
+14	:	:	PONCT	PONCT		13	ponct	13	ponct
+15	«_	"	PONCT	PONCT		13	ponct	13	ponct
+16	Dieu	dieu	NC	NC	n=s|g=m	7	mod	7	mod
+17	dit	dire	VPP	VPP	n=s|g=m|t=K	16	mod	16	mod
+18	:	:	PONCT	PONCT		17	ponct	17	ponct
+19	Prends	prendre	V	V	n=s|t=P|p=1,2	7	mod	7	mod
+20	ton	ton	DET	DET	n=s|g=m|p=2|poss=s	21	det	21	det
+21	fils	fils	NC	NC	g=m	19	obj	19	obj
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+23	ton	ton	DET	DET	n=s|g=m|p=2|poss=s	0	_	0	_
+24	unique	unique	ADJ	ADJ	n=s	0	_	0	_
+25	,	,	PONCT	PONCT		24	ponct	24	ponct
+26	que	que	CS	CS		24	mod	24	mod
+27	tu	_	NC	NC		34	suj	34	suj
+28	chéris	chéri	ADJ	ADJ	n=p|g=m|t=K	27	mod	27	mod
+29	,	,	PONCT	PONCT		28	ponct	28	ponct
+30	Isaac	Isaac	NPP	NPP	n=s|g=m	27	mod	27	mod
+31	,	,	PONCT	PONCT		30	ponct	30	ponct
+32	et	et	CC	CC		27	coord	27	coord
+33	va	aller	V	V	n=s|t=P|p=3	34	aux_tps	34	aux_tps
+34	-t'	_	VPP	VPP		26	sub	26	sub
+35	en	en	P	P		34	mod	34	mod
+36	au	à	P+D	P+D	n=s|g=m	34	mod	34	mod
+37	pays	pays	NC	NC	g=m	36	prep	36	prep
+38	de	de	P	P		34	mod	34	mod
+39	Moriyya	_	NPP	NPP		38	prep	38	prep
+40	et	et	CC	CC		34	coord	34	coord
+41	là	là	ADV	ADV		42	mod	42	mod
+42	tu	taire	VPP	VPP	n=s|g=m|t=K	40	dep_coord	40	dep_coord
+43	l'	le	CLO	CLO	n=s|p=3	0	_	0	_
+44	offriras	offrir	V	V	n=s|t=F|p=2	0	_	0	_
+45	en	en	P	P		44	mod	44	mod
+46	holocauste	holocauste	NC	NC	n=s|g=m	45	prep	45	prep
+47	sur	sur	P	P		44	mod	44	mod
+48	une	une	DET	DET	n=s|g=f	49	det	49	det
+49	montagne	montagne	NC	NC	n=s|g=f	47	prep	47	prep
+50	que	que	PROREL	PROREL		53	obj	53	obj
+51	je	je	CLS	CLS	n=s|p=1	53	suj	53	suj
+52	t'	te	CLO	CLO	n=s|p=2	53	obj	53	obj
+53	indiquerai	indiquer	V	V	n=s|t=F|p=1	49	mod_rel	49	mod_rel
+54	.	.	PONCT	PONCT		53	ponct	53	ponct
+
+1	»	»	PONCT	PONCT		0	ponct	0	ponct
+2	(	(	PONCT	PONCT		0	ponct	0	ponct
+3	Gn	_	NPP	NPP		0	root	0	root
+4	22	22	NC	NC		3	mod	3	mod
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	2	2	NC	NC		3	mod	3	mod
+7	)	)	PONCT	PONCT		6	ponct	6	ponct
+8	,	,	PONCT	PONCT		6	ponct	6	ponct
+9	le	le	DET	DET	n=s|g=m	10	det	10	det
+10	Mont	Mont	NPP	NPP	n=s|g=m	3	mod	3	mod
+11	Moriah	Moriah	NPP	NPP	n=s|g=f	3	mod	3	mod
+12	désigne	désigner	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+13	le	le	DET	DET	n=s|g=m	14	det	14	det
+14	mont	mont	NC	NC	n=s|g=m	12	obj	12	obj
+15	du	de	P+D	P+D	n=s|g=m	14	dep	14	dep
+16	Temple	Temple	NPP	NPP	n=s	15	prep	15	prep
+17	où	où	PROREL	PROREL		19	suj	19	suj
+18	se	se	CLR	CLR	n=p,s|p=3	19	aff	19	aff
+19	trouve	trouver	V	V	n=s|t=P,S|p=1,3	14	mod_rel	14	mod_rel
+20	actuellement	_	ADV	ADV		19	mod	19	mod
+21	le	le	DET	DET	n=s|g=m	22	det	22	det
+22	dôme	dôme	NC	NC	n=s|g=m	19	obj	19	obj
+23	du	de	P+D	P+D	n=s|g=m	22	dep	22	dep
+24	Rocher	Rocher	NPP	NPP	n=s|g=m	23	prep	23	prep
+25	.	.	PONCT	PONCT		24	ponct	24	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	Temple	Temple	NPP	NPP	n=s	6	suj	6	suj
+3	de	de	P	P		2	dep	2	dep
+4	Salomon	Salomon	NPP	NPP	n=s|g=m	3	prep	3	prep
+5	se	se	CLR	CLR	n=p,s|p=3	6	aff	6	aff
+6	situait	situer	V	V	n=s|t=I|p=3	0	root	0	root
+7	à	à	P	P		6	mod	6	mod
+8	cet	cet	DET	DET	n=s|g=m	9	det	9	det
+9	endroit	endroit	NC	NC	n=s|g=m	7	prep	7	prep
+10	et	et	CC	CC		6	coord	6	coord
+11	Hérode	_	NPP	NPP		14	suj	14	suj
+12	l'	le	CLO	CLO	n=s|p=3	14	obj	14	obj
+13	aurait	avoir	V	V	n=s|t=C|p=3	14	aux_tps	14	aux_tps
+14	fait	faire	VPP	VPP	n=s|g=m|t=K	10	dep_coord	10	dep_coord
+15	reconstruire	reconstruire	VINF	VINF	t=W	14	obj	14	obj
+16	à	à	P	P		15	mod	15	mod
+17	cet	cet	DET	DET	n=s|g=m	18	det	18	det
+18	endroit	endroit	NC	NC	n=s|g=m	16	prep	16	prep
+19	même	même	ADJ	ADJ	n=s	18	mod	18	mod
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+1	Le	le	DET	DET	n=s|g=m	3	det	3	det
+2	seul	seul	ADJ	ADJ	n=s|g=m	3	mod	3	mod
+3	vestige	vestige	NC	NC	n=s|g=m	7	suj	7	suj
+4	de	de	P	P		3	dep	3	dep
+5	ce	ce	DET	DET	n=s|g=m	6	det	6	det
+6	monument	monument	NC	NC	n=s|g=m	4	prep	4	prep
+7	reste	rester	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+8	le	le	DET	DET	n=s|g=m	9	det	9	det
+9	mur	mur	NC	NC	n=s|g=m	7	obj	7	obj
+10	des	de	P+D	P+D	n=p	9	dep	9	dep
+11	Lamentations	lamentation	NC	NC	n=p|g=f	10	prep	10	prep
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	lieu	lieu	NC	NC	n=s|g=m	9	mod	9	mod
+14	le	le	DET	DET	n=s|g=m	16	det	16	det
+15	plus	plus	ADV	ADV		16	mod	16	mod
+16	saint	saint	ADJ	ADJ	n=s|g=m	13	mod	13	mod
+17	du	de	P+D	P+D	n=s|g=m	13	dep	13	dep
+18	judaïsme	judaïsme	NC	NC	n=s|g=m	17	prep	17	prep
+19	(	(	PONCT	PONCT		18	ponct	18	ponct
+20	étant	être	VPR	VPR	t=G	7	mod	7	mod
+21	proche	proche	ADJ	ADJ	n=s	20	ats	20	ats
+22	du	de	P+D	P+D	n=s|g=m	20	mod	20	mod
+23	Saint	saint	NC	NC	n=s|g=m	22	prep	22	prep
+24	des	de	P+D	P+D	n=p	23	dep	23	dep
+25	Saints	Saints	NPP	NPP	n=s|g=m	24	prep	24	prep
+26	où	où	PROREL	PROREL		28	suj	28	suj
+27	se	se	CLR	CLR	n=p,s|p=3	28	aff	28	aff
+28	trouvait	trouver	V	V	n=s|t=I|p=3	23	mod_rel	23	mod_rel
+29	l'	le	DET	DET	n=s	30	det	30	det
+30	arche	arche	NC	NC	n=s|g=f	28	obj	28	obj
+31	d'	de	P	P		30	dep	30	dep
+32	alliance	alliance	NC	NC	n=s|g=f	31	prep	31	prep
+33	)	)	PONCT	PONCT		32	ponct	32	ponct
+34	.	.	PONCT	PONCT		32	ponct	32	ponct
+
+</p><p>
+1	Selon	selon	P	P		6	mod	6	mod
+2	l'	le	DET	DET	n=s	3	det	3	det
+3	Islam	_	NPP	NPP		1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	ce	ce	CLS	CLS		6	suj	6	suj
+6	serait	être	V	V	n=s|t=C|p=3	0	root	0	root
+7	l'	le	DET	DET	n=s	8	det	8	det
+8	endroit	endroit	NC	NC	n=s|g=m	6	obj	6	obj
+9	où	où	PROREL	PROREL		12	mod	12	mod
+10	Mahomet	Mahomet	NPP	NPP	n=s|g=m	12	suj	12	suj
+11	aurait	avoir	V	V	n=s|t=C|p=3	12	aux_tps	12	aux_tps
+12	fait	faire	VPP	VPP	n=s|g=m|t=K	8	mod_rel	8	mod_rel
+13	son	son	DET	DET	n=s|g=m|p=3|poss=s	14	det	14	det
+14	voyage	voyage	NC	NC	n=s|g=m	12	obj	12	obj
+15	nocturne	nocturne	ADJ	ADJ	n=s	14	mod	14	mod
+16	(	(	PONCT	PONCT		15	ponct	15	ponct
+17	isra	_	NPP	NPP		14	mod	14	mod
+18	)	)	PONCT	PONCT		17	ponct	17	ponct
+19	,	,	PONCT	PONCT		17	ponct	17	ponct
+20	puis	puis	CC	CC		12	coord	12	coord
+21	son	son	DET	DET	n=s|g=m|p=3|poss=s	22	det	22	det
+22	ascension	ascension	NC	NC	n=s|g=f	20	dep_coord	20	dep_coord
+23	(	(	PONCT	PONCT		22	ponct	22	ponct
+24	miraj	_	NPP	NPP		22	mod	22	mod
+25	)	)	PONCT	PONCT		24	ponct	24	ponct
+26	vers	vers	P	P		20	dep_coord	20	dep_coord
+27	le	le	DET	DET	n=s|g=m	28	det	28	det
+28	ciel	ciel	NC	NC	n=s|g=m	26	prep	26	prep
+29	,	,	PONCT	PONCT		28	ponct	28	ponct
+30	afin	_	ADV	ADV		20	mod	20	mod
+31	de	de	P	P		20	dep_coord	20	dep_coord
+32	visiter	visiter	VINF	VINF	t=W	31	prep	31	prep
+33	les	les	DET	DET	n=p	34	det	34	det
+34	cieux	ciel	NC	NC	n=p|g=m	32	obj	32	obj
+35	et	et	CC	CC		31	coord	31	coord
+36	de	de	P	P		35	dep_coord	35	dep_coord
+37	recevoir	recevoir	VINF	VINF	t=W	36	prep	36	prep
+38	d'	de	P	P		37	mod	37	mod
+39	Allah	_	NPP	NPP		38	prep	38	prep
+40	les	les	DET	DET	n=p	42	det	42	det
+41	cinq	cinq	ADJ	ADJ	s=card|n=p	42	mod	42	mod
+42	prières	prière	NC	NC	n=p|g=f	37	obj	37	obj
+43	journalières	journalier	NC	NC	n=p|g=f	42	mod	42	mod
+44	de	de	P	P		37	mod	37	mod
+45	l'	le	DET	DET	n=s	46	det	46	det
+46	Islam	_	NPP	NPP		44	prep	44	prep
+47	.	.	PONCT	PONCT		46	ponct	46	ponct
+
+1	Dès	dès	P	P		10	mod	10	mod
+2	le	le	DET	DET	n=s|g=m	4	det	4	det
+3	VIII	_	ADJ	ADJ		4	mod	4	mod
+4	siècle	siècle	NC	NC	n=s|g=m	1	prep	1	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	cette	cette	DET	DET	n=s|g=f	7	det	7	det
+7	corrélation	corrélation	NC	NC	n=s|g=f	10	suj	10	suj
+8	avec	avec	P	P		7	dep	7	dep
+9	Jérusalem	Jérusalem	NPP	NPP	n=s|g=m	8	prep	8	prep
+10	apparaît	apparaître	V	V	n=s|t=P|p=3	0	root	0	root
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	bien	bien	ADV	ADV		10	mod	10	mod
+13	que	que	CS	CS		10	mod	10	mod
+14	ce	ce	CLS	CLS		15	suj	15	suj
+15	soit	être	VS	VS	n=s|t=S|p=3	13	sub	13	sub
+16	seulement	_	ADV	ADV		15	mod	15	mod
+17	vers	vers	P	P		15	mod	15	mod
+18	les	les	DET	DET	n=p	20	det	20	det
+19	XII-XIII	_	ADJ	ADJ		20	mod	20	mod
+20	siècles	siècle	NC	NC	n=p|g=m	17	prep	17	prep
+21	que	que	CS	CS		10	mod	10	mod
+22	les	les	DET	DET	n=p	23	det	23	det
+23	sources	source	NC	NC	n=p|g=f	25	suj	25	suj
+24	islamiques	islamique	ADJ	ADJ	n=p	23	mod	23	mod
+25	mentionnent	mentionner	V	V	n=p|t=P,S|p=3	21	sub	21	sub
+26	le	le	DET	DET	n=s|g=m	27	det	27	det
+27	dôme	dôme	NC	NC	n=s|g=m	25	obj	25	obj
+28	du	de	P+D	P+D	n=s|g=m	27	dep	27	dep
+29	Rocher	Rocher	NPP	NPP	n=s|g=m	28	prep	28	prep
+30	comme	comme	P	P		25	mod	25	mod
+31	réel	réel	ADJ	ADJ	n=s|g=m	32	mod	32	mod
+32	point	point	NC	NC	n=s|g=m	30	prep	30	prep
+33	de	de	P	P		25	mod	25	mod
+34	départ	départ	NC	NC	n=s|g=m	33	prep	33	prep
+35	du	de	P+D	P+D	n=s|g=m	25	mod	25	mod
+36	miraj	_	NPP	NPP		35	prep	35	prep
+37	.	.	PONCT	PONCT		36	ponct	36	ponct
+
+</p><p>
+1	Dans	dans	P	P		9	mod	9	mod
+2	le	le	DET	DET	n=s|g=m	4	det	4	det
+3	Nouveau	nouveau	ADJ	ADJ	n=s|g=m	4	mod	4	mod
+4	Testament	_	NPP	NPP		1	prep	1	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	plusieurs	plusieurs	DET	DET	n=p	7	det	7	det
+7	épisodes	épisode	NC	NC	n=p|g=m	9	suj	9	suj
+8	se	se	CLR	CLR	n=p,s|p=3	9	aff	9	aff
+9	déroulent	dérouler	V	V	n=p|t=P,S|p=3	0	root	0	root
+10	sur	sur	P	P		9	mod	9	mod
+11	le	le	DET	DET	n=s|g=m	12	det	12	det
+12	site	site	NC	NC	n=s|g=m	10	prep	10	prep
+13	du	de	P+D	P+D	n=s|g=m	9	mod	9	mod
+14	dôme	dôme	NC	NC	n=s|g=m	13	prep	13	prep
+15	du	de	P+D	P+D	n=s|g=m	9	mod	9	mod
+16	Rocher	Rocher	NPP	NPP	n=s|g=m	15	prep	15	prep
+17	(	(	PONCT	PONCT		16	ponct	16	ponct
+18	avant	avant	P	P		9	mod	9	mod
+19	la	la	DET	DET	n=s|g=f	20	det	20	det
+20	destruction	destruction	NC	NC	n=s|g=f	18	prep	18	prep
+21	du	de	P+D	P+D	n=s|g=m	20	dep	20	dep
+22	Temple	Temple	NPP	NPP	n=s	21	prep	21	prep
+23	par	par	P	P		9	mod	9	mod
+24	les	les	DET	DET	n=p	25	det	25	det
+25	Romains	_	NPP	NPP		23	prep	23	prep
+26	en	en	P	P		9	mod	9	mod
+27	70	70	NC	NC		26	prep	26	prep
+28	ap	_	NPP	NPP		27	mod	27	mod
+29	.	.	PONCT	PONCT		28	ponct	28	ponct
+
+1	J	_	NPP	NPP		0	_	0	_
+2	.	.	PONCT	PONCT		1	ponct	1	ponct
+3	C	femelle	ADJ	ADJ		1	mod	1	mod
+4	.	.	PONCT	PONCT		3	ponct	3	ponct
+5	)	)	PONCT	PONCT		3	ponct	3	ponct
+6	.	.	PONCT	PONCT		3	ponct	3	ponct
+
+1	On	on	CLS	CLS	n=s|p=3	2	suj	2	suj
+2	peut	pouvoir	V	V	n=s|t=P|p=3	0	root	0	root
+3	citer	citer	VINF	VINF	t=W	2	obj	2	obj
+4	Matthieu	Matthieu	NPP	NPP	n=s|g=m	3	obj	3	obj
+5	(	(	PONCT	PONCT		4	ponct	4	ponct
+6	21	21	ADJ	ADJ		4	mod	4	mod
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	12-13	_	NPP	NPP		4	mod	4	mod
+9	)	)	PONCT	PONCT		8	ponct	8	ponct
+10	quand	quand	CS	CS		2	mod	2	mod
+11	Jésus	_	NPP	NPP		12	suj	12	suj
+12	chasse	chasser	V	V	n=s|t=P,S|p=1,3	10	sub	10	sub
+13	les	les	DET	DET	n=p	14	det	14	det
+14	marchands	marchand	NC	NC	n=p|g=m	12	obj	12	obj
+15	du	de	P+D	P+D	n=s|g=m	14	dep	14	dep
+16	Temple	Temple	NPP	NPP	n=s	15	prep	15	prep
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	Luc	Luc	NPP	NPP	n=s|g=m	16	mod	16	mod
+19	(	(	PONCT	PONCT		18	ponct	18	ponct
+20	2	2	ADJ	ADJ		16	mod	16	mod
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	41-51	_	NC	NC		12	mod	12	mod
+23	)	)	PONCT	PONCT		22	ponct	22	ponct
+24	,	,	PONCT	PONCT		22	ponct	22	ponct
+25	quand	quand	CS	CS		12	mod	12	mod
+26	Jésus	_	NPP	NPP		27	suj	27	suj
+27	parle	parler	V	V	n=s|t=P,S|p=1,3	25	sub	25	sub
+28	avec	avec	P	P		27	mod	27	mod
+29	les	les	DET	DET	n=p	30	det	30	det
+30	docteurs	docteur	NC	NC	n=p|g=m	28	prep	28	prep
+31	du	de	P+D	P+D	n=s|g=m	27	mod	27	mod
+32	Temple	Temple	NPP	NPP	n=s	31	prep	31	prep
+33	alors	alors	ADV	ADV		27	mod	27	mod
+34	qu'	que	CS	CS		27	mod	27	mod
+35	il	il	CLS	CLS	n=s|g=m|p=3	36	suj	36	suj
+36	est	être	V	V	n=s|t=P|p=3	34	sub	34	sub
+37	encore	encore	ADV	ADV		36	mod	36	mod
+38	enfant	enfant	NC	NC	n=s	36	obj	36	obj
+39	ou	ou	CC	CC		38	coord	38	coord
+40	encore	encore	ADV	ADV		0	_	0	_
+41	Jean	Jean	NPP	NPP	n=s	0	_	0	_
+42	(	(	PONCT	PONCT		41	ponct	41	ponct
+43	7	7	NC	NC		41	mod	41	mod
+44	,	,	PONCT	PONCT		43	ponct	43	ponct
+45	14-15	_	NPP	NPP		41	mod	41	mod
+46	)	)	PONCT	PONCT		45	ponct	45	ponct
+47	quand	quand	CS	CS		0	_	0	_
+48	Jésus	_	NPP	NPP		0	_	0	_
+49	enseigne	enseigne	NC	NC	n=s	48	mod	48	mod
+50	dans	dans	P	P		49	dep	49	dep
+51	le	le	DET	DET	n=s|g=m	52	det	52	det
+52	temple	temple	NC	NC	n=s|g=m	50	prep	50	prep
+53	lors	lors	ADV	ADV		54	mod	54	mod
+54	de	de	P	P		0	_	0	_
+55	la	la	DET	DET	n=s|g=f	56	det	56	det
+56	fête	fête	NC	NC	n=s|g=f	54	prep	54	prep
+57	des	de	P+D	P+D	n=p	56	dep	56	dep
+58	Tabernacles	_	NPP	NPP		57	prep	57	prep
+59	.	.	PONCT	PONCT		58	ponct	58	ponct
+
+</p><h2>
+1	Actualités	actualité	NC	NC	n=p|g=f	0	_	0	_
+
+</h2><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	gouvernement	gouvernement	NC	NC	n=s|g=m	5	suj	5	suj
+3	Israélien	_	NPP	NPP		2	mod	2	mod
+4	a	avoir	V	V	n=s|t=P|p=3	5	aux_tps	5	aux_tps
+5	voulu	vouloir	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+6	il	il	CLS	CLS	n=s|g=m|p=3	0	_	0	_
+7	y	y	CLO	CLO		0	_	0	_
+8	a	avoir	V	V	n=s|t=P|p=3	0	_	0	_
+9	peu	peu	ADV	ADV		0	_	0	_
+10	de	de	P	P		0	_	0	_
+11	temps	temps	NC	NC	g=m	10	prep	10	prep
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	installer	installer	VINF	VINF	t=W	10	ponct	10	ponct
+14	des	des	DET	DET	n=p	15	det	15	det
+15	caméras	caméra	NC	NC	n=p|g=f	13	obj	13	obj
+16	sur	sur	P	P		15	dep	15	dep
+17	l'	le	DET	DET	n=s	18	det	18	det
+18	Esplanade	_	NPP	NPP		16	prep	16	prep
+19	des	de	P+D	P+D	n=p	15	dep	15	dep
+20	Mosquées	_	NPP	NPP		19	prep	19	prep
+21	afin	_	ADV	ADV		13	mod	13	mod
+22	de	de	P	P		13	obj	13	obj
+23	surveiller	surveiller	VINF	VINF	t=W	22	prep	22	prep
+24	cette	cette	DET	DET	n=s|g=f	25	det	25	det
+25	zone	zone	NC	NC	n=s|g=f	23	obj	23	obj
+26	très	très	ADV	ADV		27	mod	27	mod
+27	instable	instable	ADJ	ADJ	n=s	25	mod	25	mod
+28	.	.	PONCT	PONCT		27	ponct	27	ponct
+
+1	Cependant	cependant	ADV	ADV		16	mod	16	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	après	après	P	P		16	mod	16	mod
+4	de	de	DET	DET	n=p	6	det	6	det
+5	nombreuses	nombreux	ADJ	ADJ	n=p|g=f	6	mod	6	mod
+6	manifestations	manifestation	NC	NC	n=p|g=f	3	prep	3	prep
+7	réprimées	réprimer	VPP	VPP	n=p|g=f|t=K	6	mod	6	mod
+8	violemment	_	ADV	ADV		7	mod	7	mod
+9	par	par	P	P		7	mod	7	mod
+10	Israël	Israël	NPP	NPP	n=s|g=m	9	prep	9	prep
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	l'	le	DET	DET	n=s	13	det	13	det
+13	état	état	NC	NC	n=s|g=m	16	suj	16	suj
+14	juif	juif	ADJ	ADJ	n=s|g=m	13	mod	13	mod
+15	a	avoir	V	V	n=s|t=P|p=3	16	aux_tps	16	aux_tps
+16	dû	devoir	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+17	battre	battre	VINF	VINF	t=W	16	obj	16	obj
+18	en	en	P	P		17	mod	17	mod
+19	retraite	retraite	NC	NC	n=s|g=f	18	prep	18	prep
+20	et	et	CC	CC		17	coord	17	coord
+21	abandonner	abandonner	VINF	VINF	t=W	20	dep_coord	20	dep_coord
+22	l'	le	DET	DET	n=s	23	det	23	det
+23	idée	idée	NC	NC	n=s|g=f	21	obj	21	obj
+24	d'	de	P	P		21	mod	21	mod
+25	installer	installer	VINF	VINF	t=W	24	prep	24	prep
+26	des	des	DET	DET	n=p	27	det	27	det
+27	caméras	caméra	NC	NC	n=p|g=f	25	obj	25	obj
+28	sur	sur	P	P		25	mod	25	mod
+29	l'	le	DET	DET	n=s	30	det	30	det
+30	Esplanade	_	NPP	NPP		28	prep	28	prep
+31	des	de	P+D	P+D	n=p	25	mod	25	mod
+32	Mosquées	_	NPP	NPP		31	prep	31	prep
+33	.	.	PONCT	PONCT		32	ponct	32	ponct
+
+</p><h2>
+1	Utilisations	utilisation	NC	NC	n=p|g=f	0	_	0	_
+2	de	de	P	P		1	dep	1	dep
+3	la	la	DET	DET	n=s|g=f	4	det	4	det
+4	mosquée	mosquée	NC	NC	n=s|g=f	2	prep	2	prep
+
+</h2><h3>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	rôle	rôle	NC	NC	n=s|g=m	0	_	0	_
+3	de	de	P	P		2	dep	2	dep
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	mosquée	mosquée	NC	NC	n=s|g=f	3	prep	3	prep
+
+</h3><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	dôme	dôme	NC	NC	n=s|g=m	5	suj	5	suj
+3	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+4	Rocher	Rocher	NPP	NPP	n=s|g=m	3	prep	3	prep
+5	occupe	occuper	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+6	évidemment	_	ADV	ADV		5	mod	5	mod
+7	une	une	DET	DET	n=s|g=f	8	det	8	det
+8	fonction	fonction	NC	NC	n=s|g=f	5	obj	5	obj
+9	religieuse	religieux	ADJ	ADJ	n=s|g=f	8	mod	8	mod
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	étant	être	VPR	VPR	t=G	5	mod	5	mod
+12	une	une	DET	DET	n=s|g=f	13	det	13	det
+13	mosquée	mosquée	NC	NC	n=s|g=f	11	obj	11	obj
+14	très	très	ADV	ADV		15	mod	15	mod
+15	importante	important	ADJ	ADJ	n=s|g=f	13	mod	13	mod
+16	dans	dans	P	P		11	mod	11	mod
+17	l'	le	DET	DET	n=s	18	det	18	det
+18	Islam	_	NPP	NPP		16	prep	16	prep
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	accessible	accessible	ADJ	ADJ	n=s	2	ats	2	ats
+4	à	à	P	P		2	mod	2	mod
+5	tous	tout	ADJ	ADJ	n=p|g=m	7	mod	7	mod
+6	les	les	DET	DET	n=p	7	det	7	det
+7	musulmans	musulman	NC	NC	n=p|g=m	4	prep	4	prep
+8	à	à	P	P		2	mod	2	mod
+9	des	des	DET	DET	n=p	10	det	10	det
+10	fins	fin	NC	NC	n=p	8	prep	8	prep
+11	religieuses	religieux	ADJ	ADJ	n=p|g=f	10	mod	10	mod
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+1	C'	ce	CLS	CLS		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	une	une	DET	DET	n=s|g=f	4	det	4	det
+4	fondation	fondation	NC	NC	n=s|g=f	2	obj	2	obj
+5	jordanienne	jordanien	ADJ	ADJ	n=s|g=f	4	mod	4	mod
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	la	la	DET	DET	n=s|g=f	8	det	8	det
+8	Waqf	_	NPP	NPP		2	mod	2	mod
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	qui	qui	PROREL	PROREL	n=s	11	suj	11	suj
+11	administre	administrer	V	V	n=s|t=P,S|p=1,3	8	mod_rel	8	mod_rel
+12	et	et	CC	CC		11	coord	11	coord
+13	gère	gérer	V	V	n=s|t=P,S|p=1,3	12	dep_coord	12	dep_coord
+14	l'	le	DET	DET	n=s	15	det	15	det
+15	Esplanade	_	NPP	NPP		13	obj	13	obj
+16	des	de	P+D	P+D	n=p	13	mod	13	mod
+17	mosquées	mosquée	NC	NC	n=p|g=f	16	prep	16	prep
+18	et	et	CC	CC		13	coord	13	coord
+19	la	la	DET	DET	n=s|g=f	20	det	20	det
+20	mosquée	mosquée	NC	NC	n=s|g=f	18	dep_coord	18	dep_coord
+21	;	;	PONCT	PONCT		20	ponct	20	ponct
+22	cependant	cependant	ADV	ADV		20	mod	20	mod
+23	Israël	Israël	NPP	NPP	n=s|g=m	20	mod	20	mod
+24	s'	se	CLR	CLR	n=p,s|p=3	25	aff	25	aff
+25	occupe	occuper	V	V	n=s|t=P,S|p=1,3	20	mod_rel	20	mod_rel
+26	des	de	P+D	P+D	n=p	25	de_obj	25	de_obj
+27	entrées	entrée	NC	NC	n=p|g=f	26	prep	26	prep
+28	et	et	CC	CC		25	coord	25	coord
+29	des	des	DET	DET	n=p	30	det	30	det
+30	accès	accès	NC	NC	g=m	28	dep_coord	28	dep_coord
+31	au	à	P+D	P+D	n=s|g=m	25	mod	25	mod
+32	monument	monument	NC	NC	n=s|g=m	31	prep	31	prep
+33	en	en	P	P		25	mod	25	mod
+34	contrepartie	contrepartie	NC	NC	n=s|g=f	33	prep	33	prep
+35	,	,	PONCT	PONCT		34	ponct	34	ponct
+36	un	un	DET	DET	n=s|g=m	37	det	37	det
+37	accord	accord	NC	NC	n=s|g=m	11	obj	11	obj
+38	ayant	avoir	VPR	VPR	t=G	37	mod	37	mod
+39	été	être	VPP	VPP	t=K	0	_	0	_
+40	signé	signer	VPP	VPP	n=s|g=m|t=K	39	ponct	39	ponct
+41	en	en	P	P		39	mod	39	mod
+42	ce	ce	DET	DET	n=s|g=m	43	det	43	det
+43	sens	sens	NC	NC	g=m	41	prep	41	prep
+44	entre	entre	P	P		39	mod	39	mod
+45	Israël	Israël	NPP	NPP	n=s|g=m	44	prep	44	prep
+46	et	et	CC	CC		39	coord	39	coord
+47	la	la	DET	DET	n=s|g=f	48	det	48	det
+48	Jordanie	Jordanie	NPP	NPP	n=s|g=f	46	dep_coord	46	dep_coord
+49	.	.	PONCT	PONCT		48	ponct	48	ponct
+
+</p><h3>
+1	Un	un	DET	DET	n=s|g=m	2	det	2	det
+2	monument	monument	NC	NC	n=s|g=m	0	_	0	_
+3	touristique	touristique	ADJ	ADJ	n=s	2	mod	2	mod
+
+</h3><p>
+1	Jusqu'	jusque	P	P		10	mod	10	mod
+2	au	à	P+D	P+D	n=s|g=m	10	mod	10	mod
+3	milieu	milieu	NC	NC	n=s|g=m	2	prep	2	prep
+4	du	de	P+D	P+D	n=s|g=m	3	dep	3	dep
+5	XX	_	ADJ	ADJ		6	mod	6	mod
+6	siècle	siècle	NC	NC	n=s|g=m	4	prep	4	prep
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	il	il	CLS	CLS	n=s|g=m|p=3	10	suj	10	suj
+9	était	être	V	V	n=s|t=I|p=3	10	aux_tps	10	aux_tps
+10	interdit	interdire	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+11	aux	à	P+D	P+D	n=p	10	mod	10	mod
+12	non	non	ADV	ADV		10	mod	10	mod
+13	-	-	PONCT	PONCT		12	ponct	12	ponct
+14	musulmans	musulman	NC	NC	n=p|g=m	10	mod	10	mod
+15	d'	de	P	P		10	mod	10	mod
+16	accéder	accéder	VINF	VINF	t=W	15	prep	15	prep
+17	au	à	P+D	P+D	n=s|g=m	10	mod	10	mod
+18	Dôme	_	NPP	NPP		17	prep	17	prep
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	Depuis	depuis	P	P		7	mod	7	mod
+2	1967	1967	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	il	il	CLS	CLS	n=s|g=m|p=3	7	suj	7	suj
+5	leur	leur	CLO	CLO	n=p|p=3	7	a_obj	7	a_obj
+6	est	être	V	V	n=s|t=P|p=3	7	aux_tps	7	aux_tps
+7	permis	permettre	VPP	VPP	g=m|t=K	0	root	0	root
+8	un	un	DET	DET	n=s|g=m	9	det	9	det
+9	accès	accès	NC	NC	g=m	7	obj	7	obj
+10	limité	limiter	VPP	VPP	n=s|g=m|t=K	9	mod	9	mod
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	mais	mais	CC	CC		7	coord	7	coord
+13	il	il	CLS	CLS	n=s|g=m|p=3	18	suj	18	suj
+14	ne	ne	ADV	ADV		18	mod	18	mod
+15	leur	leur	CLO	CLO	n=p|p=3	18	obj	18	obj
+16	est	être	V	V	n=s|t=P|p=3	18	aux_tps	18	aux_tps
+17	pas	pas	ADV	ADV		18	mod	18	mod
+18	permis	permettre	VPP	VPP	g=m|t=K	12	dep_coord	12	dep_coord
+19	de	de	P	P		18	mod	18	mod
+20	prier	prier	VINF	VINF	t=W	19	prep	19	prep
+21	ni	ni	CC	CC		19	coord	19	coord
+22	de	de	P	P		21	dep_coord	21	dep_coord
+23	porter	porter	VINF	VINF	t=W	22	prep	22	prep
+24	de	de	DET	DET	n=p	25	det	25	det
+25	signe	signe	NC	NC	n=s|g=m	23	obj	23	obj
+26	religieux	religieux	ADJ	ADJ	g=m	25	mod	25	mod
+27	.	.	PONCT	PONCT		26	ponct	26	ponct
+
+1	Des	des	DET	DET	n=p	2	det	2	det
+2	restrictions	restriction	NC	NC	n=p|g=f	8	suj	8	suj
+3	aux	à	P+D	P+D	n=p	2	dep	2	dep
+4	Palestiniens	palestinien	NC	NC	n=p|g=m	3	prep	3	prep
+5	ont	avoir	V	V	n=p|t=P|p=3	8	aux_tps	8	aux_tps
+6	également	_	ADV	ADV		8	mod	8	mod
+7	été	être	VPP	VPP	t=K	8	aux_pass	8	aux_pass
+8	imposées	imposer	VPP	VPP	n=p|g=f|t=K	0	root	0	root
+9	par	par	P	P		8	mod	8	mod
+10	Israël	Israël	NPP	NPP	n=s|g=m	9	prep	9	prep
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	afin	_	ADV	ADV		8	mod	8	mod
+13	d'	de	P	P		8	mod	8	mod
+14	éviter	éviter	VINF	VINF	t=W	13	prep	13	prep
+15	des	des	DET	DET	n=p	16	det	16	det
+16	problèmes	problème	NC	NC	n=p|g=m	14	obj	14	obj
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+</p><p>
+1	Depuis	depuis	P	P		9	mod	9	mod
+2	2006	2006	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	cependant	cependant	ADV	ADV		9	mod	9	mod
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	la	la	DET	DET	n=s|g=f	7	det	7	det
+7	mosquée	mosquée	NC	NC	n=s|g=f	9	suj	9	suj
+8	est	être	V	V	n=s|t=P|p=3	9	aux_tps	9	aux_tps
+9	ouverte	ouvrir	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+10	tout	tout	ADJ	ADJ	n=s|g=m	12	mod	12	mod
+11	les	les	DET	DET	n=p	12	det	12	det
+12	jours	jour	NC	NC	n=p|g=m	9	mod	9	mod
+13	le	le	DET	DET	n=s|g=m	14	det	14	det
+14	matin	matin	NC	NC	n=s|g=m	9	mod	9	mod
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	ainsi	ainsi	ADV	ADV		9	mod	9	mod
+17	qu'	que	CS	CS		9	mod	9	mod
+18	entre	entre	P	P		0	_	0	_
+19	midi	midi	NC	NC	n=s|g=m	18	prep	18	prep
+20	et	et	CC	CC		19	coord	19	coord
+21	une	une	DET	DET	n=s|g=f	22	det	22	det
+22	heure	heure	NC	NC	n=s|g=f	20	dep_coord	20	dep_coord
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	aux	à	P+D	P+D	n=p	0	_	0	_
+25	non	non	ADV	ADV		0	_	0	_
+26	-	-	PONCT	PONCT		25	ponct	25	ponct
+27	musulmans	musulman	NC	NC	n=p|g=m	0	_	0	_
+28	,	,	PONCT	PONCT		27	ponct	27	ponct
+29	sauf	sauf	P	P		0	_	0	_
+30	les	les	DET	DET	n=p	31	det	31	det
+31	vendredis	vendredi	NC	NC	n=p|g=m	29	prep	29	prep
+32	(	(	PONCT	PONCT		31	ponct	31	ponct
+33	jour	jour	NC	NC	n=s|g=m	31	mod	31	mod
+34	saint	saint	ADJ	ADJ	n=s|g=m	33	mod	33	mod
+35	en	en	P	P		31	dep	31	dep
+36	Islam	_	NPP	NPP		35	prep	35	prep
+37	)	)	PONCT	PONCT		36	ponct	36	ponct
+38	,	,	PONCT	PONCT		36	ponct	36	ponct
+39	samedis	samedi	NC	NC	n=p|g=m	31	mod	31	mod
+40	et	et	CC	CC		39	coord	39	coord
+41	jours	jour	NC	NC	n=p|g=m	40	dep_coord	40	dep_coord
+42	où	où	PROREL	PROREL		44	suj	44	suj
+43	se	se	CLR	CLR	n=p,s|p=3	44	aff	44	aff
+44	tiennent	tenir	V	V	n=p|t=P,S|p=3	31	mod_rel	31	mod_rel
+45	des	des	DET	DET	n=p	46	det	46	det
+46	fêtes	fête	NC	NC	n=p|g=f	44	obj	44	obj
+47	religieuses	religieux	ADJ	ADJ	n=p|g=f	46	mod	46	mod
+48	musulmanes	musulman	ADJ	ADJ	n=p|g=f	46	mod	46	mod
+49	.	.	PONCT	PONCT		48	ponct	48	ponct
+
+</p><h2>
+1	Galerie	galerie	NC	NC	n=s|g=f	0	_	0	_
+
+</h2><h2>
+1	Vikiliens	_	NC	NC		0	_	0	_
+2	pour	pour	P	P		1	dep	1	dep
+3	compléter	compléter	VINF	VINF	t=W	2	prep	2	prep
+
+</h2><p>
+1	Islam	islam	NC	NC	n=s|g=m	0	_	0	_
+
+</p><p>
+1	Jérusalem	Jérusalem	NPP	NPP	n=s|g=m	0	_	0	_
+
+</p><p>
+1	Art	art	NC	NC	n=s|g=m	0	_	0	_
+2	islamique	islamique	ADJ	ADJ	n=s	1	mod	1	mod
+
+</p><h2>
+1	Liens	lien	NC	NC	n=p|g=m	0	_	0	_
+2	externes	externe	ADJ	ADJ	n=p	1	mod	1	mod
+3	et	et	CC	CC		1	coord	1	coord
+4	sources	source	NC	NC	n=p|g=f	3	dep_coord	3	dep_coord
+
+</h2><p>
+1	Dôme	dôme	NC	NC	n=s|g=m	0	_	0	_
+2	du	de	P+D	P+D	n=s|g=m	1	dep	1	dep
+3	Rocher	Rocher	NPP	NPP	n=s|g=m	2	prep	2	prep
+4	(	(	PONCT	PONCT		3	ponct	3	ponct
+5	source	source	NC	NC	n=s|g=f	1	mod	1	mod
+6	)	)	PONCT	PONCT		5	ponct	5	ponct
+
+</p><p>
+1	Études	étude	NC	NC	n=p|g=f	0	_	0	_
+2	françaises	français	ADJ	ADJ	n=p|g=f	1	mod	1	mod
+3	(	(	PONCT	PONCT		2	ponct	2	ponct
+4	source	source	NC	NC	n=s|g=f	1	mod	1	mod
+5	)	)	PONCT	PONCT		4	ponct	4	ponct
+
+</p><p>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	clés	clé	NC	NC	n=p|g=f	0	_	0	_
+3	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+4	Moyen-Orient	Moyen-Orient	NPP	NPP	n=s|g=m	3	prep	3	prep
+5	(	(	PONCT	PONCT		4	ponct	4	ponct
+6	source	source	NC	NC	n=s|g=f	2	mod	2	mod
+7	)	)	PONCT	PONCT		6	ponct	6	ponct
+
+</p><p>
+1	Découvrir	découvrir	VINF	VINF	t=W	0	_	0	_
+2	l'	le	DET	DET	n=s	3	det	3	det
+3	art	art	NC	NC	n=s|g=m	1	obj	1	obj
+4	islamique	islamique	ADJ	ADJ	n=s	3	mod	3	mod
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	base	base	NC	NC	n=s|g=f	3	mod	3	mod
+7	de	de	P	P		6	dep	6	dep
+8	données	donnée	NC	NC	n=p|g=f	7	prep	7	prep
+9	:	:	PONCT	PONCT		8	ponct	8	ponct
+10	Dôme	dôme	NC	NC	n=s|g=m	3	mod	3	mod
+11	du	de	P+D	P+D	n=s|g=m	10	dep	10	dep
+12	Rocher	Rocher	NPP	NPP	n=s|g=m	11	prep	11	prep
+
+</p><h2>
+1	Références	référence	NC	NC	n=p|g=f	0	_	0	_
+
+</h2>
+1	cette	cette	DET	DET	n=s|g=f	2	det	2	det
+2	page	page	NC	NC	n=s	6	suj	6	suj
+3	a	avoir	V	V	n=s|t=P|p=3	6	aux_tps	6	aux_tps
+4	été	être	VPP	VPP	t=K	6	aux_pass	6	aux_pass
+5	partiellement	_	ADV	ADV		6	mod	6	mod
+6	adaptée	adapter	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+7	de	de	P	P		6	mod	6	mod
+8	la	la	DET	DET	n=s|g=f	9	det	9	det
+9	page	page	NC	NC	n=s	7	prep	7	prep
+10	Dôme	_	NPP	NPP		9	mod	9	mod
+11	du	de	P+D	P+D	n=s|g=m	6	mod	6	mod
+12	Rocher	Rocher	NPP	NPP	n=s|g=m	11	prep	11	prep
+13	de	de	P	P		6	mod	6	mod
+14	Wikipédia	Wikipedia	NPP	NPP	n=s|g=f	13	prep	13	prep
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+

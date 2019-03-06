@@ -54,20 +54,73 @@ def send(cmd, debug=False):
 # Data model
 #-----------------------------------------------------------
 
-class Part:
+# A Multifile is composed of X Multiparts
+#       A Multipart is composed of X Parts
+#           A Part is composed of X Sentences
+#               A Sentence is composed of X Words
+
+class Multifile:
 
     def __init__(self):
+        self.multiparts = []
+
+    def __getitem__(self, i):
+        return self.multiparts[i]
+
+    def __call__(self, s):
+        for m in self.multiparts:
+            if m.filename == s:
+                return m
+        return None
+
+    def __repr__(self):
+        return f"A multifile of {len(self.multiparts)} multiparts."
+
+    def append(self, mp):
+        self.multiparts.append(mp)
+
+
+class Multipart:
+
+    def __init__(self, filename=None):
+        self.parts = []
+        self.filename = filename
+
+    def append(self, p):
+        self.parts.append(p)
+
+    def __repr__(self):
+        if self.filename is None:
+            return f"A multipart of {len(self.parts)} parts."
+        else:
+            return f"Multipart for file {self.filename} of {len(self.parts)} parts."
+
+    def __getitem__(self, i):
+        return self.parts[i]
+
+    def __len__(self):
+        return len(self.sentences)
+
+
+class Part:
+
+    def __init__(self, tag=None):
         self.sentences = []
+        self.tag = tag
 
     def append(self, s):
-        self.sentences.append(s)
+        if len(s) > 0:
+            self.sentences.append(s)
 
     def extend(self, p):
         self.sentences.extend(p.sentences)
     
     def __repr__(self):
-        return f"A part of {len(self.sentences)} sentences."
-
+        if self.tag is None:
+            return f"A part of {len(self.sentences)} sentences."
+        else:
+            return f"A {self.tag} part of {len(self.sentences)} sentences."
+    
     def __getitem__(self, i):
         return self.sentences[i]
 
@@ -224,10 +277,187 @@ class Word:
 # Convert Talismane output to the datamodel
 #-----------------------------------------------------------
 
-def process_line(line, expected=15, debug=False):
+def process(directory, expected=10):
+    if not os.path.isdir(directory):
+        raise Exception("Not a directory: " + directory)
+    mf = Multifile()
+    for filename in os.listdir(directory):
+        filepath = directory + os.sep + filename
+        f = open(filepath, mode='r', encoding='utf8')
+        content = f.readlines()
+        f.close()
+        mp = Multipart(filename)
+        cur_part = None
+        cur_sent = None
+        for line in content:
+            if len(line.strip()) <= 1:
+                cur_part.append(cur_sentence)
+                cur_sentence = Sentence()
+            elif line == '<p>\n':
+                # start of paragraph
+                cur_part = Part('p')
+                cur_sentence = Sentence()
+            elif line in ['</p>\n', '</p><hr/>\n', '</blockquote>\n']:
+                cur_part.append(cur_sentence)
+                mp.append(cur_part)
+                cur_part = None
+                cur_sentence = None
+            elif line == '</h2><h2>\n':
+                cur_part.append(cur_sentence)
+                mp.append(cur_part)
+                cur_part = Part('h2')
+                cur_sentence = Sentence()
+            elif line == '</h3><h3>\n':
+                cur_part.append(cur_sentence)
+                mp.append(cur_part)
+                cur_part = Part('h3')
+                cur_sentence = Sentence()
+            elif line.startswith('</p><h2>'):
+                cur_part.append(cur_sentence)
+                mp.append(cur_part)
+                cur_part = Part('h2')
+                cur_sentence = Sentence()
+            elif line.startswith('</h2><p>'):
+                cur_part.append(cur_sentence)
+                mp.append(cur_part)
+                cur_part = Part('p')
+                cur_sentence = Sentence()
+            elif line in [
+                    '</p><h3>\n',
+                    '</p><div class="floatnone"><h3>\n']:
+                cur_part.append(cur_sentence)
+                mp.append(cur_part)
+                cur_part = Part('h3')
+                cur_sentence = Sentence()
+            elif line == '</h3><h4>\n':
+                cur_part.append(cur_sentence)
+                mp.append(cur_part)
+                cur_part = Part('h4')
+                cur_sentence = Sentence()
+            elif line.startswith('</h3><p>'):
+                cur_part.append(cur_sentence)
+                mp.append(cur_part)
+                cur_part = Part('p')
+                cur_sentence = Sentence()
+            elif line in [
+                    '</p><h4>\n',
+                    '</h2><h4>\n'
+                    ]:
+                cur_part.append(cur_sentence)
+                mp.append(cur_part)
+                cur_part = Part('h4')
+                cur_sentence = Sentence()
+            elif line == '<img alt="Clin d\'œil" data-file-height="500" data-file-width="500" height="30" src="//download.vikidia.org/vikidia/fr/images/thumb/5/5f/Clin.png/30px-Clin.png" srcset="//download.vikidia.org/vikidia/fr/images/thumb/5/5f/Clin.png/45px-Clin.png 1.5x, //download.vikidia.org/vikidia/fr/images/thumb/5/5f/Clin.png/60px-Clin.png 2x" title="Clin d\'œil" width="30"/></p><h3>\n':
+                cur_part.append(cur_sentence)
+                mp.append(cur_part)
+                cur_part = Part('h3')
+                cur_sentence = Sentence()
+            elif line == '<img alt="Attention" data-file-height="220" data-file-width="237" height="19" src="//download.vikidia.org/vikidia/fr/images/thumb/3/3f/Attention.svg/20px-Attention.svg.png" srcset="//download.vikidia.org/vikidia/fr/images/thumb/3/3f/Attention.svg/30px-Attention.svg.png 1.5x, //download.vikidia.org/vikidia/fr/images/thumb/3/3f/Attention.svg/40px-Attention.svg.png 2x" title="Attention" width="20"/>\n':
+                continue
+            elif line in [
+                    '</h4><h5>Dans la mythologie grecque</h5><p>\n',
+                    '</p><h5>Dans la mythologie scandinave</h5><p>\n',
+                    '</p><h5>Dans la Bible</h5><p>\n',
+                    '</p><h5>Dans les croyances populaires provençales</h5><p>\n',
+                    '</p><h5>Dans la littérature</h5><p>\n',
+                    '</h4><h5>Lait et fromage</h5><p>\n',
+                    '</p><h5>Viande</h5><p>\n',
+                    '</p><h5>Poils et peau</h5><p>\n',
+                    '</h2><div class="floatnone"><p>\n',
+                    '</p><div class="floatnone"><p>\n',
+                    '</h4><h5>Lille au cœur du conflit</h5><p>\n',
+                    '<h5>La Résistance lilloise</h5><p>\n',
+                    '</p><h5>La Collaboration lilloise</h5><p>\n',
+                    '</p><h5>Subvenir à ses besoins sous l\'Occupation</h5><p>\n',
+                    '</p><h5>Les loisirs des Lillois sous l\'Occupation</h5><p>\n',
+                    '<p></p><p></p><p>\n',
+                    '<p></p><p>\n',
+                    '</blockquote><p>\n',
+                    '</p><blockquote><div>\n',
+                    '</blockquote><p style="margin:-0.7em 0 0.3em 6em">— Hergé</p><p>\n',
+                    '<div align="left" class="NavFrame" style="margin-bottom:1em; width:100%; border-style:solid; -moz-border-radius:0; -webkit-border-radius:0; border-radius:0; border-color:#AAAAAA;background-color:#FFFFFF" title="[afficher]"><p>\n',
+                    '</h4><h5>Braderie</h5><p>\n',
+                    '</blockquote><p style="margin:-0.7em 0 0.3em 6em">— Adolf Hitler.</p><blockquote><div>\n',
+                    '</h3><h5>Les Joueurs de Skat (Die Skatspieler, 1920) et les « Gueules cassées »</h5><p>\n',
+                    '<ul class="gallery mw-gallery-traditional"><li class="gallerybox" style="width: 155px"><div class="gallerytext"></p><p>\n',
+                    '</h3><h5>Les Joueurs de Skat (Die Skatspieler, 1920) et les « Gueules cassées »</h5><p>\n',
+                    '</p><li class="gallerybox" style="width: 155px"><div class="gallerytext"><p>\n',
+                    '<li class="gallerybox" style="width: 155px"><div class="gallerytext"><p>\n',
+                    '</h4><h5>Façade de la Nativité</h5><p>\n',
+                    '</p><h5>Façade de la Passion</h5><p>\n',
+                    '</p><h5>Façade de la Gloire</h5><p>\n',
+                    ]:
+                if cur_part is not None and cur_sentence is not None:
+                    cur_part.append(cur_sentence)
+                    mp.append(cur_part)
+                cur_part = Part('p')
+                cur_sentence = Sentence()
+            elif line in [
+                    '</blockquote><h2>\n',
+                    '<p style="margin:-0.7em 0 0.3em 6em">— Article de journal, Poméranie, Allemagne, milieu des années 30.</p><h2>\n'
+                    '</h4><h2>\n',
+                    '<p style="margin:-0.7em 0 0.3em 6em">— Article de journal, Poméranie, Allemagne, milieu des années 30.</p><h2>\n',
+                    '</h4><h2>\n']:
+                if cur_part is not None and cur_sentence is not None:
+                    cur_part.append(cur_sentence)
+                    mp.append(cur_part)
+                cur_part = Part('h2')
+                cur_sentence = Sentence()
+            elif line.startswith('</h4><p>'):
+                cur_part.append(cur_sentence)
+                mp.append(cur_part)
+                cur_part = Part('p')
+                cur_sentence = Sentence()
+            elif line.startswith('</h3><h2>'):
+                cur_part.append(cur_sentence)
+                mp.append(cur_part)
+                cur_part = Part('h2')
+                cur_sentence = Sentence()
+            elif line.startswith('</h2><h3>'):
+                cur_part.append(cur_sentence)
+                mp.append(cur_part)
+                cur_part = Part('h3')
+            elif line.startswith('</p><p>'):
+                cur_part.append(cur_sentence)
+                mp.append(cur_part)
+                cur_part = Part('p')
+                cur_sentence = Sentence()
+            elif line == '<h3>\n':
+                cur_part = Part('h3')
+                cur_sentence = Sentence()
+            elif line == '</h3>\n':
+                cur_part.append(cur_sentence)
+                mp.append(cur_part)
+                cur_part = None
+                cur_sentence = None
+            elif line == '</h2>\n':
+                cur_part.append(cur_sentence)
+                mp.append(cur_part)
+                cur_part = None
+                cur_sentence = None
+            elif line == '<h2>\n':
+                cur_part = Part('h2')
+                cur_sentence = Sentence()
+            elif len(line.split('\t')) >= expected:
+                if cur_part is None:
+                    cur_part = Part()
+                    cur_sentence = Sentence()
+                # a word line
+                cur_sentence.append(process_line(line))
+            else:
+                print('>>>' + line + '<<< [' + str(len(line)) + ']')
+                raise Exception("Unknown line.")
+        if len(cur_sentence) > 0:
+            cur_part.append(cur_sentence)
+            mp.append(cur_part)
+        mf.append(mp)
+    return mf
+
+
+def process_line(line, expected=10, debug=False):
     elems = line.split('\t')
-    if len(elems) >= 10:
-        return Word(*elems[0:10])
+    if len(elems) >= expected:
+        return Word(*elems[0:expected])
     else:
         if debug:
             o = '(' + str(len(elems)) + ')'
@@ -250,7 +480,7 @@ def process_multilines(content):
                 sentence = None
     return part
 
-
+    
 def process_file(filename, encoding='utf8'):
     file = open(filename, mode='r', encoding=encoding)
     content = file.readlines()
@@ -320,8 +550,9 @@ def txt2tal(target, encoding):
     return part
 
 
-order = 'test_process_file'
-option_dump = False
+#order = 'test_process_file'
+order = 'do_process'
+option_dump = True
 if __name__ == '__main__':
     if len(sys.argv) > 1:
         order = sys.argv[1]
@@ -350,3 +581,10 @@ if __name__ == '__main__':
         try: encoding = sys.argv[3]
         except IndexError: encoding = 'utf8'
         part = txt2tal(target, encoding)
+    elif order == 'test_process':
+        mf = process('vikibest_tal_test')
+    elif order == 'do_process':
+        mf = process('vikibest_tal')
+        if option_dump:
+            pickle.dump(mf, open('vikibest_tal.bin', mode='wb'))
+        
