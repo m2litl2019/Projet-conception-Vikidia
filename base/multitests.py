@@ -79,10 +79,11 @@ res_litenf.update(reperage_tps(LITENF))
 print()
 
 p = Presentation('templates/maquette2.html')
-p.populate(res_ema, 0)
-p.populate(res_maupa, 1)
-p.populate(res_vikibest, 2)
-p.populate(res_litenf,3)
+p.populate(res_litenf,0)
+p.populate(res_ema, 1)
+p.populate(res_maupa, 2)
+p.populate(res_vikibest, 3)
+
 p.ouput_all('results/multitests')
 
 
