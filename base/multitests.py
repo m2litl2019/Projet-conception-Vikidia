@@ -38,6 +38,8 @@ res_maupa.update(reperage_pronoms(MAUPA))
 print()
 res_maupa.update(reperage_verbeconj_prorel_sub(MAUPA))
 print()
+res_maupa.update(reperage_tps(MAUPA))
+print()
 
 VIKIBEST = 'vikibest'
 res_vikibest = {
