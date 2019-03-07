@@ -553,7 +553,7 @@ def txt2tal(target, encoding):
 #order = 'test_process_file'
 #order = 'do_process'
 order = 'tal2bin'
-target = 'md_fr.tal'
+target = 'ortho200_tal' #'litEnfant.tal' #'orthoClean_tal' #'md_fr.tal'
 option_dump = True
 if __name__ == '__main__':
     if len(sys.argv) > 1:
@@ -574,7 +574,7 @@ if __name__ == '__main__':
             target = sys.argv[2]
         try: encoding = sys.argv[3]
         except IndexError: encoding = 'utf8'
-        part = process_file(target, encoding)
+        part = load(target) #process_file(target, encoding)
         pickle.dump(part, open(target.replace('.tal', '.bin'), mode='wb'))
     elif order == 'loadbin':
         filename = sys.argv[2]

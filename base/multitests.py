@@ -60,7 +60,7 @@ res_vikibest.update(reperage_tps(VIKIBEST))
 print()
 
 
-LITENF = 'litEnfant.tal'
+LITENF = 'litEnfant.bin'
 res_litenf = {
     'GEN_TITLE' : 'LitEnfant',
     'GEN_URL' : 'https://github.com/m2litl2019/Projet-conception-Vikidia/tree/master/base/litEnfant.tal',
@@ -78,20 +78,30 @@ print()
 res_litenf.update(reperage_tps(LITENF))
 print()
 
-# corpus DOFUS
-# corpus ortho
-# corpus MondeDiplo
-# corpus VIKI A SIMPLIFIER
-# corpus WIKIPEDIA
+
+MONDEDIPLO = 'md_fr.bin'
+res_md = {
+    'GEN_TITLE' : 'Monde diplomatique',
+    'GEN_URL' : 'https://github.com/m2litl2019/Projet-conception-Vikidia/tree/master/base/md_fr.tal',
+    'GEN_DATE' : str(datetime.datetime.now())
+}
+print('== Corpus du Monde Diplomatique ==')
+print()
+res_md.update(reperage_passive(MONDEDIPLO))
+print()
+res_md.update(reperage_pronoms(MONDEDIPLO))
+res_md.update(reperage_pronoms(MONDEDIPLO))
+print()
+res_md.update(reperage_verbeconj_prorel_sub(MONDEDIPLO))
+print()
+res_md.update(reperage_tps(MONDEDIPLO))
+print()
+
 
 p = Presentation('templates/maquette2.html')
-p.populate(res_litenf,0)
-p.populate(res_ema, 1)
-p.populate(res_maupa, 2)
-p.populate(res_vikibest, 3)
-
+p.populate(res_litenf, 0, name='Litérature Enfant')
+p.populate(res_ema, 1, name='EMA')
+p.populate(res_maupa, 2, name='Maupassant')
+p.populate(res_vikibest, 3, name='Vikibest')
+p.populate(res_md, 4, name='Monde Diplomatique')
 p.ouput_all('results/multitests')
-
-
-
-
