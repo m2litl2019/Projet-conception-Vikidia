@@ -551,7 +551,9 @@ def txt2tal(target, encoding):
 
 
 #order = 'test_process_file'
-order = 'do_process'
+#order = 'do_process'
+order = 'tal2bin'
+target = 'md_fr.tal'
 option_dump = True
 if __name__ == '__main__':
     if len(sys.argv) > 1:
@@ -568,7 +570,8 @@ if __name__ == '__main__':
     elif order == 'test_loading':
         part = load_bin('ema.bin')
     elif order == 'tal2bin':
-        target = sys.argv[2]
+        if target is None:
+            target = sys.argv[2]
         try: encoding = sys.argv[3]
         except IndexError: encoding = 'utf8'
         part = process_file(target, encoding)

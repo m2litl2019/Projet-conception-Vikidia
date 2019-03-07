@@ -78,6 +78,12 @@ print()
 res_litenf.update(reperage_tps(LITENF))
 print()
 
+# corpus DOFUS
+# corpus ortho
+# corpus MondeDiplo
+# corpus VIKI A SIMPLIFIER
+# corpus WIKIPEDIA
+
 p = Presentation('templates/maquette2.html')
 p.populate(res_litenf,0)
 p.populate(res_ema, 1)
