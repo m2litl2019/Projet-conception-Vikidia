@@ -9,6 +9,8 @@
 #commande : python3 reperage_verbeconj_prorel_sub.py
 
 commentaire version : compte les modifieurs des NC (mais il n'y a pas encore accès aux coordonnés de ces modifieurs --> mesure pas très efficace du coup car ne compte pas tous les modifieurs (s'appuie sur v2 de texteval.py que je n'ai pas modifiée a souhait total)
+ajout du calcul de la longueur moyenne des phrases 
+
 """
 
 from texteval import load
@@ -26,7 +28,9 @@ def reperage_verbeconj_prorel_sub(target, debug=DEBUG):
     nbModNcAll = []
     positionsV = []
     nb_phrase = 0
+    longueur_phrase = []
     for sentence in data:
+        longueur_phrase.append(len(sentence.words))
         listeSV = []
         listeProRel = []
         listeSubord = []
@@ -46,7 +50,6 @@ def reperage_verbeconj_prorel_sub(target, debug=DEBUG):
                 for dep in sentence.get_dependents(word):
                     if dep.dep.startswith("mod"):
                         nbMod += 1
-                        #print(dep.dep,dep.form)
                         for coord in dep.coords:
                             nbMod += 1
                 nbModNcAll.append(nbMod)
@@ -74,7 +77,8 @@ def reperage_verbeconj_prorel_sub(target, debug=DEBUG):
         'VERBECONJ_PROREL_SUB' : subordTot,
         'VERBECONJ_PROREL_AVG_V1' : meanFromList(positionsV),
         'SYN_NB_MODIFIERS_PER_NOUN' : meanFromList(nbModNcAll),
-        'GEN_WORD_LENGTH' : data.word_len
+        'GEN_WORD_LENGTH' : data.word_len,
+        'AVG_SENTENCE_LEN' : meanFromList(longueur_phrase)
         }
 
 if __name__ == '__main__':
