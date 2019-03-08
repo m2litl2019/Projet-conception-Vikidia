@@ -1,0 +1,221 @@
+<p>
+DarkOrbit est un jeu en ligne multijoueurs dans une ambiance intergalactique.
+</p>
+<h2>
+Les firmes et quêtes
+</h2>
+<p>
+Il existe trois firmes implantées dans différentes planètes.
+5 types de missions sont proposés par votre firme, elle servent à gagner de l'uridium, des points d'honneur, d'expérience et des crédits.
+A chaque montée de niveau, votre firme en propose des nouvelles.
+</p>
+<h3>
+Le skylab
+</h3>
+<p>
+Le Skylab est une station spatiale en orbite où vous pourrez vendre, collecter des minéraux , il existe plusieurs types de minerais :
+</p>
+<p>
+Le prometium
+</p>
+<p>
+L'endurium
+</p>
+<p>
+Le terbium
+</p>
+<p>
+Le Prometid
+</p>
+<p>
+Le duranium
+</p>
+<p>
+Le promerium
+</p>
+<p>
+La Xenomit
+</p>
+<p>
+Le Seprom
+</p>
+<h2>
+Les vaisseaux
+</h2>
+<p>
+Il existe en tout 10 types de vaisseaux et 3 catégories :
+</p>
+<p>
+les starjets : ce sont des petits vaisseaux faits pour des pilotes débutants ;
+</p>
+<p>
+les starfighters : ce sont des vaisseaux supérieurs en qualité pour des pilotes intermédiaires;
+</p>
+<p>
+et enfin les battlecruisers : ce sont des vaisseaux résistants et puissants pour les pilotes confirmés.
+</p>
+<h2>
+L'expérience, les niveaux et l'accès aux nouvelles cartes
+</h2>
+<p>
+Niveau 01 : 0 point d'expérience. Donne accès aux cartes X-1 et X-2 de votre propre firme.
+</p>
+<p>
+Niveau 02 : 10 000 points d'expérience. Donne accès aux cartes X-3 et X-4 de votre propre firme.
+</p>
+<p>
+Niveau 03 : 20 000 points d'expérience. Donne accès direct de X-3 à X-4 de votre propre firme.
+</p>
+<p>
+Niveau 04 : 40 000 points d'expérience.
+</p>
+<p>
+Niveau 05 : 80 000 points d'expérience. Donne accès aux cartes X-3 ou X-4 des firmes adverses.
+</p>
+<p>
+Niveau 06 : 160 000 points d'expérience. Donne accès direct de X-3 à X-4 des firmes adverses.
+</p>
+<p>
+Niveau 07 : 320 000 points d'expérience.
+</p>
+<p>
+Niveau 08 : 640 000 points d'expérience. Donne accès aux cartes PvP 4-1, 4-2, 4-3.
+</p>
+<p>
+Niveau 09 : 1 280 000 points d'expérience. Donne accès à la carte PvP 4-4.
+</p>
+<p>
+Niveau 10 : 2 560 000 points d'expérience. Donne accès à la carte X-5 de votre propre firme.
+</p>
+<p>
+Niveau 11 : 5 120 000 points d'expérience. Donne accès aux cartes X-6 et X-7 de votre propre firme.
+</p>
+<p>
+Niveau 12 : 10 240 000 points d'expérience. Donne accès à la carte X-8 de votre propre firme.
+</p>
+<p>
+Niveau 13 : 20 480 000 points d'expérience. Donne accès à la carte X-2 des firmes adverses.
+</p>
+<p>
+Niveau 14 : 40 960 000 points d'expérience. Donne accès à la carte X-5 des firmes adverses.
+</p>
+<p>
+Niveau 15 : 81 920 000 points d'expérience. Donne accès aux cartes X-6 et X-7 des firmes adverses.
+</p>
+<p>
+Niveau 16 : 163 840 000 points d'expérience. Donne accès à la carte X-1 des firmes adverses. Vous pouvez atteindre les stations spatiales ennemies dans l'ancien univers.
+</p>
+<p>
+Niveau 17 : 327 680 000 points d'expérience. Donne accès à toutes les cartes.
+</p>
+<p>
+Niveau 18 : 655 360 000 points d'expérience.
+</p>
+<p>
+Niveau 19 : 1 310 720 000 points d'expérience.
+</p>
+<p>
+Niveau 20 : 2 621 440 000 points d'expérience.
+</p>
+<p>
+Niveau 21 : 5 242 880 000 points d'expérience.
+</p>
+<p>
+Niveau 22 : 10 485 760 000 points d'expérience.
+</p>
+<p>
+Quand vous montez en niveaux, vous pouvez accéder à d'autres cartes.
+</p>
+<h2>
+Les équipements
+</h2>
+<p>
+Pour améliorer votre vaisseau, une multitude d'équipements est proposée. Certains équipements sont à acheter en crédit, d'autres en uridium, d'autres encore aux enchères.
+</p>
+<h3>
+Le clan
+</h3>
+<p>
+Un clan peut être créé pour 300 000 crédits. Sinon, on peut aussi rejoindre un clan pour 1 500 crédits. Un clan peut comporter 50 membres au maximum. Le clan peut faire des pactes de non-agression avec d'autres clans, des guerres ou même des alliances, il y en a pour tous les types de clans.
+</p>
+<h3>
+Les armes
+</h3>
+<p>
+Pour vous défendre contre les vaisseaux extraterrestres et les vaisseaux ennemis, vous pouvez acquérir différentes armes :
+</p>
+<p>
+Les lasers : LF1:30 dégâts/tir ; MP1:60 dégâts/tir ; LF2:100 dégâts/tir ; LF3:150 dégâts/tir ; LF4: 200 dégâts/tir.
+</p>
+<p>
+Les munitions de laser : 6 types, qui boostent jusqu'à 6 fois la puissance de tir.
+</p>
+<p>
+Les roquettes : 7 types, vont jusqu'à 45 000 dégâts.
+</p>
+<p>
+Les mines (4 types mine anti-camouflage, 10% de dégâts, mine ralentis (la préférée des saboteurs, des pirates) et mine acm-01 la mine normale.
+</p>
+<h3>
+Les générateurs de boucliers et de propulsion
+</h3>
+<p>
+Il existe deux types de générateurs :
+</p>
+<h2>
+Les générateurs de boucliers
+</h2>
+<p>
+Ils servent à vous procurer des points de bouclier. Ils absorberont une partie des dégâts subis par votre vaisseau lors des combats ; ils sont au nombre de cinq :
+</p>
+<p>
+Le SG3N-A01 (procure 1 000 points de bouclier et absorbe 40 % des dégâts)
+</p>
+<p>
+Le SG3N-A02 (procure 2 000 points de bouclier et absorbe 50 % des dégâts)
+</p>
+<p>
+Le SG3N-A03 (procure 5 000 points de bouclier et absorbe 60 % des dégâts)
+</p>
+<p>
+Le SG3N-B01 (procure 4 000 points de bouclier et absorbe 70 % des dégâts)
+</p>
+<p>
+Le SG3N-B02 (procure 10 000 points de bouclier et absorbe 80 % des dégâts)
+</p>
+<p>
+LE B-03 procure lui 50 000 points de bouclier et absorbe 150% de bouclier.
+</p>
+<h3>
+Le REX 10
+</h3>
+<p>
+Le REX-10 est un petit module qui vous suit partout, il est achetable uniquement en uridium au hangar pour 50 000 uridium.
+</p>
+<h3>
+Les drones
+</h3>
+<p>
+Les drones sont des sortes de petits robots en inter-dépendance avec votre vaisseau. Il sont placés en protecteurs autour de celui ci. Ils peuvent être équipés de laser (pour augmenter la puissance de tir), de CPU ou de générateurs de bouclier mais ne peut pas avoir de générateur de vitesse. Le nombre de drones attachés à un vaisseau est limité à huit (limité a 10 si vous achetés les drones Apis et Zeus).
+Il existe 4 types de drones : Flax, Iris, Apis et Zeus.
+</p>
+<h2>
+Drone Flax
+</h2>
+<p>
+Il peut contenir un objet (1 laser ou 1 générateur de bouclier).
+Il ne s'achète qu'en crédits.
+</p>
+<h2>
+Drone Iris
+</h2>
+<p>
+Il peut contenir deux objets (2 lasers ou 2 générateurs de bouclier ou 1 laser et 1 générateur de bouclier et aussi certains des extras). Il s'achète en Uridium mais peut s'acheter en crédit aux enchères.
+</p>
+<h3>
+Les extras
+</h3>
+<p>
+Les extras sont des équipements qui donnent un plus à votre vaisseau (ex : le robot réparateur répare le vaisseau).
+</p>
+cette page a été partiellement adaptée de la page Dark Orbit de Wikipédia.

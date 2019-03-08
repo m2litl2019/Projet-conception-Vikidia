@@ -1,0 +1,164 @@
+<h2>
+Présentation rapide : comment insérer des coordonnées facilement[modifier le wikicode]
+</h2>
+<p>
+Ce modèle sert à insérer des coordonnées géographiques dans un article ; il insère en même temps un lien vers l’outil « GeoHack », qui donne accès à de nombreux outils de vues satellites, cartes, etc. comme Google Maps par exemple.
+</p>
+<p>
+Pour insérer des coordonnées dans un article, suivez la procédure suivante (le manuel complet est plus bas) :
+</p>
+<p>
+Trouvez les coordonnées de l’endroit, avec un logiciel (comme Google Earth) ou un site adapté (comme GeoLocator, ACME Mapper, Géoportail…), ou d’après une source digne de foi. Vous pouvez les trouver dans trois formats, en général : soit sous la forme « 26.456, -3.765 » (degrés décimaux ou dec), soit « 26°24.5′ N, 3°58.25′ W » (degrés et minutes puis fractions de minutes, ou DM), soit « 26°24′30″ N 3°58′15″ » (degrés minutes et secondes, DMS).
+</p>
+<p>
+Écrivez à l’endroit souhaité de l’article le code suivant : <code>{{coord|vos coordonnées}}</code>, en séparant les coordonnées par une barre verticale. En format décimal, cela donne : <code>{{coord|26.456|-3.765}}</code> ; en format DM, ceci : <code>{{coord|26|24.5|N|3|58.25|W}}</code> ; en format DMS, ceci : <code>{{coord|26|24|30|N|3|58|15|W}}</code>.
+</p>
+<p>
+Note : pour DM et DMS, n’oubliez pas de préciser N/S/E/W.
+</p>
+<p>
+Ajoutez éventuellement des paramètres après une autre barre verticale. Par exemple, pour une ville, ajoutez <code>type:city</code>, pour un bâtiment <code>type:landmark</code> ; vous pouvez préciser l’échelle avec <code>scale:20000</code> (échelle 1:Modèle:Nombre), la région du monde avec <code>region:FR</code> (FR étant le code ISO 3166-1 alpha 2 de la France). Pour une ville française vue à l’échelle 1:Modèle:Nombre, vous écrirez donc : <code>{{coord|26|24|30|N|3|58|15|W|type:city_region:FR_scale:10000}}</code>.
+</p>
+<p>
+Note : ces paramètres sont séparés par un tiret bas ; liste complète sur cette page.
+</p>
+<p>
+Par défaut, les coordonnées sont écrites là où le modèle est placé ; vous pouvez les afficher dans le titre en ajoutant <code>|display=title</code>. Vous pouvez aussi choisir d’afficher des coordonnées décimales en format DMS en ajoutant <code>|format=dms</code>, ou des coordonnées DM/DMS en format décimal avec <code>format=dec</code>. Exemple : <code>{{coord|26.456|-3.765|format=dms}}</code>
+</p>
+<p>
+Enfin, n’oubliez pas de préciser la source des coordonnées, par exemple avec une note. Ainsi, en cas de contestation, on sait comment retrouver l’origine de votre choix.
+</p>
+<p>
+Le modèle complet peut donc ressembler à ceci :
+</p>
+<p>
+<code>{{coord|26|24|30|N|3|58|15|W|type:city_region:FR_scale:10000|format=dec|display=title}}</code>.
+</p>
+<p>
+En cas de doute sur les paramètres, mieux vaut ne pas recopier le modèle d’une autre page mais se contenter de ne mettre que les coordonnées, sans paramètres : ça marchera très bien ainsi. Le reste de cette page explique le fonctionnement en détail du modèle {{coord}}.
+</p>
+<h2>
+Utilisation[modifier le wikicode]
+</h2>
+<p>
+Ce modèle {{Coord}} permet de créer un lien vers Geohack, un outil du toolserver qui donne une liste de liens sources vers des cartes, des vues satellites, des photosModèle:Etc. ce pour une position géographique donnée par sa latitude, sa longitude, et son échelle) de visualisation.
+</p>
+<p>
+Ce modèle permet également de standardiser la notation des coordonnées géographiques. Il utilise principalement des coordonnées terrestres (il est possible de préciser <code>globe:moon</code> ou <code>globe:mars</code>, sans réel effet pour l’instant) de type WGS84 (latitude - longitude). Ces coordonnées peuvent être entrées et affichées de manière indépendante dans :
+</p>
+<p>
+le système décimal avec des degrés décimaux (DD), la précision dépend alors du nombre de chiffres rentrés après la virgule.
+</p>
+<p>
+le système sexagésimal ou degrés-minutes-secondes (DMS), la précision dépend alors du fait que l’on rentre les coordonnées jusqu’au secondes (DMS), ou que jusqu’au minutes (DM seulement), voir que jusqu’au degrés (D seulement).
+</p>
+<p>
+Le WikiMiniAtlas est activé, donc un petit globe  s’affiche juste avant les coordonnées et montre un atlas interactif : cliquez pour afficher une carte configurable.
+</p>
+<p>
+Ces coordonnées géographiques sont lisibles et exportables en Géoformat : voir en:WP:GEOUF et http://microformats.org/wiki/geo (en).
+</p>
+<p>
+{{Coord}} est également utilisé par des outils qui extraient les coordonnées depuis la base de données, comme Google Earth ou le WikiMiniAtlas.
+</p>
+<h2>
+Syntaxe[modifier le wikicode]
+</h2>
+<p>
+Voici quatre exemples de syntaxe possible :
+</p>
+<p>
+<tt>{{coord|latitude|longitude|paramètres des coordonnées|paramètres du modèle}}</tt>
+</p>
+<p>
+<tt>{{coord|lat deg|N/S|lon deg|E/W|paramètres des coordonnées|paramètres du modèle}}</tt>
+</p>
+<p>
+<tt>{{coord|lat deg|lat min|N/S|lon deg|lon min|E/W|paramètres des coordonnées|paramètres du modèle}}</tt>
+</p>
+<p>
+<tt>{{coord|lat deg|lat min|lat sec|N/S|lon deg|lon min|lon sec|E/W|paramètres des coordonnées|paramètres du modèle}}</tt>
+</p>
+<h3>
+Paramètres du modèle[modifier le wikicode]
+</h3>
+<p>
+Les coordonnées géographiques, celles-ci peuvent être écrites au format décimal (auquel cas « latitude » et « longitude » prennent leurs valeurs décimales, comme par exemple « <code>-45.76843</code> » ou « <code>87.234567</code> » (utilisez un point comme séparateur décimal), ou au format sexagésimal : deg pour les degrés, min pour les minutes, sec pour les secondes avec « <code>N</code> » ou « <code>S</code> » pour la latitude et « <code>E</code> » ou « <code>W</code> » pour la longitude (n’utilisez pas la lettre « <code>O</code> » !)
+</p>
+<p>
+Les paramètres de coordonnées, ce sont les paramètres d’échelle qui pourront être compris par Geohack, comme « <code>type:</code> », « <code>scale:</code> », « <code>region:</code> », « <code>altitude:</code> »… Si il y en a plusieurs en même temps, il faut les séparer par un tiret bas « _ » (exemple : « <code>type:landmark_scale:50000</code> »). Pour la liste exhaustive voir GeoTemplate/Utilisation.
+</p>
+<p>
+Les paramètres du modèle, ce sont « <code>display</code> », « <code>format</code> » et « <code>name</code> » :
+</p>
+<p>
+<code>display</code> peut prendre les valeurs <code>inline</code>, ou <code>title</code>, ou encore <code>inline,title</code>. La syntaxe <code>display=inline</code> (par défaut) permet d’afficher les coordonnées dans le texte, là où le modèle est placé ; <code>display=title</code> affiche les coordonnées juste en dessous de la barre de titre, à droite ; <code>display=inline,title</code> fait les deux à la fois. Note : utilisez <code>title</code> pour signifier que les coordonnées en question concernent tout l’article.
+</p>
+<p>
+<code>format</code> force le format d’affichage si on le veut différent du format des coordonnées géographiques entrées. <code>format=dec</code> donne un affichage décimal, <code>format=dms</code> un affichage sexagésimal, et <code>format=dms long</code> un affichage sexagésimal en français sur deux lignes (pratique dans les infobox, mais déconseillé dans les titres, utilisez alors <code>format=dms</code>). Par défaut, l’affichage est dans le même format que les arguments.
+</p>
+<p>
+<code>name</code> sert à annoter les coordonnées pour les services externes. S’il est activé, le nom spécifié remplace le nom de l’article sur les cartes générées automatiquement. Par défaut, le nom est le titre de la page, il n’y a donc pas besoin de le spécifier pour les coordonnées dans les infobox ou dans le titre. Il est utile dans le cas où l’on souhaite utiliser dans un article le modèle « Coord » pour situer un point géographique mais qui n’est pas celui de l’article en question.
+</p>
+<h3>
+Erreurs courantes[modifier le wikicode]
+</h3>
+<p>
+Les erreurs courantes suivantes sont à éviter, ou le modèle ne fonctionnera pas correctement :
+</p>
+<p>
+N’utilisez pas de virgule comme séparateur décimal, mais uniquement un point.
+</p>
+<p>
+Ne mettez pas d’espace entre le signe négatif (-) et les nombres : -2.876 est correct, - 2.876 ne l’est pas.
+</p>
+<p>
+N’écrivez pas « O » pour Ouest mais « W ».
+</p>
+<h2>
+Exemples[modifier le wikicode]
+</h2>
+<h3>
+Quelques exemples choisis[modifier le wikicode]
+</h3>
+<h3>
+Liste exhaustive des possibilités[modifier le wikicode]
+</h3>
+<p>
+Si les coordonnées géographiques entrées sont dans le système décimal, voir Coord/Exemple en décimal
+</p>
+<p>
+Si les coordonnées géographiques entrées sont dans le système sexagésimal, voir Coord/Exemple en sexagésimal
+</p>
+<h2>
+Personnalisation de l'affichage[modifier le wikicode]
+</h2>
+<p>
+Par défaut, les coordonnées s’affichent dans le format dans lequel elles sont données. Il vous est possible de changer ce comportement.
+</p>
+<p>
+Pour toujours afficher les coordonnées au format DMS, ajoutez le code suivant à votre vector.css :
+</p>
+<p>
+<code>.geo-default { display: inline } .geo-nondefault { display: inline } .geo-dec { display: none }   .geo-dms { display: inline }</code>
+</p>
+<p>
+Pour toujours afficher les coordonnées au format décimal, ajoutez le code suivant à votre vector.css :
+</p>
+<p>
+<code>.geo-default { display: inline } .geo-nondefault { display: inline }.geo-dec { display: inline } .geo-dms { display: none }</code>
+</p>
+<p>
+Pour afficher les deux formats ensemble, ajoutez le code suivant à votre vector.css :
+</p>
+<p>
+<code>.geo-default { display: inline } .geo-nondefault { display: inline }.geo-dec { display: inline }   .geo-dms { display: inline }.geo-multi-punct { display: inline }</code>
+</p>
+<h2>
+Remarque importante[modifier le wikicode]
+</h2>
+<p>
+Avant toute modification du modèle présent, notez que les noms de classe « <code>geo</code> », « <code>latitude</code> » et « <code>longitude</code> » sont utilisés pour générer le microformat avec Géoformat (voir microformats.org) et NE DOIVENT PAS ÊTRE MODIFIÉS.
+</p>
+<p>
+</p>
