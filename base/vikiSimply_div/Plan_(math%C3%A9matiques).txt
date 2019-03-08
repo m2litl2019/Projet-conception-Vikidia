@@ -1,0 +1,59 @@
+<p>
+En géométrie, un plan affine incident est un espace sur lequel on peut vouloir travailler. Il permet de récupérer et de formaliser des propriétés des figures du plan ; en particulier, on peut définir et étudier l'alignement et le parallélisme dans un plan affine incident. Toutefois, les notions métriques (angles et distances) sont absentes.
+</p>
+<h2>
+Définition
+</h2>
+<p>
+Un plan est une surface plane . Une droite et un point distincts définissent un seul plan, cela peut aussi être trois points distincts (différents) et non alignés.
+Toute figure dessinée sur une feuille est contenue dans un seul plan (quoiqu'un dessin puisse représenter un objet qui ne peut pas être contenu dans un seul plan grâce à la perspective).
+On dit aussi qu'un plan est un espace à deux dimensions, c'est-à-dire qu'on peut rattacher tous les points avec seulement deux directions différentes. Cela s'oppose à l'espace qui, lui, a trois dimensions et qui peut contenir des figures ayant un volume.
+</p>
+<p>
+Un plan affine incident est constitué de « points » et de « droites ». L'incidence fait référence à l'appartenance d'un point à une droite. On peut dire :
+</p>
+<p>
+Ou bien une droite passe par un point ;
+</p>
+<p>
+Ou bien ce point est incident à cette droite.
+</p>
+<p>
+Ici, les notions « points » et « droites » n'ont pas de significations particulières. Sur les exemples, on doit interpréter ce que sont les points et les droites... et une droite peut être... un segment, un arc de cercle, ... Les plans affines incidents doivent vérifier trois propriétés, données ci-dessous.
+</p>
+<h3>
+Alignement
+</h3>
+<p>
+Des points sont dits alignés lorsqu'ils sur même droite. Autrement dit, lorsqu'il existe une droite qui passe par ces points. Un plan affine incident vérifie par définition :
+</p>
+<p>
+Par deux points A et B, il passe une unique droite. Elle est notée (AB) avec des parenthèses. Réciproquement, toute droite passe par au moins deux points différents.
+</p>
+<p>
+Il existe au moins trois points non alignés.
+</p>
+<h3>
+Parallélisme
+</h3>
+<p>
+Deux droites sont dites parallèles lorsqu'elles sont confondues ou lorsqu'elles ne passent pas par un même point. Autrement dit, lorsqu'aucun point n'est incident aux deux droites. Sinon, on dit qu'elles s'intersectent.
+</p>
+<p>
+Si un point A n'est pas incident à une droite d, alors il existe une unique droite parallèle à d qui passe par A.
+</p>
+<h2>
+Exemple
+</h2>
+<p>
+Si ABC est un triangle du plan, on note G son centre de gravité. Un plan affine P peut être défini par :
+</p>
+<p>
+Les quatre points A, B, C et G ;
+</p>
+<p>
+Les six « droites » [AB], [AC], [BC], [AG], [BG] et [CG].
+</p>
+<p>
+Dans cet exemple, chaque « droite » possède exactement deux points. Par conséquent, trois points ne sont jamais alignés. Chaque point est incident à exactement trois droites. Toute droite possède une unique parallèle.
+</p>

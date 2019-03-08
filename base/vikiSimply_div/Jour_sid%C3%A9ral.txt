@@ -1,0 +1,66 @@
+<p>
+Le jour est une façon de mesurer le passage du temps. Il désigne le temps qu'il faut à la planète Terre pour faire un tour sur elle-même. En effet, la Terre tourne sur elle-même comme une toupie. Selon le point de repère considéré, la durée du jour n'est pas tout à fait la même ; le jour sidéral désigne le temps qu'il faut pour que la Terre fasse un tour sur elle-même par rapport aux étoiles.
+</p>
+<p>
+Le jour sidéral est différent du jour solaire de quelques minutes, car la terre tourne également autour du Soleil en même temps qu'elle tourne sur elle-même : en un jour solaire, le soleil semble s'être déplacé par rapport aux étoiles. Comme la Terre tourne sur elle-même dans le même sens qu'elle tourne autour du Soleil, le jour sidéral est plus court que le jour solaire de quelques minutes : le jour solaire moyen dure 24h, tandis que le jour sidéral dure 23h56min04s.
+</p>
+<h2>
+Explication
+</h2>
+<h3>
+Jour sidéral et jour solaire
+</h3>
+<p>
+Entre deux culminations successives du Soleil (le Soleil est au plus haut dans le ciel, mais jamais au zénith en France), soit entre deux midis successifs, il s'écoule un jour solaire, jamais égaux entre eux (une ordinaire montre à quartz suffit pour le vérifier !)
+</p>
+<p>
+Par contre, la Terre pivote sur elle-même très régulièrement :
+</p>
+<p>
+un tour sidéral (deux culminations successives d'une étoile) en 86164.091 (1) secondes.
+</p>
+<p>
+Pendant que la Terre fait sa révolution (plus ou moins vite) autour du Soleil (c'est-à-dire pendant une année), elle tourne 1 fois, et en plus elle a effectué 365.25 jours solaires (certes assez inégaux de plusieurs secondes !) : au total, elle a donc pivoté par rapport aux étoiles de
+</p>
+<p>
+365.25 + 1 = 366.25 tours sidéraux.
+</p>
+<p>
+Conclusion : le jour solaire moyen vaut :
+</p>
+<p>
+86164.091 * 366.25/ (366.25 -1) = 86400,000 s
+</p>
+<p>
+Mais rappelons que le jour solaire (celui des cadrans solaires !) peut varier de quelques secondes : et certes une observation soigneuse d'un cadran solaire permet de voir un signe en forme de huit, qui permet de faire la correction. Cette variation de l'heure du passage au méridien du soleil est appelé dans les éphémérides l'« équation du temps ».
+</p>
+<h3>
+Une histoire de nombre entier
+</h3>
+<p>
+Comme ce nombre (365,25) ne tombe pas « juste » (il ne désigne pas un nombre de jours entiers), pour des raisons pratiques, on dit qu'il y a 365 jours par an pendant trois années de suite, puis la quatrième année, il faut rattraper le quart de journée (0,25) perdu chaque année pendant les trois années précédentes : on réajuste par une année de 366 jours qui contient le 29 février, alors que février s'arrête le 28 les autres années. Cette année-là s'appelle année bissextile (ce terme difficile à expliquer tient à l'histoire du calendrier romain de Jules César).
+</p>
+<h3>
+Division du jour
+</h3>
+<p>
+24 heures de 3 600 secondes, soit : 24*3 600 = 86 400 secondes valent sensiblement un jour solaire. Et cela suffit pour la vie courante !
+</p>
+<p>
+Un jour est divisé en deux parties : le matin (ou la matinée) de 0 heure à 12 h 00 et l'après-midi de 12 h 00 à 24 h 00.
+</p>
+<p>
+Cela est à bien distinguer de la durée de la nuit (du coucher du Soleil à son lever), qui n'est égale à 12 h que deux jours par an : aux équinoxes de printemps et d'automne.
+</p>
+<h3>
+La semaine
+</h3>
+<p>
+Les noms des jours tels que nous les connaissons actuellement, tout comme les noms des mois, viennent du latin (pour plus d'informations, voir ci-dessous pour chaque jour).
+</p>
+<h2>
+Pour compléter
+</h2>
+<p>
+Inégalité du jour et de la nuit
+</p>

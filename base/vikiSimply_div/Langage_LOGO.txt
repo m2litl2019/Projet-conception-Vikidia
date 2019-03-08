@@ -1,0 +1,57 @@
+<p>
+Le langage LOGO est un langage de programmation qui a été développé au M.I.T (Université de Technologie du Massachusetts, U.S.A.) à la fin des années soixante par Seymour Papert.
+</p>
+<p>
+LOGO a été adapté dans différentes langues (Espagnol, Français, Italien). C'est ainsi que cet outil de programmation est arrivé en France au début des années quatre-vingts et que les élèves ont pu le pratiquer sur les ordinateurs de cette époque (Thomson TO7, MO5, Goupil, Micral). Il a été appliqué aux activités géométriques avec les déplacements d'un objet graphique aussi appelé tortue.
+</p>
+<h2>
+Ses caractéristiques
+</h2>
+<p>
+C’est un langage
+</p>
+<p>
+interprété/pseudo-compilé : selon les versions, les instructions sont exécutées immédiatement ou font l'objet d'un travail de reconnaissance préalable par le logiciel ;
+</p>
+<p>
+impératif : il décrit une suite d’instructions à exécuter les unes après les autres ;
+</p>
+<p>
+procédural : il comporte éventuellement des blocs de calculs (fonctions ou procédures) désignés par un nom explicite ;
+</p>
+<p>
+peu typé : les variables peuvent tour à tour contenir un mot, une liste, un nombre, un booléen ou un nom de couleur.
+</p>
+<h2>
+Son utilisation scolaire
+</h2>
+<p>
+Exemple de mot : "calendrier
+</p>
+<p>
+Exemple de liste : [ jeudi 24 octobre 2075 ]
+</p>
+<p>
+Exemple de nombre : 12,5 ou 12.5 (le séparateur décimal est parfois indifférent comme dans la version Logoplus).
+</p>
+<p>
+Les booléens vrai et faux.
+</p>
+<p>
+Ce langage a d'abord été utilisé par les élèves de manière ponctuelle et autonome dans une démarche de pédagogie active.
+</p>
+<p>
+L'utilisation du LOGO est également pleinement efficace dans le cadre d'un projet éducatif encadré par un adulte expérimenté en programmation informatique. Mais cette philosophie du tout-apprentissage en autonomie diminua l'intérêt des enseignants ; la fragilité du matériel informatique puis l'arrivée d'autres logiciels en précipita l'abandon.
+</p>
+<p>
+Une version modernisée (compatible Windows), francophone, gratuite et complète du langage LOGO existe toujours : LOGOPLUS, et est conçue pour accompagner la scolarité des élèves et étudiants en sciences mathématiques, de la fin de l'école élémentaire jusqu'à l'université.
+</p>
+<p>
+Les langages actuels proches de la philosophie LOGO sont Scratch et SNAP! pour l'école et le collège, et, pour le lycée ou le supérieur, Python.
+</p>
+<h2>
+La syntaxe LOGO
+</h2>
+<p>
+La syntaxe du langage LOGO est formée de mots-clés appelés "primitives". Ce sont les consignes ou instructions de ce langage et leur nombre varie selon les différentes versions qui existent. Les primitives qui comportent un grand nombre de lettres acceptent parfois une abréviation (exemple: TOURNEGAUCHE abrév: TG).
+</p>

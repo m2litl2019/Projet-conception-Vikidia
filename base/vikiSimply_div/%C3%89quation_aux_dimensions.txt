@@ -1,0 +1,97 @@
+<p>
+Une équation aux dimensions est, en physique ou en mathématiques, une manière de savoir la grandeur physique (ou dimension) et donc l'unité de mesure du résultat d'un calcul.
+</p>
+<p>
+Lorsqu'il y a un problème de physique un peu compliqué, la technique de l'équation aux dimensions permet de répondre à la question « quelle grandeur physique suis-je en train d'évaluer ? ». On appelle aussi cela l'analyse dimensionnelle.
+</p>
+<h2>
+Principes
+</h2>
+<p>
+Les nombres en physique ont tous une unité : ce sont des masses, des vitesses, des temps...
+</p>
+<p>
+Dans une équation en physique, deux membres de l'équation (c'est-à-dire des nombres ou des lettres qui les représentent) ne peuvent être comparés directement que s'ils sont de la même grandeur physique : comme écrire une égalité entre A et B. On dit alors qu'ils sont homogènes et ils s'écrivent donc dans la même unité.
+</p>
+<p>
+Par contre on a besoin de multiplier ou diviser différentes grandeurs physiques, et plusieurs d'entre elles sont définies à partir de multiplication ou division des autres. grandeurs. Les grandeurs physiques ont donc des relations qui sont fixées par définition.
+</p>
+<h3>
+Grandeur physiques ou dimensions
+</h3>
+<p>
+Par convention, on note les unités entre crochets, avec par exemple, le temps [T], la masse [M]. Mais seules 7 grandeurs physiques ont une lettre qui les symbolise. Ce sont :
+</p>
+<p>
+La longueur notée [L] ;
+</p>
+<p>
+La masse notée [M] ;
+</p>
+<p>
+Le temps noté [T] ;
+</p>
+<p>
+Le courant électrique noté [I] ;
+</p>
+<p>
+La température notée [Θ] ;
+</p>
+<p>
+La quantité de matière notée [N] ;
+</p>
+<p>
+L'intensité lumineuse notée [J].
+</p>
+<p>
+Les autres grandeurs sont définies en combinant les premières : par exemple :
+La vitesse est un rapport d'une distance par un temps :
+</p>
+<p>
+[V]=[L].[T].
+</p>
+<p>
+la superficie est une longueur au carré :
+</p>
+<p>
+[L],
+</p>
+<p>
+le volume est une longueur au cube :
+</p>
+<p>
+[L],
+</p>
+<p>
+Une masse volumique est un rapport d'une masse par un volume :
+</p>
+<p>
+[ρ]=[M].[L].
+</p>
+<p>
+Une énergie est une masse multipliée par une aire divisée par une durée au carré :
+</p>
+<p>
+[E]=[M].[L].[T].
+</p>
+<h3>
+Calculs
+</h3>
+<p>
+À partir d'une équation entre différentes grandeurs qui sont multipliées ou divisés entre elles une ou plusieurs fois, une équation aux dimensions consiste à se servir des définition des grandeurs physiques pour ensuite simplifier (réduire) une équation et trouver l'unité du résultat.
+</p>
+<p>
+Quand on multiplie plusieurs fois la même grandeur, on utilise les puissances : par exemple [L] x [L] équivaut à [L],
+</p>
+<p>
+quand on divise une ou plusieurs fois par une grandeur, cela se note avec une puissance négative. Par exemple [L] ÷ [T] ou [L]/[T] s'écrit [L].[T].
+</p>
+<p>
+Puis on applique les règles des puissances pour simplifier une équation.
+</p>
+<p>
+Après la simplification, on cherche à quelle définition de dimension le résultat correspond. Si, par exemple, un résultat s'exprime dans les mêmes unités qu'une vitesse, c'est peut-être une vitesse...
+</p>
+<h3>
+Comme prédire une relation ?
+</h3>

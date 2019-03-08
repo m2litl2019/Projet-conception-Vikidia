@@ -1,0 +1,144 @@
+<p>
+Pretty Good Privacy (d'où le sigle PGP) est un système cryptographique semi-libre créé en 1991 par l'américain Phil Zimmermann. PGP tente de garantir une confidentialité et une sécurité pour la transmission d'informations confidentielles entre les employés des entreprises ou pour le commerce électronique.
+</p>
+<h2>
+Contexte historique et cryptographique
+</h2>
+<h3>
+Contexte historique : pourquoi PGP a été créé
+</h3>
+<p>
+Dans les années 1970 et 1980, on assiste à l'essor de l'informatique : la puissance des ordinateurs augmente de façon très importante. Cela a eu (et aura toujours) une conséquence directe sur la cryptologie : un cryptanalyste armé d'un ordinateur moderne est toujours plus dangereux, pour des individus désirant échanger des données confidentielles, qu'un cryptanalyste disposant seulement d'un crayon ! Les anciens systèmes, que l'on croyait sûrs, se sont effondrés devant la puissance informatique dont pouvait disposer un État ou une entreprise spécialisée.
+</p>
+<p>
+Dans ces conditions, comment échanger des informations confidentielles avec quelqu'un d'autre, puisque tous les systèmes cryptographiques fiables étaient hors de portée du grand public ?
+</p>
+<h3>
+Rappel de cryptographie
+</h3>
+<p>
+Système à clé publique et clé privée
+</p>
+<p>
+Un système de cryptographie asymétrique fait appel à une paire de clés. La personne qui souhaite pouvoir recevoir des informations chiffrées publie pour tout le monde sa « clé publique » qui permet de coder l'information. Sa « clé privée » lui permet ensuite de la décoder en toute sécurité. C'est un peu comme si on voulait recevoir des paquets par la poste, fermés par un cadenas : dans ce cas, on distribue des cadenas gratuitement aux gens, et quand ceux-ci veulent nous envoyer un paquet, ils le ferment avec ce cadenas. Mais on est la seule personne au monde à posséder une clé de ce cadenas pour l'ouvrir.
+</p>
+<p>
+Système à clé secrète
+</p>
+<p>
+Un système de cryptographie symétrique fait appel à une seule clé. Les personnes qui souhaitent échanger des informations chiffrées utilisent la même clé pour encoder et décoder l'information. Cette clé doit être gardée secrète afin que personne d'autre ne puisse déchiffrer l'information échangée.
+</p>
+<p>
+Avantages respectifs
+</p>
+<p>
+</p>
+<p>
+Tout système cryptographique à paire de clés publique/privée est infiniment plus sûr que n'importe quel système à clé secrète lorsque l'on ne dispose pas de moyens de transmission sécurisés pour la clé.
+</p>
+<p>
+Tout système cryptographique à clé secrète est beaucoup plus rapide que n'importe quel système à paire de clés publique/privée, et ce dans tous les cas (on parle ici du cryptage et du décryptage des informations).
+</p>
+<h3>
+Un système hybride
+</h3>
+<p>
+Ce n'est qu'en 1991 qu'un compromis entre cryptographie à clef secrète (rapide) et à clef publique (sûre) a été trouvé : l'américain Philip Zimmermann a lancé sur Internet en téléchargement libre son logiciel Pretty Good Privacy (ce qui pourrait se traduire par « assez bonne confidentialité »), d'où le sigle PGP. PGP est donc un système dit « de cryptographie hybride ».
+</p>
+<h2>
+Les bases de PGP
+</h2>
+<h3>
+Un aperçu de PGP
+</h3>
+<p>
+Voici un exemple de message codé par PGP :
+</p>
+<pre>-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1.4.6 (GNU/Linux)
+hQIOAxCS5Sq4BNLoEAgAkfXjloMUfqAwjSCtXydrmBKFY2poqlwyZPoKxk5hFjnk
+cO6QpyGSCUIX9F0ncWphpnIAROeDty4ctmB0NfxPcvi5dzjbz8CE49GweWSCcgS8
+ppdERM4tvgU5wNrr0f/5pyuYqCOHGQbAlFh5F0vigcFk//5rG1oOFJCbsNzQ7aBb
+qpaJK5f8YpwzfrufYuZMfQ3l+sVULI298nRlLM4MUUqpaSuPCVXT7KzdEaCBlZj7
+tMjMBvzcLoCGpjdeKRryXjIFlFl7nYiqwscfzf0D9KwCvCrpFd5pMe9lJEPLw6gM
+vuirX63jYk1CTDYjGhTWN1j7nD/J560rwsPLwP3kQAgAtKx9wxjpT0YVytPZhzfd
+YDYd/v8OxCBoLEhI2lwe5I7VkwdS4JBzBife6m13v8x8tBeVXhj1LxOv6u1t2kJa
+kJeEbkaiNw9fihAKHSDFKLjX4jYEz0seZaJ/rhVEU1TzVwfYIi7Wwi6zSjfUlIod
+2Q3CvE+jPacfigQCTd0B6yPfBFJ5S8gWRI0vTz5soi7EKS5bAL1TWvuEPMypmSiG
+wl8/wZN2CbiGik2Fglkh7BeCM2LNU8xtkIhCBG2Vz2GLQT39i5B4quX2icLx2HI/
+HSJh5fkwzdQT1EVPG+VwDXBajjf8c75TZAY+BQTKTh296hUcBmltWBePqgRUA8wj
+8dLAogEGyA6VF+uUSHcEKt+LdpdkXp+sp/suxXptPF9uWmJQMoseF3O+OllpNrpa
+x2RIyVHGLpFP3XuOauKDhYb7sDmHCefw3Pkbqnk83Nt18QNA2Djg2otXlTmYZwxZ
+4/BUf2j4XiQtDZGHUslL4b76sQ7lvX5IPVXNZGWN+pfLWRmwNVVJ/0IRhIXgJ25x
+tZBzJUgVLRsW7PKWyDgj5wU+F57QAX2SIhRPk1fIW31BU1Z6lRu4uuwwUzZlpcx2
+WVQymadNhAmvwPXQb3JIANWFsKQX2jrPwAVy0D1qouAK2M2r2/1VXi2xwh24bede
+btfJz29C3RIjSJf7Rx+Q0Ohpuc6pAab0bRaSMEUj4Q9JAvPufRU24O81oyPVBERC
+BZCOCBlGZ3Bnh6XdIdWbLb1288IDW6USCvLXoM9DdkEg6X1QlmnHGZXT+yJ/DKOF
+2KmyKBF68cnoEN/KkRlAYbiGDHM3Ag==
+=c9w6
+-----END PGP MESSAGE-----
+</pre>
+<p>
+Cela semble plus élaboré que le chiffre de César, un vieux code secret ! Cependant, le chiffre de César a été, autant (voire plus) que PGP, une révolution dans le domaine de la cryptographie. Bien sûr, le niveau de sécurité entre ces deux systèmes est incomparable : PGP est considéré aujourd'hui comme incassable, même avec l'aide des plus puissants ordinateurs, en un temps « cryptanalytiquement » court, c'est-à-dire, au grand maximum, quelques années.
+</p>
+<p>
+À vrai dire, il faudrait environ plusieurs millions d'années à un État, en faisant fonctionner des milliers d'ordinateurs 24 heures sur 24, pour découvrir le message que vous avez vu plus haut. Des millions d'années, pour ce simple texte :
+</p>
+<p>
+Seraient-ils neuf cent quatre-vingt-quinze millions et moi tout seul, ce sont eux qui ont tort, Lola, et moi qui ai raison, parce que je suis le seul à savoir ce que je veux :
+je ne veux plus mourir.
+</p>
+<pre>Louis-Ferdinand Céline, « Voyage au Bout de la Nuit ».
+</pre>
+<h3>
+Fonctionnement global de PGP
+</h3>
+<p>
+Entrée du message. Par exemple, « VIVE VIKIDIA ».
+</p>
+<p>
+Le logiciel génère une clef aléatoire (ou pseudo-aléatoire). Cette clef devient la clef secrète, que l'on notera s et qui vaut par exemple 123456789.
+</p>
+<p>
+Il crypte « VIVE VIKIDIA » avec la clef secrète s ; le codage se fait par un système à clef privée, comme AES ou RC6 (le système utilisé dans les exemples plus haut est AES, avec une clef de longueur 128 bits). Le résultat de ce codage est « nIMpORTeqUoI ».
+</p>
+<p>
+Il utilise une fonction de hachage, dont le but est de compliquer encore la tâche aux casseurs de codes, mais surtout d'« alléger » le message.
+</p>
+<p>
+La clef secrète s est codée par un système à clef publique (avec la clef publique du destinataire du message), généralement RSA. Elle est incorporée au message crypté.
+</p>
+<p>
+Pour décrypter, on applique les opérations inverses :
+</p>
+<p>
+Le logiciel décrypte la clef secrète avec la clef privée du destinataire du message. On retrouve donc la valeur s = 123456789.
+</p>
+<p>
+Le message est décompressé.
+</p>
+<p>
+On décrypte « nIMpORTeqUoI » par la clef s ; comme il s'agit de cryptographie symétrique (c'est-à-dire à clef secrète), l'opération est très rapide. On récupère donc notre message initial « VIVE VIKIDIA ».
+</p>
+<h3>
+Limites d'utilisation de PGP
+</h3>
+<p>
+PGP ne devrait pas être utilisé pour chiffrer des données pouvant mettre en jeu la vie d'individus. Si les données sont tellement importantes que leur découverte pourrait mettre en jeu des vies alors mieux vaut utiliser un autre algorithme de cryptographie plus avancé.
+En effet, les versions 128 ou 256 bits ne sont pas utilisées par le gouvernement américain pour ses communications classées TOP SECRET. Le gouvernement américain utilise des algorithmes non divulgués comme par exemple BATON http://en.wikipedia.org/wiki/BATON. Aucun gouvernement de par le monde n'utilise ni PGP, ni AES mais utilise leurs propres algorithmes. Le gouvernement français utilise également ses propres algorithmes, comme par exemple celui du Teorem : http://www.lepoint.fr/actualites-technologie-internet/2010-01-06/nicolas-sarkozy-a-teste-le-teorem-son-futur-telephone-crypte/1387/0/411021.
+</p>
+<p>
+Diverses affaires d'espionnages ont mis à jour le fait que des agences gouvernementales comme la NSA américaine ou le FBI introduisaient des backdoors dans les logiciels ou les matériels : affaire Crypto AG: http://fr.wikipedia.org/wiki/Crypto_AG, affaire Open BSD : http://www.generation-nt.com/openbsd-fbi-backdoor-actualite-1130421.html, affaire des algorithmes de générations de clés : http://www.schneier.com/essay-198.html. Les backdoors sont des modifications secrètes des logiciels, matériels ou algorithmes permettant de décrypter les données des utilisateurs sans connaître la clé de cryptage utilisée.
+</p>
+<h2>
+Sources et notes
+</h2>
+<h3>
+Sources
+</h3>
+<p>
+Wikipédia
+</p>
+<h3>
+Notes
+</h3>
