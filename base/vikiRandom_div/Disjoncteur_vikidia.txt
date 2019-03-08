@@ -1,0 +1,200 @@
+<p>
+Un disjoncteur est un appareil électronique (ou électromécanique, qui est à la fois électronique et mécanique) qui coupe le courant électrique en cas de problème sur le circuit (sur-tension, court-circuit). Il peut soit protéger un seul circuit, soit en protéger plusieurs. Son grand avantage par rapport à un fusible est qu'il est réarmable, c'est-à-dire qu'on peut le remettre en fonctionnement après une coupure en utilisant une simple manette. Le fusible, lui, doit être remplacé à chaque coupure.
+</p>
+<h2>
+Les sortes de disjoncteurs
+</h2>
+<h3>
+Disjoncteur thermique
+</h3>
+<p>
+Cette sorte de disjoncteur s'enclenche (coupe l'électricité) quand un courant trop puissant traverse un bilame (deux petites lames soudées ensemble), et par conséquent (effet Joule) le fait chauffer et le déforme. Une fois déformé, le bilame enclenche un système qui va ouvrir le circuit et couper le courant. Ce système assez simple s’appelle un système électromécanique. Malheureusement, ce système est lent et pas très précis. Mais cela a quand même un avantage : il permet d'éviter les incendies qui ont pour cause une surchauffe du circuit, à cause d'un courant trop puissant et prolongé.
+</p>
+<p>
+Autrefois, ce disjoncteur était remplacé par des fusibles.
+</p>
+<h3>
+Disjoncteur magnétique
+</h3>
+<p>
+Le courant électrique sur-puissant passe dans une bobine de fil de cuivre. Cela produit un champ magnétique (le même effet qu'un aimant). Le champ magnétique attire une sorte de boule de fer, qui va mécaniquement (sans système électrique) ouvrir le circuit, et couper le courant. Ce système peut remplacer le fusible pour les courts-circuits.
+</p>
+<p>
+Le courant est coupé immédiatement dans le cas d'un système rapide, ou "contrôlé" par une bobine qui permet des coupures retardées.
+</p>
+<p>
+Ce genre de disjoncteur a pour but de protéger les appareils contre les pannes : surtension, court-circuit... Un ingénieur dont la priorité est de protéger son équipement préférera ce disjoncteur.
+</p>
+<h3>
+Disjoncteur magnéto-thermique
+</h3>
+<h4>
+Principe de fonctionnement
+</h4>
+<p>
+On combine le disjoncteur thermique et le magnétique afin d'avoir une protection pour plusieurs problèmes :
+</p>
+<p>
+en cas de surtension, on utilise l'effet thermique. La résolution du problème est lent (la coupure peut mettre de quelques dixièmes de seconde à quelques minutes, en fonction de l'importance de la surcharge);
+</p>
+<p>
+en cas d'un court-circuit (provoquant l'augmentation de l'intensité du courant électrique pouvant monter à plusieurs milliers d'ampères), on utilise l'effet magnétique. Le système est alors très rapide (quelques millièmes de seconde).
+</p>
+<h4>
+Composants
+</h4>
+<p>
+Manette servant à couper ou à réarmer le disjoncteur. Elle indique aussi l'état du disjoncteur (exemple : si la manette est dirigée vers le bas, le courant est coupé) ;
+</p>
+<p>
+Système, qui, en fonction de la position de la manette, active ou désactive le passage du courant ;
+</p>
+<p>
+Permet le passage du courant (quand celui-ci n'est pas bloqué par le disjoncteur) ;
+</p>
+<p>
+Système qui fait entrer et sortir le courant du disjoncteur ;
+</p>
+<p>
+Bilame (deux lames soudées se déformant à différentes températures) : protection contre les surcharges ;
+</p>
+<p>
+Permet au fabricant d'indiquer des informations sur le disjoncteur ;
+</p>
+<p>
+Bobine : protection contre les courts-circuits ;
+</p>
+<p>
+Système de coupure de l'arc électrique.
+</p>
+<h4>
+Utilisation
+</h4>
+<p>
+On les utilise pour remplacer les fusibles gG, et offrir l'avantage des disjoncteurs, celui d'être réarmable, tout en cumulant dans le même boîtier deux sortes de protection.
+</p>
+<h3>
+Disjoncteur différentiel
+</h3>
+<p>
+Les disjoncteurs différentiels protègent des courants de fuite (ou courant de défaut). Ce défaut est aussi appelé un courant résiduel.
+</p>
+<h4>
+Description
+</h4>
+<p>
+Le principe de fonctionnement d'un disjoncteur différentiel (aussi appelé DDR) est de comparer les intensités des courants électriques sur le fil amenant le courant et celui qui le renvoie. Par exemple, un disjoncteur dit monophasé (qui ne contrôle qu'un système), il compare l'intensité du courant circulant dans le fil positif (amenant le courant), et celle du fil négatif (renvoyant le courant). C'est un disjoncteur permettant la protection des personnes utilisant électricité en limitant les risques d'électrocution en repérant les fuites de courant du système électrique.
+</p>
+<p>
+Le dispositif différentiel utilise le principe suivant : normalement, le courant électrique qui arrive doit obligatoirement ressortir. Si l'intensité du courant arrivant et celle du courant ressortant est différente, c'est qu'il y a une fuite. La différence maximale d'intensité du courant à laquelle le disjoncteur ne réagit pas est appelée la « sensibilité différentielle du disjoncteur » (minimum 30 mA sur les circuits électriques d'une maison selon la norme française).
+</p>
+<h4>
+Fonctionnement
+</h4>
+Si la force du courant électrique l2 et celle du courant électrique l2 sont différents à cause d'un courant de fuite fr, un courant électrique apparaît dans l'enroulement K1 , qui va alimenter le relais K2 (qui habituellement tient les contacts électriques fermés pour permettre le passage de l'électricité), provoquant la coupure de l'électricité.
+<p>
+Le relais K2 et les contacts resteront dans l'état de l'image 3 jusqu'au prochain réarmement, ce qui ne sera possible que si le courant de fuite fr a disparu, c'est-à-dire si le problème d'isolement le provoquant a été repéré et réparé.
+</p>
+<h4>
+Classes
+</h4>
+<p>
+Il existe plusieurs classes (ou types) de disjoncteur différentiel:
+</p>
+<p>
+La classe AC permet de se protéger les humains du contact avec les courants de fuite alternatif. On l'utilise pour protéger la plupart des circuits électriques, sauf ceux qui sont plus localisés tels que, la plaque de cuisson et le lave-linge.
+</p>
+<p>
+La classe A est faîte pour les circuits locaux, (cuisinières, plaques de cuisson, lave-linge...) qui peuvent produire des courants de fuite continue. La sécurité des personnes reste assurée, le risque de déclenchement inutile est limité. Les dispositifs différentiels de classe AC ne se déclenchent parfois pas sur ce type de courant de fuite. Ce type de dispositif est obligatoire sur les circuits ou les matériels qui sont susceptibles de produire le phénomène décrit ci-dessus.
+</p>
+<p>
+La classe HI (aussi appelés Hpi ou Si suivant les fabricants) bénéficie d’une protection complémentaire contre les déclenchements inutiles. Ils sont recommandés pour les circuits ayant besoins en continue d'électricité, tels que des congélateurs, les ordinateurs, les appareils hospitaliers (encéphalogramme...), <abbr>etc.</abbr>
+</p>
+<h4>
+Différences entre disjoncteur différentiel et interrupteur différentiel
+</h4>
+<p>
+Dans le langage courant, et notamment lorsque l'on parle d'un tableau électrique (tableau avec tous les fusibles et disjoncteur de chaque système), les disjoncteurs différentiels sont aussi appelés seulement « différentiels », et on parle de « disjoncteur » seulement aux disjoncteurs thermique ou magnétique. Il peut donc avoir une confusion entre le disjoncteur différentiel et l'interrupteur différentiel. L'interrupteur différentiel réalise la fonction décrite ci-dessus, mais n'a pas de protection contre les sur-tensions, ce qui le rend moins utile.
+</p>
+<p>
+Dans un tableau électrique, il est possible, de réaliser la protection différentielle d'un circuit par un interrupteur différentiel, plutôt que par un disjoncteur à condition que la protection contre les surintensités soit assurée par des fusibles ou des disjoncteurs placés sur chaque circuit.
+</p>
+<h3>
+Disjoncteur électronique
+</h3>
+<p>
+Il faut savoir distinguer les disjoncteurs qui disjonctent grâce à un système électronique et les disjoncteurs électroniques, qui eux, sont entièrement électroniques.
+</p>
+<p>
+Ce disjoncteur est capable de protéger comme les disjoncteurs magnétique ou thermique (par la chaleur), c'est-à-dire couper le courant en cas de sur-tension ou de court-circuit.
+</p>
+<p>
+Il est composé d'un système qui mesure l'intensité du courant (appelé shunt), d'un appareil qui analyse la mesure (il compare l’intensité du courant qui a été mesuré à une limite définie pendant la fabrication), et d'un dispositif de déclenchement.
+</p>
+<p>
+L'intérêt d'un disjoncteur électronique est d'avoir une grande possibilité de réglages (le seuil de déclenchement, le délai avant le déclenchement...), et d'inclure éventuellement des systèmes sophistiqués de protection contre les courants de fuites, avoir la possibilité que le disjoncteur transmette son état (si le courant passe ou non), analyser l’intensité du courant, <abbr>etc.</abbr> Ce disjoncteur est un véritable "robot" de surveillance du réseau électrique.
+</p>
+<p>
+Son inconvénient est qu'il a besoins d'être alimenté en électricité:
+</p>
+<p>
+sur le réseau d'un appareil ayant son propre circuit: le disjoncteur a besoins d'un peu de temps après avoir été mis en marche pour qu'il ait accumulé suffisamment d'électricité et être capable de disjoncter. Ces disjoncteurs ne peuvent pas réagir aussi rapidement qu'un disjoncteur magnétique.
+</p>
+<p>
+sur le réseau d'une maison: un système doit empêcher la remise en route du courant tant que l'alimentation du disjoncteur n'est pas assuré. En effet, si le disjoncteur n'est pas alimenté en électricité, il ne peut pas réagir aux sur-tensions et aux courts-circuits
+</p>
+<p>
+Il est aussi cher, ce qui fait qu'on l'utilise pour les appareils puissants ou très chers.
+</p>
+<h3>
+Disjoncteur hydraulique
+</h3>
+<p>
+Le système de déclenchement du disjoncteur utilisé dans un disjoncteur magnéto-hydraulique ou hydro-magnétique est double. D'abord, il y a la partie magnétique déjà expliquée ci-dessus, et il y a aussi, une partie hydraulique. Cette partie remplace la partie « thermique ». Elle donc permettre de détecter les sur-tensions légères mais de longue durée.
+</p>
+<p>
+Voici ses avantages:
+</p>
+<p>
+Après un déclenchement, le redéclenchement est immédiatement possible.
+</p>
+<p>
+Pas de problème de déclenchement à cause de la température extérieure.
+</p>
+<p>
+Son inconvénient reste son prix comparé aux disjoncteurs thermiques.
+</p>
+<h2>
+Constantes de temps
+</h2>
+<p>
+Certains disjoncteurs sont équipés de systèmes mécaniques, électriques ou électroniques, que l'on peut régler en durée, en intensité maximale avant le déclenchement ou en sensibilité, permettant d'arrêter le fonctionnement de l'un des 3 modes de protection présentés ci-dessus (thermique, magnétique, différentielle) durant un certain temps. Cet arrêt de protection temporaire permet d'autoriser certaines actions qui ne sont pas très sûres pour la protection des personnes (et aussi des circuits et des équipements), et qui pourraient faire disjoncter le disjoncteur (mise sous tension de transformateurs ou d'alimentation à découpage par exemple). Ils peuvent également être réglés pour laisser la possibilité d’installer une autre protection plus loin sur le circuit afin de varier les protections.
+</p>
+<h2>
+Pouvoir de coupure
+</h2>
+<p>
+Le pouvoir de coupure d'un disjoncteur est sa capacité de couper un court-circuit sans s'abîmer, et s'en mettre en danger son entourage. Le pouvoir de coupure se caractérise par l'intensité maximale d'un courant électrique qui pourrait passer sans être interrompue par le disjoncteur. Les différentes normes existantes (CEI 60947-2, NF-EN 60947-2, CEI 60898 et NF EN 60898) indiquent cette intensité maximale.
+</p>
+<p>
+La coupure d'un circuit trop puissant peut provoquer la formation d'un arc électrique entre les contacts.
+</p>
+<p>
+Un fort courant électrique soumet tous les conducteurs à des forces violentes, qui selon la conception de l'appareil peuvent l'aider ou non à couper rapidement, et cela aidera aussi l'arc électrique à s'allonger et à toucher une zone du disjoncteur, appeler chambre d'extinction (composant n°8 sur la photo de l'intérieur d'un disjoncteur), où il sera bien absorbé.
+</p>
+<p>
+Plus le courant est fort, plus l'arc électrique est puissant, et plus l'électricité en sur-tension peut être destructrice. Si la coupure du courant (ce qui revient donc à arrêter l'arc) n'est pas exécutée dans un temps suffisamment court, le boîtier du disjoncteur risque de ne plus supporter la pression des gaz échauffés, et les contacts électriques risquent d'entrer en fusion, ce qui peut empêcher la possibilité de réarmer l'appareil. Le disjoncteur ne pourra donc plus assurer sa fonction.
+</p>
+<p>
+Un disjoncteur doit donc être capable de supporter la force qu'un courant en court-circuit qui pourrait survenir dans le circuit protégé. La force de ce courant dépend de plusieurs facteurs :
+</p>
+<p>
+la capacité du circuit d'arrivée de l'électricité à fournir un courant d’une certaine force pendant une certaine durée ;
+</p>
+<p>
+la possibilité pour le circuit, à laisser passer un courant plus ou moins important ;
+</p>
+<p>
+Dans le cas contraire, le disjoncteur devra être protégé par un fusible, soit par un autre disjoncteur ayant un pouvoir de coupure suffisant.
+</p>
+cette page a été partiellement adaptée de la page Disjoncteur de Wikipédia.
