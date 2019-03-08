@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="fr" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Équation aux dimensions - Vikidia, l’encyclopédie des 8-13 ans</title>
+<script type="baebc1742a207ed13a0948fb-text/javascript">document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script type="baebc1742a207ed13a0948fb-text/javascript">(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Équation_aux_dimensions","wgTitle":"Équation aux dimensions","wgCurRevisionId":1105199,"wgRevisionId":1105199,"wgArticleId":11722,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Article à simplifier","Portail:sciences/Pages liées","Article long à illustrer","Grandeur physique"],"wgBreakFrames":false,"wgPageContentLanguage":"fr","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"],"wgMonthNamesShort":["","jan","fév","mar","avr","mai","juin","juil","août","sep","oct","nov","déc"],"wgRelevantPageName":"Équation_aux_dimensions","wgRelevantArticleId":11722,"wgRequestId":"b48ec8a734ba1ac880dfc658","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVisualEditor":{"pageLanguageCode":"fr","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":false},"wgWikiEditorEnabledModules":{"toolbar":true,"preview":true,"publish":false},"wgPreferredVariant":"fr","wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.visualEditor.desktopArticleTarget.noscript":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1x2qlv5",function($,jQuery,require,module){mw.user.options.set({"variant":"fr"});});mw.loader.implement("user.tokens@091j2g3",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.gadget.InviteDiscussion","ext.gadget.Edittools","mmv.head","mmv.bootstrap.autostart","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="//download.vikidia.org/fr.vikidia.org/load.php?debug=false&amp;lang=fr&amp;modules=ext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="//download.vikidia.org/fr.vikidia.org/load.php?debug=false&amp;lang=fr&amp;modules=startup&amp;only=scripts&amp;skin=vector" type="baebc1742a207ed13a0948fb-text/javascript"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="//download.vikidia.org/fr.vikidia.org/load.php?debug=false&amp;lang=fr&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.2"/>
+<link rel="alternate" type="application/x-wiki" title="Modifier" href="/w/index.php?title=%C3%89quation_aux_dimensions&amp;action=edit"/>
+<link rel="edit" title="Modifier" href="/w/index.php?title=%C3%89quation_aux_dimensions&amp;action=edit"/>
+<link rel="shortcut icon" href="//download.vikidia.org/vikidia/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Vikidia (fr)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://fr.vikidia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Flux Atom de Vikidia" href="/w/index.php?title=Sp%C3%A9cial:Modifications_r%C3%A9centes&amp;feed=atom"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Équation_aux_dimensions rootpage-Équation_aux_dimensions skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="fr">Équation aux dimensions</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">« Équation aux dimensions » expliqué aux enfants par Vikidia, l’encyclopédie junior</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Aller à :					<a href="#mw-head">navigation</a>, 					<a href="#p-search">rechercher</a>
+				</div>
+				<div id="mw-content-text" lang="fr" dir="ltr" class="mw-content-ltr"><p>Une <b>équation aux dimensions</b> est, en <a href="/wiki/Physique" title="Physique">physique</a> ou en <a href="/wiki/Math%C3%A9matiques" title="Mathématiques">mathématiques</a>, une manière de savoir la <a href="/wiki/Grandeur_physique" title="Grandeur physique">grandeur physique</a> (ou dimension) et donc l'<a href="/wiki/Unit%C3%A9_de_mesure" title="Unité de mesure">unité de mesure</a> du résultat d'un calcul.
+</p><p>Lorsqu'il y a un problème de physique un peu compliqué, la technique de l'équation aux dimensions permet de répondre à la question « <i>quelle grandeur physique suis-je en train d'évaluer ?</i> ». On appelle aussi cela l'<b>analyse dimensionnelle</b><i>.</i>
+</p>
+<div id="toc" class="toc"><div id="toctitle" class="toctitle"><h2>Sommaire</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Principes"><span class="tocnumber">1</span> <span class="toctext">Principes</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Grandeur_physiques_ou_dimensions"><span class="tocnumber">1.1</span> <span class="toctext">Grandeur physiques ou dimensions</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Calculs"><span class="tocnumber">1.2</span> <span class="toctext">Calculs</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Comme_pr.C3.A9dire_une_relation_.3F"><span class="tocnumber">1.3</span> <span class="toctext">Comme prédire une relation ?</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Principes">Principes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%C3%89quation_aux_dimensions&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Modifier la section : Principes">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%C3%89quation_aux_dimensions&amp;action=edit&amp;section=1" title="Modifier la section : Principes">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Les nombres en physique ont tous une unité : ce sont des <a href="/wiki/Masse" title="Masse">masses</a>, des <a href="/wiki/Vitesse" title="Vitesse">vitesses</a>, des <a href="/wiki/Temps" title="Temps">temps</a>...
+</p><p>Dans une <a href="/wiki/%C3%89quation" title="Équation">équation</a> en physique, deux membres de l'équation (c'est-à-dire des nombres ou des lettres qui les représentent) ne peuvent être comparés directement que s'ils sont de la même grandeur physique : comme écrire une égalité entre A et B. On dit alors qu'ils sont <i>homogènes</i> et ils s'écrivent donc dans la même unité.
+</p><p>Par contre on a besoin de multiplier ou diviser différentes grandeurs physiques, et plusieurs d'entre elles sont définies à partir de multiplication ou division des autres. grandeurs. Les grandeurs physiques ont donc des relations qui sont fixées par définition.
+</p>
+<h3><span class="mw-headline" id="Grandeur_physiques_ou_dimensions">Grandeur physiques ou dimensions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%C3%89quation_aux_dimensions&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Modifier la section : Grandeur physiques ou dimensions">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%C3%89quation_aux_dimensions&amp;action=edit&amp;section=2" title="Modifier la section : Grandeur physiques ou dimensions">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Par convention, on note les unités entre crochets, avec par exemple, le <a href="/wiki/Temps" title="Temps">temps</a> [T], la masse [M]. Mais seules 7 grandeurs physiques ont une lettre qui les symbolise. Ce sont :
+</p>
+<ul><li> La <a href="/wiki/Longueur" title="Longueur">longueur</a> notée [L] ; </li>
+<li> La <a href="/wiki/Masse" title="Masse">masse</a> notée [M] ; </li>
+<li> Le <a href="/wiki/Temps" title="Temps">temps</a> noté [T] ; </li>
+<li> Le <a href="/wiki/Courant_%C3%A9lectrique" title="Courant électrique">courant électrique</a> noté [I] ; </li>
+<li> La <a href="/wiki/Temp%C3%A9rature" title="Température">température</a> notée [Θ] ; </li>
+<li> La <a href="/wiki/Quantit%C3%A9_de_mati%C3%A8re" title="Quantité de matière">quantité de matière</a> notée [N] ; </li>
+<li> L'<a href="/w/index.php?title=Intensit%C3%A9_lumineuse&amp;action=edit&amp;redlink=1" class="new" title="Intensité lumineuse (page inexistante)">intensité lumineuse</a> notée [J].</li></ul>
+<p>Les autres grandeurs sont définies en combinant les premières : par exemple :
+La <a href="/wiki/Vitesse" title="Vitesse">vitesse</a> est un rapport d'une distance par un temps :
+</p>
+<dl><dd>[V]=[L].[T]<sup>-1</sup>.</dd></dl>
+<p>la <a href="/wiki/Superficie" title="Superficie">superficie</a> est une longueur au carré :
+</p>
+<dl><dd>[L]<sup>2</sup>,</dd></dl>
+<p>le <a href="/wiki/Volume" title="Volume">volume</a> est une longueur au cube :
+</p>
+<dl><dd>[L]<sup>3</sup>,</dd></dl>
+<p>Une <a href="/wiki/Masse_volumique" title="Masse volumique">masse volumique</a> est un rapport d'une masse par un volume :
+</p>
+<dl><dd>[ρ]=[M].[L]<sup>-3</sup>.</dd></dl>
+<p>Une <a href="/wiki/%C3%89nergie" title="Énergie">énergie</a> est une masse multipliée par une aire divisée par une durée au carré :
+</p>
+<dl><dd>[E]=[M].[L]<sup>2</sup>.[T]<sup>-2</sup>.</dd></dl>
+<h3><span class="mw-headline" id="Calculs">Calculs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%C3%89quation_aux_dimensions&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Modifier la section : Calculs">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%C3%89quation_aux_dimensions&amp;action=edit&amp;section=3" title="Modifier la section : Calculs">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>À partir d'une équation entre différentes grandeurs qui sont multipliées ou divisés entre elles une ou plusieurs fois, une équation aux dimensions consiste à se servir des définition des grandeurs physiques pour ensuite simplifier (réduire) une équation et trouver l'unité du résultat.
+</p>
+<ul><li> Quand on multiplie plusieurs fois la même grandeur, on utilise les <a href="/wiki/Puissance_(math%C3%A9matiques)" title="Puissance (mathématiques)">puissances</a> : par exemple [L] x [L] équivaut à [L]<sup>2</sup>,</li>
+<li> quand on divise une ou plusieurs fois par une grandeur, cela se note avec une puissance négative. Par exemple [L] ÷ [T] ou [L]/[T] s'écrit [L].[T]<sup>-1</sup>.</li></ul>
+<p>Puis on applique les règles des puissances pour simplifier une équation.
+</p><p>Après la simplification, on cherche à quelle définition de dimension le résultat correspond. Si, par exemple, un résultat s'exprime dans les mêmes unités qu'une vitesse, c'est peut-être une vitesse...
+</p>
+<h3><span class="mw-headline" id="Comme_pr.C3.A9dire_une_relation_.3F">Comme prédire une relation ?</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%C3%89quation_aux_dimensions&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Modifier la section : Comme prédire une relation ?">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%C3%89quation_aux_dimensions&amp;action=edit&amp;section=4" title="Modifier la section : Comme prédire une relation ?">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div style="margin-bottom: 5px; text-indent: 30px;"> <i><img alt="À compléter" src="//download.vikidia.org/vikidia/fr/images/thumb/8/84/Travaux.png/30px-Travaux.png" title="À compléter" width="30" height="26" srcset="//download.vikidia.org/vikidia/fr/images/thumb/8/84/Travaux.png/45px-Travaux.png 1.5x, //download.vikidia.org/vikidia/fr/images/thumb/8/84/Travaux.png/60px-Travaux.png 2x" data-file-width="685" data-file-height="600" /> Cette section est vide, pas assez détaillée ou incomplète. N'hésite pas à <span class="plainlinks"><a rel="nofollow" class="external text" href="https://fr.vikidia.org/w/index.php?title=%C3%89quation_aux_dimensions&amp;action=edit"><b>l'améliorer</b> </a></span><b> !</b></i><b></div></b>
+<table class="bandeau plainlinks" style="width: 70%; margin: auto; margin-bottom: 10px; text-align: center; background-color: #FFFCCC; border: 1px solid #CC9900; border-right-width: 2px; border-bottom-width: 2px;">
+<tr>
+<td style="width: 10%;">
+<div><img alt="Simplifier" src="//download.vikidia.org/vikidia/fr/images/c/c1/Confusion.gif" title="Simplifier" width="35" height="35" data-file-width="35" data-file-height="35" /></div>
+</td>
+<td>
+<div style=""><b>Cet article semble trop confus et / ou trop compliqué.</b> </div>
+<div style="">N’hésitez pas à le <b><a rel="nofollow" class="external text" href="https://fr.vikidia.org/w/index.php?title=%C3%89quation_aux_dimensions&amp;action=edit">simplifier</a></b> ou à <b><a rel="nofollow" class="external text" href="https://fr.vikidia.org/w/index.php?title=Discussion:%C3%89quation_aux_dimensions&amp;action=edit&amp;section=new">donner votre avis</a></b>.<br /><span style="font-size: 90%;"><a href="/wiki/Aide:R%C3%A9sum%C3%A9_de_la_syntaxe_wiki" title="Aide:Résumé de la syntaxe wiki">Aide sur la syntaxe wiki</a> – <a href="/wiki/Aide:Comment_%C3%A9crire_un_article_%3F" class="mw-redirect" title="Aide:Comment écrire un article ?">Conseils de rédaction</a></span></div>
+</td>
+
+</tr>
+</table>
+<ul><li> <b>Mouvement d'une balle :</b></li></ul>
+<p>Un homme lance une <a href="/wiki/Balle" title="Balle">balle</a>. On dispose de :
+</p>
+<ul><li> Sa masse <i>m</i> ;</li>
+<li> La hauteur <i>h</i> à laquelle la balle est lancée ;</li>
+<li> Sa vitesse initiale <i>v</i>.</li></ul>
+<p>On souhaite connaître le temps <i>t</i> au bout duquel la balle atterrit. On écrit :
+</p>
+<dl><dd>1=[<i>t</i>]<sup>a</sup>.[<i>m</i>]<sup>b</sup>.[<i>h</i>]<sup>c</sup>.[<i>v</i>]<sup>d</sup>=[M]<sup>b</sup>. [L]<sup>c+d</sup>.[T]<sup>a-d</sup>.</dd></dl>
+<p>Ce qui donne : 
+</p>
+<dl><dd>b=0 ;</dd>
+<dd>et a=d=-c.</dd></dl>
+<p>Donc :
+</p>
+<dl><dd>[<i>t</i>]=[<i>h</i>].[<i>v</i>]<sup>-1</sup>.</dd></dl>
+<p>Par conséquent, le temps de chute est proportionnel à la hauteur que divise la vitesse. En particulier, <b>le temps de chute de la balle ne dépend pas de sa masse</b>.
+</p>
+<table class="multi-banner" style="width: 100%; clear: both; margin: 0; background-color: transparent; padding: 0;">
+
+<tr style="vertical-align: middle;">
+<td> <center>
+<table style="clear: both; margin-top: 12px; border-left: 4px solid yellow; width: 90%; background: #Bbffcc; border-radius: 2px;">
+<tr>
+<td style="padding: 3px; text-align: left;"><img alt="" src="//download.vikidia.org/vikidia/fr/images/thumb/d/d3/Icone_Chimie.png/35px-Icone_Chimie.png" width="35" height="35" srcset="//download.vikidia.org/vikidia/fr/images/thumb/d/d3/Icone_Chimie.png/53px-Icone_Chimie.png 1.5x, //download.vikidia.org/vikidia/fr/images/thumb/d/d3/Icone_Chimie.png/70px-Icone_Chimie.png 2x" data-file-width="120" data-file-height="120" />
+</td>
+<td width="90%" style="font-size: 15px;"> <b><a href="/wiki/Portail:Sciences" title="Portail:Sciences">Portail des sciences</a></b>&#32;&#8212; Tous les articles sur la physique, la chimie et les grands scientifiques.
+</td></tr></table>
+</center>
+</td>
+<td>
+</td></tr></table>
+<table class="multi-banner" style="width: 100%; clear: both; margin: 0; background-color: transparent; padding: 0;">
+
+<tr style="vertical-align: middle;">
+<td>
+</td>
+<td>
+</td></tr></table>
+<table class="multi-banner" style="width: 100%; clear: both; margin: 0; background-color: transparent; padding: 0;">
+
+<tr style="vertical-align: middle;">
+<td>
+</td>
+<td>
+</td></tr></table>
+
+<!-- 
+NewPP limit report
+Cached time: 20190308150951
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.032 seconds
+Real time usage: 0.031 seconds
+Preprocessor visited node count: 220/1000000
+Preprocessor generated node count: 1154/1000000
+Post‐expand include size: 5759/2097152 bytes
+Template argument size: 1784/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 0/100
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    9.515      1 -total
+ 26.08%    2.482      1 Modèle:Portail
+ 21.86%    2.080      1 Modèle:À_simplifier
+ 21.15%    2.012      1 Modèle:...
+ 20.17%    1.919     16 Modèle:Exp
+ 17.60%    1.675      1 Modèle:Portail_Sciences
+ 16.30%    1.551      1 Modèle:Méta_mini_bandeau
+ 15.60%    1.484      1 Modèle:Méta_bandeau
+  9.57%    0.911      1 Modèle:Méta_lien_portail
+  3.05%    0.290      1 Modèle:---
+-->
+
+<!-- Saved in parser cache with key vikidia_fr-wk_:pcache:idhash:11722-0!*!0!!fr!3!* and timestamp 20190308150951 and revision id 1105199
+ -->
+</div>					<div class="printfooter">
+						Récupérée de « <a dir="ltr" href="https://fr.vikidia.org/w/index.php?title=Équation_aux_dimensions&amp;oldid=1105199">https://fr.vikidia.org/w/index.php?title=Équation_aux_dimensions&amp;oldid=1105199</a> »					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Sp%C3%A9cial:Cat%C3%A9gories" title="Spécial:Catégories">Catégorie</a> : <ul><li><a href="/wiki/Cat%C3%A9gorie:Grandeur_physique" title="Catégorie:Grandeur physique">Grandeur physique</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Catégories cachées : <ul><li><a href="/wiki/Cat%C3%A9gorie:Article_%C3%A0_simplifier" title="Catégorie:Article à simplifier">Article à simplifier</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:sciences/Pages_li%C3%A9es" title="Catégorie:Portail:sciences/Pages liées">Portail:sciences/Pages liées</a></li><li><a href="/wiki/Cat%C3%A9gorie:Article_long_%C3%A0_illustrer" title="Catégorie:Article long à illustrer">Article long à illustrer</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Menu de navigation</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Outils personnels</h3>
+						<ul>
+							<li id="pt-anonuserpage">Non connecté</li><li id="pt-anontalk"><a href="/wiki/Sp%C3%A9cial:Mes_discussions" title="La page de discussion pour les contributions depuis cette adresse IP [n]" accesskey="n">Discussion</a></li><li id="pt-anoncontribs"><a href="/wiki/Sp%C3%A9cial:Mes_contributions" title="Une liste des modifications effectuées depuis cette adresse IP [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&amp;returnto=%C3%89quation+aux+dimensions" title="Il vous est conseillé de créer un compte et de vous connecter ; cependant, ce n’est pas obligatoire">Créer un compte</a></li><li id="pt-login"><a href="/w/index.php?title=Sp%C3%A9cial:Connexion&amp;returnto=%C3%89quation+aux+dimensions" title="Il est recommandé de vous identifier ; ce n'est cependant pas obligatoire. [o]" accesskey="o">Se connecter</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Espaces de noms</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/%C3%89quation_aux_dimensions"  title="Voir la page de contenu [m]" accesskey="m">Page</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Discussion:%C3%89quation_aux_dimensions"  title="Discussion au sujet de cette page de contenu [d]" accesskey="d" rel="discussion">Discussion</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variantes</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Affichages</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/%C3%89quation_aux_dimensions" >Lire</a></span></li>
+															<li id="ca-ve-edit"><span><a href="/w/index.php?title=%C3%89quation_aux_dimensions&amp;veaction=edit"  title="Modifier cette page [v]" accesskey="v">Modifier</a></span></li>
+															<li id="ca-edit" class=" collapsible"><span><a href="/w/index.php?title=%C3%89quation_aux_dimensions&amp;action=edit"  title="Modifier le wikicode [m]" accesskey="m">Modifier le wikicode</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=%C3%89quation_aux_dimensions&amp;action=history"  title="Les versions passées de cette page (avec leurs contributeurs) [h]" accesskey="h">Historique</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Plus</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Chercher</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Rechercher sur Vikidia" title="Rechercher dans Vikidia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Spécial:Recherche" name="title"/><input type="submit" name="fulltext" value="Rechercher" title="Rechercher les pages comportant ce texte." id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Trouver" title="Aller vers une page portant exactement ce nom si elle existe." id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Vikidia:Accueil"  title="Page principale"></a></div>
+						<div class="portal" role="navigation" id='p-Navigation' aria-labelledby='p-Navigation-label'>
+			<h3 id='p-Navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-Accueil"><a href="/wiki/Vikidia:Accueil">Accueil</a></li><li id="n-Pages-par-th.C3.A8mes"><a href="/wiki/Portail:Accueil">Pages par thèmes</a></li><li id="n-randompage"><a href="/wiki/Sp%C3%A9cial:Page_au_hasard" title="Afficher une page au hasard [x]" accesskey="x">Page au hasard</a></li><li id="n-Banque-d.E2.80.99images"><a href="/wiki/Portail:Images">Banque d’images</a></li><li id="n-Le-Savant"><a href="/wiki/Vikidia:Le_Savant">Le Savant</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-Contribuer' aria-labelledby='p-Contribuer-label'>
+			<h3 id='p-Contribuer-label'>Contribuer</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-recentchanges"><a href="/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes" title="Liste des modifications récentes sur le wiki [r]" accesskey="r">Modifications récentes</a></li><li id="n-portal"><a href="/wiki/Vikidia:Communaut%C3%A9" title="À propos du projet, ce que vous pouvez faire, où trouver des informations [p]" accesskey="p">Communauté</a></li><li id="n-Bavardages"><a href="/wiki/Vikidia:Bavardages">Bavardages</a></li><li id="n-help"><a href="/wiki/Aide:Accueil" title="Aide [a]" accesskey="a">Aide</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Outils</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/%C3%89quation_aux_dimensions" title="Liste des pages liées qui pointent sur celle-ci [j]" accesskey="j">Pages liées</a></li><li id="t-recentchangeslinked"><a href="/wiki/Sp%C3%A9cial:Suivi_des_liens/%C3%89quation_aux_dimensions" rel="nofollow" title="Liste des modifications récentes des pages appelées par celle-ci [k]" accesskey="k">Suivi des pages liées</a></li><li id="t-specialpages"><a href="/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales" title="Liste de toutes les pages spéciales [q]" accesskey="q">Pages spéciales</a></li><li id="t-permalink"><a href="/w/index.php?title=%C3%89quation_aux_dimensions&amp;oldid=1105199" title="Adresse permanente de cette version de la page">Adresse permanente</a></li><li id="t-info"><a href="/w/index.php?title=%C3%89quation_aux_dimensions&amp;action=info" title="Plus d’information sur cette page">Information sur la page</a></li><li id="t-cite"><a href="/w/index.php?title=Sp%C3%A9cial:Citer&amp;page=%C3%89quation_aux_dimensions&amp;id=1105199" title="Informations sur la manière de citer cette page">Citer cette page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-Vikidia' aria-labelledby='p-Vikidia-label'>
+			<h3 id='p-Vikidia-label'>Vikidia</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-.C3.80-propos-de-Vikidia"><a href="/wiki/Vikidia:%C3%80_propos">À propos de Vikidia</a></li><li id="n-Contact"><a href="/wiki/Vikidia:Contact">Contact</a></li><li id="n-sitesupport"><a href="//www.vikidia.org/dons.html" rel="nofollow">Faire un don</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Imprimer / exporter</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Sp%C3%A9cial:Livre&amp;bookcmd=book_creator&amp;referer=%C3%89quation+aux+dimensions">Créer un livre</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Sp%C3%A9cial:Livre&amp;bookcmd=render_article&amp;arttitle=%C3%89quation+aux+dimensions&amp;returnto=%C3%89quation+aux+dimensions&amp;oldid=1105199&amp;writer=rl">Télécharger comme PDF</a></li><li id="t-print"><a href="/w/index.php?title=%C3%89quation_aux_dimensions&amp;printable=yes" title="Version imprimable de cette page [p]" accesskey="p">Version imprimable</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Sur d’autres projets</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-wp"><a href="//fr.wikipedia.org/wiki/Analyse_dimensionnelle" title="wp:Analyse dimensionnelle" lang="wp" hreflang="wp" class="interlanguage-link-target">Wikipédia</a></li>					</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> <div id="donation-box" style="border: 1px solid #a7d7f9; font-size: 1.6em; font-weight: bold; text-align: center; line-height: 1.6; background-color: rgb(242, 237, 248); margin-bottom: 0;">
+<div style="float: left; transform: scaleX(-1); margin-left: 0.5em; margin-top: 0.2em;"><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=contact%40vikidia%2eorg&amp;lc=FR&amp;item_name=Association%20Vikidia%2c%20Encyclopedie%20pour%20enfants&amp;no_note=0&amp;currency_code=EUR&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHostedGuest" rel="nofollow"><img alt="Open Clip Art Library Piggy Bank.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Open_Clip_Art_Library_Piggy_Bank.svg/60px-Open_Clip_Art_Library_Piggy_Bank.svg.png" width="60" height="58" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Open_Clip_Art_Library_Piggy_Bank.svg/90px-Open_Clip_Art_Library_Piggy_Bank.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Open_Clip_Art_Library_Piggy_Bank.svg/120px-Open_Clip_Art_Library_Piggy_Bank.svg.png 2x" data-file-width="456" data-file-height="442" /></a></div>
+<div>Vikidia, ce sont des millions de jeunes lecteurs chaque mois... et des rédacteurs de tout âge !<br />Toi aussi <a rel="nofollow" class="external text" href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=contact%40vikidia%2eorg&amp;lc=FR&amp;item_name=Association%20Vikidia%2c%20Encyclopedie%20pour%20enfants&amp;no_note=0&amp;currency_code=EUR&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHostedGuest">fais un don !</a><div style="font-size: 0.5em; font-weight: normal; line-height: 1; padding-bottom: 0.3em; font-style: italic;"></div></div>
+</div>
+<div id="donation-box" style="margin-top: 0em; border: 1px solid #a7d7f9; font-size: 1.6em; font-weight: bold; text-align: center; line-height: 1.6; background-color: #FFFFFF;">
+<div style="float: left; margin-left: 1em; padding-top: 0.3em;"><a href="https://www.lilo.org/?utm_source=vikidia" rel="nofollow"><img alt="Logo-lilo.png" src="//download.vikidia.org/vikidia/fr/images/thumb/9/91/Logo-lilo.png/80px-Logo-lilo.png" width="80" height="28" srcset="//download.vikidia.org/vikidia/fr/images/thumb/9/91/Logo-lilo.png/120px-Logo-lilo.png 1.5x, //download.vikidia.org/vikidia/fr/images/thumb/9/91/Logo-lilo.png/160px-Logo-lilo.png 2x" data-file-width="221" data-file-height="77" /></a></div>
+<p><a rel="nofollow" class="external text" href="https://www.lilo.org/?utm_source=vikidia">Le saviez-vous ? Vous pouvez financer gratuitement Vikidia en utilisant le moteur de recherche solidaire Lilo.</a>
+</p>
+</div>
+<p><br />
+Par Vikidia, l’encyclopédie pour les jeunes, qui explique aux enfants et à ceux qui veulent une présentation simple d'un sujet.<br />
+Dernière modification de cette page le 13 mars 2018 à 13:59.<br />
+</p></li>
+											<li id="footer-info-copyright">Le contenu est disponible sous licence <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-Share Alike 3.0</a> sauf mention contraire.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/Vikidia:Confidentialit%C3%A9" title="Vikidia:Confidentialité">Politique de confidentialité</a></li>
+											<li id="footer-places-about"><a href="/wiki/Vikidia:%C3%80_propos" title="Vikidia:À propos">À propos de Vikidia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Vikidia:Avertissements_g%C3%A9n%C3%A9raux" title="Vikidia:Avertissements généraux">Avertissements</a></li>
+											<li id="footer-places-mobileview"><a href="https://fr.vikidia.org/w/index.php?title=%C3%89quation_aux_dimensions&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Version mobile</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://creativecommons.org/licenses/by-sa/3.0/"><img src="/w/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution-Share Alike 3.0" width="88" height="31"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script type="baebc1742a207ed13a0948fb-text/javascript">(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.032","walltime":"0.031","ppvisitednodes":{"value":220,"limit":1000000},"ppgeneratednodes":{"value":1154,"limit":1000000},"postexpandincludesize":{"value":5759,"limit":2097152},"templateargumentsize":{"value":1784,"limit":2097152},"expansiondepth":{"value":6,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%    9.515      1 -total"," 26.08%    2.482      1 Modèle:Portail"," 21.86%    2.080      1 Modèle:À_simplifier"," 21.15%    2.012      1 Modèle:..."," 20.17%    1.919     16 Modèle:Exp"," 17.60%    1.675      1 Modèle:Portail_Sciences"," 16.30%    1.551      1 Modèle:Méta_mini_bandeau"," 15.60%    1.484      1 Modèle:Méta_bandeau","  9.57%    0.911      1 Modèle:Méta_lien_portail","  3.05%    0.290      1 Modèle:---"]},"cachereport":{"timestamp":"20190308150951","ttl":86400,"transientcontent":false}}});});</script><!-- Piwik -->
+<script type="baebc1742a207ed13a0948fb-text/javascript">
+  var _paq = _paq || [];
+  _paq.push(["disableCookies"]);
+  _paq.push(["trackPageView"]);
+  _paq.push(["enableLinkTracking"]);
+
+  (function() {
+    var u = (("https:" == document.location.protocol) ? "https" : "http") + "://";
+    _paq.push(["setTrackerUrl", u+"stats.vikidia.org/"+"piwik.php"]);
+    _paq.push(["setSiteId", "1"]);
+    var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
+    g.defer=true; g.async=true; g.src=u+"download.vikidia.org/piwik.js"; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Piwik Code -->
+
+<!-- Piwik Image Tracker -->
+<noscript><img src="https://stats.vikidia.org/piwik.php?idsite=1&rec=1" style="border:0" alt="" /></noscript>
+<!-- End Piwik --><script type="baebc1742a207ed13a0948fb-text/javascript">(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":167});});</script>
+	<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/a2bd7673/cloudflare-static/rocket-loader.min.js" data-cf-settings="baebc1742a207ed13a0948fb-|49" defer=""></script></body>
+</html>

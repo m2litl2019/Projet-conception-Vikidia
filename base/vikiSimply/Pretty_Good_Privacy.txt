@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="fr" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Pretty Good Privacy - Vikidia, l’encyclopédie des 8-13 ans</title>
+<script type="4c3f34a5f8f6af82ca4f416c-text/javascript">document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script type="4c3f34a5f8f6af82ca4f416c-text/javascript">(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Pretty_Good_Privacy","wgTitle":"Pretty Good Privacy","wgCurRevisionId":1173327,"wgRevisionId":1173327,"wgArticleId":12005,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Article à simplifier","Portail:Information/Pages liées","Article long à illustrer","Cryptologie"],"wgBreakFrames":false,"wgPageContentLanguage":"fr","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"],"wgMonthNamesShort":["","jan","fév","mar","avr","mai","juin","juil","août","sep","oct","nov","déc"],"wgRelevantPageName":"Pretty_Good_Privacy","wgRelevantArticleId":12005,"wgRequestId":"930b577bef087d91d4d89517","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVisualEditor":{"pageLanguageCode":"fr","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":false},"wgWikiEditorEnabledModules":{"toolbar":true,"preview":true,"publish":false},"wgPreferredVariant":"fr","wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1x2qlv5",function($,jQuery,require,module){mw.user.options.set({"variant":"fr"});});mw.loader.implement("user.tokens@091j2g3",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.gadget.InviteDiscussion","ext.gadget.Edittools","mmv.head","mmv.bootstrap.autostart","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="//download.vikidia.org/fr.vikidia.org/load.php?debug=false&amp;lang=fr&amp;modules=ext.cite.styles%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="//download.vikidia.org/fr.vikidia.org/load.php?debug=false&amp;lang=fr&amp;modules=startup&amp;only=scripts&amp;skin=vector" type="4c3f34a5f8f6af82ca4f416c-text/javascript"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="//download.vikidia.org/fr.vikidia.org/load.php?debug=false&amp;lang=fr&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.2"/>
+<link rel="alternate" type="application/x-wiki" title="Modifier" href="/w/index.php?title=Pretty_Good_Privacy&amp;action=edit"/>
+<link rel="edit" title="Modifier" href="/w/index.php?title=Pretty_Good_Privacy&amp;action=edit"/>
+<link rel="shortcut icon" href="//download.vikidia.org/vikidia/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Vikidia (fr)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://fr.vikidia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Flux Atom de Vikidia" href="/w/index.php?title=Sp%C3%A9cial:Modifications_r%C3%A9centes&amp;feed=atom"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Pretty_Good_Privacy rootpage-Pretty_Good_Privacy skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="fr">Pretty Good Privacy</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">« Pretty Good Privacy » expliqué aux enfants par Vikidia, l’encyclopédie junior</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Aller à :					<a href="#mw-head">navigation</a>, 					<a href="#p-search">rechercher</a>
+				</div>
+				<div id="mw-content-text" lang="fr" dir="ltr" class="mw-content-ltr"><table class="bandeau plainlinks" style="width: 70%; margin: auto; margin-bottom: 10px; text-align: center; background-color: #FFFCCC; border: 1px solid #CC9900; border-right-width: 2px; border-bottom-width: 2px;">
+<tr>
+<td style="width: 10%;">
+<div><img alt="Simplifier" src="//download.vikidia.org/vikidia/fr/images/c/c1/Confusion.gif" title="Simplifier" width="35" height="35" data-file-width="35" data-file-height="35" /></div>
+</td>
+<td>
+<div style=""><b>Cet article semble trop confus et / ou trop compliqué.</b> </div>
+<div style="">N’hésitez pas à le <b><a rel="nofollow" class="external text" href="https://fr.vikidia.org/w/index.php?title=Pretty_Good_Privacy&amp;action=edit">simplifier</a></b> ou à <b><a rel="nofollow" class="external text" href="https://fr.vikidia.org/w/index.php?title=Discussion:Pretty_Good_Privacy&amp;action=edit&amp;section=new">donner votre avis</a></b>.<br /><span style="font-size: 90%;"><a href="/wiki/Aide:R%C3%A9sum%C3%A9_de_la_syntaxe_wiki" title="Aide:Résumé de la syntaxe wiki">Aide sur la syntaxe wiki</a> – <a href="/wiki/Aide:Comment_%C3%A9crire_un_article_%3F" class="mw-redirect" title="Aide:Comment écrire un article ?">Conseils de rédaction</a></span></div>
+</td>
+
+</tr>
+</table>
+<p><b>Pretty Good Privacy</b> (d'où le <a href="/wiki/Sigle" title="Sigle">sigle</a> <b>PGP</b>) est un <a href="/wiki/Syst%C3%A8me_cryptographique" title="Système cryptographique">système cryptographique</a> semi-<a href="/wiki/Logiciel_libre" title="Logiciel libre">libre</a> créé en <a href="/wiki/1991" class="mw-redirect" title="1991">1991</a> par l'américain Phil Zimmermann. PGP tente de garantir une confidentialité et une sécurité pour la transmission d'informations confidentielles entre les <a href="/wiki/Emploi" title="Emploi">employés</a> des <a href="/wiki/Entreprise" title="Entreprise">entreprises</a> ou pour le commerce électronique. 
+</p>
+<div id="toc" class="toc"><div id="toctitle" class="toctitle"><h2>Sommaire</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Contexte_historique_et_cryptographique"><span class="tocnumber">1</span> <span class="toctext">Contexte historique et cryptographique</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Contexte_historique_:_pourquoi_PGP_a_.C3.A9t.C3.A9_cr.C3.A9.C3.A9"><span class="tocnumber">1.1</span> <span class="toctext">Contexte historique : pourquoi PGP a été créé</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Rappel_de_cryptographie"><span class="tocnumber">1.2</span> <span class="toctext">Rappel de cryptographie</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Un_syst.C3.A8me_hybride"><span class="tocnumber">1.3</span> <span class="toctext">Un système hybride</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Les_bases_de_PGP"><span class="tocnumber">2</span> <span class="toctext">Les bases de PGP</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Un_aper.C3.A7u_de_PGP"><span class="tocnumber">2.1</span> <span class="toctext">Un aperçu de PGP</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Fonctionnement_global_de_PGP"><span class="tocnumber">2.2</span> <span class="toctext">Fonctionnement global de PGP</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Limites_d.27utilisation_de_PGP"><span class="tocnumber">2.3</span> <span class="toctext">Limites d'utilisation de PGP</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Sources_et_notes"><span class="tocnumber">3</span> <span class="toctext">Sources et notes</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Sources"><span class="tocnumber">3.1</span> <span class="toctext">Sources</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Notes"><span class="tocnumber">3.2</span> <span class="toctext">Notes</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Contexte_historique_et_cryptographique">Contexte historique et cryptographique</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pretty_Good_Privacy&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Modifier la section : Contexte historique et cryptographique">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Pretty_Good_Privacy&amp;action=edit&amp;section=1" title="Modifier la section : Contexte historique et cryptographique">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Contexte_historique_:_pourquoi_PGP_a_.C3.A9t.C3.A9_cr.C3.A9.C3.A9">Contexte historique : pourquoi PGP a été créé</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pretty_Good_Privacy&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Modifier la section : Contexte historique : pourquoi PGP a été créé">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Pretty_Good_Privacy&amp;action=edit&amp;section=2" title="Modifier la section : Contexte historique : pourquoi PGP a été créé">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Dans les années 1970 et 1980, on assiste à l'essor de l'informatique : la puissance des ordinateurs augmente de façon très importante. Cela a eu (et aura toujours) une conséquence directe sur la <a href="/wiki/Cryptologie" title="Cryptologie">cryptologie</a> : un cryptanalyste armé d'un ordinateur moderne est toujours plus dangereux, pour des individus désirant échanger des données confidentielles, qu'un cryptanalyste disposant seulement d'un crayon ! Les anciens systèmes, que l'on croyait sûrs, se sont effondrés devant la puissance informatique dont pouvait disposer un État ou une entreprise spécialisée. 
+</p><p>Dans ces conditions, comment échanger des informations confidentielles avec quelqu'un d'autre, puisque tous les systèmes cryptographiques fiables étaient hors de portée du grand public ?
+</p>
+<h3><span class="mw-headline" id="Rappel_de_cryptographie">Rappel de cryptographie</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pretty_Good_Privacy&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Modifier la section : Rappel de cryptographie">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Pretty_Good_Privacy&amp;action=edit&amp;section=3" title="Modifier la section : Rappel de cryptographie">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl><dt>Système à clé publique et clé privée</dt>
+<dd>Un système de cryptographie <b>asymétrique</b> fait appel à une <b>paire de clés</b>. La personne qui souhaite pouvoir recevoir des informations chiffrées publie pour tout le monde sa « clé publique » qui permet de coder l'information. Sa « clé privée » lui permet ensuite de la décoder en toute sécurité. C'est un peu comme si on voulait recevoir des paquets par la poste, fermés par un cadenas : dans ce cas, on distribue des cadenas gratuitement aux gens, et quand ceux-ci veulent nous envoyer un paquet, ils le ferment avec ce cadenas. Mais on est la seule personne au monde à posséder une clé de ce cadenas pour l'ouvrir.</dd></dl>
+<dl><dt>Système à clé secrète</dt>
+<dd>Un système de cryptographie <b>symétrique</b> fait appel à <b>une seule clé</b>. Les personnes qui souhaitent échanger des informations chiffrées utilisent la même clé pour encoder et décoder l'information. Cette clé doit être gardée secrète afin que personne d'autre ne puisse déchiffrer l'information échangée.</dd></dl>
+<dl><dt>Avantages respectifs</dt>
+<dd>
+<ul><li> Tout système cryptographique à <b>paire de clés publique/privée est infiniment plus sûr</b> que n'importe quel système à clé secrète lorsque l'on ne dispose pas de moyens de transmission sécurisés pour la clé.</li>
+<li> Tout système cryptographique à <b>clé secrète est beaucoup plus rapide</b> que n'importe quel système à paire de clés publique/privée, et ce dans tous les cas (on parle ici du cryptage et du décryptage des informations).</li></ul></dd></dl>
+<h3><span class="mw-headline" id="Un_syst.C3.A8me_hybride">Un système hybride</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pretty_Good_Privacy&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Modifier la section : Un système hybride">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Pretty_Good_Privacy&amp;action=edit&amp;section=4" title="Modifier la section : Un système hybride">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Ce n'est qu'en 1991 qu'un compromis entre cryptographie à clef secrète (rapide) et à clef publique (sûre) a été trouvé : l'américain Philip Zimmermann a lancé sur Internet en téléchargement libre son logiciel <b>P</b>retty <b>G</b>ood <b>P</b>rivacy (ce qui pourrait se traduire par « assez bonne confidentialité »), d'où le sigle <i><b>PGP</b></i>. PGP est donc un système dit « de cryptographie <b>hybride</b> ».
+</p>
+<h2><span class="mw-headline" id="Les_bases_de_PGP">Les bases de PGP</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pretty_Good_Privacy&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Modifier la section : Les bases de PGP">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Pretty_Good_Privacy&amp;action=edit&amp;section=5" title="Modifier la section : Les bases de PGP">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Un_aper.C3.A7u_de_PGP">Un aperçu de PGP</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pretty_Good_Privacy&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Modifier la section : Un aperçu de PGP">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Pretty_Good_Privacy&amp;action=edit&amp;section=6" title="Modifier la section : Un aperçu de PGP">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Voici un exemple de message codé par PGP :
+</p>
+<pre>-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1.4.6 (GNU/Linux)
+hQIOAxCS5Sq4BNLoEAgAkfXjloMUfqAwjSCtXydrmBKFY2poqlwyZPoKxk5hFjnk
+cO6QpyGSCUIX9F0ncWphpnIAROeDty4ctmB0NfxPcvi5dzjbz8CE49GweWSCcgS8
+ppdERM4tvgU5wNrr0f/5pyuYqCOHGQbAlFh5F0vigcFk//5rG1oOFJCbsNzQ7aBb
+qpaJK5f8YpwzfrufYuZMfQ3l+sVULI298nRlLM4MUUqpaSuPCVXT7KzdEaCBlZj7
+tMjMBvzcLoCGpjdeKRryXjIFlFl7nYiqwscfzf0D9KwCvCrpFd5pMe9lJEPLw6gM
+vuirX63jYk1CTDYjGhTWN1j7nD/J560rwsPLwP3kQAgAtKx9wxjpT0YVytPZhzfd
+YDYd/v8OxCBoLEhI2lwe5I7VkwdS4JBzBife6m13v8x8tBeVXhj1LxOv6u1t2kJa
+kJeEbkaiNw9fihAKHSDFKLjX4jYEz0seZaJ/rhVEU1TzVwfYIi7Wwi6zSjfUlIod
+2Q3CvE+jPacfigQCTd0B6yPfBFJ5S8gWRI0vTz5soi7EKS5bAL1TWvuEPMypmSiG
+wl8/wZN2CbiGik2Fglkh7BeCM2LNU8xtkIhCBG2Vz2GLQT39i5B4quX2icLx2HI/
+HSJh5fkwzdQT1EVPG+VwDXBajjf8c75TZAY+BQTKTh296hUcBmltWBePqgRUA8wj
+8dLAogEGyA6VF+uUSHcEKt+LdpdkXp+sp/suxXptPF9uWmJQMoseF3O+OllpNrpa
+x2RIyVHGLpFP3XuOauKDhYb7sDmHCefw3Pkbqnk83Nt18QNA2Djg2otXlTmYZwxZ
+4/BUf2j4XiQtDZGHUslL4b76sQ7lvX5IPVXNZGWN+pfLWRmwNVVJ/0IRhIXgJ25x
+tZBzJUgVLRsW7PKWyDgj5wU+F57QAX2SIhRPk1fIW31BU1Z6lRu4uuwwUzZlpcx2
+WVQymadNhAmvwPXQb3JIANWFsKQX2jrPwAVy0D1qouAK2M2r2/1VXi2xwh24bede
+btfJz29C3RIjSJf7Rx+Q0Ohpuc6pAab0bRaSMEUj4Q9JAvPufRU24O81oyPVBERC
+BZCOCBlGZ3Bnh6XdIdWbLb1288IDW6USCvLXoM9DdkEg6X1QlmnHGZXT+yJ/DKOF
+2KmyKBF68cnoEN/KkRlAYbiGDHM3Ag==
+=c9w6
+-----END PGP MESSAGE-----
+</pre>
+<p>Cela semble plus élaboré que le chiffre de <a href="/wiki/Jules_C%C3%A9sar" title="Jules César">César</a>, un vieux code secret ! Cependant, le chiffre de César a été, autant (voire plus) que PGP, une révolution dans le domaine de la cryptographie. Bien sûr, le niveau de sécurité entre ces deux systèmes est incomparable : PGP est considéré aujourd'hui comme incassable, même avec l'aide des plus puissants ordinateurs, en un temps « cryptanalytiquement » court, c'est-à-dire, au grand maximum, quelques années.
+</p><p>À vrai dire, il faudrait environ plusieurs millions d'années<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">1</a></sup> à un État, en faisant fonctionner des milliers d'ordinateurs 24 heures sur 24, pour découvrir le message que vous avez vu plus haut. Des millions d'années, pour ce simple texte : 
+</p><p>Seraient-ils neuf cent quatre-vingt-quinze millions et moi tout seul, ce sont eux qui ont tort, Lola, et moi qui ai raison, parce que je suis le seul à savoir ce que je veux :
+je ne veux plus mourir.
+</p>
+<pre><a href="/wiki/Louis-Ferdinand_C%C3%A9line" title="Louis-Ferdinand Céline">Louis-Ferdinand Céline</a>, « Voyage au Bout de la Nuit ».
+</pre>
+<h3><span class="mw-headline" id="Fonctionnement_global_de_PGP">Fonctionnement global de PGP</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pretty_Good_Privacy&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Modifier la section : Fonctionnement global de PGP">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Pretty_Good_Privacy&amp;action=edit&amp;section=7" title="Modifier la section : Fonctionnement global de PGP">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ol><li> Entrée du message. Par exemple, « VIVE VIKIDIA ».</li>
+<li> Le logiciel génère une <a href="/wiki/Clef_publique" class="mw-redirect" title="Clef publique">clef</a> <a href="/w/index.php?title=Al%C3%A9atoire&amp;action=edit&amp;redlink=1" class="new" title="Aléatoire (page inexistante)">aléatoire</a> (ou pseudo-aléatoire). Cette clef devient la <b>clef secrète</b>, que l'on notera <i><b>s</b></i> et qui vaut par exemple 123456789<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">2</a></sup>.</li>
+<li> Il crypte « VIVE VIKIDIA » avec la clef secrète <i><b>s</b></i> ; le codage se fait par un système à clef privée, comme <b>AES</b> ou <b>RC6</b> (le système utilisé dans les exemples plus haut est AES, avec une clef de longueur 128 bits). Le résultat de ce codage est « nIMpORTeqUoI ».</li>
+<li> Il utilise une <b>fonction de hachage</b>, dont le but est de compliquer encore la tâche aux casseurs de codes, mais surtout d'« alléger » le message.</li>
+<li> La clef secrète <i><b>s</b></i> est codée par un système à <a href="/wiki/Clef_publique" class="mw-redirect" title="Clef publique">clef publique</a> (avec la clef publique du destinataire du message), généralement <a href="/wiki/RSA" class="mw-redirect" title="RSA">RSA</a>. Elle est incorporée au message crypté.</li></ol>
+<p>Pour décrypter, on applique les opérations inverses :
+</p>
+<ol><li> Le logiciel décrypte la clef secrète avec la clef privée du destinataire du message. On retrouve donc la valeur <i><b>s</b></i> = 123456789.</li>
+<li> Le message est décompressé.</li>
+<li> On décrypte « nIMpORTeqUoI » par la clef <i><b>s</b></i> ; comme il s'agit de cryptographie symétrique (c'est-à-dire à clef secrète), l'opération est très rapide. On récupère donc notre message initial « VIVE VIKIDIA ».</li></ol>
+<h3><span class="mw-headline" id="Limites_d.27utilisation_de_PGP">Limites d'utilisation de PGP</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pretty_Good_Privacy&amp;veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Modifier la section : Limites d'utilisation de PGP">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Pretty_Good_Privacy&amp;action=edit&amp;section=8" title="Modifier la section : Limites d'utilisation de PGP">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>PGP ne devrait pas être utilisé pour chiffrer des données pouvant mettre en jeu la vie d'individus. Si les données sont tellement importantes que leur découverte pourrait mettre en jeu des vies alors mieux vaut utiliser un autre algorithme de cryptographie plus avancé. 
+En effet, les versions 128 ou 256 bits ne sont pas utilisées par le gouvernement américain pour ses communications classées TOP SECRET<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">3</a></sup>. Le gouvernement américain utilise des algorithmes non divulgués comme par exemple BATON <a rel="nofollow" class="external free" href="https://en.wikipedia.org/wiki/BATON">http://en.wikipedia.org/wiki/BATON</a>. Aucun gouvernement de par le monde n'utilise ni PGP, ni AES mais utilise leurs propres algorithmes. Le gouvernement français utilise également ses propres algorithmes, comme par exemple celui du Teorem : <a rel="nofollow" class="external free" href="http://www.lepoint.fr/actualites-technologie-internet/2010-01-06/nicolas-sarkozy-a-teste-le-teorem-son-futur-telephone-crypte/1387/0/411021">http://www.lepoint.fr/actualites-technologie-internet/2010-01-06/nicolas-sarkozy-a-teste-le-teorem-son-futur-telephone-crypte/1387/0/411021</a>.
+</p><p>Diverses affaires d'espionnages ont mis à jour le fait que des agences gouvernementales comme la NSA américaine ou le FBI introduisaient des backdoors dans les logiciels ou les matériels : affaire Crypto AG: <a rel="nofollow" class="external free" href="https://fr.wikipedia.org/wiki/Crypto_AG">http://fr.wikipedia.org/wiki/Crypto_AG</a>, affaire Open BSD : <a rel="nofollow" class="external free" href="http://www.generation-nt.com/openbsd-fbi-backdoor-actualite-1130421.html">http://www.generation-nt.com/openbsd-fbi-backdoor-actualite-1130421.html</a>, affaire des algorithmes de générations de clés : <a rel="nofollow" class="external free" href="https://www.schneier.com/essay-198.html">http://www.schneier.com/essay-198.html</a>. Les backdoors sont des modifications secrètes des logiciels, matériels ou algorithmes permettant de décrypter les données des utilisateurs sans connaître la clé de cryptage utilisée.
+</p>
+<h2><span class="mw-headline" id="Sources_et_notes">Sources et notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pretty_Good_Privacy&amp;veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Modifier la section : Sources et notes">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Pretty_Good_Privacy&amp;action=edit&amp;section=9" title="Modifier la section : Sources et notes">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Sources">Sources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pretty_Good_Privacy&amp;veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Modifier la section : Sources">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Pretty_Good_Privacy&amp;action=edit&amp;section=10" title="Modifier la section : Sources">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li> Wikipédia</li></ul>
+<h3><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pretty_Good_Privacy&amp;veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="Modifier la section : Notes">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Pretty_Good_Privacy&amp;action=edit&amp;section=11" title="Modifier la section : Notes">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">La clef utilisée ici n'est pas extrêmement importante (elle mesure 1024 <a href="/wiki/Bit" title="Bit">bits</a>, ce qui est à peu près la norme : la plus grande clef « cassée » à ce jour mesurait 663 bits ; les clefs utilisées mesurent généralement entre 1024 et 2048 bits), elle ne garantit pas une sécurité absolue. Avec une véritable clef, efficace, les milliards d'années sont envisageables pour une attaque par <b>force brute</b>.</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Cette clef vaut donc 111010110111100110100010101 en <a href="/wiki/Syst%C3%A8me_binaire" title="Système binaire">système binaire</a> ; cela correspond à une longueur de 27 bits, ce qui est ridiculement faible !</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><i>Cf.</i> <span style="font-family:monospace; font-weight:bold; font-size:90%; cursor:help;" title="Document au format Portable Document Format (PDF) d&#39;Adobe">[<a href="/wiki/Portable_document_format" class="mw-redirect" title="Portable document format">pdf</a>]</span> <a rel="nofollow" class="external free" href="http://csrc.nist.gov/groups/SMA/ispab/documents/minutes/2006-03/E_Barker-March2006-ISPAB.pdf">http://csrc.nist.gov/groups/SMA/ispab/documents/minutes/2006-03/E_Barker-March2006-ISPAB.pdf</a> sur le <a rel="nofollow" class="external text" href="http://www.nist.gov/search-results.cfm?q=cnssp&amp;btng=Search&amp;num=10&amp;sortType=L&amp;scopeType=0">site Internet du NIST</a></span>
+</li>
+</ol></div>
+<table class="multi-banner" style="width: 100%; clear: both; margin: 0; background-color: transparent; padding: 0;">
+
+<tr style="vertical-align: middle;">
+<td> <center>
+<table style="clear: both; margin-top: 12px; border-left: 4px solid green; width: 90%; background: #B2ffc6; border-radius: 2px;">
+<tr>
+<td style="padding: 3px; text-align: left;"><img alt="" src="//download.vikidia.org/vikidia/fr/images/thumb/5/5c/Icone_Ecriture.png/35px-Icone_Ecriture.png" width="35" height="35" srcset="//download.vikidia.org/vikidia/fr/images/thumb/5/5c/Icone_Ecriture.png/53px-Icone_Ecriture.png 1.5x, //download.vikidia.org/vikidia/fr/images/thumb/5/5c/Icone_Ecriture.png/70px-Icone_Ecriture.png 2x" data-file-width="120" data-file-height="120" />
+</td>
+<td width="90%" style="font-size: 15px;"> <b><a href="/wiki/Portail:Information" title="Portail:Information">Portail de l'information</a></b> &#32;&#8212;  Tout sur les écritures, les codes secrets, les médias...
+</td></tr></table>
+</center>
+</td>
+<td>
+</td></tr></table>
+<table class="multi-banner" style="width: 100%; clear: both; margin: 0; background-color: transparent; padding: 0;">
+
+<tr style="vertical-align: middle;">
+<td>
+</td>
+<td>
+</td></tr></table>
+<table class="multi-banner" style="width: 100%; clear: both; margin: 0; background-color: transparent; padding: 0;">
+
+<tr style="vertical-align: middle;">
+<td>
+</td>
+<td>
+</td></tr></table>
+
+<!-- 
+NewPP limit report
+Cached time: 20190308135413
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.032 seconds
+Real time usage: 0.034 seconds
+Preprocessor visited node count: 212/1000000
+Preprocessor generated node count: 908/1000000
+Post‐expand include size: 5056/2097152 bytes
+Template argument size: 1388/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 0/100
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   11.199      1 -total
+ 26.85%    3.007      1 Modèle:À_simplifier
+ 21.63%    2.422      1 Modèle:Portail
+ 19.93%    2.232      1 Modèle:Méta_bandeau
+ 14.10%    1.579      1 Modèle:Portail_information
+ 11.03%    1.235      1 Modèle:Pdf
+  9.01%    1.009      1 Modèle:Méta_lien_portail
+  6.78%    0.759      1 Modèle:Indication_de_format
+  3.11%    0.349      1 Modèle:---
+-->
+
+<!-- Saved in parser cache with key vikidia_fr-wk_:pcache:idhash:12005-0!*!0!!fr!3!* and timestamp 20190308135413 and revision id 1173327
+ -->
+</div>					<div class="printfooter">
+						Récupérée de « <a dir="ltr" href="https://fr.vikidia.org/w/index.php?title=Pretty_Good_Privacy&amp;oldid=1173327">https://fr.vikidia.org/w/index.php?title=Pretty_Good_Privacy&amp;oldid=1173327</a> »					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Sp%C3%A9cial:Cat%C3%A9gories" title="Spécial:Catégories">Catégorie</a> : <ul><li><a href="/wiki/Cat%C3%A9gorie:Cryptologie" title="Catégorie:Cryptologie">Cryptologie</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Catégories cachées : <ul><li><a href="/wiki/Cat%C3%A9gorie:Article_%C3%A0_simplifier" title="Catégorie:Article à simplifier">Article à simplifier</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:Information/Pages_li%C3%A9es" title="Catégorie:Portail:Information/Pages liées">Portail:Information/Pages liées</a></li><li><a href="/wiki/Cat%C3%A9gorie:Article_long_%C3%A0_illustrer" title="Catégorie:Article long à illustrer">Article long à illustrer</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Menu de navigation</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Outils personnels</h3>
+						<ul>
+							<li id="pt-anonuserpage">Non connecté</li><li id="pt-anontalk"><a href="/wiki/Sp%C3%A9cial:Mes_discussions" title="La page de discussion pour les contributions depuis cette adresse IP [n]" accesskey="n">Discussion</a></li><li id="pt-anoncontribs"><a href="/wiki/Sp%C3%A9cial:Mes_contributions" title="Une liste des modifications effectuées depuis cette adresse IP [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&amp;returnto=Pretty+Good+Privacy" title="Il vous est conseillé de créer un compte et de vous connecter ; cependant, ce n’est pas obligatoire">Créer un compte</a></li><li id="pt-login"><a href="/w/index.php?title=Sp%C3%A9cial:Connexion&amp;returnto=Pretty+Good+Privacy" title="Il est recommandé de vous identifier ; ce n'est cependant pas obligatoire. [o]" accesskey="o">Se connecter</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Espaces de noms</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Pretty_Good_Privacy"  title="Voir la page de contenu [m]" accesskey="m">Page</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Discussion:Pretty_Good_Privacy"  title="Discussion au sujet de cette page de contenu [d]" accesskey="d" rel="discussion">Discussion</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variantes</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Affichages</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Pretty_Good_Privacy" >Lire</a></span></li>
+															<li id="ca-ve-edit"><span><a href="/w/index.php?title=Pretty_Good_Privacy&amp;veaction=edit"  title="Modifier cette page [v]" accesskey="v">Modifier</a></span></li>
+															<li id="ca-edit" class=" collapsible"><span><a href="/w/index.php?title=Pretty_Good_Privacy&amp;action=edit"  title="Modifier le wikicode [m]" accesskey="m">Modifier le wikicode</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Pretty_Good_Privacy&amp;action=history"  title="Les versions passées de cette page (avec leurs contributeurs) [h]" accesskey="h">Historique</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Plus</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Chercher</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Rechercher sur Vikidia" title="Rechercher dans Vikidia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Spécial:Recherche" name="title"/><input type="submit" name="fulltext" value="Rechercher" title="Rechercher les pages comportant ce texte." id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Trouver" title="Aller vers une page portant exactement ce nom si elle existe." id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Vikidia:Accueil"  title="Page principale"></a></div>
+						<div class="portal" role="navigation" id='p-Navigation' aria-labelledby='p-Navigation-label'>
+			<h3 id='p-Navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-Accueil"><a href="/wiki/Vikidia:Accueil">Accueil</a></li><li id="n-Pages-par-th.C3.A8mes"><a href="/wiki/Portail:Accueil">Pages par thèmes</a></li><li id="n-randompage"><a href="/wiki/Sp%C3%A9cial:Page_au_hasard" title="Afficher une page au hasard [x]" accesskey="x">Page au hasard</a></li><li id="n-Banque-d.E2.80.99images"><a href="/wiki/Portail:Images">Banque d’images</a></li><li id="n-Le-Savant"><a href="/wiki/Vikidia:Le_Savant">Le Savant</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-Contribuer' aria-labelledby='p-Contribuer-label'>
+			<h3 id='p-Contribuer-label'>Contribuer</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-recentchanges"><a href="/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes" title="Liste des modifications récentes sur le wiki [r]" accesskey="r">Modifications récentes</a></li><li id="n-portal"><a href="/wiki/Vikidia:Communaut%C3%A9" title="À propos du projet, ce que vous pouvez faire, où trouver des informations [p]" accesskey="p">Communauté</a></li><li id="n-Bavardages"><a href="/wiki/Vikidia:Bavardages">Bavardages</a></li><li id="n-help"><a href="/wiki/Aide:Accueil" title="Aide [a]" accesskey="a">Aide</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Outils</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Pretty_Good_Privacy" title="Liste des pages liées qui pointent sur celle-ci [j]" accesskey="j">Pages liées</a></li><li id="t-recentchangeslinked"><a href="/wiki/Sp%C3%A9cial:Suivi_des_liens/Pretty_Good_Privacy" rel="nofollow" title="Liste des modifications récentes des pages appelées par celle-ci [k]" accesskey="k">Suivi des pages liées</a></li><li id="t-specialpages"><a href="/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales" title="Liste de toutes les pages spéciales [q]" accesskey="q">Pages spéciales</a></li><li id="t-permalink"><a href="/w/index.php?title=Pretty_Good_Privacy&amp;oldid=1173327" title="Adresse permanente de cette version de la page">Adresse permanente</a></li><li id="t-info"><a href="/w/index.php?title=Pretty_Good_Privacy&amp;action=info" title="Plus d’information sur cette page">Information sur la page</a></li><li id="t-cite"><a href="/w/index.php?title=Sp%C3%A9cial:Citer&amp;page=Pretty_Good_Privacy&amp;id=1173327" title="Informations sur la manière de citer cette page">Citer cette page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-Vikidia' aria-labelledby='p-Vikidia-label'>
+			<h3 id='p-Vikidia-label'>Vikidia</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-.C3.80-propos-de-Vikidia"><a href="/wiki/Vikidia:%C3%80_propos">À propos de Vikidia</a></li><li id="n-Contact"><a href="/wiki/Vikidia:Contact">Contact</a></li><li id="n-sitesupport"><a href="//www.vikidia.org/dons.html" rel="nofollow">Faire un don</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Imprimer / exporter</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Sp%C3%A9cial:Livre&amp;bookcmd=book_creator&amp;referer=Pretty+Good+Privacy">Créer un livre</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Sp%C3%A9cial:Livre&amp;bookcmd=render_article&amp;arttitle=Pretty+Good+Privacy&amp;returnto=Pretty+Good+Privacy&amp;oldid=1173327&amp;writer=rl">Télécharger comme PDF</a></li><li id="t-print"><a href="/w/index.php?title=Pretty_Good_Privacy&amp;printable=yes" title="Version imprimable de cette page [p]" accesskey="p">Version imprimable</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Sur d’autres projets</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-wp"><a href="//fr.wikipedia.org/wiki/Pretty_Good_Privacy" title="wp:Pretty Good Privacy" lang="wp" hreflang="wp" class="interlanguage-link-target">Wikipédia</a></li><li class="interlanguage-link interwiki-simple"><a href="//simple.wikipedia.org/wiki/Pretty_Good_Privacy" title="Pretty Good Privacy — Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li>					</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> <div id="donation-box" style="border: 1px solid #a7d7f9; font-size: 1.6em; font-weight: bold; text-align: center; line-height: 1.6; background-color: rgb(242, 237, 248); margin-bottom: 0;">
+<div style="float: left; transform: scaleX(-1); margin-left: 0.5em; margin-top: 0.2em;"><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=contact%40vikidia%2eorg&amp;lc=FR&amp;item_name=Association%20Vikidia%2c%20Encyclopedie%20pour%20enfants&amp;no_note=0&amp;currency_code=EUR&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHostedGuest" rel="nofollow"><img alt="Open Clip Art Library Piggy Bank.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Open_Clip_Art_Library_Piggy_Bank.svg/60px-Open_Clip_Art_Library_Piggy_Bank.svg.png" width="60" height="58" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Open_Clip_Art_Library_Piggy_Bank.svg/90px-Open_Clip_Art_Library_Piggy_Bank.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Open_Clip_Art_Library_Piggy_Bank.svg/120px-Open_Clip_Art_Library_Piggy_Bank.svg.png 2x" data-file-width="456" data-file-height="442" /></a></div>
+<div><a rel="nofollow" class="external text" href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=contact%40vikidia%2eorg&amp;lc=FR&amp;item_name=Association%20Vikidia%2c%20Encyclopedie%20pour%20enfants&amp;no_note=0&amp;currency_code=EUR&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHostedGuest">Vikidia est gratuite, mais sa diffusion a un coût...<br />2€, 20€, 50€... Clique ici pour faire un don !</a><div style="font-size: 0.5em; font-weight: normal; line-height: 1; padding-bottom: 0.3em; font-style: italic;"></div></div>
+</div>
+<div id="donation-box" style="margin-top: 0em; border: 1px solid #a7d7f9; font-size: 1.6em; font-weight: bold; text-align: center; line-height: 1.6; background-color: #FFFFFF;">
+<div style="float: left; margin-left: 1em; padding-top: 0.3em;"><a href="https://www.lilo.org/?utm_source=vikidia" rel="nofollow"><img alt="Logo-lilo.png" src="//download.vikidia.org/vikidia/fr/images/thumb/9/91/Logo-lilo.png/80px-Logo-lilo.png" width="80" height="28" srcset="//download.vikidia.org/vikidia/fr/images/thumb/9/91/Logo-lilo.png/120px-Logo-lilo.png 1.5x, //download.vikidia.org/vikidia/fr/images/thumb/9/91/Logo-lilo.png/160px-Logo-lilo.png 2x" data-file-width="221" data-file-height="77" /></a></div>
+<p><a rel="nofollow" class="external text" href="https://www.lilo.org/?utm_source=vikidia">Le saviez-vous ? Vous pouvez financer gratuitement Vikidia en utilisant le moteur de recherche solidaire Lilo.</a>
+</p>
+</div>
+<p><br />
+Par Vikidia, l’encyclopédie pour les jeunes, qui explique aux enfants et à ceux qui veulent une présentation simple d'un sujet.<br />
+Dernière modification de cette page le 15 novembre 2018 à 03:38.<br />
+</p></li>
+											<li id="footer-info-copyright">Le contenu est disponible sous licence <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-Share Alike 3.0</a> sauf mention contraire.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/Vikidia:Confidentialit%C3%A9" title="Vikidia:Confidentialité">Politique de confidentialité</a></li>
+											<li id="footer-places-about"><a href="/wiki/Vikidia:%C3%80_propos" title="Vikidia:À propos">À propos de Vikidia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Vikidia:Avertissements_g%C3%A9n%C3%A9raux" title="Vikidia:Avertissements généraux">Avertissements</a></li>
+											<li id="footer-places-mobileview"><a href="https://fr.vikidia.org/w/index.php?title=Pretty_Good_Privacy&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Version mobile</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://creativecommons.org/licenses/by-sa/3.0/"><img src="/w/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution-Share Alike 3.0" width="88" height="31"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script type="4c3f34a5f8f6af82ca4f416c-text/javascript">(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.032","walltime":"0.034","ppvisitednodes":{"value":212,"limit":1000000},"ppgeneratednodes":{"value":908,"limit":1000000},"postexpandincludesize":{"value":5056,"limit":2097152},"templateargumentsize":{"value":1388,"limit":2097152},"expansiondepth":{"value":6,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%   11.199      1 -total"," 26.85%    3.007      1 Modèle:À_simplifier"," 21.63%    2.422      1 Modèle:Portail"," 19.93%    2.232      1 Modèle:Méta_bandeau"," 14.10%    1.579      1 Modèle:Portail_information"," 11.03%    1.235      1 Modèle:Pdf","  9.01%    1.009      1 Modèle:Méta_lien_portail","  6.78%    0.759      1 Modèle:Indication_de_format","  3.11%    0.349      1 Modèle:---"]},"cachereport":{"timestamp":"20190308135413","ttl":86400,"transientcontent":false}}});});</script><!-- Piwik -->
+<script type="4c3f34a5f8f6af82ca4f416c-text/javascript">
+  var _paq = _paq || [];
+  _paq.push(["disableCookies"]);
+  _paq.push(["trackPageView"]);
+  _paq.push(["enableLinkTracking"]);
+
+  (function() {
+    var u = (("https:" == document.location.protocol) ? "https" : "http") + "://";
+    _paq.push(["setTrackerUrl", u+"stats.vikidia.org/"+"piwik.php"]);
+    _paq.push(["setSiteId", "1"]);
+    var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
+    g.defer=true; g.async=true; g.src=u+"download.vikidia.org/piwik.js"; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Piwik Code -->
+
+<!-- Piwik Image Tracker -->
+<noscript><img src="https://stats.vikidia.org/piwik.php?idsite=1&rec=1" style="border:0" alt="" /></noscript>
+<!-- End Piwik --><script type="4c3f34a5f8f6af82ca4f416c-text/javascript">(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":162});});</script>
+	<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/a2bd7673/cloudflare-static/rocket-loader.min.js" data-cf-settings="4c3f34a5f8f6af82ca4f416c-|49" defer=""></script></body>
+</html>
