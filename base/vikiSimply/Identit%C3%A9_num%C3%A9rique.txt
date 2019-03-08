@@ -1,0 +1,441 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="fr" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Identité numérique - Vikidia, l’encyclopédie des 8-13 ans</title>
+<script type="a25783594b4d35daf173be1c-text/javascript">document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script type="a25783594b4d35daf173be1c-text/javascript">(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Identité_numérique","wgTitle":"Identité numérique","wgCurRevisionId":1202224,"wgRevisionId":1202224,"wgArticleId":114807,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Article à simplifier","Article fruit d'un travail scolaire","Portail:Informatique/Pages liées","Informatique","Identité d'une personne"],"wgBreakFrames":false,"wgPageContentLanguage":"fr","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"],"wgMonthNamesShort":["","jan","fév","mar","avr","mai","juin","juil","août","sep","oct","nov","déc"],"wgRelevantPageName":"Identité_numérique","wgRelevantArticleId":114807,"wgRequestId":"b35e97963ef5e1c3432ce228","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVisualEditor":{"pageLanguageCode":"fr","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":false},"wgWikiEditorEnabledModules":{"toolbar":true,"preview":true,"publish":false},"wgPreferredVariant":"fr","wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.visualEditor.desktopArticleTarget.noscript":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1x2qlv5",function($,jQuery,require,module){mw.user.options.set({"variant":"fr"});});mw.loader.implement("user.tokens@091j2g3",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.gadget.InviteDiscussion","ext.gadget.Edittools","mmv.head","mmv.bootstrap.autostart","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="//download.vikidia.org/fr.vikidia.org/load.php?debug=false&amp;lang=fr&amp;modules=ext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="//download.vikidia.org/fr.vikidia.org/load.php?debug=false&amp;lang=fr&amp;modules=startup&amp;only=scripts&amp;skin=vector" type="a25783594b4d35daf173be1c-text/javascript"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="//download.vikidia.org/fr.vikidia.org/load.php?debug=false&amp;lang=fr&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.2"/>
+<link rel="alternate" type="application/x-wiki" title="Modifier" href="/w/index.php?title=Identit%C3%A9_num%C3%A9rique&amp;action=edit"/>
+<link rel="edit" title="Modifier" href="/w/index.php?title=Identit%C3%A9_num%C3%A9rique&amp;action=edit"/>
+<link rel="shortcut icon" href="//download.vikidia.org/vikidia/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Vikidia (fr)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://fr.vikidia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Flux Atom de Vikidia" href="/w/index.php?title=Sp%C3%A9cial:Modifications_r%C3%A9centes&amp;feed=atom"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Identité_numérique rootpage-Identité_numérique skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="fr">Identité numérique</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">« Identité numérique » expliqué aux enfants par Vikidia, l’encyclopédie junior</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Aller à :					<a href="#mw-head">navigation</a>, 					<a href="#p-search">rechercher</a>
+				</div>
+				<div id="mw-content-text" lang="fr" dir="ltr" class="mw-content-ltr"><table class="bandeau plainlinks" style="width: 70%; margin: auto; margin-bottom: 10px; text-align: center; background-color: #FFFCCC; border: 1px solid #CC9900; border-right-width: 2px; border-bottom-width: 2px;">
+<tr>
+<td style="width: 10%;">
+<div><img alt="Simplifier" src="//download.vikidia.org/vikidia/fr/images/c/c1/Confusion.gif" title="Simplifier" width="35" height="35" data-file-width="35" data-file-height="35" /></div>
+</td>
+<td>
+<div style=""><b>Cet article semble trop confus et / ou trop compliqué.</b> </div>
+<div style="">N’hésitez pas à le <b><a rel="nofollow" class="external text" href="https://fr.vikidia.org/w/index.php?title=Identit%C3%A9_num%C3%A9rique&amp;action=edit">simplifier</a></b> ou à <b><a rel="nofollow" class="external text" href="https://fr.vikidia.org/w/index.php?title=Discussion:Identit%C3%A9_num%C3%A9rique&amp;action=edit&amp;section=new">donner votre avis</a></b>.<br /><span style="font-size: 90%;"><a href="/wiki/Aide:R%C3%A9sum%C3%A9_de_la_syntaxe_wiki" title="Aide:Résumé de la syntaxe wiki">Aide sur la syntaxe wiki</a> – <a href="/wiki/Aide:Comment_%C3%A9crire_un_article_%3F" class="mw-redirect" title="Aide:Comment écrire un article ?">Conseils de rédaction</a></span></div>
+</td>
+
+</tr>
+</table>
+<p>L’<b>identité numérique</b> c'est l'ensemble des informations que l'on trouve sur vous sur internet. On dit aussi que c'est l'image numérique d'une personne sur Internet. L'identité numérique se compose de traces volontaires, involontaires (aussi appelées traces informatiques) et héritées que nous laissons sur <a href="/wiki/Internet" title="Internet">Internet</a> après chaque connexion.
+</p><p>Il existe trois types de traces : 
+</p>
+<ul><li> Les traces volontaires sont toutes les données publiées par l'internaute sur les <a href="/wiki/R%C3%A9seaux_sociaux" class="mw-redirect" title="Réseaux sociaux">réseaux sociaux</a> par exemple.</li>
+<li> Les traces involontaires ( aussi appelées traces informatiques) correspondent à l'<a href="/wiki/Adresse_IP" title="Adresse IP">adresse IP</a> et renseignent parfois sur le lieu où se trouve l'internaute ainsi que les sites consultés.</li>
+<li> Les traces héritées correspondent à tout ce que les autres disent sur l'internaute en commentant ses publications.</li></ul>
+<div id="toc" class="toc"><div id="toctitle" class="toctitle"><h2>Sommaire</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Les_traces_volontaires"><span class="tocnumber">1</span> <span class="toctext">Les traces volontaires</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Les_traces_involontaires_ou_informatiques"><span class="tocnumber">2</span> <span class="toctext">Les traces involontaires ou informatiques</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Les_traces_h.C3.A9rit.C3.A9es"><span class="tocnumber">3</span> <span class="toctext">Les traces héritées</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#G.C3.A9olocalisation_:_puces_.C3.A9lectroniques.2C_smartphones..."><span class="tocnumber">4</span> <span class="toctext">Géolocalisation : puces électroniques, smartphones...</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Les_r.C3.A9seaux_sociaux_et_l.E2.80.99identit.C3.A9_num.C3.A9rique"><span class="tocnumber">5</span> <span class="toctext">Les réseaux sociaux et l’identité numérique</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Classification_des_r.C3.A9seaux_sociaux"><span class="tocnumber">5.1</span> <span class="toctext">Classification des réseaux sociaux</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Comment_bien_r.C3.A9gler_les_param.C3.A8tres_de_confidentialit.C3.A9_sur_Facebook"><span class="tocnumber">6</span> <span class="toctext">Comment bien régler les paramètres de confidentialité sur Facebook</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Sitographie"><span class="tocnumber">7</span> <span class="toctext">Sitographie</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#La_libert.C3.A9_d.27expression_sur_le_Net"><span class="tocnumber">8</span> <span class="toctext">La liberté d'expression sur le Net</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#L.E2.80.99usurpation_d.E2.80.99identit.C3.A9"><span class="tocnumber">9</span> <span class="toctext">L’usurpation d’identité</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Le_droit_.C3.A0_l.E2.80.99oubli"><span class="tocnumber">10</span> <span class="toctext">Le droit à l’oubli</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Que_dit_la_loi_.3F"><span class="tocnumber">11</span> <span class="toctext">Que dit la loi ?</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Respect"><span class="tocnumber">11.1</span> <span class="toctext">Respect</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Surfer_tranquille"><span class="tocnumber">11.2</span> <span class="toctext">Surfer tranquille</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Les_traces_volontaires">Les traces volontaires</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Identit%C3%A9_num%C3%A9rique&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Modifier la section : Les traces volontaires">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Identit%C3%A9_num%C3%A9rique&amp;action=edit&amp;section=1" title="Modifier la section : Les traces volontaires">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Les traces volontaires sont des informations sur sa vie privée publiées volontairement par l’internaute. Cela peut correspondre au profil rempli sur les <a href="/wiki/R%C3%A9seaux_sociaux" class="mw-redirect" title="Réseaux sociaux">réseaux sociaux</a>, les messages et photos publiés. Mais aussi les <a href="/wiki/CV" class="mw-redirect" title="CV">CV</a>, l'itinéraire de covoiturage laissé sur un site spécialisé...
+</p>
+<table style="width: 90%; margin: auto; margin-bottom: 0.5em; background-color: transparent;" cellpadding="0" cellspacing="0">
+<tr>
+<td colspan="2">
+</td>
+<td rowspan="2" style="width: 187px; height: 37px; vertical-align: top; background:#ffddff; border: 1px solid #BE66CC; border-bottom: 0;"><a href="/wiki/Fichier:Le_savais-tu.png" class="image"><img alt="Le savais-tu.png" src="//download.vikidia.org/vikidia/fr/images/7/7a/Le_savais-tu.png" width="187" height="37" data-file-width="187" data-file-height="37" /></a><div style="margin-top:-33px; padding-left:43px"> <span style="font-size: 150%;">Le savais-tu ?</span></div>
+</td></tr>
+<tr>
+<td style="width:1px; border-bottom:1px solid #BE66CC">
+</td>
+<td style="-moz-border-radius-topright:5em; border-top-right-radius:5em; border:1px solid #BE66CC; background:#ffddff; border-bottom:1px dotted #BE66CC; text-align:center; font-size:95%; width:90%; padding-left: 5px;"> <b><span style="font-size: 150%;">Une responsabilité de l'auteur sur ses données</span></b>
+</td></tr>
+<tr>
+<td colspan="3" style="z-index:0;padding:2px; background:#FFeeFF; border:1px solid #BE66CC; border-top:0; border-bottom:1" width="50%" valign="top"> Tout ce que vous enregistrez (texte, image, son, localisation) sur un site est de votre propre responsabilité.
+</td></tr></table>
+<ul><li> La responsabilité de l'internaute :</li></ul>
+Ces traces seront toujours publiques : tout ce qui est publié reste stocké sur des serveurs, rien n'est totalement effaçable. Elles constituent l'identité numérique d'une personne : leur addition peut permettre de retrouver toutes les facettes de sa personnalité, de sa vie sociale ou professionnelle. <blockquote> Donc. Réfléchissez avant de publier un commentaire, une publication, etc !</blockquote>
+<ul><li> Comment limiter ses traces sur Internet ? Il faut réfléchir en amont aux informations que tu souhaites partager. Tu peux utiliser un pseudonyme pour protéger ta véritable identité.</li></ul>
+<h2><span class="mw-headline" id="Les_traces_involontaires_ou_informatiques">Les traces involontaires ou informatiques</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Identit%C3%A9_num%C3%A9rique&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Modifier la section : Les traces involontaires ou informatiques">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Identit%C3%A9_num%C3%A9rique&amp;action=edit&amp;section=2" title="Modifier la section : Les traces involontaires ou informatiques">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Comment apparaissent-elles sur la toile ?<br />
+À partir du moment où nous nous connectons à Internet, nous laissons systématiquement des traces. L’adresse IP permet à notre ordinateur d’être identifié sur le réseau Internet. Elle permet aussi de collecter des informations comme :
+</p>
+<ul><li> l’heure de votre connexion,</li>
+<li> les sites que vous avez visités, le temps que vous passé dessus, les pages consultées, les documents téléchargés,</li>
+<li> les mots-clés de vos recherches.</li></ul>
+<p>Les cookies<br />
+Des logiciels "espions" appelés « cookies » s’installent sur votre ordinateur et enregistrent toutes vos recherches. Par la suite, ils peuvent dresser un profil de l’internaute : ses goûts musicaux, ses destinations touristiques, sa profession…<br />
+Les <a href="/wiki/Cookie_(informatique)" class="mw-redirect" title="Cookie (informatique)">cookies</a> peuvent aussi nous suivre sur les sites commerciaux et donc nous faire des offres pour inciter l’achat.
+</p>
+<h2><span class="mw-headline" id="Les_traces_h.C3.A9rit.C3.A9es">Les traces héritées</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Identit%C3%A9_num%C3%A9rique&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Modifier la section : Les traces héritées">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Identit%C3%A9_num%C3%A9rique&amp;action=edit&amp;section=3" title="Modifier la section : Les traces héritées">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Les traces héritées c'est ce que les autres disent d'une personne en commentant ses travaux, en citant ses publications, en partageant son travail ou ses photos, en créant des liens…
+</p>
+<h2><span class="mw-headline" id="G.C3.A9olocalisation_:_puces_.C3.A9lectroniques.2C_smartphones...">Géolocalisation : puces électroniques, smartphones...</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Identit%C3%A9_num%C3%A9rique&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Modifier la section : Géolocalisation : puces électroniques, smartphones...">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Identit%C3%A9_num%C3%A9rique&amp;action=edit&amp;section=4" title="Modifier la section : Géolocalisation : puces électroniques, smartphones...">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Les <a href="/wiki/Circuit_int%C3%A9gr%C3%A9" title="Circuit intégré">puces électroniques</a> dans nos portables :
+</p>
+<ul><li> Les puces électroniques se trouvent surtout dans les portables (Androïdes ; Ios ; Windows …), ce qui permet leur géolocalisation.</li>
+<li> Qu’est-ce que la géolocalisation ? La <a href="/wiki/G%C3%A9olocalisation" title="Géolocalisation">géolocalisation</a> est une technologie permettant de situer un objet (comme un smartphone) ou une personne avec une certaine précision. Cette technologie utilise généralement le système GPS d’un téléphone mobile.</li></ul>
+<h2><span class="mw-headline" id="Les_r.C3.A9seaux_sociaux_et_l.E2.80.99identit.C3.A9_num.C3.A9rique">Les réseaux sociaux et l’identité numérique</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Identit%C3%A9_num%C3%A9rique&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Modifier la section : Les réseaux sociaux et l’identité numérique">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Identit%C3%A9_num%C3%A9rique&amp;action=edit&amp;section=5" title="Modifier la section : Les réseaux sociaux et l’identité numérique">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Classification_des_r.C3.A9seaux_sociaux">Classification des réseaux sociaux</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Identit%C3%A9_num%C3%A9rique&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Modifier la section : Classification des réseaux sociaux">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Identit%C3%A9_num%C3%A9rique&amp;action=edit&amp;section=6" title="Modifier la section : Classification des réseaux sociaux">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li> <u><a href="/wiki/Instagram" title="Instagram">Instagram</a></u> : Instagram est un réseau social pour mettre sur ton compte de beaux clichés.</li></ul>
+<p>À quoi ça sert ? À partager des photos avec tes « followers » (personnes qui sont abonnées à ton profil). Tu peux réaliser des vidéos ou aussi envoyer des « instadirect » qui sont des messages personnels que personne ne peut voir à part le follower à qui tu l’envoies.
+</p>
+<ul><li> <u><a href="/wiki/Snapchat" title="Snapchat">Snapchat</a></u> : Snapchat est un réseau social qui sert à envoyer des messages « fantômes ».</li></ul>
+<p>À quoi ça sert ? Tu peux envoyer des messages, photos ou vidéos qui vont soi-disant « s’autodétruire » au bout de quelque secondes.
+</p>
+<ul><li> <u><a href="/wiki/Facebook" title="Facebook">Facebook</a></u><a href="/wiki/Facebook" title="Facebook"> </a>: Facebook est un réseau social, surnommé le « dinosaure ». Tu peux montrer des publications dans lesquelles tu es identifié(e) auprès de tous tes amis sauf à ta liste « amis de maternelle ».</li></ul>
+<p>À quoi ça sert ? tu peux discuter avec tes amis, retrouver des amis de maternelle, partager des vidéos, des photos, des « statuts », discuter avec tes amis, suivre les pages de stars… C’EST INTERDIT AUX ENFANTS DE MOINS DE 13 ANS !
+</p>
+<ul><li> <u><a href="/wiki/Ask.fm" title="Ask.fm">Ask.fm</a></u> : Ask est un réseau social qui permet de poser des questions anonymes.</li></ul>
+<p>À quoi ça sert ? Tu peux recevoir des questions d’autres utilisateurs, identifiés ou très souvent anonymes. Attention tout est public, et c’est souvent « trash » : harcèlement, humiliation facile, et insultes ne sont pas rares.
+</p>
+<ul><li> Qu'est-ce qu'un ami virtuel ?</li>
+<li> Les bonnes questions à se poser avant de publier </li>
+<li> Bien régler les paramètres de confidentialité</li></ul>
+<h2><span class="mw-headline" id="Comment_bien_r.C3.A9gler_les_param.C3.A8tres_de_confidentialit.C3.A9_sur_Facebook">Comment bien régler les paramètres de confidentialité sur Facebook</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Identit%C3%A9_num%C3%A9rique&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Modifier la section : Comment bien régler les paramètres de confidentialité sur Facebook">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Identit%C3%A9_num%C3%A9rique&amp;action=edit&amp;section=7" title="Modifier la section : Comment bien régler les paramètres de confidentialité sur Facebook">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Pour avoir Facebook, il faut : 
+</p>
+<ul><li> avoir l’âge demandé,</li>
+<li> utiliser un surnom ou un avatar,</li>
+<li> ne publier aucune photo compromettante.</li></ul>
+<ul><li> Il faut commencer par se rendre sur les paramètres de confidentialité de ton compte Facebook.</li>
+<li> Ensuite, veille à activer l'examen du profil : lorsqu'un ami t’identifie sur une photo, tu devras d'abord la confirmer avant qu'elle ne se retrouve sur ton profil. </li>
+<li> L'indication de ta position permet à tes amis de publier où tu te trouves. À toi de choisir d'activer ou non cette fonctionnalité.</li>
+<li> Pense à désactiver la recherche : ce dernier permet de trouver ton profil à partir d'un moteur de recherche.</li></ul>
+<p>Pour bloquer une personne sur Facebook, il faut:
+</p>
+<ul><li> que tu te rendes sur "Personnes bloquées" et taper le nom de la personne ou simplement aller sur le profil de la personne, en bas à gauche il y a "Signaler ou bloquer cette personne"."Cocher "Bloquer" dans la fenêtre qui s'affiche.</li>
+<li> Tu dois créer des listes d'amis personnalisées et utiliser les listes Restreint et Connaissances : lorsque tu publies un statut sur la qualité de vos vacances, la liste "Hiérarchie" est sans doute à exclure de l'audience de cette publication.</li></ul>
+<ul><li><i>confidentialité</i> : caractère de ce qui est confidentiel, qui ne doit pas être rapporté publiquement.</li></ul>
+<h2><span class="mw-headline" id="Sitographie">Sitographie</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Identit%C3%A9_num%C3%A9rique&amp;veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Modifier la section : Sitographie">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Identit%C3%A9_num%C3%A9rique&amp;action=edit&amp;section=8" title="Modifier la section : Sitographie">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li> <a rel="nofollow" class="external text" href="http://www.commentcamarche.net/faq/27810-parametres-de-confidentialite-facebook">Paramètres de confidentialité Facebook - Comment Ça Marche.net</a></li>
+<li> <a rel="nofollow" class="external text" href="http://0640143h.esidoc.fr/">CDI Collège St Amand, Bayonne-64</a></li>
+<li> * <a rel="nofollow" class="external text" href="http://www.univ-bpclermont.fr/Ressources_Num/Les_reseaux_sociaux_web_web/co/3-1_Traces_volontaires.html">Traces volontaires</a></li></ul>
+<h2><span class="mw-headline" id="La_libert.C3.A9_d.27expression_sur_le_Net">La liberté d'expression sur le Net</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Identit%C3%A9_num%C3%A9rique&amp;veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Modifier la section : La liberté d'expression sur le Net">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Identit%C3%A9_num%C3%A9rique&amp;action=edit&amp;section=9" title="Modifier la section : La liberté d'expression sur le Net">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li> <a rel="nofollow" class="external text" href="http://1jour1actu.com/info-animee/cestquoila-liberte-dexpression/">La liberté d’expression sur le net…</a></li></ul>
+<p>Internet est en effet un des rares médias où tout citoyen peut - avec des moyens modestes - exprimer ses opinions à un niveau mondial, sans interdiction. Cet état de fait semble effrayer certains politiques et organismes gouvernementaux. Et pourtant : <a href="/wiki/D%C3%A9claration_universelle_des_droits_de_l%27homme" title="Déclaration universelle des droits de l'homme">Déclaration universelle des droits de l'homme</a> (décembre 1948, Assemblée générale de l'ONU)
+</p>
+<dl><dd> Article 11. - La libre communication des pensées et des opinions est un des droits les plus précieux de l'homme ; tout citoyen peut donc parler, écrire, imprimer librement, sauf à répondre de l'abus de cette liberté dans les cas déterminés par la loi.</dd>
+<dd> Article 19. - Tout individu a droit à la liberté d'opinion et d'expression, ce qui implique le droit de ne pas être inquiété pour ses opinions et celui de chercher, de recevoir et de répandre, sans considérations de frontières, les informations et les idées par quelque moyen d'expression que ce soit.</dd></dl>
+<ul><li> <a rel="nofollow" class="external text" href="http://sebsauvage.net/liberte.html">La liberté d’expression</a>, est-elle valable partout dans le monde ? Malheureusement non ! Certains pays ont une vision de la liberté très poussée tandis que d’autres sont très <span style="cursor:help;border-bottom:1px dotted black;" title="mettent de nombreuses limites">restrictifs<span style="position:relative; top:-0.3em;"><img alt="" src="//download.vikidia.org/vikidia/fr/images/thumb/9/9f/Interrogation.svg/12px-Interrogation.svg.png" width="12" height="12" srcset="//download.vikidia.org/vikidia/fr/images/thumb/9/9f/Interrogation.svg/18px-Interrogation.svg.png 1.5x, //download.vikidia.org/vikidia/fr/images/thumb/9/9f/Interrogation.svg/24px-Interrogation.svg.png 2x" data-file-width="233" data-file-height="233" /></span></span>, dans le domaine de la liberté d’expression.</li></ul>
+<h2><span class="mw-headline" id="L.E2.80.99usurpation_d.E2.80.99identit.C3.A9">L’usurpation d’identité</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Identit%C3%A9_num%C3%A9rique&amp;veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Modifier la section : L’usurpation d’identité">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Identit%C3%A9_num%C3%A9rique&amp;action=edit&amp;section=10" title="Modifier la section : L’usurpation d’identité">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>L'usurpation d'identité, qui ne veut pas dire vol d’identité, est le fait de prendre sans son accord l'identité d'une autre personne vivante, généralement dans le but de réaliser des mauvaises actions commerciales, civiles ou en rapport avec la loi, ou de commettre en son nom un <a href="/wiki/D%C3%A9lit" title="Délit">délit</a> ou un <a href="/wiki/Crime" title="Crime">crime</a>, ou d'accéder à des droits de façon exagérée.
+</p><p>L’usurpation d’identité débute toujours par la collecte de renseignements personnels sur la victime. Les renseignements personnels peuvent être le nom, le numéro de téléphone, la date de naissance, la famille, l’adresse, le numéro d’assurance sociale, le numéro de carte de crédit, le mot de passe de carte de crédit ou de débit ou toute autre information permettant d’identifier la personne. La victime de l'usurpation d'identité reste vivante, et possède donc la possibilité de défendre ses droits.
+</p><p>Les usurpateurs utilisent ensuite ces informations pour effectuer un ou plusieurs transferts en <span style="cursor:help;border-bottom:1px dotted black;" title="imiter, se faire passer pour">simulant<span style="position:relative; top:-0.3em;"><img alt="" src="//download.vikidia.org/vikidia/fr/images/thumb/9/9f/Interrogation.svg/12px-Interrogation.svg.png" width="12" height="12" srcset="//download.vikidia.org/vikidia/fr/images/thumb/9/9f/Interrogation.svg/18px-Interrogation.svg.png 1.5x, //download.vikidia.org/vikidia/fr/images/thumb/9/9f/Interrogation.svg/24px-Interrogation.svg.png 2x" data-file-width="233" data-file-height="233" /></span></span> l’identité de la personne <a href="/w/index.php?title=Fraude&amp;action=edit&amp;redlink=1" class="new" title="Fraude (page inexistante)">fraudée</a>.
+</p><p>Le <b>vol d'identité</b> suppose un acte criminel connexe. La victime, décédée, n'est plus en mesure de recouvrer ses droits. Elle est généralement enterrée avec l'identité de quelqu'un d'autre. En cas de vol d'identité, on observe plusieurs types de cas : des usurpateurs prennent la place de la victime ou bien le cadavre de la victime sert à confirmer le décès d'une personne qui souhaite disparaître. Il ne faut donc pas confondre le vol d'identité et l'usurpation d'identité.
+</p><p>Principales techniques utilisées par les fraudeurs pour obtenir des renseignements personnels :
+</p>
+<ul><li> le vol : les porte-monnaie, les sacs à main, les porte-documents, les ordinateurs et le courrier contiennent une grande quantité de renseignements personnels ;</li>
+<li> le vol dans les boîtes aux lettres : permet d'obtenir des moyens de paiement (Carte Bancaire, chéquier), des relevés d'identités bancaires, des factures. Tout cela s'avère très utile aux usurpateurs pour obtenir des crédits ;</li>
+<li> la fouille de poubelle : on peut y trouver des relevés bancaires, des relevés de carte de crédit, des factures, des propositions de cartes de crédit.</li></ul>
+<p>La voie numérique ou informatique est de loin la moins utilisée. Voir enquête du CREDOC (centre de recherche pour l'étude et l'observation des conditions de vie) et du CSA (conseil supérieur audiovisuel)
+</p>
+<ul><li> Le vol de mots de passe : il est possible de voler un mot de passe en regardant par-dessus l’épaule d’un individu qui écrit son mot de passe sur un clavier, en installant une caméra dans un endroit stratégique ou en utilisant un enregistreur de frappe ;</li>
+<li> L'intrusion locale sur le navigateur : il est possible à un intrus de reprendre une page sur un site quand l'utilisateur a simplement fermé l'onglet où il opérait, en utilisant l'historique du navigateur. L'intrus local peut alors accéder aux informations du profil, les modifier, les détourner etc. et usurper l'identité de l'utilisateur. L'usurpateur peut librement effectuer des vols au détriment de l'utilisateur légitime ;</li>
+<li> L’écoute électronique : des fraudeurs peuvent placer des appareils d’écoute entre un terminal de validation de cartes de crédit et le réseau de communications pour capter les numéros de carte de crédit et les mots de passe des acheteurs ;</li>
+<li> L’hameçonnage (ou <i>phishing</i>): il consiste à imiter des messages électroniques de compagnies légitimes qui demandent des informations personnelles à la victime ; évidemment, les réponses des répondeurs naïfs sont reçues par des fraudeurs qui utilisent ensuite ces informations pour tromper leurs victimes ;</li>
+<li> Les escroqueries par téléphone : des fraudeurs se font passer pour des fonctionnaires, des enquêteurs ou des employés de vraies entreprises pour <span style="cursor:help;border-bottom:1px dotted black;" title="voler, récupérer">soutirer<span style="position:relative; top:-0.3em;"><img alt="" src="//download.vikidia.org/vikidia/fr/images/thumb/9/9f/Interrogation.svg/12px-Interrogation.svg.png" width="12" height="12" srcset="//download.vikidia.org/vikidia/fr/images/thumb/9/9f/Interrogation.svg/18px-Interrogation.svg.png 1.5x, //download.vikidia.org/vikidia/fr/images/thumb/9/9f/Interrogation.svg/24px-Interrogation.svg.png 2x" data-file-width="233" data-file-height="233" /></span></span> des renseignements personnels.</li></ul>
+<h2><span class="mw-headline" id="Le_droit_.C3.A0_l.E2.80.99oubli">Le droit à l’oubli</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Identit%C3%A9_num%C3%A9rique&amp;veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="Modifier la section : Le droit à l’oubli">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Identit%C3%A9_num%C3%A9rique&amp;action=edit&amp;section=11" title="Modifier la section : Le droit à l’oubli">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Le droit à l'oubli est un système qui a été discuté et mis en pratique dans l'Union européenne et en Argentine à la toute fin du XXe siècle. Il permet à une personne de demander d’enlever certaines informations qui pourraient lui poser des problèmes sur des actions qu'elle a faites dans le passé. Le droit à l'oubli s'applique soit par le retrait de l'information sur le site d'origine, on parle alors du <b>droit à l'effacement</b>, soit par une suppression du site par les moteurs de recherches, on parle alors du <b>droit au déréférencement</b>.
+</p>
+<h2><span class="mw-headline" id="Que_dit_la_loi_.3F">Que dit la loi ?</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Identit%C3%A9_num%C3%A9rique&amp;veaction=edit&amp;section=12" class="mw-editsection-visualeditor" title="Modifier la section : Que dit la loi ?">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Identit%C3%A9_num%C3%A9rique&amp;action=edit&amp;section=12" title="Modifier la section : Que dit la loi ?">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Il est conseillé :
+</p>
+<ul><li> De savoir pourquoi les données personnelles sont demandées, pourquoi sont-elles utilisées et combien de temps seront-elles conservées.</li>
+<li> De demander à tous les sites de consulter les données qui concernent la vie privée et de les modifier.</li>
+<li> De refuser que l’on utilise ces données pour envoyer de la publicité.</li>
+<li> De dire non si l’envie de publier une photo concernant certaines données personnelles n’est pas présente.</li>
+<li> De porter plainte si des amis ou des personnes inconnues mettent certaines images sur des données personnelles en ligne sans accord ou si l’on se fait passer pour quelqu'un d’autre.</li>
+<li> De faire retirer toutes les photos indésirables publiées sans autorisation.</li></ul>
+<h3><span class="mw-headline" id="Respect">Respect</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Identit%C3%A9_num%C3%A9rique&amp;veaction=edit&amp;section=13" class="mw-editsection-visualeditor" title="Modifier la section : Respect">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Identit%C3%A9_num%C3%A9rique&amp;action=edit&amp;section=13" title="Modifier la section : Respect">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Il est conseillé :
+</p>
+<ul><li> Que la <a href="/wiki/E-r%C3%A9putation" title="E-réputation">réputation</a> personnelle et familiale soient respectées.</li>
+<li> De ne pas se laisser <a href="/wiki/Harc%C3%A8lement" title="Harcèlement">harceler</a>. Les conflits se règlent souvent en parlant. Si c’est grave et que cela ne s’arrête pas, il faut porter plainte.</li>
+<li> De demander de l’aide aux sites ou aux jeux fréquentés. Les modérateurs sont là pour que ça se passe bien.</li>
+<li> Si aucune discussion n’est possible, il faut demander à supprimer les comptes des gens menaçants ou insultants.</li></ul>
+<h3><span class="mw-headline" id="Surfer_tranquille">Surfer tranquille</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Identit%C3%A9_num%C3%A9rique&amp;veaction=edit&amp;section=14" class="mw-editsection-visualeditor" title="Modifier la section : Surfer tranquille">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Identit%C3%A9_num%C3%A9rique&amp;action=edit&amp;section=14" title="Modifier la section : Surfer tranquille">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Il est conseillé :
+</p>
+<ul><li> Ne pas être exposé à des images choquantes.</li>
+<li> Ne pas se faire manipuler ou aborder par des adultes.</li></ul>
+<table class="bandeau plainlinks" style="width: 70%; margin: auto; margin-bottom: 10px; text-align: center; background-color: #d9fff6; border: 1px solid transparent; border-right-width: 2px; border-bottom-width: 2px;width: 33%; float: right; margin: 0 0 10px 20px;">
+<tr>
+<td style="width: 10%;">
+<div><img alt="Article fruit d&#39;un travail scolaire" src="//download.vikidia.org/vikidia/fr/images/thumb/5/52/Nuvola_apps_edu_miscellaneous.png/40px-Nuvola_apps_edu_miscellaneous.png" title="Article fruit d&#39;un travail scolaire" width="40" height="40" srcset="//download.vikidia.org/vikidia/fr/images/thumb/5/52/Nuvola_apps_edu_miscellaneous.png/60px-Nuvola_apps_edu_miscellaneous.png 1.5x, //download.vikidia.org/vikidia/fr/images/thumb/5/52/Nuvola_apps_edu_miscellaneous.png/80px-Nuvola_apps_edu_miscellaneous.png 2x" data-file-width="200" data-file-height="200" /></div>
+</td>
+<td>
+<div style="text-align: left;"><center><font face="Comic sans MS">Cet article a été créé ou enrichi <a href="/wiki/Vikidia:Projets_p%C3%A9dagogiques" title="Vikidia:Projets pédagogiques">dans le cadre d'une classe</a>.</font><br /><small><i><a href="/wiki/Cat%C3%A9gorie:Article_fruit_d%27un_travail_scolaire" title="Catégorie:Article fruit d'un travail scolaire">Autres articles fruits d'un travail scolaire</a></i></small></center></div>
+</td>
+
+</tr>
+</table>. 
+<table class="multi-banner" style="width: 100%; clear: both; margin: 0; background-color: transparent; padding: 0;">
+
+<tr style="vertical-align: middle;">
+<td> <center>
+<table style="clear: both; margin-top: 12px; border-left: 4px solid #FFD133; width: 90%; background: #FFF799; border-radius: 2px;">
+<tr>
+<td style="padding: 3px; text-align: left;"><img alt="" src="//download.vikidia.org/vikidia/fr/images/thumb/3/35/Tux.svg/30px-Tux.svg.png" width="30" height="35" srcset="//download.vikidia.org/vikidia/fr/images/thumb/3/35/Tux.svg/45px-Tux.svg.png 1.5x, //download.vikidia.org/vikidia/fr/images/thumb/3/35/Tux.svg/60px-Tux.svg.png 2x" data-file-width="335" data-file-height="394" />
+</td>
+<td width="90%" style="font-size: 15px;"> <b><a href="/wiki/Portail:Informatique" title="Portail:Informatique">Portail de l'informatique</a></b> &#32;&#8212;  Tous les articles sur son histoire, les logiciels, Internet…
+</td></tr></table>
+</center>
+</td>
+<td>
+</td></tr></table>
+<table class="multi-banner" style="width: 100%; clear: both; margin: 0; background-color: transparent; padding: 0;">
+
+<tr style="vertical-align: middle;">
+<td>
+</td>
+<td>
+</td></tr></table>
+<table class="multi-banner" style="width: 100%; clear: both; margin: 0; background-color: transparent; padding: 0;">
+
+<tr style="vertical-align: middle;">
+<td>
+</td>
+<td>
+</td></tr></table>
+
+<!-- 
+NewPP limit report
+Cached time: 20190308071923
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.036 seconds
+Real time usage: 0.037 seconds
+Preprocessor visited node count: 264/1000000
+Preprocessor generated node count: 1025/1000000
+Post‐expand include size: 8349/2097152 bytes
+Template argument size: 2265/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 0/100
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    8.541      1 -total
+ 34.81%    2.973      1 Modèle:Simplifier
+ 28.67%    2.449      2 Modèle:Méta_bandeau
+ 27.85%    2.379      1 Modèle:Portail
+ 19.27%    1.646      1 Modèle:Portail_Informatique
+ 13.04%    1.114      1 Modèle:Le_savais-tu
+ 10.74%    0.917      1 Modèle:Article_fruit_d'un_travail_scolaire
+ 10.46%    0.893      1 Modèle:Méta_lien_portail
+  8.38%    0.716      3 Modèle:Info
+  5.75%    0.491      2 Modèle:Taille
+-->
+
+<!-- Saved in parser cache with key vikidia_fr-wk_:pcache:idhash:114807-0!*!0!!fr!3!* and timestamp 20190308071923 and revision id 1202224
+ -->
+</div>					<div class="printfooter">
+						Récupérée de « <a dir="ltr" href="https://fr.vikidia.org/w/index.php?title=Identité_numérique&amp;oldid=1202224">https://fr.vikidia.org/w/index.php?title=Identité_numérique&amp;oldid=1202224</a> »					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Sp%C3%A9cial:Cat%C3%A9gories" title="Spécial:Catégories">Catégories</a> : <ul><li><a href="/wiki/Cat%C3%A9gorie:Informatique" title="Catégorie:Informatique">Informatique</a></li><li><a href="/wiki/Cat%C3%A9gorie:Identit%C3%A9_d%27une_personne" title="Catégorie:Identité d'une personne">Identité d'une personne</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Catégories cachées : <ul><li><a href="/wiki/Cat%C3%A9gorie:Article_%C3%A0_simplifier" title="Catégorie:Article à simplifier">Article à simplifier</a></li><li><a href="/wiki/Cat%C3%A9gorie:Article_fruit_d%27un_travail_scolaire" title="Catégorie:Article fruit d'un travail scolaire">Article fruit d'un travail scolaire</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:Informatique/Pages_li%C3%A9es" title="Catégorie:Portail:Informatique/Pages liées">Portail:Informatique/Pages liées</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Menu de navigation</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Outils personnels</h3>
+						<ul>
+							<li id="pt-anonuserpage">Non connecté</li><li id="pt-anontalk"><a href="/wiki/Sp%C3%A9cial:Mes_discussions" title="La page de discussion pour les contributions depuis cette adresse IP [n]" accesskey="n">Discussion</a></li><li id="pt-anoncontribs"><a href="/wiki/Sp%C3%A9cial:Mes_contributions" title="Une liste des modifications effectuées depuis cette adresse IP [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&amp;returnto=Identit%C3%A9+num%C3%A9rique" title="Il vous est conseillé de créer un compte et de vous connecter ; cependant, ce n’est pas obligatoire">Créer un compte</a></li><li id="pt-login"><a href="/w/index.php?title=Sp%C3%A9cial:Connexion&amp;returnto=Identit%C3%A9+num%C3%A9rique" title="Il est recommandé de vous identifier ; ce n'est cependant pas obligatoire. [o]" accesskey="o">Se connecter</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Espaces de noms</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Identit%C3%A9_num%C3%A9rique"  title="Voir la page de contenu [m]" accesskey="m">Page</a></span></li>
+															<li  id="ca-talk" class="new"><span><a href="/w/index.php?title=Discussion:Identit%C3%A9_num%C3%A9rique&amp;action=edit&amp;redlink=1"  title="Discussion au sujet de cette page de contenu [d]" accesskey="d" rel="discussion">Discussion</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variantes</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Affichages</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Identit%C3%A9_num%C3%A9rique" >Lire</a></span></li>
+															<li id="ca-ve-edit"><span><a href="/w/index.php?title=Identit%C3%A9_num%C3%A9rique&amp;veaction=edit"  title="Modifier cette page [v]" accesskey="v">Modifier</a></span></li>
+															<li id="ca-edit" class=" collapsible"><span><a href="/w/index.php?title=Identit%C3%A9_num%C3%A9rique&amp;action=edit"  title="Modifier le wikicode [m]" accesskey="m">Modifier le wikicode</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Identit%C3%A9_num%C3%A9rique&amp;action=history"  title="Les versions passées de cette page (avec leurs contributeurs) [h]" accesskey="h">Historique</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Plus</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Chercher</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Rechercher sur Vikidia" title="Rechercher dans Vikidia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Spécial:Recherche" name="title"/><input type="submit" name="fulltext" value="Rechercher" title="Rechercher les pages comportant ce texte." id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Trouver" title="Aller vers une page portant exactement ce nom si elle existe." id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Vikidia:Accueil"  title="Page principale"></a></div>
+						<div class="portal" role="navigation" id='p-Navigation' aria-labelledby='p-Navigation-label'>
+			<h3 id='p-Navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-Accueil"><a href="/wiki/Vikidia:Accueil">Accueil</a></li><li id="n-Pages-par-th.C3.A8mes"><a href="/wiki/Portail:Accueil">Pages par thèmes</a></li><li id="n-randompage"><a href="/wiki/Sp%C3%A9cial:Page_au_hasard" title="Afficher une page au hasard [x]" accesskey="x">Page au hasard</a></li><li id="n-Banque-d.E2.80.99images"><a href="/wiki/Portail:Images">Banque d’images</a></li><li id="n-Le-Savant"><a href="/wiki/Vikidia:Le_Savant">Le Savant</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-Contribuer' aria-labelledby='p-Contribuer-label'>
+			<h3 id='p-Contribuer-label'>Contribuer</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-recentchanges"><a href="/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes" title="Liste des modifications récentes sur le wiki [r]" accesskey="r">Modifications récentes</a></li><li id="n-portal"><a href="/wiki/Vikidia:Communaut%C3%A9" title="À propos du projet, ce que vous pouvez faire, où trouver des informations [p]" accesskey="p">Communauté</a></li><li id="n-Bavardages"><a href="/wiki/Vikidia:Bavardages">Bavardages</a></li><li id="n-help"><a href="/wiki/Aide:Accueil" title="Aide [a]" accesskey="a">Aide</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Outils</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Identit%C3%A9_num%C3%A9rique" title="Liste des pages liées qui pointent sur celle-ci [j]" accesskey="j">Pages liées</a></li><li id="t-recentchangeslinked"><a href="/wiki/Sp%C3%A9cial:Suivi_des_liens/Identit%C3%A9_num%C3%A9rique" rel="nofollow" title="Liste des modifications récentes des pages appelées par celle-ci [k]" accesskey="k">Suivi des pages liées</a></li><li id="t-specialpages"><a href="/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales" title="Liste de toutes les pages spéciales [q]" accesskey="q">Pages spéciales</a></li><li id="t-permalink"><a href="/w/index.php?title=Identit%C3%A9_num%C3%A9rique&amp;oldid=1202224" title="Adresse permanente de cette version de la page">Adresse permanente</a></li><li id="t-info"><a href="/w/index.php?title=Identit%C3%A9_num%C3%A9rique&amp;action=info" title="Plus d’information sur cette page">Information sur la page</a></li><li id="t-cite"><a href="/w/index.php?title=Sp%C3%A9cial:Citer&amp;page=Identit%C3%A9_num%C3%A9rique&amp;id=1202224" title="Informations sur la manière de citer cette page">Citer cette page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-Vikidia' aria-labelledby='p-Vikidia-label'>
+			<h3 id='p-Vikidia-label'>Vikidia</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-.C3.80-propos-de-Vikidia"><a href="/wiki/Vikidia:%C3%80_propos">À propos de Vikidia</a></li><li id="n-Contact"><a href="/wiki/Vikidia:Contact">Contact</a></li><li id="n-sitesupport"><a href="//www.vikidia.org/dons.html" rel="nofollow">Faire un don</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Imprimer / exporter</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Sp%C3%A9cial:Livre&amp;bookcmd=book_creator&amp;referer=Identit%C3%A9+num%C3%A9rique">Créer un livre</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Sp%C3%A9cial:Livre&amp;bookcmd=render_article&amp;arttitle=Identit%C3%A9+num%C3%A9rique&amp;returnto=Identit%C3%A9+num%C3%A9rique&amp;oldid=1202224&amp;writer=rl">Télécharger comme PDF</a></li><li id="t-print"><a href="/w/index.php?title=Identit%C3%A9_num%C3%A9rique&amp;printable=yes" title="Version imprimable de cette page [p]" accesskey="p">Version imprimable</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Sur d’autres projets</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-wp"><a href="//fr.wikipedia.org/wiki/Identit%C3%A9_num%C3%A9rique" title="wp:Identité numérique" lang="wp" hreflang="wp" class="interlanguage-link-target">Wikipédia</a></li>					</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> <div id="donation-box" style="border: 1px solid #a7d7f9; font-size: 1.6em; font-weight: bold; text-align: center; line-height: 1.6; background-color: rgb(242, 237, 248); margin-bottom: 0;">
+<div style="float: left; transform: scaleX(-1); margin-left: 0.5em; margin-top: 0.2em;"><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=contact%40vikidia%2eorg&amp;lc=FR&amp;item_name=Association%20Vikidia%2c%20Encyclopedie%20pour%20enfants&amp;no_note=0&amp;currency_code=EUR&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHostedGuest" rel="nofollow"><img alt="Open Clip Art Library Piggy Bank.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Open_Clip_Art_Library_Piggy_Bank.svg/60px-Open_Clip_Art_Library_Piggy_Bank.svg.png" width="60" height="58" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Open_Clip_Art_Library_Piggy_Bank.svg/90px-Open_Clip_Art_Library_Piggy_Bank.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Open_Clip_Art_Library_Piggy_Bank.svg/120px-Open_Clip_Art_Library_Piggy_Bank.svg.png 2x" data-file-width="456" data-file-height="442" /></a></div>
+<div>Vikidia, ce sont des millions de jeunes lecteurs chaque mois... et des rédacteurs de tout âge !<br />Toi aussi <a rel="nofollow" class="external text" href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=contact%40vikidia%2eorg&amp;lc=FR&amp;item_name=Association%20Vikidia%2c%20Encyclopedie%20pour%20enfants&amp;no_note=0&amp;currency_code=EUR&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHostedGuest">fais un don !</a><div style="font-size: 0.5em; font-weight: normal; line-height: 1; padding-bottom: 0.3em; font-style: italic;"></div></div>
+</div>
+<div id="donation-box" style="margin-top: 0em; border: 1px solid #a7d7f9; font-size: 1.6em; font-weight: bold; text-align: center; line-height: 1.6; background-color: #FFFFFF;">
+<div style="float: left; margin-left: 1em; padding-top: 0.3em;"><a href="https://www.lilo.org/?utm_source=vikidia" rel="nofollow"><img alt="Logo-lilo.png" src="//download.vikidia.org/vikidia/fr/images/thumb/9/91/Logo-lilo.png/80px-Logo-lilo.png" width="80" height="28" srcset="//download.vikidia.org/vikidia/fr/images/thumb/9/91/Logo-lilo.png/120px-Logo-lilo.png 1.5x, //download.vikidia.org/vikidia/fr/images/thumb/9/91/Logo-lilo.png/160px-Logo-lilo.png 2x" data-file-width="221" data-file-height="77" /></a></div>
+<p><a rel="nofollow" class="external text" href="https://www.lilo.org/?utm_source=vikidia">Le saviez-vous ? Vous pouvez financer gratuitement Vikidia en utilisant le moteur de recherche solidaire Lilo.</a>
+</p>
+</div>
+<p><br />
+Par Vikidia, l’encyclopédie pour les jeunes, qui explique aux enfants et à ceux qui veulent une présentation simple d'un sujet.<br />
+Dernière modification de cette page le 1 février 2019 à 09:05.<br />
+</p></li>
+											<li id="footer-info-copyright">Le contenu est disponible sous licence <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-Share Alike 3.0</a> sauf mention contraire.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/Vikidia:Confidentialit%C3%A9" title="Vikidia:Confidentialité">Politique de confidentialité</a></li>
+											<li id="footer-places-about"><a href="/wiki/Vikidia:%C3%80_propos" title="Vikidia:À propos">À propos de Vikidia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Vikidia:Avertissements_g%C3%A9n%C3%A9raux" title="Vikidia:Avertissements généraux">Avertissements</a></li>
+											<li id="footer-places-mobileview"><a href="https://fr.vikidia.org/w/index.php?title=Identit%C3%A9_num%C3%A9rique&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Version mobile</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://creativecommons.org/licenses/by-sa/3.0/"><img src="/w/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution-Share Alike 3.0" width="88" height="31"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script type="a25783594b4d35daf173be1c-text/javascript">(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.036","walltime":"0.037","ppvisitednodes":{"value":264,"limit":1000000},"ppgeneratednodes":{"value":1025,"limit":1000000},"postexpandincludesize":{"value":8349,"limit":2097152},"templateargumentsize":{"value":2265,"limit":2097152},"expansiondepth":{"value":6,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%    8.541      1 -total"," 34.81%    2.973      1 Modèle:Simplifier"," 28.67%    2.449      2 Modèle:Méta_bandeau"," 27.85%    2.379      1 Modèle:Portail"," 19.27%    1.646      1 Modèle:Portail_Informatique"," 13.04%    1.114      1 Modèle:Le_savais-tu"," 10.74%    0.917      1 Modèle:Article_fruit_d'un_travail_scolaire"," 10.46%    0.893      1 Modèle:Méta_lien_portail","  8.38%    0.716      3 Modèle:Info","  5.75%    0.491      2 Modèle:Taille"]},"cachereport":{"timestamp":"20190308071923","ttl":86400,"transientcontent":false}}});});</script><!-- Piwik -->
+<script type="a25783594b4d35daf173be1c-text/javascript">
+  var _paq = _paq || [];
+  _paq.push(["disableCookies"]);
+  _paq.push(["trackPageView"]);
+  _paq.push(["enableLinkTracking"]);
+
+  (function() {
+    var u = (("https:" == document.location.protocol) ? "https" : "http") + "://";
+    _paq.push(["setTrackerUrl", u+"stats.vikidia.org/"+"piwik.php"]);
+    _paq.push(["setSiteId", "1"]);
+    var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
+    g.defer=true; g.async=true; g.src=u+"download.vikidia.org/piwik.js"; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Piwik Code -->
+
+<!-- Piwik Image Tracker -->
+<noscript><img src="https://stats.vikidia.org/piwik.php?idsite=1&rec=1" style="border:0" alt="" /></noscript>
+<!-- End Piwik --><script type="a25783594b4d35daf173be1c-text/javascript">(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":142});});</script>
+	<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/a2bd7673/cloudflare-static/rocket-loader.min.js" data-cf-settings="a25783594b4d35daf173be1c-|49" defer=""></script></body>
+</html>

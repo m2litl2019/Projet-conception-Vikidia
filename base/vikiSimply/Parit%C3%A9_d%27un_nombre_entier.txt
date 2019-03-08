@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="fr" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Parité d'un nombre entier - Vikidia, l’encyclopédie des 8-13 ans</title>
+<script type="0e1cb5579fdbc8efd5883f60-text/javascript">document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script type="0e1cb5579fdbc8efd5883f60-text/javascript">(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Parité_d'un_nombre_entier","wgTitle":"Parité d'un nombre entier","wgCurRevisionId":1058117,"wgRevisionId":1058117,"wgArticleId":2330,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Article à simplifier","Portail:mathématiques/Pages liées","Nombre"],"wgBreakFrames":false,"wgPageContentLanguage":"fr","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"],"wgMonthNamesShort":["","jan","fév","mar","avr","mai","juin","juil","août","sep","oct","nov","déc"],"wgRelevantPageName":"Parité_d'un_nombre_entier","wgRelevantArticleId":2330,"wgRequestId":"78ebf7ed8f7a0c5c03eaca45","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVisualEditor":{"pageLanguageCode":"fr","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":false},"wgWikiEditorEnabledModules":{"toolbar":true,"preview":true,"publish":false},"wgPreferredVariant":"fr","wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.visualEditor.desktopArticleTarget.noscript":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1x2qlv5",function($,jQuery,require,module){mw.user.options.set({"variant":"fr"});});mw.loader.implement("user.tokens@091j2g3",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.gadget.InviteDiscussion","ext.gadget.Edittools","mmv.head","mmv.bootstrap.autostart","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="//download.vikidia.org/fr.vikidia.org/load.php?debug=false&amp;lang=fr&amp;modules=ext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="//download.vikidia.org/fr.vikidia.org/load.php?debug=false&amp;lang=fr&amp;modules=startup&amp;only=scripts&amp;skin=vector" type="0e1cb5579fdbc8efd5883f60-text/javascript"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="//download.vikidia.org/fr.vikidia.org/load.php?debug=false&amp;lang=fr&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.2"/>
+<link rel="alternate" type="application/x-wiki" title="Modifier" href="/w/index.php?title=Parit%C3%A9_d%27un_nombre_entier&amp;action=edit"/>
+<link rel="edit" title="Modifier" href="/w/index.php?title=Parit%C3%A9_d%27un_nombre_entier&amp;action=edit"/>
+<link rel="shortcut icon" href="//download.vikidia.org/vikidia/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Vikidia (fr)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://fr.vikidia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Flux Atom de Vikidia" href="/w/index.php?title=Sp%C3%A9cial:Modifications_r%C3%A9centes&amp;feed=atom"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Parité_d_un_nombre_entier rootpage-Parité_d_un_nombre_entier skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="fr">Parité d'un nombre entier</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">« Parité d&#39;un nombre entier » expliqué aux enfants par Vikidia, l’encyclopédie junior</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Aller à :					<a href="#mw-head">navigation</a>, 					<a href="#p-search">rechercher</a>
+				</div>
+				<div id="mw-content-text" lang="fr" dir="ltr" class="mw-content-ltr"><div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/Fichier:MetroDF_Linea_2.jpg" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/MetroDF_Linea_2.jpg/200px-MetroDF_Linea_2.jpg" width="200" height="200" class="thumbimage" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/MetroDF_Linea_2.jpg/300px-MetroDF_Linea_2.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/MetroDF_Linea_2.jpg/400px-MetroDF_Linea_2.jpg 2x" data-file-width="536" data-file-height="536" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Fichier:MetroDF_Linea_2.jpg" class="internal" title="Agrandir"></a></div>Le nombre 2, peut-être le plus connu des nombres pairs</div></div></div><table class="bandeau plainlinks" style="width: 70%; margin: auto; margin-bottom: 10px; text-align: center; background-color: #FFFCCC; border: 1px solid #CC9900; border-right-width: 2px; border-bottom-width: 2px;">
+<tr>
+<td style="width: 10%;">
+<div><img alt="Simplifier" src="//download.vikidia.org/vikidia/fr/images/c/c1/Confusion.gif" title="Simplifier" width="35" height="35" data-file-width="35" data-file-height="35" /></div>
+</td>
+<td>
+<div style=""><b>Cet article semble trop confus et / ou trop compliqué.</b> </div>
+<div style="">N’hésitez pas à le <b><a rel="nofollow" class="external text" href="https://fr.vikidia.org/w/index.php?title=Parit%C3%A9_d%27un_nombre_entier&amp;action=edit">simplifier</a></b> ou à <b><a rel="nofollow" class="external text" href="https://fr.vikidia.org/w/index.php?title=Discussion:Parit%C3%A9_d%27un_nombre_entier&amp;action=edit&amp;section=new">donner votre avis</a></b>.<br /><span style="font-size: 90%;"><a href="/wiki/Aide:R%C3%A9sum%C3%A9_de_la_syntaxe_wiki" title="Aide:Résumé de la syntaxe wiki">Aide sur la syntaxe wiki</a> – <a href="/wiki/Aide:Comment_%C3%A9crire_un_article_%3F" class="mw-redirect" title="Aide:Comment écrire un article ?">Conseils de rédaction</a></span></div>
+</td>
+
+</tr>
+</table>
+<p>En <a href="/wiki/Math%C3%A9matiques" title="Mathématiques">mathématiques</a>, étudier la <b>parité</b> d'un <a href="/wiki/Nombre_entier" class="mw-redirect" title="Nombre entier">nombre entier</a>, c'est déterminer si cet entier est, ou non, un <a href="/wiki/Multiple" class="mw-disambig" title="Multiple">multiple</a> de <a href="/wiki/2_(nombre)" title="2 (nombre)">deux</a> :
+</p>
+<ul><li> Un nombre entier est <b>pair</b> lorsqu'il est <a href="/wiki/Division" class="mw-redirect" title="Division">divisible</a> par 2 sans donner de reste. Par exemple, 2, 248 et 5  674 sont des entiers pairs.</li>
+<li> Sinon c'est un nombre entier <b>impair</b>. Comme par exemple, 3, 167, 935.</li></ul>
+<p>Les premiers entiers naturels pairs sont 0, 2, 4, 6, 8, 10, 12, 14, ... 
+</p><p>186 est un entier pair car le quotient de 186 par 2 est 93 ; mais 153 est impair car le quotient de 153 par 2 vaut 76,5 qui n'est pas un entier.
+</p>
+<div id="toc" class="toc"><div id="toctitle" class="toctitle"><h2>Sommaire</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Comment_reconna.C3.AEtre_un_entier_pair_d.27un_entier_impair_.3F"><span class="tocnumber">1</span> <span class="toctext">Comment reconnaître un entier pair d'un entier impair ?</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Somme_et_diff.C3.A9rence"><span class="tocnumber">2</span> <span class="toctext">Somme et différence</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Produit"><span class="tocnumber">3</span> <span class="toctext">Produit</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Questions_ouvertes"><span class="tocnumber">4</span> <span class="toctext">Questions ouvertes</span></a></li>
+</ul>
+</div>
+
+<h3><span class="mw-headline" id="Comment_reconna.C3.AEtre_un_entier_pair_d.27un_entier_impair_.3F">Comment reconnaître un entier pair d'un entier impair ?</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Parit%C3%A9_d%27un_nombre_entier&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Modifier la section : Comment reconnaître un entier pair d'un entier impair ?">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Parit%C3%A9_d%27un_nombre_entier&amp;action=edit&amp;section=1" title="Modifier la section : Comment reconnaître un entier pair d'un entier impair ?">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Pour un entier pas trop grand, il suffit d'écrire cet entier en chiffres (dans le <a href="/wiki/Syst%C3%A8me_d%C3%A9cimal" title="Système décimal">système décimal</a>). 
+</p>
+<ul><li> Si le chiffre des unités (le dernier chiffre tout à droite) est <a href="/wiki/0" class="mw-redirect" title="0">0</a>, <a href="/wiki/2" class="mw-redirect" title="2">2</a>, <a href="/wiki/4" class="mw-redirect" title="4">4</a>, <a href="/wiki/6" class="mw-redirect" title="6">6</a> ou <a href="/wiki/8" class="mw-redirect" title="8">8</a>, alors cet entier est pair ;</li>
+<li> Si ce chiffre au contraire est <a href="/wiki/1" class="mw-redirect" title="1">1</a>, <a href="/wiki/3" class="mw-redirect" title="3">3</a>, <a href="/wiki/5" class="mw-redirect" title="5">5</a>, <a href="/wiki/7" class="mw-redirect" title="7">7</a> ou <a href="/wiki/9" class="mw-redirect" title="9">9</a>, alors cet entier est impair.</li></ul>
+<p>Plus généralement, <i>dans une base de numération paire</i>, un entier est pair, si et seulement si, son dernier chiffre est pair. Par exemple, la base 2 (<a href="/wiki/Syst%C3%A8me_binaire" title="Système binaire">système binaire</a>) est souvent utilisée en <a href="/wiki/Informatique" title="Informatique">informatique</a>. Le nombre 10110 écrit en base 2 est pair car son dernier chiffre est 0. En fait, il s'agit de vingt-deux (pourquoi ?). 
+</p><p>Au contraire, <i>dans une base de numération impaire</i>, un entier est pair, si et seulement si, la somme de ses chiffres est pair. Par exemple, la base 5 (<a href="/w/index.php?title=Syst%C3%A8me_quinquennal&amp;action=edit&amp;redlink=1" class="new" title="Système quinquennal (page inexistante)">système quinquennal</a>) a été longtemps utilisée en <a href="/wiki/Australie" title="Australie">Australie</a> avant l'arrivée des Européens. En base 5, le nombre 3421 est pair, car la somme de ses chiffres vaut dix. En fait, il s'agit de quatre cents quatre-vingt six (pourquoi ?).
+</p>
+<div class="NavFrame" align="left" style="margin-bottom:1em; width:100%; border-style:solid; -moz-border-radius:0; -webkit-border-radius:0; border-radius:0; border-color:#AAAAAA;background-color:#FFFFFF" title="&#91;afficher]">
+<div class="NavHead" align="center" style="height:1.6em; background-color:#EFEFEF; color:black;">Explications</div>
+<div class="NavContent" style="margin:0px; background:white; display:none;" align="left">
+<dl><dt>En base 10</dt>
+<dd></dd></dl>
+<p>La base 10, c'est la base dans laquelle on apprend à écrire les nombres en tous chiffres, et à les lire. Prenons un entier naturel, et on suppose qu'il est pair. Alors par définition il est le produit de 2 par un entier naturel. Il suffit de se rappeler comment on pose une multiplication. Le chiffre des unités est le premier chiffre que l'on obtient, en faisant le produit de 2 par le chiffre des unités du deuxième facteur. Par exemple, le chiffre des unités de 2×5  349  897   231 est donné par 2×1=2. Le chiffre des unités du produit s'obtient donc en effectuant l'une des opérations suivantes:
+</p>
+<dl><dd><dl><dd>2×0=0 ou 2×5=10 donc 0 ;</dd>
+<dd>2×1=2 ou 2×6=12 donc 2 ;</dd>
+<dd>2×2=4 ou 2×7=14 donc 4 ;</dd>
+<dd>2×3=6 ou 2×8=16 donc 6 ;</dd>
+<dd>2×4=8 ou 2×9=18 donc 8.</dd></dl></dd></dl>
+<p><i>Si l'entier est pair, alors il se termine par 0, 2, 4, 6 ou 8.</i>
+</p><p>Si un entier est impair, alors en lui retranchant 1, on obtient un nouvel entier qui est pair. Ce nouvel entier se termine par 0, 2, 4, 6 ou 8. Donc, on est parti d'un entier qui se termine par 1, 3, 5, 7 ou 9.
+</p><p>On ne va pas traiter les autres bases.
+</p>
+</div>
+<div class="NavEnd"></div> 
+</div>
+<p>Bien sûr, pour des très grands nombres, on ne peut pas connaître le chiffre des unités. Par exemple, sur une <a href="/wiki/Calculatrice" title="Calculatrice">calculatrice</a>, qu'obtient-on si on tape 2^100=? (on lui demande de calculer la 100<sup>e</sup> puissance de 2). Le résultat affiché dépend de sa capacité de calculs, et de son mode d'affichage. Sur une Casio, on obtient par exemple 1.2676506E+30. L'affichage est américain, le point remplace la virgule. La notation E+30 signifie « ×10^30 ». Donc, on sait que 2^10 possède 30 chiffres dans le système décimal, et que les premiers chiffres sont 1, 2, 6, 7, 0, 6, 5, 0 et après on ne sait plus. Cependant, on sait que les <a href="/w/index.php?title=Puissance_de_2&amp;action=edit&amp;redlink=1" class="new" title="Puissance de 2 (page inexistante)">puissances de 2</a> sont des nombres pairs (voir ci-dessous).
+</p>
+<h3><span class="mw-headline" id="Somme_et_diff.C3.A9rence">Somme et différence</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Parit%C3%A9_d%27un_nombre_entier&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Modifier la section : Somme et différence">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Parit%C3%A9_d%27un_nombre_entier&amp;action=edit&amp;section=2" title="Modifier la section : Somme et différence">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Il est utile de savoir que la somme de deux entiers pairs est paire :
+</p>
+<ul><li> pair +/- pair = pair ;</li>
+<li> pair +/- impair = impair ;</li>
+<li> impair +/- impair = pair.</li></ul>
+<p>Plus généralement, une somme ou différence de plusieurs entiers pairs est toujours paire. Une somme ou différence de plusieurs entiers impairs est : 
+</p>
+<ul><li> paire quand le nombre d'entiers qui la compose est pair ;</li>
+<li> impaire quand le nombre d'entiers de la somme est impair. </li></ul>
+<p>Par exemple, 1 789 645 349 + 12 886 767 453 + 3 545 703 845 est un entier impair (on peut l'affirmer sans calculer la somme !) ; en effet, c'est la somme de trois entiers impairs.
+</p>
+<h3><span class="mw-headline" id="Produit">Produit</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Parit%C3%A9_d%27un_nombre_entier&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Modifier la section : Produit">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Parit%C3%A9_d%27un_nombre_entier&amp;action=edit&amp;section=3" title="Modifier la section : Produit">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Le produit de deux entiers impairs est impair :
+</p>
+<ul><li> pair × pair = pair ;</li>
+<li> pair × impair = pair ;</li>
+<li> impair × impair = impair.</li></ul>
+<p>Plus généralement, un produit de plusieurs entiers est impair, si et seulement si, aucun facteur n'est pair. En particulier, <b>un entier pair ne divise jamais un entier impair.</b>
+</p><p>Attention ! Si le quotient d'un entier pair par un entier pair est un entier, cet entier peut très bien être impair. Par exemple, 12 divise 60 ; les deux entiers sont pairs mais le quotient est 5 qui est impair.
+</p><p>Tout entier naturel pair se décompose de manière unique en produit d'une puissance de deux et d'un entier naturel impair. 
+</p>
+<dl><dd> 36 se décompose en 2 × 13</dd>
+<dd> 272 = 16 × 17 = 2<sup>4</sup> × 17</dd></dl>
+<p>En particulier, une puissance d'un nombre pair est pair. Une puissance d'un nombre impair est impair.
+</p>
+<table style="width: 90%; margin: auto; margin-bottom: 0.5em; background-color: transparent;" cellpadding="0" cellspacing="0">
+<tr>
+<td colspan="2">
+</td>
+<td rowspan="2" style="width: 187px; height: 37px; vertical-align: top; background:#ffddff; border: 1px solid #BE66CC; border-bottom: 0;"><a href="/wiki/Fichier:Le_savais-tu.png" class="image"><img alt="Le savais-tu.png" src="//download.vikidia.org/vikidia/fr/images/7/7a/Le_savais-tu.png" width="187" height="37" data-file-width="187" data-file-height="37" /></a><div style="margin-top:-33px; padding-left:43px"> <span style="font-size: 150%;">Le savais-tu ?</span></div>
+</td></tr>
+<tr>
+<td style="width:1px; border-bottom:1px solid #BE66CC">
+</td>
+<td style="-moz-border-radius-topright:5em; border-top-right-radius:5em; border:1px solid #BE66CC; background:#ffddff; border-bottom:1px dotted #BE66CC; text-align:center; font-size:95%; width:90%; padding-left: 5px;"> <b><span style="font-size: 150%;">Le seul <a href="/wiki/Nombre_premier" title="Nombre premier">nombre premier</a> qui soit pair est 2.</span></b>
+</td></tr>
+<tr>
+<td colspan="3" style="z-index:0;padding:2px; background:#FFeeFF; border:1px solid #BE66CC; border-top:0; border-bottom:1" width="50%" valign="top"> <br />
+<ul><li> Un entier naturel est premier s'il admet exactement deux diviseurs distincts à savoir 1 et lui-même. S'il est de plus pair, alors cet entier admet 2 comme diviseur distinct de 1 ; ce diviseur lui est égal. Un entier premier pair est donc <i>nécessairement</i> égal à 2.</li>
+<li> Réciproquement, 2 est un entier pair ; et il est premier.</li></ul>
+</td></tr></table>
+<h3><span class="mw-headline" id="Questions_ouvertes">Questions ouvertes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Parit%C3%A9_d%27un_nombre_entier&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Modifier la section : Questions ouvertes">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Parit%C3%A9_d%27un_nombre_entier&amp;action=edit&amp;section=4" title="Modifier la section : Questions ouvertes">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Il y a beaucoup de problèmes qui n'ont pas encore été résolus en <a href="/wiki/Arithm%C3%A9tique" title="Arithmétique">arithmétique</a>. Certains concernent des problèmes de parité :
+</p>
+<ul><li>La <a href="/wiki/Conjecture_de_Goldbach" title="Conjecture de Goldbach">conjecture de Goldbach</a> établit que chaque entier pair supérieur à 2 est la somme de deux nombres premiers. Par exemple, 112 est un entier pair et c'est la somme de 23 et de 89. Les calculs modernes par <a href="/wiki/Ordinateur" title="Ordinateur">ordinateur</a> ont montré que le résultat annoncé par cette <a href="/wiki/Conjecture" title="Conjecture">conjecture</a> est vérifié pour les entiers inférieurs à 3 × 10<sup>17</sup>, mais la <a href="/wiki/D%C3%A9monstration" title="Démonstration">démonstration</a> générale n'a pas encore été trouvée. Personne ne sait s'il existe ou non au moins une exception...</li>
+<li>Tous les <a href="/w/index.php?title=Nombre_parfait&amp;action=edit&amp;redlink=1" class="new" title="Nombre parfait (page inexistante)">nombres parfaits</a> connus sont pairs ; nous ne savons toujours pas s'il existe un nombre parfait impair.</li></ul>
+<table class="multi-banner" style="width: 100%; clear: both; margin: 0; background-color: transparent; padding: 0;">
+
+<tr style="vertical-align: middle;">
+<td>
+<center>
+<table style="clear: both; margin-top: 12px; border-left: 4px solid #8888aa; width: 90%; background: #ccddff; border-radius: 2px;">
+<tr>
+<td style="padding: 3px; text-align: left;"><img alt="" src="//download.vikidia.org/vikidia/fr/images/thumb/c/cc/Icone_Maths1.png/30px-Icone_Maths1.png" width="30" height="30" srcset="//download.vikidia.org/vikidia/fr/images/thumb/c/cc/Icone_Maths1.png/45px-Icone_Maths1.png 1.5x, //download.vikidia.org/vikidia/fr/images/thumb/c/cc/Icone_Maths1.png/60px-Icone_Maths1.png 2x" data-file-width="120" data-file-height="120" />
+</td>
+<td width="90%" style="font-size: 15px;"> <b><a href="/wiki/Portail:Math%C3%A9matiques" title="Portail:Mathématiques">Portail des mathématiques</a></b> &#32;&#8212;  Les nombres, la géométrie et les grands mathématiciens.
+</td></tr></table>
+</center>
+</td>
+<td>
+</td></tr></table>
+<table class="multi-banner" style="width: 100%; clear: both; margin: 0; background-color: transparent; padding: 0;">
+
+<tr style="vertical-align: middle;">
+<td>
+</td>
+<td>
+</td></tr></table>
+<table class="multi-banner" style="width: 100%; clear: both; margin: 0; background-color: transparent; padding: 0;">
+
+<tr style="vertical-align: middle;">
+<td>
+</td>
+<td>
+</td></tr></table>
+
+<!-- 
+NewPP limit report
+Cached time: 20190308115842
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.040 seconds
+Real time usage: 0.223 seconds
+Preprocessor visited node count: 188/1000000
+Preprocessor generated node count: 1049/1000000
+Post‐expand include size: 7645/2097152 bytes
+Template argument size: 2818/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 0/100
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    8.980      1 -total
+ 35.57%    3.194      1 Modèle:Simplifier
+ 26.10%    2.344      1 Modèle:Portail
+ 24.27%    2.180      1 Modèle:Méta_bandeau
+ 18.11%    1.626      1 Modèle:Portail_Mathématiques
+ 12.32%    1.106      1 Modèle:Le_savais-tu
+ 10.04%    0.902      1 Modèle:Boîte_déroulante
+  9.86%    0.885      1 Modèle:Méta_lien_portail
+  6.65%    0.597      1 Modèle:Exp
+  5.49%    0.493      2 Modèle:Taille
+-->
+
+<!-- Saved in parser cache with key vikidia_fr-wk_:pcache:idhash:2330-0!*!0!!fr!3!* and timestamp 20190308115842 and revision id 1058117
+ -->
+</div>					<div class="printfooter">
+						Récupérée de « <a dir="ltr" href="https://fr.vikidia.org/w/index.php?title=Parité_d%27un_nombre_entier&amp;oldid=1058117">https://fr.vikidia.org/w/index.php?title=Parité_d%27un_nombre_entier&amp;oldid=1058117</a> »					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Sp%C3%A9cial:Cat%C3%A9gories" title="Spécial:Catégories">Catégorie</a> : <ul><li><a href="/wiki/Cat%C3%A9gorie:Nombre" title="Catégorie:Nombre">Nombre</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Catégories cachées : <ul><li><a href="/wiki/Cat%C3%A9gorie:Article_%C3%A0_simplifier" title="Catégorie:Article à simplifier">Article à simplifier</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:math%C3%A9matiques/Pages_li%C3%A9es" title="Catégorie:Portail:mathématiques/Pages liées">Portail:mathématiques/Pages liées</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Menu de navigation</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Outils personnels</h3>
+						<ul>
+							<li id="pt-anonuserpage">Non connecté</li><li id="pt-anontalk"><a href="/wiki/Sp%C3%A9cial:Mes_discussions" title="La page de discussion pour les contributions depuis cette adresse IP [n]" accesskey="n">Discussion</a></li><li id="pt-anoncontribs"><a href="/wiki/Sp%C3%A9cial:Mes_contributions" title="Une liste des modifications effectuées depuis cette adresse IP [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&amp;returnto=Parit%C3%A9+d%27un+nombre+entier" title="Il vous est conseillé de créer un compte et de vous connecter ; cependant, ce n’est pas obligatoire">Créer un compte</a></li><li id="pt-login"><a href="/w/index.php?title=Sp%C3%A9cial:Connexion&amp;returnto=Parit%C3%A9+d%27un+nombre+entier" title="Il est recommandé de vous identifier ; ce n'est cependant pas obligatoire. [o]" accesskey="o">Se connecter</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Espaces de noms</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Parit%C3%A9_d%27un_nombre_entier"  title="Voir la page de contenu [m]" accesskey="m">Page</a></span></li>
+															<li  id="ca-talk" class="new"><span><a href="/w/index.php?title=Discussion:Parit%C3%A9_d%27un_nombre_entier&amp;action=edit&amp;redlink=1"  title="Discussion au sujet de cette page de contenu [d]" accesskey="d" rel="discussion">Discussion</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variantes</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Affichages</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Parit%C3%A9_d%27un_nombre_entier" >Lire</a></span></li>
+															<li id="ca-ve-edit"><span><a href="/w/index.php?title=Parit%C3%A9_d%27un_nombre_entier&amp;veaction=edit"  title="Modifier cette page [v]" accesskey="v">Modifier</a></span></li>
+															<li id="ca-edit" class=" collapsible"><span><a href="/w/index.php?title=Parit%C3%A9_d%27un_nombre_entier&amp;action=edit"  title="Modifier le wikicode [m]" accesskey="m">Modifier le wikicode</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Parit%C3%A9_d%27un_nombre_entier&amp;action=history"  title="Les versions passées de cette page (avec leurs contributeurs) [h]" accesskey="h">Historique</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Plus</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Chercher</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Rechercher sur Vikidia" title="Rechercher dans Vikidia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Spécial:Recherche" name="title"/><input type="submit" name="fulltext" value="Rechercher" title="Rechercher les pages comportant ce texte." id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Trouver" title="Aller vers une page portant exactement ce nom si elle existe." id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Vikidia:Accueil"  title="Page principale"></a></div>
+						<div class="portal" role="navigation" id='p-Navigation' aria-labelledby='p-Navigation-label'>
+			<h3 id='p-Navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-Accueil"><a href="/wiki/Vikidia:Accueil">Accueil</a></li><li id="n-Pages-par-th.C3.A8mes"><a href="/wiki/Portail:Accueil">Pages par thèmes</a></li><li id="n-randompage"><a href="/wiki/Sp%C3%A9cial:Page_au_hasard" title="Afficher une page au hasard [x]" accesskey="x">Page au hasard</a></li><li id="n-Banque-d.E2.80.99images"><a href="/wiki/Portail:Images">Banque d’images</a></li><li id="n-Le-Savant"><a href="/wiki/Vikidia:Le_Savant">Le Savant</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-Contribuer' aria-labelledby='p-Contribuer-label'>
+			<h3 id='p-Contribuer-label'>Contribuer</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-recentchanges"><a href="/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes" title="Liste des modifications récentes sur le wiki [r]" accesskey="r">Modifications récentes</a></li><li id="n-portal"><a href="/wiki/Vikidia:Communaut%C3%A9" title="À propos du projet, ce que vous pouvez faire, où trouver des informations [p]" accesskey="p">Communauté</a></li><li id="n-Bavardages"><a href="/wiki/Vikidia:Bavardages">Bavardages</a></li><li id="n-help"><a href="/wiki/Aide:Accueil" title="Aide [a]" accesskey="a">Aide</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Outils</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Parit%C3%A9_d%27un_nombre_entier" title="Liste des pages liées qui pointent sur celle-ci [j]" accesskey="j">Pages liées</a></li><li id="t-recentchangeslinked"><a href="/wiki/Sp%C3%A9cial:Suivi_des_liens/Parit%C3%A9_d%27un_nombre_entier" rel="nofollow" title="Liste des modifications récentes des pages appelées par celle-ci [k]" accesskey="k">Suivi des pages liées</a></li><li id="t-specialpages"><a href="/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales" title="Liste de toutes les pages spéciales [q]" accesskey="q">Pages spéciales</a></li><li id="t-permalink"><a href="/w/index.php?title=Parit%C3%A9_d%27un_nombre_entier&amp;oldid=1058117" title="Adresse permanente de cette version de la page">Adresse permanente</a></li><li id="t-info"><a href="/w/index.php?title=Parit%C3%A9_d%27un_nombre_entier&amp;action=info" title="Plus d’information sur cette page">Information sur la page</a></li><li id="t-cite"><a href="/w/index.php?title=Sp%C3%A9cial:Citer&amp;page=Parit%C3%A9_d%27un_nombre_entier&amp;id=1058117" title="Informations sur la manière de citer cette page">Citer cette page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-Vikidia' aria-labelledby='p-Vikidia-label'>
+			<h3 id='p-Vikidia-label'>Vikidia</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-.C3.80-propos-de-Vikidia"><a href="/wiki/Vikidia:%C3%80_propos">À propos de Vikidia</a></li><li id="n-Contact"><a href="/wiki/Vikidia:Contact">Contact</a></li><li id="n-sitesupport"><a href="//www.vikidia.org/dons.html" rel="nofollow">Faire un don</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Imprimer / exporter</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Sp%C3%A9cial:Livre&amp;bookcmd=book_creator&amp;referer=Parit%C3%A9+d%27un+nombre+entier">Créer un livre</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Sp%C3%A9cial:Livre&amp;bookcmd=render_article&amp;arttitle=Parit%C3%A9+d%27un+nombre+entier&amp;returnto=Parit%C3%A9+d%27un+nombre+entier&amp;oldid=1058117&amp;writer=rl">Télécharger comme PDF</a></li><li id="t-print"><a href="/w/index.php?title=Parit%C3%A9_d%27un_nombre_entier&amp;printable=yes" title="Version imprimable de cette page [p]" accesskey="p">Version imprimable</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Sur d’autres projets</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-eu"><a href="http://eu.vikidia.org/wiki/Zenbaki_bakoiti" title="Zenbaki bakoiti — basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li>					</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> <div id="donation-box" style="border: 1px solid #a7d7f9; font-size: 1.6em; font-weight: bold; text-align: center; line-height: 1.6; background-color: rgb(242, 237, 248); margin-bottom: 0;">
+<div style="float: left; transform: scaleX(-1); margin-left: 0.5em; margin-top: 0.2em;"><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=contact%40vikidia%2eorg&amp;lc=FR&amp;item_name=Association%20Vikidia%2c%20Encyclopedie%20pour%20enfants&amp;no_note=0&amp;currency_code=EUR&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHostedGuest" rel="nofollow"><img alt="Open Clip Art Library Piggy Bank.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Open_Clip_Art_Library_Piggy_Bank.svg/60px-Open_Clip_Art_Library_Piggy_Bank.svg.png" width="60" height="58" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Open_Clip_Art_Library_Piggy_Bank.svg/90px-Open_Clip_Art_Library_Piggy_Bank.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Open_Clip_Art_Library_Piggy_Bank.svg/120px-Open_Clip_Art_Library_Piggy_Bank.svg.png 2x" data-file-width="456" data-file-height="442" /></a></div>
+<div>Vikidia, ce sont des millions de jeunes lecteurs chaque mois... et des rédacteurs de tout âge !<br />Toi aussi <a rel="nofollow" class="external text" href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=contact%40vikidia%2eorg&amp;lc=FR&amp;item_name=Association%20Vikidia%2c%20Encyclopedie%20pour%20enfants&amp;no_note=0&amp;currency_code=EUR&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHostedGuest">fais un don !</a><div style="font-size: 0.5em; font-weight: normal; line-height: 1; padding-bottom: 0.3em; font-style: italic;"></div></div>
+</div>
+<div id="donation-box" style="margin-top: 0em; border: 1px solid #a7d7f9; font-size: 1.6em; font-weight: bold; text-align: center; line-height: 1.6; background-color: #FFFFFF;">
+<div style="float: left; margin-left: 1em; padding-top: 0.3em;"><a href="https://www.lilo.org/?utm_source=vikidia" rel="nofollow"><img alt="Logo-lilo.png" src="//download.vikidia.org/vikidia/fr/images/thumb/9/91/Logo-lilo.png/80px-Logo-lilo.png" width="80" height="28" srcset="//download.vikidia.org/vikidia/fr/images/thumb/9/91/Logo-lilo.png/120px-Logo-lilo.png 1.5x, //download.vikidia.org/vikidia/fr/images/thumb/9/91/Logo-lilo.png/160px-Logo-lilo.png 2x" data-file-width="221" data-file-height="77" /></a></div>
+<p><a rel="nofollow" class="external text" href="https://www.lilo.org/?utm_source=vikidia">Le saviez-vous ? Vous pouvez financer gratuitement Vikidia en utilisant le moteur de recherche solidaire Lilo.</a>
+</p>
+</div>
+<p><br />
+Par Vikidia, l’encyclopédie pour les jeunes, qui explique aux enfants et à ceux qui veulent une présentation simple d'un sujet.<br />
+Dernière modification de cette page le 11 février 2018 à 21:34.<br />
+</p></li>
+											<li id="footer-info-copyright">Le contenu est disponible sous licence <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-Share Alike 3.0</a> sauf mention contraire.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/Vikidia:Confidentialit%C3%A9" title="Vikidia:Confidentialité">Politique de confidentialité</a></li>
+											<li id="footer-places-about"><a href="/wiki/Vikidia:%C3%80_propos" title="Vikidia:À propos">À propos de Vikidia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Vikidia:Avertissements_g%C3%A9n%C3%A9raux" title="Vikidia:Avertissements généraux">Avertissements</a></li>
+											<li id="footer-places-mobileview"><a href="https://fr.vikidia.org/w/index.php?title=Parit%C3%A9_d%27un_nombre_entier&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Version mobile</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://creativecommons.org/licenses/by-sa/3.0/"><img src="/w/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution-Share Alike 3.0" width="88" height="31"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script type="0e1cb5579fdbc8efd5883f60-text/javascript">(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.040","walltime":"0.223","ppvisitednodes":{"value":188,"limit":1000000},"ppgeneratednodes":{"value":1049,"limit":1000000},"postexpandincludesize":{"value":7645,"limit":2097152},"templateargumentsize":{"value":2818,"limit":2097152},"expansiondepth":{"value":6,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%    8.980      1 -total"," 35.57%    3.194      1 Modèle:Simplifier"," 26.10%    2.344      1 Modèle:Portail"," 24.27%    2.180      1 Modèle:Méta_bandeau"," 18.11%    1.626      1 Modèle:Portail_Mathématiques"," 12.32%    1.106      1 Modèle:Le_savais-tu"," 10.04%    0.902      1 Modèle:Boîte_déroulante","  9.86%    0.885      1 Modèle:Méta_lien_portail","  6.65%    0.597      1 Modèle:Exp","  5.49%    0.493      2 Modèle:Taille"]},"cachereport":{"timestamp":"20190308115842","ttl":86400,"transientcontent":false}}});});</script><!-- Piwik -->
+<script type="0e1cb5579fdbc8efd5883f60-text/javascript">
+  var _paq = _paq || [];
+  _paq.push(["disableCookies"]);
+  _paq.push(["trackPageView"]);
+  _paq.push(["enableLinkTracking"]);
+
+  (function() {
+    var u = (("https:" == document.location.protocol) ? "https" : "http") + "://";
+    _paq.push(["setTrackerUrl", u+"stats.vikidia.org/"+"piwik.php"]);
+    _paq.push(["setSiteId", "1"]);
+    var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
+    g.defer=true; g.async=true; g.src=u+"download.vikidia.org/piwik.js"; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Piwik Code -->
+
+<!-- Piwik Image Tracker -->
+<noscript><img src="https://stats.vikidia.org/piwik.php?idsite=1&rec=1" style="border:0" alt="" /></noscript>
+<!-- End Piwik --><script type="0e1cb5579fdbc8efd5883f60-text/javascript">(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":188});});</script>
+	<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/a2bd7673/cloudflare-static/rocket-loader.min.js" data-cf-settings="0e1cb5579fdbc8efd5883f60-|49" defer=""></script></body>
+</html>

@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="fr" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Langage LOGO - Vikidia, l’encyclopédie des 8-13 ans</title>
+<script type="e2b3f672f7dc5d5958e72272-text/javascript">document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script type="e2b3f672f7dc5d5958e72272-text/javascript">(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Langage_LOGO","wgTitle":"Langage LOGO","wgCurRevisionId":1184464,"wgRevisionId":1184464,"wgArticleId":144656,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Article à simplifier","Portail:Informatique/Pages liées","Langage de programmation"],"wgBreakFrames":false,"wgPageContentLanguage":"fr","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"],"wgMonthNamesShort":["","jan","fév","mar","avr","mai","juin","juil","août","sep","oct","nov","déc"],"wgRelevantPageName":"Langage_LOGO","wgRelevantArticleId":144656,"wgRequestId":"44605d5c924ee8195c2c72ac","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVisualEditor":{"pageLanguageCode":"fr","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":false},"wgWikiEditorEnabledModules":{"toolbar":true,"preview":true,"publish":false},"wgPreferredVariant":"fr","wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.visualEditor.desktopArticleTarget.noscript":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@1x2qlv5",function($,jQuery,require,module){mw.user.options.set({"variant":"fr"});});mw.loader.implement("user.tokens@091j2g3",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.view.postEdit","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.gadget.InviteDiscussion","ext.gadget.Edittools","mmv.head","mmv.bootstrap.autostart","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="//download.vikidia.org/fr.vikidia.org/load.php?debug=false&amp;lang=fr&amp;modules=ext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="//download.vikidia.org/fr.vikidia.org/load.php?debug=false&amp;lang=fr&amp;modules=startup&amp;only=scripts&amp;skin=vector" type="e2b3f672f7dc5d5958e72272-text/javascript"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="//download.vikidia.org/fr.vikidia.org/load.php?debug=false&amp;lang=fr&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.29.2"/>
+<link rel="alternate" type="application/x-wiki" title="Modifier" href="/w/index.php?title=Langage_LOGO&amp;action=edit"/>
+<link rel="edit" title="Modifier" href="/w/index.php?title=Langage_LOGO&amp;action=edit"/>
+<link rel="shortcut icon" href="//download.vikidia.org/vikidia/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Vikidia (fr)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://fr.vikidia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Flux Atom de Vikidia" href="/w/index.php?title=Sp%C3%A9cial:Modifications_r%C3%A9centes&amp;feed=atom"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Langage_LOGO rootpage-Langage_LOGO skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+						<div class="mw-indicators mw-body-content">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="fr">Langage LOGO</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">« Langage LOGO » expliqué aux enfants par Vikidia, l’encyclopédie junior</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Aller à :					<a href="#mw-head">navigation</a>, 					<a href="#p-search">rechercher</a>
+				</div>
+				<div id="mw-content-text" lang="fr" dir="ltr" class="mw-content-ltr"><table class="bandeau plainlinks" style="width: 70%; margin: auto; margin-bottom: 10px; text-align: center; background-color: #FFFCCC; border: 1px solid #CC9900; border-right-width: 2px; border-bottom-width: 2px;">
+<tr>
+<td style="width: 10%;">
+<div><img alt="Simplifier" src="//download.vikidia.org/vikidia/fr/images/c/c1/Confusion.gif" title="Simplifier" width="35" height="35" data-file-width="35" data-file-height="35" /></div>
+</td>
+<td>
+<div style=""><b>Cet article semble trop confus et / ou trop compliqué.</b> </div>
+<div style="">N’hésitez pas à le <b><a rel="nofollow" class="external text" href="https://fr.vikidia.org/w/index.php?title=Langage_LOGO&amp;action=edit">simplifier</a></b> ou à <b><a rel="nofollow" class="external text" href="https://fr.vikidia.org/w/index.php?title=Discussion:Langage_LOGO&amp;action=edit&amp;section=new">donner votre avis</a></b>.<br /><span style="font-size: 90%;"><a href="/wiki/Aide:R%C3%A9sum%C3%A9_de_la_syntaxe_wiki" title="Aide:Résumé de la syntaxe wiki">Aide sur la syntaxe wiki</a> – <a href="/wiki/Aide:Comment_%C3%A9crire_un_article_%3F" class="mw-redirect" title="Aide:Comment écrire un article ?">Conseils de rédaction</a></span></div>
+</td>
+
+</tr>
+</table>
+<p>Le <b>langage LOGO</b> est un <a href="/wiki/Langage_de_programmation" title="Langage de programmation">langage de programmation</a> qui a été <span style="cursor:help;border-bottom:1px dotted black;" title="codé">développé<span style="position:relative; top:-0.3em;"><img alt="" src="//download.vikidia.org/vikidia/fr/images/thumb/9/9f/Interrogation.svg/12px-Interrogation.svg.png" width="12" height="12" srcset="//download.vikidia.org/vikidia/fr/images/thumb/9/9f/Interrogation.svg/18px-Interrogation.svg.png 1.5x, //download.vikidia.org/vikidia/fr/images/thumb/9/9f/Interrogation.svg/24px-Interrogation.svg.png 2x" data-file-width="233" data-file-height="233" /></span></span> au M.I.T (Université de Technologie du Massachusetts, U.S.A.) à la fin des années soixante par Seymour Papert.
+</p><p>LOGO a été adapté dans différentes langues (Espagnol, Français, Italien). C'est ainsi que cet outil de programmation est arrivé en France au début des années quatre-vingts et que les élèves ont pu le pratiquer sur les <a href="/wiki/Ordinateur" title="Ordinateur">ordinateurs</a> de cette époque (Thomson TO7, MO5, Goupil, Micral). Il a été appliqué aux activités géométriques avec les déplacements d'un objet graphique aussi appelé <b>tortue</b>.
+</p>
+<h2><span class="mw-headline" id="Ses_caract.C3.A9ristiques">Ses caractéristiques</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Langage_LOGO&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Modifier la section : Ses caractéristiques">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Langage_LOGO&amp;action=edit&amp;section=1" title="Modifier la section : Ses caractéristiques">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>C’est un langage 
+</p>
+<ul><li> interprété/pseudo-compilé : selon les versions, les instructions sont exécutées immédiatement ou font l'objet d'un travail de reconnaissance préalable par le logiciel ;</li>
+<li> impératif : il décrit une suite d’instructions à exécuter les unes après les autres ;</li>
+<li> procédural : il comporte éventuellement des blocs de calculs (fonctions ou procédures) désignés par un nom explicite ;</li>
+<li> peu typé : les variables peuvent tour à tour contenir un mot, une liste, un nombre, un booléen ou un nom de couleur.</li></ul>
+<h2><span class="mw-headline" id="Son_utilisation_scolaire">Son utilisation scolaire</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Langage_LOGO&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Modifier la section : Son utilisation scolaire">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Langage_LOGO&amp;action=edit&amp;section=2" title="Modifier la section : Son utilisation scolaire">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li> Exemple de mot : "calendrier </li>
+<li> Exemple de liste : [ jeudi 24 octobre 2075 ]</li>
+<li> Exemple de nombre : 12,5 ou 12.5 (le séparateur décimal est parfois indifférent comme dans la version Logoplus).</li>
+<li> Les booléens vrai et faux.</li></ul>
+<p>Ce langage a d'abord été utilisé par les élèves de manière ponctuelle et autonome dans une démarche de <a href="/wiki/P%C3%A9dagogie_active" title="Pédagogie active">pédagogie active</a>.
+</p><p>L'utilisation du LOGO est également pleinement efficace dans le cadre d'un projet éducatif encadré par un adulte expérimenté en programmation informatique. Mais cette philosophie du <i>tout-apprentissage en autonomie</i> diminua l'intérêt des enseignants ; la fragilité du matériel informatique puis l'arrivée d'autres logiciels en précipita l'abandon.
+</p><p>Une version modernisée (compatible Windows), francophone, gratuite et complète du langage LOGO existe toujours : <a rel="nofollow" class="external text" href="http://logoplus.pagesperso-orange.fr">LOGOPLUS</a>, et est conçue pour accompagner la scolarité des élèves et étudiants en sciences mathématiques, de la fin de l'école élémentaire jusqu'à l'université.
+</p><p>Les langages actuels proches de la philosophie LOGO sont <a href="/wiki/Scratch_(logiciel)" title="Scratch (logiciel)">Scratch</a> et <a href="/wiki/Snap!_(langage)" title="Snap! (langage)">SNAP!</a> pour l'école et le collège, et, pour le lycée ou le supérieur, <a href="/wiki/Python_(langage)" title="Python (langage)">Python</a>.
+</p>
+<h2><span class="mw-headline" id="La_syntaxe_LOGO">La syntaxe LOGO</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Langage_LOGO&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Modifier la section : La syntaxe LOGO">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Langage_LOGO&amp;action=edit&amp;section=3" title="Modifier la section : La syntaxe LOGO">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/Fichier:Lemniscate.jpg" class="image"><img alt="" src="//download.vikidia.org/vikidia/fr/images/thumb/9/9a/Lemniscate.jpg/300px-Lemniscate.jpg" width="300" height="115" class="thumbimage" srcset="//download.vikidia.org/vikidia/fr/images/thumb/9/9a/Lemniscate.jpg/450px-Lemniscate.jpg 1.5x, //download.vikidia.org/vikidia/fr/images/thumb/9/9a/Lemniscate.jpg/600px-Lemniscate.jpg 2x" data-file-width="864" data-file-height="330" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Fichier:Lemniscate.jpg" class="internal" title="Agrandir"></a></div>Courbe tracée en LOGO.</div></div></div>
+<p>La syntaxe du langage LOGO est formée de mots-clés appelés "primitives". Ce sont les consignes ou instructions de ce langage et leur nombre varie selon les différentes versions qui existent. Les primitives qui comportent un grand nombre de lettres acceptent parfois une abréviation (exemple: TOURNEGAUCHE abrév: TG).
+</p>
+<center>
+<table style="clear: both; margin-top: 12px; border-left: 4px solid #35C20D; width: 90%; background: #BFFFAE; border-radius: 2px;">
+<tr>
+<td style="padding: 3px; text-align: left;"><a href="/wiki/Fichier:Langages_de_programmation.svg" class="image"><img alt="Langages de programmation.svg" src="//download.vikidia.org/vikidia/fr/images/thumb/3/34/Langages_de_programmation.svg/170px-Langages_de_programmation.svg.png" width="170" height="99" srcset="//download.vikidia.org/vikidia/fr/images/thumb/3/34/Langages_de_programmation.svg/255px-Langages_de_programmation.svg.png 1.5x, //download.vikidia.org/vikidia/fr/images/thumb/3/34/Langages_de_programmation.svg/340px-Langages_de_programmation.svg.png 2x" data-file-width="577" data-file-height="335" /></a>
+</td>
+<td width="90%" style="font-size: 15px;"> <div style="text-align:center;font-size:112%;"><b>Les langages de l’informatique</b></div>
+<ul><li><b><a href="/wiki/Langage_de_programmation" title="Langage de programmation">Langages de programmation</a> :</b>
+<dl><dd><a href="/w/index.php?title=Ada&amp;action=edit&amp;redlink=1" class="new" title="Ada (page inexistante)">Ada</a> &#8226; <a href="/w/index.php?title=A%2B&amp;action=edit&amp;redlink=1" class="new" title="A+ (page inexistante)">A+</a>  &#8226; <a href="/w/index.php?title=A%2B%2B&amp;action=edit&amp;redlink=1" class="new" title="A++ (page inexistante)">A++</a>  &#8226; <a href="/w/index.php?title=ActionScript&amp;action=edit&amp;redlink=1" class="new" title="ActionScript (page inexistante)">ActionScript</a> &#8226; <a href="/wiki/Assembleur" title="Assembleur">Assembleur</a> &#8226; <a href="/w/index.php?title=C--&amp;action=edit&amp;redlink=1" class="new" title="C-- (page inexistante)">C--</a>  &#8226; <a href="/wiki/C_(langage)" title="C (langage)">C</a> &#8226; <a href="/wiki/C%2B%2B" title="C++">C++</a> &#8226; <a href="/wiki/C_sharp" title="C sharp">C#</a> &#8226; <a href="/wiki/F" class="mw-disambig" title="F">F</a>  &#8226; <a href="/wiki/F_sharp" title="F sharp">F#</a> &#8226; <a href="/wiki/Fortran" class="mw-redirect" title="Fortran">Fortran</a> &#8226; <a href="/w/index.php?title=Go_(langage)&amp;action=edit&amp;redlink=1" class="new" title="Go (langage) (page inexistante)">Go</a> &#8226; <a href="/wiki/Haskell" title="Haskell">Haskell</a> &#8226; <a href="/w/index.php?title=J_(langage)&amp;action=edit&amp;redlink=1" class="new" title="J (langage) (page inexistante)">J</a>  &#8226; <a href="/w/index.php?title=J_sharp&amp;action=edit&amp;redlink=1" class="new" title="J sharp (page inexistante)">J#</a>  &#8226; <a href="/wiki/Java_(langage)" title="Java (langage)">Java</a> &#8226; <a href="/wiki/Pascal_(langage)" title="Pascal (langage)">Pascal</a> &#8226; <a href="/wiki/JavaScript" title="JavaScript">JavaScript</a> &#8226; <a href="/wiki/Lisp" title="Lisp">Lisp</a> &#8226; <a href="/w/index.php?title=Swift&amp;action=edit&amp;redlink=1" class="new" title="Swift (page inexistante)">Swift</a>  &#8226; <a class="mw-selflink selflink">LOGO</a>  &#8226; <a href="/wiki/Lua" title="Lua">Lua</a> &#8226; <a href="/wiki/Objective-C" title="Objective-C">Objective-C</a> &#8226; <a href="/w/index.php?title=OCaml&amp;action=edit&amp;redlink=1" class="new" title="OCaml (page inexistante)">OCaml</a> &#8226; <a href="/wiki/Perl" title="Perl">Perl</a> &#8226; <a href="/wiki/PHP" class="mw-redirect" title="PHP">PHP</a> &#8226; <a href="/wiki/Python_(informatique)" class="mw-redirect" title="Python (informatique)">Python</a> &#8226; <a href="/wiki/Ruby" title="Ruby">Ruby</a> &#8226; <a href="/wiki/Microsoft_Small_Basic" title="Microsoft Small Basic">Small Basic</a>  &#8226; <a href="/w/index.php?title=X_sharp&amp;action=edit&amp;redlink=1" class="new" title="X sharp (page inexistante)">X#</a>  &#8226; <a href="/w/index.php?title=X%2B%2B&amp;action=edit&amp;redlink=1" class="new" title="X++ (page inexistante)">X++</a>  &#8226; <a href="/w/index.php?title=X10&amp;action=edit&amp;redlink=1" class="new" title="X10 (page inexistante)">X10</a></dd></dl></li>
+<li><b>Divers (dont <a href="/wiki/Langage_de_balisage" title="Langage de balisage">langages de balisage</a>) :</b>
+<dl><dd><a href="/wiki/CSS" class="mw-redirect" title="CSS">CSS</a> &#8226; <a href="/wiki/HTML" class="mw-redirect" title="HTML">HTML</a> &#8226; <a href="/w/index.php?title=JSON&amp;action=edit&amp;redlink=1" class="new" title="JSON (page inexistante)">JSON</a> &#8226; <a href="/wiki/XML" class="mw-redirect" title="XML">XML</a> &#8226; <a href="/wiki/LaTeX" title="LaTeX">LaTeX</a> &#8226; <a href="/wiki/SQL" title="SQL">SQL</a> &#8226; <a href="/wiki/Hello_World" title="Hello World">Hello World</a> </dd></dl></li></ul>
+</td></tr></table>
+</center>
+<table class="multi-banner" style="width: 100%; clear: both; margin: 0; background-color: transparent; padding: 0;">
+
+<tr style="vertical-align: middle;">
+<td> <center>
+<table style="clear: both; margin-top: 12px; border-left: 4px solid #FFD133; width: 90%; background: #FFF799; border-radius: 2px;">
+<tr>
+<td style="padding: 3px; text-align: left;"><img alt="" src="//download.vikidia.org/vikidia/fr/images/thumb/3/35/Tux.svg/30px-Tux.svg.png" width="30" height="35" srcset="//download.vikidia.org/vikidia/fr/images/thumb/3/35/Tux.svg/45px-Tux.svg.png 1.5x, //download.vikidia.org/vikidia/fr/images/thumb/3/35/Tux.svg/60px-Tux.svg.png 2x" data-file-width="335" data-file-height="394" />
+</td>
+<td width="90%" style="font-size: 15px;"> <b><a href="/wiki/Portail:Informatique" title="Portail:Informatique">Portail de l'informatique</a></b> &#32;&#8212;  Tous les articles sur son histoire, les logiciels, Internet…
+</td></tr></table>
+</center>
+</td>
+<td>
+</td></tr></table>
+<table class="multi-banner" style="width: 100%; clear: both; margin: 0; background-color: transparent; padding: 0;">
+
+<tr style="vertical-align: middle;">
+<td>
+</td>
+<td>
+</td></tr></table>
+<table class="multi-banner" style="width: 100%; clear: both; margin: 0; background-color: transparent; padding: 0;">
+
+<tr style="vertical-align: middle;">
+<td>
+</td>
+<td>
+</td></tr></table>
+
+<!-- 
+NewPP limit report
+Cached time: 20190308193904
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.032 seconds
+Real time usage: 0.036 seconds
+Preprocessor visited node count: 182/1000000
+Preprocessor generated node count: 929/1000000
+Post‐expand include size: 8029/2097152 bytes
+Template argument size: 2466/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 0/100
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    9.704      1 -total
+ 39.06%    3.790      1 Modèle:Palette_langages_informatiques
+ 38.75%    3.760      2 Modèle:Méta_lien_portail
+ 31.34%    3.041      1 Modèle:À_simplifier
+ 23.60%    2.290      1 Modèle:Méta_bandeau
+ 21.71%    2.107      1 Modèle:Portail
+ 13.46%    1.306      1 Modèle:Portail_Informatique
+  7.22%    0.701     38 Modèle:O
+  5.76%    0.559      1 Modèle:Info
+  2.87%    0.279      1 Modèle:---
+-->
+
+<!-- Saved in parser cache with key vikidia_fr-wk_:pcache:idhash:144656-0!*!0!!*!3!* and timestamp 20190308193903 and revision id 1184464
+ -->
+</div>					<div class="printfooter">
+						Récupérée de « <a dir="ltr" href="https://fr.vikidia.org/w/index.php?title=Langage_LOGO&amp;oldid=1184464">https://fr.vikidia.org/w/index.php?title=Langage_LOGO&amp;oldid=1184464</a> »					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Sp%C3%A9cial:Cat%C3%A9gories" title="Spécial:Catégories">Catégorie</a> : <ul><li><a href="/wiki/Cat%C3%A9gorie:Langage_de_programmation" title="Catégorie:Langage de programmation">Langage de programmation</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Catégories cachées : <ul><li><a href="/wiki/Cat%C3%A9gorie:Article_%C3%A0_simplifier" title="Catégorie:Article à simplifier">Article à simplifier</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:Informatique/Pages_li%C3%A9es" title="Catégorie:Portail:Informatique/Pages liées">Portail:Informatique/Pages liées</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Menu de navigation</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Outils personnels</h3>
+						<ul>
+							<li id="pt-anonuserpage">Non connecté</li><li id="pt-anontalk"><a href="/wiki/Sp%C3%A9cial:Mes_discussions" title="La page de discussion pour les contributions depuis cette adresse IP [n]" accesskey="n">Discussion</a></li><li id="pt-anoncontribs"><a href="/wiki/Sp%C3%A9cial:Mes_contributions" title="Une liste des modifications effectuées depuis cette adresse IP [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&amp;returnto=Langage+LOGO" title="Il vous est conseillé de créer un compte et de vous connecter ; cependant, ce n’est pas obligatoire">Créer un compte</a></li><li id="pt-login"><a href="/w/index.php?title=Sp%C3%A9cial:Connexion&amp;returnto=Langage+LOGO" title="Il est recommandé de vous identifier ; ce n'est cependant pas obligatoire. [o]" accesskey="o">Se connecter</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Espaces de noms</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Langage_LOGO"  title="Voir la page de contenu [m]" accesskey="m">Page</a></span></li>
+															<li  id="ca-talk" class="new"><span><a href="/w/index.php?title=Discussion:Langage_LOGO&amp;action=edit&amp;redlink=1"  title="Discussion au sujet de cette page de contenu [d]" accesskey="d" rel="discussion">Discussion</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variantes</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Affichages</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Langage_LOGO" >Lire</a></span></li>
+															<li id="ca-ve-edit"><span><a href="/w/index.php?title=Langage_LOGO&amp;veaction=edit"  title="Modifier cette page [v]" accesskey="v">Modifier</a></span></li>
+															<li id="ca-edit" class=" collapsible"><span><a href="/w/index.php?title=Langage_LOGO&amp;action=edit"  title="Modifier le wikicode [m]" accesskey="m">Modifier le wikicode</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Langage_LOGO&amp;action=history"  title="Les versions passées de cette page (avec leurs contributeurs) [h]" accesskey="h">Historique</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>Plus</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Chercher</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Rechercher sur Vikidia" title="Rechercher dans Vikidia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Spécial:Recherche" name="title"/><input type="submit" name="fulltext" value="Rechercher" title="Rechercher les pages comportant ce texte." id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Trouver" title="Aller vers une page portant exactement ce nom si elle existe." id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Vikidia:Accueil"  title="Page principale"></a></div>
+						<div class="portal" role="navigation" id='p-Navigation' aria-labelledby='p-Navigation-label'>
+			<h3 id='p-Navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-Accueil"><a href="/wiki/Vikidia:Accueil">Accueil</a></li><li id="n-Pages-par-th.C3.A8mes"><a href="/wiki/Portail:Accueil">Pages par thèmes</a></li><li id="n-randompage"><a href="/wiki/Sp%C3%A9cial:Page_au_hasard" title="Afficher une page au hasard [x]" accesskey="x">Page au hasard</a></li><li id="n-Banque-d.E2.80.99images"><a href="/wiki/Portail:Images">Banque d’images</a></li><li id="n-Le-Savant"><a href="/wiki/Vikidia:Le_Savant">Le Savant</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-Contribuer' aria-labelledby='p-Contribuer-label'>
+			<h3 id='p-Contribuer-label'>Contribuer</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-recentchanges"><a href="/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes" title="Liste des modifications récentes sur le wiki [r]" accesskey="r">Modifications récentes</a></li><li id="n-portal"><a href="/wiki/Vikidia:Communaut%C3%A9" title="À propos du projet, ce que vous pouvez faire, où trouver des informations [p]" accesskey="p">Communauté</a></li><li id="n-Bavardages"><a href="/wiki/Vikidia:Bavardages">Bavardages</a></li><li id="n-help"><a href="/wiki/Aide:Accueil" title="Aide [a]" accesskey="a">Aide</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Outils</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Langage_LOGO" title="Liste des pages liées qui pointent sur celle-ci [j]" accesskey="j">Pages liées</a></li><li id="t-recentchangeslinked"><a href="/wiki/Sp%C3%A9cial:Suivi_des_liens/Langage_LOGO" rel="nofollow" title="Liste des modifications récentes des pages appelées par celle-ci [k]" accesskey="k">Suivi des pages liées</a></li><li id="t-specialpages"><a href="/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales" title="Liste de toutes les pages spéciales [q]" accesskey="q">Pages spéciales</a></li><li id="t-permalink"><a href="/w/index.php?title=Langage_LOGO&amp;oldid=1184464" title="Adresse permanente de cette version de la page">Adresse permanente</a></li><li id="t-info"><a href="/w/index.php?title=Langage_LOGO&amp;action=info" title="Plus d’information sur cette page">Information sur la page</a></li><li id="t-cite"><a href="/w/index.php?title=Sp%C3%A9cial:Citer&amp;page=Langage_LOGO&amp;id=1184464" title="Informations sur la manière de citer cette page">Citer cette page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-Vikidia' aria-labelledby='p-Vikidia-label'>
+			<h3 id='p-Vikidia-label'>Vikidia</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-.C3.80-propos-de-Vikidia"><a href="/wiki/Vikidia:%C3%80_propos">À propos de Vikidia</a></li><li id="n-Contact"><a href="/wiki/Vikidia:Contact">Contact</a></li><li id="n-sitesupport"><a href="//www.vikidia.org/dons.html" rel="nofollow">Faire un don</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Imprimer / exporter</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Sp%C3%A9cial:Livre&amp;bookcmd=book_creator&amp;referer=Langage+LOGO">Créer un livre</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Sp%C3%A9cial:Livre&amp;bookcmd=render_article&amp;arttitle=Langage+LOGO&amp;returnto=Langage+LOGO&amp;oldid=1184464&amp;writer=rl">Télécharger comme PDF</a></li><li id="t-print"><a href="/w/index.php?title=Langage_LOGO&amp;printable=yes" title="Version imprimable de cette page [p]" accesskey="p">Version imprimable</a></li>					</ul>
+							</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> <div id="donation-box" style="border: 1px solid #a7d7f9; font-size: 1.6em; font-weight: bold; text-align: center; line-height: 1.6; background-color: rgb(242, 237, 248); margin-bottom: 0;">
+<div style="float: left; transform: scaleX(-1); margin-left: 0.5em; margin-top: 0.2em;"><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=contact%40vikidia%2eorg&amp;lc=FR&amp;item_name=Association%20Vikidia%2c%20Encyclopedie%20pour%20enfants&amp;no_note=0&amp;currency_code=EUR&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHostedGuest" rel="nofollow"><img alt="Open Clip Art Library Piggy Bank.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Open_Clip_Art_Library_Piggy_Bank.svg/60px-Open_Clip_Art_Library_Piggy_Bank.svg.png" width="60" height="58" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Open_Clip_Art_Library_Piggy_Bank.svg/90px-Open_Clip_Art_Library_Piggy_Bank.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Open_Clip_Art_Library_Piggy_Bank.svg/120px-Open_Clip_Art_Library_Piggy_Bank.svg.png 2x" data-file-width="456" data-file-height="442" /></a></div>
+<div><a rel="nofollow" class="external text" href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=contact%40vikidia%2eorg&amp;lc=FR&amp;item_name=Association%20Vikidia%2c%20Encyclopedie%20pour%20enfants&amp;no_note=0&amp;currency_code=EUR&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHostedGuest">Les contributeurs de Vikidia sont tous bénévoles, mais pas les serveurs !<br />2€, 20€, 50€... Clique ici pour faire un don !</a><div style="font-size: 0.5em; font-weight: normal; line-height: 1; padding-bottom: 0.3em; font-style: italic;"></div></div>
+</div>
+<div id="donation-box" style="margin-top: 0em; border: 1px solid #a7d7f9; font-size: 1.6em; font-weight: bold; text-align: center; line-height: 1.6; background-color: #FFFFFF;">
+<div style="float: left; margin-left: 1em; padding-top: 0.3em;"><a href="https://www.lilo.org/?utm_source=vikidia" rel="nofollow"><img alt="Logo-lilo.png" src="//download.vikidia.org/vikidia/fr/images/thumb/9/91/Logo-lilo.png/80px-Logo-lilo.png" width="80" height="28" srcset="//download.vikidia.org/vikidia/fr/images/thumb/9/91/Logo-lilo.png/120px-Logo-lilo.png 1.5x, //download.vikidia.org/vikidia/fr/images/thumb/9/91/Logo-lilo.png/160px-Logo-lilo.png 2x" data-file-width="221" data-file-height="77" /></a></div>
+<p><a rel="nofollow" class="external text" href="https://www.lilo.org/?utm_source=vikidia">Le saviez-vous ? Vous pouvez financer gratuitement Vikidia en utilisant le moteur de recherche solidaire Lilo.</a>
+</p>
+</div>
+<p><br />
+Par Vikidia, l’encyclopédie pour les jeunes, qui explique aux enfants et à ceux qui veulent une présentation simple d'un sujet.<br />
+Dernière modification de cette page le 17 décembre 2018 à 07:15.<br />
+</p></li>
+											<li id="footer-info-copyright">Le contenu est disponible sous licence <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-Share Alike 3.0</a> sauf mention contraire.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/Vikidia:Confidentialit%C3%A9" title="Vikidia:Confidentialité">Politique de confidentialité</a></li>
+											<li id="footer-places-about"><a href="/wiki/Vikidia:%C3%80_propos" title="Vikidia:À propos">À propos de Vikidia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Vikidia:Avertissements_g%C3%A9n%C3%A9raux" title="Vikidia:Avertissements généraux">Avertissements</a></li>
+											<li id="footer-places-mobileview"><a href="https://fr.vikidia.org/w/index.php?title=Langage_LOGO&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Version mobile</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://creativecommons.org/licenses/by-sa/3.0/"><img src="/w/resources/assets/licenses/cc-by-sa.png" alt="Creative Commons Attribution-Share Alike 3.0" width="88" height="31"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/w/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/w/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /w/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script type="e2b3f672f7dc5d5958e72272-text/javascript">(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.032","walltime":"0.036","ppvisitednodes":{"value":182,"limit":1000000},"ppgeneratednodes":{"value":929,"limit":1000000},"postexpandincludesize":{"value":8029,"limit":2097152},"templateargumentsize":{"value":2466,"limit":2097152},"expansiondepth":{"value":6,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%    9.704      1 -total"," 39.06%    3.790      1 Modèle:Palette_langages_informatiques"," 38.75%    3.760      2 Modèle:Méta_lien_portail"," 31.34%    3.041      1 Modèle:À_simplifier"," 23.60%    2.290      1 Modèle:Méta_bandeau"," 21.71%    2.107      1 Modèle:Portail"," 13.46%    1.306      1 Modèle:Portail_Informatique","  7.22%    0.701     38 Modèle:O","  5.76%    0.559      1 Modèle:Info","  2.87%    0.279      1 Modèle:---"]},"cachereport":{"timestamp":"20190308193904","ttl":86400,"transientcontent":false}}});});</script><!-- Piwik -->
+<script type="e2b3f672f7dc5d5958e72272-text/javascript">
+  var _paq = _paq || [];
+  _paq.push(["disableCookies"]);
+  _paq.push(["trackPageView"]);
+  _paq.push(["enableLinkTracking"]);
+
+  (function() {
+    var u = (("https:" == document.location.protocol) ? "https" : "http") + "://";
+    _paq.push(["setTrackerUrl", u+"stats.vikidia.org/"+"piwik.php"]);
+    _paq.push(["setSiteId", "1"]);
+    var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
+    g.defer=true; g.async=true; g.src=u+"download.vikidia.org/piwik.js"; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Piwik Code -->
+
+<!-- Piwik Image Tracker -->
+<noscript><img src="https://stats.vikidia.org/piwik.php?idsite=1&rec=1" style="border:0" alt="" /></noscript>
+<!-- End Piwik --><script type="e2b3f672f7dc5d5958e72272-text/javascript">(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":142});});</script>
+	<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/a2bd7673/cloudflare-static/rocket-loader.min.js" data-cf-settings="e2b3f672f7dc5d5958e72272-|49" defer=""></script></body>
+</html>
