@@ -551,9 +551,9 @@ def txt2tal(target, encoding):
 
 
 #order = 'test_process_file'
-#order = 'do_process'
-order = 'tal2bin'
-target = 'md_fr.tal' #'litEnfant.tal' #'orthoClean_tal' #'md_fr.tal'
+order = 'do_process'
+#order = 'tal2bin'
+target = 'VikiSimply-tal' #'litEnfant.tal' #'orthoClean_tal' #'md_fr.tal'
 option_dump = True
 if __name__ == '__main__':
     if len(sys.argv) > 1:
@@ -587,7 +587,7 @@ if __name__ == '__main__':
     elif order == 'test_process':
         mf = process('vikibest_tal_test')
     elif order == 'do_process':
-        mf = process('vikibest_tal')
+        mf = process(target)
         if option_dump:
-            pickle.dump(mf, open('vikibest_tal.bin', mode='wb'))
+            pickle.dump(mf, open(target+'.bin', mode='wb'))
         
