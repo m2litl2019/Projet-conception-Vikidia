@@ -465,8 +465,8 @@ def process_line(line, expected=10, debug=False):
         return None
 
 
-def process_multilines(content):
-    part = Part()
+def process_multilines(content,Tag=None):
+    part = Part(tag=Tag)
     sentence = None
     for line in content:
         w = process_line(line)
@@ -481,11 +481,11 @@ def process_multilines(content):
     return part
 
     
-def process_file(filename, encoding='utf8'):
-    file = open(filename, mode='r', encoding=encoding)
+def process_file(filename, encoding='utf8',Tag=None):
+    file = open(filename, mode='r', encoding = encoding)
     content = file.readlines()
     file.close()
-    return process_multilines(content)
+    return process_multilines(content,Tag)
 
 
 def console():
@@ -503,15 +503,15 @@ def load_bin(filename):
     return pickle.load(open(filename, mode='rb'))
 
 
-def load(filename, automerge=True):
+def load(filename, automerge=True,tag=None):
     if filename.endswith('.tal') or filename.endswith('.txt'):
-        return process_file(filename)
+        return process_file(filename,encoding="utf8",Tag=tag)
     elif filename.endswith('.bin'):
         return load_bin(filename)
     elif os.path.isdir(filename):
         parts = []
         for f in os.listdir(filename):
-            parts.append(load(filename + os.sep + f))
+            parts.append(load(filename + os.sep + f, tag=f))
         if automerge:
             return merge(parts)
         else:
@@ -553,7 +553,7 @@ def txt2tal(target, encoding):
 #order = 'test_process_file'
 #order = 'do_process'
 order = 'tal2bin'
-target = 'ortho200_tal' #'litEnfant.tal' #'orthoClean_tal' #'md_fr.tal'
+target = 'md_fr.tal' #'litEnfant.tal' #'orthoClean_tal' #'md_fr.tal'
 option_dump = True
 if __name__ == '__main__':
     if len(sys.argv) > 1:
