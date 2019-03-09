@@ -29,7 +29,7 @@ print()
 res_ema.update(reperage_definition(EMA))
 print()
 
-Wikipedia = 'Wikipedia.tal'
+Wikipedia = 'Wikipedia-tal'
 res_Wikipedia = {
     'GEN_TITLE' : 'Wikipedia',
     'GEN_URL' : '',
