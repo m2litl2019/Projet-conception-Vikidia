@@ -4,6 +4,8 @@ from reperage_passive import reperage_passive
 from reperage_pronoms import reperage_pronoms
 from reperage_verbeconj_prorel_sub import reperage_verbeconj_prorel_sub
 from reperage_tpsV import reperage_tps
+from reperage_def_con import reperage_connecteurs
+from reperage_def_con import reperage_definition
 import datetime
 
 EMA = 'ema.tal'
@@ -22,8 +24,11 @@ res_ema.update(reperage_verbeconj_prorel_sub(EMA))
 print()
 res_ema.update(reperage_tps(EMA))
 print()
-
-
+res_ema.update(reperage_connecteurs(EMA))
+print()
+res_ema.update(reperage_definition(EMA))
+print()
+  
 MAUPA = 'maupassant12.bin'
 res_maupa = {
     'GEN_TITLE' : 'MAUPASSANT',
@@ -39,6 +44,10 @@ print()
 res_maupa.update(reperage_verbeconj_prorel_sub(MAUPA))
 print()
 res_maupa.update(reperage_tps(MAUPA))
+print()
+res_maupa.update(reperage_connecteurs(MAUPA))
+print()
+res_maupa.update(reperage_definition(MAUPA))
 print()
 
 VIKIBEST = 'vikibest'
@@ -59,6 +68,11 @@ print()
 res_vikibest.update(reperage_tps(VIKIBEST))
 print()
 
+res_vikibest.update(reperage_connecteurs(VIKIBEST))
+print()
+res_vikibest.update(reperage_definition(VIKIBEST))
+print()
+
 VIKIRANDOM = 'VikiRandom-tal'
 res_vikirandom = {
     'GEN_TITLE' : 'VIKIRANDOM',
@@ -76,6 +90,10 @@ res_vikirandom.update(reperage_verbeconj_prorel_sub(VIKIRANDOM))
 print()
 res_vikirandom.update(reperage_tps(VIKIRANDOM))
 print()
+res_vikirandom.update(reperage_connecteurs(VIKIRANDOM))
+print()
+res_vikirandom.update(reperage_definition(VIKIRANDOM))
+print()
 
 vikisimply= 'VikiSimply-tal'
 res_vikisimply = {
@@ -92,6 +110,10 @@ print()
 res_vikisimply.update(reperage_verbeconj_prorel_sub(vikisimply))
 print()
 res_vikisimply.update(reperage_tps(vikisimply))
+print()
+res_vikisimply.update(reperage_connecteurs(vikisimply))
+print()
+res_vikisimply.update(reperage_definition(vikisimply))
 print()
 
 LITENF = 'litEnfant.bin'
@@ -112,6 +134,10 @@ print()
 res_litenf.update(reperage_tps(LITENF))
 print()
 
+res_litenf.update(reperage_connecteurs(LITENF))
+print()
+res_litenf.update(reperage_definition(LITENF))
+print()
 
 MONDEDIPLO = 'md_fr.bin'
 res_md = {
@@ -130,6 +156,10 @@ res_md.update(reperage_verbeconj_prorel_sub(MONDEDIPLO))
 print()
 res_md.update(reperage_tps(MONDEDIPLO))
 print()
+print()
+res_md.update(reperage_connecteurs(MONDEDIPLO))
+print()
+res_md.update(reperage_definition(MONDEDIPLO))
 
 
 p = Presentation('templates/maquette2.html')
