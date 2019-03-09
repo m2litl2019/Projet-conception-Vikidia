@@ -59,6 +59,40 @@ print()
 res_vikibest.update(reperage_tps(VIKIBEST))
 print()
 
+VIKIRANDOM = 'VikiRandom-tal'
+res_vikirandom = {
+    'GEN_TITLE' : 'VIKIRANDOM',
+    'GEN_URL' : 'https://github.com/m2litl2019/Projet-conception-Vikidia/tree/master/base/VikiRandom-tal',
+    'GEN_DATE' : str(datetime.datetime.now())
+}
+print('== Des articles au hasard de Vikidia ==')
+print()
+res_vikirandom.update(reperage_passive(VIKIRANDOM))
+print()
+res_vikirandom.update(reperage_pronoms(VIKIRANDOM))
+res_vikirandom.update(reperage_pronoms(VIKIRANDOM))
+print()
+res_vikirandom.update(reperage_verbeconj_prorel_sub(VIKIRANDOM))
+print()
+res_vikirandom.update(reperage_tps(VIKIRANDOM))
+print()
+
+vikisimply= 'VikiSimply-tal'
+res_vikisimply = {
+    'GEN_TITLE' : 'VikiSimply',
+    'GEN_URL' : 'https://github.com/m2litl2019/Projet-conception-Vikidia/blob/master/base/VikiSimply-tal',
+    'GEN_DATE' : str(datetime.datetime.now())
+}
+print('== VIKIDIA "à simplifier" ==')
+print()
+res_vikisimply.update(reperage_passive(vikisimply))
+print()
+res_vikisimply.update(reperage_pronoms(vikisimply))
+print()
+res_vikisimply.update(reperage_verbeconj_prorel_sub(vikisimply))
+print()
+res_vikisimply.update(reperage_tps(vikisimply))
+print()
 
 LITENF = 'litEnfant.bin'
 res_litenf = {
