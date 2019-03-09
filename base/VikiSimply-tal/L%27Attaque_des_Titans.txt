@@ -1,0 +1,930 @@
+<p>
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	Attaque	attaque	NC	NC	n=s|g=f	0	_	0	_
+3	des	de	P+D	P+D	n=p	2	dep	2	dep
+4	Titans	_	NPP	NPP		3	prep	3	prep
+5	(	(	PONCT	PONCT		4	ponct	4	ponct
+6	en	en	P	P		2	dep	2	dep
+7	anglais	anglais	NC	NC	g=m	6	prep	6	prep
+8	:	:	PONCT	PONCT		7	ponct	7	ponct
+9	Attack	_	NPP	NPP		0	_	0	_
+10	on	on	CLS	CLS	n=s|p=3	0	_	0	_
+11	Titans	_	NPP	NPP		10	prep	10	prep
+12	et	et	CC	CC		11	coord	11	coord
+13	en	en	P	P		12	dep_coord	12	dep_coord
+14	japonais	japonais	NC	NC	g=m	13	prep	13	prep
+15	Shingeki	_	NPP	NPP		14	mod	14	mod
+16	no	_	NPP	NPP		14	mod	14	mod
+17	Kyojin	_	NPP	NPP		14	mod	14	mod
+18	)	)	PONCT	PONCT		17	ponct	17	ponct
+19	est	être	V	V	n=s|t=P|p=3	10	ponct	10	ponct
+20	un	un	DET	DET	n=s|g=m	21	det	21	det
+21	shonen	_	NC	NC		19	obj	19	obj
+22	et	et	CC	CC		19	coord	19	coord
+23	un	un	DET	DET	n=s|g=m	24	det	24	det
+24	dessin	dessin	NC	NC	n=s|g=m	22	dep_coord	22	dep_coord
+25	animé	animer	VPP	VPP	n=s|g=m|t=K	24	mod	24	mod
+26	japonais	japonais	ADJ	ADJ	g=m	25	mod	25	mod
+27	sur	sur	P	P		25	mod	25	mod
+28	des	des	DET	DET	n=p	29	det	29	det
+29	géants	géant	NC	NC	n=p|g=f	27	prep	27	prep
+30	(	(	PONCT	PONCT		29	ponct	29	ponct
+31	Titans	titan	NC	NC	n=p|g=m	25	mod	25	mod
+32	)	)	PONCT	PONCT		31	ponct	31	ponct
+33	.	.	PONCT	PONCT		31	ponct	31	ponct
+
+</p><h2>
+1	Histoire	histoire	NC	NC	n=s|g=f	0	_	0	_
+
+</h2><h3>
+1	Saison	saison	NC	NC	n=s|g=f	0	_	0	_
+2	1	1	NC	NC		1	mod	1	mod
+
+</h3><p>
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	attaque	attaque	NC	NC	n=s|g=f	5	suj	5	suj
+3	des	de	P+D	P+D	n=p	2	dep	2	dep
+4	titans	titan	NC	NC	n=p|g=m	3	prep	3	prep
+5	raconte	raconter	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+6	l’	le	DET	DET	n=s	7	det	7	det
+7	histoire	histoire	NC	NC	n=s|g=f	5	obj	5	obj
+8	de	de	P	P		7	dep	7	dep
+9	Eren	Eren	NPP	NPP	n=s|g=m	8	prep	8	prep
+10	Jäger	_	NPP	NPP		9	mod	9	mod
+11	qui	qui	PROREL	PROREL	n=s	12	suj	12	suj
+12	vit	vivre	V	V	n=s|t=P|p=3	7	mod_rel	7	mod_rel
+13	dans	dans	P	P		12	mod	12	mod
+14	un	un	DET	DET	n=s|g=m	15	det	15	det
+15	monde	monde	NC	NC	n=s|g=m	13	prep	13	prep
+16	où	où	PROREL	PROREL		23	mod	23	mod
+17	un	un	DET	DET	n=s|g=m	18	det	18	det
+18	prédateur	prédateur	NC	NC	n=s|g=m	23	suj	23	suj
+19	naturel	naturel	ADJ	ADJ	n=s|g=m	18	mod	18	mod
+20	de	de	P	P		18	dep	18	dep
+21	l'	le	DET	DET	n=s	22	det	22	det
+22	homme	homme	NC	NC	n=s|g=m	20	prep	20	prep
+23	serait	être	V	V	n=s|t=C|p=3	15	mod_rel	15	mod_rel
+24	apparut	_	ADV	ADV		23	mod	23	mod
+25	cent	cent	DET	DET	s=card|n=p	26	det	26	det
+26	ans	an	NC	NC	n=p|g=m	23	obj	23	obj
+27	auparavant	auparavant	ADV	ADV		23	mod	23	mod
+28	.	.	PONCT	PONCT		27	ponct	27	ponct
+
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	humanité	humanité	NC	NC	n=s|g=f	9	suj	9	suj
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	contrainte	contraindre	VPP	VPP	n=s|g=f|t=K	2	mod	2	mod
+5	de	de	P	P		4	mod	4	mod
+6	se	se	CLR	CLR	n=p,s|p=3	7	aff	7	aff
+7	replier	replier	VINF	VINF	t=W	5	prep	5	prep
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	bâtit	bâtir	V	V	n=s|t=J,P|p=3	0	root	0	root
+10	trois	trois	DET	DET	s=card|n=p	11	det	11	det
+11	murs	mur	NC	NC	n=p|g=m	9	obj	9	obj
+12	:	:	PONCT	PONCT		11	ponct	11	ponct
+13	Le	le	DET	DET	n=s|g=m	14	det	14	det
+14	mur	mur	NC	NC	n=s|g=m	0	_	0	_
+15	Maria	Maria	NPP	NPP	n=s|g=f	14	mod	14	mod
+16	(	(	PONCT	PONCT		15	ponct	15	ponct
+17	celui	celui	PRO	PRO	n=s|g=m	14	mod	14	mod
+18	le	le	DET	DET	n=s|g=m	0	_	0	_
+19	plus	plus	ADV	ADV		0	_	0	_
+20	à	à	P	P		0	_	0	_
+21	l'	le	DET	DET	n=s	22	det	22	det
+22	extérieur	extérieur	ADJ	ADJ	n=s|g=m	20	prep	20	prep
+23	donc	donc	ADV	ADV		22	mod	22	mod
+24	le	le	DET	DET	n=s|g=m	0	_	0	_
+25	plus	plus	ADV	ADV		0	_	0	_
+26	à	à	P	P		0	_	0	_
+27	la	la	DET	DET	n=s|g=f	28	det	28	det
+28	porté	porté	NC	NC	n=s|g=m	26	prep	26	prep
+29	des	de	P+D	P+D	n=p	28	dep	28	dep
+30	titans	titan	NC	NC	n=p|g=m	29	prep	29	prep
+31	)	)	PONCT	PONCT		30	ponct	30	ponct
+32	,	,	PONCT	PONCT		30	ponct	30	ponct
+33	le	le	DET	DET	n=s|g=m	34	det	34	det
+34	mur	mur	NC	NC	n=s|g=m	0	_	0	_
+35	Rose	Rose	NPP	NPP	n=s|g=f	34	mod	34	mod
+36	(	(	PONCT	PONCT		35	ponct	35	ponct
+37	celui	celui	PRO	PRO	n=s|g=m	34	mod	34	mod
+38	du	de	P+D	P+D	n=s|g=m	37	dep	37	dep
+39	milieu	milieu	NC	NC	n=s|g=m	38	prep	38	prep
+40	)	)	PONCT	PONCT		39	ponct	39	ponct
+41	et	et	CC	CC		37	coord	37	coord
+42	le	le	DET	DET	n=s|g=m	43	det	43	det
+43	mur	mur	NC	NC	n=s|g=m	0	_	0	_
+44	Sina	_	NPP	NPP		43	mod	43	mod
+45	(	(	PONCT	PONCT		44	ponct	44	ponct
+46	le	le	DET	DET	n=s|g=m	48	det	48	det
+47	plus	plus	ADV	ADV		48	mod	48	mod
+48	protégé	protéger	VPP	VPP	n=s|g=m|t=K	43	mod	43	mod
+49	où	où	PROREL	PROREL		51	suj	51	suj
+50	se	se	CLR	CLR	n=p,s|p=3	51	aff	51	aff
+51	trouve	trouver	V	V	n=s|t=P,S|p=1,3	43	mod_rel	43	mod_rel
+52	le	le	DET	DET	n=s|g=m	53	det	53	det
+53	Roi	Roi	NPP	NPP	n=s|g=m	51	suj	51	suj
+54	,	,	PONCT	PONCT		53	ponct	53	ponct
+55	et	et	CC	CC		43	coord	43	coord
+56	les	les	DET	DET	n=p	57	det	57	det
+57	personnes	personne	NC	NC	n=p|g=f	55	dep_coord	55	dep_coord
+58	importantes	important	ADJ	ADJ	n=p|g=f	57	mod	57	mod
+59	,	,	PONCT	PONCT		58	ponct	58	ponct
+60	hauts-placées	_	NC	NC		57	mod	57	mod
+61	ou	ou	CC	CC		60	coord	60	coord
+62	les	les	DET	DET	n=p	63	det	63	det
+63	brigades	brigade	NC	NC	n=p|g=f	61	dep_coord	61	dep_coord
+64	spéciales	spécial	ADJ	ADJ	n=p|g=f	63	mod	63	mod
+65	,	,	PONCT	PONCT		64	ponct	64	ponct
+66	un	un	DET	DET	n=s|g=m	67	det	67	det
+67	corps	corps	NC	NC	g=m	43	mod	43	mod
+68	d'	de	P	P		67	dep	67	dep
+69	armée	armée	NC	NC	n=s|g=f	68	prep	68	prep
+70	.	.	PONCT	PONCT		69	ponct	69	ponct
+71	)	)	PONCT	PONCT		69	ponct	69	ponct
+72	.	.	PONCT	PONCT		69	ponct	69	ponct
+
+1	Tous	tout	ADJ	ADJ	n=p|g=m	3	mod	3	mod
+2	les	les	DET	DET	n=p	3	det	3	det
+3	murs	mur	NC	NC	n=p|g=m	4	suj	4	suj
+4	font	faire	V	V	n=p|t=P|p=3	0	root	0	root
+5	plus	plus	ADV	ADV		4	mod	4	mod
+6	de	de	P	P		4	mod	4	mod
+7	50	50	NC	NC		6	prep	6	prep
+8	mètres	mètre	NC	NC	n=p|g=m	7	mod	7	mod
+9	de	de	P	P		4	mod	4	mod
+10	haut	haut	NC	NC	n=s|g=m	9	prep	9	prep
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+1	Eren	Eren	NPP	NPP	n=s|g=m	0	_	0	_
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	4	det	4	det
+4	famille	famille	NC	NC	n=s|g=f	1	mod	1	mod
+5	(	(	PONCT	PONCT		4	ponct	4	ponct
+6	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	7	det	7	det
+7	mère	mère	NC	NC	n=s|g=f	1	mod	1	mod
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	son	son	DET	DET	n=s|g=m|p=3|poss=s	10	det	10	det
+10	père	père	NC	NC	n=s|g=m	1	mod	1	mod
+11	et	et	CC	CC		10	coord	10	coord
+12	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	13	det	13	det
+13	sœur	_	NC	NC		11	dep_coord	11	dep_coord
+14	adoptive	adoptif	ADJ	ADJ	n=s|g=f	13	mod	13	mod
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	Mikasa	_	NPP	NPP		13	mod	13	mod
+17	Ackerman	_	NPP	NPP		13	mod	13	mod
+18	)	)	PONCT	PONCT		17	ponct	17	ponct
+19	ainsi	ainsi	ADV	ADV		13	mod	13	mod
+20	que	que	CS	CS		19	dep	19	dep
+21	Armin	Armin	NPP	NPP	n=s|g=m	29	suj	29	suj
+22	Arlert	_	NPP	NPP		21	mod	21	mod
+23	(	(	PONCT	PONCT		22	ponct	22	ponct
+24	son	son	DET	DET	n=s|g=m|p=3|poss=s	26	det	26	det
+25	seul	seul	ADJ	ADJ	n=s|g=m	26	mod	26	mod
+26	ami	ami	NC	NC	n=s|g=m	21	mod	21	mod
+27	)	)	PONCT	PONCT		26	ponct	26	ponct
+28	...	...	PONCT	PONCT		26	ponct	26	ponct
+29	vivent	vivre	V	V	n=p|t=P,S|p=3	20	sub	20	sub
+30	dans	dans	P	P		29	mod	29	mod
+31	le	le	DET	DET	n=s|g=m	32	det	32	det
+32	district	district	NC	NC	n=s|g=m	30	prep	30	prep
+33	de	de	P	P		29	mod	29	mod
+34	Shiganshina	_	NPP	NPP		33	prep	33	prep
+35	,	,	PONCT	PONCT		34	ponct	34	ponct
+36	à	à	P	P		29	mod	29	mod
+37	l'	le	DET	DET	n=s	38	det	38	det
+38	abri	abri	NC	NC	n=s|g=m	36	prep	36	prep
+39	des	de	P+D	P+D	n=p	38	dep	38	dep
+40	titans	titan	NC	NC	n=p|g=m	39	prep	39	prep
+41	,	,	PONCT	PONCT		40	ponct	40	ponct
+42	protégés	protéger	VPP	VPP	n=p|g=m|t=K	40	mod	40	mod
+43	par	par	P	P		42	mod	42	mod
+44	le	le	DET	DET	n=s|g=m	45	det	45	det
+45	mur	mur	NC	NC	n=s|g=m	43	prep	43	prep
+46	Maria	Maria	NPP	NPP	n=s|g=f	45	mod	45	mod
+47	.	.	PONCT	PONCT		46	ponct	46	ponct
+
+1	Mais	mais	CC	CC		0	root	0	root
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	en	en	P	P		8	mod	8	mod
+4	845	845	NC	NC		3	prep	3	prep
+5	le	le	DET	DET	n=s|g=m	6	det	6	det
+6	titan	titan	NC	NC	n=s|g=m	8	suj	8	suj
+7	Colossal	_	NPP	NPP		6	mod	6	mod
+8	apparaît	apparaître	V	V	n=s|t=P|p=3	1	dep_coord	1	dep_coord
+9	(	(	PONCT	PONCT		8	ponct	8	ponct
+10	+	+	ADV	ADV		8	mod	8	mod
+11	de	de	P	P		8	mod	8	mod
+12	50	50	NC	NC		11	prep	11	prep
+13	m	_	NPP	NPP		12	mod	12	mod
+14	de	de	P	P		8	mod	8	mod
+15	haut	haut	NC	NC	n=s|g=m	14	prep	14	prep
+16	)	)	PONCT	PONCT		15	ponct	15	ponct
+17	et	et	CC	CC		8	coord	8	coord
+18	détruit	détruire	VPP	VPP	n=s|g=m|t=K	17	dep_coord	17	dep_coord
+19	le	le	DET	DET	n=s|g=m	20	det	20	det
+20	mur	mur	NC	NC	n=s|g=m	18	mod	18	mod
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	permettant	permettre	VPR	VPR	t=G	18	mod	18	mod
+23	aux	à	P+D	P+D	n=p	22	mod	22	mod
+24	titans	titan	NC	NC	n=p|g=m	23	prep	23	prep
+25	d'	de	P	P		22	mod	22	mod
+26	envahir	envahir	VINF	VINF	t=W	25	prep	25	prep
+27	le	le	DET	DET	n=s|g=m	28	det	28	det
+28	district	district	NC	NC	n=s|g=m	26	obj	26	obj
+29	de	de	P	P		26	mod	26	mod
+30	Shiganshina	_	NPP	NPP		29	prep	29	prep
+31	.	.	PONCT	PONCT		30	ponct	30	ponct
+
+1	Durant	durant	P	P		11	mod	11	mod
+2	cette	cette	DET	DET	n=s|g=f	4	det	4	det
+3	l'	le	DET	DET	n=s	4	det	4	det
+4	attaque	attaque	NC	NC	n=s|g=f	1	prep	1	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	la	la	DET	DET	n=s|g=f	7	det	7	det
+7	mère	mère	NC	NC	n=s|g=f	11	suj	11	suj
+8	d'	de	P	P		7	dep	7	dep
+9	Eren	Eren	NPP	NPP	n=s|g=m	8	prep	8	prep
+10	se	se	CLR	CLR	n=p,s|p=3	11	aff	11	aff
+11	fait	faire	V	V	n=s|t=P|p=3	0	root	0	root
+12	dévorer	dévorer	VINF	VINF	t=W	11	obj	11	obj
+13	par	par	P	P		12	mod	12	mod
+14	un	un	DET	DET	n=s|g=m	15	det	15	det
+15	titan	titan	NC	NC	n=s|g=m	13	prep	13	prep
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+1	Eren	Eren	NPP	NPP	n=s|g=m	5	suj	5	suj
+2	et	et	CC	CC		1	coord	1	coord
+3	Mikasa	_	NPP	NPP		2	dep_coord	2	dep_coord
+4	sont	être	V	V	n=p|t=P|p=3	5	aux_tps	5	aux_tps
+5	sauvés	sauver	VPP	VPP	n=p|g=m|t=K	0	root	0	root
+6	in	in	ADJ	ADJ		0	_	0	_
+7	extremis	_	ADV	ADV		6	mod	6	mod
+8	par	par	P	P		6	mod	6	mod
+9	Hannes	Hannes	NPP	NPP	n=s|g=m	8	prep	8	prep
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	soldat	soldat	NC	NC	n=s|g=m	9	mod	9	mod
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	membre	membre	NC	NC	n=s|g=m	9	mod	9	mod
+14	de	de	P	P		13	dep	13	dep
+15	la	la	DET	DET	n=s|g=f	16	det	16	det
+16	garnison	garnison	NC	NC	n=s|g=f	14	prep	14	prep
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+1	Puis	puis	CC	CC		0	root	0	root
+2	le	le	DET	DET	n=s|g=m	3	det	3	det
+3	titan	titan	NC	NC	n=s|g=m	5	suj	5	suj
+4	Cuirassé	_	NPP	NPP		3	mod	3	mod
+5	fait	faire	V	V	n=s|t=P|p=3	1	dep_coord	1	dep_coord
+6	son	son	DET	DET	n=s|g=m|p=3|poss=s	7	det	7	det
+7	apparition	apparition	NC	NC	n=s|g=f	5	obj	5	obj
+8	et	et	CC	CC		5	coord	5	coord
+9	détruit	détruire	V	V	n=s|t=P|p=3	8	dep_coord	8	dep_coord
+10	la	la	DET	DET	n=s|g=f	11	det	11	det
+11	porte	porte	NC	NC	n=s|g=f	9	obj	9	obj
+12	intérieure	intérieur	ADJ	ADJ	n=s|g=f	11	mod	11	mod
+13	donnant	donner	VPR	VPR	t=G	11	mod	11	mod
+14	aux	à	P+D	P+D	n=p	13	mod	13	mod
+15	titans	titan	NC	NC	n=p|g=m	14	prep	14	prep
+16	l'	le	DET	DET	n=s	17	det	17	det
+17	accès	accès	NC	NC	g=m	13	obj	13	obj
+18	aux	à	P+D	P+D	n=p	13	mod	13	mod
+19	villes	ville	NC	NC	n=p|g=f	18	prep	18	prep
+20	derrière	derrière	P	P		13	mod	13	mod
+21	le	le	DET	DET	n=s|g=m	22	det	22	det
+22	mur	mur	NC	NC	n=s|g=m	20	prep	20	prep
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	forçant	forcer	VPR	VPR	t=G	11	mod	11	mod
+25	l'	le	DET	DET	n=s	26	det	26	det
+26	humanité	humanité	NC	NC	n=s|g=f	24	obj	24	obj
+27	à	à	P	P		24	mod	24	mod
+28	reculer	reculer	VINF	VINF	t=W	27	prep	27	prep
+29	son	son	DET	DET	n=s|g=m|p=3|poss=s	30	det	30	det
+30	activité	activité	NC	NC	n=s|g=f	28	obj	28	obj
+31	jusqu'	jusque	P	P		28	mod	28	mod
+32	au	à	P+D	P+D	n=s|g=m	28	mod	28	mod
+33	mur	mur	NC	NC	n=s|g=m	32	prep	32	prep
+34	Rose	Rose	NPP	NPP	n=s|g=f	33	mod	33	mod
+35	(	(	PONCT	PONCT		34	ponct	34	ponct
+36	deuxième	deuxième	ADJ	ADJ	n=s	33	mod	33	mod
+37	rempart	rempart	NC	NC	n=s|g=m	33	mod	33	mod
+38	de	de	P	P		37	dep	37	dep
+39	l'	le	DET	DET	n=s	40	det	40	det
+40	humanité	humanité	NC	NC	n=s|g=f	38	prep	38	prep
+41	après	après	P	P		28	mod	28	mod
+42	Maria	Maria	NPP	NPP	n=s|g=f	41	prep	41	prep
+43	)	)	PONCT	PONCT		42	ponct	42	ponct
+44	.	.	PONCT	PONCT		42	ponct	42	ponct
+
+1	20	20	ADJ	ADJ		2	mod	2	mod
+2	%	%	NC	NC	g=m	7	suj	7	suj
+3	de	de	P	P		2	dep	2	dep
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	population	population	NC	NC	n=s|g=f	3	prep	3	prep
+6	fut	être	V	V	n=s|t=J|p=3	7	aux_pass	7	aux_pass
+7	dévorée	dévorer	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	puis	puis	CC	CC		7	coord	7	coord
+10	le	le	DET	DET	n=s|g=m	11	det	11	det
+11	gouvernement	gouvernement	NC	NC	n=s|g=m	13	suj	13	suj
+12	central	central	ADJ	ADJ	n=s|g=m	11	mod	11	mod
+13	prétexta	prétexter	V	V	n=s|t=J|p=3	9	dep_coord	9	dep_coord
+14	la	la	DET	DET	n=s|g=f	15	det	15	det
+15	formation	formation	NC	NC	n=s|g=f	13	obj	13	obj
+16	d'	de	P	P		13	mod	13	mod
+17	une	une	DET	DET	n=s|g=f	18	det	18	det
+18	armée	armée	NC	NC	n=s|g=f	16	prep	16	prep
+19	pour	pour	P	P		13	mod	13	mod
+20	affronter	affronter	VINF	VINF	t=W	19	prep	19	prep
+21	les	les	DET	DET	n=p	22	det	22	det
+22	titans	titan	NC	NC	n=p|g=m	20	obj	20	obj
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	pour	pour	P	P		13	mod	13	mod
+25	se	se	CLR	CLR	n=p,s|p=3	26	aff	26	aff
+26	débarrasser	débarrasser	VINF	VINF	t=W	24	prep	24	prep
+27	du	de	P+D	P+D	n=s|g=m	26	mod	26	mod
+28	surplus	surplus	NC	NC	g=m	27	prep	27	prep
+29	d’	de	P	P		28	dep	28	dep
+30	habitants	habitant	NC	NC	n=p|g=m	29	prep	29	prep
+31	et	et	CC	CC		13	coord	13	coord
+32	permettre	permettre	VINF	VINF	t=W	31	dep_coord	31	dep_coord
+33	aux	à	P+D	P+D	n=p	32	mod	32	mod
+34	restants	restant	NC	NC	n=p|g=m	33	prep	33	prep
+35	de	de	P	P		32	mod	32	mod
+36	ne	ne	ADV	ADV		38	mod	38	mod
+37	pas	pas	ADV	ADV		38	mod	38	mod
+38	mourir	mourir	VINF	VINF	t=W	35	prep	35	prep
+39	de	de	P	P		38	mod	38	mod
+40	faim	faim	NC	NC	n=s|g=f	39	prep	39	prep
+41	.	.	PONCT	PONCT		40	ponct	40	ponct
+
+1	Eren	Eren	NPP	NPP	n=s|g=m	6	suj	6	suj
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	Mikasa	_	NPP	NPP		1	mod	1	mod
+4	et	et	CC	CC		1	coord	1	coord
+5	Armin	Armin	NPP	NPP	n=s|g=m	4	dep_coord	4	dep_coord
+6	entamèrent	entamer	V	V	n=p|t=J|p=3	0	root	0	root
+7	une	une	DET	DET	n=s|g=f	8	det	8	det
+8	formation	formation	NC	NC	n=s|g=f	6	obj	6	obj
+9	pour	pour	P	P		6	mod	6	mod
+10	entrer	entrer	VINF	VINF	t=W	9	prep	9	prep
+11	dans	dans	P	P		10	mod	10	mod
+12	l'	le	DET	DET	n=s	13	det	13	det
+13	armée	armée	NC	NC	n=s|g=f	11	prep	11	prep
+14	(	(	PONCT	PONCT		13	ponct	13	ponct
+15	Eren	Eren	NPP	NPP	n=s|g=m	6	mod	6	mod
+16	le	le	DET	DET	n=s|g=m	17	det	17	det
+17	bataillon	bataillon	NC	NC	n=s|g=m	6	mod	6	mod
+18	d'	de	P	P		17	dep	17	dep
+19	exploration	exploration	NC	NC	n=s|g=f	18	prep	18	prep
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	Mikasa	_	NPP	NPP		17	mod	17	mod
+22	pour	pour	P	P		6	mod	6	mod
+23	accompagner	accompagner	VINF	VINF	t=W	22	prep	22	prep
+24	Eren	Eren	NPP	NPP	n=s|g=m	23	obj	23	obj
+25	et	et	CC	CC		6	coord	6	coord
+26	Armin	Armin	NPP	NPP	n=s|g=m	25	dep_coord	25	dep_coord
+27	pour	pour	P	P		6	mod	6	mod
+28	être	être	VINF	VINF	t=W	27	prep	27	prep
+29	stratège	stratège	NC	NC	n=s	28	obj	28	obj
+30	)	)	PONCT	PONCT		29	ponct	29	ponct
+31	.	.	PONCT	PONCT		29	ponct	29	ponct
+
+1	Ils	ils	CLS	CLS	n=p|g=m|p=3	3	suj	3	suj
+2	y	y	CLO	CLO		3	aff	3	aff
+3	firent	faire	V	V	n=p|t=J|p=3	0	root	0	root
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	rencontre	rencontre	NC	NC	n=s	3	obj	3	obj
+6	de	de	P	P		3	mod	3	mod
+7	Sacha	Sacha	NPP	NPP	n=s	6	prep	6	prep
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	Jean	Jean	NPP	NPP	n=s	3	mod	3	mod
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	Ymir	_	NPP	NPP		9	mod	9	mod
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	Reiner	Reiner	NPP	NPP	n=s|g=m	9	mod	9	mod
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	Berthold	Berthold	NPP	NPP	n=s|g=m	9	mod	9	mod
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	Annie	Annie	NPP	NPP	n=s|g=f	9	mod	9	mod
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	et	et	CC	CC		3	coord	3	coord
+20	plein	plein	ADJ	ADJ	n=s|g=m	19	dep_coord	19	dep_coord
+21	d'	de	P	P		19	dep_coord	19	dep_coord
+22	autres	autres	PRO	PRO	n=p|g=f,m	21	prep	21	prep
+23	dans	dans	P	P		19	dep_coord	19	dep_coord
+24	la	la	DET	DET	n=s|g=f	26	det	26	det
+25	104ème	_	ADJ	ADJ		26	mod	26	mod
+26	brigades	brigade	NC	NC	n=p|g=f	23	prep	23	prep
+27	d'	de	P	P		26	dep	26	dep
+28	entraînement	entraînement	NC	NC	n=s|g=m	27	prep	27	prep
+29	...	...	PONCT	PONCT		28	ponct	28	ponct
+
+1	À	à	P	P		9	mod	9	mod
+2	la	la	DET	DET	n=s|g=f	3	det	3	det
+3	fin	fin	NC	NC	n=s	1	prep	1	prep
+4	de	de	P	P		3	dep	3	dep
+5	leurs	leurs	DET	DET	n=p|p=3|poss=p	6	det	6	det
+6	formation	formation	NC	NC	n=s|g=f	4	prep	4	prep
+7	(	(	PONCT	PONCT		6	ponct	6	ponct
+8	c’	ce	CLS	CLS		9	suj	9	suj
+9	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+10	à	à	P	P		9	ats	9	ats
+11	dire	dire	VINF	VINF	t=W	10	prep	10	prep
+12	3	3	ADJ	ADJ		13	mod	13	mod
+13	ans	an	NC	NC	n=p|g=m	11	obj	11	obj
+14	plus	plus	ADV	ADV		15	mod	15	mod
+15	tard	tard	ADV	ADV		11	mod	11	mod
+16	)	)	PONCT	PONCT		15	ponct	15	ponct
+17	seul	seul	ADJ	ADJ	n=s|g=m	20	mod	20	mod
+18	les	les	DET	DET	n=p	20	det	20	det
+19	dix	dix	ADJ	ADJ	s=card|n=p	20	mod	20	mod
+20	premiers	premier	ADJ	ADJ	n=p|g=m	24	suj	24	suj
+21	de	de	P	P		20	mod	20	mod
+22	la	la	DET	DET	n=s|g=f	23	det	23	det
+23	promotion	promotion	NC	NC	n=s|g=f	21	prep	21	prep
+24	pouvait	pouvoir	V	V	n=s|t=I|p=3	9	mod	9	mod
+25	choisir	choisir	VINF	VINF	t=W	24	obj	24	obj
+26	d’	de	P	P		25	mod	25	mod
+27	être	être	VINF	VINF	t=W	26	prep	26	prep
+28	au	à	P+D	P+D	n=s|g=m	27	mod	27	mod
+29	service	service	NC	NC	n=s|g=m	28	prep	28	prep
+30	du	de	P+D	P+D	n=s|g=m	29	dep	29	dep
+31	roi	roi	NC	NC	n=s|g=m	30	prep	30	prep
+32	(	(	PONCT	PONCT		31	ponct	31	ponct
+33	brigades	brigade	NC	NC	n=p|g=f	29	mod	29	mod
+34	spéciales	spécial	ADJ	ADJ	n=p|g=f	33	mod	33	mod
+35	)	)	PONCT	PONCT		34	ponct	34	ponct
+36	et	et	CC	CC		24	coord	24	coord
+37	tous	tout	ADJ	ADJ	n=p|g=m	36	dep_coord	36	dep_coord
+38	les	les	DET	DET	n=p	0	_	0	_
+39	autres	autres	PRO	PRO	n=p|g=f,m	0	_	0	_
+40	devait	devoir	V	V	n=s|t=I|p=3	0	_	0	_
+41	choisir	choisir	VINF	VINF	t=W	40	obj	40	obj
+42	entre	entre	P	P		41	mod	41	mod
+43	la	la	DET	DET	n=s|g=f	44	det	44	det
+44	garnison	garnison	NC	NC	n=s|g=f	42	prep	42	prep
+45	et	et	CC	CC		40	coord	40	coord
+46	le	le	DET	DET	n=s|g=m	47	det	47	det
+47	bataillon	bataillon	NC	NC	n=s|g=m	45	dep_coord	45	dep_coord
+48	d’	de	P	P		47	dep	47	dep
+49	exploration	exploration	NC	NC	n=s|g=f	48	prep	48	prep
+50	.	.	PONCT	PONCT		49	ponct	49	ponct
+
+1	Bien	bien	ADV	ADV		2	mod	2	mod
+2	sûr	sûr	ADJ	ADJ	n=s|g=m	4	mod	4	mod
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	Eren	Eren	NPP	NPP	n=s|g=m	5	suj	5	suj
+5	choisit	choisir	V	V	n=s|t=J,P|p=3	0	root	0	root
+6	le	le	DET	DET	n=s|g=m	7	det	7	det
+7	bataillon	bataillon	NC	NC	n=s|g=m	5	obj	5	obj
+8	d’	de	P	P		5	mod	5	mod
+9	exploration	exploration	NC	NC	n=s|g=f	8	prep	8	prep
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	Mikasa	_	NPP	NPP		5	mod	5	mod
+12	pour	pour	P	P		5	mod	5	mod
+13	veiller	veiller	VINF	VINF	t=W	12	prep	12	prep
+14	sur	sur	P	P		13	mod	13	mod
+15	Eren	Eren	NPP	NPP	n=s|g=m	14	prep	14	prep
+16	choisit	choisir	V	V	n=s|t=J,P|p=3	5	mod	5	mod
+17	également	_	ADV	ADV		16	mod	16	mod
+18	le	le	DET	DET	n=s|g=m	19	det	19	det
+19	bataillon	bataillon	NC	NC	n=s|g=m	16	obj	16	obj
+20	d’	de	P	P		19	dep	19	dep
+21	exploration	exploration	NC	NC	n=s|g=f	20	prep	20	prep
+22	et	et	CC	CC		16	coord	16	coord
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	Armin	Armin	NPP	NPP	n=s|g=m	22	dep_coord	22	dep_coord
+25	,	,	PONCT	PONCT		24	ponct	24	ponct
+26	voyant	voir	VPR	VPR	t=G	16	mod	16	mod
+27	que	que	CS	CS		26	obj	26	obj
+28	ses	ses	DET	DET	n=p|p=3|poss=s	30	det	30	det
+29	deux	deux	ADJ	ADJ	s=card|n=p	30	mod	30	mod
+30	amis	ami	NC	NC	n=p|g=m	32	suj	32	suj
+31	étaient	être	V	V	n=p|t=I|p=3	32	aux_pass	32	aux_pass
+32	entrés	entrer	VPP	VPP	n=p|g=m|t=K	27	sub	27	sub
+33	dans	dans	P	P		32	mod	32	mod
+34	le	le	DET	DET	n=s|g=m	35	det	35	det
+35	bataillon	bataillon	NC	NC	n=s|g=m	33	prep	33	prep
+36	d’	de	P	P		32	mod	32	mod
+37	exploration	exploration	NC	NC	n=s|g=f	36	prep	36	prep
+38	,	,	PONCT	PONCT		37	ponct	37	ponct
+39	il	il	CLS	CLS	n=s|g=m|p=3	41	suj	41	suj
+40	le	le	CLO	CLO	n=s|g=m|p=3	41	obj	41	obj
+41	rejoint	rejoindre	V	V	n=s|t=P|p=3	27	root	27	root
+42	aussi	aussi	ADV	ADV		41	mod	41	mod
+43	.	.	PONCT	PONCT		42	ponct	42	ponct
+
+1	Annie	Annie	NPP	NPP	n=s|g=f	26	suj	26	suj
+2	(	(	PONCT	PONCT		1	ponct	1	ponct
+3	4ème	_	ADJ	ADJ		4	mod	4	mod
+4	position	position	NC	NC	n=s|g=f	1	mod	1	mod
+5	)	)	PONCT	PONCT		4	ponct	4	ponct
+6	,	,	PONCT	PONCT		4	ponct	4	ponct
+7	Jean	Jean	NPP	NPP	n=s	1	mod	1	mod
+8	(	(	PONCT	PONCT		7	ponct	7	ponct
+9	6ème	_	ADJ	ADJ		10	mod	10	mod
+10	position	position	NC	NC	n=s|g=f	1	mod	1	mod
+11	)	)	PONCT	PONCT		10	ponct	10	ponct
+12	et	et	CC	CC		1	coord	1	coord
+13	Marco	Marco	NPP	NPP	n=s|g=m	12	dep_coord	12	dep_coord
+14	(	(	PONCT	PONCT		13	ponct	13	ponct
+15	7ème	_	ADJ	ADJ		16	mod	16	mod
+16	position	position	NC	NC	n=s|g=f	1	mod	1	mod
+17	)	)	PONCT	PONCT		16	ponct	16	ponct
+18	faisant	faire	VPR	VPR	t=G	16	mod	16	mod
+19	partie	partie	NC	NC	n=s|g=f	18	obj	18	obj
+20	des	de	P+D	P+D	n=p	18	mod	18	mod
+21	dix	dix	ADJ	ADJ	s=card|n=p	22	mod	22	mod
+22	premiers	premier	ADJ	ADJ	n=p|g=m	20	prep	20	prep
+23	de	de	P	P		18	mod	18	mod
+24	la	la	DET	DET	n=s|g=f	25	det	25	det
+25	promotion	promotion	NC	NC	n=s|g=f	23	prep	23	prep
+26	choisirent	choisir	V	V	n=p|t=J|p=3	0	root	0	root
+27	d’	de	P	P		26	mod	26	mod
+28	être	être	VINF	VINF	t=W	27	prep	27	prep
+29	au	à	P+D	P+D	n=s|g=m	28	mod	28	mod
+30	service	service	NC	NC	n=s|g=m	29	prep	29	prep
+31	du	de	P+D	P+D	n=s|g=m	30	dep	30	dep
+32	roi	roi	NC	NC	n=s|g=m	31	prep	31	prep
+33	.	.	PONCT	PONCT		32	ponct	32	ponct
+
+1	Sasha	Sasha	NPP	NPP	n=s	11	suj	11	suj
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	Connie	Connie	NPP	NPP	n=s|g=f	1	mod	1	mod
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	Reiner	Reiner	NPP	NPP	n=s|g=m	1	mod	1	mod
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	Berthold	Berthold	NPP	NPP	n=s|g=m	1	mod	1	mod
+8	et	et	CC	CC		1	coord	1	coord
+9	les	les	DET	DET	n=p	10	det	10	det
+10	autres	autres	PRO	PRO	n=p|g=f,m	8	dep_coord	8	dep_coord
+11	choisirent	choisir	V	V	n=p|t=J|p=3	0	root	0	root
+12	le	le	DET	DET	n=s|g=m	13	det	13	det
+13	bataillon	bataillon	NC	NC	n=s|g=m	11	obj	11	obj
+14	d’	de	P	P		11	mod	11	mod
+15	exploration	exploration	NC	NC	n=s|g=f	14	prep	14	prep
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+1	Quelques	quelques	DET	DET	n=p	2	det	2	det
+2	jours	jour	NC	NC	n=p|g=m	14	suj	14	suj
+3	avant	avant	P	P		2	dep	2	dep
+4	leur	leur	DET	DET	n=s|p=3|poss=p	5	det	5	det
+5	entrée	entrée	NC	NC	n=s|g=f	3	prep	3	prep
+6	dans	dans	P	P		2	dep	2	dep
+7	chacun	chacun	PRO	PRO	n=s|g=m	6	prep	6	prep
+8	des	de	P+D	P+D	n=p	7	dep	7	dep
+9	corps	corps	NC	NC	g=m	8	prep	8	prep
+10	d'	de	P	P		2	dep	2	dep
+11	armée	armée	NC	NC	n=s|g=f	10	prep	10	prep
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	ils	ils	CLS	CLS	n=p|g=m|p=3	14	suj	14	suj
+14	durent	devoir	V	V	n=p|t=J|p=3	0	root	0	root
+15	monter	monter	VINF	VINF	t=W	14	obj	14	obj
+16	la	la	DET	DET	n=s|g=f	17	det	17	det
+17	garde	garde	NC	NC	n=s	15	obj	15	obj
+18	du	de	P+D	P+D	n=s|g=m	15	mod	15	mod
+19	haut	haut	NC	NC	n=s|g=m	18	prep	18	prep
+20	du	de	P+D	P+D	n=s|g=m	15	mod	15	mod
+21	mur	mur	NC	NC	n=s|g=m	20	prep	20	prep
+22	Rose	Rose	NPP	NPP	n=s|g=f	21	mod	21	mod
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	le	le	DET	DET	n=s|g=m	26	det	26	det
+25	même	même	ADJ	ADJ	n=s	26	mod	26	mod
+26	jour	jour	NC	NC	n=s|g=m	15	obj	15	obj
+27	ils	ils	CLS	CLS	n=p|g=m|p=3	29	suj	29	suj
+28	se	se	CLR	CLR	n=p,s|p=3	29	aff	29	aff
+29	firent	faire	V	V	n=p|t=J|p=3	14	mod	14	mod
+30	attaquer	attaquer	VINF	VINF	t=W	29	obj	29	obj
+31	par	par	P	P		30	mod	30	mod
+32	le	le	DET	DET	n=s|g=m	33	det	33	det
+33	titan	titan	NC	NC	n=s|g=m	31	prep	31	prep
+34	Colossal	_	NPP	NPP		33	mod	33	mod
+35	qui	qui	PROREL	PROREL	n=s	36	suj	36	suj
+36	fit	faire	V	V	n=s|t=J|p=3	33	mod_rel	33	mod_rel
+37	(	(	PONCT	PONCT		36	ponct	36	ponct
+38	de	de	DET	DET	n=p	42	det	42	det
+39	nouveau	nouveau	ADJ	ADJ	n=s|g=m	42	mod	42	mod
+40	)	)	PONCT	PONCT		39	ponct	39	ponct
+41	un	un	DET	DET	n=s|g=m	42	det	42	det
+42	trou	trou	NC	NC	n=s|g=m	36	obj	36	obj
+43	dans	dans	P	P		36	mod	36	mod
+44	le	le	DET	DET	n=s|g=m	45	det	45	det
+45	mur	mur	NC	NC	n=s|g=m	43	prep	43	prep
+46	se	se	CLR	CLR	n=p,s|p=3	48	aff	48	aff
+47	qui	qui	PROREL	PROREL	n=s	48	suj	48	suj
+48	permit	permettre	V	V	n=s|t=J|p=3	36	mod	36	mod
+49	aux	à	P+D	P+D	n=p	48	mod	48	mod
+50	titans	titan	NC	NC	n=p|g=m	49	prep	49	prep
+51	de	de	P	P		48	mod	48	mod
+52	rentrer	rentrer	VINF	VINF	t=W	51	prep	51	prep
+53	dans	dans	P	P		52	mod	52	mod
+54	l´enceinte	_	NC	NC		53	prep	53	prep
+55	du	de	P+D	P+D	n=s|g=m	52	mod	52	mod
+56	mur	mur	NC	NC	n=s|g=m	55	prep	55	prep
+57	Rose	Rose	NPP	NPP	n=s|g=f	56	mod	56	mod
+58	.	.	PONCT	PONCT		57	ponct	57	ponct
+59	Mikasa	_	NPP	NPP		61	suj	61	suj
+60	fut	être	V	V	n=s|t=J|p=3	61	aux_pass	61	aux_pass
+61	attribué	attribuer	VPP	VPP	n=s|g=m|t=K	14	mod	14	mod
+62	à	à	P	P		61	mod	61	mod
+63	l’	le	DET	DET	n=s	64	det	64	det
+64	evacuation	_	NC	NC		62	prep	62	prep
+65	des	de	P+D	P+D	n=p	61	mod	61	mod
+66	habitants	habitant	NC	NC	n=p|g=m	65	prep	65	prep
+67	,	,	PONCT	PONCT		66	ponct	66	ponct
+68	Eren	Eren	NPP	NPP	n=s|g=m	14	mod	14	mod
+69	,	,	PONCT	PONCT		68	ponct	68	ponct
+70	Armin	Armin	NPP	NPP	n=s|g=m	68	mod	68	mod
+71	et	et	CC	CC		68	coord	68	coord
+72	leur	leur	DET	DET	n=s|p=3|poss=p	73	det	73	det
+73	escouade	escouade	NC	NC	n=s|g=f	71	dep_coord	71	dep_coord
+74	furent	être	V	V	n=p|t=J|p=3	75	aux_pass	75	aux_pass
+75	attribués	attribuer	VPP	VPP	n=p|g=m|t=K	14	mod	14	mod
+76	à	à	P	P		75	mod	75	mod
+77	la	la	DET	DET	n=s|g=f	78	det	78	det
+78	riposte	riposte	NC	NC	n=s|g=f	76	prep	76	prep
+79	contre	contre	P	P		75	mod	75	mod
+80	les	les	DET	DET	n=p	81	det	81	det
+81	titans	titan	NC	NC	n=p|g=m	79	prep	79	prep
+82	,	,	PONCT	PONCT		81	ponct	81	ponct
+83	tous	tout	PRO	PRO	n=p|g=m	75	mod	75	mod
+84	sauf	sauf	P	P		75	mod	75	mod
+85	nos	nos	DET	DET	n=p|p=1|poss=p	87	det	87	det
+86	deux	deux	ADJ	ADJ	s=card|n=p	87	mod	87	mod
+87	héros	héros	NC	NC	g=m	84	prep	84	prep
+88	se	se	CLR	CLR	n=p,s|p=3	89	aff	89	aff
+89	firent	faire	V	V	n=p|t=J|p=3	14	mod	14	mod
+90	dévorer	dévorer	VINF	VINF	t=W	89	obj	89	obj
+91	,	,	PONCT	PONCT		90	ponct	90	ponct
+92	Armin	Armin	NPP	NPP	n=s|g=m	90	obj	90	obj
+93	désespéré	désespérer	VPP	VPP	n=s|g=m|t=K	92	mod	92	mod
+94	devint	devenir	V	V	n=s|t=J|p=3	95	aux_pass	95	aux_pass
+95	paralysé	paralyser	VPP	VPP	n=s|g=m|t=K	14	mod	14	mod
+96	par	par	P	P		95	mod	95	mod
+97	la	la	DET	DET	n=s|g=f	98	det	98	det
+98	peur	peur	NC	NC	n=s|g=f	96	prep	96	prep
+99	,	,	PONCT	PONCT		98	ponct	98	ponct
+100	était	être	V	V	n=s|t=I|p=3	14	mod	14	mod
+101	à	à	P	P		100	mod	100	mod
+102	deux	deux	DET	DET	s=card|n=p	103	det	103	det
+103	doigt	doigt	NC	NC	n=s|g=m	101	prep	101	prep
+104	de	de	P	P		100	mod	100	mod
+105	se	se	CLR	CLR	n=p,s|p=3	107	obj	107	obj
+106	faire	faire	VINF	VINF	t=W	107	aux_caus	107	aux_caus
+107	dévorer	dévorer	VINF	VINF	t=W	104	prep	104	prep
+108	,	,	PONCT	PONCT		107	ponct	107	ponct
+109	quand	quand	CS	CS		100	mod	100	mod
+110	,	,	PONCT	PONCT		109	ponct	109	ponct
+111	Eren	Eren	NPP	NPP	n=s|g=m	112	suj	112	suj
+112	intervint	intervenir	V	V	n=s|t=J|p=3	109	sub	109	sub
+113	et	et	CC	CC		112	coord	112	coord
+114	sauva	sauver	V	V	n=s|t=J|p=3	113	dep_coord	113	dep_coord
+115	Armin	Armin	NPP	NPP	n=s|g=m	114	obj	114	obj
+116	et	et	CC	CC		114	coord	114	coord
+117	se	se	CLR	CLR	n=p,s|p=3	118	aff	118	aff
+118	fit	faire	V	V	n=s|t=J|p=3	116	dep_coord	116	dep_coord
+119	dévorer	dévorer	VINF	VINF	t=W	118	obj	118	obj
+120	à	à	P	P		119	mod	119	mod
+121	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	122	det	122	det
+122	place	place	NC	NC	n=s|g=f	120	prep	120	prep
+123	.	.	PONCT	PONCT		122	ponct	122	ponct
+124	Mikasa	_	NPP	NPP		125	suj	125	suj
+125	apprit	apprendre	V	V	n=s|t=J|p=3	109	root	109	root
+126	qu’	que	CS	CS		125	mod	125	mod
+127	Eren	Eren	NPP	NPP	n=s|g=m	130	suj	130	suj
+128	s’	se	CLR	CLR	n=p,s|p=3	130	aff	130	aff
+129	était	être	V	V	n=s|t=I|p=3	130	aux_tps	130	aux_tps
+130	fait	faire	VPP	VPP	n=s|g=m|t=K	126	sub	126	sub
+131	dévorer	dévorer	VINF	VINF	t=W	130	obj	130	obj
+132	et	et	CC	CC		125	coord	125	coord
+133	tenta	tenter	V	V	n=s|t=J|p=3	132	dep_coord	132	dep_coord
+134	une	une	DET	DET	n=s|g=f	135	det	135	det
+135	riposte	riposte	NC	NC	n=s|g=f	133	obj	133	obj
+136	avec	avec	P	P		133	mod	133	mod
+137	les	les	DET	DET	n=p	138	det	138	det
+138	survivants	survivant	NC	NC	n=p|g=m	136	prep	136	prep
+139	d’	de	P	P		133	mod	133	mod
+140	autres	autre	ADJ	ADJ	n=p	141	mod	141	mod
+141	escouade	escouade	NC	NC	n=s|g=f	139	prep	139	prep
+142	,	,	PONCT	PONCT		141	ponct	141	ponct
+143	quand	quand	CS	CS		133	mod	133	mod
+144	,	,	PONCT	PONCT		143	ponct	143	ponct
+145	coincé	coincer	VPP	VPP	n=s|g=m|t=K	143	sub	143	sub
+146	dans	dans	P	P		145	mod	145	mod
+147	une	une	DET	DET	n=s|g=f	148	det	148	det
+148	ruelle	ruelle	NC	NC	n=s|g=f	146	prep	146	prep
+149	entre	entre	P	P		145	mod	145	mod
+150	deux	deux	DET	DET	s=card|n=p	151	det	151	det
+151	titans	titan	NC	NC	n=p|g=m	149	prep	149	prep
+152	,	,	PONCT	PONCT		151	ponct	151	ponct
+153	elle	elle	CLS	CLS	n=s|g=f|p=3	0	_	0	_
+154	abandonna	abandonner	V	V	n=s|t=J|p=3	0	_	0	_
+155	et	et	CC	CC		154	coord	154	coord
+156	décida	décider	V	V	n=s|t=J|p=3	155	dep_coord	155	dep_coord
+157	de	de	P	P		156	obj	156	obj
+158	se	se	CLR	CLR	n=p,s|p=3	159	aff	159	aff
+159	laisser	laisser	VINF	VINF	t=W	157	prep	157	prep
+160	dévorer	dévorer	VINF	VINF	t=W	159	obj	159	obj
+161	puisque	puisque	CS	CS		156	mod	156	mod
+162	Eren	Eren	NPP	NPP	n=s|g=m	164	suj	164	suj
+163	était	être	V	V	n=s|t=I|p=3	164	aux_tps	164	aux_tps
+164	mort	mourir	VPP	VPP	n=s|g=m|t=K	161	sub	161	sub
+165	.	.	PONCT	PONCT		164	ponct	164	ponct
+166	L’	le	DET	DET	n=s	167	det	167	det
+167	un	un	PRO	PRO	n=s|g=m	164	obj	164	obj
+168	des	de	P+D	P+D	n=p	167	dep	167	dep
+169	deux	deux	ADJ	ADJ	s=card|n=p	170	mod	170	mod
+170	titans	titan	NC	NC	n=p|g=m	168	prep	168	prep
+171	sauta	sauter	V	V	n=s|t=J|p=3	164	mod	164	mod
+172	sur	sur	P	P		171	mod	171	mod
+173	Mikasa	_	NPP	NPP		172	prep	172	prep
+174	et	et	CC	CC		171	coord	171	coord
+175	l’	le	DET	DET	n=s	176	det	176	det
+176	autre	autre	ADJ	ADJ	n=s	174	dep_coord	174	dep_coord
+177	l’	le	CLO	CLO	n=s|p=3	0	_	0	_
+178	en	en	CLO	CLO		0	_	0	_
+179	empêcha	empêcher	V	V	n=s|t=J|p=3	0	_	0	_
+180	et	et	CC	CC		179	coord	179	coord
+181	le	le	CLO	CLO	n=s|g=m|p=3	182	obj	182	obj
+182	tua	tuer	V	V	n=s|t=J|p=3	180	dep_coord	180	dep_coord
+183	,	,	PONCT	PONCT		182	ponct	182	ponct
+184	puis	puis	CC	CC		182	coord	182	coord
+185	il	il	CLS	CLS	n=s|g=m|p=3	186	suj	186	suj
+186	parti	partir	VPP	VPP	n=s|g=m|t=K	184	dep_coord	184	dep_coord
+187	sans	sans	P	P		186	mod	186	mod
+188	avoir	avoir	VINF	VINF	t=W	187	prep	187	prep
+189	l’	le	DET	DET	n=s	190	det	190	det
+190	air	air	NC	NC	n=s|g=m	188	obj	188	obj
+191	de	de	P	P		186	mod	186	mod
+192	s’	se	CLR	CLR	n=p,s|p=3	193	aff	193	aff
+193	intéresser	intéresser	VINF	VINF	t=W	191	prep	191	prep
+194	à	à	P	P		193	mod	193	mod
+195	Mikasa	_	NPP	NPP		194	prep	194	prep
+196	,	,	PONCT	PONCT		195	ponct	195	ponct
+197	cet	cet	DET	DET	n=s|g=m	198	det	198	det
+198	acte	acte	NC	NC	n=s|g=m	186	mod	186	mod
+199	la	la	CLO	CLO	n=s|g=f|p=3	0	_	0	_
+200	laissa	laisser	V	V	n=s|t=J|p=3	0	_	0	_
+201	bouche	bouche	NC	NC	n=s|g=f	200	obj	200	obj
+202	bée	bée	ADJ	ADJ	n=s|g=f|t=K	201	mod	201	mod
+203	et	et	CC	CC		200	coord	200	coord
+204	lui	lui	CLO	CLO	n=s|p=3	205	a_obj	205	a_obj
+205	redonna	redonner	V	V	n=s|t=J|p=3	203	dep_coord	203	dep_coord
+206	l’	le	DET	DET	n=s	207	det	207	det
+207	envie	envie	NC	NC	n=s|g=f	205	obj	205	obj
+208	de	de	P	P		205	mod	205	mod
+209	vivre	vivre	VINF	VINF	t=W	208	prep	208	prep
+210	.	.	PONCT	PONCT		209	ponct	209	ponct
+
+1	Après	après	P	P		12	mod	12	mod
+2	avoir	avoir	VINF	VINF	t=W	3	aux_tps	3	aux_tps
+3	tué	tuer	VPP	VPP	n=s|g=m|t=K	1	prep	1	prep
+4	tous	tout	ADJ	ADJ	n=p|g=m	6	mod	6	mod
+5	les	les	DET	DET	n=p	6	det	6	det
+6	titans	titan	NC	NC	n=p|g=m	3	obj	3	obj
+7	le	le	DET	DET	n=s|g=m	8	det	8	det
+8	titans	titan	NC	NC	n=p|g=m	3	mod	3	mod
+9	ayant	avoir	VPR	VPR	t=G	8	mod	8	mod
+10	sauvé	sauver	VPP	VPP	n=s|g=m|t=K	9	dep	9	dep
+11	Mikasa	_	NPP	NPP		12	suj	12	suj
+12	partit	partir	V	V	n=s|t=J|p=3	0	root	0	root
+13	en	en	P	P		12	mod	12	mod
+14	fumé	fumé	NC	NC	n=s|g=m	13	prep	13	prep
+15	et	et	CC	CC		12	coord	12	coord
+16	n’	ne	ADV	ADV		18	mod	18	mod
+17	en	en	CLO	CLO		18	aff	18	aff
+18	laissa	laisser	V	V	n=s|t=J|p=3	15	dep_coord	15	dep_coord
+19	que	que	CS	CS		18	mod	18	mod
+20	le	le	DET	DET	n=s|g=m	21	det	21	det
+21	corps	corps	NC	NC	g=m	29	suj	29	suj
+22	d’	de	P	P		21	dep	21	dep
+23	Eren	Eren	NPP	NPP	n=s|g=m	22	prep	22	prep
+24	(	(	PONCT	PONCT		23	ponct	23	ponct
+25	vivant	vivre	VPR	VPR	t=G	21	mod	21	mod
+26	)	)	PONCT	PONCT		25	ponct	25	ponct
+27	tous	tout	PRO	PRO	n=p|g=m	25	mod	25	mod
+28	étaient	être	V	V	n=p|t=I|p=3	29	aux_pass	29	aux_pass
+29	regroupés	regrouper	VPP	VPP	n=p|g=m|t=K	19	sub	19	sub
+30	autour	autour	NC	NC	n=s|g=m	29	mod	29	mod
+31	de	de	P	P		29	mod	29	mod
+32	lui	lui	PRO	PRO	n=s|g=m|p=3	31	prep	31	prep
+33	,	,	PONCT	PONCT		32	ponct	32	ponct
+34	un	un	DET	DET	n=s|g=m	35	det	35	det
+35	soldat	soldat	NC	NC	n=s|g=m	18	mod	18	mod
+36	haut-gradé	_	NPP	NPP		35	mod	35	mod
+37	(	(	PONCT	PONCT		36	ponct	36	ponct
+38	sûrement	_	ADV	ADV		40	mod	40	mod
+39	un	un	DET	DET	n=s|g=m	40	det	40	det
+40	général	général	NC	NC	n=s|g=m	18	mod	18	mod
+41	)	)	PONCT	PONCT		40	ponct	40	ponct
+42	laissa	laisser	V	V	n=s|t=J|p=3	12	mod	12	mod
+43	1	1	NC	NC		42	mod	42	mod
+44	minute	minute	NC	NC	n=s|g=f	43	mod	43	mod
+45	à	à	P	P		42	mod	42	mod
+46	Eren	Eren	NPP	NPP	n=s|g=m	45	prep	45	prep
+47	pour	pour	P	P		42	mod	42	mod
+48	lui	lui	CLO	CLO	n=s|p=3	49	a_obj	49	a_obj
+49	donner	donner	VINF	VINF	t=W	47	prep	47	prep
+50	une	une	DET	DET	n=s|g=f	52	det	52	det
+51	bonne	bon	ADJ	ADJ	n=s|g=f	52	mod	52	mod
+52	raison	raison	NC	NC	n=s|g=f	49	obj	49	obj
+53	de	de	P	P		42	mod	42	mod
+54	pas	pas	ADV	ADV		56	mod	56	mod
+55	le	le	CLO	CLO	n=s|g=m|p=3	56	obj	56	obj
+56	tuer	tuer	VINF	VINF	t=W	53	prep	53	prep
+57	.	.	PONCT	PONCT		56	ponct	56	ponct
+58	Puis	puis	CC	CC		42	coord	42	coord
+59	un	un	DET	DET	n=s|g=m	62	det	62	det
+60	plus	plus	ADV	ADV		61	mod	61	mod
+61	haut	haut	ADJ	ADJ	n=s|g=m	62	mod	62	mod
+62	gradé	gradé	NC	NC	n=s|g=m	73	suj	73	suj
+63	(	(	PONCT	PONCT		62	ponct	62	ponct
+64	général	général	NC	NC	n=s|g=m	62	mod	62	mod
+65	Pixis	_	NPP	NPP		64	mod	64	mod
+66	commandant	commander	VPR	VPR	t=G	62	mod	62	mod
+67	des	des	DET	DET	n=p	68	det	68	det
+68	armées	armée	NC	NC	n=p|g=f	66	obj	66	obj
+69	de	de	P	P		68	dep	68	dep
+70	l’	le	DET	DET	n=s	71	det	71	det
+71	ouest	_	NPP	NPP		69	prep	69	prep
+72	)	)	PONCT	PONCT		71	ponct	71	ponct
+73	intervint	intervenir	V	V	n=s|t=J|p=3	58	dep_coord	58	dep_coord
+74	et	et	CC	CC		73	coord	73	coord
+75	sauva	sauver	V	V	n=s|t=J|p=3	74	dep_coord	74	dep_coord
+76	Eren	Eren	NPP	NPP	n=s|g=m	75	obj	75	obj
+77	et	et	CC	CC		75	coord	75	coord
+78	lui	lui	CLO	CLO	n=s|p=3	79	a_obj	79	a_obj
+79	exposa	exposer	V	V	n=s|t=J|p=3	77	dep_coord	77	dep_coord
+80	un	un	DET	DET	n=s|g=m	81	det	81	det
+81	plan	plan	NC	NC	n=s|g=m	79	obj	79	obj
+82	pour	pour	P	P		79	mod	79	mod
+83	reboucher	reboucher	VINF	VINF	t=W	82	prep	82	prep
+84	le	le	DET	DET	n=s|g=m	85	det	85	det
+85	trou	trou	NC	NC	n=s|g=m	83	obj	83	obj
+86	dans	dans	P	P		83	mod	83	mod
+87	le	le	DET	DET	n=s|g=m	88	det	88	det
+88	mur	mur	NC	NC	n=s|g=m	86	prep	86	prep
+89	:	:	PONCT	PONCT		88	ponct	88	ponct
+90	Eren	Eren	NPP	NPP	n=s|g=m	91	suj	91	suj
+91	doit	devoir	V	V	n=s|t=P|p=3	73	mod	73	mod
+92	se	se	CLR	CLR	n=p,s|p=3	93	aff	93	aff
+93	transformer	transformer	VINF	VINF	t=W	91	obj	91	obj
+94	en	en	P	P		93	mod	93	mod
+95	titan	titan	NC	NC	n=s|g=m	94	prep	94	prep
+96	,	,	PONCT	PONCT		95	ponct	95	ponct
+97	prendre	prendre	VINF	VINF	t=W	91	obj	91	obj
+98	le	le	DET	DET	n=s|g=m	99	det	99	det
+99	rocher	rocher	NC	NC	n=s|g=m	97	obj	97	obj
+100	coincé	coincer	VPP	VPP	n=s|g=m|t=K	99	mod	99	mod
+101	dans	dans	P	P		100	mod	100	mod
+102	le	le	DET	DET	n=s|g=m	103	det	103	det
+103	sol	_	NC	NC		101	prep	101	prep
+104	depuis	depuis	P	P		100	mod	100	mod
+105	l’	le	DET	DET	n=s	106	det	106	det
+106	invasion	invasion	NC	NC	n=s|g=f	104	prep	104	prep
+107	de	de	P	P		100	mod	100	mod
+108	shiganshina	_	NPP	NPP		107	prep	107	prep
+109	dans	dans	P	P		100	mod	100	mod
+110	l’	le	DET	DET	n=s	111	det	111	det
+111	enceinte	enceinte	NC	NC	n=s|g=f	109	prep	109	prep
+112	du	de	P+D	P+D	n=s|g=m	100	mod	100	mod
+113	mur	mur	NC	NC	n=s|g=m	112	prep	112	prep
+114	Maria	Maria	NPP	NPP	n=s|g=f	113	mod	113	mod
+115	et	et	CC	CC		99	coord	99	coord
+116	le	le	DET	DET	n=s|g=m	117	det	117	det
+117	placer	placer	NC	NC	n=s|g=m	115	dep_coord	115	dep_coord
+118	dans	dans	P	P		97	mod	97	mod
+119	le	le	DET	DET	n=s|g=m	120	det	120	det
+120	trou	trou	NC	NC	n=s|g=m	118	prep	118	prep
+121	pour	pour	P	P		97	mod	97	mod
+122	le	le	CLO	CLO	n=s|g=m|p=3	123	obj	123	obj
+123	reboucher	reboucher	VINF	VINF	t=W	121	prep	121	prep
+124	.	.	PONCT	PONCT		123	ponct	123	ponct
+
+1	L’	le	DET	DET	n=s	2	det	2	det
+2	opération	opération	NC	NC	n=s|g=f	3	suj	3	suj
+3	fut	être	V	V	n=s|t=J|p=3	0	root	0	root
+4	un	un	DET	DET	n=s|g=m	5	det	5	det
+5	succès	succès	NC	NC	g=m	3	obj	3	obj
+6	.	.	PONCT	PONCT		5	ponct	5	ponct
+
+</p><p>
+1	Il	il	CLS	CLS	n=s|g=m|p=3	3	suj	3	suj
+2	est	être	V	V	n=s|t=P|p=3	3	aux_tps	3	aux_tps
+3	adapté	adapter	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+4	du	de	P+D	P+D	n=s|g=m	3	mod	3	mod
+5	manga	manga	NC	NC	n=s|g=m	4	prep	4	prep
+6	de	de	P	P		3	mod	3	mod
+7	Hajime	_	NPP	NPP		6	prep	6	prep
+8	Isayama	_	NPP	NPP		7	mod	7	mod
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	aussi	aussi	ADV	ADV		11	mod	11	mod
+11	disponible	disponible	ADJ	ADJ	n=s	3	mod	3	mod
+12	en	en	P	P		3	mod	3	mod
+13	français	français	NC	NC	g=m	12	prep	12	prep
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+</p><h3>
+1	Saison	saison	NC	NC	n=s|g=f	0	_	0	_
+2	2	2	NC	NC		1	mod	1	mod
+

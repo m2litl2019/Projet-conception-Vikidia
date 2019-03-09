@@ -1,0 +1,321 @@
+<p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	kung-fu	_	NPP	NPP		3	suj	3	suj
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	un	un	DET	DET	n=s|g=m	5	det	5	det
+5	art	art	NC	NC	n=s|g=m	3	obj	3	obj
+6	martial	martial	ADJ	ADJ	n=s|g=m	5	mod	5	mod
+7	chinois	chinois	ADJ	ADJ	g=m	5	mod	5	mod
+8	qui	qui	PROREL	PROREL	n=s	9	suj	9	suj
+9	existe	exister	V	V	n=s|t=P,S|p=1,3	5	mod_rel	5	mod_rel
+10	depuis	depuis	P	P		9	mod	9	mod
+11	environ	environ	ADV	ADV		12	mod	12	mod
+12	4_000	4_000	ADJ	ADJ		13	mod	13	mod
+13	ans	an	NC	NC	n=p|g=m	10	prep	10	prep
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+</p><p>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	femmes	femme	NC	NC	n=p|g=f	7	suj	7	suj
+3	tout	tout	ADV	ADV		2	mod	2	mod
+4	comme	comme	P	P		2	dep	2	dep
+5	les	les	DET	DET	n=p	6	det	6	det
+6	hommes	homme	NC	NC	n=p|g=m	4	prep	4	prep
+7	peuvent	pouvoir	V	V	n=p|t=P|p=3	0	root	0	root
+8	le	le	CLO	CLO	n=s|g=m|p=3	9	obj	9	obj
+9	pratiquer	pratiquer	VINF	VINF	t=W	7	obj	7	obj
+10	(	(	PONCT	PONCT		9	ponct	9	ponct
+11	les	les	DET	DET	n=p	12	det	12	det
+12	femmes	femme	NC	NC	n=p|g=f	14	suj	14	suj
+13	le	le	CLO	CLO	n=s|g=m|p=3	14	obj	14	obj
+14	pratiquent	pratiquer	V	V	n=p|t=P,S|p=3	7	mod	7	mod
+15	depuis	depuis	P	P		14	mod	14	mod
+16	le	le	DET	DET	n=s|g=m	17	det	17	det
+17	Moyen	Moyen	NPP	NPP	n=s|g=m	15	prep	15	prep
+18	Âge	_	NPP	NPP		17	mod	17	mod
+19	)	)	PONCT	PONCT		18	ponct	18	ponct
+20	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	Cet	cet	DET	DET	n=s|g=m	2	det	2	det
+2	art	art	NC	NC	n=s|g=m	4	suj	4	suj
+3	martial	martial	ADJ	ADJ	n=s|g=m	2	mod	2	mod
+4	repose	reposer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+5	sur	sur	P	P		4	mod	4	mod
+6	des	des	DET	DET	n=p	7	det	7	det
+7	techniques	technique	NC	NC	n=p|g=f	5	prep	5	prep
+8	du	de	P+D	P+D	n=s|g=m	7	dep	7	dep
+9	combat	combat	NC	NC	n=s|g=m	8	prep	8	prep
+10	chinois	chinois	ADJ	ADJ	g=m	9	mod	9	mod
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	à	à	P	P		4	mod	4	mod
+13	mains	main	NC	NC	n=p|g=f	12	prep	12	prep
+14	et	et	CC	CC		4	coord	4	coord
+15	pieds	pied	NC	NC	n=p	0	_	0	_
+16	nus	nu	ADJ	ADJ	n=p|g=m	15	mod	15	mod
+17	ou	ou	CC	CC		15	coord	15	coord
+18	aux	à	P+D	P+D	n=p	17	dep_coord	17	dep_coord
+19	armes	arme	NC	NC	n=p|g=f	18	prep	18	prep
+20	blanches	blanc	ADJ	ADJ	n=p|g=f	19	mod	19	mod
+21	(	(	PONCT	PONCT		20	ponct	20	ponct
+22	le	le	DET	DET	n=s|g=m	0	_	0	_
+23	plus	plus	ADV	ADV		24	mod	24	mod
+24	souvent	souvent	ADV	ADV		0	_	0	_
+25	au	à	P+D	P+D	n=s|g=m	24	mod	24	mod
+26	sabre	sabre	NC	NC	n=s|g=m	25	prep	25	prep
+27	)	)	PONCT	PONCT		26	ponct	26	ponct
+28	.	.	PONCT	PONCT		26	ponct	26	ponct
+
+</p><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	kung-fu	_	NPP	NPP		4	suj	4	suj
+3	se	se	CLR	CLR	n=p,s|p=3	4	aff	4	aff
+4	pratique	pratiquer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+5	dans	dans	P	P		4	mod	4	mod
+6	n'	ne	ADV	ADV		5	mod	5	mod
+7	importe	importer	V	V	n=s|t=P,S|p=1,3	4	mod	4	mod
+8	quel	quel	DETWH	DETWH	n=s|g=m	9	det	9	det
+9	espace	espace	NC	NC	n=s	7	obj	7	obj
+10	mais	mais	CC	CC		7	coord	7	coord
+11	la	la	DET	DET	n=s|g=f	12	det	12	det
+12	plupart	plupart	NC	NC	n=s|g=f	18	suj	18	suj
+13	du	de	P+D	P+D	n=s|g=m	12	dep	12	dep
+14	temps	temps	NC	NC	g=m	13	prep	13	prep
+15	les	les	DET	DET	n=p	16	det	16	det
+16	combats	combat	NC	NC	n=p|g=m	18	suj	18	suj
+17	se	se	CLR	CLR	n=p,s|p=3	18	aff	18	aff
+18	font	faire	V	V	n=p|t=P|p=3	10	dep_coord	10	dep_coord
+19	dans	dans	P	P		18	mod	18	mod
+20	des	des	DET	DET	n=p	21	det	21	det
+21	dojo	dojo	NC	NC	n=s|g=m	19	prep	19	prep
+22	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+1	Lors	lors	ADV	ADV		10	mod	10	mod
+2	des	des	DET	DET	n=p	3	det	3	det
+3	compétitions	compétition	NC	NC	n=p|g=f	10	mod	10	mod
+4	et	et	CC	CC		3	coord	3	coord
+5	des	de	P+D	P+D	n=p	3	dep	3	dep
+6	concours	concours	NC	NC	g=m	5	prep	5	prep
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	il	il	CLS	CLS	n=s|g=m|p=3	10	suj	10	suj
+9	y	y	CLO	CLO		10	aff	10	aff
+10	a	avoir	V	V	n=s|t=P|p=3	0	root	0	root
+11	un	un	DET	DET	n=s|g=m	12	det	12	det
+12	jury	jury	NC	NC	n=s|g=m	10	obj	10	obj
+13	composé	composer	VPP	VPP	n=s|g=m|t=K	12	mod	12	mod
+14	de	de	P	P		13	mod	13	mod
+15	quatre	quatre	DET	DET	s=card|n=p	16	det	16	det
+16	juges	juge	NC	NC	n=p|g=m	14	prep	14	prep
+17	au	à	P+D	P+D	n=s|g=m	13	mod	13	mod
+18	minimum	minimum	NC	NC	n=s|g=m	17	prep	17	prep
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	des	des	DET	DET	n=p	21	det	21	det
+21	juges	juge	NC	NC	n=p|g=m	0	_	0	_
+22	de	de	P	P		21	dep	21	dep
+23	coin	coin	NC	NC	n=s|g=m	22	prep	22	prep
+24	,	,	PONCT	PONCT		23	ponct	23	ponct
+25	un	un	DET	DET	n=s|g=m	26	det	26	det
+26	arbitre	arbitre	NC	NC	n=s	21	coord	21	coord
+27	ou	ou	CC	CC		26	coord	26	coord
+28	deux	deux	PRO	PRO	s=card|n=p	27	dep_coord	27	dep_coord
+29	,	,	PONCT	PONCT		28	ponct	28	ponct
+30	et	et	CC	CC		21	coord	21	coord
+31	il	il	CLS	CLS	n=s|g=m|p=3	32	suj	32	suj
+32	faut	falloir	V	V	n=s|t=P|p=3	30	dep_coord	30	dep_coord
+33	un	un	DET	DET	n=s|g=m	38	det	38	det
+34	(	(	PONCT	PONCT		33	ponct	33	ponct
+35	ou	ou	CC	CC		33	coord	33	coord
+36	deux	deux	PRO	PRO	s=card|n=p	35	dep_coord	35	dep_coord
+37	)	)	PONCT	PONCT		36	ponct	36	ponct
+38	terrain	terrain	NC	NC	n=s|g=m	32	obj	32	obj
+39	(	(	PONCT	PONCT		38	ponct	38	ponct
+40	s	_	NPP	NPP		38	mod	38	mod
+41	)	)	PONCT	PONCT		40	ponct	40	ponct
+42	mesurant	mesurer	VPR	VPR	t=G	32	mod	32	mod
+43	8	8	ADJ	ADJ		44	mod	44	mod
+44	mètres	mètre	NC	NC	n=p|g=m	42	obj	42	obj
+45	de	de	P	P		42	mod	42	mod
+46	côté	côté	NC	NC	n=s|g=m	45	prep	45	prep
+47	avec	avec	P	P		42	mod	42	mod
+48	des	des	DET	DET	n=p	49	det	49	det
+49	matelas	matelas	NC	NC	g=m	47	prep	47	prep
+50	surélevés	surélever	VPP	VPP	n=p|g=m|t=K	49	mod	49	mod
+51	.	.	PONCT	PONCT		50	ponct	50	ponct
+
+</p><p>
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	acteur	acteur	NC	NC	n=s|g=m	12	suj	12	suj
+3	Bruce	Bruce	NPP	NPP	n=s|g=m	2	mod	2	mod
+4	Lee	Lee	NPP	NPP	n=s|g=m	2	mod	2	mod
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	spécialiste	spécialiste	NC	NC	n=s	2	mod	2	mod
+7	des	de	P+D	P+D	n=p	6	dep	6	dep
+8	art	art	NC	NC	n=s|g=m	7	prep	7	prep
+9	martiaux	martial	ADJ	ADJ	n=p|g=m	8	mod	8	mod
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	a	avoir	V	V	n=s|t=P|p=3	12	aux_tps	12	aux_tps
+12	fait	faire	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+13	connaître	connaître	VINF	VINF	t=W	12	obj	12	obj
+14	le	le	DET	DET	n=s|g=m	15	det	15	det
+15	kung-fu	_	NC	NC		13	obj	13	obj
+16	dans	dans	P	P		13	mod	13	mod
+17	le	le	DET	DET	n=s|g=m	18	det	18	det
+18	monde	monde	NC	NC	n=s|g=m	16	prep	16	prep
+19	entier	entier	ADJ	ADJ	n=s|g=m	18	mod	18	mod
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+</p><h2>
+1	Techniques	technique	NC	NC	n=p|g=f	0	_	0	_
+2	de	de	P	P		1	dep	1	dep
+3	base	base	NC	NC	n=s|g=f	2	prep	2	prep
+
+</h2><p>
+1	Il	il	CLS	CLS	n=s|g=m|p=3	3	suj	3	suj
+2	y	y	CLO	CLO		3	aff	3	aff
+3	a	avoir	V	V	n=s|t=P|p=3	0	root	0	root
+4	le	le	DET	DET	n=s|g=m	5	det	5	det
+5	blocage	blocage	NC	NC	n=s|g=m	3	obj	3	obj
+6	du	de	P+D	P+D	n=s|g=m	5	dep	5	dep
+7	poignet	poignet	NC	NC	n=s|g=m	6	prep	6	prep
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	la	la	DET	DET	n=s|g=f	10	det	10	det
+10	main	main	NC	NC	n=s|g=f	3	mod	3	mod
+11	en	en	P	P		10	dep	10	dep
+12	griffe	griffe	NC	NC	n=s|g=f	11	prep	11	prep
+13	de	de	P	P		10	dep	10	dep
+14	tigre	tigre	NC	NC	n=s|g=m	13	prep	13	prep
+15	au	à	P+D	P+D	n=s|g=m	10	dep	10	dep
+16	cou	cou	NC	NC	n=s|g=m	15	prep	15	prep
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	le	le	DET	DET	n=s|g=m	19	det	19	det
+19	blocage	blocage	NC	NC	n=s|g=m	3	obj	3	obj
+20	de	de	P	P		19	dep	19	dep
+21	l'	le	DET	DET	n=s	22	det	22	det
+22	avant-bras	avant-bras	NC	NC	g=m	20	prep	20	prep
+23	et	et	CC	CC		19	coord	19	coord
+24	esquive	esquive	NC	NC	n=s|g=f	23	dep_coord	23	dep_coord
+25	,	,	PONCT	PONCT		24	ponct	24	ponct
+26	la	la	DET	DET	n=s|g=f	27	det	27	det
+27	paume	paume	NC	NC	n=s|g=f	3	mod	3	mod
+28	au	à	P+D	P+D	n=s|g=m	27	dep	27	dep
+29	visage	visage	NC	NC	n=s|g=m	28	prep	28	prep
+30	.	.	PONCT	PONCT		29	ponct	29	ponct
+
+1	Parmi	parmi	P	P		6	mod	6	mod
+2	les	les	DET	DET	n=p	3	det	3	det
+3	styles	style	NC	NC	n=p|g=m	1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	on	on	CLS	CLS	n=s|p=3	6	suj	6	suj
+6	trouve	trouver	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+7	le	le	DET	DET	n=s|g=m	8	det	8	det
+8	hung-gar-kuen	_	NPP	NPP		6	obj	6	obj
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	le	le	DET	DET	n=s|g=m	11	det	11	det
+11	tong	tong	NC	NC	n=s|g=f	6	obj	6	obj
+12	–	–	PONCT	PONCT		11	ponct	11	ponct
+13	long	long	ADJ	ADJ	n=s|g=m	11	mod	11	mod
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	le	le	DET	DET	n=s|g=m	16	det	16	det
+16	wing-chun	_	NPP	NPP		6	mod	6	mod
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+</p><h2>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	profil	profil	NC	NC	n=s|g=m	0	_	0	_
+3	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+4	pratiquant	pratiquer	VPR	VPR	t=G	2	mod	2	mod
+
+</h2><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	combattant	combattant	NC	NC	n=s|g=m	3	suj	3	suj
+3	possède	posséder	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	vitesse	vitesse	NC	NC	n=s|g=f	3	obj	3	obj
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	coordination	coordination	NC	NC	n=s|g=f	4	mod	4	mod
+7	et	et	CC	CC		6	coord	6	coord
+8	force	force	NC	NC	n=s|g=f	7	dep_coord	7	dep_coord
+9	intérieure	intérieur	ADJ	ADJ	n=s|g=f	8	mod	8	mod
+10	bien	bien	ADV	ADV		11	mod	11	mod
+11	maitrisée	_	VPP	VPP		4	mod	4	mod
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	souple	souple	ADJ	ADJ	n=s	2	ats	2	ats
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	vigoureux	vigoureux	ADJ	ADJ	g=m	2	mod	2	mod
+6	et	et	CC	CC		2	coord	2	coord
+7	ses	ses	DET	DET	n=p|p=3|poss=s	8	det	8	det
+8	réflexes	réflexe	NC	NC	n=p|g=m	10	suj	10	suj
+9	sont	être	V	V	n=p|t=P|p=3	10	aux_pass	10	aux_pass
+10	aiguisés	aiguiser	VPP	VPP	n=p|g=m|t=K	6	dep_coord	6	dep_coord
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+1	Son	son	DET	DET	n=s|g=m|p=3|poss=s	2	det	2	det
+2	gabarit	gabarit	NC	NC	n=s|g=m	3	suj	3	suj
+3	révèle	révéler	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	rarement	_	ADV	ADV		3	mod	3	mod
+5	son	son	DET	DET	n=s|g=m|p=3|poss=s	6	det	6	det
+6	excellence	excellence	NC	NC	n=s|g=f	3	obj	3	obj
+7	.	.	PONCT	PONCT		6	ponct	6	ponct
+
+1	Selon	selon	P	P		7	mod	7	mod
+2	la	la	DET	DET	n=s|g=f	3	det	3	det
+3	tradition	tradition	NC	NC	n=s|g=f	1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	le	le	DET	DET	n=s|g=m	6	det	6	det
+6	novice	novice	NC	NC	n=s	7	suj	7	suj
+7	doit	devoir	V	V	n=s|t=P|p=3	0	root	0	root
+8	faire	faire	VINF	VINF	t=W	7	obj	7	obj
+9	preuve	preuve	NC	NC	n=s|g=f	8	obj	8	obj
+10	de	de	P	P		8	mod	8	mod
+11	patience	patience	NC	NC	n=s|g=f	10	prep	10	prep
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	de	de	P	P		8	mod	8	mod
+14	persévérance	persévérance	NC	NC	n=s|g=f	13	prep	13	prep
+15	et	et	CC	CC		13	coord	13	coord
+16	de	de	P	P		15	dep_coord	15	dep_coord
+17	sincérité	sincérité	NC	NC	n=s|g=f	16	prep	16	prep
+18	pour	pour	P	P		8	mod	8	mod
+19	être	être	VINF	VINF	t=W	20	aux_tps	20	aux_tps
+20	admis	admettre	VPP	VPP	g=m|t=K	18	prep	18	prep
+21	dans	dans	P	P		20	mod	20	mod
+22	une	une	DET	DET	n=s|g=f	23	det	23	det
+23	école	école	NC	NC	n=s|g=f	21	prep	21	prep
+24	et	et	CC	CC		7	coord	7	coord
+25	il	il	CLS	CLS	n=s|g=m|p=3	26	suj	26	suj
+26	doit	devoir	V	V	n=s|t=P|p=3	24	dep_coord	24	dep_coord
+27	conserver	conserver	VINF	VINF	t=W	26	obj	26	obj
+28	sans	sans	P	P		27	mod	27	mod
+29	faiblir	faiblir	VINF	VINF	t=W	28	prep	28	prep
+30	cette	cette	DET	DET	n=s|g=f	31	det	31	det
+31	attitude	attitude	NC	NC	n=s|g=f	29	obj	29	obj
+32	tout	tout	ADJ	ADJ	n=s|g=m	31	mod	31	mod
+33	au	à	P+D	P+D	n=s|g=m	29	mod	29	mod
+34	long	long	ADJ	ADJ	n=s|g=m	33	prep	33	prep
+35	de	de	P	P		29	mod	29	mod
+36	son	son	DET	DET	n=s|g=m|p=3|poss=s	37	det	37	det
+37	cheminement	cheminement	NC	NC	n=s|g=m	35	prep	35	prep
+38	.	.	PONCT	PONCT		37	ponct	37	ponct
+
+</p><h3>
+1	Sources	source	NC	NC	n=p|g=f	0	_	0	_
+
+</h3><p>
+1	Ouvrage	ouvrage	NC	NC	n=s|g=m	0	root	0	root
+2	:	:	PONCT	PONCT		1	ponct	1	ponct
+3	Collectif	collectif	ADJ	ADJ	n=s|g=m	1	mod	1	mod
+4	.	.	PONCT	PONCT		3	ponct	3	ponct
+
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	encyclopédie	encyclopédie	NC	NC	n=s|g=f	0	_	0	_
+3	visuelle	visuel	ADJ	ADJ	n=s|g=f	2	mod	2	mod
+4	des	de	P+D	P+D	n=p	2	dep	2	dep
+5	sport	sport	NC	NC	n=s|g=m	4	prep	4	prep
+6	.	.	PONCT	PONCT		5	ponct	5	ponct
+
+1	Éditions	édition	NC	NC	n=p|g=f	0	_	0	_
+2	Minerva	Minerva	NPP	NPP	n=s|g=f	1	mod	1	mod
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	2000	2000	NC	NC		1	mod	1	mod
+5	.	.	PONCT	PONCT		4	ponct	4	ponct
+

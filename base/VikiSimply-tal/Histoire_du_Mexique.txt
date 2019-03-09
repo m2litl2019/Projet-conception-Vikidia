@@ -1,0 +1,4021 @@
+<p>
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	Histoire	histoire	NC	NC	n=s|g=f	5	suj	5	suj
+3	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+4	Mexique	Mexique	NPP	NPP	n=s|g=m	3	prep	3	prep
+5	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+6	très	très	ADV	ADV		7	mod	7	mod
+7	riche	riche	ADJ	ADJ	n=s	5	ats	5	ats
+8	et	et	CC	CC		5	coord	5	coord
+9	peut	pouvoir	V	V	n=s|t=P|p=3	8	dep_coord	8	dep_coord
+10	être	être	VINF	VINF	t=W	11	aux_pass	11	aux_pass
+11	découpée	découper	VPP	VPP	n=s|g=f|t=K	9	obj	9	obj
+12	en	en	P	P		11	mod	11	mod
+13	trois	trois	DET	DET	s=card|n=p	15	det	15	det
+14	grandes	grand	ADJ	ADJ	n=p|g=f	15	mod	15	mod
+15	périodes	période	NC	NC	n=p	12	prep	12	prep
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+1	La	la	DET	DET	n=s|g=f	3	det	3	det
+2	première	premier	ADJ	ADJ	n=s|g=f	3	mod	3	mod
+3	période	période	NC	NC	n=s	4	suj	4	suj
+4	voit	voir	V	V	n=s|t=P|p=3	0	root	0	root
+5	le	le	DET	DET	n=s|g=m	6	det	6	det
+6	développement	développement	NC	NC	n=s|g=m	4	obj	4	obj
+7	de	de	P	P		6	dep	6	dep
+8	civilisations	civilisation	NC	NC	n=p|g=f	7	prep	7	prep
+9	locales	local	ADJ	ADJ	n=p|g=f	8	mod	8	mod
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+1	La	la	DET	DET	n=s|g=f	3	det	3	det
+2	seconde	second	ADJ	ADJ	n=s|g=f	3	mod	3	mod
+3	période	période	NC	NC	n=s	4	suj	4	suj
+4	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+5	celle	celle	PRO	PRO	n=s|g=f	4	ats	4	ats
+6	de	de	P	P		4	mod	4	mod
+7	la	la	DET	DET	n=s|g=f	8	det	8	det
+8	colonisation	colonisation	NC	NC	n=s|g=f	6	prep	6	prep
+9	espagnole	espagnol	ADJ	ADJ	n=s|g=f	8	mod	8	mod
+10	qui	qui	PROREL	PROREL	n=s	11	suj	11	suj
+11	dura	durer	V	V	n=s|t=J|p=3	8	mod_rel	8	mod_rel
+12	de	de	P	P		11	mod	11	mod
+13	1519	1519	NC	NC		12	prep	12	prep
+14	jusqu'	jusque	P	P		11	mod	11	mod
+15	à	à	P	P		14	prep	14	prep
+16	la	la	DET	DET	n=s|g=f	17	det	17	det
+17	perte	perte	NC	NC	n=s|g=f	15	prep	15	prep
+18	définitive	définitif	ADJ	ADJ	n=s|g=f	17	mod	17	mod
+19	du	de	P+D	P+D	n=s|g=m	11	mod	11	mod
+20	pays	pays	NC	NC	g=m	19	prep	19	prep
+21	par	par	P	P		11	mod	11	mod
+22	les	les	DET	DET	n=p	23	det	23	det
+23	Espagnols	_	NPP	NPP		21	prep	21	prep
+24	en	en	P	P		11	mod	11	mod
+25	1821	1821	NC	NC		24	prep	24	prep
+26	.	.	PONCT	PONCT		25	ponct	25	ponct
+
+1	La	la	DET	DET	n=s|g=f	3	det	3	det
+2	troisième	troisième	ADJ	ADJ	n=s	3	mod	3	mod
+3	période	période	NC	NC	n=s	4	suj	4	suj
+4	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+5	celle	celle	PRO	PRO	n=s|g=f	4	ats	4	ats
+6	du	de	P+D	P+D	n=s|g=m	4	mod	4	mod
+7	Mexique	Mexique	NPP	NPP	n=s|g=m	6	prep	6	prep
+8	indépendant	indépendant	ADJ	ADJ	n=s|g=m	7	mod	7	mod
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	de	de	P	P		4	mod	4	mod
+11	1821	1821	NC	NC		10	prep	10	prep
+12	à	à	P	P		4	mod	4	mod
+13	nos	nos	DET	DET	n=p|p=1|poss=p	14	det	14	det
+14	jours	jour	NC	NC	n=p|g=m	12	prep	12	prep
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+</p><h2>
+1	Arrivée	arrivée	NC	NC	n=s|g=f	0	_	0	_
+2	des	de	P+D	P+D	n=p	1	dep	1	dep
+3	premiers	premier	ADJ	ADJ	n=p|g=m	4	mod	4	mod
+4	Hommes	Hommes	NPP	NPP	n=s|g=m	2	prep	2	prep
+
+</h2><p>
+1	À	à	P	P		6	mod	6	mod
+2	l'	le	DET	DET	n=s	3	det	3	det
+3	origine	origine	NC	NC	n=s|g=f	1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	l'	le	CLO	CLO	n=s|p=3	6	aff	6	aff
+6	être	être	VINF	VINF	t=W	0	root	0	root
+7	humain	humain	ADJ	ADJ	n=s|g=m	0	_	0	_
+8	est	être	V	V	n=s|t=P|p=3	7	ponct	7	ponct
+9	apparu	apparaître	VPP	VPP	n=s|g=m|t=K	8	prep	8	prep
+10	en	en	P	P		9	mod	9	mod
+11	Afrique	Afrique	NPP	NPP	n=s|g=f	10	prep	10	prep
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+1	Pour	pour	P	P		12	mod	12	mod
+2	peupler	peupler	VINF	VINF	t=W	1	prep	1	prep
+3	le	le	DET	DET	n=s|g=m	4	det	4	det
+4	continent	continent	NC	NC	n=s|g=m	2	obj	2	obj
+5	américain	américain	ADJ	ADJ	n=s|g=m	4	mod	4	mod
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	des	des	DET	DET	n=p	8	det	8	det
+8	groupes	groupe	NC	NC	n=p|g=m	12	suj	12	suj
+9	de	de	P	P		8	dep	8	dep
+10	nomades	nomade	NC	NC	n=p	9	prep	9	prep
+11	ont	avoir	V	V	n=p|t=P|p=3	12	aux_tps	12	aux_tps
+12	franchi	franchir	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+13	le	le	DET	DET	n=s|g=m	14	det	14	det
+14	Détroit	détroit	NC	NC	n=s|g=m	12	obj	12	obj
+15	de	de	P	P		14	dep	14	dep
+16	Béring	_	NPP	NPP		15	prep	15	prep
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	entre	entre	P	P		12	mod	12	mod
+19	la	la	DET	DET	n=s|g=f	20	det	20	det
+20	Russie	Russie	NPP	NPP	n=s|g=f	18	prep	18	prep
+21	et	et	CC	CC		12	coord	12	coord
+22	l'	le	DET	DET	n=s	23	det	23	det
+23	Alaska	Alaska	NPP	NPP	n=s|g=m	21	dep_coord	21	dep_coord
+24	actuels	actuel	ADJ	ADJ	n=p|g=m	23	mod	23	mod
+25	,	,	PONCT	PONCT		24	ponct	24	ponct
+26	à	à	P	P		12	mod	12	mod
+27	partir	partir	VINF	VINF	t=W	26	prep	26	prep
+28	de	de	P	P		27	mod	27	mod
+29	-40_000	-40_000	VINF	VINF		28	prep	28	prep
+30	jusqu'	jusque	P	P		29	mod	29	mod
+31	à	à	P	P		30	dep	30	dep
+32	-30_000	-30_000	VINF	VINF		0	_	0	_
+33	environ	environ	ADV	ADV		32	mod	32	mod
+34	.	.	PONCT	PONCT		33	ponct	33	ponct
+
+1	A	à	P	P		9	mod	9	mod
+2	cette	cette	DET	DET	n=s|g=f	3	det	3	det
+3	époque	époque	NC	NC	n=s|g=f	1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	le	le	DET	DET	n=s|g=m	6	det	6	det
+6	niveau	niveau	NC	NC	n=s|g=m	9	suj	9	suj
+7	des	de	P+D	P+D	n=p	6	dep	6	dep
+8	océans	océan	NC	NC	n=p|g=m	7	prep	7	prep
+9	était	être	V	V	n=s|t=I|p=3	0	root	0	root
+10	plus	plus	ADV	ADV		9	mod	9	mod
+11	bas	bas	ADJ	ADJ	g=m	9	ats	9	ats
+12	:	:	PONCT	PONCT		11	ponct	11	ponct
+13	il	il	CLS	CLS	n=s|g=m|p=3	14	suj	14	suj
+14	était	être	V	V	n=s|t=I|p=3	9	mod	9	mod
+15	donc	donc	ADV	ADV		14	mod	14	mod
+16	possible	possible	ADJ	ADJ	n=s	14	ats	14	ats
+17	de	de	P	P		14	mod	14	mod
+18	franchir	franchir	VINF	VINF	t=W	17	prep	17	prep
+19	le	le	DET	DET	n=s|g=m	20	det	20	det
+20	détroit	détroit	NC	NC	n=s|g=m	18	obj	18	obj
+21	à	à	P	P		18	mod	18	mod
+22	pied	pied	NC	NC	n=s	21	prep	21	prep
+23	!	!	PONCT	PONCT		22	ponct	22	ponct
+
+1	Ces	ces	DET	DET	n=p	2	det	2	det
+2	peuples	peuple	NC	NC	n=p|g=m	3	suj	3	suj
+3	migrèrent	migrer	V	V	n=p|t=J|p=3	0	root	0	root
+4	ensuite	ensuite	ADV	ADV		3	mod	3	mod
+5	progressivement	_	ADV	ADV		3	mod	3	mod
+6	vers	vers	P	P		3	mod	3	mod
+7	le	le	DET	DET	n=s|g=m	8	det	8	det
+8	sud	sud	NC	NC	n=s|g=m	6	prep	6	prep
+9	du	de	P+D	P+D	n=s|g=m	8	dep	8	dep
+10	continent	continent	NC	NC	n=s|g=m	9	prep	9	prep
+11	et	et	CC	CC		3	coord	3	coord
+12	on	on	CLS	CLS	n=s|p=3	13	suj	13	suj
+13	trouve	trouver	V	V	n=s|t=P,S|p=1,3	11	dep_coord	11	dep_coord
+14	des	des	DET	DET	n=p	15	det	15	det
+15	traces	trace	NC	NC	n=p|g=f	13	obj	13	obj
+16	de	de	P	P		15	dep	15	dep
+17	peuplement	peuplement	NC	NC	n=s|g=m	16	prep	16	prep
+18	du	de	P+D	P+D	n=s|g=m	15	dep	15	dep
+19	Mexique	Mexique	NPP	NPP	n=s|g=m	18	prep	18	prep
+20	à	à	P	P		13	mod	13	mod
+21	des	des	DET	DET	n=p	22	det	22	det
+22	périodes	période	NC	NC	n=p	20	prep	20	prep
+23	comprises	comprendre	VPP	VPP	n=p|g=f|t=K	22	mod	22	mod
+24	entre	entre	P	P		23	mod	23	mod
+25	-20_000	-20_000	NPP	NPP		24	prep	24	prep
+26	et	et	CC	CC		22	coord	22	coord
+27	-12_000	-12_000	ADJ	ADJ		26	dep_coord	26	dep_coord
+28	av	_	NC	NC		22	mod	22	mod
+29	JC	_	NPP	NPP		28	mod	28	mod
+30	.	.	PONCT	PONCT		29	ponct	29	ponct
+
+1	:	:	PONCT	PONCT		0	ponct	0	ponct
+2	des	des	DET	DET	n=p	3	det	3	det
+3	civilisations	civilisation	NC	NC	n=p|g=f	5	suj	5	suj
+4	se	se	CLR	CLR	n=p,s|p=3	5	aff	5	aff
+5	développent	développer	V	V	n=p|t=P,S|p=3	0	root	0	root
+6	en	en	P	P		5	mod	5	mod
+7	vivant	vivre	VPR	VPR	t=G	6	prep	6	prep
+8	de	de	P	P		7	mod	7	mod
+9	l'	le	DET	DET	n=s	10	det	10	det
+10	agriculture	agriculture	NC	NC	n=s|g=f	8	prep	8	prep
+11	et	et	CC	CC		5	coord	5	coord
+12	en	en	P	P		11	dep_coord	11	dep_coord
+13	pratiquant	pratiquer	VPR	VPR	t=G	12	prep	12	prep
+14	la	la	DET	DET	n=s|g=f	15	det	15	det
+15	poterie	poterie	NC	NC	n=s|g=f	13	obj	13	obj
+16	et	et	CC	CC		15	coord	15	coord
+17	le	le	DET	DET	n=s|g=m	18	det	18	det
+18	tressage	tressage	NC	NC	n=s|g=m	16	dep_coord	16	dep_coord
+19	des	de	P+D	P+D	n=p	13	mod	13	mod
+20	végétaux	végétal	ADJ	ADJ	n=p|g=m	0	_	0	_
+21	.	.	PONCT	PONCT		20	ponct	20	ponct
+
+</p><h2>
+1	Période	période	NC	NC	n=s	0	_	0	_
+2	précolombienne	_	ADJ	ADJ		1	mod	1	mod
+
+</h2><p>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	période	période	NC	NC	n=s	6	suj	6	suj
+3	"	"	PONCT	PONCT		2	ponct	2	ponct
+4	précolombienne	_	ADJ	ADJ		2	mod	2	mod
+5	"	"	PONCT	PONCT		4	ponct	4	ponct
+6	désigne	désigner	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+7	la	la	DET	DET	n=s|g=f	8	det	8	det
+8	période	période	NC	NC	n=s	6	obj	6	obj
+9	de	de	P	P		8	dep	8	dep
+10	l'	le	DET	DET	n=s	11	det	11	det
+11	histoire	histoire	NC	NC	n=s|g=f	9	prep	9	prep
+12	précédant	précéder	VPR	VPR	t=G	8	mod	8	mod
+13	l'	le	DET	DET	n=s	14	det	14	det
+14	arrivée	arrivée	NC	NC	n=s|g=f	12	obj	12	obj
+15	des	de	P+D	P+D	n=p	14	dep	14	dep
+16	Espagnols	_	NPP	NPP		15	prep	15	prep
+17	(	(	PONCT	PONCT		16	ponct	16	ponct
+18	avant	avant	P	P		6	mod	6	mod
+19	Christophe	Christophe	NPP	NPP	n=s|g=m	18	prep	18	prep
+20	Colomb	_	NPP	NPP		19	mod	19	mod
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	d'	de	P	P		6	mod	6	mod
+23	où	où	PROREL	PROREL		0	_	0	_
+24	"	"	PONCT	PONCT		23	ponct	23	ponct
+25	Colombienne	colombien	ADJ	ADJ	n=s|g=f	0	_	0	_
+26	"	"	PONCT	PONCT		25	ponct	25	ponct
+27	)	)	PONCT	PONCT		25	ponct	25	ponct
+28	.	.	PONCT	PONCT		25	ponct	25	ponct
+
+1	Différents	différent	DET	DET	n=p|g=m	2	det	2	det
+2	peuples	peuple	NC	NC	n=p|g=m	7	suj	7	suj
+3	avec	avec	P	P		2	dep	2	dep
+4	différentes	différent	DET	DET	n=p|g=f	5	det	5	det
+5	cultures	culture	NC	NC	n=p|g=f	3	prep	3	prep
+6	ont	avoir	V	V	n=p|t=P|p=3	7	aux_tps	7	aux_tps
+7	existé	exister	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+8	jusqu'	jusque	P	P		7	mod	7	mod
+9	en	en	P	P		8	dep	8	dep
+10	1521	1521	NC	NC		9	prep	9	prep
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	date	date	NC	NC	n=s|g=f	7	mod	7	mod
+13	de	de	P	P		7	mod	7	mod
+14	la	la	DET	DET	n=s|g=f	15	det	15	det
+15	chute	chute	NC	NC	n=s|g=f	13	prep	13	prep
+16	du	de	P+D	P+D	n=s|g=m	7	mod	7	mod
+17	dernier	dernier	ADJ	ADJ	n=s|g=m	18	mod	18	mod
+18	empereur	empereur	NC	NC	n=s|g=m	16	prep	16	prep
+19	Aztèque	_	NPP	NPP		18	mod	18	mod
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	vaincu	vaincre	VPP	VPP	n=s|g=m|t=K	18	mod	18	mod
+22	par	par	P	P		21	mod	21	mod
+23	les	les	DET	DET	n=p	24	det	24	det
+24	Espagnols	_	NPP	NPP		22	prep	22	prep
+25	.	.	PONCT	PONCT		24	ponct	24	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	points	point	NC	NC	n=p|g=m	0	_	0	_
+3	communs	commun	ADJ	ADJ	n=p|g=m	2	mod	2	mod
+4	entre	entre	P	P		2	dep	2	dep
+5	tous	tout	ADJ	ADJ	n=p|g=m	7	mod	7	mod
+6	ces	ces	DET	DET	n=p	7	det	7	det
+7	peuples	peuple	NC	NC	n=p|g=m	4	prep	4	prep
+8	?	?	PONCT	PONCT		7	ponct	7	ponct
+
+1	Certains	certain	DET	DET	n=p|g=m	2	det	2	det
+2	rites	rite	NC	NC	n=p|g=m	0	_	0	_
+3	religieux	religieux	ADJ	ADJ	g=m	2	mod	2	mod
+4	ou	ou	CC	CC		2	coord	2	coord
+5	certaines	certain	DET	DET	n=p|g=f	6	det	6	det
+6	techniques	technique	NC	NC	n=p|g=f	4	dep_coord	4	dep_coord
+7	de	de	P	P		6	dep	6	dep
+8	construction	construction	NC	NC	n=s|g=f	7	prep	7	prep
+9	.	.	PONCT	PONCT		8	ponct	8	ponct
+
+1	Les	les	DET	DET	n=p	3	det	3	det
+2	quatre	quatre	ADJ	ADJ	s=card|n=p	3	mod	3	mod
+3	peuples	peuple	NC	NC	n=p|g=m	6	suj	6	suj
+4	développés	développer	VPP	VPP	n=p|g=m|t=K	3	mod	3	mod
+5	ici	ici	ADV	ADV		4	mod	4	mod
+6	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+7	les	les	DET	DET	n=p	9	det	9	det
+8	plus	plus	ADV	ADV		9	mod	9	mod
+9	importants	important	ADJ	ADJ	n=p|g=m	6	ats	6	ats
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	3	suj	3	suj
+2	s'	se	CLR	CLR	n=p,s|p=3	3	aff	3	aff
+3	agit	agir	V	V	n=s|t=J,P|p=3	0	root	0	root
+4	des	de	P+D	P+D	n=p	3	de_obj	3	de_obj
+5	Olmèques	_	NPP	NPP		4	prep	4	prep
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	des	de	P+D	P+D	n=p	3	mod	3	mod
+8	Mayas	_	NPP	NPP		7	prep	7	prep
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	des	de	P+D	P+D	n=p	3	de_obj	3	de_obj
+11	Toltèques	_	NC	NC		10	prep	10	prep
+12	et	et	CC	CC		10	coord	10	coord
+13	des	de	P+D	P+D	n=p	12	dep_coord	12	dep_coord
+14	Aztèques	aztèque	NC	NC	n=p	13	prep	13	prep
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+</p><h3>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	Olmèques	_	NC	NC		0	_	0	_
+
+</h3><p>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	Olmèques	_	NPP	NPP		3	suj	3	suj
+3	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+4	la	la	DET	DET	n=s|g=f	6	det	6	det
+5	première	premier	ADJ	ADJ	n=s|g=f	6	mod	6	mod
+6	civilisation	civilisation	NC	NC	n=s|g=f	3	obj	3	obj
+7	qui	qui	PROREL	PROREL	n=s	9	suj	9	suj
+8	a	avoir	V	V	n=s|t=P|p=3	9	aux_tps	9	aux_tps
+9	résidé	résider	VPP	VPP	n=s|g=m|t=K	6	mod_rel	6	mod_rel
+10	sur	sur	P	P		9	mod	9	mod
+11	le	le	DET	DET	n=s|g=m	12	det	12	det
+12	territoire	territoire	NC	NC	n=s|g=m	10	prep	10	prep
+13	mexicain	mexicain	ADJ	ADJ	n=s|g=m	12	mod	12	mod
+14	actuel	actuel	ADJ	ADJ	n=s|g=m	12	mod	12	mod
+15	aux	à	P+D	P+D	n=p	9	mod	9	mod
+16	alentours	alentours	NC	NC	n=p|g=m	15	prep	15	prep
+17	de	de	P	P		16	dep	16	dep
+18	-1_500	-1_500	NC	NC		17	prep	17	prep
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	Ils	ils	CLS	CLS	n=p|g=m|p=3	2	suj	2	suj
+2	vivaient	vivre	V	V	n=p|t=I|p=3	0	root	0	root
+3	près	près	ADV	ADV		2	mod	2	mod
+4	du	de	P+D	P+D	n=s|g=m	2	mod	2	mod
+5	golfe	golfe	NC	NC	n=s|g=m	4	prep	4	prep
+6	du	de	P+D	P+D	n=s|g=m	5	dep	5	dep
+7	Mexique	Mexique	NPP	NPP	n=s|g=m	6	prep	6	prep
+8	(	(	PONCT	PONCT		7	ponct	7	ponct
+9	aujourd'hui	aujourd'hui	ADV	ADV		13	mod	13	mod
+10	cette	cette	DET	DET	n=s|g=f	11	det	11	det
+11	zone	zone	NC	NC	n=s|g=f	13	suj	13	suj
+12	est	être	V	V	n=s|t=P|p=3	13	aux_tps	13	aux_tps
+13	devenue	devenir	VPP	VPP	n=s|g=f|t=K	2	mod	2	mod
+14	les	les	DET	DET	n=p	15	det	15	det
+15	états	état	NC	NC	n=p|g=m	13	obj	13	obj
+16	de	de	P	P		13	mod	13	mod
+17	Puebla	_	NPP	NPP		16	prep	16	prep
+18	et	et	CC	CC		16	coord	16	coord
+19	de	de	P	P		18	dep_coord	18	dep_coord
+20	Veracruz	_	NPP	NPP		19	prep	19	prep
+21	)	)	PONCT	PONCT		20	ponct	20	ponct
+22	.	.	PONCT	PONCT		20	ponct	20	ponct
+
+1	Ils	ils	CLS	CLS	n=p|g=m|p=3	2	suj	2	suj
+2	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+3	les	les	DET	DET	n=p	4	det	4	det
+4	premiers	premier	ADJ	ADJ	n=p|g=m	2	ats	2	ats
+5	dans	dans	P	P		2	mod	2	mod
+6	cette	cette	DET	DET	n=s|g=f	7	det	7	det
+7	zone	zone	NC	NC	n=s|g=f	5	prep	5	prep
+8	à	à	P	P		2	mod	2	mod
+9	utiliser	utiliser	VINF	VINF	t=W	8	prep	8	prep
+10	l'	le	DET	DET	n=s	11	det	11	det
+11	écriture	écriture	NC	NC	n=s|g=f	9	obj	9	obj
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	Omèques	_	NC	NC		3	suj	3	suj
+3	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+4	à	à	P	P		3	mod	3	mod
+5	l'	le	DET	DET	n=s	6	det	6	det
+6	origine	origine	NC	NC	n=s|g=f	4	prep	4	prep
+7	de	de	P	P		3	mod	3	mod
+8	l'	le	DET	DET	n=s	9	det	9	det
+9	unité	unité	NC	NC	n=s|g=f	7	prep	7	prep
+10	entre	entre	P	P		3	mod	3	mod
+11	les	les	DET	DET	n=p	12	det	12	det
+12	peuples	peuple	NC	NC	n=p|g=m	10	prep	10	prep
+13	suivants	suivant	ADJ	ADJ	n=p|g=m	12	mod	12	mod
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+1	Bien	bien	ADV	ADV		2	mod	2	mod
+2	qu'	que	CS	CS		0	root	0	root
+3	ayant	avoir	VPR	VPR	t=G	4	aux_tps	4	aux_tps
+4	vécu	vivre	VPP	VPP	n=s|g=m|t=K	11	mod	11	mod
+5	à	à	P	P		4	mod	4	mod
+6	des	des	DET	DET	n=p	7	det	7	det
+7	époques	époque	NC	NC	n=p|g=f	5	prep	5	prep
+8	différentes	différent	ADJ	ADJ	n=p|g=f	7	mod	7	mod
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	ils	ils	CLS	CLS	n=p|g=m|p=3	11	suj	11	suj
+11	avaient	avoir	V	V	n=p|t=I|p=3	0	root	0	root
+12	en	en	P	P		11	mod	11	mod
+13	commun	commun	ADJ	ADJ	n=s|g=m	12	prep	12	prep
+14	des	de	P+D	P+D	n=p	11	mod	11	mod
+15	rites	rite	NC	NC	n=p|g=m	14	prep	14	prep
+16	et	et	CC	CC		14	coord	14	coord
+17	des	de	P+D	P+D	n=p	16	dep_coord	16	dep_coord
+18	techniques	technique	NC	NC	n=p|g=f	17	prep	17	prep
+19	de	de	P	P		11	mod	11	mod
+20	constructions	construction	NC	NC	n=p|g=f	19	prep	19	prep
+21	et	et	CC	CC		11	coord	11	coord
+22	architecturales	architectural	ADJ	ADJ	n=p|g=f	21	dep_coord	21	dep_coord
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+</p><h3>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	Mayas	maya	NC	NC	n=p	0	_	0	_
+
+</h3><p>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	Mayas	_	NPP	NPP		3	suj	3	suj
+3	vivaient	vivre	V	V	n=p|t=I|p=3	0	root	0	root
+4	à	à	P	P		3	mod	3	mod
+5	l'	le	DET	DET	n=s	6	det	6	det
+6	est	_	NPP	NPP		4	prep	4	prep
+7	et	et	CC	CC		3	coord	3	coord
+8	au	à	P+D	P+D	n=s|g=m	7	dep_coord	7	dep_coord
+9	sud-est	sud-est	NC	NC	n=s|g=m	8	prep	8	prep
+10	du	de	P+D	P+D	n=s|g=m	3	mod	3	mod
+11	Mexique	Mexique	NPP	NPP	n=s|g=m	10	prep	10	prep
+12	sur	sur	P	P		3	mod	3	mod
+13	la	la	DET	DET	n=s|g=f	14	det	14	det
+14	péninsule	péninsule	NC	NC	n=s|g=f	12	prep	12	prep
+15	du	de	P+D	P+D	n=s|g=m	3	mod	3	mod
+16	Yucatán	_	NPP	NPP		15	prep	15	prep
+17	et	et	CC	CC		3	coord	3	coord
+18	une	une	DET	DET	n=s|g=f	19	det	19	det
+19	partie	partie	NC	NC	n=s|g=f	17	dep_coord	17	dep_coord
+20	du	de	P+D	P+D	n=s|g=m	19	dep	19	dep
+21	Guatemala	Guatemala	NPP	NPP	n=s|g=m	20	prep	20	prep
+22	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+1	Des	des	DET	DET	n=p	2	det	2	det
+2	traces	trace	NC	NC	n=p|g=f	5	suj	5	suj
+3	de	de	P	P		2	dep	2	dep
+4	peuplement	peuplement	NC	NC	n=s|g=m	3	prep	3	prep
+5	datent	dater	V	V	n=p|t=P,S|p=3	0	root	0	root
+6	de	de	P	P		5	mod	5	mod
+7	-2_000	-2_000	NPP	NPP		6	prep	6	prep
+8	avant	avant	P	P		5	mod	5	mod
+9	JC	_	NPP	NPP		8	prep	8	prep
+10	environ	environ	ADV	ADV		5	mod	5	mod
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+1	Bien	bien	ADV	ADV		2	mod	2	mod
+2	que	que	CS	CS		0	root	0	root
+3	d'	de	P	P		12	mod	12	mod
+4	une	une	DET	DET	n=s|g=f	5	det	5	det
+5	époque	époque	NC	NC	n=s|g=f	3	prep	3	prep
+6	très	très	ADV	ADV		7	mod	7	mod
+7	ancienne	ancien	ADJ	ADJ	n=s|g=f	5	mod	5	mod
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	les	les	DET	DET	n=p	10	det	10	det
+10	Mayas	_	NPP	NPP		12	suj	12	suj
+11	sont	être	V	V	n=p|t=P|p=3	12	aux_pass	12	aux_pass
+12	connus	connaître	VPP	VPP	n=p|g=m|t=K	2	sub	2	sub
+13	pour	pour	P	P		12	mod	12	mod
+14	leur	leur	DET	DET	n=s|p=3|poss=p	15	det	15	det
+15	capacité	capacité	NC	NC	n=s|g=f	13	prep	13	prep
+16	à	à	P	P		12	mod	12	mod
+17	s'	se	CLR	CLR	n=p,s|p=3	18	aff	18	aff
+18	organiser	organiser	VINF	VINF	t=W	16	prep	16	prep
+19	socialement	_	ADV	ADV		18	mod	18	mod
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+1	Concrètement	_	NC	NC		3	mod	3	mod
+2	cela	cela	PRO	PRO	n=s|g=m	3	suj	3	suj
+3	veut	vouloir	V	V	n=s|t=P|p=3	0	root	0	root
+4	dire	dire	VINF	VINF	t=W	3	obj	3	obj
+5	que	que	CS	CS		3	mod	3	mod
+6	ce	ce	DET	DET	n=s|g=m	7	det	7	det
+7	peuple	peuple	NC	NC	n=s|g=m	8	suj	8	suj
+8	est	être	V	V	n=s|t=P|p=3	5	sub	5	sub
+9	même	même	ADV	ADV		8	mod	8	mod
+10	jusqu'	jusque	P	P		8	mod	8	mod
+11	à	à	P	P		10	dep	10	dep
+12	aller	aller	VINF	VINF	t=W	0	_	0	_
+13	se	se	CLR	CLR	n=p,s|p=3	14	aff	14	aff
+14	constituer	constituer	VINF	VINF	t=W	12	obj	12	obj
+15	en	en	P	P		14	mod	14	mod
+16	États-Nations	_	NC	NC		15	prep	15	prep
+17	!	!	PONCT	PONCT		16	ponct	16	ponct
+
+1	Ainsi	ainsi	ADV	ADV		6	mod	6	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	chaque	chaque	DET	DET	n=s	4	det	4	det
+4	cité	cité	NC	NC	n=s|g=f	6	suj	6	suj
+5	Mayas	_	NPP	NPP		4	mod	4	mod
+6	a	avoir	V	V	n=s|t=P|p=3	0	root	0	root
+7	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	9	det	9	det
+8	propre	propre	ADJ	ADJ	n=s	9	mod	9	mod
+9	armée	armée	NC	NC	n=s|g=f	6	obj	6	obj
+10	et	et	CC	CC		6	coord	6	coord
+11	la	la	DET	DET	n=s|g=f	12	det	12	det
+12	population	population	NC	NC	n=s|g=f	14	suj	14	suj
+13	y	y	CLO	CLO		14	obj	14	obj
+14	était	être	V	V	n=s|t=I|p=3	10	dep_coord	10	dep_coord
+15	très	très	ADV	ADV		14	mod	14	mod
+16	importante	important	ADJ	ADJ	n=s|g=f	14	ats	14	ats
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+</p><p>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	Mayas	_	NPP	NPP		3	suj	3	suj
+3	avaient	avoir	V	V	n=p|t=I|p=3	0	root	0	root
+4	une	une	DET	DET	n=s|g=f	7	det	7	det
+5	très	très	ADV	ADV		6	mod	6	mod
+6	grande	grand	ADJ	ADJ	n=s|g=f	7	mod	7	mod
+7	connaissance	connaissance	NC	NC	n=s|g=f	3	obj	3	obj
+8	de	de	P	P		3	mod	3	mod
+9	l'	le	DET	DET	n=s	10	det	10	det
+10	astronomie	astronomie	NC	NC	n=s|g=f	8	prep	8	prep
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+1	Ils	ils	CLS	CLS	n=p|g=m|p=3	2	suj	2	suj
+2	ont	avoir	V	V	n=p|t=P|p=3	0	root	0	root
+3	également	_	ADV	ADV		2	mod	2	mod
+4	leur	leur	DET	DET	n=s|p=3|poss=p	6	det	6	det
+5	propre	propre	ADJ	ADJ	n=s	6	mod	6	mod
+6	calendrier	calendrier	NC	NC	n=s|g=m	2	obj	2	obj
+7	.	.	PONCT	PONCT		6	ponct	6	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	Mayas	_	NPP	NPP		3	suj	3	suj
+3	utilisaient	utiliser	V	V	n=p|t=I|p=3	0	root	0	root
+4	le	le	DET	DET	n=s|g=m	5	det	5	det
+5	concept	concept	NC	NC	n=s|g=m	3	obj	3	obj
+6	du	de	P+D	P+D	n=s|g=m	5	dep	5	dep
+7	zéro	zéro	NC	NC	n=s|g=m	6	prep	6	prep
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	comme	comme	P	P		3	mod	3	mod
+10	les	les	DET	DET	n=p	11	det	11	det
+11	Arabes	_	NPP	NPP		9	prep	9	prep
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+1	Ils	ils	CLS	CLS	n=p|g=m|p=3	2	suj	2	suj
+2	avaient	avoir	V	V	n=p|t=I|p=3	0	root	0	root
+3	une	une	DET	DET	n=s|g=f	4	det	4	det
+4	écriture	écriture	NC	NC	n=s|g=f	2	obj	2	obj
+5	dans	dans	P	P		2	mod	2	mod
+6	laquelle	lequel	PROREL	PROREL	n=s|g=f	9	mod	9	mod
+7	chaque	chaque	DET	DET	n=s	9	suj	9	suj
+8	son	_	ADJ	ADJ		9	mod	9	mod
+9	avait	avoir	V	V	n=s|t=I|p=3	2	mod	2	mod
+10	son	son	DET	DET	n=s|g=m|p=3|poss=s	12	det	12	det
+11	propre	propre	ADJ	ADJ	n=s	12	mod	12	mod
+12	symbole	symbole	NC	NC	n=s|g=m	9	obj	9	obj
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	comme	comme	P	P		9	mod	9	mod
+15	les	les	DET	DET	n=p	16	det	16	det
+16	hiéroglyphes	hiéroglyphe	NC	NC	n=p|g=m	14	prep	14	prep
+17	en	en	P	P		9	mod	9	mod
+18	égyptiens	égyptien	NC	NC	n=p|g=m	17	prep	17	prep
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+</p><p>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	Mayas	_	NPP	NPP		3	suj	3	suj
+3	cultivaient	cultiver	V	V	n=p|t=I|p=3	0	root	0	root
+4	du	de	P+D	P+D	n=s|g=m	3	mod	3	mod
+5	maïs	maïs	NC	NC	g=m	4	prep	4	prep
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	des	de	P+D	P+D	n=p	3	mod	3	mod
+8	tomates	tomate	NC	NC	n=p|g=f	7	prep	7	prep
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	des	de	P+D	P+D	n=p	3	mod	3	mod
+11	haricots	haricot	NC	NC	n=p|g=m	10	prep	10	prep
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	des	des	DET	DET	n=p	14	det	14	det
+14	patates	patate	NC	NC	n=p|g=f	3	obj	3	obj
+15	douces	doux	ADJ	ADJ	n=p|g=f	14	mod	14	mod
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	du	de	P+D	P+D	n=s|g=m	3	mod	3	mod
+18	manioc	manioc	NC	NC	n=s|g=m	17	prep	17	prep
+19	et	et	CC	CC		17	coord	17	coord
+20	des	de	P+D	P+D	n=p	19	dep_coord	19	dep_coord
+21	avocats	avocat	NC	NC	n=p|g=m	20	prep	20	prep
+22	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+1	Concernant	concerner	VPR	VPR	t=G	8	mod	8	mod
+2	l'	le	DET	DET	n=s	3	det	3	det
+3	élevage	élevage	NC	NC	n=s|g=m	1	obj	1	obj
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	les	les	DET	DET	n=p	6	det	6	det
+6	Mayas	_	NPP	NPP		8	suj	8	suj
+7	n'	ne	ADV	ADV		8	mod	8	mod
+8	élevaient	élever	V	V	n=p|t=I|p=3	0	root	0	root
+9	que	que	CS	CS		8	obj	8	obj
+10	la	la	DET	DET	n=s|g=f	11	det	11	det
+11	dinde	dinde	NC	NC	n=s|g=f	0	_	0	_
+12	et	et	CC	CC		11	coord	11	coord
+13	le	le	DET	DET	n=s|g=m	14	det	14	det
+14	chien	chien	NC	NC	n=s|g=m	12	dep_coord	12	dep_coord
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+1	Cependant	cependant	ADV	ADV		5	mod	5	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	ils	ils	CLS	CLS	n=p|g=m|p=3	5	suj	5	suj
+4	n'	ne	ADV	ADV		5	mod	5	mod
+5	utilisaient	utiliser	V	V	n=p|t=I|p=3	0	root	0	root
+6	pas	pas	ADV	ADV		5	mod	5	mod
+7	de	de	P	P		5	mod	5	mod
+8	fer	fer	NC	NC	n=s|g=m	7	prep	7	prep
+9	et	et	CC	CC		5	coord	5	coord
+10	ne	ne	ADV	ADV		11	mod	11	mod
+11	connaissaient	connaître	V	V	n=p|t=I|p=3	9	dep_coord	9	dep_coord
+12	pas	pas	ADV	ADV		11	mod	11	mod
+13	la	la	DET	DET	n=s|g=f	14	det	14	det
+14	roue	roue	NC	NC	n=s|g=f	11	obj	11	obj
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+1	Ainsi	ainsi	ADV	ADV		5	mod	5	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	leurs	leurs	DET	DET	n=p|p=3|poss=p	4	det	4	det
+4	outils	outil	NC	NC	n=p|g=m	5	suj	5	suj
+5	peuvent	pouvoir	V	V	n=p|t=P|p=3	0	root	0	root
+6	être	être	VINF	VINF	t=W	5	obj	5	obj
+7	aujourd'hui	aujourd'hui	ADV	ADV		8	mod	8	mod
+8	qualifiés	qualifier	ADJ	ADJ	n=p|g=m|t=K	6	ats	6	ats
+9	de	de	P	P		6	mod	6	mod
+10	type	type	NC	NC	n=s|g=m	9	prep	9	prep
+11	néolithiques	néolithique	ADJ	ADJ	n=p	10	mod	10	mod
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	puisqu'	puisque	CS	CS		5	mod	5	mod
+14	ils	ils	CLS	CLS	n=p|g=m|p=3	15	suj	15	suj
+15	étaient	être	V	V	n=p|t=I|p=3	13	sub	13	sub
+16	en	en	P	P		15	mod	15	mod
+17	obsidienne	obsidienne	NC	NC	n=s|g=f	16	prep	16	prep
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	d'	de	P	P		15	mod	15	mod
+20	usage	usage	NC	NC	n=s|g=m	19	prep	19	prep
+21	semblable	semblable	ADJ	ADJ	n=s	20	mod	20	mod
+22	au	à	P+D	P+D	n=s|g=m	15	mod	15	mod
+23	silex	silex	NC	NC	g=m	22	prep	22	prep
+24	.	.	PONCT	PONCT		23	ponct	23	ponct
+
+</p><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	déclin	déclin	NC	NC	n=s|g=m	7	suj	7	suj
+3	des	de	P+D	P+D	n=p	2	dep	2	dep
+4	Mayas	_	NPP	NPP		3	prep	3	prep
+5	s'	se	CLR	CLR	n=p,s|p=3	7	aff	7	aff
+6	est	être	V	V	n=s|t=P|p=3	7	aux_tps	7	aux_tps
+7	amorcé	amorcer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+8	au	à	P+D	P+D	n=s|g=m	7	mod	7	mod
+9	IXème	_	ADJ	ADJ		10	mod	10	mod
+10	siècle	siècle	NC	NC	n=s|g=m	8	prep	8	prep
+11	après	après	P	P		7	mod	7	mod
+12	JC	_	NPP	NPP		11	prep	11	prep
+13	.	.	PONCT	PONCT		12	ponct	12	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	historiens	historien	NC	NC	n=p|g=m	4	suj	4	suj
+3	l'	le	CLO	CLO	n=s|p=3	4	obj	4	obj
+4	attribuent	attribuer	V	V	n=p|t=P,S|p=3	0	root	0	root
+5	à	à	P	P		4	mod	4	mod
+6	une	une	DET	DET	n=s|g=f	7	det	7	det
+7	période	période	NC	NC	n=s	5	prep	5	prep
+8	de	de	P	P		7	dep	7	dep
+9	sécheresse	sécheresse	NC	NC	n=s|g=f	8	prep	8	prep
+10	survenue	survenir	VPP	VPP	n=s|g=f|t=K	7	mod	7	mod
+11	après	après	P	P		10	mod	10	mod
+12	une	une	DET	DET	n=s|g=f	13	det	13	det
+13	période	période	NC	NC	n=s	11	prep	11	prep
+14	prospère	prospère	ADJ	ADJ	n=s	13	mod	13	mod
+15	et	et	CC	CC		4	coord	4	coord
+16	d'	de	P	P		15	dep_coord	15	dep_coord
+17	augmentation	augmentation	NC	NC	n=s|g=f	16	prep	16	prep
+18	de	de	P	P		4	mod	4	mod
+19	la	la	DET	DET	n=s|g=f	20	det	20	det
+20	population	population	NC	NC	n=s|g=f	18	prep	18	prep
+21	.	.	PONCT	PONCT		20	ponct	20	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	faim	faim	NC	NC	n=s|g=f	5	suj	5	suj
+3	a	avoir	V	V	n=s|t=P|p=3	5	aux_tps	5	aux_tps
+4	sûrement	_	ADV	ADV		5	mod	5	mod
+5	poussé	pousser	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+6	les	les	DET	DET	n=p	7	det	7	det
+7	populations	population	NC	NC	n=p|g=f	5	obj	5	obj
+8	à	à	P	P		5	mod	5	mod
+9	se	se	CLR	CLR	n=p,s|p=3	10	aff	10	aff
+10	déplacer	déplacer	VINF	VINF	t=W	8	prep	8	prep
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+1	Un	un	DET	DET	n=s|g=m	3	det	3	det
+2	second	second	ADJ	ADJ	n=s|g=m	3	mod	3	mod
+3	souffle	souffle	NC	NC	n=s|g=m	4	suj	4	suj
+4	intervient	intervenir	V	V	n=s|t=P|p=3	0	root	0	root
+5	vers	vers	P	P		4	mod	4	mod
+6	900	900	NC	NC		5	prep	5	prep
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	lorsque	lorsque	CS	CS		4	mod	4	mod
+9	des	des	DET	DET	n=p	10	det	10	det
+10	Toltèques	_	NC	NC		11	suj	11	suj
+11	arrivent	arriver	V	V	n=p|t=P,S|p=3	8	sub	8	sub
+12	sur	sur	P	P		11	mod	11	mod
+13	la	la	DET	DET	n=s|g=f	14	det	14	det
+14	zone	zone	NC	NC	n=s|g=f	12	prep	12	prep
+15	et	et	CC	CC		11	coord	11	coord
+16	entraînent	entraîner	V	V	n=p|t=P,S|p=3	15	dep_coord	15	dep_coord
+17	un	un	DET	DET	n=s|g=m	18	det	18	det
+18	métissage	métissage	NC	NC	n=s|g=m	16	obj	16	obj
+19	de	de	P	P		18	dep	18	dep
+20	la	la	DET	DET	n=s|g=f	21	det	21	det
+21	culture	culture	NC	NC	n=s|g=f	19	prep	19	prep
+22	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+1	Vers	vers	P	P		12	mod	12	mod
+2	1200	1200	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	les	les	DET	DET	n=p	5	det	5	det
+5	Cités-Etats	_	NPP	NPP		12	suj	12	suj
+6	un	un	DET	DET	n=s|g=m	7	det	7	det
+7	temps	temps	NC	NC	g=m	5	mod	5	mod
+8	repeuplées	repeupler	VPP	VPP	n=p|g=f|t=K	5	mod	5	mod
+9	et	et	CC	CC		8	coord	8	coord
+10	restaurées	restaurer	VPP	VPP	n=p|g=f|t=K	9	dep_coord	9	dep_coord
+11	sont	être	V	V	n=p|t=P|p=3	12	aux_pass	12	aux_pass
+12	détruites	détruire	VPP	VPP	n=p|g=f|t=K	0	root	0	root
+13	vraisemblablement	_	ADV	ADV		12	mod	12	mod
+14	à	à	P	P		12	mod	12	mod
+15	cause	cause	NC	NC	n=s|g=f	14	prep	14	prep
+16	de	de	P	P		12	mod	12	mod
+17	révoltes	révolte	NC	NC	n=p|g=f	16	prep	16	prep
+18	contre	contre	P	P		12	mod	12	mod
+19	ces	ces	DET	DET	n=p	21	det	21	det
+20	mêmes	même	ADJ	ADJ	n=p	21	mod	21	mod
+21	Toltèques	_	NC	NC		18	prep	18	prep
+22	qui	qui	PROREL	PROREL	n=s	23	suj	23	suj
+23	pratiquaient	pratiquer	V	V	n=p|t=I|p=3	21	mod_rel	21	mod_rel
+24	des	des	DET	DET	n=p	25	det	25	det
+25	sacrifices	sacrifice	NC	NC	n=p|g=m	23	obj	23	obj
+26	humains	humain	ADJ	ADJ	n=p|g=m	25	mod	25	mod
+27	que	que	CS	CS		12	mod	12	mod
+28	les	les	DET	DET	n=p	29	det	29	det
+29	Mayas	_	NPP	NPP		31	suj	31	suj
+30	ne	ne	ADV	ADV		31	mod	31	mod
+31	pratiquaient	pratiquer	V	V	n=p|t=I|p=3	27	sub	27	sub
+32	pas	pas	ADV	ADV		31	mod	31	mod
+33	.	.	PONCT	PONCT		32	ponct	32	ponct
+
+</p><p>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	vestiges	vestige	NC	NC	n=p|g=m	6	suj	6	suj
+3	Mayas	_	NPP	NPP		2	mod	2	mod
+4	étaient	être	V	V	n=p|t=I|p=3	6	aux_pass	6	aux_pass
+5	déjà	déjà	ADV	ADV		6	mod	6	mod
+6	cachés	cacher	VPP	VPP	n=p|g=m|t=K	0	root	0	root
+7	par	par	P	P		6	mod	6	mod
+8	la	la	DET	DET	n=s|g=f	9	det	9	det
+9	végétation	végétation	NC	NC	n=s|g=f	7	prep	7	prep
+10	de	de	P	P		6	mod	6	mod
+11	la	la	DET	DET	n=s|g=f	12	det	12	det
+12	jungle	jungle	NC	NC	n=s|g=f	10	prep	10	prep
+13	au	à	P+D	P+D	n=s|g=m	6	mod	6	mod
+14	moment	moment	NC	NC	n=s|g=m	13	prep	13	prep
+15	de	de	P	P		6	mod	6	mod
+16	l'	le	DET	DET	n=s	17	det	17	det
+17	invasion	invasion	NC	NC	n=s|g=f	15	prep	15	prep
+18	des	de	P+D	P+D	n=p	17	dep	17	dep
+19	Espagnols	_	NPP	NPP		18	prep	18	prep
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+1	Ils	ils	CLS	CLS	n=p|g=m|p=3	4	suj	4	suj
+2	restèrent	rester	V	V	n=p|t=J|p=3	4	aux_pass	4	aux_pass
+3	longtemps	longtemps	ADV	ADV		4	mod	4	mod
+4	enfouis	enfouir	VPP	VPP	n=p|g=m|t=K	0	root	0	root
+5	et	et	CC	CC		4	coord	4	coord
+6	ne	ne	ADV	ADV		8	mod	8	mod
+7	furent	être	V	V	n=p|t=J|p=3	8	aux_pass	8	aux_pass
+8	redécouverts	redécouvrir	VPP	VPP	n=p|g=m|t=K	5	dep_coord	5	dep_coord
+9	qu'	que	CS	CS		8	mod	8	mod
+10	aux	à	P+D	P+D	n=p	0	_	0	_
+11	XIXème	_	NC	NC		10	prep	10	prep
+12	et	et	CC	CC		11	coord	11	coord
+13	XXème	_	ADJ	ADJ		14	mod	14	mod
+14	siècles	siècle	NC	NC	n=p|g=m	12	dep_coord	12	dep_coord
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+</p><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	peuple	peuple	NC	NC	n=s|g=m	4	suj	4	suj
+3	Maya	Maya	NPP	NPP	n=s|g=f	2	mod	2	mod
+4	existe	exister	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+5	encore	encore	ADV	ADV		4	mod	4	mod
+6	dans	dans	P	P		4	mod	4	mod
+7	certaines	certain	DET	DET	n=p|g=f	8	det	8	det
+8	zones	zone	NC	NC	n=p|g=f	6	prep	6	prep
+9	du	de	P+D	P+D	n=s|g=m	8	dep	8	dep
+10	Mexique	Mexique	NPP	NPP	n=s|g=m	9	prep	9	prep
+11	et	et	CC	CC		9	coord	9	coord
+12	du	de	P+D	P+D	n=s|g=m	11	dep_coord	11	dep_coord
+13	Guatemala	Guatemala	NPP	NPP	n=s|g=m	12	prep	12	prep
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+1	Ils	ils	CLS	CLS	n=p|g=m|p=3	2	suj	2	suj
+2	parlent	parler	V	V	n=p|t=P,S|p=3	0	root	0	root
+3	les	les	DET	DET	n=p	4	det	4	det
+4	langues	langue	NC	NC	n=p|g=f	2	obj	2	obj
+5	parlées	parler	VPP	VPP	n=p|g=f|t=K	4	mod	4	mod
+6	par	par	P	P		5	mod	5	mod
+7	leurs	leurs	DET	DET	n=p|p=3|poss=p	8	det	8	det
+8	ancêtres	ancêtre	NC	NC	n=p	6	prep	6	prep
+9	mais	mais	CC	CC		2	coord	2	coord
+10	ne	ne	ADV	ADV		11	mod	11	mod
+11	vivent	vivre	V	V	n=p|t=P,S|p=3	9	dep_coord	9	dep_coord
+12	plus	plus	ADV	ADV		11	mod	11	mod
+13	dans	dans	P	P		11	mod	11	mod
+14	les	les	DET	DET	n=p	15	det	15	det
+15	cités	cité	NC	NC	n=p|g=f	13	prep	13	prep
+16	pré-hispaniques	_	ADJ	ADJ		15	mod	15	mod
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+</p><h3>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	Toltèques	_	NC	NC		0	_	0	_
+
+</h3><p>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	Toltèques	_	NPP	NPP		4	suj	4	suj
+3	ont	avoir	V	V	n=p|t=P|p=3	4	aux_tps	4	aux_tps
+4	connu	connaître	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+5	leur	leur	DET	DET	n=s|p=3|poss=p	6	det	6	det
+6	développement	développement	NC	NC	n=s|g=m	4	obj	4	obj
+7	au	à	P+D	P+D	n=s|g=m	4	mod	4	mod
+8	début	début	NC	NC	n=s|g=m	7	prep	7	prep
+9	du	de	P+D	P+D	n=s|g=m	4	mod	4	mod
+10	Xème	_	ADJ	ADJ		11	mod	11	mod
+11	siècle	siècle	NC	NC	n=s|g=m	9	prep	9	prep
+12	après	après	P	P		4	mod	4	mod
+13	JC	_	NPP	NPP		12	prep	12	prep
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+15	Ils	ils	CLS	CLS	n=p|g=m|p=3	16	suj	16	suj
+16	descendent	descendre	V	V	n=p|t=P,S|p=3	4	mod	4	mod
+17	d'	de	P	P		16	mod	16	mod
+18	un	un	DET	DET	n=s|g=m	19	det	19	det
+19	peuple	peuple	NC	NC	n=s|g=m	17	prep	17	prep
+20	nomade	nomade	ADJ	ADJ	n=s	19	mod	19	mod
+21	qui	qui	PROREL	PROREL	n=s	23	suj	23	suj
+22	avait	avoir	V	V	n=s|t=I|p=3	23	aux_tps	23	aux_tps
+23	pillé	piller	VPP	VPP	n=s|g=m|t=K	19	mod_rel	19	mod_rel
+24	Teotihuacan	_	NPP	NPP		23	obj	23	obj
+25	.	.	PONCT	PONCT		24	ponct	24	ponct
+
+1	Ils	ils	CLS	CLS	n=p|g=m|p=3	4	suj	4	suj
+2	se	se	CLR	CLR	n=p,s|p=3	4	aff	4	aff
+3	sont	être	V	V	n=p|t=P|p=3	4	aux_tps	4	aux_tps
+4	installés	installer	VPP	VPP	n=p|g=m|t=K	0	root	0	root
+5	sur	sur	P	P		4	mod	4	mod
+6	un	un	DET	DET	n=s|g=m	7	det	7	det
+7	territoire	territoire	NC	NC	n=s|g=m	5	prep	5	prep
+8	qui	qui	PROREL	PROREL	n=s	10	suj	10	suj
+9	se	se	CLR	CLR	n=p,s|p=3	10	aff	10	aff
+10	situe	situer	V	V	n=s|t=P,S|p=1,3	4	mod	4	mod
+11	aujourd'hui	aujourd'hui	ADV	ADV		10	mod	10	mod
+12	au	à	P+D	P+D	n=s|g=m	10	mod	10	mod
+13	nord	nord	NC	NC	n=s|g=m	12	prep	12	prep
+14	de	de	P	P		10	mod	10	mod
+15	la	la	DET	DET	n=s|g=f	16	det	16	det
+16	ville	ville	NC	NC	n=s|g=f	14	prep	14	prep
+17	de	de	P	P		10	mod	10	mod
+18	Mexico	Mexico	NPP	NPP	n=s|g=m	17	prep	17	prep
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	Ils	ils	CLS	CLS	n=p|g=m|p=3	4	suj	4	suj
+2	y	y	CLO	CLO		4	aff	4	aff
+3	ont	avoir	V	V	n=p|t=P|p=3	4	aux_tps	4	aux_tps
+4	fondé	fonder	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+5	leur	leur	DET	DET	n=s|p=3|poss=p	6	det	6	det
+6	cité	cité	NC	NC	n=s|g=f	4	obj	4	obj
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	Tula	_	NPP	NPP		6	mod	6	mod
+9	.	.	PONCT	PONCT		8	ponct	8	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	Toltèques	_	NC	NC		3	suj	3	suj
+3	restent	rester	V	V	n=p|t=P,S|p=3	0	root	0	root
+4	importants	important	ADJ	ADJ	n=p|g=m	3	ats	3	ats
+5	car	car	CS	CS		3	mod	3	mod
+6	ce	ce	CLS	CLS		7	suj	7	suj
+7	sont	être	V	V	n=p|t=P|p=3	5	sub	5	sub
+8	eux	eux	PRO	PRO	n=p|g=m|p=3	7	mod	7	mod
+9	qui	qui	PROREL	PROREL	n=s	12	suj	12	suj
+10	ont	avoir	V	V	n=p|t=P|p=3	12	aux_tps	12	aux_tps
+11	"	"	PONCT	PONCT		10	ponct	10	ponct
+12	élaboré	élaborer	VPP	VPP	n=s|g=m|t=K	8	mod_rel	8	mod_rel
+13	"	"	PONCT	PONCT		12	ponct	12	ponct
+14	les	les	DET	DET	n=p	15	det	15	det
+15	figures	figure	NC	NC	n=p|g=f	7	mod	7	mod
+16	divines	divin	ADJ	ADJ	n=p|g=f	15	mod	15	mod
+17	adorées	adorer	VPP	VPP	n=p|g=f|t=K	15	mod	15	mod
+18	ensuite	ensuite	ADV	ADV		17	mod	17	mod
+19	par	par	P	P		17	mod	17	mod
+20	les	les	DET	DET	n=p	21	det	21	det
+21	Aztèques	aztèque	NC	NC	n=p	19	prep	19	prep
+22	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+1	De	de	P	P		4	mod	4	mod
+2	leur	leur	DET	DET	n=s|p=3|poss=p	3	det	3	det
+3	religion	religion	NC	NC	n=s|g=f	1	prep	1	prep
+4	vient	venir	V	V	n=s|t=P|p=3	0	root	0	root
+5	en	en	P	P		4	mod	4	mod
+6	effet	effet	NC	NC	n=s|g=m	5	prep	5	prep
+7	le	le	DET	DET	n=s|g=m	8	det	8	det
+8	culte	culte	NC	NC	n=s|g=m	4	obj	4	obj
+9	du	de	P+D	P+D	n=s|g=m	8	dep	8	dep
+10	serpent	serpent	NC	NC	n=s|g=m	9	prep	9	prep
+11	à	à	P	P		4	mod	4	mod
+12	plumes	plume	NC	NC	n=p	11	prep	11	prep
+13	Quetzacoatl	_	NPP	NPP		12	mod	12	mod
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+</p><h3>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	Aztèques	aztèque	NC	NC	n=p	0	_	0	_
+
+</h3><p>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	Aztèques	aztèque	NC	NC	n=p	3	suj	3	suj
+3	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+4	le	le	DET	DET	n=s|g=m	6	det	6	det
+5	dernier	dernier	ADJ	ADJ	n=s|g=m	6	mod	6	mod
+6	peuple	peuple	NC	NC	n=s|g=m	3	obj	3	obj
+7	précolombien	_	ADJ	ADJ		6	mod	6	mod
+8	du	de	P+D	P+D	n=s|g=m	6	dep	6	dep
+9	Mexique	Mexique	NPP	NPP	n=s|g=m	8	prep	8	prep
+10	à	à	P	P		3	mod	3	mod
+11	connaitre	_	VINF	VINF		10	prep	10	prep
+12	un	un	DET	DET	n=s|g=m	13	det	13	det
+13	âge	âge	NC	NC	n=s|g=m	11	obj	11	obj
+14	d'	de	P	P		13	dep	13	dep
+15	or	or	NC	NC	n=s|g=m	14	prep	14	prep
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+1	Ils	ils	CLS	CLS	n=p|g=m|p=3	2	suj	2	suj
+2	descendent	descendre	V	V	n=p|t=P,S|p=3	0	root	0	root
+3	vraisemblablement	_	ADV	ADV		2	mod	2	mod
+4	des	des	DET	DET	n=p	5	det	5	det
+5	Toltèques	_	NC	NC		2	obj	2	obj
+6	.	.	PONCT	PONCT		5	ponct	5	ponct
+
+1	C'	ce	CLS	CLS		2	suj	2	suj
+2	était	être	V	V	n=s|t=I|p=3	0	root	0	root
+3	un	un	DET	DET	n=s|g=m	4	det	4	det
+4	peuple	peuple	NC	NC	n=s|g=m	2	obj	2	obj
+5	de	de	P	P		4	dep	4	dep
+6	nomades	nomade	NC	NC	n=p	5	prep	5	prep
+7	.	.	PONCT	PONCT		6	ponct	6	ponct
+
+1	Selon	selon	P	P		6	mod	6	mod
+2	la	la	DET	DET	n=s|g=f	3	det	3	det
+3	légende	légende	NC	NC	n=s|g=f	1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	ils	ils	CLS	CLS	n=p|g=m|p=3	6	suj	6	suj
+6	devaient	devoir	V	V	n=p|t=I|p=3	0	root	0	root
+7	bâtir	bâtir	VINF	VINF	t=W	6	obj	6	obj
+8	une	une	DET	DET	n=s|g=f	9	det	9	det
+9	ville	ville	NC	NC	n=s|g=f	7	obj	7	obj
+10	à	à	P	P		7	mod	7	mod
+11	un	un	DET	DET	n=s|g=m	12	det	12	det
+12	endroit	endroit	NC	NC	n=s|g=m	10	prep	10	prep
+13	où	où	PROREL	PROREL		15	mod	15	mod
+14	ils	ils	CLS	CLS	n=p|g=m|p=3	15	suj	15	suj
+15	verraient	voir	V	V	n=p|t=C|p=3	12	mod_rel	12	mod_rel
+16	un	un	DET	DET	n=s|g=m	17	det	17	det
+17	serpent	serpent	NC	NC	n=s|g=m	15	obj	15	obj
+18	manger	manger	VINF	VINF	t=W	15	ato	15	ato
+19	un	un	DET	DET	n=s|g=m	20	det	20	det
+20	aigle	aigle	NC	NC	n=s	18	obj	18	obj
+21	au	à	P+D	P+D	n=s|g=m	18	mod	18	mod
+22	dessus	dessus	P	P		18	mod	18	mod
+23	d'	de	P	P		22	dep	22	dep
+24	un	un	DET	DET	n=s|g=m	25	det	25	det
+25	cactus	cactus	NC	NC	g=m	23	prep	23	prep
+26	.	.	PONCT	PONCT		25	ponct	25	ponct
+
+1	C'	ce	CLS	CLS		2	suj	2	suj
+2	était	être	V	V	n=s|t=I|p=3	0	root	0	root
+3	une	une	DET	DET	n=s|g=f	4	det	4	det
+4	prophétie	prophétie	NC	NC	n=s|g=f	2	obj	2	obj
+5	de	de	P	P		2	mod	2	mod
+6	leur	leur	DET	DET	n=s|p=3|poss=p	7	det	7	det
+7	dieu	dieu	NC	NC	n=s|g=m	5	prep	5	prep
+8	Huitzilopochtli	_	NPP	NPP		7	mod	7	mod
+9	.	.	PONCT	PONCT		8	ponct	8	ponct
+
+1	En	en	P	P		12	mod	12	mod
+2	1325	1325	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	sur	sur	P	P		12	mod	12	mod
+5	une	une	DET	DET	n=s|g=f	6	det	6	det
+6	île	île	NC	NC	n=s|g=f	4	prep	4	prep
+7	du	de	P+D	P+D	n=s|g=m	6	dep	6	dep
+8	Lac	_	NPP	NPP		7	prep	7	prep
+9	Texcoco	_	NPP	NPP		8	mod	8	mod
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	ils	ils	CLS	CLS	n=p|g=m|p=3	12	suj	12	suj
+12	bâtirent	bâtir	V	V	n=p|t=J|p=3	0	root	0	root
+13	une	une	DET	DET	n=s|g=f	14	det	14	det
+14	ville	ville	NC	NC	n=s|g=f	12	obj	12	obj
+15	qui	qui	PROREL	PROREL	n=s	16	suj	16	suj
+16	allait	aller	V	V	n=s|t=I|p=3	14	mod_rel	14	mod_rel
+17	devenir	devenir	VINF	VINF	t=W	16	obj	16	obj
+18	la	la	DET	DET	n=s|g=f	19	det	19	det
+19	capitale	capitale	NC	NC	n=s|g=f	17	obj	17	obj
+20	de	de	P	P		19	dep	19	dep
+21	l'	le	DET	DET	n=s	22	det	22	det
+22	Empire	_	NPP	NPP		20	prep	20	prep
+23	qu'	que	CS	CS		17	mod	17	mod
+24	ils	ils	CLS	CLS	n=p|g=m|p=3	25	suj	25	suj
+25	allaient	aller	V	V	n=p|t=I|p=3	23	sub	23	sub
+26	progressivement	_	ADV	ADV		25	mod	25	mod
+27	installer	installer	VINF	VINF	t=W	25	obj	25	obj
+28	.	.	PONCT	PONCT		27	ponct	27	ponct
+
+1	Cette	cette	DET	DET	n=s|g=f	2	det	2	det
+2	ville	ville	NC	NC	n=s|g=f	4	suj	4	suj
+3	fut	être	V	V	n=s|t=J|p=3	4	aux_pass	4	aux_pass
+4	nommée	nommer	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+5	Tenochtitlan	_	NPP	NPP		4	obj	4	obj
+6	et	et	CC	CC		4	coord	4	coord
+7	est	être	V	V	n=s|t=P|p=3	9	aux_pass	9	aux_pass
+8	aujourd'hui	aujourd'hui	ADV	ADV		9	mod	9	mod
+9	connue	connaître	VPP	VPP	n=s|g=f|t=K	6	dep_coord	6	dep_coord
+10	sous	sous	P	P		9	mod	9	mod
+11	le	le	DET	DET	n=s|g=m	12	det	12	det
+12	nom	nom	NC	NC	n=s|g=m	10	prep	10	prep
+13	de	de	P	P		9	mod	9	mod
+14	Mexico	Mexico	NPP	NPP	n=s|g=m	13	prep	13	prep
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	la	la	DET	DET	n=s|g=f	17	det	17	det
+17	capitale	capitale	NC	NC	n=s|g=f	4	mod	4	mod
+18	du	de	P+D	P+D	n=s|g=m	17	dep	17	dep
+19	Mexique	Mexique	NPP	NPP	n=s|g=m	18	prep	18	prep
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+</p><p>
+1	Lorsque	lorsque	CS	CS		0	_	0	_
+2	les	les	DET	DET	n=p	3	det	3	det
+3	colons	colon	NC	NC	n=p|g=m	4	suj	4	suj
+4	arrivèrent	arriver	V	V	n=p|t=J|p=3	1	sub	1	sub
+5	en	en	P	P		4	mod	4	mod
+6	1519	1519	NC	NC		5	prep	5	prep
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	les	les	DET	DET	n=p	9	det	9	det
+9	Aztèques	aztèque	NC	NC	n=p	10	suj	10	suj
+10	régnaient	régner	V	V	n=p|t=I|p=3	4	mod	4	mod
+11	en	en	P	P		10	mod	10	mod
+12	maîtres	maître	NC	NC	n=p|g=m	11	prep	11	prep
+13	dans	dans	P	P		10	mod	10	mod
+14	la	la	DET	DET	n=s|g=f	15	det	15	det
+15	région	région	NC	NC	n=s|g=f	13	prep	13	prep
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+1	Dans	dans	P	P		7	mod	7	mod
+2	les	les	DET	DET	n=p	3	det	3	det
+3	villes	ville	NC	NC	n=p|g=f	1	prep	1	prep
+4	conquises	conquérir	VPP	VPP	n=p|g=f|t=K	3	mod	3	mod
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	ils	ils	CLS	CLS	n=p|g=m|p=3	7	suj	7	suj
+7	soumettaient	soumettre	V	V	n=p|t=I|p=3	0	root	0	root
+8	le	le	DET	DET	n=s|g=m	9	det	9	det
+9	peuple	peuple	NC	NC	n=s|g=m	7	obj	7	obj
+10	à	à	P	P		7	mod	7	mod
+11	l'	le	DET	DET	n=s	12	det	12	det
+12	impôt	impôt	NC	NC	n=s|g=m	10	prep	10	prep
+13	et	et	CC	CC		7	coord	7	coord
+14	enrôlaient	enrôler	V	V	n=p|t=I|p=3	13	dep_coord	13	dep_coord
+15	des	des	DET	DET	n=p	16	det	16	det
+16	hommes	homme	NC	NC	n=p|g=m	14	obj	14	obj
+17	dans	dans	P	P		14	mod	14	mod
+18	leurs	leurs	DET	DET	n=p|p=3|poss=p	19	det	19	det
+19	armées	armée	NC	NC	n=p|g=f	17	prep	17	prep
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+1	Ceci	ceci	PRO	PRO	n=s|g=m	3	suj	3	suj
+2	les	les	CLO	CLO	n=p|p=3	3	obj	3	obj
+3	rendait	rendre	V	V	n=s|t=I|p=3	0	root	0	root
+4	impopulaires	impopulaire	ADJ	ADJ	n=p	3	mod	3	mod
+5	auprès	auprès	ADV	ADV		3	mod	3	mod
+6	des	des	DET	DET	n=p	7	det	7	det
+7	peuples	peuple	NC	NC	n=p|g=m	3	obj	3	obj
+8	conquis	conquérir	VPP	VPP	n=p,s|g=m|t=K	7	mod	7	mod
+9	.	.	PONCT	PONCT		8	ponct	8	ponct
+
+1	Cette	cette	DET	DET	n=s|g=f	2	det	2	det
+2	impopularité	impopularité	NC	NC	n=s|g=f	3	suj	3	suj
+3	a	avoir	V	V	n=s|t=P|p=3	0	root	0	root
+4	sans	sans	P	P		3	mod	3	mod
+5	doute	doute	NC	NC	n=s|g=m	4	prep	4	prep
+6	permis	permettre	VPP	VPP	g=m|t=K	5	mod	5	mod
+7	aux	à	P+D	P+D	n=p	6	mod	6	mod
+8	Espagnols	_	NPP	NPP		7	prep	7	prep
+9	de	de	P	P		3	mod	3	mod
+10	les	les	CLO	CLO	n=p|p=3	11	obj	11	obj
+11	battre	battre	VINF	VINF	t=W	9	prep	9	prep
+12	plus	plus	ADV	ADV		13	mod	13	mod
+13	facilement	_	ADV	ADV		11	mod	11	mod
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+</p><h2>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	colonisation	colonisation	NC	NC	n=s|g=f	0	_	0	_
+
+</h2><p>
+1	Entre	entre	P	P		8	mod	8	mod
+2	1517	1517	NC	NC		1	prep	1	prep
+3	et	et	CC	CC		1	coord	1	coord
+4	1518	1518	NC	NC		3	dep_coord	3	dep_coord
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	les	les	DET	DET	n=p	7	det	7	det
+7	Espagnols	_	NPP	NPP		8	suj	8	suj
+8	découvrent	découvrir	V	V	n=p|t=P,S|p=3	0	root	0	root
+9	et	et	CC	CC		8	coord	8	coord
+10	explorent	explorer	V	V	n=p|t=P,S|p=3	9	dep_coord	9	dep_coord
+11	la	la	DET	DET	n=s|g=f	12	det	12	det
+12	côte	côte	NC	NC	n=s|g=f	10	obj	10	obj
+13	Est	_	NPP	NPP		12	mod	12	mod
+14	du	de	P+D	P+D	n=s|g=m	10	mod	10	mod
+15	Mexique	Mexique	NPP	NPP	n=s|g=m	14	prep	14	prep
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+1	Le	le	DET	DET	n=s|g=m	3	det	3	det
+2	19	19	ADJ	ADJ		3	mod	3	mod
+3	février	février	NC	NC	n=s|g=m	11	suj	11	suj
+4	1519	1519	ADJ	ADJ		3	mod	3	mod
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	un	un	DET	DET	n=s|g=m	7	det	7	det
+7	espagnol	espagnol	NC	NC	n=s|g=m	3	mod	3	mod
+8	nommé	nommer	VPP	VPP	n=s|g=m|t=K	7	mod	7	mod
+9	Hernán	Hernán	NPP	NPP	n=s|g=m	7	mod	7	mod
+10	Cortés	_	NPP	NPP		7	mod	7	mod
+11	débarque	débarquer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+12	sur	sur	P	P		11	mod	11	mod
+13	les	les	DET	DET	n=p	14	det	14	det
+14	côtes	côte	NC	NC	n=p|g=f	12	prep	12	prep
+15	et	et	CC	CC		11	coord	11	coord
+16	fonde	_	NC	NC		15	dep_coord	15	dep_coord
+17	la	la	DET	DET	n=s|g=f	18	det	18	det
+18	ville	ville	NC	NC	n=s|g=f	11	obj	11	obj
+19	de	de	P	P		18	dep	18	dep
+20	Veracruz	_	NPP	NPP		19	prep	19	prep
+21	.	.	PONCT	PONCT		20	ponct	20	ponct
+
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	empereur	empereur	NC	NC	n=s|g=m	7	suj	7	suj
+3	des	de	P+D	P+D	n=p	2	dep	2	dep
+4	Aztèques	aztèque	NC	NC	n=p	3	prep	3	prep
+5	Moctezuma	_	NPP	NPP		4	mod	4	mod
+6	lui	lui	CLO	CLO	n=s|p=3	7	aff	7	aff
+7	réserve	réserver	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+8	un	un	DET	DET	n=s|g=m	9	det	9	det
+9	accueil	accueil	NC	NC	n=s|g=m	7	obj	7	obj
+10	plutôt	plutôt	ADV	ADV		11	mod	11	mod
+11	chaleureux	chaleureux	ADJ	ADJ	g=m	9	mod	9	mod
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+1	En	en	P	P		6	mod	6	mod
+2	effet	effet	NC	NC	n=s|g=m	1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	son	son	DET	DET	n=s|g=m|p=3|poss=s	5	det	5	det
+5	peuple	peuple	NC	NC	n=s|g=m	6	suj	6	suj
+6	croyait	croire	V	V	n=s|t=I|p=3	0	root	0	root
+7	que	que	CS	CS		6	obj	6	obj
+8	les	les	DET	DET	n=p	9	det	9	det
+9	espagnols	espagnol	ADJ	ADJ	n=p|g=m	23	suj	23	suj
+10	avec	avec	P	P		9	mod	9	mod
+11	leurs	leurs	DET	DET	n=p|p=3|poss=p	12	det	12	det
+12	barbes	barbe	NC	NC	n=p	10	prep	10	prep
+13	et	et	CC	CC		12	coord	12	coord
+14	les	les	DET	DET	n=p	15	det	15	det
+15	chevaux	cheval	NC	NC	n=p|g=m	13	dep_coord	13	dep_coord
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	qu'	que	CS	CS		9	mod	9	mod
+18	ils	ils	CLS	CLS	n=p|g=m|p=3	20	suj	20	suj
+19	ne	ne	ADV	ADV		20	mod	20	mod
+20	connaissaient	connaître	V	V	n=p|t=I|p=3	17	sub	17	sub
+21	pas	pas	ADV	ADV		20	mod	20	mod
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+23	étaient	être	V	V	n=p|t=I|p=3	7	sub	7	sub
+24	des	des	DET	DET	n=p	25	det	25	det
+25	envoyés	envoyé	NC	NC	n=p|g=m	23	obj	23	obj
+26	du	de	P+D	P+D	n=s|g=m	23	mod	23	mod
+27	dieu	dieu	NC	NC	n=s|g=m	26	prep	26	prep
+28	Quetzacoatl	_	NPP	NPP		27	mod	27	mod
+29	,	,	PONCT	PONCT		28	ponct	28	ponct
+30	qui	qui	PROREL	PROREL	n=s	33	suj	33	suj
+31	a	avoir	V	V	n=s|t=P|p=3	33	aux_tps	33	aux_tps
+32	été	être	VPP	VPP	t=K	33	aux_pass	33	aux_pass
+33	forcé	forcer	VPP	VPP	n=s|g=m|t=K	27	mod_rel	27	mod_rel
+34	de	de	P	P		33	mod	33	mod
+35	s'	se	CLR	CLR	n=p,s|p=3	36	aff	36	aff
+36	exiler	exiler	VINF	VINF	t=W	34	prep	34	prep
+37	selon	selon	P	P		36	mod	36	mod
+38	la	la	DET	DET	n=s|g=f	39	det	39	det
+39	mythologie	mythologie	NC	NC	n=s|g=f	37	prep	37	prep
+40	.	.	PONCT	PONCT		39	ponct	39	ponct
+
+1	Hernán	Hernán	NPP	NPP	n=s|g=m	3	suj	3	suj
+2	Cortés	_	NPP	NPP		1	mod	1	mod
+3	parvient	parvenir	V	V	n=s|t=P|p=3	0	root	0	root
+4	alors	alors	ADV	ADV		3	mod	3	mod
+5	à	à	P	P		3	mod	3	mod
+6	imposer	imposer	VINF	VINF	t=W	5	prep	5	prep
+7	la	la	DET	DET	n=s|g=f	8	det	8	det
+8	domination	domination	NC	NC	n=s|g=f	6	obj	6	obj
+9	des	de	P+D	P+D	n=p	6	mod	6	mod
+10	espagnols	espagnol	ADJ	ADJ	n=p|g=m	9	prep	9	prep
+11	sur	sur	P	P		6	mod	6	mod
+12	l'	le	DET	DET	n=s	13	det	13	det
+13	Empire	empire	NC	NC	n=s|g=m	11	prep	11	prep
+14	aztèque	aztèque	ADJ	ADJ	n=s	13	mod	13	mod
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+1	Cependant	cependant	ADV	ADV		18	mod	18	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	lors	lors	ADV	ADV		4	mod	4	mod
+4	de	de	P	P		18	mod	18	mod
+5	la	la	DET	DET	n=s|g=f	6	det	6	det
+6	nuit	nuit	NC	NC	n=s|g=f	4	prep	4	prep
+7	du	de	P+D	P+D	n=s|g=m	6	dep	6	dep
+8	30	30	ADJ	ADJ		9	mod	9	mod
+9	juin	juin	NC	NC	n=s|g=m	7	prep	7	prep
+10	au	à	P+D	P+D	n=s|g=m	6	dep	6	dep
+11	1er	_	ADJ	ADJ		12	mod	12	mod
+12	juillet	juillet	NC	NC	n=s|g=m	10	prep	10	prep
+13	1520	1520	NC	NC		12	mod	12	mod
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	les	les	DET	DET	n=p	16	det	16	det
+16	Aztèques	aztèque	NC	NC	n=p	18	suj	18	suj
+17	se	se	CLR	CLR	n=p,s|p=3	18	aff	18	aff
+18	révoltent	révolter	V	V	n=p|t=P,S|p=3	0	root	0	root
+19	contre	contre	P	P		18	mod	18	mod
+20	les	les	DET	DET	n=p	21	det	21	det
+21	Espagnols	_	NPP	NPP		19	prep	19	prep
+22	et	et	CC	CC		19	coord	19	coord
+23	en	en	P	P		22	dep_coord	22	dep_coord
+24	tuent	_	NC	NC		23	prep	23	prep
+25	une	une	DET	DET	n=s|g=f	26	det	26	det
+26	partie	partie	NC	NC	n=s|g=f	18	mod	18	mod
+27	.	.	PONCT	PONCT		26	ponct	26	ponct
+
+1	Cet	cet	DET	DET	n=s|g=m	2	det	2	det
+2	épisode	épisode	NC	NC	n=s|g=m	4	suj	4	suj
+3	est	être	V	V	n=s|t=P|p=3	4	aux_tps	4	aux_tps
+4	nommé	nommer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+5	la	la	DET	DET	n=s|g=f	6	det	6	det
+6	Noche	_	NPP	NPP		4	obj	4	obj
+7	Triste	_	NPP	NPP		6	mod	6	mod
+8	(	(	PONCT	PONCT		7	ponct	7	ponct
+9	la	la	DET	DET	n=s|g=f	10	det	10	det
+10	Nuit	nuit	NC	NC	n=s|g=f	6	mod	6	mod
+11	triste	triste	ADJ	ADJ	n=s	10	mod	10	mod
+12	)	)	PONCT	PONCT		11	ponct	11	ponct
+13	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+1	Cortès	_	NPP	NPP		2	suj	2	suj
+2	doit	devoir	V	V	n=s|t=P|p=3	0	root	0	root
+3	s'	se	CLR	CLR	n=p,s|p=3	4	aff	4	aff
+4	enfuir	enfuir	VINF	VINF	t=W	2	obj	2	obj
+5	avec	avec	P	P		4	mod	4	mod
+6	ses	ses	DET	DET	n=p|p=3|poss=s	7	det	7	det
+7	soldats	soldat	NC	NC	n=p|g=m	5	prep	5	prep
+8	rescapés	rescapé	NC	NC	n=p|g=m	7	mod	7	mod
+9	.	.	PONCT	PONCT		8	ponct	8	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	revient	revenir	V	V	n=s|t=P|p=3	0	root	0	root
+3	avec	avec	P	P		2	mod	2	mod
+4	des	des	DET	DET	n=p	5	det	5	det
+5	renforts	renfort	NC	NC	n=p|g=m	3	prep	3	prep
+6	et	et	CC	CC		2	coord	2	coord
+7	fait	faire	V	V	n=s|t=P|p=3	6	dep_coord	6	dep_coord
+8	assiéger	assiéger	VINF	VINF	t=W	7	obj	7	obj
+9	la	la	DET	DET	n=s|g=f	10	det	10	det
+10	capitale	capitale	NC	NC	n=s|g=f	8	obj	8	obj
+11	aztèque	aztèque	ADJ	ADJ	n=s	10	mod	10	mod
+12	qu'	que	PROREL	PROREL		13	obj	13	obj
+13	est	être	V	V	n=s|t=P|p=3	2	mod	2	mod
+14	Mexico	Mexico	NPP	NPP	n=s|g=m	13	suj	13	suj
+15	-	-	PONCT	PONCT		14	ponct	14	ponct
+16	Teotihuacan	_	NPP	NPP		14	mod	14	mod
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	ville	ville	NC	NC	n=s|g=f	4	suj	4	suj
+3	se	se	CLR	CLR	n=p,s|p=3	4	aff	4	aff
+4	rend	rendre	V	V	n=s|t=P|p=3	0	root	0	root
+5	le	le	DET	DET	n=s|g=m	7	det	7	det
+6	13	13	ADJ	ADJ		7	mod	7	mod
+7	août	août	NC	NC	n=s|g=m	4	obj	4	obj
+8	1521	1521	ADJ	ADJ		7	mod	7	mod
+9	et	et	CC	CC		4	coord	4	coord
+10	est	être	V	V	n=s|t=P|p=3	11	aux_tps	11	aux_tps
+11	rasée	raser	VPP	VPP	n=s|g=f|t=K	9	dep_coord	9	dep_coord
+12	par	par	P	P		11	mod	11	mod
+13	les	les	DET	DET	n=p	14	det	14	det
+14	espagnols	espagnol	ADJ	ADJ	n=p|g=m	12	prep	12	prep
+15	qui	qui	PROREL	PROREL	n=s	16	suj	16	suj
+16	construisent	construire	V	V	n=p|t=P,S|p=3	4	mod	4	mod
+17	la	la	DET	DET	n=s|g=f	18	det	18	det
+18	ville	ville	NC	NC	n=s|g=f	16	obj	16	obj
+19	de	de	P	P		18	dep	18	dep
+20	Mexico	Mexico	NPP	NPP	n=s|g=m	19	prep	19	prep
+21	telle	tel	ADJ	ADJ	n=s|g=f	20	mod	20	mod
+22	qu'	que	CS	CS		4	mod	4	mod
+23	elle	elle	CLS	CLS	n=s|g=f|p=3	24	suj	24	suj
+24	existe	exister	V	V	n=s|t=P,S|p=1,3	22	sub	22	sub
+25	encore	encore	ADV	ADV		24	mod	24	mod
+26	aujourd'hui	aujourd'hui	ADV	ADV		24	mod	24	mod
+27	.	.	PONCT	PONCT		26	ponct	26	ponct
+
+</p><p>
+1	Cette	cette	DET	DET	n=s|g=f	2	det	2	det
+2	date	date	NC	NC	n=s|g=f	3	suj	3	suj
+3	signifie	signifier	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	donc	donc	ADV	ADV		3	mod	3	mod
+5	la	la	DET	DET	n=s|g=f	6	det	6	det
+6	fin	fin	NC	NC	n=s	3	obj	3	obj
+7	de	de	P	P		6	dep	6	dep
+8	l'	le	DET	DET	n=s	9	det	9	det
+9	Empire	_	NPP	NPP		7	prep	7	prep
+10	Aztèque	_	NPP	NPP		9	mod	9	mod
+11	et	et	CC	CC		3	coord	3	coord
+12	avec	avec	P	P		11	dep_coord	11	dep_coord
+13	elle	elle	PRO	PRO	n=s|g=f|p=3	12	prep	12	prep
+14	de	de	P	P		11	dep_coord	11	dep_coord
+15	plus	plus	ADV	ADV		0	_	0	_
+16	de	de	P	P		0	_	0	_
+17	3500	3500	NC	NC		16	prep	16	prep
+18	ans	an	NC	NC	n=p|g=m	17	mod	17	mod
+19	de	de	P	P		17	dep	17	dep
+20	civilisations	civilisation	NC	NC	n=p|g=f	19	prep	19	prep
+21	amérindiennes	amérindien	ADJ	ADJ	n=p|g=f	20	mod	20	mod
+22	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+1	Petit	petit	ADJ	ADJ	n=s|g=m	7	mod	7	mod
+2	à	à	P	P		1	mod	1	mod
+3	petit	petit	ADJ	ADJ	n=s|g=m	2	prep	2	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	les	les	DET	DET	n=p	6	det	6	det
+6	espagnols	espagnol	ADJ	ADJ	n=p|g=m	7	suj	7	suj
+7	étendent	étendre	V	V	n=p|t=P,S|p=3	0	root	0	root
+8	leur	leur	DET	DET	n=s|p=3|poss=p	9	det	9	det
+9	territoire	territoire	NC	NC	n=s|g=m	7	obj	7	obj
+10	qu'	que	PROREL	PROREL		12	obj	12	obj
+11	ils	ils	CLS	CLS	n=p|g=m|p=3	12	suj	12	suj
+12	nomment	nommer	V	V	n=p|t=P,S|p=3	9	mod_rel	9	mod_rel
+13	Nouvelle-Espagne	_	NPP	NPP		12	obj	12	obj
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	et	et	CC	CC		7	coord	7	coord
+16	qui	qui	PROREL	PROREL	n=s	17	suj	17	suj
+17	enrichira	enrichir	V	V	n=s|t=F|p=3	15	dep_coord	15	dep_coord
+18	le	le	DET	DET	n=s|g=m	19	det	19	det
+19	royaume	royaume	NC	NC	n=s|g=m	17	obj	17	obj
+20	d’	de	P	P		19	dep	19	dep
+21	Espagne	Espagne	NPP	NPP	n=s|g=f	20	prep	20	prep
+22	pendant	pendant	P	P		17	mod	17	mod
+23	de	de	DET	DET	n=p	25	det	25	det
+24	nombreuses	nombreux	ADJ	ADJ	n=p|g=f	25	mod	25	mod
+25	années	année	NC	NC	n=p|g=f	22	prep	22	prep
+26	.	.	PONCT	PONCT		25	ponct	25	ponct
+
+</p><h2>
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	indépendance	indépendance	NC	NC	n=s|g=f	0	_	0	_
+
+</h2><p>
+1	En	en	P	P		8	mod	8	mod
+2	1808	1808	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	l’	le	DET	DET	n=s	5	det	5	det
+5	empereur	empereur	NC	NC	n=s|g=m	8	suj	8	suj
+6	Napoléon	_	NPP	NPP		5	mod	5	mod
+7	Ier	_	NPP	NPP		5	mod	5	mod
+8	destitue	destituer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+9	le	le	DET	DET	n=s|g=m	10	det	10	det
+10	roi	roi	NC	NC	n=s|g=m	8	obj	8	obj
+11	d’	de	P	P		10	dep	10	dep
+12	Espagne	Espagne	NPP	NPP	n=s|g=f	11	prep	11	prep
+13	Ferdinand	Ferdinand	NPP	NPP	n=s|g=m	12	mod	12	mod
+14	VII	_	NPP	NPP		12	mod	12	mod
+15	et	et	CC	CC		8	coord	8	coord
+16	le	le	CLO	CLO	n=s|g=m|p=3	17	obj	17	obj
+17	remplace	remplacer	V	V	n=s|t=P,S|p=1,3	15	dep_coord	15	dep_coord
+18	par	par	P	P		17	mod	17	mod
+19	son	son	DET	DET	n=s|g=m|p=3|poss=s	20	det	20	det
+20	frère	frère	NC	NC	n=s|g=m	18	prep	18	prep
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	Joseph	Joseph	NPP	NPP	n=s|g=m	20	mod	20	mod
+23	Bonaparte	_	NPP	NPP		20	mod	20	mod
+24	.	.	PONCT	PONCT		23	ponct	23	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	mexicains	mexicain	ADJ	ADJ	n=p|g=m	3	suj	3	suj
+3	restent	rester	V	V	n=p|t=P,S|p=3	0	root	0	root
+4	cependant	cependant	ADV	ADV		3	mod	3	mod
+5	fidèles	fidèle	ADJ	ADJ	n=p	3	ats	3	ats
+6	au	à	P+D	P+D	n=s|g=m	3	mod	3	mod
+7	roi	roi	NC	NC	n=s|g=m	6	prep	6	prep
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	pensant	penser	VPR	VPR	t=G	3	mod	3	mod
+10	que	que	CS	CS		3	mod	3	mod
+11	celui-ci	celui-ci	PRO	PRO	n=s|g=m	18	suj	18	suj
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	à	à	P	P		18	mod	18	mod
+14	son	son	DET	DET	n=s|g=m|p=3|poss=s	15	det	15	det
+15	retour	retour	NC	NC	n=s|g=m	13	prep	13	prep
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	leur	leur	CLO	CLO	n=p|p=3	18	a_obj	18	a_obj
+18	accordera	accorder	V	V	n=s|t=F|p=3	10	sub	10	sub
+19	des	des	DET	DET	n=p	20	det	20	det
+20	privilèges	privilège	NC	NC	n=p|g=m	18	obj	18	obj
+21	pour	pour	P	P		18	mod	18	mod
+22	les	les	CLO	CLO	n=p|p=3	23	obj	23	obj
+23	récompenser	récompenser	VINF	VINF	t=W	21	prep	21	prep
+24	.	.	PONCT	PONCT		23	ponct	23	ponct
+
+1	Mais	mais	CC	CC		0	root	0	root
+2	une	une	DET	DET	n=s|g=f	3	det	3	det
+3	fois	fois	NC	NC	g=f	9	suj	9	suj
+4	redevenu	redevenir	VPP	VPP	n=s|g=m|t=K	3	mod	3	mod
+5	roi	roi	NC	NC	n=s|g=m	4	mod	4	mod
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	Ferdinand	Ferdinand	NPP	NPP	n=s|g=m	3	mod	3	mod
+8	VII	_	NPP	NPP		3	mod	3	mod
+9	refuse	refuser	V	V	n=s|t=P,S|p=1,3	1	dep_coord	1	dep_coord
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+1	Miguel	Miguel	NPP	NPP	n=s|g=m	11	suj	11	suj
+2	Hidalgo	_	NPP	NPP		1	mod	1	mod
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	prêtre	prêtre	NC	NC	n=s|g=m	1	mod	1	mod
+5	de	de	P	P		4	dep	4	dep
+6	la	la	DET	DET	n=s|g=f	7	det	7	det
+7	paroisse	paroisse	NC	NC	n=s|g=f	5	prep	5	prep
+8	de	de	P	P		7	dep	7	dep
+9	Dolores	Dolores	NPP	NPP	n=s|g=f	8	prep	8	prep
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	sonne	sonner	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+12	alors	alors	ADV	ADV		11	mod	11	mod
+13	une	une	DET	DET	n=s|g=f	14	det	14	det
+14	cloche	cloche	NC	NC	n=s|g=f	11	obj	11	obj
+15	dans	dans	P	P		11	mod	11	mod
+16	la	la	DET	DET	n=s|g=f	17	det	17	det
+17	nuit	nuit	NC	NC	n=s|g=f	15	prep	15	prep
+18	du	de	P+D	P+D	n=s|g=m	11	mod	11	mod
+19	15	15	ADJ	ADJ		18	prep	18	prep
+20	au	à	P+D	P+D	n=s|g=m	11	mod	11	mod
+21	16	16	ADJ	ADJ		22	mod	22	mod
+22	septembre	septembre	NC	NC	n=s|g=m	20	prep	20	prep
+23	1810	1810	NC	NC		22	mod	22	mod
+24	pour	pour	P	P		11	mod	11	mod
+25	appeler	appeler	VINF	VINF	t=W	24	prep	24	prep
+26	le	le	DET	DET	n=s|g=m	27	det	27	det
+27	peuple	peuple	NC	NC	n=s|g=m	25	obj	25	obj
+28	à	à	P	P		25	mod	25	mod
+29	la	la	DET	DET	n=s|g=f	30	det	30	det
+30	révolte	révolte	NC	NC	n=s|g=f	28	prep	28	prep
+31	.	.	PONCT	PONCT		30	ponct	30	ponct
+
+</p><p>
+1	Lui	lui	PRO	PRO	n=s|g=m|p=3	0	_	0	_
+2	et	et	CC	CC		1	coord	1	coord
+3	ses	ses	DET	DET	n=p|p=3|poss=s	0	_	0	_
+4	fidèles	fidèle	ADJ	ADJ	n=p	0	_	0	_
+5	marchent	marcher	V	V	n=p|t=P,S|p=3	4	ponct	4	ponct
+6	vers	vers	P	P		5	p_obj	5	p_obj
+7	Guanajuato	_	NPP	NPP		6	prep	6	prep
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	et	et	CC	CC		5	coord	5	coord
+10	assassinent	assassiner	V	V	n=p|t=P,S|p=3	9	dep_coord	9	dep_coord
+11	tous	tout	ADJ	ADJ	n=p|g=m	12	mod	12	mod
+12	ceux	ceux	PRO	PRO	n=p|g=m	10	mod	10	mod
+13	qui	qui	PROREL	PROREL	n=s	14	suj	14	suj
+14	affirment	affirmer	V	V	n=p|t=P,S|p=3	12	mod_rel	12	mod_rel
+15	leur	leur	DET	DET	n=s|p=3|poss=p	16	det	16	det
+16	fidélité	fidélité	NC	NC	n=s|g=f	14	obj	14	obj
+17	au	à	P+D	P+D	n=s|g=m	14	mod	14	mod
+18	roi	roi	NC	NC	n=s|g=m	17	prep	17	prep
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	ainsi	ainsi	ADV	ADV		14	mod	14	mod
+21	que	que	CS	CS		14	mod	14	mod
+22	leurs	leurs	DET	DET	n=p|p=3|poss=p	23	det	23	det
+23	familles	famille	NC	NC	n=p|g=f	0	_	0	_
+24	.	.	PONCT	PONCT		23	ponct	23	ponct
+
+1	Ils	ils	CLS	CLS	n=p|g=m|p=3	3	suj	3	suj
+2	s’	se	CLR	CLR	n=p,s|p=3	3	aff	3	aff
+3	emparent	emparer	V	V	n=p|t=P,S|p=3	0	root	0	root
+4	de	de	P	P		3	mod	3	mod
+5	la	la	DET	DET	n=s|g=f	6	det	6	det
+6	ville	ville	NC	NC	n=s|g=f	4	prep	4	prep
+7	et	et	CC	CC		3	coord	3	coord
+8	sont	être	V	V	n=p|t=P|p=3	9	aux_tps	9	aux_tps
+9	rejoints	rejoindre	VPP	VPP	n=p|g=m|t=K	7	dep_coord	7	dep_coord
+10	par	par	P	P		9	mod	9	mod
+11	des	des	DET	DET	n=p	12	det	12	det
+12	militaires	militaire	NC	NC	n=p|g=m	10	prep	10	prep
+13	.	.	PONCT	PONCT		12	ponct	12	ponct
+
+1	Ils	ils	CLS	CLS	n=p|g=m|p=3	2	suj	2	suj
+2	marchent	marcher	V	V	n=p|t=P,S|p=3	0	root	0	root
+3	ensuite	ensuite	ADV	ADV		2	mod	2	mod
+4	sur	sur	P	P		2	mod	2	mod
+5	Mexico	Mexico	NPP	NPP	n=s|g=m	4	prep	4	prep
+6	où	où	PROREL	PROREL		10	mod	10	mod
+7	des	des	DET	DET	n=p	8	det	8	det
+8	royalistes	royaliste	NC	NC	n=p	10	suj	10	suj
+9	les	les	CLO	CLO	n=p|p=3	10	obj	10	obj
+10	attendent	attendre	V	V	n=p|t=P,S|p=3	5	mod_rel	5	mod_rel
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	bataille	bataille	NC	NC	n=s|g=f	9	suj	9	suj
+3	de	de	P	P		2	dep	2	dep
+4	Montes	_	NPP	NPP		3	prep	3	prep
+5	de	de	P	P		2	dep	2	dep
+6	las	las	ADJ	ADJ	g=m	7	mod	7	mod
+7	Cruces	_	NC	NC		5	prep	5	prep
+8	ne	ne	ADV	ADV		9	mod	9	mod
+9	vit	vivre	V	V	n=s|t=P|p=3	0	root	0	root
+10	ni	ni	CC	CC		0	_	0	_
+11	vainqueur	vainqueur	NC	NC	n=s|g=m	0	_	0	_
+12	ni	ni	CC	CC		11	coord	11	coord
+13	vaincu	vaincre	VPP	VPP	n=s|g=m|t=K	12	dep_coord	12	dep_coord
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+1	En	en	P	P		7	mod	7	mod
+2	effet	effet	NC	NC	n=s|g=m	1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	Miguel	Miguel	NPP	NPP	n=s|g=m	7	suj	7	suj
+5	Hidalgo	_	NPP	NPP		4	mod	4	mod
+6	ne	ne	ADV	ADV		7	mod	7	mod
+7	veut	vouloir	V	V	n=s|t=P|p=3	0	root	0	root
+8	pas	pas	ADV	ADV		7	mod	7	mod
+9	prendre	prendre	VINF	VINF	t=W	7	obj	7	obj
+10	Mexico	Mexico	NPP	NPP	n=s|g=m	9	obj	9	obj
+11	par	par	P	P		9	mod	9	mod
+12	peur	peur	NC	NC	n=s|g=f	11	prep	11	prep
+13	de	de	P	P		9	mod	9	mod
+14	perdre	perdre	VINF	VINF	t=W	13	prep	13	prep
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	décide	décider	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	alors	alors	ADV	ADV		2	mod	2	mod
+4	de	de	P	P		2	obj	2	obj
+5	marcher	marcher	VINF	VINF	t=W	4	prep	4	prep
+6	vers	vers	P	P		5	mod	5	mod
+7	le	le	DET	DET	n=s|g=m	8	det	8	det
+8	Texas	Texas	NPP	NPP	n=s|g=m	6	prep	6	prep
+9	où	où	PROREL	PROREL		13	mod	13	mod
+10	il	il	CLS	CLS	n=s|g=m|p=3	13	suj	13	suj
+11	est	être	V	V	n=s|t=P|p=3	13	aux_tps	13	aux_tps
+12	finalement	_	ADV	ADV		13	mod	13	mod
+13	vaincu	vaincre	VPP	VPP	n=s|g=m|t=K	8	mod_rel	8	mod_rel
+14	à	à	P	P		13	mod	13	mod
+15	la	la	DET	DET	n=s|g=f	16	det	16	det
+16	bataille	bataille	NC	NC	n=s|g=f	14	prep	14	prep
+17	du	de	P+D	P+D	n=s|g=m	13	mod	13	mod
+18	pont	pont	NC	NC	n=s|g=m	17	prep	17	prep
+19	de	de	P	P		13	mod	13	mod
+20	Calderon	_	NPP	NPP		19	prep	19	prep
+21	.	.	PONCT	PONCT		20	ponct	20	ponct
+
+1	Emprisonné	emprisonner	VPP	VPP	n=s|g=m|t=K	6	mod	6	mod
+2	avec	avec	P	P		1	mod	1	mod
+3	ses	ses	DET	DET	n=p|p=3|poss=s	4	det	4	det
+4	lieutenants	lieutenant	NC	NC	n=p|g=m	2	prep	2	prep
+5	ils	ils	CLS	CLS	n=p|g=m|p=3	6	suj	6	suj
+6	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+7	tous	tout	PRO	PRO	n=p|g=m	6	mod	6	mod
+8	fusillés	fusiller	VPP	VPP	n=p|g=m|t=K	7	mod	7	mod
+9	.	.	PONCT	PONCT		8	ponct	8	ponct
+
+</p><p>
+1	Privés	priver	VPP	VPP	n=p|g=m|t=K	9	mod	9	mod
+2	de	de	P	P		1	mod	1	mod
+3	leur	leur	DET	DET	n=s|p=3|poss=p	4	det	4	det
+4	chef	chef	NC	NC	n=s	2	prep	2	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	les	les	DET	DET	n=p	7	det	7	det
+7	indépendantistes	indépendantiste	ADJ	ADJ	n=p	9	suj	9	suj
+8	se	se	CLR	CLR	n=p,s|p=3	9	aff	9	aff
+9	limitent	limiter	V	V	n=p|t=P,S|p=3	0	root	0	root
+10	à	à	P	P		9	mod	9	mod
+11	des	des	DET	DET	n=p	12	det	12	det
+12	guérillas	guérilla	NC	NC	n=p|g=f	10	prep	10	prep
+13	.	.	PONCT	PONCT		12	ponct	12	ponct
+
+1	En	en	P	P		6	mod	6	mod
+2	1825	1825	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	rebellion	_	NC	NC		6	suj	6	suj
+6	reprend	reprendre	V	V	n=s|t=P|p=3	0	root	0	root
+7	à	à	P	P		6	mod	6	mod
+8	nouveau	nouveau	ADJ	ADJ	n=s|g=m	7	prep	7	prep
+9	et	et	CC	CC		6	coord	6	coord
+10	deux	deux	DET	DET	s=card|n=p	11	det	11	det
+11	chefs	chef	NC	NC	n=p	13	suj	13	suj
+12	se	se	CLR	CLR	n=p,s|p=3	13	aff	13	aff
+13	dessinent	dessiner	V	V	n=p|t=P,S|p=3	9	dep_coord	9	dep_coord
+14	:	:	PONCT	PONCT		13	ponct	13	ponct
+15	Vicente	Vicente	NPP	NPP	n=s|g=m	13	obj	13	obj
+16	Guerrero	_	NPP	NPP		15	mod	15	mod
+17	et	et	CC	CC		15	coord	15	coord
+18	un	un	DET	DET	n=s|g=m	19	det	19	det
+19	homme	homme	NC	NC	n=s|g=m	17	dep_coord	17	dep_coord
+20	mystérieux	mystérieux	ADJ	ADJ	g=m	19	mod	19	mod
+21	surnommé	surnommer	VPP	VPP	n=s|g=m|t=K	19	mod	19	mod
+22	Guadalupe	Guadalupe	NPP	NPP	n=s	19	mod	19	mod
+23	Victoria	Victoria	NPP	NPP	n=s|g=f,m	19	mod	19	mod
+24	.	.	PONCT	PONCT		23	ponct	23	ponct
+
+1	Avec	avec	P	P		14	mod	14	mod
+2	le	le	DET	DET	n=s|g=m	3	det	3	det
+3	soutien	soutien	NC	NC	n=s|g=m	1	prep	1	prep
+4	du	de	P+D	P+D	n=s|g=m	3	dep	3	dep
+5	français	français	NC	NC	g=m	4	prep	4	prep
+6	Louis	Louis	NPP	NPP	n=s|g=m	5	mod	5	mod
+7	-	-	PONCT	PONCT		6	ponct	6	ponct
+8	Miche	miche	NC	NC	n=s|g=f	5	mod	5	mod
+9	Auray	Auray	NPP	NPP	n=s|g=m	8	mod	8	mod
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	les	les	DET	DET	n=p	13	det	13	det
+12	deux	deux	ADJ	ADJ	s=card|n=p	13	mod	13	mod
+13	hommes	homme	NC	NC	n=p|g=m	14	suj	14	suj
+14	convainquent	convaincre	V	V	n=p|t=P,S|p=3	0	root	0	root
+15	les	les	DET	DET	n=p	16	det	16	det
+16	mexicains	mexicain	ADJ	ADJ	n=p|g=m	14	ats	14	ats
+17	de	de	P	P		14	mod	14	mod
+18	rejoindre	rejoindre	VINF	VINF	t=W	17	prep	17	prep
+19	leur	leur	DET	DET	n=s|p=3|poss=p	20	det	20	det
+20	cause	cause	NC	NC	n=s|g=f	18	obj	18	obj
+21	.	.	PONCT	PONCT		20	ponct	20	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	vice-roi	vice-roi	NC	NC	n=s|g=m	3	suj	3	suj
+3	tente	tenter	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	de	de	P	P		3	obj	3	obj
+5	reprendre	reprendre	VINF	VINF	t=W	4	prep	4	prep
+6	le	le	DET	DET	n=s|g=m	7	det	7	det
+7	contrôle	contrôle	NC	NC	n=s|g=m	5	obj	5	obj
+8	en	en	P	P		3	mod	3	mod
+9	accordant	accorder	VPR	VPR	t=G	8	prep	8	prep
+10	l’	le	DET	DET	n=s	11	det	11	det
+11	amnistie	amnistie	NC	NC	n=s|g=f	9	obj	9	obj
+12	à	à	P	P		9	mod	9	mod
+13	tout	tout	DET	DET	n=s|g=m	14	det	14	det
+14	indépendantiste	indépendantiste	ADJ	ADJ	n=s	12	prep	12	prep
+15	déposant	déposer	VPR	VPR	t=G	14	mod	14	mod
+16	les	les	DET	DET	n=p	17	det	17	det
+17	armes	arme	NC	NC	n=p|g=f	15	obj	15	obj
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	Très	très	ADV	ADV		2	mod	2	mod
+2	peu	peu	ADV	ADV		3	mod	3	mod
+3	acceptèrent	accepter	V	V	n=p|t=J|p=3	0	root	0	root
+4	.	.	PONCT	PONCT		3	ponct	3	ponct
+
+</p><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	pays	pays	NC	NC	g=m	4	suj	4	suj
+3	est	être	V	V	n=s|t=P|p=3	4	aux_tps	4	aux_tps
+4	ensanglanté	ensanglanter	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+5	par	par	P	P		4	mod	4	mod
+6	une	une	DET	DET	n=s|g=f	8	det	8	det
+7	atroce	atroce	ADJ	ADJ	n=s	8	mod	8	mod
+8	guerre	guerre	NC	NC	n=s|g=f	5	prep	5	prep
+9	civile	civil	ADJ	ADJ	n=s|g=f	8	mod	8	mod
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	général	général	NC	NC	n=s|g=m	11	suj	11	suj
+3	Augustin	Augustin	NPP	NPP	n=s|g=m	2	mod	2	mod
+4	de	de	P	P		2	dep	2	dep
+5	Iturbide	_	NPP	NPP		4	prep	4	prep
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	main	main	NC	NC	n=s|g=f	2	mod	2	mod
+8	du	de	P+D	P+D	n=s|g=m	7	dep	7	dep
+9	vice	vice	NC	NC	n=s|g=m	8	prep	8	prep
+10	roi	roi	NC	NC	n=s|g=m	9	mod	9	mod
+11	change	changer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+12	alors	alors	ADV	ADV		11	mod	11	mod
+13	de	de	P	P		11	mod	11	mod
+14	camp	camp	NC	NC	n=s|g=m	13	prep	13	prep
+15	et	et	CC	CC		11	coord	11	coord
+16	rejoint	rejoindre	V	V	n=s|t=P|p=3	15	dep_coord	15	dep_coord
+17	les	les	DET	DET	n=p	18	det	18	det
+18	rebelles	rebelle	NC	NC	n=p	16	obj	16	obj
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	Par	par	P	P		6	mod	6	mod
+2	cet	cet	DET	DET	n=s|g=m	3	det	3	det
+3	acte	acte	NC	NC	n=s|g=m	1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	il	il	CLS	CLS	n=s|g=m|p=3	6	suj	6	suj
+6	voulait	vouloir	V	V	n=s|t=I|p=3	0	root	0	root
+7	réaliser	réaliser	VINF	VINF	t=W	6	obj	6	obj
+8	son	son	DET	DET	n=s|g=m|p=3|poss=s	9	det	9	det
+9	rêve	rêve	NC	NC	n=s|g=m	7	obj	7	obj
+10	secret	secret	ADJ	ADJ	n=s|g=m	9	mod	9	mod
+11	:	:	PONCT	PONCT		10	ponct	10	ponct
+12	faire	faire	VINF	VINF	t=W	7	coord	7	coord
+13	du	de	P+D	P+D	n=s|g=m	12	mod	12	mod
+14	Mexique	Mexique	NPP	NPP	n=s|g=m	13	prep	13	prep
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	un	un	DET	DET	n=s|g=m	17	det	17	det
+17	empire	empire	NC	NC	n=s|g=m	12	obj	12	obj
+18	riche	riche	ADJ	ADJ	n=s	17	mod	17	mod
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	moderne	moderne	ADJ	ADJ	n=s	17	mod	17	mod
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	démocratique	démocratique	ADJ	ADJ	n=s	17	mod	17	mod
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	dont	dont	PROREL	PROREL		26	mod	26	mod
+25	il	il	CLS	CLS	n=s|g=m|p=3	26	suj	26	suj
+26	serait	être	V	V	n=s|t=C|p=3	17	mod_rel	17	mod_rel
+27	l’	le	DET	DET	n=s	28	det	28	det
+28	empereur	empereur	NC	NC	n=s|g=m	26	obj	26	obj
+29	!	!	PONCT	PONCT		28	ponct	28	ponct
+
+1	Fervent	fervent	ADJ	ADJ	n=s|g=m	2	mod	2	mod
+2	catholique	catholique	NC	NC	n=s	5	mod	5	mod
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	il	il	CLS	CLS	n=s|g=m|p=3	5	suj	5	suj
+5	reçoit	recevoir	V	V	n=s|t=P|p=3	0	root	0	root
+6	le	le	DET	DET	n=s|g=m	7	det	7	det
+7	soutien	soutien	NC	NC	n=s|g=m	5	obj	5	obj
+8	des	de	P+D	P+D	n=p	7	dep	7	dep
+9	évêques	évêque	NC	NC	n=p|g=m	8	prep	8	prep
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+1	En	en	P	P		8	mod	8	mod
+2	1821	1821	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	un	un	DET	DET	n=s|g=m	6	det	6	det
+5	nouveau	nouveau	ADJ	ADJ	n=s|g=m	6	mod	6	mod
+6	vice-roi	vice-roi	NC	NC	n=s|g=m	8	suj	8	suj
+7	est	être	V	V	n=s|t=P|p=3	8	aux_pass	8	aux_pass
+8	nommé	nommer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+9	pour	pour	P	P		8	mod	8	mod
+10	rétablir	rétablir	VINF	VINF	t=W	9	prep	9	prep
+11	l’	le	DET	DET	n=s	12	det	12	det
+12	ordre	ordre	NC	NC	n=s|g=m	10	obj	10	obj
+13	.	.	PONCT	PONCT		12	ponct	12	ponct
+
+1	Celui-ci	celui-ci	PRO	PRO	n=s|g=m	2	suj	2	suj
+2	découvre	découvrir	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	avec	avec	P	P		2	mod	2	mod
+4	horreur	horreur	NC	NC	n=s|g=f	3	prep	3	prep
+5	que	que	CS	CS		2	mod	2	mod
+6	tout	tout	ADJ	ADJ	n=s|g=m	8	mod	8	mod
+7	le	le	DET	DET	n=s|g=m	8	det	8	det
+8	Mexique	Mexique	NPP	NPP	n=s|g=m	9	suj	9	suj
+9	est	être	V	V	n=s|t=P|p=3	5	sub	5	sub
+10	rebelle	rebelle	ADJ	ADJ	n=s	9	ats	9	ats
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	seule	seul	ADJ	ADJ	n=s|g=f	14	mod	14	mod
+13	la	la	DET	DET	n=s|g=f	14	det	14	det
+14	ville	ville	NC	NC	n=s|g=f	9	mod	9	mod
+15	de	de	P	P		14	dep	14	dep
+16	Veracruz	_	NPP	NPP		15	prep	15	prep
+17	où	où	PROREL	PROREL		19	obj	19	obj
+18	il	il	CLS	CLS	n=s|g=m|p=3	19	suj	19	suj
+19	loge	loger	V	V	n=s|t=P,S|p=1,3	14	mod_rel	14	mod_rel
+20	reste	rester	V	V	n=s|t=P,S|p=1,3	9	mod	9	mod
+21	fidèle	fidèle	ADJ	ADJ	n=s	20	ats	20	ats
+22	au	à	P+D	P+D	n=s|g=m	20	mod	20	mod
+23	roi	roi	NC	NC	n=s|g=m	22	prep	22	prep
+24	d’	de	P	P		20	mod	20	mod
+25	Espagne	Espagne	NPP	NPP	n=s|g=f	24	prep	24	prep
+26	.	.	PONCT	PONCT		25	ponct	25	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	rencontre	rencontrer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	Iturbide	_	NPP	NPP		2	obj	2	obj
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	signe	signe	NC	NC	n=s|g=m	3	mod	3	mod
+6	l’	le	DET	DET	n=s	7	det	7	det
+7	indépendance	indépendance	NC	NC	n=s|g=f	3	mod	3	mod
+8	du	de	P+D	P+D	n=s|g=m	7	dep	7	dep
+9	Mexique	Mexique	NPP	NPP	n=s|g=m	8	prep	8	prep
+10	et	et	CC	CC		3	coord	3	coord
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	convainc	_	NC	NC		10	dep_coord	10	dep_coord
+13	par	par	P	P		2	mod	2	mod
+14	la	la	DET	DET	n=s|g=f	15	det	15	det
+15	diplomatie	diplomatie	NC	NC	n=s|g=f	13	prep	13	prep
+16	les	les	DET	DET	n=p	17	det	17	det
+17	armées	armée	NC	NC	n=p|g=f	2	obj	2	obj
+18	espagnoles	espagnol	ADJ	ADJ	n=p|g=f	17	mod	17	mod
+19	de	de	P	P		2	mod	2	mod
+20	repartir	repartir	VINF	VINF	t=W	19	prep	19	prep
+21	.	.	PONCT	PONCT		20	ponct	20	ponct
+
+</p><h2>
+1	Premier	premier	ADJ	ADJ	n=s|g=m	2	mod	2	mod
+2	Empire	empire	NC	NC	n=s|g=m	0	_	0	_
+
+</h2><p>
+1	Après	après	P	P		7	mod	7	mod
+2	l’	le	DET	DET	n=s	3	det	3	det
+3	indépendance	indépendance	NC	NC	n=s|g=f	1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	les	les	DET	DET	n=p	6	det	6	det
+6	mexicains	mexicain	ADJ	ADJ	n=p|g=m	7	suj	7	suj
+7	proposent	proposer	V	V	n=p|t=P,S|p=3	0	root	0	root
+8	un	un	DET	DET	n=s|g=m	9	det	9	det
+9	accord	accord	NC	NC	n=s|g=m	7	obj	7	obj
+10	avec	avec	P	P		7	mod	7	mod
+11	le	le	DET	DET	n=s|g=m	12	det	12	det
+12	roi	roi	NC	NC	n=s|g=m	10	prep	10	prep
+13	d’	de	P	P		7	mod	7	mod
+14	Espagne	Espagne	NPP	NPP	n=s|g=f	13	prep	13	prep
+15	:	:	PONCT	PONCT		14	ponct	14	ponct
+16	Ferdinand	Ferdinand	NPP	NPP	n=s|g=m	7	mod	7	mod
+17	VII	_	NPP	NPP		16	mod	16	mod
+18	serait	être	V	V	n=s|t=C|p=3	7	mod	7	mod
+19	empereur	empereur	NC	NC	n=s|g=m	18	obj	18	obj
+20	du	de	P+D	P+D	n=s|g=m	19	dep	19	dep
+21	Mexique	Mexique	NPP	NPP	n=s|g=m	20	prep	20	prep
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+23	mais	mais	CC	CC		18	coord	18	coord
+24	ce	ce	CLS	CLS		25	suj	25	suj
+25	serait	être	V	V	n=s|t=C|p=3	23	dep_coord	23	dep_coord
+26	un	un	DET	DET	n=s|g=m	27	det	27	det
+27	empereur	empereur	NC	NC	n=s|g=m	25	obj	25	obj
+28	honorifique	honorifique	ADJ	ADJ	n=s	27	mod	27	mod
+29	(	(	PONCT	PONCT		28	ponct	28	ponct
+30	sans	sans	P	P		25	mod	25	mod
+31	réel	réel	ADJ	ADJ	n=s|g=m	32	mod	32	mod
+32	pouvoir	pouvoir	NC	NC	n=s|g=m	30	prep	30	prep
+33	)	)	PONCT	PONCT		32	ponct	32	ponct
+34	,	,	PONCT	PONCT		32	ponct	32	ponct
+35	le	le	DET	DET	n=s|g=m	36	det	36	det
+36	Mexique	Mexique	NPP	NPP	n=s|g=m	25	mod	25	mod
+37	serait	être	V	V	n=s|t=C|p=3	18	coord	18	coord
+38	dirigé	diriger	VPP	VPP	n=s|g=m|t=K	37	root	37	root
+39	par	par	P	P		38	p_obj	38	p_obj
+40	son	son	DET	DET	n=s|g=m|p=3|poss=s	42	det	42	det
+41	propre	propre	ADJ	ADJ	n=s	42	mod	42	mod
+42	gouvernement	gouvernement	NC	NC	n=s|g=m	39	prep	39	prep
+43	et	et	CC	CC		38	coord	38	coord
+44	son	son	DET	DET	n=s|g=m|p=3|poss=s	46	det	46	det
+45	propre	propre	ADJ	ADJ	n=s	46	mod	46	mod
+46	Parlement	parlement	NC	NC	n=s|g=m	0	_	0	_
+47	.	.	PONCT	PONCT		46	ponct	46	ponct
+
+1	L’	le	DET	DET	n=s	2	det	2	det
+2	Espagne	Espagne	NPP	NPP	n=s|g=f	3	suj	3	suj
+3	aiderait	aider	V	V	n=s|t=C|p=3	0	root	0	root
+4	économiquement	_	ADV	ADV		3	mod	3	mod
+5	le	le	DET	DET	n=s|g=m	6	det	6	det
+6	Mexique	Mexique	NPP	NPP	n=s|g=m	3	obj	3	obj
+7	qui	qui	PROREL	PROREL	n=s	8	suj	8	suj
+8	serait	être	V	V	n=s|t=C|p=3	6	mod_rel	6	mod_rel
+9	toujours	toujours	ADV	ADV		8	mod	8	mod
+10	un	un	DET	DET	n=s|g=m	11	det	11	det
+11	soutien	soutien	NC	NC	n=s|g=m	8	obj	8	obj
+12	pour	pour	P	P		8	mod	8	mod
+13	l’	le	DET	DET	n=s	14	det	14	det
+14	Espagne	Espagne	NPP	NPP	n=s|g=f	12	prep	12	prep
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	faisant	faire	VPR	VPR	t=G	8	mod	8	mod
+17	du	de	P+D	P+D	n=s|g=m	16	mod	16	mod
+18	Mexique	Mexique	NPP	NPP	n=s|g=m	17	prep	17	prep
+19	…	…	PONCT	PONCT		18	ponct	18	ponct
+20	un	un	DET	DET	n=s|g=m	22	det	22	det
+21	"	"	PONCT	PONCT		20	ponct	20	ponct
+22	Commonwealth	_	NPP	NPP		16	obj	16	obj
+23	"	"	PONCT	PONCT		22	ponct	22	ponct
+24	de	de	P	P		16	mod	16	mod
+25	l’	le	DET	DET	n=s	26	det	26	det
+26	Espagne	Espagne	NPP	NPP	n=s|g=f	24	prep	24	prep
+27	!	!	PONCT	PONCT		26	ponct	26	ponct
+
+</p><p>
+1	Mais	mais	CC	CC		0	root	0	root
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	Ferdinand	Ferdinand	NPP	NPP	n=s|g=m	5	suj	5	suj
+4	VII	_	NPP	NPP		3	mod	3	mod
+5	refuse	refuser	V	V	n=s|t=P,S|p=1,3	1	dep_coord	1	dep_coord
+6	.	.	PONCT	PONCT		5	ponct	5	ponct
+
+1	En	en	P	P		8	mod	8	mod
+2	mai	mai	NC	NC	n=s|g=m	1	prep	1	prep
+3	1822	1822	NC	NC		2	mod	2	mod
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	une	une	DET	DET	n=s|g=f	7	det	7	det
+6	immense	immense	ADJ	ADJ	n=s	7	mod	7	mod
+7	manifestation	manifestation	NC	NC	n=s|g=f	8	suj	8	suj
+8	réclame	réclamer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+9	le	le	DET	DET	n=s|g=m	10	det	10	det
+10	couronnement	couronnement	NC	NC	n=s|g=m	8	obj	8	obj
+11	d’	de	P	P		10	dep	10	dep
+12	Augustin	Augustin	NPP	NPP	n=s|g=m	11	prep	11	prep
+13	de	de	P	P		8	mod	8	mod
+14	Iturbide	_	NPP	NPP		13	prep	13	prep
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	qui	qui	PROREL	PROREL	n=s	18	suj	18	suj
+17	est	être	V	V	n=s|t=P|p=3	18	aux_tps	18	aux_tps
+18	nommé	nommer	VPP	VPP	n=s|g=m|t=K	8	mod	8	mod
+19	empereur	empereur	NC	NC	n=s|g=m	18	mod	18	mod
+20	le	le	DET	DET	n=s|g=m	22	det	22	det
+21	19	19	ADJ	ADJ		22	mod	22	mod
+22	mai	mai	NC	NC	n=s|g=m	18	obj	18	obj
+23	1822	1822	VPP	VPP		22	mod	22	mod
+24	par	par	P	P		23	mod	23	mod
+25	le	le	DET	DET	n=s|g=m	26	det	26	det
+26	Congrès	congrès	NC	NC	g=m	24	prep	24	prep
+27	de	de	P	P		26	dep	26	dep
+28	la	la	DET	DET	n=s|g=f	29	det	29	det
+29	Nation	_	NPP	NPP		27	prep	27	prep
+30	sous	sous	P	P		23	mod	23	mod
+31	le	le	DET	DET	n=s|g=m	32	det	32	det
+32	nom	nom	NC	NC	n=s|g=m	30	prep	30	prep
+33	d’	de	P	P		23	mod	23	mod
+34	Augustin	Augustin	NPP	NPP	n=s|g=m	33	prep	33	prep
+35	Ier	_	NPP	NPP		34	mod	34	mod
+36	.	.	PONCT	PONCT		35	ponct	35	ponct
+
+1	Augustin	_	NPP	NPP		3	suj	3	suj
+2	Ier	_	NPP	NPP		1	mod	1	mod
+3	était	être	V	V	n=s|t=I|p=3	0	root	0	root
+4	un	un	DET	DET	n=s|g=m	6	det	6	det
+5	fervent	fervent	ADJ	ADJ	n=s|g=m	6	mod	6	mod
+6	admirateur	admirateur	NC	NC	n=s|g=m	3	obj	3	obj
+7	du	de	P+D	P+D	n=s|g=m	6	dep	6	dep
+8	régime	régime	NC	NC	n=s|g=m	7	prep	7	prep
+9	de	de	P	P		8	dep	8	dep
+10	Napoléon	_	NPP	NPP		9	prep	9	prep
+11	Ier	_	NPP	NPP		10	mod	10	mod
+12	dont	dont	PROREL	PROREL		15	mod	15	mod
+13	il	il	CLS	CLS	n=s|g=m|p=3	15	suj	15	suj
+14	s'	se	CLR	CLR	n=p,s|p=3	15	aff	15	aff
+15	inspira	inspirer	V	V	n=s|t=J|p=3	6	mod_rel	6	mod_rel
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+</p><p>
+1	Mais	mais	CC	CC		0	root	0	root
+2	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	3	det	3	det
+3	politique	politique	NC	NC	n=s|g=f	4	suj	4	suj
+4	provoque	provoquer	V	V	n=s|t=P,S|p=1,3	1	dep_coord	1	dep_coord
+5	une	une	DET	DET	n=s|g=f	6	det	6	det
+6	résistance	résistance	NC	NC	n=s|g=f	4	obj	4	obj
+7	de	de	P	P		4	mod	4	mod
+8	plus	plus	ADV	ADV		0	_	0	_
+9	en	en	P	P		0	_	0	_
+10	plus	plus	ADV	ADV		11	mod	11	mod
+11	active	actif	ADJ	ADJ	n=s|g=f	9	prep	9	prep
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	surtout	surtout	ADV	ADV		14	mod	14	mod
+14	dans	dans	P	P		9	dep	9	dep
+15	(	(	PONCT	PONCT		14	ponct	14	ponct
+16	ironie	ironie	NC	NC	n=s|g=f	14	prep	14	prep
+17	du	de	P+D	P+D	n=s|g=m	16	dep	16	dep
+18	sort	sort	NC	NC	n=s|g=m	17	prep	17	prep
+19	)	)	PONCT	PONCT		18	ponct	18	ponct
+20	l’	le	DET	DET	n=s	21	det	21	det
+21	armée	armée	NC	NC	n=s|g=f	14	prep	14	prep
+22	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+1	En	en	P	P		7	mod	7	mod
+2	1823	1823	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	toute	tout	ADJ	ADJ	n=s|g=f	6	mod	6	mod
+5	l’	le	DET	DET	n=s	6	det	6	det
+6	armée	armée	NC	NC	n=s|g=f	7	suj	7	suj
+7	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+8	républicaine	républicain	ADJ	ADJ	n=s|g=f	7	ats	7	ats
+9	et	et	CC	CC		7	coord	7	coord
+10	contraint	contraindre	V	V	n=s|t=P|p=3	7	mod	7	mod
+11	Augustin	Augustin	NPP	NPP	n=s|g=m	10	suj	10	suj
+12	Ier	_	NPP	NPP		11	mod	11	mod
+13	à	à	P	P		10	mod	10	mod
+14	l’	le	DET	DET	n=s	15	det	15	det
+15	exil	exil	NC	NC	n=s|g=m	13	prep	13	prep
+16	après	après	P	P		10	mod	10	mod
+17	quelques	quelques	DET	DET	n=p	18	det	18	det
+18	mois	mois	NC	NC	g=m	16	prep	16	prep
+19	seulement	_	ADV	ADV		10	mod	10	mod
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+</p><h3>
+1	Première	premier	ADJ	ADJ	n=s|g=f	2	mod	2	mod
+2	république	république	NC	NC	n=s|g=f	0	_	0	_
+3	mexicaine	mexicain	ADJ	ADJ	n=s|g=f	2	mod	2	mod
+
+</h3><p>
+1	En	en	P	P		8	mod	8	mod
+2	1830	1830	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	Constitution	constitution	NC	NC	n=s|g=f	8	suj	8	suj
+6	est	être	V	V	n=s|t=P|p=3	8	aux_tps	8	aux_tps
+7	enfin	enfin	ADV	ADV		8	mod	8	mod
+8	proclamée	proclamer	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	faisant	faire	VPR	VPR	t=G	8	mod	8	mod
+11	du	de	P+D	P+D	n=s|g=m	10	mod	10	mod
+12	Mexique	Mexique	NPP	NPP	n=s|g=m	11	prep	11	prep
+13	une	une	DET	DET	n=s|g=f	14	det	14	det
+14	république	république	NC	NC	n=s|g=f	10	obj	10	obj
+15	fédérale	fédéral	ADJ	ADJ	n=s|g=f	14	mod	14	mod
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+1	Mais	mais	CC	CC		0	root	0	root
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	les	les	DET	DET	n=p	4	det	4	det
+4	tensions	tension	NC	NC	n=p|g=f	6	suj	6	suj
+5	politiques	politique	ADJ	ADJ	n=p	4	mod	4	mod
+6	provoquent	provoquer	V	V	n=p|t=P,S|p=3	1	dep_coord	1	dep_coord
+7	des	des	DET	DET	n=p	8	det	8	det
+8	conflits	conflit	NC	NC	n=p|g=m	6	obj	6	obj
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	parfois	parfois	ADV	ADV		11	mod	11	mod
+11	violents	violent	ADJ	ADJ	n=p|g=m	8	mod	8	mod
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	entre	entre	P	P		6	mod	6	mod
+14	fédéralistes	fédéraliste	NC	NC	n=p	13	prep	13	prep
+15	et	et	CC	CC		14	coord	14	coord
+16	centralistes	_	NC	NC		15	dep_coord	15	dep_coord
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	entre	entre	P	P		6	mod	6	mod
+19	cléricaux	clérical	NC	NC	n=p|g=m	18	prep	18	prep
+20	et	et	CC	CC		19	coord	19	coord
+21	modernistes	moderniste	NC	NC	n=p	20	dep_coord	20	dep_coord
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+23	ou	ou	CC	CC		6	coord	6	coord
+24	avec	avec	P	P		23	dep_coord	23	dep_coord
+25	les	les	DET	DET	n=p	26	det	26	det
+26	anarchistes	anarchiste	NC	NC	n=p	24	prep	24	prep
+27	.	.	PONCT	PONCT		26	ponct	26	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	présidents	président	NC	NC	n=p|g=m	3	suj	3	suj
+3	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+4	des	des	DET	DET	n=p	5	det	5	det
+5	ambitieux	ambitieux	ADJ	ADJ	g=m	3	ats	3	ats
+6	qui	qui	PROREL	PROREL	n=s	7	suj	7	suj
+7	tentent	tenter	V	V	n=p|t=P,S|p=3	5	mod_rel	5	mod_rel
+8	d’	de	P	P		7	obj	7	obj
+9	établir	établir	VINF	VINF	t=W	8	prep	8	prep
+10	une	une	DET	DET	n=s|g=f	11	det	11	det
+11	dictature	dictature	NC	NC	n=s|g=f	9	obj	9	obj
+12	à	à	P	P		9	mod	9	mod
+13	leur	leur	DET	DET	n=s|p=3|poss=p	14	det	14	det
+14	profit	profit	NC	NC	n=s|g=m	12	prep	12	prep
+15	et	et	CC	CC		3	coord	3	coord
+16	sont	être	V	V	n=p|t=P|p=3	17	aux_tps	17	aux_tps
+17	renversés	renverser	VPP	VPP	n=p|g=m|t=K	15	dep_coord	15	dep_coord
+18	au	à	P+D	P+D	n=s|g=m	17	mod	17	mod
+19	bout	bout	NC	NC	n=s|g=m	18	prep	18	prep
+20	de	de	P	P		17	mod	17	mod
+21	quelques	quelques	DET	DET	n=p	22	det	22	det
+22	mois	mois	NC	NC	g=m	20	prep	20	prep
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	Mexique	Mexique	NPP	NPP	n=s|g=m	3	suj	3	suj
+3	connait	_	V	V		0	root	0	root
+4	une	une	DET	DET	n=s|g=f	5	det	5	det
+5	période	période	NC	NC	n=s	3	obj	3	obj
+6	de	de	P	P		5	dep	5	dep
+7	trouble	trouble	NC	NC	n=s	6	prep	6	prep
+8	et	et	CC	CC		3	coord	3	coord
+9	d'	de	P	P		8	dep_coord	8	dep_coord
+10	instabilité	instabilité	NC	NC	n=s|g=f	9	prep	9	prep
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+</p><p>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	paix	paix	NC	NC	g=f	3	suj	3	suj
+3	revient	revenir	V	V	n=s|t=P|p=3	0	root	0	root
+4	en	en	P	P		3	mod	3	mod
+5	1848	1848	NC	NC		4	prep	4	prep
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	date	date	NC	NC	n=s|g=f	3	mod	3	mod
+8	à	à	P	P		3	mod	3	mod
+9	laquelle	lequel	PROREL	PROREL	n=s|g=f	20	mod	20	mod
+10	tous	tout	ADJ	ADJ	n=p|g=m	12	mod	12	mod
+11	les	les	DET	DET	n=p	12	det	12	det
+12	mexicains	mexicain	ADJ	ADJ	n=p|g=m	20	suj	20	suj
+13	(	(	PONCT	PONCT		12	ponct	12	ponct
+14	sauf	sauf	P	P		12	mod	12	mod
+15	les	les	DET	DET	n=p	16	det	16	det
+16	anarchistes	anarchiste	NC	NC	n=p	14	prep	14	prep
+17	)	)	PONCT	PONCT		16	ponct	16	ponct
+18	,	,	PONCT	PONCT		16	ponct	16	ponct
+19	se	se	CLR	CLR	n=p,s|p=3	20	aff	20	aff
+20	rangent	ranger	V	V	n=p|t=P,S|p=3	3	mod	3	mod
+21	derrière	derrière	P	P		20	mod	20	mod
+22	le	le	DET	DET	n=s|g=m	23	det	23	det
+23	dictateur	dictateur	NC	NC	n=s|g=m	21	prep	21	prep
+24	Antonio	Antonio	NPP	NPP	n=s|g=m	23	mod	23	mod
+25	Lopez	_	NPP	NPP		23	mod	23	mod
+26	de	de	P	P		20	mod	20	mod
+27	Santa	Santa	NPP	NPP	n=s|g=f	26	prep	26	prep
+28	Anna	Anna	NPP	NPP	n=s|g=f	27	mod	27	mod
+29	pour	pour	P	P		20	mod	20	mod
+30	faire	faire	VINF	VINF	t=W	29	prep	29	prep
+31	la	la	DET	DET	n=s|g=f	32	det	32	det
+32	guerre	guerre	NC	NC	n=s|g=f	30	obj	30	obj
+33	aux	à	P+D	P+D	n=p	32	dep	32	dep
+34	États-Unis	États-Unis_d'Amérique	NPP	NPP	n=p|g=m	33	prep	33	prep
+35	qui	qui	PROREL	PROREL	n=s	37	suj	37	suj
+36	avait	avoir	V	V	n=s|t=I|p=3	37	aux_tps	37	aux_tps
+37	pris	prendre	VPP	VPP	g=m|t=K	32	mod_rel	32	mod_rel
+38	le	le	DET	DET	n=s|g=m	39	det	39	det
+39	Texas	Texas	NPP	NPP	n=s|g=m	37	obj	37	obj
+40	.	.	PONCT	PONCT		39	ponct	39	ponct
+
+1	Mais	mais	CC	CC		0	root	0	root
+2	à	à	P	P		17	mod	17	mod
+3	la	la	DET	DET	n=s|g=f	4	det	4	det
+4	fin	fin	NC	NC	n=s	2	prep	2	prep
+5	de	de	P	P		4	dep	4	dep
+6	la	la	DET	DET	n=s|g=f	7	det	7	det
+7	guerre	guerre	NC	NC	n=s|g=f	5	prep	5	prep
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	Santa	Santa	NPP	NPP	n=s|g=f	4	mod	4	mod
+10	Anna	Anna	NPP	NPP	n=s|g=f	4	mod	4	mod
+11	est	être	V	V	n=s|t=P|p=3	12	aux_tps	12	aux_tps
+12	renversé	renverser	VPP	VPP	n=s|g=m|t=K	4	mod_rel	4	mod_rel
+13	et	et	CC	CC		4	coord	4	coord
+14	les	les	DET	DET	n=p	15	det	15	det
+15	troubles	trouble	NC	NC	n=p	13	dep_coord	13	dep_coord
+16	internes	interne	ADJ	ADJ	n=p	15	mod	15	mod
+17	reprennent	reprendre	V	V	n=p|t=P,S|p=3	1	dep_coord	1	dep_coord
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	En	en	P	P		6	mod	6	mod
+2	1861	1861	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	paix	paix	NC	NC	g=f	6	suj	6	suj
+6	semble	sembler	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+7	revenir	revenir	VINF	VINF	t=W	6	obj	6	obj
+8	avec	avec	P	P		7	mod	7	mod
+9	l’	le	DET	DET	n=s	10	det	10	det
+10	arrivée	arrivée	NC	NC	n=s|g=f	8	prep	8	prep
+11	de	de	P	P		7	mod	7	mod
+12	Benito	Benito	NPP	NPP	n=s|g=m	11	prep	11	prep
+13	Juarez	_	NPP	NPP		12	mod	12	mod
+14	à	à	P	P		7	mod	7	mod
+15	la	la	DET	DET	n=s|g=f	16	det	16	det
+16	présidence	présidence	NC	NC	n=s|g=f	14	prep	14	prep
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+</p><h3>
+1	Guerre	guerre	NC	NC	n=s|g=f	0	_	0	_
+2	du	de	P+D	P+D	n=s|g=m	1	dep	1	dep
+3	Mexique	Mexique	NPP	NPP	n=s|g=m	2	prep	2	prep
+
+</h3><p>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	France	France	NPP	NPP	n=s|g=f,m	7	suj	7	suj
+3	de	de	P	P		2	dep	2	dep
+4	Napoléon	_	NPP	NPP		3	prep	3	prep
+5	III	_	NPP	NPP		4	mod	4	mod
+6	s'	se	CLR	CLR	n=p,s|p=3	7	aff	7	aff
+7	intéresse	intéresser	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+8	au	à	P+D	P+D	n=s|g=m	7	mod	7	mod
+9	pays	pays	NC	NC	g=m	8	prep	8	prep
+10	pour	pour	P	P		7	mod	7	mod
+11	faire	faire	VINF	VINF	t=W	10	prep	10	prep
+12	du	de	P+D	P+D	n=s|g=m	11	mod	11	mod
+13	Mexique	Mexique	NPP	NPP	n=s|g=m	12	prep	12	prep
+14	un	un	DET	DET	n=s|g=m	15	det	15	det
+15	empire	empire	NC	NC	n=s|g=m	11	obj	11	obj
+16	européen	européen	ADJ	ADJ	n=s|g=m	15	mod	15	mod
+17	et	et	CC	CC		16	coord	16	coord
+18	catholique	catholique	ADJ	ADJ	n=s	17	dep_coord	17	dep_coord
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	pour	pour	P	P		7	mod	7	mod
+21	contrebalancer	contrebalancer	VINF	VINF	t=W	20	prep	20	prep
+22	la	la	DET	DET	n=s|g=f	23	det	23	det
+23	puissance	puissance	NC	NC	n=s|g=f	21	obj	21	obj
+24	des	de	P+D	P+D	n=p	23	dep	23	dep
+25	États-Unis	États-Unis_d'Amérique	NPP	NPP	n=p|g=m	24	prep	24	prep
+26	.	.	PONCT	PONCT		25	ponct	25	ponct
+
+1	En	en	P	P		7	mod	7	mod
+2	1862	1862	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	les	les	DET	DET	n=p	5	det	5	det
+5	soldats	soldat	NC	NC	n=p|g=m	7	suj	7	suj
+6	français	français	ADJ	ADJ	g=m	5	mod	5	mod
+7	débarquent	débarquer	V	V	n=p|t=P,S|p=3	0	root	0	root
+8	et	et	CC	CC		7	coord	7	coord
+9	Maximilien	Maximilien	NPP	NPP	n=s|g=m	23	suj	23	suj
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	frère	frère	NC	NC	n=s|g=m	9	mod	9	mod
+12	de	de	P	P		11	dep	11	dep
+13	l’	le	DET	DET	n=s	14	det	14	det
+14	empereur	empereur	NC	NC	n=s|g=m	12	prep	12	prep
+15	d’	de	P	P		11	dep	11	dep
+16	Autriche	Autriche	NPP	NPP	n=s|g=f	15	prep	15	prep
+17	François-Joseph	François-Joseph	NPP	NPP	n=s|g=m	16	mod	16	mod
+18	Ier	_	NPP	NPP		16	mod	16	mod
+19	d'	de	P	P		11	dep	11	dep
+20	Autriche	Autriche	NPP	NPP	n=s|g=f	19	prep	19	prep
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	est	être	V	V	n=s|t=P|p=3	23	aux_tps	23	aux_tps
+23	proclamé	proclamer	VPP	VPP	n=s|g=m|t=K	8	dep_coord	8	dep_coord
+24	empereur	empereur	NC	NC	n=s|g=m	23	mod	23	mod
+25	du	de	P+D	P+D	n=s|g=m	23	mod	23	mod
+26	Mexique	Mexique	NPP	NPP	n=s|g=m	25	prep	25	prep
+27	.	.	PONCT	PONCT		26	ponct	26	ponct
+
+</p><p>
+1	Le	le	DET	DET	n=s|g=m	3	det	3	det
+2	nouvel	_	ADJ	ADJ		3	mod	3	mod
+3	empereur	empereur	NC	NC	n=s|g=m	4	suj	4	suj
+4	écarte	écarter	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+5	du	de	P+D	P+D	n=s|g=m	4	mod	4	mod
+6	pouvoir	pouvoir	NC	NC	n=s|g=m	5	prep	5	prep
+7	les	les	DET	DET	n=p	0	_	0	_
+8	ultra-catholiques	_	ADJ	ADJ		0	_	0	_
+9	et	et	CC	CC		8	coord	8	coord
+10	s'	se	CLR	CLR	n=p,s|p=3	11	aff	11	aff
+11	appuie	appuyer	V	V	n=s|t=P,S|p=1,3	9	dep_coord	9	dep_coord
+12	sur	sur	P	P		11	mod	11	mod
+13	les	les	DET	DET	n=p	14	det	14	det
+14	modérés	modérer	ADJ	ADJ	n=p|g=m|t=K	12	prep	12	prep
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	abolit	abolir	V	V	n=s|t=J,P|p=3	0	root	0	root
+3	notamment	_	ADV	ADV		2	mod	2	mod
+4	le	le	DET	DET	n=s|g=m	5	det	5	det
+5	servage	servage	NC	NC	n=s|g=m	2	obj	2	obj
+6	imposé	imposer	VPP	VPP	n=s|g=m|t=K	5	mod	5	mod
+7	aux	à	P+D	P+D	n=p	6	mod	6	mod
+8	paysans	paysan	NC	NC	n=p|g=m	7	prep	7	prep
+9	d’	de	P	P		8	dep	8	dep
+10	origine	origine	NC	NC	n=s|g=f	9	prep	9	prep
+11	indienne	indien	ADJ	ADJ	n=s|g=f	10	mod	10	mod
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+1	À	à	P	P		9	mod	9	mod
+2	partir	partir	VINF	VINF	t=W	1	prep	1	prep
+3	du	de	P+D	P+D	n=s|g=m	2	mod	2	mod
+4	3	3	ADJ	ADJ		5	mod	5	mod
+5	octobre	octobre	NC	NC	n=s|g=m	3	prep	3	prep
+6	1865	1865	NC	NC		5	mod	5	mod
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	il	il	CLS	CLS	n=s|g=m|p=3	9	suj	9	suj
+9	déclare	déclarer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+10	le	le	DET	DET	n=s|g=m	11	det	11	det
+11	républicanisme	républicanisme	NC	NC	n=s|g=m	9	obj	9	obj
+12	illégal	illégal	ADJ	ADJ	n=s|g=m	11	mod	11	mod
+13	et	et	CC	CC		9	coord	9	coord
+14	les	les	DET	DET	n=p	15	det	15	det
+15	républicains	républicain	NC	NC	n=p|g=m	17	suj	17	suj
+16	sont	être	V	V	n=p|t=P|p=3	17	aux_pass	17	aux_pass
+17	condamnés	condamner	VPP	VPP	n=p|g=m|t=K	13	dep_coord	13	dep_coord
+18	à	à	P	P		17	mod	17	mod
+19	mort	mort	NC	NC	n=s|g=f,m	18	prep	18	prep
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	ce	ce	PRO	PRO	n=s	17	mod	17	mod
+22	qui	qui	PROREL	PROREL	n=s	23	suj	23	suj
+23	rend	rendre	V	V	n=s|t=P|p=3	21	mod_rel	21	mod_rel
+24	le	le	DET	DET	n=s|g=m	25	det	25	det
+25	régime	régime	NC	NC	n=s|g=m	23	obj	23	obj
+26	très	très	ADV	ADV		27	mod	27	mod
+27	impopulaire	impopulaire	ADJ	ADJ	n=s	25	mod	25	mod
+28	.	.	PONCT	PONCT		27	ponct	27	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	France	France	NPP	NPP	n=s|g=f,m	3	suj	3	suj
+3	abandonne	abandonner	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	Maximilien	Maximilien	NPP	NPP	n=s|g=m	3	obj	3	obj
+5	en	en	P	P		3	mod	3	mod
+6	novembre	novembre	NC	NC	n=s|g=m	5	prep	5	prep
+7	1865	1865	NC	NC		6	mod	6	mod
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	suite	suite	NC	NC	n=s|g=f	3	mod	3	mod
+10	aux	à	P+D	P+D	n=p	9	dep	9	dep
+11	pressions	pression	NC	NC	n=p|g=f	10	prep	10	prep
+12	des	de	P+D	P+D	n=p	11	dep	11	dep
+13	États-Unis	États-Unis_d'Amérique	NPP	NPP	n=p|g=m	12	prep	12	prep
+14	qui	qui	PROREL	PROREL	n=s	15	suj	15	suj
+15	soutenaient	soutenir	V	V	n=p|t=I|p=3	3	mod	3	mod
+16	Juarez	_	NPP	NPP		15	suj	15	suj
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+1	Le	le	DET	DET	n=s|g=m	3	det	3	det
+2	30	30	ADJ	ADJ		3	mod	3	mod
+3	novembre	novembre	NC	NC	n=s|g=m	9	suj	9	suj
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	Juarez	_	NPP	NPP		3	mod	3	mod
+6	et	et	CC	CC		3	coord	3	coord
+7	les	les	DET	DET	n=p	8	det	8	det
+8	républicains	républicain	NC	NC	n=p|g=m	6	dep_coord	6	dep_coord
+9	reprennent	reprendre	V	V	n=p|t=P,S|p=3	0	root	0	root
+10	le	le	DET	DET	n=s|g=m	11	det	11	det
+11	pouvoir	pouvoir	NC	NC	n=s|g=m	9	obj	9	obj
+12	mais	mais	CC	CC		9	coord	9	coord
+13	Maximilien	Maximilien	NPP	NPP	n=s|g=m	14	suj	14	suj
+14	refuse	refuser	V	V	n=s|t=P,S|p=1,3	12	dep_coord	12	dep_coord
+15	d’	de	P	P		14	obj	14	obj
+16	abdiquer	abdiquer	VINF	VINF	t=W	15	prep	15	prep
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	3	suj	3	suj
+2	est	être	V	V	n=s|t=P|p=3	3	aux_tps	3	aux_tps
+3	fusillé	fusiller	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+4	le	le	DET	DET	n=s|g=m	6	det	6	det
+5	19	19	ADJ	ADJ		6	mod	6	mod
+6	juin	juin	NC	NC	n=s|g=m	3	mod	3	mod
+7	1867	1867	NC	NC		6	mod	6	mod
+8	.	.	PONCT	PONCT		7	ponct	7	ponct
+
+</p><h2>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	Révolution	révolution	NC	NC	n=s|g=f	0	_	0	_
+
+</h2><p>
+1	En	en	P	P		6	mod	6	mod
+2	1872	1872	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	Lerdo	_	NPP	NPP		6	suj	6	suj
+5	est	être	V	V	n=s|t=P|p=3	6	aux_tps	6	aux_tps
+6	élu	élire	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+7	président	président	NC	NC	n=s|g=m	6	obj	6	obj
+8	et	et	CC	CC		6	coord	6	coord
+9	met	mettre	V	V	n=s|t=P|p=3	8	dep_coord	8	dep_coord
+10	en	en	P	P		9	mod	9	mod
+11	place	place	NC	NC	n=s|g=f	10	prep	10	prep
+12	des	de	P+D	P+D	n=p	9	mod	9	mod
+13	réformes	réforme	NC	NC	n=p|g=f	12	prep	12	prep
+14	démocratiques	démocratique	ADJ	ADJ	n=p	13	mod	13	mod
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+1	L’	le	DET	DET	n=s	2	det	2	det
+2	Église	église	NC	NC	n=s|g=f	7	suj	7	suj
+3	et	et	CC	CC		2	coord	2	coord
+4	l’	le	DET	DET	n=s	5	det	5	det
+5	État	État	NC	NC	n=s|g=m	3	dep_coord	3	dep_coord
+6	sont	être	V	V	n=p|t=P|p=3	7	aux_pass	7	aux_pass
+7	séparés	séparer	VPP	VPP	n=p|g=m|t=K	0	root	0	root
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	les	les	DET	DET	n=p	10	det	10	det
+10	mariages	mariage	NC	NC	n=p|g=m	13	suj	13	suj
+11	civils	civil	ADJ	ADJ	n=p|g=m	10	mod	10	mod
+12	sont	être	V	V	n=p|t=P|p=3	13	aux_pass	13	aux_pass
+13	instaurés	instaurer	VPP	VPP	n=p|g=m|t=K	7	mod	7	mod
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	le	le	DET	DET	n=s|g=m	16	det	16	det
+16	pouvoir	pouvoir	NC	NC	n=s|g=m	13	mod	13	mod
+17	territorial	territorial	ADJ	ADJ	n=s|g=m	16	mod	16	mod
+18	du	de	P+D	P+D	n=s|g=m	16	dep	16	dep
+19	clergé	clergé	NC	NC	n=s|g=m	18	prep	18	prep
+20	est	être	V	V	n=s|t=P|p=3	0	_	0	_
+21	diminué	diminuer	VPP	VPP	n=s|g=m|t=K	20	ponct	20	ponct
+22	et	et	CC	CC		21	coord	21	coord
+23	les	les	DET	DET	n=p	24	det	24	det
+24	juges	juge	NC	NC	n=p|g=m	26	suj	26	suj
+25	ne	ne	ADV	ADV		26	mod	26	mod
+26	jurent	jurer	V	V	n=p|t=P,S|p=3	22	dep_coord	22	dep_coord
+27	plus	plus	ADV	ADV		26	mod	26	mod
+28	sur	sur	P	P		26	mod	26	mod
+29	la	la	DET	DET	n=s|g=f	30	det	30	det
+30	Bible	_	NPP	NPP		28	prep	28	prep
+31	.	.	PONCT	PONCT		30	ponct	30	ponct
+
+1	Lerdo	_	NPP	NPP		2	suj	2	suj
+2	crée	créer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	des	des	DET	DET	n=p	4	det	4	det
+4	routes	route	NC	NC	n=p|g=f	2	obj	2	obj
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	des	des	DET	DET	n=p	7	det	7	det
+7	chemins	chemin	NC	NC	n=p|g=m	2	mod	2	mod
+8	de	de	P	P		7	dep	7	dep
+9	fer	fer	NC	NC	n=s|g=m	8	prep	8	prep
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	la	la	DET	DET	n=s|g=f	12	det	12	det
+12	marine	marine	NC	NC	n=s	2	obj	2	obj
+13	et	et	CC	CC		2	coord	2	coord
+14	met	mettre	V	V	n=s|t=P|p=3	13	dep_coord	13	dep_coord
+15	en	en	P	P		14	mod	14	mod
+16	place	place	NC	NC	n=s|g=f	15	prep	15	prep
+17	le	le	DET	DET	n=s|g=m	18	det	18	det
+18	téléphone	téléphone	NC	NC	n=s|g=m	14	obj	14	obj
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	Sa	sa	DET	DET	n=s|g=f|p=3|poss=s	4	det	4	det
+2	plus	plus	ADV	ADV		3	mod	3	mod
+3	belle	beau	ADJ	ADJ	n=s|g=f	4	mod	4	mod
+4	réussite	réussite	NC	NC	n=s|g=f	5	suj	5	suj
+5	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+6	la	la	DET	DET	n=s|g=f	7	det	7	det
+7	liberté	liberté	NC	NC	n=s|g=f	5	obj	5	obj
+8	totale	total	ADJ	ADJ	n=s|g=f	7	mod	7	mod
+9	de	de	P	P		5	mod	5	mod
+10	la	la	DET	DET	n=s|g=f	11	det	11	det
+11	presse	presse	NC	NC	n=s|g=f	9	prep	9	prep
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	et	et	CC	CC		5	coord	5	coord
+14	pourtant	pourtant	ADV	ADV		17	mod	17	mod
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	c’	ce	CLS	CLS		17	suj	17	suj
+17	est	être	V	V	n=s|t=P|p=3	13	dep_coord	13	dep_coord
+18	la	la	DET	DET	n=s|g=f	19	det	19	det
+19	presse	presse	NC	NC	n=s|g=f	17	obj	17	obj
+20	qui	qui	PROREL	PROREL	n=s	21	suj	21	suj
+21	contribuera	contribuer	V	V	n=s|t=F|p=3	19	mod_rel	19	mod_rel
+22	à	à	P	P		21	mod	21	mod
+23	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	24	det	24	det
+24	chute	chute	NC	NC	n=s|g=f	22	prep	22	prep
+25	,	,	PONCT	PONCT		24	ponct	24	ponct
+26	le	le	CLO	CLO	n=s|g=m|p=3	27	obj	27	obj
+27	ridiculisant	ridiculiser	VPR	VPR	t=G	21	mod	21	mod
+28	jusqu'	jusque	P	P		27	mod	27	mod
+29	à	à	P	P		28	prep	28	prep
+30	ce	ce	PRO	PRO	n=s	29	prep	29	prep
+31	qu'	que	PROREL	PROREL		33	obj	33	obj
+32	il	il	CLS	CLS	n=s|g=m|p=3	33	suj	33	suj
+33	démissionne	démissionner	V	V	n=s|t=P,S|p=1,3	30	mod_rel	30	mod_rel
+34	.	.	PONCT	PONCT		33	ponct	33	ponct
+
+</p><p>
+1	En	en	P	P		16	mod	16	mod
+2	1884	1884	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	Porfirio	Porfirio	NPP	NPP	n=s|g=m	16	suj	16	suj
+5	Díaz	_	NPP	NPP		4	mod	4	mod
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	militaire	militaire	ADJ	ADJ	n=s	4	mod	4	mod
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	général	général	ADJ	ADJ	n=s|g=m	4	mod	4	mod
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	réputé	réputer	VPP	VPP	n=s|g=m|t=K	4	mod	4	mod
+12	pour	pour	P	P		11	mod	11	mod
+13	son	son	DET	DET	n=s|g=m|p=3|poss=s	14	det	14	det
+14	patriotisme	patriotisme	NC	NC	n=s|g=m	12	prep	12	prep
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	accède	accéder	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+17	à	à	P	P		16	mod	16	mod
+18	la	la	DET	DET	n=s|g=f	19	det	19	det
+19	présidence	présidence	NC	NC	n=s|g=f	17	prep	17	prep
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+1	Une	une	DET	DET	n=s|g=f	6	suj	6	suj
+2	de	de	P	P		1	dep	1	dep
+3	ses	ses	DET	DET	n=p|p=3|poss=s	5	det	5	det
+4	premières	premier	ADJ	ADJ	n=p|g=f	5	mod	5	mod
+5	actions	action	NC	NC	n=p|g=f	2	prep	2	prep
+6	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+7	de	de	P	P		6	mod	6	mod
+8	modifier	modifier	VINF	VINF	t=W	7	prep	7	prep
+9	la	la	DET	DET	n=s|g=f	10	det	10	det
+10	Constitution	constitution	NC	NC	n=s|g=f	8	obj	8	obj
+11	pour	pour	P	P		6	mod	6	mod
+12	avoir	avoir	VINF	VINF	t=W	11	prep	11	prep
+13	le	le	DET	DET	n=s|g=m	14	det	14	det
+14	droit	droit	NC	NC	n=s|g=m	12	obj	12	obj
+15	d'	de	P	P		6	mod	6	mod
+16	être	être	VINF	VINF	t=W	17	aux_tps	17	aux_tps
+17	réélu	réélire	VPP	VPP	n=s|g=m|t=K	15	prep	15	prep
+18	plusieurs	plusieurs	DET	DET	n=p	19	det	19	det
+19	fois	fois	NC	NC	g=f	17	obj	17	obj
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+1	Bien	bien	ADV	ADV		2	mod	2	mod
+2	que	que	CS	CS		0	root	0	root
+3	respectant	respecter	VPR	VPR	t=G	8	mod	8	mod
+4	les	les	DET	DET	n=p	5	det	5	det
+5	lois	loi	NC	NC	n=p|g=f	3	obj	3	obj
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	il	il	CLS	CLS	n=s|g=m|p=3	8	suj	8	suj
+8	fut	être	V	V	n=s|t=J|p=3	0	root	0	root
+9	malgré	malgré	P	P		8	mod	8	mod
+10	tout	tout	ADJ	ADJ	n=s|g=m	12	mod	12	mod
+11	un	un	DET	DET	n=s|g=m	12	det	12	det
+12	dictateur	dictateur	NC	NC	n=s|g=m	9	prep	9	prep
+13	.	.	PONCT	PONCT		12	ponct	12	ponct
+
+1	Certains	certain	PRO	PRO	n=p|g=m	2	suj	2	suj
+2	considèrent	considérer	V	V	n=p|t=P,S|p=3	0	root	0	root
+3	cependant	cependant	ADV	ADV		2	mod	2	mod
+4	que	que	CS	CS		2	obj	2	obj
+5	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	6	det	6	det
+6	dictature	dictature	NC	NC	n=s|g=f	7	suj	7	suj
+7	développa	développer	V	V	n=s|t=J|p=3	4	sub	4	sub
+8	le	le	DET	DET	n=s|g=m	9	det	9	det
+9	pays	pays	NC	NC	g=m	7	obj	7	obj
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+1	Franc	franc	NC	NC	n=s|g=m	7	mod	7	mod
+2	-	-	PONCT	PONCT		1	ponct	1	ponct
+3	Maçon	maçon	NC	NC	n=s|g=m	1	mod	1	mod
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	il	il	CLS	CLS	n=s|g=m|p=3	7	suj	7	suj
+6	s’	se	CLR	CLR	n=p,s|p=3	7	aff	7	aff
+7	entoure	entourer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+8	d’	de	P	P		7	mod	7	mod
+9	intellectuels	intellectuel	NC	NC	n=p|g=m	8	prep	8	prep
+10	athées	athée	ADJ	ADJ	n=p	9	mod	9	mod
+11	positivistes	positiviste	NC	NC	n=p	9	mod	9	mod
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	les	les	DET	DET	n=p	14	det	14	det
+14	Cientificos	_	NPP	NPP		7	mod	7	mod
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	qui	qui	PROREL	PROREL	n=s	17	suj	17	suj
+17	contrôlent	contrôler	V	V	n=p|t=P,S|p=3	14	mod_rel	14	mod_rel
+18	entièrement	_	ADV	ADV		17	mod	17	mod
+19	l’	le	DET	DET	n=s	20	det	20	det
+20	éducation	éducation	NC	NC	n=s|g=f	17	obj	17	obj
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	les	les	DET	DET	n=p	23	det	23	det
+23	finances	finance	NC	NC	n=p|g=f	17	obj	17	obj
+24	et	et	CC	CC		23	coord	23	coord
+25	l’	le	DET	DET	n=s	26	det	26	det
+26	économie	économie	NC	NC	n=s|g=f	24	dep_coord	24	dep_coord
+27	pendant	pendant	P	P		17	mod	17	mod
+28	que	que	PROREL	PROREL		27	prep	27	prep
+29	Díaz	_	NPP	NPP		31	suj	31	suj
+30	s’	se	CLR	CLR	n=p,s|p=3	31	aff	31	aff
+31	occupe	occuper	V	V	n=s|t=P,S|p=1,3	28	root	28	root
+32	de	de	P	P		31	mod	31	mod
+33	la	la	DET	DET	n=s|g=f	34	det	34	det
+34	politique	politique	NC	NC	n=s|g=f	32	prep	32	prep
+35	et	et	CC	CC		31	coord	31	coord
+36	de	de	P	P		35	dep_coord	35	dep_coord
+37	l’	le	DET	DET	n=s	38	det	38	det
+38	armée	armée	NC	NC	n=s|g=f	36	prep	36	prep
+39	.	.	PONCT	PONCT		38	ponct	38	ponct
+
+</p><p>
+1	En	en	P	P		6	mod	6	mod
+2	1910	1910	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	Francesco	Francesco	NPP	NPP	n=s|g=m	6	suj	6	suj
+5	Madero	_	NPP	NPP		4	mod	4	mod
+6	publie	publier	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+7	un	un	DET	DET	n=s|g=m	8	det	8	det
+8	livre	livre	NC	NC	n=s	6	obj	6	obj
+9	dans	dans	P	P		6	mod	6	mod
+10	lequel	lequel	PROREL	PROREL	n=s|g=m	12	mod	12	mod
+11	il	il	CLS	CLS	n=s|g=m|p=3	12	suj	12	suj
+12	dénonce	dénoncer	V	V	n=s|t=P,S|p=1,3	6	mod	6	mod
+13	la	la	DET	DET	n=s|g=f	14	det	14	det
+14	réélection	réélection	NC	NC	n=s|g=f	12	obj	12	obj
+15	du	de	P+D	P+D	n=s|g=m	14	dep	14	dep
+16	président	président	NC	NC	n=s|g=m	15	prep	15	prep
+17	Diaz	_	NPP	NPP		16	mod	16	mod
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	a	avoir	V	V	n=s|t=P|p=3	0	root	0	root
+3	rapidement	_	ADV	ADV		2	mod	2	mod
+4	un	un	DET	DET	n=s|g=m	5	det	5	det
+5	succès	succès	NC	NC	g=m	2	obj	2	obj
+6	inouï	inouï	ADJ	ADJ	n=s|g=m	5	mod	5	mod
+7	dans	dans	P	P		2	mod	2	mod
+8	la	la	DET	DET	n=s|g=f	9	det	9	det
+9	population	population	NC	NC	n=s|g=f	7	prep	7	prep
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	mais	mais	CC	CC		2	coord	2	coord
+12	le	le	DET	DET	n=s|g=m	13	det	13	det
+13	président	président	NC	NC	n=s|g=m	0	_	0	_
+14	Díaz	_	NPP	NPP		13	mod	13	mod
+15	le	le	DET	DET	n=s|g=m	16	det	16	det
+16	fait	fait	NC	NC	n=s|g=m	13	mod	13	mod
+17	arrêter	arrêter	VINF	VINF	t=W	13	dep	13	dep
+18	pour	pour	P	P		17	mod	17	mod
+19	trouble	trouble	NC	NC	n=s	18	prep	18	prep
+20	de	de	P	P		17	mod	17	mod
+21	l’	le	DET	DET	n=s	22	det	22	det
+22	ordre	ordre	NC	NC	n=s|g=m	20	prep	20	prep
+23	public	public	ADJ	ADJ	n=s|g=m	22	mod	22	mod
+24	.	.	PONCT	PONCT		23	ponct	23	ponct
+
+1	Parvenant	parvenir	VPR	VPR	t=G	7	mod	7	mod
+2	à	à	P	P		1	mod	1	mod
+3	s’	se	CLR	CLR	n=p,s|p=3	4	aff	4	aff
+4	échapper	échapper	VINF	VINF	t=W	2	prep	2	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	Madero	_	NPP	NPP		7	suj	7	suj
+7	convainc	convaincre	V	V	n=s|t=P|p=3	0	root	0	root
+8	le	le	DET	DET	n=s|g=m	9	det	9	det
+9	peuple	peuple	NC	NC	n=s|g=m	7	obj	7	obj
+10	de	de	P	P		7	mod	7	mod
+11	se	se	CLR	CLR	n=p,s|p=3	12	aff	12	aff
+12	révolter	révolter	VINF	VINF	t=W	10	prep	10	prep
+13	.	.	PONCT	PONCT		12	ponct	12	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	police	police	NC	NC	n=s|g=f	4	suj	4	suj
+3	mexicaine	mexicain	ADJ	ADJ	n=s|g=f	2	mod	2	mod
+4	assiège	assiéger	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+5	l’	le	DET	DET	n=s	6	det	6	det
+6	entrepôt	entrepôt	NC	NC	n=s|g=m	4	obj	4	obj
+7	où	où	PROREL	PROREL		10	suj	10	suj
+8	se	se	CLR	CLR	n=p,s|p=3	10	aff	10	aff
+9	sont	être	V	V	n=p|t=P|p=3	10	aux_tps	10	aux_tps
+10	réfugiés	réfugier	VPP	VPP	n=p|g=m|t=K	6	mod_rel	6	mod_rel
+11	le	le	DET	DET	n=s|g=m	14	det	14	det
+12	plus	plus	ADV	ADV		13	mod	13	mod
+13	proche	proche	ADJ	ADJ	n=s	14	mod	14	mod
+14	lieutenant	lieutenant	NC	NC	n=s|g=m	10	mod	10	mod
+15	de	de	P	P		10	mod	10	mod
+16	Madero	_	NPP	NPP		15	prep	15	prep
+17	et	et	CC	CC		6	coord	6	coord
+18	les	les	DET	DET	n=p	19	det	19	det
+19	exécutent	_	NC	NC		17	dep_coord	17	dep_coord
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+1	Madero	_	NPP	NPP		2	suj	2	suj
+2	organise	organiser	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	une	une	DET	DET	n=s|g=f	4	det	4	det
+4	armée	armée	NC	NC	n=s|g=f	2	obj	2	obj
+5	commandée	commander	VPP	VPP	n=s|g=f|t=K	4	mod	4	mod
+6	par	par	P	P		5	mod	5	mod
+7	lui	lui	PRO	PRO	n=s|g=m|p=3	6	prep	6	prep
+8	-	-	PONCT	PONCT		7	ponct	7	ponct
+9	même	même	ADV	ADV		5	mod	5	mod
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	par	par	P	P		5	mod	5	mod
+12	Pascual	Pascual	NPP	NPP	n=s|g=m	11	prep	11	prep
+13	Orozco	_	NPP	NPP		12	mod	12	mod
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	un	un	DET	DET	n=s|g=m	16	det	16	det
+16	mineur	mineur	NC	NC	n=s|g=m	12	mod	12	mod
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	et	et	CC	CC		11	coord	11	coord
+19	par	par	P	P		18	dep_coord	18	dep_coord
+20	Francisco	Francisco	NPP	NPP	n=s|g=m	19	prep	19	prep
+21	Villa	_	NPP	NPP		20	mod	20	mod
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+23	un	un	DET	DET	n=s|g=m	24	det	24	det
+24	chef	chef	NC	NC	n=s	2	mod	2	mod
+25	de	de	P	P		24	dep	24	dep
+26	gang	gang	NC	NC	n=s|g=m	25	prep	25	prep
+27	à	à	P	P		2	mod	2	mod
+28	qui	qui	PROREL	PROREL	n=s	27	prep	27	prep
+29	il	il	CLS	CLS	n=s|g=m|p=3	31	suj	31	suj
+30	avait	avoir	V	V	n=s|t=I|p=3	31	aux_tps	31	aux_tps
+31	promis	promettre	VPP	VPP	g=m|t=K	2	mod	2	mod
+32	le	le	DET	DET	n=s|g=m	33	det	33	det
+33	pardon	pardon	NC	NC	n=s|g=m	31	obj	31	obj
+34	de	de	P	P		31	mod	31	mod
+35	ses	ses	DET	DET	n=p|p=3|poss=s	36	det	36	det
+36	crimes	crime	NC	NC	n=p|g=m	34	prep	34	prep
+37	et	et	CC	CC		31	coord	31	coord
+38	le	le	DET	DET	n=s|g=m	39	det	39	det
+39	poste	poste	NC	NC	n=s	37	dep_coord	37	dep_coord
+40	de	de	P	P		39	dep	39	dep
+41	colonel	colonel	NC	NC	n=s|g=m	40	prep	40	prep
+42	.	.	PONCT	PONCT		41	ponct	41	ponct
+
+1	Le	le	DET	DET	n=s|g=m	3	det	3	det
+2	10	10	ADJ	ADJ		3	mod	3	mod
+3	mai	mai	NC	NC	n=s|g=m	6	mod	6	mod
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	ils	ils	CLS	CLS	n=p|g=m|p=3	6	suj	6	suj
+6	prennent	prendre	V	V	n=p|t=P,S|p=3	0	root	0	root
+7	la	la	DET	DET	n=s|g=f	8	det	8	det
+8	ville	ville	NC	NC	n=s|g=f	6	obj	6	obj
+9	de	de	P	P		8	dep	8	dep
+10	Ciudad	_	NPP	NPP		9	prep	9	prep
+11	Juarez	_	NPP	NPP		10	mod	10	mod
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	qui	qui	PROREL	PROREL	n=s	14	suj	14	suj
+14	devient	devenir	V	V	n=s|t=P|p=3	8	mod_rel	8	mod_rel
+15	leur	leur	DET	DET	n=s|p=3|poss=p	16	det	16	det
+16	quartier	quartier	NC	NC	n=s|g=m	14	obj	14	obj
+17	général	général	ADJ	ADJ	n=s|g=m	16	mod	16	mod
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	Le	le	DET	DET	n=s|g=m	3	det	3	det
+2	15	15	ADJ	ADJ		3	mod	3	mod
+3	mai	mai	NC	NC	n=s|g=m	6	mod	6	mod
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	ils	ils	CLS	CLS	n=p|g=m|p=3	6	suj	6	suj
+6	prennent	prendre	V	V	n=p|t=P,S|p=3	0	root	0	root
+7	Torréon	_	NPP	NPP		6	obj	6	obj
+8	où	où	PROREL	PROREL		10	mod	10	mod
+9	ils	ils	CLS	CLS	n=p|g=m|p=3	10	suj	10	suj
+10	massacrent	massacrer	V	V	n=p|t=P,S|p=3	7	mod_rel	7	mod_rel
+11	303	303	ADJ	ADJ		12	mod	12	mod
+12	émigrés	émigré	NC	NC	n=p|g=m	10	obj	10	obj
+13	chinois	chinois	ADJ	ADJ	g=m	12	mod	12	mod
+14	soupçonnés	soupçonner	VPP	VPP	n=p|g=m|t=K	12	mod	12	mod
+15	de	de	P	P		14	mod	14	mod
+16	soutenir	soutenir	VINF	VINF	t=W	15	prep	15	prep
+17	Diaz	_	NPP	NPP		16	obj	16	obj
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	Le	le	DET	DET	n=s|g=m	3	det	3	det
+2	21	21	ADJ	ADJ		3	mod	3	mod
+3	mai	mai	NC	NC	n=s|g=m	7	suj	7	suj
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	celui-ci	celui-ci	PRO	PRO	n=s|g=m	3	mod	3	mod
+6	se	se	CLR	CLR	n=p,s|p=3	7	aff	7	aff
+7	condamne	condamner	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+8	à	à	P	P		7	mod	7	mod
+9	l’	le	DET	DET	n=s	10	det	10	det
+10	exil	exil	NC	NC	n=s|g=m	8	prep	8	prep
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+</p><p>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	fuite	fuite	NC	NC	n=s|g=f	5	suj	5	suj
+3	de	de	P	P		2	dep	2	dep
+4	Díaz	_	NPP	NPP		3	prep	3	prep
+5	entraîne	entraîner	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+6	la	la	DET	DET	n=s|g=f	7	det	7	det
+7	mise	mise	NC	NC	n=s|g=f	5	obj	5	obj
+8	en	en	P	P		7	dep	7	dep
+9	place	place	NC	NC	n=s|g=f	8	prep	8	prep
+10	d’	de	P	P		5	mod	5	mod
+11	un	un	DET	DET	n=s|g=m	12	det	12	det
+12	gouvernement	gouvernement	NC	NC	n=s|g=m	10	prep	10	prep
+13	provisoire	provisoire	ADJ	ADJ	n=s	12	mod	12	mod
+14	qui	qui	PROREL	PROREL	n=s	15	suj	15	suj
+15	élit	élire	V	V	n=s|t=P|p=3	12	mod_rel	12	mod_rel
+16	Madero	_	NPP	NPP		15	obj	15	obj
+17	président	président	NC	NC	n=s|g=m	16	mod	16	mod
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	Mais	mais	CC	CC		0	root	0	root
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	le	le	DET	DET	n=s|g=m	5	det	5	det
+4	nouveau	nouveau	ADJ	ADJ	n=s|g=m	5	mod	5	mod
+5	président	président	NC	NC	n=s|g=m	7	suj	7	suj
+6	ne	ne	ADV	ADV		7	mod	7	mod
+7	fait	faire	V	V	n=s|t=P|p=3	1	dep_coord	1	dep_coord
+8	pas	pas	ADV	ADV		7	mod	7	mod
+9	les	les	DET	DET	n=p	10	det	10	det
+10	réformes	réforme	NC	NC	n=p|g=f	7	obj	7	obj
+11	attendues	attendre	VPP	VPP	n=p|g=f|t=K	10	mod	10	mod
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	l’	le	DET	DET	n=s	14	det	14	det
+14	armée	armée	NC	NC	n=s|g=f	16	suj	16	suj
+15	s’	se	CLR	CLR	n=p,s|p=3	16	aff	16	aff
+16	agite	agiter	V	V	n=s|t=P,S|p=1,3	7	mod	7	mod
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	de	de	DET	DET	n=p	20	det	20	det
+19	nombreux	nombreux	ADJ	ADJ	g=m	20	mod	20	mod
+20	généraux	général	NC	NC	n=p|g=m	16	mod	16	mod
+21	se	se	CLR	CLR	n=p,s|p=3	22	aff	22	aff
+22	révoltent	révolter	V	V	n=p|t=P,S|p=3	16	mod	16	mod
+23	et	et	CC	CC		22	coord	22	coord
+24	l’	le	DET	DET	n=s	25	det	25	det
+25	un	un	PRO	PRO	n=s|g=m	23	dep_coord	23	dep_coord
+26	d'	de	P	P		25	dep	25	dep
+27	eux	eux	PRO	PRO	n=p|g=m|p=3	26	prep	26	prep
+28	,	,	PONCT	PONCT		27	ponct	27	ponct
+29	Victoriano	_	NPP	NPP		25	mod	25	mod
+30	Huerta	_	NPP	NPP		29	mod	29	mod
+31	,	,	PONCT	PONCT		30	ponct	30	ponct
+32	emprisonne	emprisonner	V	V	n=s|t=P,S|p=1,3	16	mod	16	mod
+33	Madero	_	NPP	NPP		32	suj	32	suj
+34	et	et	CC	CC		16	coord	16	coord
+35	le	le	DET	DET	n=s|g=m	36	det	36	det
+36	fait	fait	NC	NC	n=s|g=m	0	_	0	_
+37	tuer	tuer	VINF	VINF	t=W	36	dep	36	dep
+38	le	le	DET	DET	n=s|g=m	40	det	40	det
+39	22	22	ADJ	ADJ		40	mod	40	mod
+40	février	février	NC	NC	n=s|g=m	37	mod	37	mod
+41	1912	1912	NC	NC		40	mod	40	mod
+42	.	.	PONCT	PONCT		41	ponct	41	ponct
+
+</p><p>
+1	Avec	avec	P	P		11	mod	11	mod
+2	l’	le	DET	DET	n=s	3	det	3	det
+3	aide	aide	NC	NC	n=s	1	prep	1	prep
+4	du	de	P+D	P+D	n=s|g=m	3	dep	3	dep
+5	vice-consul	vice-consul	NC	NC	n=s|g=m	4	prep	4	prep
+6	de	de	P	P		3	dep	3	dep
+7	Russie	Russie	NPP	NPP	n=s|g=f	6	prep	6	prep
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	Huerta	_	NPP	NPP		11	suj	11	suj
+10	s’	se	CLR	CLR	n=p,s|p=3	11	aff	11	aff
+11	empare	emparer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+12	des	des	DET	DET	n=p	13	det	13	det
+13	ports	port	NC	NC	n=p|g=m	11	obj	11	obj
+14	mexicains	mexicain	ADJ	ADJ	n=p|g=m	13	mod	13	mod
+15	et	et	CC	CC		11	coord	11	coord
+16	occupe	occuper	V	V	n=s|t=P,S|p=1,3	15	dep_coord	15	dep_coord
+17	Veracruz	_	NPP	NPP		16	obj	16	obj
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	Mais	mais	CC	CC		0	root	0	root
+2	les	les	DET	DET	n=p	3	det	3	det
+3	Etats-Unis	_	NPP	NPP		4	suj	4	suj
+4	voient	voir	V	V	n=p|t=P,S|p=3	1	dep_coord	1	dep_coord
+5	d’	de	P	P		4	mod	4	mod
+6	un	un	DET	DET	n=s|g=m	9	det	9	det
+7	très	très	ADV	ADV		8	mod	8	mod
+8	mauvais	mauvais	ADJ	ADJ	g=m	9	mod	9	mod
+9	œil	_	NC	NC		5	prep	5	prep
+10	son	son	DET	DET	n=s|g=m|p=3|poss=s	11	det	11	det
+11	arrivée	arrivée	NC	NC	n=s|g=f	4	obj	4	obj
+12	au	à	P+D	P+D	n=s|g=m	4	mod	4	mod
+13	pouvoir	pouvoir	NC	NC	n=s|g=m	12	prep	12	prep
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+1	Huerta	huerta	NC	NC	n=s|g=f	7	suj	7	suj
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	devant	devant	P	P		7	mod	7	mod
+4	les	les	DET	DET	n=p	5	det	5	det
+5	pressions	pression	NC	NC	n=p|g=f	3	prep	3	prep
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	renonce	renoncer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+8	à	à	P	P		7	mod	7	mod
+9	la	la	DET	DET	n=s|g=f	10	det	10	det
+10	présidence	présidence	NC	NC	n=s|g=f	8	prep	8	prep
+11	en	en	P	P		7	mod	7	mod
+12	1914	1914	NC	NC		11	prep	11	prep
+13	.	.	PONCT	PONCT		12	ponct	12	ponct
+
+</p><h2>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	guerre	guerre	NC	NC	n=s|g=f	0	_	0	_
+3	des	de	P+D	P+D	n=p	2	dep	2	dep
+4	Cristeros	_	NC	NC		3	prep	3	prep
+
+</h2><h3>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	causes	cause	NC	NC	n=p|g=f	0	_	0	_
+3	de	de	P	P		2	dep	2	dep
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	guerre	guerre	NC	NC	n=s|g=f	3	prep	3	prep
+
+</h3><p>
+1	La	la	DET	DET	n=s|g=f	3	det	3	det
+2	première	premier	ADJ	ADJ	n=s|g=f	3	mod	3	mod
+3	cause	cause	NC	NC	n=s|g=f	7	suj	7	suj
+4	de	de	P	P		3	dep	3	dep
+5	la	la	DET	DET	n=s|g=f	6	det	6	det
+6	guerre	guerre	NC	NC	n=s|g=f	4	prep	4	prep
+7	fut	être	V	V	n=s|t=J|p=3	0	root	0	root
+8	la	la	DET	DET	n=s|g=f	9	det	9	det
+9	Constitution	constitution	NC	NC	n=s|g=f	7	obj	7	obj
+10	de	de	P	P		7	mod	7	mod
+11	1917	1917	NC	NC		10	prep	10	prep
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+1	Celle-ci	celle-ci	PRO	PRO	n=s|g=f	2	suj	2	suj
+2	était	être	V	V	n=s|t=I|p=3	0	root	0	root
+3	anticatholique	_	NC	NC		2	obj	2	obj
+4	.	.	PONCT	PONCT		3	ponct	3	ponct
+
+</p><p>
+1	-	-	PONCT	PONCT		0	ponct	0	ponct
+2	L’	le	DET	DET	n=s	3	det	3	det
+3	article	article	NC	NC	n=s|g=m	5	suj	5	suj
+4	3	3	ADJ	ADJ		3	mod	3	mod
+5	interdit	interdire	V	V	n=s|t=J,P|p=3	0	root	0	root
+6	aux	à	P+D	P+D	n=p	5	mod	5	mod
+7	prêtres	prêtre	NC	NC	n=p|g=m	6	prep	6	prep
+8	d’	de	P	P		5	mod	5	mod
+9	enseigner	enseigner	VINF	VINF	t=W	8	prep	8	prep
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+
+</p><p>
+1	-	-	PONCT	PONCT		0	ponct	0	ponct
+2	L'	le	DET	DET	n=s	3	det	3	det
+3	article	article	NC	NC	n=s|g=m	5	suj	5	suj
+4	5	5	ADJ	ADJ		3	mod	3	mod
+5	interdit	interdire	V	V	n=s|t=J,P|p=3	0	root	0	root
+6	les	les	DET	DET	n=p	7	det	7	det
+7	ordres	ordre	NC	NC	n=p|g=m	5	obj	5	obj
+8	monastiques	monastique	ADJ	ADJ	n=p	7	mod	7	mod
+9	(	(	PONCT	PONCT		8	ponct	8	ponct
+10	moines	moine	NC	NC	n=p|g=m	7	mod	7	mod
+11	et	et	CC	CC		10	coord	10	coord
+12	nonnes	nonne	NC	NC	n=p	11	dep_coord	11	dep_coord
+13	sont	être	V	V	n=p|t=P|p=3	14	aux_pass	14	aux_pass
+14	expulsés	expulser	VPP	VPP	n=p|g=m|t=K	7	mod_rel	7	mod_rel
+15	)	)	PONCT	PONCT		14	ponct	14	ponct
+16	,	,	PONCT	PONCT		14	ponct	14	ponct
+
+</p><p>
+1	-	-	PONCT	PONCT		0	ponct	0	ponct
+2	L’	le	DET	DET	n=s	3	det	3	det
+3	article	article	NC	NC	n=s|g=m	5	suj	5	suj
+4	24	24	ADJ	ADJ		3	mod	3	mod
+5	interdit	interdire	V	V	n=s|t=J,P|p=3	0	root	0	root
+6	la	la	DET	DET	n=s|g=f	7	det	7	det
+7	célébration	célébration	NC	NC	n=s|g=f	5	obj	5	obj
+8	du	de	P+D	P+D	n=s|g=m	7	dep	7	dep
+9	culte	culte	NC	NC	n=s|g=m	8	prep	8	prep
+10	catholique	catholique	ADJ	ADJ	n=s	9	mod	9	mod
+11	hors	hors	P	P		5	mod	5	mod
+12	des	des	DET	DET	n=p	13	det	13	det
+13	églises	église	NC	NC	n=p|g=f	11	prep	11	prep
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+
+</p><p>
+1	-	-	PONCT	PONCT		0	ponct	0	ponct
+2	L’	le	DET	DET	n=s	3	det	3	det
+3	article	article	NC	NC	n=s|g=m	0	_	0	_
+4	27	27	ADJ	ADJ		3	mod	3	mod
+5	restreint	restreindre	ADJ	ADJ	n=s|g=m|t=K	3	mod	3	mod
+6	les	les	DET	DET	n=p	7	det	7	det
+7	terres	terre	NC	NC	n=p|g=f	0	_	0	_
+8	de	de	P	P		7	dep	7	dep
+9	l’	le	DET	DET	n=s	10	det	10	det
+10	Église	église	NC	NC	n=s|g=f	8	prep	8	prep
+
+</p><p>
+1	-	-	PONCT	PONCT		0	ponct	0	ponct
+2	L’	le	DET	DET	n=s	3	det	3	det
+3	article	article	NC	NC	n=s|g=m	5	suj	5	suj
+4	130	130	ADJ	ADJ		3	mod	3	mod
+5	interdit	interdire	V	V	n=s|t=J,P|p=3	0	root	0	root
+6	aux	à	P+D	P+D	n=p	5	mod	5	mod
+7	curés	curé	NC	NC	n=p|g=m	6	prep	6	prep
+8	de	de	P	P		5	mod	5	mod
+9	porter	porter	VINF	VINF	t=W	8	prep	8	prep
+10	l’	le	DET	DET	n=s	11	det	11	det
+11	habit	habit	NC	NC	n=s|g=m	9	obj	9	obj
+12	religieux	religieux	ADJ	ADJ	g=m	11	mod	11	mod
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	de	de	P	P		5	mod	5	mod
+15	voter	voter	VINF	VINF	t=W	14	prep	14	prep
+16	et	et	CC	CC		14	coord	14	coord
+17	de	de	P	P		16	dep_coord	16	dep_coord
+18	critiquer	critiquer	VINF	VINF	t=W	17	prep	17	prep
+19	les	les	DET	DET	n=p	20	det	20	det
+20	décisions	décision	NC	NC	n=p|g=f	18	obj	18	obj
+21	du	de	P+D	P+D	n=s|g=m	20	dep	20	dep
+22	gouvernement	gouvernement	NC	NC	n=s|g=m	21	prep	21	prep
+23	ou	ou	CC	CC		17	coord	17	coord
+24	de	de	P	P		23	dep_coord	23	dep_coord
+25	la	la	DET	DET	n=s|g=f	26	det	26	det
+26	presse	presse	NC	NC	n=s|g=f	24	prep	24	prep
+27	.	.	PONCT	PONCT		26	ponct	26	ponct
+
+</p><p>
+1	De	de	P	P		8	mod	8	mod
+2	plus	plus	ADV	ADV		8	mod	8	mod
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	de	de	DET	DET	n=p	6	det	6	det
+5	nombreux	nombreux	ADJ	ADJ	g=m	6	mod	6	mod
+6	lieux	lieu	NC	NC	n=p|g=m	8	suj	8	suj
+7	sont	être	V	V	n=p|t=P|p=3	8	aux_tps	8	aux_tps
+8	rebaptisés	rebaptiser	VPP	VPP	n=p|g=m|t=K	0	root	0	root
+9	si	si	CS	CS		8	mod	8	mod
+10	leur	leur	DET	DET	n=s|p=3|poss=p	11	det	11	det
+11	noms	nom	NC	NC	n=p|g=m	13	suj	13	suj
+12	sont	être	V	V	n=p|t=P|p=3	13	aux_tps	13	aux_tps
+13	jugés	juger	VPP	VPP	n=p|g=m|t=K	9	sub	9	sub
+14	trop	trop	ADV	ADV		15	mod	15	mod
+15	chrétiens	chrétien	ADJ	ADJ	n=p|g=m	13	ats	13	ats
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+1	Cependant	cependant	ADV	ADV		4	mod	4	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	bien	bien	ADV	ADV		4	mod	4	mod
+4	que	que	CS	CS		0	root	0	root
+5	ses	ses	DET	DET	n=p|p=3|poss=s	6	det	6	det
+6	lois	loi	NC	NC	n=p|g=f	7	suj	7	suj
+7	entraînent	entraîner	V	V	n=p|t=P,S|p=3	4	sub	4	sub
+8	de	de	P	P		7	mod	7	mod
+9	vives	vif	ADJ	ADJ	n=p|g=f	10	mod	10	mod
+10	protestations	protestation	NC	NC	n=p|g=f	8	prep	8	prep
+11	du	de	P+D	P+D	n=s|g=m	7	mod	7	mod
+12	clergé	clergé	NC	NC	n=s|g=m	11	prep	11	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	cela	cela	PRO	PRO	n=s|g=m	7	mod	7	mod
+15	ne	ne	ADV	ADV		16	mod	16	mod
+16	fut	être	V	V	n=s|t=J|p=3	7	mod	7	mod
+17	pas	pas	ADV	ADV		16	mod	16	mod
+18	une	une	DET	DET	n=s|g=f	19	det	19	det
+19	raison	raison	NC	NC	n=s|g=f	16	obj	16	obj
+20	suffisante	suffisant	ADJ	ADJ	n=s|g=f	19	mod	19	mod
+21	pour	pour	P	P		16	mod	16	mod
+22	déclencher	déclencher	VINF	VINF	t=W	21	prep	21	prep
+23	la	la	DET	DET	n=s|g=f	24	det	24	det
+24	guerre	guerre	NC	NC	n=s|g=f	22	obj	22	obj
+25	.	.	PONCT	PONCT		24	ponct	24	ponct
+
+1	En	en	P	P		11	mod	11	mod
+2	effet	effet	NC	NC	n=s|g=m	1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	le	le	DET	DET	n=s|g=m	5	det	5	det
+5	président	président	NC	NC	n=s|g=m	11	suj	11	suj
+6	Carranza	_	NPP	NPP		5	mod	5	mod
+7	puis	puis	CC	CC		5	coord	5	coord
+8	le	le	DET	DET	n=s|g=m	9	det	9	det
+9	président	président	NC	NC	n=s|g=m	7	dep_coord	7	dep_coord
+10	Obregon	_	NPP	NPP		9	mod	9	mod
+11	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+12	déistes	déiste	ADJ	ADJ	n=p	11	ats	11	ats
+13	et	et	CC	CC		11	coord	11	coord
+14	respectent	respecter	V	V	n=p|t=P,S|p=3	13	dep_coord	13	dep_coord
+15	les	les	DET	DET	n=p	16	det	16	det
+16	croyances	croyance	NC	NC	n=p|g=f	14	obj	14	obj
+17	religieuses	religieux	ADJ	ADJ	n=p|g=f	16	mod	16	mod
+18	:	:	PONCT	PONCT		17	ponct	17	ponct
+19	les	les	DET	DET	n=p	20	det	20	det
+20	sanctions	sanction	NC	NC	n=p|g=f	14	mod	14	mod
+21	contre	contre	P	P		20	dep	20	dep
+22	les	les	DET	DET	n=p	23	det	23	det
+23	catholiques	catholique	NC	NC	n=p	21	prep	21	prep
+24	qui	qui	PROREL	PROREL	n=s	25	suj	25	suj
+25	violent	violer	V	V	n=p|t=P,S|p=3	20	mod_rel	20	mod_rel
+26	les	les	DET	DET	n=p	27	det	27	det
+27	lois	loi	NC	NC	n=p|g=f	25	obj	25	obj
+28	sont	être	V	V	n=p|t=P|p=3	11	mod	11	mod
+29	donc	donc	ADV	ADV		30	mod	30	mod
+30	mollement	_	ADV	ADV		0	_	0	_
+31	appliqués	appliquer	VPP	VPP	n=p|g=m|t=K	30	ponct	30	ponct
+32	.	.	PONCT	PONCT		31	ponct	31	ponct
+
+</p><p>
+1	La	la	DET	DET	n=s|g=f	3	det	3	det
+2	deuxième	deuxième	ADJ	ADJ	n=s	3	mod	3	mod
+3	cause	cause	NC	NC	n=s|g=f	4	suj	4	suj
+4	fut	être	V	V	n=s|t=J|p=3	0	root	0	root
+5	l’	le	DET	DET	n=s	6	det	6	det
+6	arrivée	arrivée	NC	NC	n=s|g=f	4	obj	4	obj
+7	de	de	P	P		4	mod	4	mod
+8	Plutarco	_	NPP	NPP		7	prep	7	prep
+9	Calles	_	NPP	NPP		8	mod	8	mod
+10	au	à	P+D	P+D	n=s|g=m	4	mod	4	mod
+11	pouvoir	pouvoir	NC	NC	n=s|g=m	10	prep	10	prep
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+1	Celui-ci	celui-ci	PRO	PRO	n=s|g=m	5	suj	5	suj
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	anticlérical	anticlérical	ADJ	ADJ	n=s|g=m	1	mod	1	mod
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	pensait	penser	V	V	n=s|t=I|p=3	0	root	0	root
+6	que	que	CS	CS		5	obj	5	obj
+7	le	le	DET	DET	n=s|g=m	8	det	8	det
+8	Mexique	Mexique	NPP	NPP	n=s|g=m	9	suj	9	suj
+9	devait	devoir	V	V	n=s|t=I|p=3	6	sub	6	sub
+10	être	être	VINF	VINF	t=W	9	obj	9	obj
+11	athée	athée	ADJ	ADJ	n=s	10	ats	10	ats
+12	et	et	CC	CC		6	coord	6	coord
+13	que	que	CS	CS		12	dep_coord	12	dep_coord
+14	la	la	DET	DET	n=s|g=f	15	det	15	det
+15	religion	religion	NC	NC	n=s|g=f	17	suj	17	suj
+16	n’	ne	ADV	ADV		17	mod	17	mod
+17	était	être	V	V	n=s|t=I|p=3	13	sub	13	sub
+18	qu’	que	CS	CS		17	obj	17	obj
+19	une	une	DET	DET	n=s|g=f	20	det	20	det
+20	erreur	erreur	NC	NC	n=s|g=f	0	_	0	_
+21	du	de	P+D	P+D	n=s|g=m	20	dep	20	dep
+22	passé	passé	NC	NC	n=s|g=m	21	prep	21	prep
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+1	Pour	pour	P	P		9	mod	9	mod
+2	mieux	mieux	ADV	ADV		3	mod	3	mod
+3	lutter	lutter	VINF	VINF	t=W	1	prep	1	prep
+4	contre	contre	P	P		3	mod	3	mod
+5	l’	le	DET	DET	n=s	6	det	6	det
+6	Église	_	NPP	NPP		4	prep	4	prep
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	il	il	CLS	CLS	n=s|g=m|p=3	9	suj	9	suj
+9	décida	décider	V	V	n=s|t=J|p=3	0	root	0	root
+10	de	de	P	P		9	mod	9	mod
+11	la	la	CLO	CLO	n=s|g=f|p=3	12	obj	12	obj
+12	nationaliser	nationaliser	VINF	VINF	t=W	10	prep	10	prep
+13	notamment	_	ADV	ADV		12	mod	12	mod
+14	en	en	P	P		12	mod	12	mod
+15	expulsant	expulser	VPR	VPR	t=G	14	prep	14	prep
+16	les	les	DET	DET	n=p	17	det	17	det
+17	curés	curé	NC	NC	n=p|g=m	15	obj	15	obj
+18	d’	de	P	P		17	dep	17	dep
+19	origine	origine	NC	NC	n=s|g=f	18	prep	18	prep
+20	étrangère	étranger	ADJ	ADJ	n=s|g=f	19	mod	19	mod
+21	.	.	PONCT	PONCT		20	ponct	20	ponct
+
+</p><h3>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	résistance	résistance	NC	NC	n=s|g=f	0	_	0	_
+3	pacifiste	pacifiste	ADJ	ADJ	n=s	2	mod	2	mod
+
+</h3><p>
+1	Face	face	NC	NC	n=s|g=f	9	mod	9	mod
+2	à	à	P	P		1	dep	1	dep
+3	ses	ses	DET	DET	n=p|p=3|poss=s	4	det	4	det
+4	mesures	mesure	NC	NC	n=p|g=f	2	prep	2	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	les	les	DET	DET	n=p	7	det	7	det
+7	catholiques	catholique	NC	NC	n=p	9	suj	9	suj
+8	s’	se	CLR	CLR	n=p,s|p=3	9	aff	9	aff
+9	organisent	organiser	V	V	n=p|t=P,S|p=3	0	root	0	root
+10	en	en	P	P		9	mod	9	mod
+11	ligues	ligue	NC	NC	n=p|g=f	10	prep	10	prep
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+1	Le	le	DET	DET	n=s|g=m	3	det	3	det
+2	11	11	ADJ	ADJ		3	mod	3	mod
+3	juillet	juillet	NC	NC	n=s|g=m	13	mod	13	mod
+4	1926	1926	NC	NC		3	mod	3	mod
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	la	la	DET	DET	n=s|g=f	7	det	7	det
+7	quasi	quasi	NC	NC	n=s|g=m	13	suj	13	suj
+8	-	-	PONCT	PONCT		7	ponct	7	ponct
+9	totalité	totalité	NC	NC	n=s|g=f	7	mod	7	mod
+10	des	de	P+D	P+D	n=p	9	dep	9	dep
+11	catholiques	catholique	NC	NC	n=p	10	prep	10	prep
+12	romains	romain	NC	NC	n=p|g=m	11	mod	11	mod
+13	signent	signer	V	V	n=p|t=P,S|p=3	0	root	0	root
+14	une	une	DET	DET	n=s|g=f	15	det	15	det
+15	pétition	pétition	NC	NC	n=s|g=f	13	obj	13	obj
+16	contre	contre	P	P		13	mod	13	mod
+17	Calles	_	NPP	NPP		16	prep	16	prep
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	mais	mais	CC	CC		13	coord	13	coord
+20	celle-ci	celle-ci	PRO	PRO	n=s|g=f	22	suj	22	suj
+21	est	être	V	V	n=s|t=P|p=3	22	aux_tps	22	aux_tps
+22	ignorée	ignorer	VPP	VPP	n=s|g=f|t=K	19	dep_coord	19	dep_coord
+23	par	par	P	P		22	mod	22	mod
+24	le	le	DET	DET	n=s|g=m	25	det	25	det
+25	gouvernement	gouvernement	NC	NC	n=s|g=m	23	prep	23	prep
+26	.	.	PONCT	PONCT		25	ponct	25	ponct
+
+1	Alors	alors	ADV	ADV		5	mod	5	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	les	les	DET	DET	n=p	4	det	4	det
+4	catholiques	catholique	ADJ	ADJ	n=p	5	suj	5	suj
+5	utilisent	utiliser	V	V	n=p|t=P,S|p=3	0	root	0	root
+6	la	la	DET	DET	n=s|g=f	7	det	7	det
+7	méthode	méthode	NC	NC	n=s|g=f	5	obj	5	obj
+8	du	de	P+D	P+D	n=s|g=m	7	dep	7	dep
+9	boycott	boycott	NC	NC	n=s|g=m	8	prep	8	prep
+10	:	:	PONCT	PONCT		9	ponct	9	ponct
+11	ils	ils	CLS	CLS	n=p|g=m|p=3	12	suj	12	suj
+12	cessent	cesser	V	V	n=p|t=P,S|p=3	5	mod	5	mod
+13	d’	de	P	P		12	mod	12	mod
+14	aller	aller	VINF	VINF	t=W	13	prep	13	prep
+15	au	à	P+D	P+D	n=s|g=m	14	mod	14	mod
+16	cinéma	cinéma	NC	NC	n=s|g=m	15	prep	15	prep
+17	et	et	CC	CC		15	coord	15	coord
+18	au	à	P+D	P+D	n=s|g=m	17	dep_coord	17	dep_coord
+19	théâtre	théâtre	NC	NC	n=s|g=m	18	prep	18	prep
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	ils	ils	CLS	CLS	n=p|g=m|p=3	23	suj	23	suj
+22	n’	ne	ADV	ADV		23	mod	23	mod
+23	utilisent	utiliser	V	V	n=p|t=P,S|p=3	5	mod	5	mod
+24	plus	plus	ADV	ADV		23	mod	23	mod
+25	les	les	DET	DET	n=p	26	det	26	det
+26	transports	transport	NC	NC	n=p|g=m	23	obj	23	obj
+27	,	,	PONCT	PONCT		26	ponct	26	ponct
+28	consomment	consommer	V	V	n=p|t=P,S|p=3	5	mod	5	mod
+29	moins	moins	ADV	ADV		28	mod	28	mod
+30	et	et	CC	CC		28	coord	28	coord
+31	multiplient	multiplier	V	V	n=p|t=P,S|p=3	30	dep_coord	30	dep_coord
+32	les	les	DET	DET	n=p	33	det	33	det
+33	grèves	grève	NC	NC	n=p|g=f	31	obj	31	obj
+34	.	.	PONCT	PONCT		33	ponct	33	ponct
+
+1	Mais	mais	CC	CC		0	root	0	root
+2	le	le	DET	DET	n=s|g=m	3	det	3	det
+3	gouvernement	gouvernement	NC	NC	n=s|g=m	4	suj	4	suj
+4	envoie	envoyer	V	V	n=s|t=P,S|p=1,3	1	dep_coord	1	dep_coord
+5	la	la	DET	DET	n=s|g=f	6	det	6	det
+6	police	police	NC	NC	n=s|g=f	4	obj	4	obj
+7	et	et	CC	CC		4	coord	4	coord
+8	l’	le	DET	DET	n=s	9	det	9	det
+9	armée	armée	NC	NC	n=s|g=f	0	_	0	_
+10	briser	briser	VINF	VINF	t=W	9	dep	9	dep
+11	les	les	DET	DET	n=p	12	det	12	det
+12	grèves	grève	NC	NC	n=p|g=f	10	obj	10	obj
+13	par	par	P	P		10	mod	10	mod
+14	la	la	DET	DET	n=s|g=f	15	det	15	det
+15	force	force	NC	NC	n=s|g=f	13	prep	13	prep
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+1	Quand	quand	CS	CS		0	_	0	_
+2	le	le	DET	DET	n=s|g=m	3	det	3	det
+3	pape	pape	NC	NC	n=s|g=m	6	suj	6	suj
+4	Pie	_	NPP	NPP		3	mod	3	mod
+5	XI	_	NPP	NPP		3	mod	3	mod
+6	appela	appeler	V	V	n=s|t=J|p=3	1	sub	1	sub
+7	les	les	DET	DET	n=p	9	det	9	det
+8	catholiques	catholique	ADJ	ADJ	n=p	9	mod	9	mod
+9	romains	romain	NC	NC	n=p|g=m	6	obj	6	obj
+10	du	de	P+D	P+D	n=s|g=m	6	mod	6	mod
+11	monde	monde	NC	NC	n=s|g=m	10	prep	10	prep
+12	entier	entier	ADJ	ADJ	n=s|g=m	11	mod	11	mod
+13	à	à	P	P		6	mod	6	mod
+14	protester	protester	VINF	VINF	t=W	13	prep	13	prep
+15	contre	contre	P	P		14	mod	14	mod
+16	Calles	_	NPP	NPP		15	prep	15	prep
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	le	le	DET	DET	n=s|g=m	19	det	19	det
+19	dictateur	dictateur	NC	NC	n=s|g=m	6	obj	6	obj
+20	réagit	réagir	V	V	n=s|t=J,P|p=3	6	mod	6	mod
+21	en	en	P	P		20	mod	20	mod
+22	faisant	faire	VPR	VPR	t=G	21	prep	21	prep
+23	fermer	fermer	VINF	VINF	t=W	22	obj	22	obj
+24	des	des	DET	DET	n=p	25	det	25	det
+25	églises	église	NC	NC	n=p|g=f	23	obj	23	obj
+26	et	et	CC	CC		20	coord	20	coord
+27	en	en	P	P		26	dep_coord	26	dep_coord
+28	arrêtant	arrêter	VPR	VPR	t=G	27	prep	27	prep
+29	ceux	ceux	PRO	PRO	n=p|g=m	28	obj	28	obj
+30	qui	qui	PROREL	PROREL	n=s	0	_	0	_
+31	s’	se	CLR	CLR	n=p,s|p=3	0	_	0	_
+32	y	y	CLO	CLO		0	_	0	_
+33	rendaient	rendre	V	V	n=p|t=I|p=3	0	_	0	_
+34	.	.	PONCT	PONCT		33	ponct	33	ponct
+
+</p><p>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	manifestation	manifestation	NC	NC	n=s|g=f	4	suj	4	suj
+3	pacifiste	pacifiste	ADJ	ADJ	n=s	2	mod	2	mod
+4	prend	prendre	V	V	n=s|t=P|p=3	0	root	0	root
+5	fin	fin	NC	NC	n=s	4	obj	4	obj
+6	le	le	DET	DET	n=s|g=m	8	det	8	det
+7	3	3	ADJ	ADJ		8	mod	8	mod
+8	août	août	NC	NC	n=s|g=m	4	mod	4	mod
+9	1926	1926	NC	NC		8	mod	8	mod
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	date	date	NC	NC	n=s|g=f	4	mod	4	mod
+12	à	à	P	P		4	mod	4	mod
+13	laquelle	lequel	PROREL	PROREL	n=s|g=f	18	mod	18	mod
+14	400	400	ADJ	ADJ		16	mod	16	mod
+15	catholiques	catholique	ADJ	ADJ	n=p	16	mod	16	mod
+16	armés	armé	NC	NC	n=p|g=m	18	suj	18	suj
+17	s’	se	CLR	CLR	n=p,s|p=3	18	aff	18	aff
+18	enferment	enfermer	V	V	n=p|t=P,S|p=3	4	mod	4	mod
+19	dans	dans	P	P		18	mod	18	mod
+20	l’	le	DET	DET	n=s	21	det	21	det
+21	église	église	NC	NC	n=s|g=f	19	prep	19	prep
+22	de	de	P	P		18	mod	18	mod
+23	Guadalajara	_	NPP	NPP		22	prep	22	prep
+24	et	et	CC	CC		18	coord	18	coord
+25	échangent	échanger	V	V	n=p|t=P,S|p=3	24	dep_coord	24	dep_coord
+26	des	des	DET	DET	n=p	27	det	27	det
+27	coups	coup	NC	NC	n=p|g=m	25	obj	25	obj
+28	de	de	P	P		27	dep	27	dep
+29	feux	feu	NC	NC	n=p|g=m	28	prep	28	prep
+30	avec	avec	P	P		25	mod	25	mod
+31	la	la	DET	DET	n=s|g=f	32	det	32	det
+32	police	police	NC	NC	n=s|g=f	30	prep	30	prep
+33	,	,	PONCT	PONCT		32	ponct	32	ponct
+34	ne	ne	ADV	ADV		36	mod	36	mod
+35	se	se	CLR	CLR	n=p,s|p=3	36	aff	36	aff
+36	rendant	rendre	VPR	VPR	t=G	25	mod	25	mod
+37	que	que	CS	CS		36	obj	36	obj
+38	lorsqu'	lorsque	CS	CS		0	_	0	_
+39	ils	ils	CLS	CLS	n=p|g=m|p=3	40	suj	40	suj
+40	sont	être	V	V	n=p|t=P|p=3	38	sub	38	sub
+41	à	à	P	P		40	mod	40	mod
+42	court	court	ADJ	ADJ	n=s|g=m	41	prep	41	prep
+43	de	de	P	P		40	mod	40	mod
+44	munitions	munition	NC	NC	n=p|g=f	43	prep	43	prep
+45	.	.	PONCT	PONCT		44	ponct	44	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	lendemain	lendemain	NC	NC	n=s|g=m	8	mod	8	mod
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	en	en	P	P		2	dep	2	dep
+5	représailles	représaille	NC	NC	n=p|g=f	4	prep	4	prep
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	Calles	_	NPP	NPP		8	suj	8	suj
+8	envoie	envoyer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+9	dans	dans	P	P		8	mod	8	mod
+10	la	la	DET	DET	n=s|g=f	11	det	11	det
+11	ville	ville	NC	NC	n=s|g=f	9	prep	9	prep
+12	de	de	P	P		8	mod	8	mod
+13	Sahuayo	_	NPP	NPP		12	prep	12	prep
+14	240	240	ADJ	ADJ		13	mod	13	mod
+15	soldats	soldat	NC	NC	n=p|g=m	13	mod	13	mod
+16	prendre	prendre	VINF	VINF	t=W	8	obj	8	obj
+17	d’	de	P	P		16	mod	16	mod
+18	assaut	assaut	NC	NC	n=s|g=m	17	prep	17	prep
+19	l’	le	DET	DET	n=s	20	det	20	det
+20	église	église	NC	NC	n=s|g=f	16	obj	16	obj
+21	en	en	P	P		20	dep	20	dep
+22	pleine	plein	ADJ	ADJ	n=s|g=f	23	mod	23	mod
+23	messe	messe	NC	NC	n=s|g=f	21	prep	21	prep
+24	et	et	CC	CC		8	coord	8	coord
+25	leur	leur	CLO	CLO	n=p|p=3	26	obj	26	obj
+26	ordonnent	ordonner	V	V	n=p|t=P,S|p=3	24	dep_coord	24	dep_coord
+27	d’	de	P	P		26	mod	26	mod
+28	abattre	abattre	VINF	VINF	t=W	27	prep	27	prep
+29	le	le	DET	DET	n=s|g=m	30	det	30	det
+30	curé	curé	NC	NC	n=s|g=m	28	obj	28	obj
+31	et	et	CC	CC		26	coord	26	coord
+32	le	le	DET	DET	n=s|g=m	33	det	33	det
+33	vicaire	vicaire	NC	NC	n=s|g=m	0	_	0	_
+34	.	.	PONCT	PONCT		33	ponct	33	ponct
+
+1	Le	le	DET	DET	n=s|g=m	3	det	3	det
+2	14	14	ADJ	ADJ		3	mod	3	mod
+3	août	août	NC	NC	n=s|g=m	7	mod	7	mod
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	l’	le	DET	DET	n=s	6	det	6	det
+6	armée	armée	NC	NC	n=s|g=f	7	suj	7	suj
+7	fait	faire	V	V	n=s|t=P|p=3	0	root	0	root
+8	assassiner	assassiner	VINF	VINF	t=W	7	obj	7	obj
+9	le	le	DET	DET	n=s|g=m	10	det	10	det
+10	père	père	NC	NC	n=s|g=m	8	obj	8	obj
+11	Luis	Luis	NPP	NPP	n=s|g=m	10	mod	10	mod
+12	Sainz	_	NPP	NPP		10	mod	10	mod
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	chef	chef	NC	NC	n=s	10	mod	10	mod
+15	spirituel	spirituel	ADJ	ADJ	n=s|g=m	14	mod	14	mod
+16	de	de	P	P		14	dep	14	dep
+17	l’	le	DET	DET	n=s	18	det	18	det
+18	Association	association	NC	NC	n=s|g=f	16	prep	16	prep
+19	des	de	P+D	P+D	n=p	18	dep	18	dep
+20	jeunesses	jeunesse	NC	NC	n=p|g=f	19	prep	19	prep
+21	catholiques	catholique	ADJ	ADJ	n=p	20	mod	20	mod
+22	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+1	Horrifiés	horrifier	VPP	VPP	n=p|g=m|t=K	9	mod	9	mod
+2	de	de	P	P		1	mod	1	mod
+3	ces	ces	DET	DET	n=p	4	det	4	det
+4	meurtres	meurtre	NC	NC	n=p|g=m	2	prep	2	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	de	de	DET	DET	n=p	8	det	8	det
+7	nombreux	nombreux	ADJ	ADJ	g=m	8	mod	8	mod
+8	catholiques	catholique	NC	NC	n=p	9	suj	9	suj
+9	décident	décider	V	V	n=p|t=P,S|p=3	0	root	0	root
+10	alors	alors	ADV	ADV		9	mod	9	mod
+11	de	de	P	P		9	mod	9	mod
+12	prendre	prendre	VINF	VINF	t=W	11	prep	11	prep
+13	les	les	DET	DET	n=p	14	det	14	det
+14	armes	arme	NC	NC	n=p|g=f	12	obj	12	obj
+15	contre	contre	P	P		12	mod	12	mod
+16	la	la	DET	DET	n=s|g=f	17	det	17	det
+17	dictature	dictature	NC	NC	n=s|g=f	15	prep	15	prep
+18	de	de	P	P		12	mod	12	mod
+19	Calles	_	NPP	NPP		18	prep	18	prep
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+</p><h3>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	guerre	guerre	NC	NC	n=s|g=f	0	_	0	_
+
+</h3><p>
+1	Au	à	P+D	P+D	n=s|g=m	9	mod	9	mod
+2	début	début	NC	NC	n=s|g=m	1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	le	le	DET	DET	n=s|g=m	5	det	5	det
+5	gouvernement	gouvernement	NC	NC	n=s|g=m	9	suj	9	suj
+6	de	de	P	P		5	dep	5	dep
+7	Calles	_	NPP	NPP		6	prep	6	prep
+8	ne	ne	ADV	ADV		9	mod	9	mod
+9	prend	prendre	V	V	n=s|t=P|p=3	0	root	0	root
+10	pas	pas	ADV	ADV		9	mod	9	mod
+11	les	les	DET	DET	n=p	12	det	12	det
+12	Cristeros	_	NPP	NPP		9	obj	9	obj
+13	au	à	P+D	P+D	n=s|g=m	9	mod	9	mod
+14	sérieux	sérieux	ADJ	ADJ	g=m	13	prep	13	prep
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+1	Avant	avant	P	P		13	mod	13	mod
+2	de	de	P	P		3	prep	3	prep
+3	partir	partir	VINF	VINF	t=W	1	prep	1	prep
+4	en	en	P	P		3	mod	3	mod
+5	guerre	guerre	NC	NC	n=s|g=f	4	prep	4	prep
+6	contre	contre	P	P		3	mod	3	mod
+7	les	les	DET	DET	n=p	8	det	8	det
+8	Cristeros	_	NPP	NPP		6	prep	6	prep
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	le	le	DET	DET	n=s|g=m	11	det	11	det
+11	généralissime	généralissime	NC	NC	n=s|g=m	3	obj	3	obj
+12	Ferreira	_	NPP	NPP		11	mod	11	mod
+13	disait	dire	V	V	n=s|t=I|p=3	0	root	0	root
+14	à	à	P	P		13	mod	13	mod
+15	ses	ses	DET	DET	n=p|p=3|poss=s	16	det	16	det
+16	soldats	soldat	NC	NC	n=p|g=m	14	prep	14	prep
+17	:	:	PONCT	PONCT		16	ponct	16	ponct
+18	«_	"	PONCT	PONCT		16	ponct	16	ponct
+19	Nous	nous	CLS	CLS	n=p|p=1	21	suj	21	suj
+20	ne	ne	ADV	ADV		21	mod	21	mod
+21	partons	partir	V	V	n=p|t=P|p=1	13	mod	13	mod
+22	pas	pas	ADV	ADV		21	mod	21	mod
+23	en	en	P	P		21	mod	21	mod
+24	guerre	guerre	NC	NC	n=s|g=f	23	prep	23	prep
+25	,	,	PONCT	PONCT		24	ponct	24	ponct
+26	nous	nous	CLS	CLS	n=p|p=1	27	suj	27	suj
+27	allons	aller	V	V	n=p|t=P|p=1	13	mod	13	mod
+28	à	à	P	P		27	mod	27	mod
+29	la	la	DET	DET	n=s|g=f	30	det	30	det
+30	chasse	chasse	NC	NC	n=s|g=f	28	prep	28	prep
+31	_»	"	PONCT	PONCT		30	ponct	30	ponct
+32	.	.	PONCT	PONCT		30	ponct	30	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	évêques	évêque	NC	NC	n=p|g=m	7	suj	7	suj
+3	qui	qui	PROREL	PROREL	n=s	4	suj	4	suj
+4	soutinrent	soutenir	V	V	n=p|t=J|p=3	2	mod_rel	2	mod_rel
+5	la	la	DET	DET	n=s|g=f	6	det	6	det
+6	rébellion	rébellion	NC	NC	n=s|g=f	4	obj	4	obj
+7	furent	être	V	V	n=p|t=J|p=3	0	root	0	root
+8	une	une	DET	DET	n=s|g=f	9	det	9	det
+9	minorité	minorité	NC	NC	n=s|g=f	7	obj	7	obj
+10	:	:	PONCT	PONCT		9	ponct	9	ponct
+11	une	une	DET	DET	n=s|g=f	13	det	13	det
+12	grande	grand	ADJ	ADJ	n=s|g=f	13	mod	13	mod
+13	majorité	majorité	NC	NC	n=s|g=f	7	mod	7	mod
+14	d’	de	P	P		13	dep	13	dep
+15	ecclésiastes	_	NC	NC		14	prep	14	prep
+16	furent	être	V	V	n=p|t=J|p=3	7	mod	7	mod
+17	contre	contre	ADV	ADV		16	mod	16	mod
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	par	par	P	P		16	mod	16	mod
+20	peur	peur	NC	NC	n=s|g=f	19	prep	19	prep
+21	de	de	P	P		16	mod	16	mod
+22	voir	voir	VINF	VINF	t=W	21	prep	21	prep
+23	le	le	DET	DET	n=s|g=m	24	det	24	det
+24	Mexique	Mexique	NPP	NPP	n=s|g=m	22	obj	22	obj
+25	sombrer	sombrer	VINF	VINF	t=W	22	ato	22	ato
+26	dans	dans	P	P		25	mod	25	mod
+27	une	une	DET	DET	n=s|g=f	28	det	28	det
+28	marre	_	NC	NC		26	prep	26	prep
+29	de	de	P	P		28	dep	28	dep
+30	sang	sang	NC	NC	n=s|g=m	29	prep	29	prep
+31	.	.	PONCT	PONCT		30	ponct	30	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	pape	pape	NC	NC	n=s|g=m	10	suj	10	suj
+3	Pie	_	NPP	NPP		2	mod	2	mod
+4	XI	_	NPP	NPP		2	mod	2	mod
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	de	de	P	P		10	mod	10	mod
+7	son	son	DET	DET	n=s|g=m|p=3|poss=s	8	det	8	det
+8	côté	côté	NC	NC	n=s|g=m	6	prep	6	prep
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	tenta	tenter	V	V	n=s|t=J|p=3	0	root	0	root
+11	d’	de	P	P		10	mod	10	mod
+12	envoyer	envoyer	VINF	VINF	t=W	11	prep	11	prep
+13	des	des	DET	DET	n=p	14	det	14	det
+14	ambassadeurs	ambassadeur	NC	NC	n=p|g=m	12	obj	12	obj
+15	négocier	négocier	VINF	VINF	t=W	12	ato	12	ato
+16	au	à	P+D	P+D	n=s|g=m	15	mod	15	mod
+17	nom	nom	NC	NC	n=s|g=m	16	prep	16	prep
+18	des	de	P+D	P+D	n=p	17	dep	17	dep
+19	catholiques	catholique	ADJ	ADJ	n=p	18	prep	18	prep
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	mais	mais	CC	CC		10	coord	10	coord
+22	ses	ses	DET	DET	n=p|p=3|poss=s	23	det	23	det
+23	ambassadeurs	ambassadeur	NC	NC	n=p|g=m	24	suj	24	suj
+24	étaient	être	V	V	n=p|t=I|p=3	21	dep_coord	21	dep_coord
+25	tout	tout	ADJ	ADJ	n=s|g=m	27	mod	27	mod
+26	le	le	DET	DET	n=s|g=m	27	det	27	det
+27	temps	temps	NC	NC	g=m	24	obj	24	obj
+28	chassés	chasser	VPP	VPP	n=p|g=m|t=K	27	mod	27	mod
+29	.	.	PONCT	PONCT		28	ponct	28	ponct
+
+1	Plus	plus	ADV	ADV		2	mod	2	mod
+2	tard	tard	ADV	ADV		8	mod	8	mod
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	le	le	DET	DET	n=s|g=m	5	det	5	det
+5	pape	pape	NC	NC	n=s|g=m	8	suj	8	suj
+6	Jean-Paul	Jean-Paul	NPP	NPP	n=s|g=m	5	mod	5	mod
+7	II	_	NPP	NPP		5	mod	5	mod
+8	béatifiera	béatifier	V	V	n=s|t=F|p=3	0	root	0	root
+9	ou	ou	CC	CC		8	coord	8	coord
+10	canonisera	canoniser	V	V	n=s|t=F|p=3	0	_	0	_
+11	34	34	ADJ	ADJ		12	mod	12	mod
+12	martyrs	martyr	NC	NC	n=p|g=m	10	obj	10	obj
+13	de	de	P	P		12	dep	12	dep
+14	cette	cette	DET	DET	n=s|g=f	15	det	15	det
+15	guerre	guerre	NC	NC	n=s|g=f	13	prep	13	prep
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	comme	comme	P	P		10	mod	10	mod
+18	José	José	NPP	NPP	n=s|g=m	17	prep	17	prep
+19	Sanchez	_	NPP	NPP		18	mod	18	mod
+20	de	de	P	P		10	mod	10	mod
+21	le	le	DET	DET	n=s|g=m	22	det	22	det
+22	Rio	Rio	NPP	NPP	n=s|g=m	20	prep	20	prep
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	qui	qui	PROREL	PROREL	n=s	31	suj	31	suj
+25	,	,	PONCT	PONCT		24	ponct	24	ponct
+26	à	à	P	P		31	mod	31	mod
+27	quatorze	quatorze	DET	DET	s=card|n=p	28	det	28	det
+28	ans	an	NC	NC	n=p|g=m	26	prep	26	prep
+29	,	,	PONCT	PONCT		28	ponct	28	ponct
+30	fut	être	V	V	n=s|t=J|p=3	31	aux_pass	31	aux_pass
+31	torturé	torturer	VPP	VPP	n=s|g=m|t=K	22	mod_rel	22	mod_rel
+32	par	par	P	P		31	mod	31	mod
+33	l’	le	DET	DET	n=s	34	det	34	det
+34	armée	armée	NC	NC	n=s|g=f	32	prep	32	prep
+35	pour	pour	P	P		31	mod	31	mod
+36	avoir	avoir	VINF	VINF	t=W	0	_	0	_
+37	été	être	VPP	VPP	t=K	0	_	0	_
+38	Cristero	_	NPP	NPP		37	obj	37	obj
+39	puis	puis	CC	CC		37	coord	37	coord
+40	exécuté	exécuter	VPP	VPP	n=s|g=m|t=K	39	dep_coord	39	dep_coord
+41	car	car	CS	CS		40	mod	40	mod
+42	il	il	CLS	CLS	n=s|g=m|p=3	43	suj	43	suj
+43	refusait	refuser	V	V	n=s|t=I|p=3	41	sub	41	sub
+44	de	de	P	P		43	mod	43	mod
+45	renier	renier	VINF	VINF	t=W	44	prep	44	prep
+46	la	la	DET	DET	n=s|g=f	47	det	47	det
+47	religion	religion	NC	NC	n=s|g=f	45	obj	45	obj
+48	.	.	PONCT	PONCT		47	ponct	47	ponct
+
+</p><p>
+1	Le	le	DET	DET	n=s|g=m	3	det	3	det
+2	23	23	ADJ	ADJ		3	mod	3	mod
+3	février	février	NC	NC	n=s|g=m	7	mod	7	mod
+4	1927	1927	ADJ	ADJ		3	mod	3	mod
+5	les	les	DET	DET	n=p	6	det	6	det
+6	Cristeros	_	NPP	NPP		7	suj	7	suj
+7	remportent	remporter	V	V	n=p|t=P,S|p=3	0	root	0	root
+8	une	une	DET	DET	n=s|g=f	10	det	10	det
+9	grande	grand	ADJ	ADJ	n=s|g=f	10	mod	10	mod
+10	victoire	victoire	NC	NC	n=s|g=f	7	obj	7	obj
+11	sur	sur	P	P		7	mod	7	mod
+12	l’	le	DET	DET	n=s	13	det	13	det
+13	armée	armée	NC	NC	n=s|g=f	11	prep	11	prep
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	qui	qui	PROREL	PROREL	n=s	16	suj	16	suj
+16	réplique	répliquer	V	V	n=s|t=P,S|p=1,3	7	mod	7	mod
+17	en	en	P	P		16	mod	16	mod
+18	menant	mener	VPR	VPR	t=G	17	prep	17	prep
+19	la	la	DET	DET	n=s|g=f	20	det	20	det
+20	politique	politique	NC	NC	n=s|g=f	18	obj	18	obj
+21	de	de	P	P		18	mod	18	mod
+22	la	la	DET	DET	n=s|g=f	23	det	23	det
+23	terre	terre	NC	NC	n=s|g=f	21	prep	21	prep
+24	brûlée	brûler	VPP	VPP	n=s|g=f|t=K	23	mod	23	mod
+25	.	.	PONCT	PONCT		24	ponct	24	ponct
+
+1	Mais	mais	CC	CC		0	root	0	root
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	les	les	DET	DET	n=p	4	det	4	det
+4	rebelles	rebelle	NC	NC	n=p	5	suj	5	suj
+5	continuent	continuer	V	V	n=p|t=P,S|p=3	1	dep_coord	1	dep_coord
+6	de	de	P	P		5	obj	5	obj
+7	se	se	CLR	CLR	n=p,s|p=3	8	aff	8	aff
+8	battre	battre	VINF	VINF	t=W	6	prep	6	prep
+9	et	et	CC	CC		5	coord	5	coord
+10	créent	créer	V	V	n=p|t=P,S|p=3	9	dep_coord	9	dep_coord
+11	même	même	ADV	ADV		10	mod	10	mod
+12	une	une	DET	DET	n=s|g=f	13	det	13	det
+13	branche	branche	NC	NC	n=s|g=f	10	obj	10	obj
+14	de	de	P	P		13	dep	13	dep
+15	femmes	femme	NC	NC	n=p|g=f	14	prep	14	prep
+16	qui	qui	PROREL	PROREL	n=s	18	suj	18	suj
+17	s’	se	CLR	CLR	n=p,s|p=3	18	aff	18	aff
+18	occupent	occuper	V	V	n=p|t=P,S|p=3	13	mod_rel	13	mod_rel
+19	du	de	P+D	P+D	n=s|g=m	18	mod	18	mod
+20	ravitaillement	ravitaillement	NC	NC	n=s|g=m	19	prep	19	prep
+21	et	et	CC	CC		19	coord	19	coord
+22	de	de	P	P		21	dep_coord	21	dep_coord
+23	l’	le	DET	DET	n=s	24	det	24	det
+24	espionnage	espionnage	NC	NC	n=s|g=m	22	prep	22	prep
+25	.	.	PONCT	PONCT		24	ponct	24	ponct
+
+</p><p>
+1	En	en	P	P		8	mod	8	mod
+2	1928	1928	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	Emilio	Emilio	NPP	NPP	n=s|g=m	8	suj	8	suj
+5	Portes	Portes	NPP	NPP	n=s|g=m	4	mod	4	mod
+6	Gil	Gil	NPP	NPP	n=s|g=m	4	mod	4	mod
+7	est	être	V	V	n=s|t=P|p=3	8	aux_tps	8	aux_tps
+8	élu	élire	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+9	président	président	NC	NC	n=s|g=m	8	obj	8	obj
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+1	Plus	plus	ADV	ADV		2	mod	2	mod
+2	tolérant	tolérer	VPR	VPR	t=G	0	_	0	_
+3	que	que	CS	CS		2	obj	2	obj
+4	son	son	DET	DET	n=s|g=m|p=3|poss=s	5	det	5	det
+5	précédesseur	_	NC	NC		16	suj	16	suj
+6	et	et	CC	CC		5	coord	5	coord
+7	désireux	désireux	ADJ	ADJ	g=m	6	dep_coord	6	dep_coord
+8	de	de	P	P		16	mod	16	mod
+9	mettre	mettre	VINF	VINF	t=W	8	prep	8	prep
+10	fin	fin	NC	NC	n=s	9	obj	9	obj
+11	à	à	P	P		9	mod	9	mod
+12	la	la	DET	DET	n=s|g=f	13	det	13	det
+13	guerre	guerre	NC	NC	n=s|g=f	11	prep	11	prep
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	il	il	CLS	CLS	n=s|g=m|p=3	16	suj	16	suj
+16	entame	entamer	V	V	n=s|t=P,S|p=1,3	3	sub	3	sub
+17	des	des	DET	DET	n=p	18	det	18	det
+18	négociations	négociation	NC	NC	n=p|g=f	16	obj	16	obj
+19	avec	avec	P	P		16	mod	16	mod
+20	l’	le	DET	DET	n=s	21	det	21	det
+21	Église	église	NC	NC	n=s|g=f	19	prep	19	prep
+22	catholique	catholique	ADJ	ADJ	n=s	21	mod	21	mod
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	liberté	liberté	NC	NC	n=s|g=f	7	suj	7	suj
+3	de	de	P	P		2	dep	2	dep
+4	culte	culte	NC	NC	n=s|g=m	3	prep	3	prep
+5	est	être	V	V	n=s|t=P|p=3	7	aux_pass	7	aux_pass
+6	totalement	_	ADV	ADV		7	mod	7	mod
+7	rétablie	rétablir	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	les	les	DET	DET	n=p	10	det	10	det
+10	prêtres	prêtre	NC	NC	n=p|g=m	11	suj	11	suj
+11	ont	avoir	V	V	n=p|t=P|p=3	7	mod	7	mod
+12	à	à	P	P		11	mod	11	mod
+13	nouveau	nouveau	ADJ	ADJ	n=s|g=m	15	mod	15	mod
+14	les	les	DET	DET	n=p	15	det	15	det
+15	droits	droit	NC	NC	n=p|g=m	12	prep	12	prep
+16	civiques	civique	ADJ	ADJ	n=p	15	mod	15	mod
+17	et	et	CC	CC		15	coord	15	coord
+18	l’	le	DET	DET	n=s	19	det	19	det
+19	Etat	_	NPP	NPP		17	dep_coord	17	dep_coord
+20	mexicain	mexicain	ADJ	ADJ	n=s|g=m	19	mod	19	mod
+21	s’	se	CLR	CLR	n=p,s|p=3	22	aff	22	aff
+22	engage	engager	V	V	n=s|t=P,S|p=1,3	11	mod	11	mod
+23	à	à	P	P		22	mod	22	mod
+24	ne	ne	ADV	ADV		26	mod	26	mod
+25	plus	plus	ADV	ADV		26	mod	26	mod
+26	persécuter	persécuter	VINF	VINF	t=W	23	prep	23	prep
+27	les	les	DET	DET	n=p	29	det	29	det
+28	catholiques	catholique	ADJ	ADJ	n=p	29	mod	29	mod
+29	romains	romain	NC	NC	n=p|g=m	26	obj	26	obj
+30	.	.	PONCT	PONCT		29	ponct	29	ponct
+
+1	Satisfaits	satisfaire	ADJ	ADJ	n=p|g=m|t=K	6	mod	6	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	de	de	DET	DET	n=p	5	det	5	det
+4	nombreux	nombreux	ADJ	ADJ	g=m	5	mod	5	mod
+5	Cristeros	_	NPP	NPP		6	suj	6	suj
+6	baissent	baisser	V	V	n=p|t=P,S|p=3	0	root	0	root
+7	les	les	DET	DET	n=p	8	det	8	det
+8	armes	arme	NC	NC	n=p|g=f	6	obj	6	obj
+9	.	.	PONCT	PONCT		8	ponct	8	ponct
+
+1	Mais	mais	CC	CC		0	root	0	root
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	quelques	quelques	DET	DET	n=p	4	det	4	det
+4	fanatiques	fanatique	NC	NC	n=p	5	suj	5	suj
+5	continuèrent	continuer	V	V	n=p|t=J|p=3	1	dep_coord	1	dep_coord
+6	la	la	DET	DET	n=s|g=f	7	det	7	det
+7	guerre	guerre	NC	NC	n=s|g=f	5	obj	5	obj
+8	pour	pour	P	P		5	mod	5	mod
+9	faire	faire	VINF	VINF	t=W	8	prep	8	prep
+10	du	de	P+D	P+D	n=s|g=m	9	mod	9	mod
+11	Mexique	Mexique	NPP	NPP	n=s|g=m	10	prep	10	prep
+12	un	un	DET	DET	n=s|g=m	13	det	13	det
+13	Etat	_	NC	NC		9	obj	9	obj
+14	dominé	dominer	VPP	VPP	n=s|g=m|t=K	13	mod	13	mod
+15	par	par	P	P		14	mod	14	mod
+16	un	un	DET	DET	n=s|g=m	17	det	17	det
+17	catholicisme	catholicisme	NC	NC	n=s|g=m	15	prep	15	prep
+18	fondamentaliste	fondamentaliste	ADJ	ADJ	n=s	17	mod	17	mod
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	Ils	ils	CLS	CLS	n=p|g=m|p=3	2	suj	2	suj
+2	furent	être	V	V	n=p|t=J|p=3	0	root	0	root
+3	tous	tout	PRO	PRO	n=p|g=m	2	mod	2	mod
+4	excommuniés	excommunier	VPP	VPP	n=p|g=m|t=K	3	mod	3	mod
+5	.	.	PONCT	PONCT		4	ponct	4	ponct
+
+</p><p>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	guerre	guerre	NC	NC	n=s|g=f	4	suj	4	suj
+3	aurait	avoir	V	V	n=s|t=C|p=3	4	aux_tps	4	aux_tps
+4	fait	faire	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+5	près	près	ADV	ADV		4	mod	4	mod
+6	de	de	P	P		4	mod	4	mod
+7	100_000	100_000	ADJ	ADJ		8	mod	8	mod
+8	morts	mort	NC	NC	n=p|g=f,m	6	prep	6	prep
+9	et	et	CC	CC		4	coord	4	coord
+10	le	le	DET	DET	n=s|g=m	11	det	11	det
+11	clergé	clergé	NC	NC	n=s|g=m	0	_	0	_
+12	mexicain	mexicain	ADJ	ADJ	n=s|g=m	11	mod	11	mod
+13	mis	mettre	VPP	VPP	g=m|t=K	11	mod	11	mod
+14	de	de	DET	DET	n=p	16	det	16	det
+15	nombreuses	nombreux	ADJ	ADJ	n=p|g=f	16	mod	16	mod
+16	années	année	NC	NC	n=p|g=f	13	mod	13	mod
+17	à	à	P	P		16	dep	16	dep
+18	se	se	CLR	CLR	n=p,s|p=3	19	aff	19	aff
+19	reconstituer	reconstituer	VINF	VINF	t=W	17	prep	17	prep
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+</p><h2>
+1	Le	le	DET	DET	n=s|g=m	3	det	3	det
+2	xx	_	ADJ	ADJ		3	mod	3	mod
+3	siècle	siècle	NC	NC	n=s|g=m	0	_	0	_
+
+</h2><p>
+1	Depuis	depuis	P	P		10	mod	10	mod
+2	la	la	DET	DET	n=s|g=f	3	det	3	det
+3	fin	fin	NC	NC	n=s	1	prep	1	prep
+4	de	de	P	P		3	dep	3	dep
+5	la	la	DET	DET	n=s|g=f	6	det	6	det
+6	guerre	guerre	NC	NC	n=s|g=f	4	prep	4	prep
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	le	le	DET	DET	n=s|g=m	9	det	9	det
+9	pays	pays	NC	NC	g=m	10	suj	10	suj
+10	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+11	victime	victime	NC	NC	n=s|g=f	10	ats	10	ats
+12	de	de	P	P		10	mod	10	mod
+13	fortes	fort	ADJ	ADJ	n=p|g=f	14	mod	14	mod
+14	inégalités	inégalité	NC	NC	n=p|g=f	12	prep	12	prep
+15	et	et	CC	CC		10	coord	10	coord
+16	le	le	DET	DET	n=s|g=m	17	det	17	det
+17	gouvernement	gouvernement	NC	NC	n=s|g=m	18	suj	18	suj
+18	fait	faire	V	V	n=s|t=P|p=3	15	dep_coord	15	dep_coord
+19	face	face	NC	NC	n=s|g=f	18	obj	18	obj
+20	à	à	P	P		18	mod	18	mod
+21	une	une	DET	DET	n=s|g=f	22	det	22	det
+22	criminalité	criminalité	NC	NC	n=s|g=f	20	prep	20	prep
+23	en	en	P	P		18	mod	18	mod
+24	hausse	hausse	NC	NC	n=s|g=f	23	prep	23	prep
+25	.	.	PONCT	PONCT		24	ponct	24	ponct
+
+</p><p>
+1	En	en	P	P		17	mod	17	mod
+2	1928	1928	NC	NC		1	prep	1	prep
+3	le	le	DET	DET	n=s|g=m	4	det	4	det
+4	successeur	successeur	NC	NC	n=s|g=m	17	suj	17	suj
+5	à	à	P	P		4	dep	4	dep
+6	la	la	DET	DET	n=s|g=f	7	det	7	det
+7	présidence	présidence	NC	NC	n=s|g=f	5	prep	5	prep
+8	de	de	P	P		4	dep	4	dep
+9	la	la	DET	DET	n=s|g=f	10	det	10	det
+10	République	république	NC	NC	n=s|g=f	8	prep	8	prep
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	le	le	DET	DET	n=s|g=m	13	det	13	det
+13	général	général	NC	NC	n=s|g=m	17	suj	17	suj
+14	Alvaro	_	NPP	NPP		13	mod	13	mod
+15	Obregón	_	NPP	NPP		13	mod	13	mod
+16	est	être	V	V	n=s|t=P|p=3	17	aux_tps	17	aux_tps
+17	assassiné	assassiner	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+18	par	par	P	P		17	mod	17	mod
+19	un	un	DET	DET	n=s|g=m	20	det	20	det
+20	militant	militant	NC	NC	n=s|g=m	18	prep	18	prep
+21	catholique	catholique	ADJ	ADJ	n=s	20	mod	20	mod
+22	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+</p><p>
+1	Le	le	DET	DET	n=s|g=m	3	det	3	det
+2	2	2	ADJ	ADJ		3	mod	3	mod
+3	juin	juin	NC	NC	n=s|g=m	0	_	0	_
+4	1942	1942	NC	NC		3	mod	3	mod
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	le	le	DET	DET	n=s|g=m	7	det	7	det
+7	Mexique	Mexique	NPP	NPP	n=s|g=m	0	_	0	_
+8	entre	entre	P	P		7	dep	7	dep
+9	dans	dans	P	P		8	prep	8	prep
+10	la	la	DET	DET	n=s|g=f	11	det	11	det
+11	Seconde	_	NPP	NPP		0	_	0	_
+12	Guerre	_	NPP	NPP		11	mod	11	mod
+13	mondiale	mondial	ADJ	ADJ	n=s|g=f	11	mod	11	mod
+14	aux	à	P+D	P+D	n=p	11	dep	11	dep
+15	côtés	côté	NC	NC	n=p|g=m	14	prep	14	prep
+16	des	de	P+D	P+D	n=p	15	dep	15	dep
+17	Alliés	allié	NC	NC	n=p|g=m	16	prep	16	prep
+18	en	en	P	P		11	dep	11	dep
+19	déclarant	déclarer	VPR	VPR	t=G	18	prep	18	prep
+20	la	la	DET	DET	n=s|g=f	21	det	21	det
+21	guerre	guerre	NC	NC	n=s|g=f	19	obj	19	obj
+22	à	à	P	P		19	mod	19	mod
+23	l'	le	DET	DET	n=s	24	det	24	det
+24	Allemagne	Allemagne	NPP	NPP	n=s|g=f	22	prep	22	prep
+25	,	,	PONCT	PONCT		24	ponct	24	ponct
+26	à	à	P	P		19	mod	19	mod
+27	la	la	DET	DET	n=s|g=f	28	det	28	det
+28	suite	suite	NC	NC	n=s|g=f	26	prep	26	prep
+29	du	de	P+D	P+D	n=s|g=m	19	mod	19	mod
+30	refus	refus	NC	NC	g=m	29	prep	29	prep
+31	de	de	P	P		19	mod	19	mod
+32	l'	le	DET	DET	n=s	33	det	33	det
+33	Allemagne	Allemagne	NPP	NPP	n=s|g=f	31	prep	31	prep
+34	de	de	P	P		19	mod	19	mod
+35	payer	payer	VINF	VINF	t=W	34	prep	34	prep
+36	des	des	DET	DET	n=p	37	det	37	det
+37	dommages	dommage	NC	NC	n=p|g=m	35	obj	35	obj
+38	et	et	CC	CC		37	coord	37	coord
+39	intérêts	intérêt	NC	NC	n=p|g=m	38	dep_coord	38	dep_coord
+40	pour	pour	P	P		19	mod	19	mod
+41	avoir	avoir	VINF	VINF	t=W	42	aux_tps	42	aux_tps
+42	coulé	couler	VPP	VPP	n=s|g=m|t=K	40	prep	40	prep
+43	deux	deux	DET	DET	s=card|n=p	44	det	44	det
+44	navires	navire	NC	NC	n=p|g=m	42	obj	42	obj
+45	mexicains	mexicain	ADJ	ADJ	n=p|g=m	44	mod	44	mod
+46	en	en	P	P		42	mod	42	mod
+47	mai	mai	NC	NC	n=s|g=m	46	prep	46	prep
+48	1942	1942	NC	NC		47	mod	47	mod
+49	.	.	PONCT	PONCT		48	ponct	48	ponct
+
+</p><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	pays	pays	NC	NC	g=m	3	suj	3	suj
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	régulièrement	_	ADV	ADV		3	mod	3	mod
+5	victime	victime	NC	NC	n=s|g=f	3	obj	3	obj
+6	de	de	P	P		3	mod	3	mod
+7	violences	violence	NC	NC	n=p|g=f	6	prep	6	prep
+8	.	.	PONCT	PONCT		7	ponct	7	ponct
+
+1	Par	par	P	P		9	mod	9	mod
+2	exemple	exemple	NC	NC	n=s|g=m	1	prep	1	prep
+3	la	la	DET	DET	n=s|g=f	4	det	4	det
+4	campagne	campagne	NC	NC	n=s|g=f	9	suj	9	suj
+5	électorale	électoral	ADJ	ADJ	n=s|g=f	4	mod	4	mod
+6	de	de	P	P		4	dep	4	dep
+7	1994	1994	NC	NC		6	prep	6	prep
+8	est	être	V	V	n=s|t=P|p=3	9	aux_pass	9	aux_pass
+9	marquée	marquer	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+10	par	par	P	P		9	mod	9	mod
+11	l'	le	DET	DET	n=s	12	det	12	det
+12	assassinat	assassinat	NC	NC	n=s|g=m	10	prep	10	prep
+13	de	de	P	P		9	mod	9	mod
+14	Luis	Luis	NPP	NPP	n=s|g=m	13	prep	13	prep
+15	Donaldo	_	NPP	NPP		14	mod	14	mod
+16	Colosio	_	NPP	NPP		14	mod	14	mod
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+</p><p>
+1	Cette	cette	DET	DET	n=s|g=f	3	det	3	det
+2	même	même	ADJ	ADJ	n=s	3	mod	3	mod
+3	année	année	NC	NC	n=s|g=f	0	_	0	_
+4	un	un	DET	DET	n=s|g=m	5	det	5	det
+5	accord	accord	NC	NC	n=s|g=m	3	mod	3	mod
+6	de	de	P	P		5	dep	5	dep
+7	libre-échange	libre-échange	NC	NC	n=s|g=m	6	prep	6	prep
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	l'	le	DET	DET	n=s	10	det	10	det
+10	ALENA	_	NPP	NPP		5	mod	5	mod
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	est	être	V	V	n=s|t=P|p=3	13	aux_tps	13	aux_tps
+13	signé	signer	VPP	VPP	n=s|g=m|t=K	5	mod_rel	5	mod_rel
+14	entre	entre	P	P		13	mod	13	mod
+15	le	le	DET	DET	n=s|g=m	16	det	16	det
+16	Canada	Canada	NPP	NPP	n=s|g=m	14	prep	14	prep
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	les	les	DET	DET	n=p	19	det	19	det
+19	Etats-Unis	_	NPP	NPP		13	suj	13	suj
+20	et	et	CC	CC		19	coord	19	coord
+21	le	le	DET	DET	n=s|g=m	22	det	22	det
+22	Mexique	Mexique	NPP	NPP	n=s|g=m	20	dep_coord	20	dep_coord
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+1	Cette	cette	DET	DET	n=s|g=f	2	det	2	det
+2	alliance	alliance	NC	NC	n=s|g=f	3	suj	3	suj
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	très	très	ADV	ADV		3	mod	3	mod
+5	importante	important	ADJ	ADJ	n=s|g=f	3	ats	3	ats
+6	au	à	P+D	P+D	n=s|g=m	3	mod	3	mod
+7	niveau	niveau	NC	NC	n=s|g=m	6	prep	6	prep
+8	économique	économique	ADJ	ADJ	n=s	7	mod	7	mod
+9	entre	entre	P	P		3	mod	3	mod
+10	ces	ces	DET	DET	n=p	12	det	12	det
+11	trois	trois	ADJ	ADJ	s=card|n=p	12	mod	12	mod
+12	pays	pays	NC	NC	g=m	9	prep	9	prep
+13	.	.	PONCT	PONCT		12	ponct	12	ponct
+
+</p><h2>
+1	Le	le	DET	DET	n=s|g=m	3	det	3	det
+2	xxi	_	ADJ	ADJ		3	mod	3	mod
+3	siècle	siècle	NC	NC	n=s|g=m	0	_	0	_
+
+</h2><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	Mexique	Mexique	NPP	NPP	n=s|g=m	3	suj	3	suj
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	aujourd'hui	aujourd'hui	ADV	ADV		3	mod	3	mod
+5	une	un	PRO	PRO	n=s|g=f	3	obj	3	obj
+6	des	de	P+D	P+D	n=p	5	dep	5	dep
+7	plaque	plaque	NC	NC	n=s|g=f	6	prep	6	prep
+8	tournante	tournant	ADJ	ADJ	n=s|g=f	7	mod	7	mod
+9	des	de	P+D	P+D	n=p	7	dep	7	dep
+10	traffics	_	NC	NC		9	prep	9	prep
+11	de	de	P	P		3	mod	3	mod
+12	drogue	drogue	NC	NC	n=s|g=f	11	prep	11	prep
+13	.	.	PONCT	PONCT		12	ponct	12	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	trafiquants	trafiquant	NC	NC	n=p|g=m	4	suj	4	suj
+3	se	se	CLR	CLR	n=p,s|p=3	4	aff	4	aff
+4	livrent	livrer	V	V	n=p|t=P,S|p=3	0	root	0	root
+5	entre	entre	P	P		4	mod	4	mod
+6	eux	eux	PRO	PRO	n=p|g=m|p=3	5	prep	5	prep
+7	à	à	P	P		4	mod	4	mod
+8	une	une	DET	DET	n=s|g=f	9	det	9	det
+9	guerre	guerre	NC	NC	n=s|g=f	7	prep	7	prep
+10	sans	sans	P	P		4	mod	4	mod
+11	merci	merci	NC	NC	n=s|g=m	10	prep	10	prep
+12	pour	pour	P	P		4	mod	4	mod
+13	le	le	DET	DET	n=s|g=m	14	det	14	det
+14	monopole	monopole	NC	NC	n=s|g=m	12	prep	12	prep
+15	du	de	P+D	P+D	n=s|g=m	4	mod	4	mod
+16	transit	transit	NC	NC	n=s|g=m	15	prep	15	prep
+17	par	par	P	P		4	mod	4	mod
+18	le	le	DET	DET	n=s|g=m	19	det	19	det
+19	Mexique	Mexique	NPP	NPP	n=s|g=m	17	prep	17	prep
+20	et	et	CC	CC		4	coord	4	coord
+21	le	le	DET	DET	n=s|g=m	22	det	22	det
+22	passage	passage	NC	NC	n=s|g=m	20	dep_coord	20	dep_coord
+23	vers	vers	P	P		22	dep	22	dep
+24	les	les	DET	DET	n=p	25	det	25	det
+25	États-Unis	États-Unis_d'Amérique	NPP	NPP	n=p|g=m	23	prep	23	prep
+26	de	de	P	P		22	dep	22	dep
+27	la	la	DET	DET	n=s|g=f	28	det	28	det
+28	drogue	drogue	NC	NC	n=s|g=f	26	prep	26	prep
+29	provenant	provenir	VPR	VPR	t=G	28	mod	28	mod
+30	principalement	_	ADV	ADV		29	mod	29	mod
+31	d'	de	P	P		29	mod	29	mod
+32	Amérique	Amérique	NPP	NPP	n=s|g=f	31	prep	31	prep
+33	du	de	P+D	P+D	n=s|g=m	29	mod	29	mod
+34	Sud	sud	NC	NC	n=s|g=m	33	prep	33	prep
+35	.	.	PONCT	PONCT		34	ponct	34	ponct
+
+1	Cette	cette	DET	DET	n=s|g=f	2	det	2	det
+2	guerre	guerre	NC	NC	n=s|g=f	5	suj	5	suj
+3	entre	entre	P	P		2	dep	2	dep
+4	cartels	cartel	NC	NC	n=p|g=m	3	prep	3	prep
+5	fait	faire	V	V	n=s|t=P|p=3	0	root	0	root
+6	depuis	depuis	P	P		5	mod	5	mod
+7	2006	2006	NC	NC		6	prep	6	prep
+8	entre	entre	P	P		5	mod	5	mod
+9	6_000	6_000	NPP	NPP		8	prep	8	prep
+10	et	et	CC	CC		5	coord	5	coord
+11	8_000	8_000	ADJ	ADJ		12	mod	12	mod
+12	morts	mort	NC	NC	n=p|g=f,m	0	_	0	_
+13	chaque	chaque	DET	DET	n=s	14	det	14	det
+14	année	année	NC	NC	n=s|g=f	12	mod	12	mod
+15	parmi	parmi	P	P		14	dep	14	dep
+16	leurs	leurs	DET	DET	n=p|p=3|poss=p	17	det	17	det
+17	membres	membre	NC	NC	n=p|g=m	15	prep	15	prep
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	En	en	P	P		2	ato	2	ato
+2	2017	2017	NC	NC		0	root	0	root
+3	25_339	25_339	NC	NC		2	mod	2	mod
+4	homicides	homicide	ADJ	ADJ	n=p	2	mod	2	mod
+5	ont	avoir	V	V	n=p|t=P|p=3	7	aux_tps	7	aux_tps
+6	été	être	VPP	VPP	t=K	7	aux_pass	7	aux_pass
+7	commis	commettre	VPP	VPP	g=m|t=K	2	ponct	2	ponct
+8	.	.	PONCT	PONCT		7	ponct	7	ponct
+
+</p><p>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	corruption	corruption	NC	NC	n=s|g=f	3	suj	3	suj
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	également	_	ADV	ADV		3	mod	3	mod
+5	très	très	ADV	ADV		6	mod	6	mod
+6	importante	important	ADJ	ADJ	n=s|g=f	3	ats	3	ats
+7	au	à	P+D	P+D	n=s|g=m	3	mod	3	mod
+8	Mexique	Mexique	NPP	NPP	n=s|g=m	7	prep	7	prep
+9	.	.	PONCT	PONCT		8	ponct	8	ponct
+
+1	Une	une	DET	DET	n=s|g=f	3	det	3	det
+2	grande	grand	ADJ	ADJ	n=s|g=f	3	mod	3	mod
+3	partie	partie	NC	NC	n=s|g=f	8	suj	8	suj
+4	des	de	P+D	P+D	n=p	3	dep	3	dep
+5	richesses	richesse	NC	NC	n=p|g=f	4	prep	4	prep
+6	produites	produire	VPP	VPP	n=p|g=f|t=K	5	mod	5	mod
+7	est	être	V	V	n=s|t=P|p=3	8	aux_pass	8	aux_pass
+8	captée	capter	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+9	par	par	P	P		8	mod	8	mod
+10	les	les	DET	DET	n=p	12	det	12	det
+11	grandes	grand	ADJ	ADJ	n=p|g=f	12	mod	12	mod
+12	fortunes	fortune	NC	NC	n=p|g=f	9	prep	9	prep
+13	.	.	PONCT	PONCT		12	ponct	12	ponct
+
+</p><p>
+1	Sur	sur	P	P		13	mod	13	mod
+2	le	le	DET	DET	n=s|g=m	3	det	3	det
+3	plan	plan	NC	NC	n=s|g=m	1	prep	1	prep
+4	politique	politique	ADJ	ADJ	n=s	3	mod	3	mod
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	l'	le	DET	DET	n=s	8	det	8	det
+7	actuel	actuel	ADJ	ADJ	n=s|g=m	8	mod	8	mod
+8	président	président	NC	NC	n=s|g=m	13	suj	13	suj
+9	de	de	P	P		8	dep	8	dep
+10	la	la	DET	DET	n=s|g=f	11	det	11	det
+11	République	république	NC	NC	n=s|g=f	9	prep	9	prep
+12	mexicaine	mexicain	ADJ	ADJ	n=s|g=f	11	mod	11	mod
+13	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+14	Andrés	Andrés	NPP	NPP	n=s|g=m	13	obj	13	obj
+15	Manuel	Manuel	NPP	NPP	n=s|g=m	14	mod	14	mod
+16	López	_	NPP	NPP		14	mod	14	mod
+17	Obrador	_	NPP	NPP		14	mod	14	mod
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	Avec	avec	P	P		8	mod	8	mod
+2	30	30	NC	NC		1	prep	1	prep
+3	millions	million	NC	NC	n=p	2	mod	2	mod
+4	de	de	P	P		8	mod	8	mod
+5	voix	voix	NC	NC	g=f	4	prep	4	prep
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	il	il	CLS	CLS	n=s|g=m|p=3	8	suj	8	suj
+8	obtient	obtenir	V	V	n=s|t=P|p=3	0	root	0	root
+9	le	le	DET	DET	n=s|g=m	12	det	12	det
+10	plus	plus	ADV	ADV		11	mod	11	mod
+11	grand	grand	ADJ	ADJ	n=s|g=m	12	mod	12	mod
+12	nombre	nombre	NC	NC	n=s|g=m	8	obj	8	obj
+13	de	de	P	P		8	mod	8	mod
+14	voix	voix	NC	NC	g=f	13	prep	13	prep
+15	pour	pour	P	P		8	mod	8	mod
+16	un	un	DET	DET	n=s|g=m	17	det	17	det
+17	candidat	candidat	NC	NC	n=s|g=m	15	prep	15	prep
+18	lors	lors	ADV	ADV		8	mod	8	mod
+19	d’	de	P	P		8	mod	8	mod
+20	une	une	DET	DET	n=s|g=f	21	det	21	det
+21	élection	élection	NC	NC	n=s|g=f	19	prep	19	prep
+22	présidentielle	présidentiel	ADJ	ADJ	n=s|g=f	21	mod	21	mod
+23	au	à	P+D	P+D	n=s|g=m	21	dep	21	dep
+24	Mexique	Mexique	NPP	NPP	n=s|g=m	23	prep	23	prep
+25	.	.	PONCT	PONCT		24	ponct	24	ponct
+
+</p><h2>
+1	Sources	source	NC	NC	n=p|g=f	0	_	0	_
+
+</h2><p>
+1	Wikipédia	Wikipedia	NPP	NPP	n=s|g=f	0	_	0	_
+
+</p><p>
+1	Cosmovision	_	NC	NC		0	_	0	_
+

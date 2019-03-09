@@ -1,0 +1,1411 @@
+<p>
+1	Pretty	_	NPP	NPP		11	suj	11	suj
+2	Good	_	NPP	NPP		1	mod	1	mod
+3	Privacy	_	NPP	NPP		1	mod	1	mod
+4	(	(	PONCT	PONCT		3	ponct	3	ponct
+5	d'	de	P	P		11	mod	11	mod
+6	où	où	PROREL	PROREL		5	prep	5	prep
+7	le	le	DET	DET	n=s|g=m	8	det	8	det
+8	sigle	sigle	NC	NC	n=s|g=m	11	suj	11	suj
+9	PGP	_	NPP	NPP		8	mod	8	mod
+10	)	)	PONCT	PONCT		9	ponct	9	ponct
+11	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+12	un	un	DET	DET	n=s|g=m	13	det	13	det
+13	système	système	NC	NC	n=s|g=m	11	obj	11	obj
+14	cryptographique	_	ADJ	ADJ		13	mod	13	mod
+15	semi-libre	_	NC	NC		13	mod	13	mod
+16	créé	créer	VPP	VPP	n=s|g=m|t=K	13	mod	13	mod
+17	en	en	P	P		16	mod	16	mod
+18	1991	1991	NC	NC		17	prep	17	prep
+19	par	par	P	P		16	mod	16	mod
+20	l'	le	DET	DET	n=s	22	det	22	det
+21	américain	américain	ADJ	ADJ	n=s|g=m	22	mod	22	mod
+22	Phil	Phil	NPP	NPP	n=s|g=m	19	prep	19	prep
+23	Zimmermann	_	NPP	NPP		22	mod	22	mod
+24	.	.	PONCT	PONCT		23	ponct	23	ponct
+
+1	PGP	_	NPP	NPP		2	suj	2	suj
+2	tente	tenter	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	de	de	P	P		2	obj	2	obj
+4	garantir	garantir	VINF	VINF	t=W	3	prep	3	prep
+5	une	une	DET	DET	n=s|g=f	6	det	6	det
+6	confidentialité	confidentialité	NC	NC	n=s|g=f	4	obj	4	obj
+7	et	et	CC	CC		2	coord	2	coord
+8	une	une	DET	DET	n=s|g=f	9	det	9	det
+9	sécurité	sécurité	NC	NC	n=s|g=f	0	_	0	_
+10	pour	pour	P	P		9	dep	9	dep
+11	la	la	DET	DET	n=s|g=f	12	det	12	det
+12	transmission	transmission	NC	NC	n=s|g=f	10	prep	10	prep
+13	d'	de	P	P		12	dep	12	dep
+14	informations	information	NC	NC	n=p|g=f	13	prep	13	prep
+15	confidentielles	confidentiel	ADJ	ADJ	n=p|g=f	14	mod	14	mod
+16	entre	entre	P	P		9	dep	9	dep
+17	les	les	DET	DET	n=p	18	det	18	det
+18	employés	employé	NC	NC	n=p|g=m	16	prep	16	prep
+19	des	de	P+D	P+D	n=p	18	dep	18	dep
+20	entreprises	entreprise	NC	NC	n=p|g=f	19	prep	19	prep
+21	ou	ou	CC	CC		16	coord	16	coord
+22	pour	pour	P	P		21	dep_coord	21	dep_coord
+23	le	le	DET	DET	n=s|g=m	24	det	24	det
+24	commerce	commerce	NC	NC	n=s|g=m	22	prep	22	prep
+25	électronique	électronique	ADJ	ADJ	n=s	24	mod	24	mod
+26	.	.	PONCT	PONCT		25	ponct	25	ponct
+
+</p><h2>
+1	Contexte	contexte	NC	NC	n=s|g=m	0	_	0	_
+2	historique	historique	ADJ	ADJ	n=s	1	mod	1	mod
+3	et	et	CC	CC		1	coord	1	coord
+4	cryptographique	_	NC	NC		3	dep_coord	3	dep_coord
+
+</h2><h3>
+1	Contexte	contexte	NC	NC	n=s|g=m	8	mod	8	mod
+2	historique	historique	ADJ	ADJ	n=s	1	mod	1	mod
+3	:	:	PONCT	PONCT		2	ponct	2	ponct
+4	pourquoi	pourquoi	ADVWH	ADVWH		8	mod	8	mod
+5	PGP	_	NPP	NPP		8	suj	8	suj
+6	a	avoir	V	V	n=s|t=P|p=3	8	aux_tps	8	aux_tps
+7	été	être	VPP	VPP	t=K	8	aux_pass	8	aux_pass
+8	créé	créer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+
+</h3><p>
+1	Dans	dans	P	P		9	mod	9	mod
+2	les	les	DET	DET	n=p	3	det	3	det
+3	années	année	NC	NC	n=p|g=f	1	prep	1	prep
+4	1970	1970	NC	NC		3	mod	3	mod
+5	et	et	CC	CC		3	coord	3	coord
+6	1980	1980	NC	NC		5	dep_coord	5	dep_coord
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	on	on	CLS	CLS	n=s|p=3	9	suj	9	suj
+9	assiste	assister	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+10	à	à	P	P		9	mod	9	mod
+11	l'	le	DET	DET	n=s	12	det	12	det
+12	essor	essor	NC	NC	n=s|g=m	10	prep	10	prep
+13	de	de	P	P		9	mod	9	mod
+14	l'	le	DET	DET	n=s	15	det	15	det
+15	informatique	informatique	NC	NC	n=s|g=f	13	prep	13	prep
+16	:	:	PONCT	PONCT		15	ponct	15	ponct
+17	la	la	DET	DET	n=s|g=f	18	det	18	det
+18	puissance	puissance	NC	NC	n=s|g=f	9	obj	9	obj
+19	des	de	P+D	P+D	n=p	18	dep	18	dep
+20	ordinateurs	ordinateur	NC	NC	n=p|g=m	19	prep	19	prep
+21	augmente	augmenter	V	V	n=s|t=P,S|p=1,3	9	mod	9	mod
+22	de	de	P	P		21	mod	21	mod
+23	façon	façon	NC	NC	n=s|g=f	22	prep	22	prep
+24	très	très	ADV	ADV		25	mod	25	mod
+25	importante	important	ADJ	ADJ	n=s|g=f	23	mod	23	mod
+26	.	.	PONCT	PONCT		25	ponct	25	ponct
+
+1	Cela	cela	PRO	PRO	n=s|g=m	3	suj	3	suj
+2	a	avoir	V	V	n=s|t=P|p=3	3	aux_tps	3	aux_tps
+3	eu	avoir	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+4	(	(	PONCT	PONCT		3	ponct	3	ponct
+5	et	et	CC	CC		3	coord	3	coord
+6	aura	avoir	V	V	n=s|t=F|p=3	5	dep_coord	5	dep_coord
+7	toujours	toujours	ADV	ADV		6	mod	6	mod
+8	)	)	PONCT	PONCT		7	ponct	7	ponct
+9	une	une	DET	DET	n=s|g=f	10	det	10	det
+10	conséquence	conséquence	NC	NC	n=s|g=f	6	obj	6	obj
+11	directe	direct	ADJ	ADJ	n=s|g=f	10	mod	10	mod
+12	sur	sur	P	P		6	mod	6	mod
+13	la	la	DET	DET	n=s|g=f	14	det	14	det
+14	cryptologie	_	NC	NC		12	prep	12	prep
+15	:	:	PONCT	PONCT		14	ponct	14	ponct
+16	un	un	DET	DET	n=s|g=m	18	det	18	det
+17	cryptanalyste	_	ADJ	ADJ		18	mod	18	mod
+18	armé	armé	NC	NC	n=s|g=m	6	obj	6	obj
+19	d'	de	P	P		6	mod	6	mod
+20	un	un	DET	DET	n=s|g=m	21	det	21	det
+21	ordinateur	ordinateur	NC	NC	n=s|g=m	19	prep	19	prep
+22	moderne	moderne	ADJ	ADJ	n=s	21	mod	21	mod
+23	est	être	V	V	n=s|t=P|p=3	6	mod	6	mod
+24	toujours	toujours	ADV	ADV		23	mod	23	mod
+25	plus	plus	ADV	ADV		23	mod	23	mod
+26	dangereux	dangereux	ADJ	ADJ	g=m	23	ats	23	ats
+27	,	,	PONCT	PONCT		26	ponct	26	ponct
+28	pour	pour	P	P		23	mod	23	mod
+29	des	des	DET	DET	n=p	30	det	30	det
+30	individus	individu	NC	NC	n=p|g=m	28	prep	28	prep
+31	désirant	désirer	VPR	VPR	t=G	30	mod	30	mod
+32	échanger	échanger	VINF	VINF	t=W	31	obj	31	obj
+33	des	des	DET	DET	n=p	34	det	34	det
+34	données	donnée	NC	NC	n=p|g=f	32	obj	32	obj
+35	confidentielles	confidentiel	ADJ	ADJ	n=p|g=f	34	mod	34	mod
+36	,	,	PONCT	PONCT		35	ponct	35	ponct
+37	qu'	que	CS	CS		23	mod	23	mod
+38	un	un	DET	DET	n=s|g=m	39	det	39	det
+39	cryptanalyste	_	NC	NC		0	_	0	_
+40	disposant	disposer	VPR	VPR	t=G	39	mod	39	mod
+41	seulement	_	ADV	ADV		40	mod	40	mod
+42	d'	de	P	P		40	mod	40	mod
+43	un	un	DET	DET	n=s|g=m	44	det	44	det
+44	crayon	crayon	NC	NC	n=s|g=m	42	prep	42	prep
+45	!	!	PONCT	PONCT		44	ponct	44	ponct
+
+1	Les	les	DET	DET	n=p	3	det	3	det
+2	anciens	ancien	ADJ	ADJ	n=p|g=m	3	mod	3	mod
+3	systèmes	système	NC	NC	n=p|g=m	13	suj	13	suj
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	que	que	PROREL	PROREL		8	mod	8	mod
+6	l'	le	DET	DET	n=s	7	det	7	det
+7	on	on	CLS	CLS	n=s|p=3	8	suj	8	suj
+8	croyait	croire	V	V	n=s|t=I|p=3	3	mod_rel	3	mod_rel
+9	sûrs	sûr	ADJ	ADJ	n=p|g=m	8	ato	8	ato
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	se	se	CLR	CLR	n=p,s|p=3	13	aff	13	aff
+12	sont	être	V	V	n=p|t=P|p=3	13	aux_tps	13	aux_tps
+13	effondrés	effondrer	VPP	VPP	n=p|g=m|t=K	0	root	0	root
+14	devant	devant	P	P		13	mod	13	mod
+15	la	la	DET	DET	n=s|g=f	16	det	16	det
+16	puissance	puissance	NC	NC	n=s|g=f	14	prep	14	prep
+17	informatique	informatique	ADJ	ADJ	n=s	16	mod	16	mod
+18	dont	dont	PROREL	PROREL		19	suj	19	suj
+19	pouvait	pouvoir	V	V	n=s|t=I|p=3	16	mod_rel	16	mod_rel
+20	disposer	disposer	VINF	VINF	t=W	19	obj	19	obj
+21	un	un	DET	DET	n=s|g=m	22	det	22	det
+22	État	État	NC	NC	n=s|g=m	20	obj	20	obj
+23	ou	ou	CC	CC		22	coord	22	coord
+24	une	une	DET	DET	n=s|g=f	25	det	25	det
+25	entreprise	entreprise	NC	NC	n=s|g=f	23	dep_coord	23	dep_coord
+26	spécialisée	spécialiser	ADJ	ADJ	n=s|g=f|t=K	25	mod	25	mod
+27	.	.	PONCT	PONCT		26	ponct	26	ponct
+
+</p><p>
+1	Dans	dans	P	P		6	mod	6	mod
+2	ces	ces	DET	DET	n=p	3	det	3	det
+3	conditions	condition	NC	NC	n=p|g=f	1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	comment	comment	ADVWH	ADVWH		6	mod	6	mod
+6	échanger	échanger	VINF	VINF	t=W	0	root	0	root
+7	des	des	DET	DET	n=p	8	det	8	det
+8	informations	information	NC	NC	n=p|g=f	6	obj	6	obj
+9	confidentielles	confidentiel	ADJ	ADJ	n=p|g=f	8	mod	8	mod
+10	avec	avec	P	P		6	mod	6	mod
+11	quelqu'	quelque	ADV	ADV		12	mod	12	mod
+12	un	un	PRO	PRO	n=s|g=m	10	prep	10	prep
+13	d'	de	P	P		6	mod	6	mod
+14	autre	autre	ADJ	ADJ	n=s	13	prep	13	prep
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	puisque	puisque	CS	CS		6	mod	6	mod
+17	tous	tout	ADJ	ADJ	n=p|g=m	19	mod	19	mod
+18	les	les	DET	DET	n=p	19	det	19	det
+19	systèmes	système	NC	NC	n=p|g=m	22	suj	22	suj
+20	cryptographiques	_	NC	NC		19	mod	19	mod
+21	fiables	fiable	ADJ	ADJ	n=p	19	mod	19	mod
+22	étaient	être	V	V	n=p|t=I|p=3	16	sub	16	sub
+23	hors	hors	P	P		22	mod	22	mod
+24	de	de	P	P		23	dep	23	dep
+25	portée	portée	NC	NC	n=s|g=f	24	prep	24	prep
+26	du	de	P+D	P+D	n=s|g=m	22	mod	22	mod
+27	grand	grand	ADJ	ADJ	n=s|g=m	28	mod	28	mod
+28	public	public	NC	NC	n=s|g=m	26	prep	26	prep
+29	?	?	PONCT	PONCT		28	ponct	28	ponct
+
+</p><h3>
+1	Rappel	rappel	NC	NC	n=s|g=m	0	_	0	_
+2	de	de	P	P		1	dep	1	dep
+3	cryptographie	cryptographie	NC	NC	n=s|g=f	2	prep	2	prep
+
+</h3><p>
+1	Système	système	NC	NC	n=s|g=m	0	_	0	_
+2	à	à	P	P		1	dep	1	dep
+3	clé	clé	NC	NC	n=s|g=f	2	prep	2	prep
+4	publique	public	ADJ	ADJ	n=s|g=f	3	mod	3	mod
+5	et	et	CC	CC		1	coord	1	coord
+6	clé	clé	NC	NC	n=s|g=f	5	dep_coord	5	dep_coord
+7	privée	priver	ADJ	ADJ	n=s|g=f|t=K	6	mod	6	mod
+
+</p><p>
+1	Un	un	DET	DET	n=s|g=m	2	det	2	det
+2	système	système	NC	NC	n=s|g=m	6	suj	6	suj
+3	de	de	P	P		2	dep	2	dep
+4	cryptographie	cryptographie	NC	NC	n=s|g=f	3	prep	3	prep
+5	asymétrique	asymétrique	ADJ	ADJ	n=s	4	mod	4	mod
+6	fait	faire	V	V	n=s|t=P|p=3	0	root	0	root
+7	appel	appel	NC	NC	n=s|g=m	6	obj	6	obj
+8	à	à	P	P		6	mod	6	mod
+9	une	une	DET	DET	n=s|g=f	10	det	10	det
+10	paire	paire	NC	NC	n=s|g=f	8	prep	8	prep
+11	de	de	P	P		6	mod	6	mod
+12	clés	clé	NC	NC	n=p|g=f	11	prep	11	prep
+13	.	.	PONCT	PONCT		12	ponct	12	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	personne	personne	NC	NC	n=s|g=f	10	suj	10	suj
+3	qui	qui	PROREL	PROREL	n=s	4	suj	4	suj
+4	souhaite	souhaiter	V	V	n=s|t=P,S|p=1,3	2	mod_rel	2	mod_rel
+5	pouvoir	pouvoir	VINF	VINF	t=W	4	obj	4	obj
+6	recevoir	recevoir	VINF	VINF	t=W	5	obj	5	obj
+7	des	des	DET	DET	n=p	8	det	8	det
+8	informations	information	NC	NC	n=p|g=f	6	obj	6	obj
+9	chiffrées	chiffrer	ADJ	ADJ	n=p|g=f|t=K	8	mod	8	mod
+10	publie	publier	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+11	pour	pour	P	P		10	mod	10	mod
+12	tout	tout	ADJ	ADJ	n=s|g=m	14	mod	14	mod
+13	le	le	DET	DET	n=s|g=m	14	det	14	det
+14	monde	monde	NC	NC	n=s|g=m	11	prep	11	prep
+15	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	17	det	17	det
+16	«_	"	PONCT	PONCT		15	ponct	15	ponct
+17	clé	clé	NC	NC	n=s|g=f	10	obj	10	obj
+18	publique	public	ADJ	ADJ	n=s|g=f	17	mod	17	mod
+19	_»	"	PONCT	PONCT		18	ponct	18	ponct
+20	qui	qui	PROREL	PROREL	n=s	21	suj	21	suj
+21	permet	permettre	V	V	n=s|t=P|p=3	17	mod_rel	17	mod_rel
+22	de	de	P	P		21	obj	21	obj
+23	coder	coder	VINF	VINF	t=W	22	prep	22	prep
+24	l'	le	DET	DET	n=s	25	det	25	det
+25	information	information	NC	NC	n=s|g=f	23	obj	23	obj
+26	.	.	PONCT	PONCT		25	ponct	25	ponct
+
+1	Sa	sa	DET	DET	n=s|g=f|p=3|poss=s	3	det	3	det
+2	«_	"	PONCT	PONCT		1	ponct	1	ponct
+3	clé	clé	NC	NC	n=s|g=f	7	suj	7	suj
+4	privée	priver	ADJ	ADJ	n=s|g=f|t=K	3	mod	3	mod
+5	_»	"	PONCT	PONCT		4	ponct	4	ponct
+6	lui	lui	CLO	CLO	n=s|p=3	7	aff	7	aff
+7	permet	permettre	V	V	n=s|t=P|p=3	0	root	0	root
+8	ensuite	ensuite	ADV	ADV		7	mod	7	mod
+9	de	de	P	P		7	mod	7	mod
+10	la	la	CLO	CLO	n=s|g=f|p=3	11	obj	11	obj
+11	décoder	décoder	VINF	VINF	t=W	9	prep	9	prep
+12	en	en	P	P		11	mod	11	mod
+13	toute	toute	DET	DET	n=s|g=f	14	det	14	det
+14	sécurité	sécurité	NC	NC	n=s|g=f	12	prep	12	prep
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+1	C'	ce	CLS	CLS		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	un	un	DET	DET	n=s|g=m	0	_	0	_
+4	peu	peu	ADV	ADV		0	_	0	_
+5	comme	comme	P	P		4	mod	4	mod
+6	si	si	CS	CS		5	prep	5	prep
+7	on	on	CLS	CLS	n=s|p=3	8	suj	8	suj
+8	voulait	vouloir	V	V	n=s|t=I|p=3	6	sub	6	sub
+9	recevoir	recevoir	VINF	VINF	t=W	8	obj	8	obj
+10	des	des	DET	DET	n=p	11	det	11	det
+11	paquets	paquet	NC	NC	n=p|g=m	9	obj	9	obj
+12	par	par	P	P		9	mod	9	mod
+13	la	la	DET	DET	n=s|g=f	14	det	14	det
+14	poste	poste	NC	NC	n=s	12	prep	12	prep
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	fermés	fermer	VPP	VPP	n=p|g=m|t=K	9	mod	9	mod
+17	par	par	P	P		16	mod	16	mod
+18	un	un	DET	DET	n=s|g=m	19	det	19	det
+19	cadenas	cadenas	NC	NC	g=m	17	prep	17	prep
+20	:	:	PONCT	PONCT		19	ponct	19	ponct
+21	dans	dans	P	P		16	mod	16	mod
+22	ce	ce	DET	DET	n=s|g=m	23	det	23	det
+23	cas	cas	NC	NC	g=m	21	prep	21	prep
+24	,	,	PONCT	PONCT		23	ponct	23	ponct
+25	on	on	CLS	CLS	n=s|p=3	26	suj	26	suj
+26	distribue	distribuer	V	V	n=s|t=P,S|p=1,3	6	root	6	root
+27	des	des	DET	DET	n=p	28	det	28	det
+28	cadenas	cadenas	NC	NC	g=m	26	obj	26	obj
+29	gratuitement	_	ADV	ADV		26	mod	26	mod
+30	aux	à	P+D	P+D	n=p	26	mod	26	mod
+31	gens	gens	NC	NC	n=p|g=m	30	prep	30	prep
+32	,	,	PONCT	PONCT		31	ponct	31	ponct
+33	et	et	CC	CC		26	coord	26	coord
+34	quand	quand	CS	CS		33	dep_coord	33	dep_coord
+35	ceux-ci	ceux-ci	PRO	PRO	n=p|g=m	36	suj	36	suj
+36	veulent	vouloir	V	V	n=p|t=P|p=3	34	sub	34	sub
+37	nous	nous	CLO	CLO	n=p|p=1	38	aff	38	aff
+38	envoyer	envoyer	VINF	VINF	t=W	36	obj	36	obj
+39	un	un	DET	DET	n=s|g=m	40	det	40	det
+40	paquet	paquet	NC	NC	n=s|g=m	38	obj	38	obj
+41	,	,	PONCT	PONCT		40	ponct	40	ponct
+42	ils	ils	CLS	CLS	n=p|g=m|p=3	44	suj	44	suj
+43	le	le	CLO	CLO	n=s|g=m|p=3	44	obj	44	obj
+44	ferment	fermer	V	V	n=p|t=P,S|p=3	34	root	34	root
+45	avec	avec	P	P		44	mod	44	mod
+46	ce	ce	DET	DET	n=s|g=m	47	det	47	det
+47	cadenas	cadenas	NC	NC	g=m	45	prep	45	prep
+48	.	.	PONCT	PONCT		47	ponct	47	ponct
+
+1	Mais	mais	CC	CC		0	root	0	root
+2	on	on	CLS	CLS	n=s|p=3	3	suj	3	suj
+3	est	être	V	V	n=s|t=P|p=3	1	dep_coord	1	dep_coord
+4	la	la	DET	DET	n=s|g=f	6	det	6	det
+5	seule	seul	ADJ	ADJ	n=s|g=f	6	mod	6	mod
+6	personne	personne	NC	NC	n=s|g=f	3	obj	3	obj
+7	au	à	P+D	P+D	n=s|g=m	3	mod	3	mod
+8	monde	monde	NC	NC	n=s|g=m	7	prep	7	prep
+9	à	à	P	P		3	mod	3	mod
+10	posséder	posséder	VINF	VINF	t=W	9	prep	9	prep
+11	une	une	DET	DET	n=s|g=f	12	det	12	det
+12	clé	clé	NC	NC	n=s|g=f	10	obj	10	obj
+13	de	de	P	P		12	dep	12	dep
+14	ce	ce	DET	DET	n=s|g=m	15	det	15	det
+15	cadenas	cadenas	NC	NC	g=m	13	prep	13	prep
+16	pour	pour	P	P		3	mod	3	mod
+17	l'	le	CLO	CLO	n=s|p=3	18	obj	18	obj
+18	ouvrir	ouvrir	VINF	VINF	t=W	16	prep	16	prep
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+</p><p>
+1	Système	système	NC	NC	n=s|g=m	0	_	0	_
+2	à	à	P	P		1	dep	1	dep
+3	clé	clé	NC	NC	n=s|g=f	2	prep	2	prep
+4	secrète	secret	ADJ	ADJ	n=s|g=f	3	mod	3	mod
+
+</p><p>
+1	Un	un	DET	DET	n=s|g=m	2	det	2	det
+2	système	système	NC	NC	n=s|g=m	6	suj	6	suj
+3	de	de	P	P		2	dep	2	dep
+4	cryptographie	cryptographie	NC	NC	n=s|g=f	3	prep	3	prep
+5	symétrique	symétrique	ADJ	ADJ	n=s	4	mod	4	mod
+6	fait	faire	V	V	n=s|t=P|p=3	0	root	0	root
+7	appel	appel	NC	NC	n=s|g=m	6	obj	6	obj
+8	à	à	P	P		6	mod	6	mod
+9	une	une	DET	DET	n=s|g=f	11	det	11	det
+10	seule	seul	ADJ	ADJ	n=s|g=f	11	mod	11	mod
+11	clé	clé	NC	NC	n=s|g=f	8	prep	8	prep
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	personnes	personne	NC	NC	n=p|g=f	9	suj	9	suj
+3	qui	qui	PROREL	PROREL	n=s	4	suj	4	suj
+4	souhaitent	souhaiter	V	V	n=p|t=P,S|p=3	2	mod_rel	2	mod_rel
+5	échanger	échanger	VINF	VINF	t=W	4	obj	4	obj
+6	des	des	DET	DET	n=p	7	det	7	det
+7	informations	information	NC	NC	n=p|g=f	5	obj	5	obj
+8	chiffrées	chiffrer	ADJ	ADJ	n=p|g=f|t=K	7	mod	7	mod
+9	utilisent	utiliser	V	V	n=p|t=P,S|p=3	0	root	0	root
+10	la	la	DET	DET	n=s|g=f	12	det	12	det
+11	même	même	ADJ	ADJ	n=s	12	mod	12	mod
+12	clé	clé	NC	NC	n=s|g=f	9	obj	9	obj
+13	pour	pour	P	P		9	mod	9	mod
+14	encoder	encoder	VINF	VINF	t=W	13	prep	13	prep
+15	et	et	CC	CC		14	coord	14	coord
+16	décoder	décoder	VINF	VINF	t=W	15	dep_coord	15	dep_coord
+17	l'	le	DET	DET	n=s	18	det	18	det
+18	information	information	NC	NC	n=s|g=f	14	mod	14	mod
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	Cette	cette	DET	DET	n=s|g=f	2	det	2	det
+2	clé	clé	NC	NC	n=s|g=f	3	suj	3	suj
+3	doit	devoir	V	V	n=s|t=P|p=3	0	root	0	root
+4	être	être	VINF	VINF	t=W	3	obj	3	obj
+5	gardée	garder	VPP	VPP	n=s|g=f|t=K	4	dep	4	dep
+6	secrète	secret	ADJ	ADJ	n=s|g=f	5	mod	5	mod
+7	afin	_	ADV	ADV		5	mod	5	mod
+8	que	que	CS	CS		5	mod	5	mod
+9	personne	personne	PRO	PRO	n=s	13	suj	13	suj
+10	d'	de	P	P		9	dep	9	dep
+11	autre	autre	ADJ	ADJ	n=s	10	prep	10	prep
+12	ne	ne	ADV	ADV		13	mod	13	mod
+13	puisse	pouvoir	VS	VS	n=s|t=S|p=1,3	8	sub	8	sub
+14	déchiffrer	déchiffrer	VINF	VINF	t=W	13	obj	13	obj
+15	l'	le	DET	DET	n=s	16	det	16	det
+16	information	information	NC	NC	n=s|g=f	14	obj	14	obj
+17	échangée	échanger	VPP	VPP	n=s|g=f|t=K	16	mod	16	mod
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+</p><p>
+1	Avantages	avantage	NC	NC	n=p|g=m	0	_	0	_
+2	respectifs	respectif	ADJ	ADJ	n=p|g=m	1	mod	1	mod
+
+</p><p></p><p>
+1	Tout	tout	DET	DET	n=s|g=m	2	det	2	det
+2	système	système	NC	NC	n=s|g=m	11	suj	11	suj
+3	cryptographique	_	ADJ	ADJ		2	mod	2	mod
+4	à	à	P	P		2	dep	2	dep
+5	paire	paire	NC	NC	n=s|g=f	4	prep	4	prep
+6	de	de	P	P		2	dep	2	dep
+7	clés	clé	NC	NC	n=p|g=f	6	prep	6	prep
+8	publique	public	ADJ	ADJ	n=s|g=f	7	mod	7	mod
+9	/	/	PONCT	PONCT		8	ponct	8	ponct
+10	privée	priver	ADJ	ADJ	n=s|g=f|t=K	2	mod	2	mod
+11	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+12	infiniment	_	ADV	ADV		11	mod	11	mod
+13	plus	plus	ADV	ADV		14	mod	14	mod
+14	sûr	sûr	ADJ	ADJ	n=s|g=m	11	ats	11	ats
+15	que	que	CS	CS		11	mod	11	mod
+16	n'	ne	ADV	ADV		17	mod	17	mod
+17	importe	importer	V	V	n=s|t=P,S|p=1,3	15	sub	15	sub
+18	quel	quel	DETWH	DETWH	n=s|g=m	19	mod	19	mod
+19	système	système	NC	NC	n=s|g=m	17	obj	17	obj
+20	à	à	P	P		17	mod	17	mod
+21	clé	clé	NC	NC	n=s|g=f	20	prep	20	prep
+22	secrète	secret	ADJ	ADJ	n=s|g=f	21	mod	21	mod
+23	lorsque	lorsque	CS	CS		17	mod	17	mod
+24	l'	le	DET	DET	n=s	25	det	25	det
+25	on	on	CLS	CLS	n=s|p=3	27	suj	27	suj
+26	ne	ne	ADV	ADV		27	mod	27	mod
+27	dispose	disposer	V	V	n=s|t=P,S|p=1,3	23	sub	23	sub
+28	pas	pas	ADV	ADV		27	mod	27	mod
+29	de	de	P	P		27	mod	27	mod
+30	moyens	moyen	NC	NC	n=p|g=m	29	prep	29	prep
+31	de	de	P	P		27	mod	27	mod
+32	transmission	transmission	NC	NC	n=s|g=f	31	prep	31	prep
+33	sécurisés	sécuriser	VPP	VPP	n=p|g=m|t=K	27	mod	27	mod
+34	pour	pour	P	P		33	mod	33	mod
+35	la	la	DET	DET	n=s|g=f	36	det	36	det
+36	clé	clé	NC	NC	n=s|g=f	34	prep	34	prep
+37	.	.	PONCT	PONCT		36	ponct	36	ponct
+
+</p><p>
+1	Tout	tout	DET	DET	n=s|g=m	2	det	2	det
+2	système	système	NC	NC	n=s|g=m	7	suj	7	suj
+3	cryptographique	_	ADJ	ADJ		2	mod	2	mod
+4	à	à	P	P		2	dep	2	dep
+5	clé	clé	NC	NC	n=s|g=f	4	prep	4	prep
+6	secrète	secret	ADJ	ADJ	n=s|g=f	5	mod	5	mod
+7	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+8	beaucoup	beaucoup	ADV	ADV		7	mod	7	mod
+9	plus	plus	ADV	ADV		10	mod	10	mod
+10	rapide	rapide	ADJ	ADJ	n=s	7	ats	7	ats
+11	que	que	CS	CS		7	mod	7	mod
+12	n'	ne	ADV	ADV		13	mod	13	mod
+13	importe	importer	V	V	n=s|t=P,S|p=1,3	11	sub	11	sub
+14	quel	quel	DETWH	DETWH	n=s|g=m	15	mod	15	mod
+15	système	système	NC	NC	n=s|g=m	13	obj	13	obj
+16	à	à	P	P		13	mod	13	mod
+17	paire	paire	NC	NC	n=s|g=f	16	prep	16	prep
+18	de	de	P	P		13	mod	13	mod
+19	clés	clé	NC	NC	n=p|g=f	18	prep	18	prep
+20	publique	public	ADJ	ADJ	n=s|g=f	19	mod	19	mod
+21	/	/	PONCT	PONCT		20	ponct	20	ponct
+22	privée	priver	VPP	VPP	n=s|g=f|t=K	13	mod	13	mod
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	et	et	CC	CC		22	coord	22	coord
+25	ce	ce	PRO	PRO	n=s	24	dep_coord	24	dep_coord
+26	dans	dans	P	P		24	dep_coord	24	dep_coord
+27	tous	tout	ADJ	ADJ	n=p|g=m	29	mod	29	mod
+28	les	les	DET	DET	n=p	29	det	29	det
+29	cas	cas	NC	NC	g=m	26	prep	26	prep
+30	(	(	PONCT	PONCT		29	ponct	29	ponct
+31	on	on	CLS	CLS	n=s|p=3	32	suj	32	suj
+32	parle	parler	V	V	n=s|t=P,S|p=1,3	11	root	11	root
+33	ici	ici	ADV	ADV		32	mod	32	mod
+34	du	de	P+D	P+D	n=s|g=m	32	mod	32	mod
+35	cryptage	cryptage	NC	NC	n=s|g=m	34	prep	34	prep
+36	et	et	CC	CC		34	coord	34	coord
+37	du	de	P+D	P+D	n=s|g=m	36	dep_coord	36	dep_coord
+38	décryptage	décryptage	NC	NC	n=s|g=m	37	prep	37	prep
+39	des	de	P+D	P+D	n=p	34	dep	34	dep
+40	informations	information	NC	NC	n=p|g=f	39	prep	39	prep
+41	)	)	PONCT	PONCT		40	ponct	40	ponct
+42	.	.	PONCT	PONCT		40	ponct	40	ponct
+
+</p><h3>
+1	Un	un	DET	DET	n=s|g=m	2	det	2	det
+2	système	système	NC	NC	n=s|g=m	0	_	0	_
+3	hybride	hybride	NC	NC	n=s|g=m	2	mod	2	mod
+
+</h3><p>
+1	Ce	ce	CLS	CLS		3	suj	3	suj
+2	n'	ne	ADV	ADV		3	mod	3	mod
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	qu'	que	CS	CS		3	obj	3	obj
+5	en	en	P	P		7	mod	7	mod
+6	1991	1991	NC	NC		5	prep	5	prep
+7	qu'	que	CS	CS		3	mod	3	mod
+8	un	un	DET	DET	n=s|g=m	9	det	9	det
+9	compromis	compromis	NC	NC	g=m	27	suj	27	suj
+10	entre	entre	P	P		9	dep	9	dep
+11	cryptographie	cryptographie	NC	NC	n=s|g=f	10	prep	10	prep
+12	à	à	P	P		9	dep	9	dep
+13	clef	clef	NC	NC	n=s|g=f	12	prep	12	prep
+14	secrète	secret	ADJ	ADJ	n=s|g=f	13	mod	13	mod
+15	(	(	PONCT	PONCT		14	ponct	14	ponct
+16	rapide	rapide	ADJ	ADJ	n=s	9	mod	9	mod
+17	)	)	PONCT	PONCT		16	ponct	16	ponct
+18	et	et	CC	CC		9	coord	9	coord
+19	à	à	P	P		18	dep_coord	18	dep_coord
+20	clef	clef	NC	NC	n=s|g=f	19	prep	19	prep
+21	publique	public	ADJ	ADJ	n=s|g=f	20	mod	20	mod
+22	(	(	PONCT	PONCT		21	ponct	21	ponct
+23	sûre	sûr	ADJ	ADJ	n=s|g=f	20	mod	20	mod
+24	)	)	PONCT	PONCT		23	ponct	23	ponct
+25	a	avoir	V	V	n=s|t=P|p=3	27	aux_tps	27	aux_tps
+26	été	être	VPP	VPP	t=K	27	aux_pass	27	aux_pass
+27	trouvé	trouver	VPP	VPP	n=s|g=m|t=K	7	sub	7	sub
+28	:	:	PONCT	PONCT		27	ponct	27	ponct
+29	l'	le	DET	DET	n=s	31	det	31	det
+30	américain	américain	ADJ	ADJ	n=s|g=m	31	mod	31	mod
+31	Philip	Philip	NPP	NPP	n=s|g=m	34	suj	34	suj
+32	Zimmermann	_	NPP	NPP		31	mod	31	mod
+33	a	avoir	V	V	n=s|t=P|p=3	34	aux_tps	34	aux_tps
+34	lancé	lancer	VPP	VPP	n=s|g=m|t=K	7	root	7	root
+35	sur	sur	P	P		34	mod	34	mod
+36	Internet	_	NPP	NPP		35	prep	35	prep
+37	en	en	P	P		34	mod	34	mod
+38	téléchargement	téléchargement	NC	NC	n=s|g=m	37	prep	37	prep
+39	libre	libre	ADJ	ADJ	n=s	38	mod	38	mod
+40	son	son	DET	DET	n=s|g=m|p=3|poss=s	41	det	41	det
+41	logiciel	logiciel	NC	NC	n=s|g=m	34	obj	34	obj
+42	Pretty	_	NPP	NPP		41	mod	41	mod
+43	Good	_	NPP	NPP		41	mod	41	mod
+44	Privacy	_	NPP	NPP		41	mod	41	mod
+45	(	(	PONCT	PONCT		44	ponct	44	ponct
+46	ce	ce	PRO	PRO	n=s	41	mod	41	mod
+47	qui	qui	PROREL	PROREL	n=s	48	suj	48	suj
+48	pourrait	pouvoir	V	V	n=s|t=C|p=3	46	mod_rel	46	mod_rel
+49	se	se	CLR	CLR	n=p,s|p=3	50	aff	50	aff
+50	traduire	traduire	VINF	VINF	t=W	48	obj	48	obj
+51	par	par	P	P		50	mod	50	mod
+52	«_	"	PONCT	PONCT		51	ponct	51	ponct
+53	assez	assez	ADV	ADV		54	mod	54	mod
+54	bonne	bon	ADJ	ADJ	n=s|g=f	55	mod	55	mod
+55	confidentialité	confidentialité	NC	NC	n=s|g=f	51	prep	51	prep
+56	_»	"	PONCT	PONCT		55	ponct	55	ponct
+57	)	)	PONCT	PONCT		55	ponct	55	ponct
+58	,	,	PONCT	PONCT		55	ponct	55	ponct
+59	d'	de	P	P		48	mod	48	mod
+60	où	où	PROREL	PROREL		59	prep	59	prep
+61	le	le	DET	DET	n=s|g=m	62	det	62	det
+62	sigle	sigle	NC	NC	n=s|g=m	0	_	0	_
+63	PGP	_	NPP	NPP		62	mod	62	mod
+64	.	.	PONCT	PONCT		63	ponct	63	ponct
+
+1	PGP	_	NPP	NPP		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	donc	donc	ADV	ADV		2	mod	2	mod
+4	un	un	DET	DET	n=s|g=m	5	det	5	det
+5	système	système	NC	NC	n=s|g=m	2	obj	2	obj
+6	dit	dire	VPP	VPP	n=s|g=m|t=K	5	mod	5	mod
+7	«_	"	PONCT	PONCT		6	ponct	6	ponct
+8	de	de	P	P		6	mod	6	mod
+9	cryptographie	cryptographie	NC	NC	n=s|g=f	8	prep	8	prep
+10	hybride	hybride	ADJ	ADJ	n=s	9	mod	9	mod
+11	_»	"	PONCT	PONCT		10	ponct	10	ponct
+12	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+</p><h2>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	bases	base	NC	NC	n=p|g=f	0	_	0	_
+3	de	de	P	P		2	dep	2	dep
+4	PGP	_	NC	NC		3	prep	3	prep
+
+</h2><h3>
+1	Un	un	DET	DET	n=s|g=m	2	det	2	det
+2	aperçu	aperçu	NC	NC	n=s|g=m	0	_	0	_
+3	de	de	P	P		2	dep	2	dep
+4	PGP	_	NC	NC		3	prep	3	prep
+
+</h3><p>
+1	Voici	voici	V	V		0	root	0	root
+2	un	un	DET	DET	n=s|g=m	3	det	3	det
+3	exemple	exemple	NC	NC	n=s|g=m	1	obj	1	obj
+4	de	de	P	P		3	dep	3	dep
+5	message	message	NC	NC	n=s|g=m	4	prep	4	prep
+6	codé	coder	VPP	VPP	n=s|g=m|t=K	3	mod	3	mod
+7	par	par	P	P		6	mod	6	mod
+8	PGP	_	NPP	NPP		7	prep	7	prep
+9	:	:	PONCT	PONCT		8	ponct	8	ponct
+
+</p><pre>
+1	-	-	PONCT	PONCT		0	ponct	0	ponct
+2	-	-	PONCT	PONCT		0	ponct	0	ponct
+3	-	-	PONCT	PONCT		0	ponct	0	ponct
+4	-	-	PONCT	PONCT		0	ponct	0	ponct
+5	-	-	PONCT	PONCT		0	ponct	0	ponct
+6	BEGIN	_	NPP	NPP		0	_	0	_
+7	PGP	_	NPP	NPP		6	mod	6	mod
+8	MESSAGE	message	NC	NC	n=s|g=m	6	mod	6	mod
+9	-	-	PONCT	PONCT		8	ponct	8	ponct
+10	-	-	PONCT	PONCT		8	ponct	8	ponct
+11	-	-	PONCT	PONCT		8	ponct	8	ponct
+12	-	-	PONCT	PONCT		8	ponct	8	ponct
+13	-	-	PONCT	PONCT		8	ponct	8	ponct
+
+1	Version	version	NC	NC	n=s|g=f	0	_	0	_
+2	:	:	PONCT	PONCT		1	ponct	1	ponct
+3	GnuPG	_	NPP	NPP		1	mod	1	mod
+4	v1	_	NPP	NPP		1	mod	1	mod
+5	.	.	PONCT	PONCT		4	ponct	4	ponct
+6	4.6	4.6	NPP	NPP		1	mod	1	mod
+7	(	(	PONCT	PONCT		6	ponct	6	ponct
+8	GNU	_	NPP	NPP		1	mod	1	mod
+9	/	/	PONCT	PONCT		8	ponct	8	ponct
+10	Linux	linux	NC	NC	g=m	1	mod	1	mod
+11	)	)	PONCT	PONCT		10	ponct	10	ponct
+
+1	hQIOAxCS5Sq4BNLoEAgAkfXjloMUfqAwjSCtXydrmBKFY2poqlwyZPoKxk5hFjnk	_	NC	NC		0	_	0	_
+
+1	cO6QpyGSCUIX9F0ncWphpnIAROeDty4ctmB0NfxPcvi5dzjbz8CE49GweWSCcgS8	_	NC	NC		0	_	0	_
+
+1	ppdERM4tvgU5wNrr0f	_	NC	NC		0	_	0	_
+2	/	/	PONCT	PONCT		1	ponct	1	ponct
+3	5pyuYqCOHGQbAlFh5F0vigcFk	_	NC	NC		1	mod	1	mod
+4	/	/	PONCT	PONCT		3	ponct	3	ponct
+5	/	/	PONCT	PONCT		3	ponct	3	ponct
+6	5rG1oOFJCbsNzQ7aBb	_	NC	NC		1	mod	1	mod
+
+1	qpaJK5f8YpwzfrufYuZMfQ3l+sVULI298nRlLM4MUUqpaSuPCVXT7KzdEaCBlZj7	_	NC	NC		0	_	0	_
+
+1	tMjMBvzcLoCGpjdeKRryXjIFlFl7nYiqwscfzf0D9KwCvCrpFd5pMe9lJEPLw6gM	_	NC	NC		0	_	0	_
+
+1	vuirX63jYk1CTDYjGhTWN1j7nD	_	NC	NC		0	_	0	_
+2	/	/	PONCT	PONCT		1	ponct	1	ponct
+3	J560rwsPLwP3kQAgAtKx9wxjpT0YVytPZhzfd	_	NC	NC		1	mod	1	mod
+
+1	YDYd	_	NPP	NPP		0	_	0	_
+2	/	/	PONCT	PONCT		1	ponct	1	ponct
+3	v8OxCBoLEhI2lwe5I7VkwdS4JBzBife6m13v8x8tBeVXhj1LxOv6u1t2kJa	_	NC	NC		1	mod	1	mod
+
+1	kJeEbkaiNw9fihAKHSDFKLjX4jYEz0seZaJ	_	NC	NC		0	_	0	_
+2	/	/	PONCT	PONCT		1	ponct	1	ponct
+3	rhVEU1TzVwfYIi7Wwi6zSjfUlIod	_	NC	NC		1	mod	1	mod
+
+1	2Q3CvE+jPacfigQCTd0B6yPfBFJ5S8gWRI0vTz5soi7EKS5bAL1TWvuEPMypmSiG	_	NC	NC		0	_	0	_
+
+1	wl8	_	NC	NC		0	_	0	_
+2	/	/	PONCT	PONCT		1	ponct	1	ponct
+3	wZN2CbiGik2Fglkh7BeCM2LNU8xtkIhCBG2Vz2GLQT39i5B4quX2icLx2HI	_	NC	NC		1	mod	1	mod
+4	/	/	PONCT	PONCT		3	ponct	3	ponct
+
+1	HSJh5fkwzdQT1EVPG+VwDXBajjf8c75TZAY+BQTKTh296hUcBmltWBePqgRUA8wj	_	NC	NC		0	_	0	_
+
+1	8dLAogEGyA6VF+uUSHcEKt+LdpdkXp+sp	_	NC	NC		0	_	0	_
+2	/	/	PONCT	PONCT		1	ponct	1	ponct
+3	suxXptPF9uWmJQMoseF3O+OllpNrpa	_	NC	NC		1	mod	1	mod
+
+1	x2RIyVHGLpFP3XuOauKDhYb7sDmHCefw3Pkbqnk83Nt18QNA2Djg2otXlTmYZwxZ	_	NC	NC		0	_	0	_
+
+1	4	4	NC	NC		0	_	0	_
+2	/	/	PONCT	PONCT		1	ponct	1	ponct
+3	BUf2j4XiQtDZGHUslL4b76sQ7lvX5IPVXNZGWN+pfLWRmwNVVJ	_	NC	NC		1	mod	1	mod
+4	/	/	PONCT	PONCT		3	ponct	3	ponct
+5	0IRhIXgJ25x	_	NC	NC		1	mod	1	mod
+
+1	tZBzJUgVLRsW7PKWyDgj5wU+F57QAX2SIhRPk1fIW31BU1Z6lRu4uuwwUzZlpcx2	_	NC	NC		0	_	0	_
+
+1	WVQymadNhAmvwPXQb3JIANWFsKQX2jrPwAVy0D1qouAK2M2r2	_	NC	NC		0	_	0	_
+2	/	/	PONCT	PONCT		1	ponct	1	ponct
+3	1VXi2xwh24bede	_	NC	NC		1	mod	1	mod
+
+1	btfJz29C3RIjSJf7Rx+Q0Ohpuc6pAab0bRaSMEUj4Q9JAvPufRU24O81oyPVBERC	_	NC	NC		0	_	0	_
+
+1	BZCOCBlGZ3Bnh6XdIdWbLb1288IDW6USCvLXoM9DdkEg6X1QlmnHGZXT+yJ	_	NC	NC		0	_	0	_
+2	/	/	PONCT	PONCT		1	ponct	1	ponct
+3	DKOF	_	NC	NC		1	mod	1	mod
+
+1	2KmyKBF68cnoEN	_	NC	NC		0	_	0	_
+2	/	/	PONCT	PONCT		1	ponct	1	ponct
+3	KkRlAYbiGDHM3Ag==	_	NC	NC		1	mod	1	mod
+
+1	=c9w6	_	NC	NC		0	_	0	_
+
+1	-	-	PONCT	PONCT		0	ponct	0	ponct
+2	-	-	PONCT	PONCT		0	ponct	0	ponct
+3	-	-	PONCT	PONCT		0	ponct	0	ponct
+4	-	-	PONCT	PONCT		0	ponct	0	ponct
+5	-	-	PONCT	PONCT		0	ponct	0	ponct
+6	END	end	NC	NC	n=s|g=f	0	root	0	root
+7	PGP	_	ADJ	ADJ		6	mod	6	mod
+8	MESSAGE	message	NC	NC	n=s|g=m	6	mod	6	mod
+9	-	-	PONCT	PONCT		8	ponct	8	ponct
+10	-	-	PONCT	PONCT		8	ponct	8	ponct
+11	-	-	PONCT	PONCT		8	ponct	8	ponct
+12	-	-	PONCT	PONCT		8	ponct	8	ponct
+13	-	-	PONCT	PONCT		8	ponct	8	ponct
+
+</pre><p>
+1	Cela	cela	PRO	PRO	n=s|g=m	2	suj	2	suj
+2	semble	sembler	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	plus	plus	ADV	ADV		2	mod	2	mod
+4	élaboré	élaborer	VPP	VPP	n=s|g=m|t=K	2	ats	2	ats
+5	que	que	CS	CS		2	mod	2	mod
+6	le	le	DET	DET	n=s|g=m	7	det	7	det
+7	chiffre	chiffre	NC	NC	n=s|g=m	0	_	0	_
+8	de	de	P	P		7	dep	7	dep
+9	César	César	NPP	NPP	n=s|g=m	8	prep	8	prep
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	un	un	DET	DET	n=s|g=m	13	det	13	det
+12	vieux	vieux	ADJ	ADJ	g=m	13	mod	13	mod
+13	code	code	NC	NC	n=s|g=m	7	mod	7	mod
+14	secret	secret	NC	NC	n=s|g=m	13	mod	13	mod
+15	!	!	PONCT	PONCT		14	ponct	14	ponct
+
+1	Cependant	cependant	ADV	ADV		8	mod	8	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	le	le	DET	DET	n=s|g=m	4	det	4	det
+4	chiffre	chiffre	NC	NC	n=s|g=m	8	suj	8	suj
+5	de	de	P	P		4	dep	4	dep
+6	César	César	NPP	NPP	n=s|g=m	5	prep	5	prep
+7	a	avoir	V	V	n=s|t=P|p=3	8	aux_tps	8	aux_tps
+8	été	être	VPP	VPP	t=K	0	root	0	root
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	autant	autant	ADV	ADV		8	mod	8	mod
+11	(	(	PONCT	PONCT		10	ponct	10	ponct
+12	voire	voire	CC	CC		8	coord	8	coord
+13	plus	plus	ADV	ADV		12	dep_coord	12	dep_coord
+14	)	)	PONCT	PONCT		13	ponct	13	ponct
+15	que	que	CS	CS		8	mod	8	mod
+16	PGP	_	NPP	NPP		0	_	0	_
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	une	une	DET	DET	n=s|g=f	19	det	19	det
+19	révolution	révolution	NC	NC	n=s|g=f	16	mod	16	mod
+20	dans	dans	P	P		19	dep	19	dep
+21	le	le	DET	DET	n=s|g=m	22	det	22	det
+22	domaine	domaine	NC	NC	n=s|g=m	20	prep	20	prep
+23	de	de	P	P		19	dep	19	dep
+24	la	la	DET	DET	n=s|g=f	25	det	25	det
+25	cryptographie	cryptographie	NC	NC	n=s|g=f	23	prep	23	prep
+26	.	.	PONCT	PONCT		25	ponct	25	ponct
+
+1	Bien	bien	ADV	ADV		2	mod	2	mod
+2	sûr	sûr	ADJ	ADJ	n=s|g=m	12	mod	12	mod
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	le	le	DET	DET	n=s|g=m	5	det	5	det
+5	niveau	niveau	NC	NC	n=s|g=m	12	suj	12	suj
+6	de	de	P	P		5	dep	5	dep
+7	sécurité	sécurité	NC	NC	n=s|g=f	6	prep	6	prep
+8	entre	entre	P	P		5	dep	5	dep
+9	ces	ces	DET	DET	n=p	11	det	11	det
+10	deux	deux	ADJ	ADJ	s=card|n=p	11	mod	11	mod
+11	systèmes	système	NC	NC	n=p|g=m	8	prep	8	prep
+12	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+13	incomparable	incomparable	ADJ	ADJ	n=s	12	ats	12	ats
+14	:	:	PONCT	PONCT		13	ponct	13	ponct
+15	PGP	_	NPP	NPP		17	suj	17	suj
+16	est	être	V	V	n=s|t=P|p=3	17	aux_tps	17	aux_tps
+17	considéré	considérer	VPP	VPP	n=s|g=m|t=K	12	mod	12	mod
+18	aujourd'hui	aujourd'hui	ADV	ADV		17	mod	17	mod
+19	comme	comme	P	P		17	mod	17	mod
+20	incassable	incassable	ADJ	ADJ	n=s	19	prep	19	prep
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	même	même	ADV	ADV		17	mod	17	mod
+23	avec	avec	P	P		17	mod	17	mod
+24	l'	le	DET	DET	n=s	25	det	25	det
+25	aide	aide	NC	NC	n=s	23	prep	23	prep
+26	des	de	P+D	P+D	n=p	25	dep	25	dep
+27	plus	plus	ADV	ADV		28	mod	28	mod
+28	puissants	puissant	ADJ	ADJ	n=p|g=m	29	mod	29	mod
+29	ordinateurs	ordinateur	NC	NC	n=p|g=m	26	prep	26	prep
+30	,	,	PONCT	PONCT		29	ponct	29	ponct
+31	en	en	P	P		17	mod	17	mod
+32	un	un	DET	DET	n=s|g=m	33	det	33	det
+33	temps	temps	NC	NC	g=m	31	prep	31	prep
+34	«_	"	PONCT	PONCT		33	ponct	33	ponct
+35	cryptanalytiquement	_	NC	NC		33	mod	33	mod
+36	_»	"	PONCT	PONCT		35	ponct	35	ponct
+37	court	court	ADJ	ADJ	n=s|g=m	33	mod	33	mod
+38	,	,	PONCT	PONCT		37	ponct	37	ponct
+39	c'	ce	DET	DET	n=s|g=m	40	det	40	det
+40	est-à-dire	_	NC	NC		17	obj	17	obj
+41	,	,	PONCT	PONCT		40	ponct	40	ponct
+42	au	à	P+D	P+D	n=s|g=m	17	mod	17	mod
+43	grand	grand	ADJ	ADJ	n=s|g=m	44	mod	44	mod
+44	maximum	maximum	NC	NC	n=s|g=m	42	prep	42	prep
+45	,	,	PONCT	PONCT		44	ponct	44	ponct
+46	quelques	quelques	DET	DET	n=p	47	det	47	det
+47	années	année	NC	NC	n=p|g=f	17	obj	17	obj
+48	.	.	PONCT	PONCT		47	ponct	47	ponct
+
+</p><p>
+1	À	à	P	P		6	mod	6	mod
+2	vrai	vrai	ADJ	ADJ	n=s|g=m	3	mod	3	mod
+3	dire	dire	NC	NC	n=s|g=m	1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	il	il	CLS	CLS	n=s|g=m|p=3	6	suj	6	suj
+6	faudrait	falloir	V	V	n=s|t=C|p=3	0	root	0	root
+7	environ	environ	ADV	ADV		6	mod	6	mod
+8	plusieurs	plusieurs	DET	DET	n=p	9	det	9	det
+9	millions	million	NC	NC	n=p	6	obj	6	obj
+10	d'	de	P	P		9	dep	9	dep
+11	années	année	NC	NC	n=p|g=f	10	prep	10	prep
+12	à	à	P	P		6	mod	6	mod
+13	un	un	DET	DET	n=s|g=m	14	det	14	det
+14	État	État	NC	NC	n=s|g=m	12	prep	12	prep
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	en	en	P	P		6	mod	6	mod
+17	faisant	faire	VPR	VPR	t=G	16	prep	16	prep
+18	fonctionner	fonctionner	VINF	VINF	t=W	17	obj	17	obj
+19	des	des	DET	DET	n=p	20	det	20	det
+20	milliers	millier	NC	NC	n=p|g=m	18	obj	18	obj
+21	d'	de	P	P		20	dep	20	dep
+22	ordinateurs	ordinateur	NC	NC	n=p|g=m	21	prep	21	prep
+23	24	24	ADJ	ADJ		22	mod	22	mod
+24	heures	heure	NC	NC	n=p|g=f	22	mod	22	mod
+25	sur	sur	P	P		18	mod	18	mod
+26	24	24	NC	NC		25	prep	25	prep
+27	,	,	PONCT	PONCT		26	ponct	26	ponct
+28	pour	pour	P	P		6	mod	6	mod
+29	découvrir	découvrir	VINF	VINF	t=W	28	prep	28	prep
+30	le	le	DET	DET	n=s|g=m	31	det	31	det
+31	message	message	NC	NC	n=s|g=m	29	obj	29	obj
+32	que	que	PROREL	PROREL		35	mod	35	mod
+33	vous	vous	CLS	CLS	n=p|p=2	35	suj	35	suj
+34	avez	avoir	V	V	n=p|t=P|p=2	35	aux_tps	35	aux_tps
+35	vu	voir	VPP	VPP	n=s|g=m|t=K	31	mod_rel	31	mod_rel
+36	plus	plus	ADV	ADV		37	mod	37	mod
+37	haut	haut	ADJ	ADJ	n=s|g=m	35	ats	35	ats
+38	.	.	PONCT	PONCT		37	ponct	37	ponct
+
+1	Des	des	DET	DET	n=p	2	det	2	det
+2	millions	million	NC	NC	n=p	0	_	0	_
+3	d'	de	P	P		2	dep	2	dep
+4	années	année	NC	NC	n=p|g=f	3	prep	3	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	pour	pour	P	P		0	_	0	_
+7	ce	ce	DET	DET	n=s|g=m	9	det	9	det
+8	simple	simple	ADJ	ADJ	n=s	9	mod	9	mod
+9	texte	texte	NC	NC	n=s|g=m	6	prep	6	prep
+10	:	:	PONCT	PONCT		9	ponct	9	ponct
+
+</p><p>
+1	Seraient	être	V	V	n=p|t=C|p=3	0	root	0	root
+2	-ils	ils	CLS	CLS	n=p|g=m|p=3	1	suj	1	suj
+3	neuf_cent_quatre-vingt-quinze_millions	neuf_cent_quatre-vingt-quinze_millions	NPP	NPP		1	obj	1	obj
+4	et	et	CC	CC		1	coord	1	coord
+5	moi	moi	PRO	PRO	n=s|p=1	4	dep_coord	4	dep_coord
+6	tout	tout	ADV	ADV		7	mod	7	mod
+7	seul	seul	ADJ	ADJ	n=s|g=m	1	mod	1	mod
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	ce	ce	CLS	CLS		10	suj	10	suj
+10	sont	être	V	V	n=p|t=P|p=3	1	mod	1	mod
+11	eux	eux	PRO	PRO	n=p|g=m|p=3	10	mod	10	mod
+12	qui	qui	PROREL	PROREL	n=s	0	_	0	_
+13	ont	avoir	V	V	n=p|t=P|p=3	0	_	0	_
+14	tort	tort	NC	NC	n=s|g=m	13	obj	13	obj
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	Lola	Lola	NPP	NPP	n=s|g=f	14	mod	14	mod
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	et	et	CC	CC		13	coord	13	coord
+19	moi	moi	PRO	PRO	n=s|p=1	18	dep_coord	18	dep_coord
+20	qui	qui	PROREL	PROREL	n=s	0	_	0	_
+21	ai	avoir	V	V	n=s|t=P|p=1	0	_	0	_
+22	raison	raison	NC	NC	n=s|g=f	21	obj	21	obj
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	parce	_	NC	NC		22	mod	22	mod
+25	que	que	PROREL	PROREL		27	obj	27	obj
+26	je	je	CLS	CLS	n=s|p=1	27	suj	27	suj
+27	suis	être	V	V	n=s|t=P|p=1	22	mod_rel	22	mod_rel
+28	le	le	DET	DET	n=s|g=m	29	det	29	det
+29	seul	seul	ADJ	ADJ	n=s|g=m	27	ats	27	ats
+30	à	à	P	P		27	mod	27	mod
+31	savoir	savoir	VINF	VINF	t=W	30	prep	30	prep
+32	ce	ce	PRO	PRO	n=s	31	obj	31	obj
+33	que	que	PROREL	PROREL		35	obj	35	obj
+34	je	je	CLS	CLS	n=s|p=1	35	suj	35	suj
+35	veux	vouloir	V	V	n=s|t=P|p=1,2	32	mod_rel	32	mod_rel
+36	:	:	PONCT	PONCT		35	ponct	35	ponct
+
+1	je	je	CLS	CLS	n=s|p=1	3	suj	3	suj
+2	ne	ne	ADV	ADV		3	mod	3	mod
+3	veux	vouloir	V	V	n=s|t=P|p=1,2	0	root	0	root
+4	plus	plus	ADV	ADV		3	mod	3	mod
+5	mourir	mourir	VINF	VINF	t=W	3	obj	3	obj
+6	.	.	PONCT	PONCT		5	ponct	5	ponct
+
+</p><pre>
+1	Louis-Ferdinand	_	NPP	NPP		0	_	0	_
+2	Céline	Céline	NPP	NPP	n=s|g=f	1	mod	1	mod
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	«_	"	PONCT	PONCT		2	ponct	2	ponct
+5	Voyage	voyage	NC	NC	n=s|g=m	1	mod	1	mod
+6	au	à	P+D	P+D	n=s|g=m	5	dep	5	dep
+7	Bout	bout	NC	NC	n=s|g=m	6	prep	6	prep
+8	de	de	P	P		5	dep	5	dep
+9	la	la	DET	DET	n=s|g=f	10	det	10	det
+10	Nuit	nuit	NC	NC	n=s|g=f	8	prep	8	prep
+11	_»	"	PONCT	PONCT		10	ponct	10	ponct
+12	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+</pre><h3>
+1	Fonctionnement	fonctionnement	NC	NC	n=s|g=m	0	_	0	_
+2	global	global	ADJ	ADJ	n=s|g=m	1	mod	1	mod
+3	de	de	P	P		1	dep	1	dep
+4	PGP	_	NC	NC		3	prep	3	prep
+
+</h3><p>
+1	Entrée	entrer	VPP	VPP	n=s|g=f|t=K	0	_	0	_
+2	du	de	P+D	P+D	n=s|g=m	1	mod	1	mod
+3	message	message	NC	NC	n=s|g=m	2	prep	2	prep
+4	.	.	PONCT	PONCT		3	ponct	3	ponct
+
+1	Par	par	P	P		0	_	0	_
+2	exemple	exemple	NC	NC	n=s|g=m	1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	«_	"	PONCT	PONCT		2	ponct	2	ponct
+5	VIVE	vif	ADJ	ADJ	n=s|g=f	6	mod	6	mod
+6	VIKIDIA	_	NC	NC		0	_	0	_
+7	_»	"	PONCT	PONCT		6	ponct	6	ponct
+8	.	.	PONCT	PONCT		6	ponct	6	ponct
+
+</p><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	logiciel	logiciel	NC	NC	n=s|g=m	3	suj	3	suj
+3	génère	générer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	une	une	DET	DET	n=s|g=f	5	det	5	det
+5	clef	clef	NC	NC	n=s|g=f	3	obj	3	obj
+6	aléatoire	aléatoire	ADJ	ADJ	n=s	5	mod	5	mod
+7	(	(	PONCT	PONCT		6	ponct	6	ponct
+8	ou	ou	CC	CC		3	coord	3	coord
+9	pseudo-aléatoire	_	NPP	NPP		8	dep_coord	8	dep_coord
+10	)	)	PONCT	PONCT		9	ponct	9	ponct
+11	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+1	Cette	cette	DET	DET	n=s|g=f	2	det	2	det
+2	clef	clef	NC	NC	n=s|g=f	3	suj	3	suj
+3	devient	devenir	V	V	n=s|t=P|p=3	0	root	0	root
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	clef	clef	NC	NC	n=s|g=f	3	obj	3	obj
+6	secrète	secret	ADJ	ADJ	n=s|g=f	5	mod	5	mod
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	que	que	PROREL	PROREL		11	obj	11	obj
+9	l'	le	DET	DET	n=s	10	det	10	det
+10	on	on	CLS	CLS	n=s|p=3	11	suj	11	suj
+11	notera	noter	V	V	n=s|t=F|p=3	5	mod_rel	5	mod_rel
+12	s	_	NPP	NPP		11	suj	11	suj
+13	et	et	CC	CC		3	coord	3	coord
+14	qui	qui	PROREL	PROREL	n=s	15	suj	15	suj
+15	vaut	valoir	V	V	n=s|t=P|p=3	13	dep_coord	13	dep_coord
+16	par	par	P	P		15	mod	15	mod
+17	exemple	exemple	NC	NC	n=s|g=m	16	prep	16	prep
+18	123456789	123456789	ADJ	ADJ		17	mod	17	mod
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+</p><p>
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	crypte	crypter	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	«_	"	PONCT	PONCT		2	ponct	2	ponct
+4	VIVE	vif	ADJ	ADJ	n=s|g=f	5	mod	5	mod
+5	VIKIDIA	_	NC	NC		2	obj	2	obj
+6	_»	"	PONCT	PONCT		5	ponct	5	ponct
+7	avec	avec	P	P		2	mod	2	mod
+8	la	la	DET	DET	n=s|g=f	9	det	9	det
+9	clef	clef	NC	NC	n=s|g=f	7	prep	7	prep
+10	secrète	secret	ADJ	ADJ	n=s|g=f	9	mod	9	mod
+11	s	_	NPP	NPP		9	mod	9	mod
+12	;	;	PONCT	PONCT		11	ponct	11	ponct
+13	le	le	DET	DET	n=s|g=m	14	det	14	det
+14	codage	codage	NC	NC	n=s|g=m	2	obj	2	obj
+15	se	se	CLR	CLR	n=p,s|p=3	16	aff	16	aff
+16	fait	faire	VPP	VPP	n=s|g=m|t=K	2	mod	2	mod
+17	par	par	P	P		16	mod	16	mod
+18	un	un	DET	DET	n=s|g=m	19	det	19	det
+19	système	système	NC	NC	n=s|g=m	17	prep	17	prep
+20	à	à	P	P		16	mod	16	mod
+21	clef	clef	NC	NC	n=s|g=f	20	prep	20	prep
+22	privée	priver	ADJ	ADJ	n=s|g=f|t=K	21	mod	21	mod
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	comme	comme	P	P		16	mod	16	mod
+25	AES	_	NPP	NPP		24	prep	24	prep
+26	ou	ou	CC	CC		25	coord	25	coord
+27	RC6	_	NPP	NPP		26	dep_coord	26	dep_coord
+28	(	(	PONCT	PONCT		27	ponct	27	ponct
+29	le	le	DET	DET	n=s|g=m	30	det	30	det
+30	système	système	NC	NC	n=s|g=m	16	mod	16	mod
+31	utilisé	utiliser	VPP	VPP	n=s|g=m|t=K	30	mod	30	mod
+32	dans	dans	P	P		31	mod	31	mod
+33	les	les	DET	DET	n=p	34	det	34	det
+34	exemples	exemple	NC	NC	n=p|g=m	32	prep	32	prep
+35	plus	plus	ADV	ADV		36	mod	36	mod
+36	haut	haut	ADJ	ADJ	n=s|g=m	34	mod	34	mod
+37	est	être	V	V	n=s|t=P|p=3	2	mod	2	mod
+38	AES	_	ADV	ADV		37	mod	37	mod
+39	,	,	PONCT	PONCT		38	ponct	38	ponct
+40	avec	avec	P	P		37	mod	37	mod
+41	une	une	DET	DET	n=s|g=f	42	det	42	det
+42	clef	clef	NC	NC	n=s|g=f	40	prep	40	prep
+43	de	de	P	P		37	mod	37	mod
+44	longueur	longueur	NC	NC	n=s|g=f	43	prep	43	prep
+45	128	128	ADJ	ADJ		44	mod	44	mod
+46	bits	bit	NC	NC	n=p|g=m	44	mod	44	mod
+47	)	)	PONCT	PONCT		46	ponct	46	ponct
+48	.	.	PONCT	PONCT		46	ponct	46	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	résultat	résultat	NC	NC	n=s|g=m	6	suj	6	suj
+3	de	de	P	P		2	dep	2	dep
+4	ce	ce	DET	DET	n=s|g=m	5	det	5	det
+5	codage	codage	NC	NC	n=s|g=m	3	prep	3	prep
+6	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+7	«_	"	PONCT	PONCT		6	ponct	6	ponct
+8	nIMpORTeqUoI	_	NPP	NPP		6	obj	6	obj
+9	_»	"	PONCT	PONCT		8	ponct	8	ponct
+10	.	.	PONCT	PONCT		8	ponct	8	ponct
+
+</p><p>
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	utilise	utiliser	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	une	une	DET	DET	n=s|g=f	4	det	4	det
+4	fonction	fonction	NC	NC	n=s|g=f	2	obj	2	obj
+5	de	de	P	P		4	dep	4	dep
+6	hachage	hachage	NC	NC	n=s|g=m	5	prep	5	prep
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	dont	dont	PROREL	PROREL		11	mod	11	mod
+9	le	le	DET	DET	n=s|g=m	10	det	10	det
+10	but	but	NC	NC	n=s|g=m	11	suj	11	suj
+11	est	être	V	V	n=s|t=P|p=3	4	mod_rel	4	mod_rel
+12	de	de	P	P		11	obj	11	obj
+13	compliquer	compliquer	VINF	VINF	t=W	12	prep	12	prep
+14	encore	encore	ADV	ADV		13	mod	13	mod
+15	la	la	DET	DET	n=s|g=f	16	det	16	det
+16	tâche	tâche	NC	NC	n=s|g=f	13	obj	13	obj
+17	aux	à	P+D	P+D	n=p	13	mod	13	mod
+18	casseurs	casseur	NC	NC	n=p|g=m	17	prep	17	prep
+19	de	de	P	P		13	mod	13	mod
+20	codes	code	NC	NC	n=p|g=m	19	prep	19	prep
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	mais	mais	CC	CC		13	coord	13	coord
+23	surtout	surtout	ADV	ADV		22	mod	22	mod
+24	d'	de	P	P		22	dep_coord	22	dep_coord
+25	«_	"	PONCT	PONCT		24	ponct	24	ponct
+26	alléger	alléger	VINF	VINF	t=W	24	prep	24	prep
+27	_»	"	PONCT	PONCT		26	ponct	26	ponct
+28	le	le	DET	DET	n=s|g=m	29	det	29	det
+29	message	message	NC	NC	n=s|g=m	26	obj	26	obj
+30	.	.	PONCT	PONCT		29	ponct	29	ponct
+
+</p><p>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	clef	clef	NC	NC	n=s|g=f	6	suj	6	suj
+3	secrète	secret	ADJ	ADJ	n=s|g=f	2	mod	2	mod
+4	s	_	NPP	NPP		2	mod	2	mod
+5	est	être	V	V	n=s|t=P|p=3	6	aux_tps	6	aux_tps
+6	codée	coder	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+7	par	par	P	P		6	mod	6	mod
+8	un	un	DET	DET	n=s|g=m	9	det	9	det
+9	système	système	NC	NC	n=s|g=m	7	prep	7	prep
+10	à	à	P	P		6	mod	6	mod
+11	clef	clef	NC	NC	n=s|g=f	10	prep	10	prep
+12	publique	public	ADJ	ADJ	n=s|g=f	11	mod	11	mod
+13	(	(	PONCT	PONCT		12	ponct	12	ponct
+14	avec	avec	P	P		6	mod	6	mod
+15	la	la	DET	DET	n=s|g=f	16	det	16	det
+16	clef	clef	NC	NC	n=s|g=f	14	prep	14	prep
+17	publique	public	ADJ	ADJ	n=s|g=f	16	mod	16	mod
+18	du	de	P+D	P+D	n=s|g=m	16	dep	16	dep
+19	destinataire	destinataire	NC	NC	n=s	18	prep	18	prep
+20	du	de	P+D	P+D	n=s|g=m	19	dep	19	dep
+21	message	message	NC	NC	n=s|g=m	20	prep	20	prep
+22	)	)	PONCT	PONCT		21	ponct	21	ponct
+23	,	,	PONCT	PONCT		21	ponct	21	ponct
+24	généralement	_	ADV	ADV		25	mod	25	mod
+25	RSA	_	NPP	NPP		6	mod	6	mod
+26	.	.	PONCT	PONCT		25	ponct	25	ponct
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	3	suj	3	suj
+2	est	être	V	V	n=s|t=P|p=3	3	aux_pass	3	aux_pass
+3	incorporée	incorporer	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+4	au	à	P+D	P+D	n=s|g=m	3	mod	3	mod
+5	message	message	NC	NC	n=s|g=m	4	prep	4	prep
+6	crypté	crypter	VPP	VPP	n=s|g=m|t=K	5	mod	5	mod
+7	.	.	PONCT	PONCT		6	ponct	6	ponct
+
+</p><p>
+1	Pour	pour	P	P		5	mod	5	mod
+2	décrypter	décrypter	VINF	VINF	t=W	1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	on	on	CLS	CLS	n=s|p=3	5	suj	5	suj
+5	applique	appliquer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+6	les	les	DET	DET	n=p	7	det	7	det
+7	opérations	opération	NC	NC	n=p|g=f	5	obj	5	obj
+8	inverses	inverse	ADJ	ADJ	n=p	7	mod	7	mod
+9	:	:	PONCT	PONCT		8	ponct	8	ponct
+
+</p><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	logiciel	logiciel	NC	NC	n=s|g=m	3	suj	3	suj
+3	décrypte	décrypter	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	clef	clef	NC	NC	n=s|g=f	3	obj	3	obj
+6	secrète	secret	ADJ	ADJ	n=s|g=f	5	mod	5	mod
+7	avec	avec	P	P		3	mod	3	mod
+8	la	la	DET	DET	n=s|g=f	9	det	9	det
+9	clef	clef	NC	NC	n=s|g=f	7	prep	7	prep
+10	privée	priver	ADJ	ADJ	n=s|g=f|t=K	9	mod	9	mod
+11	du	de	P+D	P+D	n=s|g=m	9	dep	9	dep
+12	destinataire	destinataire	NC	NC	n=s	11	prep	11	prep
+13	du	de	P+D	P+D	n=s|g=m	12	dep	12	dep
+14	message	message	NC	NC	n=s|g=m	13	prep	13	prep
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+1	On	on	CLS	CLS	n=s|p=3	2	suj	2	suj
+2	retrouve	retrouver	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	donc	donc	ADV	ADV		2	mod	2	mod
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	valeur	valeur	NC	NC	n=s|g=f	2	obj	2	obj
+6	s	_	NPP	NPP		5	mod	5	mod
+7	=	=	P	P		2	mod	2	mod
+8	123456789	123456789	NC	NC		7	prep	7	prep
+9	.	.	PONCT	PONCT		8	ponct	8	ponct
+
+</p><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	message	message	NC	NC	n=s|g=m	4	suj	4	suj
+3	est	être	V	V	n=s|t=P|p=3	4	aux_tps	4	aux_tps
+4	décompressé	décompresser	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+5	.	.	PONCT	PONCT		4	ponct	4	ponct
+
+</p><p>
+1	On	on	CLS	CLS	n=s|p=3	2	suj	2	suj
+2	décrypte	décrypter	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	«_	"	PONCT	PONCT		2	ponct	2	ponct
+4	nIMpORTeqUoI	_	NPP	NPP		2	obj	2	obj
+5	_»	"	PONCT	PONCT		4	ponct	4	ponct
+6	par	par	P	P		2	mod	2	mod
+7	la	la	DET	DET	n=s|g=f	8	det	8	det
+8	clef	clef	NC	NC	n=s|g=f	6	prep	6	prep
+9	s	_	NPP	NPP		8	mod	8	mod
+10	;	;	PONCT	PONCT		9	ponct	9	ponct
+11	comme	comme	CS	CS		2	mod	2	mod
+12	il	il	CLS	CLS	n=s|g=m|p=3	14	suj	14	suj
+13	s'	se	CLR	CLR	n=p,s|p=3	14	aff	14	aff
+14	agit	agir	V	V	n=s|t=J,P|p=3	11	sub	11	sub
+15	de	de	P	P		14	de_obj	14	de_obj
+16	cryptographie	cryptographie	NC	NC	n=s|g=f	15	prep	15	prep
+17	symétrique	symétrique	ADJ	ADJ	n=s	16	mod	16	mod
+18	(	(	PONCT	PONCT		17	ponct	17	ponct
+19	c'	ce	DET	DET	n=s|g=m	20	det	20	det
+20	est-à-dire	_	NC	NC		14	mod	14	mod
+21	à	à	P	P		14	mod	14	mod
+22	clef	clef	NC	NC	n=s|g=f	21	prep	21	prep
+23	secrète	secret	ADJ	ADJ	n=s|g=f	22	mod	22	mod
+24	)	)	PONCT	PONCT		23	ponct	23	ponct
+25	,	,	PONCT	PONCT		23	ponct	23	ponct
+26	l'	le	DET	DET	n=s	27	det	27	det
+27	opération	opération	NC	NC	n=s|g=f	28	suj	28	suj
+28	est	être	V	V	n=s|t=P|p=3	14	mod	14	mod
+29	très	très	ADV	ADV		28	mod	28	mod
+30	rapide	rapide	ADJ	ADJ	n=s	28	ats	28	ats
+31	.	.	PONCT	PONCT		30	ponct	30	ponct
+
+1	On	on	CLS	CLS	n=s|p=3	2	suj	2	suj
+2	récupère	récupérer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	donc	donc	ADV	ADV		2	mod	2	mod
+4	notre	notre	DET	DET	n=s|p=1|poss=p	5	det	5	det
+5	message	message	NC	NC	n=s|g=m	2	obj	2	obj
+6	initial	initial	ADJ	ADJ	n=s|g=m	5	mod	5	mod
+7	«_	"	PONCT	PONCT		6	ponct	6	ponct
+8	VIVE	vif	ADJ	ADJ	n=s|g=f	9	mod	9	mod
+9	VIKIDIA	_	NC	NC		5	mod	5	mod
+10	_»	"	PONCT	PONCT		9	ponct	9	ponct
+11	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+</p><h3>
+1	Limites	limite	NC	NC	n=p|g=f	0	_	0	_
+2	d'	de	P	P		1	dep	1	dep
+3	utilisation	utilisation	NC	NC	n=s|g=f	2	prep	2	prep
+4	de	de	P	P		1	dep	1	dep
+5	PGP	_	NC	NC		4	prep	4	prep
+
+</h3><p>
+1	PGP	_	NPP	NPP		3	suj	3	suj
+2	ne	ne	ADV	ADV		3	mod	3	mod
+3	devrait	devoir	V	V	n=s|t=C|p=3	0	root	0	root
+4	pas	pas	ADV	ADV		3	mod	3	mod
+5	être	être	VINF	VINF	t=W	3	obj	3	obj
+6	utilisé	utiliser	VPP	VPP	n=s|g=m|t=K	5	ats	5	ats
+7	pour	pour	P	P		5	mod	5	mod
+8	chiffrer	chiffrer	VINF	VINF	t=W	7	prep	7	prep
+9	des	des	DET	DET	n=p	10	det	10	det
+10	données	donnée	NC	NC	n=p|g=f	8	obj	8	obj
+11	pouvant	pouvoir	VPR	VPR	t=G	10	mod	10	mod
+12	mettre	mettre	VINF	VINF	t=W	11	obj	11	obj
+13	en	en	P	P		12	mod	12	mod
+14	jeu	jeu	NC	NC	n=s|g=m	13	prep	13	prep
+15	la	la	DET	DET	n=s|g=f	16	det	16	det
+16	vie	vie	NC	NC	n=s|g=f	12	obj	12	obj
+17	d'	de	P	P		16	dep	16	dep
+18	individus	individu	NC	NC	n=p|g=m	17	prep	17	prep
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	Si	si	CS	CS		0	_	0	_
+2	les	les	DET	DET	n=p	3	det	3	det
+3	données	donnée	NC	NC	n=p|g=f	4	suj	4	suj
+4	sont	être	V	V	n=p|t=P|p=3	1	sub	1	sub
+5	tellement	_	ADV	ADV		6	mod	6	mod
+6	importantes	important	ADJ	ADJ	n=p|g=f	4	ats	4	ats
+7	que	que	CS	CS		4	mod	4	mod
+8	leur	leur	DET	DET	n=s|p=3|poss=p	9	det	9	det
+9	découverte	découverte	NC	NC	n=s|g=f	10	suj	10	suj
+10	pourrait	pouvoir	V	V	n=s|t=C|p=3	7	sub	7	sub
+11	mettre	mettre	VINF	VINF	t=W	10	obj	10	obj
+12	en	en	P	P		11	mod	11	mod
+13	jeu	jeu	NC	NC	n=s|g=m	12	prep	12	prep
+14	des	de	P+D	P+D	n=p	11	mod	11	mod
+15	vies	vie	NC	NC	n=p|g=f	14	prep	14	prep
+16	alors	alors	ADV	ADV		17	mod	17	mod
+17	mieux	mieux	ADV	ADV		11	mod	11	mod
+18	vaut	valoir	V	V	n=s|t=P|p=3	11	obj	11	obj
+19	utiliser	utiliser	VINF	VINF	t=W	18	obj	18	obj
+20	un	un	DET	DET	n=s|g=m	22	det	22	det
+21	autre	autre	ADJ	ADJ	n=s	22	mod	22	mod
+22	algorithme	algorithme	NC	NC	n=s|g=m	19	obj	19	obj
+23	de	de	P	P		22	dep	22	dep
+24	cryptographie	cryptographie	NC	NC	n=s|g=f	23	prep	23	prep
+25	plus	plus	ADV	ADV		26	mod	26	mod
+26	avancé	avancer	VPP	VPP	n=s|g=m|t=K	22	mod	22	mod
+27	.	.	PONCT	PONCT		26	ponct	26	ponct
+
+1	En	en	P	P		13	mod	13	mod
+2	effet	effet	NC	NC	n=s|g=m	1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	les	les	DET	DET	n=p	5	det	5	det
+5	versions	version	NC	NC	n=p|g=f	13	suj	13	suj
+6	128	128	ADJ	ADJ		5	mod	5	mod
+7	ou	ou	CC	CC		6	coord	6	coord
+8	256	256	ADJ	ADJ		7	dep_coord	7	dep_coord
+9	bits	bit	NC	NC	n=p|g=m	5	mod	5	mod
+10	ne	ne	ADV	ADV		13	mod	13	mod
+11	sont	être	V	V	n=p|t=P|p=3	13	aux_pass	13	aux_pass
+12	pas	pas	ADV	ADV		13	mod	13	mod
+13	utilisées	utiliser	VPP	VPP	n=p|g=f|t=K	0	root	0	root
+14	par	par	P	P		13	mod	13	mod
+15	le	le	DET	DET	n=s|g=m	16	det	16	det
+16	gouvernement	gouvernement	NC	NC	n=s|g=m	14	prep	14	prep
+17	américain	américain	ADJ	ADJ	n=s|g=m	16	mod	16	mod
+18	pour	pour	P	P		13	mod	13	mod
+19	ses	ses	DET	DET	n=p|p=3|poss=s	20	det	20	det
+20	communications	communication	NC	NC	n=p|g=f	18	prep	18	prep
+21	classées	classer	VPP	VPP	n=p|g=f|t=K	20	mod	20	mod
+22	TOP	top	NC	NC	n=s|g=m	21	mod	21	mod
+23	SECRET	secret	NC	NC	n=s|g=m	22	mod	22	mod
+24	.	.	PONCT	PONCT		23	ponct	23	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	gouvernement	gouvernement	NC	NC	n=s|g=m	4	suj	4	suj
+3	américain	américain	ADJ	ADJ	n=s|g=m	2	mod	2	mod
+4	utilise	utiliser	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+5	des	des	DET	DET	n=p	6	det	6	det
+6	algorithmes	algorithme	NC	NC	n=p|g=m	4	obj	4	obj
+7	non	non	ADV	ADV		8	mod	8	mod
+8	divulgués	divulguer	VPP	VPP	n=p|g=m|t=K	6	mod	6	mod
+9	comme	comme	P	P		8	mod	8	mod
+10	par	par	P	P		9	dep	9	dep
+11	exemple	exemple	NC	NC	n=s|g=m	10	prep	10	prep
+12	BATON	_	NPP	NPP		11	mod	11	mod
+13	http://en.wikipedia.org/wiki/BATON	$URL$	NPP	NPP		11	mod	11	mod
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+1	Aucun	aucun	DET	DET	n=s|g=m	2	det	2	det
+2	gouvernement	gouvernement	NC	NC	n=s|g=m	8	suj	8	suj
+3	de	de	P	P		2	dep	2	dep
+4	par	par	P	P		3	prep	3	prep
+5	le	le	DET	DET	n=s|g=m	6	det	6	det
+6	monde	monde	NC	NC	n=s|g=m	4	prep	4	prep
+7	n'	ne	ADV	ADV		8	mod	8	mod
+8	utilise	utiliser	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+9	ni	ni	CC	CC		8	coord	8	coord
+10	PGP	_	NPP	NPP		14	ato	14	ato
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	ni	ni	CC	CC		10	coord	10	coord
+13	AES	_	NC	NC		12	dep_coord	12	dep_coord
+14	mais	mais	CC	CC		8	coord	8	coord
+15	utilise	utiliser	V	V	n=s|t=P,S|p=1,3	14	dep_coord	14	dep_coord
+16	leurs	leurs	DET	DET	n=p|p=3|poss=p	18	det	18	det
+17	propres	propre	ADJ	ADJ	n=p	18	mod	18	mod
+18	algorithmes	algorithme	NC	NC	n=p|g=m	15	obj	15	obj
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	gouvernement	gouvernement	NC	NC	n=s|g=m	4	suj	4	suj
+3	français	français	ADJ	ADJ	g=m	2	mod	2	mod
+4	utilise	utiliser	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+5	également	_	ADV	ADV		4	mod	4	mod
+6	ses	ses	DET	DET	n=p|p=3|poss=s	8	det	8	det
+7	propres	propre	ADJ	ADJ	n=p	8	mod	8	mod
+8	algorithmes	algorithme	NC	NC	n=p|g=m	4	obj	4	obj
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	comme	comme	P	P		4	mod	4	mod
+11	par	par	P	P		10	dep	10	dep
+12	exemple	exemple	NC	NC	n=s|g=m	11	prep	11	prep
+13	celui	celui	PRO	PRO	n=s|g=m	12	mod	12	mod
+14	du	de	P+D	P+D	n=s|g=m	12	dep	12	dep
+15	Teorem	_	NPP	NPP		14	prep	14	prep
+16	:	:	PONCT	PONCT		15	ponct	15	ponct
+17	http://www.lepoint.fr/actualites-technologie-internet/2010-01-06/nicolas-sarkozy-a-teste-le-teorem-son-futur-telephone-crypte/1387/0/411021	$URL$	NPP	NPP		15	mod	15	mod
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+</p><p>
+1	Diverses	divers	DET	DET	n=p|g=f	2	det	2	det
+2	affaires	affaire	NC	NC	n=p|g=f	6	suj	6	suj
+3	d'	de	P	P		2	dep	2	dep
+4	espionnages	espionnage	NC	NC	n=p|g=m	3	prep	3	prep
+5	ont	avoir	V	V	n=p|t=P|p=3	6	aux_tps	6	aux_tps
+6	mis	mettre	VPP	VPP	g=m|t=K	0	root	0	root
+7	à	à	P	P		6	mod	6	mod
+8	jour	jour	NC	NC	n=s|g=m	7	prep	7	prep
+9	le	le	DET	DET	n=s|g=m	10	det	10	det
+10	fait	fait	NC	NC	n=s|g=m	6	obj	6	obj
+11	que	que	CS	CS		6	mod	6	mod
+12	des	des	DET	DET	n=p	13	det	13	det
+13	agences	agence	NC	NC	n=p|g=f	22	suj	22	suj
+14	gouvernementales	gouvernemental	ADJ	ADJ	n=p|g=f	13	mod	13	mod
+15	comme	comme	P	P		13	dep	13	dep
+16	la	la	DET	DET	n=s|g=f	17	det	17	det
+17	NSA	NSA	NPP	NPP	n=s|g=f	15	prep	15	prep
+18	américaine	américain	ADJ	ADJ	n=s|g=f	17	mod	17	mod
+19	ou	ou	CC	CC		17	coord	17	coord
+20	le	le	DET	DET	n=s|g=m	21	det	21	det
+21	FBI	FBI	NPP	NPP	n=s|g=m	19	dep_coord	19	dep_coord
+22	introduisaient	introduire	V	V	n=p|t=I|p=3	11	sub	11	sub
+23	des	des	DET	DET	n=p	24	det	24	det
+24	backdoors	_	NC	NC		22	obj	22	obj
+25	dans	dans	P	P		22	mod	22	mod
+26	les	les	DET	DET	n=p	27	det	27	det
+27	logiciels	logiciel	NC	NC	n=p|g=m	25	prep	25	prep
+28	ou	ou	CC	CC		22	coord	22	coord
+29	les	les	DET	DET	n=p	30	det	30	det
+30	matériels	matériel	NC	NC	n=p|g=m	28	dep_coord	28	dep_coord
+31	:	:	PONCT	PONCT		30	ponct	30	ponct
+32	affaire	affaire	NC	NC	n=s|g=f	30	mod	30	mod
+33	Crypto	_	NPP	NPP		32	mod	32	mod
+34	AG	_	NPP	NPP		32	mod	32	mod
+35	:	:	PONCT	PONCT		34	ponct	34	ponct
+36	http://fr.wikipedia.org/wiki/Crypto&und;AG	$URL$	NPP	NPP		32	mod	32	mod
+37	,	,	PONCT	PONCT		36	ponct	36	ponct
+38	affaire	affaire	NC	NC	n=s|g=f	32	mod	32	mod
+39	Open	_	NPP	NPP		38	mod	38	mod
+40	BSD	_	NPP	NPP		38	mod	38	mod
+41	:	:	PONCT	PONCT		40	ponct	40	ponct
+42	http://www.generation-nt.com/openbsd-fbi-backdoor-actualite-1130421.html	$URL$	NPP	NPP		38	mod	38	mod
+43	,	,	PONCT	PONCT		42	ponct	42	ponct
+44	affaire	affaire	NC	NC	n=s|g=f	38	mod	38	mod
+45	des	de	P+D	P+D	n=p	44	dep	44	dep
+46	algorithmes	algorithme	NC	NC	n=p|g=m	45	prep	45	prep
+47	de	de	P	P		46	dep	46	dep
+48	générations	génération	NC	NC	n=p|g=f	47	prep	47	prep
+49	de	de	P	P		48	dep	48	dep
+50	clés	clé	NC	NC	n=p|g=f	49	prep	49	prep
+51	:	:	PONCT	PONCT		50	ponct	50	ponct
+52	http://www.schneier.com/essay-198.html	$URL$	NPP	NPP		38	mod	38	mod
+53	.	.	PONCT	PONCT		52	ponct	52	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	backdoors	_	NPP	NPP		3	suj	3	suj
+3	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+4	des	des	DET	DET	n=p	5	det	5	det
+5	modifications	modification	NC	NC	n=p|g=f	3	obj	3	obj
+6	secrètes	secret	ADJ	ADJ	n=p|g=f	5	mod	5	mod
+7	des	de	P+D	P+D	n=p	5	dep	5	dep
+8	logiciels	logiciel	NC	NC	n=p|g=m	7	prep	7	prep
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	matériels	matériel	NC	NC	n=p|g=m	8	mod	8	mod
+11	ou	ou	CC	CC		5	coord	5	coord
+12	algorithmes	algorithme	NC	NC	n=p|g=m	11	dep_coord	11	dep_coord
+13	permettant	permettre	VPR	VPR	t=G	12	mod	12	mod
+14	de	de	P	P		3	mod	3	mod
+15	décrypter	décrypter	VINF	VINF	t=W	14	prep	14	prep
+16	les	les	DET	DET	n=p	17	det	17	det
+17	données	donnée	NC	NC	n=p|g=f	15	obj	15	obj
+18	des	de	P+D	P+D	n=p	15	mod	15	mod
+19	utilisateurs	utilisateur	NC	NC	n=p|g=m	18	prep	18	prep
+20	sans	sans	P	P		3	mod	3	mod
+21	connaître	connaître	VINF	VINF	t=W	20	prep	20	prep
+22	la	la	DET	DET	n=s|g=f	23	det	23	det
+23	clé	clé	NC	NC	n=s|g=f	21	obj	21	obj
+24	de	de	P	P		23	dep	23	dep
+25	cryptage	cryptage	NC	NC	n=s|g=m	24	prep	24	prep
+26	utilisée	utiliser	VPP	VPP	n=s|g=f|t=K	23	mod	23	mod
+27	.	.	PONCT	PONCT		26	ponct	26	ponct
+
+</p><h2>
+1	Sources	source	NC	NC	n=p|g=f	0	_	0	_
+2	et	et	CC	CC		1	coord	1	coord
+3	notes	note	NC	NC	n=p|g=f	2	dep_coord	2	dep_coord
+
+</h2><h3>
+1	Sources	source	NC	NC	n=p|g=f	0	_	0	_
+
+</h3><p>
+1	Wikipédia	Wikipedia	NPP	NPP	n=s|g=f	0	_	0	_
+
+</p><h3>
+1	Notes	note	NC	NC	n=p|g=f	0	_	0	_
+

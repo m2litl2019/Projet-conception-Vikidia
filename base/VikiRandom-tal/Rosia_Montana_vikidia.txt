@@ -1,0 +1,264 @@
+<p>
+1	Rosia	_	NPP	NPP		3	suj	3	suj
+2	Montana	Montana	NPP	NPP	n=s|g=f,m	1	mod	1	mod
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	une	une	DET	DET	n=s|g=f	5	det	5	det
+5	commune	commune	NC	NC	n=s|g=f	3	obj	3	obj
+6	roumaine	roumain	ADJ	ADJ	n=s|g=f	5	mod	5	mod
+7	située	situer	VPP	VPP	n=s|g=f|t=K	5	mod	5	mod
+8	dans	dans	P	P		7	mod	7	mod
+9	les	les	DET	DET	n=p	10	det	10	det
+10	Monts	Monts	NPP	NPP	n=s|g=m	8	prep	8	prep
+11	Apuseni	_	NPP	NPP		10	mod	10	mod
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	dans	dans	P	P		7	mod	7	mod
+14	la	la	DET	DET	n=s|g=f	15	det	15	det
+15	région	région	NC	NC	n=s|g=f	13	prep	13	prep
+16	de	de	P	P		15	dep	15	dep
+17	Transylvanie	_	NPP	NPP		16	prep	16	prep
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	sol	_	NC	NC		6	suj	6	suj
+3	de	de	P	P		2	dep	2	dep
+4	ce	ce	DET	DET	n=s|g=m	5	det	5	det
+5	site	site	NC	NC	n=s|g=m	3	prep	3	prep
+6	contient	contenir	V	V	n=s|t=P|p=3	0	root	0	root
+7	un	un	DET	DET	n=s|g=m	8	det	8	det
+8	gisement	gisement	NC	NC	n=s|g=m	6	obj	6	obj
+9	d'	de	P	P		8	dep	8	dep
+10	or	or	NC	NC	n=s|g=m	9	prep	9	prep
+11	très	très	ADV	ADV		12	mod	12	mod
+12	convoité	convoiter	VPP	VPP	n=s|g=m|t=K	8	mod	8	mod
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	de	de	P	P		12	mod	12	mod
+15	l'	le	DET	DET	n=s	16	det	16	det
+16	Antiquité	_	NPP	NPP		14	prep	14	prep
+17	à	à	P	P		12	mod	12	mod
+18	nos	nos	DET	DET	n=p|p=1|poss=p	19	det	19	det
+19	jours	jour	NC	NC	n=p|g=m	17	prep	17	prep
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+</p><p>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	ville	ville	NC	NC	n=s|g=f	5	suj	5	suj
+3	a	avoir	V	V	n=s|t=P|p=3	5	aux_tps	5	aux_tps
+4	été	être	VPP	VPP	t=K	5	aux_pass	5	aux_pass
+5	fondée	fonder	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+6	par	par	P	P		5	mod	5	mod
+7	les	les	DET	DET	n=p	8	det	8	det
+8	Romains	romain	NC	NC	n=p|g=m	6	prep	6	prep
+9	sous	sous	P	P		5	mod	5	mod
+10	le	le	DET	DET	n=s|g=m	11	det	11	det
+11	nom	nom	NC	NC	n=s|g=m	9	prep	9	prep
+12	latin	latin	ADJ	ADJ	n=s|g=m	11	mod	11	mod
+13	de	de	P	P		5	mod	5	mod
+14	Alburnus	_	NPP	NPP		13	prep	13	prep
+15	Maior	_	NPP	NPP		14	mod	14	mod
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	sous	sous	P	P		5	mod	5	mod
+18	le	le	DET	DET	n=s|g=m	19	det	19	det
+19	règne	règne	NC	NC	n=s|g=m	17	prep	17	prep
+20	de	de	P	P		5	mod	5	mod
+21	Trajan	Trajan	NPP	NPP	n=s|g=m	20	prep	20	prep
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+23	dans	dans	P	P		5	mod	5	mod
+24	le	le	DET	DET	n=s|g=m	25	det	25	det
+25	but	but	NC	NC	n=s|g=m	23	prep	23	prep
+26	d'	de	P	P		5	mod	5	mod
+27	en	en	CLO	CLO		28	obj	28	obj
+28	faire	faire	VINF	VINF	t=W	26	prep	26	prep
+29	une	une	DET	DET	n=s|g=f	30	det	30	det
+30	ville	ville	NC	NC	n=s|g=f	28	obj	28	obj
+31	minière	minier	ADJ	ADJ	n=s|g=f	30	mod	30	mod
+32	.	.	PONCT	PONCT		31	ponct	31	ponct
+
+1	De	de	P	P		8	mod	8	mod
+2	cette	cette	DET	DET	n=s|g=f	3	det	3	det
+3	période	période	NC	NC	n=s	1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	les	les	DET	DET	n=p	6	det	6	det
+6	archéologues	archéologue	NC	NC	n=p	8	suj	8	suj
+7	ont	avoir	V	V	n=p|t=P|p=3	8	aux_tps	8	aux_tps
+8	retrouvé	retrouver	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+9	de	de	DET	DET	n=p	11	det	11	det
+10	nombreux	nombreux	ADJ	ADJ	g=m	11	mod	11	mod
+11	objets	objet	NC	NC	n=p|g=m	8	obj	8	obj
+12	tels	tel	ADJ	ADJ	n=p|g=m	11	mod	11	mod
+13	que	que	CS	CS		8	mod	8	mod
+14	des	des	DET	DET	n=p	15	det	15	det
+15	outils	outil	NC	NC	n=p|g=m	0	_	0	_
+16	d'	de	P	P		15	dep	15	dep
+17	extraction	extraction	NC	NC	n=s|g=f	16	prep	16	prep
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	des	des	DET	DET	n=p	20	det	20	det
+20	tablettes	tablette	NC	NC	n=p|g=f	15	mod	15	mod
+21	de	de	P	P		20	dep	20	dep
+22	cire	cire	NC	NC	n=s|g=f	21	prep	21	prep
+23	gravées	graver	ADJ	ADJ	n=p|g=f|t=K	22	mod	22	mod
+24	d'	de	P	P		20	dep	20	dep
+25	inscriptions	inscription	NC	NC	n=p|g=f	24	prep	24	prep
+26	grecques	grec	ADJ	ADJ	n=p|g=f	25	mod	25	mod
+27	ou	ou	CC	CC		26	coord	26	coord
+28	latines	latin	ADJ	ADJ	n=p|g=f	27	dep_coord	27	dep_coord
+29	,	,	PONCT	PONCT		28	ponct	28	ponct
+30	ou	ou	CC	CC		20	coord	20	coord
+31	encore	encore	ADV	ADV		30	mod	30	mod
+32	des	des	DET	DET	n=p	33	det	33	det
+33	maisons	maison	NC	NC	n=p|g=f	30	dep_coord	30	dep_coord
+34	et	et	CC	CC		33	coord	33	coord
+35	des	de	P+D	P+D	n=p	34	dep_coord	34	dep_coord
+36	nécropoles	nécropole	NC	NC	n=p|g=f	35	prep	35	prep
+37	.	.	PONCT	PONCT		36	ponct	36	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	activités	activité	NC	NC	n=p|g=f	9	suj	9	suj
+3	d'	de	P	P		2	dep	2	dep
+4	exploitation	exploitation	NC	NC	n=s|g=f	3	prep	3	prep
+5	minière	minier	ADJ	ADJ	n=s|g=f	4	mod	4	mod
+6	ont	avoir	V	V	n=p|t=P|p=3	9	aux_tps	9	aux_tps
+7	été	être	VPP	VPP	t=K	9	aux_pass	9	aux_pass
+8	ensuite	ensuite	ADV	ADV		9	mod	9	mod
+9	poursuivies	poursuivre	VPP	VPP	n=p|g=f|t=K	0	root	0	root
+10	sous	sous	P	P		9	mod	9	mod
+11	l'	le	DET	DET	n=s	12	det	12	det
+12	impulsion	impulsion	NC	NC	n=s|g=f	10	prep	10	prep
+13	de	de	P	P		9	mod	9	mod
+14	migrants	migrant	NC	NC	n=p|g=m	13	prep	13	prep
+15	allemands	allemand	ADJ	ADJ	n=p|g=m	14	mod	14	mod
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	tout	tout	ADV	ADV		18	mod	18	mod
+18	particulièrement	_	ADV	ADV		9	mod	9	mod
+19	sous	sous	P	P		9	mod	9	mod
+20	l'	le	DET	DET	n=s	21	det	21	det
+21	Empire	_	NPP	NPP		19	prep	19	prep
+22	austro-hongrois	_	NPP	NPP		21	mod	21	mod
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+1	Nationalisées	nationaliser	VPP	VPP	n=p|g=f|t=K	10	mod	10	mod
+2	en	en	P	P		1	mod	1	mod
+3	1948	1948	NC	NC		2	prep	2	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	les	les	DET	DET	n=p	6	det	6	det
+6	mines	mine	NC	NC	n=p|g=f	10	suj	10	suj
+7	se	se	CLR	CLR	n=p,s|p=3	10	aff	10	aff
+8	sont	être	V	V	n=p|t=P|p=3	10	aux_tps	10	aux_tps
+9	vues	voir	VPP	VPP	n=p|g=f|t=K	10	aux_pass	10	aux_pass
+10	fermées	fermer	VPP	VPP	n=p|g=f|t=K	0	root	0	root
+11	en	en	P	P		10	mod	10	mod
+12	2006	2006	NC	NC		11	prep	11	prep
+13	pour	pour	P	P		10	mod	10	mod
+14	des	des	DET	DET	n=p	15	det	15	det
+15	raisons	raison	NC	NC	n=p|g=f	13	prep	13	prep
+16	économiques	économique	ADJ	ADJ	n=p	15	mod	15	mod
+17	et	et	CC	CC		16	coord	16	coord
+18	environnementales	environnemental	ADJ	ADJ	n=p|g=f	17	dep_coord	17	dep_coord
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+</p><p>
+1	Depuis	depuis	P	P		8	mod	8	mod
+2	quelques	quelques	DET	DET	n=p	3	det	3	det
+3	années	année	NC	NC	n=p|g=f	1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	une	une	DET	DET	n=s|g=f	6	det	6	det
+6	entreprise	entreprise	NC	NC	n=s|g=f	8	suj	8	suj
+7	canadienne	canadien	ADJ	ADJ	n=s|g=f	6	mod	6	mod
+8	cherche	chercher	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+9	à	à	P	P		8	mod	8	mod
+10	acheter	acheter	VINF	VINF	t=W	9	prep	9	prep
+11	le	le	DET	DET	n=s|g=m	12	det	12	det
+12	gisement	gisement	NC	NC	n=s|g=m	10	obj	10	obj
+13	pour	pour	P	P		10	mod	10	mod
+14	en	en	CLO	CLO		15	obj	15	obj
+15	relancer	relancer	VINF	VINF	t=W	13	prep	13	prep
+16	l'	le	DET	DET	n=s	17	det	17	det
+17	exploitation	exploitation	NC	NC	n=s|g=f	15	obj	15	obj
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	un	un	DET	DET	n=s|g=m	20	det	20	det
+20	désir	désir	NC	NC	n=s|g=m	8	obj	8	obj
+21	qui	qui	PROREL	PROREL	n=s	23	suj	23	suj
+22	a	avoir	V	V	n=s|t=P|p=3	23	aux_tps	23	aux_tps
+23	suscité	susciter	VPP	VPP	n=s|g=m|t=K	20	mod_rel	20	mod_rel
+24	une	une	DET	DET	n=s|g=f	26	det	26	det
+25	grande	grand	ADJ	ADJ	n=s|g=f	26	mod	26	mod
+26	controverse	controverse	NC	NC	n=s|g=f	23	obj	23	obj
+27	.	.	PONCT	PONCT		26	ponct	26	ponct
+
+1	Au	à	P+D	P+D	n=s|g=m	11	mod	11	mod
+2	sein	sein	NC	NC	n=s|g=m	1	prep	1	prep
+3	même	même	ADJ	ADJ	n=s	2	mod	2	mod
+4	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+5	village	village	NC	NC	n=s|g=m	4	prep	4	prep
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	une	une	DET	DET	n=s|g=f	8	det	8	det
+8	lutte	lutte	NC	NC	n=s|g=f	11	suj	11	suj
+9	s'	se	CLR	CLR	n=p,s|p=3	11	aff	11	aff
+10	est	être	V	V	n=s|t=P|p=3	11	aux_tps	11	aux_tps
+11	organisée	organiser	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+12	entre	entre	P	P		11	mod	11	mod
+13	les	les	DET	DET	n=p	14	det	14	det
+14	partisans	partisan	NC	NC	n=p|g=m	12	prep	12	prep
+15	et	et	CC	CC		11	coord	11	coord
+16	les	les	DET	DET	n=p	17	det	17	det
+17	opposants	opposant	NC	NC	n=p|g=m	29	suj	29	suj
+18	à	à	P	P		17	dep	17	dep
+19	un	un	DET	DET	n=s|g=m	21	det	21	det
+20	tel	tel	ADJ	ADJ	n=s|g=m	21	mod	21	mod
+21	projet	projet	NC	NC	n=s|g=m	18	prep	18	prep
+22	:	:	PONCT	PONCT		21	ponct	21	ponct
+23	d'	de	P	P		29	mod	29	mod
+24	un	un	DET	DET	n=s|g=m	25	det	25	det
+25	côté	côté	NC	NC	n=s|g=m	23	prep	23	prep
+26	ceux	ceux	PRO	PRO	n=p|g=m	29	suj	29	suj
+27	qui	qui	PROREL	PROREL	n=s	29	suj	29	suj
+28	y	y	CLO	CLO		29	aff	29	aff
+29	voient	voir	V	V	n=p|t=P,S|p=3	15	dep_coord	15	dep_coord
+30	une	une	DET	DET	n=s|g=f	31	det	31	det
+31	opportunité	opportunité	NC	NC	n=s|g=f	29	obj	29	obj
+32	de	de	P	P		29	mod	29	mod
+33	relancer	relancer	VINF	VINF	t=W	32	prep	32	prep
+34	l'	le	DET	DET	n=s	35	det	35	det
+35	emploi	emploi	NC	NC	n=s|g=m	33	obj	33	obj
+36	dans	dans	P	P		33	mod	33	mod
+37	cette	cette	DET	DET	n=s|g=f	38	det	38	det
+38	commune	commune	NC	NC	n=s|g=f	36	prep	36	prep
+39	au	à	P+D	P+D	n=s|g=m	33	mod	33	mod
+40	fort	fort	ADJ	ADJ	n=s|g=m	41	mod	41	mod
+41	taux	taux	NC	NC	g=m	39	prep	39	prep
+42	de	de	P	P		33	mod	33	mod
+43	chômage	chômage	NC	NC	n=s|g=m	42	prep	42	prep
+44	,	,	PONCT	PONCT		43	ponct	43	ponct
+45	de	de	P	P		33	mod	33	mod
+46	l'	le	DET	DET	n=s	48	det	48	det
+47	autre	autre	ADJ	ADJ	n=s	48	mod	48	mod
+48	ceux	ceux	PRO	PRO	n=p|g=m	45	prep	45	prep
+49	qui	qui	PROREL	PROREL	n=s	50	suj	50	suj
+50	redoutent	redouter	V	V	n=p|t=P,S|p=3	48	mod_rel	48	mod_rel
+51	des	des	DET	DET	n=p	52	det	52	det
+52	dégâts	dégât	NC	NC	n=p|g=m	50	obj	50	obj
+53	environnementaux	environnemental	ADJ	ADJ	n=p|g=m	52	mod	52	mod
+54	et	et	CC	CC		53	coord	53	coord
+55	patrimoniaux	patrimonial	ADJ	ADJ	n=p|g=m	54	dep_coord	54	dep_coord
+56	.	.	PONCT	PONCT		55	ponct	55	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	débat	débat	NC	NC	n=s|g=m	4	suj	4	suj
+3	a	avoir	V	V	n=s|t=P|p=3	4	aux_tps	4	aux_tps
+4	pris	prendre	VPP	VPP	g=m|t=K	0	root	0	root
+5	une	une	DET	DET	n=s|g=f	6	det	6	det
+6	ampleur	ampleur	NC	NC	n=s|g=f	4	obj	4	obj
+7	nationale	national	ADJ	ADJ	n=s|g=f	6	mod	6	mod
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	le	le	DET	DET	n=s|g=m	10	det	10	det
+10	président	président	NC	NC	n=s|g=m	4	mod	4	mod
+11	du	de	P+D	P+D	n=s|g=m	10	dep	10	dep
+12	pays	pays	NC	NC	g=m	11	prep	11	prep
+13	étant	être	VPR	VPR	t=G	12	mod	12	mod
+14	favorable	favorable	ADJ	ADJ	n=s	0	_	0	_
+15	au	à	P+D	P+D	n=s|g=m	14	mod	14	mod
+16	projet	projet	NC	NC	n=s|g=m	15	prep	15	prep
+17	contrairement	_	ADV	ADV		16	mod	16	mod
+18	au	à	P+D	P+D	n=s|g=m	16	dep	16	dep
+19	parlement	parlement	NC	NC	n=s|g=m	18	prep	18	prep
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+

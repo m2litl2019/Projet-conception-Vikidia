@@ -1,0 +1,50 @@
+<p>
+1	Charles	Charles	NPP	NPP	n=s|g=m	3	suj	3	suj
+2	Nungesser	_	NPP	NPP		1	mod	1	mod
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	un	un	DET	DET	n=s|g=m	5	det	5	det
+5	aviateur	aviateur	NC	NC	n=s|g=m	3	obj	3	obj
+6	français	français	ADJ	ADJ	g=m	5	mod	5	mod
+7	.	.	PONCT	PONCT		6	ponct	6	ponct
+8	Il	il	CLS	CLS	n=s|g=m|p=3	10	suj	10	suj
+9	est	être	V	V	n=s|t=P|p=3	10	aux_tps	10	aux_tps
+10	né	naître	VPP	VPP	n=s|g=m|t=K	3	mod	3	mod
+11	le	le	DET	DET	n=s|g=m	13	det	13	det
+12	15	15	ADJ	ADJ		13	mod	13	mod
+13	mars	mars	NC	NC	g=m	10	mod	10	mod
+14	1892	1892	NC	NC		13	mod	13	mod
+15	et	et	CC	CC		10	coord	10	coord
+16	il	il	CLS	CLS	n=s|g=m|p=3	18	suj	18	suj
+17	est	être	V	V	n=s|t=P|p=3	18	aux_tps	18	aux_tps
+18	mort	mourir	VPP	VPP	n=s|g=m|t=K	15	dep_coord	15	dep_coord
+19	le	le	DET	DET	n=s|g=m	21	det	21	det
+20	8	8	ADJ	ADJ		21	mod	21	mod
+21	mai	mai	NC	NC	n=s|g=m	18	obj	18	obj
+22	1827	1827	ADJ	ADJ		21	mod	21	mod
+23	dans	dans	P	P		18	mod	18	mod
+24	un	un	DET	DET	n=s|g=m	25	det	25	det
+25	lieu	lieu	NC	NC	n=s|g=m	23	prep	23	prep
+26	inconnu	inconnu	ADJ	ADJ	n=s|g=m	25	mod	25	mod
+27	en	en	P	P		18	mod	18	mod
+28	compagnie	compagnie	NC	NC	n=s|g=f	27	prep	27	prep
+29	de	de	P	P		18	mod	18	mod
+30	François	François	NPP	NPP	n=s|g=m	29	prep	29	prep
+31	Coli	_	NPP	NPP		30	mod	30	mod
+32	,	,	PONCT	PONCT		31	ponct	31	ponct
+33	alors	alors	ADV	ADV		18	mod	18	mod
+34	que	que	CS	CS		18	mod	18	mod
+35	les	les	DET	DET	n=p	37	det	37	det
+36	deux	deux	ADJ	ADJ	s=card|n=p	37	mod	37	mod
+37	aviateurs	aviateur	NC	NC	n=p|g=m	38	suj	38	suj
+38	essayaient	essayer	V	V	n=p|t=I|p=3	34	sub	34	sub
+39	d'	de	P	P		38	mod	38	mod
+40	effectuer	effectuer	VINF	VINF	t=W	39	prep	39	prep
+41	le	le	DET	DET	n=s|g=m	42	det	42	det
+42	vol	vol	NC	NC	n=s|g=m	40	obj	40	obj
+43	Paris-New	_	NPP	NPP		42	mod	42	mod
+44	-	-	PONCT	PONCT		43	ponct	43	ponct
+45	York	York	NPP	NPP	n=s|g=m	42	mod	42	mod
+46	sans	sans	P	P		40	mod	40	mod
+47	escale	escale	NC	NC	n=s|g=f	46	prep	46	prep
+48	.	.	PONCT	PONCT		47	ponct	47	ponct
+

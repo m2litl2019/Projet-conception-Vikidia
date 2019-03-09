@@ -1,0 +1,59 @@
+<p>
+1	Djoser	_	NPP	NPP		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	un	un	DET	DET	n=s|g=m	4	det	4	det
+4	pharaon	pharaon	NC	NC	n=s|g=m	2	obj	2	obj
+5	de	de	P	P		2	mod	2	mod
+6	l'	le	DET	DET	n=s	7	det	7	det
+7	Égypte	Égypte	NPP	NPP	n=s|g=f	5	prep	5	prep
+8	antique	antique	ADJ	ADJ	n=s	7	mod	7	mod
+9	de	de	P	P		2	mod	2	mod
+10	la	la	DET	DET	n=s|g=f	12	det	12	det
+11	IIIe	_	ADJ	ADJ		12	mod	12	mod
+12	dynastie	dynastie	NC	NC	n=s|g=f	9	prep	9	prep
+13	.	.	PONCT	PONCT		12	ponct	12	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	3	suj	3	suj
+2	a	avoir	V	V	n=s|t=P|p=3	3	aux_tps	3	aux_tps
+3	régné	régner	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+4	vers	vers	P	P		3	mod	3	mod
+5	2800	2800	NC	NC		4	prep	4	prep
+6	av	_	NPP	NPP		5	mod	5	mod
+7	.	.	PONCT	PONCT		6	ponct	6	ponct
+
+1	J	_	NPP	NPP		0	_	0	_
+2	.	.	PONCT	PONCT		1	ponct	1	ponct
+3	-	-	PONCT	PONCT		1	ponct	1	ponct
+4	C	femelle	ADJ	ADJ		1	mod	1	mod
+5	..	..	PONCT	PONCT		4	ponct	4	ponct
+
+</p><p>
+1	Djoser	_	NPP	NPP		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	le	le	DET	DET	n=s|g=m	4	det	4	det
+4	fondateur	fondateur	NC	NC	n=s|g=m	2	obj	2	obj
+5	de	de	P	P		2	mod	2	mod
+6	la	la	DET	DET	n=s|g=f	8	det	8	det
+7	troisième	troisième	ADJ	ADJ	n=s	8	mod	8	mod
+8	dynastie	dynastie	NC	NC	n=s|g=f	5	prep	5	prep
+9	qui	qui	PROREL	PROREL	n=s	11	suj	11	suj
+10	est	être	V	V	n=s|t=P|p=3	11	aux_pass	11	aux_pass
+11	installée	installer	VPP	VPP	n=s|g=f|t=K	8	mod_rel	8	mod_rel
+12	à	à	P	P		11	mod	11	mod
+13	Memphis	_	NPP	NPP		12	prep	12	prep
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+</p><p>
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	fait	faire	V	V	n=s|t=P|p=3	0	root	0	root
+3	construire	construire	VINF	VINF	t=W	2	obj	2	obj
+4	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	5	det	5	det
+5	pyramide	pyramide	NC	NC	n=s|g=f	3	obj	3	obj
+6	par	par	P	P		3	mod	3	mod
+7	l'	le	DET	DET	n=s	8	det	8	det
+8	architecte	architecte	NC	NC	n=s	6	prep	6	prep
+9	Imhotep	Imhotep	NPP	NPP	n=s|g=m	8	mod	8	mod
+10	à	à	P	P		3	mod	3	mod
+11	Saqqarah	_	NPP	NPP		10	prep	10	prep
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+

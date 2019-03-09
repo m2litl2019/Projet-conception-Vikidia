@@ -1,0 +1,1264 @@
+<h2>
+1	Présentation	présentation	NC	NC	n=s|g=f	0	_	0	_
+2	rapide	rapide	ADJ	ADJ	n=s	1	mod	1	mod
+3	:	:	PONCT	PONCT		2	ponct	2	ponct
+4	comment	comment	ADVWH	ADVWH		5	mod	5	mod
+5	insérer	insérer	VINF	VINF	t=W	1	dep	1	dep
+6	des	des	DET	DET	n=p	7	det	7	det
+7	coordonnées	coordonnée	NC	NC	n=p|g=f	5	obj	5	obj
+8	facilement	_	ADV	ADV		5	mod	5	mod
+9	[	[	PONCT	PONCT		8	ponct	8	ponct
+10	modifier	modifier	VINF	VINF	t=W	0	_	0	_
+11	le	le	DET	DET	n=s|g=m	12	det	12	det
+12	wikicode	_	NC	NC		10	obj	10	obj
+13	]	]	PONCT	PONCT		12	ponct	12	ponct
+
+</h2><p>
+1	Ce	ce	DET	DET	n=s|g=m	2	det	2	det
+2	modèle	modèle	NC	NC	n=s|g=m	3	suj	3	suj
+3	sert	servir	V	V	n=s|t=P|p=3	0	root	0	root
+4	à	à	P	P		3	mod	3	mod
+5	insérer	insérer	VINF	VINF	t=W	4	prep	4	prep
+6	des	des	DET	DET	n=p	7	det	7	det
+7	coordonnées	coordonnée	NC	NC	n=p|g=f	5	obj	5	obj
+8	géographiques	géographique	ADJ	ADJ	n=p	7	mod	7	mod
+9	dans	dans	P	P		5	mod	5	mod
+10	un	un	DET	DET	n=s|g=m	11	det	11	det
+11	article	article	NC	NC	n=s|g=m	9	prep	9	prep
+12	;	;	PONCT	PONCT		11	ponct	11	ponct
+13	il	il	CLS	CLS	n=s|g=m|p=3	14	suj	14	suj
+14	insère	insérer	V	V	n=s|t=P,S|p=1,3	3	mod	3	mod
+15	en	en	P	P		14	mod	14	mod
+16	même	même	ADJ	ADJ	n=s	17	mod	17	mod
+17	temps	temps	NC	NC	g=m	15	prep	15	prep
+18	un	un	DET	DET	n=s|g=m	19	det	19	det
+19	lien	lien	NC	NC	n=s|g=m	14	obj	14	obj
+20	vers	vers	P	P		14	mod	14	mod
+21	l’	le	DET	DET	n=s	22	det	22	det
+22	outil	outil	NC	NC	n=s|g=m	20	prep	20	prep
+23	«_	"	PONCT	PONCT		22	ponct	22	ponct
+24	GeoHack	_	NPP	NPP		22	mod	22	mod
+25	_»	"	PONCT	PONCT		24	ponct	24	ponct
+26	,	,	PONCT	PONCT		24	ponct	24	ponct
+27	qui	qui	PROREL	PROREL	n=s	28	suj	28	suj
+28	donne	donner	V	V	n=s|t=P,S|p=1,3	14	mod	14	mod
+29	accès	accès	NC	NC	g=m	28	obj	28	obj
+30	à	à	P	P		28	mod	28	mod
+31	de	de	DET	DET	n=p	33	det	33	det
+32	nombreux	nombreux	ADJ	ADJ	g=m	33	mod	33	mod
+33	outils	outil	NC	NC	n=p|g=m	30	prep	30	prep
+34	de	de	P	P		28	mod	28	mod
+35	vues	vue	NC	NC	n=p|g=f	34	prep	34	prep
+36	satellites	satellite	ADJ	ADJ	n=p	35	mod	35	mod
+37	,	,	PONCT	PONCT		36	ponct	36	ponct
+38	cartes	carte	NC	NC	n=p|g=f	35	mod	35	mod
+39	,	,	PONCT	PONCT		38	ponct	38	ponct
+40	etc	_	ADV	ADV		14	mod	14	mod
+41	.	.	PONCT	PONCT		40	ponct	40	ponct
+42	comme	comme	P	P		14	mod	14	mod
+43	Google	Google	NPP	NPP	n=s|g=m	42	prep	42	prep
+44	Maps	_	NPP	NPP		43	mod	43	mod
+45	par	par	P	P		14	mod	14	mod
+46	exemple	exemple	NC	NC	n=s|g=m	45	prep	45	prep
+47	.	.	PONCT	PONCT		46	ponct	46	ponct
+
+</p><p>
+1	Pour	pour	P	P		9	mod	9	mod
+2	insérer	insérer	VINF	VINF	t=W	1	prep	1	prep
+3	des	des	DET	DET	n=p	4	det	4	det
+4	coordonnées	coordonnée	NC	NC	n=p|g=f	2	obj	2	obj
+5	dans	dans	P	P		2	mod	2	mod
+6	un	un	DET	DET	n=s|g=m	7	det	7	det
+7	article	article	NC	NC	n=s|g=m	5	prep	5	prep
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	suivez	suivre	V	V	n=p|t=P|p=2	0	root	0	root
+10	la	la	DET	DET	n=s|g=f	11	det	11	det
+11	procédure	procédure	NC	NC	n=s|g=f	9	obj	9	obj
+12	suivante	suivant	ADJ	ADJ	n=s|g=f	11	mod	11	mod
+13	(	(	PONCT	PONCT		12	ponct	12	ponct
+14	le	le	DET	DET	n=s|g=m	16	det	16	det
+15	manuel	manuel	ADJ	ADJ	n=s|g=m	16	mod	16	mod
+16	complet	complet	ADJ	ADJ	n=s|g=m	17	suj	17	suj
+17	est	être	V	V	n=s|t=P|p=3	9	mod	9	mod
+18	plus	plus	ADV	ADV		17	mod	17	mod
+19	bas	bas	ADJ	ADJ	g=m	17	ats	17	ats
+20	)	)	PONCT	PONCT		19	ponct	19	ponct
+21	:	:	PONCT	PONCT		19	ponct	19	ponct
+
+</p><p>
+1	Trouvez	trouver	V	V	n=p|t=P|p=2	0	root	0	root
+2	les	les	DET	DET	n=p	3	det	3	det
+3	coordonnées	coordonnée	NC	NC	n=p|g=f	1	obj	1	obj
+4	de	de	P	P		1	mod	1	mod
+5	l’	le	DET	DET	n=s	6	det	6	det
+6	endroit	endroit	NC	NC	n=s|g=m	4	prep	4	prep
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	avec	avec	P	P		1	mod	1	mod
+9	un	un	DET	DET	n=s|g=m	10	det	10	det
+10	logiciel	logiciel	NC	NC	n=s|g=m	8	prep	8	prep
+11	(	(	PONCT	PONCT		10	ponct	10	ponct
+12	comme	comme	P	P		1	mod	1	mod
+13	Google	Google	NPP	NPP	n=s|g=m	12	prep	12	prep
+14	Earth	_	NPP	NPP		13	mod	13	mod
+15	)	)	PONCT	PONCT		14	ponct	14	ponct
+16	ou	ou	CC	CC		1	coord	1	coord
+17	un	un	DET	DET	n=s|g=m	18	det	18	det
+18	site	site	NC	NC	n=s|g=m	0	_	0	_
+19	adapté	adapter	ADJ	ADJ	n=s|g=m|t=K	18	mod	18	mod
+20	(	(	PONCT	PONCT		19	ponct	19	ponct
+21	comme	comme	P	P		0	_	0	_
+22	GeoLocator	_	NPP	NPP		21	prep	21	prep
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	ACME	_	NPP	NPP		22	mod	22	mod
+25	Mapper	_	NPP	NPP		22	mod	22	mod
+26	,	,	PONCT	PONCT		25	ponct	25	ponct
+27	Géoportail	_	NPP	NPP		22	mod	22	mod
+28	…	…	PONCT	PONCT		27	ponct	27	ponct
+29	)	)	PONCT	PONCT		27	ponct	27	ponct
+30	,	,	PONCT	PONCT		27	ponct	27	ponct
+31	ou	ou	CC	CC		21	coord	21	coord
+32	d’	de	P	P		31	dep_coord	31	dep_coord
+33	après	après	P	P		32	dep	32	dep
+34	une	une	DET	DET	n=s|g=f	35	det	35	det
+35	source	source	NC	NC	n=s|g=f	33	prep	33	prep
+36	digne	digne	ADJ	ADJ	n=s	35	mod	35	mod
+37	de	de	P	P		35	dep	35	dep
+38	foi	foi	NC	NC	n=s|g=f	37	prep	37	prep
+39	.	.	PONCT	PONCT		38	ponct	38	ponct
+
+1	Vous	vous	CLS	CLS	n=p|p=2	2	suj	2	suj
+2	pouvez	pouvoir	V	V	n=p|t=P|p=2	0	root	0	root
+3	les	les	CLO	CLO	n=p|p=3	4	obj	4	obj
+4	trouver	trouver	VINF	VINF	t=W	2	obj	2	obj
+5	dans	dans	P	P		4	mod	4	mod
+6	trois	trois	DET	DET	s=card|n=p	7	det	7	det
+7	formats	format	NC	NC	n=p|g=m	5	prep	5	prep
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	en	en	P	P		4	mod	4	mod
+10	général	général	NC	NC	n=s|g=m	9	prep	9	prep
+11	:	:	PONCT	PONCT		10	ponct	10	ponct
+12	soit	soit	CC	CC		9	coord	9	coord
+13	sous	sous	P	P		12	dep_coord	12	dep_coord
+14	la	la	DET	DET	n=s|g=f	15	det	15	det
+15	forme	forme	NC	NC	n=s|g=f	13	prep	13	prep
+16	«_	"	PONCT	PONCT		15	ponct	15	ponct
+17	26.456	26.456	NPP	NPP		2	mod	2	mod
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	-3.765	-3.765	NPP	NPP		17	mod	17	mod
+20	_»	"	PONCT	PONCT		19	ponct	19	ponct
+21	(	(	PONCT	PONCT		19	ponct	19	ponct
+22	degrés	degré	NC	NC	n=p|g=m	17	mod	17	mod
+23	décimaux	décimal	ADJ	ADJ	n=p|g=m	22	mod	22	mod
+24	ou	ou	CC	CC		22	coord	22	coord
+25	dec	_	NC	NC		24	dep_coord	24	dep_coord
+26	)	)	PONCT	PONCT		25	ponct	25	ponct
+27	,	,	PONCT	PONCT		25	ponct	25	ponct
+28	soit	soit	CC	CC		2	coord	2	coord
+29	«_	"	PONCT	PONCT		28	ponct	28	ponct
+30	26	26	ADJ	ADJ		28	dep_coord	28	dep_coord
+31	°	°	NC	NC	g=m	0	_	0	_
+32	24.5	24.5	ADJ	ADJ		31	mod	31	mod
+33	′	′	PONCT	PONCT		32	ponct	32	ponct
+34	N	_	NPP	NPP		31	mod	31	mod
+35	,	,	PONCT	PONCT		34	ponct	34	ponct
+36	3	3	ADJ	ADJ		37	mod	37	mod
+37	°	°	NC	NC	g=m	31	mod	31	mod
+38	58.25	58.25	ADJ	ADJ		37	mod	37	mod
+39	′	′	PONCT	PONCT		38	ponct	38	ponct
+40	W	_	NPP	NPP		37	mod	37	mod
+41	_»	"	PONCT	PONCT		40	ponct	40	ponct
+42	(	(	PONCT	PONCT		40	ponct	40	ponct
+43	degrés	degré	NC	NC	n=p|g=m	31	mod	31	mod
+44	et	et	CC	CC		43	coord	43	coord
+45	minutes	minute	NC	NC	n=p|g=f	44	dep_coord	44	dep_coord
+46	puis	puis	CC	CC		45	coord	45	coord
+47	fractions	fraction	NC	NC	n=p|g=f	46	dep_coord	46	dep_coord
+48	de	de	P	P		43	dep	43	dep
+49	minutes	minute	NC	NC	n=p|g=f	48	prep	48	prep
+50	,	,	PONCT	PONCT		49	ponct	49	ponct
+51	ou	ou	CC	CC		43	coord	43	coord
+52	DM	_	NPP	NPP		51	dep_coord	51	dep_coord
+53	)	)	PONCT	PONCT		52	ponct	52	ponct
+54	,	,	PONCT	PONCT		52	ponct	52	ponct
+55	soit	soit	CC	CC		43	coord	43	coord
+56	«_	"	PONCT	PONCT		55	ponct	55	ponct
+57	26	26	ADJ	ADJ		58	mod	58	mod
+58	°	°	NC	NC	g=m	55	dep_coord	55	dep_coord
+59	24	24	ADJ	ADJ		58	mod	58	mod
+60	′	′	PONCT	PONCT		59	ponct	59	ponct
+61	30	30	ADJ	ADJ		58	mod	58	mod
+62	″	″	PONCT	PONCT		61	ponct	61	ponct
+
+1	N	_	NPP	NPP		0	_	0	_
+2	3	3	ADJ	ADJ		1	mod	1	mod
+3	°	°	NC	NC	g=m	1	mod	1	mod
+4	58	58	ADJ	ADJ		3	mod	3	mod
+5	′	′	PONCT	PONCT		4	ponct	4	ponct
+6	15	15	ADJ	ADJ		3	mod	3	mod
+7	″	″	PONCT	PONCT		6	ponct	6	ponct
+8	_»	"	PONCT	PONCT		6	ponct	6	ponct
+9	(	(	PONCT	PONCT		6	ponct	6	ponct
+10	degrés	degré	NC	NC	n=p|g=m	1	mod	1	mod
+11	minutes	minute	NC	NC	n=p|g=f	10	mod	10	mod
+12	et	et	CC	CC		10	coord	10	coord
+13	secondes	second	ADJ	ADJ	n=p|g=f	12	dep_coord	12	dep_coord
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	DMS	_	NPP	NPP		1	mod	1	mod
+16	)	)	PONCT	PONCT		15	ponct	15	ponct
+17	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+</p><p>
+1	Écrivez	écrire	V	V	n=p|t=P|p=2	0	root	0	root
+2	à	à	P	P		1	mod	1	mod
+3	l’	le	DET	DET	n=s	4	det	4	det
+4	endroit	endroit	NC	NC	n=s|g=m	2	prep	2	prep
+5	souhaité	souhaiter	VPP	VPP	n=s|g=m|t=K	4	mod	4	mod
+6	de	de	P	P		5	mod	5	mod
+7	l’	le	DET	DET	n=s	8	det	8	det
+8	article	article	NC	NC	n=s|g=m	6	prep	6	prep
+9	le	le	DET	DET	n=s|g=m	10	det	10	det
+10	code	code	NC	NC	n=s|g=m	5	mod	5	mod
+11	suivant	suivant	ADJ	ADJ	n=s|g=m	10	mod	10	mod
+12	:	:	PONCT	PONCT		11	ponct	11	ponct
+<code>{{coord|vos coordonnées}}</code>, en séparant les coordonnées par une barre verticale. En format décimal, cela donne : <code>{{coord|26.456|-3.765}}</code> ; en format DM, ceci : <code>{{coord|26|24.5|N|3|58.25|W}}</code> ; en format DMS, ceci : <code>{{coord|26|24|30|N|3|58|15|W}}</code>
+13	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+</p><p>
+1	Note	note	NC	NC	n=s|g=f	9	suj	9	suj
+2	:	:	PONCT	PONCT		1	ponct	1	ponct
+3	pour	pour	P	P		1	dep	1	dep
+4	DM	_	NPP	NPP		3	prep	3	prep
+5	et	et	CC	CC		1	coord	1	coord
+6	DMS	_	NPP	NPP		5	dep_coord	5	dep_coord
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	n’	ne	ADV	ADV		9	mod	9	mod
+9	oubliez	oublier	V	V	n=p|t=P|p=2	0	root	0	root
+10	pas	pas	ADV	ADV		9	mod	9	mod
+11	de	de	P	P		9	mod	9	mod
+12	préciser	préciser	VINF	VINF	t=W	11	prep	11	prep
+13	N	_	NPP	NPP		12	obj	12	obj
+14	/	/	PONCT	PONCT		13	ponct	13	ponct
+15	S	_	NPP	NPP		13	mod	13	mod
+16	/	/	PONCT	PONCT		15	ponct	15	ponct
+17	E	_	NPP	NPP		13	mod	13	mod
+18	/	/	PONCT	PONCT		17	ponct	17	ponct
+19	W	_	NPP	NPP		13	mod	13	mod
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+</p><p>
+1	Ajoutez	ajouter	VIMP	VIMP	n=p|t=Y|p=2	0	root	0	root
+2	éventuellement	_	ADV	ADV		1	mod	1	mod
+3	des	des	DET	DET	n=p	4	det	4	det
+4	paramètres	paramètre	NC	NC	n=p|g=m	1	obj	1	obj
+5	après	après	P	P		4	dep	4	dep
+6	une	une	DET	DET	n=s|g=f	8	det	8	det
+7	autre	autre	ADJ	ADJ	n=s	8	mod	8	mod
+8	barre	barre	NC	NC	n=s|g=f	5	prep	5	prep
+9	verticale	vertical	ADJ	ADJ	n=s|g=f	8	mod	8	mod
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+1	Par	par	P	P		8	mod	8	mod
+2	exemple	exemple	NC	NC	n=s|g=m	1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	pour	pour	P	P		8	mod	8	mod
+5	une	une	DET	DET	n=s|g=f	6	det	6	det
+6	ville	ville	NC	NC	n=s|g=f	4	prep	4	prep
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	ajoutez	ajouter	VIMP	VIMP	n=p|t=Y|p=2	0	root	0	root
+<code>type:city</code>, pour un bâtiment <code>type:landmark</code> ; vous pouvez préciser l’échelle avec <code>scale:20000</code> (échelle 1:Modèle:Nombre), la région du monde avec <code>region:FR</code> (FR étant le code ISO 3166-1 alpha 2 de la France). Pour une ville française vue à l’échelle 1:Modèle:Nombre, vous écrirez donc : <code>{{coord|26|24|30|N|3|58|15|W|type:city_region:FR_scale:10000}}</code>
+9	.	.	PONCT	PONCT		8	ponct	8	ponct
+
+</p><p>
+1	Note	note	NC	NC	n=s|g=f	6	mod	6	mod
+2	:	:	PONCT	PONCT		1	ponct	1	ponct
+3	ces	ces	DET	DET	n=p	4	det	4	det
+4	paramètres	paramètre	NC	NC	n=p|g=m	6	suj	6	suj
+5	sont	être	V	V	n=p|t=P|p=3	6	aux_pass	6	aux_pass
+6	séparés	séparer	VPP	VPP	n=p|g=m|t=K	0	root	0	root
+7	par	par	P	P		6	mod	6	mod
+8	un	un	DET	DET	n=s|g=m	9	det	9	det
+9	tiret	tiret	NC	NC	n=s|g=m	7	prep	7	prep
+10	bas	bas	ADJ	ADJ	g=m	9	mod	9	mod
+11	;	;	PONCT	PONCT		10	ponct	10	ponct
+12	liste	liste	NC	NC	n=s|g=f	6	mod	6	mod
+13	complète	complet	ADJ	ADJ	n=s|g=f	12	mod	12	mod
+14	sur	sur	P	P		6	mod	6	mod
+15	cette	cette	DET	DET	n=s|g=f	16	det	16	det
+16	page	page	NC	NC	n=s	14	prep	14	prep
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+</p><p>
+1	Par	par	P	P		7	mod	7	mod
+2	défaut	défaut	NC	NC	n=s|g=m	1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	les	les	DET	DET	n=p	5	det	5	det
+5	coordonnées	coordonnée	NC	NC	n=p|g=f	7	suj	7	suj
+6	sont	être	V	V	n=p|t=P|p=3	7	aux_pass	7	aux_pass
+7	écrites	écrire	VPP	VPP	n=p|g=f|t=K	0	root	0	root
+8	là	là	ADV	ADV		7	mod	7	mod
+9	où	où	PROREL	PROREL		13	mod	13	mod
+10	le	le	DET	DET	n=s|g=m	11	det	11	det
+11	modèle	modèle	NC	NC	n=s|g=m	13	suj	13	suj
+12	est	être	V	V	n=s|t=P|p=3	13	aux_pass	13	aux_pass
+13	placé	placer	VPP	VPP	n=s|g=m|t=K	7	mod	7	mod
+14	;	;	PONCT	PONCT		13	ponct	13	ponct
+15	vous	vous	CLS	CLS	n=p|p=2	16	suj	16	suj
+16	pouvez	pouvoir	V	V	n=p|t=P|p=2	7	mod	7	mod
+17	les	les	CLO	CLO	n=p|p=3	18	obj	18	obj
+18	afficher	afficher	VINF	VINF	t=W	16	obj	16	obj
+19	dans	dans	P	P		18	mod	18	mod
+20	le	le	DET	DET	n=s|g=m	21	det	21	det
+21	titre	titre	NC	NC	n=s|g=m	19	prep	19	prep
+22	en	en	P	P		16	mod	16	mod
+23	ajoutant	ajouter	VPR	VPR	t=G	22	prep	22	prep
+
+<code>|display=title</code>. Vous pouvez aussi choisir d’afficher des coordonnées décimales en format DMS en ajoutant <code>|format=dms</code>, ou des coordonnées DM/DMS en format décimal avec <code>format=dec</code>. Exemple : <code>{{coord|26.456|-3.765|format=dms}}</code></p><p>
+1	Enfin	enfin	ADV	ADV		4	mod	4	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	n’	ne	ADV	ADV		4	mod	4	mod
+4	oubliez	oublier	V	V	n=p|t=P|p=2	0	root	0	root
+5	pas	pas	ADV	ADV		4	mod	4	mod
+6	de	de	P	P		4	mod	4	mod
+7	préciser	préciser	VINF	VINF	t=W	6	prep	6	prep
+8	la	la	DET	DET	n=s|g=f	9	det	9	det
+9	source	source	NC	NC	n=s|g=f	7	obj	7	obj
+10	des	de	P+D	P+D	n=p	9	dep	9	dep
+11	coordonnées	coordonnée	NC	NC	n=p|g=f	10	prep	10	prep
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	par	par	P	P		7	mod	7	mod
+14	exemple	exemple	NC	NC	n=s|g=m	13	prep	13	prep
+15	avec	avec	P	P		7	mod	7	mod
+16	une	une	DET	DET	n=s|g=f	17	det	17	det
+17	note	note	NC	NC	n=s|g=f	15	prep	15	prep
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	Ainsi	ainsi	ADV	ADV		9	mod	9	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	en	en	P	P		9	mod	9	mod
+4	cas	cas	NC	NC	g=m	3	prep	3	prep
+5	de	de	P	P		9	mod	9	mod
+6	contestation	contestation	NC	NC	n=s|g=f	5	prep	5	prep
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	on	on	CLS	CLS	n=s|p=3	9	suj	9	suj
+9	sait	savoir	V	V	n=s|t=P|p=3	0	root	0	root
+10	comment	comment	ADVWH	ADVWH		11	mod	11	mod
+11	retrouver	retrouver	VINF	VINF	t=W	9	obj	9	obj
+12	l’	le	DET	DET	n=s	13	det	13	det
+13	origine	origine	NC	NC	n=s|g=f	11	obj	11	obj
+14	de	de	P	P		11	mod	11	mod
+15	votre	votre	DET	DET	n=s|p=2|poss=p	16	det	16	det
+16	choix	choix	NC	NC	g=m	14	prep	14	prep
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+</p><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	modèle	modèle	NC	NC	n=s|g=m	4	suj	4	suj
+3	complet	complet	ADJ	ADJ	n=s|g=m	2	mod	2	mod
+4	peut	pouvoir	V	V	n=s|t=P|p=3	0	root	0	root
+5	donc	donc	ADV	ADV		4	mod	4	mod
+6	ressembler	ressembler	VINF	VINF	t=W	4	obj	4	obj
+7	à	à	P	P		6	mod	6	mod
+8	ceci	ceci	PRO	PRO	n=s|g=m	7	prep	7	prep
+9	:	:	PONCT	PONCT		8	ponct	8	ponct
+
+</p><p><code>{{coord|26|24|30|N|3|58|15|W|type:city_region:FR_scale:10000|format=dec|display=title}}</code>
+1	.	.	PONCT	PONCT		0	ponct	0	ponct
+
+</p><p>
+1	En	en	P	P		10	mod	10	mod
+2	cas	cas	NC	NC	g=m	1	prep	1	prep
+3	de	de	P	P		10	mod	10	mod
+4	doute	doute	NC	NC	n=s|g=m	3	prep	3	prep
+5	sur	sur	P	P		4	dep	4	dep
+6	les	les	DET	DET	n=p	7	det	7	det
+7	paramètres	paramètre	NC	NC	n=p|g=m	5	prep	5	prep
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	mieux	mieux	ADV	ADV		10	mod	10	mod
+10	vaut	valoir	V	V	n=s|t=P|p=3	0	root	0	root
+11	ne	ne	ADV	ADV		10	mod	10	mod
+12	pas	pas	ADV	ADV		10	mod	10	mod
+13	recopier	recopier	VINF	VINF	t=W	10	obj	10	obj
+14	le	le	DET	DET	n=s|g=m	15	det	15	det
+15	modèle	modèle	NC	NC	n=s|g=m	13	obj	13	obj
+16	d’	de	P	P		13	mod	13	mod
+17	une	une	DET	DET	n=s|g=f	19	det	19	det
+18	autre	autre	ADJ	ADJ	n=s	19	mod	19	mod
+19	page	page	NC	NC	n=s	16	prep	16	prep
+20	mais	mais	CC	CC		13	coord	13	coord
+21	se	se	CLR	CLR	n=p,s|p=3	22	aff	22	aff
+22	contenter	contenter	VINF	VINF	t=W	20	dep_coord	20	dep_coord
+23	de	de	P	P		22	mod	22	mod
+24	ne	ne	ADV	ADV		25	mod	25	mod
+25	mettre	mettre	VINF	VINF	t=W	23	prep	23	prep
+26	que	que	CS	CS		25	mod	25	mod
+27	les	les	DET	DET	n=p	28	det	28	det
+28	coordonnées	coordonnée	NC	NC	n=p|g=f	34	mod	34	mod
+29	,	,	PONCT	PONCT		28	ponct	28	ponct
+30	sans	sans	P	P		28	dep	28	dep
+31	paramètres	paramètre	NC	NC	n=p|g=m	30	prep	30	prep
+32	:	:	PONCT	PONCT		31	ponct	31	ponct
+33	ça	ça	PRO	PRO	n=s	34	suj	34	suj
+34	marchera	marcher	V	V	n=s|t=F|p=3	26	sub	26	sub
+35	très	très	ADV	ADV		34	mod	34	mod
+36	bien	bien	ADV	ADV		37	mod	37	mod
+37	ainsi	ainsi	ADV	ADV		34	mod	34	mod
+38	.	.	PONCT	PONCT		37	ponct	37	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	reste	reste	NC	NC	n=s|g=m	6	suj	6	suj
+3	de	de	P	P		2	dep	2	dep
+4	cette	cette	DET	DET	n=s|g=f	5	det	5	det
+5	page	page	NC	NC	n=s	3	prep	3	prep
+6	explique	expliquer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+7	le	le	DET	DET	n=s|g=m	8	det	8	det
+8	fonctionnement	fonctionnement	NC	NC	n=s|g=m	6	obj	6	obj
+9	en	en	P	P		8	dep	8	dep
+10	détail	détail	NC	NC	n=s|g=m	9	prep	9	prep
+11	du	de	P+D	P+D	n=s|g=m	8	dep	8	dep
+12	modèle	modèle	NC	NC	n=s|g=m	11	prep	11	prep
+13	{	{	PONCT	PONCT		12	ponct	12	ponct
+14	{	{	PONCT	PONCT		12	ponct	12	ponct
+15	coord	_	NC	NC		6	mod	6	mod
+16	}	}	PONCT	PONCT		15	ponct	15	ponct
+17	}	}	PONCT	PONCT		15	ponct	15	ponct
+18	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+</p><h2>
+1	Utilisation	utilisation	NC	NC	n=s|g=f	0	root	0	root
+2	[	[	PONCT	PONCT		1	ponct	1	ponct
+3	modifier	modifier	VINF	VINF	t=W	1	dep	1	dep
+4	le	le	DET	DET	n=s|g=m	5	det	5	det
+5	wikicode	_	NC	NC		3	obj	3	obj
+6	]	]	PONCT	PONCT		5	ponct	5	ponct
+
+</h2><p>
+1	Ce	ce	DET	DET	n=s|g=m	2	det	2	det
+2	modèle	modèle	NC	NC	n=s|g=m	8	suj	8	suj
+3	{	{	PONCT	PONCT		2	ponct	2	ponct
+4	{	{	PONCT	PONCT		2	ponct	2	ponct
+5	Coord	_	NPP	NPP		2	mod	2	mod
+6	}	}	PONCT	PONCT		5	ponct	5	ponct
+7	}	}	PONCT	PONCT		5	ponct	5	ponct
+8	permet	permettre	V	V	n=s|t=P|p=3	0	root	0	root
+9	de	de	P	P		8	mod	8	mod
+10	créer	créer	VINF	VINF	t=W	9	prep	9	prep
+11	un	un	DET	DET	n=s|g=m	12	det	12	det
+12	lien	lien	NC	NC	n=s|g=m	10	obj	10	obj
+13	vers	vers	P	P		10	mod	10	mod
+14	Geohack	_	NPP	NPP		13	prep	13	prep
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	un	un	DET	DET	n=s|g=m	17	det	17	det
+17	outil	outil	NC	NC	n=s|g=m	8	mod	8	mod
+18	du	de	P+D	P+D	n=s|g=m	17	dep	17	dep
+19	toolserver	_	NC	NC		18	prep	18	prep
+20	qui	qui	PROREL	PROREL	n=s	21	suj	21	suj
+21	donne	donner	V	V	n=s|t=P,S|p=1,3	17	mod_rel	17	mod_rel
+22	une	une	DET	DET	n=s|g=f	23	det	23	det
+23	liste	liste	NC	NC	n=s|g=f	21	obj	21	obj
+24	de	de	P	P		23	dep	23	dep
+25	liens	lien	NC	NC	n=p|g=m	24	prep	24	prep
+26	sources	source	NC	NC	n=p|g=f	25	mod	25	mod
+27	vers	vers	P	P		21	mod	21	mod
+28	des	des	DET	DET	n=p	29	det	29	det
+29	cartes	carte	NC	NC	n=p|g=f	27	prep	27	prep
+30	,	,	PONCT	PONCT		29	ponct	29	ponct
+31	des	des	DET	DET	n=p	32	det	32	det
+32	vues	vue	NC	NC	n=p|g=f	8	mod	8	mod
+33	satellites	satellite	ADJ	ADJ	n=p	32	mod	32	mod
+34	,	,	PONCT	PONCT		33	ponct	33	ponct
+35	des	de	P+D	P+D	n=p	8	mod	8	mod
+36	photosModèle	_	NC	NC		35	prep	35	prep
+37	:	:	PONCT	PONCT		36	ponct	36	ponct
+38	Etc	_	NPP	NPP		8	mod	8	mod
+39	.	.	PONCT	PONCT		38	ponct	38	ponct
+
+1	ce	ce	CLS	CLS		2	suj	2	suj
+2	pour	pour	P	P		0	_	0	_
+3	une	une	DET	DET	n=s|g=f	4	det	4	det
+4	position	position	NC	NC	n=s|g=f	2	prep	2	prep
+5	géographique	géographique	ADJ	ADJ	n=s	4	mod	4	mod
+6	donnée	donner	VPP	VPP	n=s|g=f|t=K	4	mod	4	mod
+7	par	par	P	P		6	mod	6	mod
+8	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	9	det	9	det
+9	latitude	latitude	NC	NC	n=s|g=f	7	prep	7	prep
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	12	det	12	det
+12	longitude	longitude	NC	NC	n=s|g=f	0	_	0	_
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	et	et	CC	CC		12	coord	12	coord
+15	son	son	DET	DET	n=s|g=m|p=3|poss=s	16	det	16	det
+16	échelle	échelle	NC	NC	n=s|g=f	14	dep_coord	14	dep_coord
+17	)	)	PONCT	PONCT		16	ponct	16	ponct
+18	de	de	P	P		12	dep	12	dep
+19	visualisation	visualisation	NC	NC	n=s|g=f	18	prep	18	prep
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+</p><p>
+1	Ce	ce	DET	DET	n=s|g=m	2	det	2	det
+2	modèle	modèle	NC	NC	n=s|g=m	3	suj	3	suj
+3	permet	permettre	V	V	n=s|t=P|p=3	0	root	0	root
+4	également	_	ADV	ADV		3	mod	3	mod
+5	de	de	P	P		3	ats	3	ats
+6	standardiser	standardiser	VINF	VINF	t=W	5	prep	5	prep
+7	la	la	DET	DET	n=s|g=f	8	det	8	det
+8	notation	notation	NC	NC	n=s|g=f	6	obj	6	obj
+9	des	de	P+D	P+D	n=p	8	dep	8	dep
+10	coordonnées	coordonnée	NC	NC	n=p|g=f	9	prep	9	prep
+11	géographiques	géographique	ADJ	ADJ	n=p	10	mod	10	mod
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	utilise	utiliser	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	principalement	_	ADV	ADV		2	mod	2	mod
+4	des	des	DET	DET	n=p	5	det	5	det
+5	coordonnées	coordonnée	NC	NC	n=p|g=f	2	obj	2	obj
+6	terrestres	terrestre	ADJ	ADJ	n=p	5	mod	5	mod
+7	(	(	PONCT	PONCT		6	ponct	6	ponct
+8	il	il	CLS	CLS	n=s|g=m|p=3	9	suj	9	suj
+9	est	être	V	V	n=s|t=P|p=3	2	mod	2	mod
+10	possible	possible	ADJ	ADJ	n=s	9	ats	9	ats
+11	de	de	P	P		9	mod	9	mod
+12	préciser	préciser	VINF	VINF	t=W	11	prep	11	prep
+<code>globe:moon</code> ou <code>globe:mars</code>
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	sans	sans	P	P		12	mod	12	mod
+15	réel	réel	ADJ	ADJ	n=s|g=m	16	mod	16	mod
+16	effet	effet	NC	NC	n=s|g=m	14	prep	14	prep
+17	pour	pour	P	P		12	mod	12	mod
+18	l’	le	DET	DET	n=s	19	det	19	det
+19	instant	instant	NC	NC	n=s|g=m	17	prep	17	prep
+20	)	)	PONCT	PONCT		19	ponct	19	ponct
+21	de	de	P	P		12	mod	12	mod
+22	type	type	NC	NC	n=s|g=m	21	prep	21	prep
+23	WGS84	_	NPP	NPP		22	mod	22	mod
+24	(	(	PONCT	PONCT		23	ponct	23	ponct
+25	latitude	latitude	NC	NC	n=s|g=f	22	mod	22	mod
+26	-	-	PONCT	PONCT		25	ponct	25	ponct
+27	longitude	longitude	NC	NC	n=s|g=f	22	mod	22	mod
+28	)	)	PONCT	PONCT		27	ponct	27	ponct
+29	.	.	PONCT	PONCT		27	ponct	27	ponct
+
+1	Ces	ces	DET	DET	n=p	2	det	2	det
+2	coordonnées	coordonnée	NC	NC	n=p|g=f	3	suj	3	suj
+3	peuvent	pouvoir	V	V	n=p|t=P|p=3	0	root	0	root
+4	être	être	VINF	VINF	t=W	5	aux_pass	5	aux_pass
+5	entrées	entrer	VPP	VPP	n=p|g=f|t=K	3	obj	3	obj
+6	et	et	CC	CC		5	coord	5	coord
+7	affichées	afficher	VPP	VPP	n=p|g=f|t=K	6	dep_coord	6	dep_coord
+8	de	de	P	P		5	mod	5	mod
+9	manière	manière	NC	NC	n=s|g=f	8	prep	8	prep
+10	indépendante	indépendant	ADJ	ADJ	n=s|g=f	9	mod	9	mod
+11	dans	dans	P	P		5	mod	5	mod
+12	:	:	PONCT	PONCT		11	ponct	11	ponct
+
+</p><p>
+1	le	le	DET	DET	n=s|g=m	2	det	2	det
+2	système	système	NC	NC	n=s|g=m	14	suj	14	suj
+3	décimal	décimal	ADJ	ADJ	n=s|g=m	2	mod	2	mod
+4	avec	avec	P	P		2	dep	2	dep
+5	des	des	DET	DET	n=p	6	det	6	det
+6	degrés	degré	NC	NC	n=p|g=m	4	prep	4	prep
+7	décimaux	décimal	ADJ	ADJ	n=p|g=m	6	mod	6	mod
+8	(	(	PONCT	PONCT		7	ponct	7	ponct
+9	DD	_	NPP	NPP		2	mod	2	mod
+10	)	)	PONCT	PONCT		9	ponct	9	ponct
+11	,	,	PONCT	PONCT		9	ponct	9	ponct
+12	la	la	DET	DET	n=s|g=f	13	det	13	det
+13	précision	précision	NC	NC	n=s|g=f	2	mod	2	mod
+14	dépend	dépendre	V	V	n=s|t=P|p=3	0	root	0	root
+15	alors	alors	ADV	ADV		14	mod	14	mod
+16	du	de	P+D	P+D	n=s|g=m	14	mod	14	mod
+17	nombre	nombre	NC	NC	n=s|g=m	16	prep	16	prep
+18	de	de	P	P		17	dep	17	dep
+19	chiffres	chiffre	NC	NC	n=p|g=m	18	prep	18	prep
+20	rentrés	rentrer	VPP	VPP	n=p|g=m|t=K	19	mod	19	mod
+21	après	après	P	P		20	mod	20	mod
+22	la	la	DET	DET	n=s|g=f	23	det	23	det
+23	virgule	virgule	NC	NC	n=s|g=f	21	prep	21	prep
+24	.	.	PONCT	PONCT		23	ponct	23	ponct
+
+</p><p>
+1	le	le	DET	DET	n=s|g=m	2	det	2	det
+2	système	système	NC	NC	n=s|g=m	12	suj	12	suj
+3	sexagésimal	_	ADJ	ADJ		2	mod	2	mod
+4	ou	ou	CC	CC		2	coord	2	coord
+5	degrés-minutes-secondes	_	NC	NC		4	dep_coord	4	dep_coord
+6	(	(	PONCT	PONCT		5	ponct	5	ponct
+7	DMS	_	NPP	NPP		2	mod	2	mod
+8	)	)	PONCT	PONCT		7	ponct	7	ponct
+9	,	,	PONCT	PONCT		7	ponct	7	ponct
+10	la	la	DET	DET	n=s|g=f	11	det	11	det
+11	précision	précision	NC	NC	n=s|g=f	2	mod	2	mod
+12	dépend	dépendre	V	V	n=s|t=P|p=3	0	root	0	root
+13	alors	alors	ADV	ADV		12	mod	12	mod
+14	du	de	P+D	P+D	n=s|g=m	12	mod	12	mod
+15	fait	fait	NC	NC	n=s|g=m	14	prep	14	prep
+16	que	que	PROREL	PROREL		19	mod	19	mod
+17	l’	le	DET	DET	n=s	18	det	18	det
+18	on	on	CLS	CLS	n=s|p=3	19	suj	19	suj
+19	rentre	rentrer	V	V	n=s|t=P,S|p=1,3	15	mod_rel	15	mod_rel
+20	les	les	DET	DET	n=p	21	det	21	det
+21	coordonnées	coordonnée	NC	NC	n=p|g=f	19	obj	19	obj
+22	jusqu’	jusque	P	P		19	mod	19	mod
+23	au	à	P+D	P+D	n=s|g=m	22	prep	22	prep
+24	secondes	second	ADJ	ADJ	n=p|g=f	26	mod	26	mod
+25	(	(	PONCT	PONCT		24	ponct	24	ponct
+26	DMS	_	NPP	NPP		12	mod	12	mod
+27	)	)	PONCT	PONCT		26	ponct	26	ponct
+28	,	,	PONCT	PONCT		26	ponct	26	ponct
+29	ou	ou	CC	CC		12	coord	12	coord
+30	que	que	CS	CS		29	dep_coord	29	dep_coord
+31	jusqu’	jusque	P	P		0	_	0	_
+32	au	à	P+D	P+D	n=s|g=m	0	_	0	_
+33	minutes	minute	NC	NC	n=p|g=f	32	prep	32	prep
+34	(	(	PONCT	PONCT		33	ponct	33	ponct
+35	DM	_	NC	NC		33	mod	33	mod
+36	seulement	_	ADV	ADV		33	mod	33	mod
+37	)	)	PONCT	PONCT		36	ponct	36	ponct
+38	,	,	PONCT	PONCT		36	ponct	36	ponct
+39	voir	voir	VINF	VINF	t=W	32	ponct	32	ponct
+40	que	que	CS	CS		39	obj	39	obj
+41	jusqu’	jusque	P	P		0	_	0	_
+42	au	à	P+D	P+D	n=s|g=m	0	_	0	_
+43	degrés	degré	NC	NC	n=p|g=m	42	prep	42	prep
+44	(	(	PONCT	PONCT		43	ponct	43	ponct
+45	D	_	NPP	NPP		43	mod	43	mod
+46	seulement	_	ADV	ADV		43	mod	43	mod
+47	)	)	PONCT	PONCT		46	ponct	46	ponct
+48	.	.	PONCT	PONCT		46	ponct	46	ponct
+
+</p><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	WikiMiniAtlas	_	NPP	NPP		4	suj	4	suj
+3	est	être	V	V	n=s|t=P|p=3	4	aux_tps	4	aux_tps
+4	activé	activer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	donc	donc	ADV	ADV		4	mod	4	mod
+7	un	un	DET	DET	n=s|g=m	9	det	9	det
+8	petit	petit	ADJ	ADJ	n=s|g=m	9	mod	9	mod
+9	globe	globe	NC	NC	n=s|g=m	4	obj	4	obj
+10	s’	se	CLR	CLR	n=p,s|p=3	11	aff	11	aff
+11	affiche	afficher	V	V	n=s|t=P,S|p=1,3	4	mod	4	mod
+12	juste	juste	ADV	ADV		11	mod	11	mod
+13	avant	avant	P	P		11	mod	11	mod
+14	les	les	DET	DET	n=p	15	det	15	det
+15	coordonnées	coordonnée	NC	NC	n=p|g=f	13	prep	13	prep
+16	et	et	CC	CC		11	coord	11	coord
+17	montre	montrer	V	V	n=s|t=P,S|p=1,3	16	dep_coord	16	dep_coord
+18	un	un	DET	DET	n=s|g=m	19	det	19	det
+19	atlas	atlas	NC	NC	g=m	17	obj	17	obj
+20	interactif	interactif	ADJ	ADJ	n=s|g=m	19	mod	19	mod
+21	:	:	PONCT	PONCT		20	ponct	20	ponct
+22	cliquez	cliquer	V	V	n=p|t=P|p=2	4	mod	4	mod
+23	pour	pour	P	P		22	mod	22	mod
+24	afficher	afficher	VINF	VINF	t=W	23	prep	23	prep
+25	une	une	DET	DET	n=s|g=f	26	det	26	det
+26	carte	carte	NC	NC	n=s|g=f	24	obj	24	obj
+27	configurable	_	ADJ	ADJ		26	mod	26	mod
+28	.	.	PONCT	PONCT		27	ponct	27	ponct
+
+</p><p>
+1	Ces	ces	DET	DET	n=p	2	det	2	det
+2	coordonnées	coordonnée	NC	NC	n=p|g=f	4	suj	4	suj
+3	géographiques	géographique	ADJ	ADJ	n=p	2	mod	2	mod
+4	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+5	lisibles	lisible	ADJ	ADJ	n=p	4	ats	4	ats
+6	et	et	CC	CC		5	coord	5	coord
+7	exportables	exportable	ADJ	ADJ	n=p	6	dep_coord	6	dep_coord
+8	en	en	P	P		4	mod	4	mod
+9	Géoformat	_	NPP	NPP		8	prep	8	prep
+10	:	:	PONCT	PONCT		9	ponct	9	ponct
+11	voir	voir	VINF	VINF	t=W	4	obj	4	obj
+12	en	en	P	P		11	mod	11	mod
+13	:	:	PONCT	PONCT		12	ponct	12	ponct
+14	WP	_	NPP	NPP		12	prep	12	prep
+15	:	:	PONCT	PONCT		14	ponct	14	ponct
+16	GEOUF	_	NPP	NPP		14	coord	14	coord
+17	et	et	CC	CC		16	coord	16	coord
+18	http://microformats.org/wiki/geo	$URL$	NPP	NPP		17	dep_coord	17	dep_coord
+19	(	(	PONCT	PONCT		18	ponct	18	ponct
+20	en	en	P	P		11	mod	11	mod
+21	)	)	PONCT	PONCT		20	ponct	20	ponct
+22	.	.	PONCT	PONCT		20	ponct	20	ponct
+
+</p><p>
+1	{	{	PONCT	PONCT		0	ponct	0	ponct
+2	{	{	PONCT	PONCT		0	ponct	0	ponct
+3	Coord	_	NPP	NPP		0	root	0	root
+4	}	}	PONCT	PONCT		3	ponct	3	ponct
+5	}	}	PONCT	PONCT		3	ponct	3	ponct
+6	est	être	V	V	n=s|t=P|p=3	8	aux_tps	8	aux_tps
+7	également	_	ADV	ADV		8	mod	8	mod
+8	utilisé	utiliser	VPP	VPP	n=s|g=m|t=K	3	mod	3	mod
+9	par	par	P	P		8	mod	8	mod
+10	des	des	DET	DET	n=p	11	det	11	det
+11	outils	outil	NC	NC	n=p|g=m	9	prep	9	prep
+12	qui	qui	PROREL	PROREL	n=s	13	suj	13	suj
+13	extraient	extraire	V	V	n=p|t=P|p=3	3	mod_rel	3	mod_rel
+14	les	les	DET	DET	n=p	15	det	15	det
+15	coordonnées	coordonnée	NC	NC	n=p|g=f	13	obj	13	obj
+16	depuis	depuis	P	P		13	mod	13	mod
+17	la	la	DET	DET	n=s|g=f	18	det	18	det
+18	base	base	NC	NC	n=s|g=f	16	prep	16	prep
+19	de	de	P	P		13	mod	13	mod
+20	données	donnée	NC	NC	n=p|g=f	19	prep	19	prep
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	comme	comme	P	P		13	mod	13	mod
+23	Google	Google	NPP	NPP	n=s|g=m	22	prep	22	prep
+24	Earth	_	NPP	NPP		23	mod	23	mod
+25	ou	ou	CC	CC		23	coord	23	coord
+26	le	le	DET	DET	n=s|g=m	27	det	27	det
+27	WikiMiniAtlas	_	NPP	NPP		25	dep_coord	25	dep_coord
+28	.	.	PONCT	PONCT		27	ponct	27	ponct
+
+</p><h2>
+1	Syntaxe	syntaxe	NC	NC	n=s|g=f	0	root	0	root
+2	[	[	PONCT	PONCT		1	ponct	1	ponct
+3	modifier	modifier	VINF	VINF	t=W	1	dep	1	dep
+4	le	le	DET	DET	n=s|g=m	5	det	5	det
+5	wikicode	_	NC	NC		3	obj	3	obj
+6	]	]	PONCT	PONCT		5	ponct	5	ponct
+
+</h2><p>
+1	Voici	voici	V	V		0	root	0	root
+2	quatre	quatre	DET	DET	s=card|n=p	3	det	3	det
+3	exemples	exemple	NC	NC	n=p|g=m	1	obj	1	obj
+4	de	de	P	P		1	mod	1	mod
+5	syntaxe	syntaxe	NC	NC	n=s|g=f	4	prep	4	prep
+6	possible	possible	ADJ	ADJ	n=s	5	mod	5	mod
+7	:	:	PONCT	PONCT		6	ponct	6	ponct
+
+</p><p><tt>{{coord|latitude|longitude|paramètres des coordonnées|paramètres du modèle}}</tt></p><p><tt>{{coord|lat deg|N/S|lon deg|E/W|paramètres des coordonnées|paramètres du modèle}}</tt></p><p><tt>{{coord|lat deg|lat min|N/S|lon deg|lon min|E/W|paramètres des coordonnées|paramètres du modèle}}</tt></p><p>
+<tt>{{coord|lat deg|lat min|lat sec|N/S|lon deg|lon min|lon sec|E/W|paramètres des coordonnées|paramètres du modèle}}</tt></p><h3>
+1	Paramètres	paramètre	NC	NC	n=p|g=m	0	_	0	_
+2	du	de	P+D	P+D	n=s|g=m	1	dep	1	dep
+3	modèle	modèle	NC	NC	n=s|g=m	2	prep	2	prep
+4	[	[	PONCT	PONCT		3	ponct	3	ponct
+5	modifier	modifier	VINF	VINF	t=W	1	dep	1	dep
+6	le	le	DET	DET	n=s|g=m	7	det	7	det
+7	wikicode	_	NC	NC		5	obj	5	obj
+8	]	]	PONCT	PONCT		7	ponct	7	ponct
+
+</h3><p>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	coordonnées	coordonnée	NC	NC	n=p|g=f	8	suj	8	suj
+3	géographiques	géographique	ADJ	ADJ	n=p	2	mod	2	mod
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	celles-ci	celles-ci	PRO	PRO	n=p|g=f	2	mod	2	mod
+6	peuvent	pouvoir	V	V	n=p|t=P|p=3	8	aux_pass	8	aux_pass
+7	être	être	VINF	VINF	t=W	8	aux_pass	8	aux_pass
+8	écrites	écrire	VPP	VPP	n=p|g=f|t=K	0	root	0	root
+9	au	à	P+D	P+D	n=s|g=m	8	mod	8	mod
+10	format	format	NC	NC	n=s|g=m	9	prep	9	prep
+11	décimal	décimal	ADJ	ADJ	n=s|g=m	10	mod	10	mod
+12	(	(	PONCT	PONCT		11	ponct	11	ponct
+13	auquel	auquel	P+PRO	P+PRO	n=s|g=m	22	mod	22	mod
+14	cas	cas	NC	NC	g=m	22	suj	22	suj
+15	«_	"	PONCT	PONCT		14	ponct	14	ponct
+16	latitude	latitude	NC	NC	n=s|g=f	14	mod	14	mod
+17	_»	"	PONCT	PONCT		16	ponct	16	ponct
+18	et	et	CC	CC		16	coord	16	coord
+19	«_	"	PONCT	PONCT		18	ponct	18	ponct
+20	longitude	longitude	NC	NC	n=s|g=f	18	dep_coord	18	dep_coord
+21	_»	"	PONCT	PONCT		20	ponct	20	ponct
+22	prennent	prendre	V	V	n=p|t=P,S|p=3	8	mod	8	mod
+23	leurs	leurs	DET	DET	n=p|p=3|poss=p	24	det	24	det
+24	valeurs	valeur	NC	NC	n=p|g=f	22	suj	22	suj
+25	décimales	décimal	ADJ	ADJ	n=p|g=f	24	mod	24	mod
+26	,	,	PONCT	PONCT		25	ponct	25	ponct
+27	comme	comme	P	P		22	mod	22	mod
+28	par	par	P	P		27	dep	27	dep
+29	exemple	exemple	NC	NC	n=s|g=m	28	prep	28	prep
+30	«_	"	PONCT	PONCT		29	ponct	29	ponct
+<code>-45.76843</code> » ou « <code>87.234567</code> » (utilisez un point comme séparateur décimal), ou au format sexagésimal : deg pour les degrés, min pour les minutes, sec pour les secondes avec « <code>N</code> » ou « <code>S</code> » pour la latitude et « <code>E</code> » ou « <code>W</code> » pour la longitude (n’utilisez pas la lettre « <code>O</code>
+31	»	»	PONCT	PONCT		29	ponct	29	ponct
+32	!	!	PONCT	PONCT		29	ponct	29	ponct
+33	)	)	PONCT	PONCT		29	ponct	29	ponct
+
+</p><p>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	paramètres	paramètre	NC	NC	n=p|g=m	7	suj	7	suj
+3	de	de	P	P		2	dep	2	dep
+4	coordonnées	coordonnée	NC	NC	n=p|g=f	3	prep	3	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	ce	ce	CLS	CLS		7	suj	7	suj
+7	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+8	les	les	DET	DET	n=p	9	det	9	det
+9	paramètres	paramètre	NC	NC	n=p|g=m	7	obj	7	obj
+10	d’	de	P	P		9	dep	9	dep
+11	échelle	échelle	NC	NC	n=s|g=f	10	prep	10	prep
+12	qui	qui	PROREL	PROREL	n=s	13	suj	13	suj
+13	pourront	pouvoir	V	V	n=p|t=F|p=3	9	mod_rel	9	mod_rel
+14	être	être	VINF	VINF	t=W	15	aux_pass	15	aux_pass
+15	compris	comprendre	VPP	VPP	g=m|t=K	13	obj	13	obj
+16	par	par	P	P		15	mod	15	mod
+17	Geohack	_	NPP	NPP		16	prep	16	prep
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	comme	comme	P	P		15	mod	15	mod
+20	«_	"	PONCT	PONCT		19	ponct	19	ponct
+<code>type:</code> », « <code>scale:</code> », « <code>region:</code> », « <code>altitude:</code> »… Si il y en a plusieurs en même temps, il faut les séparer par un tiret bas « _ » (exemple : « <code>type:landmark_scale:50000</code>
+21	»	»	PONCT	PONCT		19	ponct	19	ponct
+22	)	)	PONCT	PONCT		19	ponct	19	ponct
+23	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+1	Pour	pour	P	P		4	mod	4	mod
+2	la	la	DET	DET	n=s|g=f	3	det	3	det
+3	liste	liste	NC	NC	n=s|g=f	1	prep	1	prep
+4	exhaustive	_	V	V		0	root	0	root
+5	voir	voir	VINF	VINF	t=W	4	obj	4	obj
+6	GeoTemplate	_	NPP	NPP		5	obj	5	obj
+7	/	/	PONCT	PONCT		6	ponct	6	ponct
+8	Utilisation	utilisation	NC	NC	n=s|g=f	6	mod	6	mod
+9	.	.	PONCT	PONCT		8	ponct	8	ponct
+
+</p><p>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	paramètres	paramètre	NC	NC	n=p|g=m	7	suj	7	suj
+3	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+4	modèle	modèle	NC	NC	n=s|g=m	3	prep	3	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	ce	ce	CLS	CLS		7	suj	7	suj
+7	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+8	«_	"	PONCT	PONCT		7	ponct	7	ponct
+<code>display</code> », « <code>format</code> » et « <code>name</code>
+9	»	»	PONCT	PONCT		7	ponct	7	ponct
+10	:	:	PONCT	PONCT		7	ponct	7	ponct
+
+</p><p><code>display</code> peut prendre les valeurs <code>inline</code>, ou <code>title</code>, ou encore <code>inline,title</code>. La syntaxe <code>display=inline</code> (par défaut) permet d’afficher les coordonnées dans le texte, là où le modèle est placé ; <code>display=title</code> affiche les coordonnées juste en dessous de la barre de titre, à droite ; <code>display=inline,title</code> fait les deux à la fois. Note : utilisez <code>title</code>
+1	pour	pour	P	P		0	_	0	_
+2	signifier	signifier	VINF	VINF	t=W	1	prep	1	prep
+3	que	que	CS	CS		2	obj	2	obj
+4	les	les	DET	DET	n=p	5	det	5	det
+5	coordonnées	coordonnée	NC	NC	n=p|g=f	8	suj	8	suj
+6	en	en	P	P		5	dep	5	dep
+7	question	question	NC	NC	n=s|g=f	6	prep	6	prep
+8	concernent	concerner	V	V	n=p|t=P,S|p=3	3	sub	3	sub
+9	tout	tout	ADJ	ADJ	n=s|g=m	11	mod	11	mod
+10	l’	le	DET	DET	n=s	11	det	11	det
+11	article	article	NC	NC	n=s|g=m	8	obj	8	obj
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+</p><p>
+<code>format</code> force le format d’affichage si on le veut différent du format des coordonnées géographiques entrées. <code>format=dec</code> donne un affichage décimal, <code>format=dms</code> un affichage sexagésimal, et <code>format=dms long</code> un affichage sexagésimal en français sur deux lignes (pratique dans les infobox, mais déconseillé dans les titres, utilisez alors <code>format=dms</code>
+1	)	)	PONCT	PONCT		0	ponct	0	ponct
+2	.	.	PONCT	PONCT		0	ponct	0	ponct
+
+1	Par	par	P	P		6	mod	6	mod
+2	défaut	défaut	NC	NC	n=s|g=m	1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	l’	le	DET	DET	n=s	5	det	5	det
+5	affichage	affichage	NC	NC	n=s|g=m	6	suj	6	suj
+6	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+7	dans	dans	P	P		6	mod	6	mod
+8	le	le	DET	DET	n=s|g=m	10	det	10	det
+9	même	même	ADJ	ADJ	n=s	10	mod	10	mod
+10	format	format	NC	NC	n=s|g=m	7	prep	7	prep
+11	que	que	CS	CS		6	mod	6	mod
+12	les	les	DET	DET	n=p	13	det	13	det
+13	arguments	argument	NC	NC	n=p|g=m	0	_	0	_
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+</p><p><code>name</code>
+1	sert	servir	V	V	n=s|t=P|p=3	0	root	0	root
+2	à	à	P	P		1	mod	1	mod
+3	annoter	annoter	VINF	VINF	t=W	2	prep	2	prep
+4	les	les	DET	DET	n=p	5	det	5	det
+5	coordonnées	coordonnée	NC	NC	n=p|g=f	3	obj	3	obj
+6	pour	pour	P	P		3	mod	3	mod
+7	les	les	DET	DET	n=p	8	det	8	det
+8	services	service	NC	NC	n=p|g=m	6	prep	6	prep
+9	externes	externe	ADJ	ADJ	n=p	8	mod	8	mod
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+1	S’	se	CLR	CLR	n=p,s|p=3	0	_	0	_
+2	il	il	CLS	CLS	n=s|g=m|p=3	4	suj	4	suj
+3	est	être	V	V	n=s|t=P|p=3	4	aux_tps	4	aux_tps
+4	activé	activer	VPP	VPP	n=s|g=m|t=K	1	root	1	root
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	le	le	DET	DET	n=s|g=m	7	det	7	det
+7	nom	nom	NC	NC	n=s|g=m	9	suj	9	suj
+8	spécifié	spécifier	ADJ	ADJ	n=s|g=m|t=K	7	mod	7	mod
+9	remplace	remplacer	V	V	n=s|t=P,S|p=1,3	4	mod	4	mod
+10	le	le	DET	DET	n=s|g=m	11	det	11	det
+11	nom	nom	NC	NC	n=s|g=m	9	obj	9	obj
+12	de	de	P	P		9	mod	9	mod
+13	l’	le	DET	DET	n=s	14	det	14	det
+14	article	article	NC	NC	n=s|g=m	12	prep	12	prep
+15	sur	sur	P	P		9	mod	9	mod
+16	les	les	DET	DET	n=p	17	det	17	det
+17	cartes	carte	NC	NC	n=p|g=f	15	prep	15	prep
+18	générées	générer	VPP	VPP	n=p|g=f|t=K	17	mod	17	mod
+19	automatiquement	_	ADV	ADV		18	mod	18	mod
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+1	Par	par	P	P		6	mod	6	mod
+2	défaut	défaut	NC	NC	n=s|g=m	1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	le	le	DET	DET	n=s|g=m	5	det	5	det
+5	nom	nom	NC	NC	n=s|g=m	6	suj	6	suj
+6	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+7	le	le	DET	DET	n=s|g=m	8	det	8	det
+8	titre	titre	NC	NC	n=s|g=m	6	obj	6	obj
+9	de	de	P	P		6	mod	6	mod
+10	la	la	DET	DET	n=s|g=f	11	det	11	det
+11	page	page	NC	NC	n=s	9	prep	9	prep
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	il	il	CLS	CLS	n=s|g=m|p=3	16	suj	16	suj
+14	n’	ne	ADV	ADV		16	mod	16	mod
+15	y	y	CLO	CLO		16	aff	16	aff
+16	a	avoir	V	V	n=s|t=P|p=3	6	mod	6	mod
+17	donc	donc	ADV	ADV		16	mod	16	mod
+18	pas	pas	ADV	ADV		16	mod	16	mod
+19	besoin	besoin	NC	NC	n=s|g=m	16	obj	16	obj
+20	de	de	P	P		16	mod	16	mod
+21	le	le	CLO	CLO	n=s|g=m|p=3	22	obj	22	obj
+22	spécifier	spécifier	VINF	VINF	t=W	20	prep	20	prep
+23	pour	pour	P	P		22	mod	22	mod
+24	les	les	DET	DET	n=p	25	det	25	det
+25	coordonnées	coordonnée	NC	NC	n=p|g=f	23	prep	23	prep
+26	dans	dans	P	P		22	mod	22	mod
+27	les	les	DET	DET	n=p	28	det	28	det
+28	infobox	_	NC	NC		26	prep	26	prep
+29	ou	ou	CC	CC		26	coord	26	coord
+30	dans	dans	P	P		29	dep_coord	29	dep_coord
+31	le	le	DET	DET	n=s|g=m	32	det	32	det
+32	titre	titre	NC	NC	n=s|g=m	30	prep	30	prep
+33	.	.	PONCT	PONCT		32	ponct	32	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	utile	utile	ADJ	ADJ	n=s	2	ats	2	ats
+4	dans	dans	P	P		2	mod	2	mod
+5	le	le	DET	DET	n=s|g=m	6	det	6	det
+6	cas	cas	NC	NC	g=m	4	prep	4	prep
+7	où	où	PROREL	PROREL		10	mod	10	mod
+8	l’	le	DET	DET	n=s	9	det	9	det
+9	on	on	CLS	CLS	n=s|p=3	10	suj	10	suj
+10	souhaite	souhaiter	V	V	n=s|t=P,S|p=1,3	2	mod	2	mod
+11	utiliser	utiliser	VINF	VINF	t=W	10	obj	10	obj
+12	dans	dans	P	P		11	mod	11	mod
+13	un	un	DET	DET	n=s|g=m	14	det	14	det
+14	article	article	NC	NC	n=s|g=m	12	prep	12	prep
+15	le	le	DET	DET	n=s|g=m	16	det	16	det
+16	modèle	modèle	NC	NC	n=s|g=m	11	obj	11	obj
+17	«_	"	PONCT	PONCT		16	ponct	16	ponct
+18	Coord	_	NPP	NPP		16	mod	16	mod
+19	_»	"	PONCT	PONCT		18	ponct	18	ponct
+20	pour	pour	P	P		10	mod	10	mod
+21	situer	situer	VINF	VINF	t=W	20	prep	20	prep
+22	un	un	DET	DET	n=s|g=m	23	det	23	det
+23	point	point	NC	NC	n=s|g=m	21	obj	21	obj
+24	géographique	géographique	ADJ	ADJ	n=s	23	mod	23	mod
+25	mais	mais	CC	CC		10	coord	10	coord
+26	qui	qui	PROREL	PROREL	n=s	28	suj	28	suj
+27	n’	ne	ADV	ADV		28	mod	28	mod
+28	est	être	V	V	n=s|t=P|p=3	25	dep_coord	25	dep_coord
+29	pas	pas	ADV	ADV		28	mod	28	mod
+30	celui	celui	PRO	PRO	n=s|g=m	28	ats	28	ats
+31	de	de	P	P		28	mod	28	mod
+32	l’	le	DET	DET	n=s	33	det	33	det
+33	article	article	NC	NC	n=s|g=m	31	prep	31	prep
+34	en	en	P	P		28	mod	28	mod
+35	question	question	NC	NC	n=s|g=f	34	prep	34	prep
+36	.	.	PONCT	PONCT		35	ponct	35	ponct
+
+</p><h3>
+1	Erreurs	erreur	NC	NC	n=p|g=f	0	_	0	_
+2	courantes	courant	ADJ	ADJ	n=p|g=f	1	mod	1	mod
+3	[	[	PONCT	PONCT		2	ponct	2	ponct
+4	modifier	modifier	VINF	VINF	t=W	1	dep	1	dep
+5	le	le	DET	DET	n=s|g=m	6	det	6	det
+6	wikicode	_	NC	NC		4	obj	4	obj
+7	]	]	PONCT	PONCT		6	ponct	6	ponct
+
+</h3><p>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	erreurs	erreur	NC	NC	n=p|g=f	5	suj	5	suj
+3	courantes	courant	ADJ	ADJ	n=p|g=f	2	mod	2	mod
+4	suivantes	suivant	ADJ	ADJ	n=p|g=f	2	mod	2	mod
+5	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+6	à	à	P	P		5	ats	5	ats
+7	éviter	éviter	VINF	VINF	t=W	6	prep	6	prep
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	ou	ou	CC	CC		5	coord	5	coord
+10	le	le	DET	DET	n=s|g=m	11	det	11	det
+11	modèle	modèle	NC	NC	n=s|g=m	13	suj	13	suj
+12	ne	ne	ADV	ADV		13	mod	13	mod
+13	fonctionnera	fonctionner	V	V	n=s|t=F|p=3	9	dep_coord	9	dep_coord
+14	pas	pas	ADV	ADV		13	mod	13	mod
+15	correctement	_	ADV	ADV		13	mod	13	mod
+16	:	:	PONCT	PONCT		15	ponct	15	ponct
+
+</p><p>
+1	N’	ne	ADV	ADV		2	mod	2	mod
+2	utilisez	utiliser	V	V	n=p|t=P|p=2	0	root	0	root
+3	pas	pas	ADV	ADV		2	mod	2	mod
+4	de	de	P	P		2	mod	2	mod
+5	virgule	virgule	NC	NC	n=s|g=f	4	prep	4	prep
+6	comme	comme	P	P		2	mod	2	mod
+7	séparateur	séparateur	NC	NC	n=s|g=m	6	prep	6	prep
+8	décimal	décimal	ADJ	ADJ	n=s|g=m	7	mod	7	mod
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	mais	mais	CC	CC		2	coord	2	coord
+11	uniquement	_	ADV	ADV		13	mod	13	mod
+12	un	un	DET	DET	n=s|g=m	13	det	13	det
+13	point	point	NC	NC	n=s|g=m	10	dep_coord	10	dep_coord
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+</p><p>
+1	Ne	ne	ADV	ADV		2	mod	2	mod
+2	mettez	mettre	V	V	n=p|t=P|p=2	0	root	0	root
+3	pas	pas	ADV	ADV		2	mod	2	mod
+4	d’	de	P	P		2	mod	2	mod
+5	espace	espace	NC	NC	n=s	4	prep	4	prep
+6	entre	entre	P	P		2	mod	2	mod
+7	le	le	DET	DET	n=s|g=m	8	det	8	det
+8	signe	signe	NC	NC	n=s|g=m	6	prep	6	prep
+9	négatif	négatif	ADJ	ADJ	n=s|g=m	8	mod	8	mod
+10	(	(	PONCT	PONCT		9	ponct	9	ponct
+11	-	-	PONCT	PONCT		9	ponct	9	ponct
+12	)	)	PONCT	PONCT		9	ponct	9	ponct
+13	et	et	CC	CC		2	coord	2	coord
+14	les	les	DET	DET	n=p	15	det	15	det
+15	nombres	nombre	NC	NC	n=p|g=m	18	suj	18	suj
+16	:	:	PONCT	PONCT		15	ponct	15	ponct
+17	-2.876	-2.876	NPP	NPP		15	mod	15	mod
+18	est	être	V	V	n=s|t=P|p=3	13	dep_coord	13	dep_coord
+19	correct	correct	ADJ	ADJ	n=s|g=m	18	ats	18	ats
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	-	-	PONCT	PONCT		19	ponct	19	ponct
+22	2.876	2.876	NPP	NPP		25	suj	25	suj
+23	ne	ne	ADV	ADV		25	mod	25	mod
+24	l’	le	CLO	CLO	n=s|p=3	25	obj	25	obj
+25	est	être	V	V	n=s|t=P|p=3	18	mod	18	mod
+26	pas	pas	ADV	ADV		25	mod	25	mod
+27	.	.	PONCT	PONCT		26	ponct	26	ponct
+
+</p><p>
+1	N’	ne	ADV	ADV		2	mod	2	mod
+2	écrivez	écrire	V	V	n=p|t=P|p=2	0	root	0	root
+3	pas	pas	ADV	ADV		2	mod	2	mod
+4	«_	"	PONCT	PONCT		3	ponct	3	ponct
+5	O	ô	ADV	ADV		2	mod	2	mod
+6	_»	"	PONCT	PONCT		5	ponct	5	ponct
+7	pour	pour	P	P		2	mod	2	mod
+8	Ouest	_	NPP	NPP		7	prep	7	prep
+9	mais	mais	CC	CC		2	coord	2	coord
+10	«_	"	PONCT	PONCT		9	ponct	9	ponct
+11	W	_	NPP	NPP		9	dep_coord	9	dep_coord
+12	_»	"	PONCT	PONCT		11	ponct	11	ponct
+13	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+</p><h2>
+1	Exemples	exemple	NC	NC	n=p|g=m	0	root	0	root
+2	[	[	PONCT	PONCT		1	ponct	1	ponct
+3	modifier	modifier	VINF	VINF	t=W	1	dep	1	dep
+4	le	le	DET	DET	n=s|g=m	5	det	5	det
+5	wikicode	_	NC	NC		3	obj	3	obj
+6	]	]	PONCT	PONCT		5	ponct	5	ponct
+
+</h2><h3>
+1	Quelques	quelques	DET	DET	n=p	2	det	2	det
+2	exemples	exemple	NC	NC	n=p|g=m	0	_	0	_
+3	choisis	choisir	VPP	VPP	n=p|g=m|t=K	2	mod	2	mod
+4	[	[	PONCT	PONCT		3	ponct	3	ponct
+5	modifier	modifier	VINF	VINF	t=W	3	ats	3	ats
+6	le	le	DET	DET	n=s|g=m	7	det	7	det
+7	wikicode	_	NC	NC		5	obj	5	obj
+8	]	]	PONCT	PONCT		7	ponct	7	ponct
+
+</h3><h3>
+1	Liste	liste	NC	NC	n=s|g=f	0	_	0	_
+2	exhaustive	exhaustif	ADJ	ADJ	n=s|g=f	1	mod	1	mod
+3	des	de	P+D	P+D	n=p	1	dep	1	dep
+4	possibilités	possibilité	NC	NC	n=p|g=f	3	prep	3	prep
+5	[	[	PONCT	PONCT		4	ponct	4	ponct
+6	modifier	modifier	VINF	VINF	t=W	1	dep	1	dep
+7	le	le	DET	DET	n=s|g=m	8	det	8	det
+8	wikicode	_	NC	NC		6	obj	6	obj
+9	]	]	PONCT	PONCT		8	ponct	8	ponct
+
+</h3><p>
+1	Si	si	CS	CS		0	_	0	_
+2	les	les	DET	DET	n=p	3	det	3	det
+3	coordonnées	coordonnée	NC	NC	n=p|g=f	6	suj	6	suj
+4	géographiques	géographique	ADJ	ADJ	n=p	3	mod	3	mod
+5	entrées	entrée	NC	NC	n=p|g=f	3	mod	3	mod
+6	sont	être	V	V	n=p|t=P|p=3	1	sub	1	sub
+7	dans	dans	P	P		6	mod	6	mod
+8	le	le	DET	DET	n=s|g=m	9	det	9	det
+9	système	système	NC	NC	n=s|g=m	7	prep	7	prep
+10	décimal	décimal	ADJ	ADJ	n=s|g=m	9	mod	9	mod
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	voir	voir	VINF	VINF	t=W	6	obj	6	obj
+13	Coord	_	NPP	NPP		12	obj	12	obj
+14	/	/	PONCT	PONCT		13	ponct	13	ponct
+15	Exemple	exemple	NC	NC	n=s|g=m	13	mod	13	mod
+16	en	en	P	P		15	dep	15	dep
+17	décimal	_	NC	NC		16	prep	16	prep
+
+</p><p>
+1	Si	si	CS	CS		0	_	0	_
+2	les	les	DET	DET	n=p	3	det	3	det
+3	coordonnées	coordonnée	NC	NC	n=p|g=f	6	suj	6	suj
+4	géographiques	géographique	ADJ	ADJ	n=p	3	mod	3	mod
+5	entrées	entrée	NC	NC	n=p|g=f	3	mod	3	mod
+6	sont	être	V	V	n=p|t=P|p=3	1	sub	1	sub
+7	dans	dans	P	P		6	mod	6	mod
+8	le	le	DET	DET	n=s|g=m	9	det	9	det
+9	système	système	NC	NC	n=s|g=m	7	prep	7	prep
+10	sexagésimal	_	ADV	ADV		6	mod	6	mod
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	voir	voir	VINF	VINF	t=W	6	obj	6	obj
+13	Coord	_	NPP	NPP		12	obj	12	obj
+14	/	/	PONCT	PONCT		13	ponct	13	ponct
+15	Exemple	exemple	NC	NC	n=s|g=m	13	mod	13	mod
+16	en	en	P	P		15	dep	15	dep
+17	sexagésimal	_	NC	NC		16	prep	16	prep
+
+</p><h2>
+1	Personnalisation	personnalisation	NC	NC	n=s|g=f	0	_	0	_
+2	de	de	P	P		1	dep	1	dep
+3	l'	le	DET	DET	n=s	4	det	4	det
+4	affichage	affichage	NC	NC	n=s|g=m	2	prep	2	prep
+5	[	[	PONCT	PONCT		4	ponct	4	ponct
+6	modifier	modifier	VINF	VINF	t=W	1	dep	1	dep
+7	le	le	DET	DET	n=s|g=m	8	det	8	det
+8	wikicode	_	NC	NC		6	obj	6	obj
+9	]	]	PONCT	PONCT		8	ponct	8	ponct
+
+</h2><p>
+1	Par	par	P	P		7	mod	7	mod
+2	défaut	défaut	NC	NC	n=s|g=m	1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	les	les	DET	DET	n=p	5	det	5	det
+5	coordonnées	coordonnée	NC	NC	n=p|g=f	7	suj	7	suj
+6	s’	se	CLR	CLR	n=p,s|p=3	7	aff	7	aff
+7	affichent	afficher	V	V	n=p|t=P,S|p=3	0	root	0	root
+8	dans	dans	P	P		7	mod	7	mod
+9	le	le	DET	DET	n=s|g=m	10	det	10	det
+10	format	format	NC	NC	n=s|g=m	8	prep	8	prep
+11	dans	dans	P	P		7	mod	7	mod
+12	lequel	lequel	PROREL	PROREL	n=s|g=m	15	mod	15	mod
+13	elles	elles	CLS	CLS	n=p|g=f|p=3	15	suj	15	suj
+14	sont	être	V	V	n=p|t=P|p=3	15	aux_pass	15	aux_pass
+15	données	donner	VPP	VPP	n=p|g=f|t=K	7	mod	7	mod
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	3	suj	3	suj
+2	vous	vous	CLO	CLO	n=p|p=2	3	a_obj	3	a_obj
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	possible	possible	ADJ	ADJ	n=s	3	ats	3	ats
+5	de	de	P	P		3	mod	3	mod
+6	changer	changer	VINF	VINF	t=W	5	prep	5	prep
+7	ce	ce	DET	DET	n=s|g=m	8	det	8	det
+8	comportement	comportement	NC	NC	n=s|g=m	6	obj	6	obj
+9	.	.	PONCT	PONCT		8	ponct	8	ponct
+
+</p><p>
+1	Pour	pour	P	P		10	mod	10	mod
+2	toujours	toujours	ADV	ADV		3	mod	3	mod
+3	afficher	afficher	VINF	VINF	t=W	1	prep	1	prep
+4	les	les	DET	DET	n=p	5	det	5	det
+5	coordonnées	coordonnée	NC	NC	n=p|g=f	3	obj	3	obj
+6	au	à	P+D	P+D	n=s|g=m	3	mod	3	mod
+7	format	format	NC	NC	n=s|g=m	6	prep	6	prep
+8	DMS	_	NPP	NPP		7	mod	7	mod
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	ajoutez	ajouter	V	V	n=p|t=P|p=2	0	root	0	root
+11	le	le	DET	DET	n=s|g=m	12	det	12	det
+12	code	code	NC	NC	n=s|g=m	10	obj	10	obj
+13	suivant	suivant	ADJ	ADJ	n=s|g=m	12	mod	12	mod
+14	à	à	P	P		10	mod	10	mod
+15	votre	votre	DET	DET	n=s|p=2|poss=p	16	det	16	det
+16	vector	_	NC	NC		14	prep	14	prep
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+18	css	_	NPP	NPP		10	mod	10	mod
+19	:	:	PONCT	PONCT		18	ponct	18	ponct
+
+</p><p><code>.geo-default { display: inline } .geo-nondefault { display: inline } .geo-dec { display: none }   .geo-dms { display: inline }</code></p><p>
+1	Pour	pour	P	P		10	mod	10	mod
+2	toujours	toujours	ADV	ADV		3	mod	3	mod
+3	afficher	afficher	VINF	VINF	t=W	1	prep	1	prep
+4	les	les	DET	DET	n=p	5	det	5	det
+5	coordonnées	coordonnée	NC	NC	n=p|g=f	3	obj	3	obj
+6	au	à	P+D	P+D	n=s|g=m	3	mod	3	mod
+7	format	format	NC	NC	n=s|g=m	6	prep	6	prep
+8	décimal	décimal	ADJ	ADJ	n=s|g=m	7	mod	7	mod
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	ajoutez	ajouter	V	V	n=p|t=P|p=2	0	root	0	root
+11	le	le	DET	DET	n=s|g=m	12	det	12	det
+12	code	code	NC	NC	n=s|g=m	10	obj	10	obj
+13	suivant	suivant	ADJ	ADJ	n=s|g=m	12	mod	12	mod
+14	à	à	P	P		10	mod	10	mod
+15	votre	votre	DET	DET	n=s|p=2|poss=p	16	det	16	det
+16	vector	_	NC	NC		14	prep	14	prep
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+18	css	_	NPP	NPP		10	mod	10	mod
+19	:	:	PONCT	PONCT		18	ponct	18	ponct
+
+</p><p><code>.geo-default { display: inline } .geo-nondefault { display: inline }.geo-dec { display: inline } .geo-dms { display: none }</code></p><p>
+1	Pour	pour	P	P		8	mod	8	mod
+2	afficher	afficher	VINF	VINF	t=W	1	prep	1	prep
+3	les	les	DET	DET	n=p	5	det	5	det
+4	deux	deux	ADJ	ADJ	s=card|n=p	5	mod	5	mod
+5	formats	format	NC	NC	n=p|g=m	2	obj	2	obj
+6	ensemble	ensemble	ADV	ADV		2	mod	2	mod
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	ajoutez	ajouter	VIMP	VIMP	n=p|t=Y|p=2	0	root	0	root
+9	le	le	DET	DET	n=s|g=m	10	det	10	det
+10	code	code	NC	NC	n=s|g=m	8	obj	8	obj
+11	suivant	suivant	ADJ	ADJ	n=s|g=m	10	mod	10	mod
+12	à	à	P	P		10	dep	10	dep
+13	votre	votre	DET	DET	n=s|p=2|poss=p	14	det	14	det
+14	vector	_	NC	NC		12	prep	12	prep
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+16	css	_	NPP	NPP		10	mod	10	mod
+17	:	:	PONCT	PONCT		16	ponct	16	ponct
+
+</p><p><code>.geo-default { display: inline } .geo-nondefault { display: inline }.geo-dec { display: inline }   .geo-dms { display: inline }.geo-multi-punct { display: inline }</code></p><h2>
+1	Remarque	remarque	NC	NC	n=s|g=f	0	_	0	_
+2	importante	important	ADJ	ADJ	n=s|g=f	1	mod	1	mod
+3	[	[	PONCT	PONCT		2	ponct	2	ponct
+4	modifier	modifier	VINF	VINF	t=W	1	dep	1	dep
+5	le	le	DET	DET	n=s|g=m	6	det	6	det
+6	wikicode	_	NC	NC		4	obj	4	obj
+7	]	]	PONCT	PONCT		6	ponct	6	ponct
+
+</h2><p>
+1	Avant	avant	P	P		8	mod	8	mod
+2	toute	toute	DET	DET	n=s|g=f	3	det	3	det
+3	modification	modification	NC	NC	n=s|g=f	1	prep	1	prep
+4	du	de	P+D	P+D	n=s|g=m	3	dep	3	dep
+5	modèle	modèle	NC	NC	n=s|g=m	4	prep	4	prep
+6	présent	présent	ADJ	ADJ	n=s|g=m	5	mod	5	mod
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	notez	noter	V	V	n=p|t=P|p=2	0	root	0	root
+9	que	que	CS	CS		8	obj	8	obj
+10	les	les	DET	DET	n=p	11	det	11	det
+11	noms	nom	NC	NC	n=p|g=m	17	suj	17	suj
+12	de	de	P	P		11	dep	11	dep
+13	classe	classe	NC	NC	n=s|g=f	12	prep	12	prep
+14	«_	"	PONCT	PONCT		13	ponct	13	ponct
+<code>geo</code> », « <code>latitude</code> » et « <code>longitude</code>
+15	»	»	PONCT	PONCT		13	ponct	13	ponct
+16	sont	être	V	V	n=p|t=P|p=3	17	aux_pass	17	aux_pass
+17	utilisés	utiliser	VPP	VPP	n=p|g=m|t=K	9	sub	9	sub
+18	pour	pour	P	P		17	mod	17	mod
+19	générer	générer	VINF	VINF	t=W	18	prep	18	prep
+20	le	le	DET	DET	n=s|g=m	21	det	21	det
+21	microformat	_	NC	NC		19	obj	19	obj
+22	avec	avec	P	P		19	mod	19	mod
+23	Géoformat	_	NPP	NPP		22	prep	22	prep
+24	(	(	PONCT	PONCT		23	ponct	23	ponct
+25	voir	voir	VINF	VINF	t=W	17	mod	17	mod
+26	microformats.org	$URL$	NPP	NPP		25	obj	25	obj
+27	)	)	PONCT	PONCT		26	ponct	26	ponct
+28	et	et	CC	CC		17	coord	17	coord
+29	NE	ne	ADV	ADV		30	mod	30	mod
+30	DOIVENT	devoir	V	V	n=p|t=P,S|p=3	28	dep_coord	28	dep_coord
+31	PAS	pas	ADV	ADV		30	mod	30	mod
+32	ÊTRE	être	VINF	VINF	t=W	33	aux_pass	33	aux_pass
+33	MODIFIÉS	modifier	VPP	VPP	n=p|g=m|t=K	30	obj	30	obj
+34	.	.	PONCT	PONCT		33	ponct	33	ponct
+

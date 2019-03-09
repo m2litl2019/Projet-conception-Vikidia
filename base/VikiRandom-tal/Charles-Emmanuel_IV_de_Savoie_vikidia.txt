@@ -1,0 +1,170 @@
+<p>
+1	Charles-Emmanuel	_	NPP	NPP		4	suj	4	suj
+2	IV	_	NPP	NPP		1	mod	1	mod
+3	est	être	V	V	n=s|t=P|p=3	4	aux_tps	4	aux_tps
+4	né	naître	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+5	à	à	P	P		4	mod	4	mod
+6	Turin	Turin	NPP	NPP	n=s|g=m	5	prep	5	prep
+7	en	en	P	P		4	mod	4	mod
+8	1751	1751	NC	NC		7	prep	7	prep
+9	et	et	CC	CC		4	coord	4	coord
+10	est	être	V	V	n=s|t=P|p=3	9	dep_coord	9	dep_coord
+11	mort	mort	ADJ	ADJ	n=s|g=m|t=K	10	mod	10	mod
+12	à	à	P	P		10	mod	10	mod
+13	Rome	Rome	NPP	NPP	n=s|g=m	12	prep	12	prep
+14	en	en	P	P		10	mod	10	mod
+15	1819	1819	NC	NC		14	prep	14	prep
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	0	_	0	_
+2	a	avoir	V	V	n=s|t=P|p=3	0	_	0	_
+3	été	être	VPP	VPP	t=K	0	_	0	_
+4	duc	duc	NC	NC	n=s|g=m	3	mod	3	mod
+5	de	de	P	P		3	mod	3	mod
+6	Savoie	Savoie	NPP	NPP	n=s|g=f	5	prep	5	prep
+7	et	et	CC	CC		3	coord	3	coord
+8	roi	roi	NC	NC	n=s|g=m	7	dep_coord	7	dep_coord
+9	de	de	P	P		3	mod	3	mod
+10	Sardaigne	_	NPP	NPP		9	prep	9	prep
+11	de	de	P	P		3	mod	3	mod
+12	1796	1796	NC	NC		11	prep	11	prep
+13	à	à	P	P		3	mod	3	mod
+14	1802	1802	NC	NC		13	prep	13	prep
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+</p><p>
+1	En	en	P	P		5	mod	5	mod
+2	1775	1775	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	il	il	CLS	CLS	n=s|g=m|p=3	5	suj	5	suj
+5	épouse	épouser	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+6	Clotilde	_	NPP	NPP		5	obj	5	obj
+7	de	de	P	P		5	mod	5	mod
+8	France	France	NPP	NPP	n=s|g=f,m	7	prep	7	prep
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	petite-fille	petite-fille	NC	NC	n=s|g=f	8	mod	8	mod
+11	du	de	P+D	P+D	n=s|g=m	10	dep	10	dep
+12	roi	roi	NC	NC	n=s|g=m	11	prep	11	prep
+13	Louis	Louis	NPP	NPP	n=s|g=m	12	mod	12	mod
+14	XV	_	NPP	NPP		12	mod	12	mod
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+1	Ses	ses	DET	DET	n=p|p=3|poss=s	2	det	2	det
+2	sœurs	_	NC	NC		3	suj	3	suj
+3	épouseront	épouser	V	V	n=p|t=F|p=3	0	root	0	root
+4	les	les	DET	DET	n=p	6	det	6	det
+5	futurs	futur	ADJ	ADJ	n=p|g=m	6	mod	6	mod
+6	rois	roi	NC	NC	n=p|g=m	3	obj	3	obj
+7	de	de	P	P		6	dep	6	dep
+8	France	France	NPP	NPP	n=s|g=f,m	7	prep	7	prep
+9	Louis	Louis	NPP	NPP	n=s|g=m	8	mod	8	mod
+10	XVIII	_	NPP	NPP		8	mod	8	mod
+11	et	et	CC	CC		3	coord	3	coord
+12	Charles	Charles	NPP	NPP	n=s|g=m	11	dep_coord	11	dep_coord
+13	X	_	NPP	NPP		12	mod	12	mod
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+</p><p>
+1	En	en	P	P		5	mod	5	mod
+2	1796	1796	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	il	il	CLS	CLS	n=s|g=m|p=3	5	suj	5	suj
+5	succède	succéder	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+6	à	à	P	P		5	mod	5	mod
+7	son	son	DET	DET	n=s|g=m|p=3|poss=s	8	det	8	det
+8	père	père	NC	NC	n=s|g=m	6	prep	6	prep
+9	Victor-Amédée	_	NPP	NPP		8	mod	8	mod
+10	III	_	NPP	NPP		8	mod	8	mod
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+1	En	en	P	P		4	mod	4	mod
+2	1798	1798	NC	NC		1	prep	1	prep
+3	il	il	CLS	CLS	n=s|g=m|p=3	4	suj	4	suj
+4	doit	devoir	V	V	n=s|t=P|p=3	0	root	0	root
+5	se	se	CLR	CLR	n=p,s|p=3	6	aff	6	aff
+6	réfugier	réfugier	VINF	VINF	t=W	4	obj	4	obj
+7	en	en	P	P		6	mod	6	mod
+8	Sardaigne	_	NPP	NPP		7	prep	7	prep
+9	où	où	PROREL	PROREL		11	mod	11	mod
+10	il	il	CLS	CLS	n=s|g=m|p=3	11	suj	11	suj
+11	bénéficie	bénéficier	V	V	n=s|t=P,S|p=1,3	8	mod_rel	8	mod_rel
+12	de	de	P	P		11	mod	11	mod
+13	la	la	DET	DET	n=s|g=f	14	det	14	det
+14	protection	protection	NC	NC	n=s|g=f	12	prep	12	prep
+15	de	de	P	P		11	mod	11	mod
+16	marine	marine	NC	NC	n=s	15	prep	15	prep
+17	de	de	P	P		11	mod	11	mod
+18	guerre	guerre	NC	NC	n=s|g=f	17	prep	17	prep
+19	britannique	britannique	ADJ	ADJ	n=s	18	mod	18	mod
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	face	face	NC	NC	n=s|g=f	11	mod	11	mod
+22	aux	à	P+D	P+D	n=p	11	mod	11	mod
+23	menaces	menace	NC	NC	n=p|g=f	22	prep	22	prep
+24	de	de	P	P		11	mod	11	mod
+25	la	la	DET	DET	n=s|g=f	26	det	26	det
+26	France	France	NPP	NPP	n=s|g=f,m	24	prep	24	prep
+27	révolutionnaire	révolutionnaire	ADJ	ADJ	n=s	26	mod	26	mod
+28	qui	qui	PROREL	PROREL	n=s	30	suj	30	suj
+29	a	avoir	V	V	n=s|t=P|p=3	30	aux_tps	30	aux_tps
+30	annexé	annexer	VPP	VPP	n=s|g=m|t=K	26	mod_rel	26	mod_rel
+31	ses	ses	DET	DET	n=p|p=3|poss=s	32	det	32	det
+32	possessions	possession	NC	NC	n=p|g=f	30	obj	30	obj
+33	continentales	continental	ADJ	ADJ	n=p|g=f	32	mod	32	mod
+34	(	(	PONCT	PONCT		33	ponct	33	ponct
+35	Savoie	Savoie	NPP	NPP	n=s|g=f	32	mod	32	mod
+36	et	et	CC	CC		35	coord	35	coord
+37	Piémont	_	NPP	NPP		36	dep_coord	36	dep_coord
+38	)	)	PONCT	PONCT		37	ponct	37	ponct
+39	.	.	PONCT	PONCT		37	ponct	37	ponct
+
+</p><p>
+1	Après	après	P	P		0	_	0	_
+2	la	la	DET	DET	n=s|g=f	3	det	3	det
+3	signature	signature	NC	NC	n=s|g=f	1	prep	1	prep
+4	de	de	P	P		3	dep	3	dep
+5	la	la	DET	DET	n=s|g=f	6	det	6	det
+6	Paix	_	NPP	NPP		4	prep	4	prep
+7	d'	de	P	P		3	dep	3	dep
+8	Amiens	Amiens	NPP	NPP	n=s|g=m	7	prep	7	prep
+9	en	en	P	P		3	dep	3	dep
+10	1802	1802	NC	NC		9	prep	9	prep
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	qui	qui	PROREL	PROREL	n=s	0	_	0	_
+13	met	mettre	V	V	n=s|t=P|p=3	0	_	0	_
+14	fin	fin	NC	NC	n=s	13	obj	13	obj
+15	temporairement	_	ADV	ADV		13	mod	13	mod
+16	à	à	P	P		13	mod	13	mod
+17	la	la	DET	DET	n=s|g=f	18	det	18	det
+18	guerre	guerre	NC	NC	n=s|g=f	16	prep	16	prep
+19	entre	entre	P	P		18	dep	18	dep
+20	le	le	DET	DET	n=s|g=m	21	det	21	det
+21	Royaume-Uni	Royaume-Uni	NPP	NPP	n=s|g=m	19	prep	19	prep
+22	et	et	CC	CC		13	coord	13	coord
+23	la	la	DET	DET	n=s|g=f	24	det	24	det
+24	France	France	NPP	NPP	n=s|g=f,m	22	dep_coord	22	dep_coord
+25	,	,	PONCT	PONCT		24	ponct	24	ponct
+26	il	il	CLS	CLS	n=s|g=m|p=3	27	suj	27	suj
+27	abdique	abdiquer	V	V	n=s|t=P,S|p=1,3	13	mod	13	mod
+28	en	en	P	P		27	mod	27	mod
+29	faveur	faveur	NC	NC	n=s|g=f	28	prep	28	prep
+30	de	de	P	P		27	mod	27	mod
+31	son	son	DET	DET	n=s|g=m|p=3|poss=s	32	det	32	det
+32	frère	frère	NC	NC	n=s|g=m	30	prep	30	prep
+33	Victor-Emmanuel	_	NPP	NPP		32	mod	32	mod
+34	Ier	_	NPP	NPP		32	mod	32	mod
+35	.	.	PONCT	PONCT		34	ponct	34	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	termine	terminer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	4	det	4	det
+4	vie	vie	NC	NC	n=s|g=f	2	obj	2	obj
+5	à	à	P	P		2	mod	2	mod
+6	Rome	Rome	NPP	NPP	n=s|g=m	5	prep	5	prep
+7	après	après	P	P		2	mod	2	mod
+8	être	être	VINF	VINF	t=W	9	aux_tps	9	aux_tps
+9	devenu	devenir	VPP	VPP	n=s|g=m|t=K	7	prep	7	prep
+10	jésuite	jésuite	NC	NC	n=s|g=m	9	obj	9	obj
+11	en	en	P	P		9	mod	9	mod
+12	1815	1815	NC	NC		11	prep	11	prep
+13	.	.	PONCT	PONCT		12	ponct	12	ponct
+

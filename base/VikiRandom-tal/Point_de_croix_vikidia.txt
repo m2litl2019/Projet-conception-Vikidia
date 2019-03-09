@@ -1,0 +1,45 @@
+<p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	point	point	NC	NC	n=s|g=m	8	suj	8	suj
+3	de	de	P	P		2	dep	2	dep
+4	croix	croix	NC	NC	g=f	3	prep	3	prep
+5	ou	ou	CC	CC		2	coord	2	coord
+6	point	point	NC	NC	n=s|g=m	5	dep_coord	5	dep_coord
+7	compté	compter	VPP	VPP	n=s|g=m|t=K	2	mod	2	mod
+8	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+9	une	une	DET	DET	n=s|g=f	10	det	10	det
+10	technique	technique	NC	NC	n=s|g=f	8	obj	8	obj
+11	de	de	P	P		10	dep	10	dep
+12	broderie	broderie	NC	NC	n=s|g=f	11	prep	11	prep
+13	permettant	permettre	VPR	VPR	t=G	10	mod	10	mod
+14	de	de	P	P		13	obj	13	obj
+15	réaliser	réaliser	VINF	VINF	t=W	14	prep	14	prep
+16	divers	divers	DET	DET	n=p|g=m	17	det	17	det
+17	ouvrages	ouvrage	NC	NC	n=p|g=m	15	obj	15	obj
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	On	on	CLS	CLS	n=s|p=3	2	suj	2	suj
+2	brode	broder	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	sur	sur	P	P		2	mod	2	mod
+4	de	de	P	P		3	dep	3	dep
+5	la	la	DET	DET	n=s|g=f	6	det	6	det
+6	toile	toile	NC	NC	n=s|g=f	4	prep	4	prep
+7	de	de	P	P		2	mod	2	mod
+8	lin	lin	NC	NC	n=s|g=m	7	prep	7	prep
+9	ou	ou	CC	CC		2	coord	2	coord
+10	sur	sur	P	P		9	dep_coord	9	dep_coord
+11	du	du	DET	DET	n=s|g=m	12	det	12	det
+12	coton	coton	NC	NC	n=s|g=m	10	prep	10	prep
+13	.	.	PONCT	PONCT		12	ponct	12	ponct
+
+1	Cette	cette	DET	DET	n=s|g=f	2	det	2	det
+2	technique	technique	NC	NC	n=s|g=f	3	suj	3	suj
+3	permet	permettre	V	V	n=s|t=P|p=3	0	root	0	root
+4	de	de	P	P		3	obj	3	obj
+5	réaliser	réaliser	VINF	VINF	t=W	4	prep	4	prep
+6	des	des	DET	DET	n=p	7	det	7	det
+7	motifs	motif	NC	NC	n=p|g=m	5	obj	5	obj
+8	décoratifs	décoratif	ADJ	ADJ	n=p|g=m	7	mod	7	mod
+9	variés	varier	ADJ	ADJ	n=p|g=m|t=K	7	mod	7	mod
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+

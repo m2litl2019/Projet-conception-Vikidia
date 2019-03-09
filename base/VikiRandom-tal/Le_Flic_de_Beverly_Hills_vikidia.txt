@@ -1,0 +1,109 @@
+<p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	Flic	flic	NC	NC	n=s	6	suj	6	suj
+3	de	de	P	P		2	dep	2	dep
+4	Beverly	Beverly	NPP	NPP	n=s|g=f	3	prep	3	prep
+5	Hills	_	NPP	NPP		4	mod	4	mod
+6	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+7	un	un	DET	DET	n=s|g=m	8	det	8	det
+8	film	film	NC	NC	n=s|g=m	6	obj	6	obj
+9	américain	américain	ADJ	ADJ	n=s|g=m	8	mod	8	mod
+10	réalisé	réaliser	VPP	VPP	n=s|g=m|t=K	8	mod	8	mod
+11	par	par	P	P		10	mod	10	mod
+12	Martin	Martin	NPP	NPP	n=s|g=m	11	prep	11	prep
+13	Brest	Brest	NPP	NPP	n=s|g=m	12	mod	12	mod
+14	sorti	sortir	VPP	VPP	n=s|g=m|t=K	12	mod	12	mod
+15	en	en	P	P		14	mod	14	mod
+16	1984	1984	NC	NC		15	prep	15	prep
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	acteurs	acteur	NC	NC	n=p|g=m	4	suj	4	suj
+3	principaux	principal	ADJ	ADJ	n=p|g=m	2	mod	2	mod
+4	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+5	Eddy	Eddy	NPP	NPP	n=s|g=m	4	obj	4	obj
+6	Murphy	Murphy	NPP	NPP	n=s	5	mod	5	mod
+7	et	et	CC	CC		5	coord	5	coord
+8	Judge	_	NPP	NPP		7	dep_coord	7	dep_coord
+9	Reynolds	_	NPP	NPP		8	mod	8	mod
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+</p><h2>
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	histoire	histoire	NC	NC	n=s|g=f	0	_	0	_
+
+</h2><p>
+1	Axel	Axel	NPP	NPP	n=s|g=m	14	suj	14	suj
+2	Foley	_	NPP	NPP		1	mod	1	mod
+3	(	(	PONCT	PONCT		2	ponct	2	ponct
+4	joué	jouer	VPP	VPP	n=s|g=m|t=K	1	mod	1	mod
+5	par	par	P	P		4	mod	4	mod
+6	Eddy	Eddy	NPP	NPP	n=s|g=m	5	prep	5	prep
+7	Murphy	Murphy	NPP	NPP	n=s	6	mod	6	mod
+8	)	)	PONCT	PONCT		7	ponct	7	ponct
+9	flic	flic	NC	NC	n=s	6	mod	6	mod
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	casse-cou	casse-cou	NC	NC	g=m	6	mod	6	mod
+12	et	et	CC	CC		11	coord	11	coord
+13	provocateur	provocateur	NC	NC	n=s|g=m	12	dep_coord	12	dep_coord
+14	part	partir	V	V	n=s|t=P|p=3	0	root	0	root
+15	à	à	P	P		14	mod	14	mod
+16	Los	_	NPP	NPP		15	prep	15	prep
+17	Angeles	_	NPP	NPP		16	mod	16	mod
+18	enquêter	enquêter	VINF	VINF	t=W	14	obj	14	obj
+19	sur	sur	P	P		18	mod	18	mod
+20	le	le	DET	DET	n=s|g=m	21	det	21	det
+21	meurtre	meurtre	NC	NC	n=s|g=m	19	prep	19	prep
+22	de	de	P	P		18	mod	18	mod
+23	son	son	DET	DET	n=s|g=m|p=3|poss=s	24	det	24	det
+24	ami	ami	NC	NC	n=s|g=m	22	prep	22	prep
+25	d'	de	P	P		24	dep	24	dep
+26	enfance	enfance	NC	NC	n=s|g=f	25	prep	25	prep
+27	tué	tuer	VPP	VPP	n=s|g=m|t=K	24	mod	24	mod
+28	par	par	P	P		27	mod	27	mod
+29	un	un	DET	DET	n=s|g=m	30	det	30	det
+30	milliardaire	milliardaire	NC	NC	n=s	28	prep	28	prep
+31	marchand	marchand	ADJ	ADJ	n=s|g=m	30	mod	30	mod
+32	d'	de	P	P		27	mod	27	mod
+33	art	art	NC	NC	n=s|g=m	32	prep	32	prep
+34	à	à	P	P		27	mod	27	mod
+35	la	la	DET	DET	n=s|g=f	36	det	36	det
+36	tête	tête	NC	NC	n=s|g=f	34	prep	34	prep
+37	d'	de	P	P		27	mod	27	mod
+38	un	un	DET	DET	n=s|g=m	39	det	39	det
+39	trafic	trafic	NC	NC	n=s|g=m	37	prep	37	prep
+40	de	de	P	P		39	dep	39	dep
+41	drogue	drogue	NC	NC	n=s|g=f	40	prep	40	prep
+42	.	.	PONCT	PONCT		41	ponct	41	ponct
+
+1	Ce	ce	DET	DET	n=s|g=m	2	det	2	det
+2	milliardaire	milliardaire	NC	NC	n=s	3	suj	3	suj
+3	use	user	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	de	de	P	P		3	mod	3	mod
+5	ses	ses	DET	DET	n=p|p=3|poss=s	6	det	6	det
+6	relations	relation	NC	NC	n=p|g=f	4	prep	4	prep
+7	pour	pour	P	P		3	mod	3	mod
+8	faire	faire	VINF	VINF	t=W	9	aux_caus	9	aux_caus
+9	entrer	entrer	VINF	VINF	t=W	7	prep	7	prep
+10	de	de	P	P		9	mod	9	mod
+11	la	la	DET	DET	n=s|g=f	12	det	12	det
+12	drogue	drogue	NC	NC	n=s|g=f	10	prep	10	prep
+13	à	à	P	P		9	mod	9	mod
+14	Los	_	NPP	NPP		13	prep	13	prep
+15	Angeles	_	NPP	NPP		14	mod	14	mod
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+1	Foley	_	NPP	NPP		2	suj	2	suj
+2	enquête	enquêter	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	sur	sur	P	P		2	mod	2	mod
+4	ce	ce	DET	DET	n=s|g=m	5	det	5	det
+5	milliardaire	milliardaire	NC	NC	n=s	3	prep	3	prep
+6	aux	à	P+D	P+D	n=p	2	mod	2	mod
+7	côtés	côté	NC	NC	n=p|g=m	6	prep	6	prep
+8	des	de	P+D	P+D	n=p	2	mod	2	mod
+9	flics	flic	NC	NC	n=p	8	prep	8	prep
+10	de	de	P	P		2	mod	2	mod
+11	Los	_	NPP	NPP		10	prep	10	prep
+12	Angeles	_	NPP	NPP		11	mod	11	mod
+13	.	.	PONCT	PONCT		12	ponct	12	ponct
+

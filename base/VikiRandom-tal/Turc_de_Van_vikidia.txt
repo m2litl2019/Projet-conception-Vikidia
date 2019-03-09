@@ -1,0 +1,123 @@
+<p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	turc	turc	NC	NC	n=s|g=m	14	suj	14	suj
+3	de	de	P	P		2	dep	2	dep
+4	Van	Van	NPP	NPP	n=s|g=m	3	prep	3	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	aussi	aussi	ADV	ADV		7	mod	7	mod
+7	appelé	appeler	VPP	VPP	n=s|g=m|t=K	2	mod	2	mod
+8	Chat	_	NPP	NPP		7	mod	7	mod
+9	du	de	P+D	P+D	n=s|g=m	7	mod	7	mod
+10	lac	lac	NC	NC	n=s|g=m	9	prep	9	prep
+11	de	de	P	P		7	mod	7	mod
+12	Van	Van	NPP	NPP	n=s|g=m	11	prep	11	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+15	une	une	DET	DET	n=s|g=f	16	det	16	det
+16	race	race	NC	NC	n=s|g=f	14	obj	14	obj
+17	de	de	P	P		16	dep	16	dep
+18	chat	chat	NC	NC	n=s|g=m	17	prep	17	prep
+19	originaire	originaire	ADJ	ADJ	n=s	18	mod	18	mod
+20	de	de	P	P		14	mod	14	mod
+21	la	la	DET	DET	n=s|g=f	22	det	22	det
+22	région	région	NC	NC	n=s|g=f	20	prep	20	prep
+23	du	de	P+D	P+D	n=s|g=m	22	dep	22	dep
+24	Lac	_	NPP	NPP		23	prep	23	prep
+25	de	de	P	P		14	mod	14	mod
+26	Van	Van	NPP	NPP	n=s|g=m	25	prep	25	prep
+27	,	,	PONCT	PONCT		26	ponct	26	ponct
+28	dans	dans	P	P		14	mod	14	mod
+29	le	le	DET	DET	n=s|g=m	30	det	30	det
+30	sud-est	sud-est	NC	NC	n=s|g=m	28	prep	28	prep
+31	de	de	P	P		30	dep	30	dep
+32	la	la	DET	DET	n=s|g=f	33	det	33	det
+33	Turquie	Turquie	NPP	NPP	n=s|g=f	31	prep	31	prep
+34	.	.	PONCT	PONCT		33	ponct	33	ponct
+
+</p><p>
+1	C'	ce	CLS	CLS		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	un	un	DET	DET	n=s|g=m	4	det	4	det
+4	chat	chat	NC	NC	n=s|g=m	2	obj	2	obj
+5	assez	assez	ADV	ADV		6	mod	6	mod
+6	spécial	spécial	ADJ	ADJ	n=s|g=m	4	mod	4	mod
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	il	il	CLS	CLS	n=s|g=m|p=3	9	suj	9	suj
+9	aime	aimer	V	V	n=s|t=P,S|p=1,3	2	mod	2	mod
+10	jouer	jouer	VINF	VINF	t=W	9	obj	9	obj
+11	dans	dans	P	P		10	mod	10	mod
+12	l'	le	DET	DET	n=s	13	det	13	det
+13	eau	eau	NC	NC	n=s|g=f	11	prep	11	prep
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+</p><p>
+1	Contrairement	_	ADV	ADV		2	mod	2	mod
+2	aux	à	P+D	P+D	n=p	0	root	0	root
+3	autres	autre	ADJ	ADJ	n=p	4	mod	4	mod
+4	chats	chat	NC	NC	n=p|g=m	2	prep	2	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	il	il	CLS	CLS	n=s|g=m|p=3	0	_	0	_
+7	sait	savoir	V	V	n=s|t=P|p=3	0	_	0	_
+8	nager	nager	VINF	VINF	t=W	7	obj	7	obj
+9	.	.	PONCT	PONCT		8	ponct	8	ponct
+
+</p><p>
+1	Son	son	DET	DET	n=s|g=m|p=3|poss=s	2	det	2	det
+2	pelage	pelage	NC	NC	n=s|g=m	3	suj	3	suj
+3	peut	pouvoir	V	V	n=s|t=P|p=3	0	root	0	root
+4	être	être	VINF	VINF	t=W	3	obj	3	obj
+5	van	van	NC	NC	n=s|g=m	4	obj	4	obj
+6	ou	ou	CC	CC		5	coord	5	coord
+7	écaille-de	_	NC	NC		6	dep_coord	6	dep_coord
+8	-	-	PONCT	PONCT		7	ponct	7	ponct
+9	tortue	tortue	NC	NC	n=s|g=f	4	mod	4	mod
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+</p><p>
+1	Son	son	DET	DET	n=s|g=m|p=3|poss=s	2	det	2	det
+2	corps	corps	NC	NC	g=m	3	suj	3	suj
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	massif	massif	ADJ	ADJ	n=s|g=m	3	ats	3	ats
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	long	long	ADJ	ADJ	n=s|g=m	4	coord	4	coord
+7	et	et	CC	CC		6	coord	6	coord
+8	musclé	muscler	ADJ	ADJ	n=s|g=m|t=K	7	dep_coord	7	dep_coord
+9	.	.	PONCT	PONCT		8	ponct	8	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	intelligent	intelligent	ADJ	ADJ	n=s|g=m	2	ats	2	ats
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	affectueux	affectueux	ADJ	ADJ	g=m	3	coord	3	coord
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	énergique	énergique	ADJ	ADJ	n=s	5	coord	5	coord
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	joueur	joueur	NC	NC	n=s|g=m	2	mod	2	mod
+10	et	et	CC	CC		9	coord	9	coord
+11	très	très	ADV	ADV		12	mod	12	mod
+12	curieux	curieux	ADJ	ADJ	g=m	10	dep_coord	10	dep_coord
+13	.	.	PONCT	PONCT		12	ponct	12	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	turc	turc	NC	NC	n=s|g=m	5	suj	5	suj
+3	de	de	P	P		2	dep	2	dep
+4	Van	Van	NPP	NPP	n=s|g=m	3	prep	3	prep
+5	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+6	un	un	DET	DET	n=s|g=m	8	det	8	det
+7	grand	grand	ADJ	ADJ	n=s|g=m	8	mod	8	mod
+8	chat	chat	NC	NC	n=s|g=m	5	obj	5	obj
+9	qui	qui	PROREL	PROREL	n=s	10	suj	10	suj
+10	a	avoir	V	V	n=s|t=P|p=3	8	mod_rel	8	mod_rel
+11	une	une	DET	DET	n=s|g=f	12	det	12	det
+12	croissance	croissance	NC	NC	n=s|g=f	10	obj	10	obj
+13	lente	lent	ADJ	ADJ	n=s|g=f	12	mod	12	mod
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	le	le	DET	DET	n=s|g=m	16	det	16	det
+16	mâle	mâle	NC	NC	n=s|g=m	17	suj	17	suj
+17	atteignant	atteindre	VPR	VPR	t=G	5	mod	5	mod
+18	parfois	parfois	ADV	ADV		17	mod	17	mod
+19	les	les	DET	DET	n=p	21	det	21	det
+20	9	9	ADJ	ADJ		21	mod	21	mod
+21	kg	kilogramme	NC	NC	g=m	17	obj	17	obj
+22	.	.	PONCT	PONCT		21	ponct	21	ponct
+

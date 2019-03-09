@@ -1,0 +1,90 @@
+<p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	reichsmark	reichsmark	NC	NC	n=s|g=m	6	suj	6	suj
+3	(	(	PONCT	PONCT		2	ponct	2	ponct
+4	RM	_	NPP	NPP		2	mod	2	mod
+5	)	)	PONCT	PONCT		4	ponct	4	ponct
+6	était	être	V	V	n=s|t=I|p=3	0	root	0	root
+7	la	la	DET	DET	n=s|g=f	8	det	8	det
+8	monnaie	monnaie	NC	NC	n=s|g=f	6	obj	6	obj
+9	officielle	officiel	ADJ	ADJ	n=s|g=f	8	mod	8	mod
+10	de	de	P	P		8	dep	8	dep
+11	l'	le	DET	DET	n=s	12	det	12	det
+12	Allemagne	Allemagne	NPP	NPP	n=s|g=f	10	prep	10	prep
+13	de	de	P	P		8	dep	8	dep
+14	1924	1924	NC	NC		13	prep	13	prep
+15	à	à	P	P		6	mod	6	mod
+16	1948	1948	NC	NC		15	prep	15	prep
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+</p><p>
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	4	suj	4	suj
+2	a	avoir	V	V	n=s|t=P|p=3	4	aux_tps	4	aux_tps
+3	été	être	VPP	VPP	t=K	4	aux_pass	4	aux_pass
+4	utilisée	utiliser	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+5	sous	sous	P	P		4	mod	4	mod
+6	la	la	DET	DET	n=s|g=f	7	det	7	det
+7	République	république	NC	NC	n=s|g=f	5	prep	5	prep
+8	de	de	P	P		4	mod	4	mod
+9	Weimar	_	NPP	NPP		8	prep	8	prep
+10	(	(	PONCT	PONCT		9	ponct	9	ponct
+11	1924-1933	1924-1933	NC	NC		4	mod	4	mod
+12	)	)	PONCT	PONCT		11	ponct	11	ponct
+13	,	,	PONCT	PONCT		11	ponct	11	ponct
+14	sous	sous	P	P		4	mod	4	mod
+15	le	le	DET	DET	n=s|g=m	16	det	16	det
+16	Troisième	troisième	NC	NC	n=s	14	prep	14	prep
+17	Reich	_	NPP	NPP		16	mod	16	mod
+18	(	(	PONCT	PONCT		17	ponct	17	ponct
+19	1933-1945	1933-1945	NC	NC		16	mod	16	mod
+20	)	)	PONCT	PONCT		19	ponct	19	ponct
+21	dirigé	diriger	VPP	VPP	n=s|g=m|t=K	16	mod	16	mod
+22	par	par	P	P		21	mod	21	mod
+23	le	le	DET	DET	n=s|g=m	24	det	24	det
+24	chancelier	chancelier	NC	NC	n=s|g=m	22	prep	22	prep
+25	Adolf	Adolf	NPP	NPP	n=s|g=m	24	mod	24	mod
+26	Hitler	_	NPP	NPP		24	mod	24	mod
+27	et	et	CC	CC		22	coord	22	coord
+28	pendant	pendant	P	P		27	dep_coord	27	dep_coord
+29	l'	le	DET	DET	n=s	30	det	30	det
+30	occupation	occupation	NC	NC	n=s|g=f	28	prep	28	prep
+31	de	de	P	P		30	dep	30	dep
+32	l'	le	DET	DET	n=s	33	det	33	det
+33	Allemagne	Allemagne	NPP	NPP	n=s|g=f	31	prep	31	prep
+34	par	par	P	P		21	mod	21	mod
+35	les	les	DET	DET	n=p	36	det	36	det
+36	forces	force	NC	NC	n=p|g=f	34	prep	34	prep
+37	alliées	allier	ADJ	ADJ	n=p|g=f|t=K	36	mod	36	mod
+38	(	(	PONCT	PONCT		37	ponct	37	ponct
+39	1945-1948	1945-1948	NC	NC		36	mod	36	mod
+40	)	)	PONCT	PONCT		39	ponct	39	ponct
+41	.	.	PONCT	PONCT		39	ponct	39	ponct
+
+</p><p>
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	4	suj	4	suj
+2	a	avoir	V	V	n=s|t=P|p=3	4	aux_tps	4	aux_tps
+3	été	être	VPP	VPP	t=K	4	aux_pass	4	aux_pass
+4	remplacée	remplacer	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+5	par	par	P	P		4	mod	4	mod
+6	le	le	DET	DET	n=s|g=m	7	det	7	det
+7	Deutsche	_	NPP	NPP		5	prep	5	prep
+8	Mark	Mark	NPP	NPP	n=s|g=m	7	mod	7	mod
+9	en	en	P	P		4	mod	4	mod
+10	Allemagne	Allemagne	NPP	NPP	n=s|g=f	9	prep	9	prep
+11	de	de	P	P		4	mod	4	mod
+12	l'	le	DET	DET	n=s	13	det	13	det
+13	Ouest	_	NPP	NPP		11	prep	11	prep
+14	et	et	CC	CC		4	coord	4	coord
+15	par	par	P	P		14	dep_coord	14	dep_coord
+16	le	le	DET	DET	n=s|g=m	17	det	17	det
+17	Mark	Mark	NPP	NPP	n=s|g=m	15	prep	15	prep
+18	est-allemand	est-allemand	ADJ	ADJ	n=s|g=m	17	mod	17	mod
+19	en	en	P	P		4	mod	4	mod
+20	République	république	NC	NC	n=s|g=f	19	prep	19	prep
+21	démocratique	démocratique	ADJ	ADJ	n=s	20	mod	20	mod
+22	allemande	allemand	ADJ	ADJ	n=s|g=f	20	mod	20	mod
+23	(	(	PONCT	PONCT		22	ponct	22	ponct
+24	RDA	_	NPP	NPP		4	mod	4	mod
+25	)	)	PONCT	PONCT		24	ponct	24	ponct
+26	.	.	PONCT	PONCT		24	ponct	24	ponct
+

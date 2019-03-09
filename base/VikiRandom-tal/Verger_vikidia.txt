@@ -1,0 +1,71 @@
+<p>
+1	Un	un	DET	DET	n=s|g=m	2	det	2	det
+2	verger	verger	NC	NC	n=s|g=m	3	suj	3	suj
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	un	un	DET	DET	n=s|g=m	5	det	5	det
+5	terrain	terrain	NC	NC	n=s|g=m	3	obj	3	obj
+6	planté	planter	VPP	VPP	n=s|g=m|t=K	5	mod	5	mod
+7	d'	de	P	P		6	mod	6	mod
+8	arbres	arbre	NC	NC	n=p|g=m	7	prep	7	prep
+9	fruitiers	fruitier	ADJ	ADJ	n=p|g=m	8	mod	8	mod
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	fruits	fruit	NC	NC	n=p|g=m	6	suj	6	suj
+3	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+4	verger	verger	NC	NC	n=s|g=m	3	prep	3	prep
+5	sont	être	V	V	n=p|t=P|p=3	6	aux_pass	6	aux_pass
+6	destinés	destiner	VPP	VPP	n=p|g=m|t=K	0	root	0	root
+7	à	à	P	P		6	mod	6	mod
+8	être	être	VINF	VINF	t=W	9	aux_tps	9	aux_tps
+9	récoltés	récolter	VPP	VPP	n=p|g=m|t=K	7	prep	7	prep
+10	une	une	DET	DET	n=s|g=f	11	det	11	det
+11	fois	fois	NC	NC	g=f	9	obj	9	obj
+12	mûrs	mûr	ADJ	ADJ	n=p|g=m	11	mod	11	mod
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	puis	puis	CC	CC		7	coord	7	coord
+15	à	à	P	P		14	dep_coord	14	dep_coord
+16	être	être	VINF	VINF	t=W	18	aux_tps	18	aux_tps
+17	mangés	manger	VPP	VPP	n=p|g=m|t=K	18	aux_pass	18	aux_pass
+18	crus	croire	VPP	VPP	n=p|g=m|t=K	15	prep	15	prep
+19	ou	ou	CC	CC		15	coord	15	coord
+20	à	à	P	P		19	dep_coord	19	dep_coord
+21	être	être	VINF	VINF	t=W	22	aux_tps	22	aux_tps
+22	transformés	transformer	VPP	VPP	n=p|g=m|t=K	20	prep	20	prep
+23	en	en	P	P		22	mod	22	mod
+24	conserve	conserve	NC	NC	n=s|g=f	23	prep	23	prep
+25	alimentaire	alimentaire	ADJ	ADJ	n=s	24	mod	24	mod
+26	ou	ou	CC	CC		20	coord	20	coord
+27	en	en	P	P		26	dep_coord	26	dep_coord
+28	confiture	confiture	NC	NC	n=s|g=f	27	prep	27	prep
+29	.	.	PONCT	PONCT		28	ponct	28	ponct
+
+</p><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	pépiniériste	pépiniériste	NC	NC	n=s	6	suj	6	suj
+3	Johnny	Johnny	NPP	NPP	n=s|g=m	2	mod	2	mod
+4	Appleseed	_	NPP	NPP		2	mod	2	mod
+5	a	avoir	V	V	n=s|t=P|p=3	6	aux_tps	6	aux_tps
+6	passé	passer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+7	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	8	det	8	det
+8	vie	vie	NC	NC	n=s|g=f	6	obj	6	obj
+9	à	à	P	P		6	mod	6	mod
+10	couvrir	couvrir	VINF	VINF	t=W	9	prep	9	prep
+11	plusieurs	plusieurs	DET	DET	n=p	12	det	12	det
+12	états	état	NC	NC	n=p|g=m	10	obj	10	obj
+13	américains	américain	ADJ	ADJ	n=p|g=m	12	mod	12	mod
+14	du	de	P+D	P+D	n=s|g=m	10	mod	10	mod
+15	nord	nord	NC	NC	n=s|g=m	14	prep	14	prep
+16	de	de	P	P		15	dep	15	dep
+17	vergers	verger	NC	NC	n=p|g=m	16	prep	16	prep
+18	de	de	P	P		10	mod	10	mod
+19	pommiers	pommier	NC	NC	n=p|g=m	18	prep	18	prep
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	pour	pour	P	P		6	mod	6	mod
+22	alimenter	alimenter	VINF	VINF	t=W	21	prep	21	prep
+23	les	les	DET	DET	n=p	24	det	24	det
+24	fabriques	fabrique	NC	NC	n=p|g=f	22	obj	22	obj
+25	de	de	P	P		24	dep	24	dep
+26	cidre	cidre	NC	NC	n=s|g=m	25	prep	25	prep
+27	.	.	PONCT	PONCT		26	ponct	26	ponct
+

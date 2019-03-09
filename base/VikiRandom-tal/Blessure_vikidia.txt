@@ -1,0 +1,172 @@
+<p>
+1	Une	une	DET	DET	n=s|g=f	2	det	2	det
+2	blessure	blessure	NC	NC	n=s|g=f	3	suj	3	suj
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	quelque	quelque	ADJ	ADJ	n=s	5	mod	5	mod
+5	chose	chose	NC	NC	n=s|g=f	3	obj	3	obj
+6	qui	qui	PROREL	PROREL	n=s	7	suj	7	suj
+7	fait	faire	V	V	n=s|t=P|p=3	5	mod_rel	5	mod_rel
+8	mal	mal	ADV	ADV		7	mod	7	mod
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	qui	qui	PROREL	PROREL	n=s	11	suj	11	suj
+11	blesse	blesser	V	V	n=s|t=P,S|p=1,3	3	mod	3	mod
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	blessure	blessure	NC	NC	n=s|g=f	3	suj	3	suj
+3	peut	pouvoir	V	V	n=s|t=P|p=3	0	root	0	root
+4	être	être	VINF	VINF	t=W	3	obj	3	obj
+5	accidentelle	accidentel	ADJ	ADJ	n=s|g=f	4	ats	4	ats
+6	ou	ou	CC	CC		5	coord	5	coord
+7	volontaire	volontaire	ADJ	ADJ	n=s	6	dep_coord	6	dep_coord
+8	.	.	PONCT	PONCT		7	ponct	7	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	existe	exister	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	différents	différent	ADJ	ADJ	n=p|g=m	4	mod	4	mod
+4	types	type	NC	NC	n=p|g=m	2	obj	2	obj
+5	de	de	P	P		4	dep	4	dep
+6	blessures	blessure	NC	NC	n=p|g=f	5	prep	5	prep
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	qui	qui	PROREL	PROREL	n=s	10	suj	10	suj
+9	se	se	CLR	CLR	n=p,s|p=3	10	aff	10	aff
+10	soignent	soigner	V	V	n=p|t=P,S|p=3	4	mod_rel	4	mod_rel
+11	différemment	_	ADV	ADV		10	mod	10	mod
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+1	On	on	CLS	CLS	n=s|p=3	2	suj	2	suj
+2	peut	pouvoir	V	V	n=s|t=P|p=3	0	root	0	root
+3	aussi	aussi	ADV	ADV		2	mod	2	mod
+4	parler	parler	VINF	VINF	t=W	2	obj	2	obj
+5	de	de	P	P		4	mod	4	mod
+6	traumatisme	traumatisme	NC	NC	n=s|g=m	5	prep	5	prep
+7	.	.	PONCT	PONCT		6	ponct	6	ponct
+
+</p><p>
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	existe	exister	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	des	des	DET	DET	n=p	4	det	4	det
+4	blessures	blessure	NC	NC	n=p|g=f	2	obj	2	obj
+5	physiques	physique	ADJ	ADJ	n=p	4	mod	4	mod
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	qui	qui	PROREL	PROREL	n=s	8	suj	8	suj
+8	concernent	concerner	V	V	n=p|t=P,S|p=3	4	mod_rel	4	mod_rel
+9	le	le	DET	DET	n=s|g=m	10	det	10	det
+10	corps	corps	NC	NC	g=m	8	obj	8	obj
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	mais	mais	CC	CC		2	coord	2	coord
+13	certains	certain	DET	DET	n=p|g=m	14	det	14	det
+14	évènements	_	NC	NC		15	suj	15	suj
+15	peuvent	pouvoir	V	V	n=p|t=P|p=3	12	dep_coord	12	dep_coord
+16	blesser	blesser	VINF	VINF	t=W	15	obj	15	obj
+17	les	les	DET	DET	n=p	18	det	18	det
+18	sentiments	sentiment	NC	NC	n=p|g=m	16	obj	16	obj
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	On	on	CLS	CLS	n=s|p=3	2	suj	2	suj
+2	parle	parler	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	alors	alors	ADV	ADV		2	mod	2	mod
+4	de	de	P	P		2	mod	2	mod
+5	blessure	blessure	NC	NC	n=s|g=f	4	prep	4	prep
+6	ou	ou	CC	CC		2	coord	2	coord
+7	traumatisme	traumatisme	NC	NC	n=s|g=m	6	dep_coord	6	dep_coord
+8	psychologique	psychologique	ADJ	ADJ	n=s	7	mod	7	mod
+9	.	.	PONCT	PONCT		8	ponct	8	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	filles	fille	NC	NC	n=p|g=f	3	suj	3	suj
+3	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+4	plus	plus	ADV	ADV		3	mod	3	mod
+5	sensibles	sensible	ADJ	ADJ	n=p	3	ats	3	ats
+6	à	à	P	P		3	mod	3	mod
+7	ce	ce	DET	DET	n=s|g=m	8	det	8	det
+8	type	type	NC	NC	n=s|g=m	6	prep	6	prep
+9	de	de	P	P		3	mod	3	mod
+10	blessure	blessure	NC	NC	n=s|g=f	9	prep	9	prep
+11	que	que	CS	CS		3	mod	3	mod
+12	les	les	DET	DET	n=p	13	det	13	det
+13	garçons	garçon	NC	NC	n=p|g=m	0	_	0	_
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+</p><p>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	blessures	blessure	NC	NC	n=p|g=f	3	suj	3	suj
+3	interviennent	intervenir	V	V	n=p|t=P,S|p=3	0	root	0	root
+4	notamment	_	ADV	ADV		3	mod	3	mod
+5	aux	à	P+D	P+D	n=p	3	mod	3	mod
+6	sportifs	sportif	ADJ	ADJ	n=p|g=m	8	ato	8	ato
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	étant	être	VPR	VPR	t=G	3	mod	3	mod
+9	donné	donner	VPP	VPP	n=s|g=m|t=K	8	dep	8	dep
+10	l'	le	DET	DET	n=s	11	det	11	det
+11	intensité	intensité	NC	NC	n=s|g=f	9	obj	9	obj
+12	physique	physique	ADJ	ADJ	n=s	11	mod	11	mod
+13	de	de	P	P		9	mod	9	mod
+14	leur	leur	DET	DET	n=s|p=3|poss=p	15	det	15	det
+15	sport	sport	NC	NC	n=s|g=m	13	prep	13	prep
+16	pratiqué	pratiquer	VPP	VPP	n=s|g=m|t=K	15	mod	15	mod
+17	:	:	PONCT	PONCT		16	ponct	16	ponct
+18	il	il	CLS	CLS	n=s|g=m|p=3	20	suj	20	suj
+19	n'	ne	ADV	ADV		20	mod	20	mod
+20	est	être	V	V	n=s|t=P|p=3	3	mod	3	mod
+21	pas	pas	ADV	ADV		20	mod	20	mod
+22	rare	rare	ADJ	ADJ	n=s	20	ats	20	ats
+23	qu'	que	CS	CS		20	mod	20	mod
+24	un	un	DET	DET	n=s|g=m	25	det	25	det
+25	footballeur	footballeur	NC	NC	n=s|g=m	0	_	0	_
+26	s'	se	CLR	CLR	n=p,s|p=3	0	_	0	_
+27	absente	absent	ADJ	ADJ	n=s|g=f	0	_	0	_
+28	pour	pour	P	P		27	mod	27	mod
+29	quelques	quelques	DET	DET	n=p	30	det	30	det
+30	semaines	semaine	NC	NC	n=p|g=f	28	prep	28	prep
+31	voire	voire	CC	CC		30	coord	30	coord
+32	des	des	DET	DET	n=p	33	det	33	det
+33	mois	mois	NC	NC	g=m	31	dep_coord	31	dep_coord
+34	,	,	PONCT	PONCT		33	ponct	33	ponct
+35	au	à	P+D	P+D	n=s|g=m	27	mod	27	mod
+36	pire	pire	ADJ	ADJ	n=s	0	_	0	_
+37	(	(	PONCT	PONCT		36	ponct	36	ponct
+38	en	en	P	P		36	mod	36	mod
+39	cas	cas	NC	NC	g=m	38	prep	38	prep
+40	de	de	P	P		36	mod	36	mod
+41	graves	grave	ADJ	ADJ	n=p	40	prep	40	prep
+42	blessures	blessure	NC	NC	n=p|g=f	40	prep	40	prep
+43	,	,	PONCT	PONCT		42	ponct	42	ponct
+44	comme	comme	P	P		36	mod	36	mod
+45	une	une	DET	DET	n=s|g=f	46	det	46	det
+46	rupture	rupture	NC	NC	n=s|g=f	44	prep	44	prep
+47	d'	de	P	P		46	dep	46	dep
+48	un	un	DET	DET	n=s|g=m	49	det	49	det
+49	ligament	ligament	NC	NC	n=s|g=m	47	prep	47	prep
+50	croisé	croiser	VPP	VPP	n=s|g=m|t=K	49	mod	49	mod
+51	antérieur	antérieur	ADJ	ADJ	n=s|g=m	50	mod	50	mod
+52	)	)	PONCT	PONCT		51	ponct	51	ponct
+53	.	.	PONCT	PONCT		51	ponct	51	ponct
+
+</p><p>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	végétaux	_	NC	NC		4	suj	4	suj
+3	aussi	aussi	ADV	ADV		2	mod	2	mod
+4	peuvent	pouvoir	V	V	n=p|t=P|p=3	0	root	0	root
+5	être	être	VINF	VINF	t=W	6	aux_pass	6	aux_pass
+6	blessés	blesser	VPP	VPP	n=p|g=m|t=K	4	obj	4	obj
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	comme	comme	P	P		6	mod	6	mod
+9	les	les	DET	DET	n=p	10	det	10	det
+10	arbres	arbre	NC	NC	n=p|g=m	8	prep	8	prep
+11	que	que	PROREL	PROREL		14	obj	14	obj
+12	l'	le	DET	DET	n=s	13	det	13	det
+13	on	on	CLS	CLS	n=s|p=3	14	suj	14	suj
+14	dénude	dénuder	V	V	n=s|t=P,S|p=1,3	10	mod_rel	10	mod_rel
+15	en	en	P	P		14	mod	14	mod
+16	les	les	CLO	CLO	n=p|p=3	17	obj	17	obj
+17	dépouillant	dépouiller	VPR	VPR	t=G	15	prep	15	prep
+18	de	de	P	P		17	mod	17	mod
+19	leur	leur	DET	DET	n=s|p=3|poss=p	20	det	20	det
+20	écorce	écorce	NC	NC	n=s|g=f	18	prep	18	prep
+21	ou	ou	CC	CC		18	coord	18	coord
+22	de	de	P	P		21	dep_coord	21	dep_coord
+23	leur	leur	DET	DET	n=s|p=3|poss=p	24	det	24	det
+24	feuillage	feuillage	NC	NC	n=s|g=m	22	prep	22	prep
+25	.	.	PONCT	PONCT		24	ponct	24	ponct
+

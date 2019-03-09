@@ -1,0 +1,515 @@
+<p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	langage	langage	NC	NC	n=s|g=m	4	suj	4	suj
+3	LOGO	_	NPP	NPP		2	mod	2	mod
+4	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+5	un	un	DET	DET	n=s|g=m	6	det	6	det
+6	langage	langage	NC	NC	n=s|g=m	4	obj	4	obj
+7	de	de	P	P		6	dep	6	dep
+8	programmation	programmation	NC	NC	n=s|g=f	7	prep	7	prep
+9	qui	qui	PROREL	PROREL	n=s	12	suj	12	suj
+10	a	avoir	V	V	n=s|t=P|p=3	12	aux_tps	12	aux_tps
+11	été	être	VPP	VPP	t=K	12	aux_pass	12	aux_pass
+12	développé	développer	VPP	VPP	n=s|g=m|t=K	6	mod_rel	6	mod_rel
+13	au	à	P+D	P+D	n=s|g=m	12	mod	12	mod
+14	M	_	NPP	NPP		13	prep	13	prep
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+16	I	_	NPP	NPP		14	mod	14	mod
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+18	T	_	NPP	NPP		14	mod	14	mod
+19	(	(	PONCT	PONCT		18	ponct	18	ponct
+20	Université	université	NC	NC	n=s|g=f	14	mod	14	mod
+21	de	de	P	P		12	mod	12	mod
+22	Technologie	_	NPP	NPP		21	prep	21	prep
+23	du	de	P+D	P+D	n=s|g=m	12	mod	12	mod
+24	Massachusetts	Massachusetts	NPP	NPP	n=s|g=m	23	prep	23	prep
+25	,	,	PONCT	PONCT		24	ponct	24	ponct
+26	U	_	NPP	NPP		12	mod	12	mod
+27	.	.	PONCT	PONCT		26	ponct	26	ponct
+28	S	_	NPP	NPP		26	mod	26	mod
+29	.	.	PONCT	PONCT		28	ponct	28	ponct
+30	A	à	P	P		12	mod	12	mod
+31	.	.	PONCT	PONCT		30	ponct	30	ponct
+32	)	)	PONCT	PONCT		30	ponct	30	ponct
+33	à	à	P	P		12	mod	12	mod
+34	la	la	DET	DET	n=s|g=f	35	det	35	det
+35	fin	fin	NC	NC	n=s	33	prep	33	prep
+36	des	de	P+D	P+D	n=p	35	dep	35	dep
+37	années	année	NC	NC	n=p|g=f	36	prep	36	prep
+38	soixante	soixante	ADJ	ADJ	s=card|n=p	37	mod	37	mod
+39	par	par	P	P		12	mod	12	mod
+40	Seymour	Seymour	NPP	NPP	n=s|g=m	39	prep	39	prep
+41	Papert	_	NPP	NPP		40	mod	40	mod
+42	.	.	PONCT	PONCT		41	ponct	41	ponct
+
+</p><p>
+1	LOGO	logo	NC	NC	n=s|g=m	4	suj	4	suj
+2	a	avoir	V	V	n=s|t=P|p=3	4	aux_tps	4	aux_tps
+3	été	être	VPP	VPP	t=K	4	aux_pass	4	aux_pass
+4	adapté	adapter	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+5	dans	dans	P	P		4	mod	4	mod
+6	différentes	différent	DET	DET	n=p|g=f	7	det	7	det
+7	langues	langue	NC	NC	n=p|g=f	5	prep	5	prep
+8	(	(	PONCT	PONCT		7	ponct	7	ponct
+9	Espagnol	espagnol	NC	NC	n=s|g=m	4	mod	4	mod
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	Français	français	NC	NC	g=m	9	mod	9	mod
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	Italien	_	NPP	NPP		9	mod	9	mod
+14	)	)	PONCT	PONCT		13	ponct	13	ponct
+15	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+1	C'	ce	CLS	CLS		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	ainsi	ainsi	ADV	ADV		2	mod	2	mod
+4	que	que	CS	CS		2	mod	2	mod
+5	cet	cet	DET	DET	n=s|g=m	6	det	6	det
+6	outil	outil	NC	NC	n=s|g=m	10	suj	10	suj
+7	de	de	P	P		6	dep	6	dep
+8	programmation	programmation	NC	NC	n=s|g=f	7	prep	7	prep
+9	est	être	V	V	n=s|t=P|p=3	10	aux_tps	10	aux_tps
+10	arrivé	arriver	VPP	VPP	n=s|g=m|t=K	4	sub	4	sub
+11	en	en	P	P		10	mod	10	mod
+12	France	France	NPP	NPP	n=s|g=f,m	11	prep	11	prep
+13	au	à	P+D	P+D	n=s|g=m	10	mod	10	mod
+14	début	début	NC	NC	n=s|g=m	13	prep	13	prep
+15	des	de	P+D	P+D	n=p	14	dep	14	dep
+16	années	année	NC	NC	n=p|g=f	15	prep	15	prep
+17	quatre-vingts	quatre-vingts	ADJ	ADJ		16	mod	16	mod
+18	et	et	CC	CC		4	coord	4	coord
+19	que	que	CS	CS		18	dep_coord	18	dep_coord
+20	les	les	DET	DET	n=p	21	det	21	det
+21	élèves	élève	NC	NC	n=p	23	suj	23	suj
+22	ont	avoir	V	V	n=p|t=P|p=3	23	aux_tps	23	aux_tps
+23	pu	pouvoir	VPP	VPP	t=K	19	sub	19	sub
+24	le	le	CLO	CLO	n=s|g=m|p=3	25	obj	25	obj
+25	pratiquer	pratiquer	VINF	VINF	t=W	23	obj	23	obj
+26	sur	sur	P	P		25	mod	25	mod
+27	les	les	DET	DET	n=p	28	det	28	det
+28	ordinateurs	ordinateur	NC	NC	n=p|g=m	26	prep	26	prep
+29	de	de	P	P		28	dep	28	dep
+30	cette	cette	DET	DET	n=s|g=f	31	det	31	det
+31	époque	époque	NC	NC	n=s|g=f	29	prep	29	prep
+32	(	(	PONCT	PONCT		31	ponct	31	ponct
+33	Thomson	_	NPP	NPP		31	mod	31	mod
+34	TO7	_	NPP	NPP		31	mod	31	mod
+35	,	,	PONCT	PONCT		34	ponct	34	ponct
+36	MO5	_	NPP	NPP		31	mod	31	mod
+37	,	,	PONCT	PONCT		36	ponct	36	ponct
+38	Goupil	_	NPP	NPP		31	mod	31	mod
+39	,	,	PONCT	PONCT		38	ponct	38	ponct
+40	Micral	_	NPP	NPP		31	mod	31	mod
+41	)	)	PONCT	PONCT		40	ponct	40	ponct
+42	.	.	PONCT	PONCT		40	ponct	40	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	4	suj	4	suj
+2	a	avoir	V	V	n=s|t=P|p=3	4	aux_tps	4	aux_tps
+3	été	être	VPP	VPP	t=K	4	aux_pass	4	aux_pass
+4	appliqué	appliquer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+5	aux	à	P+D	P+D	n=p	4	mod	4	mod
+6	activités	activité	NC	NC	n=p|g=f	5	prep	5	prep
+7	géométriques	géométrique	ADJ	ADJ	n=p	6	mod	6	mod
+8	avec	avec	P	P		4	mod	4	mod
+9	les	les	DET	DET	n=p	10	det	10	det
+10	déplacements	déplacement	NC	NC	n=p|g=m	8	prep	8	prep
+11	d'	de	P	P		4	mod	4	mod
+12	un	un	DET	DET	n=s|g=m	13	det	13	det
+13	objet	objet	NC	NC	n=s|g=m	11	prep	11	prep
+14	graphique	graphique	NC	NC	n=s	13	mod	13	mod
+15	aussi	aussi	ADV	ADV		16	mod	16	mod
+16	appelé	appeler	VPP	VPP	n=s|g=m|t=K	13	mod	13	mod
+17	tortue	tortue	NC	NC	n=s|g=f	16	mod	16	mod
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+</p><h2>
+1	Ses	ses	DET	DET	n=p|p=3|poss=s	2	det	2	det
+2	caractéristiques	caractéristique	NC	NC	n=p|g=f	0	_	0	_
+
+</h2><p>
+1	C’	ce	CLS	CLS		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	un	un	DET	DET	n=s|g=m	4	det	4	det
+4	langage	langage	NC	NC	n=s|g=m	2	obj	2	obj
+
+</p><p>
+1	interprété	interpréter	VPP	VPP	n=s|g=m|t=K	12	mod	12	mod
+2	/	/	PONCT	PONCT		1	ponct	1	ponct
+3	pseudo-compilé	_	NPP	NPP		12	suj	12	suj
+4	:	:	PONCT	PONCT		3	ponct	3	ponct
+5	selon	selon	P	P		12	mod	12	mod
+6	les	les	DET	DET	n=p	7	det	7	det
+7	versions	version	NC	NC	n=p|g=f	5	prep	5	prep
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	les	les	DET	DET	n=p	10	det	10	det
+10	instructions	instruction	NC	NC	n=p|g=f	12	suj	12	suj
+11	sont	être	V	V	n=p|t=P|p=3	12	aux_pass	12	aux_pass
+12	exécutées	exécuter	VPP	VPP	n=p|g=f|t=K	0	root	0	root
+13	immédiatement	_	ADV	ADV		12	mod	12	mod
+14	ou	ou	CC	CC		12	coord	12	coord
+15	font	faire	V	V	n=p|t=P|p=3	14	dep_coord	14	dep_coord
+16	l'	le	DET	DET	n=s	17	det	17	det
+17	objet	objet	NC	NC	n=s|g=m	15	obj	15	obj
+18	d'	de	P	P		15	mod	15	mod
+19	un	un	DET	DET	n=s|g=m	20	det	20	det
+20	travail	travail	NC	NC	n=s|g=m	18	prep	18	prep
+21	de	de	P	P		15	mod	15	mod
+22	reconnaissance	reconnaissance	NC	NC	n=s|g=f	21	prep	21	prep
+23	préalable	préalable	NC	NC	n=s|g=m	22	mod	22	mod
+24	par	par	P	P		15	mod	15	mod
+25	le	le	DET	DET	n=s|g=m	26	det	26	det
+26	logiciel	logiciel	NC	NC	n=s|g=m	24	prep	24	prep
+27	;	;	PONCT	PONCT		26	ponct	26	ponct
+
+</p><p>
+1	impératif	impératif	NC	NC	n=s|g=m	4	mod	4	mod
+2	:	:	PONCT	PONCT		1	ponct	1	ponct
+3	il	il	CLS	CLS	n=s|g=m|p=3	4	suj	4	suj
+4	décrit	décrire	V	V	n=s|t=P|p=3	0	root	0	root
+5	une	une	DET	DET	n=s|g=f	6	det	6	det
+6	suite	suite	NC	NC	n=s|g=f	4	obj	4	obj
+7	d’	de	P	P		6	dep	6	dep
+8	instructions	instruction	NC	NC	n=p|g=f	7	prep	7	prep
+9	à	à	P	P		4	mod	4	mod
+10	exécuter	exécuter	VINF	VINF	t=W	9	prep	9	prep
+11	les	les	DET	DET	n=p	12	det	12	det
+12	unes	unes	PRO	PRO	n=p|g=f	10	obj	10	obj
+13	après	après	P	P		10	mod	10	mod
+14	les	les	DET	DET	n=p	15	det	15	det
+15	autres	autres	PRO	PRO	n=p|g=f,m	13	prep	13	prep
+16	;	;	PONCT	PONCT		15	ponct	15	ponct
+
+</p><p>
+1	procédural	_	ADJ	ADJ		4	mod	4	mod
+2	:	:	PONCT	PONCT		1	ponct	1	ponct
+3	il	il	CLS	CLS	n=s|g=m|p=3	4	suj	4	suj
+4	comporte	comporter	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+5	éventuellement	_	ADV	ADV		4	mod	4	mod
+6	des	des	DET	DET	n=p	7	det	7	det
+7	blocs	bloc	NC	NC	n=p|g=m	4	obj	4	obj
+8	de	de	P	P		7	dep	7	dep
+9	calculs	calcul	NC	NC	n=p|g=m	8	prep	8	prep
+10	(	(	PONCT	PONCT		9	ponct	9	ponct
+11	fonctions	fonction	NC	NC	n=p|g=f	7	mod	7	mod
+12	ou	ou	CC	CC		11	coord	11	coord
+13	procédures	procédure	NC	NC	n=p|g=f	12	dep_coord	12	dep_coord
+14	)	)	PONCT	PONCT		13	ponct	13	ponct
+15	désignés	désigner	VPP	VPP	n=p|g=m|t=K	7	mod	7	mod
+16	par	par	P	P		15	mod	15	mod
+17	un	un	DET	DET	n=s|g=m	18	det	18	det
+18	nom	nom	NC	NC	n=s|g=m	16	prep	16	prep
+19	explicite	explicite	ADJ	ADJ	n=s	18	mod	18	mod
+20	;	;	PONCT	PONCT		19	ponct	19	ponct
+
+</p><p>
+1	peu	peu	ADV	ADV		2	mod	2	mod
+2	typé	typer	ADJ	ADJ	n=s|g=m|t=K	6	mod	6	mod
+3	:	:	PONCT	PONCT		2	ponct	2	ponct
+4	les	les	DET	DET	n=p	5	det	5	det
+5	variables	variable	NC	NC	n=p|g=f	6	suj	6	suj
+6	peuvent	pouvoir	V	V	n=p|t=P|p=3	0	root	0	root
+7	tour	tour	NC	NC	n=s	6	obj	6	obj
+8	à	à	P	P		6	mod	6	mod
+9	tour	tour	NC	NC	n=s	8	prep	8	prep
+10	contenir	contenir	VINF	VINF	t=W	6	obj	6	obj
+11	un	un	DET	DET	n=s|g=m	12	det	12	det
+12	mot	mot	NC	NC	n=s|g=m	10	obj	10	obj
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	une	une	DET	DET	n=s|g=f	15	det	15	det
+15	liste	liste	NC	NC	n=s|g=f	10	mod	10	mod
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	un	un	DET	DET	n=s|g=m	18	det	18	det
+18	nombre	nombre	NC	NC	n=s|g=m	10	mod	10	mod
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	un	un	DET	DET	n=s|g=m	21	det	21	det
+21	booléen	booléen	ADJ	ADJ	n=s|g=m	0	_	0	_
+22	ou	ou	CC	CC		21	coord	21	coord
+23	un	un	DET	DET	n=s|g=m	24	det	24	det
+24	nom	nom	NC	NC	n=s|g=m	22	dep_coord	22	dep_coord
+25	de	de	P	P		24	dep	24	dep
+26	couleur	couleur	NC	NC	n=s|g=f	25	prep	25	prep
+27	.	.	PONCT	PONCT		26	ponct	26	ponct
+
+</p><h2>
+1	Son	son	DET	DET	n=s|g=m|p=3|poss=s	2	det	2	det
+2	utilisation	utilisation	NC	NC	n=s|g=f	0	_	0	_
+3	scolaire	scolaire	ADJ	ADJ	n=s	2	mod	2	mod
+
+</h2><p>
+1	Exemple	exemple	NC	NC	n=s|g=m	0	_	0	_
+2	de	de	P	P		1	dep	1	dep
+3	mot	mot	NC	NC	n=s|g=m	2	prep	2	prep
+4	:	:	PONCT	PONCT		3	ponct	3	ponct
+5	"	"	PONCT	PONCT		3	ponct	3	ponct
+6	calendrier	calendrier	NC	NC	n=s|g=m	1	mod	1	mod
+
+</p><p>
+1	Exemple	exemple	NC	NC	n=s|g=m	0	_	0	_
+2	de	de	P	P		1	dep	1	dep
+3	liste	liste	NC	NC	n=s|g=f	2	prep	2	prep
+4	:	:	PONCT	PONCT		3	ponct	3	ponct
+5	[	[	PONCT	PONCT		3	ponct	3	ponct
+6	jeudi	jeudi	NC	NC	n=s|g=m	1	mod	1	mod
+7	24	24	ADJ	ADJ		6	mod	6	mod
+8	octobre	octobre	NC	NC	n=s|g=m	6	mod	6	mod
+9	2075	2075	NC	NC		8	mod	8	mod
+10	]	]	PONCT	PONCT		9	ponct	9	ponct
+
+</p><p>
+1	Exemple	exemple	NC	NC	n=s|g=m	12	mod	12	mod
+2	de	de	P	P		1	dep	1	dep
+3	nombre	nombre	NC	NC	n=s|g=m	2	prep	2	prep
+4	:	:	PONCT	PONCT		3	ponct	3	ponct
+5	12,5	12,5	ADJ	ADJ		1	mod	1	mod
+6	ou	ou	CC	CC		1	coord	1	coord
+7	12.5	12.5	NPP	NPP		6	dep_coord	6	dep_coord
+8	(	(	PONCT	PONCT		7	ponct	7	ponct
+9	le	le	DET	DET	n=s|g=m	10	det	10	det
+10	séparateur	séparateur	NC	NC	n=s|g=m	12	suj	12	suj
+11	décimal	décimal	ADJ	ADJ	n=s|g=m	10	mod	10	mod
+12	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+13	parfois	parfois	ADV	ADV		12	mod	12	mod
+14	indifférent	indifférent	ADJ	ADJ	n=s|g=m	12	ats	12	ats
+15	comme	comme	P	P		12	mod	12	mod
+16	dans	dans	P	P		15	dep	15	dep
+17	la	la	DET	DET	n=s|g=f	18	det	18	det
+18	version	version	NC	NC	n=s|g=f	16	prep	16	prep
+19	Logoplus	_	NPP	NPP		18	mod	18	mod
+20	)	)	PONCT	PONCT		19	ponct	19	ponct
+21	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+</p><p>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	booléens	_	NC	NC		0	_	0	_
+3	vrai	vrai	ADJ	ADJ	n=s|g=m	2	mod	2	mod
+4	et	et	CC	CC		3	coord	3	coord
+5	faux	faux	ADJ	ADJ	g=m	4	dep_coord	4	dep_coord
+6	.	.	PONCT	PONCT		5	ponct	5	ponct
+
+</p><p>
+1	Ce	ce	DET	DET	n=s|g=m	2	det	2	det
+2	langage	langage	NC	NC	n=s|g=m	3	suj	3	suj
+3	a	avoir	V	V	n=s|t=P|p=3	0	root	0	root
+4	d'	de	P	P		3	mod	3	mod
+5	abord	abord	NC	NC	n=s|g=m	4	prep	4	prep
+6	été	être	VPP	VPP	t=K	5	mod	5	mod
+7	utilisé	utiliser	VPP	VPP	n=s|g=m|t=K	5	mod	5	mod
+8	par	par	P	P		7	mod	7	mod
+9	les	les	DET	DET	n=p	10	det	10	det
+10	élèves	élève	NC	NC	n=p	8	prep	8	prep
+11	de	de	P	P		7	mod	7	mod
+12	manière	manière	NC	NC	n=s|g=f	11	prep	11	prep
+13	ponctuelle	ponctuel	ADJ	ADJ	n=s|g=f	12	mod	12	mod
+14	et	et	CC	CC		3	coord	3	coord
+15	autonome	autonome	ADJ	ADJ	n=s	14	dep_coord	14	dep_coord
+16	dans	dans	P	P		3	mod	3	mod
+17	une	une	DET	DET	n=s|g=f	18	det	18	det
+18	démarche	démarche	NC	NC	n=s|g=f	16	prep	16	prep
+19	de	de	P	P		3	mod	3	mod
+20	pédagogie	pédagogie	NC	NC	n=s|g=f	19	prep	19	prep
+21	active	actif	ADJ	ADJ	n=s|g=f	20	mod	20	mod
+22	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+</p><p>
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	utilisation	utilisation	NC	NC	n=s|g=f	5	suj	5	suj
+3	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+4	LOGO	_	NPP	NPP		3	prep	3	prep
+5	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+6	également	_	ADV	ADV		5	mod	5	mod
+7	pleinement	_	ADV	ADV		8	mod	8	mod
+8	efficace	efficace	ADJ	ADJ	n=s	5	ats	5	ats
+9	dans	dans	P	P		5	mod	5	mod
+10	le	le	DET	DET	n=s|g=m	11	det	11	det
+11	cadre	cadre	NC	NC	n=s|g=m	9	prep	9	prep
+12	d'	de	P	P		5	mod	5	mod
+13	un	un	DET	DET	n=s|g=m	14	det	14	det
+14	projet	projet	NC	NC	n=s|g=m	12	prep	12	prep
+15	éducatif	éducatif	ADJ	ADJ	n=s|g=m	14	mod	14	mod
+16	encadré	encadrer	VPP	VPP	n=s|g=m|t=K	14	mod	14	mod
+17	par	par	P	P		16	mod	16	mod
+18	un	un	DET	DET	n=s|g=m	19	det	19	det
+19	adulte	adulte	NC	NC	n=s	17	prep	17	prep
+20	expérimenté	expérimenter	VPP	VPP	n=s|g=m|t=K	19	mod	19	mod
+21	en	en	P	P		20	mod	20	mod
+22	programmation	programmation	NC	NC	n=s|g=f	21	prep	21	prep
+23	informatique	informatique	ADJ	ADJ	n=s	22	mod	22	mod
+24	.	.	PONCT	PONCT		23	ponct	23	ponct
+
+1	Mais	mais	CC	CC		0	root	0	root
+2	cette	cette	DET	DET	n=s|g=f	3	det	3	det
+3	philosophie	philosophie	NC	NC	n=s|g=f	8	suj	8	suj
+4	du	de	P+D	P+D	n=s|g=m	3	dep	3	dep
+5	tout-apprentissage	_	NC	NC		4	prep	4	prep
+6	en	en	P	P		5	dep	5	dep
+7	autonomie	autonomie	NC	NC	n=s|g=f	6	prep	6	prep
+8	diminua	diminuer	V	V	n=s|t=J|p=3	1	dep_coord	1	dep_coord
+9	l'	le	DET	DET	n=s	10	det	10	det
+10	intérêt	intérêt	NC	NC	n=s|g=m	8	obj	8	obj
+11	des	de	P+D	P+D	n=p	8	mod	8	mod
+12	enseignants	enseignant	NC	NC	n=p|g=m	11	prep	11	prep
+13	;	;	PONCT	PONCT		12	ponct	12	ponct
+14	la	la	DET	DET	n=s|g=f	15	det	15	det
+15	fragilité	fragilité	NC	NC	n=s|g=f	8	obj	8	obj
+16	du	de	P+D	P+D	n=s|g=m	15	dep	15	dep
+17	matériel	matériel	NC	NC	n=s|g=m	16	prep	16	prep
+18	informatique	informatique	ADJ	ADJ	n=s	17	mod	17	mod
+19	puis	puis	CC	CC		15	coord	15	coord
+20	l'	le	DET	DET	n=s	21	det	21	det
+21	arrivée	arrivée	NC	NC	n=s|g=f	19	dep_coord	19	dep_coord
+22	d'	de	P	P		21	dep	21	dep
+23	autres	autre	ADJ	ADJ	n=p	24	mod	24	mod
+24	logiciels	logiciel	NC	NC	n=p|g=m	22	prep	22	prep
+25	en	en	CLO	CLO		0	_	0	_
+26	précipita	précipiter	V	V	n=s|t=J|p=3	0	_	0	_
+27	l'	le	DET	DET	n=s	28	det	28	det
+28	abandon	abandon	NC	NC	n=s|g=m	26	obj	26	obj
+29	.	.	PONCT	PONCT		28	ponct	28	ponct
+
+</p><p>
+1	Une	une	DET	DET	n=s|g=f	2	det	2	det
+2	version	version	NC	NC	n=s|g=f	17	suj	17	suj
+3	modernisée	moderniser	VPP	VPP	n=s|g=f|t=K	2	mod	2	mod
+4	(	(	PONCT	PONCT		3	ponct	3	ponct
+5	compatible	compatible	ADJ	ADJ	n=s	2	mod	2	mod
+6	Windows	_	NPP	NPP		2	mod	2	mod
+7	)	)	PONCT	PONCT		6	ponct	6	ponct
+8	,	,	PONCT	PONCT		6	ponct	6	ponct
+9	francophone	francophone	ADJ	ADJ	n=s	2	mod	2	mod
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	gratuite	gratuit	ADJ	ADJ	n=s|g=f	2	mod	2	mod
+12	et	et	CC	CC		11	coord	11	coord
+13	complète	complet	ADJ	ADJ	n=s|g=f	12	dep_coord	12	dep_coord
+14	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+15	langage	langage	NC	NC	n=s|g=m	14	prep	14	prep
+16	LOGO	_	NPP	NPP		15	mod	15	mod
+17	existe	exister	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+18	toujours	toujours	ADV	ADV		17	mod	17	mod
+19	:	:	PONCT	PONCT		18	ponct	18	ponct
+20	LOGOPLUS	_	NPP	NPP		17	obj	17	obj
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	et	et	CC	CC		17	coord	17	coord
+23	est	être	V	V	n=s|t=P|p=3	24	aux_tps	24	aux_tps
+24	conçue	concevoir	VPP	VPP	n=s|g=f|t=K	22	dep_coord	22	dep_coord
+25	pour	pour	P	P		24	mod	24	mod
+26	accompagner	accompagner	VINF	VINF	t=W	25	prep	25	prep
+27	la	la	DET	DET	n=s|g=f	28	det	28	det
+28	scolarité	scolarité	NC	NC	n=s|g=f	26	obj	26	obj
+29	des	de	P+D	P+D	n=p	28	dep	28	dep
+30	élèves	élève	NC	NC	n=p	29	prep	29	prep
+31	et	et	CC	CC		28	coord	28	coord
+32	étudiants	étudiant	NC	NC	n=p|g=m	31	dep_coord	31	dep_coord
+33	en	en	P	P		26	mod	26	mod
+34	sciences	science	NC	NC	n=p|g=f	33	prep	33	prep
+35	mathématiques	mathématique	ADJ	ADJ	n=p	34	mod	34	mod
+36	,	,	PONCT	PONCT		35	ponct	35	ponct
+37	de	de	P	P		26	mod	26	mod
+38	la	la	DET	DET	n=s|g=f	39	det	39	det
+39	fin	fin	NC	NC	n=s	37	prep	37	prep
+40	de	de	P	P		39	dep	39	dep
+41	l'	le	DET	DET	n=s	42	det	42	det
+42	école	école	NC	NC	n=s|g=f	40	prep	40	prep
+43	élémentaire	élémentaire	ADJ	ADJ	n=s	42	mod	42	mod
+44	jusqu'	jusque	P	P		26	mod	26	mod
+45	à	à	P	P		44	dep	44	dep
+46	l'	le	DET	DET	n=s	47	det	47	det
+47	université	université	NC	NC	n=s|g=f	45	prep	45	prep
+48	.	.	PONCT	PONCT		47	ponct	47	ponct
+
+</p><p>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	langages	langage	NC	NC	n=p|g=m	0	_	0	_
+3	actuels	actuel	ADJ	ADJ	n=p|g=m	2	mod	2	mod
+4	proches	proche	ADJ	ADJ	n=p	2	mod	2	mod
+5	de	de	P	P		2	dep	2	dep
+6	la	la	DET	DET	n=s|g=f	7	det	7	det
+7	philosophie	philosophie	NC	NC	n=s|g=f	5	prep	5	prep
+8	LOGO	_	NPP	NPP		7	mod	7	mod
+9	sont	être	V	V	n=p|t=P|p=3	0	_	0	_
+10	Scratch	_	NPP	NPP		9	obj	9	obj
+11	et	et	CC	CC		10	coord	10	coord
+12	SNAP	_	NPP	NPP		11	dep_coord	11	dep_coord
+13	!	!	PONCT	PONCT		12	ponct	12	ponct
+14	pour	pour	P	P		9	mod	9	mod
+15	l'	le	DET	DET	n=s	16	det	16	det
+16	école	école	NC	NC	n=s|g=f	14	prep	14	prep
+17	et	et	CC	CC		16	coord	16	coord
+18	le	le	DET	DET	n=s|g=m	19	det	19	det
+19	collège	collège	NC	NC	n=s|g=m	17	dep_coord	17	dep_coord
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	et	et	CC	CC		9	coord	9	coord
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+23	pour	pour	P	P		0	_	0	_
+24	le	le	DET	DET	n=s|g=m	25	det	25	det
+25	lycée	lycée	NC	NC	n=s|g=m	23	prep	23	prep
+26	ou	ou	CC	CC		25	coord	25	coord
+27	le	le	DET	DET	n=s|g=m	28	det	28	det
+28	supérieur	supérieur	NC	NC	n=s|g=m	26	dep_coord	26	dep_coord
+29	,	,	PONCT	PONCT		28	ponct	28	ponct
+30	Python	_	NPP	NPP		0	_	0	_
+31	.	.	PONCT	PONCT		30	ponct	30	ponct
+
+</p><h2>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	syntaxe	syntaxe	NC	NC	n=s|g=f	0	_	0	_
+3	LOGO	_	NPP	NPP		2	mod	2	mod
+
+</h2><p>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	syntaxe	syntaxe	NC	NC	n=s|g=f	7	suj	7	suj
+3	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+4	langage	langage	NC	NC	n=s|g=m	3	prep	3	prep
+5	LOGO	_	NPP	NPP		4	mod	4	mod
+6	est	être	V	V	n=s|t=P|p=3	7	aux_tps	7	aux_tps
+7	formée	former	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+8	de	de	P	P		7	mod	7	mod
+9	mots-clés	mot-clé	NC	NC	n=p|g=m	8	prep	8	prep
+10	appelés	appeler	VPP	VPP	n=p|g=m|t=K	9	mod	9	mod
+11	"	"	PONCT	PONCT		10	ponct	10	ponct
+12	primitives	primitif	ADJ	ADJ	n=p|g=f	10	mod	10	mod
+13	"	"	PONCT	PONCT		12	ponct	12	ponct
+14	.	.	PONCT	PONCT		12	ponct	12	ponct
+
+1	Ce	ce	CLS	CLS		2	suj	2	suj
+2	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+3	les	les	DET	DET	n=p	4	det	4	det
+4	consignes	consigne	NC	NC	n=p|g=f	2	obj	2	obj
+5	ou	ou	CC	CC		4	coord	4	coord
+6	instructions	instruction	NC	NC	n=p|g=f	5	dep_coord	5	dep_coord
+7	de	de	P	P		2	mod	2	mod
+8	ce	ce	DET	DET	n=s|g=m	9	det	9	det
+9	langage	langage	NC	NC	n=s|g=m	7	prep	7	prep
+10	et	et	CC	CC		2	coord	2	coord
+11	leur	leur	DET	DET	n=s|p=3|poss=p	12	det	12	det
+12	nombre	nombre	NC	NC	n=s|g=m	13	suj	13	suj
+13	varie	varier	V	V	n=s|t=P,S|p=1,3	10	dep_coord	10	dep_coord
+14	selon	selon	P	P		13	mod	13	mod
+15	les	les	DET	DET	n=p	17	det	17	det
+16	différentes	différent	ADJ	ADJ	n=p|g=f	17	mod	17	mod
+17	versions	version	NC	NC	n=p|g=f	14	prep	14	prep
+18	qui	qui	PROREL	PROREL	n=s	19	suj	19	suj
+19	existent	exister	V	V	n=p|t=P,S|p=3	17	mod_rel	17	mod_rel
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	primitives	primitive	NC	NC	n=p|g=f	10	suj	10	suj
+3	qui	qui	PROREL	PROREL	n=s	4	suj	4	suj
+4	comportent	comporter	V	V	n=p|t=P,S|p=3	2	mod_rel	2	mod_rel
+5	un	un	DET	DET	n=s|g=m	7	det	7	det
+6	grand	grand	ADJ	ADJ	n=s|g=m	7	mod	7	mod
+7	nombre	nombre	NC	NC	n=s|g=m	4	obj	4	obj
+8	de	de	P	P		7	dep	7	dep
+9	lettres	lettre	NC	NC	n=p|g=f	8	prep	8	prep
+10	acceptent	accepter	V	V	n=p|t=P,S|p=3	0	root	0	root
+11	parfois	parfois	ADV	ADV		10	mod	10	mod
+12	une	une	DET	DET	n=s|g=f	13	det	13	det
+13	abréviation	abréviation	NC	NC	n=s|g=f	10	obj	10	obj
+14	(	(	PONCT	PONCT		13	ponct	13	ponct
+15	exemple	exemple	NC	NC	n=s|g=m	13	mod	13	mod
+16	:	:	PONCT	PONCT		15	ponct	15	ponct
+17	TOURNEGAUCHE	_	NPP	NPP		15	mod	15	mod
+18	abrév	_	NPP	NPP		15	mod	15	mod
+19	:	:	PONCT	PONCT		18	ponct	18	ponct
+20	TG	_	NPP	NPP		15	mod	15	mod
+21	)	)	PONCT	PONCT		20	ponct	20	ponct
+22	.	.	PONCT	PONCT		20	ponct	20	ponct
+

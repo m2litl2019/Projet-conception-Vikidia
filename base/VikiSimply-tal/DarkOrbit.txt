@@ -1,0 +1,1304 @@
+<p>
+1	DarkOrbit	_	NPP	NPP		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	un	un	DET	DET	n=s|g=m	4	det	4	det
+4	jeu	jeu	NC	NC	n=s|g=m	2	obj	2	obj
+5	en	en	P	P		2	mod	2	mod
+6	ligne	ligne	NC	NC	n=s|g=f	5	prep	5	prep
+7	multijoueurs	_	NC	NC		6	mod	6	mod
+8	dans	dans	P	P		2	mod	2	mod
+9	une	une	DET	DET	n=s|g=f	10	det	10	det
+10	ambiance	ambiance	NC	NC	n=s|g=f	8	prep	8	prep
+11	intergalactique	_	ADJ	ADJ		10	mod	10	mod
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+</p><h2>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	firmes	firme	NC	NC	n=p|g=f	0	_	0	_
+3	et	et	CC	CC		2	coord	2	coord
+4	quêtes	quête	NC	NC	n=p|g=f	3	dep_coord	3	dep_coord
+
+</h2><p>
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	existe	exister	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	trois	trois	DET	DET	s=card|n=p	4	det	4	det
+4	firmes	firme	NC	NC	n=p|g=f	2	obj	2	obj
+5	implantées	implanter	VPP	VPP	n=p|g=f|t=K	4	mod	4	mod
+6	dans	dans	P	P		5	mod	5	mod
+7	différentes	différent	ADJ	ADJ	n=p|g=f	6	prep	6	prep
+8	planètes	planète	NC	NC	n=p|g=f	6	prep	6	prep
+9	.	.	PONCT	PONCT		8	ponct	8	ponct
+
+1	5	5	ADJ	ADJ		2	mod	2	mod
+2	types	type	NC	NC	n=p|g=m	6	suj	6	suj
+3	de	de	P	P		2	dep	2	dep
+4	missions	mission	NC	NC	n=p|g=f	3	prep	3	prep
+5	sont	être	V	V	n=p|t=P|p=3	6	aux_pass	6	aux_pass
+6	proposés	proposer	VPP	VPP	n=p|g=m|t=K	0	root	0	root
+7	par	par	P	P		6	mod	6	mod
+8	votre	votre	DET	DET	n=s|p=2|poss=p	9	det	9	det
+9	firme	firme	NC	NC	n=s|g=f	7	prep	7	prep
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	elle	elle	CLS	CLS	n=s|g=f|p=3	12	suj	12	suj
+12	servent	servir	V	V	n=p|t=P,S|p=3	6	mod	6	mod
+13	à	à	P	P		12	mod	12	mod
+14	gagner	gagner	VINF	VINF	t=W	13	prep	13	prep
+15	de	de	P	P		14	mod	14	mod
+16	l'	le	DET	DET	n=s	17	det	17	det
+17	uridium	_	NC	NC		15	prep	15	prep
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	des	des	DET	DET	n=p	20	det	20	det
+20	points	point	NC	NC	n=p|g=m	12	mod	12	mod
+21	d'	de	P	P		20	dep	20	dep
+22	honneur	honneur	NC	NC	n=s|g=m	21	prep	21	prep
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	d'	de	P	P		12	mod	12	mod
+25	expérience	expérience	NC	NC	n=s|g=f	24	prep	24	prep
+26	et	et	CC	CC		24	coord	24	coord
+27	des	de	P+D	P+D	n=p	26	dep_coord	26	dep_coord
+28	crédits	crédit	NC	NC	n=p|g=m	27	prep	27	prep
+29	.	.	PONCT	PONCT		28	ponct	28	ponct
+
+1	A	à	P	P		10	mod	10	mod
+2	chaque	chaque	DET	DET	n=s	3	det	3	det
+3	montée	montée	NC	NC	n=s|g=f	1	prep	1	prep
+4	de	de	P	P		3	dep	3	dep
+5	niveau	niveau	NC	NC	n=s|g=m	4	prep	4	prep
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	votre	votre	DET	DET	n=s|p=2|poss=p	8	det	8	det
+8	firme	firme	NC	NC	n=s|g=f	10	suj	10	suj
+9	en	en	CLO	CLO		10	obj	10	obj
+10	propose	proposer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+11	des	des	DET	DET	n=p	0	_	0	_
+12	nouvelles	nouveau	ADJ	ADJ	n=p|g=f	0	_	0	_
+13	.	.	PONCT	PONCT		12	ponct	12	ponct
+
+</p><h3>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	skylab	_	NC	NC		0	_	0	_
+
+</h3><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	Skylab	_	NPP	NPP		3	suj	3	suj
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	une	une	DET	DET	n=s|g=f	5	det	5	det
+5	station	station	NC	NC	n=s|g=f	3	obj	3	obj
+6	spatiale	spatial	ADJ	ADJ	n=s|g=f	5	mod	5	mod
+7	en	en	P	P		5	dep	5	dep
+8	orbite	orbite	NC	NC	n=s|g=f	7	prep	7	prep
+9	où	où	PROREL	PROREL		11	obj	11	obj
+10	vous	vous	CLS	CLS	n=p|p=2	11	suj	11	suj
+11	pourrez	pouvoir	V	V	n=p|t=F|p=2	5	mod_rel	5	mod_rel
+12	vendre	vendre	VINF	VINF	t=W	11	obj	11	obj
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	collecter	collecter	VINF	VINF	t=W	12	obj	12	obj
+15	des	des	DET	DET	n=p	16	det	16	det
+16	minéraux	minéral	ADJ	ADJ	n=p|g=m	14	obj	14	obj
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	il	il	CLS	CLS	n=s|g=m|p=3	19	suj	19	suj
+19	existe	exister	V	V	n=s|t=P,S|p=1,3	3	mod	3	mod
+20	plusieurs	plusieurs	DET	DET	n=p	21	det	21	det
+21	types	type	NC	NC	n=p|g=m	19	obj	19	obj
+22	de	de	P	P		21	dep	21	dep
+23	minerais	minerai	NC	NC	n=p|g=m	22	prep	22	prep
+24	:	:	PONCT	PONCT		23	ponct	23	ponct
+
+</p><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	prometium	_	NC	NC		0	_	0	_
+
+</p><p>
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	endurium	_	NC	NC		0	_	0	_
+
+</p><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	terbium	terbium	NC	NC	n=s|g=m	0	_	0	_
+
+</p><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	Prometid	_	NPP	NPP		0	_	0	_
+
+</p><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	duranium	_	NC	NC		0	_	0	_
+
+</p><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	promerium	_	NC	NC		0	_	0	_
+
+</p><p>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	Xenomit	_	NC	NC		0	_	0	_
+
+</p><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	Seprom	_	NPP	NPP		0	_	0	_
+
+</p><h2>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	vaisseaux	vaisseau	NC	NC	n=p|g=m	0	_	0	_
+
+</h2><p>
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	existe	exister	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	en	en	P	P		2	mod	2	mod
+4	tout	tout	DET	DET	n=s|g=m	6	det	6	det
+5	10	10	ADJ	ADJ		6	mod	6	mod
+6	types	type	NC	NC	n=p|g=m	3	prep	3	prep
+7	de	de	P	P		2	mod	2	mod
+8	vaisseaux	vaisseau	NC	NC	n=p|g=m	7	prep	7	prep
+9	et	et	CC	CC		2	coord	2	coord
+10	3	3	ADJ	ADJ		11	mod	11	mod
+11	catégories	catégorie	NC	NC	n=p|g=f	0	_	0	_
+12	:	:	PONCT	PONCT		11	ponct	11	ponct
+
+</p><p>
+1	les	les	DET	DET	n=p	2	det	2	det
+2	starjets	_	NC	NC		5	mod	5	mod
+3	:	:	PONCT	PONCT		2	ponct	2	ponct
+4	ce	ce	CLS	CLS		5	suj	5	suj
+5	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+6	des	des	DET	DET	n=p	8	det	8	det
+7	petits	petit	ADJ	ADJ	n=p|g=m	8	mod	8	mod
+8	vaisseaux	vaisseau	NC	NC	n=p|g=m	5	obj	5	obj
+9	faits	faire	VPP	VPP	n=p|g=m|t=K	8	mod	8	mod
+10	pour	pour	P	P		9	mod	9	mod
+11	des	des	DET	DET	n=p	12	det	12	det
+12	pilotes	pilote	NC	NC	n=p	10	prep	10	prep
+13	débutants	débutant	NC	NC	n=p|g=m	12	mod	12	mod
+14	;	;	PONCT	PONCT		13	ponct	13	ponct
+
+</p><p>
+1	les	les	DET	DET	n=p	2	det	2	det
+2	starfighters	_	NC	NC		5	mod	5	mod
+3	:	:	PONCT	PONCT		2	ponct	2	ponct
+4	ce	ce	CLS	CLS		5	suj	5	suj
+5	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+6	des	des	DET	DET	n=p	7	det	7	det
+7	vaisseaux	vaisseau	NC	NC	n=p|g=m	5	obj	5	obj
+8	supérieurs	supérieur	ADJ	ADJ	n=p|g=m	7	mod	7	mod
+9	en	en	P	P		5	mod	5	mod
+10	qualité	qualité	NC	NC	n=s|g=f	9	prep	9	prep
+11	pour	pour	P	P		5	mod	5	mod
+12	des	des	DET	DET	n=p	13	det	13	det
+13	pilotes	pilote	NC	NC	n=p	11	prep	11	prep
+14	intermédiaires	intermédiaire	ADJ	ADJ	n=p	13	mod	13	mod
+15	;	;	PONCT	PONCT		14	ponct	14	ponct
+
+</p><p>
+1	et	et	CC	CC		0	root	0	root
+2	enfin	enfin	ADV	ADV		4	mod	4	mod
+3	les	les	DET	DET	n=p	4	det	4	det
+4	battlecruisers	_	NC	NC		7	mod	7	mod
+5	:	:	PONCT	PONCT		4	ponct	4	ponct
+6	ce	ce	CLS	CLS		7	suj	7	suj
+7	sont	être	V	V	n=p|t=P|p=3	1	dep_coord	1	dep_coord
+8	des	des	DET	DET	n=p	9	det	9	det
+9	vaisseaux	vaisseau	NC	NC	n=p|g=m	7	obj	7	obj
+10	résistants	résistant	ADJ	ADJ	n=p|g=m	9	mod	9	mod
+11	et	et	CC	CC		10	coord	10	coord
+12	puissants	puissant	ADJ	ADJ	n=p|g=m	11	dep_coord	11	dep_coord
+13	pour	pour	P	P		7	mod	7	mod
+14	les	les	DET	DET	n=p	15	det	15	det
+15	pilotes	pilote	NC	NC	n=p	13	prep	13	prep
+16	confirmés	confirmer	VPP	VPP	n=p|g=m|t=K	15	mod	15	mod
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+</p><h2>
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	expérience	expérience	NC	NC	n=s|g=f	0	_	0	_
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	les	les	DET	DET	n=p	5	det	5	det
+5	niveaux	niveau	NC	NC	n=p|g=m	0	_	0	_
+6	et	et	CC	CC		5	coord	5	coord
+7	l'	le	DET	DET	n=s	8	det	8	det
+8	accès	accès	NC	NC	g=m	6	dep_coord	6	dep_coord
+9	aux	à	P+D	P+D	n=p	5	dep	5	dep
+10	nouvelles	nouveau	ADJ	ADJ	n=p|g=f	11	mod	11	mod
+11	cartes	carte	NC	NC	n=p|g=f	9	prep	9	prep
+
+</h2><p>
+1	Niveau	niveau	NC	NC	n=s|g=m	0	_	0	_
+2	01	01	ADJ	ADJ		1	mod	1	mod
+3	:	:	PONCT	PONCT		2	ponct	2	ponct
+4	0	0	ADJ	ADJ		5	mod	5	mod
+5	point	point	NC	NC	n=s|g=m	1	mod	1	mod
+6	d'	de	P	P		5	dep	5	dep
+7	expérience	expérience	NC	NC	n=s|g=f	6	prep	6	prep
+8	.	.	PONCT	PONCT		7	ponct	7	ponct
+
+1	Donne	donner	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+2	accès	accès	NC	NC	g=m	1	obj	1	obj
+3	aux	à	P+D	P+D	n=p	1	mod	1	mod
+4	cartes	carte	NC	NC	n=p|g=f	3	prep	3	prep
+5	X-1	_	NPP	NPP		4	mod	4	mod
+6	et	et	CC	CC		1	coord	1	coord
+7	X-2	_	NPP	NPP		6	dep_coord	6	dep_coord
+8	de	de	P	P		1	mod	1	mod
+9	votre	votre	DET	DET	n=s|p=2|poss=p	11	det	11	det
+10	propre	propre	ADJ	ADJ	n=s	11	mod	11	mod
+11	firme	firme	NC	NC	n=s|g=f	8	prep	8	prep
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+</p><p>
+1	Niveau	niveau	NC	NC	n=s|g=m	0	_	0	_
+2	02	02	ADJ	ADJ		1	mod	1	mod
+3	:	:	PONCT	PONCT		2	ponct	2	ponct
+4	10_000	10_000	ADJ	ADJ		5	mod	5	mod
+5	points	point	NC	NC	n=p|g=m	1	mod	1	mod
+6	d'	de	P	P		5	dep	5	dep
+7	expérience	expérience	NC	NC	n=s|g=f	6	prep	6	prep
+8	.	.	PONCT	PONCT		7	ponct	7	ponct
+
+1	Donne	donner	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+2	accès	accès	NC	NC	g=m	1	obj	1	obj
+3	aux	à	P+D	P+D	n=p	1	mod	1	mod
+4	cartes	carte	NC	NC	n=p|g=f	3	prep	3	prep
+5	X-3	_	NPP	NPP		4	mod	4	mod
+6	et	et	CC	CC		1	coord	1	coord
+7	X-4	_	NPP	NPP		6	dep_coord	6	dep_coord
+8	de	de	P	P		1	mod	1	mod
+9	votre	votre	DET	DET	n=s|p=2|poss=p	11	det	11	det
+10	propre	propre	ADJ	ADJ	n=s	11	mod	11	mod
+11	firme	firme	NC	NC	n=s|g=f	8	prep	8	prep
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+</p><p>
+1	Niveau	niveau	NC	NC	n=s|g=m	0	_	0	_
+2	03	03	ADJ	ADJ		1	mod	1	mod
+3	:	:	PONCT	PONCT		2	ponct	2	ponct
+4	20_000	20_000	ADJ	ADJ		5	mod	5	mod
+5	points	point	NC	NC	n=p|g=m	1	mod	1	mod
+6	d'	de	P	P		5	dep	5	dep
+7	expérience	expérience	NC	NC	n=s|g=f	6	prep	6	prep
+8	.	.	PONCT	PONCT		7	ponct	7	ponct
+
+1	Donne	donner	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+2	accès	accès	NC	NC	g=m	1	obj	1	obj
+3	direct	direct	ADJ	ADJ	n=s|g=m	2	mod	2	mod
+4	de	de	P	P		1	mod	1	mod
+5	X-3	_	NPP	NPP		4	prep	4	prep
+6	à	à	P	P		1	mod	1	mod
+7	X-4	_	NC	NC		6	prep	6	prep
+8	de	de	P	P		1	mod	1	mod
+9	votre	votre	DET	DET	n=s|p=2|poss=p	11	det	11	det
+10	propre	propre	ADJ	ADJ	n=s	11	mod	11	mod
+11	firme	firme	NC	NC	n=s|g=f	8	prep	8	prep
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+</p><p>
+1	Niveau	niveau	NC	NC	n=s|g=m	0	_	0	_
+2	04	04	ADJ	ADJ		1	mod	1	mod
+3	:	:	PONCT	PONCT		2	ponct	2	ponct
+4	40_000	40_000	ADJ	ADJ		5	mod	5	mod
+5	points	point	NC	NC	n=p|g=m	1	mod	1	mod
+6	d'	de	P	P		5	dep	5	dep
+7	expérience	expérience	NC	NC	n=s|g=f	6	prep	6	prep
+8	.	.	PONCT	PONCT		7	ponct	7	ponct
+
+</p><p>
+1	Niveau	niveau	NC	NC	n=s|g=m	0	_	0	_
+2	05	05	ADJ	ADJ		1	mod	1	mod
+3	:	:	PONCT	PONCT		2	ponct	2	ponct
+4	80_000	80_000	ADJ	ADJ		5	mod	5	mod
+5	points	point	NC	NC	n=p|g=m	1	mod	1	mod
+6	d'	de	P	P		5	dep	5	dep
+7	expérience	expérience	NC	NC	n=s|g=f	6	prep	6	prep
+8	.	.	PONCT	PONCT		7	ponct	7	ponct
+
+1	Donne	donner	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+2	accès	accès	NC	NC	g=m	1	obj	1	obj
+3	aux	à	P+D	P+D	n=p	1	mod	1	mod
+4	cartes	carte	NC	NC	n=p|g=f	3	prep	3	prep
+5	X-3	_	NPP	NPP		4	mod	4	mod
+6	ou	ou	CC	CC		1	coord	1	coord
+7	X-4	_	NC	NC		6	dep_coord	6	dep_coord
+8	des	de	P+D	P+D	n=p	1	mod	1	mod
+9	firmes	firme	NC	NC	n=p|g=f	8	prep	8	prep
+10	adverses	adverse	ADJ	ADJ	n=p	9	mod	9	mod
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+</p><p>
+1	Niveau	niveau	NC	NC	n=s|g=m	0	_	0	_
+2	06	06	ADJ	ADJ		1	mod	1	mod
+3	:	:	PONCT	PONCT		2	ponct	2	ponct
+4	160_000	160_000	ADJ	ADJ		5	mod	5	mod
+5	points	point	NC	NC	n=p|g=m	1	mod	1	mod
+6	d'	de	P	P		5	dep	5	dep
+7	expérience	expérience	NC	NC	n=s|g=f	6	prep	6	prep
+8	.	.	PONCT	PONCT		7	ponct	7	ponct
+
+1	Donne	donner	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+2	accès	accès	NC	NC	g=m	1	obj	1	obj
+3	direct	direct	ADJ	ADJ	n=s|g=m	2	mod	2	mod
+4	de	de	P	P		1	mod	1	mod
+5	X-3	_	NPP	NPP		4	prep	4	prep
+6	à	à	P	P		1	mod	1	mod
+7	X-4	_	NC	NC		6	prep	6	prep
+8	des	de	P+D	P+D	n=p	1	mod	1	mod
+9	firmes	firme	NC	NC	n=p|g=f	8	prep	8	prep
+10	adverses	adverse	ADJ	ADJ	n=p	9	mod	9	mod
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+</p><p>
+1	Niveau	niveau	NC	NC	n=s|g=m	0	_	0	_
+2	07	07	ADJ	ADJ		1	mod	1	mod
+3	:	:	PONCT	PONCT		2	ponct	2	ponct
+4	320_000	320_000	ADJ	ADJ		5	mod	5	mod
+5	points	point	NC	NC	n=p|g=m	1	mod	1	mod
+6	d'	de	P	P		5	dep	5	dep
+7	expérience	expérience	NC	NC	n=s|g=f	6	prep	6	prep
+8	.	.	PONCT	PONCT		7	ponct	7	ponct
+
+</p><p>
+1	Niveau	niveau	NC	NC	n=s|g=m	0	_	0	_
+2	08	08	ADJ	ADJ		1	mod	1	mod
+3	:	:	PONCT	PONCT		2	ponct	2	ponct
+4	640_000	640_000	ADJ	ADJ		5	mod	5	mod
+5	points	point	NC	NC	n=p|g=m	1	mod	1	mod
+6	d'	de	P	P		5	dep	5	dep
+7	expérience	expérience	NC	NC	n=s|g=f	6	prep	6	prep
+8	.	.	PONCT	PONCT		7	ponct	7	ponct
+
+1	Donne	donner	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+2	accès	accès	NC	NC	g=m	1	obj	1	obj
+3	aux	à	P+D	P+D	n=p	1	mod	1	mod
+4	cartes	carte	NC	NC	n=p|g=f	3	prep	3	prep
+5	PvP	_	NPP	NPP		4	mod	4	mod
+6	4-1	_	NPP	NPP		4	mod	4	mod
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	4-2	_	NPP	NPP		4	mod	4	mod
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	4-3	_	NPP	NPP		4	mod	4	mod
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+</p><p>
+1	Niveau	niveau	NC	NC	n=s|g=m	0	_	0	_
+2	09	09	ADJ	ADJ		1	mod	1	mod
+3	:	:	PONCT	PONCT		2	ponct	2	ponct
+4	1_280_000	1_280_000	ADJ	ADJ		5	mod	5	mod
+5	points	point	NC	NC	n=p|g=m	1	mod	1	mod
+6	d'	de	P	P		5	dep	5	dep
+7	expérience	expérience	NC	NC	n=s|g=f	6	prep	6	prep
+8	.	.	PONCT	PONCT		7	ponct	7	ponct
+
+1	Donne	donner	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+2	accès	accès	NC	NC	g=m	1	obj	1	obj
+3	à	à	P	P		1	mod	1	mod
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	carte	carte	NC	NC	n=s|g=f	3	prep	3	prep
+6	PvP	_	NPP	NPP		5	mod	5	mod
+7	4-4	_	NPP	NPP		5	mod	5	mod
+8	.	.	PONCT	PONCT		7	ponct	7	ponct
+
+</p><p>
+1	Niveau	niveau	NC	NC	n=s|g=m	0	_	0	_
+2	10	10	ADJ	ADJ		1	mod	1	mod
+3	:	:	PONCT	PONCT		2	ponct	2	ponct
+4	2_560_000	2_560_000	ADJ	ADJ		5	mod	5	mod
+5	points	point	NC	NC	n=p|g=m	1	mod	1	mod
+6	d'	de	P	P		5	dep	5	dep
+7	expérience	expérience	NC	NC	n=s|g=f	6	prep	6	prep
+8	.	.	PONCT	PONCT		7	ponct	7	ponct
+
+1	Donne	donner	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+2	accès	accès	NC	NC	g=m	1	obj	1	obj
+3	à	à	P	P		1	mod	1	mod
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	carte	carte	NC	NC	n=s|g=f	3	prep	3	prep
+6	X-5	_	NPP	NPP		5	mod	5	mod
+7	de	de	P	P		1	mod	1	mod
+8	votre	votre	DET	DET	n=s|p=2|poss=p	10	det	10	det
+9	propre	propre	ADJ	ADJ	n=s	10	mod	10	mod
+10	firme	firme	NC	NC	n=s|g=f	7	prep	7	prep
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+</p><p>
+1	Niveau	niveau	NC	NC	n=s|g=m	0	_	0	_
+2	11	11	ADJ	ADJ		1	mod	1	mod
+3	:	:	PONCT	PONCT		2	ponct	2	ponct
+4	5_120_000	5_120_000	ADJ	ADJ		5	mod	5	mod
+5	points	point	NC	NC	n=p|g=m	1	mod	1	mod
+6	d'	de	P	P		5	dep	5	dep
+7	expérience	expérience	NC	NC	n=s|g=f	6	prep	6	prep
+8	.	.	PONCT	PONCT		7	ponct	7	ponct
+
+1	Donne	donner	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+2	accès	accès	NC	NC	g=m	1	obj	1	obj
+3	aux	à	P+D	P+D	n=p	1	mod	1	mod
+4	cartes	carte	NC	NC	n=p|g=f	3	prep	3	prep
+5	X-6	_	NPP	NPP		4	mod	4	mod
+6	et	et	CC	CC		1	coord	1	coord
+7	X-7	_	NPP	NPP		6	dep_coord	6	dep_coord
+8	de	de	P	P		1	mod	1	mod
+9	votre	votre	DET	DET	n=s|p=2|poss=p	11	det	11	det
+10	propre	propre	ADJ	ADJ	n=s	11	mod	11	mod
+11	firme	firme	NC	NC	n=s|g=f	8	prep	8	prep
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+</p><p>
+1	Niveau	niveau	NC	NC	n=s|g=m	0	_	0	_
+2	12	12	ADJ	ADJ		1	mod	1	mod
+3	:	:	PONCT	PONCT		2	ponct	2	ponct
+4	10_240_000	10_240_000	ADJ	ADJ		5	mod	5	mod
+5	points	point	NC	NC	n=p|g=m	1	mod	1	mod
+6	d'	de	P	P		5	dep	5	dep
+7	expérience	expérience	NC	NC	n=s|g=f	6	prep	6	prep
+8	.	.	PONCT	PONCT		7	ponct	7	ponct
+
+1	Donne	donner	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+2	accès	accès	NC	NC	g=m	1	obj	1	obj
+3	à	à	P	P		1	mod	1	mod
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	carte	carte	NC	NC	n=s|g=f	3	prep	3	prep
+6	X-8	_	NPP	NPP		5	mod	5	mod
+7	de	de	P	P		1	mod	1	mod
+8	votre	votre	DET	DET	n=s|p=2|poss=p	10	det	10	det
+9	propre	propre	ADJ	ADJ	n=s	10	mod	10	mod
+10	firme	firme	NC	NC	n=s|g=f	7	prep	7	prep
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+</p><p>
+1	Niveau	niveau	NC	NC	n=s|g=m	0	_	0	_
+2	13	13	ADJ	ADJ		1	mod	1	mod
+3	:	:	PONCT	PONCT		2	ponct	2	ponct
+4	20_480_000	20_480_000	ADJ	ADJ		5	mod	5	mod
+5	points	point	NC	NC	n=p|g=m	1	mod	1	mod
+6	d'	de	P	P		5	dep	5	dep
+7	expérience	expérience	NC	NC	n=s|g=f	6	prep	6	prep
+8	.	.	PONCT	PONCT		7	ponct	7	ponct
+
+1	Donne	donner	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+2	accès	accès	NC	NC	g=m	1	obj	1	obj
+3	à	à	P	P		1	mod	1	mod
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	carte	carte	NC	NC	n=s|g=f	3	prep	3	prep
+6	X-2	_	NC	NC		5	mod	5	mod
+7	des	de	P+D	P+D	n=p	1	mod	1	mod
+8	firmes	firme	NC	NC	n=p|g=f	7	prep	7	prep
+9	adverses	adverse	ADJ	ADJ	n=p	8	mod	8	mod
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+</p><p>
+1	Niveau	niveau	NC	NC	n=s|g=m	0	_	0	_
+2	14	14	ADJ	ADJ		1	mod	1	mod
+3	:	:	PONCT	PONCT		2	ponct	2	ponct
+4	40_960_000	40_960_000	ADJ	ADJ		5	mod	5	mod
+5	points	point	NC	NC	n=p|g=m	1	mod	1	mod
+6	d'	de	P	P		5	dep	5	dep
+7	expérience	expérience	NC	NC	n=s|g=f	6	prep	6	prep
+8	.	.	PONCT	PONCT		7	ponct	7	ponct
+
+1	Donne	donner	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+2	accès	accès	NC	NC	g=m	1	obj	1	obj
+3	à	à	P	P		1	mod	1	mod
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	carte	carte	NC	NC	n=s|g=f	3	prep	3	prep
+6	X-5	_	NC	NC		5	mod	5	mod
+7	des	de	P+D	P+D	n=p	1	mod	1	mod
+8	firmes	firme	NC	NC	n=p|g=f	7	prep	7	prep
+9	adverses	adverse	ADJ	ADJ	n=p	8	mod	8	mod
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+</p><p>
+1	Niveau	niveau	NC	NC	n=s|g=m	0	_	0	_
+2	15	15	ADJ	ADJ		1	mod	1	mod
+3	:	:	PONCT	PONCT		2	ponct	2	ponct
+4	81_920_000	81_920_000	ADJ	ADJ		5	mod	5	mod
+5	points	point	NC	NC	n=p|g=m	1	mod	1	mod
+6	d'	de	P	P		5	dep	5	dep
+7	expérience	expérience	NC	NC	n=s|g=f	6	prep	6	prep
+8	.	.	PONCT	PONCT		7	ponct	7	ponct
+
+1	Donne	donner	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+2	accès	accès	NC	NC	g=m	1	obj	1	obj
+3	aux	à	P+D	P+D	n=p	1	mod	1	mod
+4	cartes	carte	NC	NC	n=p|g=f	3	prep	3	prep
+5	X-6	_	NPP	NPP		4	mod	4	mod
+6	et	et	CC	CC		1	coord	1	coord
+7	X-7	_	NC	NC		6	dep_coord	6	dep_coord
+8	des	de	P+D	P+D	n=p	7	dep	7	dep
+9	firmes	firme	NC	NC	n=p|g=f	8	prep	8	prep
+10	adverses	adverse	ADJ	ADJ	n=p	9	mod	9	mod
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+</p><p>
+1	Niveau	niveau	NC	NC	n=s|g=m	0	_	0	_
+2	16	16	ADJ	ADJ		1	mod	1	mod
+3	:	:	PONCT	PONCT		2	ponct	2	ponct
+4	163_840_000	163_840_000	ADJ	ADJ		5	mod	5	mod
+5	points	point	NC	NC	n=p|g=m	1	mod	1	mod
+6	d'	de	P	P		5	dep	5	dep
+7	expérience	expérience	NC	NC	n=s|g=f	6	prep	6	prep
+8	.	.	PONCT	PONCT		7	ponct	7	ponct
+
+1	Donne	donner	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+2	accès	accès	NC	NC	g=m	1	obj	1	obj
+3	à	à	P	P		1	mod	1	mod
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	carte	carte	NC	NC	n=s|g=f	3	prep	3	prep
+6	X-1	_	NC	NC		5	mod	5	mod
+7	des	de	P+D	P+D	n=p	1	mod	1	mod
+8	firmes	firme	NC	NC	n=p|g=f	7	prep	7	prep
+9	adverses	adverse	ADJ	ADJ	n=p	8	mod	8	mod
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+1	Vous	vous	CLS	CLS	n=p|p=2	2	suj	2	suj
+2	pouvez	pouvoir	V	V	n=p|t=P|p=2	0	root	0	root
+3	atteindre	atteindre	VINF	VINF	t=W	2	obj	2	obj
+4	les	les	DET	DET	n=p	5	det	5	det
+5	stations	station	NC	NC	n=p|g=f	3	obj	3	obj
+6	spatiales	spatial	ADJ	ADJ	n=p|g=f	5	mod	5	mod
+7	ennemies	ennemi	NC	NC	n=p|g=f	5	mod	5	mod
+8	dans	dans	P	P		3	mod	3	mod
+9	l'	le	DET	DET	n=s	11	det	11	det
+10	ancien	ancien	ADJ	ADJ	n=s|g=m	11	mod	11	mod
+11	univers	univers	NC	NC	g=m	8	prep	8	prep
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+</p><p>
+1	Niveau	niveau	NC	NC	n=s|g=m	0	_	0	_
+2	17	17	ADJ	ADJ		1	mod	1	mod
+3	:	:	PONCT	PONCT		2	ponct	2	ponct
+4	327_680_000	327_680_000	ADJ	ADJ		5	mod	5	mod
+5	points	point	NC	NC	n=p|g=m	1	mod	1	mod
+6	d'	de	P	P		5	dep	5	dep
+7	expérience	expérience	NC	NC	n=s|g=f	6	prep	6	prep
+8	.	.	PONCT	PONCT		7	ponct	7	ponct
+
+1	Donne	donner	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+2	accès	accès	NC	NC	g=m	1	obj	1	obj
+3	à	à	P	P		1	mod	1	mod
+4	toutes	tout	ADJ	ADJ	n=p|g=f	6	mod	6	mod
+5	les	les	DET	DET	n=p	6	det	6	det
+6	cartes	carte	NC	NC	n=p|g=f	3	prep	3	prep
+7	.	.	PONCT	PONCT		6	ponct	6	ponct
+
+</p><p>
+1	Niveau	niveau	NC	NC	n=s|g=m	0	_	0	_
+2	18	18	ADJ	ADJ		1	mod	1	mod
+3	:	:	PONCT	PONCT		2	ponct	2	ponct
+4	655_360_000	655_360_000	ADJ	ADJ		5	mod	5	mod
+5	points	point	NC	NC	n=p|g=m	1	mod	1	mod
+6	d'	de	P	P		5	dep	5	dep
+7	expérience	expérience	NC	NC	n=s|g=f	6	prep	6	prep
+8	.	.	PONCT	PONCT		7	ponct	7	ponct
+
+</p><p>
+1	Niveau	niveau	NC	NC	n=s|g=m	0	_	0	_
+2	19	19	ADJ	ADJ		1	mod	1	mod
+3	:	:	PONCT	PONCT		2	ponct	2	ponct
+4	1_310_720_000	1_310_720_000	ADJ	ADJ		5	mod	5	mod
+5	points	point	NC	NC	n=p|g=m	1	mod	1	mod
+6	d'	de	P	P		5	dep	5	dep
+7	expérience	expérience	NC	NC	n=s|g=f	6	prep	6	prep
+8	.	.	PONCT	PONCT		7	ponct	7	ponct
+
+</p><p>
+1	Niveau	niveau	NC	NC	n=s|g=m	0	_	0	_
+2	20	20	ADJ	ADJ		1	mod	1	mod
+3	:	:	PONCT	PONCT		2	ponct	2	ponct
+4	2_621_440_000	2_621_440_000	ADJ	ADJ		5	mod	5	mod
+5	points	point	NC	NC	n=p|g=m	1	mod	1	mod
+6	d'	de	P	P		5	dep	5	dep
+7	expérience	expérience	NC	NC	n=s|g=f	6	prep	6	prep
+8	.	.	PONCT	PONCT		7	ponct	7	ponct
+
+</p><p>
+1	Niveau	niveau	NC	NC	n=s|g=m	0	_	0	_
+2	21	21	ADJ	ADJ		1	mod	1	mod
+3	:	:	PONCT	PONCT		2	ponct	2	ponct
+4	5_242_880_000	5_242_880_000	ADJ	ADJ		5	mod	5	mod
+5	points	point	NC	NC	n=p|g=m	1	mod	1	mod
+6	d'	de	P	P		5	dep	5	dep
+7	expérience	expérience	NC	NC	n=s|g=f	6	prep	6	prep
+8	.	.	PONCT	PONCT		7	ponct	7	ponct
+
+</p><p>
+1	Niveau	niveau	NC	NC	n=s|g=m	0	_	0	_
+2	22	22	ADJ	ADJ		1	mod	1	mod
+3	:	:	PONCT	PONCT		2	ponct	2	ponct
+4	10_485_760_000	10_485_760_000	ADJ	ADJ		5	mod	5	mod
+5	points	point	NC	NC	n=p|g=m	1	mod	1	mod
+6	d'	de	P	P		5	dep	5	dep
+7	expérience	expérience	NC	NC	n=s|g=f	6	prep	6	prep
+8	.	.	PONCT	PONCT		7	ponct	7	ponct
+
+</p><p>
+1	Quand	quand	CS	CS		8	mod	8	mod
+2	vous	vous	CLS	CLS	n=p|p=2	3	suj	3	suj
+3	montez	monter	V	V	n=p|t=P|p=2	1	sub	1	sub
+4	en	en	P	P		3	mod	3	mod
+5	niveaux	niveau	NC	NC	n=p|g=m	4	prep	4	prep
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	vous	vous	CLS	CLS	n=p|p=2	8	suj	8	suj
+8	pouvez	pouvoir	V	V	n=p|t=P|p=2	0	root	0	root
+9	accéder	accéder	VINF	VINF	t=W	8	obj	8	obj
+10	à	à	P	P		9	mod	9	mod
+11	d'	de	DET	DET	n=p	13	det	13	det
+12	autres	autre	ADJ	ADJ	n=p	13	mod	13	mod
+13	cartes	carte	NC	NC	n=p|g=f	10	prep	10	prep
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+</p><h2>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	équipements	équipement	NC	NC	n=p|g=m	0	_	0	_
+
+</h2><p>
+1	Pour	pour	P	P		11	mod	11	mod
+2	améliorer	améliorer	VINF	VINF	t=W	1	prep	1	prep
+3	votre	votre	DET	DET	n=s|p=2|poss=p	4	det	4	det
+4	vaisseau	vaisseau	NC	NC	n=s|g=m	2	obj	2	obj
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	une	une	DET	DET	n=s|g=f	7	det	7	det
+7	multitude	multitude	NC	NC	n=s|g=f	11	suj	11	suj
+8	d'	de	P	P		7	dep	7	dep
+9	équipements	équipement	NC	NC	n=p|g=m	8	prep	8	prep
+10	est	être	V	V	n=s|t=P|p=3	11	aux_pass	11	aux_pass
+11	proposée	proposer	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+1	Certains	certain	DET	DET	n=p|g=m	2	det	2	det
+2	équipements	équipement	NC	NC	n=p|g=m	3	suj	3	suj
+3	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+4	à	à	P	P		3	mod	3	mod
+5	acheter	acheter	VINF	VINF	t=W	4	prep	4	prep
+6	en	en	P	P		5	mod	5	mod
+7	crédit	crédit	NC	NC	n=s|g=m	6	prep	6	prep
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	d'	de	DET	DET	n=p	10	det	10	det
+10	autres	autres	PRO	PRO	n=p|g=f,m	3	ats	3	ats
+11	en	en	P	P		10	dep	10	dep
+12	uridium	_	NC	NC		11	prep	11	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	d'	de	DET	DET	n=p	15	det	15	det
+15	autres	autres	PRO	PRO	n=p|g=f,m	0	_	0	_
+16	encore	encore	ADV	ADV		17	mod	17	mod
+17	aux	à	P+D	P+D	n=p	15	dep	15	dep
+18	enchères	enchère	NC	NC	n=p|g=f	17	prep	17	prep
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+</p><h3>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	clan	clan	NC	NC	n=s|g=m	0	_	0	_
+
+</h3><p>
+1	Un	un	DET	DET	n=s|g=m	2	det	2	det
+2	clan	clan	NC	NC	n=s|g=m	3	suj	3	suj
+3	peut	pouvoir	V	V	n=s|t=P|p=3	0	root	0	root
+4	être	être	VINF	VINF	t=W	5	aux_pass	5	aux_pass
+5	créé	créer	VPP	VPP	n=s|g=m|t=K	3	obj	3	obj
+6	pour	pour	P	P		5	mod	5	mod
+7	300_000	300_000	ADJ	ADJ		6	prep	6	prep
+8	crédits	crédit	NC	NC	n=p|g=m	6	prep	6	prep
+9	.	.	PONCT	PONCT		8	ponct	8	ponct
+
+1	Sinon	sinon	ADV	ADV		4	mod	4	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	on	on	CLS	CLS	n=s|p=3	4	suj	4	suj
+4	peut	pouvoir	V	V	n=s|t=P|p=3	0	root	0	root
+5	aussi	aussi	ADV	ADV		4	mod	4	mod
+6	rejoindre	rejoindre	VINF	VINF	t=W	4	obj	4	obj
+7	un	un	DET	DET	n=s|g=m	8	det	8	det
+8	clan	clan	NC	NC	n=s|g=m	6	obj	6	obj
+9	pour	pour	P	P		6	mod	6	mod
+10	1_500	1_500	ADJ	ADJ		11	mod	11	mod
+11	crédits	crédit	NC	NC	n=p|g=m	9	prep	9	prep
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+1	Un	un	DET	DET	n=s|g=m	2	det	2	det
+2	clan	clan	NC	NC	n=s|g=m	3	suj	3	suj
+3	peut	pouvoir	V	V	n=s|t=P|p=3	0	root	0	root
+4	comporter	comporter	VINF	VINF	t=W	3	obj	3	obj
+5	50	50	ADJ	ADJ		6	mod	6	mod
+6	membres	membre	NC	NC	n=p|g=m	4	obj	4	obj
+7	au	à	P+D	P+D	n=s|g=m	4	mod	4	mod
+8	maximum	maximum	NC	NC	n=s|g=m	7	prep	7	prep
+9	.	.	PONCT	PONCT		8	ponct	8	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	clan	clan	NC	NC	n=s|g=m	3	suj	3	suj
+3	peut	pouvoir	V	V	n=s|t=P|p=3	0	root	0	root
+4	faire	faire	VINF	VINF	t=W	3	obj	3	obj
+5	des	des	DET	DET	n=p	6	det	6	det
+6	pactes	pacte	NC	NC	n=p|g=m	4	obj	4	obj
+7	de	de	P	P		6	dep	6	dep
+8	non-agression	non-agression	NC	NC	n=s|g=f	7	prep	7	prep
+9	avec	avec	P	P		4	mod	4	mod
+10	d'	de	DET	DET	n=p	12	det	12	det
+11	autres	autre	ADJ	ADJ	n=p	12	mod	12	mod
+12	clans	clan	NC	NC	n=p|g=m	9	prep	9	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	des	des	DET	DET	n=p	15	det	15	det
+15	guerres	guerre	NC	NC	n=p|g=f	4	mod	4	mod
+16	ou	ou	CC	CC		15	coord	15	coord
+17	même	même	ADV	ADV		16	mod	16	mod
+18	des	des	DET	DET	n=p	19	det	19	det
+19	alliances	alliance	NC	NC	n=p|g=f	16	dep_coord	16	dep_coord
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	il	il	CLS	CLS	n=s|g=m|p=3	24	suj	24	suj
+22	y	y	CLO	CLO		24	obj	24	obj
+23	en	en	CLO	CLO		24	a_obj	24	a_obj
+24	a	avoir	V	V	n=s|t=P|p=3	3	mod	3	mod
+25	pour	pour	P	P		24	mod	24	mod
+26	tous	tout	ADJ	ADJ	n=p|g=m	28	mod	28	mod
+27	les	les	DET	DET	n=p	28	det	28	det
+28	types	type	NC	NC	n=p|g=m	25	prep	25	prep
+29	de	de	P	P		28	dep	28	dep
+30	clans	clan	NC	NC	n=p|g=m	29	prep	29	prep
+31	.	.	PONCT	PONCT		30	ponct	30	ponct
+
+</p><h3>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	armes	arme	NC	NC	n=p|g=f	0	_	0	_
+
+</h3><p>
+1	Pour	pour	P	P		14	mod	14	mod
+2	vous	vous	CLO	CLO	n=p|p=2	3	obj	3	obj
+3	défendre	défendre	VINF	VINF	t=W	1	prep	1	prep
+4	contre	contre	P	P		3	mod	3	mod
+5	les	les	DET	DET	n=p	6	det	6	det
+6	vaisseaux	vaisseau	NC	NC	n=p|g=m	4	prep	4	prep
+7	extraterrestres	extraterrestre	ADJ	ADJ	n=p	6	mod	6	mod
+8	et	et	CC	CC		3	coord	3	coord
+9	les	les	DET	DET	n=p	10	det	10	det
+10	vaisseaux	vaisseau	NC	NC	n=p|g=m	8	dep_coord	8	dep_coord
+11	ennemis	ennemi	ADJ	ADJ	n=p|g=m	10	mod	10	mod
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	vous	vous	CLS	CLS	n=p|p=2	14	suj	14	suj
+14	pouvez	pouvoir	V	V	n=p|t=P|p=2	0	root	0	root
+15	acquérir	acquérir	VINF	VINF	t=W	14	obj	14	obj
+16	différentes	différent	ADJ	ADJ	n=p|g=f	17	mod	17	mod
+17	armes	arme	NC	NC	n=p|g=f	15	obj	15	obj
+18	:	:	PONCT	PONCT		17	ponct	17	ponct
+
+</p><p>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	lasers	laser	NC	NC	n=p|g=m	0	_	0	_
+3	:	:	PONCT	PONCT		2	ponct	2	ponct
+4	LF1	_	NC	NC		2	mod	2	mod
+5	:	:	PONCT	PONCT		4	ponct	4	ponct
+6	30	30	ADJ	ADJ		7	mod	7	mod
+7	dégâts	dégât	NC	NC	n=p|g=m	2	mod	2	mod
+8	/	/	PONCT	PONCT		7	ponct	7	ponct
+9	tir	tir	NC	NC	n=s|g=m	2	mod	2	mod
+10	;	;	PONCT	PONCT		9	ponct	9	ponct
+11	MP1	_	NPP	NPP		9	mod	9	mod
+12	:	:	PONCT	PONCT		11	ponct	11	ponct
+13	60	60	ADJ	ADJ		14	mod	14	mod
+14	dégâts	dégât	NC	NC	n=p|g=m	9	mod	9	mod
+15	/	/	PONCT	PONCT		14	ponct	14	ponct
+16	tir	tir	NC	NC	n=s|g=m	2	mod	2	mod
+17	;	;	PONCT	PONCT		16	ponct	16	ponct
+18	LF2	_	NPP	NPP		2	mod	2	mod
+19	:	:	PONCT	PONCT		18	ponct	18	ponct
+20	100	100	ADJ	ADJ		21	mod	21	mod
+21	dégâts	dégât	NC	NC	n=p|g=m	2	mod	2	mod
+22	/	/	PONCT	PONCT		21	ponct	21	ponct
+23	tir	tir	NC	NC	n=s|g=m	2	mod	2	mod
+24	;	;	PONCT	PONCT		23	ponct	23	ponct
+25	LF3	_	NPP	NPP		23	mod	23	mod
+26	:	:	PONCT	PONCT		25	ponct	25	ponct
+27	150	150	ADJ	ADJ		28	mod	28	mod
+28	dégâts	dégât	NC	NC	n=p|g=m	23	mod	23	mod
+29	/	/	PONCT	PONCT		28	ponct	28	ponct
+30	tir	tir	NC	NC	n=s|g=m	23	mod	23	mod
+31	;	;	PONCT	PONCT		30	ponct	30	ponct
+32	LF4	_	NPP	NPP		23	mod	23	mod
+33	:	:	PONCT	PONCT		32	ponct	32	ponct
+34	200	200	ADJ	ADJ		35	mod	35	mod
+35	dégâts	dégât	NC	NC	n=p|g=m	23	mod	23	mod
+36	/	/	PONCT	PONCT		35	ponct	35	ponct
+37	tir	tir	NC	NC	n=s|g=m	2	mod	2	mod
+38	.	.	PONCT	PONCT		37	ponct	37	ponct
+
+</p><p>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	munitions	munition	NC	NC	n=p|g=f	0	_	0	_
+3	de	de	P	P		2	dep	2	dep
+4	laser	laser	NC	NC	n=s|g=m	3	prep	3	prep
+5	:	:	PONCT	PONCT		4	ponct	4	ponct
+6	6	6	ADJ	ADJ		7	mod	7	mod
+7	types	type	NC	NC	n=p|g=m	2	mod	2	mod
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	qui	qui	PROREL	PROREL	n=s	10	suj	10	suj
+10	boostent	booster	V	V	n=p|t=P,S|p=3	2	mod_rel	2	mod_rel
+11	jusqu'	jusque	P	P		10	mod	10	mod
+12	à	à	P	P		11	prep	11	prep
+13	6	6	ADJ	ADJ		14	mod	14	mod
+14	fois	fois	NC	NC	g=f	12	prep	12	prep
+15	la	la	DET	DET	n=s|g=f	16	det	16	det
+16	puissance	puissance	NC	NC	n=s|g=f	10	obj	10	obj
+17	de	de	P	P		16	dep	16	dep
+18	tir	tir	NC	NC	n=s|g=m	17	prep	17	prep
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+</p><p>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	roquettes	roquette	NC	NC	n=p|g=f	7	suj	7	suj
+3	:	:	PONCT	PONCT		2	ponct	2	ponct
+4	7	7	ADJ	ADJ		5	mod	5	mod
+5	types	type	NC	NC	n=p|g=m	2	mod	2	mod
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	vont	aller	V	V	n=p|t=P|p=3	0	root	0	root
+8	jusqu'	jusque	P	P		7	mod	7	mod
+9	à	à	P	P		8	prep	8	prep
+10	45_000	45_000	ADJ	ADJ		11	mod	11	mod
+11	dégâts	dégât	NC	NC	n=p|g=m	9	prep	9	prep
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+</p><p>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	mines	mine	NC	NC	n=p|g=f	0	_	0	_
+3	(	(	PONCT	PONCT		2	ponct	2	ponct
+4	4	4	ADJ	ADJ		2	mod	2	mod
+5	types	type	NC	NC	n=p|g=m	2	mod	2	mod
+6	mine	mine	NC	NC	n=s|g=f	2	mod	2	mod
+7	anti-camouflage	_	NC	NC		2	mod	2	mod
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	10	10	ADJ	ADJ		10	mod	10	mod
+10	%	%	NC	NC	g=m	2	mod	2	mod
+11	de	de	P	P		10	dep	10	dep
+12	dégâts	dégât	NC	NC	n=p|g=m	11	prep	11	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	mine	mine	NC	NC	n=s|g=f	2	mod	2	mod
+15	ralentis	ralentir	VPP	VPP	n=p|g=m|t=K	2	mod	2	mod
+16	(	(	PONCT	PONCT		15	ponct	15	ponct
+17	la	la	DET	DET	n=s|g=f	18	det	18	det
+18	préférée	préféré	NC	NC	n=s|g=f	2	mod	2	mod
+19	des	de	P+D	P+D	n=p	18	dep	18	dep
+20	saboteurs	saboteur	NC	NC	n=p|g=m	19	prep	19	prep
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	des	des	DET	DET	n=p	23	det	23	det
+23	pirates	pirate	NC	NC	n=p	18	mod	18	mod
+24	)	)	PONCT	PONCT		23	ponct	23	ponct
+25	et	et	CC	CC		23	coord	23	coord
+26	mine	mine	NC	NC	n=s|g=f	25	dep_coord	25	dep_coord
+27	acm-01	_	ADJ	ADJ		26	mod	26	mod
+28	la	la	DET	DET	n=s|g=f	29	det	29	det
+29	mine	mine	NC	NC	n=s|g=f	2	mod	2	mod
+30	normale	normal	ADJ	ADJ	n=s|g=f	29	mod	29	mod
+31	.	.	PONCT	PONCT		30	ponct	30	ponct
+
+</p><h3>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	générateurs	générateur	NC	NC	n=p|g=m	0	_	0	_
+3	de	de	P	P		2	dep	2	dep
+4	boucliers	bouclier	NC	NC	n=p|g=m	3	prep	3	prep
+5	et	et	CC	CC		2	coord	2	coord
+6	de	de	P	P		5	dep_coord	5	dep_coord
+7	propulsion	propulsion	NC	NC	n=s|g=f	6	prep	6	prep
+
+</h3><p>
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	existe	exister	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	deux	deux	DET	DET	s=card|n=p	4	det	4	det
+4	types	type	NC	NC	n=p|g=m	2	obj	2	obj
+5	de	de	P	P		4	dep	4	dep
+6	générateurs	générateur	NC	NC	n=p|g=m	5	prep	5	prep
+7	:	:	PONCT	PONCT		6	ponct	6	ponct
+
+</p><h2>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	générateurs	générateur	NC	NC	n=p|g=m	0	_	0	_
+3	de	de	P	P		2	dep	2	dep
+4	boucliers	bouclier	NC	NC	n=p|g=m	3	prep	3	prep
+
+</h2><p>
+1	Ils	ils	CLS	CLS	n=p|g=m|p=3	2	suj	2	suj
+2	servent	servir	V	V	n=p|t=P,S|p=3	0	root	0	root
+3	à	à	P	P		2	mod	2	mod
+4	vous	vous	CLO	CLO	n=p|p=2	5	obj	5	obj
+5	procurer	procurer	VINF	VINF	t=W	3	prep	3	prep
+6	des	des	DET	DET	n=p	7	det	7	det
+7	points	point	NC	NC	n=p|g=m	5	obj	5	obj
+8	de	de	P	P		7	dep	7	dep
+9	bouclier	bouclier	NC	NC	n=s|g=m	8	prep	8	prep
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+1	Ils	ils	CLS	CLS	n=p|g=m|p=3	2	suj	2	suj
+2	absorberont	absorber	V	V	n=p|t=F|p=3	0	root	0	root
+3	une	une	DET	DET	n=s|g=f	4	det	4	det
+4	partie	partie	NC	NC	n=s|g=f	2	obj	2	obj
+5	des	de	P+D	P+D	n=p	4	dep	4	dep
+6	dégâts	dégât	NC	NC	n=p|g=m	5	prep	5	prep
+7	subis	subir	VPP	VPP	n=p|g=m|t=K	6	mod	6	mod
+8	par	par	P	P		7	mod	7	mod
+9	votre	votre	DET	DET	n=s|p=2|poss=p	10	det	10	det
+10	vaisseau	vaisseau	NC	NC	n=s|g=m	8	prep	8	prep
+11	lors	lors	ADV	ADV		10	mod	10	mod
+12	des	de	P+D	P+D	n=p	10	dep	10	dep
+13	combats	combat	NC	NC	n=p|g=m	12	prep	12	prep
+14	;	;	PONCT	PONCT		13	ponct	13	ponct
+15	ils	ils	CLS	CLS	n=p|g=m|p=3	16	suj	16	suj
+16	sont	être	V	V	n=p|t=P|p=3	2	mod	2	mod
+17	au	à	P+D	P+D	n=s|g=m	16	mod	16	mod
+18	nombre	nombre	NC	NC	n=s|g=m	17	prep	17	prep
+19	de	de	P	P		16	mod	16	mod
+20	cinq	cinq	DET	DET	s=card|n=p	0	_	0	_
+21	:	:	PONCT	PONCT		20	ponct	20	ponct
+
+</p><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	SG3N-A01	_	NPP	NPP		10	suj	10	suj
+3	(	(	PONCT	PONCT		2	ponct	2	ponct
+4	procure	procure	NC	NC	n=s|g=f	2	mod	2	mod
+5	1_000	1_000	ADJ	ADJ		4	mod	4	mod
+6	points	point	NC	NC	n=p|g=m	4	mod	4	mod
+7	de	de	P	P		2	dep	2	dep
+8	bouclier	bouclier	NC	NC	n=s|g=m	7	prep	7	prep
+9	et	et	CC	CC		2	coord	2	coord
+10	absorbe	absorber	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+11	40	40	ADJ	ADJ		12	mod	12	mod
+12	%	%	NC	NC	g=m	10	obj	10	obj
+13	des	de	P+D	P+D	n=p	10	mod	10	mod
+14	dégâts	dégât	NC	NC	n=p|g=m	13	prep	13	prep
+15	)	)	PONCT	PONCT		14	ponct	14	ponct
+
+</p><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	SG3N-A02	_	NPP	NPP		10	suj	10	suj
+3	(	(	PONCT	PONCT		2	ponct	2	ponct
+4	procure	procure	NC	NC	n=s|g=f	2	mod	2	mod
+5	2_000	2_000	ADJ	ADJ		4	mod	4	mod
+6	points	point	NC	NC	n=p|g=m	4	mod	4	mod
+7	de	de	P	P		2	dep	2	dep
+8	bouclier	bouclier	NC	NC	n=s|g=m	7	prep	7	prep
+9	et	et	CC	CC		2	coord	2	coord
+10	absorbe	absorber	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+11	50	50	VPP	VPP		0	_	0	_
+12	%	%	NC	NC	g=m	11	mod	11	mod
+13	des	de	P+D	P+D	n=p	11	mod	11	mod
+14	dégâts	dégât	NC	NC	n=p|g=m	13	prep	13	prep
+15	)	)	PONCT	PONCT		14	ponct	14	ponct
+
+</p><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	SG3N-A03	_	NPP	NPP		10	suj	10	suj
+3	(	(	PONCT	PONCT		2	ponct	2	ponct
+4	procure	procure	NC	NC	n=s|g=f	2	mod	2	mod
+5	5_000	5_000	ADJ	ADJ		4	mod	4	mod
+6	points	point	NC	NC	n=p|g=m	4	mod	4	mod
+7	de	de	P	P		2	dep	2	dep
+8	bouclier	bouclier	NC	NC	n=s|g=m	7	prep	7	prep
+9	et	et	CC	CC		2	coord	2	coord
+10	absorbe	absorber	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+11	60	60	ADJ	ADJ		12	mod	12	mod
+12	%	%	NC	NC	g=m	10	obj	10	obj
+13	des	de	P+D	P+D	n=p	10	mod	10	mod
+14	dégâts	dégât	NC	NC	n=p|g=m	13	prep	13	prep
+15	)	)	PONCT	PONCT		14	ponct	14	ponct
+
+</p><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	SG3N-B01	_	NPP	NPP		10	suj	10	suj
+3	(	(	PONCT	PONCT		2	ponct	2	ponct
+4	procure	procure	NC	NC	n=s|g=f	2	mod	2	mod
+5	4_000	4_000	ADJ	ADJ		4	mod	4	mod
+6	points	point	NC	NC	n=p|g=m	4	mod	4	mod
+7	de	de	P	P		2	dep	2	dep
+8	bouclier	bouclier	NC	NC	n=s|g=m	7	prep	7	prep
+9	et	et	CC	CC		2	coord	2	coord
+10	absorbe	absorber	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+11	70	70	VPP	VPP		0	_	0	_
+12	%	%	NC	NC	g=m	11	mod	11	mod
+13	des	de	P+D	P+D	n=p	11	mod	11	mod
+14	dégâts	dégât	NC	NC	n=p|g=m	13	prep	13	prep
+15	)	)	PONCT	PONCT		14	ponct	14	ponct
+
+</p><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	SG3N-B02	_	NPP	NPP		10	suj	10	suj
+3	(	(	PONCT	PONCT		2	ponct	2	ponct
+4	procure	procure	NC	NC	n=s|g=f	2	mod	2	mod
+5	10_000	10_000	ADJ	ADJ		4	mod	4	mod
+6	points	point	NC	NC	n=p|g=m	4	mod	4	mod
+7	de	de	P	P		2	dep	2	dep
+8	bouclier	bouclier	NC	NC	n=s|g=m	7	prep	7	prep
+9	et	et	CC	CC		2	coord	2	coord
+10	absorbe	absorber	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+11	80	80	VPP	VPP		0	_	0	_
+12	%	%	NC	NC	g=m	11	mod	11	mod
+13	des	de	P+D	P+D	n=p	11	mod	11	mod
+14	dégâts	dégât	NC	NC	n=p|g=m	13	prep	13	prep
+15	)	)	PONCT	PONCT		14	ponct	14	ponct
+
+</p><p>
+1	LE	le	DET	DET	n=s|g=m	2	det	2	det
+2	B-03	_	NPP	NPP		3	suj	3	suj
+3	procure	procurer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	lui	lui	PRO	PRO	n=s|g=m|p=3	3	mod	3	mod
+5	50_000	50_000	ADJ	ADJ		6	mod	6	mod
+6	points	point	NC	NC	n=p|g=m	3	obj	3	obj
+7	de	de	P	P		3	mod	3	mod
+8	bouclier	bouclier	NC	NC	n=s|g=m	7	prep	7	prep
+9	et	et	CC	CC		3	coord	3	coord
+10	absorbe	absorber	V	V	n=s|t=P,S|p=1,3	9	dep_coord	9	dep_coord
+11	150	150	ADJ	ADJ		12	mod	12	mod
+12	%	%	NC	NC	g=m	10	obj	10	obj
+13	de	de	P	P		12	dep	12	dep
+14	bouclier	bouclier	NC	NC	n=s|g=m	13	prep	13	prep
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+</p><h3>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	REX	_	NC	NC		0	_	0	_
+3	10	10	ADJ	ADJ		2	mod	2	mod
+
+</h3><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	REX-10	_	NC	NC		3	suj	3	suj
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	un	un	DET	DET	n=s|g=m	6	det	6	det
+5	petit	petit	ADJ	ADJ	n=s|g=m	6	mod	6	mod
+6	module	module	NC	NC	n=s|g=m	3	obj	3	obj
+7	qui	qui	PROREL	PROREL	n=s	9	mod	9	mod
+8	vous	vous	CLS	CLS	n=p|p=2	9	suj	9	suj
+9	suit	suivre	V	V	n=s|t=P|p=3	6	mod_rel	6	mod_rel
+10	partout	partout	ADV	ADV		9	mod	9	mod
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	il	il	CLS	CLS	n=s|g=m|p=3	13	suj	13	suj
+13	est	être	V	V	n=s|t=P|p=3	3	mod	3	mod
+14	achetable	achetable	ADJ	ADJ	n=s	13	ats	13	ats
+15	uniquement	_	ADV	ADV		13	mod	13	mod
+16	en	en	P	P		13	mod	13	mod
+17	uridium	_	NC	NC		16	prep	16	prep
+18	au	à	P+D	P+D	n=s|g=m	13	mod	13	mod
+19	hangar	hangar	NC	NC	n=s|g=m	18	prep	18	prep
+20	pour	pour	P	P		13	mod	13	mod
+21	50_000	50_000	NPP	NPP		20	prep	20	prep
+22	uridium	_	NPP	NPP		21	mod	21	mod
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+</p><h3>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	drones	_	NC	NC		0	_	0	_
+
+</h3><p>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	drones	_	NC	NC		3	suj	3	suj
+3	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+4	des	des	DET	DET	n=p	5	det	5	det
+5	sortes	sorte	NC	NC	n=p|g=f	3	obj	3	obj
+6	de	de	P	P		3	mod	3	mod
+7	petits	petit	ADJ	ADJ	n=p|g=m	8	mod	8	mod
+8	robots	robot	NC	NC	n=p|g=m	6	prep	6	prep
+9	en	en	P	P		3	mod	3	mod
+10	inter-dépendance	_	NC	NC		9	prep	9	prep
+11	avec	avec	P	P		3	mod	3	mod
+12	votre	votre	DET	DET	n=s|p=2|poss=p	13	det	13	det
+13	vaisseau	vaisseau	NC	NC	n=s|g=m	11	prep	11	prep
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	3	suj	3	suj
+2	sont	être	V	V	n=p|t=P|p=3	3	aux_pass	3	aux_pass
+3	placés	placer	VPP	VPP	n=p|g=m|t=K	0	root	0	root
+4	en	en	P	P		3	mod	3	mod
+5	protecteurs	protecteur	NC	NC	n=p|g=m	4	prep	4	prep
+6	autour	autour	NC	NC	n=s|g=m	5	mod	5	mod
+7	de	de	P	P		3	mod	3	mod
+8	celui	celui	PRO	PRO	n=s|g=m	7	prep	7	prep
+9	ci	_	ADV	ADV		3	mod	3	mod
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+1	Ils	ils	CLS	CLS	n=p|g=m|p=3	2	suj	2	suj
+2	peuvent	pouvoir	V	V	n=p|t=P|p=3	0	root	0	root
+3	être	être	VINF	VINF	t=W	4	aux_pass	4	aux_pass
+4	équipés	équiper	VPP	VPP	n=p|g=m|t=K	2	obj	2	obj
+5	de	de	P	P		4	mod	4	mod
+6	laser	laser	NC	NC	n=s|g=m	5	prep	5	prep
+7	(	(	PONCT	PONCT		6	ponct	6	ponct
+8	pour	pour	P	P		4	mod	4	mod
+9	augmenter	augmenter	VINF	VINF	t=W	8	prep	8	prep
+10	la	la	DET	DET	n=s|g=f	11	det	11	det
+11	puissance	puissance	NC	NC	n=s|g=f	9	obj	9	obj
+12	de	de	P	P		11	dep	11	dep
+13	tir	tir	NC	NC	n=s|g=m	12	prep	12	prep
+14	)	)	PONCT	PONCT		13	ponct	13	ponct
+15	,	,	PONCT	PONCT		13	ponct	13	ponct
+16	de	de	P	P		9	mod	9	mod
+17	CPU	_	NPP	NPP		16	prep	16	prep
+18	ou	ou	CC	CC		16	coord	16	coord
+19	de	de	P	P		18	dep_coord	18	dep_coord
+20	générateurs	générateur	NC	NC	n=p|g=m	19	prep	19	prep
+21	de	de	P	P		9	mod	9	mod
+22	bouclier	bouclier	NC	NC	n=s|g=m	21	prep	21	prep
+23	mais	mais	CC	CC		2	coord	2	coord
+24	ne	ne	ADV	ADV		25	mod	25	mod
+25	peut	pouvoir	V	V	n=s|t=P|p=3	23	dep_coord	23	dep_coord
+26	pas	pas	ADV	ADV		25	mod	25	mod
+27	avoir	avoir	VINF	VINF	t=W	25	obj	25	obj
+28	de	de	P	P		27	mod	27	mod
+29	générateur	générateur	NC	NC	n=s|g=m	28	prep	28	prep
+30	de	de	P	P		27	mod	27	mod
+31	vitesse	vitesse	NC	NC	n=s|g=f	30	prep	30	prep
+32	.	.	PONCT	PONCT		31	ponct	31	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	nombre	nombre	NC	NC	n=s|g=m	10	suj	10	suj
+3	de	de	P	P		2	dep	2	dep
+4	drones	_	NC	NC		3	prep	3	prep
+5	attachés	attacher	VPP	VPP	n=p|g=m|t=K	2	mod	2	mod
+6	à	à	P	P		5	mod	5	mod
+7	un	un	DET	DET	n=s|g=m	8	det	8	det
+8	vaisseau	vaisseau	NC	NC	n=s|g=m	6	prep	6	prep
+9	est	être	V	V	n=s|t=P|p=3	10	aux_pass	10	aux_pass
+10	limité	limiter	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+11	à	à	P	P		10	mod	10	mod
+12	huit	huit	ADJ	ADJ	s=card|n=p	11	prep	11	prep
+13	(	(	PONCT	PONCT		12	ponct	12	ponct
+14	limité	limiter	VPP	VPP	n=s|g=m|t=K	10	mod	10	mod
+15	a	avoir	V	V	n=s|t=P|p=3	10	mod	10	mod
+16	10	10	ADJ	ADJ		15	mod	15	mod
+17	si	si	CS	CS		10	mod	10	mod
+18	vous	vous	CLS	CLS	n=p|p=2	19	suj	19	suj
+19	achetés	acheter	VPP	VPP	n=p|g=m|t=K	17	sub	17	sub
+20	les	les	DET	DET	n=p	21	det	21	det
+21	drones	_	NC	NC		19	obj	19	obj
+22	Apis	_	NPP	NPP		21	mod	21	mod
+23	et	et	CC	CC		22	coord	22	coord
+24	Zeus	Zeus	NPP	NPP	n=s|g=m	23	dep_coord	23	dep_coord
+25	)	)	PONCT	PONCT		24	ponct	24	ponct
+26	.	.	PONCT	PONCT		24	ponct	24	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	existe	exister	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	4	4	ADJ	ADJ		4	mod	4	mod
+4	types	type	NC	NC	n=p|g=m	2	obj	2	obj
+5	de	de	P	P		4	dep	4	dep
+6	drones	_	NC	NC		5	prep	5	prep
+7	:	:	PONCT	PONCT		6	ponct	6	ponct
+8	Flax	_	NPP	NPP		2	mod	2	mod
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	Iris	Iris	NPP	NPP	n=s|g=f	8	mod	8	mod
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	Apis	_	NPP	NPP		10	coord	10	coord
+13	et	et	CC	CC		12	coord	12	coord
+14	Zeus	Zeus	NPP	NPP	n=s|g=m	13	dep_coord	13	dep_coord
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+</p><h2>
+1	Drone	_	NPP	NPP		0	_	0	_
+2	Flax	_	NPP	NPP		1	mod	1	mod
+
+</h2><p>
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	peut	pouvoir	V	V	n=s|t=P|p=3	0	root	0	root
+3	contenir	contenir	VINF	VINF	t=W	2	obj	2	obj
+4	un	un	DET	DET	n=s|g=m	5	det	5	det
+5	objet	objet	NC	NC	n=s|g=m	3	obj	3	obj
+6	(	(	PONCT	PONCT		5	ponct	5	ponct
+7	1	1	ADJ	ADJ		5	mod	5	mod
+8	laser	laser	NC	NC	n=s|g=m	5	mod	5	mod
+9	ou	ou	CC	CC		5	coord	5	coord
+10	1	1	NC	NC		9	dep_coord	9	dep_coord
+11	générateur	générateur	NC	NC	n=s|g=m	10	mod	10	mod
+12	de	de	P	P		5	dep	5	dep
+13	bouclier	bouclier	NC	NC	n=s|g=m	12	prep	12	prep
+14	)	)	PONCT	PONCT		13	ponct	13	ponct
+15	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	4	suj	4	suj
+2	ne	ne	ADV	ADV		4	mod	4	mod
+3	s'	se	CLR	CLR	n=p,s|p=3	4	aff	4	aff
+4	achète	acheter	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+5	qu'	que	CS	CS		4	obj	4	obj
+6	en	en	P	P		0	_	0	_
+7	crédits	crédit	NC	NC	n=p|g=m	6	prep	6	prep
+8	.	.	PONCT	PONCT		7	ponct	7	ponct
+
+</p><h2>
+1	Drone	_	NPP	NPP		0	_	0	_
+2	Iris	Iris	NPP	NPP	n=s|g=f	1	mod	1	mod
+
+</h2><p>
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	peut	pouvoir	V	V	n=s|t=P|p=3	0	root	0	root
+3	contenir	contenir	VINF	VINF	t=W	2	obj	2	obj
+4	deux	deux	DET	DET	s=card|n=p	5	det	5	det
+5	objets	objet	NC	NC	n=p|g=m	3	obj	3	obj
+6	(	(	PONCT	PONCT		5	ponct	5	ponct
+7	2	2	ADJ	ADJ		5	mod	5	mod
+8	lasers	laser	NC	NC	n=p|g=m	5	mod	5	mod
+9	ou	ou	CC	CC		5	coord	5	coord
+10	2	2	NC	NC		9	dep_coord	9	dep_coord
+11	générateurs	générateur	NC	NC	n=p|g=m	10	mod	10	mod
+12	de	de	P	P		5	dep	5	dep
+13	bouclier	bouclier	NC	NC	n=s|g=m	12	prep	12	prep
+14	ou	ou	CC	CC		5	coord	5	coord
+15	1	1	ADJ	ADJ		16	mod	16	mod
+16	laser	laser	NC	NC	n=s|g=m	14	dep_coord	14	dep_coord
+17	et	et	CC	CC		2	coord	2	coord
+18	1	1	NC	NC		0	_	0	_
+19	générateur	générateur	NC	NC	n=s|g=m	18	mod	18	mod
+20	de	de	P	P		18	dep	18	dep
+21	bouclier	bouclier	NC	NC	n=s|g=m	20	prep	20	prep
+22	et	et	CC	CC		18	coord	18	coord
+23	aussi	aussi	ADV	ADV		22	mod	22	mod
+24	certains	certain	PRO	PRO	n=p|g=m	22	dep_coord	22	dep_coord
+25	des	de	P+D	P+D	n=p	24	dep	24	dep
+26	extras	_	NC	NC		25	prep	25	prep
+27	)	)	PONCT	PONCT		26	ponct	26	ponct
+28	.	.	PONCT	PONCT		26	ponct	26	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	3	suj	3	suj
+2	s'	se	CLR	CLR	n=p,s|p=3	3	aff	3	aff
+3	achète	acheter	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	en	en	P	P		3	mod	3	mod
+5	Uridium	_	NPP	NPP		4	prep	4	prep
+6	mais	mais	CC	CC		3	coord	3	coord
+7	peut	pouvoir	V	V	n=s|t=P|p=3	6	dep_coord	6	dep_coord
+8	s'	se	CLR	CLR	n=p,s|p=3	9	obj	9	obj
+9	acheter	acheter	VINF	VINF	t=W	7	obj	7	obj
+10	en	en	P	P		9	mod	9	mod
+11	crédit	crédit	NC	NC	n=s|g=m	10	prep	10	prep
+12	aux	à	P+D	P+D	n=p	9	mod	9	mod
+13	enchères	enchère	NC	NC	n=p|g=f	12	prep	12	prep
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+</p><h3>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	extras	_	NC	NC		0	_	0	_
+
+</h3><p>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	extras	_	NC	NC		3	suj	3	suj
+3	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+4	des	des	DET	DET	n=p	5	det	5	det
+5	équipements	équipement	NC	NC	n=p|g=m	3	obj	3	obj
+6	qui	qui	PROREL	PROREL	n=s	7	suj	7	suj
+7	donnent	donner	V	V	n=p|t=P,S|p=3	5	mod_rel	5	mod_rel
+8	un	un	DET	DET	n=s|g=m	9	det	9	det
+9	plus	plus	ADV	ADV		7	mod	7	mod
+10	à	à	P	P		7	mod	7	mod
+11	votre	votre	DET	DET	n=s|p=2|poss=p	12	det	12	det
+12	vaisseau	vaisseau	NC	NC	n=s|g=m	10	prep	10	prep
+13	(	(	PONCT	PONCT		12	ponct	12	ponct
+14	ex	ex	NC	NC		12	mod	12	mod
+15	:	:	PONCT	PONCT		14	ponct	14	ponct
+16	le	le	DET	DET	n=s|g=m	17	det	17	det
+17	robot	robot	NC	NC	n=s|g=m	19	suj	19	suj
+18	réparateur	réparateur	NC	NC	n=s|g=m	17	mod	17	mod
+19	répare	réparer	V	V	n=s|t=P,S|p=1,3	3	mod	3	mod
+20	le	le	DET	DET	n=s|g=m	21	det	21	det
+21	vaisseau	vaisseau	NC	NC	n=s|g=m	19	obj	19	obj
+22	)	)	PONCT	PONCT		21	ponct	21	ponct
+23	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+</p>
+1	cette	cette	DET	DET	n=s|g=f	2	det	2	det
+2	page	page	NC	NC	n=s	6	suj	6	suj
+3	a	avoir	V	V	n=s|t=P|p=3	6	aux_tps	6	aux_tps
+4	été	être	VPP	VPP	t=K	6	aux_pass	6	aux_pass
+5	partiellement	_	ADV	ADV		6	mod	6	mod
+6	adaptée	adapter	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+7	de	de	P	P		6	mod	6	mod
+8	la	la	DET	DET	n=s|g=f	9	det	9	det
+9	page	page	NC	NC	n=s	7	prep	7	prep
+10	Dark	_	NPP	NPP		9	mod	9	mod
+11	Orbit	_	NPP	NPP		9	mod	9	mod
+12	de	de	P	P		6	mod	6	mod
+13	Wikipédia	Wikipedia	NPP	NPP	n=s|g=f	12	prep	12	prep
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+

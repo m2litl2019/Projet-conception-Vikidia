@@ -1,0 +1,302 @@
+<p>
+1	John	John	NPP	NPP	n=s|g=m	21	suj	21	suj
+2	Chapman	_	NPP	NPP		1	mod	1	mod
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	souvent	souvent	ADV	ADV		5	mod	5	mod
+5	appelé	appeler	VPP	VPP	n=s|g=m|t=K	1	mod	1	mod
+6	Johnny	Johnny	NPP	NPP	n=s|g=m	5	obj	5	obj
+7	Appleseed	_	NPP	NPP		6	mod	6	mod
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	(	(	PONCT	PONCT		7	ponct	7	ponct
+10	c'	ce	DET	DET	n=s|g=m	11	det	11	det
+11	est-à-dire	_	NC	NC		21	suj	21	suj
+12	Jeannot	Jeannot	NPP	NPP	n=s|g=m	11	mod	11	mod
+13	pépin-de-pomme	_	NPP	NPP		11	mod	11	mod
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	à	à	P	P		11	dep	11	dep
+16	cause	cause	NC	NC	n=s|g=f	15	prep	15	prep
+17	de	de	P	P		16	dep	16	dep
+18	son	son	DET	DET	n=s|g=m|p=3|poss=s	19	det	19	det
+19	métier	métier	NC	NC	n=s|g=m	17	prep	17	prep
+20	)	)	PONCT	PONCT		19	ponct	19	ponct
+21	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+22	un	un	DET	DET	n=s|g=m	23	det	23	det
+23	pépiniériste	pépiniériste	NC	NC	n=s	21	obj	21	obj
+24	pionnier	pionnier	ADJ	ADJ	n=s|g=m	23	mod	23	mod
+25	américain	américain	ADJ	ADJ	n=s|g=m	23	mod	23	mod
+26	qui	qui	PROREL	PROREL	n=s	28	suj	28	suj
+27	a	avoir	V	V	n=s|t=P|p=3	28	aux_tps	28	aux_tps
+28	introduit	introduire	VPP	VPP	n=s|g=m|t=K	23	mod_rel	23	mod_rel
+29	des	des	DET	DET	n=p	30	det	30	det
+30	pommiers	pommier	NC	NC	n=p|g=m	28	obj	28	obj
+31	dans	dans	P	P		28	mod	28	mod
+32	de	de	DET	DET	n=p	34	det	34	det
+33	grandes	grand	ADJ	ADJ	n=p|g=f	34	mod	34	mod
+34	régions	région	NC	NC	n=p|g=f	31	prep	31	prep
+35	de	de	P	P		28	mod	28	mod
+36	la	la	DET	DET	n=s|g=f	37	det	37	det
+37	Pennsylvanie	Pennsylvanie	NPP	NPP	n=s|g=f	35	prep	35	prep
+38	,	,	PONCT	PONCT		37	ponct	37	ponct
+39	de	de	P	P		28	mod	28	mod
+40	l'	le	DET	DET	n=s	41	det	41	det
+41	Ontario	Ontario	NPP	NPP	n=s|g=m	39	prep	39	prep
+42	,	,	PONCT	PONCT		41	ponct	41	ponct
+43	de	de	P	P		28	mod	28	mod
+44	l'	le	DET	DET	n=s	45	det	45	det
+45	Ohio	Ohio	NPP	NPP	n=s|g=m	43	prep	43	prep
+46	,	,	PONCT	PONCT		45	ponct	45	ponct
+47	de	de	P	P		28	mod	28	mod
+48	l'	le	DET	DET	n=s	49	det	49	det
+49	Indiana	Indiana	NPP	NPP	n=s|g=m	47	prep	47	prep
+50	et	et	CC	CC		47	coord	47	coord
+51	de	de	P	P		50	dep_coord	50	dep_coord
+52	l'	le	DET	DET	n=s	53	det	53	det
+53	Illinois	Illinois	NPP	NPP	n=s|g=m	51	prep	51	prep
+54	,	,	PONCT	PONCT		53	ponct	53	ponct
+55	ainsi	ainsi	ADV	ADV		28	mod	28	mod
+56	que	que	CS	CS		28	mod	28	mod
+57	dans	dans	P	P		56	sub	56	sub
+58	les	les	DET	DET	n=p	59	det	59	det
+59	comtés	comté	NC	NC	n=p|g=m	57	prep	57	prep
+60	du	de	P+D	P+D	n=s|g=m	59	dep	59	dep
+61	nord	nord	NC	NC	n=s|g=m	60	prep	60	prep
+62	de	de	P	P		61	dep	61	dep
+63	la	la	DET	DET	n=s|g=f	64	det	64	det
+64	Virginie-Occidentale	_	NC	NC		62	prep	62	prep
+65	actuelle	actuel	ADJ	ADJ	n=s|g=f	64	mod	64	mod
+66	.	.	PONCT	PONCT		65	ponct	65	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	plantait	planter	V	V	n=s|t=I|p=3	0	root	0	root
+3	des	des	DET	DET	n=p	4	det	4	det
+4	vergers	verger	NC	NC	n=p|g=m	2	obj	2	obj
+5	qui	qui	PROREL	PROREL	n=s	6	suj	6	suj
+6	produisaient	produire	V	V	n=p|t=I|p=3	4	mod_rel	4	mod_rel
+7	assez	assez	ADV	ADV		6	mod	6	mod
+8	de	de	P	P		6	mod	6	mod
+9	pommes	pomme	NC	NC	n=p|g=f	8	prep	8	prep
+10	pour	pour	P	P		6	mod	6	mod
+11	alimenter	alimenter	VINF	VINF	t=W	10	prep	10	prep
+12	les	les	DET	DET	n=p	13	det	13	det
+13	fabriques	fabrique	NC	NC	n=p|g=f	11	obj	11	obj
+14	de	de	P	P		13	dep	13	dep
+15	cidre	cidre	NC	NC	n=s|g=m	14	prep	14	prep
+16	et	et	CC	CC		2	coord	2	coord
+17	avec	avec	P	P		16	dep_coord	16	dep_coord
+18	le	le	DET	DET	n=s|g=m	19	det	19	det
+19	produit	produit	NC	NC	n=s|g=m	17	prep	17	prep
+20	de	de	P	P		19	dep	19	dep
+21	ses	ses	DET	DET	n=p|p=3|poss=s	22	det	22	det
+22	ventes	vente	NC	NC	n=p|g=f	20	prep	20	prep
+23	il	il	CLS	CLS	n=s|g=m|p=3	25	suj	25	suj
+24	se	se	CLR	CLR	n=p,s|p=3	25	aff	25	aff
+25	procurait	procurer	V	V	n=s|t=I|p=3	2	mod	2	mod
+26	des	des	DET	DET	n=p	27	det	27	det
+27	graines	graine	NC	NC	n=p|g=f	25	obj	25	obj
+28	pour	pour	P	P		25	mod	25	mod
+29	créer	créer	VINF	VINF	t=W	28	prep	28	prep
+30	de	de	DET	DET	n=p	32	det	32	det
+31	nouveaux	nouveau	ADJ	ADJ	n=p|g=m	32	mod	32	mod
+32	vergers	verger	NC	NC	n=p|g=m	29	obj	29	obj
+33	dans	dans	P	P		29	mod	29	mod
+34	de	de	DET	DET	n=p	36	det	36	det
+35	nouvelles	nouveau	ADJ	ADJ	n=p|g=f	36	mod	36	mod
+36	régions	région	NC	NC	n=p|g=f	33	prep	33	prep
+37	.	.	PONCT	PONCT		36	ponct	36	ponct
+
+</p><p>
+1	Il	il	CLS	CLS	n=s|g=m|p=3	3	suj	3	suj
+2	est	être	V	V	n=s|t=P|p=3	3	aux_tps	3	aux_tps
+3	né	naître	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+4	le	le	DET	DET	n=s|g=m	6	det	6	det
+5	26	26	ADJ	ADJ		6	mod	6	mod
+6	septembre	septembre	NC	NC	n=s|g=m	3	mod	3	mod
+7	1774	1774	NC	NC		6	mod	6	mod
+8	à	à	P	P		3	mod	3	mod
+9	Leominster	_	NPP	NPP		8	prep	8	prep
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	Massachusetts	Massachusetts	NPP	NPP	n=s|g=m	9	mod	9	mod
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	États-Unis	États-Unis_d'Amérique	NPP	NPP	n=p|g=m	9	mod	9	mod
+14	et	et	CC	CC		3	coord	3	coord
+15	décédé	décéder	VPP	VPP	n=s|g=m|t=K	14	dep_coord	14	dep_coord
+16	le	le	DET	DET	n=s|g=m	18	det	18	det
+17	18	18	ADJ	ADJ		18	mod	18	mod
+18	mars	mars	NC	NC	g=m	15	mod	15	mod
+19	1845	1845	NC	NC		18	mod	18	mod
+20	à	à	P	P		15	mod	15	mod
+21	Fort	_	NPP	NPP		20	prep	20	prep
+22	Wayne	Wayne	NPP	NPP	n=s|g=m	21	mod	21	mod
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	Indiana	Indiana	NPP	NPP	n=s|g=m	3	mod	3	mod
+25	.	.	PONCT	PONCT		24	ponct	24	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	4	suj	4	suj
+2	a	avoir	V	V	n=s|t=P|p=3	4	aux_tps	4	aux_tps
+3	été	être	VPP	VPP	t=K	4	aux_pass	4	aux_pass
+4	enterré	enterrer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+5	dans	dans	P	P		4	mod	4	mod
+6	le	le	DET	DET	n=s|g=m	7	det	7	det
+7	parc	parc	NC	NC	n=s|g=m	5	prep	5	prep
+8	qui	qui	PROREL	PROREL	n=s	9	suj	9	suj
+9	porte	porter	V	V	n=s|t=P,S|p=1,3	7	mod_rel	7	mod_rel
+10	son	son	DET	DET	n=s|g=m|p=3|poss=s	11	det	11	det
+11	nom	nom	NC	NC	n=s|g=m	9	obj	9	obj
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	le	le	DET	DET	n=s|g=m	14	det	14	det
+14	Johnny	Johnny	NPP	NPP	n=s|g=m	0	_	0	_
+15	Appleseed	_	NPP	NPP		14	mod	14	mod
+16	Park	_	NPP	NPP		14	mod	14	mod
+17	à	à	P	P		14	dep	14	dep
+18	Fort	_	NPP	NPP		17	prep	17	prep
+19	Wayne	Wayne	NPP	NPP	n=s|g=m	18	mod	18	mod
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+</p><p>
+1	John	John	NPP	NPP	n=s|g=m	4	suj	4	suj
+2	Chapman	_	NPP	NPP		1	mod	1	mod
+3	est	être	V	V	n=s|t=P|p=3	4	aux_tps	4	aux_tps
+4	considéré	considérer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+5	comme	comme	P	P		4	mod	4	mod
+6	un	un	PRO	PRO	n=s|g=m	5	prep	5	prep
+7	des	de	P+D	P+D	n=p	6	dep	6	dep
+8	pionniers	pionnier	NC	NC	n=p|g=m	7	prep	7	prep
+9	de	de	P	P		4	mod	4	mod
+10	l'	le	DET	DET	n=s	11	det	11	det
+11	écologie	écologie	NC	NC	n=s|g=f	9	prep	9	prep
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	très	très	ADV	ADV		14	mod	14	mod
+14	respectueux	respectueux	ADJ	ADJ	g=m	11	mod	11	mod
+15	de	de	P	P		11	dep	11	dep
+16	la	la	DET	DET	n=s|g=f	17	det	17	det
+17	vie	vie	NC	NC	n=s|g=f	15	prep	15	prep
+18	des	de	P+D	P+D	n=p	17	dep	17	dep
+19	animaux	animal	NC	NC	n=p|g=m	18	prep	18	prep
+20	en	en	P	P		19	dep	19	dep
+21	particulier	particulier	NC	NC	n=s|g=m	20	prep	20	prep
+22	des	de	P+D	P+D	n=p	17	dep	17	dep
+23	insectes	insecte	NC	NC	n=p|g=m	22	prep	22	prep
+24	et	et	CC	CC		4	coord	4	coord
+25	a	avoir	V	V	n=s|t=P|p=3	28	aux_tps	28	aux_tps
+26	été	être	VPP	VPP	t=K	28	aux_pass	28	aux_pass
+27	souvent	souvent	ADV	ADV		28	mod	28	mod
+28	évoqué	évoquer	VPP	VPP	n=s|g=m|t=K	24	dep_coord	24	dep_coord
+29	dans	dans	P	P		28	mod	28	mod
+30	l'	le	DET	DET	n=s	31	det	31	det
+31	art	art	NC	NC	n=s|g=m	29	prep	29	prep
+32	et	et	CC	CC		28	coord	28	coord
+33	la	la	DET	DET	n=s|g=f	34	det	34	det
+34	littérature	littérature	NC	NC	n=s|g=f	0	_	0	_
+35	,	,	PONCT	PONCT		34	ponct	34	ponct
+36	même	même	ADV	ADV		34	mod	34	mod
+37	de	de	P	P		34	dep	34	dep
+38	son	son	DET	DET	n=s|g=m|p=3|poss=s	0	_	0	_
+39	vivant	vivre	VPR	VPR	t=G	0	_	0	_
+40	au	à	P+D	P+D	n=s|g=m	39	mod	39	mod
+41	point	point	NC	NC	n=s|g=m	40	prep	40	prep
+42	de	de	P	P		39	mod	39	mod
+43	devenir	devenir	VINF	VINF	t=W	42	prep	42	prep
+44	un	un	DET	DET	n=s|g=m	45	det	45	det
+45	personnage	personnage	NC	NC	n=s|g=m	43	obj	43	obj
+46	du	de	P+D	P+D	n=s|g=m	43	mod	43	mod
+47	folklore	folklore	NC	NC	n=s|g=m	46	prep	46	prep
+48	américain	américain	ADJ	ADJ	n=s|g=m	47	mod	47	mod
+49	.	.	PONCT	PONCT		48	ponct	48	ponct
+
+1	En	en	P	P		7	mod	7	mod
+2	1948	1948	NC	NC		1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	Walt	Walt	NPP	NPP	n=s|g=m	7	suj	7	suj
+5	Disney	_	NPP	NPP		4	mod	4	mod
+6	a	avoir	V	V	n=s|t=P|p=3	7	aux_tps	7	aux_tps
+7	réalisé	réaliser	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+8	un	un	DET	DET	n=s|g=m	10	det	10	det
+9	court	court	ADJ	ADJ	n=s|g=m	10	mod	10	mod
+10	métrage	métrage	NC	NC	n=s|g=m	7	obj	7	obj
+11	sur	sur	P	P		7	mod	7	mod
+12	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	13	det	13	det
+13	vie	vie	NC	NC	n=s|g=f	11	prep	11	prep
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	Johnny	Johnny	NPP	NPP	n=s|g=m	0	_	0	_
+16	Pépin-de-Pomme	_	NPP	NPP		15	mod	15	mod
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+</p><p>
+1	Il	il	CLS	CLS	n=s|g=m|p=3	4	suj	4	suj
+2	a	avoir	V	V	n=s|t=P|p=3	4	aux_tps	4	aux_tps
+3	été	être	VPP	VPP	t=K	4	aux_pass	4	aux_pass
+4	influencé	influencer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	dans	dans	P	P		4	mod	4	mod
+7	ses	ses	DET	DET	n=p|p=3|poss=s	8	det	8	det
+8	idées	idée	NC	NC	n=p|g=f	6	prep	6	prep
+9	sur	sur	P	P		4	mod	4	mod
+10	l'	le	DET	DET	n=s	11	det	11	det
+11	altruisme	altruisme	NC	NC	n=s|g=m	9	prep	9	prep
+12	et	et	CC	CC		4	coord	4	coord
+13	les	les	DET	DET	n=p	14	det	14	det
+14	liens	lien	NC	NC	n=p|g=m	0	_	0	_
+15	entre	entre	P	P		14	dep	14	dep
+16	l'	le	DET	DET	n=s	17	det	17	det
+17	homme	homme	NC	NC	n=s|g=m	15	prep	15	prep
+18	et	et	CC	CC		14	coord	14	coord
+19	la	la	DET	DET	n=s|g=f	20	det	20	det
+20	nature	nature	NC	NC	n=s|g=f	18	dep_coord	18	dep_coord
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	par	par	P	P		20	dep	20	dep
+23	le	le	DET	DET	n=s|g=m	24	det	24	det
+24	philosophe	philosophe	NC	NC	n=s	22	prep	22	prep
+25	suédois	suédois	ADJ	ADJ	g=m	24	mod	24	mod
+26	Emanuel	Emanuel	NPP	NPP	n=s|g=m	24	mod	24	mod
+27	Swedenborg	_	NPP	NPP		24	mod	24	mod
+28	,	,	PONCT	PONCT		27	ponct	27	ponct
+29	comme	comme	P	P		20	dep	20	dep
+30	de	de	DET	DET	n=p	32	det	32	det
+31	nombreux	nombreux	ADJ	ADJ	g=m	32	mod	32	mod
+32	auteurs	auteur	NC	NC	n=p|g=m	29	prep	29	prep
+33	romantiques	romantique	ADJ	ADJ	n=p	32	mod	32	mod
+34	.	.	PONCT	PONCT		33	ponct	33	ponct
+
+1	À	à	P	P		10	mod	10	mod
+2	la	la	DET	DET	n=s|g=f	3	det	3	det
+3	fin	fin	NC	NC	n=s	1	prep	1	prep
+4	de	de	P	P		3	dep	3	dep
+5	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	6	det	6	det
+6	vie	vie	NC	NC	n=s|g=f	4	prep	4	prep
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	il	il	CLS	CLS	n=s|g=m|p=3	10	suj	10	suj
+9	a	avoir	V	V	n=s|t=P|p=3	10	aux_tps	10	aux_tps
+10	parcouru	parcourir	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+11	les	les	DET	DET	n=p	12	det	12	det
+12	États-Unis	États-Unis_d'Amérique	NPP	NPP	n=p|g=m	10	obj	10	obj
+13	comme	comme	P	P		10	mod	10	mod
+14	missionnaire	missionnaire	NC	NC	n=s	13	prep	13	prep
+15	itinérant	itinérant	ADJ	ADJ	n=s|g=m	14	mod	14	mod
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	à	à	P	P		10	mod	10	mod
+18	pied	pied	NC	NC	n=s	17	prep	17	prep
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	en	en	P	P		10	mod	10	mod
+21	prêchant	prêcher	VPR	VPR	t=G	20	prep	20	prep
+22	et	et	CC	CC		20	coord	20	coord
+23	en	en	P	P		22	dep_coord	22	dep_coord
+24	contant	conter	VPR	VPR	t=G	23	prep	23	prep
+25	des	des	DET	DET	n=p	26	det	26	det
+26	histoires	histoire	NC	NC	n=p|g=f	24	obj	24	obj
+27	aux	à	P+D	P+D	n=p	24	mod	24	mod
+28	enfants	enfant	NC	NC	n=p	27	prep	27	prep
+29	,	,	PONCT	PONCT		28	ponct	28	ponct
+30	avec	avec	P	P		10	mod	10	mod
+31	beaucoup	beaucoup	ADV	ADV		0	_	0	_
+32	d'	de	P	P		0	_	0	_
+33	éloquence	éloquence	NC	NC	n=s|g=f	32	prep	32	prep
+34	.	.	PONCT	PONCT		33	ponct	33	ponct
+
+1	Même	même	ADV	ADV		4	mod	4	mod
+2	les	les	DET	DET	n=p	3	det	3	det
+3	Indiens	indien	NC	NC	n=p|g=f	4	suj	4	suj
+4	respectaient	respecter	V	V	n=p|t=I|p=3	0	root	0	root
+5	son	son	DET	DET	n=s|g=m|p=3|poss=s	6	det	6	det
+6	engagement	engagement	NC	NC	n=s|g=m	4	obj	4	obj
+7	.	.	PONCT	PONCT		6	ponct	6	ponct
+

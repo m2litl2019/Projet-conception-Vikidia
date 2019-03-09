@@ -1,0 +1,2417 @@
+<p>
+1	Un	un	DET	DET	n=s|g=m	2	det	2	det
+2	disjoncteur	disjoncteur	NC	NC	n=s|g=m	3	suj	3	suj
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	un	un	DET	DET	n=s|g=m	5	det	5	det
+5	appareil	appareil	NC	NC	n=s|g=m	3	obj	3	obj
+6	électronique	électronique	ADJ	ADJ	n=s	5	mod	5	mod
+7	(	(	PONCT	PONCT		6	ponct	6	ponct
+8	ou	ou	CC	CC		6	coord	6	coord
+9	électromécanique	électromécanique	ADJ	ADJ	n=s	8	dep_coord	8	dep_coord
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	qui	qui	PROREL	PROREL	n=s	12	suj	12	suj
+12	est	être	V	V	n=s|t=P|p=3	5	mod_rel	5	mod_rel
+13	à	à	P	P		12	mod	12	mod
+14	la	la	DET	DET	n=s|g=f	15	det	15	det
+15	fois	fois	NC	NC	g=f	13	prep	13	prep
+16	électronique	électronique	ADJ	ADJ	n=s	15	mod	15	mod
+17	et	et	CC	CC		16	coord	16	coord
+18	mécanique	mécanique	ADJ	ADJ	n=s	17	dep_coord	17	dep_coord
+19	)	)	PONCT	PONCT		18	ponct	18	ponct
+20	qui	qui	PROREL	PROREL	n=s	21	suj	21	suj
+21	coupe	couper	V	V	n=s|t=P,S|p=1,3	15	mod_rel	15	mod_rel
+22	le	le	DET	DET	n=s|g=m	23	det	23	det
+23	courant	courant	NC	NC	n=s|g=m	21	obj	21	obj
+24	électrique	électrique	ADJ	ADJ	n=s	23	mod	23	mod
+25	en	en	P	P		21	mod	21	mod
+26	cas	cas	NC	NC	g=m	25	prep	25	prep
+27	de	de	P	P		21	mod	21	mod
+28	problème	problème	NC	NC	n=s|g=m	27	prep	27	prep
+29	sur	sur	P	P		21	mod	21	mod
+30	le	le	DET	DET	n=s|g=m	31	det	31	det
+31	circuit	circuit	NC	NC	n=s|g=m	29	prep	29	prep
+32	(	(	PONCT	PONCT		31	ponct	31	ponct
+33	sur	sur	P	P		21	mod	21	mod
+34	-	-	PONCT	PONCT		33	ponct	33	ponct
+35	tension	tension	NC	NC	n=s|g=f	33	prep	33	prep
+36	,	,	PONCT	PONCT		35	ponct	35	ponct
+37	court-circuit	_	NC	NC		35	mod	35	mod
+38	)	)	PONCT	PONCT		37	ponct	37	ponct
+39	.	.	PONCT	PONCT		37	ponct	37	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	4	suj	4	suj
+2	peut	pouvoir	V	V	n=s|t=P|p=3	4	aux_caus	4	aux_caus
+3	soit	être	VS	VS	n=s|t=S|p=3	4	aux_caus	4	aux_caus
+4	protéger	protéger	VINF	VINF	t=W	0	root	0	root
+5	un	un	DET	DET	n=s|g=m	7	det	7	det
+6	seul	seul	ADJ	ADJ	n=s|g=m	7	mod	7	mod
+7	circuit	circuit	NC	NC	n=s|g=m	4	obj	4	obj
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	soit	soit	CC	CC		4	coord	4	coord
+10	en	en	CLO	CLO		11	obj	11	obj
+11	protéger	protéger	VINF	VINF	t=W	9	dep_coord	9	dep_coord
+12	plusieurs	plusieurs	PRO	PRO	n=p|g=f,m	11	obj	11	obj
+13	.	.	PONCT	PONCT		12	ponct	12	ponct
+
+1	Son	son	DET	DET	n=s|g=m|p=3|poss=s	3	det	3	det
+2	grand	grand	ADJ	ADJ	n=s|g=m	3	mod	3	mod
+3	avantage	avantage	NC	NC	n=s|g=m	9	suj	9	suj
+4	par	par	P	P		3	dep	3	dep
+5	rapport	rapport	NC	NC	n=s|g=m	4	prep	4	prep
+6	à	à	P	P		3	dep	3	dep
+7	un	un	DET	DET	n=s|g=m	8	det	8	det
+8	fusible	fusible	ADJ	ADJ	n=s	6	prep	6	prep
+9	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+10	qu'	que	CS	CS		9	mod	9	mod
+11	il	il	CLS	CLS	n=s|g=m|p=3	12	suj	12	suj
+12	est	être	V	V	n=s|t=P|p=3	10	sub	10	sub
+13	réarmable	_	ADV	ADV		12	mod	12	mod
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	c'	ce	DET	DET	n=s|g=m	16	det	16	det
+16	est-à-dire	_	NC	NC		12	obj	12	obj
+17	qu'	que	PROREL	PROREL		19	obj	19	obj
+18	on	on	CLS	CLS	n=s|p=3	19	suj	19	suj
+19	peut	pouvoir	V	V	n=s|t=P|p=3	16	mod_rel	16	mod_rel
+20	le	le	CLO	CLO	n=s|g=m|p=3	21	obj	21	obj
+21	remettre	remettre	VINF	VINF	t=W	19	obj	19	obj
+22	en	en	P	P		21	mod	21	mod
+23	fonctionnement	fonctionnement	NC	NC	n=s|g=m	22	prep	22	prep
+24	après	après	P	P		21	mod	21	mod
+25	une	une	DET	DET	n=s|g=f	26	det	26	det
+26	coupure	coupure	NC	NC	n=s|g=f	24	prep	24	prep
+27	en	en	P	P		19	mod	19	mod
+28	utilisant	utiliser	VPR	VPR	t=G	27	prep	27	prep
+29	une	une	DET	DET	n=s|g=f	31	det	31	det
+30	simple	simple	ADJ	ADJ	n=s	31	mod	31	mod
+31	manette	manette	NC	NC	n=s|g=f	28	obj	28	obj
+32	.	.	PONCT	PONCT		31	ponct	31	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	fusible	fusible	ADJ	ADJ	n=s	4	mod	4	mod
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	lui	lui	PRO	PRO	n=s|g=m|p=3	6	suj	6	suj
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	doit	devoir	V	V	n=s|t=P|p=3	0	root	0	root
+7	être	être	VINF	VINF	t=W	8	aux_pass	8	aux_pass
+8	remplacé	remplacer	VPP	VPP	n=s|g=m|t=K	6	obj	6	obj
+9	à	à	P	P		8	mod	8	mod
+10	chaque	chaque	DET	DET	n=s	11	det	11	det
+11	coupure	coupure	NC	NC	n=s|g=f	9	prep	9	prep
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+</p><h2>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	sortes	sorte	NC	NC	n=p|g=f	0	_	0	_
+3	de	de	P	P		2	dep	2	dep
+4	disjoncteurs	disjoncteur	NC	NC	n=p|g=m	3	prep	3	prep
+
+</h2><h3>
+1	Disjoncteur	disjoncteur	NC	NC	n=s|g=m	0	_	0	_
+2	thermique	thermique	ADJ	ADJ	n=s	1	mod	1	mod
+
+</h3><p>
+1	Cette	cette	DET	DET	n=s|g=f	2	det	2	det
+2	sorte	sorte	NC	NC	n=s|g=f	0	_	0	_
+3	de	de	P	P		2	dep	2	dep
+4	disjoncteur	disjoncteur	NC	NC	n=s|g=m	3	prep	3	prep
+5	s'	se	CLR	CLR	n=p,s|p=3	0	_	0	_
+6	enclenche	enclenche	NC	NC	n=s|g=f	0	_	0	_
+7	(	(	PONCT	PONCT		6	ponct	6	ponct
+8	coupe	coupe	NC	NC	n=s|g=f	6	mod	6	mod
+9	l'	le	DET	DET	n=s	10	det	10	det
+10	électricité	électricité	NC	NC	n=s|g=f	6	mod	6	mod
+11	)	)	PONCT	PONCT		10	ponct	10	ponct
+12	quand	quand	CS	CS		6	mod	6	mod
+13	un	un	DET	DET	n=s|g=m	14	det	14	det
+14	courant	courant	NC	NC	n=s|g=m	17	suj	17	suj
+15	trop	trop	ADV	ADV		16	mod	16	mod
+16	puissant	puissant	ADJ	ADJ	n=s|g=m	14	mod	14	mod
+17	traverse	traverser	V	V	n=s|t=P,S|p=1,3	12	sub	12	sub
+18	un	un	DET	DET	n=s|g=m	19	det	19	det
+19	bilame	bilame	NC	NC	n=s|g=m	17	obj	17	obj
+20	(	(	PONCT	PONCT		19	ponct	19	ponct
+21	deux	deux	DET	DET	s=card|n=p	23	det	23	det
+22	petites	petit	ADJ	ADJ	n=p|g=f	23	mod	23	mod
+23	lames	lame	NC	NC	n=p|g=f	17	mod	17	mod
+24	soudées	souder	VPP	VPP	n=p|g=f|t=K	23	mod	23	mod
+25	ensemble	ensemble	ADV	ADV		24	mod	24	mod
+26	)	)	PONCT	PONCT		25	ponct	25	ponct
+27	,	,	PONCT	PONCT		25	ponct	25	ponct
+28	et	et	CC	CC		17	coord	17	coord
+29	par	par	P	P		28	dep_coord	28	dep_coord
+30	conséquent	conséquent	ADJ	ADJ	n=s|g=m	29	prep	29	prep
+31	(	(	PONCT	PONCT		30	ponct	30	ponct
+32	effet	effet	NC	NC	n=s|g=m	29	prep	29	prep
+33	Joule	_	NPP	NPP		32	mod	32	mod
+34	)	)	PONCT	PONCT		33	ponct	33	ponct
+35	le	le	DET	DET	n=s|g=m	36	det	36	det
+36	fait	fait	NC	NC	n=s|g=m	17	obj	17	obj
+37	chauffer	chauffer	VINF	VINF	t=W	17	mod	17	mod
+38	et	et	CC	CC		17	coord	17	coord
+39	le	le	DET	DET	n=s|g=m	40	det	40	det
+40	déforme	déforme	NC	NC	n=s|g=f	0	_	0	_
+41	.	.	PONCT	PONCT		40	ponct	40	ponct
+
+1	Une	une	DET	DET	n=s|g=f	2	det	2	det
+2	fois	fois	NC	NC	g=f	7	mod	7	mod
+3	déformé	déformer	VPP	VPP	n=s|g=m|t=K	2	mod	2	mod
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	le	le	DET	DET	n=s|g=m	6	det	6	det
+6	bilame	bilame	NC	NC	n=s|g=m	7	suj	7	suj
+7	enclenche	enclencher	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+8	un	un	DET	DET	n=s|g=m	9	det	9	det
+9	système	système	NC	NC	n=s|g=m	7	obj	7	obj
+10	qui	qui	PROREL	PROREL	n=s	11	suj	11	suj
+11	va	aller	V	V	n=s|t=P|p=3	9	mod_rel	9	mod_rel
+12	ouvrir	ouvrir	VINF	VINF	t=W	11	obj	11	obj
+13	le	le	DET	DET	n=s|g=m	14	det	14	det
+14	circuit	circuit	NC	NC	n=s|g=m	12	obj	12	obj
+15	et	et	CC	CC		12	coord	12	coord
+16	couper	couper	VINF	VINF	t=W	15	dep_coord	15	dep_coord
+17	le	le	DET	DET	n=s|g=m	18	det	18	det
+18	courant	courant	NC	NC	n=s|g=m	16	obj	16	obj
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	Ce	ce	DET	DET	n=s|g=m	2	det	2	det
+2	système	système	NC	NC	n=s|g=m	6	suj	6	suj
+3	assez	assez	ADV	ADV		4	mod	4	mod
+4	simple	simple	ADJ	ADJ	n=s	2	mod	2	mod
+5	s’	se	CLR	CLR	n=p,s|p=3	6	aff	6	aff
+6	appelle	appeler	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+7	un	un	DET	DET	n=s|g=m	8	det	8	det
+8	système	système	NC	NC	n=s|g=m	6	obj	6	obj
+9	électromécanique	électromécanique	ADJ	ADJ	n=s	8	mod	8	mod
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+1	Malheureusement	_	ADV	ADV		5	mod	5	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	ce	ce	DET	DET	n=s|g=m	4	det	4	det
+4	système	système	NC	NC	n=s|g=m	5	suj	5	suj
+5	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+6	lent	lent	ADJ	ADJ	n=s|g=m	5	ats	5	ats
+7	et	et	CC	CC		6	coord	6	coord
+8	pas	pas	ADV	ADV		9	mod	9	mod
+9	très	très	ADV	ADV		10	mod	10	mod
+10	précis	précis	ADJ	ADJ	g=m	7	dep_coord	7	dep_coord
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+1	Mais	mais	CC	CC		0	root	0	root
+2	cela	cela	PRO	PRO	n=s|g=m	3	suj	3	suj
+3	a	avoir	V	V	n=s|t=P|p=3	1	dep_coord	1	dep_coord
+4	quand	quand	CS	CS		3	mod	3	mod
+5	même	même	ADV	ADV		10	mod	10	mod
+6	un	un	DET	DET	n=s|g=m	7	det	7	det
+7	avantage	avantage	NC	NC	n=s|g=m	10	suj	10	suj
+8	:	:	PONCT	PONCT		7	ponct	7	ponct
+9	il	il	CLS	CLS	n=s|g=m|p=3	10	suj	10	suj
+10	permet	permettre	V	V	n=s|t=P|p=3	4	sub	4	sub
+11	d'	de	P	P		10	obj	10	obj
+12	éviter	éviter	VINF	VINF	t=W	11	prep	11	prep
+13	les	les	DET	DET	n=p	14	det	14	det
+14	incendies	incendie	NC	NC	n=p|g=m	12	obj	12	obj
+15	qui	qui	PROREL	PROREL	n=s	16	suj	16	suj
+16	ont	avoir	V	V	n=p|t=P|p=3	14	mod_rel	14	mod_rel
+17	pour	pour	P	P		16	mod	16	mod
+18	cause	cause	NC	NC	n=s|g=f	17	prep	17	prep
+19	une	une	DET	DET	n=s|g=f	20	det	20	det
+20	surchauffe	surchauffe	NC	NC	n=s|g=f	16	obj	16	obj
+21	du	de	P+D	P+D	n=s|g=m	20	dep	20	dep
+22	circuit	circuit	NC	NC	n=s|g=m	21	prep	21	prep
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	à	à	P	P		16	mod	16	mod
+25	cause	cause	NC	NC	n=s|g=f	24	prep	24	prep
+26	d'	de	P	P		16	mod	16	mod
+27	un	un	DET	DET	n=s|g=m	28	det	28	det
+28	courant	courant	NC	NC	n=s|g=m	26	prep	26	prep
+29	trop	trop	ADV	ADV		30	mod	30	mod
+30	puissant	puissant	ADJ	ADJ	n=s|g=m	28	mod	28	mod
+31	et	et	CC	CC		28	coord	28	coord
+32	prolongé	prolonger	VPP	VPP	n=s|g=m|t=K	31	dep_coord	31	dep_coord
+33	.	.	PONCT	PONCT		32	ponct	32	ponct
+
+</p><p>
+1	Autrefois	autrefois	ADV	ADV		6	mod	6	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	ce	ce	DET	DET	n=s|g=m	4	det	4	det
+4	disjoncteur	disjoncteur	NC	NC	n=s|g=m	6	suj	6	suj
+5	était	être	V	V	n=s|t=I|p=3	6	aux_pass	6	aux_pass
+6	remplacé	remplacer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+7	par	par	P	P		6	mod	6	mod
+8	des	des	DET	DET	n=p	9	det	9	det
+9	fusibles	fusible	ADJ	ADJ	n=p	7	prep	7	prep
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+</p><h3>
+1	Disjoncteur	disjoncteur	NC	NC	n=s|g=m	0	_	0	_
+2	magnétique	magnétique	ADJ	ADJ	n=s	1	mod	1	mod
+
+</h3><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	courant	courant	NC	NC	n=s|g=m	5	suj	5	suj
+3	électrique	électrique	ADJ	ADJ	n=s	2	mod	2	mod
+4	sur-puissant	_	NPP	NPP		2	mod	2	mod
+5	passe	passer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+6	dans	dans	P	P		5	mod	5	mod
+7	une	une	DET	DET	n=s|g=f	8	det	8	det
+8	bobine	bobine	NC	NC	n=s|g=f	6	prep	6	prep
+9	de	de	P	P		5	mod	5	mod
+10	fil	fil	NC	NC	n=s|g=m	9	prep	9	prep
+11	de	de	P	P		5	mod	5	mod
+12	cuivre	cuivre	NC	NC	n=s|g=m	11	prep	11	prep
+13	.	.	PONCT	PONCT		12	ponct	12	ponct
+
+1	Cela	cela	PRO	PRO	n=s|g=m	2	suj	2	suj
+2	produit	produire	V	V	n=s|t=P|p=3	0	root	0	root
+3	un	un	DET	DET	n=s|g=m	4	det	4	det
+4	champ	champ	NC	NC	n=s|g=m	2	obj	2	obj
+5	magnétique	magnétique	ADJ	ADJ	n=s	4	mod	4	mod
+6	(	(	PONCT	PONCT		5	ponct	5	ponct
+7	le	le	DET	DET	n=s|g=m	9	det	9	det
+8	même	même	ADJ	ADJ	n=s	9	mod	9	mod
+9	effet	effet	NC	NC	n=s|g=m	2	mod	2	mod
+10	qu'	que	CS	CS		2	mod	2	mod
+11	un	un	DET	DET	n=s|g=m	12	det	12	det
+12	aimant	aimant	NC	NC	n=s|g=m	0	_	0	_
+13	)	)	PONCT	PONCT		12	ponct	12	ponct
+14	.	.	PONCT	PONCT		12	ponct	12	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	champ	champ	NC	NC	n=s|g=m	4	suj	4	suj
+3	magnétique	magnétique	ADJ	ADJ	n=s	2	mod	2	mod
+4	attire	attirer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+5	une	une	DET	DET	n=s|g=f	6	det	6	det
+6	sorte	sorte	NC	NC	n=s|g=f	4	obj	4	obj
+7	de	de	P	P		6	dep	6	dep
+8	boule	boule	NC	NC	n=s|g=f	7	prep	7	prep
+9	de	de	P	P		8	dep	8	dep
+10	fer	fer	NC	NC	n=s|g=m	9	prep	9	prep
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	qui	qui	PROREL	PROREL	n=s	13	suj	13	suj
+13	va	aller	V	V	n=s|t=P|p=3	4	mod	4	mod
+14	mécaniquement	_	NC	NC		13	obj	13	obj
+15	(	(	PONCT	PONCT		14	ponct	14	ponct
+16	sans	sans	P	P		13	mod	13	mod
+17	système	système	NC	NC	n=s|g=m	16	prep	16	prep
+18	électrique	électrique	ADJ	ADJ	n=s	17	mod	17	mod
+19	)	)	PONCT	PONCT		18	ponct	18	ponct
+20	ouvrir	ouvrir	VINF	VINF	t=W	13	obj	13	obj
+21	le	le	DET	DET	n=s|g=m	22	det	22	det
+22	circuit	circuit	NC	NC	n=s|g=m	20	obj	20	obj
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	et	et	CC	CC		20	coord	20	coord
+25	couper	couper	VINF	VINF	t=W	24	dep_coord	24	dep_coord
+26	le	le	DET	DET	n=s|g=m	27	det	27	det
+27	courant	courant	NC	NC	n=s|g=m	25	obj	25	obj
+28	.	.	PONCT	PONCT		27	ponct	27	ponct
+
+1	Ce	ce	DET	DET	n=s|g=m	2	det	2	det
+2	système	système	NC	NC	n=s|g=m	3	suj	3	suj
+3	peut	pouvoir	V	V	n=s|t=P|p=3	0	root	0	root
+4	remplacer	remplacer	VINF	VINF	t=W	3	obj	3	obj
+5	le	le	DET	DET	n=s|g=m	6	det	6	det
+6	fusible	fusible	ADJ	ADJ	n=s	4	obj	4	obj
+7	pour	pour	P	P		4	mod	4	mod
+8	les	les	DET	DET	n=p	9	det	9	det
+9	courts-circuits	_	NC	NC		7	prep	7	prep
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+</p><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	courant	courant	NC	NC	n=s|g=m	4	suj	4	suj
+3	est	être	V	V	n=s|t=P|p=3	4	aux_tps	4	aux_tps
+4	coupé	couper	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+5	immédiatement	_	ADV	ADV		4	mod	4	mod
+6	dans	dans	P	P		4	mod	4	mod
+7	le	le	DET	DET	n=s|g=m	8	det	8	det
+8	cas	cas	NC	NC	g=m	6	prep	6	prep
+9	d'	de	P	P		4	mod	4	mod
+10	un	un	DET	DET	n=s|g=m	11	det	11	det
+11	système	système	NC	NC	n=s|g=m	9	prep	9	prep
+12	rapide	rapide	ADJ	ADJ	n=s	11	mod	11	mod
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	ou	ou	CC	CC		4	coord	4	coord
+15	"	"	PONCT	PONCT		14	ponct	14	ponct
+16	contrôlé	contrôler	VPP	VPP	n=s|g=m|t=K	14	dep_coord	14	dep_coord
+17	"	"	PONCT	PONCT		16	ponct	16	ponct
+18	par	par	P	P		16	mod	16	mod
+19	une	une	DET	DET	n=s|g=f	20	det	20	det
+20	bobine	bobine	NC	NC	n=s|g=f	18	prep	18	prep
+21	qui	qui	PROREL	PROREL	n=s	22	suj	22	suj
+22	permet	permettre	V	V	n=s|t=P|p=3	20	mod_rel	20	mod_rel
+23	des	des	DET	DET	n=p	24	det	24	det
+24	coupures	coupure	NC	NC	n=p|g=f	22	obj	22	obj
+25	retardées	retarder	VPP	VPP	n=p|g=f|t=K	24	mod	24	mod
+26	.	.	PONCT	PONCT		25	ponct	25	ponct
+
+</p><p>
+1	Ce	ce	DET	DET	n=s|g=m	2	det	2	det
+2	genre	genre	NC	NC	n=s|g=m	5	suj	5	suj
+3	de	de	P	P		2	dep	2	dep
+4	disjoncteur	disjoncteur	NC	NC	n=s|g=m	3	prep	3	prep
+5	a	avoir	V	V	n=s|t=P|p=3	0	root	0	root
+6	pour	pour	P	P		5	mod	5	mod
+7	but	but	NC	NC	n=s|g=m	6	prep	6	prep
+8	de	de	P	P		5	mod	5	mod
+9	protéger	protéger	VINF	VINF	t=W	8	prep	8	prep
+10	les	les	DET	DET	n=p	11	det	11	det
+11	appareils	appareil	NC	NC	n=p|g=m	9	obj	9	obj
+12	contre	contre	P	P		9	mod	9	mod
+13	les	les	DET	DET	n=p	14	det	14	det
+14	pannes	panne	NC	NC	n=p|g=f	12	prep	12	prep
+15	:	:	PONCT	PONCT		14	ponct	14	ponct
+16	surtension	surtension	NC	NC	n=s|g=f	14	mod	14	mod
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	court-circuit	_	NC	NC		14	mod	14	mod
+19	...	...	PONCT	PONCT		18	ponct	18	ponct
+
+1	Un	un	DET	DET	n=s|g=m	2	det	2	det
+2	ingénieur	ingénieur	NC	NC	n=s|g=m	6	suj	6	suj
+3	dont	dont	PROREL	PROREL		6	mod	6	mod
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	priorité	priorité	NC	NC	n=s|g=f	6	suj	6	suj
+6	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+7	de	de	P	P		6	ats	6	ats
+8	protéger	protéger	VINF	VINF	t=W	7	prep	7	prep
+9	son	son	DET	DET	n=s|g=m|p=3|poss=s	10	det	10	det
+10	équipement	équipement	NC	NC	n=s|g=m	8	obj	8	obj
+11	préférera	préférer	V	V	n=s|t=F|p=3	6	mod	6	mod
+12	ce	ce	DET	DET	n=s|g=m	13	det	13	det
+13	disjoncteur	disjoncteur	NC	NC	n=s|g=m	11	obj	11	obj
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+</p><h3>
+1	Disjoncteur	disjoncteur	NC	NC	n=s|g=m	0	_	0	_
+2	magnéto	magnéto	NC	NC	n=s	1	mod	1	mod
+3	-	-	PONCT	PONCT		2	ponct	2	ponct
+4	thermique	thermique	ADJ	ADJ	n=s	1	mod	1	mod
+
+</h3><h4>
+1	Principe	principe	NC	NC	n=s|g=m	0	_	0	_
+2	de	de	P	P		1	dep	1	dep
+3	fonctionnement	fonctionnement	NC	NC	n=s|g=m	2	prep	2	prep
+
+</h4><p>
+1	On	on	CLS	CLS	n=s|p=3	2	suj	2	suj
+2	combine	combiner	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	le	le	DET	DET	n=s|g=m	4	det	4	det
+4	disjoncteur	disjoncteur	NC	NC	n=s|g=m	2	obj	2	obj
+5	thermique	thermique	ADJ	ADJ	n=s	4	mod	4	mod
+6	et	et	CC	CC		2	coord	2	coord
+7	le	le	DET	DET	n=s|g=m	9	det	9	det
+8	magnétique	magnétique	ADJ	ADJ	n=s	9	mod	9	mod
+9	afin	_	NC	NC		0	_	0	_
+10	d'	de	P	P		9	dep	9	dep
+11	avoir	avoir	VINF	VINF	t=W	10	prep	10	prep
+12	une	une	DET	DET	n=s|g=f	13	det	13	det
+13	protection	protection	NC	NC	n=s|g=f	11	obj	11	obj
+14	pour	pour	P	P		11	mod	11	mod
+15	plusieurs	plusieurs	DET	DET	n=p	16	det	16	det
+16	problèmes	problème	NC	NC	n=p|g=m	14	prep	14	prep
+17	:	:	PONCT	PONCT		16	ponct	16	ponct
+
+</p><p>
+1	en	en	P	P		7	mod	7	mod
+2	cas	cas	NC	NC	g=m	1	prep	1	prep
+3	de	de	P	P		7	mod	7	mod
+4	surtension	surtension	NC	NC	n=s|g=f	3	prep	3	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	on	on	CLS	CLS	n=s|p=3	7	suj	7	suj
+7	utilise	utiliser	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+8	l'	le	DET	DET	n=s	9	det	9	det
+9	effet	effet	NC	NC	n=s|g=m	7	obj	7	obj
+10	thermique	thermique	ADJ	ADJ	n=s	9	mod	9	mod
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	résolution	résolution	NC	NC	n=s|g=f	5	suj	5	suj
+3	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+4	problème	problème	NC	NC	n=s|g=m	3	prep	3	prep
+5	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+6	lent	lent	ADJ	ADJ	n=s|g=m	5	ats	5	ats
+7	(	(	PONCT	PONCT		6	ponct	6	ponct
+8	la	la	DET	DET	n=s|g=f	9	det	9	det
+9	coupure	coupure	NC	NC	n=s|g=f	10	suj	10	suj
+10	peut	pouvoir	V	V	n=s|t=P|p=3	5	mod	5	mod
+11	mettre	mettre	VINF	VINF	t=W	10	obj	10	obj
+12	de	de	P	P		11	mod	11	mod
+13	quelques	quelques	DET	DET	n=p	14	det	14	det
+14	dixièmes	dixième	ADJ	ADJ	n=p	12	prep	12	prep
+15	de	de	P	P		11	mod	11	mod
+16	seconde	second	ADJ	ADJ	n=s|g=f	15	prep	15	prep
+17	à	à	P	P		11	mod	11	mod
+18	quelques	quelques	DET	DET	n=p	19	det	19	det
+19	minutes	minute	NC	NC	n=p|g=f	17	prep	17	prep
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	en	en	P	P		11	mod	11	mod
+22	fonction	fonction	NC	NC	n=s|g=f	21	prep	21	prep
+23	de	de	P	P		11	mod	11	mod
+24	l'	le	DET	DET	n=s	25	det	25	det
+25	importance	importance	NC	NC	n=s|g=f	23	prep	23	prep
+26	de	de	P	P		11	mod	11	mod
+27	la	la	DET	DET	n=s|g=f	28	det	28	det
+28	surcharge	surcharge	NC	NC	n=s|g=f	26	prep	26	prep
+29	)	)	PONCT	PONCT		28	ponct	28	ponct
+30	;	;	PONCT	PONCT		28	ponct	28	ponct
+
+</p><p>
+1	en	en	P	P		0	_	0	_
+2	cas	cas	NC	NC	g=m	1	prep	1	prep
+3	d'	de	P	P		0	_	0	_
+4	un	un	DET	DET	n=s|g=m	5	det	5	det
+5	court-circuit	_	NC	NC		3	prep	3	prep
+6	(	(	PONCT	PONCT		5	ponct	5	ponct
+7	provoquant	provoquer	VPR	VPR	t=G	5	mod	5	mod
+8	l'	le	DET	DET	n=s	9	det	9	det
+9	augmentation	augmentation	NC	NC	n=s|g=f	7	obj	7	obj
+10	de	de	P	P		7	mod	7	mod
+11	l'	le	DET	DET	n=s	12	det	12	det
+12	intensité	intensité	NC	NC	n=s|g=f	10	prep	10	prep
+13	du	de	P+D	P+D	n=s|g=m	7	mod	7	mod
+14	courant	courant	NC	NC	n=s|g=m	13	prep	13	prep
+15	électrique	électrique	ADJ	ADJ	n=s	14	mod	14	mod
+16	pouvant	pouvoir	VPR	VPR	t=G	14	mod	14	mod
+17	monter	monter	VINF	VINF	t=W	16	obj	16	obj
+18	à	à	P	P		17	mod	17	mod
+19	plusieurs	plusieurs	DET	DET	n=p	20	det	20	det
+20	milliers	millier	NC	NC	n=p|g=m	18	prep	18	prep
+21	d'	de	P	P		17	mod	17	mod
+22	ampères	ampère	NC	NC	n=p|g=m	21	prep	21	prep
+23	)	)	PONCT	PONCT		22	ponct	22	ponct
+24	,	,	PONCT	PONCT		22	ponct	22	ponct
+25	on	on	CLS	CLS	n=s|p=3	26	suj	26	suj
+26	utilise	utiliser	V	V	n=s|t=P,S|p=1,3	7	mod	7	mod
+27	l'	le	DET	DET	n=s	28	det	28	det
+28	effet	effet	NC	NC	n=s|g=m	26	obj	26	obj
+29	magnétique	magnétique	ADJ	ADJ	n=s	28	mod	28	mod
+30	.	.	PONCT	PONCT		29	ponct	29	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	système	système	NC	NC	n=s|g=m	3	suj	3	suj
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	alors	alors	ADV	ADV		3	mod	3	mod
+5	très	très	ADV	ADV		6	mod	6	mod
+6	rapide	rapide	ADJ	ADJ	n=s	3	ats	3	ats
+7	(	(	PONCT	PONCT		6	ponct	6	ponct
+8	quelques	quelques	DET	DET	n=p	9	det	9	det
+9	millièmes	millième	NC	NC	n=p	0	_	0	_
+10	de	de	P	P		9	dep	9	dep
+11	seconde	second	ADJ	ADJ	n=s|g=f	10	prep	10	prep
+12	)	)	PONCT	PONCT		11	ponct	11	ponct
+13	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+</p><h4>
+1	Composants	composant	NC	NC	n=p|g=m	0	_	0	_
+
+</h4><p>
+1	Manette	manette	NC	NC	n=s|g=f	0	_	0	_
+2	servant	servir	VPR	VPR	t=G	1	mod	1	mod
+3	à	à	P	P		2	a_obj	2	a_obj
+4	couper	couper	VINF	VINF	t=W	3	prep	3	prep
+5	ou	ou	CC	CC		1	coord	1	coord
+6	à	à	P	P		5	dep_coord	5	dep_coord
+7	réarmer	réarmer	VINF	VINF	t=W	6	prep	6	prep
+8	le	le	DET	DET	n=s|g=m	9	det	9	det
+9	disjoncteur	disjoncteur	NC	NC	n=s|g=m	0	_	0	_
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	2	suj	2	suj
+2	indique	indiquer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	aussi	aussi	ADV	ADV		2	mod	2	mod
+4	l'	le	DET	DET	n=s	5	det	5	det
+5	état	état	NC	NC	n=s|g=m	2	obj	2	obj
+6	du	de	P+D	P+D	n=s|g=m	5	dep	5	dep
+7	disjoncteur	disjoncteur	NC	NC	n=s|g=m	6	prep	6	prep
+8	(	(	PONCT	PONCT		7	ponct	7	ponct
+9	exemple	exemple	NC	NC	n=s|g=m	7	mod	7	mod
+10	:	:	PONCT	PONCT		9	ponct	9	ponct
+11	si	si	CS	CS		2	mod	2	mod
+12	la	la	DET	DET	n=s|g=f	13	det	13	det
+13	manette	manette	NC	NC	n=s|g=f	15	suj	15	suj
+14	est	être	V	V	n=s|t=P|p=3	15	aux_pass	15	aux_pass
+15	dirigée	diriger	VPP	VPP	n=s|g=f|t=K	11	sub	11	sub
+16	vers	vers	P	P		15	mod	15	mod
+17	le	le	DET	DET	n=s|g=m	18	det	18	det
+18	bas	bas	ADJ	ADJ	g=m	16	prep	16	prep
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	le	le	DET	DET	n=s|g=m	21	det	21	det
+21	courant	courant	NC	NC	n=s|g=m	23	suj	23	suj
+22	est	être	V	V	n=s|t=P|p=3	23	aux_tps	23	aux_tps
+23	coupé	couper	VPP	VPP	n=s|g=m|t=K	15	mod	15	mod
+24	)	)	PONCT	PONCT		23	ponct	23	ponct
+25	;	;	PONCT	PONCT		23	ponct	23	ponct
+
+</p><p>
+1	Système	système	NC	NC	n=s|g=m	16	suj	16	suj
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	qui	qui	PROREL	PROREL	n=s	16	suj	16	suj
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	en	en	P	P		16	mod	16	mod
+6	fonction	fonction	NC	NC	n=s|g=f	5	prep	5	prep
+7	de	de	P	P		6	dep	6	dep
+8	la	la	DET	DET	n=s|g=f	9	det	9	det
+9	position	position	NC	NC	n=s|g=f	7	prep	7	prep
+10	de	de	P	P		6	dep	6	dep
+11	la	la	DET	DET	n=s|g=f	12	det	12	det
+12	manette	manette	NC	NC	n=s|g=f	10	prep	10	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	active	actif	ADJ	ADJ	n=s|g=f	12	mod	12	mod
+15	ou	ou	CC	CC		5	coord	5	coord
+16	désactive	désactiver	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+17	le	le	DET	DET	n=s|g=m	18	det	18	det
+18	passage	passage	NC	NC	n=s|g=m	16	obj	16	obj
+19	du	de	P+D	P+D	n=s|g=m	18	dep	18	dep
+20	courant	courant	NC	NC	n=s|g=m	19	prep	19	prep
+21	;	;	PONCT	PONCT		20	ponct	20	ponct
+
+</p><p>
+1	Permet	permettre	V	V	n=s|t=P|p=3	0	root	0	root
+2	le	le	DET	DET	n=s|g=m	3	det	3	det
+3	passage	passage	NC	NC	n=s|g=m	1	obj	1	obj
+4	du	de	P+D	P+D	n=s|g=m	3	dep	3	dep
+5	courant	courant	NC	NC	n=s|g=m	4	prep	4	prep
+6	(	(	PONCT	PONCT		5	ponct	5	ponct
+7	quand	quand	CS	CS		1	mod	1	mod
+8	celui-ci	celui-ci	PRO	PRO	n=s|g=m	12	suj	12	suj
+9	n'	ne	ADV	ADV		12	mod	12	mod
+10	est	être	V	V	n=s|t=P|p=3	12	aux_pass	12	aux_pass
+11	pas	pas	ADV	ADV		12	mod	12	mod
+12	bloqué	bloquer	VPP	VPP	n=s|g=m|t=K	7	sub	7	sub
+13	par	par	P	P		12	mod	12	mod
+14	le	le	DET	DET	n=s|g=m	15	det	15	det
+15	disjoncteur	disjoncteur	NC	NC	n=s|g=m	13	prep	13	prep
+16	)	)	PONCT	PONCT		15	ponct	15	ponct
+17	;	;	PONCT	PONCT		15	ponct	15	ponct
+
+</p><p>
+1	Système	système	NC	NC	n=s|g=m	0	_	0	_
+2	qui	qui	PROREL	PROREL	n=s	3	suj	3	suj
+3	fait	faire	V	V	n=s|t=P|p=3	1	mod_rel	1	mod_rel
+4	entrer	entrer	VINF	VINF	t=W	3	obj	3	obj
+5	et	et	CC	CC		4	coord	4	coord
+6	sortir	sortir	VINF	VINF	t=W	5	dep_coord	5	dep_coord
+7	le	le	DET	DET	n=s|g=m	8	det	8	det
+8	courant	courant	NC	NC	n=s|g=m	4	obj	4	obj
+9	du	de	P+D	P+D	n=s|g=m	4	mod	4	mod
+10	disjoncteur	disjoncteur	NC	NC	n=s|g=m	9	prep	9	prep
+11	;	;	PONCT	PONCT		10	ponct	10	ponct
+
+</p><p>
+1	Bilame	bilame	NC	NC	n=s|g=m	0	_	0	_
+2	(	(	PONCT	PONCT		1	ponct	1	ponct
+3	deux	deux	DET	DET	s=card|n=p	4	det	4	det
+4	lames	lame	NC	NC	n=p|g=f	0	_	0	_
+5	soudées	souder	VPP	VPP	n=p|g=f|t=K	4	mod	4	mod
+6	se	se	CLR	CLR	n=p,s|p=3	7	aff	7	aff
+7	déformant	déformer	VPR	VPR	t=G	4	mod	4	mod
+8	à	à	P	P		7	mod	7	mod
+9	différentes	différent	ADJ	ADJ	n=p|g=f	8	prep	8	prep
+10	températures	température	NC	NC	n=p|g=f	8	prep	8	prep
+11	)	)	PONCT	PONCT		10	ponct	10	ponct
+12	:	:	PONCT	PONCT		10	ponct	10	ponct
+13	protection	protection	NC	NC	n=s|g=f	7	mod	7	mod
+14	contre	contre	P	P		7	mod	7	mod
+15	les	les	DET	DET	n=p	16	det	16	det
+16	surcharges	surcharge	NC	NC	n=p|g=f	14	prep	14	prep
+17	;	;	PONCT	PONCT		16	ponct	16	ponct
+
+</p><p>
+1	Permet	permettre	V	V	n=s|t=P|p=3	0	root	0	root
+2	au	à	P+D	P+D	n=s|g=m	1	mod	1	mod
+3	fabricant	fabricant	NC	NC	n=s|g=m	2	prep	2	prep
+4	d'	de	P	P		1	mod	1	mod
+5	indiquer	indiquer	VINF	VINF	t=W	4	prep	4	prep
+6	des	des	DET	DET	n=p	7	det	7	det
+7	informations	information	NC	NC	n=p|g=f	5	obj	5	obj
+8	sur	sur	P	P		5	mod	5	mod
+9	le	le	DET	DET	n=s|g=m	10	det	10	det
+10	disjoncteur	disjoncteur	NC	NC	n=s|g=m	8	prep	8	prep
+11	;	;	PONCT	PONCT		10	ponct	10	ponct
+
+</p><p>
+1	Bobine	bobine	NC	NC	n=s|g=f	0	_	0	_
+2	:	:	PONCT	PONCT		1	ponct	1	ponct
+3	protection	protection	NC	NC	n=s|g=f	1	mod	1	mod
+4	contre	contre	P	P		3	dep	3	dep
+5	les	les	DET	DET	n=p	6	det	6	det
+6	courts-circuits	_	NC	NC		4	prep	4	prep
+7	;	;	PONCT	PONCT		6	ponct	6	ponct
+
+</p><p>
+1	Système	système	NC	NC	n=s|g=m	0	_	0	_
+2	de	de	P	P		1	dep	1	dep
+3	coupure	coupure	NC	NC	n=s|g=f	2	prep	2	prep
+4	de	de	P	P		1	dep	1	dep
+5	l'	le	DET	DET	n=s	6	det	6	det
+6	arc	arc	NC	NC	n=s|g=m	4	prep	4	prep
+7	électrique	électrique	ADJ	ADJ	n=s	6	mod	6	mod
+8	.	.	PONCT	PONCT		7	ponct	7	ponct
+
+</p><h4>
+1	Utilisation	utilisation	NC	NC	n=s|g=f	0	_	0	_
+
+</h4><p>
+1	On	on	CLS	CLS	n=s|p=3	3	suj	3	suj
+2	les	les	CLO	CLO	n=p|p=3	3	obj	3	obj
+3	utilise	utiliser	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	pour	pour	P	P		3	mod	3	mod
+5	remplacer	remplacer	VINF	VINF	t=W	4	prep	4	prep
+6	les	les	DET	DET	n=p	8	det	8	det
+7	fusibles	fusible	ADJ	ADJ	n=p	8	mod	8	mod
+8	gG	_	NC	NC		5	obj	5	obj
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	et	et	CC	CC		5	coord	5	coord
+11	offrir	offrir	VINF	VINF	t=W	10	dep_coord	10	dep_coord
+12	l'	le	DET	DET	n=s	13	det	13	det
+13	avantage	avantage	NC	NC	n=s|g=m	11	obj	11	obj
+14	des	de	P+D	P+D	n=p	13	dep	13	dep
+15	disjoncteurs	disjoncteur	NC	NC	n=p|g=m	14	prep	14	prep
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	celui	celui	PRO	PRO	n=s|g=m	13	mod	13	mod
+18	d'	de	P	P		17	dep	17	dep
+19	être	être	VINF	VINF	t=W	18	prep	18	prep
+20	réarmable	_	ADV	ADV		19	mod	19	mod
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	tout	tout	ADV	ADV		19	mod	19	mod
+23	en	en	P	P		19	mod	19	mod
+24	cumulant	cumuler	VPR	VPR	t=G	23	prep	23	prep
+25	dans	dans	P	P		24	mod	24	mod
+26	le	le	DET	DET	n=s|g=m	28	det	28	det
+27	même	même	ADJ	ADJ	n=s	28	mod	28	mod
+28	boîtier	boîtier	NC	NC	n=s|g=m	25	prep	25	prep
+29	deux	deux	DET	DET	s=card|n=p	30	det	30	det
+30	sortes	sorte	NC	NC	n=p|g=f	24	obj	24	obj
+31	de	de	P	P		30	dep	30	dep
+32	protection	protection	NC	NC	n=s|g=f	31	prep	31	prep
+33	.	.	PONCT	PONCT		32	ponct	32	ponct
+
+</p><h3>
+1	Disjoncteur	disjoncteur	NC	NC	n=s|g=m	0	_	0	_
+2	différentiel	différentiel	NC	NC	n=p,s|g=m	1	mod	1	mod
+
+</h3><p>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	disjoncteurs	disjoncteur	NC	NC	n=p|g=m	4	suj	4	suj
+3	différentiels	différentiel	ADJ	ADJ	n=p|g=m	2	mod	2	mod
+4	protègent	protéger	V	V	n=p|t=P,S|p=3	0	root	0	root
+5	des	des	DET	DET	n=p	6	det	6	det
+6	courants	courant	NC	NC	n=p|g=m	4	obj	4	obj
+7	de	de	P	P		6	dep	6	dep
+8	fuite	fuite	NC	NC	n=s|g=f	7	prep	7	prep
+9	(	(	PONCT	PONCT		8	ponct	8	ponct
+10	ou	ou	CC	CC		6	coord	6	coord
+11	courant	courant	NC	NC	n=s|g=m	10	dep_coord	10	dep_coord
+12	de	de	P	P		11	dep	11	dep
+13	défaut	défaut	NC	NC	n=s|g=m	12	prep	12	prep
+14	)	)	PONCT	PONCT		13	ponct	13	ponct
+15	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+1	Ce	ce	DET	DET	n=s|g=m	2	det	2	det
+2	défaut	défaut	NC	NC	n=s|g=m	5	suj	5	suj
+3	est	être	V	V	n=s|t=P|p=3	5	aux_tps	5	aux_tps
+4	aussi	aussi	ADV	ADV		5	mod	5	mod
+5	appelé	appeler	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+6	un	un	DET	DET	n=s|g=m	7	det	7	det
+7	courant	courant	NC	NC	n=s|g=m	5	obj	5	obj
+8	résiduel	résiduel	ADJ	ADJ	n=s|g=m	7	mod	7	mod
+9	.	.	PONCT	PONCT		8	ponct	8	ponct
+
+</p><h4>
+1	Description	description	NC	NC	n=s|g=f	0	_	0	_
+
+</h4><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	principe	principe	NC	NC	n=s|g=m	14	suj	14	suj
+3	de	de	P	P		2	dep	2	dep
+4	fonctionnement	fonctionnement	NC	NC	n=s|g=m	3	prep	3	prep
+5	d'	de	P	P		2	dep	2	dep
+6	un	un	DET	DET	n=s|g=m	7	det	7	det
+7	disjoncteur	disjoncteur	NC	NC	n=s|g=m	5	prep	5	prep
+8	différentiel	différentiel	ADJ	ADJ	n=s|g=m	7	mod	7	mod
+9	(	(	PONCT	PONCT		8	ponct	8	ponct
+10	aussi	aussi	ADV	ADV		11	mod	11	mod
+11	appelé	appeler	VPP	VPP	n=s|g=m|t=K	2	mod	2	mod
+12	DDR	_	NPP	NPP		11	mod	11	mod
+13	)	)	PONCT	PONCT		12	ponct	12	ponct
+14	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+15	de	de	P	P		14	mod	14	mod
+16	comparer	comparer	VINF	VINF	t=W	15	prep	15	prep
+17	les	les	DET	DET	n=p	18	det	18	det
+18	intensités	intensité	NC	NC	n=p|g=f	16	obj	16	obj
+19	des	de	P+D	P+D	n=p	16	mod	16	mod
+20	courants	courant	NC	NC	n=p|g=m	19	prep	19	prep
+21	électriques	électrique	ADJ	ADJ	n=p	20	mod	20	mod
+22	sur	sur	P	P		16	mod	16	mod
+23	le	le	DET	DET	n=s|g=m	24	det	24	det
+24	fil	fil	NC	NC	n=s|g=m	22	prep	22	prep
+25	amenant	amener	VPR	VPR	t=G	16	mod	16	mod
+26	le	le	DET	DET	n=s|g=m	27	det	27	det
+27	courant	courant	NC	NC	n=s|g=m	25	obj	25	obj
+28	et	et	CC	CC		27	coord	27	coord
+29	celui	celui	PRO	PRO	n=s|g=m	28	dep_coord	28	dep_coord
+30	qui	qui	PROREL	PROREL	n=s	32	suj	32	suj
+31	le	le	CLO	CLO	n=s|g=m|p=3	32	obj	32	obj
+32	renvoie	renvoyer	V	V	n=s|t=P,S|p=1,3	29	mod_rel	29	mod_rel
+33	.	.	PONCT	PONCT		32	ponct	32	ponct
+
+1	Par	par	P	P		6	mod	6	mod
+2	exemple	exemple	NC	NC	n=s|g=m	1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	un	un	DET	DET	n=s|g=m	5	det	5	det
+5	disjoncteur	disjoncteur	NC	NC	n=s|g=m	6	suj	6	suj
+6	dit	dire	V	V	n=s|t=J,P|p=3	0	root	0	root
+7	monophasé	_	VINF	VINF		6	obj	6	obj
+8	(	(	PONCT	PONCT		7	ponct	7	ponct
+9	qui	qui	PROREL	PROREL	n=s	11	suj	11	suj
+10	ne	ne	ADV	ADV		11	mod	11	mod
+11	contrôle	contrôler	V	V	n=s|t=P,S|p=1,3	6	mod	6	mod
+12	qu'	que	CS	CS		11	obj	11	obj
+13	un	un	DET	DET	n=s|g=m	14	det	14	det
+14	système	système	NC	NC	n=s|g=m	18	suj	18	suj
+15	)	)	PONCT	PONCT		14	ponct	14	ponct
+16	,	,	PONCT	PONCT		14	ponct	14	ponct
+17	il	il	CLS	CLS	n=s|g=m|p=3	18	suj	18	suj
+18	compare	comparer	V	V	n=s|t=P,S|p=1,3	12	sub	12	sub
+19	l'	le	DET	DET	n=s	20	det	20	det
+20	intensité	intensité	NC	NC	n=s|g=f	18	obj	18	obj
+21	du	de	P+D	P+D	n=s|g=m	20	dep	20	dep
+22	courant	courant	NC	NC	n=s|g=m	21	prep	21	prep
+23	circulant	circulant	ADJ	ADJ	n=s|g=m	22	mod	22	mod
+24	dans	dans	P	P		18	mod	18	mod
+25	le	le	DET	DET	n=s|g=m	26	det	26	det
+26	fil	fil	NC	NC	n=s|g=m	24	prep	24	prep
+27	positif	positif	ADJ	ADJ	n=s|g=m	26	mod	26	mod
+28	(	(	PONCT	PONCT		27	ponct	27	ponct
+29	amenant	amener	VPR	VPR	t=G	18	mod	18	mod
+30	le	le	DET	DET	n=s|g=m	31	det	31	det
+31	courant	courant	NC	NC	n=s|g=m	29	obj	29	obj
+32	)	)	PONCT	PONCT		31	ponct	31	ponct
+33	,	,	PONCT	PONCT		31	ponct	31	ponct
+34	et	et	CC	CC		18	coord	18	coord
+35	celle	celle	PRO	PRO	n=s|g=f	34	dep_coord	34	dep_coord
+36	du	de	P+D	P+D	n=s|g=m	35	dep	35	dep
+37	fil	fil	NC	NC	n=s|g=m	36	prep	36	prep
+38	négatif	négatif	ADJ	ADJ	n=s|g=m	37	mod	37	mod
+39	(	(	PONCT	PONCT		38	ponct	38	ponct
+40	renvoyant	renvoyer	VPR	VPR	t=G	18	mod	18	mod
+41	le	le	DET	DET	n=s|g=m	42	det	42	det
+42	courant	courant	NC	NC	n=s|g=m	40	obj	40	obj
+43	)	)	PONCT	PONCT		42	ponct	42	ponct
+44	.	.	PONCT	PONCT		42	ponct	42	ponct
+
+1	C'	ce	CLS	CLS		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	un	un	DET	DET	n=s|g=m	4	det	4	det
+4	disjoncteur	disjoncteur	NC	NC	n=s|g=m	2	obj	2	obj
+5	permettant	permettre	VPR	VPR	t=G	4	mod	4	mod
+6	la	la	DET	DET	n=s|g=f	7	det	7	det
+7	protection	protection	NC	NC	n=s|g=f	5	obj	5	obj
+8	des	de	P+D	P+D	n=p	7	dep	7	dep
+9	personnes	personne	NC	NC	n=p|g=f	8	prep	8	prep
+10	utilisant	utiliser	VPR	VPR	t=G	9	mod	9	mod
+11	électricité	électricité	NC	NC	n=s|g=f	10	obj	10	obj
+12	en	en	P	P		2	mod	2	mod
+13	limitant	limiter	VPR	VPR	t=G	12	prep	12	prep
+14	les	les	DET	DET	n=p	15	det	15	det
+15	risques	risque	NC	NC	n=p|g=m	13	obj	13	obj
+16	d'	de	P	P		15	dep	15	dep
+17	électrocution	électrocution	NC	NC	n=s|g=f	16	prep	16	prep
+18	en	en	P	P		13	mod	13	mod
+19	repérant	repérer	VPR	VPR	t=G	18	prep	18	prep
+20	les	les	DET	DET	n=p	21	det	21	det
+21	fuites	fuite	NC	NC	n=p|g=f	19	obj	19	obj
+22	de	de	P	P		21	dep	21	dep
+23	courant	courant	NC	NC	n=s|g=m	22	prep	22	prep
+24	du	de	P+D	P+D	n=s|g=m	21	dep	21	dep
+25	système	système	NC	NC	n=s|g=m	24	prep	24	prep
+26	électrique	électrique	ADJ	ADJ	n=s	25	mod	25	mod
+27	.	.	PONCT	PONCT		26	ponct	26	ponct
+
+</p><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	dispositif	dispositif	NC	NC	n=s|g=m	4	suj	4	suj
+3	différentiel	différentiel	ADJ	ADJ	n=s|g=m	2	mod	2	mod
+4	utilise	utiliser	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+5	le	le	DET	DET	n=s|g=m	6	det	6	det
+6	principe	principe	NC	NC	n=s|g=m	4	obj	4	obj
+7	suivant	suivant	ADJ	ADJ	n=s|g=m	6	mod	6	mod
+8	:	:	PONCT	PONCT		7	ponct	7	ponct
+9	normalement	_	ADV	ADV		4	mod	4	mod
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	le	le	DET	DET	n=s|g=m	12	det	12	det
+12	courant	courant	NC	NC	n=s|g=m	4	obj	4	obj
+13	électrique	électrique	ADJ	ADJ	n=s	12	mod	12	mod
+14	qui	qui	PROREL	PROREL	n=s	15	suj	15	suj
+15	arrive	arriver	V	V	n=s|t=P,S|p=1,3	12	mod_rel	12	mod_rel
+16	doit	devoir	V	V	n=s|t=P|p=3	0	_	0	_
+17	obligatoirement	_	ADV	ADV		18	mod	18	mod
+18	ressortir	ressortir	VINF	VINF	t=W	16	obj	16	obj
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	Si	si	CS	CS		16	mod	16	mod
+2	l'	le	DET	DET	n=s	3	det	3	det
+3	intensité	intensité	NC	NC	n=s|g=f	12	suj	12	suj
+4	du	de	P+D	P+D	n=s|g=m	3	dep	3	dep
+5	courant	courant	NC	NC	n=s|g=m	4	prep	4	prep
+6	arrivant	arrivant	ADJ	ADJ	n=s|g=m	5	mod	5	mod
+7	et	et	CC	CC		3	coord	3	coord
+8	celle	celle	PRO	PRO	n=s|g=f	7	dep_coord	7	dep_coord
+9	du	de	P+D	P+D	n=s|g=m	8	dep	8	dep
+10	courant	courant	NC	NC	n=s|g=m	9	prep	9	prep
+11	ressortant	ressortir	VPR	VPR	t=G	10	mod	10	mod
+12	est	être	V	V	n=s|t=P|p=3	1	sub	1	sub
+13	différente	différent	ADJ	ADJ	n=s|g=f	12	ats	12	ats
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	c'	ce	CLS	CLS		16	suj	16	suj
+16	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+17	qu'	que	CS	CS		16	mod	16	mod
+18	il	il	CLS	CLS	n=s|g=m|p=3	20	suj	20	suj
+19	y	y	CLO	CLO		20	aff	20	aff
+20	a	avoir	V	V	n=s|t=P|p=3	17	sub	17	sub
+21	une	une	DET	DET	n=s|g=f	22	det	22	det
+22	fuite	fuite	NC	NC	n=s|g=f	20	obj	20	obj
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	différence	différence	NC	NC	n=s|g=f	0	_	0	_
+3	maximale	maximal	ADJ	ADJ	n=s|g=f	2	mod	2	mod
+4	d'	de	P	P		2	dep	2	dep
+5	intensité	intensité	NC	NC	n=s|g=f	4	prep	4	prep
+6	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+7	courant	courir	VPR	VPR	t=G	6	prep	6	prep
+8	à	à	P	P		7	mod	7	mod
+9	laquelle	lequel	PROREL	PROREL	n=s|g=f	8	prep	8	prep
+10	le	le	DET	DET	n=s|g=m	11	det	11	det
+11	disjoncteur	disjoncteur	NC	NC	n=s|g=m	0	_	0	_
+12	ne	ne	ADV	ADV		16	mod	16	mod
+13	réagit	réagir	V	V	n=s|t=J,P|p=3	16	aux_pass	16	aux_pass
+14	pas	pas	ADV	ADV		16	mod	16	mod
+15	est	être	V	V	n=s|t=P|p=3	16	aux_tps	16	aux_tps
+16	appelée	appeler	VPP	VPP	n=s|g=f|t=K	11	root	11	root
+17	la	la	DET	DET	n=s|g=f	19	det	19	det
+18	«_	"	PONCT	PONCT		17	ponct	17	ponct
+19	sensibilité	sensibilité	NC	NC	n=s|g=f	16	mod	16	mod
+20	différentielle	différentiel	ADJ	ADJ	n=s|g=f	19	mod	19	mod
+21	du	de	P+D	P+D	n=s|g=m	19	dep	19	dep
+22	disjoncteur	disjoncteur	NC	NC	n=s|g=m	21	prep	21	prep
+23	_»	"	PONCT	PONCT		22	ponct	22	ponct
+24	(	(	PONCT	PONCT		22	ponct	22	ponct
+25	minimum	minimum	NC	NC	n=s|g=m	16	mod	16	mod
+26	30	30	ADJ	ADJ		25	mod	25	mod
+27	mA	_	ADV	ADV		16	mod	16	mod
+28	sur	sur	P	P		16	mod	16	mod
+29	les	les	DET	DET	n=p	30	det	30	det
+30	circuits	circuit	NC	NC	n=p|g=m	28	prep	28	prep
+31	électriques	électrique	ADJ	ADJ	n=p	30	mod	30	mod
+32	d'	de	P	P		16	mod	16	mod
+33	une	une	DET	DET	n=s|g=f	34	det	34	det
+34	maison	maison	NC	NC	n=s|g=f	32	prep	32	prep
+35	selon	selon	P	P		16	mod	16	mod
+36	la	la	DET	DET	n=s|g=f	37	det	37	det
+37	norme	norme	NC	NC	n=s|g=f	35	prep	35	prep
+38	française	français	ADJ	ADJ	n=s|g=f	37	mod	37	mod
+39	)	)	PONCT	PONCT		38	ponct	38	ponct
+40	.	.	PONCT	PONCT		38	ponct	38	ponct
+
+</p><h4>
+1	Fonctionnement	fonctionnement	NC	NC	n=s|g=m	0	_	0	_
+
+</h4>
+1	Si	si	CS	CS		0	_	0	_
+2	la	la	DET	DET	n=s|g=f	3	det	3	det
+3	force	force	NC	NC	n=s|g=f	14	suj	14	suj
+4	du	de	P+D	P+D	n=s|g=m	3	dep	3	dep
+5	courant	courant	NC	NC	n=s|g=m	4	prep	4	prep
+6	électrique	électrique	ADJ	ADJ	n=s	5	mod	5	mod
+7	l2	_	NC	NC		5	mod	5	mod
+8	et	et	CC	CC		3	coord	3	coord
+9	celle	celle	PRO	PRO	n=s|g=f	8	dep_coord	8	dep_coord
+10	du	de	P+D	P+D	n=s|g=m	9	dep	9	dep
+11	courant	courant	NC	NC	n=s|g=m	10	prep	10	prep
+12	électrique	électrique	ADJ	ADJ	n=s	11	mod	11	mod
+13	l2	_	NC	NC		11	mod	11	mod
+14	sont	être	V	V	n=p|t=P|p=3	1	sub	1	sub
+15	différents	différent	ADJ	ADJ	n=p|g=m	14	ats	14	ats
+16	à	à	P	P		14	mod	14	mod
+17	cause	cause	NC	NC	n=s|g=f	16	prep	16	prep
+18	d'	de	P	P		14	mod	14	mod
+19	un	un	DET	DET	n=s|g=m	20	det	20	det
+20	courant	courant	NC	NC	n=s|g=m	18	prep	18	prep
+21	de	de	P	P		14	mod	14	mod
+22	fuite	fuite	NC	NC	n=s|g=f	21	prep	21	prep
+23	fr	_	NPP	NPP		22	mod	22	mod
+24	,	,	PONCT	PONCT		23	ponct	23	ponct
+25	un	un	DET	DET	n=s|g=m	26	det	26	det
+26	courant	courant	NC	NC	n=s|g=m	28	suj	28	suj
+27	électrique	électrique	ADJ	ADJ	n=s	26	mod	26	mod
+28	apparaît	apparaître	V	V	n=s|t=P|p=3	14	mod	14	mod
+29	dans	dans	P	P		28	mod	28	mod
+30	l'	le	DET	DET	n=s	31	det	31	det
+31	enroulement	enroulement	NC	NC	n=s|g=m	29	prep	29	prep
+32	K1	_	NPP	NPP		31	mod	31	mod
+33	,	,	PONCT	PONCT		32	ponct	32	ponct
+34	qui	qui	PROREL	PROREL	n=s	35	suj	35	suj
+35	va	aller	V	V	n=s|t=P|p=3	31	mod_rel	31	mod_rel
+36	alimenter	alimenter	VINF	VINF	t=W	35	obj	35	obj
+37	le	le	DET	DET	n=s|g=m	38	det	38	det
+38	relais	relais	NC	NC	g=m	36	obj	36	obj
+39	K2	_	NPP	NPP		38	mod	38	mod
+40	(	(	PONCT	PONCT		39	ponct	39	ponct
+41	qui	qui	PROREL	PROREL	n=s	43	suj	43	suj
+42	habituellement	_	ADV	ADV		43	mod	43	mod
+43	tient	tenir	V	V	n=s|t=P|p=3	38	mod_rel	38	mod_rel
+44	les	les	DET	DET	n=p	45	det	45	det
+45	contacts	contact	NC	NC	n=p|g=m	43	obj	43	obj
+46	électriques	électrique	ADJ	ADJ	n=p	45	mod	45	mod
+47	fermés	fermer	ADJ	ADJ	n=p|g=m|t=K	45	mod	45	mod
+48	pour	pour	P	P		43	mod	43	mod
+49	permettre	permettre	VINF	VINF	t=W	48	prep	48	prep
+50	le	le	DET	DET	n=s|g=m	51	det	51	det
+51	passage	passage	NC	NC	n=s|g=m	49	obj	49	obj
+52	de	de	P	P		51	dep	51	dep
+53	l'	le	DET	DET	n=s	54	det	54	det
+54	électricité	électricité	NC	NC	n=s|g=f	52	prep	52	prep
+55	)	)	PONCT	PONCT		54	ponct	54	ponct
+56	,	,	PONCT	PONCT		54	ponct	54	ponct
+57	provoquant	provoquer	VPR	VPR	t=G	51	mod	51	mod
+58	la	la	DET	DET	n=s|g=f	59	det	59	det
+59	coupure	coupure	NC	NC	n=s|g=f	57	obj	57	obj
+60	de	de	P	P		59	dep	59	dep
+61	l'	le	DET	DET	n=s	62	det	62	det
+62	électricité	électricité	NC	NC	n=s|g=f	60	prep	60	prep
+63	.	.	PONCT	PONCT		62	ponct	62	ponct
+
+<p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	relais	relais	NC	NC	g=m	7	suj	7	suj
+3	K2	_	NPP	NPP		2	mod	2	mod
+4	et	et	CC	CC		2	coord	2	coord
+5	les	les	DET	DET	n=p	6	det	6	det
+6	contacts	contact	NC	NC	n=p|g=m	4	dep_coord	4	dep_coord
+7	resteront	rester	V	V	n=p|t=F|p=3	0	root	0	root
+8	dans	dans	P	P		7	mod	7	mod
+9	l'	le	DET	DET	n=s	10	det	10	det
+10	état	état	NC	NC	n=s|g=m	8	prep	8	prep
+11	de	de	P	P		7	mod	7	mod
+12	l'	le	DET	DET	n=s	13	det	13	det
+13	image	image	NC	NC	n=s|g=f	11	prep	11	prep
+14	3	3	ADJ	ADJ		13	mod	13	mod
+15	jusqu'	jusque	P	P		7	mod	7	mod
+16	au	à	P+D	P+D	n=s|g=m	15	prep	15	prep
+17	prochain	prochain	ADJ	ADJ	n=s|g=m	18	mod	18	mod
+18	réarmement	réarmement	NC	NC	n=s|g=m	16	prep	16	prep
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	ce	ce	PRO	PRO	n=s	7	mod	7	mod
+21	qui	qui	PROREL	PROREL	n=s	23	suj	23	suj
+22	ne	ne	ADV	ADV		23	mod	23	mod
+23	sera	être	V	V	n=s|t=F|p=3	20	mod_rel	20	mod_rel
+24	possible	possible	ADJ	ADJ	n=s	23	ats	23	ats
+25	que	que	CS	CS		23	mod	23	mod
+26	si	si	CS	CS		23	mod	23	mod
+27	le	le	DET	DET	n=s|g=m	28	det	28	det
+28	courant	courant	NC	NC	n=s|g=m	33	suj	33	suj
+29	de	de	P	P		28	dep	28	dep
+30	fuite	fuite	NC	NC	n=s|g=f	29	prep	29	prep
+31	fr	_	NPP	NPP		30	mod	30	mod
+32	a	avoir	V	V	n=s|t=P|p=3	33	aux_tps	33	aux_tps
+33	disparu	disparaître	VPP	VPP	n=s|g=m|t=K	26	sub	26	sub
+34	,	,	PONCT	PONCT		33	ponct	33	ponct
+35	c'	ce	DET	DET	n=s|g=m	0	_	0	_
+36	est-à-dire	_	ADJ	ADJ		0	_	0	_
+37	si	si	CS	CS		36	dep	36	dep
+38	le	le	DET	DET	n=s|g=m	39	det	39	det
+39	problème	problème	NC	NC	n=s|g=m	0	_	0	_
+40	d'	de	P	P		39	dep	39	dep
+41	isolement	isolement	NC	NC	n=s|g=m	40	prep	40	prep
+42	le	le	DET	DET	n=s|g=m	0	_	0	_
+43	provoquant	provoquer	VPR	VPR	t=G	46	mod	46	mod
+44	a	avoir	V	V	n=s|t=P|p=3	46	aux_tps	46	aux_tps
+45	été	être	VPP	VPP	t=K	46	aux_pass	46	aux_pass
+46	repéré	repérer	VPP	VPP	n=s|g=m|t=K	42	root	42	root
+47	et	et	CC	CC		46	coord	46	coord
+48	réparé	réparer	VPP	VPP	n=s|g=m|t=K	47	dep_coord	47	dep_coord
+49	.	.	PONCT	PONCT		48	ponct	48	ponct
+
+</p><h4>
+1	Classes	classe	NC	NC	n=p|g=f	0	_	0	_
+
+</h4><p>
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	existe	exister	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	plusieurs	plusieurs	DET	DET	n=p	4	det	4	det
+4	classes	classe	NC	NC	n=p|g=f	2	obj	2	obj
+5	(	(	PONCT	PONCT		4	ponct	4	ponct
+6	ou	ou	CC	CC		4	coord	4	coord
+7	types	type	NC	NC	n=p|g=m	6	dep_coord	6	dep_coord
+8	)	)	PONCT	PONCT		7	ponct	7	ponct
+9	de	de	P	P		2	mod	2	mod
+10	disjoncteur	disjoncteur	NC	NC	n=s|g=m	9	prep	9	prep
+11	différentiel	différentiel	ADJ	ADJ	n=s|g=m	10	mod	10	mod
+12	:	:	PONCT	PONCT		11	ponct	11	ponct
+
+</p><p>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	classe	classe	NC	NC	n=s|g=f	4	suj	4	suj
+3	AC	_	NPP	NPP		2	mod	2	mod
+4	permet	permettre	V	V	n=s|t=P|p=3	0	root	0	root
+5	de	de	P	P		4	obj	4	obj
+6	se	se	CLR	CLR	n=p,s|p=3	7	aff	7	aff
+7	protéger	protéger	VINF	VINF	t=W	5	prep	5	prep
+8	les	les	DET	DET	n=p	9	det	9	det
+9	humains	humains	NC	NC	n=p|g=m	7	obj	7	obj
+10	du	de	P+D	P+D	n=s|g=m	7	mod	7	mod
+11	contact	contact	NC	NC	n=s|g=m	10	prep	10	prep
+12	avec	avec	P	P		7	mod	7	mod
+13	les	les	DET	DET	n=p	14	det	14	det
+14	courants	courant	NC	NC	n=p|g=m	12	prep	12	prep
+15	de	de	P	P		7	mod	7	mod
+16	fuite	fuite	NC	NC	n=s|g=f	15	prep	15	prep
+17	alternatif	alternatif	ADJ	ADJ	n=s|g=m	16	mod	16	mod
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	On	on	CLS	CLS	n=s|p=3	3	suj	3	suj
+2	l'	le	CLO	CLO	n=s|p=3	3	obj	3	obj
+3	utilise	utiliser	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	pour	pour	P	P		3	mod	3	mod
+5	protéger	protéger	VINF	VINF	t=W	4	prep	4	prep
+6	la	la	DET	DET	n=s|g=f	7	det	7	det
+7	plupart	plupart	NC	NC	n=s|g=f	5	obj	5	obj
+8	des	de	P+D	P+D	n=p	7	dep	7	dep
+9	circuits	circuit	NC	NC	n=p|g=m	8	prep	8	prep
+10	électriques	électrique	ADJ	ADJ	n=p	9	mod	9	mod
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	sauf	sauf	P	P		3	mod	3	mod
+13	ceux	ceux	PRO	PRO	n=p|g=m	12	prep	12	prep
+14	qui	qui	PROREL	PROREL	n=s	17	suj	17	suj
+15	sont	être	V	V	n=p|t=P|p=3	17	aux_tps	17	aux_tps
+16	plus	plus	ADV	ADV		17	mod	17	mod
+17	localisés	localiser	VPP	VPP	n=p|g=m|t=K	13	mod_rel	13	mod_rel
+18	tels	tel	ADJ	ADJ	n=p|g=m	17	ats	17	ats
+19	que	que	CS	CS		17	mod	17	mod
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	la	la	DET	DET	n=s|g=f	22	det	22	det
+22	plaque	plaque	NC	NC	n=s|g=f	0	_	0	_
+23	de	de	P	P		22	dep	22	dep
+24	cuisson	cuisson	NC	NC	n=s|g=f	23	prep	23	prep
+25	et	et	CC	CC		22	coord	22	coord
+26	le	le	DET	DET	n=s|g=m	27	det	27	det
+27	lave-linge	lave-linge	NC	NC	g=m	25	dep_coord	25	dep_coord
+28	.	.	PONCT	PONCT		27	ponct	27	ponct
+
+</p><p>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	classe	classe	NC	NC	n=s|g=f	4	suj	4	suj
+3	A	_	NPP	NPP		2	mod	2	mod
+4	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+5	faîte	faîte	NC	NC	n=s|g=m	4	obj	4	obj
+6	pour	pour	P	P		4	mod	4	mod
+7	les	les	DET	DET	n=p	8	det	8	det
+8	circuits	circuit	NC	NC	n=p|g=m	6	prep	6	prep
+9	locaux	local	ADJ	ADJ	n=p|g=m	8	mod	8	mod
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	(	(	PONCT	PONCT		9	ponct	9	ponct
+12	cuisinières	cuisinière	NC	NC	n=p|g=f	4	mod	4	mod
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	plaques	plaque	NC	NC	n=p|g=f	12	mod	12	mod
+15	de	de	P	P		14	dep	14	dep
+16	cuisson	cuisson	NC	NC	n=s|g=f	15	prep	15	prep
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	lave-linge	lave-linge	NC	NC	g=m	12	mod	12	mod
+19	...	...	PONCT	PONCT		18	ponct	18	ponct
+20	)	)	PONCT	PONCT		18	ponct	18	ponct
+21	qui	qui	PROREL	PROREL	n=s	22	suj	22	suj
+22	peuvent	pouvoir	V	V	n=p|t=P|p=3	12	mod_rel	12	mod_rel
+23	produire	produire	VINF	VINF	t=W	22	obj	22	obj
+24	des	des	DET	DET	n=p	25	det	25	det
+25	courants	courant	NC	NC	n=p|g=m	23	obj	23	obj
+26	de	de	P	P		25	dep	25	dep
+27	fuite	fuite	NC	NC	n=s|g=f	26	prep	26	prep
+28	continue	continuer	V	V	n=s|t=P,S|p=1,3	4	mod	4	mod
+29	.	.	PONCT	PONCT		28	ponct	28	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	sécurité	sécurité	NC	NC	n=s|g=f	6	suj	6	suj
+3	des	de	P+D	P+D	n=p	2	dep	2	dep
+4	personnes	personne	NC	NC	n=p|g=f	3	prep	3	prep
+5	reste	rester	V	V	n=s|t=P,S|p=1,3	6	aux_tps	6	aux_tps
+6	assurée	assurer	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	le	le	DET	DET	n=s|g=m	9	det	9	det
+9	risque	risque	NC	NC	n=s|g=m	6	mod	6	mod
+10	de	de	P	P		9	dep	9	dep
+11	déclenchement	déclenchement	NC	NC	n=s|g=m	10	prep	10	prep
+12	inutile	inutile	ADJ	ADJ	n=s	11	mod	11	mod
+13	est	être	V	V	n=s|t=P|p=3	14	aux_pass	14	aux_pass
+14	limité	limiter	VPP	VPP	n=s|g=m|t=K	9	mod_rel	9	mod_rel
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	dispositifs	dispositif	NC	NC	n=p|g=m	9	suj	9	suj
+3	différentiels	différentiel	ADJ	ADJ	n=p|g=m	2	mod	2	mod
+4	de	de	P	P		2	dep	2	dep
+5	classe	classe	NC	NC	n=s|g=f	4	prep	4	prep
+6	AC	_	NPP	NPP		5	mod	5	mod
+7	ne	ne	ADV	ADV		9	mod	9	mod
+8	se	se	CLR	CLR	n=p,s|p=3	9	aff	9	aff
+9	déclenchent	déclencher	V	V	n=p|t=P,S|p=3	0	root	0	root
+10	parfois	parfois	ADV	ADV		9	mod	9	mod
+11	pas	pas	ADV	ADV		9	mod	9	mod
+12	sur	sur	P	P		9	mod	9	mod
+13	ce	ce	DET	DET	n=s|g=m	14	det	14	det
+14	type	type	NC	NC	n=s|g=m	12	prep	12	prep
+15	de	de	P	P		9	mod	9	mod
+16	courant	courant	NC	NC	n=s|g=m	15	prep	15	prep
+17	de	de	P	P		9	mod	9	mod
+18	fuite	fuite	NC	NC	n=s|g=f	17	prep	17	prep
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+1	Ce	ce	DET	DET	n=s|g=m	2	det	2	det
+2	type	type	NC	NC	n=s|g=m	5	suj	5	suj
+3	de	de	P	P		2	dep	2	dep
+4	dispositif	dispositif	NC	NC	n=s|g=m	3	prep	3	prep
+5	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+6	obligatoire	obligatoire	ADJ	ADJ	n=s	5	ats	5	ats
+7	sur	sur	P	P		5	mod	5	mod
+8	les	les	DET	DET	n=p	9	det	9	det
+9	circuits	circuit	NC	NC	n=p|g=m	7	prep	7	prep
+10	ou	ou	CC	CC		5	coord	5	coord
+11	les	les	DET	DET	n=p	12	det	12	det
+12	matériels	matériel	NC	NC	n=p|g=m	14	suj	14	suj
+13	qui	qui	PROREL	PROREL	n=s	14	suj	14	suj
+14	sont	être	V	V	n=p|t=P|p=3	10	dep_coord	10	dep_coord
+15	susceptibles	susceptible	ADJ	ADJ	n=p	14	ats	14	ats
+16	de	de	P	P		14	mod	14	mod
+17	produire	produire	VINF	VINF	t=W	16	prep	16	prep
+18	le	le	DET	DET	n=s|g=m	19	det	19	det
+19	phénomène	phénomène	NC	NC	n=s|g=m	17	obj	17	obj
+20	décrit	décrire	V	V	n=s|t=P|p=3	5	mod	5	mod
+21	ci-dessus	ci-dessus	ADV	ADV		20	mod	20	mod
+22	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+</p><p>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	classe	classe	NC	NC	n=s|g=f	14	suj	14	suj
+3	HI	_	NPP	NPP		2	mod	2	mod
+4	(	(	PONCT	PONCT		3	ponct	3	ponct
+5	aussi	aussi	ADV	ADV		6	mod	6	mod
+6	appelés	appeler	VPP	VPP	n=p|g=m|t=K	2	mod	2	mod
+7	Hpi	_	NPP	NPP		6	mod	6	mod
+8	ou	ou	CC	CC		7	coord	7	coord
+9	Si	_	NPP	NPP		8	dep_coord	8	dep_coord
+10	suivant	suivant	P	P		6	mod	6	mod
+11	les	les	DET	DET	n=p	12	det	12	det
+12	fabricants	fabricant	NC	NC	n=p|g=m	10	prep	10	prep
+13	)	)	PONCT	PONCT		12	ponct	12	ponct
+14	bénéficie	bénéficier	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+15	d’	de	P	P		14	mod	14	mod
+16	une	une	DET	DET	n=s|g=f	17	det	17	det
+17	protection	protection	NC	NC	n=s|g=f	15	prep	15	prep
+18	complémentaire	complémentaire	ADJ	ADJ	n=s	17	mod	17	mod
+19	contre	contre	P	P		14	mod	14	mod
+20	les	les	DET	DET	n=p	21	det	21	det
+21	déclenchements	déclenchement	NC	NC	n=p|g=m	19	prep	19	prep
+22	inutiles	inutile	ADJ	ADJ	n=p	21	mod	21	mod
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+1	Ils	ils	CLS	CLS	n=p|g=m|p=3	3	suj	3	suj
+2	sont	être	V	V	n=p|t=P|p=3	3	aux_pass	3	aux_pass
+3	recommandés	recommander	VPP	VPP	n=p|g=m|t=K	0	root	0	root
+4	pour	pour	P	P		3	mod	3	mod
+5	les	les	DET	DET	n=p	6	det	6	det
+6	circuits	circuit	NC	NC	n=p|g=m	4	prep	4	prep
+7	ayant	avoir	VPR	VPR	t=G	6	mod	6	mod
+8	besoins	besoin	NC	NC	n=p|g=m	7	obj	7	obj
+9	en	en	P	P		7	mod	7	mod
+10	continue	_	NC	NC		9	prep	9	prep
+11	d'	de	P	P		7	mod	7	mod
+12	électricité	électricité	NC	NC	n=s|g=f	11	prep	11	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	tels	tel	ADJ	ADJ	n=p|g=m	6	mod	6	mod
+15	que	que	CS	CS		3	mod	3	mod
+16	des	des	DET	DET	n=p	17	det	17	det
+17	congélateurs	congélateur	NC	NC	n=p|g=m	0	_	0	_
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	les	les	DET	DET	n=p	20	det	20	det
+20	ordinateurs	ordinateur	NC	NC	n=p|g=m	17	mod	17	mod
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	les	les	DET	DET	n=p	23	det	23	det
+23	appareils	appareil	NC	NC	n=p|g=m	17	mod	17	mod
+24	hospitaliers	hospitalier	ADJ	ADJ	n=p|g=m	23	mod	23	mod
+25	(	(	PONCT	PONCT		24	ponct	24	ponct
+26	encéphalogramme	encéphalogramme	NC	NC	n=s|g=m	17	mod	17	mod
+27	...	...	PONCT	PONCT		26	ponct	26	ponct
+28	)	)	PONCT	PONCT		26	ponct	26	ponct
+29	,	,	PONCT	PONCT		26	ponct	26	ponct
+
+<abbr>etc.</abbr></p><h4>
+1	Différences	différence	NC	NC	n=p|g=f	0	_	0	_
+2	entre	entre	P	P		1	dep	1	dep
+3	disjoncteur	disjoncteur	NC	NC	n=s|g=m	2	prep	2	prep
+4	différentiel	différentiel	ADJ	ADJ	n=s|g=m	3	mod	3	mod
+5	et	et	CC	CC		1	coord	1	coord
+6	interrupteur	interrupteur	ADJ	ADJ	n=s|g=m	5	dep_coord	5	dep_coord
+7	différentiel	différentiel	NC	NC	n=p,s|g=m	0	_	0	_
+
+</h4><p>
+1	Dans	dans	P	P		34	mod	34	mod
+2	le	le	DET	DET	n=s|g=m	3	det	3	det
+3	langage	langage	NC	NC	n=s|g=m	1	prep	1	prep
+4	courant	courant	ADJ	ADJ	n=s|g=m	3	mod	3	mod
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	et	et	CC	CC		1	coord	1	coord
+7	notamment	_	ADV	ADV		6	mod	6	mod
+8	lorsque	lorsque	CS	CS		6	dep_coord	6	dep_coord
+9	l'	le	DET	DET	n=s	10	det	10	det
+10	on	on	CLS	CLS	n=s|p=3	11	suj	11	suj
+11	parle	parler	V	V	n=s|t=P,S|p=1,3	8	sub	8	sub
+12	d'	de	P	P		11	mod	11	mod
+13	un	un	DET	DET	n=s|g=m	14	det	14	det
+14	tableau	tableau	NC	NC	n=s|g=m	12	prep	12	prep
+15	électrique	électrique	ADJ	ADJ	n=s	14	mod	14	mod
+16	(	(	PONCT	PONCT		15	ponct	15	ponct
+17	tableau	tableau	NC	NC	n=s|g=m	14	mod	14	mod
+18	avec	avec	P	P		11	mod	11	mod
+19	tous	tout	ADJ	ADJ	n=p|g=m	21	mod	21	mod
+20	les	les	DET	DET	n=p	21	det	21	det
+21	fusibles	fusible	ADJ	ADJ	n=p	18	prep	18	prep
+22	et	et	CC	CC		11	coord	11	coord
+23	disjoncteur	disjoncteur	NC	NC	n=s|g=m	22	dep_coord	22	dep_coord
+24	de	de	P	P		23	dep	23	dep
+25	chaque	chaque	DET	DET	n=s	26	det	26	det
+26	système	système	NC	NC	n=s|g=m	24	prep	24	prep
+27	)	)	PONCT	PONCT		26	ponct	26	ponct
+28	,	,	PONCT	PONCT		26	ponct	26	ponct
+29	les	les	DET	DET	n=p	30	det	30	det
+30	disjoncteurs	disjoncteur	NC	NC	n=p|g=m	34	suj	34	suj
+31	différentiels	différentiel	ADJ	ADJ	n=p|g=m	30	mod	30	mod
+32	sont	être	V	V	n=p|t=P|p=3	34	aux_pass	34	aux_pass
+33	aussi	aussi	ADV	ADV		34	mod	34	mod
+34	appelés	appeler	VPP	VPP	n=p|g=m|t=K	0	root	0	root
+35	seulement	_	ADV	ADV		34	mod	34	mod
+36	«_	"	PONCT	PONCT		35	ponct	35	ponct
+37	différentiels	différentiel	ADJ	ADJ	n=p|g=m	34	mod	34	mod
+38	_»	"	PONCT	PONCT		37	ponct	37	ponct
+39	,	,	PONCT	PONCT		37	ponct	37	ponct
+40	et	et	CC	CC		34	coord	34	coord
+41	on	on	CLS	CLS	n=s|p=3	42	suj	42	suj
+42	parle	parler	V	V	n=s|t=P,S|p=1,3	40	dep_coord	40	dep_coord
+43	de	de	P	P		42	mod	42	mod
+44	«_	"	PONCT	PONCT		43	ponct	43	ponct
+45	disjoncteur	disjoncteur	NC	NC	n=s|g=m	43	prep	43	prep
+46	_»	"	PONCT	PONCT		45	ponct	45	ponct
+47	seulement	_	ADV	ADV		42	mod	42	mod
+48	aux	à	P+D	P+D	n=p	42	mod	42	mod
+49	disjoncteurs	disjoncteur	NC	NC	n=p|g=m	48	prep	48	prep
+50	thermique	thermique	ADJ	ADJ	n=s	49	mod	49	mod
+51	ou	ou	CC	CC		50	coord	50	coord
+52	magnétique	magnétique	ADJ	ADJ	n=s	51	dep_coord	51	dep_coord
+53	.	.	PONCT	PONCT		52	ponct	52	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	peut	pouvoir	V	V	n=s|t=P|p=3	0	root	0	root
+3	donc	donc	ADV	ADV		2	mod	2	mod
+4	avoir	avoir	VINF	VINF	t=W	2	obj	2	obj
+5	une	une	DET	DET	n=s|g=f	6	det	6	det
+6	confusion	confusion	NC	NC	n=s|g=f	4	obj	4	obj
+7	entre	entre	P	P		4	mod	4	mod
+8	le	le	DET	DET	n=s|g=m	9	det	9	det
+9	disjoncteur	disjoncteur	NC	NC	n=s|g=m	7	prep	7	prep
+10	différentiel	différentiel	ADJ	ADJ	n=s|g=m	9	mod	9	mod
+11	et	et	CC	CC		4	coord	4	coord
+12	l'	le	DET	DET	n=s	13	det	13	det
+13	interrupteur	interrupteur	NC	NC	n=s|g=m	11	dep_coord	11	dep_coord
+14	différentiel	différentiel	ADJ	ADJ	n=s|g=m	13	mod	13	mod
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	interrupteur	interrupteur	NC	NC	n=s|g=m	4	suj	4	suj
+3	différentiel	différentiel	ADJ	ADJ	n=s|g=m	2	mod	2	mod
+4	réalise	réaliser	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+5	la	la	DET	DET	n=s|g=f	6	det	6	det
+6	fonction	fonction	NC	NC	n=s|g=f	4	obj	4	obj
+7	décrite	décrire	VPP	VPP	n=s|g=f|t=K	6	mod	6	mod
+8	ci-dessus	ci-dessus	ADV	ADV		7	mod	7	mod
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	mais	mais	CC	CC		4	coord	4	coord
+11	n'	ne	ADV	ADV		12	mod	12	mod
+12	a	avoir	V	V	n=s|t=P|p=3	10	dep_coord	10	dep_coord
+13	pas	pas	ADV	ADV		12	mod	12	mod
+14	de	de	P	P		12	mod	12	mod
+15	protection	protection	NC	NC	n=s|g=f	14	prep	14	prep
+16	contre	contre	P	P		12	mod	12	mod
+17	les	les	DET	DET	n=p	0	_	0	_
+18	sur	sur	P	P		0	_	0	_
+19	-	-	PONCT	PONCT		18	ponct	18	ponct
+20	tensions	tension	NC	NC	n=p|g=f	18	prep	18	prep
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	ce	ce	PRO	PRO	n=s	0	_	0	_
+23	qui	qui	PROREL	PROREL	n=s	25	suj	25	suj
+24	le	le	CLO	CLO	n=s|g=m|p=3	25	obj	25	obj
+25	rend	rendre	V	V	n=s|t=P|p=3	22	mod_rel	22	mod_rel
+26	moins	moins	ADV	ADV		25	mod	25	mod
+27	utile	utile	ADJ	ADJ	n=s	25	ats	25	ats
+28	.	.	PONCT	PONCT		27	ponct	27	ponct
+
+</p><p>
+1	Dans	dans	P	P		7	mod	7	mod
+2	un	un	DET	DET	n=s|g=m	3	det	3	det
+3	tableau	tableau	NC	NC	n=s|g=m	1	prep	1	prep
+4	électrique	électrique	ADJ	ADJ	n=s	3	mod	3	mod
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	il	il	CLS	CLS	n=s|g=m|p=3	7	suj	7	suj
+7	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+8	possible	possible	ADJ	ADJ	n=s	7	ats	7	ats
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	de	de	P	P		7	mod	7	mod
+11	réaliser	réaliser	VINF	VINF	t=W	10	prep	10	prep
+12	la	la	DET	DET	n=s|g=f	13	det	13	det
+13	protection	protection	NC	NC	n=s|g=f	11	obj	11	obj
+14	différentielle	différentiel	ADJ	ADJ	n=s|g=f	13	mod	13	mod
+15	d'	de	P	P		11	mod	11	mod
+16	un	un	DET	DET	n=s|g=m	17	det	17	det
+17	circuit	circuit	NC	NC	n=s|g=m	15	prep	15	prep
+18	par	par	P	P		11	mod	11	mod
+19	un	un	DET	DET	n=s|g=m	20	det	20	det
+20	interrupteur	interrupteur	NC	NC	n=s|g=m	18	prep	18	prep
+21	différentiel	différentiel	ADJ	ADJ	n=s|g=m	20	mod	20	mod
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+23	plutôt	plutôt	ADV	ADV		24	mod	24	mod
+24	que	que	CS	CS		7	mod	7	mod
+25	par	par	P	P		0	_	0	_
+26	un	un	DET	DET	n=s|g=m	27	det	27	det
+27	disjoncteur	disjoncteur	NC	NC	n=s|g=m	25	prep	25	prep
+28	à	à	P	P		27	dep	27	dep
+29	condition	condition	NC	NC	n=s|g=f	28	prep	28	prep
+30	que	que	CS	CS		0	_	0	_
+31	la	la	DET	DET	n=s|g=f	32	det	32	det
+32	protection	protection	NC	NC	n=s|g=f	37	suj	37	suj
+33	contre	contre	P	P		32	dep	32	dep
+34	les	les	DET	DET	n=p	35	det	35	det
+35	surintensités	surintensité	NC	NC	n=p|g=f	33	prep	33	prep
+36	soit	être	VS	VS	n=s|t=S|p=3	37	aux_pass	37	aux_pass
+37	assurée	assurer	VPP	VPP	n=s|g=f|t=K	30	sub	30	sub
+38	par	par	P	P		37	mod	37	mod
+39	des	des	DET	DET	n=p	40	det	40	det
+40	fusibles	fusible	ADJ	ADJ	n=p	38	prep	38	prep
+41	ou	ou	CC	CC		38	coord	38	coord
+42	des	de	P+D	P+D	n=p	41	dep_coord	41	dep_coord
+43	disjoncteurs	disjoncteur	NC	NC	n=p|g=m	42	prep	42	prep
+44	placés	placer	VPP	VPP	n=p|g=m|t=K	43	mod	43	mod
+45	sur	sur	P	P		44	mod	44	mod
+46	chaque	chaque	DET	DET	n=s	47	det	47	det
+47	circuit	circuit	NC	NC	n=s|g=m	45	prep	45	prep
+48	.	.	PONCT	PONCT		47	ponct	47	ponct
+
+</p><h3>
+1	Disjoncteur	disjoncteur	NC	NC	n=s|g=m	0	_	0	_
+2	électronique	électronique	NC	NC	n=s|g=f	1	mod	1	mod
+
+</h3><p>
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	faut	falloir	V	V	n=s|t=P|p=3	0	root	0	root
+3	savoir	savoir	VINF	VINF	t=W	2	obj	2	obj
+4	distinguer	distinguer	VINF	VINF	t=W	3	obj	3	obj
+5	les	les	DET	DET	n=p	6	det	6	det
+6	disjoncteurs	disjoncteur	NC	NC	n=p|g=m	4	obj	4	obj
+7	qui	qui	PROREL	PROREL	n=s	8	suj	8	suj
+8	disjonctent	disjoncter	V	V	n=p|t=P,S|p=3	6	mod_rel	6	mod_rel
+9	grâce	grâce	NC	NC	n=s|g=f	8	obj	8	obj
+10	à	à	P	P		8	mod	8	mod
+11	un	un	DET	DET	n=s|g=m	12	det	12	det
+12	système	système	NC	NC	n=s|g=m	10	prep	10	prep
+13	électronique	électronique	ADJ	ADJ	n=s	12	mod	12	mod
+14	et	et	CC	CC		8	coord	8	coord
+15	les	les	DET	DET	n=p	16	det	16	det
+16	disjoncteurs	disjoncteur	NC	NC	n=p|g=m	14	dep_coord	14	dep_coord
+17	électroniques	électronique	ADJ	ADJ	n=p	16	mod	16	mod
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	qui	qui	PROREL	PROREL	n=s	22	mod	22	mod
+20	eux	eux	PRO	PRO	n=p|g=m|p=3	22	suj	22	suj
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	sont	être	V	V	n=p|t=P|p=3	2	mod	2	mod
+23	entièrement	_	ADV	ADV		22	mod	22	mod
+24	électroniques	électronique	ADJ	ADJ	n=p	22	ats	22	ats
+25	.	.	PONCT	PONCT		24	ponct	24	ponct
+
+</p><p>
+1	Ce	ce	DET	DET	n=s|g=m	2	det	2	det
+2	disjoncteur	disjoncteur	NC	NC	n=s|g=m	3	suj	3	suj
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	capable	capable	ADJ	ADJ	n=s	3	ats	3	ats
+5	de	de	P	P		3	mod	3	mod
+6	protéger	protéger	VINF	VINF	t=W	5	prep	5	prep
+7	comme	comme	P	P		6	mod	6	mod
+8	les	les	DET	DET	n=p	9	det	9	det
+9	disjoncteurs	disjoncteur	NC	NC	n=p|g=m	7	prep	7	prep
+10	magnétique	magnétique	ADJ	ADJ	n=s	9	mod	9	mod
+11	ou	ou	CC	CC		10	coord	10	coord
+12	thermique	thermique	ADJ	ADJ	n=s	11	dep_coord	11	dep_coord
+13	(	(	PONCT	PONCT		12	ponct	12	ponct
+14	par	par	P	P		6	mod	6	mod
+15	la	la	DET	DET	n=s|g=f	16	det	16	det
+16	chaleur	chaleur	NC	NC	n=s|g=f	14	prep	14	prep
+17	)	)	PONCT	PONCT		16	ponct	16	ponct
+18	,	,	PONCT	PONCT		16	ponct	16	ponct
+19	c'	ce	DET	DET	n=s|g=m	20	det	20	det
+20	est-à-dire	_	NC	NC		3	mod	3	mod
+21	couper	couper	VINF	VINF	t=W	3	mod	3	mod
+22	le	le	DET	DET	n=s|g=m	23	det	23	det
+23	courant	courant	NC	NC	n=s|g=m	21	obj	21	obj
+24	en	en	P	P		21	mod	21	mod
+25	cas	cas	NC	NC	g=m	24	prep	24	prep
+26	de	de	P	P		21	mod	21	mod
+27	sur	_	NC	NC		26	prep	26	prep
+28	-	-	PONCT	PONCT		27	ponct	27	ponct
+29	tension	tension	NC	NC	n=s|g=f	21	mod	21	mod
+30	ou	ou	CC	CC		21	coord	21	coord
+31	de	de	P	P		30	dep_coord	30	dep_coord
+32	court-circuit	_	NC	NC		31	prep	31	prep
+33	.	.	PONCT	PONCT		32	ponct	32	ponct
+
+</p><p>
+1	Il	il	CLS	CLS	n=s|g=m|p=3	3	suj	3	suj
+2	est	être	V	V	n=s|t=P|p=3	3	aux_tps	3	aux_tps
+3	composé	composer	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+4	d'	de	P	P		3	mod	3	mod
+5	un	un	DET	DET	n=s|g=m	6	det	6	det
+6	système	système	NC	NC	n=s|g=m	4	prep	4	prep
+7	qui	qui	PROREL	PROREL	n=s	8	suj	8	suj
+8	mesure	mesurer	V	V	n=s|t=P,S|p=1,3	3	mod	3	mod
+9	l'	le	DET	DET	n=s	10	det	10	det
+10	intensité	intensité	NC	NC	n=s|g=f	8	obj	8	obj
+11	du	de	P+D	P+D	n=s|g=m	10	dep	10	dep
+12	courant	courant	NC	NC	n=s|g=m	11	prep	11	prep
+13	(	(	PONCT	PONCT		12	ponct	12	ponct
+14	appelé	appeler	VPP	VPP	n=s|g=m|t=K	8	mod	8	mod
+15	shunt	shunt	NC	NC	n=s|g=m	14	mod	14	mod
+16	)	)	PONCT	PONCT		15	ponct	15	ponct
+17	,	,	PONCT	PONCT		15	ponct	15	ponct
+18	d'	de	P	P		14	mod	14	mod
+19	un	un	DET	DET	n=s|g=m	20	det	20	det
+20	appareil	appareil	NC	NC	n=s|g=m	18	prep	18	prep
+21	qui	qui	PROREL	PROREL	n=s	22	suj	22	suj
+22	analyse	analyser	V	V	n=s|t=P,S|p=1,3	3	mod	3	mod
+23	la	la	DET	DET	n=s|g=f	24	det	24	det
+24	mesure	mesure	NC	NC	n=s|g=f	22	obj	22	obj
+25	(	(	PONCT	PONCT		24	ponct	24	ponct
+26	il	il	CLS	CLS	n=s|g=m|p=3	27	suj	27	suj
+27	compare	comparer	V	V	n=s|t=P,S|p=1,3	3	mod	3	mod
+28	l’	le	DET	DET	n=s	29	det	29	det
+29	intensité	intensité	NC	NC	n=s|g=f	27	obj	27	obj
+30	du	de	P+D	P+D	n=s|g=m	29	dep	29	dep
+31	courant	courant	NC	NC	n=s|g=m	30	prep	30	prep
+32	qui	qui	PROREL	PROREL	n=s	35	suj	35	suj
+33	a	avoir	V	V	n=s|t=P|p=3	35	aux_tps	35	aux_tps
+34	été	être	VPP	VPP	t=K	35	aux_pass	35	aux_pass
+35	mesuré	mesurer	VPP	VPP	n=s|g=m|t=K	29	mod_rel	29	mod_rel
+36	à	à	P	P		35	mod	35	mod
+37	une	une	DET	DET	n=s|g=f	38	det	38	det
+38	limite	limite	NC	NC	n=s|g=f	36	prep	36	prep
+39	définie	définir	VPP	VPP	n=s|g=f|t=K	38	mod	38	mod
+40	pendant	pendant	P	P		39	mod	39	mod
+41	la	la	DET	DET	n=s|g=f	42	det	42	det
+42	fabrication	fabrication	NC	NC	n=s|g=f	40	prep	40	prep
+43	)	)	PONCT	PONCT		42	ponct	42	ponct
+44	,	,	PONCT	PONCT		42	ponct	42	ponct
+45	et	et	CC	CC		27	coord	27	coord
+46	d'	de	P	P		45	dep_coord	45	dep_coord
+47	un	un	DET	DET	n=s|g=m	48	det	48	det
+48	dispositif	dispositif	NC	NC	n=s|g=m	46	prep	46	prep
+49	de	de	P	P		48	dep	48	dep
+50	déclenchement	déclenchement	NC	NC	n=s|g=m	49	prep	49	prep
+51	.	.	PONCT	PONCT		50	ponct	50	ponct
+
+</p><p>
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	intérêt	intérêt	NC	NC	n=s|g=m	7	suj	7	suj
+3	d'	de	P	P		2	dep	2	dep
+4	un	un	DET	DET	n=s|g=m	5	det	5	det
+5	disjoncteur	disjoncteur	NC	NC	n=s|g=m	3	prep	3	prep
+6	électronique	électronique	ADJ	ADJ	n=s	5	mod	5	mod
+7	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+8	d'	de	P	P		7	ats	7	ats
+9	avoir	avoir	VINF	VINF	t=W	8	prep	8	prep
+10	une	une	DET	DET	n=s|g=f	12	det	12	det
+11	grande	grand	ADJ	ADJ	n=s|g=f	12	mod	12	mod
+12	possibilité	possibilité	NC	NC	n=s|g=f	9	obj	9	obj
+13	de	de	P	P		12	dep	12	dep
+14	réglages	réglage	NC	NC	n=p|g=m	13	prep	13	prep
+15	(	(	PONCT	PONCT		14	ponct	14	ponct
+16	le	le	DET	DET	n=s|g=m	17	det	17	det
+17	seuil	seuil	NC	NC	n=s|g=m	7	mod	7	mod
+18	de	de	P	P		17	dep	17	dep
+19	déclenchement	déclenchement	NC	NC	n=s|g=m	18	prep	18	prep
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	le	le	DET	DET	n=s|g=m	22	det	22	det
+22	délai	délai	NC	NC	n=s|g=m	0	_	0	_
+23	avant	avant	P	P		22	dep	22	dep
+24	le	le	DET	DET	n=s|g=m	25	det	25	det
+25	déclenchement	déclenchement	NC	NC	n=s|g=m	23	prep	23	prep
+26	...	...	PONCT	PONCT		25	ponct	25	ponct
+27	)	)	PONCT	PONCT		25	ponct	25	ponct
+28	,	,	PONCT	PONCT		25	ponct	25	ponct
+29	et	et	CC	CC		22	coord	22	coord
+30	d'	de	P	P		29	dep_coord	29	dep_coord
+31	inclure	inclure	VINF	VINF	t=W	30	prep	30	prep
+32	éventuellement	_	ADV	ADV		31	mod	31	mod
+33	des	des	DET	DET	n=p	34	det	34	det
+34	systèmes	système	NC	NC	n=p|g=m	31	obj	31	obj
+35	sophistiqués	sophistiquer	VPP	VPP	n=p|g=m|t=K	34	mod	34	mod
+36	de	de	P	P		35	mod	35	mod
+37	protection	protection	NC	NC	n=s|g=f	36	prep	36	prep
+38	contre	contre	P	P		35	mod	35	mod
+39	les	les	DET	DET	n=p	40	det	40	det
+40	courants	courant	NC	NC	n=p|g=m	38	prep	38	prep
+41	de	de	P	P		40	dep	40	dep
+42	fuites	fuite	NC	NC	n=p|g=f	41	prep	41	prep
+43	,	,	PONCT	PONCT		42	ponct	42	ponct
+44	avoir	avoir	VINF	VINF	t=W	35	dep	35	dep
+45	la	la	DET	DET	n=s|g=f	46	det	46	det
+46	possibilité	possibilité	NC	NC	n=s|g=f	44	obj	44	obj
+47	que	que	CS	CS		31	mod	31	mod
+48	le	le	DET	DET	n=s|g=m	49	det	49	det
+49	disjoncteur	disjoncteur	NC	NC	n=s|g=m	0	_	0	_
+50	transmette	_	ADJ	ADJ		49	mod	49	mod
+51	son	son	DET	DET	n=s|g=m|p=3|poss=s	52	det	52	det
+52	état	état	NC	NC	n=s|g=m	49	mod	49	mod
+53	(	(	PONCT	PONCT		52	ponct	52	ponct
+54	si	si	CS	CS		49	mod	49	mod
+55	le	le	DET	DET	n=s|g=m	56	det	56	det
+56	courant	courant	NC	NC	n=s|g=m	57	suj	57	suj
+57	passe	passer	V	V	n=s|t=P,S|p=1,3	54	sub	54	sub
+58	ou	ou	CC	CC		57	coord	57	coord
+59	non	non	ADV	ADV		58	dep_coord	58	dep_coord
+60	)	)	PONCT	PONCT		59	ponct	59	ponct
+61	,	,	PONCT	PONCT		59	ponct	59	ponct
+62	analyser	analyser	VINF	VINF	t=W	57	obj	57	obj
+63	l’	le	DET	DET	n=s	64	det	64	det
+64	intensité	intensité	NC	NC	n=s|g=f	62	obj	62	obj
+65	du	de	P+D	P+D	n=s|g=m	64	dep	64	dep
+66	courant	courant	NC	NC	n=s|g=m	65	prep	65	prep
+67	,	,	PONCT	PONCT		66	ponct	66	ponct
+<abbr>etc.</abbr>
+68	Ce	_	NPP	NPP		0	_	0	_
+69	disjoncteur	disjoncteur	NC	NC	n=s|g=m	68	mod	68	mod
+70	est	être	V	V	n=s|t=P|p=3	0	_	0	_
+71	un	un	DET	DET	n=s|g=m	74	det	74	det
+72	véritable	véritable	ADJ	ADJ	n=s	74	mod	74	mod
+73	"	"	PONCT	PONCT		72	ponct	72	ponct
+74	robot	robot	NC	NC	n=s|g=m	70	obj	70	obj
+75	"	"	PONCT	PONCT		74	ponct	74	ponct
+76	de	de	P	P		74	dep	74	dep
+77	surveillance	surveillance	NC	NC	n=s|g=f	76	prep	76	prep
+78	du	de	P+D	P+D	n=s|g=m	74	dep	74	dep
+79	réseau	réseau	NC	NC	n=s|g=m	78	prep	78	prep
+80	électrique	électrique	ADJ	ADJ	n=s	79	mod	79	mod
+81	.	.	PONCT	PONCT		80	ponct	80	ponct
+
+</p><p>
+1	Son	son	DET	DET	n=s|g=m|p=3|poss=s	2	det	2	det
+2	inconvénient	inconvénient	NC	NC	n=s|g=m	3	suj	3	suj
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	qu'	que	CS	CS		3	obj	3	obj
+5	il	il	CLS	CLS	n=s|g=m|p=3	6	suj	6	suj
+6	a	avoir	V	V	n=s|t=P|p=3	4	sub	4	sub
+7	besoins	besoin	NC	NC	n=p|g=m	6	obj	6	obj
+8	d'	de	P	P		6	mod	6	mod
+9	être	être	VINF	VINF	t=W	10	aux_tps	10	aux_tps
+10	alimenté	alimenter	VPP	VPP	n=s|g=m|t=K	8	prep	8	prep
+11	en	en	P	P		10	mod	10	mod
+12	électricité	électricité	NC	NC	n=s|g=f	11	prep	11	prep
+13	:	:	PONCT	PONCT		12	ponct	12	ponct
+
+</p><p>
+1	sur	sur	P	P		14	mod	14	mod
+2	le	le	DET	DET	n=s|g=m	3	det	3	det
+3	réseau	réseau	NC	NC	n=s|g=m	1	prep	1	prep
+4	d'	de	P	P		3	dep	3	dep
+5	un	un	DET	DET	n=s|g=m	6	det	6	det
+6	appareil	appareil	NC	NC	n=s|g=m	4	prep	4	prep
+7	ayant	avoir	VPR	VPR	t=G	6	mod	6	mod
+8	son	son	DET	DET	n=s|g=m|p=3|poss=s	10	det	10	det
+9	propre	propre	ADJ	ADJ	n=s	10	mod	10	mod
+10	circuit	circuit	NC	NC	n=s|g=m	7	obj	7	obj
+11	:	:	PONCT	PONCT		10	ponct	10	ponct
+12	le	le	DET	DET	n=s|g=m	13	det	13	det
+13	disjoncteur	disjoncteur	NC	NC	n=s|g=m	14	suj	14	suj
+14	a	avoir	V	V	n=s|t=P|p=3	0	root	0	root
+15	besoins	besoin	NC	NC	n=p|g=m	14	obj	14	obj
+16	d'	de	P	P		14	mod	14	mod
+17	un	un	DET	DET	n=s|g=m	0	_	0	_
+18	peu	peu	ADV	ADV		0	_	0	_
+19	de	de	P	P		0	_	0	_
+20	temps	temps	NC	NC	g=m	19	prep	19	prep
+21	après	après	P	P		20	dep	20	dep
+22	avoir	avoir	VINF	VINF	t=W	24	aux_tps	24	aux_tps
+23	été	être	VPP	VPP	t=K	24	aux_pass	24	aux_pass
+24	mis	mettre	VPP	VPP	g=m|t=K	21	prep	21	prep
+25	en	en	P	P		24	mod	24	mod
+26	marche	marche	NC	NC	n=s|g=f	25	prep	25	prep
+27	pour	pour	P	P		24	mod	24	mod
+28	qu'	que	CS	CS		27	prep	27	prep
+29	il	il	CLS	CLS	n=s|g=m|p=3	31	suj	31	suj
+30	ait	avoir	VS	VS	n=s|t=S|p=3	31	aux_pass	31	aux_pass
+31	accumulé	accumuler	VPP	VPP	n=s|g=m|t=K	28	sub	28	sub
+32	suffisamment	_	ADV	ADV		31	mod	31	mod
+33	d'	de	P	P		31	mod	31	mod
+34	électricité	électricité	NC	NC	n=s|g=f	33	prep	33	prep
+35	et	et	CC	CC		31	coord	31	coord
+36	être	être	VINF	VINF	t=W	35	dep_coord	35	dep_coord
+37	capable	capable	ADJ	ADJ	n=s	36	ats	36	ats
+38	de	de	P	P		36	mod	36	mod
+39	disjoncter	disjoncter	VINF	VINF	t=W	38	prep	38	prep
+40	.	.	PONCT	PONCT		39	ponct	39	ponct
+
+1	Ces	ces	DET	DET	n=p	2	det	2	det
+2	disjoncteurs	disjoncteur	NC	NC	n=p|g=m	4	suj	4	suj
+3	ne	ne	ADV	ADV		4	mod	4	mod
+4	peuvent	pouvoir	V	V	n=p|t=P|p=3	0	root	0	root
+5	pas	pas	ADV	ADV		4	mod	4	mod
+6	réagir	réagir	VINF	VINF	t=W	4	obj	4	obj
+7	aussi	aussi	ADV	ADV		8	mod	8	mod
+8	rapidement	_	ADV	ADV		6	mod	6	mod
+9	qu'	que	CS	CS		6	mod	6	mod
+10	un	un	DET	DET	n=s|g=m	11	det	11	det
+11	disjoncteur	disjoncteur	NC	NC	n=s|g=m	0	_	0	_
+12	magnétique	magnétique	ADJ	ADJ	n=s	11	mod	11	mod
+13	.	.	PONCT	PONCT		12	ponct	12	ponct
+
+</p><p>
+1	sur	sur	P	P		10	mod	10	mod
+2	le	le	DET	DET	n=s|g=m	3	det	3	det
+3	réseau	réseau	NC	NC	n=s|g=m	1	prep	1	prep
+4	d'	de	P	P		3	dep	3	dep
+5	une	une	DET	DET	n=s|g=f	6	det	6	det
+6	maison	maison	NC	NC	n=s|g=f	4	prep	4	prep
+7	:	:	PONCT	PONCT		6	ponct	6	ponct
+8	un	un	DET	DET	n=s|g=m	9	det	9	det
+9	système	système	NC	NC	n=s|g=m	10	suj	10	suj
+10	doit	devoir	V	V	n=s|t=P|p=3	0	root	0	root
+11	empêcher	empêcher	VINF	VINF	t=W	10	obj	10	obj
+12	la	la	DET	DET	n=s|g=f	13	det	13	det
+13	remise	remise	NC	NC	n=s|g=f	11	obj	11	obj
+14	en	en	P	P		13	dep	13	dep
+15	route	route	NC	NC	n=s|g=f	14	prep	14	prep
+16	du	de	P+D	P+D	n=s|g=m	11	mod	11	mod
+17	courant	courant	NC	NC	n=s|g=m	16	prep	16	prep
+18	tant	tant	ADV	ADV		10	mod	10	mod
+19	que	que	CS	CS		10	mod	10	mod
+20	l'	le	DET	DET	n=s	21	det	21	det
+21	alimentation	alimentation	NC	NC	n=s|g=f	27	suj	27	suj
+22	du	de	P+D	P+D	n=s|g=m	21	dep	21	dep
+23	disjoncteur	disjoncteur	NC	NC	n=s|g=m	22	prep	22	prep
+24	n'	ne	ADV	ADV		27	mod	27	mod
+25	est	être	V	V	n=s|t=P|p=3	27	aux_pass	27	aux_pass
+26	pas	pas	ADV	ADV		27	mod	27	mod
+27	assuré	assurer	VPP	VPP	n=s|g=m|t=K	19	sub	19	sub
+28	.	.	PONCT	PONCT		27	ponct	27	ponct
+
+1	En	en	P	P		16	mod	16	mod
+2	effet	effet	NC	NC	n=s|g=m	1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	si	si	CS	CS		16	mod	16	mod
+5	le	le	DET	DET	n=s|g=m	6	det	6	det
+6	disjoncteur	disjoncteur	NC	NC	n=s|g=m	10	suj	10	suj
+7	n'	ne	ADV	ADV		10	mod	10	mod
+8	est	être	V	V	n=s|t=P|p=3	10	aux_tps	10	aux_tps
+9	pas	pas	ADV	ADV		10	mod	10	mod
+10	alimenté	alimenter	VPP	VPP	n=s|g=m|t=K	4	sub	4	sub
+11	en	en	P	P		10	mod	10	mod
+12	électricité	électricité	NC	NC	n=s|g=f	11	prep	11	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	il	il	CLS	CLS	n=s|g=m|p=3	16	suj	16	suj
+15	ne	ne	ADV	ADV		16	mod	16	mod
+16	peut	pouvoir	V	V	n=s|t=P|p=3	0	root	0	root
+17	pas	pas	ADV	ADV		16	mod	16	mod
+18	réagir	réagir	VINF	VINF	t=W	16	obj	16	obj
+19	aux	à	P+D	P+D	n=p	18	mod	18	mod
+20	sur	sur	P	P		18	mod	18	mod
+21	-	-	PONCT	PONCT		20	ponct	20	ponct
+22	tensions	tension	NC	NC	n=p|g=f	20	ponct	20	ponct
+23	et	et	CC	CC		20	coord	20	coord
+24	aux	à	P+D	P+D	n=p	23	dep_coord	23	dep_coord
+25	courts-circuits	_	NC	NC		24	prep	24	prep
+
+</p><p>
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	aussi	aussi	ADV	ADV		2	mod	2	mod
+4	cher	cher	ADJ	ADJ	n=s|g=m	2	ats	2	ats
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	ce	ce	PRO	PRO	n=s	2	mod	2	mod
+7	qui	qui	PROREL	PROREL	n=s	8	suj	8	suj
+8	fait	faire	V	V	n=s|t=P|p=3	6	mod_rel	6	mod_rel
+9	qu'	que	CS	CS		8	obj	8	obj
+10	on	on	CLS	CLS	n=s|p=3	12	suj	12	suj
+11	l'	le	CLO	CLO	n=s|p=3	12	obj	12	obj
+12	utilise	utiliser	V	V	n=s|t=P,S|p=1,3	9	sub	9	sub
+13	pour	pour	P	P		12	mod	12	mod
+14	les	les	DET	DET	n=p	15	det	15	det
+15	appareils	appareil	NC	NC	n=p|g=m	13	prep	13	prep
+16	puissants	puissant	ADJ	ADJ	n=p|g=m	15	mod	15	mod
+17	ou	ou	CC	CC		16	coord	16	coord
+18	très	très	ADV	ADV		19	mod	19	mod
+19	chers	cher	ADJ	ADJ	n=p|g=m	17	dep_coord	17	dep_coord
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+</p><h3>
+1	Disjoncteur	disjoncteur	NC	NC	n=s|g=m	0	_	0	_
+2	hydraulique	hydraulique	NC	NC	n=s|g=f	1	mod	1	mod
+
+</h3><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	système	système	NC	NC	n=s|g=m	16	suj	16	suj
+3	de	de	P	P		2	dep	2	dep
+4	déclenchement	déclenchement	NC	NC	n=s|g=m	3	prep	3	prep
+5	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+6	disjoncteur	disjoncteur	NC	NC	n=s|g=m	5	prep	5	prep
+7	utilisé	utiliser	VPP	VPP	n=s|g=m|t=K	6	mod	6	mod
+8	dans	dans	P	P		7	mod	7	mod
+9	un	un	DET	DET	n=s|g=m	10	det	10	det
+10	disjoncteur	disjoncteur	NC	NC	n=s|g=m	8	prep	8	prep
+11	magnéto-hydraulique	_	ADJ	ADJ		10	mod	10	mod
+12	ou	ou	CC	CC		2	coord	2	coord
+13	hydro	_	NC	NC		12	dep_coord	12	dep_coord
+14	-	-	PONCT	PONCT		13	ponct	13	ponct
+15	magnétique	magnétique	ADJ	ADJ	n=s	2	mod	2	mod
+16	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+17	double	double	ADJ	ADJ	n=s	16	ats	16	ats
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	D'	de	P	P		6	mod	6	mod
+2	abord	abord	NC	NC	n=s|g=m	1	prep	1	prep
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	il	il	CLS	CLS	n=s|g=m|p=3	6	suj	6	suj
+5	y	y	CLO	CLO		6	aff	6	aff
+6	a	avoir	V	V	n=s|t=P|p=3	0	root	0	root
+7	la	la	DET	DET	n=s|g=f	8	det	8	det
+8	partie	partie	NC	NC	n=s|g=f	6	obj	6	obj
+9	magnétique	magnétique	ADJ	ADJ	n=s	8	mod	8	mod
+10	déjà	déjà	ADV	ADV		11	mod	11	mod
+11	expliquée	expliquer	VPP	VPP	n=s|g=f|t=K	8	mod	8	mod
+12	ci-dessus	ci-dessus	ADV	ADV		11	mod	11	mod
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	et	et	CC	CC		6	coord	6	coord
+15	il	il	CLS	CLS	n=s|g=m|p=3	17	suj	17	suj
+16	y	y	CLO	CLO		17	aff	17	aff
+17	a	avoir	V	V	n=s|t=P|p=3	14	dep_coord	14	dep_coord
+18	aussi	aussi	ADV	ADV		17	mod	17	mod
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	une	une	DET	DET	n=s|g=f	21	det	21	det
+21	partie	partie	NC	NC	n=s|g=f	17	obj	17	obj
+22	hydraulique	hydraulique	ADJ	ADJ	n=s	21	mod	21	mod
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+1	Cette	cette	DET	DET	n=s|g=f	2	det	2	det
+2	partie	partie	NC	NC	n=s|g=f	3	suj	3	suj
+3	remplace	remplacer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	partie	partie	NC	NC	n=s|g=f	3	obj	3	obj
+6	«_	"	PONCT	PONCT		5	ponct	5	ponct
+7	thermique	thermique	ADJ	ADJ	n=s	5	mod	5	mod
+8	_»	"	PONCT	PONCT		7	ponct	7	ponct
+9	.	.	PONCT	PONCT		7	ponct	7	ponct
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	3	suj	3	suj
+2	donc	donc	ADV	ADV		3	mod	3	mod
+3	permettre	permettre	VINF	VINF	t=W	0	root	0	root
+4	de	de	P	P		3	mod	3	mod
+5	détecter	détecter	VINF	VINF	t=W	4	prep	4	prep
+6	les	les	DET	DET	n=p	7	det	7	det
+7	sur	_	NC	NC		5	obj	5	obj
+8	-	-	PONCT	PONCT		7	ponct	7	ponct
+9	tensions	tension	NC	NC	n=p|g=f	5	mod	5	mod
+10	légères	léger	ADJ	ADJ	n=p|g=f	9	mod	9	mod
+11	mais	mais	CC	CC		3	coord	3	coord
+12	de	de	DET	DET	n=p	14	det	14	det
+13	longue	long	ADJ	ADJ	n=s|g=f	14	mod	14	mod
+14	durée	durée	NC	NC	n=s|g=f	11	dep_coord	11	dep_coord
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+</p><p>
+1	Voici	voici	V	V		0	root	0	root
+2	ses	ses	DET	DET	n=p|p=3|poss=s	3	det	3	det
+3	avantages	avantage	NC	NC	n=p|g=m	1	obj	1	obj
+4	:	:	PONCT	PONCT		3	ponct	3	ponct
+
+</p><p>
+1	Après	après	P	P		7	mod	7	mod
+2	un	un	DET	DET	n=s|g=m	3	det	3	det
+3	déclenchement	déclenchement	NC	NC	n=s|g=m	1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	le	le	DET	DET	n=s|g=m	6	det	6	det
+6	redéclenchement	_	NC	NC		7	suj	7	suj
+7	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+8	immédiatement	_	ADV	ADV		7	mod	7	mod
+9	possible	possible	ADJ	ADJ	n=s	7	ats	7	ats
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+</p><p>
+1	Pas	pas	ADV	ADV		0	_	0	_
+2	de	de	P	P		0	_	0	_
+3	problème	problème	NC	NC	n=s|g=m	2	prep	2	prep
+4	de	de	P	P		3	dep	3	dep
+5	déclenchement	déclenchement	NC	NC	n=s|g=m	4	prep	4	prep
+6	à	à	P	P		3	dep	3	dep
+7	cause	cause	NC	NC	n=s|g=f	6	prep	6	prep
+8	de	de	P	P		3	dep	3	dep
+9	la	la	DET	DET	n=s|g=f	10	det	10	det
+10	température	température	NC	NC	n=s|g=f	8	prep	8	prep
+11	extérieure	extérieur	ADJ	ADJ	n=s|g=f	10	mod	10	mod
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+</p><p>
+1	Son	son	DET	DET	n=s|g=m|p=3|poss=s	2	det	2	det
+2	inconvénient	inconvénient	NC	NC	n=s|g=m	3	suj	3	suj
+3	reste	rester	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	son	son	DET	DET	n=s|g=m|p=3|poss=s	5	det	5	det
+5	prix	prix	NC	NC	g=m	3	obj	3	obj
+6	comparé	comparer	VPP	VPP	n=s|g=m|t=K	5	mod	5	mod
+7	aux	à	P+D	P+D	n=p	6	mod	6	mod
+8	disjoncteurs	disjoncteur	NC	NC	n=p|g=m	7	prep	7	prep
+9	thermiques	thermique	ADJ	ADJ	n=p	8	mod	8	mod
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+</p><h2>
+1	Constantes	constant	ADJ	ADJ	n=p|g=f	0	_	0	_
+2	de	de	P	P		1	mod	1	mod
+3	temps	temps	NC	NC	g=m	2	prep	2	prep
+
+</h2><p>
+1	Certains	certain	DET	DET	n=p|g=m	2	det	2	det
+2	disjoncteurs	disjoncteur	NC	NC	n=p|g=m	4	suj	4	suj
+3	sont	être	V	V	n=p|t=P|p=3	4	aux_pass	4	aux_pass
+4	équipés	équiper	VPP	VPP	n=p|g=m|t=K	0	root	0	root
+5	de	de	P	P		4	mod	4	mod
+6	systèmes	système	NC	NC	n=p|g=m	5	prep	5	prep
+7	mécaniques	mécanique	ADJ	ADJ	n=p	6	mod	6	mod
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	électriques	électrique	ADJ	ADJ	n=p	6	mod	6	mod
+10	ou	ou	CC	CC		9	coord	9	coord
+11	électroniques	électronique	ADJ	ADJ	n=p	10	dep_coord	10	dep_coord
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	que	que	PROREL	PROREL		16	obj	16	obj
+14	l'	le	DET	DET	n=s	15	det	15	det
+15	on	on	CLS	CLS	n=s|p=3	16	suj	16	suj
+16	peut	pouvoir	V	V	n=s|t=P|p=3	4	mod	4	mod
+17	régler	régler	VINF	VINF	t=W	16	obj	16	obj
+18	en	en	P	P		17	mod	17	mod
+19	durée	durée	NC	NC	n=s|g=f	18	prep	18	prep
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	en	en	P	P		17	mod	17	mod
+22	intensité	intensité	NC	NC	n=s|g=f	21	prep	21	prep
+23	maximale	maximal	ADJ	ADJ	n=s|g=f	22	mod	22	mod
+24	avant	avant	P	P		17	mod	17	mod
+25	le	le	DET	DET	n=s|g=m	26	det	26	det
+26	déclenchement	déclenchement	NC	NC	n=s|g=m	24	prep	24	prep
+27	ou	ou	CC	CC		24	coord	24	coord
+28	en	en	P	P		27	dep_coord	27	dep_coord
+29	sensibilité	sensibilité	NC	NC	n=s|g=f	28	prep	28	prep
+30	,	,	PONCT	PONCT		29	ponct	29	ponct
+31	permettant	permettre	VPR	VPR	t=G	17	mod	17	mod
+32	d'	de	P	P		31	obj	31	obj
+33	arrêter	arrêter	VINF	VINF	t=W	32	prep	32	prep
+34	le	le	DET	DET	n=s|g=m	35	det	35	det
+35	fonctionnement	fonctionnement	NC	NC	n=s|g=m	33	obj	33	obj
+36	de	de	P	P		33	mod	33	mod
+37	l'	le	DET	DET	n=s	38	det	38	det
+38	un	un	PRO	PRO	n=s|g=m	36	prep	36	prep
+39	des	de	P+D	P+D	n=p	38	dep	38	dep
+40	3	3	ADJ	ADJ		41	mod	41	mod
+41	modes	mode	NC	NC	n=p	39	prep	39	prep
+42	de	de	P	P		41	dep	41	dep
+43	protection	protection	NC	NC	n=s|g=f	42	prep	42	prep
+44	présentés	présenter	VPP	VPP	n=p|g=m|t=K	41	mod	41	mod
+45	ci-dessus	ci-dessus	ADV	ADV		44	mod	44	mod
+46	(	(	PONCT	PONCT		45	ponct	45	ponct
+47	thermique	thermique	ADJ	ADJ	n=s	44	mod	44	mod
+48	,	,	PONCT	PONCT		47	ponct	47	ponct
+49	magnétique	magnétique	ADJ	ADJ	n=s	44	mod	44	mod
+50	,	,	PONCT	PONCT		49	ponct	49	ponct
+51	différentielle	différentiel	ADJ	ADJ	n=s|g=f	44	mod	44	mod
+52	)	)	PONCT	PONCT		51	ponct	51	ponct
+53	durant	durant	P	P		33	mod	33	mod
+54	un	un	DET	DET	n=s|g=m	56	det	56	det
+55	certain	certain	ADJ	ADJ	n=s|g=m	56	mod	56	mod
+56	temps	temps	NC	NC	g=m	53	prep	53	prep
+57	.	.	PONCT	PONCT		56	ponct	56	ponct
+
+1	Cet	cet	DET	DET	n=s|g=m	2	det	2	det
+2	arrêt	arrêt	NC	NC	n=s|g=m	6	suj	6	suj
+3	de	de	P	P		2	dep	2	dep
+4	protection	protection	NC	NC	n=s|g=f	3	prep	3	prep
+5	temporaire	temporaire	ADJ	ADJ	n=s	4	mod	4	mod
+6	permet	permettre	V	V	n=s|t=P|p=3	0	root	0	root
+7	d'	de	P	P		6	obj	6	obj
+8	autoriser	autoriser	VINF	VINF	t=W	7	prep	7	prep
+9	certaines	certain	DET	DET	n=p|g=f	10	det	10	det
+10	actions	action	NC	NC	n=p|g=f	8	obj	8	obj
+11	qui	qui	PROREL	PROREL	n=s	13	suj	13	suj
+12	ne	ne	ADV	ADV		13	mod	13	mod
+13	sont	être	V	V	n=p|t=P|p=3	10	mod_rel	10	mod_rel
+14	pas	pas	ADV	ADV		13	mod	13	mod
+15	très	très	ADV	ADV		13	mod	13	mod
+16	sûres	sûr	ADJ	ADJ	n=p|g=f	13	ats	13	ats
+17	pour	pour	P	P		13	mod	13	mod
+18	la	la	DET	DET	n=s|g=f	19	det	19	det
+19	protection	protection	NC	NC	n=s|g=f	17	prep	17	prep
+20	des	de	P+D	P+D	n=p	19	dep	19	dep
+21	personnes	personne	NC	NC	n=p|g=f	20	prep	20	prep
+22	(	(	PONCT	PONCT		21	ponct	21	ponct
+23	et	et	CC	CC		7	coord	7	coord
+24	aussi	aussi	ADV	ADV		23	mod	23	mod
+25	des	de	P+D	P+D	n=p	23	dep_coord	23	dep_coord
+26	circuits	circuit	NC	NC	n=p|g=m	25	prep	25	prep
+27	et	et	CC	CC		25	coord	25	coord
+28	des	de	P+D	P+D	n=p	27	dep_coord	27	dep_coord
+29	équipements	équipement	NC	NC	n=p|g=m	28	prep	28	prep
+30	)	)	PONCT	PONCT		29	ponct	29	ponct
+31	,	,	PONCT	PONCT		29	ponct	29	ponct
+32	et	et	CC	CC		6	coord	6	coord
+33	qui	qui	PROREL	PROREL	n=s	34	suj	34	suj
+34	pourraient	pouvoir	V	V	n=p|t=C|p=3	32	dep_coord	32	dep_coord
+35	faire	faire	VINF	VINF	t=W	34	obj	34	obj
+36	disjoncter	disjoncter	VINF	VINF	t=W	35	obj	35	obj
+37	le	le	DET	DET	n=s|g=m	38	det	38	det
+38	disjoncteur	disjoncteur	NC	NC	n=s|g=m	36	obj	36	obj
+39	(	(	PONCT	PONCT		38	ponct	38	ponct
+40	mise	mettre	VPP	VPP	n=s|g=f|t=K	36	mod	36	mod
+41	sous	sous	P	P		40	mod	40	mod
+42	tension	tension	NC	NC	n=s|g=f	41	prep	41	prep
+43	de	de	P	P		40	mod	40	mod
+44	transformateurs	transformateur	NC	NC	n=p|g=m	43	prep	43	prep
+45	ou	ou	CC	CC		36	coord	36	coord
+46	d'	de	P	P		45	dep_coord	45	dep_coord
+47	alimentation	alimentation	NC	NC	n=s|g=f	46	prep	46	prep
+48	à	à	P	P		36	mod	36	mod
+49	découpage	découpage	NC	NC	n=s|g=m	48	prep	48	prep
+50	par	par	P	P		36	mod	36	mod
+51	exemple	exemple	NC	NC	n=s|g=m	50	prep	50	prep
+52	)	)	PONCT	PONCT		51	ponct	51	ponct
+53	.	.	PONCT	PONCT		51	ponct	51	ponct
+
+1	Ils	ils	CLS	CLS	n=p|g=m|p=3	2	suj	2	suj
+2	peuvent	pouvoir	V	V	n=p|t=P|p=3	0	root	0	root
+3	également	_	ADV	ADV		2	mod	2	mod
+4	être	être	VINF	VINF	t=W	2	obj	2	obj
+5	réglés	régler	VPP	VPP	n=p|g=m|t=K	4	ats	4	ats
+6	pour	pour	P	P		4	mod	4	mod
+7	laisser	laisser	VINF	VINF	t=W	6	prep	6	prep
+8	la	la	DET	DET	n=s|g=f	9	det	9	det
+9	possibilité	possibilité	NC	NC	n=s|g=f	7	obj	7	obj
+10	d’	de	P	P		2	mod	2	mod
+11	installer	installer	VINF	VINF	t=W	10	prep	10	prep
+12	une	une	DET	DET	n=s|g=f	14	det	14	det
+13	autre	autre	ADJ	ADJ	n=s	14	mod	14	mod
+14	protection	protection	NC	NC	n=s|g=f	11	obj	11	obj
+15	plus	plus	ADV	ADV		16	mod	16	mod
+16	loin	loin	ADV	ADV		11	mod	11	mod
+17	sur	sur	P	P		11	mod	11	mod
+18	le	le	DET	DET	n=s|g=m	19	det	19	det
+19	circuit	circuit	NC	NC	n=s|g=m	17	prep	17	prep
+20	afin	_	ADV	ADV		11	mod	11	mod
+21	de	de	P	P		11	mod	11	mod
+22	varier	varier	VINF	VINF	t=W	21	prep	21	prep
+23	les	les	DET	DET	n=p	24	det	24	det
+24	protections	protection	NC	NC	n=p|g=f	22	obj	22	obj
+25	.	.	PONCT	PONCT		24	ponct	24	ponct
+
+</p><h2>
+1	Pouvoir	pouvoir	NC	NC	n=s|g=m	0	_	0	_
+2	de	de	P	P		1	dep	1	dep
+3	coupure	coupure	NC	NC	n=s|g=f	2	prep	2	prep
+
+</h2><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	pouvoir	pouvoir	NC	NC	n=s|g=m	8	suj	8	suj
+3	de	de	P	P		2	dep	2	dep
+4	coupure	coupure	NC	NC	n=s|g=f	3	prep	3	prep
+5	d'	de	P	P		2	dep	2	dep
+6	un	un	DET	DET	n=s|g=m	7	det	7	det
+7	disjoncteur	disjoncteur	NC	NC	n=s|g=m	5	prep	5	prep
+8	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+9	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	10	det	10	det
+10	capacité	capacité	NC	NC	n=s|g=f	8	obj	8	obj
+11	de	de	P	P		8	mod	8	mod
+12	couper	couper	VINF	VINF	t=W	11	prep	11	prep
+13	un	un	DET	DET	n=s|g=m	14	det	14	det
+14	court-circuit	_	NC	NC		12	obj	12	obj
+15	sans	sans	P	P		12	mod	12	mod
+16	s'	se	CLR	CLR	n=p,s|p=3	17	aff	17	aff
+17	abîmer	abîmer	VINF	VINF	t=W	15	prep	15	prep
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	et	et	CC	CC		8	coord	8	coord
+20	s'	se	CLR	CLR	n=p,s|p=3	22	aff	22	aff
+21	en	en	CLO	CLO		22	obj	22	obj
+22	mettre	mettre	VINF	VINF	t=W	19	dep_coord	19	dep_coord
+23	en	en	P	P		22	mod	22	mod
+24	danger	danger	NC	NC	n=s|g=m	23	prep	23	prep
+25	son	son	DET	DET	n=s|g=m|p=3|poss=s	26	det	26	det
+26	entourage	entourage	NC	NC	n=s|g=m	22	obj	22	obj
+27	.	.	PONCT	PONCT		26	ponct	26	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	pouvoir	pouvoir	NC	NC	n=s|g=m	6	suj	6	suj
+3	de	de	P	P		2	dep	2	dep
+4	coupure	coupure	NC	NC	n=s|g=f	3	prep	3	prep
+5	se	se	CLR	CLR	n=p,s|p=3	6	aff	6	aff
+6	caractérise	caractériser	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+7	par	par	P	P		6	mod	6	mod
+8	l'	le	DET	DET	n=s	9	det	9	det
+9	intensité	intensité	NC	NC	n=s|g=f	7	prep	7	prep
+10	maximale	maximal	ADJ	ADJ	n=s|g=f	9	mod	9	mod
+11	d'	de	P	P		6	mod	6	mod
+12	un	un	DET	DET	n=s|g=m	13	det	13	det
+13	courant	courant	NC	NC	n=s|g=m	11	prep	11	prep
+14	électrique	électrique	ADJ	ADJ	n=s	13	mod	13	mod
+15	qui	qui	PROREL	PROREL	n=s	16	suj	16	suj
+16	pourrait	pouvoir	V	V	n=s|t=C|p=3	13	mod_rel	13	mod_rel
+17	passer	passer	VINF	VINF	t=W	16	obj	16	obj
+18	sans	sans	P	P		16	mod	16	mod
+19	être	être	VINF	VINF	t=W	20	aux_pass	20	aux_pass
+20	interrompue	interrompre	VPP	VPP	n=s|g=f|t=K	18	prep	18	prep
+21	par	par	P	P		20	mod	20	mod
+22	le	le	DET	DET	n=s|g=m	23	det	23	det
+23	disjoncteur	disjoncteur	NC	NC	n=s|g=m	21	prep	21	prep
+24	.	.	PONCT	PONCT		23	ponct	23	ponct
+
+1	Les	les	DET	DET	n=p	3	det	3	det
+2	différentes	différent	ADJ	ADJ	n=p|g=f	3	mod	3	mod
+3	normes	norme	NC	NC	n=p|g=f	20	suj	20	suj
+4	existantes	existant	ADJ	ADJ	n=p|g=f	3	mod	3	mod
+5	(	(	PONCT	PONCT		4	ponct	4	ponct
+6	CEI	_	NPP	NPP		3	mod	3	mod
+7	60947-2	_	NPP	NPP		6	mod	6	mod
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	NF	_	NPP	NPP		3	mod	3	mod
+10	-EN	en	P	P		3	dep	3	dep
+11	60947-2	_	NPP	NPP		10	prep	10	prep
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	CEI	_	NPP	NPP		11	mod	11	mod
+14	60898	60898	NC	NC		11	mod	11	mod
+15	et	et	CC	CC		3	coord	3	coord
+16	NF	_	NPP	NPP		15	dep_coord	15	dep_coord
+17	EN	en	P	P		3	dep	3	dep
+18	60898	60898	NC	NC		17	prep	17	prep
+19	)	)	PONCT	PONCT		18	ponct	18	ponct
+20	indiquent	indiquer	V	V	n=p|t=P,S|p=3	0	root	0	root
+21	cette	cette	DET	DET	n=s|g=f	22	det	22	det
+22	intensité	intensité	NC	NC	n=s|g=f	20	obj	20	obj
+23	maximale	maximal	ADJ	ADJ	n=s|g=f	22	mod	22	mod
+24	.	.	PONCT	PONCT		23	ponct	23	ponct
+
+</p><p>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	coupure	coupure	NC	NC	n=s|g=f	8	suj	8	suj
+3	d'	de	P	P		2	dep	2	dep
+4	un	un	DET	DET	n=s|g=m	5	det	5	det
+5	circuit	circuit	NC	NC	n=s|g=m	3	prep	3	prep
+6	trop	trop	ADV	ADV		7	mod	7	mod
+7	puissant	puissant	ADJ	ADJ	n=s|g=m	5	mod	5	mod
+8	peut	pouvoir	V	V	n=s|t=P|p=3	0	root	0	root
+9	provoquer	provoquer	VINF	VINF	t=W	8	obj	8	obj
+10	la	la	DET	DET	n=s|g=f	11	det	11	det
+11	formation	formation	NC	NC	n=s|g=f	9	obj	9	obj
+12	d'	de	P	P		11	dep	11	dep
+13	un	un	DET	DET	n=s|g=m	14	det	14	det
+14	arc	arc	NC	NC	n=s|g=m	12	prep	12	prep
+15	électrique	électrique	ADJ	ADJ	n=s	14	mod	14	mod
+16	entre	entre	P	P		9	mod	9	mod
+17	les	les	DET	DET	n=p	18	det	18	det
+18	contacts	contact	NC	NC	n=p|g=m	16	prep	16	prep
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+</p><p>
+1	Un	un	DET	DET	n=s|g=m	3	det	3	det
+2	fort	fort	ADV	ADV		3	mod	3	mod
+3	courant	courant	ADJ	ADJ	n=s|g=m	5	suj	5	suj
+4	électrique	électrique	ADJ	ADJ	n=s	3	mod	3	mod
+5	soumet	soumettre	V	V	n=s|t=P|p=3	0	root	0	root
+6	tous	tout	ADJ	ADJ	n=p|g=m	8	mod	8	mod
+7	les	les	DET	DET	n=p	8	det	8	det
+8	conducteurs	conducteur	NC	NC	n=p|g=m	5	obj	5	obj
+9	à	à	P	P		5	mod	5	mod
+10	des	des	DET	DET	n=p	11	det	11	det
+11	forces	force	NC	NC	n=p|g=f	9	prep	9	prep
+12	violentes	violent	ADJ	ADJ	n=p|g=f	11	mod	11	mod
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	qui	qui	PROREL	PROREL	n=s	21	suj	21	suj
+15	selon	selon	P	P		21	mod	21	mod
+16	la	la	DET	DET	n=s|g=f	17	det	17	det
+17	conception	conception	NC	NC	n=s|g=f	15	prep	15	prep
+18	de	de	P	P		17	dep	17	dep
+19	l'	le	DET	DET	n=s	20	det	20	det
+20	appareil	appareil	NC	NC	n=s|g=m	18	prep	18	prep
+21	peuvent	pouvoir	V	V	n=p|t=P|p=3	5	mod	5	mod
+22	l'	le	CLO	CLO	n=s|p=3	23	obj	23	obj
+23	aider	aider	VINF	VINF	t=W	21	obj	21	obj
+24	ou	ou	CC	CC		21	coord	21	coord
+25	non	non	ADV	ADV		24	mod	24	mod
+26	à	à	P	P		24	dep_coord	24	dep_coord
+27	couper	couper	VINF	VINF	t=W	26	prep	26	prep
+28	rapidement	_	ADV	ADV		27	mod	27	mod
+29	,	,	PONCT	PONCT		28	ponct	28	ponct
+30	et	et	CC	CC		5	coord	5	coord
+31	cela	cela	PRO	PRO	n=s|g=m	32	suj	32	suj
+32	aidera	aider	V	V	n=s|t=F|p=3	30	dep_coord	30	dep_coord
+33	aussi	aussi	ADV	ADV		32	mod	32	mod
+34	l'	le	DET	DET	n=s	35	det	35	det
+35	arc	arc	NC	NC	n=s|g=m	32	obj	32	obj
+36	électrique	électrique	ADJ	ADJ	n=s	35	mod	35	mod
+37	à	à	P	P		32	mod	32	mod
+38	s'	se	CLR	CLR	n=p,s|p=3	39	aff	39	aff
+39	allonger	allonger	VINF	VINF	t=W	37	prep	37	prep
+40	et	et	CC	CC		37	coord	37	coord
+41	à	à	P	P		40	dep_coord	40	dep_coord
+42	toucher	toucher	VINF	VINF	t=W	41	prep	41	prep
+43	une	une	DET	DET	n=s|g=f	44	det	44	det
+44	zone	zone	NC	NC	n=s|g=f	42	obj	42	obj
+45	du	de	P+D	P+D	n=s|g=m	44	dep	44	dep
+46	disjoncteur	disjoncteur	NC	NC	n=s|g=m	45	prep	45	prep
+47	,	,	PONCT	PONCT		46	ponct	46	ponct
+48	appeler	appeler	VINF	VINF	t=W	32	mod	32	mod
+49	chambre	chambre	NC	NC	n=s|g=f	48	obj	48	obj
+50	d'	de	P	P		48	mod	48	mod
+51	extinction	extinction	NC	NC	n=s|g=f	50	prep	50	prep
+52	(	(	PONCT	PONCT		51	ponct	51	ponct
+53	composant	composer	VPR	VPR	t=G	32	mod	32	mod
+54	n°	numéro	NC	NC	g=m	53	obj	53	obj
+55	8	8	ADJ	ADJ		54	mod	54	mod
+56	sur	sur	P	P		53	mod	53	mod
+57	la	la	DET	DET	n=s|g=f	58	det	58	det
+58	photo	photo	NC	NC	n=s|g=f	56	prep	56	prep
+59	de	de	P	P		53	mod	53	mod
+60	l'	le	DET	DET	n=s	61	det	61	det
+61	intérieur	intérieur	NC	NC	n=s|g=m	59	prep	59	prep
+62	d'	de	P	P		53	mod	53	mod
+63	un	un	DET	DET	n=s|g=m	64	det	64	det
+64	disjoncteur	disjoncteur	NC	NC	n=s|g=m	62	prep	62	prep
+65	)	)	PONCT	PONCT		64	ponct	64	ponct
+66	,	,	PONCT	PONCT		64	ponct	64	ponct
+67	où	où	PROREL	PROREL		71	mod	71	mod
+68	il	il	CLS	CLS	n=s|g=m|p=3	71	suj	71	suj
+69	sera	être	V	V	n=s|t=F|p=3	71	aux_pass	71	aux_pass
+70	bien	bien	ADV	ADV		71	mod	71	mod
+71	absorbé	absorber	VPP	VPP	n=s|g=m|t=K	32	mod	32	mod
+72	.	.	PONCT	PONCT		71	ponct	71	ponct
+
+</p><p>
+1	Plus	plus	ADV	ADV		4	mod	4	mod
+2	le	le	DET	DET	n=s|g=m	3	det	3	det
+3	courant	courant	NC	NC	n=s|g=m	4	suj	4	suj
+4	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+5	fort	fort	ADJ	ADJ	n=s|g=m	4	ats	4	ats
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	plus	plus	ADV	ADV		9	mod	9	mod
+8	l'	le	DET	DET	n=s	9	det	9	det
+9	arc	arc	NC	NC	n=s|g=m	4	mod	4	mod
+10	électrique	électrique	ADJ	ADJ	n=s	9	mod	9	mod
+11	est	être	V	V	n=s|t=P|p=3	4	mod	4	mod
+12	puissant	puissant	ADJ	ADJ	n=s|g=m	11	ats	11	ats
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	et	et	CC	CC		11	coord	11	coord
+15	plus	plus	ADV	ADV		17	mod	17	mod
+16	l'	le	DET	DET	n=s	17	det	17	det
+17	électricité	électricité	NC	NC	n=s|g=f	14	dep_coord	14	dep_coord
+18	en	en	P	P		11	mod	11	mod
+19	sur	sur	P	P		18	prep	18	prep
+20	-	-	PONCT	PONCT		18	ponct	18	ponct
+21	tension	tension	NC	NC	n=s|g=f	18	prep	18	prep
+22	peut	pouvoir	V	V	n=s|t=P|p=3	4	mod	4	mod
+23	être	être	VINF	VINF	t=W	22	obj	22	obj
+24	destructrice	destructeur	ADJ	ADJ	n=s|g=f	23	ats	23	ats
+25	.	.	PONCT	PONCT		24	ponct	24	ponct
+
+1	Si	si	CS	CS		0	_	0	_
+2	la	la	DET	DET	n=s|g=f	3	det	3	det
+3	coupure	coupure	NC	NC	n=s|g=f	30	suj	30	suj
+4	du	de	P+D	P+D	n=s|g=m	3	dep	3	dep
+5	courant	courant	NC	NC	n=s|g=m	4	prep	4	prep
+6	(	(	PONCT	PONCT		5	ponct	5	ponct
+7	ce	ce	PRO	PRO	n=s	30	mod	30	mod
+8	qui	qui	PROREL	PROREL	n=s	9	suj	9	suj
+9	revient	revenir	V	V	n=s|t=P|p=3	7	mod_rel	7	mod_rel
+10	donc	donc	ADV	ADV		9	mod	9	mod
+11	à	à	P	P		9	mod	9	mod
+12	arrêter	arrêter	VINF	VINF	t=W	11	prep	11	prep
+13	l'	le	DET	DET	n=s	14	det	14	det
+14	arc	arc	NC	NC	n=s|g=m	12	obj	12	obj
+15	)	)	PONCT	PONCT		14	ponct	14	ponct
+16	n'	ne	ADV	ADV		19	mod	19	mod
+17	est	être	V	V	n=s|t=P|p=3	19	aux_tps	19	aux_tps
+18	pas	pas	ADV	ADV		19	mod	19	mod
+19	exécutée	exécuter	VPP	VPP	n=s|g=f|t=K	9	mod	9	mod
+20	dans	dans	P	P		19	mod	19	mod
+21	un	un	DET	DET	n=s|g=m	22	det	22	det
+22	temps	temps	NC	NC	g=m	20	prep	20	prep
+23	suffisamment	_	ADV	ADV		24	mod	24	mod
+24	court	court	ADJ	ADJ	n=s|g=m	22	mod	22	mod
+25	,	,	PONCT	PONCT		24	ponct	24	ponct
+26	le	le	DET	DET	n=s|g=m	27	det	27	det
+27	boîtier	boîtier	NC	NC	n=s|g=m	30	suj	30	suj
+28	du	de	P+D	P+D	n=s|g=m	27	dep	27	dep
+29	disjoncteur	disjoncteur	NC	NC	n=s|g=m	28	prep	28	prep
+30	risque	risquer	V	V	n=s|t=P,S|p=1,3	1	sub	1	sub
+31	de	de	P	P		30	mod	30	mod
+32	ne	ne	ADV	ADV		34	mod	34	mod
+33	plus	plus	ADV	ADV		34	mod	34	mod
+34	supporter	supporter	VINF	VINF	t=W	31	prep	31	prep
+35	la	la	DET	DET	n=s|g=f	36	det	36	det
+36	pression	pression	NC	NC	n=s|g=f	34	obj	34	obj
+37	des	de	P+D	P+D	n=p	36	dep	36	dep
+38	gaz	gaz	NC	NC	g=m	37	prep	37	prep
+39	échauffés	échauffer	VPP	VPP	n=p|g=m|t=K	38	mod	38	mod
+40	,	,	PONCT	PONCT		39	ponct	39	ponct
+41	et	et	CC	CC		34	coord	34	coord
+42	les	les	DET	DET	n=p	43	det	43	det
+43	contacts	contact	NC	NC	n=p|g=m	41	dep_coord	41	dep_coord
+44	électriques	électrique	ADJ	ADJ	n=p	43	mod	43	mod
+45	risquent	risquer	V	V	n=p|t=P,S|p=3	30	mod	30	mod
+46	d'	de	P	P		45	obj	45	obj
+47	entrer	entrer	VINF	VINF	t=W	46	prep	46	prep
+48	en	en	P	P		47	mod	47	mod
+49	fusion	fusion	NC	NC	n=s|g=f	48	prep	48	prep
+50	,	,	PONCT	PONCT		49	ponct	49	ponct
+51	ce	ce	PRO	PRO	n=s	45	mod	45	mod
+52	qui	qui	PROREL	PROREL	n=s	53	suj	53	suj
+53	peut	pouvoir	V	V	n=s|t=P|p=3	51	mod_rel	51	mod_rel
+54	empêcher	empêcher	VINF	VINF	t=W	53	obj	53	obj
+55	la	la	DET	DET	n=s|g=f	56	det	56	det
+56	possibilité	possibilité	NC	NC	n=s|g=f	54	obj	54	obj
+57	de	de	P	P		54	mod	54	mod
+58	réarmer	réarmer	VINF	VINF	t=W	57	prep	57	prep
+59	l'	le	DET	DET	n=s	60	det	60	det
+60	appareil	appareil	NC	NC	n=s|g=m	58	obj	58	obj
+61	.	.	PONCT	PONCT		60	ponct	60	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	disjoncteur	disjoncteur	NC	NC	n=s|g=m	4	suj	4	suj
+3	ne	ne	ADV	ADV		4	mod	4	mod
+4	pourra	pouvoir	V	V	n=s|t=F|p=3	0	root	0	root
+5	donc	donc	ADV	ADV		4	mod	4	mod
+6	plus	plus	ADV	ADV		4	mod	4	mod
+7	assurer	assurer	VINF	VINF	t=W	4	obj	4	obj
+8	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	9	det	9	det
+9	fonction	fonction	NC	NC	n=s|g=f	7	obj	7	obj
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+</p><p>
+1	Un	un	DET	DET	n=s|g=m	2	det	2	det
+2	disjoncteur	disjoncteur	NC	NC	n=s|g=m	3	suj	3	suj
+3	doit	devoir	V	V	n=s|t=P|p=3	0	root	0	root
+4	donc	donc	ADV	ADV		3	mod	3	mod
+5	être	être	VINF	VINF	t=W	3	obj	3	obj
+6	capable	capable	ADJ	ADJ	n=s	5	ats	5	ats
+7	de	de	P	P		5	mod	5	mod
+8	supporter	supporter	VINF	VINF	t=W	7	prep	7	prep
+9	la	la	DET	DET	n=s|g=f	10	det	10	det
+10	force	force	NC	NC	n=s|g=f	8	obj	8	obj
+11	qu'	que	CS	CS		8	mod	8	mod
+12	un	un	DET	DET	n=s|g=m	13	det	13	det
+13	courant	courant	NC	NC	n=s|g=m	17	suj	17	suj
+14	en	en	P	P		13	dep	13	dep
+15	court-circuit	_	NC	NC		14	prep	14	prep
+16	qui	qui	PROREL	PROREL	n=s	17	suj	17	suj
+17	pourrait	pouvoir	V	V	n=s|t=C|p=3	11	sub	11	sub
+18	survenir	survenir	VINF	VINF	t=W	17	obj	17	obj
+19	dans	dans	P	P		18	mod	18	mod
+20	le	le	DET	DET	n=s|g=m	21	det	21	det
+21	circuit	circuit	NC	NC	n=s|g=m	19	prep	19	prep
+22	protégé	protéger	VPP	VPP	n=s|g=m|t=K	21	mod	21	mod
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	force	force	NC	NC	n=s|g=f	6	suj	6	suj
+3	de	de	P	P		2	dep	2	dep
+4	ce	ce	DET	DET	n=s|g=m	5	det	5	det
+5	courant	courant	NC	NC	n=s|g=m	3	prep	3	prep
+6	dépend	dépendre	V	V	n=s|t=P|p=3	0	root	0	root
+7	de	de	P	P		6	mod	6	mod
+8	plusieurs	plusieurs	DET	DET	n=p	9	det	9	det
+9	facteurs	facteur	NC	NC	n=p|g=m	7	prep	7	prep
+10	:	:	PONCT	PONCT		9	ponct	9	ponct
+
+</p><p>
+1	la	la	DET	DET	n=s|g=f	2	det	2	det
+2	capacité	capacité	NC	NC	n=s|g=f	0	_	0	_
+3	du	de	P+D	P+D	n=s|g=m	2	dep	2	dep
+4	circuit	circuit	NC	NC	n=s|g=m	3	prep	3	prep
+5	d'	de	P	P		2	dep	2	dep
+6	arrivée	arrivée	NC	NC	n=s|g=f	5	prep	5	prep
+7	de	de	P	P		2	dep	2	dep
+8	l'	le	DET	DET	n=s	9	det	9	det
+9	électricité	électricité	NC	NC	n=s|g=f	7	prep	7	prep
+10	à	à	P	P		2	dep	2	dep
+11	fournir	fournir	VINF	VINF	t=W	10	prep	10	prep
+12	un	un	DET	DET	n=s|g=m	13	det	13	det
+13	courant	courant	NC	NC	n=s|g=m	11	obj	11	obj
+14	d’	de	P	P		11	mod	11	mod
+15	une	une	DET	DET	n=s|g=f	17	det	17	det
+16	certaine	certain	ADJ	ADJ	n=s|g=f	17	mod	17	mod
+17	force	force	NC	NC	n=s|g=f	14	prep	14	prep
+18	pendant	pendant	P	P		11	mod	11	mod
+19	une	une	DET	DET	n=s|g=f	21	det	21	det
+20	certaine	certain	ADJ	ADJ	n=s|g=f	21	mod	21	mod
+21	durée	durée	NC	NC	n=s|g=f	18	prep	18	prep
+22	;	;	PONCT	PONCT		21	ponct	21	ponct
+
+</p><p>
+1	la	la	DET	DET	n=s|g=f	2	det	2	det
+2	possibilité	possibilité	NC	NC	n=s|g=f	0	_	0	_
+3	pour	pour	P	P		2	dep	2	dep
+4	le	le	DET	DET	n=s|g=m	5	det	5	det
+5	circuit	circuit	NC	NC	n=s|g=m	3	prep	3	prep
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	à	à	P	P		0	_	0	_
+8	laisser	laisser	VINF	VINF	t=W	9	aux_caus	9	aux_caus
+9	passer	passer	VINF	VINF	t=W	7	prep	7	prep
+10	un	un	DET	DET	n=s|g=m	11	det	11	det
+11	courant	courant	NC	NC	n=s|g=m	9	obj	9	obj
+12	plus	plus	ADV	ADV		9	mod	9	mod
+13	ou	ou	CC	CC		9	coord	9	coord
+14	moins	moins	ADV	ADV		13	mod	13	mod
+15	important	important	ADJ	ADJ	n=s|g=m	13	dep_coord	13	dep_coord
+16	;	;	PONCT	PONCT		15	ponct	15	ponct
+
+</p><p>
+1	Dans	dans	P	P		8	mod	8	mod
+2	le	le	DET	DET	n=s|g=m	3	det	3	det
+3	cas	cas	NC	NC	g=m	1	prep	1	prep
+4	contraire	contraire	ADJ	ADJ	n=s	3	mod	3	mod
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	le	le	DET	DET	n=s|g=m	7	det	7	det
+7	disjoncteur	disjoncteur	NC	NC	n=s|g=m	8	suj	8	suj
+8	devra	devoir	V	V	n=s|t=F|p=3	0	root	0	root
+9	être	être	VINF	VINF	t=W	10	aux_pass	10	aux_pass
+10	protégé	protéger	VPP	VPP	n=s|g=m|t=K	8	obj	8	obj
+11	par	par	P	P		10	mod	10	mod
+12	un	un	DET	DET	n=s|g=m	13	det	13	det
+13	fusible	fusible	ADJ	ADJ	n=s	11	prep	11	prep
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	soit	soit	CC	CC		8	coord	8	coord
+16	par	par	P	P		15	dep_coord	15	dep_coord
+17	un	un	DET	DET	n=s|g=m	19	det	19	det
+18	autre	autre	ADJ	ADJ	n=s	19	mod	19	mod
+19	disjoncteur	disjoncteur	NC	NC	n=s|g=m	16	prep	16	prep
+20	ayant	avoir	VPR	VPR	t=G	19	mod	19	mod
+21	un	un	DET	DET	n=s|g=m	22	det	22	det
+22	pouvoir	pouvoir	NC	NC	n=s|g=m	20	obj	20	obj
+23	de	de	P	P		22	dep	22	dep
+24	coupure	coupure	NC	NC	n=s|g=f	23	prep	23	prep
+25	suffisant	suffisant	ADJ	ADJ	n=s|g=m	22	mod	22	mod
+26	.	.	PONCT	PONCT		25	ponct	25	ponct
+
+</p>
+1	cette	cette	DET	DET	n=s|g=f	2	det	2	det
+2	page	page	NC	NC	n=s	6	suj	6	suj
+3	a	avoir	V	V	n=s|t=P|p=3	6	aux_tps	6	aux_tps
+4	été	être	VPP	VPP	t=K	6	aux_pass	6	aux_pass
+5	partiellement	_	ADV	ADV		6	mod	6	mod
+6	adaptée	adapter	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+7	de	de	P	P		6	mod	6	mod
+8	la	la	DET	DET	n=s|g=f	9	det	9	det
+9	page	page	NC	NC	n=s	7	prep	7	prep
+10	Disjoncteur	_	NPP	NPP		9	mod	9	mod
+11	de	de	P	P		6	mod	6	mod
+12	Wikipédia	Wikipedia	NPP	NPP	n=s|g=f	11	prep	11	prep
+13	.	.	PONCT	PONCT		12	ponct	12	ponct
+

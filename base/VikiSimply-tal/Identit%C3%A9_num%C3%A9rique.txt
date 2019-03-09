@@ -1,0 +1,2633 @@
+<p>
+1	L’	le	DET	DET	n=s	2	det	2	det
+2	identité	identité	NC	NC	n=s|g=f	5	suj	5	suj
+3	numérique	numérique	ADJ	ADJ	n=s	2	mod	2	mod
+4	c'	ce	CLS	CLS		5	suj	5	suj
+5	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+6	l'	le	DET	DET	n=s	7	det	7	det
+7	ensemble	ensemble	NC	NC	n=s|g=m	5	obj	5	obj
+8	des	de	P+D	P+D	n=p	7	dep	7	dep
+9	informations	information	NC	NC	n=p|g=f	8	prep	8	prep
+10	que	que	PROREL	PROREL		13	obj	13	obj
+11	l'	le	DET	DET	n=s	12	det	12	det
+12	on	on	CLS	CLS	n=s|p=3	13	suj	13	suj
+13	trouve	trouver	V	V	n=s|t=P,S|p=1,3	7	mod_rel	7	mod_rel
+14	sur	sur	P	P		13	mod	13	mod
+15	vous	vous	PRO	PRO	n=p|g=f,m|p=2	14	prep	14	prep
+16	sur	sur	P	P		13	mod	13	mod
+17	internet	internet	NC	NC	n=s|g=m	16	prep	16	prep
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	On	on	CLS	CLS	n=s|p=3	2	suj	2	suj
+2	dit	dire	V	V	n=s|t=J,P|p=3	0	root	0	root
+3	aussi	aussi	ADV	ADV		2	mod	2	mod
+4	que	que	CS	CS		2	obj	2	obj
+5	c'	ce	CLS	CLS		6	suj	6	suj
+6	est	être	V	V	n=s|t=P|p=3	4	sub	4	sub
+7	l'	le	DET	DET	n=s	8	det	8	det
+8	image	image	NC	NC	n=s|g=f	6	obj	6	obj
+9	numérique	numérique	ADJ	ADJ	n=s	8	mod	8	mod
+10	d'	de	P	P		6	mod	6	mod
+11	une	une	DET	DET	n=s|g=f	12	det	12	det
+12	personne	personne	NC	NC	n=s|g=f	10	prep	10	prep
+13	sur	sur	P	P		6	mod	6	mod
+14	Internet	_	NPP	NPP		13	prep	13	prep
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	identité	identité	NC	NC	n=s|g=f	5	suj	5	suj
+3	numérique	numérique	ADJ	ADJ	n=s	2	mod	2	mod
+4	se	se	CLR	CLR	n=p,s|p=3	5	aff	5	aff
+5	compose	composer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+6	de	de	P	P		5	mod	5	mod
+7	traces	trace	NC	NC	n=p|g=f	6	prep	6	prep
+8	volontaires	volontaire	ADJ	ADJ	n=p	7	mod	7	mod
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	involontaires	involontaire	ADJ	ADJ	n=p	7	mod	7	mod
+11	(	(	PONCT	PONCT		10	ponct	10	ponct
+12	aussi	aussi	ADV	ADV		13	mod	13	mod
+13	appelées	appeler	VPP	VPP	n=p|g=f|t=K	5	mod	5	mod
+14	traces	trace	NC	NC	n=p|g=f	13	mod	13	mod
+15	informatiques	informatique	ADJ	ADJ	n=p	14	mod	14	mod
+16	)	)	PONCT	PONCT		15	ponct	15	ponct
+17	et	et	CC	CC		13	coord	13	coord
+18	héritées	hériter	VPP	VPP	n=p|g=f|t=K	17	dep_coord	17	dep_coord
+19	que	que	CS	CS		18	mod	18	mod
+20	nous	nous	CLS	CLS	n=p|p=1	21	suj	21	suj
+21	laissons	laisser	V	V	n=p|t=P|p=1	19	sub	19	sub
+22	sur	sur	P	P		21	mod	21	mod
+23	Internet	_	NPP	NPP		22	prep	22	prep
+24	après	après	P	P		21	mod	21	mod
+25	chaque	chaque	DET	DET	n=s	26	det	26	det
+26	connexion	connexion	NC	NC	n=s|g=f	24	prep	24	prep
+27	.	.	PONCT	PONCT		26	ponct	26	ponct
+
+</p><p>
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	existe	exister	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+3	trois	trois	DET	DET	s=card|n=p	4	det	4	det
+4	types	type	NC	NC	n=p|g=m	2	obj	2	obj
+5	de	de	P	P		4	dep	4	dep
+6	traces	trace	NC	NC	n=p|g=f	5	prep	5	prep
+7	:	:	PONCT	PONCT		6	ponct	6	ponct
+
+</p><p>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	traces	trace	NC	NC	n=p|g=f	4	suj	4	suj
+3	volontaires	volontaire	ADJ	ADJ	n=p	2	mod	2	mod
+4	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+5	toutes	tout	ADJ	ADJ	n=p|g=f	7	mod	7	mod
+6	les	les	DET	DET	n=p	7	det	7	det
+7	données	donnée	NC	NC	n=p|g=f	4	obj	4	obj
+8	publiées	publier	VPP	VPP	n=p|g=f|t=K	7	mod	7	mod
+9	par	par	P	P		8	mod	8	mod
+10	l'	le	DET	DET	n=s	11	det	11	det
+11	internaute	internaute	NC	NC	n=s	9	prep	9	prep
+12	sur	sur	P	P		8	mod	8	mod
+13	les	les	DET	DET	n=p	14	det	14	det
+14	réseaux	réseau	NC	NC	n=p|g=m	12	prep	12	prep
+15	sociaux	social	ADJ	ADJ	n=p|g=m	14	mod	14	mod
+16	par	par	P	P		8	mod	8	mod
+17	exemple	exemple	NC	NC	n=s|g=m	16	prep	16	prep
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+</p><p>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	traces	trace	NC	NC	n=p|g=f	10	suj	10	suj
+3	involontaires	involontaire	ADJ	ADJ	n=p	2	mod	2	mod
+4	(	(	PONCT	PONCT		3	ponct	3	ponct
+5	aussi	aussi	ADV	ADV		6	mod	6	mod
+6	appelées	appeler	VPP	VPP	n=p|g=f|t=K	2	mod	2	mod
+7	traces	trace	NC	NC	n=p|g=f	6	mod	6	mod
+8	informatiques	informatique	ADJ	ADJ	n=p	7	mod	7	mod
+9	)	)	PONCT	PONCT		8	ponct	8	ponct
+10	correspondent	correspondre	V	V	n=p|t=P,S|p=3	0	root	0	root
+11	à	à	P	P		10	mod	10	mod
+12	l'	le	DET	DET	n=s	13	det	13	det
+13	adresse	adresse	NC	NC	n=s|g=f	11	prep	11	prep
+14	IP	_	NPP	NPP		13	mod	13	mod
+15	et	et	CC	CC		10	coord	10	coord
+16	renseignent	renseigner	V	V	n=p|t=P,S|p=3	15	dep_coord	15	dep_coord
+17	parfois	parfois	ADV	ADV		16	mod	16	mod
+18	sur	sur	P	P		16	mod	16	mod
+19	le	le	DET	DET	n=s|g=m	20	det	20	det
+20	lieu	lieu	NC	NC	n=s|g=m	18	prep	18	prep
+21	où	où	PROREL	PROREL		23	suj	23	suj
+22	se	se	CLR	CLR	n=p,s|p=3	23	aff	23	aff
+23	trouve	trouver	V	V	n=s|t=P,S|p=1,3	20	mod_rel	20	mod_rel
+24	l'	le	DET	DET	n=s	25	det	25	det
+25	internaute	internaute	NC	NC	n=s	23	suj	23	suj
+26	ainsi	ainsi	ADV	ADV		23	mod	23	mod
+27	que	que	CS	CS		23	mod	23	mod
+28	les	les	DET	DET	n=p	29	det	29	det
+29	sites	site	NC	NC	n=p|g=m	0	_	0	_
+30	consultés	consulter	VPP	VPP	n=p|g=m|t=K	29	mod	29	mod
+31	.	.	PONCT	PONCT		30	ponct	30	ponct
+
+</p><p>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	traces	trace	NC	NC	n=p|g=f	4	suj	4	suj
+3	héritées	hériter	VPP	VPP	n=p|g=f|t=K	2	mod	2	mod
+4	correspondent	correspondre	V	V	n=p|t=P,S|p=3	0	root	0	root
+5	à	à	P	P		4	mod	4	mod
+6	tout	tout	ADJ	ADJ	n=s|g=m	7	mod	7	mod
+7	ce	ce	PRO	PRO	n=s	5	prep	5	prep
+8	que	que	PROREL	PROREL		11	mod	11	mod
+9	les	les	DET	DET	n=p	10	det	10	det
+10	autres	autre	ADJ	ADJ	n=p	11	suj	11	suj
+11	disent	dire	V	V	n=p|t=P,S|p=3	7	mod_rel	7	mod_rel
+12	sur	sur	P	P		11	mod	11	mod
+13	l'	le	DET	DET	n=s	14	det	14	det
+14	internaute	internaute	NC	NC	n=s	12	prep	12	prep
+15	en	en	P	P		11	mod	11	mod
+16	commentant	commenter	VPR	VPR	t=G	15	prep	15	prep
+17	ses	ses	DET	DET	n=p|p=3|poss=s	18	det	18	det
+18	publications	publication	NC	NC	n=p|g=f	16	obj	16	obj
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+</p><h2>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	traces	trace	NC	NC	n=p|g=f	0	_	0	_
+3	volontaires	volontaire	ADJ	ADJ	n=p	2	mod	2	mod
+
+</h2><p>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	traces	trace	NC	NC	n=p|g=f	4	suj	4	suj
+3	volontaires	volontaire	ADJ	ADJ	n=p	2	mod	2	mod
+4	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+5	des	des	DET	DET	n=p	6	det	6	det
+6	informations	information	NC	NC	n=p|g=f	4	obj	4	obj
+7	sur	sur	P	P		4	mod	4	mod
+8	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	9	det	9	det
+9	vie	vie	NC	NC	n=s|g=f	7	prep	7	prep
+10	privée	priver	ADJ	ADJ	n=s|g=f|t=K	9	mod	9	mod
+11	publiées	publier	VPP	VPP	n=p|g=f|t=K	9	mod	9	mod
+12	volontairement	_	ADV	ADV		11	mod	11	mod
+13	par	par	P	P		11	mod	11	mod
+14	l’	le	DET	DET	n=s	15	det	15	det
+15	internaute	internaute	NC	NC	n=s	13	prep	13	prep
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+1	Cela	cela	PRO	PRO	n=s|g=m	2	suj	2	suj
+2	peut	pouvoir	V	V	n=s|t=P|p=3	0	root	0	root
+3	correspondre	correspondre	VINF	VINF	t=W	2	obj	2	obj
+4	au	à	P+D	P+D	n=s|g=m	3	mod	3	mod
+5	profil	profil	NC	NC	n=s|g=m	4	prep	4	prep
+6	rempli	remplir	VPP	VPP	n=s|g=m|t=K	5	mod	5	mod
+7	sur	sur	P	P		6	mod	6	mod
+8	les	les	DET	DET	n=p	9	det	9	det
+9	réseaux	réseau	NC	NC	n=p|g=m	7	prep	7	prep
+10	sociaux	social	ADJ	ADJ	n=p|g=m	9	mod	9	mod
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	les	les	DET	DET	n=p	13	det	13	det
+13	messages	message	NC	NC	n=p|g=m	3	obj	3	obj
+14	et	et	CC	CC		13	coord	13	coord
+15	photos	photo	NC	NC	n=p|g=f	14	dep_coord	14	dep_coord
+16	publiés	publier	VPP	VPP	n=p|g=m|t=K	13	mod	13	mod
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+1	Mais	mais	CC	CC		0	root	0	root
+2	aussi	aussi	ADV	ADV		4	mod	4	mod
+3	les	les	DET	DET	n=p	4	det	4	det
+4	CV	_	NPP	NPP		1	dep_coord	1	dep_coord
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	l'	le	DET	DET	n=s	7	det	7	det
+7	itinéraire	itinéraire	NC	NC	n=s|g=m	0	_	0	_
+8	de	de	P	P		7	dep	7	dep
+9	covoiturage	_	NC	NC		8	prep	8	prep
+10	laissé	laisser	VPP	VPP	n=s|g=m|t=K	7	mod	7	mod
+11	sur	sur	P	P		10	mod	10	mod
+12	un	un	DET	DET	n=s|g=m	13	det	13	det
+13	site	site	NC	NC	n=s|g=m	11	prep	11	prep
+14	spécialisé	spécialiser	ADJ	ADJ	n=s|g=m|t=K	13	mod	13	mod
+15	...	...	PONCT	PONCT		14	ponct	14	ponct
+
+</p><p>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	responsabilité	responsabilité	NC	NC	n=s|g=f	0	_	0	_
+3	de	de	P	P		2	dep	2	dep
+4	l'	le	DET	DET	n=s	5	det	5	det
+5	internaute	internaute	NC	NC	n=s	3	prep	3	prep
+6	:	:	PONCT	PONCT		5	ponct	5	ponct
+
+</p>
+1	Ces	ces	DET	DET	n=p	2	det	2	det
+2	traces	trace	NC	NC	n=p|g=f	3	suj	3	suj
+3	seront	être	V	V	n=p|t=F|p=3	0	root	0	root
+4	toujours	toujours	ADV	ADV		3	mod	3	mod
+5	publiques	public	ADJ	ADJ	n=p|g=f	3	ats	3	ats
+6	:	:	PONCT	PONCT		5	ponct	5	ponct
+7	tout	tout	ADJ	ADJ	n=s|g=m	3	mod	3	mod
+8	ce	ce	PRO	PRO	n=s	3	mod	3	mod
+9	qui	qui	PROREL	PROREL	n=s	11	suj	11	suj
+10	est	être	V	V	n=s|t=P|p=3	11	aux_tps	11	aux_tps
+11	publié	publier	VPP	VPP	n=s|g=m|t=K	8	mod_rel	8	mod_rel
+12	reste	rester	V	V	n=s|t=P,S|p=1,3	0	_	0	_
+13	stocké	stocker	VPP	VPP	n=s|g=m|t=K	12	ats	12	ats
+14	sur	sur	P	P		13	mod	13	mod
+15	des	des	DET	DET	n=p	16	det	16	det
+16	serveurs	serveur	NC	NC	n=p|g=m	14	prep	14	prep
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	rien	rien	PRO	PRO	n=s|g=m	13	mod	13	mod
+19	n'	ne	ADV	ADV		18	mod	18	mod
+20	est	être	V	V	n=s|t=P|p=3	18	mod_rel	18	mod_rel
+21	totalement	_	ADV	ADV		20	mod	20	mod
+22	effaçable	effaçable	ADJ	ADJ	n=s	20	ats	20	ats
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+1	Elles	elles	CLS	CLS	n=p|g=f|p=3	2	suj	2	suj
+2	constituent	constituer	V	V	n=p|t=P,S|p=3	0	root	0	root
+3	l'	le	DET	DET	n=s	4	det	4	det
+4	identité	identité	NC	NC	n=s|g=f	2	obj	2	obj
+5	numérique	numérique	ADJ	ADJ	n=s	4	mod	4	mod
+6	d'	de	P	P		2	mod	2	mod
+7	une	une	DET	DET	n=s|g=f	8	det	8	det
+8	personne	personne	NC	NC	n=s|g=f	6	prep	6	prep
+9	:	:	PONCT	PONCT		8	ponct	8	ponct
+10	leur	leur	DET	DET	n=s|p=3|poss=p	11	det	11	det
+11	addition	addition	NC	NC	n=s|g=f	12	suj	12	suj
+12	peut	pouvoir	V	V	n=s|t=P|p=3	2	mod	2	mod
+13	permettre	permettre	VINF	VINF	t=W	12	obj	12	obj
+14	de	de	P	P		13	mod	13	mod
+15	retrouver	retrouver	VINF	VINF	t=W	14	prep	14	prep
+16	toutes	tout	ADJ	ADJ	n=p|g=f	18	mod	18	mod
+17	les	les	DET	DET	n=p	18	det	18	det
+18	facettes	facette	NC	NC	n=p|g=f	15	obj	15	obj
+19	de	de	P	P		18	dep	18	dep
+20	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	21	det	21	det
+21	personnalité	personnalité	NC	NC	n=s|g=f	19	prep	19	prep
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+23	de	de	P	P		15	mod	15	mod
+24	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	25	det	25	det
+25	vie	vie	NC	NC	n=s|g=f	23	prep	23	prep
+26	sociale	social	ADJ	ADJ	n=s|g=f	25	mod	25	mod
+27	ou	ou	CC	CC		26	coord	26	coord
+28	professionnelle	professionnel	ADJ	ADJ	n=s|g=f	27	dep_coord	27	dep_coord
+29	.	.	PONCT	PONCT		28	ponct	28	ponct
+
+<blockquote> Donc. Réfléchissez avant de publier un commentaire, une publication, etc !</blockquote><p>
+1	Comment	comment	ADVWH	ADVWH		2	mod	2	mod
+2	limiter	limiter	VINF	VINF	t=W	0	root	0	root
+3	ses	ses	DET	DET	n=p|p=3|poss=s	4	det	4	det
+4	traces	trace	NC	NC	n=p|g=f	2	obj	2	obj
+5	sur	sur	P	P		2	mod	2	mod
+6	Internet	_	NPP	NPP		5	prep	5	prep
+7	?	?	PONCT	PONCT		6	ponct	6	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	faut	falloir	V	V	n=s|t=P|p=3	0	root	0	root
+3	réfléchir	réfléchir	VINF	VINF	t=W	2	obj	2	obj
+4	en	en	P	P		3	mod	3	mod
+5	amont	amont	NC	NC	n=s|g=m	4	prep	4	prep
+6	aux	à	P+D	P+D	n=p	3	mod	3	mod
+7	informations	information	NC	NC	n=p|g=f	6	prep	6	prep
+8	que	que	CS	CS		2	mod	2	mod
+9	tu	_	NC	NC		10	suj	10	suj
+10	souhaites	souhaiter	V	V	n=s|t=P,S|p=2	8	sub	8	sub
+11	partager	partager	VINF	VINF	t=W	10	obj	10	obj
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+1	Tu	tu	CLS	CLS	n=s|p=2	2	suj	2	suj
+2	peux	pouvoir	V	V	n=s|t=P|p=1,2	0	root	0	root
+3	utiliser	utiliser	VINF	VINF	t=W	2	obj	2	obj
+4	un	un	DET	DET	n=s|g=m	5	det	5	det
+5	pseudonyme	pseudonyme	NC	NC	n=s|g=m	3	obj	3	obj
+6	pour	pour	P	P		3	mod	3	mod
+7	protéger	protéger	VINF	VINF	t=W	6	prep	6	prep
+8	ta	ta	DET	DET	n=s|g=f|p=2|poss=s	10	det	10	det
+9	véritable	véritable	ADJ	ADJ	n=s	10	mod	10	mod
+10	identité	identité	NC	NC	n=s|g=f	7	obj	7	obj
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+</p><h2>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	traces	trace	NC	NC	n=p|g=f	0	_	0	_
+3	involontaires	involontaire	ADJ	ADJ	n=p	2	mod	2	mod
+4	ou	ou	CC	CC		3	coord	3	coord
+5	informatiques	informatique	ADJ	ADJ	n=p	4	dep_coord	4	dep_coord
+
+</h2><p>
+1	Comment	comment	ADVWH	ADVWH		2	mod	2	mod
+2	apparaissent	apparaître	V	V	n=p|t=P,S|p=3	0	root	0	root
+3	-elles	elles	PRO	PRO	n=p|g=f|p=3	2	suj	2	suj
+4	sur	sur	P	P		2	mod	2	mod
+5	la	la	DET	DET	n=s|g=f	6	det	6	det
+6	toile	toile	NC	NC	n=s|g=f	4	prep	4	prep
+7	?	?	PONCT	PONCT		6	ponct	6	ponct
+
+1	À	à	P	P		13	mod	13	mod
+2	partir	partir	VINF	VINF	t=W	1	prep	1	prep
+3	du	de	P+D	P+D	n=s|g=m	2	mod	2	mod
+4	moment	moment	NC	NC	n=s|g=m	3	prep	3	prep
+5	où	où	PROREL	PROREL		8	mod	8	mod
+6	nous	nous	CLS	CLS	n=p|p=1	8	suj	8	suj
+7	nous	nous	CLO	CLO	n=p|p=1	8	aff	8	aff
+8	connectons	connecter	V	V	n=p|t=P|p=1	4	mod_rel	4	mod_rel
+9	à	à	P	P		8	mod	8	mod
+10	Internet	_	NPP	NPP		9	prep	9	prep
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	nous	nous	CLS	CLS	n=p|p=1	13	suj	13	suj
+13	laissons	laisser	V	V	n=p|t=P|p=1	0	root	0	root
+14	systématiquement	_	ADV	ADV		13	mod	13	mod
+15	des	des	DET	DET	n=p	16	det	16	det
+16	traces	trace	NC	NC	n=p|g=f	13	obj	13	obj
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+1	L’	le	DET	DET	n=s	2	det	2	det
+2	adresse	adresse	NC	NC	n=s|g=f	4	suj	4	suj
+3	IP	_	NPP	NPP		2	mod	2	mod
+4	permet	permettre	V	V	n=s|t=P|p=3	0	root	0	root
+5	à	à	P	P		4	mod	4	mod
+6	notre	notre	DET	DET	n=s|p=1|poss=p	7	det	7	det
+7	ordinateur	ordinateur	NC	NC	n=s|g=m	5	prep	5	prep
+8	d’	de	P	P		4	mod	4	mod
+9	être	être	VINF	VINF	t=W	10	aux_tps	10	aux_tps
+10	identifié	identifier	VPP	VPP	n=s|g=m|t=K	8	prep	8	prep
+11	sur	sur	P	P		10	mod	10	mod
+12	le	le	DET	DET	n=s|g=m	13	det	13	det
+13	réseau	réseau	NC	NC	n=s|g=m	11	prep	11	prep
+14	Internet	_	NPP	NPP		13	mod	13	mod
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	2	suj	2	suj
+2	permet	permettre	V	V	n=s|t=P|p=3	0	root	0	root
+3	aussi	aussi	ADV	ADV		2	mod	2	mod
+4	de	de	P	P		2	obj	2	obj
+5	collecter	collecter	VINF	VINF	t=W	4	prep	4	prep
+6	des	des	DET	DET	n=p	7	det	7	det
+7	informations	information	NC	NC	n=p|g=f	5	obj	5	obj
+8	comme	comme	P	P		5	mod	5	mod
+9	:	:	PONCT	PONCT		8	ponct	8	ponct
+
+</p><p>
+1	l’	le	DET	DET	n=s	2	det	2	det
+2	heure	heure	NC	NC	n=s|g=f	0	_	0	_
+3	de	de	P	P		2	dep	2	dep
+4	votre	votre	DET	DET	n=s|p=2|poss=p	5	det	5	det
+5	connexion	connexion	NC	NC	n=s|g=f	3	prep	3	prep
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+
+</p><p>
+1	les	les	DET	DET	n=p	2	det	2	det
+2	sites	site	NC	NC	n=p|g=m	0	_	0	_
+3	que	que	PROREL	PROREL		6	mod	6	mod
+4	vous	vous	CLS	CLS	n=p|p=2	6	suj	6	suj
+5	avez	avoir	V	V	n=p|t=P|p=2	6	aux_tps	6	aux_tps
+6	visités	visiter	VPP	VPP	n=p|g=m|t=K	2	mod_rel	2	mod_rel
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	le	le	DET	DET	n=s|g=m	9	det	9	det
+9	temps	temps	NC	NC	g=m	0	_	0	_
+10	que	que	PROREL	PROREL		12	obj	12	obj
+11	vous	vous	CLS	CLS	n=p|p=2	12	suj	12	suj
+12	passé	passer	VPP	VPP	n=s|g=m|t=K	9	mod_rel	9	mod_rel
+13	dessus	dessus	ADV	ADV		12	mod	12	mod
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	les	les	DET	DET	n=p	16	det	16	det
+16	pages	page	NC	NC	n=p	12	mod	12	mod
+17	consultées	consulter	VPP	VPP	n=p|g=f|t=K	16	mod	16	mod
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	les	les	DET	DET	n=p	20	det	20	det
+20	documents	document	NC	NC	n=p|g=m	0	_	0	_
+21	téléchargés	télécharger	VPP	VPP	n=p|g=m|t=K	20	mod	20	mod
+22	,	,	PONCT	PONCT		21	ponct	21	ponct
+
+</p><p>
+1	les	les	DET	DET	n=p	2	det	2	det
+2	mots-clés	mot-clé	NC	NC	n=p|g=m	0	_	0	_
+3	de	de	P	P		2	dep	2	dep
+4	vos	vos	DET	DET	n=p|p=2|poss=p	5	det	5	det
+5	recherches	recherche	NC	NC	n=p|g=f	3	prep	3	prep
+6	.	.	PONCT	PONCT		5	ponct	5	ponct
+
+</p><p>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	cookies	cookie	NC	NC	n=p|g=m	0	_	0	_
+
+1	Des	des	DET	DET	n=p	2	det	2	det
+2	logiciels	logiciel	NC	NC	n=p|g=m	11	suj	11	suj
+3	"	"	PONCT	PONCT		2	ponct	2	ponct
+4	espions	espion	NC	NC	n=p|g=f	2	mod	2	mod
+5	"	"	PONCT	PONCT		4	ponct	4	ponct
+6	appelés	appeler	VPP	VPP	n=p|g=m|t=K	2	mod	2	mod
+7	«_	"	PONCT	PONCT		6	ponct	6	ponct
+8	cookies	cookie	NC	NC	n=p|g=m	6	mod	6	mod
+9	_»	"	PONCT	PONCT		8	ponct	8	ponct
+10	s’	se	CLR	CLR	n=p,s|p=3	11	aff	11	aff
+11	installent	installer	V	V	n=p|t=P,S|p=3	0	root	0	root
+12	sur	sur	P	P		11	mod	11	mod
+13	votre	votre	DET	DET	n=s|p=2|poss=p	14	det	14	det
+14	ordinateur	ordinateur	NC	NC	n=s|g=m	12	prep	12	prep
+15	et	et	CC	CC		11	coord	11	coord
+16	enregistrent	enregistrer	V	V	n=p|t=P,S|p=3	15	dep_coord	15	dep_coord
+17	toutes	tout	ADJ	ADJ	n=p|g=f	19	mod	19	mod
+18	vos	vos	DET	DET	n=p|p=2|poss=p	19	det	19	det
+19	recherches	recherche	NC	NC	n=p|g=f	16	obj	16	obj
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+1	Par	par	P	P		6	mod	6	mod
+2	la	la	DET	DET	n=s|g=f	3	det	3	det
+3	suite	suite	NC	NC	n=s|g=f	1	prep	1	prep
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	ils	ils	CLS	CLS	n=p|g=m|p=3	6	suj	6	suj
+6	peuvent	pouvoir	V	V	n=p|t=P|p=3	0	root	0	root
+7	dresser	dresser	VINF	VINF	t=W	6	obj	6	obj
+8	un	un	DET	DET	n=s|g=m	9	det	9	det
+9	profil	profil	NC	NC	n=s|g=m	7	obj	7	obj
+10	de	de	P	P		7	mod	7	mod
+11	l’	le	DET	DET	n=s	12	det	12	det
+12	internaute	internaute	NC	NC	n=s	10	prep	10	prep
+13	:	:	PONCT	PONCT		12	ponct	12	ponct
+14	ses	ses	DET	DET	n=p|p=3|poss=s	15	det	15	det
+15	goûts	goût	NC	NC	n=p|g=m	7	obj	7	obj
+16	musicaux	musical	ADJ	ADJ	n=p|g=m	15	mod	15	mod
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	ses	ses	DET	DET	n=p|p=3|poss=s	19	det	19	det
+19	destinations	destination	NC	NC	n=p|g=f	15	mod	15	mod
+20	touristiques	touristique	ADJ	ADJ	n=p	19	mod	19	mod
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	sa	sa	DET	DET	n=s|g=f|p=3|poss=s	23	det	23	det
+23	profession	profession	NC	NC	n=s|g=f	7	mod	7	mod
+24	…	…	PONCT	PONCT		23	ponct	23	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	cookies	cookie	NC	NC	n=p|g=m	3	suj	3	suj
+3	peuvent	pouvoir	V	V	n=p|t=P|p=3	0	root	0	root
+4	aussi	aussi	ADV	ADV		3	mod	3	mod
+5	nous	nous	CLO	CLO	n=p|p=1	6	obj	6	obj
+6	suivre	suivre	VINF	VINF	t=W	3	obj	3	obj
+7	sur	sur	P	P		6	mod	6	mod
+8	les	les	DET	DET	n=p	9	det	9	det
+9	sites	site	NC	NC	n=p|g=m	7	prep	7	prep
+10	commerciaux	commercial	ADJ	ADJ	n=p|g=m	9	mod	9	mod
+11	et	et	CC	CC		3	coord	3	coord
+12	donc	donc	ADV	ADV		14	mod	14	mod
+13	nous	nous	CLO	CLO	n=p|p=1	14	a_obj	14	a_obj
+14	faire	faire	VINF	VINF	t=W	11	dep_coord	11	dep_coord
+15	des	des	DET	DET	n=p	16	det	16	det
+16	offres	offre	NC	NC	n=p|g=f	14	obj	14	obj
+17	pour	pour	P	P		14	mod	14	mod
+18	inciter	inciter	VINF	VINF	t=W	17	prep	17	prep
+19	l’	le	DET	DET	n=s	20	det	20	det
+20	achat	achat	NC	NC	n=s|g=m	18	obj	18	obj
+21	.	.	PONCT	PONCT		20	ponct	20	ponct
+
+</p><h2>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	traces	trace	NC	NC	n=p|g=f	0	_	0	_
+3	héritées	hériter	VPP	VPP	n=p|g=f|t=K	2	mod	2	mod
+
+</h2><p>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	traces	trace	NC	NC	n=p|g=f	5	mod	5	mod
+3	héritées	hériter	VPP	VPP	n=p|g=f|t=K	2	mod	2	mod
+4	c'	ce	CLS	CLS		5	suj	5	suj
+5	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+6	ce	ce	PRO	PRO	n=s	5	ats	5	ats
+7	que	que	PROREL	PROREL		10	mod	10	mod
+8	les	les	DET	DET	n=p	9	det	9	det
+9	autres	autre	ADJ	ADJ	n=p	10	suj	10	suj
+10	disent	dire	V	V	n=p|t=P,S|p=3	6	mod_rel	6	mod_rel
+11	d'	de	P	P		10	mod	10	mod
+12	une	une	DET	DET	n=s|g=f	13	det	13	det
+13	personne	personne	NC	NC	n=s|g=f	11	prep	11	prep
+14	en	en	P	P		10	mod	10	mod
+15	commentant	commenter	VPR	VPR	t=G	14	prep	14	prep
+16	ses	ses	DET	DET	n=p|p=3|poss=s	17	det	17	det
+17	travaux	travail	NC	NC	n=p|g=m	15	obj	15	obj
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	en	en	P	P		10	mod	10	mod
+20	citant	citer	VPR	VPR	t=G	19	prep	19	prep
+21	ses	ses	DET	DET	n=p|p=3|poss=s	22	det	22	det
+22	publications	publication	NC	NC	n=p|g=f	20	obj	20	obj
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	en	en	P	P		10	mod	10	mod
+25	partageant	partager	VPR	VPR	t=G	24	prep	24	prep
+26	son	son	DET	DET	n=s|g=m|p=3|poss=s	27	det	27	det
+27	travail	travail	NC	NC	n=s|g=m	25	obj	25	obj
+28	ou	ou	CC	CC		27	coord	27	coord
+29	ses	ses	DET	DET	n=p|p=3|poss=s	30	det	30	det
+30	photos	photo	NC	NC	n=p|g=f	28	dep_coord	28	dep_coord
+31	,	,	PONCT	PONCT		30	ponct	30	ponct
+32	en	en	P	P		10	mod	10	mod
+33	créant	créer	VPR	VPR	t=G	32	prep	32	prep
+34	des	des	DET	DET	n=p	35	det	35	det
+35	liens	lien	NC	NC	n=p|g=m	33	obj	33	obj
+36	…	…	PONCT	PONCT		35	ponct	35	ponct
+
+</p><h2>
+1	Géolocalisation	_	NC	NC		0	_	0	_
+2	:	:	PONCT	PONCT		1	ponct	1	ponct
+3	puces	puce	NC	NC	n=p|g=f	0	_	0	_
+4	électroniques	électronique	ADJ	ADJ	n=p	3	mod	3	mod
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	smartphones	_	NC	NC		0	_	0	_
+7	...	...	PONCT	PONCT		6	ponct	6	ponct
+
+</h2><p>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	puces	puce	NC	NC	n=p|g=f	0	_	0	_
+3	électroniques	électronique	ADJ	ADJ	n=p	2	mod	2	mod
+4	dans	dans	P	P		2	dep	2	dep
+5	nos	nos	DET	DET	n=p|p=1|poss=p	6	det	6	det
+6	portables	portable	ADJ	ADJ	n=p	4	prep	4	prep
+7	:	:	PONCT	PONCT		6	ponct	6	ponct
+
+</p><p>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	puces	puce	NC	NC	n=p|g=f	5	suj	5	suj
+3	électroniques	électronique	ADJ	ADJ	n=p	2	mod	2	mod
+4	se	se	CLR	CLR	n=p,s|p=3	5	aff	5	aff
+5	trouvent	trouver	V	V	n=p|t=P,S|p=3	0	root	0	root
+6	surtout	surtout	ADV	ADV		5	mod	5	mod
+7	dans	dans	P	P		5	mod	5	mod
+8	les	les	DET	DET	n=p	13	det	13	det
+9	portables	portable	ADJ	ADJ	n=p	13	mod	13	mod
+10	(	(	PONCT	PONCT		9	ponct	9	ponct
+11	Androïdes	androïde	ADJ	ADJ	n=p	13	mod	13	mod
+12	;	;	PONCT	PONCT		11	ponct	11	ponct
+13	Ios	_	NPP	NPP		7	prep	7	prep
+14	;	;	PONCT	PONCT		13	ponct	13	ponct
+15	Windows	window	NC	NC	n=p|g=f	13	mod	13	mod
+16	…	…	PONCT	PONCT		15	ponct	15	ponct
+17	)	)	PONCT	PONCT		15	ponct	15	ponct
+18	,	,	PONCT	PONCT		15	ponct	15	ponct
+19	ce	ce	PRO	PRO	n=s	5	mod	5	mod
+20	qui	qui	PROREL	PROREL	n=s	21	suj	21	suj
+21	permet	permettre	V	V	n=s|t=P|p=3	19	mod_rel	19	mod_rel
+22	leur	leur	DET	DET	n=s|p=3|poss=p	23	det	23	det
+23	géolocalisation	_	NC	NC		21	obj	21	obj
+24	.	.	PONCT	PONCT		23	ponct	23	ponct
+
+</p><p>
+1	Qu’	que	PROWH	PROWH		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	-ce	ce	PRO	PRO	n=s	2	obj	2	obj
+4	que	que	PROREL	PROREL		0	_	0	_
+5	la	la	DET	DET	n=s|g=f	6	det	6	det
+6	géolocalisation	_	NC	NC		0	_	0	_
+7	?	?	PONCT	PONCT		6	ponct	6	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	géolocalisation	_	NC	NC		3	suj	3	suj
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	une	une	DET	DET	n=s|g=f	5	det	5	det
+5	technologie	technologie	NC	NC	n=s|g=f	3	obj	3	obj
+6	permettant	permettre	VPR	VPR	t=G	5	mod	5	mod
+7	de	de	P	P		3	mod	3	mod
+8	situer	situer	VINF	VINF	t=W	7	prep	7	prep
+9	un	un	DET	DET	n=s|g=m	10	det	10	det
+10	objet	objet	NC	NC	n=s|g=m	8	obj	8	obj
+11	(	(	PONCT	PONCT		10	ponct	10	ponct
+12	comme	comme	P	P		8	mod	8	mod
+13	un	un	DET	DET	n=s|g=m	14	det	14	det
+14	smartphone	_	NC	NC		12	prep	12	prep
+15	)	)	PONCT	PONCT		14	ponct	14	ponct
+16	ou	ou	CC	CC		3	coord	3	coord
+17	une	une	DET	DET	n=s|g=f	18	det	18	det
+18	personne	personne	NC	NC	n=s|g=f	0	_	0	_
+19	avec	avec	P	P		18	dep	18	dep
+20	une	une	DET	DET	n=s|g=f	22	det	22	det
+21	certaine	certain	ADJ	ADJ	n=s|g=f	22	mod	22	mod
+22	précision	précision	NC	NC	n=s|g=f	19	prep	19	prep
+23	.	.	PONCT	PONCT		22	ponct	22	ponct
+
+1	Cette	cette	DET	DET	n=s|g=f	2	det	2	det
+2	technologie	technologie	NC	NC	n=s|g=f	3	suj	3	suj
+3	utilise	utiliser	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+4	généralement	_	ADV	ADV		3	mod	3	mod
+5	le	le	DET	DET	n=s|g=m	6	det	6	det
+6	système	système	NC	NC	n=s|g=m	3	obj	3	obj
+7	GPS	_	NPP	NPP		6	mod	6	mod
+8	d’	de	P	P		3	mod	3	mod
+9	un	un	DET	DET	n=s|g=m	10	det	10	det
+10	téléphone	téléphone	NC	NC	n=s|g=m	8	prep	8	prep
+11	mobile	mobile	ADJ	ADJ	n=s	10	mod	10	mod
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+</p><h2>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	réseaux	réseau	NC	NC	n=p|g=m	0	_	0	_
+3	sociaux	social	ADJ	ADJ	n=p|g=m	2	mod	2	mod
+4	et	et	CC	CC		2	coord	2	coord
+5	l’	le	DET	DET	n=s	6	det	6	det
+6	identité	identité	NC	NC	n=s|g=f	4	dep_coord	4	dep_coord
+7	numérique	numérique	ADJ	ADJ	n=s	6	mod	6	mod
+
+</h2><h3>
+1	Classification	classification	NC	NC	n=s|g=f	0	_	0	_
+2	des	de	P+D	P+D	n=p	1	dep	1	dep
+3	réseaux	réseau	NC	NC	n=p|g=m	2	prep	2	prep
+4	sociaux	social	ADJ	ADJ	n=p|g=m	3	mod	3	mod
+
+</h3><p>
+1	Instagram	_	NPP	NPP		4	suj	4	suj
+2	:	:	PONCT	PONCT		1	ponct	1	ponct
+3	Instagram	_	NPP	NPP		1	mod	1	mod
+4	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+5	un	un	DET	DET	n=s|g=m	6	det	6	det
+6	réseau	réseau	NC	NC	n=s|g=m	4	obj	4	obj
+7	social	social	ADJ	ADJ	n=s|g=m	6	mod	6	mod
+8	pour	pour	P	P		4	mod	4	mod
+9	mettre	mettre	VINF	VINF	t=W	8	prep	8	prep
+10	sur	sur	P	P		9	mod	9	mod
+11	ton	ton	DET	DET	n=s|g=m|p=2|poss=s	12	det	12	det
+12	compte	compte	NC	NC	n=s|g=m	10	prep	10	prep
+13	de	de	P	P		9	mod	9	mod
+14	beaux	beau	ADJ	ADJ	n=p|g=m	15	mod	15	mod
+15	clichés	cliché	NC	NC	n=p|g=m	13	prep	13	prep
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+</p><p>
+1	À	à	P	P		4	mod	4	mod
+2	quoi	quoi	PROWH	PROWH		1	prep	1	prep
+3	ça	ça	PRO	PRO	n=s	4	suj	4	suj
+4	sert	servir	V	V	n=s|t=P|p=3	0	root	0	root
+5	?	?	PONCT	PONCT		4	ponct	4	ponct
+
+1	À	à	P	P		0	_	0	_
+2	partager	partager	VINF	VINF	t=W	1	prep	1	prep
+3	des	des	DET	DET	n=p	4	det	4	det
+4	photos	photo	NC	NC	n=p|g=f	2	obj	2	obj
+5	avec	avec	P	P		2	mod	2	mod
+6	tes	tes	DET	DET	n=p|p=2|poss=s	8	det	8	det
+7	«_	"	PONCT	PONCT		6	ponct	6	ponct
+8	followers	_	NC	NC		5	prep	5	prep
+9	_»	"	PONCT	PONCT		8	ponct	8	ponct
+10	(	(	PONCT	PONCT		8	ponct	8	ponct
+11	personnes	personne	NC	NC	n=p|g=f	0	_	0	_
+12	qui	qui	PROREL	PROREL	n=s	14	suj	14	suj
+13	sont	être	V	V	n=p|t=P|p=3	14	aux_pass	14	aux_pass
+14	abonnées	abonner	VPP	VPP	n=p|g=f|t=K	11	mod_rel	11	mod_rel
+15	à	à	P	P		14	mod	14	mod
+16	ton	ton	DET	DET	n=s|g=m|p=2|poss=s	17	det	17	det
+17	profil	profil	NC	NC	n=s|g=m	15	prep	15	prep
+18	)	)	PONCT	PONCT		17	ponct	17	ponct
+19	.	.	PONCT	PONCT		17	ponct	17	ponct
+
+1	Tu	tu	CLS	CLS	n=s|p=2	2	suj	2	suj
+2	peux	pouvoir	V	V	n=s|t=P|p=1,2	0	root	0	root
+3	réaliser	réaliser	VINF	VINF	t=W	2	obj	2	obj
+4	des	des	DET	DET	n=p	5	det	5	det
+5	vidéos	vidéo	NC	NC	n=p	3	obj	3	obj
+6	ou	ou	CC	CC		3	coord	3	coord
+7	aussi	aussi	ADV	ADV		6	mod	6	mod
+8	envoyer	envoyer	VINF	VINF	t=W	6	dep_coord	6	dep_coord
+9	des	des	DET	DET	n=p	11	det	11	det
+10	«_	"	PONCT	PONCT		9	ponct	9	ponct
+11	instadirect	_	NC	NC		8	obj	8	obj
+12	_»	"	PONCT	PONCT		11	ponct	11	ponct
+13	qui	qui	PROREL	PROREL	n=s	14	suj	14	suj
+14	sont	être	V	V	n=p|t=P|p=3	11	mod_rel	11	mod_rel
+15	des	des	DET	DET	n=p	16	det	16	det
+16	messages	message	NC	NC	n=p|g=m	14	obj	14	obj
+17	personnels	personnel	ADJ	ADJ	n=p|g=m	16	mod	16	mod
+18	que	que	PROREL	PROREL		21	mod	21	mod
+19	personne	personne	PRO	PRO	n=s	21	suj	21	suj
+20	ne	ne	ADV	ADV		21	mod	21	mod
+21	peut	pouvoir	V	V	n=s|t=P|p=3	16	mod_rel	16	mod_rel
+22	voir	voir	VINF	VINF	t=W	21	obj	21	obj
+23	à	à	P	P		22	mod	22	mod
+24	part	part	NC	NC	n=s	23	prep	23	prep
+25	le	le	DET	DET	n=s|g=m	26	det	26	det
+26	follower	_	NC	NC		22	obj	22	obj
+27	à	à	P	P		22	mod	22	mod
+28	qui	qui	PROREL	PROREL	n=s	27	prep	27	prep
+29	tu	taire	VPP	VPP	n=s|g=m|t=K	28	ponct	28	ponct
+30	l’	le	DET	DET	n=s	0	_	0	_
+31	envoies	_	NC	NC		30	prep	30	prep
+32	.	.	PONCT	PONCT		31	ponct	31	ponct
+
+</p><p>
+1	Snapchat	_	NC	NC		4	mod	4	mod
+2	:	:	PONCT	PONCT		1	ponct	1	ponct
+3	Snapchat	_	NPP	NPP		4	suj	4	suj
+4	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+5	un	un	DET	DET	n=s|g=m	6	det	6	det
+6	réseau	réseau	NC	NC	n=s|g=m	4	obj	4	obj
+7	social	social	ADJ	ADJ	n=s|g=m	6	mod	6	mod
+8	qui	qui	PROREL	PROREL	n=s	9	suj	9	suj
+9	sert	servir	V	V	n=s|t=P|p=3	6	mod_rel	6	mod_rel
+10	à	à	P	P		9	mod	9	mod
+11	envoyer	envoyer	VINF	VINF	t=W	10	prep	10	prep
+12	des	des	DET	DET	n=p	13	det	13	det
+13	messages	message	NC	NC	n=p|g=m	11	obj	11	obj
+14	«_	"	PONCT	PONCT		13	ponct	13	ponct
+15	fantômes	fantôme	ADJ	ADJ	n=p	13	mod	13	mod
+16	_»	"	PONCT	PONCT		15	ponct	15	ponct
+17	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+</p><p>
+1	À	à	P	P		4	mod	4	mod
+2	quoi	quoi	PROWH	PROWH		1	prep	1	prep
+3	ça	ça	PRO	PRO	n=s	4	suj	4	suj
+4	sert	servir	V	V	n=s|t=P|p=3	0	root	0	root
+5	?	?	PONCT	PONCT		4	ponct	4	ponct
+
+1	Tu	tu	CLS	CLS	n=s|p=2	2	suj	2	suj
+2	peux	pouvoir	V	V	n=s|t=P|p=1,2	0	root	0	root
+3	envoyer	envoyer	VINF	VINF	t=W	2	obj	2	obj
+4	des	des	DET	DET	n=p	5	det	5	det
+5	messages	message	NC	NC	n=p|g=m	3	obj	3	obj
+6	,	,	PONCT	PONCT		5	ponct	5	ponct
+7	photos	photo	NC	NC	n=p|g=f	5	mod	5	mod
+8	ou	ou	CC	CC		5	coord	5	coord
+9	vidéos	vidéo	NC	NC	n=p	8	dep_coord	8	dep_coord
+10	qui	qui	PROREL	PROREL	n=s	11	suj	11	suj
+11	vont	aller	V	V	n=p|t=P|p=3	2	mod	2	mod
+12	soi-disant	soi-disant	ADJ	ADJ		11	mod	11	mod
+13	«_	"	PONCT	PONCT		12	ponct	12	ponct
+14	s’	se	CLR	CLR	n=p,s|p=3	15	aff	15	aff
+15	autodétruire	autodétruire	VINF	VINF	t=W	11	mod	11	mod
+16	_»	"	PONCT	PONCT		15	ponct	15	ponct
+17	au	à	P+D	P+D	n=s|g=m	15	mod	15	mod
+18	bout	bout	NC	NC	n=s|g=m	17	prep	17	prep
+19	de	de	P	P		15	mod	15	mod
+20	quelque	quelque	DET	DET	n=s	21	det	21	det
+21	secondes	second	ADJ	ADJ	n=p|g=f	19	prep	19	prep
+22	.	.	PONCT	PONCT		21	ponct	21	ponct
+
+</p><p>
+1	Facebook	_	NPP	NPP		4	suj	4	suj
+2	:	:	PONCT	PONCT		1	ponct	1	ponct
+3	Facebook	_	NPP	NPP		1	mod	1	mod
+4	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+5	un	un	DET	DET	n=s|g=m	6	det	6	det
+6	réseau	réseau	NC	NC	n=s|g=m	4	obj	4	obj
+7	social	social	ADJ	ADJ	n=s|g=m	6	mod	6	mod
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	surnommé	surnommer	VPP	VPP	n=s|g=m|t=K	6	mod	6	mod
+10	le	le	DET	DET	n=s|g=m	12	det	12	det
+11	«_	"	PONCT	PONCT		10	ponct	10	ponct
+12	dinosaure	dinosaure	NC	NC	n=s|g=m	9	mod	9	mod
+13	_»	"	PONCT	PONCT		12	ponct	12	ponct
+14	.	.	PONCT	PONCT		12	ponct	12	ponct
+
+1	Tu	tu	CLS	CLS	n=s|p=2	2	suj	2	suj
+2	peux	pouvoir	V	V	n=s|t=P|p=1,2	0	root	0	root
+3	montrer	montrer	VINF	VINF	t=W	2	obj	2	obj
+4	des	des	DET	DET	n=p	5	det	5	det
+5	publications	publication	NC	NC	n=p|g=f	3	obj	3	obj
+6	dans	dans	P	P		3	mod	3	mod
+7	lesquelles	lequel	PROREL	PROREL	n=p|g=f	6	prep	6	prep
+8	tu	taire	VPP	VPP	n=s|g=m|t=K	0	_	0	_
+9	es	être	V	V	n=s|t=P|p=2	0	_	0	_
+10	identifié	identifier	VPP	VPP	n=s|g=m|t=K	9	prep	9	prep
+11	(	(	PONCT	PONCT		10	ponct	10	ponct
+12	e	_	NPP	NPP		10	mod	10	mod
+13	)	)	PONCT	PONCT		12	ponct	12	ponct
+14	auprès	auprès	ADV	ADV		10	mod	10	mod
+15	de	de	P	P		10	mod	10	mod
+16	tous	tout	ADJ	ADJ	n=p|g=m	18	mod	18	mod
+17	tes	tes	DET	DET	n=p|p=2|poss=s	18	det	18	det
+18	amis	ami	NC	NC	n=p|g=m	15	prep	15	prep
+19	sauf	sauf	P	P		10	mod	10	mod
+20	à	à	P	P		19	prep	19	prep
+21	ta	ta	DET	DET	n=s|g=f|p=2|poss=s	22	det	22	det
+22	liste	liste	NC	NC	n=s|g=f	20	prep	20	prep
+23	«_	"	PONCT	PONCT		22	ponct	22	ponct
+24	amis	ami	NC	NC	n=p|g=m	10	mod	10	mod
+25	de	de	P	P		10	mod	10	mod
+26	maternelle	maternelle	NC	NC	n=s|g=f	25	prep	25	prep
+27	_»	"	PONCT	PONCT		26	ponct	26	ponct
+28	.	.	PONCT	PONCT		26	ponct	26	ponct
+
+</p><p>
+1	À	à	P	P		4	mod	4	mod
+2	quoi	quoi	PROWH	PROWH		1	prep	1	prep
+3	ça	ça	PRO	PRO	n=s	4	suj	4	suj
+4	sert	servir	V	V	n=s|t=P|p=3	0	root	0	root
+5	?	?	PONCT	PONCT		4	ponct	4	ponct
+
+1	tu	tu	CLS	CLS	n=s|p=2	2	suj	2	suj
+2	peux	pouvoir	V	V	n=s|t=P|p=1,2	0	root	0	root
+3	discuter	discuter	VINF	VINF	t=W	2	obj	2	obj
+4	avec	avec	P	P		3	mod	3	mod
+5	tes	tes	DET	DET	n=p|p=2|poss=s	6	det	6	det
+6	amis	ami	NC	NC	n=p|g=m	4	prep	4	prep
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	retrouver	retrouver	VINF	VINF	t=W	3	obj	3	obj
+9	des	des	DET	DET	n=p	10	det	10	det
+10	amis	ami	NC	NC	n=p|g=m	8	obj	8	obj
+11	de	de	P	P		8	mod	8	mod
+12	maternelle	maternelle	NC	NC	n=s|g=f	11	prep	11	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	partager	partager	VINF	VINF	t=W	8	coord	8	coord
+15	des	des	DET	DET	n=p	16	det	16	det
+16	vidéos	vidéo	NC	NC	n=p	14	obj	14	obj
+17	,	,	PONCT	PONCT		16	ponct	16	ponct
+18	des	des	DET	DET	n=p	19	det	19	det
+19	photos	photo	NC	NC	n=p|g=f	14	mod	14	mod
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	des	de	P+D	P+D	n=p	14	mod	14	mod
+22	«_	"	PONCT	PONCT		21	ponct	21	ponct
+23	statuts	statut	NC	NC	n=p|g=m	21	prep	21	prep
+24	_»	"	PONCT	PONCT		23	ponct	23	ponct
+25	,	,	PONCT	PONCT		23	ponct	23	ponct
+26	discuter	discuter	VINF	VINF	t=W	14	coord	14	coord
+27	avec	avec	P	P		26	mod	26	mod
+28	tes	tes	DET	DET	n=p|p=2|poss=s	29	det	29	det
+29	amis	ami	NC	NC	n=p|g=m	27	prep	27	prep
+30	,	,	PONCT	PONCT		29	ponct	29	ponct
+31	suivre	suivre	VINF	VINF	t=W	26	coord	26	coord
+32	les	les	DET	DET	n=p	33	det	33	det
+33	pages	page	NC	NC	n=p	31	obj	31	obj
+34	de	de	P	P		33	dep	33	dep
+35	stars	star	NC	NC	n=p|g=f	34	prep	34	prep
+36	…	…	PONCT	PONCT		35	ponct	35	ponct
+37	C’	ce	CLS	CLS		39	suj	39	suj
+38	EST	être	V	V	n=s|t=P|p=3	39	aux_tps	39	aux_tps
+39	INTERDIT	interdire	VPP	VPP	n=s|g=m|t=K	2	mod	2	mod
+40	AUX	à	P+D	P+D	n=p	39	mod	39	mod
+41	ENFANTS	enfant	NC	NC	n=p	40	prep	40	prep
+42	DE	de	P	P		39	mod	39	mod
+43	MOINS	moins	ADV	ADV		0	_	0	_
+44	DE	de	P	P		0	_	0	_
+45	13	13	ADJ	ADJ		46	mod	46	mod
+46	ANS	an	NC	NC	n=p|g=m	44	prep	44	prep
+47	!	!	PONCT	PONCT		46	ponct	46	ponct
+
+</p><p>
+1	Ask.fm	$URL$	NPP	NPP		4	suj	4	suj
+2	:	:	PONCT	PONCT		1	ponct	1	ponct
+3	Ask	_	NPP	NPP		1	mod	1	mod
+4	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+5	un	un	DET	DET	n=s|g=m	6	det	6	det
+6	réseau	réseau	NC	NC	n=s|g=m	4	obj	4	obj
+7	social	social	ADJ	ADJ	n=s|g=m	6	mod	6	mod
+8	qui	qui	PROREL	PROREL	n=s	9	suj	9	suj
+9	permet	permettre	V	V	n=s|t=P|p=3	6	mod_rel	6	mod_rel
+10	de	de	P	P		9	obj	9	obj
+11	poser	poser	VINF	VINF	t=W	10	prep	10	prep
+12	des	des	DET	DET	n=p	13	det	13	det
+13	questions	question	NC	NC	n=p|g=f	11	obj	11	obj
+14	anonymes	anonyme	ADJ	ADJ	n=p	13	mod	13	mod
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+</p><p>
+1	À	à	P	P		4	mod	4	mod
+2	quoi	quoi	PROWH	PROWH		1	prep	1	prep
+3	ça	ça	PRO	PRO	n=s	4	suj	4	suj
+4	sert	servir	V	V	n=s|t=P|p=3	0	root	0	root
+5	?	?	PONCT	PONCT		4	ponct	4	ponct
+
+1	Tu	tu	CLS	CLS	n=s|p=2	2	suj	2	suj
+2	peux	pouvoir	V	V	n=s|t=P|p=1,2	0	root	0	root
+3	recevoir	recevoir	VINF	VINF	t=W	2	obj	2	obj
+4	des	des	DET	DET	n=p	5	det	5	det
+5	questions	question	NC	NC	n=p|g=f	3	obj	3	obj
+6	d’	de	P	P		5	dep	5	dep
+7	autres	autre	ADJ	ADJ	n=p	8	mod	8	mod
+8	utilisateurs	utilisateur	NC	NC	n=p|g=m	6	prep	6	prep
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	identifiés	identifier	ADJ	ADJ	n=p|g=m|t=K	8	mod	8	mod
+11	ou	ou	CC	CC		10	coord	10	coord
+12	très	très	ADV	ADV		13	mod	13	mod
+13	souvent	souvent	ADV	ADV		14	mod	14	mod
+14	anonymes	anonyme	ADJ	ADJ	n=p	11	dep_coord	11	dep_coord
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+1	Attention	attention	NC	NC	n=s|g=f	3	mod	3	mod
+2	tout	tout	PRO	PRO	n=s|g=m	3	suj	3	suj
+3	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+4	public	public	ADJ	ADJ	n=s|g=m	3	ats	3	ats
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	et	et	CC	CC		3	coord	3	coord
+7	c’	ce	CLS	CLS		8	suj	8	suj
+8	est	être	V	V	n=s|t=P|p=3	6	dep_coord	6	dep_coord
+9	souvent	souvent	ADV	ADV		8	mod	8	mod
+10	«_	"	PONCT	PONCT		9	ponct	9	ponct
+11	trash	_	NC	NC		8	obj	8	obj
+12	_»	"	PONCT	PONCT		11	ponct	11	ponct
+13	:	:	PONCT	PONCT		11	ponct	11	ponct
+14	harcèlement	harcèlement	NC	NC	n=s|g=m	8	mod	8	mod
+15	,	,	PONCT	PONCT		14	ponct	14	ponct
+16	humiliation	humiliation	NC	NC	n=s|g=f	14	mod	14	mod
+17	facile	facile	ADJ	ADJ	n=s	16	mod	16	mod
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	et	et	CC	CC		14	coord	14	coord
+20	insultes	insulte	NC	NC	n=p|g=f	19	dep_coord	19	dep_coord
+21	ne	ne	ADV	ADV		22	mod	22	mod
+22	sont	être	V	V	n=p|t=P|p=3	8	mod	8	mod
+23	pas	pas	ADV	ADV		22	mod	22	mod
+24	rares	rare	ADJ	ADJ	n=p	22	ats	22	ats
+25	.	.	PONCT	PONCT		24	ponct	24	ponct
+
+</p><p>
+1	Qu'	que	PROWH	PROWH		2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	-ce	ce	PRO	PRO	n=s	2	obj	2	obj
+4	qu'	que	PROREL	PROREL		0	_	0	_
+5	un	un	DET	DET	n=s|g=m	6	det	6	det
+6	ami	ami	NC	NC	n=s|g=m	0	_	0	_
+7	virtuel	virtuel	ADJ	ADJ	n=s|g=m	6	mod	6	mod
+8	?	?	PONCT	PONCT		7	ponct	7	ponct
+
+</p><p>
+1	Les	les	DET	DET	n=p	3	det	3	det
+2	bonnes	bon	ADJ	ADJ	n=p|g=f	3	mod	3	mod
+3	questions	question	NC	NC	n=p|g=f	0	_	0	_
+4	à	à	P	P		3	dep	3	dep
+5	se	se	CLR	CLR	n=p,s|p=3	6	aff	6	aff
+6	poser	poser	VINF	VINF	t=W	4	prep	4	prep
+7	avant	avant	P	P		6	mod	6	mod
+8	de	de	P	P		7	prep	7	prep
+9	publier	_	VS	VS		8	aff	8	aff
+
+</p><p>
+1	Bien	bien	ADV	ADV		2	mod	2	mod
+2	régler	régler	VINF	VINF	t=W	0	root	0	root
+3	les	les	DET	DET	n=p	4	det	4	det
+4	paramètres	paramètre	NC	NC	n=p|g=m	2	obj	2	obj
+5	de	de	P	P		2	mod	2	mod
+6	confidentialité	confidentialité	NC	NC	n=s|g=f	5	prep	5	prep
+
+</p><h2>
+1	Comment	comment	NC	NC	g=m	0	_	0	_
+2	bien	bien	ADV	ADV		1	mod	1	mod
+3	régler	régler	VINF	VINF	t=W	1	dep	1	dep
+4	les	les	DET	DET	n=p	5	det	5	det
+5	paramètres	paramètre	NC	NC	n=p|g=m	3	obj	3	obj
+6	de	de	P	P		3	mod	3	mod
+7	confidentialité	confidentialité	NC	NC	n=s|g=f	6	prep	6	prep
+8	sur	sur	P	P		3	mod	3	mod
+9	Facebook	_	NC	NC		8	prep	8	prep
+
+</h2><p>
+1	Pour	pour	P	P		6	mod	6	mod
+2	avoir	avoir	VINF	VINF	t=W	1	prep	1	prep
+3	Facebook	_	NPP	NPP		2	obj	2	obj
+4	,	,	PONCT	PONCT		3	ponct	3	ponct
+5	il	il	CLS	CLS	n=s|g=m|p=3	6	suj	6	suj
+6	faut	falloir	V	V	n=s|t=P|p=3	0	root	0	root
+7	:	:	PONCT	PONCT		6	ponct	6	ponct
+
+</p><p>
+1	avoir	avoir	VINF	VINF	t=W	0	_	0	_
+2	l’	le	DET	DET	n=s	3	det	3	det
+3	âge	âge	NC	NC	n=s|g=m	1	obj	1	obj
+4	demandé	demander	VPP	VPP	n=s|g=m|t=K	3	mod	3	mod
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+
+</p><p>
+1	utiliser	utiliser	VINF	VINF	t=W	0	_	0	_
+2	un	un	DET	DET	n=s|g=m	3	det	3	det
+3	surnom	surnom	NC	NC	n=s|g=m	1	obj	1	obj
+4	ou	ou	CC	CC		3	coord	3	coord
+5	un	un	DET	DET	n=s|g=m	6	det	6	det
+6	avatar	avatar	NC	NC	n=s|g=m	4	dep_coord	4	dep_coord
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+
+</p><p>
+1	ne	ne	ADV	ADV		2	mod	2	mod
+2	publier	publier	VINF	VINF	t=W	0	root	0	root
+3	aucune	aucune	DET	DET	n=s|g=f	4	det	4	det
+4	photo	photo	NC	NC	n=s|g=f	2	obj	2	obj
+5	compromettante	compromettant	ADJ	ADJ	n=s|g=f	4	mod	4	mod
+6	.	.	PONCT	PONCT		5	ponct	5	ponct
+
+</p><p>
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	faut	falloir	V	V	n=s|t=P|p=3	0	root	0	root
+3	commencer	commencer	VINF	VINF	t=W	2	obj	2	obj
+4	par	par	P	P		3	mod	3	mod
+5	se	se	CLR	CLR	n=p,s|p=3	6	aff	6	aff
+6	rendre	rendre	VINF	VINF	t=W	4	prep	4	prep
+7	sur	sur	P	P		6	mod	6	mod
+8	les	les	DET	DET	n=p	9	det	9	det
+9	paramètres	paramètre	NC	NC	n=p|g=m	7	prep	7	prep
+10	de	de	P	P		6	mod	6	mod
+11	confidentialité	confidentialité	NC	NC	n=s|g=f	10	prep	10	prep
+12	de	de	P	P		6	mod	6	mod
+13	ton	ton	DET	DET	n=s|g=m|p=2|poss=s	14	det	14	det
+14	compte	compte	NC	NC	n=s|g=m	12	prep	12	prep
+15	Facebook	_	NPP	NPP		14	mod	14	mod
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+</p><p>
+1	Ensuite	ensuite	ADV	ADV		31	mod	31	mod
+2	,	,	PONCT	PONCT		1	ponct	1	ponct
+3	veille	veille	NC	NC	n=s|g=f	31	mod	31	mod
+4	à	à	P	P		3	dep	3	dep
+5	activer	activer	VINF	VINF	t=W	4	prep	4	prep
+6	l'	le	DET	DET	n=s	7	det	7	det
+7	examen	examen	NC	NC	n=s|g=m	5	obj	5	obj
+8	du	de	P+D	P+D	n=s|g=m	5	mod	5	mod
+9	profil	profil	NC	NC	n=s|g=m	8	prep	8	prep
+10	:	:	PONCT	PONCT		9	ponct	9	ponct
+11	lorsqu'	lorsque	CS	CS		3	mod	3	mod
+12	un	un	DET	DET	n=s|g=m	13	det	13	det
+13	ami	ami	NC	NC	n=s|g=m	15	suj	15	suj
+14	t’	te	CLO	CLO	n=s|p=2	15	obj	15	obj
+15	identifie	identifier	V	V	n=s|t=P,S|p=1,3	11	sub	11	sub
+16	sur	sur	P	P		15	mod	15	mod
+17	une	une	DET	DET	n=s|g=f	18	det	18	det
+18	photo	photo	NC	NC	n=s|g=f	16	prep	16	prep
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	tu	_	NC	NC		15	mod	15	mod
+21	devras	_	NC	NC		20	mod	20	mod
+22	d'	de	P	P		15	mod	15	mod
+23	abord	abord	NC	NC	n=s|g=m	22	prep	22	prep
+24	la	la	CLO	CLO	n=s|g=f|p=3	25	obj	25	obj
+25	confirmer	confirmer	VINF	VINF	t=W	15	obj	15	obj
+26	avant	avant	P	P		25	mod	25	mod
+27	qu'	que	PROREL	PROREL		26	prep	26	prep
+28	elle	elle	CLS	CLS	n=s|g=f|p=3	31	suj	31	suj
+29	ne	ne	ADV	ADV		31	mod	31	mod
+30	se	se	CLR	CLR	n=p,s|p=3	31	aff	31	aff
+31	retrouve	retrouver	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+32	sur	sur	P	P		31	mod	31	mod
+33	ton	ton	DET	DET	n=s|g=m|p=2|poss=s	34	det	34	det
+34	profil	profil	NC	NC	n=s|g=m	32	prep	32	prep
+35	.	.	PONCT	PONCT		34	ponct	34	ponct
+
+</p><p>
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	indication	indication	NC	NC	n=s|g=f	6	suj	6	suj
+3	de	de	P	P		2	dep	2	dep
+4	ta	ta	DET	DET	n=s|g=f|p=2|poss=s	5	det	5	det
+5	position	position	NC	NC	n=s|g=f	3	prep	3	prep
+6	permet	permettre	V	V	n=s|t=P|p=3	0	root	0	root
+7	à	à	P	P		6	mod	6	mod
+8	tes	tes	DET	DET	n=p|p=2|poss=s	9	det	9	det
+9	amis	ami	NC	NC	n=p|g=m	7	prep	7	prep
+10	de	de	P	P		6	mod	6	mod
+11	publier	publier	VINF	VINF	t=W	10	prep	10	prep
+12	où	où	ADVWH	ADVWH		15	mod	15	mod
+13	tu	taire	VPP	VPP	n=s|g=m|t=K	15	mod	15	mod
+14	te	te	CLO	CLO	n=s|p=2	15	obj	15	obj
+15	trouves	trouver	V	V	n=s|t=P,S|p=2	11	obj	11	obj
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+1	À	à	P	P		0	_	0	_
+2	toi	toi	NC	NC	n=s|g=m	1	prep	1	prep
+3	de	de	P	P		0	_	0	_
+4	choisir	choisir	VINF	VINF	t=W	3	prep	3	prep
+5	d'	de	P	P		4	mod	4	mod
+6	activer	activer	VINF	VINF	t=W	5	prep	5	prep
+7	ou	ou	CC	CC		4	coord	4	coord
+8	non	non	ADV	ADV		7	mod	7	mod
+9	cette	cette	DET	DET	n=s|g=f	10	det	10	det
+10	fonctionnalité	fonctionnalité	NC	NC	n=s|g=f	7	dep_coord	7	dep_coord
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+</p><p>
+1	Pense	penser	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+2	à	à	P	P		1	mod	1	mod
+3	désactiver	désactiver	VINF	VINF	t=W	2	prep	2	prep
+4	la	la	DET	DET	n=s|g=f	5	det	5	det
+5	recherche	recherche	NC	NC	n=s|g=f	3	obj	3	obj
+6	:	:	PONCT	PONCT		5	ponct	5	ponct
+7	ce	ce	DET	DET	n=s|g=m	8	det	8	det
+8	dernier	dernier	ADJ	ADJ	n=s|g=m	9	suj	9	suj
+9	permet	permettre	V	V	n=s|t=P|p=3	1	mod	1	mod
+10	de	de	P	P		9	mod	9	mod
+11	trouver	trouver	VINF	VINF	t=W	10	prep	10	prep
+12	ton	ton	DET	DET	n=s|g=m|p=2|poss=s	13	det	13	det
+13	profil	profil	NC	NC	n=s|g=m	11	obj	11	obj
+14	à	à	P	P		11	mod	11	mod
+15	partir	partir	VINF	VINF	t=W	14	prep	14	prep
+16	d'	de	P	P		15	mod	15	mod
+17	un	un	DET	DET	n=s|g=m	18	det	18	det
+18	moteur	moteur	NC	NC	n=s|g=m	16	prep	16	prep
+19	de	de	P	P		15	mod	15	mod
+20	recherche	recherche	NC	NC	n=s|g=f	19	prep	19	prep
+21	.	.	PONCT	PONCT		20	ponct	20	ponct
+
+</p><p>
+1	Pour	pour	P	P		9	mod	9	mod
+2	bloquer	bloquer	VINF	VINF	t=W	1	prep	1	prep
+3	une	une	DET	DET	n=s|g=f	4	det	4	det
+4	personne	personne	NC	NC	n=s|g=f	2	obj	2	obj
+5	sur	sur	P	P		2	mod	2	mod
+6	Facebook	_	NPP	NPP		5	prep	5	prep
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	il	il	CLS	CLS	n=s|g=m|p=3	9	suj	9	suj
+9	faut	falloir	V	V	n=s|t=P|p=3	0	root	0	root
+10	:	:	PONCT	PONCT		9	ponct	9	ponct
+
+</p><p>
+1	que	que	CS	CS		33	mod	33	mod
+2	tu	taire	VPP	VPP	n=s|g=m|t=K	1	sub	1	sub
+3	te	te	CLO	CLO	n=s|p=2	4	aff	4	aff
+4	rendes	_	VPR	VPR		2	mod	2	mod
+5	sur	sur	P	P		4	mod	4	mod
+6	"	"	PONCT	PONCT		5	ponct	5	ponct
+7	Personnes	personne	NC	NC	n=p|g=f	5	prep	5	prep
+8	bloquées	bloquer	VPP	VPP	n=p|g=f|t=K	7	mod	7	mod
+9	"	"	PONCT	PONCT		8	ponct	8	ponct
+10	et	et	CC	CC		4	coord	4	coord
+11	taper	taper	VINF	VINF	t=W	10	dep_coord	10	dep_coord
+12	le	le	DET	DET	n=s|g=m	13	det	13	det
+13	nom	nom	NC	NC	n=s|g=m	11	obj	11	obj
+14	de	de	P	P		11	mod	11	mod
+15	la	la	DET	DET	n=s|g=f	16	det	16	det
+16	personne	personne	NC	NC	n=s|g=f	14	prep	14	prep
+17	ou	ou	CC	CC		11	coord	11	coord
+18	simplement	_	ADV	ADV		17	mod	17	mod
+19	aller	aller	VINF	VINF	t=W	17	dep_coord	17	dep_coord
+20	sur	sur	P	P		19	mod	19	mod
+21	le	le	DET	DET	n=s|g=m	22	det	22	det
+22	profil	profil	NC	NC	n=s|g=m	20	prep	20	prep
+23	de	de	P	P		19	mod	19	mod
+24	la	la	DET	DET	n=s|g=f	25	det	25	det
+25	personne	personne	NC	NC	n=s|g=f	23	prep	23	prep
+26	,	,	PONCT	PONCT		25	ponct	25	ponct
+27	en	en	P	P		19	mod	19	mod
+28	bas	bas	ADJ	ADJ	g=m	27	prep	27	prep
+29	à	à	P	P		19	mod	19	mod
+30	gauche	gauche	NC	NC	n=s	29	prep	29	prep
+31	il	il	CLS	CLS	n=s|g=m|p=3	33	suj	33	suj
+32	y	y	CLO	CLO		33	a_obj	33	a_obj
+33	a	avoir	V	V	n=s|t=P|p=3	0	root	0	root
+34	"	"	PONCT	PONCT		33	ponct	33	ponct
+35	Signaler	signaler	VINF	VINF	t=W	33	obj	33	obj
+36	ou	ou	CC	CC		35	coord	35	coord
+37	bloquer	bloquer	VINF	VINF	t=W	36	dep_coord	36	dep_coord
+38	cette	cette	DET	DET	n=s|g=f	39	det	39	det
+39	personne	personne	NC	NC	n=s|g=f	37	obj	37	obj
+40	"	"	PONCT	PONCT		39	ponct	39	ponct
+41	.	.	PONCT	PONCT		39	ponct	39	ponct
+
+1	"	"	PONCT	PONCT		0	ponct	0	ponct
+2	Cocher	_	NPP	NPP		4	suj	4	suj
+3	"	"	PONCT	PONCT		2	ponct	2	ponct
+4	Bloquer	bloquer	VINF	VINF	t=W	0	root	0	root
+5	"	"	PONCT	PONCT		4	ponct	4	ponct
+6	dans	dans	P	P		4	mod	4	mod
+7	la	la	DET	DET	n=s|g=f	8	det	8	det
+8	fenêtre	fenêtre	NC	NC	n=s|g=f	6	prep	6	prep
+9	qui	qui	PROREL	PROREL	n=s	11	suj	11	suj
+10	s'	se	CLR	CLR	n=p,s|p=3	11	aff	11	aff
+11	affiche	afficher	V	V	n=s|t=P,S|p=1,3	4	mod	4	mod
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+</p><p>
+1	Tu	tu	CLS	CLS	n=s|p=2	2	suj	2	suj
+2	dois	devoir	V	V	n=s|t=P|p=1,2	0	root	0	root
+3	créer	créer	VINF	VINF	t=W	2	obj	2	obj
+4	des	des	DET	DET	n=p	5	det	5	det
+5	listes	liste	NC	NC	n=p|g=f	3	obj	3	obj
+6	d'	de	P	P		5	dep	5	dep
+7	amis	ami	NC	NC	n=p|g=m	6	prep	6	prep
+8	personnalisées	personnaliser	VPP	VPP	n=p|g=f|t=K	5	mod	5	mod
+9	et	et	CC	CC		3	coord	3	coord
+10	utiliser	utiliser	VINF	VINF	t=W	9	dep_coord	9	dep_coord
+11	les	les	DET	DET	n=p	12	det	12	det
+12	listes	liste	NC	NC	n=p|g=f	10	obj	10	obj
+13	Restreint	_	NPP	NPP		12	mod	12	mod
+14	et	et	CC	CC		13	coord	13	coord
+15	Connaissances	_	NPP	NPP		14	dep_coord	14	dep_coord
+16	:	:	PONCT	PONCT		15	ponct	15	ponct
+17	lorsque	lorsque	CS	CS		2	mod	2	mod
+18	tu	_	NC	NC		34	suj	34	suj
+19	publies	_	NC	NC		18	mod	18	mod
+20	un	un	DET	DET	n=s|g=m	21	det	21	det
+21	statut	statut	NC	NC	n=s|g=m	18	mod	18	mod
+22	sur	sur	P	P		21	dep	21	dep
+23	la	la	DET	DET	n=s|g=f	24	det	24	det
+24	qualité	qualité	NC	NC	n=s|g=f	22	prep	22	prep
+25	de	de	P	P		21	dep	21	dep
+26	vos	vos	DET	DET	n=p|p=2|poss=p	27	det	27	det
+27	vacances	vacance	NC	NC	n=p|g=f	25	prep	25	prep
+28	,	,	PONCT	PONCT		27	ponct	27	ponct
+29	la	la	DET	DET	n=s|g=f	30	det	30	det
+30	liste	liste	NC	NC	n=s|g=f	34	suj	34	suj
+31	"	"	PONCT	PONCT		30	ponct	30	ponct
+32	Hiérarchie	hiérarchie	NC	NC	n=s|g=f	30	mod	30	mod
+33	"	"	PONCT	PONCT		32	ponct	32	ponct
+34	est	être	V	V	n=s|t=P|p=3	17	sub	17	sub
+35	sans	sans	P	P		34	mod	34	mod
+36	doute	doute	NC	NC	n=s|g=m	35	prep	35	prep
+37	à	à	P	P		34	mod	34	mod
+38	exclure	exclure	VINF	VINF	t=W	37	prep	37	prep
+39	de	de	P	P		38	mod	38	mod
+40	l'	le	DET	DET	n=s	41	det	41	det
+41	audience	audience	NC	NC	n=s|g=f	39	prep	39	prep
+42	de	de	P	P		38	mod	38	mod
+43	cette	cette	DET	DET	n=s|g=f	44	det	44	det
+44	publication	publication	NC	NC	n=s|g=f	42	prep	42	prep
+45	.	.	PONCT	PONCT		44	ponct	44	ponct
+
+</p><p>
+1	confidentialité	confidentialité	NC	NC	n=s|g=f	7	suj	7	suj
+2	:	:	PONCT	PONCT		1	ponct	1	ponct
+3	caractère	caractère	NC	NC	n=s|g=m	1	mod	1	mod
+4	de	de	P	P		3	dep	3	dep
+5	ce	ce	PRO	PRO	n=s	4	prep	4	prep
+6	qui	qui	PROREL	PROREL	n=s	7	suj	7	suj
+7	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+8	confidentiel	confidentiel	ADJ	ADJ	n=s|g=m	7	ats	7	ats
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	qui	qui	PROREL	PROREL	n=s	12	suj	12	suj
+11	ne	ne	ADV	ADV		12	mod	12	mod
+12	doit	devoir	V	V	n=s|t=P|p=3	7	mod	7	mod
+13	pas	pas	ADV	ADV		12	mod	12	mod
+14	être	être	VINF	VINF	t=W	12	obj	12	obj
+15	rapporté	rapporter	VPP	VPP	n=s|g=m|t=K	14	dep	14	dep
+16	publiquement	_	ADV	ADV		15	mod	15	mod
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+</p><h2>
+1	Sitographie	_	NPP	NPP		0	_	0	_
+
+</h2><p>
+1	Paramètres	paramètre	NC	NC	n=p|g=m	0	_	0	_
+2	de	de	P	P		1	dep	1	dep
+3	confidentialité	confidentialité	NC	NC	n=s|g=f	2	prep	2	prep
+4	Facebook	_	NPP	NPP		3	mod	3	mod
+5	-	-	PONCT	PONCT		4	ponct	4	ponct
+6	Comment	comment	ADVWH	ADVWH		0	_	0	_
+7	Ça	_	NPP	NPP		0	_	0	_
+8	Marche.net	$URL$	NPP	NPP		7	mod	7	mod
+
+</p><p>
+1	CDI	_	NPP	NPP		0	_	0	_
+2	Collège	_	NPP	NPP		1	mod	1	mod
+3	St	_	NPP	NPP		1	mod	1	mod
+4	Amand	_	NPP	NPP		1	mod	1	mod
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	Bayonne-64	_	NC	NC		1	mod	1	mod
+
+</p><p>
+1	*	*	PONCT	PONCT		0	ponct	0	ponct
+2	Traces	trace	NC	NC	n=p|g=f	0	_	0	_
+3	volontaires	volontaire	ADJ	ADJ	n=p	2	mod	2	mod
+
+</p><h2>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	liberté	liberté	NC	NC	n=s|g=f	0	_	0	_
+3	d'	de	P	P		2	dep	2	dep
+4	expression	expression	NC	NC	n=s|g=f	3	prep	3	prep
+5	sur	sur	P	P		2	dep	2	dep
+6	le	le	DET	DET	n=s|g=m	7	det	7	det
+7	Net	net	NC	NC	n=s|g=m	5	prep	5	prep
+
+</h2><p>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	liberté	liberté	NC	NC	n=s|g=f	0	_	0	_
+3	d’	de	P	P		2	dep	2	dep
+4	expression	expression	NC	NC	n=s|g=f	3	prep	3	prep
+5	sur	sur	P	P		2	dep	2	dep
+6	le	le	DET	DET	n=s|g=m	7	det	7	det
+7	net	net	ADJ	ADJ	n=s|g=m	5	prep	5	prep
+8	…	…	PONCT	PONCT		7	ponct	7	ponct
+
+</p><p>
+1	Internet	internet	NC	NC	n=s|g=m	2	suj	2	suj
+2	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+3	en	en	P	P		2	mod	2	mod
+4	effet	effet	NC	NC	n=s|g=m	3	prep	3	prep
+5	un	un	DET	DET	n=s|g=m	0	_	0	_
+6	des	de	P+D	P+D	n=p	5	dep	5	dep
+7	rares	rare	ADJ	ADJ	n=p	8	mod	8	mod
+8	médias	média	NC	NC	n=p|g=m	6	prep	6	prep
+9	où	où	PROREL	PROREL		12	mod	12	mod
+10	tout	tout	ADV	ADV		11	mod	11	mod
+11	citoyen	citoyen	NC	NC	n=s|g=m	12	suj	12	suj
+12	peut	pouvoir	V	V	n=s|t=P|p=3	8	mod_rel	8	mod_rel
+13	-	-	PONCT	PONCT		12	ponct	12	ponct
+14	avec	avec	P	P		12	mod	12	mod
+15	des	des	DET	DET	n=p	16	det	16	det
+16	moyens	moyen	NC	NC	n=p|g=m	14	prep	14	prep
+17	modestes	modeste	ADJ	ADJ	n=p	16	mod	16	mod
+18	-	-	PONCT	PONCT		17	ponct	17	ponct
+19	exprimer	exprimer	VINF	VINF	t=W	12	obj	12	obj
+20	ses	ses	DET	DET	n=p|p=3|poss=s	21	det	21	det
+21	opinions	opinion	NC	NC	n=p|g=f	19	obj	19	obj
+22	à	à	P	P		19	mod	19	mod
+23	un	un	DET	DET	n=s|g=m	24	det	24	det
+24	niveau	niveau	NC	NC	n=s|g=m	22	prep	22	prep
+25	mondial	mondial	ADJ	ADJ	n=s|g=m	24	mod	24	mod
+26	,	,	PONCT	PONCT		25	ponct	25	ponct
+27	sans	sans	P	P		19	mod	19	mod
+28	interdiction	interdiction	NC	NC	n=s|g=f	27	prep	27	prep
+29	.	.	PONCT	PONCT		28	ponct	28	ponct
+
+1	Cet	cet	DET	DET	n=s|g=m	2	det	2	det
+2	état	état	NC	NC	n=s|g=m	5	suj	5	suj
+3	de	de	P	P		2	dep	2	dep
+4	fait	fait	NC	NC	n=s|g=m	3	prep	3	prep
+5	semble	sembler	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+6	effrayer	effrayer	VINF	VINF	t=W	5	obj	5	obj
+7	certains	certain	DET	DET	n=p|g=m	10	det	10	det
+8	politiques	politique	ADJ	ADJ	n=p	10	mod	10	mod
+9	et	et	CC	CC		8	coord	8	coord
+10	organismes	organisme	NC	NC	n=p|g=m	6	obj	6	obj
+11	gouvernementaux	gouvernemental	ADJ	ADJ	n=p|g=m	10	mod	10	mod
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+1	Et	et	CC	CC		0	root	0	root
+2	pourtant	pourtant	ADV	ADV		0	_	0	_
+3	:	:	PONCT	PONCT		2	ponct	2	ponct
+4	Déclaration	déclaration	NC	NC	n=s|g=f	0	_	0	_
+5	universelle	universel	ADJ	ADJ	n=s|g=f	4	mod	4	mod
+6	des	de	P+D	P+D	n=p	4	dep	4	dep
+7	droits	droit	NC	NC	n=p|g=m	6	prep	6	prep
+8	de	de	P	P		4	dep	4	dep
+9	l'	le	DET	DET	n=s	10	det	10	det
+10	homme	homme	NC	NC	n=s|g=m	8	prep	8	prep
+11	(	(	PONCT	PONCT		10	ponct	10	ponct
+12	décembre	décembre	NC	NC	n=s|g=m	4	mod	4	mod
+13	1948	1948	NC	NC		12	mod	12	mod
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	Assemblée	_	NPP	NPP		0	_	0	_
+16	générale	général	ADJ	ADJ	n=s|g=f	15	mod	15	mod
+17	de	de	P	P		15	dep	15	dep
+18	l'	le	DET	DET	n=s	19	det	19	det
+19	ONU	O.N.U.	NC	NC	n=s|g=f	17	prep	17	prep
+20	)	)	PONCT	PONCT		19	ponct	19	ponct
+
+</p><p>
+1	Article	article	NC	NC	n=s|g=m	0	_	0	_
+2	11	11	ADJ	ADJ		1	mod	1	mod
+3	.	.	PONCT	PONCT		2	ponct	2	ponct
+
+1	-	-	PONCT	PONCT		0	ponct	0	ponct
+2	La	la	DET	DET	n=s|g=f	4	det	4	det
+3	libre	libre	ADJ	ADJ	n=s	4	mod	4	mod
+4	communication	communication	NC	NC	n=s|g=f	10	suj	10	suj
+5	des	de	P+D	P+D	n=p	4	dep	4	dep
+6	pensées	pensée	NC	NC	n=p|g=f	5	prep	5	prep
+7	et	et	CC	CC		5	coord	5	coord
+8	des	de	P+D	P+D	n=p	7	dep_coord	7	dep_coord
+9	opinions	opinion	NC	NC	n=p|g=f	8	prep	8	prep
+10	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+11	un	un	DET	DET	n=s|g=m	22	det	22	det
+12	des	de	P+D	P+D	n=p	11	dep	11	dep
+13	droits	droit	NC	NC	n=p|g=m	12	prep	12	prep
+14	les	les	DET	DET	n=p	16	det	16	det
+15	plus	plus	ADV	ADV		16	mod	16	mod
+16	précieux	précieux	ADJ	ADJ	g=m	13	mod	13	mod
+17	de	de	P	P		13	dep	13	dep
+18	l'	le	DET	DET	n=s	19	det	19	det
+19	homme	homme	NC	NC	n=s|g=m	17	prep	17	prep
+20	;	;	PONCT	PONCT		19	ponct	19	ponct
+21	tout	tout	ADV	ADV		22	mod	22	mod
+22	citoyen	citoyen	NC	NC	n=s|g=m	23	suj	23	suj
+23	peut	pouvoir	V	V	n=s|t=P|p=3	10	mod	10	mod
+24	donc	donc	ADV	ADV		23	mod	23	mod
+25	parler	parler	VINF	VINF	t=W	23	obj	23	obj
+26	,	,	PONCT	PONCT		25	ponct	25	ponct
+27	écrire	écrire	VINF	VINF	t=W	25	obj	25	obj
+28	,	,	PONCT	PONCT		27	ponct	27	ponct
+29	imprimer	imprimer	VINF	VINF	t=W	27	obj	27	obj
+30	librement	_	ADV	ADV		29	mod	29	mod
+31	,	,	PONCT	PONCT		30	ponct	30	ponct
+32	sauf	sauf	P	P		29	mod	29	mod
+33	à	à	P	P		32	dep	32	dep
+34	répondre	répondre	VINF	VINF	t=W	33	prep	33	prep
+35	de	de	P	P		34	mod	34	mod
+36	l'	le	DET	DET	n=s	37	det	37	det
+37	abus	abus	NC	NC	g=m	35	prep	35	prep
+38	de	de	P	P		34	mod	34	mod
+39	cette	cette	DET	DET	n=s|g=f	40	det	40	det
+40	liberté	liberté	NC	NC	n=s|g=f	38	prep	38	prep
+41	dans	dans	P	P		34	mod	34	mod
+42	les	les	DET	DET	n=p	43	det	43	det
+43	cas	cas	NC	NC	g=m	41	prep	41	prep
+44	déterminés	déterminer	VPP	VPP	n=p|g=m|t=K	43	mod	43	mod
+45	par	par	P	P		44	mod	44	mod
+46	la	la	DET	DET	n=s|g=f	47	det	47	det
+47	loi	loi	NC	NC	n=s|g=f	45	prep	45	prep
+48	.	.	PONCT	PONCT		47	ponct	47	ponct
+
+</p><p>
+1	Article	article	NC	NC	n=s|g=m	0	_	0	_
+2	19	19	ADJ	ADJ		1	mod	1	mod
+3	.	.	PONCT	PONCT		2	ponct	2	ponct
+
+1	-	-	PONCT	PONCT		0	ponct	0	ponct
+2	Tout	tout	DET	DET	n=s|g=m	3	det	3	det
+3	individu	individu	NC	NC	n=s|g=m	4	suj	4	suj
+4	a	avoir	V	V	n=s|t=P|p=3	0	root	0	root
+5	droit	droit	NC	NC	n=s|g=m	4	obj	4	obj
+6	à	à	P	P		4	mod	4	mod
+7	la	la	DET	DET	n=s|g=f	8	det	8	det
+8	liberté	liberté	NC	NC	n=s|g=f	6	prep	6	prep
+9	d'	de	P	P		4	mod	4	mod
+10	opinion	opinion	NC	NC	n=s|g=f	9	prep	9	prep
+11	et	et	CC	CC		9	coord	9	coord
+12	d'	de	P	P		11	dep_coord	11	dep_coord
+13	expression	expression	NC	NC	n=s|g=f	12	prep	12	prep
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	ce	ce	PRO	PRO	n=s	4	mod	4	mod
+16	qui	qui	PROREL	PROREL	n=s	17	suj	17	suj
+17	implique	impliquer	V	V	n=s|t=P,S|p=1,3	15	mod_rel	15	mod_rel
+18	le	le	DET	DET	n=s|g=m	19	det	19	det
+19	droit	droit	NC	NC	n=s|g=m	17	obj	17	obj
+20	de	de	P	P		17	mod	17	mod
+21	ne	ne	ADV	ADV		22	mod	22	mod
+22	pas	pas	ADV	ADV		23	mod	23	mod
+23	être	être	VINF	VINF	t=W	24	aux_pass	24	aux_pass
+24	inquiété	inquiéter	VPP	VPP	n=s|g=m|t=K	20	prep	20	prep
+25	pour	pour	P	P		24	mod	24	mod
+26	ses	ses	DET	DET	n=p|p=3|poss=s	27	det	27	det
+27	opinions	opinion	NC	NC	n=p|g=f	25	prep	25	prep
+28	et	et	CC	CC		15	coord	15	coord
+29	celui	celui	PRO	PRO	n=s|g=m	28	dep_coord	28	dep_coord
+30	de	de	P	P		29	dep	29	dep
+31	chercher	chercher	VINF	VINF	t=W	30	prep	30	prep
+32	,	,	PONCT	PONCT		31	ponct	31	ponct
+33	de	de	P	P		4	mod	4	mod
+34	recevoir	recevoir	VINF	VINF	t=W	33	prep	33	prep
+35	et	et	CC	CC		33	coord	33	coord
+36	de	de	P	P		35	dep_coord	35	dep_coord
+37	répandre	répandre	VINF	VINF	t=W	36	prep	36	prep
+38	,	,	PONCT	PONCT		37	ponct	37	ponct
+39	sans	sans	P	P		4	mod	4	mod
+40	considérations	considération	NC	NC	n=p|g=f	39	prep	39	prep
+41	de	de	P	P		4	mod	4	mod
+42	frontières	frontière	NC	NC	n=p|g=f	41	prep	41	prep
+43	,	,	PONCT	PONCT		42	ponct	42	ponct
+44	les	les	DET	DET	n=p	45	det	45	det
+45	informations	information	NC	NC	n=p|g=f	0	_	0	_
+46	et	et	CC	CC		45	coord	45	coord
+47	les	les	DET	DET	n=p	48	det	48	det
+48	idées	idée	NC	NC	n=p|g=f	46	dep_coord	46	dep_coord
+49	par	par	P	P		48	dep	48	dep
+50	quelque	quelque	DET	DET	n=s	51	det	51	det
+51	moyen	moyen	NC	NC	n=s|g=m	49	prep	49	prep
+52	d'	de	P	P		51	dep	51	dep
+53	expression	expression	NC	NC	n=s|g=f	52	prep	52	prep
+54	que	que	CS	CS		45	mod	45	mod
+55	ce	ce	CLS	CLS		56	suj	56	suj
+56	soit	être	VS	VS	n=s|t=S|p=3	54	sub	54	sub
+57	.	.	PONCT	PONCT		56	ponct	56	ponct
+
+</p><p>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	liberté	liberté	NC	NC	n=s|g=f	6	suj	6	suj
+3	d’	de	P	P		2	dep	2	dep
+4	expression	expression	NC	NC	n=s|g=f	3	prep	3	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+7	-elle	elle	CLS	CLS	n=s|g=f|p=3	6	suj	6	suj
+8	valable	valable	ADJ	ADJ	n=s	6	ats	6	ats
+9	partout	partout	ADV	ADV		6	mod	6	mod
+10	dans	dans	P	P		6	mod	6	mod
+11	le	le	DET	DET	n=s|g=m	12	det	12	det
+12	monde	monde	NC	NC	n=s|g=m	10	prep	10	prep
+13	?	?	PONCT	PONCT		12	ponct	12	ponct
+
+1	Malheureusement	_	ADV	ADV		2	mod	2	mod
+2	non	_	I	I		0	root	0	root
+3	!	!	PONCT	PONCT		2	ponct	2	ponct
+
+1	Certains	certain	DET	DET	n=p|g=m	2	det	2	det
+2	pays	pays	NC	NC	g=m	3	suj	3	suj
+3	ont	avoir	V	V	n=p|t=P|p=3	0	root	0	root
+4	une	une	DET	DET	n=s|g=f	5	det	5	det
+5	vision	vision	NC	NC	n=s|g=f	3	obj	3	obj
+6	de	de	P	P		3	mod	3	mod
+7	la	la	DET	DET	n=s|g=f	8	det	8	det
+8	liberté	liberté	NC	NC	n=s|g=f	6	prep	6	prep
+9	très	très	ADV	ADV		10	mod	10	mod
+10	poussée	pousser	VPP	VPP	n=s|g=f|t=K	8	mod	8	mod
+11	tandis	tandis	P	P		10	mod	10	mod
+12	que	que	CS	CS		11	prep	11	prep
+13	d’	de	DET	DET	n=p	14	det	14	det
+14	autres	autres	PRO	PRO	n=p|g=f,m	15	suj	15	suj
+15	sont	être	V	V	n=p|t=P|p=3	12	sub	12	sub
+16	très	très	ADV	ADV		17	mod	17	mod
+17	restrictifs	restrictif	ADJ	ADJ	n=p|g=m	15	ats	15	ats
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	dans	dans	P	P		15	mod	15	mod
+20	le	le	DET	DET	n=s|g=m	21	det	21	det
+21	domaine	domaine	NC	NC	n=s|g=m	19	prep	19	prep
+22	de	de	P	P		15	mod	15	mod
+23	la	la	DET	DET	n=s|g=f	24	det	24	det
+24	liberté	liberté	NC	NC	n=s|g=f	22	prep	22	prep
+25	d’	de	P	P		15	mod	15	mod
+26	expression	expression	NC	NC	n=s|g=f	25	prep	25	prep
+27	.	.	PONCT	PONCT		26	ponct	26	ponct
+
+</p><h2>
+1	L’	le	DET	DET	n=s	2	det	2	det
+2	usurpation	usurpation	NC	NC	n=s|g=f	0	_	0	_
+3	d’	de	P	P		2	dep	2	dep
+4	identité	identité	NC	NC	n=s|g=f	3	prep	3	prep
+
+</h2><p>
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	usurpation	usurpation	NC	NC	n=s|g=f	8	suj	8	suj
+3	d'	de	P	P		2	dep	2	dep
+4	identité	identité	NC	NC	n=s|g=f	3	prep	3	prep
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	qui	qui	PROREL	PROREL	n=s	8	suj	8	suj
+7	ne	ne	ADV	ADV		8	mod	8	mod
+8	veut	vouloir	V	V	n=s|t=P|p=3	0	root	0	root
+9	pas	pas	ADV	ADV		8	mod	8	mod
+10	dire	dire	VINF	VINF	t=W	8	obj	8	obj
+11	vol	vol	NC	NC	n=s|g=m	10	obj	10	obj
+12	d’	de	P	P		10	mod	10	mod
+13	identité	identité	NC	NC	n=s|g=f	12	prep	12	prep
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	est	être	V	V	n=s|t=P|p=3	8	mod	8	mod
+16	le	le	DET	DET	n=s|g=m	17	det	17	det
+17	fait	fait	NC	NC	n=s|g=m	15	suj	15	suj
+18	de	de	P	P		15	mod	15	mod
+19	prendre	prendre	VINF	VINF	t=W	18	prep	18	prep
+20	sans	sans	P	P		19	mod	19	mod
+21	son	son	DET	DET	n=s|g=m|p=3|poss=s	22	det	22	det
+22	accord	accord	NC	NC	n=s|g=m	20	prep	20	prep
+23	l'	le	DET	DET	n=s	24	det	24	det
+24	identité	identité	NC	NC	n=s|g=f	19	obj	19	obj
+25	d'	de	P	P		24	dep	24	dep
+26	une	une	DET	DET	n=s|g=f	28	det	28	det
+27	autre	autre	ADJ	ADJ	n=s	28	mod	28	mod
+28	personne	personne	NC	NC	n=s|g=f	25	prep	25	prep
+29	vivante	vivant	ADJ	ADJ	n=s|g=f	28	mod	28	mod
+30	,	,	PONCT	PONCT		29	ponct	29	ponct
+31	généralement	_	ADV	ADV		32	mod	32	mod
+32	dans	dans	P	P		15	mod	15	mod
+33	le	le	DET	DET	n=s|g=m	34	det	34	det
+34	but	but	NC	NC	n=s|g=m	32	prep	32	prep
+35	de	de	P	P		15	mod	15	mod
+36	réaliser	réaliser	VINF	VINF	t=W	35	prep	35	prep
+37	des	des	DET	DET	n=p	39	det	39	det
+38	mauvaises	mauvais	ADJ	ADJ	n=p|g=f	39	mod	39	mod
+39	actions	action	NC	NC	n=p|g=f	36	obj	36	obj
+40	commerciales	commercial	ADJ	ADJ	n=p|g=f	39	mod	39	mod
+41	,	,	PONCT	PONCT		40	ponct	40	ponct
+42	civiles	civil	ADJ	ADJ	n=p|g=f	39	mod	39	mod
+43	ou	ou	CC	CC		35	coord	35	coord
+44	en	en	P	P		43	dep_coord	43	dep_coord
+45	rapport	rapport	NC	NC	n=s|g=m	44	prep	44	prep
+46	avec	avec	P	P		15	mod	15	mod
+47	la	la	DET	DET	n=s|g=f	48	det	48	det
+48	loi	loi	NC	NC	n=s|g=f	46	prep	46	prep
+49	,	,	PONCT	PONCT		48	ponct	48	ponct
+50	ou	ou	CC	CC		15	coord	15	coord
+51	de	de	P	P		50	dep_coord	50	dep_coord
+52	commettre	commettre	VINF	VINF	t=W	51	prep	51	prep
+53	en	en	P	P		52	mod	52	mod
+54	son	son	DET	DET	n=s|g=m|p=3|poss=s	55	det	55	det
+55	nom	nom	NC	NC	n=s|g=m	53	prep	53	prep
+56	un	un	DET	DET	n=s|g=m	57	det	57	det
+57	délit	délit	NC	NC	n=s|g=m	52	obj	52	obj
+58	ou	ou	CC	CC		57	coord	57	coord
+59	un	un	DET	DET	n=s|g=m	60	det	60	det
+60	crime	crime	NC	NC	n=s|g=m	58	dep_coord	58	dep_coord
+61	,	,	PONCT	PONCT		60	ponct	60	ponct
+62	ou	ou	CC	CC		51	coord	51	coord
+63	d'	de	P	P		62	dep_coord	62	dep_coord
+64	accéder	accéder	VINF	VINF	t=W	63	prep	63	prep
+65	à	à	P	P		64	mod	64	mod
+66	des	des	DET	DET	n=p	67	det	67	det
+67	droits	droit	NC	NC	n=p|g=m	65	prep	65	prep
+68	de	de	P	P		67	dep	67	dep
+69	façon	façon	NC	NC	n=s|g=f	68	prep	68	prep
+70	exagérée	exagérer	VPP	VPP	n=s|g=f|t=K	69	mod	69	mod
+71	.	.	PONCT	PONCT		70	ponct	70	ponct
+
+</p><p>
+1	L’	le	DET	DET	n=s	2	det	2	det
+2	usurpation	usurpation	NC	NC	n=s|g=f	5	suj	5	suj
+3	d’	de	P	P		2	dep	2	dep
+4	identité	identité	NC	NC	n=s|g=f	3	prep	3	prep
+5	débute	débuter	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+6	toujours	toujours	ADV	ADV		5	mod	5	mod
+7	par	par	P	P		5	mod	5	mod
+8	la	la	DET	DET	n=s|g=f	9	det	9	det
+9	collecte	collecte	NC	NC	n=s|g=f	7	prep	7	prep
+10	de	de	P	P		5	mod	5	mod
+11	renseignements	renseignement	NC	NC	n=p|g=m	10	prep	10	prep
+12	personnels	personnel	NC	NC	n=p|g=m	11	mod	11	mod
+13	sur	sur	P	P		5	mod	5	mod
+14	la	la	DET	DET	n=s|g=f	15	det	15	det
+15	victime	victime	NC	NC	n=s|g=f	13	prep	13	prep
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	renseignements	renseignement	NC	NC	n=p|g=m	4	suj	4	suj
+3	personnels	personnel	NC	NC	n=p|g=m	2	mod	2	mod
+4	peuvent	pouvoir	V	V	n=p|t=P|p=3	0	root	0	root
+5	être	être	VINF	VINF	t=W	4	obj	4	obj
+6	le	le	DET	DET	n=s|g=m	7	det	7	det
+7	nom	nom	NC	NC	n=s|g=m	5	obj	5	obj
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	le	le	DET	DET	n=s|g=m	10	det	10	det
+10	numéro	numéro	NC	NC	n=s|g=m	0	_	0	_
+11	de	de	P	P		10	dep	10	dep
+12	téléphone	téléphone	NC	NC	n=s|g=m	11	prep	11	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	la	la	DET	DET	n=s|g=f	15	det	15	det
+15	date	date	NC	NC	n=s|g=f	10	mod	10	mod
+16	de	de	P	P		15	dep	15	dep
+17	naissance	naissance	NC	NC	n=s|g=f	16	prep	16	prep
+18	,	,	PONCT	PONCT		17	ponct	17	ponct
+19	la	la	DET	DET	n=s|g=f	20	det	20	det
+20	famille	famille	NC	NC	n=s|g=f	15	coord	15	coord
+21	,	,	PONCT	PONCT		20	ponct	20	ponct
+22	l’	le	DET	DET	n=s	23	det	23	det
+23	adresse	adresse	NC	NC	n=s|g=f	20	coord	20	coord
+24	,	,	PONCT	PONCT		23	ponct	23	ponct
+25	le	le	DET	DET	n=s|g=m	26	det	26	det
+26	numéro	numéro	NC	NC	n=s|g=m	23	coord	23	coord
+27	d’	de	P	P		26	dep	26	dep
+28	assurance	assurance	NC	NC	n=s|g=f	27	prep	27	prep
+29	sociale	social	ADJ	ADJ	n=s|g=f	28	mod	28	mod
+30	,	,	PONCT	PONCT		29	ponct	29	ponct
+31	le	le	DET	DET	n=s|g=m	32	det	32	det
+32	numéro	numéro	NC	NC	n=s|g=m	26	coord	26	coord
+33	de	de	P	P		32	dep	32	dep
+34	carte	carte	NC	NC	n=s|g=f	33	prep	33	prep
+35	de	de	P	P		32	dep	32	dep
+36	crédit	crédit	NC	NC	n=s|g=m	35	prep	35	prep
+37	,	,	PONCT	PONCT		36	ponct	36	ponct
+38	le	le	DET	DET	n=s|g=m	39	det	39	det
+39	mot	mot	NC	NC	n=s|g=m	32	coord	32	coord
+40	de	de	P	P		39	dep	39	dep
+41	passe	passe	NC	NC	n=s	40	prep	40	prep
+42	de	de	P	P		39	dep	39	dep
+43	carte	carte	NC	NC	n=s|g=f	42	prep	42	prep
+44	de	de	P	P		43	dep	43	dep
+45	crédit	crédit	NC	NC	n=s|g=m	44	prep	44	prep
+46	ou	ou	CC	CC		44	coord	44	coord
+47	de	de	P	P		46	dep_coord	46	dep_coord
+48	débit	débit	NC	NC	n=s|g=m	47	prep	47	prep
+49	ou	ou	CC	CC		39	coord	39	coord
+50	toute	toute	DET	DET	n=s|g=f	52	det	52	det
+51	autre	autre	ADJ	ADJ	n=s	52	mod	52	mod
+52	information	information	NC	NC	n=s|g=f	49	dep_coord	49	dep_coord
+53	permettant	permettre	VPR	VPR	t=G	52	mod	52	mod
+54	d’	de	P	P		53	obj	53	obj
+55	identifier	identifier	VINF	VINF	t=W	54	prep	54	prep
+56	la	la	DET	DET	n=s|g=f	57	det	57	det
+57	personne	personne	NC	NC	n=s|g=f	55	obj	55	obj
+58	.	.	PONCT	PONCT		57	ponct	57	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	victime	victime	NC	NC	n=s|g=f	8	suj	8	suj
+3	de	de	P	P		2	dep	2	dep
+4	l'	le	DET	DET	n=s	5	det	5	det
+5	usurpation	usurpation	NC	NC	n=s|g=f	3	prep	3	prep
+6	d'	de	P	P		5	dep	5	dep
+7	identité	identité	NC	NC	n=s|g=f	6	prep	6	prep
+8	reste	rester	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+9	vivante	vivant	ADJ	ADJ	n=s|g=f	8	ats	8	ats
+10	,	,	PONCT	PONCT		9	ponct	9	ponct
+11	et	et	CC	CC		8	coord	8	coord
+12	possède	posséder	V	V	n=s|t=P,S|p=1,3	11	dep_coord	11	dep_coord
+13	donc	donc	ADV	ADV		12	mod	12	mod
+14	la	la	DET	DET	n=s|g=f	15	det	15	det
+15	possibilité	possibilité	NC	NC	n=s|g=f	12	obj	12	obj
+16	de	de	P	P		12	mod	12	mod
+17	défendre	défendre	VINF	VINF	t=W	16	prep	16	prep
+18	ses	ses	DET	DET	n=p|p=3|poss=s	19	det	19	det
+19	droits	droit	NC	NC	n=p|g=m	17	obj	17	obj
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+</p><p>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	usurpateurs	usurpateur	NC	NC	n=p|g=m	3	suj	3	suj
+3	utilisent	utiliser	V	V	n=p|t=P,S|p=3	0	root	0	root
+4	ensuite	ensuite	ADV	ADV		3	mod	3	mod
+5	ces	ces	DET	DET	n=p	6	det	6	det
+6	informations	information	NC	NC	n=p|g=f	3	obj	3	obj
+7	pour	pour	P	P		3	mod	3	mod
+8	effectuer	effectuer	VINF	VINF	t=W	7	prep	7	prep
+9	un	un	DET	DET	n=s|g=m	12	det	12	det
+10	ou	ou	CC	CC		9	coord	9	coord
+11	plusieurs	plusieurs	DET	DET	n=p	10	dep_coord	10	dep_coord
+12	transferts	transfert	NC	NC	n=p|g=m	8	obj	8	obj
+13	en	en	P	P		3	mod	3	mod
+14	simulant	simuler	VPR	VPR	t=G	13	prep	13	prep
+15	l’	le	DET	DET	n=s	16	det	16	det
+16	identité	identité	NC	NC	n=s|g=f	14	obj	14	obj
+17	de	de	P	P		14	mod	14	mod
+18	la	la	DET	DET	n=s|g=f	19	det	19	det
+19	personne	personne	NC	NC	n=s|g=f	17	prep	17	prep
+20	fraudée	frauder	VPP	VPP	n=s|g=f|t=K	19	mod	19	mod
+21	.	.	PONCT	PONCT		20	ponct	20	ponct
+
+</p><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	vol	vol	NC	NC	n=s|g=m	5	suj	5	suj
+3	d'	de	P	P		2	dep	2	dep
+4	identité	identité	NC	NC	n=s|g=f	3	prep	3	prep
+5	suppose	supposer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+6	un	un	DET	DET	n=s|g=m	7	det	7	det
+7	acte	acte	NC	NC	n=s|g=m	5	obj	5	obj
+8	criminel	criminel	ADJ	ADJ	n=s|g=m	7	mod	7	mod
+9	connexe	connexe	ADJ	ADJ	n=s	7	mod	7	mod
+10	.	.	PONCT	PONCT		9	ponct	9	ponct
+
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	victime	victime	NC	NC	n=s|g=f	7	suj	7	suj
+3	,	,	PONCT	PONCT		2	ponct	2	ponct
+4	décédée	décéder	VPP	VPP	n=s|g=f|t=K	2	mod	2	mod
+5	,	,	PONCT	PONCT		4	ponct	4	ponct
+6	n'	ne	ADV	ADV		7	mod	7	mod
+7	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+8	plus	plus	ADV	ADV		7	mod	7	mod
+9	en	en	P	P		7	mod	7	mod
+10	mesure	mesure	NC	NC	n=s|g=f	9	prep	9	prep
+11	de	de	P	P		7	mod	7	mod
+12	recouvrer	recouvrer	VINF	VINF	t=W	11	prep	11	prep
+13	ses	ses	DET	DET	n=p|p=3|poss=s	14	det	14	det
+14	droits	droit	NC	NC	n=p|g=m	12	obj	12	obj
+15	.	.	PONCT	PONCT		14	ponct	14	ponct
+
+1	Elle	elle	CLS	CLS	n=s|g=f|p=3	4	suj	4	suj
+2	est	être	V	V	n=s|t=P|p=3	4	aux_pass	4	aux_pass
+3	généralement	_	ADV	ADV		4	mod	4	mod
+4	enterrée	enterrer	VPP	VPP	n=s|g=f|t=K	0	root	0	root
+5	avec	avec	P	P		4	mod	4	mod
+6	l'	le	DET	DET	n=s	7	det	7	det
+7	identité	identité	NC	NC	n=s|g=f	5	prep	5	prep
+8	de	de	P	P		4	mod	4	mod
+9	quelqu'	quelque	ADV	ADV		10	mod	10	mod
+10	un	un	PRO	PRO	n=s|g=m	8	prep	8	prep
+11	d'	de	P	P		4	mod	4	mod
+12	autre	autre	ADJ	ADJ	n=s	11	prep	11	prep
+13	.	.	PONCT	PONCT		12	ponct	12	ponct
+
+1	En	en	P	P		9	mod	9	mod
+2	cas	cas	NC	NC	g=m	1	prep	1	prep
+3	de	de	P	P		9	mod	9	mod
+4	vol	vol	NC	NC	n=s|g=m	3	prep	3	prep
+5	d'	de	P	P		4	dep	4	dep
+6	identité	identité	NC	NC	n=s|g=f	5	prep	5	prep
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	on	on	CLS	CLS	n=s|p=3	9	suj	9	suj
+9	observe	observer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+10	plusieurs	plusieurs	DET	DET	n=p	11	det	11	det
+11	types	type	NC	NC	n=p|g=m	9	obj	9	obj
+12	de	de	P	P		11	dep	11	dep
+13	cas	cas	NC	NC	g=m	12	prep	12	prep
+14	:	:	PONCT	PONCT		13	ponct	13	ponct
+15	des	des	DET	DET	n=p	16	det	16	det
+16	usurpateurs	usurpateur	NC	NC	n=p|g=m	17	suj	17	suj
+17	prennent	prendre	V	V	n=p|t=P,S|p=3	9	mod	9	mod
+18	la	la	DET	DET	n=s|g=f	19	det	19	det
+19	place	place	NC	NC	n=s|g=f	17	obj	17	obj
+20	de	de	P	P		17	mod	17	mod
+21	la	la	DET	DET	n=s|g=f	22	det	22	det
+22	victime	victime	NC	NC	n=s|g=f	20	prep	20	prep
+23	ou	ou	CC	CC		17	coord	17	coord
+24	bien	bien	ADV	ADV		26	mod	26	mod
+25	le	le	DET	DET	n=s|g=m	26	det	26	det
+26	cadavre	cadavre	NC	NC	n=s|g=m	23	dep_coord	23	dep_coord
+27	de	de	P	P		26	dep	26	dep
+28	la	la	DET	DET	n=s|g=f	29	det	29	det
+29	victime	victime	NC	NC	n=s|g=f	27	prep	27	prep
+30	sert	servir	V	V	n=s|t=P|p=3	29	mod_rel	29	mod_rel
+31	à	à	P	P		30	mod	30	mod
+32	confirmer	confirmer	VINF	VINF	t=W	31	prep	31	prep
+33	le	le	DET	DET	n=s|g=m	34	det	34	det
+34	décès	décès	NC	NC	g=m	32	obj	32	obj
+35	d'	de	P	P		32	mod	32	mod
+36	une	une	DET	DET	n=s|g=f	37	det	37	det
+37	personne	personne	NC	NC	n=s|g=f	35	prep	35	prep
+38	qui	qui	PROREL	PROREL	n=s	39	suj	39	suj
+39	souhaite	souhaiter	V	V	n=s|t=P,S|p=1,3	37	mod_rel	37	mod_rel
+40	disparaître	disparaître	VINF	VINF	t=W	39	obj	39	obj
+41	.	.	PONCT	PONCT		40	ponct	40	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	3	suj	3	suj
+2	ne	ne	ADV	ADV		3	mod	3	mod
+3	faut	falloir	V	V	n=s|t=P|p=3	0	root	0	root
+4	donc	donc	ADV	ADV		3	mod	3	mod
+5	pas	pas	ADV	ADV		3	mod	3	mod
+6	confondre	confondre	VINF	VINF	t=W	3	obj	3	obj
+7	le	le	DET	DET	n=s|g=m	8	det	8	det
+8	vol	vol	NC	NC	n=s|g=m	6	obj	6	obj
+9	d'	de	P	P		8	dep	8	dep
+10	identité	identité	NC	NC	n=s|g=f	9	prep	9	prep
+11	et	et	CC	CC		8	coord	8	coord
+12	l'	le	DET	DET	n=s	13	det	13	det
+13	usurpation	usurpation	NC	NC	n=s|g=f	11	dep_coord	11	dep_coord
+14	d'	de	P	P		13	dep	13	dep
+15	identité	identité	NC	NC	n=s|g=f	14	prep	14	prep
+16	.	.	PONCT	PONCT		15	ponct	15	ponct
+
+</p><p>
+1	Principales	principal	ADJ	ADJ	n=p|g=f	2	mod	2	mod
+2	techniques	technique	NC	NC	n=p|g=f	0	_	0	_
+3	utilisées	utiliser	VPP	VPP	n=p|g=f|t=K	2	mod	2	mod
+4	par	par	P	P		3	mod	3	mod
+5	les	les	DET	DET	n=p	6	det	6	det
+6	fraudeurs	fraudeur	NC	NC	n=p|g=m	4	prep	4	prep
+7	pour	pour	P	P		3	mod	3	mod
+8	obtenir	obtenir	VINF	VINF	t=W	7	prep	7	prep
+9	des	des	DET	DET	n=p	10	det	10	det
+10	renseignements	renseignement	NC	NC	n=p|g=m	8	obj	8	obj
+11	personnels	personnel	ADJ	ADJ	n=p|g=m	10	mod	10	mod
+12	:	:	PONCT	PONCT		11	ponct	11	ponct
+
+</p><p>
+1	le	le	DET	DET	n=s|g=m	2	det	2	det
+2	vol	vol	NC	NC	n=s|g=m	0	_	0	_
+3	:	:	PONCT	PONCT		2	ponct	2	ponct
+4	les	les	DET	DET	n=p	5	det	5	det
+5	porte	porte	NC	NC	n=s|g=f	0	_	0	_
+6	-	-	PONCT	PONCT		5	ponct	5	ponct
+7	monnaie	monnaie	NC	NC	n=s|g=f	5	mod	5	mod
+8	,	,	PONCT	PONCT		7	ponct	7	ponct
+9	les	les	DET	DET	n=p	10	det	10	det
+10	sacs	sac	NC	NC	n=p|g=m	5	mod	5	mod
+11	à	à	P	P		10	dep	10	dep
+12	main	main	NC	NC	n=s|g=f	11	prep	11	prep
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	les	les	DET	DET	n=p	15	det	15	det
+15	porte-documents	porte-documents	NC	NC	g=m	10	coord	10	coord
+16	,	,	PONCT	PONCT		15	ponct	15	ponct
+17	les	les	DET	DET	n=p	18	det	18	det
+18	ordinateurs	ordinateur	NC	NC	n=p|g=m	15	coord	15	coord
+19	et	et	CC	CC		18	coord	18	coord
+20	le	le	DET	DET	n=s|g=m	21	det	21	det
+21	courrier	courrier	NC	NC	n=s|g=m	19	dep_coord	19	dep_coord
+22	contiennent	contenir	V	V	n=p|t=P,S|p=3	21	mod_rel	21	mod_rel
+23	une	une	DET	DET	n=s|g=f	25	det	25	det
+24	grande	grand	ADJ	ADJ	n=s|g=f	25	mod	25	mod
+25	quantité	quantité	NC	NC	n=s|g=f	22	obj	22	obj
+26	de	de	P	P		25	dep	25	dep
+27	renseignements	renseignement	NC	NC	n=p|g=m	26	prep	26	prep
+28	personnels	personnel	NC	NC	n=p|g=m	27	mod	27	mod
+29	;	;	PONCT	PONCT		28	ponct	28	ponct
+
+</p><p>
+1	le	le	DET	DET	n=s|g=m	2	det	2	det
+2	vol	vol	NC	NC	n=s|g=m	9	suj	9	suj
+3	dans	dans	P	P		2	dep	2	dep
+4	les	les	DET	DET	n=p	5	det	5	det
+5	boîtes	boîte	NC	NC	n=p|g=f	3	prep	3	prep
+6	aux	à	P+D	P+D	n=p	2	dep	2	dep
+7	lettres	lettre	NC	NC	n=p|g=f	6	prep	6	prep
+8	:	:	PONCT	PONCT		7	ponct	7	ponct
+9	permet	permettre	V	V	n=s|t=P|p=3	0	root	0	root
+10	d'	de	P	P		9	obj	9	obj
+11	obtenir	obtenir	VINF	VINF	t=W	10	prep	10	prep
+12	des	des	DET	DET	n=p	13	det	13	det
+13	moyens	moyen	NC	NC	n=p|g=m	11	obj	11	obj
+14	de	de	P	P		13	dep	13	dep
+15	paiement	paiement	NC	NC	n=s|g=m	14	prep	14	prep
+16	(	(	PONCT	PONCT		15	ponct	15	ponct
+17	Carte	carte	NC	NC	n=s|g=f	9	mod	9	mod
+18	Bancaire	_	NPP	NPP		17	mod	17	mod
+19	,	,	PONCT	PONCT		18	ponct	18	ponct
+20	chéquier	chéquier	NC	NC	n=s|g=m	17	mod	17	mod
+21	)	)	PONCT	PONCT		20	ponct	20	ponct
+22	,	,	PONCT	PONCT		20	ponct	20	ponct
+23	des	des	DET	DET	n=p	24	det	24	det
+24	relevés	relevé	NC	NC	n=p|g=m	9	mod	9	mod
+25	d'	de	P	P		24	dep	24	dep
+26	identités	identité	NC	NC	n=p|g=f	25	prep	25	prep
+27	bancaires	bancaire	ADJ	ADJ	n=p	26	mod	26	mod
+28	,	,	PONCT	PONCT		27	ponct	27	ponct
+29	des	des	DET	DET	n=p	30	det	30	det
+30	factures	facture	NC	NC	n=p|g=f	24	mod	24	mod
+31	.	.	PONCT	PONCT		30	ponct	30	ponct
+
+1	Tout	tout	ADJ	ADJ	n=s|g=m	2	mod	2	mod
+2	cela	cela	PRO	PRO	n=s|g=m	4	suj	4	suj
+3	s'	se	CLR	CLR	n=p,s|p=3	4	aff	4	aff
+4	avère	avérer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+5	très	très	ADV	ADV		4	mod	4	mod
+6	utile	utile	ADJ	ADJ	n=s	4	ats	4	ats
+7	aux	à	P+D	P+D	n=p	4	mod	4	mod
+8	usurpateurs	usurpateur	NC	NC	n=p|g=m	7	prep	7	prep
+9	pour	pour	P	P		4	mod	4	mod
+10	obtenir	obtenir	VINF	VINF	t=W	9	prep	9	prep
+11	des	des	DET	DET	n=p	12	det	12	det
+12	crédits	crédit	NC	NC	n=p|g=m	10	obj	10	obj
+13	;	;	PONCT	PONCT		12	ponct	12	ponct
+
+</p><p>
+1	la	la	DET	DET	n=s|g=f	2	det	2	det
+2	fouille	fouille	NC	NC	n=s|g=f	7	suj	7	suj
+3	de	de	P	P		2	dep	2	dep
+4	poubelle	poubelle	NC	NC	n=s|g=f	3	prep	3	prep
+5	:	:	PONCT	PONCT		4	ponct	4	ponct
+6	on	on	CLS	CLS	n=s|p=3	7	suj	7	suj
+7	peut	pouvoir	V	V	n=s|t=P|p=3	0	root	0	root
+8	y	y	CLO	CLO		9	aff	9	aff
+9	trouver	trouver	VINF	VINF	t=W	7	obj	7	obj
+10	des	des	DET	DET	n=p	11	det	11	det
+11	relevés	relevé	NC	NC	n=p|g=m	9	obj	9	obj
+12	bancaires	bancaire	ADJ	ADJ	n=p	11	mod	11	mod
+13	,	,	PONCT	PONCT		12	ponct	12	ponct
+14	des	des	DET	DET	n=p	15	det	15	det
+15	relevés	relevé	NC	NC	n=p|g=m	7	mod	7	mod
+16	de	de	P	P		15	dep	15	dep
+17	carte	carte	NC	NC	n=s|g=f	16	prep	16	prep
+18	de	de	P	P		15	dep	15	dep
+19	crédit	crédit	NC	NC	n=s|g=m	18	prep	18	prep
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	des	des	DET	DET	n=p	22	det	22	det
+22	factures	facture	NC	NC	n=p|g=f	15	mod	15	mod
+23	,	,	PONCT	PONCT		22	ponct	22	ponct
+24	des	des	DET	DET	n=p	25	det	25	det
+25	propositions	proposition	NC	NC	n=p|g=f	15	mod	15	mod
+26	de	de	P	P		25	dep	25	dep
+27	cartes	carte	NC	NC	n=p|g=f	26	prep	26	prep
+28	de	de	P	P		25	dep	25	dep
+29	crédit	crédit	NC	NC	n=s|g=m	28	prep	28	prep
+30	.	.	PONCT	PONCT		29	ponct	29	ponct
+
+</p><p>
+1	La	la	DET	DET	n=s|g=f	2	det	2	det
+2	voie	voie	NC	NC	n=s|g=f	6	suj	6	suj
+3	numérique	numérique	ADJ	ADJ	n=s	2	mod	2	mod
+4	ou	ou	CC	CC		3	coord	3	coord
+5	informatique	informatique	ADJ	ADJ	n=s	4	dep_coord	4	dep_coord
+6	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+7	de	de	P	P		6	mod	6	mod
+8	loin	loin	ADV	ADV		11	mod	11	mod
+9	la	la	DET	DET	n=s|g=f	11	det	11	det
+10	moins	moins	ADV	ADV		11	mod	11	mod
+11	utilisée	utiliser	VPP	VPP	n=s|g=f|t=K	7	prep	7	prep
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+1	Voir	voir	VINF	VINF	t=W	0	_	0	_
+2	enquête	enquête	NC	NC	n=s|g=f	1	obj	1	obj
+3	du	de	P+D	P+D	n=s|g=m	1	mod	1	mod
+4	CREDOC	_	NPP	NPP		3	prep	3	prep
+5	(	(	PONCT	PONCT		4	ponct	4	ponct
+6	centre	centre	NC	NC	n=s|g=m	1	mod	1	mod
+7	de	de	P	P		6	dep	6	dep
+8	recherche	recherche	NC	NC	n=s|g=f	7	prep	7	prep
+9	pour	pour	P	P		1	mod	1	mod
+10	l'	le	DET	DET	n=s	11	det	11	det
+11	étude	étude	NC	NC	n=s|g=f	9	prep	9	prep
+12	et	et	CC	CC		1	coord	1	coord
+13	l'	le	DET	DET	n=s	14	det	14	det
+14	observation	observation	NC	NC	n=s|g=f	12	dep_coord	12	dep_coord
+15	des	de	P+D	P+D	n=p	1	mod	1	mod
+16	conditions	condition	NC	NC	n=p|g=f	15	prep	15	prep
+17	de	de	P	P		1	mod	1	mod
+18	vie	vie	NC	NC	n=s|g=f	17	prep	17	prep
+19	)	)	PONCT	PONCT		18	ponct	18	ponct
+20	et	et	CC	CC		17	coord	17	coord
+21	du	de	P+D	P+D	n=s|g=m	20	dep_coord	20	dep_coord
+22	CSA	_	NC	NC		21	prep	21	prep
+23	(	(	PONCT	PONCT		22	ponct	22	ponct
+24	conseil	conseil	NC	NC	n=s|g=m	1	mod	1	mod
+25	supérieur	supérieur	ADJ	ADJ	n=s|g=m	24	mod	24	mod
+26	audiovisuel	audiovisuel	NC	NC	n=s|g=m	24	mod	24	mod
+27	)	)	PONCT	PONCT		26	ponct	26	ponct
+
+</p><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	vol	vol	NC	NC	n=s|g=m	9	suj	9	suj
+3	de	de	P	P		2	dep	2	dep
+4	mots	mot	NC	NC	n=p|g=m	3	prep	3	prep
+5	de	de	P	P		2	dep	2	dep
+6	passe	passe	NC	NC	n=s	5	prep	5	prep
+7	:	:	PONCT	PONCT		6	ponct	6	ponct
+8	il	il	CLS	CLS	n=s|g=m|p=3	9	suj	9	suj
+9	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+10	possible	possible	ADJ	ADJ	n=s	9	ats	9	ats
+11	de	de	P	P		9	mod	9	mod
+12	voler	voler	VINF	VINF	t=W	11	prep	11	prep
+13	un	un	DET	DET	n=s|g=m	14	det	14	det
+14	mot	mot	NC	NC	n=s|g=m	12	obj	12	obj
+15	de	de	P	P		14	dep	14	dep
+16	passe	passe	NC	NC	n=s	15	prep	15	prep
+17	en	en	P	P		9	mod	9	mod
+18	regardant	regarder	VPR	VPR	t=G	17	prep	17	prep
+19	par-dessus	par-dessus	P	P		18	mod	18	mod
+20	l’	le	DET	DET	n=s	21	det	21	det
+21	épaule	épaule	NC	NC	n=s|g=f	19	prep	19	prep
+22	d’	de	P	P		18	mod	18	mod
+23	un	un	DET	DET	n=s|g=m	24	det	24	det
+24	individu	individu	NC	NC	n=s|g=m	22	prep	22	prep
+25	qui	qui	PROREL	PROREL	n=s	26	suj	26	suj
+26	écrit	écrire	V	V	n=s|t=P|p=3	9	mod	9	mod
+27	son	son	DET	DET	n=s|g=m|p=3|poss=s	28	det	28	det
+28	mot	mot	NC	NC	n=s|g=m	26	obj	26	obj
+29	de	de	P	P		28	dep	28	dep
+30	passe	passe	NC	NC	n=s	29	prep	29	prep
+31	sur	sur	P	P		26	mod	26	mod
+32	un	un	DET	DET	n=s|g=m	33	det	33	det
+33	clavier	clavier	NC	NC	n=s|g=m	31	prep	31	prep
+34	,	,	PONCT	PONCT		33	ponct	33	ponct
+35	en	en	P	P		26	mod	26	mod
+36	installant	installer	VPR	VPR	t=G	35	prep	35	prep
+37	une	une	DET	DET	n=s|g=f	38	det	38	det
+38	caméra	caméra	NC	NC	n=s|g=f	36	obj	36	obj
+39	dans	dans	P	P		36	mod	36	mod
+40	un	un	DET	DET	n=s|g=m	41	det	41	det
+41	endroit	endroit	NC	NC	n=s|g=m	39	prep	39	prep
+42	stratégique	stratégique	ADJ	ADJ	n=s	41	mod	41	mod
+43	ou	ou	CC	CC		35	coord	35	coord
+44	en	en	P	P		43	dep_coord	43	dep_coord
+45	utilisant	utiliser	VPR	VPR	t=G	44	prep	44	prep
+46	un	un	DET	DET	n=s|g=m	47	det	47	det
+47	enregistreur	enregistreur	NC	NC	n=s|g=m	45	obj	45	obj
+48	de	de	P	P		45	mod	45	mod
+49	frappe	frapper	VS	VS	n=s|t=P,S|p=1,3	45	ponct	45	ponct
+50	;	;	PONCT	PONCT		49	ponct	49	ponct
+
+</p><p>
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	intrusion	intrusion	NC	NC	n=s|g=f	9	suj	9	suj
+3	locale	local	ADJ	ADJ	n=s|g=f	2	mod	2	mod
+4	sur	sur	P	P		2	dep	2	dep
+5	le	le	DET	DET	n=s|g=m	6	det	6	det
+6	navigateur	navigateur	NC	NC	n=s|g=m	4	prep	4	prep
+7	:	:	PONCT	PONCT		6	ponct	6	ponct
+8	il	il	CLS	CLS	n=s|g=m|p=3	9	suj	9	suj
+9	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+10	possible	possible	ADJ	ADJ	n=s	9	ats	9	ats
+11	à	à	P	P		9	mod	9	mod
+12	un	un	DET	DET	n=s|g=m	13	det	13	det
+13	intrus	intrus	ADJ	ADJ	g=m	11	prep	11	prep
+14	de	de	P	P		9	mod	9	mod
+15	reprendre	reprendre	VINF	VINF	t=W	14	prep	14	prep
+16	une	une	DET	DET	n=s|g=f	17	det	17	det
+17	page	page	NC	NC	n=s	15	obj	15	obj
+18	sur	sur	P	P		15	mod	15	mod
+19	un	un	DET	DET	n=s|g=m	20	det	20	det
+20	site	site	NC	NC	n=s|g=m	18	prep	18	prep
+21	quand	quand	CS	CS		15	mod	15	mod
+22	l'	le	DET	DET	n=s	23	det	23	det
+23	utilisateur	utilisateur	NC	NC	n=s|g=m	26	suj	26	suj
+24	a	avoir	V	V	n=s|t=P|p=3	26	aux_tps	26	aux_tps
+25	simplement	_	ADV	ADV		26	mod	26	mod
+26	fermé	fermer	VPP	VPP	n=s|g=m|t=K	21	sub	21	sub
+27	l'	le	DET	DET	n=s	28	det	28	det
+28	onglet	onglet	NC	NC	n=s|g=m	26	obj	26	obj
+29	où	où	PROREL	PROREL		31	mod	31	mod
+30	il	il	CLS	CLS	n=s|g=m|p=3	31	suj	31	suj
+31	opérait	opérer	V	V	n=s|t=I|p=3	28	mod_rel	28	mod_rel
+32	,	,	PONCT	PONCT		31	ponct	31	ponct
+33	en	en	P	P		31	mod	31	mod
+34	utilisant	utiliser	VPR	VPR	t=G	33	prep	33	prep
+35	l'	le	DET	DET	n=s	36	det	36	det
+36	historique	historique	ADJ	ADJ	n=s	0	_	0	_
+37	du	de	P+D	P+D	n=s|g=m	36	mod	36	mod
+38	navigateur	navigateur	NC	NC	n=s|g=m	37	prep	37	prep
+39	.	.	PONCT	PONCT		38	ponct	38	ponct
+
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	intrus	intrus	ADJ	ADJ	g=m	4	suj	4	suj
+3	local	local	ADJ	ADJ	n=s|g=m	2	mod	2	mod
+4	peut	pouvoir	V	V	n=s|t=P|p=3	0	root	0	root
+5	alors	alors	ADV	ADV		4	mod	4	mod
+6	accéder	accéder	VINF	VINF	t=W	4	obj	4	obj
+7	aux	à	P+D	P+D	n=p	6	mod	6	mod
+8	informations	information	NC	NC	n=p|g=f	7	prep	7	prep
+9	du	de	P+D	P+D	n=s|g=m	8	dep	8	dep
+10	profil	profil	NC	NC	n=s|g=m	9	prep	9	prep
+11	,	,	PONCT	PONCT		10	ponct	10	ponct
+12	les	les	CLO	CLO	n=p|p=3	13	obj	13	obj
+13	modifier	modifier	VINF	VINF	t=W	6	obj	6	obj
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	les	les	CLO	CLO	n=p|p=3	16	obj	16	obj
+16	détourner	détourner	VINF	VINF	t=W	13	obj	13	obj
+17	etc	_	ADV	ADV		16	mod	16	mod
+18	.	.	PONCT	PONCT		17	ponct	17	ponct
+19	et	et	CC	CC		16	coord	16	coord
+20	usurper	usurper	VINF	VINF	t=W	19	dep_coord	19	dep_coord
+21	l'	le	DET	DET	n=s	22	det	22	det
+22	identité	identité	NC	NC	n=s|g=f	20	obj	20	obj
+23	de	de	P	P		20	mod	20	mod
+24	l'	le	DET	DET	n=s	25	det	25	det
+25	utilisateur	utilisateur	NC	NC	n=s|g=m	23	prep	23	prep
+26	.	.	PONCT	PONCT		25	ponct	25	ponct
+
+1	L'	le	DET	DET	n=s	2	det	2	det
+2	usurpateur	usurpateur	NC	NC	n=s|g=m	3	suj	3	suj
+3	peut	pouvoir	V	V	n=s|t=P|p=3	0	root	0	root
+4	librement	_	ADV	ADV		3	mod	3	mod
+5	effectuer	effectuer	VINF	VINF	t=W	3	obj	3	obj
+6	des	des	DET	DET	n=p	7	det	7	det
+7	vols	vol	NC	NC	n=p|g=m	5	obj	5	obj
+8	au	à	P+D	P+D	n=s|g=m	5	mod	5	mod
+9	détriment	détriment	NC	NC	n=s|g=m	8	prep	8	prep
+10	de	de	P	P		5	mod	5	mod
+11	l'	le	DET	DET	n=s	12	det	12	det
+12	utilisateur	utilisateur	NC	NC	n=s|g=m	10	prep	10	prep
+13	légitime	légitime	ADJ	ADJ	n=s	12	mod	12	mod
+14	;	;	PONCT	PONCT		13	ponct	13	ponct
+
+</p><p>
+1	L’	le	DET	DET	n=s	2	det	2	det
+2	écoute	écoute	NC	NC	n=s|g=f	7	suj	7	suj
+3	électronique	électronique	ADJ	ADJ	n=s	2	mod	2	mod
+4	:	:	PONCT	PONCT		3	ponct	3	ponct
+5	des	des	DET	DET	n=p	6	det	6	det
+6	fraudeurs	fraudeur	NC	NC	n=p|g=m	7	suj	7	suj
+7	peuvent	pouvoir	V	V	n=p|t=P|p=3	0	root	0	root
+8	placer	placer	VINF	VINF	t=W	7	obj	7	obj
+9	des	des	DET	DET	n=p	10	det	10	det
+10	appareils	appareil	NC	NC	n=p|g=m	8	obj	8	obj
+11	d’	de	P	P		10	dep	10	dep
+12	écoute	écoute	NC	NC	n=s|g=f	11	prep	11	prep
+13	entre	entre	P	P		8	mod	8	mod
+14	un	un	DET	DET	n=s|g=m	15	det	15	det
+15	terminal	terminal	NC	NC	n=s|g=m	13	prep	13	prep
+16	de	de	P	P		8	mod	8	mod
+17	validation	validation	NC	NC	n=s|g=f	16	prep	16	prep
+18	de	de	P	P		8	mod	8	mod
+19	cartes	carte	NC	NC	n=p|g=f	18	prep	18	prep
+20	de	de	P	P		8	mod	8	mod
+21	crédit	crédit	NC	NC	n=s|g=m	20	prep	20	prep
+22	et	et	CC	CC		8	coord	8	coord
+23	le	le	DET	DET	n=s|g=m	24	det	24	det
+24	réseau	réseau	NC	NC	n=s|g=m	22	dep_coord	22	dep_coord
+25	de	de	P	P		24	dep	24	dep
+26	communications	communication	NC	NC	n=p|g=f	25	prep	25	prep
+27	pour	pour	P	P		22	dep_coord	22	dep_coord
+28	capter	capter	VINF	VINF	t=W	27	prep	27	prep
+29	les	les	DET	DET	n=p	30	det	30	det
+30	numéros	numéro	NC	NC	n=p|g=m	28	obj	28	obj
+31	de	de	P	P		30	dep	30	dep
+32	carte	carte	NC	NC	n=s|g=f	31	prep	31	prep
+33	de	de	P	P		28	mod	28	mod
+34	crédit	crédit	NC	NC	n=s|g=m	33	prep	33	prep
+35	et	et	CC	CC		7	coord	7	coord
+36	les	les	DET	DET	n=p	37	det	37	det
+37	mots	mot	NC	NC	n=p|g=m	35	dep_coord	35	dep_coord
+38	de	de	P	P		37	dep	37	dep
+39	passe	passe	NC	NC	n=s	38	prep	38	prep
+40	des	de	P+D	P+D	n=p	7	mod	7	mod
+41	acheteurs	acheteur	NC	NC	n=p|g=m	40	prep	40	prep
+42	;	;	PONCT	PONCT		41	ponct	41	ponct
+
+</p><p>
+1	L’	le	DET	DET	n=s	2	det	2	det
+2	hameçonnage	_	NPP	NPP		35	suj	35	suj
+3	(	(	PONCT	PONCT		2	ponct	2	ponct
+4	ou	ou	CC	CC		2	coord	2	coord
+5	phishing	_	NC	NC		4	dep_coord	4	dep_coord
+6	)	)	PONCT	PONCT		5	ponct	5	ponct
+7	:	:	PONCT	PONCT		5	ponct	5	ponct
+8	il	il	CLS	CLS	n=s|g=m|p=3	2	mod	2	mod
+9	consiste	consister	V	V	n=s|t=P,S|p=1,3	8	ponct	8	ponct
+10	à	à	P	P		9	a_obj	9	a_obj
+11	imiter	imiter	VINF	VINF	t=W	10	prep	10	prep
+12	des	des	DET	DET	n=p	13	det	13	det
+13	messages	message	NC	NC	n=p|g=m	11	obj	11	obj
+14	électroniques	électronique	ADJ	ADJ	n=p	13	mod	13	mod
+15	de	de	P	P		11	mod	11	mod
+16	compagnies	compagnie	NC	NC	n=p|g=f	15	prep	15	prep
+17	légitimes	légitime	ADJ	ADJ	n=p	16	mod	16	mod
+18	qui	qui	PROREL	PROREL	n=s	19	suj	19	suj
+19	demandent	demander	V	V	n=p|t=P,S|p=3	2	mod_rel	2	mod_rel
+20	des	des	DET	DET	n=p	21	det	21	det
+21	informations	information	NC	NC	n=p|g=f	19	obj	19	obj
+22	personnelles	personnel	ADJ	ADJ	n=p|g=f	21	mod	21	mod
+23	à	à	P	P		19	mod	19	mod
+24	la	la	DET	DET	n=s|g=f	25	det	25	det
+25	victime	victime	NC	NC	n=s|g=f	23	prep	23	prep
+26	;	;	PONCT	PONCT		25	ponct	25	ponct
+27	évidemment	_	ADV	ADV		35	mod	35	mod
+28	,	,	PONCT	PONCT		27	ponct	27	ponct
+29	les	les	DET	DET	n=p	30	det	30	det
+30	réponses	réponse	NC	NC	n=p|g=f	35	suj	35	suj
+31	des	de	P+D	P+D	n=p	30	dep	30	dep
+32	répondeurs	répondeur	NC	NC	n=p|g=m	31	prep	31	prep
+33	naïfs	naïf	ADJ	ADJ	n=p|g=m	32	mod	32	mod
+34	sont	être	V	V	n=p|t=P|p=3	35	aux_pass	35	aux_pass
+35	reçues	recevoir	VPP	VPP	n=p|g=f|t=K	0	root	0	root
+36	par	par	P	P		35	mod	35	mod
+37	des	des	DET	DET	n=p	38	det	38	det
+38	fraudeurs	fraudeur	NC	NC	n=p|g=m	36	prep	36	prep
+39	qui	qui	PROREL	PROREL	n=s	40	suj	40	suj
+40	utilisent	utiliser	V	V	n=p|t=P,S|p=3	38	mod_rel	38	mod_rel
+41	ensuite	ensuite	ADV	ADV		40	mod	40	mod
+42	ces	ces	DET	DET	n=p	43	det	43	det
+43	informations	information	NC	NC	n=p|g=f	40	obj	40	obj
+44	pour	pour	P	P		40	mod	40	mod
+45	tromper	tromper	VINF	VINF	t=W	44	prep	44	prep
+46	leurs	leurs	DET	DET	n=p|p=3|poss=p	47	det	47	det
+47	victimes	victime	NC	NC	n=p|g=f	45	obj	45	obj
+48	;	;	PONCT	PONCT		47	ponct	47	ponct
+
+</p><p>
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	escroqueries	escroquerie	NC	NC	n=p|g=f	0	_	0	_
+3	par	par	P	P		2	dep	2	dep
+4	téléphone	téléphone	NC	NC	n=s|g=m	3	prep	3	prep
+5	:	:	PONCT	PONCT		4	ponct	4	ponct
+6	des	des	DET	DET	n=p	7	det	7	det
+7	fraudeurs	fraudeur	NC	NC	n=p|g=m	0	_	0	_
+8	se	se	CLR	CLR	n=p,s|p=3	0	_	0	_
+9	font	faire	V	V	n=p|t=P|p=3	0	_	0	_
+10	passer	passer	VINF	VINF	t=W	9	obj	9	obj
+11	pour	pour	P	P		10	mod	10	mod
+12	des	des	DET	DET	n=p	13	det	13	det
+13	fonctionnaires	fonctionnaire	NC	NC	n=p	11	prep	11	prep
+14	,	,	PONCT	PONCT		13	ponct	13	ponct
+15	des	des	DET	DET	n=p	16	det	16	det
+16	enquêteurs	enquêteur	NC	NC	n=p|g=m	10	obj	10	obj
+17	ou	ou	CC	CC		16	coord	16	coord
+18	des	des	DET	DET	n=p	19	det	19	det
+19	employés	employé	NC	NC	n=p|g=m	17	dep_coord	17	dep_coord
+20	de	de	P	P		19	dep	19	dep
+21	vraies	vrai	ADJ	ADJ	n=p|g=f	22	mod	22	mod
+22	entreprises	entreprise	NC	NC	n=p|g=f	20	prep	20	prep
+23	pour	pour	P	P		10	mod	10	mod
+24	soutirer	soutirer	VINF	VINF	t=W	23	prep	23	prep
+25	des	des	DET	DET	n=p	26	det	26	det
+26	renseignements	renseignement	NC	NC	n=p|g=m	24	obj	24	obj
+27	personnels	personnel	ADJ	ADJ	n=p|g=m	26	mod	26	mod
+28	.	.	PONCT	PONCT		27	ponct	27	ponct
+
+</p><h2>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	droit	droit	NC	NC	n=s|g=m	0	_	0	_
+3	à	à	P	P		2	dep	2	dep
+4	l’	le	DET	DET	n=s	5	det	5	det
+5	oubli	oubli	NC	NC	n=s|g=m	3	prep	3	prep
+
+</h2><p>
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	droit	droit	NC	NC	n=s|g=m	6	suj	6	suj
+3	à	à	P	P		2	dep	2	dep
+4	l'	le	DET	DET	n=s	5	det	5	det
+5	oubli	oubli	NC	NC	n=s|g=m	3	prep	3	prep
+6	est	être	V	V	n=s|t=P|p=3	0	root	0	root
+7	un	un	DET	DET	n=s|g=m	8	det	8	det
+8	système	système	NC	NC	n=s|g=m	6	obj	6	obj
+9	qui	qui	PROREL	PROREL	n=s	12	suj	12	suj
+10	a	avoir	V	V	n=s|t=P|p=3	12	aux_tps	12	aux_tps
+11	été	être	VPP	VPP	t=K	12	aux_pass	12	aux_pass
+12	discuté	discuter	VPP	VPP	n=s|g=m|t=K	8	mod_rel	8	mod_rel
+13	et	et	CC	CC		12	coord	12	coord
+14	mis	mettre	VPP	VPP	g=m|t=K	13	dep_coord	13	dep_coord
+15	en	en	P	P		12	mod	12	mod
+16	pratique	pratique	NC	NC	n=s|g=f	15	prep	15	prep
+17	dans	dans	P	P		12	mod	12	mod
+18	l'	le	DET	DET	n=s	19	det	19	det
+19	Union	union	NC	NC	n=s|g=f	17	prep	17	prep
+20	européenne	européen	ADJ	ADJ	n=s|g=f	19	mod	19	mod
+21	et	et	CC	CC		6	coord	6	coord
+22	en	en	P	P		21	dep_coord	21	dep_coord
+23	Argentine	Argentine	NPP	NPP	n=s|g=f	22	prep	22	prep
+24	à	à	P	P		6	mod	6	mod
+25	la	la	DET	DET	n=s|g=f	27	det	27	det
+26	toute	tout	ADJ	ADJ	n=s|g=f	27	mod	27	mod
+27	fin	fin	NC	NC	n=s	24	prep	24	prep
+28	du	de	P+D	P+D	n=s|g=m	6	mod	6	mod
+29	XXe	_	ADJ	ADJ		30	mod	30	mod
+30	siècle	siècle	NC	NC	n=s|g=m	28	prep	28	prep
+31	.	.	PONCT	PONCT		30	ponct	30	ponct
+
+1	Il	il	CLS	CLS	n=s|g=m|p=3	2	suj	2	suj
+2	permet	permettre	V	V	n=s|t=P|p=3	0	root	0	root
+3	à	à	P	P		2	mod	2	mod
+4	une	une	DET	DET	n=s|g=f	5	det	5	det
+5	personne	personne	NC	NC	n=s|g=f	3	prep	3	prep
+6	de	de	P	P		2	mod	2	mod
+7	demander	demander	VINF	VINF	t=W	6	prep	6	prep
+8	d’	de	P	P		7	mod	7	mod
+9	enlever	enlever	VINF	VINF	t=W	8	prep	8	prep
+10	certaines	certain	DET	DET	n=p|g=f	11	det	11	det
+11	informations	information	NC	NC	n=p|g=f	9	obj	9	obj
+12	qui	qui	PROREL	PROREL	n=s	13	suj	13	suj
+13	pourraient	pouvoir	V	V	n=p|t=C|p=3	2	mod	2	mod
+14	lui	lui	CLO	CLO	n=s|p=3	15	obj	15	obj
+15	poser	poser	VINF	VINF	t=W	13	obj	13	obj
+16	des	des	DET	DET	n=p	17	det	17	det
+17	problèmes	problème	NC	NC	n=p|g=m	15	obj	15	obj
+18	sur	sur	P	P		15	mod	15	mod
+19	des	des	DET	DET	n=p	20	det	20	det
+20	actions	action	NC	NC	n=p|g=f	18	prep	18	prep
+21	qu'	que	PROREL	PROREL		24	obj	24	obj
+22	elle	elle	CLS	CLS	n=s|g=f|p=3	24	suj	24	suj
+23	a	avoir	V	V	n=s|t=P|p=3	24	aux_tps	24	aux_tps
+24	faites	faire	VPP	VPP	n=p|g=f|t=K	20	mod_rel	20	mod_rel
+25	dans	dans	P	P		24	mod	24	mod
+26	le	le	DET	DET	n=s|g=m	27	det	27	det
+27	passé	passé	NC	NC	n=s|g=m	25	prep	25	prep
+28	.	.	PONCT	PONCT		27	ponct	27	ponct
+
+1	Le	le	DET	DET	n=s|g=m	2	det	2	det
+2	droit	droit	NC	NC	n=s|g=m	7	suj	7	suj
+3	à	à	P	P		2	dep	2	dep
+4	l'	le	DET	DET	n=s	5	det	5	det
+5	oubli	oubli	NC	NC	n=s|g=m	3	prep	3	prep
+6	s'	se	CLR	CLR	n=p,s|p=3	7	aff	7	aff
+7	applique	appliquer	V	V	n=s|t=P,S|p=1,3	0	root	0	root
+8	soit	soit	CC	CC		7	coord	7	coord
+9	par	par	P	P		22	mod	22	mod
+10	le	le	DET	DET	n=s|g=m	11	det	11	det
+11	retrait	retrait	NC	NC	n=s|g=m	9	prep	9	prep
+12	de	de	P	P		11	dep	11	dep
+13	l'	le	DET	DET	n=s	14	det	14	det
+14	information	information	NC	NC	n=s|g=f	12	prep	12	prep
+15	sur	sur	P	P		11	dep	11	dep
+16	le	le	DET	DET	n=s|g=m	17	det	17	det
+17	site	site	NC	NC	n=s|g=m	15	prep	15	prep
+18	d'	de	P	P		17	dep	17	dep
+19	origine	origine	NC	NC	n=s|g=f	18	prep	18	prep
+20	,	,	PONCT	PONCT		19	ponct	19	ponct
+21	on	on	CLS	CLS	n=s|p=3	22	suj	22	suj
+22	parle	parler	V	V	n=s|t=P,S|p=1,3	8	dep_coord	8	dep_coord
+23	alors	alors	ADV	ADV		22	mod	22	mod
+24	du	de	P+D	P+D	n=s|g=m	22	mod	22	mod
+25	droit	droit	NC	NC	n=s|g=m	24	prep	24	prep
+26	à	à	P	P		22	mod	22	mod
+27	l'	le	DET	DET	n=s	28	det	28	det
+28	effacement	effacement	NC	NC	n=s|g=m	26	prep	26	prep
+29	,	,	PONCT	PONCT		28	ponct	28	ponct
+30	soit	soit	CC	CC		22	coord	22	coord
+31	par	par	P	P		30	dep_coord	30	dep_coord
+32	une	une	DET	DET	n=s|g=f	33	det	33	det
+33	suppression	suppression	NC	NC	n=s|g=f	31	prep	31	prep
+34	du	de	P+D	P+D	n=s|g=m	33	dep	33	dep
+35	site	site	NC	NC	n=s|g=m	34	prep	34	prep
+36	par	par	P	P		33	dep	33	dep
+37	les	les	DET	DET	n=p	38	det	38	det
+38	moteurs	moteur	NC	NC	n=p|g=m	36	prep	36	prep
+39	de	de	P	P		38	dep	38	dep
+40	recherches	recherche	NC	NC	n=p|g=f	39	prep	39	prep
+41	,	,	PONCT	PONCT		40	ponct	40	ponct
+42	on	on	CLS	CLS	n=s|p=3	43	suj	43	suj
+43	parle	parler	V	V	n=s|t=P,S|p=1,3	31	root	31	root
+44	alors	alors	ADV	ADV		43	mod	43	mod
+45	du	de	P+D	P+D	n=s|g=m	43	mod	43	mod
+46	droit	droit	NC	NC	n=s|g=m	45	prep	45	prep
+47	au	à	P+D	P+D	n=s|g=m	46	dep	46	dep
+48	déréférencement	déréférencement	NC	NC	n=s|g=m	47	prep	47	prep
+49	.	.	PONCT	PONCT		48	ponct	48	ponct
+
+</p><h2>
+1	Que	que	PROWH	PROWH		2	suj	2	suj
+2	dit	dire	V	V	n=s|t=J,P|p=3	0	root	0	root
+3	la	la	DET	DET	n=s|g=f	4	det	4	det
+4	loi	loi	NC	NC	n=s|g=f	2	obj	2	obj
+5	?	?	PONCT	PONCT		4	ponct	4	ponct
+
+</h2><p>
+1	Il	il	CLS	CLS	n=s|g=m|p=3	3	suj	3	suj
+2	est	être	V	V	n=s|t=P|p=3	3	aux_tps	3	aux_tps
+3	conseillé	conseiller	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+4	:	:	PONCT	PONCT		3	ponct	3	ponct
+
+</p><p>
+1	De	de	P	P		0	_	0	_
+2	savoir	savoir	VINF	VINF	t=W	1	prep	1	prep
+3	pourquoi	pourquoi	ADVWH	ADVWH		8	mod	8	mod
+4	les	les	DET	DET	n=p	5	det	5	det
+5	données	donnée	NC	NC	n=p|g=f	8	suj	8	suj
+6	personnelles	personnel	ADJ	ADJ	n=p|g=f	5	mod	5	mod
+7	sont	être	V	V	n=p|t=P|p=3	8	aux_pass	8	aux_pass
+8	demandées	demander	VPP	VPP	n=p|g=f|t=K	2	obj	2	obj
+9	,	,	PONCT	PONCT		8	ponct	8	ponct
+10	pourquoi	pourquoi	ADVWH	ADVWH		11	mod	11	mod
+11	sont	être	V	V	n=p|t=P|p=3	8	mod	8	mod
+12	-elles	elles	CLS	CLS	n=p|g=f|p=3	11	suj	11	suj
+13	utilisées	utiliser	VPP	VPP	n=p|g=f|t=K	0	_	0	_
+14	et	et	CC	CC		13	coord	13	coord
+15	combien	combien	ADVWH	ADVWH		17	mod	17	mod
+16	de	de	P	P		17	det	17	det
+17	temps	temps	NC	NC	g=m	20	suj	20	suj
+18	seront	être	V	V	n=p|t=F|p=3	20	aux_pass	20	aux_pass
+19	-elles	elles	CLS	CLS	n=p|g=f|p=3	20	suj	20	suj
+20	conservées	conserver	VPP	VPP	n=p|g=f|t=K	14	dep_coord	14	dep_coord
+21	.	.	PONCT	PONCT		20	ponct	20	ponct
+
+</p><p>
+1	De	de	P	P		0	_	0	_
+2	demander	demander	VINF	VINF	t=W	1	prep	1	prep
+3	à	à	P	P		2	mod	2	mod
+4	tous	tout	ADJ	ADJ	n=p|g=m	6	mod	6	mod
+5	les	les	DET	DET	n=p	6	det	6	det
+6	sites	site	NC	NC	n=p|g=m	3	prep	3	prep
+7	de	de	P	P		2	mod	2	mod
+8	consulter	consulter	VINF	VINF	t=W	7	prep	7	prep
+9	les	les	DET	DET	n=p	10	det	10	det
+10	données	donnée	NC	NC	n=p|g=f	8	obj	8	obj
+11	qui	qui	PROREL	PROREL	n=s	12	suj	12	suj
+12	concernent	concerner	V	V	n=p|t=P,S|p=3	10	mod_rel	10	mod_rel
+13	la	la	DET	DET	n=s|g=f	14	det	14	det
+14	vie	vie	NC	NC	n=s|g=f	12	obj	12	obj
+15	privée	priver	ADJ	ADJ	n=s|g=f|t=K	14	mod	14	mod
+16	et	et	CC	CC		12	coord	12	coord
+17	de	de	P	P		16	dep_coord	16	dep_coord
+18	les	les	CLO	CLO	n=p|p=3	19	obj	19	obj
+19	modifier	modifier	VINF	VINF	t=W	17	prep	17	prep
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+</p><p>
+1	De	de	P	P		0	_	0	_
+2	refuser	refuser	VINF	VINF	t=W	1	prep	1	prep
+3	que	que	CS	CS		2	obj	2	obj
+4	l’	le	DET	DET	n=s	5	det	5	det
+5	on	on	CLS	CLS	n=s|p=3	6	suj	6	suj
+6	utilise	utiliser	VS	VS	n=s|t=P,S|p=1,3	3	sub	3	sub
+7	ces	ces	DET	DET	n=p	8	det	8	det
+8	données	donnée	NC	NC	n=p|g=f	6	obj	6	obj
+9	pour	pour	P	P		6	mod	6	mod
+10	envoyer	envoyer	VINF	VINF	t=W	9	prep	9	prep
+11	de	de	P	P		10	mod	10	mod
+12	la	la	DET	DET	n=s|g=f	13	det	13	det
+13	publicité	publicité	NC	NC	n=s|g=f	11	prep	11	prep
+14	.	.	PONCT	PONCT		13	ponct	13	ponct
+
+</p><p>
+1	De	de	P	P		0	_	0	_
+2	dire	dire	VINF	VINF	t=W	1	prep	1	prep
+3	non	non	ADV	ADV		2	mod	2	mod
+4	si	si	CS	CS		2	mod	2	mod
+5	l’	le	DET	DET	n=s	6	det	6	det
+6	envie	envie	NC	NC	n=s|g=f	16	suj	16	suj
+7	de	de	P	P		6	dep	6	dep
+8	publier	publier	VINF	VINF	t=W	7	prep	7	prep
+9	une	une	DET	DET	n=s|g=f	10	det	10	det
+10	photo	photo	NC	NC	n=s|g=f	8	obj	8	obj
+11	concernant	concerner	VPR	VPR	t=G	10	mod	10	mod
+12	certaines	certain	DET	DET	n=p|g=f	13	det	13	det
+13	données	donnée	NC	NC	n=p|g=f	11	obj	11	obj
+14	personnelles	personnel	ADJ	ADJ	n=p|g=f	13	mod	13	mod
+15	n’	ne	ADV	ADV		16	mod	16	mod
+16	est	être	V	V	n=s|t=P|p=3	4	sub	4	sub
+17	pas	pas	ADV	ADV		16	mod	16	mod
+18	présente	présent	ADJ	ADJ	n=s|g=f	16	ats	16	ats
+19	.	.	PONCT	PONCT		18	ponct	18	ponct
+
+</p><p>
+1	De	de	P	P		0	_	0	_
+2	porter	porter	VINF	VINF	t=W	1	prep	1	prep
+3	plainte	plainte	NC	NC	n=s|g=f	2	obj	2	obj
+4	si	si	CS	CS		2	mod	2	mod
+5	des	des	DET	DET	n=p	6	det	6	det
+6	amis	ami	NC	NC	n=p|g=m	11	suj	11	suj
+7	ou	ou	CC	CC		6	coord	6	coord
+8	des	de	P+D	P+D	n=p	6	dep	6	dep
+9	personnes	personne	NC	NC	n=p|g=f	8	prep	8	prep
+10	inconnues	inconnu	ADJ	ADJ	n=p|g=f	9	mod	9	mod
+11	mettent	mettre	V	V	n=p|t=P,S|p=3	4	sub	4	sub
+12	certaines	certain	DET	DET	n=p|g=f	13	det	13	det
+13	images	image	NC	NC	n=p|g=f	11	obj	11	obj
+14	sur	sur	P	P		11	mod	11	mod
+15	des	des	DET	DET	n=p	16	det	16	det
+16	données	donnée	NC	NC	n=p|g=f	14	prep	14	prep
+17	personnelles	personnel	ADJ	ADJ	n=p|g=f	16	mod	16	mod
+18	en	en	P	P		11	mod	11	mod
+19	ligne	ligne	NC	NC	n=s|g=f	18	prep	18	prep
+20	sans	sans	P	P		11	mod	11	mod
+21	accord	accord	NC	NC	n=s|g=m	20	prep	20	prep
+22	ou	ou	CC	CC		4	coord	4	coord
+23	si	si	CS	CS		22	dep_coord	22	dep_coord
+24	l’	le	DET	DET	n=s	25	det	25	det
+25	on	on	CLS	CLS	n=s|p=3	27	suj	27	suj
+26	se	se	CLR	CLR	n=p,s|p=3	27	aff	27	aff
+27	fait	faire	V	V	n=s|t=P|p=3	23	sub	23	sub
+28	passer	passer	VINF	VINF	t=W	27	obj	27	obj
+29	pour	pour	P	P		28	mod	28	mod
+30	quelqu'	quelque	ADV	ADV		31	mod	31	mod
+31	un	un	PRO	PRO	n=s|g=m	29	prep	29	prep
+32	d’	de	P	P		28	mod	28	mod
+33	autre	autre	ADJ	ADJ	n=s	32	prep	32	prep
+34	.	.	PONCT	PONCT		33	ponct	33	ponct
+
+</p><p>
+1	De	de	P	P		0	_	0	_
+2	faire	faire	VINF	VINF	t=W	3	dep	3	dep
+3	retirer	retirer	VINF	VINF	t=W	1	prep	1	prep
+4	toutes	tout	ADJ	ADJ	n=p|g=f	6	mod	6	mod
+5	les	les	DET	DET	n=p	6	det	6	det
+6	photos	photo	NC	NC	n=p|g=f	3	obj	3	obj
+7	indésirables	indésirable	ADJ	ADJ	n=p	6	mod	6	mod
+8	publiées	publier	VPP	VPP	n=p|g=f|t=K	6	mod	6	mod
+9	sans	sans	P	P		8	mod	8	mod
+10	autorisation	autorisation	NC	NC	n=s|g=f	9	prep	9	prep
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+</p><h3>
+1	Respect	respect	NC	NC	n=s|g=m	0	_	0	_
+
+</h3><p>
+1	Il	il	CLS	CLS	n=s|g=m|p=3	3	suj	3	suj
+2	est	être	V	V	n=s|t=P|p=3	3	aux_tps	3	aux_tps
+3	conseillé	conseiller	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+4	:	:	PONCT	PONCT		3	ponct	3	ponct
+
+</p><p>
+1	Que	que	CS	CS		0	_	0	_
+2	la	la	DET	DET	n=s|g=f	3	det	3	det
+3	réputation	réputation	NC	NC	n=s|g=f	8	suj	8	suj
+4	personnelle	personnel	ADJ	ADJ	n=s|g=f	3	mod	3	mod
+5	et	et	CC	CC		4	coord	4	coord
+6	familiale	familial	ADJ	ADJ	n=s|g=f	5	dep_coord	5	dep_coord
+7	soient	être	VS	VS	n=p|t=S|p=3	8	aux_pass	8	aux_pass
+8	respectées	respecter	VPP	VPP	n=p|g=f|t=K	1	sub	1	sub
+9	.	.	PONCT	PONCT		8	ponct	8	ponct
+
+</p><p>
+1	De	de	P	P		0	_	0	_
+2	ne	ne	ADV	ADV		5	mod	5	mod
+3	pas	pas	ADV	ADV		5	mod	5	mod
+4	se	se	CLR	CLR	n=p,s|p=3	5	obj	5	obj
+5	laisser	laisser	VINF	VINF	t=W	1	prep	1	prep
+6	harceler	harceler	VINF	VINF	t=W	5	obj	5	obj
+7	.	.	PONCT	PONCT		6	ponct	6	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	conflits	conflit	NC	NC	n=p|g=m	4	suj	4	suj
+3	se	se	CLR	CLR	n=p,s|p=3	4	aff	4	aff
+4	règlent	régler	V	V	n=p|t=P,S|p=3	0	root	0	root
+5	souvent	souvent	ADV	ADV		4	mod	4	mod
+6	en	en	P	P		4	mod	4	mod
+7	parlant	parlant	NC	NC	n=s|g=m	6	prep	6	prep
+8	.	.	PONCT	PONCT		7	ponct	7	ponct
+
+1	Si	si	CS	CS		14	mod	14	mod
+2	c’	ce	CLS	CLS		3	suj	3	suj
+3	est	être	V	V	n=s|t=P|p=3	1	sub	1	sub
+4	grave	grave	ADJ	ADJ	n=s	3	ats	3	ats
+5	et	et	CC	CC		1	coord	1	coord
+6	que	que	CS	CS		5	dep_coord	5	dep_coord
+7	cela	cela	PRO	PRO	n=s|g=m	10	suj	10	suj
+8	ne	ne	ADV	ADV		10	mod	10	mod
+9	s’	se	CLR	CLR	n=p,s|p=3	10	obj	10	obj
+10	arrête	arrêter	V	V	n=s|t=P,S|p=1,3	6	sub	6	sub
+11	pas	pas	ADV	ADV		10	mod	10	mod
+12	,	,	PONCT	PONCT		11	ponct	11	ponct
+13	il	il	CLS	CLS	n=s|g=m|p=3	14	suj	14	suj
+14	faut	falloir	V	V	n=s|t=P|p=3	0	root	0	root
+15	porter	porter	VINF	VINF	t=W	14	obj	14	obj
+16	plainte	plainte	NC	NC	n=s|g=f	15	obj	15	obj
+17	.	.	PONCT	PONCT		16	ponct	16	ponct
+
+</p><p>
+1	De	de	P	P		0	_	0	_
+2	demander	demander	VINF	VINF	t=W	1	prep	1	prep
+3	de	de	P	P		2	mod	2	mod
+4	l’	le	DET	DET	n=s	5	det	5	det
+5	aide	aide	NC	NC	n=s	3	prep	3	prep
+6	aux	à	P+D	P+D	n=p	2	mod	2	mod
+7	sites	site	NC	NC	n=p|g=m	6	prep	6	prep
+8	ou	ou	CC	CC		6	coord	6	coord
+9	aux	à	P+D	P+D	n=p	8	dep_coord	8	dep_coord
+10	jeux	jeu	NC	NC	n=p|g=m	9	prep	9	prep
+11	fréquentés	fréquenter	VPP	VPP	n=p|g=m|t=K	10	mod	10	mod
+12	.	.	PONCT	PONCT		11	ponct	11	ponct
+
+1	Les	les	DET	DET	n=p	2	det	2	det
+2	modérateurs	modérateur	NC	NC	n=p|g=m	3	suj	3	suj
+3	sont	être	V	V	n=p|t=P|p=3	0	root	0	root
+4	là	là	ADV	ADV		3	mod	3	mod
+5	pour	pour	P	P		3	mod	3	mod
+6	que	que	CS	CS		5	prep	5	prep
+7	ça	ça	PRO	PRO	n=s	9	suj	9	suj
+8	se	se	CLR	CLR	n=p,s|p=3	9	aff	9	aff
+9	passe	passer	V	V	n=s|t=P,S|p=1,3	6	sub	6	sub
+10	bien	bien	ADV	ADV		9	mod	9	mod
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+</p><p>
+1	Si	si	CS	CS		9	mod	9	mod
+2	aucune	aucune	DET	DET	n=s|g=f	3	det	3	det
+3	discussion	discussion	NC	NC	n=s|g=f	5	suj	5	suj
+4	n’	ne	ADV	ADV		5	mod	5	mod
+5	est	être	V	V	n=s|t=P|p=3	1	sub	1	sub
+6	possible	possible	ADJ	ADJ	n=s	5	ats	5	ats
+7	,	,	PONCT	PONCT		6	ponct	6	ponct
+8	il	il	CLS	CLS	n=s|g=m|p=3	9	suj	9	suj
+9	faut	falloir	V	V	n=s|t=P|p=3	0	root	0	root
+10	demander	demander	VINF	VINF	t=W	9	obj	9	obj
+11	à	à	P	P		10	mod	10	mod
+12	supprimer	supprimer	VINF	VINF	t=W	11	prep	11	prep
+13	les	les	DET	DET	n=p	14	det	14	det
+14	comptes	compte	NC	NC	n=p|g=m	12	obj	12	obj
+15	des	de	P+D	P+D	n=p	12	mod	12	mod
+16	gens	gens	NC	NC	n=p|g=m	15	prep	15	prep
+17	menaçants	menaçant	ADJ	ADJ	n=p|g=m	16	mod	16	mod
+18	ou	ou	CC	CC		17	coord	17	coord
+19	insultants	insultant	ADJ	ADJ	n=p|g=m	18	dep_coord	18	dep_coord
+20	.	.	PONCT	PONCT		19	ponct	19	ponct
+
+</p><h3>
+1	Surfer	surfer	VINF	VINF	t=W	0	_	0	_
+2	tranquille	tranquille	ADJ	ADJ	n=s	1	ats	1	ats
+
+</h3><p>
+1	Il	il	CLS	CLS	n=s|g=m|p=3	3	suj	3	suj
+2	est	être	V	V	n=s|t=P|p=3	3	aux_tps	3	aux_tps
+3	conseillé	conseiller	VPP	VPP	n=s|g=m|t=K	0	root	0	root
+4	:	:	PONCT	PONCT		3	ponct	3	ponct
+
+</p><p>
+1	Ne	ne	ADV	ADV		2	mod	2	mod
+2	pas	pas	ADV	ADV		3	mod	3	mod
+3	être	être	VINF	VINF	t=W	4	aux_pass	4	aux_pass
+4	exposé	exposer	VPP	VPP	n=s|g=m|t=K	0	_	0	_
+5	à	à	P	P		4	mod	4	mod
+6	des	des	DET	DET	n=p	7	det	7	det
+7	images	image	NC	NC	n=p|g=f	5	prep	5	prep
+8	choquantes	choquant	ADJ	ADJ	n=p|g=f	7	mod	7	mod
+9	.	.	PONCT	PONCT		8	ponct	8	ponct
+
+</p><p>
+1	Ne	ne	ADV	ADV		2	mod	2	mod
+2	pas	pas	ADV	ADV		4	mod	4	mod
+3	se	se	CLR	CLR	n=p,s|p=3	4	aff	4	aff
+4	faire	faire	VINF	VINF	t=W	0	root	0	root
+5	manipuler	manipuler	VINF	VINF	t=W	4	obj	4	obj
+6	ou	ou	CC	CC		5	coord	5	coord
+7	aborder	aborder	VINF	VINF	t=W	6	dep_coord	6	dep_coord
+8	par	par	P	P		7	mod	7	mod
+9	des	des	DET	DET	n=p	10	det	10	det
+10	adultes	adulte	NC	NC	n=p	8	prep	8	prep
+11	.	.	PONCT	PONCT		10	ponct	10	ponct
+
+</p>
+1	.	.	PONCT	PONCT		0	ponct	0	ponct
+
