@@ -28,7 +28,49 @@ res_ema.update(reperage_connecteurs(EMA))
 print()
 res_ema.update(reperage_definition(EMA))
 print()
+
+Wikipedia = 'Wikipedia.tal'
+res_Wikipedia = {
+    'GEN_TITLE' : 'Wikipedia',
+    'GEN_URL' : '',
+    'GEN_DATE' : str(datetime.datetime.now())
+}
+print('== Wikipedia ==')
+print()
+res_Wikipedia.update(reperage_passive(Wikipedia))
+print()
+res_Wikipedia.update(reperage_pronoms(Wikipedia))
+print()
+res_Wikipedia.update(reperage_verbeconj_prorel_sub(Wikipedia))
+print()
+res_Wikipedia.update(reperage_tps(Wikipedia))
+print()
+res_Wikipedia.update(reperage_connecteurs(Wikipedia))
+print()
+res_Wikipedia.update(reperage_definition(Wikipedia))
+print()
   
+ORTHO = 'ortho.tal'
+res_ORTHO = {
+    'GEN_TITLE' : 'ORTHO',
+    'GEN_URL' : '',
+    'GEN_DATE' : str(datetime.datetime.now())
+}
+print('== ORTHO ==')
+print()
+res_ORTHO.update(reperage_passive(ORTHO))
+print()
+res_ORTHO.update(reperage_pronoms(ORTHO))
+print()
+res_ORTHO.update(reperage_verbeconj_prorel_sub(ORTHO))
+print()
+res_ORTHO.update(reperage_tps(ORTHO))
+print()
+res_ORTHO.update(reperage_connecteurs(ORTHO))
+print()
+res_ORTHO.update(reperage_definition(ORTHO))
+print()
+
 MAUPA = 'maupassant12.bin'
 res_maupa = {
     'GEN_TITLE' : 'MAUPASSANT',
@@ -170,4 +212,6 @@ p.populate(res_vikibest, 3, name='Vikibest')
 p.populate(res_md, 4, name='Monde Diplomatique')
 p.populate(res_vikirandom, 5, name='Vikidia (random)')
 p.populate(res_vikisimply, 6, name='Vikidia "à simplifier"')
+p.populate(res_ORTHO, 7, name='Ortho corpus')
+p.populate(res_Wikipedia, 8, name='Wikipédia')
 p.ouput_all('results/multitests')
