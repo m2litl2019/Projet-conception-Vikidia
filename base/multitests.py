@@ -50,7 +50,7 @@ print()
 res_Wikipedia.update(reperage_definition(Wikipedia))
 print()
   
-ORTHO = 'ortho.tal'
+ORTHO = 'ortho-tal'
 res_ORTHO = {
     'GEN_TITLE' : 'ORTHO',
     'GEN_URL' : '',
