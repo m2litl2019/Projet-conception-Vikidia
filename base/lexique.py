@@ -57,7 +57,8 @@ def compare_Manulex(lemme):
 	with open('manulex.csv', newline='', encoding='utf-16') as csvfile:
 		tableau=csv.reader(csvfile, delimiter=',')
 		for row in tableau:
-			forme.append(row[1])
+			if row[0] =="NC":
+				forme.append(row[1])
 
 	for compo in lemme:
 		if compo not in forme:
