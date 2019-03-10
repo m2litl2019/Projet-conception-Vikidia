@@ -4,7 +4,7 @@ from reperage_passive import reperage_passive
 from reperage_pronoms import reperage_pronoms
 from reperage_verbeconj_prorel_sub import reperage_verbeconj_prorel_sub
 from reperage_tpsV import reperage_tps
-from reperage_def_con import reperage_connecteurs
+from reperage_def_con import reperage_connecteurs_flesch
 from reperage_def_con import reperage_definition
 import datetime
 
