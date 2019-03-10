@@ -77,7 +77,7 @@ def compute_polysemy_index(lemmas):
 				indices_poly.append(int(forme[2]))
 				
 	#print(meanFromList(indices_poly))
-	return {"SEMLEX_POLY_INDEX": meanFromList}
+	return {"SEMLEX_POLY_INDEX": meanFromList(indices_poly)}
 
 if __name__ == "__main__":
 	lemmas = extract_lemmas("ema.bin")
