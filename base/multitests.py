@@ -28,6 +28,10 @@ res_ema.update(reperage_connecteurs(EMA))
 print()
 res_ema.update(reperage_definition(EMA))
 print()
+res_ema.update(compare_Manulex(lemmas))
+print()
+res_ema.update(compute_polysemy_index(lemmas))
+print()
 
 Wikipedia = 'Wikipedia-tal'
 res_Wikipedia = {
@@ -70,6 +74,11 @@ res_ORTHO.update(reperage_connecteurs(ORTHO))
 print()
 res_ORTHO.update(reperage_definition(ORTHO))
 print()
+print()
+res_ORTHO.update(compare_Manulex(lemmas))
+print()
+res_ORTHO.update(compute_polysemy_index(lemmas))
+print()
 
 MAUPA = 'maupassant12.bin'
 res_maupa = {
@@ -91,7 +100,10 @@ res_maupa.update(reperage_connecteurs(MAUPA))
 print()
 res_maupa.update(reperage_definition(MAUPA))
 print()
-
+res_maupa.update(compare_Manulex(lemmas))
+print()
+res_maupa.update(compute_polysemy_index(lemmas))
+print()
 VIKIBEST = 'vikibest'
 res_vikibest = {
     'GEN_TITLE' : 'VIKIBEST',
@@ -202,7 +214,10 @@ print()
 res_md.update(reperage_connecteurs(MONDEDIPLO))
 print()
 res_md.update(reperage_definition(MONDEDIPLO))
-
+res_md.update(compare_Manulex(lemmas))
+print()
+res_md.update(compute_polysemy_index(lemmas))
+print()
 
 p = Presentation('templates/maquette2.html')
 p.populate(res_litenf, 0, name='Litérature Enfant')
