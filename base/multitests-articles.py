@@ -4,7 +4,7 @@ from reperage_passive import reperage_passive
 from reperage_pronoms import reperage_pronoms
 from reperage_verbeconj_prorel_sub import reperage_verbeconj_prorel_sub
 from reperage_tpsV import reperage_tps
-from indices_html import reperage_images_liens_viki
+from indices_html import reperage_images_liens_viki, reperage_ponctuation
 import datetime
 
 
@@ -27,17 +27,18 @@ for i in range(0,len(data)):
 	print()
 	res.update(reperage_passive(VIKIBEST+"/"+article.tag))
 	print()
-	#res.update(reperage_pronoms(VIKIBEST))
+	#res.update(reperage_pronoms(VIKIBEST+"/"+article.tag))
 	#print()
-	#res.update(reperage_verbeconj_prorel_sub(VIKIBEST))
+	#res.update(reperage_verbeconj_prorel_sub(VIKIBEST+"/"+article.tag))
 	#print()
-	#res.update(reperage_tps(VIKIBEST))
+	#res.update(reperage_tps(VIKIBEST+"/"+article.tag))
 	#print()
-	#res.update(reperage_connecteurs(VIKIBEST))
+	#res.update(reperage_connecteurs(VIKIBEST+"/"+article.tag))
 	#print()
-	#res.update(reperage_definition(VIKIBEST))
+	#res.update(reperage_definition(VIKIBEST+"/"+article.tag))
 	#print()
 	res.update(reperage_images_liens_viki(article.tag[:-12])) #url = nom du fichier sans le _vikidia.txt
+	res.update(reperage_ponctuation(article.tag[:-12]))
 	p.populate(res, i, name=article.tag[:-4])
 
 p.ouput_all('results/multitests-articles')
