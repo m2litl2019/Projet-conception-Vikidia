@@ -6,6 +6,8 @@ from reperage_verbeconj_prorel_sub import reperage_verbeconj_prorel_sub
 from reperage_tpsV import reperage_tps
 from reperage_def_con import reperage_connecteurs_flesch
 from reperage_def_con import reperage_definition
+from lexique import compare_Manulex , extract_lemmas
+from lexique import compute_polysemy_index
 import datetime
 
 EMA = 'ema.tal'
@@ -14,6 +16,7 @@ res_ema = {
     'GEN_URL' : 'https://github.com/m2litl2019/Projet-conception-Vikidia/blob/master/base/ema.tal',
     'GEN_DATE' : str(datetime.datetime.now())
 }
+lemmas = extract_lemmas(EMA)
 print('== EMA ==')
 print()
 res_ema.update(reperage_passive(EMA))
@@ -40,6 +43,7 @@ res_Vikidia = {
     'GEN_URL' : '',
     'GEN_DATE' : str(datetime.datetime.now())
 }
+lemmas = extract_lemmas(Vikidia)
 print('== Vikidia ==')
 print()
 res_Vikidia.update(reperage_passive(Vikidia))
@@ -66,6 +70,7 @@ res_Wikipedia = {
     'GEN_URL' : '',
     'GEN_DATE' : str(datetime.datetime.now())
 }
+lemmas = extract_lemmas(Wikipedia)
 print('== Wikipedia ==')
 print()
 res_Wikipedia.update(reperage_passive(Wikipedia))
@@ -92,6 +97,7 @@ res_ORTHO = {
     'GEN_URL' : '',
     'GEN_DATE' : str(datetime.datetime.now())
 }
+lemmas = extract_lemmas(ORTHO)
 print('== ORTHO ==')
 print()
 res_ORTHO.update(reperage_passive(ORTHO))
@@ -118,6 +124,7 @@ res_maupa = {
     'GEN_URL' : 'https://github.com/m2litl2019/Projet-conception-Vikidia/blob/master/base/maupassant12.bin',
     'GEN_DATE' : str(datetime.datetime.now())
 }
+lemmas = extract_lemmas(MAUPA)
 print('== MAUPASSANT ==')
 print()
 res_maupa.update(reperage_passive(MAUPA))
@@ -136,12 +143,14 @@ res_maupa.update(compare_Manulex(lemmas))
 print()
 res_maupa.update(compute_polysemy_index(lemmas))
 print()
+
 VIKIBEST = 'vikibest'
 res_vikibest = {
     'GEN_TITLE' : 'VIKIBEST',
     'GEN_URL' : 'https://github.com/m2litl2019/Projet-conception-Vikidia/tree/master/base/vikibest',
     'GEN_DATE' : str(datetime.datetime.now())
 }
+lemmas = extract_lemmas(VIKIBEST)
 print('== VIKIBEST ==')
 print()
 res_vikibest.update(reperage_passive(VIKIBEST))
@@ -159,34 +168,13 @@ print()
 res_vikibest.update(reperage_definition(VIKIBEST))
 print()
 
-VIKIRANDOM = 'VikiRandom-tal'
-res_vikirandom = {
-    'GEN_TITLE' : 'VIKIRANDOM',
-    'GEN_URL' : 'https://github.com/m2litl2019/Projet-conception-Vikidia/tree/master/base/VikiRandom-tal',
-    'GEN_DATE' : str(datetime.datetime.now())
-}
-print('== Des articles au hasard de Vikidia ==')
-print()
-res_vikirandom.update(reperage_passive(VIKIRANDOM))
-print()
-res_vikirandom.update(reperage_pronoms(VIKIRANDOM))
-res_vikirandom.update(reperage_pronoms(VIKIRANDOM))
-print()
-res_vikirandom.update(reperage_verbeconj_prorel_sub(VIKIRANDOM))
-print()
-res_vikirandom.update(reperage_tps(VIKIRANDOM))
-print()
-res_vikirandom.update(reperage_connecteurs(VIKIRANDOM))
-print()
-res_vikirandom.update(reperage_definition(VIKIRANDOM))
-print()
-
 vikisimply= 'VikiSimply-tal'
 res_vikisimply = {
     'GEN_TITLE' : 'VikiSimply',
     'GEN_URL' : 'https://github.com/m2litl2019/Projet-conception-Vikidia/blob/master/base/VikiSimply-tal',
     'GEN_DATE' : str(datetime.datetime.now())
 }
+lemmas = extract_lemmas(vikisimply)
 print('== VIKIDIA "à simplifier" ==')
 print()
 res_vikisimply.update(reperage_passive(vikisimply))
@@ -208,6 +196,7 @@ res_litenf = {
     'GEN_URL' : 'https://github.com/m2litl2019/Projet-conception-Vikidia/tree/master/base/litEnfant.tal',
     'GEN_DATE' : str(datetime.datetime.now())
 }
+lemmas = extract_lemmas(LITENF)
 print('== Corpus littéraire 6eme / 5eme ==')
 print()
 res_litenf.update(reperage_passive(LITENF))
@@ -231,6 +220,7 @@ res_md = {
     'GEN_URL' : 'https://github.com/m2litl2019/Projet-conception-Vikidia/tree/master/base/md_fr.tal',
     'GEN_DATE' : str(datetime.datetime.now())
 }
+lemmas = extract_lemmas(MONDEDIPLO)
 print('== Corpus du Monde Diplomatique ==')
 print()
 res_md.update(reperage_passive(MONDEDIPLO))
@@ -257,9 +247,8 @@ p.populate(res_ema, 1, name='EMA')
 p.populate(res_maupa, 2, name='Maupassant')
 p.populate(res_vikibest, 3, name='Vikibest')
 p.populate(res_md, 4, name='Monde Diplomatique')
-p.populate(res_vikirandom, 5, name='Vikidia (random)')
-p.populate(res_vikisimply, 6, name='Vikidia "à simplifier"')
-p.populate(res_ORTHO, 7, name='Ortho corpus')
-p.populate(res_Wikipedia, 8, name='Wikipédia')
-p.populate(res_Vikidia, 9, name='Vikidia')
+p.populate(res_vikisimply, 5, name='Vikidia "à simplifier"')
+p.populate(res_ORTHO, 6, name='Ortho corpus')
+p.populate(res_Wikipedia, 7, name='Wikipédia')
+p.populate(res_Vikidia, 8, name='Vikidia')
 p.ouput_all('results/multitests')
