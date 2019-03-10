@@ -33,6 +33,33 @@ print()
 res_ema.update(compute_polysemy_index(lemmas))
 print()
 
+
+Vikidia = 'Vikidia-TAL'
+res_Vikidia = {
+    'GEN_TITLE' : 'Vikidia',
+    'GEN_URL' : '',
+    'GEN_DATE' : str(datetime.datetime.now())
+}
+print('== Vikidia ==')
+print()
+res_Vikidia.update(reperage_passive(Vikidia))
+print()
+res_Vikidia.update(reperage_pronoms(Vikidia))
+print()
+res_Vikidia.update(reperage_verbeconj_prorel_sub(Vikidia))
+print()
+res_Vikidia.update(reperage_tps(Vikidia))
+print()
+res_Vikidia.update(reperage_connecteurs(Vikidia))
+print()
+res_Vikidia.update(reperage_definition(Vikidia))
+print()
+res_Vikidia.update(compare_Manulex(lemmas))
+print()
+res_Vikidia.update(compute_polysemy_index(lemmas))
+print()
+
+
 Wikipedia = 'Wikipedia-tal'
 res_Wikipedia = {
     'GEN_TITLE' : 'Wikipedia',
@@ -52,6 +79,11 @@ print()
 res_Wikipedia.update(reperage_connecteurs(Wikipedia))
 print()
 res_Wikipedia.update(reperage_definition(Wikipedia))
+print()
+print()
+res_Wikipedia.update(compare_Manulex(lemmas))
+print()
+res_Wikipedia.update(compute_polysemy_index(lemmas))
 print()
   
 ORTHO = 'ortho-tal'
@@ -229,4 +261,5 @@ p.populate(res_vikirandom, 5, name='Vikidia (random)')
 p.populate(res_vikisimply, 6, name='Vikidia "à simplifier"')
 p.populate(res_ORTHO, 7, name='Ortho corpus')
 p.populate(res_Wikipedia, 8, name='Wikipédia')
+p.populate(res_Vikidia, 9, name='Vikidia')
 p.ouput_all('results/multitests')
