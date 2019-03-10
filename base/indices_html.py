@@ -5,8 +5,8 @@ import os
 from urllib.request import Request, urlopen
 from bs4 import BeautifulSoup
 
-def reperage_images_liens_viki(url):
-	req = Request("https://fr.vikidia.org/wiki/" + url, data = None, headers={"User-Agent":'Mozilla/5.0'})
+def reperage_images_liens_viki(url,corpus):
+	req = Request("https://fr."+corpus+".org/wiki/" + url, data = None, headers={"User-Agent":'Mozilla/5.0'})
 	webpage = urlopen(req)
 	html_doc = webpage.read()
 	soup = BeautifulSoup(html_doc,"html.parser")
@@ -40,8 +40,8 @@ def reperage_images_liens_viki(url):
 			"STRUCTURE" : structure
 	}
 
-def reperage_ponctuation(url):
-	req = Request("https://fr.vikidia.org/wiki/" + url, data = None, headers={"User-Agent":'Mozilla/5.0'})
+def reperage_ponctuation(url,corpus):
+	req = Request("https://fr."+corpus+".org/wiki/" + url, data = None, headers={"User-Agent":'Mozilla/5.0'})
 	webpage = urlopen(req)
 	html_doc = webpage.read()
 	soup = BeautifulSoup(html_doc,"html.parser")
