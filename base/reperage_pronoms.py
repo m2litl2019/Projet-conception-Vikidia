@@ -1,9 +1,10 @@
-from texteval import load
+from texteval import load, Part
 
-DEBUG = False
-
-def reperage_pronoms(target, debug=DEBUG):
-    data = load(target)
+def reperage_pronoms(target, debug=False):
+    if isinstance(target, Part):
+        data = target
+    else:
+        data = load(target)
     nb_pro_total = 0
     nb_noms = 0
     index_phrase = 0
@@ -21,11 +22,12 @@ def reperage_pronoms(target, debug=DEBUG):
                 print('Phrase', index_phrase, ': ', nb_pro_by_sentence, ' PRO')
             nb_pro_total += nb_pro_by_sentence
         index_phrase += 1
-    print('reperage_pronoms on', target)
-    print(f'Total pronoms : {nb_pro_total:10d}')
-    print(f'Total phrases : {index_phrase:10d}')
-    print('Moyenne pro / ph :  ', f"{(nb_pro_total / index_phrase):.3f}")
-    print('Moyenne pro / nom:  ', f"{(nb_pro_total / nb_noms):.3f}")
+    if debug:
+        print('reperage_pronoms on', target)
+        print(f'Total pronoms : {nb_pro_total:10d}')
+        print(f'Total phrases : {index_phrase:10d}')
+        print('Moyenne pro / ph :  ', f"{(nb_pro_total / index_phrase):.3f}")
+        print('Moyenne pro / nom:  ', f"{(nb_pro_total / nb_noms):.3f}")
     res = {
         'NB_PRONOMS' : nb_pro_total,
         'GEN_SENTENCE_LEN' : index_phrase,
@@ -35,7 +37,8 @@ def reperage_pronoms(target, debug=DEBUG):
         'NB_NOMS' : nb_noms
         }
     for key in freq_pro:
-        print(key," : ",f"{freq_pro[key]/nb_pro_total:.3f}")
+        if debug:
+            print(key," : ",f"{freq_pro[key]/nb_pro_total:.3f}")
         res['PRONOM_FREQ_' + key] = freq_pro[key] / nb_pro_total
     return res
 

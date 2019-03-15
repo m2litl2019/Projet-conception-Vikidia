@@ -465,7 +465,7 @@ def process_line(line, expected=10, debug=False):
         return None
 
 
-def process_multilines(content,Tag=None):
+def process_multilines(content, Tag=None):
     part = Part(tag=Tag)
     sentence = None
     for line in content:
@@ -480,7 +480,7 @@ def process_multilines(content,Tag=None):
                 sentence = None
     return part
 
-    
+
 def process_file(filename, encoding='utf8',Tag=None):
     file = open(filename, mode='r', encoding = encoding)
     content = file.readlines()

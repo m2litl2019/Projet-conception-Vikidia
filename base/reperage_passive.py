@@ -1,7 +1,10 @@
-from texteval import load
+from texteval import load, Part
 
-def reperage_passive(target):
-    data = load(target)
+def reperage_passive(target, debug=False):
+    if isinstance(target, Part):
+        data = target
+    else:
+        data = load(target)
     liste_passives = []
     for sentence in data:
         for word in sentence:
@@ -9,10 +12,11 @@ def reperage_passive(target):
                 liste_passives.append(sentence)
     nb_phrases = len(data)
     nb_passives = len(liste_passives)
-    print('reperage_passive on ' + target)
-    print('Nb phrases  :', f"{nb_phrases:6d}")
-    print('Nb passives :', f"{nb_passives:6d}")
-    print(f'Ratio      : {(nb_passives / nb_phrases):.3f} %')
+    if debug:
+        print('reperage_passive on ' + target)
+        print('Nb phrases  :', f"{nb_phrases:6d}")
+        print('Nb passives :', f"{nb_passives:6d}")
+        print(f'Ratio      : {(nb_passives / nb_phrases):.3f} %')
     return {
         'GEN_SENTENCE_LEN' : nb_phrases,
         'PASSIVE_NB_PASSIVES' : nb_passives,

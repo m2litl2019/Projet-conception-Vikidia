@@ -25,6 +25,22 @@ class Presentation:
                         raise Exception("Multiple values for key: " + k)
         self.set_of_keys[who].update(dic)
 
+    def output_html_string(self, header=True):
+        for who in range(0, len(self.set_of_keys)):
+            if header:
+                f = open(self.templatefile, mode='r', encoding='utf8')
+            else:
+                f = open(self.templatefile.replace('.html', '') + '_noheader.html', mode='r', encoding='utf8')
+            template = f.read()
+            f.close()
+            for key, val in self.set_of_keys[who].items():
+                if type(val) == str and val.startswith('http'):
+                    val = f'<a href="{val}">{val}</a>'
+                if type(val) == float:
+                    val = f"{val:.3f}"
+                template = template.replace(key, str(val))
+            return template
+    
     def output_html(self, filename):
         for who in range(0, len(self.set_of_keys)):
             f = open(self.templatefile, mode='r', encoding='utf8')
