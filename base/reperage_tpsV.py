@@ -1,7 +1,10 @@
-from texteval import load
+from texteval import load, Part
 
 def reperage_tps(target):
-    data = load(target)
+    if isinstance(target, Part):
+        data = target
+    else:
+        data = load(target)
     tps = {}
     pos = {}
     for sentence in data:

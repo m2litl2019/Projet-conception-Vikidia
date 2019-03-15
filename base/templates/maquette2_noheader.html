@@ -32,9 +32,12 @@
         <hr>
         <table>
           <!--<tr><td>Longueur en nombre de mots</td><td>SUR_WORD_LENGTH</td></tr>-->
-          <tr><td>Longueur moyenne des phrases</td><td>SUR_WORD_LEN_AVG</td></tr>
+          <tr><td>Longueur moyenne des phrases en mots</td><td>SUR_WORD_LEN_AVG</td></tr>
           <tr><td>Mesure de Flesch-Kincaid</td><td>SUR_FLESCH_KINCAID</td></tr>
-          <tr><td>Mesure de ponctuation</td><td>SUR_PONCTUATION</td></tr>
+          <tr><td>Nombre de marques de ponctuation</td><td>SUR_PONCTUATION (SUR_AVG_PONCTUATION)</td></tr>
+          <tr><td>Nombre de points-virgules</td><td>SUR_PONCT_PT_VIRG (SUR_AVG_PONCT_PT_VIRG)</td></tr>
+          <tr><td>Nombre de doubles points</td><td>SUR_PONCT_DBL_PT (SUR_AVG_PONCT_DBL_PT)</td></tr>
+          <tr><td>Nombre de virgules</td><td>SUR_PONCT_VIRG (SUR_AVG_PONCT_VIRG)</td></tr>
         </table>
         <div class="back">
             <a href="#ind">Retour au début</a>
@@ -44,9 +47,11 @@
         <h1>Syntaxe et morphologie</h1>
         <hr>
         <table>
+          <tr><td>Nombre de phrases à la voix passive</td><td>PASSIVE_NB_PASSIVES</td></tr>
           <tr><td>Nombre de verbes à la voix passive sur nombre de phrases</td><td>SYN_NB_PASSIVE</td></tr>
           <tr><td>Moyenne du nombre de verbes par phrase</td><td>SYN_NB_VERBS_PER_SENTENCE</td></tr>
           <tr><td>Moyenne du nombre de modificateur par nom commun</td><td>SYN_NB_MODIFIERS_PER_NOUN</td></tr>
+          <tr><td>Nombre de temps verbaux</td><td>SYN_NB_VERBAL_TENSE</td></tr>
           <tr><td>Temps verbaux</td><td>SYN_VERBAL_TENSE</td></tr>
         </table>
         <div class="back">
@@ -82,6 +87,14 @@
         <hr>
         <table>
           <tr>
+            <td>Nombre de mots qui ne sont pas dans Manulex</td><td>SEMLEX_MANULEX (SEMLEX_AVG_MANULEX)</td>
+          </tr>
+          <tr>
+            <td>Mots qui ne sont pas dans Manulex</td><td>SEMLEX_NOT_IN_MANULEX</td></tr>
+          <tr>
+            <td>Nombre de mots polysémiques</td><td>SEMLEX_POLY_INDEX (SEMLEX_AVG_POLY)</td>
+          </tr>
+          <tr>
             <td>Nombre de mots ambigus sur le nombre de mots</td><td>SEMLEX_MOTS_AMBIGUS</td>
           </tr>
           <tr>
@@ -100,10 +113,11 @@
         <hr>
         <table>
           <tr>
-            <td>Moyenne de patrons de reformulation par phrase</td><td>REFORMULATION</td>
+            <td>Moyenne de patrons de reformulation par phrase</td><td>NB_PATRONS_REFORMULATION</td>
           </tr>
           <tr>
-            <td>Moyenne de connecteurs par phrase</td><td>CONNECTEURS</td>
+            <!--<td>Moyenne de connecteurs par phrase</td><td>CONNECTEURS</td>-->
+            <td>Nombre de connecteurs</td><td>NB_CONNECTEUR</td>
           </tr>
         </table>
         <div class="back">

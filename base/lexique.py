@@ -5,7 +5,7 @@ from texteval import *
 from reperage_verbeconj_prorel_sub import meanFromList
 
 def remove_duplicates(lst, equals=lambda x, y: x == y): #fonction pour supprimer les lemmes en doublon, j'aurais pu faire un set mais j'ai trouvé ce bout de code pratique! C'est peut être un peu long à executer par contre
- 
+
     # Normalement en Python on adore le duck typing, mais là cet algo suppose
     # l'usage d'une liste, donc on met un gardefou.
     if not isinstance(lst, list):
@@ -39,47 +39,53 @@ def remove_duplicates(lst, equals=lambda x, y: x == y): #fonction pour supprimer
 
 
 def extract_lemmas(target):
-	#fichier=sys.argv[1]
-	lemme=set()
-	data = load(target)
-	for sentence in data:
-		for word in sentence:
-			if word.pos == "NC" and word.lemma != "_" and not re.search(r"\d",word.lemma):
-				lemme.add(word.lemma)
-	#remove_duplicates(lemme)
-	#print(lemme)
-	return lemme
+    #fichier=sys.argv[1]
+    lemme=set()
+    if isinstance(target, Part):
+        data = target
+    else:
+        data = load(target)
+    for sentence in data:
+        for word in sentence:
+            if word.pos == "NC" and word.lemma != "_" and not re.search(r"\d",word.lemma):
+                lemme.add(word.lemma)
+    #remove_duplicates(lemme)
+    #print(lemme)
+    return lemme
 
 
-def compare_Manulex(lemme):
-	forme=[]
-	compteListe=0
-	with open('manulex.csv', newline='', encoding='utf-16') as csvfile:
-		tableau=csv.reader(csvfile, delimiter=',')
-		for row in tableau:
-			if row[0] =="NC":
-				forme.append(row[1])
-
-	for compo in lemme:
-		if compo not in forme:
-			compteListe+=1
-	print(compteListe, " mots qui ne sont pas dans Manulex") #c'était juste pour tester, à voir si on fait un pourcentage, un score, etc...
-	return {"SEMLEX_MANLUEX":compteListe}
+def compare_Manulex(lemme, debug=False):
+    forme=[]
+    compteListe=0
+    with open(r'resources\manulex.csv', newline='', encoding='utf-16') as csvfile:
+        tableau=csv.reader(csvfile, delimiter=',')
+        for row in tableau:
+            if row[0] =="NC":
+                forme.append(row[1])
+    not_in_manu = []
+    for compo in lemme:
+        if compo not in forme:
+            not_in_manu.append(compo)
+    if debug:
+        print(len(not_int_manu), " mots qui ne sont pas dans Manulex") #c'était juste pour tester, à voir si on fait un pourcentage, un score, etc...
+    return {
+            "SEMLEX_MANULEX" : len(not_in_manu),
+            "SEMLEX_NOT_IN_MANULEX" : not_in_manu 
+        }
 
 
 def compute_polysemy_index(lemmas):
-	with open("GLAWI.txt", encoding="utf-8") as glawi:
-		indices_poly = []
-		for line in glawi:
-			
-			forme = line.split("\t")
-			if forme[0] == "n" and forme[1] in lemmas:
-				indices_poly.append(int(forme[2]))
-				
-	#print(meanFromList(indices_poly))
-	return {"SEMLEX_POLY_INDEX": meanFromList(indices_poly)}
+    with open(r"resources\GLAWI.txt", encoding="utf-8") as glawi:
+        indices_poly = []
+        for line in glawi:
+            forme = line.split("\t")
+            if forme[0] == "n" and forme[1] in lemmas:
+                indices_poly.append(int(forme[2]))
+                
+    #print(meanFromList(indices_poly))
+    return {"SEMLEX_POLY_INDEX": meanFromList(indices_poly)}
 
 if __name__ == "__main__":
-	lemmas = extract_lemmas("ema.bin")
-	compare_Manulex(lemmas)
-	compute_polysemy_index(lemmas)
+    lemmas = extract_lemmas("ema.bin")
+    compare_Manulex(lemmas)
+    compute_polysemy_index(lemmas)

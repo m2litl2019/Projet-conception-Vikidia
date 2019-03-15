@@ -6,6 +6,7 @@
 
 import urllib.request
 import sys
+import copy
 from bs4 import BeautifulSoup, Comment
 
 #------------------------------------------------------------
@@ -78,7 +79,7 @@ def process_target_both(name, output):
         print('Impossible to get', name, 'for wikipedia.')
         failed_wikipedia += 1
 
-def process_target(target, url, suffix, display=False, output=False, strip=True, output_string=False):
+def process_target(target, url, suffix, display=False, output=False, strip=True, output_string=False, get_both=False):
 
     req = urllib.request.Request(
         url,
@@ -93,6 +94,9 @@ def process_target(target, url, suffix, display=False, output=False, strip=True,
 
     #response = urllib.request.urlopen(url)
     html_doc = response.read()
+    if get_both:
+        html_brut = copy.copy(html_doc)
+    
     #print(html_doc)
 
     if strip:
@@ -143,7 +147,8 @@ def process_target(target, url, suffix, display=False, output=False, strip=True,
             f.write(text)
             f.close()
         else:
-            return text
+            if get_both:
+                return text, html_brut
 
 if __name__ == '__main__':
     if WRITE_TARGET_LIST_TO_DISK:

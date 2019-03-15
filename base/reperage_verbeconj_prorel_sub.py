@@ -13,15 +13,19 @@ ajout du calcul de la longueur moyenne des phrases
 
 """
 
-from texteval import load
-
-DEBUG = False
+from texteval import load, Part
 
 def meanFromList(liste):
-    return sum(liste)/len(liste)
+    if len(liste) == 0:
+        return '0 elements'
+    else:
+        return sum(liste)/len(liste)
 
-def reperage_verbeconj_prorel_sub(target, debug=DEBUG):
-    data = load(target)
+def reperage_verbeconj_prorel_sub(target, debug=False):
+    if isinstance(target, Part):
+        data = target
+    else:
+        data = load(target)
     svTot = 0
     proRelTot = 0
     subordTot = 0
@@ -29,9 +33,11 @@ def reperage_verbeconj_prorel_sub(target, debug=DEBUG):
     positionsV = []
     nb_phrase = 0
     longueur_phrase = []
+    nb_verbs = 0
+    all_tenses = []
     for sentence in data:
         longueur_phrase.append(len(sentence.words))
-        listeSV = []
+        #listeSV = []
         listeProRel = []
         listeSubord = []
         positionV = 0
@@ -39,7 +45,12 @@ def reperage_verbeconj_prorel_sub(target, debug=DEBUG):
             if word.pos == 'PROREL':
                 listeProRel.append(word)
             elif word.pos.startswith('V'):
-                listeSV.append(word)
+                nb_verbs += 1
+                if word.tense is not None:
+                    for tense in word.tense.split(','):
+                        if tense not in all_tenses:
+                            all_tenses.append(tense)
+                #listeSV.append(word)
                 if positionV == 0:
                     positionV = word.num
                     positionsV.append(float(word.num))
@@ -53,26 +64,30 @@ def reperage_verbeconj_prorel_sub(target, debug=DEBUG):
                         for coord in dep.coords:
                             nbMod += 1
                 nbModNcAll.append(nbMod)
-        nbSV = len(listeSV)
+        #nbSV = len(listeSV)
         nbProRel = len(listeProRel)
         nbSubord = len(listeSubord)
         if debug:
-            print('Phrase', nb_phrase, ':', nbSV, 'verbes conjugués,', nbProRel, 'pronoms relatifs', nbSubord, 'subordonnées',positionV, "position du premier verbe")
-        svTot += nbSV
+            print('Phrase', nb_phrase, ':', nb_verbs, 'verbes conjugués,', nbProRel, 'pronoms relatifs', nbSubord, 'subordonnées',positionV, "position du premier verbe")
+        #svTot += nb_verbs
         proRelTot += nbProRel
         subordTot += nbSubord
         
         nb_phrase += 1
-    print('reperage_verbeconj_prorel_sub on', target)
-    print('Total phrases             :', nb_phrase)
-    print('Verbes conjugués          :', svTot)
-    print('Pronoms relatifs          :', proRelTot)
-    print('Subordonnées              :', subordTot)
-    print('Moyenne V1                :', meanFromList(positionsV))
-    print('Moyenne modifieurs par NC :', meanFromList(nbModNcAll))
+    if debug:
+        print('reperage_verbeconj_prorel_sub on', target)
+        print('Total phrases             :', nb_phrase)
+        print('Verbes conjugués          :', nb_verbs)
+        print('Pronoms relatifs          :', proRelTot)
+        print('Subordonnées              :', subordTot)
+        print('Moyenne V1                :', meanFromList(positionsV))
+        print('Moyenne modifieurs par NC :', meanFromList(nbModNcAll))
     return {
         'GEN_SENTENCE_LEN' : nb_phrase,
-        'VERBECONJ_PROREL_VERBES_CONJ' : svTot,
+        'SYN_NB_VERBS_PER_SENTENCE' : nb_verbs / nb_phrase,
+        'SYN_NB_VERBAL_TENSE' : len(all_tenses),
+        'SYN_VERBAL_TENSE' : all_tenses,
+        'VERBECONJ_PROREL_VERBES_CONJ' : nb_verbs,
         'VERBECONJ_PROREL_PRONOM_REL' : proRelTot,
         'VERBECONJ_PROREL_SUB' : subordTot,
         'VERBECONJ_PROREL_AVG_V1' : meanFromList(positionsV),
