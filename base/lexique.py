@@ -74,7 +74,7 @@ def compare_Manulex(lemme, debug=False):
         }
 
 
-def compute_polysemy_index(lemmas):
+def compute_polysemy_index(lemmas, debug=False):
     with open(r"resources\GLAWI.txt", encoding="utf-8") as glawi:
         indices_poly = []
         for line in glawi:

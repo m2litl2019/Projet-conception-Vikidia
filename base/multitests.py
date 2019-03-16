@@ -1,254 +1,154 @@
+#-----------------------------------------------------------
+# Imports
+#-----------------------------------------------------------
+
+# Base
+import datetime
+
+# Project global
 from texteval import *
 from presentation import Presentation
+
+# Project indices
 from reperage_passive import reperage_passive
 from reperage_pronoms import reperage_pronoms
 from reperage_verbeconj_prorel_sub import reperage_verbeconj_prorel_sub
 from reperage_tpsV import reperage_tps
-from reperage_def_con import reperage_connecteurs_flesch
-from reperage_def_con import reperage_definition
-from lexique import compare_Manulex , extract_lemmas
-from lexique import compute_polysemy_index
-import datetime
+from indices_html import reperage_images_liens_viki, reperage_ponctuation
+from reperage_def_con import reperage_connecteurs_flesch, reperage_definition
+from lexique import extract_lemmas, compare_Manulex, compute_polysemy_index
 
-EMA = 'ema.tal'
-res_ema = {
-    'GEN_TITLE' : 'EMA',
-    'GEN_URL' : 'https://github.com/m2litl2019/Projet-conception-Vikidia/blob/master/base/ema.tal',
-    'GEN_DATE' : str(datetime.datetime.now())
-}
-lemmas = extract_lemmas(EMA)
-print('== EMA ==')
-print()
-res_ema.update(reperage_passive(EMA))
-print()
-res_ema.update(reperage_pronoms(EMA))
-print()
-res_ema.update(reperage_verbeconj_prorel_sub(EMA))
-print()
-res_ema.update(reperage_tps(EMA))
-print()
-res_ema.update(reperage_connecteurs(EMA))
-print()
-res_ema.update(reperage_definition(EMA))
-print()
-res_ema.update(compare_Manulex(lemmas))
-print()
-res_ema.update(compute_polysemy_index(lemmas))
-print()
+#-----------------------------------------------------------
+# Function
+#-----------------------------------------------------------
 
+def raw_indices(part):
+    # Raw indices
+    avg = 0
+    nb_ponct = 0
+    nb_pt_virg = 0
+    nb_dbl_pt = 0
+    nb_virg = 0
+    nb_all_words = 0
+    nb_words = 0
+    for s in part:
+        avg += len(s)
+        for w in s:
+            nb_all_words += 1
+            if w.pos == 'PONCT':
+                nb_ponct += 1
+                if w.form == ';':
+                    nb_pt_virg += 1
+                elif w.form == ':':
+                    nb_dbl_pt += 1
+                elif w.form == ',':
+                    nb_virg += 1
+            else:
+                nb_words += 1
+    avg //= len(part)
+    return {'SUR_NB_WORDS' : nb_words,
+            'SUR_NB_ALL_WORDS' : nb_all_words,
+            'SUR_WORD_LEN_AVG' : avg,
+            'SUR_PONCTUATION' : nb_ponct,
+            'SUR_AVG_PONCTUATION' : nb_ponct / nb_all_words,
+            'SUR_PONCT_PT_VIRG' : nb_pt_virg,
+            'SUR_AVG_PONCT_PT_VIRG' : nb_pt_virg / nb_all_words,
+            'SUR_PONCT_DBL_PT' : nb_dbl_pt,
+            'SUR_AVG_PONCT_DBL_PT' : nb_dbl_pt / nb_all_words,
+            'SUR_PONCT_VIRG' : nb_virg,
+            'SUR_AVG_PONCT_VIRG' : nb_virg / nb_all_words,
+        }
 
-Vikidia = 'Vikidia-TAL'
-res_Vikidia = {
-    'GEN_TITLE' : 'Vikidia',
-    'GEN_URL' : '',
-    'GEN_DATE' : str(datetime.datetime.now())
-}
-lemmas = extract_lemmas(Vikidia)
-print('== Vikidia ==')
-print()
-res_Vikidia.update(reperage_passive(Vikidia))
-print()
-res_Vikidia.update(reperage_pronoms(Vikidia))
-print()
-res_Vikidia.update(reperage_verbeconj_prorel_sub(Vikidia))
-print()
-res_Vikidia.update(reperage_tps(Vikidia))
-print()
-res_Vikidia.update(reperage_connecteurs(Vikidia))
-print()
-res_Vikidia.update(reperage_definition(Vikidia))
-print()
-res_Vikidia.update(compare_Manulex(lemmas))
-print()
-res_Vikidia.update(compute_polysemy_index(lemmas))
-print()
+def indices(title, path, url, debug=False):
+    res = {
+        'GEN_TITLE' : title,
+        'GEN_URL' : url,
+        'GEN_DATE' : str(datetime.datetime.now())
+    }
+    data = load(path)
+    lemmas = extract_lemmas(data)
+    print('==', title, '==')
+    res.update(raw_indices(data))
+    if debug: print()
+    res.update(reperage_passive(data, debug=debug))
+    if debug: print()
+    res.update(reperage_pronoms(data, debug=debug))
+    if debug: print()
+    res.update(reperage_verbeconj_prorel_sub(data, debug=debug))
+    if debug: print()
+    res.update(reperage_tps(data, debug=debug))
+    if debug: print()
+    res.update(reperage_connecteurs_flesch(data, debug=debug))
+    if debug: print()
+    res.update(reperage_definition(data, debug=debug))
+    if debug: print()
+    res.update(compare_Manulex(lemmas, debug=debug))
+    if debug: print()
+    res.update(compute_polysemy_index(lemmas, debug=debug))
+    if isinstance(res['SEMLEX_POLY_INDEX'], str):
+        res.update({
+            'SEMLEX_AVG_MANULEX' : res['SEMLEX_MANULEX'] / res['SUR_NB_WORDS'],
+            'SEMLEX_AVG_POLY' : res['SEMLEX_POLY_INDEX']
+            })
+    else:
+        res.update({
+            'SEMLEX_AVG_MANULEX' : res['SEMLEX_MANULEX'] / res['SUR_NB_WORDS'],
+            'SEMLEX_AVG_POLY' : res['SEMLEX_POLY_INDEX'] / res['SUR_NB_WORDS']
+            })
+    if debug: print()
+    return res
 
+#-----------------------------------------------------------
+# Main
+#-----------------------------------------------------------
 
-Wikipedia = 'Wikipedia-tal'
-res_Wikipedia = {
-    'GEN_TITLE' : 'Wikipedia',
-    'GEN_URL' : '',
-    'GEN_DATE' : str(datetime.datetime.now())
-}
-lemmas = extract_lemmas(Wikipedia)
-print('== Wikipedia ==')
-print()
-res_Wikipedia.update(reperage_passive(Wikipedia))
-print()
-res_Wikipedia.update(reperage_pronoms(Wikipedia))
-print()
-res_Wikipedia.update(reperage_verbeconj_prorel_sub(Wikipedia))
-print()
-res_Wikipedia.update(reperage_tps(Wikipedia))
-print()
-res_Wikipedia.update(reperage_connecteurs(Wikipedia))
-print()
-res_Wikipedia.update(reperage_definition(Wikipedia))
-print()
-print()
-res_Wikipedia.update(compare_Manulex(lemmas))
-print()
-res_Wikipedia.update(compute_polysemy_index(lemmas))
-print()
-  
-ORTHO = 'ortho-tal'
-res_ORTHO = {
-    'GEN_TITLE' : 'ORTHO',
-    'GEN_URL' : '',
-    'GEN_DATE' : str(datetime.datetime.now())
-}
-lemmas = extract_lemmas(ORTHO)
-print('== ORTHO ==')
-print()
-res_ORTHO.update(reperage_passive(ORTHO))
-print()
-res_ORTHO.update(reperage_pronoms(ORTHO))
-print()
-res_ORTHO.update(reperage_verbeconj_prorel_sub(ORTHO))
-print()
-res_ORTHO.update(reperage_tps(ORTHO))
-print()
-res_ORTHO.update(reperage_connecteurs(ORTHO))
-print()
-res_ORTHO.update(reperage_definition(ORTHO))
-print()
-print()
-res_ORTHO.update(compare_Manulex(lemmas))
-print()
-res_ORTHO.update(compute_polysemy_index(lemmas))
-print()
+# Calculating indices
+#---------------------
 
-MAUPA = 'maupassant12.bin'
-res_maupa = {
-    'GEN_TITLE' : 'MAUPASSANT',
-    'GEN_URL' : 'https://github.com/m2litl2019/Projet-conception-Vikidia/blob/master/base/maupassant12.bin',
-    'GEN_DATE' : str(datetime.datetime.now())
-}
-lemmas = extract_lemmas(MAUPA)
-print('== MAUPASSANT ==')
-print()
-res_maupa.update(reperage_passive(MAUPA))
-print()
-res_maupa.update(reperage_pronoms(MAUPA))
-print()
-res_maupa.update(reperage_verbeconj_prorel_sub(MAUPA))
-print()
-res_maupa.update(reperage_tps(MAUPA))
-print()
-res_maupa.update(reperage_connecteurs(MAUPA))
-print()
-res_maupa.update(reperage_definition(MAUPA))
-print()
-res_maupa.update(compare_Manulex(lemmas))
-print()
-res_maupa.update(compute_polysemy_index(lemmas))
-print()
+all_res = {}
 
-VIKIBEST = 'vikibest'
-res_vikibest = {
-    'GEN_TITLE' : 'VIKIBEST',
-    'GEN_URL' : 'https://github.com/m2litl2019/Projet-conception-Vikidia/tree/master/base/vikibest',
-    'GEN_DATE' : str(datetime.datetime.now())
-}
-lemmas = extract_lemmas(VIKIBEST)
-print('== VIKIBEST ==')
-print()
-res_vikibest.update(reperage_passive(VIKIBEST))
-print()
-res_vikibest.update(reperage_pronoms(VIKIBEST))
-res_vikibest.update(reperage_pronoms(VIKIBEST))
-print()
-res_vikibest.update(reperage_verbeconj_prorel_sub(VIKIBEST))
-print()
-res_vikibest.update(reperage_tps(VIKIBEST))
-print()
+all_res['Litérature Enfant'] = indices(title='Litérature Enfant',
+                                       path='litEnfant.zip',
+                                       url='https://github.com/m2litl2019/Projet-conception-Vikidia/tree/master/base/litEnfant.tal')
 
-res_vikibest.update(reperage_connecteurs(VIKIBEST))
-print()
-res_vikibest.update(reperage_definition(VIKIBEST))
-print()
+all_res['EMA'] = indices(title='EMA',
+        path='ema.tal',
+        url='https://github.com/m2litl2019/Projet-conception-Vikidia/blob/master/base/ema.tal')
 
-vikisimply= 'VikiSimply-tal'
-res_vikisimply = {
-    'GEN_TITLE' : 'VikiSimply',
-    'GEN_URL' : 'https://github.com/m2litl2019/Projet-conception-Vikidia/blob/master/base/VikiSimply-tal',
-    'GEN_DATE' : str(datetime.datetime.now())
-}
-lemmas = extract_lemmas(vikisimply)
-print('== VIKIDIA "à simplifier" ==')
-print()
-res_vikisimply.update(reperage_passive(vikisimply))
-print()
-res_vikisimply.update(reperage_pronoms(vikisimply))
-print()
-res_vikisimply.update(reperage_verbeconj_prorel_sub(vikisimply))
-print()
-res_vikisimply.update(reperage_tps(vikisimply))
-print()
-res_vikisimply.update(reperage_connecteurs(vikisimply))
-print()
-res_vikisimply.update(reperage_definition(vikisimply))
-print()
+#all_res['Vikidia'] = indices(title='Vikidia',
+#              path='Vikidia-TAL',
+#              url='')
 
-LITENF = 'litEnfant.bin'
-res_litenf = {
-    'GEN_TITLE' : 'LitEnfant',
-    'GEN_URL' : 'https://github.com/m2litl2019/Projet-conception-Vikidia/tree/master/base/litEnfant.tal',
-    'GEN_DATE' : str(datetime.datetime.now())
-}
-lemmas = extract_lemmas(LITENF)
-print('== Corpus littéraire 6eme / 5eme ==')
-print()
-res_litenf.update(reperage_passive(LITENF))
-print()
-res_litenf.update(reperage_pronoms(LITENF))
-res_litenf.update(reperage_pronoms(LITENF))
-print()
-res_litenf.update(reperage_verbeconj_prorel_sub(LITENF))
-print()
-res_litenf.update(reperage_tps(LITENF))
-print()
+#all_res['Wikipedia'] = indices(title='Wikipedia',
+#              path='Wikipedia-tal',
+#              url='')
 
-res_litenf.update(reperage_connecteurs(LITENF))
-print()
-res_litenf.update(reperage_definition(LITENF))
-print()
+#all_res['ortho-tal'] = indices(title='Ortho corpus',
+#                               path='ortho-tal',
+#                               url='')
 
-MONDEDIPLO = 'md_fr.bin'
-res_md = {
-    'GEN_TITLE' : 'Monde diplomatique',
-    'GEN_URL' : 'https://github.com/m2litl2019/Projet-conception-Vikidia/tree/master/base/md_fr.tal',
-    'GEN_DATE' : str(datetime.datetime.now())
-}
-lemmas = extract_lemmas(MONDEDIPLO)
-print('== Corpus du Monde Diplomatique ==')
-print()
-res_md.update(reperage_passive(MONDEDIPLO))
-print()
-res_md.update(reperage_pronoms(MONDEDIPLO))
-res_md.update(reperage_pronoms(MONDEDIPLO))
-print()
-res_md.update(reperage_verbeconj_prorel_sub(MONDEDIPLO))
-print()
-res_md.update(reperage_tps(MONDEDIPLO))
-print()
-print()
-res_md.update(reperage_connecteurs(MONDEDIPLO))
-print()
-res_md.update(reperage_definition(MONDEDIPLO))
-res_md.update(compare_Manulex(lemmas))
-print()
-res_md.update(compute_polysemy_index(lemmas))
-print()
+all_res['Maupassant'] = indices(title='Maupassant',
+                                path='maupassant12.bin',
+                                url='https://github.com/m2litl2019/Projet-conception-Vikidia/blob/master/base/maupassant12.bin')
+
+all_res['Vikibest'] = indices(title='Vikibest',
+                              path='vikibest',
+                              url='https://github.com/m2litl2019/Projet-conception-Vikidia/tree/master/base/vikibest')
+
+all_res['Vikidia "à simplifier"'] = indices(title='Vikidia "à simplifier"',
+                                            path='VikiSimply-tal',
+                                            url='https://github.com/m2litl2019/Projet-conception-Vikidia/blob/master/base/VikiSimply-tal')
+
+#all_res['Monde Diplomatique'] = indices(title='Monde Diplomatique',
+#                                        path='md_fr.bin',
+#                                        url='https://github.com/m2litl2019/Projet-conception-Vikidia/tree/master/base/md_fr.tal')
+
+# Output
+#--------
 
 p = Presentation('templates/maquette2.html')
-p.populate(res_litenf, 0, name='Litérature Enfant')
-p.populate(res_ema, 1, name='EMA')
-p.populate(res_maupa, 2, name='Maupassant')
-p.populate(res_vikibest, 3, name='Vikibest')
-p.populate(res_md, 4, name='Monde Diplomatique')
-p.populate(res_vikisimply, 5, name='Vikidia "à simplifier"')
-p.populate(res_ORTHO, 6, name='Ortho corpus')
-p.populate(res_Wikipedia, 7, name='Wikipédia')
-p.populate(res_Vikidia, 8, name='Vikidia')
+nb = 0
+for k, res in all_res.items():
+    p.populate(res, nb, name=res['GEN_TITLE'])
+    nb += 1
 p.ouput_all('results/multitests')

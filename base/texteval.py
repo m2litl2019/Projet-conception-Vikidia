@@ -16,6 +16,7 @@ import pickle
 from socket import socket, AF_INET, SOCK_STREAM
 import os
 import os.path
+import zipfile
 
 #-----------------------------------------------------------
 # Connexion to an instance of Talismane
@@ -508,6 +509,10 @@ def load(filename, automerge=True,tag=None):
         return process_file(filename,encoding="utf8",Tag=tag)
     elif filename.endswith('.bin'):
         return load_bin(filename)
+    elif filename.endswith('.zip'):
+        archive = zipfile.ZipFile(filename, 'r')
+        content = archive.open(filename.replace('.zip', '.tal'), mode='r').read().decode('utf8').split('\n')
+        return process_multilines(content)
     elif os.path.isdir(filename):
         parts = []
         for f in os.listdir(filename):

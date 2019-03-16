@@ -1,6 +1,6 @@
 from texteval import load, Part
 
-def reperage_tps(target):
+def reperage_tps(target, debug=False):
     if isinstance(target, Part):
         data = target
     else:

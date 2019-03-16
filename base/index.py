@@ -1,11 +1,18 @@
+#-----------------------------------------------------------
+# Imports
+#-----------------------------------------------------------
+
+# Base
 import cgi 
 import datetime
 import copy
 
+# Project global
 from scrappingWikiViki import process_target
 from presentation import Presentation
 from texteval import Part, Sentence, send
 
+# Project indices
 from reperage_passive import reperage_passive
 from reperage_pronoms import reperage_pronoms
 from reperage_verbeconj_prorel_sub import reperage_verbeconj_prorel_sub
@@ -13,6 +20,10 @@ from reperage_tpsV import reperage_tps
 from indices_html import reperage_images_liens_viki, reperage_ponctuation
 from reperage_def_con import reperage_connecteurs_flesch, reperage_definition
 from lexique import extract_lemmas, compare_Manulex, compute_polysemy_index
+
+#-----------------------------------------------------------
+# Main
+#-----------------------------------------------------------
 
 form = cgi.FieldStorage()
 print("Content-type: text/html; charset=iso-8859-1\n")
