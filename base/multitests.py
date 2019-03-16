@@ -107,7 +107,7 @@ def indices(title, path, url, debug=False):
 
 all_res = {}
 
-all_res['Litérature Enfant'] = indices(title='Litérature Enfant',
+all_res['Littérature Enfant'] = indices(title='Littérature Enfant',
                                        path='litEnfant.zip',
                                        url='https://github.com/m2litl2019/Projet-conception-Vikidia/tree/master/base/litEnfant.tal')
 
